@@ -52,21 +52,16 @@ Sanctionnée sur le 24 décembre 2001
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***demandeur*** Personne morale, organisation ou fiducie qui demande au ministre du Revenu national le statut d’organisme de bienfaisance enregistré.
+***demandeur*** Personne morale, organisation ou fiducie qui demande au ministre du Revenu national le statut d’organisme de bienfaisance enregistré.  (*applicant*)
 
+***juge*** Le juge en chef de la Cour fédérale ou le juge de ce tribunal désigné par le juge en chef. (*judge*)
 
-***juge*** Le juge en chef de la Cour fédérale ou le juge de ce tribunal désigné par le juge en chef.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***ministre*** Le solliciteur général du Canada.
+***organisme de bienfaisance enregistré*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).  (*registered charity*)
 
-
-***organisme de bienfaisance enregistré*** S’entend au sens du paragraphe 248(1) de la 
-[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-
-
-***renseignements*** Les renseignements en matière de sécurité ou de criminalité et ceux obtenus, sous le sceau du secret, de source canadienne ou du gouvernement d’un État étranger, d’une organisation internationale mise sur pied par des États ou d’un de leurs organismes.
-
-> 2001, ch. 41, art. 113 « 3 », 125 et 142.
+***renseignements*** Les renseignements en matière de sécurité ou de criminalité et ceux obtenus, sous le sceau du secret, de source canadienne ou du gouvernement d’un État étranger, d’une organisation internationale mise sur pied par des États ou d’un de leurs organismes.  (*information*)
+> 2001, ch. 41, art. 113 « 3 », 125 et 142; 2005, ch. 10, art. 34.
 
 
 
