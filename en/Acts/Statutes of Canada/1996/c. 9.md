@@ -85,7 +85,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(f)** generate revenues through the provision of goods or services;
 - **(g)** expend during a fiscal year any money provided by Parliament or received from other sources in that year through the conduct of its operations, subject to any terms on which the money was provided or received; and
 - **(h)** do all such things as are conducive to the furtherance of its purpose.
-> 1996, c. 9, s. 4; 2001, c. 4, s. 98(F).
+> 1996, c. 9, s. 4; 2001, c. 4, s. 98(F); 2004, c. 25, s. 143(F).
 
 
 
