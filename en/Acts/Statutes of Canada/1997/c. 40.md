@@ -51,6 +51,15 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province; and
 - **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice.
 
+***designated security*** means
+- **(a)** an obligation
+	- **(i)** that, before April 1, 1998, was held to the credit of the Canada Pension Plan Investment Fund, as established under subsection 109(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md),
+	- **(ii)** that, as applied to Canada, is an obligation of the Government of Canada and, as applied to a province, is an obligation of the government of the province or an obligation of any agent of Her Majesty in right of the province that is guaranteed as to principal and interest by that government, and
+	- **(iii)** that complies with the conditions that were set out in section 111 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) as that section read immediately before April 1, 1998; or
+- **(b)** an obligation that
+	- **(i)** is, on or after April 1, 1998, purchased by the Minister of Finance under section 110 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and
+	- **(ii)** is an obligation of the government of a province or an obligation of any agent of Her Majesty in right of a province that is guaranteed as to principal and interest by that government.
+
 ***entity*** means a body corporate, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or an agency of Her Majesty in right of Canada or of a province and the government of a foreign country or any political subdivision or agency of the government of a foreign country.
 
 ***Minister*** means the Minister of Finance.
@@ -60,7 +69,7 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(b)** a province providing a comprehensive pension plan as defined in subsection 3(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
 
 ***subsidiary*** means a corporation that is wholly owned by the Board directly or indirectly through any number of subsidiaries each of which is wholly owned directly or indirectly by the Board.
-> 1997, c. 40, s. 2; 1999, c. 3, s. 19; 2002, c. 7, s. 112(E).
+> 1997, c. 40, s. 2; 1999, c. 3, s. 19; 2002, c. 7, s. 112(E); 2003, c. 5, s. 12.
 
 
 
@@ -119,8 +128,11 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 **Objects**
 
 **5** The objects of the Board are
-- **(a)** to manage any amounts that are transferred to it under section 111 of the *Canada Pension Plan *in the best interests of the contributors and beneficiaries under that Act; and
-- **(b)** to invest its assets with a view to achieving a maximum rate of return, without undue risk of loss, having regard to the factors that may affect the funding of the Canada Pension Plan and the ability of the Canada Pension Plan to meet its financial obligations.
+- **(a)** to assist the Canada Pension Plan in meeting its obligations to contributors and beneficiaries under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
+- **(b)** to manage any amounts transferred to it under section 108.1 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and its right, title or interest in any designated securities, in the best interests of the contributors and beneficiaries under that Act; and
+- **(c)** to invest its assets with a view to achieving a maximum rate of return, without undue risk of loss, having regard to the factors that may affect the funding of the Canada Pension Plan and the ability of the Canada Pension Plan to meet its financial obligations on any given business day.
+> 1997, c. 40, s. 5; 2003, c. 5, s. 13.
+
 
 
 
@@ -692,7 +704,11 @@ except where the person has knowledge that the facts asserted are true.
 
 **[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
 
-**37** The Board and its subsidiaries shall invest their assets in such a way that tax would not be payable by them under subsection 206(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if Part XI of that Act applied to them.
+**37** The Board and its subsidiaries shall invest their assets in such a way that tax would not be payable by the Board under subsection 206(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if
+- **(a)** Part XI of that Act applied to the Board; and
+- **(b)** each subsidiary were a corporation that had made a valid election under section 259 of that Act.
+> 1997, c. 40, s. 37; 2003, c. 5, s. 15.
+
 
 
 
@@ -1014,7 +1030,15 @@ except where the person has knowledge that the facts asserted are true.
 
 **Statements to go to Ministers**
 
-**50** The Board shall send copies of the quarterly financial statements prepared in accordance with subsection 39(6) to the Minister and the appropriate provincial Ministers within 45 days after the end of the three month period to which it relates.
+**50** 
+
+- **(1)** The Board shall send copies of the financial statements for the first, second and third quarters of the financial year, prepared in accordance with subsection 39(6), to the Minister and the appropriate provincial Ministers within 45 days after the end of the three-month period to which they relate.
+
+**Statements to be made public**
+
+- **(2)** Within seven days after the financial statements are sent as required under subsection (1), the Board shall make the statements available to the public.
+> 1997, c. 40, s. 50; 2003, c. 5, s. 16.
+
 
 
 
@@ -1027,7 +1051,7 @@ except where the person has knowledge that the facts asserted are true.
 
 **51** 
 
-- **(1)** The Board shall as soon as possible, but in any case within 90 days, after the end of each financial year provide the Minister and the appropriate provincial Ministers with an annual report on the operations of the Board in that year and the Board shall make copies of the report available to the public.
+- **(1)** The Board shall as soon as possible, but in any case within 60 days, after the end of each financial year provide the Minister and the appropriate provincial Ministers with an annual report on the operations of the Board in that year and the Board shall make copies of the report available to the public.
 
 **Tabling in Parliament**
 
@@ -1043,6 +1067,8 @@ except where the person has knowledge that the facts asserted are true.
 	- **(e)** a statement of the Board’s objectives for the next year and for the foreseeable future;
 	- **(f)** a statement of the Board’s investment policies, standards and procedures; and
 	- **(g)** such other information as is required by the regulations.
+> 1997, c. 40, s. 51; 2003, c. 5, s. 17.
+
 
 
 
@@ -1126,9 +1152,11 @@ except where the person has knowledge that the facts asserted are true.
 
 
 
-**Minister may require transfers**
+**Duty of Board**
 
-**56** The Minister may, on giving the Board 30 days notice in writing, require a transfer of an amount from the Board to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) if the Minister considers that the transfer is necessary to meet any payment that is required to be made under subsection 108(3) of that Act.
+**56** The Board shall pay into the Consolidated Revenue Fund, for credit to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), any amount required under subsection 108.1(2) or 113(1.1) of that Act.
+> 1997, c. 40, s. 56; 2003, c. 5, s. 18.
+
 
 
 
