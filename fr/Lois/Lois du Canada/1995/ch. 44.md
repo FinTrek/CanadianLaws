@@ -962,12 +962,14 @@ La présente définition vise également les personnes dont les limitations fonc
 **Exigences**
 
 - **(6)** Les règlements visés au paragraphe (5) sont pris sur la recommandation du Conseil du Trésor, celle-ci ne pouvant être faite qu’après consultation :
-	- **a)** du solliciteur général, dans le cas de la Gendarmerie royale du Canada ou du Service canadien du renseignement de sécurité;
+	- **a)** du ministre de la Sécurité publique et de la Protection civile, dans le cas de la Gendarmerie royale du Canada ou du Service canadien du renseignement de sécurité;
 	- **b)** du ministre de la Défense nationale, dans le cas des Forces canadiennes.
 
 **Application**
 
 - **(7)** Les conséquences juridiques des règlements pris en vertu du paragraphe (5) à l’égard de toute question en particulier peuvent être différentes de celles de la présente loi ou des règlements concernant cette question.
+> 1995, ch. 44, art. 41; 2005, ch. 10, art. 34.
+
 
 
 
