@@ -121,7 +121,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dépôt et renvoi des projets de règlement**
 
-- **(2)** Le ministre fait déposer tout projet de règlement pris en vertu des articles 17, 32, 53, 61, 102, 116 et 150 devant chaque chambre du Parlement et la chambre renvoie ce projet de règlement à son comité compétent.
+- **(2)** Le ministre fait déposer tout projet de règlement pris au titre des articles 17, 32, 53, 61, 102, 116, 150 et 150.1 devant chaque chambre du Parlement; celle-ci renvoie le projet à son comité compétent.
 
 **Modification du projet de règlement**
 
@@ -130,6 +130,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise du règlement**
 
 - **(4)** Le gouverneur en conseil peut prendre le règlement après le dépôt du projet de règlement devant chaque chambre du Parlement.
+> 2001, ch. 27, art. 5; 2004, ch. 15, art. 70.
+
 
 
 
@@ -2428,9 +2430,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Utilisation des renseignements**
 
-**149** Les dispositions suivantes s’appliquent à l’alinéa 148(1)d) :
-- **a)** les renseignements ne peuvent être utilisés que dans l’application de la présente loi ou en vue d’identifier l’individu sous le coup d’un mandat d’arrestation délivré au Canada;
+**149** Les dispositions suivantes s’appliquent à l’alinéa 148(1)d) :
+- **a)** les renseignements ne peuvent être utilisés que dans l’application de la présente loi ou de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou en vue d’identifier l’individu sous le coup d’un mandat d’arrestation délivré au Canada;
 - **b)** l’utilisation doit être notifiée à l’intéressé.
+> 2001, ch. 27, art. 149; 2004, ch. 15, art. 71.
+
 
 
 
@@ -2442,6 +2446,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les frais auxquels ils sont tenus;
 - **c)** les suites à donner aux saisies de véhicules ou d’installations;
 - **d)** la procédure de recouvrement du véhicule ou de l’installation par son véritable propriétaire ou exploitant.
+
+
+
+
+### Communication de renseignements
+
+
+
+**Règlements**
+
+**150.1** 
+
+- **(1)** Les règlements régissent :
+	- **a)** la collecte, la conservation, le retrait et la communication de renseignements pour l'application de la présente loi;
+	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d'accords ou d'ententes conclus au titre de l'article 5 de la Loi sur le ministère de la Citoyenneté et de l'Immigration —, la communication de renseignements.
+
+**Conditions**
+
+- **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, le retrait et la communication de renseignements.
+> 2004, ch. 15, art. 72.
+
 
 
 
