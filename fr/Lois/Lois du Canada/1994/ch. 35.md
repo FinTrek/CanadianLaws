@@ -491,18 +491,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publicité**
 
-**25** Le ministre fait déposer une copie — certifiée par lui conforme à l’original — de chaque accord auquel il a été donné effet ainsi que de toute modification qui lui est apportée :
-- **a)
-** aux Archives nationales du Canada;
-- **b)
-** à la bibliothèque de son ministère située dans la région de la capitale nationale;
-- **c)
-** aux bureaux régionaux de ce ministère situés au Yukon, selon que le ministre l'estime opportun;
-- **d)
-** au recueil commun des textes législatifs des premières nations créé par l’article 10, s’il y a lieu;
-- **e)
-** en tout autre lieu qu’il estime opportun.
-> 1994, ch. 35, art. 25; 2002, ch. 7, art. 267.
+**25** Le ministre fait déposer une copie — certifiée par lui conforme à l’original — de chaque accord auquel il a été donné effet ainsi que de toute modification qui lui est apportée :
+- **a)** à Bibliothèque et Archives du Canada;
+- **b)** à la bibliothèque de son ministère située dans la région de la capitale nationale;
+- **c)** aux bureaux régionaux de ce ministère situés au Yukon, selon que le ministre l’estime opportun;
+- **d)** au recueil commun des textes législatifs des premières nations créé par l’article 10, s’il y a lieu;
+- **e)** en tout autre lieu qu’il estime opportun.
+> 1994, ch. 35, art. 25; 2002, ch. 7, art. 267; 2004, ch. 11, art. 51.
 
 
 
