@@ -13085,34 +13085,42 @@ Info-direct<sup>TM</sup> for Alberta
 ## List of Electoral Districts
 *Province of Ontario*
 
-Algoma-Manitoulin
+Algoma—Manitoulin—Kapuskasing
 
 
 
-Kenora-Rainy River
+Kenora
 
 
 
-Thunder Bay-Superior North
+Nickel Belt
 
 
 
-Timiskaming-Cochrane
+Thunder Bay—Rainy River
 
 
 
-Timmins-James Bay
+Thunder Bay—Superior North
+
+
+
+Timmins—James Bay
 
 
 
 
 *Province of Quebec*
 
-Abitibi — Baie-James — Nunavik
+Abitibi—Témiscamingue
 
 
 
 Manicouagan
+
+
+
+Nunavik—Eeyou
 
 
 
@@ -13123,22 +13131,30 @@ Churchill
 
 
 
+Dauphin—Swan River
+
+
+
 
 *Province of British Columbia*
 
-Cariboo-Chilcotin
+Cariboo—Prince George
 
 
 
-Prince George-Bulkley Valley
+Chilliwack—Fraser Canyon
 
 
 
-Prince George-Peace River
+Kamloops—Thompson
 
 
 
-Skeena
+Prince George—Peace River
+
+
+
+Skeena—Bulkley Valley
 
 
 
@@ -13146,10 +13162,34 @@ Vancouver Island North
 
 
 
+West Vancouver—Sunshine Coast
+
+
+
 
 *Province of Saskatchewan*
 
+Battlefords—Lloydminster
+
+
+
 Churchill River
+
+
+
+Prince Albert
+
+
+
+Saskatoon—Humboldt
+
+
+
+Saskatoon—Wanuskewin
+
+
+
+Yorkton—Melville
 
 
 
@@ -13160,7 +13200,23 @@ Athabasca
 
 
 
+Lethbridge
+
+
+
 Peace River
+
+
+
+Westlock—St. Paul
+
+
+
+Wetaskiwin
+
+
+
+Wild Rose
 
 
 
@@ -13169,25 +13225,25 @@ Yellowhead
 
 
 
-*Province of Newfoundland*
+*Province of Newfoundland and Labrador*
 
-Bonavista-Trinity-Conception
-
-
-
-Burin-St. George’s
+Avalon
 
 
 
-Gander-Grand Falls
+Bonavista—Exploits
 
 
 
-Humber-St. Barbe-Baie Verte
+Humber—St. Barbe—Baie Verte
 
 
 
 Labrador
+
+
+
+Random—Burin—St. George’s
 
 
 
@@ -13213,6 +13269,6 @@ Nunavut
 
 
 
-> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95.
+> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95; Canada Gazette Part I, Extra Volume 138, No. 5.
 
 
