@@ -195,9 +195,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Employees excluded**
 
 - **(3)** This Part does not apply, in respect of work undertaken in the course of employment, to
-	- **(a)** employees, within the meaning of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), including those determined to be employees by the Public Service Staff Relations Board, and members of a bargaining unit that is certified by that Board; or
+	- **(a)** employees, within the meaning of the Public Service Labour Relations Act, including those determined to be employees by the Public Service Labour Relations Board, and members of a bargaining unit that is certified by that Board; or
 	- **(b)** employees, within the meaning of Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), including those determined to be employees by the Canada Industrial Relations Board, and members of a bargaining unit that is certified by that Board.
-> 1992, c. 33, s. 9; 1998, c. 26, s. 83.
+> 1992, c. 33, s. 9; 1998, c. 26, s. 83; 2003, c. 22, s. 220(E).
 
 
 
@@ -278,7 +278,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Members deemed public servants**
 
-- **(2)** The full-time members of the Tribunal are deemed to be employed in the public service of Canada for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(2)** The full-time members of the Tribunal are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 1992, c. 33, s. 12; 2003, c. 22, s. 221(E).
+
 
 
 
@@ -321,7 +323,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Employees**
 
-**15** The employees that are necessary for the conduct of the Tribunal’s business shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), and are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+**15** The employees that are necessary for the conduct of the Tribunal’s business shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), and are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 1992, c. 33, s. 15; 2003, c. 22, s. 225(E).
+
 
 
 
@@ -1205,7 +1209,9 @@ is guilty of an offence and liable to a fine not exceeding four hundred dollars.
 
 **Remuneration and expenses**
 
-**63** Every person not employed in the public service of Canada who, at the request of the Minister, performs functions under this Part in any capacity, other than as an arbitrator or arbitration board chairperson, shall be paid the remuneration and expenses prescribed by regulation.
+**63** Every person not employed in the federal public administration who, at the request of the Minister, performs functions under this Part in any capacity, other than as an arbitrator or arbitration board chairperson, shall be paid the remuneration and expenses prescribed by regulation.
+> 1992, c. 33, s. 63; 2003, c. 22, s. 224(E).
+
 
 
 
