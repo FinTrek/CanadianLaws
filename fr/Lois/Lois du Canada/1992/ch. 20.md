@@ -58,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***libération d’office*** S’entend au sens de la partie II.
 
-***ministre*** Le solliciteur général du Canada.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile.
 
 ***objets interdits***
 - **a)** Substances intoxicantes;
@@ -88,7 +88,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34
 
 
 
@@ -3514,12 +3514,12 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 ***libération conditionnelle*** S’entend au sens de la partie II.
 
-***ministre*** Le solliciteur général du Canada.
+***ministre*** S’entend au sens de la partie I.
 
 ***pénitencier*** S’entend au sens de la partie I.
 
 ***surveillance de longue durée*** S’entend au sens de la partie I.
-> 1992, ch. 20, art. 157; 1997, ch. 17, art. 36
+> 1992, ch. 20, art. 157; 1997, ch. 17, art. 36; 2005, ch. 10, art. 17(F)
 
 
 
