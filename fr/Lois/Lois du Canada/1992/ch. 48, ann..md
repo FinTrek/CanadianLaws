@@ -227,8 +227,8 @@ Chacun de ces montants est rajusté et arrondi conformément aux paragraphes 122
 
 **Prestation de serments**
 
-- **(2)** Le ministre peut, dans le cadre de l’application de la présente loi ou des règlements, faire prêter les serments et recevoir les affidavits et les déclarations ou affirmations solennelles de tout agent d’un ministère ou d’un autre secteur de l’administration publique fédérale mentionné à l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) ou d’un ministère d’un gouvernement provincial habilité à recevoir les affidavits.
-> 1992, ch. 48, art. 23 (ann., art. 12); 1995, ch. 33, art. 48.
+- **(2)** Le ministre peut, dans le cadre de l’application de la présente loi ou des règlements, faire prêter les serments et recevoir les affidavits et les déclarations ou affirmations solennelles de tout agent d’un ministère ou d’un autre secteur de l’administration publique fédérale mentionné aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou d’un ministère d’un gouvernement provincial habilité à recevoir les affidavits.
+> 1992, ch. 48, art. 23 (ann., art. 12); 1995, ch. 33, art. 48; 2003, ch. 22, art. 148.
 
 
 
