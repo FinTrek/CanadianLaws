@@ -39,17 +39,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***autorité nationale*** Le secteur de l’administration publique fédérale désigné en application du paragraphe 3(1) comme autorité nationale pour le Canada.
+***autorité nationale*** Le secteur de l’administration publique fédérale désigné en application du paragraphe 3(1) comme autorité nationale pour le Canada. (*National Authority*)
 
-***Convention*** La Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction, signée à Paris (France) le 13 janvier 1993 et dont des extraits sont reproduits à l’annexe, ainsi que ses amendements éventuels apportés au titre de son article XV.
+***Convention*** La Convention sur l’interdiction de la mise au point, de la fabrication, du stockage et de l’emploi des armes chimiques et sur leur destruction, signée à Paris (France) le 13 janvier 1993 et dont des extraits sont reproduits à l’annexe, ainsi que ses amendements éventuels apportés au titre de son article XV. (*Convention*)
 
-***inspecteur international*** Titulaire d’un certificat délivré par le ministre en application de l’article 12.
+***inspecteur international*** Titulaire d’un certificat délivré par le ministre en application de l’article 12. (*international inspector*)
 
-***lieu*** Est assimilé à un lieu tout moyen de transport.
+***lieu*** Est assimilé à un lieu tout moyen de transport. (*place*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***représentant de l’autorité nationale*** Personne désignée en application du paragraphe 3(2).
+***représentant de l’autorité nationale*** Personne désignée en application du paragraphe 3(2). (*representative of the National Authority*)
 
 **Terminologie**
 
@@ -58,6 +58,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 - **(3)** Les dispositions de la Convention l’emportent sur les dispositions incompatibles de celle-ci reproduites à l’annexe.
+> 1995, ch. 25, art. 2; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -85,6 +87,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présentation du certificat**
 
 - **(4)** Le titulaire présente, sur demande, son certificat au responsable du lieu à inspecter au titre de la présente loi.
+> 1995, ch. 25, art. 3; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -173,6 +177,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **11** Quiconque accomplit un acte en vertu d’une autorisation visée à l’article 8, fabrique, possède, consomme, exporte ou importe des produits chimiques toxiques ou précurseurs figurant au tableau 2 des Tableaux de produits chimiques de l’Annexe sur les produits chimiques de la Convention, fabrique, exporte ou importe des produits chimiques toxiques ou précurseurs figurant au tableau 3 de cette annexe, fabrique des produits chimiques organiques définis ou détient à des fins de lutte antiémeute des agents de lutte antiémeute est tenu de :
 - **a)** fournir à l’autorité nationale, ou à tout autre secteur de l’administration publique fédérale que le ministre désigne par arrêté, les renseignements réglementaires, selon les modalités de temps et de forme prévues par règlement;
 - **b)** tenir et conserver au Canada, dans son établissement ou dans tout autre lieu désigné par le ministre, selon les modalités et pendant le délai réglementaires, les documents réglementaires, et, sur demande du ministre ou de l’autorité nationale, les fournir à celle-ci.
+> 1995, ch. 25, art. 11; 2003, ch. 22, art. 224(A).
+
 
 
 
