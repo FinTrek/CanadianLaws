@@ -62,7 +62,7 @@
 **Constitution of Tribunal**
 
 - **(2)** The Tribunal shall consist of
-	- **(a)** not more than six members to be appointed from among the judges of the Federal Court — Trial Division by the Governor in Council on the recommendation of the Minister of Justice; and
+	- **(a)** not more than six members to be appointed from among the judges of the Federal Court by the Governor in Council on the recommendation of the Minister of Justice; and
 	- **(b)** not more than eight other members to be appointed by the Governor in Council on the recommendation of the Minister.
 
 **Advisory council**
@@ -72,7 +72,7 @@
 **Consultation**
 
 - **(4)** The Minister shall consult with any advisory council established under subsection (3) before making a recommendation with respect to the appointment of a lay member.
-> R.S., 1985, c. 19 (2nd Supp.), s. 3; 2002, c. 16, s. 16.
+> R.S., 1985, c. 19 (2nd Supp.), s. 3; 2002, c. 8, ss. 183, 198, c. 16, s. 16.
 
 
 
@@ -296,11 +296,13 @@
 
 **13** 
 
-- **(1)** Subject to subsection (2), an appeal lies to the Federal Court of Appeal from any decision or order, whether final, interlocutory or interim, of the Tribunal as if it were a judgment of the Federal Court — Trial Division.
+- **(1)** Subject to subsection (2), an appeal lies to the Federal Court of Appeal from any decision or order, whether final, interlocutory or interim, of the Tribunal as if it were a judgment of the Federal Court.
 
 **Questions of fact**
 
 - **(2)** An appeal on a question of fact lies under subsection (1) only with the leave of the Federal Court of Appeal.
+> R.S., 1985, c. 19 (2nd Supp.), s. 13; 2002, c. 8, s. 130.
+
 
 
 
