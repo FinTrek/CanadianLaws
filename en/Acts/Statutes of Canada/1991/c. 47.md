@@ -18347,7 +18347,7 @@ are jointly and severally liable to restore to the insurance holding company any
 - **(2)** A director is not liable under subsection (1) unless
 	- **(a)** the insurance holding company has been sued for the debt within six months after it has become due and execution has been returned unsatisfied in whole or in part;
 	- **(b)** the insurance holding company has commenced liquidation and dissolution proceedings or has been dissolved and a claim for the debt has been proven within six months after the earlier of the date of commencement of the liquidation and dissolution proceedings and the date of dissolution; or
-	- **(c)** the insurance holding company has made an assignment or a receiving order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt has been proven within six months after the date of the assignment or receiving order.
+	- **(c)** the insurance holding company has made an assignment or a bankruptcy order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt has been proven within six months after the date of the assignment or bankruptcy order.
 
 **Limitations**
 
@@ -18364,7 +18364,7 @@ are jointly and severally liable to restore to the insurance holding company any
 **Contribution entitlement**
 
 - **(6)** A director of an insurance holding company who has satisfied a claim under this section is entitled to a contribution from the other directors of the insurance holding company who are liable for the claim.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2004, c. 25, s. 203.
 
 
 
