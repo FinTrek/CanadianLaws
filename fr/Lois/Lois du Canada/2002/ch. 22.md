@@ -3249,7 +3249,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Appel**
 
-- **(6)** Dans le cas où la Cour de l’impôt statue sur une question soumise dans une demande dont elle a été saisie, le ministre ou l’une des personnes à qui une copie de la demande a été signifiée et qui est nommée dans une ordonnance de la Cour peut interjeter appel de la décision conformément aux dispositions de la présente loi, de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md) ou de la Loi sur la Cour fédérale concernant les appels de décisions de la Cour de l’impôt et les demandes de contrôle judiciaire de ces décisions.
+- **(6)** Dans le cas où la Cour de l’impôt statue sur une question soumise dans une demande dont elle a été saisie, le ministre ou l’une des personnes à qui une copie de la demande a été signifiée et qui est nommée dans une ordonnance de la Cour peut interjeter appel de la décision conformément aux dispositions de la présente loi, de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md) ou de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) concernant les appels de décisions de la Cour de l’impôt et les demandes de contrôle judiciaire de ces décisions.
 
 **Parties à un appel**
 
@@ -3267,6 +3267,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(9)** Est exclue du calcul des délais visés aux alinéas (8)a) à c) la période comprise entre la date à laquelle une demande présentée aux termes du présent article est signifiée à une personne en application du paragraphe (3) et la date applicable suivante :
 	- **a)** dans le cas d’une personne nommée dans une ordonnance rendue par la Cour de l’impôt en application du paragraphe (4), la date où la décision devient définitive et sans appel;
 	- **b)** dans le cas d’une autre personne, la date où il lui est signifié un avis portant qu’elle n’a pas été nommée dans une telle ordonnance.
+> 2002, ch. 22, art. 205 et 410.
+
 
 
 
@@ -4562,7 +4564,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Action ordinaire**
 
-- **(2)** La Loi sur la Cour fédérale et les règles prises en vertu de celle-ci qui sont applicables aux actions ordinaires s’appliquent aux actions intentées en vertu du paragraphe (1), sous réserve des adaptations occasionnées par les règles particulières à ces actions.
+- **(2)** La [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et les règles prises en vertu de celle-ci qui sont applicables aux actions ordinaires s’appliquent aux actions intentées en vertu du paragraphe (1), sous réserve des adaptations occasionnées par les règles particulières à ces actions.
+> 2002, ch. 22, art. 276 et 410.
+
 
 
 
