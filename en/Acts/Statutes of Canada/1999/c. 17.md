@@ -39,15 +39,29 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Agency*** means the Canada Customs and Revenue Agency established by subsection 4(1).
 
+
 ***Board*** means the Board of Management of the Agency established by section 14.
+
 
 ***Commissioner*** means the Commissioner of Customs and Revenue appointed under section 25.
 
+
 ***Minister*** means the Minister of National Revenue, appointed to serve at pleasure by commission under the Great Seal.
 
+
 ***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument
-- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md); or
+
+- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the 
+[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the 
+*Customs Tariff*, the 
+[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the 
+[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the 
+[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the 
+[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md); or
 - **(b)** under which the Minister or another minister authorizes the Agency, the Commissioner or an employee of the Agency to administer a program or carry out an activity.
+> 1999, c. 17, s. 2; 2002, c. 22, s. 322.
+
 
 
 
@@ -125,7 +139,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Designation of officers**
 
-**7** The Minister may designate any person, or person within a class of persons, as an officer as defined in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or in section 2 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) to exercise any powers or perform any duties and functions of an officer under those Acts that the Minister may specify.
+**7** The Minister may designate any person, or person within a class of persons, as an officer as defined in subsection 2(1) of the 
+[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), section 2 of the 
+[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or section 2 of the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) to exercise any powers or perform any duties and functions of an officer under those Acts that the Minister may specify.
+> 1999, c. 17, s. 7; 2002, c. 22, s. 323.
+
 
 
 
