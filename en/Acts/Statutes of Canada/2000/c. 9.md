@@ -8357,6 +8357,21 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 
 
+**Quarterly returns**
+
+**424.1** 
+
+- **(1)** The chief agent of a registered party that is entitled under subsection 435.01(1) to a quarterly allowance shall, for each quarter of the fiscal period of the party, provide the Chief Electoral Officer with a return that includes the information required under paragraphs 424(2)(a) to (c), (h.2) and (k).
+
+**Period for providing return**
+
+- **(2)** A quarterly return shall be provided within 30 days after the end of the period to which it relates.
+> 2003, c. 19, s. 34.1.
+
+
+
+
+
 **When contributions forwarded to Receiver General**
 
 **425** A registered agent of a registered party shall, without delay, pay an amount of money equal to the value of a contribution received by the registered party, to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $25, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
