@@ -647,6 +647,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#P-13.4_s40'>[*]</a></sup>**40** The provisions of this Act, other than section 38, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-13.4_s40'><sup>*</sup></a>: [Note: Section 38 in force on assent March 19, 2003.]<br />
+<a name='P-13.4_s40'><sup>*</sup></a>: [Note: Section 38 in force on assent March 19, 2003; sections 1 to 37 and 39 in force June 15, 2003, *see* SI/2003-129.]<br />
 
 
