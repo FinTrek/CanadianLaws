@@ -187,6 +187,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** Part 6 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='A-11.7_en_5'><sup>*</sup></a>: [Note: Sections 1, 24, 25, 47, 48, 76 to 86 and 119 to 145 in force on assent December 18, 2001; sections 2 to 23.1, 26 to 46, 49 to 51, 53, 65 and 66, subsections 67(1) and (4) to (9), sections 68 to 73, 75 and 87 to 118 in force December 24, 2001, *see* SI/2002-16; section 52, subsections 67(2) and (3) and section 74 in force June 12, 2002, *see* SI/2002-86.]<br />
+<a name='A-11.7_en_5'><sup>*</sup></a>: [Note: Sections 1, 24, 25, 47, 48, 76 to 86 and 119 to 145 in force on assent December 18, 2001; sections 2 to 23.1, 26 to 46, 49 to 51, 53, 65 and 66, subsections 67(1) and (4) to (9), sections 68 to 73, 75 and 87 to 118 in force December 24, 2001, *see* SI/2002-16; section 52, subsections 67(2) and (3) and section 74 in force June 12, 2002, *see* SI/2002-86; sections 54 to 57, 58, 59 to 64 in force January 6, 2003, *see* SI/2002-164.]<br />
 
 
