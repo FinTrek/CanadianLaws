@@ -44,10 +44,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***conseil*** Le conseil de direction de l’Agence, constitué par l’article 14.
 
 ***législation fiscale et douanière*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application :
-- **a)** dont le ministre, l’Agence, le commissaire ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l’application, notamment la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
+- **a)** dont le ministre, l'Agence, le commissaire ou un employé de l'Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l'application, notamment la 
+Loi sur l'accise, la 
+Loi de 2001 sur l'accise, la 
+[Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la 
+Loi de l'impôt sur le revenu, la 
+Loi sur les mesures spéciales d'importation, le 
+*Tarif des douanes* et la Loi sur la taxe d'accise;
 - **b)** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le commissaire ou un employé de l’Agence à appliquer un programme ou à exercer une activité.
 
 ***ministre*** Le ministre du Revenu national, nommé à titre amovible par commission sous le grand sceau.
+> 1999, ch. 17, art. 2; 2002, ch. 22, art. 322.
+
 
 
 
@@ -125,7 +133,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Désignation par le ministre**
 
-**7** Le ministre peut désigner toute personne, nommément ou par catégorie, comme agent au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou comme préposé au sens de l’article 2 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) en vue de l’exercice des attributions de ces postes que peut préciser le ministre.
+**7** Le ministre peut désigner toute personne, nommément ou par catégorie, comme agent au sens du paragraphe 2(1) de la 
+[Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou comme préposé au sens de l'article 2 de la 
+Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'exercice des attributions de ces postes que peut préciser le ministre.
+> 1999, ch. 17, art. 7; 2002, ch. 22, art. 323.
+
 
 
 
