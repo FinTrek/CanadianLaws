@@ -118,6 +118,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inadmissibilité**
 
 - **(3)** Les personnes employées à temps plein dans l’administration publique fédérale ne peuvent être nommées administrateurs ou continuer de l’être.
+> 1991, ch. 6, art. 6; 2003, ch. 22, art. 224(A).
+
 
 
 
