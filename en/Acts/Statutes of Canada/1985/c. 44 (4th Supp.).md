@@ -109,6 +109,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(d)** members of the council of a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or of the council of an Indian band established by an Act of Parliament, persons on their staff or employees of such a council;
 	- **(d.1)** members of a governing body under the constitution of a first nation named in Schedule II to the [Yukon First Nations Self-Government Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md), persons on their staff or employees of such a governing body;
 	- **(d.2)** members of Nisga’a Government, as defined in the Nisga’a Final Agreement given effect by the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), persons on the staff of those members or employees of the Nisga’a Nation, a Nisga’a Village or a Nisga’a Institution, as defined in that Agreement;
+	- **(d.3)** members of the council, as defined in the Westbank First Nation Self-Government Agreement given effect by the [Westbank First Nation Self-Government Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2017.md), or persons on the staff of the council or of a member of the council;
 	- **(e)** diplomatic agents, consular officers or official representatives in Canada of a foreign government; or
 	- **(f)** officials of a specialized agency of the United Nations in Canada or officials of any other international organization to whom there are granted, by or under any Act of Parliament, privileges and immunities.
 
@@ -122,7 +123,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Idem**
 
 - **(3)** Nothing in this Act shall be construed as requiring the disclosure of the name or identity of any individual where that disclosure could reasonably be expected to threaten the safety of that individual.
-> R.S., 1985, c. 44 (4th Supp.), s. 4; 1994, c. 35, s. 36; 1995, c. 12, s. 2; 2000, c. 7, s. 24.
+> R.S., 1985, c. 44 (4th Supp.), s. 4; 1994, c. 35, s. 36; 1995, c. 12, s. 2; 2000, c. 7, s. 24; 2004, c. 17, s. 17.
 
 
 
