@@ -175,11 +175,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Powers, duties and functions**
+**Obligation to register**
 
 **11** 
 
-- **(1)** The Registrar General of Canada shall register all proclamations, commissions, letters patent, writs and other instruments and documents issued under the Great Seal and all leases, releases, deeds of sale, surrenders and other instruments requiring registration.
+- **(1)** The Registrar General of Canada shall register all documents issued under the Great Seal or requiring registration.
 
 **Deputy Registrars General**
 
@@ -187,8 +187,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Powers**
 
-- **(3)** A Deputy Registrar General may sign and certify the registration of all instruments and documents required to be registered and all copies of those instruments and documents or of any records in the custody of the Registrar General that are required to be certified or authenticated as being copies of any such instruments, documents or records.
-> 1995, c. 1, s. 11; 1999, c. 31, s. 72.
+- **(3)** A Deputy Registrar General may sign and certify the registration of all documents required to be registered and all copies of those documents or of any records in the custody of the Registrar General that are required to be certified or authenticated as being copies of any such documents or records.
+> 1995, c. 1, s. 11; 1999, c. 31, s. 72; 2004, c. 25, s. 131.
 
 
 
@@ -196,8 +196,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Special statutory references**
 
-**12** Where in any special Act of Parliament enacted before December 21, 1967, any person is required to file or register any instrument of trust, mortgage, hypothec, bond, suretyship, charge, lease, sale, bailment, pledge, assignment, surrender or other instrument, document or record or copy thereof, or any notice, in the office or department of the Secretary of State, the filing or registration required shall be made with the Registrar General unless the Governor in Council by order designates another office or department for such filing or registration.
-> 1995, c. 1, s. 12; 2001, c. 4, s. 73.
+**12** If, in any special Act of Parliament enacted before December 21, 1967, any person is required to file or register any document or record, or a copy of any document or record, or any notice, in the office or department of the Secretary of State, the filing or registration required shall be made with the Registrar General unless the Governor in Council by order designates another office or department for the filing or registration.
+> 1995, c. 1, s. 12; 2001, c. 4, s. 73; 2004, c. 25, s. 132.
 
 
 
