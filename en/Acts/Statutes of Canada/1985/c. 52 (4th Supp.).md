@@ -25,22 +25,22 @@
 
 - **(1)** In this Act,
 
-***alter*** means to change in any manner and includes to restore, renovate or repair;
+***alter*** means to change in any manner and includes to restore, renovate or repair; (*modifier*)
 
-***Board*** means the Historic Sites and Monuments Board of Canada established by section 4 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
+***Board*** means the Historic Sites and Monuments Board of Canada established by section 4 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md); (*Commission*)
 
-***heritage feature*** means any feature of a heritage railway station designated by the Minister on the recommendation of the Board as a heritage feature;
+***heritage feature*** means any feature of a heritage railway station designated by the Minister on the recommendation of the Board as a heritage feature; (*caractéristique patrimoniale*)
 
-***heritage railway station*** means any railway station designated by the Minister on the recommendation of the Board as a heritage railway station;
+***heritage railway station*** means any railway station designated by the Minister on the recommendation of the Board as a heritage railway station; (*gare ferroviaire patrimoniale*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council to act as Minister for the purposes of this Act;
+***Minister*** means the Minister responsible for the Parks Canada Agency; (*ministre*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation of the Governor in Council.
+***prescribed*** means prescribed by regulation of the Governor in Council. (***Version anglaise seulement***)
 
 **Part III of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)**
 
 - **(2)** Unless otherwise provided, words and expressions used in this Act have the same meaning as in Part III of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
-> R.S., 1985, c. 52 (4th Supp.), s. 2; 1996, c. 10, s. 231.
+> R.S., 1985, c. 52 (4th Supp.), s. 2; 1996, c. 10, s. 231; 2005, c. 2, s. 10.
 
 
 
