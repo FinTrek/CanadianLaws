@@ -1,0 +1,1570 @@
+> [Go to French version](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)
+
+# Canadian Environmental Assessment Act
+
+**S.C. 1992, c. 37**
+
+
+Assented to on 23 June 1992
+
+----------
+
+
+
+
+**Preamble**
+
+WHEREAS the Government of Canada seeks to achieve sustainable development by conserving and enhancing environmental quality and by encouraging and promoting economic development that conserves and enhances environmental quality;
+
+WHEREAS environmental assessment provides an effective means of integrating environmental factors into planning and decision-making processes in a manner that promotes sustainable development;
+
+WHEREAS the Government of Canada is committed to exercising leadership within Canada and internationally in anticipating and preventing the degradation of environmental quality and at the same time ensuring that economic development is compatible with the high value Canadians place on environmental quality;
+
+AND WHEREAS the Government of Canada is committed to facilitating public participation in the environmental assessment of projects to be carried out by or with the approval or assistance of the Government of Canada and providing access to the information on which those environmental assessments are based;
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+## Short Title
+
+
+
+**Short title**
+
+**1** This Act may be cited as the Canadian Environmental Assessment Act.
+
+
+
+
+## Interpretation
+
+
+
+**Definitions**
+
+**2** 
+
+- **(1)** In this Act,
+
+***Agency*** means the Canadian Environmental Assessment Agency established by section 61;
+
+***assessment by a review panel*** means an environmental assessment that is conducted by a review panel established pursuant to section 33 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+
+***comprehensive study*** means an environmental assessment that is conducted pursuant to section 21 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+
+***comprehensive study list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(d);
+
+***environment*** means the components of the Earth, and includes
+- **(a)** land, water and air, including all layers of the atmosphere,
+- **(b)** all organic and inorganic matter and living organisms, and
+- **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b);
+
+***environmental assessment*** means, in respect of a project, an assessment of the environmental effects of the project that is conducted in accordance with this Act and the regulations;
+
+***environmental effect*** means, in respect of a project,
+- **(a)** any change that the project may cause in the environment, including any effect of any such change on health and socio-economic conditions, on physical and cultural heritage, on the current use of lands and resources for traditional purposes by aboriginal persons, or on any structure, site or thing that is of historical, archaeological, paleontological or architectural significance, and
+- **(b)** any change to the project that may be caused by the environment,
+
+whether any such change occurs within or outside Canada;
+
+***exclusion list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(c);
+
+***federal authority*** means
+- **(a)** a Minister of the Crown in right of Canada,
+- **(b)** an agency of the Government of Canada or other body established by or pursuant to an Act of Parliament that is ultimately accountable through a Minister of the Crown in right of Canada to Parliament for the conduct of its affairs,
+- **(c)** any department or departmental corporation set out in Schedule I or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
+- **(d)** any other body that is prescribed pursuant to regulations made under paragraph 59(e),
+
+but does not include the Commissioner in Council or an agency or body of the Yukon Territory, the Northwest Territories or Nunavut, a council of the band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), The Hamilton Harbour Commissioners constituted pursuant to The Hamilton Harbour Commissioners’ Act, The Toronto Harbour Commissioners constituted pursuant to The Toronto Harbour Commissioners’ Act, 1911, a harbour commission established pursuant to the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
+
+***federal lands*** means
+- **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands the administration and control of which have been transferred by the Governor in Council to the Commissioner of the Yukon Territory, the Northwest Territories or Nunavut and lands the management of which has been granted to a port authority under the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a not-for-profit corporation that has entered into an agreement under subsection 80(5) of that Act,
+- **(b)** the following lands and areas, namely,
+	- **(i)** the internal waters of Canada,
+	- **(ii)** the territorial sea of Canada,
+	- **(iii)** the exclusive economic zone of Canada, and
+	- **(iv)** the continental shelf of Canada, and
+- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and are subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands;
+
+***follow-up program*** means a program for
+- **(a)** verifying the accuracy of the environmental assessment of a project, and
+- **(b)** determining the effectiveness of any measures taken to mitigate the adverse environmental effects of the project;
+
+***interested party*** means, in respect of an environmental assessment, any person or body having an interest in the outcome of the environmental assessment for a purpose that is neither frivolous nor vexatious;
+
+***mediation*** means an environmental assessment that is conducted with the assistance of a mediator appointed pursuant to section 30 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+
+***Minister*** means the Minister of the Environment;
+
+***mitigation*** means, in respect of a project, the elimination, reduction or control of the adverse environmental effects of the project, and includes restitution for any damage to the environment caused by such effects through replacement, restoration, compensation or any other means;
+
+Version anglaise seulement***prescribed*** means prescribed by the regulations;
+
+***project*** means
+- **(a)** in relation to a physical work, any proposed construction, operation, modification, decommissioning, abandonment or other undertaking in relation to that physical work, or
+- **(b)** any proposed physical activity not relating to a physical work that is prescribed or is within a class of physical activities that is prescribed pursuant to regulations made under paragraph 59(b);
+
+***proponent***, in respect of a project, means the person, body, federal authority or government that proposes the project;
+
+***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy thereof;
+
+***responsible authority***, in relation to a project, means a federal authority that is required pursuant to subsection 11(1) to ensure that an environmental assessment of the project is conducted;
+
+***screening*** means an environmental assessment that is conducted pursuant to section 18 and that includes a consideration of the factors set out in subsection 16(1);
+
+***screening report*** means a report that summarizes the results of a screening;
+
+***sustainable development*** means development that meets the needs of the present, without compromising the ability of future generations to meet their own needs.
+
+**Control**
+
+- **(2)** For the purposes of this Act, a corporation is controlled by another corporation if
+	- **(a)** securities of the corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the corporation are held, other than by way of security only, by or for the benefit of that other corporation; and
+	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the corporation.
+> 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 29, s. 137.
+
+
+
+
+
+## Her Majesty
+
+
+
+**Binding on Her Majesty**
+
+**3** This Act is binding on Her Majesty in right of Canada or a province.
+
+
+
+
+## Purposes
+
+
+
+**Purposes**
+
+**4** The purposes of this Act are
+- **(a)** to ensure that the environmental effects of projects receive careful consideration before responsible authorities take actions in connection with them;
+- **(b)** to encourage responsible authorities to take actions that promote sustainable development and thereby achieve or maintain a healthy environment and a healthy economy;
+- **(b.1)** to ensure that responsible authorities carry out their responsibilities in a coordinated manner with a view to eliminating unnecessary duplication in the environmental assessment process;
+- **(c)** to ensure that projects that are to be carried out in Canada or on federal lands do not cause significant adverse environmental effects outside the jurisdictions in which the projects are carried out; and
+- **(d)** to ensure that there be an opportunity for public participation in the environmental assessment process.
+> 1992, c. 37, s. 4; 1993, c. 34, s. 19(F); 1994, c. 46, s. 1.
+
+
+
+
+
+## Environmental Assessment of Projects
+
+
+
+### Projects to be Assessed
+
+
+
+**Projects requiring environmental assessment**
+
+**5** 
+
+- **(1)** An environmental assessment of a project is required before a federal authority exercises one of the following powers or performs one of the following duties or functions in respect of a project, namely, where a federal authority
+	- **(a)** is the proponent of the project and does any act or thing that commits the federal authority to carrying out the project in whole or in part;
+	- **(b)** makes or authorizes payments or provides a guarantee for a loan or any other form of financial assistance to the proponent for the purpose of enabling the project to be carried out in whole or in part, except where the financial assistance is in the form of any reduction, avoidance, deferral, removal, refund, remission or other form of relief from the payment of any tax, duty or impost imposed under any Act of Parliament, unless that financial assistance is provided for the purpose of enabling an individual project specifically named in the Act, regulation or order that provides the relief to be carried out;
+	- **(c)** has the administration of federal lands and sells, leases or otherwise disposes of those lands or any interests in those lands, or transfers the administration and control of those lands or interests to Her Majesty in right of a province, for the purpose of enabling the project to be carried out in whole or in part; or
+	- **(d)** under a provision prescribed pursuant to paragraph 59(f), issues a permit or licence, grants an approval or takes any other action for the purpose of enabling the project to be carried out in whole or in part.
+
+**Projects requiring approval of Governor in Council**
+
+- **(2)** Notwithstanding any other provision of this Act,
+	- **(a)** an environmental assessment of a project is required before the Governor in Council, under a provision prescribed pursuant to regulations made under paragraph 59(g), issues a permit or licence, grants an approval or takes any other action for the purpose of enabling the project to be carried out in whole or in part; and
+	- **(b)** the federal authority that, directly or through a Minister of the Crown in right of Canada, recommends that the Governor in Council take an action referred to in paragraph (a) in relation to that project
+		- **(i)** shall ensure that an environmental assessment of the project is conducted as early as is practicable in the planning stages of the project and before irrevocable decisions are made,
+		- **(ii)** is, for the purposes of this Act and the regulations, except subsection 11(2) and sections 20 and 37, the responsible authority in relation to the project,
+		- **(iii)** shall consider the applicable reports and comments referred to in sections 20 and 37, and
+		- **(iv)** where applicable, shall perform the duties of the responsible authority in relation to the project under section 38 as if it were the responsible authority in relation to the project for the purposes of paragraphs 20(1)(a) and 37(1)(a).
+
+
+
+
+**Confidences of Queen’s Privy Council for Canada**
+
+**6** Notwithstanding any other provision of this Act, no confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) applies shall be disclosed or made available to any person.
+
+
+
+
+### Excluded Projects
+
+
+
+**Exclusions**
+
+**7** 
+
+- **(1)** Notwithstanding section 5, an environmental assessment of a project is not required where
+	- **(a)** the project is described in an exclusion list;
+	- **(b)** the project is to be carried out in response to a national emergency for which special temporary measures are being taken under the [Emergencies Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2022%20(4th%20Supp.).md); or
+	- **(c)** the project is to be carried out in response to an emergency and carrying out the project forthwith is in the interest of preventing damage to property or the environment or is in the interest of public health or safety.
+
+**Idem**
+
+- **(2)** For greater certainty, an environmental assessment is not required where a federal authority exercises a power or performs a duty or function referred to in paragraph 5(1)(b) in relation to a project and the essential details of the project are not specified before or at the time the power is exercised or the duty or function is performed.
+> 1992, c. 37, s. 7; 1994, c. 26, s. 23(F).
+
+
+
+
+
+**Assessments by Crown corporations under regulations**
+
+**8** 
+
+- **(1)** Before a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or any corporation controlled by such a corporation exercises a power or performs a duty or function referred to in paragraph 5(1)(a), (b) or (c) in relation to a project, the Crown corporation shall ensure or require the corporation controlled by it to ensure, as the case may be, that an assessment of the environmental effects of the project is conducted in accordance with any regulations made for that purpose under paragraph 59(j) as early as is practicable in the planning stages of the project and before irrevocable decisions are made.
+
+**Idem**
+
+- **(2)** Notwithstanding section 5, an environmental assessment of a project is not required by reason only of the authorization or approval by a minister of the Crown in right of Canada granted under any other Act of Parliament or any regulations made thereunder in respect of the exercise of a power or the performance of a duty or function referred to in paragraph 5(1)(a), (b) or (c) in relation to the project by a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+
+
+
+
+**Assessments by harbour commissions and port authorities**
+
+**9** Before the Hamilton Harbour Commissioners constituted pursuant to The Hamilton Harbour Commissioners’ Act, The Toronto Harbour Commissioners constituted pursuant to The Toronto Harbour Commissioners’ Act, 1911, any harbour commission established pursuant to the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act exercises a power or performs a duty or function referred to in paragraph 5(1)(a), (b) or (c) in relation to a project, it shall ensure that an assessment of the environmental effects of the project is conducted in accordance with any regulations made for that purpose under paragraph 59(k) as early as is practicable in the planning stages of the project and before irrevocable decisions are made.
+> 1992, c. 37, s. 9; 1998, c. 10, s. 165.
+
+
+
+
+
+**Assessments by band councils under regulations**
+
+**10** 
+
+- **(1)** Before a person or body receives financial assistance provided by a federal authority for the purpose of enabling a project to be carried out in whole or in part on a reserve that is set apart for the use and benefit of a band and that is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the council of the band for whose use and benefit the reserve has been set apart shall ensure that an assessment of the environmental effects of the project is conducted in accordance with any regulations made for that purpose under paragraph 59(l) as early as is practicable in the planning stages of the project and before irrevocable decisions are made.
+
+**Assessment not required**
+
+- **(2)** Notwithstanding paragraph 5(1)(b), an environmental assessment of a project is not required by reason only of the provision of financial assistance for the purpose mentioned in subsection (1).
+
+
+
+
+### Responsible Authority
+
+
+
+**Timing of assessment**
+
+**11** 
+
+- **(1)** Where an environmental assessment of a project is required, the federal authority referred to in section 5 in relation to the project shall ensure that the environmental assessment is conducted as early as is practicable in the planning stages of the project and before irrevocable decisions are made, and shall be referred to in this Act as the responsible authority in relation to the project.
+
+**No power, etc., to be exercised until assessment is complete**
+
+- **(2)** A responsible authority shall not exercise any power or perform any duty or function referred to in section 5 in relation to a project unless it takes a course of action pursuant to paragraph 20(1)(a) or 37(1)(a).
+
+
+
+
+**More than one responsible authority**
+
+**12** 
+
+- **(1)** Where there are two or more responsible authorities in relation to a project, they shall together determine the manner in which to perform their duties and functions under this Act and the regulations.
+
+**Disagreement**
+
+- **(2)** In the case of a disagreement, the Agency may advise responsible authorities and other federal authorities with respect to their powers, duties and functions under this Act and the manner in which those powers, duties and functions may be determined and allocated among them.
+
+**Participation by federal authorities**
+
+- **(3)** Every federal authority that is in possession of specialist or expert information or knowledge with respect to a project shall, on request, make available that information or knowledge to the responsible authority or to a mediator or a review panel.
+
+**Cooperation with other jurisdictions**
+
+- **(4)** Where a screening or comprehensive study of a project is to be conducted and a jurisdiction has a responsibility or an authority to conduct an assessment of the environmental effects of the project or any part thereof, the responsible authority may cooperate with that jurisdiction respecting the environmental assessment of the project.
+
+**Definition of “jurisdiction”**
+
+- **(5)** In this section, ***jurisdiction*** means
+	- **(a)** the government of a province;
+	- **(b)** an agency or a body that is established pursuant to the legislation of a province and that has powers, duties or functions in relation to an assessment of the environmental effects of a project;
+	- **(c)** a body that is established pursuant to a land claims agreement referred to in section 35 of the Constitution Act, 1982 and that has powers, duties or functions in relation to an assessment of the environmental effects of a project; or
+	- **(d)** a governing body that is established pursuant to legislation that relates to the self-government of Indians and that has powers, duties or functions in relation to an assessment of the environmental effects of a project.
+> 1992, c. 37, s. 12; 1993, c. 34, s. 20(F).
+
+
+
+
+
+### Action of Federal Authorities Suspended
+
+
+
+**Action suspended**
+
+**13** Where a project is described in the comprehensive study list or is referred to a mediator or a review panel, notwithstanding any other Act of Parliament, no power, duty or function conferred by or under that Act or any regulation made thereunder shall be exercised or performed that would permit the project to be carried out in whole or in part unless an environmental assessment of the project has been completed and a course of action has been taken in relation to the project in accordance with paragraph 37(1)(a).
+
+
+
+
+## Environmental Assessment Process
+
+
+
+### General
+
+
+
+**Environmental assessment process**
+
+**14** The environmental assessment process includes, where applicable,
+- **(a)** a screening or comprehensive study and the preparation of a screening report or a comprehensive study report;
+- **(b)** a mediation or assessment by a review panel as provided in section 29 and the preparation of a report; and
+- **(c)** the design and implementation of a follow-up program.
+
+
+
+
+**Scope of project**
+
+**15** 
+
+- **(1)** The scope of the project in relation to which an environmental assessment is to be conducted shall be determined by
+	- **(a)** the responsible authority; or
+	- **(b)** where the project is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority.
+
+**Same assessment for related projects**
+
+- **(2)** For the purposes of conducting an environmental assessment in respect of two or more projects,
+	- **(a)** the responsible authority, or
+	- **(b)** where at least one of the projects is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority,
+may determine that the projects are so closely related that they can be considered to form a single project.
+
+**All proposed undertakings to be considered**
+
+- **(3)** Where a project is in relation to a physical work, an environmental assessment shall be conducted in respect of every construction, operation, modification, decommissioning, abandonment or other undertaking in relation to that physical work that is proposed by the proponent or that is, in the opinion of
+	- **(a)** the responsible authority, or
+	- **(b)** where the project is referred to a mediator or a review panel, the Minister, after consulting with the responsible authority,
+likely to be carried out in relation to that physical work.
+> 1992, c. 37, s. 15; 1993, c. 34, s. 21(F).
+
+
+
+
+
+**Factors to be considered**
+
+**16** 
+
+- **(1)** Every screening or comprehensive study of a project and every mediation or assessment by a review panel shall include a consideration of the following factors:
+	- **(a)** the environmental effects of the project, including the environmental effects of malfunctions or accidents that may occur in connection with the project and any cumulative environmental effects that are likely to result from the project in combination with other projects or activities that have been or will be carried out;
+	- **(b)** the significance of the effects referred to in paragraph (a);
+	- **(c)** comments from the public that are received in accordance with this Act and the regulations;
+	- **(d)** measures that are technically and economically feasible and that would mitigate any significant adverse environmental effects of the project; and
+	- **(e)** any other matter relevant to the screening, comprehensive study, mediation or assessment by a review panel, such as the need for the project and alternatives to the project, that the responsible authority or, except in the case of a screening, the Minister after consulting with the responsible authority, may require to be considered.
+
+**Additional factors**
+
+- **(2)** In addition to the factors set out in subsection (1), every comprehensive study of a project and every mediation or assessment by a review panel shall include a consideration of the following factors:
+	- **(a)** the purpose of the project;
+	- **(b)** alternative means of carrying out the project that are technically and economically feasible and the environmental effects of any such alternative means;
+	- **(c)** the need for, and the requirements of, any follow-up program in respect of the project; and
+	- **(d)** the capacity of renewable resources that are likely to be significantly affected by the project to meet the needs of the present and those of the future.
+
+**Determination of factors**
+
+- **(3)** The scope of the factors to be taken into consideration pursuant to paragraphs (1)(a), (b) and (d) and (2)(b), (c) and (d) shall be determined
+	- **(a)** by the responsible authority; or
+	- **(b)** where a project is referred to a mediator or a review panel, by the Minister, after consulting the responsible authority, when fixing the terms of reference of the mediation or review panel.
+
+**Factors not included**
+
+- **(4)** An environmental assessment of a project is not required to include a consideration of the environmental effects that could result from carrying out the project in response to a national emergency for which special temporary measures are taken under the [Emergencies Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2022%20(4th%20Supp.).md).
+> 1992, c. 37, s. 16; 1993, c. 34, s. 22(F).
+
+
+
+
+
+**Delegation**
+
+**17** 
+
+- **(1)** A responsible authority may delegate to any person, body or jurisdiction within the meaning of subsection 12(5) any part of the screening or comprehensive study of a project or the preparation of the screening report or comprehensive study report, and may delegate any part of the design and implementation of a follow-up program, but shall not delegate the duty to take a course of action pursuant to subsection 20(1) or 37(1).
+
+**Idem**
+
+- **(2)** For greater certainty, a responsible authority shall not take a course of action pursuant to subsection 20(1) or 37(1) unless it is satisfied that any duty or function delegated pursuant to subsection (1) has been carried out in accordance with this Act and the regulations.
+
+
+
+
+### Screening
+
+
+
+**Screening**
+
+**18** 
+
+- **(1)** Where a project is not described in the comprehensive study list or the exclusion list, the responsible authority shall ensure that
+	- **(a)** a screening of the project is conducted; and
+	- **(b)** a screening report is prepared.
+
+**Source of information**
+
+- **(2)** Any available information may be used in conducting the screening of a project, but where a responsible authority is of the opinion that the information available is not adequate to enable it to take a course of action pursuant to subsection 20(1), it shall ensure that any studies and information that it considers necessary for that purpose are undertaken or collected.
+
+**Consideration of public comments**
+
+- **(3)** Where the responsible authority is of the opinion that public participation in the screening of a project is appropriate in the circumstances, or where required by regulation, the responsible authority shall give the public notice and an opportunity to examine and comment on the screening report and on any record that has been filed in the public registry established in respect of the project pursuant to section 55 before taking a course of action under section 20.
+> 1992, c. 37, s. 18; 1993, c. 34, s. 23(F).
+
+
+
+
+
+**Declaration of class screening report**
+
+**19** 
+
+- **(1)** Subject to subsection (2), the Agency may, on the request of the responsible authority and where the Agency determines that a screening report could be used as a model in conducting screenings of other projects within the same class, declare that report to be a class screening report.
+
+**Public notice and consideration of public comments**
+
+- **(2)** The Agency shall, before making a declaration pursuant to subsection (1),
+	- **(a)** publish in the Canada Gazette a notice setting out the following information, namely,
+		- **(i)** the date on which the screening report will be available to the public,
+		- **(ii)** the place at which copies of the screening report may be obtained, and
+		- **(iii)** the deadline and address for filing comments on the appropriateness of the use of the screening report as a model in conducting screenings of other projects within the same class; and
+	- **(b)** take into consideration any comments filed in respect of the screening report.
+
+**Publication**
+
+- **(3)** Any declaration made pursuant to subsection (1) shall be published in the Canada Gazette and the screening report to which it relates shall be made available to the public at the registry maintained by the Agency.
+
+**Use of class screening report**
+
+- **(4)** Where a project or part of a project is within a class in respect of which a class screening report has been declared, the responsible authority may use or permit the use of that report and the screening on which it is based to whatever extent the responsible authority considers appropriate for the purpose of complying with section 18.
+
+**Necessary adjustments**
+
+- **(5)** Where a responsible authority uses or permits the use of a class screening report, it shall ensure that any adjustments are made to the report that are necessary to take into account local circumstances and any cumulative environmental effects that may result from the project in combination with other projects or activities that have been or will be carried out.
+
+**Declaration to remove class screening report**
+
+- **(6)** Where the Agency determines that a class screening report can no longer be used as a model in conducting screenings of other projects within the same class, the Agency may declare the report not to be a class screening report.
+
+**Publication**
+
+- **(7)** Any declaration made pursuant to subsection (6) shall be published in the Canada Gazette and the screening report in respect of which it relates shall be removed from the public registry maintained by the Agency.
+> 1992, c. 37, s. 19; 1993, c. 34, s. 24(F).
+
+
+
+
+
+**Decision of responsible authority following a screening**
+
+**20** 
+
+- **(1)** The responsible authority shall take one of the following courses of action in respect of a project after taking into consideration the screening report and any comments filed pursuant to subsection 18(3):
+	- **(a)** subject to subparagraph (c)(iii), where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, the project is not likely to cause significant adverse environmental effects, the responsible authority may exercise any power or perform any duty or function that would permit the project to be carried out and shall ensure that any mitigation measures that the responsible authority considers appropriate are implemented;
+	- **(b)** where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, the project is likely to cause significant adverse environmental effects that cannot be justified in the circumstances, the responsible authority shall not exercise any power or perform any duty or function conferred on it by or under any Act of Parliament that would permit the project to be carried out in whole or in part; or
+	- **(c)** where
+		- **(i)** it is uncertain whether the project, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, is likely to cause significant adverse environmental effects,
+		- **(ii)** the project, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, is likely to cause significant adverse environmental effects and paragraph (b) does not apply, or
+		- **(iii)** public concerns warrant a reference to a mediator or a review panel,
+the responsible authority shall refer the project to the Minister for a referral to a mediator or a review panel in accordance with section 29.
+
+**Responsible authority to ensure implementation of mitigation measures**
+
+- **(2)** Where a responsible authority takes a course of action referred to in paragraph (1)(a), it shall, notwithstanding any other Act of Parliament, in the exercise of its powers or the performance of its duties or functions under that other Act or any regulation made thereunder or in any other manner that the responsible authority considers necessary, ensure that any mitigation measures referred to in that paragraph in respect of the project are implemented.
+
+**All federal authorities prohibited from proceeding with project**
+
+- **(3)** Where the responsible authority takes a course of action pursuant to paragraph (1)(b) in relation to a project,
+	- **(a)** the responsible authority shall file a notice of that course of action in the public registry established in respect of the project pursuant to section 55; and
+	- **(b)** notwithstanding any other Act of Parliament, no power, duty or function conferred by or under that Act or any regulation made thereunder shall be exercised or performed that would permit that project to be carried out in whole or in part.
+> 1992, c. 37, s. 20; 1993, c. 34, s. 25(F).
+
+
+
+
+
+### Comprehensive Study
+
+
+
+**Comprehensive study**
+
+**21** Where a project is described in the comprehensive study list, the responsible authority shall
+- **(a)** ensure that a comprehensive study is conducted, and a comprehensive study report is prepared and provided to the Minister and the Agency; or
+- **(b)** refer the project to the Minister for a referral to a mediator or a review panel in accordance with section 29.
+> 1992, c. 37, s. 21; 1993, c. 34, s. 26(F).
+
+
+
+
+
+**Public notice**
+
+**22** 
+
+- **(1)** After receiving a comprehensive study report in respect of a project, the Agency shall, in any manner it considers appropriate to facilitate public access to the report, publish a notice setting out the following information:
+	- **(a)** the date on which the comprehensive study report will be available to the public;
+	- **(b)** the place at which copies of the report may be obtained; and
+	- **(c)** the deadline and address for filing comments on the conclusions and recommendations of the report.
+
+**Public concerns**
+
+- **(2)** Prior to the deadline set out in the notice published by the Agency, any person may file comments with the Agency relating to the conclusions and recommendations and any other aspect of the comprehensive study report.
+
+
+
+
+**Decision of Minister**
+
+**23** The Minister shall take one of the following courses of action in respect of a project after taking into consideration the comprehensive study report and any comments filed pursuant to subsection 22(2):
+- **(a)** subject to subparagraph (b)(iii), where, taking into account the implementation of any appropriate mitigation measures,
+	- **(i)** the project is not likely to cause significant adverse environmental effects, or
+	- **(ii)** the project is likely to cause significant adverse environmental effects that cannot be justified in the circumstances,
+the Minister shall refer the project back to the responsible authority for action to be taken under section 37; or
+- **(b)** where,
+	- **(i)** it is uncertain whether the project, taking into account the implementation of any appropriate mitigation measures, is likely to cause significant adverse environmental effects,
+	- **(ii)** the project, taking into account the implementation of any appropriate mitigation measures, is likely to cause significant adverse environmental effects and subparagraph (a)(ii) does not apply, or
+	- **(iii)** public concerns warrant a reference to a mediator or a review panel,
+the Minister shall refer the project to a mediator or a review panel in accordance with section 29.
+
+
+
+
+**Use of previously conducted environmental assessment**
+
+**24** 
+
+- **(1)** Where a proponent proposes to carry out, in whole or in part, a project for which an environmental assessment was previously conducted and
+	- **(a)** the project did not proceed after the assessment was completed,
+	- **(b)** in the case of a project that is in relation to a physical work, the proponent proposes an undertaking in relation to that work different from that proposed when the assessment was conducted,
+	- **(c)** the manner in which the project is to be carried out has subsequently changed, or
+	- **(d)** the renewal of a licence, permit, approval or other action under a prescribed provision is sought,
+the responsible authority shall use that assessment and the report thereon to whatever extent is appropriate for the purpose of complying with section 18 or 21.
+
+**Necessary adjustments**
+
+- **(2)** Where a responsible authority uses an environmental assessment and the report thereon pursuant to subsection (1), the responsible authority shall ensure that any adjustments are made to the report that are necessary to take into account any significant changes in the environment and in the circumstances of the project and any significant new information relating to the environmental effects of the project.
+> 1992, c. 37, s. 24; 1993, c. 34, s. 27(F); 1994, c. 46, s. 2.
+
+
+
+
+
+### Discretionary Powers
+
+
+
+**Referral to Minister**
+
+**25** Subject to paragraphs 20(1)(b) and (c), where at any time a responsible authority is of the opinion that
+- **(a)** a project, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, may cause significant adverse environmental effects, or
+- **(b)** public concerns warrant a reference to a mediator or a review panel,
+the responsible authority may request the Minister to refer the project to a mediator or a review panel in accordance with section 29.
+
+
+
+
+**Termination by responsible authority**
+
+**26** Where at any time a responsible authority decides not to exercise any power or perform any duty or function referred to in section 5 in relation to a project that has not been referred to a mediator or a review panel, it may terminate the environmental assessment of the project.
+
+
+
+
+**Termination by Minister**
+
+**27** Where at any time a responsible authority decides not to exercise any power or perform any duty or function referred to in section 5 in relation to a project that has been referred to a mediator or a review panel, the Minister may terminate the environmental assessment of the project.
+
+
+
+
+**Referral by Minister**
+
+**28** 
+
+- **(1)** Where at any time the Minister is of the opinion that
+	- **(a)** a project for which an environmental assessment may be required under section 5, taking into account the implementation of any appropriate mitigation measures, may cause significant adverse environmental effects, or
+	- **(b)** public concerns warrant a reference to a mediator or a review panel,
+the Minister may, after offering to consult with the jurisdiction, within the meaning of subsection 12(5), where the project is to be carried out and after consulting with the responsible authority or, where there is no responsible authority in relation to the project, the appropriate federal authority, refer the project to a mediator or a review panel in accordance with section 29.
+
+**[Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md)**
+
+- **(2)** Where a proposal is referred pursuant to paragraph 130(1)(c) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), the Minister shall refer the proposal to a review panel.
+> 1992, c. 37, s. 28; 1998, c. 25, s. 162.
+
+
+
+
+
+### Mediation and Panel Reviews
+
+
+
+**Initial referral to mediator or review panel**
+
+**29** 
+
+- **(1)** Subject to subsection (2), where a project is to be referred to a mediator or a review panel, the Minister shall
+	- **(a)** refer the environmental assessment relating to the project to
+		- **(i)** a mediator, or
+		- **(ii)** a review panel; or
+	- **(b)** refer part of the environmental assessment relating to the project to a mediator and part of that assessment to a review panel.
+
+**Condition on reference to mediator**
+
+- **(2)** An environmental assessment or a part thereof shall not be referred to a mediator unless the interested parties have been identified and are willing to participate in the mediation.
+
+**Subsequent reference to a mediator**
+
+- **(3)** The Minister may, at any time, refer any issue relating to an assessment by a review panel to a mediator where the Minister is of the opinion, after consulting with the review panel, that mediation is appropriate in respect of that issue.
+
+**Subsequent reference to a review panel**
+
+- **(4)** Where at any time after an environmental assessment or part of an environmental assessment of a project has been referred to a mediator, the Minister or the mediator determines that the mediation of any issue subject to the mediation is not likely to produce a result that is satisfactory to all the participants to the mediation, the Minister shall terminate the mediation of the issue and refer the issue to a review panel.
+
+
+
+
+**Appointment of mediator**
+
+**30** 
+
+- **(1)** Where a reference is made under subparagraph 29(1)(a)(i) in relation to a project, the Minister shall, after consulting with the responsible authority and all parties who are to participate in the mediation,
+	- **(a)** appoint as mediator any person who
+		- **(i)** is unbiased and free from any conflict of interest relative to the project and who has knowledge or experience in acting as a mediator, and
+		- **(ii)** may have been selected from a roster established pursuant to subsection (2); and
+	- **(b)** fix the terms of reference of the mediation.
+
+**Establishment of roster**
+
+- **(2)** The Minister may establish a roster of persons to act as mediators to be appointed pursuant to paragraph (1)(a).
+
+
+
+
+**Additional participants**
+
+**31** The mediator may, at any time, allow an additional interested party to participate in a mediation.
+
+
+
+
+**Mediation report**
+
+**32** 
+
+- **(1)** A mediator shall, at the conclusion of the mediation, prepare and submit a report to the Minister and to the responsible authority.
+
+**Privilege**
+
+- **(2)** No evidence of or relating to a statement made by a mediator or a participant to the mediation during the course of and for the purposes of the mediation is admissible without the consent of the mediator or participant, in any proceeding before a review panel, court, tribunal, body or person with jurisdiction to compel the production of evidence.
+
+
+
+
+**Appointment of review panel**
+
+**33** 
+
+- **(1)** Where a project is referred to a review panel, the Minister shall, in consultation with the responsible authority,
+	- **(a)** appoint as members of the panel, including the chairperson thereof, persons who
+		- **(i)** are unbiased and free from any conflict of interest relative to the project and who have knowledge or experience relevant to the anticipated environmental effects of the project, and
+		- **(ii)** may have been selected from a roster established pursuant to subsection (2); and
+	- **(b)** fix the terms of reference of the panel.
+
+**Establishment of roster**
+
+- **(2)** The Minister may establish a roster of persons, to act as members of any review panel to be established pursuant to paragraph (1)(a).
+> 1992, c. 37, s. 33; 1993, c. 34, s. 28(F).
+
+
+
+
+
+**Assessment by review panel**
+
+**34** A review panel shall, in accordance with any regulations made for that purpose and with its term of reference,
+- **(a)** ensure that the information required for an assessment by a review panel is obtained and made available to the public;
+- **(b)** hold hearings in a manner that offers the public an opportunity to participate in the assessment;
+- **(c)** prepare a report setting out
+	- **(i)** the rationale, conclusions and recommendations of the panel relating to the environmental assessment of the project, including any mitigation measures and follow-up program, and
+	- **(ii)** a summary of any comments received from the public; and
+- **(d)** submit the report to the Minister and the responsible authority.
+
+
+
+
+**Powers of review panel**
+
+**35** 
+
+- **(1)** A review panel has the power of summoning any person to appear as a witness before the panel and of ordering the witness to
+	- **(a)** give evidence, orally or in writing; and
+	- **(b)** produce such documents and things as the panel considers necessary for conducting its assessment of the project.
+
+**Enforcement powers**
+
+- **(2)** A review panel has the same power to enforce the attendance of witnesses and to compel them to give evidence and produce documents and other things as is vested in a court of record.
+
+**Hearings to be public**
+
+- **(3)** A hearing by a review panel shall be public unless the panel is satisfied after representations made by a witness that specific, direct and substantial harm would be caused to the witness by the disclosure of the evidence, documents or other things that the witness is ordered to give or produce pursuant to subsection (1).
+
+**Non-disclosure**
+
+- **(4)** Where a review panel is satisfied that the disclosure of evidence, documents or other things would cause specific, direct and substantial harm to a witness, the evidence, documents or things are privileged and shall not, without the authorization of the witness, knowingly be or be permitted to be communicated, disclosed or made available by any person who has obtained the evidence, documents or other things pursuant to this Act.
+
+**Enforcement of summonses and orders**
+
+- **(5)** Any summons issued or order made by a review panel pursuant to subsection (1) shall, for the purposes of enforcement, be made a summons or order of the Federal Court by following the usual practice and procedure.
+
+**Immunity**
+
+- **(6)** No action or other proceeding lies or shall be commenced against a member of a review panel for or in respect of anything done or omitted to be done, during the course of and for the purposes of the assessment by the review panel.
+
+
+
+
+**Public notice**
+
+**36** On receiving a report submitted by a mediator or a review panel, the Minister shall make the report available to the public in any manner the Minister considers appropriate to facilitate public access to the report, and shall advise the public that the report is available.
+
+
+
+
+### Decision of Responsible Authority
+
+
+
+**Decision of responsible authority**
+
+**37** 
+
+- **(1)** Subject to subsection (1.1), the responsible authority shall take one of the following courses of action in respect of a project after taking into consideration the report submitted by a mediator or a review panel or, in the case of a project referred back to the responsible authority pursuant to paragraph 23(a), the comprehensive study report:
+	- **(a)** where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate,
+		- **(i)** the project is not likely to cause significant adverse environmental effects, or
+		- **(ii)** the project is likely to cause significant adverse environmental effects that can be justified in the circumstances,
+the responsible authority may exercise any power or perform any duty or function that would permit the project to be carried out in whole or in part and shall ensure that those mitigation measures are implemented; or
+	- **(b)** where, taking into account the implementation of any mitigation measures that the responsible authority considers appropriate, the project is likely to cause significant adverse environmental effects that cannot be justified in the circumstances, the responsible authority shall not exercise any power or perform any duty or function conferred on it by or under any Act of Parliament that would permit the project to be carried out in whole or in part.
+
+**Approval of Governor in Council**
+
+- **(1.1)** Where a report is submitted by a mediator or review panel,
+	- **(a)** the responsible authority shall take into consideration the report and, with the approval of the Governor in Council, respond to the report;
+	- **(b)** the Governor in Council may, for the purpose of giving the approval referred to in paragraph (a), require the mediator or review panel to clarify any of the recommendations set out in the report; and
+	- **(c)** the responsible authority shall take a course of action under subsection (1) that is in conformity with the approval of the Governor in Council referred to in paragraph (a).
+
+**Responsible authority to ensure implementation of mitigation measures**
+
+- **(2)** Where a responsible authority takes a course of action referred to in paragraph (1)(a), it shall, notwithstanding any other Act of Parliament, in the exercise of its powers or the performance of its duties or functions under that other Act or any regulation made thereunder or in any other manner that the responsible authority considers necessary, ensure that any mitigation measures referred to in that paragraph in respect of the project are implemented.
+
+**All federal authorities prohibited from proceeding with project**
+
+- **(3)** Where the responsible authority takes a course of action referred to in paragraph (1)(b) in relation to a project,
+	- **(a)** the responsible authority shall file a notice of that course of action in the public registry established in respect of the project pursuant to section 55; and
+	- **(b)** notwithstanding any other Act of Parliament, no power, duty or function conferred by or under that Act or any regulation made thereunder shall be exercised or performed that would permit that project to be carried out in whole or in part.
+> 1992, c. 37, s. 37; 1993, c. 34, s. 29(F); 1994, c. 46, s. 3.
+
+
+
+
+
+### Follow-up Program
+
+
+
+**Design and implementation**
+
+**38** 
+
+- **(1)** Where a responsible authority takes a course of action pursuant to paragraph 20(1)(a) or 37(1)(a), it shall, in accordance with any regulations made for that purpose, design any follow-up program that it considers appropriate for the project and arrange for the implementation of that program.
+
+**Public notice**
+
+- **(2)** A responsible authority referred to in subsection (1) shall, in accordance with any regulations made for that purpose, advise the public of
+	- **(a)** its course of action in relation to the project;
+	- **(b)** any mitigation measures to be implemented with respect to the adverse environmental effects of the project;
+	- **(c)** the extent to which the recommendations set out in any report submitted by a mediator or a review panel have been adopted and the reasons for not having adopted any of those recommendations;
+	- **(d)** any follow-up program designed for the project pursuant to subsection (1); and
+	- **(e)** any results of any follow-up program.
+> 1992, c. 37, s. 38; 1993, c. 34, s. 30(F).
+
+
+
+
+
+### Certificate
+
+
+
+**Certificate**
+
+**39** A certificate that states that an environmental assessment of a project has been completed, and that is signed by a responsible authority that exercises a power or performs a duty or function referred to in paragraph 5(1)(c) in relation to the project, is, in the absence of evidence to the contrary, proof of the matter stated.
+
+
+
+
+### Joint Review Panels
+
+
+
+**Definition of “jurisdiction”**
+
+**40** 
+
+- **(1)** For the purposes of this section and sections 41 and 42, ***jurisdiction*** includes
+	- **(a)** a federal authority;
+	- **(b)** the government of a province;
+	- **(c)** any other agency or body established pursuant to an Act of Parliament or the legislature of a province and having powers, duties or functions in relation to an assessment of the environmental effects of a project;
+	- **(d)** any body established pursuant to a land claims agreement referred to in section 35 of the Constitution Act, 1982 and having powers, duties or functions in relation to an assessment of the environmental effects of a project;
+	- **(e)** a government of a foreign state or of a subdivision of a foreign state, or any institution of such a government; and
+	- **(f)** an international organization of states or any institution of such an organization.
+
+**Review panels established jointly with another jurisdiction**
+
+- **(2)** Subject to section 41, where the referral of a project to a review panel is required or permitted by this Act and a jurisdiction referred to in paragraph (1)(a), (b), (c) or (d) has a responsibility or an authority to conduct an assessment of the environmental effects of the project or any part of it, the Minister
+	- **(a)** may enter into an agreement or arrangement with that jurisdiction respecting the joint establishment of a review panel and the manner in which an assessment of the environmental effects of the project is to be conducted by the review panel; and
+	- **(b)** shall, in the case of a jurisdiction within the meaning of subsection 12(5), offer to consult and cooperate with that other jurisdiction respecting the assessment of the environmental effects of the project.
+
+**[Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md)**
+
+- **(2.1)** Subject to section 41, where the Minister is required by subsection 28(2) to refer a proposal to a review panel, the Minister and the Mackenzie Valley Environmental Impact Review Board shall, in writing, jointly establish a review panel and prescribe the manner of its examination of the impact of the proposal on the environment.
+
+**Idem**
+
+- **(3)** Subject to section 41, where the referral of a project to a review panel is required or permitted by this Act and a jurisdiction referred to in paragraph (1)(e) or (f) has a responsibility or an authority to conduct an assessment of the environmental effects of the project or any part of it, the Minister and the Minister of Foreign Affairs may enter into an agreement or arrangement with that jurisdiction respecting the joint establishment of a review panel and the manner in which an assessment of the environmental effects of the project is to be conducted by the review panel.
+
+**Publication of agreement for joint panel**
+
+- **(4)** Any agreement or arrangement referred to in subsection (2) or (3), and any document establishing a review panel under subsection (2.1), shall be published before the commencement of the hearings conducted by the review panel.
+> 1992, c. 37, s. 40; 1993, c. 34, s. 31(F); 1995, c. 5, s. 25; 1998, c. 25, s. 163.
+
+
+
+
+
+**Conditions**
+
+**41** An agreement or arrangement entered into pursuant to subsection 40(2) or (3), and any document establishing a review panel under subsection 40(2.1), shall provide that the assessment of the environmental effects of the project shall include a consideration of the factors required to be considered under subsections 16(1) and (2) and be conducted in accordance with any additional requirements and procedures set out in the agreement and shall provide that
+- **(a)** the Minister shall appoint or approve the appointment of the chairperson or appoint a co-chairperson, and shall appoint at least one other member of the panel;
+- **(b)** the members of the panel are to be unbiased and free from any conflict of interest relative to the project and are to have knowledge or experience relevant to the anticipated environmental effects of the project;
+- **(c)** the Minister shall fix or approve the terms of reference for the panel;
+- **(d)** the review panel is to have the powers provided for in section 35;
+- **(e)** the public will be given an opportunity to participate in the assessment conducted by the panel;
+- **(f)** on completion of the assessment, the report of the panel will be submitted to the Minister; and
+- **(g)** the panel’s report will be published.
+> 1992, c. 37, s. 41; 1993, c. 34, s. 32(F); 1998, c. 25, s. 164.
+
+
+
+
+
+**Deemed substitution**
+
+**42** Where the Minister establishes a review panel jointly with a jurisdiction referred to in subsection 40(1), the assessment conducted by that panel shall be deemed to satisfy any requirements of this Act and the regulations respecting assessments by a review panel.
+> 1992, c. 37, s. 42; 1993, c. 34, s. 33(F).
+
+
+
+
+
+### Public Hearing by a Federal Authority
+
+
+
+**Substitute for review panel**
+
+**43** 
+
+- **(1)** Where the referral of a project to a review panel is required or permitted by this Act and the Minister is of the opinion that a process for assessing the environmental effects of projects that is followed by a federal authority under an Act of Parliament other than this Act or by a body referred to in paragraph 40(1)(d) would be an appropriate substitute, the Minister may approve the substitution of that process for an environmental assessment by a review panel under this Act.
+
+**Manner of approval**
+
+- **(2)** An approval of the Minister pursuant to subsection (1) shall be in writing and may be given in respect of a project or a class of projects.
+> 1992, c. 37, s. 43; 1993, c. 34, s. 34(F).
+
+
+
+
+
+**Conditions**
+
+**44** The Minister shall not approve a substitution pursuant to subsection 43(1) unless the Minister is satisfied that
+- **(a)** the process to be substituted will include a consideration of the factors required to be considered under subsections 16(1) and (2);
+- **(b)** the public will be given an opportunity to participate in the assessment;
+- **(c)** at the end of the assessment, a report will be submitted to the Minister;
+- **(d)** the report will be published; and
+- **(e)** any criteria established pursuant to paragraph 58(1)(g) are met.
+
+
+
+
+**Deemed substitution**
+
+**45** Where the Minister approves a substitution of a process pursuant to subsection 43(1), an assessment that is conducted in accordance with that process shall be deemed to satisfy any requirements of this Act and the regulations in respect of assessments by a review panel.
+
+
+
+
+## Transboundary and Related Environmental Effects
+
+
+
+**Transboundary and related environmental effects**
+
+**46** 
+
+- **(1)** Where no power, duty or function referred to in section 5 or conferred by or under any other Act of Parliament or regulation is to be exercised or performed by a federal authority in relation to a project that is to be carried out in a province and the Minister is of the opinion that the project may cause significant adverse environmental effects in another province, the Minister may refer the project to a mediator or a review panel in accordance with section 29 for an assessment of the environmental effects of the project in that other province.
+
+**Agreement**
+
+- **(2)** The Minister shall not refer a project to a mediator or a review panel pursuant to subsection (1) where the Minister and the governments of all interested provinces have agreed on another manner of conducting an assessment of the interprovincial environmental effects of the project that
+	- **(a)** includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+	- **(b)** includes an opportunity for the public to participate in the assessment;
+	- **(c)** includes a requirement that the report is to be submitted to the Minister at the end of the assessment;
+	- **(d)** includes a requirement that the report is to be published; and
+	- **(e)** meets any criteria established pursuant to paragraph 58(1)(h).
+
+**Initiative for reference**
+
+- **(3)** The Minister shall consider whether to make a reference pursuant to subsection (1)
+	- **(a)** on the request of the government of any interested province; or
+	- **(b)** on the receipt of a petition that is
+		- **(i)** signed by one or more persons each of whom has an interest in lands on which the project may cause significant adverse environmental effects, and
+		- **(ii)** accompanied by a concise statement of the evidence supporting the contention of the petitioners that the project may cause significant adverse environmental effects in a province other than the one in which it is to be carried out.
+
+**Notice**
+
+- **(4)** At least ten days before referring a project to a mediator or a review panel pursuant to subsection (1), the Minister shall give notice of the intention to do so to the proponent of the project, to the governments of all interested provinces and to any person who signed a petition considered by the Minister pursuant to subsection (3).
+
+**Meaning of “interested province”**
+
+- **(5)** For the purposes of this section and sections 47, 48, 50 and 51, ***interested province*** means
+	- **(a)** a province in which the project is to be carried out; or
+	- **(b)** a province that claims that significant adverse environmental effects may occur in that province as a result of the project.
+
+
+
+
+**International environmental effects**
+
+**47** 
+
+- **(1)** Where no power, duty or function referred to in section 5 or conferred by or under any other Act of Parliament or regulation is to be exercised or performed by a federal authority in relation to a project that is to be carried out in Canada or on federal lands and the Minister is of the opinion that the project may cause significant adverse environmental effects occurring both outside Canada and outside those federal lands, the Minister and the Minister of Foreign Affairs may refer the project to a mediator or a review panel in accordance with section 29 for an assessment of the environmental effects of the project occurring both outside Canada and outside federal lands.
+
+**Agreement**
+
+- **(2)** The Minister and the Minister of Foreign Affairs shall not refer a project to a mediator or a review panel pursuant to subsection (1) where the Minister and the governments of all interested provinces have agreed on another manner of conducting an assessment of the environmental effects of the project occurring both outside Canada and outside federal lands that
+	- **(a)** includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+	- **(b)** includes an opportunity for the public to participate in the assessment;
+	- **(c)** includes a requirement that the report is to be submitted to the Minister at the end of the assessment;
+	- **(d)** includes a requirement that the report is to be published; and
+	- **(e)** meets any criteria established pursuant to paragraph 58(1)(h).
+
+**Initiative for reference**
+
+- **(3)** On a request to the Minister to refer a project to a mediator or a review panel pursuant to subsection (1) made by
+	- **(a)** the government of any province in which the project is to be carried out or that is adjacent to federal lands on which the project is to be carried out, or
+	- **(b)** the government of a foreign state or a subdivision thereof that claims that significant adverse environmental effects may occur in that foreign state or subdivision thereof as a result of the project,
+the Minister and the Minister of Foreign Affairs shall consider whether to make a reference pursuant to subsection (1).
+
+**Notice**
+
+- **(4)** At least ten days before making a reference pursuant to subsection (1), the Minister shall give notice of the intention to do so to
+	- **(a)** the proponent of the project;
+	- **(b)** the government of any province in which the project is to be carried out or that is adjacent to federal lands on which the project is to be carried out; and
+	- **(c)** the government of any foreign state or a subdivision thereof in which, in the opinion of the Minister, significant adverse environmental effects may occur as a result of the project.
+> 1992, c. 37, s. 47; 1995, c. 5, s. 25.
+
+
+
+
+
+**Environmental effects on lands of federal interest**
+
+**48** 
+
+- **(1)** Where no power, duty or function referred to in section 5 or conferred by or under any other Act of Parliament or regulation is to be exercised or performed by a federal authority in relation to a project that is to be carried out in Canada and the Minister is of the opinion that the project may cause significant adverse environmental effects on
+	- **(a)** lands in a reserve that is set apart for the use and benefit of a band and that is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md),
+	- **(b)** federal lands other than those mentioned in paragraph (a),
+	- **(c)** lands that are described in a land claims agreement referred to in section 35 of the Constitution Act, 1982 and that are prescribed,
+	- **(d)** lands that have been set aside for the use and benefit of Indians pursuant to legislation that relates to the self-government of Indians and that are prescribed, or
+	- **(e)** lands in respect of which Indians have interests,
+the Minister may refer the project to a mediator or a review panel in accordance with section 29 for an assessment of the environmental effects of the project on those lands.
+
+**Idem**
+
+- **(2)** Where no power, duty or function referred to in section 5 or conferred by or under any other Act of Parliament or regulation is to be exercised or performed by a federal authority in relation to a project that is to be carried out on
+	- **(a)** lands in a reserve that is set apart for the use and benefit of a band and that is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md),
+	- **(b)** lands that are described in a land claims agreement referred to in section 35 of the Constitution Act, 1982 and that are prescribed, or
+	- **(c)** lands that have been set aside for the use and benefit of Indians pursuant to legislation that relates to the self-government of Indians and that are prescribed,
+and the Minister is of the opinion that the project may cause significant adverse environmental effects outside those lands, the Minister may refer the project to a mediator or a review panel in accordance with section 29 for an assessment of the environmental effects of the project outside those lands.
+
+**Agreement**
+
+- **(3)** The Minister shall not refer a project to a mediator or a review panel pursuant to subsection (1) or (2) where the Minister and the governments of all interested provinces, and
+	- **(a)** in respect of federal lands referred to in paragraph (1)(b), the federal authority having the administration of those lands,
+	- **(b)** in respect of lands referred to in paragraph (1)(a) or (2)(a), the council of the band for whose use and benefit the reserve has been set apart,
+	- **(c)** in respect of lands referred to in paragraph (1)(c) or (e) or (2)(b), the party to the agreement or claim representing the aboriginal people or that party’s successor, or
+	- **(d)** in respect of lands that have been set aside for the use and benefit of Indians pursuant to legislation referred to in paragraph (1)(d) or (2)(c), the governing body established by that legislation,
+have agreed on another manner of conducting an assessment of the environmental effects of the project on or outside those lands, as the case may be.
+
+**Initiative for reference**
+
+- **(4)** The Minister shall consider whether to make a reference pursuant to subsection (1) or (2)
+	- **(a)** on the request of the government of any interested province or the federal authority having the administration of federal lands referred to in paragraph (1)(b); or
+	- **(b)** on receipt of a petition that is
+		- **(i)** signed by one or more persons each of whom has an interest in lands on which the project may cause significant adverse environmental effects, and
+		- **(ii)** accompanied by a concise statement of the evidence supporting the contention of the petitioner that the project may cause significant adverse environmental effects in respect of which a reference may be made pursuant to subsection (1) or (2).
+
+**Notice**
+
+- **(5)** At least ten days before a reference is made pursuant to subsection (1) or (2), the Minister shall give notice of the intention to do so to
+	- **(a)** the proponent of the project;
+	- **(b)** the governments of all interested provinces;
+	- **(c)** any person who signed a petition considered by the Minister pursuant to subsection (4); and
+	- **(d)** the federal authority, in the case of a reference to be made pursuant to paragraph (1)(b).
+
+**Meaning of “lands in respect of which Indians have interests”**
+
+- **(6)** For the purposes of this section, ***lands in respect of which Indians have interests*** means
+	- **(a)** land areas that are subject to a land claim accepted by the Government of Canada for negotiation under its comprehensive land claims policy and that
+		- **(i)** in the case of land areas situated in the Yukon Territory, the Northwest Territories or Nunavut, have been withdrawn from disposal under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) for the purposes of land claim settlement, or
+		- **(ii)** in the case of land areas situated in a province, have been agreed on for selection by the Government of Canada and the government of the province; and
+	- **(b)** land areas that belong to Her Majesty or in respect of which Her Majesty has the right to dispose and that have been identified and agreed on by Her Majesty and an Indian band for transfer to settle claims based on
+		- **(i)** an outstanding lawful obligation of Her Majesty towards an Indian band pursuant to the specific claims policy of the Government of Canada, or
+		- **(ii)** treaty land entitlement.
+
+**Reference to lands, etc.**
+
+- **(7)** For the purposes of this section, a reference to any lands, land areas or reserves includes a reference to all waters on and air above those lands, areas or reserves.
+> 1992, c. 37, c. 48; 1993, c. 28, s. 78.
+
+
+
+
+
+**Rules governing review panels**
+
+**49** Sections 29 to 36 and 40 to 42 apply, with such modifications as the circumstances require, in respect of a reference to a mediator or a review panel pursuant to subsection 46(1), 47(1) or 48(1) or (2).
+
+
+
+
+**Ministerial orders**
+
+**50** 
+
+- **(1)** Where the Minister refers a project to a mediator or a review panel for an assessment of the environmental effects of the project referred to in subsection 46(1), 47(1) or 48(1) or (2), the Minister may, by order, prohibit the proponent of the project from doing any act or thing that would commit the proponent to ensuring that the project is carried out in whole or in part until the assessment is completed and the Minister is satisfied that, taking into account the implementation of any appropriate mitigation measures the project is not likely to cause any significant adverse environmental effects referred to in that subsection or that any such effects are justified in the circumstances.
+
+**Idem**
+
+- **(2)** Where a project is referred to a mediator or a review panel for an assessment of the environmental effects of the project referred to in subsection 46(1), 47(1) or 48(1) or (2) and the mediator or review panel submits a report to the Minister indicating that the project is likely to cause significant adverse environmental effects referred to in that subsection the Minister may, by order, prohibit the proponent of the project from doing any act or thing that would commit the proponent to ensuring that the project is carried out in whole or in part until the Minister is satisfied that, taking into account the implementation of any appropriate mitigation measures, the project is not likely to cause any significant adverse environmental effects referred to in that subsection or that any such effects are justified in the circumstances.
+
+**Consultation with interested jurisdictions**
+
+- **(3)** The Minister shall, before exercising discretion to make an order under subsection (1) or (2), advise and offer to consult with the governments of all interested provinces and any federal authority, or the band council, party to the agreement or claim or governing body having an interest in the lands where the project is to be carried out, as the case may be.
+> 1992, c. 37, s. 50; 1993, c. 34, s. 35(F).
+
+
+
+
+
+**Injunction**
+
+**51** 
+
+- **(1)** Where, on the application of the Attorney General of Canada, it appears to a court of competent jurisdiction that an order made under section 50 in respect of a project has been, is about to be or is likely to be contravened, the court may issue an injunction ordering any person named in the application to refrain from doing any act or thing that would commit the proponent to ensuring that the project or any part thereof is carried out until
+	- **(a)** with respect to an order made pursuant to subsection 50(1), the assessment of the environmental effects of the project referred to in subsection 46(1), 47(1) or 48(1) or (2) is completed and the Minister is satisfied that, taking into account the implementation of any appropriate mitigation measures, the project is not likely to cause any significant adverse environmental effects referred to in that subsection or any such effects are justified in the circumstances; and
+	- **(b)** with respect to an order made pursuant to subsection 50(2), the Minister is satisfied that, taking into account the implementation of any appropriate mitigation measures, the project is not likely to cause any significant adverse environmental effects referred to in that subsection or any such effects are justified in the circumstances.
+
+**Notice**
+
+- **(2)** At least forty-eight hours before an injunction is issued under subsection (1), notice of the application shall be given to
+	- **(a)** persons named in the application, and
+	- **(b)** the governments of all interested provinces and any federal authority, band council, party to the agreement or claim or governing body having an interest in the lands where the project is to be carried out, as the case may be,
+unless the urgency of the situation is such that the delay involved in giving such notice would not be in the public interest.
+> 1992, c. 37, s. 51; 1993, c. 34, s. 36(F).
+
+
+
+
+
+**Order in force**
+
+**52** 
+
+- **(1)** An order under section 50 comes into force at the time it is made.
+
+**Approval of Governor in Council**
+
+- **(2)** The order ceases to have effect fourteen days after it is made unless, within that period, it is approved by the Governor in Council.
+
+**Exemption from application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** The order is exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) and shall be published in the Canada Gazette within twenty-three days after it is approved by the Governor in Council.
+
+
+
+
+**Follow-up program**
+
+**53** 
+
+- **(1)** Where the Minister has referred a project to a mediator or a review panel pursuant to subsection 46(1), 47(1) or 48(1) or (2), the Minister shall, in accordance with any regulations made for that purpose, design or approve any follow-up program that the Minister considers appropriate for the project and arrange for the implementation of that program.
+
+**Public notice**
+
+- **(2)** Following the receipt of the report of the mediator or review panel in respect of the assessment of the environmental effects of the project referred to in subsection 46(1), 47(1) or 48(1) or (2), the Minister shall, in accordance with any regulations made for that purpose, advise the public of
+	- **(a)** any order or injunction issued under section 50 or 51 in respect of the project;
+	- **(b)** any mitigation measures to be implemented with respect to the adverse environmental effects of the project referred to in those subsections;
+	- **(c)** the extent to which the recommendations set out in the report have been adopted, and the reasons for not having adopted any of those recommendations;
+	- **(d)** any follow-up program that is designed or approved for the project pursuant to subsection (1); and
+	- **(e)** any results of any follow-up program.
+
+
+
+
+## Agreements and Arrangements
+
+
+
+**Provincial agreement or arrangement**
+
+**54** 
+
+- **(1)** Subject to subsection (3), where a federal authority or the Government of Canada on behalf of a federal authority enters into an agreement or arrangement with the government of a province or any institution of such a government under which a federal authority exercises a power or performs a duty or function referred to in paragraph 5(1)(b) in relation to projects the essential details of which are not specified, the Government of Canada or the federal authority shall ensure that the agreement or arrangement provides for the assessment of the environmental effects of those projects and that the assessment will be carried out as early as practicable in the planning stages of those projects, before irrevocable decisions are made, in accordance with
+	- **(a)** this Act and the regulations; or
+	- **(b)** a process for the assessment of the environmental effects of projects that is consistent with the requirements of this Act and is in effect in the province where the projects are to be carried out.
+
+**International agreement or arrangement**
+
+- **(2)** Subject to subsection (3), where a federal authority or the Government of Canada on behalf of a federal authority enters into an agreement or arrangement with any government or any person, organization or institution, whether or not part of or affiliated with a government, under which a federal authority exercises a power or performs a duty or function referred to in paragraph 5(1)(b) in relation to projects the essential details of which are not specified and that are to be carried out both outside Canada and outside federal lands, the Government of Canada or the federal authority shall ensure, in so far as is practicable and subject to any other such agreement to which the Government of Canada or federal authority is a party, that the agreement or arrangement provides for the assessment of the environmental effects of those projects and that the assessment will be carried out as early as practicable in the planning stages of those projects, before irrevocable decisions are made, in accordance with
+	- **(a)** this Act and the regulations; or
+	- **(b)** a process for the assessment of the environmental effects of projects that is consistent with the requirements of this Act and is in effect in the foreign state where the projects are to be carried out.
+
+**Exception**
+
+- **(3)** Subsection (1) or (2) does not apply in respect of an agreement or arrangement referred to in that subsection where the federal authority will be required to exercise a power or perform a duty or function referred to in paragraph 5(1)(b) in relation to the projects in respect of which the agreement or arrangement applies after the essential details of the projects are specified.
+> 1992, c. 37, s. 54; 1993, c. 34, s. 37(F).
+
+
+
+
+
+## Access to Information
+
+
+
+**Public registry**
+
+**55** 
+
+- **(1)** For the purpose of facilitating public access to records relating to environmental assessments, a public registry shall be established and operated in a manner to ensure convenient public access to the registry and in accordance with this Act and the regulations in respect of every project for which an environmental assessment is conducted.
+
+**Public registry established**
+
+- **(2)** The public registry in respect of a project shall be maintained
+	- **(a)** by the responsible authority from the commencement of the environmental assessment until any follow-up program in respect of the project is completed; and
+	- **(b)** where the project is referred to a mediator or a review panel, by the Agency from the appointment of the mediator or the members of the review panel until the report of the mediator or review panel is submitted to the Minister.
+
+**Contents of public registry**
+
+- **(3)** Subject to subsection (4), a public registry shall contain all records produced, collected, or submitted with respect to the environmental assessment of the project, including
+	- **(a)** any report relating to the assessment;
+	- **(b)** any comments filed by the public in relation to the assessment;
+	- **(c)** any records prepared by the responsible authority for the purposes of section 38;
+	- **(d)** any records produced as the result of the implementation of any follow-up program;
+	- **(e)** any terms of reference for a mediation or a panel review; and
+	- **(f)** any documents requiring mitigation measures to be implemented.
+
+**Categories of information to be made publicly available**
+
+- **(4)** A public registry shall contain a record referred to in subsection (3) if the record falls within one of the following categories:
+	- **(a)** records that have otherwise been made available to the public in carrying out the assessment pursuant to this Act and any additional records that have otherwise been made publicly available;
+	- **(b)** any record or part of a record that the responsible authority, in the case of a record under its control, or the Minister, in the case of a record under the Agency’s control, determines would have been disclosed to the public in accordance with the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) if a request had been made in respect of that record under that Act at the time the record comes under its control, including any record that would be disclosed in the public interest pursuant to subsection 20(6) of that Act; and
+	- **(c)** any record or part of a record, except a record or part containing third party information, if the responsible authority, in the case of a record under the responsible authority’s control, or the Minister, in the case of a record under the Agency’s control, believes on reasonable grounds that its disclosure would be in the public interest because it is required in order for the public to participate effectively in the assessment.
+
+**Third party information**
+
+- **(5)** Sections 27, 28 and 44 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) apply, with such modifications as the circumstances require, to any determination made under paragraph (4)(b) in respect of third party information, and, for the purpose of section 27 of that Act, any record referred to in paragraph (4)(b) shall be deemed to be a record that the responsible authority or the Minister intends to disclose and, for the purpose of applying that Act, any reference in that Act to the person who requested access shall be disregarded if no person has requested access to the information.
+
+**Protection from civil proceeding or prosecution**
+
+- **(6)** Notwithstanding any other Act of Parliament, no civil or criminal proceedings lie against a responsible authority or the Minister, or against any person acting on behalf of or under the direction of a responsible authority or the Minister, and no proceedings lie against the Crown or any responsible authority for the disclosure in good faith of any record or any part of a record pursuant to this Act, for any consequences that flow from that disclosure, or for the failure to give any notice required under section 27 or any other provision of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) if reasonable care is taken to give the required notice.
+
+**Meaning of “third party information”**
+
+- **(7)** For the purposes of this section, ***third party information*** means
+	- **(a)** trade secrets of a third party;
+	- **(b)** financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+	- **(c)** information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; and
+	- **(d)** information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party.
+> 1992, c. 37, s. 55; 1993, c. 34, s. 38(F).
+
+
+
+
+
+## Statistical Summary
+
+
+
+**Preparation of statistical summary**
+
+**56** 
+
+- **(1)** During each fiscal year a responsible authority shall maintain a statistical summary of all of the environmental assessments undertaken or directed by it and all courses of action taken, and all decisions made, in relation to the environmental effects of the projects after the assessments were completed.
+
+**Idem**
+
+- **(2)** The responsible authority shall ensure that the summary for a fiscal year is completed within one month after the end of that fiscal year.
+
+
+
+
+## Judicial Review
+
+
+
+**Defect in form or technical irregularity**
+
+**57** An application for judicial review in connection with any matter under this Act shall be refused where the sole ground for relief established on the application is a defect in form or a technical irregularity.
+
+
+
+
+## Administration
+
+
+
+### Minister’s Powers
+
+
+
+**Powers to facilitate environmental assessments**
+
+**58** 
+
+- **(1)** For the purposes of this Act, the Minister may
+	- **(a)** issue guidelines and codes of practice respecting the application of this Act and the regulations and, without limiting the generality of the foregoing, establish criteria to determine whether a project, taking into account the implementation of any appropriate mitigation measures, is likely to cause significant adverse environmental effects or whether such effects are justified in the circumstances;
+	- **(b)** establish research and advisory bodies;
+	- **(c)** enter into agreements or arrangements with any jurisdiction within the meaning of paragraph 40(1)(a), (b), (c) or (d) respecting assessments of environmental effects;
+	- **(d)** enter into agreements or arrangements with any jurisdiction, within the meaning of subsection 40(1), for the purposes of coordination, consultation, exchange of information and the determination of factors to be considered in relation to the assessment of the environmental effects of projects of common interest;
+	- **(e)** recommend the appointment of members to bodies established by federal authorities or to bodies referred to in paragraph 40(1)(d), on a temporary basis, for the purpose of facilitating a substitution pursuant to section 43;
+	- **(f)** establish criteria for the appointment of mediators and members of review panels;
+	- **(g)** establish criteria for the approval of a substitution pursuant to section 43; and
+	- **(h)** establish criteria for the purposes of an alternative manner of conducting an assessment of the environmental effects of a project referred to in subsection 46(2) or 47(2).
+	- **(i)** [Repealed, 1994, c. 46, s. 4]
+
+**Participant funding**
+
+- **(1.1)** For the purposes of this Act, the Minister shall establish a participant funding program to facilitate the participation of the public in mediations and assessments by review panels.
+
+**Power to enter into international agreements**
+
+- **(2)** The Minister and the Minister of Foreign Affairs may enter into agreements or arrangements with any jurisdiction within the meaning of paragraph 40(1)(e) or (f) respecting assessments of environmental effects, including, without limiting the generality of the foregoing, for the purposes of implementing the provisions of any international agreement or arrangement to which the Government of Canada is a party respecting the assessment of environmental effects referred to in subsection 47(1).
+
+**Opportunity for public to comment**
+
+- **(3)** The Minister shall provide reasonable public notice of and a reasonable opportunity for anyone to comment on draft guidelines, codes of practice, agreements, arrangements, criteria or orders under this section.
+
+**Availability to public**
+
+- **(4)** Any guidelines, codes of practice, agreements, arrangements, criteria or orders shall be made available to the public.
+> 1992, c. 37, s. 58; 1993, c. 34, s. 39(F); 1994, c. 46, s. 4; 1995, c. 5, s. 25.
+
+
+
+
+
+### Regulations
+
+
+
+**Regulations**
+
+**59** The Governor in Council may make regulations
+- **(a)** respecting the procedures and requirements of, and the time periods relating to, environmental assessment and follow-up programs, including the conduct of assessments by review panels established pursuant to section 40 and the timing of taking a course of action pursuant to section 20 or 37 where two or more federal authorities are likely to exercise a power or perform a duty or function referred to in section 5 with respect to the same project;
+- **(b)** prescribing, for the purpose of the definition “project” in subsection 2(1), any physical activity or class of physical activities;
+- **(c)** prescribing any project or class of projects for which an environmental assessment is not required where the Governor in Council is satisfied that
+	- **(i)** an environmental assessment of the project would be inappropriate for reasons of national security, or
+	- **(ii)** in the case of a project in relation to a physical work, the environmental effects of the project are insignificant or the contribution of the responsible authority to the project in exercising powers or performing duties or functions referred to in section 5 in relation to the project is minimal;
+- **(d)** prescribing any project or class of projects for which a comprehensive study is required where the Governor in Council is satisfied that the project or any project within that class is likely to have significant adverse environmental effects;
+- **(e)** prescribing any body, other than the government of a province, to be a federal authority for the purposes of this Act;
+- **(f)** prescribing the provisions of any Act of Parliament or any regulation made pursuant thereto that confer powers, duties or functions on federal authorities the exercise or performance of which requires an environmental assessment under paragraph 5(1)(d);
+- **(g)** prescribing the provisions of any Act of Parliament or any regulation made pursuant to any such Act that confer powers, duties or functions on the Governor in Council, the exercise or performance of which require an environmental assessment under subsection 5(2);
+- **(h)** respecting the dissemination by responsible authorities of information relating to projects and the environmental assessment of projects and the establishment, maintenance and operation of a public registry, including facilities to enable the public to examine physical or electronic records contained in the registry, the time and manner in which those records may be examined or copied by the public and the charging of fees therefor, and the transfer and retention of those records after the completion of any follow-up program;
+- **(i)** varying or excluding, in the prescribed circumstances, any procedure or requirement of the environmental assessment process set out in this Act or the regulations for the purpose of adapting the process in respect of
+	- **(i)** projects to be carried out on reserves, surrendered lands or other lands that are vested in Her Majesty and subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md),
+	- **(ii)** projects to be carried out outside Canada and any federal lands,
+	- **(iii)** projects to be carried out under international agreements or arrangements entered into by the Government of Canada or a federal authority,
+	- **(iv)** projects to be carried out within Canada or on federal lands in respect of which a federal authority exercises a power or performs a duty or function referred to in paragraph 5(1)(b) or (c),
+	- **(v)** projects in respect of which the Canada-Nova Scotia Offshore Petroleum Board established pursuant to the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), the Canada-Newfoundland Offshore Petroleum Board established pursuant to the Canada-Newfoundland Atlantic Accord Implementation Act or other similar boards exercise a power or perform a duty or function referred to in section 5, or
+	- **(vi)** projects in relation to which there are matters of national security;
+- **(j)** respecting the manner of conducting assessments of the environmental effects of, and follow-up programs for projects for which a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) or any corporation controlled by such a corporation exercises a power or performs a duty or function referred to in paragraph 5(1)(a), (b) or (c), respecting any action to be taken in respect of those projects during the environmental assessment process and, for those purposes, respecting the application of the laws from time to time in force in any province;
+- **(k)** respecting the manner of conducting assessments of the environmental effects of, and follow-up programs for, projects for which The Hamilton Harbour Commissioners constituted pursuant to The Hamilton Harbour Commissioners’ Act, The Toronto Harbour Commissioners constituted pursuant to The Toronto Harbour Commissioners’ Act, 1911, any harbour commission established pursuant to the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act, exercises a power or performs a duty or function referred to in paragraph 5(1)(a), (b) or (c), respecting any action to be taken in respect of those projects during the environmental assessment process and, for those purposes, respecting the application of the laws from time to time in force in any province;
+- **(l)** respecting the manner of conducting any assessment of the environmental effects of, and follow-up programs for a project for which a person or body receives financial assistance provided by a federal authority for the purpose of enabling the project to be carried out in whole or in part on a reserve that is set apart for the use and benefit of a band and that is subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and respecting any action to be taken in respect of that project during the environmental assessment process;
+- **(l.1)** respecting a participant funding program referred to in subsection 58(1.1);
+- **(m)** prescribing anything that, by this Act, is to be prescribed; and
+- **(n)** generally, for carrying out the purposes and provisions of this Act.
+> 1992, c. 37, s. 59; 1993, c. 34, s. 40(F); 1994, c. 46, s. 5; 1998, c. 10, s. 166.
+
+
+
+
+
+**Variation of procedures**
+
+**60** Notwithstanding this or any other Act of Parliament, where the Governor in Council is of the opinion that a federal authority on which duties and functions are imposed under this Act is unable to perform those duties and functions by reason of a time limitation or other procedural requirement that is binding on the federal authority under an Act of Parliament other than this Act or any regulation made under such an Act, the Governor in Council may, on the recommendation of the Minister and the Minister responsible for the administration of that other Act, make regulations varying the time limitation or other procedural requirement in so far as it applies to those duties and functions and to the extent necessary to permit the federal authority to perform them.
+
+
+
+
+## Canadian Environmental Assessment Agency
+
+
+
+**Agency established**
+
+**61** 
+
+- **(1)** There is hereby established an agency, to be called the Canadian Environmental Assessment Agency, which shall advise and assist the Minister in performing the duties and functions conferred on the Minister by this Act.
+
+**Responsibility of Minister**
+
+- **(2)** The Minister is responsible for the Agency.
+
+
+
+
+**Objects of Agency**
+
+**62** The objects of the Agency are
+- **(a)** to administer the environmental assessment process and any other requirements and procedures established by this Act and the regulations;
+- **(b)** to promote uniformity and harmonization in the assessment of environmental effects across Canada at all levels of government;
+- **(c)** to promote or conduct research in matters of environmental assessment and to encourage the development of environmental assessment techniques and practices, including testing programs, alone or in cooperation with other agencies or organizations;
+- **(d)** to promote environmental assessment in a manner that is consistent with the purposes of this Act; and
+- **(e)** to ensure an opportunity for public participation in the environmental assessment process.
+
+
+
+
+**Duties of Agency**
+
+**63** 
+
+- **(1)** In carrying out its objects, the Agency shall
+	- **(a)** provide administrative support for mediators and review panels;
+	- **(b)** provide, on the request of the Minister, administrative support for any research or advisory body that the Minister may establish in the area of environmental assessment; and
+	- **(c)** provide information or training to facilitate the conduct of environmental assessments.
+
+**Powers of Agency**
+
+- **(2)** In carrying out its objects, the Agency may
+	- **(a)** undertake studies or activities or conduct research relating to environmental assessment;
+	- **(b)** advise persons and organizations on matters relating to the assessment of environmental effects;
+	- **(c)** negotiate agreements referred to in paragraph 58(1)(c) or (d) on behalf of the Minister;
+	- **(d)** examine and from time to time report to the Minister on the implementation of the environmental assessment process by responsible authorities; and
+	- **(e)** issue guidelines regarding the records to be kept by responsible authorities in relation to the environmental assessment process concerning projects.
+
+
+
+
+**Government facilities**
+
+**64** In exercising its powers and performing its duties and functions under this Act, the Agency shall, where appropriate, make use of the services and facilities of departments, boards and agencies of the Government of Canada.
+
+
+
+
+**President**
+
+**65** 
+
+- **(1)** The Governor in Council shall appoint an officer to be called the President of the Agency, to hold office during pleasure, who shall be, for the purposes of this Act, a deputy of the Minister.
+
+**Idem**
+
+- **(2)** The President shall be the chief executive officer of the Agency, and may exercise all of the powers of the Minister under this Act as authorized by the Minister.
+
+**Acting President**
+
+- **(3)** Subject to subsection (5), in the event of the absence or incapacity of the President or a vacancy in that office, the Executive Vice-President shall act as, and exercise the powers of, the President for the time being.
+
+**Idem**
+
+- **(4)** Subject to subsection (5), the Minister may appoint a person other than the Executive Vice-President to act as the President for the time being.
+
+**Approval required**
+
+- **(5)** The Executive Vice-President, or a person appointed pursuant to subsection (4), shall not act as the President for a period exceeding ninety days without the approval of the Governor in Council.
+
+
+
+
+**Executive Vice-President**
+
+**66** 
+
+- **(1)** The Governor in Council may appoint an officer, to be called the Executive Vice-President of the Agency, to hold office during pleasure.
+
+**Powers, duties and functions**
+
+- **(2)** The Executive Vice-President shall exercise such powers and perform such duties and functions as the President may assign.
+
+
+
+
+**Remuneration**
+
+**67** The President and the Executive Vice-President shall be paid such remuneration as the Governor in Council may fix.
+
+
+
+
+**Appointment under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
+
+**68** The officers and employees necessary to carry out the work of the Agency shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+
+
+
+
+**Head office**
+
+**69** The head office of the Agency shall be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+
+
+
+
+**Contracts, etc., binding on Her Majesty**
+
+**70** 
+
+- **(1)** Every contract, memorandum of understanding and arrangement entered into by the Agency in its own name is binding on Her Majesty in right of Canada to the same extent as it is binding on the Agency.
+
+**Legal proceedings**
+
+- **(2)** Actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Agency, whether in its own name or in the name of Her Majesty in right of Canada, may be brought or taken by or against the Agency in the name of the Agency in any court that would have jurisdiction if the Agency were a corporation that is not an agent of Her Majesty.
+
+
+
+
+## Annual Report
+
+
+
+**Annual report to Parliament**
+
+**71** 
+
+- **(1)** The Minister shall report annually to Parliament, within four months after the end of the fiscal year being reported, on the activities of the Agency and the administration and implementation of this Act and regulations during that year.
+
+**Statistical summary to be included**
+
+- **(2)** The annual report to Parliament referred to in subsection (1) shall include a statistical summary of all environmental assessments conducted or completed, under the authority of this Act during the fiscal year being reported.
+
+
+
+
+## Review
+
+
+
+**Review**
+
+**72** 
+
+- **(1)** Five years after the coming into force of this section, a comprehensive review of the provisions and operation of this Act shall be undertaken by the Minister.
+
+**Report to Parliament**
+
+- **(2)** The Minister shall, within one year after a review is undertaken pursuant to subsection (1) or within such further time as the House of Commons may authorize, submit a report on the review to Parliament including a statement of any changes the Minister recommends.
+> 1992, c. 37, s. 72; 1993, c. 34, s. 41(F); 1994, c. 26, s. 24(F).
+
+
+
+
+
+## Transitional
+
+
+
+**Employment continued**
+
+**73** 
+
+- **(1)** Each person employed in the Federal Environmental Assessment Review Office, or seconded to that Office from any portion of the public service of Canada, on the day preceding the day on which section 61 comes into force is deemed to have been appointed pursuant to section 68 or seconded, as the case may be, to a position in the Agency of the same occupational nature and at the same level as the position occupied by the person on that preceding day.
+
+**Probation**
+
+- **(2)** Notwithstanding section 28 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), no person who is deemed under subsection (1) to have been appointed to a position in the Agency is subject to probation unless the person was subject to probation on the day preceding the day of the deemed appointment, and any person who was so subject to probation continues subject thereto only for as long as would have been the case but for this section.
+> 1992, c. 37, s. 73; 1993, c. 34, s. 42(F).
+
+
+
+
+
+**Guidelines Order continued**
+
+**74** 
+
+- **(1)** The Environmental Assessment and Review Process Guidelines Order, approved by Order in Council P.C. 1984-2132 of June 21, 1984 and registered as SOR/84-467, shall continue to apply in respect of any proposal that prior to the coming into force of this section was referred to the Minister for public review and for which an Environmental Assessment Panel was established by the Minister pursuant to that Order.
+
+**Idem**
+
+- **(2)** The Order referred to in subsection (1) shall continue to apply in respect of any proposal for which an environmental screening or initial assessment under that Order was commenced before the coming into force of this section, but where any such proposal is referred to the Minister for public review pursuant to section 20 of that Order, this Act shall thereupon apply and the Minister may refer the project to a mediator or a review panel in accordance with section 29.
+
+**Idem**
+
+- **(3)** Where a proponent proposes to carry out, in whole or in part, a project for which an environmental screening or an initial assessment was conducted in accordance with the Order referred to in subsection (1), and
+	- **(a)** the project did not proceed after the assessment was completed,
+	- **(b)** in the case of a project that is in relation to a physical work, the proponent proposes an undertaking in relation to that work different from that proposed when the assessment was conducted,
+	- **(c)** the manner in which the project is to be carried out has subsequently changed, or
+	- **(d)** the renewal of a licence, permit, approval or other action under a prescribed provision is sought,
+the responsible authority may use or permit the use of the environmental screening or initial assessment and the report thereon to whatever extent it is appropriate to do so for the purpose of complying with section 18 or 21.
+
+**Idem**
+
+- **(4)** Where the construction or operation of a physical work or the carrying out of a physical activity was initiated before June 22, 1984, this Act shall not apply in respect of the issuance or renewal of a licence, permit, approval or other action under a prescribed provision in respect of the project unless the issuance or renewal entails a modification, decommissioning, abandonment or other alteration to the project, in whole or in part.
+
+
+
+
+## Consequential Amendments
+
+
+**75 to 81** [Amendments]
+
+
+
+
+## Coming into Force
+
+
+
+**Coming into force**
+
+***82** This Act, or any provision of this Act, shall come into force on a day or days to be fixed by order of the Governor in Council.
+
+<a name='C-15.2_en_1'><sup>*</sup></a>: [Note: Sections 61 to 70, 73, 75 and 78 to 80 in force December 22, 1994, *see* SI/95-3; sections 1 to 60, 71, 72, 74, 76 and 77 in force January 19, 1995, *see* SI/95-11.]<br />
+
+
