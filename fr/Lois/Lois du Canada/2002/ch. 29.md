@@ -104,7 +104,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***espèce préoccupante*** Espèce sauvage qui peut devenir une espèce menacée ou une espèce en voie de disparition par l’effet cumulatif de ses caractéristiques biologiques et des menaces signalées à son égard.
 
-***espèce sauvage*** Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes d’origine sauvage, sauf une bactérie ou un virus, qui, selon le cas :
+***espèce sauvage*** Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes d’origine sauvage, sauf une bactérie ou un virus, qui, selon le cas :
 - **a)** est indigène du Canada;
 - **b)** s’est propagée au Canada sans intervention humaine et y est présente depuis au moins cinquante ans.
 
@@ -127,7 +127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***ministre*** Le ministre de l’Environnement.
 
 ***ministre compétent***
-- **a)** En ce qui concerne les individus présents dans les parcs nationaux, les lieux historiques nationaux et les autres lieux patrimoniaux protégés, au sens du paragraphe 2(1) de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md), qui sont des terres domaniales dont la gestion relève du ministre du Patrimoine canadien, ce ministre;
+- **a)** En ce qui concerne les individus présents dans les parcs nationaux, les lieux historiques nationaux, les aires marines nationales de conservation et les autres lieux patrimoniaux protégés, au sens du paragraphe 2(1) de la  Loi sur l'Agence Parcs Canada, qui sont des terres domaniales dont la gestion relève du ministre du Patrimoine canadien, ce ministre;
 - **b)** en ce qui concerne les espèces aquatiques dont les individus ne sont pas visés par l’alinéa a), le ministre des Pêches et des Océans;
 - **c)** en ce qui concerne tout autre individu, le ministre de l’Environnement.
 
@@ -165,6 +165,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre compétent**
 
 - **(3)** La mention de ministre compétent dans une disposition de la présente loi vaut celle du ministre compétent à l’égard d’une espèce sauvage, ou des individus d’une telle espèce, auxquels la disposition s’applique.
+> 2002, ch. 29, art. 2 et 141.1.
+
 
 
 
@@ -2428,7 +2430,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 <sup><a href='#S-15.3_fr_1'>[*]</a></sup>**142** Les dispositions de la présente loi, à l’exception de l’article 141.1, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='S-15.3_fr_1'><sup>*</sup></a>: [Note : Article 141.1 en vigueur à la sanction le 12 décembre 2002; articles 1, 134 à 136 et 138 à 141 en vigueur le 24 mars 2003, *voir* TR/2003-43.]<br />
+<a name='S-15.3_fr_1'><sup>*</sup></a>: [Note : Article 141.1 en vigueur à la sanction le 12 décembre 2002; articles 1, 134 à 136 et 138 à 141 en vigueur le 24 mars 2003, *voir* TR/2003-43; articles 2 à 31, 37 à 56, 62, 65 à 76, 78 à 84, 120 à 133 et 137 en vigueur le 5 juin 2003, *voir* TR/2003-111.]<br />
 
 
 
