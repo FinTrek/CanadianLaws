@@ -1157,8 +1157,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance**
 
-**65** À la demande soit de la personne — autre que le gouvernement — qui est titulaire d’un droit ou d’un intérêt sur la surface d’une terre non désignée, soit de la personne — autre que le gouvernement — en droit d’exercer un droit d’accès lié à un droit minier (ou minéral) sur la même terre et découlant des dispositions d’une ordonnance du Yukon visée par un règlement d’application de l’alinéa 78f.1), ou encore de l’article 17 de la Loi sur l’extraction de l’or dans le Yukon ou de l’article 12 de la Loi sur l’extraction du quartz dans le Yukon — compte tenu de l’article 14 de cette loi — , l’Office tranche, par ordonnance, tout différend entre ces personnes sur l’interprétation de l’une ou l’autre de ces dispositions en ce qui concerne la portée et l’exercice du droit d’accès. L’ordonnance ne lie que les parties à l’instance.
-> 1994, ch. 43, art. 65; 1998, ch. 5, art. 16.
+**65** À la demande soit de la personne — autre que le gouvernement — qui est titulaire d’un droit ou d’un intérêt sur la surface d’une terre non désignée, soit de la personne — autre que le gouvernement — en droit d’exercer un droit d’accès lié à un droit minier (ou minéral) sur la même terre et découlant des dispositions d’une loi de la Législature du Yukon visées par un règlement d’application de l’alinéa 78f), l’Office tranche, par ordonnance, tout différend entre ces personnes sur l’interprétation de l’une ou l’autre de ces dispositions en ce qui concerne la portée et l’exercice du droit d’accès. L’ordonnance ne lie que les parties à l’instance.
+> 1994, ch. 43, art. 65; 1998, ch. 5, art. 16; 2002, ch. 7, art. 270.
 
 
 
@@ -1323,17 +1323,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**78** Le gouverneur en conseil peut, par règlement :
+**78** Le gouverneur en conseil peut, par règlement :
 - **a)** déterminer ce qui constitue un conflit d’intérêts important au sens du paragraphe 33(2);
 - **b)** régir la tenue des dossiers publics de l’Office;
 - **c)** fixer le montant de toute sûreté à fournir aux termes d’une ordonnance rendue en vertu de la présente loi;
 - **d)** outre ceux prévus par la présente loi, préciser les critères de fixation du montant des redevances relatives à l’entrée dont le paiement peut être prévu par une ordonnance fondée sur le paragraphe 42(1);
 - **e)** fixer, pour l’application des paragraphes 43(9), 56(4) et 61(4), le taux des intérêts dont l’Office peut ordonner le paiement sur une indemnité, ou en déterminer le mode de calcul;
-- **f)** conférer à l’Office des attributions supplémentaires en ce qui touche la cession de droits miniers sous le régime de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md);
-- **f.1)** désigner, pour l’application de l’article 65, toute disposition d’une ordonnance du Yukon conférant un droit d’accès pour l’exercice d’un droit minier visant des hydrocarbures;
+- **f)** désigner, pour l’application de l’article 65, toute disposition d’une loi de la Législature du Yukon conférant un droit d’accès pour l’exercice d’un droit minier;
+- **f.1)** [Abrogé, 2002, ch. 7, art. 271]
 - **g)** autoriser l’Office à exercer les attributions que lui confère l’accord définitif relativement à telle parcelle de terre désignée;
 - **h)** de façon générale, prendre toute autre mesure d’application de la présente loi.
-> 1994, ch. 43, art. 78; 1998, ch. 5, art. 18.
+> 1994, ch. 43, art. 78; 1998, ch. 5, art. 18; 2002, ch. 7, art. 271.
 
 
 
