@@ -3264,7 +3264,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Criminal Code
 
 
-**244. to 247** [Amendments]
+**244** [Amendment]
+
+
+
+**245** [Repealed, 2004, c. 15, s. 110]
+
+
+
+**246 and 247** [Amendments]
 
 
 
