@@ -606,6 +606,10 @@ Angola
 
 
 
+Arménie
+
+
+
 Australie
 
 
@@ -670,6 +674,10 @@ Israël
 
 
 
+Laos
+
+
+
 Lesotho
 
 
@@ -702,15 +710,15 @@ République démocratique du Congo
 
 
 
-République tchèque
-
-
-
 Russie
 
 
 
 Sierra Leone
+
+
+
+Sri Lanka
 
 
 
@@ -737,6 +745,6 @@ Ukraine
 Zimbabwe
 
 
-> 2002, ch. 25, ann.; DORS/2003-16.
+> 2002, ch. 25, ann.; DORS/2003-16, 25.
 
 
