@@ -39,57 +39,59 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). 
 
-***autorisation de port*** L’autorisation prévue à l’article 20.
+***autorisation de port*** L’autorisation prévue à l’article 20. 
 
-***autorisation de transport*** L’autorisation prévue aux articles 18 ou 19.
+***autorisation de transport*** L’autorisation prévue aux articles 18 ou 19. 
 
-***autorisation d’exportation*** L’autorisation prévue à l’article 44.
+***autorisation d’exportation*** L’autorisation prévue à l’article 44. 
 
-***autorisation d’importation*** L’autorisation prévue à l’article 46.
+***autorisation d’importation*** L’autorisation prévue à l’article 46. 
 
-***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***bureau de douane*** S’entend au sens du paragraphe 2(1) de la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). 
 
-***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1.
+***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1. 
+
+***conjoint de fait*** La personne qui vit avec une autre dans une relation conjugale depuis au moins un an.
 
 ***contrôleur des armes à feu***
-- **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
-- **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas a) ou b).
+- **a) ** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
+- **b) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
+- **c) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas  a) ou  b).
 
-***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition.
+***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition. 
 
-***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment :
-- **a)** de fabrication, d’assemblage, de possession, d’achat, de vente, d’importation, d’exportation, d’exposition, de réparation, de restauration, d’entretien, d’entreposage, de modification, de prêt sur gages, de transport, d’expédition, de distribution ou de livraison d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
-- **b)** de possession, d’achat ou de vente de munitions;
-- **c)** d’achat d’arbalètes.
+***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment : 
+- **a) ** de fabrication, d’assemblage, de possession, d’achat, de vente, d’importation, d’exportation, d’exposition, de réparation, de restauration, d’entretien, d’entreposage, de modification, de prêt sur gages, de transport, d’expédition, de distribution ou de livraison d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
+- **b) ** de possession, d’achat ou de vente de munitions;
+- **c) ** d’achat d’arbalètes.
 
 Sont visés par la présente définition les musées.
 
-***loi antérieure*** La partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence.
+***loi antérieure*** La partie III du  [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence. 
 
-***ministre fédéral*** Le ministre de la Justice.
+***ministre fédéral*** Le ministre de la Justice. 
 
 ***ministre provincial***
-- **a)** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
-- **b)** le ministre fédéral en ce qui concerne les territoires;
-- **c)** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir.
+- **a) ** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
+- **b) ** le ministre fédéral en ce qui concerne les territoires;
+- **c) ** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir.
 
-***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions.
+***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions. 
 
-***non-résident*** Particulier qui réside habituellement à l’étranger.
+***non-résident*** Particulier qui réside habituellement à l’étranger. 
 
 ***préposé aux armes à feu***
-- **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
-- **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas a) ou b).
+- **a) ** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
+- **b) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
+- **c) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas  a) ou  b).
 
-***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas.
+***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas. 
 
-***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil.
+***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil. 
 
-***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées.
+***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées. 
 
 **[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
@@ -98,7 +100,7 @@ Sont visés par la présente définition les musées.
 **Droits des autochtones**
 
 - **(3)** Il est entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la *Loi constitutionnelle de 1982*.
-> 1995, ch. 39, art. 2; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9
+> 1995, ch. 39, art. 2; 2000, ch. 12, art. 116; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9
 
 
 
