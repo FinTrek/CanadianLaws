@@ -21123,7 +21123,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2002
+## au 31 décembre 2003
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21150,7 +21150,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Banque Canadienne de l’Ouest</td>
+<td>Banque Canadian Tire</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Banque canadienne de l’Ouest</td>
 <td>Edmonton</td>
 </tr>
 <tr>
@@ -21190,19 +21194,27 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Montréal</td>
 </tr>
 <tr>
+<td>Banque Sears Canada</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>La Banque Toronto-Dominion</td>
 <td>Toronto</td>
 </tr>
+<tr>
+<td>Banque Ubiquity du Canada</td>
+<td>Abbotsford</td>
+</tr>
 </table>
 
-> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 137, page 408.
+> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 138, page 275.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2002
+## au 31 décembre 2003
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21237,6 +21249,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
+<td>BCPBank Canada</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>BNP Paribas (Canada)</td>
 <td>Montréal</td>
 </tr>
@@ -21249,16 +21265,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Crédit Suisse First Boston Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>Banque CTC du Canada</td>
 <td>Vancouver</td>
-</tr>
-<tr>
-<td>Deutsche Bank Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>Banque Dresdner du Canada</td>
@@ -21273,6 +21281,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Vancouver</td>
 </tr>
 <tr>
+<td>Banque ICICI du Canada</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>Banque ING du Canada</td>
 <td>Toronto</td>
 </tr>
@@ -21281,7 +21293,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
-<td>IntesaBci Canada</td>
+<td>Banque Intesa Canada</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21301,7 +21313,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ottawa</td>
 </tr>
 <tr>
-<td>Banque Mizuho (Canada)</td>
+<td>Banque Commerciale Mizuho (Canada)</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21309,16 +21321,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Montréal</td>
 </tr>
 <tr>
-<td>Rabobank Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>Société Générale (Canada)</td>
 <td>Montréal</td>
-</tr>
-<tr>
-<td>Banque Sottomayor Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>Banque Nationale de l’Inde (Canada)</td>
@@ -21336,20 +21340,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Banque UFJ du Canada</td>
 <td>Toronto</td>
 </tr>
-<tr>
-<td>Banque United Overseas (Canada)</td>
-<td>Vancouver</td>
-</tr>
 </table>
 
-> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 137, page 408.
+> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 138, page 275.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2002
+## au 31 décembre 2003
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -21430,8 +21430,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
-<td>J.P. Morgan Chase Bank</td>
-<td>J.P. Morgan Chase Bank</td>
+<td>JPMorgan Chase Bank</td>
+<td>JPMorgan Chase Bank</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21456,6 +21456,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
+<td>Services complets</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>UBS AG</td>
+<td>UBS AG succursale de Canada</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21487,6 +21493,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_fr_2'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 137, page 409.
+> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 138, page 275.
 
 
