@@ -188,7 +188,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la collecte du renseignement est manifestement dans l’intérêt de l’intéressé et le consentement ne peut être obtenu auprès de celui-ci en temps opportun;
 	- **b)** il est raisonnable de s’attendre à ce que la collecte effectuée au su ou avec le consentement de l’intéressé puisse compromettre l’exactitude du renseignement ou l’accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention du droit fédéral ou provincial;
 	- **c)** la collecte est faite uniquement à des fins journalistiques, artistiques ou littéraires;
-	- **d)** il s’agit d’un renseignement réglementaire auquel le public a accès.
+	- **d)** il s’agit d’un renseignement réglementaire auquel le public a accès;
+	- **e)** la collecte est faite en vue :
+		- **(i)** soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
+		- **(ii)** soit d’une communication exigée par la loi.
 
 **Utilisation à l’insu de l’intéressé et sans son consentement**
 
@@ -197,7 +200,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** l’utilisation est faite pour répondre à une situation d’urgence mettant en danger la vie, la santé ou la sécurité de tout individu;
 	- **c)** l’utilisation est faite à des fins statistiques ou à des fins d’étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit utilisé, celui-ci est utilisé d’une manière qui en assure le caractère confidentiel, le consentement est pratiquement impossible à obtenir et l’organisation informe le commissaire de l’utilisation avant de la faire;
 	- **c.1)** il s’agit d’un renseignement réglementaire auquel le public a accès;
-	- **d)** le renseignement a été recueilli au titre des alinéas (1)a) ou b).
+	- **d)** le renseignement a été recueilli au titre des alinéas (1)a), b) ou e).
 
 **Communication à l’insu de l’intéressé et sans son consentement**
 
@@ -229,7 +232,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication sans le consentement de l’intéressé**
 
 - **(5)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux alinéas (3)a) à h.2), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
-> 2000, ch. 5, art. 7, ch. 17, art. 97; 2001, ch. 41, art. 81.
+> 2000, ch. 5, art. 7, ch. 17, art. 97; 2001, ch. 41, art. 81; 2004, ch. 15, art. 98.
 
 
 
