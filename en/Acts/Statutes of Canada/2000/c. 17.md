@@ -1282,7 +1282,7 @@ The order must be complied with within the period following the service of the o
 
 **60.1** 
 
-- **(1)** The Director of the Canadian Security Intelligence Service, or any employee of the Canadian Security Intelligence Service, may, for the purposes of an investigation in respect of a threat to the security of Canada, after having obtained the approval of the Solicitor General of Canada, make an application under subsection (2) to a judge for an order for disclosure of information.
+- **(1)** The Director of the Canadian Security Intelligence Service, or any employee of the Canadian Security Intelligence Service, may, for the purposes of an investigation in respect of a threat to the security of Canada, after having obtained the approval of the Minister of Public Safety and Emergency Preparedness, make an application under subsection (2) to a judge for an order for disclosure of information.
 
 **Matters to be specified in application for production order**
 
@@ -1355,7 +1355,7 @@ The order must be complied with within the period following the service of the o
 **Definition of judge**
 
 - **(16)** In this section, ***judge*** means a judge of the Federal Court designated by the Chief Justice of the Federal Court for the purposes of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2001, c. 41, s. 72.
+> 2001, c. 41, s. 72; 2005, c. 10, s. 34.
 
 
 
