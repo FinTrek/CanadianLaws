@@ -236,6 +236,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnel**
 
 **11** Le ministre met à la disposition de l’Office les cadres et agents de l’administration publique fédérale et les conseillers techniques et professionnels nécessaires à son bon fonctionnement.
+> 1992, ch. 39, art. 11; 2003, ch. 22, art. 224(A).
+
 
 
 
