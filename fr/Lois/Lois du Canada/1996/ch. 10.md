@@ -523,7 +523,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **33** 
 
-- **(1)** Les décisions ou arrêtés de l’Office peuvent être homologués par la Cour fédérale ou une cour supérieure; le cas échéant, leur exécution s’effectue selon les mêmes modalités que les ordonnances de la cour saisie.
+- **(1)** Les décisions ou arrêtés de l'Office peuvent être homologués par une cour supérieure; le cas échéant, leur exécution s'effectue selon les mêmes modalités que les ordonnances de la cour saisie.
 
 **Procédure**
 
@@ -536,6 +536,8 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Faculté d’exécution**
 
 - **(4)** L’Office peut toujours faire exécuter lui-même ses décisions ou arrêtés, même s’ils ont été homologués par une cour.
+> 1996, ch. 10, art. 33; 2002, ch. 8, art. 122.
+
 
 
 
