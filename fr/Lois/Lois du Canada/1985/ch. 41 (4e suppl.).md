@@ -255,6 +255,8 @@
 **Indemnisation des victimes d’accidents d’aviation**
 
 - **(2)** Pour l’application des règlements pris aux termes de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), le personnel de la Société est réputé appartenir à l’administration publique fédérale.
+> L.R. (1985), ch. 41 (4e suppl.), art. 41; 2003, ch. 22, art. 224(A).
+
 
 
 
