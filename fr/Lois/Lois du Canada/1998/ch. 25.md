@@ -86,7 +86,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***terres désignées*** Les terres désignées comme « terres visées par le règlement » par l’accord de revendication pertinent.
 
 ***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada.
-> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50.
+> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A).
 
 
 
@@ -2169,16 +2169,16 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 **Substitution, pouvoirs et obligations**
 
 - **(5)** L’examen effectué par la formation conjointe ou la commission tient lieu d’étude d’impact. À cet égard, les articles 135 à 137 s’appliquent, avec les adaptations nécessaires.
-> 1998, ch. 15, art. 48, ch. 25, art. 141.
+> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A).
 
 
 
 
 
-**Entente : projets réalisés à l’extérieur**
+**Entente : projets réalisés à l’extérieur**
 
 **142** Dans les cas de projet de développement qui, d’une part, doit être entièrement réalisé soit dans une région des Territoires du Nord-Ouest, du Yukon ou du Nunavut voisine de la vallée du Mackenzie, soit dans une province, et, d’autre part, est susceptible d’avoir des répercussions négatives importantes sur l’environnement de cette vallée, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent de cette région ou de cette province une entente visant la participation de l’Office à l’examen effectué par cet organisme au sujet des effets sur l’environnement du projet.
-> 1998, ch. 15, art. 48, ch. 25, art. 142.
+> 1998, ch. 15, art. 48, ch. 25, art. 142; 2002, ch. 7, art. 207(A).
 
 
 
