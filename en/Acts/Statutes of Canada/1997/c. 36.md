@@ -408,12 +408,12 @@ Version anglaise seulement***prescribed*** means
 
 **Duty on tobacco imported by traveller**
 
-- <sup><a href='#C-54.011_en_1'>[*]</a></sup>**(2)** There shall be levied on traveller’s tobacco, at the time of its importation, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), a duty of
-	- **(a)** $0.0575 per cigarette, in the case of cigarettes;
-	- **(b)** $0.0425 per stick, in the case of tobacco sticks; and
-	- **(c)** $0.0375 per gram, in the case of manufactured tobacco other than cigarettes and tobacco sticks.
-
-<a name='C-54.011_en_1'><sup>*</sup></a>: [Note: Subsection 21(2) does not apply to tobacco imported before October 1, 2001, *see* 2001, c. 16, s. 3(2).]<br />
+- **
+(2)
+** There shall be levied on traveller’s tobacco, at the time of its importation, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), a duty of
+	- **(a)** $0.075 per cigarette, in the case of cigarettes;
+	- **(b)** $0.055 per stick, in the case of tobacco sticks; and
+	- **(c)** $0.05 per gram, in the case of manufactured tobacco other than cigarettes and tobacco sticks.
 
 **Exception — excise duty-paid manufactured tobacco**
 
@@ -433,7 +433,7 @@ Version anglaise seulement***prescribed*** means
 ***traveller’s tobacco*** means manufactured tobacco that is imported by a person at any time and
 - **(a)** is classified under tariff item No. 9804.10.00, 9804.20.00, 9805.00.00 or 9807.00.00; or
 - **(b)** would be classified under tariff item No. 9804.10.00 or 9804.20.00 but for the fact that the total value for duty as determined under section 46 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) of all goods imported by the person at that time exceeds the maximum value specified in that tariff item.
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, s. 412.
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, s. 412; 2003, c. 15, s. 45.
 
 
 
