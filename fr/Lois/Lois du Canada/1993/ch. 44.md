@@ -267,6 +267,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions du secrétaire**
 
 - **(5)** Le secrétaire est le premier dirigeant de la section canadienne du Secrétariat; à ce titre, il contrôle ses travaux et la gestion de son personnel.
+> 1993, ch. 44, art. 15; 2003, ch. 22, art. 225(A).
+
 
 
 
