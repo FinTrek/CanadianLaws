@@ -2220,7 +2220,10 @@ but not including
 **31** Zipeprol (4-(2-methoxy-2-phenylethyl)-α-(methoxyphenylmethyl)-1-piperazineethanol) and any salt thereof
 
 
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5.
+**32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
+
+
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412.
 
 
 
