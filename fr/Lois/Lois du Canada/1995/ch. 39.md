@@ -163,14 +163,14 @@ Sont visés par la présente définition les musées.
 		- **(i)** une infraction commise avec usage, tentative ou menace de violence contre autrui,
 		- **(ii)** une infraction à la présente loi ou à la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(iii)** une infraction à l’article 264 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (harcèlement criminel),
-		- **(iv)** une infraction aux paragraphes 5(3) ou (4), 6(3) ou 7(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+		- **(iv)** une infraction relative à la contravention des paragraphes 5(1) ou (2), 6(1) ou (2) ou 7(1) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
 	- **b)** qu’il ait été interné ou non, il a été traité, notamment dans un hôpital, un institut pour malades mentaux ou une clinique psychiatrique, pour une maladie mentale caractérisée par la menace, la tentative ou l’usage de violence contre lui-même ou autrui;
 	- **c)** l’historique de son comportement atteste la menace, la tentative ou l’usage de violence contre lui-même ou autrui.
 
 **Exception**
 
 - **(3)** Par dérogation au paragraphe (2), pour l’application du paragraphe (1) au non-résident âgé d’au moins dix-huit ans ayant déposé — ou fait déposer — une demande de permis de possession, pour une période de soixante jours, d’une arme à feu qui n’est pas une arme à feu prohibée ni une arme à feu à autorisation restreinte, le contrôleur des armes à feu ou, dans le cas d’un renvoi prévu à l’article 74, le juge de la cour provinciale peut tenir compte des critères prévus au paragraphe (2), sans toutefois y être obligé.
-> 1995, ch. 39, art. 5 et 137; 1996, ch. 19, art. 76.1
+> 1995, ch. 39, art. 5 et 137; 1996, ch. 19, art. 76.1; 2003, ch. 8, art. 10
 
 
 
@@ -194,39 +194,55 @@ Sont visés par la présente définition les musées.
 **7** 
 
 - **(1)** La délivrance d’un permis à un particulier est subordonnée à la réussite d’un des cours ou examens suivants :
-	- **a)** le Cours canadien de sécurité dans le maniement des armes à feu, contrôlé par l’examen y afférent, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
-	- **b)** sauf dans le cas d’un particulier âgé de moins de dix-huit ans, l’examen de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
-	- **c)** avant le 1<sup>er</sup> janvier 1995, un cours agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure;
-	- **d)** avant le 1<sup>er</sup> janvier 1995, un examen agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure.
+	- **a)
+** le Cours canadien de sécurité dans le maniement des armes à feu, contrôlé par l’examen y afférent, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
+	- **b)
+** sauf dans le cas d’un particulier âgé de moins de dix-huit ans, l’examen de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
+	- **c)
+** avant le 1<sup>er</sup> janvier 1995, un cours agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure;
+	- **d)
+** avant le 1<sup>er</sup> janvier 1995, un examen agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure.
 
 **Cours sur la sécurité des armes à feu à autorisation restreinte**
 
-- **(2)** La délivrance d’un permis de possession d’une arme à feu à autorisation restreinte à un particulier est subordonnée à la réussite :
-	- **a)** soit d’un cours sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral et contrôlé par un examen, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
-	- **b)** soit d’un examen sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, que lui fait passer un instructeur désigné par le contrôleur des armes à feu.
+- **(2)** La délivrance d’un permis de possession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte à un particulier est subordonnée à la réussite :
+	- **a)
+** soit d’un cours sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral et contrôlé par un examen, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
+	- **b)
+** soit d’un examen sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, que lui fait passer un instructeur désigné par le contrôleur des armes à feu.
 
 **Ordonnances d’interdiction**
 
 - **(3)** Le particulier qui est sous le coup d’une ordonnance d’interdiction peut devenir titulaire :
-	- **a)** d’un permis, s’il réussit, après l’expiration de celle-ci :
+	- **a)
+** d’un permis, s’il réussit, après l’expiration de celle-ci :
 		- **(i)** le Cours canadien de sécurité dans le maniement des armes à feu donné par un instructeur désigné par le contrôleur des armes à feu,
 		- **(ii)** les examens de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
-	- **b)** d’un permis de possession d’une arme à feu à autorisation restreinte, s’il réussit, après l’expiration de celle-ci :
+	- **b)
+** d’un permis de possession d’une arme à feu à autorisation restreinte, s’il réussit, après l’expiration de celle-ci :
 		- **(i)** un cours sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, donné par un instructeur désigné par le contrôleur des armes à feu,
 		- **(ii)** tout examen de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu.
 
 **Exceptions**
 
 - **(4)** Les paragraphes (1) et (2) ne s’appliquent pas, selon le cas, au particulier :
-	- **a)** dont la compétence en matière de législation sur les armes à feu et de règles de sécurité relatives à leur maniement et à leur usage a été certifiée conforme aux exigences réglementaires par le contrôleur des armes à feu dans les cas prévus par règlement;
-	- **b)** qui, âgé de moins de dix-huit ans, a besoin d’une arme à feu pour chasser, notamment à la trappe, afin de subvenir à ses besoins ou à ceux de sa famille;
-	- **c)** qui, à la date de référence, possédait une ou plusieurs armes à feu et n’a pas besoin d’un permis pour acquérir d’autres armes à feu;
-	- **d)** qui n’a besoin d’un permis que pour acquérir une arbalète;
-	- **e)** qui est un non-résident âgé d’au moins dix-huit ans qui a déposé — ou fait déposer — une demande de permis l’autorisant à posséder, pour une période de soixante jours, une arme à feu qui n’est pas une arme à feu prohibée ni une arme à feu à autorisation restreinte.
+	- **a)
+** dont la compétence en matière de législation sur les armes à feu et de règles de sécurité relatives à leur maniement et à leur usage a été certifiée conforme aux exigences réglementaires par le contrôleur des armes à feu dans les cas prévus par règlement;
+	- **b)
+** qui, âgé de moins de dix-huit ans, a besoin d’une arme à feu pour chasser, notamment à la trappe, afin de subvenir à ses besoins ou à ceux de sa famille;
+	- **c)
+** qui, à la date de référence, possédait une ou plusieurs armes à feu et n’a pas besoin d’un permis pour acquérir d’autres armes à feu;
+	- **d)
+** qui n’a besoin d’un permis que pour acquérir une arbalète;
+	- **e)
+** qui est un non-résident âgé d’au moins dix-huit ans qui a déposé — ou fait déposer — une demande de permis l’autorisant à posséder, pour une période de soixante jours, une arme à feu qui n’est pas une arme à feu prohibée ni une arme à feu à autorisation restreinte.
 
 **Autre exception**
 
-- **(5)** Le paragraphe (3) ne s’applique pas au particulier qui est sous le coup d’une ordonnance rendue sous le régime de l’article 113 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (levée de l’interdiction) et qui est exempté de l’application de ce paragraphe par le contrôleur des armes à feu.
+- **(5)** Le paragraphe (3) ne s’applique pas au particulier qui est sous le coup d’une ordonnance rendue sous le régime de l’article 113 du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (levée de l’interdiction) et qui est exempté de l’application de ce paragraphe par le contrôleur des armes à feu.
+> 1995, ch. 39, art. 7; 2003, ch. 8, art. 11
+
 
 
 
@@ -270,9 +286,17 @@ Sont visés par la présente définition les musées.
 
 - **(2)** Le permis peut être délivré à l’entreprise qui n’est pas un transporteur lorsque le contrôleur des armes à feu décide qu’il n’est pas nécessaire pour les particuliers liés à l’entreprise de manière réglementaire, ou pour ceux de ces particuliers qu’il désigne, de répondre aux exigences prévues à l’article 7.
 
-**Employés**
+**Employés : armes à feu**
 
-- **(3)** Pour qu’un permis autorisant une activité en particulier puisse être délivré à une entreprise — qui n’est pas un transporteur — , il faut que chaque employé de cette entreprise qui manie ou est susceptible de manier des armes à feu, des armes prohibées, des armes à autorisation restreinte, des dispositifs prohibés ou des munitions prohibées dans le cadre de ses fonctions soit titulaire d’un permis l’autorisant à acquérir des armes à feu à autorisation restreinte.
+- **(3)** Sous réserve du paragraphe (3.1), pour qu’un permis autorisant la possession d’armes à feu soit délivré à une entreprise — qui n’est pas un transporteur — , il faut que chaque employé de celle-ci qui manie ou est susceptible de manier des armes à feu dans le cadre de ses fonctions soit titulaire d’un permis l’autorisant à acquérir des armes à feu qui ne sont pas des armes à feu prohibées ni des armes à feu à autorisation restreinte.
+
+**Employés : armes à feu prohibées ou armes à feu à autorisation restreinte**
+
+- **(3.1)** Pour qu’un permis autorisant la possession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte soit délivré à une telle entreprise, il faut que chaque employé de celle-ci qui manie ou est susceptible de manier de telles armes dans le cadre de ses fonctions soit titulaire d’un permis l’autorisant à acquérir des armes à feu à autorisation restreinte.
+
+**Employés : armes prohibées, armes à autorisation restreinte, etc.**
+
+- **(3.2)** Pour qu’un permis autorisant la possession d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées soit délivré à une entreprise — qui n’est pas un transporteur —, il faut que chaque employé de celle-ci qui en manie ou est susceptible d’en manier dans le cadre de ses fonctions réponde aux critères d’admissibilité prévus par les articles 5 et 6.
 
 **Exception**
 
@@ -287,6 +311,8 @@ Sont visés par la présente définition les musées.
 - **(6)** Le paragraphe (3) ne s’applique pas aux employés d’un musée dans chacun des cas suivants :
 	- **a)** ils manient ou sont susceptibles de manier, dans le cadre de leurs fonctions, seulement des armes à feu conçues de façon à avoir l’apparence exacte d’une arme à feu historique — ou à la reproduire le plus fidèlement possible — ou auxquelles on a voulu donner cette apparence et ont reçu la formation pour le maniement et l’usage de telles armes;
 	- **b)** ils sont nominalement désignés par le ministre provincial.
+> 1995, ch. 39, art. 9; 2003, ch. 8, art. 12
+
 
 
 
@@ -601,7 +627,9 @@ Sont visés par la présente définition les musées.
 
 **Non-communication des renseignements**
 
-- **(7)** Le contrôleur des armes à feu ou le directeur n’est pas tenu de communiquer des renseignements qui, de l’avis du ministre provincial, pourraient menacer la sécurité d’une personne.
+- **(7)** Le ministre provincial n’est pas tenu de communiquer des renseignements qui, à son avis, pourraient menacer la sécurité d’une personne.
+> 1995, ch. 39, art. 29; 2003, ch. 8, art. 22(F)
+
 
 
 
@@ -631,10 +659,12 @@ Sont visés par la présente définition les musées.
 
 **Cession par la poste**
 
-**32** La cession d’une arme à feu par la poste est permise lorsque :
+**32** La cession d’une arme à feu par la poste est permise lorsque :
 - **a)** les vérifications, notifications, délivrances et autorisations prévues aux articles 21 à 28, 30, 31, 40 à 43 et 46 à 52 sont effectuées auparavant dans un délai raisonnable, selon les modalités réglementaires;
-- **b)** la livraison de l’arme à feu est effectuée par une personne désignée par le contrôleur des armes à feu, laquelle s’assure alors que le cessionnaire est titulaire d’un permis l’autorisant à acquérir une telle arme à feu;
+- **b)** [Abrogé, 2003, ch. 8, art. 24]
 - **c)** les conditions réglementaires sont remplies.
+> 1995, ch. 39, art. 32; 2003, ch. 8, art. 24
+
 
 
 
@@ -1090,6 +1120,10 @@ Sont visés par la présente définition les musées.
 
 - **(1)** Les permis délivrés aux particuliers âgés d’au moins dix-huit ans sont valides pour la période mentionnée, qui ne peut dépasser cinq ans après le premier anniversaire de naissance du titulaire suivant la date de délivrance.
 
+**Prolongation de la période de validité**
+
+- **(1.1)** Malgré le paragraphe (1), le contrôleur des armes à feu peut, jusqu’au 1<sup>er</sup> janvier 2005, prolonger la période de validité mentionnée sur les permis visés à ce paragraphe qui ont été délivrés avant le 31 décembre 2001 d’une période qui ne peut dépasser quatre ans.
+
 **Mineurs**
 
 - **(2)** Les permis délivrés aux particuliers âgés de moins de dix-huit ans sont valides pour la période mentionnée, qui ne peut dépasser la date où le titulaire atteint l’âge de dix-huit ans.
@@ -1101,6 +1135,8 @@ Sont visés par la présente définition les musées.
 **Musées**
 
 - **(4)** Les permis délivrés aux musées sont valides pour la période mentionnée, qui ne peut dépasser trois ans suivant la date de délivrance.
+> 1995, ch. 39, art. 64; 2003, ch. 8, art. 40
+
 
 
 
@@ -1184,18 +1220,18 @@ Sont visés par la présente définition les musées.
 
 
 
-**Révocation : permis et autorisations**
+**Révocation : permis et autorisations**
 
 **70** 
 
-- **(1)** Le contrôleur des armes à feu peut révoquer un permis ou une autorisation de port ou de transport pour toute raison valable, notamment parce que :
+- **(1)** Le contrôleur des armes à feu peut révoquer un permis ou une autorisation de port ou de transport pour toute raison valable, notamment parce que :
 	- **a)** le titulaire soit ne peut plus ou n’a jamais pu être titulaire du permis ou de l’autorisation, soit enfreint une condition du permis ou de l’autorisation, soit encore a été déclaré coupable ou absous en application de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) d’une infraction visée à l’alinéa 5(2)a);
 	- **b)** dans le cas d’une entreprise, une personne liée de manière réglementaire à celle-ci a été déclarée coupable ou absoute en application de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) d’une telle infraction.
 
 **Directeur**
 
 - **(2)** Le directeur peut révoquer les autorisations d’exportation ou d’importation pour toute raison valable.
-> 1995, ch. 39, art. 70 et 137
+> 1995, ch. 39, art. 70 et 137; 2003, ch. 8, art. 43(A)
 
 
 
@@ -1708,17 +1744,9 @@ Sont visés par la présente définition les musées.
 
 **Attributions du contrôleur des armes à feu**
 
-**99** 
+**99** Le préposé aux armes à feu désigné par écrit par le contrôleur des armes à feu peut exercer les attributions, précisées dans la désignation, que la présente loi et la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) confèrent à ce dernier.
+> 1995, ch. 39, art. 99; 2003, ch. 8, art. 52
 
-- **(1)** Sous réserve des paragraphes (2) et (3), le préposé aux armes à feu désigné par écrit par le contrôleur des armes à feu peut exercer les attributions de celui-ci, précisées dans la désignation, que lui confèrent la présente loi et la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-
-**Exception**
-
-- **(2)** Seul le contrôleur des armes à feu lui-même peut délivrer les permis autorisant une entreprise à acquérir des armes à feu prohibées, des armes prohibées, des dispositifs prohibés ou des munitions prohibées.
-
-**Exception**
-
-- **(3)** Seul le contrôleur des armes à feu lui-même peut délivrer les autorisations de port.
 
 
 
@@ -1781,25 +1809,29 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 
 
-**Mandat pour maison d’habitation**
+**Mandat — maison d’habitation**
 
 **104** 
 
-- **(1)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois procéder à la visite sans préavis raisonnable donné au propriétaire ou à l’occupant et sans l’autorisation de ce dernier que s’il est muni d’un mandat.
+- **(1)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois procéder à la visite :
+	- **a)** sans préavis raisonnable donné au propriétaire ou à l’occupant, à moins que s’y déroulent les activités d’une entreprise;
+	- **b)** sans l’autorisation de l’occupant que s’il est muni d’un mandat.
 
 **Délivrance du mandat**
 
-- **(2)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+- **(2)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** les circonstances prévues à l’article 102 existent;
 	- **b)** la visite est nécessaire pour l’application de la présente loi ou de ses règlements;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
 
 **Parties visées par l’inspection**
 
-- **(3)** Il est entendu, que lors de l’inspection d’une maison d’habitation, l’inspecteur ne peut visiter et inspecter que les parties d’une pièce où, à son avis :
+- **(3)** Il est entendu, que lors de l’inspection d’une maison d’habitation, l’inspecteur ne peut visiter et inspecter que les parties d’une pièce où, à son avis :
 	- **a)** se trouvent soit des armes à feu, armes prohibées, armes à autorisation restreinte, dispositifs prohibés, munitions prohibées ou des registres relatifs à une collection d’armes à feu soit tout ou partie d’un dispositif ou d’un autre objet exigé, par règlement pris en vertu de l’alinéa 117h), pour l’entreposage des armes à feu et des armes à autorisation restreinte;
 	- **b)** dans le cas où il a des motifs raisonnables de croire que s’y déroulent les activités d’une entreprise, se trouvent des munitions ou des registres d’entreprise.
 Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
+> 1995, ch. 39, art. 104; 2003, ch. 8, art. 53(F)
+
 
 
 
@@ -2308,7 +2340,15 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 ## Modifications corrélatives : autres lois
 
 
-**158 à 187** [Modifications]
+**158 à 168** [Modifications]
+
+
+
+**169** [Abrogé, 2003, ch. 8, art. 55]
+
+
+
+**170 à 187** [Modifications]
 
 
 
