@@ -57,13 +57,15 @@ Assented to on 1 January 1993
 - **(1)** Subject to this Act, there shall be paid out of the Consolidated Revenue Fund, for each month, a special allowance in the amount determined for that month by or pursuant to section 8 in respect of each child who
 	- **(a)** is maintained
 		- **(i)** by a department or agency of the government of Canada or a province, or
-		- **(ii)** by an agency appointed by a province for the purpose of administering any law of the province for the protection and care of children,
+		- **(ii)** by an agency appointed by a province, including an authority established under the laws of a province, or by an agency appointed by such an authority, for the purpose of administering any law of the province for the protection and care of children,
 and who resides in the private home of foster parents, a group foster home or an institution; or
 	- **(b)** is maintained by an institution licensed or otherwise authorized under the law of the province to have the custody or care of children.
 
 **Use of special allowance**
 
 - **(2)** A special allowance shall be applied exclusively toward the care, maintenance, education, training or advancement of the child in respect of whom it is paid.
+> 1992, c. 48, s. 23 (Sch., s. 3); 2004, c. 26, s. 17.
+
 
 
 
