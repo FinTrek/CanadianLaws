@@ -2458,9 +2458,9 @@ Whale, Grey (*Eschrichtius robustus*) Atlantic population<br />- <i>Baleine gris
 
 ##### Birds
 
-Grouse, Sage (*Centrocercus urophasianus phaios*) British Columbia population<br />- <i>Tétras des armoises population de la Colombie-Britannique</i>
-
 Prairie-Chicken, Greater (*Tympanuchus cupido*)<br />- <i>Tétras des prairies</i>
+
+Sage-Grouse *phaios* subspecies, Greater (*Centrocercus urophasianus phaios*)<br />- <i>Tétras des armoises de la sous-espèce phaios</i>
 
 
 
@@ -2474,9 +2474,13 @@ Salamander, Tiger (*Ambystoma tigrinum*) Great Lakes population<br />- <i>Salama
 
 ##### Reptiles
 
-Lizard, Pygmy Short-horned (*Phrynosoma douglassii douglassii*) British Columbia population<br />- <i>Iguane pygmée à cornes courtes population de la Colombie-Britannique</i>
+Gophersnake, Pacific (*Pituophis catenifer catenifer*)<br />- <i>Couleuvre à nez mince du Pacifique</i>
+
+Lizard, Pigmy Short-horned (*Phrynosoma douglasii*) British Columbia population<br />- <i>Iguane pygmée à cornes courtes population de la Colombie-Britannique</i>
 
 Rattlesnake, Timber (*Crotalus horridus*)<br />- <i>Crotale des bois</i>
+
+Turtle, Pacific Pond (*Actinemys marmorata*)<br />- <i>Tortue de l’Ouest</i>
 
 
 
@@ -2492,6 +2496,8 @@ Paddlefish (*Polyodon spathula*)<br />- <i>Spatulaire</i>
 
 ##### Molluscs
 
+Snail, Puget Oregonian (*Cryptomastix devia*)<br />- <i>Escargot du Puget</i>
+
 Wedgemussel, Dwarf (*Alasmidonta heterodon*)<br />- <i>Alasmidonte naine</i>
 
 
@@ -2501,7 +2507,7 @@ Wedgemussel, Dwarf (*Alasmidonta heterodon*)<br />- <i>Alasmidonte naine</i>
 
 Blue, Karner (*Lycaeides melissa samuelis*)<br />- <i>Mélissa bleu</i>
 
-Elfin, Frosted (*Callophrys irus, Incisalia irus*)<br />- <i>Lutin givré</i>
+Elfin, Frosted (*Callophrys [Incisalia] irus*)<br />- <i>Lutin givré</i>
 
 Marble, Island (*Euchloe ausonides*)<br />- <i>Marbré insulaire</i>
 
@@ -2510,9 +2516,16 @@ Marble, Island (*Euchloe ausonides*)<br />- <i>Marbré insulaire</i>
 
 ##### Plants
 
-Mary, Spring Blue-eyed (*Collinsia verna*)<br />- <i>Collinsie printanière</i>
+Spring Blue-eyed Mary (*Collinsia verna*)<br />- <i>Collinsie printanière</i>
 
 Tick-trefoil, Illinois (*Desmodium illinoense*)<br />- <i>Desmodie d’Illinois</i>
+
+
+
+
+##### Mosses
+
+Moss, Incurved Grizzled (*Ptychomitrium incurvum*)<br />- <i>Ptychomitre à feuilles incurvées</i>
 
 
 
@@ -2523,9 +2536,9 @@ Tick-trefoil, Illinois (*Desmodium illinoense*)<br />- <i>Desmodie d’Illinois<
 
 ##### Mammals
 
-Badger *jacksoni* subspecies, American (*Taxidea taxus jacksoni*)<br />- <i>Blaireau d’Amérique, jacksoni</i>
+Badger *jacksoni* subspecies, American (*Taxidea taxus jacksoni*)<br />- <i>Blaireau d’Amérique de la sous-espèce jacksoni</i>
 
-Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*)<br />- <i>Blaireau d’Amérique, jeffersonii</i>
+Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*)<br />- <i>Blaireau d’Amérique de la sous-espèce jeffersonii</i>
 
 Caribou, Woodland (*Rangifer tarandus caribou*) Atlantic — Gaspésie population<br />- <i>Caribou des bois population de la Gaspésie — Atlantique</i>
 
@@ -2533,16 +2546,28 @@ Fox, Swift (*Vulpes velox*)<br />- <i>Renard véloce</i>
 
 Marmot, Vancouver Island (*Marmota vancouverensis*)<br />- <i>Marmotte de l’île Vancouver</i>
 
-Marten, American (*Martes americana atrata*) Newfoundland population<br />- <i>Martre d’Amérique population de Terre-Neuve</i>
+Marten, Newfoundland (*Martes americana atrata*)<br />- <i>Martre de Terre-Neuve</i>
 
-Whale, Killer (*Orcinus orca*) Northeast Pacific southern resident population<br />- <i>Épaulard population résidente du Sud du Pacifique Nord-Est</i>
+Mole, Townsend’s (*Scapanus townsendii*)<br />- <i>Taupe de Townsend</i>
+
+Whale, Blue (*Balaenoptera musculus*) Atlantic population<br />- <i>Rorqual bleu population de l’Atlantique</i>
+
+Whale, Blue (*Balaenoptera musculus*) Pacific population<br />- <i>Rorqual bleu population du Pacifique</i>
+
+Whale, Killer (*Orcinus orca*) Northeast Pacific southern resident population<br />- <i>Épaulard population résidente du sud du Pacifique Nord-Est</i>
+
+Whale, North Atlantic Right (*Eubalaena glacialis*)<br />- <i>Baleine noire de l’Atlantique Nord</i>
+
+Whale, Sei (*Balaenoptera borealis*) Pacific population<br />- <i>Rorqual boréal population du Pacifique</i>
+
+Wolverine (*Gulo gulo*) Eastern population<br />- <i>Carcajou population de l’Est</i>
 
 
 
 
 ##### Birds
 
-Chat, Western Yellow-breasted (*Icteria virens auricollis*) British Columbia population<br />- <i>Paruline polyglotte de l’Ouest population de la Colombie-Britannique</i>
+Chat *auricollis* subspecies, Yellow-breasted (*Icteria virens auricollis*) British Columbia population<br />- <i>Paruline polyglotte de la sous-espèce auricollis population de la Colombie-Britannique</i>
 
 Crane, Whooping (*Grus americana*)<br />- <i>Grue blanche</i>
 
@@ -2550,23 +2575,25 @@ Curlew, Eskimo (*Numenius borealis*)<br />- <i>Courlis esquimau</i>
 
 Flycatcher, Acadian (*Empidonax virescens*)<br />- <i>Moucherolle vert</i>
 
-Grouse, Sage (*Centrocercus urophasianus urophasianus*) Prairie population<br />- <i>Tétras des armoises population des Prairies</i>
-
 Owl, Barn (*Tyto alba*) Eastern population<br />- <i>Effraie des clochers population de l’Est</i>
 
-Owl, Burrowing (*Speotyto cunicularia*)<br />- <i>Chevêche des terriers</i>
+Owl, Burrowing (*Athene cunicularia*)<br />- <i>Chevêche des terriers</i>
 
-Owl, Northern Spotted (*Strix occidentalis caurina*)<br />- <i>Chouette tachetée du Nord</i>
+Owl *caurina* subspecies, Spotted (*Strix occidentalis caurina*)<br />- <i>Chouette tachetée de la sous-espèce caurina</i>
 
 Plover, Mountain (*Charadrius montanus*)<br />- <i>Pluvier montagnard</i>
 
-Plover circumcinctus subspecies, Piping (*Charadrius melodus circumcinctus*)<br />- <i>Pluvier siffleur, circumcinctus</i>
+Plover circumcinctus subspecies, Piping (*Charadrius melodus circumcinctus*)<br />- <i>Pluvier siffleur de la sous-espèce circumcinctus</i>
 
-Plover melodus subspecies, Piping (*Charadrius melodus melodus*)<br />- <i>Pluvier siffleur, melodus</i>
+Plover melodus subspecies, Piping (*Charadrius melodus melodus*)<br />- <i>Pluvier siffleur de la sous-espèce melodus</i>
 
 Rail, King (*Rallus elegans*)<br />- <i>Râle élégant</i>
 
-Shrike, Eastern Loggerhead (*Lanius ludovicianus migrans*)<br />- <i>Pie-grièche migratrice de l’Est</i>
+Sage-Grouse urophasianus subspecies, Greater (*Centrocercus urophasianus urophasianus*)<br />- <i>Tétras des armoises de la sous-espèce urophasianus</i>
+
+Screech-owl macfarlanei subspecies, Western (*Megascops kennicottii macfarlanei*)<br />- <i>Petit-duc des montagnes de la sous-espèce macfarlanei</i>
+
+Shrike migrans subspecies, Loggerhead (*Lanius ludovicianus migrans*)<br />- <i>Pie-grièche migratrice de la sous-espèce migrans</i>
 
 Sparrow, Henslow’s (*Ammodramus henslowii*)<br />- <i>Bruant de Henslow</i>
 
@@ -2600,11 +2627,13 @@ Salamander, Tiger (*Ambystoma tigrinum*) Southern Mountain population<br />- <i>
 
 ##### Reptiles
 
+Nightsnake (*Hypsiglena torquata*)<br />- <i>Couleuvre nocturne</i>
+
+Racer, Blue (*Coluber constrictor foxii*)<br />- <i>Couleuvre agile bleue</i>
+
+Seaturtle, Leatherback (*Dermochelys coriacea*)<br />- <i>Tortue luth</i>
+
 Snake, Sharp-tailed (*Contia tenuis*)<br />- <i>Couleuvre à queue fine</i>
-
-Turtle, Leatherback (*Dermochelys coriacea*)<br />- <i>Tortue luth</i>
-
-Snake, Night (*Hypsiglena torquata*)<br />- <i>Couleuvre nocturne</i>
 
 
 
@@ -2615,15 +2644,25 @@ Dace, Nooksack (*Rhinichthys* sp.)<br />- <i>Naseux de Nooksack</i>
 
 Lamprey, Morrison Creek (*Lampetra richardsoni*)<br />- <i>Lamproie du ruisseau Morrison</i>
 
-Salmon, Atlantic (*Salmo salar*)<br />- <i>Saumon d’Atlantique populations de l’intérieur de la baie de Fundy</i>
+Madtom, Northern (*Noturus stigmosus*)<br />- <i>Chat-fou du Nord</i>
+
+Salmon, Atlantic (*Salmo salar*) Inner Bay of Fundy populations<br />- <i>Saumon atlantique populations de l’intérieur de la baie de Fundy</i>
+
+Shiner, Pugnose (*Notropis anogenus*)<br />- <i>Méné camus</i>
+
+Stickleback, Benthic Enos Lake (*Gasterosteus* sp.)<br />- <i>Épinoche benthique du lac Enos</i>
 
 Stickleback, Benthic Paxton Lake (*Gasterosteus* sp.)<br />- <i>Épinoche benthique du lac Paxton</i>
 
 Stickleback, Benthic Vananda Creek (*Gasterosteus* sp.)<br />- <i>Épinoche benthique du ruisseau Vananda</i>
 
+Stickleback, Limnetic Enos Lake (*Gasterosteus* sp.)<br />- <i>Épinoche limnétique du lac Enos</i>
+
 Stickleback, Limnetic Paxton Lake (*Gasterosteus* sp.)<br />- <i>Épinoche limnétique du lac Paxton</i>
 
 Stickleback, Limnetic Vananda Creek (*Gasterosteus* sp.)<br />- <i>Épinoche limnétique du ruisseau Vananda</i>
+
+Sucker, Salish (*Catostomus* sp.)<br />- <i>Meunier de Salish</i>
 
 Trout, Aurora (*Salvelinus fontinalis timagamiensis*)<br />- <i>Omble Aurora</i>
 
@@ -2636,9 +2675,15 @@ Whitefish, Atlantic (*Coregonus huntsmani*)<br />- <i>Corégone de l’Atlantiqu
 
 Bean, Rayed (*Villosa fabalis*)<br />- <i>Villeuse haricot</i>
 
+Forestsnail, Oregon (*Allogona townsendiana*)<br />- <i>Escargot-forestier de Townsend</i>
+
+Hickorynut, Round (*Obovaria subrotunda*)<br />- <i>Obovarie ronde</i>
+
+Kidneyshell (*Ptychobranchus fasciolaris*)<br />- <i>Ptychobranche réniforme</i>
+
 Lampmussel, Wavy-rayed (*Lampsilis fasciola*)<br />- <i>Lampsile fasciolée</i>
 
-Mussel, Mudpuppy (*Simpsonais ambigua*)<br />- <i>Mulette du Necturus</i>
+Mussel, Mudpuppy (*Simpsonaias ambigua*)<br />- <i>Mulette du Necturus</i>
 
 Physa, Hotwater (*Physella wrighti*)<br />- <i>Physe d’eau chaude</i>
 
@@ -2646,16 +2691,20 @@ Riffleshell, Northern (*Epioblasma torulosa rangiana*)<br />- <i>Dysnomie ventru
 
 Snail, Banff Springs (*Physella johnsoni*)<br />- <i>Physe des fontaines de Banff</i>
 
-Snuffbox (*Epioblasma triquetra*)<br />- <i>Epioblasme tricorn</i>
+Snuffbox (*Epioblasma triquetra*)<br />- <i>Épioblasme tricorne</i>
 
 
 
 
 ##### Lepidopterans
 
-Blue, Island (*Plebejus saepiolus insulanus*)<br />- <i>Bleu insulaire</i>
+Blue, Island (*Plebejus saepiolus insulanusi*)<br />- <i>Bleu insulaire</i>
 
 Checkerspot, Taylor’s (*Euphydryas editha taylori*)<br />- <i>Damier de Taylor</i>
+
+Metalmark, Mormon (*Apodemia mormo*) Southern Mountain population<br />- <i>Mormon population des montagnes du Sud</i>
+
+Moth, Yucca (*Tegeticula yuccasella*)<br />- <i>Teigne du yucca</i>
 
 Ringlet, Maritime (*Coenonympha tullia nipisiquit*)<br />- <i>Satyre fauve des Maritimes</i>
 
@@ -2668,25 +2717,27 @@ Agalinis, Gattinger’s (*Agalinis gattingeri*)<br />- <i>Gérardie de Gattinger
 
 Agalinis, Skinner’s (*Agalinis skinneriana*)<br />- <i>Gérardie de Skinner</i>
 
-Ammania, Scarlet (*Ammannia robusta*)<br />- <i>Ammannie robuste</i>
+Ammannia, Scarlet (*Ammannia robusta*)<br />- <i>Ammannie robuste</i>
 
 Avens, Eastern Mountain (*Geum peckii*)<br />- <i>Benoîte de Peck</i>
 
 Balsamroot, Deltoid (*Balsamorhiza deltoidea*)<br />- <i>Balsamorhize à feuilles deltoïdes</i>
 
-Bluehearts (*Buchnera americana*)<br />- <i>Buchnera d’Amérique</i>
+Bluehearts (*Buchnera americana*)<br />- <i>Buchnéra d’Amérique</i>
 
 Braya, Long’s (*Braya longii*)<br />- <i>Braya de Long</i>
 
-Bugbane, Tall (*Cimicifuga elata*)<br />- <i>Cimicaire élevée</i>
+Bugbane, Tall (*Actaea elata*)<br />- <i>Cimicaire élevée</i>
 
-Bulrush, Bashful (*Trichophorum planifolium*)<br />- <i>Scirpe timide</i>
+Bulrush, Bashful (*Trichophorum planifolium*)<br />- <i>Trichophore à feuilles plates</i>
 
-Bush-Clover, Slender (*Lespedeza virginica*)<br />- <i>Lespédèze de Virginie</i>
+Bush-clover, Slender (*Lespedeza virginica*)<br />- <i>Lespédèze de Virginie</i>
 
 Buttercup, Water-plantain (*Ranunculus alismaefolius* var. *alismaefolius*)<br />- <i>Renoncule à feuilles d’alisme</i>
 
 Cactus, Eastern Prickly Pear (*Opuntia humifusa*)<br />- <i>Oponce de l’Est</i>
+
+Catchfly, Coastal Scouler’s (*Silene scouleri grandis*)<br />- <i>Grand silène de Scouler</i>
 
 Coreopsis, Pink (*Coreopsis rosea*)<br />- <i>Coréopsis rose</i>
 
@@ -2694,13 +2745,23 @@ Cryptanthe, Tiny (*Cryptantha minima*)<br />- <i>Cryptanthe minuscule</i>
 
 Fern, Southern Maidenhair (*Adiantum capillus-veneris*)<br />- <i>Adiante cheveux-de-Vénus</i>
 
+Fringed-Orchid, Eastern Prairie (*Platanthera leucophaea*)<br />- <i>Platanthère blanchâtre de l’Est</i>
+
+Fringed-orchid, Western Prairie (*Platanthera praeclara*)<br />- <i>Platanthère blanchâtre de l’Ouest</i>
+
 Gentian, White Prairie (*Gentiana alba*)<br />- <i>Gentiane blanche</i>
 
-Ginseng, American (*Panax quinquefolium*)<br />- <i>Ginseng à cinq folioles</i>
+Ginseng, American (*Panax quinquefolius*) <br />- <i>Ginseng à cinq folioles</i>
 
-Goldenrod, Showy (*Solidago speciosa* var. *rigidiuscula*)<br />- <i>Verge d’or voyante</i>
+Goat’s-rue, Virginia (*Tephrosia virginiana*)<br />- <i>Téphrosie de Virginie </i>
+
+Goldenrod, Showy (*Solidago speciosa*)<br />- <i>Verge d’or voyante </i>
+
+Grass, Forked Three-awned (*Aristida basiramea*)<br />- <i>Aristide à rameaux basilaires</i>
 
 Lady’s-slipper, Small White (*Cypripedium candidum*)<br />- <i>Cypripède blanc</i>
+
+Lipocarpha, Small-flowered (*Lipocarpha micrantha*)<br />- <i>Lipocarphe à petites fleurs</i>
 
 Lotus, Seaside Birds-foot (*Lotus formosissimus*)<br />- <i>Lotier splendide</i>
 
@@ -2708,15 +2769,15 @@ Lousewort, Furbish’s (*Pedicularis furbishiae*)<br />- <i>Pédiculaire de Furb
 
 Lupine, Prairie (*Lupinus lepidus* var. *lepidus*)<br />- <i>Lupin élégant</i>
 
+Lupine, Streambank (*Lupinus rivularis*)<br />- <i>Lupin des ruisseaux</i>
+
 Milkwort, Pink (*Polygala incarnata*)<br />- <i>Polygale incarnat</i>
 
-Mountain-Mint, Hoary (*Pycnanthemum incanum*)<br />- <i>Pycnanthème gris</i>
+Mountain-mint, Hoary (*Pycnanthemum incanum*)<br />- <i>Pycnanthème gris</i>
 
 Mulberry, Red (*Morus rubra*)<br />- <i>Mûrier rouge</i>
 
-Orchid, Western Prairie Fringed (*Platanthera praeclara*)<br />- <i>Platanthère blanchâtre de l’Ouest</i>
-
-Owl-Clover, Bearded (*Triphysaria versicolor* ssp. *versicolor*)<br />- <i>Triphysaire versicolore</i>
+Owl-clover, Bearded (*Triphysaria versicolor* ssp. *versicolor*)<br />- <i>Triphysaire versicolore</i>
 
 Paintbrush, Golden (*Castilleja levisecta*)<br />- <i>Castilléjie dorée</i>
 
@@ -2730,11 +2791,15 @@ Pogonia, Small Whorled (*Isotria medeoloides*)<br />- <i>Isotrie fausse-médéol
 
 Quillwort, Engelmann’s (*Isoëtes engelmannii*)<br />- <i>Isoète d’Engelmann</i>
 
+Rush, Kellogg’s (*Juncus kelloggii*)<br />- <i>Jonc de Kellogg</i>
+
+Sand-verbena, Small-flowered (*Tripterocalyx micranthus*)<br />- <i>Abronie à petites fleurs</i>
+
 Sanicle, Bear’s-foot (*Sanicula arctopoides*)<br />- <i>Sanicle patte-d’ours</i>
 
 Sedge, False Hop (*Carex lupuliformis*)<br />- <i>Carex faux-lupulina</i>
 
-Sedge, Juniper (*Carex juniperorum*)<br />- <i>Carex des Genévriers</i>
+Sedge, Juniper (*Carex juniperorum*)<br />- <i>Carex des genévriers</i>
 
 Spike-rush, Horsetail (*Eleocharis equisetoides*)<br />- <i>Éléocharide fausse-prêle</i>
 
@@ -2748,15 +2813,17 @@ Tree, Cucumber (*Magnolia acuminata*)<br />- <i>Magnolia acuminé</i>
 
 Trillium, Drooping (*Trillium flexipes*)<br />- <i>Trille à pédoncule incliné</i>
 
+Triteleia, Howell’s (*Triteleia howellii*)<br />- <i>Tritéléia de Howell</i>
+
 Twayblade, Purple (*Liparis liliifolia*)<br />- <i>Liparis à feuilles de lis</i>
 
-Virginia Goat’s-rue (*Tephrosia virginiana*)<br />- <i>Téphrosie de Virginie</i>
+Violet, Bird’s-foot (*Viola pedata*)<br />- <i>Violette pédalée</i>
 
 Willow, Barrens (*Salix jejuna*)<br />- <i>Saule des landes</i>
 
-Wintergreen, Spotted (*Chimaphila maculata*)<br />- <i>Chimaphile maculé</i>
+Wintergreen, Spotted (*Chimaphila maculata*)<br />- <i>Chimaphile maculée</i>
 
-Wood-Poppy (*Stylophorum diphyllum*)<br />- <i>Stylophore à deux feuilles</i>
+Wood-poppy (*Stylophorum diphyllum*)<br />- <i>Stylophore à deux feuilles</i>
 
 Woodsia, Blunt-lobed (*Woodsia obtusa*)<br />- <i>Woodsie obtuse</i>
 
@@ -2767,6 +2834,8 @@ Woolly-heads, Tall (*Psilocarphus elatior*) Pacific population<br />- <i>Psiloca
 
 ##### Lichens
 
+Lichen, Boreal Felt (*Erioderma pedicellatum*) Atlantic population<br />- <i>Érioderme boréal population de l’Atlantique</i>
+
 Seaside Centipede (*Heterodermia sitchensis*)<br />- <i>Hétérodermie maritime</i>
 
 
@@ -2774,9 +2843,15 @@ Seaside Centipede (*Heterodermia sitchensis*)<br />- <i>Hétérodermie maritime<
 
 ##### Mosses
 
+Moss, Margined Streamside (*Scouleria marginata*)<br />- <i>Scoulérie à feuilles marginées</i>
+
 Moss, Poor Pocket (*Fissidens pauperculus*)<br />- <i>Fissident appauvri</i>
 
 Moss, Rigid Apple (*Bartramia stricta*)<br />- <i>Bartramie à feuilles dressées</i>
+
+Moss, Silver Hair (*Fabronia pusilla*)<br />- <i>Fabronie naine</i>
+
+Moss, Spoon-leaved (*Bryoandersonia illecebra*)<br />- <i>Andersonie charmante</i>
 
 
 
@@ -2795,13 +2870,17 @@ Caribou, Woodland (*Rangifer tarandus caribou*) Boreal population<br />- <i>Cari
 
 Caribou, Woodland (*Rangifer tarandus caribou*) Southern Mountain population<br />- <i>Caribou des bois population des montagnes du Sud</i>
 
-Ermine haidarum subspecies (*Mustela erminea haidarum*)<br />- <i>Hermine, haidarum</i>
+Ermine haidarum subspecies (*Mustela erminea haidarum*)<br />- <i>Hermine de la sous-espèce haidarum</i>
+
+Fox, Grey (*Urocyon cinereoargenteus*)<br />- <i>Renard gris</i>
 
 Otter, Sea (*Enhydra lutris*)<br />- <i>Loutre de mer</i>
 
 Shrew, Pacific Water (*Sorex bendirii*)<br />- <i>Musaraigne de Bendire</i>
 
-Whale, Killer (*Orcinus orca*) Northeast Pacific northern resident population<br />- <i>Épaulard population résidente du Nord Pacifique Nord-Est</i>
+Whale, Humpback (*Megaptera novaeangliae*) North Pacific population<br />- <i>Rorqual à bosse population du Pacifique Nord</i>
+
+Whale, Killer (*Orcinus orca*) Northeast Pacific northern resident population<br />- <i>Épaulard population résidente du nord du Pacifique Nord-Est</i>
 
 Whale, Killer (*Orcinus orca*) Northeast Pacific transient population<br />- <i>Épaulard population migratrice du Pacifique Nord-Est</i>
 
@@ -2812,9 +2891,9 @@ Whale, Killer (*Orcinus orca*) Northeast Pacific transient population<br />- <i>
 
 Bittern, Least (*Ixobrychus exilis*)<br />- <i>Petit Blongios</i>
 
-Falcon, Anatum Peregrine (*Falco peregrinus anatum*)<br />- <i>Faucon pèlerin, anatum</i>
+Falcon anatum subspecies, Peregrine (*Falco peregrinus anatum*)<br />- <i>Faucon pèlerin de la sous-espèce anatum</i>
 
-Goshawk, Queen Charlotte (*Accipiter gentilis laingi*)<br />- <i>Autour des palombes des îles de la Reine-Charlotte</i>
+Goshawk laingi subspecies, Northern (*Accipiter gentilis laingi*)<br />- <i>Autour des palombes de la sous-espèce laingi</i>
 
 Gull, Ross’s (*Rhodostethia rosea*)<br />- <i>Mouette rosée</i>
 
@@ -2829,13 +2908,13 @@ Warbler, Hooded (*Wilsonia citrina*)<br />- <i>Paruline à capuchon</i>
 
 ##### Amphibians
 
-Great Basin Spadefoot (*Spea intermontana*)<br />- <i>Crapaud du Grand Bassin</i>
-
 Salamander, Allegheny Mountain Dusky (*Desmognathus ochrophaeus*)<br />- <i>Salamandre sombre des montagnes</i>
+
+Salamander, Coastal Giant (*Dicamptodon tenebrosus*)<br />- <i>Grande salamandre</i>
 
 Salamander, Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamandre de Jefferson</i>
 
-Salamander, Pacific Giant (*Dicamptodon tenebrosus*)<br />- <i>Grande salamandre</i>
+Spadefoot, Great Basin (*Spea intermontana*)<br />- <i>Crapaud du Grand Bassin</i>
 
 Toad, Fowler’s (*Bufo fowleri*)<br />- <i>Crapaud de Fowler</i>
 
@@ -2844,15 +2923,25 @@ Toad, Fowler’s (*Bufo fowleri*)<br />- <i>Crapaud de Fowler</i>
 
 ##### Reptiles
 
+Foxsnake, Eastern (*Elaphe gloydi*)<br />- <i>Couleuvre fauve de l’Est</i>
+
 Gartersnake, Butler’s (*Thamnophis butleri*)<br />- <i>Couleuvre à petite tête</i>
 
-Snake, Black Rat (*Elaphe obsoleta obsoleta*)<br />- <i>Couleuvre obscure</i>
+Gophersnake, Great Basin (*Pituophis catenifer deserticola*)<br />- <i>Couleuvre à nez mince du Grand Bassin</i>
 
-Snake, Eastern Fox (*Elaphe vulpina gloydi*)<br />- <i>Couleuvre fauve de l’Est</i>
+Massasauga (*Sistrurus catenatus*)<br />- <i>Massasauga</i>
+
+Ratsnake, Eastern (*Elaphe obsoleta*)<br />- <i>Couleuvre obscure de l’Est</i>
+
+Ribbonsnake, Eastern (*Thamnophis sauritus*) Atlantic population<br />- <i>Couleuvre mince population de l’Atlantique</i>
 
 Snake, Eastern Hog-nosed (*Heterodon platirhinos*)<br />- <i>Couleuvre à nez plat</i>
 
 Snake, Queen (*Regina septemvittata*)<br />- <i>Couleuvre royale</i>
+
+Softshell, Spiny (*Apalone spinifera*)<br />- <i>Tortue-molle à épines</i>
+
+Stinkpot (*Sternotherus odoratus*)<br />- <i>Tortue musquée</i>
 
 
 
@@ -2869,11 +2958,11 @@ Lamprey, Cowichan Lake (*Lampetra macrostoma*)<br />- <i>Lamproie du lac Cowicha
 
 Minnow, Western Silvery (*Hybognathus argyritis*)<br />- <i>Méné d’argent de l’Ouest</i>
 
-Sculpin, Cultus Pygmy (*Cottus* sp.)<br />- <i>Chabot pygmé</i>
+Sculpin, Cultus Pygmy (*Cottus* sp.)<br />- <i>Chabot pygmée</i>
 
 Sculpin, Shorthead (*Cottus confusus*)<br />- <i>Chabot à tête courte</i>
 
-Shiner, Rosyface (*Notropis rubellus*) Eastern population<br />- <i>Tête rose population de l’Est</i>
+Shiner, Carmine (*Notropis percobromus*)<br />- <i>Tête carmin</i>
 
 Smelt, Lake Utopia Dwarf (*Osmerus* sp.)<br />- <i>Éperlan nain du lac Utopia</i>
 
@@ -2888,12 +2977,16 @@ Spotted Wolffish (*Anarhichas minor*)<br />- <i>Loup tacheté</i>
 
 Abalone, Northern (*Haliotis kamtschatkana*)<br />- <i>Haliotide pie</i>
 
+Jumping-slug, Dromedary (*Hemphillia dromedarius*)<br />- <i>Limace-sauteuse dromadaire</i>
+
 
 
 
 ##### Lepidopterans
 
 Hairstreak, Behr’s (Columbia) (*Satyrium behrii columbia*)<br />- <i>Porte-queue de Colombie-Britannique</i>
+
+Metalmark, Mormon (*Apodemia mormo*) Prairie population<br />- <i>Mormon population des Prairies</i>
 
 Skipper, Dun (*Euphyes vestris*) Western population<br />- <i>Hespérie rurale population de l’Ouest</i>
 
@@ -2904,9 +2997,17 @@ Skipper, Dun (*Euphyes vestris*) Western population<br />- <i>Hespérie rurale p
 
 Aster, Anticosti (*Symphyotrichum anticostense*)<br />- <i>Aster d’Anticosti</i>
 
-Aster, Western Silver-leaved (*Symphyotrichum sericeum*)<br />- <i>Aster soyeux</i>
+Aster, Crooked-stem (*Symphyotrichum prenanthoides*)<br />- <i>Aster fausse-prenanthe</i>
+
+Aster, Western Silvery (*Symphyotrichum sericeum*)<br />- <i>Aster soyeux</i>
 
 Aster, White-top (*Sericocarpus rigidus*)<br />- <i>Aster rigide</i>
+
+Aster, White Wood (*Eurybia divaricata*)<br />- <i>Aster divariqué</i>
+
+Aster, Willowleaf (*Symphyotrichum praealtum*)<br />- <i>Aster très élevé</i>
+
+Blazing Star, Dense (*Liatris spicata*)<br />- <i>Liatris à épi</i>
 
 Blue-Flag, Western (*Iris missouriensis*)<br />- <i>Iris du Missouri</i>
 
@@ -2916,13 +3017,15 @@ Buffalograss (*Buchloë dactyloides*)<br />- <i>Buchloé faux-dactyle</i>
 
 Coffee-tree, Kentucky (*Gymnocladus dioicus*)<br />- <i>Chicot févier</i>
 
-Colicroot (*Aletris farinosa*)<br />- <i>Aletris farineux</i>
+Colicroot (*Aletris farinosa*)<br />- <i>Alétris farineux</i>
 
 Corydalis, Scouler’s (*Corydalis scouleri*)<br />- <i>Corydale de Scouler</i>
 
+Daisy, Lakeside (*Hymenoxys herbacea*)<br />- <i>Hyménoxys herbacé</i>
+
 Deerberry (*Vaccinium stamineum*)<br />- <i>Airelle à longues étamines</i>
 
-Fern, Mexican Mosquito (*Azolla mexicana*)<br />- <i>Azolle du Mexique</i>
+Fern, Lemmon’s Holly (*Polystichum lemmonii*)<br />- <i>Polystic de Lemmon</i>
 
 Gentian, Plymouth (*Sabatia kennedyana*)<br />- <i>Sabatie de Kennedy</i>
 
@@ -2932,11 +3035,19 @@ Goldenseal (*Hydrastis canadensis*)<br />- <i>Hydraste du Canada</i>
 
 Greenbrier, Round-leaved (*Smilax rotundifolia*) Great Lakes Plains population<br />- <i>Smilax à feuilles rondes population des plaines des Grands Lacs</i>
 
+Hoptree, Common (*Ptelea trifoliata*)<br />- <i>Ptéléa trifolié</i>
+
+Hyacinth, Wild (*Camassia scilloides*)<br />- <i>Camassie faux-scille</i>
+
+Jacob’s-ladder, Van Brunt’s (*Polemonium vanbruntiae*)<br />- <i>Polémoine de Van Brunt</i>
+
 Lily, Lyall’s Mariposa (*Calochortus lyallii*)<br />- <i>Calochorte de Lyall</i>
+
+Mosquito-fern, Mexican (*Azolla mexicana*)<br />- <i>Azolle du Mexique</i>
 
 Mouse-ear-cress, Slender (*Halimolobos virgata*)<br />- <i>Halimolobos mince</i>
 
-Orchid, Phantom (*Cephalanthera austiniae*)<br />- <i>Cephalanthère d’Austin</i>
+Orchid, Phantom (*Cephalanthera austiniae*)<br />- <i>Céphalanthère d’Austin</i>
 
 Prairie-clover, Hairy (*Dalea villosa* var. *villosa*)<br />- <i>Dalée velue</i>
 
@@ -2946,9 +3057,9 @@ Sanicle, Purple (*Sanicula bipinnatifida*)<br />- <i>Sanicle bipinnatifide</i>
 
 Soapweed (*Yucca glauca*)<br />- <i>Yucca glauque</i>
 
-Spike-rush, Tubercled (*Eleocharis tuberculosa*)<br />- <i>Éléocharide tuberculée</i>
+Spiderwort, Western (*Tradescantia occidentalis*)<br />- <i>Tradescantie de l’Ouest</i>
 
-Star, Dense Blazing (*Liatris spicata*)<br />- <i>Liatris à épi</i>
+Spike-rush, Tubercled (*Eleocharis tuberculosa*)<br />- <i>Éléocharide tuberculée</i>
 
 Violet, Yellow Montane (*Viola praemorsa* ssp. *praemorsa*)<br />- <i>Violette jaune des monts</i>
 
@@ -2974,13 +3085,15 @@ Moss, Haller’s Apple (*Bartramia halleriana*)<br />- <i>Bartramie de Haller</i
 
 Beaver, Mountain (*Aplodontia rufa*)<br />- <i>Castor de montagne</i>
 
+Caribou, Woodland (*Rangifer tarandus caribou*) Northern Mountain population<br />- <i>Caribou des bois population des montagnes du Nord</i>
+
 Mole, Eastern (*Scalopus aquaticus*)<br />- <i>Taupe à queue glabre</i>
 
 Prairie Dog, Black-tailed (*Cynomys ludovicianus*)<br />- <i>Chien de prairie</i>
 
 Vole, Woodland (*Microtus pinetorum*)<br />- <i>Campagnol sylvestre</i>
 
-Whale, Killer (*Orcinus orca*) Northeast Pacific offshore population<br />- <i>Épaulard population au large du Pacifique Nord-Est</i>
+Whale, Killer (*Orcinus orca*) Northeast Pacific offshore population<br />- <i>Épaulard population océanique du Pacifique Nord-Est</i>
 
 Wolf, Eastern (*Canis lupus lycaon*)<br />- <i>Loup de l’Est</i>
 
@@ -2989,11 +3102,13 @@ Wolf, Eastern (*Canis lupus lycaon*)<br />- <i>Loup de l’Est</i>
 
 ##### Birds
 
-Chat, Eastern Yellow-breasted (*Icteria virens virens*)<br />- <i>Paruline polyglotte de l’Est</i>
+Chat virens subspecies, Yellow-breasted (*Icteria virens virens*)<br />- <i>Paruline polyglotte de la sous-espèce virens</i>
+
+Curlew, Long-billed (*Numenius americanus*)<br />- <i>Courlis à long bec</i>
 
 Duck, Harlequin (*Histrionicus histrionicus*) Eastern population<br />- <i>Arlequin plongeur population de l’Est</i>
 
-Falcon, Peale’s Peregrine (*Falco peregrinus pealei*)<br />- <i>Faucon pèlerin, pealei</i>
+Falcon pealei subspecies, Peregrine (*Falco peregrinus pealei*)<br />- <i>Faucon pèlerin de la sous-espèce pealei</i>
 
 Goldeneye, Barrow’s (*Bucephala islandica*) Eastern population<br />- <i>Garrot d’Islande population de l’Est</i>
 
@@ -3005,7 +3120,11 @@ Owl, Flammulated (*Otus flammeolus*)<br />- <i>Petit-duc nain</i>
 
 Rail, Yellow (*Coturnicops noveboracensis*)<br />- <i>Râle jaune</i>
 
-Sparrow, “Ipswich” Savannah (*Passerculus sandwichensis princeps*)<br />- <i>Bruant des prés, princeps</i>
+Screech-owl kennicottii subspecies, Western (*Megascops kennicottii kennicottii*)<br />- <i>Petit-duc des montagnes de la sous-espèce kennicottii</i>
+
+Sparrow princeps subspecies, Savannah (*Passerculus sandwichensis princeps*)<br />- <i>Bruant des prés de la sous-espèce princeps</i>
+
+Warbler, Cerulean (*Dendroica cerulea*)<br />- <i>Paruline azurée</i>
 
 Woodpecker, Lewis’s (*Melanerpes lewis*)<br />- <i>Pic de Lewis</i>
 
@@ -3016,7 +3135,32 @@ Woodpecker, Lewis’s (*Melanerpes lewis*)<br />- <i>Pic de Lewis</i>
 
 Frog, Coast Tailed (*Ascaphus truei*)<br />- <i>Grenouille-à-queue côtière</i>
 
-Salamander, Coeur d’Alène (*Plethodon idahoensis*)<br />- <i>Salamandre Coeur d’Alène</i>
+Frog, Northern Leopard (*Rana pipiens*) Western Boreal/Prairie populations<br />- <i>Grenouille léopard populations boréales de l’Ouest/des Prairies</i>
+
+Frog, Red-legged (*Rana aurora*)<br />- <i>Grenouille à pattes rouges</i>
+
+Salamander, Coeur d’Alene (*Plethodon idahoensis*)<br />- <i>Salamandre de Coeur d’Alène</i>
+
+Salamander, Spring (*Gyrinophilus porphyriticus*)<br />- <i>Salamandre pourpre</i>
+
+Toad, Great Plains (*Bufo cognatus*)<br />- <i>Crapaud des steppes</i>
+
+Toad, Western (*Bufo boreas*)<br />- <i>Crapaud de l’Ouest</i>
+
+
+
+
+##### Reptiles
+
+Boa, Rubber (*Charina bottae*)<br />- <i>Boa caoutchouc</i>
+
+Milksnake (*Lampropeltis triangulum*)<br />- <i>Couleuvre tachetée</i>
+
+Ribbonsnake, Eastern (*Thamnophis sauritus*) Great Lakes population<br />- <i>Couleuvre mince population des Grands Lacs</i>
+
+Skink, Western (*Eumeces skiltonianus*)<br />- <i>Scinque de l’Ouest</i>
+
+Turtle, Northern Map (*Graptemys geographica*)<br />- <i>Tortue géographique</i>
 
 
 
@@ -3024,6 +3168,8 @@ Salamander, Coeur d’Alène (*Plethodon idahoensis*)<br />- <i>Salamandre Coeur
 ##### Fish
 
 Chub, Silver (*Macrhybopsis storeriana*)<br />- <i>Méné à grandes écailles</i>
+
+Killifish, Banded (*Fundulus diaphanus*) Newfoundland population<br />- <i>Fondule barré population de Terre-Neuve</i>
 
 Minnow, Pugnose (*Opsopoeodus emiliae*)<br />- <i>Petit-bec</i>
 
@@ -3044,6 +3190,8 @@ Wolffish, Atlantic (*Anarhichas lupus*)<br />- <i>Loup Atlantique</i>
 
 ##### Molluscs
 
+Jumping-slug, Warty (*Hemphillia glandulosa*)<br />- <i>Limace-sauteuse glanduleuse</i>
+
 Oyster, Olympia (*Ostrea conchaphila*)<br />- <i>Huître plate du Pacifique</i>
 
 
@@ -3051,9 +3199,9 @@ Oyster, Olympia (*Ostrea conchaphila*)<br />- <i>Huître plate du Pacifique</i>
 
 ##### Lepidopterans
 
-Admiral, Weidemeyer’s (*Limenitis weidemeyerii*)<br />- <i>Amiral de Weidemeyer</i>
+Monarch (*Danaus plexippus*)<br />- <i>Monarque</i>
 
-Monarch (*Danaux plexippus*)<br />- <i>Monarque</i>
+Weidemeyer’s Admiral (*Limenitis weidemeyerii*)<br />- <i>Amiral de Weidemeyer</i>
 
 
 
@@ -3064,19 +3212,25 @@ Ash, Blue (*Fraxinus quadrangulata*)<br />- <i>Frêne bleu</i>
 
 Beggarticks, Vancouver Island (*Bidens amplissima*)<br />- <i>Grand bident</i>
 
-Fern, American Hart’s-tongue (*Asplenium scolopendrium* var. *americanum*)<br />- <i>Scolopendre d’Amérique</i>
+Fern, American Hart’s-tongue (*Asplenium scolopendrium*)<br />- <i>Scolopendre d’Amérique</i>
 
-Fern, Coastal Wood (*Dryopteris arguta*)<br />- <i>Dryoptèride côtière</i>
+Fern, Coastal Wood (*Dryopteris arguta*)<br />- <i>Dryoptéride côtière</i>
 
 Goldenrod, Riddell’s (*Solidago riddellii*)<br />- <i>Verge d’or de Riddell</i>
 
 Hairgrass, Mackenzie (*Deschampsia mackenzieana*)<br />- <i>Deschampsie du bassin du Mackenzie</i>
 
+Indian-plantain, Tuberous (*Arnoglossum plantagineum*)<br />- <i>Arnoglosse plantain</i>
+
 Milk-vetch, Fernald’s (*Astragalus robbinsii* var. *fernaldii*)<br />- <i>Astragale de Fernald</i>
 
 Pepperbush, Sweet (*Clethra alnifolia*)<br />- <i>Clèthre à feuilles d’aulne</i>
 
+Rose, Climbing Prairie (*Rosa setigera*)<br />- <i>Rosier sétigère</i>
+
 Tansy, Floccose (*Tanacetum huronense* var. *floccosum*)<br />- <i>Tanaisie floconneuse</i>
+
+Thrift, Athabasca (*Armeria maritima interior*)<br />- <i>Arméria de l’Athabasca</i>
 
 Willow, Felt-leaf (*Salix silicicola*)<br />- <i>Saule silicicole</i>
 
@@ -3088,6 +3242,15 @@ Woolly-heads, Tall (*Psilocarphus elatior*) Prairie population<br />- <i>Psiloca
 
 Yarrow, Large-headed Woolly (*Achillea millefolium* var. *megacephalum*)<br />- <i>Achillée à gros capitules</i>
 
+
+
+
+##### Lichens
+
+Lichen, Boreal Felt (*Erioderma pedicallatum*) Boreal population<br />- <i>Érioderme boréal population boréale</i>
+
+
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53.
 
 
 
@@ -3116,10 +3279,6 @@ Whale, Bowhead (*Balaena mysticetus*) Eastern Arctic population<br />- <i>Balein
 
 Whale, Bowhead (*Balaena mysticetus*) Western Arctic population<br />- <i>Baleine boréale population de l’Arctique de l’Ouest</i>
 
-Whale, Right (*Eubalaena glacialis*)<br />- <i>Baleine noire</i>
-
-Wolverine (*Gulo gulo*) Eastern population<br />- <i>Carcajou population de l’Est</i>
-
 
 
 
@@ -3132,16 +3291,7 @@ Bobwhite, Northern (*Colinus virginianus*)<br />- <i>Colin de Virginie</i>
 
 ##### Reptiles
 
-Racer, Blue (*Coluber constrictor foxii*)<br />- <i>Couleuvre agile bleue</i>
-
 Snake, Lake Erie Water (*Nerodia sipedon insularum*)<br />- <i>Couleuvre d’eau du lac Érié</i>
-
-
-
-
-##### Fish
-
-Sucker, Salish (*Catostomus* sp.)<br />- <i>Meunier de Salish</i>
 
 
 
@@ -3154,13 +3304,9 @@ Sucker, Salish (*Catostomus* sp.)<br />- <i>Meunier de Salish</i>
 
 Caribou, Peary (*Rangifer tarandus pearyi*) Low Arctic population<br />- <i>Caribou de Peary population du bas Arctique</i>
 
-Mole, Townsend’s (*Scapanus townsendii*)<br />- <i>Taupe de Townsend</i>
-
 Porpoise, Harbour (*Phocoena phocoena*) Northwest Atlantic population<br />- <i>Marsouin commun population du Nord-Ouest de l’Atlantique</i>
 
 Whale, Beluga (*Delphinapterus leucas*) Eastern Hudson Bay population<br />- <i>Béluga population de l’est de la baie d’Hudson</i>
-
-Whale, Humpback (*Megaptera novaeangliae*) North Pacific population<br />- <i>Rorqual à bosse population du Pacifique Nord</i>
 
 
 
@@ -3174,11 +3320,7 @@ Shrike, Prairie Loggerhead (*Lanius ludovicianus excubitorides*)<br />- <i>Pie-g
 
 ##### Reptiles
 
-Rattlesnake, Eastern Massasauga (*Sistrurus catenatus catenatus*)<br />- <i>Crotale Massasauga de l’Est</i>
-
 Turtle, Blanding’s (*Emydoidea blandingi*) Nova Scotia population<br />- <i>Tortue mouchetée population de la Nouvelle-Écosse</i>
-
-Turtle, Spiny Softshell (*Apalone spinifera*)<br />- <i>Tortue molle à épines</i>
 
 
 
@@ -3193,15 +3335,11 @@ Cisco, Shortnose (*Coregonus reighardi*)<br />- <i>Cisco à museau court</i>
 
 Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
 
-Madtom, Margined (*Noturus insignis*)<br />- <i>Chat-fou liséré</i>
-
 Redhorse, Black (*Moxostoma duquesnei*)<br />- <i>Chevalier noir</i>
 
 Redhorse, Copper (*Moxostoma hubbsi*)<br />- <i>Chevalier cuivré</i>
 
 Sculpin, Deepwater (*Myoxocephalus thompsoni*) Great Lakes population<br />- <i>Chabot de profondeur des Grands Lacs population des Grands Lacs</i>
-
-Sticklebacks, Enos Lake (*Gasterosteus* spp.)<br />- <i>Épinoches du lac Enos</i>
 
 Whitefish, Lake (*Coregonus clupeaformis*) Lake Simcoe population<br />- <i>Grand corégone population du lac Simcoe</i>
 
@@ -3210,20 +3348,10 @@ Whitefish, Lake (*Coregonus clupeaformis*) Lake Simcoe population<br />- <i>Gran
 
 ##### Plants
 
-Aster, White Wood (*Eurybia divaricatas*)<br />- <i>Aster divariqué</i>
-
 Chestnut, American (*Castanea dentata*)<br />- <i>Châtaignier d’Amérique</i>
 
-Jacob’s Ladder, van Brunt’s (*Polemonium van-bruntiae*)<br />- <i>Polémoine de van Brunt</i>
 
-Lipocarpha, Small-flowered (*Lipocarpha micrantha*)<br />- <i>Lipocarphe à petites fleurs</i>
-
-Spiderwort, Western (*Tradescantia occidentalis*)<br />- <i>Tradescantie de l’Ouest</i>
-
-Verbena, Sand (*Abronia micrantha*)<br />- <i>Abronie à petites fleurs</i>
-
-Violet, Bird’s-foot (*Viola pedata*)<br />- <i>Violette pédalée</i>
-
+> 2002, c. 29, Sch. 2; SOR/2005-14, ss. 54 to 60.
 
 
 
@@ -3239,13 +3367,7 @@ Bat, Keen’s Long-eared (*Myotis keenii*)<br />- <i>Chauve-souris de Keen</i>
 
 Bat, Spotted (*Euderma maculatum*)<br />- <i>Oreillard maculé</i>
 
-Bear, Grizzly (*Ursus arctos*)<br />- <i>Ours grizzli</i>
-
-Bear, Polar (*Ursus maritimus*)<br />- <i>Ours polaire</i>
-
 Cottontail, Nuttall’s (*Sylvilagus nuttallii nuttallii*) British Columbia population<br />- <i>Lapin de Nuttall population de la Colombie-Britannique</i>
-
-Fox, Grey (*Urocyon cinereoargenteus*)<br />- <i>Renard gris</i>
 
 Kangaroo Rat, Ord’s (*Dipodomys ordii*)<br />- <i>Rat kangourou d’Ord</i>
 
@@ -3259,20 +3381,12 @@ Squirrel, Southern Flying (*Glaucomys volans*)<br />- <i>Petit polatouche</i>
 
 Whale, Beluga (*Delphinapterus leucas*) Eastern High Arctic/Baffin Bay population<br />- <i>Béluga population de l’Est du haut Arctique et de la baie de Baffin</i>
 
-Whale, Blue (*Balaenoptera musculus*)<br />- <i>Rorqual bleu</i>
-
 Whale, Fin (*Balaenoptera physalus*)<br />- <i>Rorqual commun</i>
-
-Whale, Humpback (*Megaptera novaeangliae*) Western North Atlantic population<br />- <i>Rorqual à bosse population du Nord-Ouest de l’Atlantique</i>
 
 Whale, Northern Bottlenose (*Hyperoodon ampullatus*) Gully population<br />- <i>Baleine à bec commune population du ravin océanique</i>
 
 Whale, Sowerby’s Beaked (*Mesoplodon bidens*)<br />- <i>Baleine à bec de Sowerby</i>
-
-Wolverine (*Gulo gulo*) Western population<br />- <i>Carcajou population de l’Ouest</i>
 ##### Birds
-
-Curlew, Long-billed (*Numenius americanus*)<br />- <i>Courlis à long bec</i>
 
 Falcon, Tundra Peregrine (*Falco peregrinus tundrius*)<br />- <i>Faucon pèlerin, toundra</i>
 
@@ -3288,22 +3402,12 @@ Owl, Short-eared (*Asio flammeus*)<br />- <i>Hibou des marais</i>
 
 Thrush, Bicknell’s (*Catharus bicknelli*)<br />- <i>Grive de Bicknell</i>
 
-Warbler, Cerulean (*Dendroica cerulea*)<br />- <i>Paruline azurée</i>
-
 Waterthrush, Louisiana (*Seiurus motacilla*)<br />- <i>Paruline hochequeue</i>
 
 Woodpecker, Red-headed (*Melanerpes erythrocephalus*)<br />- <i>Pic à tête rouge</i>
 ##### Amphibians
 
-Frog, Northern Leopard (*Rana pipiens*) Prairie population<br />- <i>Grenouille léopard population des Prairies</i>
-
-Frog, Northern Red-legged (*Rana aurora*)<br />- <i>Grenouille du Nord à pattes rouges</i>
-
 Salamander, Smallmouth (*Ambystoma texanum*)<br />- <i>Salamandre à nez court</i>
-
-Salamander, Spring (*Gyrinophilus porphyriticus*)<br />- <i>Salamandre pourpre</i>
-
-Toad, Great Plains (*Bufo cognatus*)<br />- <i>Crapaud des steppes</i>
 ##### Reptiles
 
 Lizard, Eastern Short-horned (*Phrynosoma douglassii brevirostre*)<br />- <i>Phrynosome de Douglas de l’Est</i>
@@ -3329,13 +3433,9 @@ Cod, Atlantic (*Gadus morhua*)<br />- <i>Morue franche</i>
 
 Dace, Redside (*Clinostomus elongatus*)<br />- <i>Méné long</i>
 
-Dace, Speckled (*Rhinichthys osculus*)<br />- <i>Naseux moucheté</i>
-
 Dace, Umatilla (*Rhinichthys umatilla*)<br />- <i>Naseux d’Umatilla</i>
 
 Darter, Greenside (*Etheostoma blennioides*)<br />- <i>Dard vert</i>
-
-Killifish, Banded (*Fundulus diaphanus*) Newfoundland population<br />- <i>Fondule barré population de Terre-Neuve</i>
 
 Kiyi (*Coregonus kiyi*)<br />- <i>Kiyi</i>
 
@@ -3343,19 +3443,11 @@ Lamprey, Chestnut (*Ichthyomyzon castaneus*)<br />- <i>Lamproie brune</i>
 
 Lamprey, Northern Brook (*Ichthyomyzon fossor*)<br />- <i>Lamproie du Nord</i>
 
-Madtom, Northern (*Noturus stigmosus*)<br />- <i>Chat-fou du Nord</i>
-
-Prickleback, Pighead (*Acantholumpenus mackayi*)<br />- <i>Terrassier à six lignes</i>
-
 Redhorse, River (*Moxostoma carinatum*)<br />- <i>Chevalier de rivière</i>
-
-Sardine, Pacific (*Sardinops sagax*)<br />- <i>Sardine du Pacifique</i>
 
 Sculpin, Fourhorn (*Myoxocephalus quadricornis*) Freshwater form<br />- <i>Chaboisseau à quatre cornes forme d’eau douce</i>
 
 Shiner, Bigmouth (*Notropis dorsalis*)<br />- <i>Méné à grande bouche</i>
-
-Shiner, Pugnose (*Notropis anogenus*)<br />- <i>Méné camus</i>
 
 Shiner, Silver (*Notropis photogenis*)<br />- <i>Méné miroir</i>
 
@@ -3374,17 +3466,11 @@ Sunfish, Orangespotted (*Lepomis humilis*)<br />- <i>Crapet menu</i>
 Sunfish, Redbreast (*Lepomis auritus*)<br />- <i>Crapet rouge</i>
 
 Whitefish, Squanga (*Coregonus* sp.)<br />- <i>Corégone du Squanga</i>
-
-Wolffish, Bering (*Anarhichas orientalis*)<br />- <i>Loup de Bering</i>
 ##### Plants
 
 Aster, Bathurst (*Symphyotrichum subulatum*) Bathurst population<br />- <i>Aster subulé population de Bathurst</i>
 
-Aster, Crooked-stemmed (*Symphyotrichum prenanthoides*)<br />- <i>Aster fausse-prenanthe</i>
-
 Aster, Gulf of St. Lawrence (*Symphyotrichum laurentianum*)<br />- <i>Aster du Golfe St-Laurent</i>
-
-Aster, Willow (*Symphyotrichum praealtum*)<br />- <i>Aster très élevé</i>
 
 Bartonia, Branched (*Bartonia paniculata* ssp. *paniculata*)<br />- <i>Bartonie paniculé</i>
 
@@ -3406,12 +3492,6 @@ Hackberry, Dwarf (*Celtis tenuifolia*)<br />- <i>Micocoulier rabougri</i>
 
 Helleborine, Giant (*Epipactis gigantea*)<br />- <i>Épipactis géant</i>
 
-Hop-tree, Common (*Ptelea trifoliata*)<br />- <i>Ptéléa trifolié</i>
-
-Hyacinth, Wild (*Camassia scilloides*)<br />- <i>Camassie faux-scille</i>
-
-Indian-plantain, Tuberous (*Arnoglossum plantagineum*)<br />- <i>Arnoglosse plantain</i>
-
 Lilaeopsis (*Lilaeopsis chinensis*)<br />- <i>Liléopsis de l’Est</i>
 
 Locoweed, Hare-footed (*Oxytropis lagopus*)<br />- <i>Oxytrope patte-de-lièvre</i>
@@ -3420,21 +3500,15 @@ Meadowfoam, Macoun’s (*Limnanthes macounii*)<br />- <i>Limnanthe de Macoun</i>
 
 Oak, Shumard (*Quercus shumardii*)<br />- <i>Chêne de Shumard</i>
 
-Orchid, Eastern Prairie Fringed (*Platanthera leucophaea*)<br />- <i>Platanthère blanchâtre de l’Est</i>
-
 Pondweed, Hill’s (*Potamogeton hillii*)<br />- <i>Potamot de Hill</i>
 
 Quillwort, Bolander’s (*Isoëtes bolanderi*)<br />- <i>Isoète de Bolander</i>
-
-Rose, Climbing Prairie (*Rosa setigera*)<br />- <i>Rosier sétigère</i>
 
 Rose-mallow, Swamp (*Hibiscus moscheutos*)<br />- <i>Ketmie des marais</i>
 
 Rue-anemone, False (*Enemion biternatum*)<br />- <i>Isopyre à feuilles biternées</i>
 
 Rush, New Jersey (*Juncus caesariensis*)<br />- <i>Jonc du New Jersey</i>
-
-Thrift, Athabasca (*Armeria maritima* ssp. *interior*)<br />- <i>Armeria de l’Athabasca</i>
 
 Water-hemlock, Victorin’s (*Cicuta maculata* var. *victorinii*)<br />- <i>Cicutaire de Victorin</i>
 ##### Lichens
@@ -3444,4 +3518,6 @@ Cryptic Paw (*Nephroma occultum*)<br />- <i>Lichen cryptique</i>
 Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
 Seaside Bone (*Hypogymnia heterophylla*)<br />- <i>Hypogymnie maritime</i>
+> 2002, c. 29, Sch. 3; SOR/2005-14, ss. 61 to 65. .
+
 
