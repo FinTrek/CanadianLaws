@@ -132,6 +132,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert de crédits **
 
 - **(2)** Les sommes affectées — et non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard du ministère du Solliciteur général sont réputées être affectées aux frais et dépenses de l’administration publique fédérale à l’égard du ministère de la Sécurité publique et de la Protection civile.
+> 2005, ch. 10, art. 8 et 36(A).
+
 
 
 
@@ -328,6 +330,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#P-31.55_f_s38'>[*]</a></sup>**38** La présente loi, à l’exception des articles 35 et 36, entre en vigueur à la date fixée par décret.
 
-<a name='P-31.55_f_s38'><sup>*</sup></a>: [Note : Articles 35 et 36 en vigueur à la sanction le 23 mars 2005.]<br />
+<a name='P-31.55_f_s38'><sup>*</sup></a>: [Note : Articles 35 et 36 en vigueur à la sanction le 23 mars 2005; loi, sauf les articles 35 et 36, en vigueur le 4 avril 2005, *voir* TR/2005-29.]<br />
 
 
