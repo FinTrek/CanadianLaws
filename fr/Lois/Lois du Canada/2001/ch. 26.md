@@ -39,19 +39,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***affrètement coque nue*** Contrat d’affrètement d’un bâtiment en vertu duquel l’affréteur a la pleine possession et l’entier contrôle du bâtiment, y compris le droit d’en engager le capitaine et l’équipage.
 
-***arbitre*** Personne nommée en vertu du paragraphe 15(1).
+***arbitre***[Abrogée, 2001, ch. 29, art. 72)
 
 ***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion ou du fait qu’il est encore en construction. Sont exclus de la présente définition les objets flottants des catégories prévues par règlement.
 
 ***bâtiment assujetti à la Convention sur la sécurité*** Bâtiment assujetti à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer mentionnée à l’annexe 1.
 
-***bâtiment canadien*** Bâtiment immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription).
+***bâtiment canadien***Bâtiment immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription).
 
 ***bâtiment d’État*** Bâtiment qui appartient à Sa Majesté du chef du Canada ou d’une province et est affecté à son service ou dont Sa Majesté de ce chef a la possession exclusive.
 
 ***bâtiment étranger*** Bâtiment qui n’est ni un bâtiment canadien ni une embarcation de plaisance.
 
 ***capitaine*** La personne ayant la direction et le commandement d’un bâtiment. Est exclu de la présente définition le pilote breveté, au sens de l’article 1.1 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md), exerçant ses attributions au titre de cette loi.
+
+French version only***conseiller*** Membre du Tribunal.
 
 ***document maritime canadien*** Tout document, notamment un permis, une licence, un brevet ou un certificat, délivré par le ministre des Transports sous le régime des parties 1 (dispositions générales), 3 (personnel), 4 (sécurité), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports) et établissant que son titulaire — personne ou bâtiment — satisfait aux exigences prévues par ces parties.
 
@@ -63,11 +65,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***jauge brute*** Le volume d’un bâtiment déterminé par un jaugeur ou calculé conformément aux règlements visés à l’alinéa 77h).
 
-***passager*** Personne transportée sur un bâtiment par le propriétaire ou l’exploitant. Sont exclues de la présente définition :
-- **a)** la personne transportée sur un bâtiment assujetti à la Convention sur la sécurité et qui est :
+***passager*** Personne transportée sur un bâtiment par le propriétaire ou l’exploitant. Sont exclues de la présente définition :
+- **a)** la personne transportée sur un bâtiment assujetti à la Convention sur la sécurité et qui est :
 	- **(i)** soit le capitaine ou un membre de l’équipage, ou une personne employée ou occupée à bord, en quelque qualité que ce soit, pour les besoins du bâtiment,
 	- **(ii)** soit âgée de moins d’un an;
-- **b)** la personne transportée sur un bâtiment qui n’est pas assujetti à la Convention sur la sécurité et qui est :
+- **b)** la personne transportée sur un bâtiment qui n’est pas assujetti à la Convention sur la sécurité et qui est :
 	- **(i)** soit le capitaine ou un membre de l’équipage, ou une personne employée ou occupée à bord, en quelque qualité que ce soit, pour les besoins du bâtiment,
 	- **(ii)** soit un invité transporté gratuitement ou sans but lucratif sur un bâtiment utilisé exclusivement pour le plaisir;
 - **c)** la personne transportée sur un bâtiment soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ne pouvaient empêcher;
@@ -80,7 +82,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Registre*** Le Registre canadien d’immatriculation des bâtiments établi en application de l’article 43.
 
 ***représentant autorisé*** Dans le cas d’un bâtiment canadien, la personne visée au paragraphe 14(1) et, dans le cas d’un bâtiment étranger, le capitaine.
-> 2001, ch. 26, art. 2 et 323.
+
+***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
+> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72.
 
 
 
@@ -308,18 +312,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### Arbitres
+> [Abrogé, 2001, ch. 29, art. 72]
 
 
 
-**Nomination**
-
-**15** 
-
-- **(1)** Le ministre des Transports nomme des arbitres choisis pour effectuer les examens indépendants prévus aux paragraphes 16(6) (refus de délivrer ou de renouveler un document), 20(5) (suspension, annulation ou refus de renouvellement de documents maritimes canadiens), 231(3) (avis de défaut), 232(2) (procès-verbaux) et 239(3) (radiation des mentions de violation).
-
-**Pouvoirs de l’arbitre**
-
-- **(2)** Pour l’application de la présente loi, chaque arbitre a les pouvoirs conférés aux commissaires nommés en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
+**15** [Abrogé, 2001, ch. 29, art. 72]
 
 
 
@@ -336,7 +333,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve d’admissibilité**
 
-- **(2)** Outre ces renseignements et cette documentation, le ministre des Transports peut :
+- **(2)** Outre ces renseignements et cette documentation, le ministre des Transports peut :
 	- **a)** exiger que le demandeur fournisse toute preuve, notamment une déclaration, qu’il estime nécessaire pour établir que les exigences relatives à la délivrance du document sont respectées;
 	- **b)** s’agissant d’un document relatif à une personne, établir un examen et le lui faire subir;
 	- **c)** s’agissant d’un document relatif à un bâtiment, exiger que le bâtiment, ses machines ou son équipement subissent toute inspection qu’il estime nécessaire pour établir que ces exigences sont respectées.
@@ -347,22 +344,55 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Refus de délivrer**
 
-- **(4)** Le ministre des Transports peut refuser de délivrer un document maritime canadien :
+- **(4)** Le ministre des Transports peut refuser de délivrer un document maritime canadien :
 	- **a)** si les modalités de présentation de la demande n’ont pas été respectées;
 	- **b)** si le demandeur a utilisé des moyens frauduleux ou irréguliers ou a donné une fausse indication sur un fait important;
 	- **c)** s’il estime que l’intérêt public le requiert, en raison notamment des antécédents du demandeur ou de tel de ses dirigeants;
 	- **d)** si le demandeur n’a pas payé des droits fixés sous le régime de l’alinéa 35(1)g) pour la délivrance du document ou a omis de payer une amende ou une sanction infligées sous le régime de la présente loi;
-	- **e)** si, s’agissant d’un document délivré à un capitaine ou à un membre de l’équipage sous le régime de la partie 3 (personnel) :
+	- **e)** si, s’agissant d’un document délivré à un capitaine ou à un membre de l’équipage sous le régime de la partie 3 (personnel) :
 		- **(i)** le capitaine ou le membre de l’équipage était à bord d’un bâtiment ayant commis une infraction à l’un des articles 5.3 à 5.5 de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) et savait, au moment du fait reproché, que le bâtiment était en état d’infraction,
-		- **(ii)** le capitaine ou le membre de l’équipage a été déclaré coupable d’une infraction liée à l’exécution de ses fonctions sur un bâtiment ou a été déclaré responsable d’une violation pour laquelle un procès-verbal a été dressé en vertu de l’alinéa 229(1)b).
+		- **(ii)** le capitaine ou le membre de l’équipage a été déclaré coupable d’une infraction liée à l’exécution de ses fonctions sur un bâtiment ou a commis une violation pour laquelle un procès-verbal a été dressé en vertu de l’alinéa 229(1)b).
 
 **Avis suivant refus de délivrer**
 
-- **(5)** Le ministre des Transports doit, immédiatement après avoir refusé de délivrer un document maritime canadien, envoyer au demandeur un avis confirmant, motifs à l’appui, le refus de délivrer.
+- **(5)** Le ministre des Transports, immédiatement après avoir refusé de délivrer un document maritime canadien, envoie au demandeur un avis :
+	- **a)** confirmant, motifs à l’appui, le refus de délivrer le document;
+	- **b)** indiquant, dans le cas d’un document maritime pouvant être délivré sous le régime de la partie 3 (personnel) et dont le motif de refus est prévu aux alinéas (4)a), b), c) ou e), le lieu et la date limite, à savoir trente jours après l’envoi de l’avis, du dépôt d’une éventuelle requête en révision.
 
-**Réserve**
+- **(6)** [Abrogé, 2001, ch. 29, art. 72]
+> 2001, ch. 26, art. 16, ch. 29, art. 72.
 
-- **(6)** Le capitaine ou le membre d’équipage dont la demande de délivrance du document maritime canadien sous le régime de la partie 3 (personnel) a été refusée pour un motif prévu à l’un des alinéas (4)a), b), c) ou e) peut demander, dans les trente jours suivant la réception de l’avis de refus, qu’un arbitre examine la décision de refuser de délivrer le document.
+
+
+
+
+**Requête en révision**
+
+**16.1** 
+
+- **(1)** Le destinataire de l’avis prévu au paragraphe 16(5) peut faire réviser la décision du ministre des Transports en déposant une requête en révision auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal si :
+	- **a)** la requête vise un document maritime pouvant être délivré sous le régime de la partie 3 (personnel);
+	- **b)** le motif de refus est celui prévu aux alinéas 16(4)a), b), c) ou e).
+
+**Audience**
+
+- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre des Transports et le demandeur.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre des Transports et au demandeur la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Non-contraignabilité à témoigner**
+
+- **(4)** Dans le cas visé au sous-alinéa 16(4)e)(ii), l’auteur de la présumée violation n’est pas tenu de témoigner avant qu’il n’ait été, conformément aux articles 232 à 232.2, décidé de l’affaire pour laquelle un procès-verbal a été dressé.
+
+**Décision**
+
+- **(5)** Le conseiller peut :
+	- **a)** dans les cas visés à l’alinéa 16(4)e), confirmer la décision du ministre des Transports ou y substituer sa propre décision;
+	- **b)** dans les autres cas, confirmer la décision du ministre des Transports ou lui renvoyer l’affaire pour réexamen.
+> 2001, ch. 29, art. 72.
+
 
 
 
@@ -398,43 +428,128 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** 
 
-- **(1)** Sous réserve du paragraphe (2), le ministre des Transports peut suspendre, annuler ou refuser de renouveler un document maritime canadien lorsqu’il est convaincu, selon le cas :
-	- **a)** que les exigences relatives à la délivrance du document ne sont plus respectées;
-	- **b)** que les modalités du document n’ont pas été respectées;
-	- **c)** que le document a été obtenu par des moyens frauduleux ou irréguliers ou par suite d’une fausse indication sur un fait important;
-	- **d)** que son titulaire a omis de payer une amende ou une sanction infligées sous le régime de la présente loi;
-	- **e)** que le titulaire du document a contrevenu à une disposition de la présente loi ou des règlements dont le ministre des Transports est chargé de l’application;
-	- **f)** que, s’agissant d’un document délivré à un capitaine ou à un membre d’équipage sous le régime de la partie 3 (personnel) :
+- **(1)** Sous réserve de l’article 20.1, le ministre des Transports peut suspendre, annuler ou refuser de renouveler un document maritime canadien s’il est convaincu que, selon le cas :
+	- **a)** les exigences relatives à la délivrance du document ne sont plus respectées;
+	- **b)** les modalités du document n’ont pas été respectées;
+	- **c)** le document a été obtenu par des moyens frauduleux ou irréguliers ou par suite d’une fausse indication sur un fait important;
+	- **d)** son titulaire a omis de payer une amende ou une sanction infligées sous le régime de la présente loi;
+	- **e)** le titulaire du document a contrevenu à une disposition de la présente loi ou des règlements dont le ministre est chargé de l’application;
+	- **f)** s’agissant d’un document délivré à un capitaine ou à un membre d’équipage sous le régime de la partie 3 (personnel) :
 		- **(i)** le capitaine ou le membre d’équipage est incompétent ou a commis un acte d’inconduite,
 		- **(ii)** le capitaine ou le membre d’équipage était à bord d’un bâtiment ayant commis une infraction à l’un des articles 5.3 à 5.5 de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) et savait, au moment du fait reproché, que le bâtiment était en état d’infraction,
 		- **(iii)** le capitaine ou le membre d’équipage a été déclaré coupable d’une infraction liée à l’exécution de ses fonctions sur un bâtiment;
-	- **g)** que, s’agissant d’un refus de renouvellement :
+	- **g)** s’agissant d’un refus de renouvellement :
 		- **(i)** soit le demandeur n’a pas payé des droits fixés sous le régime de l’alinéa 35(1)g) pour la délivrance du document,
 		- **(ii)** soit il estime que l’intérêt public le requiert, en raison notamment des antécédents du demandeur ou de tel de ses dirigeants.
 
+**Retour des documents**
+
+- **(2)** Dans le cas où un document maritime canadien est suspendu ou annulé, son titulaire doit, sur demande, le rendre au ministre des Transports.
+> 2001, ch. 26, art. 20, ch. 29, art. 72.
+
+
+
+
+
 **Avis précédant la suspension ou l’annulation**
 
-- **(2)** Avant de suspendre ou d’annuler un document maritime canadien délivré sous le régime de la partie 3 (personnel), le ministre des Transports donne au titulaire un préavis de trente jours qui précise les motifs de la suspension ou de l’annulation.
+**20.1** Avant de suspendre ou d’annuler un document maritime canadien délivré sous le régime de la partie 3 (personnel), le ministre des Transports donne au titulaire un préavis de trente jours qui :
+- **a)** précise les motifs de la suspension ou de l’annulation;
+- **b)** indique, dans le cas où le motif de la décision est prévu aux alinéas 20(1)a), b), c), e) ou f) ou au sous-alinéa 20(1)g)(ii), le lieu et la date limite, à savoir trente jours après l’envoi du préavis, du dépôt d’une éventuelle requête en révision.
+> 2001, ch. 29, art. 72.
+
+
+
+
 
 **Exception**
 
-- **(3)** Le ministre des Transports peut suspendre ou annuler un document maritime canadien délivré sous le régime de la partie 3 (personnel) sans se conformer au paragraphe (2) si, sur demande *ex parte* de sa part, un arbitre conclut que l’observation de cette disposition compromettrait la sécurité publique.
+**20.2** 
+
+- **(1)** Le ministre des Transports peut suspendre ou annuler un document maritime canadien délivré sous le régime de la partie 3 (personnel) sans se conformer à l’article 20.1 si, sur demande *ex parte* de sa part, le Tribunal conclut que l’observation de cette disposition compromettrait la sécurité publique.
+
+**Décision dans les vingt-quatre heures**
+
+- **(2)** La demande du ministre est entendue par un conseiller, agissant seul, qui rend sa décision dans les vingt-quatre heures suivant le dépôt de la demande au Tribunal.
+
+**Appel**
+
+- **(3)** Le ministre des Transports peut faire appel au Tribunal de la décision du conseiller dans les vingt-quatre heures suivant la décision.
+
+**Décision dans les quarante-huit heures**
+
+- **(4)** Le comité du Tribunal rend sa décision dans les quarante-huit heures suivant le dépôt de l’appel au Tribunal.
+> 2001, ch. 29, art. 72.
+
+
+
+
 
 **Avis suivant la suspension, l’annulation ou le refus de renouvellement**
 
-- **(4)** Sauf dans le cas d’un document maritime canadien suspendu ou annulé conformément au paragraphe (2), le ministre des Transports doit, immédiatement après avoir suspendu ou annulé un document maritime canadien ou en avoir refusé le renouvellement, envoyer au titulaire du document un avis confirmant, motifs à l’appui, la suspension, l’annulation ou le refus de renouveler.
+**20.3** Sauf dans le cas d’un document maritime canadien suspendu ou annulé conformément à l’article 20.1, le ministre des Transports doit, immédiatement après avoir suspendu ou annulé un document maritime canadien ou en avoir refusé le renouvellement, envoyer à son titulaire un avis :
+- **a)** confirmant, motifs à l’appui, la suspension, l’annulation ou le refus de renouveler;
+- **b)** indiquant, dans le cas où le motif de la décision est prévu aux alinéas 20(1)a), b), c), e) ou f) ou au sous-alinéa 20(1)g)(ii), le lieu et la date limite, à savoir trente jours après l’envoi de l’avis, du dépôt d’une éventuelle requête en révision.
+> 2001, ch. 29, art. 72.
 
-**Examen**
 
-- **(5)** Dans les trente jours suivant la réception de l’avis, le titulaire peut demander qu’un arbitre examine la décision de suspendre ou d’annuler le document ou d’en refuser le renouvellement, sauf si le motif de la décision est celui prévu à l’alinéa (1)d) ou au sous-alinéa (1)g)(i).
 
-**Examen**
 
-- **(6)** Si, dans les trente jours suivant la réception du préavis, le titulaire demande qu’un arbitre examine la décision de suspendre ou d’annuler le document, la suspension ou l’annulation est repoussée jusqu’à ce que l’examen soit terminé.
 
-**Retour des documents**
+**Requête en révision**
 
-- **(7)** Dans le cas où un document maritime canadien est suspendu ou annulé, son titulaire doit, sur demande, le rendre au ministre des Transports.
+**20.4** 
+
+- **(1)** Sous réserve du paragraphe (2), le titulaire du document maritime canadien peut faire réviser la décision du ministre des Transports en déposant une requête en révision auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Exception**
+
+- **(2)** La requête en révision est irrecevable si le motif de la décision est celui prévu à l’alinéa 20(1)d) ou au sous-alinéa 20(1)g)(i).
+
+**Effet de la requête**
+
+- **(3)** Si, par suite du préavis prévu à l’article 20.1, le titulaire du document dépose une requête en révision, la suspension ou l’annulation est repoussée jusqu’à ce qu’il soit disposé de l’affaire conformément au présent article ou à l’article 20.5.
+
+**Audience**
+
+- **(4)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre des Transports et le titulaire du document.
+
+**Déroulement**
+
+- **(5)** À l’audience, le conseiller accorde au ministre des Transports et au titulaire du document la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Non-contraignabilité à témoigner**
+
+- **(6)** Dans le cas visé par l’alinéa 20(1)e), l’auteur de la présumée contravention n’est pas tenu de témoigner.
+
+**Décision**
+
+- **(7)** Le conseiller peut :
+	- **a)** dans les cas visés à l’alinéa 20(1)e) ou aux sous-alinéas 20(1)f)(ii) ou (iii), confirmer la décision du ministre ou y substituer sa propre décision;
+	- **b)** dans les autres cas, confirmer la décision du ministre des Transports ou renvoyer l’affaire au ministre pour réexamen.
+> 2001, ch. 29, art. 72.
+
+
+
+
+
+**Appel**
+
+**20.5** 
+
+- **(1)** Le demandeur ou le titulaire du document maritime canadien peut porter en appel au Tribunal la décision rendue au titre des paragraphes 16.1(5) ou 20.4(7), et le ministre des Transports, la décision rendue au titre des alinéas 16.1(5)a) ou 20.4(7)a). Dans tous les cas, le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut :
+	- **a)** rejeter l’appel, ou y faire droit et substituer sa propre décision à celle rendue en vertu des alinéas 16.1(5)a) ou 20.4(7)a);
+	- **b)** rejeter l’appel ou renvoyer l’affaire au ministre des Transports pour réexamen, dans le cas d’une décision rendue en vertu des alinéas 16.1(5)b) ou 20.4(7)b).
+> 2001, ch. 29, art. 72.
+
 
 
 
@@ -720,9 +835,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **35** 
 
 - **(1)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre des Transports :
-	- **a)** régir la nomination des arbitres, y compris les qualifications de ceux-ci;
+	- **a)** [Abrogé, 2001, ch. 29, art. 72]
 	- **b)** régir la délivrance, la modification, la suspension, le rétablissement, l’annulation et le renouvellement des documents maritimes canadiens;
-	- **c)** régir les examens effectués en vertu des paragraphes 16(6) (refus de délivrer ou de renouveler un document maritime canadien) et 20(5) (suspension ou annulation de documents maritimes canadiens);
+	- **c)** [Abrogé, 2001, ch. 29, art. 72]
 	- **d)** mettre en oeuvre, en tout ou en partie, dans sa version éventuellement modifiée, une convention internationale, un protocole ou une résolution mentionnés à l’annexe 1, y compris :
 		- **(i)** les mettre en oeuvre à l’égard de personnes, de bâtiments ou d’installations de manutention d’hydrocarbures qu’ils ne visent pas,
 		- **(ii)** établir des normes plus sévères que celles qui y sont prévues,
@@ -745,6 +860,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par les parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance);
 	- **c)** régir les avis prévus par les parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance);
 	- **d)** régir la fixation et le versement des droits exigibles à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation), 7 (épaves), à l’exception de l’article 163, 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance) ou des règlements pris en vertu de l’une de ces parties.
+> 2001, ch. 26, art. 35, ch. 29, art. 72.
+
 
 
 
@@ -4312,69 +4429,108 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **229** 
 
-- **(1)** S’il a des motifs raisonnables de croire qu’une violation a été commise, le ministre peut :
-	- **a)** soit conclure avec le contrevenant une transaction en vue de la bonne application, dans le délai précisé et aux conditions fixées, de la disposition afférente à la violation, fixer le montant et la forme de la caution à verser pour garantir l’exécution de la transaction et fixer le montant — notamment par barème — en application des règlements pris sous le régime de la présente partie, de la sanction qu’il aurait eu à payer s’il n’avait pas conclu la transaction;
-	- **b)** soit dresser un procès-verbal — qu’il fait notifier au contrevenant — comportant, outre le nom du contrevenant et les faits reprochés, le montant fixé — notamment par barème — en application des règlements pris sous le régime de la présente partie, de la sanction à payer ainsi que le délai et les modalités de paiement ou de demande de révision.
+- **(1)** S’il a des motifs raisonnables de croire qu’une violation a été commise, le ministre peut :
+	- **a)** soit conclure avec le contrevenant une transaction en vue de l’observation, dans le délai précisé et aux conditions fixées, de la disposition enfreinte et fixer le montant et la forme de la caution à verser pour garantir l’exécution de la transaction ainsi que le montant de la sanction, en application des règlements, qu’il aurait eu à payer s’il n’avait pas conclu la transaction;
+	- **b)** soit dresser un procès-verbal — qu’il fait signifier au contrevenant — comportant, outre le nom du contrevenant et les faits reprochés, le montant de la sanction à payer, fixé en application des règlements, ainsi que le délai, soit trente jours après signification de l’avis, et les modalités de paiement ou de requête en révision.
 
 **Prorogation du délai**
 
 - **(2)** S’il estime que le contrevenant ne peut exécuter la transaction dans le délai précisé pour des raisons indépendantes de sa volonté, le ministre peut proroger celui-ci.
 
-**Sommaire**
+**Description abrégée**
 
-- **(3)** Il peut établir le sommaire caractérisant la violation à utiliser dans les procès-verbaux.
+- **(3)** Il peut établir, pour toute violation, une description abrégée à utiliser dans les procès-verbaux.
+> 2001, ch. 26, art. 229, ch. 29, art. 72.
 
 
 
 
-**Commission de la contravention**
+
+**Commission de la violation**
 
 **230** 
 
-- **(1)** Sauf s’il présente une demande de révision au titre du paragraphe (2), le contrevenant qui conclut une transaction est réputé avoir commis la contravention afférente à celle-ci.
+- **(1)** Sauf s’il présente une requête en révision au titre du paragraphe (2), le contrevenant qui conclut une transaction est réputé avoir commis la violation en cause.
 
-**Demande de révision**
+**Requête en révision**
 
-- **(2)** Le contrevenant qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci mais avant la notification de l’avis de défaut visée au paragraphe 231(2), demander la révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et le contrevenant, avoir demandé à être entendu sur les faits reprochés et le montant de la sanction en vertu du paragraphe 232(1).
+- **(2)** Le contrevenant qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci, mais avant signification de l’avis de défaut visé à l’article 231.1, déposer auprès du Tribunal une requête en révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et le contrevenant est réputé avoir déposé une requête en révision des faits reprochés et du montant de la sanction en vertu du paragraphe 232(1).
+> 2001, ch. 26, art. 230, ch. 29, art. 72.
+
 
 
 
 
 **Avis d’exécution**
 
-**231** 
+**231** S’il estime que l’intéressé a exécuté la transaction, le ministre en avise celui-ci. Sur signification de l’avis :
+- **a)** aucune poursuite ne peut être intentée contre l’intéressé pour la même violation;
+- **b)** toute caution versée au titre de l’alinéa 229(1)a) est remise à l’intéressé.
+> 2001, ch. 26, art. 231, ch. 29, art. 72.
 
-- **(1)** S’il estime que l’intéressé a exécuté la transaction, le ministre en avise celui-ci. Sur notification de l’avis :
-	- **a)** aucune poursuite ne peut être intentée contre l’intéressé pour la même violation;
-	- **b)** toute caution versée au titre de l’alinéa 229(1)a) est remise à l’intéressé.
+
+
+
 
 **Avis de défaut d’exécution**
 
-- **(2)** S’il estime que l’intéressé n’a pas exécuté la transaction, le ministre peut lui notifier un avis de défaut qui l’informe que, sauf si l’arbitre conclut au titre du paragraphe (3) que la transaction a été exécutée :
-	- **a)** soit il doit payer le double du montant de la sanction fixée par la transaction;
-	- **b)** soit la caution mentionnée à l’alinéa 229(1)a) est confisquée au profit de Sa Majesté du chef du Canada.
+**231.1** 
 
-**Révision par l’arbitre**
+- **(1)** S’il estime que l’intéressé n’a pas exécuté la transaction, le ministre peut lui signifier un avis de défaut qui l’informe que, sauf si le conseiller ou le comité conclut respectivement au titre des articles 231.2 ou 232.2 que la transaction a été exécutée :
+	- **a)** soit il doit payer le double du montant de la sanction prévue par la transaction;
+	- **b)** soit la caution versée au titre de l’alinéa 229(1)a) est confisquée au profit de Sa Majesté du chef du Canada.
 
-- **(3)** L’intéressé peut, selon les modalités réglementaires et dans les trente jours suivant la notification de l’avis, demander à être entendu par un arbitre sur les faits reprochés relativement à l’inexécution de la transaction.
+**Contenu de l’avis**
 
-**Charge de la preuve**
-
-- **(4)** Il appartient au ministre d’établir, selon la prépondérance des probabilités, la responsabilité de l’intéressé; celui-ci n’est cependant pas tenu de témoigner.
-
-**Exclusion de certains moyens de défense**
-
-- **(5)** L’intéressé à qui un avis de défaut a été notifié ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour exécuter la transaction.
+- **(2)** Sont notamment indiqués dans l’avis le lieu et la date limite, à savoir trente jours après signification de l’avis, du dépôt d’une éventuelle requête en révision.
 
 **Effet de l’inexécution**
 
-- **(6)** Sur notification de l’avis, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
+- **(3)** Sur signification de l’avis de défaut, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
+> 2001, ch. 29, art. 72.
+
+
+
+
+
+**Requête en révision**
+
+**231.2** 
+
+- **(1)** Le contrevenant peut faire réviser la décision du ministre en déposant une requête en révision auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(4)** Il incombe au ministre d’établir la responsabilité du contrevenant; celui-ci n’est cependant pas tenu de témoigner.
+
+**Exclusion de certains moyens de défense**
+
+- **(5)** Le contrevenant ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour exécuter la transaction.
+
+**Décision**
+
+- **(6)** Le conseiller peut confirmer la décision du ministre ou conclure que la transaction a été exécutée par le contrevenant.
+> 2001, ch. 29, art. 72.
+
+
+
+
 
 **Remise de la caution**
 
-- **(7)** La caution versée par l’intéressé au titre de l’alinéa 229(1)a) lui est remise :
-	- **a)** en cas de notification de l’avis mentionné à l’alinéa (2)a), si l’intéressé paie le double du montant de la sanction fixée par la transaction;
-	- **b)** si l’arbitre conclut au titre du paragraphe (3) que la transaction a été exécutée.
+**231.3** La caution versée par le contrevenant au titre de l’alinéa 229(1)a) lui est remise :
+- **a)** en cas de signification de l’avis mentionné à l’article 231.1, si le contrevenant paie le double du montant de la sanction prévue par la transaction;
+- **b)** lorsque le conseiller ou le comité conclut respectivement au titre des articles 231.2 ou 232.2 que la transaction a été exécutée.
+> 2001, ch. 29, art. 72.
+
 
 
 
@@ -4383,15 +4539,59 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **232** 
 
-- **(1)** Si le ministre ne transige pas, le contrevenant doit, soit payer le montant de la sanction infligée initialement, soit, selon les modalités réglementaires et dans les trente jours suivant la notification du procès-verbal, demander à être entendu par un arbitre sur les faits reprochés ou sur le montant de la sanction.
+- **(1)** Si le ministre ne transige pas, le contrevenant doit :
+	- **a)** soit payer le montant de la sanction infligée initialement;
+	- **b)** soit déposer auprès du Tribunal, à l’adresse indiquée dans le procès-verbal, au plus tard à la date qui y est indiquée ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal, une requête en révision des faits reprochés ou du montant de la sanction.
+
+**Aucune requête**
+
+- **(2)** L’omission de déposer une requête en révision des faits reprochés vaut déclaration de responsabilité à l’égard de la violation.
+> 2001, ch. 26, art. 232, ch. 29, art. 72.
+
+
+
+
+
+**Audience**
+
+**232.1** 
+
+- **(1)** Le Tribunal, sur réception de la requête déposée en vertu de l’alinéa 232(1)b), fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(2)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
 
 **Charge de la preuve**
 
-- **(2)** S’agissant d’une demande portant sur les faits reprochés, il appartient au ministre d’établir, selon la prépondérance des probabilités, la responsabilité du contrevenant; celui-ci n’est cependant pas tenu de témoigner.
+- **(3)** S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir la responsabilité du contrevenant; celui-ci n’est cependant pas tenu de témoigner.
 
-**Aucune demande**
+**Décision**
 
-- **(3)** L’omission de demander à être entendu sur les faits reprochés vaut déclaration de responsabilité à l’égard de la violation.
+- **(4)** Le conseiller peut confirmer la décision du ministre ou, sous réserve des règlements pris en vertu de l’alinéa 244h), y substituer sa propre décision.
+> 2001, ch. 29, art. 72.
+
+
+
+
+
+**Appel**
+
+**232.2** 
+
+- **(1)** Le ministre ou le contrevenant peut faire appel au Tribunal de la décision rendue en vertu des paragraphes 231.2(6) ou 232.1(4). Dans les deux cas, le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut :
+	- **a)** dans le cas d’une décision visée au paragraphe 231.2(6), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause;
+	- **b)** dans le cas d’une décision visée au paragraphe 232.1(4), rejeter l’appel ou y faire droit et, sous réserve des règlements pris en vertu de l’alinéa 244h), substituer sa propre décision à celle en cause.
+> 2001, ch. 29, art. 72.
+
 
 
 
@@ -4411,13 +4611,15 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 
 
-**Créance de Sa Majesté**
+**Créances de Sa Majesté**
 
-**234** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent :
-- **a)** sauf en cas de présentation d’une demande d’audition sur le montant de la sanction au titre du paragraphe 232(1), ce montant, à compter de la date de notification du procès-verbal;
-- **b)** le montant que l’intéressé doit payer au titre de l’avis de défaut prévu au paragraphe 231(2), à compter de la date de sa notification;
-- **c)** le montant de la sanction fixé par l’arbitre dans le cadre de la demande d’audition prévue au paragraphe 232(1), à compter de la date de la décision de l’arbitre;
+**234** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent :
+- **a)** sauf en cas de dépôt d’une requête en révision du montant de la sanction au titre de l’alinéa 232(1)b), ce montant, à compter de la date de signification du procès-verbal;
+- **b)** la somme devant être payée au titre de l’avis de défaut visé au paragraphe 231.1(1), à compter de la date de la signification de l’avis;
+- **c)** le montant de la sanction fixé par le conseiller dans le cadre de la requête prévue à l’article 232.1 ou par le comité dans le cadre de l’appel prévu à l’article 232.2, à compter de la date de la décision du conseiller ou du comité;
 - **d)** le montant des frais raisonnables engagés en vue du recouvrement d’une somme visée à l’un des alinéas a) à c).
+> 2001, ch. 26, art. 234, ch. 29, art. 72.
+
 
 
 
@@ -4426,11 +4628,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **235** 
 
-- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée des créances visées à l’article 234.
+- **(1)** Le ministre ou le Tribunal, selon le cas, peut établir un certificat de non-paiement pour la partie impayée des créances visées à l’article 234.
 
 **Enregistrement en Cour fédérale**
 
 - **(2)** La Cour fédérale enregistre tout certificat visé au paragraphe (1) déposé auprès d’elle. L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2001, ch. 26, art. 235, ch. 29, art. 72.
+
 
 
 
@@ -4474,8 +4678,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **239** 
 
-- **(1)** À moins que le ministre n’estime que cela est contraire à l’intérêt public, toutes les mentions relatives aux violations commises par le contrevenant, aux transactions conclues par celui-ci ainsi qu’aux suspensions, annulations ou refus de délivrance ou de renouvellement de documents maritimes canadiens pour les motifs réglementaires sont radiées du dossier que le ministre tient à l’égard du contrevenant cinq ans après le dernier en date des événements suivants :
-	- **a)** le paiement par le contrevenant de toutes les amendes imposées au titre d’un procès-verbal ou d’un avis de défaut ou de la décision de l’arbitre;
+- **(1)** À moins que le ministre n’estime que cela est contraire à l’intérêt public, toutes les mentions relatives aux violations commises par le contrevenant, aux transactions conclues par celui-ci ainsi qu’aux suspensions, annulations ou refus de délivrance ou de renouvellement de documents maritimes canadiens pour les motifs réglementaires sont radiées du dossier que le ministre tient à l’égard du contrevenant cinq ans après le dernier en date des événements suivants :
+	- **a)** le paiement par le contrevenant de toutes les sanctions imposées au titre d’un procès-verbal, d’un avis de défaut ou de la décision du Tribunal;
 	- **b)** la suspension pour un motif réglementaire du document maritime canadien délivré au contrevenant;
 	- **c)** l’annulation par le ministre pour un motif réglementaire du document maritime canadien délivré au contrevenant;
 	- **d)** le refus par le ministre, pour un motif réglementaire, de délivrer au contrevenant le document maritime canadien ou de le renouveler.
@@ -4484,9 +4688,39 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 - **(2)** Lorsqu’il estime que la radiation est contraire à l’intérêt public, le ministre en avise, motifs à l’appui, l’intéressé.
 
-**Examen**
+**Contenu de l’avis**
 
-- **(3)** Dans les trente jours suivant la réception de l’avis, l’intéressé peut demander qu’un arbitre examine la décision.
+- **(3)** Sont notamment indiqués dans l’avis le lieu et la date limite, à savoir trente jours après la signification de l’avis, du dépôt d’une éventuelle requête en révision.
+
+**Requête en révision**
+
+- **(4)** L’intéressé peut faire réviser la décision du ministre en déposant une requête en révision auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement octroyé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(5)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(6)** À l’audience, le conseiller accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Décision**
+
+- **(7)** Le conseiller peut confirmer la décision du ministre ou lui renvoyer l’affaire pour réexamen.
+
+**Appel**
+
+- **(8)** L’intéressé peut, dans les trente jours suivant la décision du conseiller, faire appel au Tribunal de cette décision.
+
+**Perte du droit d’appel**
+
+- **(9)** L’intéressé qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(10)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
+> 2001, ch. 26, art. 239, ch. 29, art. 72.
+
 
 
 
@@ -4534,9 +4768,11 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **f)** désigner comme violation punissable au titre des articles 229 à 242 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée;
 - **g)** désigner les violations pour lesquelles il est compté des violations distinctes pour chacun des jours au cours desquels elles se continuent;
 - **h)** désigner les violations qui peuvent faire l’objet d’un procès-verbal et fixer le montant — notamment par barème — de la sanction applicable à chacune de ces violations, qui ne peut dépasser 25 000 $ ni le montant de l’amende maximale dont la violation aurait été passible si elle avait été poursuivie par procédure sommaire;
-- **i)** régir les examens prévus aux paragraphes 231(3) (avis de défaut), 232(2) (procès-verbaux) et 239(3) (radiation des mentions de violation);
+- **i)** [Abrogé, 2001, ch. 29, art. 72]
 - **j)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification ou notification des documents autorisés ou exigés par la présente partie;
 - **k)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+> 2001, ch. 26, art. 244, ch. 29, art. 72.
+
 
 
 
