@@ -118,7 +118,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(vi)** des montants nécessaires au rachat de créances correspondant aux prêts d’études échus pour lesquels il n’y a eu aucun versement en vue du remboursement pendant au moins un an, ainsi que d’un certain pourcentage des sommes recouvrées par lui à l’égard de ces créances,
 	- **(vii)** des montants correspondant au rajustement du principal et de l’intérêt en cas d’erreur, commise par inadvertance, sur le taux d’intérêt ou le montant à rembourser dans le contrat de prêt consolidé ou dans le contrat de prêt simple,
 	- **(viii)** de sommes pour les pertes occasionnées par un prêt d’études à un étudiant à temps plein qui, avant le mois suivant celui où il a cessé de l’être, selon le cas :
-		- **(A)** sous le régime de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit a fait une cession qui a été déposée et n’a pas été annulée, soit est réputé, en raison de circonstances survenues avant ce même mois, en avoir fait une, soit a fait l’objet d’une ordonnance de séquestre,
+		- **(A)** sous le régime de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit a fait une cession qui a été déposée et n’a pas été annulée, soit est réputé, en raison de circonstances survenues avant ce même mois, en avoir fait une, soit a fait l’objet d’une ordonnance de faillite,
 		- **(B)** a déposé, en application des sections I ou II de la partie III de cette loi, une proposition qui a été acceptée ou réputée acceptée par un tribunal,
 		- **(C)** a fait l’objet d’une ordonnance de fusion en vertu de la partie X de cette loi,
 		- **(D)** a bénéficié d’une loi provinciale relative au paiement méthodique des dettes,
@@ -131,6 +131,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** la procédure à suivre par le prêteur en ce qui concerne les prêts d’études, notamment en matière d’octroi et de recouvrement;
 - **h)** l’établissement de rapports au ministre concernant les prêts d’études;
 - **i)** les conditions et modalités relatives aux obligations contractuelles du ministre et du prêteur.
+> 1994, ch. 28, art. 5; 2004, ch. 25, art. 191
+
 
 
 
