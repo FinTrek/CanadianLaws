@@ -76,283 +76,287 @@
 
 
 
-**Paiements de péréquation**
+**Paiement de péréquation**
 
-**3** Sous réserve des autres dispositions de la présente loi, le ministre peut verser à une province, pour chaque exercice compris entre le 1<sup>er</sup> avril 2004 et le 31 mars 2009, un paiement de péréquation n'excédant pas le montant calculé en conformité avec l'article 4.
-> L.R. (1985), ch. F-8, art. 3; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 2; 1992, ch. 10, art. 2; 1994, ch. 2, art. 1; 1999, ch. 11, art. 1; 2004, ch. 4, art. 1, ch. 22, art. 2.
-
-
+**3** Sous réserve des autres dispositions de la présente loi, le ministre peut verser à une province, pour chaque exercice commençant après le 31 mars 2004, un paiement de péréquation n’excédant pas les montants prévus par la présente partie.
+> L.R. (1985), ch. F-8, art. 3; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 2; 1992, ch. 10, art. 2; 1994, ch. 2, art. 1; 1999, ch. 11, art. 1; 2004, ch. 4, art. 1, ch. 22, art. 2; 2005, ch. 7, art. 1.
 
 
 
-**Calcul des paiements**
+
+
+**Paiement de péréquation pour l’exercice 2004-2005**
 
 **4** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, le paiement de péréquation qui peut être fait à une province pour un exercice correspond au montant déterminé par le ministre au moyen de la formule suivante :
+- **(1)** Le paiement de péréquation qui peut être versé à une province pour l’exercice commençant le 1<sup>er</sup> avril 2004 correspond au montant calculé selon l’article 4, dans sa version au 13 mai 2004, et le paragraphe (4).
+
+**Paiement supplémentaire pour l’exercice 2004-2005**
+
+- **(2)** Le ministre peut verser à une province, pour l’exercice commençant le 1<sup>er</sup> avril 2004, un paiement de péréquation supplémentaire dont le montant correspond au résultat du calcul suivant :
 ```
-1,10 (A + B + C)/3
-```
-où :
-- **A** représente le plus élevé des montants suivants :
-- **a)** le produit des nombres suivants :
-- **(i)** le total des résultats obtenus lorsque le rendement par tête de cette province pour chaque source de revenu à l’égard de l’exercice précédent est soustrait du rendement moyen par tête des provinces d’Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour chaque source de revenu au cours de ce même exercice,
-- **(ii)** la population de la province au cours de l’exercice précédent;
-- **b)** zéro.
-- **B** le plus élevé des montants suivants :
-- **a)** le produit des nombres suivants :
-- **(i)** le total des résultats obtenus lorsque le rendement par tête de cette province pour chaque source de revenu à l’égard de l’avant-dernier exercice est soustrait du rendement moyen par tête des provinces d’Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour chaque source de revenu au cours de ce même exercice,
-- **(ii)** la population de la province au cours de l’avant-dernier exercice;
-- **b)** zéro.
-- **C** le plus élevé des montants suivants :
-- **a)** le produit des nombres suivants :
-- **(i)** le total des résultats obtenus lorsque le rendement par tête de cette province pour chaque source de revenu à l’égard de l’exercice précédant l’avant-dernier exercice est soustrait du rendement moyen par tête des provinces d’Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour chaque source de revenu à l’égard de l’exercice précédant l’avant-dernier exercice,
-- **(ii)** la population de la province au cours de l’exercice précédant l’avant-dernier exercice;
-- **b)** zéro.
-
-**Paiement pour l’exercice 2004-2005**
-
-- **(1.1)** Le paiement de péréquation qui peut être fait à une province pour l’exercice commençant le 1<sup>er</sup> avril 2004 est calculé d’après la législation antérieure et les paragraphes (6) et (7) s’appliquent, dans leur version antérieure à l’entrée en vigueur du présent paragraphe, à ce paiement comme si ces dispositions le prévoyaient expressément.
-
-**Paiement pour l’exercice 2005-2006**
-
-- **(1.2)** Le paiement de péréquation qui peut être fait à une province pour l’exercice commençant le 1<sup>er</sup> avril 2005 correspond au montant déterminé par le ministre au moyen de la formule suivante :
-```
-2D + E
+(F - L) x (K/L)
 ```
 où :
-- **D** représente le tiers du montant obtenu par le calcul effectué d’après la législation antérieure;
-- **E** 1,10 x A/3, où A représente la description de l’élément A figurant au paragraphe (1).
+- **F** représente la somme de 10 milliards de dollars;
+- **K** le paiement de péréquation calculé en vertu du paragraphe (1) à l’égard de la province;
+- **L** la totalité des paiements de péréquation calculée en vertu du paragraphe (1) à l’égard de l’ensemble des provinces.
 
-**Paiement pour l’exercice 2006-2007**
+**Paiement supplémentaire pour l’exercice 2004-2005**
 
-- **(1.3)** Le paiement de péréquation qui peut être fait à une province pour l’exercice commençant le 1<sup>er</sup> avril 2006 correspond au montant déterminé par le ministre au moyen de la formule suivante :
-```
-F + G + H
-```
-où :
-- **F** représente le tiers du montant obtenu par le calcul effectué d’après la législation antérieure;
-- **G** 1,10 x A/3, où A représente la description de l’élément A figurant au paragraphe (1);
-- **H** 1,10 x B/3, où B représente la description de l’élément B figurant au paragraphe (1).
+- **(3)** Le ministre peut verser à une province, pour l’exercice commençant le 1<sup>er</sup> avril 2004, un paiement de péréquation supplémentaire correspondant à l’excédent des paiements visés à l’alinéa a) sur ceux visés à l’alinéa b) :
+	- **a)** l’ensemble des paiements de péréquation versés à la province pour les exercices compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2005, qui ont été précisés par le ministre dans l’estimation provisoire de février 2004;
+	- **b)** l’ensemble des paiements suivants :
+		- **(i)** les paiements de péréquation à faire à la province, selon le calcul définitif du ministre au titre du paragraphe (4), pour les exercices compris entre le 1<sup>er</sup> avril 2002 et le 31 mars 2004,
+		- **(ii)** le paiement de péréquation à faire à la province pour l’exercice commençant le 1<sup>er</sup> avril 2001,
+		- **(iii)** le paiement de péréquation visé au paragraphe (1),
+		- **(iv)** le paiement de péréquation supplémentaire visé au paragraphe (2).
 
-- **(1.4)** [Abrogé, 2004, ch. 22, art. 3]
+**Calcul définitif**
 
-**Définitions**
+- **(4)** Malgré l’article 8 et les paragraphes 9(1) à (5) du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), le calcul définitif du paiement de péréquation à faire à une province pour chacun des exercices compris entre le 1<sup>er</sup> avril 2002 et le 31 mars 2005 correspond au montant de l’estimation établie par le ministre le 12 octobre 2004.
 
-- **(2)** Les définitions qui suivent s’appliquent au présent article et à l’article 4.1.
+**Modalités de paiement**
 
-***assiette*** Relativement à une source de revenu pour une province à l’égard d’un exercice, se rapporte à la mesure de la capacité relative de cette province de retirer un revenu de cette source à l’égard de cet exercice et a le sens que lui donnent les règlements.
-
-***législation antérieure*** Le paragraphe 4(1) de la présente loi et l’article 6 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), dans leur version au 31 mars 2004.
-
-***rendement par tête*** Relativement à une province à l’égard d’une source de revenu pour un exercice, le quotient obtenu en divisant le produit du taux national moyen de l’impôt pour cette source de revenu et l’assiette de la province pour cette source de revenu à l’égard de l’exercice par la population de la province pour cet exercice.
-
-***revenu sujet à péréquation*** Relativement à une source de revenu pour une province à l’égard d’un exercice, le revenu, déterminé par le ministre, qu’elle retire de cette source au cours de l’exercice.
-
-***source de revenu*** L’une des sources suivantes dont proviennent ou peuvent provenir les revenus des provinces :
-- **a)** impôts sur le revenu des particuliers;
-- **b)** impôts sur le revenu des personnes morales et revenus retirés d’entreprises publiques non visées aux autres alinéas de la présente définition;
-- **c)** impôts sur le capital des personnes morales;
-- **d)** taxes générales et diverses sur les ventes, taxes harmonisées sur les ventes et impôts sur les spectacles et droits d’entrée;
-- **e)** taxes sur le tabac;
-- **f)** taxes sur les carburants retirées de la vente de l’essence;
-- **g)** taxes sur les carburants retirées de la vente du carburant diesel;
-- **h)** revenus provenant des permis et de l’immatriculation des véhicules à moteur non commerciaux;
-- **i)** revenus provenant des permis et de l’immatriculation des véhicules à moteur commerciaux;
-- **j)** revenus retirés de la vente de boissons alcoolisées;
-- **k)** primes d’assurance-hospitalisation et d’assurance-maladie;
-- **l)** revenus provenant des exploitations forestières;
-- **m)** revenus retirés du nouveau pétrole obtenu selon des méthodes classiques;
-- **n)** revenus retirés de l’ancien pétrole obtenu selon des méthodes classiques;
-- **o)** revenus retirés du pétrole lourd;
-- **p)** revenus retirés du pétrole obtenu par des opérations minières;
-- **q)** revenus retirés du pétrole léger et moyen de troisième niveau;
-- **r)** revenus retirés du pétrole lourd de troisième niveau;
-- **s)** revenus provenant du gaz naturel vendu à l’intérieur du pays et du gaz naturel exporté;
-- **t)** cessions des concessions de la Couronne et des droits de réserve sur les terrains recelant du pétrole ou du gaz naturel;
-- **u)** revenus provenant du pétrole et du gaz autres que ceux visés aux alinéas m) à t);
-- **v)** revenus provenant de l’exploitation minière;
-- **w)** location d’énergie hydro-électrique;
-- **x)** impôts sur les primes d’assurance;
-- **y)** impôts sur la feuille de paie;
-- **z)** impôts immobiliers provinciaux et locaux;
-- **z.1)** taxes afférentes aux pistes de course;
-- **z.2)** revenus retirés de la vente de billets de loterie;
-- **z.3)** revenus, autres que ceux visés aux alinéas z.1) et z.2), provenant des jeux de hasard;
-- **z.4)** revenus et impôts provinciaux divers, revenus provinciaux provenant de la vente de biens et de la fourniture de services, revenus locaux provenant de la vente de biens et de la fourniture de services et taxes et revenus locaux divers;
-- **z.5)** revenus que le gouvernement du Canada retire de tout ou partie des sources mentionnées dans la présente définition et qu’il partage avec les provinces.
-
-***taux national moyen de l’impôt*** À l’égard d’une source de revenu, le quotient obtenu en divisant le total des revenus sujets à péréquation à l’égard d’une source de revenu pour toutes les provinces pour un exercice par l’assiette de cette source de revenu pour toutes les provinces pour cet exercice.
-
-**Modification de la définition de source de revenu**
-
-- **(3)** Il est possible, par règlement, de réviser ou de modifier la désignation d’une source de revenu, telle qu’elle est établie à la définition de source de revenu au paragraphe (2), de façon :
-	- **a)** à en faire deux sources de revenu distinctes ou plus;
-	- **b)** à l’inclure, totalement ou en partie, dans la désignation d’une autre source de revenu mentionnée dans cette définition;
-	- **c)** à l’exclure en partie de cette définition.
-
-**Déduction dans le calcul du revenu sujet à péréquation retiré des impôts sur le revenu des particuliers**
-
-- **(4)** En calculant le revenu sujet à péréquation retiré des impôts sur le revenu des particuliers, pour toutes les provinces, à l’égard d’un exercice, le ministre peut déduire du montant qui, n’eût été le présent paragraphe, serait le revenu sujet à péréquation provenant de cette source, pour toutes les provinces, à l’égard de l’exercice, le montant estimatif de l’excédent, sur les revenus retirés par le Canada, en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), des impôts sur le revenu des particuliers pour l’année d’imposition se terminant au cours de cet exercice, des revenus qui auraient été retirés de ces impôts par le Canada si aucun abattement spécial n’avait été prévu à leur égard en vertu du paragraphe 120(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la partie VI de la présente loi.
-
-**Impôts immobiliers locaux et taxes et revenus divers**
-
-- **(5)** Aux fins du calcul du revenu sujet à péréquation retiré des sources de revenu ci-après par une province pour un exercice, est réputé être le revenu retiré par la province :
-	- **a)** dans le cas de la partie de la source de revenu mentionnée à l’alinéa z) de la définition de source de revenu au paragraphe (2) qui a trait aux impôts immobiliers locaux, le revenu total retiré de cette partie de la source de revenu par chaque municipalité, commission ou autre administration locale de la province qui a le pouvoir de lever des impôts immobiliers pour celui de ses exercices se terminant au cours de l’exercice en cause;
-	- **b)** dans le cas de la partie de la source de revenu mentionnée à l’alinéa z.4) de la définition de source de revenu au paragraphe (2) qui a trait aux revenus locaux provenant de la vente de biens et de la fourniture de services et aux taxes et revenus locaux divers, le revenu total retiré de cette partie de la source de revenu par chaque municipalité, commission ou autre administration locale de la province qui a le pouvoir de retirer ces revenus pour celui de ses exercices se terminant au cours de l’exercice en cause.
-
-**Paiement minimal dans certains cas**
-
-- **(6)** Malgré les paragraphes (1) et (1.2) à (5) et sous réserve du paragraphe (9), le paiement de péréquation qui peut être fait à une province pour l’exercice commençant le 1<sup>er</sup> avril 2005 et les exercices suivants, si la province a reçu un paiement de péréquation pour l’exercice précédent, ne peut être inférieur au plus élevé des nombres suivants :
-	- **a)** ce que serait le montant du paiement de péréquation de l’exercice précédent s’il n’était pas tenu compte du présent paragraphe, diminué du montant déterminant pour l’exercice en cours;
-	- **b)** zéro.
-
-**Définition de norme de péréquation nationale par tête**
-
-- **(7)** Pour l’application du présent article, ***norme de péréquation nationale par tête*** s’entend du rendement par tête moyen des provinces d’Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour toutes les sources de revenu.
-
-**Définition de montant déterminant**
-
-- **(8)** Pour l’application du paragraphe (6), ***montant déterminant*** s’entend :
-	- **a)** sauf dans les cas visés aux alinéas b) et c), du montant, pour un exercice donné, résultant du calcul suivant :
-```
-0,016 x 1,10 x X xY
-```
-où :
-- **X** représente le tiers de la somme de la norme de péréquation nationale par tête pour l’exercice précédent, la norme de péréquation nationale par tête de l’avant-dernier exercice et la norme de péréquation nationale par tête de l’exercice précédant l’avant-dernier exercice,
-- **Y** le moins élevé des nombres suivants : la population de la province au cours de l’exercice précédent, la population de la province au cours de l’avant-dernier exercice ou la population de la province au cours de l’exercice précédant l’avant-dernier exercice;
-	- **b)** pour l’exercice 2005-2006, du montant résultant du calcul suivant :
-```
-0,016 x X<sub>1</sub> x Y<sub>1</sub>
-```
-où :
-- **X** <sub>1</sub>représente la somme de deux tiers de la norme de péréquation nationale par tête pour l’exercice 2005-2006 — calculée en fonction de l’article 6 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md) dans sa version au 31 mars 2004 — et du tiers de la norme de péréquation nationale par tête pour l’exercice 2004-2005 plus 10 pour cent,
-- **Y** <sub>1</sub>la population de la province au cours de l’exercice 2004-2005 ou celle de l’exercice 2005-2006, le moins élevé de ces nombres étant à retenir;
-	- **c)** pour l’exercice 2006-2007, du montant résultant du calcul suivant :
-```
-0,016 x X<sub>2</sub> x Y<sub>2</sub>
-```
-où :
-- **X** <sub>2</sub>représente la somme du tiers de la norme de péréquation nationale par tête pour l’exercice 2006-2007 — calculée en fonction de l’article 6 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md) dans sa version au 31 mars 2004 —, du tiers de la norme de péréquation nationale par tête pour l’exercice 2005-2006 plus 10 pour cent et du tiers de la norme de péréquation nationale par tête pour l’exercice 2004-2005 plus 10 pour cent;
-- **Y** <sub>2</sub>la population de la province au cours de l’exercice 2004-2005, celle de l’exercice 2005-2006 ou celle de l’exercice 2006-2007, le moins élevé de ces nombres étant à retenir.
-
-**Paiement maximal**
-
-- **(9)** Malgré les autres dispositions de la présente partie, si le montant visé à l’alinéa a) est supérieur à celui visé à l’alinéa b), le paiement de péréquation fait à chaque province pour tout exercice compris entre le 1<sup>er</sup> avril 2000 et le 31 mars 2002 est réduit d’un montant égal au produit obtenu par multiplication du nombre visé à l’alinéa c) par le quotient visé à l’alinéa d) :
-	- **a)** le montant total des paiements de péréquation qui peuvent être faits à toutes les provinces en vertu de la présente partie pour l’exercice;
-	- **b)** le montant qui serait obtenu si la somme de dix milliards de dollars était modifiée par la variation, exprimée en pourcentage, du produit intérieur brut du Canada, déterminé par le statisticien en chef du Canada de la façon prescrite, entre l’année civile se terminant le 31 décembre 1999 et l’année civile se terminant pendant l’exercice;
-	- **c)** la population totale de la province le 1<sup>er</sup> juin de l’exercice;
-	- **d)** le quotient obtenu par division de la différence entre le montant visé à l’alinéa a) et celui visé à l’alinéa b) par la population totale de toutes les provinces auxquelles un paiement de péréquation est versé pour cet exercice.
-
-**Rajustement du revenu sujet à péréquation**
-
-- **(10)** Sous réserve du paragraphe (11), lorsque le revenu d’une province qui a droit à un paiement de péréquation au titre de la présente partie relativement à un exercice compris entre le 1<sup>er</sup> avril 1993 et le 31 mars 2005 représente au moins 70 pour cent de l’assiette de toutes les provinces au cours de l’exercice en cause au regard d’une source de revenu visée par la définition de ce terme au paragraphe (2), compte tenu des modifications ou révisions effectuées par application du paragraphe (3), le revenu sujet à péréquation pour toutes les provinces relativement à cette source de revenu à l’égard de l’exercice est égal à 70 pour cent du revenu total avant rajustement tiré par toutes les provinces au cours de cet exercice.
-
-**Rajustement du revenu sujet à péréquation**
-
-- **(10.1)** Sous réserve des paragraphes (11) et (11.1), pour l’exercice commençant le 1<sup>er</sup> avril 2005 et les exercices suivants, le revenu sujet à péréquation pour toutes les provinces pour une source de revenu — compte tenu des modifications ou révisions effectuées par application du paragraphe (3) à la définition de ce terme au paragraphe (2) — et qui est tiré au cours d’un des exercices pris en compte pour le calcul du paiement de péréquation représente un montant égal à 70 pour cent du revenu total avant rajustement tiré par toutes les provinces au titre de cette source de revenu au cours de tout exercice pris en compte, si au cours d’un ou de plusieurs d’entre eux les conditions suivantes sont réunies :
-	- **a)** le revenu tiré d’une province représente au moins 70 pour cent de l’assiette de toutes les provinces au cours de l’exercice pour cette source de revenu;
-	- **b)** la somme des rendements par tête de cette province pour toutes les sources de revenu est inférieure à la somme des moyennes des rendements par tête pour toutes les sources de revenu des provinces d’Ontario, du Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan.
-
-**Choix**
-
-- **(11)** La province qui peut avoir droit à un paiement de péréquation compensatoire au cours de l’exercice au titre de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve à l’égard d’un exercice compris entre le 1<sup>er</sup> avril 2004 et le 31 mars 2007, doit faire un choix, en la forme prescrite, dans les quinze jours suivant la présentation, par le statisticien en chef du Canada au ministre, du certificat prévu au paragraphe 9(2) du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), concernant l’exercice à l’égard duquel le choix est fait, afin que les paragraphes (10) et (10.1), selon le cas, s’appliquent relativement aux revenus minéraux extracôtiers visés — compte tenu des modifications ou révisions effectuées par application du paragraphe (3) — par la désignation de l’alinéa z.5) de la définition de source de revenu au paragraphe (2).
-
-**Choix**
-
-- **(11.1)** La province qui peut avoir droit à un paiement de péréquation compensatoire au cours de l’exercice au titre de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve à l’égard de l’exercice commençant le 1<sup>er</sup> avril 2007 et des exercices suivants, doit faire un choix, en la forme prescrite, dans les quinze jours suivant la présentation, par le statisticien en chef du Canada au ministre, du certificat prévu au paragraphe 9(2) du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), concernant l’exercice précédant celui à l’égard duquel le choix est fait, afin que le paragraphe (10.1) s’applique relativement aux revenus minéraux extracôtiers visés — compte tenu des modifications ou révisions effectuées par application du paragraphe (3) — par la désignation de l’alinéa z.5) de la définition de source de revenu au paragraphe (2).
-
-**Conséquences du choix effectué au titre du paragraphe (11)**
-
-- **(12)** Malgré la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md) ou de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve, lorsqu’une province effectue ce choix, le paiement de péréquation compensatoire qui lui serait payable au titre de ces lois est, pour l’exercice, égal à zéro.
-
-- **(13)** [Abrogé, 1999, ch. 11, art. 2]
-> L.R. (1985), ch. F-8, art. 4; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 3; 1992, ch. 10, art. 3; 1994, ch. 2, art. 2; 1999, ch. 11, art. 2; 2001, ch. 19, art. 1; 2003, ch. 15, art. 3; 2004, ch. 4, art. 2, ch. 22, art. 3.
+- **(5)** Le ministre prélève sur le Trésor les sommes visées aux paragraphes (2) et (3), selon les échéances et les modalités qu’il juge indiquées.
+> L.R. (1985), ch. F-8, art. 4; L.R. (1985), ch. 11 (3 <sup>e</sup> suppl.), art. 3; 1992, ch. 10, art. 3; 1994, ch. 2, art. 2; 1999, ch. 11, art. 2; 2001, ch. 19, art. 1; 2003, ch. 15, art. 3; 2004, ch. 4, art. 2, ch. 22, art. 3; 2005, ch. 7, art. 1.
 
 
 
 
 
-**Rajustement**
+**Paiements de péréquation**
 
 **4.1** 
 
-- **(1)** Malgré les paragraphes 4(1), (1.2) et (1.3), à l'égard de l'exercice commençant le 1<sup>er</sup> avril 2005 et des exercices suivants, le ministre peut, au plus tard le 31 mars de l'exercice visé, rajuster, à la demande d'une province présentée de la manière prescrite au plus tard le 31 mars de cet exercice, le paiement de péréquation calculé selon l'article 4 pour cette province pour cet exercice si les conditions suivantes sont réunies :
-	- **a)** la province a tiré, au cours de l'exercice visé, des revenus d'une des sources de revenu visées aux alinéas m) à u) de la définition de ***source de revenu*** au paragraphe 4(2) — compte tenu des modifications ou révisions effectuées par application du paragraphe 4(3);
-	- **b)** le rendement par tête de la province à l'égard de cette source de revenu était supérieur au rendement par tête moyen pour les provinces d'Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour cette source de revenu au cours de l'exercice visé.
+- **(1)** Les paiements de péréquation à verser aux provinces sont :
+	- **a)** pour l’exercice commençant le 1<sup>er</sup> avril 2005, de 10,9 milliards de dollars;
+	- **b)** pour l’exercice commençant le 1<sup>er</sup> avril 2006, de la somme obtenue par multiplication de 10,9 milliards de dollars par 1,035;
+	- **c)** pour chaque exercice ultérieur, de la somme obtenue par multiplication de la somme versée pour l’exercice précédent par 1,035.
 
-**Calcul du rajustement**
+**Parts des provinces — exercice 2005-2006**
 
-- **(2)** Le montant du rajustement visé au paragraphe (1) correspond à l'estimation, calculée au 31 mars de l'exercice visé, de l'excédent du nombre obtenu à l'alinéa a) sur celui obtenu à l'alinéa b) :
-	- **a)** le produit des nombres suivants :
-		- **(i)** le total des résultats obtenus lorsque, pour l'exercice visé, le rendement par tête de cette province pour chaque source de revenu visée à l'alinéa (1)a) à laquelle s'applique l'alinéa (1)b), est soustrait de la moyenne du rendement par tête des provinces d'Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour chacune de ces sources de revenu à l'égard de cet exercice,
-		- **(ii)** la population de la province au cours de l'exercice visé;
-	- **b)** la moyenne des résultats obtenus, à l'égard de chaque exercice pris en compte pour le calcul des paiements de péréquation de l'exercice visé, par multiplication des nombres suivants :
-		- **(i)** le total des résultats obtenus lorsque, pour un des exercices pris en compte, le rendement par tête de cette province pour chaque source de revenu, visée à l'alinéa (1)a) à laquelle s'applique l'alinéa (1)b), est soustrait de la moyenne du rendement par tête des provinces d'Ontario, de Québec, de la Colombie-Britannique, du Manitoba et de la Saskatchewan pour chacune de ces sources de revenu à l'égard de cet exercice,
-		- **(ii)** la population de la province au cours de cet exercice.
+- **(2)** Pour l’application de l’alinéa (1)a), le paiement de péréquation à verser aux provinces ci-après est celui figurant en regard de leur nom :
+	- **a)** Québec : 4 798 070 000 $;
+	- **b)** Nouvelle-Écosse : 1 343 527 000 $;
+	- **c)** Nouveau-Brunswick : 1 347 993 000 $;
+	- **d)** Manitoba : 1 601 018 000 $;
+	- **e)** Colombie-Britannique : 589 698 000 $;
+	- **f)** Île-du-Prince-Édouard : 276 563 000 $;
+	- **g)** Saskatchewan : 82 172 000 $;
+	- **h)** Terre-Neuve-et-Labrador : 860 959 000 $.
 
-**Résultat négatif**
+- **(3)** [Non en vigueur]
 
-- **(3)** Si le montant du rajustement obtenu au paragraphe (2) est négatif, le ministre verse à la province une somme correspondant au tiers de la valeur absolue de celui-ci pour chacun des trois exercices suivant l'exercice pour lequel le rajustement a été fait.
+**Modalités de paiement**
 
-**Résultat positif**
-
-- **(4)** Si le montant du rajustement obtenu au paragraphe (2) est positif, le ministre recouvre de la province une somme correspondant à celui-ci en en déduisant le tiers de chacun de ses paiements de péréquation pour les trois exercices suivant celui pour lequel le rajustement a été fait.
-
-**Recouvrement**
-
-- **(5)** Si, au 31 mars du troisième exercice suivant celui au cours duquel le rajustement a été fait, le montant total du rajustement n'a pas été recouvré, le ministre peut recouvrer le solde à titre de créance de Sa Majesté du chef du Canada en le retenant sur toute somme due par elle à cette province au titre de la présente loi ou de toute autre loi fédérale.
-> 2004, ch. 22, art. 4.
+- **(4)** Le ministre verse à la province le paiement de péréquation, en versements mensuels égaux, les premier et troisième jours ouvrables suivant le quinzième jour de chaque mois de l’exercice en cause, les jours fériés et les samedis n’étant pas des jours ouvrables.
+> 2004, ch. 22, art. 4; 2005, ch. 7, art. 1.
 
 
 
 
 
-**Versement à une province**
+**Versement à une province pour l’exercice 2004-2005**
 
 **4.2** 
 
-- **(1)** Malgré le paragraphe 4(1.1), le ministre peut, sur demande d'une province présentée de la manière prescrite au plus tard le 10 mars 2005, verser à celle-ci, pour l'exercice commençant le 1<sup>er</sup> avril 2004, une somme ne dépassant pas l'excédent du montant obtenu à l'alinéa b) sur celui obtenu à l'alinéa a) :
-	- **a)** l'estimation, au 10 mars 2005, du montant du paiement de péréquation fait à cette province pour l'exercice commençant le 1<sup>er</sup> avril 2004;
-	- **b)** l'estimation, au 10 mars 2005, de la moyenne des paiements de péréquation faits à cette province pour les exercices compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2003.
+- **(1)** Le ministre peut, sur demande d’une province présentée de la manière prescrite au plus tard le 10 mars 2005, verser à celle-ci, pour l’exercice commençant le 1<sup>er</sup> avril 2004, une somme ne dépassant pas l’excédent de la somme obtenue à l’alinéa b) sur celle obtenue à l’alinéa a) :
+	- **a)** l’estimation, au 12 octobre 2004, du montant du paiement de péréquation fait, au titre du paragraphe 4(1), à cette province pour l’exercice commençant le 1<sup>er</sup> avril 2004;
+	- **b)** l’estimation, au 12 octobre 2004, de la moyenne des paiements de péréquation faits à cette province pour les exercices compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2003.
 
 **Déductions**
 
-- **(2)** Si la province reçoit la somme visée au paragraphe (1), les paiements de péréquation qui doivent lui être faits à l'égard des exercices compris entre le 1<sup>er</sup> avril 2005 et le 31 mars 2009 sont réduits des montants prévus par règlement. Si, au 31 mars 2009, le total de la somme n'a pas été recouvré, le ministre peut recouvrer le solde à titre de créance de Sa Majesté du chef du Canada en le retenant sur toute somme due par elle à cette province au titre de la présente loi ou de toute autre loi fédérale.
-> 2004, ch. 22, art. 4.
+- **(2)** Si la province reçoit la somme visée au paragraphe (1), les paiements de péréquation qui doivent lui être faits à l’égard des exercices compris entre le 1<sup>er</sup> avril 2006 et le 31 mars 2016 sont réduits des sommes prévues par règlement. Si, au 31 mars 2016, le total de la somme n’a pas été recouvré, le ministre peut recouvrer le solde à titre de créance de Sa Majesté du chef du Canada en le retenant sur toute somme due par elle à cette province au titre de la présente loi ou de toute autre loi fédérale.
+> 2004, ch. 22, art. 4; 2005, ch. 7, art. 1.
 
 
 
 
 
-**Paiement de péréquation supplémentaire**
+**Paiement de péréquation supplémentaire pour l’exercice 2004-2005**
 
-**4.3** 
+**4.3** Malgré les paragraphes 4(1) à (3), le ministre peut, au cours de l’exercice commençant le 1<sup>er</sup> avril 2004, faire aux provinces ci-après le paiement de péréquation supplémentaire figurant en regard de leur nom :
+- **a)** Québec : 69 640 666,74 $;
+- **b)** Nouvelle-Écosse : 8 674 951,83 $;
+- **c)** Nouveau-Brunswick : 6 951 991,15 $;
+- **d)** Manitoba : 10 813 779,78 $;
+- **e)** Colombie-Britannique : 38 634 050,87 $;
+- **f)** Île-du-Prince-Édouard : 1 280 669,01 $;
+- **g)** Saskatchewan : 9 196 695,51 $;
+- **h)** Terre-Neuve-et-Labrador : 4 807 195,11 $.
+> 2004, ch. 22, art. 4; 2005, ch. 7, art. 1.
 
-- **(1)** Malgré les paragraphes 4(1.1) et (1.2), le ministre peut faire aux provinces suivantes un paiement de péréquation supplémentaire qui correspond au montant en regard de leur nom :
-	- **a)** pendant l'exercice au cours duquel le présent article entre en vigueur :
-		- **(i)** Québec : 69 640 666,74 $,
-		- **(ii)** Nouvelle-Écosse : 8 674 951,83 $,
-		- **(iii)** Nouveau-Brunswick : 6 951 991,15 $,
-		- **(iv)** Manitoba : 10 813 779,78 $,
-		- **(v)** Colombie-Britannique : 38 634 050,87 $,
-		- **(vi)** Île-du-Prince-Édouard : 1 280 669,01 $,
-		- **(vii)** Saskatchewan : 9 196 695,51 $,
-		- **(viii)** Terre-Neuve-et-Labrador : 4 807 195,11 $;
-	- **b)** pendant l'exercice commençant le 1<sup>er</sup> avril 2005 :
-		- **(i)** Québec : 11 613 596,18 $,
-		- **(ii)** Nouvelle-Écosse : 1 440 955,45 $,
-		- **(iii)** Nouveau-Brunswick : 1 153 751,37 $,
-		- **(iv)** Manitoba : 1 803 392,10 $,
-		- **(v)** Colombie-Britannique : 6 454 615,15 $,
-		- **(vi)** Île-du-Prince-Édouard : 213 406,48 $,
-		- **(vii)** Saskatchewan : 1 523 209,86 $,
-		- **(viii)** Terre-Neuve-et-Labrador : 797 073,41 $.
 
-**Non-application**
 
-- **(2)** Les paragraphes 4(6), (10) et (10.1) et l'article 4.1 de la présente loi et les articles 8 et 9 du *Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces* ne s'appliquent pas aux paiements visés au paragraphe (1).
-> 2004, ch. 22, art. 4.
+
+
+**PARTIE I.1** 
+## Paiements aux territoires
+
+
+
+**Paiements aux territoires**
+
+**4.4** Sous réserve des autres dispositions de la présente partie, le ministre peut verser à un territoire :
+- **a)** pour chaque exercice compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2005, une subvention calculée conformément à la formule préétablie (« la subvention ») et une subvention supplémentaire dont les montants n’excèdent pas ceux calculés en conformité avec les articles 4.7 à 4.9;
+- **b)** pour chaque exercice commençant après le 31 mars 2005, un paiement de transfert dont le montant n’excède pas celui calculé en conformité avec l’article 4.92.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+### Subvention calculée conformément à la formule préétablie
+
+
+
+**Définition de accord**
+
+**4.5** 
+
+- **(1)** Au présent article et aux articles 4.6 à 4.9, « accord » s’entend :
+	- **a)** dans le cas du Yukon, de l’Accord de financement selon une formule préétablie conclu avec le gouvernement du Yukon en 1999 et prorogé jusqu’en 2005;
+	- **b)** dans le cas des Territoires du Nord-Ouest, de l’Accord de financement selon une formule préétablie conclu avec le gouvernement des Territoires du Nord-Ouest en 1998 et prorogé jusqu’en 2005;
+	- **c)** dans le cas du Nunavut, de l’Accord de financement selon une formule préétablie conclu avec le gouvernement du Nunavut en 1998 et prorogé jusqu’en 2005.
+
+**Termes définis**
+
+- **(2)** Dans le cadre des articles 4.6 à 4.9, les définitions de l’accord s’appliquent.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Calcul du montant final**
+
+**4.6** 
+
+- **(1)** Malgré les dispositions de l’accord qui prévoient des révisions des estimations et des paiements des subventions, le résultat du calcul final du montant total des subventions à verser au territoire au titre de l’accord pour les exercices compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004 correspond à l’estimation qui a été établie entre le 12 février et le 31 mars 2005 conformément à l’accord.
+
+**Information**
+
+- **(2)** Le ministre procède au calcul final du montant total des subventions sur la base des plus récentes données que lui a fournies Statistique Canada ou toute autre source en ce qui touche les questions visées par l’accord.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Rajustement pour les exercices 2001-2002 à 2003-2004**
+
+**4.7** Pour les exercices compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004, le ministre peut rajuster le montant de la subvention en conformité avec le Calendrier et montant des versements et des rajustements figurant en annexe de l’accord, sur la base du calcul final effectué conformément à l’article 4.6.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Subvention pour l’exercice 2004-2005**
+
+**4.8** 
+
+- **(1)** Sous réserve du paragraphe (2), pour l’exercice commençant le 1<sup>er</sup> avril 2004, le ministre peut verser aux territoires ci-après la subvention figurant en regard de leur nom :
+	- **a)** Yukon : 465 707 930 $;
+	- **b)** Territoires du Nord-Ouest : 678 442 202 $;
+	- **c)** Nunavut : 755 849 868 $.
+
+**Réduction**
+
+- **(2)** La subvention est réduite de la somme versée, pour l’exercice commençant le 1<sup>er</sup> avril 2004, au territoire :
+	- **a)** au titre du poste 15 du ministère des Finances figurant au budget principal des dépenses pour cet exercice, déposé devant la Chambre des communes au cours de la trente-septième législature et édicté par l’alinéa 2a) de la Loi de crédits no 1 pour 2004-2005, chapitre 8 des Lois du Canada (2004);
+	- **b)** au titre d’un poste du ministère des Finances figurant au budget supplémentaire des dépenses pour cet exercice, déposé devant la Chambre des communes au cours de la trente-huitième législature et édicté par une loi de crédits.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Subvention supplémentaire**
+
+**4.9** Outre la subvention visée à l’article 4.8, le ministre peut verser au territoire une subvention supplémentaire dont le montant est égal à l’excédent du montant visé à l’alinéa a) sur celui visé à l’alinéa b) :
+- **a)** la somme des montants suivants :
+	- **(i)** le montant des subventions du territoire pour les exercices compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004, selon le total estimatif établi entre le 12 février et le 31 mars 2004 conformément à l’accord,
+	- **(ii)** le montant des droits du territoire prévu, pour l’exercice commençant le 1<sup>er</sup> avril 2004, au Tableau A6.2 du plan budgétaire de 2004, en date du 23 mars 2004;
+- **b)** la somme des montants suivants :
+	- **(i)** le montant des subventions du territoire calculé par le ministre, pour les exercices compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004, au titre de l’accord à l’aide du calcul final visé à l’article 4.6,
+	- **(ii)** le montant de la subvention visée au paragraphe 4.8(1).
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Modalités de paiement**
+
+**4.91** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre peut prélever sur le Trésor la somme à verser en raison d’un rajustement au titre de l’article 4.7 et les sommes visées aux articles 4.8 et 4.9, selon les échéances et les modalités qu’il juge indiquées.
+
+**Paiement insuffisant**
+
+- **(2)** S’il est établi que le ministre a omis de verser une somme à un territoire, il peut payer sur le Trésor une somme égale au moins-perçu.
+
+**Paiement en trop**
+
+- **(3)** S’il est établi que le ministre a versé à un territoire pour un exercice une somme en trop en raison d’un rajustement au titre de l’article 4.7 ou une somme en trop à l’égard d’une somme payée en vertu du paragraphe (1), il peut la recouvrer, selon le cas :
+	- **a)** sur la somme à payer au territoire en vertu de la présente loi au cours du même exercice ou dès que possible après la fin de celui-ci;
+	- **b)** auprès du territoire à titre de créance de Sa Majesté du chef du Canada.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+### Paiement de transfert
+
+
+
+**Paiements — exercice 2005-2006**
+
+**4.92** 
+
+- **(1)** Pour l’exercice commençant le 1<sup>er</sup> avril 2005, le ministre peut faire aux territoires ci-après un paiement de transfert correspondant à la somme figurant en regard de leur nom :
+	- **a)** Yukon : 487 140 000 $;
+	- **b)** Territoires du Nord-Ouest : 714 030 000 $;
+	- **c)** Nunavut : 798 830 000 $.
+
+**Paiement — exercices ultérieurs**
+
+- **(2)** Le paiement de transfert à verser aux territoires pour chaque exercice ultérieur correspond au produit obtenu par multiplication du paiement de transfert de l’exercice précédent par 1,035.
+
+- **(3)** [Non en vigueur]
+
+**Calendrier et modalités des paiements**
+
+- **(4)** En avril et en mai de chaque exercice commençant après le 31 mars 2005, le ministre verse à chaque territoire un acompte mensuel égal à 16 % de sa part du paiement de transfert pour l’exercice. Au cours des autres mois de l’exercice, il lui verse un acompte mensuel égal à 6,8 % de sa part de ce paiement.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut, par règlement, modifier le montant des acomptes mensuels ou le calendrier de versement de ceux-ci.
+> 2005, ch. 7, art. 1.
+
+
+
+
+
+**Paiements sur le Trésor**
+
+**4.93** 
+
+- **(1)** Le ministre prélève sur le Trésor les sommes à verser au titre de l’article 4.92.
+
+**Paiement insuffisant**
+
+- **(2)** S’il est établi que le ministre a omis de verser à un territoire une somme à payer au titre de l’article 4.92, il peut payer sur le Trésor une somme égale au moins-perçu, selon les échéances et les modalités qu’il juge indiquées.
+
+**Paiement en trop**
+
+- **(3)** S’il est établi que le ministre a versé, pour un exercice, à un territoire une somme en trop au titre de l’article 4.92, il peut la recouvrer, selon le cas :
+	- **a)** sur la somme à payer au territoire en vertu de la présente loi au cours du même exercice ou dès que possible après la fin de celui-ci;
+	- **b)** auprès du territoire à titre de créance de Sa Majesté du chef du Canada.
+> 2005, ch. 7, art. 1.
 
 
 
@@ -379,7 +383,7 @@ où :
 - **(1)** Sous réserve des paragraphes (8) à (10), le paiement de stabilisation qui peut être fait à une province pour un exercice est l’excédent, déterminé par le ministre :
 	- **a)** quatre-vingt-quinze pour cent du revenu sujet à stabilisation de la province pour l’exercice précédent
 sur
-	- **b)** le revenu sujet à stabilisation de la province pour l’exercice, corrigé de la manière prescrite de façon à compenser toute variation, déterminée par le ministre, du revenu sujet à stabilisation de la province pour l’exercice résultant de changements faits par la province dans les taux ou la structure soit des impôts provinciaux soit des autres mécanismes de prélèvement du revenu de la province qui correspond aux alinéas a) à y) et z.1) à z.3) de la définition de source de revenu au paragraphe 4(2) par rapport aux taux ou à la structure applicables à l’exercice précédent.
+	- **b)** le revenu sujet à stabilisation de la province pour l’exercice, corrigé de la manière prescrite pour compenser toute variation, déterminée par le ministre, du revenu sujet à stabilisation de la province pour l’exercice résultant de changements qu’elle a faits par rapport à l’exercice précédent dans les taux ou la structure soit des impôts provinciaux soit des autres mécanismes de prélèvement du revenu correspondant aux alinéas a) à y) et z.1) à z.3) de la définition de source de revenu au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md).
 
 **Règle d’interprétation**
 
@@ -388,7 +392,7 @@ sur
 **Définition de revenu sujet à stabilisation**
 
 - **(2)** Dans le cas d’un paiement de stabilisation qui peut être fait à une province pour un exercice commençant après le 31 mars 1987, au présent article, ***revenu sujet à stabilisation*** d’une province pour un exercice s’entend, dans le cas de l’exercice commençant le 1<sup>er</sup> avril 1986 et d’un exercice commençant le 1<sup>er</sup> avril 1987 ou après cette date, du total des montants suivants :
-	- **a)** les revenus totaux, déterminés par le ministre, que la province retire pour l’exercice des sources de revenu mentionnées dans la définition de source de revenu au paragraphe 4(2), à l’exception des sources de revenu visées aux alinéas z) et z.4) de cette définition;
+	- **a)** les revenus totaux, déterminés par le ministre, que la province retire pour l’exercice des sources de revenu mentionnées dans la définition de source de revenu au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), à l’exception des sources de revenu visées aux alinéas z) et z.4) de cette définition;
 	- **b)** le paiement de péréquation à la province pour l’exercice en vertu de la partie I.
 	- **c)** [Abrogé, 1995, ch. 17, art. 47]
 
@@ -404,18 +408,18 @@ sur
 
 **Revenu sujet à stabilisation**
 
-- **(3)** Pour déterminer, en vertu du paragraphe (2), le revenu sujet à stabilisation d’une province pour un exercice, le paragraphe 4(4) s’applique, compte tenu des adaptations de circonstance, pour déterminer le revenu que la province retire pour l’exercice des impôts sur le revenu des particuliers, visés à l’alinéa a) de la définition de source de revenu au paragraphe 4(2); toutefois aucune déduction n’est permise au titre des unités d’abattement visées au paragraphe 27(2).
+- **(3)** Pour déterminer, en vertu du paragraphe (2), le revenu sujet à stabilisation d’une province pour un exercice, le paragraphe 4(4) de la législation antérieure s’applique, avec les adaptations nécessaires, pour déterminer le revenu que la province retire pour l’exercice des impôts sur le revenu des particuliers, visés à l’alinéa a) de la définition de source de revenu au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md); toutefois aucune déduction n’est permise au titre des unités d’abattement visées au paragraphe 27(2).
 
 **Revenu de la province**
 
-- **(4)** Le revenu d’une province qui provient pour un exercice de la source de revenu visée à l’alinéa a) de la définition de source de revenu au paragraphe 4(2) est réputé, pour l’application du paragraphe (2), correspondre :
+- **(4)** Le revenu d’une province qui provient pour un exercice de la source de revenu visée à l’alinéa a) de la définition de source de revenu au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), est réputé, pour l’application du paragraphe (2), correspondre :
 	- **a)** au montant total, déterminé de la manière prescrite, des impôts provinciaux sur le revenu des particuliers cotisés ou cotisés de nouveau, au plus tard vingt-quatre mois après la fin de l’exercice, pour l’année d’imposition se terminant au cours de cet exercice
 moins
 	- **b)** le montant total, déterminé de la manière prescrite, des crédits et des remboursements d’impôts réclamés par les contribuables de la province assujettis aux impôts provinciaux sur le revenu des particuliers pour cette année d’imposition, qui ont été déduits des impôts provinciaux cotisés ou cotisés de nouveau sur le revenu des particuliers.
 
-**Idem**
+**Revenu de la province**
 
-- **(5)** Le revenu d’une province qui provient pour un exercice de cette partie de la source de revenu visée à l’alinéa b) de la définition de source de revenu au paragraphe 4(2) qui est constituée d’impôts sur le revenu des personnes morales est réputé, pour l’application du paragraphe (2), correspondre :
+- **(5)** Le revenu d’une province qui provient pour un exercice de cette partie de la source de revenu visée à l’alinéa b) de la définition de source de revenu au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), qui est constituée d’impôts sur le revenu des personnes morales est réputé, pour l’application du paragraphe (2), correspondre :
 	- **a)** au montant total, déterminé de la manière prescrite, des impôts provinciaux sur le revenu des personnes morales cotisés ou cotisés de nouveau, au plus tard vingt-quatre mois après la fin de l’exercice, pour l’année d’imposition des personnes morales se terminant au cours de l’exercice
 moins
 	- **b)** le montant total, déterminé de la manière prescrite, des crédits et des remboursements d’impôts réclamés par les contribuables de la province assujettis aux impôts provinciaux sur le revenu des personnes morales pour cette année d’imposition, qui ont été déduits des impôts provinciaux cotisés ou cotisés de nouveau sur le revenu des personnes morales.
@@ -423,7 +427,7 @@ moins
 **Limites dans le cas de certaines sources de revenu**
 
 - **(6)** Dans le cas où, lors du calcul du paiement de stabilisation qui peut être fait à une province, pour un exercice, conformément au paragraphe (1), il est établi que :
-	- **a)** les revenus totaux, déterminés par le ministre, retirés par la province pour l’exercice précédent des sources de revenu mentionnées aux alinéas l) à w) de la définition de source de revenu, au paragraphe 4(2), et de la partie de la source de revenu mentionnée à l’alinéa z.5) de cette définition qui a trait aux ressources naturelles
+	- **a)** les revenus totaux, déterminés par le ministre, retirés par la province pour l’exercice précédent des sources de revenu mentionnées aux alinéas l) à w) de la définition de source de revenu, au paragraphe 4(2) de la législation antérieure, révisée ou modifiée par l’article 5 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md), et de la partie de la source de revenu mentionnée à l’alinéa z.5) de cette définition qui a trait aux ressources naturelles
 excèdent
 	- **b)** les revenus totaux, déterminés par le ministre, retirés par la province, pour l’exercice, des sources de revenu mentionnées à l’alinéa a), après correction conforme à l’alinéa (1)b),
 nonobstant les autres dispositions du présent article, lors de l’application des paragraphes (1) et (2) au calcul du paiement de stabilisation qui peut être fait à la province pour l’exercice, seule peut être prise en considération, à l’égard de la différence entre le montant déterminé conformément à l’alinéa a) et celui déterminé conformément à l’alinéa b), la partie qui est supérieure à la moitié du montant déterminé conformément à l’alinéa a).
@@ -443,7 +447,11 @@ nonobstant les autres dispositions du présent article, lors de l’application 
 **Remboursement**
 
 - **(10)** Les prêts visés au paragraphe (9) ne portent pas intérêt et sont remboursables par la province, de la manière prescrite, dans les cinq ans qui suivent la date où ils sont faits; toutefois ils peuvent être déduits, durant cette période, de la manière prescrite, de tout montant qui peut devenir payable à la province en application de la présente loi.
-> L.R. (1985), ch. F-8, art. 6; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 5; 1995, ch. 17, art. 47; 1999, ch. 11, art. 3, ch. 31, art. 235.
+
+**Définition de législation antérieure**
+
+- **(11)** Au présent article, ***législation antérieure*** s’entend de la présente loi dans sa version au 13 mai 2004.
+> L.R. (1985), ch. F-8, art. 6; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 5; 1995, ch. 17, art. 47; 1999, ch. 11, art. 3, ch. 31, art. 235; 2005, ch. 7, art. 2.
 
 
 
@@ -884,34 +892,46 @@ où :
 
 **16** 
 
-- **(1)** La somme de la totalité des transferts fiscaux et de la péréquation s’y rattachant applicables à une province pour un exercice est l’ensemble des montants suivants :
+- **(1)** La somme de la totalité des transferts fiscaux et de la péréquation s’y rattachant applicables à une province pour un exercice est l’ensemble des montants suivants :
 	- **a)** le montant total, calculé par le ministre, du dégrèvement d’impôt fédéral sur le revenu effectué au profit de la province, pour l’exercice, au titre du Transfert visé par la présente partie;
-	- **b)** le plus petit des montants suivants :
-		- **(i)** le paiement de péréquation susceptible d’être fait à la province pour l’exercice en vertu de la partie I,
-		- **(ii)** le montant du paiement de péréquation susceptible d’être fait à la province à l’égard du dégrèvement d’impôt fédéral sur le revenu effectué au profit de toutes les provinces au titre du Transfert pour l’exercice, en cas d’application du mode de calcul des paiements de péréquation prévu à la partie I, à l’exception des paragraphes 4(6) et (9), au montant du dégrèvement d’impôt sur le revenu pour toutes les provinces au titre du Transfert pour cet exercice; toutefois :
-			- **(A)** aux fins du calcul prévu au présent sous-alinéa, les assiettes à retenir sont déterminées de la manière prescrite,
-			- **(B)** dans le cas où le paragraphe 4(6) ou (9) s’applique au calcul du paiement de péréquation fait à la province pour l’exercice, le montant déterminé en application du présent sous-alinéa est rajusté de la manière prescrite.
+	- **b)** le plus petit des montants suivants :
+		- **(i)** le montant du paiement de péréquation visé au paragraphe (1.1) qui est susceptible d’être fait à la province pour l’exercice,
+		- **(ii)** le montant du paiement de péréquation susceptible d’être fait à la province à l’égard du dégrèvement d’impôt fédéral sur le revenu effectué au profit de toutes les provinces au titre du Transfert pour l’exercice, en cas d’application du mode de calcul des paiements de péréquation prévu à la partie I, à l’exception des paragraphes 4(6) et (9), dans leur version au 13 mai 2004, au montant du dégrèvement d’impôt sur le revenu pour toutes les provinces au titre du Transfert pour cet exercice; toutefois :
+			- **(A)** pour le calcul prévu au présent sous-alinéa, les assiettes à retenir sont déterminées de la manière prescrite,
+			- **(B)** dans le cas où cette version des paragraphes 4(6) ou (9) s’applique au calcul du paiement de péréquation fait à la province pour l’exercice, le montant déterminé en application du présent sous-alinéa est rajusté de la manière prescrite.
+
+**Paiement de péréquation**
+
+- **(1.1)** Pour l’application du sous-alinéa (1)b)(i), le paiement de péréquation correspond, pour chaque exercice compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004 :
+	- **a)** s’agissant d’une province à qui a été versé le paiement supplémentaire visé au paragraphe 4(3), à l’estimation établie par le ministre le 23 février 2004 à l’égard de l’exercice, conformément à l’article 8 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md);
+	- **b)** s’agissant d’une province à qui n’a pas été versé un tel paiement, au montant du calcul définitif pour l’exercice.
+
+**Recouvrement**
+
+- **(1.2)** Dans le cas où la contribution pécuniaire au titre du Transfert pour l’exercice commençant le 1<sup>er</sup> avril 2001, calculée selon le calcul définitif effectué en septembre 2004, dépasse la contribution pécuniaire à verser à la province au titre de la présente partie pour cet exercice — laquelle est calculée conformément au paragraphe (1.1) —, le ministre peut recouvrer de la province la somme en cause sur toute somme à payer en vertu de la présente loi.
+
+**Paiement**
+
+- **(1.3)** Dans le cas où la contribution pécuniaire au titre du Transfert, calculée en vertu de la présente partie et conformément au paragraphe (1.1), pour l’exercice commençant le 1<sup>er</sup> avril 2001 dépasse la contribution pécuniaire à verser à la province pour cet exercice, calculée selon le calcul définitif effectué en septembre 2004, le ministre peut verser à la province sur le Trésor l’excédent, selon les échéances et les modalités qu’il juge indiquées.
 
 **Dégrèvement d’impôt fédéral sur le revenu**
 
-- **(2)** Pour l’application du paragraphe (1), le montant du dégrèvement d’impôt fédéral sur le revenu effectué au profit de la province au titre du Transfert pour un exercice est égal à la somme des montants suivants :
-	- **a)** soixante-quinze pour cent d’un montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur les revenus :
+- **(2)** Pour l’application du paragraphe (1), le montant du dégrèvement d’impôt fédéral sur le revenu effectué au profit de la province au titre du Transfert pour un exercice est égal à la somme des montants suivants :
+	- **a)** soixante-quinze pour cent d’un montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur les revenus :
 		- **(i)** des particuliers qui résidaient dans la province le dernier jour de l’année d’imposition ayant pris fin au cours de l’exercice, à l’exception des revenus tirés des entreprises,
 		- **(ii)** gagnés dans la province pendant l’année d’imposition ayant pris fin au cours de l’exercice par des particuliers qui n’ont pas résidé au Canada durant l’année d’imposition, à l’exception des revenus tirés des entreprises,
 		- **(iii)** tirés des entreprises, que des particuliers ont gagnés dans la province pendant l’année d’imposition ayant pris fin au cours de l’exercice,
-égal au produit obtenu en multipliant par 13,5/(100-9,143) l’« impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie », au sens du paragraphe 120(4) de la 
-[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur ces revenus;
-	- **b)** vingt-cinq pour cent d’un montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur les revenus :
+égal au produit obtenu en multipliant par 13,5/(100-9,143) l’« impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie », au sens du paragraphe 120(4) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur ces revenus;
+	- **b)** vingt-cinq pour cent d’un montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur les revenus :
 		- **(i)** des particuliers qui résidaient dans la province le dernier jour de l’année d’imposition ayant commencé au cours de l’exercice, à l’exception des revenus tirés des entreprises,
 		- **(ii)** gagnés dans la province pendant l’année d’imposition ayant commencé au cours de l’exercice par des particuliers qui n’ont pas résidé au Canada durant l’année d’imposition, à l’exception des revenus tirés des entreprises,
 		- **(iii)** tirés des entreprises, que des particuliers ont gagnés dans la province pendant l’année d’imposition ayant commencé au cours de l’exercice,
-égal au produit obtenu en multipliant par 13,5/(100-9,143) l’« impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie », au sens du paragraphe 120(4) de la 
-[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur ces revenus;
+égal au produit obtenu en multipliant par 13,5/(100-9,143) l’« impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie », au sens du paragraphe 120(4) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur ces revenus;
 	- **c)** soixante-quinze pour cent du montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur le revenu gagné dans la province par chaque personne morale, à l’exception des sociétés de placement appartenant à des non-résidents au sens de cette loi ou de toute personne morale mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou une filiale à cent pour cent, au sens de cette loi, d’une personne morale mentionnée à cette annexe, qui est mandataire de Sa Majesté du chef du Canada, qui a maintenu un établissement permanent dans la province durant l’année d’imposition ayant pris fin pendant l’année civile qui s’est terminée au cours de l’exercice, au taux de un pour cent de son revenu imposable gagné dans la province au cours de cette année d’imposition;
 	- **d)** vingt-cinq pour cent du montant, déterminé par le ministre, susceptible d’être retiré de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur le revenu gagné dans la province par chaque personne morale, à l’exception des sociétés de placement appartenant à des non-résidents au sens de cette loi ou de toute personne morale mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou une filiale à cent pour cent, au sens de cette loi, d’une personne morale mentionnée à cette annexe, qui est mandataire de Sa Majesté du chef du Canada, qui a maintenu un établissement permanent dans la province durant l’année d’imposition ayant pris fin pendant l’année civile qui a commencé au cours de l’exercice, au taux de un pour cent de son revenu imposable gagné dans la province au cours de cette année d’imposition.
 
 - **(3) et (4)** [Abrogés, 1995, ch. 17, art. 49]
-> L.R. (1985), ch. F-8, art. 16; 1992, ch. 10, art. 6; 1995, ch. 17, art. 49; 1999, ch. 31, art. 238; 2003, ch. 15, art. 6(F).
+> L.R. (1985), ch. F-8, art. 16; 1992, ch. 10, art. 6; 1995, ch. 17, art. 49; 1999, ch. 31, art. 238; 2003, ch. 15, art. 6(F); 2005, ch. 7, art. 3.
 
 
 
@@ -1266,10 +1286,18 @@ où :
 - **(1)** La totalité des transferts fiscaux et de la péréquation s’y rattachant applicables à une province pour un exercice correspond à la somme des montants suivants :
 	- **a)** le montant total, calculé par le ministre, du dégrèvement d’impôt fédéral sur le revenu effectué au profit de la province, pour l’exercice, au titre du Transfert canadien en matière de santé et du Transfert canadien en matière de programmes sociaux visés par la présente partie;
 	- **b)** le plus petit des montants suivants :
-		- **(i)** le montant du paiement de péréquation susceptible d’être fait à la province pour l’exercice en vertu de la partie I,
-		- **(ii)** le montant du paiement de péréquation susceptible d’être fait à la province à l’égard du dégrèvement d’impôt fédéral sur le revenu effectué au profit de toutes les provinces au titre du Transfert canadien en matière de santé et du Transfert canadien en matière de programmes sociaux pour l’exercice, en cas d’application du mode de calcul des paiements de péréquation prévu à la partie I, à l’exception du paragraphe 4(6), au montant du dégrèvement d’impôt sur le revenu pour toutes les provinces au titre du Transfert canadien en matière de santé et du Transfert canadien en matière de programmes sociaux pour cet exercice; toutefois :
+		- **(i)** le montant du paiement de péréquation visé au paragraphe (1.1) qui est susceptible d’être fait à la province pour l’exercice,
+		- **(ii)** le montant du paiement de péréquation susceptible d’être fait à la province à l’égard du dégrèvement d’impôt fédéral sur le revenu effectué au profit de toutes les provinces au titre du Transfert canadien en matière de santé et du Transfert canadien en matière de programmes sociaux pour l’exercice, en cas d’application du mode de calcul des paiements de péréquation prévu à la partie I, à l’exception du paragraphe 4(6) dans sa version au 13 mai 2004, au montant du dégrèvement d’impôt sur le revenu pour toutes les provinces au titre du Transfert canadien en matière de santé et du Transfert canadien en matière de programmes sociaux pour cet exercice; toutefois :
 			- **(A)** pour le calcul prévu au présent sous-alinéa, les assiettes à retenir sont déterminées de la manière prescrite,
-			- **(B)** dans le cas où le paragraphe 4(6) s’applique au calcul du paiement de péréquation fait à la province pour l’exercice, le montant déterminé en application du présent sous-alinéa est rajusté de la manière prescrite.
+			- **(B)** dans le cas où cette version du paragraphe 4(6) s’applique au calcul du paiement de péréquation fait à la province pour l’exercice, le montant déterminé en application du présent sous-alinéa est rajusté de la manière prescrite.
+
+**Paiement de péréquation**
+
+- **(1.1)** Pour l’application du sous-alinéa (1)b)(i), le paiement de péréquation correspond :
+	- **a)** pour chaque exercice commençant après le 31 mars 2005, au paiement de péréquation susceptible d’être fait à la province en vertu de la partie I;
+	- **b)** pour l’exercice commençant le 1<sup>er</sup> avril 2004 :
+		- **(i)** s’agissant d’une province à qui a été versé le paiement supplémentaire visé au paragraphe 4(3), à l’estimation établie par le ministre le 23 février 2004 à l’égard de l’exercice, conformément à l’article 8 du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md),
+		- **(ii)** s’agissant d’une province à qui n’a pas été versé un tel paiement, au montant du calcul définitif pour l’exercice.
 
 **Dégrèvement d’impôt fédéral sur le revenu**
 
@@ -1286,7 +1314,7 @@ où :
 égal au produit obtenu en multipliant par 13,5/(100-9,143) l’impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie, au sens du paragraphe 120(4) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur ces revenus;
 	- **c)** soixante-quinze pour cent du montant, déterminé par le ministre, des recettes susceptibles d’être tirées de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur le revenu gagné dans la province par chaque personne morale, à l’exception des sociétés de placement appartenant à des non-résidents au sens de cette loi ou de toute personne morale mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou une filiale à cent pour cent, au sens de cette loi, d’une personne morale mentionnée à cette annexe, qui est mandataire de Sa Majesté du chef du Canada, qui a maintenu un établissement permanent dans la province durant l’année d’imposition ayant pris fin pendant l’année civile qui s’est terminée au cours de l’exercice, au taux de un pour cent de son revenu imposable gagné dans la province au cours de cette année d’imposition;
 	- **d)** vingt-cinq pour cent du montant, déterminé par le ministre, des recettes susceptibles d’être tirées de l’impôt, calculé conformément à la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), sur le revenu gagné dans la province par chaque personne morale, à l’exception des sociétés de placement appartenant à des non-résidents au sens de cette loi ou de toute personne morale mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou une filiale à cent pour cent, au sens de cette loi, d’une personne morale mentionnée à cette annexe, qui est mandataire de Sa Majesté du chef du Canada, qui a maintenu un établissement permanent dans la province durant l’année d’imposition ayant pris fin pendant l’année civile qui a commencé au cours de l’exercice, au taux de un pour cent de son revenu imposable gagné dans la province au cours de cette année d’imposition.
-> 2003, ch. 15, art. 8.
+> 2003, ch. 15, art. 8; 2005, ch. 7, art. 4.
 
 
 
@@ -1704,9 +1732,7 @@ où :
 **Règlements**
 
 **40** Le gouverneur en conseil peut prendre des règlements :
-- **a)** définissant, pour l’application de la présente loi :
-	- **(i)** l’expression assiette d’une source de revenu pour une province à l’égard d’un exercice,
-	- **(ii)** les expressions mentionnées aux alinéas a) à z.5) de la définition de source de revenu au paragraphe 4(2);
+- **a)** [Abrogé, 2005, ch. 7, art. 5]
 - **b)** concernant le versement, à une province, d’avances sur tout montant qui peut devenir payable à la province en application de la présente loi, d’un accord d’application, d’un accord de réciprocité fiscale ou d’un accord d’harmonisation de la taxe de vente, le rajustement, par réduction ou compensation, d’autres paiements à la province par suite de ces avances ainsi que le recouvrement des paiements en trop;
 - **c)** prescrivant la manière de calculer la population d’une province pour un exercice;
 - **d)** prescrivant à quel moment et de quelle manière sera fait tout paiement prévu par la présente loi, un accord d’application ou un accord d’harmonisation de la taxe de vente;
@@ -1714,7 +1740,7 @@ où :
 - **f)** concernant la décision à prendre pour toute question qui, en vertu de la présente loi, doit être tranchée par le ministre, le ministre du Revenu national, le ministre du Développement des ressources humaines ou le ministre de la Santé;
 - **g)** en vue de toute mesure d’ordre réglementaire prévue par la présente loi;
 - **h)** d’une façon générale, en vue de toute mesure d’application de la présente loi.
-> L.R. (1985), ch. F-8, art. 40; 1992, ch. 10, art. 7; 1996, ch. 8, art. 20, ch. 11, art. 53; 1997, ch. 10, art. 264; 1999, ch. 11, art. 5, ch. 31, art. 93.
+> L.R. (1985), ch. F-8, art. 40; 1992, ch. 10, art. 7; 1996, ch. 8, art. 20, ch. 11, art. 53; 1997, ch. 10, art. 264; 1999, ch. 11, art. 5, ch. 31, art. 93; 2005, ch. 7, art. 5.
 
 
 
@@ -1730,8 +1756,8 @@ où :
 
 **Paiement sur le Trésor**
 
-**41** Les montants dont le versement est autorisé par les articles 3, 5 et 9 sont prélevés sur le Trésor aux dates et selon les modalités prescrites.
-> 1976-77, ch. 10, art. 45.
+**41** Les sommes dont le versement est autorisé par la partie I et par les articles 5 et 9 sont prélevées sur le Trésor aux dates et selon les modalités prescrites.
+> L.R. (1985), ch. F-8, art. 41; 2005, ch. 7, art. 6.
 
 
 
