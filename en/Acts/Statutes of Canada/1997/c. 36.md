@@ -271,7 +271,7 @@ Version anglaise seulement***prescribed*** means
 
 
 **DIVISION 1** 
-### ORIGIN OF GOODS
+### Origin of Goods
 
 
 
@@ -374,7 +374,7 @@ Version anglaise seulement***prescribed*** means
 
 
 **DIVISION 2** 
-### IMPOSITION OF CUSTOMS DUTIES
+### Imposition of Customs Duties
 
 
 
@@ -398,42 +398,77 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Imposition of additional duties**
-
-**21** 
-
-- **(1)** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there shall be levied on all goods subject to excise, at the time those goods are imported, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an additional duty equal to the excise duty that would be levied on the goods under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) if
-	- **(a)** the goods had been manufactured or produced in Canada; and
-	- **(b)** in respect of goods of tariff item No. 2207.20.19, subsections 1(2) to (6) of Part I of the schedule to the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) did not apply to the goods.
-
-**Duty on tobacco imported by traveller**
-
-- **
-(2)
-** There shall be levied on traveller’s tobacco, at the time of its importation, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), a duty of
-	- **(a)** $0.075 per cigarette, in the case of cigarettes;
-	- **(b)** $0.055 per stick, in the case of tobacco sticks; and
-	- **(c)** $0.05 per gram, in the case of manufactured tobacco other than cigarettes and tobacco sticks.
-
-**Exception — excise duty-paid manufactured tobacco**
-
-- **(3)** A duty shall not be levied under this section on manufactured tobacco imported by an individual for their personal use if it is stamped in accordance with the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and duty has been imposed on it under section 200 of that Act.
-
 **Definitions**
 
-- **(4)** The definitions in this subsection apply in this section.
+**21** The definitions in this section apply in sections 21.1 to 21.3.
 
-***goods subject to excise*** means
-- **(a)** beer or malt liquor, within the meaning of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of heading No. 22.03 or of tariff item No. 2202.90.10 or 2206.00.80;
-- **(b)** spirits, within the meaning of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of an alcoholic strength by volume exceeding 22.9% volume, of tariff item No. 2204.21.32, 2204.29.32, 2205.10.30, 2205.90.30, 2206.00.22, 2206.00.72 or 2206.00.92;
-- **(c)** spirits, within the meaning of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.90, 2208.90.30 or 2208.90.91;
-- **(d)** cigars or manufactured tobacco of tariff item No. 2402.10.00, 2402.20.00, 2403.10.00, 2403.91.90, 2403.99.10 or 2403.99.90; or
-- **(e)** goods referred to in any of paragraphs (a) to (d) that are classified with the container in which they are imported.
+ or  ou ***beer*** or ***malt liquor*** means beer or malt liquor, within the meaning of section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) , of tariff item No. 2202.90.10, heading No. 22.03 or tariff item No. 2206.00.80 or 2206.00.91, that is classified under that heading or tariff item or with the container in which it is imported.
 
-***traveller’s tobacco*** means manufactured tobacco that is imported by a person at any time and
-- **(a)** is classified under tariff item No. 9804.10.00, 9804.20.00, 9805.00.00 or 9807.00.00; or
-- **(b)** would be classified under tariff item No. 9804.10.00 or 9804.20.00 but for the fact that the total value for duty as determined under section 46 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) of all goods imported by the person at that time exceeds the maximum value specified in that tariff item.
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, s. 412; 2003, c. 15, s. 45.
+***bulk*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+
+***excise warehouse*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+
+***excise warehouse licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+
+***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
+
+***packaged*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). 
+
+***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). 
+
+***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), 
+- **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported; or
+- **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported.
+
+***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) , of heading No. 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72, 2206.00.80, 2206.00.91 or 2206.00.93, that is classified under that heading or with the container in which it is imported.
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45.
+
+
+
+
+
+**Additional duty on bulk spirits**
+
+**21.1** 
+
+- **(1)** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there is levied on bulk spirits, at the time they are imported, an additional duty equal to the duty that would be imposed on the spirits under section 122 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) if the spirits had been produced in Canada.
+
+**Duty payable under [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md)**
+
+- **(2)** The duty levied on bulk spirits shall be paid and collected under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), and interest and penalties shall be imposed, calculated, paid and collected under that Act, as if the duty were duty imposed on the spirits under that Act, and, for those purposes, that Act applies with any modifications that the circumstances require.
+
+**Limitation**
+
+- **(3)** Despite subsection (2) and the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the person who is liable for duty imposed under subsection (1) in respect of bulk spirits that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) is the person who is liable to pay duties under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+> 2002, c. 22, s. 346.
+
+
+
+
+
+**Additional duty on packaged spirits**
+
+**21.2** 
+
+- **(1)** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there is levied on packaged spirits, at the time they are imported, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an additional duty equal to the duty that would be imposed on them under section 122 or 123 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) if they had been produced and packaged in Canada.
+
+**Additional duty on packaged wine**
+
+- **(2)** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there is levied on packaged wine, at the time it is imported, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an additional duty equal to the duty that would be imposed on it under section 135 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) if it had been packaged in Canada.
+
+**Goods entered into warehouse or premises**
+
+- **(3)** If, immediately after being released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), packaged spirits or wine is entered into the excise warehouse of the excise warehouse licensee or the specified premises of the licensed user who imported the spirits or wine, the duty levied on the spirits or wine under subsection (1) or (2) shall be paid and collected under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). Interest and penalties shall be imposed, calculated, paid and collected under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) as if the duty were imposed under that Act, and, for those purposes, that Act applies with any modifications that the circumstances require.
+> 2002, c. 22, s. 346.
+
+
+
+
+
+**Additional duty on beer**
+
+**21.3** In addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, there is levied on beer or malt liquor, at the time it is imported, and paid in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an additional duty equal to the duty that would be levied on it under section 170 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) if it had been manufactured or produced in Canada.
+> 2002, c. 22, s. 346.
 
 
 
@@ -458,7 +493,7 @@ Version anglaise seulement***prescribed*** means
 
 
 **DIVISION 3** 
-### TARIFF TREATMENTS
+### Tariff Treatments
 
 
 
@@ -1215,7 +1250,7 @@ Version anglaise seulement***prescribed*** means
 
 
 **DIVISION 4** 
-### SPECIAL MEASURES, EMERGENCY MEASURES AND SAFEGUARDS
+### Special Measures, Emergency Measures and  Safeguards
 
 
 
@@ -2211,14 +2246,14 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 ***customs duties***, other than for the purposes of sections 95 and 96, means customs duties imposed under Part 2, other than surtaxes imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78 or temporary duties imposed under any of sections 69 to 76.1.
 
-***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or under any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax.
+***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax.
 
 ***excise taxes*** means the taxes imposed under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) other than the goods and services tax.
 
 ***goods and services tax*** means the tax imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
 
 ***process***, in respect of goods, includes the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods.
-> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19.
+> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347.
 
 
 
@@ -2232,7 +2267,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 **DIVISION 1** 
-### REDUCTION OF RATES OF CUSTOMS DUTY
+### Reduction of Rates of Customs Duty
 
 
 
@@ -2266,7 +2301,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 **DIVISION 2** 
-### IMPORTATION WITHOUT FULL PAYMENT OF DUTIES
+### Importation without Full Payment of Duties
 
 
 
@@ -2277,12 +2312,12 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Goods of heading No. 98.04**
 
 **83** In the case of goods that are imported by a traveller, that are reported in accordance with regulations made under paragraph 133(f) prescribing conditions for the classification of goods under heading No. 98.04 and that, but for the fact that their value for duty as determined under section 46 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) exceeds the maximum value specified under tariff item No. 9804.10.00, 9804.20.00 or 9804.30.00, would be classified under one of those tariff items,
-- **(a)** in the case of goods that would have been classified under tariff item No. 9804.10.00 or 9804.20.00, the value for duty of the goods shall be reduced by an amount equal to that maximum specified value and, in the case of alcoholic beverages and tobacco, the quantity of those goods shall, for the purposes of assessing duties other than a duty under subsection 21(2), be reduced by the quantity of alcoholic beverages and tobacco up to the maximum quantities specified in tariff item No. 9804.10.00 or 9804.20.00, as the case may be;
+- **(a)** in the case of goods that would have been classified under tariff item No. 9804.10.00 or 9804.20.00, the value for duty of the goods shall be reduced by an amount equal to that maximum specified value and, in the case of alcoholic beverages and tobacco, the quantity of those goods shall, for the purposes of assessing duties other than a duty under section 54 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), be reduced by the quantity of alcoholic beverages and tobacco up to the maximum quantities specified in tariff item No. 9804.10.00 or 9804.20.00, as the case may be;
 - **(b)** in the case of goods that would have been classified under tariff item No. 9804.30.00,
 	- **(i)** the value for duty of the goods shall be reduced by an amount equal to the maximum value specified under tariff item No. 9804.10.00 or 9804.20.00, as the case may be, and
 	- **(ii)** the first $300 of the value for duty shall be assessed duties under tariff item No. 9804.30.00; and
 - **(c)** the goods shall be classified under tariff items in any of Chapters 1 to 97 and heading No. 98.26, as the case may be.
-> 1997, c. 36, s. 83; 2001, c. 16, s. 4.
+> 1997, c. 36, s. 83; 2001, c. 16, s. 4; 2002, c. 22, s. 348.
 
 
 
@@ -2352,7 +2387,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Exception for tobacco products or designated goods**
 
-- **(2)** Relief of the duties or taxes levied or imposed under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or section 21 may not be granted under subsection (1) on tobacco products or designated goods.
+- **(2)** Relief of the duties or taxes levied or imposed under sections 21.1 to 21.3, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) may not be granted under subsection (1) on tobacco products or designated goods.
 
 **Deemed exportation**
 
@@ -2368,6 +2403,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Application**
 
 - **(4)** An application for relief under subsection (1) must be in a form and contain information satisfactory to the Minister of National Revenue.
+> 1997, c. 36, s. 89; 2002, c. 22, s. 349.
+
 
 
 
@@ -2424,8 +2461,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Non-application to Canadian manufactured tobacco**
 
-- **(3)** This section does not apply to any tax imposed under Part III of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), or any duty imposed under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), in respect of manufactured tobacco that is manufactured or produced in Canada.
-> 1997, c. 36, s. 92; 2001, c. 16, s. 5.
+- **(3)** This section does not apply to any duty imposed under the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) in respect of manufactured tobacco that is manufactured in Canada.
+> 1997, c. 36, s. 92; 2001, c. 16, s. 5; 2002, c. 22, s. 350.
 
 
 
@@ -2442,12 +2480,15 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **94** 
 
-- **(1)** In sections 95 and 96, ***customs duties*** means customs duties imposed under Part 2, other than additional customs duties levied under section 21, surtaxes imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78 or temporary duties imposed under any of sections 69 to 76.1.
+- **(1)** In sections 95 and 96, ***customs duties*** means customs duties imposed under Part 2, other than
+	- **(a)** additional customs duties levied under sections 21.1 to 21.3;
+	- **(b)** surtaxes imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78; or
+	- **(c)** temporary duties imposed under any of sections 69 to 76.1.
 
 **For greater certainty**
 
-- **(2)** For greater certainty, in sections 95 and 96, ***customs duties*** does not include any duties or taxes levied or imposed on imported goods under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21.
+- **(2)** For greater certainty, in sections 95 and 96, ***customs duties*** does not include any duties or taxes levied or imposed on imported goods under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
+> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351.
 
 
 
@@ -2553,7 +2594,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(a)** prescribing, for the purposes of section 89,
 	- **(i)** classes of persons who may apply for relief,
 	- **(ii)** classes of goods for which, and the circumstances and conditions under which, relief may not be granted,
-	- **(iii)** the circumstances in which, and the classes of goods in respect of which, relief of duties levied under section 21 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty imposed under any of sections 69 to 76.1, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty imposed under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) may not be granted,
+	- **(iii)** the circumstances in which, and the classes of goods in respect of which, relief of duties levied under sections 21.1 to 21.3 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty imposed under any of sections 69 to 76.1, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty imposed under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted,
 	- **(iv)** the period after the release of the goods within which those goods or the goods processed in Canada must be exported, and
 	- **(v)** the portion of duties otherwise payable that may be relieved;
 - **(b)** prescribing, for the purposes of paragraph 89(1)(a), the uses to which goods may be put or operations that goods may undergo after which the goods are considered to be in the same condition;
@@ -2585,7 +2626,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(h)** regulating or prohibiting the delivery to conveyances of goods designated as ships’ stores;
 - **(i)** regulating or prohibiting the transfer from one conveyance to another of goods designated as ships’ stores; and
 - **(j)** prescribing anything required to be prescribed by the Governor in Council under sections 89 to 94 and 96 to 98.
-> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, s. 424.
+> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424.
 
 
 
@@ -2677,7 +2718,8 @@ less
 
 **106** 
 
-- **(1)** If an application for relief is made in the prescribed circumstances by a person of a prescribed class and in the prescribed form and manner, accompanied by prescribed documents and by security of a prescribed nature in an amount fixed by the Minister of National Revenue, relief shall be granted from the payment of the whole or the prescribed portion, as the case may be, of the duty imposed under section 21 of this Act or of the duties and taxes imposed under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) (other than the goods and services tax) that, but for this section, would be payable in respect of prescribed goods that are imported and subsequently exported after being used in Canada only for a prescribed purpose.
+- **(1)** If an application for relief is made in the prescribed circumstances by a person of a prescribed class and in the prescribed form and manner, accompanied by prescribed documents and by security of a prescribed nature in an amount fixed by the Minister of National Revenue, relief shall be granted from the payment of the whole or the prescribed portion, as the case may be, of any duty imposed under sections 21.1 to 21.3 or the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or of any excise taxes that, but for this section, would be payable in respect of prescribed goods that are imported and subsequently exported after being used in Canada only for a prescribed purpose.
 
 **Release of goods**
 
@@ -2694,6 +2736,8 @@ less
 **Waiver**
 
 - **(5)** The Minister of National Revenue may waive the requirement under subsection (1) to provide security.
+> 1997, c. 36, s. 106; 2002, c. 22, s. 353.
+
 
 
 
@@ -2738,7 +2782,7 @@ less
 
 
 **DIVISION 3** 
-### OBSOLETE OR SURPLUS GOODS
+### Obsolete or Surplus Goods
 
 
 
@@ -2785,7 +2829,7 @@ less
 
 
 **DIVISION 4** 
-### ADDITIONAL RELIEF
+### Additional Relief
 
 
 
@@ -2800,7 +2844,8 @@ less
 
 **No refund or drawback in respect of tobacco products**
 
-- **(2)** No refund or drawback of the duties or taxes imposed or levied on tobacco products under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or section 21 shall be granted under subsection (1), except if a refund of the whole or the portion of the duties is required to be granted under Division 3.
+- **(2)** No refund or drawback of the duties imposed on tobacco products under the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) shall be granted under subsection (1), except if a refund of the whole or the portion of the duties is required to be granted under Division 3.
 
 **Application**
 
@@ -2813,7 +2858,10 @@ less
 **Regulations**
 
 - **(4)** For the purposes of this section, the Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations prescribing
-	- **(a)** the circumstances in which, and the classes of goods in respect of which, a refund or drawback of duties levied under section 21 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax levied under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty levied under any of sections 69 to 76.1, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty levied under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) may not be granted under subsection (1);
+	- **(a)** the circumstances in which, and the classes of goods in respect of which, a refund or drawback of duties levied under sections 21.1 to 21.3 or under the 
+[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax levied under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty levied under any of sections 69 to 76.1, a tax levied under the 
+[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty levied under the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted under subsection (1);
 	- **(b)** the portion of duties paid that may be granted as a refund or drawback under subsection (1);
 	- **(c)** the persons or classes of persons who may make an application for a refund or drawback under subsection (1);
 	- **(d)** the uses to which goods may be put or operations that goods may undergo after which the goods will be considered to be in the same condition;
@@ -2825,8 +2873,10 @@ less
 
 **Designated goods**
 
-- **(5)** Notwithstanding the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under section 21, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
-> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25.
+- **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the 
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the 
+[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
+> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354.
 
 
 
@@ -2865,7 +2915,7 @@ less
 
 
 **DIVISION 5** 
-### GENERAL
+### General
 
 
 
@@ -3376,7 +3426,7 @@ less
 
 
 
-## Coming into Force
+### Coming into Force
 
 
 
