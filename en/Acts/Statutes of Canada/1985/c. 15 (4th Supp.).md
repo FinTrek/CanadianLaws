@@ -32,8 +32,8 @@
 ***employee*** means a person who is employed by an employer;
 
 ***employer*** means a person who employs one or more persons in employment described in subsection 123(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), or
-- **(a)** the Treasury Board, in relation to employees of any portion of the public service of Canada specified in Part I of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md),
-- **(b)** an employer named in Part II of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), in relation to employees of that employer,
+- **(a)** the Treasury Board, in relation to employees in any portion of the federal public administration specified in Schedule I or IV to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md),
+- **(b)** a separate agency named in Schedule V to the  [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in relation to employees of that separate agency,
 - **(c)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Ethics Commissioner, in relation to employees thereof or employees of a committee of the Senate or House of Commons, as the case may be, or
 - **(d)** a member of the Senate or House of Commons, in relation to employees on the staff of the member, including persons employed in the office of a Minister, or in relation to employees on the staff of a political party housed in accommodation provided by the Senate or House of Commons who are under the direction and control of the member;
 
@@ -56,7 +56,7 @@
 **Non-application to commuter trains**
 
 - **(4)** This Act does not apply in respect of a work space on a passenger train operated in commuter service by or for the account of the government of a province or an agency thereof.
-> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2004, c. 7, s. 25.
+> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2003, c. 22, s. 176; 2004, c. 7, s. 25.
 
 
 
