@@ -1,0 +1,3423 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md)
+
+# Loi sur l'immigration et la protection des réfugiés
+
+**L.C. 2001, ch. 27**
+
+
+Sanctionnée sur le 1 novembre 2001
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur l’immigration et la protection des réfugiés.
+
+
+
+
+## Définitions et interprétation
+
+
+
+**Définitions**
+
+**2** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***Commission*** La Commission de l’immigration et du statut de réfugié, composée de la Section de la protection des réfugiés, de la Section d’appel des réfugiés, de la Section de l’immigration et de la Section d’appel de l’immigration.
+
+***Convention contre la torture*** La Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, signée à New York le 10 décembre 1984 dont l’article premier est reproduit en annexe.
+
+***Convention sur les réfugiés*** La Convention des Nations Unies relative au statut des réfugiés, signée à Genève le 28 juillet 1951, dont les sections E et F de l’article premier sont reproduites en annexe et le protocole afférent signé à New York le 31 janvier 1967.
+
+***étranger*** Personne autre qu’un citoyen canadien ou un résident permanent; la présente définition vise également les apatrides.
+
+***résident permanent*** Personne qui a le statut de résident permanent et n’a pas perdu ce statut au titre de l’article 46.
+
+**Terminologie**
+
+- **(2)** Sauf disposition contraire de la présente loi, toute mention de celle-ci vaut également mention des règlements pris sous son régime.
+
+
+
+
+## Objet de la loi
+
+
+
+**Objet en matière d’immigration**
+
+**3** 
+
+- **(1)** En matière d’immigration, la présente loi a pour objet :
+	- **a)** de permettre au Canada de retirer de l’immigration le maximum d’avantages sociaux, culturels et économiques;
+	- **b)** d’enrichir et de renforcer le tissu social et culturel du Canada dans le respect de son caractère fédéral, bilingue et multiculturel;
+	- **b.1)** de favoriser le développement des collectivités de langues officielles minoritaires au Canada;
+	- **c)** de favoriser le développement économique et la prospérité du Canada et de faire en sorte que toutes les régions puissent bénéficier des avantages économiques découlant de l’immigration;
+	- **d)** de veiller à la réunification des familles au Canada;
+	- **e)** de promouvoir l’intégration des résidents permanents au Canada, compte tenu du fait que cette intégration suppose des obligations pour les nouveaux arrivants et pour la société canadienne;
+	- **f)** d’atteindre, par la prise de normes uniformes et l’application d’un traitement efficace, les objectifs fixés pour l’immigration par le gouvernement fédéral après consultation des provinces;
+	- **g)** de faciliter l’entrée des visiteurs, étudiants et travailleurs temporaires qui viennent au Canada dans le cadre d’activités commerciales, touristiques, culturelles, éducatives, scientifiques ou autres, ou pour favoriser la bonne entente à l’échelle internationale;
+	- **h)** de protéger la santé des Canadiens et de garantir leur sécurité;
+	- **i)** de promouvoir, à l’échelle internationale, la justice et la sécurité par le respect des droits de la personne et l’interdiction de territoire aux personnes qui sont des criminels ou constituent un danger pour la sécurité;
+	- **j)** de veiller, de concert avec les provinces, à aider les résidents permanents à mieux faire reconnaître leurs titres de compétence et à s’intégrer plus rapidement à la société.
+
+**Objet relatif aux réfugiés**
+
+- **(2)** S’agissant des réfugiés, la présente loi a pour objet :
+	- **a)** de reconnaître que le programme pour les réfugiés vise avant tout à sauver des vies et à protéger les personnes de la persécution;
+	- **b)** de remplir les obligations en droit international du Canada relatives aux réfugiés et aux personnes déplacées et d’affirmer la volonté du Canada de participer aux efforts de la communauté internationale pour venir en aide aux personnes qui doivent se réinstaller;
+	- **c)** de faire bénéficier ceux qui fuient la persécution d’une procédure équitable reflétant les idéaux humanitaires du Canada;
+	- **d)** d’offrir l’asile à ceux qui craignent avec raison d’être persécutés du fait de leur race, leur religion, leur nationalité, leurs opinions politiques, leur appartenance à un groupe social en particulier, ainsi qu’à ceux qui risquent la torture ou des traitements ou peines cruels et inusités;
+	- **e)** de mettre en place une procédure équitable et efficace qui soit respectueuse, d’une part, de l’intégrité du processus canadien d’asile et, d’autre part, des droits et des libertés fondamentales reconnus à tout être humain;
+	- **f)** d’encourager l’autonomie et le bien-être socioéconomique des réfugiés en facilitant la réunification de leurs familles au Canada;
+	- **g)** de protéger la santé des Canadiens et de garantir leur sécurité;
+	- **h)** de promouvoir, à l’échelle internationale, la sécurité et la justice par l’interdiction du territoire aux personnes et demandeurs d’asile qui sont de grands criminels ou constituent un danger pour la sécurité.
+
+**Interprétation et mise en oeuvre**
+
+- **(3)** L’interprétation et la mise en oeuvre de la présente loi doivent avoir pour effet :
+	- **a)** de promouvoir les intérêts du Canada sur les plans intérieur et international;
+	- **b)** d’encourager la responsabilisation et la transparence par une meilleure connaissance des programmes d’immigration et de ceux pour les réfugiés;
+	- **c)** de faciliter la coopération entre le gouvernement fédéral, les gouvernements provinciaux, les États étrangers, les organisations internationales et les organismes non gouvernementaux;
+	- **d)** d’assurer que les décisions prises en vertu de la présente loi sont conformes à la Charte canadienne des droits et libertés, notamment en ce qui touche les principes, d’une part, d’égalité et de protection contre la discrimination et, d’autre part, d’égalité du français et de l’anglais à titre de langues officielles du Canada;
+	- **e)** de soutenir l’engagement du gouvernement du Canada à favoriser l’épanouissement des minorités francophones et anglophones du Canada;
+	- **f)** de se conformer aux instruments internationaux portant sur les droits de l’homme dont le Canada est signataire.
+
+
+
+
+## Mise en application
+
+
+
+**Ministre de tutelle**
+
+**4** Le ministre est le membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil charge de l’application de la présente loi.
+
+
+
+
+**Règlements**
+
+**5** 
+
+- **(1)** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi, prendre les règlements d’application de la présente loi et toute autre mesure d’ordre réglementaire qu’elle prévoit.
+
+**Dépôt et renvoi des projets de règlement**
+
+- **(2)** Le ministre fait déposer tout projet de règlement pris en vertu des articles 17, 32, 53, 61, 102, 116 et 150 devant chaque chambre du Parlement et la chambre renvoie ce projet de règlement à son comité compétent.
+
+**Modification du projet de règlement**
+
+- **(3)** Il n’est pas nécessaire de déposer de nouveau le projet de règlement devant le Parlement même s’il a subi des modifications.
+
+**Prise du règlement**
+
+- **(4)** Le gouverneur en conseil peut prendre le règlement après le dépôt du projet de règlement devant chaque chambre du Parlement.
+
+
+
+
+**Désignation des agents**
+
+**6** 
+
+- **(1)** Le ministre désigne, individuellement ou par catégorie, les personnes qu’il charge, à titre d’agent, de l’application de tout ou partie des dispositions de la présente loi et précise les attributions attachées à leurs fonctions.
+
+**Délégation**
+
+- **(2)** Le ministre peut déléguer, par écrit, les attributions qui lui sont conférées par la présente loi et il n’est pas nécessaire de prouver l’authenticité de la délégation.
+
+**Restriction**
+
+- **(3)** Ne peuvent toutefois être déléguées les attributions conférées par le paragraphe 77(1) et la prise de décision au titre des dispositions suivantes : 34(2), 35(2) et 37(2)a).
+
+
+
+
+## Concertation intergouvernementale
+
+
+
+**Accords internationaux**
+
+**7** Pour l’application de la présente loi, le ministre peut, avec l’agrément du gouverneur en conseil, conclure un accord avec le gouvernement d’un État étranger ou toute organisation internationale.
+
+
+
+
+**Accords fédéro-provinciaux**
+
+**8** 
+
+- **(1)** Pour l’application de la présente loi, le ministre peut, avec l’agrément du gouverneur en conseil, conclure un accord avec une province; il publie chaque année la liste des accords en vigueur.
+
+**Conformité**
+
+- **(2)** Malgré les autres dispositions de la présente loi, doivent être conformes à l’accord :
+	- **a)** la sélection et le parrainage des étrangers, ainsi que l’acquisition d’un statut, sous le régime de la présente loi;
+	- **b)** les règlements régissant ces matières, et notamment tout règlement concernant l’examen au Canada de certaines demandes pour devenir résident permanent ou concernant des étrangers dont la sélection est faite sur la base de placements au Canada.
+
+**Précision : interdictions de territoire**
+
+- **(3)** Le paragraphe (2) n’a toutefois pas pour effet de limiter l’application des dispositions de la présente loi visant les interdictions de territoire.
+
+
+
+
+**Responsabilité provinciale exclusive : résidents permanents**
+
+**9** 
+
+- **(1)** Lorsqu’une province a, sous le régime d’un accord, la responsabilité exclusive de sélection de l’étranger qui cherche à s’y établir comme résident permanent, les règles suivantes s’appliquent à celui-ci sauf stipulation contraire de l’accord :
+	- **a)** le statut de résident permanent est octroyé à l’étranger qui répond aux critères de sélection de la province et n’est pas interdit de territoire;
+	- **b)** le statut de résident permanent ne peut être octroyé à l’étranger qui ne répond pas aux critères de sélection de la province;
+	- **c)** le statut de résident permanent ne peut être octroyé contrairement aux dispositions de la législation de la province régissant le nombre — qu’il s’agisse d’estimations ou de plafonds — des étrangers qui peuvent s’y établir comme résidents permanents, ainsi que leur répartition par catégorie;
+	- **d)** les conditions imposées à l’étranger, avant ou à l’octroi du statut de résident permanent, en vertu de la législation de la province ont le même effet que celles prévues sous le régime de la présente loi.
+
+**Responsabilité provinciale exclusive : droit d’appel**
+
+- **(2)** L’accord qui confère à une province la responsabilité exclusive de l’établissement et de la mise en oeuvre des normes financières applicables à l’engagement qu’un répondant qui y réside peut prendre quant à l’étranger qui demande à devenir résident permanent a notamment, sauf stipulation contraire, pour effet que le droit d’appel prévu par la législation de la province quant au rejet par le fonctionnaire provincial compétent d’une demande d’engagement, pour non-conformité à ces normes, ou manquement à un engagement antérieur, prive le répondant, sauf sur des motifs d’ordre humanitaire, du droit d’en appeler au titre de la présente loi du refus, pour ces mêmes raisons, du visa ou du statut de résident permanent.
+
+
+
+
+**Consultations avec les provinces**
+
+**10** 
+
+- **(1)** Le ministre peut consulter les gouvernements des provinces sur les orientations et programmes touchant à l’immigration et à l’asile en vue de faciliter la coopération avec ceux-ci et de prendre en considération les effets que la mise en oeuvre de la présente loi peut avoir sur les provinces.
+
+**Consultations obligatoires**
+
+- **(2)** Le ministre les consulte sur le nombre d’étrangers de diverses catégories qui deviendront résidents permanents chaque année, sur leur répartition au Canada — compte tenu des besoins économiques et démographiques régionaux — et sur les mesures à prendre pour faciliter leur intégration à la société canadienne.
+
+
+
+
+**PARTIE 1** 
+## Immigration au Canada
+
+
+
+**SECTION 1** 
+### FORMALITÉS PRÉALABLES À L’ENTRÉE ET SÉLECTION
+
+
+
+#### Formalités préalables à l’entrée
+
+
+
+**Visa et documents**
+
+**11** 
+
+- **(1)** L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement, lesquels sont délivrés sur preuve, à la suite d’un contrôle, qu’il n’est pas interdit de territoire et se conforme à la présente loi.
+
+**Cas de la demande parrainée**
+
+- **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
+
+
+
+
+#### Sélection des résidents permanents
+
+
+
+**Regroupement familial**
+
+**12** 
+
+- **(1)** La sélection des étrangers de la catégorie « regroupement familial » se fait en fonction de la relation qu’ils ont avec un citoyen canadien ou un résident permanent, à titre d’époux, de conjoint de fait, d’enfant ou de père ou mère ou à titre d’autre membre de la famille prévu par règlement.
+
+**Immigration économique**
+
+- **(2)** La sélection des étrangers de la catégorie « immigration économique » se fait en fonction de leur capacité à réussir leur établissement économique au Canada.
+
+**Réfugiés**
+
+- **(3)** La sélection de l’étranger, qu’il soit au Canada ou non, s’effectue, conformément à la tradition humanitaire du Canada à l’égard des personnes déplacées ou persécutées, selon qu’il a la qualité, au titre de la présente loi, de réfugié ou de personne en situation semblable.
+
+
+
+
+#### Régime de parrainage
+
+
+
+**Droit au parrainage : individus**
+
+**13** 
+
+- **(1)** Tout citoyen canadien et tout résident permanent peuvent, sous réserve des règlements, parrainer l’étranger de la catégorie « regroupement familial ».
+
+**Droit au parrainage : groupes**
+
+- **(2)** Tout groupe de citoyens canadiens ou de résidents permanents ou toute personne morale ou association de régime fédéral ou provincial — ou tout groupe de telles de ces personnes — , peut, sous réserve des règlements, parrainer un étranger qui a la qualité, au titre de la présente loi, de réfugié ou de personne en situation semblable.
+
+**Obligation**
+
+- **(3)** L’engagement de parrainage lie le répondant.
+
+**Instructions**
+
+- **(4)** L’agent est tenu de se conformer aux instructions du ministre sur la mise en oeuvre des règlements visés à l’alinéa 14(2)e).
+
+
+
+
+#### Règlements
+
+
+
+**Application générale**
+
+**14** 
+
+- **(1)** Les règlements régissent l’application de la présente section et définissent, pour l’application de la présente loi, les termes qui y sont employés.
+
+**Sélection et formalités**
+
+- **(2)** Ils établissent et régissent les catégories de résidents permanents ou d’étrangers, dont celles visées à l’article 12, et portent notamment sur :
+	- **a)** les critères applicables aux diverses catégories, et les méthodes ou, le cas échéant, les grilles d’appréciation et de pondération de tout ou partie de ces critères, ainsi que les cas où l’agent peut substituer aux critères son appréciation de la capacité de l’étranger à réussir son établissement économique au Canada;
+	- **b)** la demande, la délivrance et le refus de délivrance de visas et autres documents pour les étrangers et les membres de leur famille;
+	- **c)** le nombre de demandes à traiter et dont il peut être disposé et celui de visas ou autres documents à accorder par an, ainsi que les mesures à prendre en cas de dépassement;
+	- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+	- **e)** le parrainage, les engagements, ainsi que la sanction de leur inobservation;
+	- **f)** les garanties à remettre au ministre pour le respect des obligations découlant de la présente loi;
+	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
+
+
+
+
+**SECTION 2** 
+### CONTRÔLE
+
+
+
+**Pouvoir de l’agent**
+
+**15** 
+
+- **(1)** L’agent peut procéder à un contrôle dans le cadre de toute demande qui lui est faite au titre de la présente loi.
+
+**Critères provinciaux**
+
+- **(2)** S’agissant de l’étranger visé au paragraphe 9(1), le contrôle de conformité aux critères de sélection qui lui sont applicables a pour seul objet de vérifier si, sur la base du document délivré par la province en cause, l’autorité compétente de celle-ci est d’avis que l’étranger répond à ses critères de sélection.
+
+**Fouille**
+
+- **(3)** L’agent peut fouiller tout moyen de transport amenant des personnes au Canada, interroger les personnes qui s’y trouvent, inspecter les documents et pièces relatifs à celles-ci et les saisir pour reproduction totale ou partielle et retenir le moyen de transport jusqu’à la fin du contrôle.
+
+**Instructions**
+
+- **(4)** L’agent est tenu de se conformer aux instructions du ministre sur l’exécution du contrôle.
+
+
+
+
+**Obligation du demandeur**
+
+**16** 
+
+- **(1)** L’auteur d’une demande au titre de la présente loi doit répondre véridiquement aux questions qui lui sont posées lors du contrôle, donner les renseignements et tous éléments de preuve pertinents et présenter les visa et documents requis.
+
+**Éléments de preuve**
+
+- **(2)** S’agissant de l’étranger, les éléments de preuve pertinents visent notamment la photographie et la dactyloscopie et il est tenu de se soumettre, sur demande, à une visite médicale.
+
+**Établissement de l’identité**
+
+- **(3)** L’agent peut exiger ou obtenir du résident permanent ou de l’étranger qui fait l’objet d’une arrestation, d’une mise en détention, d’un contrôle ou d’une mesure de renvoi tous éléments, dont la photographie et la dactyloscopie, en vue d’établir son identité et vérifier s’il se conforme à la présente loi.
+
+
+
+
+**Règlements**
+
+**17** Les règlements régissent l’application de la présente section et portent notamment sur l’exécution du contrôle.
+
+
+
+
+**SECTION 3** 
+### ENTRÉE ET SÉJOUR AU CANADA
+
+
+
+#### Entrée et séjour
+
+
+
+**Contrôle**
+
+**18** 
+
+- **(1)** Quiconque cherche à entrer au Canada est tenu de se soumettre au contrôle visant à déterminer s’il a le droit d’y entrer ou s’il est autorisé, ou peut l’être, à y entrer et à y séjourner.
+
+**Transit**
+
+- **(2)** Le présent article s’applique également aux personnes qui, sans quitter le Canada, cherchent à quitter une zone aéroportuaire réservée aux passagers en transit ou en partance.
+
+
+
+
+**Droit d’entrer : citoyen canadien et Indien**
+
+**19** 
+
+- **(1)** Tout citoyen canadien, au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), et toute personne inscrite comme Indien, en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), a le droit d’entrer au Canada et d’y séjourner conformément à la présente loi; l’agent le laisse entrer sur preuve, à la suite d’un contrôle fait à son arrivée, de sa qualité.
+
+**Droit d’entrer : résident permanent**
+
+- **(2)** L’agent laisse entrer au Canada le résident permanent sur preuve, à la suite d’un contrôle fait à son arrivée, qu’il a ce statut.
+
+
+
+
+**Obligation à l’entrée au Canada**
+
+**20** 
+
+- **(1)** L’étranger non visé à l’article 19 qui cherche à entrer au Canada ou à y séjourner est tenu de prouver :
+	- **a)** pour devenir un résident permanent, qu’il détient les visa ou autres documents réglementaires et vient s’y établir en permanence;
+	- **b)** pour devenir un résident temporaire, qu’il détient les visa ou autres documents requis par règlement et aura quitté le Canada à la fin de la période de séjour autorisée.
+
+**Critères provinciaux**
+
+- **(2)** L’étranger visé au paragraphe 9(1) est tenu en outre, pour devenir résident permanent, de prouver qu’il détient le document délivré par la province en cause attestant que l’autorité compétente de celle-ci est d’avis qu’il répond à ses critères de sélection.
+
+
+
+
+#### Statut et autorisation d’entrer
+
+
+
+**Résident permanent**
+
+**21** 
+
+- **(1)** Devient résident permanent l’étranger dont l’agent constate qu’il a demandé ce statut, s’est déchargé des obligations prévues à l’alinéa 20(1)a) et au paragraphe 20(2) et n’est pas interdit de territoire.
+
+**Personne protégée**
+
+- **(2)** Sous réserve d’un accord fédéro-provincial visé au paragraphe 9(1), devient résident permanent la personne à laquelle la qualité de réfugié ou celle de personne à protéger a été reconnue en dernier ressort par la Commission ou celle dont la demande de protection a été acceptée par le ministre — sauf dans le cas d’une personne visée au paragraphe 112(3) ou qui fait partie d’une catégorie réglementaire — dont l’agent constate qu’elle a présenté sa demande en conformité avec les règlements et qu’elle n’est pas interdite de territoire pour l’un des motifs visés aux articles 34 ou 35, au paragraphe 36(1) ou aux articles 37 ou 38.
+
+
+
+
+**Résident temporaire**
+
+**22** 
+
+- **(1)** Devient résident temporaire l’étranger dont l’agent constate qu’il a demandé ce statut, s’est déchargé des obligations prévues à l’alinéa 20(1)b) et n’est pas interdit de territoire.
+
+**Double intention**
+
+- **(2)** L’intention qu’il a de s’établir au Canada n’empêche pas l’étranger de devenir résident temporaire sur preuve qu’il aura quitté le Canada à la fin de la période de séjour autorisée.
+
+
+
+
+**Contrôle complémentaire ou enquête**
+
+**23** L’entrée peut aussi être autorisée en vue du contrôle complémentaire ou de l’enquête prévus par la présente partie.
+
+
+
+
+**Permis de séjour temporaire**
+
+**24** 
+
+- **(1)** Devient résident temporaire l’étranger, dont l’agent estime qu’il est interdit de territoire ou ne se conforme pas à la présente loi, à qui il délivre, s’il estime que les circonstances le justifient, un permis de séjour temporaire — titre révocable en tout temps.
+
+**Cas particulier**
+
+- **(2)** L’étranger visé au paragraphe (1) à qui l’agent délivre hors du Canada un permis de séjour temporaire ne devient résident temporaire qu’après s’être soumis au contrôle à son arrivée au Canada.
+
+**Instructions**
+
+- **(3)** L’agent est tenu de se conformer aux instructions que le ministre peut donner pour l’application du paragraphe (1).
+
+
+
+
+**Séjour pour motif d’ordre humanitaire**
+
+**25** 
+
+- **(1)** Le ministre doit, sur demande d’un étranger interdit de territoire ou qui ne se conforme pas à la présente loi, et peut, de sa propre initiative, étudier le cas de cet étranger et peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des circonstances d’ordre humanitaire relatives à l’étranger — compte tenu de l’intérêt supérieur de l’enfant directement touché — ou l’intérêt public le justifient.
+
+**Critères provinciaux**
+
+- **(2)** Le statut ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
+
+
+
+
+**Règlements**
+
+**26** Les règlements régissent l’application des articles 18 à 25 et portent notamment sur :
+- **a)** l’entrée, la faculté de rentrer et le séjour;
+- **b)** le statut de résident permanent ou temporaire, et notamment l’acquisition du statut;
+- **c)** les cas dans lesquels il peut être tenu compte de tout ou partie des circonstances visées à l’article 24;
+- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+- **e)** les garanties à fournir au ministre pour l’exécution de la présente loi.
+
+
+
+
+#### Droits et obligations des résidents permanents et des résidents temporaires
+
+
+
+**Droit du résident permanent**
+
+**27** 
+
+- **(1)** Le résident permanent a, sous réserve des autres dispositions de la présente loi, le droit d’entrer au Canada et d’y séjourner.
+
+**Conditions**
+
+- **(2)** Le résident permanent est assujetti aux conditions imposées par règlement.
+
+
+
+
+**Obligation de résidence**
+
+**28** 
+
+- **(1)** L’obligation de résidence est applicable à chaque période quinquennale.
+
+**Application**
+
+- **(2)** Les dispositions suivantes régissent l’obligation de résidence :
+	- **a)** le résident permanent se conforme à l’obligation dès lors que, pour au moins 730 jours pendant une période quinquennale, selon le cas :
+		- **(i)** il est effectivement présent au Canada,
+		- **(ii)** il accompagne, hors du Canada, un citoyen canadien qui est son époux ou conjoint de fait ou, dans le cas d’un enfant, l’un de ses parents,
+		- **(iii)** il travaille, hors du Canada, à temps plein pour une entreprise canadienne ou pour l’administration publique fédérale ou provinciale,
+		- **(iv)** il accompagne, hors du Canada, un résident permanent qui est son époux ou conjoint de fait ou, dans le cas d’un enfant, l’un de ses parents, et qui travaille à temps plein pour une entreprise canadienne ou pour l’administration publique fédérale ou provinciale,
+		- **(v)** il se conforme au mode d’exécution prévu par règlement;
+	- **b)** il suffit au résident permanent de prouver, lors du contrôle, qu’il se conformera à l’obligation pour la période quinquennale suivant l’acquisition de son statut, s’il est résident permanent depuis moins de cinq ans, et, dans le cas contraire, qu’il s’y est conformé pour la période quinquennale précédant le contrôle;
+	- **c)** le constat par l’agent que des circonstances d’ordre humanitaire relatives au résident permanent — compte tenu de l’intérêt supérieur de l’enfant directement touché — justifient le maintien du statut rend inopposable l’inobservation de l’obligation précédant le contrôle.
+
+
+
+
+**Droit du résident temporaire**
+
+**29** 
+
+- **(1)** Le résident temporaire a, sous réserve des autres dispositions de la présente loi, l’autorisation d’entrer au Canada et d’y séjourner à titre temporaire comme visiteur ou titulaire d’un permis de séjour temporaire.
+
+**Obligation du résident temporaire**
+
+- **(2)** Le résident temporaire est assujetti aux conditions imposées par les règlements et doit se conformer à la présente loi et avoir quitté le pays à la fin de la période de séjour autorisée. Il ne peut y rentrer que si l’autorisation le prévoit.
+
+
+
+
+**Études et emploi**
+
+**30** 
+
+- **(1)** L’étranger ne peut exercer un emploi au Canada ou y étudier que sous le régime de la présente loi.
+
+**Enfant mineur**
+
+- **(2)** L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
+
+
+
+
+#### Attestation de statut
+
+
+
+**Attestation de statut**
+
+**31** 
+
+- **(1)** Il est remis au résident permanent et à la personne protégée une attestation de statut.
+
+**Effet**
+
+- **(2)** Pour l’application de la présente loi et sauf décision contraire de l’agent, celui qui est muni d’une attestation est présumé avoir le statut qui y est mentionné; s’il ne peut présenter une attestation de statut de résident permanent, celui qui est à l’extérieur du Canada est présumé ne pas avoir ce statut.
+
+**Titre de voyage**
+
+- **(3)** Il est remis un titre de voyage au résident permanent qui se trouve hors du Canada et qui n’est pas muni de l’attestation de statut de résident permanent sur preuve, à la suite d’un contrôle, que, selon le cas :
+	- **a)** il remplit l’obligation de résidence;
+	- **b)** il est constaté que l’alinéa 28(2)c) lui est applicable;
+	- **c)** il a été effectivement présent au Canada au moins une fois au cours des 365 jours précédant le contrôle et, soit il a interjeté appel au titre du paragraphe 63(4) et celui-ci n’a pas été tranché en dernier ressort, soit le délai d’appel n’est pas expiré.
+
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**32** Les règlements régissent l’application des articles 27 à 31, définissent, pour l’application de la présente loi, les termes qui y sont employés et portent notamment sur :
+- **a)** les catégories de résidents temporaires, notamment les étudiants et les travailleurs;
+- **b)** les critères de sélection applicables aux diverses catégories d’étrangers, et aux membres de leur famille, ainsi que les méthodes d’appréciation de tout ou partie de ces critères;
+- **c)** les éléments visés à l’alinéa b) sur lesquels les personnes ou organismes désignés devront ou pourront prendre des décisions ou faire des recommandations;
+- **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie, notamment quant à l’exercice d’une activité professionnelle et d’études;
+- **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
+- **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
+
+
+
+
+**SECTION 4** 
+### INTERDICTIONS DE TERRITOIRE
+
+
+
+**Interprétation**
+
+**33** Les faits — actes ou omissions — mentionnés aux articles 34 à 37 sont, sauf disposition contraire, appréciés sur la base de motifs raisonnables de croire qu’ils sont survenus, surviennent ou peuvent survenir.
+
+
+
+
+**Sécurité**
+
+**34** 
+
+- **(1)** Emportent interdiction de territoire pour raison de sécurité les faits suivants :
+	- **a)** être l’auteur d’actes d’espionnage ou se livrer à la subversion contre toute institution démocratique, au sens où cette expression s’entend au Canada;
+	- **b)** être l’instigateur ou l’auteur d’actes visant au renversement d’un gouvernement par la force;
+	- **c)** se livrer au terrorisme;
+	- **d)** constituer un danger pour la sécurité du Canada;
+	- **e)** être l’auteur de tout acte de violence susceptible de mettre en danger la vie ou la sécurité d’autrui au Canada;
+	- **f)** être membre d’une organisation dont il y a des motifs raisonnables de croire qu’elle est, a été ou sera l’auteur d’un acte visé aux alinéas a), b) ou c).
+
+**Exception**
+
+- **(2)** Ces faits n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national.
+
+
+
+
+**Atteinte aux droits humains ou internationaux**
+
+**35** 
+
+- **(1)** Emportent interdiction de territoire pour atteinte aux droits humains ou internationaux les faits suivants :
+	- **a)** commettre, hors du Canada, une des infractions visées aux articles 4 à 7 de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md);
+	- **b)** occuper un poste de rang supérieur — au sens du règlement — au sein d’un gouvernement qui, de l’avis du ministre, se livre ou s’est livré au terrorisme, à des violations graves ou répétées des droits de la personne ou commet ou a commis un génocide, un crime contre l’humanité ou un crime de guerre au sens des paragraphes 6(3) à (5) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md);
+	- **c)** être, sauf s’agissant du résident permanent, une personne dont l’entrée ou le séjour au Canada est limité au titre d’une décision, d’une résolution ou d’une mesure d’une organisation internationale d’États ou une association d’États dont le Canada est membre et qui impose des sanctions à l’égard d’un pays contre lequel le Canada a imposé — ou s’est engagé à imposer — des sanctions de concert avec cette organisation ou association.
+
+**Exception**
+
+- **(2)** Les faits visés aux alinéas (1)b) et c) n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national.
+
+
+
+
+**Grande criminalité**
+
+**36** 
+
+- **(1)** Emportent interdiction de territoire pour grande criminalité les faits suivants :
+	- **a)** être déclaré coupable au Canada d’une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans ou d’une infraction à une loi fédérale pour laquelle un emprisonnement de plus de six mois est infligé;
+	- **b)** être déclaré coupable, à l’extérieur du Canada, d’une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
+	- **c)** commettre, à l’extérieur du Canada, une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
+
+**Criminalité**
+
+- **(2)** Emportent, sauf pour le résident permanent, interdiction de territoire pour criminalité les faits suivants :
+	- **a)** être déclaré coupable au Canada d’une infraction à une loi fédérale punissable par mise en accusation ou de deux infractions à toute loi fédérale qui ne découlent pas des mêmes faits;
+	- **b)** être déclaré coupable, à l’extérieur du Canada, d’une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable par mise en accusation ou de deux infractions qui ne découlent pas des mêmes faits et qui, commises au Canada, constitueraient des infractions à des lois fédérales;
+	- **c)** commettre, à l’extérieur du Canada, une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable par mise en accusation;
+	- **d)** commettre, à son entrée au Canada, une infraction qui constitue une infraction à une loi fédérale précisée par règlement.
+
+**Application**
+
+- **(3)** Les dispositions suivantes régissent l’application des paragraphes (1) et (2) :
+	- **a)** l’infraction punissable par mise en accusation ou par procédure sommaire est assimilée à l’infraction punissable par mise en accusation, indépendamment du mode de poursuite effectivement retenu;
+	- **b)** la déclaration de culpabilité n’emporte pas interdiction de territoire en cas de verdict d’acquittement rendu en dernier ressort ou de réhabilitation — sauf cas de révocation ou de nullité — au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md);
+	- **c)** les faits visés aux alinéas (1)b) ou c) et (2)b) ou c) n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui, à l’expiration du délai réglementaire, convainc le ministre de sa réadaptation ou qui appartient à une catégorie réglementaire de personnes présumées réadaptées;
+	- **d)** la preuve du fait visé à l’alinéa (1)c) est, s’agissant du résident permanent, fondée sur la prépondérance des probabilités;
+	- **e)** l’interdiction de territoire ne peut être fondée sur une infraction qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) ni sur une infraction à la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+
+
+
+
+**Activités de criminalité organisée**
+
+**37** 
+
+- **(1)** Emportent interdiction de territoire pour criminalité organisée les faits suivants :
+	- **a)** être membre d’une organisation dont il y a des motifs raisonnables de croire qu’elle se livre ou s’est livrée à des activités faisant partie d’un plan d’activités criminelles organisées par plusieurs personnes agissant de concert en vue de la perpétration d’une infraction à une loi fédérale punissable par mise en accusation ou de la perpétration, hors du Canada, d’une infraction qui, commise au Canada, constituerait une telle infraction, ou se livrer à des activités faisant partie d’un tel plan;
+	- **b)** se livrer, dans le cadre de la criminalité transnationale, à des activités telles le passage de clandestins, le trafic de personnes ou le recyclage des produits de la criminalité.
+
+**Application**
+
+- **(2)** Les dispositions suivantes régissent l’application du paragraphe (1) :
+	- **a)** les faits visés n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui convainc le ministre que sa présence au Canada ne serait nullement préjudiciable à l’intérêt national;
+	- **b)** les faits visés à l’alinéa (1)a) n’emportent pas interdiction de territoire pour la seule raison que le résident permanent ou l’étranger est entré au Canada en ayant recours à une personne qui se livre aux activités qui y sont visées.
+
+
+
+
+**Motifs sanitaires**
+
+**38** 
+
+- **(1)** Emporte, sauf pour le résident permanent, interdiction de territoire pour motifs sanitaires l’état de santé de l’étranger constituant vraisemblablement un danger pour la santé ou la sécurité publiques ou risquant d’entraîner un fardeau excessif pour les services sociaux ou de santé.
+
+**Exception**
+
+- **(2)** L’état de santé qui risquerait d’entraîner un fardeau excessif pour les services sociaux ou de santé n’emporte toutefois pas interdiction de territoire pour l’étranger :
+	- **a)** dont il a été statué qu’il fait partie de la catégorie « regroupement familial » en tant qu’époux, conjoint de fait ou enfant d’un répondant dont il a été statué qu’il a la qualité réglementaire;
+	- **b)** qui a demandé un visa de résident permanent comme réfugié ou personne en situation semblable;
+	- **c)** qui est une personne protégée;
+	- **d)** qui est l’époux, le conjoint de fait, l’enfant ou un autre membre de la famille — visé par règlement — de l’étranger visé aux alinéas a) à c).
+
+
+
+
+**Motifs financiers**
+
+**39** Emporte interdiction de territoire pour motifs financiers l’incapacité de l’étranger ou son absence de volonté de subvenir, tant actuellement que pour l’avenir, à ses propres besoins et à ceux des personnes à sa charge, ainsi que son défaut de convaincre l’agent que les dispositions nécessaires — autres que le recours à l’aide sociale — ont été prises pour couvrir leurs besoins et les siens.
+
+
+
+
+**Fausses déclarations**
+
+**40** 
+
+- **(1)** Emportent interdiction de territoire pour fausses déclarations les faits suivants :
+	- **a)** directement ou indirectement, faire une présentation erronée sur un fait important quant à un objet pertinent, ou une réticence sur ce fait, ce qui entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
+	- **b)** être ou avoir été parrainé par un répondant dont il a été statué qu’il est interdit de territoire pour fausses déclarations;
+	- **c)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile;
+	- **d)** la perte de la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) dans le cas visé au paragraphe 10(2) de cette loi.
+
+**Application**
+
+- **(2)** Les dispositions suivantes s’appliquent au paragraphe (1) :
+	- **a)** l’interdiction de territoire court pour les deux ans suivant la décision la constatant en dernier ressort, si le résident permanent ou l’étranger n’est pas au pays, ou suivant l’exécution de la mesure de renvoi;
+	- **b)** l’alinéa (1)b) ne s’applique que si le ministre est convaincu que les faits en cause justifient l’interdiction.
+
+
+
+
+**Manquement à la loi**
+
+**41** S’agissant de l’étranger, emportent interdiction de territoire pour manquement à la présente loi tout fait — acte ou omission — commis directement ou indirectement en contravention avec la présente loi et, s’agissant du résident permanent, le manquement à l’obligation de résidence et aux conditions imposées.
+
+
+
+
+**Inadmissibilité familiale**
+
+**42** Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants :
+- **a)** l’interdiction de territoire frappant tout membre de sa famille qui l’accompagne ou qui, dans les cas réglementaires, ne l’accompagne pas;
+- **b)** accompagner, pour un membre de sa famille, un interdit de territoire.
+
+
+
+
+**Règlements**
+
+**43** Les règlements régissent l’application de la présente section, définissent, pour l’application de la présente loi, les termes qui y sont employés et portent notamment sur les cas où une catégorie de résidents permanents ou d’étrangers est soustraite à tout ou partie de son application.
+
+
+
+
+**SECTION 5** 
+### PERTE DE STATUT ET RENVOI
+
+
+
+#### Constat de l’interdiction de territoire
+
+
+
+**Rapport d’interdiction de territoire**
+
+**44** 
+
+- **(1)** S’il estime que le résident permanent ou l’étranger qui se trouve au Canada est interdit de territoire, l’agent peut établir un rapport circonstancié, qu’il transmet au ministre.
+
+**Suivi**
+
+- **(2)** S’il estime le rapport bien fondé, le ministre peut déférer l’affaire à la Section de l’immigration pour enquête, sauf s’il s’agit d’un résident permanent interdit de territoire pour le seul motif qu’il n’a pas respecté l’obligation de résidence ou, dans les circonstances visées par les règlements, d’un étranger; il peut alors prendre une mesure de renvoi.
+
+**Conditions**
+
+- **(3)** L’agent ou la Section de l’immigration peut imposer les conditions qu’il estime nécessaires, notamment la remise d’une garantie d’exécution, au résident permanent ou à l’étranger qui fait l’objet d’un rapport ou d’une enquête ou, étant au Canada, d’une mesure de renvoi.
+
+
+
+
+#### Enquête par la Section de l’immigration
+
+
+
+**Décision**
+
+**45** Après avoir procédé à une enquête, la Section de l’immigration rend telle des décisions suivantes :
+- **a)** reconnaître le droit d’entrer au Canada au citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), à la personne inscrite comme Indien au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et au résident permanent;
+- **b)** octroyer à l’étranger le statut de résident permanent ou temporaire sur preuve qu’il se conforme à la présente loi;
+- **c)** autoriser le résident permanent ou l’étranger à entrer, avec ou sans conditions, au Canada pour contrôle complémentaire;
+- **d)** prendre la mesure de renvoi applicable contre l’étranger non autorisé à entrer au Canada et dont il n’est pas prouvé qu’il n’est pas interdit de territoire, ou contre l’étranger autorisé à y entrer ou le résident permanent sur preuve qu’il est interdit de territoire.
+
+
+
+
+#### Perte du statut
+
+
+
+**Résident permanent**
+
+**46** 
+
+- **(1)** Emportent perte du statut de résident permanent les faits suivants :
+	- **a)** l’obtention de la citoyenneté canadienne;
+	- **b)** la confirmation en dernier ressort du constat, hors du Canada, de manquement à l’obligation de résidence;
+	- **c)** la prise d’effet de la mesure de renvoi;
+	- **d)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou celle d’accorder la demande de protection.
+
+**Effet de la perte de la citoyenneté**
+
+- **(2)** Devient résident permanent quiconque perd la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé au paragraphe 10(2) de cette loi.
+
+
+
+
+**Résident temporaire**
+
+**47** Emportent perte du statut de résident temporaire les faits suivants :
+- **a)** l’expiration de la période de séjour autorisé;
+- **b)** la décision de l’agent ou de la Section de l’immigration constatant le manquement aux autres exigences prévues par la présente loi;
+- **c)** la révocation du permis de séjour temporaire.
+
+
+
+
+#### Exécution des mesures de renvoi
+
+
+
+**Mesure de renvoi**
+
+**48** 
+
+- **(1)** La mesure de renvoi est exécutoire depuis sa prise d’effet dès lors qu’elle ne fait pas l’objet d’un sursis.
+
+**Conséquence**
+
+- **(2)** L’étranger visé par la mesure de renvoi exécutoire doit immédiatement quitter le territoire du Canada, la mesure devant être appliquée dès que les circonstances le permettent.
+
+
+
+
+**Prise d’effet**
+
+**49** 
+
+- **(1)** La mesure de renvoi non susceptible d’appel prend effet immédiatement; celle susceptible d’appel prend effet à l’expiration du délai d’appel, s’il n’est pas formé, ou quand est rendue la décision qui a pour résultat le maintien définitif de la mesure.
+
+**Cas du demandeur d’asile**
+
+- **(2)** Toutefois, celle visant le demandeur d’asile est conditionnelle et prend effet :
+	- **a)** sur constat d’irrecevabilité au seul titre de l’alinéa 101(1)e);
+	- **b)** sept jours après le constat, dans les autres cas d’irrecevabilité prévus au paragraphe 101(1);
+	- **c)** quinze jours après la notification du rejet de sa demande par la Section de la protection des réfugiés ou, en cas d’appel, par la Section d’appel des réfugiés;
+	- **d)** quinze jours après la notification de la décision prononçant le désistement ou le retrait de sa demande;
+	- **e)** quinze jours après le classement de l’affaire au titre de l’avis visé aux alinéas 104(1)c) ou d).
+
+
+
+
+**Sursis**
+
+**50** Il y a sursis de la mesure de renvoi dans les cas suivants :
+- **a)** une décision judiciaire a pour effet direct d’en empêcher l’exécution, le ministre ayant toutefois le droit de présenter ses observations à l’instance;
+- **b)** tant que n’est pas purgée la peine d’emprisonnement infligée au Canada à l’étranger;
+- **c)** pour la durée prévue par la Section d’appel de l’immigration ou toute autre juridiction compétente;
+- **d)** pour la durée du sursis découlant du paragraphe 114(1);
+- **e)** pour la durée prévue par le ministre.
+
+
+
+
+**Péremption : résidence permanente**
+
+**51** La mesure de renvoi inexécutée devient périmée quand l’étranger devient résident permanent.
+
+
+
+
+**Interdiction de retour**
+
+**52** 
+
+- **(1)** L’exécution de la mesure de renvoi emporte interdiction de revenir au Canada, sauf autorisation de l’agent ou dans les autres cas prévus par règlement.
+
+**Retour au Canada**
+
+- **(2)** L’étranger peut revenir au Canada aux frais du ministre si la mesure de renvoi non susceptible d’appel est cassée à la suite d’un contrôle judiciaire.
+
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**53** Les règlements régissent l’application de la présente section et portent notamment sur :
+- **a)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+- **b)** les cas de prise ou de maintien des mesures de renvoi;
+- **c)** les cas de rétablissement du statut;
+- **d)** les cas de sursis — notamment par le ministre ou non prévus par la présente loi — des mesures de renvoi;
+- **e)** les effets et l’exécution des mesures de renvoi;
+- **f)** les effets de la réhabilitation découlant de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
+- **g)** les obligations financières qui peuvent être imposées relativement aux mesures de renvoi.
+
+
+
+
+**SECTION 6** 
+### DÉTENTION ET MISE EN LIBERTÉ
+
+
+
+**Juridiction compétente**
+
+**54** La Section de l’immigration est la section de la Commission chargée du contrôle visé à la présente section.
+
+
+
+
+**Arrestation sur mandat et détention**
+
+**55** 
+
+- **(1)** L’agent peut lancer un mandat pour l’arrestation et la détention du résident permanent ou de l’étranger dont il a des motifs raisonnables de croire qu’il est interdit de territoire et qu’il constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi.
+
+**Arrestation sans mandat et détention**
+
+- **(2)** L’agent peut, sans mandat, arrêter et détenir l’étranger qui n’est pas une personne protégée dans les cas suivants :
+	- **a)** il a des motifs raisonnables de croire que celui-ci est interdit de territoire et constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2);
+	- **b)** l’identité de celui-ci ne lui a pas été prouvée dans le cadre d’une procédure prévue par la présente loi.
+
+**Détention à l’entrée**
+
+- **(3)** L’agent peut détenir le résident permanent ou l’étranger, à son entrée au Canada, dans les cas suivants :
+	- **a)** il l’estime nécessaire afin que soit complété le contrôle;
+	- **b)** il a des motifs raisonnables de soupçonner que celui-ci est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux.
+
+**Notification**
+
+- **(4)** L’agent avise sans délai la section de la mise en détention d’un résident permanent ou d’un étranger.
+
+
+
+
+**Mise en liberté**
+
+**56** L’agent peut mettre le résident permanent ou l’étranger en liberté avant le premier contrôle de la détention par la section s’il estime que les motifs de détention n’existent plus; il peut assortir la mise en liberté des conditions qu’il estime nécessaires, notamment la remise d’une garantie.
+
+
+
+
+**Contrôle de la détention**
+
+**57** 
+
+- **(1)** La section contrôle les motifs justifiant le maintien en détention dans les quarante-huit heures suivant le début de celle-ci, ou dans les meilleurs délais par la suite.
+
+**Comparutions supplémentaires**
+
+- **(2)** Par la suite, il y a un nouveau contrôle de ces motifs au moins une fois dans les sept jours suivant le premier contrôle, puis au moins tous les trente jours suivant le contrôle précédent.
+
+**Présence**
+
+- **(3)** L’agent amène le résident permanent ou l’étranger devant la section ou au lieu précisé par celle-ci.
+
+
+
+
+**Mise en liberté par la Section de l’immigration**
+
+**58** 
+
+- **(1)** La section prononce la mise en liberté du résident permanent ou de l’étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants :
+	- **a)** le résident permanent ou l’étranger constitue un danger pour la sécurité publique;
+	- **b)** le résident permanent ou l’étranger se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2);
+	- **c)** le ministre prend les mesures voulues pour enquêter sur les motifs raisonnables de soupçonner que le résident permanent ou l’étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux;
+	- **d)** dans le cas où le ministre estime que l’identité de l’étranger n’a pas été prouvée mais peut l’être, soit l’étranger n’a pas raisonnablement coopéré en fournissant au ministre des renseignements utiles à cette fin, soit ce dernier fait des efforts valables pour établir l’identité de l’étranger.
+
+**Mise en détention par la Section de l’immigration**
+
+- **(2)** La section peut ordonner la mise en détention du résident permanent ou de l’étranger sur preuve qu’il fait l’objet d’un contrôle, d’une enquête ou d’une mesure de renvoi et soit qu’il constitue un danger pour la sécurité publique, soit qu’il se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi.
+
+**Conditions**
+
+- **(3)** Lorsqu’elle ordonne la mise en liberté d’un résident permanent ou d’un étranger, la section peut imposer les conditions qu’elle estime nécessaires, notamment la remise d’une garantie d’exécution.
+
+
+
+
+**Remise à l’agent**
+
+**59** Le responsable de l’établissement où est détenu, au titre d’une autre loi, un résident permanent ou un étranger visé par un mandat délivré au titre de la présente loi est tenu de le remettre à l’agent à l’expiration de la période de détention.
+
+
+
+
+**Mineurs**
+
+**60** Pour l’application de la présente section, et compte tenu des autres motifs et critères applicables, y compris l’intérêt supérieur de l’enfant, est affirmé le principe que la détention des mineurs doit n’être qu’une mesure de dernier recours.
+
+
+
+
+**Règlements**
+
+**61** Les règlements régissent l’application de la présente section et portent notamment sur :
+- **a)** les conditions, motifs et critères relatifs à la mise en liberté;
+- **b)** les critères dont l’agent et la section doivent tenir compte;
+- **c)** les éléments particuliers à prendre en compte pour la détention des mineurs.
+
+
+
+
+**SECTION 7** 
+### DROIT D’APPEL
+
+
+
+**Juridiction compétente**
+
+**62** La Section d’appel de l’immigration est la section de la Commission qui connaît de l’appel visé à la présente section.
+
+
+
+
+**Droit d’appel : visa**
+
+**63** 
+
+- **(1)** Quiconque a déposé, conformément au règlement, une demande de parrainage au titre du regroupement familial peut interjeter appel du refus de délivrer le visa de résident permanent.
+
+**Droit d’appel : mesure de renvoi**
+
+- **(2)** Le titulaire d’un visa de résident permanent peut interjeter appel de la mesure de renvoi prise au contrôle ou à l’enquête.
+
+**Droit d’appel : mesure de renvoi**
+
+- **(3)** Le résident permanent ou la personne protégée peut interjeter appel de la mesure de renvoi prise au contrôle ou à l’enquête.
+
+**Droit d’appel : obligation de résidence**
+
+- **(4)** Le résident permanent peut interjeter appel de la décision rendue hors du Canada sur l’obligation de résidence.
+
+**Droit d’appel du ministre**
+
+- **(5)** Le ministre peut interjeter appel de la décision de la Section de l’immigration rendue dans le cadre de l’enquête.
+
+
+
+
+**Restriction du droit d’appel**
+
+**64** 
+
+- **(1)** L’appel ne peut être interjeté par le résident permanent ou l’étranger qui est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée, ni par dans le cas de l’étranger, son répondant.
+
+**Grande criminalité**
+
+- **(2)** L’interdiction de territoire pour grande criminalité vise l’infraction punie au Canada par un emprisonnement d’au moins deux ans.
+
+**Fausses déclarations**
+
+- **(3)** N’est pas susceptible d’appel au titre du paragraphe 63(1) le refus fondé sur l’interdiction de territoire pour fausses déclarations, sauf si l’étranger en cause est l’époux ou le conjoint de fait du répondant ou son enfant.
+
+
+
+
+**Motifs d’ordre humanitaires**
+
+**65** Dans le cas de l’appel visé aux paragraphes 63(1) ou (2) d’une décision portant sur une demande au titre du regroupement familial, les motifs d’ordre humanitaire ne peuvent être pris en considération que s’il a été statué que l’étranger fait bien partie de cette catégorie et que le répondant a bien la qualité réglementaire.
+
+
+
+
+**Décision**
+
+**66** Il est statué sur l’appel comme il suit :
+- **a)** il y fait droit conformément à l’article 67;
+- **b)** il est sursis à la mesure de renvoi conformément à l’article 68;
+- **c)** il est rejeté conformément à l’article 69.
+
+
+
+
+**Fondement de l’appel**
+
+**67** 
+
+- **(1)** Il est fait droit à l’appel sur preuve qu’au moment où il en est disposé :
+	- **a)** la décision attaquée est erronée en droit, en fait ou en droit et en fait;
+	- **b)** il y a eu manquement à un principe de justice naturelle;
+	- **c)** sauf dans le cas de l’appel du ministre, il y a — compte tenu de l’intérêt supérieur de l’enfant directement touché — des motifs d’ordre humanitaire justifiant, vu les autres circonstances de l’affaire, la prise de mesures spéciales.
+
+**Effet**
+
+- **(2)** La décision attaquée est cassée; y est substituée celle, accompagnée, le cas échéant, d’une mesure de renvoi, qui aurait dû être rendue, ou l’affaire est renvoyée devant l’instance compétente.
+
+
+
+
+**Sursis**
+
+**68** 
+
+- **(1)** Il est sursis à la mesure de renvoi sur preuve qu’il y a — compte tenu de l’intérêt supérieur de l’enfant directement touché — des motifs d’ordre humanitaire justifiant, vu les autres circonstances de l’affaire, la prise de mesures spéciales.
+
+**Effet**
+
+- **(2)** La section impose les conditions prévues par règlement et celles qu’elle estime indiquées, celles imposées par la Section de l’immigration étant alors annulées; les conditions non réglementaires peuvent être modifiées ou levées; le sursis est révocable d’office ou sur demande.
+
+**Suivi**
+
+- **(3)** Par la suite, l’appel peut, sur demande ou d’office, être repris et il en est disposé au titre de la présente section.
+
+**Classement et annulation**
+
+- **(4)** Le sursis de la mesure de renvoi pour interdiction de territoire pour grande criminalité ou criminalité est révoqué de plein droit si le résident permanent ou l’étranger est reconnu coupable d’une autre infraction mentionnée au paragraphe 36(1), l’appel étant dès lors classé.
+
+
+
+
+**Rejet de l’appel**
+
+**69** 
+
+- **(1)** L’appel est rejeté s’il n’y est pas fait droit ou si le sursis n’est pas prononcé.
+
+**Appel du ministre**
+
+- **(2)** L’appel du ministre contre un résident permanent ou une personne protégée non visée par le paragraphe 64(1) peut être rejeté ou la mesure de renvoi applicable, assortie d’un sursis, peut être prise, même si les motifs visés aux alinéas 67(1)a) ou b) sont établis, sur preuve qu’il y a — compte tenu de l’intérêt supérieur de l’enfant directement touché — des motifs d’ordre humanitaire justifiant, vu les autres circonstances de l’affaire, la prise de mesures spéciales.
+
+**Mesure de renvoi**
+
+- **(3)** Si elle rejette l’appel formé au titre du paragraphe 63(4), la section prend une mesure de renvoi contre le résident permanent en cause qui se trouve au Canada.
+
+
+
+
+**Effet de la décision**
+
+**70** 
+
+- **(1)** L’agent est lié, lors du contrôle visant le résident permanent ou l’étranger, par la décision faisant droit à l’appel.
+
+**Suspension du contrôle**
+
+- **(2)** La demande d’autorisation du ministre en vue du contrôle judiciaire d’une décision de la Section d’appel de l’immigration suspend le contrôle visant le résident permanent ou l’étranger tant qu’il n’a pas été statué en dernier ressort sur la question.
+
+
+
+
+**Réouverture de l’appel**
+
+**71** L’étranger qui n’a pas quitté le Canada à la suite de la mesure de renvoi peut demander la réouverture de l’appel sur preuve de manquement à un principe de justice naturelle.
+
+
+
+
+**SECTION 8** 
+### CONTRÔLE JUDICIAIRE
+
+
+
+**Demande d’autorisation**
+
+**72** 
+
+- **(1)** Le contrôle judiciaire par la Cour fédérale de toute mesure — décision, ordonnance, question ou affaire — prise dans le cadre de la présente loi est subordonné au dépôt d’une demande d’autorisation.
+
+**Application**
+
+- **(2)** Les dispositions suivantes s’appliquent à la demande d’autorisation :
+	- **a)** elle ne peut être présentée tant que les voies d’appel ne sont pas épuisées;
+	- **b)** elle doit être signifiée à l’autre partie puis déposée au greffe de la Section de première instance de la Cour fédérale — la Cour — dans les quinze ou soixante jours, selon que la mesure attaquée a été rendue au Canada ou non, suivant, sous réserve de l’alinéa 169f), la date où le demandeur en est avisé ou en a eu connaissance;
+	- **c)** le délai peut toutefois être prorogé, pour motifs valables, par un juge de la Cour;
+	- **d)** il est statué sur la demande à bref délai et selon la procédure sommaire et, sauf autorisation d’un juge de la Cour, sans comparution en personne;
+	- **e)** le jugement sur la demande et toute décision interlocutoire ne sont pas susceptibles d’appel.
+
+
+
+
+**Intervention du ministre**
+
+**73** Le ministre peut, qu’il ait ou non participé à la procédure devant la Section de la protection des réfugiés ou la Section d’appel des réfugiés, demander à être autorisé à présenter une demande de contrôle judiciaire d’une décision de cette dernière.
+
+
+
+
+**Demande de contrôle judiciaire**
+
+**74** Les règles suivantes s’appliquent à la demande de contrôle judiciaire :
+- **a)** le juge qui accueille la demande d’autorisation fixe les date et lieu d’audition de la demande;
+- **b)** l’audition ne peut être tenue à moins de trente jours — sauf consentement des parties — ni à plus de quatre-vingt-dix jours de la date à laquelle la demande d’autorisation est accueillie;
+- **c)** le juge statue à bref délai et selon la procédure sommaire;
+- **d)** le jugement consécutif au contrôle judiciaire n’est susceptible d’appel en Cour d’appel fédérale que si le juge certifie que l’affaire soulève une question grave de portée générale et énonce celle-ci.
+
+
+
+
+**Règles**
+
+**75** 
+
+- **(1)** Le juge en chef de la Cour fédérale peut, avec l’agrément du gouverneur en conseil, prendre des règles régissant la pratique et la procédure relatives à la demande d’autorisation et de contrôle judiciaire et à l’appel; ces règles l’emportent sur les règles et usages par ailleurs applicables.
+
+**Incompatibilité**
+
+- **(2)** Les dispositions de la présente section l’emportent sur les dispositions incompatibles de la Loi sur la Cour fédérale.
+
+
+
+
+**SECTION 9** 
+### EXAMEN DE RENSEIGNEMENTS À PROTÉGER
+
+
+
+#### Examen à la demande du ministre et du solliciteur général
+
+
+
+**Définitions**
+
+**76** Les définitions qui suivent s’appliquent à la présente section.
+
+***juge*** Le juge en chef adjoint de la Cour fédérale ou le juge de la Section de première instance de cette juridiction désigné par celui-ci.
+
+***renseignements*** Les renseignements en matière de sécurité ou de criminalité et ceux obtenus, sous le sceau du secret, de source canadienne ou du gouvernement d’un État étranger, d’une organisation internationale mise sur pied par des États ou de l’un de leurs organismes.
+
+
+
+
+**Dépôt du certificat**
+
+**77** 
+
+- **(1)** Le ministre et le solliciteur général du Canada déposent à la Section de première instance de la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée pour qu’il en soit disposé au titre de l’article 80.
+
+**Effet du dépôt**
+
+- **(2)** Il ne peut être procédé à aucune instance visant le résident permanent ou l’étranger au titre de la présente loi tant qu’il n’a pas été statué sur le certificat; n’est pas visée la demande de protection prévue au paragraphe 112(1).
+
+
+
+
+**Examen judiciaire**
+
+**78** Les règles suivantes s’appliquent à l’affaire :
+- **a)** le juge entend l’affaire;
+- **b)** le juge est tenu de garantir la confidentialité des renseignements justifiant le certificat et des autres éléments de preuve qui pourraient lui être communiqués et dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
+- **c)** il procède, dans la mesure où les circonstances et les considérations d’équité et de justice naturelle le permettent, sans formalisme et selon la procédure expéditive;
+- **d)** il examine, dans les sept jours suivant le dépôt du certificat et à huis clos, les renseignements et autres éléments de preuve;
+- **e)** à chaque demande d’un ministre, il examine, en l’absence du résident permanent ou de l’étranger et de son conseil, tout ou partie des renseignements ou autres éléments de preuve dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
+- **f)** ces renseignements ou éléments de preuve doivent être remis aux ministres et ne peuvent servir de fondement à l’affaire soit si le juge décide qu’ils ne sont pas pertinents ou, l’étant, devraient faire partie du résumé, soit en cas de retrait de la demande;
+- **g)** si le juge décide qu’ils sont pertinents, mais que leur divulgation porterait atteinte à la sécurité nationale ou à celle d’autrui, ils ne peuvent faire partie du résumé, mais peuvent servir de fondement à l’affaire;
+- **h)** le juge fournit au résident permanent ou à l’étranger, afin de lui permettre d’être suffisamment informé des circonstances ayant donné lieu au certificat, un résumé de la preuve ne comportant aucun élément dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
+- **i)** il donne au résident permanent ou à l’étranger la possibilité d’être entendu sur l’interdiction de territoire le visant;
+- **j)** il peut recevoir et admettre en preuve tout élément qu’il estime utile — même inadmissible en justice — et peut fonder sa décision sur celui-ci.
+
+
+
+
+**Suspension de l’affaire**
+
+**79** 
+
+- **(1)** Le juge suspend l’affaire, à la demande du résident permanent, de l’étranger ou du ministre, pour permettre à ce dernier de disposer d’une demande de protection visée au paragraphe 112(1).
+
+**Reprise de l’affaire**
+
+- **(2)** Le ministre notifie sa décision sur la demande de protection au résident permanent ou à l’étranger et au juge, lequel reprend l’affaire et contrôle la légalité de la décision, compte tenu des motifs visés au paragraphe 18.1(4) de la Loi sur la Cour fédérale.
+
+
+
+
+**Décision**
+
+**80** 
+
+- **(1)** Le juge décide du caractère raisonnable du certificat et, le cas échéant, de la légalité de la décision du ministre, compte tenu des renseignements et autres éléments de preuve dont il dispose.
+
+**Annulation du certificat**
+
+- **(2)** Il annule le certificat dont il ne peut conclure qu’il est raisonnable; si l’annulation ne vise que la décision du ministre il suspend l’affaire pour permettre au ministre de statuer sur celle-ci.
+
+**Caractère définitif de la décision**
+
+- **(3)** La décision du juge est définitive et n’est pas susceptible d’appel ou de contrôle judiciaire.
+
+
+
+
+**Effet du certificat**
+
+**81** Le certificat jugé raisonnable fait foi de l’interdiction de territoire et constitue une mesure de renvoi en vigueur et sans appel, sans qu’il soit nécessaire de procéder au contrôle ou à l’enquête; la personne visée ne peut dès lors demander la protection au titre du paragraphe 112(1).
+
+
+
+
+#### Détention
+
+
+
+**Arrestation et détention facultatives**
+
+**82** 
+
+- **(1)** Le ministre et le solliciteur général du Canada peuvent lancer un mandat pour l’arrestation et la mise en détention du résident permanent visé au certificat dont ils ont des motifs raisonnables de croire qu’il constitue un danger pour la sécurité nationale ou la sécurité d’autrui ou qu’il se soustraira vraisemblablement à la procédure ou au renvoi.
+
+**Détention obligatoire**
+
+- **(2)** L’étranger nommé au certificat est mis en détention sans nécessité de mandat.
+
+
+
+
+**Contrôle des motifs de la détention**
+
+**83** 
+
+- **(1)** Dans les quarante-huit heures suivant le début de la détention du résident permanent, le juge entreprend le contrôle des motifs justifiant le maintien en détention, l’article 78 s’appliquant, avec les adaptations nécessaires, au contrôle.
+
+**Comparutions supplémentaires**
+
+- **(2)** Tant qu’il n’est pas statué sur le certificat, l’intéressé comparaît au moins une fois dans les six mois suivant chaque contrôle, ou sur autorisation du juge.
+
+**Maintien en détention**
+
+- **(3)** L’intéressé est maintenu en détention sur preuve qu’il constitue toujours un danger pour la sécurité nationale ou la sécurité d’autrui ou qu’il se soustraira vraisemblablement à la procédure ou au renvoi.
+
+
+
+
+**Mise en liberté**
+
+**84** 
+
+- **(1)** Le ministre peut, sur demande, mettre le résident permanent ou l’étranger en liberté s’il veut quitter le Canada.
+
+**Mise en liberté judiciaire**
+
+- **(2)** Sur demande de l’étranger dont la mesure de renvoi n’a pas été exécutée dans les cent vingt jours suivant la décision sur le certificat, le juge peut, aux conditions qu’il estime indiquées, le mettre en liberté sur preuve que la mesure ne sera pas exécutée dans un délai raisonnable et que la mise en liberté ne constituera pas un danger pour la sécurité nationale ou la sécurité d’autrui.
+
+
+
+
+**Incompatibilité**
+
+**85** Les articles 82 à 84 l’emportent sur les dispositions incompatibles de la section 6.
+
+
+
+
+#### Examen dans le cadre d’une enquête ou d’un appel en matière d’immigration
+
+
+
+**Interdiction de divulgation**
+
+**86** 
+
+- **(1)** Le ministre peut, dans le cadre de l’appel devant la Section d’appel de l’immigration, du contrôle de la détention ou de l’enquête demander l’interdiction de la divulgation des renseignements.
+
+**Application**
+
+- **(2)** L’article 78 s’applique à l’examen de la demande, avec les adaptations nécessaires, la mention de juge valant mention de la section compétente de la Commission.
+
+
+
+
+#### Examen dans le cadre du contrôle judiciaire
+
+
+
+**Interdiction de divulgation**
+
+**87** 
+
+- **(1)** Le ministre peut, dans le cadre d’un contrôle judiciaire, demander au juge d’interdire la divulgation de tout renseignement protégé au titre du paragraphe 86(1) ou pris en compte dans le cadre des articles 11, 112 ou 115.
+
+**Application**
+
+- **(2)** L’article 78 s’applique à l’examen de la demande, avec les adaptations nécessaires, sauf quant à l’obligation de fournir un résumé et au délai.
+
+
+
+
+**SECTION 10** 
+### DISPOSITIONS GÉNÉRALES
+
+
+
+#### Prêts
+
+
+
+**Prêts**
+
+**88** 
+
+- **(1)** Le ministre des Finances peut avancer au ministre, sur le Trésor, à concurrence du plafond fixé par règlement, les sommes qu’il demande pour consentir des prêts pour l’application de la présente loi.
+
+**Règlements**
+
+- **(2)** Les règlements régissent l’application du présent article et portent notamment sur les catégories de bénéficiaires des prêts et les fins auxquelles ceux-ci peuvent être consentis.
+
+
+
+
+#### Frais
+
+
+
+**Règlement**
+
+**89** Les règlements peuvent prévoir les frais pour les services offerts dans la mise en oeuvre de la présente loi, ainsi que les cas de dispense, individuellement ou par catégorie, de paiement de ces frais.
+
+
+
+
+#### Cartes d’assurance sociale
+
+
+
+**Demande du ministre**
+
+**90** Le ministre peut enjoindre à la Commission de l’assurance-emploi du Canada de délivrer à ceux qui ne sont ni citoyens canadiens ni résidents permanents des cartes d’assurance sociale à numéro indiquant que le titulaire peut être tenu, sous le régime de la présente loi, d’obtenir une autorisation pour exercer une activité professionnelle au Canada.
+
+
+
+
+#### Réglementation de la représentation
+
+
+
+**Règlement**
+
+**91** Les règlements peuvent prévoir qui peut ou ne peut représenter une personne, dans toute affaire devant le ministre, l’agent ou la Commission, ou faire office de conseil.
+
+
+
+
+#### Incorporation par renvoi
+
+
+
+**Incorporation de documents**
+
+**92** 
+
+- **(1)** Peuvent être incorporés par renvoi dans un règlement tels des documents suivants :
+	- **a)** ceux qui n’émanent pas du gouverneur en conseil;
+	- **b)** ceux que celui-ci a adaptés pour en faciliter l’incorporation ou dont il ne reproduit que les passages pertinents à l’application du règlement;
+	- **c)** ceux que celui-ci a produits conjointement avec une autre autorité en vue d’assurer l’harmonisation du règlement avec une autre législation;
+	- **d)** ceux de nature technique ou explicative qu’il a produits et notamment des spécifications, classifications ou graphiques, ainsi que des critères et exemples utiles à l’application du règlement.
+
+**Portée de l’incorporation**
+
+- **(2)** L’incorporation peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Nature du document**
+
+- **(3)** L’incorporation ne confère pas au document valeur de règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+**Caractère non réglementaire**
+
+**93** Les instructions du ministre et les directives données par le président en vertu de l’alinéa 159(1)h) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+#### Rapports au Parlement
+
+
+
+**Rapport annuel**
+
+**94** 
+
+- **(1)** Au plus tard le 1<sup>er</sup> novembre ou dans les trente premiers jours de séance suivant cette date, le ministre dépose devant chaque chambre du Parlement un rapport sur l’application de la présente loi portant sur l’année civile précédente.
+
+**Contenu du rapport**
+
+- **(2)** Le rapport précise notamment :
+	- **a)** les activités et les initiatives en matière de sélection des étrangers et notamment les mesures prises en coopération avec les provinces;
+	- **b)** pour le Canada, le nombre d’étrangers devenus résidents permanents et dont il est prévu qu’ils le deviendront pour l’année suivante;
+	- **b.1)** pour le Canada, le profil linguistique des étrangers devenus résidents permanents;
+	- **c)** pour chaque province partie à un accord visé au paragraphe 9(1), les nombres, par catégorie, de ces étrangers devenus résidents permanents, d’une part, et, d’autre part, qu’elle prévoit qu’ils y deviendront résidents permanents l’année suivante;
+	- **d)** le nombre de permis de séjour temporaire délivrés au titre de l’article 24 et, le cas échéant, les faits emportant interdiction de territoire;
+	- **e)** le nombre d’étrangers à qui le statut de résident permanent a été octroyé au titre du paragraphe 25(1);
+	- **f)** une analyse comparative entre les sexes des répercussions de la présente loi.
+
+
+
+
+**PARTIE 2** 
+## Protection des réfugiés
+
+
+
+**SECTION 1** 
+### NOTIONS D’ASILE, DE RÉFUGIÉ ET DE PERSONNE À PROTÉGER
+
+
+
+**Asile**
+
+**95** 
+
+- **(1)** L’asile est la protection conférée à toute personne dès lors que, selon le cas :
+	- **a)** sur constat qu’elle est, à la suite d’une demande de visa, un réfugié ou une personne en situation semblable, elle devient soit un résident permanent au titre du visa, soit un résident temporaire au titre d’un permis de séjour délivré en vue de sa protection;
+	- **b)** la Commission lui reconnaît la qualité de réfugié ou celle de personne à protéger;
+	- **c)** le ministre accorde la demande de protection, sauf si la personne est visée au paragraphe 112(3).
+
+**Personne protégée**
+
+- **(2)** Est appelée personne protégée la personne à qui l’asile est conféré et dont la demande n’est pas ensuite réputée rejetée au titre des paragraphes 108(3), 109(3) ou 114(4).
+
+
+
+
+**Définition de réfugié**
+
+**96** A qualité de réfugié au sens de la Convention — le réfugié — la personne qui, craignant avec raison d’être persécutée du fait de sa race, de sa religion, de sa nationalité, de son appartenance à un groupe social ou de ses opinions politiques :
+- **a)** soit se trouve hors de tout pays dont elle a la nationalité et ne peut ou, du fait de cette crainte, ne veut se réclamer de la protection de chacun de ces pays;
+- **b)** soit, si elle n’a pas de nationalité et se trouve hors du pays dans lequel elle avait sa résidence habituelle, ne peut ni, du fait de cette crainte, ne veut y retourner.
+
+
+
+
+**Personne à protéger**
+
+**97** 
+
+- **(1)** A qualité de personne à protéger la personne qui se trouve au Canada et serait personnellement, par son renvoi vers tout pays dont elle a la nationalité ou, si elle n’a pas de nationalité, dans lequel elle avait sa résidence habituelle, exposée :
+	- **a)** soit au risque, s’il y a des motifs sérieux de le croire, d’être soumise à la torture au sens de l’article premier de la Convention contre la torture;
+	- **b)** soit à une menace à sa vie ou au risque de traitements ou peines cruels et inusités dans le cas suivant :
+		- **(i)** elle ne peut ou, de ce fait, ne veut se réclamer de la protection de ce pays,
+		- **(ii)** elle y est exposée en tout lieu de ce pays alors que d’autres personnes originaires de ce pays ou qui s’y trouvent ne le sont généralement pas,
+		- **(iii)** la menace ou le risque ne résulte pas de sanctions légitimes — sauf celles infligées au mépris des normes internationales — et inhérents à celles-ci ou occasionnés par elles,
+		- **(iv)** la menace ou le risque ne résulte pas de l’incapacité du pays de fournir des soins médicaux ou de santé adéquats.
+
+**Personne à protéger**
+
+- **(2)** A également qualité de personne à protéger la personne qui se trouve au Canada et fait partie d’une catégorie de personnes auxquelles est reconnu par règlement le besoin de protection.
+
+
+
+
+**Exclusion par application de la Convention sur les réfugiés**
+
+**98** La personne visée aux sections E ou F de l’article premier de la Convention sur les réfugiés ne peut avoir la qualité de réfugié ni de personne à protéger.
+
+
+
+
+**SECTION 2** 
+### RÉFUGIÉS ET PERSONNES À PROTÉGER
+
+
+
+#### Demande d’asile
+
+
+
+**Demande**
+
+**99** 
+
+- **(1)** La demande d’asile peut être faite à l’étranger ou au Canada.
+
+**Demande faite à l’étranger**
+
+- **(2)** Celle de la personne se trouvant hors du Canada se fait par une demande de visa comme réfugié ou de personne en situation semblable et est régie par la partie 1.
+
+**Demande faite au Canada**
+
+- **(3)** Celle de la personne se trouvant au Canada se fait à l’agent et est régie par la présente partie; toutefois la personne visée par une mesure de renvoi n’est pas admise à la faire.
+
+**Résident permanent**
+
+- **(4)** La demande de résidence permanente faite au Canada par une personne protégée est régie par la partie 1.
+
+
+
+
+#### Examen de la recevabilité par l’agent
+
+
+
+**Examen de la recevabilité**
+
+**100** 
+
+- **(1)** Dans les trois jours ouvrables suivant la réception de la demande, l’agent statue sur sa recevabilité et défère, conformément aux règles de la Commission, celle jugée recevable à la Section de la protection des réfugiés.
+
+**Sursis pour décision**
+
+- **(2)** L’agent sursoit à l’étude de la recevabilité dans les cas suivants :
+	- **a)** le cas a déjà été déféré à la Section de l’immigration pour constat d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée;
+	- **b)** il l’estime nécessaire, afin qu’il soit statué sur une accusation pour infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
+
+**Saisine**
+
+- **(3)** La saisine de la section survient sur déféré de la demande; sauf sursis ou constat d’irrecevabilité, elle est réputée survenue à l’expiration des trois jours.
+
+**Obligation**
+
+- **(4)** La preuve de la recevabilité incombe au demandeur, qui doit répondre véridiquement aux questions qui lui sont posées et fournir à la section, si le cas lui est déféré, les renseignements et documents prévus par les règles de la Commission.
+
+
+
+
+**Irrecevabilité**
+
+**101** 
+
+- **(1)** La demande est irrecevable dans les cas suivants :
+	- **a)** l’asile a été conféré au demandeur au titre de la présente loi;
+	- **b)** rejet antérieur de la demande d’asile par la Commission;
+	- **c)** décision prononçant l’irrecevabilité, le désistement ou le retrait d’une demande antérieure;
+	- **d)** reconnaissance de la qualité de réfugié par un pays vers lequel il peut être renvoyé;
+	- **e)** arrivée, directement ou indirectement, d’un pays désigné par règlement autre que celui dont il a la nationalité ou dans lequel il avait sa résidence habituelle;
+	- **f)** prononcé d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux — exception faite des personnes interdites de territoire au seul titre de l’alinéa 35(1)c) —, grande criminalité ou criminalité organisée.
+
+**Grande criminalité**
+
+- **(2)** L’interdiction de territoire pour grande criminalité visée à l’alinéa (1)f) n’emporte irrecevabilité de la demande que si elle a pour objet :
+	- **a)** une déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans et pour laquelle un emprisonnement d’au moins deux ans a été infligé;
+	- **b)** une déclaration de culpabilité à l’extérieur du Canada, pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans, le ministre estimant que le demandeur constitue un danger pour le public au Canada.
+
+
+
+
+**Règlements**
+
+**102** 
+
+- **(1)** Les règlements régissent l’application des articles 100 et 101, définissent, pour l’application de la présente loi, les termes qui y sont employés et, en vue du partage avec d’autres pays de la responsabilité de l’examen des demandes d’asile, prévoient notamment :
+	- **a)** la désignation des pays qui se conforment à l’article 33 de la Convention sur les réfugiés et à l’article 3 de la Convention contre la torture;
+	- **b)** l’établissement de la liste de ces pays, laquelle est renouvelée en tant que de besoin;
+	- **c)** les cas et les critères d’application de l’alinéa 101(1)e).
+
+**Facteurs**
+
+- **(2)** Il est tenu compte des facteurs suivants en vue de la désignation des pays :
+	- **a)** le fait que ces pays sont parties à la Convention sur les réfugiés et à la Convention contre la torture;
+	- **b)** leurs politique et usages en ce qui touche la revendication du statut de réfugié au sens de la Convention sur les réfugiés et les obligations découlant de la Convention contre la torture;
+	- **c)** leurs antécédents en matière de respect des droits de la personne;
+	- **d)** le fait qu’ils sont ou non parties à un accord avec le Canada concernant le partage de la responsabilité de l’examen des demandes d’asile.
+
+**Suivi**
+
+- **(3)** Le gouverneur en conseil assure le suivi de l’examen des facteurs à l’égard de chacun des pays désignés.
+
+
+
+
+#### Interruption de l’étude de la demande d’asile
+
+
+
+**Sursis**
+
+**103** 
+
+- **(1)** La Section de la protection des réfugiés ou la Section d’appel des réfugiés sursoit à l’étude de la demande sur avis de l’agent portant que :
+	- **a)** le cas a été déféré à la Section de l’immigration pour constat d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée;
+	- **b)** il l’estime nécessaire, afin qu’il soit statué sur une accusation pour infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans.
+
+**Continuation**
+
+- **(2)** L’étude de la demande reprend sur avis portant que la demande est recevable.
+
+
+
+
+**Avis sur la recevabilité de la demande d’asile**
+
+**104** 
+
+- **(1)** L’agent donne un avis portant, en ce qui touche une demande d’asile dont la Section de protection des réfugiés est saisie ou dans le cas visé à l’alinéa d) dont la Section de protection des réfugiés ou la Section d’appel des réfugiés sont ou ont été saisies, que :
+	- **a)** il y a eu constat d’irrecevabilité au titre des alinéas 101(1)a) à e);
+	- **b)** il y a eu constat d’irrecevabilité au seul titre de l’alinéa 101(1)f);
+	- **c)** la demande n’étant pas recevable par ailleurs, la recevabilité résulte, directement ou indirectement, de présentations erronées sur un fait important quant à un objet pertinent, ou de réticence sur ce fait;
+	- **d)** la demande n’est pas la première reçue par un agent.
+
+**Classement et nullité**
+
+- **(2)** L’avis a pour effet, s’il est donné au titre :
+	- **a)** des alinéas (1)a) à c), de mettre fin à l’affaire en cours devant la Section de protection des réfugiés;
+	- **b)** de l’alinéa (1)d), de mettre fin à l’affaire en cours et d’annuler toute décision ne portant pas sur la demande initiale.
+
+
+
+
+#### Procédure d’extradition
+
+
+
+**Sursis**
+
+**105** 
+
+- **(1)** La Section de la protection des réfugiés ou la Section d’appel des réfugiés sursoit à l’étude de l’affaire si la personne est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md) pour une infraction punissable aux termes d’une loi fédérale d’un emprisonnement d’une durée maximale égale ou supérieure à dix ans tant qu’il n’a pas été statué en dernier ressort sur la demande d’extradition.
+
+**Libération**
+
+- **(2)** Si la personne est remise en liberté sans conditions, l’affaire procède comme si la procédure d’extradition n’avait jamais eu lieu.
+
+**Extradition**
+
+- **(3)** L’arrêté visant la personne incarcérée sous le régime de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md) pour l’infraction visée au paragraphe (1) est assimilé au rejet de la demande d’asile fondé sur l’alinéa b) de la section F de l’article premier de la Convention sur les réfugiés.
+
+**Décision finale**
+
+- **(4)** La décision n’est pas susceptible d’appel ni, sauf sous le régime de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md), de contrôle judiciaire.
+
+**Précision**
+
+- **(5)** La personne qui n’a pas demandé l’asile avant la date de l’arrêté d’extradition ne peut le demander dans l’intervalle entre cette date et sa remise aux termes de l’arrêté.
+
+
+
+
+#### Étrangers sans papier
+
+
+
+**Crédibilité**
+
+**106** La Section de la protection des réfugiés prend en compte, s’agissant de crédibilité, le fait que, n’étant pas muni de papiers d’identité acceptables, le demandeur ne peut raisonnablement en justifier la raison et n’a pas pris les mesures voulues pour s’en procurer.
+
+
+
+
+#### Décision sur la demande d’asile
+
+
+
+**Décision**
+
+**107** 
+
+- **(1)** La Section de la protection des réfugiés accepte ou rejette la demande d’asile selon que le demandeur a ou non la qualité de réfugié ou de personne à protéger.
+
+**Preuve**
+
+- **(2)** Si elle estime, en cas de rejet, qu’il n’a été présenté aucun élément de preuve crédible ou digne de foi sur lequel elle aurait pu fonder une décision favorable, la section doit faire état dans sa décision de l’absence de minimum de fondement de la demande.
+
+
+
+
+#### Perte de l’asile
+
+
+
+**Rejet**
+
+**108** 
+
+- **(1)** Est rejetée la demande d’asile et le demandeur n’a pas qualité de réfugié ou de personne à protéger dans tel des cas suivants :
+	- **a)** il se réclame de nouveau et volontairement de la protection du pays dont il a la nationalité;
+	- **b)** il recouvre volontairement sa nationalité;
+	- **c)** il acquiert une nouvelle nationalité et jouit de la protection du pays de sa nouvelle nationalité;
+	- **d)** il retourne volontairement s’établir dans le pays qu’il a quitté ou hors duquel il est demeuré et en raison duquel il a demandé l’asile au Canada;
+	- **e)** les raisons qui lui ont fait demander l’asile n’existent plus.
+
+**Perte de l’asile**
+
+- **(2)** L’asile visé au paragraphe 95(1) est perdu, à la demande du ministre, sur constat par la Section de protection des réfugiés, de tels des faits mentionnés au paragraphe (1).
+
+**Effet de la décision**
+
+- **(3)** Le constat est assimilé au rejet de la demande d’asile.
+
+**Exception**
+
+- **(4)** L’alinéa (1)e) ne s’applique pas si le demandeur prouve qu’il y a des raisons impérieuses, tenant à des persécutions, à la torture ou à des traitements ou peines antérieurs, de refuser de se réclamer de la protection du pays qu’il a quitté ou hors duquel il est demeuré.
+
+
+
+
+#### Annulation par la Section de la protection des réfugiés
+
+
+
+**Demande d’annulation**
+
+**109** 
+
+- **(1)** La Section de la protection des réfugiés peut, sur demande du ministre, annuler la décision ayant accueilli la demande d’asile résultant, directement ou indirectement, de présentations erronées sur un fait important quant à un objet pertinent, ou de réticence sur ce fait.
+
+**Rejet de la demande**
+
+- **(2)** Elle peut rejeter la demande si elle estime qu’il reste suffisamment d’éléments de preuve, parmi ceux pris en compte lors de la décision initiale, pour justifier l’asile.
+
+**Effet de la décision**
+
+- **(3)** La décision portant annulation est assimilée au rejet de la demande d’asile, la décision initiale étant dès lors nulle.
+
+
+
+
+#### Appel devant la Section d’appel des réfugiés
+
+
+
+**Appel**
+
+**110** 
+
+- **(1)** La personne en cause et le ministre peuvent, conformément aux règles de la Commission, en appeler — sur une question de droit, de fait ou mixte — à la Section d’appel des réfugiés de la décision de la Section de la protection des réfugiés accordant ou rejetant la demande d’asile ou la décision rejetant la demande du ministre visant soit la perte de l’asile, soit l’annulation d’une décision ayant accueilli la demande d’asile.
+
+**Restriction**
+
+- **(2)** N’est pas susceptible d’appel le prononcé de désistement ou de retrait.
+
+**Fonctionnement**
+
+- **(3)** La section procède sans tenir d’audience en se fondant sur le dossier de la Section de la protection des réfugiés, mais peut recevoir les observations écrites du ministre, de la personne en cause et du représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés, ainsi que de toute autre personne visée par les règles.
+
+
+
+
+**Décision**
+
+**111** 
+
+- **(1)** La Section d’appel des réfugiés confirme la décision attaquée, casse la décision et y substitue la décision qui aurait dû être rendue ou renvoie, conformément à ses instructions, l’affaire à la Section de la protection des réfugiés.
+
+**Renvoi**
+
+- **(2)** Elle procède au renvoi si elle estime nécessaire la tenue d’une audience ou si le résultat de l’appel du ministre, sur une question de crédibilité du demandeur, lui est favorable.
+
+
+
+
+**SECTION 3** 
+### EXAMEN DES RISQUES AVANT RENVOI
+
+
+
+#### Protection
+
+
+
+**Demande de protection**
+
+**112** 
+
+- **(1)** La personne se trouvant au Canada et qui n’est pas visée au paragraphe 115(1) peut, conformément aux règlements, demander la protection au ministre si elle est visée par une mesure de renvoi ayant pris effet ou nommée au certificat visé au paragraphe 77(1).
+
+**Exception**
+
+- **(2)** Elle n’est pas admise à demander la protection dans les cas suivants :
+	- **a)** elle est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md);
+	- **b)** sa demande d’asile a été jugée irrecevable au titre de l’alinéa 101(1)e);
+	- **c)** si elle n’a pas quitté le Canada après le rejet de sa demande de protection, le délai prévu par règlement n’a pas expiré;
+	- **d)** dans le cas contraire, six mois ne se sont pas écoulés depuis son départ consécutif soit au rejet de sa demande d’asile ou de protection, soit à un prononcé d’irrecevabilité, de désistement ou de retrait de sa demande d’asile.
+
+**Restriction**
+
+- **(3)** L’asile ne peut être conféré au demandeur dans les cas suivants :
+	- **a)** il est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou criminalité organisée;
+	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada punie par un emprisonnement d’au moins deux ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
+	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
+	- **d)** il est nommé au certificat visé au paragraphe 77(1).
+
+
+
+
+**Examen de la demande**
+
+**113** Il est disposé de la demande comme il suit :
+- **a)** le demandeur d’asile débouté ne peut présenter que des éléments de preuve survenus depuis le rejet ou qui n’étaient alors pas normalement accessibles ou, s’ils l’étaient, qu’il n’était pas raisonnable, dans les circonstances, de s’attendre à ce qu’il les ait présentés au moment du rejet;
+- **b)** une audience peut être tenue si le ministre l’estime requis compte tenu des facteurs réglementaires;
+- **c)** s’agissant du demandeur non visé au paragraphe 112(3), sur la base des articles 96 à 98;
+- **d)** s’agissant du demandeur visé au paragraphe 112(3), sur la base des éléments mentionnés à l’article 97 et, d’autre part :
+	- **(i)** soit du fait que le demandeur interdit de territoire pour grande criminalité constitue un danger pour le public au Canada,
+	- **(ii)** soit, dans le cas de tout autre demandeur, du fait que la demande devrait être rejetée en raison de la nature et de la gravité de ses actes passés ou du danger qu’il constitue pour la sécurité du Canada.
+
+
+
+
+**Effet de la décision**
+
+**114** 
+
+- **(1)** La décision accordant la demande de protection a pour effet de conférer l’asile au demandeur; toutefois, elle a pour effet, s’agissant de celui visé au paragraphe 112(3), de surseoir, pour le pays ou le lieu en cause, à la mesure de renvoi le visant.
+
+**Révocation du sursis**
+
+- **(2)** Le ministre peut révoquer le sursis s’il estime, après examen, sur la base de l’alinéa 113d) et conformément aux règlements, des motifs qui l’ont justifié, que les circonstances l’ayant amené ont changé.
+
+**Annulation de la décision**
+
+- **(3)** Le ministre peut annuler la décision ayant accordé la demande de protection s’il estime qu’elle découle de présentations erronées sur un fait important quant à un objet pertinent, ou de réticence sur ce fait.
+
+**Effet de l’annulation**
+
+- **(4)** La décision portant annulation emporte nullité de la décision initiale et la demande de protection est réputée avoir été rejetée.
+
+
+
+
+#### Principe du non-refoulement
+
+
+
+**Principe**
+
+**115** 
+
+- **(1)** Ne peut être renvoyée dans un pays où elle risque la persécution du fait de sa race, de sa religion, de sa nationalité, de son appartenance à un groupe social ou de ses opinions politiques, la torture ou des traitements ou peines cruels et inusités, la personne protégée ou la personne dont il est statué que la qualité de réfugié lui a été reconnue par un autre pays vers lequel elle peut être renvoyée.
+
+**Exclusion**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’interdit de territoire :
+	- **a)** pour grande criminalité qui, selon le ministre, constitue un danger pour le public au Canada;
+	- **b)** pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou criminalité organisée si, selon le ministre, il ne devrait pas être présent au Canada en raison soit de la nature et de la gravité de ses actes passés, soit du danger qu’il constitue pour la sécurité du Canada.
+
+**Renvoi de réfugié**
+
+- **(3)** Une personne ne peut, après prononcé d’irrecevabilité au titre de l’alinéa 101(1)e), être renvoyée que vers le pays d’où elle est arrivée au Canada sauf si le pays vers lequel elle sera renvoyée a été désigné au titre du paragraphe 102(1) ou que sa demande d’asile a été rejetée dans le pays d’où elle est arrivée au Canada.
+
+
+
+
+**Règlements**
+
+**116** Les règlements régissent l’application de la présente section et portent notamment sur la procédure applicable à la demande de protection et à une décision rendue sous le régime de l’article 115, notamment la détermination des facteurs applicables à la tenue d’une audience.
+
+
+
+
+**PARTIE 3** 
+## Exécution
+
+
+
+### Organisation d’entrée illégale au Canada
+
+
+
+**Entrée illégale**
+
+**117** 
+
+- **(1)** Commet une infraction quiconque sciemment organise l’entrée au Canada d’une ou plusieurs personnes non munies des documents — passeport, visa ou autre — requis par la présente loi ou incite, aide ou encourage une telle personne à entrer au Canada.
+
+**Peines**
+
+- **(2)** L’auteur de l’infraction visant moins de dix personnes est passible, sur déclaration de culpabilité :
+	- **a)** par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de cinq cent mille dollars et d’un emprisonnement maximal de dix ans, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende maximale de un million de dollars et d’un emprisonnement maximal de quatorze ans, ou de l’une de ces peines;
+	- **b)** par procédure sommaire, d’une amende maximale de cent mille dollars et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+
+**Peines**
+
+- **(3)** L’auteur de l’infraction visant un groupe de dix personnes et plus est passible, sur déclaration de culpabilité par mise en accusation, d’une amende maximale de un million de dollars et de l’emprisonnement à perpétuité, ou de l’une de ces peines.
+
+**Consentement du procureur général du Canada**
+
+- **(4)** Il n’est engagé aucune poursuite pour une infraction prévue au présent article sans le consentement du procureur général du Canada.
+
+
+
+
+**Trafic de personnes**
+
+**118** 
+
+- **(1)** Commet une infraction quiconque sciemment organise l’entrée au Canada d’une ou plusieurs personnes par fraude, tromperie, enlèvement ou menace ou usage de la force ou de toute autre forme de coercition.
+
+**Sens de organisation**
+
+- **(2)** Sont assimilés à l’organisation le recrutement des personnes, leur transport à destination du Canada et, après l’entrée, à l’intérieur du pays, ainsi que l’accueil et l’hébergement de celles-ci.
+
+
+
+
+**Débarquement de personnes en mer**
+
+**119** Commet une infraction celui qui débarque en mer une ou plusieurs personnes, en vue d’inciter, d’aider ou d’encourager leur entrée au Canada en contravention avec la présente loi.
+
+
+
+
+**Peines**
+
+**120** L’auteur de l’infraction visée aux articles 118 et 119 est passible, sur déclaration de culpabilité par mise en accusation, d’une amende maximale de un million de dollars et de l’emprisonnement à perpétuité, ou de l’une de ces peines.
+
+
+
+
+**Infliction de la peine**
+
+**121** 
+
+- **(1)** Le tribunal tient compte, dans l’infliction de la peine visée aux paragraphes 117(2) et (3) et à l’article 120, des facteurs suivants :
+	- **a)** la mort est survenue ou des blessures ont été infligées;
+	- **b)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle ou en association avec elle;
+	- **c)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé;
+	- **d)** la personne est soumise à tout traitement dégradant ou attentatoire à la dignité humaine, notamment en ce qui touche les activités professionnelles, la santé ou l’exploitation sexuelle.
+
+**Définition de organisation criminelle**
+
+- **(2)** On entend par organisation criminelle l’organisation dont il y a des motifs raisonnables de croire qu’elle se livre ou s’est livrée à des activités faisant partie d’un plan d’activités criminelles organisées par plusieurs personnes agissant de concert en vue de la perpétration d’une infraction à une loi fédérale punissable par mise en accusation ou de la perpétration, hors du Canada, d’une infraction qui, commise au Canada, constituerait une telle infraction.
+
+
+
+
+### Infractions relatives aux documents
+
+
+
+**Possession, utilisation ou commerce**
+
+**122** 
+
+- **(1)** Commet une infraction quiconque, en vue de contrevenir à la présente loi et s’agissant de tout document — passeport, visa ou autre, qu’il soit canadien ou étranger — pouvant ou censé établir l’identité d’une personne :
+	- **a)** l’a en sa possession;
+	- **b)** l’utilise, notamment pour entrer au Canada ou y séjourner;
+	- **c)** l’importe ou l’exporte, ou en fait le commerce.
+
+**Preuve**
+
+- **(2)** La preuve de tout fait visé au paragraphe (1) quant à un document laissé en blanc, incomplet, modifié, contrefait ou illégitime vaut, sauf preuve contraire, preuve de l’intention de contrevenir à la présente loi.
+
+
+
+
+**Peine**
+
+**123** 
+
+- **(1)** L’auteur de l’infraction visée :
+	- **a)** à l’alinéa 122(1)a) est passible, sur déclaration de culpabilité par mise en accusation, d’un emprisonnement maximal de cinq ans;
+	- **b)** aux alinéas 122(1)b) ou c) est passible, sur déclaration de culpabilité par mise en accusation, d’un emprisonnement maximal de quatorze ans.
+
+**Infliction de la peine**
+
+- **(2)** Le tribunal tient compte dans l’infliction de la peine des facteurs suivants :
+	- **a)** l’infraction a été commise au profit ou sous la direction d’une organisation criminelle — au sens du paragraphe 121(2) — ou en association avec elle;
+	- **b)** l’infraction a été commise en vue de tirer un profit, que celui-ci ait été ou non réalisé.
+
+
+
+
+### Infractions générales
+
+
+
+**Infraction générale**
+
+**124** 
+
+- **(1)** Commet une infraction quiconque :
+	- **a)** contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue ou aux conditions ou obligations imposées sous son régime;
+	- **b)** échappe ou tente d’échapper à sa détention;
+	- **c)** engage un étranger qui n’est pas autorisé en vertu de la présente loi à occuper cet emploi.
+
+**Présomption**
+
+- **(2)** Quiconque engage la personne visée à l’alinéa (1)c) sans avoir pris les mesures voulues pour connaître sa situation est réputé savoir qu’elle n’était pas autorisée à occuper l’emploi.
+
+**Disculpation**
+
+- **(3)** Est disculpée de l’infraction visée à l’alinéa (1)a) la personne visée au paragraphe 148(1) qui établit qu’elle a pris toutes les mesures voulues pour en prévenir la perpétration.
+
+
+
+
+**Peine**
+
+**125** L’auteur de l’infraction visée au paragraphe 124(1) est passible, sur déclaration de culpabilité :
+- **a)** par mise en accusation, d’une amende maximale de cinquante mille dollars et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines;
+- **b)** par procédure sommaire, d’une amende maximale de dix mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+**Infraction en matière de fausses présentations**
+
+**126** Commet une infraction quiconque, sciemment, incite, aide ou encourage ou tente d’inciter, d’aider ou d’encourager une personne à faire des présentations erronées sur un fait important quant à un objet pertinent ou de réticence sur ce fait, et de ce fait entraîne ou risque d’entraîner une erreur dans l’application de la présente loi.
+
+
+
+
+**Fausses présentations**
+
+**127** Commet une infraction quiconque sciemment :
+- **a)** fait des présentations erronées sur un fait important quant à un objet pertinent ou une réticence sur ce fait, et de ce fait entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
+- **b)** communique, directement ou indirectement, peu importe le support, des renseignements ou déclarations faux ou trompeurs en vue d’encourager ou de décourager l’immigration au Canada;
+- **c)** refuse de prêter serment ou de faire une déclaration ou une affirmation solennelle, ou encore de répondre à une question posée au cours d’un contrôle ou d’une audience.
+
+
+
+
+**Peine**
+
+**128** L’auteur de l’infraction visée aux articles 126 et 127 est passible, sur déclaration de culpabilité :
+- **a)** par mise en accusation, d’une amende maximale de cent mille dollars et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+- **b)** par procédure sommaire, d’une amende maximale de cinquante mille dollars et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+
+
+
+
+**Infractions relatives aux agents**
+
+**129** 
+
+- **(1)** Commet une infraction :
+	- **a)** l’agent et tout fonctionnaire fédéral qui, sciemment, établit ou délivre un document faux, fait une fausse déclaration, se laisse corrompre, ou contrevient sciemment aux obligations que lui impose la présente loi;
+	- **b)** quiconque corrompt un agent pour l’inciter à manquer aux obligations que la présente loi lui impose, ou conclut un accord ou un arrangement avec lui dans le même but;
+	- **c)** quiconque usurpe l’identité d’un agent ou agit, par acte ou omission, de façon à laisser croire qu’il a cette qualité;
+	- **d)** quiconque entrave l’action de l’agent dans l’exercice de ses fonctions.
+
+**Peine**
+
+- **(2)** L’auteur de l’infraction est passible, sur déclaration de culpabilité :
+	- **a)** par mise en accusation, d’une amende maximale de cinquante mille dollars et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** par procédure sommaire, d’une amende maximale de dix mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+### Produits de la criminalité
+
+
+**130** [Abrogé, 2001, ch. 32, art. 81]
+
+
+
+
+**Aide**
+
+**131** Commet une infraction quiconque, sciemment, incite, aide ou encourage ou tente d’inciter, d’aider ou d’encourager une personne à commettre l’infraction visée aux articles 117, 118, 119, 122, 124 ou 129 ou conseille de la commettre ou complote à cette fin ou est un complice après le fait; l’auteur est passible, sur déclaration de culpabilité de la peine prévue à la disposition en cause.
+> 2001, ch. 27, art. 131, ch. 32, art. 81.
+
+
+
+
+**132** [Abrogé, 2001, ch. 32, art. 81]
+
+
+
+
+### Règles visant les poursuites
+
+
+
+**Immunité**
+
+**133** L’auteur d’une demande d’asile ne peut, tant qu’il n’est statué sur sa demande, ni une fois que l’asile lui est conféré, être accusé d’une infraction visée à l’article 122, à l’alinéa 124(1)a) ou à l’article 127 de la présente loi et à l’article 57, à l’alinéa 340c) ou aux articles 354, 366, 368, 374 ou 403 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dès lors qu’il est arrivé directement ou indirectement au Canada du pays duquel il cherche à être protégé et à la condition que l’infraction ait été commise à l’égard de son arrivée au Canada.
+
+
+
+
+**Défense : incorporation par renvoi**
+
+**134** Aucune sanction ne peut découler de la contravention à un règlement dans laquelle un document est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant pouvait avoir accès au document, les mesures voulues avaient été prises pour que les intéressés puissent y avoir accès ou que celui-ci était publié dans la Gazette du Canada.
+
+
+
+
+**Infraction commise à l’étranger**
+
+**135** L’auteur d’une infraction à la présente loi, même commise à l’étranger, peut être jugé et condamné au Canada.
+
+
+
+
+**Compétence territoriale : infraction commise au Canada**
+
+**136** 
+
+- **(1)** La poursuite de l’infraction peut être intentée, entendue ou jugée, au Canada, au lieu de la perpétration ou au lieu où l’accusé se trouve ou au lieu où celui-ci exerce ses activités.
+
+**Perpétration à l’étranger**
+
+- **(2)** La poursuite de l’infraction commise à l’étranger peut être intentée, entendue et jugée sur tout le territoire canadien.
+
+
+
+
+### Confiscation
+
+
+
+**Confiscation**
+
+**137** 
+
+- **(1)** Sur déclaration de culpabilité de l’auteur de l’infraction à la présente loi, le tribunal peut prononcer, en sus de la peine infligée, la confiscation au profit de Sa Majesté du chef du Canada des biens infractionnels saisis relativement à l’infraction.
+
+**Règlements**
+
+- **(2)** Les règlements régissent l’application du présent article, définissent le terme ***biens infractionnels*** et portent notamment sur la remise des biens confisqués à leur propriétaire légitime, la disposition des biens confisqués et l’affectation du produit de leur aliénation.
+
+
+
+
+### Agents d’application de la loi
+
+
+
+**Attributions d’agent de la paix**
+
+**138** 
+
+- **(1)** L’agent détient, sur autorisation à cet effet, les attributions d’un agent de la paix, et notamment celles visées aux articles 487 à 492.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pour faire appliquer la présente loi, notamment en ce qui touche l’arrestation, la détention et le renvoi hors du Canada.
+
+**Assistance temporaire**
+
+- **(2)** En cas d’urgence, l’agent peut requérir l’assistance dans l’exercice de ses fonctions d’une ou de plusieurs personnes, lesquelles peuvent exercer les attributions de l’agent pour une période maximale, sauf autorisation du ministre, de quarante-huit heures.
+
+
+
+
+**Fouille**
+
+**139** 
+
+- **(1)** L’agent peut fouiller la personne qui cherche à entrer au Canada, ainsi que ses bagages et le moyen de transport où elle se trouve, s’il a des motifs raisonnables de croire :
+	- **a)** qu’elle ne lui a pas révélé son identité ou dissimule sur elle ou près d’elle des documents relatifs à son entrée et à son séjour au Canada;
+	- **b)** qu’elle a commis une infraction visée aux articles 117, 118 ou 122 ou a en sa possession des documents qui peuvent servir à commettre une telle infraction.
+
+**Obligation de l’identité de sexe**
+
+- **(2)** La fouille doit être effectuée par un agent du même sexe que la personne fouillée; faute de collègue du même sexe sur le lieu de la fouille, l’agent peut autoriser toute personne de ce sexe présentant les qualités voulues à y procéder.
+
+
+
+
+**Saisie**
+
+**140** 
+
+- **(1)** L’agent peut saisir et retenir tous moyens de transport, documents ou autres objets s’il a des motifs raisonnables de croire que la mesure est nécessaire en vue de l’application de la présente loi ou qu’ils ont été obtenus ou utilisés irrégulièrement ou frauduleusement, ou que la mesure est nécessaire pour en empêcher l’utilisation irrégulière ou frauduleuse.
+
+**Précision**
+
+- **(2)** Par dérogation au paragraphe 42(2) de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md), tout objet ou document détenu sous le régime de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et saisi par un agent n’est pas en cours de transmission postale.
+
+**Règlements**
+
+- **(3)** Les règlements régissent l’application du présent article et portent notamment sur le dépôt d’une garantie en remplacement des biens saisis, la remise des biens saisis à leur propriétaire légitime et la disposition de ces biens.
+
+
+
+
+**Preuve**
+
+**141** L’agent peut faire prêter serment et recueillir des témoignages ou éléments de preuve sous serment dans toute affaire relevant de la présente loi.
+
+
+
+
+### Agents de la paix
+
+
+
+**Obligations**
+
+**142** Les agents de la paix et les responsables immédiats d’un poste d’attente doivent, sur ordre de l’agent, exécuter les mesures — mandats et autres décisions écrites — prises au titre de la présente loi — en vue de l’arrestation, de la garde ou du renvoi.
+
+
+
+
+**Pouvoir d’exécuter des mandats et des mesures**
+
+**143** Par dérogation à toute autre règle de droit, les mandats ou mesures de mise en détention pris en vertu de la présente loi confèrent à leur destinataire ou à leur exécutant le pouvoir d’arrêter et de détenir la personne qui y est visée.
+
+
+
+
+### Contraventions
+
+
+
+**Poursuite des infractions désignées**
+
+**144** 
+
+- **(1)** En plus des modes de poursuite prévus par la présente loi et au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), les poursuites à l’égard des infractions désignées par règlement peuvent être intentées conformément au présent article.
+
+**Formulaire de contravention**
+
+- **(2)** L’agent :
+	- **a)** remplit les deux parties — sommation et dénonciation — du formulaire de contravention;
+	- **b)** remet la sommation à l’accusé ou la lui envoie par la poste à sa dernière adresse connue;
+	- **c)** dépose la dénonciation auprès du tribunal compétent avant, ou dès que possible après, la remise ou l’envoi par la poste de la sommation.
+
+**Contenu du formulaire**
+
+- **(3)** Les deux parties du formulaire comportent, outre ceux prévus par règlement, les éléments suivants :
+	- **a)** description de l’infraction et mention du lieu et du moment où elle aurait été commise;
+	- **b)** attestation par l’autorité selon laquelle elle a des motifs raisonnables de croire que l’accusé a commis l’infraction;
+	- **c)** mention du montant de l’amende prévue pour l’infraction, ainsi que du mode et du délai de paiement;
+	- **d)** avertissement précisant qu’en cas de paiement de l’amende dans le délai fixé, une déclaration de culpabilité sera inscrite au dossier de l’accusé;
+	- **e)** mention du fait que, en cas de plaidoyer de non-culpabilité ou de non-paiement de l’amende dans le délai fixé, l’accusé est tenu de comparaître au tribunal, au lieu, au jour et à l’heure indiqués.
+
+**Conséquences du paiement**
+
+- **(4)** Le paiement de l’amende dans le délai fixé constitue un plaidoyer de culpabilité à l’égard de l’infraction visée; dès lors :
+	- **a)** une déclaration de culpabilité est inscrite au dossier de l’accusé; aucune autre poursuite ne peut alors être intentée contre lui à l’égard de cette infraction;
+	- **b)** les objets saisis entre les mains de l’accusé en rapport avec l’infraction ou le produit de leur aliénation sont confisqués au profit de Sa Majesté du chef du Canada et il en est disposé suivant les instructions du ministre.
+
+**Règlements**
+
+- **(5)** Les règlements régissent l’application du présent article et prévoient notamment les infractions visées au paragraphe (1), ainsi que la façon de les décrire dans le formulaire de contravention et le montant — plafonné à dix mille dollars — de l’amende applicable.
+
+
+
+
+### Créances de Sa Majesté
+
+
+
+**Créances**
+
+**145** 
+
+- **(1)** Constitue une créance de Sa Majesté du chef du Canada payable sur demande :
+	- **a)** le montant supporté par celle-ci à la place de celui à qui il incombe aux termes de la présente loi;
+	- **b)** le montant qu’une personne s’est engagée à payer à titre de cautionnement ou en garantie de la bonne exécution de la présente loi;
+	- **c)** le montant des frais engagés pour le renvoi d’un étranger visé par règlement;
+	- **d)** le montant exigible au titre de l’article 147 à compter du défaut;
+	- **e)** tout montant visé à l’alinéa 148(1)g).
+
+**Créance : répondants**
+
+- **(2)** Sous réserve de tout accord fédéro-provincial, le montant que le répondant s’est engagé à payer au titre d’un engagement est payable sur demande et constitue une créance de Sa Majesté du chef du Canada et de Sa Majesté du chef de la province que l’une ou l’autre, ou les deux, peut recouvrer.
+
+**Recouvrement**
+
+- **(3)** Le recouvrement de la créance n’est pas affecté par le seul écoulement du temps.
+
+
+
+
+### Exécution des créances
+
+
+
+**Certificat**
+
+**146** 
+
+- **(1)** Le montant de tout ou partie d’une somme payable au titre de la présente loi et en souffrance peut être constaté par certificat du ministre sans délai, s’il est d’avis que le débiteur tente d’éluder le paiement, sinon, trente jours francs après le défaut.
+
+**Jugement**
+
+- **(2)** Le certificat est déposé et enregistré à la Cour fédérale et est dès lors assimilé à un jugement de cette juridiction pour une dette du montant qui y est spécifié, majoré des intérêts prévus par la présente loi jusqu’à la date du paiement.
+
+**Frais**
+
+- **(3)** Les frais engagés pour l’enregistrement sont recouvrables de la même manière que s’ils avaient été eux-mêmes constatés par le certificat.
+
+
+
+
+**Saisie-arrêt**
+
+**147** 
+
+- **(1)** S’il estime qu’une personne doit ou va bientôt devoir verser une somme à une personne tenue d’effectuer un versement au titre de la présente loi, le ministre peut, par avis écrit, ordonner que celle-ci remette au receveur général, pour imputation sur ce versement, tout ou partie des sommes payables à cette autre personne.
+
+**Ordre valable pour versements à venir**
+
+- **(2)** Dans le cas d’un employeur, l’ordre vaut pour tous les versements de rémunération à faire jusqu’à extinction de la dette, l’intéressé devant remettre au receveur général, par prélèvement sur chacun des versements de rémunération, la somme mentionnée dans l’avis.
+
+**Quittance**
+
+- **(3)** Le reçu du ministre constitue une quittance valable et suffisante de l’obligation envers le débiteur de Sa Majesté, à concurrence du versement.
+
+**Règlements**
+
+- **(4)** Les règlements régissent l’application du présent article.
+
+
+
+
+### Propriétaires et exploitants de véhicules et d’installations de transport
+
+
+
+**Obligations des transporteurs**
+
+**148** 
+
+- **(1)** Le propriétaire ou l’exploitant d’un véhicule ou d’une installation de transport, et leur mandataire, sont tenus, conformément aux règlements, aux obligations suivantes :
+	- **a)** ne pas amener au Canada la personne visée par règlement, celle qui n’est pas munie des documents réglementaires ou celle qu’il désigne;
+	- **b)** présenter la personne qu’il amène au Canada et les documents réglementaires au contrôle et la détenir jusqu’à la fin de celui-ci;
+	- **c)** veiller à la mise en observation ou sous traitement des personnes qu’il amène au Canada;
+	- **d)** fournir les documents, rapports et renseignements requis;
+	- **e)** fournir des installations pour le contrôle des personnes amenées au Canada;
+	- **f)** sur avis ou dans les cas prévus par règlement faire sortir du Canada la personne qu’il a amenée ou fait amener;
+	- **g)** payer les frais prévus par règlement pour l’application des alinéas a), b), c) et f);
+	- **h)** fournir une garantie en vue de l’exécution de ses obligations.
+
+**Saisie**
+
+- **(2)** La sûreté qu’il a fournie et tout véhicule ou marchandise peuvent, si l’intéressé contrevient aux obligations prévues par la présente loi, être retenus, saisis et confisqués au profit de Sa Majesté du chef du Canada.
+
+
+
+
+**Utilisation des renseignements**
+
+**149** Les dispositions suivantes s’appliquent à l’alinéa 148(1)d) :
+- **a)** les renseignements ne peuvent être utilisés que dans l’application de la présente loi ou en vue d’identifier l’individu sous le coup d’un mandat d’arrestation délivré au Canada;
+- **b)** l’utilisation doit être notifiée à l’intéressé.
+
+
+
+
+**Règlements**
+
+**150** Les règlements régissent l’application des articles 148 et 149, définissent, pour l’application de la présente loi, les termes de ces articles et portent notamment sur :
+- **a)** les exigences et procédures applicables aux propriétaires ou exploitants de véhicules ou d’installations de transport;
+- **b)** les frais auxquels ils sont tenus;
+- **c)** les suites à donner aux saisies de véhicules ou d’installations;
+- **d)** la procédure de recouvrement du véhicule ou de l’installation par son véritable propriétaire ou exploitant.
+
+
+
+
+**PARTIE 4** 
+## Commission de l’immigration et du statut de réfugié
+
+
+
+### Composition de la Commission
+
+
+
+**Commission de l’immigration et du statut de réfugié**
+
+**151** La Commission de l’immigration et du statut de réfugié est formée de quatre sections : Section de la protection des réfugiés, Section d’appel des réfugiés, Section de l’immigration, Section d’appel de l’immigration.
+
+
+
+
+**Composition**
+
+**152** La Commission se compose du président et des autres commissaires nécessaires à l’exécution de ses travaux.
+
+
+
+
+**Président et commissaires**
+
+**153** 
+
+- **(1)** Pour ce qui est du président et des commissaires de la Section de la protection des réfugiés, de la Section d’appel des réfugiés et de la Section d’appel de l’immigration :
+	- **a)** ils sont nommés à la Commission à titre inamovible pour un mandat maximal de sept ans par le gouverneur en conseil, sous réserve de révocation motivée de sa part, à tel de ses bureaux régionaux ou de district;
+	- **b)** ils prêtent le serment professionnel ou la déclaration dont le texte figure aux règles de la Commission;
+	- **c)** ils peuvent recevoir un nouveau mandat, à des fonctions identiques ou non;
+	- **d)** ils reçoivent le traitement fixé par le gouverneur en conseil;
+	- **e)** ils ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail, s’ils sont nommés à temps plein, ou de résidence, s’ils le sont à temps partiel;
+	- **f)** ils sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
+	- **g)** ils ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec leurs fonctions;
+	- **h)** ceux nommés à temps plein se consacrent exclusivement à l’exécution des fonctions qui leur sont conférées par la présente loi.
+
+**Vice-présidents et adjoints**
+
+- **(2)** Le vice-président de chacune des sections visées au paragraphe (1) et au plus dix vice-présidents adjoints sont choisis par le gouverneur en conseil parmi les commissaires nommés à temps plein.
+
+**Exercice des fonctions**
+
+- **(3)** Le président, les vice-présidents et les vice-présidents adjoints exercent leurs fonctions à temps plein et les autres commissaires visés au paragraphe (1), à temps plein ou à temps partiel.
+
+**Qualité**
+
+- **(4)** Le vice-président de la Section d’appel de l’immigration, la majorité des vice-présidents adjoints de cette section et au moins dix pour cent des commissaires visés au paragraphe (1) sont obligatoirement inscrits, depuis au moins cinq ans, au barreau d’une province ou membres de la Chambre des notaires du Québec.
+
+
+
+
+**Démissionnaires**
+
+**154** Le président peut demander à l’ancien commissaire de participer, dans les huit semaines suivant la cessation de ses fonctions, aux décisions à rendre sur les affaires qu’il avait entendues; il conserve alors sa qualité.
+
+
+
+
+**Empêchement**
+
+**155** En cas d’empêchement d’un des membres d’un tribunal de trois commissaires ayant instruit une affaire, les autres peuvent rendre la décision et, à cette fin, sont censés constituer la section en cause.
+
+
+
+
+**Immunité et incontraignabilité**
+
+**156** Dans l’exercice effectif ou censé tel de leurs fonctions, le président et les commissaires bénéficient de l’immunité civile et pénale pour les faits — actes ou omissions — accomplis et des énonciations faites de bonne foi et ne sont, au civil, ni habiles à témoigner ni contraignables.
+
+
+
+
+### Siège et personnel
+
+
+
+**Siège**
+
+**157** 
+
+- **(1)** La Commission a son siège dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+
+**Résidence : président**
+
+- **(2)** Le président doit résider dans cette région ou dans un lieu suffisamment proche.
+
+
+
+
+**Personnel**
+
+**158** Le secrétaire général et le personnel nécessaire à l’exécution des travaux de la Commission sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), ce dernier étant réputé appartenir à la fonction publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+
+
+
+
+### Présidence de la Commission
+
+
+
+**Fonctions**
+
+**159** 
+
+- **(1)** Le président est le premier dirigeant de la Commission ainsi que membre d’office des quatre sections; à ce titre :
+	- **a)** il assure la direction et contrôle la gestion des activités et du personnel de la Commission;
+	- **b)** il peut assigner les commissaires nommés au titre de l’alinéa 153(1)a) à la Section de la protection des réfugiés, à la Section d’appel des réfugiés et à la Section d’appel de l’immigration;
+	- **c)** il peut, malgré l’alinéa 153(1)a) et s’il l’estime nécessaire pour le fonctionnement de la Commission, affecter les commissaires, autres que ceux de la Section de l’immigration, à tout bureau régional ou de district pour une période maximale, sauf autorisation du gouverneur en conseil, de quatre-vingt-dix jours;
+	- **d)** il choisit parmi les commissaires à temps plein des commissaires coordonnateurs qu’il affecte à telle des sections autres que la Section de l’immigration;
+	- **e)** il confie des fonctions administratives aux commissaires;
+	- **f)** il répartit les affaires entre les commissaires et fixe les lieux, dates et heures des séances;
+	- **g)** il prend les mesures nécessaires pour que les commissaires remplissent leurs fonctions avec diligence et efficacité;
+	- **h)** après consultation des vice-présidents et du directeur général de la Section de l’immigration et en vue d’aider les commissaires dans l’exécution de leurs fonctions, il donne des directives écrites aux commissaires et précise les décisions de la Commission qui serviront de guide jurisprudentiel;
+	- **i)** il engage des experts compétents dans les domaines relevant du champ d’activité des sections et, avec l’agrément du Conseil du Trésor, fixe leur rémunération.
+
+**Délégation**
+
+- **(2)** Le président peut déléguer ses pouvoirs aux commissaires, autres que ceux de la Section de l’immigration, ceux prévus aux alinéas (1)a) et i) au secrétaire général de la Commission et ceux en matière d’immigration au directeur général et aux directeurs et aux commissaires de la Section de l’immigration, ceux prévus au paragraphe 161(1) ne pouvant être délégués.
+
+
+
+
+**Cas d’absence ou d’empêchement**
+
+**160** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le ministre peut autoriser un des vice-présidents, ou tout autre commissaire qu’il estime indiqué, à exercer la présidence.
+
+
+
+
+### Fonctionnement
+
+
+
+**Règles**
+
+**161** 
+
+- **(1)** Sous réserve de l’agrément du gouverneur en conseil et en consultation avec les vice-présidents et le directeur général de la Section de l’immigration, le président peut prendre des règles visant :
+	- **a)** les travaux, la procédure et la pratique des sections, et notamment les délais pour interjeter appel de leurs décisions, l’ordre de priorité pour l’étude des affaires et les préavis à donner, ainsi que les délais afférents;
+	- **b)** la conduite des personnes dans les affaires devant la Commission, ainsi que les conséquences et sanctions applicables aux manquements aux règles de conduite;
+	- **c)** la teneur, la forme, le délai de présentation et les modalités d’examen des renseignements à fournir dans le cadre d’une affaire dont la Commission est saisie;
+	- **d)** toute autre mesure nécessitant, selon lui, la prise de règles.
+
+**Dépôt devant le Parlement**
+
+- **(2)** Le ministre fait déposer le texte des règles devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant leur agrément par le gouverneur en conseil.
+
+
+
+
+### Attributions communes
+
+
+
+**Compétence exclusive**
+
+**162** 
+
+- **(1)** Chacune des sections a compétence exclusive pour connaître des questions de droit et de fait — y compris en matière de compétence — dans le cadre des affaires dont elle est saisie.
+
+**Fonctionnement**
+
+- **(2)** Chacune des sections fonctionne, dans la mesure où les circonstances et les considérations d’équité et de justice naturelle le permettent, sans formalisme et avec célérité.
+
+
+
+
+**Composition des tribunaux**
+
+**163** Les affaires sont tenues devant un seul commissaire sauf si, exception faite de la Section de l’immigration, le président estime nécessaire de constituer un tribunal de trois commissaires.
+
+
+
+
+**Présence des parties**
+
+**164** Les audiences des sections peuvent être tenues en présence de la personne en cause ou en direct par l’intermédiaire d’un moyen de télécommunication.
+
+
+
+
+**Pouvoir d’enquête**
+
+**165** La Section de la protection des réfugiés et la Section de l’immigration et chacun de ses commissaires sont investis des pouvoirs d’un commissaire nommé aux termes de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) et peuvent prendre les mesures que ceux-ci jugent utiles à la procédure.
+
+
+
+
+**Séances**
+
+**166** S’agissant des séances des sections :
+- **a)** elles sont, en principe, tenues en public;
+- **b)** sur demande ou d’office, la section peut accorder le huis clos ou toute autre mesure jugée nécessaire pour assurer la confidentialité des débats sur preuve, après examen de toutes les solutions de rechange à sa disposition, que, selon le cas :
+	- **(i)** il y a une sérieuse possibilité que la vie, la liberté ou la sécurité d’une personne puisse être mise en danger par la publicité des débats,
+	- **(ii)** il y a un risque sérieux d’atteinte au droit à une procédure équitable de sorte que la nécessité d’empêcher la divulgation de renseignements l’emporte sur l’intérêt qu’a la société à la publicité des débats,
+	- **(iii)** il y a un risque sérieux de divulgation de questions touchant la sécurité publique;
+- **c)** les affaires intéressant le demandeur d’asile devant la Section de la protection des réfugiés et la Section de l’immigration et les demandes d’annulation et de constat de perte sont tenues à huis clos, ainsi que celles devant la Section d’appel des réfugiés;
+- **d)** toutefois, sur demande ou d’office, la publicité des débats peut être accordée, assortie de toute mesure jugée nécessaire pour assurer la confidentialité des débats, sur preuve, après examen de toutes les solutions de rechange à la disposition de la section et des facteurs visés à l’alinéa b), qu’il est indiqué de le faire;
+- **e)** malgré les alinéas b) et c) le représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés peut participer à titre d’observateur aux séances touchant les demandeurs d’asile ou les personnes protégées;
+- **f)** il ne peut toutefois participer à tout ou partie des séances où sont en cause des renseignements qui font l’objet d’une demande d’interdiction de divulgation au titre du paragraphe 86(1), tant qu’elle n’est pas rejetée, ou dont la divulgation a été interdite.
+
+
+
+
+**Conseil**
+
+**167** 
+
+- **(1)** L’intéressé peut en tout cas se faire représenter devant la Commission, à ses frais, par un avocat ou un autre conseil.
+
+**Représentation**
+
+- **(2)** Est commis d’office un représentant à l’intéressé qui n’a pas dix-huit ans ou n’est pas, selon la section, en mesure de comprendre la nature de la procédure.
+
+
+
+
+**Désistement**
+
+**168** 
+
+- **(1)** Chacune des sections peut prononcer le désistement dans l’affaire dont elle est saisie si elle estime que l’intéressé omet de poursuivre l’affaire, notamment par défaut de comparution, de fournir les renseignements qu’elle peut requérir ou de donner suite à ses demandes de communication.
+
+**Abus de procédure**
+
+- **(2)** Chacune des sections peut refuser le retrait de l’affaire dont elle est saisie si elle constate qu’il y a abus de procédure, au sens des règles, de la part de l’intéressé.
+
+
+
+
+**Décisions**
+
+**169** Les dispositions qui suivent s’appliquent aux décisions, autres qu’interlocutoires, des sections :
+- **a)** elles prennent effet conformément aux règles;
+- **b)** elles sont motivées;
+- **c)** elles sont rendues oralement ou par écrit, celles de la Section d’appel des réfugiés devant toutefois être rendues par écrit;
+- **d)** le rejet de la demande d’asile par la Section de la protection des réfugiés est motivé par écrit et les motifs sont transmis au demandeur et au ministre;
+- **e)** les motifs écrits sont transmis à la personne en cause et au ministre sur demande faite dans les dix jours suivant la notification ou dans les cas prévus par les règles de la Commission;
+- **f)** les délais de contrôle judiciaire courent à compter du dernier en date des faits suivants : notification de la décision et transmission des motifs écrits.
+
+
+
+
+### Section de la protection des réfugiés
+
+
+
+**Fonctionnement**
+
+**170** Dans toute affaire dont elle est saisie, la Section de la protection des réfugiés :
+- **a)** procède à tous les actes qu’elle juge utiles à la manifestation du bien-fondé de la demande;
+- **b)** dispose de celle-ci par la tenue d’une audience;
+- **c)** convoque la personne en cause et le ministre;
+- **d)** transmet au ministre, sur demande, les renseignements et documents fournis au titre du paragraphe 100(4);
+- **e)** donne à la personne en cause et au ministre la possibilité de produire des éléments de preuve, d’interroger des témoins et de présenter des observations;
+- **f)** peut accueillir la demande d’asile sans qu’une audience soit tenue si le ministre ne lui a pas, dans le délai prévu par les règles, donné avis de son intention d’intervenir;
+- **g)** n’est pas liée par les règles légales ou techniques de présentation de la preuve;
+- **h)** peut recevoir les éléments qu’elle juge crédibles ou dignes de foi en l’occurrence et fonder sur eux sa décision;
+- **i)** peut admettre d’office les faits admissibles en justice et les faits généralement reconnus et les renseignements ou opinions qui sont du ressort de sa spécialisation.
+
+
+
+
+### Section d’appel des réfugiés
+
+
+
+**Procédure**
+
+**171** S’agissant de la Section d’appel des réfugiés :
+- **a)** le ministre peut, sur avis donné conformément aux règles, intervenir à l’appel, notamment pour y déposer ses observations;
+- **b)** la section peut admettre d’office les faits admissibles en justice et les faits généralement reconnus et les renseignements ou opinions qui sont du ressort de sa spécialisation;
+- **c)** la décision du tribunal constitué de trois commissaires a la même valeur de précédent pour le tribunal constitué d’un commissaire unique et la Section de protection des réfugiés que celle d’une cour d’appel a pour une cour de première instance.
+
+
+
+
+### Section de l’immigration
+
+
+
+**Composition**
+
+**172** 
+
+- **(1)** La Section de l’immigration se compose du directeur général, des directeurs et des commissaires, nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), nécessaires à l’exercice de sa juridiction.
+
+**Précision**
+
+- **(2)** Le directeur général et les directeurs peuvent exercer les fonctions des commissaires de la Section de l’immigration.
+
+
+
+
+**Fonctionnement**
+
+**173** Dans toute affaire dont elle est saisie, la Section de l’immigration :
+- **a)** dispose de celle-ci, dans la mesure du possible, par la tenue d’une audience;
+- **b)** convoque la personne en cause et le ministre à une audience et la tient dans les meilleurs délais;
+- **c)** n’est pas liée par les règles légales ou techniques de présentation de la preuve;
+- **d)** peut recevoir les éléments qu’elle juge crédibles ou dignes de foi en l’occurrence et fonder sur eux sa décision.
+
+
+
+
+### Section d’appel de l’immigration
+
+
+
+**Cour d’archives**
+
+**174** 
+
+- **(1)** La Section d’appel de l’immigration est une cour d’archives; elle a un sceau officiel dont l’authenticité est admise d’office.
+
+**Pouvoirs**
+
+- **(2)** La Section d’appel a les attributions d’une juridiction supérieure sur toute question relevant de sa compétence et notamment pour la comparution et l’interrogatoire des témoins, la prestation de serment, la production et l’examen des pièces, ainsi que l’exécution de ses décisions.
+
+
+
+
+**Fonctionnement**
+
+**175** 
+
+- **(1)** Dans toute affaire dont elle est saisie, la Section d’appel de l’immigration :
+	- **a)** dispose de l’appel formé au titre du paragraphe 63(4) par la tenue d’une audience;
+	- **b)** n’est pas liée par les règles légales ou techniques de présentation de la preuve;
+	- **c)** peut recevoir les éléments qu’elle juge crédibles ou dignes de foi en l’occurrence et fonder sur eux sa décision.
+
+**Comparution du résident permanent**
+
+- **(2)** Pour l’appel formé au titre du paragraphe 63(4), la section peut, le ministre et le résident permanent ayant été entendus et la nécessité de la présence de ce dernier ayant été prouvée, ordonner sa comparution; l’agent délivre alors un titre de voyage à cet effet.
+
+
+
+
+### Mesures correctives et disciplinaires
+
+
+
+**Demande**
+
+**176** 
+
+- **(1)** Le président peut demander au ministre de décider si des mesures correctives ou disciplinaires s’imposent à l’égard d’un commissaire non rattaché à la Section de l’immigration.
+
+**Motifs de la demande**
+
+- **(2)** La demande est fondée sur le fait que le commissaire n’est plus en état de s’acquitter efficacement de ses fonctions pour cause d’invalidité, s’est rendu coupable de manquement à l’honneur ou à la dignité, a manqué aux devoirs de sa charge ou s’est placé en situation d’incompatibilité, par sa propre faute ou pour toute autre cause.
+
+
+
+
+**Mesures**
+
+**177** Le ministre peut, sur réception de la demande, prendre telle des mesures suivantes :
+- **a)** obtenir de façon expéditive et sans formalités les renseignements qu’il estime nécessaires;
+- **b)** soumettre la question à la médiation s’il estime que celle-ci peut ainsi être réglée de façon satisfaisante;
+- **c)** demander au gouverneur en conseil la tenue de l’enquête prévue à l’article 178;
+- **d)** informer le président qu’il n’estime pas nécessaire de prendre de mesure au titre du présent article et des articles 178 à 185.
+
+
+
+
+**Nomination d’un enquêteur**
+
+**178** Saisi de la demande prévue à l’alinéa 177c), le gouverneur en conseil peut, sur recommandation du ministre de la Justice, nommer à titre d’enquêteur un juge d’une juridiction supérieure.
+
+
+
+
+**Pouvoirs d’enquête**
+
+**179** L’enquêteur a alors les attributions d’une juridiction supérieure; il peut notamment :
+- **a)** par citation adressée aux personnes ayant connaissance des faits se rapportant à l’affaire dont il est saisi, leur enjoindre de comparaître comme témoins aux date, heure et lieu indiqués et de produire tous documents ou autres pièces, utiles à l’affaire, dont elles ont la possession ou la responsabilité;
+- **b)** faire prêter serment et interroger sous serment.
+
+
+
+
+**Personnel**
+
+**180** L’enquêteur peut retenir les services des experts, avocats ou autres personnes dont il estime le concours utile pour l’enquête, définir leurs fonctions et leurs conditions d’emploi et, avec l’approbation du Conseil du Trésor, fixer et payer leur rémunération et leurs frais.
+
+
+
+
+**Enquête en public**
+
+**181** 
+
+- **(1)** L’enquête est publique, mais l’enquêteur peut, sur demande, prendre toute mesure ou rendre toute ordonnance visant à en assurer la confidentialité sur preuve, après examen de toutes les solutions de rechange à sa disposition, que, selon le cas :
+	- **a)** il y a un risque sérieux de divulgation de questions touchant la sécurité publique;
+	- **b)** il y a un risque sérieux d’atteinte au droit à une enquête équitable de sorte que la nécessité d’empêcher la divulgation de renseignements l’emporte sur l’intérêt qu’a la société à ce que l’enquête soit publique;
+	- **c)** il y a une sérieuse possibilité que la vie, la liberté ou la sécurité d’une personne puisse être mise en danger par la publicité des débats.
+
+**Confidentialité de la demande**
+
+- **(2)** L’enquêteur peut, s’il l’estime indiqué, prendre toute mesure ou rendre toute ordonnance qu’il juge nécessaire pour assurer la confidentialité de la demande.
+
+
+
+
+**Règles de preuve**
+
+**182** 
+
+- **(1)** L’enquêteur n’est pas lié par les règles juridiques ou techniques de présentation de la preuve. Il peut recevoir les éléments qu’il juge crédibles ou dignes de foi en l’occurrence et fonder sur eux ses conclusions.
+
+**Intervenant**
+
+- **(2)** L’enquêteur peut, par ordonnance, accorder à tout intervenant la qualité pour agir à l’enquête, selon les modalités qu’il estime indiquées.
+
+
+
+
+**Avis de l’audition**
+
+**183** Le commissaire en cause doit être informé, suffisamment à l’avance, de l’objet de l’enquête, ainsi que des date, heure et lieu de l’audition, et avoir la possibilité de se faire entendre, de contre-interroger les témoins et de présenter tous éléments de preuve utiles à sa décharge, personnellement ou par procureur.
+
+
+
+
+**Rapport au ministre**
+
+**184** 
+
+- **(1)** À l’issue de l’enquête, l’enquêteur présente au ministre un rapport faisant état de ses conclusions.
+
+**Recommandations**
+
+- **(2)** Il peut, dans son rapport, recommander la révocation, la suspension sans traitement ou toute autre mesure disciplinaire ou toute mesure corrective s’il conclut que le commissaire en cause est visé par un des faits mentionnés au paragraphe 176(2).
+
+
+
+
+**Transmission du dossier**
+
+**185** Le cas échéant, le ministre transmet le rapport au gouverneur en conseil qui peut, s’il l’estime indiqué, révoquer le membre en cause, le suspendre sans traitement ou imposer à son égard toute autre mesure disciplinaire ou toute mesure corrective.
+
+
+
+
+**Précision**
+
+**186** Les articles 176 à 185 n’ont pas pour effet de modifier les attributions du gouverneur en conseil en ce qui touche la révocation des commissaires.
+
+
+
+
+**PARTIE 5** 
+## Dispositions transitoires, modifications corrélatives, disposition de coordination, abrogations et entrée en vigueur
+
+
+
+### Dispositions transitoires
+
+
+
+**Définition de ancienne loi**
+
+**187** Aux articles 188 à 201, ***ancienne loi*** s’entend de la Loi sur l’immigration, chapitre I-2 des Lois révisées du Canada (1985) et, le cas échéant, des textes d’application — règlements, règles ou autres — pris sous son régime.
+
+
+
+
+**Prorogation**
+
+**188** 
+
+- **(1)** Est prorogée la Commission de l’immigration et du statut de réfugié prorogée par l’article 57 de l’ancienne loi.
+
+**Président et vice-présidents**
+
+- **(2)** Le président, les vice-présidents et les vice-présidents adjoints nommés au titre de l’ancienne loi sont maintenus en poste à la Commission dans leurs fonctions jusqu’à l’expiration ou à la révocation de leur mandat.
+
+**Maintien en poste : membres**
+
+- **(3)** Les membres nommés à la section du statut de réfugié ou à la section d’appel de l’immigration au titre de l’ancienne loi sont maintenus en poste à la Commission jusqu’à l’expiration ou à la révocation de leur mandat.
+
+**Maintien en poste : directeurs**
+
+- <sup><a href='#I-2.5_fr_1'>[*]</a></sup>**(4)** La personne qui, à l’entrée en vigueur du présent article, exerce la charge de directeur général de la Commission est maintenue en poste sous le titre de secrétaire général de la Commission comme si elle était nommée à cette charge sous le régime de l’article 158, sans qu’il soit porté atteinte à la rémunération ou aux avantages qui découlent de l’exercice de sa charge avant cette entrée en vigueur.
+
+<a name='I-2.5_fr_1'><sup>*</sup></a>: [Note : Article 188 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Pouvoirs**
+
+<sup><a href='#I-2.5_fr_2'>[*]</a></sup>**189** Les articles 94.6, 102.001 à 102.003 et 107.1 de l’ancienne loi sont, malgré l’alinéa 274a), réputés ne pas être abrogés et le ministre peut exercer les pouvoirs qui y sont mentionnés en ce qui touche les entreprises ou les fonds agréés par lui avant l’entrée en vigueur de l’alinéa 274a).
+
+<a name='I-2.5_fr_2'><sup>*</sup></a>: [Note : Alinéa 274a) en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Application de la nouvelle loi**
+
+<sup><a href='#I-2.5_fr_3'>[*]</a></sup>**190** La présente loi s’applique, dès l’entrée en vigueur du présent article, aux demandes et procédures présentées ou instruites, ainsi qu’aux autres questions soulevées, dans le cadre de l’ancienne loi avant son entrée en vigueur et pour lesquelles aucune décision n’a été prise.
+
+<a name='I-2.5_fr_3'><sup>*</sup></a>: [Note : Article 190 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Anciennes règles, nouvelles sections**
+
+<sup><a href='#I-2.5_fr_4'>[*]</a></sup>**191** Les demandes et procédures présentées ou introduites, à l’entrée en vigueur du présent article, devant la Section du statut de réfugié sont, dès lors que des éléments de preuve de fond ont été présentés, mais pour lesquelles aucune décision n’a été prise, continuées sous le régime de l’ancienne loi, par la Section de la protection des réfugiés de la Commission.
+
+<a name='I-2.5_fr_4'><sup>*</sup></a>: [Note : Article 191 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Anciennes règles, nouvelles sections**
+
+<sup><a href='#I-2.5_fr_5'>[*]</a></sup>**192** S’il y a eu dépôt d’une demande d’appel à la Section d’appel de l’immigration, à l’entrée en vigueur du présent article, l’appel est continué sous le régime de l’ancienne loi, par la Section d’appel de l’immigration de la Commission.
+
+<a name='I-2.5_fr_5'><sup>*</sup></a>: [Note : Article 192 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Section d’arbitrage**
+
+<sup><a href='#I-2.5_fr_6'>[*]</a></sup>**193** Les demandes et procédures présentées ou introduites, à l’entrée en vigueur du présent article, devant la Section d’arbitrage sont, dès lors que des éléments de preuve de fond ont été présentés, mais pour lesquelles aucune décision n’a été prise, continuées sous le régime de la présente loi, mais par la Section de l’immigration de la Commission.
+
+<a name='I-2.5_fr_6'><sup>*</sup></a>: [Note : Article 193 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Section de la protection des réfugiés**
+
+**194** Dans le cas visé à l’article 191, la décision que peut prendre la Section de la protection des réfugiés à la suite d’une audience commencée par la Section du statut de réfugié n’est pas susceptible d’appel au titre de l’article 110.
+
+
+
+
+**Section du statut de réfugié**
+
+***195** La décision qu’a prise la Section du statut de réfugié avant l’entrée en vigueur du présent article n’est pas susceptible d’appel au titre de l’article 110.
+
+<a name='I-2.5_fr_7'><sup>*</sup></a>: [Note : Article 195 non en vigueur.]<br />
+
+
+
+
+**Appels**
+
+***196** Malgré l’article 192, il est mis fin à l’affaire portée en appel devant la Section d’appel de l’immigration si l’intéressé est, alors qu’il ne fait pas l’objet d’un sursis au titre de l’ancienne loi, visé par la restriction du droit d’appel prévue par l’article 64 de la présente loi.
+
+<a name='I-2.5_f_s196'><sup>*</sup></a>: [Note : Article 196 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Sursis**
+
+**197** Malgré l’article 192, l’intéressé qui fait l’objet d’un sursis au titre de l’ancienne loi et qui n’a pas respecté les conditions du sursis, est assujetti à la restriction du droit d’appel prévue par l’article 64 de la présente loi, le paragraphe 68(4) lui étant par ailleurs applicable.
+
+
+
+
+**Section du statut de réfugié**
+
+**198** La Section de la protection des réfugiés connaît des décisions de la Section du statut de réfugié qui lui sont renvoyées et en dispose sous le régime de la présente loi.
+
+
+
+
+**Nouvel examen**
+
+**199** Les articles 112 à 114 s’appliquent au nouvel examen en matière de droit d’établissement d’une personne faisant partie de la catégorie de demandeurs non reconnus du statut de réfugié au Canada au sens du Règlement sur l’immigration de 1978 et la décision à prendre en l’espèce est rendue sous son régime.
+
+
+
+
+**Exclusion**
+
+<sup><a href='#I-2.5_fr_8'>[*]</a></sup>**200** Le paragraphe 31(1) ne s’applique pas à la personne qui est un résident permanent, au sens de l’ancienne loi, à l’entrée en vigueur de celui-ci.
+
+<a name='I-2.5_fr_8'><sup>*</sup></a>: [Note : Paragraphe 31(1) en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+**Règlements**
+
+**201** Les règlements régissent les mesures visant la transition entre l’ancienne loi et la présente loi et portent notamment sur les catégories de personnes qui seront assujetties à tout ou partie de la présente loi ou de l’ancienne loi, ainsi que sur les mesures financières ou d’exécution.
+
+
+
+
+### Modifications corrélatives
+
+
+
+#### Loi sur l’accès à l’information
+
+
+**202** [Modification]
+
+
+
+
+#### Loi sur les programmes de commercialisation agricole
+
+
+**203** [Modification]
+
+
+
+
+#### Loi sur la généalogie des animaux
+
+
+**204 et 205** [Modifications]
+
+
+
+
+#### Loi sur les banques
+
+
+**206** [Modification]
+
+
+
+
+#### Loi d’exécution du budget de 1998
+
+
+**207** [Modification]
+
+
+
+
+#### Loi sur la Banque de développement du Canada
+
+
+**208** [Modifications]
+
+
+
+
+#### Loi canadienne sur les sociétés par actions
+
+
+**209** [Modification]
+
+
+
+
+#### Loi sur l’Agence des douanes et du revenu du Canada
+
+
+**210** [Modification]
+
+
+
+
+#### Loi électorale du Canada
+
+
+**211 à 214** [Modifications]
+
+
+
+
+#### Code canadien du travail
+
+
+**215** [Modification]
+
+
+
+
+#### Loi sur la marine marchande du Canada
+
+
+**216 à 218** [Modifications]
+
+
+
+
+#### Loi fédérale sur l’aide financière aux étudiants
+
+
+**219** [Modification]
+
+
+
+
+#### Loi fédérale sur les prêts aux étudiants
+
+
+**220** [Modification]
+
+
+
+
+#### Loi sur les transports au Canada
+
+
+**221 et 222** [Modifications]
+
+
+
+
+#### Loi sur le Service canadien du renseignement de sécurité
+
+
+**223 à 226** [Modifications]
+
+
+
+
+#### Loi de mise en oeuvre de la Convention sur les armes chimiques
+
+
+**227** [Modification]
+
+
+
+
+#### Loi sur la citoyenneté
+
+
+**227.1 à 232** [Modifications]
+
+
+
+
+#### Loi de mise en oeuvre du Traité d’interdiction complète des essais nucléaires
+
+
+**233** [Modification]
+
+
+
+
+#### Loi sur les associations coopératives de crédit
+
+
+**234** [Modification]
+
+
+
+
+#### Loi sur le droit d’auteur
+
+
+**235 à 241** [Modifications]
+
+
+
+
+#### Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+**242 et 243** [Modifications]
+
+
+
+
+#### Code criminel
+
+
+**244. à 247** [Modifications]
+
+
+
+
+#### Loi sur les mesures d’urgence
+
+
+**248 et 249** [Modifications]
+
+
+
+
+#### Loi sur l’extradition
+
+
+**250 à 252** [Modifications]
+
+
+
+
+#### Loi sur les services publicitaires fournis par des éditeurs étrangers
+
+
+**253** [Modifications]
+
+
+
+
+#### Loi de l’impôt sur le revenu
+
+
+**254** [Modification]
+
+
+
+
+#### Loi sur les sociétés d’assurances
+
+
+**255** [Modification]
+
+
+
+
+#### Loi sur le Centre international des droits de la personne et du développement démocratique
+
+
+**256 à 258** [Modifications]
+
+
+
+
+#### Loi sur Investissement Canada
+
+
+**259** [Modification]
+
+
+
+
+#### Loi sur les prestations d’adaptation pour les travailleurs
+
+
+**260** [Modification]
+
+
+
+
+#### Loi sur l’entraide juridique en matière criminelle
+
+
+**261** [Modifications]
+
+
+
+
+#### Loi sur l’Office national de l’énergie
+
+
+**262** [Modification]
+
+
+
+
+#### Loi sur la sécurité de la vieillesse
+
+
+**263 à 267** [Modifications]
+
+
+
+
+#### Loi sur le pilotage
+
+
+**268** [Modification]
+
+
+
+
+#### Loi sur la protection des renseignements personnels
+
+
+**269** [Modification]
+
+
+
+
+#### Loi sur le recyclage des produits de la criminalité
+
+
+**270** [Modification]
+
+
+
+
+#### Loi sur les marques de commerce
+
+
+**271** [Modification]
+
+
+
+
+#### Loi sur les sociétés de fiducie et de prêt
+
+
+**272** [Modification]
+
+
+
+
+#### Terminologie
+
+
+
+**Terminologie**
+
+**273** Sauf indication contraire du contexte, « Loi sur l’immigration » est remplacé par « Loi sur l’immigration et la protection des réfugiés » dans :
+- **a)** tout règlement, au sens de l’article 2 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md);
+- **b)** tout autre texte pris soit dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale, soit par le gouverneur en conseil ou sous son autorité.
+
+
+
+
+### Disposition de coordination
+
+
+**273.1** [Modifications]
+
+
+
+
+### Abrogations
+
+
+**274** [Abrogations]
+
+
+
+
+### Entrée en vigueur
+
+
+
+**Entrée en vigueur**
+
+<sup><a href='#I-2.5_fr_9'>[*]</a></sup>**275** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+<a name='I-2.5_fr_9'><sup>*</sup></a>: [Note : Articles 1 et 4 en vigueur le 6 décembre 2001, *voir* TR/2001-119; articles 2 et 3, 5 à 72, 74 à 109, 112 à 170, 172 à 193, 196 à 244 et 246 à 274 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
+
+
+
+
+### **ANNEXE** 
+**(paragraphe 2(1))**
+
+### Sections E et F de l’article premier de la Convention des Nations Unies relative au statut des réfugiés
+
+
+**E** Cette Convention ne sera pas applicable à une personne considérée par les autorités compétentes du pays dans lequel cette personne a établi sa résidence comme ayant les droits et les obligations attachés à la possession de la nationalité de ce pays.
+
+
+
+**F** Les dispositions de cette Convention ne seront pas applicables aux personnes dont on aura des raisons sérieuses de penser :
+
+**a)** Qu’elles ont commis un crime contre la paix, un crime de guerre ou un crime contre l’humanité, au sens des instruments internationaux élaborés pour prévoir des dispositions relatives à ces crimes;
+
+
+
+**b)** Qu’elles ont commis un crime grave de droit commun en dehors du pays d’accueil avant d’y être admises comme réfugiés;
+
+
+
+**c)** Qu’elles se sont rendues coupables d’agissements contraires aux buts et aux principes des Nations Unies.
+
+
+
+
+
+### Article premier de la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants
+
+
+**1** Aux fins de la présente Convention, le terme ***torture*** désigne tout acte par lequel une douleur ou des souffrances aiguës, physiques ou mentales, sont intentionnellement infligées à une personne aux fins notamment d’obtenir d’elle ou d’une tierce personne des renseignements ou des aveux, de la punir d’un acte qu’elle ou une tierce personne a commis ou est soupçonnée d’avoir commis, de l’intimider ou de faire pression sur elle ou d’intimider ou de faire pression sur une tierce personne, ou pour tout autre motif fondé sur une forme de discrimination quelle qu’elle soit, lorsqu’une telle douleur ou de telles souffrances sont infligées par un agent de la fonction publique ou toute autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite. Ce terme ne s’étend pas à la douleur ou aux souffrances résultant de sanctions légitimes inhérentes à ces sanctions ou occasionnées par elles.
+
+
+
+**2** Cet article est sans préjudice de tout instrument international ou de toute loi nationale qui contient ou peut contenir des dispositions de portée plus large.
+
+
+
