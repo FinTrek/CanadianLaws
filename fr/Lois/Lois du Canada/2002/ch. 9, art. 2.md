@@ -403,7 +403,9 @@ Sanctionnée sur le 1 avril 2002
 
 **Ententes**
 
-- **(2)** L’Administration peut conclure des ententes avec Sa Majesté représentée par le solliciteur général du Canada ou la Gendarmerie royale du Canada en vue de la fourniture de services, notamment des services à bord des aéronefs, et est autorisée à payer les contreparties nécessaires.
+- **(2)** L’Administration peut conclure des ententes avec Sa Majesté représentée par le ministre de la Sécurité publique et de la Protection civile ou la Gendarmerie royale du Canada en vue de la fourniture de services, notamment des services à bord des aéronefs, et est autorisée à payer les contreparties nécessaires.
+> 2002, ch. 9, art. 2 « 28 »; 2005, ch. 10, art. 34.
+
 
 
 
