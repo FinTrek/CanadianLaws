@@ -64,7 +64,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Department*** means the Department of Fisheries and Oceans;
 
-***federal laws*** includes Acts of Parliament, regulations as defined in subsection 2(1) of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md) and any other rules of law within the jurisdiction of Parliament, but does not include ordinances within the meaning of the [Northwest Territories Act](/en/Acts/Statutes%20of%20Canada/2014/c.%202,%20s.%202.md) or the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md) or laws of the Legislature for Nunavut;
+***federal laws*** includes Acts of Parliament, regulations as defined in subsection 2(1) of the 
+[Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md)  and any other rules of law within the jurisdiction of Parliament, but does not include ordinances within the meaning of the 
+[Northwest Territories Act](/en/Acts/Statutes%20of%20Canada/2014/c.%202,%20s.%202.md)  or laws of the Legislature of Yukon or of the Legislature for Nunavut;
+
 
 ***law***, in respect of a province, includes a law or rule of law from time to time in force in the province, other than federal laws, and the provisions of any instrument having effect under any such law;
 
@@ -76,7 +79,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***Minister*** means the Minister of Fisheries and Oceans;
 
 ***ship*** includes any description of vessel, boat or craft designed, used or capable of being used solely or partly for marine navigation without regard to method or lack of propulsion.
-> 1996, c. 31, s. 2; 1993, c. 28, s. 78; 1998, c. 15, s. 35.
+> 1996, c. 31, s. 2; 1993, c. 28, s. 78; 1998, c. 15, s. 35; 2002, c. 7, s. 223.
 
 
 
