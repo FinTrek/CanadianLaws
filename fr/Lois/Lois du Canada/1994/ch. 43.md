@@ -1409,7 +1409,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**8** L’accord conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et le Conseil des Ta’an Kwach’an — représenté par le chef du Conseil des Ta’an Kwach’an —, signé le 13 janvier 2002 et approuvé, mis en vigueur et déclaré valide le 1<sup>er</sup> avril 2002 par le décret C.P. 2002-403 du 21 mars 2002.
+**8** L’accord conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et le Conseil des Ta’an Kwach’an — représenté par le chef du Conseil des Ta’an Kwach’an —, signé le 13 janvier 2002 et approuvé, mis en vigueur et déclaré valide le 1 <sup>er</sup> avril 2002 par le décret C.P. 2002-403 du 21 mars 2002.
+
+
+
+**9** L’accord conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la première nation de Kluane — représentée par le chef de la première nation de Kluane —, et signé le 18 octobre 2003.
 
 
 
@@ -1445,10 +1449,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**8** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et le Conseil des Ta’an Kwach’an — représenté par le chef du Conseil des Ta’an Kwach’an —, signé le 13 janvier 2002 et auquel il a été donné effet le 1<sup>er</sup> avril 2002 par le décret C.P. 2002-403 du 21 mars 2002.
+**8** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et le Conseil des Ta’an Kwach’an — représenté par le chef du Conseil des Ta’an Kwach’an —, signé le 13 janvier 2002 et auquel il a été donné effet le 1 <sup>er</sup> avril 2002 par le décret C.P. 2002-403 du 21 mars 2002.
 
 
-> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378.
+
+**9** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la première nation de Kluane — représentée par le chef de la première nation de Kluane —, et signé le 18 octobre 2003.
+
+
+> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378; DORS/2004-10.
 
 
 
