@@ -7004,7 +7004,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **1** Chlorobiphenyls that have the molecular formula C<sub>12</sub>H<sub>(10-n)</sub>Cl<sub>n</sub> in which “n” is greater than 2
 
 
-**2** Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane
+**2**  Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex)
 
 
 **3** Polybrominated Biphenyls that have the molecular formula C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub> in which “n” is greater than 2
@@ -7093,7 +7093,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **28** Inorganic arsenic compounds
 
 
-**29** Benzidine
+**29** Benzidine and benzidine dihydrochloride, that have the molecular formula C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> and C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>•2HCl, respectively
 
 
 **30** Bis(2-ethylhexyl)phthalate
@@ -7177,7 +7177,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **56** Inorganic Chloramines, which have the molecular formula NH<sub>n</sub>Cl<sub>(3-n)</sub>, where n = 0, 1 or 2
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98. .
 
 
 
@@ -7228,7 +7228,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 ### Prohibited Substances
 
 
-**1** Mirex (Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane)
+**1** Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex)
 
 
 
@@ -7240,7 +7240,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-**4** Alachlor (2-chloro-2’, 6’-diethyl-N-methoxymethyl acetanilide)
+**4** Alachlor (2-chloro-2′, 6′-diethyl-N-methoxymethyl acetanilide)
 
 
 
@@ -7451,7 +7451,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 **15** Tributyltetradecylphosphonium chloride
 
 
-> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318.
+> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100.
 
 
 
