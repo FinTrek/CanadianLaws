@@ -272,7 +272,9 @@
 
 **Not agent of Her Majesty**
 
-**26** The Centre is not an agent of Her Majesty in right of Canada and the Chairman, the other directors, the Chief Executive Officer and the other officers and employees of the Centre are not part of the public service of Canada.
+**26** The Centre is not an agent of Her Majesty in right of Canada and the Chairman, the other directors, the Chief Executive Officer and the other officers and employees of the Centre are not part of the federal public administration.
+> R.S., 1985, c. 49 (4th Supp.), s. 26; 2003, c. 22, s. 224(E).
+
 
 
 
