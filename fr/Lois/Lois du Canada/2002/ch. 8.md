@@ -777,7 +777,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-45.5_fr_1'>[*]</a></sup>**199** Exception faite des articles 193 à 198, les dispositions de la présente loi ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='C-45.5_fr_1'><sup>*</sup></a>: [Note : Articles 193 à 198 en vigueur à la sanction le 27 mars 2002.]<br />
+<a name='C-45.5_fr_1'><sup>*</sup></a>: [Note : Articles 193 à 198 en vigueur à la sanction le 27 mars 2002; loi, sauf les articles 193 à 198, en vigueur le 2 juillet 2003, *voir* TR/2003-109.]<br />
 
 
 
