@@ -2364,11 +2364,27 @@ The whole containing by admeasurement an area of approximately 44 807 square kil
 
 
 
-Saving and excepting thereout and therefrom all those lands lying within Peace Point Indian Reserve No. 222 as shown on Plan 71277 recorded in the Canada Lands Surveys Records at Ottawa, a copy of which is filed in the Land Titles Office at Edmonton under number 882-0308, said Reserve containing 5.18 square kilometres (518 hectares), more or less; together with all mines and minerals;
+Saving and excepting thereout and therefrom,
 
 
 
-The remainder containing about 44 802 square kilometres.
+Firstly: all those lands lying within Peace Point Indian Reserve No. 222 as shown on Plan 71277 recorded in the Canada Lands Surveys Records at Ottawa, a copy of which is filed in the Land Titles Office at Edmonton under number 882-0308, said reserve containing 5.18 square kilometres (518 hectares), more or less, together with all mines and minerals;
+
+
+
+Secondly: in Township 124, Range 10, west of the 4th Meridian, all those portions comprising Lot 6 (part of Thebathi Indian Reserve No. 196) as shown on a plan of survey recorded in the Canada Lands Surveys Records in Ottawa under number 85625 and registered at the Land Titles Office in Edmonton under number 0126326, the lands containing 1.81 square kilometres (181 hectares), more or less, together with all mines and minerals;
+
+
+
+Thirdly: in Theoretical Township 121, Range 9, west of the 4th Meridian, all those portions comprising the Exterior Boundaries of Survey of Eejeré K’elni Kue Indian Reserve No. 196I (Hay Camp Site) as shown on a plan of survey recorded in the Canada Lands Surveys Records in Ottawa under number 84988 and registered at the Land Titles Office in Edmonton under number 0123033, the lands containing 2.13 square kilometres (213 hectares), more or less, together with all mines and minerals;
+
+
+
+Fourthly: in Theoretical Township 121, Range 14 and Theoretical Township 122, Ranges 13 and 14, west of the 4th Meridian, all those portions comprising the Exterior Boundaries of Survey of Tsu Nedehe Tue Indian Reserve No. 196H (Pine Lake Site) as shown on a plan of survey recorded in the Canada Lands Surveys Records in Ottawa under number 85626 and registered at the Land Titles Office in Edmonton under number 0126334, the lands containing 5.86 square kilometres (586 hectares), more or less, together with all mines and minerals.
+
+
+
+The remainder containing about 44 792 square kilometres (4,479,200 hectares).
 
 
 
@@ -3171,19 +3187,7 @@ the last two mentioned road allowances are as shown on Plan 30750 in said record
 
 
 
-part fractional east half Section 4; 
-
-
-
-fractional Section 9;
-
-
-
-fractional Section 10;
-
-
-
-fractional southwest quarter Section 15 and fractional southeast quarter Section 16;
+part fractional east half Section 4; fractional Section 9; fractional Section 10; fractional southwest quarter Section 15 and fractional southeast quarter Section 16;
 
 
 
@@ -5764,7 +5768,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300.
 
 
 
