@@ -2429,7 +2429,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#S-15.3_en_1'>[*]</a></sup>**142** Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='S-15.3_en_1'><sup>*</sup></a>: [Note: Section 141.1 in force on assent December 12, 2002; sections 1, 134 to 136 and 138 to 141 in force March 24, 2003, *see* SI/2003-43; sections 2 to 31, 37 to 56, 62, 65 to 76, 78 to 84, 120 to 133 and 137 in force June 5, 2003, *see* SI/2003-111.]<br />
+<a name='S-15.3_en_1'><sup>*</sup></a>: [Note: Section 141.1 in force on assent December 12, 2002; sections 1, 134 to 136 and 138 to 141 in force March 24, 2003, *see* SI/2003-43; sections 2 to 31, 37 to 56, 62, 65 to 76, 78 to 84, 120 to 133 and 137 in force June 5, 2003, sections 32 to 36, 57 to 61, 63, 64, 77 and 85 to 119 in force June 1, 2004, *see* SI/2003-111.]<br />
 
 
 
