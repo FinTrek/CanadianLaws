@@ -1,0 +1,349 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1998/c.%2037.md)
+
+# Loi sur l'identification par les empreintes génétiques
+
+**L.C. 1998, ch. 37**
+
+
+Sanctionnée sur le 10 décembre 1998
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur l’identification par les empreintes génétiques.
+
+
+
+
+## Définitions
+
+
+
+**Définitions**
+
+**2** Les définitions qui suivent s’appliquent à la présente loi.
+
+***ADN*** Acide désoxyribonucléique.
+
+***adolescent*** S’entend au sens du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+
+***analyse génétique*** Analyse, à des fins médicolégales, de l’ADN de substances corporelles.
+
+***commissaire*** Le commissaire de la Gendarmerie royale du Canada.
+
+***infraction désignée*** S’entend au sens de l’article 487.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.11 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+***profil d’identification génétique*** Résultats de l’analyse génétique.
+> 1998, ch. 37, art. 2; 2000, ch. 10, art. 4.
+
+
+
+
+
+## Objet
+
+
+
+**Objet**
+
+<sup><a href='#D-3.8_fr_1'>[*]</a></sup>**3** La présente loi a pour objet l’établissement d’une banque nationale de données génétiques destinée à aider les organismes chargés du contrôle d’application de la loi à identifier les auteurs présumés d’infractions désignées, y compris de celles commises avant l’entrée en vigueur de la présente loi.
+
+<a name='D-3.8_fr_1'><sup>*</sup></a>: [Note : Articles 2, 3 et 12 en vigueur le 8 mai 2000, *voir* TR/2000-37; articles 1, 4 à 11 et 13 à 25 en vigueur le 30 juin 2000, *voir* TR/2000-60.]<br />
+
+
+
+
+## Principes
+
+
+
+**Principes**
+
+**4** Les principes suivants sont reconnus et proclamés :
+- **a)** la protection de la société et l’administration de la justice sont bien servies par la découverte, l’arrestation et la condamnation rapides des contrevenants, lesquelles peuvent être facilitées par l’utilisation de profils d’identification génétique;
+- **b)** ces profils, de même que les substances corporelles prélevées en vue de les établir, ne doivent servir qu’à l’application de la présente loi, à l’exclusion de toute autre utilisation qui n’y est pas autorisée;
+- **c)** afin de protéger les renseignements personnels, doivent faire l’objet de protections :
+	- **(i)** l’utilisation et la communication de l’information contenue dans la banque de données — notamment des profils — , de même que son accessibilité,
+	- **(ii)** l’utilisation des substances corporelles qui sont transmises au commissaire pour l’application de la présente loi, de même que leur accessibilité.
+> 1998, ch. 37, art. 4; 2000, ch. 10, art. 5.
+
+
+
+
+
+## Banque nationale de données génétiques
+
+
+
+**Établissement**
+
+**5** 
+
+- **(1)** Le solliciteur général du Canada établit, à des fins d’identification de criminels, une banque nationale de données génétiques — composée d’un fichier de criminalistique et d’un fichier des condamnés — qui sera tenue par le commissaire.
+
+**Exercice des fonctions du commissaire**
+
+- **(2)** Les fonctions que la présente loi confère au commissaire peuvent être exercées en son nom par toute personne qu’il habilite à cet effet.
+
+**Fichier de criminalistique**
+
+- **(3)** Le fichier de criminalistique contient les profils d’identification génétique établis à partir de substances corporelles trouvées :
+	- **a)** sur le lieu d’une infraction désignée;
+	- **b)** sur la victime de celle-ci ou à l’intérieur de son corps;
+	- **c)** sur ce qu’elle portait ou transportait lors de la perpétration de l’infraction;
+	- **d)** sur toute personne ou chose — ou à l’intérieur de l’une ou l’autre — ou en tout lieu liés à la perpétration de l’infraction.
+
+**Fichier des condamnés**
+
+- **(4)** Le fichier des condamnés contient les profils d’identification génétique établis à partir des substances corporelles visées au paragraphe 487.071(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 196.22(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+**Renseignements supplémentaires**
+
+- **(5)** Outre les profils d’identification génétique visés aux paragraphes (3) et (4), la banque de données contient, à l’égard de chacun d’entre eux, des renseignements à partir desquels peuvent être retrouvés, dans le cas des premiers, le numéro attribué à l’enquête au cours de laquelle a été trouvée la substance corporelle ayant servi à établir le profil et, dans le cas des seconds, l’identité de la personne sur laquelle a été prélevée la substance corporelle ayant servi à établir le profil.
+> 1998, ch. 37, art. 5; 2000, ch. 10, art. 6.
+
+
+
+
+
+**Communication de renseignements**
+
+**6** 
+
+- **(1)** Lorsqu’il reçoit, pour dépôt à la banque de données, un profil d’identification génétique qui lui est transmis en application du paragraphe 487.071(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 196.22(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 10(3), le commissaire le compare avec les profils enregistrés afin de vérifier s’il n’y est pas déjà; il peut ensuite communiquer, aux fins d’une enquête ou d’une poursuite relative à une infraction criminelle, l’information suivante à tout laboratoire ou organisme canadien chargé du contrôle d’application de la loi qu’il estime indiqué :
+	- **a)** la présence ou non du profil dans la banque;
+	- **b)** le cas échéant, les renseignements y afférents — à l’exception du profil lui-même — contenus dans la banque.
+
+**Utilisateurs autorisés**
+
+- **(2)** Les utilisateurs autorisés du fichier automatisé des relevés de condamnations criminelles géré par la Gendarmerie royale du Canada peuvent être informés du fait que le profil d’identification génétique d’un individu se trouve ou non dans le fichier des condamnés.
+
+**Organisme d’un État étranger**
+
+- **(3)** Lorsqu’il reçoit un profil d’identification génétique d’un gouvernement d’un État étranger, d’une organisation internationale de gouvernements, ou d’un de leurs organismes, le commissaire peut le comparer avec les profils enregistrés dans la banque afin de vérifier s’il n’y est pas déjà; il peut ensuite communiquer au gouvernement, à l’organisation ou à l’organisme l’information visée au paragraphe (1).
+
+**Communication d’un profil**
+
+- **(4)** Il peut aussi, sur demande présentée, dans le cadre d’une enquête relative à une infraction désignée, par un organisme chargé du contrôle d’application de la loi, communiquer au gouvernement d’un État étranger, à une organisation internationale de gouvernements, ou à un de leurs organismes, tout profil d’identification génétique contenu dans le fichier de criminalistique.
+
+**Accord ou entente**
+
+- **(5)** Les paragraphes (3) et (4) s’appliquent dans les cas où le gouvernement du Canada ou un de ses organismes, en conformité avec l’alinéa 8(2)f) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), a conclu, avec le gouvernement, l’organisation ou l’organisme étranger en question, un accord ou une entente autorisant la communication de l’information aux seules fins d’une enquête ou d’une poursuite relative à une infraction criminelle.
+
+**Utilisation interdite**
+
+- **(6)** Il est interdit, sauf pour l’application de la présente loi, d’utiliser ou de laisser utiliser un profil d’identification génétique reçu pour dépôt à la banque de données.
+
+**Communication interdite**
+
+- **(7)** Il est interdit, sauf en conformité avec le présent article, de communiquer ou de laisser communiquer les profils d’identification génétique enregistrés dans la banque ou l’information visée au paragraphe (1).
+> 1998, ch. 37, art. 6; 2000, ch. 10, art. 7.
+
+
+
+
+
+**Accès à l’information contenue dans la banque**
+
+**7** Le personnel de tout laboratoire et toute personne — ou catégorie de personnes — que le commissaire estime indiqués peuvent avoir accès à l’information contenue dans la banque de données respectivement à des fins de formation et pour assurer le bon fonctionnement et l’entretien de la banque.
+
+
+
+
+**Utilisation restreinte de l’information**
+
+**8** Le destinataire de l’information communiquée en application du paragraphe 6(1) ou la personne qui a accès à l’information contenue dans la banque de données en vertu de l’article 7 ne peut l’utiliser que conformément à ce paragraphe ou cet article.
+
+
+
+
+**Fichier de criminalistique**
+
+**8.1** Tout renseignement contenu dans le fichier de criminalistique doit, en conformité avec d’éventuels règlements, être rendu inaccessible une fois pour toutes s’il concerne un profil d’identification génétique établi à partir d’une substance corporelle :
+- **a)** de la victime d’une infraction désignée qui a fait l’objet de l’enquête;
+- **b)** d’une personne qui, dans le cadre de l’enquête, n’est plus considérée comme un suspect.
+
+
+
+
+**Durée de conservation — règle générale**
+
+**9** 
+
+- **(1)** Sous réserve du paragraphe (2), de l’article 9.1 et de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), tout renseignement contenu dans le fichier des condamnés y est conservé pour une période indéterminée.
+
+**Exception**
+
+- **(2)** Il doit être rendu inaccessible une fois pour toutes :
+	- **a)** s’il concerne une personne déclarée coupable d’une infraction désignée, dès que la déclaration de culpabilité est annulée et qu’un verdict d’acquittement définitif est consigné;
+	- **b)** s’il concerne une personne absoute, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), d’une infraction désignée :
+		- **(i)** un an après son absolution inconditionnelle, si elle n’a pas été déclarée coupable d’une autre infraction au cours de cette année,
+		- **(ii)** trois ans après son absolution sous conditions, si elle n’a pas été déclarée coupable d’une autre infraction au cours de ces trois années.
+	- **c) à e)** [Abrogés, 2000, ch. 10, art. 8]
+> 1998, ch. 37, art. 9; 2000, ch. 10, art. 8.
+
+
+
+
+
+**Durée de conservation — jeunes contrevenants**
+
+**9.1** 
+
+- **(1)** Tout renseignement contenu dans le fichier des condamnés qui concerne un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), d’une infraction désignée doit être rendu définitivement inaccessible au moment où les derniers éléments du dossier de l’adolescent qui ont trait à cette infraction doivent être détruits au titre des paragraphes 45(2), 45.02(3) ou 45.03(3) de cette loi.
+
+**Exception**
+
+- **(2)** Toutefois, l’article 9 s’applique à tout renseignement contenu dans ce fichier et qui concerne le dossier d’un adolescent auquel s’applique l’article 45.01 ou le paragraphe 45.02(2) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+> 2000, ch. 10, art. 9.
+
+
+
+
+
+**Entreposage**
+
+**10** 
+
+- **(1)** Lorsque des substances corporelles lui sont transmises conformément au paragraphe 487.071(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 196.22(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le commissaire doit, sous réserve des autres dispositions du présent article ou de l’article 10.1, entreposer en lieu sûr, aux fins de l’analyse génétique, les parties d’échantillons qu’il juge utiles et détruire sans délai les autres.
+
+**Progrès technique**
+
+- **(2)** L’analyse génétique des substances corporelles ainsi entreposées peut être effectuée lorsque le commissaire estime qu’elle est justifiée en raison des progrès techniques importants intervenus depuis que le profil d’identification génétique de la personne qui a fourni les substances ou sur qui elles ont été prélevées a été établi pour la dernière fois.
+
+**Transmission et utilisation des profils**
+
+- **(3)** Les profils d’identification génétique établis à partir des substances corporelles entreposées sont transmis au commissaire pour dépôt au fichier des condamnés; ils ne peuvent être utilisés qu’à cette seule fin.
+
+**Accès**
+
+- **(4)** Toute personne — ou catégorie de personnes — que le commissaire estime indiquée peut avoir accès aux substances corporelles en question pour assurer leur conservation.
+
+**Utilisation et transmission des substances**
+
+- **(5)** Il est interdit de les utiliser à d’autres fins qu’une analyse génétique ou de les transmettre à quiconque.
+
+**Destruction des substances**
+
+- **(6)** Le commissaire peut les détruire en tout ou en partie lorsqu’il estime qu’elles ne sont plus nécessaires pour analyse génétique.
+
+**Destruction obligatoire dans certaines circonstances**
+
+- **(7)** Il est cependant tenu de les détruire dans les délais mentionnés ci-dessous :
+	- **a)** dès l’annulation de la déclaration de culpabilité et la consignation du verdict d’acquittement définitif, dans le cas où la personne dont elles proviennent a été déclarée coupable d’une infraction désignée;
+	- **b)** dans le cas où elle a été absoute, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), d’une infraction désignée :
+		- **(i)** un an après son absolution inconditionnelle, si elle n’a pas été déclarée coupable d’une autre infraction au cours de cette année,
+		- **(ii)** trois ans après son absolution sous conditions, si elle n’a pas été déclarée coupable d’une autre infraction au cours de ces trois années.
+	- **c) à e)** [Abrogés, 2000, ch. 10, art. 10]
+
+**Réhabilitation**
+
+- **(8)** Malgré toute autre disposition du présent article, dans le cas où elles proviennent d’une personne ayant bénéficié d’une réhabilitation au sens de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), les substances corporelles entreposées doivent être conservées à part et il est interdit d’en révéler l’existence ou de les utiliser pour analyse génétique.
+> 1998, ch. 37, art. 10; 2000, ch. 10, art. 10. .
+
+
+
+
+
+**Destruction des substances — jeunes contrevenants**
+
+**10.1** 
+
+- **(1)** Les substances corporelles d’un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), d’une infraction désignée doivent être détruites au moment où les derniers éléments du dossier de l’adolescent qui ont trait à cette infraction doivent être détruits au titre des paragraphes 45(2), 45.02(3) ou 45.03(3) de cette loi.
+
+**Exception**
+
+- **(2)** Toutefois, les paragraphes 10(6) et (7) s’appliquent à la destruction des substances corporelles qui ont trait au dossier d’un adolescent auquel s’applique l’article 45.01 ou le paragraphe 45.02(2) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+> 2000, ch. 10, art. 11.
+
+
+
+
+
+**Infraction**
+
+**11** Quiconque contrevient aux paragraphes 6(6) ou (7), à l’article 8 ou aux paragraphes 10(3) ou (5) est coupable, selon le cas :
+- **a)** d’un acte criminel et passible d’un emprisonnement maximal de deux ans;
+- **b)** d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+## Règlements
+
+
+
+**Règlements**
+
+**12** Le gouverneur en conseil peut prendre des règlements pour l’application de la présente loi.
+
+
+
+
+## Examen
+
+
+
+**Examen de l’application de la loi**
+
+<sup><a href='#D-3.8_fr_2'>[*]</a></sup>**13** Dans les 5 ans suivant l’entrée en vigueur de la présente loi, un comité du Sénat, de la Chambre des communes, ou mixte, désigné ou établi à cette fin procède à un examen des dispositions et de l’application de la présente loi.
+
+<a name='D-3.8_fr_2'><sup>*</sup></a>: [Note : Articles 2, 3 et 12 en vigueur le 8 mai 2000, *voir* TR/2000-37; articles 1, 4 à 11 et 13 à 25 en vigueur le 30 juin 2000, *voir* TR/2000-60.]<br />
+> 1998, ch. 37, art. 13; 2000, ch. 10, art. 12. .
+
+
+
+
+
+## Rapport au Parlement
+
+
+
+**Rapport annuel**
+
+**13.1** 
+
+- **(1)** Dans les 3 mois suivant la fin de chaque exercice, le commissaire présente au solliciteur général du Canada un rapport sur l’activité de la banque nationale de données génétiques au cours de l’exercice.
+
+**Dépôt devant le Parlement**
+
+- **(2)** Le solliciteur général du Canada dépose le rapport devant chaque chambre du Parlement dans les 15 premiers jours de séance de celle-ci suivant sa réception.
+> 2000, ch. 10, art. 12.
+
+
+
+
+
+## Modifications corrélatives
+
+
+**14 à 25** [Modifications]
+
+
+
+
+## Entrée en vigueur
+
+
+
+**Entrée en vigueur**
+
+<sup><a href='#D-3.8_fr_3'>[*]</a></sup>**26** La présente loi ou telle de ses dispositions, ou telle des dispositions de toute autre loi édictées par la présente loi, entre en vigueur à la date ou aux dates fixées par décret.
+
+<a name='D-3.8_fr_3'><sup>*</sup></a>: [Note : Articles 2, 3 et 12 en vigueur le 8 mai 2000, *voir* TR/2000-37; articles 1, 4 à 11 et 13 à 25 en vigueur le 30 juin 2000, *voir* TR/2000-60.]<br />
+
+
