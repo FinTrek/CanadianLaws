@@ -1750,7 +1750,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les dispositions de la partie 2 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans leur version édictée par l’article 2 de la présente loi, entrent en vigueur à la date ou aux dates fixées par décret pris sur recommandation du ministre, au sens du paragraphe 2(1) de cette loi, après consultation du président de la Commission des relations de travail dans la fonction publique nommé conformément à l’article 12 de cette loi.
 
-<a name='P-33.4_f_s286'><sup>*</sup></a>: [Note : Articles 1 et 262 à 285 en vigueur à la sanction le 7 novembre 2003; articles 14 et 19, des définitions de ***ancienne Commission***, ***ancienne loi***, ***loi modifiée*** et ***nouvelle Commission*** à l’article 68 et articles 77 à 83 et 246 à 250 en vigueur le 20 novembre 2003, *voir* TR/2003-178.]<br />
+<a name='P-33.4_f_s286'><sup>*</sup></a>: [Note : Articles 1 et 262 à 285 en vigueur à la sanction le 7 novembre 2003; articles 14 et 19, des définitions de ***ancienne Commission***, ***ancienne loi***, ***loi modifiée*** et ***nouvelle Commission*** à l’article 68 et articles 77 à 83 et 246 à 250 en vigueur le 20 novembre 2003, *voir* TR/2003-178; articles 21 à 35, 85 à 87 et 251 à 261 en vigueur le 1<sup>er</sup> avril 2004, *voir* TR/2004-42.]<br />
 
 
 
