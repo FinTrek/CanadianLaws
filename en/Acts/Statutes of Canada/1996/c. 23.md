@@ -51,7 +51,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Commission*** means the Canada Employment Insurance Commission;
 
-***common-law partner***, in relation to a claimant, means a person who is cohabiting with the claimant in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
 
 ***confirmed delivery service*** means certified or registered mail or any other delivery service that provides proof of delivery;
 
@@ -116,7 +116,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Weeks of benefits paid**
 
 - **(5)** For the purposes of subsection 7(4.1) and section 145, the Commission may, with the approval of the Governor in Council, make regulations for establishing how many weeks of benefits a claimant was paid, in order to take into account benefit reductions or deductions in the calculation or payment of those benefits.
-> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1.
+> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15.
 
 
 
@@ -662,6 +662,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 - **(5)** A claim for benefits, other than an initial claim for benefits, made after the time prescribed for making the claim shall be regarded as having been made on an earlier day if the claimant shows that there was good cause for the delay throughout the period beginning on the earlier day and ending on the day when the claim was made.
 
+**Exception**
+
+- **(5.1)** A claim for benefits referred to in section 23.1 with respect to a family member shall not be regarded as having been made on an earlier day under subsection (4) or (5) if
+	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection 23.1(4) has already been determined with respect to that family member and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
 **Cancelling benefit period**
 
 - **(6)** Once a benefit period has been established for a claimant, the Commission may
@@ -709,18 +716,45 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 - **(13)** If, during a claimant’s benefit period,
 	- **(a)** regular benefits were not paid to the claimant,
-	- **(b)** benefits were paid because of the three reasons mentioned in subsection 12(3), and
-	- **(c)** with respect to the reasons mentioned in paragraphs 12(3)(b) and (c), benefits were not paid for the maximum number of weeks established for those reasons,
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(a), (b) and (c), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reasons mentioned in paragraphs 12(3)(a), (b) and (c),
+the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the claimant for the reason mentioned in each of paragraphs 12(3)(a), (b) and (c).
+
+**Extension of benefit period — special benefits**
+
+- **(13.1)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(b), (c) and (d), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reasons mentioned in paragraphs 12(3)(b), (c) and (d),
+the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the claimant for the reason mentioned in each of paragraphs 12(3)(b), (c) and (d).
+
+**Extension of benefit period — special benefits**
+
+- **(13.2)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(a), (b) and (d), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reasons mentioned in paragraphs 12(3)(a), (b) and (d),
+the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the claimant for the reason mentioned in each of paragraphs 12(3)(a), (b) and (d).
+
+**Extension of benefit period — special benefits**
+
+- **(13.3)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in subsection 12(3), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reasons mentioned in paragraphs 12(3)(a), (b), (c) and (d),
 the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the claimant for the reason mentioned in each of those paragraphs.
 
-**Maximum extension under subsections (10) to (13)**
+**Maximum extension under subsections (10) to (13.3)**
 
-- **(14)** Subject to subsection (15), no extension under any of subsections (10) to (13) may result in a benefit period of more than 104 weeks.
+- **(14)** Subject to subsection (15), no extension under any of subsections (10) to (13.3) may result in a benefit period of more than 104 weeks.
 
-**Maximum extension under subsection (13)**
+**Maximum extension under subsections (13) to (13.3)**
 
-- **(15)** No extension under subsection (13) may result in a benefit period of more than 67 weeks, unless the benefit period is also extended under any of subsections (10) to (12).
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12.
+- **(15)** Unless the benefit period is also extended under any of subsections (10) to (12),
+	- **(a)** no extension under subsection (13) may result in a benefit period of more than 67 weeks;
+	- **(b)** no extension under subsection (13.1) or (13.2) may result in a benefit period of more than 58 weeks; and
+	- **(c)** no extension under subsection (13.3) may result in a benefit period of more than 73 weeks.
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16.
 
 
 
@@ -770,8 +804,9 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 - **(3)** The maximum number of weeks for which benefits may be paid in a benefit period
 	- **(a)** because of pregnancy is 15;
-	- **(b)** because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is 35; and
-	- **(c)** because of a prescribed illness, injury or quarantine is 15.
+	- **(b)** because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is 35;
+	- **(c)** because of a prescribed illness, injury or quarantine is 15; and
+	- **(d)** because the claimant is providing care or support to one or more family members described in subsection 23.1(2), is six.
 
 **Maximum — special benefits**
 
@@ -779,9 +814,24 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 	- **(a)** for a single pregnancy is 15; and
 	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is 35.
 
+**Maximum — compassionate care benefits**
+
+- **(4.1)** Even if more than one claim is made, or certificate is issued, in respect of the same family member, the maximum number of weeks of benefits payable under section 23.1 is six weeks during the period of 26 weeks beginning with the first day of the week referred to in paragraph 23.1(4)(a).
+
+**Shorter period**
+
+- **(4.2)** If a shorter period is prescribed for the purposes of subsection 23.1(5), then that shorter period applies for the purposes of subsection (4.1).
+
+**Expiration of shorter period**
+
+- **(4.3)** When a shorter period referred to in subsection (4.2) has expired in respect of a family member, no further benefits are payable under section 23.1 in respect of that family member until the minimum prescribed number of weeks has elapsed.
+
 **Combined weeks of benefits**
 
-- **(5)** In a claimant’s benefit period, the claimant may combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsection (3), but the maximum number of combined weeks is 50. If the benefit period is extended under subsection 10(13), the maximum number of combined weeks is 65.
+- **(5)** In a claimant’s benefit period, the claimant may combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsection (3), but the maximum number of combined weeks is 50. If the benefit period
+	- **(a)** is extended under subsection 10(13), the maximum number of combined weeks is 65;
+	- **(b)** is extended under subsection 10(13.1) or (13.2), the maximum number of combined weeks is 56; and
+	- **(c)** is extended under subsection 10(13.3), the maximum number of combined weeks is 71.
 
 **Combined weeks of benefits**
 
@@ -792,7 +842,7 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17.
 
 
 
@@ -1071,13 +1121,44 @@ A prescribed week relating to employment in the labour force shall not be taken 
 
 - **(3.2)** If, during a claimant’s benefit period,
 	- **(a)** regular benefits were not paid to the claimant,
-	- **(b)** benefits were paid because of the three reasons mentioned in subsection 12(3), and
-	- **(c)** with respect to the reason mentioned in paragraph 12(3)(b), benefits were not paid for the maximum number of weeks established for that reason,
-the period referred to in subsection (2) is extended so that benefits may be paid up to the maximum number of weeks available to the claimant for that reason.
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(a), (b) and (c), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 12(3)(b),
+the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period — special benefits**
+
+- **(3.21)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(b), (c) and (d), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 12(3)(b),
+the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period — special benefits**
+
+- **(3.22)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in paragraphs 12(3)(a), (b) and (d), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reasons mentioned in paragraph 12(3)(b),
+the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period — special benefits**
+
+- **(3.23)** If, during a claimant’s benefit period,
+	- **(a)** regular benefits were not paid to the claimant,
+	- **(b)** benefits were paid because of all of the reasons mentioned in subsection 12(3), and
+	- **(c)** benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 12(3)(b),
+the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
 
 **Limitation**
 
-- **(3.3)** No extension under subsection (3.2) may result in the period being longer than 67 weeks or, if the benefit period is extended under any of subsections 10(10) to (13), 104 weeks.
+- **(3.3)** No extension under any of the following provisions may result in the period referred to in subsection (2) being longer than the specified number of weeks:
+	- **(a)** for an extension under subsection (3.2), 67 weeks;
+	- **(b)** for an extension under subsection (3.21) or (3.22), 58 weeks; and
+	- **(c)** for an extension under subsection (3.23), 73 weeks.
+
+**Limitation**
+
+- **(3.4)** No extension under any of subsections 10(10) to (13.3) may result in the period referred to in subsection (2) being longer than 104 weeks.
 
 **Division of weeks of benefits**
 
@@ -1090,7 +1171,79 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 	- **(b)** another major attachment claimant has made a claim for benefits under section 22 or this section in respect of the same child and that other claimant has served or is serving his or her waiting period;
 	- **(c)** another major attachment claimant is making a claim for benefits under section 22 or this section in respect of the same child at the same time as the claimant and that other claimant elects to serve the waiting period; or
 	- **(d)** the claimant or another major attachment claimant meets the prescribed requirements.
-> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14.
+> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18.
+
+
+
+
+
+**Definition**
+
+**23.1** 
+
+- **(1)** In this section, ***family member***, in relation to an individual, means
+	- **(a)** a spouse or common-law partner of the individual;
+	- **(b)** a child of the individual or a child of the individual’s spouse or common-law partner;
+	- **(c)** a parent of the individual or a spouse or common-law partner of the parent; and
+	- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition.
+
+**Compassionate care benefits**
+
+- **(2)** Notwithstanding section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor has issued a certificate stating that
+	- **(a)** a family member of the claimant has a serious medical condition with a significant risk of death within 26 weeks
+		- **(i)** from the day the certificate is issued,
+		- **(ii)** in the case of a claim that is made before the day the certificate is issued, from the day from which the medical doctor certifies the family member’s medical condition, or
+		- **(iii)** in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), from that earlier day; and
+	- **(b)** the family member requires the care or support of one or more other family members.
+
+**Medical practitioner**
+
+- **(3)** In the circumstances set out in the regulations, the certificate required under subsection (2) may be issued by a member of a prescribed class of medical practitioners.
+
+**Weeks for which benefits may be paid**
+
+- **(4)** Subject to section 12, benefits under this section are payable for each week of unemployment in the period
+	- **(a)** that begins with the first day of the week in which the following falls, namely,
+		- **(i)** the day of issuance of the first certificate in respect of the family member that meets the requirements of subsection (2) and is filed with the Commission,
+		- **(ii)** in the case of a claim that is made before the day the certificate is issued, the day from which the medical doctor certifies the family member’s medical condition, or
+		- **(iii)** in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), that earlier day; and
+	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
+		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
+		- **(ii)** the family member dies, or
+		- **(iii)** the expiration of 26 weeks following the first day of the week referred to in paragraph (a).
+
+**Shorter period**
+
+- **(5)** If a shorter period is prescribed for the purposes of this section,
+	- **(a)** the certificate referred to in subsection (2) must state that the family member has a serious medical condition with a significant risk of death within that period; and
+	- **(b)** that period applies for the purposes of subparagraph (4)(b)(iii).
+
+**Exception**
+
+- **(6)** Subparagraph (4)(a)(ii) does not apply to a claim if
+	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection (4) has already been determined with respect to the family member, and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Deferral of waiting period**
+
+- **(7)** A claimant who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+	- **(a)** another claimant has made a claim for benefits under this section in respect of the same family member during the period described in subsection (4) and that other claimant has served or is serving their waiting period in respect of that claim;
+	- **(b)** another claimant is making a claim for benefits under this section in respect of the same family member at the same time as the claimant and that other claimant elects to serve the waiting period; or
+	- **(c)** the claimant or another claimant meets the prescribed requirements.
+
+**Division of weeks of benefits**
+
+- **(8)** If more than one claimant makes a claim for benefits under this section in respect of the same family member, any remaining weeks of benefits payable under this section may be divided in the manner agreed to by those claimants.
+
+**Failure to agree**
+
+- **(9)** If the claimants referred to in subsection (8) cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+
+**Limitation**
+
+- **(10)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
+> 2003, c. 15, s. 19.
 
 
 
@@ -1762,10 +1915,18 @@ the Commission shall calculate the amount of the money and notify the claimant o
 	- **(ii)** whose pattern of full-time employment differs from the normal and customary employment pattern of employed persons generally,
 is to be considered to have worked or not worked a full working week;
 - **(c.1)** for determining the average number of weeks of regular benefits for the purposes of paragraph 7.1(6)(b);
+- **(c.2)** setting out circumstances for the purposes of paragraphs 10(5.1)(c) and 23.1(6)(c);
 - **(d)** defining and determining who are dependent children, prescribing low-income family eligibility criteria and determining the amount of family supplements for the purposes of section 16;
 - **(d.1)** determining for the purposes of subsection 19(3) the period for which benefits were claimed;
 - **(e)** providing for the deduction under section 19 of earnings and allowances mentioned in subsection 19(4);
 - **(f)** determining the amount to be deducted under subsection 20(2) from weekly benefits paid if the claimant normally works other than a five day week;
+- **(f.1)** [Not in force]
+- **(f.2)** prescribing classes of persons for the purposes of paragraph 23.1(1)(d);
+- **(f.3)** defining and determining what is care or support for the purposes of paragraph 23.1(2)(b);
+- **(f.4)** prescribing classes of medical practitioners for the purposes of subsection 23.1(3) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2);
+- **(f.5)** prescribing a shorter period for the purposes of subsection 23.1(5) and prescribing a minimum number of weeks in relation to that shorter period for the purposes of subsection 12(4.3);
+- **(f.6)** prescribing requirements for the purposes of paragraph 23.1(7)(c);
+- **(f.7)** prescribing rules for the purposes of subsection 23.1(9);
 - **(g)** setting out the circumstances that constitute the commencement or termination of a stoppage of work for the purposes of section 36;
 - **(g.1)** for defining as a major contravention for the purposes of subsection 39(5) anything that constitutes an act mentioned in subsection 39(1) or (3) and for setting or calculating the amount or maximum amount of the penalty for the major contravention, up to a maximum of $25,000;
 - **(h)** providing for the making of claims by, and the payment of benefits to, any person or agency on behalf of deceased or incapacitated persons or persons with mental disabilities;
@@ -1799,6 +1960,8 @@ is to be considered to have worked or not worked a full working week;
 	- **(ii)** what constitutes an employer work-force reduction process for the purposes of the regulations;
 - **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law; and
 - **(z.4)** prescribing anything that by section 2 or this Part is to be prescribed.
+> 1996, c. 23, s. 54; 2003, c. 15, s. 20.
+
 
 
 
@@ -2090,12 +2253,12 @@ is to be considered to have worked or not worked a full working week;
 **69** 
 
 - **(1)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s premium where
-	- **(a)** the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy or child care under a plan that covers insured persons employed by the employer, other than one established under provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
+	- **(a)** the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care or compassionate care under a plan that covers insured persons employed by the employer, other than one established under provincial law, would have the effect of reducing the special benefits payable to the insured persons; and
 	- **(b)** the insured persons will benefit from the reduction of the employer’s premium in an amount at least equal to 5/12 of the reduction.
 
 **Provincial plans**
 
-- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy or child care under a provincial law to insured persons would have the effect of reducing or eliminating the special benefits payable to those insured persons.
+- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care or compassionate care under a provincial law to insured persons would have the effect of reducing or eliminating the special benefits payable to those insured persons.
 
 **Included provisions**
 
@@ -2115,7 +2278,11 @@ is to be considered to have worked or not worked a full working week;
 **Reconsideration of application**
 
 - **(5)** The Commission may reconsider any decision relating to an employer’s premium reduction within 36 months after the date of the decision and any new decision that it makes shall apply in place of the reconsidered decision.
-> 1996, c. 23, s. 69; 1999, c. 17, s. 135.
+
+**Definition**
+
+- **(6)** The reference to the payment of allowances, money or other benefits because of compassionate care in subsections (1) and (2) means the payment of allowances, money or other benefits for the same or substantially the same reasons for which benefits are payable under section 23.1.
+> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22.
 
 
 
