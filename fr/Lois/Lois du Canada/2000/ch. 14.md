@@ -130,36 +130,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***alcool*** S’entend de l’alcool éthylique.
+***alcool*** S’entend de l’alcool éthylique. (*alcohol*)
 
 ***boisson alcoolisée***
 - **a)** La bière, au sens de l’article B.02.130 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), contenant plus de 0,5 pour cent d’alcool par volume;
 - **b)** l’ale, le stout, le porter ou la liqueur de malt, au sens de l’article B.02.131 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), contenant plus de 0,5 pour cent d’alcool par volume;
-- **c)** le vin, au sens de l’article 25 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), contenant plus de 0,5 pour cent d’alcool par volume;
+- **c)** le vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md);
 - **d)** toute boisson contenant plus de 0,5 pour cent d’alcool par volume, obtenue de la distillation de grains, de fruits ou d’autres produits agricoles ou de la distillation de la bière ou du vin;
-- **e)** toute autre boisson contenant un mélange quelconque des boissons visées aux alinéas a) à d) qui est propre à la consommation humaine et qui contient plus de 0,5 pour cent d’alcool par volume.
+- **e)** toute autre boisson contenant un mélange quelconque des boissons visées aux alinéas a) à d) qui est propre à la consommation humaine et qui contient plus de 0,5 pour cent d’alcool par volume. (*alcoholic beverage*)
 
 ***carburant***
 - **a)** Le combustible diesel, notamment toute huile combustible qui peut être utilisée dans les moteurs à combustion interne de type allumage par compression, à l’exception de toute huile combustible destinée à être utilisée — et utilisée de fait — comme huile à chauffage;
 - **b)** les carburants du genre de l’essence utilisés dans les moteurs à combustion interne;
-- **c)** le gaz propane.
+- **c)** le gaz propane. (*fuel*)
 
-***conseil*** S’entend au sens du terme ***conseil de la bande***, défini au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***conseil*** S’entend au sens du terme ***conseil de la bande***, défini au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council of a band*)
 
-***directe*** Pour distinguer une taxe directe d’une taxe indirecte, a le même sens qu’à la catégorie 2 de l’article 92 de la Loi constitutionnelle de 1867.
+***directe*** Pour distinguer une taxe directe d’une taxe indirecte, a le même sens qu’à la catégorie 2 de l’article 92 de la Loi constitutionnelle de 1867. (*direct*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***produit du tabac***
-- **a)** Produit réalisé par un fabricant de tabac avec du tabac en feuilles, au sens où ces expressions s’entendent à l’article 6 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), par quelque procédé que ce soit, y compris les cigarettes et les bâtonnets de tabac, au sens de cet article, et le tabac à priser;
-- **b)** les feuilles et tiges de la plante de tabac, traitées au-delà du séchage et du triage;
-- **c)** les cigares au sens de l’article 6 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md). (*tobacco product*)
 
 **Termes définis dans d’autres lois**
 
 - **(2)** Dans la présente partie :
 	- **a)** les termes ***bande*** et ***réserve*** s’entendent au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
 	- **b)** les termes ***fourniture*** et ***fourniture taxable*** s’entendent au sens du paragraphe 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+> 2000, ch. 14, art. 23; 2002, ch. 22, art. 321.
+
 
 
 
