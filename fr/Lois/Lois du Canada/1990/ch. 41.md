@@ -41,7 +41,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***exploitation*** L’exploitation visée par le plan de mise en valeur du champ Hibernia autorisé par la décision mentionnée au paragraphe 6(1) et ses modifications éventuelles et approuvées par l’Office. (*Hibernia Development Project* or *Project*)
 
-***lois fédérales*** Sont compris parmi les lois fédérales tout ou partie des lois du Parlement, des règlements au sens de l’article 2 de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) et des autres règles de droit qui relèvent de la compétence du Parlement. Sont exclues de la présente définition les ordonnances au sens de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md) ou de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md). (*federal laws*)
+  ***lois fédérales*** Sont compris parmi les lois fédérales tout ou partie des lois du Parlement, des règlements au sens de l'article 2 de la Loi d'interprétation  et des autres règles de droit qui relèvent de la compétence du Parlement. Sont exclues de la présente définition les ordonnances au sens de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md)  ainsi que les lois de la Législature du Yukon ou du Nunavut. (*federal laws*)
 
 ***lois terre-neuviennes*** Sont compris parmi les lois terre-neuviennes tout ou partie des lois et des règles de droit, sauf des lois fédérales, en vigueur dans la province. (*laws of Newfoundland*)
 
@@ -69,7 +69,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **a)** fixer les limites externes de tout ou partie du plateau continental pour l’application de la définition de ***plateau continental*** ou englober, pour plus de sûreté, le fond de la mer et le sous-sol des zones sous-marines déterminés dans les limites du plateau continental;
 	- **b)** délimiter les zones extracôtières pour l’application de la définition de ***zone extracôtière***;
 	- **c)** prévoir, pour l’application de la définition de ***zone extracôtière***, la façon de déterminer la province dont la côte est la plus proche d’une zone de mer donnée.
-> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37.
+> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37; 2002, ch. 7, art. 178.
 
 
 
