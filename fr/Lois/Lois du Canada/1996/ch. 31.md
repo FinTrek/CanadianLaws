@@ -693,7 +693,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **39.3** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3) :
+- **(1)** Sous réserve des paragraphes (2) et (3) :
 	- **a)** les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent en cas de saisies d’objets effectuées par l’agent de l’autorité en vertu de la présente loi ou d’un mandat délivré au titre du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** la responsabilité de ces objets incombe, sous réserve d’une ordonnance rendue aux termes de l’article 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’agent de l’autorité ou à la personne qu’il désigne.
 
@@ -708,6 +708,8 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Abandon**
 
 - **(4)** Le propriétaire légitime de tout objet saisi en application de la présente loi peut l’abandonner au profit de Sa Majesté du chef du Canada ou d’une province.
+> 1996, ch. 31, art. 39.3; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -818,14 +820,14 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **39.12** 
 
-- **(1)** En plus des modes prévus au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la poursuite des infractions précisées par règlement peut être intentée de la façon suivante :
+- **(1)** En plus des modes prévus au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la poursuite des infractions précisées par règlement peut être intentée de la façon suivante :
 	- **a)** l’agent de l’autorité remplit les deux parties — sommation et dénonciation — du formulaire de contravention;
 	- **b)** il remet la sommation à l’accusé ou la lui envoie par la poste à sa dernière adresse connue;
 	- **c)** avant la remise ou l’envoi de la sommation, ou dès que possible par la suite, il dépose la dénonciation auprès du tribunal compétent.
 
 **Contenu du formulaire de contravention**
 
-- **(2)** Les deux parties du formulaire de contravention comportent les éléments suivants :
+- **(2)** Les deux parties du formulaire de contravention comportent les éléments suivants :
 	- **a)** définition de l’infraction et indication du lieu et du moment où elle aurait été commise;
 	- **b)** déclaration signée dans laquelle l’agent de l’autorité atteste qu’il a des motifs raisonnables de croire que l’accusé a commis l’infraction;
 	- **c)** indication du montant de l’amende réglementaire pour l’infraction, ainsi que mention du mode et du délai de paiement;
@@ -838,15 +840,17 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Effet du paiement**
 
-- **(4)** Lorsque, après réception de la sommation, l’accusé paie l’amende réglementaire dans le délai fixé :
+- **(4)** Lorsque, après réception de la sommation, l’accusé paie l’amende réglementaire dans le délai fixé :
 	- **a)** d’une part, le paiement constitue un plaidoyer de culpabilité à l’égard de l’infraction et une déclaration de culpabilité est inscrite à son dossier, aucune autre poursuite ne pouvant dès lors être intentée contre lui à cet égard;
 	- **b)** d’autre part, malgré l’article 39.3, les objets saisis entre ses mains en rapport avec l’infraction, ou le produit de leur aliénation, sont confisqués au profit de Sa Majesté du chef du Canada ou d’une province, selon que l’agent de l’autorité saisissant est fonctionnaire de l’administration publique fédérale ou fonctionnaire de la province en question.
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement, déterminer :
+- **(5)** Le gouverneur en conseil peut, par règlement, déterminer :
 	- **a)** les infractions visées par le présent article ainsi que leur désignation dans le formulaire de contravention;
-	- **b)** le montant de l’amende afférente à concurrence de 2 000 $.
+	- **b)** le montant de l’amende afférente à concurrence de 2 000 $.
+> 1996, ch. 31, art. 39.12; 2003, ch. 22, art. 224(A).
+
 
 
 
