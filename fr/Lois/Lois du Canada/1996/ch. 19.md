@@ -2183,7 +2183,11 @@ mais non compris :
 **31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
 
 
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2,  3, 4(F) et 5.
+**32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5)
+amino]-7 heptanoïque et ses sels
+
+
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2,  3, 4(F) et 5; DORS/2003-412.
 
 
 
