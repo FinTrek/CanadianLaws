@@ -47,8 +47,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***forensic DNA analysis***, in relation to a bodily substance, means forensic DNA analysis of the bodily substance.
 
-***young person*** has the same meaning as in subsection 2(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md).
-> 1998, c. 37, s. 2; 2000, c. 10, s. 4.
+***young person***  has the meaning assigned by subsection 2(1) of the 
+[Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) .
+> 1998, c. 37, s. 2; 2000, c. 10, s. 4; 2002, c. 1, s. 187.
 
 
 
