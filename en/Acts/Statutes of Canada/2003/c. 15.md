@@ -139,8 +139,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Employment Insurance Act
 
 
@@ -177,8 +175,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Employment Insurance (Fishing) Regulations
 
 
@@ -202,8 +198,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Related Amendments
 
 
-
-****
 
 #### Canada Labour Code
 
@@ -239,7 +233,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Despite section 153 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), sections 23 and 24 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='b-9.851_note1-e'><sup>*</sup></a>: [Note: Section 21 in force on assent June 19, 2003.]<br />
+<a name='b-9.851_note1-e'><sup>*</sup></a>: [Note: Section 21 in force on assent June 19, 2003; sections 15 to 20 and 22 to 29 in force January 4, 2004, *see* SI/2003-185.]<br />
 
 
 
@@ -253,8 +247,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 #### Budget Implementation Act, 1997
 
 
@@ -263,8 +255,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 #### Budget Implementation Act, 1998
 
 
@@ -272,8 +262,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 #### Canada Foundation for Sustainable Development Technology Act
 
@@ -364,8 +352,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Amendments to the Farm Credit Canada Act
 
 
@@ -377,8 +363,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Repeal of Debt Servicing and Reduction Account Act
 
@@ -393,8 +377,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 6** 
-****
-
 ## Amendments to the Air Travellers Security Charge Act
 
 
@@ -408,8 +390,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Customs Tariff
 
 
@@ -417,8 +397,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Excise Act, 2001
 
@@ -459,8 +437,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Excise Tax Act
 
@@ -507,8 +483,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Excise Tax Act
 
 
@@ -532,8 +506,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Consequential Amendment to Excise Act, 2001
 
@@ -561,8 +533,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 #### Excise Tax Act
 
 
@@ -575,8 +545,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Amendments to the Income Tax Act and Another Act As a Consequence
 
 
-
-****
 
 ### Income Tax Act
 
@@ -666,8 +634,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-****
-
 ### Children’s Special Allowances Act
 
 
@@ -680,8 +646,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Amendments Related to Standardized Accounting
 
 
-
-****
 
 ### Excise Act, 2001
 
@@ -698,8 +662,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Excise Tax Act
 
@@ -772,8 +734,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-****
 
 ### Income Tax Act
 
