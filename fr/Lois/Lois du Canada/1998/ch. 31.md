@@ -86,8 +86,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***aire marine nationale de conservation*** Aire marine de conservation ou réserve au sens du paragraphe 2(1) de la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md).
 
-***autres lieux patrimoniaux protégés*** Sont compris parmi les autres lieux patrimoniaux protégés :
-- **a)** les canaux historiques qui relèvent de la compétence du ministre en vertu de la [Loi sur le ministère du Patrimoine canadien](/fr/Lois/Lois%20du%20Canada/1995/ch.%2011.md);
+***autres lieux patrimoniaux protégés*** Sont compris parmi les autres lieux patrimoniaux protégés : 
+- **a)** les canaux historiques;
 - **b)** les musées historiques qui peuvent être créés par le ministre en vertu de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
 - **b.1)** le parc marin du Saguenay — Saint-Laurent, créé par l’article 5 de la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md);
 - **c)** les autres lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition.
@@ -98,19 +98,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***lieu historique national*** Lieu historique national du Canada auquel s’applique la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou lieu désigné dans le cadre du paragraphe (2).
 
-***ministre*** Le ministre du Patrimoine canadien.
+***ministre*** Le ministre de l’Environnement.
 
 ***parc national*** Parc ou réserve au sens de l’article 2 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
 
-***programmes de protection du patrimoine*** Sont compris parmi les programmes de protection du patrimoine les programmes liés aux éléments suivants :
-- **a)** les gares ferroviaires patrimoniales et les édifices fédéraux du patrimoine qui relèvent de la compétence du ministre en vertu de la [Loi sur le ministère du Patrimoine canadien](/fr/Lois/Lois%20du%20Canada/1995/ch.%2011.md);
+***programmes de protection du patrimoine*** Sont compris parmi les programmes de protection du patrimoine les programmes liés aux éléments suivants : 
+- **a)** les gares ferroviaires patrimoniales et les édifices fédéraux du patrimoine;
 - **b)** les rivières du patrimoine canadien et l’archéologie fédérale;
 - **c)** les questions relatives aux lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition.
 
 **Désignation**
 
 - **(2)** Le ministre peut désigner tout lieu historique au sens de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) comme lieu historique national pour l’application de la présente loi.
-> 1998, ch. 31, art. 2 et 61.1; 2000, ch. 32, art. 58; 2002, ch. 18, art. 34.
+> 1998, ch. 31, art. 2 et 61.1; 2000, ch. 32, art. 58; 2002, ch. 18, art. 34; 2005, ch. 2, art. 3.
 
 
 
@@ -131,15 +131,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Le ministre est responsable de l’Agence et fixe pour elle les grandes orientations à suivre.
+- **(1)** Le ministre est responsable de l’Agence et, à ce titre, ses attributions s’étendent de façon générale à tous les domaines de compétence fédérale non attribués de droit à d’autres ministères ou organismes et liés :
+	- **a)** aux lieux naturels ou historiques d’importance pour la nation, notamment les parcs nationaux, les aires marines nationales de conservation, les lieux historiques nationaux, les canaux historiques, les musées historiques créés en vertu de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) et le parc marin du Saguenay — Saint-Laurent;
+	- **b)** aux gares ferroviaires patrimoniales, aux édifices fédéraux patrimoniaux, aux lieux patrimoniaux au Canada, à l’archéologie fédérale et aux rivières du patrimoine canadien;
+	- **c)** à la mise sur pied et la mise en œuvre de programmes visant principalement le patrimoine bâti.
 
 **Instructions du ministre**
 
-- **(2)** L’Agence se conforme aux instructions générales ou particulières du ministre en ce qui a trait à la réalisation de sa mission.
+- **(2)** Le ministre fixe les grandes orientations à suivre par l’Agence, à qui il incombe de se conformer aux instructions générales ou particulières qu’il lui donne en ce qui a trait à la réalisation de sa mission.
 
 **Exception**
 
 - **(3)** Les questions visées à l’article 13 ne peuvent toutefois faire l’objet d’instructions.
+> 1998, ch. 31, art. 4; 2005, ch. 2, art. 4.
+
 
 
 
@@ -157,10 +162,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(3)** Sont exclus des attributions visées au paragraphe (1) :
-	- **a)** les attributions conférées au ministre par la présente loi;
+	- **a)** les attributions conférées au ministre par la présente loi, sauf celles qui sont prévues au paragraphe 4(1);
 	- **b)** le pouvoir de prendre des règlements en application de la présente loi ou d’une autre loi;
 	- **c)** les pouvoirs de nomination et de désignation prévus à la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) et la [Loi sur la protection des gares ferroviaires patrimoniales](/fr/Lois/Lois%20du%20Canada/1985/ch.%2052%20(4e%20suppl.).md).
-> 1998, ch. 31, art. 5; 2002, ch. 18, art. 35.
+> 1998, ch. 31, art. 5; 2002, ch. 18, art. 35; 2005, ch. 2, art. 5.
 
 
 
