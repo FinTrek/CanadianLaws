@@ -39,41 +39,41 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de campagne à la direction*** Personne nommée au titre du paragraphe 435.08(1), y compris l’agent financier d’un candidat à la direction. 
+***agent de campagne à la direction*** 			 Personne nommée au titre du paragraphe 435.08(1), y compris l’agent financier d’un candidat à la direction. 
 
-***agent de circonscription*** Personne nommée au titre du paragraphe 403.09(1), y compris l’agent financier d’une association enregistrée. 
+***agent de circonscription*** 			 Personne nommée au titre du paragraphe 403.09(1), y compris l’agent financier d’une association enregistrée. 
 
-***agent enregistré*** Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré. 
+***agent enregistré*** 			 Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré. 
 
-***agent officiel*** L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1). 
+***agent officiel*** 			 L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1). 
 
-***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2) h). 
+***agent principal*** 			 Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2) h). 
 
-***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
+***annulé*** 			 S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
 - **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
 - **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation — , 213(4), 242(1) ou 258(3).
 
-***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1) a)(v). 
+***appartenance politique*** 			 En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1) a)(v). 
 
-***arbitre*** Personne nommée en vertu du paragraphe 332(1). 
+***arbitre*** 			 Personne nommée en vertu du paragraphe 332(1). 
 
-***association de circonscription*** Regroupement des membres d’un parti politique dans une circonscription. 
+***association de circonscription*** 			 Regroupement des membres d’un parti politique dans une circonscription. 
 
-***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription prévu à l’article 403.08. 
+***association enregistrée*** 			 			 			 Association de circonscription inscrite dans le registre des associations de circonscription prévu à l’article 403.08. 
 
-***bref*** Bref d’élection. 
+***bref*** 			 Bref d’élection. 
 
-***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255. 
+***bureau de scrutin*** 			 Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255. 
 
-***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3). 
+***bureau de vote par anticipation*** 			 Bureau de vote établi en vertu du paragraphe 168(3). 
 
-***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475. 
+***candidat*** 			 Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475. 
 
-***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction prévu à l’article 435.07, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 435.3 à 435.47. 
+***candidat à la direction*** 			 Personne inscrite dans le registre des candidats à la direction prévu à l’article 435.07, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 435.3 à 435.47. 
 
-***candidat à l’investiture*** Personne dont le nom figure dans le rapport déposé au titre de l’alinéa 478.02(1) c) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 478.23 à 478.42. 
+***candidat à l’investiture*** 			 Personne dont le nom figure dans le rapport déposé au titre de l’alinéa 478.02(1) c) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 478.23 à 478.42. 
 
-***circonscription*** Division territoriale représentée par un député à la Chambre des communes. 
+***circonscription*** 			 Division territoriale représentée par un député à la Chambre des communes. 
 
 ***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2). 
 
@@ -153,6 +153,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***parti enregistré*** Parti politique inscrit à titre de parti enregistré au registre des partis prévu à l’article 374. 
 
+***parti politique*** Organisation dont l’un des objectifs essentiels consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres.
+
 ***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou, conformément à l’article 551, est réputé l’être. 
 
 ***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment. 
@@ -196,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(5)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1.
 
 
 
@@ -2135,8 +2137,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les bulletins de vote mentionnent, sous le nom du candidat, le nom, dans la forme précisée à l’alinéa 366(2)b), du parti politique qui le soutient si les conditions suivantes sont remplies :
 	- **a)** le candidat l’a mentionné dans son acte de candidature;
 	- **b)** l’acte prévu à l’alinéa 67(4)c) a été présenté;
-	- **c)** à la clôture des candidatures, le parti satisfait aux exigences des articles 366 et 368;
-	- **d)** le parti soutient dans au moins douze circonscriptions un candidat dont la candidature a été confirmée pour une élection générale ou, dans le cas d’une élection partielle, pour l’élection générale précédente.
+	- **c)** à la clôture des candidatures, le parti est enregistré.
+	- **d)** [Abrogé, 2004, ch. 24, art. 2]
 
 **Mention « indépendant »**
 
@@ -2147,7 +2149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mention de l’adresse ou de la profession**
 
 - **(5)** Dans les cas où au moins deux candidats ont le même nom et ont indiqué leur intention d’être désignés par la mention « indépendant » ou de n’avoir aucune désignation de parti dans le cadre du sous-alinéa 66(1)a)(v), les bulletins de vote mentionnent l’adresse ou la profession de ces candidats s’ils en font la demande par écrit au directeur du scrutin, au plus tard à 17 h le jour de clôture.
-> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12.
+> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2.
 
 
 
@@ -6121,16 +6123,23 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Contenu de la demande**
 
-- **(2)** La demande d’enregistrement doit comporter :
+- **(2)** La demande d’enregistrement doit comporter :
 	- **a)** le nom intégral du parti;
 	- **b)** le nom du parti en sa forme abrégée, ou l’abréviation de ce nom, qui doit figurer sur les documents électoraux;
 	- **c)** le logo du parti, le cas échéant;
-	- **d)** les nom et adresse du chef du parti;
+	- **d)** les nom et adresse du chef du parti, ainsi qu’une copie de la résolution de sa nomination adoptée par le parti, attestée par lui et un autre dirigeant du parti;
 	- **e)** l’adresse du bureau du parti où sont conservées les archives et où les communications peuvent être adressées;
-	- **f)** les nom et adresse des dirigeants du parti;
+	- **f)** les nom et adresse des dirigeants du parti et leur déclaration signée d’acceptation de la charge;
 	- **g)** les nom et adresse du vérificateur du parti et sa déclaration signée d’acceptation de la charge;
 	- **h)** les nom et adresse de l’agent principal du parti et sa déclaration signée d’acceptation de la charge;
-	- **i)** les nom, adresse et signature de cent électeurs membres du parti.
+	- **i)** les nom et adresse de deux cent cinquante électeurs et la déclaration de ceux-ci, établie selon le formulaire prescrit, attestant qu’ils sont membres du parti et qu’ils appuient la demande d’enregistrement du parti;
+	- **j)** la déclaration du chef du parti, établie selon le formulaire prescrit, confirmant que, compte tenu de tous les éléments permettant d’établir les objectifs du parti, notamment ceux mentionnés au paragraphe 521.1(5), l’un des objectifs essentiels du parti consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres.
+
+**Renseignements supplémentaires**
+
+- **(3)** Le directeur général des élections peut, pour vérifier si le parti compte parmi ses objectifs essentiels celui qui est mentionné à l’alinéa (2)j), demander au chef du parti de lui communiquer tous renseignements utiles, notamment ceux qui sont visés au paragraphe 521. 1(5).
+> 2000, ch. 9, art. 366; 2004, ch. 24, art. 3.
+
 
 
 
@@ -6148,8 +6157,10 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **a)** de l’avis du directeur général des élections, son nom, la forme abrégée ou l’abréviation de celui-ci ou son logo :
 	- **(i)** soit ne ressemble pas de si près au nom, à la forme abrégée ou à l’abréviation de celui-ci ou au logo d’un parti enregistré ou d’un parti admissible qu’il risque d’être confondu avec eux,
 	- **(ii)** soit ne comporte pas le mot « indépendant » ou un mot qui ressemble de si près à ce mot qu’il risque d’y être confondu;
-- **b)** il a nommé un agent principal et un vérificateur;
-- **c)** le directeur général des élections est convaincu qu’il a fourni les renseignements exigés au titre du paragraphe 366(2).
+- **b)** il a au moins trois dirigeants, en plus de son chef, et il a nommé un agent principal et un vérificateur;
+- **c)** le directeur général des élections est convaincu qu’il a fourni les renseignements exigés au titre du paragraphe 366(2) et que ceux-ci sont exacts.
+> 2000, ch. 9, art. 368; 2004, ch. 24, art. 4.
+
 
 
 
@@ -6169,11 +6180,17 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **369** 
 
-- **(1)** Le directeur général des élections avise le chef du parti politique qui a présenté la demande, dès que possible après réception de celle-ci, que le parti est admissible ou non au titre de l’article 368.
+- **(1)** Le directeur général des élections avise le chef du parti politique qui a présenté la demande, dès que possible après réception de celle-ci, de l’admissibilité ou de l’inadmissibilité du parti au titre de l’article 368. En cas de notification d’inadmissibilité, il indique au chef du parti laquelle des conditions prévues à cet article n’est pas remplie.
 
-**Sanction : partis admissibles**
+**Perte de statut**
 
-- **(2)** Le parti politique qui, ayant été avisé de son admissibilité en application du paragraphe (1), contrevient à l’un ou l’autre des articles 371 et 376 à 381, aux paragraphes 382(1), (3) ou (4) ou 383(1) ou à l’article 384 perd son statut de parti admissible.
+- **(2)** Le parti politique qui a été avisé de son admissibilité en application du paragraphe (1) perd son statut de parti admissible dans les cas suivants :
+	- **a)** il contrevient à l’article 371, au paragraphe 374.1(1), à l’un des articles 378 à 380.1, à l’un des paragraphes 382(1), (3) ou (4) ou 383(1) ou à l’article 384;
+	- **b)** un de ses dirigeants est inadmissible à l’exercice de sa charge au titre du paragraphe 374.1(2);
+	- **c)** son agent principal est inadmissible à l’exercice de sa charge au titre de l’article 376;
+	- **d)** son vérificateur est inadmissible à l’exercice de sa charge au titre de l’article 377.
+> 2000, ch. 9, art. 369; 2004, ch. 24, art. 5.
+
 
 
 
@@ -6182,23 +6199,27 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **370** 
 
-- **(1)** Le parti admissible est enregistré lorsqu’a été confirmée la candidature d’un candidat soutenu par lui dans cinquante circonscriptions pour une élection générale, s’il n’a pas retiré sa demande d’enregistrement et si celle-ci a été présentée au moins soixante jours avant la délivrance des brefs pour cette élection.
+- **(1)** Le parti admissible est enregistré lorsqu’a été confirmée la candidature d’au moins un candidat soutenu par lui pour une élection, s’il n’a pas retiré sa demande d’enregistrement et si celle-ci a été présentée au moins soixante jours avant la délivrance du ou des brefs pour cette élection.
 
 **Demande d’enregistrement tardive**
 
-- **(2)** Si la demande d’enregistrement n’a pas été présentée avant les soixante jours visés au paragraphe (1), le parti est enregistré pour l’élection générale suivante, s’il satisfait aux exigences prévues à ce paragraphe.
+- **(2)** Si la demande d’enregistrement n’a pas été présentée avant les soixante jours visés au paragraphe (1), le parti admissible est enregistré pour l’élection générale suivante ou toute élection partielle tenue avant celle-ci, s’il satisfait aux exigences prévues à ce paragraphe pour cette élection.
 
 **Notification**
 
-- **(3)** Dès que possible après l’expiration du délai de quarante-huit heures suivant la clôture des candidatures, le directeur général des élections avise le chef du parti admissible que le parti est enregistré ou non en application du paragraphe (1).
+- **(3)** Dès que possible après l’expiration du délai de quarante-huit heures suivant la clôture des candidatures, le directeur général des élections avise le chef du parti admissible :
+	- **a)** soit que le parti est enregistré s’il satisfait aux exigences prévues au paragraphe (1);
+	- **b)** soit, dans le cas d’une élection générale, que le parti n’est pas enregistré s’il ne satisfait pas à ces exigences.
 
-**Caducité de la demande d’enregistrement**
+**Perte de statut**
 
-- **(4)** Le parti admissible ayant été avisé, au titre du paragraphe (3), qu’il n’a pas été enregistré perd son statut de parti admissible.
+- **(4)** S’il a été avisé au titre du paragraphe (3) qu’il n’a pas été enregistré, le parti admissible, sauf celui visé au paragraphe (2), perd son statut de parti admissible.
 
 **Présomption**
 
-- **(5)** Pour l’application des articles 407, 422, 429 et 435, le parti admissible qui est enregistré en application du paragraphe (1) est réputé l’avoir été depuis la date de délivrance des brefs pour cette élection générale.
+- **(5)** Pour l’application des articles 407, 422, 429 et 435, le parti admissible qui est enregistré en application du paragraphe (1) est réputé l’avoir été depuis la date de délivrance du ou des brefs pour cette élection.
+> 2000, ch. 9, art. 370; 2004, ch. 24, art. 5.
+
 
 
 
@@ -6236,7 +6257,30 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-#### Agents enregistrés et vérificateurs
+#### Dirigeants, agents enregistrés, vérificateurs et membres
+
+
+
+**Nombre minimal de dirigeants**
+
+**374.1** 
+
+- **(1)** Sous réserve du paragraphe (3), les partis enregistrés et les partis admissibles doivent avoir au moins trois dirigeants, en plus du chef du parti.
+
+**Admissibilité : dirigeants**
+
+- **(2)** Seules peuvent exercer la charge de dirigeant d’un parti enregistré ou d’un parti admissible les personnes qui ont leur résidence habituelle au Canada.
+
+**Nomination d’un remplaçant**
+
+- **(3)** Dans le cas où le décès, l’incapacité, la démission, l’inadmissibilité ou la destitution d’un des dirigeants du parti enregistré ou du parti admissible réduit le nombre de ceux-ci à moins de quatre, le parti dispose de trente jours pour nommer un remplaçant.
+
+**Rapport de nomination**
+
+- **(4)** Dans les trente jours suivant le remplacement, le parti enregistré ou le parti admissible en informe le directeur général des élections par production du rapport prévu au paragraphe 382(1).
+> 2004, ch. 24, art. 7.
+
+
 
 
 
@@ -6293,6 +6337,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(2)** Ne sont pas admissibles à la charge de vérificateur :
 	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
 	- **b)** les candidats;
+	- **b.1)** les dirigeants d’un parti enregistré ou d’un parti admissible;
 	- **c)** l’agent officiel d’un candidat;
 	- **d)** l’agent principal d’un parti enregistré ou d’un parti admissible;
 	- **e)** un agent enregistré d’un parti enregistré;
@@ -6300,7 +6345,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **g)** les candidats à la direction et leurs agents de campagne à la direction;
 	- **h)** les candidats à l’investiture et leur agent financier;
 	- **i)** l’agent financier d’un tiers enregistré.
-> 2000, ch. 9, art. 377; 2003, ch. 19, art. 11.
+> 2000, ch. 9, art. 377; 2003, ch. 19, art. 11; 2004, ch. 24, art. 8.
 
 
 
@@ -6308,7 +6353,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Consentement**
 
-**378** Le parti enregistré ou le parti admissible qui nomme une personne en tant qu’agent principal ou vérificateur est tenu d’obtenir de celle-ci une déclaration signée de sa main attestant son acceptation de la charge.
+**378** Le parti enregistré ou le parti admissible est tenu d’obtenir, lors de la nomination de ses dirigeants, agent principal ou vérificateur, une déclaration signée de leur main attestant leur acceptation de la charge.
+> 2000, ch. 9, art. 378; 2004, ch. 24, art. 9.
+
 
 
 
@@ -6333,28 +6380,60 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**Interdiction : agents**
+**Nombre de membres minimal**
+
+**380.1** Les partis enregistrés et les partis admissibles doivent avoir au moins deux cent cinquante membres qui sont des électeurs.
+> 2004, ch. 24, art. 10.
+
+
+
+
+
+**Interdiction : dirigeants**
 
 **381** 
 
-- **(1)** Il est interdit à toute personne d’agir comme agent principal ou agent enregistré d’un parti enregistré ou d’un parti admissible alors qu’elle n’est pas admissible à cette charge.
+- **(1)** Il est interdit à toute personne d’agir comme dirigeant d’un parti enregistré ou d’un parti admissible alors qu’elle n’est pas admissible à cette charge.
 
-**Interdiction : vérificateur**
+**Interdiction : agents**
+
+- **(1.1)** Il est interdit à toute personne d’agir comme agent principal ou agent enregistré d’un parti enregistré ou d’un parti admissible alors qu’elle n’est pas admissible à cette charge.
+
+**Interdiction : vérificateur**
 
 - **(2)** Il est interdit à toute personne d’agir comme vérificateur d’un parti enregistré ou d’un parti admissible alors qu’elle n’est pas admissible à cette charge.
+> 2000, ch. 9, art. 381; 2004, ch. 24, art. 11.
 
 
 
 
-#### Modification des renseignements inscrits au registre des partis
+
+**Interdiction : objectifs essentiels**
+
+**381.1** 
+
+- **(1)** Sous réserve du paragraphe (2), il est interdit à toute personne d’agir ou de continuer d’agir comme dirigeant d’un parti enregistré ou d’un parti admissible si les conditions suivantes sont réunies :
+	- **a)** elle sait que le parti ne compte pas parmi ses objectifs essentiels celui de participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres;
+	- **b)** le parti n’a pas présenté la demande de radiation visée à l’article 388.
+
+**Exception**
+
+- **(2)** La personne visée au paragraphe (1) peut toutefois signer la demande de radiation visée à l’article 388.
+> 2004, ch. 24, art. 12.
 
 
 
-**Rapport : modification des renseignements**
+
+
+#### Modification des renseignements relatifs aux partis
+
+
+
+**Modification des renseignements**
 
 **382** 
 
-- **(1)** Dans les trente jours suivant la modification des renseignements visés au paragraphe 366(2), le parti enregistré ou le parti admissible produit auprès du directeur général des élections un rapport écrit, attesté par son chef, faisant état des modifications.
+- **(1)** Dans les trente jours suivant la modification des renseignements les concernant qui figurent dans le registre des partis, le parti enregistré ou le parti admissible produit auprès du directeur général des élections un rapport écrit, attesté par son chef, faisant état des modifications.
 
 **Nom, abréviation ou logo**
 
@@ -6364,9 +6443,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(3)** Si les modifications concernent le remplacement du chef du parti, le rapport est assorti d’une copie de la résolution de nomination du nouveau chef adoptée par le parti, attestée par le nouveau chef et par un autre dirigeant du parti.
 
-**Agent principal ou vérificateur**
+**Dirigeants, agent principal ou vérificateur**
 
-- **(4)** Si les modifications concernent le remplacement de l’agent principal ou du vérificateur du parti, le rapport est assorti d’une copie de la déclaration d’acceptation de la charge prévue à l’article 378.
+- **(4)** Si les modifications concernent le remplacement d’un dirigeant, de l’agent principal ou du vérificateur du parti, le rapport est assorti d’une copie de la déclaration d’acceptation de la charge prévue à l’article 378.
 
 **Inscription au registre**
 
@@ -6375,7 +6454,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Inscription dans le registre des associations de circonscription**
 
 - **(6)** Le directeur général des élections inscrit les modifications visées au paragraphe (2) dans le registre des associations de circonscription.
-> 2000, ch. 9, art. 382; 2003, ch. 19, art. 12.
+> 2000, ch. 9, art. 382; 2003, ch. 19, art. 12; 2004, ch. 24, art. 14.
 
 
 
@@ -6398,9 +6477,48 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Confirmation annuelle des renseignements**
 
-**384** Au plus tard le 30 juin, les partis enregistrés et les partis admissibles produisent auprès du directeur général des élections :
-- **a)** une déclaration, attestée par leur chef, confirmant l’exactitude des renseignements les concernant qui figurent dans le registre des partis;
-- **b)** dans le cas où ces renseignements ont été modifiés, le rapport prévu au paragraphe 382(1).
+**384** 
+
+- **(1)** Au plus tard le 30 juin, les partis enregistrés et les partis admissibles produisent auprès du directeur général des élections :
+	- **a)** une déclaration, attestée par leur chef, confirmant l’exactitude des renseignements les concernant qui figurent dans le registre des partis;
+	- **b)** dans le cas où ces renseignements ont été modifiés, le rapport prévu au paragraphe 382(1).
+
+**Liste de membres**
+
+- **(2)** Au plus tard le 30 juin, en 2007 et tous les trois ans par la suite, les partis enregistrés et les partis admissibles produisent auprès du directeur général des élections les nom et adresse de deux cent cinquante électeurs et les déclarations de ceux-ci, établies selon le formulaire prescrit, attestant qu’ils sont membres du parti.
+
+**Déclaration du chef du parti**
+
+- **(3)** Au plus tard le 30 juin de chaque année, les partis enregistrés et les partis admissibles produisent auprès du directeur général des élections une déclaration de leur chef, établie selon le formulaire prescrit, confirmant que, compte tenu de tous les éléments permettant d’établir les objectifs du parti, notamment ceux mentionnés au paragraphe 521.1(5), le parti compte parmi ses objectifs essentiels celui qui est mentionné à l’alinéa 366(2) j).
+> 2000, ch. 9, art. 384; 2004, ch. 24, art. 15.
+
+
+
+
+
+**Interdiction : production de renseignements faux ou trompeurs par le chef**
+
+**384.1** 
+
+- **(1)** Il est interdit au chef d’un parti de produire auprès du directeur général des élections des renseignements au titre de l’article 366 qu’il sait faux ou trompeurs.
+
+**Interdiction : production de renseignements faux ou trompeurs par le parti**
+
+- **(2)** Il est interdit à tout parti enregistré ou parti admissible de produire auprès du directeur général des élections des renseignements au titre de l’un des articles 382 à 384 qu’il sait faux ou trompeurs.
+
+**Interdiction : attestation de renseignements faux ou trompeurs par le chef**
+
+- **(3)** Il est interdit au chef d’un parti d’attester, au titre de l’un des articles 382 à 384, une déclaration ou un rapport alors qu’il sait que ces documents contiennent des renseignements faux ou trompeurs.
+
+**Interdiction : déclaration fausse ou trompeuse du chef**
+
+- **(4)** Il est interdit au chef d’un parti de faire la déclaration prévue aux articles 366, 382 ou 384 alors qu’il la sait fausse ou trompeuse.
+
+**Interdiction : déclaration fausse ou trompeuse d’un membre**
+
+- **(5)** Il est interdit à tout membre d’un parti politique de faire la déclaration prévue aux articles 366 ou 384 alors qu’il la sait fausse ou trompeuse.
+> 2004, ch. 24, art. 16.
+
 
 
 
@@ -6409,16 +6527,40 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**Radiation : moins de cinquante candidats**
+**Radiation : aucun candidat**
 
-**385** 
+**385** Le directeur général des élections est tenu de radier le parti enregistré qui, à la fin de la période prévue au paragraphe 71(1) pour la confirmation des candidatures à une élection générale, ne soutient aucun candidat pour cette élection. La radiation prend effet à la fin de cette période.
+> 2000, ch. 9, art. 385; 2003, ch. 19, art. 13; 2004, ch. 24, art. 16.
 
-- **(1)** Le directeur général des élections est tenu de radier le parti enregistré qui, à la fin de la période prévue au paragraphe 71(1) pour la confirmation ou le rejet des candidatures à une élection générale, ne soutient pas de candidat dans au moins cinquante circonscriptions. La radiation prend effet à la fin de cette période.
+
+
+
+
+**Radiation : dirigeants et membres**
+
+**385.1** 
+
+- **(1)** S’il n’est pas convaincu qu’un parti enregistré se conforme aux obligations prévues au paragraphe 374.1(1) ou à l’article 380.1, le directeur général des élections lui enjoint, par avis écrit, de lui démontrer dans les délais ci-après qu’il se conforme à ces obligations :
+	- **a)** soixante jours après réception de l’avis, dans le cas d’une omission de se conformer au paragraphe 374.1(1);
+	- **b)** quatre-vingt-dix jours après réception de l’avis, dans le cas d’une omission de se conformer à l’article 380.1.
+
+**Prorogation**
+
+- **(2)** S’il estime que le parti a fait des efforts raisonnables pour se conformer aux obligations prévues au paragraphe 374.1(1) ou à l’article 380.1 dans le délai imparti, le directeur général des élections peut, par avis écrit, l’informer qu’il dispose d’un délai supplémentaire — égal ou inférieur au précédent — pour se conformer à ces obligations.
+
+**Radiation**
+
+- **(3)** Le directeur général des élections radie le parti enregistré qui ne se conforme pas à l’avis prévu aux paragraphes (1) ou (2), selon le cas.
+> 2004, ch. 24, art. 16.
+
+
+
+
 
 **Notification de la radiation**
 
-- **(2)** La radiation du parti au titre du paragraphe (1) et celle, au titre de l’article 389.2, de ses associations enregistrées est notifiée au chef, à l’agent principal et aux dirigeants du parti figurant dans le registre des partis ainsi qu’au premier dirigeant et à l’agent financier des associations enregistrées du parti figurant dans le registre des associations de circonscription.
-> 2000, ch. 9, art. 385; 2003, ch. 19, art. 13.
+**385.2** La radiation du parti au titre des articles 385 et 385.1 est notifiée au parti et à son agent principal et celle, au titre de l’article 389.2, des associations enregistrées du parti est notifiée à ces associations et à leur agent financier.
+> 2004, ch. 24, art. 16.
 
 
 
@@ -7640,6 +7782,21 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 
 - **(4)** Nul ne peut conclure d’accord prévoyant le paiement de biens ou de services fournis à un parti enregistré ou à un candidat à la condition qu’une personne apporte une contribution, directement ou indirectement, à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
 > 2003, ch. 19, art. 25.
+
+
+
+
+
+**Interdiction : demande ou acceptation de contributions**
+
+**405.21** 
+
+- **(1)** Il est interdit à toute personne ou entité de demander ou d’accepter une contribution pour le compte d’un parti enregistré, d’une association enregistrée ou d’un candidat en indiquant à la personne à qui est demandée ou de qui est reçue la contribution que celle-ci sera, en tout ou en partie, cédée à une personne ou à une entité autre qu’un parti enregistré, un candidat, un candidat à la direction ou une association de circonscription.
+
+**Interdiction : collusion**
+
+- **(2)** Il est interdit à toute personne ou entité d’agir de concert avec une personne ou entité pour échapper à l’interdiction prévue au paragraphe (1).
+> 2004, ch. 24, art. 17.
 
 
 
@@ -8962,8 +9119,8 @@ La demande est notifiée au directeur général des élections.
 
 **Délai de production**
 
-- **(3)** L’agent financier produit la version modifiée du document dans les trente jours suivant la date du paiement qui en fait l’objet.
-> 2003, ch. 19, art. 40.
+- **(3)** L’agent financier produit la version modifiée du document visé au paragraphe (1) dans les trente jours suivant la date du paiement que celui-ci atteste.
+> 2003, ch. 19, art. 40; 2004, ch. 24, art. 18.
 
 
 
@@ -9625,7 +9782,9 @@ La demande est notifiée au directeur général des élections.
 
 **Délai de production**
 
-- **(3)** L’agent officiel produit la version modifiée de tel document dans les trente jours suivant la date du paiement qui en fait l’objet.
+- **(3)** L’agent officiel produit la version modifiée du document visé au paragraphe (1) dans les trente jours suivant la date du paiement que celui-ci atteste.
+> 2000, ch. 9, art. 455; 2004, ch. 24, art. 19.
+
 
 
 
@@ -10578,8 +10737,8 @@ La demande est notifiée au directeur général des élections.
 
 **Délai de production**
 
-- **(3)** L’agent financier produit la version modifiée du document dans les trente jours suivant la date du paiement qui en fait l’objet.
-> 2003, ch. 19, art. 57.
+- **(3)** L’agent financier produit la version modifiée du document visé au paragraphe (1) dans les trente jours suivant la date du paiement que celui-ci atteste.
+> 2003, ch. 19, art. 57; 2004, ch. 24, art. 20.
 
 
 
@@ -11206,7 +11365,7 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Commet une infraction :
 	- **a)** le parti enregistré qui contrevient à l’article 372 (défaut de produire l’état de l’actif et du passif ou un document y afférent);
-	- **b)** le parti enregistré qui contrevient au paragraphe 375(3), ou le parti enregistré ou le parti admissible qui contrevient à l’article 378, aux paragraphes 379(1) ou (2) ou à l’article 380 (défaut d’observer les exigences relatives à la nomination de l’agent principal, d’un agent enregistré ou du vérificateur);
+	- **b)** le parti enregistré qui contrevient au paragraphe 375(3), ou le parti enregistré ou le parti admissible qui contrevient au paragraphe 374. 1(4), à l’article 378, aux paragraphes 379(1) ou (2) ou à l’article 380 (défaut d’observer les exigences relatives aux dirigeants, à l’agent principal, aux agents enregistrés ou au vérificateur);
 	- **c)** le parti enregistré qui contrevient aux paragraphes 382(1) ou (4) (défaut de faire rapport sur la modification des renseignements concernant le parti);
 	- **d)** le parti enregistré qui contrevient à l’article 384 (défaut de produire la confirmation des renseignements concernant le parti);
 	- **e)** tout agent principal d’un parti politique radié qui contrevient à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
@@ -11300,7 +11459,11 @@ La demande est notifiée au directeur général des élections.
 
 - **(3)** Commet une infraction :
 	- **a)** le parti enregistré qui contrevient volontairement à l’article 372 (défaut de produire l’état de l’actif et du passif ou un document y afférent);
-	- **b)** quiconque contrevient volontairement aux paragraphes 381(1) ou (2) (personne inadmissible agissant comme agent principal, agent enregistré ou vérificateur d’un parti enregistré);
+	- **b)** quiconque contrevient volontairement aux paragraphes 381(1), (1.1) ou (2) (personne inadmissible agissant comme dirigeant, agent principal, agent enregistré ou vérificateur d’un parti enregistré);
+	- **b.1)** le dirigeant qui contrevient à l’article 381.1 (dirigeant qui sait que le parti n’est pas un parti politique);
+	- **b.2)** le chef d’un parti qui contrevient aux paragraphes 384.1(1), (3) ou (4) (production ou attestation de renseignements faux ou trompeurs ou déclaration fausse ou trompeuse);
+	- **b.3)** le parti enregistré ou le parti admissible qui contrevient au paragraphe 384.1(2) (production de renseignements faux ou trompeurs);
+	- **b.4)** le membre d’un parti qui contrevient au paragraphe 384.1(5) (déclaration fausse ou trompeuse);
 	- **c)** l’agent principal d’un parti politique radié qui contrevient volontairement à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
 	- **d) et e)** [Abrogés, 2003, ch. 19, art. 58]
 	- **f)** l’agent principal d’un parti fusionnant qui contrevient volontairement à l’article 403 (défaut de produire le dernier rapport financier d’un parti fusionnant ou un document y afférent);
@@ -11322,6 +11485,8 @@ La demande est notifiée au directeur général des élections.
 	- **f.15)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(2) (cacher l’identité d’un donateur);
 	- **f.16)** la personne habilitée par la présente loi à accepter des contributions qui contrevient au paragraphe 405.2(3) (accepter sciemment une contribution excessive);
 	- **f.161)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(4) (conclure un accord interdit);
+	- **f.162)** la personne ou l’entité qui contrevient au paragraphe 405.21(1) (demande ou acceptation de contributions);
+	- **f.163)** la personne ou l’entité qui contrevient au paragraphe 405.21(2) (collusion);
 	- **f.17)** la personne ou l’entité qui contrevient volontairement au paragraphe 405.3(1) (apporter des contributions provenant d’une autre personne);
 	- **f.18)** quiconque contrevient au paragraphe 405.3(5) (faire sciemment une déclaration fausse ou trompeuse);
 	- **f.19)** la personne habilitée par la présente loi à accepter des contributions qui contrevient volontairement à l’article 405.4 (défaut de remettre une contribution);
@@ -11383,7 +11548,7 @@ La demande est notifiée au directeur général des élections.
 **Poursuites postérieures à l’expiration des délais**
 
 - **(4)** Il ne peut être engagé de poursuite pour défaut de produire un rapport ou un autre document auprès du directeur général des élections avant l’expiration du délai de présentation, au titre de la présente loi, d’une demande de prorogation du délai de production du rapport ou du document.
-> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58.
+> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21.
 
 
 
@@ -11456,11 +11621,56 @@ La demande est notifiée au directeur général des élections.
 
 **Ordonnance supplémentaire**
 
-**501** En sus de toute peine infligée par application de la présente loi et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut, par ordonnance, imposer à la personne déclarée coupable :
-- **a)** d’exécuter des travaux d’intérêt collectif, aux conditions raisonnables dont il peut assortir l’ordonnance;
-- **b)** d’indemniser la personne qui a subi des dommages à cause de l’infraction;
-- **c)** de remplir les obligations en contravention desquelles elle était;
-- **d)** de prendre toute autre mesure raisonnable qu’il estime appropriée pour veiller au respect de la présente loi.
+**501** 
+
+- **(1)** En sus de toute peine infligée par application de la présente loi et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut, par ordonnance, imposer à la personne déclarée coupable :
+	- **a)** d’exécuter des travaux d’intérêt collectif, aux conditions raisonnables dont il peut assortir l’ordonnance;
+	- **a.1)** dans le cas où l’infraction donne lieu, même indirectement, à un avantage financier au titre de la présente loi ou à une contribution à l’égard de laquelle un reçu visé au paragraphe 127(3) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) est délivré, de remettre au receveur général une somme qui ne peut toutefois être supérieure à cet avantage ou à cette contribution, selon le cas;
+	- **b)** d’indemniser la personne qui a subi des dommages à cause de l’infraction;
+	- **c)** de remplir les obligations en contravention desquelles elle était;
+	- **d)** de prendre toute autre mesure raisonnable qu’il estime appropriée pour veiller au respect de la présente loi.
+
+**Ordonnance supplémentaire**
+
+- **(2)** Dans le cas où un parti enregistré ou son agent principal ou l’un de ses agents enregistrés ou dirigeants est déclaré coupable d’une infraction à l’une des dispositions mentionnées au paragraphe (3), le tribunal peut, par ordonnance, en sus de toute peine infligée par application de la présente loi et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration :
+	- **a)** enjoindre au directeur général des élections de radier le parti;
+	- **b)** s’il ordonne la radiation du parti au titre de l’alinéa a), enjoindre à l’agent principal ou à la personne qu’il précise de liquider les biens du parti;
+	- **c)** s’il ordonne la liquidation des biens du parti au titre de l’alinéa b), enjoindre à l’agent financier de chaque association enregistrée du parti ou à la personne qu’il précise de liquider les biens de l’association.
+
+**Dispositions**
+
+- **(3)** Les dispositions visées au paragraphe (2) sont les suivantes :
+	- **a)** l’alinéa 497(3)b.2) (production ou attestation de renseignements faux ou trompeurs ou déclaration fausse ou trompeuse);
+	- **b)** l’alinéa 497(3)b.3) (production de renseignements faux ou trompeurs);
+	- **c)** l’alinéa 497(3)f.07) (défaut de produire le rapport financier d’une association enregistrée ou un document afférent);
+	- **d)** l’alinéa 497(3)*f.161*) (conclure un accord interdit);
+	- **e)** l’alinéa 497(3)*f.162*) (contributions déguisées);
+	- **f)** l’alinéa 497(3)*f.163*) (collusion);
+	- **g)** l’alinéa 497(3)i) (défaut de produire le rapport financier d’un parti enregistré ou un document afférent);
+	- **h)** l’alinéa 497(3)k) (production d’un rapport financier renfermant une déclaration fausse ou trompeuse);
+	- **i)** le sous-alinéa 497(3)m)(ii) (production d’un compte des dépenses électorales renfermant une déclaration fausse ou trompeuse);
+	- **j)** l’alinéa 497(3)v) (production d’un compte de campagne électorale renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne électorale incomplet).
+
+**Documents à remettre au directeur général des élections**
+
+- **(4)** L’agent principal ou la personne précisée par le tribunal remet au directeur général des élections, dans les six mois suivant la date de l’ordonnance de liquidation des biens du parti visée au paragraphe (2) :
+	- **a)** un état de la juste valeur marchande de l’actif et du passif du parti — dressé selon les principes comptables généralement reconnus — à la date de l’ordonnance;
+	- **b)** le rapport que lui adresse le vérificateur du parti indiquant si, à son avis, l’état reflète, selon les normes de vérification généralement reconnues, la juste valeur marchande de l’actif et du passif;
+	- **c)** sa déclaration concernant l’état, établie selon le formulaire prescrit.
+
+**Remise au receveur général**
+
+- **(5)** Dans les trois mois suivant la production des documents visés au paragraphe (4), l’agent principal ou la personne précisée par le tribunal verse au directeur général des élections, qui la fait parvenir au receveur général, une somme d’argent égale à l’excédent de l’actif sur le passif du parti, calculé d’après l’état prévu à l’alinéa (4)a).
+
+**Responsabilité de l’agent principal**
+
+- **(6)** L’agent principal ou la personne précisée par le tribunal est responsable du versement de la somme d’argent prévue au paragraphe (5).
+
+**Application aux associations enregistrées**
+
+- **(7)** Les paragraphes (4) à (6) s’appliquent à la liquidation, au titre du paragraphe (2), des biens d’une association enregistrée, la mention de « agent principal » et « parti » à ces paragraphes valant mention de « agent financier » et « association enregistrée » respectivement.
+> 2000, ch. 9, art. 501; 2004, ch. 24, art. 22.
+
 
 
 
@@ -11778,6 +11988,53 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 **Publication**
 
 **521** Le commissaire publie, selon les modalités qu’il estime indiquées, un avis comportant le nom de l’intéressé, les faits reprochés et un résumé des modalités de la transaction.
+
+
+
+
+### Radiation
+
+
+
+**Avis au parti**
+
+**521.1** 
+
+- **(1)** S’il soupçonne, pour des motifs raisonnables, qu’un parti enregistré ne compte pas parmi ses objectifs essentiels celui de participer à l’administration des affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres, le commissaire, par avis écrit, demande au parti de lui démontrer que cela constitue un de ses objectifs essentiels.
+
+**Demande au tribunal**
+
+- **(2)** Si, après avoir donné au parti la possibilité de lui démontrer quels sont ses objectifs essentiels, le commissaire entretient toujours les soupçons mentionnés au paragraphe (1), il peut demander au tribunal compétent en vertu du paragraphe 525(1) l’ordonnance visée au paragraphe (3).
+
+**Ordonnance**
+
+- **(3)** S’il conclut que le parti ne compte pas parmi ses objectifs essentiels celui qui est mentionné au paragraphe (1), le tribunal saisi de la demande enjoint au directeur général des élections de radier le parti; il peut en outre :
+	- **a)** enjoindre à l’agent principal ou à la personne qu’il précise de liquider les biens du parti;
+	- **b)** s’il ordonne la liquidation des biens du parti au titre de l’alinéa a), enjoindre à l’agent financier de chaque association enregistrée du parti ou à la personne qu’il précise de liquider les biens de celle-ci.
+
+**Charge de la preuve**
+
+- **(4)** Il incombe au parti de prouver qu’il compte parmi ses objectifs essentiels celui qui est mentionné au paragraphe (1).
+
+**Prise en compte d’éléments**
+
+- **(5)** Pour rendre sa décision, le tribunal prend en compte tous les éléments permettant d’établir les objectifs du parti, notamment, le cas échéant :
+	- **a)** la constitution, les statuts, les lettres patentes ou les règlements administratifs du parti ou tout autre document permettant d’établir ses objectifs;
+	- **b)** le programme politique du parti, son rapport annuel à ses membres, son programme de financement, son matériel publicitaire et ses déclarations en matière d’orientations;
+	- **c)** la nature et l’étendue des activités du parti, de ses associations enregistrées et de ses candidats, y compris leur degré de participation aux campagnes électorales et leurs déclarations publiques au soutien d’un autre parti politique ou d’un candidat d’un autre parti politique;
+	- **d)** les fonds reçus par le parti, par ses associations enregistrées et par ses candidats, leur source et leur utilisation, notamment à titre de dépenses électorales;
+	- **e)** les relations du parti avec toute entité qui n’est pas un parti politique reconnu par le droit provincial susceptibles d’indiquer que le parti est contrôlé, directement ou indirectement, par une entité ou qu’il utilise son statut de parti enregistré principalement pour procurer une aide financière à une autre entité;
+	- **f)** le fait que le parti est ou non une entité à but non lucratif.
+
+**Exemption**
+
+- **(6)** Le tribunal peut, sur demande, soustraire le parti et ses associations enregistrées à l’application du paragraphe 127(3.3) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’il estime que le besoin d’assurer l’intégrité du processus électoral et l’intérêt public le justifient. Il peut alors assujettir les activités du parti, de ses associations enregistrées ou de ses candidats aux conditions qu’il juge indiquées.
+
+**Liquidation des biens**
+
+- **(7)** L’agent principal, l’agent financier ou la personne précisée par le tribunal effectue la liquidation ordonnée au titre du paragraphe (3) conformément aux paragraphes 501(4) à (7).
+> 2004, ch. 24, art. 23.
+
 
 
 
