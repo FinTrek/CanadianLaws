@@ -1552,6 +1552,8 @@ L’avis de l’administrateur doit dans tous les cas être fondé sur des motif
 **Paiement sur la Caisse**
 
 - **(6)** Dès réception du rapport, le ministre en envoie une copie à l’administrateur et au demandeur; si le rapport indique le montant de la perte évaluée, l’administrateur ordonne qu’une somme correspondante soit versée au demandeur.
+> 2001, ch. 6, art. 89; 2003, ch. 22, art. 225(A).
+
 
 
 
