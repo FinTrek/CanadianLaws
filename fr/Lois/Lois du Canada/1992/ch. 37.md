@@ -56,11 +56,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Agence*** L’Agence canadienne d’évaluation environnementale constituée par l’article 61.
 
+
 ***autorité fédérale***
-- **a)** Ministre fédéral;
-- **b)** agence fédérale ou organisme constitué sous le régime d’une loi fédérale et tenu de rendre compte au Parlement de ses activités par l’intermédiaire d’un ministre fédéral;
-- **c)** ministère ou établissement public mentionnés aux annexes I et II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **d)** tout autre organisme désigné par les règlements d’application de l’alinéa 59e).
+- **a)
+** Ministre fédéral;
+- **b)
+** agence fédérale ou organisme constitué sous le régime d’une loi fédérale et tenu de rendre compte au Parlement de ses activités par l’intermédiaire d’un ministre fédéral;
+- **c)
+** ministère ou établissement public mentionnés aux annexes I et II de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **d)
+** tout autre organisme désigné par les règlements d’application de l’alinéa 59
+e).
 
 Sont exclus la Législature du Yukon et celle du Nunavut, le commissaire en conseil des Territoires du Nord-Ouest et tous les organismes de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la 
 [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), les commissions portuaires constituées par la 
@@ -72,62 +79,101 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 ***autorité responsable*** L’autorité fédérale qui, en conformité avec le paragraphe 11(1), est tenue de veiller à ce qu’il soit procédé à l’évaluation environnementale d’un projet.
 
+
 ***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité pour les générations futures de satisfaire les leurs.
+
 
 ***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
 
-***effets environnementaux*** Que ce soit au Canada ou à l'étranger, les changements que la réalisation d'un projet risque de causer à l'environnement — notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)  — les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l'usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d'importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d'être apportés au projet du fait de l'environnement.
+
+***effets environnementaux*** Que ce soit au Canada ou à l'étranger, les changements que la réalisation d'un projet risque de causer à l'environnement — notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la 
+[Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)  — les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l'usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d'importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d'être apportés au projet du fait de l'environnement.
 
 
 ***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
-- **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
-- **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
-- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
 
-***étude approfondie*** Évaluation environnementale d’un projet effectuée aux termes de l’article 21 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
+- **a)
+** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
+- **b)
+** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
+- **c)
+** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas 
+a) et 
+b).
+
+***étude approfondie*** Évaluation environnementale d’un projet effectuée aux termes des articles 21 et 21.1 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
+
 
 ***évaluation environnementale*** Évaluation des effets environnementaux d’un projet effectuée conformément à la présente loi et aux règlements.
 
+
 ***examen par une commission*** Évaluation environnementale effectuée par une commission d’évaluation environnementale constituée aux termes de l’article 33 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
+
 ***examen préalable*** Évaluation environnementale qui, à la fois :
-- **a)** est effectuée de la façon prévue à l’article 18;
-- **b)** prend en compte les éléments énumérés au paragraphe 16(1).
 
-***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 59d).
+- **a)
+** est effectuée de la façon prévue à l’article 18;
+- **b)
+** prend en compte les éléments énumérés au paragraphe 16(1).
 
-***liste d’exclusion*** Liste des projets ou catégories de projets établie par règlement aux termes de l’alinéa 59c).
+***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 59
+d).
+
+
+***liste d’exclusion*** Liste des projets ou catégories de projets soustraits à l’évaluation par règlement pris en vertu des alinéas 59c) ou 
+c.1).
+
 
 ***médiation*** Évaluation environnementale effectuée sous la direction d’un médiateur nommé aux termes de l’article 30 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
+
 ***mesures d’atténuation*** Maîtrise efficace, réduction importante ou élimination des effets environnementaux négatifs d’un projet, éventuellement assortie d’actions de rétablissement notamment par remplacement ou restauration; y est assimilée l’indemnisation des dommages causés.
+
 
 ***ministre*** Le ministre de l’Environnement.
 
+
 ***partie intéressée*** Toute personne ou tout organisme pour qui le résultat de l’évaluation environnementale revêt un intérêt qui ne soit ni frivole ni vexatoire.
 
-***programme de suivi*** Programme visant à permettre :
-- **a)** de vérifier la justesse de l’évaluation environnementale d’un projet;
-- **b)** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
 
-***projet*** Réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou proposition d’exercice d’une activité concrète, non liée à un ouvrage, désignée par règlement ou faisant partie d’une catégorie d’activités concrètes désignée par règlement aux termes de l’alinéa 59b).
+***programme de suivi*** Programme visant à permettre :
+
+- **a)
+** de vérifier la justesse de l’évaluation environnementale d’un projet;
+- **b)
+** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
+
+***projet*** Réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou proposition d’exercice d’une activité concrète, non liée à un ouvrage, désignée par règlement ou faisant partie d’une catégorie d’activités concrètes désignée par règlement aux termes de l’alinéa 59
+b).
+
 
 ***promoteur*** Autorité fédérale ou gouvernement, personne physique ou morale ou tout organisme qui propose un projet.
 
+
 ***rapport d’examen préalable*** Rapport des résultats d’un examen préalable.
 
+
+***registre*** Le registre canadien d’évaluation environnementale établi au titre de l’article 55.
+
+
 ***territoire domanial***
-- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu'elle a le pouvoir d'aliéner, ainsi que leurs eaux et leur espace aérien, à l'exception des terres dont le commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise et de celles dont la gestion est confiée à une administration portuaire sous le régime de la 
-[Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou à une société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de cette loi;
-- **b)** les eaux intérieures, la mer territoriale, la zone économique exclusive et le plateau continental du Canada;
-- **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+- **a)
+** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien, à l’exception des terres dont le Commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise;
+- **b)
+** les eaux intérieures, la mer territoriale, la zone économique exclusive et le plateau continental du Canada;
+- **c)
+** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la 
+[Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
 
-**Contrôle**
+**Gestion du territoire domanial**
 
-- **(2)** Pour l’application de la présente loi, a le contrôle d’une personne morale la personne morale :
-	- **a)** d’une part, qui détient — ou en est bénéficiaire — , autrement qu’à titre de garantie seulement, des valeurs mobilières conférant plus de cinquante pour cent du maximum possible des voix à l’élection des administrateurs de la personne morale;
-	- **b)** d’autre part, dont les valeurs mobilières confèrent un droit de vote dont l’exercice permet d’élire la majorité des administrateurs de la personne morale.
-> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122, ch. 29, art. 137.
+- **(2)** Dans l’application de la présente loi aux sociétés d’État, la mention de la gestion du territoire domanial vaut mention de l’administration du territoire domanial ou du fait d’en être propriétaire.
+
+**Précision**
+
+- **(3)** Il est entendu que la réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage, ou l’exercice d’une activité désignée par règlement ou faisant partie d’une catégorie d’activités désignée par règlement pour l’application de la définition de « projet » au paragraphe (1), constituent un projet, au minimum, tant qu’une personne ou un organisme visés aux paragraphes 5(1) ou (2), 8(1), 9(2), 9.1(2), 10(1) ou 10.1(2) envisage mais n’a pas encore pris une mesure prévue à ces dispositions.
+> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122, ch. 29, art. 137; 2003, ch. 9, art. 1.
 
 
 
@@ -150,13 +196,21 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Objet**
 
-**4** La présente loi a pour objet :
-- **a)** de permettre aux autorités responsables de prendre des mesures à l’égard de tout projet susceptible d’avoir des effets environnementaux en se fondant sur un jugement éclairé quant à ces effets;
-- **b)** d’inciter ces autorités à favoriser un développement durable propice à la salubrité de l’environnement et à la santé de l’économie;
-- **b.1)** de faire en sorte que les autorités responsables s’acquittent de leurs obligations afin d’éviter tout double emploi dans le processus d’évaluation environnementale;
-- **c)** de faire en sorte que les éventuels effets environnementaux négatifs importants des projets devant être réalisés dans les limites du Canada ou du territoire domanial ne débordent pas ces limites;
-- **d)** de veiller à ce que le public ait la possibilité de participer au processus d’évaluation environnementale.
-> 1992, ch. 37, art. 4; 1993, ch. 34, art. 19(F); 1994, ch. 46, art. 1.
+**4** 
+
+- **(1)** La présente loi a pour objet :
+	- **a)** de veiller à ce que les projets soient étudiés avec soin et prudence avant que les autorités fédérales prennent des mesures à leur égard, afin qu’ils n’entraînent pas d’effets environnementaux négatifs importants;
+	- **b)** d’inciter ces autorités à favoriser un développement durable propice à la salubrité de l’environnement et à la santé de l’économie;
+	- **b.1)** de faire en sorte que les autorités responsables s’acquittent de leurs obligations afin d’éviter tout double emploi dans le processus d’évaluation environnementale;
+	- **b.2) ** de promouvoir la collaboration des gouvernements fédéral et provinciaux, et la coordination de leurs activités, dans le cadre du processus d’évaluation environnementale de projets;
+	- **b.3) ** de promouvoir la communication et la collaboration entre les autorités responsables et les peuples autochtones en matière d’évaluation environnementale;
+	- **c)** de faire en sorte que les éventuels effets environnementaux négatifs importants des projets devant être réalisés dans les limites du Canada ou du territoire domanial ne débordent pas ces limites;
+	- **d)** de veiller à ce que le public ait la possibilité de participer de façon significative et en temps opportun au processus de l’évaluation environnementale.
+
+**Mission du gouvernement du Canada**
+
+- **(2)** Pour l’application de la présente loi, le gouvernement du Canada, le ministre, l’Agence et les organismes assujettis aux dispositions de celle-ci, y compris les autorités fédérales et les autorités responsables, doivent exercer leurs pouvoirs de manière à protéger l’environnement et la santé humaine et à appliquer le principe de la prudence.
+> 1992, ch. 37, art. 4; 1993, ch. 34, art. 19(F); 1994, ch. 46, art. 1; 2003, ch. 9, art. 2.
 
 
 
@@ -208,37 +262,78 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **7** 
 
-- **(1)** Par dérogation à l’article 5, n’ont pas à faire l’objet d’une évaluation environnementale les projets :
-	- **a)** qui sont visés dans les listes d’exclusion;
-	- **b)** qui sont mis en oeuvre en réaction à des situations de crise nationale pour lesquelles des mesures d’intervention sont prises aux termes de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md);
-	- **c)** qui sont mis en oeuvre en réaction à une situation d’urgence et qu’il importe, soit pour la protection de biens ou de l’environnement, soit pour la santé ou la sécurité publiques, de mettre en oeuvre sans délai.
+- **(1)** N’ont pas à faire l’objet d’une évaluation en application des articles 5 ou 8 à 10.1 les projets :
+	- **a)
+** qui sont visés dans les listes d’exclusion;
+	- **b)
+** qui sont mis en oeuvre en réaction à des situations de crise nationale pour lesquelles des mesures d’intervention sont prises aux termes de la 
+[Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md);
+	- **c)
+** qui sont mis en oeuvre en réaction à une situation d’urgence et qu’il importe, soit pour la protection de biens ou de l’environnement, soit pour la santé ou la sécurité publiques, de mettre en oeuvre sans délai.
 
 **Précision**
 
-- **(2)** Il est entendu qu’il n’est pas nécessaire d’effectuer une évaluation environnementale dans les cas où l’autorité fédérale exerce une attribution visée à l’alinéa 5(1)b) à l’égard d’un projet dont les détails essentiels ne sont pas déterminés avant cet exercice ou au moment de celui-ci.
-> 1992, ch. 37, art. 7; 1994, ch. 26, art. 23(F).
+- **(2)** Il est entendu que l’évaluation n’est pas nécessaire dans les cas où l’autorité fédérale exerce une attribution visée aux alinéas 5(1)b) ou 10.1(2)b) — ou une personne ou un organisme exerce une attribution visée à l’un ou l’autre des alinéas 5(1)b), 9(2)b), 9.1(2)b) ou 10(1)b) — à l’égard d’un projet dont les détails essentiels ne sont pas déterminés au moment de l’exercice de cette attribution.
+> 1992, ch. 37, art. 7; 1994, ch. 26, art. 23(F); 2003, ch. 9, art. 3.
 
 
 
 
 
-**Sociétés d’État**
+**Évaluations par certaines sociétés d’État**
 
 **8** 
 
-- **(1)** Les sociétés d’État, au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), ou les personnes morales dont elles ont le contrôle, avant d’exercer une attribution visée aux alinéas 5(1)a), b) ou c) à l’égard d’un projet, veillent à ce que soit effectuée, le plus tôt possible au stade de la planification de celui-ci, avant la prise d’une décision irrévocable, l’évaluation des effets environnementaux du projet conformément aux règlements pris aux termes de l’alinéa 59j).
+- **(1)** À compter de l’entrée en vigueur des règlements pris à son égard en vertu de l’alinéa 59j), toute société d’État, au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), qui n’est pas une autorité fédérale veille, avant d’exercer une attribution visée à l’un ou l’autre des alinéas 5(1)a) à d) à l’égard d’un projet, à ce qu’une évaluation environnementale du projet soit effectuée conformément à ces règlements, le plus tôt possible au stade de la planification du projet et avant la prise d’une décision irrévocable.
 
-**Exception**
+**Absence d’obligation du ministre**
 
-- **(2)** Malgré l’article 5, il n’est pas nécessaire d’effectuer l’évaluation environnementale d’un projet parce qu’un ministre fédéral autorise ou approuve, en vertu d’une autre loi fédérale ou de ses règlements, l’exercice par une société d’État, au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’une attribution visée aux alinéas 5(1)a), b) ou c) à l’égard du projet.
+- **(2)** Malgré l’article 5, un ministre fédéral n’est pas tenu de veiller à ce que l’évaluation environnementale d’un projet soit effectuée uniquement parce qu’il autorise ou approuve, en vertu d’une autre loi fédérale ou de ses règlements, l’exercice par une société d’État, au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), d’une attribution visée aux alinéas 5(1)a), b) ou c) à l’égard du projet.
+
+**Préséance de l’autorité fédérale**
+
+- **(3)** La société d’État qui est le promoteur d’un projet et se propose de le mettre en œuvre en tout ou en partie n’est pas tenue de veiller à ce que soit effectuée une évaluation environnementale du projet si une autorité fédérale — autre que la société d’État — doit prendre une mesure prévue à l’alinéa 5(1)d) à l’égard du projet; il est entendu que rien ne l’empêche d’accepter une délégation dans le cadre de l’article 17.
+> 1992, ch. 37, art. 8; 2003, ch. 9, art. 4.
+
 
 
 
 
 **Commissions portuaires et administrations portuaires**
 
-**9** Les commissaires nommés en vertu de la Loi des commissaires du havre de Hamilton et de la *Loi de 1911 concernant les commissaires du havre de Toronto*, les commissions portuaires constituées par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi, avant d’exercer une attribution visée aux alinéas 5(1)a), b) ou c) à l’égard d’un projet, veillent à ce que soit effectuée, le plus tôt possible au stade de la planification de celui-ci, avant la prise d’une décision irrévocable, une évaluation des effets environnementaux du projet conformément aux règlements pris aux termes de l’alinéa 59k).
-> 1992, ch. 37, art. 9; 1998, ch. 10, art. 165.
+**9** 
+
+- **(1)** Les commissaires nommés en vertu de la Loi des commissaires du havre de Hamilton, les commissions portuaires constituées par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi veillent, à compter de l’entrée en vigueur des règlements pris en vertu de l’alinéa 59k), à ce qu’une évaluation environnementale d’un projet soit effectuée conformément à ces règlements, le plus tôt possible au stade de la planification du projet et avant la prise d’une décision irrévocable.
+
+**Projets visés**
+
+- **(2)** L’évaluation environnementale d’un projet est effectuée dans les cas suivants :
+	- **a)** les personnes ou organismes visés au paragraphe (1) en sont le promoteur et le mettent en œuvre, en tout ou en partie;
+	- **b)** ils accordent au promoteur un financement, une garantie d’emprunt ou toute autre aide financière en vue d’en permettre la mise en œuvre, en tout ou en partie;
+	- **c)** ils autorisent la cession du territoire domanial, notamment par vente ou cession à bail, ou celle de tout droit foncier relatif à celui-ci, en vue de la mise en œuvre du projet, en tout ou en partie;
+	- **d)** aux termes d’une disposition visée par règlement pris en vertu de l’alinéa 59k.1), ils délivrent un permis ou une licence, donnent toute autorisation ou prennent toute mesure en vue de permettre la mise en œuvre du projet, en tout ou en partie;
+	- **e)** le cas est prévu par règlement pris en vertu de l’alinéa 59k.2) et le projet doit être mis en œuvre, en tout ou en partie, sur le territoire domanial dont ils ont l’administration ou la gestion.
+> 1992, ch. 37, art. 9; 1998, ch. 10, art. 165; 2003, ch. 9, art. 5.
+
+
+
+
+
+**Autorités prévues par règlement**
+
+**9.1** 
+
+- **(1)** À compter de l’entrée en vigueur des règlements pris en vertu de l’alinéa 59k.3), toute autorité visée par ceux-ci veille à ce qu’une évaluation environnementale d’un projet soit effectuée conformément à ces règlements, le plus tôt possible au stade de la planification de celui-ci et avant la prise d’une décision irrévocable.
+
+**Projets visés**
+
+- **(2)** L’évaluation environnementale d’un projet est effectuée dans les cas suivants :
+	- **a)** l’autorité en est le promoteur et le met en œuvre, en tout ou en partie, sur un territoire domanial;
+	- **b)** elle accorde au promoteur un financement, une garantie d’emprunt ou toute autre aide financière en vue d’en permettre la mise en œuvre, en tout ou en partie, sur le territoire domanial;
+	- **c)** elle autorise la cession du territoire domanial, notamment par vente ou cession à bail, ou celle de tout droit foncier relatif à celui-ci, en vue de la mise en œuvre du projet, en tout ou en partie;
+	- **d)** aux termes d’une disposition visée par règlement pris en vertu de l’alinéa 59k.4), elle délivre un permis ou une licence, donne toute autorisation ou prend toute mesure en vue de permettre la mise en œuvre du projet, en tout ou en partie;
+	- **e)** le cas est prévu par règlement pris en vertu de l’alinéa 59k.5) et le projet doit être mis en œuvre, en tout ou en partie, sur le territoire domanial dont elle a l’administration ou la gestion ou sur lequel elle a un droit ou un intérêt prévus par règlement.
+> 2003, ch. 9, art. 5.
 
 
 
@@ -248,11 +343,37 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **10** 
 
-- **(1)** Avant la réception par une personne ou un organisme, de la part d’une autorité fédérale, d’une aide financière permettant la réalisation d’un projet en tout ou en partie sur une réserve mise de côté à l’usage et au profit d’une bande et assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), le conseil de cette bande veille à ce qu’une évaluation des effets environnementaux du projet soit effectuée le plus tôt possible au stade de la planification de celui-ci, avant la prise d’une décision irrévocable, conformément aux règlements pris aux termes de l’alinéa 59l).
+- **(1)** Le conseil d’une bande assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) veille, à compter de l’entrée en vigueur des règlements pris en vertu de l’alinéa 59l) à son égard, à ce qu’une évaluation environnementale d’un projet devant être mis en œuvre, en tout ou en partie, sur une réserve mise de côté à l’usage et au profit de cette bande soit effectuée conformément à ces règlements, avant l’exercice de l’une des attributions suivantes :
+	- **a)** il est le promoteur du projet et le met en œuvre en tout ou en partie;
+	- **b)** il accorde à un promoteur en vue de l’aider à mettre en œuvre le projet en tout ou en partie un financement, une garantie d’emprunt ou toute autre aide financière, y compris une aide financière accordée sous forme d’allègement — réduction, évitement, report, remboursement, annulation ou remise — d’une taxe;
+	- **c)** il prend une mesure, au titre d’une disposition prévue par règlement pris en vertu de l’alinéa 59*l.001*), en vue de permettre la mise en œuvre du projet en tout ou en partie.
 
-**Évaluation non requise**
+**Moment de l’évaluation**
 
-- **(2)** Par dérogation à l’alinéa 5(1)b), l’évaluation n’est pas rendue nécessaire seulement à cause de l’aide financière visée au paragraphe (1).
+- **(2)** Dans le cas où l’évaluation environnementale d’un projet est obligatoire au titre du paragraphe (1), le conseil de bande veille à ce que celle-ci soit effectuée le plus tôt possible au stade de la planification du projet, avant la prise d’une décision irrévocable.
+> 1992, ch. 37, art. 10; 2003, ch. 9, art. 5.
+
+
+
+
+
+**ACDI**
+
+**10.1** 
+
+- **(1)** L’Agence canadienne de développement international veille, à compter de l’entrée en vigueur du règlement pris en vertu de l’alinéa 59l.01), à ce qu’une évaluation environnementale d’un projet soit effectuée conformément à ces règlements, le plus tôt possible au stade de la planification de celui-ci et avant la prise d’une décision irrévocable.
+
+**Projets visés**
+
+- **(2)** L’évaluation environnementale d’un projet est effectuée dans les cas où l’Agence canadienne de développement international :
+	- **a)** en est le promoteur et le met en œuvre, en tout ou en partie;
+	- **b)** accorde un financement, une garantie d’emprunt ou toute autre aide financière en vue d’en permettre la mise en œuvre, en tout ou en partie.
+
+**Suspension d’application du par. 5(1)**
+
+- **(3)** L’application du paragraphe 5(1) à l’Agence canadienne de développement international est suspendue, de l’entrée en vigueur du règlement visé au paragraphe (1) à son abrogation.
+> 2003, ch. 9, art. 5.
+
 
 
 
@@ -270,6 +391,44 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Effet suspensif**
 
 - **(2)** L’autorité responsable d’un projet ne peut exercer ses attributions à l’égard de celui-ci que si elle prend une décision aux termes des alinéas 20(1)a) ou 37(1)a).
+
+
+
+
+**Arrêté ministériel**
+
+**11.1** 
+
+- **(1)** Le ministre ou le ministre qui doit répondre devant le Parlement des activités de l’autorité responsable — ou les ministres agissant conjointement, lorsque plusieurs autorités sont responsables d’un même projet — peut, par arrêté, ordonner au promoteur de s’abstenir de tout acte modifiant l’environnement et permettant la mise en œuvre, même partielle, du projet faisant l’objet de l’évaluation jusqu’à ce que l’autorité ait pris une décision en application des alinéas 20(1)a) ou b) ou du paragraphe 37(1).
+
+**Prise d’effet de l’arrêté**
+
+- **(2)** L’arrêté prend effet dès sa prise.
+
+**Approbation par le gouverneur en conseil**
+
+- **(3)** L’arrêté devient inopérant à défaut d’approbation par le gouverneur en conseil dans les quatorze jours suivant sa prise.
+
+**Dérogation à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** L’arrêté est soustrait à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md); il est publié dans la Gazette du Canada dans les vingt-trois jours suivant son approbation.
+> 2003, ch. 9, art. 6.
+
+
+
+
+
+**Injonction**
+
+**11.2** 
+
+- **(1)** Si, sur demande présentée par le procureur général du Canada ou toute personne intéressée, il conclut à l’inobservation — réelle ou appréhendée — de l’arrêté pris en application de l’article 11.1, le tribunal compétent peut, par injonction, interdire à toute personne visée par la demande d’accomplir tout acte qui contreviendrait à l’arrêté jusqu’à ce que l’autorité responsable ait pris une décision en application des alinéas 20(1)a) ou b) ou du paragraphe 37(1).
+
+**Préavis**
+
+- **(2)** Sauf lorsque cela serait contraire à l’intérêt public en raison de l’urgence de la situation, l’injonction est subordonnée à la signification d’un préavis d’au moins quarante-huit heures aux parties nommées dans la demande.
+> 2003, ch. 9, art. 6.
+
 
 
 
@@ -300,6 +459,83 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 	- **c)** d’un organisme, constitué aux termes d’un accord sur des revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982, ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet;
 	- **d)** d’un organisme dirigeant, constitué par une loi relative à l’autonomie gouvernementale des Indiens, ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet.
 > 1992, ch. 37, art. 12; 1993, ch. 34, art. 20(F).
+
+
+
+
+
+### Coordonnateur fédéral de l’évaluation environnementale
+
+
+
+**Rôle**
+
+**12.1** Le coordonnateur fédéral de l’évaluation environnementale d’un projet est chargé de coordonner la participation des autorités fédérales au processus d’évaluation environnementale pour un projet qui doit ou pourrait faire l’objet d’un examen préalable ou d’une étude approfondie et de faciliter les communications et la collaboration entre elles et avec les autres intervenants, notamment les provinces, les personnes et organismes visés aux articles 8 à 10 et les instances au sens prévu aux alinéas 12(5)c) ou d) ou 40(1)e) ou f).
+> 2003, ch. 9, art. 7.
+
+
+
+
+
+**Obligations**
+
+**12.2** Le coordonnateur est tenu :
+- **a)** de veiller au recensement des autorités responsables — actuelles ou éventuelles — , de même que des autorités fédérales disposant — effectivement ou éventuellement — de l’expertise ou des connaissances voulues touchant le projet;
+- **b)** de coordonner leur participation tout au long du processus d’évaluation environnementale;
+- **c)** de coordonner l’exécution, par les autorités responsables, des obligations qui leur incombent en vertu du paragraphe 55.3(1), de l’alinéa 55.4(1)a) et de l’article 55.5;
+- **d)** de veiller à ce que les autorités fédérales s’acquittent des obligations qui leur incombent en vertu de la présente loi en temps opportun;
+- **e)** de coordonner la participation des autorités fédérales avec les autres instances.
+> 2003, ch. 9, art. 7.
+
+
+
+
+
+**Pouvoirs**
+
+**12.3** Dans l’exercice de ses attributions, le coordonnateur peut :
+- **a)** créer et présider un comité regroupant les autorités responsables — actuelles ou éventuelles — , de même que les autorités fédérales disposant — effectivement ou éventuellement — de l’expertise ou des connaissances voulues touchant le projet;
+- **b)** après avoir consulté les autorités visées à l’alinéa a), établir l’échéancier relatif à l’évaluation;
+- **c)** après avoir consulté les autorités responsables — actuelles ou éventuelles — , prévoir, s’il y a lieu, le moment où la participation du public sera sollicitée.
+> 2003, ch. 9, art. 7.
+
+
+
+
+
+**Attributions exercées par l’Agence**
+
+**12.4** 
+
+- **(1)** Sous réserve du paragraphe (3), les attributions de coordonnateur sont exercées par l’Agence dans les cas suivants :
+	- **a)** le projet est assujetti au processus d’évaluation environnementale d’une autre instance, au sens des alinéas 12(5)a), c) ou d) ou 40(1)e) ou f);
+	- **b)** le projet est visé dans la liste d’étude approfondie.
+
+**Attributions exercées par une autorité responsable**
+
+- **(2)** Sous réserve des paragraphes (1) et (3), les attributions de coordonnateur sont exercées :
+	- **a)** s’il n’y a qu’une autorité responsable du projet, par celle-ci;
+	- **b)** s’il y a plusieurs autorités responsables du projet, par celle qu’elles désignent conjointement ou, si elles ne le font pas dans un délai raisonnable, par celle que l’Agence désigne.
+
+**Ententes particulières**
+
+- **(3)** Il ne peut être dérogé aux paragraphes (1) ou (2) que dans les cas suivants :
+	- **a)** les autorités responsables visées à l’alinéa (2)b) conviennent avec l’Agence que celle-ci exercera tout ou partie des attributions de coordonnateur;
+	- **b)** l’Agence convient avec une autorité responsable, dans les cas prévus aux alinéas (1)a) ou b), que cette dernière exercera tout ou partie de ces attributions.
+
+**Précision**
+
+- **(4)** Il est entendu qu’une entente visée au paragraphe (3) peut être générale et ne pas être liée à un projet spécifique.
+> 2003, ch. 9, art. 7.
+
+
+
+
+
+**Conformité aux demandes et décisions du coordonnateur**
+
+**12.5** Il incombe à toute autorité fédérale de se conformer en temps opportun aux demandes et aux décisions du coordonnateur agissant dans l’exercice de ses attributions.
+> 2003, ch. 9, art. 7.
 
 
 
@@ -389,6 +625,33 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 
 
+**Connaissances des collectivités et connaissances traditionnelles autochtones**
+
+**16.1** Les connaissances des collectivités et les connaissances traditionnelles autochtones peuvent être prises en compte pour l’évaluation environnementale d’un projet.
+> 2003, ch. 9, art. 8.
+
+
+
+
+
+**Études régionales**
+
+**16.2** Les résultats d’une étude des effets environnementaux de projets éventuels dans une région, faite hors du champ d’application de la présente loi et à laquelle une autorité fédérale a collaboré avec des instances, au sens des alinéas 12(5)a), c) ou d), peuvent être pris en compte dans l’évaluation environnementale d’un projet à réaliser dans cette région, notamment dans l’évaluation des effets cumulatifs que la réalisation du projet, combinée à celle d’autres projets ou activités déjà complétés ou à venir, est susceptible de produire sur l’environnement.
+> 2003, ch. 9, art. 8.
+
+
+
+
+
+**Publication des décisions**
+
+**16.3** L’autorité responsable consigne et rend accessibles au public, conformément au paragraphe 55(1), les décisions qu’elle prend aux termes de l’article 20.
+> 2003, ch. 9, art. 8.
+
+
+
+
+
 **Délégation**
 
 **17** 
@@ -410,9 +673,11 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **18** 
 
-- **(1)** Dans le cas où le projet n’est pas visé dans la liste d’étude approfondie ou dans la liste d’exclusion, l’autorité responsable veille :
-	- **a)** à ce qu’en soit effectué l’examen préalable;
-	- **b)** à ce que soit établi un rapport d’examen préalable.
+- **(1)** Dans le cas où le projet n’est pas visé dans la liste d’étude approfondie ou dans la liste d’exclusion établie par règlement pris en vertu de l’alinéa 59c), l’autorité responsable veille :
+	- **a)
+** à ce qu’en soit effectué l’examen préalable;
+	- **b)
+** à ce que soit établi un rapport d’examen préalable.
 
 **Information**
 
@@ -420,48 +685,65 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Participation du public**
 
-- **(3)** Avant de prendre sa décision aux termes de l’article 20, l’autorité responsable, dans les cas où elle estime que la participation du public à l’examen préalable est indiquée ou dans le cas où les règlements l’exigent, avise celui-ci et lui donne la possibilité d’examiner le rapport d’examen préalable et les documents consignés au registre public établi aux termes de l’article 55 et de faire ses observations à leur égard.
-> 1992, ch. 37, art. 18; 1993, ch. 34, art. 23(F).
+- **(3)** Dans les cas où elle estime que la participation du public à l’examen préalable est indiquée ou dans les cas prévus par règlement, l’autorité responsable :
+	- **a)** verse au site Internet, avant de donner au public la possibilité d’examiner le rapport d’examen préalable et de faire des observations à son égard, une description de la portée du projet, des éléments à prendre en compte dans le cadre de l’examen préalable et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
+	- **b)** avant de prendre sa décision aux termes de l’article 20, donne au public la possibilité d’examiner le rapport d’examen préalable et tout document relatif au projet et de faire ses observations à leur égard et un avis suffisant de cette possibilité;
+	- **c)** peut donner au public la possibilité de prendre part à toute étape de l’examen préalable qu’elle choisit.
+
+**Moment de la participation**
+
+- **(4)** L’exercice du pouvoir discrétionnaire dont dispose l’autorité responsable, dans le cadre du paragraphe (3), de déterminer à quel moment peut se faire la participation du public est assujetti à toute décision pouvant être prise par le coordonnateur fédéral de l’évaluation environnementale en vertu de l’alinéa 12.3c).
+> 1992, ch. 37, art. 18; 1993, ch. 34, art. 23(F); 2003, ch. 9, art. 9.
 
 
 
 
 
-**Déclaration**
+**Rapport type**
 
 **19** 
 
-- **(1)** Sous réserve du paragraphe (2), l’Agence, sur demande de l’autorité responsable, peut, si elle décide qu’un rapport d’examen préalable peut servir de modèle pour d’autres projets appartenant à la même catégorie, faire une déclaration à cet effet.
+- **(1)** Sous réserve du paragraphe (3), l’Agence peut désigner tout rapport comme rapport d’examen préalable type applicable à une catégorie de projets, à la condition que les projets appartenant à la catégorie ne soient pas susceptibles, selon elle, de causer des effets environnementaux négatifs importants si les normes de conception et les mesures d’atténuation prévues par le rapport sont appliquées.
 
-**Idem**
+**Utilisation du rapport**
 
-- **(2)** Avant de faire une déclaration, l’Agence :
-	- **a)** publie dans la Gazette du Canada un avis contenant les éléments suivants :
-		- **(i)** la date à laquelle le rapport d’examen préalable sera accessible au public,
-		- **(ii)** le lieu d’obtention d’exemplaires du rapport,
-		- **(iii)** l’adresse et la date limite pour la réception par elle d’observations sur l’applicabilité du rapport comme modèle pour d’autres projets appartenant à la même catégorie;
-	- **b)** prend en compte les commentaires reçus sur le rapport.
+- **(2)** La désignation doit indiquer que le rapport d’examen préalable type peut servir :
+	- **a)** soit de substitut à l’examen préalable exigé par l’article 18 et à la décision visée par l’article 20 à l’égard de projets appartenant à la catégorie;
+	- **b)** soit de modèle pour simplifier l’examen préalable exigé par l’article 18 pour des projets appartenant à la catégorie.
+
+**Avis public**
+
+- **(3)** Avant de faire une désignation, l’Agence :
+	- **a)** publie, selon les modalités qu’elle estime indiquées, un avis contenant les éléments suivants :
+		- **(i)** la date à laquelle l’ébauche du rapport sera accessible au public,
+		- **(ii)** le lieu où des exemplaires de celle-ci peuvent être obtenus,
+		- **(iii)** l’adresse et la date limite pour la réception par elle d’observations sur l’applicabilité du rapport comme modèle ou substitut de l’examen préalable pour les projets appartenant à la catégorie;
+	- **b)** prend en compte les observations reçues et conserve au registre les commentaires formulés par le public.
 
 **Publication**
 
-- **(3)** La déclaration est publiée dans la Gazette du Canada et le rapport est accessible au public et consigné au registre tenu par l’Agence.
+- **(4)** La désignation est publiée dans la Gazette du Canada et versée, avec le rapport — ou une indication de la façon d’en obtenir copie — , au site Internet.
 
-**Catégorie de projets**
+**Emploi d’un substitut**
 
-- **(4)** Si tout ou partie d’un projet appartient à une catégorie de projets pour laquelle une déclaration a été faite aux termes du paragraphe (1), l’autorité responsable peut utiliser l’examen préalable et le rapport correspondant, ou en permettre l’utilisation, dans la mesure qu’elle estime indiquée pour l’application de l’article 18.
+- **(5)** Si l’autorité responsable estime que le projet appartient à une catégorie faisant l’objet d’un rapport d’examen préalable type visé à l’alinéa (2)a), les mesures visées par les articles 18 et 20 ne sont plus applicables; l’autorité responsable doit toutefois veiller à ce que soient mises en œuvre les normes de conception et les mesures d’atténuation qui sont prévues au rapport visé par la désignation.
+
+**Emploi d’un modèle**
+
+- **(6)** Si l’autorité responsable estime que tout ou partie du projet appartient à une catégorie faisant l’objet d’un rapport d’examen préalable type visé à l’alinéa (2)b), l’autorité responsable peut utiliser les résultats de l’examen préalable et le rapport, ou en permettre l’utilisation, dans la mesure qu’elle estime indiquée pour l’application de l’article 18.
 
 **Adaptations**
 
-- **(5)** Dans les cas visés au paragraphe (4), l’autorité responsable veille à ce que soient apportées au rapport les adaptations nécessaires à la prise en compte des facteurs locaux et des effets environnementaux cumulatifs qui, selon elle, peuvent résulter de la réalisation du projet combinée à l’existence d’autres ouvrages ou à la réalisation d’autres projets ou activités.
+- **(7)** Dans les cas visés au paragraphe (6), l’autorité responsable veille à ce que soient apportées au rapport d’examen préalable type les adaptations nécessaires à la prise en compte des facteurs locaux et des effets environnementaux cumulatifs qui, selon elle, peuvent résulter de la réalisation du projet combinée à l’existence d’autres ouvrages ou à la réalisation d’autres projets ou activités.
 
 **Déclaration**
 
-- **(6)** L’Agence, si elle décide qu’un rapport d’examen préalable ne peut plus servir de modèle pour d’autres projets appartenant à la même catégorie, peut faire une déclaration à cet effet.
+- **(8)** L’Agence, si elle décide qu’un rapport type ne peut plus servir de substitut ou de modèle pour des projets appartenant à la catégorie, peut faire une déclaration en ce sens.
 
-**Idem**
+**Publication**
 
-- **(7)** La déclaration faite aux termes du paragraphe (6) est publiée dans la Gazette du Canada et le rapport qu’elle vise est retranché du registre public établi par l’Agence.
-> 1992, ch. 37, art. 19; 1993, ch. 34, art. 24(F).
+- **(9)** La déclaration est publiée dans la Gazette du Canada et versée au site Internet.
+> 1992, ch. 37, art. 19; 1993, ch. 34, art. 24(F); 2003, ch. 9, art. 10.
 
 
 
@@ -472,21 +754,38 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **20** 
 
 - **(1)** L’autorité responsable prend l’une des mesures suivantes, après avoir pris en compte le rapport d’examen préalable et les observations reçues aux termes du paragraphe 18(3) :
-	- **a)** sous réserve du sous-alinéa c)(iii), si la réalisation du projet n’est pas susceptible, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, d’entraîner des effets environnementaux négatifs importants, exercer ses attributions afin de permettre la mise en oeuvre du projet et veiller à l’application de ces mesures d’atténuation;
+	- **a)** sous réserve du sous-alinéa c)(iii), si la réalisation du projet n’est pas susceptible, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, d’entraîner des effets environnementaux négatifs importants, exercer ses attributions afin de permettre la mise en œuvre totale ou partielle du projet;
 	- **b)** si, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, la réalisation du projet est susceptible d’entraîner des effets environnementaux négatifs importants qui ne peuvent être justifiés dans les circonstances, ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale et qui pourraient lui permettre la mise en oeuvre du projet en tout ou en partie;
 	- **c)** s’adresser au ministre pour une médiation ou un examen par une commission prévu à l’article 29 :
 		- **(i)** s’il n’est pas clair, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, que la réalisation du projet soit susceptible d’entraîner des effets environnementaux négatifs importants,
 		- **(ii)** si la réalisation du projet, compte tenu de l’application de mesures d’atténuation qu’elle estime indiquées, est susceptible d’entraîner des effets environnementaux négatifs importants et si l’alinéa b) ne s’applique pas,
 		- **(iii)** si les préoccupations du public le justifient.
 
+**Mesures d’atténuation — étendue des pouvoirs**
+
+- **(1.1)** Les mesures d’atténuation que l’autorité responsable peut prendre en compte dans le cadre du paragraphe (1) ne se limitent pas à celles qui relèvent de la compétence législative du Parlement; elles comprennent :
+	- **a)** les mesures d’atténuation dont elle peut assurer l’application;
+	- **b)** toute autre mesure d’atténuation dont elle est convaincue qu’elle sera appliquée par une autre personne ou un autre organisme.
+
 **Application des mesures d’atténuation**
 
-- **(2)** L’autorité responsable qui prend la décision visée à l’alinéa (1)a) veille, malgré toute autre loi fédérale, lors de l’exercice des attributions qui lui sont conférées sous le régime de cette loi ou de ses règlements ou selon les autres modalités qu’elle estime indiquées, à l’application des mesures d’atténuation visées à cet alinéa.
+- **(2)** Si elle prend une décision dans le cadre de l’alinéa (1)a), l’autorité responsable veille à l’application des mesures d’atténuation qu’elle a prises en compte et qui sont visées à l’alinéa (1.1)a) de la façon qu’elle estime nécessaire, même si aucune autre loi fédérale ne lui confère de tels pouvoirs d’application.
 
-**Interdiction de mise en oeuvre**
+**Appui à l’autorité responsable**
 
-- **(3)** L’autorité responsable qui prend la décision visée à l’alinéa (1)b) à l’égard d’un projet fait consigner un avis de sa décision au registre public tenu aux termes de l’article 55 pour le projet, et, malgré toute autre disposition d’une loi fédérale, aucune attribution conférée sous le régime de cette loi ou de ses règlements ne peut être exercée de façon qui pourrait permettre la mise en oeuvre du projet en tout ou en partie.
-> 1992, ch. 37, art. 20; 1993, ch. 34, art. 25(F).
+- **(2.1)** Il incombe à l’autorité fédérale qui convient avec l’autorité responsable de mesures d’atténuation d’appuyer celle-ci, sur demande, dans l’application de ces mesures.
+
+**Interdiction de mise en œuvre**
+
+- **(3)** L’autorité responsable qui prend la décision visée à l’alinéa (1)b) à l’égard d’un projet est tenue de publier un avis de cette décision dans le registre, et aucune attribution conférée sous le régime de toute autre loi fédérale ou de ses règlements ne peut être exercée de façon à permettre la mise en œuvre, en tout ou en partie, du projet.
+
+**Versement préalable de documents**
+
+- **(4)** L’autorité responsable ne peut prendre une décision dans le cadre du paragraphe (1) avant le quinzième jour suivant le versement au site Internet des documents suivants :
+	- **a)** l’avis du début de l’évaluation environnementale;
+	- **b)** la description de la portée du projet;
+	- **c)** dans le cas où l’autorité responsable donne, au titre du paragraphe 18(3), la possibilité au public de participer à l’examen préalable, la description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description.
+> 1992, ch. 37, art. 20; 1993, ch. 34, art. 25(F); 2003, ch. 9, art. 11.
 
 
 
@@ -496,12 +795,44 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 
 
-**Étude approfondie**
+**Consultation**
 
-**21** Dans le cas où le projet est visé dans la liste d’étude approfondie, l’autorité responsable a le choix :
-- **a)** de veiller à ce que soit effectuée une étude approfondie et à ce que soit présenté au ministre et à l’Agence un rapport de cette étude;
-- **b)** de s’adresser au ministre afin qu’il fasse effectuer, aux termes de l’article 29, une médiation ou un examen par une commission.
-> 1992, ch. 37, art. 21; 1993, ch. 34, art. 26(F).
+**21** 
+
+- **(1)** Dans le cas où le projet est visé dans la liste d’étude approfondie, l’autorité responsable veille à la tenue d’une consultation publique sur les propositions relatives à la portée du projet en matière d’évaluation environnementale, aux éléments à prendre en compte dans le cadre de l’évaluation et à la portée de ces éléments ainsi que sur la question de savoir si l’étude approfondie permet l’examen des questions soulevées par le projet.
+
+**Rapport et recommandation**
+
+- **(2)** L’autorité responsable, dès qu’elle estime disposer de suffisamment de renseignements et après avoir tenu la consultation publique :
+	- **a)** fait rapport au ministre de la portée du projet, des éléments à prendre en compte dans le cadre de l’évaluation, de la portée de ceux-ci, des préoccupations du public, de la possibilité d’effets environnementaux négatifs et de la question de savoir si l’étude approfondie permet l’examen des questions soulevées par le projet;
+	- **b)** lui recommande de poursuivre l’évaluation environnementale par étude approfondie ou de la renvoyer à un médiateur ou à une commission conformément à l’article 29.
+> 1992, ch. 37, art. 21; 1993, ch. 34, art. 26(F); 2003, ch. 9, art. 12.
+
+
+
+
+
+**Décision du ministre**
+
+**21.1** 
+
+- **(1)** Le ministre, prenant en compte tous les éléments qui doivent lui être signalés dans le cadre de l’alinéa 21(2)a) et les recommandations de l’autorité responsable et selon ce qu’il estime indiqué dans les circonstances :
+	- **a)** renvoie le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie et qu’elle veille à ce qu’un rapport de cette étude lui soit présenté, de même qu’à l’Agence;
+	- **b)** renvoie le projet à la médiation ou à l’examen par une commission conformément à l’article 29.
+
+**Caractère définitif de la décision**
+
+- **(2)** Malgré toute autre disposition de la présente loi, le projet que le ministre renvoie à l’autorité responsable au titre de l’alinéa (1)a) ne peut faire l’objet d’une médiation ou d’un examen par une commission conformément à l’article 29.
+> 2003, ch. 9, art. 12.
+
+
+
+
+
+**Participation du public à l’étude approfondie**
+
+**21.2** En plus des consultations publiques prévues au paragraphe 21(1) et à l’article 22, l’autorité responsable à laquelle le projet est renvoyé en vertu de l’alinéa 21.1(1)a) est tenue de veiller à ce que le public ait la possibilité de prendre part à l’étude approfondie. Elle est toutefois assujettie à toute décision éventuellement prise par le coordonnateur fédéral de l’évaluation environnementale en vertu de l’alinéa 12.3c) quant au moment de la participation.
+> 2003, ch. 9, art. 12.
 
 
 
@@ -523,16 +854,29 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 
 
-**Décision du ministre**
+**Avis du ministre**
 
-**23** Après avoir pris en compte le rapport d’étude approfondie et les observations qui ont été présentées en vertu du paragraphe 22(2), le ministre :
-- **a)** renvoie le projet à l’autorité responsable pour une décision aux termes de l’article 37, si sous réserve du sous-alinéa b)(iii) et compte tenu de l’application des mesures d’atténuation indiquées, la réalisation du projet, selon le cas :
-	- **(i)** n’est pas susceptible d’entraîner des effets environnementaux négatifs importants,
-	- **(ii)** est susceptible d’entraîner des effets environnementaux négatifs importants qui ne peuvent être justifiés dans les circonstances;
-- **b)** fait procéder à une médiation ou à un examen par une commission conformément à l’article 29 dans chacun des cas suivants :
-	- **(i)** il n’est pas clair, compte tenu de l’application des mesures d’atténuation indiquées, que le projet soit susceptible d’entraîner des effets environnementaux négatifs importants,
-	- **(ii)** que la réalisation du projet, compte tenu de l’application des mesures d’atténuation indiquées, est susceptible d’entraîner des effets environnementaux négatifs importants et que le sous-alinéa a)(ii) ne s’applique pas,
-	- **(iii)** les préoccupations du public le justifient.
+**23** 
+
+- **(1)** Le ministre, après avoir pris en compte le rapport d’étude approfondie et les observations qui ont été présentées en vertu du paragraphe 22(2), renvoie le projet à l’autorité responsable pour qu’elle prenne une décision en application de l’article 37 et fait une déclaration dans laquelle :
+	- **a)** il indique si, selon lui, le projet est susceptible ou non, compte tenu de la mise en œuvre des mesures d’atténuation qu’il estime appropriées, d’entraîner des effets environnementaux négatifs importants;
+	- **b)** il indique, s’il y a lieu, les mesures d’atténuation et tout programme de suivi qu’il estime appropriés, compte tenu des observations des autorités responsables et des autorités fédérales concernant ces mesures ou programmes.
+
+**Renseignements supplémentaires**
+
+- **(2)** Avant de faire la déclaration, le ministre, s’il estime qu’il lui faut des renseignements supplémentaires ou qu’il convient de mieux répondre aux préoccupations du public, demande aux autorités fédérales visées à l’alinéa 12.3a) ou au promoteur de veiller à ce que les renseignements nécessaires soient fournis ou à ce que les mesures nécessaires pour répondre aux préoccupations du public soient prises.
+
+**Versement préalable de documents**
+
+- **(3)** Le ministre ne peut faire la déclaration avant le trentième jour suivant la date à laquelle les documents suivants sont versés au site Internet :
+	- **a)** l’avis du début de l’évaluation environnementale;
+	- **b)** la description de la portée du projet;
+	- **c)** dans le cas où il renvoie, au titre de l’alinéa 21.1(1)a), le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie :
+		- **(i)** l’avis de sa décision de renvoyer le projet,
+		- **(ii)** la description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
+	- **d)** le rapport de l’étude approfondie sur lequel se fonde la décision de l’autorité responsable au titre du paragraphe 37(1), ou une indication de la façon d’en obtenir copie.
+> 1992, ch. 37, art. 23; 2003, ch. 9, art. 13.
+
 
 
 
@@ -616,9 +960,11 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 - **(3)** À tout moment le ministre peut renvoyer une question relative à une évaluation environnementale soumise à l’examen par une commission à un médiateur si, après avoir consulté la commission d’examen, il estime que la médiation est indiquée relativement à cette question.
 
-**Idem**
+**Pouvoirs du ministre**
 
-- **(4)** Dans le cas où, à tout moment après le renvoi de l’évaluation environnementale d’un projet ou d’une partie de celle-ci à un médiateur, le ministre ou le médiateur estime que la question soumise à la médiation n’est pas susceptible d’être résolue par la médiation à la satisfaction des parties intéressées, le ministre peut mettre fin à la médiation relativement à cette question et soumettre celle-ci à l’examen par une commission.
+- **(4)** Dans le cas où, à tout moment après le renvoi de l’évaluation environnementale d’un projet ou d’une partie de celle-ci à un médiateur, le ministre ou le médiateur estime que la médiation n’est pas susceptible de donner des résultats satisfaisants pour les parties, le ministre met fin à la médiation.
+> 1992, ch. 37, art. 29; 2003, ch. 9, art. 14.
+
 
 
 
@@ -651,11 +997,13 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **32** 
 
-- **(1)** Dès l’achèvement de la médiation, le médiateur présente un rapport au ministre et à l’autorité responsable.
+- **(1)** Dès la fin de la médiation, le médiateur présente un rapport au ministre et à l’autorité responsable.
 
 **Inadmissibilité en preuve des déclarations**
 
 - **(2)** Sauf consentement du médiateur ou d’un participant à la médiation, les déclarations faites par l’un ou l’autre de ceux-ci dans le cadre de la médiation ne sont pas admissibles en preuve devant un organisme ou une personne habilités à contraindre des personnes à déposer en justice, notamment une commission ou un tribunal.
+> 1992, ch. 37, art. 32; 2003, ch. 9, art. 15(F).
+
 
 
 
@@ -702,11 +1050,15 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Audiences publiques**
 
-- **(3)** Les audiences de la commission sont publiques sauf si elle décide, à la suite d’observations faites par le témoin, que la communication des éléments de preuve, documents ou objets qu’il est tenu de présenter au titre du présent article lui causerait directement un préjudice réel et sérieux.
+- **(3)** Les audiences de la commission sont publiques sauf si elle décide, à la suite d’observations faites par le témoin, que la communication des éléments de preuve, documents ou objets qu’il est tenu de présenter au titre du paragraphe (1) lui causerait directement un préjudice réel et sérieux ou causerait un préjudice réel à l’environnement.
 
 **Non-communication**
 
 - **(4)** Si la commission conclut que la communication d’éléments de preuve, de documents ou d’objets causerait directement un préjudice réel et sérieux au témoin, ces éléments de preuve, documents ou objets sont protégés; la personne qui les a obtenus en vertu de la présente loi ne peut sciemment les communiquer ou permettre qu’ils le soient sans l’autorisation du témoin.
+
+**Non-communication**
+
+- **(4.1)** Si la commission conclut qu’un préjudice réel, pour l’environnement, résulterait de la communication d’éléments de preuve, de documents ou d’objets, ces éléments de preuve, documents ou objets sont protégés; la personne qui les a obtenus en vertu de la présente loi ne peut sciemment les communiquer ou permettre qu’ils le soient sans l’autorisation de la commission.
 
 **Exécution des assignations et ordonnances**
 
@@ -715,6 +1067,8 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Immunité**
 
 - **(6)** Les membres d’une commission d’examen sont soustraits aux poursuites et autres procédures pour les faits — actes ou omissions — censés accomplis dans le cadre d’un examen par la commission.
+> 1992, ch. 37, art. 35; 2003, ch. 9, art. 16.
+
 
 
 
@@ -734,22 +1088,50 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **37** 
 
-- **(1)** Sous réserve du paragraphe (1.1), l’autorité responsable, après avoir pris en compte le rapport du médiateur ou de la commission ou si le ministre, à la suite du rapport d’étude approfondie, lui demande de prendre une décision aux termes de l’alinéa 23a), prend l’une des décisions suivantes :
-	- **a)** si, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants ou est susceptible d’en entraîner qui sont justifiables dans les circonstances, exercer ses attributions afin de permettre la mise en oeuvre totale ou partielle du projet et veiller à l’application de ces mesures d’atténuation;
-	- **b)** si, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, la réalisation du projet est susceptible d’entraîner des effets environnementaux qui ne sont pas justifiables dans les circonstances, ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale et qui pourraient permettre la mise en oeuvre du projet en tout ou en partie.
+- **(1)** Sous réserve des paragraphes (1.1) à (1.3), l’autorité responsable, après avoir pris en compte le rapport du médiateur ou de la commission ou, si le projet lui est renvoyé aux termes du paragraphe 23(1), le rapport d’étude approfondie, prend l’une des décisions suivantes :
+	- **a)
+** si, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants ou est susceptible d’en entraîner qui sont justifiables dans les circonstances, exercer ses attributions afin de permettre la mise en œuvre totale ou partielle du projet;
+	- **b)
+** si, compte tenu de l’application des mesures d’atténuation qu’elle estime indiquées, la réalisation du projet est susceptible d’entraîner des effets environnementaux qui ne sont pas justifiables dans les circonstances, ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale et qui pourraient permettre la mise en oeuvre du projet en tout ou en partie.
 
 **Agrément du gouverneur en conseil**
 
 - **(1.1)** Une fois pris en compte le rapport du médiateur ou de la commission, l’autorité responsable est tenue d’y donner suite avec l’agrément du gouverneur en conseil, qui peut demander des précisions sur l’une ou l’autre de ses conclusions; l’autorité responsable prend alors la décision visée au titre du paragraphe (1) conformément à l’agrément.
 
+**Application du paragraphe 5(2)**
+
+- **(1.2)** Lorsqu’une autorité responsable a l’obligation, en vertu du paragraphe (1.1), de donner suite au rapport qui y est visé, toute autorité fédérale dont le rôle à l’égard du projet est prévu à l’alinéa 5(2)b) peut prendre part à l’exécution de cette obligation comme si elle était une autorité responsable. S’agissant d’une autorité fédérale visée à l’alinéa b) de la définition de « autorité fédérale », au paragraphe 2(1), elle peut s’acquitter de cette obligation avec l’agrément du ministre par l’intermédiaire duquel elle rend compte de ses activités au Parlement.
+
+**Agrément du gouverneur en conseil**
+
+- **(1.3)** L’autorité responsable à laquelle le projet est renvoyé au titre du paragraphe 23(1) ne prend la décision visée au paragraphe (1) qu’avec l’agrément du gouverneur en conseil si le projet est, selon la déclaration du ministre, susceptible d’entraîner des effets environnementaux négatifs importants.
+
 **Précision**
 
 - **(2)** L’autorité responsable qui prend la décision visée à l’alinéa (1)a) veille, malgré toute autre loi fédérale, lors de l’exercice des attributions qui lui sont conférées sous le régime de cette loi ou de ses règlements ou selon les autres modalités qu’elle estime indiquées, à l’application des mesures d’atténuation visées à cet alinéa.
 
-**Interdiction de mise en oeuvre**
+**Mesures d’atténuation — étendue des pouvoirs**
 
-- **(3)** L’autorité responsable qui prend la décision visée à l’alinéa (1)b) à l’égard d’un projet fait consigner un avis de sa décision au registre public tenu aux termes de l’article 55 pour le projet, et, malgré toute autre disposition d’une loi fédérale, aucune attribution conférée sous le régime de cette loi ou de ses règlements ne peut être exercée de façon qui pourrait permettre la mise en oeuvre du projet en tout ou en partie.
-> 1992, ch. 37, art. 37; 1993, ch. 34, art. 29(F); 1994, ch. 46, art. 3.
+- **(2.1)** Les mesures d’atténuation que l’autorité responsable peut prendre en compte dans le cadre du paragraphe (1) ne se limitent pas à celles qui relèvent de la compétence législative du Parlement; elles comprennent :
+	- **a)** les mesures d’atténuation dont elle peut assurer l’application;
+	- **b)** toute autre mesure d’atténuation dont elle est convaincue qu’elle sera appliquée par une autre personne ou un autre organisme.
+
+**Application des mesures d’atténuation**
+
+- **(2.2)** Si elle prend une décision dans le cadre de l’alinéa (1)a), l’autorité responsable veille à l’application des mesures d’atténuation qu’elle a prises en compte et qui sont visées à l’alinéa (1.1)a) de la façon qu’elle estime nécessaire, même si aucune autre loi fédérale ne lui confère de tels pouvoirs d’application.
+
+**Appui à l’autorité responsable**
+
+- **(2.3)** Il incombe à l’autorité fédérale qui convient avec l’autorité responsable de mesures d’atténuation d’appuyer celle-ci, sur demande, dans l’application de ces mesures.
+
+**Interdiction de mise en œuvre**
+
+- **(3)** L’autorité responsable qui prend la décision visée à l’alinéa (1)b) à l’égard d’un projet est tenue de publier un avis de cette décision dans le registre, et aucune attribution conférée sous le régime de toute autre loi fédérale ou de ses règlements ne peut être exercée de façon à permettre la mise en œuvre, en tout ou en partie, du projet.
+
+**Délai relatif à la prise de la décision**
+
+- **(4)** L’autorité responsable ne peut prendre une décision dans le cadre du paragraphe (1) avant le trentième jour suivant le versement du rapport du médiateur ou de la commission, ou un résumé du rapport, au site Internet conformément à l’alinéa 55.1(2)p).
+> 1992, ch. 37, art. 37; 1993, ch. 34, art. 29(F); 1994, ch. 46, art. 3; 2003, ch. 9, art. 17.
 
 
 
@@ -759,21 +1141,28 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 
 
-**Suivi**
+**Décision au titre de l’al. 20(1)a) : suivi**
 
 **38** 
 
-- **(1)** L’autorité responsable qui décide de la mise en oeuvre conformément aux alinéas 20(1)a) ou 37(1)a) élabore, conformément aux règlements pris à cette fin, tout programme de suivi qu’elle estime indiqué et veille à son application.
+- **(1)** Si elle décide de la mise en œuvre conformément à l’alinéa 20(1)a), l’autorité responsable examine l’opportunité d’un programme de suivi dans les circonstances; le cas échéant, elle procède à l’élaboration d’un tel programme et veille à son application.
 
-**Renseignements**
+**Décision au titre de l’al. 37(1)a) : suivi**
 
-- **(2)** L’autorité responsable visée au paragraphe (1) porte à la connaissance du public, conformément aux règlements pris à cette fin, les renseignements suivants :
-	- **a)** sa décision relativement au projet;
-	- **b)** les mesures d’atténuation des effets environnementaux négatifs, s’il y a lieu;
-	- **c)** si une médiation ou un examen par une commission a eu lieu, la suite qu’elle entend donner aux recommandations issues des rapports de médiation ou d’examen par une commission et les motifs du rejet d’une recommandation;
-	- **d)** le programme de suivi élaboré en application du paragraphe (1);
-	- **e)** les résultats du programme de suivi.
-> 1992, ch. 37, art. 38; 1993, ch. 34, art. 30(F).
+- **(2)** Si elle décide de la mise en œuvre conformément à l’alinéa 37(1)a), l’autorité responsable élabore un programme de suivi et veille à son application.
+
+**Portée du programme de suivi**
+
+- **(3)** Dans l’élaboration et l’application du programme de suivi qu’elle estime indiqué, l’autorité responsable n’est pas limitée par le champ d’application de la loi sous le régime de laquelle elle exerce ses attributions.
+
+**Appui à l’autorité responsable**
+
+- **(4)** Il incombe à l’autorité fédérale qui convient avec l’autorité responsable du programme de suivi d’appuyer celle-ci, sur demande, dans la mise en œuvre du programme.
+
+**Programme de suivi**
+
+- **(5)** Les résultats des programmes de suivi peuvent être utilisés pour mettre en œuvre des mesures de gestion adaptative ou pour améliorer la qualité des évaluations environnementales futures.
+> 1992, ch. 37, art. 38; 1993, ch. 34, art. 30(F); 2003, ch. 9, art. 18.
 
 
 
@@ -808,22 +1197,22 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Examen conjoint**
 
-- **(2)** Sous réserve de l’article 41, dans le cas où il estime qu’un examen par une commission est nécessaire ou possible et où une instance visée à l’un des alinéas (1)a), b), c) ou d) a la responsabilité ou le pouvoir d’entreprendre l’évaluation des effets environnementaux de tout ou partie du projet, le ministre :
-	- **a)** peut conclure avec l’instance visée un accord relatif à la constitution conjointe d’une commission et aux modalités d’examen des effets environnementaux du projet par celle-ci;
-	- **b)** est tenu, dans le cas d’une instance, au sens du paragraphe 12(5), d’offrir de consulter et de coopérer avec celle-ci à l’égard de l’évaluation des effets environnementaux du projet.
+- **(2)** Sous réserve de l’article 41, dans le cas où il estime qu’un examen par une commission est nécessaire ou possible, le ministre :
+	- **a)** peut conclure avec l’instance visée à l’alinéa (1)a), b), c) ou d) exerçant des attributions relatives à l’évaluation des effets environnementaux du projet un accord relatif à la constitution conjointe d’une commission et aux modalités de l’évaluation environnementale du projet par celle-ci;
+	- **b)** est tenu, dans le cas d’une instance, au sens du paragraphe 12(5), qui a la responsabilité ou le pouvoir d’entreprendre l’évaluation des effets environnementaux de tout ou partie du projet, d’offrir de consulter et de coopérer avec celle-ci à l’égard de l’évaluation environnementale du projet.
 
 **[Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md)**
 
 - **(2.1)** Sous réserve de l’article 41, dans les cas où il est tenu de soumettre l’affaire à un examen par une commission au titre du paragraphe 28(2), le ministre, de concert avec l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, procède à la constitution d’une commission conjointe et fixe, dans le document constitutif, les modalités d’examen des effets environnementaux du projet par celle-ci.
 
-**Idem**
+**Examen conjoint**
 
-- **(3)** Sous réserve de l’article 41, dans le cas où ils estiment qu’un examen par une commission est nécessaire ou possible et où une instance visée à l’alinéa (1)e) ou f) a la responsabilité ou le pouvoir d’entreprendre l’évaluation des effets environnementaux de tout ou partie du projet, le ministre et le ministre des Affaires étrangères peuvent conclure avec l’instance visée un accord relatif à la constitution conjointe d’une commission et aux modalités d’examen des effets environnementaux du projet par celle-ci.
+- **(3)** Sous réserve de l’article 41, dans le cas où ils estiment qu’un examen par une commission est nécessaire ou possible et où une instance visée aux alinéas (1)e) ou f) a la responsabilité ou le pouvoir d’entreprendre l’évaluation des effets environnementaux de tout ou partie du projet, le ministre et le ministre des Affaires étrangères peuvent conclure avec l’instance visée un accord relatif à la constitution conjointe d’une commission et aux modalités de l’évaluation environnementale du projet par celle-ci.
 
 **Publicité**
 
 - **(4)** Les accords visés aux paragraphes (2) ou (3), ainsi que les documents visés au paragraphe (2.1), sont publiés avant le début des audiences de la commission conjointe.
-> 1992, ch. 37, art. 40; 1993, ch. 34, art. 31(F); 1995, ch. 5, art. 25; 1998, ch. 25, art. 163.
+> 1992, ch. 37, art. 40; 1993, ch. 34, art. 31(F); 1995, ch. 5, art. 25; 1998, ch. 25, art. 163; 2003, ch. 9, art. 19.
 
 
 
@@ -831,15 +1220,22 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Conditions de l’examen conjoint**
 
-**41** Les accords conclus aux termes des paragraphes 40(2) ou (3) et les documents visés au paragraphe 40(2.1) contiennent une disposition selon laquelle l’évaluation des effets environnementaux du projet prend en compte les éléments prévus aux paragraphes 16(1) et (2) et est effectuée conformément aux exigences et modalités supplémentaires qui y sont contenues ainsi que les conditions suivantes :
-- **a)** le ministre nomme le président, ou approuve sa nomination, ou nomme le coprésident et nomme au moins un autre membre de la commission;
-- **b)** les membres de la commission sont impartiaux, non en conflit d’intérêts avec le projet et pourvus des connaissances et de l’expérience voulues touchant les effets environnementaux prévus du projet;
-- **c)** le ministre fixe ou approuve le mandat de la commission;
-- **d)** les pouvoirs prévus à l’article 35 sont conférés à la commission;
-- **e)** le public aura la possibilité de participer à l’examen;
-- **f)** dès l’achèvement de l’examen, la commission lui présentera un rapport;
-- **g)** le rapport sera publié.
-> 1992, ch. 37, art. 41; 1993, ch. 34, art. 32(F); 1998, ch. 25, art. 164.
+**41** Les accords conclus aux termes des paragraphes 40(2) ou (3) et les documents visés au paragraphe 40(2.1) contiennent une disposition selon laquelle l’évaluation environnementale du projet prend en compte les éléments prévus aux paragraphes 16(1) et (2) et est effectuée conformément aux exigences et modalités supplémentaires qui y sont contenues ainsi que les conditions suivantes :
+- **a)
+** le ministre nomme le président, ou approuve sa nomination, ou nomme le coprésident et nomme au moins un autre membre de la commission;
+- **b)
+** les membres de la commission sont impartiaux, non en conflit d’intérêts avec le projet et pourvus des connaissances et de l’expérience voulues touchant les effets environnementaux prévus du projet;
+- **c)
+** le ministre fixe ou approuve le mandat de la commission;
+- **d)
+** les pouvoirs et immunités prévus à l’article 35 sont conférés à la commission;
+- **e)
+** le public aura la possibilité de participer à l’examen;
+- **f)
+** dès l’achèvement de l’examen, la commission lui présentera un rapport;
+- **g)
+** le rapport sera publié.
+> 1992, ch. 37, art. 41; 1993, ch. 34, art. 32(F); 1998, ch. 25, art. 164; 2003, ch. 9, art. 20.
 
 
 
@@ -900,7 +1296,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **46** 
 
-- **(1)** Le ministre peut, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’examen des effets environnementaux d’un projet à l’égard duquel aucune des attributions visées à l’article 5 ou conférées sous le régime d’une autre loi fédérale ou d’un règlement ne doit être exercée par une autorité fédérale, s’il estime que le projet doit être mis en oeuvre dans une province et peut causer des effets environnementaux négatifs importants dans une autre province.
+- **(1)** S’il est d’avis qu’un projet qui doit être mis en œuvre dans une province et à l’égard duquel aucune des attributions visées à l’article 5 ne doit être exercée par une autorité fédérale peut entraîner des effets environnementaux négatifs importants dans une autre province, le ministre peut, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’évaluation de ces effets dans cette autre province.
 
 **Entente interprovinciale**
 
@@ -924,6 +1320,8 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Définition de « province concernée »**
 
 - **(5)** Pour l’application du présent article et des articles 47, 48, 50 et 51, ***province concernée*** s’entend de la province où est mis en oeuvre le projet et de celle qui prétend que le projet peut entraîner des effets environnementaux négatifs importants sur son territoire.
+> 1992, ch. 37, art. 46; 2003, ch. 9, art. 21.
+
 
 
 
@@ -932,7 +1330,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **47** 
 
-- **(1)** Dans le cas où aucune des attributions visées à l’article 5 ou conférées sous le régime d’une autre loi fédérale ou d’un règlement ne doit être exercée par une autorité fédérale à l’égard d’un projet devant être mis en oeuvre au Canada ou sur le territoire domanial et où le ministre est d’avis que le projet peut entraîner des effets environnementaux négatifs importants à la fois à l’étranger et hors du territoire domanial, le ministre et le ministre des Affaires étrangères peuvent, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’évaluation des effets environnementaux internationaux.
+- **(1)** Dans le cas où aucune des attributions visées à l’article 5 ne doit être exercée par une autorité fédérale à l’égard d’un projet devant être mis en œuvre au Canada ou sur le territoire domanial et où le ministre est d’avis que le projet peut entraîner des effets environnementaux négatifs importants à la fois à l’étranger et hors du territoire domanial, le ministre et le ministre des Affaires étrangères peuvent, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’évaluation des effets environnementaux internationaux.
 
 **Défaut d’entente**
 
@@ -953,7 +1351,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 	- **a)** au promoteur du projet;
 	- **b)** au gouvernement de la province où est mis en oeuvre le projet ou dont le territoire est contigu au territoire domanial sur lequel le projet est mis en oeuvre;
 	- **c)** au gouvernement de l’État étranger à l’égard duquel, ou à la subdivision politique du gouvernement d’un État étranger à l’égard de laquelle, selon le ministre, le projet peut entraîner des effets environnementaux négatifs importants sur son territoire.
-> 1992, ch. 37, art. 47; 1995, ch. 5, art. 25.
+> 1992, ch. 37, art. 47; 1995, ch. 5, art. 25; 2003, ch. 9, art. 22.
 
 
 
@@ -963,18 +1361,23 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **48** 
 
-- **(1)** Le ministre peut renvoyer à un médiateur ou à une commission l’examen des effets environnementaux d’un projet à l’égard duquel aucune attribution visée à l’article 5 ou conférée sous le régime d’une autre loi fédérale ou d’un règlement ne doit être exercée par une autorité fédérale, si le projet doit être mis en oeuvre au Canada et, à son avis, est susceptible d’entraîner des effets environnementaux négatifs importants sur :
+- **(1)** Le ministre peut renvoyer à un médiateur ou à une commission l’évaluation des effets environnementaux d’un projet à l’égard duquel aucune attribution visée à l’article 5 ne doit être exercée par une autorité fédérale, si le projet doit être mis en œuvre au Canada et peut, à son avis, entraîner des effets environnementaux négatifs importants sur :
 	- **a)** des terres d’une réserve mise de côté à l’usage et au profit d’une bande et assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
-	- **b)** le territoire domanial, à l’exception des terres visées à l’alinéa a);
-	- **c)** des terres visées dans un accord de revendications territoriales visé à l’article 35 de la *Loi constitutionnelle de 1982* et désignées par règlement;
+	- **a.1)** un parc ou une réserve, au sens du paragraphe 2(1) de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md);
+	- **b)** le territoire domanial, à l’exception des terres visées aux alinéas a) et a.1);
+	- **c)** des terres visées dans un accord de revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982 et désignées par règlement;
 	- **d)** des terres, désignées par règlement, mises de côté à l’usage et au profit des Indiens conformément à une loi relative à l’autonomie gouvernementale des Indiens;
 	- **e)** des terres sur lesquelles les Indiens ont des droits.
 
-**Effets sur les terres d’une réserve et autres**
+**Intégrité écologique**
 
-- **(2)** S’il est d’avis qu’un projet, à l’égard duquel aucune attribution visée à l’article 5 ou conférée sous le régime d’une autre loi fédérale ou d’un règlement ne doit être exercée par une autorité fédérale, qui doit être mis en oeuvre sur les terres énumérées ci-après est susceptible d’entraîner des effets environnementaux négatifs importants à l’extérieur de ces terres, le ministre peut, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’examen de ces effets :
+- **(1.1)** Le ministre, pour décider si un projet peut entraîner des effets environnementaux négatifs importants sur un parc ou une réserve, au sens du paragraphe 2(1) de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), tient compte des effets que le projet aura sur leur intégrité écologique, au sens de ce paragraphe.
+
+**Terres d’une réserve et autres**
+
+- **(2)** S’il est d’avis qu’un projet à l’égard duquel aucune attribution visée à l’article 5 ne doit être exercée par une autorité fédérale et qui doit être mis en œuvre sur les terres énumérées ci-après peut entraîner des effets environnementaux négatifs importants à l’extérieur de ces terres, le ministre peut, conformément à l’article 29, renvoyer à un médiateur ou à une commission l’examen de ces effets :
 	- **a)** terres d’une réserve mise de côté à l’usage et au profit d’une bande et assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
-	- **b)** terres visées dans un accord de revendications territoriales visé à l’article 35 de la *Loi constitutionnelle de 1982* et désignées par règlement;
+	- **b)** terres visées dans un accord de revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982 et désignées par règlement;
 	- **c)** terres, désignées par règlement, qui ont été mises de côté à l’usage et au profit des Indiens conformément à une loi relative à l’autonomie gouvernementale des Indiens.
 
 **Défaut d’entente**
@@ -982,7 +1385,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 - **(3)** Le ministre ne peut effectuer le renvoi prévu aux paragraphes (1) ou (2) que si lui-même et les gouvernements des provinces concernées ainsi que les organismes énumérés ci-après ne peuvent s’entendre sur les modalités de rechange de l’évaluation des effets environnementaux négatifs importants du projet sur ces terres ou à l’extérieur de celles-ci :
 	- **a)** à l’égard du territoire domanial visé à l’alinéa (1)b), l’autorité fédérale qui est chargée de sa gestion;
 	- **b)** à l’égard des terres visées aux alinéas (1)a) ou (2)a), le conseil de la bande à l’usage et au profit de laquelle la réserve a été mise de côté;
-	- **c)** à l’égard de terres visées aux alinéas (1)c) ou e) ou (2)b), la partie à l’accord ou à la revendication qui représente le peuple autochtone;
+	- **c)** à l’égard des terres visées aux alinéas (1)c) ou e) ou (2)b), le peuple ou groupe autochtone, ou son représentant, partie à l’accord ou à la revendication, ou leurs successeurs;
 	- **d)** à l’égard des terres qui ont été mises de côté à l’usage et au profit des Indiens conformément à une loi visée aux alinéas (1)d) ou (2)c), l’organisme dirigeant constitué par cette loi.
 
 **Demande**
@@ -999,14 +1402,16 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 	- **a)** au promoteur du projet;
 	- **b)** aux gouvernements des provinces concernées;
 	- **c)** aux signataires d’une pétition examinée par le ministre aux termes du paragraphe (4);
-	- **d)** à l’autorité fédérale, dans le cas du renvoi qui doit être effectué aux termes de l’alinéa (1)b).
+	- **d)** à l’autorité fédérale, dans le cas du renvoi qui doit être effectué aux termes de l’alinéa (1)b);
+	- **e)** à l’égard des terres visées aux alinéas (1)a) ou (2)a), au conseil de la bande à l’usage et au profit de laquelle la réserve a été mise de côté;
+	- **f)** à l’égard des terres visées aux alinéas (1)c) ou e) ou (2)b), au peuple ou groupe autochtone, ou à son représentant, partie à l’accord ou à la revendication, ou à leurs successeurs;
+	- **g)** à l’égard des terres qui ont été mises de côté à l’usage et au profit des Indiens conformément à une loi visée aux alinéas (1)d) ou (2)c), à l’organisme dirigeant constitué par cette loi.
 
 **Terres sur lesquelles les Indiens ont des droits**
 
-- **(6)** Pour l’application du présent article, les terres sur lesquelles les Indiens ont des droits s’entendent :
+- **(6)** Pour l’application du présent article, les terres sur lesquelles les Indiens ont des droits s’entendent :
 	- **a)** des terres visées par des revendications territoriales que le gouvernement fédéral a accepté de négocier dans le cadre de sa politique en matière de revendications territoriales des Indiens et :
-		- **(i)** celles qui ont été, dans le cadre d'un règlement en matière de revendications territoriales, déclarées inaliénables, dans le cas des Territoires du Nord-Ouest ou du Nunavut, sous le régime de la 
-[Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou, dans le cas du Yukon, en vertu d'une loi de la Législature,
+		- **(i)** celles qui ont été, dans le cadre d’un règlement en matière de revendications territoriales, déclarées inaliénables, dans le cas des Territoires du Nord-Ouest ou du Nunavut, sous le régime de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou, dans le cas du Yukon, en vertu d’une loi de la Législature,
 		- **(ii)** dans le cas des provinces, celles qui ont été choisies par le gouvernement fédéral et celui de la province concernée;
 	- **b)** des terres qui appartiennent à Sa Majesté ou qu’elle a le droit de céder et qui ont été choisies par elle et une bande indienne pour cession en vue d’un règlement des revendications territoriales fondées :
 		- **(i)** sur une obligation légale de Sa Majesté envers une bande indienne aux termes de la politique du gouvernement fédéral en matière de revendications particulières,
@@ -1015,7 +1420,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Règle d’application**
 
 - **(7)** Pour l’application du présent article, toute mention des terres, territoires ou réserves comprend leurs eaux et leur espace aérien.
-> 1992, ch. 37, art. 48; 1993, ch. 28, art. 78; 2002, ch. 7, art. 123.
+> 1992, ch. 37, art. 48; 1993, ch. 28, art. 78; 2002, ch. 7, art. 123; 2003, ch. 9, art. 23.
 
 
 
@@ -1113,72 +1518,195 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Accords internationaux**
 
-- **(2)** Sous réserve du paragraphe (3), le gouvernement du Canada ou toute autorité fédérale veille à ce que les accords que l’autorité fédérale conclut — ou que le gouvernement conclut en son nom — avec soit un gouvernement, soit une personne, un organisme ou une institution, peu importe qu’ils soient ou non affiliés à un gouvernement ou en fassent partie, en vertu desquels une autorité fédérale exerce une attribution visée à l’alinéa 5(1)b) au titre de projets dont les éléments essentiels ne sont pas déterminés qui doivent être mis en oeuvre à la fois à l’étranger et hors du territoire domanial, prévoient, dans la mesure du possible, tout en étant compatibles avec les accords dont le Canada ou une autorité fédérale est déjà signataire à leur entrée en vigueur, l’évaluation des effets environnementaux des projets, cette évaluation devant être effectuée le plus tôt possible au stade de leur planification, avant la prise d’une décision irrévocable, conformément à la présente loi et aux règlements ou au processus, compatible avec la présente loi, d’évaluation des effets environnementaux de projets applicable dans l’État étranger où ceux-ci doivent être mis en oeuvre.
+- **(2)** Sous réserve du paragraphe (3), le gouvernement du Canada ou toute autorité fédérale veille à ce que les accords que l’autorité fédérale conclut — ou que le gouvernement conclut en son nom — avec soit un gouvernement, soit une personne, un organisme ou une institution, peu importe qu’ils soient ou non affiliés à un gouvernement ou en fassent partie, en vertu desquels une autorité fédérale exerce une attribution visée aux alinéas 5(1)b) ou 10.1(2)b) au titre de projets dont les éléments essentiels ne sont pas déterminés qui doivent être mis en œuvre à la fois à l’étranger et hors du territoire domanial, prévoient, dans la mesure du possible, tout en étant compatibles avec les accords dont le Canada ou une autorité fédérale est déjà signataire à leur entrée en vigueur, l’évaluation des effets environnementaux des projets, cette évaluation devant être effectuée le plus tôt possible au stade de leur planification, avant la prise d’une décision irrévocable, conformément à la présente loi et aux règlements ou au processus, compatible avec la présente loi, d’évaluation des effets environnementaux de projets applicable dans l’État étranger où ceux-ci doivent être mis en œuvre.
 
 **Exception**
 
-- **(3)** Les paragraphes (1) ou (2) ne s’appliquent pas à un accord visé à ces paragraphes dans les cas où une autorité fédérale est tenue d’exercer une attribution visée à l’alinéa 5(1)b) relativement aux projets qui font l’objet de l’accord après la détermination des éléments essentiels de ceux-ci.
-> 1992, ch. 37, art. 54; 1993, ch. 34, art. 37(F).
+- **(3)** Il est entendu que, dans les cas où une autorité fédérale est tenue d’exercer une attribution visée aux alinéas 5(1)b) ou 10.1(2)b) relativement aux projets qui font l’objet d’un accord visé aux paragraphes (1) ou (2) après la détermination des éléments essentiels de ces projets, ces paragraphes ne s’appliquent pas à l’accord et les articles 5 ou 10.1 s’appliquent.
+> 1992, ch. 37, art. 54; 1993, ch. 34, art. 37(F); 2003, ch. 9, art. 24.
 
 
 
 
 
-## Accès à l’information
+## Registre canadien d’évaluation environnementale
 
 
 
-**Registre public**
+### Établissement du registre
+
+
+
+**Registre canadien d’évaluation environnementale**
 
 **55** 
 
-- **(1)** Est tenu, conformément à la présente loi et aux règlements, un registre public pour chacun des projets pour lesquels une évaluation environnementale est effectuée afin de faciliter l’accès aux documents relatifs à cette évaluation.
+- **(1)** Afin de faciliter l’accès du public aux documents relatifs aux évaluations environnementales et de notifier celles-ci en temps opportun, est établi le registre canadien d’évaluation environnementale formé, d’une part, d’un site Internet et, d’autre part, des dossiers de projet.
 
-**Établissement du registre**
+**Droit d’accès**
 
-- **(2)** Le registre public est tenu :
+- **(2)** Le registre est maintenu de façon à en assurer l’accès facile au public. Ce droit d’accès existe indépendamment de tout droit d’accès prévu par toute autre loi fédérale.
+
+**Copie**
+
+- **(3)** Afin de faciliter l’accès du public aux documents versés au registre, le coordonnateur fédéral de l’évaluation environnementale, dans le cas d’un examen préalable et d’une étude approfondie, et l’Agence, dans les autres cas, veillent à ce que soit fourni, sur demande et en temps opportun, une copie de tout tel document.
+> 1992, ch. 37, art. 55; 1993, ch. 34, art. 38(F); 2003, ch. 9, art. 25.
+
+
+
+
+
+### Site Internet
+
+
+
+**Établissement et tenue du site Internet**
+
+**55.1** 
+
+- **(1)** L’Agence établit et tient, conformément à la présente loi et aux règlements, un site généralement accessible sur le réseau communément appelé Internet.
+
+**Contenu**
+
+- **(2)** Sont versés au site Internet, sous réserve du paragraphe 55.5(1) :
+	- **a)** dans les quatorze jours suivant le début de l’évaluation environnementale, avis du début de l’évaluation, sauf si l’autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
+	- **b)** l’entente visée au paragraphe 12.4(3);
+	- **c)** la description de la portée, déterminée au titre de l’article 15, du projet à l’égard duquel l’évaluation environnementale doit être effectuée;
+	- **d)** le relevé des projets à l’égard desquels une autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
+	- **e)** toute désignation faite dans le cadre du paragraphe 19(4), avec le rapport ou une indication de la façon d’en obtenir copie, de même que toute déclaration faite dans le cadre du paragraphe 19(9);
+	- **f)** avis de la décision de l’autorité responsable de mettre fin à l’évaluation environnementale au titre de l’article 26;
+	- **g)** avis de la décision du ministre de mettre fin à l’évaluation environnementale au titre de l’article 27;
+	- **h)** avis public lancé par l’autorité responsable ou l’Agence sollicitant la participation du public à l’évaluation environnementale;
+	- **i)** avis de la décision du ministre de renvoyer le projet au titre de l’alinéa 21.1(1)a);
+	- **j)** dans le cas où l’autorité responsable donne, au titre du paragraphe 18(3), la possibilité au public de participer à l’examen préalable ou dans le cas où le ministre renvoie, au titre de l’alinéa 21.1(1)a), le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie, une description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
+	- **k)** le rapport d’examen préalable ou de l’étude approfondie sur lequel se fonde la décision de l’autorité responsable au titre des articles 20 ou 37 — ou une indication de la façon d’en obtenir copie — , sauf si l’autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
+	- **l)** la déclaration que fait le ministre en application du paragraphe 23(1) et toute demande faite au titre du paragraphe 23(2);
+	- **m)** avis de renvoi du projet à la médiation ou à l’examen par une commission;
+	- **n)** le mandat du médiateur ou de la commission;
+	- **o)** avis, le cas échéant, de la décision du ministre de mettre fin à la médiation au titre du paragraphe 29(4);
+	- **p)** le rapport du médiateur ou de la commission, ou un résumé du rapport;
+	- **q)** la suite à donner, au titre du paragraphe 37(1.1), au rapport du médiateur ou de la commission;
+	- **r)** sauf si l’autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6), la décision prise par celle-ci en application des articles 20 ou 37 relativement aux effets environnementaux du projet et la mention des mesures d’atténuation dont elle a tenu compte dans le cadre de sa décision;
+	- **s)** avis indiquant si, au terme de l’examen visé au paragraphe 38(1), le programme de suivi est jugé opportun;
+	- **t)** la description sommaire du programme de suivi et de ses résultats ou une indication de la façon d’obtenir copie de la description complète du programme et de ses résultats;
+	- **u)** tout autre renseignement, notamment sous la forme d’une liste de documents — accompagnée, dans ce cas, d’une indication de la façon d’obtenir copie de ceux-ci — , que l’autorité responsable ou l’Agence, selon le cas, juge indiqué;
+	- **v)** tout autre document ou renseignement prévu par règlement pris en vertu de l’alinéa 59h.1).
+
+**Modalités de forme et de contenu**
+
+- **(3)** L’Agence décide et avise le public :
+	- **a)** des modalités de forme et de tenue du site Internet;
+	- **b)** des modalités selon lesquelles les documents et renseignements doivent y être versés;
+	- **c)** des renseignements qui doivent se trouver dans les documents visés au paragraphe (2);
+	- **d)** des documents et renseignements à verser au site Internet en plus des documents visés au paragraphe (2);
+	- **e)** du moment où les renseignements doivent être versés au site Internet;
+	- **f)** du moment où les documents peuvent être retirés du site Internet;
+	- **g)** des modalités d’accès au site Internet.
+> 2003, ch. 9, art. 25.
+
+
+
+
+
+**Responsabilité à l’égard du site Internet : Agence**
+
+**55.2** 
+
+- **(1)** L’Agence veille à ce que soient versés au site Internet les documents visés aux alinéas 55.1(2)b), e), i) et l).
+
+**Cas de médiation et d’examen par une commission**
+
+- **(2)** Elle veille également à ce que, dans le cas d’une médiation ou d’un examen par une commission, les documents visés aux alinéas 55.1(2)c), g), h), m), n), o), p), q) et u) y soient versés, de même que, le cas échéant, les documents et renseignements visés à l’alinéa 55.1(2)v).
+> 2003, ch. 9, art. 25.
+
+
+
+
+
+**Responsabilité à l’égard du site Internet : autorité responsable**
+
+**55.3** 
+
+- **(1)** L’autorité responsable veille à ce que soient versés au site Internet les documents visés aux alinéas 55.1(2)a), f), j), k), r), s) et t). Elle veille également à ce que, dans le cas d’un examen préalable ou d’une étude approfondie, les documents visés aux alinéas 55.1(2)c), h) et u) y soient versés, de même que les documents et renseignements visés à l’alinéa 55.1(2)v).
+
+**Relevés : al. 55.1(2)d)**
+
+- **(2)** Elle veille également à ce que les relevés visés à l’alinéa 55.1(2)d) y soient versés trimestriellement ou selon la fréquence plus élevée dont elle convient avec l’Agence.
+
+**Règle relative au versement de certains documents**
+
+- **(3)** Sauf autorisation contraire de l’Agence, le rapport d’examen préalable ou de l’étude approfondie visé à l’alinéa 55.1(2)k) — ou une indication de la façon d’en obtenir copie — doit être versé au site Internet avant la décision connexe visée à l’alinéa 55.1(2)r) ou en même temps qu’elle.
+> 2003, ch. 9, art. 25.
+
+
+
+
+
+### Dossiers de projet
+
+
+
+**Établissement et tenue des dossiers de projet**
+
+**55.4** 
+
+- **(1)** Les dossiers de projet sont établis et tenus conformément à la présente loi et aux règlements à l’égard de chacun des projets pour lesquels une évaluation environnementale est effectuée :
 	- **a)** par l’autorité responsable dès le début de l’évaluation environnementale et jusqu’à ce que le programme de suivi soit terminé;
-	- **b)** par l’Agence, dans les cas où une médiation ou un examen par une commission est effectuée, dès la nomination du médiateur ou des membres de la commission jusqu’au moment de la remise du rapport au ministre.
+	- **b)** par l’Agence, dans les cas où une médiation ou un examen par une commission est effectué, dès la nomination du médiateur ou des membres de la commission et jusqu’au moment de la remise du rapport au ministre.
 
-**Contenu du registre**
+**Contenu des dossiers de projet**
 
-- **(3)** Sous réserve du paragraphe (4), le registre public contient tous les documents produits, recueillis ou reçus relativement à l’évaluation environnementale d’un projet, notamment :
-	- **a)** tout rapport relatif à l’évaluation environnementale du projet;
-	- **b)** toute observation du public à l’égard de l’évaluation;
-	- **c)** tous les documents que l’autorité responsable a préparés pour l’application de l’article 38;
-	- **d)** tous les documents produits par l’application d’un programme de suivi;
-	- **e)** le mandat du médiateur ou d’une commission;
-	- **f)** tous les documents exigeant l’application de mesures d’atténuation.
+- **(2)** Sous réserve du paragraphe 55.5(1), chaque dossier de projet contient tous les documents produits, recueillis ou reçus relativement à l’évaluation environnementale du projet, notamment :
+	- **a)** les documents versés au site Internet;
+	- **b)** tout rapport relatif à l’évaluation environnementale;
+	- **c)** toute observation du public à l’égard de l’évaluation;
+	- **d)** tous les documents préparés pour l’examen de l’opportunité d’un programme de suivi et pour l’élaboration et l’application d’un tel programme;
+	- **e)** tous les documents exigeant l’application de mesures d’atténuation.
+> 2003, ch. 9, art. 25.
+
+
+
+
+
+### Dispositions générales
+
+
 
 **Genre d’information disponible**
 
-- **(4)** Le registre public permet l’accès aux documents visés au paragraphe (3) si ceux-ci appartiennent à l’une des catégories suivantes :
-	- **a)** documents qui sont mis à la disposition du public dans le registre conformément à la présente loi ainsi que tout autre document qui a déjà été rendu public;
-	- **b)** tout ou partie d’un document qui, de l’avis de l’autorité responsable, dans le cas d’un document qu’elle contrôle, ou de l’avis du ministre dans le cas d’un document que l’Agence contrôle, serait communiqué conformément à la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) si une demande en ce sens était faite aux termes de celle-ci au moment où l’Agence prend le contrôle du document, y compris tout document qui serait communiqué dans l’intérêt public aux termes du paragraphe 20(6) de cette loi;
-	- **c)** tout ou partie d’un document, à l’exception d’un document contenant des renseignements relatifs à un tiers, si l’autorité responsable, dans le cas d’un document qu’elle contrôle ou le ministre, dans le cas d’un document que l’Agence contrôle, a des motifs raisonnables de croire qu’il serait d’intérêt public de le communiquer parce qu’il est nécessaire à une participation efficace du public à l’évaluation environnementale.
+**55.5** 
 
-**Renseignements relatifs à un tiers**
+- **(1)** Le registre ne comporte que les documents, parties de document ou renseignements :
+	- **a)** qui ont par ailleurs été rendus publics;
+	- **b)** dont, de l’avis de l’autorité responsable, dans le cas de documents qu’elle contrôle, ou de l’avis du ministre, dans le cas de documents que l’Agence contrôle :
+		- **(i)** soit la communication serait faite conformément à la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) si une demande en ce sens était faite aux termes de celle-ci au moment où l’autorité responsable ou l’Agence prend le contrôle des documents, y compris les documents qui seraient communiqués dans l’intérêt public aux termes du paragraphe 20(6) de cette loi,
+		- **(ii)** soit il existe des motifs raisonnables de croire qu’il serait d’intérêt public de les communiquer parce qu’ils sont nécessaires à une participation efficace du public à l’évaluation environnementale, à l’exception des documents contenant des renseignements dont la communication doit être refusée en vertu de l’article 20 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
 
-- **(5)** Les articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’appliquent, avec les adaptations nécessaires, à toute détermination faite aux termes de l’alinéa (4)b) à l’égard de renseignements relatifs à un tiers, et tout document visé à cet alinéa est réputé, pour l’application de l’article 27 de cette loi, constituer un document que le ministre ou l’autorité responsable a l’intention de communiquer; pour l’application de cette loi, il ne doit pas être tenu compte de la mention de la personne qui a demandé la communication des renseignements si nul ne l’a demandée.
+**Application des art. 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)**
+
+- **(2)** Sous réserve des adaptations nécessaires, notamment de celles qui suivent, les articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’appliquent à tout renseignement visé au paragraphe 27(1) de cette loi que l’Agence ou l’autorité responsable a l’intention de faire verser au registre :
+	- **a)** ce renseignement est réputé constituer un document que le responsable d’une institution fédérale a l’intention de communiquer;
+	- **b)** il ne doit pas être tenu compte des mentions de la personne qui fait la demande de communication des renseignements.
+
+**Précision**
+
+- **(3)** Le présent article s’applique aux autorités responsables qui sont des sociétés d’État mères mais non des institutions fédérales au sens de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) comme si elles étaient de telles institutions.
+> 2003, ch. 9, art. 25.
+
+
+
+
 
 **Immunité**
 
-- **(6)** Malgré toute autre loi fédérale, l’autorité responsable ou le ministre et les personnes qui agissent en leur nom ou sous leur autorité bénéficient de l’immunité en matière civile ou pénale, et la Couronne ainsi que les autorités responsables bénéficient de l’immunité devant toute juridiction, pour la communication totale ou partielle d’un document faite de bonne foi dans le cadre de la présente loi ainsi que pour les conséquences qui en découlent; ils bénéficient également de l’immunité dans les cas où, ayant fait preuve de la diligence nécessaire, ils n’ont pu donner les avis prévus à l’article 27 ou à toute autre disposition de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
-
-**Définition de « renseignements relatifs à un tiers »**
-
-- **(7)** Au présent article, ***renseignements relatifs à un tiers*** s’entend des renseignements suivants :
-	- **a)** secrets industriels de tiers;
-	- **b)** renseignements financiers, commerciaux, scientifiques ou techniques fournis à une institution fédérale par un tiers, qui sont de nature confidentielle et qui sont traités comme tels de façon constante par ce tiers;
-	- **c)** renseignements dont la divulgation risquerait vraisemblablement de causer des pertes ou profits financiers appréciables à un tiers ou de nuire à sa compétitivité;
-	- **d)** renseignements dont la divulgation risquerait vraisemblablement d’entraver des négociations menées par un tiers en vue de contrats ou à d’autres fins.
-> 1992, ch. 37, art. 55; 1993, ch. 34, art. 38(F).
+**55.6** Malgré toute autre loi fédérale, l’autorité responsable, l’Agence ou le ministre et les personnes qui agissent en leur nom ou sous leur autorité, ainsi que les administrateurs et les dirigeants des sociétés d’État auxquelles la présente loi s’applique, bénéficient de l’immunité en matière civile ou pénale, et la Couronne, l’Agence ainsi que les autorités responsables bénéficient de l’immunité devant toute juridiction, pour la communication totale ou partielle d’un document faite de bonne foi en vertu de la présente loi ainsi que pour les conséquences qui en découlent; ils bénéficient également de l’immunité dans les cas où, ayant fait preuve de la diligence nécessaire, ils n’ont pu donner les avis prévus aux articles 27 et 28 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+> 2003, ch. 9, art. 25.
 
 
 
 
 
-## Résumés statistiques
+## Information pertinente
 
 
 
@@ -1191,6 +1719,15 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Idem**
 
 - **(2)** L’autorité responsable veille à ce que le résumé applicable à un exercice soit prêt au plus tard un mois après la fin de l’exercice.
+
+
+
+
+**Renseignements nécessaires pour le programme d’assurance de la qualité**
+
+**56.1** Les autorités fédérales et les personnes ou organismes visés à l’un ou l’autre des articles 8 à 10 fournissent à l’Agence, sur demande, les renseignements concernant toute évaluation dont ils veillent à la réalisation sous le régime de la présente loi que l’Agence estime utiles à l’appui d’un programme d’assurance de la qualité mis sur pied à son initiative.
+> 2003, ch. 9, art. 27.
+
 
 
 
@@ -1219,19 +1756,32 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **58** 
 
 - **(1)** Pour l’application de la présente loi, le ministre peut :
-	- **a)** donner des lignes directrices et établir des codes de pratique ou de procédure d’application de la présente loi et des règlements, y compris, établir des critères servant à déterminer si, compte tenu de l’application de mesures d’atténuation indiquées, est susceptible d’entraîner des effets environnementaux négatifs importants ou si ces effets sont justifiables dans les circonstances;
-	- **b)** constituer des organismes consultatifs et de recherche;
-	- **c)** conclure des accords avec toute instance au sens des alinéas 40(1)a), b), c) ou d) en matière d’évaluation des effets environnementaux;
-	- **d)** conclure des accords avec toute instance, au sens du paragraphe 40(1), en matière de coordination, de consultation, d’échange d’information et de détermination des facteurs à considérer relativement à l’évaluation des effets environnementaux de projets d’intérêt commun;
-	- **e)** recommander la nomination de membres temporaires auprès des organismes constitués par des autorités fédérales ou auprès des organismes visés à l’alinéa 40(1)d) en vue de faciliter la substitution visée à l’article 43;
-	- **f)** fixer les critères de nomination des médiateurs et des membres des commissions d’évaluation environnementale;
-	- **g)** fixer les critères applicables aux substitutions effectuées en vertu de l’article 43;
-	- **h)** fixer les critères des modalités de rechange de l’évaluation environnementale des effets environnementaux visée au paragraphe 46(2) ou 47(2).
-	- **i)** [Abrogé, 1994, ch. 46, art. 4]
+	- **a)
+** donner des lignes directrices et établir des codes de pratique ou de procédure d’application de la présente loi et des règlements, y compris, établir des critères servant à déterminer si, compte tenu de l’application de mesures d’atténuation indiquées, est susceptible d’entraîner des effets environnementaux négatifs importants ou si ces effets sont justifiables dans les circonstances;
+	- **b)
+** constituer des organismes consultatifs et de recherche;
+	- **c)
+** conclure des accords avec toute instance au sens des alinéas 40(1)a), 
+b), 
+c) ou 
+d) en matière d’évaluation des effets environnementaux;
+	- **d)
+** conclure des accords avec toute instance, au sens du paragraphe 40(1), en matière de coordination, de consultation, d’échange d’information et de détermination des facteurs à considérer relativement à l’évaluation des effets environnementaux de projets d’intérêt commun;
+	- **e)
+** recommander la nomination de membres temporaires auprès des organismes constitués par des autorités fédérales ou auprès des organismes visés à l’alinéa 40(1)
+d) en vue de faciliter la substitution visée à l’article 43;
+	- **f)
+** fixer les critères de nomination des médiateurs et des membres des commissions d’évaluation environnementale;
+	- **g)
+** fixer les critères applicables aux substitutions effectuées en vertu de l’article 43;
+	- **h)
+** fixer les critères des modalités de rechange de l’évaluation environnementale des effets environnementaux visée au paragraphe 46(2) ou 47(2);
+	- **i)
+** prendre des règlements désignant des projets ou des catégories de projets pour lesquels une étude approfondie est obligatoire, s’il est convaincu que ceux-ci sont susceptibles d’entraîner des effets environnementaux négatifs importants.
 
 **Fonds de participation**
 
-- **(1.1)** Le ministre crée, pour l’application de la présente loi, un fonds de participation du public aux médiations et aux évaluations par une commission d’examen.
+- **(1.1)** Le ministre crée, pour l’application de la présente loi, un programme d’aide financière pour faciliter la participation du public aux études approfondies, aux médiations et aux examens par une commission constituée dans le cadre des paragraphes 33(1) ou 40(2).
 
 **Accords internationaux**
 
@@ -1244,7 +1794,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 **Accessibilité**
 
 - **(4)** Les lignes directrices, codes de pratique, accords, critères et arrêtés sont accessibles au public.
-> 1992, ch. 37, art. 58; 1993, ch. 34, art. 39(F); 1994, ch. 46, art. 4; 1995, ch. 5, art. 25.
+> 1992, ch. 37, art. 58; 1993, ch. 34, art. 39(F); 1994, ch. 46, art. 4; 1995, ch. 5, art. 25; 2003, ch. 9, art. 28.
 
 
 
@@ -1256,31 +1806,61 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 **Règlements**
 
-**59** Le gouverneur en conseil peut, par règlement :
+**59** Le gouverneur en conseil peut, par règlement :
 - **a)** régir les procédures, les délais applicables et les exigences relatives à l’évaluation environnementale et au programme de suivi, notamment le moment de la prise de mesures au titre des articles 20 ou 37 quand plusieurs autorités fédérales sont susceptibles d’exercer les attributions visées à l’article 5, ainsi que les évaluations effectuées par une commission aux termes de l’article 40;
+- **a.1)** régir les attributions du coordonnateur fédéral de l’évaluation environnementale et la façon dont il est désigné;
 - **b)** désigner une activité concrète ou une catégorie d’activités concrètes pour l’application de la définition de « projet » au paragraphe 2(1);
-- **c)** désigner des projets ou des catégories de projets pour lesquels l’évaluation environnementale n’est pas nécessaire, lorsqu’il est convaincu que :
-	- **(i)** l’évaluation environnementale de ceux-ci ne serait pas indiquée pour des raisons de sécurité nationale,
-	- **(ii)** dans le cas de projets liés à un ouvrage, les effets environnementaux de ceux-ci ne sont pas importants ou l’exercice par l’autorité responsable d’attributions visées à l’article 5 à l’égard de ces projets constitue une intervention marginale;
-- **d)** désigner des projets ou des catégories de projets susceptibles, selon lui, d’entraîner des effets environnementaux négatifs importants et pour lesquels une étude environnementale approfondie est obligatoire;
+- **c)** soustraire à l’évaluation exigée par la présente loi des projets ou des catégories de projets :
+	- **(i)** dont, à son avis, l’évaluation ne serait pas indiquée pour des raisons de sécurité nationale,
+	- **(ii)** qui sont liés à un ouvrage et dont, à son avis, les effets environnementaux ne sont pas importants,
+	- **(iii)** qui remplissent les conditions de nature environnementale prévues par règlement et dont le coût total est en-deçà du seuil réglementaire;
+- **c.1)** en remplacement des projets ou catégories de projets visés à l’alinéa c) et à l’égard des sociétés d’État auxquelles la présente loi s’applique ou de l’Agence canadienne de développement international, soustraire à l’évaluation environnementale prévue à la présente loi des projets ou catégories de projets devant être réalisés à l’extérieur du Canada et du territoire domanial :
+	- **(i)** dont, à son avis, l’évaluation ne serait pas indiquée pour des raisons de sécurité nationale,
+	- **(ii)** qui sont liés à un ouvrage et dont, à son avis, les effets environnementaux ne sont pas importants,
+	- **(iii)** qui remplissent les conditions de nature environnementale que prévoit le règlement et dont le coût total est en-deçà du seuil réglementaire;
+- **d)** [Abrogé, 2003, ch. 9, art. 29]
 - **e)** déterminer quels organismes, autres que le gouvernement d’une province, sont des autorités fédérales pour l’application de la présente loi;
-- **f)** déterminer les dispositions législatives ou réglementaires fédérales prévoyant les attributions des autorités fédérales relativement à un projet dont l’exercice rend nécessaire une évaluation environnementale en vertu de l’alinéa 5(1)d);
+- **f)** déterminer, pour l’application de l’alinéa 5(1)d), des dispositions de toute loi fédérale ou de textes pris sous son régime;
 - **g)** désigner les dispositions législatives ou réglementaires fédérales conférant des attributions au gouverneur en conseil pour l’exercice desquelles le paragraphe 5(2) exige une évaluation environnementale;
-- **h)** régir la communication par les autorités responsables de l’information relative aux projets et à l’évaluation environnementale de ceux-ci, et l’établissement et la tenue des registres publics, y compris les installations nécessaires pour permettre au public de consulter ces registres — que ceux-ci soient constitués de documents physiques ou informatiques — les heures et les modalités de consultation et de reproduction des registres, la fixation du prix à payer pour ces services ainsi que le transfert et la garde des documents une fois terminé le programme de suivi;
-- **i)** modifier ou exclure, dans les circonstances prévues par règlement, toute procédure ou exigence du processus d’évaluation environnementale établi en vertu de la présente loi et des règlements afin d’adapter le processus aux :
+- **h)** régir la communication par les autorités responsables de l’information relative aux projets et à l’évaluation environnementale de ceux-ci, et l’établissement et la tenue des dossiers de projet visés à l’article 55.4, y compris les installations nécessaires pour permettre au public de consulter ces dossiers — que ceux-ci soient constitués de documents physiques ou informatiques — , les heures et les modalités de consultation et de reproduction des dossiers, ainsi que le transfert et la garde des documents une fois terminé le programme de suivi;
+- **h.1)** désigner les documents et renseignements devant être versés dans le site Internet par l’Agence ou l’autorité responsable;
+- **h.2)** régir le prix à payer pour obtenir copie de tout document versé au registre;
+- **h.3)** pour l’application des paragraphes 38(1) ou (2) ou 53(1), prévoir les modalités applicables à l’élaboration de programmes de suivi;
+- **i)** modifier ou exclure, dans les circonstances prévues par règlement, toute procédure ou exigence du processus d’évaluation environnementale établi en vertu de la présente loi et des règlements afin d’adapter le processus aux :
 	- **(i)** projets à réaliser dans les réserves, terres cédées ou autres terres dévolues à Sa Majesté et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md),
-	- **(ii)** projets à réaliser à l’extérieur du Canada et à l’extérieur du territoire domanial,
+	- **(ii)** projets à réaliser à l’extérieur du Canada, soit à l’extérieur du territoire domanial, soit sur la partie du territoire domanial visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1),
 	- **(iii)** projets à entreprendre en vertu d’accords internationaux conclus par le gouvernement du Canada ou une autorité fédérale,
 	- **(iv)** projets à réaliser au Canada ou sur le territoire domanial pour lesquels une autorité fédérale exerce une attribution visée aux alinéas 5(1)b) ou c),
-	- **(v)** projets à l’égard desquels l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers constitué en application de la *Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers*, l’Office Canada — Terre-Neuve des hydrocarbures extracôtiers constitué en application de la *Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve* ou un autre organisme semblable exerce des attributions visées à l’article 5,
+	- **(v)** projets à l’égard desquels l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers constitué en application de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md), l’Office Canada — Terre-Neuve des hydrocarbures extracôtiers constitué en application de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve ou un autre organisme semblable exerce des attributions visées à l’article 5,
 	- **(vi)** projets qui soulèvent des questions de sécurité nationale;
-- **j)** régir les modalités d’évaluation des effets environnementaux et celles des programmes de suivi des projets à l’égard desquels les sociétés d’État, au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), ou les personnes morales dont elles ont le contrôle exercent une attribution visée aux alinéas 5(1)a), b) ou c), régir toute mesure qui doit être prise à l’égard de ces projets au cours du processus d’évaluation environnementale et, à ces fins, régir l’application des lois d’une province en vigueur au moment de l’évaluation;
-- **k)** régir les modalités d’évaluation des effets environnementaux et celles des programmes de suivi des projets à l’égard desquels les commissaires nommés en vertu de la Loi des commissaires du havre de Hamilton et de la *Loi de 1911 concernant les commissaires du havre de Toronto*, les commissions portuaires constituées par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi exercent une attribution visée aux alinéas 5(1)a), b) ou c), régir toute mesure qui doit être prise à l’égard de ces projets au cours du processus d’évaluation environnementale et, à ces fins, régir l’application des lois d’une province en vigueur au moment de l’évaluation;
-- **l)** régir les modalités d’évaluation des effets environnementaux et celles des programmes de suivi des projets pour lesquels une personne ou un organisme reçoit d’une autorité fédérale une aide financière permettant la réalisation du projet en tout ou en partie sur une réserve mise de côté à l’usage et au profit d’une bande et assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et régir toute mesure qui doit être prise à l’égard des projets au cours du processus d’évaluation environnementale;
+- **i.1)** à l’égard des projets à réaliser à l’extérieur du Canada et du territoire domanial et qui font l’objet d’une évaluation environnementale à laquelle doit veiller une société d’État à laquelle la présente loi s’applique, dans les circonstances ou aux conditions prévues par règlement, désigner :
+	- **(i)** les autorités fédérales qui, malgré le paragraphe 5(1), ne sont pas tenues d’effectuer une évaluation environnementale,
+	- **(ii)** les autorités fédérales à l’égard desquelles les exigences prévues par la présente loi à l’égard de ces projets — autres que les exigences prévues aux paragraphes 20(1) ou 37(1) — sont réputées satisfaites par la réalisation de l’évaluation environnementale à laquelle veille la société d’État;
+- **i.2)** pour l’application du sous-alinéa i.1)(ii), modifier les paragraphes 20(1) et 37(1) à l’égard des autorités fédérales qui y sont visées dans le cas de projets à réaliser à l’extérieur du Canada et du territoire domanial;
+- **j)** pour l’application de l’article 8, désigner des sociétés d’État qui ne sont pas des autorités fédérales, individuellement ou par catégories, régir les modalités d’évaluation environnementale et celles des programmes de suivi des projets, de même que toute mesure qui doit être prise à l’égard des projets au cours du processus d’évaluation — ces modalités et mesures pouvant varier selon les sociétés ou catégories de sociétés visées;
+- **j.1)** pour l’application de l’article 8, régir l’application du droit provincial en vigueur au moment de l’évaluation aux sociétés d’État ou aux catégories de sociétés d’État désignées par règlement pris au titre de l’alinéa j);
+- **j.2)** modifier ou exclure toute procédure ou exigence prévue par la présente loi ou ses règlements pour son application aux sociétés d’État mères qui sont des autorités fédérales, individuellement ou par catégories;
+- **j.3)** à l’égard des projets à réaliser à l’extérieur du Canada et du territoire domanial et à l’égard des sociétés d’État auxquelles la présente loi s’applique, désigner une activité concrète ou une catégorie d’activités concrètes, en remplacement de celles qui sont désignées en vertu de l’alinéa b);
+- **k)** pour l’application de l’article 9, régir les modalités des évaluations environnementales et celles des programmes de suivi des projets, régir toute mesure qui doit être prise à l’égard des projets au cours du processus d’évaluation et, à ces fins, régir l’application du droit provincial en vigueur au moment de l’évaluation;
+- **k.1)** déterminer les dispositions législatives ou réglementaires fédérales prévoyant les attributions des personnes ou organismes visés au paragraphe 9(1) dont l’exercice rend nécessaire une évaluation environnementale au titre de l’alinéa 9(2)d);
+- **k.2)** prévoir les cas où, pour l’application de l’alinéa 9(2)e), une évaluation environnementale doit être effectuée pour un projet devant être mis en œuvre, en tout ou en partie, sur un territoire domanial;
+- **k.3)** désigner, par catégories, les autorités, autres que des autorités fédérales, auxquelles s’applique l’article 9.1, régir les modalités des évaluations environnementales et celles des programmes de suivi des projets, de même que toute mesure qui doit être prise à l’égard des projets au cours du processus d’évaluation — ces modalités et mesures pouvant varier selon les catégories d’autorités visées — et, à ces fins, régir l’application du droit provincial en vigueur au moment de l’évaluation;
+- **k.4)** déterminer les dispositions législatives ou réglementaires fédérales prévoyant les attributions des autorités désignées en vertu de l’alinéa k.3) relativement à un projet dont l’exercice rend nécessaire une évaluation environnementale au titre de l’alinéa 9.1(2)d);
+- **k.5)** pour l’application de l’alinéa 9.1(2)e), prévoir le cas où une évaluation environnementale doit être effectuée pour un projet devant être mis en œuvre, en tout ou en partie, sur un territoire domanial et préciser les droits ou intérêts que l’autorité désignée en vertu de l’alinéa k.3) doit avoir sur le territoire domanial;
+- **l)** pour l’application de l’article 10, régir les modalités des évaluations environnementales et celles des programmes de suivi des projets réalisés en tout ou en partie sur une réserve mise de côté à l’usage et au profit d’une bande visée, individuellement ou par catégorie, par le règlement et assujettie à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), et régir toute mesure qui doit être prise à l’égard des projets au cours du processus d’évaluation, ces modalités et mesures pouvant varier selon les bandes ou catégories de bandes visées;
+- **l.001)** déterminer, pour l’application de l’alinéa 10(1)c), les dispositions de toute loi fédérale ou de ses textes d’application prévoyant les attributions d’un conseil de bande;
+- **l.01)** pour l’application de l’article 10.1 :
+	- **(i)** modifier la définition de ***projet***, au paragraphe 2(1),
+	- **(ii)** régir les modalités des évaluations environnementales et celles des programmes de suivi des projets à l’égard desquels l’Agence canadienne de développement international exerce une attribution au titre du paragraphe 10.1(2), de même que toute mesure devant être prise à l’égard de ces projets au cours du processus d’évaluation,
+	- **(iii)** prévoir qu’aucune obligation d’effectuer une évaluation environnementale n’incombe à l’Agence canadienne de développement international à l’égard de tout projet visé par un accord prévu au paragraphe 54(2) auquel elle est partie,
+	- **(iv)** modifier ou exclure tout ou partie de l’article 54 pour l’application de celui-ci à l’Agence canadienne de développement international,
+	- **(v)** rendre l’article 55.6 applicable à l’Agence canadienne de développement international comme si elle était une autorité responsable;
+- **l.02)** modifier ou exclure tout ou partie des articles 55 à 55.5 pour l’application de ceux-ci à l’Agence canadienne de développement international;
+- **l.03)** pour l’application du paragraphe 18(3), prévoir les cas où l’autorité responsable est tenue de donner au public la possibilité de participer à l’examen préalable;
 - **l.1)** prendre toute mesure relativement au fonds de participation mentionné au paragraphe 58(1.1);
 - **m)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 - **n)** prendre toute autre mesure d’application de la présente loi.
-> 1992, ch. 37, art. 59; 1993, ch. 34, art. 40(F); 1994, ch. 46, art. 5; 1998, ch. 10, art. 166.
+> 1992, ch. 37, art. 59; 1993, ch. 34, art. 40(F); 1994, ch. 46, art. 5; 1998, ch. 10, art. 166; 2003, ch. 9, art. 29.
 
 
 
@@ -1317,7 +1897,12 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 - **b)** de promouvoir l’uniformisation et l’harmonisation des processus d’évaluation des effets environnementaux à l’échelle du Canada et à tous les niveaux administratifs;
 - **c)** de promouvoir, seule ou en collaboration avec d’autres organismes, la recherche en matière d’évaluation environnementale, de mener des recherches en cette matière et de favoriser l’élaboration de techniques en cette matière, notamment en ce qui a trait aux programmes d’essais;
 - **d)** de promouvoir les évaluations environnementales conformément à l’objet de la présente loi;
-- **e)** de veiller à ce que le public ait la possibilité de participer au processus d’évaluation environnementale.
+- **e)** de promouvoir, de surveiller et de faciliter l’observation de la présente loi et de ses règlements;
+- **f)** de promouvoir et de contrôler la qualité des évaluations effectuées sous le régime de la présente loi;
+- **g)** de veiller à ce que le public ait la possibilité de participer au processus d’évaluation environnementale en temps opportun;
+- **h)** de tenir des consultations avec les peuples autochtones au sujet des questions de politique liées à la présente loi.
+> 1992, ch. 37, art. 62; 2003, ch. 9, art. 30.
+
 
 
 
@@ -1329,16 +1914,22 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 - **(1)** Dans l’exécution de sa mission, l’Agence :
 	- **a)** fournit un soutien administratif aux médiateurs et aux commissions d’évaluation environnementale;
 	- **b)** à la demande du ministre, fournit un soutien administratif aux organismes de recherche et de consultation en matière d’évaluation environnementale que le ministre peut créer;
-	- **c)** fournit toute information ou formation en vue de faciliter l’application du processus établi par la présente loi et les règlements.
+	- **c)** fournit toute information ou formation en vue de faciliter l’application du processus établi par la présente loi et les règlements;
+	- **d)** établit et dirige un programme d’assurance de la qualité pour les évaluations effectuées sous le régime de la présente loi.
 
 **Idem**
 
 - **(2)** Dans l’exécution de sa mission, l’Agence peut :
 	- **a)** mener des études, entreprendre des travaux ou mener des recherches en matière d’évaluation environnementale;
 	- **b)** conseiller toute personne ou tout organisme en matière d’évaluation des effets environnementaux;
+	- **b.1)** coordonner l’élaboration de la suite à donner au rapport au titre du paragraphe 37(1.1);
 	- **c)** négocier au nom du ministre les accords prévus aux alinéas 58(1)c) et d);
 	- **d)** examiner l’application du processus d’évaluation environnementale par les autorités responsables et en faire rapport au ministre;
-	- **e)** établir des lignes directrices relativement aux documents que celles-ci doivent conserver à l’égard du processus d’évaluation environnementale de projets.
+	- **e)** établir des lignes directrices relativement aux documents que celles-ci doivent conserver à l’égard du processus d’évaluation environnementale de projets;
+	- **f)** aider les parties à parvenir à un consensus et favoriser le règlement de leur différend;
+	- **g)** demander aux autorités fédérales, et aux personnes ou organismes visés à l’un ou l’autre des articles 8 à 10, qu’ils lui fournissent tout renseignement concernant une évaluation effectuée sous le régime de la présente loi.
+> 1992, ch. 37, art. 63; 2003, ch. 9, art. 31.
+
 
 
 
