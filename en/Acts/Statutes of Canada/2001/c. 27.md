@@ -1192,10 +1192,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The following provisions govern an application under subsection (1):
 	- **(a)** the application may not be made until any right of appeal that may be provided by this Act is exhausted;
-	- **(b)** subject to paragraph 169(f), notice of the application shall be served on the other party and the application shall be filed in the Registry of the Federal Court — Trial Division (“the Court”) within 15 days, in the case of a matter arising in Canada, or within 60 days, in the case of a matter arising outside Canada, after the day on which the applicant is notified of or otherwise becomes aware of the matter;
+	- **(b)** subject to paragraph 169(f), notice of the application shall be served on the other party and the application shall be filed in the Registry of the Federal Court (“the Court”) within 15 days, in the case of a matter arising in Canada, or within 60 days, in the case of a matter arising outside Canada, after the day on which the applicant is notified of or otherwise becomes aware of the matter;
 	- **(c)** a judge of the Court may, for special reasons, allow an extended time for filing and serving the application or notice;
 	- **(d)** a judge of the Court shall dispose of the application without delay and in a summary way and, unless a judge of the Court directs otherwise, without personal appearance; and
 	- **(e)** no appeal lies from the decision of the Court with respect to the application or with respect to an interlocutory judgment.
+> 2001, c. 27, s. 72; 2002, c. 8, s. 194.
+
 
 
 
@@ -1222,11 +1224,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **75** 
 
-- **(1)** Subject to the approval of the Governor in Council, the Chief Justice of the Federal Court may make rules governing the practice and procedure in relation to applications for leave to commence an application for judicial review, for judicial review and for appeals. The rules are binding despite any rule or practice that would otherwise apply.
+- **(1)** Subject to the approval of the Governor in Council, the rules committee established under section 45.1 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) may make rules governing the practice and procedure in relation to applications for leave to commence an application for judicial review, for judicial review and for appeals. The rules are binding despite any rule or practice that would otherwise apply.
 
 **Inconsistencies**
 
-- **(2)** In the event of an inconsistency between this Division and any provision of the Federal Court Act, this Division prevails to the extent of the inconsistency.
+- **(2)** In the event of an inconsistency between this Division and any provision of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), this Division prevails to the extent of the inconsistency.
+> 2001, c. 27, s. 75; 2002, c. 8, s. 194.
+
 
 
 
@@ -1246,7 +1250,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***information*** means security or criminal intelligence information and information that is obtained in confidence from a source in Canada, from the government of a foreign state, from an international organization of states or from an institution of either of them.
 
-***judge*** means the Associate Chief Justice of the Federal Court or a judge of the Trial Division of that Court designated by the Associate Chief Justice.
+
+***judge*** means the Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice.
+
+> 2001, c. 27, s. 76; 2002, c. 8, s. 194.
+
 
 
 
@@ -1255,11 +1263,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **77** 
 
-- **(1)** The Minister and the Solicitor General of Canada shall sign a certificate stating that a permanent resident or a foreign national is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality and refer it to the Federal Court — Trial Division, which shall make a determination under section 80.
+- **(1)** The Minister and the Solicitor General of Canada shall sign a certificate stating that a permanent resident or a foreign national is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality and refer it to the Federal Court, which shall make a determination under section 80.
 
 **Effect of referral**
 
 - **(2)** When the certificate is referred, a proceeding under this Act respecting the person named in the certificate, other than an application under subsection 112(1), may not be commenced and, if commenced, must be adjourned, until the judge makes the determination.
+> 2001, c. 27, s. 77; 2002, c. 8, s. 194.
+
 
 
 
@@ -1289,7 +1299,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Proceedings resumed**
 
-- **(2)** If a proceeding is suspended under subsection (1) and the application for protection is decided, the Minister shall give notice of the decision to the permanent resident or the foreign national and to the judge, the judge shall resume the proceeding and the judge shall review the lawfulness of the decision of the Minister, taking into account the grounds referred to in subsection 18.1(4) of the Federal Court Act.
+- **(2)** If a proceeding is suspended under subsection (1) and the application for protection is decided, the Minister shall give notice of the decision to the permanent resident or the foreign national and to the judge, the judge shall resume the proceeding and the judge shall review the lawfulness of the decision of the Minister, taking into account the grounds referred to in subsection 18.1(4) of the 
+[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> 2001, c. 27, s. 79; 2002, c. 8, s. 194.
+
 
 
 
@@ -3046,7 +3059,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Refugee Protection Division**
 
-**198** The Refugee Protection Division has jurisdiction to consider decisions of the Convention Refugee Determination Division that are set aside by the Federal Court or the Supreme Court of Canada, and shall dispose of those matters in accordance with the provisions of this Act.
+**198** The Refugee Protection Division has jurisdiction to consider decisions of the Convention Refugee Determination Division that are set aside by the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada, and shall dispose of those matters in accordance with the provisions of this Act.
+> 2001, c. 27, s. 198; 2002, c. 8, s. 194.
+
 
 
 
