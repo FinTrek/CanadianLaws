@@ -162,11 +162,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** 
 
-- **(1)** A member is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(1)** A member is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
 **Presumption**
 
-- **(2)** A member is deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(2)** A member is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 1995, c. 18, s. 11; 2003, c. 22, s. 224(E), 225(E).
+
 
 
 
