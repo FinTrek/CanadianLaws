@@ -192,7 +192,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **8** 
 
-- **(1)** The Minister may apply to a superior court of a province or the Federal Court — Trial Division for an order against a foreign publisher who fails to comply with a demand.
+- **(1)** The Minister may apply to a superior court of a province or the Federal Court for an order against a foreign publisher who fails to comply with a demand.
 
 **Orders**
 
@@ -217,6 +217,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rights of appeal**
 
 - **(6)** For greater certainty, all rights of appeal provided by law apply in the case of any decision or order made by a superior court under this section, as in the case of other decisions or orders made by that court.
+> 1999, c. 23, s. 8; 2002, c. 8, s. 183.
+
 
 
 
