@@ -536,11 +536,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **42** 
 
-- **(1)** Le président peut recommander au ministre la tenue d’une enquête afin de déterminer si des sanctions ou des mesures correctives s’imposent à l’égard d’un membre du Tribunal pour tout motif énoncé aux alinéas 43(2)a) à d).
+- **(1)** Le président peut recommander au ministre la tenue d’une enquête afin de déterminer si des sanctions ou des mesures correctives s’imposent à l’égard d’un membre du Tribunal pour tout motif énoncé aux alinéas 43(2) a) à d).
 
 **Nomination de l’enquêteur**
 
-- **(2)** Si le ministre estime qu’une enquête s’impose, celle-ci est menée par un juge, juge surnuméraire ou ancien juge de la Cour fédérale.
+- **(2)** Si le ministre estime qu’une enquête s’impose, celle-ci est menée par un juge, juge surnuméraire ou ancien juge de la Cour fédérale du Canada, de la Cour d’appel fédérale ou de la Cour fédérale.
 
 **Pouvoirs d’enquête**
 
@@ -567,6 +567,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis de l’audition**
 
 - **(8)** Le membre en cause doit être informé, suffisamment à l’avance, de l’objet de l’enquête, ainsi que des date, heure et lieu de l’audition, et avoir la possibilité de se faire entendre, de contre-interroger les témoins et de présenter tous éléments de preuve utiles à sa décharge, personnellement ou par procureur.
+> 1995, ch. 18, art. 42; 2002, ch. 8, art. 179.
+
 
 
 
