@@ -208,7 +208,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Authorization**
 
-- **(5)** The Minister of Transport or the Minister of Fisheries and Oceans may authorize any person employed in the public service of Canada or any police officer, police constable, constable or other person employed for the preservation and maintenance of the public peace, or any class of any of those persons, that that Minister considers proper to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by that Minister under this Act.
+- **(5)** The Minister of Transport or the Minister of Fisheries and Oceans may authorize any person employed in the federal public administration or any police officer, police constable, constable or other person employed for the preservation and maintenance of the public peace, or any class of any of those persons, that that Minister considers proper to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by that Minister under this Act.
+> 2001, c. 26, s. 10; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -658,7 +660,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Fee and expenses**
 
 - **(4)** Each panellist may be paid
-	- **(a)** an amount fixed by the Minister of Transport for each day or part of a day that the panellist is performing duties under section 28, unless they are employed in the public service of Canada; and
+	- **(a)** an amount fixed by the Minister of Transport for each day or part of a day that the panellist is performing duties under section 28, unless they are employed in the federal public administration; and
 	- **(b)** reasonable travel and living expenses incurred by the panellist in the course of their duties under section 28.
 
 **Casting vote**
@@ -668,6 +670,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Panel decisions**
 
 - **(6)** For greater certainty, a decision of a panel is a decision of the Marine Technical Review Board.
+> 2001, c. 26, s. 27; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -2358,7 +2362,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Marine communications and traffic services officers**
 
-- **(2)** The Minister may designate as marine communications and traffic services officers persons in the public service of Canada who meet the requirements specified by the Minister.
+- **(2)** The Minister may designate as marine communications and traffic services officers persons in the federal public administration who meet the requirements specified by the Minister.
 
 **Powers of officers**
 
@@ -2389,6 +2393,8 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 - **(6)** In the circumstances described in subsection (4), if the master is unable to establish or maintain direct communication because of an equipment failure on the vessel, the vessel shall
 	- **(a)** if it is in a port or anchorage where the equipment can be repaired, remain there until it is able to establish communication in accordance with the regulations; and
 	- **(b)** if it is not in a port or anchorage where the equipment can be repaired, proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until it is able to establish communication in accordance with the regulations.
+> 2001, c. 26, s. 126; 2003, c. 22, s. 224(E).
+
 
 
 
