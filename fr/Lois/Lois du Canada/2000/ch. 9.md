@@ -39,45 +39,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent enregistré*** Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré.
+***agent de campagne à la direction*** Personne nommée au titre du paragraphe 435.08(1), y compris l’agent financier d’un candidat à la direction. 
 
-***agent officiel*** L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1).
+***agent de circonscription*** Personne nommée au titre du paragraphe 403.09(1), y compris l’agent financier d’une association enregistrée. 
 
-***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2)h).
+***agent enregistré*** Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré. 
 
-***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 :
+***agent officiel*** L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1). 
+
+***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2) h). 
+
+***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
 - **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
 - **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation — , 213(4), 242(1) ou 258(3).
 
-***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v).
+***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1) a)(v). 
 
-***arbitre*** Personne nommée en vertu du paragraphe 332(1).
+***arbitre*** Personne nommée en vertu du paragraphe 332(1). 
 
-***bref*** Bref d’élection.
+***association de circonscription*** Regroupement des membres d’un parti politique dans une circonscription. 
 
-***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255.
+***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription prévu à l’article 403.08. 
 
-***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3).
+***bref*** Bref d’élection. 
 
-***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475.
+***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255. 
 
-***circonscription*** Division territoriale représentée par un député à la Chambre des communes.
+***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3). 
 
-***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2).
+***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475. 
 
-***commissaire*** Le commissaire aux élections fédérales nommé au titre de l’article 509.
+***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction prévu à l’article 435.07, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 435.3 à 435.47. 
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***candidat à l’investiture*** Personne dont le nom figure dans le rapport déposé au titre de l’alinéa 478.02(1) c) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 478.23 à 478.42. 
 
-***contribution*** Toute contribution monétaire et toute contribution non monétaire.
+***circonscription*** Division territoriale représentée par un député à la Chambre des communes. 
 
-***contribution monétaire*** Toute somme d’argent offerte et non remboursable.
+***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2). 
 
-***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale.
+***commissaire*** Le commissaire aux élections fédérales nommé au titre de l’article 509. 
 
-***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. 
 
-***député*** Membre de la Chambre des communes.
+***contribution*** Toute contribution monétaire et toute contribution non monétaire. 
+
+***contribution monétaire*** Toute somme d’argent offerte et non remboursable. 
+
+***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale. 
+
+***course à la direction*** Compétition en vue de la désignation du chef d’un parti enregistré. 
+
+***course à l’investiture*** Compétition visant à choisir la personne qui sera proposée à un parti enregistré en vue de l’obtention de son soutien comme candidat dans une circonscription. 
+
+***dépense de campagne à la direction*** Dépense raisonnable entraînée par une course à la direction et engagée par un candidat à la direction ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 435.03. 
+
+***dépense de campagne d’investiture*** Dépense raisonnable entraînée par une course à l’investiture et engagée par un candidat à l’investiture ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 478.01.
+
+***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14. 
+
+***député*** Membre de la Chambre des communes. 
 
 ***documents électoraux***
 - **a)** Le bref et le rapport figurant à l’endos;
@@ -93,17 +113,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(v)** un paquet contenant la liste électorale utilisée au bureau de scrutin, les autorisations écrites des représentants des candidats et, le cas échéant, les certificats de transfert utilisés,
 	- **(vi)** un paquet contenant les certificats d’inscription.
 
-***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3.
+***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3. 
 
-***élection*** L’élection d’un député à la Chambre des communes.
+***élection*** L’élection d’un député à la Chambre des communes. 
 
-***élection partielle*** Élection autre qu’une élection générale.
+***élection partielle*** Élection autre qu’une élection générale. 
 
-***fonctionnaire électoral*** Personne visée au paragraphe 22(1).
+***fonctionnaire électoral*** Personne visée au paragraphe 22(1). 
 
-***jour de clôture*** Le jour prévu à l’article 69.
+***jour de clôture*** Le jour prévu à l’article 69. 
 
-***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1)c).
+***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1) c). 
 
 ***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés : 
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
@@ -119,45 +139,45 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** s’il y a plus d’un juge exerçant une telle juridiction, le doyen,
 	- **(iii)** si aucun juge n’exerce cette juridiction, tout juge désigné à cette fin par le ministre de la Justice.
 
-***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur.
+***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur. 
 
-***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106.
+***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106. 
 
-***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1).
+***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1). 
 
-***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105.
+***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105. 
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi. 
 
-***parti admissible*** Parti admissible à l’enregistrement conformément à l’article 368.
+***parti admissible*** Parti admissible à l’enregistrement conformément à l’article 368. 
 
-***parti enregistré*** Parti politique inscrit à titre de parti enregistré au registre des partis prévu à l’article 374.
+***parti enregistré*** Parti politique inscrit à titre de parti enregistré au registre des partis prévu à l’article 374. 
 
-***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou, conformément à l’article 551, est réputé l’être.
+***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou, conformément à l’article 551, est réputé l’être. 
 
-***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment.
+***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment. 
 
-***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces.
+***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces. 
 
-***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation.
+***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation. 
 
-***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi.
+***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi. 
 
-***Registre des électeurs*** Registre tenu au titre de l’article 44.
+***Registre des électeurs*** Registre tenu au titre de l’article 44. 
 
-***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). 
 
-***section de vote*** Zone territoriale visée à l’article 538.
+***section de vote*** Zone territoriale visée à l’article 538. 
 
-***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle.
+***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle. 
 
-***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération.
+***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération. 
 
-***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par :
+***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par : 
 - **a)** leur fournisseur, dans le cas où il exploite une entreprise qui les fournit;
 - **b)** une autre personne qui les fournit sur une échelle commerciale dans la région où ils ont été fournis, dans le cas où leur fournisseur n’exploite pas une telle entreprise.
 
-***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10.
+***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10. 
 
 **Absence de valeur commerciale**
 
@@ -172,7 +192,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Heure**
 
 - **(4)** Pour l’application de la présente loi, toute mention d’une heure vaut mention de l’heure locale.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90.
+
+**Renvois descriptifs**
+
+- **(5)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1.
 
 
 
@@ -567,7 +591,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Absence de partialité politique**
 
-- **(6)** Il est interdit au directeur du scrutin, pendant son mandat, de faire sciemment preuve de partialité politique, notamment d’appartenir ou de faire une contribution à un parti enregistré ou admissible, d’y exercer une fonction ou d’occuper un emploi à son service ou de faire une contribution à un candidat.
+- **(6)** Il est interdit au directeur du scrutin, pendant son mandat, de faire sciemment preuve de partialité politique, notamment d’appartenir ou de faire une contribution à un parti enregistré ou admissible ou à une association enregistrée, d’y exercer une fonction ou d’occuper un emploi à son service ou de faire une contribution à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
 
 **Révocation**
 
@@ -576,6 +600,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il ne s’est pas acquitté de façon compétente des fonctions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
 	- **c)** il n’a pas terminé la révision des limites des sections de vote situées dans sa circonscription conformément à l’instruction donnée en ce sens par le directeur général des élections en application du paragraphe 538(3);
 	- **d)** il a contrevenu au paragraphe (6), que ce soit ou non dans l’exercice de ses fonctions.
+> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2.
+
 
 
 
@@ -1553,30 +1579,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **84** Ne sont pas admissibles à la charge d’agent officiel d’un candidat :
 - **a)** un candidat;
-- **b)** les fonctionnaires électoraux;
+- **b)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+- **b.1)** les faillis non libérés;
 - **c)** un vérificateur nommé conformément à la présente loi;
 - **d)** les personnes qui ne sont pas des électeurs;
 - **e)** les personnes qui n’ont pas pleine capacité de contracter dans leur province de résidence habituelle.
+> 2000, ch. 9, art. 84; 2003, ch. 19, art. 3.
 
 
 
 
-**Admissibilité : vérificateur**
+
+**Admissibilité : vérificateur**
 
 **85** 
 
-- **(1)** Seuls peuvent exercer la charge de vérificateur d’un candidat :
+- **(1)** Seuls peuvent exercer la charge de vérificateur d’un candidat :
 	- **a)** les membres en règle d’un ordre professionnel, d’une association ou d’un institut de comptables professionnels;
 	- **b)** les sociétés formées de tels membres.
 
 **Inadmissibilité**
 
-- **(2)** Ne sont pas admissibles à la charge de vérificateur d’un candidat :
-	- **a)** les fonctionnaires électoraux;
+- **(2)** Ne sont pas admissibles à la charge de vérificateur d’un candidat :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
 	- **b)** le candidat ou un autre candidat;
 	- **c)** l’agent officiel du candidat ou d’un autre candidat;
 	- **d)** l’agent principal d’un parti enregistré ou d’un parti admissible;
-	- **e)** un agent enregistré d’un parti enregistré.
+	- **e)** un agent enregistré d’un parti enregistré;
+	- **f)** les agents de circonscription d’une association enregistrée;
+	- **g)** les candidats à la direction et les agents de campagne à la direction;
+	- **h)** les candidats à l’investiture et leur agent financier;
+	- **i)** l’agent financier d’un tiers enregistré.
+> 2000, ch. 9, art. 85; 2003, ch. 19, art. 4.
+
 
 
 
@@ -5590,11 +5625,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**Nouvelle répartition en cas de suspension**
+**Nouvelle répartition en cas de radiation**
 
 **340** 
 
-- **(1)** Lorsque, après la répartition de temps d’émission sous le régime de l’article 335, un parti enregistré est suspendu et qu’avis de la suspension a été publié dans la Gazette du Canada, l’arbitre convoque, dans les deux semaines suivant la suspension, les représentants des partis toujours enregistrés et des partis admissibles à qui du temps d’émission a été attribué afin de répartir le temps d’émission attribué au parti suspendu.
+- **(1)** Lorsque, après la répartition de temps d’émission sous le régime de la présente partie, un parti enregistré est radié et qu’avis de la radiation a été publié dans la Gazette du Canada, l’arbitre convoque, dans les deux semaines suivant la publication, les représentants des partis toujours enregistrés et des partis admissibles à qui du temps d’émission a été attribué afin de répartir le temps d’émission attribué au parti politique radié.
 
 **Nouvelle répartition si un parti cesse d’être admissible**
 
@@ -5602,7 +5637,9 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Exception**
 
-- **(3)** Si la suspension ou la cessation d’admissibilité visée aux paragraphes (1) ou (2) survient après la délivrance des brefs d’une élection générale, il n’y a pas de nouvelle répartition du temps d’émission attribué au parti suspendu ou devenu inadmissible.
+- **(3)** Si la radiation ou la cessation d’admissibilité visées respectivement aux paragraphes (1) et (2) survient après la délivrance des brefs d’une élection générale, il n’y a pas de nouvelle répartition du temps d’émission attribué au parti politique radié ou devenu inadmissible.
+> 2000, ch. 9, art. 340; 2003, ch. 19, art. 5.
+
 
 
 
@@ -6048,10 +6085,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 ### Dispositions générales
 
 
-
-**Définition de « association de circonscription »**
-
-**363** Dans la présente partie, on entend par ***association de circonscription*** d’un parti politique un regroupement des membres du parti dans la circonscription.
+**363** [Abrogé, 2003, ch. 19, art. 6]
 
 
 
@@ -6120,6 +6154,17 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
+**Protection du nom**
+
+**368.1** Dans les trente jours suivant la radiation d’un parti politique :
+- **a)** la demande d’enregistrement d’un autre parti politique ne peut être agréée, et aucun rapport au titre de l’article 382 ne peut prendre effet, de façon à permettre à un autre parti politique d’utiliser un nom, une abréviation ou une forme abrégée de celui-ci ou un logo qui, de l’avis du directeur général des élections, risque d’être confondu avec celui du parti radié;
+- **b)** s’il est présenté une nouvelle demande d’enregistrement du parti politique radié qui comporte le nom, l’abréviation ou la forme abrégée de celui-ci ou le logo que le parti avait au moment de la radiation, le directeur général des élections ne peut refuser d’agréer la demande pour le motif qu’elle n’est pas conforme à l’alinéa 368a).
+> 2003, ch. 19, art. 7.
+
+
+
+
+
 **Notification de l’admissibilité**
 
 **369** 
@@ -6168,9 +6213,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **État de l’actif et du passif**
 
 **372** Dans les six mois suivant son enregistrement, le parti enregistré produit auprès du directeur général des élections :
-- **a)** un état de son actif et de son passif — dressé selon les principes comptables généralement reconnus — et de son excédent ou de son déficit à la date de l’enregistrement;
+- **a)** un état de son actif et de son passif — dressé selon les principes comptables généralement reconnus — et de son excédent ou de son déficit à la veille de la date de l’enregistrement;
 - **b)** le rapport de son vérificateur, adressé à son agent principal, indiquant si l’état présente fidèlement et selon les principes comptables généralement reconnus les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
 - **c)** la déclaration de son agent principal concernant l’état, effectuée sur le formulaire prescrit.
+> 2000, ch. 9, art. 372; 2003, ch. 19, art. 8.
+
 
 
 
@@ -6199,32 +6246,36 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(1)** Les partis enregistrés peuvent nommer des agents enregistrés; la nomination précise les attributions qui leur sont conférées.
 
-**Agents de circonscription**
-
-- **(2)** Sur recommandation de son association de circonscription, le parti enregistré peut nommer un agent enregistré — appelé agent de circonscription — chargé d’exercer les attributions d’un agent enregistré du parti dans la circonscription.
+- **(2)** [Abrogé, 2003, ch. 19, art. 9]
 
 **Rapport de nomination**
 
 - **(3)** Dans les trente jours suivant la nomination d’un agent enregistré, le parti enregistré produit auprès du directeur général des élections un rapport écrit, attesté par son chef ou par son agent principal, énonçant les nom et adresse et attributions de l’agent. Le directeur général des élections inscrit ces renseignements au registre des partis.
+> 2000, ch. 9, art. 375; 2003, ch. 19, art. 9.
 
 
 
 
-**Agents : personnes morales**
+
+**Agents : personnes morales**
 
 **376** 
 
-- **(1)** Une personne morale constituée en vertu d’une loi fédérale ou provinciale est admissible à la charge :
+- **(1)** Une personne morale constituée en vertu d’une loi fédérale ou provinciale est admissible à la charge :
 	- **a)** d’agent principal ou d’agent enregistré d’un parti enregistré;
 	- **b)** d’agent principal ou de mandataire d’un parti admissible.
 
-**Inadmissibilité : agents**
+**Inadmissibilité : agents**
 
-- **(2)** Ne sont pas admissibles à la charge d’agent principal, d’agent enregistré ou de mandataire :
-	- **a)** les fonctionnaires électoraux;
+- **(2)** Ne sont pas admissibles à la charge d’agent principal, d’agent enregistré ou de mandataire :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **a.1)** les candidats;
+	- **a.2)** les faillis non libérés;
 	- **b)** un vérificateur nommé conformément à la présente loi;
 	- **c)** sous réserve du paragraphe (1), les personnes qui ne sont pas des électeurs;
 	- **d)** les personnes qui n’ont pas pleine capacité de contracter dans leur province de résidence habituelle.
+> 2000, ch. 9, art. 376; 2003, ch. 19, art. 10.
+
 
 
 
@@ -6240,11 +6291,17 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Inadmissibilité**
 
 - **(2)** Ne sont pas admissibles à la charge de vérificateur :
-	- **a)** les fonctionnaires électoraux;
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
 	- **b)** les candidats;
 	- **c)** l’agent officiel d’un candidat;
 	- **d)** l’agent principal d’un parti enregistré ou d’un parti admissible;
-	- **e)** un agent enregistré d’un parti enregistré.
+	- **e)** un agent enregistré d’un parti enregistré;
+	- **f)** les agents de circonscription d’une association enregistrée;
+	- **g)** les candidats à la direction et leurs agents de campagne à la direction;
+	- **h)** les candidats à l’investiture et leur agent financier;
+	- **i)** l’agent financier d’un tiers enregistré.
+> 2000, ch. 9, art. 377; 2003, ch. 19, art. 11.
+
 
 
 
@@ -6315,6 +6372,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(5)** Le directeur général des élections inscrit les modifications visées au présent article au registre des partis.
 
+**Inscription dans le registre des associations de circonscription**
+
+- **(6)** Le directeur général des élections inscrit les modifications visées au paragraphe (2) dans le registre des associations de circonscription.
+> 2000, ch. 9, art. 382; 2003, ch. 19, art. 12.
+
+
 
 
 
@@ -6342,43 +6405,59 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-#### Suspension et radiation des partis enregistrés
+#### Radiation des partis enregistrés
 
 
 
-**Suspension : moins de cinquante candidats**
+**Radiation : moins de cinquante candidats**
 
-**385** Le directeur général des élections est tenu de suspendre l’enregistrement du parti enregistré qui, après la confirmation des candidatures prévue au paragraphe 71(1) pour une élection générale, ne soutient pas un candidat dans au moins cinquante circonscriptions.
+**385** 
+
+- **(1)** Le directeur général des élections est tenu de radier le parti enregistré qui, à la fin de la période prévue au paragraphe 71(1) pour la confirmation ou le rejet des candidatures à une élection générale, ne soutient pas de candidat dans au moins cinquante circonscriptions. La radiation prend effet à la fin de cette période.
+
+**Notification de la radiation**
+
+- **(2)** La radiation du parti au titre du paragraphe (1) et celle, au titre de l’article 389.2, de ses associations enregistrées est notifiée au chef, à l’agent principal et aux dirigeants du parti figurant dans le registre des partis ainsi qu’au premier dirigeant et à l’agent financier des associations enregistrées du parti figurant dans le registre des associations de circonscription.
+> 2000, ch. 9, art. 385; 2003, ch. 19, art. 13.
 
 
 
 
-**Suspension : manquements**
 
-**386** Le directeur général des élections peut suspendre un parti enregistré pour manquement à l’une ou l’autre des obligations suivantes :
+**Radiation : manquements**
+
+**386** Le directeur général des élections peut radier un parti enregistré pour manquement à l’une ou l’autre des obligations suivantes :
 - **a)** la confirmation, au titre du paragraphe 383(1) ou de l’article 384, de l’exactitude des renseignements;
 - **b)** la production d’un document, au titre du paragraphe 382(2), sur les changements apportés au nom intégral ou abrégé, à l’abréviation du nom ou au logo du parti visés aux alinéas 366(2)a) à c);
 - **c)** la production d’un document, au titre des paragraphes 382(1) et (3), sur le remplacement du chef;
 - **d)** la production d’un document, au titre des paragraphes 379(2), 382(1) ou 382(4), sur le remplacement de l’agent principal ou du vérificateur;
 - **e)** la production d’un rapport, au titre du paragraphe 375(3), sur la nomination d’un agent enregistré;
 - **f)** la production d’un rapport, au titre du paragraphe 382(1), sur la modification d’autres renseignements concernant le parti;
-- **g)** la production d’un des documents visés à l’article 372.
+- **g)** la production d’un des documents visés à l’article 372;
+- **h)** le dépôt d’une déclaration au titre des paragraphes 435.04(1) ou (2);
+- **i)** le dépôt d’un rapport au titre du paragraphe 478.02(1), dans le cas où l’obligation incombe au parti enregistré.
+> 2000, ch. 9, art. 386; 2003, ch. 19, art. 14.
 
 
 
 
-**Suspension pour omission d’un rapport financier ou d’un compte**
 
-**387** Le directeur général des élections peut suspendre le parti enregistré dont l’agent principal a omis de produire auprès de lui :
+**Radiation pour omission d’un rapport financier ou d’un compte**
+
+**387** Le directeur général des élections peut radier le parti enregistré dont l’agent principal a omis de produire auprès de lui :
 - **a)** soit un document pour un exercice en conformité avec le paragraphe 424(1);
 - **b)** soit un document pour une élection générale en conformité avec le paragraphe 429(1).
+> 2000, ch. 9, art. 387; 2003, ch. 19, art. 15.
 
 
 
 
-**Suspension : radiation volontaire**
 
-**388** Sauf pendant la période électorale d’une élection générale, sur demande de radiation du registre des partis signée par le chef et deux dirigeants d’un parti enregistré, le directeur général des élections peut suspendre tel parti.
+**Radiation volontaire**
+
+**388** Sauf pendant la période électorale d’une élection générale, sur demande de radiation signée par le chef et deux dirigeants d’un parti enregistré, le directeur général des élections peut radier le parti.
+> 2000, ch. 9, art. 388; 2003, ch. 19, art. 16.
+
 
 
 
@@ -6399,159 +6478,104 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **a)** sont soustraits à tout ou partie de leurs obligations visées aux articles 386 ou 387;
 	- **b)** disposent du délai qu’il fixe pour assumer leurs obligations visées aux sous-alinéas (1)a)(i) ou (ii).
 
-**Suspension**
+**Radiation**
 
-- **(3)** Le directeur général des élections peut suspendre le parti enregistré dont le chef, l’agent principal ou le dirigeant, selon le cas, ne se conforme pas à la notification prévue aux paragraphes (1) ou (2).
+- **(3)** Le directeur général des élections peut radier le parti enregistré dont le chef, l’agent principal ou l’un des dirigeants, selon le cas, ne se conforme pas à la notification prévue aux paragraphes (1) ou (2).
+> 2000, ch. 9, art. 389; 2003, ch. 19, art. 17.
 
 
 
 
-**Publication d’un avis de suspension**
+
+**Notification de la radiation**
+
+**389.1** 
+
+- **(1)** Dans le cas où le directeur général des élections se propose de radier un parti enregistré au titre de l’article 388 ou du paragraphe 389(3), il en avise le parti et ses associations enregistrées.
+
+**Date de la radiation**
+
+- **(2)** L’avis prévu au paragraphe (1) précise la date de prise d’effet de la radiation, qui ne peut suivre de moins de quinze jours la date d’envoi de l’avis.
+
+**Preuve d’envoi de l’avis**
+
+- **(3)** L’avis prévu au paragraphe (1) est envoyé par courrier recommandé ou par un service de messagerie qui fournit une preuve d’expédition, un suivi pendant l’expédition et une attestation de livraison.
+> 2003, ch. 19, art. 18.
+
+
+
+
+
+**Effet de la radiation d’un parti enregistré**
+
+**389.2** La radiation d’un parti enregistré entraîne la radiation de ses associations enregistrées.
+> 2003, ch. 19, art. 18.
+
+
+
+
+
+**Publication d’un avis de radiation**
 
 **390** 
 
-- **(1)** Le directeur général des élections, dans le cas où il suspend un parti enregistré, fait publier un avis de la suspension dans la Gazette du Canada.
-
-**Exemplaires**
-
-- **(2)** Il envoie un exemplaire de l’avis au chef, à l’agent principal et aux dirigeants du parti inscrits au registre des partis.
+- **(1)** Le directeur général des élections fait publier dans la Gazette du Canada sans délai un avis de la radiation d’un parti enregistré et de ses associations enregistrées.
 
 **Modification du registre des partis**
 
-- **(3)** Il porte au registre des partis une indication de la suspension d’un parti enregistré.
+- **(2)** Il consigne la radiation du parti dans le registre des partis.
+> 2000, ch. 9, art. 390; 2003, ch. 19, art. 19.
 
 
 
 
-**Statut du parti suspendu**
 
-**391** À compter de la publication de l’avis de suspension, le parti suspendu est réputé ne plus être un parti enregistré.
+**Effet de la radiation**
+
+**391** Le parti enregistré qui a été radié demeure assujetti aux obligations d’un parti enregistré pour l’application de l’article 392.
+> 2000, ch. 9, art. 391; 2003, ch. 19, art. 19.
+
 
 
 
 
 **Rapports financiers et comptes**
 
-**392** Dans les six mois suivant la publication de l’avis de suspension, l’agent principal du parti suspendu produit auprès du directeur général des élections :
+**392** Dans les six mois suivant la radiation, l’agent principal du parti politique radié produit auprès du directeur général des élections :
 - **a)** les documents visés au paragraphe 424(1) :
-	- **(i)** pour la partie de son exercice en cours antérieure à la date de la publication de l’avis de suspension,
+	- **(i)** pour la partie de son exercice en cours antérieure à la date de la radiation,
 	- **(ii)** pour tout exercice antérieur pour lequel le parti n’a pas produit ces documents;
 - **b)** les documents visés au paragraphe 429(1) pour toute élection générale pour laquelle le parti n’a pas produit ces documents.
+> 2000, ch. 9, art. 392; 2003, ch. 19, art. 20.
 
 
 
 
-**État de la valeur marchande de l’actif et du passif**
-
-**393** L’agent principal est tenu de joindre au rapport financier exigé en application du sous-alinéa 392a)(i) :
-- **a)** un état de la juste valeur marchande de l’actif et du passif du parti — dressé selon les principes comptables généralement reconnus — à la date de la publication de l’avis de suspension;
-- **b)** le rapport que lui adresse le vérificateur du parti indiquant si, à son avis, l’état reflète, selon les principes comptables généralement reconnus, la juste valeur marchande de l’actif et du passif;
-- **c)** sa déclaration concernant l’état, effectuée sur le formulaire prescrit.
+**393** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Demande d’enregistrement**
-
-**394** 
-
-- **(1)** L’article 397 ne s’applique pas au parti suspendu visé à l’article 385 si, à la fois :
-	- **a)** l’état produit au titre de l’alinéa 393a) comporte un excédent de l’actif sur le passif;
-	- **b)** dans les six mois suivant la publication de l’avis de suspension, le chef du parti présente la demande d’enregistrement prévue à l’article 366.
-
-**Déclaration**
-
-- **(2)** La demande visée à l’alinéa (1)b) est assortie d’une déclaration signée par le chef du parti suspendu faisant état de l’intention du parti de soutenir des candidats pour les élections générales subséquentes.
+**394** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Exercice**
-
-**395** L’exercice des partis suspendus visés au paragraphe 394(1) coïncide avec l’année civile.
+**395** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Production de l’état des dépenses**
-
-**396** 
-
-- **(1)** L’agent principal du parti suspendu visé au paragraphe 394(1) est tenu de produire auprès du directeur général des élections :
-	- **a)** un état des dépenses du parti pour la partie de son exercice postérieure à celle visée au sous-alinéa 392a)(i) et pour ses exercices ultérieurs;
-	- **b)** le rapport que lui adresse le vérificateur du parti indiquant si les états présentent fidèlement ou non les renseignements contenus dans les écritures comptables sur lesquelles ils sont fondés;
-	- **c)** sa déclaration concernant l’état, effectuée sur le formulaire prescrit.
-
-**Délai de production**
-
-- **(2)** L’état visé au paragraphe (1) et les documents y afférents doivent être produits dans les six mois suivant la fin de l’exercice.
-
-**Terme de l’obligation**
-
-- **(3)** L’obligation de produire l’état visé au paragraphe (1) est éteinte après la fin de l’exercice au cours duquel la somme des dépenses supportées par le parti depuis la production des documents visés au sous-alinéa 392a)(i) dépasse l’excédent de l’actif sur le passif qui y est exposé.
+**396** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Remise au receveur général**
-
-**397** 
-
-- **(1)** Dans les trois mois suivant la production des documents visés au sous-alinéa 392a)(i) et à l’article 393, l’agent principal du parti suspendu verse au directeur général des élections, qui la fait parvenir au receveur général, une somme d’argent égale à l’excédent de l’actif sur le passif du parti, calculé sur la base de l’état visé à l’alinéa 393a).
-
-**Responsabilité de l’agent principal**
-
-- **(2)** L’agent principal du parti suspendu est responsable du versement de la somme d’argent visée au paragraphe (1).
+**397** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Radiation : parti suspendu**
-
-**398** 
-
-- **(1)** Le directeur général des élections radie du registre des partis un parti suspendu, sauf un parti suspendu qui remplit les conditions visées au paragraphe 394(1), à la date à laquelle il reçoit :
-	- **a)** les documents visés à l’article 392, dans le cas où le rapport financier visé au sous-alinéa 392a)(i) ne comporte pas d’excédent de l’actif sur le passif;
-	- **b)** la somme versée au titre du paragraphe 397(1), dans le cas contraire.
-
-**Radiation : parti suspendu (394(1)**
-
-- **(2)** Le directeur général des élections radie du registre des partis un parti suspendu qui a rempli les conditions visées au paragraphe 394(1) dans l’un ou l’autre des cas suivants :
-	- **a)** après l’expiration du délai de six mois prévu pour la production des documents visés au paragraphe 396(1), si ceux-ci n’ont pas été produits;
-	- **b)** à la date à laquelle est éteinte l’obligation du parti suspendu de produire un état des dépenses en application du paragraphe 396(3);
-	- **c)** à la date à laquelle le parti suspendu retire, en application de l’article 367, sa demande d’enregistrement;
-	- **d)** quarante-huit heures après la clôture des candidatures d’une élection générale ultérieure pour laquelle le parti suspendu ne soutient pas de candidats.
+**398** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
-
-**Versement de l’excédent : défaut de production d’un état**
-
-**399** 
-
-- **(1)** Le parti suspendu visé à l’alinéa 398(2)a) est tenu de verser au directeur général des élections, qui la verse au receveur général, une somme d’argent égale à l’excédent de l’actif sur le passif, calculé sur le fondement :
-	- **a)** du dernier état des dépenses qu’il a produit au titre de l’alinéa 396(1)a);
-	- **b)** dans le cas où il n’a jamais produit un tel état, de l’état qu’il a produit au titre de l’alinéa 393a).
-
-**Versement de l’excédent : parti non admissible**
-
-- **(2)** Le parti suspendu visé aux alinéas 398(2)c) ou d) est tenu :
-	- **a)** de produire l’état et les documents y afférents visés au paragraphe 396(1) pour la partie de son exercice postérieure :
-		- **(i)** au dernier exercice pour lequel il a produit un tel état,
-		- **(ii)** dans le cas où il n’a jamais eu à produire un tel état, à la date visée par l’état qu’il a produit au titre de l’alinéa 393a);
-	- **b)** de verser au directeur général des élections, qui la verse au receveur général, une somme d’argent égale à l’excédent de l’actif sur le passif, calculé sur la base de l’état à produire au titre de l’alinéa a).
-
-**Délai : production de l’état**
-
-- **(3)** L’état à produire au titre de l’alinéa (2)a) doit être produit dans les six mois suivant la date de la radiation du parti du registre des partis.
-
-**Délai : versements**
-
-- **(4)** Les versements visés au paragraphe (1) ou à l’alinéa (2)b) doivent être effectués dans les trois mois suivant la date de production de l’état visé au paragraphe (3).
-
-**Responsabilité de l’agent principal**
-
-- **(5)** L’agent principal du parti suspendu est responsable du versement des sommes d’argent visées au paragraphe (1) ou à l’alinéa (2)b).
+**399** [Abrogé, 2003, ch. 19, art. 21]
 
 
 
@@ -6614,6 +6638,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **f)** le parti issu de la fusion remplace chaque parti fusionnant dans les poursuites civiles, pénales ou administratives engagées par ou contre celui-ci;
 	- **g)** toute décision, judiciaire ou quasi judiciaire, rendue en faveur d’un parti fusionnant ou contre lui est exécutoire à l’égard du parti issu de la fusion.
 
+**Associations enregistrées**
+
+- **(3)** À la date de la fusion, les associations enregistrées des partis fusionnants sont radiées et, malgré l’alinéa 403.01c), peuvent, dans les six mois suivant la date de la fusion, céder des produits ou des sommes au parti issu de la fusion ou à une de ses associations enregistrées. Une telle cession de produits ou de sommes ne constitue pas une contribution pour l’application de la présente loi.
+> 2000, ch. 9, art. 402; 2003, ch. 19, art. 22.
+
+
 
 
 
@@ -6633,6 +6663,744 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
+**SECTION 1.1** 
+### Enregistrement des associations de circonscription et gestion financière des associations enregistrées
+
+
+
+#### Enregistrement des associations de circonscription
+
+
+
+**Obligation de s’enregistrer**
+
+**403.01** Il est interdit à l’association de circonscription d’un parti enregistré qui n’est pas enregistrée :
+- **a)** d’accepter des contributions;
+- **b)** de fournir des produits ou des services ou de céder des fonds à un candidat soutenu par un parti enregistré;
+- **c)** de fournir des produits ou des services ou de céder des sommes à un parti enregistré ou à une association enregistrée;
+- **d)** d’accepter la cession de l’excédent des fonds électoraux d’un candidat, l’excédent des fonds de course à la direction d’un candidat à la direction ou l’excédent des fonds de course à l’investiture d’un candidat à l’investiture.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Demande d’enregistrement**
+
+**403.02** 
+
+- **(1)** La demande d’enregistrement d’une association de circonscription d’un parti enregistré est présentée au directeur général des élections et comporte :
+	- **a)** le nom intégral de l’association et le nom de la circonscription;
+	- **b)** le nom intégral du parti;
+	- **c)** l’adresse du bureau de l’association où sont conservées les archives et où les communications peuvent être adressées;
+	- **d)** les nom et adresse du premier dirigeant et des autres dirigeants de l’association;
+	- **e)** les nom et adresse du vérificateur nommé par l’association;
+	- **f)** les nom et adresse de l’agent financier de l’association.
+
+**Documents à fournir**
+
+- **(2)** La demande est accompagnée de :
+	- **a)** la déclaration d’acceptation de la charge d’agent financier signée par la personne qui l’occupe;
+	- **b)** la déclaration d’acceptation de la charge de vérificateur signée par la personne qui l’occupe;
+	- **c)** la déclaration signée par le chef du parti attestant que l’association est une association de circonscription de celui-ci.
+
+**Étude de la demande**
+
+- **(3)** Le directeur général des élections enregistre l’association qui remplit les exigences prévues aux paragraphes (1) et (2). En cas de refus d’enregistrement, il indique à l’association laquelle des exigences n’est pas remplie.
+
+**Date de l’enregistrement**
+
+- **(4)** L’association de circonscription est enregistrée à compter de la date à laquelle le directeur général des élections l’inscrit dans le registre des associations de circonscription.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Une seule association de circonscription**
+
+**403.03** Un parti enregistré ne peut avoir plus d’une association enregistrée par circonscription.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Interdictions : période électorale**
+
+**403.04** Il est interdit à l’association de circonscription d’un parti enregistré d’engager, au cours d’une période électorale, des dépenses de publicité électorale, au sens de l’article 319.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**État de l’actif et du passif**
+
+**403.05** Dans les six mois suivant son enregistrement, l’association enregistrée produit auprès du directeur général des élections :
+- **a)** un état de son actif et de son passif — dressé selon les principes comptables généralement reconnus — et de son excédent ou de son déficit la veille de la date de l’enregistrement;
+- **b)** une déclaration de son agent financier attestant que l’état est complet et précis, effectuée sur le formulaire prescrit.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Interdiction : déclaration concernant l’état**
+
+**403.051** Il est interdit à l’agent financier d’une association enregistrée de faire la déclaration visée à l’alinéa 403.05b) alors qu’il sait ou devrait normalement savoir que l’état visé à l’alinéa 403.05a) est incomplet ou imprécis.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Exercice**
+
+**403.06** L’exercice des associations enregistrées coïncide avec l’année civile.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Modification de l’exercice**
+
+**403.07** Dès son enregistrement, l’association de circonscription modifie, au besoin, son exercice en cours afin qu’il se termine le dernier jour de l’année civile et qu’il coïncide désormais avec celle-ci. L’exercice en cours, après modification, ne peut être inférieur à six mois ni supérieur à dix-huit mois.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Registre des associations de circonscription**
+
+**403.08** Le directeur général des élections tient un registre des associations de circonscription où il inscrit les renseignements visés au paragraphe 403.02(1).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Nominations**
+
+**403.09** 
+
+- **(1)** Les associations enregistrées peuvent nommer des agents de circonscription autorisés à accepter des contributions ainsi qu’à engager et à payer des dépenses pour l’association; la nomination précise les attributions qui leur sont conférées.
+
+**Rapport de nomination**
+
+- **(2)** Dans les trente jours suivant la nomination d’un agent de circonscription, l’association enregistrée produit auprès du directeur général des élections un rapport écrit, attesté par son agent financier, indiquant les nom, adresse et attributions de l’agent de circonscription. Le directeur général des élections inscrit ces renseignements dans le registre des associations de circonscription.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Agents : personnes morales**
+
+**403.1** 
+
+- **(1)** Est admissible à la charge d’agent financier ou d’agent de circonscription d’une association enregistrée la personne morale constituée en vertu d’une loi fédérale ou provinciale.
+
+**Inadmissibilité : agents**
+
+- **(2)** Ne sont pas admissibles à la charge d’agent financier ou d’agent de circonscription :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** les candidats;
+	- **c)** tout vérificateur nommé conformément à la présente loi;
+	- **d)** sous réserve du paragraphe (1), les personnes qui ne sont pas des électeurs;
+	- **e)** les faillis non libérés;
+	- **f)** les personnes qui n’ont pas pleine capacité de contracter dans leur province de résidence habituelle.
+
+**Nomination d’un agent membre d’une société**
+
+- **(3)** Un membre d’une société nommée conformément à la présente loi à titre de vérificateur d’un parti enregistré peut être nommé agent d’une association enregistrée.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Admissibilité : vérificateur**
+
+**403.11** 
+
+- **(1)** Seuls peuvent exercer la charge de vérificateur d’une association enregistrée :
+	- **a)** les membres en règle d’un ordre professionnel, d’une association ou d’un institut de comptables professionnels;
+	- **b)** les sociétés formées de tels membres.
+
+**Inadmissibilité : vérificateur**
+
+- **(2)** Ne sont pas admissibles à la charge de vérificateur d’une association enregistrée :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** l’agent principal d’un parti enregistré ou d’un parti admissible et les agents enregistrés d’un parti enregistré;
+	- **c)** les candidats et leur agent officiel;
+	- **d)** les agents de circonscription d’une association enregistrée;
+	- **e)** les candidats à la direction et leurs agents de campagne à la direction;
+	- **f)** les candidats à l’investiture et leur agent financier;
+	- **g)** l’agent financier d’un tiers enregistré.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Consentement**
+
+**403.12** La nomination de l’agent financier ou du vérificateur d’une association enregistrée est subordonnée à l’obtention par celle-ci de leur déclaration signée d’acceptation de la charge.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Remplaçant**
+
+**403.13** En cas de décès, d’incapacité, de démission ou de destitution de son agent financier ou de son vérificateur, l’association enregistrée est tenue de lui nommer un remplaçant sans délai.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Un seul agent financier ou vérificateur**
+
+**403.14** Les associations enregistrées ne peuvent avoir plus d’un agent financier ni plus d’un vérificateur à la fois.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Interdiction : agent financier**
+
+**403.15** 
+
+- **(1)** Il est interdit à toute personne d’agir comme agent financier ou agent de circonscription d’une association enregistrée alors qu’elle n’est pas admissible à cette charge.
+
+**Interdiction : vérificateur**
+
+- **(2)** Il est interdit à toute personne d’agir comme vérificateur d’une association enregistrée alors qu’elle n’est pas admissible à cette charge.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Modification des renseignements**
+
+**403.16** 
+
+- **(1)** Dans les trente jours suivant la modification des renseignements visés au paragraphe 403.02(1), à l’exception de l’alinéa 403.02(1)b), l’association enregistrée produit auprès du directeur général des élections un rapport écrit, attesté par le premier dirigeant de l’association, faisant état des modifications.
+
+**Agent financier ou vérificateur**
+
+- **(2)** Si les modifications concernent le remplacement de l’agent financier ou du vérificateur de l’association, le rapport est assorti d’une copie de la déclaration d’acceptation de la charge prévue à l’article 403.12.
+
+**Inscription dans le registre**
+
+- **(3)** Le directeur général des élections inscrit les modifications visées au présent article dans le registre des associations de circonscription.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Confirmation annuelle des renseignements**
+
+**403.17** Au plus tard le 31 mai — ou au plus tard le 31 juillet si une campagne électorale est en cours le 31 mai dans la circonscription — les associations enregistrées produisent auprès du directeur général des élections :
+- **a)** une déclaration, attestée par leur premier dirigeant, confirmant l’exactitude des renseignements les concernant qui figurent dans le registre des associations de circonscription;
+- **b)** dans le cas où ces renseignements ont été modifiés, le rapport prévu au paragraphe 403.16(1).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+#### Radiation des associations enregistrées
+
+
+
+**Radiation : manquements**
+
+**403.18** Le directeur général des élections peut radier une association enregistrée pour manquement à l’une ou l’autre des obligations suivantes :
+- **a)** la confirmation, au titre de l’article 403.17, de l’exactitude des renseignements;
+- **b)** la production d’un document, au titre des paragraphes 403.16(1) ou (2), relatif au remplacement de l’agent financier ou du vérificateur;
+- **c)** la production d’un rapport, au titre du paragraphe 403.09(2), sur la nomination d’un agent de circonscription;
+- **d)** la production d’un rapport, au titre du paragraphe 403.16(1), sur la modification d’autres renseignements concernant l’association;
+- **e)** la production d’un des documents visés à l’article 403.05;
+- **f)** le dépôt d’un rapport au titre du paragraphe 478.02(1), dans le cas où l’obligation incombe à l’association enregistrée.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Radiation pour omission d’un rapport financier**
+
+**403.19** Le directeur général des élections peut radier l’association enregistrée dont l’agent financier a omis de produire auprès de lui un document pour un exercice en conformité avec le paragraphe 403.35(1).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Radiation volontaire**
+
+**403.2** 
+
+- **(1)** Sur demande de radiation signée par le premier dirigeant et l’agent financier d’une association enregistrée, le directeur général des élections peut radier l’association.
+
+**Radiation à la demande du parti**
+
+- **(2)** Le directeur général des élections radie une association enregistrée d’un parti enregistré sur demande de radiation signée par le chef et deux dirigeants du parti.
+
+**Exception : période électorale**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas durant une période électorale dans la circonscription de l’association enregistrée.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Procédure de radiation non volontaire**
+
+**403.21** 
+
+- **(1)** S’il a des motifs raisonnables de croire que le manquement à une des obligations visées aux articles 403.18 ou 403.19 est imputable à une association enregistrée ou à son agent financier, le directeur général des élections ordonne, par avis écrit envoyé au premier dirigeant de l’association et à son agent financier, à l’association ou à l’agent financier :
+	- **a)** soit d’assumer leurs obligations dans les trente jours suivant la réception de l’avis;
+	- **b)** soit de le convaincre que le manquement n’est pas causé par la négligence ou un manque de bonne foi.
+
+**Prorogation ou exemption**
+
+- **(2)** En cas d’application de l’alinéa (1)b), le directeur général des élections peut aviser les destinataires qu’ils :
+	- **a)** sont soustraits à tout ou partie des obligations qui leur incombent au titre des articles 403.18 ou 403.19;
+	- **b)** disposent du délai qu’il fixe pour assumer leurs obligations au titre de l’alinéa (1)a).
+
+**Copie au parti**
+
+- **(3)** Une copie des avis visés aux paragraphes (1) et (2) est envoyée au chef et à l’agent principal du parti enregistré auquel l’association est affiliée.
+
+**Radiation**
+
+- **(4)** Le directeur général des élections peut radier l’association si celle-ci ou son agent financier ne se conforme pas à l’avis prévu aux paragraphes (1) ou (2).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**[Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md)**
+
+**403.22** 
+
+- **(1)** Dans le cas où les limites d’une circonscription sont modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md), une association enregistrée pour la circonscription peut, avant l’entrée en vigueur du décret pris au titre du paragraphe 25(1) de cette loi, aviser le directeur général des élections qu’elle sera prorogée comme l’association enregistrée pour une circonscription donnée mentionnée dans le décret. L’avis est accompagné d’un consentement signé par le chef du parti enregistré auquel elle est affiliée.
+
+**Prorogation**
+
+- **(2)** Dans le cas où l’avis est produit, la prorogation prend effet à l’entrée en vigueur du décret de représentation et la nouvelle association assume les droits et obligations de l’ancienne.
+
+**Radiation**
+
+- **(3)** L’association enregistrée pour une circonscription dont les limites sont modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md) qui ne donne pas l’avis prévu au paragraphe (1) est radiée à la date de prise d’effet du décret au titre du paragraphe 25(1) de cette loi. Dans les six mois suivant cette date, l’association peut, malgré l’alinéa 403.01c), céder des produits ou des fonds au parti enregistré auquel elle est affiliée ou à une ou plusieurs associations enregistrées de celui-ci. Ces cessions ne constituent pas des contributions pour l’application de la présente loi.
+
+**Pré-enregistrement**
+
+- **(4)** Dès la prise d’une proclamation au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md) relativement à un décret de représentation, il peut être présenté, au titre de l’article 403.02, une demande d’enregistrement d’une association de circonscription pour une circonscription créée par le décret ou dont les limites sont modifiées par celui-ci. L’enregistrement ne peut prendre effet avant l’entrée en vigueur du décret.
+
+**Présomption**
+
+- **(5)** L’auteur de la demande d’enregistrement est réputé constituer une association de circonscription à compter de la réception de la demande par le directeur général des élections.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Avis de la radiation**
+
+**403.23** 
+
+- **(1)** Le directeur général des élections, dans le cas où il radie une association enregistrée au titre de l’article 403.2 ou du paragraphe 403.21(4), en avise par écrit, par courrier recommandé ou par un service de messagerie qui fournit une preuve d’expédition, un suivi pendant l’expédition et une attestation de livraison, l’association et le parti enregistré auquel celle-ci est affiliée.
+
+**Date de la radiation**
+
+- **(2)** L’avis prévu au paragraphe (1) précise la date de prise d’effet de la radiation, qui ne peut suivre de moins de quinze jours la date de l’envoi de l’avis.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Publication d’un avis de radiation**
+
+**403.24** 
+
+- **(1)** Le directeur général des élections, dès qu’il radie une association enregistrée pour un motif autre que la radiation du parti enregistré auquel elle est affiliée, fait publier un avis de la radiation dans la Gazette du Canada.
+
+**Modification du registre des associations de circonscription**
+
+- **(2)** Il inscrit toute radiation d’une association enregistrée dans le registre des associations de circonscription.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Effet de la radiation**
+
+**403.25** L’association de circonscription qui a été radiée demeure assujettie aux obligations d’une association enregistrée pour l’application de l’article 403.26.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Rapports financiers**
+
+**403.26** Dans les six mois suivant la radiation d’une association de circonscription, l’agent financier de l’association produit auprès du directeur général des élections les documents visés au paragraphe 403.35(1) :
+- **a)** pour la partie de son exercice en cours antérieure à la date de la radiation;
+- **b)** pour tout exercice antérieur pour lequel l’association n’a pas produit ces documents.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+#### Gestion financière des associations enregistrées
+
+
+
+##### Dispositions générales
+
+
+
+**Attributions de l’agent financier**
+
+**403.27** L’agent financier est chargé de la gestion des opérations financières de l’association enregistrée et de rendre compte de celles-ci en conformité avec la présente loi.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Interdiction : paiement de dépenses**
+
+**403.28** 
+
+- **(1)** Il est interdit à toute personne ou entité, sauf à un agent de circonscription d’une association enregistrée, de payer les dépenses de l’association.
+
+**Interdiction : engagement de dépenses**
+
+- **(2)** Il est interdit à toute personne ou entité, sauf à un agent de circonscription d’une association enregistrée, d’engager les dépenses de l’association.
+
+**Interdiction : acceptation des contributions**
+
+- **(3)** Il est interdit à quiconque, sauf à un agent de circonscription d’une association enregistrée, d’accepter les contributions apportées à l’association.
+
+**Interdiction : acceptation des cessions**
+
+- **(4)** Il est interdit à quiconque, sauf à l’agent financier d’une association enregistrée, d’accepter ou d’effectuer des cessions de produits ou de sommes au nom de l’association.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+##### Traitement des créances
+
+
+
+**Délai de présentation du compte**
+
+**403.29** 
+
+- **(1)** Toute personne ayant une créance sur une association enregistrée est tenue de présenter un compte détaillé à l’association ou à un de ses agents de circonscription dans les trois mois suivant la date à laquelle la dépense a été engagée.
+
+**Défaut**
+
+- **(2)** À défaut de présenter son compte détaillé dans le délai de trois mois, le créancier est déchu du droit de recouvrer sa créance.
+
+**Décès du créancier**
+
+- **(3)** En cas de décès du créancier avant l’expiration du délai de trois mois, un nouveau délai de trois mois court, pour l’application du paragraphe (1), à compter de la date à laquelle sa succession devient habile à agir pour son compte.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Délai de paiement des créances**
+
+**403.3** Toutes les créances présentées à une association enregistrée en conformité avec l’article 403.29 doivent être payées dans les six mois suivant la date à laquelle elles sont devenues exigibles.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Paiements tardifs : directeur général des élections**
+
+**403.31** 
+
+- **(1)** Sur demande écrite du créancier d’une association enregistrée ou d’un agent de circonscription, le directeur général des élections peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par écrit l’agent de circonscription de l’association à payer la créance dont, selon le cas :
+	- **a)** le compte détaillé n’a pas été présenté en conformité avec le paragraphe 403.29(1);
+	- **b)** le paiement n’a pas été fait en conformité avec l’article 403.3.
+
+**Conditions**
+
+- **(2)** Le cas échéant, il peut assortir son autorisation des conditions qu’il estime indiquées.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Paiements tardifs : juge**
+
+**403.32** Sur demande du créancier d’une association enregistrée ou d’un agent de circonscription de l’association, le juge habile à procéder au dépouillement judiciaire du scrutin peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par ordonnance l’agent de circonscription à payer la créance dans les cas suivants :
+- **a)** le demandeur démontre qu’il a demandé l’autorisation prévue au paragraphe 403.31(1) et ne l’a pas obtenue, et que le compte détaillé a été présenté après le délai de trois mois prévu au paragraphe 403.29(1) ou que le paiement n’a pas été fait dans le délai de six mois prévu à l’article 403.3;
+- **b)** elle n’a pas été payée en conformité avec une autorisation obtenue en application du paragraphe 403.31(1) et le demandeur démontre qu’il n’a pas pu s’y soumettre en raison de circonstances indépendantes de sa volonté.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Recouvrement des créances**
+
+**403.33** 
+
+- **(1)** Le créancier d’une créance présentée à une association enregistrée en conformité avec l’article 403.29 peut en poursuivre le recouvrement devant tout tribunal compétent :
+	- **a)** en tout temps, dans le cas où l’agent de circonscription refuse de la payer ou la conteste, en tout ou en partie;
+	- **b)** après l’expiration du délai prévu à l’article 403.3 ou, le cas échéant, prorogé au titre du paragraphe 403.31(1) ou de l’article 403.32, dans tout autre cas.
+
+**Présomption de paiement conforme**
+
+- **(2)** Toute créance payée par l’agent de circonscription d’une association enregistrée dans le cadre d’une poursuite visée au paragraphe (1) est réputée avoir été payée en conformité avec la présente loi.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Contributions présumées**
+
+**403.34** 
+
+- **(1)** Toute partie d’une créance mentionnée dans le rapport financier visé au paragraphe 403.35(1) qui n’est pas payée après l’expiration d’un délai de dix-huit mois suivant la fin de l’exercice sur lequel porte le rapport est réputée constituer une contribution apportée à l’association enregistrée à la date à laquelle la dépense a été engagée.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la créance impayée qui, à la date visée au paragraphe (1), selon le cas :
+	- **a)** fait l’objet d’un accord prévoyant son paiement;
+	- **b)** fait l’objet d’une procédure de recouvrement;
+	- **c)** fait l’objet d’une contestation du montant de la créance ou du solde de celle-ci qui reste à payer;
+	- **d)** est considérée comme irrécouvrable par le créancier et est radiée de ses comptes en conformité avec ses pratiques comptables habituelles.
+
+**Avis**
+
+- **(3)** L’agent financier de l’association débitrice d’une créance impayée est tenu d’aviser le directeur général des élections, avant la date visée au paragraphe (1), de l’application de l’un ou l’autre des alinéas (2)a) à d) à l’égard de sa créance.
+
+**Publication de la liste des contributions**
+
+- **(4)** Dès que possible après la date visée au paragraphe (1), le directeur général des élections publie, selon les modalités qu’il estime indiquées, la liste des contributions visées par ce paragraphe.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+##### Rapports financiers
+
+
+
+**Production du rapport financier**
+
+**403.35** 
+
+- **(1)** L’agent financier est tenu de produire auprès du directeur général des élections pour chaque exercice de l’association enregistrée :
+	- **a)** le rapport financier portant sur les opérations financières de celle-ci dressé, pour l’essentiel, sur le formulaire prescrit;
+	- **b)** le rapport afférent au rapport financier, fait par le vérificateur, dans le cas où il est nécessaire en application du paragraphe 403.37(1);
+	- **c)** la déclaration de l’agent financier attestant que le rapport financier est complet et précis, effectuée sur le formulaire prescrit;
+	- **d)** les états et déclarations produits auprès de l’agent financier au titre de l’alinéa 405.3(2)c) et du paragraphe 405.3(4).
+
+**Contenu du rapport financier**
+
+- **(2)** Le rapport financier de l’association comporte les renseignements suivants :
+	- **a)** un état, par catégorie, des contributions apportées à l’association par les particuliers, les personnes morales, les syndicats et les associations visées au paragraphe 405.3(3);
+	- **b)** le nombre des donateurs de chacune des catégories visées à l’alinéa a);
+	- **b.1)** dans le cas où le donateur est une association visée au paragraphe 405.3(3) :
+		- **(i)** les nom et adresse de l’association, le montant de sa contribution et la date à laquelle l’association enregistrée l’a reçue,
+		- **(ii)** les nom et adresse de chaque particulier qui a fourni une somme comprise dans la contribution, le montant de cette somme et la date à laquelle elle a été fournie à l’association;
+	- **c)** les nom et adresse de tout autre donateur visé à l’alinéa a) qui a apporté une ou plusieurs contributions d’une valeur totale supérieure à 200 $ à l’association, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle l’association l’a reçue;
+	- **d)** dans le cas où le donateur visé à l’alinéa c) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
+	- **e)** un état de l’actif et du passif et de l’excédent ou du déficit dressé selon les principes comptables généralement reconnus, notamment :
+		- **(i)** un état des créances contestées visées à l’article 403.33,
+		- **(ii)** un état des créances impayées faisant ou susceptibles de faire l’objet de la demande prévue au paragraphe 403.31(1) ou à l’article 403.32;
+	- **f)** un état des recettes et des dépenses dressé selon les principes comptables généralement reconnus;
+	- **g)** un état de la valeur commerciale des produits et services fournis et des fonds cédés par l’association au parti enregistré, à une autre association enregistrée ou à un candidat que le parti soutient;
+	- **h)** un état de la valeur commerciale des produits et services fournis et des fonds cédés à l’association enregistrée par le parti enregistré, par une autre association enregistrée, par un candidat, par un candidat à la direction ou par un candidat à l’investiture;
+	- **i)** un état des prêts et des sûretés, ainsi que des conditions afférentes, dont bénéficie l’association;
+	- **i.1)** un état de tous les prêts consentis pour la campagne, indiquant notamment les taux d’intérêt, les calendriers de remboursement et le nom du prêteur;
+	- **j)** un état des contributions reçues et remboursées en tout ou en partie à leur donateur ou dont l’association a disposé en conformité avec la présente loi.
+
+**Prêts**
+
+- **(3)** Pour l’application du paragraphe (2), sauf l’alinéa (2) j), le prêt est assimilé à une contribution.
+
+**Délai de production**
+
+- **(4)** Les documents visés au paragraphe (1) doivent être produits dans les cinq mois suivant la fin de l’exercice.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Contributions au receveur général**
+
+**403.36** L’agent financier d’une association enregistrée verse sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme égale à la valeur de la contribution reçue par l’association dans les cas suivants :
+- **a)** il ne peut classer le donateur dans une catégorie visée à l’alinéa 403.35(2)a);
+- **b)** il manque le nom du donateur d’une contribution supérieure à 25 $, le nom ou l’adresse du donateur de contributions d’une valeur totale supérieure à 200 $ ou le nom du premier dirigeant ou du président du donateur visé à l’alinéa 403.35(2)d).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Rapport du vérificateur**
+
+**403.37** 
+
+- **(1)** Le vérificateur de l’association enregistrée qui a accepté des contributions de 5 000 $ ou plus au total ou a engagé des dépenses de 5 000 $ ou plus au total au cours d’un exercice fait rapport à l’agent financier de sa vérification du rapport financier de l’association. Il fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le rapport financier présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+
+**Cas où une déclaration est requise**
+
+- **(2)** Il joint à son rapport les déclarations qu’il estime nécessaires dans l’un ou l’autre des cas suivants :
+	- **a)** le rapport financier qu’il a vérifié ne présente pas fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
+	- **b)** sa vérification révèle que l’association enregistrée n’a pas tenu les écritures comptables appropriées.
+
+**Droit d’accès aux archives**
+
+- **(3)** Il doit avoir accès, à tout moment convenable, à la totalité des documents de l’association et a le droit d’exiger de l’agent financier et des agents de circonscription de l’association les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Interdictions : rapports financiers**
+
+**403.38** Il est interdit à l’agent financier d’une association enregistrée de produire auprès du directeur général des élections un rapport financier dans les cas suivants :
+- **a)** il sait ou devrait normalement savoir que le rapport renferme une déclaration fausse ou trompeuse sur un point important;
+- **b)** le rapport ne renferme pas, pour l’essentiel, les renseignements exigés par le paragraphe 403.35(2).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+##### Paiement des frais de vérification
+
+
+
+**Certificat**
+
+**403.39** 
+
+- **(1)** Sur réception des documents visés au paragraphe 403.35(1) et d’une copie de la facture du vérificateur, le directeur général des élections transmet au receveur général un certificat indiquant la somme — jusqu’à concurrence de 1 500 $ — des frais de vérification engagés au titre du paragraphe 403.37(1).
+
+**Paiement**
+
+- **(2)** Sur réception du certificat, le receveur général paie au vérificateur visé, sur le Trésor, la somme qui y est précisée.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+##### Correction des documents et prorogation des délais
+
+
+
+**Corrections mineures : directeur général des élections**
+
+**403.4** 
+
+- **(1)** Le directeur général des élections peut apporter à un document visé au paragraphe 403.35(1) des corrections qui n’en modifient pas le fond sur un point important.
+
+**Demande de correction par le directeur général des élections**
+
+- **(2)** Le directeur général des élections peut demander par écrit à une association enregistrée de corriger, dans le délai imparti, un document visé au paragraphe 403.35(1).
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Prorogation du délai ou correction : directeur général des élections**
+
+**403.41** 
+
+- **(1)** Sur demande écrite de l’agent financier d’une association enregistrée ou, si celui-ci est absent ou empêché d’agir, du premier dirigeant de l’association, le directeur général des élections peut autoriser :
+	- **a)** la prorogation du délai prévu au paragraphe 403.35(4);
+	- **b)** la correction d’un document visé au paragraphe 403.35(1) dans le délai imparti.
+
+**Délais**
+
+- **(2)** La demande est présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai prévu au paragraphe 403.35(4);
+	- **b)** au titre de l’alinéa (1)b), dès que le demandeur prend connaissance de la nécessité d’apporter une correction.
+
+**Motifs**
+
+- **(3)** Le directeur général des élections ne peut toutefois agréer la demande que s’il est convaincu par la preuve produite par l’auteur de la demande que les circonstances qui ont donné lieu à celle-ci ont pour cause, selon le cas :
+	- **a)** l’absence, le décès, la maladie ou la faute professionnelle de l’agent financier ou d’un de ses prédécesseurs;
+	- **b)** l’absence, le décès, la maladie ou la faute professionnelle d’un commis ou préposé de l’agent financier ou d’un de leurs prédécesseurs;
+	- **c)** une inadvertance ou une véritable erreur de fait.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
+**Prorogation du délai ou correction : juge**
+
+**403.42** 
+
+- **(1)** L’agent financier d’une association enregistrée ou, si celui-ci est absent ou empêché d’agir, le premier dirigeant de l’association peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance autorisant :
+	- **a)** l’association à se soustraire à la demande prévue au paragraphe 403.4(2);
+	- **b)** la prorogation de délai visée à l’alinéa 403.41(1)a) ou la correction visée à l’alinéa 403.41(1)b).
+La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** La demande peut être présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai imparti en application du paragraphe 403.4(2) ou dans les deux semaines suivant l’expiration de ce délai;
+	- **b)** au titre de l’alinéa (1)b), dans les deux semaines suivant :
+		- **(i)** soit le rejet de la demande de prorogation ou de correction présentée au titre de l’article 403.41,
+		- **(ii)** soit l’expiration du délai prorogé ou imparti au titre des alinéas 403.41(1)a) ou b).
+
+**Motifs**
+
+- **(3)** Le juge ne peut rendre l’ordonnance que s’il est convaincu que des motifs visés au paragraphe 403.41(3) sont applicables.
+
+**Conditions**
+
+- **(4)** Il peut assortir son ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+
+**Date de l’autorisation**
+
+- **(5)** Pour l’application de la présente loi, la prorogation d’un délai ou la correction visées au paragraphe (1) sont autorisées à la date de l’ordonnance ou, dans le cas où celle-ci est assortie de conditions, à la date à laquelle le demandeur a rempli toutes les conditions.
+> 2003, ch. 19, art. 23.
+
+
+
+
+
 **SECTION 2** 
 ### DISPOSITIONS FINANCIÈRES GÉNÉRALES
 
@@ -6642,39 +7410,301 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-**Donateurs inadmissibles**
+**Contributions**
 
 **404** 
 
-- **(1)** Ne sont pas admissibles à apporter une contribution à un parti enregistré, à une fiducie de celui-ci, à une association de circonscription ou à un candidat :
-	- **a)** une personne qui n’est ni un citoyen canadien ni un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-	- **b)** une personne morale ou une association qui n’exerce pas d’activités au Canada;
-	- **c)** un syndicat qui n’est pas titulaire d’un droit de négocier collectivement au Canada;
-	- **d)** un parti politique étranger;
-	- **e)** un État étranger ou un de ses mandataires.
+- **(1)** Il est interdit à toute personne ou entité, sauf à un particulier — citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) —, d’apporter une contribution à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
 
-**Remise au donateur ou au receveur général**
+**Remise de contributions**
 
-- **(2)** En cas de réception d’une contribution d’un donateur visé au paragraphe (1), l’agent principal du parti enregistré ou l’agent officiel du candidat, dans les trente jours suivant le moment où il prend connaissance de l’inadmissibilité du donateur, remet la contribution — ou la somme d’argent égale à celle-ci dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général, s’il lui est impossible de la remettre, inutilisée, au donateur.
-> 2000, ch. 9, art. 404; 2001, ch. 27, art. 214.
+- **(2)** Si un parti enregistré, une association enregistrée, un candidat, un candidat à la direction ou un candidat à l’investiture reçoit une contribution inadmissible, l’agent principal du parti, l’agent financier de l’association, l’agent officiel du candidat ou l’agent financier du candidat à la direction ou du candidat à l’investiture, dans les trente jours suivant le moment où il prend connaissance de l’inadmissibilité du donateur, remet la contribution — ou une somme égale à la valeur commerciale de celle-ci dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général, s’il lui est impossible de la remettre, inutilisée, au donateur.
+
+**Divisions provinciales**
+
+- **(3)** Il est entendu qu’une contribution apportée à la division provinciale d’un parti enregistré est une contribution apportée au parti et qu’une dépense engagée par une telle division est une dépense engagée par le parti. Il est entendu que les sommes cédées par une telle division ou à celle-ci sont cédées par le parti ou à celui-ci.
+
+**Agents enregistrés**
+
+- **(4)** La division provinciale d’un parti enregistré peut nommer des agents enregistrés; la nomination précise les attributions qui leur sont conférées. La présente loi s’applique à ces agents comme s’ils étaient des agents enregistrés nommés par le parti au titre du paragraphe 375(1).
+> 2000, ch. 9, art. 404; 2001, ch. 27, art. 214; 2003, ch. 19, art. 24.
 
 
 
 
 
-**Interdictions : contributions**
+**Exception : contributions au niveau de la circonscription**
 
-**405** 
+**404.1** 
 
-- **(1)** Il est interdit à toute personne ou entité d’apporter à un parti enregistré une contribution qui provient des fonds, des biens ou des services d’une autre personne ou entité.
+- **(1)** Par dérogation au paragraphe 404(1), toute personne morale ou tout syndicat peut apporter des contributions qui ne dépassent pas :
+	- **a)** 1 000 $, au total, à l’ensemble des associations enregistrées, des candidats à l’investiture et des candidats d’un parti enregistré donné au cours d’une année civile;
+	- **b)** 1 000 $, au total, au candidat pour une élection donnée qui n’est pas le candidat d’un parti enregistré.
+
+**Deux élections la même année**
+
+- **(1.1)** Par dérogation à l’alinéa (1)a), si deux élections sont tenues dans une circonscription au cours d’une année civile et une personne morale ou un syndicat a, avant le jour du scrutin de la première élection, apporté une contribution à l’association enregistrée, aux candidats à l’investiture ou au candidat d’un parti enregistré donné dans cette circonscription, la personne morale ou le syndicat peut apporter des contributions qui ne dépassent pas 1 000 $, au total, à l’association enregistrée, aux candidats à l’investiture et au candidat du parti enregistré dans cette circonscription pendant la période électorale de la seconde élection.
+
+**Restriction**
+
+- **(1.2)** La personne morale ou le syndicat ne peut apporter au cours d’une année civile des contributions au titre du paragraphe (1.1) à l’association enregistrée, aux candidats à l’investiture et au candidat du parti enregistré que dans une circonscription.
+
+**Candidat à l’investiture défait**
+
+- **(1.3)** Par dérogation à l’alinéa (1)a), si une personne morale ou un syndicat a apporté au cours d’une année civile dans une circonscription une contribution au titre de cet alinéa à un candidat à l’investiture qui, à l’issue d’une course à l’investiture tenue au cours de cette année, n’obtient le soutien du parti enregistré comme candidat, la personne morale ou le syndicat peut, au cours de la même année, apporter des contributions qui ne dépassent pas 1 000 $, au total, au candidat soutenu par le parti dans cette circonscription après l’obtention du soutien.
+
+**Restriction**
+
+- **(1.4)** La personne morale ou le syndicat ne peut apporter au cours d’une année civile des contributions au titre du paragraphe (1.3) au candidat soutenu par un parti enregistré que dans une circonscription et pour une seule élection.
+
+**Définitions**
+
+- **(2)** Les définitions qui suivent s’appliquent au présent article.
+
+***personne morale*** Sont comprises dans une personne morale :
+- **a)** toute autre personne morale qu’elle contrôle, directement ou indirectement de quelque manière que ce soit;
+- **b)** toute autre personne morale contrôlée par la même personne ou le même groupe de personnes qui la contrôle, directement ou indirectement de quelque manière que ce soit.
+
+***syndicat*** Association regroupant des employés en vue notamment de la réglementation des relations entre employeurs et employés. Sont comprises dans un syndicat toute subdivision ou section locale d’une telle association.
+
+**Donateurs inadmissibles**
+
+- **(3)** Ne sont pas admissibles à apporter la contribution visée au paragraphe (1) :
+	- **a)** la personne morale qui n’exerce pas d’activités au Canada;
+	- **b)** le syndicat qui n’est pas titulaire d’un droit de négocier collectivement au Canada;
+	- **c)** une société d’État au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **d)** la personne morale dont le financement est assuré à plus de 50 % par le gouvernement du Canada.
+> 2003, ch. 19, art. 24.
+
+
+
+
+
+**Contributions : inclusions et exclusions**
+
+**404.2** 
+
+- **(1)** Sont considérés comme une contribution pour l’application de la présente loi les fonds d’un particulier qui sont affectés à sa campagne à titre de candidat, de candidat à la direction ou de candidat à l’investiture.
+
+**Exclusions : partis, associations ou candidats**
+
+- **(2)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la fourniture de produits ou de services ou la cession de fonds :
+	- **a)** par un parti enregistré à une de ses associations de circonscription ou à un candidat qu’il soutient;
+	- **b)** par une association enregistrée au parti enregistré auquel elle est affiliée, à une autre association enregistrée du parti ou à un candidat que le parti soutient;
+	- **c)** par un candidat au parti enregistré qui le soutient ou à une association enregistrée du parti;
+	- **d)** par un candidat à sa campagne à titre de candidat à l’investiture pour la même élection.
+
+**Exclusions : candidats à la direction et à l’investiture**
+
+- **(3)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la cession de fonds :
+	- **a)** par un candidat à la direction d’un parti enregistré au parti ou à une de ses associations enregistrées;
+	- **b)** par un candidat à l’investiture d’un parti enregistré au parti, à l’association enregistrée du parti qui a tenu la course à l’investiture ou à l’agent officiel du candidat soutenu par le parti dans la circonscription où a eu lieu la course à l’investiture;
+	- **c)** visés au paragraphe 404.3(3) par un parti enregistré à un candidat à la direction.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à une association de circonscription du parti enregistré, à une fiducie constituée pour l’élection d’un candidat soutenu par le parti ou à un candidat qui cède des contributions à tel parti qui le soutient.
+- **(4)** Les associations enregistrées, les candidats à l’investiture et les candidats d’un parti enregistré ne peuvent céder au parti les fonds qu’ils ont reçus en application des articles 404.1 et 405.3.
 
-**Interdiction : acceptation des contributions**
+**Exclusions**
 
-- **(3)** Il est interdit à quiconque, sauf à l’agent principal ou à un agent enregistré d’un parti enregistré, d’accepter les contributions apportées au parti.
+- **(5)** Ne constitue pas une contribution le congé payé accordé, pendant une période électorale, à un employé par son employeur admissible à apporter des contributions, en vue de lui permettre de se présenter comme candidat à l’investiture ou comme candidat.
+
+**Exclusion : droits d’adhésion**
+
+- **(6)** Ne constitue pas une contribution le droit d’adhésion, d’au plus vingt-cinq dollars par année pour une période de cinq ans ou moins, qu’un particulier paye au cours d’une année pour être membre d’un parti enregistré.
+> 2003, ch. 19, art. 24.
+
+
+
+
+
+**Cessions interdites**
+
+**404.3** 
+
+- **(1)** Il est interdit à un parti enregistré et à l’association de circonscription d’un parti enregistré de fournir des produits ou des services ou de céder des fonds à un candidat à la direction ou à un candidat à l’investiture, sauf si les produits ou les services sont offerts également à tous les candidats.
+
+**Définition de  contribution dirigée**
+
+- **(2)** Au présent article, ***contribution dirigée*** s’entend de la somme, constituant tout ou partie d’une contribution apportée à un parti enregistré, que le donateur demande par écrit au parti de céder à un candidat à la direction donné.
+
+**Exception**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à la somme provenant d’une contribution dirigée qui est cédée par un parti enregistré au candidat à la direction mentionné dans la demande, si le parti produit avec la somme cédée un état, dressé sur le formulaire prescrit et comportant les nom et adresse du donateur, le montant et la date de la contribution, le montant de la contribution dirigée, la somme que le parti a cédée et la date de la cession.
+
+**Présomption**
+
+- **(4)** Le montant d’une contribution dirigée au bénéfice d’un candidat à la direction est réputé constituer une contribution apportée à ce candidat par le donateur.
+> 2003, ch. 19, art. 24.
+
+
+
+
+
+**Délivrance de reçus**
+
+**404.4** 
+
+- **(1)** Toute personne autorisée à accepter des contributions au nom d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture est tenue de délivrer un reçu pour chacune des contributions supérieures à 25 $ qu’elle accepte et d’en conserver une copie.
+
+**Registre**
+
+- **(2)** Lorsque des contributions anonymes d’au plus 25 $ par personne sont recueillies lors d’une collecte générale organisée à l’occasion d’une réunion ou d’une activité de financement pour le compte d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture, la personne autorisée à accepter les contributions doit consigner les renseignements suivants :
+	- **a)** une description de l’événement au cours duquel les contributions ont été recueillies;
+	- **b)** la date de l’événement;
+	- **c)** le nombre approximatif de personnes présentes lors de l’événement;
+	- **d)** le montant total des contributions anonymes reçues.
+> 2003, ch. 19, art. 24.
+
+
+
+
+
+**Partis enregistrés, associations enregistrées, candidats, candidats à la direction et candidats à l’investiture**
+
+**405** 
+
+- **(1)** Il est interdit à tout particulier d’apporter des contributions qui dépassent :
+	- **a)** 5 000 $, au total, à un parti enregistré donné et à l’ensemble de ses associations enregistrées, de ses candidats à l’investiture et de ses candidats au cours d’une année civile;
+	- **b)** 5 000 $, au total, au candidat qui n’est pas le candidat d’un parti enregistré pour une élection donnée;
+	- **c)** 5 000 $, au total, à l’ensemble des candidats à la direction pour une course à la direction donnée.
+
+**Exception**
+
+- **(2)** Sont soustraites à l’application du paragraphe (1) les contributions apportées par disposition testamentaire inconditionnelle et non discrétionnaire.
+
+**Affiliation présumée d’un candidat**
+
+- **(3)** Pour l’application du paragraphe (1), toute contribution apportée à la personne qui déclare qu’elle cherchera à obtenir le soutien d’un parti enregistré donné lors d’une élection est considérée comme une contribution apportée à un candidat de ce parti visé à l’alinéa (1)a) et toute contribution apportée à la personne qui déclare qu’elle ne cherchera pas à obtenir le soutien d’un parti enregistré lors d’une élection est considérée comme une contribution apportée à un candidat visé à l’alinéa (1)b).
+
+**Exceptions : contributions à sa propre campagne**
+
+- **(4)** Les contributions ci-après ne sont pas prises en compte pour le calcul des plafonds prévus au paragraphe (1) :
+	- **a)** les contributions de 5 000 $, au total, apportées par un candidat à l’investiture ou par un candidat d’un parti enregistré — provenant de ses propres fonds — à sa campagne à l’investiture ou à titre de candidat;
+	- **b)** les contributions de 5 000 $, au total, apportées par un candidat qui n’est pas candidat d’un parti enregistré — provenant de ses propres fonds — à sa campagne;
+	- **c)** les contributions de 5 000 $, au total, apportées par un candidat à la direction — provenant de ses propres fonds — à sa campagne.
+
+**Contribution réputée**
+
+- **(5)** Pour l’application de la présente loi, les contributions faites à un candidat à la direction dans les dix-huit mois suivant la course à la direction sont considérées comme des contributions pour cette course.
+> 2000, ch. 9, art. 405; 2003, ch. 19, art. 25.
+
+
+
+
+
+**Facteur d’ajustement à l’inflation**
+
+**405.1** 
+
+- **(1)** Le facteur d’ajustement à l’inflation applicable aux plafonds établis au titre des paragraphes 404.1(1) et 405(1) et de l’alinéa 405.3(2)b) pour un an à compter du 1<sup>er</sup> avril correspond à la fraction comportant :
+	- **a)** au numérateur, la moyenne annuelle de l’indice des prix à la consommation, calculée sur la base constante 1992 = 100, publiée par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md) pour l’année civile antérieure à cette date;
+	- **b)** au dénominateur, 119,0, soit la moyenne annuelle de l’indice des prix à la consommation publiée par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md) pour 2002, calculée sur la base constante 1992 = 100.
+
+**Ajustements**
+
+- **(2)** Les montants visés aux paragraphes 404.1(1) et 405(1) et à l’alinéa 405.3(2)b) sont multipliés par le facteur d’ajustement à l’inflation annuel visé au paragraphe (1) et le produit s’applique à :
+	- **a)** l’année civile qui commence au cours de cette année, dans les cas visés aux alinéas 404.1(1)a) et 405(1)a) et au sous-alinéa 405.3(2)b)(i);
+	- **b)** l’élection dont le bref est délivré au cours de cette année, dans les cas visés aux alinéas 404.1(1)b) et 405(1)b) et au sous-alinéa 405.3(2)b)(ii);
+	- **c)** la campagne à la direction qui commence au cours de cette année, dans les cas visés à l’alinéa 405(1)c).
+Le produit de la multiplication est arrondi au multiple de cent le plus proche.
+
+**Publication**
+
+- **(3)** Avant le 1<sup>er</sup> avril, le directeur général des élections fait publier dans la Gazette du Canada les montants applicables à compter de cette date.
+> 2003, ch. 19, art. 25.
+
+
+
+
+
+**Interdiction d’esquiver les plafonds**
+
+**405.2** 
+
+- **(1)** Il est interdit à toute personne ou entité :
+	- **a)** d’esquiver ou de tenter d’esquiver l’interdiction prévue par le paragraphe 404(1) ou un plafond prévu par les paragraphes 404.1(1) ou 405(1) ou par l’alinéa 405.3(2)b);
+	- **b)** d’agir de concert avec d’autres personnes ou entités en vue d’accomplir un tel fait.
+
+**Interdiction de cacher l’identité d’un donateur**
+
+- **(2)** Il est interdit à toute personne ou entité :
+	- **a)** de cacher ou de tenter de cacher l’identité de l’auteur d’une contribution régie par la présente loi;
+	- **b)** d’agir de concert avec d’autres personnes ou entités en vue d’accomplir ce fait.
+
+**Interdiction : accepter des contributions excessives**
+
+- **(3)** Il est interdit à quiconque est habilité par la présente loi à accepter des contributions d’accepter sciemment une contribution qui dépasse un plafond imposé par la présente loi.
+
+**Accords interdits**
+
+- **(4)** Nul ne peut conclure d’accord prévoyant le paiement de biens ou de services fournis à un parti enregistré ou à un candidat à la condition qu’une personne apporte une contribution, directement ou indirectement, à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture.
+> 2003, ch. 19, art. 25.
+
+
+
+
+
+**Interdiction : contribution indirecte**
+
+**405.3** 
+
+- **(1)** Il est interdit à toute personne ou entité d’apporter à un parti enregistré, à une association enregistrée, à un candidat, à un candidat à la direction ou à un candidat à l’investiture une contribution qui provient des fonds, des biens ou des services d’une autre personne ou entité et qui ont été fournis au donateur à cette fin.
+
+**Non-application de l’interdiction**
+
+- **(2)** Par dérogation aux paragraphes (1) et 404(1), une association peut apporter des contributions qui proviennent des fonds de particuliers admissibles à apporter des contributions en application du paragraphe 404(1), si :
+	- **a)** les contributions sont apportées à une association enregistrée, à un candidat à l’investiture ou à un candidat;
+	- **b)** les contributions ne dépassent pas :
+		- **(i)** 1 000 $, au total, pour l’ensemble des destinataires, visés à l’alinéa a), d’un parti enregistré donné au cours d’une année civile,
+		- **(ii)** 1 000 $, au total, à un candidat pour une élection donnée qui n’est pas le candidat d’un parti enregistré;
+	- **c)** l’association produit avec chaque contribution un état comportant les renseignements suivants :
+		- **(i)** les nom et adresse du particulier qui est responsable de l’association,
+		- **(ii)** le montant de la contribution,
+		- **(iii)** les nom et adresse de chaque particulier qui a fourni une somme comprise dans la contribution, le montant de cette somme et la date à laquelle elle a été fournie.
+
+**Deux élections la même année**
+
+- **(2.1)** Par dérogation au sous-alinéa (2)b)(i), si deux élections sont tenues dans une circonscription au cours d’une année civile et une association a, avant le jour du scrutin de la première élection, apporté une contribution à l’association enregistrée, aux candidats à l’investiture ou au candidat d’un parti enregistré donné dans cette circonscription, l’association peut apporter des contributions qui ne dépassent pas 1 000 $, au total, à l’association enregistrée, aux candidats à l’investiture et au candidat du parti enregistré dans cette circonscription pendant la période électorale de la seconde élection.
+
+**Restriction**
+
+- **(2.2)** L’association ne peut apporter au cours d’une année civile des contributions au titre du paragraphe (2.1) à l’association enregistrée, aux candidats à l’investiture et au candidat du parti enregistré que dans une circonscription.
+
+**Candidat à l’investiture défait**
+
+- **(2.3)** Par dérogation au sous-alinéa (2)b)(i), si une association a apporté au cours d’une année civile dans une circonscription une contribution au titre de cet alinéa à un candidat à l’investiture qui, à l’issue d’une course à l’investiture tenue au cours de cette année, n’obtient le soutien du parti enregistré comme candidat, l’association peut, au cours de la même année, apporter des contributions qui ne dépassent pas 1 000 $, au total, au candidat soutenu par le parti dans cette circonscription après l’obtention du soutien.
+
+**Restriction**
+
+- **(2.4)** L’association ne peut apporter au cours d’une année civile des contributions au titre du paragraphe (2.3) au candidat soutenu par un parti enregistré que dans une circonscription et pour une seule élection.
+
+**Définition de association**
+
+- **(3)** Au présent article, on entend par association une organisation — autre qu’un syndicat — non constituée en personne morale, y compris toute subdivision ou section locale de cette organisation.
+
+**Déclaration**
+
+- **(4)** La personne responsable de l’association produit avec les renseignements visés à l’alinéa (2)c) une déclaration attestant que les renseignements sont complets et précis.
+
+**Interdiction**
+
+- **(5)** Il est interdit au responsable d’une association de faire sciemment une déclaration fausse ou trompeuse au sujet des renseignements visés à l’alinéa (2)c).
+
+**Application des plafonds**
+
+- **(6)** Pour l’application du paragraphe 405(1), il est tenu compte de la somme fournie par un particulier et comprise dans une contribution visée au paragraphe (2) pour le calcul des contributions du particulier.
+> 2003, ch. 19, art. 25.
+
+
+
+
+
+**Remise de contributions**
+
+**405.4** Si un parti enregistré, une association enregistrée, un candidat, un candidat à la direction ou un candidat à l’investiture reçoit une contribution apportée en contravention des paragraphes 405(1), 405.2(4) ou 405.3(1), l’agent principal du parti, l’agent financier de l’association, l’agent officiel du candidat ou l’agent financier du candidat à la direction ou du candidat à l’investiture, dans les trente jours suivant le moment où il prend connaissance de l’inadmissibilité de la contribution, remet celle-ci — ou une somme égale à la valeur commerciale de celle-ci dans le cas d’une contribution non monétaire — au directeur général des élections, qui la remet au receveur général s’il lui est impossible de la remettre, inutilisée, au donateur.
+> 2003, ch. 19, art. 25.
+
 
 
 
@@ -6709,18 +7739,23 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **a)** à la production de matériel publicitaire ou promotionnel et à la distribution, diffusion ou publication de ce matériel dans les médias ou par tout autre moyen;
 	- **b)** le paiement des services d’une personne à un titre quelconque — notamment celui d’agent officiel ou d’agent enregistré — , y compris sa rémunération et les frais supportés pour son compte;
 	- **c)** à la location d’espace pour des réunions ou la fourniture de rafraîchissements;
-	- **d)** à la valeur des biens ou services fournis par un gouvernement, une société d’État ou tout autre organisme public.
+	- **d)** à la valeur des biens ou services fournis par un gouvernement, une société d’État ou tout autre organisme public;
+	- **e)** aux sondages électoraux ou autres et aux recherches effectués pendant une période électorale.
 
-**Définition de « frais engagés »**
+**Définition de frais engagés**
 
 - **(4)** Au paragraphe (1), ***frais engagés*** s’entend des dépenses payées et des dépenses engagées par un parti enregistré ou par un candidat.
+> 2000, ch. 9, art. 407; 2003, ch. 19, art. 26.
+
 
 
 
 
 **Activité de financement**
 
-**408** Dans le cas où une activité de financement est organisée essentiellement pour recueillir des contributions monétaires au profit d’un parti enregistré ou d’un candidat par la vente de billets, le montant de la contribution consiste en la différence entre le prix du billet et la juste valeur marchande de ce à quoi le billet donne droit.
+**408** Dans le cas où une activité de financement est organisée essentiellement pour recueillir des contributions monétaires au profit d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture par la vente de billets, le montant de la contribution est constitué de la différence entre le prix du billet et la juste valeur marchande de ce à quoi le billet donne droit.
+> 2000, ch. 9, art. 408; 2003, ch. 19, art. 27.
+
 
 
 
@@ -6742,15 +7777,26 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
+**Représentants des candidats**
+
+**409.1** Toute dépense engagée par un candidat au titre de la rémunération de ses représentants, au sens du paragraphe 136(1), est réputée une dépense personnelle du candidat.
+> 2003, ch. 19, art. 27.1.
+
+
+
+
+
 **Dépense de 50 $ ou plus**
 
 **410** 
 
-- **(1)** Dans le cas d’une dépense de 50 $ ou plus effectuée dans le cadre de la présente loi pour le compte d’un parti enregistré ou d’un candidat, l’agent principal, l’agent enregistré, l’agent officiel ou son délégué au titre du paragraphe 411(1) sont tenus d’en conserver, d’une part, le compte détaillé, préparé par le créancier, exposant la nature de la dépense engagée et, d’autre part, la preuve de son paiement.
+- **(1)** Dans le cas d’une dépense de 50 $ ou plus effectuée dans le cadre de la présente loi pour le compte d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture, l’agent ou autre personne habilitée par la présente loi à la payer est tenu d’en conserver, d’une part, le compte détaillé, préparé par le créancier, exposant la nature de la dépense engagée et, d’autre part, la preuve de son paiement.
 
 **Dépense de moins de 50 $**
 
 - **(2)** Dans le cas d’une dépense de moins de 50 $, l’auteur du paiement visé au paragraphe (1) est tenu d’en déclarer la nature et de conserver la preuve de son paiement.
+> 2000, ch. 9, art. 410; 2003, ch. 19, art. 28.
+
 
 
 
@@ -6761,7 +7807,10 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(1)** Peuvent déléguer par écrit à quiconque le paiement des menues dépenses, notamment pour la papeterie, les frais de poste et les services de messagerie :
 	- **a)** l’agent enregistré, au titre des dépenses engagées pour le compte d’un parti enregistré;
-	- **b)** l’agent officiel, au titre des dépenses de campagne d’un candidat.
+	- **b)** l’agent officiel, au titre des dépenses de campagne d’un candidat;
+	- **c)** l’agent de circonscription, au titre des dépenses engagées pour le compte d’une association enregistrée;
+	- **d)** l’agent de campagne à la direction d’un candidat à la direction, au titre des dépenses de campagne à la direction;
+	- **e)** l’agent financier d’un candidat à l’investiture, au titre des dépenses de campagne d’investiture.
 
 **Montant maximal**
 
@@ -6771,11 +7820,16 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(3)** Le délégué remet à son délégant un état détaillé des paiements faits par lui et les documents y afférents prévus par l’article 410 :
 	- **a)** dans le cas des dépenses engagées pour le compte d’un parti enregistré, dans les trois mois suivant la date à laquelle la dépense a été engagée;
-	- **b)** dans le cas des dépenses engagées pour le compte d’un candidat, dans les trois mois suivant le jour du scrutin.
+	- **b)** dans le cas des dépenses engagées pour le compte d’un candidat, dans les trois mois suivant le jour du scrutin;
+	- **c)** dans le cas des dépenses engagées pour le compte d’une association enregistrée, dans les trois mois suivant la date à laquelle la dépense a été engagée;
+	- **d)** dans le cas des dépenses engagées pour le compte d’un candidat à la direction, dans les trois mois suivant la date à laquelle la dépense a été engagée;
+	- **e)** dans le cas des dépenses engagées pour le compte d’un candidat à l’investiture, dans les trois mois suivant la date à laquelle la dépense a été engagée.
 
 **Interdiction**
 
 - **(4)** Il est interdit au délégué de payer des dépenses dont la somme totale est supérieure au plafond précisé dans la délégation.
+> 2000, ch. 9, art. 411; 2003, ch. 19, art. 29.
+
 
 
 
@@ -6788,9 +7842,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **a)** dans l’année suivant la délivrance du bref pour une élection, dans le cas du compte original;
 	- **b)** dès que possible après avoir reçu une version modifiée d’un tel compte.
 
-**Rapport financier des partis enregistrés**
+**Rapports financiers**
 
-- **(2)** Il publie, selon les modalités qu’il estime indiquées, le rapport financier des partis enregistrés ou une version modifiée de celui-ci dès que possible après réception de l’un ou l’autre de ceux-ci.
+- **(2)** Le directeur général des élections publie, selon les modalités qu’il estime indiquées et dès que possible après leur réception :
+	- **a)** le rapport financier des partis enregistrés et des associations enregistrées, et la version modifiée de celui-ci;
+	- **b)** le compte de campagne à la direction des candidats à la direction, les rapports sur les contributions apportées à ceux-ci visés aux paragraphes 435.31(1) ou (2) ainsi que la version modifiée de ceux-ci et l’état des contributions visé à l’alinéa 435.06(2)d);
+	- **c)** le compte de campagne d’investiture des candidats à l’investiture, et la version modifiée de celui-ci.
 
 **Résumé des comptes de dépenses de campagne**
 
@@ -6802,9 +7859,11 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **e)** le nom du vérificateur;
 	- **f)** le cas échéant, un énoncé indiquant que le vérificateur a émis une réserve sur le compte.
 
-**Rapport financier et état des dépenses des partis suspendus**
+**Rapport financier et état des dépenses des partis politiques radiés**
 
-- **(4)** Dès que possible après avoir reçu d’un parti suspendu le rapport financier visé au sous-alinéa 392a)(i) ou l’état des dépenses visé à l’alinéa 396(1)a), le directeur général des élections le publie selon les modalités qu’il estime indiquées.
+- **(4)** Dès que possible après avoir reçu d’un parti politique radié le rapport financier visé au sous-alinéa 392a)(i), le directeur général des élections le publie selon les modalités qu’il estime indiquées.
+> 2000, ch. 9, art. 412; 2003, ch. 19, art. 30.
+
 
 
 
@@ -6864,6 +7923,12 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Interdiction : engagement de dépenses**
 
 - **(2)** Il est interdit à toute personne ou entité, sauf à l’agent principal ou à un agent enregistré d’un parti enregistré, d’engager les dépenses du parti.
+
+**Interdiction : acceptation des contributions**
+
+- **(3)** Il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, d’accepter les contributions apportées au parti.
+> 2000, ch. 9, art. 416; 2003, ch. 19, art. 31.
+
 
 
 
@@ -6944,14 +8009,16 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **422** 
 
 - **(1)** Le plafond des dépenses électorales d’un parti enregistré pour une élection est le produit des facteurs suivants :
-	- **a)** 0,62 $ par électeur figurant sur les listes électorales préliminaires ou sur les listes électorales révisées, selon le nombre d’électeurs le plus élevé, dans les circonscriptions où il y a un candidat soutenu par le parti;
+	- **a)** 0,70 $ par électeur figurant sur les listes électorales préliminaires ou sur les listes électorales révisées, selon le nombre d’électeurs le plus élevé, dans les circonscriptions où il y a un candidat soutenu par le parti;
 	- **b)** le facteur d’ajustement à l’inflation établi en conformité avec l’article 414, applicable à la date de délivrance des brefs.
 
 **Montants exclus des dépenses électorales**
 
 - **(2)** Pour l’application du paragraphe (1), sont exclues des dépenses électorales d’un parti enregistré :
-	- **a)** les contributions apportées par le parti ou pour son compte au soutien de candidats à l’élection;
+	- **a)** les cessions effectuées par le parti ou pour son compte à des candidats à l’élection;
 	- **b)** les sommes engagées par ses agents enregistrés, ou par leurs délégués au titre du paragraphe 411(1), qui ont agi hors du cadre de leurs attributions.
+> 2000, ch. 9, art. 422; 2003, ch. 19, art. 32.
+
 
 
 
@@ -6969,6 +8036,37 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
+#### Contributions présumées
+
+
+
+**Contributions présumées**
+
+**423.1** 
+
+- **(1)** La partie d’une créance mentionnée dans le rapport financier visé au paragraphe 424(1) ou dans le compte des dépenses électorales visé au paragraphe 429(1) qui n’est pas payée à l’expiration d’un délai de dix-huit mois suivant la fin de l’exercice sur lequel porte le rapport ou, selon le cas, de l’exercice au cours duquel tombe le jour du scrutin est réputée constituer une contribution apportée au parti enregistré à la date à laquelle la dépense a été engagée.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la créance impayée qui, à la date visée à ce paragraphe, selon le cas :
+	- **a)** fait l’objet d’un accord prévoyant son paiement;
+	- **b)** fait l’objet d’une procédure de recouvrement;
+	- **c)** fait l’objet d’une contestation du montant de la créance ou du solde de celle-ci qui reste à payer;
+	- **d)** est considérée comme irrécouvrable par le créancier et est radiée de ses comptes en conformité avec ses pratiques comptables habituelles.
+
+**Avis**
+
+- **(3)** L’agent principal du parti débiteur d’une créance impayée est tenu d’aviser le directeur général des élections avant la date visée au paragraphe (1) de l’application de l’un ou l’autre des alinéas (2)a) à d) à l’égard de sa créance.
+
+**Publication de la liste des contributions**
+
+- **(4)** Dès que possible après la date visée au paragraphe (1), le directeur général des élections publie, selon les modalités qu’il estime indiquées, la liste des créances qui sont devenues des contributions en application de ce paragraphe.
+> 2003, ch. 19, art. 33.
+
+
+
+
+
 #### Rapport financier
 
 
@@ -6980,23 +8078,25 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(1)** L’agent principal est tenu de produire auprès du directeur général des élections pour chaque exercice du parti enregistré :
 	- **a)** le rapport financier portant sur les opérations financières de celui-ci dressé, pour l’essentiel, sur le formulaire prescrit;
 	- **b)** le rapport, afférent au rapport financier, fait par le vérificateur au titre du paragraphe 426(1);
-	- **c)** la déclaration de l’agent principal concernant ces opérations financières, effectuée sur le formulaire prescrit;
-	- **d)** le rapport financier d’une fiducie prévu à l’article 428 et le rapport y afférent fait par le vérificateur au titre du paragraphe 426(1).
+	- **c)** la déclaration de l’agent principal concernant ces opérations financières, effectuée sur le formulaire prescrit.
+	- **d)** [Abrogé, 2003, ch. 19, art. 34]
 
 **Contenu du rapport financier**
 
 - **(2)** Le rapport financier du parti comporte les renseignements suivants :
-	- **a)** un état des contributions apportées au parti enregistré par les particuliers, les entreprises, les organisations commerciales, les gouvernements, les syndicats, les personnes morales sans capital-actions, autres que les syndicats, et les organismes ou associations, autres que les syndicats, non constitués en personne morale;
-	- **b)** le nombre des donateurs de chacune des catégories visées à l’alinéa a);
-	- **c)** sous réserve de l’alinéa c.1), les nom et adresse de chaque donateur visé à l’alinéa a) qui a apporté une ou plusieurs contributions d’une valeur totale supérieure à 200 $ au parti directement ou par l’intermédiaire d’une de ses associations de circonscriptions ou d’une fiducie constituée pour l’élection d’un candidat soutenu par le parti, et la somme de ces contributions;
-	- **c.1)** dans le cas où le donateur visé à l’alinéa c) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
-	- **d)** en l’absence des renseignements sur l’identité d’un donateur qui a apporté sa contribution par l’intermédiaire d’une association de circonscription, les nom et adresse des donateurs de la totalité de telles contributions apportées à l’association de circonscription au cours de l’exercice et, si le donateur est une société à dénomination numérique, le nom du premier dirigeant ou du président de celle-ci, comme si elles avaient été apportées au parti;
-	- **e)** un état des contributions reçues d’une fiducie;
+	- **a)** la somme des contributions qu’il a reçues et le nombre de donateurs;
+	- **b)** les nom et adresse de chaque donateur qui a apporté au parti une ou plusieurs contributions d’une valeur totale supérieure à 200 $, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle le parti l’a reçue;
+	- **c)** les nom et adresse de chaque donateur qui a apporté au parti une contribution comportant une contribution dirigée — au sens du paragraphe 404.3(2) — , le montant de la contribution, le montant de la contribution dirigée et la date à laquelle le parti a reçu la contribution;
+	- **c.1)** [Abrogé, 2003, ch. 19, art. 34]
+	- **d)** [Abrogé, 2003, ch. 19, art. 34]
+	- **e)** [Abrogé, 2003, ch. 19, art. 34]
 	- **f)** un état de l’actif et du passif et de l’excédent ou du déficit selon les principes comptables généralement reconnus, notamment :
 		- **(i)** un état des créances contestées visées à l’article 421,
 		- **(ii)** un état des créances impayées faisant, ou susceptibles de faire, l’objet de la demande prévue au paragraphe 419(1) ou à l’article 420;
 	- **g)** un état des recettes et des dépenses selon les principes comptables généralement reconnus;
-	- **h)** un état, par circonscription, des sommes d’argent cédées par le parti au candidat qu’il soutient, à une association de circonscription ou à une fiducie constituée pour l’élection du candidat;
+	- **h)** un état, par circonscription, de la valeur commerciale des produits ou des services fournis et des fonds cédés par le parti à un candidat ou à l’association de circonscription;
+	- **h.1)** un état de chaque somme provenant d’une contribution dirigée — au sens du paragraphe 404.3(2) — que le parti a cédée à un candidat à la direction, les renseignements visés à l’alinéa c) concernant le donateur et le nom du candidat à la direction à qui la somme a été cédée;
+	- **h.2)** un état de la valeur commerciale des produits ou des services fournis et des fonds cédés au parti enregistré par une de ses associations enregistrées, par un candidat, par un candidat à la direction ou par un candidat à l’investiture;
 	- **i)** le compte des dépenses électorales pour chaque élection partielle tenue au cours de l’exercice comportant un état des dépenses payées, des dépenses engagées et des contributions non monétaires utilisées par le parti;
 	- **j)** un état des prêts et des sûretés, ainsi que des conditions afférentes, dont bénéficie le parti;
 	- **k)** un état des contributions reçues et remboursées en tout ou en partie à leur donateur ou dont le parti a disposé en conformité avec la présente loi.
@@ -7008,15 +8108,17 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Délai de production**
 
 - **(4)** Les documents visés au paragraphe (1) doivent être produits auprès du directeur général des élections dans les six mois suivant la fin de l’exercice.
+> 2000, ch. 9, art. 424; 2003, ch. 19, art. 34.
+
 
 
 
 
 **Contributions au receveur général**
 
-**425** L’agent enregistré d’un parti enregistré verse sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme d’argent égale à la valeur de la contribution reçue par le parti dans les cas suivants :
-- **a)** il ne peut classer le donateur dans une catégorie visée à l’alinéa 424(2)a);
-- **b)** il manque le nom ou l’adresse du donateur d’une contribution supérieure à 200 $ visée à l’alinéa 424(2)c) ou le nom du premier dirigeant ou du président du donateur visé à l’alinéa 424(2)c.1).
+**425** L’agent enregistré d’un parti enregistré verse sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme égale à la valeur de la contribution reçue par le parti s’il manque le nom d’un donateur d’une contribution supérieure à 25 $ ou le nom ou l’adresse d’un donateur d’une contribution supérieure à 200 $.
+> 2000, ch. 9, art. 425; 2003, ch. 19, art. 35.
+
 
 
 
@@ -7025,7 +8127,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **426** 
 
-- **(1)** Le vérificateur du parti enregistré fait rapport à l’agent principal de sa vérification du rapport financier du parti et de celui de toute fiducie de celui-ci visé à l’article 428. Il fait les vérifications qui lui permettent d’établir si, à son avis, le rapport financier présente fidèlement et selon les principes comptables généralement reconnus les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(1)** Le vérificateur du parti enregistré fait rapport à l’agent principal de sa vérification du rapport financier du parti. Il fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le rapport financier présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Cas où une déclaration est requise**
 
@@ -7037,6 +8139,8 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Droit d’accès aux archives**
 
 - **(3)** Il doit avoir accès, à tout moment convenable, à la totalité des documents du parti et a le droit d’exiger des agents enregistrés et des dirigeants du parti les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+> 2000, ch. 9, art. 426; 2003, ch. 19, art. 36.
+
 
 
 
@@ -7049,34 +8153,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
-
-#### Fiducies
-
-
-
-**Fiducies des partis enregistrés**
-
-**428** 
-
-- **(1)** Dans le cas où un parti enregistré constitue une fiducie pour une élection, son agent principal ou un de ses agents enregistrés dresse un rapport financier — selon les principes comptables généralement reconnus — portant sur les opérations financières de celle-ci.
-
-**Contenu du rapport financier**
-
-- **(2)** Le rapport financier comporte les renseignements suivants :
-	- **a)** un état des contributions apportées à la fiducie par les particuliers, les entreprises, les organisations commerciales, les gouvernements, les syndicats, les personnes morales sans capital-actions, autres que les syndicats, et les organismes ou associations, autres que les syndicats, non constitués en personne morale;
-	- **b)** le nombre des donateurs de chacune des catégories visées à l’alinéa a);
-	- **c)** sous réserve de l’alinéa c.1), les nom et adresse de chaque donateur visé à l’alinéa a) qui a apporté à la fiducie une ou plusieurs contributions d’une valeur totale supérieure à 200 $ et la somme de ces contributions;
-	- **c.1)** dans le cas où le donateur visé à l’alinéa c) est une société à désignation numérique, le nom du premier dirigeant ou du président de la société;
-	- **d)** un état, par circonscription, des contributions apportées à la fiducie par le parti enregistré, par une de ses associations de circonscription ou par une fiducie constituée pour l’élection d’un candidat soutenu par le parti;
-	- **e)** un état de l’actif et du passif et de l’excédent ou du déficit dressé selon les principes comptables généralement reconnus;
-	- **f)** un état des recettes et des dépenses dressé selon les principes comptables généralement reconnus;
-	- **g)** un état, par circonscription, des sommes d’argent cédées par la fiducie à une association de circonscription, au candidat soutenu par le parti ou à une fiducie constituée pour l’élection de celui-ci;
-	- **h)** un état des prêts et des sûretés, ainsi que des conditions afférentes, dont bénéficie la fiducie;
-	- **i)** un état des contributions reçues et remboursées à leur donateur ou dont la fiducie a disposé en conformité avec la présente loi.
-
-**Prêts**
-
-- **(3)** Pour l’application du paragraphe (2), sauf l’alinéa (2)i), un prêt est assimilé à une contribution.
+**428** [Abrogé, 2003, ch. 19, art. 37]
 
 
 
@@ -7109,7 +8186,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **430** 
 
-- **(1)** Dès que possible après une élection générale, le vérificateur du parti enregistré fait rapport à l’agent principal de sa vérification du compte des dépenses électorales dressé pour cette élection. Il fait les vérifications qui lui permettent d’établir si, à son avis, le compte présente fidèlement et selon les principes comptables généralement reconnus les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(1)** Dès que possible après une élection générale, le vérificateur du parti enregistré fait rapport à l’agent principal de sa vérification du compte des dépenses électorales dressé pour cette élection. Il fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Cas où une déclaration est requise**
 
@@ -7121,6 +8198,8 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Droit d’accès aux archives**
 
 - **(3)** Il doit avoir accès, à tout moment convenable, à la totalité des documents du parti et a le droit d’exiger des agents enregistrés et des dirigeants du parti les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+> 2000, ch. 9, art. 430; 2003, ch. 19, art. 38.
+
 
 
 
@@ -7215,7 +8294,7 @@ La demande est notifiée au directeur général des élections.
 
 **435** 
 
-- **(1)** Dès qu’il reçoit les documents visés au paragraphe 429(1), le directeur général des élections transmet au receveur général un certificat indiquant la somme qui correspond à 22,5 % des dépenses électorales payées par les agents enregistrés d’un parti enregistré et mentionnées dans le compte des dépenses électorales si, à la fois :
+- **(1)** Sur réception des documents visés au paragraphe 429(1), le directeur général des élections transmet au receveur général un certificat indiquant la somme qui correspond à 50 % des dépenses électorales payées par les agents enregistrés d’un parti enregistré et mentionnées dans le compte des dépenses électorales si, à la fois :
 	- **a)** il est convaincu que le parti et son agent principal se sont conformés aux articles 429 à 434;
 	- **b)** le rapport du vérificateur ne comporte aucune des déclarations visées au paragraphe 430(2);
 	- **c)** les candidats soutenus par le parti ont obtenu :
@@ -7225,6 +8304,877 @@ La demande est notifiée au directeur général des élections.
 **Paiement du remboursement**
 
 - **(2)** Sur réception du certificat, le receveur général paie au parti visé, sur le Trésor, la somme qui y est précisée.
+> 2000, ch. 9, art. 435; 2003, ch. 19, art. 39.
+
+
+
+
+
+#### Allocation trimestrielle
+
+
+
+**Détermination de l’allocation trimestrielle**
+
+**435.01** 
+
+- **(1)** Le directeur général des élections fixe l’allocation trimestrielle à verser à un parti enregistré dont les candidats ont obtenu lors de l’élection générale précédant le trimestre visé :
+	- **a)** soit au moins 2 % du nombre des votes validement exprimés;
+	- **b)** soit au moins 5 % du nombre des votes validement exprimés dans les circonscriptions dans lesquelles le parti a soutenu un candidat.
+
+**Calcul de l’allocation trimestrielle totale**
+
+- **(2)** L’allocation trimestrielle totale est le produit des facteurs suivants :
+	- **a)** 0,4375 $ par le nombre de votes validement exprimés dans l’élection visée au paragraphe (1);
+	- **b)** le facteur d’ajustement à l’inflation établi en conformité avec le paragraphe 405.1(1) et en vigueur pour le trimestre visé.
+
+**Calcul de l’allocation trimestrielle d’un parti**
+
+- **(3)** L’allocation trimestrielle d’un parti enregistré est la partie de l’allocation trimestrielle totale qui correspond au pourcentage des votes valides que celui-ci a obtenu dans l’élection visée au paragraphe (1).
+
+**Fusion de partis**
+
+- **(4)** Le parti issu d’une fusion a droit à l’ensemble des allocations auxquelles auraient eu droit les partis fusionnants qui le composent, s’il n’y avait pas eu fusion.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Certificat**
+
+**435.02** 
+
+- **(1)** Dès que possible après la fin d’un trimestre, le directeur général des élections transmet au receveur général un certificat précisant le montant de l’allocation à verser à un parti enregistré pour ce trimestre.
+
+**Retard en cas de non conformité**
+
+- **(2)** Dans le cas où le parti enregistré n’a pas produit tous les documents exigés au titre des articles 424, 424.1 et 429, le directeur général des élections retarde la transmission du certificat jusqu’à ce que le parti les produise.
+
+**Paiement**
+
+- **(3)** Dès réception du certificat, le receveur général paie au parti visé, sur le Trésor, la somme qui est précisée sur le certificat. Le paiement peut aussi être fait en tout ou en partie à une division provinciale du parti agréée par écrit par le chef de celui-ci.
+
+**Définition de division provinciale**
+
+- **(4)** Dans la présente loi, ***division provinciale*** s’entend de la division d’un parti enregistré pour une province ou un territoire à l’égard de laquelle le chef du parti a fourni au directeur général des élections ce qui suit :
+	- **a)** les noms de la division et de la province ou du territoire;
+	- **b)** le nom du parti;
+	- **c)** l’adresse du bureau de la division où sont conservées les archives et où les communications peuvent être adressées;
+	- **d)** les nom et adresse du premier dirigeant et des autres dirigeants de la division;
+	- **e)** les nom et adresse de tout agent enregistré nommé par la division;
+	- **f)** la déclaration signée par le chef du parti attestant que la division est une division du parti.
+La présente loi s’applique aux renseignements visés au présent paragraphe comme s’ils étaient des renseignements visés aux alinéas 366(2)a) à h).
+
+**Rapport : modification des renseignements**
+
+- **(5)** Dans les quinze jours suivant la modification des renseignements visés au paragraphe (4), le premier dirigeant de la division provinciale produit auprès de l’agent principal du parti enregistré un rapport écrit faisant état des modifications.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**SECTION 3.1** 
+### Enregistrement et gestion financière des candidats à la direction
+
+
+
+#### Enregistrement
+
+
+
+**Définition de dépense personnelle**
+
+**435.03** Dans la présente section, ***dépense personnelle*** d’un candidat à la direction s’entend de toute dépense raisonnable engagée par lui dans le cadre d’une course à la direction, notamment :
+- **a)** au titre du déplacement et du séjour;
+- **b)** au titre de la garde d’un enfant;
+- **c)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
+- **d)** dans le cas d’un candidat qui a une déficience, au titre des dépenses personnelles supplémentaires liées à celle-ci.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Notification du début de la campagne**
+
+**435.04** 
+
+- **(1)** Si un parti enregistré se propose de tenir une course à la direction, son agent principal dépose auprès du directeur général des élections une déclaration indiquant les dates du début et de la fin de la campagne.
+
+**Modification et annulation**
+
+- **(2)** Si le parti enregistré se propose de modifier la durée de la course à la direction ou de l’annuler, son agent principal dépose auprès du directeur général des élections une déclaration précisant la nouvelle date du début ou de la fin de la course ou faisant état de son annulation.
+
+**Publication**
+
+- **(3)** Le directeur général des élections publie un avis contenant les renseignements visés aux paragraphes (1) et (2), selon les modalités qu’il estime indiquées.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Obligation d’enregistrement**
+
+**435.05** 
+
+- **(1)** Toute personne qui accepte des contributions pour une course à la direction d’un parti enregistré ou engage des dépenses de campagne à la direction d’un tel parti est tenue de présenter une demande d’enregistrement comme candidat à la direction.
+
+**Présomption**
+
+- **(2)** Pour l’application de la présente partie, le candidat à la direction est présumé avoir été candidat à la direction à compter du moment où il accepte une contribution ou engage une dépense de campagne à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Contenu de la demande d’enregistrement**
+
+**435.06** 
+
+- **(1)** La demande d’enregistrement du candidat à la direction comporte :
+	- **a)** son nom;
+	- **b)** l’adresse du lieu où sont conservés les documents relatifs à sa campagne et où les communications peuvent être adressées;
+	- **c)** les nom et adresse de son agent financier;
+	- **d)** les nom et adresse de son vérificateur.
+
+**Documents à fournir**
+
+- **(2)** La demande est accompagnée de ce qui suit :
+	- **a)** la déclaration d’acceptation de la charge d’agent financier signée par la personne qui l’occupe;
+	- **b)** la déclaration d’acceptation de la charge de vérificateur signée par la personne qui l’occupe;
+	- **c)** la déclaration signée par l’agent principal du parti enregistré qui tient la course à la direction portant que celui-ci donne son agrément au candidat à la direction;
+	- **d)** un état contenant les renseignements visés aux alinéas 435.3(2)d) et e) à l’égard des contributions reçues avant la présentation de la demande.
+
+**Étude de la demande**
+
+- **(3)** Le directeur général des élections enregistre le candidat à la direction qui remplit les exigences prévues aux paragraphes (1) et (2). En cas de refus d’enregistrement, il indique au candidat laquelle de ces exigences n’est pas remplie.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Registre**
+
+**435.07** Le directeur général des élections tient un registre des candidats à la direction où il inscrit les renseignements visés au paragraphe 435.06(1).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Nominations**
+
+**435.08** 
+
+- **(1)** Les candidats à la direction peuvent nommer des agents de campagne à la direction autorisés à recevoir les contributions ainsi qu’à engager et à payer les dépenses de campagne à la direction; la nomination précise les attributions qui leur sont conférées.
+
+**Rapport de nomination**
+
+- **(2)** Dans les trente jours suivant la nomination d’un agent de campagne à la direction, le candidat à la direction produit auprès du directeur général des élections un rapport écrit, attesté par son agent financier, indiquant les nom, adresse et attributions de l’agent de campagne. Le directeur général des élections inscrit ces renseignements dans le registre des candidats à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Inadmissibilité : agents financiers ou agents de campagne à la direction**
+
+**435.09** Ne sont pas admissibles à la charge d’agent financier d’un candidat à la direction ou d’agent de campagne à la direction :
+- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+- **b)** les candidats à la direction;
+- **c)** tout vérificateur nommé conformément à la présente loi;
+- **d)** les personnes qui ne sont pas des électeurs;
+- **e)** les faillis non libérés;
+- **f)** les personnes qui n’ont pas pleine capacité de contracter dans leur province de résidence habituelle.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Admissibilité : vérificateur**
+
+**435.1** 
+
+- **(1)** Seuls peuvent exercer la charge de vérificateur d’un candidat à la direction :
+	- **a)** les membres en règle d’un ordre professionnel, d’une association ou d’un institut de comptables professionnels;
+	- **b)** les sociétés formées de tels membres.
+
+**Inadmissibilité**
+
+- **(2)** Ne sont pas admissibles à la charge de vérificateur d’un candidat à la direction :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** l’agent principal d’un parti enregistré ou d’un parti admissible et l’agent enregistré d’un parti enregistré;
+	- **c)** les candidats et leur agent officiel;
+	- **d)** les agents de circonscription d’une association enregistrée;
+	- **e)** les candidats à la direction et leurs agents de campagne à la direction;
+	- **f)** les candidats à l’investiture et leur agent financier;
+	- **g)** l’agent financier d’un tiers enregistré.
+
+**Nomination d’un agent membre d’une société**
+
+- **(3)** Un membre d’une société nommée conformément à la présente loi à titre de vérificateur d’un parti enregistré peut être nommé agent d’un candidat à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Consentement**
+
+**435.11** La nomination de l’agent financier ou du vérificateur d’un candidat à la direction est subordonnée à l’obtention par celui-ci de leur déclaration signée d’acceptation de la charge.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Remplaçant**
+
+**435.12** En cas de décès, d’incapacité, de démission ou de destitution de son agent financier ou de son vérificateur, le candidat à la direction est tenu de lui nommer un remplaçant sans délai.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Un seul agent financier ou vérificateur**
+
+**435.13** Les candidats à la direction ne peuvent avoir plus d’un agent financier ni plus d’un vérificateur à la fois.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Interdiction : agent financier ou agents de campagne à la direction**
+
+**435.14** 
+
+- **(1)** Il est interdit à toute personne d’agir comme agent financier ou agent de campagne à la direction d’un candidat à la direction alors qu’elle n’est pas admissible à cette charge.
+
+**Interdiction : vérificateur**
+
+- **(2)** Il est interdit à toute personne d’agir comme vérificateur d’un candidat à la direction alors qu’elle n’est pas admissible à cette charge.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Modification des renseignements**
+
+**435.15** 
+
+- **(1)** Dans les trente jours suivant la modification des renseignements visés au paragraphe 435.06(1), le candidat à la direction produit auprès du directeur général des élections un rapport écrit faisant état des modifications.
+
+**Agent financier ou vérificateur**
+
+- **(2)** Si les modifications concernent le remplacement de l’agent financier ou du vérificateur du candidat, le rapport est assorti d’une copie de la déclaration d’acceptation de la charge prévue à l’article 435.11.
+
+**Inscription dans le registre**
+
+- **(3)** Le directeur général des élections inscrit les modifications visées au présent article dans le registre des candidats à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Désistement des candidats à la direction**
+
+**435.16** Le candidat à la direction qui se désiste de la course à la direction dépose auprès du directeur général des élections une déclaration écrite en ce sens, signée par lui et précisant la date de son désistement. Le directeur général des élections inscrit le désistement dans le registre des candidats à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Retrait de l’agrément du parti**
+
+**435.17** Le parti enregistré qui retire son agrément à un candidat à la direction dépose auprès du directeur général des élections une déclaration, signée par l’agent principal du parti, faisant état du retrait et de la date de celui-ci. Le directeur général des élections inscrit le retrait dans le registre des candidats à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Rapport sur les contributions**
+
+**435.18** Le candidat à la direction qui s’est désisté conformément à l’article 435.16 ou dont l’agrément a été retiré conformément à l’article 435.17 est soustrait à l’obligation de produire les rapports sur les contributions prévus à l’article 435.31 portant sur les périodes postérieures à son désistement ou au retrait de l’agrément.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Notification du parti enregistré**
+
+**435.19** Dès qu’il a connaissance d’un manquement aux obligations imposées à un candidat à la direction sous le régime de la présente section, le directeur général des élections notifie ce fait au parti enregistré qui soutient le candidat.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+#### Gestion financière des candidats à la direction
+
+
+
+##### Attributions de l’agent financier
+
+
+
+**Attributions de l’agent financier**
+
+**435.2** L’agent financier est chargé de la gestion des opérations financières du candidat à la direction pour la course à la direction et de la reddition des comptes sur celles-ci en conformité avec la présente loi.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Compte bancaire**
+
+**435.21** 
+
+- **(1)** L’agent financier d’un candidat à la direction est tenu d’ouvrir, exclusivement pour une course à la direction donnée, un compte bancaire unique auprès d’une institution financière canadienne, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou d’une banque étrangère autorisée, au sens de cet article, ne faisant pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
+
+**Intitulé du compte**
+
+- **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent financier*), agent financier ».
+
+**Opérations financières**
+
+- **(3)** Le compte est débité ou crédité de tous les fonds payés ou reçus pour la course à la direction du candidat.
+
+**Fermeture du compte**
+
+- **(4)** L’agent financier est tenu de le fermer après la fin de la course à la direction ou le retrait ou le décès du candidat, selon le cas :
+	- **a)** dès que l’excédent éventuel de fonds de course à la direction a été cédé en conformité avec la présente loi;
+	- **b)** s’il reste des créances impayées à la fin de la course à la direction, dès qu’il en est disposé en conformité avec la présente loi.
+
+**État de compte définitif**
+
+- **(5)** Après la fermeture du compte, il en produit l’état de clôture auprès du directeur général des élections.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Interdiction : contributions**
+
+**435.22** 
+
+- **(1)** Il est interdit à quiconque, sauf à l’agent de campagne à la direction d’un candidat à la direction, d’accepter une contribution apportée à la campagne à la direction de celui-ci.
+
+**Interdiction : contributions d’un parti ou d’une association**
+
+- **(2)** Il est interdit à l’agent de campagne à la direction d’un candidat à la direction d’accepter la cession de fonds provenant d’un parti enregistré ou d’une association enregistrée, sauf la cession par un parti enregistré de fonds provenant d’une contribution dirigée, au sens du paragraphe 404.3(2).
+
+**Interdiction : paiement des dépenses**
+
+- **(3)** Il est interdit à toute personne ou entité, sauf à l’agent de campagne à la direction d’un candidat à la direction, de payer les dépenses de campagne à la direction de celui-ci, autres que ses dépenses personnelles.
+
+**Interdiction : engagement des dépenses**
+
+- **(4)** Il est interdit à toute personne ou entité, sauf au candidat à la direction ou à un de ses agents de campagne à la direction, d’engager les dépenses de campagne à la direction du candidat.
+
+**Interdiction : dépenses personnelles**
+
+- **(5)** Il est interdit à quiconque, sauf au candidat à la direction ou à son agent financier, de payer les dépenses personnelles du candidat.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+##### Recouvrement des créances
+
+
+
+**Présentation du compte détaillé**
+
+**435.23** 
+
+- **(1)** Toute personne ayant une créance sur un candidat à la direction pour des dépenses de campagne à la direction présente un compte détaillé à l’agent financier du candidat à la direction ou, en l’absence de celui-ci, au candidat lui-même.
+
+**Délai de présentation**
+
+- **(2)** Est déchu de son droit de recouvrer sa créance le créancier qui ne présente pas son compte détaillé dans les trois mois suivant la fin de la course à la direction.
+
+**Décès du créancier**
+
+- **(3)** En cas de décès du créancier avant l’expiration du délai de trois mois, un nouveau délai de trois mois court, pour l’application du paragraphe (1), à compter de la date à laquelle sa succession devient habile à agir pour son compte.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Délai de paiement**
+
+**435.24** 
+
+- **(1)** Les créances relatives à des dépenses de campagne à la direction présentées en conformité avec l’article 435.23 doivent être payées dans les dix-huit mois suivant la fin de la course à la direction.
+
+**Exceptions**
+
+- **(2)** L’obligation de paiement dans le délai de dix-huit mois ne s’applique pas à l’égard des créances :
+	- **a)** pouvant être présentées pendant un nouveau délai au titre du paragraphe 435.23(3);
+	- **b)** visées par une autorisation de paiement au titre de l’article 435.26;
+	- **c)** visées par une ordonnance de paiement au titre de l’article 435.27;
+	- **d)** contestées au titre de l’article 435.28.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Perte du droit d’action**
+
+**435.25** Le contrat par lequel une dépense de campagne à la direction du candidat à la direction est engagée n’est opposable à celui-ci que s’il est conclu par le candidat lui-même, par son agent financier ou par ses agents de campagne à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Paiements tardifs : directeur général des élections**
+
+**435.26** 
+
+- **(1)** Sur demande écrite du créancier d’un candidat à la direction, du candidat ou de son agent financier, le directeur général des élections peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par écrit le candidat à payer, par l’intermédiaire de son agent financier, la créance relative à des dépenses de campagne à la direction dont, selon le cas :
+	- **a)** le compte détaillé n’a pas été présenté en conformité avec l’article 435.23;
+	- **b)** le paiement n’a pas été fait en conformité avec le paragraphe 435.24(1).
+
+**Conditions**
+
+- **(2)** Il peut assortir son autorisation des conditions qu’il estime indiquées.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Paiements tardifs : juge**
+
+**435.27** Sur demande du créancier d’un candidat à la direction, du candidat ou de son agent financier, le juge habile à procéder au dépouillement judiciaire du scrutin peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par ordonnance le candidat à payer, par l’intermédiaire de son agent financier, la créance relative à des dépenses de campagne à la direction dans les cas suivants :
+- **a)** le demandeur démontre qu’il a demandé l’autorisation prévue au paragraphe 435.26(1) et ne l’a pas obtenue, et que le compte détaillé n’a pas été présenté en conformité avec l’article 435.23 ou que le paiement n’a pas été fait dans le délai de quatre mois prévu au paragraphe 435.24(1);
+- **b)** elle n’a pas été payée en conformité avec une autorisation obtenue en application du paragraphe 435.26(1) et le demandeur démontre qu’il n’a pas pu s’y soumettre en raison de circonstances indépendantes de sa volonté.
+La demande est notifiée au directeur général des élections.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Recouvrement de la créance**
+
+**435.28** 
+
+- **(1)** Le créancier d’une créance présentée au candidat à la direction en conformité avec l’article 435.23 peut en poursuivre le recouvrement devant tout tribunal compétent :
+	- **a)** en tout temps, dans le cas où le candidat ou son agent financier refuse de la payer ou la conteste, en tout ou en partie;
+	- **b)** après l’expiration du délai prévu au paragraphe 435.24(1) ou, le cas échéant, prorogé au titre du paragraphe 435.26(1) ou de l’article 435.27, dans tout autre cas.
+
+**Présomption de paiement conforme**
+
+- **(2)** Toute créance payée par l’agent financier du candidat dans le cadre d’une poursuite visée au paragraphe (1) est réputée avoir été payée en conformité avec la présente loi.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Contributions présumées**
+
+**435.29** 
+
+- **(1)** Toute partie d’une créance mentionnée dans le compte visé au paragraphe 435.3(1) qui n’est pas payée après l’expiration d’un délai de dix-huit mois suivant la fin de la course à la direction est réputée constituer une contribution apportée au candidat à la direction à la date à laquelle la dépense a été engagée.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la créance impayée qui, à la date visée au paragraphe (1), selon le cas :
+	- **a)** fait l’objet d’un accord prévoyant son paiement;
+	- **b)** fait l’objet d’une procédure de recouvrement;
+	- **c)** fait l’objet d’une contestation;
+	- **d)** est considérée comme irrécouvrable par le créancier et est radiée de ses comptes en conformité avec ses pratiques comptables habituelles.
+
+**Avis**
+
+- **(3)** Le candidat à la direction ou son agent financier qui est débiteur d’une créance impayée est tenu d’aviser le directeur général des élections avant la date visée au paragraphe (1) de l’application de l’un ou l’autre des alinéas (2)a) à d) à l’égard de sa créance.
+
+**Publication de la liste des contributions**
+
+- **(4)** Dès que possible après la date visée au paragraphe (1), le directeur général des élections publie, selon les modalités qu’il estime indiquées, la liste des contributions visées par ce paragraphe.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+##### Compte de campagne à la direction d’un parti enregistré
+
+
+
+**Production du rapport**
+
+**435.3** 
+
+- **(1)** L’agent financier d’un candidat à la direction produit auprès du directeur général des élections pour une course à la direction :
+	- **a)** un compte de campagne à la direction exposant le financement et les dépenses de campagne à la direction du candidat dressé, pour l’essentiel, sur le formulaire prescrit;
+	- **b)** le rapport du vérificateur afférent, dans le cas où il est nécessaire en application du paragraphe 435.33(1);
+	- **c)** la déclaration de l’agent financier concernant le compte de campagne à la direction, effectuée sur le formulaire prescrit, attestant que le compte est complet et précis;
+	- **d)** la déclaration du candidat concernant le compte, effectuée sur le formulaire prescrit, attestant que le compte est complet et précis.
+
+**Contenu du compte**
+
+- **(2)** Le compte comporte les renseignements suivants à l’égard du candidat :
+	- **a)** un état des dépenses de campagne à la direction;
+	- **b)** un état des créances contestées visées à l’article 435.28;
+	- **c)** un état des créances impayées qui font ou sont susceptibles de faire l’objet des demandes prévues aux articles 435.26 ou 435.27;
+	- **d)** la somme des contributions qu’il a reçues et le nombre de donateurs;
+	- **d.1)** les détails de tous les prêts consentis pour la campagne, y compris les taux d’intérêt, les calendriers de remboursement et le nom du prêteur;
+	- **e)** les nom et adresse de chaque donateur qui a apporté au candidat une ou plusieurs contributions d’une valeur totale supérieure à 200 $, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle le candidat l’a reçue;
+	- **f)** les nom et adresse de chaque donateur d’une contribution comportant une contribution dirigée — au sens du paragraphe 404.3(2) — dont provient une somme cédée au candidat par le parti, les montants de la contribution, de la contribution dirigée et de la somme cédée ainsi que la date de la réception de la contribution par le parti et celle de la cession;
+	- **g)** un état de la valeur commerciale des produits ou des services fournis et des sommes cédées par le candidat à la direction à un parti enregistré ou à une association enregistrée;
+	- **h)** un état des contributions reçues et remboursées à leur donateur ou dont il a été disposé en conformité avec la présente loi.
+
+**Pièces justificatives**
+
+- **(3)** L’agent financier d’un candidat à la direction produit auprès du directeur général des élections, avec le compte de campagne à la direction, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés ainsi que l’état des dépenses personnelles visé au paragraphe 435.36(1).
+
+**Documents supplémentaires**
+
+- **(4)** Dans le cas où le directeur général des élections estime que les documents produits au titre du paragraphe (3) sont insuffisants, il peut obliger l’agent financier à produire, à une date donnée, les documents supplémentaires nécessaires à l’application de ce paragraphe.
+
+**Prêts**
+
+- **(5)** Pour l’application du paragraphe (2), sauf l’alinéa (2)h), le prêt est assimilé à une contribution.
+
+**Délai de production**
+
+- **(6)** Les documents visés au paragraphe (1) doivent être produits auprès du directeur général des élections dans les six mois suivant la fin de la course à la direction.
+
+**Déclaration du candidat**
+
+- **(7)** Le candidat adresse à son agent financier, dans les six mois suivant la fin de la course à la direction, la déclaration visée à l’alinéa (1)d).
+
+**Décès du candidat**
+
+- **(8)** Lorsque le candidat décède avant l’expiration du délai établi au paragraphe (7) sans avoir adressé sa déclaration :
+	- **a)** il est réputé avoir adressé la déclaration en conformité avec ce paragraphe;
+	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Rapports sur les contributions**
+
+**435.31** 
+
+- **(1)** Pour la période commençant au premier jour de la course à la direction et se terminant quatre semaines avant la fin de cette course, l’agent financier d’un candidat à la direction produit auprès du directeur général des élections un rapport comportant les renseignements énumérés aux alinéas 435.3(2)d) à h).
+
+**Rapport hebdomadaire**
+
+- **(2)** Pour les trois semaines suivant la période visée au paragraphe (1), le rapport est produit hebdomadairement.
+
+**Délais**
+
+- **(3)** Les rapports visés aux paragraphes (1) et (2) sont produits avant la fin de la semaine suivant la période sur laquelle ils portent.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Contributions au receveur général**
+
+**435.32** L’agent financier remet sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme égale à la valeur de la contribution reçue par le candidat à la direction s’il manque le nom d’un donateur d’une contribution supérieure à 25 $ ou le nom ou l’adresse d’un donateur d’une contribution supérieure à 200 $.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Rapport du vérificateur**
+
+**435.33** 
+
+- **(1)** Dès que possible après la fin d’une course à la direction, le vérificateur du candidat à la direction qui a accepté des contributions de 5 000 $ ou plus au total ou a engagé des dépenses de campagne à la direction de 5 000 $ ou plus au total fait rapport à l’agent financier du candidat de sa vérification du compte de campagne à la direction dressé pour celle-ci. Il fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+
+**Cas où une déclaration est requise**
+
+- **(2)** Le vérificateur joint à son rapport les déclarations qu’il estime nécessaires dans l’un ou l’autre des cas suivants :
+	- **a)** le compte qu’il a vérifié ne présente pas fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
+	- **b)** le vérificateur n’a pas reçu de l’agent financier ou du candidat tous les renseignements et explications qu’il a exigés;
+	- **c)** sa vérification révèle que l’agent financier n’a pas tenu les écritures comptables appropriées.
+
+**Droit d’accès aux archives**
+
+- **(3)** Il doit avoir accès, à tout moment convenable, à la totalité des documents du candidat et a le droit d’exiger de l’agent financier et du candidat les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+
+**Personnes qui n’ont pas le droit d’agir**
+
+- **(4)** La personne visée au paragraphe 435.1(2) qui est l’associé du vérificateur d’un candidat à la direction, ou l’employé de ce vérificateur ou d’un cabinet dont fait partie ce vérificateur, ne peut prendre part à l’établissement du rapport du vérificateur, sauf dans la mesure prévue au paragraphe (3).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Candidat à l’étranger**
+
+**435.34** 
+
+- **(1)** Par dérogation au paragraphe 435.3(6), lorsqu’un candidat à la direction est à l’étranger au moment où les autres documents visés au paragraphe 435.3(1) sont produits, il dispose de quatorze jours suivant son retour au pays pour faire la déclaration visée à l’alinéa 435.3(1)d) et la produire auprès du directeur général des élections.
+
+**Agent financier non libéré**
+
+- **(2)** Le délai accordé au candidat ne libère pas son agent financier de l’obligation de produire le compte de campagne à la direction et de faire la déclaration visée à l’alinéa 435.3(1)c).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Documents modifiés**
+
+**435.35** 
+
+- **(1)** Après l’expiration du délai visé au paragraphe 435.3(6), l’agent financier produit auprès du directeur général des élections une version modifiée de tout document visé au paragraphe 435.3(1) qui concerne le paiement des créances :
+	- **a)** recouvrables pendant une période prorogée au titre du paragraphe 435.23(3) à cause du décès du créancier;
+	- **b)** visées par une autorisation de paiement au titre de l’article 435.26;
+	- **c)** visées par une ordonnance de paiement au titre de l’article 435.27;
+	- **d)** contestées au titre de l’article 435.28.
+
+**Vérification**
+
+- **(2)** Si les renseignements contenus dans la version modifiée ont déjà fait l’objet de la vérification prévue à l’article 435.33, il n’est pas nécessaire d’y annexer une version modifiée du rapport du vérificateur.
+
+**Délai de production**
+
+- **(3)** L’agent financier produit la version modifiée du document dans les trente jours suivant la date du paiement qui en fait l’objet.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**État des dépenses personnelles**
+
+**435.36** 
+
+- **(1)** Le candidat à la direction adresse à son agent financier, dans les cinq mois suivant la fin de la course à la direction et sur le formulaire prescrit :
+	- **a)** un état des dépenses personnelles qu’il a payées et les pièces justificatives afférentes;
+	- **b)** en l’absence de telles dépenses, une déclaration écrite faisant état de ce fait.
+
+**Décès du candidat**
+
+- **(2)** Le paragraphe (1) ne s’applique pas lorsque le candidat meurt avant l’expiration du délai imparti par ce paragraphe et avant d’avoir fait parvenir à son agent financier l’état ou la déclaration qui y sont visés.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+##### Correction des documents et prorogation des délais
+
+
+
+**Corrections mineures : directeur général des élections**
+
+**435.37** 
+
+- **(1)** Le directeur général des élections peut apporter à tout document visé aux paragraphes 435.3(1) ou 435.35(1) des corrections qui n’en modifient pas le fond sur un point important.
+
+**Demande de correction par le directeur général des élections**
+
+- **(2)** Le directeur général des élections peut demander par écrit à un candidat à la direction ou à son agent financier de corriger, dans le délai imparti, tout document visé aux paragraphes 435.3(1) ou 435.35(1).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Prorogation du délai ou correction : directeur général des élections**
+
+**435.38** 
+
+- **(1)** Sur demande écrite du candidat à la direction ou de son agent financier, le directeur général des élections peut autoriser :
+	- **a)** la prorogation du délai prévu aux paragraphes 435.3(4) ou 435.35(3);
+	- **b)** la correction d’un document visé aux paragraphes 435.3(1) ou 435.35(1) dans le délai imparti.
+
+**Délais**
+
+- **(2)** La demande est présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai prévu aux paragraphes 435.3(4) ou 435.35(3);
+	- **b)** au titre de l’alinéa (1)b), dès que le demandeur prend connaissance de la nécessité d’apporter une correction.
+
+**Motifs**
+
+- **(3)** Le directeur général des élections ne peut toutefois agréer la demande que s’il est convaincu par la preuve produite par l’auteur de la demande que les circonstances qui ont donné lieu à celle-ci ont pour cause, selon le cas :
+	- **a)** la maladie du demandeur;
+	- **b)** l’absence, le décès, la maladie ou la faute professionnelle de l’agent financier ou d’un de ses prédécesseurs;
+	- **c)** l’absence, le décès, la maladie ou la faute professionnelle d’un commis ou préposé de l’agent financier ou d’un de leurs prédécesseurs;
+	- **d)** une inadvertance ou une véritable erreur de fait.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Prorogation du délai ou correction : juge**
+
+**435.39** 
+
+- **(1)** Le candidat à la direction ou son agent financier peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance autorisant :
+	- **a)** le candidat ou son agent financier à se soustraire à la demande prévue au paragraphe 435.37(2);
+	- **b)** la prorogation de délai visée à l’alinéa 435.38(1)a) ou la correction visée à l’alinéa 435.38(1)b).
+La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** La demande peut être présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai imparti en application du paragraphe 435.37(2) ou dans les deux semaines suivant l’expiration de ce délai;
+	- **b)** au titre de l’alinéa (1)b), dans les deux semaines suivant :
+		- **(i)** soit le rejet de la demande de prorogation ou de correction présentée au titre de l’article 435.38,
+		- **(ii)** soit l’expiration du délai prorogé ou imparti au titre des alinéas 435.38(1)a) ou b).
+
+**Motifs**
+
+- **(3)** Le juge ne peut rendre l’ordonnance que s’il est convaincu que des motifs visés au paragraphe 435.38(3) sont applicables.
+
+**Conditions**
+
+- **(4)** Il peut assortir son ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Comparution de l’agent financier**
+
+**435.4** 
+
+- **(1)** Le juge saisi d’une demande présentée au titre des articles 435.39 ou 435.41, s’il est convaincu que le candidat à la direction ou son agent financier n’a pas produit les documents visés au paragraphe 435.3(1) en conformité avec la présente loi par suite du refus ou de l’omission, selon le cas, de l’agent financier ou d’un agent financier antérieur, rend une ordonnance, signifiée à personne à l’auteur du refus ou de l’omission, lui intimant de comparaître devant lui.
+
+**Contenu de l’ordonnance**
+
+- **(2)** Sauf si l’intimé fait valoir des motifs pour lesquels elle ne devrait pas être rendue, l’ordonnance, rendue par écrit, lui enjoint, pour faire en sorte que ces documents soient rendus conformes à la présente loi :
+	- **a)** soit de remédier au refus ou à l’omission, selon les modalités que le juge estime indiquées;
+	- **b)** soit de subir un interrogatoire concernant le refus ou l’omission.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Recours du candidat à la direction : fait d’un agent financier**
+
+**435.41** Le candidat à la direction peut demander à un juge habile à procéder au dépouillement d’un scrutin de rendre une ordonnance le dégageant de toute responsabilité ou conséquence, au titre d’une loi fédérale, découlant de tout fait — acte ou omission — accompli par son agent financier, s’il établit :
+- **a)** soit que le fait a été accompli sans son assentiment ou sa connivence;
+- **b)** soit qu’il a pris toutes les mesures raisonnables pour empêcher son accomplissement.
+La demande est notifiée au directeur général des élections.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Impossibilité de production des documents : juge**
+
+**435.42** 
+
+- **(1)** Le candidat à la direction ou son agent financier peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance soustrayant l’agent financier à l’obligation de produire les documents visés aux paragraphes 435.3(1) ou 435.35(1). La demande est notifiée au directeur général des élections.
+
+**Motifs**
+
+- **(2)** Le juge ne rend l’ordonnance que s’il est convaincu que le demandeur ne peut produire les documents à cause de leur destruction par force majeure, notamment un désastre tel une inondation ou un incendie.
+
+**Date de la libération**
+
+- **(3)** Pour l’application de la présente loi, le demandeur est libéré de son obligation visée au paragraphe (1) à la date à laquelle l’ordonnance est rendue.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Interdiction : compte faux ou trompeur ou incomplet**
+
+**435.43** Il est interdit au candidat à la direction ou à son agent financier de produire auprès du directeur général des élections un document visé aux paragraphes 435.3(1) ou 435.35(1) dans les cas suivants :
+- **a)** il sait ou devrait normalement savoir que le document contient des renseignements faux ou trompeurs sur un point important;
+- **b)** le document ne contient pas, pour l’essentiel, tous les renseignements prévus au paragraphe 435.3(2) ou à inclure dans la version modifiée du compte au titre du paragraphe 435.35(1).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+##### Excédent de fonds de course à la direction
+
+
+
+**Calcul de l’excédent**
+
+**435.44** L’excédent des fonds de course à la direction qu’un candidat à la direction reçoit à l’égard d’une course à la direction est l’excédent de la somme des contributions acceptées par les agents de campagne du candidat, des sommes visées au paragraphe 404.3(3) et de toute autre recette non remboursable du candidat au titre de sa campagne à la direction sur les dépenses de campagne à la direction payées en conformité avec la présente loi et les cessions visées à l’alinéa 404.2(3)a).
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Évaluation de l’excédent**
+
+**435.45** 
+
+- **(1)** Dans le cas où il estime que les fonds de course à la direction d’un candidat à la direction comportent un excédent, le directeur général des élections remet à l’agent financier de celui-ci une estimation de l’excédent.
+
+**Initiative de l’agent financier**
+
+- **(2)** L’agent financier d’un candidat à la direction dont les fonds de course à la direction comportent un excédent et qui n’a pas reçu l’estimation prévue au paragraphe (1) est tenu d’en disposer dans les soixante jours suivant la production du compte de campagne à la direction.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Destination de l’excédent**
+
+**435.46** 
+
+- **(1)** L’agent financier dispose de l’excédent des fonds de course à la direction dans les soixante jours suivant la réception de l’estimation.
+
+**Destinataires de l’excédent**
+
+- **(2)** L’excédent est cédé au parti enregistré qui tient la course à la direction ou à une association enregistrée du parti.
+> 2003, ch. 19, art. 40.
+
+
+
+
+
+**Avis de destination**
+
+**435.47** 
+
+- **(1)** Dans les sept jours après avoir disposé de l’excédent, l’agent financier en avise le directeur général des élections, sur le formulaire prescrit. L’avis comporte la mention de la date, du montant de la disposition et de son destinataire.
+
+**Publication**
+
+- **(2)** Dès que possible après la disposition de l’excédent, le directeur général des élections publie, selon les modalités qu’il estime indiquées, l’avis prévu au paragraphe (1).
+> 2003, ch. 19, art. 40.
+
 
 
 
@@ -7249,11 +9199,11 @@ La demande est notifiée au directeur général des élections.
 
 **437** 
 
-- **(1)** L’agent officiel d’un candidat est tenu d’ouvrir un compte bancaire unique auprès d’une institution financière canadienne, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou d’une banque étrangère autorisée, au sens de cet article, ne faisant pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
+- **(1)** L’agent officiel d’un candidat est tenu d’ouvrir, pour les besoins exclusifs de la campagne électorale de celui-ci, un compte bancaire unique auprès d’une institution financière canadienne, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou d’une banque étrangère autorisée, au sens de cet article, ne faisant pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
 
 **Intitulé du compte**
 
-- **(2)** L’intitulé du compte précise la date de son ouverture et le nom du titulaire avec la mention suivante : « (*nom de l’agent officiel*), agent officiel de (*nom du candidat et année de l’élection*) ».
+- **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent officiel*), agent officiel ».
 
 **Opérations financières**
 
@@ -7261,46 +9211,45 @@ La demande est notifiée au directeur général des élections.
 
 **Fermeture du compte**
 
-- **(4)** L’agent officiel est tenu de le fermer après l’élection, le retrait ou le décès du candidat, dès que l’excédent éventuel de fonds électoraux a été dévolu en conformité avec la présente loi.
+- **(4)** Après l’élection, le retrait ou le décès du candidat, l’agent officiel est tenu de fermer le compte dès qu’il a été disposé, en conformité avec la présente loi, de l’excédent éventuel de fonds électoraux ou des créances impayées.
 
 **État de compte définitif**
 
 - **(5)** Après la fermeture du compte, il en produit auprès du directeur général des élections l’état de clôture.
+> 2000, ch. 9, art. 437; 2003, ch. 19, art. 41.
 
 
 
-
-**Interdiction : provenance des contributions**
 
 **438** 
 
-- **(1)** Il est interdit à toute personne ou entité, sauf à une association de circonscription et à un parti enregistré :
-	- **a)** soit d’apporter à la campagne électorale d’un candidat une contribution qui provient des fonds, des biens ou des services d’une autre personne ou entité;
-	- **b)** soit de lui faire un prêt qui provient de fonds d’une autre personne ou entité.
+- **(1)** [Abrogé, 2003, ch. 19, art. 42]
 
-**Interdiction : réception des contributions**
+**Interdiction : réception des contributions**
 
 - **(2)** Il est interdit à quiconque, sauf à l’agent officiel, de recevoir une contribution pour le compte d’un candidat.
 
-**Interdiction : reçus d’impôt**
+**Interdiction : reçus d’impôt**
 
 - **(3)** Il est interdit à quiconque, sauf à l’agent officiel, de délivrer aux donateurs de contributions monétaires destinées à un candidat des reçus officiels pour l’application du paragraphe 127(3) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
-**Interdiction : paiement des dépenses**
+**Interdiction : paiement des dépenses**
 
 - **(4)** Il est interdit à toute personne ou entité, sauf à l’agent officiel, de payer les dépenses de campagne du candidat, autres que les menues dépenses visées à l’article 411 ou les dépenses personnelles du candidat.
 
-**Interdiction : engagement des dépenses**
+**Interdiction : engagement des dépenses**
 
 - **(5)** Il est interdit à toute personne ou entité, sauf à l’agent officiel, au candidat et au mandataire visé à l’article 446, d’engager les dépenses de campagne du candidat.
 
-**Interdiction : dépenses personnelles**
+**Interdiction : dépenses personnelles**
 
 - **(6)** Il est interdit à quiconque, sauf au candidat et à son agent officiel, de payer les dépenses personnelles du candidat.
 
 **Exceptions**
 
 - **(7)** Les paragraphes (4) et (5) ne s’appliquent pas à l’agent enregistré d’un parti enregistré qui paie ou engage des dépenses de campagne du chef du parti.
+> 2000, ch. 9, art. 438; 2003, ch. 19, art. 42.
+
 
 
 
@@ -7515,7 +9464,7 @@ La demande est notifiée au directeur général des élections.
 
 **450** 
 
-- **(1)** Tout montant d’une créance, mentionné dans le compte visé au paragraphe 451(1), qui n’est pas payé après l’expiration d’un délai de dix-huit mois suivant le jour du scrutin est réputé, à compter de cette date, constituer une contribution apportée au candidat.
+- **(1)** Tout montant d’une créance, mentionné dans le compte visé au paragraphe 451(1), qui n’est pas payé après l’expiration d’un délai de dix-huit mois suivant le jour du scrutin est réputé constituer une contribution apportée au candidat à la date à laquelle la dépense a été engagée.
 
 **Exception**
 
@@ -7532,6 +9481,8 @@ La demande est notifiée au directeur général des élections.
 **Publication de la liste des contributions**
 
 - **(4)** Dès que possible après la date visée au paragraphe (1), le directeur général des élections publie, selon les modalités qu’il estime indiquées, la liste des contributions visées par ce paragraphe.
+> 2000, ch. 9, art. 450; 2003, ch. 19, art. 43.
+
 
 
 
@@ -7547,7 +9498,7 @@ La demande est notifiée au directeur général des élections.
 - **(1)** L’agent officiel d’un candidat produit auprès du directeur général des élections pour une élection :
 	- **a)** un compte de campagne électorale exposant le financement et les dépenses de campagne du candidat dressé, pour l’essentiel, sur le formulaire prescrit;
 	- **b)** le rapport du vérificateur y afférent prévu par l’article 453;
-	- **c)** les pièces justificatives concernant ces dépenses, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés;
+	- **c)** [Abrogé, 2003, ch. 19, art. 44]
 	- **d)** la déclaration de l’agent officiel concernant le compte de campagne électorale, effectuée sur le formulaire prescrit;
 	- **e)** la déclaration du candidat concernant le compte, effectuée sur le formulaire prescrit.
 
@@ -7556,16 +9507,27 @@ La demande est notifiée au directeur général des élections.
 - **(2)** Le compte comporte les renseignements suivants à l’égard du candidat :
 	- **a)** un état des dépenses électorales;
 	- **b)** un état des dépenses de campagne, autres que les dépenses électorales;
-	- **c)** l’état des dépenses personnelles visé au paragraphe 456(1);
+	- **c)** [Abrogé, 2003, ch. 19, art. 44]
 	- **d)** un état des créances contestées visées à l’article 449;
 	- **e)** un état des créances impayées qui font ou sont susceptibles de faire l’objet des demandes prévues aux articles 447 ou 448;
-	- **f)** un état, par catégorie, des contributions apportées par les particuliers, les entreprises, les organisations commerciales, les gouvernements, les syndicats, les personnes morales sans capital-actions, autres que les syndicats, et les organismes ou associations, autres que les syndicats, non constitués en personne morale;
+	- **f)** un état, par catégorie, des contributions apportées par les particuliers, les personnes morales, les syndicats et les associations au sens du paragraphe 405.3(3);
 	- **g)** le nombre des donateurs de chacune des catégories visées à l’alinéa f);
-	- **h)** sous réserve de l’alinéa h.1), les nom et adresse de chaque donateur visé à l’alinéa f) qui a apporté une ou plusieurs contributions d’une valeur totale supérieure à 200 $ à l’agent officiel directement ou par l’intermédiaire du parti enregistré qui soutient le candidat, d’une fiducie de ce parti, d’une fiducie constituée pour l’élection du candidat ou d’une association de circonscription et la somme de ces contributions;
+	- **g.1)** dans le cas où le donateur est une association au sens du paragraphe 405.3(3) :
+		- **(i)** les nom et adresse de l’association, le montant de sa contribution et la date à laquelle le candidat l’a reçue,
+		- **(ii)** les nom et adresse de chaque particulier qui a fourni une somme comprise dans la contribution, le montant de cette somme et la date à laquelle elle a été fournie à l’association;
+	- **h)** les nom et adresse de tout autre donateur visé à l’alinéa f) qui a apporté une ou plusieurs contributions d’une valeur totale supérieure à 200 $ au candidat, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle il l’a reçue;
 	- **h.1)** dans le cas où le donateur visé à l’alinéa h) est une société à désignation numérique, le nom du premier dirigeant ou du président de la société;
-	- **i)** en l’absence des renseignements sur l’identité d’un donateur qui a apporté sa contribution par l’intermédiaire d’une fiducie constituée pour l’élection du candidat ou d’une association de circonscription, les nom et adresse des donateurs, classés selon les catégories visées à l’alinéa f), de la totalité de telles contributions apportées à la fiducie ou à l’association de circonscription depuis l’élection précédant celle sur laquelle porte le compte et, si le donateur est une société à dénomination numérique, le nom du premier dirigeant ou du président de celle-ci, comme si elles avaient été apportées au candidat;
-	- **j)** un état des sommes d’argent cédées par le candidat à l’association de circonscription du parti enregistré qui le soutient ou à tel parti;
+	- **i)** un état de la valeur commerciale des produits et services fournis et des fonds cédés par le candidat à un parti enregistré, à une association enregistrée ou à sa campagne à titre de candidat à l’investiture;
+	- **j)** un état de la valeur commerciale des produits et services fournis et des fonds cédés au candidat par un parti enregistré, par une association enregistrée ou par un candidat à l’investiture;
 	- **k)** un état des contributions reçues et remboursées à leur donateur ou dont l’agent officiel a disposé en conformité avec la présente loi.
+
+**Pièces justificatives**
+
+- **(2.1)** L’agent officiel d’un candidat produit auprès du directeur général des élections, avec le compte de campagne électorale, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt, les chèques annulés, les états et déclarations produits auprès de l’agent officiel au titre de l’alinéa 405.3(2)c) et du paragraphe 405.3(4) ainsi que l’état des dépenses personnelles visé au paragraphe 456(1).
+
+**Documents supplémentaires**
+
+- **(2.2)** Dans le cas où le directeur général des élections estime que les documents produits au titre du paragraphe (2.1) sont insuffisants, il peut ordonner à l’agent officiel de produire, à une date donnée, les documents supplémentaires nécessaires à l’application de ce paragraphe.
 
 **Prêts**
 
@@ -7587,6 +9549,8 @@ La demande est notifiée au directeur général des élections.
 	- **a)** il est réputé avoir adressé la déclaration en conformité avec ce paragraphe;
 	- **b)** l’agent officiel est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1);
 	- **c)** le directeur général des élections est réputé, pour l’application des articles 464, 466 et 467, avoir reçu la déclaration.
+> 2000, ch. 9, art. 451; 2003, ch. 19, art. 44.
+
 
 
 
@@ -7595,7 +9559,9 @@ La demande est notifiée au directeur général des élections.
 
 **452** L’agent officiel remet sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme d’argent égale à la valeur de la contribution reçue par le candidat dans les cas suivants :
 - **a)** il ne peut classer le donateur dans une catégorie visée à l’alinéa 451(2)f);
-- **b)** il manque le nom ou l’adresse du donateur d’une contribution supérieure à 200 $ visée à l’alinéa 451(2)h) ou le nom du premier dirigeant ou du président du donateur visé à l’alinéa 451(2)h.1).
+- **b)** il manque le nom d’un donateur d’une contribution supérieure à 25 $, le nom ou l’adresse du donateur de contributions d’une valeur totale supérieure à 200 $ ou le nom du premier dirigeant ou du président du donateur visé à l’alinéa 451(2)h.1).
+> 2000, ch. 9, art. 452; 2003, ch. 19, art. 45.
+
 
 
 
@@ -7604,7 +9570,7 @@ La demande est notifiée au directeur général des élections.
 
 **453** 
 
-- **(1)** Dès que possible après une élection, le vérificateur du candidat fait rapport à l’agent officiel de sa vérification du compte de campagne électorale dressé pour cette élection. Il fait les vérifications qui lui permettent d’établir si, à son avis, le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+- **(1)** Dès que possible après une élection, le vérificateur du candidat fait rapport à l’agent officiel de sa vérification du compte de campagne électorale dressé pour cette élection. Il fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
 
 **Liste de contrôle**
 
@@ -7624,6 +9590,8 @@ La demande est notifiée au directeur général des élections.
 **Personnes qui n’ont pas le droit d’agir**
 
 - **(5)** Une personne visée au paragraphe 85(2) qui est associée au vérificateur d’un candidat ou salarié de ce vérificateur ou d’un cabinet dont fait partie tel vérificateur, ne peut prendre part à l’établissement du rapport du vérificateur, sauf dans la mesure prévue au paragraphe (4).
+> 2000, ch. 9, art. 453; 2003, ch. 19, art. 46.
+
 
 
 
@@ -7764,10 +9732,12 @@ La demande est notifiée au directeur général des élections.
 
 **Recours du candidat : fait d’un agent officiel**
 
-**461** Le candidat peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance le dégageant de toute responsabilité ou conséquence, au titre d’une loi fédérale, découlant de tout fait — acte ou omission — accompli par son agent officiel et donnant lieu à une autorisation prévue au paragraphe 458(1) ou à l’ordonnance prévue au paragraphe 459(1), s’il établit :
+**461** Le candidat peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance le dégageant de toute responsabilité ou conséquence, au titre d’une loi fédérale, découlant de tout fait — acte ou omission — accompli par son agent officiel, s’il établit :
 - **a)** soit que le fait a été accompli sans son assentiment ou sa connivence;
 - **b)** soit qu’il a pris toutes les mesures raisonnables pour empêcher son accomplissement.
 La demande est notifiée au directeur général des élections.
+> 2000, ch. 9, art. 461; 2003, ch. 19, art. 47.
+
 
 
 
@@ -7814,18 +9784,20 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Dès qu’il reçoit le rapport d’élection avec le bref pour une circonscription, le directeur général des élections remet au receveur général un certificat précisant :
 	- **a)** le nom du candidat élu, le cas échéant;
-	- **b)** le nom des candidats qui ont obtenu au moins 15 % des votes validement exprimés à cette élection;
+	- **b)** le nom des candidats qui ont obtenu au moins 10 % des votes validement exprimés à cette élection;
 	- **c)** le montant qui représente 15 % du plafond des dépenses électorales établi au titre de l’article 440.
 
 **Remboursement partiel**
 
-- **(2)** Sur réception du certificat, le receveur général verse, sur le Trésor, le montant qui y est indiqué à l’agent officiel des candidats qui y sont mentionnés au titre du remboursement partiel de leurs dépenses électorales et de leurs dépenses personnelles.
+- **(2)** Sur réception du certificat, le receveur général verse, sur le Trésor, le montant qui y est indiqué à l’agent officiel des candidats qui y sont mentionnés au titre du remboursement partiel de leurs dépenses électorales et de leurs dépenses personnelles. Le versement peut aussi être fait à la personne désignée par l’agent officiel.
 
 **Remboursement de l’excédent**
 
-- **(3)** L’agent officiel est tenu de remettre sans délai au receveur général tout montant du remboursement qui excède 50 % de la somme des éléments suivants :
+- **(3)** L’agent officiel est tenu de remettre sans délai au receveur général tout montant du remboursement qui excède 60 % de la somme des éléments suivants :
 	- **a)** les dépenses personnelles payées par le candidat;
 	- **b)** les dépenses électorales du candidat payées et exposées dans son compte de campagne électorale.
+> 2000, ch. 9, art. 464; 2003, ch. 19, art. 48.
+
 
 
 
@@ -7843,29 +9815,31 @@ La demande est notifiée au directeur général des élections.
 **Calcul du dernier versement**
 
 - **(2)** Le montant visé à l’alinéa (1)d) est le moins élevé des montants suivants :
-	- **a)** 50 % de la somme des dépenses électorales payées et des dépenses personnelles payées, exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 464;
-	- **b)** 50 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 440, moins le remboursement partiel déjà reçu au titre de l’article 464.
+	- **a)** 60 % de la somme des dépenses électorales payées et des dépenses personnelles payées, exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 464;
+	- **b)** 60 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 440, moins le remboursement partiel déjà reçu au titre de l’article 464.
 
 **Versement à l’agent officiel**
 
-- **(3)** Sur réception du certificat, le receveur général verse à l’agent officiel, sur le Trésor, le montant visé à l’alinéa (1)d) relativement au candidat.
+- **(3)** Sur réception du certificat, le receveur général verse à l’agent officiel, sur le Trésor, le montant visé à l’alinéa (1)d) relativement au candidat. Le versement peut aussi être fait à la personne désignée par l’agent officiel.
 > 2000, ch. 9, art. 465; 2003, ch. 19, art. 49.
 
 
 
 
 
-**Attestation de conformité**
-
-**466** Sur réception des documents visés au paragraphe 451(1) et, le cas échéant, au paragraphe 455(1) à l’égard d’un candidat qui n’a pas droit à un remboursement au titre du paragraphe 464(1), le directeur général des élections remet au receveur général une attestation de conformité établissant que le candidat et son agent officiel ont satisfait aux exigences de la présente partie.
-
-
-
-
 **Honoraires du vérificateur**
 
-**467** Sur réception du certificat visé à l’article 465 ou de l’attestation de conformité visée à l’article 466, le receveur général paie au vérificateur, sur le Trésor, une somme au titre des honoraires que celui-ci a facturés, non inférieure à 250 $, représentant 3 % des dépenses électorales du candidat, jusqu’à concurrence de 1 500 $.
-> 2000, ch. 9, art. 467; 2001, ch. 21, art. 23(F).
+**466** Sur réception des documents visés au paragraphe 451(1) et, le cas échéant, au paragraphe 455(1) et du rapport du vérificateur ainsi que d’une copie de la facture de celui-ci pour le rapport — dans la mesure où elle n’est pas inférieure à 250 $ — , le directeur général des élections transmet au receveur général un certificat indiquant le montant des dépenses engagées pour la vérification, représentant 3 % des dépenses électorales du candidat, jusqu’à concurrence de 1 500 $.
+> 2000, ch. 9, art. 466; 2003, ch. 19, art. 50.
+
+
+
+
+
+**Paiement**
+
+**467** Sur réception du certificat, le receveur général paie au vérificateur, sur le Trésor, la somme qui y est précisée.
+> 2000, ch. 9, art. 467; 2001, ch. 21, art. 23(F); 2003, ch. 19, art. 50.
 
 
 
@@ -7876,12 +9850,12 @@ La demande est notifiée au directeur général des élections.
 **468** 
 
 - **(1)** Le directeur général des élections remet au receveur général un certificat où figure le nom de :
-	- **a)** tous les candidats — y compris le candidat qui s’est désisté en application du paragraphe 74(1) — dont il est convaincu que l’agent officiel a produit les documents visés au paragraphe 451(1) et remis au directeur du scrutin, en conformité avec le paragraphe 478(2), les exemplaires inutilisés des formulaires visés à l’article 477;
+	- **a)** tous les candidats — y compris le candidat qui s’est désisté en application du paragraphe 74(1) — dont il est convaincu que l’agent officiel a produit les documents visés à l’article 451 et remis au directeur du scrutin, en conformité avec le paragraphe 478(2), les exemplaires inutilisés des formulaires visés à l’article 477;
 	- **b)** tout candidat qui est décédé avant la clôture de tous les bureaux de scrutin.
 
 **Versement à l’agent officiel**
 
-- **(2)** Sur réception du certificat, le receveur général verse, sur le Trésor, le montant du cautionnement de candidature à l’agent officiel de chaque candidat qui y est énuméré.
+- **(2)** Sur réception du certificat, le receveur général verse, sur le Trésor, le montant du cautionnement de candidature à l’agent officiel de chaque candidat qui y est énuméré. Le versement peut aussi être fait à une personne désignée par l’agent officiel.
 
 **Décès**
 
@@ -7890,6 +9864,8 @@ La demande est notifiée au directeur général des élections.
 **Confiscation au profit de Sa Majesté**
 
 - **(4)** Tout cautionnement de candidature qui n’est pas remis au titre du présent article est confisqué au profit de Sa Majesté du chef du Canada.
+> 2000, ch. 9, art. 468; 2003, ch. 19, art. 51.
+
 
 
 
@@ -7897,8 +9873,10 @@ La demande est notifiée au directeur général des élections.
 **Décès du candidat**
 
 **469** Si le candidat soutenu par un parti enregistré décède au cours de la période commençant à 14 h le cinquième jour précédant le jour de clôture et se terminant le jour du scrutin :
-- **a)** il est réputé avoir obtenu au moins 15 % des votes validement exprimés dans cette circonscription pour l’application de l’article 464;
+- **a)** il est réputé avoir obtenu au moins 10 % des votes validement exprimés dans cette circonscription pour l’application de l’article 464;
 - **b)** le directeur général des élections fixe, à l’égard des autres candidats dans cette circonscription, le pourcentage figurant dans le certificat visé au paragraphe 464(1) à 22,5 %.
+> 2000, ch. 9, art. 469; 2003, ch. 19, art. 52.
+
 
 
 
@@ -7909,8 +9887,8 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Dans le cas où le bref est retiré en application de l’article 59 ou réputé l’être en application de l’article 551, la présente partie s’applique aux dépenses de campagne des candidats de la circonscription avec les adaptations suivantes :
 	- **a)** le scrutin est réputé avoir eu lieu dans cette circonscription à la date de la publication de l’avis dans la Gazette du Canada;
-	- **b)** chaque candidat est réputé avoir obtenu au moins 15 % des votes qui auraient été validement exprimés dans la circonscription;
-	- **c)** sur réception d’un certificat visé aux articles 464 ou 465, le receveur général verse à l’agent officiel du candidat, sur le Trésor, le moins élevé des montants suivants :
+	- **b)** chaque candidat est réputé avoir obtenu au moins 10 % des votes qui auraient été validement exprimés dans la circonscription;
+	- **c)** sur réception d’un certificat visé aux articles 464 ou 465, le receveur général verse à l’agent officiel du candidat, sur le Trésor — le versement pouvant aussi être fait à la personne désignée par l’agent officiel — , le moins élevé des montants suivants :
 		- **(i)** le montant qui représente le plafond des dépenses électorales établi pour cette circonscription au titre de l’article 440,
 		- **(ii)** l’excédent des dépenses électorales et des dépenses personnelles du candidat, exposé dans son compte de campagne électorale, sur la valeur totale des contributions que le candidat a reçues.
 
@@ -7919,6 +9897,8 @@ La demande est notifiée au directeur général des élections.
 - **(2)** Malgré le paragraphe (1), aucun candidat n’a droit à un remboursement de ses dépenses électorales ou de ses dépenses personnelles :
 	- **a)** dans le cas où l’avis de retrait du bref est publié avant le jour de clôture;
 	- **b)** lorsque ses dépenses électorales, exposées dans son compte de campagne électorale, ne dépassent pas la valeur des contributions reçues par son agent officiel.
+> 2000, ch. 9, art. 470; 2003, ch. 19, art. 53.
+
 
 
 
@@ -7944,8 +9924,11 @@ La demande est notifiée au directeur général des élections.
 **Cessions**
 
 - **(3)** Les cessions effectuées par un candidat s’entendent de ce qui suit :
-	- **a)** les fonds qu’il cède, pendant la période électorale, au parti enregistré qui le soutient ou à une association de circonscription du parti dans sa circonscription;
-	- **b)** tout montant d’un remboursement visé aux alinéas (2)b) et c) que le candidat attribue au parti enregistré.
+	- **a)** les fonds qu’il cède, pendant la période électorale, à un parti enregistré ou à une association enregistrée;
+	- **b)** tout montant d’un remboursement visé aux alinéas (2)b) et c) que le candidat cède au parti enregistré;
+	- **c)** les fonds cédés par un candidat au titre de l’alinéa 404.2(2)d).
+> 2000, ch. 9, art. 471; 2003, ch. 19, art. 54.
+
 
 
 
@@ -7974,8 +9957,10 @@ La demande est notifiée au directeur général des élections.
 **Destinataires de l’excédent**
 
 - **(2)** L’excédent est dévolu :
-	- **a)** dans le cas d’un candidat soutenu par un parti enregistré, au parti ou à une association de circonscription du parti dans sa circonscription;
+	- **a)** dans le cas d’un candidat soutenu par un parti enregistré, au parti ou à l’association enregistrée du parti dans sa circonscription;
 	- **b)** dans tout autre cas, au receveur général.
+> 2000, ch. 9, art. 473; 2003, ch. 19, art. 55.
+
 
 
 
@@ -8006,11 +9991,11 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Interdiction : cession de contributions**
+**Interdiction : cession de contributions**
 
-**476** Il est interdit à un agent enregistré d’un parti enregistré et à une association de circonscription d’un parti enregistré de céder des contributions à un candidat après le jour du scrutin, sauf :
-- **a)** pour payer des créances impayées exposées dans le compte de campagne électorale du candidat;
-- **b)** avec l’autorisation du directeur général des élections ou d’un tribunal au titre de la présente partie.
+**476** Il est interdit à l’agent enregistré d’un parti enregistré, à l’agent financier d’une association enregistrée ou à l’agent financier d’un candidat à l’investiture de céder des fonds à un candidat après le jour du scrutin, sauf pour payer des créances relatives à la campagne électorale de ce candidat.
+> 2000, ch. 9, art. 476; 2003, ch. 19, art. 56.
+
 
 
 
@@ -8039,6 +10024,775 @@ La demande est notifiée au directeur général des élections.
 **Cas particulier**
 
 - **(3)** Le directeur général des élections peut désigner, parmi les formulaires à fournir au titre du paragraphe (1), ceux qui ne peuvent être fournis qu’à l’agent officiel d’un candidat dont la candidature a été confirmée en application du paragraphe 71(1).
+
+
+
+
+**SECTION 5** 
+### Rapport de course à l’investiture et gestion financière des candidats à l’investiture
+
+
+
+#### Rapport de course à l’investiture
+
+
+
+**Définitions**
+
+**478.01** Les définitions qui suivent s’appliquent à la présente section.
+
+***date de désignation*** Date à laquelle une course à l’investiture arrive à sa conclusion.
+
+***dépense personnelle*** Toute dépense raisonnable engagée par un candidat à l’investiture ou pour son compte dans le cadre d’une course à l’investiture, notamment :
+- **a)** au titre du déplacement et du séjour;
+- **b)** au titre de la garde d’un enfant;
+- **c)** au titre de la garde d’une personne, ayant une incapacité physique ou mentale, qui est habituellement sous sa garde;
+- **d)** dans le cas d’un candidat qui a une déficience, au titre des dépenses personnelles supplémentaires liées à celle-ci.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Notification de la course à l’investiture**
+
+**478.02** 
+
+- **(1)** Lorsqu’est tenue une course à l’investiture, le parti enregistré, ou l’association enregistrée dans le cas où la course a été tenue par elle, dépose auprès du directeur général des élections, dans les trente jours suivant la date de désignation, un rapport comportant :
+	- **a)** les nom de la circonscription, de l’association enregistrée et du parti enregistré;
+	- **b)** la date du début de la course à l’investiture et la date de désignation;
+	- **c)** les nom et adresse des candidats à l’investiture, à la date de désignation, et de leur agent financier;
+	- **d)** le nom de la personne qui a obtenu l’investiture.
+
+**Notification**
+
+- **(2)** Le directeur général des élections communique à chaque candidat à l’investiture et selon les modalités qu’il estime indiquées les renseignements visés au paragraphe (1) qui le concernent.
+
+**Publication**
+
+- **(3)** Il publie un avis contenant les renseignements visés au paragraphe (1), selon les modalités qu’il estime indiquées.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Présomption**
+
+**478.03** Pour l’application de la présente partie, le candidat à l’investiture est présumé avoir été candidat à l’investiture à compter du moment où il accepte une contribution ou engage une dépense de campagne d’investiture.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Nomination de l’agent financier**
+
+**478.04** Tout candidat à l’investiture est tenu, avant d’accepter une contribution ou d’engager une dépense de campagne d’investiture, de nommer un agent financier.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Inadmissibilité : agents financiers**
+
+**478.05** 
+
+- **(1)** Ne sont pas admissibles à la charge d’agent financier d’un candidat à l’investiture :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** les candidats et les candidats à l’investiture;
+	- **c)** tout vérificateur nommé conformément à la présente loi;
+	- **d)** les personnes qui ne sont pas des électeurs;
+	- **e)** les faillis non libérés;
+	- **f)** les personnes qui n’ont pas pleine capacité de contracter dans leur province de résidence habituelle.
+
+**Nomination d’un agent membre d’une société**
+
+- **(2)** Un membre d’une société nommée conformément à la présente loi à titre de vérificateur d’un parti enregistré peut être nommé agent d’un candidat à l’investiture.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Consentement**
+
+**478.06** Le candidat à l’investiture qui nomme un agent financier est tenu d’obtenir de celui-ci une déclaration signée de sa main attestant son acceptation de la charge.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Remplaçant**
+
+**478.07** En cas de décès, d’incapacité, de démission ou de destitution de son agent financier, le candidat à l’investiture est tenu de lui nommer un remplaçant sans délai.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Un seul agent financier**
+
+**478.08** Les candidats à l’investiture ne peuvent avoir plus d’un agent financier à la fois.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Interdiction : agent financier**
+
+**478.09** Il est interdit à toute personne d’agir comme agent financier d’un candidat à l’investiture alors qu’elle n’est pas admissible à cette charge.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Modification des renseignements**
+
+**478.1** 
+
+- **(1)** Dans les trente jours suivant la modification des renseignements visés à l’alinéa 478.02(1)c), le candidat à l’investiture produit auprès du directeur général des élections un rapport écrit faisant état des modifications.
+
+**Agent financier**
+
+- **(2)** Si les modifications concernent le remplacement de l’agent financier du candidat, le rapport est assorti d’une copie de la déclaration d’acceptation de la charge prévue à l’article 478.06.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+#### Gestion financière des candidats à l’investiture
+
+
+
+##### Attributions de l’agent financier
+
+
+
+**Attributions de l’agent financier**
+
+**478.11** L’agent financier est chargé de la gestion des opérations financières du candidat à l’investiture pour la course à l’investiture et de la reddition des comptes sur celles-ci en conformité avec la présente loi.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Compte bancaire**
+
+**478.12** 
+
+- **(1)** L’agent financier d’un candidat à l’investiture est tenu d’ouvrir, pour les besoins exclusifs de la course à l’investiture de celui-ci, un compte bancaire unique auprès d’une institution financière canadienne, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou d’une banque étrangère autorisée, au sens de cet article, ne faisant pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
+
+**Intitulé du compte**
+
+- **(2)** L’intitulé du compte précise le nom du titulaire avec la mention suivante : « (*nom de l’agent financier*), agent financier ».
+
+**Opérations financières**
+
+- **(3)** Le compte est débité ou crédité de tous les fonds payés ou reçus pour la course à l’investiture du candidat.
+
+**Fermeture du compte**
+
+- **(4)** Après la date de désignation, l’agent financier est tenu de fermer le compte dès qu’il a été disposé, en conformité avec la présente loi, de l’excédent de fonds de course à l’investiture ou des créances impayées.
+
+**État de compte définitif**
+
+- **(5)** Après la fermeture du compte, il en produit auprès du directeur général des élections l’état de clôture.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Interdiction : contributions**
+
+**478.13** 
+
+- **(1)** Il est interdit à quiconque, sauf à l’agent financier d’un candidat à l’investiture, d’accepter une contribution apportée à la campagne d’investiture de celui-ci.
+
+**Interdiction : contributions d’un parti ou d’une association**
+
+- **(2)** Il est interdit à l’agent financier d’un candidat à l’investiture d’accepter des fonds cédés à celui-ci par un parti enregistré ou une association enregistrée.
+
+**Interdiction : paiement des dépenses**
+
+- **(3)** Il est interdit à toute personne ou entité, sauf à l’agent financier d’un candidat à l’investiture, de payer les dépenses de campagne d’investiture de celui-ci, autres que ses dépenses personnelles.
+
+**Interdiction : engagement des dépenses**
+
+- **(4)** Il est interdit à toute personne ou entité, sauf au candidat à l’investiture ou à son agent financier, d’engager les dépenses de campagne d’investiture du candidat.
+
+**Interdiction : dépenses personnelles**
+
+- **(5)** Il est interdit à quiconque, sauf au candidat à l’investiture ou à son agent financier, de payer les dépenses personnelles du candidat.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Plafond des dépenses électorales**
+
+**478.14** Le plafond des dépenses de campagne d’investiture — à l’exclusion des dépenses personnelles au sens de l’article 478.01 — pour les candidats à l’investiture dans une circonscription est le suivant :
+- **a)** 20 % du plafond des dépenses électorales établi en application de l’article 440 pour l’élection d’un candidat dans cette circonscription lors de l’élection générale précédente, dans le cas où les limites de la circonscription n’ont pas été modifiées depuis lors;
+- **b)** le plafond établi par le directeur général des élections, dans les autres cas.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Interdiction : dépenses en trop**
+
+**478.15** 
+
+- **(1)** Il est interdit au candidat à l’investiture ou à son agent financier d’engager des dépenses de campagne d’investiture — à l’exclusion des dépenses personnelles au sens de l’article 478.01 — dont le total dépasse le plafond établi pour la circonscription au titre de l’article 478.14.
+
+**Interdiction d’esquiver les plafonds**
+
+- **(2)** Il est interdit à toute personne ou entité :
+	- **a)** d’esquiver ou de tenter d’esquiver le plafond visé à l’article 478.14;
+	- **b)** d’agir de concert avec une autre personne ou entité en vue d’accomplir ce fait.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+##### Recouvrement des créances
+
+
+
+**Présentation du compte détaillé**
+
+**478.16** 
+
+- **(1)** Toute personne ayant une créance sur un candidat à l’investiture pour des dépenses de campagne d’investiture présente un compte détaillé à l’agent financier du candidat à l’investiture ou, en l’absence de l’agent, au candidat lui-même.
+
+**Délai de présentation**
+
+- **(2)** Est déchu de son droit de recouvrer sa créance le créancier qui ne présente pas son compte détaillé dans les trois mois suivant la date de désignation.
+
+**Décès du créancier**
+
+- **(3)** En cas de décès du créancier avant l’expiration du délai de trois mois, un nouveau délai de trois mois court, pour l’application du paragraphe (1), à compter de la date à laquelle sa succession devient habile à agir pour son compte.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Délai de paiement**
+
+**478.17** 
+
+- **(1)** Les créances relatives à des dépenses de campagne d’investiture présentées en conformité avec l’article 478.16 doivent être payées dans les quatre mois suivant la date de désignation ou, dans le cas visé au paragraphe 478.23(7), le jour du scrutin.
+
+**Exceptions**
+
+- **(2)** L’obligation de paiement dans le délai de quatre mois ne s’applique pas à l’égard des créances :
+	- **a)** pouvant être présentées pendant un nouveau délai au titre du paragraphe 478.16(3);
+	- **b)** visées par une autorisation de paiement au titre de l’article 478.19;
+	- **c)** visées par une ordonnance de paiement au titre de l’article 478.2;
+	- **d)** contestées au titre de l’article 478.21.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Perte du droit d’action**
+
+**478.18** Le contrat par lequel une dépense de campagne d’investiture du candidat à l’investiture est engagée n’est opposable à celui-ci que s’il est conclu par le candidat lui-même ou par son agent financier.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Paiements tardifs : directeur général des élections**
+
+**478.19** 
+
+- **(1)** Sur demande écrite du créancier d’un candidat à l’investiture, du candidat ou de son agent financier, le directeur général des élections peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par écrit le candidat à payer, par l’intermédiaire de son agent financier, la créance relative à des dépenses de campagne d’investiture dont, selon le cas :
+	- **a)** le compte détaillé n’a pas été présenté en conformité avec l’article 478.16;
+	- **b)** le paiement n’a pas été fait en conformité avec le paragraphe 478.17(1).
+
+**Conditions**
+
+- **(2)** Il peut assortir son autorisation des conditions qu’il estime indiquées.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Paiements tardifs : juge**
+
+**478.2** Sur demande du créancier d’un candidat à l’investiture, du candidat ou de son agent financier, le juge habile à procéder au dépouillement judiciaire du scrutin peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, autoriser par ordonnance le candidat à payer, par l’intermédiaire de son agent financier, la créance relative à des dépenses de campagne d’investiture dans les cas suivants :
+- **a)** le demandeur démontre qu’il a demandé l’autorisation prévue au paragraphe 478.19(1) et ne l’a pas obtenue, et que le compte détaillé n’a pas été présenté en conformité avec l’article 478.16 ou que le paiement n’a pas été fait dans le délai de quatre mois prévu au paragraphe 478.17(1);
+- **b)** la créance n’a pas été payée en conformité avec une autorisation obtenue en application du paragraphe 478.19(1) et le demandeur démontre qu’il n’a pas pu s’y soumettre en raison de circonstances indépendantes de sa volonté.
+La demande est notifiée au directeur général des élections.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Recouvrement de la créance**
+
+**478.21** 
+
+- **(1)** Le créancier d’une créance présentée au candidat à l’investiture en conformité avec l’article 478.16 peut en poursuivre le recouvrement devant tout tribunal compétent :
+	- **a)** en tout temps, dans le cas où le candidat ou son agent financier refuse de la payer ou la conteste, en tout ou en partie;
+	- **b)** après l’expiration du délai prévu au paragraphe 478.17(1) ou, le cas échéant, prorogé au titre du paragraphe 478.19(1) ou de l’article 478.2, dans tout autre cas.
+
+**Présomption de paiement conforme**
+
+- **(2)** Toute créance payée par l’agent financier du candidat dans le cadre d’une poursuite visée au paragraphe (1) est réputée avoir été payée en conformité avec la présente loi.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Contributions présumées**
+
+**478.22** 
+
+- **(1)** Toute partie d’une créance mentionnée dans le compte visé au paragraphe 478.23(1) qui n’est pas payée le jour suivant l’expiration d’un délai de dix-huit mois suivant la date de désignation — ou, dans le cas visé au paragraphe 478.23(7), le jour du scrutin — est réputée constituer une contribution apportée au candidat à l’investiture à la date à laquelle la dépense a été engagée.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la créance impayée qui, au jour visé au paragraphe (1), selon le cas :
+	- **a)** fait l’objet d’un accord prévoyant son paiement;
+	- **b)** fait l’objet d’une procédure de recouvrement;
+	- **c)** fait l’objet d’une contestation;
+	- **d)** est considérée comme irrécouvrable par le créancier et est radiée de ses comptes en conformité avec ses pratiques comptables habituelles.
+
+**Avis**
+
+- **(3)** Le candidat à l’investiture ou son agent financier qui est débiteur d’une créance impayée est tenu d’aviser le directeur général des élections avant le jour visé au paragraphe (1) de l’application de l’un ou l’autre des alinéas (2)a) à d) à l’égard de sa créance.
+
+**Publication de la liste des contributions**
+
+- **(4)** Dès que possible après le jour visé au paragraphe (1), le directeur général des élections publie, selon les modalités qu’il estime indiquées, la liste des contributions visées par ce paragraphe.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+##### Compte de campagne d’investiture du candidat à l’investiture
+
+
+
+**Production du rapport**
+
+**478.23** 
+
+- **(1)** L’agent financier du candidat à l’investiture qui a accepté des contributions de 1 000 $ ou plus au total ou a engagé des dépenses de campagne d’investiture de 1 000 $ ou plus au total produit auprès du directeur général des élections pour la course à l’investiture :
+	- **a)** un compte de campagne d’investiture exposant le financement et les dépenses de campagne d’investiture du candidat, dressé, pour l’essentiel, sur le formulaire prescrit;
+	- **b)** dans les cas où un vérificateur doit être nommé en application du paragraphe 478.25(1), le rapport du vérificateur afférent prévu par l’article 478.28;
+	- **c)** la déclaration de l’agent financier concernant le compte de campagne d’investiture, effectuée sur le formulaire prescrit, attestant que le compte est complet et précis;
+	- **d)** la déclaration du candidat concernant le compte, effectuée sur le formulaire prescrit et attestant que le compte est complet et précis.
+
+**Contenu du compte**
+
+- **(2)** Le compte comporte les renseignements suivants à l’égard du candidat :
+	- **a)** un état des dépenses de campagne d’investiture;
+	- **b)** un état des créances contestées visées à l’article 478.21;
+	- **c)** un état des créances impayées qui font ou sont susceptibles de faire l’objet des demandes prévues aux articles 478.19 ou 478.2;
+	- **d)** un état, par catégorie, des contributions apportées par les particuliers, les personnes morales, les syndicats et les associations au sens du paragraphe 405.3(3);
+	- **e)** le nombre des donateurs de chacune des catégories visées à l’alinéa d);
+	- **e.1)** dans le cas où le donateur est une association au sens du paragraphe 405.3(3) :
+		- **(i)** les nom et adresse de l’association, le montant de sa contribution et la date à laquelle le candidat à l’investiture l’a reçue,
+		- **(ii)** les nom et adresse de chaque particulier qui a fourni une somme comprise dans la contribution, le montant de cette somme et la date à laquelle elle a été fournie à l’association;
+	- **f)** les nom et adresse de tout autre donateur qui a apporté au candidat une ou plusieurs contributions d’une valeur totale supérieure à 200 $, la somme de ces contributions, le montant de chacune d’elles et la date à laquelle le candidat l’a reçue;
+	- **g)** dans le cas où le donateur visé à l’alinéa f) est une société à dénomination numérique, le nom du premier dirigeant ou du président de la société;
+	- **h)** un état de la valeur commerciale des produits et services fournis et des fonds cédés par le candidat à l’investiture à un parti enregistré, à une association enregistrée ou à un candidat;
+	- **i)** un état de la valeur commerciale des produits et services fournis et des fonds cédés par un candidat à sa campagne à titre de candidat à l’investiture;
+	- **j)** un état des contributions reçues et remboursées à leur donateur ou dont il a été disposé en conformité avec la présente loi.
+
+**Pièces justificatives**
+
+- **(3)** L’agent financier d’un candidat à l’investiture produit auprès du directeur général des élections, avec le compte de campagne à l’investiture, les pièces justificatives concernant les dépenses exposées dans ce compte, notamment les états de compte bancaires, les bordereaux de dépôt et les chèques annulés, les états et déclarations produits auprès de l’agent financier au titre de l’alinéa 405.3(2)c) et du paragraphe 405.3(4) ainsi que l’état des dépenses personnelles visé au paragraphe 478.31(1).
+
+**Documents supplémentaires**
+
+- **(4)** Dans le cas où le directeur général des élections estime que les documents produits au titre du paragraphe (3) sont insuffisants, il peut obliger l’agent financier à produire, à une date donnée, les documents supplémentaires nécessaires à l’application de ce paragraphe.
+
+**Prêts**
+
+- **(5)** Pour l’application du paragraphe (2), sauf l’alinéa (2)i), le prêt est assimilé à une contribution.
+
+**Délai de production**
+
+- **(6)** Les documents visés au paragraphe (1) doivent être produits auprès du directeur général des élections dans les quatre mois suivant la date de désignation.
+
+**Exception**
+
+- **(7)** Par dérogation au paragraphe (6), dans le cas où la date de désignation d’une course à la direction tombe dans les trente jours précédant une période électorale pour la circonscription ou pendant celle-ci, le candidat à l’investiture peut produire les documents visés au paragraphe (1) dans le délai prévu au paragraphe 451(4) pour les candidats.
+
+**Déclaration du candidat**
+
+- **(8)** Le candidat adresse à son agent financier, dans les quatre mois suivant la date de désignation, la déclaration visée à l’alinéa (1)d).
+
+**Décès du candidat**
+
+- **(9)** Lorsque le candidat décède avant l’expiration du délai établi au paragraphe (8) sans avoir adressé sa déclaration :
+	- **a)** il est réputé avoir adressé la déclaration en conformité avec ce paragraphe;
+	- **b)** l’agent financier est réputé avoir transmis la déclaration au directeur général des élections en conformité avec le paragraphe (1).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Contributions au receveur général**
+
+**478.24** L’agent financier d’une association enregistrée verse sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme égale à la valeur de la contribution reçue par le candidat à l’investiture dans les cas suivants :
+- **a)** il ne peut classer le donateur dans une catégorie visée à l’alinéa 478.23(2)d);
+- **b)** il manque le nom du donateur d’une contribution supérieure à 25 $, le nom ou l’adresse du donateur de contributions d’une valeur totale supérieure à 200 $ ou le nom du premier dirigeant ou du président du donateur visé à l’alinéa 478.23(2)g).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Nomination d’un vérificateur**
+
+**478.25** 
+
+- **(1)** Le candidat à l’investiture qui accepte des contributions de 10 000 $ ou plus au total ou engage des dépenses de campagne d’investiture de 10 000 $ ou plus au total doit sans délai nommer un vérificateur.
+
+**Admissibilité : vérificateur**
+
+- **(2)** Seuls peuvent exercer la charge de vérificateur d’un candidat à l’investiture :
+	- **a)** les membres en règle d’un ordre professionnel, d’une association ou d’un institut de comptables professionnels;
+	- **b)** les sociétés formées de ces membres.
+
+**Inadmissibilité**
+
+- **(3)** Ne sont pas admissibles à la charge de vérificateur d’un candidat à l’investiture :
+	- **a)** les fonctionnaires électoraux et le personnel du directeur du scrutin;
+	- **b)** l’agent principal d’un parti enregistré ou d’un parti admissible et l’agent enregistré d’un parti enregistré;
+	- **c)** les candidats et leur agent officiel;
+	- **d)** les agents de circonscription d’une association enregistrée;
+	- **e)** les candidats à la direction et leurs agents de campagne à la direction;
+	- **f)** les candidats à l’investiture et leur agent financier;
+	- **g)** l’agent financier d’un tiers enregistré.
+
+**Notification au directeur général des élections**
+
+- **(4)** Sans délai après la nomination, le candidat communique au directeur général des élections les nom, adresse, numéro de téléphone et profession du vérificateur, ainsi qu’une déclaration d’acceptation de sa nomination signée par celui-ci.
+
+**Nouveau vérificateur**
+
+- **(5)** En cas de remplacement du vérificateur, le candidat doit en informer sans délai le directeur général des élections et lui communiquer les nom, adresse, numéro de téléphone et profession du nouveau vérificateur, ainsi qu’une déclaration d’acceptation de sa nomination signée par celui-ci.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Un seul vérificateur**
+
+**478.26** Les candidats à l’investiture ne peuvent avoir plus d’un vérificateur à la fois.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Interdiction : vérificateur**
+
+**478.27** Il est interdit à toute personne d’agir comme vérificateur d’un candidat à l’investiture alors qu’elle n’est pas admissible à cette charge.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Rapport du vérificateur**
+
+**478.28** 
+
+- **(1)** Dès que possible après la date de désignation, le vérificateur nommé au titre du paragraphe 478.25(1) fait rapport à l’agent financier de sa vérification du compte de campagne à l’investiture dressé pour celle-ci. Le vérificateur fait les vérifications qui lui permettent d’établir si, selon les normes de vérification généralement reconnues, le compte présente fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé.
+
+**Cas où une déclaration est requise**
+
+- **(2)** Le vérificateur joint à son rapport les déclarations qu’il estime nécessaires dans l’un ou l’autre des cas suivants :
+	- **a)** le compte qu’il a vérifié ne présente pas fidèlement les renseignements contenus dans les écritures comptables sur lesquelles il est fondé;
+	- **b)** le vérificateur n’a pas reçu de l’agent financier ou du candidat tous les renseignements et explications qu’il a exigés;
+	- **c)** sa vérification révèle que l’agent financier n’a pas tenu les écritures comptables appropriées.
+
+**Droit d’accès aux archives**
+
+- **(3)** Il doit avoir accès, à tout moment convenable, à la totalité des documents du candidat à l’investiture et a le droit d’exiger de l’agent financier et du candidat les renseignements et explications qui, à son avis, peuvent être nécessaires pour l’établissement de son rapport.
+
+**Personnes qui n’ont pas le droit d’agir**
+
+- **(4)** La personne visée au paragraphe 478.25(3) qui est l’associé du vérificateur d’un candidat à l’investiture, ou l’employé de ce vérificateur ou d’un cabinet dont fait partie ce vérificateur, ne peut prendre part à l’établissement du rapport du vérificateur, sauf dans la mesure prévue au paragraphe (3).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Candidat à l’étranger**
+
+**478.29** 
+
+- **(1)** Par dérogation au paragraphe 478.23(6), lorsqu’un candidat à l’investiture est à l’étranger au moment où les autres documents visés au paragraphe 478.23(1) sont produits, il dispose de quatorze jours suivant son retour au pays pour faire la déclaration visée à l’alinéa 478.23(1)d) et la produire auprès du directeur général des élections.
+
+**Agent financier non libéré**
+
+- **(2)** Le délai accordé au candidat ne libère pas son agent financier de l’obligation de produire le compte de campagne d’investiture et de faire la déclaration visée à l’alinéa 478.23(1)c).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Documents modifiés**
+
+**478.3** 
+
+- **(1)** Après l’expiration du délai visé aux paragraphes 478.23(6) ou (7), selon le cas, l’agent financier produit auprès du directeur général des élections une version modifiée de tout document visé au paragraphe 478.23(1) qui concerne le paiement des créances :
+	- **a)** recouvrables pendant une période prorogée au titre du paragraphe 478.16(3) à cause du décès du créancier;
+	- **b)** visées par une autorisation de paiement au titre de l’article 478.19;
+	- **c)** visées par une ordonnance de paiement au titre de l’article 478.2;
+	- **d)** contestées au titre de l’article 478.21.
+
+**Vérification**
+
+- **(2)** Si les renseignements contenus dans la version modifiée ont déjà fait l’objet de la vérification prévue à l’article 478.28, il n’est pas nécessaire d’y annexer une version modifiée du rapport du vérificateur.
+
+**Délai de production**
+
+- **(3)** L’agent financier produit la version modifiée du document dans les trente jours suivant la date du paiement qui en fait l’objet.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**État des dépenses personnelles**
+
+**478.31** 
+
+- **(1)** Le candidat à l’investiture adresse à son agent financier, dans les trois mois suivant la date de désignation et sur le formulaire prescrit :
+	- **a)** un état des dépenses personnelles qu’il a payées et les pièces justificatives afférentes;
+	- **b)** en l’absence de telles dépenses, une déclaration écrite faisant état de ce fait.
+
+**Décès du candidat**
+
+- **(2)** Le paragraphe (1) ne s’applique pas lorsque le candidat meurt avant l’expiration du délai imparti par ce paragraphe et avant d’avoir fait parvenir à son agent financier l’état ou la déclaration qui y sont visés.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+##### Correction des documents et prorogation des délais
+
+
+
+**Corrections mineures : directeur général des élections**
+
+**478.32** 
+
+- **(1)** Le directeur général des élections peut apporter à tout document visé aux paragraphes 478.23(1) ou 478.3(1) des corrections qui n’en modifient pas le fond sur un point important.
+
+**Demande de correction par le directeur général des élections**
+
+- **(2)** Le directeur général des élections peut demander par écrit à un candidat à l’investiture ou à son agent financier de corriger, dans le délai imparti, tout document visé aux paragraphes 478.23(1) ou 478.3(1).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Prorogation du délai ou correction : directeur général des élections**
+
+**478.33** 
+
+- **(1)** Sur demande écrite du candidat à l’investiture ou de son agent financier, le directeur général des élections peut autoriser :
+	- **a)** la prorogation du délai prévu aux paragraphes 478.23(6) ou 478.3(3);
+	- **b)** la correction de tout document visé aux paragraphes 478.23(1) ou 478.3(1) dans le délai imparti.
+
+**Délais**
+
+- **(2)** La demande est présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai prévu aux paragraphes 478.23(6) ou 478.3(3);
+	- **b)** au titre de l’alinéa (1)b), dès que le demandeur prend connaissance de la nécessité d’apporter une correction.
+
+**Motifs**
+
+- **(3)** Le directeur général des élections ne peut toutefois agréer la demande que s’il est convaincu par la preuve produite par l’auteur de la demande que les circonstances qui ont donné lieu à celle-ci ont pour cause, selon le cas :
+	- **a)** la maladie du demandeur;
+	- **b)** l’absence, le décès, la maladie ou la faute professionnelle de l’agent financier ou d’un de ses prédécesseurs;
+	- **c)** l’absence, le décès, la maladie ou la faute professionnelle d’un commis ou préposé de l’agent financier ou d’un de leurs prédécesseurs;
+	- **d)** une inadvertance ou une véritable erreur de fait.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Prorogation du délai ou correction : juge**
+
+**478.34** 
+
+- **(1)** Le candidat à l’investiture ou son agent financier peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance autorisant :
+	- **a)** le candidat ou son agent financier à se soustraire à la demande prévue au paragraphe 478.32(2);
+	- **b)** la prorogation de délai visée à l’alinéa 478.33(1)a) ou la correction visée à l’alinéa 478.33(1)b).
+La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** La demande peut être présentée :
+	- **a)** au titre de l’alinéa (1)a), dans le délai imparti en application du paragraphe 478.32(2) ou dans les deux semaines suivant l’expiration de ce délai;
+	- **b)** au titre de l’alinéa (1)b), dans les deux semaines suivant :
+		- **(i)** soit le rejet de la demande de prorogation ou de correction présentée au titre de l’article 478.33,
+		- **(ii)** soit l’expiration du délai prorogé ou imparti au titre des alinéas 478.33(1)a) ou b).
+
+**Motifs**
+
+- **(3)** Le juge ne peut rendre l’ordonnance que s’il est convaincu que des motifs visés au paragraphe 478.33(3) sont applicables.
+
+**Conditions**
+
+- **(4)** Il peut assortir son ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Comparution de l’agent financier**
+
+**478.35** 
+
+- **(1)** Le juge saisi d’une demande présentée au titre des articles 478.34 ou 478.36, s’il est convaincu que le candidat à l’investiture ou son agent financier n’a pas produit les documents visés au paragraphe 478.23(1) en conformité avec la présente loi par suite du refus ou de l’omission, selon le cas, de l’agent financier ou d’un agent financier antérieur, rend une ordonnance, signifiée à personne à l’auteur du refus ou de l’omission, lui intimant de comparaître devant lui.
+
+**Contenu de l’ordonnance**
+
+- **(2)** Sauf si l’intimé fait valoir des motifs pour lesquels elle ne devrait pas être rendue, l’ordonnance, rendue par écrit, lui enjoint, pour faire en sorte que ces documents soient rendus conformes à la présente loi :
+	- **a)** soit de remédier au refus ou à l’omission, selon les modalités que le juge estime indiquées;
+	- **b)** soit de subir un interrogatoire concernant le refus ou l’omission.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Recours du candidat à l’investiture : fait d’un agent financier**
+
+**478.36** Le candidat à l’investiture peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance le dégageant de toute responsabilité ou conséquence, au titre d’une loi fédérale, découlant de tout fait — acte ou omission — accompli par son agent financier, s’il établit :
+- **a)** soit que le fait a été accompli sans son assentiment ou sa connivence;
+- **b)** soit qu’il a pris toutes les mesures raisonnables pour empêcher son accomplissement.
+La demande est notifiée au directeur général des élections.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Impossibilité de production des documents : juge**
+
+**478.37** 
+
+- **(1)** Le candidat à l’investiture ou son agent financier peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance soustrayant l’agent financier à l’obligation de produire les documents visés aux paragraphes 478.23(1) ou 478.3(1). La demande est notifiée au directeur général des élections.
+
+**Motifs**
+
+- **(2)** Le juge ne rend l’ordonnance que s’il est convaincu que le demandeur ne peut produire les documents à cause de leur destruction par force majeure, notamment un désastre tel une inondation ou un incendie.
+
+**Date de la libération**
+
+- **(3)** Pour l’application de la présente loi, le demandeur est libéré de son obligation visée au paragraphe (1) à la date à laquelle l’ordonnance est rendue.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Interdiction : compte faux ou trompeur ou incomplet**
+
+**478.38** Il est interdit au candidat à l’investiture ou à son agent financier de produire auprès du directeur général des élections un document visé aux paragraphes 478.23(1) ou 478.3(1) dans les cas suivants :
+- **a)** il sait ou devrait normalement savoir que le document contient des renseignements faux ou trompeurs sur un point important;
+- **b)** le document ne contient pas l’essentiel des renseignements prévus au paragraphe 478.23(2) ou à inclure dans la version modifiée du compte au titre du paragraphe 478.3(1).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+##### Excédent de fonds de course à l’investiture
+
+
+
+**Calcul de l’excédent**
+
+**478.39** L’excédent des fonds de course à l’investiture qu’un candidat à l’investiture reçoit à l’égard de sa course à l’investiture est l’excédent des contributions acceptées par son agent financier et de toute autre recette non remboursable du candidat au titre de sa campagne à l’investiture sur les dépenses de campagne d’investiture payées en conformité avec la présente loi et les cessions visées à l’alinéa 404.2(3)b).
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Évaluation de l’excédent**
+
+**478.4** 
+
+- **(1)** Dans le cas où il estime que les fonds de course à l’investiture d’un candidat à l’investiture comportent un excédent, le directeur général des élections remet à l’agent financier de celui-ci une estimation de l’excédent.
+
+**Initiative de l’agent financier**
+
+- **(2)** L’agent financier d’un candidat à l’investiture dont les fonds de course à l’investiture comportent un excédent et qui n’a pas reçu l’estimation prévue au paragraphe (1) est tenu d’en disposer dans les soixante jours suivant la production du compte de campagne à l’investiture.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Destination de l’excédent**
+
+**478.41** 
+
+- **(1)** L’agent financier dispose de l’excédent des fonds de course à l’investiture dans les soixante jours suivant la réception de l’estimation.
+
+**Destinataires de l’excédent**
+
+- **(2)** L’excédent est cédé :
+	- **a)** soit à l’agent officiel du candidat soutenu par le parti enregistré dans la circonscription où a eu lieu la course à l’investiture;
+	- **b)** soit à l’association enregistrée qui a tenu la course à l’investiture ou au parti enregistré pour le soutien duquel la course a été tenue.
+> 2003, ch. 19, art. 57.
+
+
+
+
+
+**Avis de destination**
+
+**478.42** 
+
+- **(1)** Dans les sept jours après avoir disposé de l’excédent, l’agent financier en avise le directeur général des élections, sur le formulaire prescrit. L’avis comporte la mention de la date, du montant de la disposition et de son destinataire.
+
+**Publication**
+
+- **(2)** Dès que possible après la disposition de l’excédent, le directeur général des élections publie, selon les modalités qu’il estime indiquées, l’avis prévu au paragraphe (1).
+> 2003, ch. 19, art. 57.
+
 
 
 
@@ -8455,35 +11209,91 @@ La demande est notifiée au directeur général des élections.
 	- **b)** le parti enregistré qui contrevient au paragraphe 375(3), ou le parti enregistré ou le parti admissible qui contrevient à l’article 378, aux paragraphes 379(1) ou (2) ou à l’article 380 (défaut d’observer les exigences relatives à la nomination de l’agent principal, d’un agent enregistré ou du vérificateur);
 	- **c)** le parti enregistré qui contrevient aux paragraphes 382(1) ou (4) (défaut de faire rapport sur la modification des renseignements concernant le parti);
 	- **d)** le parti enregistré qui contrevient à l’article 384 (défaut de produire la confirmation des renseignements concernant le parti);
-	- **e)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document y afférent);
-	- **f)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient à l’article 393 (défaut de produire l’état de la juste valeur marchande ou un document y afférent);
-	- **g)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient à l’article 396 (défaut de produire l’état des dépenses du parti ou un document y afférent);
+	- **e)** tout agent principal d’un parti politique radié qui contrevient à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
+	- **f) et g)** [Abrogés, 2003, ch. 19, art. 58]
 	- **h)** l’agent principal d’un parti enregistré fusionnant qui contrevient à l’article 403 (défaut de produire le dernier rapport financier d’un parti fusionnant ou un document y afférent);
-	- **i)** l’agent principal ou l’agent officiel qui contrevient au paragraphe 404(2) (défaut de remettre une contribution provenant d’un donateur inadmissible);
+	- **h.01)** l’association de circonscription qui contrevient à l’article 403.01 (défaut d’enregistrement);
+	- **h.02)** l’association de circonscription d’un parti enregistré qui contrevient à l’article 403.04 (activité financière au cours d’une période électorale);
+	- **h.03)** l’association enregistrée qui contrevient à l’article 403.05 (défaut de produire l’état de l’actif et du passif ou un document afférent);
+	- **h.031)** l’agent financier d’une association enregistrée qui contrevient à l’article 403.051 (faire une déclaration erronée);
+	- **h.04)** l’association enregistrée qui contrevient au paragraphe 403.09(2) (défaut de faire rapport sur la nomination d’un agent de circonscription);
+	- **h.05)** l’association enregistrée qui contrevient aux articles 403.12, 403.13 ou 403.14 (défaut d’observer les exigences relatives à la nomination de l’agent financier ou du vérificateur);
+	- **h.06)** l’association enregistrée qui contrevient au paragraphe 403.16(1) (défaut de faire rapport sur la modification des renseignements concernant l’association);
+	- **h.07)** l’association enregistrée qui contrevient à l’article 403.17 (défaut de produire la confirmation des renseignements concernant l’association);
+	- **h.08)** l’agent financier d’une association de circonscription radiée qui contrevient à l’article 403.26 (défaut de produire le rapport financier ou un document afférent);
+	- **h.09)** l’agent financier d’une association enregistrée qui contrevient aux paragraphes 403.35(1), (2) ou (4) (défaut de produire le rapport financier d’une association enregistrée ou un document afférent);
+	- **h.1)** l’agent financier d’une association enregistrée qui contrevient à l’article 403.36 (défaut de verser les contributions que l’association enregistrée ne peut conserver);
+	- **h.11)** l’agent financier d’une association enregistrée qui contrevient à l’alinéa 403.38 b) (production d’un rapport financier incomplet);
+	- **i)** la personne ou l’entité qui contrevient au paragraphe 404(1) (contribution apportée par une personne ou entité inadmissible);
+	- **i.1)** l’agent principal d’un parti enregistré, l’agent financier d’une association enregistrée, l’agent officiel d’un candidat ou l’agent financier d’un candidat à la direction ou d’un candidat à l’investiture qui contrevient au paragraphe 404(2) (défaut de remettre une contribution provenant d’un donateur inadmissible);
+	- **i.2)** le parti enregistré ou l’association de circonscription qui contrevient au paragraphe 404.3(1) (cession interdite);
+	- **i.3)** la personne habilitée à accepter des contributions pour le compte d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture qui contrevient à l’article 404.4 (défaut de délivrer un reçu);
+	- **i.4)** la personne ou l’entité qui contrevient au paragraphe 405.2(1) (esquiver le plafond d’une contribution);
+	- **i.5)** la personne ou l’entité qui contrevient au paragraphe 405.2(2) (cacher l’identité d’un donateur);
+	- **i.6)** la personne ou l’entité qui contrevient au paragraphe 405.3(1) (apporter des contributions provenant d’une autre personne);
+	- **i.7)** la personne habilitée par la présente loi à accepter des contributions qui contrevient à l’article 405.4 (défaut de remettre une contribution);
 	- **j)** quiconque contrevient aux paragraphes 410(1) ou (2) (défaut de conserver des preuves de paiement);
 	- **k)** le délégué qui contrevient aux paragraphes 411(3) (défaut de produire un état détaillé des paiements de menues dépenses) ou 411(4) (paiement de menues dépenses dont la somme est supérieure au plafond autorisé);
 	- **l)** l’agent principal qui contrevient au paragraphe 423(1) (faire des dépenses électorales qui excèdent le plafond) ou le parti enregistré ou le tiers qui contrevient au paragraphe 423(2) (collusion concernant le plafond des dépenses électorales du parti enregistré);
 	- **m)** l’agent principal qui contrevient à l’article 424 (défaut de produire le rapport financier d’un parti enregistré ou un document y afférent);
+	- **m.1)** l’agent principal qui contrevient à l’article 424.1 (défaut de produire un rapport trimestriel);
 	- **n)** l’agent enregistré qui contrevient à l’article 425 (défaut de verser les contributions que le parti enregistré ne peut conserver);
-	- **o)** l’agent principal qui contrevient à l’alinéa 427b) (production d’un rapport financier incomplet);
-	- **p)** le parti enregistré qui contrevient à l’article 428 (défaut de dresser le rapport financier d’une fiducie du parti);
+	- **o)** l’agent principal qui contrevient à l’alinéa 427 b) (production d’un rapport financier incomplet);
+	- **p)** [Abrogé, 2003, ch. 19, art. 58]
 	- **q)** l’agent principal qui contrevient à l’article 429 (défaut de produire un compte des dépenses électorales ou un document y afférent);
+	- **q.01)** l’agent principal qui contrevient à l’alinéa 431 b) (produire un compte de dépenses électorales incomplet);
+	- **q.011)** le premier dirigeant d’une division provinciale qui contrevient au paragraphe 435.02(5) (défaut de faire rapport sur la modification des renseignements);
+	- **q.02)** le parti enregistré qui contrevient aux paragraphes 435.04(1) ou (2) (défaut de notifier la campagne d’une course à la direction ou la modification d’une telle campagne);
+	- **q.03)** quiconque contrevient au paragraphe 435.05(1) (défaut de s’enregistrer pour une course à la direction);
+	- **q.04)** le candidat à la direction qui contrevient au paragraphe 435.08(2) ou aux articles 435.11, 435.12 ou 435.13 (défaut d’observer les exigences relatives à la nomination d’un agent de campagne à la direction, de l’agent financier ou du vérificateur);
+	- **q.05)** le candidat à la direction qui contrevient aux paragraphes 435.15(1) ou (2) (défaut de faire rapport sur la modification des renseignements le concernant);
+	- **q.06)** le candidat à la direction qui contrevient à l’article 435.16 (défaut de notifier son retrait de la course à la direction);
+	- **q.07)** le parti enregistré qui contrevient à l’article 435.17 (défaut d’aviser du retrait de son agrément d’un candidat à la direction);
+	- **q.08)** l’agent financier d’un candidat à la direction qui contrevient à l’article 435.21 (défaut d’observer les exigences relatives au compte bancaire);
+	- **q.09)** le candidat à la direction ou son agent financier qui contrevient à l’article 435.24 (défaut de payer les créances relatives aux dépenses de campagne à la direction dans le délai prévu);
+	- **q.1)** l’agent financier d’un candidat à la direction qui contrevient aux paragraphes 435.3(1), (2) ou (6) (défaut de produire le compte de campagne à la direction ou un document afférent);
+	- **q.11)** l’agent financier d’un candidat à la direction qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 435.3(4);
+	- **q.12)** le candidat à la direction qui contrevient au paragraphe 435.3(7) (défaut d’envoyer à son agent financier sa déclaration concernant son compte de campagne à la direction);
+	- **q.13)** l’agent financier d’un candidat à la direction qui contrevient à l’un des paragraphes 435.31(1) à (3) (défaut de produire son rapport sur les contributions ou un document afférent);
+	- **q.14)** l’agent financier d’un candidat à la direction qui contrevient à l’article 435.32 (défaut de verser les contributions que le candidat à la direction ne peut retourner);
+	- **q.15)** l’agent financier d’un candidat à la direction qui contrevient aux paragraphes 435.35(1) ou (3) (défaut de produire une version modifiée du compte de campagne à la direction ou d’un document afférent);
+	- **q.16)** le candidat à la direction ou son agent financier qui contrevient à l’alinéa 435.43 b) (production d’un compte de campagne à la direction incomplet);
+	- **q.17)** l’agent financier d’un candidat à la direction qui contrevient au paragraphe 435.45(2) ou à l’article 435.46 (défaut de disposer d’un excédent de fonds de course à la direction);
 	- **r)** l’agent officiel qui contrevient à l’article 437 (défaut d’observer les exigences relatives au compte bancaire);
 	- **s)** le candidat, l’agent officiel ou le mandataire visé à l’article 446 qui contrevient aux paragraphes 439(2) (excéder le plafond des dépenses pour les avis de réunion de candidature) ou 443(1) (faire des dépenses électorales qui excèdent le plafond), ou le candidat, l’agent officiel ou le mandataire visé à l’article 446 ou le tiers qui contrevient au paragraphe 443(2) (collusion concernant le plafond des dépenses électorales du candidat);
 	- **t)** l’agent officiel qui contrevient au paragraphe 445(1) (défaut de payer les créances relatives aux dépenses électorales dans le délai prévu);
-	- **u)** l’agent officiel qui contrevient aux paragraphes 451(1) à (4) (défaut de produire le compte de campagne électorale du candidat ou un document y afférent);
+	- **u)** l’agent officiel qui contrevient aux paragraphes 451(1), (2), (3) ou (4) (défaut de produire le compte de campagne électorale du candidat ou un document afférent);
+	- **u.1)** l’agent officiel qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 451(2.2);
 	- **v)** le candidat qui contrevient au paragraphe 451(5) (défaut d’adresser sa déclaration concernant son compte de campagne électorale);
 	- **w)** l’agent officiel qui contrevient à l’article 452 (défaut de verser les contributions que le candidat ne peut retourner);
 	- **x)** l’agent officiel qui contrevient à l’article 455 (défaut de produire une version modifiée des comptes de campagne électorale ou un document y afférent);
-	- **y)** l’agent officiel qui contrevient à l’alinéa 463(1)b) (production d’un compte de campagne électorale incomplet);
+	- **y)** l’agent officiel qui contrevient à l’alinéa 463(1) b) (production d’un compte de campagne électorale incomplet);
 	- **z)** l’agent officiel qui contrevient au paragraphe 472(2) ou à l’article 473 (défaut de donner avis ou de disposer d’un excédent de fonds électoraux);
-	- **z.1)** l’agent enregistré ou l’association de circonscription d’un parti enregistré qui contrevient à l’article 476 (cession de contributions interdite);
-	- **z.2)** l’agent officiel qui contrevient au paragraphe 478(2) (défaut de retourner les copies inutilisées des reçus à fins fiscales).
+	- **z.1)** l’agent enregistré ou l’agent financier qui contrevient à l’article 476 (cession de contributions interdite);
+	- **z.2)** l’agent officiel qui contrevient au paragraphe 478(2) (défaut de retourner les copies inutilisées des reçus à fins fiscales);
+	- **z.21)** le parti enregistré ou l’association enregistrée qui contrevient au paragraphe 478.02(1) (défaut de produire un rapport sur une course à l’investiture);
+	- **z.22)** le candidat à l’investiture qui contrevient à l’article 478.04 (nomination d’un agent financier);
+	- **z.23)** le candidat à l’investiture qui contrevient aux articles 478.06, 478.07 ou 478.08 (défaut d’observer les exigences relatives à la nomination de l’agent financier);
+	- **z.24)** le candidat à l’investiture qui contrevient aux paragraphes 478.1(1) ou (2) (défaut de faire rapport sur la modification des renseignements le concernant);
+	- **z.25)** l’agent financier d’un candidat à l’investiture qui contrevient à l’article 478.12 (défaut d’observer les exigences relatives au compte bancaire);
+	- **z.26)** le candidat à l’investiture ou son agent financier qui contrevient au paragraphe 478.15(1) (faire des dépenses de campagne d’investiture qui excèdent le plafond);
+	- **z.27)** le candidat à l’investiture ou son agent financier qui contrevient au paragraphe 478.17(1) (défaut de payer les créances relatives aux dépenses de campagne d’investiture dans le délai prévu);
+	- **z.28)** l’agent financier d’un candidat à l’investiture qui contrevient aux paragraphes 478.23(1), (2) ou (6) (défaut de produire sa déclaration concernant son compte de campagne à l’investiture);
+	- **z.29)** l’agent financier d’un candidat à l’investiture qui omet de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 478.23(4);
+	- **z.3)** le candidat à l’investiture qui contrevient au paragraphe 478.23(8) (défaut d’envoyer à son agent sa déclaration concernant son compte de campagne à l’investiture);
+	- **z.31)** l’agent financier d’un candidat à l’investiture qui contrevient à l’article 478.24 (défaut de verser les contributions que le candidat à l’investiture ne peut retourner);
+	- **z.32)** le candidat à l’investiture qui contrevient au paragraphe 478.25(1) (défaut de nommer un vérificateur);
+	- **z.33)** le candidat à l’investiture qui contrevient aux paragraphes 478.25(4) ou (5) ou à l’article 478.26 (défaut d’observer les exigences relatives à la nomination du vérificateur);
+	- **z.34)** l’agent financier d’un candidat à l’investiture qui contrevient aux paragraphes 478.3(1) ou (3) (défaut de produire une version modifiée du compte de campagne à l’investiture dans le délai prévu);
+	- **z.35)** l’agent financier d’un candidat à l’investiture qui contrevient à l’alinéa 478.38 b) (production d’un compte de campagne à l’investiture incomplet);
+	- **z.36)** l’agent financier d’un candidat à l’investiture qui contrevient au paragraphe 478.4(2) ou à l’article 478.41 (défaut de donner avis ou de disposer d’un excédent de fonds de course à l’investiture).
 
 **Infraction exigeant une intention — déclaration sommaire**
 
 - **(2)** Commet une infraction :
-	- **a)** la personne ou l’entité qui contrevient sciemment aux paragraphes 405(1) (apporter à un parti enregistré une contribution provenant d’autrui) ou 405(3) (recevoir des contributions);
+	- **a)** la personne ou l’entité, autre que l’agent de circonscription d’une association enregistrée, qui contrevient sciemment aux paragraphes 403.28(1) ou (2) (personne inadmissible paie ou engage des dépenses d’une association enregistrée);
+	- **a.1)** quiconque, n’étant pas un agent de circonscription ou un agent enregistré, contrevient sciemment aux paragraphes 403.28(3) ou 416(3) (accepter des contributions sans y être admissible);
+	- **a.2)** quiconque, n’étant pas l’agent financier d’une association enregistrée, contrevient sciemment au paragraphe 403.28(4) (accepter ou faire des cessions sans y être admissible);
 	- **b)** la personne, autre que l’agent principal, un agent enregistré ou le mandataire visé à l’article 446, qui contrevient sciemment à l’article 416 (payer ou engager des dépenses pour le compte d’un parti enregistré).
 
 **Infraction exigeant une intention — double procédure**
@@ -8491,36 +11301,90 @@ La demande est notifiée au directeur général des élections.
 - **(3)** Commet une infraction :
 	- **a)** le parti enregistré qui contrevient volontairement à l’article 372 (défaut de produire l’état de l’actif et du passif ou un document y afférent);
 	- **b)** quiconque contrevient volontairement aux paragraphes 381(1) ou (2) (personne inadmissible agissant comme agent principal, agent enregistré ou vérificateur d’un parti enregistré);
-	- **c)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient volontairement à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document y afférent);
-	- **d)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient volontairement à l’article 393 (défaut de produire l’état de la juste valeur marchande ou un document y afférent);
-	- **e)** l’agent principal qui, dans le cas d’un parti suspendu, contrevient volontairement à l’article 396 (défaut de produire l’état des dépenses du parti ou un document y afférent);
+	- **c)** l’agent principal d’un parti politique radié qui contrevient volontairement à l’article 392 (défaut de produire le rapport financier, le compte des dépenses électorales ou un document afférent);
+	- **d) et e)** [Abrogés, 2003, ch. 19, art. 58]
 	- **f)** l’agent principal d’un parti fusionnant qui contrevient volontairement à l’article 403 (défaut de produire le dernier rapport financier d’un parti fusionnant ou un document y afférent);
+	- **f.01)** l’association enregistrée qui contrevient volontairement à l’article 403.01 (défaut d’enregistrement);
+	- **f.02)** l’association de circonscription d’un parti enregistré qui contrevient volontairement à l’article 403.04 (activité financière au cours d’une période électorale);
+	- **f.03)** l’association enregistrée qui contrevient volontairement à l’article 403.05 (défaut de produire l’état de l’actif et du passif ou un document afférent);
+	- **f.031)** l’agent financier d’une association enregistrée qui contrevient sciemment à l’article 403.051 (faire une déclaration erronée);
+	- **f.04)** l’association enregistrée qui contrevient volontairement au paragraphe 403.09(2) (défaut de faire rapport sur la nomination d’un agent de circonscription);
+	- **f.05)** quiconque contrevient volontairement aux paragraphes 403.15(1) ou (2) (personne inadmissible agissant comme agent financier, agent de circonscription ou vérificateur d’une association enregistrée);
+	- **f.06)** l’agent financier d’une association de circonscription radiée qui contrevient volontairement à l’article 403.26 (défaut de produire le rapport financier ou un document afférent);
+	- **f.07)** l’agent financier d’une association enregistrée qui contrevient volontairement aux paragraphes 403.35(1), (2) ou (4) (défaut de produire le rapport financier d’une association enregistrée ou un document afférent);
+	- **f.08)** l’agent financier d’une association enregistrée qui contrevient volontairement à l’article 403.36 (défaut de verser les contributions que l’association enregistrée ne peut conserver);
+	- **f.09)** l’agent financier d’une association enregistrée qui contrevient à l’alinéa 403.38 a) (production d’un rapport financier renfermant une déclaration fausse ou trompeuse);
+	- **f.1)** la personne ou l’entité qui contrevient sciemment au paragraphe 404(1) (contribution inadmissible);
+	- **f.11)** le parti enregistré ou l’association de circonscription qui contrevient volontairement au paragraphe 404.3(1) (cession interdite);
+	- **f.12)** la personne habilitée à accepter des contributions pour le compte d’un parti enregistré, d’une association enregistrée, d’un candidat, d’un candidat à la direction ou d’un candidat à l’investiture qui contrevient volontairement à l’article 404.4 (défaut de délivrer un reçu);
+	- **f.13)** quiconque contrevient volontairement au paragraphe 405(1) (apporter des contributions qui excèdent le plafond);
+	- **f.14)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(1) (esquiver le plafond d’une contribution);
+	- **f.15)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(2) (cacher l’identité d’un donateur);
+	- **f.16)** la personne habilitée par la présente loi à accepter des contributions qui contrevient au paragraphe 405.2(3) (accepter sciemment une contribution excessive);
+	- **f.161)** la personne ou l’entité qui contrevient sciemment au paragraphe 405.2(4) (conclure un accord interdit);
+	- **f.17)** la personne ou l’entité qui contrevient volontairement au paragraphe 405.3(1) (apporter des contributions provenant d’une autre personne);
+	- **f.18)** quiconque contrevient au paragraphe 405.3(5) (faire sciemment une déclaration fausse ou trompeuse);
+	- **f.19)** la personne habilitée par la présente loi à accepter des contributions qui contrevient volontairement à l’article 405.4 (défaut de remettre une contribution);
 	- **g)** l’agent principal qui contrevient volontairement au paragraphe 423(1) (faire des dépenses électorales qui excèdent le plafond);
 	- **h)** le parti enregistré ou le tiers qui contrevient sciemment au paragraphe 423(2) (collusion concernant le plafond des dépenses électorales du parti enregistré);
 	- **i)** l’agent principal qui contrevient volontairement à l’article 424 (défaut de produire le rapport financier d’un parti enregistré ou un document y afférent);
+	- **i.1)** l’agent principal qui contrevient volontairement à l’article 424.1 (défaut de produire un rapport trimestriel);
 	- **j)** l’agent enregistré qui contrevient volontairement à l’article 425 (défaut de verser les contributions que le parti enregistré ne peut conserver);
-	- **k)** l’agent principal qui contrevient à l’alinéa 427a) (production d’un rapport financier renfermant une déclaration fausse ou trompeuse);
-	- **l)** le parti enregistré qui contrevient volontairement à l’article 428 (défaut de dresser le rapport financier d’une fiducie du parti);
+	- **k)** l’agent principal qui contrevient à l’alinéa 427 a) (production d’un rapport financier renfermant une déclaration fausse ou trompeuse);
+	- **l)** [Abrogé, 2003, ch. 19, art. 58]
 	- **m)** l’agent principal qui contrevient :
 		- **(i)** volontairement à l’article 429 (défaut de produire un compte des dépenses électorales ou un document y afférent),
-		- **(ii)** à l’alinéa 431a) (production d’un compte des dépenses électorales renfermant une déclaration fausse ou trompeuse);
-	- **n)** la personne ou l’entité qui contrevient sciemment au paragraphe 438(1) (contributions ou prêts de source interdite), la personne autre que l’agent officiel qui contrevient aux paragraphes 438(2) ou (3) (réception de contributions et délivrance de reçus d’impôt), la personne ou l’entité autre que l’agent officiel, le candidat ou le mandataire visé à l’article 446 qui contrevient aux paragraphes 438(4) ou (5) (paiement et engagement de dépenses électorales), la personne autre que le candidat ou son agent officiel qui contrevient au paragraphe 438(6) (paiement des dépenses personnelles);
+		- **(ii)** à l’alinéa 431 a) (production d’un compte des dépenses électorales renfermant une déclaration fausse ou trompeuse);
+	- **m.01)** le parti enregistré qui contrevient volontairement aux paragraphes 435.04(1) ou (2) (défaut de notifier la campagne d’une course à la direction ou une modification de la campagne);
+	- **m.02)** quiconque contrevient volontairement au paragraphe 435.05(1) (défaut de s’enregistrer pour une course à la direction);
+	- **m.03)** quiconque contrevient volontairement aux paragraphes 435.14(1) ou (2) (personne inadmissible agissant comme agent financier, agent de campagne à la direction ou vérificateur d’un candidat à la direction);
+	- **m.04)** le candidat à la direction qui contrevient volontairement à l’article 435.16 (défaut de notifier son retrait de la course à la direction);
+	- **m.05)** le parti enregistré qui contrevient volontairement à l’article 435.17 (défaut de notifier le retrait par lui de l’agrément d’un candidat à la direction);
+	- **m.06)** la personne, autre qu’un agent de campagne à la direction, qui contrevient sciemment au paragraphe 435.22(1) (accepter des contributions sans y être admissible);
+	- **m.07)** l’agent de campagne à la direction d’un candidat à la direction qui contrevient sciemment au paragraphe 435.22(2) (accepter des contributions de source interdite);
+	- **m.08)** la personne ou l’entité qui contrevient sciemment aux paragraphes 435.22(3) ou (4) (payer ou engager des dépenses sans y être autorisé);
+	- **m.09)** quiconque contrevient sciemment au paragraphe 435.22(5) (payer des dépenses personnelles sans y être autorisé);
+	- **m.1)** l’agent financier d’un candidat à la direction qui contrevient volontairement aux paragraphes 435.3(1), (2) ou (6) (défaut de produire le compte de campagne à la direction ou un document afférent);
+	- **m.11)** l’agent financier d’un candidat à la direction qui omet volontairement de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 435.3(4);
+	- **m.12)** le candidat à la direction qui contrevient volontairement au paragraphe 435.3(7) (défaut d’adresser sa déclaration concernant son compte de campagne à la direction);
+	- **m.13)** l’agent financier d’un candidat à la direction qui contrevient volontairement à l’un des paragraphes 435.31(1) à (3) (défaut de produire son rapport sur les contributions ou un document afférent);
+	- **m.14)** l’agent financier d’un candidat à la direction qui contrevient volontairement à l’article 435.32 (défaut de verser les contributions que le candidat à la direction ne peut conserver);
+	- **m.15)** l’agent financier d’un candidat à la direction qui contrevient volontairement aux paragraphes 435.35(1) ou (3) (défaut de produire une version modifiée des comptes de campagne à la direction ou d’un document afférent);
+	- **m.16)** le candidat à la direction ou son agent financier qui contrevient à l’alinéa 435.43 a) ou qui contrevient sciemment à l’alinéa 435.43 b) (production d’un compte de campagne à la direction renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne à la direction incomplet);
+	- **m.17)** l’agent financier d’un candidat à la direction qui contrevient volontairement au paragraphe 435.45(2) ou à l’article 435.46 (défaut de disposer d’un excédent de fonds de course à la direction dans le délai);
+	- **n)** la personne, autre que l’agent officiel, qui contrevient aux paragraphes 438(2) ou (3) (réception de contributions et délivrance de reçus d’impôt), la personne ou l’entité, autre que l’agent officiel, le candidat ou le mandataire visé à l’article 446, qui contrevient aux paragraphes 438(4) ou (5) (paiement et engagement de dépenses électorales), la personne, autre que le candidat ou son agent officiel, qui contrevient au paragraphe 438(6) (paiement des dépenses personnelles);
 	- **o)** le candidat, l’agent officiel ou le mandataire visé à l’article 446 qui contrevient volontairement au paragraphe 439(2) (excéder le plafond des dépenses pour les avis de réunion de candidature);
 	- **p)** le candidat, l’agent officiel ou le mandataire visé à l’article 446 qui contrevient volontairement au paragraphe 443(1) (faire des dépenses électorales qui excèdent le plafond);
 	- **q)** le candidat, l’agent officiel ou le mandataire visé à l’article 446 ou le tiers qui contrevient au paragraphe 443(2) (collusion concernant le plafond des dépenses électorales du candidat);
-	- **r)** l’agent officiel qui contrevient volontairement aux paragraphes 451(1) à (4) (défaut de produire le compte de campagne électorale du candidat ou un document y afférent);
+	- **r)** l’agent officiel qui contrevient volontairement aux paragraphes 451(1), (2), (3) ou (4) (défaut de produire le compte de campagne électorale du candidat ou un document afférent);
+	- **r.1)** l’agent officiel qui omet volontairement de se conformer à un ordre du directeur général des élections donné sous le régime du paragraphe 451(2.2);
 	- **s)** le candidat qui contrevient volontairement au paragraphe 451(5) (défaut d’adresser sa déclaration concernant son compte de campagne électorale);
 	- **t)** l’agent officiel qui contrevient volontairement à l’article 452 (défaut de verser les contributions que le candidat ne peut retourner);
 	- **u)** l’agent officiel qui contrevient volontairement à l’article 455 (défaut de produire une version modifiée des comptes de campagne électorale ou un document y afférent);
-	- **v)** l’agent officiel qui contrevient à l’alinéa 463(1)a) ou qui contrevient sciemment à l’alinéa 463(1)b) (production d’un compte de campagne électorale renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne électorale incomplet);
+	- **v)** l’agent officiel qui contrevient à l’alinéa 463(1) a) ou qui contrevient sciemment à l’alinéa 463(1) b) (production d’un compte de campagne électorale renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne électorale incomplet);
 	- **w)** l’agent officiel qui contrevient volontairement au paragraphe 472(2) ou à l’article 473 (défaut de donner avis ou de disposer d’un excédent de fonds électoraux);
-	- **x)** l’agent enregistré ou l’association de circonscription d’un parti enregistré qui contrevient sciemment à l’article 476 (cession de contributions interdite).
+	- **x)** l’agent enregistré, l’agent financier ou l’agent officiel qui contrevient sciemment à l’article 476 (cession de contributions interdite);
+	- **y)** le parti enregistré ou l’association enregistrée qui contrevient sciemment au paragraphe 478.02(1) (défaut de produire un rapport sur une course à l’investiture);
+	- **z)** quiconque contrevient volontairement à l’article 478.09 (personne inadmissible agissant comme agent financier d’un candidat à l’investiture);
+	- **z.01)** la personne, autre que l’agent financier d’un candidat à l’investiture, qui contrevient sciemment au paragraphe 478.13(1) (accepter des contributions sans y être admissible);
+	- **z.02)** l’agent financier d’un candidat à l’investiture qui contrevient sciemment au paragraphe 478.13(2) (accepter des contributions de source interdite);
+	- **z.03)** la personne ou l’entité qui contrevient sciemment aux paragraphes 478.13(3), (4) ou (5) (paiement et engagement de dépenses de campagne d’investiture et paiement de dépenses personnelles sans y être admissible);
+	- **z.04)** le candidat à l’investiture ou son agent financier qui contrevient volontairement au paragraphe 478.15(1) (faire des dépenses de campagne d’investiture qui excèdent le plafond);
+	- **z.05)** la personne ou l’entité qui contrevient au paragraphe 478.15(2) (esquiver le plafond des dépenses de campagne d’investiture;
+	- **z.06)** l’agent financier d’un candidat à l’investiture qui contrevient volontairement aux paragraphes 478.23(1), (2) ou (6) (défaut de produire la déclaration concernant son compte de campagne à l’investiture);
+	- **z.07)** l’agent financier d’un candidat à l’investiture qui omet volontairement de se conformer à un ordre du directeur général des élections donné au titre du paragraphe 478.23(4);
+	- **z.08)** le candidat à l’investiture qui contrevient volontairement au paragraphe 478.23(8) (défaut d’adresser sa déclaration concernant son compte de campagne d’investiture);
+	- **z.09)** l’agent financier d’un candidat à l’investiture qui contrevient volontairement à l’article 478.24 (défaut de verser les contributions que le candidat à l’investiture ne peut retourner);
+	- **z.1)** quiconque contrevient volontairement à l’article 478.27 (personne inadmissible agissant comme vérificateur d’un candidat à l’investiture);
+	- **z.11)** l’agent financier d’un candidat à l’investiture qui contrevient volontairement aux paragraphes 478.3(1) ou (3) (défaut de produire une version modifiée des comptes de campagne d’investiture ou d’un document afférent);
+	- **z.12)** le candidat à l’investiture ou son agent financier qui contrevient à l’alinéa 478.38 a) ou qui contrevient sciemment à l’alinéa 478.38 b) (production d’un compte de campagne d’investiture renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne à l’investiture incomplet);
+	- **z.13)** l’agent financier d’un candidat à l’investiture qui contrevient volontairement au paragraphe 478.4(2) ou à l’article 478.41 (défaut de donner avis ou de disposer d’un excédent de fonds de course à l’investiture).
 
 **Poursuites postérieures à l’expiration des délais**
 
-- **(4)** Il ne peut être engagé de poursuite avant l’expiration des délais de présentation d’une demande prévus :
-	- **a)** à l’article 434, dans le cas d’une infraction prévue aux alinéas (1)m) ou q) ou (3)i) ou au sous-alinéa (3)m)(i);
-	- **b)** à l’article 459, dans le cas d’une infraction prévue aux alinéas (1)u) ou (3)r).
+- **(4)** Il ne peut être engagé de poursuite pour défaut de produire un rapport ou un autre document auprès du directeur général des élections avant l’expiration du délai de présentation, au titre de la présente loi, d’une demande de prorogation du délai de production du rapport ou du document.
+> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58.
+
 
 
 
@@ -8643,29 +11507,35 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Partis suspendus**
+**Partis politiques radiés**
 
 **503** 
 
-- **(1)** Le parti enregistré qui est suspendu au cours de la période électorale ne commet pas l’infraction visée à l’alinéa 496(1)a) ou (2)a) si les dépenses de publicité électorale faites par ce parti avant sa suspension ont dépassé les plafonds fixés par l’article 350.
+- **(1)** Le parti politique qui est radié au cours d’une période électorale ne commet pas l’infraction visée aux alinéas 496(1)
+a) ou (2)
+a) si les dépenses de publicité électorale faites par ce parti avant sa radiation ont dépassé les plafonds fixés par l’article 350.
 
 **Parti admissible**
 
-- **(2)** Le parti admissible qui ne devient pas un parti enregistré ne commet pas l’infraction visée à l’alinéa 496(1)a) ou (2)a) si les dépenses de publicité électorale faites par ce parti avant la date où il perd son statut de parti admissible dans le cadre du paragraphe 370(4) ont dépassé les plafonds fixés par l’article 350.
+- **(2)** Le parti admissible qui ne devient pas un parti enregistré ne commet pas l’infraction visée à l’alinéa 496(1)
+a) ou (2)
+a) si les dépenses de publicité électorale faites par ce parti avant la date où il perd son statut de parti admissible dans le cadre du paragraphe 370(4) ont dépassé les plafonds fixés par l’article 350.
 
 **Précision**
 
-- **(3)** Dans les cas visés aux paragraphes (1) et (2), les dépenses de publicité électorale faites par le parti avant sa suspension ou la date de perte de statut, selon le cas, sont prises en compte pour l’application des plafonds visés à l’article 350; si les dépenses de publicité électorale ont déjà dépassé les plafonds, le parti ne peut plus faire de dépenses de publicité électorale.
+- **(3)** Dans les cas visés aux paragraphes (1) et (2), les dépenses de publicité électorale faites par le parti avant sa radiation ou la date de perte de statut, selon le cas, sont prises en compte pour l’application des plafonds visés à l’article 350; si les dépenses de publicité électorale ont déjà dépassé les plafonds, le parti ne peut plus faire de dépenses de publicité électorale.
+> 2000, ch. 9, art. 503; 2003, ch. 19, art. 59.
 
 
 
 
-**Procédures ou transactions : parti enregistré ou parti suspendu**
 
-**504** Dans le cas où un parti admissible, un parti enregistré ou un parti suspendu est partie à des procédures judiciaires ou à une transaction dans le cadre de la présente loi :
-- **a)** le parti admissible, le parti enregistré ou le parti suspendu est réputé être une personne;
-- **b)** toute chose ou tout acte faits ou omis par un dirigeant, agent principal ou autre agent enregistré de ce parti dans les limites de son mandat sont réputés être une chose ou un acte faits ou omis par le parti admissible, le parti enregistré ou le parti suspendu, selon le cas.
-> 2000, ch. 9, art. 504; 2001, ch. 21, art. 24.
+**Présomptions**
+
+**504** Dans le cas où un parti admissible, un parti enregistré, un parti politique radié ou une association de circonscription est partie à des procédures judiciaires ou à une transaction dans le cadre de la présente loi :
+- **a)** le parti ou l’association est réputé être une personne;
+- **b)** toute chose ou tout acte faits ou omis par un dirigeant, l’agent principal ou un autre agent enregistré de ce parti ou par un dirigeant, l’agent financier ou un autre agent de circonscription de cette association dans les limites de son mandat sont réputés être une chose ou un acte faits ou omis par le parti ou l’association, selon le cas.
+> 2000, ch. 9, art. 504; 2001, ch. 21, art. 24; 2003, ch. 19, art. 60.
 
 
 
@@ -8692,16 +11562,20 @@ La demande est notifiée au directeur général des élections.
 
 
 
-**Parti suspendu**
+**Entités radiées**
 
-**506** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti suspendu dont l’agent principal commet une infraction visée aux alinéas 497(1)e), f) ou g) ou (3)c), d) ou e).
+**506** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti politique radié dont l’agent principal commet une infraction visée aux alinéas 497(1)e) ou (3)c).
+> 2000, ch. 9, art. 506; 2003, ch. 19, art. 61.
+
 
 
 
 
 **Parti enregistré**
 
-**507** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti enregistré dont l’agent principal commet une infraction visée aux alinéas 497(1)l), m), n), o) ou q) ou (3)g), i), j) ou m).
+**507** Commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 25 000 $ le parti enregistré dont l’agent principal commet une infraction visée aux alinéas 497(1)l), m), n), o), q) ou q.01) ou (3)g), i), j) ou m).
+> 2000, ch. 9, art. 507; 2003, ch. 19, art. 61.
+
 
 
 
@@ -8733,9 +11607,15 @@ La demande est notifiée au directeur général des élections.
 
 **Poursuites par le commissaire**
 
-**511** S’il a des motifs raisonnables de croire qu’une infraction à la présente loi a été commise et estime que l’intérêt public le justifie, le commissaire peut engager ou faire engager des poursuites visant à la sanctionner :
-- **a)** soit à la suite de l’enquête effectuée au titre de l’article 510;
-- **b)** soit d’office ou sur réception, dans les six mois de la perpétration, d’une plainte écrite alléguant la perpétration de l’infraction.
+**511** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’une infraction à la présente loi a été commise et estime que l’intérêt public le justifie, le commissaire peut engager ou faire engager des poursuites visant à la sanctionner.
+
+**Perquisition et saisie**
+
+- **(2)** Pour l’application de l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute personne chargée par le commissaire d’attributions relatives à l’application ou à l’exécution de la présente loi est réputée un fonctionnaire public.
+> 2000, ch. 9, art. 511; 2003, ch. 19, art. 62.
+
 
 
 
@@ -8768,11 +11648,17 @@ La demande est notifiée au directeur général des élections.
 
 **514** 
 
-- **(1)** Les poursuites pour infraction à la présente loi doivent être engagées dans les dix-huit mois suivant la date de la perpétration.
+- **(1)** Toute poursuite pour infraction à la présente loi doit être engagée dans les dix-huit mois suivant la date à laquelle le commissaire a connaissance des faits qui lui donnent lieu, mais au plus tard sept ans après la date de la perpétration.
 
 **Exception**
 
 - **(2)** Toutefois, si le fait que le contrevenant s’est soustrait à la juridiction compétente empêche qu’elles soient engagées, les poursuites peuvent être commencées dans l’année qui suit son retour.
+
+**Certificat du commissaire**
+
+- **(3)** Le certificat censé délivré par le commissaire et attestant la date à laquelle il a eu connaissance des faits qui donnent lieu à la poursuite est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+> 2000, ch. 9, art. 514; 2003, ch. 19, art. 63.
+
 
 
 
@@ -9091,6 +11977,15 @@ La demande est notifiée au directeur général des élections.
 
 
 
+**Financement politique**
+
+**536.1** Après la présentation à la Chambre des communes du rapport prévu par l’article 535 pour l’élection générale suivant l’entrée en vigueur du présent article, le comité de cette chambre saisi du rapport examine, en plus de celui-ci, l’effet des dispositions de la présente loi concernant le financement politique qui sont entrées en vigueur à la même date que le présent article.
+> 2003, ch. 19, art. 63.1.
+
+
+
+
+
 **Plaintes et propositions**
 
 **537** 
@@ -9203,7 +12098,7 @@ La demande est notifiée au directeur général des élections.
 
 **541** 
 
-- **(1)** Les documents visés aux paragraphes 424(1), 429(1), 451(1) ou 455(1), tous autres rapports ou états à l’exception des documents électoraux reçus des fonctionnaires électoraux, les instructions données par le directeur général des élections en application de la présente loi, les décisions qu’il rend sur des questions qui se posent dans l’application de cette loi, de même que toute la correspondance échangée avec des fonctionnaires électoraux ou d’autres personnes à l’égard d’une élection sont des documents publics. Quiconque peut les consulter, sur demande, pendant les heures de bureau.
+- **(1)** Les documents visés aux articles 403.35, 424, 429, 435.3, 435.35, 451, 455, 478.23 ou 478.3, tous autres rapports ou états à l’exception des documents électoraux reçus des fonctionnaires électoraux, les instructions données par le directeur général des élections en application de la présente loi, les décisions qu’il rend sur des questions qui se posent dans l’application de cette loi, de même que toute la correspondance échangée avec des fonctionnaires électoraux ou d’autres personnes à l’égard d’une élection sont des documents publics. Quiconque peut les consulter, sur demande, pendant les heures de bureau.
 
 **Extraits**
 
@@ -9212,6 +12107,8 @@ La demande est notifiée au directeur général des élections.
 **Admissibilité en preuve**
 
 - **(3)** Les copies des documents mentionnés au paragraphe (1) apparemment certifiées par le directeur général des élections sont admissibles en preuve sans autre preuve à cet égard.
+> 2000, ch. 9, art. 541; 2003, ch. 19, art. 64.
+
 
 
 
