@@ -6917,7 +6917,16 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **56** Chloramines inorganiques, dont la formule moléculaire est NH<sub>n</sub>Cl<sub>(3-n)</sub> où n = 0, 1 ou 2
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98.
+**57** Oxyde d’éthylène, dont la formule moléculaire est H<sub>2</sub>COCH<sub>2</sub>
+
+
+**58** Formaldéhyde, dont la formule moléculaire est CH<sub>2</sub>O
+
+
+**59** N-Nitrosodiméthylamine, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172.
 
 
 
