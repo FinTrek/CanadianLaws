@@ -382,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande d’un ministère ou d’une province**
 
-- **(2)** Sous la même réserve, le Bureau peut, à la demande d’un ministère, du lieutenant-gouverneur en conseil d’une province ou du commissaire du Yukon, des Territoires du Nord-Ouest ou du Nunavut, à condition qu’ils s’engagent à le rembourser des frais entraînés, enquêter sur un accident de transport.
+- **(2)** Sous la même réserve, le Bureau peut enquêter sur un accident de transport à la demande d’un ministère, du lieutenant-gouverneur en conseil d’une province ou du commissaire des Territoires du Nord-Ouest ou du Nunavut, ou à la demande du commissaire du Yukon faite avec l’agrément du Conseil exécutif de ce territoire, à condition qu’ils s’engagent à le rembourser des frais entraînés par l’enquête.
 
 **Compétence exclusive du Bureau**
 
@@ -395,7 +395,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inaction du Bureau**
 
 - **(5)** Il demeure entendu que, faute d’enquête par le Bureau relativement à un accident de transport, tout ministère peut enquêter sur les aspects de celui-ci ressortissant à ses pouvoirs d’enquête.
-> 1989, ch. 3, art. 14; 1993, ch. 28, art. 78; 1998, ch. 20, art. 10.
+> 1989, ch. 3, art. 14; 1993, ch. 28, art. 78; 1998, ch. 20, art. 10; 2002, ch. 7, art. 130.
 
 
 
