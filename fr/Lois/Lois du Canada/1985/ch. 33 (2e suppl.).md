@@ -55,7 +55,7 @@
 
 ***commissaire*** Membre, à temps plein ou partiel, de la Commission.
 
-***Commission*** La Commission des relations de travail dans la fonction publique, constituée en vertu de l’article 11 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+***Commission*** La Commission des relations de travail dans la fonction publique, constituée en vertu de l’article 12 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
 
 ***conciliateur*** Personne nommée par le président en application de l’article 40.
 
@@ -81,7 +81,7 @@
 
 ***grève*** S’entend notamment d’un arrêt de travail ou du refus de travailler, par des employés agissant conjointement, de concert ou de connivence; lui sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part des employés, ayant pour objet la diminution ou la limitation du rendement.
 
-***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs :
+***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs : 
 - **a)** aux personnes visées à l’alinéa d) de la définition de ***employé***;
 - **b)** en ce qui concerne les mesures portant congédiement ou suspension, aux anciens employés, ainsi qu’aux personnes qui auraient eu le statut d’employés si le poste qu’elles occupaient au moment de leur congédiement ou suspension n’avait pas été un poste de direction ou de confiance.
 
@@ -103,14 +103,14 @@
 
 ***président*** Le président de la Commission.
 
-***président suppléant*** Président suppléant de la Commission.
+***président suppléant***[Abrogée, 2003, ch. 22, art. 182]
 
  et ***règlement*** Règlement pris par la Commission; ***réglementaire*** comporte le même sens.
 
 ***unité de négociation*** Groupe d’employés déclaré constituer, sous le régime de la présente partie, une unité habile à négocier collectivement.
 
-***vice-président*** Le vice-président de la Commission.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2004, ch. 7, art. 33
+***vice-président*** Un vice-président de la Commission.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33
 
 
 
@@ -227,11 +227,13 @@
 
 
 
-**Application de la partie I**
+**Application de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
 
-**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la partie I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
+**9** Sous réserve des autres dispositions de la présente partie, les dispositions de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) concernant la Commission s’appliquent dans le cadre de la présente partie. À cet effet :
 - **a)** toute mention de cette loi dans les dispositions en cause vaut mention de la présente partie;
 - **b)** les termes employés dans les mêmes dispositions et qui sont définis dans la présente partie s’entendent au sens de celle-ci.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 9; 2003, ch. 22, art. 184
+
 
 
 
@@ -247,9 +249,17 @@
 
 
 
-**Délégation de pouvoirs au vice-président et aux présidents suppléants**
+**Délégation par la Commission**
 
-**11** Le vice-président et les présidents suppléants peuvent exercer les attributions que la présente partie confère à la Commission et que celle-ci leur délègue, à l’exception du pouvoir de prendre les règlements d’application générale visés à l’article 12.
+**11** 
+
+- **(1)** Le président peut exercer les attributions que la présente loi confère à la Commission et que celle-ci lui délègue, à l’exception du pouvoir de prendre les règlements d’application générale visés à l’article 12.
+
+**Délégation par le président**
+
+- **(2)** Le président peut déléguer à tout vice-président les attributions que lui confère la présente loi ou que lui délègue la Commission.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 11; 2003, ch. 22, art. 185
+
 
 
 
@@ -712,6 +722,8 @@
 **Demande de conciliation**
 
 **40** Le président peut nommer un conciliateur, lorsque l’employeur ou un agent négociateur avise par écrit la Commission que les parties n’arrivent pas à se mettre d’accord sur une condition d’emploi pouvant figurer dans une convention collective et qu’il désire l’aide d’un conciliateur. Dès sa nomination, le conciliateur confère avec les parties et s’efforce de les aider à parvenir à un accord.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 40; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -719,6 +731,8 @@
 **Rapport du conciliateur**
 
 **41** Le conciliateur fait rapport au président sur sa mission dans les quatorze jours suivant sa nomination ou dans le délai plus long que peut fixer le président.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 41; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -854,11 +868,13 @@
 
 **Pouvoirs de l’arbitre**
 
-- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission énumérés aux alinéas 15b) à d).
+- **(3)** L’arbitre nommé en vertu du présent article est investi de tous les pouvoirs de la Commission énumérés aux alinéas 15 b) à d).
 
 **Application circonstancielle des art. 52 à 61**
 
 - **(4)** Les articles 52 à 61 s’appliquent, compte tenu des adaptations de circonstance, aux différends renvoyés à un arbitre nommé en application du paragraphe (1).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 49; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -926,15 +942,12 @@
 - **c)** la nécessité d’établir des conditions d’emploi justes et raisonnables, compte tenu des qualités requises, du travail accompli, de la responsabilité assumée et de la nature des services rendus;
 - **d)** tout autre facteur qui, à son avis, est pertinent.
 Elle tient aussi compte, dans la mesure où les besoins de l’employeur le permettent, de la nécessité de garder des conditions d’emploi comparables dans des postes analogues dans l’administration publique fédérale.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 53; 2003, ch. 22, art. 224(A)
 
 
 
 
-**Restriction**
-
-**53.1** Pendant la période où les articles 64 à 75.1 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) sont inopérants en vertu de l’alinéa 62(1)b) de cette loi, la Commission ne peut, dans ses décisions arbitrales au sujet d’un différend, accorder des augmentations de rémunération et d’avantages supérieures, dans l’ensemble, à celles qui sont obtenues après des négociations collectives ou d’une autre façon par une unité de négociation analogue dans la fonction publique, une fois terminée la période de prorogation, prévue aux termes de la [Loi sur la rémunération du secteur public](/fr/Lois/Lois%20du%20Canada/1991/ch.%2030.md), du régime de rémunération applicable à cette unité.
-> 1996, ch. 18, art. 11; 1999, ch. 26, art. 18
-
+**53.1** [Abrogé, 2003, ch. 22, art. 186]
 
 
 
@@ -1152,6 +1165,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Incompatibilité**
 
 - **(2)** L’appartenance au conseil est incompatible avec un intérêt quelconque, direct ou indirect, à l’égard du grief renvoyé à l’arbitrage, de son instruction ou de son règlement.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 65; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -1175,11 +1190,13 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 
 **Sort de certaines affaires**
 
-- **(3)** Par dérogation à l’article 64 et aux paragraphes (1) et (2), le grief portant sur les points visés aux alinéas 63(1)d), e) ou f) est, sur renvoi à l’arbitrage, déféré à un arbitre seul choisi par l’employé et l’employeur en cause ou, en cas de désaccord et à la demande écrite de l’un ou l’autre, par le président.
+- **(3)** Par dérogation à l’article 64 et aux paragraphes (1) et (2), le grief portant sur les points visés aux alinéas 63(1) d), e) ou f) est, sur renvoi à l’arbitrage, déféré à un arbitre seul choisi par l’employé et l’employeur en cause ou, en cas de désaccord et à la demande écrite de l’un ou l’autre, par le président.
 
 **Précision sur l’arbitre**
 
 - **(4)** Cet arbitre ne peut ni être commissaire, ni avoir un intérêt direct ou indirect dans le grief ou dans l’instruction ou le règlement de celui-ci; toutefois, dans le cadre de l’arbitrage, il dispose de tous les pouvoirs d’un commissaire, sauf celui de prendre des règlements d’application générale au titre de l’article 12.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 66; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -1245,6 +1262,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Pouvoirs de la Commission relativement à une décision au sujet d’un grief**
 
 - **(6)** La Commission peut prendre toute mesure prévue par l’article 13 pour donner effet à la décision rendue par un arbitre sur un grief, sans toutefois discuter le fondement ou la substance de cette décision.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 68; 2003, ch. 22, art. 187(A)
+
 
 
 
@@ -1459,6 +1478,8 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 **Application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)**
 
 **82** Sauf décision contraire du gouverneur en conseil visant un cas ou une catégorie de cas, les personnes nommées au titre de la présente partie sont réputées ne pas faire partie de la fonction publique pour les besoins de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 82; 2003, ch. 22, art. 225(A)
+
 
 
 
