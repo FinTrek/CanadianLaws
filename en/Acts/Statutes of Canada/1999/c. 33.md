@@ -7367,19 +7367,19 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-**(z.14) ** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
+**(z.14) ** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C  <sub>4</sub>F  <sub>9</sub>OCH  <sub>3</sub>);
 
 
 
-**(z.15) ** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
+**(z.15) ** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF  <sub>3</sub>)  <sub>2</sub>CFCF  <sub>2</sub>OCH  <sub>3</sub>);
 
 
 
-**(z.16) ** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
+**(z.16) ** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C  <sub>4</sub>F  <sub>9</sub>OC  <sub>2</sub>H  <sub>5</sub>);
 
 
 
-**(z.17) ** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>); and
+**(z.17) ** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF  <sub>3</sub>)  <sub>2</sub>CFCF  <sub>2</sub>OC  <sub>2</sub>H  <sub>5</sub>); and
 
 
 
@@ -7404,7 +7404,16 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229.
+**66** Hexachlorobutadiene, which has the molecular formula C<sub>4</sub>Cl<sub>6</sub>
+
+
+**67** Particulate matter containing metals that is released in emissions from copper smelters or refineries, or from both
+
+
+**68** Particulate matter containing metals that is released in emissions from zinc plants
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277.
 
 
 
