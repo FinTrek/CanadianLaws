@@ -21596,7 +21596,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2002
+## As at December 31, 2003
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21620,6 +21620,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>Canadian Imperial Bank of Commerce</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Canadian Tire Bank</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21663,19 +21667,27 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Montréal</td>
 </tr>
 <tr>
+<td>Sears Canada Bank</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>The Toronto-Dominion Bank</td>
 <td>Toronto</td>
 </tr>
+<tr>
+<td>Ubiquity Bank of Canada</td>
+<td>Abbotsford</td>
+</tr>
 </table>
 
-> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 137, page 408.
+> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 138, page 275.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2002
+## As at December 31, 2003
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21710,6 +21722,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
+<td>BCPBank Canada</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>BNP Paribas (Canada)</td>
 <td>Montréal</td>
 </tr>
@@ -21722,16 +21738,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Credit Suisse First Boston Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>CTC Bank of Canada</td>
 <td>Vancouver</td>
-</tr>
-<tr>
-<td>Deutsche Bank Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>Dresdner Bank Canada</td>
@@ -21746,15 +21754,19 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Vancouver</td>
 </tr>
 <tr>
+<td>ICICI Bank Canada</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>ING Bank of Canada</td>
 <td>Toronto</td>
 </tr>
 <tr>
-<td>International Commerical Bank of Cathay (Canada)</td>
+<td>International Commercial Bank of Cathay (Canada)</td>
 <td>Toronto</td>
 </tr>
 <tr>
-<td>IntesaBci Canada</td>
+<td>Intesa Bank Canada</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21774,7 +21786,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ottawa</td>
 </tr>
 <tr>
-<td>Mizuho Bank (Canada)</td>
+<td>Mizuho Corporate Bank (Canada)</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21782,16 +21794,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Montréal</td>
 </tr>
 <tr>
-<td>Rabobank Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>Société Générale (Canada)</td>
 <td>Montréal</td>
-</tr>
-<tr>
-<td>Sottomayor Bank Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>State Bank of India (Canada)</td>
@@ -21809,20 +21813,16 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>UFJ Bank Canada</td>
 <td>Toronto</td>
 </tr>
-<tr>
-<td>United Overseas Bank (Canada)</td>
-<td>Vancouver</td>
-</tr>
 </table>
 
-> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 137, page 408.
+> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 138, page 275.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2002
+## As at December 31, 2003
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -21837,8 +21837,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Bank of America,National Association</td>
-<td>Bank of America,National Association</td>
+<td>Bank of America, National Association</td>
+<td>Bank of America, National Association</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21903,8 +21903,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
-<td>J.P. Morgan Chase Bank</td>
-<td>J.P. Morgan Chase Bank</td>
+<td>JPMorgan Chase Bank</td>
+<td>JPMorgan Chase Bank</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21933,6 +21933,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
+<td>UBS AG</td>
+<td>UBS AG Canada Branch</td>
+<td>Full-service</td>
+<td>Toronto</td>
+</tr>
+<tr>
 <td>Union Bank of California, N.A.</td>
 <td>Union Bank of California, Canada Branch</td>
 <td>Lending</td>
@@ -21952,7 +21958,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>WestLB AG</td>
-<td>WestLB</td>
+<td>WestLB AG</td>
 <td>Lending</td>
 <td>Toronto</td>
 </tr>
@@ -21960,6 +21966,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 
 <a name='B-1.01_en_1'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 137, page 409.
+> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 138, page 275.
 
 
