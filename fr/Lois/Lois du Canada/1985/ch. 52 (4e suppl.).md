@@ -25,20 +25,20 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***caractéristique patrimoniale*** Caractéristique d’une gare ferroviaire patrimoniale désignée par le ministre, sur recommandation de la Commission, comme caractéristique patrimoniale.
+***caractéristique patrimoniale*** Caractéristique d’une gare ferroviaire patrimoniale désignée par le ministre, sur recommandation de la Commission, comme caractéristique patrimoniale. (*heritage feature*)
 
-***Commission*** La Commission des lieux et monuments historiques du Canada constituée par l’article 4 de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md).
+***Commission*** La Commission des lieux et monuments historiques du Canada constituée par l’article 4 de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md). (*Board*)
 
-***gare ferroviaire patrimoniale*** Gare désignée par le ministre, sur recommandation de la Commission, comme gare ferroviaire patrimoniale.
+***gare ferroviaire patrimoniale*** Gare désignée par le ministre, sur recommandation de la Commission, comme gare ferroviaire patrimoniale. (*heritage railway station*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***modifier*** Effectuer un changement quelconque, notamment restaurer, rénover ou réparer.
+***modifier*** Effectuer un changement quelconque, notamment restaurer, rénover ou réparer. (*alter*)
 
 **Partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)**
 
 - **(2)** Sauf disposition contraire, les termes de la présente loi s’entendent au sens de la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
-> L.R. (1985), ch. 52 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 231.
+> L.R. (1985), ch. 52 (4<sup>e</sup> suppl.), art. 2; 1996, ch. 10, art. 231; 2005, ch. 2, art. 10.
 
 
 
