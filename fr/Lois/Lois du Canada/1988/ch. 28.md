@@ -240,6 +240,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Rattachement du président**
 
 - **(3)** Le président ne peut en cours de mandat être également fonctionnaire.
+> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A).
+
 
 
 
@@ -477,7 +479,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Présomption**
 
-- **(3)** Sous réserve du paragraphe (4), les agents de l’Office ne font pas, du fait de leur recrutement, partie de l’administration fédérale ou provinciale.
+- **(3)** Sous réserve du paragraphe (4), les agents de l’Office ne font pas, du fait de leur recrutement, partie de l’administration publique fédérale ou provinciale.
 
 **Mutations**
 
@@ -486,6 +488,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Définition de fonction publique**
 
 - **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123 et 225(A).
+
 
 
 
@@ -2934,6 +2938,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Mandats renouvelables**
 
 - **(3)** Les membres peuvent recevoir un nouveau mandat, à des fonctions identiques ou non.
+> 1988, ch. 28, art. 145; 2003, ch. 22, art. 124(A).
+
 
 
 
@@ -2954,11 +2960,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Rémunération**
 
-- **(4)** Les membres qui ne font pas partie de l’administration fédérale ou provinciale ont droit à la rémunération que peut autoriser l’Office.
+- **(4)** Les membres qui ne font pas partie de l’administration publique fédérale ou provinciale ont droit à la rémunération que peut autoriser l’Office.
 
 **Frais**
 
 - **(5)** Les membres ont le droit de recevoir les frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors du lieu habituel de leur résidence.
+> 1988, ch. 28, art. 146; 2003, ch. 22, art. 125.
+
 
 
 
@@ -2974,11 +2982,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **148** 
 
-- **(1)** La majorité des membres, dont l’un ne fait pas partie de l’administration fédérale ou provinciale, constitue le quorum.
+- **(1)** La majorité des membres, dont l’un ne fait pas partie de l’administration publique fédérale ou provinciale, constitue le quorum.
 
 **Attributions**
 
 - **(2)** Le Comité peut, par règlement administratif compatible avec la présente loi, régir la conduite de ses travaux ainsi que les dates et lieux de ses réunions.
+> 1988, ch. 28, art. 148; 2003, ch. 22, art. 126.
+
 
 
 
