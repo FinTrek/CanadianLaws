@@ -96,7 +96,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** L’Office a pour mission :
+- **(1)** L’Office a pour mission :
 	- **a)** de gérer, dans l’intérêt des contributeurs et des bénéficiaires des régimes en cause, les sommes transférées en application des paragraphes 54(2) et 55.2(5) et de l’article 59.4 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), des paragraphes 43(2) et 44.2(5) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et des paragraphes 28(2) et 29.2(5) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
 	- **b)** de placer son actif en vue d’un rendement maximal tout en évitant des risques de perte indus et compte tenu du financement et des principes et exigences des régimes ainsi que de l’aptitude de ceux-ci à s’acquitter de leurs obligations financières.
 
@@ -106,7 +106,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(3)** Le ministre détermine sur quels fonds les coûts sont payés. Aucune somme ne peut être payée en ce qui touche la Caisse de retraite des Forces canadiennes, le Fonds de placement du compte de pension de retraite des Forces canadiennes et, si des règlements sont pris en vertu de l’article 59.1 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), en ce qui touche le fonds visé à l’article 59.3 de cette loi sauf après consultation du ministre de la Défense nationale et, en ce qui touche la Caisse de retraite de la Gendarmerie royale du Canada et le Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada, sauf après consultation du solliciteur général du Canada.
+- **(3)** Le ministre détermine sur quels fonds les coûts sont payés. Aucune somme ne peut être payée en ce qui touche la Caisse de retraite des Forces canadiennes, le Fonds de placement du compte de pension de retraite des Forces canadiennes et, si des règlements sont pris en vertu de l’article 59.1 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), en ce qui touche le fonds visé à l’article 59.3 de cette loi sauf après consultation du ministre de la Défense nationale et, en ce qui touche la Caisse de retraite de la Gendarmerie royale du Canada et le Fonds de placement du compte de pension de retraite de la Gendarmerie royale du Canada, sauf après consultation du ministre de la Sécurité publique et de la Protection civile.
+> 1999, ch. 34, art. 4; 2005, ch. 10, art. 34.
+
 
 
 
@@ -223,15 +225,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le ministre constitue un comité chargé d’établir une liste de personnes compétentes pour remplir les fonctions d’administrateur. Le comité est composé des huit membres suivants :
-	- **a)** un président indépendant qui est nommé par le ministre après consultation du ministre de la Défense nationale et du solliciteur général du Canada et qui, au moment de sa nomination, remplit les conditions suivantes :
+- **(1)** Le ministre constitue un comité chargé d’établir une liste de personnes compétentes pour remplir les fonctions d’administrateur. Le comité est composé des huit membres suivants :
+	- **a)** un président indépendant qui est nommé par le ministre après consultation du ministre de la Défense nationale et du ministre de la Sécurité publique et de la Protection civile et qui, au moment de sa nomination, remplit les conditions suivantes :
 		- **(i)** il n’est pas en droit de recevoir — ni ne s’est vu accorder — une pension de retraite au titre de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) ou de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md),
 		- **(ii)** il n’est pas en droit de recevoir — ni ne s’est vu accorder — une pension de retraite d’un type réglementaire, payable sur le Trésor et imputée à tout compte de pension de retraite ou à tout autre compte ouvert parmi les comptes du Canada, ou payable sur un fonds,
 		- **(iii)** il n’est pas assujetti à un fonds ou un régime de retraite ou de pension aux termes duquel il peut devenir admissible à une prestation visée aux sous-alinéas (i) ou (ii);
 	- **b)** deux membres nommés par le ministre, après recommandation du comité consultatif visé à l’article 41 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), dont l’un doit représenter les personnes employées dans la fonction publique, au sens de cette loi;
 	- **c)** un membre que le ministre choisit parmi les personnes recevant une pension au titre de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
 	- **d)** deux membres nommés par le ministre de la Défense nationale, après recommandation du comité consultatif visé à l’article 49.1 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md);
-	- **e)** deux membres nommés par le solliciteur général du Canada, après recommandation du comité consultatif visé à l’article 25.1 de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
+	- **e)** deux membres nommés par le ministre de la Sécurité publique et de la Protection civile, après recommandation du comité consultatif visé à l’article 25.1 de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
 
 **Nouveau mandat**
 
@@ -248,7 +250,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compétence**
 
 - **(5)** Dans le cadre de l’établissement de la liste, le comité tente d’assurer, autant que faire se peut, la présence au conseil d’un nombre suffisant de personnes ayant une compétence financière reconnue ou une expérience de travail propre à aider l’Office à accomplir sa mission avec efficacité.
-> 1999, ch. 34, art. 10; 2003, ch. 22, art. 225(A).
+> 1999, ch. 34, art. 10; 2003, ch. 22, art. 225(A); 2005, ch. 10, art. 34.
 
 
 
@@ -303,7 +305,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Sur recommandation du ministre faite après consultation des administrateurs, du ministre de la Défense nationale et du solliciteur général du Canada, le gouverneur en conseil désigne, à titre inamovible, l’un des administrateurs au poste de président.
+- **(1)** Sur recommandation du ministre faite après consultation des administrateurs, du ministre de la Défense nationale et du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil désigne, à titre inamovible, l’un des administrateurs au poste de président.
 
 **Révocation**
 
@@ -324,6 +326,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération du président**
 
 - **(6)** Le président reçoit de l’Office la rémunération fixée par règlement administratif compte tenu de la rémunération accordée aux personnes ayant des fonctions et des responsabilités semblables.
+> 1999, ch. 34, art. 14; 2005, ch. 10, art. 34.
+
 
 
 
@@ -520,11 +524,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Le conseil d’administration envoie au ministre, au ministre de la Défense nationale et au solliciteur général du Canada des copies du règlement administratif ou, le cas échéant, de son abrogation ou de toute modification dans les quatorze jours suivant sa prise d’effet.
+- **(1)** Le conseil d’administration envoie au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile des copies du règlement administratif ou, le cas échéant, de son abrogation ou de toute modification dans les quatorze jours suivant sa prise d’effet.
 
 **Copie au siège social**
 
 - **(2)** L’Office conserve à son siège une copie des règlements administratifs, que l’on peut consulter pendant les heures normales d’ouverture et, sur paiement d’un droit raisonnable, photocopier en tout ou en partie.
+> 1999, ch. 34, art. 25; 2005, ch. 10, art. 34.
+
 
 
 
@@ -732,7 +738,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Copie du rapport transmise aux ministres**
 
-- **(6)** Dès que le rapport est établi, le vérificateur en envoie copie au ministre, au ministre de la Défense nationale et au solliciteur général du Canada.
+- **(6)** Dès que le rapport est établi, le vérificateur en envoie copie au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile.
+> 1999, ch. 34, art. 36; 2005, ch. 10, art. 34.
+
 
 
 
@@ -749,7 +757,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rectificatif**
 
-- **(3)** À la suite de l’avis prévu au paragraphe (2), l’Office fait établir un état financier révisé ou le vérificateur ou son prédécesseur apporte un rectificatif au rapport; un exemplaire du document en cause est remis au ministre, au ministre de la Défense nationale et au solliciteur général du Canada.
+- **(3)** À la suite de l’avis prévu au paragraphe (2), l’Office fait établir un état financier révisé ou le vérificateur ou son prédécesseur apporte un rectificatif au rapport; un exemplaire du document en cause est remis au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile.
+> 1999, ch. 34, art. 37; 2005, ch. 10, art. 34.
+
 
 
 
@@ -817,7 +827,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Transmission de la déclaration**
 
-- **(8)** L’Office fait parvenir sans délai au ministre, au ministre de la Défense nationale et au solliciteur général du Canada un exemplaire de la déclaration du vérificateur visé par le remplacement ou qui démissionne en raison d’un désaccord avec les administrateurs ou dirigeants.
+- **(8)** L’Office fait parvenir sans délai au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile un exemplaire de la déclaration du vérificateur visé par le remplacement ou qui démissionne en raison d’un désaccord avec les administrateurs ou dirigeants.
+> 1999, ch. 34, art. 39; 2005, ch. 10, art. 34.
+
 
 
 
@@ -900,7 +912,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(2)** Auparavant, il doit toutefois consulter le ministre de la Défense nationale et le solliciteur général du Canada.
+- **(2)** Auparavant, il doit toutefois consulter le ministre de la Défense nationale et le ministre de la Sécurité publique et de la Protection civile.
 
 **Plan d’action**
 
@@ -917,6 +929,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépenses**
 
 - **(6)** Les dépenses exposées à cet effet sont à la charge de l’Office.
+> 1999, ch. 34, art. 44; 2005, ch. 10, art. 34.
+
 
 
 
@@ -925,13 +939,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **45** 
 
-- **(1)** Ses travaux terminés, l’examinateur expose ses conclusions dans un rapport qu’il soumet au ministre, au ministre de la Défense nationale et au solliciteur général du Canada.
+- **(1)** Ses travaux terminés, l’examinateur expose ses conclusions dans un rapport qu’il soumet au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile.
 
 **Contenu**
 
 - **(2)** Le rapport comporte notamment deux énoncés précisant :
 	- **a)** d’une part, si, selon l’examinateur, compte tenu des critères établis en conformité avec le paragraphe 44(3), il peut être garanti que, dans la mesure du possible, les moyens et les méthodes étudiés ne présentent pas de défauts graves;
 	- **b)** d’autre part, dans quelle mesure l’examinateur s’est fié aux résultats d’une vérification interne.
+> 1999, ch. 34, art. 45; 2005, ch. 10, art. 34.
+
 
 
 
@@ -959,7 +975,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Envoi des états financiers aux ministres**
 
-**47** Dans un délai de quarante-cinq jours suivant la fin du trimestre concerné, l’Office envoie au ministre, au ministre de la Défense nationale et au solliciteur général du Canada copie des états financiers trimestriels établis en conformité avec le paragraphe 35(6).
+**47** Dans un délai de quarante-cinq jours suivant la fin du trimestre concerné, l’Office envoie au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile copie des états financiers trimestriels établis en conformité avec le paragraphe 35(6).
+> 1999, ch. 34, art. 47; 2005, ch. 10, art. 34.
+
 
 
 
@@ -972,7 +990,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **48** 
 
-- **(1)** Le plus tôt possible dans les quatre-vingt-dix jours suivant la fin de chaque exercice, l’Office fait parvenir un rapport annuel de ses activités pendant l’exercice au ministre, au ministre de la Défense nationale et au solliciteur général du Canada.
+- **(1)** Le plus tôt possible dans les quatre-vingt-dix jours suivant la fin de chaque exercice, l’Office fait parvenir un rapport annuel de ses activités pendant l’exercice au ministre, au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile.
 
 **Rapport mis à la disposition des contributeurs**
 
@@ -995,6 +1013,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **h)** un sommaire du code de déontologie visé à l’alinéa 7(2)e);
 	- **i)** le rapport sur toute vérification spéciale ou tout examen spécial visés aux articles 43 ou 44;
 	- **j)** les renseignements réglementaires ou tout autre renseignement exigé par le ministre.
+> 1999, ch. 34, art. 48; 2005, ch. 10, art. 34.
+
 
 
 
