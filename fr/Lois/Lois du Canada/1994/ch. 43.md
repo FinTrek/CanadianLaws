@@ -1261,7 +1261,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **76** 
 
-- **(1)** Il est entendu que la Section de première instance de la Cour fédérale conserve, à l’égard de l’Office, la compétence que lui confère l’alinéa 18(1)b) de la Loi sur la Cour fédérale. Cependant, le procureur général du Canada, le ministre territorial ou quiconque est directement touché par l’objet de la demande peut présenter une demande de contrôle judiciaire à la Cour suprême du Yukon, afin de réclamer toute réparation qu’il serait en droit d’obtenir contre l’Office par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus* ou prohibition — ou d’ordonnance de même nature.
+- **(1)** Il est entendu que la Cour fédérale conserve, à l’égard de l’Office, la compétence que lui confère l’alinéa 18(1)b) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md). Cependant, le procureur général du Canada, le ministre territorial ou quiconque est directement touché par l’objet de la demande peut présenter une demande de contrôle judiciaire à la Cour suprême du Yukon, afin de réclamer toute réparation qu’il serait en droit d’obtenir contre l’Office par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus* ou prohibition — ou d’ordonnance de même nature.
 
 **Délai de présentation**
 
@@ -1269,13 +1269,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs de la cour**
 
-- **(3)** Saisie de la demande, la cour peut :
+- **(3)** Saisie de la demande, la cour peut :
 	- **a)** ordonner à l’Office d’accomplir tout acte qu’il a illégalement omis ou refusé d’accomplir ou dont il a retardé l’exécution de manière déraisonnable;
 	- **b)** prohiber, restreindre, déclarer nul ou illégal, infirmer, ou annuler et renvoyer pour décision, conformément aux instructions qu’elle estime indiquées, toute décision, toute ordonnance, toute procédure ou tout autre acte de l’Office.
 
 **Motifs de contrôle**
 
-- **(4)** La cour peut accorder la réparation si elle est convaincue que l’Office a, selon le cas :
+- **(4)** La cour peut accorder la réparation si elle est convaincue que l’Office a, selon le cas :
 	- **a)** agi sans compétence, outrepassé celle-ci ou refusé de l’exercer;
 	- **b)** manqué à un principe de justice naturelle ou d’équité procédurale ou à toute autre obligation à laquelle il était légalement tenu;
 	- **c)** rendu une décision ou une ordonnance entachée d’une erreur de droit, que celle-ci soit manifeste ou non au vu du dossier;
@@ -1290,7 +1290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mesures provisoires**
 
 - **(6)** Saisie d’une demande de contrôle judiciaire, la cour peut prendre les mesures provisoires qu’elle estime indiquées avant de rendre sa décision définitive.
-> 1994, ch. 43, art. 76; 2002, ch. 10, art. 192(F).
+> 1994, ch. 43, art. 76; 2002, ch. 8, art. 181, ch. 10, art. 192(F) et 202(F).
 
 
 
