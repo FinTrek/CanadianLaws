@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2003/c.%202.md)
 
-#  Loi sur l’activité physique et le sport 
+# Loi sur l’activité physique et le sport
 
 **L.C. 2003, ch. 2**
 
@@ -168,7 +168,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Offices fédéraux**
 
-- **(4)** Pour l’application de la Loi sur la Cour fédérale, ni le Centre ni les arbitres ou médiateurs fournissant des services par son entremise ne constituent des offices fédéraux au sens de cette loi.
+- **(4)** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ni le Centre ni les arbitres ou médiateurs fournissant des services par son entremise ne constituent des offices fédéraux au sens de cette loi.
 
 **Langues officielles**
 
@@ -177,6 +177,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Siège social**
 
 - **(6)** Le Centre a son siège social au Canada, au lieu que fixent ses règlements administratifs.
+> 2003, ch. 2, art. 9 et 38.
+
 
 
 
@@ -614,8 +616,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modification corrélative
 
 
-
-**1995, ch. 11**
 
 ### Loi sur le ministère du Patrimoine canadien
 
