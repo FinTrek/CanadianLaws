@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md)
 
-#  Loi sur l’évaluation environnementale et socioéconomique au Yukon 
+# Loi sur l’évaluation environnementale et socioéconomique au Yukon
 
 **L.C. 2003, ch. 7**
 
@@ -1491,12 +1491,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** au ministre de l’Environnement, si la recommandation provient d’une commission visée à l’article 63;
 	- **f)** à tout organisme administratif autonome chargé de délivrer une autorisation nécessaire à la réalisation du projet de développement ou ayant reçu une demande d’aide financière à cette fin;
 	- **g)** à l’Office des droits de surface du Yukon, dans le cas où il est appelé, en vertu de la [Loi sur l’Office des droits de surface du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2043.md), à rendre une ordonnance d’accès relativement au projet de développement;
-	- **h)** à l’Office des eaux du territoire du Yukon, dans les cas où il est appelé, en vertu de la [Loi sur les eaux du Yukon](/fr/Lois/Lois%20du%20Canada/1992/ch.%2040.md), à délivrer un permis à l’égard du projet de développement;
+	- **h)** à l’organisme compétent en matière de droits relatifs aux eaux dans les cas où il est appelé, en vertu des textes législatifs territoriaux, à attribuer ou à renouveler de tels droits relativement au projet de développement;
 	- **i)** à quiconque n’est pas par ailleurs visé au présent paragraphe mais est tenu de mettre en oeuvre la décision écrite aux termes des paragraphes 82(2), 83(2) ou 84(2) ou (3).
 
 **Office d’aménagement**
 
 - **(2)** Copie de la décision écrite autorisant la réalisation d’un projet de développement non conforme au plan d’aménagement régional visé à l’article 44 est adressée à l’office d’aménagement concerné ainsi qu’à quiconque a approuvé le plan d’aménagement.
+> 2003, ch. 7, art. 81 et 133.
+
 
 
 
@@ -1555,9 +1557,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Office des eaux du territoire du Yukon**
+**Droits relatifs aux eaux**
 
-**86** L’Office des eaux du territoire du Yukon ne peut procéder à la délivrance d’un permis au sens de la [Loi sur les eaux du Yukon](/fr/Lois/Lois%20du%20Canada/1992/ch.%2040.md) — ou assortir celui-ci de conditions — qu’en conformité avec les décisions écrites prises par d’autres décisionnaires fédéraux ou celles devant être mises en oeuvre par les autorités fédérales, les autorités territoriales, les municipalités et les premières nations aux termes des paragraphes 83(2) ou 84(2) ou (3).
+**86** L’organisme compétent en matière de droits relatifs aux eaux ne peut procéder à l’attribution ou au renouvellement de tels droits, sous le régime des textes législatifs territoriaux — ou assortir ceux-ci de conditions — qu’en conformité avec les décisions écrites prises par les décisionnaires fédéraux ou celles devant être mises en oeuvre par les autorités fédérales, les autorités territoriales, les municipalités et les premières nations aux termes des paragraphes 83(2) ou 84(2) ou (3).
+> 2003, ch. 7, art. 86 et 133.
+
 
 
 
@@ -1609,11 +1613,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article et à l’article 91.
 
- et  and ***Bureau d’examen des répercussions environnementales*** et ***Comité d’étude des répercussions environnementales*** Le bureau et le comité établis par l’article 11 de la convention.
+***Bureau d’examen des répercussions environnementales*** et ***Comité d’étude des répercussions environnementales*** Le bureau et le comité établis par l’article 11 de la convention. (*Screening Committee* and *Review Board*)
 
-***convention*** La Convention définitive des Inuvialuit, mise en oeuvre par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md), chapitre 24 des Statuts du Canada de 1984, dans sa version en vigueur à la date d’entrée en vigueur de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md).
+***convention*** La Convention définitive des Inuvialuit, mise en oeuvre par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md), chapitre 24 des Statuts du Canada de 1984, dans sa version en vigueur à la date d’entrée en vigueur de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md). (*Agreement*)
 
-***Versant nord du Yukon*** S’entend au sens de l’article 12 de la convention.
+***Versant nord du Yukon*** S’entend au sens de l’article 12 de la convention. (*Yukon North Slope*)
 
 **Prise en compte**
 
@@ -2012,7 +2016,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 **110** 
 
-- **(1)** Le bureau désigné, le comité de direction ou le comité restreint ou mixte, en recommandant au décisionnaire la réalisation d’un projet de développement — avec ou sans conditions — , peut aussi recommander la prise de mesures de contrôle ou de vérification relativement à celui-ci.
+- **(1)** Le bureau désigné, le comité de direction ou le comité restreint ou mixte, en recommandant au décisionnaire la réalisation d’un projet de développement — avec ou sans conditions —, peut aussi recommander la prise de mesures de contrôle ou de vérification relativement à celui-ci.
 
 **Communication des résultats**
 
@@ -2102,13 +2106,17 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Renvoi de questions par l’Office**
 
 **115** L’Office peut, à la demande d’un bureau désigné, du comité de direction, d’un comité restreint ou mixte ou d’un décisionnaire, déférer toute question de droit ou de compétence soulevée dans le cadre des instances tenues sous le régime de la présente loi à la Cour suprême du Yukon.
+> 2003, ch. 7, art. 115 et 133(A).
+
 
 
 
 
 **Demande de contrôle judiciaire**
 
-**116** Indépendamment de la compétence exclusive accordée par l’article 18 de la Loi sur la Cour fédérale, le procureur général du Canada, le ministre territorial ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême du Yukon afin d’obtenir, contre l’Office, un bureau désigné, le comité de direction, un comité restreint ou mixte ou un décisionnaire, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+**116** Indépendamment de la compétence exclusive accordée par l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le procureur général du Canada, le ministre territorial ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême du Yukon afin d’obtenir, contre l’Office, un bureau désigné, le comité de direction, un comité restreint ou mixte ou un décisionnaire, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+> 2003, ch. 7, art. 116 et 132.
+
 
 
 
@@ -2211,7 +2219,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 **124** 
 
-- **(1)** Le Décret sur les lignes directrices visant le processus d’évaluation et d’examen en matière d’environnement, approuvé par le décret C.P. 1984-2132 du 21 juin 1984 et enregistré sous le numéro DORS/84-467, continue de s’appliquer aux projets de développement pour lesquels une commission d’évaluation environnementale a été constituée sous son régime avant l’entrée en vigueur de la partie 2 de la présente loi. Ces projets sont dès lors soustraits au processus mis en place par la présente loi en ce qui touche les projets de développement.
+- **(1)** Le Décret sur les lignes directrices visant le processus d’évaluation et d’examen en matière d’environnement, approuvé par le décret C.P. 1984-2132 du 21 juin 1984 et enregistré sous le numéro DORS/84-467, continue de s’appliquer aux projets de développement pour lesquels une commission d’évaluation environnementale a été constituée sous son régime avant l’entrée en vigueur de la partie 2 de la présente loi. Ces projets sont dès lors soustraits au processus mis en place par la présente loi en ce qui touche les projets de développement.
 
 **Examens préalables en cours et évaluations initiales**
 
@@ -2252,8 +2260,6 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
-**L.R., ch. A-1**
-
 #### Loi sur l’accès à l’information
 
 
@@ -2266,8 +2272,6 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
-**L.R., ch. P-21**
-
 #### Loi sur la protection des renseignements personnels
 
 
@@ -2276,8 +2280,6 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
-**1994, ch. 35**
-
 #### Loi sur l’autonomie gouvernementale des premières nations du Yukon
 
 
@@ -2285,8 +2287,6 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
-
-**1994, ch. 43**
 
 #### Loi sur l’Office des droits de surface du Yukon
 
@@ -2316,7 +2316,7 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 <sup><a href='#Y-2-2-fnote1'>[*]</a></sup>**134** L’article 6, la partie 2 et les articles 124 à 126 et 131 entrent en vigueur dix-huit mois après la date de sanction de la présente loi ou, dans cet intervalle, à la date fixée par décret.
 
-<a name='Y-2-2-fnote1'><sup>*</sup></a>: [Note : Loi, sauf article 6, partie 2 et articles 124 à 126 et 131, en vigueur à la sanction le 13 mai 2003.]<br />
+<a name='Y-2-2-fnote1'><sup>*</sup></a>: [Note : Loi, sauf article 6, partie 2 et articles 124 à 126 et 131, en vigueur à la sanction le 13 mai 2003; l’article 6, la partie 2 et articles 124 à 126 et 131 en vigueur le 13 novembre 2004.]<br />
 
 
 
