@@ -178,14 +178,14 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 
 **10** 
 
-- **(1)** Subject to the regulations, the publisher who makes a publication available in Canada shall, at the publisher's own expense, provide two copies of the publication to the Librarian and Archivist — who shall acknowledge their receipt — within
+- **(1)** Subject to the regulations, the publisher who makes a publication available in Canada shall, at the publisher’s own expense, provide two copies of the publication to the Librarian and Archivist — who shall acknowledge their receipt — within
 	- **(a)** in any case other than one referred to in paragraph (b), seven days after the day it is made available; or
 	- **(b)** in the case of a publication that is in a class prescribed under paragraph (2)(d), seven days after receiving a written request from the Librarian and Archivist or any longer period specified in the request.
 
 **Regulations**
 
 - **(2)** The Minister may make regulations for the purposes of this section, including regulations
-	- **(a)** defining ***publisher***;
+	- **(a)** defining “publisher”;
 	- **(b)** respecting any measures that must be taken to make the publications that use a medium other than paper and their contents accessible to the Librarian and Archivist;
 	- **(c)** prescribing the classes of publications in respect of which only one copy is required to be provided; and
 	- **(d)** prescribing the classes of publications in respect of which the obligation under subsection (1) applies only on a written request from the Librarian and Archivist.
@@ -289,7 +289,7 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 
 **Restricted access to Privy Council confidences**
 
-**15** The Librarian and Archivist shall not provide access to confidences of the Queen's Privy Council for Canada to which subsection 69(1) of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) applies without the consent of the Clerk of the Privy Council.
+**15** The Librarian and Archivist shall not provide access to confidences of the Queen’s Privy Council for Canada to which subsection 69(1) of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) applies without the consent of the Clerk of the Privy Council.
 
 
 
@@ -660,6 +660,6 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 
 <sup><a href='#L-7.7_s57_E'>[*]</a></sup>**57** The provisions of this Act, other than sections 21, 53 and 54, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='L-7.7_s57_E'><sup>*</sup></a>: [Note: Sections 21, 53 and 54 in force on assent April 22, 2004.]<br />
+<a name='L-7.7_s57_E'><sup>*</sup></a>: [Note: Sections 21, 53 and 54 in force on assent April 22, 2004; Act, other than sections 21, 53 and 54, in force May 21, 2004, *see* SI/2004-58.]<br />
 
 
