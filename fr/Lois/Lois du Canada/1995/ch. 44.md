@@ -696,7 +696,9 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Effet des ordonnances**
 
-- **(3)** Les ordonnances du tribunal ne sont susceptibles de révision qu’au titre de la Loi sur la Cour fédérale.
+- **(3)** Les ordonnances du tribunal ne sont susceptibles de révision qu’au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 1995, ch. 44, art. 30; 2002, ch. 8, art. 182.
+
 
 
 
@@ -894,8 +896,8 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Effet de décision**
 
-- **(8)** Les décisions du tribunal ne sont susceptibles de révision qu’au titre de la Loi sur la Cour fédérale.
-> 1995, ch. 44, art. 39; 1998, ch. 9, art. 41.
+- **(8)** Les décisions du tribunal ne sont susceptibles de révision qu’au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 1995, ch. 44, art. 39; 1998, ch. 9, art. 41; 2002, ch. 8, art. 182.
 
 
 
