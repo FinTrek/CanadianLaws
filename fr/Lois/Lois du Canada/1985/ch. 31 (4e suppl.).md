@@ -83,7 +83,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commissaire*** Le commissaire aux langues officielles nommé au titre de l’article 49.
 
-***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes et la bibliothèque du Parlement, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. Ne sont pas visés les institutions du conseil ou de l’administration du Yukon et des Territoires du Nord-Ouest, celles de l’assemblée législative ou de l’administration du Nunavut, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones.
+***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes et la bibliothèque du Parlement, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d'une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d'État créées sous le régime d'une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d'un ministre fédéral. Ne sont pas visés les institutions du conseil ou de l'administration des Territoires du Nord-Ouest, celles de l'assemblée législative ou de l'administration du Yukon ou du Nunavut, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l'administration d'une bande indienne ou d'autres groupes de peuples autochtones.
 
 ***ministère*** Ministère au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
@@ -94,7 +94,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de « tribunal »**
 
 - **(2)** Pour l’application du présent article et des parties II et III, est un tribunal fédéral tout organisme créé sous le régime d’une loi fédérale pour rendre la justice.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 3; 1993, ch. 28, art. 78.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 3; 1993, ch. 28, art. 78; 2002, ch. 7, art. 224.
 
 
 
@@ -154,9 +154,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exceptions**
 
 - **(3)** Le paragraphe (1) ne s’applique pas aux textes suivants du seul fait qu’ils sont d’intérêt général et public :
-	- **a)** les ordonnances du Yukon et des Territoires du Nord-Ouest, les lois de la Législature du Nunavut, ainsi que les actes découlant de ces ordonnances et lois;
-	- **b)** les actes pris par les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 7; 1993, ch. 28, art. 78.
+	- **a)
+** les ordonnances des Territoires du Nord-Ouest, les lois de la Législature du Yukon ou de celle du Nunavut, ainsi que les actes découlant de ces ordonnances et lois;
+	- **b)
+** les actes pris par les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 7; 1993, ch. 28, art. 78; 2002, ch. 7, art. 225.
 
 
 
