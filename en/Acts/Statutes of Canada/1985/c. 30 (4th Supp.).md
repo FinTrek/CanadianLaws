@@ -48,7 +48,7 @@
 - **(a.1)** in Prince Edward Island, a judge of the trial division of the Supreme Court,
 - **(b)** in Quebec, a judge of the Superior Court,
 - **(c)** in New Brunswick, Manitoba, Alberta and Saskatchewan, a judge of the Court of Queen’s Bench, and
-- **(d)** in Nova Scotia, British Columbia, Newfoundland, the Yukon Territory and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice;
+- **(d)** in Nova Scotia, British Columbia, Newfoundland, Yukon and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice;
 
 ***Minister*** means the Minister of Justice;
 
@@ -65,7 +65,7 @@
 ***treaty***[Repealed, 1999, c. 18, s. 97]
 
 - **(2)** [Repealed, 1999, c. 18, s. 97]
-> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56.
+> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56; 2002, c. 7, s. 209(E).
 
 
 
@@ -890,7 +890,9 @@ On being filed, the order shall be entered as a judgment of that court.
 
 **Exception for young persons**
 
-**29** Sections 24 to 28 do not apply in respect of a person who, at the time the request mentioned in subsection 24(1) is presented, is a young person within the meaning of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md).
+**29** Sections 24 to 28 do not apply in respect of a person who, at the time the request mentioned in subsection 24(1) is presented, is a young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
+> R.S., 1985, c. 30 (4th Supp.), s. 29; 2002, c. 1, s. 195.
+
 
 
 
