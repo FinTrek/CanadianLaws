@@ -288,7 +288,7 @@ and, except for the purposes of sections 66, 80 to 89 and 104 to 115, includes
 		- **(ii)** one representative for all aboriginal governments, except Inuit, in Quebec,
 		- **(iii)** one representative for all aboriginal governments, except Inuit, in Ontario,
 		- **(iv)** one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut,
-		- **(v)** one representative for all aboriginal governments, except Inuit, in British Columbia and the Yukon Territory, and
+		- **(v)** one representative for all aboriginal governments, except Inuit, in British Columbia and Yukon, and
 		- **(vi)** one representative for all Inuit aboriginal governments.
 
 **Provincial representatives**
@@ -310,6 +310,8 @@ and, except for the purposes of sections 66, 80 to 89 and 104 to 115, includes
 **Regulations**
 
 - **(4)** The Minister may make regulations respecting the manner of selecting a representative under subsection (3).
+> 1999, c. 33, s. 6; 2002, c. 7, s. 124.
+
 
 
 
@@ -4683,11 +4685,17 @@ the liability of the person referred to in subsection (1) to that other person i
 	- **(c)** aboriginal land, federal land, persons on that land and other persons in so far as their activities involve that land; and
 	- **(d)** Crown corporations, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
+**Yukon**
+
+- **(1.1)** This Part does not apply to public real property under the administration and control of the Commissioner of Yukon pursuant to the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md).
+
 **Limitation**
 
 - **(2)** This Part does not restrict any of the following powers in so far as they may be exercised in relation to air and all layers of the atmosphere above federal land or aboriginal land:
 	- **(a)** powers under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or a provision of any other Act of Parliament relating to aeronautics or air transportation; or
 	- **(b)** powers under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or a provision of any other Act of Parliament relating to national defence and security.
+> 1999, c. 33, s. 207; 2002, c. 7, s. 125.
+
 
 
 
