@@ -585,6 +585,8 @@
 **Pension**
 
 - **(2)** Le directeur général et les employés nommés en vertu de l’article 38 sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> L.R. (1985), ch. 24 (3e suppl.), art. 39; 2003, ch. 22, art. 171(A) et 225(A).
+
 
 
 
