@@ -94,7 +94,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** 
 
-- **(1)** The Solicitor General of Canada shall, for criminal identification purposes, establish a national DNA data bank, consisting of a crime scene index and a convicted offenders index, to be maintained by the Commissioner.
+- **(1)** The Minister of Public Safety and Emergency Preparedness shall, for criminal identification purposes, establish a national DNA data bank, consisting of a crime scene index and a convicted offenders index, to be maintained by the Commissioner.
 
 **Commissioner’s duties**
 
@@ -117,7 +117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(5)** In addition to the DNA profiles referred to in subsections (3) and (4), the DNA data bank shall contain, in relation to each of the profiles, information from which can be established
 	- **(a)** in the case of a profile in the crime scene index, the case number of the investigation associated with the bodily substance from which the profile was derived; and
 	- **(b)** in the case of a profile in the convicted offenders index, the identity of the person from whose bodily substance the profile was derived.
-> 1998, c. 37, s. 5; 2000, c. 10, s. 6.
+> 1998, c. 37, s. 5; 2000, c. 10, s. 6; 2005, c. 10, s. 34.
 
 
 
@@ -322,12 +322,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **13.1** 
 
-- **(1)** The Commissioner shall, within three months after the end of each fiscal year, submit to the Solicitor General a report on the operations of the national DNA data bank for the year.
+- **(1)** The Commissioner shall, within three months after the end of each fiscal year, submit to the Minister of Public Safety and Emergency Preparedness a report on the operations of the national DNA data bank for the year.
 
 **Tabling in Parliament**
 
-- **(2)** The Solicitor General shall cause the report of the Commissioner to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the Solicitor General receives it.
-> 2000, c. 10, s. 12.
+- **(2)** The Minister shall cause the report of the Commissioner to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
+> 2000, c. 10, s. 12; 2005, c. 10, s. 26.
 
 
 
