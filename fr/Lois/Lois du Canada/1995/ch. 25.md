@@ -405,7 +405,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-27.6_fr_1'>[*]</a></sup>**27** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret.
 
-<a name='C-27.6_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 8, en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-3.]<br />
+<a name='C-27.6_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 8, en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-3; article 8 en vigueur le 1<sup>er</sup> juillet 2004, *voir* TR/2004-71.]<br />
 
 
 
