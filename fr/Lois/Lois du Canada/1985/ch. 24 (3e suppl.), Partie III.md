@@ -416,7 +416,7 @@
 **Rémunération et indemnités**
 
 - **(5)** Les membres du bureau de direction ne reçoivent aucune rémunération du Conseil et celui-ci ne leur verse aucune indemnité de déplacement ou autre.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 28; 1993, ch. 28, art. 78.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 28; 1993, ch. 28, art. 78; 2002, ch. 7, art. 177(A).
 
 
 
