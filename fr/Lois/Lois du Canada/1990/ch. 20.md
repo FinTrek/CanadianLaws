@@ -831,11 +831,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **49** 
 
-- **(1)** Le certificat d’une décision de la Cour fédérale ou de la Cour suprême du Canada annulant un certificat d’obtention est, à la demande de quiconque en fait la production pour dépôt au Bureau, consigné au regard du certificat d’obtention.
+- **(1)** Le certificat d'une décision de la Cour fédérale, de la Cour d'appel fédérale ou de la Cour suprême du Canada annulant un certificat d'obtention est, à la demande de quiconque en fait la production pour dépôt au Bureau, consigné au regard du certificat d'obtention.
 
 **Appel du refus ou de l’annulation**
 
 - **(2)** Appel peut être interjeté de la décision d’un tribunal annulant ou refusant d’annuler un certificat d’obtention auprès de la juridiction d’appel compétente.
+> 1990, ch. 20, art. 49; 2002, ch. 8, art. 158.
+
 
 
 
