@@ -98,7 +98,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province, and
-- **(f)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice;
+- **(f)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
 
@@ -303,7 +303,7 @@ but does not include a policy;
 **Widely held**
 
 - **(4)** For the purposes of this Act, a body corporate is widely held if it has no major shareholder.
-> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255.
+> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E).
 
 
 
