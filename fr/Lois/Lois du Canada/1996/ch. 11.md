@@ -215,6 +215,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Les membres du Conseil sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) lorsqu’ils exercent les fonctions qui leur sont confiées en application de la présente loi.
+> 1996, ch. 11, art. 14; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -256,6 +258,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Le personnel et les contractuels ainsi engagés ne font pas automatiquement partie de l’administration publique fédérale.
+> 1996, ch. 11, art. 19; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -319,12 +323,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** sont nommés à titre inamovible pour un mandat maximal de cinq ans par le gouverneur en conseil, sous réserve de révocation motivée de sa part;
 	- **b)** peuvent recevoir un nouveau mandat;
 	- **c)** reçoivent le traitement fixé par le gouverneur en conseil;
-	- **d)** sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
+	- **d)** sont réputés appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
 	- **e)** se consacrent exclusivement à leurs fonctions de commissaire et ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec celles-ci.
 
 **Suppléance**
 
 - **(2)** En cas d’absence ou d’empêchement d’un commissaire autre que le président ou le vice-président ou de vacance de son poste, le gouverneur en conseil peut désigner comme suppléant une personne qui, sauf indication contraire de celui-ci, est investie de toutes les attributions du commissaire.
+> 1996, ch. 11, art. 24; 2003, ch. 22, art. 160.
+
 
 
 
