@@ -406,12 +406,10 @@ French version only***taux*** Le taux de droits de douane.
 
 **Droits sur le tabac importé par le voyageur**
 
-- <sup><a href='#C-54.011_fr_1'>[*]</a></sup>**(2)** Les droits ci-après sont perçus sur le tabac du voyageur, au moment de son importation, et sont payés en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) :
-	- **a)** 0,0575 $ par cigarette;
-	- **b)** 0,0425 $ par bâtonnet de tabac;
-	- **c)** 0,0375 $ par gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
-
-<a name='C-54.011_fr_1'><sup>*</sup></a>: [Note : Paragraphe 21(2) ne s’applique pas au tabac importé avant le 1<sup>er</sup> octobre 2001, *voir* 2001, ch. 16, par. 3(2).]<br />
+- **(2)** Les droits ci-après sont perçus sur le tabac du voyageur, au moment de son importation, et sont payés en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) :
+	- **a)** 0,075 $ par cigarette;
+	- **b)** 0,055 $ par bâtonnet de tabac;
+	- **c)** 0,05 $ par gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 **Exception — tabac fabriqué sur lequel le droit d’accise est acquitté**
 
@@ -431,7 +429,7 @@ French version only***taux*** Le taux de droits de douane.
 ***tabac du voyageur*** Tabac fabriqué qu’une personne importe à un moment donné et qui, selon le cas :
 - **a)** est classé dans les n<sup>os</sup> tarifaires 9804.10.00, 9804.20.00, 9805.00.00 ou 9807.00.00;
 - **b)** serait classé dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00 si ce n’était le fait que la valeur en douane totale, déterminée selon l’article 46 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), des marchandises importées par la personne à ce moment dépasse la valeur maximale spécifiée dans l’un ou l’autre de ces numéros tarifaires.
-> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 412.
+> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 412; 2003, ch. 15, art. 45.
 
 
 
