@@ -136,15 +136,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent aux articles 20 à 28.
 
-***date de transfert*** La date d’entrée en vigueur du premier décret pris sous le régime de l’article 47.1 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), dans sa version modifiée par la présente loi, après l’entrée en vigueur du présent article et opérant le transfert de la gestion et de la maîtrise de ressources pétrolières ou gazières au commissaire du Yukon.
+***date de transfert*** La date d’entrée en vigueur du premier décret pris sous le régime de l’article 47.1 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), dans sa version modifiée par la présente loi, après l’entrée en vigueur du présent article et opérant le transfert de la gestion et de la maîtrise de ressources pétrolières ou gazières au commissaire du Yukon. (*transfer date*)
 
 ***titres fédéraux existants***
 - **a)** Les titres — au sens de l’article 2 de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md) — visant des ressources pétrolières ou gazières du Yukon ou de la zone adjacente, et existant à la date de transfert;
-- **b)** les licences de production octroyées à compter de la date de transfert dans les circonstances prévues à l’article 23.
+- **b)** les licences de production octroyées à compter de la date de transfert dans les circonstances prévues à l’article 23. (*existing federal interest*)
 
-**Terminologie**
+**Définitions**
 
-- **(2)** Pour l’application des articles 20 à 28, les termes ***ordonnance pétrolière ou gazière***, ***droit pétrolier ou gazier***, ***gaz***, ***ministre territorial responsable des ressources pétrolières et gazières***, ***pétrole***, ***ressources pétrolières ou gazières*** et ***zone adjacente*** s’entendent au sens de l’article 2 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md).
+- **(2)** Pour l’application des articles 20 à 28, les termes droit pétrolier ou gazier, gaz, ministre territorial responsable des ressources pétrolières et gazières, ordonnance pétrolière ou gazière, pétrole, ressources pétrolières ou gazières et zone adjacente s’entendent au sens de l’article 2 de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), dans sa version antérieure à la date d’entrée en vigueur du présent article.
+> 1998, ch. 5, art. 19; 2002, ch. 7, art. 116.
+
 
 
 
@@ -193,6 +195,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exercice des droits d’accès**
 
 **21** Toute ordonnance pétrolière ou gazière conférant des droits d’accès aux fins de recherche, de production ou de transport de pétrole ou de gaz et traitant de la résolution des litiges opposant toute personne exerçant un tel droit d’accès à toute personne — autre que les gouvernements du Canada et du Yukon — qui détient un droit ou un intérêt sur la surface de la terre visée, doit prévoir que ces litiges sont tranchés par ordonnance d’accès rendue par l’Office des droits de surface du Yukon en conformité avec la [Loi sur l’Office des droits de surface du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2043.md).
+> 1998, ch. 5, art. 21; 2002, ch. 7, art. 117(A).
+
 
 
 
@@ -237,6 +241,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** La garantie prévue au présent article devient caduque lorsque le gouvernement assigné conclut une transaction sans avoir consulté l’autre.
+> 1998, ch. 5, art. 25; 2002, ch. 7, art. 118(A).
+
 
 
 
@@ -251,6 +257,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Entrée en vigueur des ordonnances**
 
 **27** Une ordonnance pétrolière ou gazière peut, nonobstant la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md), être prise dès la sanction de la présente loi, mais elle ne peut prendre effet avant la date de transfert.
+
+
+
+
+**Lois de la législature**
+
+**27.1** Aux articles 20, 21, 22 et 25, sont assimilées aux ordonnances pétrolières ou gazières les lois de la Législature du Yukon portant sur le même sujet.
+> 2002, ch. 7, art. 119.
+
 
 
 
