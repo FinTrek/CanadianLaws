@@ -154,16 +154,16 @@
 
 
 
-**Not employed in public service**
+**Not employed in the federal public administration**
 
 **4.2** 
 
-- **(1)** A member of the Tribunal may not be a person employed in the public service of Canada.
+- **(1)** A member of the Tribunal may not be a person employed in the federal public administration.
 
 **Conflict of interest**
 
 - **(2)** A member of the Tribunal shall not accept or hold any office or employment that is inconsistent with the member’s duties or take part in any matter before the Tribunal in which the member has an interest.
-> 1995, c. 40, s. 29.
+> 1995, c. 40, s. 29; 2003, c. 22, s. 224(E).
 
 
 
@@ -222,8 +222,8 @@
 
 **Staff and facilities**
 
-- **(4)** The Minister may provide the Board and the Tribunal with such officers and employees from within the public service of Canada and such facilities and professional advisers as are necessary for the proper conduct of the business of the Board and the Tribunal.
-> R.S., 1985, c. 20 (4th Supp.), s. 6; 1995, c. 40, s. 30.
+- **(4)** The Minister may provide the Board and the Tribunal with such officers and employees from within the federal public administration and such facilities and professional advisers as are necessary for the proper conduct of the business of the Board and the Tribunal.
+> R.S., 1985, c. 20 (4th Supp.), s. 6; 1995, c. 40, s. 30; 2003, c. 22, s. 224(E).
 
 
 
@@ -232,9 +232,9 @@
 **Travel and living expenses — Board**
 
 **7** Each member of the Board is entitled to be paid
-- **(a)** an amount fixed by the Treasury Board for each day or part of a day that the member is performing duties under this Act unless the member is employed in the public service of Canada; and
+- **(a)** an amount fixed by the Treasury Board for each day or part of a day that the member is performing duties under this Act unless the member is employed in the federal public administration; and
 - **(b)** reasonable travel and living expenses incurred by the member in the course of the member’s duties under this Act.
-> R.S., 1985, c. 20 (4th Supp.), s. 7; 1995, c. 40, s. 31.
+> R.S., 1985, c. 20 (4th Supp.), s. 7; 1995, c. 40, s. 31; 2003, c. 22, s. 224(E).
 
 
 
