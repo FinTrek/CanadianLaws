@@ -122,7 +122,9 @@ and includes such other court in the province the judges of which are appointed 
 
 **Jurisdiction where two proceedings commenced on same day**
 
-- **(3)** Where divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court — Trial Division has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the divorce proceedings in those courts shall be transferred to the Federal Court — Trial Division on the direction of that Court.
+- **(3)** Where divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the divorce proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
+> R.S., 1985, c. 3 (2nd Supp.), s. 3; 2002, c. 8, s. 183
+
 
 
 
@@ -141,8 +143,8 @@ and includes such other court in the province the judges of which are appointed 
 
 **Jurisdiction where two proceedings commenced on same day**
 
-- **(3)** Where proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court — Trial Division has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the corollary relief proceedings in those courts shall be transferred to the Federal Court — Trial Division on the direction of that Court.
-> R.S., 1985, c. 3 (2nd Supp.), s. 4; 1993, c. 8, s. 1
+- **(3)** Where proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the corollary relief proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
+> R.S., 1985, c. 3 (2nd Supp.), s. 4; 1993, c. 8, s. 1; 2002, c. 8, s. 183
 
 
 
@@ -162,7 +164,9 @@ and includes such other court in the province the judges of which are appointed 
 
 **Jurisdiction where two proceedings commenced on same day**
 
-- **(3)** Where variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court — Trial Division has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the variation proceedings in those courts shall be transferred to the Federal Court — Trial Division on the direction of that Court.
+- **(3)** Where variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the variation proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
+> R.S., 1985, c. 3 (2nd Supp.), s. 5; 2002, c. 8, s. 183
+
 
 
 
@@ -904,7 +908,9 @@ the court may, subject to any terms that the court considers appropriate,
 
 **Presumption**
 
-- **(2)** For the purposes of this section, where any proceedings are transferred to the Federal Court — Trial Division under subsection 3(3) or 5(3), the proceedings shall be deemed to have been taken in the province specified in the direction of the Court to be the province with which both spouses or former spouses, as the case may be, are or have been most substantially connected.
+- **(2)** For the purposes of this section, where any proceedings are transferred to the Federal Court under subsection 3(3) or 5(3), the proceedings shall be deemed to have been taken in the province specified in the direction of the Court to be the province with which both spouses or former spouses, as the case may be, are or have been most substantially connected.
+> R.S., 1985, c. 3 (2nd Supp.), s. 23; 2002, c. 8, s. 183
+
 
 
 
