@@ -14,20 +14,22 @@ Sanctionnée sur le 7 juillet 1994
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que les représentants du Conseil des Indiens du Yukon, de Sa Majesté la Reine du chef du Canada et du gouvernement du territoire du Yukon ont signé, le 29 mai 1993, l’accord-cadre dont les dispositions sont destinées à être reprises dans les accords définitifs sur les revendications des premières nations sur des terres du territoire du Yukon;
 
 que les premières nations de Champagne et Aishihik, des Gwitchin Vuntut, des Nacho Nyak Dun et le conseil des Tlingits de Teslin ont conclu avec Sa Majesté et le gouvernement du territoire du Yukon des accords définitifs contenant, outre les dispositions de l’accord-cadre, des dispositions particulières à chacune de ces premières nations;
 
-que les revendications territoriales des personnes inscrites aux termes des accords définitifs sur des terres situées en Colombie-Britannique et dans les Territoires du Nord-Ouest, d’une part, et celles de certains peuples autochtones de l’extérieur du territoire du Yukon sur des terres qui y sont situées, d’autre part, peuvent faire l’objet d’accords transfrontaliers;
+que les revendications territoriales des personnes inscrites aux termes des accords définitifs sur des terres situées en Colombie-Britannique et dans les Territoires du Nord-Ouest, d’une part, et celles de certains peuples autochtones de l’extérieur du Yukon sur des terres qui y sont situées, d’autre part, peuvent faire l’objet d’accords transfrontaliers;
 
 que le gouvernement du Canada s’est engagé à recommander au Parlement des mesures législatives permettant d’approuver, de mettre en vigueur et de déclarer valides les accords définitifs et transfrontaliers,
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
+
+> 1994, ch. 34, préambule; 2002, ch. 7, art. 254..
 
 
 
@@ -184,6 +186,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Comités d’inscription**
 
 - **(5)** Le comité d’inscription constitué par la première nation a les pouvoirs nécessaires à l’accomplissement des fonctions mentionnées dans l’accord qui la concerne.
+> 1994, ch. 34, art. 11; 2002, ch. 7, art. 255(A).
+
 
 
 
@@ -246,10 +250,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 **15** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de tout accord — définitif ou transfrontalier — en vigueur, ainsi que des modifications qui peuvent lui être apportées :
-- **a)** aux Archives nationales du Canada;
-- **b)** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
-- **c)** aux bureaux régionaux du gouvernement du Canada — qu’il estime indiqués — situés au Yukon;
-- **d)** en tout autre lieu qu’il estime nécessaire.
+- **a)
+** aux Archives nationales du Canada;
+- **b)
+** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
+- **c)
+** aux bureaux régionaux du gouvernement du Canada — qu’il estime indiqués — situés au Yukon;
+- **d)
+** en tout autre lieu qu’il estime nécessaire.
+> 1994, ch. 34, art. 15; 2002, ch. 7, art. 256(A).
+
 
 
 
@@ -279,7 +289,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modifications corrélatives
 
 
-**18 à 20** [Modifications]
+**18 et 19** [Modifications]
+
+
+
+**20** 
+
+- **(1) et (2)** [Abrogés, 2002, ch. 7, art. 257]
+
+- **(3)** [Modification]
+
+- **(4)** [Abrogé, 2002, ch. 7, art. 257]
 
 
 
@@ -294,11 +314,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve du paragraphe (2), la présente loi entre en vigueur à la date fixée par décret du gouverneur en conseil.
 
-**Idem**
+- **(2)** [Abrogé, 2002, ch. 7, art. 258]
 
-- **(2)** Les paragraphes 20(1), (2) et (4) entrent en vigueur dès l’entrée en vigueur de tous les accords définitifs visant les premières nations dont le nom figure à l’annexe.
+<a name='Y-2.3_fr_1'><sup>*</sup></a>: [Note : Loi, sauf paragraphes 20(1), (2) et (4), en vigueur le 14 février 1995, *voir* TR/95-19; paragraphes 20(1), (2) et (4) abrogés par 2002, ch. 7, art. 257, en vigueur le 1<sup>er</sup> avril 2003, *voir* TR/2003-48.]<br />
+> 1994, ch. 34, art. 21; 2002, ch. 7, art. 258.
 
-<a name='Y-2.3_fr_1'><sup>*</sup></a>: [Note : Loi, sauf paragraphes 20(1), (2) et (4), en vigueur le 14 février 1995, *voir* TR/95-19.]<br />
 
 
 
