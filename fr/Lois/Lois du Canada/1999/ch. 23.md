@@ -181,11 +181,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Faute par l’éditeur étranger de se conformer à la mise en demeure, le ministre peut s’adresser à une juridiction supérieure provinciale ou à la Section de première instance de la Cour fédérale.
+- **(1)** Faute par l’éditeur étranger de se conformer à la mise en demeure, le ministre peut s’adresser à une juridiction supérieure provinciale ou à la Cour fédérale.
 
 **Ordonnance**
 
-- **(2)** Si elle conclut au bien-fondé de la mise en demeure et au défaut d’obtempérer de l’éditeur étranger, la juridiction saisie peut rendre l’ordonnance que justifient les circonstances et notamment enjoindre à ce dernier :
+- **(2)** Si elle conclut au bien-fondé de la mise en demeure et au défaut d’obtempérer de l’éditeur étranger, la juridiction saisie peut rendre l’ordonnance que justifient les circonstances et notamment enjoindre à ce dernier :
 	- **a)** de se conformer à la présente loi selon les modalités que la juridiction estime justes et raisonnables;
 	- **b)** de s’abstenir de prendre, à l’égard des services publicitaires, toute mesure mentionnée dans l’ordonnance qui rendrait inefficace l’ordonnance visée à l’alinéa a) qui pourrait être prononcée dans le cadre d’une demande ultérieure.
 
@@ -204,6 +204,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Appel**
 
 - **(6)** Il demeure entendu que tous les droits d’appel que prévoit la loi s’appliquent aux ordonnances visées au présent article comme s’il s’agissait d’une ordonnance ordinaire rendue par la juridiction.
+> 1999, ch. 23, art. 8; 2002, ch. 8, art. 183.
+
 
 
 
