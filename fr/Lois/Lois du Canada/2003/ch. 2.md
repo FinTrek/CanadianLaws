@@ -384,6 +384,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Statut**
 
 **26** Les administrateurs, les dirigeants et le personnel du Centre ne font pas partie de l’administration publique fédérale et, pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), ils sont réputés ne pas appartenir à la fonction publique.
+> 2003, ch. 2, art. 26, ch. 22, art. 279(A).
+
 
 
 
