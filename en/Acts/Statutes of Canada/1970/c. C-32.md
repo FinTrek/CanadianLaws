@@ -62,7 +62,7 @@
 - **(a.1)** in Prince Edward Island, the Trial Division of the Supreme Court,
 - **(b)** in Quebec, the Superior Court,
 - **(c)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench, and
-- **(d)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice;
+- **(d)** in Yukon, the Supreme Court of Yukon, in the Northwest Territories, the Supreme Court of the Northwest Territories, and in Nunavut, the Nunavut Court of Justice;
 
 ***debenture*** includes bonds, debenture stock, and any other securities of a company that constitute or are entitled to the benefit of a charge on the assets of the company;
 
@@ -104,7 +104,7 @@ not including persons who are in the employment of the company and persons, who,
 **Special resolution**
 
 - **(2)** A by-law mentioned in section 20, subsection 29(1), section 51 or 52 may be referred to as a “special resolution”.
-> R.S., 1970, c. C-32, s. 3; R.S., 1970, c. 10(1st Supp.), s. 2; 1972, c. 17, s. 2; 1978-79, c. 11, s. 10; 1986, c. 35, s. 14; 1995, c. 1, s. 32; 1999, c. 3, s. 17.
+> R.S., 1970, c. C-32, s. 3; R.S., 1970, c. 10(1st Supp.), s. 2; 1972, c. 17, s. 2; 1978-79, c. 11, s. 10; 1986, c. 35, s. 14; 1995, c. 1, s. 32; 1999, c. 3, s. 17; 2002, c. 7, s. 89(E).
 
 
 
