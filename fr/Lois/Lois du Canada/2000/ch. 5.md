@@ -1468,23 +1468,51 @@ Une organisation doit faire enquête sur toutes les plaintes. Si une plainte est
 
 ### **ANNEXE 2** 
 **(articles 38 à 47, 49 et 51)**
+<table>
+<h4>Lois fédérales</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Loi fédérale</th>
+<th>Dispositions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)</td>
+<td>Articles 3, 5 à 7, 11 et 16</td>
+</tr>
+</table>
 
-### Lois fédérales
-
-
-
-
+> 2000, ch. 5, ann. 2; DORS/2004-309, art. 1.
 
 
 
 
 ### **ANNEXE 3** 
 **(articles 38 à 47, 49 et 51)**
+<table>
+<h4>Règlements et autres textes</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Règlement ou autre texte</th>
+<th>Dispositions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Règlement concernant les immeubles fédéraux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/92/502.md)</td>
+<td>Articles 9 et 11</td>
+</tr>
+</table>
 
-### Règlements et autres textes
-
-
-
-
+> 2000, ch. 5, ann. 3; DORS/2004-309, art. 2.
 
 
