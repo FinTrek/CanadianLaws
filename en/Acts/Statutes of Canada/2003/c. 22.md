@@ -1746,7 +1746,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Part 2 of the Public Service Labour Relations Act, as enacted by section 2 of this Act, or any provision of that Part, comes into force on a day or days to be fixed by order of the Governor in Council, made on the recommendation of the Minister, within the meaning of subsection 2(1) of that Act, after consultation with the Chairperson of the Public Service Labour Relations Board appointed under section 12 of that Act.
 
-<a name='P-33.4_e_s286'><sup>*</sup></a>: [Note: Sections 1 and 262 to 285 in force on assent November 7, 2003; sections 14 and 19, the definitions ***amended Act***, ***former Act***, ***former Commission*** and ***new Commission*** in section 68 and sections 77 to 83 and 246 to 250 in force November 20, 2003, *see* SI/2003-178; sections 21 to 35, 85 to 87 and 251 to 261 in force April 1, 2004, *see* SI/2004-42.]<br />
+<a name='P-33.4_e_s286'><sup>*</sup></a>: [Note: Sections 1 and 262 to 285 in force on assent November 7, 2003; sections 14 and 19, the definitions ***amended Act***, ***former Act***, ***former Commission*** and ***new Commission*** in section 68 and sections 77 to 83 and 246 to 250 in force November 20, 2003, *see* SI/2003-178; sections 21 to 35, 85 to 87 and 251 to 261 in force April 1, 2004, *see* SI/2004-42; section 5 in force December 1, 2004, *see* SI/2004-159.]<br />
 
 
 
