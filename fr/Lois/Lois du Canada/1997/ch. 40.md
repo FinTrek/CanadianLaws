@@ -49,6 +49,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***province participante*** S’entend d’une province autre qu’un territoire ou autre qu’une province instituant un régime général de pensions au sens du paragraphe 3(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
 
+***titre désigné***
+- **a)** Soit une obligation qui :
+	- **(i)** était, avant le 1<sup>er</sup> avril 1998, détenue au crédit du Fonds de placement du régime de pensions du Canada, compte ouvert en application du paragraphe 109(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md),
+	- **(ii)** à l’égard du Canada, en est une du gouvernement du Canada et, à l’égard d’une province, en est une du gouvernement de celle-ci, ou en est une d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par le gouvernement de la province,
+	- **(iii)** satisfait aux conditions énoncées à l’article 111 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) dans sa version antérieure au 1<sup>er</sup> avril 1998;
+- **b)** soit une obligation qui :
+	- **(i)** le 1<sup>er</sup> avril 1998 ou après cette date, est achetée par le ministre des Finances en application de l’article 110 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md),
+	- **(ii)** en est une du gouvernement d’une province ou en est une d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par le gouvernement de la province.
+
 ***tribunal***
 - **a)** La Cour de l’Ontario (Division générale);
 - **b)** la Cour supérieure du Québec;
@@ -56,7 +65,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
-> 1997, ch. 40, art. 2; 1999, ch. 3, art. 19; 2002, ch. 7, art. 112(A).
+> 1997, ch. 40, art. 2; 1999, ch. 3, art. 19; 2002, ch. 7, art. 112(A); 2003, ch. 5, art. 12.
 
 
 
@@ -114,9 +123,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mission**
 
-**5** L’Office a pour mission :
-- **a)** de gérer les sommes transférées en application de l’article 111 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) dans l’intérêt des cotisants et des bénéficiaires de ce régime;
-- **b)** de placer son actif en vue d’un rendement maximal tout en évitant des risques de perte indus et compte tenu des facteurs pouvant avoir un effet sur le financement du Régime de pensions du Canada ainsi que sur son aptitude à s’acquitter de ses obligations financières.
+**5** L’Office a pour mission :
+- **a)** d’aider le Régime de pensions du Canada à s’acquitter de ses obligations envers les cotisants et les bénéficiaires que lui impose le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **b)** de gérer les sommes transférées en application de l’article 108.1 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), ainsi que ses droit, titre ou intérêt dans les titres désignés, dans l’intérêt des cotisants et des bénéficiaires de ce régime;
+- **c)** de placer son actif en vue d’un rendement maximal tout en évitant des risques de perte indus et compte tenu des facteurs pouvant avoir un effet sur le financement du Régime de pensions du Canada ainsi que sur son aptitude à s’acquitter, chaque jour ouvrable, de ses obligations financières.
+> 1997, ch. 40, art. 5; 2003, ch. 5, art. 13.
+
 
 
 
@@ -678,7 +690,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
 
-**37** L’Office et ses filiales doivent effectuer leurs placements de manière telle qu’ils n’auraient pas à payer d’impôt en application du paragraphe 206(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) si la partie XI de cette loi s’appliquait à eux.
+**37** L’Office et ses filiales effectuent leurs placements de manière telle que l’Office n’aurait pas à payer d’impôt en application du paragraphe 206(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) si, à la fois :
+- **a)** la partie XI de cette loi s’appliquait à l’Office;
+- **b)** chacune des filiales était une société ayant fait un choix valide en vertu de l’article 259 de cette loi.
+> 1997, ch. 40, art. 37; 2003, ch. 5, art. 15.
+
 
 
 
@@ -996,7 +1012,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **États financiers**
 
-**50** Dans un délai de quarante-cinq jours à partir de la fin du trimestre concerné, l’Office envoie au ministre et aux ministres provinciaux compétents copie des états financiers trimestriels établis en conformité avec le paragraphe 39(6).
+**50** 
+
+- **(1)** Dans les quarante-cinq jours suivant la fin des premier, deuxième et troisième trimestres de l’exercice, l’Office envoie au ministre et aux ministres provinciaux compétents copie des états financiers du trimestre en cause établis en conformité avec le paragraphe 39(6).
+
+**États financiers à la disposition du public**
+
+- **(2)** Dans les sept jours suivant leur envoi en application du paragraphe (1), l’Office met les états financiers à la disposition du public.
+> 1997, ch. 40, art. 50; 2003, ch. 5, art. 16.
+
 
 
 
@@ -1009,7 +1033,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **51** 
 
-- **(1)** Le plus tôt possible, dans les quatre-vingt-dix jours suivant la fin de chaque exercice, l’Office fait parvenir un rapport annuel de ses activités pendant l’exercice en même temps au ministre et aux ministres provinciaux compétents. Il met aussi des exemplaires à la disposition du public.
+- **(1)** Le plus tôt possible, dans les soixante jours suivant la fin de chaque exercice, l’Office fait parvenir un rapport annuel de ses activités pendant l’exercice au ministre et aux ministres provinciaux compétents. Il met aussi des exemplaires à la disposition du public.
 
 **Dépôt et publication**
 
@@ -1025,6 +1049,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** un énoncé des objectifs de l’Office pour l’exercice suivant et l’avenir prévisible;
 	- **f)** un énoncé des principes, normes et procédures en matière de placement de l’Office;
 	- **g)** tout autre renseignement réglementaire.
+> 1997, ch. 40, art. 51; 2003, ch. 5, art. 17.
+
 
 
 
@@ -1108,9 +1134,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Transfert**
+**Responsabilité de l’Office**
 
-**56** Sur préavis de trente jours envoyé à l’Office, le ministre peut, s’il l’estime nécessaire pour satisfaire aux paiements visés au paragraphe 108(3) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), transférer une somme de l’Office au compte du régime de pensions du Canada ouvert en vertu du paragraphe 108(1) de cette loi.
+**56** L’Office verse au Trésor les sommes exigées en vertu des paragraphes 108.1(2) et 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). Ces sommes sont portées au crédit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) de cette loi.
+> 1997, ch. 40, art. 56; 2003, ch. 5, art. 18.
+
 
 
 
