@@ -49,7 +49,7 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province;
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province;
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province; and
-- **(f)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice.
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice.
 
 ***entity*** means a body corporate, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or an agency of Her Majesty in right of Canada or of a province and the government of a foreign country or any political subdivision or agency of the government of a foreign country.
 
@@ -60,7 +60,7 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(b)** a province providing a comprehensive pension plan as defined in subsection 3(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
 
 ***subsidiary*** means a corporation that is wholly owned by the Board directly or indirectly through any number of subsidiaries each of which is wholly owned directly or indirectly by the Board.
-> 1997, c. 40, s. 2; 1999, c. 3, s. 19.
+> 1997, c. 40, s. 2; 1999, c. 3, s. 19; 2002, c. 7, s. 112(E).
 
 
 
