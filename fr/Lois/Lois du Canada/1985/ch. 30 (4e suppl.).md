@@ -65,7 +65,7 @@
 ***traité***[Abrogée, 1999, ch. 18, art. 97]
 
 - **(2)** [Abrogé, 1999, ch. 18, art. 97]
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56; 2002, ch. 7, art. 209(A).
 
 
 
@@ -882,7 +882,9 @@
 
 **Exclusion des adolescents**
 
-**29** Les articles 24 à 28 ne s’appliquent pas aux personnes qui, au moment où la demande de transfèrement est faite, sont des adolescents au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+**29** Les articles 24 à 28 ne s’appliquent pas aux personnes qui, au moment où la demande de transfèrement est faite, sont des adolescents au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 29; 2002, ch. 1, art. 195.
+
 
 
 
