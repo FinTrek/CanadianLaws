@@ -246,7 +246,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Conditions de nomination et d’exercice**
 
-- **(2)** Pour exercer la charge d’administrateur, il faut remplir les conditions suivantes :
+- **(2)** Pour exercer la charge d’administrateur, il faut remplir les conditions suivantes :
 	- **a)** être un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
 	- **b)** ne pas être membre du Sénat ou de la Chambre des communes, ni d’une législature provinciale ou territoriale;
 	- **c)** ne pas occuper un emploi à temps plein au sein d’une administration publique, fédérale, provinciale ou territoriale.
@@ -254,7 +254,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 **Réserve**
 
 - **(3)** L’alinéa (2)c) ne s’applique pas au commissaire.
-> 1999, ch. 17, art. 16; 2001, ch. 27, art. 210.
+> 1999, ch. 17, art. 16; 2001, ch. 27, art. 210; 2003, ch. 22, art. 95(A).
 
 
 
@@ -297,7 +297,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 **Indemnisation**
 
 **21** Les administrateurs et le commissaire délégué nommé en vertu du paragraphe 26(1) sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1999, ch. 17, art. 21; 2004, ch. 16, art. 2(F).
+> 1999, ch. 17, art. 21; 2003, ch. 22, art. 224(A); 2004, ch. 16, art. 2(F).
 
 
 
@@ -403,12 +403,12 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 	- **a)** ses grandes orientations administratives;
 	- **b)** son organisation;
 	- **c)** les immeubles de l’Agence et les biens réels de l’Agence, au sens de l’article 73;
-	- **d)** la gestion de son personnel, notamment la détermination de ses conditions d’emploi.
+	- **d)** la gestion de ses ressources humaines, notamment la détermination de ses conditions d’emploi.
 
 **Règlements et exigences non applicables**
 
 - **(2)** Par dérogation à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), l’Agence n’est pas assujettie aux règlements ou exigences du Conseil du Trésor ayant trait aux questions visées au paragraphe (1), sauf dans la mesure où ils ont trait à la gestion financière.
-> 1999, ch. 17, art. 30; 2001, ch. 4, art. 129.
+> 1999, ch. 17, art. 30; 2001, ch. 4, art. 129; 2003, ch. 22, art. 96.
 
 
 
@@ -700,31 +700,46 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 
 
-**Employeur distinct**
+**Organisme distinct**
 
-**50** L’Agence est un employeur distinct au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+**50** L’Agence est un organisme distinct au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+> 1999, ch. 17, art. 50; 2003, ch. 22, art. 97.
 
 
 
 
-**Gestion du personnel**
+
+**Gestion des ressources humaines**
 
 **51** 
 
-- **(1)** Par dérogation aux paragraphes 11(2) et (3) et à l’article 12 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), l’Agence peut, dans l’exercice de ses attributions en matière de gestion du personnel :
-	- **a)** déterminer les effectifs qui lui sont nécessaires et assurer leur répartition et leur bonne utilisation;
-	- **b)** déterminer les besoins en matière de formation et perfectionnement de son personnel et en fixer les conditions de mise en oeuvre;
-	- **c)** assurer la classification des postes et des employés;
-	- **d)** déterminer et réglementer les traitements auxquels ont droit ses employés, leurs horaires et leurs congés, ainsi que les questions connexes;
-	- **e)** prévoir les primes susceptibles d’être accordées aux employés pour résultats exceptionnels ou réalisations méritoires dans l’exercice de leurs fonctions, ainsi que pour des inventions ou des idées pratiques d’amélioration;
-	- **f)** établir des normes de discipline et fixer les sanctions pécuniaires et autres, y compris le licenciement et la suspension, susceptibles d’être infligées pour manquement à la discipline ou inconduite et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces sanctions peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
-	- **g)** prévoir, pour des motifs autres qu’un manquement à la discipline ou une inconduite, le licenciement ou la rétrogradation à un poste situé dans une échelle de traitement comportant un plafond inférieur et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces mesures peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
-	- **h)** déterminer et réglementer les indemnités à verser aux employés soit pour des frais de déplacement ou autres, soit pour des dépenses ou en raison de circonstances liées à leur emploi;
-	- **i)** prendre les autres mesures qu’elle juge nécessaires à la bonne gestion de son personnel, notamment en ce qui touche les conditions de travail non prévues de façon expresse par le présent paragraphe.
+- **(1)** L’Agence peut, dans l’exercice de ses attributions en matière de gestion des ressources humaines :
+	- **a)
+** déterminer les effectifs qui lui sont nécessaires et assurer leur répartition et leur bonne utilisation;
+	- **b)
+** déterminer les besoins en matière de formation et perfectionnement de son personnel et en fixer les conditions de mise en oeuvre;
+	- **c)
+** assurer la classification des postes et des employés;
+	- **d)
+** déterminer et réglementer les traitements auxquels ont droit ses employés, leurs horaires et leurs congés, ainsi que les questions connexes;
+	- **e)
+** prévoir les primes susceptibles d’être accordées aux employés pour résultats exceptionnels ou réalisations méritoires dans l’exercice de leurs fonctions, ainsi que pour des inventions ou des idées pratiques d’amélioration;
+	- **f)
+** établir des normes de discipline et fixer les sanctions pécuniaires et autres, y compris le licenciement et la suspension, susceptibles d’être infligées pour manquement à la discipline ou inconduite et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces sanctions peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
+	- **g)
+** prévoir, pour des motifs autres qu’un manquement à la discipline ou une inconduite, le licenciement ou la rétrogradation à un poste situé dans une échelle de traitement comportant un plafond inférieur et préciser dans quelles circonstances, de quelle manière, par qui et en vertu de quels pouvoirs ces mesures peuvent être appliquées, modifiées ou annulées, en tout ou en partie;
+	- **h)
+** déterminer et réglementer les indemnités à verser aux employés soit pour des frais de déplacement ou autres, soit pour des dépenses ou en raison de circonstances liées à leur emploi;
+	- **i)
+** prendre les autres mesures qu’elle juge nécessaires à la bonne gestion de son personnel, notamment en ce qui touche les conditions de travail non prévues de façon expresse par le présent paragraphe.
 
 **Licenciement, suspension, etc., par le commissaire**
 
-- **(2)** Le commissaire, pour le compte de l’Agence, inflige les sanctions, y compris le licenciement et la suspension, visées à l’alinéa (1)f) et procède au licenciement ou à la rétrogradation visés à l’alinéa (1)g).
+- **(2)** Le commissaire, pour le compte de l’Agence, inflige les sanctions, y compris le licenciement et la suspension, visées à l’alinéa (1)
+f) et procède au licenciement ou à la rétrogradation visés à l’alinéa (1)
+g).
+> 1999, ch. 17, art. 51; 2003, ch. 22, art. 98.
+
 
 
 
@@ -811,11 +826,14 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **58** 
 
-- **(1)** Par dérogation à l’article 56 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), l’Agence est la seule autorité habilitée à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable aux employés de cette unité.
+- **(1)** Par dérogation à l’article 112 de la 
+[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), l’Agence est la seule autorité habilitée à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable aux employés de cette unité.
 
 **Consultation avec le Conseil du Trésor**
 
 - **(2)** L’Agence doit préalablement consulter le Conseil du Trésor relativement à son plan de ressources humaines, notamment en ce qui a trait au total des augmentations des salaires et des avantages des employés.
+> 1999, ch. 17, art. 58; 2003, ch. 22, art. 99.
+
 
 
 
@@ -911,6 +929,8 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 **Choix des fournisseurs de biens et services**
 
 **66** Par dérogation à l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), l’Agence peut se procurer des biens et services, à l’exception des services juridiques, à l’extérieur de l’administration publique fédérale.
+> 1999, ch. 17, art. 66; 2003, ch. 22, art. 224(A).
+
 
 
 
