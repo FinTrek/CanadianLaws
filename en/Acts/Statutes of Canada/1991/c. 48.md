@@ -5156,7 +5156,7 @@ every director or officer of the body corporate is deemed to have been an inside
 
 
 
-### *Prospectus*
+### Prospectus
 
 
 
@@ -5317,7 +5317,7 @@ to the effect that, according to the person’s information, knowledge and belie
 
 
 
-### *Trust Indentures*
+### Trust Indentures
 
 
 
@@ -7170,23 +7170,39 @@ of shares of that class of shares of the association, or of control of an entity
 
 
 
-**Restriction on security interests**
+**Policies re security interests**
 
 **383** 
 
-- **(1)** Subject to subsection (3), an association shall not create a security interest in any property of the association to secure an obligation of the association, unless
-	- **(a)** the obligation is to the Bank of Canada or the Canada Deposit Insurance Corporation; or
-	- **(b)** the Superintendent has approved in writing the creation of the security interest.
+- **(1)** The directors of an association shall establish and the association shall adhere to policies regarding the creation of security interests in property of the association to secure obligations of the association and the acquisition by the association of beneficial interests in property that is subject to security interests.
 
-**Encumbered property**
+**Order to amend policies**
 
-- **(2)** An association shall notify the Superintendent in writing of any beneficial interest in real and personal property acquired by the association, other than by way of realization, that is subject to a security interest.
+- **(2)** The Superintendent may, by order, direct an association to amend its policies as specified in the order.
 
-**Exceptions**
+**Compliance**
 
-- **(3)** Subsection (1) does not apply in respect of security interests created on
-	- **(a)** such classes of personal property as the Superintendent may, by order, designate; or
-	- **(b)** property having an aggregate value that is less than such amount as the Superintendent may, by order, specify.
+- **(3)** An association shall comply with an order made under subsection (2) within the time specified in the order.
+> 1991, c. 48, s. 383; 2001, c. 9, s. 311.
+
+
+
+
+
+**Regulations and guidelines**
+
+**383.1** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the creation by an association of security interests in its property to secure obligations of the association and the acquisition by the association of beneficial interests in property that is subject to security interests.
+> 2001, c. 9, s. 311.
+
+
+
+
+
+**Exception**
+
+**383.2** Sections 383 and 383.1 do not apply in respect of a security interest created by an association to secure an obligation of the association to the Bank of Canada or the Canada Deposit Insurance Corporation.
+> 2001, c. 9, s. 311.
+
 
 
 
