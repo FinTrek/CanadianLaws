@@ -17855,7 +17855,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la société de portefeuille d’assurances dans les six mois de l’échéance;
 	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société de portefeuille d’assurances ou celle de sa dissolution;
-	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de mise sous séquestre frappant la société de portefeuille d’assurances conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de faillite frappant la société de portefeuille d’assurances conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
 
 **Limite**
 
@@ -17872,7 +17872,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2004, ch. 25, art. 203.
 
 
 
