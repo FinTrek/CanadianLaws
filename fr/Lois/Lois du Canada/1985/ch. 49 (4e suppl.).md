@@ -273,6 +273,8 @@
 **Autonomie fonctionnelle**
 
 **26** Le Centre n’est pas mandataire de Sa Majesté. Le président, les autres administrateurs et le premier dirigeant, ainsi que les autres membres du personnel, ne font pas partie de l’administration publique fédérale.
+> L.R. (1985), ch. 49 (4e suppl.), art. 26; 2003, ch. 22, art. 224(A).
+
 
 
 
