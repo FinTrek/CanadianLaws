@@ -240,7 +240,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#B-9.852_e_24'>[*]</a></sup>**(2)** This Part comes into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.852_e_24'><sup>*</sup></a>: [Note: Part 4 not in force.]<br />
+<a name='B-9.852_e_24'><sup>*</sup></a>: [Note: Part 4 in force January 31, 2005, *see* SI/2005-6.]<br />
 
 
 
