@@ -1683,20 +1683,23 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Décisions anticipées**
 
-**43.1** 
+<sup><a href='#c-52-6-f-2005-01-25'>[*]</a></sup>**43.1** 
 
-- **(1)** L’agent chargé ou appartenant à une catégorie d’agents chargée, par le ministre, de l’application du présent article est tenu, sur demande d’un membre d’une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, en la forme et avec les renseignements déterminés par le ministre, de rendre, avant l’importation de marchandises, une décision anticipée :
-	- **a)** d’une part, sur l’origine des marchandises et l’application à leur égard du traitement tarifaire préférentiel découlant d’un accord de libre-échange;
-	- **b)** d’autre part, s’agissant de marchandises exportées d’un pays ALÉNA, du Chili ou du Costa Rica, sur toute autre question portant sur l’application à celles-ci du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC ou du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR, selon le cas.
+- **(1)** L'agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l'application du présent article est tenu, sur demande d'un membre d'une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, avec les renseignements et en la forme réglementaires, de rendre, avant l'importation de marchandises, une décision anticipée :
+	- **a) ** sur l'origine des marchandises et l'application à leur égard du traitement tarifaire préférentiel découlant d'un accord de libre-échange;
+	- **b) ** s'agissant de marchandises exportées d'un pays ALÉNA ou du Chili, sur toute autre question portant sur l'application à celles-ci du paragraphe 1 de l'article 509 de l'ALÉNA ou du paragraphe 1 de l'article E-09 de l'ALÉCC, selon le cas;
+	- **c) ** sur le classement tarifaire des marchandises.
+
+<a name='c-52-6-f-2005-01-25'><sup>*</sup></a>: [Note : L'alinéa 43.1(1)b), édicté par 2001, ch. 25, art. 36, sera modifié ultérieurement.]<br />
 
 **Règlements**
 
 - **(2)** Le gouverneur en conseil peut prendre des règlements concernant les décisions anticipées et, notamment, régir :
-	- **a)** leur application;
-	- **b)** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
-	- **c)** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
-	- **d)** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 28, art. 28.
+	- **a) ** leur application;
+	- **b) ** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
+	- **c) ** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
+	- **d) ** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28.
 
 
 
@@ -2503,12 +2506,12 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 ***tribunal***
 - **a)** Dans la province d’Ontario, la Cour supérieure de justice;
 - **b)** dans la province de Québec, la Cour supérieure;
-- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, le territoire du Yukon et les Territoires du Nord-Ouest, la Cour suprême;
+- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême;
 - **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, la Cour du Banc de la Reine;
 - **e)** [Abrogé, 1992, ch. 51, art. 44]
 - **f)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, la Section de première instance de la Cour suprême;
 - **g)** au Nunavut, la Cour de justice.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152.
 
 
 
