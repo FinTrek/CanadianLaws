@@ -355,7 +355,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 **21** Le président-directeur général et le personnel de l'Organisme sont réputés être agents de l'État pour l'application de la Loi sur l'indemnisation des agents de l'État et avoir un emploi au sein de l'administration publique fédérale pour l'application des règlements pris en vertu de l'article 9 de la Loi sur l'aéronautique.
-> 1993, ch. 31, art. 21; 2004, ch. 16, art. 24.
+> 1993, ch. 31, art. 21; 2003, ch. 22, art. 224(A); 2004, ch. 16, art. 24 et 31(A).
 
 
 
