@@ -444,8 +444,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Ex officio judges**
 
-**32** A judge, other than a deputy judge, of the Supreme Court of the Yukon Territory and of the Supreme Court of the Northwest Territories is *ex officio* a judge of the Nunavut Court of Justice.
-> 1993, c. 28, s. 32; 1999, c. 3, s. 3.
+**32** A judge, other than a deputy judge, of the Supreme Court of Yukon and of the Supreme Court of the Northwest Territories is *ex officio* a judge of the Nunavut Court of Justice.
+> 1993, c. 28, s. 32; 1999, c. 3, s. 3; 2002, c. 7, s. 222.
 
 
 
