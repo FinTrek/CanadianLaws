@@ -33,21 +33,23 @@ Assented to on 1 April 2002
 
 **2** The definitions in this section apply in this Act.
 
-***Authority*** means the Canadian Air Transport Security Authority established by subsection 5(1).
+***Authority*** means the Canadian Air Transport Security Authority established by subsection 5(1). (*Administration*)
 
-***authorized aerodrome operator*** means an operator of an aerodrome designated by the regulations who is authorized by the Authority under section 7 to deliver screening.
+***authorized aerodrome operator*** means an operator of an aerodrome designated by the regulations who is authorized by the Authority under section 7 to deliver screening. (*exploitant d’aérodrome autorisé*)
 
-***board*** means the board of directors of the Authority established by section 10.
+***board*** means the board of directors of the Authority established by section 10. (*conseil*)
 
-***Minister*** means the Minister of Transport.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***screening*** means screening, including a search, performed in the manner and under the circumstances prescribed in the aviation security regulations or in security measures made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***screening*** means screening, including a search, performed in the manner and under the circumstances prescribed in aviation security regulations, security measures, emergency directions or interim orders made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*contrôle*)
 
-***screening contractor*** means a contractor retained by the Authority or an authorized aerodrome operator to deliver screening.
+***screening contractor*** means a contractor retained by the Authority or an authorized aerodrome operator to deliver screening. (*fournisseur de services de contrôle*)
 
-***screening officer*** means a screening officer who is employed by the Authority, an authorized aerodrome operator or a screening contractor to perform screening.
+***screening officer*** means a screening officer who is employed by the Authority, an authorized aerodrome operator or a screening contractor to perform screening. (*agent de contrôle*)
 
-***screening point*** means a point where screening is delivered, either directly or through a screening contractor, by or on behalf of the Authority in order to meet the requirements of the aviation security regulations or security measures made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***screening point*** means a point where screening is delivered, either directly or through a screening contractor, by the Authority or by an authorized aerodrome operator acting on behalf of the Authority, in order to meet the requirements of aviation security regulations, security measures, emergency directions or interim orders made under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*point de contrôle*)
+> 2002, c. 9, s. 2 "2"; 2004, c. 15, s. 24.
+
 
 
 
@@ -408,7 +410,9 @@ Assented to on 1 April 2002
 
 **Policing**
 
-**29** The Authority may, with the approval of the Treasury Board, enter into agreements with designated airport authorities as defined in the Airport Transfer Miscellaneous Matters Act, for the purposes of contributing to the costs of policing incurred by that airport authority in carrying out its responsibilities.
+**29** The Authority may, with the approval of the Treasury Board, enter into agreements with the operator of any aerodrome designated by regulation for the purposes of contributing to the costs of policing incurred by that operator in carrying out their responsibilities.
+> 2002, c. 9, s. 2 "29"; 2004, c. 15, s. 25.
+
 
 
 
