@@ -12980,113 +12980,194 @@ La base de données du Programme national sur les changements d’adresse de la 
 
 
 ### **ANNEXE 3** 
-## (alinéas 66(1)e) et f) et article 539)
+**(alinéas 66(1)e) et f) et article 539)**
 ## Liste des circonscriptions
 *Province d’Ontario*
 
-
-Algoma-Manitoulin
-
-
-Kenora-Rainy River
+Algoma—Manitoulin—Kapuskasing
 
 
-Thunder Bay — Superior-Nord
+
+Kenora
 
 
-Timiskaming-Cochrane
+
+Nickel Belt
 
 
-Timmins-Baie James
+
+Thunder Bay—Rainy River
+
+
+
+Thunder Bay—Superior-Nord
+
+
+
+Timmins—Baie James
+
+
 
 
 *Province de Québec*
 
+Abitibi—Témiscamingue
 
-Abitibi — Baie-James — Nunavik
 
 
 Manicouagan
 
 
-*Province du Manitoba*
 
+Nunavik—Eeyou
+
+
+
+
+*Province du Manitoba*
 
 Churchill
 
 
+
+Dauphin—Swan River
+
+
+
+
 *Province de la Colombie-Britannique*
 
-
-Cariboo-Chilcotin
-
-
-Prince George-Bulkley Valley
+Cariboo—Prince George
 
 
-Prince George-Peace River
+
+Chilliwack—Fraser Canyon
 
 
-Skeena
+
+Kamloops—Thompson
+
+
+
+Prince George—Peace River
+
+
+
+Skeena—Bulkley Valley
+
 
 
 Île de Vancouver-Nord
 
 
+
+West Vancouver—Sunshine Coast
+
+
+
+
 *Province de la Saskatchewan*
+
+Battlefords—Lloydminster
+
 
 
 Rivière Churchill
 
 
+
+Prince Albert
+
+
+
+Saskatoon—Humboldt
+
+
+
+Saskatoon—Wanuskewin
+
+
+
+Yorkton—Melville
+
+
+
+
 *Province d’Alberta*
 
-
 Athabasca
+
+
+
+Lethbridge
+
 
 
 Peace River
 
 
+
+Westlock—St. Paul
+
+
+
+Wetaskiwin
+
+
+
+Wild Rose
+
+
+
 Yellowhead
 
 
-*Province de Terre-Neuve*
 
 
-Bonavista-Trinity-Conception
+*Province de Terre-Neuve-et-Labrador*
+
+Avalon
 
 
-Burin-St. George’s
+
+Bonavista—Exploits
 
 
-Gander-Grand Falls
 
+Humber—St. Barbe—Baie Verte
 
-Humber-St. Barbe-Baie Verte
 
 
 Labrador
 
 
-*Yukon*
 
+Random—Burin—St. George’s
+
+
+
+
+*Yukon*
 
 Yukon
 
 
-*Territoires du Nord-Ouest*
 
+
+*Territoires du Nord-Ouest*
 
 Western Arctic
 
 
-*Territoire du Nunavut*
 
+
+*Nunavut*
 
 Nunavut
 
 
-> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95.
+
+
+> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95; Gazette du Canada Partie I, édition spéciale volume 138, n<sup>o</sup>o 5.
 
 
