@@ -156,7 +156,7 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 
 **10** 
 
-- **(1)** The Minister has the administration of all federal real property and federal immovables except those under the administration of any other minister, board or agency of the Government of Canada or any corporation.
+- **(1)** The Minister has the administration of all federal real property and federal immovables not situated in Yukon, the Northwest Territories or Nunavut except those under the administration of any other minister, board or agency of the Government of Canada or any corporation.
 
 **Other properties**
 
@@ -168,7 +168,7 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 **[Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md)**
 
 - **(3)** Nothing in paragraph (2)(c) affects the operation of the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md).
-> 1996, c. 16, s. 10; 1999, c. 31, s. 73(F); 2001, c. 4, s. 158.
+> 1996, c. 16, s. 10; 1999, c. 31, s. 73(F); 2001, c. 4, s. 158; 2002, c. 7, s. 157.
 
 
 
