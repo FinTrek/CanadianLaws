@@ -57,7 +57,9 @@ Assented to on 12 December 2002
 
 **Notification**
 
-**6** The Minister of Finance shall cause a notice of the day on which the Agreement enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+<sup><a href='#c-6.6'>[*]</a></sup>**6** The Minister of Finance shall cause a notice of the day on which the Agreement enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+
+<a name='c-6.6'><sup>*</sup></a>: [Note: Agreement in force August 26, 2003, *see* Canada Gazette Part I, Volume 137, page 3312.]<br />
 
 
 
