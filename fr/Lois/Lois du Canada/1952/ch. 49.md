@@ -85,7 +85,7 @@
 **Qui peut s’assurer**
 
 **5** Le ministre peut conclure des contrats avec toute personne nommée à un poste permanent dans tout service de l’administration publique fédérale, civil ou militaire, pour le paiement d’une somme d’argent à verser à sa mort.
-> S.R. 1952, ch. 49, art. 5; 1992, ch. 1, art. 39.
+> S.R. 1952, ch. 49, art. 5; 1992, ch. 1, art. 39; 2003, ch. 22, art. 224(A).
 
 
 
