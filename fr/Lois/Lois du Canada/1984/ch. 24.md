@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md)
 
-# Loi sur le règlement des revendications des Inuvialuit de la région ouest de l'Arctique
+# Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique
 
 **L.C. 1984, ch. 24**
 
@@ -11,9 +11,9 @@ Sanctionnée sur le 28 juin 1984
 
 
 
-Attendu :
+Attendu :
 
-que le Comité d’étude des droits des autochtones et le gouvernement du Canada ont conclu une Convention relativement à certaines terres situées dans les territoires du Nord-Ouest et le territoire du Yukon, sur lesquelles les Inuvialuit revendiquent un intérêt en raison de leur utilisation et occupation traditionnelles de ces terres;
+que le Comité d’étude des droits des autochtones et le gouvernement du Canada ont conclu une Convention relativement à certaines terres situées dans les territoires du Nord-Ouest et au Yukon, sur lesquelles les Inuvialuit revendiquent un intérêt en raison de leur utilisation et occupation traditionnelles de ces terres;
 
 qu’en contrepartie de la cession de cet intérêt, le gouvernement du Canada a contracté, aux termes de la Convention, certaines obligations en faveur des Inuvialuit de la région désignée, au sens de la convention;
 
@@ -27,8 +27,10 @@ qu’il y a lieu pour le Parlement d’approuver, de mettre en vigueur et de dé
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, décrète :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, décrète :
 
+
+> 1984, ch. 24, préambule; 2002, ch. 7, art. 249..
 
 
 
@@ -53,16 +55,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Convention*** La convention conclue entre le Comité d’étude des droits des autochtones, qui représente les Inuvialuit de la région désignée, au sens de la Convention, et le gouvernement du Canada, en date du 5 juin 1984, déposée devant la Chambre des communes au nom du ministre des Affaires indiennes et du Nord canadien le 19 juin 1984 et enregistrée sous le numéro 322-7/20 ou une Convention modificative.
+***Convention*** La convention conclue entre le Comité d’étude des droits des autochtones, qui représente les Inuvialuit de la région désignée, au sens de la Convention, et le gouvernement du Canada, en date du 5 juin 1984, déposée devant la Chambre des communes au nom du ministre des Affaires indiennes et du Nord canadien le 19 juin 1984 et enregistrée sous le numéro 322-7/20 ou une Convention modificative. (*Agreement*)
 
-***Convention modificative*** :
+***Convention modificative*** :
 - **a)** La convention modificative conclue entre la Société régionale inuvialuit, au nom des Inuvialuit, et le gouvernement du Canada, approuvée par le décret C.P. 1985-1144, déposée devant la Chambre des communes au nom du ministre des Affaires indiennes et du Nord canadien le 14 décembre 1987 et enregistrée sous le numéro 332-4/43;
 - **b)** la convention modificative conclue entre la Société régionale inuvialuit, au nom des Inuvialuit, et le gouvernement du Canada, approuvée par le décret C.P. 1987-26, déposée devant la Chambre des communes au nom du ministre des Affaires indiennes et du Nord canadien le 14 décembre 1987 et enregistrée sous le numéro 332-4/43A;
 - **c)** la convention modificative conclue entre la Société régionale inuvialuit, au nom des Inuvialuit, et le gouvernement du Canada, en date du 11 mai 1987, déposée devant la Chambre des communes au nom du ministre des Affaires indiennes et du Nord canadien le 14 décembre 1987 et enregistrée sous le numéro 332-4/43B;
-- **d)** toute autre convention modificative apportée en conformité avec le paragraphe 3(13) de la Convention.
+- **d)** toute autre convention modificative apportée en conformité avec le paragraphe 3(13) de la Convention. (*Amending Agreement*)
 
-***Territoire*** Ensemble des territoires du Nord-Ouest, du territoire du Yukon et, en dehors d’eux, des zones extracôtières contiguës qui relèvent de la souveraineté ou de la compétence du Canada.
-> 1984, ch. 24, art. 2; 1988, ch. 16, art. 1; 1993, ch. 34, art. 137(F).
+***Territoire*** Ensemble formé des territoires du Nord-Ouest, du Yukon et, en dehors d’eux, des zones extracôtières contiguës qui relèvent de la souveraineté ou de la compétence du Canada. (*Territory*)
+> 1984, ch. 24, art. 2; 1988, ch. 16, art. 1; 1993, ch. 34, art. 137(F); 2002, ch. 7, art. 250.
 
 
 
