@@ -30,7 +30,8 @@
 ***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
 - **a)** le Conseil du Trésor, pour ce qui est des fonctionnaires appartenant à un secteur de l’administration publique fédérale spécifié à la partie I de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md);
 - **b)** l’employeur mentionné à la partie II de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), pour ce qui est des fonctionnaires qui relèvent de lui;
-- **c)** le Sénat, la Chambre des communes ou la Bibliothèque du Parlement, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre de ces chambres;
+- **c)
+** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le commissariat à l’éthique, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
 - **d)** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité.
 
 ***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer.
@@ -56,7 +57,7 @@
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2004, ch. 7, art. 25.
 
 
 
