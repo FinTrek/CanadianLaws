@@ -272,7 +272,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Peines maximales**
 
-- **(2)** Le pouvoir de créer des peines de plus de 5 000 $ ou de plus de six mois de prison est subordonné à l’arrivée du premier des termes mentionnés aux alinéas 11(3)a) et b).
+- **(2)** Le pouvoir de créer des peines de plus de 5 000 $ ou de plus de six mois de prison est subordonné à l’arrivée du premier des termes mentionnés aux alinéas 11(3) a) et b).
+
+**Cas particulier : terres désignées et environnement**
+
+- **(3)** Entre-temps, toutefois, les textes législatifs édictés par la première nation au titre de l’alinéa 11(1) c) peuvent prévoir, si son accord le lui permet, une amende maximale de 300 000 $ dans les matières suivantes :
+	- **a)** l’utilisation des terres désignées et de leurs ressources naturelles;
+	- **b)** la prévention de la pollution, la lutte contre celle-ci et la protection de l’environnement.
+> 1994, ch. 35, art. 13; 2003, ch. 7, art. 130.
+
 
 
 
