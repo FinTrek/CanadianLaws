@@ -47,7 +47,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***department*** means
 - **(a)** a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md),
-- **(b)** a division or branch of the public service of Canada named in Schedule I.1 to that Act,
+- **(b)** a division or branch of the federal public administration named in Schedule I.1 to that Act,
 - **(b.1)** a commission under the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) designated as a department for the purposes of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
 - **(c)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 
@@ -74,7 +74,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Minister***, in relation to a department, means the Minister who, under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), is the appropriate Minister with respect to that department;
 
 ***real property*** means land in any province other than Quebec, and land outside Canada, including mines and minerals, and buildings, structures, improvements and other fixtures on, above or below the surface of the land, and includes an interest therein.
-> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11.
+> 1991, c. 50, s. 2; 1992, c. 1, s. 157; 1995, c. 5, s. 26; 2001, c. 4, s. 11; 2003, c. 22, s. 224(E).
 
 
 
