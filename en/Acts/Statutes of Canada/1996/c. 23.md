@@ -1713,14 +1713,14 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **46.1** 
 
-- **(1)** If a penalty is imposed on a corporation under section 38 or 39 for an act or omission, the directors of the corporation at the time of the act or omission are, subject to subsections (2) to (7), jointly and severally liable, together with the corporation, to pay the amount of the penalty.
+- **(1)** If a penalty is imposed on a corporation under section 38 or 39 for an act or omission, the directors of the corporation at the time of the act or omission are, subject to subsections (2) to (7), jointly and severally, or solidarily, liable, together with the corporation, to pay the amount of the penalty.
 
 **Limitations on liability**
 
 - **(2)** A director is not liable unless
 	- **(a)** a certificate for the amount of the corporation’s liability for the penalty has been registered in the Federal Court under section 126 and execution for that amount has been returned unsatisfied in whole or in part;
 	- **(b)** the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of its liability has been proved within six months after the date of commencement of the proceedings or the date of the dissolution, whichever is earlier; or
-	- **(c)** the corporation has made an assignment or a receiving order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the amount of its liability has been proved within six months after the date of the assignment or receiving order.
+	- **(c)** the corporation has made an assignment or a bankruptcy order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the amount of its liability has been proved within six months after the date of the assignment or bankruptcy order.
 
 **Defence of due diligence**
 
@@ -1743,7 +1743,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Contribution from other directors**
 
 - **(7)** A director who has satisfied a claim under this section is entitled to contribution from the other directors who are liable for the claim.
-> 1996, c. 23, s. 46.1; 1999, c. 31, s. 77(F).
+> 1996, c. 23, s. 46.1; 1999, c. 31, s. 77(F); 2004, c. 25, ss. 133, 197.
 
 
 
@@ -2530,7 +2530,7 @@ but once the decision under section 91 or 103 is communicated to the employer, t
 
 **83** 
 
-- **(1)** If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
+- **(1)** If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
 
 **Application of [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) provisions**
 
@@ -2539,6 +2539,8 @@ but once the decision under section 91 or 103 is communicated to the employer, t
 **Assessment provisions applicable to directors**
 
 - **(3)** The provisions of this Part respecting the assessment of an employer for an amount payable under this Act and respecting the rights and obligations of an employer so assessed apply to a director of the corporation in respect of an amount payable by the director under subsection (1) in the same manner and to the same extent as if the director were the employer mentioned in those provisions.
+> 1996, c. 23, s. 83; 2004, c. 25, s. 134(E).
+
 
 
 
