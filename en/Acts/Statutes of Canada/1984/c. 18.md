@@ -994,7 +994,10 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 
 **Exclusion of Federal Court’s jurisdiction**
 
-- **(2)** Notwithstanding the Federal Court Act, the Federal Court does not have the jurisdiction to hear applications described in subsection (1).
+- **(2)** Notwithstanding the 
+[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Federal Court does not have the jurisdiction to hear applications described in subsection (1).
+> 1984, c. 18, s. 55; 2002, c. 8, s. 133(E).
+
 
 
 
