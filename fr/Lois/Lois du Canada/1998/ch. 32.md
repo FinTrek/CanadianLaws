@@ -241,7 +241,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande d’ordonnance judiciaire**
 
-- **(2)** Dans le cas où la personne refuse ou omet de communiquer les renseignements ou les documents demandés dans le délai précisé, le ministre peut demander à un juge d’une cour supérieure d’une province ou de la Section de première instance de la Cour fédérale d’ordonner à cette personne d’effectuer la communication.
+- **(2)** Dans le cas où la personne refuse ou omet de communiquer les renseignements ou les documents demandés dans le délai précisé, le ministre peut demander à un juge d’une cour supérieure d’une province ou de la Cour fédérale d’ordonner à cette personne d’effectuer la communication.
 
 **Préavis**
 
@@ -250,6 +250,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnance**
 
 - **(4)** Le juge saisi de la demande peut rendre l’ordonnance s’il est convaincu que la communication est nécessaire pour que le Canada s’acquitte de ses obligations au titre du Traité et que l’intérêt public l’emporte sur le droit à la vie privée de la personne visée.
+> 1998, ch. 32, art. 13; 2002, ch. 8, art. 183.
+
 
 
 
