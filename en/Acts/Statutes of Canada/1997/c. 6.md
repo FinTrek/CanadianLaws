@@ -196,9 +196,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Separate employer**
+**Separate agency**
 
-**12** The Agency is a separate employer under the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+**12** The Agency is a separate agency under the Public Service Labour Relations Act.
+> 1997, c. 6, s. 12; 2003, c. 22, s. 135.
+
 
 
 
@@ -246,7 +248,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Choice of service providers**
 
-**16** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency may, with the approval of the Governor in Council given on the recommendation of the Treasury Board, procure goods and services, including legal services, from outside the public service of Canada.
+**16** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency may, with the approval of the Governor in Council given on the recommendation of the Treasury Board, procure goods and services, including legal services, from outside the federal public administration.
+> 1997, c. 6, s. 16; 2003, c. 22, s. 224(E).
+
 
 
 
