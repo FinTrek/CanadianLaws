@@ -5219,7 +5219,7 @@ Version anglaise seulement***threshold rate of return*** means an annual rate of
 ### **SCHEDULE I** 
 **(Sections 2 and 5)**
 ## Limits of the Offshore Area
-## (All latitudes and longitudes referred to in this Schedule are determined according to N.A.D. 27 datum.)
+## (Except where otherwise indicated, all latitudes and longitudes referred to in this Schedule are determined according to NAD 27.)
 The inner limit of the offshore area is the low water mark of Nova Scotia, except that
 
 
@@ -5310,19 +5310,71 @@ thence northeasterly in a straight line to a point at latitude 47° 25′ 24″ 
 
 
 
-thence northeasterly in a straight line to a point at latitude 47° 45′ 40″ and longitude 60° 24′ 17″, being approximately the midpoint between Cape Anguille (Nfld.) and Pointe de l’Est (Que.);
+thence northeasterly in a straight line to a point, delimited in the award of the arbitration tribunal in conclusion of the second phase of arbitration between the provinces of Nova Scotia and Newfoundland and Labrador on March 26, 2002, at latitude 47° 45′ 41.8″ and longitude 60° 24′ 12.5″ (NAD 83);
 
 
 
-thence southeasterly in a straight line to a point at latitude 47° 25′ 28″ and longitude 59° 43′ 33″, being approximately the midpoint between St. Paul Island (N.S.) and Cape Ray (Nfld.);
+thence, as delimited in the award of March 26, 2002, southeasterly along a geodesic line to a point at latitude 47° 25′ 31.7″ and longitude 59° 43′ 37.1″ (NAD 83);
 
 
 
-thence southeasterly in a straight line to a point at latitude 46° 54′ 50″ and longitude 59° 00′ 30″, being approximately the midpoint between Flint Island (N.S.) and Grand Bruit (Nfld.);
+thence, as delimited in the award of March 26, 2002, southeasterly along a geodesic line to a point at latitude 46° 54′ 48.9″ and longitude 59° 00′ 34.9″ (NAD 83);
 
 
 
-thence southeasterly in a straight line and on an azimuth of 135° 00′ 00″ to the outer edge of the continental margin;
+thence, as delimited in the award of March 26, 2002, southeasterly along a geodesic line to a point at latitude 46° 22′ 51.7″ and longitude 58° 01′ 20.0″ (NAD 83);
+
+
+
+thence, as delimited in the award of March 26, 2002, southeasterly along the following geodesic lines, but only as far as the point of intersection between one of those lines and the outer edge of the continental margin as determined by international law:
+
+
+
+along a geodesic line from the previous point to a point at latitude 46° 17′ 25.1″ and longitude 57° 53′ 52.7″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 46° 07′ 57.7″ and longitude 57° 44′ 05.1″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 45° 41′ 31.4″ and longitude 57° 31′ 33.5″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 44° 55′ 51.9″ and longitude 57° 10′ 34.0″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 43° 14′ 13.9″ and longitude 56° 23′ 55.7″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 42° 56′ 48.5″ and longitude 56° 16′ 52.1″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 42° 03′ 46.3″ and longitude 55° 54′ 58.1″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 41° 45′ 00.8″ and longitude 55° 47′ 31.6″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 41° 42′ 24.7″ and longitude 55° 46′ 23.8″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 41° 06′ 19.2″ and longitude 55° 36′ 10.9″ (NAD 83),
+
+
+
+thence along a geodesic line to a point at latitude 40° 58′ 21.7″ and longitude 55° 34′ 23.3″ (NAD 83),
+
+
+
+thence along a geodesic line on an azimuth of 166° 19′ 50″;
 
 
 
@@ -5372,6 +5424,8 @@ thence northeasterly in a straight line to a point at latitude 45° 24′ 10″ 
 
 
 
+
+> 1988, c. 28, Sch. I; SOR/2003-193.
 
 
 
