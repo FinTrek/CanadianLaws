@@ -70,7 +70,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***public office holder*** means any officer or employee of Her Majesty in right of Canada and includes
 - **(a)** a member of the Senate or the House of Commons and any person on the staff of such a member,
 - **(b)** a person who is appointed to any office or body by or with the approval of the Governor in Council or a minister of the Crown, other than a judge receiving a salary under the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md) or the lieutenant governor of a province,
-- **(c)** an officer, director or employee of any federal board, commission or other tribunal as defined in the Federal Court Act,
+- **(c)** an officer, director or employee of any federal board, commission or other tribunal as defined in the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md),
 - **(d)** a member of the Canadian Armed Forces, and
 - **(e)** a member of the Royal Canadian Mounted Police;
 
@@ -81,7 +81,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** For the purposes of this Act, a corporation is a subsidiary of another corporation if
 	- **(a)** securities of the first-mentioned corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the first-mentioned corporation are held, otherwise than by way of security only, directly or indirectly, whether through one or more subsidiaries or otherwise, by or for the benefit of the other corporation; and
 	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the first-mentioned corporation.
-> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1.
+> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1; 2002, c. 8, s. 182.
 
 
 
