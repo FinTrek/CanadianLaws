@@ -71,9 +71,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The Board is not an agent of Her Majesty.
 
-**Not part of public service of Canada**
+**Not part of federal public administration**
 
-- **(3)** Directors, officers, employees, and agents and mandataries, of the Board are not part of the public service of Canada.
+- **(3)** Directors, officers, employees, and agents and mandataries, of the Board are not part of the federal public administration.
 
 **Head office**
 
@@ -86,6 +86,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
 - **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply to the Board.
+> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -230,7 +232,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(i)** is not entitled to nor has been granted a pension benefit under the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md) or the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md),
 		- **(ii)** is neither entitled to nor has been granted a superannuation or pension benefit of a prescribed kind that is payable out of the Consolidated Revenue Fund and is chargeable to a Superannuation Account or another account in the accounts of Canada or is payable out of a fund, and
 		- **(iii)** is not subject to a superannuation or pension fund or plan under which he or she may become entitled to a benefit referred to in subparagraph (i) or (ii);
-	- **(b)** two members appointed by the Minister, after the Minister has received recommendations from the advisory committee referred to in section 41 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), one of whom must represent persons employed in the Public Service within the meaning of that Act;
+	- **(b)** two members appointed by the Minister, after the Minister has received recommendations from the advisory committee referred to in section 41 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), one of whom must represent persons employed in the public service within the meaning of that Act;
 	- **(c)** one member appointed by the Minister who is in receipt of a pension under any of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md), the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md);
 	- **(d)** two members appointed by the Minister of National Defence after that minister has received recommendations from the advisory committee referred to in section 49.1 of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md); and
 	- **(e)** two members appointed by the Solicitor General of Canada after that minister has received recommendations from the advisory committee referred to in section 25.1 of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md).
@@ -250,6 +252,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Factors for consideration**
 
 - **(5)** When the nominating committee is establishing a list of qualified candidates for proposed appointment as directors, it shall have regard to the desirability of having on the board of directors a sufficient number of directors with proven financial ability or relevant work experience such that the Board will be able to effectively achieve its objects.
+> 1999, c. 34, s. 10; 2003, c. 22, s. 225(E).
+
 
 
 
