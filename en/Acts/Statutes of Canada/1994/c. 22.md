@@ -181,7 +181,7 @@ the justice may issue a warrant authorizing the game officer to enter the dwelli
 **Forfeiture where ownership not ascertainable**
 
 - **(2)** Where the lawful ownership of or entitlement to the seized thing cannot be ascertained within thirty days after its seizure, the thing, or any proceeds of its disposition, are forfeited to
-	- **(a)** Her Majesty in right of Canada, if the thing was seized by a game officer employed in the public service of Canada; or
+	- **(a)** Her Majesty in right of Canada, if the thing was seized by a game officer employed in the federal public administration; or
 	- **(b)** Her Majesty in right of a province, if the thing was seized by a game officer employed by the government of that province.
 
 **Perishable things**
@@ -193,6 +193,8 @@ the justice may issue a warrant authorizing the game officer to enter the dwelli
 **Abandonment**
 
 - **(4)** The lawful owner of the seized thing may abandon it to Her Majesty in right of Canada or a province.
+> 1994, c. 22, s. 9; 2003, c. 22, s. 224(E)
+
 
 
 
@@ -392,7 +394,7 @@ the justice may issue a warrant authorizing the game officer to enter the dwelli
 - **(4)** Where an accused to whom the summons portion of a ticket is delivered or mailed pays the prescribed fine within the period set out in the ticket,
 	- **(a)** the payment constitutes a plea of guilty to the offence and a conviction must be entered against the accused and no further action may be taken against the accused in respect of that offence; and
 	- **(b)** notwithstanding section 9, any thing seized from the accused under this Act in relation to the offence, or any proceeds of its disposition, are forfeited to
-		- **(i)** Her Majesty in right of Canada, if the thing was seized by a game officer employed in the public service of Canada, or
+		- **(i)** Her Majesty in right of Canada, if the thing was seized by a game officer employed in the federal public administration, or
 		- **(ii)** Her Majesty in right of a province, if the thing was seized by a game officer employed by the government of that province.
 
 **Regulations**
@@ -400,6 +402,8 @@ the justice may issue a warrant authorizing the game officer to enter the dwelli
 - **(5)** The Governor in Council may make regulations prescribing
 	- **(a)** offences in respect of which this section applies and the manner in which the offences are to be described in tickets; and
 	- **(b)** the amount of the fine for a prescribed offence, but the amount may not exceed $1,000.
+> 1994, c. 22, s. 19; 2003, c. 22, s. 224(E)
+
 
 
 
