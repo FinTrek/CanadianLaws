@@ -270,9 +270,11 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 
 
-**Attributions en matière de direction du personnel**
+**Attributions en matière de gestion des ressources humaines**
 
-**13** Le surintendant est autorisé à assumer les responsabilités et à exercer, en ce qui a trait aux personnes nommées en vertu de l’article 11, les pouvoirs et fonctions conférés au Conseil du Trésor par la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) en matière de direction du personnel et notamment la fixation des conditions d’emploi et les relations entre employeur et employés au sens des alinéas 7(1)b) et e) et de l’article 11 de cette loi.
+**13** Le surintendant est autorisé, en ce qui a trait aux personnes nommées en vertu de l’article 11, à assumer les responsabilités et à exercer les attributions conférées au Conseil du Trésor en vertu des alinéas 7(1) b) et e) et de l’article 11.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et les attributions conférées aux administrateurs généraux en vertu du paragraphe 12(2) de cette loi en matière de gestion des ressources humaines, compte non tenu des conditions que peut imposer le gouverneur en conseil au titre de ce paragraphe, notamment en ce qui touche la détermination des conditions d’emploi et les relations entre employeur et employés.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 13; 2003, ch. 22, art. 177.
+
 
 
 
