@@ -572,7 +572,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **Ordinary action**
 
-- **(2)** The Federal Court Act and the *Federal Court Rules* that apply to ordinary actions apply to actions instituted under subsection (1) except as varied by special rules made in respect of such actions.
+- **(2)** The [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) and the rules made under that Act that apply to ordinary actions apply to actions instituted under subsection (1) except as varied by special rules made in respect of such actions.
 
 **Delivery after final order**
 
@@ -581,6 +581,8 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(4)** If the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), the total amount that can be paid under subsection (3) shall not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
+> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161.
+
 
 
 
