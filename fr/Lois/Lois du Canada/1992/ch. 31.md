@@ -431,7 +431,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** la Section de première instance de la Cour fédérale.
 
 ***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe (14) et la Cour d’appel fédérale.
-> 1992, ch. 31, art. 16; 1996, ch. 31, art. 108; 1998, ch. 16, art. 31, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 21, ch. 31, art. 43.
+> 1992, ch. 31, art. 16; 1996, ch. 31, art. 108; 1998, ch. 16, art. 31, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 21, ch. 31, art. 43; 2002, ch. 7, art. 132(A).
 
 
 
