@@ -249,16 +249,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-**15** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de tout accord — définitif ou transfrontalier — en vigueur, ainsi que des modifications qui peuvent lui être apportées :
-- **a)
-** aux Archives nationales du Canada;
-- **b)
-** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
-- **c)
-** aux bureaux régionaux du gouvernement du Canada — qu’il estime indiqués — situés au Yukon;
-- **d)
-** en tout autre lieu qu’il estime nécessaire.
-> 1994, ch. 34, art. 15; 2002, ch. 7, art. 256(A).
+**15** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de tout accord — définitif ou transfrontalier — en vigueur, ainsi que des modifications qui peuvent lui être apportées :
+- **a)** à Bibliothèque et Archives du Canada;
+- **b)** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
+- **c)** aux bureaux régionaux du gouvernement du Canada — qu’il estime indiqués — situés au Yukon;
+- **d)** en tout autre lieu qu’il estime nécessaire.
+> 1994, ch. 34, art. 15; 2002, ch. 7, art. 256(A); 2004, ch. 11, art. 50.
 
 
 
