@@ -92,8 +92,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Canadian Endangered Species Conservation Council*** means the Council referred to in subsection 7(1).
 
-***competent minister*** means
-- **(a)** the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites or other protected heritage areas as those expressions are defined in subsection 2(1) of the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md);
+***competent minister*** means 
+- **(a)** the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the  [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md);
 - **(b)** the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (a); and
 - **(c)** the Minister of the Environment with respect to all other individuals.
 
@@ -165,6 +165,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Competent minister**
 
 - **(3)** A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates.
+> 2002, c. 29, ss. 2, 141.1.
+
 
 
 
@@ -2427,7 +2429,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#S-15.3_en_1'>[*]</a></sup>**142** Except for section 141.1, the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='S-15.3_en_1'><sup>*</sup></a>: [Note: Section 141.1 in force on assent December 12, 2002; sections 1, 134 to 136 and 138 to 141 in force March 24, 2003, *see* SI/2003-43.]<br />
+<a name='S-15.3_en_1'><sup>*</sup></a>: [Note: Section 141.1 in force on assent December 12, 2002; sections 1, 134 to 136 and 138 to 141 in force March 24, 2003, *see* SI/2003-43; sections 2 to 31, 37 to 56, 62, 65 to 76, 78 to 84, 120 to 133 and 137 in force June 5, 2003, *see* SI/2003-111.]<br />
 
 
 
