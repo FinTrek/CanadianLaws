@@ -3163,7 +3163,7 @@ the last two mentioned road allowances are as shown on Plan 30750 in said record
 
 **(10)** in Township 20, Range 19, all sections; excepting
 
-**(a)** sections 5, 6, 7 and 8, the west half of section 4 and the southwest quarter of Section 18;
+**(a)** sections 5, 6, 7 and 8, the west half of section 4, the portion of the east half of section 4 lying west of Clear Lake Indian Reserve No. 61A and the southwest quarter of section 18;
 
 
 
@@ -3171,7 +3171,7 @@ the last two mentioned road allowances are as shown on Plan 30750 in said record
 
 
 
-part fractional east half Section 4;
+part fractional east half Section 4; 
 
 
 
@@ -5764,7 +5764,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1.
 
 
 
@@ -6269,6 +6269,10 @@ Secondly: the Tofino Airport, described as:
 
 
 **(d)** those portions of District Lots 193, 194, 195 and 196 lying to the east of Plan 1371RW in said office.
+
+
+
+Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa as 88700.
 
 
 
@@ -7167,7 +7171,7 @@ Thence generally northerly, northwesterly and northeasterly along the ordinary h
 Explanatory Note: All topographic features herein referred to being according to the Gazetteer of Canada (British Columbia) Third Edition, Ottawa 1985; to National Topographic Series (N.T.S.) Map, (103 B-C Moresby Island, Edition 2) produced at a scale of 1:250,000 by the Army Survey Establishment at Ottawa; to N.T.S. Maps (102-0/14 and 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 and 103B/14 Louise Island) and (103C/9 Tasu Head) produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa and to Canadian Hydrographic Service (C.H.S.) Chart 3853 produced at a scale of 1:150,000 by the Department of Fisheries and Oceans, Ottawa.
 
 
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E).
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2.
 
 
 
