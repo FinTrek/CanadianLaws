@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md)
 
-# Loi de mise en oeuvre des traités ou des ententes administratives sur le transfèrement international des personnes reconnues coupables d'infractions criminelles
+# Loi sur le transfèrement international des délinquants
 
 **L.C. 2004, ch. 21**
 
@@ -564,13 +564,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 ## Nouvelle terminologie
 
 
-**40** 
-
-- **(1)** [Modifications]
-
-**Mention dans les textes d'application**
-
-- **(2)** Sauf indication contraire du contexte, «  [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md) » est remplacé par «  Loi sur le transfèrement international des délinquants » dans les règlements, au sens de l'article 2 de la  [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), et dans les autres textes pris soit dans l'exercice d'un pouvoir conféré sous le régime d'une loi fédérale, soit par le gouverneur en conseil ou sous son autorité, notamment à l'alinéa 136(1) d) du  [Règlement sur le système correctionnel et la mise en liberté sous condition](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/92/620.md).
+**40** [Modifications]
 
 
 
@@ -597,8 +591,8 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 **Entrée en vigueur**
 
-<sup><a href='#nbp_IndEAD_hq_16244'>[*]</a></sup>**43** La présente loi, à l’exception de l’article 41, entre en vigueur à la date fixée par décret.
+<sup><a href='#nbp_IndEEFB_hq_16243'>[*]</a></sup>**43** La présente loi, à l’exception de l’article 41, entre en vigueur à la date fixée par décret.
 
-<a name='nbp_IndEAD_hq_16244'><sup>*</sup></a>: [Note : Article 41 en vigueur à la sanction le 14 mai 2004.]<br />
+<a name='nbp_IndEEFB_hq_16243'><sup>*</sup></a>: [Note : Article 41 en vigueur à la sanction le 14 mai 2004; loi, à l’exception de l’article 41, en vigueur le 29 octobre 2004, *voir* TR/2004-140.]<br />
 
 
