@@ -98,10 +98,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Précision quant au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et à la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md)**
+**Précision quant au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et à la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)**
 
-**5** Sauf disposition contraire de la présente loi, de ses règlements et des règles de pratique, les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatives aux infractions punissables sur déclaration de culpabilité par procédure sommaire et celles de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) s’appliquent à toutes les contraventions pour lesquelles les procédures sont introduites en application de la présente loi.
-> 1992, ch. 47, art. 5; 1996, ch. 7, art. 2
+**5** Sauf disposition contraire de la présente loi, de ses règlements et des règles de pratique, les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatives aux infractions punissables sur déclaration de culpabilité par procédure sommaire et celles de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) s’appliquent à toutes les contraventions pour lesquelles les procédures sont introduites en application de la présente loi.
+> 1992, ch. 47, art. 5; 1996, ch. 7, art. 2; 2002, ch. 1, art. 168
 
 
 
@@ -297,7 +297,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence des tribunaux pour adultes**
 
-- **(2)** Par dérogation à la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), un tribunal des contraventions ou un juge de paix a compétence, à l’exclusion de celle du tribunal pour adolescents, à l’égard d’une contravention qui aurait été commise par un adolescent sur le territoire, ou dans le ressort des tribunaux, d’une province dont le lieutenantgouverneur en conseil a décrété qu’une juridiction normalement compétente connaisse d’une telle contravention.
+- **(2)** Par dérogation à la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), un tribunal des contraventions ou un juge de paix a compétence, à l’exclusion de celle du tribunal pour adolescents, à l’égard d’une contravention qui aurait été commise par un adolescent sur le territoire, ou dans le ressort des tribunaux, d’une province dont le lieutenant-gouverneur en conseil a décrété qu’une juridiction normalement compétente connaisse d’une telle contravention.
 
 **Application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
@@ -306,7 +306,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Infractions à la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
 
 - **(4)** Par dérogation à l’article 606 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), un juge de paix a compétence à l’égard des contraventions pour lesquelles les procédures sont introduites en application de la présente loi.
-> 1992, ch. 47, art. 17; 1996, ch. 7, art. 7
+> 1992, ch. 47, art. 17; 1996, ch. 7, art. 7; 2002, ch. 1, art. 169
 
 
 
@@ -1009,7 +1009,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incarcération du contrevenant**
 
 - **(2)** S’il en arrive à cette conclusion, le tribunal peut délivrer un mandat de dépôt établi selon la formule 8 de la partie XXVIII du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) adaptée à l’espèce, ordonnant :
-	- **a)** si le contrevenant est un adolescent, son placement, pour une journée, sous garde en milieu ouvert, au sens du paragraphe 24.1(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md);
+	- **a)** si le contrevenant est un adolescent, son placement, pour une journée, sous garde sous le régime de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md);
 	- **b)** si le contrevenant n’est pas un adolescent, son incarcération pour la période qu’il détermine.
 
 **Autre décision**
@@ -1017,7 +1017,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** S’il conclut que le contrevenant est disposé à payer l’amende mais n’en a pas les moyens, le tribunal peut ordonner :
 	- **a)** soit l’acquittement de l’amende par acquisition de crédits au titre de travaux réalisés, sur une période maximale de deux ans, dans le cadre d’un programme visé à l’article 736 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** soit un étalement des versements ou toute autre prolongation du délai de paiement.
-> 1992, ch. 47, art. 62; 1995, ch. 22, art. 17
+> 1992, ch. 47, art. 62; 1995, ch. 22, art. 17; 2002, ch. 1, art. 170
 
 
 
