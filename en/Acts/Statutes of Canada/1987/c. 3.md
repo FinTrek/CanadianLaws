@@ -4540,20 +4540,22 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 
 
 
-**Calculation of fiscal equalization offset payment**
+**Calculation**
 
-**220** The fiscal equalization offset payment that is to be paid to Her Majesty in right of the Province, for a fiscal year pursuant to section 219 is the amount, as determined by the Federal Minister, equal to the aggregate of
+**220** The fiscal equalization offset payment that is to be paid to Her Majesty in right of the Province for a fiscal year pursuant to section 219 is the amount, as determined by the Federal Minister, equal to the aggregate of
 - **(a)** the amount, if any, by which
 	- **(i)** the fiscal equalization payment that may be paid to Her Majesty in right of the Province for the fiscal year under Part I of the Fiscal Arrangements Act
 is less than
-	- **(ii)** where the per capita fiscal capacity of the Province for the fiscal year is less than or equal to seventy per cent of the national average per capita fiscal capacity for the fiscal year, ninety-five per cent,
-	- **(iii)** where the per capita fiscal capacity of the Province for the fiscal year is less than or equal to seventy-five per cent of the national average per capita fiscal capacity for the fiscal year but greater than seventy per cent of the national average per capita fiscal capacity for the fiscal year, ninety per cent, or
-	- **(iv)** where the per capita fiscal capacity of the Province for the fiscal year is greater than seventy-five per cent of the national average per capita fiscal capacity for the fiscal year, eighty-five per cent
-of the aggregate of the fiscal equalization payment that may be paid to Her Majesty in right of the Province under Part I of the Fiscal Arrangements Act for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year; and
+	- **(ii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 95 per cent,
+	- **(iii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 75 per cent but greater than 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 90 per cent, or
+	- **(iv)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is greater than 75 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 85 per cent
+of the aggregate of the fiscal equalization payment that may be paid to Her Majesty in right of the Province under Part I of the Fiscal Arrangements Act for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year, and
 - **(b)** the phase-out portion, in respect of the fiscal year, of the amount, as determined by the Federal Minister, by which
 	- **(i)** the aggregate of the fiscal equalization payment that may be paid to Her Majesty in right of the Province under Part I of the Fiscal Arrangements Act for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year immediately preceding the fiscal year
 is greater than
 	- **(ii)** the aggregate of the fiscal equalization payment that may be paid to Her Majesty in right of the Province under Part I of the Fiscal Arrangements Act for the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year.
+> 1987, c. 3, s. 220; 2004, c. 22, s. 6.
+
 
 
 
