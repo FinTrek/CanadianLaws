@@ -256,12 +256,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** No person may be appointed or continue as a director of the Agency who
 	- **(a)** is not a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
 	- **(b)** is a member of the Senate or House of Commons or a member of a provincial or territorial legislature; or
-	- **(c)** is employed on a full-time basis in the public service of Canada or of a province or territory.
+	- **(c)** is employed on a full-time basis in the federal public administration or the public service of a province or territory.
 
 **Limitation**
 
 - **(3)** Paragraph (2)(c) does not apply to the Commissioner.
-> 1999, c. 17, s. 16; 2001, c. 27, s. 210.
+> 1999, c. 17, s. 16; 2001, c. 27, s. 210; 2003, c. 22, s. 95(E).
 
 
 
@@ -303,8 +303,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Accident compensation**
 
-**21** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the directors and the Deputy Commissioner appointed under subsection 26(1) are deemed to be employees in the public service of Canada.
-> 1999, c. 17, s. 21; 2004, c. 16, s. 2(F).
+**21** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the directors and the Deputy Commissioner appointed under subsection 26(1) are deemed to be employees in the federal public administration.
+> 1999, c. 17, s. 21; 2003, c. 22, s. 224(E); 2004, c. 16, s. 2(F).
 
 
 
@@ -410,12 +410,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** general administrative policy in the Agency;
 	- **(b)** the organization of the Agency;
 	- **(c)** Agency real property and Agency immovables as defined in section 73; and
-	- **(d)** personnel management, including the determination of the terms and conditions of employment of persons employed by the Agency.
+	- **(d)** human resources management, including the determination of the terms and conditions of employment of persons employed by the Agency.
 
 **Treasury Board regulations**
 
 - **(2)** Notwithstanding the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Agency is not subject to any regulation or requirement established by the Treasury Board under that Act that relates to any matter referred to in subsection (1), except in so far as any part of the regulation or requirement relates to financial management.
-> 1999, c. 17, s. 30; 2001, c. 4, s. 129.
+> 1999, c. 17, s. 30; 2001, c. 4, s. 129; 2003, c. 22, s. 96.
 
 
 
@@ -709,18 +709,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Separate employer**
+**Separate agency**
 
-**50** The Agency is a separate employer under the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+**50** The Agency is a separate agency under the Public Service Labour Relations Act.
+> 1999, c. 17, s. 50; 2003, c. 22, s. 97.
 
 
 
 
-**Personnel management**
+
+**Human resources management**
 
 **51** 
 
-- **(1)** Notwithstanding subsections 11(2) and (3) and section 12 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Agency may, in the exercise of its responsibilities in relation to personnel management,
+- **(1)** The Agency may, in the exercise of its responsibilities in relation to human resources management,
 	- **(a)** determine its requirements with respect to human resources and provide for the allocation and effective utilization of human resources;
 	- **(b)** determine requirements for the training and development of its personnel and fix the terms and conditions on which that training and development may be carried out;
 	- **(c)** provide for the classification of Agency positions and employees;
@@ -734,6 +736,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Commissioner’s responsibility**
 
 - **(2)** The Commissioner must apply the penalties, including termination of employment and suspension, under paragraph (1)(f) and provide for termination or demotion under paragraph (1)(g) on behalf of the Agency.
+> 1999, c. 17, s. 51; 2003, c. 22, s. 98.
+
 
 
 
@@ -820,11 +824,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **58** 
 
-- **(1)** Notwithstanding section 56 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), the Agency has sole authority to enter into a collective agreement with the bargaining agent for a bargaining unit composed of Agency employees, applicable to employees in that bargaining unit.
+- **(1)** Notwithstanding section 112 of the Public Service Labour Relations Act, the Agency has sole authority to enter into a collective agreement with the bargaining agent for a bargaining unit composed of Agency employees, applicable to employees in that bargaining unit.
 
 **Consultation with Treasury Board**
 
 - **(2)** Before entering into collective bargaining, the Agency must consult with the Treasury Board on its human resource plan, including the total increases in employee salaries or benefits.
+> 1999, c. 17, s. 58; 2003, c. 22, s. 99.
+
 
 
 
@@ -919,7 +925,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Choice of service providers**
 
-**66** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency may procure goods and services, other than legal services, from outside the public service of Canada.
+**66** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency may procure goods and services, other than legal services, from outside the federal public administration.
+> 1999, c. 17, s. 66; 2003, c. 22, s. 224(E).
+
 
 
 
