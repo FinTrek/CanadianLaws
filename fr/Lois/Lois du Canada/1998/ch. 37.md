@@ -39,16 +39,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ADN*** Acide désoxyribonucléique.
 
-***adolescent*** S’entend au sens du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
+
+ 
+***adolescent*** S'entend au sens du paragraphe 2(1) de la 
+[Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) .
 
 ***analyse génétique*** Analyse, à des fins médicolégales, de l’ADN de substances corporelles.
 
+
 ***commissaire*** Le commissaire de la Gendarmerie royale du Canada.
 
-***infraction désignée*** S’entend au sens de l’article 487.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.11 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+***infraction désignée*** S’entend au sens de l’article 487.04 du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.11 de la 
+[Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
 
 ***profil d’identification génétique*** Résultats de l’analyse génétique.
-> 1998, ch. 37, art. 2; 2000, ch. 10, art. 4.
+
+> 1998, ch. 37, art. 2; 2000, ch. 10, art. 4; 2002, ch. 1, art. 187.
 
 
 
