@@ -132,11 +132,11 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***accord*** L’accord conclu entre le gouvernement du Canada et celui d’une province sur le partage des recettes provenant d’activités liées à la recherche ou à la production d’hydrocarbures exercées dans les terres domaniales.
+***accord*** L’accord conclu entre le gouvernement du Canada et celui d’une province sur le partage des recettes provenant d’activités liées à la recherche ou à la production d’hydrocarbures exercées dans les terres domaniales. (*agreement*)
 
-***terres domaniales*** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle peut légalement aliéner ou exploiter les ressources naturelles, et qui sont situées :
+***terres domaniales*** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle peut légalement aliéner ou exploiter les ressources naturelles, et qui sont situées :
 - **a)** soit au Yukon, dans les Territoires du Nord-Ouest, au Nunavut ou dans l’île de Sable;
-- **b)** soit dans les zones sous-marines, hors des limites d’une province, qui sont contiguës à la côte canadienne et s’étendent sur tout le prolongement naturel du territoire terrestre canadien jusqu’au rebord externe de la marge continentale, ou jusqu’à deux cents milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne là où le rebord de la marge continentale se trouve à une distance inférieure.
+- **b)** soit dans les zones sous-marines, hors des limites d’une province, qui sont contiguës à la côte canadienne et s’étendent sur tout le prolongement naturel du territoire terrestre canadien jusqu’au rebord externe de la marge continentale, ou jusqu’à deux cents milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne là où le rebord de la marge continentale se trouve à une distance inférieure. (*frontier lands*)
 
 **Litiges interprovinciaux**
 
@@ -153,7 +153,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Dérogation**
 
 - **(5)** Échappe à l’obligation énoncée à l’article 7 le règlement pris sous le régime du paragraphe 5(1) qui fixe le tracé des limites à la suite du règlement d’un litige à ce sujet.
-> 1987, ch. 3, art. 6; 1993, ch. 28, art. 78; 1998, ch. 15, art. 18.
+> 1987, ch. 3, art. 6; 1993, ch. 28, art. 78; 1998, ch. 15, art. 18; 2002, ch. 7, art. 108(A).
 
 
 
@@ -4358,7 +4358,7 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 **Population**
 
 - **(2)** Pour l’application de la présente partie, le chiffre de la population d’une province pour un exercice est celui de cette province pour ce même exercice, établi pour l’application de la partie I de la loi de 1977.
-> 1987, ch. 3, art. 218; 1993, ch. 28, art. 78; 1994, ch. 41, art. 37; 1998, ch. 15, art. 18.
+> 1987, ch. 3, art. 218; 1993, ch. 28, art. 78; 1994, ch. 41, art. 37; 1998, ch. 15, art. 18; 2002, ch. 7, art. 109(A).
 
 
 
