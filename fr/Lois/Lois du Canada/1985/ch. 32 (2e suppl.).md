@@ -1430,7 +1430,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Rémunération de l’assistance contractuelle**
 
 - **(3)** Le surintendant autorise le paiement sur le fonds de pension de la rémunération des personnes engagées — ainsi que des dépenses rattachées à la préparation, par celles-ci, d’un rapport à lui destiné — à titre temporaire à l’extérieur de la fonction publique pour l’aider dans le cadre de l’inspection.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 34; 1998, ch. 12, art. 23.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 34; 1998, ch. 12, art. 23; 2003, ch. 22, art. 225(A).
 
 
 
