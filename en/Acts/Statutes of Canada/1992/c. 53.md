@@ -14,7 +14,7 @@ Assented to on 17 December 1992
 
 **Preamble**
 
-WHEREAS the Gwich’in, from time immemorial, have traditionally used and occupied lands in the Yukon Territory and the Northwest Territories;
+ WHEREAS the Gwich'in, from time immemorial, have traditionally used and occupied lands in Yukon and the Northwest Territories;
 
 WHEREAS the Constitution Act, 1982 recognizes and affirms the existing aboriginal and treaty rights of the aboriginal peoples of Canada;
 
@@ -28,6 +28,8 @@ WHEREAS the Agreement further provides that the Agreement will be a land claims 
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 1992, c. 53, Preamble; 2002, c. 7, s. 175(E)..
 
 
 
@@ -105,9 +107,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **7** The Minister of Indian Affairs and Northern Development shall cause a certified copy of the Agreement and any amendments thereto to be deposited in
 - **(a)** the library of the Department of Indian Affairs and Northern Development that is situated in the National Capital Region;
-- **(b)** the regional offices of the Department of Indian Affairs and Northern Development that are situated in the Yukon Territory and the Northwest Territories;
-- **(c)** the legislative libraries of the Government of the Yukon Territory and the Government of the Northwest Territories; and
+- **(b)** the regional offices of the Department of Indian Affairs and Northern Development that are situated in Yukon and the Northwest Territories;
+- **(c)** the legislative libraries of the Government of Yukon and the Government of the Northwest Territories; and
 - **(d)** such other places as the Minister deems necessary.
+> 1992, c. 53, s. 7; 2002, c. 7, s. 176(E).
+
 
 
 
