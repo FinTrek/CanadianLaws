@@ -236,7 +236,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Choice of goods and services providers**
 
-**9** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency, with the approval given generally or in a specific case by the Governor in Council, on the recommendation of the Treasury Board, may procure goods and services, including legal services, from outside the public service of Canada.
+**9** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Agency, with the approval given generally or in a specific case by the Governor in Council, on the recommendation of the Treasury Board, may procure goods and services, including legal services, from outside the federal public administration.
+> 1998, c. 31, s. 9; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -300,14 +302,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Right of employer**
 
-- **(2)** Nothing in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) shall be construed to affect the right or authority of the Chief Executive Officer to deal with the matters referred to in paragraph (1)(b).
+- **(2)** Nothing in the Public Service Labour Relations Act shall be construed to affect the right or authority of the Chief Executive Officer to deal with the matters referred to in paragraph (1)(b).
 
-**Personnel management**
+**Human resources management**
 
-- **(3)** Subsection 11(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply with respect to the Agency and the Chief Executive Officer may
+- **(3)** Subsections 11.1(1) and 12(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply with respect to the Agency and the Chief Executive Officer may
 	- **(a)** determine the organization of and classify the positions in the Agency;
 	- **(b)** set the terms and conditions of employment, including termination of employment for cause, for employees and assign duties to them; and
-	- **(c)** provide for any other matters that the Chief Executive Officer considers necessary for effective personnel management in the Agency.
+	- **(c)** provide for any other matters that the Chief Executive Officer considers necessary for effective human resources management in the Agency.
+> 1998, c. 31, s. 13; 2003, c. 22, ss. 180, 223(E).
+
 
 
 
@@ -327,7 +331,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Negotiation of collective agreements**
 
-**15** Notwithstanding section 56 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), the Chief Executive Officer may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees that is applicable to employees in that bargaining unit.
+**15** Notwithstanding section 112 of the Public Service Labour Relations Act, the Chief Executive Officer may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees that is applicable to employees in that bargaining unit.
+> 1998, c. 31, s. 15; 2003, c. 22, s. 181.
+
 
 
 
