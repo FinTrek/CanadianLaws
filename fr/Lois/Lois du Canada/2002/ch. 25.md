@@ -622,6 +622,14 @@ Botswana
 
 
 
+Brésil
+
+
+
+Bulgarie
+
+
+
 Canada
 
 
@@ -654,15 +662,15 @@ Croatie
 
 
 
+Ghana
+
+
+
 Guinée
 
 
 
 Guyana
-
-
-
-Hongrie
 
 
 
@@ -686,7 +694,7 @@ Lesotho
 
 
 
-Liban
+Malaisie
 
 
 
@@ -698,7 +706,7 @@ Namibie
 
 
 
-Pologne
+Norvège
 
 
 
@@ -710,7 +718,7 @@ République démocratique du Congo
 
 
 
-République du Congo
+Roumanie
 
 
 
@@ -722,7 +730,7 @@ Sierra Leone
 
 
 
-Slovénie
+Singapour
 
 
 
@@ -746,6 +754,10 @@ Thaïlande
 
 
 
+Togo
+
+
+
 Ukraine
 
 
@@ -761,6 +773,6 @@ Vietnam
 Zimbabwe
 
 
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194.
 
 
