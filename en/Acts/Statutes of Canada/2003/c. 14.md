@@ -219,7 +219,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **13** The following personal information relating to the person who sustained the injury shall, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility for a benefit:
 - **(a)** personal information collected or obtained by the Department of Veterans Affairs in the administration of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md);
 - **(b)** personal information collected or obtained by the Department of Transport in the administration of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) or the Canada Shipping Act, or any predecessor enactment relating to the same subject-matter; and
-- **(c)** personal information collected or obtained by the National Archives of Canada in the administration of the [National Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(3rd%20Supp.).md), or any predecessor enactment relating to the same subject-matter.
+- **(c)** personal information collected or obtained by the Library and Archives of Canada in the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), or any predecessor enactment relating to the same subject-matter.
+> 2003, c. 14, s. 13; 2004, c. 11, s. 33.
+
 
 
 
