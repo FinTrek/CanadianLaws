@@ -126,10 +126,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Deposit**
 
 **7** The Minister of Indian Affairs and Northern Development shall cause a certified copy of the Agreement and any amendments to the Agreement to be deposited in
-- **(a)** the National Archives of Canada;
+- **(a)** the Library and Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development that is situated in the National Capital Region;
 - **(c)** the legislative library of the territorial government that has jurisdiction over the Nunavut Settlement Area; and
 - **(d)** such other places as the Minister considers advisable.
+> 1993, c. 29, s. 7; 2004, c. 11, s. 34.
+
 
 
 
