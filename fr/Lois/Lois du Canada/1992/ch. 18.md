@@ -10,6 +10,9 @@ Sanctionnée sur le 18 juin 1992
 ----------
 
 
+[Abrogée, 2003, ch. 15, art. 43]
+
+
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
@@ -19,86 +22,54 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ## Titre abrégé
+> [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-**Titre abrégé**
-
-**1** Loi sur le compte de service et de réduction de la dette.
+**1** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
 
 ## Définition
+> [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-**Définition de « société d’État »**
-
-**2** Dans la présente loi, « société d’État » s’entend au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+**2** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
 
 ## Compte de service et de réduction de la dette
+> [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-**Ouverture du compte**
-
-**3** Est ouvert, parmi les comptes du Canada visant les exercices 1991-1992 et suivants, un compte intitulé « compte de service et de réduction de la dette ».
+**3** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-**Sommes créditées au compte**
-
-**4** Sont versées au Trésor et portées au crédit du compte de service et de réduction de la dette les sommes suivantes, comptabilisées dans les comptes du Canada pour les exercices 1991-1992 et suivants :
-- **a)** une somme reçue en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
-- **b)** en cas de vente, au cours d’un exercice visé, d’actions du capital-actions d’une société d’État ou d’une société qui était une société d’État ou qui la remplace, l’excédent éventuel du produit net de leur vente sur la valeur des actions — déduction faite de toute provision y afférente — inscrite dans l’état de l’actif et du passif du Canada au 31 mars immédiatement avant la vente;
-- **c)** l’excédent éventuel de la valeur globale des actifs financiers reçus par l’État, au cours d’un exercice visé, lors de la liquidation d’une société d’État ou d’une société qui était une société d’État ou qui la remplace, sur la valeur des actions de la société, ou de la participation de l’État dans celle-ci — déduction faite de toute provision y afférente — inscrite dans l’état de l’actif et du passif du Canada au 31 mars immédiatement avant le début de la liquidation;
-- **d)** une somme reçue à titre de don à l’État soit dans le but de réduire le déficit, soit dans le but de payer le principal d’une dette qu’il a contractée sous le régime d’une loi portant pouvoir d’emprunt, ou des intérêts y afférents, soit sans qu’aucune condition ou exigence ne soit posée quant à sa destination.
+**4** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-**Sommes débitées du compte**
-
-**5** Sont portés au débit du compte de service et de réduction de la dette les paiements effectués sur le Trésor et comptabilisés dans les comptes du Canada pour les exercices 1991-1992 et suivants à titre :
-- **a)** de remboursement ou de remise de taxe payable sous le régime de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
-- **a.1)** de versement en application des articles 8.4 ou 8.5 de la Loi sur les accords fiscaux entre le gouvernement fédéral et les provinces;
-- **b)** de versement de taxe payée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sous le régime de l’article 23 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **c)** de remboursement ou de versement de taxe payée en application de la section III de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sous le régime de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
-- **d)** de remboursement d’un montant réputé, par l’article 122.5 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), avoir été payé par un particulier au titre de son impôt payable en application de la partie I de cette loi sous le régime de l’article 164 de cette loi.
-> 1992, ch. 18, art. 5; 1997, ch. 10, art. 270.
+**5** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-
-**Frais de la dette**
-
-**6** Les paiements effectués sur le Trésor et comptabilisés dans les comptes du Canada pour les exercices 1991-1992 et suivants en vue du service, de l’émission, du remboursement, de l’acquittement ou du règlement d’une dette contractée par l’État sous le régime d’une loi portant pouvoir d’emprunt, ou au titre des coûts y afférents, ne sont portés au débit du compte de service et de réduction de la dette que dans la mesure où celui-ci présente un solde créditeur.
+**6** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-**Restriction**
-
-**7** À l’exception des paiements effectués en vertu de l’article 5 ou 6, aucun paiement effectué sur le Trésor n’est porté au débit du compte de service et de réduction de la dette.
+**7** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-**Vérification du compte**
-
-**8** Est publié dans les comptes publics d’un exercice visé un relevé précisant les sommes portées au débit et au crédit du compte de service et de réduction de la dette au cours de l’exercice.
+**8** [Abrogée, 2003, ch. 15, art. 43]
 
 
 
-
-**Vérification du compte**
-
-**9** Dans sa vérification des comptes du Canada, le vérificateur général examine le relevé visé à l’article 8 et fait savoir si, selon lui, les renseignements y figurant sont présentés fidèlement, conformément à la présente loi et aux conventions énoncées pour la comptabilité publique et de la même manière que pour l’exercice précédent; il formule éventuellement des réserves.
+**9** [Abrogée, 2003, ch. 15, art. 43]
 
 
