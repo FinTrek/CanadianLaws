@@ -442,10 +442,10 @@ shall, to the extent of the surplus, be paid in accordance with the interests of
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice, and
-- **(g)** the Federal Court — Trial Division;
+- **(g)** the Federal Court;
 
 ***court of appeal*** means, in the province in which an order referred to in subsection (14) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and includes the Federal Court of Appeal.
-> 1992, c. 31, s. 16; 1996, c. 31, s. 108; 1998, c. 16, s. 31, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 21, c. 31, s. 43; 2002, c. 7, s. 132(E).
+> 1992, c. 31, s. 16; 1996, c. 31, s. 108; 1998, c. 16, s. 31, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 21, c. 31, s. 43; 2002, c. 7, s. 132(E), c. 8, s. 183.
 
 
 
