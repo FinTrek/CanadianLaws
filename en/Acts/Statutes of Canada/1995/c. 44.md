@@ -993,12 +993,14 @@ the employer may inform the compliance officer of such belief.
 **Requirements**
 
 - **(6)** A regulation made under subsection (5) shall be made on the recommendation of the Treasury Board after consultation with
-	- **(a)** in the case of a regulation respecting the Canadian Security Intelligence Service, or the Royal Canadian Mounted Police, the Solicitor General; and
+	- **(a)** in the case of a regulation respecting the Canadian Security Intelligence Service, or the Royal Canadian Mounted Police, the Minister of Public Safety and Emergency Preparedness; and
 	- **(b)** in the case of a regulation respecting the Canadian Forces, the Minister of National Defence.
 
 **Requirements may differ**
 
 - **(7)** The effect of a regulation made under subsection (5) with respect to any matter may differ from the effect of the Act or the regulations or of any provision of the Act or the regulations with respect to that matter.
+> 1995, c. 44, s. 41; 2005, c. 10, s. 34.
+
 
 
 
