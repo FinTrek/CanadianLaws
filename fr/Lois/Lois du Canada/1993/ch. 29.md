@@ -127,11 +127,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-**7** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de l’Accord et de ses modifications éventuelles :
-- **a)** aux Archives nationales du Canada;
+**7** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de l’Accord et de ses modifications éventuelles :
+- **a)** à Bibliothèque et Archives du Canada;
 - **b)** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
 - **c)** à la bibliothèque des affaires législatives du gouvernement territorial ayant compétence pour la région du Nunavut;
 - **d)** en tout autre lieu qu’il estime indiqué.
+> 1993, ch. 29, art. 7; 2004, ch. 11, art. 34.
+
 
 
 
