@@ -21126,7 +21126,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2003
+## au 31 décembre 2004
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21167,6 +21167,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Banque CS Alterna</td>
 <td>Ottawa</td>
+</tr>
+<tr>
+<td>Banque Patrimoine Dundee</td>
+<td>Toronto</td>
 </tr>
 <tr>
 <td>Banque des Premières Nations du Canada</td>
@@ -21210,14 +21214,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 138, page 275.
+> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 139, page 751.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2003
+## au 31 décembre 2004
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21264,16 +21268,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Banque Comerica — Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>Banque CTC du Canada</td>
 <td>Vancouver</td>
-</tr>
-<tr>
-<td>Banque Dresdner du Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>Banque Habib Canadienne</td>
@@ -21293,10 +21289,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque Internationale de Commerce de Cathay (Canada)</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Banque Intesa Canada</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21345,14 +21337,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 138, page 275.
+> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 139, page 751.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2003
+## au 31 décembre 2004
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -21369,12 +21361,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Bank One, National Association</td>
-<td>Bank One, NA</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21427,14 +21413,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Le district régional de Vancouver</td>
 </tr>
 <tr>
-<td>HSBC Bank USA</td>
-<td>HSBC Bank USA</td>
+<td>HSBC Bank USA, National Association</td>
+<td>HSBC Bank USA, National Association</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
 <tr>
-<td>JPMorgan Chase Bank</td>
-<td>JPMorgan Chase Bank</td>
+<td>JPMorgan Chase Bank, National Association</td>
+<td>JPMorgan Chase Bank, National Association</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21453,6 +21439,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>National City Bank</td>
 <td>National City</td>
+<td>Prêt</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Ohio Savings Bank</td>
+<td>Ohio Savings Bank, Canadian Branch</td>
 <td>Prêt</td>
 <td>Toronto</td>
 </tr>
@@ -21496,6 +21488,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_fr_2'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 138, page 275.
+> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 139, page 751.
 
 
