@@ -939,7 +939,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE 1** 
-**(articles 2, 5, 6, 7 et 38)**
+**(*articles 2, 5, 6, 7 et 38*)**
 ## Parcs nationaux du Canada
 
 **PARTIE 1 — COLOMBIE-BRITANNIQUE** 
@@ -2351,11 +2351,27 @@ L’ensemble contenant par mesurage une superficie d’environ 44 807 kilomètre
 
 
 
-Excepté, toutes ces terres situées à l’intérieur de la réserve indienne de Peace Point n<sup>o</sup> 222 telles qu’elles sont indiquées sur le plan 71277 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, une copie dudit plan étant déposée au Bureau des titres de biens-fonds à Edmonton sous le numéro 882-0308, ladite réserve renfermant environ 5,18 kilomètres carrés (518 hectares); sont inclus les mines et les minéraux;
+Excepté ce qui suit,
 
 
 
-Le reste représentant une superficie d’environ 44 802 kilomètres carrés.
+Premièrement : toutes ces terres situées à l’intérieur de la réserve indienne de Peace Point n<sup>o</sup> 222 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 71277, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 882-0308, la réserve ayant une superficie d’environ 5,18 kilomètres carrés (518 hectares); sont inclus les mines et les minéraux;
+
+
+
+Deuxièmement : dans le canton 124, rang 10, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant le lot 6 de la partie de la réserve indienne de Thebathi n<sup>o</sup> 196 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85625, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126326, ces terres ayant ensemble une superficie d’environ 1,81 kilomètre carré (181 hectares); sont inclus les mines et les minéraux;
+
+
+
+Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Eejeré k’elni kue n<sup>o</sup> 196I (site de Hay Camp) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 84988, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0123033, ces terres ayant ensemble une superficie d’environ 2,13 kilomètres carrés (213 hectares); sont inclus les mines et les minéraux;
+
+
+
+Quatrièmement : dans le canton théorique 121, rang 14 et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site de Pine Lake) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux.
+
+
+
+Le reste représentant une superficie d’environ 44 792 kilomètres carrés (4 479 200 hectares).
 
 
 
@@ -3152,7 +3168,7 @@ les deux dernières emprises de route telles qu’indiquées sur le plan 30750 a
 
 **(10)** dans le township 20, rang 19, toutes les sections; excepté :
 
-**a)** les sections 5, 6, 7 et 8, la moitié ouest de la section 4, la partie de la moitié est de la section 4 qui se trouve à l’ouest de la réserve indienne de Clear Lake n<sup>o</sup> 61A et le quart sud-ouest de la section 18;
+**a) ** les sections 5, 6, 7 et 8, la moitié ouest de la section 4, la partie de la moitié est de la section 4 qui se trouve à l’ouest de la réserve indienne de Clear Lake n<sup>o</sup> 61A et le quart sud-ouest de la section 18;
 
 
 
@@ -3333,7 +3349,7 @@ De là, en ligne droite vers le nord jusqu’au coin théorique nord-est de la s
 
 
 
-De là, en ligne droite vers 1'est jusqu’au coin théorique nord-est du township 104, rang 1;
+De là, en ligne droite vers l’est jusqu’au coin théorique nord-est du township 104, rang 1;
 
 
 
@@ -5737,7 +5753,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300.
 
 
 
