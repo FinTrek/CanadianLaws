@@ -7194,7 +7194,217 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **59. ** N-Nitrosodimethylamine, which has the molecular formula C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172. .
+**60** Gaseous Ammonia, which has the molecular formula NH<sub>3</sub>(g)
+
+
+**61** Ozone, which has the molecular formula O<sub>3</sub>
+
+
+**62** Nitric oxide, which has the molecular formula NO
+
+
+**63** Nitrogen dioxide, which has the molecular formula NO<sub>2</sub>
+
+
+**64** Sulphur dioxide, which has the molecular formula SO<sub>2</sub>
+
+
+**65** Volatile organic compounds that participate in atmospheric photochemical reactions, excluding the following:
+
+**(a)** methane;
+
+
+
+**(b)** ethane;
+
+
+
+**(c)** methylene chloride (dichloromethane);
+
+
+
+**(d)** 1,1,1-trichloroethane (methyl chloroform);
+
+
+
+**(e)** 1,1,2-trichloro-1,2,2-trifluoroethane (CFC-113);
+
+
+
+**(f)** trichlorofluoromethane (CFC-11);
+
+
+
+**(g)** dichlorodifluoromethane (CFC-12);
+
+
+
+**(h)** chlorodifluoromethane (HCFC-22);
+
+
+
+**(i)** trifluoromethane (HFC-23);
+
+
+
+**(j)** 1,2-dichloro-1,1,2,2-tetrafluoroethane (CFC-114);
+
+
+
+**(k)** chloropentafluoroethane (CFC-115);
+
+
+
+**(l)** 1,1,1-trifluoro-2,2-dichloroethane (HCFC-123);
+
+
+
+**(m)** 1,1,1,2-tetrafluoroethane (HFC-134a);
+
+
+
+**(n)** 1,1-dichloro-1-fluoroethane (HCFC-141b);
+
+
+
+**(o)** 1-chloro-1,1-difluoroethane (HCFC-142b);
+
+
+
+**(p)** 2-chloro-1,1,1,2-tetrafluoroethane (HCFC-124);
+
+
+
+**(q)** pentafluoroethane (HFC-125);
+
+
+
+**(r)** 1,1,2,2-tetrafluoroethane (HFC-134);
+
+
+
+**(s)** 1,1,1-trifluoroethane (HFC-143a);
+
+
+
+**(t)** 1,1-difluoroethane (HFC-152a); 
+
+
+
+**(u)** parachlorobenzotrifluoride (PCBTF);
+
+
+
+**(v)** cyclic, branched or linear completely methylated siloxanes;
+
+
+
+**(w)** acetone;
+
+
+
+**(x) ** perchloroethylene (tetrachloroethylene);
+
+
+
+**(y) ** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca); 
+
+
+
+**(z) ** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb); 
+
+
+
+**(z.1) ** 1,1,1,2,3,4,4,5,5,5-decafluoropentane (HFC 43-10mee); 
+
+
+
+**(z.2) ** difluoromethane (HFC-32);
+
+
+
+**(z.3) ** ethylfluoride (HFC-161); 
+
+
+
+**(z.4) ** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
+
+
+
+**(z.5) ** 1,1,2,2,3-pentafluoropropane (HFC-245ca); 
+
+
+
+**(z.6) ** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
+
+
+
+**(z.7) ** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
+
+
+
+**(z.8) ** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
+
+
+
+**(z.9) ** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
+
+
+
+**(z.10) ** 1,1,1,3,3-pentafluorobutane (HFC-365mfc); 
+
+
+
+**(z.11) ** chlorofluoromethane (HCFC-31);
+
+
+
+**(z.12) ** 1-chloro-1-fluoroethane (HCFC-151a);
+
+
+
+**(z.13) ** 1,2-dichloro-1,1,2-trifluoroethane (HCFC-123a);
+
+
+
+**(z.14) ** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
+
+
+
+**(z.15) ** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
+
+
+
+**(z.16) ** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
+
+
+
+**(z.17) ** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>); and
+
+
+
+**(z.18) ** methyl acetate and perfluorocarbon compounds that fall into the following classes, namely,
+
+**(i) ** cyclic, branched or linear completely fluorinated alkanes,
+
+
+
+**(ii) ** cyclic, branched, or linear completely fluorinated ethers with no unsaturations,
+
+
+
+**(iii) ** cyclic, branched or linear completely fluorinated tertiary amines with no unsaturations, or
+
+
+
+**(iv) ** sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine.
+
+
+
+
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229.
 
 
 
