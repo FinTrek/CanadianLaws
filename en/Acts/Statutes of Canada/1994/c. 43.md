@@ -343,7 +343,9 @@ and that has not ceased to be settlement land in accordance with the final agree
 
 **Workers compensation**
 
-- **(3)** A member is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(3)** A member is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 1994, c. 43, s. 15; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -1444,6 +1446,10 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 
 
+**10** The land claims agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kwanlin Dun First Nation as represented by the Chief of the Kwanlin Dun First Nation, signed on February 19, 2005.
+
+
+
 **PART II** 
 ### Self-Government Agreements
 
@@ -1483,7 +1489,11 @@ and includes works, machinery, plants and buildings below or above ground belong
 **9** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kluane First Nation as represented by the Chief of the Kluane First Nation, signed on October 18, 2003, respecting government by and for the First Nation.
 
 
-> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10.
+
+**10** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kwanlin Dun First Nation as represented by the Chief of the Kwanlin Dun First Nation, signed on February 19, 2005, respecting government by and for the First Nation.
+
+
+> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70.
 
 
 
