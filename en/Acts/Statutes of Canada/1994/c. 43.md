@@ -1167,15 +1167,12 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 
 
-**Order resolving disputes**
+**Order respecting interpretation**
 
-**65** In the case of a dispute respecting access to non-settlement land between
-- **(a)** a person, other than Government, who has an interest or right in the surface of the land, and
-- **(b)** a person, other than Government, who has, in relation to a mineral right, a right of access on the land under
-	- **(i)** any provision of an ordinance of the Yukon Territory identified in regulations made pursuant to paragraph 78(f.1), or
-	- **(ii)** section 17 of the [Yukon Placer Mining Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-3.md) or section 12, as restricted by section 14, of the [Yukon Quartz Mining Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-4.md),
-the Board shall, on application by either of those persons, make an order interpreting that provision or that section in relation to the right of access for purposes of the dispute.
-> 1994, c. 43, s. 65; 1998, c. 5, s. 16.
+**65** In the case of a dispute respecting access to non-settlement land between the following persons, the Board shall, on application of either person, make an order interpreting a provision described in paragraph (b) in relation to the right of access for purposes of the dispute:
+- **(a)** a person, other than Government, who has an interest or right in the surface of the land; and
+- **(b)** a person, other than Government, who has, in relation to a mineral right, a right of access on the land under any provision of a law of the Legislature of Yukon identified in regulations made pursuant to paragraph 78(f).
+> 1994, c. 43, s. 65; 1998, c. 5, s. 16; 2002, c. 7, s. 270.
 
 
 
@@ -1348,11 +1345,11 @@ the Board shall, on application by either of those persons, make an order interp
 - **(c)** respecting the amount of security that may be required to be given under a term or condition of an order of the Board made under this Act;
 - **(d)** setting out parameters, in addition to those mentioned in this Act, respecting the entry fee that may be provided for by the Board in an access order made under subsection 42(1);
 - **(e)** prescribing, for the purposes of subsections 43(9), 56(4) and 61(4), a rate of interest or rules for determining the rate of interest that may be payable on compensation payments;
-- **(f)** respecting the exercise of additional powers or the performance of additional duties or functions by the Board in relation to a mineral right granted in the Yukon Territory under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md);
-- **(f.1)** identifying, for the purposes of section 65, any provision of an ordinance of the Yukon Territory that confers a right of access for purposes of the exercise of a mineral right relating to oil and gas;
+- **(f)** identifying, for the purposes of section 65, any provision of a law of the Legislature of Yukon that confers a right of access for purposes of the exercise of a mineral right;
+- **(f.1)** [Repealed, 2002, c. 7, s. 271]
 - **(g)** authorizing the Board to exercise the additional powers or perform the additional duties or functions specified in a final agreement in relation to any particular parcel of settlement land; and
 - **(h)** generally for carrying the purposes and provisions of this Act into effect.
-> 1994, c. 43, s. 78; 1998, c. 5, s. 18.
+> 1994, c. 43, s. 78; 1998, c. 5, s. 18; 2002, c. 7, s. 271.
 
 
 
