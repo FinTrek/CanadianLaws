@@ -133,6 +133,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Choix au sein de l’administration publique fédérale**
 
 - **(2)** Deux administrateurs au plus, à l’exclusion du président du conseil et du président, peuvent être choisis au sein de l’administration publique fédérale.
+> 1995, ch. 28, art. 5; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -264,6 +266,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caisse de retraite**
 
 - **(5)** Le conseil peut prendre des règlements administratifs concernant la création, la gestion et l’administration d’une caisse de retraite pour les dirigeants et les employés de la Banque et les personnes à leur charge, les contributions à verser par la banque à cette caisse, le versement de prestations prélevées sur cette caisse, le service de pensions et le placement des fonds de cette caisse.
+> 1995, ch. 28, art. 13; 2003, ch. 22, art. 224(A).
+
 
 
 
