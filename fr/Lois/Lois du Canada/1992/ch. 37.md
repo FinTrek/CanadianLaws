@@ -76,7 +76,8 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 
 ***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
 
-***effets environnementaux*** Tant les changements que la réalisation d’un projet risque de causer à l’environnement que les changements susceptibles d’être apportés au projet du fait de l’environnement, que ce soit au Canada ou à l’étranger; sont comprises parmi les changements à l’environnement les répercussions de ceux-ci soit en matière sanitaire et socio-économique, soit sur l’usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d’importance en matière historique, archéologique, paléontologique ou architecturale.
+***effets environnementaux*** Que ce soit au Canada ou à l'étranger, les changements que la réalisation d'un projet risque de causer à l'environnement — notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)  — les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l'usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d'importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d'être apportés au projet du fait de l'environnement.
+
 
 ***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
 - **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
@@ -126,7 +127,7 @@ Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'É
 - **(2)** Pour l’application de la présente loi, a le contrôle d’une personne morale la personne morale :
 	- **a)** d’une part, qui détient — ou en est bénéficiaire — , autrement qu’à titre de garantie seulement, des valeurs mobilières conférant plus de cinquante pour cent du maximum possible des voix à l’élection des administrateurs de la personne morale;
 	- **b)** d’autre part, dont les valeurs mobilières confèrent un droit de vote dont l’exercice permet d’élire la majorité des administrateurs de la personne morale.
-> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122.
+> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122, ch. 29, art. 137.
 
 
 
