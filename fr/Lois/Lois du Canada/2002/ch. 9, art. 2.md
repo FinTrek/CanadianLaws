@@ -33,21 +33,23 @@ Sanctionnée sur le 1 avril 2002
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Administration*** L’Administration canadienne de la sûreté du transport aérien, créée par le paragraphe 5(1).
+***Administration*** L’Administration canadienne de la sûreté du transport aérien, créée par le paragraphe 5(1). (*Authority*)
 
-***agent de contrôle*** Agent de contrôle qui est employé de l’Administration, d’un exploitant d’aérodrome autorisé ou d’un fournisseur de services de contrôle pour exercer des fonctions de contrôle.
+***agent de contrôle*** Agent de contrôle qui est employé de l’Administration, d’un exploitant d’aérodrome autorisé ou d’un fournisseur de services de contrôle pour exercer des fonctions de contrôle. (*screening officer*)
 
-***conseil*** Le conseil d’administration de l’Administration, constitué par l’article 10.
+***conseil*** Le conseil d’administration de l’Administration, constitué par l’article 10. (*board*)
 
-***contrôle*** Contrôle — y compris la fouille — effectué de la manière et dans les circonstances prévues par les règlements sur la sûreté aérienne et les mesures de sûreté pris sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***contrôle*** Contrôle — y compris la fouille — effectué de la manière et dans les circonstances prévues par les règlements sur la sûreté aérienne, les mesures de sûreté, les directives d’urgence et les arrêtés d’urgence pris sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*screening*)
 
-***exploitant d’aérodrome autorisé*** L’exploitant d’un aérodrome désigné par règlement qui est autorisé par l’Administration en vertu de l’article 7.
+***exploitant d’aérodrome autorisé*** L’exploitant d’un aérodrome désigné par règlement qui est autorisé par l’Administration en vertu de l’article 7. (*authorized aerodrome operator*)
 
-***fournisseur de services de contrôle*** Entrepreneur qui a conclu avec l’Administration ou un exploitant d’aérodrome autorisé un contrat de fourniture de services de contrôle.
+***fournisseur de services de contrôle*** Entrepreneur qui a conclu avec l’Administration ou un exploitant d’aérodrome autorisé un contrat de fourniture de services de contrôle. (*screening contractor*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***point de contrôle*** Lieu où l’Administration procède ou fait procéder en son nom, soit directement, soit par l’entremise d’un fournisseur de services de contrôle, au contrôle en conformité avec les obligations prévues par les règlements sur la sûreté aérienne ou les mesures de sûreté pris sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***point de contrôle*** Lieu où soit l’Administration procède, soit un exploitant d’aérodrome autorisé procède en son nom, directement ou par l’entremise d’un fournisseur de services de contrôle, au contrôle en conformité avec les obligations prévues par les règlements sur la sûreté aérienne, les mesures de sûreté, les directives d’urgence ou les arrêtés d’urgence pris sous le régime de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*screening point*)
+> 2002, ch. 9, art. 2 « 2 »; 2004, ch. 15, art. 24.
+
 
 
 
@@ -408,7 +410,9 @@ Sanctionnée sur le 1 avril 2002
 
 **Services de police**
 
-**29** Avec l’approbation du Conseil du Trésor, l’Administration peut conclure des ententes avec des administrations aéroportuaires désignées, au sens de la [Loi relative aux cessions d’aéroports](/fr/Lois/Lois%20du%20Canada/1992/ch.%205.md), en vue de sa participation aux frais liés à la fourniture des services de police qu’engagent les administrations aéroportuaires dans l’exercice de leurs activités.
+**29** Avec l’approbation du Conseil du Trésor, l’Administration peut conclure des ententes avec les exploitants des aérodromes désignés par règlement en vue de sa participation aux frais liés à la fourniture des services de police qu’engagent ces exploitants dans l’exercice de leurs activités.
+> 2002, ch. 9, art. 2 « 29 »; 2004, ch. 15, art. 25.
+
 
 
 
