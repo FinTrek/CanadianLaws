@@ -7481,7 +7481,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **68** Particulate matter containing metals that is released in emissions from zinc plants
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277.
+**69** Dichlorodiphenyltrichloroethane (DDT), which has the molecular formula C<sub>14</sub>H<sub>9</sub>C1<sub>5</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40.
 
 
 
