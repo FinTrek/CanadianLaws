@@ -82,81 +82,81 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord sur des revendications territoriales*** Accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982.
+***accord sur des revendications territoriales*** Accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982. (*land claims agreement*)
 
-***Conseil canadien pour la conservation des espèces en péril*** Le conseil visé au paragraphe 7(1).
+***Conseil canadien pour la conservation des espèces en péril*** Le conseil visé au paragraphe 7(1). (*Canadian Endangered Species Conservation Council*)
 
-***conseil de gestion des ressources fauniques*** Tout organisme, notamment un conseil, constitué en application d’un accord sur des revendications territoriales qui est habilité à exercer des attributions à l’égard d’espèces sauvages.
+***conseil de gestion des ressources fauniques*** Tout organisme, notamment un conseil, constitué en application d’un accord sur des revendications territoriales qui est habilité à exercer des attributions à l’égard d’espèces sauvages. (*wildlife management board*)
 
-***COSEPAC*** Le Comité sur la situation des espèces en péril au Canada, constitué en application de l’article 14.
+***COSEPAC*** Le Comité sur la situation des espèces en péril au Canada, constitué en application de l’article 14. (*COSEWIC*)
 
-***décret d’urgence*** Décret pris au titre de l’article 80.
+***décret d’urgence*** Décret pris au titre de l’article 80. (*emergency order*)
 
-***espèce aquatique*** Espèce sauvage de poissons, au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), ou de plantes marines, au sens de l’article 47 de cette loi.
+***espèce aquatique*** Espèce sauvage de poissons, au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), ou de plantes marines, au sens de l’article 47 de cette loi. (*aquatic species*)
 
-***espèce disparue du pays*** Espèce sauvage qu’on ne trouve plus à l’état sauvage au Canada, mais qu’on trouve ailleurs à l’état sauvage.
+***espèce disparue du pays*** Espèce sauvage qu’on ne trouve plus à l’état sauvage au Canada, mais qu’on trouve ailleurs à l’état sauvage. (*extirpated species*)
 
-***espèce en péril*** Espèce sauvage disparue du pays, en voie de disparition, menacée ou préoccupante.
+***espèce en péril*** Espèce sauvage disparue du pays, en voie de disparition, menacée ou préoccupante. (*species at risk*)
 
-***espèce en voie de disparition*** Espèce sauvage qui, de façon imminente, risque de disparaître du pays ou de la planète.
+***espèce en voie de disparition*** Espèce sauvage qui, de façon imminente, risque de disparaître du pays ou de la planète. (*endangered species*)
 
-***espèce menacée*** Espèce sauvage susceptible de devenir une espèce en voie de disparition si rien n’est fait pour contrer les facteurs menaçant de la faire disparaître.
+***espèce menacée*** Espèce sauvage susceptible de devenir une espèce en voie de disparition si rien n’est fait pour contrer les facteurs menaçant de la faire disparaître. (*threatened species*)
 
-***espèce préoccupante*** Espèce sauvage qui peut devenir une espèce menacée ou une espèce en voie de disparition par l’effet cumulatif de ses caractéristiques biologiques et des menaces signalées à son égard.
+***espèce préoccupante*** Espèce sauvage qui peut devenir une espèce menacée ou une espèce en voie de disparition par l’effet cumulatif de ses caractéristiques biologiques et des menaces signalées à son égard. (*species of special concern*)
 
-***espèce sauvage*** Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes d’origine sauvage, sauf une bactérie ou un virus, qui, selon le cas :
+***espèce sauvage*** Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes d’origine sauvage, sauf une bactérie ou un virus, qui, selon le cas :
 - **a)** est indigène du Canada;
-- **b)** s’est propagée au Canada sans intervention humaine et y est présente depuis au moins cinquante ans.
+- **b)** s’est propagée au Canada sans intervention humaine et y est présente depuis au moins cinquante ans. (*wildlife species*)
 
 ***habitat***
 - **a)** S’agissant d’une espèce aquatique, les frayères, aires d’alevinage, de croissance et d’alimentation et routes migratoires dont sa survie dépend, directement ou indirectement, ou aires où elle s’est déjà trouvée et où il est possible de la réintroduire;
-- **b)** s’agissant de toute autre espèce sauvage, l’aire ou le type d’endroit où un individu ou l’espèce se trouvent ou dont leur survie dépend directement ou indirectement ou se sont déjà trouvés, et où il est possible de les réintroduire.
+- **b)** s’agissant de toute autre espèce sauvage, l’aire ou le type d’endroit où un individu ou l’espèce se trouvent ou dont leur survie dépend directement ou indirectement ou se sont déjà trouvés, et où il est possible de les réintroduire. (*habitat*)
 
-***habitat essentiel*** L’habitat nécessaire à la survie ou au rétablissement d’une espèce sauvage inscrite, qui est désigné comme tel dans un programme de rétablissement ou un plan d’action élaboré à l’égard de l’espèce.
+***habitat essentiel*** L’habitat nécessaire à la survie ou au rétablissement d’une espèce sauvage inscrite, qui est désigné comme tel dans un programme de rétablissement ou un plan d’action élaboré à l’égard de l’espèce. (*critical habitat*)
 
-***individu*** Individu d’une espèce sauvage, vivant ou mort, à toute étape de son développement. La présente définition vise également les larves, le sperme, les oeufs, les embryons, les semences, le pollen, les spores et les propagules asexuées.
+***individu*** Individu d’une espèce sauvage, vivant ou mort, à toute étape de son développement. La présente définition vise également les larves, le sperme, les oeufs, les embryons, les semences, le pollen, les spores et les propagules asexuées. (*individual*)
 
-***infraction*** Infraction à la présente loi.
+***infraction*** Infraction à la présente loi. (*offence*)
 
-***inscrite*** Se dit de toute espèce sauvage qui est inscrite sur la liste.
+***inscrite*** Se dit de toute espèce sauvage qui est inscrite sur la liste. (*listed*)
 
-***liste*** La Liste des espèces en péril figurant à l’annexe 1.
+***liste*** La Liste des espèces en péril figurant à l’annexe 1. (*List*)
 
-***mesures de rechange*** Mesures — autres que le recours aux procédures judiciaires — prises contre une personne à qui une infraction est imputée.
+***mesures de rechange*** Mesures — autres que le recours aux procédures judiciaires — prises contre une personne à qui une infraction est imputée. (*alternative measures*)
 
-***ministre*** Le ministre de l’Environnement.
+***ministre*** Le ministre de l’Environnement. (*Minister*)
 
 ***ministre compétent***
-- **a)** En ce qui concerne les individus présents dans les parcs nationaux, les lieux historiques nationaux, les aires marines nationales de conservation et les autres lieux patrimoniaux protégés, au sens du paragraphe 2(1) de la  Loi sur l'Agence Parcs Canada, qui sont des terres domaniales dont la gestion relève du ministre du Patrimoine canadien, ce ministre;
+- **a)** En ce qui concerne les individus présents dans les parties du territoire domanial dont la gestion relève de l’Agence Parcs Canada, le ministre responsable de celle-ci;
 - **b)** en ce qui concerne les espèces aquatiques dont les individus ne sont pas visés par l’alinéa a), le ministre des Pêches et des Océans;
-- **c)** en ce qui concerne tout autre individu, le ministre de l’Environnement.
+- **c)** en ce qui concerne tout autre individu, le ministre de l’Environnement. (*competent minister*)
 
-***ministre provincial*** Tout ministre d’une province chargé de la conservation et de la gestion d’une espèce sauvage dans la province.
+***ministre provincial*** Tout ministre d’une province chargé de la conservation et de la gestion d’une espèce sauvage dans la province. (*provincial minister*)
 
-***ministre territorial*** Tout ministre d’un territoire chargé de la conservation et de la gestion d’une espèce sauvage dans le territoire.
+***ministre territorial*** Tout ministre d’un territoire chargé de la conservation et de la gestion d’une espèce sauvage dans le territoire. (*territorial minister*)
 
-***moyen de transport*** Tout véhicule, aéronef, bateau ou autre moyen servant au transport des personnes ou des biens.
+***moyen de transport*** Tout véhicule, aéronef, bateau ou autre moyen servant au transport des personnes ou des biens. (*conveyance*)
 
-***plan d’action*** Plan d’action mis dans le registre en application du paragraphe 50(3), y compris ses modifications qui sont mises dans celui-ci en application de l’article 52.
+***plan d’action*** Plan d’action mis dans le registre en application du paragraphe 50(3), y compris ses modifications qui sont mises dans celui-ci en application de l’article 52. (*action plan*)
 
-***procureur général*** Le procureur général du Canada ou, pour l’application des articles 108 à 113, le procureur général du Canada ou son représentant.
+***procureur général*** Le procureur général du Canada ou, pour l’application des articles 108 à 113, le procureur général du Canada ou son représentant. (*Attorney General*)
 
-***programme de rétablissement*** Programme de rétablissement mis dans le registre en application du paragraphe 43(2), y compris ses modifications qui sont mises dans celui-ci en application de l’article 45.
+***programme de rétablissement*** Programme de rétablissement mis dans le registre en application du paragraphe 43(2), y compris ses modifications qui sont mises dans celui-ci en application de l’article 45. (*recovery strategy*)
 
-***rapport de situation*** Sommaire de la meilleure information accessible sur la situation d’une espèce sauvage, notamment les données scientifiques ainsi que les connaissances des collectivités et les connaissances traditionnelles des peuples autochtones, dont la forme et le contenu sont conformes aux exigences réglementaires prévues en application du paragraphe 21(2).
+***rapport de situation*** Sommaire de la meilleure information accessible sur la situation d’une espèce sauvage, notamment les données scientifiques ainsi que les connaissances des collectivités et les connaissances traditionnelles des peuples autochtones, dont la forme et le contenu sont conformes aux exigences réglementaires prévues en application du paragraphe 21(2). (*status report*)
 
-***registre*** Le registre public dont l’établissement est prévu à l’article 120.
+***registre*** Le registre public dont l’établissement est prévu à l’article 120. (*public registry*)
 
-***résidence*** Gîte — terrier, nid ou autre aire ou lieu semblable — occupé ou habituellement occupé par un ou plusieurs individus pendant tout ou partie de leur vie, notamment pendant la reproduction, l’élevage, les haltes migratoires, l’hivernage, l’alimentation ou l’hibernation.
+***résidence*** Gîte — terrier, nid ou autre aire ou lieu semblable — occupé ou habituellement occupé par un ou plusieurs individus pendant tout ou partie de leur vie, notamment pendant la reproduction, l’élevage, les haltes migratoires, l’hivernage, l’alimentation ou l’hibernation. (*residence*)
 
 ***territoire domanial***
 - **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien;
 - **b)** les eaux intérieures et la mer territoriale du Canada;
-- **c)** les réserves ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+- **c)** les réserves ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien. (*federal land*)
 
-***traité*** Traité au sens de l’article 35 de la Loi constitutionnelle de 1982.
+***traité*** Traité au sens de l’article 35 de la Loi constitutionnelle de 1982. (*treaty*)
 
-***vente*** Sont assimilées à la vente l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location.
+***vente*** Sont assimilées à la vente l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location. (*sell*)
 
 **Présomption**
 
@@ -165,7 +165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ministre compétent**
 
 - **(3)** La mention de ministre compétent dans une disposition de la présente loi vaut celle du ministre compétent à l’égard d’une espèce sauvage, ou des individus d’une telle espèce, auxquels la disposition s’applique.
-> 2002, ch. 29, art. 2 et 141.1.
+> 2002, ch. 29, art. 2 et 141.1; 2005, ch. 2, art. 14.
 
 
 
@@ -221,13 +221,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Le Conseil canadien pour la conservation des espèces en péril se compose du ministre de l’Environnement, du ministre des Pêches et des Océans et du ministre du Patrimoine canadien ainsi que des ministres d’une province ou d’un territoire chargés de la conservation et de la gestion d’une espèce sauvage dans la province ou dans le territoire.
+- **(1)** Le Conseil canadien pour la conservation des espèces en péril se compose du ministre de l’Environnement, du ministre des Pêches et des Océans et du ministre responsable de l’Agence Parcs Canada ainsi que des ministres d’une province ou d’un territoire chargés de la conservation et de la gestion d’une espèce sauvage dans la province ou dans le territoire.
 
 **Mission**
 
-- **(2)** Le Conseil canadien pour la conservation des espèces en péril a pour mission :
+- **(2)** Le Conseil canadien pour la conservation des espèces en péril a pour mission :
 	- **a)** de diriger d’une façon générale les activités du COSEPAC, l’élaboration des programmes de rétablissement et l’élaboration et la mise en oeuvre des plans d’action;
 	- **b)** de coordonner les activités de protection des espèces en péril exercées par les divers gouvernements représentés au conseil.
+> 2002, ch. 29, art. 7; 2005, ch. 2, art. 15.
+
 
 
 
@@ -244,11 +246,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Délégation**
 
-- **(2)** Le ministre, le ministre du Patrimoine canadien ou le ministre des Pêches et des Océans peut, après consultation des deux autres ministres, déléguer à un ministre fédéral ou provincial ou à quiconque est à l’emploi du gouvernement du Canada, d’une province ou de tout autre gouvernement au Canada telle de ses attributions prévues par la présente loi en matière de contrôle d’application de celle-ci.
+- **(2)** Le ministre, le ministre responsable de l’Agence Parcs Canada ou le ministre des Pêches et des Océans peut, après consultation des deux autres ministres, déléguer à un ministre fédéral ou provincial ou à quiconque est à l’emploi du gouvernement du Canada, d’une province ou de tout autre gouvernement au Canada telle de ses attributions prévues par la présente loi en matière de contrôle d’application de celle-ci.
 
 **Accord et rapport annuel**
 
 - **(3)** La délégation se fait par la conclusion d’un accord, entre le délégant et le délégataire, stipulant que ce dernier fait rapport annuellement au premier sur les activités qu’il exerce dans le cadre de l’accord. Est mise dans le registre une copie de l’accord dans les quarante-cinq jours suivant sa conclusion et une copie de tout rapport annuel dans les quarante-cinq jours suivant sa réception par le délégant.
+> 2002, ch. 29, art. 8; 2005, ch. 2, art. 16.
+
 
 
 
@@ -262,15 +266,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Comités consultatifs : ministre**
+**Comités consultatifs : ministre**
 
 **9** 
 
-- **(1)** Après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le ministre peut constituer un ou plusieurs comités pour le conseiller en matière d’application de la présente loi.
+- **(1)** Après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le ministre peut constituer un ou plusieurs comités pour le conseiller en matière d’application de la présente loi.
 
-**Comités consultatifs : Conseil**
+**Comités consultatifs : Conseil**
 
-- **(2)** Après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut constituer un ou plusieurs comités pour conseiller ce dernier relativement à l’exécution de sa mission.
+- **(2)** Après consultation du ministre responsable de l’Agence Parcs Canada, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut constituer un ou plusieurs comités pour conseiller ce dernier relativement à l’exécution de sa mission.
+> 2002, ch. 29, art. 9; 2005, ch. 2, art. 17.
+
 
 
 
@@ -480,7 +486,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu**
 
-- **(2)** Le ministre peut, par règlement pris après consultation du COSEPAC, du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, prévoir le contenu des rapports de situation.
+- **(2)** Le ministre peut, par règlement pris après consultation du COSEPAC, du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, prévoir le contenu des rapports de situation.
+> 2002, ch. 29, art. 21; 2005, ch. 2, art. 18.
+
 
 
 
@@ -493,7 +501,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(2)** Après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
+- **(2)** Après consultation du ministre responsable de l’Agence Parcs Canada, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
+> 2002, ch. 29, art. 22; 2005, ch. 2, art. 19.
+
 
 
 
@@ -581,7 +591,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Demandes d’évaluation : menace imminente**
+**Demandes d’évaluation : menace imminente**
 
 **28** 
 
@@ -593,11 +603,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(3)** Le ministre, après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
+- **(3)** Le ministre, après consultation du ministre responsable de l’Agence Parcs Canada, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
 
 **Notification**
 
 - **(4)** Le COSEPAC remet une copie de l’évaluation à l’auteur de la demande, au ministre et au Conseil canadien pour la conservation des espèces en péril. Une copie de cette évaluation est mise dans le registre.
+> 2002, ch. 29, art. 28; 2005, ch. 2, art. 20.
+
 
 
 
@@ -799,7 +811,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **41** 
 
-- **(1)** Si le ministre compétent conclut que le rétablissement de l’espèce sauvage inscrite est réalisable, le programme de rétablissement doit traiter des menaces à la survie de l’espèce — notamment de toute perte de son habitat — précisées par le COSEPAC et doit comporter notamment :
+- **(1)** Si le ministre compétent conclut que le rétablissement de l’espèce sauvage inscrite est réalisable, le programme de rétablissement doit traiter des menaces à la survie de l’espèce — notamment de toute perte de son habitat — précisées par le COSEPAC et doit comporter notamment :
 	- **a)** une description de l’espèce et de ses besoins qui soit compatible avec les renseignements fournis par le COSEPAC;
 	- **b)** une désignation des menaces à la survie de l’espèce et des menaces à son habitat qui soit compatible avec les renseignements fournis par le COSEPAC, et des grandes lignes du plan à suivre pour y faire face;
 	- **c)** la désignation de l’habitat essentiel de l’espèce dans la mesure du possible, en se fondant sur la meilleure information accessible, notamment les informations fournies par le COSEPAC, et des exemples d’activités susceptibles d’entraîner sa destruction;
@@ -819,7 +831,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlement**
 
-- **(4)** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)e), les éléments additionnels à inclure dans un programme de rétablissement.
+- **(4)** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)e), les éléments additionnels à inclure dans un programme de rétablissement.
+> 2002, ch. 29, art. 41; 2005, ch. 2, art. 21.
+
 
 
 
@@ -928,7 +942,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **49** 
 
-- **(1)** Le plan d’action comporte notamment, en ce qui concerne l’aire à laquelle il s’applique :
+- **(1)** Le plan d’action comporte notamment, en ce qui concerne l’aire à laquelle il s’applique :
 	- **a)** la désignation de l’habitat essentiel de l’espèce dans la mesure du possible, en se fondant sur la meilleure information accessible et d’une façon compatible avec le programme de rétablissement, et des exemples d’activités susceptibles d’entraîner sa destruction;
 	- **b)** un exposé des mesures envisagées pour protéger l’habitat essentiel de l’espèce, notamment la conclusion d’accords en application de l’article 11;
 	- **c)** la désignation de toute partie de l’habitat essentiel de l’espèce qui n’est pas protégée;
@@ -939,7 +953,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlement**
 
-- **(2)** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)f), les éléments additionnels à inclure dans un plan d’action.
+- **(2)** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)f), les éléments additionnels à inclure dans un plan d’action.
+> 2002, ch. 29, art. 49; 2005, ch. 2, art. 22.
+
 
 
 
@@ -1412,7 +1428,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlement**
 
-- **(10)** Le ministre peut par règlement, après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, régir la conclusion des accords et la délivrance des permis, ainsi que leur renouvellement, annulation, modification et suspension.
+- **(10)** Le ministre peut par règlement, après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, régir la conclusion des accords et la délivrance des permis, ainsi que leur renouvellement, annulation, modification et suspension.
+> 2002, ch. 29, art. 73; 2005, ch. 2, art. 23.
+
 
 
 
@@ -1607,7 +1625,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlement**
 
-**84** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, prendre des mesures d’application de l’alinéa 83(5)g).
+**84** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, prendre des mesures d’application de l’alinéa 83(5)g).
+> 2002, ch. 29, art. 84; 2005, ch. 2, art. 24.
+
 
 
 
@@ -2242,14 +2262,18 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 **Règlements**
 
-**121** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, fixer les modalités de forme et de tenue du registre, ainsi que les modalités d’accès à celui-ci.
+**121** Sur recommandation faite par le ministre après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, fixer les modalités de forme et de tenue du registre, ainsi que les modalités d’accès à celui-ci.
+> 2002, ch. 29, art. 121; 2005, ch. 2, art. 25.
+
 
 
 
 
 **Immunité**
 
-**122** Malgré toute autre loi fédérale, Sa Majesté du chef du Canada de même que le ministre, le ministre du Patrimoine canadien et le ministre des Pêches et des Océans ainsi que les personnes qui agissent en leur nom ou sous leurs ordres bénéficient de l’immunité en matière civile ou pénale pour la communication totale ou partielle d’un avis ou autre document faite de bonne foi par la voie du registre ainsi que pour les conséquences qui en découlent.
+**122** Malgré toute autre loi fédérale, Sa Majesté du chef du Canada de même que le ministre, le ministre responsable de l’Agence Parcs Canada et le ministre des Pêches et des Océans ainsi que les personnes qui agissent en leur nom ou sous leurs ordres bénéficient de l’immunité en matière civile ou pénale pour la communication totale ou partielle d’un avis ou autre document faite de bonne foi par la voie du registre ainsi que pour les conséquences qui en découlent.
+> 2002, ch. 29, art. 122; 2005, ch. 2, art. 25.
+
 
 
 
@@ -2284,7 +2308,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 **125** 
 
-- **(1)** Sur recommandation du ministre et du président du Conseil du Trésor, faite après consultation par le ministre du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prendre des règlements :
+- **(1)** Sur recommandation du ministre et du président du Conseil du Trésor, faite après consultation par le ministre du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, le gouverneur en conseil peut prendre des règlements :
 	- **a)** prévoyant les frais et droits, ou leur mode de calcul, qui peuvent être imposés pour les accords et les permis visés à l’article 73, notamment pour leur renouvellement ou modification, de même que pour la mise de tout document dans le registre ou l’obtention d’une copie d’un document qui s’y trouve;
 	- **b)** exemptant certaines personnes ou catégories de personnes de l’obligation de paiement;
 	- **c)** concernant toute condition ou autre question se rapportant au paiement des frais ou des droits.
@@ -2292,6 +2316,8 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Recouvrement**
 
 - **(2)** Les frais et droits réglementaires constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2002, ch. 29, art. 125; 2005, ch. 2, art. 26.
+
 
 
 
