@@ -140,7 +140,7 @@
 **Notification et communication de documents**
 
 - **(5)** Pour l’application de la présente loi, toute notification ou toute communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire ou par courrier recommandé à sa dernière adresse connue et, dans le cas d’une personne morale ou d’un organisme, par courrier recommandé à son siège ou à son bureau désigné par règlement. Elle peut aussi être faite par tout autre moyen approuvé, par écrit, par le ministre et aux conditions fixées par celui-ci.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2002, ch. 7, art. 234(A).
 
 
 
