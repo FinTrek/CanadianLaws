@@ -398,6 +398,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** les personnes âgées de moins de dix-huit ans;
 - **g)** les personnes atteintes d’une déficience mentale qui ont été reconnues comme telles par un tribunal même étranger;
 - **h)** les faillis non libérés.
+> 1998, ch. 10, art. 16; 2003, ch. 22, art. 113(A).
+
 
 
 
@@ -2682,7 +2684,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md)**
 
-- **(2)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), les employés visés au paragraphe (1) sont réputés être des employés de la fonction publique du Canada.
+- **(2)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), les employés visés au paragraphe (1) sont réputés être des employés de l’administration publique fédérale.
+> 1998, ch. 10, art. 136; 2003, ch. 22, art. 114.
+
 
 
 
@@ -2697,6 +2701,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
 
 **138** Il est déclaré pour plus de certitude que la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) ne s’applique pas aux employés désignés des ports non autonomes qui deviennent des administrations portuaires sous le régime de l’article 12 ni aux employés engagés en vertu du paragraphe 136(1) à compter de l’abrogation de la Loi sur la Société canadienne des ports.
+> 1998, ch. 10, art. 138; 2003, ch. 22, art. 223(A).
+
 
 
 
