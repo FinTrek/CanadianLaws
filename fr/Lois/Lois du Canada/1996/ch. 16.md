@@ -123,7 +123,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Dans le cadre des pouvoirs et fonctions que lui confère la présente loi ou toute autre loi, le ministre :
+- **(1)** Dans le cadre des pouvoirs et fonctions que lui confère la présente loi ou toute autre loi, le ministre :
 	- **a)** étudie et met sur pied des services en vue d’accroître l’efficacité de l’administration publique fédérale et de favoriser l’intégrité et l’efficience du processus d’impartition des marchés;
 	- **b)** acquiert du matériel et des services, en conformité avec les règlements pertinents sur les marchés de l’État;
 	- **c)** planifie et organise la fourniture aux ministères de matériel et de services connexes tels l’établissement de normes générales et particulières, le catalogage, la détermination des caractéristiques globales du matériel et le contrôle de sa qualité, ainsi que la gestion de celui-ci et les activités qui en découlent, notamment son entretien, sa distribution, son entreposage et sa destination;
@@ -132,6 +132,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(2)** Malgré l’alinéa (1)c), la gestion, à la différence de l’acquisition, du matériel essentiel à des missions militaires, dans le cas d’approvisionnements exclusivement militaires, ne relève pas du ministre.
+> 1996, ch. 16, art. 7; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -182,6 +184,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération**
 
 **12** Le ministre fournit les services administratifs et autres prescrits par le gouverneur en conseil et nécessaires pour assurer la rémunération des personnes employées dans un ministère ou un autre secteur de l’administration publique fédérale.
+> 1996, ch. 16, art. 12; 2003, ch. 22, art. 224(A).
+
 
 
 
