@@ -304,6 +304,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Accident compensation**
 
 **21** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the directors and the Deputy Commissioner appointed under subsection 26(1) are deemed to be employees in the public service of Canada.
+> 1999, c. 17, s. 21; 2004, c. 16, s. 2(F).
+
 
 
 
@@ -357,6 +359,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **When Deputy acts for Commissioner**
 
 - **(3)** The Deputy Commissioner must act as Commissioner if the Commissioner is absent or incapacitated or the office of Commissioner is vacant and, for that purpose, has all the powers, duties and functions of the Commissioner.
+> 1999, c. 17, s. 26; 2004, c. 16, s. 4(F).
+
 
 
 
@@ -364,6 +368,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Incapacity or vacancy**
 
 **27** In the event of the absence or incapacity of, or vacancy in the office of, the Commissioner and the Deputy Commissioner, the Minister may appoint an employee of the Agency to exercise the powers and perform the duties and functions of the Commissioner, but no employee may be so appointed for a term of more than sixty days without the approval of the Governor in Council.
+> 1999, c. 17, s. 27; 2004, c. 16, s. 4(F).
+
 
 
 
@@ -377,6 +383,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Remuneration**
 
 - **(2)** The Agency must pay the Commissioner and Deputy Commissioner remuneration at the rate fixed by the Governor in Council.
+> 1999, c. 17, s. 28; 2004, c. 16, s. 4(F).
+
 
 
 
@@ -384,6 +392,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Expenses**
 
 **29** The Commissioner and the Deputy Commissioner are entitled to be paid reasonable travel and living expenses incurred by them in the course of performing their duties while absent from their ordinary place of work.
+> 1999, c. 17, s. 29; 2004, c. 16, s. 4(F).
+
 
 
 
@@ -800,6 +810,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Political partisanship**
 
 **57** Sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to the Commissioner, Deputy Commissioner and employees of the Agency. For the purposes of those sections, the Commissioner and Deputy Commissioner are deemed to be deputy heads and the employees of the Agency are deemed to be employees as defined in section 2 of that Act.
+> 1999, c. 17, s. 57; 2004, c. 16, s. 5(F).
+
 
 
 
