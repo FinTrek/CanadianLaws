@@ -953,7 +953,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **63** 
 
-- **(1)** L’intéressé peut demander, sur appel formé en application de l’article 48 de la Loi sur la Cour fédérale, l’annulation ou la modification de la cotisation confirmée ou modifiée par le ministre en application du paragraphe 62(2). L’appel peut également être formé si le ministre n’a pas avisé l’intéressé dans les quatre-vingt-dix jours de l’envoi de l’avis d’opposition.
+- **(1)** L’intéressé peut demander, sur appel formé en application de l’article 48 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), l’annulation ou la modification de la cotisation confirmée ou modifiée par le ministre en application du paragraphe 62(2). L’appel peut également être formé si le ministre n’a pas avisé l’intéressé dans les quatre-vingt-dix jours de l’envoi de l’avis d’opposition.
 
 **Délai**
 
@@ -970,6 +970,8 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Huis clos**
 
 - **(5)** L’audience peut, à la demande d’une partie, se dérouler à huis clos.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 63; 2002, ch. 8, art. 182.
+
 
 
 
@@ -993,7 +995,9 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Renvois à la Cour fédérale**
 
-**65** Le ministre et l’indivisaire peuvent demander à la Cour fédérale de trancher sous le régime du paragraphe 17(3) ou (4) de la Loi sur la Cour fédérale toute question de droit, de fait ou de droit et de fait découlant de la présente partie dont ils conviennent par écrit.
+**65** Le ministre et l’indivisaire peuvent demander à la Cour fédérale de trancher sous le régime du paragraphe 17(3) ou (4) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) toute question de droit, de fait ou de droit et de fait découlant de la présente partie dont ils conviennent par écrit.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 65; 2002, ch. 8, art. 182.
+
 
 
 
@@ -1825,14 +1829,14 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Prise d’effet**
 
-- **(9)** L’arrêté prend effet à la dernière des dates suivantes :
+- **(9)** L’arrêté prend effet à la dernière des dates suivantes :
 	- **a)** le lendemain de l’expiration du délai prévu au paragraphe (2), dans le cas où aucune audition n’est demandée en vertu du paragraphe (3);
 	- **b)** la date de la prise de la mesure, dans le cas contraire.
 
 **Contrôle judiciaire**
 
-- **(10)** La mesure objet d’une audition au titre du présent article peut aussi faire celui d’une demande de contrôle judiciaire aux termes de la Loi sur la Cour fédérale.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 106; 1990, ch. 8, art. 47; 1992, ch. 35, art. 43.
+- **(10)** La mesure objet d’une audition au titre du présent article peut aussi faire celui d’une demande de contrôle judiciaire aux termes de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 106; 1990, ch. 8, art. 47; 1992, ch. 35, art. 43; 2002, ch. 8, art. 182.
 
 
 
