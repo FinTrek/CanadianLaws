@@ -5669,7 +5669,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 <sup><a href='#E-14.1_en_1'>[*]</a></sup>**433** The provisions of this Act, other than sections 1 and 408 to 432, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='E-14.1_en_1'><sup>*</sup></a>: [Note: Sections 1 and 408 to 432 in force on assent June 13, 2002.]<br />
+<a name='E-14.1_en_1'><sup>*</sup></a>: [Note: Sections 1 and 408 to 432 in force on assent June 13, 2002; sections 2, 4, 7 to 12, 14 to 24, 159, 211, 219 to 229, 304, 322 and 323 in force April 1, 2003, *see* SI/2003-47.]<br />
 
 
 
