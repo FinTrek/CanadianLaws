@@ -8661,17 +8661,18 @@ and in respect of any notice of intention registered before the day this Part co
 
 **Priority of wages and money owing for perishable agricultural products**
 
-- **(7)** Notwithstanding subsection (2) and notwithstanding that a notice of intention by a person giving security on property under this section has been registered pursuant to this section, where, under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), a receiving order is made against, or an assignment is made by, that person,
+- **(7)** Despite subsection (2) and despite the fact that a notice of intention by a person giving security on property under this section has been registered under this section, if, under the 
+[Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), a bankruptcy order is made against, or an assignment is made by, that person,
 	- **(a)** claims for wages, salaries or other remuneration owing in respect of the period of three months immediately preceding the making of the order or assignment, to employees of the person employed in connection with the business or farm in respect of which the property covered by the security was held or acquired by the person, and
 	- **(b)** claims of a grower or producer of products of agriculture for money owing by a manufacturer to the grower or producer for such products that were grown or produced by the grower or producer on land owned or leased by the grower or producer and that were delivered to the manufacturer during the period of six months immediately preceding the making of the order or assignment to the extent of the lesser of
 		- **(i)** the total amount of the claims of the grower or producer therefor, and
-		- **(ii)** the amount determined by multiplying by one thousand one hundred dollars the most recent annual average Index Number of Farm Prices of Agricultural Products for Canada published by Statistics Canada at the time the receiving order or claim is made,
+		- **(ii)** the amount determined by multiplying by one thousand one hundred dollars the most recent annual average Index Number of Farm Prices of Agricultural Products for Canada published by Statistics Canada at the time the bankruptcy order or claim is made,
 have priority over the rights of the bank in a security given to the bank under this section, in the order in which they are mentioned in this subsection, and if the bank takes possession or in any way disposes of the property covered by the security, the bank is liable for those claims to the extent of the net amount realized on the disposition of the property, after deducting the cost of realization, and the bank is subrogated in and to all the rights of the claimants to the extent of the amounts paid to them by the bank.
 
 **Effect of adjustment of index**
 
 - **(8)** On the first occasion after December 19, 1990 on which the index number referred to in subparagraph (7)(b)(ii) is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the reference to one thousand one hundred dollars therein the amount, stated in whole dollars, rounded upwards, obtained when one thousand one hundred dollars is multiplied by the index number immediately before the adjustment or re-establishment and the product so obtained is divided by the index number immediately following the adjustment or re-establishment, and on each subsequent occasion on which the index number is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the amount then referred to therein, an amount determined in like manner.
-> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E).
+> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E); 2004, c. 25, s. 185.
 
 
 
@@ -17645,7 +17646,7 @@ are jointly and severally liable to restore to the bank holding company any amou
 - **(2)** A director is not liable under subsection (1) unless
 	- **(a)** the bank holding company has been sued for the debt within six months after it has become due and execution has been returned unsatisfied in whole or in part;
 	- **(b)** the bank holding company has commenced liquidation and dissolution proceedings or has been dissolved and a claim for the debt has been proven within six months after the earlier of the date of commencement of the liquidation and dissolution proceedings and the date of dissolution; or
-	- **(c)** the bank holding company has made an assignment or a receiving order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt has been proved within six months after the assignment or receiving order.
+	- **(c)** the bank holding company has made an assignment or a bankruptcy order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt has been proved within six months after the assignment or bankruptcy order.
 
 **Limitations**
 
@@ -17662,7 +17663,7 @@ are jointly and severally liable to restore to the bank holding company any amou
 **Contribution entitlement**
 
 - **(6)** A director of a bank holding company who has satisfied a claim under this section is entitled to a contribution from the other directors of the bank holding company who are liable for the claim.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2004, c. 25, s. 186.
 
 
 
