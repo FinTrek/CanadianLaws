@@ -1328,6 +1328,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#a-13.4_f_78'>[*]</a></sup>**78** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='a-13.4_f_78'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='a-13.4_f_78'><sup>*</sup></a>: [Note : Loi, sauf articles 8, 12, 14 à 19, 21 à 59, 72 et 74 à 77, en vigueur le 22 avril 2004, *voir* TR/2004-49.]<br />
 
 
