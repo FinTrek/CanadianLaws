@@ -305,13 +305,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Foundation is not an agent of Her Majesty.
 
-**Not part of public service of Canada**
+**Not part of federal public administration**
 
-- **(2)** The Chairperson, directors, Executive Director, officers, employees and agents of the Foundation are not part of the public service of Canada.
+- **(2)** The Chairperson, directors, Executive Director, officers, employees and agents of the Foundation are not part of the federal public administration.
 
 **Part not applicable**
 
 - **(3)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply to the Foundation.
+> 1991, c. 8, s. 17; 2003, c. 22, s. 224(E).
+
 
 
 
