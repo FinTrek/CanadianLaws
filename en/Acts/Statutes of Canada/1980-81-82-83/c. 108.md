@@ -166,7 +166,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Not agent of Her Majesty**
 
-**11** The Corporation is not an agent of Her Majesty, or a Crown Corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the public service of Canada.
+**11** The Corporation is not an agent of Her Majesty, or a Crown Corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the federal public administration.
+> 1980-81-82-83, c. 108, s. 11; 2003, c. 22, s. 152.
+
 
 
 
@@ -359,7 +361,9 @@ subject to any provisions in respect of the sale of constrained shares set out i
 
 **Not agent of Her Majesty**
 
-**21** The Development Corporation is not an agent of Her Majesty, or a Crown Corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the public service of Canada.
+**21** The Development Corporation is not an agent of Her Majesty, or a Crown Corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the federal public administration.
+> 1980-81-82-83, c. 108, s. 21; 2003, c. 22, s. 153.
+
 
 
 
