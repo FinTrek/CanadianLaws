@@ -10,6 +10,9 @@ Assented to on 18 June 1992
 ----------
 
 
+[Repealed, 2003, c. 15, s. 43]
+
+
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -19,89 +22,54 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ## Short Title
+> [Repealed, 2003, c. 15, s. 43]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Debt Servicing and Reduction Account Act.
+**1** [Repealed, 2003, c. 15, s. 43]
 
 
 
 
 ## Interpretation
+> [Repealed, 2003, c. 15, s. 43]
 
 
 
-**Definition of "Crown corporation"**
-
-**2** In this Act, “Crown corporation” has the meaning assigned by subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+**2** [Repealed, 2003, c. 15, s. 43]
 
 
 
 
 ## Debt Servicing and Reduction Account
+> [Repealed, 2003, c. 15, s. 43]
 
 
 
-**Account established**
-
-**3** There is hereby established in the accounts of Canada for the 1991-92 and subsequent fiscal years an account to be known as the Debt Servicing and Reduction Account.
+**3** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-**Credits to Account**
-
-**4** There shall be credited to the Debt Servicing and Reduction Account every amount that is paid into the Consolidated Revenue Fund, that is accounted for in the accounts of Canada in respect of the 1991-92 or a subsequent fiscal year and that is
-- **(a)** an amount received under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
-- **(b)** the amount, if any, by which the net proceeds of disposal of shares in the capital stock of a Crown corporation or of a corporation that was previously a Crown corporation or that is a successor to a Crown corporation that were sold in the year exceed the value, net of any related allowance, of the shares as shown in the statement of assets and liabilities of Canada as at March 31 immediately before the time of sale;
-- **(c)** the amount, if any, by which the total value of all financial assets received by the government in the year on the winding-up of a particular Crown corporation or of a particular corporation that was previously a Crown corporation or a successor to a Crown corporation exceeds the value, net of any related allowance, of the shares of, or the interest of the government in, the particular Crown corporation or of the particular corporation, as the case may be, as shown in the statement of assets and liabilities of Canada as at March 31 immediately before the commencement of the winding up; or
-- **(d)** an amount received as a gift to the Crown
-	- **(i)** for the purpose of reducing the deficit,
-	- **(ii)** for the purpose of paying interest on, or the principal of, a debt incurred by the government under the authority of a borrowing authority Act, or
-	- **(iii)** without any condition or requirement as to the use of the amount.
+**4** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-**Amounts charged to Account**
-
-**5** There shall be charged to the Debt Servicing and Reduction Account every amount that is paid out of the Consolidated Revenue Fund, that is accounted for in the accounts of Canada in respect of the 1991-92 or a subsequent fiscal year and that is
-- **(a)** authorized under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to be paid as a rebate or refund of tax under that Part;
-- **(a.1)** authorized under section 8.4 or 8.5 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md);
-- **(b)** authorized under section 23 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to be paid as a remittance of tax paid under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
-- **(c)** authorized under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to be paid as a refund or remittance of tax paid under Division III of Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); or
-- **(d)** authorized under section 164 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) to be paid to an individual as a refund of an amount deemed by section 122.5 of that Act to be paid by the individual on account of the individual’s tax payable under Part I of that Act.
-> 1992, c. 18, s. 5; 1997, c. 10, s. 270.
+**5** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-
-**Debt charge to Account**
-
-**6** To the extent that there is a credit balance in the Debt Servicing and Reduction Account, every amount that is paid out of the Consolidated Revenue Fund, that is accounted for in the accounts of Canada in respect of the 1991-92 or a subsequent fiscal year and that is paid for the purpose of, or as costs associated with, the servicing, issuing, repayment, discharge or settlement of a debt incurred by the government under the authority of a borrowing authority Act shall be charged to the Debt Servicing and Reduction Account.
+**6** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-**Restriction on charges to Account**
-
-**7** Except as provided by section 5 or 6, no amount paid out of the Consolidated Revenue Fund shall be charged to the Debt Servicing and Reduction Account.
+**7** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-**Auditor General to examine Account**
-
-**8** The Public Accounts for the 1991-92 and each subsequent fiscal year shall contain a statement setting out the transactions in that year in respect of the Debt Servicing and Reduction Account.
+**8** [Repealed, 2003, c. 15, s. 43]
 
 
 
-
-**Examination by Auditor General**
-
-**9** In auditing the accounts of Canada, the Auditor General of Canada shall examine the statement referred to in section 8 and shall give an opinion, with any reservations that the Auditor General may have, as to whether the statement fairly presents information in accordance with this Act and the stated accounting policies of the government on a basis consistent with that of the preceding year.
+**9** [Repealed, 2003, c. 15, s. 43]
 
 
