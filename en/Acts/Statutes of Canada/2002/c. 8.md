@@ -777,7 +777,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#C-45.5_en_1'>[*]</a></sup>**199** The provisions of this Act, other than sections 193 to 198, and the provisions of any Act enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='C-45.5_en_1'><sup>*</sup></a>: [Note: Sections 193 to 198 in force on assent March 27, 2002.]<br />
+<a name='C-45.5_en_1'><sup>*</sup></a>: [Note: Sections 193 to 198 in force on assent March 27, 2002; Act, except sections 193 to 198, in force July 2, 2003, *see* SI/2003-109.]<br />
 
 
 
