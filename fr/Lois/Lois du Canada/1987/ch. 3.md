@@ -4379,14 +4379,16 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 
 **Calcul**
 
-**220** Le paiement visé à l’article 219 pour un exercice est égal à la somme des éléments ci-après :
-- **a)** la différence éventuelle entre :
-	- **(i)** d’une part, l’un des pourcentages suivants par rapport au total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent :
-		- **(A)** quatre-vingt-quinze pour cent, lorsque le potentiel de la province est au plus égal à soixante-dix pour cent de la moyenne nationale pour l’exercice,
-		- **(B)** quatre-vingt-dix pour cent, lorsque ce potentiel est supérieur à soixante-dix pour cent mais au plus égal à soixante-quinze pour cent de cette moyenne pour l’exercice,
-		- **(C)** quatre-vingt-cinq pour cent, lorsque ce potentiel est supérieur à soixante-quinze pour cent de cette moyenne pour l’exercice,
-	- **(ii)** d’autre part, le paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice;
-- **b)** la fraction dégressive, pour l’exercice, de l’excédent du total visé au sous-alinéa a)(i) sur le total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice et du montant calculé conformément à l’alinéa a) pour l’exercice.
+**220** Le paiement visé à l’article 219 pour un exercice correspond à la somme des éléments ci-après :
+- **a)** l’excédent éventuel du montant obtenu au sous-alinéa (i) sur celui obtenu au sous-alinéa (ii) :
+	- **(i)** l’un des pourcentages suivants par rapport au total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent :
+		- **(A)** quatre-vingt-quinze pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation pour l’exercice visé est au plus égale à soixante-dix pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale,
+		- **(B)** quatre-vingt-dix pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est au plus égale à soixante-quinze pour cent mais supérieure à soixante-dix pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale;
+		- **(C)** quatre-vingt-cinq pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est supérieure à soixante-quinze pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale,
+	- **(ii)** le paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice;
+- **b)** la fraction dégressive, pour l’exercice, de l’excédent du total visé au sous-alinéa a)(i) sur le total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice et du montant calculé conformément à l’alinéa a) pour ce même exercice.
+> 1987, ch. 3, art. 220; 2004, ch. 22, art. 6.
+
 
 
 
