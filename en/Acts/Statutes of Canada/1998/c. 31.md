@@ -87,11 +87,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***employee*** means an employee appointed under subsection 13(1).
 
 ***heritage protection programs*** includes programs that relate to
-- **(a)** heritage railway stations and federal heritage buildings that are within the jurisdiction of the Minister under the [Department of Canadian Heritage Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2011.md);
+- **(a)** heritage railway stations and federal heritage buildings;
 - **(b)** Canadian heritage rivers and federal archaeology; and
 - **(c)** any other matters within the jurisdiction of the Minister that relate to areas of Canadian natural or historical significance that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
 
-***Minister*** means the Minister of Canadian Heritage.
+***Minister*** means the Minister of the Environment.
 
 ***national historic site*** means a place designated under subsection (2) or a national historic site of Canada to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies.
 
@@ -100,15 +100,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***national park*** means a park or park reserve as defined in section 2 of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md).
 
 ***other protected heritage areas*** includes
-- **(a)** historic canals that are within the jurisdiction of the Minister under the [Department of Canadian Heritage Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2011.md);
+- **(a)** historic canals;
 - **(b)** historic museums that may be established by the Minister under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
 - **(b.1)** the Saguenay-St. Lawrence Marine Park established by section 5 of the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md); and
-- **(c)** any other areas within the jurisdiction of the Minister that relate to areas of Canadian natural or historical significance that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
+- **(c)** any other areas within the jurisdiction of the Minister that are of Canadian natural or historical significance and that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
 
 **Designation**
 
 - **(2)** The Minister may designate any historic place as defined in section 2 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) as a national historic site for the purposes of this Act.
-> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34.
+> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3.
 
 
 
@@ -129,15 +129,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **4** 
 
-- **(1)** The Minister is responsible for and has the overall direction of the Agency.
+- **(1)** The Minister is responsible for the Agency and the powers, duties and functions of the Minister, in that capacity, extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to
+	- **(a)** areas of natural or historical significance to the nation, including national parks, national marine conservation areas, national historic sites, historic canals, historic museums established under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) and Saguenay-St. Lawrence Marine Park;
+	- **(b)** heritage railway stations, federal heritage buildings, historic places in Canada, federal archaeology and Canadian heritage rivers; and
+	- **(c)** the design and implementation of programs that relate primarily to built heritage.
 
 **Ministerial direction**
 
-- **(2)** The Agency shall comply with any general or special direction given by the Minister with reference to the carrying out of its responsibilities.
+- **(2)** The Minister has the overall direction of the Agency, which shall comply with any general or special direction given by the Minister with reference to the carrying out of its responsibilities.
 
 **Exception**
 
-- **(3)** Notwithstanding subsection (1), no direction may be given with respect to the matters referred to in section 13.
+- **(3)** Notwithstanding subsection (2), no direction may be given with respect to the matters referred to in section 13.
+> 1998, c. 31, s. 4; 2005, c. 2, s. 4.
+
 
 
 
@@ -155,10 +160,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(3)** Subsection (1) does not include
-	- **(a)** any power, duty or function of the Minister under this Act;
+	- **(a)** any power, duty or function of the Minister under this Act, other than those referred to in subsection 4(1);
 	- **(b)** a power to make regulations under this or any other Act; or
 	- **(c)** a power to make designations or appointments under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) or the [Heritage Railway Stations Protection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2052%20(4th%20Supp.).md).
-> 1998, c. 31, s. 5; 2002, c. 18, s. 35.
+> 1998, c. 31, s. 5; 2002, c. 18, s. 35; 2005, c. 2, s. 5.
 
 
 
