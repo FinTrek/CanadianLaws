@@ -8271,6 +8271,21 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 
 
 
+**Rapport trimestriel**
+
+**424.1** 
+
+- **(1)** L’agent principal de chaque parti enregistré ayant droit, au titre du paragraphe 435.01(1), à l’allocation trimestrielle est tenu de produire auprès du directeur général des élections un rapport comportant les renseignements énumérés aux alinéas 424(2)a) à c), h.2) et k) pour chaque trimestre de l’exercice du parti.
+
+**Délai**
+
+- **(2)** Le rapport trimestriel est produit dans les trente jours suivant la période sur laquelle il porte.
+> 2003, ch. 19, art. 34.1.
+
+
+
+
+
 **Contributions au receveur général**
 
 **425** L’agent enregistré d’un parti enregistré verse sans délai au directeur général des élections, qui la fait parvenir au receveur général, une somme égale à la valeur de la contribution reçue par le parti s’il manque le nom d’un donateur d’une contribution supérieure à 25 $ ou le nom ou l’adresse d’un donateur d’une contribution supérieure à 200 $.
