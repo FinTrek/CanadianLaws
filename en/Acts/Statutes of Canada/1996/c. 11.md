@@ -212,9 +212,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The National Council of Welfare is continued, consisting of a chairperson and not more than thirteen other members to be appointed by the Governor in Council to hold office during pleasure for the term, not exceeding three years, that will ensure as far as possible the expiration in any one year of the terms of appointment of fewer than half of the members so appointed.
 
-**Members deemed to be in the public service**
+**Members deemed to be in the federal public administration**
 
-- **(2)** The members are deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of duties under this Act.
+- **(2)** The members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of duties under this Act.
+> 1996, c. 11, s. 14; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -255,7 +258,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Presumption**
 
-- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the public service of Canada.
+- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the federal public administration.
+> 1996, c. 11, s. 19; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -323,12 +328,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** shall be appointed by the Governor in Council to hold office during good behaviour for a term not exceeding five years but may be removed by the Governor in Council at any time for cause;
 	- **(b)** is eligible for reappointment on the expiration of each term of office;
 	- **(c)** shall receive such remuneration as is fixed by the Governor in Council;
-	- **(d)** shall be deemed to be a person employed in the public service of Canada for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
+	- **(d)** is deemed to be a person employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and a person employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
 	- **(e)** shall devote the whole of their time to the performance of the duties of the office of a commissioner and shall not accept or hold any office or employment or carry on any activity inconsistent with the duties and functions of a commissioner.
 
 **Tenure, remuneration and conditions of office — acting**
 
 - **(2)** In the event of the absence or incapacity of a commissioner other than the Chairperson or Vice-Chairperson or if the office is vacant, the Governor in Council may designate a person to act as a commissioner for the period of the absence, incapacity or vacancy and the person so designated has and may exercise all the powers and perform all the duties and functions of a commissioner, unless the Governor in Council specifies otherwise.
+> 1996, c. 11, s. 24; 2003, c. 22, s. 160.
+
 
 
 
