@@ -105,13 +105,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1)c).
 
-***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
+***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés : 
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
 - **b)** relativement à la province de Québec, un juge de la cour supérieure du Québec;
 - **c)** relativement aux provinces de la Nouvelle-Écosse et de la Colombie-Britannique, un juge de la Cour suprême de la province;
 - **d)** relativement aux provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et d’Alberta, un juge de la Cour du Banc de la Reine de la province;
 - **e)** relativement aux provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, un juge de la Section de première instance de la Cour suprême de la province;
-- **f)** relativement à la circonscription du territoire du Yukon, un juge de la Cour suprême du territoire du Yukon;
+- **f)** relativement à la circonscription du Yukon, un juge de la Cour suprême du Yukon;
 - **g)** relativement à la circonscription des Territoires du Nord-Ouest, un juge de la Cour suprême des Territoires du Nord-Ouest;
 - **h)** relativement à la circonscription du territoire du Nunavut, un juge de la Cour de justice du Nunavut;
 - **i)** relativement à tout endroit ou territoire du Canada :
@@ -172,7 +172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Heure**
 
 - **(4)** Pour l’application de la présente loi, toute mention d’une heure vaut mention de l’heure locale.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90.
 
 
 
@@ -482,13 +482,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnes inadmissibles**
 
 - **(3)** Ne peuvent être nommés fonctionnaire électoral :
-	- **a)** les ministres fédéraux ou les membres du conseil exécutif d’une province;
-	- **b)** les membres du Sénat ou de la Chambre des communes;
-	- **c)** les membres de l’Assemblée législative d’une province, du Conseil du territoire du Yukon, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut;
-	- **d)** les juges et les juges adjoints ou suppléants de toute cour supérieure ou de tout tribunal de faillite et, dans le territoire du Yukon ou les Territoires du Nord-Ouest, les juges de la Cour territoriale;
-	- **d.1)** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
-	- **e)** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
-	- **f)** les personnes déclarées coupables d’une infraction à la présente loi, à la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à toute loi provinciale relative aux élections provinciales, municipales ou scolaires dans les sept ans qui précèdent.
+	- **a)
+** les ministres fédéraux ou les membres du conseil exécutif d’une province;
+	- **b)
+** les membres du Sénat ou de la Chambre des communes;
+	- **c)
+** les membres de l'Assemblée législative d'une province, du Conseil des Territoires du Nord-Ouest ou de l'Assemblée législative du Yukon ou du Nunavut;
+	- **d)
+** les juges et les juges adjoints ou suppléants soit de toute cour supérieure ou de tout tribunal de faillite, soit, au Yukon ou dans les Territoires du Nord-Ouest, de la Cour suprême de ces territoires;
+	- **d.1)
+** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
+	- **e)
+** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
+	- **f)
+** les personnes déclarées coupables d’une infraction à la présente loi, à la 
+[Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à toute loi provinciale relative aux élections provinciales, municipales ou scolaires dans les sept ans qui précèdent.
 
 **Qualité d’électeur des fonctionnaires électoraux**
 
@@ -503,6 +511,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 - **(6)** Il est interdit à quiconque d’agir à titre de fonctionnaire électoral, sachant que le présent article le rend inhabile à le faire.
+> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91.
+
 
 
 
@@ -1254,16 +1264,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Candidats inéligibles**
 
-**65** Les personnes suivantes ne peuvent se porter candidat à une élection :
+**65** Les personnes suivantes ne peuvent se porter candidat à une élection :
 - **a)** les personnes qui n’ont pas qualité d’électeur le jour où elles déposent leur acte de candidature;
 - **b)** les personnes qui sont inéligibles aux termes de l’alinéa 502(3)a);
-- **c)** les membres de l’Assemblée législative d’une province, du Conseil du territoire du Yukon, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut;
+- **c)** les membres de l’Assemblée législative d’une province, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Yukon ou du Nunavut;
 - **d)** les personnes qui exercent la charge de shérif, de greffier de la paix ou de procureur de la Couronne dans une province;
 - **e)** les personnes qui, aux termes de l’article 4, sont inhabiles à voter;
 - **f)** les juges nommés par le gouverneur en conseil, à l’exception des juges de la citoyenneté nommés sous le régime de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md);
 - **g)** les personnes incarcérées dans un établissement correctionnel;
 - **h)** les fonctionnaires électoraux;
 - **i)** les personnes qui étaient candidates lors d’une élection antérieure, dans les cas où les documents visés au paragraphe 451(1) n’ont pas été produits pour cette élection dans les délais ou les délais supplémentaires impartis pour leur production.
+> 2000, ch. 9, art. 65; 2002, ch. 7, art. 92.
+
 
 
 
@@ -5048,9 +5060,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **311** 
 
-- **(1)** Si le juge ne se conforme pas aux articles 300 à 309, une partie lésée peut, dans les huit jours qui suivent le défaut d’agir, présenter une requête :
+- **(1)** Si le juge ne se conforme pas aux articles 300 à 309, une partie lésée peut, dans les huit jours qui suivent le défaut d’agir, présenter une requête :
 	- **a)** dans la province d’Ontario, à un juge de la Cour supérieure de justice;
-	- **b)** dans les provinces de Québec, du Nouveau-Brunswick et d’Alberta et dans le territoire du Yukon, les Territoires du Nord-Ouest et le territoire du Nunavut, à un juge de la Cour d’appel de la province ou du territoire;
+	- **b)** dans les provinces de Québec, du Nouveau-Brunswick et d’Alberta et au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, à un juge de la Cour d’appel de la province ou du territoire;
 	- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, à un juge de la Cour suprême de la province;
 	- **d)** dans les provinces du Manitoba et de la Saskatchewan, à un juge de la Cour du Banc de la Reine de la province;
 	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, à un juge de la Section de première instance de la Cour suprême de la province.
@@ -5061,7 +5073,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance du juge**
 
-- **(3)** Le juge saisi de la requête doit, s’il appert qu’il y a réellement eu défaut d’agir, rendre une ordonnance :
+- **(3)** Le juge saisi de la requête doit, s’il appert qu’il y a réellement eu défaut d’agir, rendre une ordonnance :
 	- **a)** fixant les date et heure — dans les huit jours qui suivent — , et le lieu pour l’audition;
 	- **b)** requérant la présence de toutes les parties intéressées à l’audition;
 	- **c)** fixant le mode de signification de cette ordonnance et de la requête au juge défaillant et aux autres parties intéressées.
@@ -5069,6 +5081,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Production des déclarations sous serment**
 
 - **(4)** Le juge visé ou toute partie intéressée peuvent déposer au bureau du greffier, du registraire ou du protonotaire du tribunal du juge auquel la requête a été présentée, des déclarations sous serment en réponse à celles que le requérant a produites; sur demande, ils en fournissent des copies au requérant.
+> 2000, ch. 9, art. 311; 2002, ch. 7, art. 93.
+
 
 
 
@@ -8934,6 +8948,8 @@ La demande est notifiée au directeur général des élections.
 **Règles de procédure**
 
 - **(3)** La requête est instruite sans délai et selon la procédure sommaire; le tribunal peut toutefois entendre des témoins lors de l’audition dans des circonstances particulières.
+> 2000, ch. 9, art. 525; 2002, ch. 7, art. 94(A).
+
 
 
 
@@ -9704,18 +9720,6 @@ Highway Traffic Act, R.S.N. 1990, ch. H-3
 Vital Statistics Act, R.S.N. 1990, ch. V-6
 
 
-Territoire du Yukon
-
-
-Loi sur les élections, L.Y. 1999, ch. 13 
-
-
-Loi sur les statistiques de l’état civil, L.R.Y. 1986, ch. 175
-
-
-Loi sur les véhicules automobiles, L.R.Y. 1986, ch. 118
-
-
 Territoires du Nord-Ouest
 
 
@@ -9728,19 +9732,31 @@ Loi sur les statistiques de l’état civil, L.R.T.N.-O. 1988, ch. V-3
 Loi sur les véhicules automobiles, L.R.T.N.-O. 1988, ch. M-16
 
 
+Yukon
+
+
+Loi sur les élections, L.Y. 1999, ch. 13 
+
+
+Loi sur les statistiques de l’état civil, L.R.Y. 1986, ch. 175
+
+
+Loi sur les véhicules automobiles, L.R.Y. 1986, ch. 118
+
+
 AUTRES SOURCES DE RENSEIGNEMENTS
 
 
 La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
 
 
-> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; Gazette du Canada Partie I, volume 137, page 685.
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685.
 
 
 
 
 ### **ANNEXE 3** 
-**(alinéas 66(1)e) et f) et article 539)**
+## (alinéas 66(1)e) et f) et article 539)
 ## Liste des circonscriptions
 *Province d’Ontario*
 
@@ -9829,7 +9845,7 @@ Humber-St. Barbe-Baie Verte
 Labrador
 
 
-*Territoire du Yukon*
+*Yukon*
 
 
 Yukon
@@ -9846,5 +9862,7 @@ Western Arctic
 
 Nunavut
 
+
+> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95.
 
 
