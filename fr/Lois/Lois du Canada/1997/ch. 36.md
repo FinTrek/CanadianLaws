@@ -11,7 +11,7 @@ Sanctionnée sur le 8 décembre 1997
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -271,7 +271,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 1** 
-### ORIGINE DES MARCHANDISES
+### Origine des marchandises
 
 
 
@@ -372,7 +372,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 2** 
-### IMPOSITION DES DROITS DE DOUANE
+### Imposition des droits de douane
 
 
 
@@ -396,40 +396,75 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Droits supplémentaires**
-
-**21** 
-
-- **(1)** En plus des autres droits imposés en vertu de la présente loi et des autres lois fédérales en matière douanière, il est perçu sur les marchandises assujetties à l’accise, au moment de leur importation, un droit supplémentaire — payable en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) — d’un montant égal à celui des droits d’accise qui seraient perçus au titre de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) si, à la fois :
-	- **a)** elles avaient été fabriquées ou produites au Canada;
-	- **b)** dans le cas où elles figurent au n<sup>o</sup> tarifaire 2207.20.19, elles étaient soustraites à l’application des paragraphes 1(2) à (6) de la partie I de l’annexe de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
-
-**Droits sur le tabac importé par le voyageur**
-
-- **(2)** Les droits ci-après sont perçus sur le tabac du voyageur, au moment de son importation, et sont payés en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) :
-	- **a)** 0,075 $ par cigarette;
-	- **b)** 0,055 $ par bâtonnet de tabac;
-	- **c)** 0,05 $ par gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
-
-**Exception — tabac fabriqué sur lequel le droit d’accise est acquitté**
-
-- **(3)** Les droits prévus au présent article ne sont pas perçus sur le tabac fabriqué importé par un particulier pour son usage personnel s’il est estampillé en conformité avec la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et est frappé des droits prévus à l’article 200 de cette loi.
-
 **Définitions**
 
-- **(4)** Les définitions qui suivent s’appliquent au présent article.
+**21** Les définitions qui suivent s’appliquent aux articles 21.1 à 21.3.
 
-***marchandises assujetties à l’accise***
-- **a)** La bière ou la liqueur de malt, au sens de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la position n<sup>o</sup> 22.03 ou des n<sup>os</sup> tarifaires 2202.90.10 ou 2206.00.80;
-- **b)** l’eau-de-vie, au sens de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), d’un titre alcoométrique volumique excédant 22,9 % en volume, des n<sup>os</sup> tarifaires 2204.21.32, 2204.29.32, 2205.10.30, 2205.90.30, 2206.00.22, 2206.00.72 ou 2206.00.92;
-- **c)** l’eau-de-vie, au sens de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), des positions n<sup>os</sup> 22.07 ou 22.08, à l’exception des n<sup>os</sup> tarifaires 2207.20.11, 2207.20.90, 2208.90.30 ou 2208.90.91;
-- **d)** les cigares ou le tabac fabriqué des n<sup>os</sup> tarifaires 2402.10.00, 2402.20.00, 2403.10.00, 2403.91.90, 2403.99.10 ou 2403.99.90;
-- **e)** les marchandises visées aux alinéas a) à d) classées avec les contenants dans lesquels elles sont importées.
+ ou  or ***bière*** ou ***liqueur de malt*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), du n<sup>o</sup> tarifaire 2202.90.10, de la position n<sup>o</sup> 22.03 ou des n<sup>os</sup> tarifaires 2206.00.80 ou 2206.00.91, classée dans ces numéros tarifaires ou cette position ou avec le contenant dans lequel elle est importée.
 
-***tabac du voyageur*** Tabac fabriqué qu’une personne importe à un moment donné et qui, selon le cas :
-- **a)** est classé dans les n<sup>os</sup> tarifaires 9804.10.00, 9804.20.00, 9805.00.00 ou 9807.00.00;
-- **b)** serait classé dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00 si ce n’était le fait que la valeur en douane totale, déterminée selon l’article 46 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), des marchandises importées par la personne à ce moment dépasse la valeur maximale spécifiée dans l’un ou l’autre de ces numéros tarifaires.
-> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 412; 2003, ch. 15, art. 45.
+***emballé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***en vrac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***exploitant agréé d’entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***local déterminé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***spiritueux*** Spiritueux, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) :
+- **a)** d’un titre alcoométrique volumique excédant 22,9 %, des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 ou 2206.00.93, classés dans ces numéros tarifaires ou avec le contenant dans lequel ils sont importés;
+- **b)** des positions n<sup>os</sup> 22.07 ou 22.08, à l’exception des n<sup>os</sup> tarifaires 2207.20.11, 2207.20.12, 2207.20.90 et 2208.90.30, classés dans ces positions ou avec le contenant dans lequel ils sont importés.
+
+***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions n<sup>os</sup> 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72, 2206.00.80, 2206.00.91 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé.
+> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45.
+
+
+
+
+
+**Droit additionnel sur les spiritueux en vrac**
+
+**21.1** 
+
+- **(1)** Est imposé sur les spiritueux en vrac, au moment de leur importation, un droit égal à celui qui serait imposé sur les spiritueux en vertu de l’article 122 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) s’ils avaient été produits au Canada. Ce droit s’ajoute aux autres droits imposés en vertu de la présente loi ou d’une autre loi fédérale en matière douanière.
+
+**Droit exigible aux termes de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md)**
+
+- **(2)** Le droit imposé en vertu du paragraphe (1) est payé et perçu en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et les intérêts et pénalités sont imposés, calculés, payés et perçus en vertu de cette loi, comme si le droit était un droit imposé sur les spiritueux en vertu de cette loi. À ces fins, cette loi s’applique avec les adaptations nécessaires.
+
+**Restriction**
+
+- **(3)** Malgré le paragraphe (2) et la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la personne qui est redevable du droit imposé en vertu du paragraphe (1) sur les spiritueux en vrac qui n’ont pas été dédouanés conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) est redevable des droits imposés en vertu de cette dernière loi.
+> 2002, ch. 22, art. 346.
+
+
+
+
+
+**Droit additionnel sur les spiritueux emballés**
+
+**21.2** 
+
+- **(1)** Est imposé sur les spiritueux emballés, au moment de leur importation, et est payé conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) un droit égal à celui qui serait imposé sur les spiritueux en vertu des articles 122 ou 123 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) s’ils avaient été produits et emballés au Canada. Ce droit s’ajoute aux autres droits imposés en vertu de la présente loi ou d’une autre loi fédérale en matière douanière.
+
+**Droit additionnel sur le vin emballé**
+
+- **(2)** Est imposé sur le vin emballé, au moment de son importation, et est payé conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) un droit égal à celui qui serait imposé sur le vin en vertu de l’article 135 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) s’il avait été emballé au Canada. Ce droit s’ajoute aux autres droits imposés en vertu de la présente loi ou d’une autre loi fédérale en matière douanière.
+
+**Dépôt de marchandises dans un entrepôt ou un local**
+
+- **(3)** Si, aussitôt après leur dédouanement effectué en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), des spiritueux ou du vin emballés sont déposés dans l’entrepôt d’accise de l’exploitant agréé d’entrepôt d’accise importateur ou dans le local déterminé de l’utilisateur agréé importateur, le droit imposé en vertu des paragraphes (1) ou (2) est payé et perçu en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et les intérêts et pénalités sont imposés, calculés, payés et perçus en vertu de cette loi, comme si le droit était imposé en vertu de cette loi. À ces fins, cette loi s’applique avec les adaptations nécessaires.
+> 2002, ch. 22, art. 346.
+
+
+
+
+
+**Droit additionnel sur la bière**
+
+**21.3** Est imposé sur la bière et la liqueur de malt, au moment de leur importation, et est payé conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) un droit égal à celui qui serait imposé sur la bière ou la liqueur de malt en vertu de l’article 170 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) si elle avait été fabriquée ou produite au Canada. Ce droit s’ajoute aux autres droits imposés en vertu de la présente loi ou d’une autre loi fédérale en matière douanière.
+> 2002, ch. 22, art. 346.
 
 
 
@@ -454,7 +489,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 3** 
-### TRAITEMENTS TARIFAIRES
+### Traitements tarifaires
 
 
 
@@ -1211,7 +1246,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 4** 
-### MESURES SPÉCIALES, MESURES D’URGENCE ET MESURES DE SAUVEGARDE
+### Mesures spéciales, mesures d’urgence et mesures de sauvegarde
 
 
 
@@ -2146,7 +2181,7 @@ French version only***taux*** Le taux de droits de douane.
 
 **80** Les définitions qui suivent s’appliquent à la présente partie.
 
-***droits*** Sauf pour l’application de l’article 106, les droits ou taxes perçus ou imposés sur les marchandises importées en application de la partie 2 et de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale en matière douanière. En est exclue, pour l’application des articles 89 et 113, la taxe sur les produits et services.
+***droits*** Sauf pour l’application de l’article 106, les droits ou taxes perçus ou imposés sur les marchandises importées en application de la partie 2, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale en matière douanière. En est exclue, pour l’application des articles 89 et 113, la taxe sur les produits et services.
 
 ***droits de douane*** Sauf pour l’application des articles 95 et 96, les droits de douane imposés en application de la partie 2, à l’exclusion des surtaxes imposées au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, ou des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1.
 
@@ -2155,7 +2190,7 @@ French version only***taux*** Le taux de droits de douane.
 ***taxe sur les produits et services*** Taxe imposée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
 ***transformation*** S’entend notamment de l’ajustement, la modification, l’assemblage, la fabrication, la production ou la réparation de marchandises.
-> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19.
+> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347.
 
 
 
@@ -2169,7 +2204,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 1** 
-### RÉDUCTION DES TAUX
+### Réduction des taux
 
 
 
@@ -2203,7 +2238,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 2** 
-### IMPORTATION SANS LE PAIEMENT INTÉGRAL DES DROITS
+### Importation sans le paiement intégral des droits
 
 
 
@@ -2213,13 +2248,13 @@ French version only***taux*** Le taux de droits de douane.
 
 **Marchandises de la position n<sup>o</sup> 98.04**
 
-**83** Les marchandises importées par un voyageur, déclarées en conformité avec les règlements d’application de l’alinéa 133f) fixant les conditions du classement de marchandises dans la position n<sup>o</sup> 98.04 et qui, si leur valeur en douane, déterminée en application de l’article 46 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), n’avait pas excédé la valeur maximale spécifiée dans les n<sup>os</sup> tarifaires 9804.10.00, 9804.20.00 ou 9804.30.00, auraient été classées dans un de ces numéros tarifaires :
-- **a)** dans le cas de marchandises qui auraient été classées dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00, leur valeur en douane est réduite du montant de cette valeur maximale spécifiée et, dans le cas de boissons alcooliques et de tabac, la quantité de ces marchandises est, pour l’application des droits, sauf ceux prévus au paragraphe 21(2), réduite de la quantité de boissons alcooliques et de tabac jusqu’à la quantité maximale spécifiée dans l’un ou l’autre de ces numéros tarifaires;
-- **b)** dans le cas de marchandises qui auraient été classées dans le n<sup>o</sup> tarifaire 9804.30.00 :
+**83** Les marchandises importées par un voyageur, déclarées en conformité avec les règlements d’application de l’alinéa 133f) fixant les conditions du classement de marchandises dans la position n<sup>o</sup> 98.04 et qui, si leur valeur en douane, déterminée en application de l’article 46 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), n’avait pas excédé la valeur maximale spécifiée dans les n<sup>os</sup> tarifaires 9804.10.00, 9804.20.00 ou 9804.30.00, auraient été classées dans un de ces numéros tarifaires :
+- **a)** dans le cas de marchandises qui auraient été classées dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00, leur valeur en douane est réduite du montant de cette valeur maximale spécifiée et, dans le cas de boissons alcooliques et de tabac, la quantité de ces marchandises est, pour l’application des droits, sauf ceux prévus à l’article 54 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), réduite de la quantité de boissons alcooliques et de tabac jusqu’à la quantité maximale spécifiée dans l’un ou l’autre de ces numéros tarifaires, selon le cas;
+- **b)** dans le cas de marchandises qui auraient été classées dans le n<sup>o</sup> tarifaire 9804.30.00 :
 	- **(i)** la valeur en douane des marchandises est réduite du montant de la valeur maximale spécifiée dans les n<sup>os</sup> tarifaires 9804.10.00 ou 9804.20.00, selon le cas,
-	- **(ii)** les premiers 300 $ de la valeur en douane sont passibles des droits prévus au n<sup>o</sup> tarifaire 9804.30.00;
+	- **(ii)** les premiers 300 $ de la valeur en douane sont passibles des droits prévus au n<sup>o</sup> tarifaire 9804.30.00;
 - **c)** les marchandises sont classées dans les numéros tarifaires des Chapitres 1 à 97 et la position n<sup>o</sup> 98.26, selon le cas.
-> 1997, ch. 36, art. 83; 2001, ch. 16, art. 4.
+> 1997, ch. 36, art. 83; 2001, ch. 16, art. 4; 2002, ch. 22, art. 348.
 
 
 
@@ -2281,30 +2316,51 @@ French version only***taux*** Le taux de droits de douane.
 **89** 
 
 - **(1)** Sous réserve du paragraphe (2), de l’article 95 et des règlements visés à l’article 99 et sur demande présentée dans le délai réglementaire en conformité avec le paragraphe (4) par une personne appartenant à une catégorie réglementaire, des marchandises importées peuvent, dans les cas suivants, être exonérées, une fois dédouanées, des droits qui, sans le présent article, seraient exigibles :
-	- **a)** elles sont ultérieurement exportées dans le même état qu’au moment de leur importation;
-	- **b)** elles sont transformées au Canada et ultérieurement exportées;
-	- **c)** elles sont directement consommées ou absorbées lors de la transformation au Canada de marchandises ultérieurement exportées;
-	- **d)** la même quantité de marchandises nationales ou importées de la même catégorie est transformée au Canada et ultérieurement exportée;
-	- **e)** la même quantité de marchandises nationales ou importées de la même catégorie est directement consommée ou absorbée lors de la transformation au Canada de marchandises ultérieurement exportées.
+	- **a)
+** elles sont ultérieurement exportées dans le même état qu’au moment de leur importation;
+	- **b)
+** elles sont transformées au Canada et ultérieurement exportées;
+	- **c)
+** elles sont directement consommées ou absorbées lors de la transformation au Canada de marchandises ultérieurement exportées;
+	- **d)
+** la même quantité de marchandises nationales ou importées de la même catégorie est transformée au Canada et ultérieurement exportée;
+	- **e)
+** la même quantité de marchandises nationales ou importées de la même catégorie est directement consommée ou absorbée lors de la transformation au Canada de marchandises ultérieurement exportées.
 
 **Produits du tabac ou marchandises désignées**
 
-- **(2)** L’exonération ne s’applique pas dans le cas de droits ou taxes perçus ou imposés, en application de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de l’article 21, sur les produits du tabac et les marchandises désignées.
+- **(2)** L'exonération ne s'applique pas dans le cas de droits ou taxes perçus ou imposés, en application des articles 21.1 à 21.3, de la 
+Loi de 2001 sur l'accise ou de la 
+Loi sur la taxe d'accise, sur les produits du tabac et les marchandises désignées.
 
 **Présomption d’exportation**
 
 - **(3)** Pour l’application du paragraphe (1), sont réputées avoir été exportées les marchandises :
-	- **a)** désignées comme provisions de bord au titre de l’alinéa 99g) et fournies en vue de leur usage à bord d’un moyen de transport d’une catégorie réglementaire prévue par cet alinéa;
-	- **b)** ayant servi pour l’équipement, la réparation ou la reconstruction de navires ou d’aéronefs d’une catégorie réglementaire prévue par l’alinéa 99d);
-	- **c)** livrées à des navires poseurs de câbles télégraphiques d’une catégorie réglementaire prévue par l’alinéa 99d);
-	- **d)** fournies en vue de leur exportation aux ministères ou organismes fédéraux ou provinciaux, ou aux sociétés d’appartenance, d’exploitation ou de contrôle fédérales ou provinciales, désignés par le ministre du Revenu national;
-	- **e)** placées en entrepôt de stockage ou en boutique hors taxes en vue de leur exportation ou placées en entrepôt de stockage en vue d’un usage conforme aux alinéas a) ou c);
-	- **f)** cédées par le titulaire d’un certificat délivré en application de l’article 90 à un autre titulaire d’un tel certificat;
-	- **g)** utilisées ou destinées à être utilisées de toute autre manière réglementaire.
+	- **a)
+** désignées comme provisions de bord au titre de l’alinéa 99
+g) et fournies en vue de leur usage à bord d’un moyen de transport d’une catégorie réglementaire prévue par cet alinéa;
+	- **b)
+** ayant servi pour l’équipement, la réparation ou la reconstruction de navires ou d’aéronefs d’une catégorie réglementaire prévue par l’alinéa 99
+d);
+	- **c)
+** livrées à des navires poseurs de câbles télégraphiques d’une catégorie réglementaire prévue par l’alinéa 99
+d);
+	- **d)
+** fournies en vue de leur exportation aux ministères ou organismes fédéraux ou provinciaux, ou aux sociétés d’appartenance, d’exploitation ou de contrôle fédérales ou provinciales, désignés par le ministre du Revenu national;
+	- **e)
+** placées en entrepôt de stockage ou en boutique hors taxes en vue de leur exportation ou placées en entrepôt de stockage en vue d’un usage conforme aux alinéas 
+a) ou 
+c);
+	- **f)
+** cédées par le titulaire d’un certificat délivré en application de l’article 90 à un autre titulaire d’un tel certificat;
+	- **g)
+** utilisées ou destinées à être utilisées de toute autre manière réglementaire.
 
 **Demandes**
 
 - **(4)** Les demandes d’exonération sont présentées en la forme et comportent les renseignements que le ministre du Revenu national juge indiqués.
+> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349.
+
 
 
 
@@ -2347,7 +2403,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Entrepôt de stockage : droits non exigibles**
+**Entrepôt de stockage : droits non exigibles**
 
 **92** 
 
@@ -2355,14 +2411,14 @@ French version only***taux*** Le taux de droits de douane.
 
 **Exonération de droits**
 
-- **(2)** Sont exonérées des droits dont, sans le présent article, elles seraient passibles les marchandises enlevées d’un entrepôt de stockage qui :
+- **(2)** Sont exonérées des droits dont, sans le présent article, elles seraient passibles les marchandises enlevées d’un entrepôt de stockage qui :
 	- **a)** soit, sous réserve de l’article 95, en sont exportées directement;
 	- **b)** soit sont désignées comme provisions de bord par les règlements pris au titre de l’alinéa 99g), fournies en vue de leur usage à bord d’un moyen de transport d’une catégorie désignée par ces règlements et exportées.
 
 **Inapplication au tabac fabriqué canadien**
 
-- **(3)** Le présent article ne s’applique ni à un droit imposé en vertu de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), ni à une taxe imposée en vertu de la partie III de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), relativement au tabac fabriqué qui est fabriqué ou produit au Canada.
-> 1997, ch. 36, art. 92; 2001, ch. 16, art. 5.
+- **(3)** Le présent article ne s’applique pas à un droit imposé en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) relativement au tabac fabriqué qui est fabriqué au Canada.
+> 1997, ch. 36, art. 92; 2001, ch. 16, art. 5; 2002, ch. 22, art. 350.
 
 
 
@@ -2379,12 +2435,15 @@ French version only***taux*** Le taux de droits de douane.
 
 **94** 
 
-- **(1)** Dans les articles 95 et 96, ***droits de douane*** s’entend des droits de douane imposés en application de la partie 2, à l’exclusion des droits de douane supplémentaires perçus au titre de l’article 21, des surtaxes imposées au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, ou des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1.
+- **(1)** Dans les articles 95 et 96, ***droits de douane*** s’entend des droits de douane imposés en application de la partie 2, à l’exclusion :
+	- **a)** des droits de douane additionnels perçus au titre des articles 21.1 à 21.3;
+	- **b)** des surtaxes imposées au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78;
+	- **c)** des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1.
 
 **Précision**
 
-- **(2)** Il est entendu que, dans les articles 95 et 96, les droits de douane ne comprennent pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21.
+- **(2)** Il est entendu que, dans les articles 95 et 96, les droits de douane ne comprennent pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
+> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351.
 
 
 
@@ -2485,19 +2544,33 @@ French version only***taux*** Le taux de droits de douane.
 **Règlements**
 
 **99** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut, par règlement :
-- **a)** pour l’application de l’article 89 :
+- **a)
+** pour l’application de l’article 89 :
 	- **(i)** désigner les catégories de personnes qui peuvent demander l’exonération,
 	- **(ii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération ainsi que déterminer les cas et conditions d’inadmissibilité,
-	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération des droits perçus au titre de l’article 21 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes imposées en vertu des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits imposés au titre de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), et déterminer les cas d’inadmissibilité,
+	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l'exonération des droits perçus au titre des articles 21.1 à 21.3 ou de la 
+Loi sur les mesures spéciales d'importation, des surtaxes imposées en vertu des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires imposés au titre de l'un ou l'autre des articles 69 à 76.1, des taxes perçues au titre de la 
+Loi sur la taxe d'accise ou des droits imposés au titre de la 
+Loi de 2001 sur l'accise, et déterminer les cas d'inadmissibilité,
 	- **(iv)** fixer le délai, postérieur au dédouanement des marchandises, dans lequel ces marchandises ou les marchandises traitées au Canada doivent être exportées,
 	- **(v)** déterminer la fraction des droits exigibles qui peuvent faire l’objet de l’exonération;
-- **b)** prévoir, pour l’application de l’alinéa 89(1)a), les usages des marchandises qui peuvent être faits ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
-- **c)** désigner, pour l’application des alinéas 89(1)d) et e), les marchandises réputées être de la même catégorie;
-- **d)** désigner :
-	- **(i)** les catégories de navires ou d’aéronefs, pour l’application de l’alinéa 89(3)b),
-	- **(ii)** les catégories de navires poseurs de câbles télégraphiques, pour l’application de l’alinéa 89(3)c);
-- **e)** pour l’application de l’article 90, déterminer les cas et conditions de délivrance, de modification, de suspension, de renouvellement, d’annulation ou de rétablissement du certificat;
-- **f)** pour l’application de l’article 91 :
+- **b)
+** prévoir, pour l’application de l’alinéa 89(1)
+a), les usages des marchandises qui peuvent être faits ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
+- **c)
+** désigner, pour l’application des alinéas 89(1)
+d) et 
+e), les marchandises réputées être de la même catégorie;
+- **d)
+** désigner :
+	- **(i)** les catégories de navires ou d’aéronefs, pour l’application de l’alinéa 89(3)
+b),
+	- **(ii)** les catégories de navires poseurs de câbles télégraphiques, pour l’application de l’alinéa 89(3)
+c);
+- **e)
+** pour l’application de l’article 90, déterminer les cas et conditions de délivrance, de modification, de suspension, de renouvellement, d’annulation ou de rétablissement du certificat;
+- **f)
+** pour l’application de l’article 91 :
 	- **(i)** déterminer la compétence que doit posséder l’exploitant d’un entrepôt de stockage,
 	- **(ii)** fixer les conditions d’octroi de l’agrément d’exploitation d’un entrepôt de stockage, notamment en ce qui concerne les garanties à souscrire par l’exploitant, la durée de validité de l’agrément et les frais y afférents ou la manière de les déterminer,
 	- **(iii)** déterminer la nature et la forme des garanties exigées et fixer les conditions afférentes,
@@ -2511,16 +2584,22 @@ French version only***taux*** Le taux de droits de douane.
 	- **(xi)** fixer le délai d’enlèvement des marchandises des entrepôts de stockage,
 	- **(xii)** déterminer les catégories de marchandises qui peuvent être confisquées si elles ne sont pas enlevées des entrepôts de stockage dans le délai réglementaire,
 	- **(xiii)** prendre toute autre mesure concernant l’exploitation des entrepôts de stockage;
-- **g)** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
+- **g)
+** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
 	- **(i)** leurs attributs physiques, leur fonction ou leur description officielle,
 	- **(ii)** les zones à l’intérieur desquelles ils voyagent,
 	- **(iii)** les exigences ou restrictions liées à leurs voyages,
 	- **(iv)** toute combinaison des critères mentionnés aux sous-alinéas (i) à (iii);
-- **g.1)** limiter la quantité de marchandises mentionnées à l’alinéa g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de plusieurs périodes réglementaires;
-- **h)** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
-- **i)** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
-- **j)** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
-> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 424.
+- **g.1)
+** limiter la quantité de marchandises mentionnées à l’alinéa 
+g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de plusieurs périodes réglementaires;
+- **h)
+** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
+- **i)
+** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
+- **j)
+** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
+> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424.
 
 
 
@@ -2611,7 +2690,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **106** 
 
-- **(1)** Sur demande d’exonération présentée, par une personne appartenant à une catégorie réglementaire, dans les cas et selon les modalités de forme réglementaires et accompagnée des documents réglementaires et des garanties de la nature réglementaire et du montant que le ministre du Revenu national juge indiqué, est accordée l’exonération de la totalité ou de la fraction réglementaire des droits imposés au titre de l’article 21 de la présente loi ou des droits et taxes imposés en application de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exception de la taxe sur les produits et services, qui sans le présent article seraient payables sur les marchandises réglementaires qui sont importées et réexportées par la suite après usage au Canada à des fins réglementaires.
+- **(1)** Sur demande d'une personne d'une catégorie réglementaire, présentée dans les cas réglementaires, en la forme et selon les modalités réglementaires, et accompagnée des documents réglementaires et des garanties de nature réglementaire d'un montant que le ministre du Revenu national juge indiqué, est accordée l'exonération de la totalité ou de la fraction réglementaire des droits imposés au titre des articles 21.1 à 21.3 ou de la 
+Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, seraient exigibles relativement aux marchandises réglementaires qui sont importées et réexportées après avoir été utilisées au Canada à des fins réglementaires.
 
 **Dédouanement des marchandises**
 
@@ -2628,6 +2708,8 @@ French version only***taux*** Le taux de droits de douane.
 **Renonciation à la garantie**
 
 - **(5)** Le ministre du Revenu national peut renoncer à l’exigence de fournir une garantie prévue au paragraphe (1).
+> 1997, ch. 36, art. 106; 2002, ch. 22, art. 353.
+
 
 
 
@@ -2672,7 +2754,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 3** 
-### MARCHANDISES SURANNÉES OU EXCÉDENTAIRES
+### Marchandises surannées ou excédentaires
 
 
 
@@ -2719,7 +2801,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 4** 
-### AUTRES FORMES D’EXONÉRATION
+### Autres formes d’exonération
 
 
 
@@ -2734,7 +2816,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **Produits du tabac**
 
-- **(2)** Il n’est accordé aucun remboursement ou drawback des droits ou taxes imposés ou perçus sur les produits du tabac en vertu de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de l’article 21, sauf si le remboursement d’une fraction ou de la totalité des droits est prévu par la section 3.
+- **(2)** Il n'est accordé aucun remboursement ou drawback des droits imposés sur les produits du tabac en vertu de la 
+Loi de 2001 sur l'accise, sauf si le remboursement d'une fraction ou de la totalité des droits est prévu par la section 3.
 
 **Demandes**
 
@@ -2747,7 +2830,11 @@ French version only***taux*** Le taux de droits de douane.
 **Règlements**
 
 - **(4)** Pour l’application du présent article, le gouverneur en conseil peut, sur recommandation du ministre du Revenu national, préciser par règlement :
-	- **a)** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre de l’article 21 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes perçues au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires perçus au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits perçus au titre de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), ainsi que les cas d’inadmissibilité;
+	- **a)
+** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre des articles 21.1 à 21.3 ou de la 
+Loi sur les mesures spéciales d'importation, des surtaxes perçues au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires perçus au titre de l'un ou l'autre des articles 69 à 76.1, des taxes perçues au titre de la 
+Loi sur la taxe d'accise ou des droits perçus au titre de la 
+Loi de 2001 sur l'accise, ainsi que les cas d'inadmissibilité;
 	- **b)** la fraction des droits payés susceptible d’être versée au titre du remboursement ou du drawback;
 	- **c)** les personnes ou les catégories de celles-ci qui peuvent demander le remboursement ou le drawback;
 	- **d)** les usages qui peuvent être faits des marchandises ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
@@ -2759,8 +2846,10 @@ French version only***taux*** Le taux de droits de douane.
 
 **Marchandises désignées**
 
-- **(5)** Par dérogation à l’exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre de l’article 21, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) est accordé en application de l’alinéa (1)a) sur les marchandises désignées.
-> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25.
+- **(5)** Malgré l'exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la 
+Loi de 2001 sur l'accise ou de la 
+Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les marchandises désignées.
+> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354.
 
 
 
@@ -2797,7 +2886,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 **SECTION 5** 
-### DISPOSITIONS GÉNÉRALES
+### Dispositions générales
 
 
 
