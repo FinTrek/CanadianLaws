@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1992/c.%2052.md)
 
-# Loi sur la protection d'espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial
+# Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial
 
 **L.C. 1992, ch. 52**
 
@@ -157,6 +157,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Annulation ou suspension**
 
 - **(3)** Après avoir donné à l’intéressé la possibilité de faire valoir ses observations, le ministre peut annuler ou suspendre la licence en cas de contravention à l’une ou l’autre des conditions dont elle est assortie.
+
+**Délégation**
+
+- **(4)** Le ministre peut déléguer à un ministre fédéral ou provincial ou à quiconque est à l’emploi du gouvernement du Canada, d’une province ou de tout autre gouvernement au Canada tel de ses pouvoirs prévus par le présent article en matière de permis. Le mandat est à exécuter en conformité avec la délégation.
+> 1992, ch. 52, art. 10; 2002, ch. 29, art. 139.
+
 
 
 
@@ -320,7 +326,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** pour l’application du paragraphe 6(1),
 		- **(ii)** pour l’application du paragraphe 6(2),
 		- **(iii)** pour l’application du paragraphe 6(3), en vue de protéger des espèces d’animaux ou de végétaux relevant de la compétence du fédéral ou à la demande du ministre provincial responsable de la protection des espèces d’animaux ou de végétaux sauvages, s’il estime que l’acheminement serait dangereux pour l’environnement de la province,
-		- **(iv)** pour l’application de l’article 7, en vue de protéger, dans la province, des espèces d’animaux ou de végétaux ne relevant pas de la compétence du fédéral, à la demande du ministre provincial responsable de la protection des espèces d’animaux ou de végétaux sauvages;
+		- **(iv)** pour l’application de l’article 7, en vue de protéger, dans la province, des espèces d’animaux ou de végétaux ne relevant pas de la compétence du fédéral, à la demande du ministre provincial responsable de la protection des espèces d’animaux ou de végétaux sauvages,
+		- **(v)** pour l’application de l’article 8;
 	- **d)** spécifier les dates, heures, modes et points, au Canada, d’importation ou d’exportation de tout ou partie d’animaux ou de végétaux, ou de catégories de ceux-ci, ou de produits qui en proviennent;
 	- **e)** régir le marquage de tout ou partie d’un animal ou végétal, ou d’un produit qui en provient, et de leurs contenants ou emballages, pour leur importation, leur exportation ou pour leur acheminement interprovincial;
 	- **f)** préciser les documents que doivent tenir les personnes mentionnées à l’article 9, ainsi que la forme et les modalités, de temps ou autre, relatives à la garde de ces documents;
@@ -332,6 +339,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(2)** Le gouverneur en conseil énumère, par règlement, les animaux et végétaux mentionnés respectivement sous les rubriques « fauna » et « flora » des annexes de la Convention; il est tenu, dans les quatre-vingt-dix jours suivant tout changement de ces annexes, de modifier ce règlement en conséquence.
+> 1992, ch. 52, art. 21; 2002, ch. 29, art. 140.
+
+
+
+
+
+**Décret**
+
+**21.1** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, pour l’application du paragraphe 6(2), modifier les définitions de animal ou végétal à l’article 2.
+
+**Fondement de la recommandation**
+
+- **(2)** Si le ministre estime que l’importation d’un spécimen, vivant ou mort, mettrait en danger des espèces ou des écosystèmes canadiens et qu’il y a lieu de prendre des mesures d’urgence pour parer à ce danger, il peut recommander la prise du décret prévu au paragraphe (1).
+
+**Durée d’application**
+
+- **(3)** Le décret s’applique à compter de sa prise pour la période, d’au plus un an, qu’il fixe.
+
+**Exclusion**
+
+- **(4)** Le décret est soustrait à l’application de l’article 3 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2002, ch. 29, art. 141.
+
 
 
 
