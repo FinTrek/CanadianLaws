@@ -205,6 +205,15 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
 
 
+**Délégation**
+
+**11.1** Le ministre peut déléguer à un ministre fédéral ou provincial ou à quiconque est à l’emploi du gouvernement du Canada ou d’une province ou de tout autre gouvernement au Canada tel de ses pouvoirs prévus par la présente loi en matière de contrôle d’application de celle-ci ou de délivrance, de renouvellement, d’annulation ou de suspension des permis. Le mandat est à exécuter en conformité avec la délégation.
+> 2002, ch. 29, art. 138
+
+
+
+
+
 ## Règlements
 
 
