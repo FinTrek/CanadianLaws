@@ -1,137 +1,61 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4th%20Supp.).md)
 
-# Enterprise Cape Breton Corporation Act
+# Government Organization Act, Atlantic Canada, 1987
 
 **S.C. 1985, c. 41 (4th Supp.)**
 
 
 ```
-[Enacted as Part II to R.S., 1985, c. 41 (4th Supp.), in force December 1, 1988, see SI/88-140.]
+[1988, c. 50, assented to 18th August, 1988]
 ```
 ----------
 
 
-[Repealed, 2014, c. 20, s. 192]
-
-
 
 ## Short Title
-> [Repealed, 2014, c. 20, s. 192]
 
 
 
-**25** [Repealed, 2014, c. 20, s. 192]
+**Short title**
 
+**1** This Act may be cited as the Government Organization Act, Atlantic Canada, 1987.
 
 
 
-## Interpretation
-> [Repealed, 2014, c. 20, s. 192]
 
+**PART I** 
 
 
-**26** [Repealed, 2014, c. 20, s. 192]
+**2 to 24** [See [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md)]
 
 
 
 
-## Corporation Continued
-> [Repealed, 2014, c. 20, s. 192]
+**PART II** 
 
 
+**25 to 44** [See [Enterprise Cape Breton Corporation Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md)]
 
-**27** [Repealed, 2014, c. 20, s. 192]
 
 
 
-**28** [Repealed, 2014, c. 20, s. 192]
+**PART III** 
+## Consequential and Related Amendments
 
 
+**45 to 56** [Amendments]
 
-**29** [Repealed, 2014, c. 20, s. 192]
 
 
 
-**30** [Repealed, 2014, c. 20, s. 192]
+## Coming into Force
 
 
 
-**31** [Repealed, 2014, c. 20, s. 192]
+**Coming into force**
 
+<sup><a href='#G-5.7_en_1'>[*]</a></sup>**57** This Act or any provision thereof shall come into force on a day or days to be fixed by order of the Governor in Council.
 
-
-**32** [Repealed, 2014, c. 20, s. 192]
-
-
-
-
-## Objects and Powers
-> [Repealed, 2014, c. 20, s. 192]
-
-
-
-**33** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**34** [Repealed, 2014, c. 20, s. 192]
-
-
-
-
-## Financial Provisions
-> [Repealed, 2014, c. 20, s. 192]
-
-
-
-**35** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**36** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**37** [Repealed, 2014, c. 20, s. 192]
-
-
-
-
-## General
-> [Repealed, 2014, c. 20, s. 192]
-
-
-
-**38** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**39** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**40** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**41** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**42** [Repealed, 2014, c. 20, s. 192]
-
-
-
-**43** [Repealed, 2014, c. 20, s. 192]
-
-
-
-
-## Transitional
-> [Repealed, 2014, c. 20, s. 192]
-
-
-
-**44** [Repealed, 2014, c. 20, s. 192]
+<a name='G-5.7_en_1'><sup>*</sup></a>: [Note: Sections 1 to 24, 45 and 53 to 56 in force September 15, 1988, *see* SI/88-152; sections 25 to 44 and 46 to 51 in force December 1, 1988, *see* SI/88-140.]<br />
 
 
