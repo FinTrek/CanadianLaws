@@ -86,7 +86,9 @@ Version anglaise seulement***institutional head***, in relation to a penitentiar
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
- ou ***sentence*** means a sentence of imprisonment and includes a sentence imposed by a court of a foreign state on a Canadian offender who has been transferred to Canada pursuant to the [Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md);
+ ou ***sentence***means a sentence of imprisonment and includes a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)  and a sentence imposed by a court of a foreign state on a Canadian offender who has been transferred to Canada pursuant to the 
+[Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md) ;
+
 
 ***Service*** means the Correctional Service of Canada described in section 5;
 
@@ -105,7 +107,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171
 
 
 
@@ -292,7 +294,7 @@ confine the person in the provincial correctional facility until the person is t
 
 **15** 
 
-- **(1)** Notwithstanding any requirement in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that a person be sentenced, committed or transferred to penitentiary, such a person in the Province of Newfoundland shall not be received in a penitentiary without the approval of an officer designated by the Lieutenant Governor of Newfoundland.
+- **(1)** Notwithstanding any requirement in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) that a person be sentenced, committed or transferred to penitentiary, such a person in the Province of Newfoundland shall not be received in a penitentiary without the approval of an officer designated by the Lieutenant Governor of Newfoundland.
 
 **Idem**
 
@@ -301,6 +303,8 @@ confine the person in the provincial correctional facility until the person is t
 **Agreement re cost**
 
 - **(3)** The Minister may, with the approval of the Governor in Council, enter into an agreement with the Province of Newfoundland providing for the payment to the Province of the cost of maintaining persons who are confined pursuant to subsection (2).
+> 1992, c. 20, s. 15; 2002, c. 1, s. 172
+
 
 
 
@@ -1752,11 +1756,16 @@ Version anglaise seulement***institutional head*** has the same meaning as in Pa
 
 ***Minister*** has the same meaning as in Part I;
 
-***offender*** means a person who is under a sentence imposed before or after the coming into force of this section
-- **(a)** pursuant to an Act of Parliament or, to the extent that this Part applies, pursuant to a provincial Act, or
-- **(b)** on conviction for criminal or civil contempt of court where the sentence does not include a requirement that the offender return to that court,
+***offender*** means 
 
-but does not include a young person within the meaning of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) who has been committed to custody under that Act or a person whose only sentence is a sentence being served intermittently pursuant to section 732 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+- **(a)** a person, other than a young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) , who is under a sentence imposed before or after the coming into force of this section
+	- **(i)** pursuant to an Act of Parliament or, to the extent that this Part applies, pursuant to a provincial Act, or
+	- **(ii)** on conviction for criminal or civil contempt of court if the sentence does not include a requirement that the offender return to that court, or
+- **(b)** a young person within the meaning of the 
+[Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)  with respect to whom an order, committal or direction under section 76, 89, 92 or 93 of that Act has been made,
+
+ but does not include a person whose only sentence is a sentence being served intermittently pursuant to section 732 of the 
+*Criminal Code* ;
 
 ***parole*** means full parole or day parole;
 
@@ -1793,7 +1802,7 @@ but does not include a young person within the meaning of the [Young Offenders A
 - **(3)** Except as otherwise provided by this Part or by the regulations,
 	- **(a)** powers, duties and functions assigned to the Commissioner by or pursuant to this Part may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions assigned to the institutional head by or pursuant to this Part may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17
+> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173
 
 
 
@@ -1803,6 +1812,15 @@ but does not include a young person within the meaning of the [Young Offenders A
 
 **99.1** A person who is required to be supervised by a long-term supervision order is deemed to be an offender for the purposes of this Part, and sections 100, 101, 109 to 111 and 140 to 145 apply, with such modifications as the circumstances require, to the person and to the long-term supervision of that person.
 > 1997, c. 17, s. 18
+
+
+
+
+
+**Young persons**
+
+**99.2** In this Part, a young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) with respect to whom a committal or direction under section 89, 92 or 93 of that Act has been made begins to serve his or her sentence on the day on which the sentence comes into force in accordance with subsection 42(12) of that Act.
+> 2002, c. 1, s. 174
 
 
 
