@@ -37,7 +37,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***adjudicator*** means a person appointed under subsection 15(1).
+***adjudicator***[Repealed, 2001, c. 29, s. 72]
 
 ***authorized representative*** means, in respect of a Canadian vessel, the person referred to in subsection 14(1) and, in respect of a foreign vessel, the master.
 
@@ -51,7 +51,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***government vessel*** means a vessel that is owned by and is in the service of Her Majesty in right of Canada or a province or that is in the exclusive possession of Her Majesty in that right.
 
-***gross tonnage*** means the volume of a vessel as determined by a tonnage measurer or calculated in accordance with the regulations made under paragraph 77(h).
+***gross tonnage***means the volume of a vessel as determined by a tonnage measurer or calculated in accordance with the regulations made under paragraph 77(h).
 
 ***master*** means the person in command and charge of a vessel. It does not include a licensed pilot, within the meaning of section 1.1 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), while the pilot is performing pilotage duties under that Act.
 
@@ -79,10 +79,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 ***Safety Convention vessel*** means a vessel in respect of which the International Convention for the Safety of Life at Sea, listed in Schedule 1, applies.
 
+***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md).
+
 ***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to method or lack of propulsion, and includes such a vessel that is under construction. It does not include a floating object of a prescribed class.
 
 ***wages*** includes emoluments.
-> 2001, c. 26, ss. 2, 323.
+> 2001, c. 26, ss. 2, 323, c. 29, s. 72.
 
 
 
@@ -310,18 +312,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 ### Adjudicators
+> [Repealed, 2001, c. 29, s. 72]
 
 
 
-**Appointment**
-
-**15** 
-
-- **(1)** The Minister of Transport may appoint persons to conduct independent reviews under subsection 16(6) (notice of refusal to issue or renew), 20(5) (suspension, cancellation or non-renewal of Canadian maritime documents), 231(3) (notices of default), 232(2) (notices of violation) or 239(3) (removal of notations of violations).
-
-**Powers of adjudicators**
-
-- **(2)** For the purposes of this Act, each adjudicator has and may exercise the powers of a person appointed as a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+**15** [Repealed, 2001, c. 29, s. 72]
 
 
 
@@ -362,11 +357,44 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Notice after refusal to issue**
 
-- **(5)** The Minister of Transport must, immediately after refusing to issue a Canadian maritime document, give the applicant a notice confirming the refusal and providing all relevant information concerning the grounds on which the Minister has refused to issue it.
+- **(5)** The Minister of Transport must, immediately after refusing to issue a Canadian maritime document, give the applicant a notice
+	- **(a)** confirming the refusal and providing all relevant information concerning the grounds on which the Minister has refused to issue the document; and
+	- **(b)** indicating, in the case of a refusal to issue a document under Part 3 (Personnel) on the grounds set out in paragraph (4)(a), (b), (c) or (e), the address at which, and the date, being thirty days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
 
-**Review of decision**
+- **(6)** [Repealed, 2001, c. 29, s. 72]
+> 2001, c. 26, s. 16, c. 29, s. 72.
 
-- **(6)** A master or crew member whose application for a Canadian maritime document under Part 3 (Personnel) has been refused on a ground set out in any of paragraphs (4)(a), (b), (c) and (e) may, within 30 days after the day on which notice is given to them of the refusal, request that an adjudicator review the refusal.
+
+
+
+
+**Request for review**
+
+**16.1** 
+
+- **(1)** An applicant who receives a notice under subsection 16(5) may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review of the decision if
+	- **(a)** the request is in respect of a Canadian maritime document that is issued under Part 3 (Personnel); and
+	- **(b)** the grounds for refusing to issue the document are set out in paragraph 16(4)(a), (b), (c) or (e).
+
+**Time and place for review**
+
+- **(2)** On receipt of a request filed under subsection (1), the Tribunal must appoint a time and place for the review and must notify the Minister of Transport and the applicant of the time and place in writing.
+
+**Review procedure**
+
+- **(3)** The member of the Tribunal assigned to conduct the review must provide the Minister of Transport and the applicant with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+**Person not compelled to testify**
+
+- **(4)** In a review of a decision made under subparagraph 16(4)(e)(ii) on the ground that an applicant has committed a violation in respect of which a notice of violation has been issued to the applicant, the applicant is not required, and must not be compelled, to give any evidence or testimony in the matter before the matter that gave rise to the issue of the notice has been disposed of in accordance with sections 232 to 232.2.
+
+**Determination**
+
+- **(5)** The member may
+	- **(a)** in the case of a decision made under paragraph 16(4)(e), confirm the decision or substitute his or her own determination; or
+	- **(b)** in any other case, confirm the decision or refer the matter back to the Minister of Transport for reconsideration.
+> 2001, c. 29, s. 72.
+
 
 
 
@@ -402,43 +430,128 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **20** 
 
-- **(1)** Subject to subsection (2), the Minister of Transport may suspend, cancel or refuse to renew a Canadian maritime document if the Minister is satisfied that
+- **(1)** Subject to section 20.1, the Minister of Transport may suspend, cancel or refuse to renew a Canadian maritime document if the Minister is satisfied that
 	- **(a)** the requirements for the issuance of the document are no longer met;
 	- **(b)** a term or condition attached to the document has been contravened;
-	- **(c)** the document was obtained by any fraudulent or improper means or misrepresentation of any material fact;
+	- **(c)** the document was obtained by any fraudulent or improper means or a misrepresentation of any material fact;
 	- **(d)** the holder of the document has not paid a fine or penalty imposed on them under this Act;
-	- **(e)** the holder of the document has contravened a provision of this Act or the regulations that the Minister of Transport is responsible for administering;
+	- **(e)** the holder of the document has contravened a provision of this Act or the regulations that the Minister is responsible for administering;
 	- **(f)** in the case of a Canadian maritime document issued under Part 3 (Personnel) to a master or crew member,
 		- **(i)** the master or crew member is incompetent or has committed an act of misconduct,
 		- **(ii)** the master or crew member was on board a vessel that contravened any of sections 5.3 to 5.5 of the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md) and knew, when the contravention occurred, that the vessel was committing the contravention, or
 		- **(iii)** the master or crew member has been found guilty of an offence related to their duties on a vessel; or
-	- **(g)** in the case of a refusal to renew,
+	- **(g)**  in the case of a refusal to renew,
 		- **(i)** the applicant has not paid a fee set under paragraph 35(1)(g) in respect of the issuance of the document, or
 		- **(ii)** the Minister is of the opinion that the public interest and, in particular, the record of the applicant or of a principal of the applicant warrant it.
 
+**Return of document**
+
+- **(2)** If a Canadian maritime document is suspended or cancelled, the person who held it shall return it on demand to the Minister of Transport.
+> 2001, c. 26, s. 20, c. 29, s. 72.
+
+
+
+
+
 **Notice before suspension or cancellation**
 
-- **(2)** The Minister of Transport must, before suspending or cancelling a Canadian maritime document issued under Part 3 (Personnel), give the holder 30 days notice of the proposed suspension or cancellation and provide the holder with all relevant information concerning the grounds on which the Minister proposes to suspend or cancel it.
+**20.1** The Minister of Transport must, before suspending or cancelling a Canadian maritime document issued under Part 3 (Personnel), give the holder 30 days notice of the proposed suspension or cancellation. The notice must
+- **(a)** provide the holder with all relevant information concerning the grounds on which the Minister proposes to suspend or cancel the document; and
+- **(b)** indicate, in the case of a proposed suspension or cancellation of a document on the grounds referred to in paragraph 20(1)(a), (b), (c), (e) or (f) or subparagraph 20(1)(g)(ii), the address at which, and the date, being 30 days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
+> 2001, c. 29, s. 72.
+
+
+
+
 
 **Exception**
 
-- **(3)** The Minister of Transport may suspend or cancel a Canadian maritime document issued under Part 3 (Personnel) without complying with subsection (2) if, on *ex parte* application by the Minister, an adjudicator determines that complying with that subsection is not in the interest of public safety.
+**20.2** 
 
-**Notice after suspension or cancellation**
+- **(1)** The Minister of Transport may suspend or cancel a Canadian maritime document issued under Part 3 (Personnel) without complying with section 20.1 if, on *ex parte* application by the Minister, the Tribunal determines that compliance with that section is not in the interest of public safety.
 
-- **(4)** Except in the case of the suspension or cancellation of a Canadian maritime document under subsection (2), the Minister of Transport must, immediately after suspending, cancelling or refusing to renew a Canadian maritime document, give the holder a notice confirming the suspension, cancellation or refusal and providing all relevant information concerning the grounds on which the Minister has suspended, cancelled or refused to renew it.
+**Decision within 24 hours**
 
-**Review**
+- **(2)** An application by the Minister of Transport under subsection (1) must be heard by a member of the Tribunal, sitting alone, whose determination shall be made within 24 hours after the application is filed with the Tribunal.
 
-- **(5)** The holder may, within 30 days after the day on which the notice is given, request that an adjudicator review the suspension, cancellation or refusal, unless it was on the ground set out in paragraph (1)(d) or subparagraph (1)(g)(i).
+**Appeal**
 
-**Review**
+- **(3)** The Minister of Transport may, within 24 hours after the determination, appeal the determination to the Tribunal.
 
-- **(6)** If the holder, within 30 days after the day on which the notice is given, requests that an adjudicator conduct a review of the proposed suspension or cancellation, the proposed suspension or cancellation is stayed until the review is concluded.
+**Decision within 48 hours**
 
-**Return of document**
+- **(4)** The appeal panel of the Tribunal assigned to hear the appeal shall make a decision within 48 hours after the appeal is filed with the Tribunal.
+> 2001, c. 29, s. 72.
 
-- **(7)** If a Canadian maritime document is suspended or cancelled, the person who held it shall return it on demand to the Minister of Transport.
+
+
+
+
+**Notice after suspension, cancellation or refusal to renew**
+
+**20.3** Except where notice of a proposed suspension or cancellation of a Canadian maritime document is given under section 20.1, the Minister of Transport must, immediately after suspending, cancelling or refusing to renew a Canadian maritime document, give the holder a notice that
+- **(a)** confirms the suspension, cancellation or refusal and provides all relevant information concerning the grounds on which the Minister suspended, cancelled or refused to renew the document; and
+- **(b)** indicates, in the case of the suspension or cancellation of, or the refusal to renew, a document on the grounds referred to in paragraph 20(1)(a), (b), (c), (e) or (f) or subparagraph 20(1)(g)(ii), the address at which, and the date, being 30 days after the notice is given, on or before which, the applicant may file a request for a review of the Minister’s decision.
+> 2001, c. 29, s. 72.
+
+
+
+
+
+**Request for review**
+
+**20.4** 
+
+- **(1)** Subject to subsection (2), the holder of a Canadian maritime document that is referred to in a notice under section 20.1 or 20.3 may, within the time specified in the notice or any further time that the Tribunal on application allows, file a written request for a review of the decision referred to in the notice.
+
+**Exception**
+
+- **(2)** A request for a review must not be filed with, or accepted by, the Tribunal if the grounds for suspending, cancelling or refusing to renew the document are set out in paragraph 20(1)(d) or subparagraph 20(1)(g)(i).
+
+**Effect of request**
+
+- **(3)** The filing of a request for a review in respect of a notice under section 20.1 operates as a stay of the proposed suspension or cancellation until the matter is finally disposed of in accordance with this section or section 20.5.
+
+**Time and place for review**
+
+- **(4)** On receipt of a request filed under subsection (1), the Tribunal must appoint a time and place for the review and must notify the Minister of Transport and the holder of the time and place in writing.
+
+**Review procedure**
+
+- **(5)** The member of the Tribunal assigned to conduct the review must provide the Minister of Transport and the holder with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+**Person not compelled to testify**
+
+- **(6)** In a review of a decision made under paragraph 20(1)(e), the holder is not required, and must not be compelled, to give any evidence or testimony in the matter.
+
+**Determination**
+
+- **(7)** The member may
+	- **(a)** in the case of a decision made under paragraph 20(1)(e) or subparagraph 20(1)(f)(ii) or (iii), confirm the Minister of Transport’s decision or substitute his or her own determination; and
+	- **(b)** in any other case, confirm the Minister of Transport’s decision or refer the matter back to the Minister for reconsideration.
+> 2001, c. 29, s. 72.
+
+
+
+
+
+**Right of appeal**
+
+**20.5** 
+
+- **(1)** The applicant for, or holder of, a Canadian maritime document may appeal to the Tribunal a determination made under subsection 16.1(5) or 20.4(7), and the Minister of Transport may appeal to the Tribunal a determination made under paragraph 16.1(5)(a) or 20.4(7)(a). The time limit for making an appeal is 30 days after the determination.
+
+**Loss of right of appeal**
+
+- **(2)** A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence.
+
+**Disposition of appeal**
+
+- **(3)** The appeal panel of the Tribunal assigned to hear the appeal may
+	- **(a)** in the case of a determination made under paragraph 16.1(5)(a) or 20.4(7)(a), dismiss the appeal, or allow the appeal and substitute its own decision; or
+	- **(b)** in the case of a determination made under paragraph 16.1(5)(b) or 20.4(7)(b), dismiss the appeal or refer the matter back to the Minister of Transport for reconsideration.
+> 2001, c. 29, s. 72.
+
 
 
 
@@ -729,9 +842,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **35** 
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister of Transport, make regulations
-	- **(a)** respecting the appointment of adjudicators, including their qualifications;
+	- **(a)** [Repealed, 2001, c. 29, s. 72]
 	- **(b)** respecting the issuance, amendment, suspension, reinstatement, cancellation or renewal of Canadian maritime documents;
-	- **(c)** respecting reviews under subsection 16(6) (notice of refusal to issue or renew) or 20(5) (suspension or cancellation of Canadian maritime documents);
+	- **(c)** [Repealed, 2001, c. 29, s. 72]
 	- **(d)** implementing, in whole or in part, an international convention, protocol or resolution that is listed in Schedule 1, as amended from time to time, including regulations
 		- **(i)** implementing it in respect of persons, vessels or oil handling facilities to which it does not apply,
 		- **(ii)** establishing stricter standards than it sets out, or
@@ -754,6 +867,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(b)** respecting record keeping, information management and reporting for the purposes of Part 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft);
 	- **(c)** respecting the form and manner of giving notice under Part 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft); and
 	- **(d)** respecting the setting and payment of fees for services provided in the administration of Part 5 (Navigation Services), 7 (Wreck), other than section 163, 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft) or the regulations made under any of those Parts.
+> 2001, c. 26, s. 35, c. 29, s. 72.
+
 
 
 
@@ -4342,13 +4457,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(1)** If the Minister has reasonable grounds to believe that a person or vessel has committed a violation, the Minister may
 	- **(a)** enter into an assurance of compliance with the person or vessel that
-		- **(i)** identifies the violation and provides that the person or vessel will comply with the provision to which the violation relates within the period and be subject to the terms and conditions that are specified in the assurance,
+		- **(i)** identifies the violation and provides that the person or vessel will comply with the provision to which the violation relates within the period, and be subject to the terms and conditions, specified in the assurance,
 		- **(ii)** sets out the amount and form of any security that, pending compliance with the assurance, must be deposited with the Minister, and
 		- **(iii)** sets out the penalty, fixed by or within the range fixed by the regulations made under this Part, for the violation that the person or vessel would have been liable to pay if the assurance had not been entered into; or
 	- **(b)** issue, and cause to be served on the person or vessel, a notice of violation that names the person or vessel, identifies the violation and sets out
 		- **(i)** the penalty, fixed by or within the range fixed by the regulations made under this Part, for the violation that the person or vessel is liable to pay,
-		- **(ii)** the period within which the penalty must be paid or a review of the notice requested, and
-		- **(iii)** particulars of the manner in which the penalty must be paid or a review requested.
+		- **(ii)** the period, being thirty days after the notice is served, within which the penalty must be paid or a review of the notice requested, and
+		- **(iii)** particulars of the manner in which, and the address at which, the penalty must be paid or a review requested.
 
 **Extension of period**
 
@@ -4357,6 +4472,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Short-form descriptions in notices of violation**
 
 - **(3)** The Minister may establish, in respect of each violation, a short-form description to be used in notices of violation.
+> 2001, c. 26, s. 229, c. 29, s. 72.
+
 
 
 
@@ -4369,48 +4486,83 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Request for review**
 
-- **(2)** A person who, or vessel that, enters into an assurance of compliance may, within 48 hours after the assurance is signed and before a notice of default is served under subsection 231(2), request a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 232(1) of the facts of the violation and the amount of the penalty is deemed to have been requested.
+- **(2)** A person who, or vessel that, enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under section 231.1, request a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under paragraph 232(1)(b) of the facts of the violation and the amount of the penalty is deemed to have been requested.
+> 2001, c. 26, s. 230, c. 29, s. 72.
+
 
 
 
 
 **When assurance of compliance complied with**
 
-**231** 
+**231** If the Minister is satisfied that an assurance of compliance has been complied with, the Minister must cause a notice to that effect to be served on the person or vessel and, on the service of the notice,
+- **(a)** no further proceedings may be taken against the person or vessel with respect to the violation in respect of which the assurance was entered into; and
+- **(b)** any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel.
+> 2001, c. 26, s. 231, c. 29, s. 72.
 
-- **(1)** If the Minister is satisfied that an assurance of compliance has been complied with, the Minister must cause a notice to that effect to be served on the person or vessel and, on the service of the notice,
-	- **(a)** no further proceedings may be taken against the person or vessel with respect to the violation in respect of which the assurance was entered into; and
-	- **(b)** any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel.
+
+
+
 
 **When assurance of compliance not complied with**
 
-- **(2)** If the Minister is of the opinion that a person who, or vessel that, has entered into an assurance of compliance has not complied with it, the Minister may cause a notice of default to be served on the person or vessel to the effect that, unless an adjudicator determines under subsection (3) that the assurance has been complied with,
+**231.1** 
+
+- **(1)** If the Minister is of the opinion that a person who, or vessel that, has entered into an assurance of compliance has not complied with it, the Minister may cause a notice of default to be served on the person or vessel to the effect that, unless a member determines under section 231.2, or an appeal panel decides under section 232.2, that the assurance has been complied with,
 	- **(a)** the person or vessel is liable to pay double the amount of the penalty set out in the assurance; or
 	- **(b)** the security deposited under subparagraph 229(1)(a)(ii) is forfeited to Her Majesty in right of Canada.
 
-**Review of notice of default**
+**Contents of notice**
 
-- **(3)** A person or vessel served with a notice of default may, within 30 days after being served and in the prescribed manner, request a review by an adjudicator of the facts of the non-compliance with the assurance of compliance.
+- **(2)** A notice under subsection (1) must include the address at which, and the date, being 30 days after the notice is served, on or before which, a request for a review may be filed.
+
+**No set-off**
+
+- **(3)** On the service of a notice of default, the person or vessel served has no right of set-off against any amount spent by the person or vessel under the assurance of compliance.
+> 2001, c. 29, s. 72.
+
+
+
+
+
+**Request for review**
+
+**231.2** 
+
+- **(1)** A person or vessel served with a notice under subsection 231.1(1) may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review.
+
+**Time and place for review**
+
+- **(2)** On receipt of a request filed under subsection (1), the Tribunal must appoint a time and place for the review and must notify the Minister and the person who, or vessel that, filed the request of the time and place in writing.
+
+**Review procedure**
+
+- **(3)** The member of the Tribunal assigned to conduct the review must provide the Minister and the person or vessel with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
 
 **Burden of proof**
 
-- **(4)** In the case of a review of the facts of a non-compliance,
-	- **(a)** the burden is on the Minister to establish, on a balance of probabilities, that the person or vessel named in the notice did not comply with the assurance of compliance; and
-	- **(b)** the person is not required and may not be compelled to give any evidence or testimony in the matter.
+- **(4)** The burden is on the Minister to establish that the person or vessel did not comply with the assurance of compliance referred to in the notice. The person is not required, and must not be compelled, to give any evidence or testimony in the matter.
 
 **Certain defences not available**
 
 - **(5)** A person or vessel named in a notice of default does not have a defence by reason that the person or vessel exercised due diligence to comply with the assurance of compliance.
 
-**No set off**
+**Determination**
 
-- **(6)** On the service of a notice of default, the person or vessel served has no right of set-off against any amount spent by the person or vessel under the assurance of compliance.
+- **(6)** The member may confirm the Minister’s decision or determine that the person or vessel has complied with the assurance of compliance.
+> 2001, c. 29, s. 72.
+
+
+
+
 
 **Return of security**
 
-- **(7)** Any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel if
-	- **(a)** a notice of default is served under paragraph (2)(a) and the person or vessel pays double the amount of the penalty; or
-	- **(b)** an adjudicator determines under subsection (3) that the assurance has been complied with.
+**231.3** Any security deposited under subparagraph 229(1)(a)(ii) must be returned to the person or vessel if
+- **(a)** the person or vessel pays double the amount of the penalty set out in the assurance of compliance in accordance with a notice of default under section 231.1; or
+- **(b)** a member determines under section 231.2, or an appeal panel decides under section 232.2, that the assurance of compliance has been complied with.
+> 2001, c. 29, s. 72.
+
 
 
 
@@ -4419,17 +4571,59 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **232** 
 
-- **(1)** A person or vessel served with a notice of violation must pay the amount of the penalty or may, within 30 days after being served and in the prescribed manner, request a review by an adjudicator of the facts of the violation or the amount of the penalty.
-
-**Burden of proof**
-
-- **(2)** In the case of a review of the facts of a violation,
-	- **(a)** the burden is on the Minister to establish, on a balance of probabilities, that the person or vessel named in the notice of violation committed the violation; and
-	- **(b)** the person is not required and shall not be compelled to give any evidence or testimony in the matter.
+- **(1)** A person or vessel served with a notice of violation under paragraph 229(1)(b) must
+	- **(a)** pay the amount of the penalty; or
+	- **(b)** within thirty days after being served or any further time that the Tribunal on application allows, file with the Tribunal a written request for a review of the facts of the violation or the amount of the penalty.
 
 **When review not requested**
 
-- **(3)** If a review is not requested of the facts of the violation, the person or vessel is deemed to have committed the violation in respect of which the notice was served.
+- **(2)** If a review of the facts of the violation is not requested, the person or vessel is deemed to have committed the violation in respect of which the notice was served.
+> 2001, c. 26, s. 232, c. 29, s. 72.
+
+
+
+
+
+**Time and place for review**
+
+**232.1** 
+
+- **(1)** On receipt of a request filed under paragraph 232(1)(b), the Tribunal must appoint a time and place for the review and must notify the Minister and the person who, or vessel that, filed the request of the time and place in writing.
+
+**Review procedure**
+
+- **(2)** The member of the Tribunal assigned to conduct the review must provide the Minister and the person or vessel with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+**Burden of proof**
+
+- **(3)** The burden is on the Minister to establish that the person or vessel committed the violation referred to in the notice. The person is not required, and must not be compelled, to give any evidence or testimony in the matter.
+
+**Determination**
+
+- **(4)** The member may confirm the Minister’s decision or, subject to any regulations made under paragraph 244(h), substitute his or her own determination.
+> 2001, c. 29, s. 72.
+
+
+
+
+
+**Right of appeal**
+
+**232.2** 
+
+- **(1)** The Minister or the person who, or vessel that, requested the review may, within 30 days after the determination, appeal a determination made under subsection 231.2(6) or 232.1(4) to the Tribunal.
+
+**Loss of right of appeal**
+
+- **(2)** A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence.
+
+**Disposition of appeal**
+
+- **(3)** The appeal panel of the Tribunal assigned to hear the appeal may
+	- **(a)** in the case of a determination made under subsection 231.2(6), dismiss the appeal or allow the appeal and substitute its own decision; or
+	- **(b)** in the case of a determination made under subsection 232.1(4), dismiss the appeal, or allow the appeal and, subject to regulations made under paragraph 244(h), substitute its own decision.
+> 2001, c. 29, s. 72.
+
 
 
 
@@ -4452,23 +4646,27 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Debts due to Her Majesty**
 
 **234** The following amounts constitute debts due to Her Majesty in right of Canada that may be recovered in a court of competent jurisdiction:
-- **(a)** unless a review of the amount of the penalty is requested under subsection 232(1), the amount of a penalty set out in a notice of violation, from the time the notice is served;
-- **(b)** the amount that a notice of default served under subsection 231(2) provides that a person is liable to pay, from the time the notice is served;
-- **(c)** the amount of a penalty determined by an adjudicator on a review under subsection 232(1), from the time the adjudicator gives their decision; and
+- **(a)** unless a review of the amount of the penalty is requested under paragraph 232(1)(b), the amount of a penalty set out in a notice of violation, from the time the notice is served;
+- **(b)** the amount that a notice of default served under subsection 231.1(1) provides that a person is liable to pay, from the time the notice is served;
+- **(c)** the amount of a penalty determined by a member after a review under section 232.1, or decided by an appeal panel after an appeal under section 232.2, from the time of the respective determination or decision; and
 - **(d)** the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (c).
+> 2001, c. 26, s. 234, c. 29, s. 72.
 
 
 
 
-**Certificate of default**
+
+**Certificate**
 
 **235** 
 
-- **(1)** A debt referred to in section 234 in respect of which there is a default of payment, or the part of any such debt that has not been paid, may be certified by the Minister.
+- **(1)** All or part of a debt referred to in section 234 in respect of which there is a default of payment may be certified by the Minister or the Tribunal, as the case may be.
 
 **Judgments**
 
 - **(2)** On production to the Federal Court, a certificate made under subsection (1) is to be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on it, as if it were a judgment obtained in that Court for a debt of the amount specified in it and all reasonable costs and charges attendant in its registration.
+> 2001, c. 26, s. 235, c. 29, s. 72.
+
 
 
 
@@ -4513,7 +4711,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **239** 
 
 - **(1)** Unless the Minister is of the opinion that it is not in the public interest to do so, five years after the last day on which any of the following events occurs the Minister is to remove every notation of violation or default, and every suspension or cancellation of or refusal to issue or renew a Canadian maritime document on prescribed grounds, from any records that the Minister may keep respecting a person or vessel:
-	- **(a)** the person or vessel pays every penalty that the person or vessel is liable to pay under a notice of violation, a notice of default or an adjudicator’s decision;
+	- **(a)** the person or vessel pays every penalty that the person or vessel is liable to pay after a notice of violation, a notice of default, a determination of a member of the Tribunal on review or a decision of an appeal panel of the Tribunal;
 	- **(b)** a suspension on prescribed grounds of a Canadian maritime document issued to the person or vessel ends;
 	- **(c)** the Minister cancels, on prescribed grounds, a Canadian maritime document issued to the person or vessel; and
 	- **(d)** the Minister refuses, on prescribed grounds, to issue a Canadian maritime document to the person or vessel or to renew a Canadian maritime document issued to the person or vessel.
@@ -4522,9 +4720,39 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(2)** The Minister is to give a person or vessel notice of a decision not to remove a notation in respect of the person or vessel and providing all relevant information concerning the grounds on which the Minister has refused to remove it.
 
-**Review**
+**Contents of notice**
 
-- **(3)** The person may, within 30 days after the day on which the notice is given, request that an adjudicator review the decision.
+- **(3)** A notice under subsection (2) must include the address at which, and the date, being thirty days after the notice is served, on or before which, a request for a review may be filed.
+
+**Request for review**
+
+- **(4)** The person or vessel may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review.
+
+**Time and place for review**
+
+- **(5)** On receipt of a request filed under subsection (4), the Tribunal must appoint a time and place for the review and must notify the Minister and the person who, or vessel that, filed the request of the time and place in writing.
+
+**Review procedure**
+
+- **(6)** The member of the Tribunal assigned to conduct the review must provide the Minister and the person who, or vessel that, filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+**Determination**
+
+- **(7)** The member may confirm the Minister’s decision or refer the matter back to the Minister for reconsideration.
+
+**Right of appeal**
+
+- **(8)** The person who, or vessel that, requested the review may, within 30 days after the determination, appeal a determination made under subsection (7) to the Tribunal.
+
+**Loss of right of appeal**
+
+- **(9)** If the person or vessel does not appear at the review hearing, the person or vessel is not entitled to appeal a determination unless the person or vessel establishes that there was sufficient reason to justify the absence.
+
+**Disposition of appeal**
+
+- **(10)** The appeal panel assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration.
+> 2001, c. 26, s. 239, c. 29, s. 72.
+
 
 
 
@@ -4572,9 +4800,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(f)** designating as a violation that may be proceeded with in accordance with sections 229 to 242 the contravention of a relevant provision that is an offence under this Act;
 - **(g)** designating violations that, if continued on more than one day, constitute a separate violation for each day on which they are continued;
 - **(h)** designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $25,000 but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
-- **(i)** respecting reviews under subsection 231(3) (notices of default), 232(2) (notices of violation) or 239(3) (removal of notations of violations);
+- **(i)** [Repealed, 2001, c. 29, s. 72]
 - **(j)** respecting the service of documents required or authorized to be served under this Part, including the manner of serving them, the proof of their service and the circumstances under which they are deemed to have been served; and
 - **(k)** prescribing anything that by this Part is to be prescribed.
+> 2001, c. 26, s. 244, c. 29, s. 72.
+
 
 
 
