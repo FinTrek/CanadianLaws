@@ -51,10 +51,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-### Responsibilities and Powers
-
-
 **6** [Amendment]
 
 
