@@ -1120,7 +1120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions**
 
-- **(6)** Sous réserve du paragraphe (7), est remise au partenaire sans que celui-ci n’ait à présenter une autre demande, la personne qui, à la fois :
+- **(6)** Sous réserve du paragraphe (7), est remise au partenaire sans que celui-ci n’ait à présenter une autre demande, la personne qui, à la fois :
 	- **a)** a été extradée temporairement;
 	- **b)** a été déclarée coupable par le partenaire et s’est vu infliger une peine d’emprisonnement;
 	- **c)** a été ramenée au Canada en application du paragraphe (4);
@@ -1140,11 +1140,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renonciation**
 
-- **(10)** Le ministre peut, après avoir consulté le solliciteur général du Canada ou le ministre provincial responsable des services correctionnels compétents, renoncer au retour au Canada de l’extradé.
+- **(10)** Le ministre peut, après avoir consulté le ministre de la Sécurité publique et de la Protection civile ou le ministre provincial responsable des services correctionnels compétents, renoncer au retour au Canada de l’extradé.
 
 **Extradition définitive**
 
 - **(11)** L’intéressé peut être extradé en application du paragraphe (6) même si la durée de la peine imposée par le partenaire ou de ce qui lui en reste à purger est inférieure à ce qui est prévu au paragraphe 3(3).
+> 1999, ch. 18, art. 66; 2005, ch. 10, art. 34.
+
 
 
 
@@ -1321,16 +1323,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autorités compétentes**
 
-**77** Pour l’application de la présente partie, l’autorité compétente relativement à une demande d’extradition est selon qu’elle est faite :
-- **a)
-** pour procès ou infliction d'une peine ou pour qu'une décision, au sens de la 
-[Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapite Y-1 des Lois révisées du Canada (1985), soit prise contre l'intéressé, le procureur général — du Canada ou de la province — responsable de la poursuite;
-- **b)
-** pour l'exécution d'une peine ou d'une décision, au sens de la 
-[Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985) :
-	- **(i)** le solliciteur général du Canada si l'intéressé doit purger sa peine dans un pénitencier,
+**77** Pour l’application de la présente partie, l’autorité compétente relativement à une demande d’extradition est selon qu’elle est faite :
+- **a)** pour procès ou infliction d’une peine ou pour qu’une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapite Y-1 des Lois révisées du Canada (1985), soit prise contre l’intéressé, le procureur général — du Canada ou de la province — responsable de la poursuite;
+- **b)** pour l’exécution d’une peine ou d’une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985) :
+	- **(i)** le ministre de la Sécurité publique et de la Protection civile si l’intéressé doit purger sa peine dans un pénitencier,
 	- **(ii)** le ministre provincial responsable des services correctionnels dans tout autre cas.
-> 1999, ch. 18, art. 77; 2002, ch. 1, art. 191.
+> 1999, ch. 18, art. 77; 2002, ch. 1, art. 191; 2005, ch. 10, art. 34.
 
 
 
