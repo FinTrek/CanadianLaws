@@ -101,7 +101,9 @@
 
 **Définition de tribunal ou tribunal compétent**
 
-**6** Dans le Code, ***tribunal*** ou ***tribunal compétent*** s’entend, sauf indication contraire du contexte, de la Cour fédérale ou de toute cour supérieure, de district ou de comté.
+**6** Dans le Code, ***tribunal*** ou ***tribunal compétent*** s’entend, sauf indication contraire du contexte, de toute cour supérieure, de district ou de comté.
+> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 6; 2002, ch. 8, art. 125.
+
 
 
 
