@@ -7208,7 +7208,10 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **68** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des usines de traitement du zinc
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277.
+**69** Dichlorodiphényltrichloroéthane (DDT), dont la formule moléculaire est C<sub>14</sub>H<sub>9</sub>Cl<sub>5</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40.
 
 
 
