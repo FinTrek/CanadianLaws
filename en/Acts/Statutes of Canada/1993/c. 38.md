@@ -44,59 +44,59 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***broadcasting undertaking*** has the same meaning as in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md);
+***broadcasting undertaking*** has the same meaning as in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md); (*entreprise de radiodiffusion*)
 
-***Canadian carrier*** means a telecommunications common carrier that is subject to the legislative authority of Parliament;
+***Canadian carrier*** means a telecommunications common carrier that is subject to the legislative authority of Parliament; (*entreprise canadienne*)
 
-Version anglaise seulement***Canadian telecommunications policy objectives*** means the objectives set out in section 7;
+***Canadian telecommunications policy objectives*** means the objectives set out in section 7; (***Version anglaise seulement***)
 
-Version anglaise seulement***charge*** includes to receive in payment;
+***charge*** includes to receive in payment; (***Version anglaise seulement***)
 
-***Commission*** means the Canadian Radio-television and Telecommunications Commission;
+***Commission*** means the Canadian Radio-television and Telecommunications Commission; (*Conseil*)
 
-***control*** means control in any manner that results in control in fact, whether directly through the ownership of securities or indirectly through a trust, agreement or arrangement, the ownership of any body corporate or otherwise;
+***control*** means control in any manner that results in control in fact, whether directly through the ownership of securities or indirectly through a trust, agreement or arrangement, the ownership of any body corporate or otherwise; (*contrôle*)
 
-***decision*** includes a determination made by the Commission in any form;
+***decision*** includes a determination made by the Commission in any form; (*décision*)
 
-***exempt transmission apparatus*** means any apparatus whose functions are limited to one or more of the following:
+***exempt transmission apparatus*** means any apparatus whose functions are limited to one or more of the following:
 - **(a)** the switching of telecommunications,
 - **(b)** the input, capture, storage, organization, modification, retrieval, output or other processing of intelligence, or
-- **(c)** control of the speed, code, protocol, content, format, routing or similar aspects of the transmission of intelligence;
+- **(c)** control of the speed, code, protocol, content, format, routing or similar aspects of the transmission of intelligence; (*appareil de transmission exclu*)
 
-***intelligence*** means signs, signals, writing, images, sounds or intelligence of any nature;
+***intelligence*** means signs, signals, writing, images, sounds or intelligence of any nature; (*information*)
 
-***international submarine cable*** means a submarine telecommunications line that extends between Canada and any place outside Canada, or between places outside Canada through Canada, other than a line situated entirely under fresh water;
+***international submarine cable*** means a submarine telecommunications line that extends between Canada and any place outside Canada, or between places outside Canada through Canada, other than a line situated entirely under fresh water; (*câble sous-marin international*)
 
-***international submarine cable licence*** means a licence issued under section 19;
+***international submarine cable licence*** means a licence issued under section 19; (*licence de câble sous-marin international*)
 
-***Minister*** means the Minister of Industry;
+***Minister*** means the Minister of Industry; (*ministre*)
 
-***person*** includes any individual, partnership, body corporate, unincorporated organization, government, government agency, trustee, executor, administrator or other legal representative;
+***person*** includes any individual, partnership, body corporate, unincorporated organization, government, government agency and any other person or entity that acts in the name of or for the benefit of another, including a trustee, executor, administrator, liquidator of the succession, guardian, curator or tutor; (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***public authority*** includes Her Majesty in right of Canada or a province;
+***public authority*** includes Her Majesty in right of Canada or a province; (*administration publique*)
 
-***rate*** means an amount of money or other consideration and includes zero consideration;
+***rate*** means an amount of money or other consideration and includes zero consideration; (*tarif*)
 
-***special Act*** means an Act of Parliament respecting the operations of a particular Canadian carrier;
+***special Act*** means an Act of Parliament respecting the operations of a particular Canadian carrier; (*loi spéciale*)
 
-***telecommunications*** means the emission, transmission or reception of intelligence by any wire, cable, radio, optical or other electromagnetic system, or by any similar technical system;
+***telecommunications*** means the emission, transmission or reception of intelligence by any wire, cable, radio, optical or other electromagnetic system, or by any similar technical system; (*télécommunication*)
 
-***telecommunications common carrier*** means a person who owns or operates a transmission facility used by that person or another person to provide telecommunications services to the public for compensation;
+***telecommunications common carrier*** means a person who owns or operates a transmission facility used by that person or another person to provide telecommunications services to the public for compensation; (*entreprise de télécommunication*)
 
-***telecommunications facility*** means any facility, apparatus or other thing that is used or is capable of being used for telecommunications or for any operation directly connected with telecommunications, and includes a transmission facility;
+***telecommunications facility*** means any facility, apparatus or other thing that is used or is capable of being used for telecommunications or for any operation directly connected with telecommunications, and includes a transmission facility; (*installation de télécommunication*)
 
-***telecommunications service*** means a service provided by means of telecommunications facilities and includes the provision in whole or in part of telecommunications facilities and any related equipment, whether by sale, lease or otherwise;
+***telecommunications service*** means a service provided by means of telecommunications facilities and includes the provision in whole or in part of telecommunications facilities and any related equipment, whether by sale, lease or otherwise; (*service de télécommunication*)
 
-***telecommunications service provider*** means a person who provides basic telecommunications services, including by exempt transmission apparatus;
+***telecommunications service provider*** means a person who provides basic telecommunications services, including by exempt transmission apparatus; (*fournisseur de services de télécommunication*)
 
-***transmission facility*** means any wire, cable, radio, optical or other electromagnetic system, or any similar technical system, for the transmission of intelligence between network termination points, but does not include any exempt transmission apparatus.
+***transmission facility*** means any wire, cable, radio, optical or other electromagnetic system, or any similar technical system, for the transmission of intelligence between network termination points, but does not include any exempt transmission apparatus. (*installation de transmission*)
 
 **Definition of network termination point**
 
 - **(2)** The Commission may define the expression network termination point for purposes of the definition transmission facility in subsection (1).
-> 1993, c. 38, s. 2; 1995, c. 1, s. 62; 1998, c. 8, s. 1.
+> 1993, c. 38, s. 2; 1995, c. 1, s. 62; 1998, c. 8, s. 1; 2004, c. 25, s. 174.
 
 
 
@@ -124,9 +124,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-**Receivership**
+**Application**
 
-**5** A trustee, receiver or manager who, under the authority of any court or any legal instrument, operates any transmission facility of a Canadian carrier is subject to this Act.
+**5** A trustee, trustee in bankruptcy, receiver, sequestrator, manager, administrator of the property of another or any other person who, under the authority of any court, or any legal instrument or act, operates any transmission facility of a Canadian carrier is subject to this Act.
+> 1993, c. 38, s. 5; 2004, c. 25, s. 175.
+
 
 
 
@@ -526,9 +528,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(e)** respecting the circumstances and the manner in which a Canadian carrier may
 		- **(i)** sell, redeem or purchase shares held contrary to section 16 or any regulations made under this subsection, and
 		- **(ii)** deal with the proceeds of sale and reimburse any purchasers of the shares in good faith;
-	- **(f)** respecting the powers of a Canadian carrier to require disclosure of the beneficial ownership of its shares, the right of the carrier and its directors, officers, employees and agents to rely on any required disclosure and the effects of their reliance;
+	- **(f)** respecting the powers of a Canadian carrier to require disclosure of the beneficial ownership of its shares, the right of the carrier and its directors, officers and employees, and its agents or mandataries, to rely on any required disclosure and the effects of their reliance;
 	- **(g)** respecting the verification by the Commission of a Canadian carrier’s eligibility, the measures the Commission may take to maintain the carrier’s eligibility, including exercising the powers of the carrier’s board of directors and countermanding its decisions, and the circumstances and manner in which the Commission may take those measures;
-	- **(h)** respecting the circumstances and manner in which the Commission and its members, officers, employees or agents or a Canadian carrier and its directors, officers, employees and agents may be protected from liability for actions taken by them in order to maintain the carrier’s eligibility;
+	- **(h)** respecting the circumstances and manner in which the Commission and its members, officers or employees, or its agents or mandataries, or a Canadian carrier and its directors, officers and employees, and its agents or mandataries, may be protected from liability for actions taken by them in order to maintain the carrier’s eligibility;
 	- **(i)** defining the words successor and Canadian for the purposes of section 16; and
 	- **(j)** prescribing anything that is to be prescribed and generally for carrying out the purposes and provisions of section 16 and this subsection.
 
@@ -552,7 +554,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Idem**
 
 - **(5)** Proposed regulations that are modified after publication need not be published again under subsection (4).
-> 1993, c. 38, s. 22; 1998, c. 8, s. 5; 1999, c. 31, s. 198(F).
+> 1993, c. 38, s. 22; 1998, c. 8, s. 5; 1999, c. 31, s. 198(F); 2004, c. 25, s. 176.
 
 
 
@@ -941,22 +943,24 @@ who comes into possession of designated information while holding that office or
 
 **46** 
 
-- **(1)** Where, in the opinion of a Canadian carrier, the taking or acquisition by the carrier of any land or an interest in any land without the consent of the owner is required for the purpose of providing telecommunications services to the public, the carrier may, with the approval of the Commission, so advise the appropriate Minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md).
+- **(1)** If, in the opinion of a Canadian carrier, the taking or acquisition by the carrier of any land, an interest or, in the Province of Quebec, a right in any land without the consent of the owner is required for the purpose of providing telecommunications services to the public, the carrier may, with the approval of the Commission, so advise the appropriate Minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md).
 
 **Copies of opinion**
 
-- **(2)** The Commission shall provide a copy of its approval to the Minister, to the appropriate Minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) and to each owner of, or person having an interest in, the land.
+- **(2)** The Commission shall provide a copy of its approval to the Minister, to the appropriate Minister in relation to Part I of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) and to each owner of, or person having an interest or right in, the land.
 
 **Interpretation**
 
-- **(3)** For the purposes of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), where the appropriate Minister advised under subsection (1) is of the opinion that the land or interest in land is required for the purpose of providing telecommunications services to the public,
-	- **(a)** the land or interest in land is deemed to be, in the opinion of that Minister, required for a public work or other public purpose;
+- **(3)** For the purposes of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), if the appropriate Minister advised under subsection (1) is of the opinion that the land or the interest or right in land is required for the purpose of providing telecommunications services to the public,
+	- **(a)** the land or the interest or right in land is deemed to be, in the opinion of that Minister, required for a public work or other public purpose;
 	- **(b)** a reference to the Crown in that Act is deemed to be a reference to the Canadian carrier; and
-	- **(c)** the carrier is liable to pay any amounts required to be paid under subsection 10(9) and sections 25, 29 and 36 of that Act in respect of the land or interest in land.
+	- **(c)** the carrier is liable to pay any amounts required to be paid under subsection 10(9) and sections 25, 29 and 36 of that Act in respect of the land or the interest or right in land.
 
 **Liability to Crown for expenses**
 
-- **(4)** The expenses incurred in carrying out any function of the Attorney General of Canada under the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to any land or interest in land referred to in subsection (3) constitute a debt due to Her Majesty in right of Canada by the Canadian carrier and are recoverable in a court of competent jurisdiction.
+- **(4)** The expenses incurred in carrying out any function of the Attorney General of Canada under the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to any land or any interest or right in land referred to in subsection (3) constitute a debt due to Her Majesty in right of Canada by the Canadian carrier and are recoverable in a court of competent jurisdiction.
+> 1993, c. 38, s. 46; 2004, c. 25, s. 177.
+
 
 
 
@@ -1297,7 +1301,7 @@ who comes into possession of designated information while holding that office or
 
 **66** 
 
-- **(1)** In proceedings under this Act, a document purporting to have been issued by a Canadian carrier or by an agent of a Canadian carrier is admissible in evidence against the carrier without proof of the issuance of the document by the carrier or the authenticity of its contents.
+- **(1)** In proceedings under this Act, a document purporting to have been issued by a Canadian carrier or by an agent or a mandatary of a Canadian carrier is admissible in evidence against the carrier without proof of the issuance of the document by the carrier or the authenticity of its contents.
 
 **Ministerial or Commission documents**
 
@@ -1310,7 +1314,7 @@ who comes into possession of designated information while holding that office or
 **Certificate**
 
 - **(4)** A certificate appearing to be signed by the secretary to the Commission and bearing the Commission’s seal is evidence of its contents without proof of the signature.
-> 1993, c. 38, s. 66; 2001, c. 34, s. 32(E).
+> 1993, c. 38, s. 66; 2001, c. 34, s. 32(E); 2004, c. 25, s. 178.
 
 
 
@@ -1681,28 +1685,28 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 
 - **(2)** If apparatus is ordered to be forfeited under subsection (1), the Minister shall cause a notice of the forfeiture to be published in the Canada Gazette.
 
-**Application by person claiming interest**
+**Application by person claiming interest or right**
 
-- **(3)** Any person, other than a party to the proceedings that resulted in a forfeiture under subsection (1), who claims an interest in the apparatus as owner, mortgagee, hypothecary creditor, holder of a prior claim, lien holder or holder of any like right or interest may, within ninety days after the making of the order of forfeiture, apply to any superior court of competent jurisdiction for an order under subsection (6), in which case the court shall fix a day for the hearing of the application.
+- **(3)** Any person, other than a party to the proceedings that resulted in a forfeiture under subsection (1), who claims an interest or right in the apparatus as owner, mortgagee, hypothecary creditor, lien holder, holder of a prior claim or holder of any like interest or right may, within ninety days after the making of the order of forfeiture, apply to any superior court of competent jurisdiction for an order under subsection (6), in which case the court shall fix a day for the hearing of the application.
 
 **Notice**
 
-- **(4)** The court may find the application abandoned if the applicant does not, at least thirty days before the day fixed for the hearing of the application, serve a notice of the application and of the hearing on the Minister and on all other persons claiming an interest in the apparatus that is the subject-matter of the application as owner, mortgagee, hypothecary creditor, holder of a prior claim, lien holder or holder of any like right or interest of whom the applicant has knowledge.
+- **(4)** The court may find the application abandoned if the applicant does not, at least thirty days before the day fixed for the hearing of the application, serve a notice of the application and of the hearing on the Minister and on all other persons claiming an interest or right in the apparatus that is the subject-matter of the application as owner, mortgagee, hypothecary creditor, lien holder, holder of a prior claim or holder of any like interest or right of whom the applicant has knowledge.
 
 **Notice of intervention**
 
 - **(5)** Every person, other than the Minister, who is served with a notice under subsection (4) must, in order to appear at the hearing of the application, file an appropriate notice of intervention in the record of the court and serve a copy of that notice on the Minister and on the applicant at least ten days before the day fixed for the hearing or any shorter period that the court may allow.
 
-**Order declaring nature and extent of interests**
+**Order declaring nature and extent of interests or rights**
 
-- **(6)** An applicant or intervener is entitled to an order declaring that their interest is not affected by the forfeiture and declaring the nature and extent of their interest and the priority of their interest in relation to other interests recognized under this subsection, and the court may, in addition, order that the apparatus to which the interests relate be delivered to one or more of the persons found to have an interest in the apparatus, or that an amount equal to the value of each of the interests so declared be paid to the persons found to have those interests, if, on the hearing of an application under this section, the court is satisfied that the applicant or intervener
+- **(6)** An applicant or intervener is entitled to an order declaring that their interest or right is not affected by the forfeiture and declaring the nature and extent of their interest or right and the ranking of their interest or right in relation to other interests or rights recognized under this subsection, and the court may, in addition, order that the apparatus to which the interests or rights relate be delivered to one or more of the persons found to have an interest or right in the apparatus, or that an amount equal to the value of each of the interests or rights so declared be paid to the persons found to have those interests or rights, if, on the hearing of an application under this section, the court is satisfied that the applicant or intervener
 	- **(a)** is innocent of any complicity and collusion in any conduct that caused the apparatus to be subject to forfeiture; and
 	- **(b)** in the case of owners, exercised all reasonable care in respect of the persons permitted to obtain possession and use of the apparatus to satisfy themselves that it was not likely to be used in the commission of an offence arising out of a contravention of section 69.2.
 
 **Liability for costs**
 
 - **(7)** Any persons convicted in respect of the forfeited apparatus are jointly and severally, or solidarily, liable for all the costs of inspection, seizure, forfeiture or disposition incurred by Her Majesty that exceed any proceeds of the disposition of the apparatus that have been forfeited to Her Majesty under this section.
-> 1998, c. 8, s. 10; 2001, c. 4, s. 123.
+> 1998, c. 8, s. 10; 2001, c. 4, s. 123; 2004, c. 25, s. 179.
 
 
 
