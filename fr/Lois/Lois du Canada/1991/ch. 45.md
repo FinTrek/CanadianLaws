@@ -219,7 +219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272.
+> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A).
 
 
 
