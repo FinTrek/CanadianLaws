@@ -56,7 +56,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
-> 1997, ch. 40, art. 2; 1999, ch. 3, art. 19.
+> 1997, ch. 40, art. 2; 1999, ch. 3, art. 19; 2002, ch. 7, art. 112(A).
 
 
 
