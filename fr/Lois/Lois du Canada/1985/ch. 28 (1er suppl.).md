@@ -932,7 +932,7 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 
 **Créance de Sa Majesté**
 
-- **(3)** Les pénalités infligées en vertu de l’alinéa (2)d) sont des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant une cour supérieure.
+- **(3)** Les pénalités infligées en vertu de l’alinéa (2) d) sont des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant une cour supérieure.
 
 **Outrage**
 
@@ -944,7 +944,9 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 
 **Définition de cour supérieure**
 
-- **(6)** Au présent article, ***cour supérieure*** a le sens que lui donne le paragraphe 35(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) mais ne vise pas la Cour suprême du Canada.
+- **(6)** Au présent article, ***cour supérieure*** a le sens que lui donne le paragraphe 35(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) mais ne vise pas la Cour suprême du Canada, la Cour d'appel fédérale et la Cour canadienne de l'impôt.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 40; 2002, ch. 8, art. 152.
+
 
 
 
