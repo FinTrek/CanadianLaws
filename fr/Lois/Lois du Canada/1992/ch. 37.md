@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)
 
-# Loi canadienne sur l'évaluation environnementale
+# Loi canadienne sur l’évaluation environnementale
 
 **L.C. 1992, ch. 37**
 
