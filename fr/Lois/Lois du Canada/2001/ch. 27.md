@@ -219,7 +219,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 1** 
-### FORMALITÉS PRÉALABLES À L’ENTRÉE ET SÉLECTION
+### Formalités préalables à l'entrée et sélection
 
 
 
@@ -311,7 +311,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 2** 
-### CONTRÔLE
+### Contrôle
 
 
 
@@ -361,7 +361,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 3** 
-### ENTRÉE ET SÉJOUR AU CANADA
+### Entrée et séjour au Canada
 
 
 
@@ -597,7 +597,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 4** 
-### INTERDICTIONS DE TERRITOIRE
+### Interdictions de territoire
 
 
 
@@ -756,7 +756,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 5** 
-### PERTE DE STATUT ET RENVOI
+### Perte de statut et renvoi
 
 
 
@@ -913,7 +913,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 6** 
-### DÉTENTION ET MISE EN LIBERTÉ
+### Détention et mise en liberté
 
 
 
@@ -1019,7 +1019,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 7** 
-### DROIT D’APPEL
+### Droit d'appel
 
 
 
@@ -1164,7 +1164,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 8** 
-### CONTRÔLE JUDICIAIRE
+### Contrôle judiciaire
 
 
 
@@ -1222,11 +1222,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 9** 
-### EXAMEN DE RENSEIGNEMENTS À PROTÉGER
+### Examen de renseignements à protéger
 
 
 
-#### Examen à la demande du ministre et du solliciteur général
+#### Examen à la demande du ministre et du ministre de la Sécurité publique et de la Protection civile
 
 
 
@@ -1247,12 +1247,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **77** 
 
-- **(1)** Le ministre et le solliciteur général du Canada déposent à la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée pour qu’il en soit disposé au titre de l’article 80.
+- **(1)** Le ministre et le ministre de la Sécurité publique et de la Protection civile déposent à la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée pour qu’il en soit disposé au titre de l’article 80.
 
 **Effet du dépôt**
 
 - **(2)** Il ne peut être procédé à aucune instance visant le résident permanent ou l’étranger au titre de la présente loi tant qu’il n’a pas été statué sur le certificat; n’est pas visée la demande de protection prévue au paragraphe 112(1).
-> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194.
+> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194; 2005, ch. 10, art. 34.
 
 
 
@@ -1271,6 +1271,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **h)** le juge fournit au résident permanent ou à l’étranger, afin de lui permettre d’être suffisamment informé des circonstances ayant donné lieu au certificat, un résumé de la preuve ne comportant aucun élément dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
 - **i)** il donne au résident permanent ou à l’étranger la possibilité d’être entendu sur l’interdiction de territoire le visant;
 - **j)** il peut recevoir et admettre en preuve tout élément qu’il estime utile — même inadmissible en justice — et peut fonder sa décision sur celui-ci.
+> 2001, ch. 27, art. 78; 2005, ch. 10, art. 34(A).
+
 
 
 
@@ -1323,11 +1325,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **82** 
 
-- **(1)** Le ministre et le solliciteur général du Canada peuvent lancer un mandat pour l’arrestation et la mise en détention du résident permanent visé au certificat dont ils ont des motifs raisonnables de croire qu’il constitue un danger pour la sécurité nationale ou la sécurité d’autrui ou qu’il se soustraira vraisemblablement à la procédure ou au renvoi.
+- **(1)** Le ministre et le ministre de la Sécurité publique et de la Protection civile peuvent lancer un mandat pour l’arrestation et la mise en détention du résident permanent visé au certificat dont ils ont des motifs raisonnables de croire qu’il constitue un danger pour la sécurité nationale ou la sécurité d’autrui ou qu’il se soustraira vraisemblablement à la procédure ou au renvoi.
 
 **Détention obligatoire**
 
 - **(2)** L’étranger nommé au certificat est mis en détention sans nécessité de mandat.
+> 2001, ch. 27, art. 82; 2005, ch. 10, art. 34.
+
 
 
 
@@ -1404,7 +1408,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 10** 
-### DISPOSITIONS GÉNÉRALES
+### Dispositions générales
 
 
 
@@ -1520,7 +1524,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 1** 
-### NOTIONS D’ASILE, DE RÉFUGIÉ ET DE PERSONNE À PROTÉGER
+### Notions d’asile, de réfugié et de personne à protéger
 
 
 
@@ -1576,7 +1580,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 2** 
-### RÉFUGIÉS ET PERSONNES À PROTÉGER
+### Réfugiés et personnes à protéger
 
 
 
@@ -1858,7 +1862,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 3** 
-### EXAMEN DES RISQUES AVANT RENVOI
+### Examen des risques avant renvoi
 
 
 
