@@ -78,7 +78,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **International obligations**
 
-- **(2)** The provisions of the Agreement respecting Canada's international legal obligations may be invoked only by a party to the Agreement.
+- **(2)** The provisions of the Agreement respecting Canada’s international legal obligations may be invoked only by a party to the Agreement.
 
 
 
@@ -201,9 +201,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Deposit of Agreement and amendments**
 
 **15** The Minister of Indian Affairs and Northern Development shall have a copy of the Agreement and of every amendment made to the Agreement, certified by the Minister to be a true copy, deposited in
-- **(a)** the National Archives of Canada;
+- **(a)** the Library and Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region; and
 - **(c)** the office of that Department situated nearest to Westbank lands.
+> 2004, c. 17, ss. 15, 21.
+
 
 
 
@@ -260,6 +262,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#W-6.2_e_22'>[*]</a></sup>**22** The provisions of this Act, other than sections 20 and 21, come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='W-6.2_e_22'><sup>*</sup></a>: [Note: Sections 20 and 21 in force on assent May 6, 2004.]<br />
+<a name='W-6.2_e_22'><sup>*</sup></a>: [Note: Sections 20 and 21 in force on assent May 6, 2004; Act, other than sections 20 and 21, in force April 1, 2005, *see* SI/2005-18.]<br />
 
 
