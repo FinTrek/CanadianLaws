@@ -74,6 +74,9 @@ and includes a museum;
 ***Commissioner*** means the Commissioner of Firearms appointed under section 81.1;
 
 
+ 
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+
 ***customs office*** has the meaning assigned by subsection 2(1) of the 
 [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 
@@ -124,7 +127,7 @@ and includes a museum;
 **Aboriginal and treaty rights**
 
 - **(3)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing aboriginal or treaty rights of the aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
-> 1995, c. 39, s. 2; 2001, c. 4, s. 85; 2003, c. 8, s. 9
+> 1995, c. 39, s. 2; 2000, c. 12, s. 116; 2001, c. 4, s. 85; 2003, c. 8, s. 9
 
 
 
