@@ -827,7 +827,7 @@ the justice or youth justice court before which the hearing, trial or review is 
 - **(3)** When a young person is not represented by counsel, the youth justice court, before accepting a plea, shall
 	- **(a)** satisfy itself that the young person understands the charge;
 	- **(b)** if the young person is liable to an adult sentence, explain to the young person the consequences of being liable to an adult sentence and the procedure by which the young person may apply for an order that a youth sentence be imposed; and
-	- **(c)** explain that the young person may plead guilty or not guilty to the charge or, if subsection 67(1) (election of court for trial — adult sentence) or (3) (election of court for trial in Nunavut — adult sentence) applies, explain that the young person may elect to be tried by a youth justice court judge without a jury and without having a preliminary inquiry, or to have a preliminary inquiry and be tried by a judge without a jury, or to have a preliminary inquiry and be tried by a court composed of a judge and jury.
+	- **(c)** explain that the young person may plead guilty or not guilty to the charge or, if subsection 67(1) (election of court for trial — adult sentence) or (3) (election of court for trial in Nunavut — adult sentence) applies, explain that the young person may elect to be tried by a youth justice court judge without a jury and without having a preliminary inquiry, or to have a preliminary inquiry and be tried by a judge without a jury, or to have a preliminary inquiry and be tried by a court composed of a judge and jury and, in either of the latter two cases, a preliminary inquiry will only be conducted if requested by the young person or the prosecutor.
 
 **If youth justice court not satisfied**
 
@@ -836,6 +836,8 @@ the justice or youth justice court before which the hearing, trial or review is 
 **If youth justice court not satisfied**
 
 - **(5)** If the youth justice court is not satisfied that a young person understands the matters set out in subsection (3), the court shall direct that the young person be represented by counsel.
+> 2002, c. 1, s. 32, c. 13, s. 91.
+
 
 
 
@@ -1833,7 +1835,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 **Wording of election**
 
-- **(2)** The youth justice court shall put the young person to his or her election in the following words:You have the option to elect to be tried by a youth justice court judge without a jury and without having had a preliminary inquiry; or you may elect to have a preliminary inquiry and to be tried by a judge without a jury; or you may elect to have a preliminary inquiry and to be tried by a court composed of a judge and jury. If you do not elect now, you shall be deemed to have elected to have a preliminary inquiry and to be tried by a court composed of a judge and jury. How do you elect to be tried?
+- **(2)** The youth justice court shall put the young person to his or her election in the following words:You have the option to elect to be tried by a youth justice court judge without a jury and without having had a preliminary inquiry; or you may elect to be tried by a judge without a jury; or you may elect to be tried by a court composed of a judge and jury. If you do not elect now, you are deemed to have elected to be tried by a court composed of a judge and jury. If you elect to be tried by a judge without a jury or by a court composed of a judge and jury or if you are deemed to have elected to be tried by a court composed of a judge and jury, you will have a preliminary inquiry only if you or the prosecutor requests one. How do you elect to be tried?
 
 
 
@@ -1847,7 +1849,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 **Wording of election**
 
-- **(4)** The youth justice court shall put the young person to his or her election in the following words:You have the option to elect to be tried by a judge of the Nunavut Court of Justice alone, acting as a youth justice court without a jury and without a preliminary inquiry; or you may elect to have a preliminary inquiry and to be tried by a judge of the Nunavut Court of Justice, acting as a youth justice court without a jury; or you may elect to have a preliminary inquiry and to be tried by a judge of the Nunavut Court of Justice, acting as a youth justice court with a jury. If you do not elect now, you shall be deemed to have elected to have a preliminary inquiry and to be tried by a court composed of a judge and jury. How do you elect to be tried?
+- **(4)** The youth justice court shall put the young person to his or her election in the following words:You have the option to elect to be tried by a judge of the Nunavut Court of Justice alone, acting as a youth justice court without a jury and without a preliminary inquiry; or you may elect to be tried by a judge of the Nunavut Court of Justice, acting as a youth justice court without a jury; or you may elect to be tried by a judge of the Nunavut Court of Justice, acting as a youth justice court with a jury. If you elect to be tried by a judge without a jury or by a judge, acting as a youth justice court, with a jury or if you are deemed to have elected to be tried by a judge, acting as a youth justice court, with a jury, you will have a preliminary inquiry only if you or the prosecutor requests one. How do you elect to be tried?
 
 
 
@@ -1855,7 +1857,7 @@ The periods in custody and under supervision in the community may be changed if 
 
 - **(5)** When two or more young persons who are charged with the same offence, who are jointly charged in the same information or indictment or in respect of whom the Attorney General seeks joinder of counts that are set out in separate informations or indictments are put to their election, then, unless all of them elect or re-elect or are deemed to have elected, as the case may be, the same mode of trial, the youth justice court judge
 	- **(a)** may decline to record any election, re-election or deemed election for trial by a youth justice court judge without a jury, a judge without a jury or, in Nunavut, a judge of the Nunavut Court Justice without a jury; and
-	- **(b)** if the judge declines to do so, shall hold a preliminary inquiry unless a preliminary inquiry has been held prior to the election, re-election or deemed election.
+	- **(b)** if the judge declines to do so, shall hold a preliminary inquiry, if requested to do so by one of the parties, unless a preliminary inquiry has been held prior to the election, re-election or deemed election.
 
 **Attorney General may require trial by jury**
 
@@ -1863,9 +1865,17 @@ The periods in custody and under supervision in the community may be changed if 
 
 **Preliminary inquiry**
 
-- **(7)** When a young person elects to be tried by a judge without a jury, or elects or is deemed to have elected to be tried by a court composed of a judge and jury, the youth justice court referred to in subsection 13(1) shall conduct a preliminary inquiry and if, on its conclusion, the young person is ordered to stand trial, the proceedings shall be conducted
+- **(7)** When a young person elects to be tried by a judge without a jury, or elects or is deemed to have elected to be tried by a court composed of a judge and jury, the youth justice court referred to in subsection 13(1) shall, on the request of the young person or the prosecutor made at that time or within the period fixed by rules of court made under section 17 or 155 or, if there are no such rules, by the youth justice court judge, conduct a preliminary inquiry and if, on its conclusion, the young person is ordered to stand trial, the proceedings shall be conducted
 	- **(a)** before a judge without a jury or a court composed of a judge and jury, as the case may be; or
 	- **(b)** in Nunavut, before a judge of the Nunavut Court of Justice acting as a youth justice court, with or without a jury, as the case may be.
+
+**Preliminary inquiry if two or more accused**
+
+- **(7.1)** If two or more young persons are jointly charged in an information and one or more of them make a request for a preliminary inquiry under subsection (7), a preliminary inquiry must be held with respect to all of them.
+
+**When no request for preliminary inquiry**
+
+- **(7.2)** If no request for a preliminary inquiry is made under subsection (7), the youth justice court shall fix the date for the trial or the date on which the young person must appear in the trial court to have the date fixed.
 
 **Preliminary inquiry provisions of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
@@ -1876,6 +1886,8 @@ The periods in custody and under supervision in the community may be changed if 
 - **(9)** Proceedings under this Act before a judge without a jury or a court composed of a judge and jury or, in Nunavut, a judge of the Nunavut Court of Justice acting as a youth justice court, with or without a jury, as the case may be, shall be conducted in accordance with the provisions of Parts XIX (indictable offences — trial without jury) and XX (procedure in jury trials and general provisions) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any modifications that the circumstances require, except that
 	- **(a)** the provisions of this Act respecting the protection of privacy of young persons prevail over the provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
 	- **(b)** the young person is entitled to be represented in court by counsel if the young person is removed from court in accordance with subsection 650(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2002, c. 1, s. 67, c. 13, s. 91.
+
 
 
 
