@@ -38,40 +38,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Attorney General*** means the Attorney General of Canada.
+***Attorney General*** means the Attorney General of Canada. (*procureur général*)
 
-***court*** means
+***court*** means
 - **(a)** in Ontario, the Ontario Court (General Division);
 - **(b)** in Quebec, the Superior Court;
 - **(c)** in New Brunswick, Manitoba, Alberta and Saskatchewan, the Court of Queen’s Bench;
-- **(d)** in Nova Scotia, British Columbia, the Northwest Territories, the Yukon Territory and Nunavut, the Supreme Court; and
-- **(e)** in Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court.
+- **(d)** in Nova Scotia, British Columbia, Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice; and
+- **(e)** in Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court. (*tribunal*)
 
-***court of appeal*** means
+***court of appeal*** means
 - **(a)** in the Province of Prince Edward Island, the Appeal Division of the Supreme Court; and
-- **(b)** in all other provinces, the Court of Appeal.
+- **(b)** in all other provinces, the Court of Appeal. (*cour d’appel*)
 
-***extradition agreement*** means an agreement that is in force, to which Canada is a party and that contains a provision respecting the extradition of persons, other than a specific agreement.
+***extradition agreement*** means an agreement that is in force, to which Canada is a party and that contains a provision respecting the extradition of persons, other than a specific agreement. (*accord*)
 
-***extradition partner*** means a State or entity with which Canada is party to an extradition agreement, with which Canada has entered into a specific agreement or whose name appears in the schedule.
+***extradition partner*** means a State or entity with which Canada is party to an extradition agreement, with which Canada has entered into a specific agreement or whose name appears in the schedule. (*partenaire*)
 
-***International Criminal Court*** means the International Criminal Court as defined in subsection 2(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md).
+***International Criminal Court*** means the International Criminal Court as defined in subsection 2(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md). (*Cour pénale internationale*)
 
-***judge*** means a judge of the court.
+***judge*** means a judge of the court. (*juge*)
 
-***justice*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***justice*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*juge de paix*)
 
-***Minister*** means the Minister of Justice.
+***Minister*** means the Minister of Justice. (*ministre*)
 
-***specific agreement*** means an agreement referred to in section 10 that is in force.
+***specific agreement*** means an agreement referred to in section 10 that is in force. (*accord spécifique*)
 
-***State or entity*** means
+***State or entity*** means
 - **(a)** a State other than Canada;
 - **(b)** a province, state or other political subdivision of a State other than Canada;
 - **(c)** a colony, dependency, possession, protectorate, condominium, trust territory or any territory falling under the jurisdiction of a State other than Canada;
 - **(d)** an international criminal court or tribunal; or
-- **(e)** a territory.
-> 1999, c. 18, s. 2; 2000, c. 24, s. 47.
+- **(e)** a territory. (*État ou entité*)
+> 1999, c. 18, s. 2; 2000, c. 24, s. 47; 2002, c. 7, s. 169.
 
 
 
@@ -834,9 +834,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **47** The Minister may refuse to make a surrender order if the Minister is satisfied that
 - **(a)** the person would be entitled, if that person were tried in Canada, to be discharged under the laws of Canada because of a previous acquittal or conviction;
 - **(b)** the person was convicted in their absence and could not, on surrender, have the case reviewed;
-- **(c)** the person was under the age of 18 years at the time of the offence and the law that applies to them in the territory over which the extradition partner has jurisdiction is not consistent with the fundamental principles governing the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md);
+- **(c)** the person was less than eighteen years old at the time of the offence and the law that applies to them in the territory over which the extradition partner has jurisdiction is not consistent with the fundamental principles governing the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
 - **(d)** the conduct in respect of which the request for extradition is made is the subject of criminal proceedings in Canada against the person; or
 - **(e)** none of the conduct on which the extradition partner bases its request occurred in the territory over which the extradition partner has jurisdiction.
+> 1999, c. 18, s. 47; 2002, c. 1, s. 190.
+
 
 
 
@@ -1362,10 +1364,12 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 **Definition of competent authority**
 
 **77** In this Part, ***competent authority*** means
-- **(a)** in respect of a prosecution or imposition of a sentence — or of a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) — the Attorney General, or the Attorney General of a province who is responsible for the prosecution of the case; and
-- **(b)** in respect of the enforcement of a sentence or a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md),
+- **(a)** in respect of a prosecution or imposition of a sentence — or of a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985 — the Attorney General, or the Attorney General of a province who is responsible for the prosecution of the case; and
+- **(b)** in respect of the enforcement of a sentence or a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985,
 	- **(i)** the Solicitor General of Canada, if the person would serve the sentence in a penitentiary, or
 	- **(ii)** the appropriate provincial minister responsible for corrections, in any other case.
+> 1999, c. 18, s. 77; 2002, c. 1, s. 191.
+
 
 
 
@@ -1374,11 +1378,13 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 
 **78** 
 
-- **(1)** The Minister, at the request of a competent authority, may make a request to a State or entity for the extradition of a person for the purpose of prosecuting the person for — or imposing or enforcing a sentence, or making or enforcing a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), in respect of — an offence over which Canada has jurisdiction.
+- **(1)** The Minister, at the request of a competent authority, may make a request to a State or entity for the extradition of a person for the purpose of prosecuting the person for — or imposing or enforcing a sentence, or making or enforcing a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, in respect of — an offence over which Canada has jurisdiction.
 
 **Request for provisional arrest**
 
 - **(2)** The Minister, at the request of a competent authority, may make a request to a State or entity for the provisional arrest of the person.
+> 1999, c. 18, s. 78; 2002, c. 1, s. 192.
+
 
 
 
@@ -1403,11 +1409,13 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 **Specialty if person is in Canada**
 
 **80** Subject to a relevant extradition agreement, a person who has been extradited to Canada by a requested State or entity shall not, unless the person has voluntarily left Canada after surrender or has had a reasonable opportunity of leaving Canada,
-- **(a)** be detained or prosecuted, or have a sentence imposed or executed, or a disposition made or executed under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), in Canada in respect of an offence that is alleged to have been committed, or was committed, before surrender other than
+- **(a)** be detained or prosecuted, or have a sentence imposed or executed, or a disposition made or executed under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, in Canada in respect of an offence that is alleged to have been committed, or was committed, before surrender other than
 	- **(i)** the offence in respect of which the person was surrendered or an included offence,
 	- **(ii)** another offence in respect of which the requested State or entity consents to the person being detained or prosecuted, or
 	- **(iii)** another offence in respect of which the person consents to being detained or prosecuted; or
 - **(b)** be detained in Canada for the purpose of being surrendered to another State or entity for prosecution or for imposition or execution of a sentence in respect of an offence that is alleged to have been committed, or was committed, before surrender to Canada, unless the requested State or entity consents.
+> 1999, c. 18, s. 80; 2002, c. 1, s. 193.
+
 
 
 
@@ -1471,11 +1479,11 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 
 
 
-**Commencement of sentence or disposition**
+**Commencement of sentence**
 
 **83** 
 
-- **(1)** Subject to subsection (3), the sentence or disposition of a person who has been temporarily surrendered and who has been convicted and sentenced in Canada, or in respect of whom a disposition has been made under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), does not commence until their final extradition to Canada.
+- **(1)** Subject to subsection (3), the sentence or disposition of a person who has been temporarily surrendered and who has been convicted and sentenced, or found guilty and sentenced, in Canada, or in respect of whom a disposition has been made under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, does not commence until their final extradition to Canada.
 
 **Warrant of committal**
 
@@ -1483,7 +1491,9 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 
 **If concurrent sentences ordered**
 
-- **(3)** The sentencing judge may order that the person’s sentence, or the disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), be executed concurrently with the sentence they are serving in the requested State or entity, in which case the warrant of committal or order of disposition shall state that the person is to be committed to custody under subsection (2) only for any portion of the sentence remaining at the time of their final extradition to Canada or that the young person’s disposition is to begin only on their final extradition to Canada.
+- **(3)** The sentencing judge may order that the person’s sentence, or the disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, be executed concurrently with the sentence they are serving in the requested State or entity, in which case the warrant of committal or order of disposition shall state that the person is to be committed to custody under subsection (2) only for any portion of the sentence or disposition remaining at the time of their final extradition to Canada.
+> 1999, c. 18, s. 83; 2002, c. 1, s. 194.
+
 
 
 
