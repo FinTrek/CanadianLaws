@@ -265,6 +265,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Par dérogation au paragraphe (2), le ministre peut, dans l’exercice des attributions que lui confère l’alinéa 6b), publier la liste des noms et adresses de plusieurs ou de l’ensemble des importateurs ou exportateurs d’un produit ou groupe de produits à valeur commerciale globalisée, en veillant toutefois à protéger le caractère confidentiel des données sur un importateur ou exportateur en particulier.
+> 1995, ch. 1, art. 16; 2003, ch. 22, art. 224(A).
+
 
 
 
