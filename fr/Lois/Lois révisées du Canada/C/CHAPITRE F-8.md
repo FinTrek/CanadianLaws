@@ -78,8 +78,8 @@
 
 **Paiements de péréquation**
 
-**3** Sous réserve des autres dispositions de la présente loi, le ministre peut verser à une province, pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2004, un paiement de péréquation n’excédant pas le montant calculé en conformité avec l’article 4.
-> L.R. (1985), ch. F-8, art. 3; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 2; 1992, ch. 10, art. 2; 1994, ch. 2, art. 1; 1999, ch. 11, art. 1.
+**3** Sous réserve des autres dispositions de la présente loi, le ministre peut verser à une province, pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2005, un paiement de péréquation n'excédant pas le montant calculé en conformité avec l'article 4.
+> L.R. (1985), ch. F-8, art. 3; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 2; 1992, ch. 10, art. 2; 1994, ch. 2, art. 1; 1999, ch. 11, art. 1; 2004, ch. 4, art. 1.
 
 
 
@@ -193,7 +193,7 @@
 
 **Paiement minimal dans certains cas**
 
-- **(6)** Malgré les paragraphes (1) à (5) et sous réserve du paragraphe (9), le paiement de péréquation qui peut être fait à une province pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2004, si la province a reçu un paiement de péréquation pour l’exercice précédent, ne peut être inférieur au plus élevé des nombres suivants :
+- **(6)** Malgré les paragraphes (1) à (5) et sous réserve du paragraphe (9), le paiement de péréquation qui peut être fait à une province pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2005, si la province a reçu un paiement de péréquation pour l’exercice précédent, ne peut être inférieur au plus élevé des nombres suivants :
 	- **a)** ce que serait le montant du paiement de péréquation de l’exercice précédent s’il n’était pas tenu compte du présent paragraphe, diminué du montant déterminant pour l’exercice en cours;
 	- **b)** zéro.
 
@@ -230,7 +230,7 @@
 - **(12)** Malgré la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md) ou de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve, lorsqu’une province effectue ce choix, le paiement de péréquation compensatoire qui lui serait payable au titre de ces lois est, pour l’exercice, égal à zéro.
 
 - **(13)** [Abrogé, 1999, ch. 11, art. 2]
-> L.R. (1985), ch. F-8, art. 4; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 3; 1992, ch. 10, art. 3; 1994, ch. 2, art. 2; 1999, ch. 11, art. 2; 2001, ch. 19, art. 1; 2003, ch. 15, art. 3.
+> L.R. (1985), ch. F-8, art. 4; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 3; 1992, ch. 10, art. 3; 1994, ch. 2, art. 2; 1999, ch. 11, art. 2; 2001, ch. 19, art. 1; 2003, ch. 15, art. 3; 2004, ch. 4, art. 2.
 
 
 
@@ -661,9 +661,9 @@ sur
 	- **c)** appliquer la norme nationale, énoncée à l’article 19, prévoyant qu’aucun délai minimal de résidence ne peut être exigé ou permis en ce qui concerne l’assistance sociale;
 	- **d)** promouvoir les principes et objectifs communs élaborés en application du paragraphe (3) à l’égard de programmes sociaux autres qu’un programme visant les fins énoncées à l’alinéa b).
 
-**Contribution au titre des éléments du Transfert visés aux al. 14c) et d)**
+**Contribution au titre des éléments du Transfert visés aux al. 14c), d) et i)**
 
-- **(2)** Sous réserve de la présente partie, il est versé aux provinces une contribution au titre des éléments du Transfert canadien en matière de santé et de programmes sociaux visés aux alinéas 14c) et d) aux fins mentionnées à l’alinéa (1)b) et pour contribuer à fournir aux Canadiens le meilleur système de soins de santé possible et à mettre des renseignements sur le système de santé à la disposition des Canadiens.
+- **(2)** Sous réserve de la présente partie, il est versé aux provinces, aux fins prévues à l'alinéa (1)b), une contribution au titre des éléments du Transfert canadien en matière de santé et de programmes sociaux visés aux alinéas 14c), d) et i). La contribution vise également à fournir aux Canadiens le meilleur système de soins de santé possible et à mettre à leur disposition des renseignements sur celui-ci.
 
 **Dialogue**
 
@@ -672,7 +672,7 @@ sur
 **Assimilation**
 
 - **(4)** Au présent article, sont assimilés à des programmes sociaux les programmes de santé, d’éducation postsecondaire, d’assistance sociale et de services sociaux, y compris le développement de la petite enfance, les services éducatifs pour la petite enfance et les services de garde d’enfants.
-> L.R. (1985), ch. F-8, art. 13; 1995, ch. 17, art. 48; 1999, ch. 26, art. 3; 2000, ch. 14, art. 12, ch. 35, art. 5; 2003, ch. 15, art. 3.1.
+> L.R. (1985), ch. F-8, art. 13; 1995, ch. 17, art. 48; 1999, ch. 26, art. 3; 2000, ch. 14, art. 12, ch. 35, art. 5; 2003, ch. 15, art. 3.1; 2004, ch. 4, art. 3.
 
 
 
@@ -695,8 +695,9 @@ sur
 	- **(ii)** 3,6 milliards de dollars pour l’exercice commençant le 1<sup>er</sup> avril 2002,
 	- **(iii)** 4,325 milliards de dollars pour l’exercice commençant le 1<sup>er</sup> avril 2003;
 	- **(iv) et (v)** [Abrogés, 2003, ch. 15, art. 4]
-- **h)** une contribution pécuniaire égale à 2,5 milliards de dollars qui sera payée à la fiducie visée à l’article 16.3.
-> L.R. (1985), ch. F-8, art. 14; 1995, ch. 17, art. 48; 1999, ch. 26, art. 4; 2000, ch. 14, art. 13, ch. 35, art. 6; 2003, ch. 15, art. 4.
+- **h)** une contribution pécuniaire égale à 2,5 milliards de dollars qui sera payée à la fiducie visée à l’article 16.3;
+- **i)**  une contribution pécuniaire égale à 2 milliards de dollars qui sera payée aux fiducies visées à l’article 16.4.
+> L.R. (1985), ch. F-8, art. 14; 1995, ch. 17, art. 48; 1999, ch. 26, art. 4; 2000, ch. 14, art. 13, ch. 35, art. 6; 2003, ch. 15, art. 4; 2004, ch. 4, art. 4.
 
 
 
@@ -706,19 +707,19 @@ sur
 
 **15** 
 
-- **(1)** La quote-part de la contribution pécuniaire visée à l’alinéa 14b) qui peut être versée à une province pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2004 correspond au résultat du calcul suivant :
+- **(1)** La quote-part de la contribution pécuniaire visée à l’alinéa 14b) qui peut être versée à une province pour chaque exercice compris entre le 1<sup>er</sup> avril 1999 et le 31 mars 2004 correspond au résultat du calcul suivant :
 ```
 F × [(G × H/J) + (1 - G) × K/L] - M
 ```
 où :
 - **F** représente la somme des montants visés aux alinéas 14a) et b) pour l’exercice;
-- **G** les nombres suivants pour les exercices ci-après :
-- **a)** l’exercice commençant le 1<sup>er</sup> avril 1999 : 0,3,
-- **b)** l’exercice commençant le 1<sup>er</sup> avril 2000 : 0,25,
-- **c)** chaque exercice compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004 : 0,0;
-- **H** le produit obtenu par multiplication du montant visé à l’alinéa a) par le quotient visé à l’alinéa b) :
+- **G** les nombres suivants pour les exercices ci-après :
+- **a)** l’exercice commençant le 1<sup>er</sup> avril 1999 : 0,3,
+- **b)** l’exercice commençant le 1<sup>er</sup> avril 2000 : 0,25,
+- **c)** chaque exercice compris entre le 1<sup>er</sup> avril 2001 et le 31 mars 2004 : 0,0;
+- **H** le produit obtenu par multiplication du montant visé à l’alinéa a) par le quotient visé à l’alinéa b) :
 - **a)** le montant total visé au sous-alinéa 15(4)b)(i) — dans sa version au 31 mars 1999 — qui peut être versé à la province,
-- **b)** le quotient obtenu par division du nombre visé au sous-alinéa (i) par le nombre visé au sous-alinéa (ii) :
+- **b)** le quotient obtenu par division du nombre visé au sous-alinéa (i) par le nombre visé au sous-alinéa (ii) :
 - **(i)** la population de la province pour l’exercice,
 - **(ii)** la population de la province pour l’exercice commençant le 1<sup>er</sup> avril 1995;
 - **J** le total des valeurs de l’élément H pour l’exercice pour l’ensemble des provinces;
@@ -728,7 +729,7 @@ où :
 
 **Territoires du Nord-Ouest et Nunavut**
 
-- **(2)** Pour le calcul visé au paragraphe (1), le montant prévu à l’alinéa a) de l’élément H correspond :
+- **(2)** Pour le calcul visé au paragraphe (1), le montant prévu à l’alinéa a) de l’élément H correspond :
 	- **a)** s’agissant des Territoires du Nord-Ouest, au montant total visé au sous-alinéa 15(4)b)(i) — dans sa version au 31 mars 1999 — qui peut être versé aux Territoires du Nord-Ouest multiplié par 0,56843;
 	- **b)** s’agissant du Nunavut, au montant total visé au sous-alinéa 15(4)b)(i) — dans sa version au 31 mars 1999 — qui peut être versé aux Territoires du Nord-Ouest multiplié par 0,43157.
 
@@ -747,7 +748,11 @@ où :
 **Quote-part d’une province — contribution pécuniaire visée à l’al. 14h)**
 
 - **(6)** La quote-part de la contribution pécuniaire visée à l’alinéa 14h) qui peut être versée à une province est déterminée en conformité avec les modalités énoncées dans l’acte établissant la fiducie visée à l’article 16.3.
-> L.R. (1985), ch. F-8, art. 15; L.R. (1985), ch. 26 (2<sup>e</sup> suppl.), art. 1; 1995, ch. 17, art. 48; 1996, ch. 18, art. 49; 1998, ch. 19, art. 285.1; 1999, ch. 26, art. 4; 2000, ch. 14, art. 14; 2003, ch. 15, art. 5.
+
+**Quote-part d’une province — contribution pécuniaire visée à l’al. 14i)**
+
+- **(7)** La quote-part de la contribution pécuniaire visée à l’alinéa 14i) qui peut être versée à la fiducie établie à l’égard d’une province correspond au produit obtenu par multiplication de cette contribution par le quotient obtenu par division de la population de la province pour l’exercice par la population totale des provinces pour l’exercice.
+> L.R. (1985), ch. F-8, art. 15; L.R. (1985), ch. 26 (2<sup>e</sup> suppl.), art. 1; 1995, ch. 17, art. 48; 1996, ch. 18, art. 49; 1998, ch. 19, art. 285.1; 1999, ch. 26, art. 4; 2000, ch. 14, art. 14; 2003, ch. 15, art. 5; 2004, ch. 4, art. 5.
 
 
 
@@ -817,18 +822,31 @@ où :
 
 
 
+**Paiements à des fiducies : Transfert canadien supplémentaire en matière de santé et de programmes sociaux**
+
+**16.4** Le ministre peut faire des paiements directs totalisant 2 milliards de dollars à des fiducies établies en vue de fournir du financement aux provinces aux fins prévues au paragraphe 13(2).
+> 2004, ch. 4, art. 6.
+
+
+
+
+
 **Paiements**
 
 **17** 
 
 - **(1)** Le ministre prélève, sur le Trésor, selon les échéances et les modalités prévues par règlement, les montants payables au titre de la présente partie.
 
+**Paiements à une fiducie**
+
+- **(1.1)** Malgré le paragraphe (1), le ministre prélève sur le Trésor, selon les échéances et les modalités qu’il estime indiquées dans les circonstances, les sommes à payer à une fiducie au titre de la présente partie.
+
 **Réduction et retenue**
 
 - **(2)** Sont appliquées à la quote-part d’une province au titre des paragraphes 15(1) ou (4) :
 	- **a)** les réductions et les retenues ordonnées par le gouverneur en conseil en vertu des articles 15 ou 16 de la [Loi canadienne sur la santé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-6.md) ou, dans le cas uniquement de la quote-part au titre du paragraphe 15(1), des articles 21 ou 22 de la présente loi;
 	- **b)** les déductions effectuées en vertu de l’article 20 de la [Loi canadienne sur la santé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-6.md).
-> L.R. (1985), ch. F-8, art. 17; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 7; 1995, ch. 17, art. 50; 1999, ch. 26, art. 6.
+> L.R. (1985), ch. F-8, art. 17; L.R. (1985), ch. 11 (3<sup>e</sup> suppl.), art. 7; 1995, ch. 17, art. 50; 1999, ch. 26, art. 6; 2004, ch. 4, art. 7.
 
 
 
