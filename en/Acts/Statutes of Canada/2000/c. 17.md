@@ -853,7 +853,9 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Accident compensation**
 
-**44** The Director and the employees of the Centre are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+**44** The Director and the employees of the Centre are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2000, c. 17, s. 44; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -912,15 +914,17 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Right of employer**
 
-- **(2)** Nothing in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) shall be construed so as to affect the right or authority of the Director to deal with the matters referred to in paragraph (1)(b).
+- **(2)** Nothing in the Public Service Labour Relations Act shall be construed so as to affect the right or authority of the Director to deal with the matters referred to in paragraph (1)(b).
 
-**Personnel management**
+**Human resources management**
 
-- **(3)** Subsection 11(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply to the Centre, and the Director may
+- **(3)** Subsections 11.1(1) and 12(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the Centre, and the Director may
 	- **(a)** determine the organization of and classify the positions in the Centre;
 	- **(b)** set the terms and conditions of employment for employees, including termination of employment for cause, and assign to them their duties;
-	- **(c)** notwithstanding section 56 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), in accordance with the mandate approved by the Treasury Board, fix the remuneration of the employees of the Centre; and
-	- **(d)** provide for any other matters that the Director considers necessary for effective personnel management in the Centre.
+	- **(c)** notwithstanding section 112 of the Public Service Labour Relations Act, in accordance with the mandate approved by the Treasury Board, fix the remuneration of the employees of the Centre; and
+	- **(d)** provide for any other matters that the Director considers necessary for effective human resources management in the Centre.
+> 2000, c. 17, s. 49; 2003, c. 22, ss. 190, 223(A).
+
 
 
 
@@ -938,7 +942,9 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Authority to provide services**
 
-**51** When a department or other portion of the public service of Canada specified in Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) is authorized to provide services to another department or portion of the public service of Canada specified in that Schedule, it may enter into an agreement to provide those services to the Centre if it considers it appropriate to do so.
+**51** When a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) is authorized to provide services to another department in or portion of the federal public administration specified in one of those Schedules, it may enter into an agreement to provide those services to the Centre if it considers it appropriate to do so.
+> 2000, c. 17, s. 51; 2003, c. 22, s. 191.
+
 
 
 
@@ -1517,7 +1523,9 @@ The order must be complied with within the period following the service of the o
 
 **Choice of service providers**
 
-**67** Despite section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Centre may, with the approval of the Governor in Council given on the recommendation of the Treasury Board, procure goods and services, including legal services, from outside the public service of Canada.
+**67** Despite section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the Centre may, with the approval of the Governor in Council given on the recommendation of the Treasury Board, procure goods and services, including legal services, from outside the federal public administration.
+> 2000, c. 17, s. 67; 2003, c. 22, s. 224(E).
+
 
 
 
