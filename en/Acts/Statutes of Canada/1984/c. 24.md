@@ -11,7 +11,7 @@ Assented to on 28 June 1984
 
 
 
-WHEREAS the Committee for Original Peoples’ Entitlement and the Government of Canada have entered into an Agreement respecting certain lands in the Northwest Territories and Yukon Territory in and to which the Inuvialuit have claimed an interest based on traditional use and occupancy;
+WHEREAS the Committee for Original Peoples’ Entitlement and the Government of Canada have entered into an Agreement respecting certain lands in the Northwest Territories and Yukon in and to which the Inuvialuit have claimed an interest based on traditional use and occupancy;
 
 AND WHEREAS, in exchange for the surrender of that interest, the Government of Canada has assumed certain obligations under the Agreement in favour of the Inuvialuit of the Inuvialuit Settlement Region;
 
@@ -27,6 +27,8 @@ AND WHEREAS it is expedient that Parliament approve, give effect to and declare 
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 1984, c. 24, Preamble; 2002, c. 7, s. 249..
 
 
 
@@ -51,16 +53,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** In this Act,
 
-***Agreement*** means the agreement between the Committee for Original Peoples’ Entitlement, representing the Inuvialuit of the Inuvialuit Settlement Region, and the Government of Canada dated June 5, 1984, tabled in the House of Commons for the Minister of Indian Affairs and Northern Development on June 19, 1984 and recorded as document number 322-7/20 and includes an Amending Agreement;
+***Agreement*** means the agreement between the Committee for Original Peoples’ Entitlement, representing the Inuvialuit of the Inuvialuit Settlement Region, and the Government of Canada dated June 5, 1984, tabled in the House of Commons for the Minister of Indian Affairs and Northern Development on June 19, 1984 and recorded as document number 322-7/20 and includes an Amending Agreement; (*Convention*)
 
-***Amending Agreement*** means
+***Amending Agreement*** means
 - **(a)** the Amending Agreement between the Inuvialuit Regional Corporation, representing the Inuvialuit, and the Government of Canada, approved by Order in Council P.C. 1985-1144, tabled in the House of Commons for the Minister of Indian Affairs and Northern Development on December 14, 1987 and recorded as document number 332-4/43,
 - **(b)** the Amending Agreement between the Inuvialuit Regional Corporation, representing the Inuvialuit, and the Government of Canada, approved by Order in Council P.C. 1987-26, tabled in the House of Commons for the Minister of Indian Affairs and Northern Development on December 14, 1987 and recorded as document number 332-4/43A,
 - **(c)** the Amending Agreement between the Inuvialuit Regional Corporation, representing the Inuvialuit, and the Government of Canada, dated May 11, 1987, tabled in the House of Commons for the Minister of Indian Affairs and Northern Development on December 14, 1987 and recorded as document number 332-4/43B, and
-- **(d)** any other Amending Agreement made pursuant to subsection 3(13) of the Agreement;
+- **(d)** any other Amending Agreement made pursuant to subsection 3(13) of the Agreement; (*Convention modificative*)
 
-***Territory*** means the Northwest Territories, Yukon Territory and adjacent offshore areas, not forming part of the Northwest Territories or Yukon Territory, within the sovereignty or jurisdiction of Canada.
-> 1984, c. 24, s. 2; 1988, c. 16, s. 1; 1993, c. 34, s. 137(F).
+***Territory*** means the Northwest Territories, Yukon and adjacent offshore areas, not forming part of the Northwest Territories or Yukon, within the sovereignty or jurisdiction of Canada. (*Territoire*)
+> 1984, c. 24, s. 2; 1988, c. 16, s. 1; 1993, c. 34, s. 137(F); 2002, c. 7, s. 250.
 
 
 
