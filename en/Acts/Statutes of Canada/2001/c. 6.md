@@ -1550,7 +1550,7 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 **Appointment of assessors**
 
 - **(2)** On receipt of a claim from the Administrator under paragraph (1)(b), the Minister shall,
-	- **(a)** after consulting with the Minister of Fisheries and Oceans, the Minister of the Environment and the Administrator, appoint as assessors one or more persons not employed in the Public Service, as defined in subsection 3(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md); and
+	- **(a)** after consulting with the Minister of Fisheries and Oceans, the Minister of the Environment and the Administrator, appoint as assessors one or more persons not employed in the public service, as defined in subsection 3(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md); and
 	- **(b)** fix the remuneration and expenses to be paid to the person or persons while they are acting as assessors and authorize the Administrator to direct payment of the remuneration and expenses to them.
 
 **Assessment of loss**
@@ -1574,6 +1574,8 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 **Payment of assessed loss out of Fund**
 
 - **(6)** On receipt of the report, the Minister shall without delay forward a copy of it to the claimant and to the Administrator, who shall direct payment to the claimant out of the Ship-source Oil Pollution Fund of an amount equal to the amount, if any, of the assessed loss set out in the report.
+> 2001, c. 6, s. 89; 2003, c. 22, s. 225(E).
+
 
 
 
