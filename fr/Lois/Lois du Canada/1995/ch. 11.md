@@ -61,24 +61,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Les pouvoirs et fonctions du ministre s’étendent de façon générale à tous les domaines de compétence du Parlement non attribués de droit à d’autres ministères ou organismes fédéraux et liés à l’identité, aux valeurs, au développement culturel et au patrimoine canadiens et aux lieux naturels ou historiques d’importance pour la nation.
+- **(1)** Les pouvoirs et fonctions du ministre s’étendent de façon générale à tous les domaines de compétence du Parlement non attribués de droit à d’autres ministères ou organismes fédéraux et liés à l’identité, aux valeurs, au développement culturel et au patrimoine canadiens.
 
 **Idem**
 
 - **(2)** Les domaines de compétence visés au paragraphe (1) sont notamment :
-	- **a)** la promotion d’une meilleure compréhension des droits de la personne, des libertés fondamentales et des valeurs qui en découlent;
-	- **b)** le multiculturalisme;
-	- **c)** les arts, y compris les aspects culturels du statut de l’artiste;
-	- **d)** les industries et le patrimoine culturels, y compris les arts d’interprétation et les arts plastiques et audio-visuels, l’édition et l’enregistrement sonore, le film, la vidéo et les lettres;
-	- **e)** les parcs nationaux, les lieux et monuments historiques nationaux, les canaux historiques, les champs de bataille nationaux, les aires marines nationales de conservation, les gares ferroviaires et les édifices fédéraux patrimoniaux;
-	- **f)** l’encouragement, la promotion et le développement du sport;
-	- **g)** la progression vers l’égalité de statut et d’usage du français et de l’anglais et la promotion et le développement des minorités francophones et anglophones du Canada;
-	- **h)** le cérémonial d’État et les symboles canadiens;
-	- **i)** la radiodiffusion, sauf en ce qui concerne la gestion du spectre et les aspects techniques de la radiodiffusion;
-	- **j)** la formulation d’orientations culturelles, notamment en ce qui a trait à l’investissement étranger et au droit d’auteur;
-	- **k)** la conservation, l’exportation et l’importation de biens culturels;
-	- **l)** les bibliothèques, archives et musées nationaux.
-> 1995, ch. 11, art. 4; 2002, ch. 18, art. 32(F); 2003, ch. 2, art. 37.
+	- **a)
+** la promotion d’une meilleure compréhension des droits de la personne, des libertés fondamentales et des valeurs qui en découlent;
+	- **b)
+** le multiculturalisme;
+	- **c)
+** les arts, y compris les aspects culturels du statut de l’artiste;
+	- **d)
+** les industries et le patrimoine culturels, y compris les arts d’interprétation et les arts plastiques et audio-visuels, l’édition et l’enregistrement sonore, le film, la vidéo et les lettres;
+	- **e)** les champs de bataille nationaux;
+	- **f)
+** l’encouragement, la promotion et le développement du sport;
+	- **g)
+** la progression vers l’égalité de statut et d’usage du français et de l’anglais et la promotion et le développement des minorités francophones et anglophones du Canada;
+	- **h)
+** le cérémonial d’État et les symboles canadiens;
+	- **i)
+** la radiodiffusion, sauf en ce qui concerne la gestion du spectre et les aspects techniques de la radiodiffusion;
+	- **j)
+** la formulation d’orientations culturelles, notamment en ce qui a trait à l’investissement étranger et au droit d’auteur;
+	- **k)
+** la conservation, l’exportation et l’importation de biens culturels;
+	- **l)
+** les bibliothèques, archives et musées nationaux.
+> 1995, ch. 11, art. 4; 2002, ch. 18, art. 32(F); 2003, ch. 2, art. 37; 2005, ch. 2, art. 1.
 
 
 
@@ -86,7 +97,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Tâches**
 
-**5** Dans le cadre de ses pouvoirs et fonctions, le ministre a pour tâche d’instaurer, de recommander, de coordonner et de mettre en oeuvre les objectifs, opérations et programmes nationaux en matière d’identité, de valeurs, de développement culturel et de patrimoine canadiens et pour ce qui a trait aux lieux naturels et historiques d’importance pour la nation et d’en faire la promotion.
+**5** Dans le cadre de ses pouvoirs et fonctions, le ministre a pour tâche d’instaurer, de recommander, de coordonner et de mettre en œuvre les objectifs, opérations et programmes nationaux en matière d’identité, de valeurs, de développement culturel et de patrimoine canadiens et d’en faire la promotion.
+> 1995, ch. 11, art. 5; 2005, ch. 2, art. 2.
+
 
 
 
