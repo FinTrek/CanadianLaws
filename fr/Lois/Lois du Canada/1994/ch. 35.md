@@ -16,7 +16,7 @@ Sanctionnée sur le 7 juillet 1994
 
 Attendu :
 
-que les représentants du Conseil des Indiens du Yukon, de Sa Majesté la Reine du chef du Canada et du gouvernement du territoire du Yukon ont signé, le 29 mai 1993, l’accord-cadre dont les dispositions sont destinées à être reprises dans les accords définitifs sur les revendications des premières nations sur des terres du territoire du Yukon;
+que les représentants du Conseil des Indiens du Yukon, de Sa Majesté la Reine du chef du Canada et du gouvernement du territoire du Yukon ont signé, le 29 mai 1993, l'accord-cadre dont les dispositions sont destinées à être reprises dans les accords définitifs sur les revendications des premières nations sur des terres du Yukon;
 
 que les premières nations de Champagne et Aishihik, des Gwitchin Vuntut, des Nacho Nyak Dun et le conseil des Tlingits de Teslin ont conclu avec Sa Majesté et le gouvernement du Yukon des accords définitifs contenant, outre les dispositions de l’accord-cadre, des dispositions particulières à chacune de ces premières nations;
 
@@ -32,6 +32,8 @@ que le gouvernement du Canada s’est engagé à recommander l’adoption par le
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
+
+> 1994, ch. 35, préambule; 2002, ch. 7, art. 260..
 
 
 
@@ -56,27 +58,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** Accord sur l’autonomie de la première nation en matière d’administration publique conclu entre Sa Majesté, le gouvernement du Yukon et la première nation.
+***accord*** Accord sur l’autonomie de la première nation en matière d’administration publique conclu entre Sa Majesté, le gouvernement du Yukon et la première nation. (*self-government agreement*)
 
-***accord-cadre*** Accord sur les revendications territoriales globales des premières nations du Yukon signé le 29 mai 1993 par les représentants du Conseil des Indiens du Yukon, de Sa Majesté et du gouvernement du Yukon, ainsi que toutes les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord-cadre*** Accord sur les revendications territoriales globales des premières nations du Yukon signé le 29 mai 1993 par les représentants du Conseil des Indiens du Yukon, de Sa Majesté et du gouvernement du Yukon, ainsi que toutes les modifications qui peuvent lui être apportées conformément à ses dispositions. (*Umbrella Final Agreement*)
 
-***accord définitif*** Accord sur les revendications territoriales de la première nation qui contient, outre les dispositions de l’accord-cadre, des dispositions particulières à celle-ci, ainsi que toutes les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord définitif*** Accord sur les revendications territoriales de la première nation qui contient, outre les dispositions de l’accord-cadre, des dispositions particulières à celle-ci, ainsi que toutes les modifications qui peuvent lui être apportées conformément à ses dispositions. (*final agreement*)
 
-***bande antérieure*** La ou les bandes — au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) — dont le nom figure à la colonne I de l’annexe I en regard du nom de la première nation.
+***bande antérieure*** La ou les bandes — au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) — dont le nom figure à la colonne I de l’annexe I en regard du nom de la première nation. (*predecessor band*)
 
-***citoyen*** Citoyen de la première nation au sens de la constitution qui la gouverne.
+***citoyen*** Citoyen de la première nation au sens de la constitution qui la gouverne. (*citizen*)
 
-***constitution*** Constitution de la première nation visée à l’article 8.
+***constitution*** Constitution de la première nation visée à l’article 8. (*constitution*)
 
-***gouvernement du Yukon*** Le commissaire du Yukon en tant qu’il agit sur l’avis et avec le consentement du conseil du territoire.
+***gouvernement du Yukon*** Le commissaire du Yukon en tant qu’il agit avec l’agrément du Conseil exécutif du Yukon. (*Yukon Government*)
 
-***loi territoriale*** Loi d’application générale édictée aux termes de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md).
+***loi territoriale*** Loi d’application générale édictée aux termes de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md). (*Yukon enactment*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***première nation*** Première nation dont le nom figure à la colonne II de l’annexe I.
+***première nation*** Première nation dont le nom figure à la colonne II de l’annexe I. (*first nation*)
 
-***terres désignées*** Terres visées par le règlement, au sens de l’accord définitif.
+***terres désignées*** Terres visées par le règlement, au sens de l’accord définitif. (*settlement land*)
+> 1994, ch. 35, art. 2; 2002, ch. 7, art. 261.
+
 
 
 
@@ -225,9 +229,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** La première nation dont le nom figure à l’annexe II peut, conformément à l’accord qui la concerne, édicter des textes législatifs :
+- **(1)** La première nation dont le nom figure à l’annexe II peut, conformément à l’accord qui la concerne, édicter des textes législatifs :
 	- **a)** de manière exclusive en toute matière comprise dans les domaines figurant à la partie I de l’annexe III;
-	- **b)** dont l’application est restreinte au territoire du Yukon en toute matière comprise dans les domaines figurant à la partie II de l’annexe III;
+	- **b)** dont l’application est restreinte au Yukon en toute matière comprise dans les domaines figurant à la partie II de l’annexe III;
 	- **c)** dont l’application est restreinte à ses terres désignées en toute matière d’intérêt local ou privé comprise dans les domaines figurant à la partie III de l’annexe III.
 
 **Pouvoir de taxation**
@@ -236,9 +240,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Administration de la justice**
 
-- **(3)** En matière d’administration de la justice, le pouvoir visé à l’alinéa (1)c) est subordonné à l’arrivée du premier des deux termes suivants :
+- **(3)** En matière d’administration de la justice, le pouvoir visé à l’alinéa (1)c) est subordonné à l’arrivée du premier des deux termes suivants :
 	- **a)** soit la date de la prise d’effet d’un accord particulier sur l’administration de la justice entre les parties à l’accord;
 	- **b)** soit l’échéance du délai prévu par ce dernier pour en convenir.
+> 1994, ch. 35, art. 11; 2002, ch. 7, art. 262.
+
 
 
 
@@ -252,6 +258,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accords locaux**
 
 - **(2)** Elle peut légiférer à l’égard des matières ou des terres désignées soustraites à sa compétence par l’accord si l’administration compétente — le gouvernement du Yukon ou une municipalité de ce territoire — en convient.
+> 1994, ch. 35, art. 12; 2002, ch. 7, art. 263(A).
+
 
 
 
@@ -275,24 +283,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Administration de la justice**
 
-**14** Jusqu’à l’arrivée du premier des deux termes mentionnés aux alinéas 11(3)a) et b) :
-- **a)** les tribunaux du territoire du Yukon ont, sous réserve de l’alinéa b), la même compétence à l’égard des questions soulevant l’application des textes législatifs de la première nation que celle que leur attribuent les règles de droit territoriales;
+**14** Jusqu’à l’arrivée du premier des deux termes mentionnés aux alinéas 11(3) a) et b) :
+- **a)** les tribunaux du Yukon ont, sous réserve de l’alinéa b), la même compétence à l’égard des questions soulevant l’application des textes législatifs de la première nation que celle que leur attribuent les règles de droit territoriales;
 - **b)** la Cour territoriale du Yukon a compétence exclusive en première instance à l’égard des poursuites pour des infractions à ces textes législatifs;
 - **c)** ces poursuites sont menées en conformité avec la Loi sur les poursuites sommaires du territoire du Yukon, dans sa version éventuellement modifiée, par les procureurs nommés par le gouvernement du Yukon, au même titre qu’une infraction à une loi territoriale;
 - **d)** les peines d’emprisonnement imposées pour des infractions à ces textes législatifs sont purgées dans un établissement correctionnel en conformité avec la Loi sur les services correctionnels du territoire du Yukon, dans sa version éventuellement modifiée.
+> 1994, ch. 35, art. 14; 2002, ch. 7, art. 264.
 
 
 
 
-**Cour suprême du territoire du Yukon**
+
+**Cour suprême du Yukon**
 
 **15** 
 
-- **(1)** Il est entendu que la Cour suprême du territoire du Yukon a compétence, sous réserve de l’article 14, à l’égard des questions soulevant l’application de la présente loi ou de l’accord visant une des premières nations dont le nom figure à l’annexe II.
+- **(1)** Il est entendu que la Cour suprême du Yukon a compétence, sous réserve de l’article 14, à l’égard des questions soulevant l’application de la présente loi ou de l’accord visant une des premières nations dont le nom figure à l’annexe II.
 
 **Cour fédérale du Canada**
 
 - **(2)** La présente loi ne peut avoir pour effet de limiter la compétence de la Cour fédérale du Canada.
+> 1994, ch. 35, art. 15; 2002, ch. 7, art. 265.
+
 
 
 
@@ -320,7 +332,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Idem**
 
-- **(3)** Elle s’applique également, sauf pour ses articles 74 à 80, et sous réserve des dispositions de l’accord définitif concernant l’application de son article 87, à la réserve — au sens de cette loi — de la bande antérieure de la première nation située à l’extérieur du territoire du Yukon ainsi qu’à l’égard des droits et obligations de cette bande ayant leur origine à l’extérieur de ce territoire. La première nation est, le cas échéant, réputée une « bande » et ses citoyens inscrits ou qui ont droit à l’inscription sont réputés des « membres de la bande » au sens de la même loi.
+- **(3)** Elle s’applique également, sauf pour ses articles 74 à 80, et sous réserve des dispositions de l’accord définitif concernant l’application de son article 87, à la réserve — au sens de cette loi — de la bande antérieure de la première nation située à l’extérieur du Yukon ainsi qu’à l’égard des droits et obligations de cette bande ayant leur origine à l’extérieur de ce territoire. La première nation est, le cas échéant, réputée une « bande » et ses citoyens inscrits ou qui ont droit à l’inscription sont réputés des « membres de la bande » au sens de la même loi.
+> 1994, ch. 35, art. 17; 2002, ch. 7, art. 266.
+
 
 
 
@@ -470,11 +484,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publicité**
 
 **25** Le ministre fait déposer une copie — certifiée par lui conforme à l’original — de chaque accord auquel il a été donné effet ainsi que de toute modification qui lui est apportée :
-- **a)** aux Archives nationales du Canada;
-- **b)** à la bibliothèque de son ministère située dans la région de la capitale nationale;
-- **c)** aux bureaux régionaux de ce ministère situés dans le territoire du Yukon, selon que le ministre l’estime opportun;
-- **d)** au recueil commun des textes législatifs des premières nations créé par l’article 10, s’il y a lieu;
-- **e)** en tout autre lieu qu’il estime opportun.
+- **a)
+** aux Archives nationales du Canada;
+- **b)
+** à la bibliothèque de son ministère située dans la région de la capitale nationale;
+- **c)
+** aux bureaux régionaux de ce ministère situés au Yukon, selon que le ministre l'estime opportun;
+- **d)
+** au recueil commun des textes législatifs des premières nations créé par l’article 10, s’il y a lieu;
+- **e)
+** en tout autre lieu qu’il estime opportun.
+> 1994, ch. 35, art. 25; 2002, ch. 7, art. 267.
+
 
 
 
@@ -872,7 +893,9 @@ Les Tr’ondëk Hwëch’in, autrefois appelés première nation de Dawson
 
 
 
-**3** La mise en oeuvre de mesures prises en application d’un accord fiscal conclu entre la première nation et le gouvernement du territoire du Yukon.
+**3** La mise en oeuvre de mesures prises en application d’un accord fiscal conclu entre la première nation et le gouvernement du Yukon.
 
+
+> 1994, ch. 35, ann. III; 2002, ch. 7, art. 268(A) et 269(F).
 
 
