@@ -320,7 +320,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***new Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1). (*nouveau Tribunal*)
 
-<a name='T-18.5_en_14'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_14'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
 
@@ -336,7 +336,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#T-18.5_en_15'>[*]</a></sup>**25** Any amount that is appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the former Tribunal and that, on the day on which section 44 comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the new Tribunal.
 
-<a name='T-18.5_en_15'><sup>*</sup></a>: [Note: Sections 25 and 44 not in force.]<br />
+<a name='T-18.5_en_15'><sup>*</sup></a>: [Note: Sections 25 and 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
 
@@ -345,7 +345,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#T-18.5_en_16'>[*]</a></sup>**26** The Chairman, Vice-Chairman and other members of the former Tribunal immediately before the coming into force of section 44 shall, on the coming into force of that section, occupy the positions of Chairperson, Vice-Chairperson and members, respectively, with the new Tribunal until the expiry of the period of their appointment to the former Tribunal.
 
-<a name='T-18.5_en_16'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_16'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
 
@@ -356,7 +356,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** Nothing in this Act shall be construed as affecting the status of an employee who, immediately before the coming into force of section 44, occupied a position with the former Tribunal, except that each of those persons shall, on the coming into force of that section, occupy their position with the new Tribunal.
 
-<a name='T-18.5_en_17'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_17'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 **Definition of employee**
 
@@ -390,7 +390,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#T-18.5_en_18'>[*]</a></sup>**31** Any action, suit or other legal proceeding to which the former Tribunal is a party that is pending in any court immediately before the day on which section 44 comes into force may be continued by or against the new Tribunal in the same manner and to the same extent as it could have been continued by or against the former Tribunal.
 
-<a name='T-18.5_en_18'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_18'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
 
@@ -401,19 +401,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** Proceedings relating to any matter before the former Tribunal on the coming into force of section 44, including any matter that is in the course of being heard by the former Tribunal, shall be continued by the new Tribunal.
 
-<a name='T-18.5_en_19'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_19'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 **Application of provisions**
 
 - <sup><a href='#T-18.5_en_20'>[*]</a></sup>**(2)** Unless the Governor in Council, by order, directs that proceedings continued under this section are to be dealt with in accordance with the provisions of this Act, the proceedings shall be dealt with and determined in accordance with the provisions of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) as that Act read immediately before the coming into force of section 44.
 
-<a name='T-18.5_en_20'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_20'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 **Directions re proceedings**
 
 - <sup><a href='#T-18.5_en_21'>[*]</a></sup>**(3)** The Governor in Council may, by order, direct that proceedings in respect of any class of matter referred to in subsection (1) in respect of which no decision or order is made on the coming into force of section 44 shall be discontinued or continued by the new Tribunal, as the case may be, on the terms and conditions specified in the order for the protection and preservation of the rights and interests of the parties.
 
-<a name='T-18.5_en_21'><sup>*</sup></a>: [Note: Section 44 not in force.]<br />
+<a name='T-18.5_en_21'><sup>*</sup></a>: [Note: Section 44 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
 
@@ -442,6 +442,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#T-18.5_en_22'>[*]</a></sup>**73** The provisions of this Act, other than sections 71 and 72, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='T-18.5_en_22'><sup>*</sup></a>: [Note: Sections 71 and 72 in force on assent December 18, 2001.]<br />
+<a name='T-18.5_en_22'><sup>*</sup></a>: [Note: Sections 71 and 72 in force on assent December 18, 2001; sections 1 to 45, 52 to 54 and 60 to 70 in force June 30, 2003, *see* SI/2003-128.]<br />
 
 
