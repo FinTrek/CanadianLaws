@@ -89,7 +89,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province, and
-- **(f)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice;
+- **(f)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
 
@@ -231,7 +231,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272.
+> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E).
 
 
 
