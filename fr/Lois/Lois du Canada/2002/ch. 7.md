@@ -1012,7 +1012,7 @@ Sont cependant soustraits à l’alinéa b) les claims au sens de la Loi sur l�
 
 - **(3)** L’article 77, le paragraphe 117(2) et les articles 167, 168, 210, 211, 221, 227, 233 et 283 entrent en vigueur à la date fixée par décret.
 
-<a name='Y-2.01_fr_1'><sup>*</sup></a>: [Note : Articles 272 à 278 en vigueur à la sanction le 27 mars 2002.]<br />
+<a name='Y-2.01_fr_1'><sup>*</sup></a>: [Note : Articles 272 à 278 en vigueur à la sanction le 27 mars 2002; articles 1 à 69, 76 et 78 à 116, paragraphe 117(1) et articles 118 à 166, 169 à 209, 212 à 220, 222 à 226, 228 à 232, 234 à 271, 279 à 282 et 284 en vigueur le 1<sup>er</sup> avril 2003, *voir* TR/2003-48.]<br />
 
 
 
