@@ -240,7 +240,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Publication of notice**
 
-**25** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+<sup><a href='#I-3.55_e_2005-02-14'>[*]</a></sup>**25** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+
+<a name='I-3.55_e_2005-02-14'><sup>*</sup></a>: [Note: Convention and Protocol in force February 17, 2003, *see* Canada Gazette Part I, Volume 137, page 1011.]<br />
 
 
 
