@@ -252,11 +252,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Agreements and amendments**
 
 **15** The Minister of Indian Affairs and Northern Development shall cause a certified copy of each final agreement and transboundary agreement that is given effect by or under this Act, and of any amendments made to such an agreement, to be deposited in
-- **(a)** the National Archives of Canada;
+- **(a)** the Library and Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region;
 - **(c)** such regional offices of the Government of Canada situated in Yukon as the Minister considers advisable; and
 - **(d)** such other places as the Minister considers advisable.
-> 1994, c. 34, s. 15; 2002, c. 7, s. 256(E).
+> 1994, c. 34, s. 15; 2002, c. 7, s. 256(E); 2004, c. 11, s. 50.
 
 
 
