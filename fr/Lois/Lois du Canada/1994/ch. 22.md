@@ -187,6 +187,8 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Abandon**
 
 - **(4)** Le propriétaire légitime de tout objet saisi en application de la présente loi peut l’abandonner au profit de Sa Majesté du chef du Canada ou d’une province.
+> 1994, ch. 22, art. 9; 2003, ch. 22, art. 224(A)
+
 
 
 
@@ -390,6 +392,8 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 - **(5)** Le gouverneur en conseil peut, par règlement, déterminer :
 	- **a)** les infractions visées par le présent article ainsi que leur désignation dans le formulaire de contravention;
 	- **b)** le montant de l’amende afférente, jusqu’à concurrence de 1 000 $.
+> 1994, ch. 22, art. 19; 2003, ch. 22, art. 224(A)
+
 
 
 
