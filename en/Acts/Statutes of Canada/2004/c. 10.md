@@ -523,6 +523,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#S-8.7_e_s25'>[*]</a></sup>**25** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='S-8.7_e_s25'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='S-8.7_e_s25'><sup>*</sup></a>: [Note: Act in force December 15, 2004, *see* SI/2004-157.]<br />
 
 
