@@ -76,7 +76,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of this Part**
 
-**5** This Part applies in respect of a claim that is made or a remedy that is sought under or by virtue of Canadian maritime law, as defined in the Federal Court Act, or any other law of Canada in relation to any matter coming within the class of navigation and shipping.
+**5** This Part applies in respect of a claim that is made or a remedy that is sought under or by virtue of Canadian maritime law, as defined in the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), or any other law of Canada in relation to any matter coming within the class of navigation and shipping.
+> 2001, c. 6, s. 5; 2002, c. 8, s. 182.
+
 
 
 
@@ -210,7 +212,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application of this Part**
 
-**16** This Part applies in respect of a claim that is made or a remedy that is sought under or by virtue of Canadian maritime law, as defined in the Federal Court Act, or any other law of Canada in relation to any matter coming within the class of navigation and shipping.
+**16** This Part applies in respect of a claim that is made or a remedy that is sought under or by virtue of Canadian maritime law, as defined in the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), or any other law of Canada in relation to any matter coming within the class of navigation and shipping.
+> 2001, c. 6, s. 16; 2002, c. 8, s. 182.
+
 
 
 
