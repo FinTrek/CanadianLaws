@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1991/ch.%2016.md)
 
-# Canadian Centre for Management Development Act
+# Canada School of Public Service Act
 
 **S.C. 1991, c. 16**
 
@@ -24,7 +24,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Short title**
 
-**1** This Act may be cited as the Canadian Centre for Management Development Act.
+**1** This Act may be cited as the Canada School of Public Service Act.
+> 1991, c. 16, s. 1; 2003, c. 22, s. 22.
+
 
 
 
@@ -37,71 +39,82 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Board*** means the Board of Governors of the Centre constituted by section 7;
+***Board*** means the Board of Governors of the School constituted by section 7;
 
-***Centre*** means the Canadian Centre for Management Development established by section 3;
+***Centre***[Repealed, 2003, c. 22, s. 23]
 
 ***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act;
 
-***Principal*** means the Principal of the Centre appointed under subsection 13(1);
+***President*** means the President of the School appointed under subsection 13(1);
 
-***Public Service*** has the meaning given that expression in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+***Principal***[Repealed, 2003, c. 22, s. 23]
+
+***Public Service*** has the meaning given that expression in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md);
+
+***School*** means the Canada School of Public Service continued under subsection 3(1).
+> 1991, c. 16, s. 2; 2003, c. 22, s. 23.
 
 
 
 
-## Establishment of the Centre
+
+## Continuation
 
 
 
-**Establishment**
+**Continuation**
 
 **3** 
 
-- **(1)** There is hereby established a corporation to be known as the Canadian Centre for Management Development.
+- **(1)** The Canadian Centre for Management Development, established by subsection 3(1) of the Canadian Centre for Management Development Act, is continued as a corporation under the name of the Canada School of Public Service.
 
 **Principal office**
 
-- **(2)** The principal office of the Centre shall be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+- **(2)** The principal office of the School shall be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
 
 **Crown agent**
 
-- **(3)** The Centre is an agent of Her Majesty in right of Canada.
+- **(3)** The School is an agent of Her Majesty in right of Canada.
+> 1991, c. 16, s. 3; 2003, c. 22, s. 24.
 
 
 
 
-## Objects and Powers of the Centre
+
+## Objects and Powers
 
 
 
 **Objects**
 
-**4** The objects of the Centre are
-- **(a)** to encourage pride and excellence in the management of the Public Service and to foster among Public Service managers a sense of the purposes, values and traditions of the Public Service;
-- **(b)** to help ensure that managers in the Public Service have the analytical, creative, advisory, administrative and other managerial skills and knowledge necessary to develop and implement policy, respond to change, including changes in the social, cultural, racial and linguistic character of Canadian society, and manage government programs, services and personnel efficiently, effectively and equitably;
-- **(c)** to help managers in the Public Service develop a successful cooperative relationship with staff members at all levels through leadership, motivation, effective internal communications and the encouragement of innovation, high-quality service to the public and skills development;
-- **(d)** to develop within the Public Service and to attract to the Public Service, through the Centre’s programs and studies, persons who are of high calibre and who reflect the diversity of Canadian society, and to support their growth and development as public sector managers committed to the service of Canada;
-- **(e)** to formulate and provide training, orientation and development programs for managers in the public sector and particularly for senior managers in the Public Service;
-- **(f)** to study and conduct research into the theory and practice of public sector management; and
-- **(g)** to encourage a greater awareness in Canada of issues related to public sector management and the role and functions of government and to involve a broad range of individuals and institutions in the Centre’s pursuit of excellence in public administration.
+**4** The objects of the School are
+- **(a)** to encourage pride and excellence in the Public Service and to foster in managers and other Public Service employees a sense of the purposes, values and traditions of the Public Service;
+- **(b)** to help ensure that those managers have the analytical, creative, advisory, administrative and other managerial skills and knowledge necessary to develop and implement policy, respond to change, including changes in the social, cultural, racial and linguistic character of Canadian society, and manage government programs, services and personnel efficiently, effectively and equitably;
+- **(c)** to help managers and other Public Service employees to develop successful cooperative relationships at all levels through leadership, motivation, effective internal communications and the encouragement of innovation, high-quality service to the public and skills development;
+- **(d)** to develop within the Public Service and to attract to the Public Service, through the School’s programs and studies, persons who are of high calibre and who reflect the diversity of Canadian society, and to support their growth and development as public sector managers and employees committed to the service of Canada;
+- **(e)** to formulate and provide training, orientation and development programs for public sector managers and employees, particularly for those in the Public Service;
+- **(f)** to assist deputy heads in meeting the learning needs of their organization, including by way of delivering training and development programs;
+- **(g)** to study and conduct research into the theory and practice of public sector management and public administration; and
+- **(h)** to encourage a greater awareness in Canada of issues related to public sector management, public administration and the role and functions of government and to involve a broad range of individuals and institutions in the School’s pursuit of excellence in public administration.
+> 1991, c. 16, s. 4; 2003, c. 22, s. 24.
+
 
 
 
 
 **Powers**
 
-**5** In carrying out its objects, the Centre has the capacity of a natural person and may
-- **(a)** acquire, manage, maintain, design and operate programs for management development and acquire personal and movable property;
-- **(b)** assist departments, boards and agencies of the Government of Canada through programs, studies and documentation developed at the Centre;
+**5** In carrying out its objects, the School has the capacity of a natural person and may
+- **(a)** acquire, manage, maintain, design and operate training, orientation and development programs for public sector managers and employees, particularly for those in the Public Service, and acquire personal and movable property;
+- **(b)** assist departments, boards and agencies of the Government of Canada through programs, studies and documentation developed at the School;
 - **(c)** cooperate with other persons and bodies engaged in management and personnel development;
-- **(d)** contribute funds for the pursuit of research or other activities related to the theory and practice of public sector management;
+- **(d)** contribute funds for the pursuit of research or other activities related to the theory and practice of public sector management and public administration;
 - **(e)** provide services and facilities to any person or government, and charge fees therefor as provided by section 18;
-- **(f)** license, sell or otherwise make available any copyright, trade-mark or other like property right held, controlled or administered by the Centre;
-- **(g)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the Centre;
+- **(f)** license, sell or otherwise make available any copyright, trade-mark or other similar property right held, controlled or administered by the School;
+- **(g)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the School;
 - **(h)** acquire any money, securities or other personal or movable property by gift or bequest and expend, administer or dispose of the property subject to the terms, if any, on which the gift or bequest was made; and
-- **(i)** do all such things as are necessary or incidental to the attainment of the objects of the Centre.
-> 1991, c. 16, s. 5; 2001, c. 4, s. 68.
+- **(i)** do all things necessary or incidental to the attainment of the objects of the School.
+> 1991, c. 16, s. 5; 2001, c. 4, s. 68; 2003, c. 22, s. 25.
 
 
 
@@ -109,7 +122,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Government facilities**
 
-**6** In carrying out its objects and exercising its powers under this Act, the Centre shall make use of any available services and facilities of departments, boards and agencies of the Government of Canada that are appropriate for the operation of the Centre.
+**6** In carrying out its objects and exercising its powers, the School shall make use of any available services and facilities of departments, boards and agencies of the Government of Canada that are appropriate for the operation of the School.
+> 1991, c. 16, s. 6; 2003, c. 22, s. 26.
+
 
 
 
@@ -118,9 +133,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Constitution of Board of Governors**
+**Board of Governors**
 
-**7** The Centre shall have a Board of Governors composed of not more than fifteen governors, including a Chair and three *ex officio* governors.
+**7** The School shall have a Board of Governors composed of not more than fifteen governors, including a Chair and three *ex officio* governors.
+> 1991, c. 16, s. 7; 2003, c. 22, s. 26.
+
 
 
 
@@ -129,11 +146,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **8** 
 
-- **(1)** The governors of the Centre, other than the Chair and *ex officio* governors, shall be appointed by the Governor in Council to hold office during pleasure for terms not exceeding three years, their terms being staggered so that not more than four terms will expire in any year.
+- **(1)** The governors of the School, other than the Chair and *ex officio* governors, shall be appointed by the Governor in Council to hold office during pleasure for terms not exceeding three years, their terms being staggered so that not more than one half of their terms will expire in any year.
 
 **Reappointment**
 
 - **(2)** A governor appointed pursuant to subsection (1), on the expiration of a first or any subsequent term of office, is eligible to be reappointed for a further term.
+> 1991, c. 16, s. 8; 2003, c. 22, s. 27.
+
 
 
 
@@ -161,9 +180,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** In the event of a vacancy in the office of Chair, the Board may appoint a person to act as Chair, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
 
-***Ex officio* governors**
+**Ex officio governors**
 
-- **(3)** The Secretary of the Treasury Board, the Chairman of the Public Service Commission and the Principal of the Centre are *ex officio* governors.
+- **(3)** The Secretary of the Treasury Board, the President of the Public Service Commission and the President of the School are *ex officio* governors.
+> 1991, c. 16, s. 10; 2003, c. 22, s. 28.
+
 
 
 
@@ -183,7 +204,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Meetings**
 
-**12** The Board is responsible for the conduct and management of the affairs of the Centre and shall meet at least twice during each fiscal year at the time and places determined by the Chair.
+**12** The Board is responsible for the conduct and management of the affairs of the School and shall meet at least twice during each fiscal year at the time and place determined by the Chair.
+> 1991, c. 16, s. 12; 2003, c. 22, s. 29.
+
 
 
 
@@ -192,7 +215,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-### Principal
+### President
 
 
 
@@ -200,26 +223,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **13** 
 
-- **(1)** The Governor in Council shall, after consultation by the Minister with the Board, appoint an officer, to be called the Principal of the Centre, to hold office for a term not exceeding five years, and the Principal shall have the rank and status of a deputy minister.
+- **(1)** The Governor in Council shall, after consultation by the Minister with the Board, appoint an officer, to be called the President of the School, to hold office for a term not exceeding five years, and the President has the rank and status of a deputy minister.
 
 **Chief executive officer**
 
-- **(2)** The Principal is the chief executive officer of the Centre and has supervision over and direction of the work and staff of the Centre.
+- **(2)** The President is the chief executive officer of the School and has supervision over and direction of the work and staff of the School.
 
 **Programs and studies**
 
-- **(3)** In exercising supervision over the Centre and direction of its programs, the Principal shall take into consideration the policies of the Government of Canada as well as its management training needs and priorities as determined by the Treasury Board in accordance with subsection 11(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+- **(3)** In exercising supervision over the School and direction of its programs, the President shall take into consideration the policies of the Government of Canada as well as the learning, training and development needs and priorities of the Public Service as determined by the Treasury Board.
 
-**Acting Principal**
+**Acting President**
 
-- **(4)** In the event of a vacancy in the office of Principal, the Board may appoint a senior officer of the Centre to act as Principal, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
+- **(4)** In the event of a vacancy in the office of President, the Board may appoint a senior officer of the School to act as President, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
+> 1991, c. 16, s. 13; 2003, c. 22, s. 30.
+
 
 
 
 
 **Reappointment**
 
-**14** The Principal, on the expiration of a first or any subsequent term of office, is eligible to be reappointed for a further term.
+**14** On the expiration of any term of office, the President is eligible to be reappointed for a further term.
+> 1991, c. 16, s. 14; 2003, c. 22, s. 30.
+
 
 
 
@@ -232,19 +259,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **15** 
 
-- **(1)** Such officers and employees as are necessary for the conduct of the work of the Centre shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+- **(1)** The officers and employees necessary for the conduct of the work of the School shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
 
 **Other appointments**
 
-- **(2)** Notwithstanding subsection (1), the Principal may, on behalf of the Centre, appoint and employ teaching and research staff and may, with the approval of the Treasury Board, establish the terms and conditions of their employment, including their remuneration.
+- **(2)** Despite subsection (1), the President may, on behalf of the School, appoint and employ teaching and research staff and may, with the approval of the Treasury Board, establish the terms and conditions of their employment, including their remuneration.
 
 **Act not applicable**
 
-- **(3)** The [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) does not apply to any person employed by the Centre pursuant to subsection (2).
+- **(3)** The [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) does not apply to any person employed by the School under subsection (2).
 
 **Acts and regulations applicable**
 
-- **(4)** Each person employed by the Centre pursuant to subsection (2) shall be deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the public service of Canada for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(4)** Each person employed by the School under subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 1991, c. 16, s. 15; 2003, c. 22, s. 31.
+
 
 
 
@@ -255,7 +284,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Contracts**
 
-**16** The Principal may enter into contracts for the provision of teaching and research services to the Centre and for other professional services connected with the management of the programs of the Centre.
+**16** The President may enter into contracts for the provision of teaching and research services to the School and for other professional services connected with the management of the programs of the School.
+> 1991, c. 16, s. 16; 2003, c. 22, s. 32.
+
 
 
 
@@ -264,9 +295,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**By-laws**
+**Power to make by-laws**
 
-**17** The Board may make by-laws respecting the conduct and management of the affairs of the Centre, including the exercise of its powers under section 5, and may by such by-laws establish an executive committee and delegate thereto any of its powers or functions.
+**17** The Board may make by-laws respecting the conduct and management of the affairs of the School, including the exercise of its powers under section 5, and may by those by-laws establish an executive committee and delegate to that committee any of its powers or functions.
+> 1991, c. 16, s. 17; 2003, c. 22, s. 32.
+
 
 
 
@@ -279,20 +312,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18** 
 
-- **(1)** The Board may, with the approval of the Treasury Board and subject to such terms and conditions as the Treasury Board may impose, prescribe the fees or the manner of determining the fees
-	- **(a)** to be charged for any service or for the use of any facility provided by the Centre; or
-	- **(b)** to be charged by the Centre when selling, licensing the use of or otherwise making available any copyright, trade-mark or other like property right held, controlled or administered by the Centre.
+- **(1)** The Board may, with the approval of the Treasury Board, prescribe the fees or the manner of determining the fees
+	- **(a)** to be charged for any service or for the use of any facility provided by the School; or
+	- **(b)** to be charged by the School when selling, licensing the use of or otherwise making available any copyright, trade-mark or other similar property right held, controlled or administered by the School.
 
 **Offset**
 
-- **(2)** The Principal may, subject to any conditions imposed by the Treasury Board, apply any fee charged in a fiscal year against the costs incurred in that year in connection with the operation of the Centre.
-> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F).
+- **(2)** Subject to any conditions imposed by the Treasury Board, the revenue from fees received by the School in a fiscal year through the conduct of its operations may be spent by the School for its purposes in that, or the next, fiscal year.
+> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F); 2003, c. 22, s. 32.
 
 
 
 
 
-## Annual Report
+## Review and Report
 
 
 
@@ -300,7 +333,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **19** 
 
-- **(1)** Within four months after the end of each fiscal year, the Board shall submit to the Minister a report on the operations of the Centre.
+- **(1)** Within four months after the end of each fiscal year, the Board shall submit to the Minister a report on the operations of the School.
 
 **Tabling in Parliament**
 
@@ -308,32 +341,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Review and report**
 
-- **(3)** Within one year after the fourth anniversary of the coming into force of this Act and every five years thereafter, the Board shall cause a review and report to be made of the activities and organization of the Centre.
+- **(3)** The Board shall, before December 1, 2006 and within every five years after that date, cause a review and report to be made of the activities and organization of the School.
 
 **Tabling in Parliament**
 
 - **(4)** The Minister shall cause a copy of the report referred to in subsection (3) to be laid before each House of Parliament within the first thirty days that that House is sitting after the report is made.
+> 1991, c. 16, s. 19; 2003, c. 22, s. 34.
 
 
 
 
-## Transitional
-
-
-
-**Employment continued**
-
-**20** 
-
-- **(1)** Each person employed in the Canadian Centre for Management Development or seconded thereto from the Public Service Commission on the day preceding the day on which this Act comes into force assumes, on the day on which this Act comes into force, a position in the Centre of the same occupational nature and at the same level as the position occupied by the person on that preceding day.
-
-**Deemed appointment**
-
-- **(2)** Each person referred to in subsection (1) shall be deemed to have been appointed to the position assumed by that person, on the day on which it is assumed, in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
-
-**Probation**
-
-- **(3)** Notwithstanding section 28 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), no person deemed under subsection (2) to have been appointed is subject to probation unless the person was subject to probation on the day preceding the day of the deemed appointment, and any person who was so subject to probation continues subject thereto only for as long as would have been the case but for this section.
+**20** [Repealed, 2003, c. 22, s. 35]
 
 
 
