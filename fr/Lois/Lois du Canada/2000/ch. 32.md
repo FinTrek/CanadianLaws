@@ -3152,7 +3152,7 @@ les deux dernières emprises de route telles qu’indiquées sur le plan 30750 a
 
 **(10)** dans le township 20, rang 19, toutes les sections; excepté :
 
-**a)** les sections 5, 6 et 7, les moitiés ouest des sections 4 et 8 et le quart sud-ouest de la section 18;
+**a)** les sections 5, 6, 7 et 8, la moitié ouest de la section 4 et le quart sud-ouest de la section 18;
 
 
 
@@ -3296,7 +3296,7 @@ ladite réserve indienne telle qu’indiquée sur le plan 76982 auxdites archive
 
 **(40)** dans le township 23, rang 26, les sections 1 à 5 inclusivement et 8 à 17 inclusivement;
 
-lesdites terres renfermant ensemble environ 2 970 kilomètres carrés.
+lesdites terres renfermant ensemble environ 2 969 kilomètres carrés.
 
 
 
@@ -4875,10 +4875,6 @@ Toutes ces parcelles décrites comme les parties I à IV comme suit :
 ### Partie I
 
 
-
-
-
-
 Toute cette parcelle de terrain plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Icebound Lakes » numéros 38B et 37G du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13 et 10 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13 et 2405-10 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système de référence géodésique nord-américain, 1927.
 
 
@@ -4966,10 +4962,6 @@ Sur l’île Bylot;
 
 
 
-
-
-
-
 Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Milne Inlet » numéros 38B et 48A du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13, 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13, 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288, ainsi que la deuxième édition de la carte « Bylot Island » numéro 38C du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
@@ -5050,10 +5042,6 @@ Le restant de la parcelle décrite sous la PARTIE II renfermant environ 10 858 k
 
 
 Sur l’île de Baffin;
-
-
-
-
 
 
 
@@ -5610,10 +5598,6 @@ Tout élément topographique étant conforme au répertoire géographique du Can
 
 
 
-
-
-
-
 À partir du sommet du mont Thompson situé par environ 81°15′ de latitude et par environ 76°57′ de longitude;
 
 
@@ -5737,7 +5721,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345.
 
 
 
