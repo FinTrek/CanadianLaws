@@ -507,6 +507,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Kluane First Nation
+
+</td>
+<td>Council of the Kluane First Nation
+
+</td>
+<td>Settlement Land of the Kluane First Nation under the Kluane First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+
+</td>
+</tr>
+<tr>
 <td>Little Salmon/Carmacks First Nation
 
 </td>
@@ -650,5 +661,7 @@ where
 </td>
 </tr>
 </table>
+
+> 2003, c. 15, s. 67 "Sch."; SOR/2004-281.
 
 
