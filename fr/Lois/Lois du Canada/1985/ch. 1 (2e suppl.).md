@@ -1706,14 +1706,12 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Décisions anticipées**
 
-<sup><a href='#c-52-6-f-2005-01-25'>[*]</a></sup>**43.1** 
+**43.1** 
 
 - **(1)** L'agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l'application du présent article est tenu, sur demande d'un membre d'une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, avec les renseignements et en la forme réglementaires, de rendre, avant l'importation de marchandises, une décision anticipée :
 	- **a) ** sur l'origine des marchandises et l'application à leur égard du traitement tarifaire préférentiel découlant d'un accord de libre-échange;
-	- **b) ** s'agissant de marchandises exportées d'un pays ALÉNA ou du Chili, sur toute autre question portant sur l'application à celles-ci du paragraphe 1 de l'article 509 de l'ALÉNA ou du paragraphe 1 de l'article E-09 de l'ALÉCC, selon le cas;
+	- **b)** s'agissant de marchandises exportées d'un pays ALÉNA, du Chili ou du Costa Rica, sur toute autre question portant sur l'application à celles-ci du paragraphe 1 de l'article 509 de l'ALÉNA, du paragraphe 1 de l'article E-09 de l'ALÉCC ou du paragraphe 1 de l'article V.9 ou du paragraphe 10 de l'article IX.2 de l'ALÉCCR, selon le cas;
 	- **c) ** sur le classement tarifaire des marchandises.
-
-<a name='c-52-6-f-2005-01-25'><sup>*</sup></a>: [Note : L'alinéa 43.1(1)b), édicté par 2001, ch. 25, art. 36, sera modifié ultérieurement.]<br />
 
 **Règlements**
 
@@ -1722,7 +1720,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **b) ** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
 	- **c) ** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
 	- **d) ** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F).
 
 
 
