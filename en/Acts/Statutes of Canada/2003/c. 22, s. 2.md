@@ -8,7 +8,9 @@
 Assented to on 7 November 2003
 
 ```
-[Enacted by section 2 of chapter 22 of the Statutes of Canada, 2003, not in force.]
+[Enacted by section 2 of chapter 22 of the Statutes of Canada, 2003; preamble, sections 1 to 3 and Part 1, in force April 1, 2005, 
+see SI/2005-22; Part 2, other than subparagraph 209(1)(c)(ii), paragraph 211(b) and section 231, in force April 1, 2005, 
+see SI/2005-23; Parts 3 and 4 in force April 1, 2005, see SI/2005-24.]
 ```
 ----------
 
@@ -342,7 +344,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(2)** Despite paragraph (1)(b), a person is not ineligible to hold office as a member by reason only of holding office as a member of any board that may be constituted by the Commissioner in Council of the Northwest Territories or the Legislature of Yukon or the Legislature for Nunavut with powers and functions similar to those of the Board.
-> 2003, c. 22, ss. 2 "18", 273.
+> 2003, c. 22, ss. 2 “18”, 273.
 
 
 
@@ -720,22 +722,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **51** 
 
-- **(1)** Subject to this Part, every order or decision of the Board is final and may not be questioned or reviewed in any court, except in accordance with the 
-[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on the grounds referred to in paragraph 18.1(4)(a), (b) or (e) of that Act.
+- **(1)** Subject to this Part, every order or decision of the Board is final and may not be questioned or reviewed in any court, except in accordance with the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) on the grounds referred to in paragraph 18.1(4)(a), (b) or (e) of that Act.
 
 **Standing of Board**
 
 - **(2)** The Board has standing to appear in proceedings referred to in subsection (1) for the purpose of making submissions regarding the standard of review to be used with respect to decisions of the Board and the Board’s jurisdiction, policies and procedures.
 
-**No review by 
-certiorari, etc.**
+**No review by certiorari, etc.**
 
 - **(3)** Except as permitted by subsection (1), no order, decision or proceeding of the Board made or carried on under or purporting to be made or carried on under this Part may, on any ground, including the ground that the order, decision or proceeding is beyond the jurisdiction of the Board to make or carry on or that, in the course of any proceeding, the Board for any reason exceeded or lost its jurisdiction,
 	- **(a)** be questioned, reviewed, prohibited or restrained; or
-	- **(b)** be made the subject of any proceedings in or any process of any court, whether by way of injunction, 
-*certiorari*, prohibition, 
-*quo warranto* or otherwise.
-> 2003, c. 22, ss. 2 "51", 274.
+	- **(b)** be made the subject of any proceedings in or any process of any court, whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise.
+> 2003, c. 22, ss. 2 “51”, 274.
 
 
 
@@ -1159,9 +1157,9 @@ certiorari, etc.**
 
 **80** The following definitions apply in this section and sections 81 to 93.
 
-***conversion*** means the establishment as a separate agency, or the integration into a separate agency, of any portion, or part of a portion, of the core public administration.
+***conversion*** means the establishment as a separate agency, or the integration into a separate agency, of any portion, or part of a portion, of the core public administration. (*conversion*)
 
-***new separate agency*** means a separate agency established as a result of a conversion or into which is integrated any portion, or part of a portion, of the core public administration as the result of a conversion.
+***new separate agency*** means a separate agency established as a result of a conversion or into which is integrated any portion, or part of a portion, of the core public administration as the result of a conversion. (*nouvel organisme distinct*)
 
 
 
