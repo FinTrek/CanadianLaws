@@ -336,6 +336,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation des accidents du travail**
 
 - **(3)** Ils sont réputés être agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et occuper un emploi au sein de l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 1994, ch. 43, art. 15; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -1428,6 +1430,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**10** L’accord conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la Première Nation de Kwanlin Dun — représentée par le chef de la Première Nation de Kwanlin Dun —, et signé le 19 février 2005.
+
+
+
 **PARTIE II** 
 ### Accords sur l’autonomie gouvernementale
 
@@ -1467,7 +1473,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **9** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la première nation de Kluane — représentée par le chef de la première nation de Kluane —, et signé le 18 octobre 2003.
 
 
-> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378; DORS/2004-10.
+
+**10** L’accord sur l’autonomie en matière d’administration publique conclu entre Sa Majesté du chef du Canada — représentée par le ministre fédéral —, le gouvernement du Yukon — représenté par le chef du gouvernement du Yukon — et la Première Nation de Kwanlin Dun — représentée par le chef de la Première Nation de Kwanlin Dun —, et signé le 19 février 2005.
+
+
+> 1994, ch. 43, ann. I; DORS/98-178; DORS/99-14; DORS/2002-378; DORS/2004-10; DORS/2005-70.
 
 
 
