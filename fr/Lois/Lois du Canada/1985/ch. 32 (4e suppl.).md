@@ -75,9 +75,11 @@
 
 ***biens*** Toute chose pouvant être apportée ou placée à bord d’un train comme effet personnel, bagage ou marchandises.
 
+*French version only****conseiller*** Membre du Tribunal.
+
 ***contrôle*** Acte autorisé ou exigé, en vertu d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire, pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un train ou dans une installation ferroviaire.
 
-***cour supérieure*** Selon le cas :
+***cour supérieure*** Selon le cas :
 - **a)** la Cour supérieure de justice de l’Ontario;
 - **a.1)** la section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
 - **b)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
@@ -119,6 +121,8 @@
 
 ***texte relatif à la sûreté du transport ferroviaire*** Règle établie ou proposée en vertu des articles 19 ou 20, injonction prise par le ministre en vertu de l’article 33, avis donné par l’inspecteur en application du paragraphe 31(3) ou mesure établie en vertu du paragraphe 39.1(1).
 
+***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
+
 ***zone réglementée*** Toute zone établie aux termes d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire et dont l’accès est réservé aux personnes autorisées.
 
 **Terminologie**
@@ -137,10 +141,10 @@
 
 - **(4.1)** La mention du risque ou du fait de compromettre la sécurité dans la présente loi vise tout danger ou toute condition qui pourrait éventuellement constituer une situation dans laquelle une personne pourrait être blessée ou tomber malade, l’environnement pourrait être compromis ou des biens matériels pourraient être endommagés. Le risque est dit imminent dans les cas où cette situation existe déjà.
 
-**Notification et communication de documents**
+**Notification et communication de document**
 
-- **(5)** Pour l’application de la présente loi, toute notification ou toute communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire ou par courrier recommandé à sa dernière adresse connue et, dans le cas d’une personne morale ou d’un organisme, par courrier recommandé à son siège ou à son bureau désigné par règlement. Elle peut aussi être faite par tout autre moyen approuvé, par écrit, par le ministre et aux conditions fixées par celui-ci.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2002, ch. 7, art. 234(A).
+- **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou toute communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire ou par courrier recommandé à sa dernière adresse connue et, dans le cas d’une personne morale ou d’un organisme, par courrier recommandé à son siège ou à son bureau désigné par règlement. Elle peut aussi être faite par tout autre moyen approuvé, par écrit, par le ministre et aux conditions fixées par lui.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A).
 
 
 
@@ -866,6 +870,146 @@
 
 
 
+**Désignation : suspension, annulation ou refus pour inaptitude**
+
+**27.1** 
+
+- **(1)** Le ministre peut suspendre, annuler ou refuser de renouveler la désignation d’un agent de contrôle, ou refuser de désigner une personne à titre d’agent de contrôle, s’il estime que l’intéressé est inapte ou ne répond pas — ou ne répond plus — aux conditions de délivrance ou de maintien en état de validité de la désignation.
+
+**Désignation : suspension ou annulation pour infraction**
+
+- **(2)** Le ministre peut suspendre ou annuler la désignation de l’agent de contrôle s’il estime que celui-ci a commis une infraction, au sens de l’article 41.
+
+**Désignation : suspension pour motif de sécurité**
+
+- **(3)** Le ministre peut suspendre la désignation de l’agent de contrôle s’il estime que l’exercice, par lui, des fonctions d’agent de contrôle constitue un danger immédiat ou probable pour la sûreté du transport ferroviaire.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Avis**
+
+**27.2** 
+
+- **(1)** S’il décide de suspendre, d’annuler ou de refuser de renouveler la désignation de l’agent de contrôle, ou de refuser de désigner une personne à titre d’agent de contrôle, le ministre expédie à l’intéressé un avis de sa décision.
+
+**Contenu de l’avis**
+
+- **(2)** Sont notamment indiqués dans l’avis :
+	- **a)** les motifs de la décision du ministre;
+	- **b)** le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+
+**Prise d’effet**
+
+- **(3)** Dans le cas d’une suspension ou d’une annulation, la date de prise d’effet de la décision :
+	- **a)** si elle est rendue en vertu des paragraphes 27.1(1) ou (3), ne peut être antérieure à la date de réception de l’avis par l’intéressé;
+	- **b)** si elle est rendue en vertu du paragraphe 27.1(2), ne peut être antérieure au trentième jour suivant l’expédition de l’avis.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Requête en révision**
+
+**27.3** 
+
+- **(1)** L’intéressé peut faire réviser la décision du ministre rendue en vertu de l’article 27.1 en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Effet de la requête**
+
+- **(2)** Le dépôt d’une requête en révision n’a pas pour effet de suspendre la décision.
+
+**Exception**
+
+- **(3)** Sauf s’il estime que cela constituerait un danger pour la sûreté du transport ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de l’intéressé peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 27.1(2) jusqu’à ce qu’il ait été statué sur la requête en révision.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Audience**
+
+**27.4** 
+
+- **(1)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(2)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Non-contraignabilité à témoigner**
+
+- **(3)** Dans le cas visé par le paragraphe 27.1(2), l’auteur de l’infraction présumée n’est pas tenu de témoigner.
+
+**Décision**
+
+- **(4)** Le conseiller peut :
+	- **a)** dans les cas visés aux paragraphes 27.1(1) ou (3), confirmer la décision ou renvoyer l’affaire au ministre pour réexamen;
+	- **b)** dans le cas visé au paragraphe 27.1(2), confirmer la décision ou substituer sa décision à celle du ministre.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Appel**
+
+**27.5** 
+
+- **(1)** Le ministre ou toute personne concernée peuvent faire appel au Tribunal de la décision rendue en vertu de l’alinéa 27.4(4)b); seule une personne concernée peut faire appel de celle rendue en vertu de l’alinéa 27.4(4)a). Dans tous les cas, le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut :
+	- **a)** dans les cas d’une décision visée à l’alinéa 27.4(4)a), rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen;
+	- **b)** dans les cas d’une décision visée à l’alinéa 27.4(4)b), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Maintien de la décision en cas de renvoi au ministre**
+
+**27.6** En cas de renvoi de l’affaire au ministre au titre des alinéas 27.4(4)a) ou 27.5(3)a), la décision du ministre de suspendre ou d’annuler la désignation continue d’avoir effet. Toutefois, le conseiller ou le comité peut, après avoir entendu les observations des parties et s’il estime que cela ne constitue pas un danger pour la sûreté du transport ferroviaire, prononcer la suspension de la décision de suspendre ou d’annuler la désignation rendue en vertu du paragraphe 27.1(1) jusqu’à ce que le ministre ait réexaminé sa décision.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Réexamen**
+
+**27.7** 
+
+- **(1)** Dans le cas d’une décision visée au paragraphe 27.1(3), si le comité rejette l’appel ou que le ministre maintient la suspension après réexamen de la décision conformément aux alinéas 27.4(4)a) ou 27.5(3)a), l’intéressé peut, par écrit, demander au ministre de réexaminer la question de savoir s’il y a toujours danger immédiat ou probable pour la sûreté du transport ferroviaire.
+
+**Procédure applicable**
+
+- **(2)** Sur réception de la demande, le ministre procède sans délai au réexamen et informe l’intéressé de sa décision. Les articles 27.2 à 27.6 s’appliquent, avec les adaptations nécessaires, à sa décision.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
+**Définition de désignation**
+
+**27.8** Pour l’application des articles 27.1 à 27.7, est assimilé à la désignation tout avantage qu’elle octroie.
+> 2001, ch. 29, art. 65.
+
+
+
+
+
 **Pouvoirs de l’inspecteur**
 
 **28** 
@@ -956,6 +1100,10 @@
 
 - **(4)** Pour l’application des paragraphes (1) et (2), l’inspecteur ne peut, lorsque les normes de construction ou d’entretien sont conformes aux règlements, règles ou injonctions ministérielles applicables à cet égard, conclure qu’elles risquent de compromettre la sécurité ferroviaire.
 
+**Contenu de l’avis**
+
+- **(4.1)** Pour l’application des paragraphes (1) à (3), l’avis qui comporte un ordre doit indiquer le lieu et la date limite, à savoir trente jours après son expédition au destinataire, du dépôt d’une éventuelle requête en révision.
+
 **Avis au ministre**
 
 - **(5)** L’inspecteur informe le ministre, dans les meilleurs délais, de tout ordre donné en application du présent article et des raisons qui le motivent.
@@ -972,14 +1120,83 @@
 
 - **(8)** L’ordre ne peut être modifié ou annulé par un autre inspecteur qu’en cas d’empêchement du premier.
 
-**Révision, annulation ou modification**
+**Révision**
 
-- **(9)** Sur demande écrite de la compagnie ou de la personne visée, le ministre procède sans délai à la révision de l’ordre donné par l’inspecteur en application du présent article et peut alors, par arrêté, l’annuler ou le modifier. Il peut aussi prendre cet arrêté de sa propre initiative.
+- **(9)** La modification de l’ordre par un autre inspecteur constitue un ordre révisable au titre des articles 31.1 à 31.5.
 
 **Prise d’effet**
 
 - **(10)** La modification ou l’annulation de l’ordre prend effet dès que le destinataire de l’avis ou de l’ordre en reçoit notification.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66.
+
+
+
+
+
+**Requête en révision**
+
+**31.1** 
+
+- **(1)** L’intéressé — compagnie ou autre personne visée par l’avis — peut faire réviser l’ordre de l’inspecteur en déposant une requête auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(2)** Le Tribunal, dès réception de la requête, fixe sans délai la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Décision**
+
+- **(4)** Le conseiller peut confirmer l’ordre ou faire parvenir le dossier au ministre pour examen.
+> 2001, ch. 29, art. 67.
+
+
+
+
+
+**Appel**
+
+**31.2** 
+
+- **(1)** L’intéressé peut, dans les trente jours suivant la décision du conseiller, faire appel au Tribunal de cette décision.
+
+**Perte du droit d’appel**
+
+- **(2)** L’intéressé qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut rejeter l’appel ou faire parvenir le dossier au ministre pour examen.
+> 2001, ch. 29, art. 67.
+
+
+
+
+
+**Effet des procédures sur l’ordre**
+
+**31.3** Ni la révision, ni l’appel, ni l’examen n’ont pour effet de suspendre l’ordre donné par l’inspecteur.
+> 2001, ch. 29, art. 67.
+
+
+
+
+
+**Examen**
+
+**31.4** Lors de son examen au titre des paragraphes 31.1(4) ou 31.2(3) ou de sa propre initiative, le ministre peut confirmer l’ordre de l’inspecteur ou, par arrêté, modifier ou annuler celui-ci. Il est entendu que sa décision peut être assimilée à une ordonnance judiciaire aux termes de l’article 34.
+> 2001, ch. 29, art. 67.
+
+
+
+
+
+**Prise d’effet**
+
+**31.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre de l’inspecteur en reçoit notification.
+> 2001, ch. 29, art. 67.
 
 
 
@@ -1007,10 +1224,83 @@
 
 - **(3.1)** S’il estime que le système de gestion de la sécurité ferroviaire établi par une compagnie de chemin de fer présente des lacunes qui risquent de compromettre la sécurité ferroviaire, le ministre peut, par avis, ordonner à la compagnie d’apporter les mesures correctives nécessaires.
 
-**Effet de l’ordre**
+**Contenu de l'avis**
 
-- **(4)** L’ordre donné dans un avis prévu aux paragraphes (1), (3) ou (3.1) prend effet à la réception de celui-ci par son destinataire.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25.
+- **(4)** L’ordre donné dans un avis prévu aux paragraphes (1), (3) ou (3.1) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68.
+
+
+
+
+
+**Requête en révision**
+
+**32.1** 
+
+- **(1)** L’intéressé — compagnie ou autre personne visée par l’avis — peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé. Dans le cas d’un ordre donné en vertu du paragraphe 32(3), il le fait sans délai.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Non-contraignabilité à témoigner**
+
+- **(4)** Dans le cas visé au paragraphe 32(3), l’auteur de la présumée violation n’est pas tenu de témoigner.
+
+**Décision**
+
+- **(5)** Le conseiller peut confirmer l’ordre ou renvoyer le dossier au ministre pour réexamen.
+> 2001, ch. 29, art. 69.
+
+
+
+
+
+**Appel**
+
+**32.2** 
+
+- **(1)** L’intéressé peut, dans les trente jours suivant la décision du conseiller, faire appel au Tribunal de cette décision.
+
+**Perte du droit d’appel**
+
+- **(2)** L’intéressé qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
+> 2001, ch. 29, art. 69.
+
+
+
+
+
+**Effet des procédures sur l’ordre**
+
+**32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1) ou (3.1) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision, ni l’appel, ni le réexamen n’ont pour effet de suspendre l’ordre donné en vertu du paragraphe 32(3).
+> 2001, ch. 29, art. 69.
+
+
+
+
+
+**Réexamen**
+
+**32.4** Lors de son réexamen au titre des paragraphes 32.1(5) ou 32.2(3), le ministre peut confirmer l’ordre ou, par arrêté, annuler ou modifier celui-ci. Il est entendu que sa décision peut être assimilée à une ordonnance judiciaire aux termes de l’article 34.
+> 2001, ch. 29, art. 69.
+
+
+
+
+
+**Prise d’effet**
+
+**32.5** La modification ou l’annulation prend effet dès que le destinataire de l’ordre donné en vertu de l’article 32 en reçoit notification.
+> 2001, ch. 29, art. 69.
 
 
 
@@ -1349,14 +1639,22 @@
 
 **Nature des arrêtés, injonctions, etc.**
 
-**46** Les textes suivants ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
-- **a)** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
-- **b)** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
-- **c)** les avis d’exemption visés au paragraphe 22(2);
-- **d)** les ordres et les avis prévus aux articles 31 et 32;
-- **e)** les injonctions ministérielles visées à l’article 33;
-- **f)** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33.
+**46** Les textes suivants ne sont pas des textes réglementaires au sens de la 
+[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
+- **a)
+** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
+- **b)
+** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
+- **c)
+** les avis d’exemption visés au paragraphe 22(2);
+- **d)
+** les ordres et les avis prévus aux articles 31 à 32.5;
+- **e)
+** les injonctions ministérielles visées à l’article 33;
+- **f)
+** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1).
+> L.R. (1985), ch. 32 (4
+<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70.
 
 
 
