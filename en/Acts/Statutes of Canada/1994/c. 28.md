@@ -1,0 +1,506 @@
+> [Go to French version](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md)
+
+# Canada Student Financial Assistance Act
+
+**S.C. 1994, c. 28**
+
+
+Assented to on 23 June 1994
+
+----------
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+## Short Title
+
+
+
+**Short title**
+
+**1** This Act may be cited as the Canada Student Financial Assistance Act.
+
+
+
+
+## Interpretation
+
+
+
+**Definitions**
+
+**2** 
+
+- **(1)** In this Act,
+
+***appropriate authority***, in respect of a province, means an appropriate authority designated for the province pursuant to subsection 3(1);
+
+***designated educational institution*** means an institution of learning designated pursuant to subsection 3(1), and includes a specified educational institution within the meaning of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
+
+***lender*** means a financial institution within the meaning of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or other corporation that is a party to an agreement with the Minister entered into under section 5;
+
+***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act;
+
+Version anglaise seulement***prescribed***, in the case of a form or the information to be given on a form, means prescribed by the Minister and, in any other case, means prescribed by the regulations;
+
+***qualifying student*** means a person
+- **(a)** who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md),
+- **(b)** who is qualified for enrolment or is enrolled at a designated educational institution as a full-time student or part-time student for a period of studies at a post-secondary school level, and
+- **(c)** who intends to attend a designated educational institution as a full-time student or part-time student for a period of studies described in paragraph (b) if it is financially possible for that person to do so.
+
+**Other definitions**
+
+- **(2)** In this Act, the words and expressions “borrower”, “consolidated student loan agreement”, “course”, “family income”, “financial assistance”, “full-time student”, “loan year”, “part-time student”, “period of studies”, “permanent disability”, “post-secondary school level”, “program of studies”, “student loan” and “student loan agreement” have the meanings assigned by the regulations.
+
+**Words and expressions in relation to previous loan years**
+
+- **(3)** Words and expressions used in this Act have, when used in respect of a loan year before the loan year in which this section comes into force, the meanings assigned to them by the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md).
+> 1994, c. 28, s. 2; 2001, c. 27, s. 219
+
+
+
+
+
+## Appropriate Authorities
+
+
+
+**Designation of appropriate authorities**
+
+**3** 
+
+- **(1)** For the purposes of this Act, the Minister may, by order, designate for a province
+	- **(a)** an appropriate authority, which authority may designate as designated educational institutions any institutions of learning in Canada that offer courses at a post-secondary school level, or any class of such institutions; and
+	- **(b)** an appropriate authority, which authority may designate as designated educational institutions any institutions of learning outside Canada that offer courses at a post-secondary school level, or any class of such institutions.
+
+**Revocations and exclusions**
+
+- **(2)** An appropriate authority may revoke any designation made by it under subsection (1), and any designation made in respect of the province under the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) and, in the case of a designation of a class, may exclude any named institution from that designation.
+
+
+
+
+**Agreements**
+
+**4** 
+
+- **(1)** The Minister may enter into an agreement with an appropriate authority, or with an appropriate authority and the government of the province for which the authority was designated, respecting the exercise or performance of any of the authority’s powers, duties or functions under this Act or the regulations.
+
+**Directives**
+
+- **(2)** The Minister may give directives to any appropriate authority respecting the exercise or performance of any of its powers, duties or functions under this Act or the regulations, and such directives are binding on the appropriate authority.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of directives given under subsection (2).
+
+
+
+
+## Agreements with Lenders
+
+
+
+**Agreements**
+
+**5** The Minister may, if the Minister considers it appropriate, with the concurrence of the Minister of Finance, enter into an agreement with any lender respecting the making of student loans or the provision of other forms of financial assistance to students by the lender, and such an agreement may, without limiting the generality of the foregoing, provide for
+- **(a)** the payment by the Minister to the lender of all or a portion of
+	- **(i)** amounts equivalent to interest on a student loan made by the lender in respect of the period for which no interest is payable by the borrower pursuant to subsection 7(1),
+	- **(ii)** amounts equivalent to interest on a student loan made by the lender in respect of any period for which no interest is payable by the borrower pursuant to regulations made under paragraph 15(n),
+	- **(iii)** principal and interest on a student loan made by the lender to a borrower against whom the rights of the lender are terminated by section 10 or 11,
+	- **(iv)** amounts in respect of a student loan made by the lender that are paid under regulations made under paragraph 15(l),
+	- **(v)** a risk premium for lending risks on a student loan made by the lender,
+	- **(vi)** amounts necessary for the purchase of a student loan made by the lender that is payable and on which no payment has been made by the borrower in at least one year, and a percentage of amounts recovered by the Minister in respect of that loan,
+	- **(vii)** adjusted amounts in respect of principal and interest on a student loan, where an inadvertent error concerning the rate of interest or the amount to be repaid is made by the lender in drawing up the consolidated student loan agreement or the student loan agreement,
+	- **(viii)** amounts in respect of the loss suffered by the lender on a student loan made to a full-time student who, before the month following the month in which the borrower ceases to be a full-time student,
+		- **(A)** makes an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) that is filed and not cancelled, is deemed under that Act, by reason of circumstances occurring before that following month, to have made an assignment, or is the subject of a receiving order made under that Act,
+		- **(B)** makes a proposal under Division I or II of Part III of that Act that is approved or deemed to be approved by a court under that Act,
+		- **(C)** is granted a consolidation order under Part X of that Act, or
+		- **(D)** is granted relief under a provincial law relating to the orderly payment of debts, and
+	- **(ix)** any other amounts that the Minister considers appropriate in respect of a student loan made, or other financial assistance provided, by the lender;
+- **(b)** audits and adjustments in respect of payments made to the lender by the Minister;
+- **(c)** subject to the regulations, the circumstances in which the lender is, on application, required to provide financial assistance to a qualifying student in an amount not exceeding the maximum amount determined in accordance with section 12;
+- **(d)** the manner of calculating the interest payable by a borrower to the lender on a student loan made by the lender, including the amount on which interest is to be calculated and the rate of interest or the manner of determining the rate of interest;
+- **(e)** the repayment of student loans by borrowers on an income-contingent basis;
+- **(f)** the provisions to be included in an agreement between a borrower and the lender relating to a student loan, the making of amendments to the agreement, and the conditions and consequences of making an amendment;
+- **(g)** the procedures to be followed by the lender in making, collecting or otherwise dealing with a student loan;
+- **(h)** the making of reports to the Minister respecting student loans; and
+- **(i)** the terms and conditions respecting the obligations of the Minister and the lender under the agreement.
+
+
+
+
+**Payments in accordance with agreement**
+
+**6** Subject to this Act and the regulations, the Minister shall pay to a lender, in accordance with any agreement entered into under section 5, any amount that is payable by the Minister to the lender under the agreement.
+
+
+
+
+## Government Financing of Student Loans
+
+
+
+**Agreements with qualifying students**
+
+**6.1** 
+
+- **(1)** Subject to subsection (2), the Minister, or any person authorized by order of the Minister to act on the Minister’s behalf, may enter into an agreement with any qualifying student for the purpose of making a student loan.
+
+**Terms and conditions to be approved by Governor in Council**
+
+- **(2)** The agreement shall be subject to terms and conditions approved by the Governor in Council, on the recommendation of the Minister with the concurrence of the Minister of Finance.
+> 2000, c. 14, s. 17
+
+
+
+
+
+**Agreement with service provider**
+
+**6.2** 
+
+- **(1)** The Minister may enter into an agreement with any corporation incorporated under the laws of Canada or a province and carrying on business in Canada (a “service provider”), respecting the administration of student loans made, or other forms of financial assistance provided, by the Minister. An agreement may provide for, but is not limited to, the following matters:
+	- **(a)** disbursing student loans or other forms of financial assistance on behalf of the Minister;
+	- **(b)** audits and adjustments in respect of payments made by the Minister under the agreement;
+	- **(c)** the manner of calculating the interest payable by the Minister to the service provider, including the amount on which interest is to be calculated and the rate of interest or the manner of determining the rate of interest;
+	- **(d)** the procedures to be followed by the service provider in making, collecting or otherwise dealing with a student loan and other forms of financial assistance;
+	- **(e)** the making of reports to the Minister respecting student loans and other forms of financial assistance;
+	- **(f)** the terms and conditions respecting the obligations of the Minister and the service provider under the agreement; and
+	- **(g)** the payment of compensation by the Minister to the service provider for the administration of student loans and other forms of financial assistance.
+
+**[Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)**
+
+- **(2)** The [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) applies to a service provider with respect to its activities under this Act as if it were a government institution.
+> 2000, c. 14, s. 17
+
+
+
+
+
+**Agreement with financial institutions**
+
+**6.3** Despite subsection 41(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister may enter into an agreement with any financial institution, as defined in the regulations, with respect to the disbursement of student loans.
+> 2000, c. 14, s. 17
+
+
+
+
+
+## Interest-free and Deferral Periods
+
+
+
+**Interest-free period for full-time students**
+
+**7** 
+
+- **(1)** Subject to the regulations, no interest is payable by a borrower on a student loan prescribed by regulations made under paragraph 15(j) in respect of any period of studies during which the borrower is a full-time student, or in respect of any subsequent period ending on the last day of the month in which the borrower ceases to be a full-time student.
+
+**No fees**
+
+- **(2)** No fee of any kind may be charged to a borrower on a student loan in respect of any period of studies, or a subsequent period, referred to in subsection (1).
+
+
+
+
+**Payment deferred for full-time students**
+
+**8** Subject to the regulations, no amount on account of principal or interest in respect of a student loan prescribed by regulations made under paragraph 15(j) that is made to a full-time student is required to be paid by the borrower until the last day of the seventh month after the month in which the borrower ceases to be a full-time student.
+
+
+
+**9** [Repealed, 1998, c. 21, s. 99]
+
+
+
+
+## Death or Disability of Borrower
+
+
+
+**Death of borrower**
+
+**10** All rights of the lender against a borrower in respect of a student loan prescribed by regulations made under paragraph 15(j) to a full-time student terminate if the borrower dies before the month following the month in which the borrower would have otherwise ceased to be a full-time student, and in that event the Minister shall pay to the lender the amounts referred to in subparagraph 5(a)(iii).
+
+
+
+
+**Permanent disability of borrower**
+
+**11** 
+
+- **(1)** All rights of the lender against a borrower in respect of a student loan prescribed by regulations made under paragraph 15(j) terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided to the Minister by or on behalf of the borrower, that the borrower, by reason of the borrower’s permanent disability, is or will be unable to repay the student loan without exceptional hardship, taking into account the borrower’s family income, and in that event the Minister shall pay to the lender the amounts referred to in subparagraph 5(a)(iii).
+
+**Time of disability**
+
+- **(2)** For the purposes of subsection (1), the permanent disability must occur
+	- **(a)** in the case of a full-time student, before the first day of the seventh month after the month in which the borrower ceases to be a full-time student; and
+	- **(b)** in the case of a part-time student, before the day on which the lender and the borrower enter into the student loan agreement.
+
+
+
+
+## Certificates of Eligibility
+
+
+
+**Issue of certificates**
+
+**12** 
+
+- **(1)** Subject to the regulations, the appropriate authority for a province designated under paragraph 3(1)(a) may, on application, issue or cause to be issued a certificate of eligibility in the prescribed form, for a period of studies at a designated educational institution in Canada or outside Canada, to a qualifying student whom that authority considers
+	- **(a)** to have attained a satisfactory scholastic standard; and
+	- **(b)** to be in need of financial assistance.
+
+**Amount needed**
+
+- **(2)** Where the appropriate authority considers that a qualifying student meets the criteria set out in paragraphs (1)(a) and (b), it shall determine the amount the student needs, taking into consideration
+	- **(a)** the program of studies in which the qualifying student is registered;
+	- **(b)** the cost of books and other course-related supplies; and
+	- **(c)** whether the qualifying student is enrolled in an institution outside the province of residence of the student.
+
+**Contents**
+
+- **(3)** A certificate of eligibility must set out the social insurance number of the qualifying student and the maximum amount of the financial assistance that may be given to the student.
+
+**Maximum amount for certain full-time students**
+
+- **(4)** In the case of a full-time student, the maximum amount, for a province, of a student loan prescribed by regulations made under paragraph 15(j), and in respect of which a certificate of eligibility is issued, is the lesser of
+	- **(a)** the amount prescribed for that province, and
+	- **(b)** the product obtained by multiplying
+		- **(i)** the amount determined under subsection (2) for the student
+by
+		- **(ii)** the percentage prescribed for that province.
+
+**Escalator**
+
+- **(5)** The amount referred to in paragraph (4)(a) may be adjusted annually by an escalator determined in accordance with the prescribed formula.
+
+**Maximum amount for part-time students**
+
+- **(6)** In the case of a part-time student, the maximum amount, for a province, of a student loan in respect of which a certificate of eligibility is issued is the prescribed amount.
+
+**Maximum amount**
+
+- **(7)** The maximum amount of financial assistance in respect of which a certificate of eligibility is issued, other than a loan to which subsection (4) or (6) applies, is the prescribed amount, or the amount calculated in accordance with the prescribed formulas.
+
+**Idem**
+
+- **(8)** The maximum amount of financial assistance in respect of which a certificate of eligibility is not required is the prescribed amount, or the amount calculated in accordance with the prescribed formulas.
+
+
+
+
+## Maximum Amount of Outstanding Student Loans
+
+
+
+**Maximum amount**
+
+**13** Despite anything in this Act or any agreement entered into under section 5 or 6.1, the aggregate amount of outstanding student loans may not exceed fifteen billion dollars, except as otherwise provided by an appropriation Act or other Act of Parliament.
+> 1994, c. 28, s. 13; 2000, c. 14, s. 18
+
+
+
+
+
+## Alternative Payments
+
+
+
+**Alternative payment**
+
+**14** 
+
+- **(1)** Where the government of a province has, at least twelve months before the beginning of a loan year, notified the Minister in writing that a provincial student financial assistance plan will be in operation in that province in that loan year and that it does not wish, or no longer wishes, to participate in the plan established by this Act and the regulations, the Minister shall pay to the province, not later than six months after the end of that loan year and each following loan year in which it does not participate in the plan, an alternative amount for the loan year, calculated as provided in this section.
+
+**Non-participating provinces**
+
+- **(2)** The government of a province that, on the coming into force of this section, is not participating in the student loan plan established by the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) is deemed to have notified the Minister as described in subsection (1) in respect of the loan year in which this section comes into force.
+
+**Opting in, or opting back in**
+
+- **(3)** The government of a province that is not participating in the plan established by this Act and the regulations but later wishes to participate may do so by so notifying the Minister in writing at least six months, or such shorter period as the Minister may fix, before the beginning of the loan year in which it wishes to participate.
+
+**Calculation of alternative amount**
+
+- **(4)** The alternative amount for a province for a loan year (in this subsection referred to as the “current loan year”) is the amount, as determined by the Minister after consultation with the Chief Statistician of Canada, obtained by
+	- **(a)** multiplying
+		- **(i)** the net per capita costs for participating provinces for the loan year beginning on August 1, 1990,
+by
+		- **(ii)** the product obtained by multiplying the estimated number of persons in that province who, on the first day of the current loan year, have attained eighteen years of age and have not attained twenty-five years of age by the escalator determined under subsection (5), for each loan year in the period beginning on August 1, 1991 and ending on July 31 of the current loan year; and
+	- **(b)** subtracting from the product obtained under paragraph (a) the net costs for that province for the current loan year.
+
+**Escalator**
+
+- **(5)** For the purposes of subparagraph (4)(a)(ii),
+	- **(a)** subject to paragraph (b), the escalator for a loan year is a fraction of which
+		- **(i)** the numerator is the net per capita costs for participating provinces for that loan year, and
+		- **(ii)** the denominator is the net per capita costs for participating provinces for the previous loan year; and
+	- **(b)** the escalator for the first loan year in which a provincial student financial assistance plan will be in operation in the province, as stated in the notice under subsection (1), is a fraction of which
+		- **(i)** the numerator is the net per capita costs for participating provinces for that first loan year, and
+		- **(ii)** the denominator is the net per capita costs for the previous loan year for provinces that are participating provinces in that first loan year.
+
+**Definitions**
+
+- **(6)** In this section,
+
+***net costs***, for a province for a loan year, means the amount by which
+- **(a)** the estimated aggregate of all amounts paid by the Minister in that loan year
+	- **(i)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authority for that province, and
+	- **(ii)** to persons pursuant to regulations made under paragraph 15(p),
+excluding
+	- **(iii)** any amounts paid pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o), and
+	- **(iv)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii),
+
+exceeds
+- **(b)** the estimated aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in paragraph (a), excluding
+	- **(i)** any amounts received pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o), and
+	- **(ii)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii);
+
+***net per capita costs***, for participating provinces for a loan year, means a fraction of which
+- **(a)** the numerator is the amount by which the total program net costs for that loan year exceed the aggregate of the net costs for that loan year for all provinces that are not participating provinces in that loan year, and
+- **(b)** the denominator is the estimated number of persons in the participating provinces who, on the first day of the loan year, have attained eighteen years of age and have not attained twenty-five years of age;
+
+***total program net costs***, for a loan year, means the amount by which
+- **(a)** the aggregate of all amounts paid by the Minister in that loan year
+	- **(i)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authorities for participating provinces, and
+	- **(ii)** to persons pursuant to regulations made under paragraph 15(p),
+excluding
+	- **(iii)** any amounts paid pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o), and
+	- **(iv)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii),
+
+exceeds
+- **(b)** the aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in paragraph (a), excluding
+	- **(i)** any amounts received pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o), and
+	- **(ii)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii).
+
+**Exception**
+
+- **(7)** Amounts paid or received in relation to subparagraph 5(a)(viii) or section 7, 10 or 11, or in relation to programs established by regulations made under paragraph 15(l), (m), (n) or (p) or under section 11 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md), shall be included in the calculations described in the definitions “net costs” and “total program net costs” in subsection (6) only if the government of the province satisfies the Minister, by written notice received by the Minister before the beginning of the loan year in question, that, in relation to the matter in question, the provincial student financial assistance plan has substantially the same effect as the plan established by this Act and the regulations.
+> 1994, c. 28, s. 14; 2000, c. 14, s. 19
+
+
+
+
+
+## Regulations
+
+
+
+**Regulations**
+
+**15** The Governor in Council may make regulations
+- **(a)** defining the words and expressions referred to in subsection 2(2);
+- **(b)** providing for the assignment between lenders of agreements between borrowers and lenders, and prescribing the conditions and consequences of such assignments;
+- **(c)** providing for the transfer between branches of a lender of agreements between borrowers and that lender, and prescribing the conditions and consequences of such transfers;
+- **(d)** providing for the manner of completing certificates of eligibility, and prescribing the provisions to be included in those certificates;
+- **(e)** providing for the conditions to be met by a qualifying student before a disbursement in respect of a student loan may be made to the student;
+- **(e.1)** defining the term “financial institutions” for the purposes of section 6.3 and providing for the circumstances under which financial institutions may disburse student loans to qualifying students;
+- **(f)** prescribing the maximum number of weeks or periods of studies that may elapse after which, notwithstanding anything in this Act, the principal amount of a student loan made to a full-time student, and interest thereon, commence to be payable by the borrower;
+- **(g)** prescribing the circumstances in which a borrower is or ceases to be a full-time student;
+- **(h)** respecting the subrogation of Her Majesty in right of Canada to the rights of a lender;
+- **(i)** prescribing the circumstances under which a loan or a certificate of eligibility may be denied to a student, or an interest-free period referred to in subsection 7(1) may be terminated by the Minister;
+- **(j)** prescribing student loans to which section 7, 8, 10 or 11 or subsection 12(4) applies;
+- **(k)** providing for the exchange of information and records between persons, bodies or authorities in respect of student loans or other forms of financial assistance to students;
+- **(l)** providing, in respect of student loans made to full-time and part-time students, for the gratuitous payment, including the method of calculating it, whether conditionally or unconditionally, by the Minister to lenders of amounts in respect of such loans, and for the discharge of such loans to the extent of those amounts;
+- **(m)** notwithstanding any other provision of this Act, providing for the operation of a student loan program for part-time students, including the determination of a student’s status, terms of repayment of the loans, the advancement of loan funds and the maximum number of weeks or periods of studies that may elapse after which the principal amounts of the loans commence to be payable by the borrowers;
+- **(n)** providing for the establishment and operation of a program to provide special interest-free or interest-reduced periods to borrowers, including the terms and conditions of the granting or termination of the periods, the making, continuation or alteration of agreements between borrowers and lenders when the periods are granted or terminated and the authorization of lenders to grant or terminate the periods and otherwise administer the program;
+- **(o)** providing, in respect of any province, for repayment of student loans by borrowers on an income-contingent basis, or for the establishment and operation of a student loan program that is financed by Her Majesty in right of Canada or any agent of Her Majesty in right of Canada and that may provide for the repayment of student loans by borrowers on an income-contingent basis;
+- **(p)** providing for the establishment and operation of grant programs, and additional grant programs for qualifying students whose financial needs are greater than the maximum amount of the financial assistance that may be given to the student, and prescribing classes of persons who are eligible for grants;
+- **(q)** prescribing anything that is to be prescribed by the regulations; and
+- **(r)** generally, for carrying into effect the purposes and provisions of this Act.
+> 1994, c. 28, s. 15; 1998, c. 21, s. 100; 2000, c. 14, s. 20
+
+
+
+
+
+## General
+
+
+
+**Documents and information**
+
+**16** Any
+- **(a)** form or other document to be used in connection with giving financial assistance to students, or otherwise for the effective operation of this Act, or
+- **(b)** information to be included in any document referred to in paragraph (a), in addition to the information otherwise required by this Act or the regulations to be included in such a document,
+must be either determined by the Minister or approved by the Minister.
+
+
+
+
+**False statement or information**
+
+**17** 
+
+- **(1)** Every person who, in respect of a student loan or other financial assistance to a student, knowingly makes any false statement or misrepresentation in an application or other document or wilfully furnishes any false or misleading information is guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars.
+
+**Limitation period**
+
+- **(2)** A prosecution for an offence under this Act may not be instituted later than six years after the time when the subject-matter of the complaint arose.
+
+
+
+
+**Authority to enter into agreements and arrangements**
+
+**18** The Minister may
+- **(a)** enter into agreements or arrangements with any department, board or agency of the Government of Canada or any other public or private organization or agency to assist the Minister in carrying out the purposes and provisions of this Act; and
+- **(b)** with the approval of the Governor in Council, enter into agreements or arrangements with the government of any province
+	- **(i)** to facilitate the administration or enforcement of this Act or to provide for administrative fees, and
+	- **(ii)** to harmonize and administer federal and provincial financial assistance programs for students.
+
+
+
+
+**Payment out of C.R.F.**
+
+**19** Any amount payable by the Minister under this Act, the regulations or an agreement or arrangement entered into under this Act, including any student loans to be advanced by the Minister, shall be paid out of the Consolidated Revenue Fund.
+> 1994, c. 28, s. 19; 2000, c. 14, s. 21
+
+
+
+
+
+**Report to Parliament**
+
+**20** The Minister shall, each calendar year, prepare a report with respect to the administration of this Act during the loan year that ended in the immediately preceding calendar year, and shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the report is completed.
+
+
+
+
+## Amendments to Canada Student Loans Act
+
+
+**21 to 27** [Amendments]
+
+
+
+
+## Consequential Amendments
+
+
+**28** [Amendments]
+
+
+
+
+## Coming into Force
+
+
+
+**Coming into force**
+
+<sup><a href='#S-22.7_en_1'>[*]</a></sup>**29** This Act or any provision of this Act shall come into force on a day or days to be fixed by order of the Governor in Council.
+
+<a name='S-22.7_en_1'><sup>*</sup></a>: [Note: Act in force August 1, 1995, *see* SI/95-77.]<br />
+
+
