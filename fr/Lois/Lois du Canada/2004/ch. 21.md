@@ -35,23 +35,25 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 **Définitions**
 
-**2** Les définitions qui suivent s'appliquent à la présente loi.
+**2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***délinquant canadien*** Citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) qui a été reconnu coupable d'une infraction et qui, en application d'une décision qui ne peut plus faire l'objet d'un appel, est soit détenu, soit sous surveillance en raison d'une ordonnance de probation ou d'une mise en liberté sous condition, soit assujetti à une autre forme de liberté surveillée, dans une entité étrangère.
+***délinquant canadien*** Citoyen canadien au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) qui a été reconnu coupable d’une infraction et qui, en application d’une décision qui ne peut plus faire l’objet d’un appel, est soit détenu, soit sous surveillance en raison d’une ordonnance de probation ou d’une mise en liberté sous condition, soit assujetti à une autre forme de liberté surveillée, dans une entité étrangère. (*Canadian offender*)
 
-***délinquant étranger*** Citoyen ou national d'une entité étrangère qui a été reconnu coupable d'une infraction criminelle et qui, en application d'une décision qui ne peut plus faire l'objet d'un appel, est soit détenu, soit sous surveillance en raison d'une ordonnance de probation ou d'une mise en liberté sous condition, soit assujetti à une autre forme de liberté surveillée, au Canada.
+***délinquant étranger*** Citoyen ou national d’une entité étrangère qui a été reconnu coupable d’une infraction criminelle et qui, en application d’une décision qui ne peut plus faire l’objet d’un appel, est soit détenu, soit sous surveillance en raison d’une ordonnance de probation ou d’une mise en liberté sous condition, soit assujetti à une autre forme de liberté surveillée, au Canada. (*foreign offender*)
 
-***entité étrangère*** Sauf aux articles 31 et 32, État étranger, ou province, État ou autre subdivision politique, colonie, dépendance, possession ou territoire géré en condominium d'un État étranger, ou territoire placé sous le protectorat, la tutelle ou, d'une façon générale, la dépendance d'un État étranger, ou territoire ou autre entité, notamment un tribunal pénal international, avec lesquels le Canada a conclu un traité sur le transfèrement des délinquants ou une entente administrative visée aux articles 31 ou 32.
+***entité étrangère*** Sauf aux articles 31 et 32, État étranger, ou province, État ou autre subdivision politique, colonie, dépendance, possession ou territoire géré en condominium d’un État étranger, ou territoire placé sous le protectorat, la tutelle ou, d’une façon générale, la dépendance d’un État étranger, ou territoire ou autre entité, notamment un tribunal pénal international, avec lesquels le Canada a conclu un traité sur le transfèrement des délinquants ou une entente administrative visée aux articles 31 ou 32. (*foreign entity*)
 
-***infraction criminelle*** Infraction à une loi fédérale.
+***infraction criminelle*** Infraction à une loi fédérale. (*criminal offence*)
 
-***ministre*** Le solliciteur général du Canada.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***pénitencier*** S'entend au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md).
+***pénitencier*** S’entend au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md). (*penitentiary*)
 
-***prison*** Lieu de détention, à l'exclusion d'un pénitencier.
+***prison*** Lieu de détention, à l’exclusion d’un pénitencier. (*prison*)
 
-***traité*** Sont compris parmi les traités les conventions ou accords internationaux; ne sont pas visées par la présente définition les ententes administratives conclues en vertu des articles 31 ou 32.
+***traité*** Sont compris parmi les traités les conventions ou accords internationaux; ne sont pas visées par la présente définition les ententes administratives conclues en vertu des articles 31 ou 32. (*treaty*)
+> 2004, ch. 21, art. 2; 2005, ch. 10, art. 34.
+
 
 
 
