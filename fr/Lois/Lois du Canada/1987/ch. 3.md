@@ -263,6 +263,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 ***administration fédérale*** Fonction publique au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md). Y est assimilé tout secteur de l’administration publique fédérale qui y est intégré sur désignation par décret en conseil pris sous le régime du présent paragraphe et pour l’application du paragraphe (1).
 
 ***fonctionnaire****Civil servant* au sens de la loi provinciale.
+> 1987, ch. 3, art. 11; 2003, ch. 22, art. 117(A).
+
 
 
 
@@ -499,7 +501,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Présomption**
 
-- **(3)** Sous réserve du paragraphe (4), le personnel est réputé ne pas faire partie de l’administration fédérale ou provinciale.
+- **(3)** Sous réserve du paragraphe (4), le personnel est réputé ne pas faire partie de l’administration publique fédérale ou provinciale.
 
 **Mutations**
 
@@ -508,6 +510,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Définition de fonction publique**
 
 - **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+> 1987, ch. 3, art. 25; 2003, ch. 22, art. 118 et 225(A).
+
 
 
 
@@ -2824,6 +2828,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Mandats renouvelables**
 
 - **(3)** Les membres peuvent recevoir un nouveau mandat, à des fonctions identiques ou non.
+> 1987, ch. 3, art. 141; 2003, ch. 22, art. 119(A).
+
 
 
 
@@ -2844,11 +2850,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Rémunération**
 
-- **(4)** Les membres qui ne font pas partie de l’administration fédérale ou provinciale ont droit à la rémunération que peut autoriser l’Office.
+- **(4)** Les membres qui ne font pas partie de l’administration publique fédérale ou provinciale ont droit à la rémunération que peut autoriser l’Office.
 
 **Frais**
 
 - **(5)** Les membres ont le droit de recevoir les frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors du lieu habituel de leur résidence.
+> 1987, ch. 3, art. 142; 2003, ch. 22, art. 120.
+
 
 
 
@@ -2864,11 +2872,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **144** 
 
-- **(1)** La majorité des membres, dont l’un ne fait pas partie de l’administration fédérale ou provinciale, constitue le quorum.
+- **(1)** La majorité des membres, dont l’un ne fait pas partie de l’administration publique fédérale ou provinciale, constitue le quorum.
 
 **Attributions**
 
 - **(2)** Le Comité peut, par règlement administratif compatible avec la présente partie, régir la conduite de ses travaux ainsi que les dates et lieux de ses réunions.
+> 1987, ch. 3, art. 144; 2003, ch. 22, art. 121.
+
 
 
 
