@@ -2171,7 +2171,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 - **(4)** A director is not liable under this section unless
 	- **(a)** the cooperative was sued for the debt within six months after it became due and execution was returned unsatisfied in whole or in part;
 	- **(b)** the cooperative has commenced liquidation or dissolution proceedings or was dissolved and a claim for the debt was proved no later than six months after the earlier of the date of commencement of the proceedings and the date of the dissolution; or
-	- **(c)** the cooperative made an assignment or was made subject to a receiving order under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt was proved no later than six months after the date of the assignment or receiving order.
+	- **(c)** the cooperative made an assignment or was made subject to a bankruptcy order under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and a claim for the debt was proved no later than six months after the date of the assignment or bankruptcy order.
 
 **Limitation period**
 
@@ -2188,7 +2188,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 **Contribution**
 
 - **(8)** A director who pays a debt owed under this section is entitled to contribution from the other directors who were liable for the debt.
-> 1998, c. 1, s. 102; 2001, c. 14, s. 167.
+> 1998, c. 1, s. 102; 2001, c. 14, s. 167; 2004, c. 25, s. 188.
 
 
 
