@@ -257,6 +257,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Le personnel et les contractuels ainsi engagés ne font pas partie de l’administration publique fédérale.
+> 1995, ch. 45, art. 17; 2003, ch. 22, art. 224(A).
+
 
 
 
