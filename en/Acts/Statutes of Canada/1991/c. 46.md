@@ -21597,7 +21597,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2003
+## As at December 31, 2004
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21638,6 +21638,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>CS Alterna Bank</td>
 <td>Ottawa</td>
+</tr>
+<tr>
+<td>Dundee Wealth Bank</td>
+<td>Toronto</td>
 </tr>
 <tr>
 <td>First Nations Bank of Canada</td>
@@ -21681,14 +21685,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 138, page 275.
+> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 139, page 751.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2003
+## As at December 31, 2004
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21735,16 +21739,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
-<td>Comerica Bank — Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>CTC Bank of Canada</td>
 <td>Vancouver</td>
-</tr>
-<tr>
-<td>Dresdner Bank Canada</td>
-<td>Toronto</td>
 </tr>
 <tr>
 <td>Habib Canadian Bank</td>
@@ -21764,10 +21760,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>International Commercial Bank of Cathay (Canada)</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Intesa Bank Canada</td>
 <td>Toronto</td>
 </tr>
 <tr>
@@ -21816,14 +21808,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 138, page 275.
+> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 139, page 751.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2003
+## As at December 31, 2004
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -21840,12 +21832,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Full-service</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Bank One, National Association</td>
-<td>Bank One, NA</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21898,14 +21884,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Greater Vancouver Regional District</td>
 </tr>
 <tr>
-<td>HSBC Bank USA</td>
-<td>HSBC Bank USA</td>
+<td>HSBC Bank USA, National Association</td>
+<td>HSBC Bank USA, National Association</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
 <tr>
-<td>JPMorgan Chase Bank</td>
-<td>JPMorgan Chase Bank</td>
+<td>JPMorgan Chase Bank, National Association</td>
+<td>JPMorgan Chase Bank, National Association</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21924,6 +21910,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>National City Bank</td>
 <td>National City</td>
+<td>Lending</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Ohio Savings Bank</td>
+<td>Ohio Savings Bank, Canadian Branch</td>
 <td>Lending</td>
 <td>Toronto</td>
 </tr>
@@ -21967,6 +21959,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 
 <a name='B-1.01_en_1'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 138, page 275.
+> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 139, page 751.
 
 
