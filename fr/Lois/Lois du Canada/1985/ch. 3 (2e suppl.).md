@@ -102,7 +102,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 **Modifications**
 
 - **(6)** Les lignes directrices de la province comprennent leurs modifications éventuelles.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61; 2002, ch. 7, art. 158(A)
 
 
 
@@ -636,10 +636,15 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 - **(1)** Les définitions qui suivent s’appliquent au présent article ainsi qu’à l’article 19.
 
 ***procureur général*** Selon la province, l’une des personnes suivantes :
-- **a)** le membre du Conseil du territoire du Yukon désigné par le commissaire de ce territoire;
-- **b)** le membre du Conseil des Territoires du Nord-Ouest désigné par le commissaire de ces territoires;
-- **b.1)** le membre du Conseil exécutif du Nunavut désigné par le commissaire du territoire;
-- **c)** le procureur général de toute autre province.
+
+- **a)
+** le membre du Conseil exécutif du Yukon désigné par le commissaire du Yukon;
+- **b)
+** le membre du Conseil des Territoires du Nord-Ouest désigné par le commissaire de ces territoires;
+- **b.1)
+** le membre du Conseil exécutif du Nunavut désigné par le commissaire du territoire;
+- **c)
+** le procureur général de toute autre province.
 
 La présente définition s’applique également à toute personne que le membre du conseil ou le procureur général autorise par écrit à le représenter dans l’exercice des fonctions prévues par le présent article ou l’article 19.
 
@@ -669,7 +674,7 @@ La présente définition s’applique également à toute personne que le membre
 **Communication**
 
 - **(6)** Après avoir recueilli ces éléments de preuve, le tribunal transmet au tribunal qui lui a renvoyé l’affaire un document certifié conforme ou attesté sous serment qui comporte l’énoncé ou un résumé de ces éléments assorti des recommandations qu’il juge indiquées.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 18; 1993, ch. 8, art. 3, ch. 28, art. 78
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 18; 1993, ch. 8, art. 3, ch. 28, art. 78; 2002, ch. 7, art. 159
 
 
 
@@ -774,16 +779,21 @@ La présente définition s’applique également à toute personne que le membre
 **20.1** 
 
 - **(1)** La créance alimentaire octroyée par une ordonnance peut être cédée :
-	- **a)** à un ministre fédéral désigné par le gouverneur en conseil;
-	- **b)** à un ministre d’une province ou à une administration qui est située dans celle-ci, désigné par le lieutenant-gouverneur en conseil de la province;
-	- **c)** à un membre du Conseil du territoire du Yukon ou à une administration qui est située dans ce territoire, désigné par le commissaire de ce territoire;
-	- **d)** à un membre du Conseil des Territoires du Nord-Ouest ou à une administration qui est située dans ces territoires, désigné par le commissaire de ces territoires;
-	- **e)** à un membre de l’Assemblée législative du Nunavut ou à une administration qui est située dans ce territoire, désigné par le commissaire de ce territoire.
+	- **a)
+** à un ministre fédéral désigné par le gouverneur en conseil;
+	- **b)
+** à un ministre d’une province ou à une administration qui est située dans celle-ci, désigné par le lieutenant-gouverneur en conseil de la province;
+	- **c)
+** à un député de l'Assemblée législative du Yukon ou à une administration située dans ce territoire, désigné par le commissaire du Yukon;
+	- **d)
+** à un membre du Conseil des Territoires du Nord-Ouest ou à une administration qui est située dans ces territoires, désigné par le commissaire de ces territoires;
+	- **e)
+** à un membre de l’Assemblée législative du Nunavut ou à une administration qui est située dans ce territoire, désigné par le commissaire de ce territoire.
 
 **Droits**
 
 - **(2)** Le ministre, le membre ou l’administration à qui la créance alimentaire octroyée par une ordonnance a été cédée a droit aux montants dus au titre de l’ordonnance et a le droit, dans le cadre des procédures relatives à la modification, l’annulation, la suspension ou l’exécution de l’ordonnance, d’en être avisé ou d’y participer au même titre que la personne qui aurait autrement eu droit à ces montants.
-> 1993, ch. 28, art. 78; 1997, ch. 1, art. 9; 1998, ch. 15, art. 23
+> 1993, ch. 28, art. 78; 1997, ch. 1, art. 9; 1998, ch. 15, art. 23; 2002, ch. 7, art. 160
 
 
 
