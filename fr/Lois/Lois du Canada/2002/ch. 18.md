@@ -70,27 +70,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 19.
+***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 19. (*enforcement officer*)
 
-***aire marine de conservation*** Aire marine nationale de conservation du Canada dénommée et décrite à l’annexe 1.
+***aire marine de conservation*** Aire marine nationale de conservation du Canada dénommée et décrite à l’annexe 1. (*marine conservation area*)
 
-***déchets ou autres matières*** Déchets ou autres matières énumérés à l’annexe 5 de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md).
+***déchets ou autres matières*** Déchets ou autres matières énumérés à l’annexe 5 de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md). (*waste or other matter*)
 
-***directeur*** Toute personne nommée sous le régime de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md) qui occupe le poste de directeur d’une aire marine de conservation ou qui est autorisée par le titulaire d’un tel poste à agir en son nom.
+***directeur*** Toute personne nommée sous le régime de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md) qui occupe le poste de directeur d’une aire marine de conservation ou qui est autorisée par le titulaire d’un tel poste à agir en son nom. (*superintendent*)
 
-***écosystème*** Unité fonctionnelle constituée par le complexe dynamique résultant de l’interaction des communautés de plantes, d’animaux et de micro-organismes qui y vivent et de leur environnement non vivant.
+***écosystème*** Unité fonctionnelle constituée par le complexe dynamique résultant de l’interaction des communautés de plantes, d’animaux et de micro-organismes qui y vivent et de leur environnement non vivant. (*ecosystem*)
 
-***garde d’aire marine de conservation*** Toute personne désignée en vertu de l’article 18.
+***garde d’aire marine de conservation*** Toute personne désignée en vertu de l’article 18. (*marine conservation area warden*)
 
-***immersion*** S’entend au sens de la définition de ce terme à l’article 122 de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), abstraction faite de la mention dans cette définition de mer.
+***immersion*** S’entend au sens de la définition de ce terme à l’article 122 de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), abstraction faite de la mention dans cette définition de mer. (*disposal*)
 
-***ministre*** Le ministre du Patrimoine canadien.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***pêche*** S’entend au sens de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+***pêche*** S’entend au sens de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md). (*fishing*)
 
-***réserve*** Réserve à vocation d’aire marine nationale de conservation du Canada dénommée et décrite à l’annexe 2.
+***réserve*** Réserve à vocation d’aire marine nationale de conservation du Canada dénommée et décrite à l’annexe 2. (*reserve*)
 
-***terres domaniales*** Terres, immergées ou non, appartenant à Sa Majesté du chef du Canada ou que le gouvernement du Canada peut aliéner, sous réserve des éventuels accords qu’il a conclus avec un gouvernement provincial.
+***terres domaniales*** Terres, immergées ou non, appartenant à Sa Majesté du chef du Canada ou que le gouvernement du Canada peut aliéner, sous réserve des éventuels accords qu’il a conclus avec un gouvernement provincial. (*public lands*)
 
 **Droits des autochtones**
 
@@ -103,6 +103,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de la loi aux réserves**
 
 - **(4)** La présente loi s’applique à une réserve comme si celle-ci constituait une aire marine de conservation.
+> 2002, ch. 18, art. 2; 2005, ch. 2, art. 6.
+
 
 
 
