@@ -64,7 +64,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***conference*** means a group of persons who are convened to give advice in accordance with section 19.
 
-***confirmed delivery service*** means certified or registered mail or any other method of service that provides proof of delivery.
+***confirmed delivery service***means certified or registered mail or any other method of service that provides proof of delivery.
 
 ***custodial portion***, with respect to a youth sentence imposed on a young person under paragraph 42(2)(n), (o), (q) or (r), means the period of time, or the portion of the young person’s youth sentence, that must be served in custody before he or she begins to serve the remainder under supervision in the community subject to conditions under paragraph 42(2)(n) or under conditional supervision under paragraph 42(2)(o), (q) or (r).
 
@@ -74,7 +74,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***extrajudicial sanction*** means a sanction that is part of a program referred to in section 10.
 
-***offence*** means an offence created by an Act of Parliament or by any regulation, rule, order, by-law or ordinance made under an Act of Parliament other than an ordinance of the Yukon Territory or the Northwest Territories or a law of the Legislature for Nunavut.
+***offence*** means an offence created by an Act of Parliament or by any regulation, rule, order, by-law or ordinance made under an Act of Parliament other than an ordinance of the Northwest Territories or a law of the Legislature of Yukon or the Legislature for Nunavut.
 
  ou ***parent*** includes, in respect of a young person, any person who is under a legal duty to provide for the young person or any person who has, in law or in fact, the custody or control of the young person, but does not include a person who has the custody or control of the young person by reason only of proceedings under this Act.
 
@@ -117,6 +117,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Descriptive cross-references**
 
 - **(3)** If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.
+> 2002, c. 1, s. 2, c. 7, s. 274.
+
 
 
 
@@ -4062,7 +4064,7 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 
 <sup><a href='#Y-1.5_en_1'>[*]</a></sup>**200** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='Y-1.5_en_1'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='Y-1.5_en_1'><sup>*</sup></a>: [Note: Act in force April 1, 2003, *see* SI/2002-91.]<br />
 
 
 
