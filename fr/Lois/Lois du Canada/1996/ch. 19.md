@@ -1191,8 +1191,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Règlements : activités policières**
 
-- **(2)** Sur recommandation du solliciteur général du Canada, le gouverneur en conseil peut prendre des règlements relativement aux enquêtes et autres activités policières menées aux termes de la présente loi par les membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision, et notamment :
-	- **a)** autoriser le solliciteur général du Canada ou le ministre responsable de la sécurité publique dans une province à désigner, aux fins du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
+- **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements relativement aux enquêtes et autres activités policières menées aux termes de la présente loi par les membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision, et notamment :
+	- **a)** autoriser ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner, pour l’application du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
 	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
 	- **c)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée des certificats ou autres documents — ou, en cas de situation d’urgence, des approbations en vue de leur obtention — à émettre à un membre d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la présente loi ou de ses règlements;
 	- **d)** régir la rétention, l’entreposage et la disposition des substances désignées et des précurseurs;
@@ -1201,8 +1201,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Règlements : activités policières**
 
-- **(2.1)** Sur recommandation du solliciteur général du Canada, le gouverneur en conseil peut prendre des règlements, relativement aux enquêtes et autres activités policières menées aux termes de toute autre loi fédérale, en vue d’autoriser des membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision à commettre un acte ou une omission — ou à en ordonner la commission — qui constituerait par ailleurs une infraction à la partie I ou aux règlements et notamment :
-	- **a)** autoriser le solliciteur général du Canada ou le ministre responsable de la sécurité publique dans une province à désigner, pour l’application du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
+- **(2.1)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements, relativement aux enquêtes et autres activités policières menées aux termes de toute autre loi fédérale, en vue d’autoriser des membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision à commettre un acte ou une omission — ou à en ordonner la commission — qui constituerait par ailleurs une infraction à la partie I ou aux règlements, et notamment :
+	- **a)** autoriser ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner, pour l’application du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
 	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
 	- **c)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée des certificats ou autres documents — ou, en cas de situation d’urgence, des approbations en vue de leur obtention — à remettre à un membre d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la partie I ou des règlements;
 	- **d)** régir la rétention, l’entreposage et la disposition des substances désignées et des précurseurs;
@@ -1212,7 +1212,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Incorporation par renvoi**
 
 - **(3)** Il peut être précisé, dans les règlements d’application de la présente loi qui incorporent par renvoi des classifications, normes, procédures ou autres spécifications, que celles-ci sont incorporées avec leurs modifications successives.
-> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55.
+> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15.
 
 
 
@@ -1225,9 +1225,11 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-**Exercice des attributions du ministre ou du solliciteur général du Canada**
+**Exercice des attributions du ministre ou du ministre de la Sécurité publique et de la Protection civile**
 
-**57** Les attributions conférées au ministre aux termes de la présente loi ou de ses règlements peuvent être exercées par la personne qu’il désigne à cet effet ou qui occupe le poste qu’il désigne à cet effet; il en va de même des attributions conférées aux termes des règlements au solliciteur général du Canada.
+**57** Les attributions conférées au ministre aux termes de la présente loi ou de ses règlements peuvent être exercées par la personne qu’il désigne à cet effet ou qui occupe le poste qu’il désigne à cet effet; il en va de même des attributions conférées aux termes des règlements au ministre de la Sécurité publique et de la Protection civile.
+> 1996, ch. 19, art. 57; 2005, ch. 10, art. 16.
+
 
 
 
@@ -1268,8 +1270,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Mentions**
 
-**61** La mention, dans une désignation établie par le solliciteur général du Canada aux termes de la partie VI du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), soit d’une infraction à la Loi sur les stupéfiants ou aux parties III ou IV de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre vaut, selon le cas, mention soit d’une infraction aux articles 5 (trafic de substances), 6 (importation et exportation) ou 7 (production) de la présente loi, soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre.
-> 1996, ch. 19, art. 61; 2001, ch. 32, art. 56.
+**61** La mention, dans une désignation établie par le ministre de la Sécurité publique et de la Protection civile aux termes de la partie VI du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), soit d’une infraction à la Loi sur les stupéfiants ou aux parties III ou IV de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre vaut, selon le cas, mention soit d’une infraction aux articles 5 (trafic de substances), 6 (importation et exportation) ou 7 (production) de la présente loi, soit du complot ou de la tentative de la commettre, de la complicité après le fait à son égard ou du fait de conseiller de la commettre.
+> 1996, ch. 19, art. 61; 2001, ch. 32, art. 56; 2005, ch. 10, art. 34.
 
 
 
