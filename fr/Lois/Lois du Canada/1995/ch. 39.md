@@ -71,7 +71,7 @@ Sont visés par la présente définition les musées.
 
 ***loi antérieure*** La partie III du  [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence. 
 
-***ministre fédéral*** Le ministre de la Justice. 
+***ministre fédéral*** Le ministre de la Sécurité publique et de la Protection civile.
 
 ***ministre provincial***
 - **a) ** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
@@ -100,7 +100,7 @@ Sont visés par la présente définition les musées.
 **Droits des autochtones**
 
 - **(3)** Il est entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la *Loi constitutionnelle de 1982*.
-> 1995, ch. 39, art. 2; 2000, ch. 12, art. 116; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9
+> 1995, ch. 39, art. 2; 2000, ch. 12, art. 116; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9; 2005, ch. 10, art. 29
 
 
 
