@@ -57,7 +57,9 @@ Sanctionnée sur le 12 décembre 2002
 
 **Avis**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#C-6-94'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='C-6-94'><sup>*</sup></a>: [Note : Convention en vigueur le 20 décembre 2002, *voir* Gazette du Canada Partie I, volume 137, page 400.]<br />
 
 
 
