@@ -1,0 +1,503 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md)
+
+# Loi sur la sécurité automobile
+
+**L.C. 1993, ch. 16**
+
+
+Sanctionnée sur le 6 mai 1993
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur la sécurité automobile.
+
+
+
+
+## Définitions
+
+
+
+**Définitions**
+
+**2** Les définitions qui suivent s’appliquent à la présente loi.
+
+***entreprise*** Selon le cas :
+- **a)** constructeur ou équipementier automobiles établis au Canada;
+- **b)** vendeur à des tiers, pour revente par ceux-ci, de matériels acquis auprès du constructeur ou de l’équipementier automobiles ou de leur mandataire;
+- **c)** importateur de matériels destinés à être vendus.
+
+***équipement*** Objet, visé à l’annexe I, conçu comme pièce ou accessoire de véhicule.
+
+ ou ***fabrication*** ou ***construction*** Ensemble des opérations de réalisation d’un véhicule, y compris les modifications qui y sont apportées, jusqu’à sa vente au premier usager.
+
+***inspecteur*** Personne désignée à ce titre conformément à l’article 14.
+
+***marque nationale de sécurité*** Le signe reproduit à l’annexe II, les mentions « Norme de sécurité des véhicules automobiles du Canada » ou « Canada Motor Vehicle Safety Standard » et les abréviations « NSVAC » ou « CMVSS ».
+
+French version only***matériels*** Véhicules ou équipements.
+
+***ministre*** Le ministre des Transports.
+
+***norme*** Règle ou norme s’appliquant à la conception, à la construction ou fabrication, au fonctionnement ou au marquage des matériels en vue de limiter les risques de mort et de dommages corporels ou matériels dus à l’utilisation des véhicules.
+
+***véhicule*** Véhicule automobile, ou faisant partie d’un attelage automobile, qui peut circuler sur la route; la présente définition ne vise toutefois pas les véhicules qui circulent exclusivement sur rail.
+
+***vente*** Sont assimilées à la vente la location, l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location.
+> 1993, ch. 16, art. 2; 1999, ch. 33, art. 350.
+
+
+
+
+
+## Marques nationales de sécurité
+
+
+
+**Nature et appartenance**
+
+**3** 
+
+- **(1)** Les marques nationales de sécurité sont des marques nationales de commerce, dont la propriété et l’usage sont, sauf disposition contraire de la présente loi, dévolus à Sa Majesté du chef du Canada.
+
+**Usage des marques**
+
+- **(2)** Sous réserve des autres dispositions de la présente loi, les entreprises autorisées, selon les modalités réglementaires, par le ministre, peuvent apposer des marques nationales de sécurité selon les modalités réglementaires et aux endroits prévus par règlement, sur les matériels appartenant à une catégorie déterminée par règlement.
+
+**Interdiction**
+
+- **(3)** L’usage des marques nationales de sécurité est subordonné à la présente loi.
+
+**Usage trompeur**
+
+- **(4)** Il est interdit d’employer une marque différente susceptible d’être confondue avec une marque nationale de sécurité.
+
+
+
+
+**Transport interprovincial**
+
+**4** Sauf disposition contraire prévue par règlement, le transport interprovincial ou la livraison à cette fin, par une entreprise, de matériels fabriqués au Canada et appartenant à une catégorie déterminée par règlement sont subordonnés à l’apposition sur eux de la marque nationale de sécurité conformément à l’article 3.
+
+
+
+
+## Normes relatives aux matériels
+
+
+
+**Conditions de régularité pour les entreprises**
+
+**5** 
+
+- **(1)** Pour une entreprise, l’apposition de la marque nationale de sécurité sur des matériels ou la vente de matériels ainsi marqués, de même que l’importation de matériels appartenant à une catégorie déterminée par règlement, sont subordonnées aux conditions suivantes :
+	- **a)** conformité aux normes réglementaires applicables à la catégorie à la fin de l’assemblage principal du véhicule ou de la fabrication de l’équipement;
+	- **b)** justification de la conformité selon les modalités réglementaires ou, si les règlements le prévoient, selon les modalités que le ministre juge satisfaisantes;
+	- **c)** [Abrogé, 1999, ch. 33, art. 351]
+	- **d)** apposition sur les matériels des renseignements réglementaires selon les modalités réglementaires et aux endroits prévus par règlement;
+	- **e)** fourniture avec les matériels, dans les cas prévus par règlement, des documents et accessoires réglementaires;
+	- **f)** diffusion, selon les modalités réglementaires, de tous renseignements réglementaires relatifs au fonctionnement ou à l’utilisation des matériels;
+	- **g)** tenue et fourniture, selon les modalités réglementaires, de dossiers relatifs à la conception, à la fabrication, aux essais ou au rendement sur le terrain des matériels, en vue de permettre à l’inspecteur de procéder aux vérifications de conformité à toutes les normes réglementaires applicables et de faciliter la détection et l’analyse des défauts visés au paragraphe 10(1);
+	- **h)** tenue par l’entreprise, en la forme et selon les modalités réglementaires, d’un fichier permettant d’identifier, à la demande de l’intéressé, tout acheteur d’équipements fabriqués, importés ou vendus par l’entreprise.
+
+**Conservation des dossiers**
+
+- **(2)** La durée de conservation obligatoire des dossiers visés à l’alinéa (1)g) ou du fichier visé à l’alinéa (1)h) est fixée par règlement.
+
+**Exception**
+
+- **(3)** Sauf disposition contraire prévue par règlement, une entreprise peut apposer une marque nationale de sécurité sur un véhicule, ou importer un véhicule, non conforme à l’une des prescriptions du paragraphe (1), à condition qu’il y soit conforme avant qu’elle ne se départe du véhicule et avant la présentation de celui-ci pour immatriculation sous le régime des lois d’une province.
+
+**Certification par un organisme étranger**
+
+- **(4)** Dans les cas prévus par règlement à l’égard d’une norme réglementaire qui correspond à un texte réglementaire d’un gouvernement étranger et sauf avis contraire du ministre, un véhicule est réputé conforme à la norme si un organisme de ce gouvernement, désigné par règlement, certifie que le véhicule est conforme à ce texte tel qu’appliqué par l’organisme.
+> 1993, ch. 16, art. 5; 1999, ch. 33, art. 351.
+
+
+
+
+
+**Importation par toute personne d’un véhicule**
+
+**6** L’importation par toute personne d’un véhicule d’une catégorie déterminée par règlement est subordonnée à l’observation des conditions prévues aux alinéas 5(1)a), b), d) et e).
+
+
+
+
+**Exceptions pour certaines importations**
+
+**7** 
+
+- **(1)** Les articles 5 et 6 ne s’appliquent pas à l’importation de matériels qui, selon le cas :
+	- **a)** ne doivent être utilisés qu’à des fins promotionnelles ou expérimentales, pendant une période fixée par le ministre ou n’excédant pas un an, l’importateur ayant fait, selon les modalités réglementaires, une déclaration à cet effet;
+	- **b)** doivent être utilisés exclusivement par une personne de passage ou en transit au Canada.
+
+**Véhicules acquis aux États-Unis**
+
+- **(2)** Sauf disposition contraire prévue par règlement et par dérogation aux articles 5 ou 6, un véhicule vendu aux États-Unis et non conforme à l’une de leurs prescriptions peut être importé si l’importateur déclare, selon les modalités réglementaires, que, avant sa présentation pour immatriculation sous le régime des lois d’une province, le véhicule sera rendu conforme à la prescription et sera attesté, selon les modalités réglementaires, conforme par la personne qui peut être désignée à ces fins par règlement.
+
+**Modification des normes**
+
+- **(3)** Le véhicule qui n’est pas conforme à la norme réglementaire prévue pour sa catégorie au moment de sa fabrication peut être importé malgré l’article 5 ou 6 si, au moment de l’importation, la norme n’est plus en vigueur et que :
+	- **a)** soit le véhicule est conforme à la norme réglementaire correspondante prévue pour sa catégorie à ce moment;
+	- **b)** soit aucune autre norme correspondante n’est en vigueur.
+
+**Conformité aux normes : véhicules importés**
+
+- **(4)** Un véhicule qui est importé au Canada doit se conformer à la norme prescrite pour la catégorie équivalente de véhicules non importés, ou être rendu conforme à cette norme avant sa présentation pour immatriculation sous le régime des lois d’une province.
+
+**Effets des déclarations**
+
+- **(5)** Il est interdit à l’auteur des déclarations visées à l’alinéa (1)a) ou au paragraphe (2) d’utiliser les matériels ou de s’en départir contrairement à celles-ci.
+
+
+
+**8** [Abrogé, 1999, ch. 33, art. 352]
+
+
+
+
+## Dispense pour les véhicules
+
+
+
+**Dispense**
+
+**9** 
+
+- **(1)** Le gouverneur en conseil peut par décret, pour une période et à des conditions déterminées, dispenser une entreprise de se conformer aux normes réglementaires applicables à un modèle de véhicule qu’elle fabrique ou importe, pourvu que l’entreprise en fasse la demande, en la forme et avec les renseignements techniques et financiers prévus par règlement, et qu’il juge que, par l’application de ces normes, se réaliserait l’une des conditions suivantes :
+	- **a)** création de grandes difficultés financières pour l’entreprise;
+	- **b)** entrave à la mise au point de dispositifs de sécurité équivalents ou supérieurs à ceux qui sont conformes aux normes réglementaires;
+	- **c)** entrave à la mise au point de nouveaux types de véhicules ou de dispositifs ou pièces de véhicules.
+
+**Durée**
+
+- **(2)** La dispense peut être accordée pour une période :
+	- **a)** d’au plus trois ans dans le cas visé à l’alinéa (1)a);
+	- **b)** d’au plus deux ans pour un nombre déterminé, limité à mille, de véhicules du même modèle dans les cas visés aux alinéas (1)b) ou c).
+
+**Conditions d’acceptation**
+
+- **(3)** La dispense ne peut être accordée lorsqu’elle aurait pour effet de porter considérablement atteinte à la sécurité de fonctionnement du modèle ou que l’entreprise n’a pas, de bonne foi, tenté au préalable d’assurer la conformité du modèle aux normes réglementaires applicables.
+
+**Idem**
+
+- **(4)** Une dispense fondée sur l’alinéa (1)a) ne peut être accordée à l’entreprise dans les cas suivants :
+	- **a)** la production mondiale annuelle de l’entreprise ou du constructeur a été, la seconde année précédant la période à l’égard de laquelle la demande est présentée, supérieure à dix mille véhicules;
+	- **b)** l’entreprise a construit ou importé cette année-là pour le marché canadien plus de mille véhicules.
+
+**Renouvellement**
+
+- **(5)** Une nouvelle dispense peut être accordée dans les conditions prévues par le présent article à l’échéance de la dispense originelle.
+> 1993, ch. 16, art. 9; 1999, ch. 33, art. 353.
+
+
+
+
+
+## Avis de défaut
+
+
+
+**Avis de défaut**
+
+**10** 
+
+- **(1)** L’entreprise qui fabrique, vend ou importe des matériels d’une catégorie régie par des normes et qui constate un défaut de conception, de fabrication ou de fonctionnement susceptible de porter atteinte à la sécurité humaine doit en donner avis, dans les meilleurs délais possible et selon les modalités réglementaires, au ministre, à toute personne qui a reçu d’elle les matériels et à leur propriétaire actuel. Elle détermine l’identité de celui-ci d’après :
+	- **a)** la garantie de fonctionnement des matériels qui, à sa connaissance, lui a été remise;
+	- **b)** dans le cas de véhicules, les registres provinciaux d’immatriculation;
+	- **c)** dans le cas d’équipements, le fichier visé à l’alinéa 5(1)h).
+
+**Avis déjà donné**
+
+- **(2)** L’entreprise n’a pas à faire donner un avis déjà donné sur le même défaut par une autre entreprise qui a fabriqué, vendu ou importé le véhicule ou l’équipement.
+
+**Publication**
+
+- **(3)** Le ministre peut, s’il est convaincu qu’il serait trop difficile pour l’entreprise de déterminer l’identité du propriétaire actuel par application du paragraphe (1), ordonner que le propriétaire n’ait pas à être avisé ou que l’avis soit publié, selon les modalités réglementaires, pendant cinq jours consécutifs dans deux quotidiens à tirage important de chacune des régions suivantes : les provinces de l’Atlantique, le Québec, l’Ontario, les Prairies, la Colombie-Britannique et les territoires, ou par tout autre moyen et pendant la période qu’il estime indiqués.
+
+**Teneur**
+
+- **(4)** L’avis prévu aux paragraphes (1) et (3) comporte, en la forme et dans la mesure réglementaires, la description du défaut, une estimation du risque correspondant et une indication des mesures correctives.
+
+**Information des autorités provinciales**
+
+- **(5)** Dès réception de l’avis prévu au paragraphe (1), le ministre en transmet la teneur au responsable du secteur des véhicules dans chaque administration provinciale.
+
+**Suivi**
+
+- **(6)** L’entreprise qui donne au ministre l’avis prévu au paragraphe (1) doit lui présenter, en la forme et dans les délais réglementaires et ensuite tous les trimestres, un rapport contenant les renseignements réglementaires relatifs au défaut et à sa correction.
+
+**Idem**
+
+- **(7)** Les rapports trimestriels visés au paragraphe (6) sont à présenter, sauf décision contraire du ministre, pendant deux ans suivant la date de l’avis prévu au paragraphe (1).
+
+
+
+
+## Règlements
+
+
+
+**Règlements**
+
+**11** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+	- **b)** prendre toute autre mesure d’application de la présente loi.
+
+**Portée**
+
+- **(2)** Un règlement d’établissement d’une norme peut être applicable à une proportion déterminée de véhicules d’une catégorie avant de l’être à tous.
+
+**Publication des projets de règlement**
+
+- **(3)** Les projets de règlements d’application de la présente loi sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter au ministre leurs observations à cet égard.
+
+**Exception**
+
+- **(4)** Ne sont pas visés les projets de règlement déjà publiés dans les conditions prévues au paragraphe (3) s’ils ont été modifiés à la suite de ces observations ou s’ils n’apportent pas de modifications de fond notables à la réglementation en vigueur.
+
+
+
+
+**Définition de « document de normes techniques »**
+
+**12** 
+
+- **(1)** Au présent article, ***document de normes techniques*** s’entend d’un document publié selon les modalités réglementaires sous l’autorité du ministre et reproduisant, dans les deux langues officielles du Canada et avec les adaptations facilitant son incorporation au titre du présent article, un texte édicté par un gouvernement étranger.
+
+**Incorporation d’un document**
+
+- **(2)** Les règlements pris au titre de la présente loi peuvent incorporer par renvoi un document de normes techniques en son état à la date qu’ils prévoient ou avec ses modifications éventuelles et étendre, limiter ou exclure l’application de toute disposition de ce document.
+
+**Publication**
+
+- **(3)** La personne qui continue de se conformer à toute disposition remplacée par un document de normes techniques incorporé dans un règlement n’est pas tenue de se conformer à celui-ci pendant les six mois qui suivent sa publication selon les modalités réglementaires.
+
+**Expiration**
+
+- **(4)** Dans le cas où ils incorporent un document de normes techniques avec ses modifications éventuelles, les règlements précisent leur propre date de cessation d’effet, qui doit se situer dans les cinq années qui suivent leur entrée en vigueur.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(5)** Les documents de normes techniques ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+**Arrêté à effet provisoire**
+
+**13** 
+
+- **(1)** Dans le cas où un texte édicté par un gouvernement étranger et correspondant à des règlements pris sous le régime de la présente loi est modifié ou dans le cas où son application est modifiée par suite d’une décision d’un tribunal étranger, le ministre peut, par arrêté, suspendre ou modifier l’application des règlements, pour une période d’au plus une année, dans la mesure où ils sont incompatibles avec le texte modifié.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(2)** Un arrêté pris au titre du paragraphe (1) n’est pas un règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), mais nul n’est tenu de s’y conformer s’il n’a pas été publié dans la Gazette du Canada ou si la personne en cause n’en a pas été formellement avisée.
+
+
+
+
+## Inspection
+
+
+
+**Inspecteurs**
+
+**14** 
+
+- **(1)** Le ministre peut désigner, en qualité d’inspecteur de la sécurité automobile, toute personne qu’il estime qualifiée.
+
+**Certificat**
+
+- **(2)** Le ministre remet à l’inspecteur un certificat attestant sa qualité, que celui-ci présente, sur demande, au responsable des lieux visés au paragraphe 15(1).
+
+
+
+
+**Visite des lieux**
+
+**15** 
+
+- **(1)** Afin de procéder à des vérifications de conformité à la présente loi, l’inspecteur peut, à toute heure convenable, pénétrer dans les lieux où il a des motifs raisonnables de croire à la présence :
+	- **a)** de matériels appartenant à une catégorie assujettie à des normes de sécurité réglementaires et qui sont la propriété ou se trouvent dans les locaux d’une entreprise ou d’un consignataire de matériels importés;
+	- **b)** de pièces destinées à servir à la fabrication de matériels ainsi assujettis;
+	- **c)** de dossiers visés par l’alinéa 5(1)g).
+
+**Examen des lieux**
+
+- **(2)** L’inspecteur peut, dans les circonstances visées au paragraphe (1), examiner tous matériels ou pièces trouvés sur les lieux et ouvrir et examiner tout emballage ou contenant qu’il croit, pour des motifs raisonnables, contenir des équipements ou pièces ainsi visés.
+
+**Demande de renseignements**
+
+- **(3)** L’inspecteur peut demander à toute personne de produire pour examen les livres, dossiers ou rapports, données d’essais, connaissements et feuilles d’expédition ou autres documents ou données informatiques qu’il croit, pour des motifs raisonnables, contenir des renseignements utiles à l’application de la présente loi ou à la détection ou à l’analyse d’un défaut visé au paragraphe 10(1), et en prendre des copies ou des extraits.
+
+**Saisie de biens**
+
+- **(4)** L’inspecteur peut saisir et, sous réserve des articles 489.1 à 491.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatifs à la disposition de biens saisis, retenir tous matériels ou pièces visés au paragraphe (1) qu’il croit, pour des motifs raisonnables, avoir servi ou donné lieu à une infraction à la présente loi ou pouvoir servir à prouver l’infraction.
+
+
+
+
+**Assistance à l’inspecteur**
+
+**16** 
+
+- **(1)** Le propriétaire ou le responsable des lieux visités conformément au paragraphe 15(1), ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger pour l’application de la présente loi.
+
+**Entrave**
+
+- **(2)** Il est interdit sciemment d’entraver l’action de l’inspecteur dans l’exercice de ses fonctions ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+
+**Interdiction**
+
+- **(3)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer des matériels ou pièces saisis en application du paragraphe 15(4) ou d’en modifier de quelque manière l’état.
+
+
+
+
+## Infractions et peines
+
+
+
+**Infractions et peines**
+
+**17** 
+
+- **(1)** Toute personne morale qui contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de cent mille dollars;
+	- **b)** par mise en accusation, une amende maximale d’un million de dollars.
+
+**Idem**
+
+- **(2)** Tout individu qui contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de deux mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+**Moyen de défense**
+
+- **(3)** Dans les poursuites engagées, pour infraction à l’article 4 ou au paragraphe 5(1), contre une entreprise qui se livre à l’assemblage ou à la modification de véhicules, la preuve que l’infraction résulte de l’acte antérieur d’un autre constructeur automobile constitue un moyen de défense pour l’entreprise.
+
+
+
+
+**Preuve**
+
+**18** 
+
+- **(1)** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un préposé de l’accusé, que celui-ci ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris les mesures nécessaires pour l’empêcher.
+
+**Prescription**
+
+- **(2)** Les poursuites sur déclaration de culpabilité par procédure sommaire, relativement à une infraction à la présente loi, se prescrivent par deux ans à compter de sa perpétration.
+
+**Tribunal compétent**
+
+- **(3)** Le tribunal dans le ressort duquel l’accusé exerce ses activités est compétent pour connaître des poursuites pour infraction à la présente loi, indépendamment du lieu de perpétration.
+
+
+
+
+**Preuve**
+
+**19** 
+
+- **(1)** Dans les poursuites pour infraction à la présente loi, la preuve qu’un matériel portait un nom ou une marque censés être ceux d’une entreprise de fabrication, d’importation ou de vente de matériels fait foi, sauf preuve contraire, de ce que le matériel a été fabriqué, importé ou vendu, selon le cas, par cette entreprise.
+
+**Idem**
+
+- **(2)** Dans les poursuites pour infraction à la présente loi, la preuve qu’un matériel portant une marque nationale de sécurité a été fabriqué par une entreprise fait foi, sauf preuve contraire, de ce que le marquage a été fait par cette entreprise.
+
+
+
+
+## Recherches, tests et droits
+
+
+
+**Pouvoirs du ministre**
+
+**20** 
+
+- **(1)** Le ministre peut :
+	- **a)** mener les recherches, enquêtes et évaluations qu’il estime nécessaires à l’application de la présente loi;
+	- **b)** mettre en oeuvre des programmes de recherche et développement permettant de mieux connaître les incidences de l’utilisation des véhicules, du comportement des conducteurs et de la configuration des voies de circulation sur la sécurité routière, les économies d’énergie et l’environnement, et de favoriser la prise de mesures propres à limiter ces incidences;
+	- **c)** établir, exploiter et acquérir des installations servant aux tests de matériels et de leurs pièces;
+	- **d)** rendre accessibles à toute personne les installations visées à l’alinéa c), ainsi que les éléments et services connexes;
+	- **e)** publier ou diffuser les informations relatives à celles de ses activités qui sont visées au présent article.
+
+**Droits et prix exigés**
+
+- **(2)** Le ministre peut, par arrêté, fixer le montant ou le mode de calcul des droits exigibles à l’égard des installations et des services rendus accessibles en application de l’alinéa (1)d), le prix à payer pour les éléments en cause ainsi que les modalités de paiement.
+
+**Imputation**
+
+- **(3)** Les montants ainsi exigés sont imputés sur les coûts des installations, des éléments et services rendus accessibles en application de l’alinéa (1)d).
+
+**Recouvrement des droits**
+
+- **(4)** Toute somme exigée en conformité avec le paragraphe (2) peut être recouvrée à titre de créance de Sa Majesté devant la Cour fédérale.
+
+
+
+**21** [Abrogé, 1999, ch. 33, art. 354]
+
+
+
+
+## Abrogations
+
+
+**22 et 23** [Abrogations]
+
+
+
+
+## Entrée en vigueur
+
+
+
+**Décret**
+
+<sup><a href='#M-10.01_fr_1'>[*]</a></sup>**24** La présente loi entre en vigueur à la date fixée par décret du gouverneur en conseil.
+
+<a name='M-10.01_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 12 avril 1995, *voir* TR/95-40.]<br />
+
+
+
+
+### **ANNEXE I** 
+**(*article 2*)**
+## Équipement
+**1** Pneus
+
+
+**2** Appareils de retenue pour enfants et personnes handicapées
+
+
+
+
+
+### **ANNEXE II** 
+**(*article 2*)**
+## Marque nationale de sécurité
+> Image: Signe de la marque nationale de sécurité composé de la moitié supérieure d’une feuille d’érable attachée à la moitié inférieure d’un cercle
+
+
