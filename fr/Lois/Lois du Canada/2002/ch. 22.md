@@ -333,7 +333,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **10** 
 
-- **(1)** Le ministre et le solliciteur général du Canada peuvent désigner tout corps de police canadien pour l’application des dispositions de la présente loi qui sont précisées dans le document constatant la désignation, pour la période qui y est prévue et sous réserve des modalités qui y sont précisées.
+- **(1)** Le ministre et le ministre de la Sécurité publique et de la Protection civile peuvent désigner tout corps de police canadien pour l’application des dispositions de la présente loi qui sont précisées dans le document constatant la désignation, pour la période qui y est prévue et sous réserve des modalités qui y sont précisées.
 
 **Pouvoirs et fonctions**
 
@@ -342,6 +342,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Publication d’un avis de la désignation**
 
 - **(3)** Un avis de la désignation, et de sa modification ou de son annulation, est publié dans la Gazette du Canada. La désignation, la modification ou l’annulation n’ont d’effet qu’à compter de la publication.
+> 2002, ch. 22, art. 10; 2005, ch. 10, art. 34.
+
 
 
 
