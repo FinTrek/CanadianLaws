@@ -53,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***conseiller*** Le conseiller en éthique désigné en application de l’article 10.1.
+***conseiller***[Abrogée, 2004, ch. 7, art. 19]
 
 ***directeur*** La personne désignée à ce titre en application de l’article 8.
 
@@ -73,7 +73,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application de la présente loi, une personne morale est la filiale d’une autre si, à la fois :
 	- **a)** ses valeurs mobilières qui comportent plus de cinquante pour cent des droits de vote pouvant être exercés lors de l’élection de ses administrateurs sont détenues, directement ou indirectement — notamment par l’intermédiaire d’une ou de plusieurs filiales — autrement qu’à titre de garantie uniquement, par cette autre personne morale ou pour son bénéfice;
 	- **b)** les droits de vote que comportent ces valeurs mobilières sont suffisants, lorsqu’ils sont effectivement exercés, pour faire élire la majorité de ces administrateurs.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1; 2002, ch. 8, art. 182.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1; 2002, ch. 8, art. 182; 2004, ch. 7, art. 19.
 
 
 
@@ -386,12 +386,14 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **10** 
 
-- **(1)** Le directeur peut publier des bulletins d’interprétation et fournir des avis portant sur l’exécution, l’interprétation ou l’application de la présente loi, à l’exception des articles 10.1 à 10.6.
+- **(1)** Le directeur peut publier des bulletins d’interprétation et fournir des avis portant sur l’exécution, l’interprétation ou l’application de la présente loi, à l’exception des articles 10.2 à 10.6.
 
 **Nature des bulletins et des avis**
 
-- **(2)** Les bulletins d’interprétation et les avis ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et ne sont pas contraignants.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 10; 1995, ch. 12, art. 5.
+- **(2)** Les bulletins d’interprétation et les avis ne sont pas des textes réglementaires au sens de la 
+[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et ne sont pas contraignants.
+> L.R. (1985), ch. 44 (4
+<sup>e</sup> suppl.), art. 10; 1995, ch. 12, art. 5; 2004, ch. 7, art. 20.
 
 
 
@@ -400,12 +402,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 ## Code de déontologie des lobbyistes
 
 
-
-**Désignation du conseiller**
-
-**10.1** Le gouverneur en conseil peut désigner un conseiller en éthique pour l’application de la présente loi.
-> 1995, ch. 12, art. 5.
-
+**10.1** [Abrogé, 2004, ch. 7, art. 21]
 
 
 
@@ -414,7 +411,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **10.2** 
 
-- **(1)** Le conseiller élabore un code de déontologie des lobbyistes portant sur toutes les activités visées aux paragraphes 5(1), 6(1) et 7(1).
+- **(1)** Le directeur élabore un code de déontologie des lobbyistes portant sur toutes les activités visées aux paragraphes 5(1), 6(1) et 7(1).
 
 **Consultation**
 
@@ -426,8 +423,10 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **Le code n’est pas un texte réglementaire**
 
-- **(4)** Le code n’est pas un texte réglementaire pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Il doit cependant être publié dans la Gazette du Canada.
-> 1995, ch. 12, art. 5.
+- **(4)** Le code n’est pas un texte réglementaire pour l’application de la 
+[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Il doit cependant être publié dans la 
+Gazette du Canada.
+> 1995, ch. 12, art. 5; 2004, ch. 7, art. 22.
 
 
 
@@ -452,7 +451,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **10.4** 
 
-- **(1)** Le conseiller fait enquête lorsqu’il a des motifs raisonnables de croire qu’une personne a commis une infraction au code.
+- **(1)** Le directeur fait enquête lorsqu’il a des motifs raisonnables de croire qu’une personne a commis une infraction au code.
 
 **Pouvoirs d’enquête**
 
@@ -460,7 +459,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **Secret de l’enquête**
 
-- **(3)** L’enquête menée par le conseiller est secrète.
+- **(3)** L’enquête menée par le directeur est secrète.
 
 **Inadmissibilité de la preuve dans d’autres procédures**
 
@@ -468,14 +467,14 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **Droit d’être entendu**
 
-- **(5)** Le conseiller doit, avant de statuer qu’elle a commis une infraction au code, donner à la personne la possibilité de présenter son point de vue.
+- **(5)** Le directeur doit, avant de statuer qu’elle a commis une infraction au code, donner à la personne la possibilité de présenter son point de vue.
 
 **Caractère confidentiel**
 
-- **(6)** Le conseiller et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance dans l’exercice des pouvoirs et fonctions que leur confère la présente loi. Ces renseignements peuvent toutefois être divulgués :
-	- **a)** si, de l’avis du conseiller, leur divulgation est nécessaire pour mener une enquête en vertu du présent article ou pour motiver les conclusions contenues dans son rapport;
-	- **b)** dans le rapport du conseiller ou dans le cadre de procédures intentées pour infraction à l’article 131 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) relativement à une déposition faite au cours d’une enquête.
-> 1995, ch. 12, art. 5.
+- **(6)** Le directeur et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance dans l’exercice des pouvoirs et fonctions que leur confère la présente loi. Ces renseignements peuvent toutefois être divulgués :
+	- **a)** si, de l’avis du directeur, leur divulgation est nécessaire pour mener une enquête en vertu du présent article ou pour motiver les conclusions contenues dans son rapport;
+	- **b)** dans le rapport du directeur ou dans le cadre de procédures intentées pour infraction à l’article 131 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) relativement à une déposition faite au cours d’une enquête.
+> 1995, ch. 12, art. 5; 2004, ch. 7, art. 23.
 
 
 
@@ -485,12 +484,12 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **10.5** 
 
-- **(1)** Le conseiller présente au registraire général du Canada un rapport d’enquête dans lequel il motive ses conclusions; ce dernier fait déposer le rapport devant les deux chambres du Parlement dans les quinze premiers jours de séance de chacune de celles-ci suivant sa réception.
+- **(1)** Le directeur présente au registraire général du Canada un rapport d’enquête dans lequel il motive ses conclusions; ce dernier fait déposer le rapport devant les deux chambres du Parlement dans les quinze premiers jours de séance de chacune de celles-ci suivant sa réception.
 
 **Contenu du rapport**
 
-- **(2)** Le rapport peut faire état, lorsque le conseiller estime que l’intérêt public le justifie, des renseignements concernant tout paiement reçu ou dépense engagée par le lobbyiste-conseil, le lobbyiste salarié ou le lobbyiste travaillant pour le compte d’une organisation et se rapportant à une activité visée aux paragraphes 5(1), 6(1) ou 7(1).
-> 1995, ch. 12, art. 5.
+- **(2)** Le rapport peut faire état, lorsque le directeur estime que l’intérêt public le justifie, des renseignements concernant tout paiement reçu ou dépense engagée par le lobbyiste-conseil, le lobbyiste salarié ou le lobbyiste travaillant pour le compte d’une organisation et se rapportant à une activité visée aux paragraphes 5(1), 6(1) ou 7(1).
+> 1995, ch. 12, art. 5; 2004, ch. 7, art. 23.
 
 
 
@@ -498,8 +497,8 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **Rapport annuel**
 
-**10.6** Le conseiller présente au registraire général du Canada, dans les trois mois suivant la fin de chaque exercice, un rapport sur l’exécution, au cours de cet exercice, des pouvoirs et des fonctions que lui confère la présente loi. Le registraire général du Canada le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
-> 1995, ch. 12, art. 5.
+**10.6** Le directeur présente au registraire général du Canada, dans les trois mois suivant la fin de chaque exercice, un rapport sur l’exécution, au cours de cet exercice, des pouvoirs et des fonctions que lui confère la présente loi. Le registraire général du Canada le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 1995, ch. 12, art. 5; 2004, ch. 7, art. 23.
 
 
 
@@ -513,12 +512,13 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **11** 
 
-- **(1)** Dans les trois mois suivant la fin de chaque exercice, le directeur présente au registraire général du Canada un rapport sur l’application de la présente loi, au cours de cet exercice, sauf les articles 10.1 à 10.6.
+- **(1)** Dans les trois mois suivant la fin de chaque exercice, le directeur présente au registraire général du Canada un rapport sur l’application de la présente loi, au cours de cet exercice, sauf les articles 10.2 à 10.6.
 
 **Dépôt**
 
 - **(2)** Le registraire général du Canada fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 11; 1995, ch. 12, art. 6.
+> L.R. (1985), ch. 44 (4
+<sup>e</sup> suppl.), art. 11; 1995, ch. 12, art. 6; 2004, ch. 7, art. 24.
 
 
 
