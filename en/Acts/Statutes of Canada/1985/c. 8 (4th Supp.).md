@@ -239,7 +239,9 @@ by providing for the establishment of animal pedigree associations that are auth
 
 **Profits**
 
-- **(2)** Subject to any by-laws providing for the remuneration of its directors, officers, employees and agents, all profits or accretions of value to the property of an association shall be used in furtherance of the purpose of the association and no part of the property or profits of the association may be distributed, directly or indirectly, to any member of the association.
+- **(2)** Subject to any by-laws providing for the remuneration of its directors, officers and employees, and its agents or mandataries, all profits or accretions of value to the property of an association shall be used in furtherance of the purpose of the association, and no part of the property or profits of the association may be distributed, directly or indirectly, to any member of the association.
+> 1985, c. 8 (4th Supp.), s. 13; 2004, c. 25, s. 2.
+
 
 
 
@@ -757,7 +759,9 @@ may request that the Minister make a determination thereof and any determination
 
 **Profits**
 
-- **(2)** Subject to any by-laws providing for the remuneration of the Corporation’s directors, officers, employees and agents, all profits or accretions of value to the property of the Corporation shall be used in furtherance of the purpose of the Corporation and no part of the property or profits of the Corporation may be distributed, directly or indirectly, to any member of the Corporation.
+- **(2)** Subject to any by-laws providing for the remuneration of the Corporation’s directors, officers and employees, and its agents or mandataries, all profits or accretions of value to the property of the Corporation shall be used in furtherance of the purpose of the Corporation, and no part of the property or profits of the Corporation may be distributed, directly or indirectly, to any member of the Corporation.
+> 1985, c. 8 (4th Supp.), s. 39; 2004, c. 25, s. 3.
+
 
 
 
@@ -827,13 +831,15 @@ may request that the Minister make a determination thereof and any determination
 	- **(a)** for the administration and management of the business and affairs of the Corporation;
 	- **(b)** respecting the holding of meetings of the Board, the quorum at such meetings and the manner in which questions considered at such meetings shall be determined;
 	- **(c)** respecting the holding of general and special meetings of the members of the Corporation, the quorum at such meetings and the manner in which questions considered at such meetings shall be determined;
-	- **(d)** respecting the appointment, remuneration, powers, functions and duties of employees and agents of the Corporation;
+	- **(d)** respecting the appointment, remuneration, powers, functions and duties of employees, and agents or mandataries, of the Corporation;
 	- **(e)** respecting the payment of fees for services performed by the Corporation and establishing the method of determining the amount of those fees; and
 	- **(f)** for the conduct in all other particulars of the business and affairs of the Corporation.
 
 **When by-law has effect**
 
 - **(2)** No by-law of the Corporation has any effect until it is approved by the Minister.
+> 1985, c. 8 (4th Supp.), s. 43; 2004, c. 25, s. 4.
+
 
 
 
