@@ -37,35 +37,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur*** Personne qui siège au conseil, y compris le président.
+***administrateur*** Personne qui siège au conseil, y compris le président. (*director*)
 
-***bénéficiaire admissible*** Entité qui :
+***bénéficiaire admissible*** Entité qui :
 - **a)** a été constituée au Canada et effectue des travaux admissibles ou, de l’avis du conseil, est en mesure d’en effectuer;
 - **b)** satisfait aux critères d’admissibilité établis dans tout accord de financement conclu entre Sa Majesté du chef du Canada et la Fondation;
-- **c)** a la capacité juridique ou est composée d’organisations ayant chacune cette capacité.
+- **c)** a la capacité juridique ou est composée d’organisations ayant chacune cette capacité. (*eligible recipient*)
 
-***conseil*** Le conseil d’administration de la Fondation.
+***conseil*** Le conseil d’administration de la Fondation. (*board*)
 
-***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité pour les générations futures de satisfaire les leurs.
+***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité pour les générations futures de satisfaire les leurs. (*sustainable development*)
 
-***fonctionnaire ou mandataire de Sa Majesté du chef d’une province*** N’est pas un fonctionnaire ou mandataire de Sa Majesté du chef d’une province celui qui exerce des fonctions à ce titre uniquement dans une université, un collège ou un autre établissement d’enseignement.
+***fonctionnaire ou mandataire de Sa Majesté du chef d’une province*** N’est pas un fonctionnaire ou mandataire de Sa Majesté du chef d’une province celui qui exerce des fonctions à ce titre uniquement dans une université, un collège ou un autre établissement d’enseignement. (*employee or agent of Her Majesty in right of a province*)
 
-***Fondation*** La Fondation du Canada pour l’appui technologique au développement durable mentionnée à l’article 3.
+***Fondation*** La Fondation du Canada pour l’appui technologique au développement durable mentionnée à l’article 3. (*Foundation*)
 
-***membre*** Personne qui est membre de la Fondation.
+***membre*** Personne qui est membre de la Fondation. (*member*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***organisation sans but lucratif*** Personne morale, société, association, université, organisme de recherche, organisation ou entité dont aucune partie des revenus n’est payable à ses propriétaires, membres ou actionnaires ou n’est autrement mise à leur disposition pour leur avantage personnel.
+***organisation sans but lucratif*** Personne morale, société, association, université, organisme de recherche, organisation ou entité dont aucune partie des revenus n’est payable à ses propriétaires, membres ou actionnaires ou n’est autrement mise à leur disposition pour leur avantage personnel. (*not-for-profit organization*)
 
-***président*** Le président du conseil, nommé conformément à l’alinéa 9(2)a).
+***président*** Le président du conseil, nommé conformément à l’alinéa 9(2)a). (*Chairperson*)
 
-***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées au cours d’une assemblée des membres ou signée de tous les membres habiles à voter en l’occurrence.
+***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées au cours d’une assemblée des membres ou signée de tous les membres habiles à voter en l’occurrence. (*special resolution*)
 
-***société*** La société visée par le décret pris au titre du paragraphe 35(1).
+***société*** La société visée par le décret pris au titre du paragraphe 35(1). (*corporation*)
 
-***travaux admissibles*** Travaux effectués ou à effectuer principalement au Canada par un bénéficiaire admissible en vue de la mise au point et de la mise à l’épreuve de techniques nouvelles favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la pollution atmosphérique.
-> 2001, ch. 23, art. 2 et 36.
+***travaux admissibles*** Travaux effectués ou à effectuer principalement au Canada par un bénéficiaire admissible en vue de la mise au point et de la mise à l’épreuve de techniques nouvelles favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la qualité de l’eau, de l’air et du sol. (*eligible project*)
+> 2001, ch. 23, art. 2 et 36; 2004, ch. 22, art. 12.
 
 
 
@@ -269,10 +269,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Représentativité**
 
-**11** Les administrateurs sont choisis :
-- **a)** de façon à assurer, dans la mesure du possible, la représentation des spécialistes de la mise au point et de la mise à l’épreuve des techniques favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la pollution atmosphérique, des milieux d’affaires et des organisations sans but lucratif;
+**11** Les administrateurs sont choisis :
+- **a)** de façon à assurer, dans la mesure du possible, la représentation des spécialistes de la mise au point et de la mise à l’épreuve des techniques favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la qualité de l’eau, de l’air et du sol, des milieux d’affaires et des organisations sans but lucratif;
 - **b)** compte tenu de l’importance de représenter les diverses régions du Canada et d’assurer la présence au sein du conseil d’hommes et de femmes capables de participer à la réalisation de la mission de la Fondation;
 - **c)** de façon que, collectivement, le conseil dispose de connaissances suffisantes au sujet des techniques favorisant le développement durable.
+> 2001, ch. 23, art. 11; 2004, ch. 22, art. 13.
+
 
 
 
@@ -382,10 +384,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Représentativité**
 
-**15** Les membres sont choisis :
-- **a)** de façon à assurer, dans la mesure du possible, la représentation des spécialistes de la mise au point et de la mise à l’épreuve des techniques favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la pollution atmosphérique, des milieux d’affaires et des organisations sans but lucratif;
+**15** Les membres sont choisis :
+- **a)** de façon à assurer, dans la mesure du possible, la représentation des spécialistes de la mise au point et de la mise à l’épreuve des techniques favorisant le développement durable, notamment celles qui visent à apporter des solutions aux questions relatives aux changements climatiques et à la qualité de l’eau, de l’air et du sol, des milieux d’affaires et des organisations sans but lucratif;
 - **b)** compte tenu de l’importance de représenter les diverses régions du Canada et d’assurer la présence d’hommes et de femmes capables de participer à la réalisation de la mission de la Fondation;
 - **c)** de façon que, collectivement, les membres disposent de connaissances suffisantes au sujet des techniques favorisant le développement durable.
+> 2001, ch. 23, art. 15; 2004, ch. 22, art. 14.
+
 
 
 
