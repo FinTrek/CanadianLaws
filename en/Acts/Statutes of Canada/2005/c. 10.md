@@ -127,11 +127,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **8** 
 
-- **(1)** Any power, duty or function that, immediately before the coming into force of this section, was vested in or exercisable by the Solicitor General of Canada, the Deputy Solicitor General of Canada or any officer of the Department of the Solicitor General under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on the coming into force of this section, vested in and exercisable by the Minister of Public Safety and Emergency Preparedness, the Deputy Minister of Public Safety and Emergency Preparedness or the appropriate officer of the Department of Public Safety and Emergency Preparedness, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister or officer of the public service of Canada to exercise that power, duty or function.
+- **(1)** Any power, duty or function that, immediately before the coming into force of this section, was vested in or exercisable by the Solicitor General of Canada, the Deputy Solicitor General of Canada or any officer of the Department of the Solicitor General under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on the coming into force of this section, vested in and exercisable by the Minister of Public Safety and Emergency Preparedness, the Deputy Minister of Public Safety and Emergency Preparedness or the appropriate officer of the Department of Public Safety and Emergency Preparedness, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister or officer of the federal public administration to exercise that power, duty or function.
 
 **Transfer of appropriations**
 
-- **(2)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada within the Department of the Solicitor General and that, on the day on which this section comes into force, is unexpended, is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Public Safety and Emergency Preparedness.
+- **(2)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the Department of the Solicitor General and that, on the day on which this section comes into force, is unexpended, is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Public Safety and Emergency Preparedness.
+> 2005, c. 10, ss. 8, 36(E).
+
 
 
 
@@ -328,6 +330,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#P-31.55_e_s38'>[*]</a></sup>**38** This Act, other than sections 35 and 36, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='P-31.55_e_s38'><sup>*</sup></a>: [Note: Sections 35 and 36 in force on assent March 23, 2005.]<br />
+<a name='P-31.55_e_s38'><sup>*</sup></a>: [Note: Sections 35 and 36 in force on assent March 23, 2005; Act, other than sections 35 and 36, in force April 4, 2005, *see* SI/2005-29.]<br />
 
 
