@@ -33,19 +33,21 @@ Sanctionnée sur le 16 décembre 1996
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***droits à pension*** Valeur totale à un moment donné, calculée selon les modalités réglementaires, des prestations de retraite et autres prestations acquises par le participant ou participant ancien au titre d’un régime spécial de pension.
+***droits à pension*** Valeur totale à un moment donné, calculée selon les modalités réglementaires, des prestations de retraite et autres prestations acquises par le participant ou participant ancien au titre d’un régime spécial de pension.  (*pension benefit credit*)
 
-***droits à pension compensatoires*** Valeur totale à un moment donné, calculée selon les modalités réglementaires, des prestations acquises au titre d’un régime compensatoire.
+***droits à pension compensatoires*** Valeur totale à un moment donné, calculée selon les modalités réglementaires, des prestations acquises au titre d’un régime compensatoire.  (*retirement compensation benefit credit*)
 
-***ministre*** Le président du Conseil du Trésor.
+***ministre*** Le président du Conseil du Trésor.  (*Minister*)
 
-***prestation de retraite*** Paiement périodique auquel ont ou pourront avoir droit, au titre d’un régime spécial de pension, le participant ou participant ancien, son conjoint, ses autres ayants cause ou sa succession.
+***prestation de retraite*** Paiement périodique auquel ont ou pourront avoir droit, au titre d’un régime spécial de pension, le participant ou participant ancien, ses ayants cause ou sa succession.  (*pension benefit*)
 
-***prestations*** Y sont compris les remboursements de cotisations et les intérêts afférents à celles-ci.
+***prestations*** Y sont compris les remboursements de cotisations et les intérêts afférents à celles-ci.  (*benefit*)
 
-***régime compensatoire*** Sauf indication contraire du contexte, régime ou convention institués au titre d’un décret pris en application de l’alinéa 10a) ou du paragraphe 11(1).
+***régime compensatoire*** Sauf indication contraire du contexte, régime ou convention institués au titre d’un décret pris en application de l’alinéa 10 a) ou du paragraphe 11(1).  (*retirement compensation arrangement*)
 
-***régime spécial de pension*** Régime de pension institué au titre d’un décret pris en application de l’alinéa 3(1)b).
+***régime spécial de pension*** Régime de pension institué au titre d’un décret pris en application de l’alinéa 3(1) b).  (*special pension plan*)
+> 1992, ch. 46, ann. I, art. 2; 2000, ch. 12, art. 292.
+
 
 
 
@@ -404,14 +406,15 @@ Sanctionnée sur le 16 décembre 1996
 
 **28** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
-	- **a)** préciser à partir de quand une personne ou catégorie de personnes est soustraite à l’application de la [Loi sur la pension spéciale du service diplomatique](/fr/Lois/Lois%20révisées%20du%20Canada/D/D-2.md) ou de la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md) en vertu d’un décret pris en application de l’alinéa 3(1)a), et prévoir de quelle manière et dans quelle mesure les dispositions de cette loi ou de ses règlements s’appliquent, malgré cette exemption, à cette personne, catégorie de personnes ou autres personnes touchées par l’exemption et, enfin, adapter au besoin ces dispositions à celles-ci de façon à prendre en compte les conséquences de l’exemption et à assurer une application réaliste de cette loi ou de ses règlements ainsi que d’un régime spécial de pension;
+- **(1)** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
+	- **a)** préciser à partir de quand une personne ou catégorie de personnes est soustraite à l’application de la [Loi sur la pension spéciale du service diplomatique](/fr/Lois/Lois%20révisées%20du%20Canada/D/D-2.md) ou de la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md) en vertu d’un décret pris en application de l’alinéa 3(1) a), et prévoir de quelle manière et dans quelle mesure les dispositions de cette loi ou de ses règlements s’appliquent, malgré cette exemption, à cette personne, catégorie de personnes ou autres personnes touchées par l’exemption et, enfin, adapter au besoin ces dispositions à celles-ci de façon à prendre en compte les conséquences de l’exemption et à assurer une application réaliste de cette loi ou de ses règlements ainsi que d’un régime spécial de pension;
 	- **b)** préciser, pour l’application de la présente loi ou d’un régime spécial de pension, à partir de quand une personne, pour la première fois ou de nouveau et effectivement ou présumément, devient participant d’un tel régime ou cesse de l’être;
+	- **b.1)** préciser quelles personnes peuvent être des ayants cause d’un participant;
 	- **c)** pour l’application de l’article 5, désigner des régimes spéciaux de pension, définir « traitement » et déterminer le ou les taux de cotisation à verser au compte des régimes de pension agréés relativement à un régime spécial de pension;
 	- **d)** prévoir l’inscription au crédit du compte des régimes de pension agréés et au débit du Trésor des montants correspondant à la valeur totale, à un moment donné, des prestations acquises au titre de la [Loi sur la pension spéciale du service diplomatique](/fr/Lois/Lois%20révisées%20du%20Canada/D/D-2.md) ou de la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md), selon la détermination qui en est faite par règlement;
 	- **e)** prévoir dans quelles conditions et dans quelle mesure la période d’emploi ou de service correspondant aux prestations visées à l’alinéa d) peut être prise en compte comme période ouvrant droit à pension pour l’application d’un régime spécial de pension;
 	- **f)** préciser, pour l’application de la présente loi ou d’un régime compensatoire, à partir de quand une personne, pour la première fois ou de nouveau et effectivement ou présumément, devient assujettie à un tel régime ou cesse de l’être;
-	- **g)** régir les choix prévus à l’alinéa 11(1)d);
+	- **g)** régir les choix prévus à l’alinéa 11(1) d);
 	- **h)** pour l’application de l’article 15, désigner des régimes compensatoires, définir « traitement » et « solde » et déterminer le ou les taux de cotisation à verser au compte des régimes compensatoires relativement à un régime compensatoire;
 	- **i)** désigner des organismes de la fonction publique pour l’application du paragraphe 16(1) et déterminer les montants à verser au compte des régimes compensatoires, conformément à ce paragraphe, par ces organismes;
 	- **j)** prendre des mesures relatives aux montants versés en trop sur le compte des régimes de pension agréés ou sur le compte des régimes compensatoires et à la suppression, à la radiation et à la remise de montants à y verser;
@@ -424,6 +427,8 @@ Sanctionnée sur le 16 décembre 1996
 
 **Rétroactivité des règlements**
 
-- **(2)** Les règlements prévus aux alinéas (1)a), b), c), h), i) et n) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif.
+- **(2)** Les règlements prévus aux alinéas (1) a), b), c), h), i) et n) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif.
+> 1992, ch. 46, ann. I, art. 28; 2000, ch. 12, art. 294.
+
 
 
