@@ -165,7 +165,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-mandat**
 
-**11** La Société n’est ni mandataire de Sa Majesté ni une corporation de la Couronne au sens de la Loi sur l’administration financière; ses dirigeants et ses employés ne font pas partie de la fonction publique du Canada.
+**11** La Société n’est ni mandataire de Sa Majesté ni une société d’État au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md); ses dirigeants et ses employés ne font pas partie de l’administration publique fédérale.
+> 1980-81-82-83, ch. 108, art. 11; 2003, ch. 22, art. 152.
+
 
 
 
@@ -344,9 +346,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Non-mandat**
+**Mandat**
 
-**21** La Société de développement n’est ni mandataire de Sa Majesté ni une corporation de la Couronne au sens de la Loi sur l’administration financière; ses dirigeants et ses employés ne font pas partie de la fonction publique du Canada.
+**21** La Société de développement n’est ni mandataire de Sa Majesté ni une société d’État au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md); ses dirigeants et ses employés ne font pas partie de l’administration publique fédérale.
+> 1980-81-82-83, ch. 108, art. 21; 2003, ch. 22, art. 153.
+
 
 
 
