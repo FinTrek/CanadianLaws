@@ -8458,9 +8458,12 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 
 **Préférence accordée aux créances relatives aux salaires et aux produits agricoles périssables**
 
-- **(7)** Par dérogation au paragraphe (2), et même si le donneur de garantie portant sur des biens conformément au présent article a fait enregistrer le préavis s’y rapportant comme prévu au présent article, au cas où, en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), une ordonnance de séquestre est rendue contre le donneur de garantie ou il effectue une cession :
-	- **a)** les créances des employés de l’entreprise ou de la ferme pour laquelle le donneur de garantie a acquis ou détient les biens affectés à la garantie et portant sur leurs salaires, traitements ou autres rémunérations des trois mois précédant la date de l’ordonnance ou de la cession,
-	- **b)** les créances d’un agriculteur ou d’un producteur de produits agricoles, pour le montant des produits agricoles, qu’il a cultivés et obtenus sur une terre dont il est propriétaire ou locataire et qu’il a livrés au fabricant au cours des six mois précédant l’ordonnance ou la cession, jusqu’à concurrence du moins élevé des montants suivants :
+- **(7)** Par dérogation au paragraphe (2), et même si le donneur de garantie portant sur des biens conformément au présent article a fait enregistrer le préavis s’y rapportant comme prévu au présent article, au cas où, en vertu de la 
+[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), une ordonnance de faillite est rendue contre le donneur de garantie ou il effectue une cession :
+	- **a)
+** les créances des employés de l’entreprise ou de la ferme pour laquelle le donneur de garantie a acquis ou détient les biens affectés à la garantie et portant sur leurs salaires, traitements ou autres rémunérations des trois mois précédant la date de l’ordonnance ou de la cession,
+	- **b)
+** les créances d’un agriculteur ou d’un producteur de produits agricoles, pour le montant des produits agricoles, qu’il a cultivés et obtenus sur une terre dont il est propriétaire ou locataire et qu’il a livrés au fabricant au cours des six mois précédant l’ordonnance ou la cession, jusqu’à concurrence du moins élevé des montants suivants :
 		- **(i)** le montant total des créances de l’agriculteur ou du producteur,
 		- **(ii)** le produit, exprimé en dollars, de mille cent multiplié par le dernier indice annuel moyen du Nombre — indice des prix à la ferme des produits agricoles pour le Canada — , publié par Statistique Canada et se rapportant à la date de l’ordonnance ou de la production de la créance,
 priment les droits de la banque découlant d’une garantie reçue aux termes du présent article, selon l’ordre dans lequel elles sont mentionnées au présent paragraphe; la banque, qui prend possession ou réalise les biens affectés à la garantie, est responsable des créances jusqu’à concurrence du produit net de la réalisation, déduction faite des frais de réalisation, et est subrogée dans tous les droits des titulaires de ces créances jusqu’à concurrence des sommes qu’elle leur a payées.
@@ -8468,7 +8471,7 @@ priment les droits de la banque découlant d’une garantie reçue aux termes du
 **Effet de l’ajustement de l’indice**
 
 - **(8)** À la première occasion où, après le 19 décembre 1990, l’indice visé au sous-alinéa (7)b)(ii) est ajusté ou fixé à nouveau sur une base différente, le sous-alinéa est modifié en y remplaçant la référence à mille cent dollars par le produit, arrondi au dollar supérieur, de mille cent dollars par l’indice tel qu’il était avant son ajustement ou sa nouvelle fixation, et le produit ainsi obtenu est divisé par l’indice tel qu’il est ajusté ou fixé à nouveau. À chaque nouvel ajustement ou nouvelle fixation sur une base différente, ce sous-alinéa est modifié en substituant au montant qui y est mentionné le montant calculé de la façon indiquée ci-dessus.
-> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A).
+> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A); 2004, ch. 25, art. 185.
 
 
 
@@ -17228,7 +17231,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la société dans les six mois de l’échéance;
 	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société ou celle de sa dissolution;
-	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de mise sous séquestre frappant la société conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de faillite frappant la société conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
 
 **Limite**
 
@@ -17245,7 +17248,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2004, ch. 25, art. 186.
 
 
 
