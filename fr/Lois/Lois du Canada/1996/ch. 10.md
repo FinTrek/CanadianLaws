@@ -3679,16 +3679,29 @@ où
 
 **180** 
 
-- **(1)** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il fait notifier au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant, établi conformément à l’alinéa 177b), de la sanction à payer, ainsi que le délai et les modalités du paiement.
+- **(1)** L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il fait notifier au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant, établi conformément à l’alinéa 177
+b), de la sanction à payer, ainsi que le délai et les modalités du paiement.
 
-**Application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md)**
+**Application de la 
+[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md)**
 
-- **(2)** Les articles 7.8 à 8.2, 36 et 37 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) s’appliquent relativement aux violations, avec les adaptations nécessaires, comme si la mention dans un de ces articles ou dans un document délivré en vertu d’un de ces articles :
-	- **a)** de la « présente loi » était celle de la présente loi;
-	- **b)** d’un « texte désigné » était celle d’un texte désigné au titre de l’alinéa 177a);
-	- **c)** du «  ministre » était celle de l’Office ou, sauf pour le paragraphe 7.8(1) de cette loi, était celle de la personne que l’Office peut désigner;
-	- **d)** d’un « avis » était celle d’un procès-verbal;
-	- **e)** des « règlements d’application de l’alinéa 7.6(1)b)  » était celle des règlements d’application de l’alinéa 177b).
+- **(2)** Les articles 7.8 à 8.2 de la 
+Loi sur l'aéronautique s'appliquent relativement aux violations, avec les adaptations nécessaires, comme si la mention dans un de ces articles ou dans un document délivré en vertu d'un de ces articles :
+	- **a)
+** de la « présente loi » était celle de la présente loi;
+	- **b)
+** d’un « texte désigné » était celle d’un texte désigné au titre de l’alinéa 177
+a);
+	- **c)
+** du « ministre » était celle de l'Office ou, sauf pour l'article 7.9 de cette loi, était celle de la personne que l'Office peut désigner;
+	- **d)
+** d’un « avis » était celle d’un procès-verbal;
+	- **e)
+** des « règlements d’application de l’alinéa 7.6(1)
+b)  » était celle des règlements d’application de l’alinéa 177
+b).
+> 1996, ch. 10, art. 180; 2001, ch. 29, art. 52.
+
 
 
 
