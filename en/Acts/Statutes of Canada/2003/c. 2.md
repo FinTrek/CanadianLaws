@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2003/ch.%202.md)
 
-# Physical Activity and Sport Act 
+# Physical Activity and Sport Act
 
 **S.C. 2003, c. 2**
 
@@ -166,7 +166,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Status of arbitrator or mediator**
 
-- **(4)** For the purposes of the Federal Court Act, the Centre or an arbitrator or mediator who provides services under the auspices of the Centre is not a federal board, commission or other tribunal within the meaning of that Act.
+- **(4)** For the purposes of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Centre or an arbitrator or mediator who provides services under the auspices of the Centre is not a federal board, commission or other tribunal within the meaning of that Act.
 
 **Both official languages to be used**
 
@@ -175,6 +175,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Head office**
 
 - **(6)** The head office of the Centre shall be at the place in Canada that is designated in the by-laws of the Centre.
+> 2003, c. 2, ss. 9, 38.
+
 
 
 
