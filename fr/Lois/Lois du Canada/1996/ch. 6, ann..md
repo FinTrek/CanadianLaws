@@ -443,7 +443,10 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 
 **Pas de sursis**
 
-**21** La désignation faite en vertu du paragraphe 4(1) ou une directive donnée en vertu de la présente loi ne peut voir son effet suspendu par l’exercice du contrôle judiciaire prévu à la Loi sur la Cour fédérale tant qu’il n’est pas définitivement statué sur la demande.
+**21** La désignation faite en vertu du paragraphe 4(1) ou une directive donnée en vertu de la présente loi ne peut voir son effet suspendu par l’exercice du contrôle judiciaire prévu à la 
+[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) tant qu’il n’est pas définitivement statué sur la demande.
+> 1996, ch. 6, art. 162 (ann., art. 21); 2002, ch. 8, art. 182.
+
 
 
 
