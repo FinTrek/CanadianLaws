@@ -3308,9 +3308,11 @@ For greater certainty, an order under this subsection may be made without a hear
 
 **Records in the custody, etc., of archivists**
 
-**126** When records originally kept under sections 114 to 116 are under the custody or control of the National Archivist of Canada or the archivist for any province, that person may disclose any information contained in the records to any other person if
+**126** When records originally kept under sections 114 to 116 are under the custody or control of the Librarian and Archivist of Canada or the archivist for any province, that person may disclose any information contained in the records to any other person if
 - **(a)** a youth justice court judge is satisfied that the disclosure is desirable in the public interest for research or statistical purposes; and
 - **(b)** the person to whom the information is disclosed undertakes not to disclose the information in any form that could reasonably be expected to identify the young person to whom it relates.
+> 2002, c. 1, s. 126; 2004, c. 11, s. 48.
+
 
 
 
@@ -3351,11 +3353,11 @@ For greater certainty, an order under this subsection may be made without a hear
 
 **Disposal of records**
 
-- **(2)** Subject to paragraph 125(7)(c), any record kept under sections 114 to 116, other than a record kept under subsection 115(3), may, in the discretion of the person or body keeping the record, be destroyed or transmitted to the National Archivist of Canada or the archivist for any province, at any time before or after the end of the applicable period set out in section 119.
+- **(2)** Subject to paragraph 125(7)(c), any record kept under sections 114 to 116, other than a record kept under subsection 115(3), may, in the discretion of the person or body keeping the record, be destroyed or transmitted to the Librarian and Archivist of Canada or the archivist for any province, at any time before or after the end of the applicable period set out in section 119.
 
 **Disposal of R.C.M.P. records**
 
-- **(3)** All records kept under subsection 115(3) shall be destroyed or, if the National Archivist of Canada requires it, transmitted to the National Archivist of Canada, at the end of the applicable period set out in section 119 or 120.
+- **(3)** All records kept under subsection 115(3) shall be destroyed or, if the Librarian and Archivist of Canada requires it, transmitted to the Librarian and Archivist, at the end of the applicable period set out in section 119 or 120.
 
 **Purging CPIC**
 
@@ -3367,13 +3369,15 @@ For greater certainty, an order under this subsection may be made without a hear
 
 **Authority to inspect**
 
-- **(6)** The National Archivist of Canada may, at any time, inspect records kept under sections 114 to 116 that are under the control of a government institution as defined in section 2 of the [National Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(3rd%20Supp.).md), and the archivist for a province may at any time inspect any records kept under those sections that the archivist is authorized to inspect under any Act of the legislature of the province.
+- **(6)** The Librarian and Archivist of Canada may, at any time, inspect records kept under sections 114 to 116 that are under the control of a government institution as defined in section 2 of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), and the archivist for a province may at any time inspect any records kept under those sections that the archivist is authorized to inspect under any Act of the legislature of the province.
 
-**Definition of “destroy”**
+**Definition of destroy**
 
 - **(7)** For the purposes of subsections (2) and (3), ***destroy***, in respect of a record, means
 	- **(a)** to shred, burn or otherwise physically destroy the record, in the case of a record other than a record in electronic form; and
 	- **(b)** to delete, write over or otherwise render the record inaccessible, in the case of a record in electronic form.
+> 2002, c. 1, s. 128; 2004, c. 11, s. 49.
+
 
 
 
