@@ -1538,10 +1538,10 @@ Sont visés par la présente définition les musées.
 
 **85** 
 
-- **(1)** Le directeur établit un registre des armes à feu :
-	- **a)** acquises ou détenues par les personnes précisées ci-après et utilisées par celles-ci dans le cadre de leurs fonctions :
+- **(1)** Le directeur établit un registre des armes à feu :
+	- **a)** acquises ou détenues par les personnes précisées ci-après et utilisées par celles-ci dans le cadre de leurs fonctions :
 		- **(i)** les agents de la paix,
-		- **(ii)** les personnes qui reçoivent la formation pour devenir agents de la paix ou officiers de police sous l’autorité et la surveillance :
+		- **(ii)** les personnes qui reçoivent la formation pour devenir agents de la paix ou officiers de police sous l’autorité et la surveillance :
 			- **(A)** soit d’une force policière,
 			- **(B)** soit d’une école de police ou d’une autre institution semblable désignées par le ministre fédéral ou le lieutenant-gouverneur en conseil d’une province,
 		- **(iii)** les personnes ou catégories de personnes qui sont des employés des administrations publiques fédérales, provinciales ou municipales et qui sont désignées comme fonctionnaires publics par les règlements d’application de la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pris par le gouverneur en conseil,
@@ -1555,6 +1555,8 @@ Sont visés par la présente définition les musées.
 **Destruction des fichiers**
 
 - **(3)** Le directeur peut détruire les fichiers du registre selon les modalités de temps et dans les situations prévues par règlement.
+> 1995, ch. 39, art. 85; 2003, ch. 22, art. 224(A)
+
 
 
 
@@ -2012,6 +2014,8 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 	- **(vi)** le *Règlement sur les catégories de personnes morales admissibles à un certificat d’enregistrement d’armes à autorisation restreinte*, pris par le décret C.P. 1993-766 du 20 avril 1993 portant le numéro d’enregistrement DORS/93-200,
 	- **(vii)** les articles 7, 15 et 17 — et les intertitres les précédant — du *Règlement sur le contrôle des armes à autorisation restreinte et sur les armes à feu*, pris par le décret C.P. 1978-2572 du 16 août 1978 portant le numéro d’enregistrement DORS/78-670;
 - **w)** prendre toute mesure réglementaire prévue par la présente loi.
+> 1995, ch. 39, art. 117; 2003, ch. 22, art. 224(A)
+
 
 
 
