@@ -407,7 +407,7 @@ may, if the employer considers such information to be confidential business info
 	- **(b)** one governor to represent suppliers, appointed after consultation by the Minister with such organizations representative of suppliers as the Minister deems appropriate;
 	- **(c)** one governor to represent employers, appointed after consultation by the Minister with such organizations representative of employers as the Minister deems appropriate;
 	- **(d)** one governor to represent the Government of Canada, appointed on the recommendation of the Minister of Labour; and
-	- **(e)** not fewer than four and not more than thirteen governors to represent the governments of the ten provinces, the Government of the Yukon Territory, the Government of the Northwest Territories and the Government of Nunavut, appointed after consultation by the Minister with each of those governments.
+	- **(e)** not fewer than four and not more than thirteen governors to represent the governments of the ten provinces, the Government of Yukon, the Government of the Northwest Territories and the Government of Nunavut, appointed after consultation by the Minister with each of those governments.
 
 **Term**
 
@@ -420,7 +420,7 @@ may, if the employer considers such information to be confidential business info
 **Remuneration and expenses**
 
 - **(5)** A governor shall serve without remuneration and is not entitled to be paid travel or living expenses by the Commission.
-> R.S., 1985, c. 24 (3rd Supp.), s. 28; 1993, c. 28, s. 78.
+> R.S., 1985, c. 24 (3rd Supp.), s. 28; 1993, c. 28, s. 78; 2002, c. 7, s. 177(E).
 
 
 
