@@ -426,6 +426,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Lorsque, après la réception de la sommation, l’accusé paie l’amende réglementaire dans le délai fixé :
 	- **a)** d’une part, le paiement constitue un plaidoyer de culpabilité à l’égard de l’infraction et une déclaration de culpabilité est inscrite au dossier de l’accusé, aucune autre poursuite ne pouvant dès lors être intentée contre lui à cet égard;
 	- **b)** d’autre part, les objets saisis entre ses mains en rapport avec l’infraction, ou le produit de leur aliénation, sont confisqués au profit de Sa Majesté du chef du Canada ou du Québec, selon que l’agent de la paix, le garde de parc ou l’agent de l’autorité est un fonctionnaire de l’administration publique fédérale ou du Québec.
+> 1997, ch. 37, art. 23; 2003, ch. 22, art. 219(A).
+
 
 
 
