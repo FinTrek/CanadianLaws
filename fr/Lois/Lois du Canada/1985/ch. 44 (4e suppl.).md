@@ -64,7 +64,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***titulaire d’une charge publique*** Agent ou employé de Sa Majesté du chef du Canada. La présente définition s’applique notamment :
 - **a)** aux sénateurs et députés fédéraux ainsi qu’à leur personnel;
 - **b)** aux personnes nommées à des organismes par le gouverneur en conseil ou un ministre fédéral, ou avec son approbation, à l’exclusion des juges rémunérés sous le régime de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md) et des lieutenants-gouverneurs;
-- **c)** aux administrateurs, dirigeants et employés de tout office fédéral, au sens de la Loi sur la Cour fédérale;
+- **c)** aux administrateurs, dirigeants et employés de tout office fédéral, au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
 - **d)** aux membres des Forces armées canadiennes;
 - **e)** aux membres de la Gendarmerie royale du Canada.
 
@@ -73,7 +73,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application de la présente loi, une personne morale est la filiale d’une autre si, à la fois :
 	- **a)** ses valeurs mobilières qui comportent plus de cinquante pour cent des droits de vote pouvant être exercés lors de l’élection de ses administrateurs sont détenues, directement ou indirectement — notamment par l’intermédiaire d’une ou de plusieurs filiales — autrement qu’à titre de garantie uniquement, par cette autre personne morale ou pour son bénéfice;
 	- **b)** les droits de vote que comportent ces valeurs mobilières sont suffisants, lorsqu’ils sont effectivement exercés, pour faire élire la majorité de ces administrateurs.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1; 2002, ch. 8, art. 182.
 
 
 
