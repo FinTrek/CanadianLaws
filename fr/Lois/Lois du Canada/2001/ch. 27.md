@@ -523,6 +523,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(v)** il se conforme au mode d’exécution prévu par règlement;
 	- **b)** il suffit au résident permanent de prouver, lors du contrôle, qu’il se conformera à l’obligation pour la période quinquennale suivant l’acquisition de son statut, s’il est résident permanent depuis moins de cinq ans, et, dans le cas contraire, qu’il s’y est conformé pour la période quinquennale précédant le contrôle;
 	- **c)** le constat par l’agent que des circonstances d’ordre humanitaire relatives au résident permanent — compte tenu de l’intérêt supérieur de l’enfant directement touché — justifient le maintien du statut rend inopposable l’inobservation de l’obligation précédant le contrôle.
+> 2001, ch. 27, art. 28; 2003, ch. 22, art. 172(A).
+
 
 
 
@@ -2504,7 +2506,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** ils peuvent recevoir un nouveau mandat, à des fonctions identiques ou non;
 	- **d)** ils reçoivent le traitement fixé par le gouverneur en conseil;
 	- **e)** ils ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail, s’ils sont nommés à temps plein, ou de résidence, s’ils le sont à temps partiel;
-	- **f)** ils sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
+	- **f)** ils sont réputés appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
 	- **g)** ils ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec leurs fonctions;
 	- **h)** ceux nommés à temps plein se consacrent exclusivement à l’exécution des fonctions qui leur sont conférées par la présente loi.
 
@@ -2519,6 +2521,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualité**
 
 - **(4)** Le vice-président de la Section d’appel de l’immigration, la majorité des vice-présidents adjoints de cette section et au moins dix pour cent des commissaires visés au paragraphe (1) sont obligatoirement inscrits, depuis au moins cinq ans, au barreau d’une province ou membres de la Chambre des notaires du Québec.
+> 2001, ch. 27, art. 153; 2003, ch. 22, art. 173.
+
 
 
 
@@ -2564,6 +2568,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnel**
 
 **158** Le secrétaire général et le personnel nécessaire à l’exécution des travaux de la Commission sont nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), ce dernier étant réputé appartenir à la fonction publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> 2001, ch. 27, art. 158; 2003, ch. 22, art. 225(A).
+
 
 
 
