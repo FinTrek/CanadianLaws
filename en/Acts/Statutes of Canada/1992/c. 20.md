@@ -86,9 +86,7 @@ Version anglaise seulement***institutional head***, in relation to a penitentiar
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
- ou ***sentence***means a sentence of imprisonment and includes a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)  and a sentence imposed by a court of a foreign state on a Canadian offender who has been transferred to Canada pursuant to the 
-[Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md) ;
-
+ ou ***sentence*** means a sentence of imprisonment and includes a sentence imposed by a foreign entity on a Canadian offender who has been transferred to Canada under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md) and a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
 
 ***Service*** means the Correctional Service of Canada described in section 5;
 
@@ -107,7 +105,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39
 
 
 
@@ -1929,7 +1927,7 @@ Version anglaise seulement***institutional head*** has the same meaning as in Pa
 
 **107** 
 
-- **(1)** Subject to this Act, the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md), the [Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md), the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) and the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Board has exclusive jurisdiction and absolute discretion
+- **(1)** Subject to this Act, the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md), the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md), the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) and the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Board has exclusive jurisdiction and absolute discretion
 	- **(a)** to grant parole to an offender;
 	- **(b)** to terminate or to revoke the parole or statutory release of an offender, whether or not the offender is in custody under a warrant of apprehension issued as a result of the suspension of the parole or statutory release;
 	- **(c)** to cancel a decision to grant parole to an offender, or to cancel the suspension, termination or revocation of the parole or statutory release of an offender;
@@ -1942,7 +1940,7 @@ Version anglaise seulement***institutional head*** has the same meaning as in Pa
 **Offences under provincial Acts**
 
 - **(2)** The jurisdiction of the Board under subsection (1) extends to any offender sentenced to a sentence imposed under a provincial Act that is to be served in a penitentiary pursuant to section 743.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), whether that sentence is to be served alone or concurrently with or consecutively to one or more other sentences imposed under an Act of Parliament or a provincial Act.
-> 1992, c. 20, s. 107; 1995, c. 22, s. 13, c. 42, ss. 28(E), 70(E), 71(F); 1998, c. 35, s. 110; 2000, c. 24, s. 36
+> 1992, c. 20, s. 107; 1995, c. 22, s. 13, c. 42, ss. 28(E), 70(E), 71(F); 1998, c. 35, s. 110; 2000, c. 24, s. 36; 2004, c. 21, s. 40
 
 
 
@@ -3170,7 +3168,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(3)** An offender whose parole or statutory release has been terminated is not liable to forfeit
 	- **(a)** any remission with which the offender was credited pursuant to the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md); or
-	- **(b)** any credits under the [Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md).
+	- **(b)** any credits under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md).
 
 **Effect of revocation on parole**
 
@@ -3183,7 +3181,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Effect of revocation on statutory release**
 
 - **(6)** Subject to subsections 130(4) and (6), an offender whose parole or statutory release has been revoked is entitled to be released on statutory release in accordance with section 127.
-> 1992, c. 20, s. 138; 1995, c. 42, ss. 53, 70(E)
+> 1992, c. 20, s. 138; 1995, c. 42, ss. 53, 70(E); 2004, c. 21, s. 40
 
 
 
