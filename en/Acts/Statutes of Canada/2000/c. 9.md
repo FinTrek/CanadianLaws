@@ -7872,12 +7872,14 @@ The candidate or his or her official agent shall notify the Chief Electoral Offi
 **Calculation of reimbursement**
 
 - **(2)** The amount referred to in paragraph (1)(d) is the lesser of
-	- **(a)** the difference between 50% of the sum of the candidate’s paid election expenses and paid personal expenses less the partial reimbursement made under section 464, and
-	- **(b)** 50% of the election expenses limit provided for in section 440.
+	- **(a)** 50% of the sum of the candidate’s paid election expenses and paid personal expenses, less the partial reimbursement made under section 464, and
+	- **(b)** 50% of the election expenses limit provided for in section 440, less the partial reimbursement made under section 464.
 
 **Payment of final instalment**
 
 - **(3)** On receipt of the certificate, the Receiver General shall pay the amount set out in it out of the Consolidated Revenue Fund to the official agent of the candidate.
+> 2000, c. 9, s. 465; 2003, c. 19, s. 49.
+
 
 
 
