@@ -33,42 +33,42 @@
 
 - **(1)** In this Act,
 
-***Agency*** means the Canada Customs and Revenue Agency;
+***Agency*** means the Canada Customs and Revenue Agency; 
 
-***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
 ***Canada***[Repealed, 1996, c. 31, s. 73]
 
 ***Canada-United States Free Trade Agreement***[Repealed, 1997, c. 14, s. 35]
 
-***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
+***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); 
 
-***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
+***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  Canada — Costa Rica Free Trade Agreement Implementation Act; 
 
-***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b);
+***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b); 
 
-***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Chile*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
+***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md); 
 
-***cigar*** has the meaning assigned by section 6 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
+***cigar***[Repealed, 2002, c. 22, s. 328]
 
-***Commissioner*** means the Commissioner of Customs and Revenue, appointed under section 25 of the Canada Customs and Revenue Agency Act;
+***Commissioner*** means the Commissioner of Customs and Revenue, appointed under section 25 of the  Canada Customs and Revenue Agency Act; 
 
-***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods;
+***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods; 
 
-***Costa Rica*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Costa Rica*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***courier*** has the meaning assigned by regulation;
+***courier*** has the meaning assigned by regulation; 
 
-***customs office*** means a place designated as a customs office by the Minister under section 5;
+***customs office*** means a place designated as a customs office by the Minister under section 5; 
 
-***data*** means representations, in any form, of information or concepts;
+***data*** means representations, in any form, of information or concepts; 
 
 ***Deputy Minister***[Repealed, 1999, c. 17, s. 123]
 
-***designated goods*** means
-- **(a)** alcohol, ethyl alcohol and spirits,
+***designated goods*** means 
+- **(a)** [Repealed, 2002, c. 22, s. 328]
 - **(b)** aviation fuel,
 - **(c)** aviation gasoline,
 - **(d)** beer or malt liquor,
@@ -77,93 +77,108 @@
 - **(g)** gasoline,
 - **(h)** pearls,
 - **(i)** precious and semi-precious stones,
+- **(i.1)** spirits,
 - **(j)** wine, or
 - **(k)** such other goods as the Minister may, by order, designate for the purposes of all or any of the provisions of this Act;
 
-***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b) and 65(1)(b), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***duties*** means any duties or taxes levied or imposed on imported goods under the  *Customs Tariff*, the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the  [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the  [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b ) and 65(1)(b ), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the  [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
 
-***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24;
+***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24; 
 
-***export*** means export from Canada;
+***export*** means export from Canada; 
 
-***forfeit*** means forfeit to Her Majesty in right of Canada;
+***forfeit*** means forfeit to Her Majesty in right of Canada; 
 
-***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA;
+***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA; 
 
-***free trade partner*** means
+***free trade partner*** means 
 - **(a)** a NAFTA country,
 - **(b)** Chile,
 - **(c)** Costa Rica, or
 - **(d)** Israel or another CIFTA beneficiary;
 
-***goods***, for greater certainty, includes conveyances, animals and any document in any form;
+***goods***, for greater certainty, includes conveyances, animals and any document in any form; 
 
-***import*** means import into Canada;
+***import*** means import into Canada; 
 
-***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn
+***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn 
 - **(a)** from Cap-des-Rosiers to the westernmost point of Anticosti Island, and
 - **(b)** from Anticosti Island to the north shore of the St. Lawrence River along the meridian of longitude sixty-three degrees west;
 
 ***internal waters***[Repealed, 1996, c. 31, s. 73]
 
-***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
- ou ***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md);
+ ou  ***mail*** has the meaning set out in section 2 of the  [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md); 
 
-***manufactured tobacco*** has the meaning assigned by section 6 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
+***manufactured tobacco***[Repealed, 2002, c. 22, s. 328]
 
-***Minister*** means the Minister of National Revenue;
+***Minister*** means the Minister of National Revenue; 
 
-***NAFTA*** has the meaning assigned to the word “Agreement” by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
+***NAFTA*** has the meaning assigned to the word “Agreement” by subsection 2(1) of the  [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); 
 
-***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
+***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the  [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); 
 
- ou ***officer*** means a person employed in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police;
+ ou  ***officer*** means a person employed in the administration or enforcement of this Act, the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the  [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police; 
 
-***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind;
+***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind; 
 
-***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***preferential tariff treatment under NAFTA*** means, in respect of goods, entitlement to the United States Tariff, the Mexico Tariff or the Mexico–United States Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***preferential tariff treatment under NAFTA*** means, in respect of goods, entitlement to the United States Tariff, the Mexico Tariff or the Mexico–United States Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
-***prescribed*** means
+***prescribed*** means 
 - **(a)** in respect of a form or the manner of filing a form, authorized by the Minister,
 - **(b)** in respect of the information to be provided on or with a form, specified by the Minister, and
 - **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation;
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device;
+***raw leaf tobacco*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***regulation*** means a regulation made by the Governor in Council under this Act;
+***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device; 
 
-***release*** means
+***regulation*** means a regulation made by the Governor in Council under this Act; 
+
+***release*** means 
 - **(a)** in respect of goods, to authorize the removal of the goods from a customs office, sufferance warehouse, bonded warehouse or duty free shop for use in Canada, and
 - **(b)** in respect of goods to which paragraph 32(2)(b) applies, to receive the goods at the place of business of the importer, owner or consignee;
 
-***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate;
+***specially denatured alcohol*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24;
+***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate; 
 
-***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***spirits*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+
+***spirits licensee*** has the same meaning as in section 2 of the  Excise Act, 2001;
+
+***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24; 
+
+***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
 
 ***territorial sea***[Repealed, 1996, c. 31, s. 73]
 
-***tobacco product*** means manufactured tobacco or cigars;
+***tobacco licensee*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+
+***tobacco product*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
 ***United States***[Repealed, 1997, c. 14, s. 35]
 
-***value for duty*** means, in respect of goods, the value of the goods as it would be determined in accordance with sections 45 to 56.
+***value for duty*** means, in respect of goods, the value of the goods as it would be determined in accordance with sections 45 to 56;
+
+***wine*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+
+***wine licensee*** has the same meaning as in section 2 of the  Excise Act, 2001.
 
 **Definitions**
 
 - **(1.1)** For the purpose of the definition “designated goods” in subsection (1),
 
-,  and ,  ou ***alcohol***, ***ethyl alcohol*** and ***spirits*** have the meaning assigned by subsection 3(1) of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
+***alcohol***,  ***ethyl alcohol*** and  ***spirits***[Repealed, 2002, c. 22, s. 328]
 
  or  ou ***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
 
@@ -175,9 +190,9 @@
 
 ***pearls*** means goods for personal use or for adornment of the person and classified under heading No. 71.01 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***precious and semi-precious stones*** means goods for personal use or for adornment of the person and classified under heading No. 71.03 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+***precious and semi-precious stones*** means goods for personal use or for adornment of the person and classified under heading No. 71.03 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
-***wine*** has the meaning assigned by section 25 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***wine***[Repealed, 2002, c. 22, s. 328]
 
 **Preferential tariff treatment**
 
@@ -202,7 +217,7 @@
 **Delegation**
 
 - **(4)** The Minister may authorize an officer or a class of officers to exercise powers or perform duties of the Minister, including any judicial or quasi-judicial powers or duties of the Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328.
 
 
 
@@ -221,7 +236,7 @@
 
 **3** 
 
-- **(1)** All duties or taxes levied on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs are binding on Her Majesty in right of Canada or a province in respect of any goods imported by or on behalf of Her Majesty.
+- **(1)** All duties or taxes levied on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs are binding on Her Majesty in right of Canada or a province in respect of any goods imported by or on behalf of Her Majesty.
 
 **Act binding on Her Majesty**
 
@@ -230,6 +245,8 @@
 **Exemption**
 
 - **(3)** The Governor in Council may by regulation exempt Her Majesty in any case or class of cases from the requirement to report under section 12 or 95 subject to such conditions as may be prescribed.
+> R.S., 1985, c. 1 (2nd Supp.), s. 3; 2002, c. 22, s. 329.
+
 
 
 
@@ -957,7 +974,7 @@ may not be seized as forfeit under this Act by reason only that they were not re
 - **(1)** Subject to the regulations, the Minister may, where he deems it necessary or desirable to do so, issue to any person qualified under the regulations a licence for the operation of any place
 	- **(a)** as a sufferance warehouse for the examination of imported goods that have not been released, or
 	- **(b)** [Repealed, 1995, c. 41, s. 6]
-	- **(c)** as a duty free shop for the sale of goods free of certain duties or taxes levied on goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs, to persons who are about to leave Canada
+	- **(c)** as a duty free shop for the sale of goods free of certain duties or taxes levied on goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs, to persons who are about to leave Canada
 and may specify in the licence any restriction as to the classes of goods that may be received therein or the circumstances in which goods may be received therein.
 
 **Definition of duties not to apply**
@@ -967,7 +984,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Amendment of licence**
 
 - **(2)** The Minister may, subject to the regulations, amend, suspend, renew, cancel or reinstate a licence issued under subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 24; 1993, c. 25, s. 70; 1995, c. 41, s. 6; 2001, c. 16, s. 2.
+> R.S., 1985, c. 1 (2nd Supp.), s. 24; 1993, c. 25, s. 70; 1995, c. 41, s. 6; 2001, c. 16, s. 2; 2002, c. 22, s. 330.
 
 
 
@@ -988,8 +1005,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Definition**
 
-- **(2)** In subsection (1), ***duties*** means duties or taxes levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs.
-> R.S., 1985, c. 1 (2nd Supp.), s. 26; 1993, c. 25, s. 71.
+- **(2)** In subsection (1), ***duties*** means duties or taxes levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs.
+> R.S., 1985, c. 1 (2nd Supp.), s. 26; 1993, c. 25, s. 71; 2002, c. 22, s. 331.
 
 
 
@@ -1006,31 +1023,25 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **28** 
 
-- **(1)** Subject to subsection (1.2), the operator of a sufferance warehouse, bonded warehouse or duty free shop is liable for all duties or taxes levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs on goods that have been received in that warehouse or shop unless the operator proves that the goods
+- **(1)** The operator of a sufferance warehouse, bonded warehouse or duty free shop is liable for all duties or taxes levied under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs on goods that have been received in the warehouse or duty free shop unless the operator proves that the goods
 	- **(a)** are still in the warehouse or duty free shop;
 	- **(b)** have been destroyed while in the warehouse or duty free shop;
 	- **(c)** have been removed from the warehouse or duty free shop pursuant to section 19;
 	- **(d)** have been taken as a sample or seized under the [Firearms Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2039.md) or any other Act of Parliament; or
 	- **(e)** have been released by an officer.
 
-**Exception — certain goods**
+- **(1.1) and (1.2)** [Repealed, 2002, c. 22, s. 332]
 
-- **(1.1)** This section does not apply to goods to which paragraph 32(2)(b) applies.
+**Rates**
 
-**Where s. (1) not applicable**
-
-- **(1.2)** Subsection (1) does not apply in respect of the tax levied under section 23.2 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
-
-**Rates of duties**
-
-- **(2)** The rates of duties payable on goods under subsection (1) shall,
+- **(2)** The rates of duties or taxes payable on goods under subsection (1) shall
 	- **(a)** where the goods have been received in a sufferance warehouse, be the rates applicable to such goods at the time they were reported under section 12; and
 	- **(b)** where the goods have been received in a bonded warehouse or duty free shop, be the rates applicable to such goods at the time they were received therein.
 
-**Definition duties does not apply**
+**Definition of duties not to apply**
 
 - **(3)** The definition ***duties*** in subsection 2(1) does not apply for the purposes of subsections (1) and (2).
-> R.S., 1985, c. 1 (2nd Supp.), s. 28; 1993, c. 25, s. 72; 1995, c. 39, s. 168; 2001, c. 25, s. 19.
+> R.S., 1985, c. 1 (2nd Supp.), s. 28; 1993, c. 25, s. 72; 1995, c. 39, s. 168; 2001, c. 25, s. 19; 2002, c. 22, ss. 332, 408.
 
 
 
@@ -1184,8 +1195,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Duties**
 
-- **(8)** If a declaration of tariff classification is rendered incorrect by a failure referred to in subsection (6), for the purposes of paragraph (2)(b), duties do not include duties or taxes levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1993, c. 44, s. 82; 1996, c. 33, s. 29; 1997, c. 14, s. 36, c. 36, s. 152; 2001, c. 25, s. 22.
+- **(8)** If a declaration of tariff classification is rendered incorrect by a failure referred to in subsection (6), for the purposes of paragraph (2)(b), duties do not include duties or taxes levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
+> 1993, c. 44, s. 82; 1996, c. 33, s. 29; 1997, c. 14, s. 36, c. 36, s. 152; 2001, c. 25, s. 22; 2002, c. 22, s. 333.
 
 
 
@@ -1205,8 +1216,20 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Release prior to payment of duties**
 
-**33** In such circumstances as may be prescribed, goods may be released prior to the payment of duties thereon, and where goods are released under this section the person who accounted for the goods under subsection 32(2) or (3) shall pay the duties thereon within a prescribed time.
-> R.S., 1985, c. 1 (2nd Supp.), s. 33; 1992, c. 28, s. 6.
+**33** 
+
+- **(1)** In prescribed circumstances, goods may be released prior to the payment of duties levied on them.
+
+**Payment of duties**
+
+- **(2)** If goods are released under this section, the person who accounted for the goods under subsection 32(2) or (3) shall pay the duties levied on them within the prescribed time.
+
+**Meaning of duties**
+
+- **(3)** In subsection (2), ***duties*** does not include the duties levied under
+	- **(a)** subsection 21.1(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), if they are paid and collected in accordance with subsection 21.1(2) of that Act; or
+	- **(b)** subsections 21.2(1) and (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), if they are paid and collected in accordance with subsection 21.2(3) of that Act.
+> R.S., 1985, c. 1 (2nd Supp.), s. 33; 1992, c. 28, s. 6; 2002, c. 22, s. 334.
 
 
 
@@ -1726,9 +1749,11 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 
 
-***Ad valorem* rates of duty**
+**Ad valorem rates of duty**
 
-**44** Where duties, other than duties or taxes levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), are imposed on goods at a percentage rate, such duties shall be calculated by applying the rate to a value determined in accordance with sections 45 to 55.
+**44** If duties, other than duties or taxes levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), are imposed on goods at a percentage rate, such duties shall be calculated by applying the rate to a value determined in accordance with sections 45 to 55.
+> R.S., 1985, c. 1 (2nd Supp.), s. 44; 2002, c. 22, s. 335.
+
 
 
 
@@ -1894,7 +1919,7 @@ but does not include imported goods where engineering, development work, art wor
 		- **(i)** the cost of transportation of, the loading, unloading and handling charges and other charges and expenses associated with the transportation of, and the cost of insurance relating to the transportation of, the goods from the place within the country of export from which the goods are shipped directly to Canada, and
 		- **(ii)** any of the following costs, charges or expenses if the cost, charge or expense is identified separately from the price paid or payable for the goods:
 			- **(A)** any reasonable cost, charge or expense that is incurred for the construction, erection, assembly or maintenance of, or technical assistance provided in respect of, the goods after the goods are imported, and
-			- **(B)** any duties and taxes paid or payable by reason of the importation of the goods or sale of the goods in Canada, including, without limiting the generality of the foregoing, any duties or taxes levied on the goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs; and
+			- **(B)** any duties and taxes paid or payable by reason of the importation of the goods or sale of the goods in Canada, including, without limiting the generality of the foregoing, any duties or taxes levied on the goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other law relating to customs; and
 	- **(c)** by disregarding any rebate of, or other decrease in, the price paid or payable for the goods that is effected after the goods are imported.
 
 **Effect of absence of sufficient information**
@@ -1904,7 +1929,7 @@ but does not include imported goods where engineering, development work, art wor
 **Where information inaccurate**
 
 - **(7)** Where an officer who is appraising the value for duty of goods believes on reasonable grounds that the information submitted in support of the transaction value of the goods as determined under subsection (4) is inaccurate, the officer shall determine, in accordance with the prescribed procedure, that the value for duty of the goods shall not be appraised under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18.
+> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336.
 
 
 
@@ -2588,7 +2613,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **Duties**
 
-- **(1.2)** The duties that may be refunded under paragraph (1)(f) do not include duties or taxes levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
+- **(1.2)** The duties that may be refunded under paragraph (1)(f) do not include duties or taxes levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
 
 **Claims for refund**
 
@@ -2627,7 +2652,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Application of refund**
 
 - **(8)** A person of a prescribed class may apply, within four years after goods are accounted for under subsection 32(1), (3) or (5), in prescribed circumstances and under prescribed conditions, the amount of any refund to which they are entitled under this section to the payment of any amount for which they are liable or may become liable under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29.
+> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337.
 
 
 
@@ -3133,7 +3158,7 @@ A - B
 ```
 where
 - **A** is the amount, if any, by which the fair market value of the property at the time of transfer exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
-- **B** is the amount, if any, by which the amount assessed the transferee under subsection 325(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and subsection 160(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+- **B** is the amount, if any, by which the amount assessed the transferee under subsection 297(3) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), subsection 325(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and subsection 160(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
 	- **(b)** the total of all amounts each of which is
 		- **(i)** an amount that the transferor is liable to pay under this Act, or
 		- **(ii)** interest or a penalty for which the transferor is liable as of the time of transfer.
@@ -3164,12 +3189,12 @@ However, nothing in this subsection limits the liability of the transferor under
 
 - **(6)** The definitions in this subsection apply in this section.
 
-***common-law partner*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) except that references to “taxpayer” in that definition are to be read as references to “debtor”.
+***common-law partner*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) except that references to “taxpayer” in that definition are to be read as references to “debtor”. (*conjoint de fait*)
 
-***common-law partnership*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***common-law partnership*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*union de fait*)
 
-***property*** includes money.
-> 2001, c. 25, s. 58.
+***property*** includes money. (*bien*)
+> 2001, c. 25, s. 58; 2002, c. 22, s. 408.
 
 
 
@@ -4510,14 +4535,20 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 **Return of goods seized**
 
-**117** An officer may, subject to this or any other Act of Parliament, return any goods that have been seized under this Act to the person from whom they were seized or to any person authorized by the person from whom they were seized on receipt of
-- **(a)** an amount of money of a value equal to
-	- **(i)** the aggregate of the value for duty of the goods and the amount of duties levied thereon, if any, calculated at the rates applicable thereto
-		- **(A)** at the time of seizure, if the goods have not been accounted for under subsection 32(1), (2) or (5) or if duties or additional duties have become due on the goods under paragraph 32.2(2)(b) in circumstances to which subsection 32.2(6) applies, or
-		- **(B)** at the time the goods were accounted for under subsection 32(1), (2) or (5), in any other case, or
-	- **(ii)** such lesser amount as the Minister may direct; or
-- **(b)** where the Minister so authorizes, security satisfactory to the Minister.
-> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185.
+**117** 
+
+- **(1)** An officer may, subject to this or any other Act of Parliament, return any goods that have been seized under this Act to the person from whom they were seized or to any person authorized by the person from whom they were seized on receipt of
+	- **(a)** an amount of money of a value equal to
+		- **(i)** the aggregate of the value for duty of the goods and the amount of duties levied thereon, if any, calculated at the rates applicable thereto
+			- **(A)** at the time of seizure, if the goods have not been accounted for under subsection 32(1), (2) or (5) or if duties or additional duties have become due on the goods under paragraph 32.2(2)(b) in circumstances to which subsection 32.2(6) applies, or
+			- **(B)** at the time the goods were accounted for under subsection 32(1), (2) or (5), in any other case, or
+		- **(ii)** such lesser amount as the Minister may direct; or
+	- **(b)** where the Minister so authorizes, security satisfactory to the Minister.
+
+**No return of certain goods**
+
+- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, raw leaf tobacco or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
+> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338.
 
 
 
@@ -4561,6 +4592,13 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 - **(1)** Where any goods are seized under this Act, the Minister may authorize an officer to sell, destroy or otherwise deal with the goods.
 
+**Restriction**
+
+- **(1.1)** Subject to the regulations, the sale under subsection (1) of
+	- **(a)** spirits or specially denatured alcohol may only be to a spirits licensee;
+	- **(b)** wine may only be to a wine licensee; and
+	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee.
+
 **Proceeds of sale**
 
 - **(2)** The Minister shall hold the proceeds from the sale of any goods under subsection (1) as forfeit in lieu of the goods sold.
@@ -4570,7 +4608,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 - **(3)** Where a person would be entitled to the return of goods if they were available to be returned, but it is not possible to return them, the person shall be paid
 	- **(a)** where the goods were sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the goods.
-> 1994, c. 37, s. 9.
+> 1994, c. 37, s. 9; 2002, c. 22, s. 339.
 
 
 
@@ -5107,15 +5145,34 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **142** 
 
-- **(1)** Anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
+- **(1)** Unless the thing is spirits, specially denatured alcohol, wine, raw leaf tobacco or a tobacco product, anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
 	- **(a)** where the Minister deems it appropriate, be exported;
 	- **(b)** where the importation thereof is prohibited, or where the Minister considers the thing to be unsuitable for sale or of insufficient value to justify a sale, be disposed of in such manner, otherwise than by sale, as the Minister may direct; and
-	- **(c)** in any other case, be sold by public auction or public tender or by the Minister of Public Works and Government Services pursuant to the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be prescribed.
+	- **(c)** in any other case, be sold by public auction or public tender or by the Minister of Public Works and Government Services pursuant to the 
+[Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be prescribed.
 
 **Duties removed**
 
 - **(2)** Any goods that are disposed of pursuant to subsection (1) are, from the time of disposal, no longer charged with duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60.
+> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340.
+
+
+
+
+
+**Dealing with abandoned or forfeited alcohol, etc.**
+
+**142.1** 
+
+- **(1)** If spirits, specially denatured alcohol, wine, raw leaf tobacco or a tobacco product is abandoned or finally forfeited under this Act, the Minister may sell, destroy or otherwise deal with it.
+
+**Restriction**
+
+- **(2)** Subject to the regulations, the sale under subsection (1) of
+	- **(a)** spirits or specially denatured alcohol may only be to a spirits licensee;
+	- **(b)** wine may only be to a wine licensee; and
+	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee.
+> 2002, c. 22, s. 341.
 
 
 
