@@ -718,7 +718,10 @@ the employer may inform the compliance officer of such belief.
 
 **Orders are final**
 
-- **(3)** An order of a Tribunal is final and, except for judicial review under the Federal Court Act, is not subject to appeal or review by any court.
+- **(3)** An order of a Tribunal is final and, except for judicial review under the 
+[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or review by any court.
+> 1995, c. 44, s. 30; 2002, c. 8, s. 182.
+
 
 
 
@@ -924,8 +927,8 @@ the employer may inform the compliance officer of such belief.
 
 **Determinations are final**
 
-- **(8)** A determination of a Tribunal under this section is final and, except for judicial review under the Federal Court Act, is not subject to appeal or review by any court.
-> 1995, c. 44, s. 39; 1998, c. 9, s. 41.
+- **(8)** A determination of a Tribunal under this section is final and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or review by any court.
+> 1995, c. 44, s. 39; 1998, c. 9, s. 41; 2002, c. 8, s. 182.
 
 
 
