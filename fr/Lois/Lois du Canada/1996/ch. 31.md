@@ -63,8 +63,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
 ***droit*** Au sens objectif :
-- **a)** s’agissant du droit fédéral, les lois fédérales et les règlements au sens du paragraphe 2(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md), ainsi que les autres règles de droit qui relèvent de la compétence du Parlement. Sont toutefois exclues de la présente définition les ordonnances au sens de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md) ou de la [Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md), ainsi que les lois de la Législature du Nunavut;
-- **b)** s’agissant du droit d’une province, les lois de celle-ci et les textes d’application en vigueur sous le régime de ces lois, ainsi que les autres règles de droit relevant de la compétence de la province et en vigueur dans celle-ci.
+
+- **a)
+** s'agissant du droit fédéral, les lois fédérales et les règlements au sens du paragraphe 2(1) de la 
+Loi d'interprétation, ainsi que les autres règles de droit qui relèvent de la compétence du Parlement. Sont toutefois exclues de la présente définition les ordonnances au sens de la 
+[Loi sur les Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/2014/ch.%202,%20art.%202.md), ainsi que les lois de la Législature du Yukon ou de celle du Nunavut;
+- **b)
+** s’agissant du droit d’une province, les lois de celle-ci et les textes d’application en vigueur sous le régime de ces lois, ainsi que les autres règles de droit relevant de la compétence de la province et en vigueur dans celle-ci.
 
 ***île artificielle*** Toute adjonction d’origine humaine aux fonds marins ou à un élément de ces fonds, émergée ou immergée.
 
@@ -78,7 +83,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** les navires, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
 - **b)** les unités de forage en mer, les stations de pompage, les plates-formes de chargement, de production ou d’atterrissage, les installations sous-marines, les unités de logement ou d’entreposage, les dragues, les grues flottantes, les barges, les unités d’installation de canalisations et les canalisations, ainsi que les ancres, câbles d’ancrage et assises de sonde utilisés à leur égard;
 - **c)** les autres ouvrages désignés — ou qui font partie d’une catégorie désignée — sous le régime de l’alinéa 26(1)a).
-> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35.
+> 1996, ch. 31, art. 2; 1993, ch. 28, art. 78; 1998, ch. 15, art. 35; 2002, ch. 7, art. 223.
 
 
 
