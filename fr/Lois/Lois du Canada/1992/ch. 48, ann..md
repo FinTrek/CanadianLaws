@@ -126,14 +126,21 @@ Sanctionnée sur le 1 janvier 1993
 **8** 
 
 - **(1)** Le montant mensuel de l’allocation spéciale correspond au douzième de la somme des montants suivants :
-	- **a)** le montant exprimé en dollars à l’alinéa a) de l’élément A de la formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** le montant exprimé en dollars à l’alinéa a) de l’élément F de la formule figurant à ce paragraphe.
+	- **a)
+** le montant exprimé en dollars à l’alinéa 
+a) de l’élément A de la formule figurant au paragraphe 122.61(1) de la 
+[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b)
+** le montant exprimé en dollars à l’alinéa 
+a) de l’élément F de la formule figurant à ce paragraphe;
+	- **c)
+** si un montant est déductible pour l’enfant en application de l’article 118.3 de cette loi, le montant exprimé en dollars à l’élément N de la formule figurant au paragraphe 122.61(1) de cette loi.
 Chacun de ces montants est rajusté et arrondi conformément aux paragraphes 122.61(5) et (7) de cette loi.
 
 **Arrondissement des montants**
 
 - **(2)** Dans les calculs visés au paragraphe (1), les résultats qui sont formés d’une fraction d’un cent sont arrondis à l’unité la plus proche ou, s’ils sont formés d’un demi-cent, à l’unité supérieure.
-> 1992, ch. 48, art. 23 (ann., art. 8); 1998, ch. 21, art. 98.
+> 1992, ch. 48, art. 23 (ann., art. 8); 1998, ch. 21, art. 98; 2003, ch. 15, art. 90.
 
 
 
