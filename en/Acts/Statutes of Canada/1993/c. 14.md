@@ -258,7 +258,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** 
 
-- **(1)** At the request of the Corporation, the Minister of Finance may, with the approval of the Governor in Council, pay to the Corporation, out of the Consolidated Revenue Fund, amounts not exceeding in the aggregate one billion, two hundred and twenty-five million dollars, or such greater aggregate amount as may be authorized from time to time under an appropriation Act.
+- **(1)** At the request of the Corporation, the Minister of Finance may, with the approval of the Governor in Council, pay to the Corporation, out of the Consolidated Revenue Fund, amounts not exceeding in the aggregate one billion, two hundred and fifty million dollars, or such greater aggregate amount as may be authorized from time to time under an appropriation Act.
 
 **Capital of the Corporation**
 
@@ -267,7 +267,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reference to committee**
 
 - **(3)** Any provision of an appropriation Act authorizing an increase in the aggregate amount referred to in subsection (1) stands permanently referred to a committee of either or both Houses of Parliament established for the purpose of reviewing matters relating to agriculture.
-> 1993, c. 14, s. 11; 1997, c. 26, s. 93; 2003, c. 15, s. 42.
+> 1993, c. 14, s. 11; 1997, c. 26, s. 93; 2003, c. 15, s. 42; 2004, c. 22, s. 28.
 
 
 
