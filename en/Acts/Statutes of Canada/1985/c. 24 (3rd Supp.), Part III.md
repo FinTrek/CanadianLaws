@@ -584,11 +584,13 @@ may, if the employer considers such information to be confidential business info
 
 **39** 
 
-- **(1)** A governor or member of an appeal board shall be deemed not to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the governor or member to be so employed for those purposes.
+- **(1)** A governor or member of an appeal board shall be deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the governor or member to be so employed for those purposes.
 
 **President and employees**
 
-- **(2)** The President and the employees appointed under section 38 shall be deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(2)** The President and the employees appointed under section 38 are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> R.S., 1985, c. 24 (3rd Supp.), s. 39; 2003, c. 22, ss. 171(E), 225(E).
+
 
 
 
