@@ -2809,9 +2809,11 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 	- **(c)** respecting the use of photographs, film, video recordings or electronic images of the human remains of victims of accidents involving a wrecked vessel or an aircraft wrecked in waters; and
 	- **(d)** prescribing anything that may be prescribed under this Part.
 
-**Regulations — Minister and Minister of Canadian Heritage**
+**Regulations — Minister and Minister responsible for Parks Canada Agency**
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister and the Minister of Canadian Heritage, make regulations respecting the salvage of wreck or classes of wreck specified by regulations made under paragraph 163(2)(a).
+- **(2)** The Governor in Council may, on the recommendation of the Minister and the Minister responsible for the Parks Canada Agency, make regulations respecting the salvage of wreck or classes of wreck specified by regulations made under paragraph 163(2)(a).
+> 2001, c. 26, s. 150; 2005, c. 2, s. 8.
+
 
 
 
@@ -3012,13 +3014,13 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 	- **(a)** exempting any geographical area from the application of this Part; and
 	- **(b)** for carrying out the purposes and provisions of this Part.
 
-**Regulations — Minister and Minister of Canadian Heritage**
+**Regulations — Minister and Minister responsible for Parks Canada Agency**
 
-- **(2)** The Governor in Council may, on the joint recommendation of the Minister and the Minister of Canadian Heritage, make regulations
+- **(2)** The Governor in Council may, on the joint recommendation of the Minister and the Minister responsible for the Parks Canada Agency, make regulations
 	- **(a)** specifying wreck or classes of wreck that have heritage value;
 	- **(b)** respecting the protection and preservation of wreck or classes of wreck that have heritage value, and providing for issuing permits to access such wreck;
 	- **(c)** authorizing the designation of enforcement officers to ensure compliance with the regulations made under this Part and specifying their powers and duties;
-	- **(d)** authorizing the Minister and the Minister of Canadian Heritage to jointly enter into agreements or arrangements respecting the administration or enforcement of any provision of the regulations made under this subsection and to authorize any person or organization with whom an agreement or arrangement is entered into to exercise the powers or perform the duties under those regulations that are specified in the agreement or arrangement;
+	- **(d)** authorizing the Minister and the Minister responsible for the Parks Canada Agency to jointly enter into agreements or arrangements respecting the administration or enforcement of any provision of the regulations made under this subsection and to authorize any person or organization with whom an agreement or arrangement is entered into to exercise the powers or perform the duties under those regulations that are specified in the agreement or arrangement;
 	- **(e)** exempting wreck or any class of wreck that has heritage value from the application of any provision of this Part;
 	- **(f)** exempting any geographical area from the application of regulations made under paragraph (b) or (c); and
 	- **(g)** respecting the setting and payment of fees, and the determination and payment of expenses, for services provided in the administration of regulations made under this subsection.
@@ -3026,6 +3028,8 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 **Debt due to Her Majesty**
 
 - **(3)** All fees and expenses set under paragraph (2)(g) and interest payable on those fees and expenses constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+> 2001, c. 26, s. 163; 2005, c. 2, s. 9.
+
 
 
 
