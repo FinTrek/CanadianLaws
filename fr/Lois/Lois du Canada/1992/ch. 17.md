@@ -206,14 +206,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** La personne qui possède les pouvoirs que la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) confèrent aux agents des douanes et aux préposés de l’accise est assimilée à un agent de la paix pour l’application de la présente loi et des articles 487 à 490, 491.1 et 491.2 du *Code criminel.*
+- **(1)** La personne qui possède les pouvoirs que la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) ou la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) confèrent aux agents des douanes et aux préposés de l’accise est assimilée à un agent de la paix pour l’application de la présente loi et des articles 487 à 490, 491.1 et 491.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Saisie sans mandat**
 
-- **(2)** L’agent de la paix peut procéder sans mandat lorsque l’urgence de la situation rend son obtention difficilement réalisable, sous réserve que les conditions de délivrance en soient réunies, et effectuer une perquisition et une saisie dans un bâtiment, contenant ou lieu où se trouve, selon le cas :
+- **(2)** L’agent de la paix peut procéder sans mandat lorsque l’urgence de la situation rend son obtention difficilement réalisable, sous réserve que les conditions de délivrance en soient réunies, et effectuer une perquisition et une saisie dans un bâtiment, contenant ou lieu où se trouve, selon le cas :
 	- **a)** une chose à l’égard de laquelle il existe des motifs raisonnables de croire qu’une infraction à la présente loi a été commise;
 	- **b)** une chose à l’égard de laquelle il existe des motifs raisonnables de croire qu’elle a été employée à la perpétration d’une infraction à la présente loi;
 	- **c)** une chose dont on a des motifs raisonnables de croire qu’elle fournira une preuve touchant la perpétration d’une infraction à la présente loi.
+> 1992, ch. 17, art. 9; 2002, ch. 22, art. 396.
+
 
 
 
