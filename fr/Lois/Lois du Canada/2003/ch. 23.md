@@ -1186,6 +1186,10 @@ où :
 
 
 
+**80.1** [Modification]
+
+
+
 
 #### Loi sur la protection des renseignements personnels
 
@@ -1195,10 +1199,11 @@ où :
 
 
 
-#### Loi sur les relations de travail dans la fonction publique
+**Loi sur les relations de travail dans la fonction publique** 
+#### [Abrogé, 2003, ch. 22, art. 278]
 
 
-**82** [Modification]
+**82** [Abrogé, 2003, ch. 22, art. 278]
 
 
 
