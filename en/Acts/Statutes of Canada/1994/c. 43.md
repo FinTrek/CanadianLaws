@@ -1273,11 +1273,11 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 
 
-**Application for judicial review to Supreme Court**
+**Application for judicial review**
 
 **76** 
 
-- **(1)** Notwithstanding section 18 of the Federal Court Act, the Federal Court — Trial Division has concurrent original jurisdiction in respect of relief referred to in paragraph 18(1)(b) of that Act, and the Attorney General of Canada, the Territorial Minister or anyone directly affected by the matter in respect of which relief is sought may make an application for judicial review to the Supreme Court of the Yukon Territory for any relief that the applicant could otherwise obtain in respect of the Board by way of an application for an order of or in the nature of *mandamus*, prohibition or *certiorari* or by way of an action for a declaration or an injunction.
+- **(1)** Notwithstanding section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Federal Court has concurrent original jurisdiction in respect of relief referred to in paragraph 18(1)(b) of that Act, and the Attorney General of Canada, the Territorial Minister or anyone directly affected by the matter in respect of which relief is sought may make an application for judicial review to the Supreme Court of the Yukon Territory for any relief that the applicant could otherwise obtain in respect of the Board by way of an application for an order of or in the nature of *mandamus*, prohibition or *certiorari* or by way of an action for a declaration or an injunction.
 
 **Limitation period**
 
@@ -1306,7 +1306,7 @@ and includes works, machinery, plants and buildings below or above ground belong
 **Interim orders**
 
 - **(6)** On an application for judicial review, the Supreme Court may make such interim orders as it considers appropriate pending final disposition of the application.
-> 1994, c. 43, s. 76; 2002, c. 10, s. 192(F).
+> 1994, c. 43, s. 76; 2002, c. 8, s. 181, c. 10, ss. 192(F), 202(F).
 
 
 
