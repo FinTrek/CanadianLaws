@@ -192,14 +192,14 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 		- **(i)** an offence in the commission of which violence against another person was used, threatened or attempted,
 		- **(ii)** an offence under this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(iii)** an offence under section 264 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (criminal harassment), or
-		- **(iv)** an offence relating to the contravention of subsection 5(3) or (4), 6(3) or 7(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+		- **(iv)** an offence relating to the contravention of subsection 5(1) or (2), 6(1) or (2) or 7(1) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
 	- **(b)** has been treated for a mental illness, whether in a hospital, mental institute, psychiatric clinic or otherwise and whether or not the person was confined to such a hospital, institute or clinic, that was associated with violence or threatened or attempted violence on the part of the person against any person; or
 	- **(c)** has a history of behaviour that includes violence or threatened or attempted violence on the part of the person against any person.
 
 **Exception**
 
 - **(3)** Notwithstanding subsection (2), in determining whether a non-resident who is eighteen years old or older and by or on behalf of whom an application is made for a sixty-day licence authorizing the non-resident to possess firearms that are neither prohibited firearms nor restricted firearms is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section 74, a provincial court judge may but need not have regard to the criteria described in subsection (2).
-> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1
+> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1; 2003, c. 8, s. 10
 
 
 
@@ -230,7 +230,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 **Restricted firearms safety course**
 
-- **(2)** An individual is eligible to hold a licence authorizing the individual to possess restricted firearms only if the individual
+- **(2)** An individual is eligible to hold a licence authorizing the individual to possess prohibited firearms or restricted firearms only if the individual
 	- **(a)** successfully completes a restricted firearms safety course that is approved by the federal Minister, as given by an instructor who is designated by a chief firearms officer, and passes any tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that course; or
 	- **(b)** passes a restricted firearms safety test, as administered by an instructor who is designated by a chief firearms officer, that is approved by the federal Minister.
 
@@ -256,6 +256,8 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 **Further exception**
 
 - **(5)** Subsection (3) does not apply to an individual in respect of whom an order is made under section 113 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (lifting of prohibition order for sustenance or employment) and who is exempted by a chief firearms officer from the application of that subsection.
+> 1995, c. 39, s. 7; 2003, c. 8, s. 11
+
 
 
 
@@ -301,9 +303,17 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 	- **(a)** a chief firearms officer determines that no individual who stands in a prescribed relationship to the business need be eligible to hold a licence under section 7; or
 	- **(b)** the individuals who stand in a prescribed relationship to the business and who are determined by a chief firearms officer to be the appropriate individuals to satisfy the requirements of section 7 are eligible to hold a licence under that section.
 
-**Employees**
+**Employees — firearms**
 
-- **(3)** A business other than a carrier is eligible to hold a licence only if every employee of the business who, in the course of duties of employment, handles or would handle firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition is the holder of a licence authorizing the holder to acquire restricted firearms.
+- **(3)** Subject to subsection (3.1), a business other than a carrier is eligible to hold a licence that authorizes the possession of firearms only if every employee of the business who, in the course of duties of employment, handles or would handle firearms is the holder of a licence authorizing the holder to acquire firearms that are neither prohibited firearms nor restricted firearms.
+
+**Employees — prohibited firearms or restricted firearms**
+
+- **(3.1)** A business other than a carrier is eligible to hold a licence that authorizes the possession of prohibited firearms or restricted firearms only if every employee of the business who, in the course of duties of employment, handles or would handle firearms is the holder of a licence authorizing the holder to acquire restricted firearms.
+
+**Employees — prohibited weapons, restricted weapons, etc.**
+
+- **(3.2)** A business other than a carrier is eligible to hold a licence that authorizes the possession of prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition only if every employee of the business who, in the course of duties of employment, handles or would handle any of those things is eligible under sections 5 and 6 to hold a licence.
 
 **Exception**
 
@@ -320,6 +330,8 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 - **(6)** Subsection (3) does not apply in respect of an employee of a museum
 	- **(a)** who, in the course of duties of employment, handles or would handle only firearms that are designed or intended to exactly resemble, or to resemble with near precision, antique firearms, and who has been trained to handle or use such a firearm; or
 	- **(b)** who is designated, by name, by a provincial minister.
+> 1995, c. 39, s. 9; 2003, c. 8, s. 12
+
 
 
 
@@ -651,6 +663,8 @@ verify the purpose for which the transferee or individual wishes to acquire the 
 **Non-disclosure of information**
 
 - **(7)** A provincial minister need not disclose any information the disclosure of which could, in the opinion of the provincial minister, endanger the safety of any person.
+> 1995, c. 39, s. 29; 2003, c. 8, s. 22(F)
+
 
 
 
@@ -683,9 +697,11 @@ verify the purpose for which the transferee or individual wishes to acquire the 
 **Mail-order transfers of firearms**
 
 **32** A person may transfer a firearm by mail only if
-- **(a)** the verifications, notifications, issuances and authorizations referred to in sections 21 to 28, 30, 31, 40 to 43 and 46 to 52 take place within a reasonable period before the transfer in the prescribed manner;
-- **(b)** the firearm is delivered by a person designated by a chief firearms officer and the person ensures that the transferee holds a licence authorizing the transferee to acquire that kind of firearm; and
+- **(a)** the verifications, notifications, issuances and authorizations referred to in sections 21 to 28, 30, 31, 40 to 43 and 46 to 52 take place within a reasonable period before the transfer in the prescribed manner; and
+- **(b)** [Repealed, 2003, c. 8, s. 24]
 - **(c)** the prescribed conditions are complied with.
+> 1995, c. 39, s. 32; 2003, c. 8, s. 24
+
 
 
 
@@ -1150,6 +1166,10 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 	- **(a)** five years after the birthday of the holder next following the day on which it is issued, and
 	- **(b)** the expiration of the period for which it is expressed to be issued.
 
+**Extension of term**
+
+- **(1.1)** Despite subsection (1), a chief firearms officer may, until January 1, 2005, with respect to any licence referred to in that subsection that is issued before December 31, 2001, extend the period for which the licence is expressed to be issued by an additional period of up to four years.
+
 **Minors**
 
 - **(2)** A licence that is issued to an individual who is less than eighteen years old expires on the earlier of
@@ -1167,6 +1187,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 - **(4)** A licence that is issued to a museum expires on the earlier of
 	- **(a)** three years after the day on which it is issued, and
 	- **(b)** the expiration of the period for which it is expressed to be issued.
+> 1995, c. 39, s. 64; 2003, c. 8, s. 40
+
 
 
 
@@ -1266,7 +1288,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **70** 
 
-- **(1)** A chief firearms officer who issues a licence, authorization to carry or authorization to transport may revoke it for any good and sufficient reason including, without limiting the generality of the foregoing,
+- **(1)** A chief firearms officer may revoke a licence, an authorization to carry or an authorization to transport for any good and sufficient reason including, without limiting the generality of the foregoing,
 	- **(a)** where the holder of the licence or authorization
 		- **(i)** is no longer or never was eligible to hold the licence or authorization,
 		- **(ii)** contravenes any condition attached to the licence or authorization, or
@@ -1276,7 +1298,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Registrar**
 
 - **(2)** The Registrar may revoke an authorization to export or authorization to import for any good and sufficient reason.
-> 1995, c. 39, ss. 70, 137
+> 1995, c. 39, ss. 70, 137; 2003, c. 8, s. 43(E)
 
 
 
@@ -1800,17 +1822,9 @@ the applicant for or holder of the licence, registration certificate, authorizat
 
 **Designated officers may perform functions of chief firearms officers**
 
-**99** 
+**99** A firearms officer who is designated in writing by a chief firearms officer may perform any of the duties and functions of the chief firearms officer under this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that are specified in the designation.
+> 1995, c. 39, s. 99; 2003, c. 8, s. 52
 
-- **(1)** Subject to subsections (2) and (3), a firearms officer who is designated in writing by a chief firearms officer may perform such duties and functions of the chief firearms officer under this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) as are specified in the designation.
-
-**Exception**
-
-- **(2)** A licence that is issued to a business authorizing the business to acquire prohibited firearms, prohibited weapons, prohibited devices or prohibited ammunition must be issued by a chief firearms officer personally.
-
-**Exception**
-
-- **(3)** An authorization to carry must be issued by a chief firearms officer personally.
 
 
 
@@ -1895,6 +1909,8 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 - **(3)** For greater certainty, an inspector who is carrying out an inspection of a dwelling-house may enter and inspect only
 	- **(a)** that part of a room of the dwelling-house in which the inspector believes on reasonable grounds there is a firearm, prohibited weapon, restricted weapon, prohibited device, prohibited ammunition, a record in relation to a gun collection or all or part of a device or other thing required by a regulation made under paragraph 117(h) respecting the storage of firearms and restricted weapons; and
 	- **(b)** in addition, in the case of a dwelling-house where the inspector believes on reasonable grounds a business is being carried on, that part of a room in which the inspector believes on reasonable grounds there is ammunition or a record of the business.
+> 1995, c. 39, s. 104; 2003, c. 8, s. 53(F)
+
 
 
 
@@ -2435,7 +2451,15 @@ continues in force until the expiration of the period for which it was expressed
 ## Related and Consequential Amendments to Other Acts
 
 
-**158 to 187** [Amendments]
+**158 to 168** [Amendments]
+
+
+
+**169** [Repealed, 2003, c. 8, s. 55]
+
+
+
+**170 to 187** [Amendments]
 
 
 
