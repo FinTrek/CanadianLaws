@@ -2060,10 +2060,19 @@ is to be considered to have worked or not worked a full working week;
 
 
 
+**Premium rate for 2004**
+
+**66.2** Notwithstanding section 66, the premium rate for the year 2004 is 1.98%.
+> 2003, c. 15, s. 21.
+
+
+
+
+
 **Employee’s premium**
 
-**67** Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subsection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set under section 66 or 66.1, as the case may be.
-> 1996, c. 23, s. 67; 2001, c. 5, s. 10.
+**67** Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subsection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set under section 66, 66.1 or 66.2, as the case may be.
+> 1996, c. 23, s. 67; 2001, c. 5, s. 10; 2003, c. 15, s. 21.
 
 
 
