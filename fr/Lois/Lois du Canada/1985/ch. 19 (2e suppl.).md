@@ -133,6 +133,8 @@
 **Autres avantages**
 
 - **(3)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en application de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), les autres membres sont réputés faire partie de l’administration publique fédérale.
+> L.R. (1985), ch. 19 (2e suppl.), art. 6; 2003, ch. 22, art. 224(A).
+
 
 
 
