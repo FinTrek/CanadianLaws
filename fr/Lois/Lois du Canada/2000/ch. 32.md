@@ -4571,7 +4571,7 @@ Ladite étendue de terre renferme une superficie d’environ 1 805 kilomètres c
 
 
 
-**PARTIE 11 — TERRITOIRE DU YUKON** 
+**PARTIE 11 — YUKON** 
 ### (1) Parc national Ivvavik du Canada
 
 
@@ -4579,7 +4579,7 @@ Toutes les latitudes et longitudes indiquées ci-après font référence au Syst
 
 
 
-Dans le territoire du Yukon;
+Au Yukon;
 
 
 
@@ -4638,7 +4638,7 @@ Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Syst�
 
 
 
-Dans le territoire du Yukon;
+Au Yukon;
 
 
 
@@ -4677,7 +4677,7 @@ Ladite parcelle renfermant environ 4 345 kilomètres carrés.
 ### (3) Parc national Kluane du Canada
 
 
-Dans le terriroire du Yukon :
+Au Yukon :
 
 
 
@@ -5737,7 +5737,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F).
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106.
 
 
 
@@ -5757,7 +5757,7 @@ Aux limites ouest et sud dudit territoire;
 
 
 
-Toute cette parcelle de terrain plus précisément décrite ci-après, tous les accidents topographiques mentionnés ci-après, sauf indication contraire, étant tels qu’ils figurent dans la première édition de la carte « Dezadeash », n<sup>o</sup> 115A, dressée à l’échelle de 1:250 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa et dans la seconde édition de la carte « Mount St. Elias », n<sup>os</sup> 115B et 115C, ainsi que la première édition de la carte « Kluane Lake », n<sup>os</sup> 115G et 115F, dressées à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques), à Ottawa :
+Toute cette parcelle de terrain plus précisément décrite ci-après, tous les accidents topographiques mentionnés ci-après, sauf indication contraire, étant tels qu’ils figurent dans la première édition de la carte « Dezadeash », n<sup>o</sup> 115A, dressée à l’échelle de 1:250 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa et dans la seconde édition de la carte « Mount St. Elias », n<sup>os</sup> 115B et 115C, ainsi que la première édition de la carte « Kluane Lake », n<sup>os</sup> 115G et 115F, dressées à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques), à Ottawa :
 
 
 
@@ -5769,19 +5769,19 @@ De là, en direction est, le long de la limite entre la Colombie-Britannique et 
 
 
 
-De là, en direction plus ou moins nord, le long des rives droites de la rivière Tatshenshini et du ruisseau Silver jusqu’à un point sur le rivage sud d’un petit lac sans nom, situé par environ 60°08′00″ de latitude et 137°21′20″ de longitude, ledit point susmentionné étant décrit d’après la première édition de la carte « Dalton Post », n<sup>o</sup> 115A/3 Ouest, dressée à une échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
+De là, en direction plus ou moins nord, le long des rives droites de la rivière Tatshenshini et du ruisseau Silver jusqu’à un point sur le rivage sud d’un petit lac sans nom, situé par environ 60°08′00″ de latitude et 137°21′20″ de longitude, ledit point susmentionné étant décrit d’après la première édition de la carte « Dalton Post », n<sup>o</sup> 115A/3 Ouest, dressée à une échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
 
 
 
-De là, en direction nord, en ligne droite, jusqu’à un sommet d’environ 1 828,8 mètres d’altitude, situé par environ 60°11′00″ de latitude et 137°22′20″ de longitude, tel qu’il est indiqué sur la dernière carte susmentionnée;
+De là, en direction nord, en ligne droite, jusqu’à un sommet d’environ 1 828,8 mètres d’altitude, situé par environ 60°11′00″ de latitude et 137°22′20″ de longitude, tel qu’il est indiqué sur la dernière carte susmentionnée;
 
 
 
-De là, en direction est, en ligne droite, jusqu’à un sommet situé par environ 60°16′45″ de latitude et 137°09′40″ de longitude, ledit sommet se trouvant approximativement au point dont la cote d’élévation est de 2 180,8 mètres sur la première édition de la carte « Mush Lake », n<sup>o</sup> 115A/6 Est, dressée à l’échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
+De là, en direction est, en ligne droite, jusqu’à un sommet situé par environ 60°16′45″ de latitude et 137°09′40″ de longitude, ledit sommet se trouvant approximativement au point dont la cote d’élévation est de 2 180,8 mètres sur la première édition de la carte « Mush Lake », n<sup>o</sup> 115A/6 Est, dressée à l’échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
 
 
 
-De là, en direction est, en ligne droite, jusqu’à un sommet d’environ 1 920,2 mètres d’altitude, situé par environ 60°16′45″ de latitude et 137°06′10″ de longitude, comme l’indique la dernière carte susmentionnée;
+De là, en direction est, en ligne droite, jusqu’à un sommet d’environ 1 920,2 mètres d’altitude, situé par environ 60°16′45″ de latitude et 137°06′10″ de longitude, comme l’indique la dernière carte susmentionnée;
 
 
 
@@ -5805,7 +5805,7 @@ De là, en direction plus ou moins nord, le long de la dernière limite susmenti
 
 
 
-De là, en direction ouest, en ligne droite, jusqu’à un sommet situé par environ 60°45′30″ de latitude et 137°47′40″ de longitude, ledit sommet se trouvant approximativement au point dont la cote d’élévation est de 2 249,4 mètres sur ladite carte « Dezadeash », n<sup>o</sup> 115A;
+De là, en direction ouest, en ligne droite, jusqu’à un sommet situé par environ 60°45′30″ de latitude et 137°47′40″ de longitude, ledit sommet se trouvant approximativement au point dont la cote d’élévation est de 2 249,4 mètres sur ladite carte « Dezadeash », n<sup>o</sup> 115A;
 
 
 
@@ -5829,7 +5829,7 @@ De là, en direction plus ou moins ouest et nord, le long de la dernière limite
 
 
 
-De là, en direction plus ou moins sud-ouest le long de la dernière rive susmentionnée jusqu’à son intersection la plus orientale avec la ligne droite joignant un sommet d’environ 2 225 mètres d’altitude situé par environ 61°05′10″ de latitude et 138°42′40″ de longitude et le plus oriental de deux sommets d’environ 2 346,9 mètres d’altitude, situé par environ 61°05′10″ de latitude et 138°47′15″ de longitude, cette dernière intersection susmentionnée étant décrite d’après la seconde édition de la carte « Destruction Bay », n<sup>o</sup> 115G/2, dressée à une échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
+De là, en direction plus ou moins sud-ouest le long de la dernière rive susmentionnée jusqu’à son intersection la plus orientale avec la ligne droite joignant un sommet d’environ 2 225 mètres d’altitude situé par environ 61°05′10″ de latitude et 138°42′40″ de longitude et le plus oriental de deux sommets d’environ 2 346,9 mètres d’altitude, situé par environ 61°05′10″ de latitude et 138°47′15″ de longitude, cette dernière intersection susmentionnée étant décrite d’après la seconde édition de la carte « Destruction Bay », n<sup>o</sup> 115G/2, dressée à une échelle de 1:50 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa;
 
 
 
@@ -5837,35 +5837,27 @@ De là, en direction ouest, en ligne droite, jusqu’au dernier sommet susmentio
 
 
 
-De là, en direction nord-ouest, en ligne droite, jusqu’à un sommet ayant environ 2 286 mètres d’altitude et situé par environ 61°09′30″ de latitude et 138°55′45″ de longitude;
+De là, en direction nord-ouest, en ligne droite, jusqu’à un sommet ayant environ 2 286 mètres d’altitude et situé par environ 61°09′30″ de latitude et 138°55′45″ de longitude;
 
 
 
-De là, en direction nord-ouest, en ligne droite, jusqu’à un sommet ayant environ 2 133,6 mètres d’altitude et situé par environ 61°14′00″ de latitude et 139°05′30″ de longitude;
+De là, en direction nord-ouest, en ligne droite, jusqu’à un sommet ayant environ 2 133,6 mètres d’altitude et situé par environ 61°14′00″ de latitude et 139°05′30″ de longitude;
 
 
 
-De là, en direction nord-ouest, en ligne droite, jusqu’à la borne 66-A-19 du Service des levés topographiques, borne qui consiste en un tampon de laiton installé à environ 1 932,1 mètres d’altitude et qui est située par environ 61°16′16″ de latitude et 139°13′11″ de longitude;
+De là, en direction nord-ouest, en ligne droite, jusqu’à la borne 66-A-19 du Service des levés topographiques, borne qui consiste en un tampon de laiton installé à environ 1 932,1 mètres d’altitude et qui est située par environ 61°16′16″ de latitude et 139°13′11″ de longitude;
 
 
 
-De là, en direction nord-ouest, en ligne droite, jusqu’à la borne 66-A-37 du Service des levés topographiques, borne qui consiste en un tampon de laiton installé à environ 2 278,4 mètres d’altitude et qui est située par environ 61°20′05″ de latitude et 139°35′06″ de longitude;
+De là, en direction nord-ouest, en ligne droite, jusqu’à la borne 66-A-37 du Service des levés topographiques, borne qui consiste en un tampon de laiton installé à environ 2 278,4 mètres d’altitude et qui est située par environ 61°20′05″ de latitude et 139°35′06″ de longitude;
 
 
 
-De là, en direction ouest, en ligne droite, jusqu’à un sommet ayant environ 2 895,6 mètres d’altitude, situé par environ 61°19′00″ de latitude et 140°06′30″ de longitude;
-
-
-
-
+De là, en direction ouest, en ligne droite, jusqu’à un sommet ayant environ 2 895,6 mètres d’altitude, situé par environ 61°19′00″ de latitude et 140°06′30″ de longitude;
 
 
 
 De là, en direction sud-ouest, en ligne droite, jusqu’au sommet du mont Wood situé par environ 61°14′00″ de latitude et 140°30′30″ de longitude;
-
-
-
-
 
 
 
@@ -5900,7 +5892,7 @@ En bordure de la rivière Nahanni-Sud;
 
 
 
-Toute la parcelle de terrain plus précisément décrite ci-après, tous les accidents topographiques mentionnés ci-après, tels qu’ils figurent dans la première édition de la carte « The Twisted Mountain » portant le numéro 95 G/4 du Service national des levés topographiques, dressée à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et tels qu’ils figurent dans la deuxième édition des cartes « Flat River », « Virginia Falls » et « Sibbeston Lake » et dans la première édition de la carte « Glacier Lake », lesdites cartes portant respectivement les numéros 95E, 95F, 95G et 95L du Système de référence cartographique national et dressées à l’échelle de 1:250 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa :
+Toute la parcelle de terrain plus précisément décrite ci-après, tous les accidents topographiques mentionnés ci-après, tels qu’ils figurent dans la première édition de la carte « The Twisted Mountain » portant le numéro 95 G/4 du Service national des levés topographiques, dressée à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et tels qu’ils figurent dans la deuxième édition des cartes « Flat River », « Virginia Falls » et « Sibbeston Lake » et dans la première édition de la carte « Glacier Lake », lesdites cartes portant respectivement les numéros 95E, 95F, 95G et 95L du Système de référence cartographique national et dressées à l’échelle de 1:250 000 par le Service topographique de l’Armée, Génie royal canadien, à Ottawa :
 
 
 
@@ -5908,11 +5900,11 @@ Commençant à la borne 63-A-152 du Service national des levés topographiques q
 
 
 
-De là, en direction sud-est, en ligne droite, vers celui des deux sommets d’une altitude d’environ 1 432,6 mètres, qui est situé le plus au sud-ouest par environ 61°06′55″ de latitude et par environ 123°44′55″ de longitude;
+De là, en direction sud-est, en ligne droite, vers celui des deux sommets d’une altitude d’environ 1 432,6 mètres, qui est situé le plus au sud-ouest par environ 61°06′55″ de latitude et par environ 123°44′55″ de longitude;
 
 
 
-De là, en direction sud-est, en ligne droite, vers un sommet d’environ 1 005,8 mètres d’altitude, situé par environ 61°04′45″ de latitude et par environ 123°42′20″ de longitude;
+De là, en direction sud-est, en ligne droite, vers un sommet d’environ 1 005,8 mètres d’altitude, situé par environ 61°04′45″ de latitude et par environ 123°42′20″ de longitude;
 
 
 
@@ -5932,7 +5924,7 @@ De là, en direction ouest, en ligne droite, jusqu’à un point situé par 61°
 
 
 
-De là, en direction nord-ouest, en ligne droite, vers un sommet situé par environ 61°24′00″ de latitude et par environ 124°35′00″ de longitude, ledit sommet étant approximativement situé à la cote d’élévation de 6 105 pieds (1 860,8 mètres) indiquée sur ladite carte « Virginia Falls »;
+De là, en direction nord-ouest, en ligne droite, vers un sommet situé par environ 61°24′00″ de latitude et par environ 124°35′00″ de longitude, ledit sommet étant approximativement situé à la cote d’élévation de 6 105 pieds (1 860,8 mètres) indiquée sur ladite carte « Virginia Falls »;
 
 
 
@@ -5968,27 +5960,27 @@ De là, en direction sud, en ligne droite, jusqu’à la borne du Service topogr
 
 
 
-De là, en direction sud, en ligne droite, jusqu’à un sommet situé par environ 61°50′00″ de latitude et par environ 127°25′30″ de longitude; ledit sommet étant approximativement situé à la cote d’altitude de 8 822 pieds (2 688,9 mètres) indiquée sur la carte « Flat River » susmentionnée;
+De là, en direction sud, en ligne droite, jusqu’à un sommet situé par environ 61°50′00″ de latitude et par environ 127°25′30″ de longitude; ledit sommet étant approximativement situé à la cote d’altitude de 8 822 pieds (2 688,9 mètres) indiquée sur la carte « Flat River » susmentionnée;
 
 
 
-De là, en direction sud-ouest, en ligne droite, jusqu’à un sommet d’environ 2 438,4 mètres d’altitude, situé par environ 61°45′40″ de latitude et par environ 127°30′00″ de longitude, ledit sommet se trouvant dans les hauteurs qui constituent la limite sud-ouest du bassin du ruisseau Hole-in-the-Wall;
+De là, en direction sud-ouest, en ligne droite, jusqu’à un sommet d’environ 2 438,4 mètres d’altitude, situé par environ 61°45′40″ de latitude et par environ 127°30′00″ de longitude, ledit sommet se trouvant dans les hauteurs qui constituent la limite sud-ouest du bassin du ruisseau Hole-in-the-Wall;
 
 
 
-De là, en direction plus ou moins sud-est et est, en suivant la ligne de faîte desdites hauteurs, jusqu’à un sommet situé par environ 61°45′30″ de latitude et par environ 127°17′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 8 302 pieds (2 530,5 mètres) indiquée sur la carte « Flat River » susmentionnée;
+De là, en direction plus ou moins sud-est et est, en suivant la ligne de faîte desdites hauteurs, jusqu’à un sommet situé par environ 61°45′30″ de latitude et par environ 127°17′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 8 302 pieds (2 530,5 mètres) indiquée sur la carte « Flat River » susmentionnée;
 
 
 
-De là, en direction est, en ligne droite, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 61°46′00″ de latitude et par environ 127°06′40″ de longitude;
+De là, en direction est, en ligne droite, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 61°46′00″ de latitude et par environ 127°06′40″ de longitude;
 
 
 
-De là, en direction nord, en ligne droite, jusqu’à un sommet d’environ 2 286 mètres d’altitude, situé par environ 61°49′00″ de latitude et par environ 127°05′00″ de longitude;
+De là, en direction nord, en ligne droite, jusqu’à un sommet d’environ 2 286 mètres d’altitude, situé par environ 61°49′00″ de latitude et par environ 127°05′00″ de longitude;
 
 
 
-De là, en direction est, en ligne droite, jusqu’à la borne du Service topographique de l’Armée appelée « Don » qui consiste en un cairn située par environ 61°49′24″ de latitude et par environ 126°59′17″ de longitude, ladite borne étant approximativement situé à la cote d’altitude de 7 401 pieds (2 255,8 mètres) indiquée sur la carte « Flat River » susmentionnée;
+De là, en direction est, en ligne droite, jusqu’à la borne du Service topographique de l’Armée appelée « Don » qui consiste en un cairn située par environ 61°49′24″ de latitude et par environ 126°59′17″ de longitude, ladite borne étant approximativement situé à la cote d’altitude de 7 401 pieds (2 255,8 mètres) indiquée sur la carte « Flat River » susmentionnée;
 
 
 
@@ -6004,15 +5996,15 @@ De là, en direction sud-est, en ligne droite, jusqu’à la borne du Service to
 
 
 
-De là, en direction sud-est, en ligne droite, jusqu’à la borne du Service topographique de l’Armée appelée « Andy » qui consiste en un cairn située par environ 61°38′11″ de latitude et par environ 126°10′52″ de longitude, ladite borne étant approximativement situé à la cote d’altitude de 5 022 pieds (1 530,7 mètres) indiquée sur la carte « Flat River » susmentionnée;
+De là, en direction sud-est, en ligne droite, jusqu’à la borne du Service topographique de l’Armée appelée « Andy » qui consiste en un cairn située par environ 61°38′11″ de latitude et par environ 126°10′52″ de longitude, ladite borne étant approximativement situé à la cote d’altitude de 5 022 pieds (1 530,7 mètres) indiquée sur la carte « Flat River » susmentionnée;
 
 
 
-De là, en direction sud-ouest, en ligne droite, jusqu’à un sommet situé par environ 61°32′20″ de latitude et par environ 126°42′40″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 6 687 pieds (2 038,2 mètres) indiquée sur la carte « Flat River » susmentionnée;
+De là, en direction sud-ouest, en ligne droite, jusqu’à un sommet situé par environ 61°32′20″ de latitude et par environ 126°42′40″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 6 687 pieds (2 038,2 mètres) indiquée sur la carte « Flat River » susmentionnée;
 
 
 
-De là, en direction sud-est, en ligne droite, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 61°21′30″ de latitude et par environ 126°35′20″ de longitude;
+De là, en direction sud-est, en ligne droite, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 61°21′30″ de latitude et par environ 126°35′20″ de longitude;
 
 
 
@@ -6020,11 +6012,11 @@ De là, en direction nord-est, en ligne droite, jusqu’à la borne 63-A-9 du Se
 
 
 
-De là, en direction sud-est, en ligne droite, jusqu’à un sommet situé par environ 61°22′00″ de latitude et par environ 125°49′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 4 511 pieds (1 375 mètres) indiquée sur la carte « Virginia Falls » susmentionnée;
+De là, en direction sud-est, en ligne droite, jusqu’à un sommet situé par environ 61°22′00″ de latitude et par environ 125°49′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 4 511 pieds (1 375 mètres) indiquée sur la carte « Virginia Falls » susmentionnée;
 
 
 
-De là, en direction est, en ligne droite, jusqu’à un sommet situé par environ 61°26′30″ de latitude et par environ 125°21′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 4 497 pieds (1 370,7 mètres) indiquée sur la carte « Virginia Falls » susmentionnée;
+De là, en direction est, en ligne droite, jusqu’à un sommet situé par environ 61°26′30″ de latitude et par environ 125°21′00″ de longitude, ledit sommet étant approximativement situé à la cote d’altitude de 4 497 pieds (1 370,7 mètres) indiquée sur la carte « Virginia Falls » susmentionnée;
 
 
 
@@ -6048,7 +6040,7 @@ De là, en direction sud-est, en ligne droite, jusqu’à un point situé par 61
 
 
 
-De là, en direction est, en ligne droite, jusqu’au point de départ; toutes les coordonnées susmentionnées étant des mesures géodésiques données par rapport au Système géodésique nord-américain de 1927; ladite parcelle ayant une superficie d’environ 4 766 kilomètres carrés.
+De là, en direction est, en ligne droite, jusqu’au point de départ; toutes les coordonnées susmentionnées étant des mesures géodésiques données par rapport au Système géodésique nord-américain de 1927; ladite parcelle ayant une superficie d’environ 4 766 kilomètres carrés.
 
 
 
@@ -6067,7 +6059,7 @@ Certaines îles et îlets compris dans le fief et seigneurie des îles et îlets
 
 
 
-Nonobstant la généralité de ce qui précède, les îles et îlets ci-après énumérés, faisant partie du fief et seigneurie des îles et îlets de Mingan, ne sont pas inclus dans la présente description, savoir : l’Île au Perroquet, l’Île de la Maison, l’Île du Wreck, l’Île du Havre de Mingan, le Sanctuaire, l’Île aux Sauvages et une partie de l’Île du Fantôme, décrite dans un acte enregistré au bureau de la division d’enregistrement de Saguenay, le 15 janvier 1952, sous le numéro 13630.
+Nonobstant la généralité de ce qui précède, les îles et îlets ci-après énumérés, faisant partie du fief et seigneurie des îles et îlets de Mingan, ne sont pas inclus dans la présente description, savoir : l’Île au Perroquet, l’Île de la Maison, l’Île du Wreck, l’Île du Havre de Mingan, le Sanctuaire, l’Île aux Sauvages et une partie de l’Île du Fantôme, décrite dans un acte enregistré au bureau de la division d’enregistrement de Saguenay, le 15 janvier 1952, sous le numéro 13630.
 
 
 
@@ -6075,7 +6067,7 @@ Ces terrains inclus dans la présente description contenant environ 150,7 kilom�
 
 
 
-Les longitudes mentionnées dans la présente description proviennent des feuillets 12L et 22I du découpage cartographique national 1:250 000.
+Les longitudes mentionnées dans la présente description proviennent des feuillets 12L et 22I du découpage cartographique national 1:250 000.
 
 
 
@@ -6085,7 +6077,7 @@ Les longitudes mentionnées dans la présente description proviennent des feuill
 ### Partie I
 
 
-Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
+Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
 
 
 
@@ -6221,11 +6213,11 @@ EXCEPTÉ
 
 
 
-Premièrement : la totalité de la réserve indienne de Oo-oolth n<sup>o</sup> 8, la réserve indienne de Quisitis n<sup>o</sup> 9, la réserve indienne de Kootowis n<sup>o</sup> 4, la réserve indienne de Esowista n<sup>o</sup> 3 et la réserve indienne de Indian Island n<sup>o</sup> 30;
+Premièrement : la totalité de la réserve indienne de Oo-oolth n<sup>o</sup> 8, la réserve indienne de Quisitis n<sup>o</sup> 9, la réserve indienne de Kootowis n<sup>o</sup> 4, la réserve indienne de Esowista n<sup>o</sup> 3 et la réserve indienne de Indian Island n<sup>o</sup> 30;
 
 
 
-Deuxièmement : l’aéroport de Tofino, décrit comme suit :
+Deuxièmement : l’aéroport de Tofino, décrit comme suit :
 
 
 
@@ -6248,7 +6240,7 @@ Deuxièmement : l’aéroport de Tofino, décrit comme suit :
 ### Partie II
 
 
-Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Barclay et situées à l’intérieur des limites suivantes :
+Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Barclay et situées à l’intérieur des limites suivantes :
 
 
 
@@ -6280,7 +6272,7 @@ De là, franc nord, sur une distance d’environ 1,931 kilomètres jusqu’au ce
 
 
 
-EXCEPTÉ la totalité des réserves indiennes suivantes :
+EXCEPTÉ la totalité des réserves indiennes suivantes :
 
 
 
@@ -6291,7 +6283,7 @@ La réserve indienne de Cleho n<sup>o</sup> 6, la réserve indienne de Keith Isl
 ### Partie III
 
 
-Premièrement :
+Premièrement :
 
 
 
@@ -6299,7 +6291,7 @@ Le lot A de la section 18 sur ledit plan 38380 audit bureau, et la moitié ouest
 
 
 
-Deuxièmement :
+Deuxièmement :
 
 
 
@@ -6307,11 +6299,11 @@ Le lot 1 des sections 1 et 12 sur le plan 44813 audit bureau, une copie duquel e
 
 
 
-Troisièmement :
+Troisièmement :
 
 
 
-Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans les districts de Barclay et de Renfrew et situées à l’intérieur des limites suivantes :
+Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans les districts de Barclay et de Renfrew et situées à l’intérieur des limites suivantes :
 
 
 
@@ -6571,7 +6563,7 @@ EXCEPTÉ
 
 
 
-Premièrement : la totalité des réserves indiennes suivantes :
+Premièrement : la totalité des réserves indiennes suivantes :
 
 
 
@@ -6579,14 +6571,14 @@ La réserve indienne d’Ahuk n<sup>o</sup> 1, la réserve indienne de Carmanah 
 
 
 
-Deuxièmement : le lot 2 du bloc 10, les lots 1 et 2 du bloc 16, le lot 8 du bloc 18 et le lot 3 du bloc 37, tous de la section 57, sur le plan 1771 audit bureau, et le bloc 7 du lot de district 527, sur le plan 2008 audit bureau, et la section 63, tous dans le district de Renfrew.
+Deuxièmement : le lot 2 du bloc 10, les lots 1 et 2 du bloc 16, le lot 8 du bloc 18 et le lot 3 du bloc 37, tous de la section 57, sur le plan 1771 audit bureau, et le bloc 7 du lot de district 527, sur le plan 2008 audit bureau, et la section 63, tous dans le district de Renfrew.
 
 
 
 ### Partie IV
 
 
-Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
+Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
 
 
 
@@ -6633,15 +6625,15 @@ Dans les îles de la Reine-Charlotte;
 
 
 
-Toutes ces parcelles plus particulièrement décrites sous PREMIÈREMENT, DEUXIÈMEMENT ET TROISIÈMEMENT comme suit :
+Toutes ces parcelles plus particulièrement décrites sous PREMIÈREMENT, DEUXIÈMEMENT ET TROISIÈMEMENT comme suit :
 
 
 
-PREMIÈREMENT :
+PREMIÈREMENT :
 
 
 
-Toutes ces parcelles de terre ou étendues de terre ainsi que tout l’estran ou toutes les terres recouvertes par les eaux qui se trouvent au-dessus de la laisse de hautes eaux ordinaires des îles de la Reine-Charlotte et situées au sud d’une ligne dont voici la description :
+Toutes ces parcelles de terre ou étendues de terre ainsi que tout l’estran ou toutes les terres recouvertes par les eaux qui se trouvent au-dessus de la laisse de hautes eaux ordinaires des îles de la Reine-Charlotte et situées au sud d’une ligne dont voici la description :
 
 
 
@@ -6661,7 +6653,7 @@ De là, en direction générale ouest le long de la limite du bassin versant qui
 
 
 
-De là, dans une direction de 211°52′07″ passant par deux repères « Standard B.C. capped posts », une distance de 4 607,526 mètres jusqu’au coin nord-est du lot 663 tel qu’indiqué sur ledit plan 79937;
+De là, dans une direction de 211°52′07″ passant par deux repères « Standard B.C. capped posts », une distance de 4 607,526 mètres jusqu’au coin nord-est du lot 663 tel qu’indiqué sur ledit plan 79937;
 
 
 
@@ -6685,11 +6677,11 @@ De là, vers le sud-ouest en ligne droite jusqu’à l’intersection du parall�
 
 
 
-À l’exception des parcelles décrites comme suit :
+À l’exception des parcelles décrites comme suit :
 
 
 
-Premièrement :
+Premièrement :
 
 
 
@@ -6697,7 +6689,7 @@ Toute la réserve indienne Tanoo No. 9 (Tanu) selon le plan B.C. 42 déposé aux
 
 
 
-Deuxièmement :
+Deuxièmement :
 
 
 
@@ -6705,7 +6697,7 @@ La partie du lot de district n<sup>o</sup> 120 tel que traité par le plan 80235
 
 
 
-Troisièmement :
+Troisièmement :
 
 
 
@@ -6713,11 +6705,11 @@ Le lot 1 du lot de district n<sup>o</sup> 120, plan 9837.
 
 
 
-Quatrièmement :
+Quatrièmement :
 
 
 
-Les zones d’exclusion forestières n<sup>os</sup> 1 à 3 (inclusivement) décrites comme suit :
+Les zones d’exclusion forestières n<sup>os</sup> 1 à 3 (inclusivement) décrites comme suit :
 
 
 
@@ -6745,11 +6737,11 @@ Les lots 640, 647, 660 et 1940 (étant les concessions de coupe de bois n<sup>os
 
 
 
-Cinquièmement :
+Cinquièmement :
 
 
 
-Les zones d’exclusion minérales n<sup>os</sup> 1 à 5 (inclusivement) décrites comme suit :
+Les zones d’exclusion minérales n<sup>os</sup> 1 à 5 (inclusivement) décrites comme suit :
 
 
 
@@ -6961,11 +6953,11 @@ De là, franc ouest jusqu’audit coin sud-est du lot 663, étant le point de d�
 
 
 
-Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
+Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
 
 
 
-DEUXIÈMEMENT :
+DEUXIÈMEMENT :
 
 
 
@@ -7005,15 +6997,15 @@ De là, en ligne droite vers le sud-ouest jusqu’au point de départ.
 
 
 
-TROISIÈMEMENT :
+TROISIÈMEMENT :
 
 
 
-Toutes ces parcelles de terre ou étendues de terre ainsi que tout l’estran ou toutes les terres recouvertes par les eaux qui se trouvent au-dessus de la laisse de hautes eaux ordinaires des îles de la Reine-Charlotte et plus particulièrement décrites comme suit :
+Toutes ces parcelles de terre ou étendues de terre ainsi que tout l’estran ou toutes les terres recouvertes par les eaux qui se trouvent au-dessus de la laisse de hautes eaux ordinaires des îles de la Reine-Charlotte et plus particulièrement décrites comme suit :
 
 
 
-Premièrement :
+Premièrement :
 
 
 
@@ -7037,7 +7029,7 @@ De là, vers le sud suivant la limite est dudit lot 663 jusqu’à son coin sud-
 
 
 
-Deuxièmement :
+Deuxièmement :
 
 
 
@@ -7061,7 +7053,7 @@ De là, dans une direction de 211°52′07″ jusqu’au point de départ, excep
 
 
 
-Troisièmement :
+Troisièmement :
 
 
 
@@ -7081,7 +7073,7 @@ L’île Kunga; l’île Faraday; l’île Murchison; et l’île Ramsay.
 
 
 
-Quatrièmement :
+Quatrièmement :
 
 
 
@@ -7089,11 +7081,11 @@ l’île Huxley, l’île Alder et l’île Bolkus, ensemble avec cette partie d
 
 
 
-Cinquièmement :
+Cinquièmement :
 
 
 
-Cette partie de l’île Moresby située à l’est des limites ouest des bassins versant du bras Louscoone, du bras Skincuttle et du détroit de Burnaby, et au sud de la limite nord du bassin versant de havre Bag, excepté cette partie située à l’intérieur des limites décrites comme suit :
+Cette partie de l’île Moresby située à l’est des limites ouest des bassins versant du bras Louscoone, du bras Skincuttle et du détroit de Burnaby, et au sud de la limite nord du bassin versant de havre Bag, excepté cette partie située à l’intérieur des limites décrites comme suit :
 
 
 
@@ -7145,8 +7137,10 @@ De là, généralement vers le nord, le nord-ouest et le nord-est suivant la lai
 
 
 
-Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
+Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
 
+
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A).
 
 
 
