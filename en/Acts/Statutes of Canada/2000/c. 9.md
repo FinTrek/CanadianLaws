@@ -347,15 +347,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Salary and expenses of Chief Electoral Officer**
 
-- **(2)** The Chief Electoral Officer shall be paid a salary equal to the salary of a judge of the Federal Court, other than the Chief Justice or the Associate Chief Justice of that Court, and is entitled to be paid reasonable travel and living expenses while absent from his or her ordinary place of residence in the course of his or her duties.
+- **(2)** The Chief Electoral Officer shall be paid a salary equal to the salary of a judge of the Federal Court, other than the Chief Justice of that Court, and is entitled to be paid reasonable travel and living expenses while absent from his or her ordinary place of residence in the course of his or her duties.
 
 **Superannuation and compensation**
 
-- **(3)** The Chief Electoral Officer is deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(3)** The Chief Electoral Officer is deemed to be employed in the Public Service for the purposes of the 
+[Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the 
+[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
 **Communication with Governor in Council**
 
 - **(4)** The Chief Electoral Officer shall communicate with the Governor in Council through the Minister for the purposes of this Act.
+> 2000, c. 9, s. 15; 2002, c. 8, s. 116.
+
 
 
 
@@ -8971,7 +8976,7 @@ The candidate or his or her official agent shall notify the Chief Electoral Offi
 
 - **(1)** The following courts are competent courts for the purposes of this Part:
 	- **(a)** a court listed in subsection (2) that has jurisdiction in all or part of the electoral district in question; and
-	- **(b)** the Trial Division of the Federal Court.
+	- **(b)** the Federal Court.
 
 **Courts**
 
@@ -8986,7 +8991,7 @@ The candidate or his or her official agent shall notify the Chief Electoral Offi
 **Rules of procedure**
 
 - **(3)** An application shall be dealt with without delay and in a summary way. The court may, however, allow oral evidence to be given at the hearing of the application in specific circumstances.
-> 2000, c. 9, s. 525; 2002, c. 7, s. 94(E).
+> 2000, c. 9, s. 525; 2002, c. 7, s. 94(E), c. 8, s. 117.
 
 
 
