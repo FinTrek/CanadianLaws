@@ -8,7 +8,7 @@
 Sanctionnée sur le 7 novembre 2003
 
 ```
-[Édictée par l’article 2 du chapitre 22 des Lois du Canada (2003), non en vigueur.]
+[Édictée par l'article 2 du chapitre 22 des Lois du Canada (2003); préambule, articles 1 à 3 et partie 1, en vigueur le 1<sup>er</sup> avril 2005, voir TR/2005-22; partie 2, à l'exception du sous-alinéa 209(1)c)(ii), de l'alinéa 211b) et de l'article 231, en vigueur le 1<sup>er</sup> avril 2005, voir TR/2005-23; parties 3 et 4 en vigueur le 1<sup>er</sup> avril 2005, voir TR/2005-24.]
 ```
 ----------
 
@@ -1155,9 +1155,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **80** Les définitions qui suivent s’appliquent au présent article et aux articles 81 à 93.
 
-***conversion*** La constitution en organisme distinct ou l’intégration à un organisme distinct de tout ou partie d’un secteur de l’administration publique centrale.
+***conversion*** La constitution en organisme distinct ou l’intégration à un organisme distinct de tout ou partie d’un secteur de l’administration publique centrale. (*conversion*)
 
-***nouvel organisme distinct*** L’organisme distinct créé, ou celui auquel est intégré tout ou partie d’un secteur de l’administration publique centrale, par suite de la conversion.
+***nouvel organisme distinct*** L’organisme distinct créé, ou celui auquel est intégré tout ou partie d’un secteur de l’administration publique centrale, par suite de la conversion. (*new separate agency*)
 
 
 
