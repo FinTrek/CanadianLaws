@@ -252,7 +252,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** Le ministre des Finances peut, à la demande de la Société et avec l’agrément du gouverneur en conseil, verser à celle-ci, sur le Trésor, des montants ne dépassant pas globalement un milliard deux cent vingt-cinq millions de dollars, ce total pouvant toutefois être augmenté par une loi de crédits.
+- **(1)** Le ministre des Finances peut, à la demande de la Société et avec l’agrément du gouverneur en conseil, verser à celle-ci, sur le Trésor, des montants ne dépassant pas globalement un milliard deux cent cinquante millions de dollars, ce total pouvant toutefois être augmenté par une loi de crédits.
 
 **Capital**
 
@@ -261,7 +261,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi en comité**
 
 - **(3)** Le comité du Sénat, de la Chambre des communes ou mixte, chargé des questions d’agriculture est automatiquement saisi des dispositions d’une loi de crédits qui augmentent le total mentionné au paragraphe (1).
-> 1993, ch. 14, art. 11; 1997, ch. 26, art. 93; 2003, ch. 15, art. 42.
+> 1993, ch. 14, art. 11; 1997, ch. 26, art. 93; 2003, ch. 15, art. 42; 2004, ch. 22, art. 28.
 
 
 
