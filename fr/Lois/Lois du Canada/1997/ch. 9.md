@@ -312,7 +312,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Les commissaires, dirigeants et employés de la Commission sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 1997, ch. 9, art. 16; 2002, ch. 17, art. 22.
+> 1997, ch. 9, art. 16; 2002, ch. 17, art. 22; 2003, ch. 22, art. 224(A).
 
 
 
