@@ -41,7 +41,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Force*** means the Royal Canadian Mounted Police;
 
-***Minister*** means the Solicitor General of Canada;
+***Minister*** means the Minister of Public Safety and Emergency Preparedness;
 
 ***Program*** means the Witness Protection Program established by section 4;
 
@@ -54,6 +54,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***witness*** means
 - **(a)** a person who has given or has agreed to give information or evidence, or participates or has agreed to participate in a matter, relating to an inquiry or the investigation or prosecution of an offence and who may require protection because of risk to the security of the person arising in relation to the inquiry, investigation or prosecution, or
 - **(b)** a person who, because of their relationship to or association with a person referred to in paragraph (a), may also require protection for the reasons referred to in that paragraph.
+> 1996, c. 15, s. 2; 2005, c. 10, s. 34.
+
 
 
 
