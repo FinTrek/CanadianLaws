@@ -3781,14 +3781,19 @@ as a provision, requirement or condition the contravention of which may be proce
 	- **(a)** the penalty, established in accordance with the regulations, for the violation that the person is liable to pay; and
 	- **(b)** particulars concerning the time for paying and the manner of paying the penalty.
 
-**Application of [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)**
+**Application of 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)**
 
-- **(2)** Sections 7.8 to 8.2, 36 and 37 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) apply to the contravention of a provision, requirement or condition designated under section 177, with such modifications as are necessary, and a reference in any of those provisions or in any document issued under any of those provisions to
+- **(2)** Sections 7.8 to 8.2 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) apply to the contravention of a provision, requirement or condition designated under section 177, with any modifications that are necessary, and a reference in any of those provisions or in any document issued under any of those provisions to
 	- **(a)** “this Act” shall be read as a reference to this Act;
 	- **(b)** “designated provision” shall be read as a reference to a provision, requirement or condition designated under paragraph 177(a);
-	- **(c)** “Minister” shall be read as a reference to the Agency or, in any provision other than subsection 7.8(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), to a person designated by the Agency;
+	- **(c)** "Minister" shall be read as a reference to the Agency or, in any provision other than section 7.9 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), to a person designated by the Agency;
 	- **(d)** “notice” shall be read as a reference to a notice of violation; and
 	- **(e)** "regulations made under paragraph 7.6(1)(b)" shall be read as a reference to regulations made under paragraph 177(b).
+> 1996, c. 10, s. 180; 2001, c. 29, s. 52.
+
 
 
 
