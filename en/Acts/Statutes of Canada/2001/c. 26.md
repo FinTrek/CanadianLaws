@@ -4913,7 +4913,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-**Actions *in rem***
+**Actions in rem**
 
 **251** 
 
@@ -4925,11 +4925,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Does not affect other rights**
 
-- **(3)** For greater certainty, nothing in this section limits the right of a person to maintain an action *in rem* for stevedoring under Canadian maritime law, within the meaning of subsection 2(1) of the Federal Court Act.
+- **(3)** For greater certainty, nothing in this section limits the right of a person to maintain an action *in rem* for stevedoring under Canadian maritime law, within the meaning of subsection 2(1) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
 
-**Definition of “stevedoring”**
+**Definition of stevedoring**
 
-- **(4)** In this section, “stevedoring” includes trimming, lighterage and the supply of any goods or services in relation to stevedoring.
+- **(4)** In this section, ***stevedoring*** includes trimming, lighterage and the supply of any goods or services in relation to stevedoring.
+> 2001, c. 26, s. 251; 2002, c. 8, s. 195.
+
 
 
 
