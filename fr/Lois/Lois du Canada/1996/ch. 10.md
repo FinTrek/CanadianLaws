@@ -125,7 +125,7 @@ Il est en outre déclaré que la présente loi vise la réalisation de ceux de c
 ***transporteur*** Personne se livrant au transport de passagers ou de marchandises par un moyen de transport assujetti à la compétence législative du Parlement.
 
 ***vice-président*** Le vice-président de l’Office.
-> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20.
+> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A).
 
 
 
