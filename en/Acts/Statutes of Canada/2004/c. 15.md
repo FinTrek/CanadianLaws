@@ -636,15 +636,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Coming into force**
 
-<sup><a href='#P-31.5_e_s112'>[*]</a></sup>**112. ** 
+***112** 
 
 - **(1)** Subject to subsection (2), the provisions of this Act, other than sections 1 and 109 to 111.1, and the provisions of any Act that are enacted by this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
 **Coming info force**
 
-- **(2)** The paragraphs or subparagraphs or any other portion of the definition   ***offence*** in section 183 of the   [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as enacted by section 108 of this Act, comes into force on a day or days to be fixed by order of the Governor in Council.
+- **(2)** The paragraphs or subparagraphs or any other portion of the definition ***offence*** in section 183 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as enacted by section 108 of this Act, comes into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-31.5_e_s112'><sup>*</sup></a>: [Note: Sections 1 and 109 to 111.1 in force on assent May 6, 2004; sections 24, 25, 95, 96, 98 and 107, Part 1, except section 4.82, as enacted by section 5 and paragraph 8.1(1)(c) and subsections 8.1(2) to (7), as enacted by section 104, in force May 11, 2004, *see* SI/2004-51.]<br />
+<a name='P-31.5_e_s112'><sup>*</sup></a>: [Note: Sections 1 and 109 to 111.1 in force on assent May 6, 2004; sections 24, 25, 95, 96, 98 and 107, Part 1, except section 4.82, as enacted by section 5 and paragraph 8.1(1)(c) and subsections 8.1(2) to (7), as enacted by section 104, in force May 11, 2004, *see* SI/2004-51; the definition ***emergency*** in subsection 2(1), as enacted by section 74 and sections 75, 76 and 79 in force May 21, 2004, *see* SI/2004-57.]<br />
 
 
 
