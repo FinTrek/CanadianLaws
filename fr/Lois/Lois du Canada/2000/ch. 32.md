@@ -56,7 +56,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***intégrité écologique*** L’état d’un parc jugé caractéristique de la région naturelle dont il fait partie et qui sera vraisemblablement maintenu, notamment les éléments abiotiques, la composition et l’abondance des espèces indigènes et des communautés biologiques ainsi que le rythme des changements et le maintien des processus écologiques.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada.
 
 ***parc*** Parc national du Canada dénommé et décrit à l’annexe 1.
 
@@ -69,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
-> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30.
+> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30; 2005, ch. 2, art. 7.
 
 
 
