@@ -477,7 +477,9 @@ if the Bank is satisfied that the information or documents will be treated as co
 
 **No stay on judicial review**
 
-**21** On an application for judicial review under the Federal Court Act of any designation under subsection 4(1) or of any directive issued under this Act, no stay of the designation or directive shall be granted pending the final disposition of the application.
+**21** On an application for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) of any designation under subsection 4(1) or of any directive issued under this Act, no stay of the designation or directive shall be granted pending the final disposition of the application.
+> 1996, c. 6, s. 162 (Sch., s. 21); 2002, c. 8, s. 182.
+
 
 
 
