@@ -594,162 +594,173 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ### **SCHEDULE** 
 **(Sections 2 and 3)**
-Algeria
+
+### Participants
 
 
 Angola
 
 
+
 Armenia
+
 
 
 Australia
 
 
+
 Belarus
+
 
 
 Botswana
 
 
-Brazil
-
-
-Burkina Faso
-
 
 Canada
+
 
 
 Central African Republic
 
 
+
 China
 
 
-Cyprus
 
+Croatia
 
-Czech Republic
 
 
 Democratic Republic of the Congo
 
 
- European Community
 
+European Community
 
-Gabon
-
-
-Ghana
 
 
 Guinea
 
 
+
 Guyana
+
 
 
 Hungary
 
 
+
 India
+
 
 
 Israel
 
 
+
 Ivory Coast
+
 
 
 Japan
 
 
+
 Laos
+
 
 
 Lebanon
 
 
+
 Lesotho
 
-
-Malaysia
-
-
-Malta
 
 
 Mauritius
 
 
-Mexico
-
 
 Namibia
 
 
-North Korea
 
+Poland
 
-Norway
-
-
-Philippines
 
 
 Republic of Congo
 
 
+
 Russia
+
+
+
+Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+
 
 
 Sierra Leone
 
 
+
+Slovenia
+
+
+
 South Africa
+
 
 
 South Korea
 
 
-Swaziland
+
+Sri Lanka
+
 
 
 Switzerland
 
 
+
 Tanzania
+
 
 
 Thailand
 
 
-The Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
-
-
-Togo
-
 
 Ukraine
+
 
 
 United Arab Emirates
 
 
+
 United States of America
+
 
 
 Venezuela
 
 
+
 Vietnam
+
 
 
 Zimbabwe
 
 
-> 2002, c. 25, Sch.; SOR/2003-16, 25, 166.
+> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335.
 
 
