@@ -219,7 +219,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 1** 
-### REQUIREMENTS BEFORE ENTERING CANADA AND SELECTION
+### Requirements Before Entering Canada and Selection
 
 
 
@@ -311,7 +311,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 2** 
-### EXAMINATION
+### Examination
 
 
 
@@ -363,7 +363,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 3** 
-### ENTERING AND REMAINING IN CANADA
+### Entering and Remaining in Canada
 
 
 
@@ -603,7 +603,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 4** 
-### INADMISSIBILITY
+### Inadmissibility
 
 
 
@@ -767,7 +767,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 5** 
-### LOSS OF STATUS AND REMOVAL
+### Loss of Status and Removal
 
 
 
@@ -927,7 +927,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 6** 
-### DETENTION AND RELEASE
+### Detention and Release
 
 
 
@@ -1033,7 +1033,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 7** 
-### RIGHT OF APPEAL
+### Right of Appeal
 
 
 
@@ -1182,7 +1182,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 8** 
-### JUDICIAL REVIEW
+### Judicial Review
 
 
 
@@ -1240,11 +1240,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 9** 
-### PROTECTION OF INFORMATION
+### Protection of Information
 
 
 
-#### Examination on Request by the Minister and the Solicitor General of Canada
+#### Examination on Request by the Minister and the Minister of Public Safety and Emergency Preparedness
 
 
 
@@ -1267,12 +1267,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **77** 
 
-- **(1)** The Minister and the Solicitor General of Canada shall sign a certificate stating that a permanent resident or a foreign national is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality and refer it to the Federal Court, which shall make a determination under section 80.
+- **(1)** The Minister and the Minister of Public Safety and Emergency Preparedness shall sign a certificate stating that a permanent resident or a foreign national is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality and refer it to the Federal Court, which shall make a determination under section 80.
 
 **Effect of referral**
 
 - **(2)** When the certificate is referred, a proceeding under this Act respecting the person named in the certificate, other than an application under subsection 112(1), may not be commenced and, if commenced, must be adjourned, until the judge makes the determination.
-> 2001, c. 27, s. 77; 2002, c. 8, s. 194.
+> 2001, c. 27, s. 77; 2002, c. 8, s. 194; 2005, c. 10, s. 34.
 
 
 
@@ -1285,12 +1285,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** the judge shall ensure the confidentiality of the information on which the certificate is based and of any other evidence that may be provided to the judge if, in the opinion of the judge, its disclosure would be injurious to national security or to the safety of any person;
 - **(c)** the judge shall deal with all matters as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit;
 - **(d)** the judge shall examine the information and any other evidence in private within seven days after the referral of the certificate for determination;
-- **(e)** on each request of the Minister or the Solicitor General of Canada made at any time during the proceedings, the judge shall hear all or part of the information or evidence in the absence of the permanent resident or the foreign national named in the certificate and their counsel if, in the opinion of the judge, its disclosure would be injurious to national security or to the safety of any person;
-- **(f)** the information or evidence described in paragraph (e) shall be returned to the Minister and the Solicitor General of Canada and shall not be considered by the judge in deciding whether the certificate is reasonable if either the matter is withdrawn or if the judge determines that the information or evidence is not relevant or, if it is relevant, that it should be part of the summary;
+- **(e)** on each request of the Minister or the Minister of Public Safety and Emergency Preparedness made at any time during the proceedings, the judge shall hear all or part of the information or evidence in the absence of the permanent resident or the foreign national named in the certificate and their counsel if, in the opinion of the judge, its disclosure would be injurious to national security or to the safety of any person;
+- **(f)** the information or evidence described in paragraph (e) shall be returned to the Minister and the Minister of Public Safety and Emergency Preparedness and shall not be considered by the judge in deciding whether the certificate is reasonable if either the matter is withdrawn or if the judge determines that the information or evidence is not relevant or, if it is relevant, that it should be part of the summary;
 - **(g)** the information or evidence described in paragraph (e) shall not be included in the summary but may be considered by the judge in deciding whether the certificate is reasonable if the judge determines that the information or evidence is relevant but that its disclosure would be injurious to national security or to the safety of any person;
 - **(h)** the judge shall provide the permanent resident or the foreign national with a summary of the information or evidence that enables them to be reasonably informed of the circumstances giving rise to the certificate, but that does not include anything that in the opinion of the judge would be injurious to national security or to the safety of any person if disclosed;
 - **(i)** the judge shall provide the permanent resident or the foreign national with an opportunity to be heard regarding their inadmissibility; and
 - **(j)** the judge may receive into evidence anything that, in the opinion of the judge, is appropriate, even if it is inadmissible in a court of law, and may base the decision on that evidence.
+> 2001, c. 27, s. 78; 2005, c. 10, s. 34(E).
+
 
 
 
@@ -1346,11 +1348,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **82** 
 
-- **(1)** The Minister and the Solicitor General of Canada may issue a warrant for the arrest and detention of a permanent resident who is named in a certificate described in subsection 77(1) if they have reasonable grounds to believe that the permanent resident is a danger to national security or to the safety of any person or is unlikely to appear at a proceeding or for removal.
+- **(1)** The Minister and the Minister of Public Safety and Emergency Preparedness may issue a warrant for the arrest and detention of a permanent resident who is named in a certificate described in subsection 77(1) if they have reasonable grounds to believe that the permanent resident is a danger to national security or to the safety of any person or is unlikely to appear at a proceeding or for removal.
 
 **Mandatory detention**
 
 - **(2)** A foreign national who is named in a certificate described in subsection 77(1) shall be detained without the issue of a warrant.
+> 2001, c. 27, s. 82; 2005, c. 10, s. 34.
+
 
 
 
@@ -1427,7 +1431,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 10** 
-### GENERAL PROVISIONS
+### General Provisions
 
 
 
@@ -1543,7 +1547,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 1** 
-### REFUGEE PROTECTION, CONVENTION REFUGEES AND PERSONS IN NEED OF PROTECTION
+### Refugee Protection, Convention Refugees and Persons in Need of Protection
 
 
 
@@ -1599,7 +1603,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 2** 
-### CONVENTION REFUGEES AND PERSONS IN NEED OF PROTECTION
+### Convention Refugees and Persons in Need of Protection
 
 
 
@@ -1884,7 +1888,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **DIVISION 3** 
-### PRE-REMOVAL RISK ASSESSMENT
+### Pre-removal Risk Assessment
 
 
 
