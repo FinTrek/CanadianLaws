@@ -256,15 +256,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 
 **10** 
 
-- **(1)** A permanent member shall be deemed to be a person employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(1)** A permanent member shall be deemed to be a person employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
 **Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) to temporary members**
 
-- **(2)** A temporary member or substitute member shall be deemed not to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the member to be so employed for those purposes.
+- **(2)** A temporary member or substitute member shall be deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the member to be so employed for those purposes.
 
 **Order deemed not to be regulation**
 
 - **(3)** For greater certainty, an order made pursuant to subsection (2) shall be deemed not to be a regulation within the meaning and for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> R.S., 1985, c. 47 (4th Supp.), s. 10; 2003, c. 22, s. 225(E).
+
 
 
 
@@ -1979,7 +1981,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **45** 
 
-- **(1)** Where a person designates information as confidential pursuant to paragraph 46(1)(a) and that designation is not withdrawn by that person, no member and no person employed in the public service of Canada who comes into possession of that information while holding that office or being so employed shall, either before or after ceasing to hold that office or being so employed, knowingly disclose that information, or knowingly allow it to be disclosed, to any other person in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
+- **(1)** Where a person designates information as confidential pursuant to paragraph 46(1)(a) and that designation is not withdrawn by that person, no member and no person employed in the federal public administration who comes into possession of that information while holding that office or being so employed shall, either before or after ceasing to hold that office or being so employed, knowingly disclose that information, or knowingly allow it to be disclosed, to any other person in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
 
 **Disclosure of summary or statement**
 
@@ -2031,7 +2033,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Bar from appearing before Tribunal**
 
 - **(9)** In addition to any punishment imposed under subsection (7), counsel or an expert who commits an offence under subsection (6) may be barred by the Tribunal from any further appearance before it in respect of any proceedings before the Tribunal for the period that the Tribunal considers appropriate.
-> R.S., 1985, c. 47 (4th Supp.), s. 45; 1994, c. 47, s. 44; 1999, c. 12, s. 59.
+> R.S., 1985, c. 47 (4th Supp.), s. 45; 1994, c. 47, s. 44; 1999, c. 12, s. 59; 2003, c. 22, s. 224(E).
 
 
 
@@ -2105,8 +2107,8 @@ and, where the person does neither of those things within those fifteen days, th
 **49** If
 - **(a)** information or material given or elicited in the course of any proceedings before the Tribunal is, in the opinion of the Tribunal, in its nature confidential, or
 - **(b)** the Commissioner of Customs and Revenue indicates to the Tribunal in writing that subsection 84(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) applies to information or material filed with the Secretary under paragraph 37(a) or 38(3)(b) or subsection 76.03(9) of that Act,
-the information or material shall not knowingly be disclosed by any member or person employed in the public service of Canada who comes into possession of the information in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
-> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115.
+the information or material shall not knowingly be disclosed by any member or person employed in the federal public administration who comes into possession of the information in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
+> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115; 2003, c. 22, s. 224(E).
 
 
 
