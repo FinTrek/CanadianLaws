@@ -114,7 +114,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Status**
 
-- **(3)** Members are deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(3)** Members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2001, c. 29, s. 7; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -155,11 +157,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Status**
 
-- **(2)** Employees appointed under subsection (1) are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(2)** Employees appointed under subsection (1) are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
 **Experts**
 
 - **(3)** The Tribunal may engage experts or persons having technical or specialized knowledge to assist the Tribunal in any matter in an advisory capacity and may, subject to the approval of the Treasury Board, fix their remuneration.
+> 2001, c. 29, s. 10; 2003, c. 22, s. 225(E).
+
 
 
 
