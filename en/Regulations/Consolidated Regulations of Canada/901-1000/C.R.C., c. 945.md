@@ -8322,9 +8322,11 @@ except any such expenditure incurred by a corporation that derives all or substa
 - **(s)** in Denmark, the Copenhagen Stock Exchange;
 - **(t)** in Finland, the Helsinki Stock Exchange;
 - **(u)** in Norway, the Oslo Stock Exchange;
-- **(v)** in South Africa, the Johannesburg Stock Exchange; and
-- **(w)** in Sweden, the Stockholm Stock Exchange.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 3; SOR/86-488, s. 4; SOR/88-165, s. 17; SOR/89-102, s. 1; SOR/89-409, s. 2; SOR/92-660, s. 1; SOR/94-126, s. 1; SOR/94-140, s. 7; SOR/97-408, s. 1; SOR/2001-187, s. 4.
+- **(v)** in South Africa, the Johannesburg Stock Exchange;
+- **(w)** in Sweden, the Stockholm Stock Exchange;
+- **(x)** in Luxembourg, the Luxembourg Stock Exchange; and
+- **(y)** in Poland, the main and parallel markets of the Warsaw Stock Exchange.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 3; SOR/86-488, s. 4; SOR/88-165, s. 17; SOR/89-102, s. 1; SOR/89-409, s. 2; SOR/92-660, s. 1; SOR/94-126, s. 1; SOR/94-140, s. 7; SOR/97-408, s. 1; SOR/2001-187, s. 4; SOR/2005-15, s. 1.
 
 
 
