@@ -759,7 +759,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contrôle judiciaire**
 
-- **(3)** Malgré ce qui est prévu aux paragraphes (1) et (2), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter à la Cour fédérale une demande de contrôle judiciaire, pour l’un des motifs prévus aux alinéas 18.1(4)a) ou b) de la Loi sur la Cour fédérale, afin d’obtenir, contre l’arbitre, le vérificateur ou le conciliateur, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+- **(3)** Malgré ce qui est prévu aux paragraphes (1) et (2), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter à la Cour fédérale une demande de contrôle judiciaire, pour l’un des motifs prévus aux alinéas 18.1(4)a) ou b) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), afin d’obtenir, contre l’arbitre, le vérificateur ou le conciliateur, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+> 1999, ch. 24, art. 36; 2002, ch. 8, art. 182.
+
 
 
 
