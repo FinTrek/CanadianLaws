@@ -1278,11 +1278,11 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **60.1** 
 
-- **(1)** Le directeur du Service canadien du renseignement de sécurité ou un employé de ce Service peut, après avoir obtenu l’approbation du solliciteur général du Canada et aux fins d’enquête relativement à une menace envers la sécurité du Canada, demander à un juge, en conformité avec le paragraphe (2), de rendre une ordonnance de communication de renseignements.
+- **(1)** Le directeur du Service canadien du renseignement de sécurité ou un employé de ce Service peut, après avoir obtenu l’approbation du ministre de la Sécurité publique et de la Protection civile et aux fins d’enquête relativement à une menace envers la sécurité du Canada, demander à un juge, en conformité avec le paragraphe (2), de rendre une ordonnance de communication de renseignements.
 
 **Contenu de la demande**
 
-- **(2)** La demande d’ordonnance est présentée *ex parte* par écrit et accompagnée de l’affidavit du demandeur portant sur les points suivants :
+- **(2)** La demande d’ordonnance est présentée *ex parte* par écrit et accompagnée de l’affidavit du demandeur portant sur les points suivants :
 	- **a)** désignation de la personne ou de l’entité visée par les renseignements ou les documents demandés;
 	- **b)** désignation du genre de renseignements ou de documents — notamment leur forme ou leur support — qu’a obtenus le directeur du Centre ou qui ont été obtenus en son nom et dont la communication est demandée;
 	- **c)** les faits sur lesquels le demandeur s’appuie pour avoir des motifs raisonnables de croire que l’ordonnance est nécessaire pour permettre au Service canadien du renseignement de sécurité d’enquêter sur une menace envers la sécurité du Canada;
@@ -1291,7 +1291,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Ordonnance de communication**
 
-- **(3)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un employé du Service canadien du renseignement de sécurité nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à l’employé de les emporter, s’il est convaincu de l’existence :
+- **(3)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un employé du Service canadien du renseignement de sécurité nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à l’employé de les emporter, s’il est convaincu de l’existence :
 	- **a)** d’une part, des faits mentionnés au paragraphe (2);
 	- **b)** d’autre part, de motifs raisonnables de croire qu’il est dans l’intérêt public d’en permettre l’accès, compte tenu des avantages pouvant vraisemblablement en résulter pour l’enquête en question.
 L’ordonnance doit être exécutée dans le délai, suivant la signification, que précise le juge.
@@ -1310,7 +1310,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Opposition à la communication**
 
-- **(7)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
+- **(7)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
 	- **a)** soit qu’un accord bilatéral ou international en matière de partage de renseignements relatifs aux infractions de recyclage des produits de la criminalité ou aux infractions de financement des activités terroristes, ou à des infractions essentiellement similaires, que le gouvernement du Canada a signé, interdit au directeur de les communiquer;
 	- **b)** soit que les renseignements ou documents sont protégés par la loi;
 	- **c)** soit que ces renseignements ou documents ont été placés sous scellés en conformité avec la loi ou sur l’ordre d’un tribunal compétent;
@@ -1351,7 +1351,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Définition**
 
 - **(16)** Au présent article, ***juge*** s’entend d’un juge de la Cour fédérale, nommé par son juge en chef, pour l’application de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
-> 2001, ch. 41, art. 72.
+> 2001, ch. 41, art. 72; 2005, ch. 10, art. 34.
 
 
 
