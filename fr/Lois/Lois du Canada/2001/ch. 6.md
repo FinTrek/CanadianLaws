@@ -76,7 +76,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Champ d’application de la présente partie**
 
-**5** La présente partie s’applique à toute mesure de redressement demandée et à toute réclamation présentée sous le régime du droit maritime canadien, au sens de la Loi sur la Cour fédérale, ou au titre de toute autre règle de droit canadien liée à la navigation et à la marine marchande.
+**5** La présente partie s’applique à toute mesure de redressement demandée et à toute réclamation présentée sous le régime du droit maritime canadien, au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ou au titre de toute autre règle de droit canadien liée à la navigation et à la marine marchande.
+> 2001, ch. 6, art. 5; 2002, ch. 8, art. 182.
+
 
 
 
@@ -210,7 +212,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Champ d’application de la présente partie**
 
-**16** La présente partie s’applique à toute mesure de redressement demandée et à toute réclamation présentée sous le régime du droit maritime canadien, au sens de la Loi sur la Cour fédérale, ou au titre de toute autre règle de droit canadien liée à la navigation et à la marine marchande.
+**16** La présente partie s’applique à toute mesure de redressement demandée et à toute réclamation présentée sous le régime du droit maritime canadien, au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ou au titre de toute autre règle de droit canadien liée à la navigation et à la marine marchande.
+> 2001, ch. 6, art. 16; 2002, ch. 8, art. 182.
+
 
 
 
