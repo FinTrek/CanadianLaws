@@ -1429,6 +1429,10 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 
 
+**9** The land claims agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kluane First Nation as represented by the Chief of the Kluane First Nation, signed on October 18, 2003.
+
+
+
 **PART II** 
 ### Self-Government Agreements
 
@@ -1464,7 +1468,11 @@ and includes works, machinery, plants and buildings below or above ground belong
 **8** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of the Yukon Territory as represented by the Government Leader of the Yukon, and the Ta’an Kwach’an Council as represented by the Chief of the Ta’an Kwach’an Council, respecting government by and for the First Nation, signed on January 13, 2002 and brought into effect as of April 1, 2002 by Order in Council P.C. 2002-403 of March 21, 2002.
 
 
-> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378.
+
+**9** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kluane First Nation as represented by the Chief of the Kluane First Nation, signed on October 18, 2003, respecting government by and for the First Nation.
+
+
+> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10.
 
 
 
