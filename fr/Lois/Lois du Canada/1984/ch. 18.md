@@ -988,6 +988,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Non-compétence de la Cour fédérale**
 
 - **(2)** Par dérogation à sa loi constitutive, la Cour fédérale n’a pas compétence pour connaître des demandes visées au paragraphe (1).
+> 1984, ch. 18, art. 55; 2002, ch. 8, art. 133(A).
+
 
 
 
