@@ -53,7 +53,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 - **(1)** In this Act,
 
-***Ethics Counsellor*** means the Ethics Counsellor designated pursuant to section 10.1;
+***Ethics Counsellor***[Repealed, 2004, c. 7, s. 19]
 
 ***organization*** includes
 - **(a)** a business, trade, industry, professional or voluntary organization,
@@ -81,7 +81,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** For the purposes of this Act, a corporation is a subsidiary of another corporation if
 	- **(a)** securities of the first-mentioned corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the first-mentioned corporation are held, otherwise than by way of security only, directly or indirectly, whether through one or more subsidiaries or otherwise, by or for the benefit of the other corporation; and
 	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the first-mentioned corporation.
-> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1; 2002, c. 8, s. 182.
+> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1; 2002, c. 8, s. 182; 2004, c. 7, s. 19.
 
 
 
@@ -410,12 +410,12 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **10** 
 
-- **(1)** The registrar may issue advisory opinions and interpretation bulletins with respect to the enforcement, interpretation or application of this Act other than under sections 10.1 to 10.6.
+- **(1)** The registrar may issue advisory opinions and interpretation bulletins with respect to the enforcement, interpretation or application of this Act other than under sections 10.2 to 10.6.
 
 **Interpretation bulletins not statutory instruments**
 
 - **(2)** The advisory opinions and interpretation bulletins are not statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) and are not binding.
-> R.S., 1985, c. 44 (4th Supp.), s. 10; 1995, c. 12, s. 5.
+> R.S., 1985, c. 44 (4th Supp.), s. 10; 1995, c. 12, s. 5; 2004, c. 7, s. 20.
 
 
 
@@ -424,12 +424,7 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 ## Lobbyists’ Code of Conduct
 
 
-
-**Ethics Counsellor**
-
-**10.1** The Governor in Council may designate any person as the Ethics Counsellor for the purposes of this Act.
-> 1995, c. 12, s. 5.
-
+**10.1** [Repealed, 2004, c. 7, s. 21]
 
 
 
@@ -438,11 +433,11 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **10.2** 
 
-- **(1)** The Ethics Counsellor shall develop a Lobbyists’ Code of Conduct respecting the activities described in subsections 5(1), 6(1) and 7(1).
+- **(1)** The registrar shall develop a Lobbyists' Code of Conduct respecting the activities described in subsections 5(1), 6(1) and 7(1).
 
 **Consultation**
 
-- **(2)** In developing the Code, the Ethics Counsellor shall consult persons and organizations that he or she considers are interested in the Code.
+- **(2)** In developing the Code, the registrar shall consult persons and organizations that the registrar considers are interested in the Code.
 
 **Referral**
 
@@ -451,7 +446,7 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 **Code not a statutory instrument**
 
 - **(4)** The Code is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but the Code shall be published in the Canada Gazette.
-> 1995, c. 12, s. 5.
+> 1995, c. 12, s. 5; 2004, c. 7, s. 22.
 
 
 
@@ -478,14 +473,14 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **10.4** 
 
-- **(1)** Where the Ethics Counsellor believes on reasonable grounds that a person has breached the Code, the Ethics Counsellor shall investigate to determine whether a breach has occurred.
+- **(1)** Where the registrar believes on reasonable grounds that a person has breached the Code, the registrar shall investigate to determine whether a breach has occurred.
 
 **Powers of investigation**
 
-- **(2)** For the purpose of conducting the investigation, the Ethics Counsellor may
+- **(2)** For the purpose of conducting the investigation, the registrar may
 	- **(a)** in the same manner and to the same extent as a superior court of record,
-		- **(i)** summon and enforce the attendance of persons before the Ethics Counsellor and compel them to give oral or written evidence on oath, and
-		- **(ii)** compel persons to produce any documents or other things that the Ethics Counsellor considers necessary for the investigation, including any record of a payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be; and
+		- **(i)** summon and enforce the attendance of persons before the registrar and compel them to give oral or written evidence on oath, and
+		- **(ii)** compel persons to produce any documents or other things that the registrar considers necessary for the investigation, including any record of a payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be; and
 	- **(b)** administer oaths and receive and accept information, whether or not it would be admissible as evidence in a court of law.
 
 **Investigation in private**
@@ -494,18 +489,18 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **Evidence in other proceedings**
 
-- **(4)** Evidence given by a person in the investigation and evidence of the existence of the investigation are inadmissible against the person in a court or in any other proceeding, other than in a prosecution of a person for an offence under section 131 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the Ethics Counsellor.
+- **(4)** Evidence given by a person in the investigation and evidence of the existence of the investigation are inadmissible against the person in a court or in any other proceeding, other than in a prosecution of a person for an offence under section 131 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the registrar.
 
 **Opportunity to present views**
 
-- **(5)** Before finding that a person has breached the Code, the Ethics Counsellor shall give the person a reasonable opportunity to present their views to the Ethics Counsellor.
+- **(5)** Before finding that a person has breached the Code, the registrar shall give the person a reasonable opportunity to present their views to the registrar.
 
 **Confidentiality**
 
-- **(6)** The Ethics Counsellor, and every person acting on behalf of or under the direction of the Ethics Counsellor, shall not disclose any information that comes to their knowledge in the performance of their duties and functions under this section, unless
-	- **(a)** the disclosure is, in the opinion of the Ethics Counsellor, necessary for the purpose of conducting an investigation under this section or establishing the grounds for any findings or conclusions contained in a report under section 10.5; or
-	- **(b)** the information is disclosed in a report under section 10.5 or in the course of a prosecution for an offence under section 131 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the Ethics Counsellor.
-> 1995, c. 12, s. 5.
+- **(6)** The registrar, and every person acting on behalf of or under the direction of the registrar, may not disclose any information that comes to their knowledge in the performance of their duties and functions under this section, unless
+	- **(a)** the disclosure is, in the opinion of the registrar, necessary for the purpose of conducting an investigation under this section or establishing the grounds for any findings or conclusions contained in a report under section 10.5; or
+	- **(b)** the information is disclosed in a report under section 10.5 or in the course of a prosecution for an offence under section 131 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the registrar.
+> 1995, c. 12, s. 5; 2004, c. 7, s. 23.
 
 
 
@@ -515,12 +510,12 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **10.5** 
 
-- **(1)** After conducting an investigation, the Ethics Counsellor shall prepare a report of the investigation, including the findings, conclusions and reasons for the Ethics Counsellor’s conclusions, and submit it to the Registrar General of Canada who shall cause a copy of it to be laid before each House of Parliament on any of the first fifteen sitting days on which that House is sitting after it is received.
+- **(1)** After conducting an investigation, the registrar shall prepare a report of the investigation, including the findings, conclusions and reasons for the registrar's conclusions, and submit it to the Registrar General of Canada who shall cause a copy of it to be laid before each House of Parliament on any of the first fifteen sitting days on which that House is sitting after it is received.
 
 **Contents of report**
 
-- **(2)** The report may contain details of any payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be, if the Ethics Counsellor considers publication of the details to be in the public interest.
-> 1995, c. 12, s. 5.
+- **(2)** The report may contain details of any payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be, if the registrar considers publication of the details to be in the public interest.
+> 1995, c. 12, s. 5; 2004, c. 7, s. 23.
 
 
 
@@ -528,8 +523,8 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **Annual report**
 
-**10.6** The Ethics Counsellor shall, within three months after the end of each fiscal year, prepare a report with regard to the exercise of the powers, duties and functions conferred on the Ethics Counsellor under this Act during the fiscal year and submit the report to the Registrar General of Canada who shall cause a copy of it to be laid before each House of Parliament on any of the first fifteen sitting days on which that House is sitting after it is received.
-> 1995, c. 12, s. 5.
+**10.6** The registrar shall, within three months after the end of each fiscal year, prepare a report with regard to the exercise of the powers, duties and functions conferred on the registrar under this Act during the fiscal year and submit the report to the Registrar General of Canada who shall cause a copy of it to be laid before each House of Parliament on any of the first fifteen sitting days on which that House is sitting after it is received.
+> 1995, c. 12, s. 5; 2004, c. 7, s. 23.
 
 
 
@@ -543,12 +538,12 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **11** 
 
-- **(1)** The registrar shall, within three months after the end of each fiscal year, prepare a report with regard to the administration of this Act, other than sections 10.1 to 10.6, during that fiscal year and submit the report to the Registrar General of Canada.
+- **(1)** The registrar shall, within three months after the end of each fiscal year, prepare a report with regard to the administration of this Act, other than sections 10.2 to 10.6, during that fiscal year and submit the report to the Registrar General of Canada.
 
 **Tabling**
 
 - **(2)** The Registrar General of Canada shall cause a copy of the report prepared pursuant to subsection (1) to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after it is received.
-> R.S., 1985, c. 44 (4th Supp.), s. 11; 1995, c. 12, s. 6.
+> R.S., 1985, c. 44 (4th Supp.), s. 11; 1995, c. 12, s. 6; 2004, c. 7, s. 24.
 
 
 
