@@ -265,9 +265,11 @@ Now, Therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Federal Court Act**
+**[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)**
 
-**19** For greater certainty, no Nisga’a Institution or Nisga’a Court, and no body or person appointed by Nisga’a Government having, exercising or purporting to exercise jurisdiction or powers conferred by or under a Nisga’a law, is a federal board, commission or other tribunal within the meaning of the Federal Court Act.
+**19** For greater certainty, no Nisga’a Institution or Nisga’a Court, and no body or person appointed by Nisga’a Government having, exercising or purporting to exercise jurisdiction or powers conferred by or under a Nisga’a law, is a federal board, commission or other tribunal within the meaning of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> 2000, c. 7, s. 19; 2002, c. 8, s. 182.
+
 
 
 
