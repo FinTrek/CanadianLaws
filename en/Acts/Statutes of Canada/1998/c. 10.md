@@ -2124,11 +2124,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** the trial division or branch of the Supreme Court of Prince Edward Island and Newfoundland;
 - **(d)** the Court of Queen’s Bench for New Brunswick, Manitoba, Saskatchewan and Alberta;
 - **(e)** the Supreme Court of Nova Scotia and British Columbia;
-- **(f)** the Supreme Court of the Yukon Territory, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice; and
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice; and
 - **(g)** the Federal Court — Trial Division.
 
 ***court of appeal*** means, in the province in which an order referred to in subsection 119(3) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). It includes the Federal Court of Appeal.
-> 1998, c. 10, s. 103; 1999, c. 3, s. 18.
+> 1998, c. 10, s. 103; 1999, c. 3, s. 18; 2002, c. 7, s. 105(E).
 
 
 
