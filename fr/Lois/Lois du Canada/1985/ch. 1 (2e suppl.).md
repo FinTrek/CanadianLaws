@@ -792,7 +792,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Solidarité du propriétaire et de l’importateur**
 
 - **(3)** Dès que l’importateur de marchandises dédouanées ou quiconque est autorisé à faire une déclaration en détail ou provisoire de marchandises conformément à l’alinéa 32(6)a) ou au paragraphe 32(7) devient redevable, en vertu de la présente loi, des droits afférents, la personne qui est propriétaire des marchandises au moment du dédouanement devient solidaire du paiement des droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 17; 1992, ch. 28, art. 4; 2001, ch. 25, art. 14.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 17; 1992, ch. 28, art. 4; 2001, ch. 25, art. 14; 2004, ch. 25, art. 120(A).
 
 
 
@@ -1445,6 +1445,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Paiement des frais**
 
 - **(2)** Seul l’agent peut enlever les marchandises en dépôt dans un lieu visé à l’article 37 sans qu’aient été payés les frais visés au paragraphe (1).
+> 1985, ch. 1 (2e suppl.), art. 38; 2004, ch. 25, art. 121(A).
+
 
 
 
@@ -1458,6 +1460,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Frais**
 
 - **(2)** L’importateur des marchandises confisquées en application du paragraphe (1) et la personne qui en est le propriétaire au moment de la confiscation sont solidairement redevables des frais entraînés pour Sa Majesté du chef du Canada lorsqu’elle dispose des marchandises autrement que par vente.
+> 1985, ch. 1 (2e suppl.), art. 39; 2004, ch. 25, art. 122(A).
+
 
 
 
@@ -3365,7 +3369,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 - **(1)** Les règles suivantes s’appliquent en cas de faillite d’une personne :
 	- **a)** le syndic de faillite est réputé agir à titre de mandataire du failli et tout acte qu’il accomplit, dans le cadre de la gestion de l’actif du failli ou de l’exploitation de l’entreprise de celui-ci, est réputé accompli à ce titre;
 	- **b)** l’actif du failli ne constitue ni une fiducie ni une succession;
-	- **c)** les biens et l’argent du failli à la date de la faillite, sont réputés ne pas être passés au syndic ni lui être dévolus au moment de la prise de l’ordonnance de séquestre ou du dépôt de la cession, mais demeurer la propriété du failli;
+	- **c)** les biens et l’argent du failli à la date de la faillite, sont réputés ne pas être passés au syndic ni lui être dévolus au moment de la prise de l’ordonnance de faillite ou du dépôt de la cession, mais demeurer la propriété du failli;
 	- **d)** le syndic, et non le failli, est tenu au paiement des sommes — sauf celles qui se rapportent uniquement à des activités non visées par la faillite que le failli commence à exercer le jour de celle-ci ou par la suite — dont le failli devient redevable au titre de la présente loi pendant la période allant du lendemain du jour où le syndic entre en fonction en ce qui concerne le failli jusqu’au jour de sa libération aux termes de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md); toutefois :
 		- **(i)** la responsabilité du syndic à l’égard du paiement des sommes dont le failli devient redevable après le jour de la faillite se limite à la nature des biens et de l’argent du failli en sa possession et disponibles pour éteindre l’obligation,
 		- **(ii)** le syndic n’est pas tenu au paiement de toute somme pour laquelle un séquestre est responsable en vertu de l’article 97.37;
@@ -3375,10 +3379,10 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **h)** le syndic n’est pas tenu de remplir les obligations qui incombent au failli au titre de la présente loi dans la mesure où elles doivent être remplies, au titre de l’article 97.37, par un séquestre investi de pouvoirs relativement à une entreprise, à un bien, aux affaires ou à des éléments d’actif du failli;
 	- **i)** les biens et l’argent que le syndic détient pour le failli le jour où une ordonnance de libération absolue est rendue à l’égard de ce dernier en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) ne passent pas au failli au moment où l’ordonnance est rendue, mais sont dévolus au failli et détenus par lui sans solution de continuité depuis le jour où ils ont été acquis par lui ou le syndic.
 
-**Définition de « failli »**
+**Définition de failli**
 
 - **(2)** Au présent article, ***failli*** s’entend au sens du paragraphe 2(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58; 2004, ch. 25, art. 196.
 
 
 
