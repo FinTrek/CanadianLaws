@@ -48,7 +48,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commissaire*** Le Commissaire à la protection de la vie privée nommé en application de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*Commissioner*)
 
-***Cour*** La Section de première instance de la Cour fédérale. (*Court*)
+***Cour*** La Cour fédérale. (*Court*)
 
 ***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microforme, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information. (*record*)
 
@@ -80,6 +80,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notes de l’annexe 1**
 
 - **(2)** Dans la présente partie, la mention des articles 4.3 ou 4.9 de l’annexe 1 ne vise pas les notes afférentes.
+> 2000, ch. 5, art. 2; 2002, ch. 8, art. 183.
+
 
 
 
