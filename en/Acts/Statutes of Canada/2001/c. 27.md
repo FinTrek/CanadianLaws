@@ -121,7 +121,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Tabling and referral of proposed regulations**
 
-- **(2)** The Minister shall cause a copy of each proposed regulation made pursuant to sections 17, 32, 53, 61, 102, 116 and 150 to be laid before each House of Parliament, and each House shall refer the proposed regulation to the appropriate Committee of that House.
+- **(2)** The Minister shall cause a copy of each proposed regulation made pursuant to sections 17, 32, 53, 61, 102, 116, 150 and 150.1 to be laid before each House of Parliament, and each House shall refer the proposed regulation to the appropriate Committee of that House.
 
 **Alteration of proposed regulation**
 
@@ -130,6 +130,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Making of regulations**
 
 - **(4)** The Governor in Council may make the regulation at any time after the proposed regulation has been laid before each House of Parliament under subsection (2).
+> 2001, c. 27, s. 5; 2004, c. 15, s. 70.
+
 
 
 
@@ -2466,8 +2468,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Use of information**
 
 **149** The following provisions govern information provided under paragraph 148(1)(d):
-- **(a)** the information may be used only for the purposes of this Act or to identify a person for whom a warrant of arrest has been issued in Canada; and
-- **(b)** notice that the information was used must be given to the person to whom it relates.
+- **(a)** the information may be used only for the purposes of this Act or the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or to identify a person for whom a warrant of arrest has been issued in Canada; and
+- **(b)** notice regarding use of the information must be given to the person to whom it relates.
+> 2001, c. 27, s. 149; 2004, c. 15, s. 71.
+
 
 
 
@@ -2479,6 +2483,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** the costs and fees for which a person who owns or operates a vehicle or a transportation facility is liable;
 - **(c)** the procedures to be followed when a vehicle or other security is detained, seized, forfeited to Her Majesty in right of Canada or returned; and
 - **(d)** the procedures by which a person may make claim that their interest in a vehicle or other good is not affected by it being detained, seized or forfeited to Her Majesty in right of Canada.
+
+
+
+
+### Sharing of Information
+
+
+
+**Regulations**
+
+**150.1** 
+
+- **(1)** The regulations may provide for any matter relating to
+	- **(a)** the collection, retention, disposal and disclosure of information for the purposes of this Act; and
+	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md).
+
+**Conditions**
+
+- **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, disposal and disclosure may be made.
+> 2004, c. 15, s. 72.
+
 
 
 
