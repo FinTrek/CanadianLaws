@@ -258,7 +258,9 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 **Application of [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)**
 
-- **(2)** For the purpose of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the officers and employees of the Corporation shall be deemed to be employed in the public service of Canada.
+- **(2)** For the purpose of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the officers and employees of the Corporation shall be deemed to be employed in the federal public administration.
+> R.S., 1985, c. 41 (4th Supp.), s. 41; 2003, c. 22, s. 224(E).
+
 
 
 
