@@ -1,0 +1,385 @@
+> [Go to French version](/fr/Lois/Lois%20du%20Canada/1993/ch.%2031.md)
+
+# National Round Table on the Environment and the Economy Act
+
+**S.C. 1993, c. 31**
+
+
+Assented to on 23 June 1993
+
+----------
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+## Short Title
+
+
+
+**Short title**
+
+**1** This Act may be cited as the National Round Table on the Environment and the Economy Act.
+
+
+
+
+## Interpretation
+
+
+
+**Definitions**
+
+**2** In this Act,
+
+***Chairperson*** means the Chairperson of the Round Table appointed pursuant to subsection 6(1);
+
+***Executive Director*** means the Executive Director of the Round Table appointed pursuant to section 10;
+
+Version anglaise seulement***member*** means a member of the Round Table appointed pursuant to subsection 6(1) or (2);
+
+***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act;
+
+***Round Table*** means the National Round Table on the Environment and the Economy established by section 3;
+
+***sustainable development*** means development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.
+
+
+
+
+## Establishment of Round Table
+
+
+
+**Round Table established**
+
+**3** There is hereby established a corporation, to be called the National Round Table on the Environment and the Economy, consisting of a Chairperson and not more than twenty-four other members to be appointed as provided in section 6.
+
+
+
+
+## Purpose
+
+
+
+**Purpose**
+
+**4** The purpose of the Round Table is to play the role of catalyst in identifying, explaining and promoting, in all sectors of Canadian society and in all regions of Canada, principles and practices of sustainable development by
+- **(a)** undertaking research and gathering information and analyses on critical issues of sustainable development;
+- **(b)** advising governments on ways of integrating environmental and economic considerations into their decision-making processes and on global issues of sustainable development;
+- **(c)** advising those sectors and regions on ways of incorporating principles and practices of sustainable development into their activities;
+- **(d)** promoting the understanding and increasing public awareness of the cultural, social, economic and policy changes required to attain sustainable development; and
+- **(e)** facilitating and assisting cooperative efforts in Canada to overcome barriers to the attainment of sustainable development.
+
+
+
+
+## Powers
+
+
+
+**Powers**
+
+**5** In order to fulfil its purpose, the Round Table may
+- **(a)** support and recommend initiatives to incorporate principles and practices of sustainable development into all aspects of government and society throughout Canada;
+- **(b)** initiate, sponsor and support seminars, workshops, conferences and other meetings;
+- **(c)** undertake and support studies and inquiries;
+- **(d)** publish and disseminate studies, reports and other materials;
+- **(e)** organize and assist committees and other groups;
+- **(f)** expend any money provided by Parliament or any other sources, or received by the Round Table through the conduct of its operations, for the activities of the Round Table, subject to any terms on which it is provided or received;
+- **(g)** acquire any money, securities or other property by gift, bequest or otherwise and hold, expend, invest, administer or dispose of that property, subject to any terms on which it is given, bequeathed or otherwise made available to the Round Table; and
+- **(h)** do all such things as are conducive to the fulfilment of its purpose.
+
+
+
+
+## Members
+
+
+
+**Chairperson**
+
+**6** 
+
+- **(1)** The Chairperson of the Round Table shall be appointed by the Governor in Council to hold office during pleasure for such term, not exceeding three years, as the Governor in Council may determine.
+
+**Other members**
+
+- **(2)** Each member of the Round Table, other than the Chairperson, shall be appointed by the Governor in Council to hold office during pleasure for such term, not exceeding three years, as will ensure as far as possible the expiration in any one year of the terms of appointment of one third of the members.
+
+**Representative nature**
+
+- **(3)** In appointing persons as members, the Governor in Council shall have regard to the importance of maintaining a broadly representative membership that reflects the need for concerted action in all sectors of Canadian society and all regions of Canada to attain sustainable development.
+
+**Qualification**
+
+- **(4)** A person is eligible to be appointed as a member if the person has knowledge or experience that will assist the Round Table in fulfilling its purpose.
+
+**Reappointment**
+
+- **(5)** A member is eligible for reappointment in the same or another capacity.
+
+
+
+
+**Resignation**
+
+**7** 
+
+- **(1)** Subject to subsection (2), a member who wishes to resign shall notify the Chairperson in writing to that effect, and the resignation becomes effective when the Chairperson receives the notice or at the time specified in the notice, whichever is the later.
+
+**Idem**
+
+- **(2)** If the Chairperson wishes to resign, the Chairperson shall notify the Minister in writing to that effect, and the resignation becomes effective when the Minister receives the notice or at the time specified in the notice, whichever is the later.
+
+
+
+
+**Functions of Chairperson**
+
+**8** 
+
+- **(1)** The Chairperson shall preside at meetings of the Round Table and shall perform such other duties and functions as are imposed, or exercise such powers as are conferred, by or under the by-laws or resolutions of the Round Table.
+
+**Election of Vice-Chairpersons**
+
+- **(2)** The executive committee of the Round Table shall elect two members of the committee to be Vice-Chairpersons of the Round Table.
+
+**Absence or incapacity of Chairperson**
+
+- **(3)** If the Chairperson is absent or unable to act or the office of Chairperson is vacant, the executive committee of the Round Table may authorize a Vice-Chairperson or other member of the executive committee to act as Chairperson, but no person may so act for a period exceeding sixty days without the approval of the Governor in Council.
+
+
+
+
+## Executive Committee
+
+
+
+**Executive committee**
+
+**9** 
+
+- **(1)** There shall be an executive committee of the Round Table consisting of the Chairperson and the Executive Director and not fewer than five or more than seven other members of the Round Table to be appointed by the members for such term of office as they consider appropriate.
+
+**Functions of executive committee**
+
+- **(2)** The executive committee shall assist the Executive Director in supervising the work of the Round Table and shall perform such duties and functions as are imposed, or exercise such powers as are conferred, on the executive committee by or under the by-laws or resolutions of the Round Table.
+
+**Chairperson of executive committee**
+
+- **(3)** The Chairperson is the chairperson of the executive committee.
+
+**Meetings**
+
+- **(4)** The executive committee shall meet at least four times a year.
+
+
+
+
+## Executive Director
+
+
+
+**Executive Director**
+
+**10** 
+
+- **(1)** There shall be an Executive Director of the Round Table, who shall be appointed by the Governor in Council, on the recommendation of the Minister, to hold office during pleasure for a term not exceeding three years.
+
+**Chief executive officer**
+
+- **(2)** The Executive Director is the chief executive officer of the Round Table and has supervision over and direction of the work and staff of the Round Table and shall perform such duties and functions as are imposed, or exercise such powers as are conferred, on the Executive Director by or under the by-laws or resolutions of the Round Table.
+
+**Reappointment**
+
+- **(3)** The Executive Director is eligible for reappointment.
+
+**Absence or incapacity of Executive Director**
+
+- **(4)** If the Executive Director is absent or unable to act or the office of Executive Director is vacant, the executive committee may authorize an employee of the Round Table to act as Executive Director.
+
+
+
+
+## Remuneration and Expenses
+
+
+
+**Part-time**
+
+**11** The members are appointed to perform their duties on a part-time basis.
+
+
+
+
+**Members’ fees**
+
+**12** 
+
+- **(1)** The members shall be paid such fees for their attendance at meetings and for the performance of other duties under this Act as the Governor in Council may fix.
+
+**Executive Director’s salary**
+
+- **(2)** The Executive Director shall be paid such salary or other remuneration as the Governor in Council may fix.
+
+
+
+
+**Members’ expenses**
+
+**13** 
+
+- **(1)** A member is entitled to be paid reasonable travel and living expenses incurred by the member in performing duties under this Act.
+
+**Executive Director’s expenses**
+
+- **(2)** The Executive Director is entitled to be paid reasonable travel and living expenses incurred by the Executive Director in performing duties under this Act.
+
+
+
+
+## Principal Office and Meetings
+
+
+
+**Principal office**
+
+**14** The principal office of the Round Table shall be at such place in Canada as the Governor in Council may designate.
+
+
+
+
+**Meetings**
+
+**15** 
+
+- **(1)** The Round Table shall meet at such places in Canada as the Chairperson may select and at such times as the executive committee may select, but it shall meet at least four times a year.
+
+**Quorum**
+
+- **(2)** A majority of the members in office constitutes a quorum at a meeting of the Round Table.
+
+
+
+
+**Attendees**
+
+**16** 
+
+- **(1)** A Minister designated pursuant to subsection (2) and the Chairperson of the Canadian Council of Ministers of the Environment, or of any successor organization thereto, are entitled to receive notice of all meetings of the Round Table and to attend and take part in, but not to vote at, those meetings.
+
+**Designation**
+
+- **(2)** The Minister, after consultation with the Chairperson and other Ministers, may designate any Minister of the Government of Canada who has responsibilities relating to the environment or the economy to attend meetings of the Round Table and otherwise participate in its activities.
+
+
+
+
+## By-laws
+
+
+
+**By-laws**
+
+**17** 
+
+- **(1)** The Round Table may make by-laws for the regulation of its proceedings and generally for the conduct and management of its activities, including the establishment of investment, advisory or other committees of the Round Table.
+
+**Membership of committees**
+
+- **(2)** Any by-law made pursuant to subsection (1) that establishes a committee may provide for the members of the committee to include or consist of persons who are not members of the Round Table.
+
+**Fees**
+
+- **(3)** The members of a committee who are not members of the Round Table may be paid such fees for their attendance at meetings of the committee as the Governor in Council may fix.
+
+**Expenses**
+
+- **(4)** A member of a committee who is not a member of the Round Table is entitled to be paid reasonable travel and living expenses incurred by the member in attending meetings of the committee.
+
+
+
+
+## General
+
+
+
+**Agent of Her Majesty**
+
+**18** The Round Table is an agent of Her Majesty in right of Canada.
+
+
+
+
+**Staff**
+
+**19** 
+
+- **(1)** The Round Table may employ or engage such employees and agents as it considers necessary for the proper conduct of its work and may prescribe their duties and, subject to the approval of the Treasury Board, the conditions of their employment or engagement, including remuneration and the payment of expenses.
+
+**Temporary staff**
+
+- **(2)** The Round Table may engage on a temporary basis persons who have technical or specialized knowledge of any matter relating to the work of the Round Table to advise and assist the Round Table and, subject to the approval of the Treasury Board, may fix and pay the remuneration of those persons.
+
+
+
+
+**Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
+
+**20** The [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) does not apply to any member unless the Governor in Council directs otherwise.
+
+
+
+
+**Compensation**
+
+**21** The Executive Director and employees of the Round Table shall be deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+
+
+
+
+**Annual audit**
+
+**22** The accounts and financial transactions of the Round Table shall be audited annually by the Auditor General of Canada, and a report of the audit shall be made to the Round Table and to the Minister.
+
+
+
+
+**Annual report**
+
+**23** 
+
+- **(1)** Within four months after the end of each fiscal year, the Chairperson shall submit to the Minister a report on the activities of the Round Table during that year, including the financial statements of the Round Table and the Auditor General’s report thereon.
+
+**Tabling in Parliament**
+
+- **(2)** The Minister shall cause a copy of the report to be laid before each House of Parliament within the first fifteen days on which that House is sitting after the day on which the Minister receives the report.
+
+
+
+
+## Consequential Amendments
+
+
+**24 to 27** [Amendments]
+
+
+
+
+## Coming into Force
+
+
+
+**Coming into force**
+
+***28** This Act or any provision of this Act shall come into force on a day or days to be fixed by order of the Governor in Council.
+
+<a name='N-16.4_en_1'><sup>*</sup></a>: [Note: Act in force April 28, 1994, *see* SI/94-59.]<br />
+
+
