@@ -379,6 +379,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exclusion**
 
 - **(4)** Les administrateurs, les membres, les dirigeants, les employés et les mandataires de la fondation ne font pas partie, en raison de leur charge, de l’administration publique fédérale.
+> 1997, ch. 26, art. 17; 2003, ch. 22, art. 224(A).
+
 
 
 
