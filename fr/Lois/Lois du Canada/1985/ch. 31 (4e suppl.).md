@@ -769,7 +769,9 @@ a), tous secteurs ou régions du Canada ou lieux à l’étranger, compte tenu :
 
 **Assimilation à fonctionnaire**
 
-**53** Le commissaire et le personnel régulier du commissariat sont réputés appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+**53** Le commissaire et le personnel régulier du commissariat sont réputés appartenir à la fonction publique pour l’application de la  [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 53; 2003, ch. 22, art. 225(A).
+
 
 
 
