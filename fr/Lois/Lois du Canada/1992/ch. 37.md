@@ -62,7 +62,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** ministère ou établissement public mentionnés aux annexes I et II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **d)** tout autre organisme désigné par les règlements d’application de l’alinéa 59e).
 
-Sont exclus le commissaire en conseil du territoire du Yukon, celui des Territoires du Nord-Ouest et celui du Nunavut et tous les organismes de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), les commissions portuaires constituées par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), les commissaires nommés en vertu de la Loi des commissaires du havre de Hamilton et de la *Loi de 1911 concernant les commissaires du havre de Toronto*, les sociétés d’État au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi.
+Sont exclus la Législature du Yukon et celle du Nunavut, le commissaire en conseil des Territoires du Nord-Ouest et tous les organismes de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la 
+[Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), les commissions portuaires constituées par la 
+[Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), les commissaires nommés en vertu de la 
+Loi des commissaires du havre de Hamilton et de la 
+Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'État au sens de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la 
+[Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi.
 
 ***autorité responsable*** L’autorité fédérale qui, en conformité avec le paragraphe 11(1), est tenue de veiller à ce qu’il soit procédé à l’évaluation environnementale d’un projet.
 
@@ -110,7 +116,8 @@ Sont exclus le commissaire en conseil du territoire du Yukon, celui des Territoi
 ***rapport d’examen préalable*** Rapport des résultats d’un examen préalable.
 
 ***territoire domanial***
-- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien, à l’exception des terres sur lesquelles le commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a pleine autorité par décision du gouverneur en conseil et de celles dont la gestion est confiée à une administration portuaire sous le régime de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou à une société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de cette loi;
+- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu'elle a le pouvoir d'aliéner, ainsi que leurs eaux et leur espace aérien, à l'exception des terres dont le commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise et de celles dont la gestion est confiée à une administration portuaire sous le régime de la 
+[Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) ou à une société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de cette loi;
 - **b)** les eaux intérieures, la mer territoriale, la zone économique exclusive et le plateau continental du Canada;
 - **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
 
@@ -119,7 +126,7 @@ Sont exclus le commissaire en conseil du territoire du Yukon, celui des Territoi
 - **(2)** Pour l’application de la présente loi, a le contrôle d’une personne morale la personne morale :
 	- **a)** d’une part, qui détient — ou en est bénéficiaire — , autrement qu’à titre de garantie seulement, des valeurs mobilières conférant plus de cinquante pour cent du maximum possible des voix à l’élection des administrateurs de la personne morale;
 	- **b)** d’autre part, dont les valeurs mobilières confèrent un droit de vote dont l’exercice permet d’élire la majorité des administrateurs de la personne morale.
-> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50.
+> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122.
 
 
 
@@ -997,7 +1004,8 @@ Sont exclus le commissaire en conseil du territoire du Yukon, celui des Territoi
 
 - **(6)** Pour l’application du présent article, les terres sur lesquelles les Indiens ont des droits s’entendent :
 	- **a)** des terres visées par des revendications territoriales que le gouvernement fédéral a accepté de négocier dans le cadre de sa politique en matière de revendications territoriales des Indiens et :
-		- **(i)** dans le cas du Yukon, des Territoires du Nord-Ouest ou du Nunavut, celles qui ont été soustraites à l’application de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) dans le cadre d’un règlement en matière de revendications territoriales,
+		- **(i)** celles qui ont été, dans le cadre d'un règlement en matière de revendications territoriales, déclarées inaliénables, dans le cas des Territoires du Nord-Ouest ou du Nunavut, sous le régime de la 
+[Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) ou, dans le cas du Yukon, en vertu d'une loi de la Législature,
 		- **(ii)** dans le cas des provinces, celles qui ont été choisies par le gouvernement fédéral et celui de la province concernée;
 	- **b)** des terres qui appartiennent à Sa Majesté ou qu’elle a le droit de céder et qui ont été choisies par elle et une bande indienne pour cession en vue d’un règlement des revendications territoriales fondées :
 		- **(i)** sur une obligation légale de Sa Majesté envers une bande indienne aux termes de la politique du gouvernement fédéral en matière de revendications particulières,
@@ -1006,7 +1014,7 @@ Sont exclus le commissaire en conseil du territoire du Yukon, celui des Territoi
 **Règle d’application**
 
 - **(7)** Pour l’application du présent article, toute mention des terres, territoires ou réserves comprend leurs eaux et leur espace aérien.
-> 1992, ch. 37, art. 48; 1993, ch. 28, art. 78.
+> 1992, ch. 37, art. 48; 1993, ch. 28, art. 78; 2002, ch. 7, art. 123.
 
 
 
