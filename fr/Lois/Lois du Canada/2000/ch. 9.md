@@ -12489,6 +12489,9 @@ Election Act, R.S.A. 1980, ch. E-2
 Motor Vehicle Administration Act, R.S.A. 1980, ch. M-22
 
 
+Traffic Safety Act, R.S.A. 2000, ch. T-6
+
+
 Vital Statistics Act, R.S.A. 1980, ch. V-4
 
 
@@ -12654,7 +12657,7 @@ AUTRES SOURCES DE RENSEIGNEMENTS
 La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
 
 
-> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685.
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n <sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n <sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, page 283.
 
 
 
