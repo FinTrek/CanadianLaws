@@ -2702,7 +2702,7 @@ mais non compris :
 
 ### **ANNEXE V** 
 **(articles 2, 4, 6, 55 et 60)**
-**1** Phénylpropanolamine (amino–2 phényl–1 propanol–1) et ses sels
+**1** [Abrogé, DORS/2002-361, art. 1]
 
 
 **2** Propylhexédrine (d,l–cyclohexyl–1 méthylamino–2 propane) et ses sels
@@ -2711,28 +2711,134 @@ mais non compris :
 **3** Pyrovalérone (d,l–(méthyl–4 phényl)–1 (pyrrolidinyl–1)–2 pentanone–1) et ses sels
 
 
+> 1996, ch. 19, ann. V; DORS/2002-361, art. 1.
+
 
 
 
 ### **ANNEXE VI** 
 **(articles 2, 6, 55 et 60)**
-**1** Benzyl méthyl cétone (P2P) (phényl–1 propanone–2)
+
+**PARTIE 1** 
+### Précurseurs — catégorie A<sup><a href='#C-38-8_DOR16_1'>[1]</a></sup>
 
 
-**2** Éphédrine (l–érythro (méthylamino)–2 phényl–1 propanol–1)
+**1** Anhydride acétique
 
 
-**3** Ergométrine (didéhydro–9,10 N–(hydroxy–2 méthyl–1 éthyl) méthyl–6 ergolinecarboxamide–8)
+
+**2** Acide N-acétylanthranilique (acide 2-acétamidobenzoïque) et ses sels
 
 
-**4** Ergotamine (hydroxy–12' méthyl–2' phénylméthyl–5' ergotamantrione–3',6',18)
+
+**3** Acide anthranilique (acide 2-aminobenzoïque) et ses sels
 
 
-**5** Acide lysergique (acide didéhydro–9,10 méthyl–6 ergoline carboxylique–8)
+
+**4** Éphédrine (érythro (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
 
 
-**6** Pseudoéphédrine (d–thréo (méthylamino)–2 phényl–1 propanol–1)
 
+**5** Ergométrine (didéhydro-9,10 N-(hydroxy-2 méthyl-1 éthyl) méthyl-6 ergolinecarboxamide-8) et ses sels
+
+
+
+**6** Ergotamine (hydroxy-12' méthyl-2' phénylméthyl-5'ergotamantrione-3',6',18) et ses sels
+
+
+
+**7** Isosafrole (propényl-1)-5 benzodioxole-1,3)
+
+
+
+**8** Acide lysergique (acide didéhydro-9,10 méthyl-6 ergoline carboxylique-8) et ses sels
+
+
+
+**9** Méthylènedioxyphényle-3,4 propanone-2 ((benzodioxole-1,3)-1 propanone-2)
+
+
+
+**10** Noréphédrine (phénylpropanolamine) et ses sels
+
+
+
+**11** Phényl-1 propanone-2
+
+
+
+**12** Acide phénylacétique et ses sels
+
+
+
+**13** Pipéridine et ses sels
+
+
+
+**14** Pipéronal (benzodioxole-1,3 carboxaldehyde-5)
+
+
+
+**15** Permanganate de potassium
+
+
+
+**16** Pseudoéphédrine (thréo (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
+
+
+
+**17** Safrole ((propényl-2)-5 benzodioxole-1,3) et les huiles essentielles qui en contiennent
+
+
+
+
+
+<a name='C-38-8_DOR16_1'><sup>1</sup></a>: Sont compris parmi les précurseurs de catégorie A les formes synthétiques et naturelles de ceux-ci.<br />
+
+
+
+**PARTIE 2** 
+### Précurseurs — catégorie B<sup><a href='#C-38-8_DOR16_2'>[1]</a></sup>
+
+
+**1** Acétone
+
+
+
+**2** Éther éthylique
+
+
+
+**3** Acide chlorhydrique
+
+
+
+**4** Méthyléthylcétone
+
+
+
+**5** Acide sulphurique
+
+
+
+**6** Toluène
+
+
+
+
+
+<a name='C-38-8_DOR16_2'><sup>1</sup></a>: Sont compris parmi les précurseurs de catégorie B les formes synthétiques de ceux-ci.<br />
+
+
+
+**PARTIE 3** 
+### Préparations et mélanges
+
+
+**1** Toute préparation ou tout mélange qui contient l'un des précurseurs visés aux parties 1 ou 2.
+
+
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2.
 
 
 
