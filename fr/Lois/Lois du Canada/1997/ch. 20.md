@@ -436,7 +436,7 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 - **(1)** Pour l’application de la présente partie, un producteur est en défaut relativement à l’accord de remboursement dans les cas suivants :
 	- **a)** il ne donne pas suite, dans les vingt jours suivant son envoi par la poste ou sa remise, à l’avis que lui transmet l’agent d’exécution indiquant qu’il a eu, selon celui-ci, la possibilité de s’acquitter de toutes les obligations que lui impose cet accord et lui enjoignant de s’exécuter;
 	- **b)** il ne s’est pas acquitté de toutes les obligations que lui impose l’accord à la date où se termine la campagne agricole au cours de laquelle l’avance a été consentie;
-	- **c)** à la date où, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit il fait une cession de biens, soit une ordonnance de séquestre est rendue contre lui, il ne s’est pas acquitté de toutes les obligations que lui impose l’accord;
+	- **c)** à la date où, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit il fait une cession de biens, soit une ordonnance de faillite est rendue contre lui, il ne s’est pas acquitté de toutes les obligations que lui impose l’accord;
 	- **d)** il manque, à un moment quelconque, à une obligation de cet accord;
 	- **e)** il donne des renseignements faux ou trompeurs à l’agent d’exécution pour obtenir une avance garantie ou se soustraire à l’obligation de la rembourser.
 
@@ -451,6 +451,8 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **Refus de garantir**
 
 - **(4)** L’accord de garantie d’avance peut prévoir que même si le producteur a cessé d’être en défaut, il continue d’être inadmissible à l’octroi d’une avance garantie pour toute période qui y est prévue.
+> 1997, ch. 20, art. 21; 2004, ch. 25, art. 183.
+
 
 
 
