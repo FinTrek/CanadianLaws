@@ -239,8 +239,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **12** The President
 - **(a)** shall be paid the remuneration that may be fixed by the Governor in Council;
-- **(b)** is deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and is deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
+- **(b)** is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and is deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
 - **(c)** is entitled to be reimbursed for reasonable travel and living expenses incurred by the President in the course of performing the President’s duties while absent from the President’s ordinary place of work.
+> 2000, c. 6, s. 12; 2003, c. 22, s. 138(E).
+
 
 
 
@@ -249,8 +251,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **13** Each appointed member of the Governing Council
 - **(a)** shall be paid the fees that may be fixed by the Governor in Council for attendance at meetings of the Governing Council or any of its committees or for the performance of other duties;
-- **(b)** is deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
+- **(b)** is deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
 - **(c)** is entitled to be reimbursed for reasonable travel and living expenses incurred by the member in the course of performing their duties while absent from their ordinary place of residence.
+> 2000, c. 6, s. 13; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -298,17 +302,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Right of employer**
 
-- **(2)** Subsection 11(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) does not apply to the CIHR and the Governing Council may
+- **(2)** Subsections 11.1(1) and 12(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply with respect to the CIHR and the Governing Council may
 	- **(a)** determine the organization of and classify the positions in the CIHR;
 	- **(b)** set the terms and conditions of employment for employees, including termination of employment for cause, and assign duties to them; and
-	- **(c)** provide for any other matters that the Governing Council considers necessary for effective personnel management in the CIHR.
+	- **(c)** provide for any other matters that the Governing Council considers necessary for effective human resources management in the CIHR.
+> 2000, c. 6, s. 17; 2003, c. 22, s. 139.
+
 
 
 
 
 **Collective agreements**
 
-**18** Notwithstanding section 56 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), the Governing Council may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees of the CIHR that is applicable to employees of that bargaining unit.
+**18** Notwithstanding section 112 of the Public Service Labour Relations Act, the Governing Council may, in accordance with the negotiating mandate approved by the President of the Treasury Board, enter into a collective agreement with the bargaining agent for a bargaining unit composed of employees of the CIHR that is applicable to employees of that bargaining unit.
+> 2000, c. 6, s. 18; 2003, c. 22, s. 140.
+
 
 
 
@@ -363,11 +371,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Other benefits**
 
-- **(2)** The members of an Advisory Board are deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(2)** The members of an Advisory Board are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
 **Performing other duties or functions**
 
 - **(3)** A member of an Advisory Board, who with the approval of the Governing Council performs any duties or functions on its behalf in addition to their duties and functions as a member of the Advisory Board, may be paid the fees that are fixed by the Governor in Council.
+> 2000, c. 6, s. 22; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -398,7 +409,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Benefits**
 
-**25** The employees of the CIHR are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+**25** The employees of the CIHR are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and the regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2000, c. 6, s. 25; 2003, c. 22, s. 141(E).
+
 
 
 
@@ -433,11 +446,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **28** 
 
-- **(1)** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the CIHR may procure goods and services from outside the public service of Canada.
+- **(1)** Notwithstanding section 9 of the [Department of Public Works and Government Services Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2016.md), the CIHR may procure goods and services from outside the federal public administration.
 
 **Legal services**
 
-- **(2)** The CIHR may procure legal services from outside the public service of Canada only with the approval of the Attorney General of Canada or the Governor in Council.
+- **(2)** The CIHR may procure legal services from outside the federal public administration only with the approval of the Attorney General of Canada or the Governor in Council.
+> 2000, c. 6, s. 28; 2003, c. 22, s. 224(E).
+
 
 
 
