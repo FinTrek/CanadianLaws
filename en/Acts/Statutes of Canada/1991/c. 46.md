@@ -91,13 +91,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***consumer provision*** means a provision referred to in paragraph (a) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
-***court*** means
+***court*** means 
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province, and
-- **(f)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice;
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice;
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
 
@@ -250,7 +250,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E).
 
 
 
@@ -8612,11 +8612,13 @@ to take possession of or seize the property covered by the security, and in the 
 
 - **(5)** In subsections (4) and (6),
 
-***agency*** means, in a province, the office of the Bank of Canada or its authorized representative but does not include its Ottawa office, and in the Yukon Territory, the Northwest Territories and Nunavut means the office of the clerk of the court of each of those territories respectively;
+***agency*** means, in a province, the office of the Bank of Canada or its authorized representative but does not include its Ottawa office, and in Yukon, the Northwest Territories and Nunavut means the office of the clerk of the court of each of those territories respectively;
 
 ***agent*** means the officer in charge of an agency, and includes any person acting for that officer;
 
+
 ***appropriate agency*** means
+
 - **(a)** the agency for the province in which is located the place of business of the person by whom or on whose behalf a notice of intention is signed,
 - **(b)** if that person has more than one place of business in Canada and the places of business are not in the same province, the agency for the province in which is located the principal place of business of that person, or
 - **(c)** if that person has no place of business, the agency for the province in which the person resides,
@@ -8625,11 +8627,14 @@ and in respect of any notice of intention registered before the day this Part co
 
 ***notice of intention*** means a notice of intention in the prescribed form or in a form to the like effect, and includes a notice of intention registered before the day this Part comes into force, in the form and registered in the manner required by the law in force at the time of the registration of the notice of intention;
 
+
 ***principal place of business*** means
+
 - **(a)** in the case of a body corporate incorporated by or under an Act of Parliament or the legislature of a province, the place where, according to the body corporate’s charter, memorandum of association or by-laws, the head office of the body corporate in Canada is situated, and
 - **(b)** in the case of any other body corporate, the place at which a civil process in the province in which the loans or advances will be made can be served on the body corporate;
 
 ***system of registration*** means all registers and other records required by subsection (4) to be prepared and maintained and any such system may be in a bound or loose-leaf form or in a photographic film form, or may be entered or recorded by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information in intelligible written form within a reasonable time.
+
 
 **Regulations**
 
@@ -8650,7 +8655,7 @@ have priority over the rights of the bank in a security given to the bank under 
 **Effect of adjustment of index**
 
 - **(8)** On the first occasion after December 19, 1990 on which the index number referred to in subparagraph (7)(b)(ii) is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the reference to one thousand one hundred dollars therein the amount, stated in whole dollars, rounded upwards, obtained when one thousand one hundred dollars is multiplied by the index number immediately before the adjustment or re-establishment and the product so obtained is divided by the index number immediately following the adjustment or re-establishment, and on each subsequent occasion on which the index number is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the amount then referred to therein, an amount determined in like manner.
-> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1998, c. 36, s. 21.
+> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E).
 
 
 
