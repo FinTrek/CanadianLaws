@@ -1,137 +1,61 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4e%20suppl.).md)
 
-# Loi sur la Société d’expansion du Cap-Breton
+# Loi organique de 1987 sur le Canada atlantique
 
 **L.C. 1985, ch. 41 (4e suppl.)**
 
 
 ```
-[Édictée en tant que partie II de L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), en vigueur le 1<sup>er</sup> décembre 1988, voir TR/88-140.]
+[1988, ch. 50, sanctionné le 18 août 1988]
 ```
 ----------
 
 
-[Abrogée, 2014, ch. 20, art. 192]
-
-
 
 ## Titre abrégé
-> [Abrogée, 2014, ch. 20, art. 192]
 
 
 
-**25** [Abrogé, 2014, ch. 20, art. 192]
+**Titre abrégé**
 
+**1**  Loi organique de 1987 sur le Canada atlantique.
 
 
 
-## Définitions
-> [Abrogée, 2014, ch. 20, art. 192]
 
+**PARTIE I** 
 
 
-**26** [Abrogé, 2014, ch. 20, art. 192]
+**2 à 24** [Voir [Loi sur l’Agence de promotion économique du Canada atlantique](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md)]
 
 
 
 
-## Maintien de la société
-> [Abrogée, 2014, ch. 20, art. 192]
+**PARTIE II** 
 
 
+**25 à 44** [Voir [Loi sur la Société d’expansion du Cap-Breton](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md)]
 
-**27** [Abrogé, 2014, ch. 20, art. 192]
 
 
 
-**28** [Abrogé, 2014, ch. 20, art. 192]
+**PARTIE III** 
+## Modifications corrélatives et connexes
 
 
+**45 à 56** [Modifications]
 
-**29** [Abrogé, 2014, ch. 20, art. 192]
 
 
 
-**30** [Abrogé, 2014, ch. 20, art. 192]
+## Entrée en vigueur
 
 
 
-**31** [Abrogé, 2014, ch. 20, art. 192]
+**Entrée en vigueur**
 
+<sup><a href='#G-5.7_fr_1'>[*]</a></sup>**57** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-
-**32** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-
-## Mission et pouvoirs
-> [Abrogée, 2014, ch. 20, art. 192]
-
-
-
-**33** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**34** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-
-## Dispositions financières
-> [Abrogée, 2014, ch. 20, art. 192]
-
-
-
-**35** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**36** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**37** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-
-## Dispositions générales
-> [Abrogée, 2014, ch. 20, art. 192]
-
-
-
-**38** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**39** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**40** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**41** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**42** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-**43** [Abrogé, 2014, ch. 20, art. 192]
-
-
-
-
-## Dispositions transitoires
-> [Abrogée, 2014, ch. 20, art. 192]
-
-
-
-**44** [Abrogé, 2014, ch. 20, art. 192]
+<a name='G-5.7_fr_1'><sup>*</sup></a>: [Note : Articles 1 à 24, 45 et 53 à 56 en vigueur le 15 septembre 1988, *voir* TR/88-152; articles 25 à 44 et 46 à 51 en vigueur le 1<sup>er</sup> décembre 1988, *voir* TR/88-140.]<br />
 
 
