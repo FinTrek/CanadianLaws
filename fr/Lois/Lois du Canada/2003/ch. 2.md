@@ -50,9 +50,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Définition de  ministre**
+**Définition de ministre**
 
-**2** Dans la présente loi,  ***ministre*** s’entend de tout membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+**2** Dans la présente loi, ***ministre*** s’entend de tout membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
 
 
 
@@ -649,6 +649,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#P-13-4_s40'>[*]</a></sup>**40** Les dispositions de la présente loi, à l’exception de l’article 38, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='P-13-4_s40'><sup>*</sup></a>: [Note : Article 38 en vigueur à la sanction le 19 mars 2003.]<br />
+<a name='P-13-4_s40'><sup>*</sup></a>: [Note : Article 38 en vigueur à la sanction le 19 mars 2003; articles 1 à 37 et 39 en vigueur le 15 juin 2003, *voir* TR/2003-129.]<br />
 
 
