@@ -82,81 +82,81 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***action plan*** means an action plan included in the public registry under subsection 50(3) and includes any amendment to it included in the public registry under section 52.
+***action plan*** means an action plan included in the public registry under subsection 50(3) and includes any amendment to it included in the public registry under section 52. (*plan d’action*)
 
-***alternative measures*** means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence.
+***alternative measures*** means measures, other than judicial proceedings, that are used to deal with a person who is alleged to have committed an offence. (*mesures de rechange*)
 
-***aquatic species*** means a wildlife species that is a fish, as defined in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), or a marine plant, as defined in section 47 of that Act.
+***aquatic species*** means a wildlife species that is a fish, as defined in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), or a marine plant, as defined in section 47 of that Act. (*espèce aquatique*)
 
-***Attorney General*** means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada.
+***Attorney General*** means the Attorney General of Canada or, for the purposes of sections 108 to 113, an agent of the Attorney General of Canada. (*procureur général*)
 
-***Canadian Endangered Species Conservation Council*** means the Council referred to in subsection 7(1).
+***Canadian Endangered Species Conservation Council*** means the Council referred to in subsection 7(1). (*Conseil canadien pour la conservation des espèces en péril*)
 
-***competent minister*** means 
-- **(a)** the Minister of Canadian Heritage with respect to individuals in or on federal lands that are administered by that Minister and that are national parks, national historic sites, national marine conservation areas or other protected heritage areas as those expressions are defined in subsection 2(1) of the  [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md);
+***competent minister*** means
+- **(a)** the Minister responsible for the Parks Canada Agency with respect to individuals in or on federal lands administered by that Agency;
 - **(b)** the Minister of Fisheries and Oceans with respect to aquatic species, other than individuals mentioned in paragraph (a); and
-- **(c)** the Minister of the Environment with respect to all other individuals.
+- **(c)** the Minister of the Environment with respect to all other individuals. (*ministre compétent*)
 
-***conveyance*** means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods.
+***conveyance*** means a vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods. (*moyen de transport*)
 
-***COSEWIC*** means the Committee on the Status of Endangered Wildlife in Canada established by section 14.
+***COSEWIC*** means the Committee on the Status of Endangered Wildlife in Canada established by section 14. (*COSEPAC*)
 
-***critical habitat*** means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species’ critical habitat in the recovery strategy or in an action plan for the species.
+***critical habitat*** means the habitat that is necessary for the survival or recovery of a listed wildlife species and that is identified as the species’ critical habitat in the recovery strategy or in an action plan for the species. (*habitat essentiel*)
 
-***emergency order*** means an order made under section 80.
+***emergency order*** means an order made under section 80. (*décret d’urgence*)
 
-***endangered species*** means a wildlife species that is facing imminent extirpation or extinction.
+***endangered species*** means a wildlife species that is facing imminent extirpation or extinction. (*espèce en voie de disparition*)
 
-***extirpated species*** means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild.
+***extirpated species*** means a wildlife species that no longer exists in the wild in Canada, but exists elsewhere in the wild. (*espèce disparue du pays*)
 
-***federal land*** means
+***federal land*** means
 - **(a)** land that belongs to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above that land;
 - **(b)** the internal waters of Canada and the territorial sea of Canada; and
-- **(c)** reserves and any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves and lands.
+- **(c)** reserves and any other lands that are set apart for the use and benefit of a band under the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves and lands. (*territoire domanial*)
 
-***habitat*** means
+***habitat*** means
 - **(a)** in respect of aquatic species, spawning grounds and nursery, rearing, food supply, migration and any other areas on which aquatic species depend directly or indirectly in order to carry out their life processes, or areas where aquatic species formerly occurred and have the potential to be reintroduced; and
-- **(b)** in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced.
+- **(b)** in respect of other wildlife species, the area or type of site where an individual or wildlife species naturally occurs or depends on directly or indirectly in order to carry out its life processes or formerly occurred and has the potential to be reintroduced. (*habitat*)
 
-***individual*** means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules.
+***individual*** means an individual of a wildlife species, whether living or dead, at any developmental stage and includes larvae, embryos, eggs, sperm, seeds, pollen, spores and asexual propagules. (*individu*)
 
-***land claims agreement*** means a land claims agreement within the meaning of section 35 of the Constitution Act, 1982.
+***land claims agreement*** means a land claims agreement within the meaning of section 35 of the Constitution Act, 1982. (*accord sur des revendications territoriales*)
 
-***List*** means the List of Wildlife Species at Risk set out in Schedule 1.
+***List*** means the List of Wildlife Species at Risk set out in Schedule 1. (*liste*)
 
-***listed*** means listed on the List.
+***listed*** means listed on the List. (*inscrite*)
 
-***Minister*** means the Minister of the Environment.
+***Minister*** means the Minister of the Environment. (*ministre*)
 
-***offence*** means an offence under this Act.
+***offence*** means an offence under this Act. (*infraction*)
 
-***provincial minister*** means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province.
+***provincial minister*** means any minister of the government of a province who is responsible for the conservation and management of a wildlife species in that province. (*ministre provincial*)
 
-***public registry*** means the registry established under section 120.
+***public registry*** means the registry established under section 120. (*registre*)
 
-***recovery strategy*** means a recovery strategy included in the public registry under subsection 43(2), and includes any amendment to it included in the public registry under section 45.
+***recovery strategy*** means a recovery strategy included in the public registry under subsection 43(2), and includes any amendment to it included in the public registry under section 45. (*programme de rétablissement*)
 
-***residence*** means a dwelling-place, such as a den, nest or other similar area or place, that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating.
+***residence*** means a dwelling-place, such as a den, nest or other similar area or place, that is occupied or habitually occupied by one or more individuals during all or part of their life cycles, including breeding, rearing, staging, wintering, feeding or hibernating. (*résidence*)
 
-***sell*** includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease.
+***sell*** includes to offer for sale or lease, have in possession for sale or lease or deliver for sale or lease. (*vente*)
 
-***species at risk*** means an extirpated, endangered or threatened species or a species of special concern.
+***species at risk*** means an extirpated, endangered or threatened species or a species of special concern. (*espèce en péril*)
 
-***species of special concern*** means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats.
+***species of special concern*** means a wildlife species that may become a threatened or an endangered species because of a combination of biological characteristics and identified threats. (*espèce préoccupante*)
 
-***status report*** means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge.
+***status report*** means a report, prepared in accordance with the requirements of regulations made under subsection 21(2), that contains a summary of the best available information on the status of a wildlife species, including scientific knowledge, community knowledge and aboriginal traditional knowledge. (*rapport de situation*)
 
-***territorial minister*** means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory.
+***territorial minister*** means any minister of the government of a territory who is responsible for the conservation and management of a wildlife species in that territory. (*ministre territorial*)
 
-***threatened species*** means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction.
+***threatened species*** means a wildlife species that is likely to become an endangered species if nothing is done to reverse the factors leading to its extirpation or extinction. (*espèce menacée*)
 
-***treaty*** means a treaty within the meaning of section 35 of the Constitution Act, 1982.
+***treaty*** means a treaty within the meaning of section 35 of the Constitution Act, 1982. (*traité*)
 
-***wildlife management board*** means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species.
+***wildlife management board*** means any board or other body established under a land claims agreement that is authorized by the agreement to perform functions in respect of wildlife species. (*conseil de gestion des ressources fauniques*)
 
-***wildlife species*** means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and
+***wildlife species*** means a species, subspecies, variety or geographically or genetically distinct population of animal, plant or other organism, other than a bacterium or virus, that is wild by nature and
 - **(a)** is native to Canada; or
-- **(b)** has extended its range into Canada without human intervention and has been present in Canada for at least 50 years.
+- **(b)** has extended its range into Canada without human intervention and has been present in Canada for at least 50 years. (*espèce sauvage*)
 
 **Deeming**
 
@@ -165,7 +165,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Competent minister**
 
 - **(3)** A reference to a competent minister in any provision of this Act is to be read as a reference to the competent minister in respect of the wildlife species, or the individuals of the wildlife species, to which the provision relates.
-> 2002, c. 29, ss. 2, 141.1.
+> 2002, c. 29, ss. 2, 141.1; 2005, c. 2, s. 14.
 
 
 
@@ -221,13 +221,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **7** 
 
-- **(1)** The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister of Canadian Heritage and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory.
+- **(1)** The Canadian Endangered Species Conservation Council consists of the Minister of the Environment, the Minister of Fisheries and Oceans, the Minister responsible for the Parks Canada Agency and ministers of the government of a province or a territory who are responsible for the conservation and management of a wildlife species in that province or territory.
 
 **Role**
 
 - **(2)** The role of the Canadian Endangered Species Conservation Council is to
 	- **(a)** provide general direction on the activities of COSEWIC, the preparation of recovery strategies and the preparation and implementation of action plans; and
 	- **(b)** coordinate the activities of the various governments represented on the Council relating to the protection of species at risk.
+> 2002, c. 29, s. 7; 2005, c. 2, s. 15.
+
 
 
 
@@ -244,11 +246,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Delegation**
 
-- **(2)** The Minister, the Minister of Canadian Heritage or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister’s powers or functions under this Act, relating to its enforcement.
+- **(2)** The Minister, the Minister responsible for the Parks Canada Agency or the Minister of Fisheries and Oceans may, after consultation with the other two ministers, delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any of that Minister’s powers or functions under this Act, relating to its enforcement.
 
 **Agreement and reporting obligation**
 
 - **(3)** The delegation must be the subject of an agreement between the delegating minister and the delegate and the agreement must provide that the delegate is to prepare an annual report for the delegating minister on the activities undertaken under the agreement. A copy of the agreement must be included in the public registry within 45 days after it is entered into, and a copy of every annual report must be included in the public registry within 45 days after it is received by the delegating minister.
+> 2002, c. 29, s. 8; 2005, c. 2, s. 16.
+
 
 
 
@@ -266,11 +270,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **9** 
 
-- **(1)** The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act.
+- **(1)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, establish one or more committees to advise the Minister on the administration of this Act.
 
 **Advisory committees to assist Council**
 
-- **(2)** The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council’s role.
+- **(2)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, establish one or more committees to advise the Council on matters related to the Council’s role.
+> 2002, c. 29, s. 9; 2005, c. 2, s. 17.
+
 
 
 
@@ -480,7 +486,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Content**
 
-- **(2)** The Minister may, after consultation with COSEWIC, the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports.
+- **(2)** The Minister may, after consultation with COSEWIC, the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations establishing the content of status reports.
+> 2002, c. 29, s. 21; 2005, c. 2, s. 18.
+
 
 
 
@@ -493,7 +501,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(2)** The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC.
+- **(2)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC.
+> 2002, c. 29, s. 22; 2005, c. 2, s. 19.
+
 
 
 
@@ -593,11 +603,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(3)** The Minister may, after consultation with the Minister of Canadian Heritage, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC.
+- **(3)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans and the Canadian Endangered Species Conservation Council, make regulations respecting the making of applications to COSEWIC under subsection (1) and the dealing with of those applications by COSEWIC.
 
 **Notice**
 
 - **(4)** COSEWIC must provide the applicant, the Minister and the Canadian Endangered Species Conservation Council with a copy of its assessment. A copy of the assessment must be included in the public registry.
+> 2002, c. 29, s. 28; 2005, c. 2, s. 20.
+
 
 
 
@@ -819,7 +831,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(4)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy.
+- **(4)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(e) prescribing matters to be included in a recovery strategy.
+> 2002, c. 29, s. 41; 2005, c. 2, s. 21.
+
 
 
 
@@ -939,7 +953,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(f) prescribing matters to be included in an action plan.
+- **(2)** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph (1)(f) prescribing matters to be included in an action plan.
+> 2002, c. 29, s. 49; 2005, c. 2, s. 22.
+
 
 
 
@@ -1412,7 +1428,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(10)** The Minister may, after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations respecting the entering into of agreements, the issuance of permits and the renewal, revocation, amendment and suspension of agreements and permits.
+- **(10)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations respecting the entering into of agreements, the issuance of permits and the renewal, revocation, amendment and suspension of agreements and permits.
+> 2002, c. 29, s. 73; 2005, c. 2, s. 23.
+
 
 
 
@@ -1607,7 +1625,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-**84** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph 83(5)(g).
+**84** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations for the purpose of paragraph 83(5)(g).
+> 2002, c. 29, s. 84; 2005, c. 2, s. 24.
+
 
 
 
@@ -2241,14 +2261,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-**121** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations respecting the form of the public registry, the keeping of the public registry and access to it.
+**121** The Governor in Council may, on the recommendation of the Minister after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations respecting the form of the public registry, the keeping of the public registry and access to it.
+> 2002, c. 29, s. 121; 2005, c. 2, s. 25.
+
 
 
 
 
 **Protection from proceedings**
 
-**122** Despite any other Act of Parliament, no civil or criminal proceedings may be brought against Her Majesty in right of Canada, the Minister, the Minister of Canadian Heritage, the Minister of Fisheries and Oceans or any person acting on behalf of or under the direction of any of them for the full or partial disclosure in good faith of any notice or other document through the public registry or any consequences of its disclosure.
+**122** Despite any other Act of Parliament, no civil or criminal proceedings may be brought against Her Majesty in right of Canada, the Minister, the Minister responsible for the Parks Canada Agency, the Minister of Fisheries and Oceans or any person acting on behalf of or under the direction of any of them for the full or partial disclosure in good faith of any notice or other document through the public registry or any consequences of its disclosure.
+> 2002, c. 29, s. 122; 2005, c. 2, s. 25.
+
 
 
 
@@ -2283,7 +2307,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **125** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister of Canadian Heritage and the Minister of Fisheries and Oceans, make regulations
+- **(1)** The Governor in Council may, on the recommendation of the Minister and the President of the Treasury Board, after the Minister has consulted the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations
 	- **(a)** prescribing the fees and charges, or the manner of determining them, that may be charged for agreements or permits under section 73, for amendments to or for the renewal of such agreements or permits, for copies of documents in the public registry and for the inclusion of a document in the public registry;
 	- **(b)** exempting any person or class of persons from the requirement to pay any of those fees or charges; and
 	- **(c)** generally, in respect of any condition or any other matter in relation to the payment of those fees or charges.
@@ -2291,6 +2315,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Recovery of fees**
 
 - **(2)** A fee or charge required by the regulations to be paid constitutes a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+> 2002, c. 29, s. 125; 2005, c. 2, s. 26.
+
 
 
 
