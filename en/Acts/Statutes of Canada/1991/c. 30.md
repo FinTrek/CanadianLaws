@@ -673,9 +673,9 @@ Copyright Board<br />- <i>Commission du droit d’auteur</i>
 
 Correctional Service of Canada<br />- <i>Service correctionnel du Canada</i>
 
-Economic Council of Canada<br />- <i>Conseil économique du Canada</i>
+Courts Administration Service<br />- <i>Service administratif des tribunaux judiciaires</i>
 
-Federal Court of Canada, Staff of<br />- <i>Cour fédérale du Canada, Personnel de la</i>
+Economic Council of Canada<br />- <i>Conseil économique du Canada</i>
 
 Federal Environmental Assessment Review Office<br />- <i>Bureau fédéral d’examen des évaluations environnementales</i>
 
@@ -785,8 +785,6 @@ Statistics Canada<br />- <i>Statistique Canada</i>
 
 Supreme Court of Canada, Staff of<br />- <i>Cour suprême du Canada, Personnel de la</i>
 
-Tax Court of Canada<br />- <i>Cour canadienne de l’impôt</i>
-
 Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d'appel des transports du Canada</i>
 
 Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des transports Canada</i>
@@ -794,7 +792,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163.
 
 
 
