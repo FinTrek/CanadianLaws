@@ -342,29 +342,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
-**Sponsorship promotion**
+**Prohibition — sponsorship promotion**
 
-**24** 
+**24** No person may display a tobacco product-related brand element or the name of a tobacco manufacturer in a promotion that is used, directly or indirectly, in the sponsorship of a person, entity, event, activity or permanent facility.
+> 1997, c. 13, s. 24; 1998, c. 38, s. 1.
 
-- **(1)** Subject to the regulations and subsections (2) and (3), a person may display a tobacco product-related brand element in a promotion that is used in the sponsorship of a person, entity, event, activity or permanent facility if the person, entity, event, activity or facility
-	- **(a)** is associated with young persons or could be construed on reasonable grounds to be appealing to young persons or if young persons are its primary beneficiaries; or
-	- **(b)** is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
-
-**Display of brand element**
-
-- **(2)** A person may display a tobacco product-related brand element only within the bottom ten per cent of the display surface of any promotional material.
-
-**Promotional materials**
-
-- **(3)** A person may use promotional material that conforms with subsection (2) and that displays tobacco product-related brand elements
-	- **(a)** in a publication that is provided by mail and addressed to an adult who is identified by name;
-	- **(b)** in a publication that has an adult readership of not less than eighty-five per cent;
-	- **(c)** in signs or programs available on the site of the event, activity or permanent facility; or
-	- **(d)** in signs in a place where young persons are not permitted by law.
-
-**Other sponsorship**
-
-- **(4)** Where the criteria described in paragraphs (1)(a) and (b) do not apply to a sponsorship, a person may, subject to the regulations, use a tobacco product-related brand element in the promotion of the sponsorship.
 
 
 
@@ -469,14 +451,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **33** The Governor in Council may make regulations
 - **(a)** respecting the promotion of tobacco products and tobacco product-related brand elements and the packaging of tobacco products, including the form, manner and conditions of the promotion and packaging, and the promotion of services and non-tobacco products for the purposes of section 28;
 - **(b)** respecting the advertisement of tobacco products for the purposes of subsection 22(2);
-- **(c)** respecting the use of tobacco product-related brand elements for the purposes of subsection 24(4);
-- **(d)** prescribing the manner in which a tobacco product-related brand element may appear on a permanent facility;
+- **(c) and (d)** [Repealed, 1998, c. 38, s. 3]
 - **(e)** respecting, for the purposes of subsection 26(1), the manner in which a tobacco product-related brand element may appear on an accessory;
 - **(f)** respecting the display of tobacco products and accessories at retail;
 - **(g)** respecting signs that a retailer may post under subsection 30(2), including the placement of the signs and their number, size and content;
 - **(h)** requiring manufacturers to disclose the particulars of their tobacco product-related brand elements and promotional activities;
 - **(i)** prescribing anything that by this Part is to be prescribed; and
 - **(j)** generally for carrying out the purposes of this Part.
+> 1997, c. 13, s. 33; 1998, c. 38, s. 3.
+
 
 
 
