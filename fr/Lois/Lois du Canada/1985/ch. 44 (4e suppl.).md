@@ -101,6 +101,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les membres du conseil d’une bande, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou d’une bande indienne constituée aux termes d’une loi fédérale, leur personnel ainsi que leurs employés;
 	- **d.1)** les membres du corps dirigeant prévu par la constitution d’une première nation dont le nom figure à l’annexe II de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md), leur personnel ainsi que leurs employés;
 	- **d.2)** les membres du gouvernement nisga’a, au sens de l’Accord définitif nisga’a mis en vigueur par la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), leur personnel ou les employés de la Nation nisga’a, d’un village nisga’a ou d’une institution nisga’a, au sens de l’accord;
+	- **d.3)** les membres du conseil — au sens de l'Accord d'autonomie gouvernementale de la première nation de Westbank mis en vigueur par la Loi sur l'autonomie gouvernementale de la première nation de Westbank —, leur personnel ainsi que celui du conseil;
 	- **e)** les agents diplomatiques, fonctionnaires consulaires et représentants officiels au Canada d’un gouvernement étranger;
 	- **f)** les fonctionnaires d’une agence spécialisée des Nations Unies au Canada ou d’une autre organisation internationale à qui des privilèges et immunités sont accordés sous le régime d’une loi fédérale.
 
@@ -114,7 +115,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(3)** La présente loi n’a pas pour effet d’exiger la divulgation du nom ou de l’identité d’un individu lorsque cela risquerait vraisemblablement de nuire à sa sécurité.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 4; 1994, ch. 35, art. 36; 1995, ch. 12, art. 2; 2000, ch. 7, art. 24.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 4; 1994, ch. 35, art. 36; 1995, ch. 12, art. 2; 2000, ch. 7, art. 24; 2004, ch. 17, art. 17.
 
 
 
