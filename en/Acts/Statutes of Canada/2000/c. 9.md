@@ -9640,6 +9640,9 @@ Manitoba
 The City of Winnipeg Act, S.M. 1989-90, c. 10
 
 
+The Elections Act, R.S.M. 1987, c. E30 
+
+
 The Highway Traffic Act, S.M. 1985-86, c. 3
 
 
@@ -9688,6 +9691,9 @@ Vital Statistics Act, R.S.N.W.T. 1988, c. V-3
 Nova Scotia
 
 
+Elections Act, R.S.N.S. 1989, c. 140 
+
+
 Motor Vehicle Act, R.S.N.S. 1989, c. 293
 
 
@@ -9724,6 +9730,9 @@ Vital Statistics Act, R.S.O. 1990, c. V.4
 Prince Edward Island
 
 
+Election Act, R.S.P.E.I. 1988, c. E-1.1 
+
+
 Highway Traffic Act, R.S.P.E.I. 1988, c. H-5
 
 
@@ -9739,10 +9748,13 @@ Québec
 Election Act, R.S.Q., c. E-3.3
 
 
-*Highway Safety Code*, R.S.Q., c. C-24.2
+Highway Safety Code, R.S.Q., c. C-24.2
 
 
 Saskatchewan
+
+
+The Election Act, 1996, S.S. 1996, c. E-6.01
 
 
 The Highway Traffic Act, S.S. 1986, c. H-3.1
@@ -9757,6 +9769,9 @@ The Vital Statistics Act, S.S. 1995, c. V-7.1
 Yukon Territory
 
 
+Elections Act, S.Y. 1999, c. 13 
+
+
 Motor Vehicles Act, R.S.Y. 1986, c. 118
 
 
@@ -9769,21 +9784,7 @@ OTHER SOURCES OF INFORMATION
 Canada Post Corporation’s National Change of Address Database
 
 
-September 21, 2001
-
-
-<table>
-<tr>
-<td></td>
-<td>JEAN-PIERRE KINGSLEY</td>
-</tr>
-<tr>
-<td></td>
-<td>Chief Electoral Officer</td>
-</tr>
-</table>
-
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1. .
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; Canada Gazette Part I, Volume 137, page 685.
 
 
 
