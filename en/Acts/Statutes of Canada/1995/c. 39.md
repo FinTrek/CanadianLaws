@@ -41,13 +41,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***authorization to carry*** means an authorization described in section 20;
 
+
 ***authorization to export*** means an authorization referred to in section 44;
+
 
 ***authorization to import*** means an authorization referred to in section 46;
 
+
 ***authorization to transport*** means an authorization described in section 18 or 19;
 
+
 ***business*** means a person who carries on a business that includes
+
 - **(a)** the manufacture, assembly, possession, purchase, sale, importation, exportation, display, repair, restoration, maintenance, storage, alteration, pawnbroking, transportation, shipping, distribution or delivery of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition,
 - **(b)** the possession, purchase or sale of ammunition, or
 - **(c)** the purchase of cross-bows
@@ -56,42 +61,61 @@ and includes a museum;
 
 ***carrier*** means a person who carries on a transportation business that includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition or prohibited ammunition;
 
+
 ***chief firearms officer*** means
+
 - **(a)** in respect of a province, the individual who is designated in writing as the chief firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, the individual who is designated in writing as the chief firearms officer for the territory by the federal Minister, or
 - **(c)** in respect of any matter for which there is no chief firearms officer under paragraph (a) or (b), the individual who is designated in writing as the chief firearms officer for the matter by the federal Minister;
 
 ***commencement day***, in respect of a provision of this Act or the expression “former Act” in a provision of this Act, means the day on which the provision comes into force;
 
-***customs office*** has the meaning assigned by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 
-***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+***Commissioner*** means the Commissioner of Firearms appointed under section 81.1;
+
+
+***customs office*** has the meaning assigned by subsection 2(1) of the 
+[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+
+
+***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the 
+[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+
 
 ***federal Minister*** means the Minister of Justice;
 
+
 ***firearms officer*** means
+
 - **(a)** in respect of a province, an individual who is designated in writing as a firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, an individual who is designated in writing as a firearms officer for the territory by the federal Minister, or
 - **(c)** in respect of any matter for which there is no firearms officer under paragraph (a) or (b), an individual who is designated in writing as a firearms officer for the matter by the federal Minister;
 
-***former Act*** means Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day;
+***former Act*** means Part III of the 
+[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day;
+
 
 ***museum*** means a person who operates a museum
+
 - **(a)** in which firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition are possessed, bought, displayed, repaired, restored, maintained, stored or altered, or
 - **(b)** in which ammunition is possessed or bought;
 
 ***non-resident*** means an individual who ordinarily resides outside Canada;
 
+
 ***prescribed*** means
+
 - **(a)** in the case of a form or the information to be included on a form, prescribed by the federal Minister, and
 - **(b)** in any other case, prescribed by the regulations;
 
 ***provincial minister*** means
+
 - **(a)** in respect of a province, the member of the executive council of the province who is designated by the lieutenant governor in council of the province as the provincial minister,
 - **(b)** in respect of a territory, the federal Minister, or
 - **(c)** in respect of any matter for which there is no provincial minister under paragraph (a) or (b), the federal Minister;
 
 ***regulations*** means regulations made by the Governor in Council under section 117.
+
 
 **To be interpreted with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
@@ -100,7 +124,7 @@ and includes a museum;
 **Aboriginal and treaty rights**
 
 - **(3)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing aboriginal or treaty rights of the aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
-> 1995, c. 39, s. 2; 2001, c. 4, s. 85
+> 1995, c. 39, s. 2; 2001, c. 4, s. 85; 2003, c. 8, s. 9
 
 
 
@@ -1457,6 +1481,55 @@ the applicant for or holder of the licence, registration certificate, authorizat
 
 
 
+## Commissioner of Firearms
+
+
+
+**Appointment**
+
+**81.1** The Governor in Council may appoint a person to be known as the Commissioner of Firearms to hold office during pleasure. The Commissioner shall be paid such remuneration as the Governor in Council may fix.
+> 2003, c. 8, s. 48
+
+
+
+
+
+**Duties, functions and powers**
+
+**81.2** Subject to any direction that the federal Minister may give, the Commissioner may exercise the powers and shall perform the duties and functions relating to the administration of this Act that are delegated to the Commissioner by the federal Minister.
+> 2003, c. 8, s. 48
+
+
+
+
+
+**Delegation — federal Minister**
+
+**81.3** The federal Minister may delegate to the Commissioner any duty, function or power conferred on the federal Minister under this Act, except the power to delegate under this section and the power under subsections 97(2) and (3).
+> 2003, c. 8, s. 48
+
+
+
+
+
+**Incapacity or vacancy**
+
+**81.4** In the event of the absence or incapacity of, or vacancy in the office of, the Commissioner, the federal Minister may appoint a person to perform the duties and functions and exercise the powers of the Commissioner, but no person may be so appointed for a term of more than 60 days without the approval of the Governor in Council.
+> 2003, c. 8, s. 48
+
+
+
+
+
+**Superannuation and compensation**
+
+**81.5** The Commissioner shall be deemed to be a person employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2003, c. 8, s. 48
+
+
+
+
+
 ## Canadian Firearms Registration System
 
 
@@ -1465,9 +1538,20 @@ the applicant for or holder of the licence, registration certificate, authorizat
 
 
 
-**Appointment of Registrar of Firearms**
+**Registrar of Firearms**
 
-**82** The Commissioner of the Royal Canadian Mounted Police shall, after consulting with the federal Minister and the Solicitor General of Canada, appoint an individual as the Registrar of Firearms.
+**82** An individual to be known as the Registrar of Firearms shall be appointed or deployed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+> 1995, c. 39, s. 82; 2003, c. 8, s. 49
+
+
+
+
+
+**Incapacity or vacancy**
+
+**82.1** In the event of the absence or incapacity of, or vacancy in the position of, the Registrar, the Commissioner may perform the duties and functions and exercise the powers of the Registrar.
+> 2003, c. 8, s. 49
+
 
 
 
@@ -1624,22 +1708,26 @@ the applicant for or holder of the licence, registration certificate, authorizat
 
 
 
-**Report to Solicitor General**
+**Report to federal Minister**
 
 **93** 
 
-- **(1)** The Registrar shall, as soon as possible after the end of each calendar year and at such other times as the Solicitor General of Canada may, in writing, request, submit to the Solicitor General a report, in such form and including such information as the Solicitor General may direct, with regard to the administration of this Act.
+- **(1)** The Commissioner shall, as soon as possible after the end of each calendar year and at any other times that the federal Minister may in writing request, submit to the federal Minister a report, in the form and including the information that the federal Minister may direct, with regard to the administration of this Act.
 
-**Laid before Parliament**
+**Report to be laid before Parliament**
 
-- **(2)** The Solicitor General of Canada shall have each report laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Solicitor General receives it.
+- **(2)** The federal Minister shall have each report laid before each House of Parliament on any of the first 15 days on which that House is sitting after the federal Minister receives it.
+> 1995, c. 39, s. 93; 2003, c. 8, s. 50
 
 
 
 
-**Information to be submitted to Registrar**
 
-**94** A chief firearms officer shall submit the prescribed information with regard to the administration of this Act at the prescribed time and in the prescribed form for the purpose of enabling the Registrar to compile the reports referred to in section 93.
+**Information to be submitted to Commissioner**
+
+**94** A chief firearms officer shall submit to the Commissioner the prescribed information with regard to the administration of this Act at the prescribed time and in the prescribed form for the purpose of enabling the Commissioner to compile the reports referred to in section 93.
+> 1995, c. 39, s. 94; 2003, c. 8, s. 50
+
 
 
 
