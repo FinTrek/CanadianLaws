@@ -254,6 +254,8 @@ Il est en outre déclaré que la présente loi vise la réalisation de ceux de c
 **Indemnisation**
 
 - **(3)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), les membres sont réputés appartenir à l’administration publique fédérale.
+> 1996, ch. 10, art. 12; 2003, ch. 22, art. 224(A) et 225(A).
+
 
 
 
@@ -3221,6 +3223,8 @@ où
 **Fonctions et attributions**
 
 - **(3)** L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
+> 1996, ch. 10, art. 157.1; 2003, ch. 22, art. 224(A).
+
 
 
 
