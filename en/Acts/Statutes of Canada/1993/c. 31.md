@@ -351,8 +351,8 @@ Version anglaise seulement***member*** means a member of the Round Table appoint
 
 **Compensation**
 
-**21** The President and employees of the Round Table are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 1993, c. 31, s. 21; 2004, c. 16, s. 24.
+**21** The President and employees of the Round Table are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 1993, c. 31, s. 21; 2003, c. 22, s. 224(E); 2004, c. 16, ss. 24, 31(E).
 
 
 
