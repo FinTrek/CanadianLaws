@@ -1696,8 +1696,9 @@ and may specify in the licence any restriction as to the classes of goods that m
 **43.1** 
 
 - **(1)** Any officer, or any officer within a class of officers, designated by the Minister for the purposes of this section shall, before goods are imported, on application by any member of a prescribed class that is made within the prescribed time, in the prescribed manner and in the prescribed form containing the prescribed information, give an advance ruling with respect to
-	- **(a)** whether the goods qualify as originating goods and are entitled to the benefit of preferential tariff treatment under a free trade agreement; and
-	- **(b)** in the case of goods exported from a NAFTA country, from Chile or from Costa Rica, any other matter concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA or in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA, as the case may be.
+	- **(a)** whether the goods qualify as originating goods and are entitled to the benefit of preferential tariff treatment under a free trade agreement;
+	- **(b)** in the case of goods exported from a NAFTA country, from Chile or from Costa Rica, any other matter concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA or in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA, as the case may be; and
+	- **(c)** the tariff classification of the goods.
 
 **Regulations**
 
@@ -1706,7 +1707,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 28, s. 28.
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28.
 
 
 
@@ -2516,12 +2517,12 @@ may, within ninety days after the date a decision is made under section 67, appe
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court,
-- **(c)** in the Provinces of Nova Scotia and British Columbia, the Yukon Territory and the Northwest Territories, the Supreme Court,
+- **(c)** in the Provinces of Nova Scotia and British Columbia, in Yukon and in the Northwest Territories, the Supreme Court,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
 - **(e)** [Repealed, 1992, c. 51, s. 44]
 - **(f)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court, and
 - **(g)** in Nunavut, the Nunavut Court of Justice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59.
+> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152.
 
 
 
