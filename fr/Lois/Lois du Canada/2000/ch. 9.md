@@ -7839,11 +7839,13 @@ La demande est notifiée au directeur général des élections.
 
 - **(2)** Le montant visé à l’alinéa (1)d) est le moins élevé des montants suivants :
 	- **a)** 50 % de la somme des dépenses électorales payées et des dépenses personnelles payées, exposées dans le compte de campagne électorale du candidat, moins le remboursement partiel déjà reçu au titre de l’article 464;
-	- **b)** 50 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 440.
+	- **b)** 50 % du plafond des dépenses électorales établi pour la circonscription au titre de l’article 440, moins le remboursement partiel déjà reçu au titre de l’article 464.
 
 **Versement à l’agent officiel**
 
 - **(3)** Sur réception du certificat, le receveur général verse à l’agent officiel, sur le Trésor, le montant visé à l’alinéa (1)d) relativement au candidat.
+> 2000, ch. 9, art. 465; 2003, ch. 19, art. 49.
+
 
 
 
