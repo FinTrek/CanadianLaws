@@ -174,8 +174,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Acceptance of oaths, etc.**
 
 - **(3)** The Minister may accept, for the purpose of the administration of this Act, any oath administered or any affidavit, declaration or solemn affirmation taken or received by any person who has the powers of a commissioner for taking affidavits and who is an officer or employee of
-	- **(a)** a department or other portion of the public service of Canada specified in Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md); or
+	- **(a)** a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), or
 	- **(b)** a department of the government of a province.
+> 2003, c. 14, ss. 10, 22.
+
 
 
 
