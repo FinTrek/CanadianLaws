@@ -850,6 +850,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Indemnisation**
 
 **44** Le directeur et les employés du Centre sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2000, ch. 17, art. 44; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -910,13 +912,15 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(2)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) n’a pas pour effet de porter atteinte au droit ou au pouvoir du directeur de régir les questions visées à l’alinéa (1)b).
 
-**Gestion du personnel**
+**Gestion des ressources humaines**
 
-- **(3)** Le paragraphe 11(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas au Centre; le directeur peut :
+- **(3)** Les paragraphes 11.1(1) et 12(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas au Centre; le directeur peut :
 	- **a)** déterminer l’organisation du Centre et la classification des postes au sein de celui-ci;
 	- **b)** fixer les conditions d’emploi — notamment en ce qui concerne le licenciement motivé — des employés et leur assigner des tâches;
-	- **c)** malgré l’article 56 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), conformément au mandat approuvé par le Conseil du Trésor, fixer la rémunération des employés du Centre;
-	- **d)** régler toute autre question dans la mesure où il l’estime nécessaire pour la bonne gestion du personnel du Centre.
+	- **c)** malgré l’article 112 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), conformément au mandat approuvé par le Conseil du Trésor, fixer la rémunération des employés du Centre;
+	- **d)** régler toute autre question dans la mesure où il l’estime nécessaire pour la bonne gestion des ressources humaines du Centre.
+> 2000, ch. 17, art. 49; 2003, ch. 22, art. 190 et 223(A).
+
 
 
 
@@ -934,7 +938,9 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Pouvoir**
 
-**51** Le ministère ou le secteur de l’administration publique fédérale visé à l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) peut, s’il l’estime indiqué, conclure avec le Centre un accord visant à fournir à celui-ci les services qu’il est autorisé à fournir à tout autre ministère ou secteur visé à cette annexe.
+**51** Le ministère ou le secteur de l’administration publique fédérale visé à l’une des annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) peut, s’il l’estime indiqué, conclure avec le Centre un accord visant à fournir à celui-ci les services qu’il est autorisé à fournir à tout autre ministère ou secteur visé à l’une de ces annexes.
+> 2000, ch. 17, art. 51; 2003, ch. 22, art. 191.
+
 
 
 
@@ -1514,6 +1520,8 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Choix de fournisseurs**
 
 **67** Par dérogation à l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), le Centre peut, avec l’agrément du gouverneur en conseil donné sur recommandation du Conseil du Trésor, obtenir des biens et services, notamment des services juridiques, à l’extérieur de l’administration publique fédérale.
+> 2000, ch. 17, art. 67; 2003, ch. 22, art. 224(A).
+
 
 
 
