@@ -61,7 +61,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** The powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to Canadian identity and values, cultural development, heritage and areas of natural or historical significance to the nation.
+- **(1)** The powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to Canadian identity and values, cultural development and heritage.
 
 **Idem**
 
@@ -70,7 +70,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** multiculturalism;
 	- **(c)** the arts, including cultural aspects of the status of the artist;
 	- **(d)** cultural heritage and industries, including performing arts, visual and audio-visual arts, publishing, sound recording, film, video and literature;
-	- **(e)** national parks, national historic sites, historic canals, national battlefields, national marine conservation areas, heritage railway stations and federal heritage buildings;
+	- **(e)** national battlefields;
 	- **(f)** the encouragement, promotion and development of sport;
 	- **(g)** the advancement of the equality of status and use of English and French and the enhancement and development of the English and French linguistic minority communities in Canada;
 	- **(h)** state ceremonial and Canadian symbols;
@@ -78,7 +78,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(j)** the formulation of cultural policy, including the formulation of cultural policy as it relates to foreign investment and copyright;
 	- **(k)** the conservation, exportation and importation of cultural property; and
 	- **(l)** national museums, archives and libraries.
-> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F); 2003, c. 2, s. 37.
+> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F); 2003, c. 2, s. 37; 2005, c. 2, s. 1.
 
 
 
@@ -86,7 +86,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **General duties**
 
-**5** In exercising the powers and performing the duties and functions assigned to the Minister by section 4, the Minister shall initiate, recommend, coordinate, implement and promote national policies, projects and programs with respect to Canadian identity and values, cultural development, heritage and areas of natural or historical significance to the nation.
+**5** In exercising the powers and performing the duties and functions assigned to the Minister by section 4, the Minister shall initiate, recommend, coordinate, implement and promote national policies, projects and programs with respect to Canadian identity and values, cultural development and heritage.
+> 1995, c. 11, s. 5; 2005, c. 2, s. 2.
+
 
 
 
