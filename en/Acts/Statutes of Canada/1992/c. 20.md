@@ -69,7 +69,7 @@ Version anglaise seulement***institutional head***, in relation to a penitentiar
 
 ***long-term supervision*** means long-term supervision ordered under paragraph 753.1(3)(b), or subparagraph 759(3)(a)(i), 759(4)(a)(ii) or 759(4.2)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 
-***Minister*** means the Solicitor General of Canada;
+***Minister*** means the Minister of Public Safety and Emergency Preparedness;
 
 ***offender*** means
 - **(a)** an inmate, or
@@ -105,7 +105,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34
 
 
 
@@ -3752,7 +3752,7 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 ***penitentiary*** has the same meaning as in Part I;
 
 ***provincial parole board*** has the same meaning as in Part II.
-> 1992, c. 20, s. 157; 1997, c. 17, s. 36
+> 1992, c. 20, s. 157; 1997, c. 17, s. 36; 2005, c. 10, s. 17(F)
 
 
 
