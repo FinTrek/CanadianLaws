@@ -205,7 +205,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le conseil d’administration peut, par son règlement intérieur :
 	- **a)** régir l’élection des administrateurs de la fondation et prévoir la durée de leur mandat;
-	- **b)** créer des postes de dirigeant, d’employé et de préposé de la fondation, et prévoir les fonctions et pouvoirs de leurs titulaires respectifs ainsi que la rémunération et les indemnités de ceux-ci;
+	- **b)** prévoir la nomination des dirigeants, employés et mandataires de la fondation, leurs fonctions et pouvoirs respectifs ainsi que leur rémunération et leurs indemnités;
 	- **c)** prévoir la constitution et le fonctionnement d’un comité de direction et de comités spéciaux;
 	- **d)** créer diverses catégories de membres et déterminer les qualités requises d’eux, leurs droits et obligations ainsi que la cotisation exigible d’eux;
 	- **e)** régir l’exercice des pouvoirs d’une filiale constituée en application du paragraphe 17(1), la désignation de ses membres, l’élection de ses administrateurs et prévoir la durée de leur mandat;
@@ -214,6 +214,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation des membres**
 
 - **(2)** Les dispositions du règlement intérieur sont inopérantes tant qu’elles n’ont pas été approuvées par les deux tiers des membres ayant voix délibérative qui sont présents à une assemblée générale.
+> 1980-81-82-83, ch. 85, art. 16; 2004, ch. 25, art. 144.
+
 
 
 
@@ -274,7 +276,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Utilisation des fonds de la fondation**
 
-**21** La fondation, sous réserve des dispositions du règlement intérieur prévoyant la rémunération et les indemnités de ses dirigeants, employés ou préposés, affecte les bénéfices et plus-values provenant de ses biens à la promotion de ses activités; aucune partie de son patrimoine ne peut être distribuée, directement ou indirectement, à ses membres.
+**21** La fondation, sous réserve des dispositions du règlement intérieur prévoyant la rémunération et les indemnités de ses dirigeants, employés ou mandataires, affecte les bénéfices et plus-values provenant de ses biens à la promotion de ses activités; aucune partie de ses biens ou de ses bénéfices ne peut être distribuée, directement ou indirectement, à ses membres.
+> 1980-81-82-83, ch. 85, art. 21; 2004, ch. 25, art. 145.
+
 
 
 
