@@ -314,6 +314,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
 - **(3)** La partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas à la Fondation.
+> 1991, ch. 8, art. 17; 2003, ch. 22, art. 224(A).
+
 
 
 
