@@ -79,7 +79,7 @@ La présente définition vise également les personnes dont les limitations fonc
 ***représentants*** Les personnes que les salariés ont désignées pour les représenter ou, le cas échéant, les agents négociateurs des salariés.
 
 ***tribunal*** Le Tribunal de l’équité en matière d’emploi constitué en application du paragraphe 28(1).
-> 1993, ch. 28, art. 78; 1995, ch. 44, art. 3; 1998, ch. 9, art. 37, ch. 15. art. 25.
+> 1993, ch. 28, art. 78; 1995, ch. 44, art. 3; 1998, ch. 9, art. 37, ch. 15. art. 25; 2002, ch. 7, art. 162(A).
 
 
 
