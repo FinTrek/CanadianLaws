@@ -110,7 +110,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(f.1)** provide business services and products that complement those available from the public and private sectors;
 	- **(f.2)** procure the incorporation, dissolution or amalgamation of subsidiaries and acquire or dispose of any shares in them;
 	- **(f.3)** provide lease financing for assets used or to be used in a farming operation or a business related to farming;
-	- **(f.4)** acquire and dispose of short- or medium-term equity interests in farming operations or in businesses related to farming, within parameters that are satisfactory to the Minister of Finance;
+	- **(f.4)** acquire and dispose of investments in farming operations or in businesses related to farming, including shares of corporations that carry on those operations or businesses, within parameters that are satisfactory to the Minister of Finance;
 	- **(f.41)** dispose of farmland acquired by it, provided that the disposal is at fair market value and is done as quickly as possible, and in any case no longer than five years, after the acquisition;
 	- **(f.5)** provide its business and financial services and products, including loans, guarantees, lease financing and equity investments, directly, through arrangements with other persons or bodies or, in the case of financial services, as a member of a financing syndicate;
 	- **(g)** determine and charge interest on loans made by it and fees for guarantees given and services provided by it;
@@ -119,12 +119,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Idem**
 
-- **(3)** The Corporation may, in writing, determine which husbandry activities, other than those mentioned in the definition "farming" in section 2, constitute farming for the purposes of that definition.
+- **(3)** The Corporation may, in writing, determine which husbandry activities, other than those mentioned in the definition “farming” in section 2, constitute farming for the purposes of that definition.
 
 **Capacity**
 
 - **(4)** In carrying out its powers, the Corporation has the capacity of a natural person.
-> 1993, c. 14, s. 4; 1994, c. 38, s. 25; 2001, c. 22, s. 5.
+> 1993, c. 14, s. 4; 1994, c. 38, s. 25; 2001, c. 22, s. 5; 2003, c. 15, s. 41.
 
 
 
@@ -258,7 +258,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** 
 
-- **(1)** At the request of the Corporation, the Minister of Finance may, with the approval of the Governor in Council, pay to the Corporation, out of the Consolidated Revenue Fund, amounts not exceeding in the aggregate one billion, one hundred and seventy-five million dollars, or such greater aggregate amount as may be authorized from time to time under an appropriation Act.
+- **(1)** At the request of the Corporation, the Minister of Finance may, with the approval of the Governor in Council, pay to the Corporation, out of the Consolidated Revenue Fund, amounts not exceeding in the aggregate one billion, two hundred and twenty-five million dollars, or such greater aggregate amount as may be authorized from time to time under an appropriation Act.
 
 **Capital of the Corporation**
 
@@ -267,7 +267,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Reference to committee**
 
 - **(3)** Any provision of an appropriation Act authorizing an increase in the aggregate amount referred to in subsection (1) stands permanently referred to a committee of either or both Houses of Parliament established for the purpose of reviewing matters relating to agriculture.
-> 1993, c. 14, s. 11; 1997, c. 26, s. 93.
+> 1993, c. 14, s. 11; 1997, c. 26, s. 93; 2003, c. 15, s. 42.
 
 
 
