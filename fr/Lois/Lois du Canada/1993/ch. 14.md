@@ -89,8 +89,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs**
 
-- **(2)** Pour la réalisation de sa mission, la Société peut :
-	- **a)** consentir des prêts à toute personne ou tout organisme à l’une ou l’autre des fins suivantes, ou garantir des prêts consentis à ces fins :
+- **(2)** Pour la réalisation de sa mission, la Société peut :
+	- **a)** consentir des prêts à toute personne ou tout organisme à l’une ou l’autre des fins suivantes, ou garantir des prêts consentis à ces fins :
 		- **(i)** l’acquisition ou l’amélioration soit de biens agricoles immobiliers, soit de biens mobiliers destinés à l’exploitation agricole,
 		- **(ii)** la libération d’obligations ou la consolidation de dettes,
 		- **(iii)** le paiement de frais liés à l’exploitation agricole ou à l’entreprise liée à l’agriculture,
@@ -104,7 +104,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f.1)** offrir des services et produits commerciaux qui complètent ceux offerts dans les secteurs privé et public;
 	- **f.2)** assurer la constitution, la dissolution ou la fusion de filiales et en acquérir ou aliéner les actions;
 	- **f.3)** offrir du crédit-bail à l’égard de biens destinés à l’exploitation agricole ou à l’entreprise liée à l’agriculture;
-	- **f.4)** acquérir et aliéner, selon les paramètres que le ministre des Finances juge satisfaisants, des participations à court ou moyen terme dans l’exploitation agricole ou l’entreprise liée à l’agriculture;
+	- **f.4)** acquérir et aliéner, selon les paramètres que le ministre des Finances juge satisfaisants, des placements dans l’exploitation agricole ou l’entreprise liée à l’agriculture, notamment des actions de personnes morales dirigeant l’exploitation ou l’entreprise;
 	- **f.41)** vendre les terres agricoles qu’elle acquiert, à condition de les vendre à leur juste valeur marchande dès que possible et, en tout état de cause, au plus tard cinq ans après leur acquisition;
 	- **f.5)** offrir ses services et produits financiers et commerciaux — notamment sous la forme de prêts, de garanties, de crédit-bail ou d’investissements — soit directement, soit dans le cadre d’arrangements avec d’autres personnes ou organismes, soit, dans les cas de prestation de services financiers, à titre de membre d’un consortium financier;
 	- **g)** fixer le taux d’intérêt applicable aux prêts qu’elle consent et les frais afférents aux services qu’elle fournit, notamment les garanties qu’elle accorde;
@@ -118,7 +118,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Capacité**
 
 - **(4)** La Société a, dans l’exercice de ses pouvoirs, la capacité d’une personne physique.
-> 1993, ch. 14, art. 4; 1994, ch. 38, art. 25; 2001, ch. 22, art. 5.
+> 1993, ch. 14, art. 4; 1994, ch. 38, art. 25; 2001, ch. 22, art. 5; 2003, ch. 15, art. 41.
 
 
 
@@ -252,7 +252,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** Le ministre des Finances peut, à la demande de la Société et avec l’agrément du gouverneur en conseil, verser à celle-ci, sur le Trésor, des montants ne dépassant pas globalement un milliard cent soixante-quinze millions de dollars, ce total pouvant toutefois être augmenté par une loi de crédits.
+- **(1)** Le ministre des Finances peut, à la demande de la Société et avec l’agrément du gouverneur en conseil, verser à celle-ci, sur le Trésor, des montants ne dépassant pas globalement un milliard deux cent vingt-cinq millions de dollars, ce total pouvant toutefois être augmenté par une loi de crédits.
 
 **Capital**
 
@@ -261,7 +261,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi en comité**
 
 - **(3)** Le comité du Sénat, de la Chambre des communes ou mixte, chargé des questions d’agriculture est automatiquement saisi des dispositions d’une loi de crédits qui augmentent le total mentionné au paragraphe (1).
-> 1993, ch. 14, art. 11; 1997, ch. 26, art. 93.
+> 1993, ch. 14, art. 11; 1997, ch. 26, art. 93; 2003, ch. 15, art. 42.
 
 
 
