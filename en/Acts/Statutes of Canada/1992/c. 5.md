@@ -39,13 +39,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***designated airport authority*** means a corporation or other body designated pursuant to subsection (2);
+***designated airport authority*** means a corporation or other body designated pursuant to subsection (2); (*administration aéroportuaire désignée*)
 
-***designated employee***, for an airport, means an employee designated pursuant to subsection (3) as a designated employee for that airport;
+***designated employee***, for an airport, means an employee designated pursuant to subsection (3) as a designated employee for that airport; (*employé désigné*)
 
-***Minister*** means the Minister of Transport;
+***Minister*** means the Minister of Transport; (*ministre*)
 
-Version anglaise seulement***transfer date***, in respect of an airport, means the date designated pursuant to subsection (2) for that airport.
+***transfer date***, in respect of an airport, means the date designated pursuant to subsection (2) for that airport. (***Version anglaise seulement***)
 
 **Designations by Governor in Council**
 
@@ -55,7 +55,9 @@ Version anglaise seulement***transfer date***, in respect of an airport, means t
 
 **Designation by Minister**
 
-- **(3)** For the purposes of this Act, the Minister may, by order, designate any person employed in the public service of Canada at or in connection with an airport or airports under the management, charge and direction of the Minister as a designated employee for an airport.
+- **(3)** For the purposes of this Act, the Minister may, by order, designate any person employed in the federal public administration at or in connection with an airport or airports under the management, charge and direction of the Minister as a designated employee for an airport.
+> 1992, c. 5, s. 2; 2003, c. 22, s. 224(E).
+
 
 
 
