@@ -8280,8 +8280,10 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 - **t)** en Finlande, la bourse de Helsinki;
 - **u)** en Norvège, la bourse d’Oslo;
 - **v)** en Afrique du Sud, la bourse de Johannesburg;
-- **w)** en Suède, la bourse de Stockholm.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 3; DORS/86-488, art. 4; DORS/88-165, art. 17; DORS/89-102, art. 1; DORS/89-409, art. 2; DORS/92-660, art. 1; DORS/94-126, art. 1; DORS/94-140, art. 7; DORS/97-408, art. 1; DORS/2001-187, art. 4.
+- **w)** en Suède, la bourse de Stockholm;
+- **x)** au Luxembourg, la bourse de Luxembourg;
+- **y)** en Pologne, les marchés principal et parallèle de la bourse de Varsovie.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 3; DORS/86-488, art. 4; DORS/88-165, art. 17; DORS/89-102, art. 1; DORS/89-409, art. 2; DORS/92-660, art. 1; DORS/94-126, art. 1; DORS/94-140, art. 7; DORS/97-408, art. 1; DORS/2001-187, art. 4; DORS/2005-15, art. 1.
 
 
 
