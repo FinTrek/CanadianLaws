@@ -5615,7 +5615,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 <sup><a href='#E-14.1_fr_1'>[*]</a></sup>**433** Les dispositions de la présente loi, à l’exception de l’article 1 et des articles 408 à 432, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='E-14.1_fr_1'><sup>*</sup></a>: [Note : Articles 1 et 408 à 432 en vigueur à la sanction le 13 juin 2002; articles 2, 4, 7 à 12, 14 à 24, 159, 211, 219 à 229, 304, 322 et 323 en vigueur le 1<sup>er</sup> avril 2003, *voir* TR/2003-47.]<br />
+<a name='E-14.1_fr_1'><sup>*</sup></a>: [Note : Articles 1 et 408 à 432 en vigueur à la sanction le 13 juin 2002; articles 2, 4, 7 à 12, 14 à 24, 159, 211, 219 à 229, 304, 322 et 323 en vigueur le 1<sup>er</sup> avril 2003, articles 3, 5, 6, 13, 25 à 158, 160 à 210, 212 à 218, 230 à 303, 305 à 321, 324, 325, 328 à 341 et 345 à 407 et annexes 1 à 7 en vigueur le 1<sup>er</sup> juillet 2003, *voir* TR/2003-47.]<br />
 
 
 
