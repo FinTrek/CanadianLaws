@@ -3163,7 +3163,7 @@ the last two mentioned road allowances are as shown on Plan 30750 in said record
 
 **(10)** in Township 20, Range 19, all sections; excepting
 
-**(a)** sections 5, 6 and 7, the west halves of sections 4 and 8 and the southwest quarter of Section 18;
+**(a)** sections 5, 6, 7 and 8, the west half of section 4 and the southwest quarter of Section 18;
 
 
 
@@ -3319,7 +3319,7 @@ said indian reserve as shown on Plan 76982 in said records, a copy of which is f
 
 **(40)** in Township 23, Range 26, sections 1 to 5 inclusive, and 8 to 17 inclusive;
 
-Said lands containing together about 2970 square kilometres.
+Said lands containing together about 2,969 square kilometres.
 
 
 
@@ -5764,7 +5764,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345.
 
 
 
