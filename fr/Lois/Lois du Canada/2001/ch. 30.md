@@ -187,7 +187,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-**19** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#I-3.55_f_19'>[*]</a></sup>**19** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='I-3.55_f_19'><sup>*</sup></a>: [Note : Convention en vigueur le 5 mai 2004, *voir* Gazette du Canada Partie I, volume 138, page 1879.]<br />
 
 
 
