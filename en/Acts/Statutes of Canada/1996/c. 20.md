@@ -110,7 +110,7 @@ en route air traffic control services means air traffic control services provide
 
 ***Minister*** means the Minister of Transport.
 
-***Public Service*** has the same meaning as in subsection 2(1) of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+***public service*** has the same meaning as in subsection 2(1) of the Public Service Labour Relations Act.
 
 ***state aircraft*** means an aircraft, other than an aircraft operated for commercial purposes, that is owned and operated by the government of a country or the government of a colony, dependency, province, state, territory or municipality of a country.
 
@@ -130,7 +130,7 @@ en route air traffic control services means air traffic control services provide
 
 **List of designated employees**
 
-- **(4)** The Minister may establish a list setting out the name of every person employed in the Public Service whom the Minister designates for the purposes of this Act.
+- **(4)** The Minister may establish a list setting out the name of every person employed in the public service whom the Minister designates for the purposes of this Act.
 
 **Designation of northern or remote services**
 
@@ -147,7 +147,7 @@ en route air traffic control services means air traffic control services provide
 **Minister of National Defence**
 
 - **(8)** For the purposes of this Act, a person acting under the authority of the Minister of National Defence includes a person who is doing anything for a defence purpose pursuant to a contract or other arrangement with the Department of National Defence or the Canadian Forces.
-> 1996, c. 20, ss. 2, 108.
+> 1996, c. 20, ss. 2, 108; 2003, c. 22, ss. 150(E), 225(E).
 
 
 
@@ -1641,7 +1641,9 @@ a certificate purporting to have been issued by or under the authority of the Mi
 
 **Authority to provide services**
 
-**97** Where a department or other portion of the public service of Canada specified in Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) is authorized to provide services to any other department or other portion of the public service of Canada specified in that Schedule, it may enter into an agreement to provide those services to the Corporation if it considers it appropriate to do so.
+**97** Where a department in, or other portion of, the federal public administration specified in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) is authorized to provide services to any other department in, or other portion of, the federal public administration specified in one of those Schedules, it may enter into an agreement to provide those services to the Corporation if it considers it appropriate to do so.
+> 1996, c. 20, s. 97; 2003, c. 22, s. 151.
+
 
 
 
