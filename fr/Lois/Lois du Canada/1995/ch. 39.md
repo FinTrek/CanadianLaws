@@ -51,6 +51,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
+***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1.
+
 ***contrôleur des armes à feu***
 - **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
 - **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
@@ -96,7 +98,7 @@ Sont visés par la présente définition les musées.
 **Droits des autochtones**
 
 - **(3)** Il est entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la *Loi constitutionnelle de 1982*.
-> 1995, ch. 39, art. 2; 2001, ch. 4, art. 85
+> 1995, ch. 39, art. 2; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9
 
 
 
@@ -1389,6 +1391,55 @@ Sont visés par la présente définition les musées.
 
 
 
+### COMMISSAIRE AUX ARMES À FEU
+
+
+
+**Nomination**
+
+**81.1** Le gouverneur en conseil peut nommer une personne à titre de commissaire aux armes à feu. Celui-ci occupe sa charge à titre amovible et reçoit la rémunération fixée par le gouverneur en conseil.
+> 2003, ch. 8, art. 48
+
+
+
+
+
+**Attributions**
+
+**81.2** Sous réserve des instructions que peut donner le ministre fédéral, le commissaire peut exercer les attributions liées à l’application de la présente loi qui lui sont déléguées par le ministre.
+> 2003, ch. 8, art. 48
+
+
+
+
+
+**Délégation**
+
+**81.3** Le ministre fédéral peut déléguer au commissaire les attributions que la présente loi lui confère, sauf le pouvoir de déléguer prévu au présent article et les pouvoirs prévus aux paragraphes 97(2) et (3).
+> 2003, ch. 8, art. 48
+
+
+
+
+
+**Absence ou empêchement**
+
+**81.4** En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, le ministre fédéral peut confier à quiconque les attributions du commissaire; cependant, l’intérim ne peut dépasser soixante jours sans l’approbation du gouverneur en conseil.
+> 2003, ch. 8, art. 48
+
+
+
+
+
+**Application de certains textes**
+
+**81.5** Le commissaire est réputé appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), être un agent de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2003, ch. 8, art. 48
+
+
+
+
+
 ## Système canadien d’enregistrement des armes à feu
 
 
@@ -1397,9 +1448,20 @@ Sont visés par la présente définition les musées.
 
 
 
-**Nomination du directeur**
+**Directeur de l’enregistrement des armes à feu**
 
-**82** Le directeur de l’enregistrement des armes à feu est nommé par le commissaire de la Gendarmerie royale du Canada, après consultation du ministre fédéral et du solliciteur général du Canada.
+**82** Le poste de directeur de l’enregistrement des armes à feu est pourvu par nomination ou mutation conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+> 1995, ch. 39, art. 82; 2003, ch. 8, art. 49
+
+
+
+
+
+**Absence ou empêchement**
+
+**82.1** En cas d’absence ou d’empêchement du directeur ou de vacance de son poste, le commissaire peut exercer les attributions du directeur.
+> 2003, ch. 8, art. 49
+
 
 
 
@@ -1554,22 +1616,26 @@ Sont visés par la présente définition les musées.
 
 
 
-**Rapport au solliciteur général**
+**Rapport au ministre fédéral**
 
 **93** 
 
-- **(1)** Le directeur, dès que possible au début de chaque année civile et chaque fois que le solliciteur général du Canada lui en fait la demande par écrit, transmet à celui-ci un rapport sur l’application de la présente loi rédigé en la forme et contenant les renseignements qu’il exige.
+- **(1)** Le commissaire, dès que possible au début de chaque année civile et chaque fois que le ministre fédéral lui en fait la demande par écrit, transmet à celui-ci un rapport sur l’application de la présente loi rédigé en la forme et contenant les renseignements qu’il exige.
 
 **Rapport au Parlement**
 
-- **(2)** Le solliciteur général du Canada fait déposer chacun de ces rapports devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+- **(2)** Le ministre fédéral fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 1995, ch. 39, art. 93; 2003, ch. 8, art. 50
 
 
 
 
-**Communication de renseignements au directeur**
 
-**94** Le contrôleur des armes à feu communique au directeur les renseignements réglementaires sur l’application de la présente loi selon les modalités de temps et de forme réglementaires afin de permettre à celui-ci d’établir les rapports visés à l’article 93.
+**Communication de renseignements au commissaire**
+
+**94** Le contrôleur des armes à feu communique au commissaire les renseignements réglementaires sur l’application de la présente loi selon les modalités de temps et de forme réglementaires afin de permettre au commissaire d’établir le rapport visé à l’article 93.
+> 1995, ch. 39, art. 94; 2003, ch. 8, art. 50
+
 
 
 
