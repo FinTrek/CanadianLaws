@@ -982,7 +982,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **63** 
 
-- **(1)** Where the Minister confirms or varies an assessment under subsection 62(2) or fails, within ninety days after the date of mailing by the interest holder of the notice of objection, to notify the interest holder that the Minister has confirmed, varied or vacated the assessment, the interest holder may appeal to the Federal Court in the manner set out in section 48 of the Federal Court Act to have the assessment varied or vacated.
+- **(1)** Where the Minister confirms or varies an assessment under subsection 62(2) or fails, within ninety days after the date of mailing by the interest holder of the notice of objection, to notify the interest holder that the Minister has confirmed, varied or vacated the assessment, the interest holder may appeal to the Federal Court in the manner set out in section 48 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) to have the assessment varied or vacated.
 
 **Time limit for appeal**
 
@@ -999,6 +999,8 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Hearing in private**
 
 - **(5)** Proceedings in an appeal to the Federal Court under subsection (1) may be held in private on request made to the Court by a party to the appeal.
+> R.S., 1985, c. 36 (2nd Supp.), s. 63; 2002, c. 8, s. 182.
+
 
 
 
@@ -1022,7 +1024,9 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **References to Federal Court**
 
-**65** Where the Minister and the holder of a share in a production licence agree in writing that a question of law, fact or mixed law and fact arising under this Part should be determined by the Federal Court, that question shall be determined by the Court pursuant to subsection 17(3) or (4) of the Federal Court Act.
+**65** Where the Minister and the holder of a share in a production licence agree in writing that a question of law, fact or mixed law and fact arising under this Part should be determined by the Federal Court, that question shall be determined by the Court pursuant to subsection 17(3) or (4) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> R.S., 1985, c. 36 (2nd Supp.), s. 65; 2002, c. 8, s. 182.
+
 
 
 
@@ -1895,8 +1899,8 @@ have passed;
 
 **Judicial review**
 
-- **(10)** Any order, decision or action in respect of which a hearing is held under this section is subject to judicial review under the Federal Court Act.
-> R.S., 1985, c. 36 (2nd Supp.), s. 106; 1990, c. 8, s. 47; 1992, c. 35, s. 43.
+- **(10)** Any order, decision or action in respect of which a hearing is held under this section is subject to judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> R.S., 1985, c. 36 (2nd Supp.), s. 106; 1990, c. 8, s. 47; 1992, c. 35, s. 43; 2002, c. 8, s. 182.
 
 
 
