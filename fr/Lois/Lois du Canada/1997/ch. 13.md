@@ -340,29 +340,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Promotion de commandite**
+**Interdiction — promotion de commandite**
 
-**24** 
+**24** Il est interdit d’utiliser, directement ou indirectement, un élément de marque d’un produit du tabac ou le nom d’un fabricant sur le matériel relatif à la promotion d’une personne, d’une entité, d’une manifestation, d’une activité ou d’installations permanentes.
+> 1997, ch. 13, art. 24; 1998, ch. 38, art. 1.
 
-- **(1)** Sous réserve des règlements et des paragraphes (2) et (3), il est possible d’utiliser un élément de marque d’un produit du tabac sur le matériel relatif à la promotion d’une personne, d’une entité, d’une manifestation, d’une activité ou d’installations permanentes qui, selon le cas :
-	- **a)** sont associés aux jeunes, dont il existe des motifs raisonnables de croire qu’ils pourraient être attrayants pour les jeunes ou dont les jeunes sont les principaux bénéficiaires;
-	- **b)** sont associés avec une façon de vivre, tels le prestige, les loisirs, l’enthousiasme, la vitalité, le risque ou l’audace.
-
-**Modalités**
-
-- **(2)** L’élément de marque d’un produit du tabac ne peut figurer que tout au bas du matériel de promotion, dans un espace occupant au maximum 10 % de la surface de ce matériel.
-
-**Modalités**
-
-- **(3)** Le matériel de promotion visé au paragraphe (2) ne peut figurer que :
-	- **a)** dans des publications qui sont expédiées par le courrier et qui sont adressées à un adulte désigné par son nom;
-	- **b)** dans des publications dont au moins quatre-vingt-cinq pour cent des lecteurs sont des adultes;
-	- **c)** sur des affiches placées ou dans des programmes offerts placées sur les lieux de la manifestation ou de l’activité ou sur les installations;
-	- **d)** sur des affiches placées dans des endroits où l’accès est interdit aux jeunes par la loi.
-
-**Autres commandites**
-
-- **(4)** Dans les cas où les critères visés aux alinéas (1)a) ou b) ne s’appliquent pas à la commandite et sous réserve des règlements, il est possible d’utiliser un élément de marque d’un produit du tabac dans la promotion de la commandite.
 
 
 
@@ -464,17 +446,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**33** Le gouverneur en conseil peut, par règlement :
+**33** Le gouverneur en conseil peut, par règlement :
 - **a)** régir l’emballage et la promotion des produits du tabac et l’utilisation des éléments de marque de ces produits, y compris les modalités et les conditions applicables à l’emballage et à la promotion, et la promotion des articles et services visés à l’article 28;
 - **b)** régir la publicité des produits du tabac pour l’application du paragraphe 22(2);
-- **c)** régir, pour l’application du paragraphe 24(4), l’usage d’un élément de marque d’un produit du tabac;
-- **d)** préciser la façon dont un élément de marque d’un produit du tabac peut figurer sur des installations permanentes;
+- **c) et d)** [Abrogés, 1998, ch. 38, art. 3]
 - **e)** régir, pour l’application du paragraphe 26(1), la manière dont un élément de marque d’un produit du tabac peut figurer sur les accessoires;
 - **f)** régir l’exposition des produits du tabac et des accessoires dans les établissements de vente au détail;
 - **g)** régir, pour l’application du paragraphe 30(2), les affiches que le détaillant peut placer, y compris leur contenu, leur taille, leur nombre et les endroits où elles peuvent être placées;
 - **h)** exiger d’un fabricant qu’il fournisse les détails de ses éléments de marque et de ses activités de promotion;
 - **i)** prendre toute autre mesure d’ordre réglementaire prévue par la présente partie;
 - **j)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+> 1997, ch. 13, art. 33; 1998, ch. 38, art. 3.
+
 
 
 
