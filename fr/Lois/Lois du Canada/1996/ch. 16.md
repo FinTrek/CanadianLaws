@@ -154,11 +154,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le ministre a la gestion de l’ensemble des immeubles fédéraux et des biens réels fédéraux, à l’exception de ceux dont la gestion est confiée à un autre ministre ou organisme fédéral ou à une personne morale.
+- **(1)** Le ministre a la gestion de l’ensemble des immeubles fédéraux et des biens réels fédéraux situés à l’extérieur du Yukon, des Territoires du Nord-Ouest et du Nunavut, à l’exception de ceux dont la gestion est confiée à un autre ministre ou organisme fédéral ou à une personne morale.
 
 **Autres biens**
 
-- **(2)** Le ministre peut engager des dépenses ou assurer la prestation de services ou la réalisation de travaux portant :
+- **(2)** Le ministre peut engager des dépenses ou assurer la prestation de services ou la réalisation de travaux portant :
 	- **a)** soit sur des immeubles fédéraux ou des biens réels fédéraux;
 	- **b)** soit sur des ouvrages ou autres biens appartenant à Sa Majesté du chef du Canada;
 	- **c)** soit, avec le consentement du propriétaire, sur des immeubles, ouvrages ou autres biens n’appartenant pas à Sa Majesté du chef du Canada.
@@ -166,7 +166,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** L’alinéa (2)c) ne fait pas obstacle à l’application de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md).
-> 1996, ch. 16, art. 10; 1999, ch. 31, art. 73(F); 2001, ch. 4, art. 158.
+> 1996, ch. 16, art. 10; 1999, ch. 31, art. 73(F); 2001, ch. 4, art. 158; 2002, ch. 7, art. 157.
 
 
 
