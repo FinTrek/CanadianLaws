@@ -44,53 +44,53 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administration publique*** S’entend notamment de Sa Majesté du chef du Canada ou d’une province.
+***administration publique*** S’entend notamment de Sa Majesté du chef du Canada ou d’une province. (*public authority*)
 
-***appareil de transmission exclu*** Appareil effectuant une ou plusieurs des opérations suivantes :
+***appareil de transmission exclu*** Appareil effectuant une ou plusieurs des opérations suivantes :
 - **a)** commutation des télécommunications;
 - **b)** saisie, réception, mise en mémoire, classement, modification, récupération, sortie ou tout autre traitement de l’information;
-- **c)** commande de la vitesse, du code, du protocole, du contenu, de la forme, de l’acheminement ou d’autres aspects semblables de la transmission de l’information.
+- **c)** commande de la vitesse, du code, du protocole, du contenu, de la forme, de l’acheminement ou d’autres aspects semblables de la transmission de l’information. (*exempt transmission apparatus*)
 
-***câble sous-marin international*** S’entend d’une ligne sous-marine servant aux télécommunications soit entre le Canada et l’étranger, soit entre des points de l’étranger par le Canada; est exclue de la présente définition la ligne sous-marine entièrement en eau douce.
+***câble sous-marin international*** S’entend d’une ligne sous-marine servant aux télécommunications soit entre le Canada et l’étranger, soit entre des points de l’étranger par le Canada; est exclue de la présente définition la ligne sous-marine entièrement en eau douce. (*international submarine cable*)
 
-***Conseil*** Le Conseil de la radiodiffusion et des télécommunications canadiennes.
+***Conseil*** Le Conseil de la radiodiffusion et des télécommunications canadiennes. (*Commission*)
 
-***contrôle*** Situation qui crée une maîtrise de fait, soit directe, par la propriété de valeurs mobilières, soit indirecte, en particulier au moyen d’une fiducie, d’un accord, d’une entente ou de la propriété d’une personne morale.
+***contrôle*** Situation qui crée une maîtrise de fait, soit directe, par la propriété de valeurs mobilières, soit indirecte, en particulier au moyen d’une fiducie, d’un accord, d’une entente ou de la propriété d’une personne morale. (*control*)
 
-***décision*** Toute mesure prise par le Conseil, quelle qu’en soit la forme.
+***décision*** Toute mesure prise par le Conseil, quelle qu’en soit la forme. (*decision*)
 
-***entreprise canadienne*** Entreprise de télécommunication qui relève de la compétence fédérale.
+***entreprise canadienne*** Entreprise de télécommunication qui relève de la compétence fédérale. (*Canadian carrier*)
 
-***entreprise de radiodiffusion*** S’entend de l’entreprise au sens de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md).
+***entreprise de radiodiffusion*** S’entend de l’entreprise au sens de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md). (*broadcasting undertaking*)
 
-***entreprise de télécommunication*** Propriétaire ou exploitant d’une installation de transmission grâce à laquelle sont fournis par lui-même ou une autre personne des services de télécommunication au public moyennant contrepartie.
+***entreprise de télécommunication*** Propriétaire ou exploitant d’une installation de transmission grâce à laquelle sont fournis par lui-même ou une autre personne des services de télécommunication au public moyennant contrepartie. (*telecommunications common carrier*)
 
-***fournisseur de services de télécommunication*** La personne qui fournit des services de télécommunication de base, y compris au moyen d’un appareil de transmission exclu.
+***fournisseur de services de télécommunication*** La personne qui fournit des services de télécommunication de base, y compris au moyen d’un appareil de transmission exclu. (*telecommunications service provider*)
 
-***information*** Signes, signaux, écrits, images, sons ou renseignements de toute nature.
+***information*** Signes, signaux, écrits, images, sons ou renseignements de toute nature. (*intelligence*)
 
-***installation de télécommunication*** Installation, appareils ou toute autre chose servant ou pouvant servir à la télécommunication ou à toute opération qui y est directement liée, y compris les installations de transmission.
+***installation de télécommunication*** Installation, appareils ou toute autre chose servant ou pouvant servir à la télécommunication ou à toute opération qui y est directement liée, y compris les installations de transmission. (*telecommunications facility*)
 
-***installation de transmission*** Tout système électromagnétique — notamment fil, câble ou système radio ou optique — ou tout autre procédé technique pour la transmission d’information entre des points d’arrivée du réseau, à l’exception des appareils de transmission exclus.
+***installation de transmission*** Tout système électromagnétique — notamment fil, câble ou système radio ou optique — ou tout autre procédé technique pour la transmission d’information entre des points d’arrivée du réseau, à l’exception des appareils de transmission exclus. (*transmission facility*)
 
-***licence de câble sous-marin international*** Licence attribuée au titre de l’article 19.
+***licence de câble sous-marin international*** Licence attribuée au titre de l’article 19. (*international submarine cable licence*)
 
-***loi spéciale*** Loi fédérale relative aux activités d’une entreprise canadienne particulière.
+***loi spéciale*** Loi fédérale relative aux activités d’une entreprise canadienne particulière. (*special Act*)
 
-***ministre*** Le ministre de l’Industrie.
+***ministre*** Le ministre de l’Industrie. (*Minister*)
 
-***personne*** Sont compris parmi les personnes les particuliers, les sociétés de personnes, les personnes morales, les organisations non personnalisées, les gouvernements ou leurs organismes, ainsi que les fiduciaires, exécuteurs testamentaires, curateurs, tuteurs ou autres représentants légaux.
+***personne*** Sont compris parmi les personnes les particuliers, les sociétés de personnes, les personnes morales, les organisations non personnalisées, les gouvernements ou leurs organismes, ainsi que les personnes ou entités qui agissent au nom ou pour le compte d’autrui, notamment les fiduciaires, les liquidateurs de succession, les exécuteurs testamentaires, les administrateurs successoraux, les curateurs et les tuteurs. (*person*)
 
-***service de télécommunication*** Service fourni au moyen d’installations de télécommunication, y compris la fourniture — notamment par vente ou location —, même partielle, de celles-ci ou de matériel connexe.
+***service de télécommunication*** Service fourni au moyen d’installations de télécommunication, y compris la fourniture — notamment par vente ou location —, même partielle, de celles-ci ou de matériel connexe. (*telecommunications service*)
 
-***tarif*** Somme d’argent ou toute autre contrepartie; la présente définition vise également les tarifs n’entraînant aucune contrepartie.
+***tarif*** Somme d’argent ou toute autre contrepartie; la présente définition vise également les tarifs n’entraînant aucune contrepartie. (*rate*)
 
-***télécommunication*** La transmission, l’émission ou la réception d’information soit par système électromagnétique, notamment par fil, câble ou système radio ou optique, soit par tout autre procédé technique semblable.
+***télécommunication*** La transmission, l’émission ou la réception d’information soit par système électromagnétique, notamment par fil, câble ou système radio ou optique, soit par tout autre procédé technique semblable. (*telecommunications*)
 
 **Définition de point d’arrivée du réseau**
 
 - **(2)** Le Conseil peut définir l’expression point d’arrivée du réseau pour les besoins de la définition de installation de transmission au paragraphe (1).
-> 1993, ch. 38, art. 2; 1995, ch. 1, art. 62; 1998, ch. 8, art. 1.
+> 1993, ch. 38, art. 2; 1995, ch. 1, art. 62; 1998, ch. 8, art. 1; 2004, ch. 25, art. 174.
 
 
 
@@ -118,9 +118,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Nomination, gestion et exploitation d’un dirigeant**
+**Assujettissement à la loi**
 
-**5** Le fiduciaire ou le syndic — ou toute autre personne — qui gère ou exploite une installation de transmission d’une entreprise canadienne sous l’autorité d’un tribunal ou en application d’un acte juridique est assujetti à la présente loi.
+**5** Le fiduciaire, le syndic, le séquestre, l’administrateur du bien d’autrui ou toute autre personne qui gère ou exploite une installation de transmission d’une entreprise canadienne sous l’autorité d’un tribunal ou en application d’un acte juridique est assujetti à la présente loi.
+> 1993, ch. 38, art. 5; 2004, ch. 25, art. 175.
+
 
 
 
@@ -508,7 +510,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le gouverneur en conseil peut prendre des règlements concernant l’admissibilité des entreprises canadiennes prévue à l’article 16. Il peut notamment prendre des règlements :
 	- **a)** sur les renseignements à fournir, les personnes par qui et à qui ils doivent être fournis, les modalités de temps ou autres de leur fourniture et les conséquences du défaut de les fournir;
-	- **b)** sur les circonstances dans lesquelles l’entreprise canadienne peut, pour maintenir son admissibilité, contrôler l’acquisition et la propriété de ses actions avec droit de vote, ainsi que limiter, suspendre ou refuser de reconnaître des droits de propriété à l’égard de celles-ci ou obliger ses actionnaires à s’en départir, ainsi que sur les modalités afférentes à la prise de ces mesures;
+	- **b)** sur les circonstances dans lesquelles l’entreprise canadienne peut, pour maintenir son admissibilité, contrôler l’acquisition et la propriété de ses actions avec droit de vote, ainsi que limiter, suspendre ou refuser de reconnaître des droits de propriété à l’égard de celles-ci ou obliger ses actionnaires à en disposer, ainsi que sur les modalités afférentes à la prise de ces mesures;
 	- **c)** autorisant le conseil d’administration de l’entreprise canadienne à procéder, à l’égard des actions avec droit de vote, à un versement de dividendes ou à toute autre distribution qui seraient par ailleurs interdits en raison de la détention de celles-ci en violation de l’article 16 ou des règlements d’application du présent paragraphe, dans les cas où, selon le Conseil, soit la violation est involontaire ou de nature technique, soit il serait injuste de ne pas procéder au versement ou à la distribution;
 	- **d)** sur les circonstances dans lesquelles l’entreprise canadienne peut limiter les droits de vote afférents aux actions — ou suspendre ou annuler leur exercice — pour maintenir son admissibilité, ainsi que sur les modalités afférentes à la prise de ces mesures;
 	- **e)** sur les circonstances dans lesquelles l’entreprise canadienne peut vendre ou racheter les actions détenues en violation de l’article 16 ou des règlements d’application du présent paragraphe, disposer du produit de la vente et rembourser les acheteurs de bonne foi, ainsi que sur les modalités afférentes à la prise de ces mesures;
@@ -538,7 +540,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(5)** Une seule publication suffit, que le projet ait ou non été modifié.
-> 1993, ch. 38, art. 22; 1998, ch. 8, art. 5; 1999, ch. 31, art. 198(F).
+> 1993, ch. 38, art. 22; 1998, ch. 8, art. 5; 1999, ch. 31, art. 198(F); 2004, ch. 25, art. 176.
 
 
 
@@ -909,19 +911,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **46** 
 
-- **(1)** Avec l’approbation du Conseil, l’entreprise canadienne qui estime nécessaire pour la fourniture de services de télécommunication au public d’acquérir un bien-fonds ou un droit y afférent — ou d’en prendre possession — sans le consentement du propriétaire ou titulaire en avise le ministre compétent pour l’application de la partie I de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
+- **(1)** Avec l’approbation du Conseil, l’entreprise canadienne qui estime nécessaire pour la fourniture de services de télécommunication au public d’acquérir un bien-fonds ou un intérêt afférent ou, dans la province de Québec, un droit afférent — ou d’en prendre possession — sans le consentement du propriétaire ou titulaire en avise le ministre compétent pour l’application de la partie I de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
 
 **Copies de la décision**
 
-- **(2)** Le Conseil adresse copie de l’autorisation au ministre et au ministre compétent, ainsi qu’à chaque propriétaire du bien-fonds ou titulaire du droit en cause.
+- **(2)** Le Conseil adresse copie de l’autorisation au ministre et au ministre compétent, ainsi qu’à chaque propriétaire du bien-fonds ou titulaire de l’intérêt ou du droit en cause.
 
 **Disposition interprétative**
 
-- **(3)** Pour l’application de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), les biens-fonds ou droits y afférents qui sont, selon le ministre compétent, nécessaires pour cette fourniture sont réputés l’être pour un ouvrage public ou à toute autre fin d’intérêt public et l’entreprise doit payer le montant requis en application du paragraphe 10(9) et des articles 25, 29 et 36 de la même loi, toute mention de la Couronne, dans cette loi, valant par ailleurs mention de l’entreprise canadienne.
+- **(3)** Pour l’application de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), le bien-fonds, l’intérêt ou le droit qui sont, selon le ministre compétent, nécessaires pour cette fourniture sont réputés l’être pour un ouvrage public ou à toute autre fin d’intérêt public et l’entreprise doit payer le montant requis en application du paragraphe 10(9) et des articles 25, 29 et 36 de la même loi, toute mention de la Couronne, dans cette loi, valant par ailleurs mention de l’entreprise canadienne.
 
 **Créance de Sa Majesté**
 
-- **(4)** Les frais occasionnés par l’exercice — relativement à ces biens-fonds ou droits — des attributions conférées au procureur général du Canada par la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) constituent une créance de Sa Majesté du chef du Canada sur l’entreprise canadienne concernée dont le recouvrement peut être poursuivi devant tout tribunal compétent.
+- **(4)** Les frais occasionnés par l’exercice — relativement au bien-fonds, à l’intérêt ou au droit — des attributions conférées au procureur général du Canada par la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md) constituent une créance de Sa Majesté du chef du Canada sur l’entreprise canadienne concernée dont le recouvrement peut être poursuivi devant tout tribunal compétent.
+> 1993, ch. 38, art. 46; 2004, ch. 25, art. 177.
+
 
 
 
@@ -1251,7 +1255,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **66** 
 
-- **(1)** Dans toute instance régie par la présente loi, les documents censés émaner d’une entreprise canadienne ou de son agent ou mandataire peuvent être retenus à charge contre elle sans qu’il soit nécessaire de prouver leur origine ou l’authenticité de leur contenu.
+- **(1)** Dans toute instance régie par la présente loi, les documents censés émaner d’une entreprise canadienne ou de son mandataire peuvent être retenus à charge contre elle sans qu’il soit nécessaire de prouver leur origine ou l’authenticité de leur contenu.
 
 **Document émanant du ministre ou du Conseil**
 
@@ -1264,7 +1268,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Certificats**
 
 - **(4)** Les certificats censés signés par le secrétaire du Conseil et portant le sceau de celui-ci font foi de leur contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature.
-> 1993, ch. 38, art. 66; 2001, ch. 34, art. 32(A).
+> 1993, ch. 38, art. 66; 2001, ch. 34, art. 32(A); 2004, ch. 25, art. 178.
 
 
 
@@ -1630,11 +1634,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Requête**
 
-- **(3)** Quiconque, n’étant pas partie à la procédure ayant mené à la confiscation, revendique un droit sur l’appareil à titre de propriétaire, de créancier hypothécaire, de détenteur de privilège ou de priorité ou d’un droit semblable peut, dans les quatre-vingt-dix jours suivant la prise de l’arrêté, requérir de tout tribunal supérieur compétent l’ordonnance visée au paragraphe (6); le cas échéant, le tribunal fixe la date d’audition de la requête.
+- **(3)** Quiconque, n’étant pas partie à la procédure ayant mené à la confiscation, revendique un droit ou intérêt sur l’appareil à titre de propriétaire, de créancier hypothécaire ou de titulaire de priorité ou de privilège ou d’un droit ou intérêt semblable peut, dans les quatre-vingt-dix jours suivant la prise de l’arrêté, requérir de tout tribunal supérieur compétent l’ordonnance visée au paragraphe (6); le cas échéant, le tribunal fixe la date d’audition de la requête.
 
 **Avis**
 
-- **(4)** Le requérant donne avis de la requête et de la date fixée pour l’audition, au moins trente jours avant celle-ci, au ministre et à toute personne qui, à sa connaissance, revendique un droit sur l’appareil à l’un des titres énumérés au paragraphe (3). À défaut de cet avis, le tribunal peut conclure à l’abandon de la requête.
+- **(4)** Le requérant donne avis de la requête et de la date fixée pour l’audition, au moins trente jours avant celle-ci, au ministre et à toute personne qui, à sa connaissance, revendique un droit ou un intérêt sur l’appareil à l’un des titres énumérés au paragraphe (3). À défaut de cet avis, le tribunal peut conclure à l’abandon de la requête.
 
 **Avis d’intervention**
 
@@ -1642,15 +1646,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance**
 
-- **(6)** Le requérant et les intervenants sont fondés à obtenir une ordonnance préservant leurs droits des effets de la confiscation et déclarant la nature, l’étendue et le rang de ces droits, lorsque le tribunal est convaincu, à l’issue de l’audition, de ce qui suit :
+- **(6)** Le requérant et les intervenants sont fondés à obtenir une ordonnance préservant leurs droits ou intérêts des effets de la confiscation et déclarant la nature, l’étendue et le rang de ces droits ou intérêts, lorsque le tribunal est convaincu, à l’issue de l’audition, de ce qui suit :
 	- **a)** le requérant et les intervenants ne sont coupables ni de complicité ni de collusion à l’égard des actes qui ont rendu l’appareil de télécommunication susceptible de confiscation;
 	- **b)** celles de ces personnes qui en sont propriétaires ont exercé toute la diligence voulue pour s’assurer que les personnes ayant droit à la possession et à l’exploitation de l’appareil ne risquaient pas en cette qualité de perpétrer l’une des infractions créées par l’article 69.2.
-Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause à l’une ou plusieurs des personnes dont il constate les droits, soit le versement à celles-ci d’une somme égale à la valeur de leurs droits respectifs.
+Le tribunal peut, dans ce cas, ordonner soit la remise de l’appareil en cause à l’une ou plusieurs des personnes dont il constate les droits ou intérêts, soit le versement à celles-ci d’une somme égale à la valeur de leurs droits ou intérêts respectifs.
 
 **Frais**
 
-- **(7)** Les personnes déclarées coupables à l’égard des objets confisqués au titre du présent article sont solidairement responsables des frais — liés à la visite, à la saisie, à la confiscation ou à l’aliénation — supportés par Sa Majesté lorsqu’ils en excèdent le produit de l’aliénation.
-> 1998, ch. 8, art. 10; 2001, ch. 4, art. 123.
+- **(7)** Les personnes déclarées coupables à l’égard des objets confisqués au titre du présent article sont solidairement responsables des frais — liés à la visite, à la saisie, à la confiscation ou à la disposition — supportés par Sa Majesté lorsqu’ils excèdent le produit de leur disposition.
+> 1998, ch. 8, art. 10; 2001, ch. 4, art. 123; 2004, ch. 25, art. 179.
 
 
 
