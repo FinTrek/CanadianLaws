@@ -1,0 +1,1772 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2003/c.%2022.md)
+
+# Loi modernisant le régime de l’emploi et des relations de travail dans la fonction publique, modifiant la Loi sur la gestion des finances publiques et la Loi sur le Centre canadien de gestion et apportant des modifications corrélatives à d’autres lois
+
+**L.C. 2003, ch. 22**
+
+
+Sanctionnée sur le 7 novembre 2003
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+**Titre abrégé**
+
+**1** Titre abrégé : Loi sur la modernisation de la fonction publique.
+
+
+
+
+**PARTIE 1** 
+## Loi sur les relations de travail dans la fonction publique
+
+
+**2** Est édictée la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dont le texte suit :
+> [Voir la Loi sur les relations de travail dans la fonction publique]
+
+
+
+
+**PARTIE 2** 
+## Modifications à la Loi sur la gestion des finances publiques
+
+
+**3** [Modification]
+
+
+
+**4** [Modification]
+
+
+
+**5** [Modification]
+
+
+
+
+### Attributions
+
+
+**6** [Modification]
+
+
+
+**7** [Modification]
+
+
+
+**8** [Modification]
+
+
+
+**9** [Modification]
+
+
+
+**10** [Modification]
+
+
+
+**11** [Modification]
+
+
+
+
+**PARTIE 3** 
+## Loi sur l’emploi dans la fonction publique
+
+
+
+**SECTION 1** 
+### Édiction de la loi
+
+
+**12** Est édictée la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), dont le texte suit :
+> [Voir la Loi sur l’emploi dans la fonction publique]
+
+
+
+
+**Annexe de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+
+**13** L’annexe de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) édictée par l’article 12 de la présente loi figure à l’annexe 2 de la présente loi.
+
+
+
+
+**SECTION 2** 
+### Modifications à la Loi sur l’emploi dans la fonction publique
+
+
+**14** [Modification]
+
+
+
+**15** [Modification]
+
+
+
+**16** [Modification]
+
+
+
+**17** [Modification]
+
+
+
+**18** [Modification]
+
+
+
+**19** [Modification]
+
+
+
+**20** [Modification]
+
+
+
+
+**PARTIE 4** 
+## Modifications à la Loi sur le Centre canadien de gestion
+
+
+**21** [Modification]
+
+
+
+**22** [Modification]
+
+
+
+**23** [Modification]
+
+
+
+**24** [Modification]
+
+
+
+**25** [Modification]
+
+
+
+**26** [Modification]
+
+
+
+**27** [Modification]
+
+
+
+**28** [Modification]
+
+
+
+**29** [Modification]
+
+
+
+**30** [Modification]
+
+
+
+**31** [Modification]
+
+
+
+**32** [Modification]
+
+
+
+**33** [Modification]
+
+
+
+**34** [Modification]
+
+
+
+**35** [Modification]
+
+
+
+
+**PARTIE 5** 
+## Dispositions transitoires
+
+
+
+**SECTION 1** 
+### Dispositions transitoires découlant de l’édiction de la Loi sur les relations de travail dans la fonction publique à la partie 1
+
+
+
+#### Définitions et interprétation
+
+
+**36** [Disposition transitoire]
+
+
+
+
+#### Commission des relations de travail dans la fonction publique
+
+
+**37** [Disposition transitoire]
+
+
+
+**38** [Disposition transitoire]
+
+
+
+**39** [Disposition transitoire]
+
+
+
+**40** [Disposition transitoire]
+
+
+
+**41** [Disposition transitoire]
+
+
+
+**42** [Disposition transitoire]
+
+
+
+**43** [Disposition transitoire]
+
+
+
+**44** [Disposition transitoire]
+
+
+
+**45** [Disposition transitoire]
+
+
+
+**46** [Disposition transitoire]
+
+
+
+**47** [Disposition transitoire]
+
+
+
+
+#### Agents négociateurs et unités de négociation
+
+
+**48** [Disposition transitoire]
+
+
+
+**49** [Disposition transitoire]
+
+
+
+
+#### Poste de direction ou de confiance
+
+
+**50** [Disposition transitoire]
+
+
+
+
+#### Choix du mode de règlement des différends
+
+
+**51** [Disposition transitoire]
+
+
+
+
+#### Conventions collectives et décisions arbitrales
+
+
+**52** [Disposition transitoire]
+
+
+
+**53** [Disposition transitoire]
+
+
+
+
+#### Conciliateurs et enquêteurs
+
+
+**54** [Disposition transitoire]
+
+
+
+**55** [Disposition transitoire]
+
+
+
+
+#### Mode substitutif de règlement
+
+
+**56** [Disposition transitoire]
+
+
+
+
+#### Arbitrage
+
+
+**57** [Disposition transitoire]
+
+
+
+
+#### Désignations, conciliation et interdictions
+
+
+**58** [Disposition transitoire]
+
+
+
+
+#### Plaintes
+
+
+**59** [Disposition transitoire]
+
+
+
+**60** [Disposition transitoire]
+
+
+
+
+#### Griefs
+
+
+**61** [Disposition transitoire]
+
+
+
+**62** [Disposition transitoire]
+
+
+
+**63** [Disposition transitoire]
+
+
+
+**64** [Disposition transitoire]
+
+
+
+**65** [Disposition transitoire]
+
+
+
+**66** [Disposition transitoire]
+
+
+
+
+**SECTION 2** 
+### Disposition transitoire découlant des modifications à la Loi sur la gestion des finances publiques à la partie 2
+
+
+**67** [Disposition transitoire]
+
+
+
+
+**SECTION 3** 
+### Dispositions transitoires découlant de la partie 3
+
+
+**68** [Disposition transitoire]
+
+
+
+
+**SOUS-SECTION A** 
+#### Dispositions transitoires découlant de l’édiction de la Loi sur l’emploi dans la fonction publique à la section 1 de la partie 3
+
+
+**69** [Disposition transitoire]
+
+
+
+**70** [Disposition transitoire]
+
+
+
+**71** [Disposition transitoire]
+
+
+
+**72** [Disposition transitoire]
+
+
+
+**73** [Disposition transitoire]
+
+
+
+**74** [Disposition transitoire]
+
+
+
+**75** [Disposition transitoire]
+
+
+
+**76** [Disposition transitoire]
+
+
+
+
+**SOUS-SECTION B** 
+#### Dispositions transitoires découlant des modifications de la Loi sur l’emploi dans la fonction publique à la section 2 de la partie 3
+
+
+**77** [Disposition transitoire]
+
+
+
+**78** [Disposition transitoire]
+
+
+
+**79** [Disposition transitoire]
+
+
+
+**80** [Disposition transitoire]
+
+
+
+**81** [Disposition transitoire]
+
+
+
+**82** [Disposition transitoire]
+
+
+
+**83** [Disposition transitoire]
+
+
+
+**84** [Disposition transitoire]
+
+
+
+
+**SECTION 4** 
+### Dispositions transitoires découlant des modifications de la Loi sur le centre canadien de gestion à la partie 4
+
+
+**85** [Disposition transitoire]
+
+
+
+**86** [Disposition transitoire]
+
+
+
+**87** [Disposition transitoire]
+
+
+
+
+**PARTIE 6** 
+## Modifications corrélatives
+
+
+
+**SECTION 1** 
+### Modifications corrélatives découlant de l’édiction de la Loi sur les relations de travail dans la fonction publique à la partie 1 et des modifications à la Loi sur la gestion des finances publiques à la partie 2
+
+
+
+#### Loi sur l’accès à l’information
+
+
+**88** [Modification]
+
+
+
+
+#### Loi sur l’aéronautique
+
+
+**89** [Modification]
+
+
+
+
+#### Loi sur le vérificateur général
+
+
+**90** [Modification]
+
+
+
+**91** [Modification]
+
+
+
+**92** [Modification]
+
+
+
+
+#### Loi sur la Banque du Canada
+
+
+**93** [Modification]
+
+
+
+**94** [Modification]
+
+
+
+
+#### Loi sur l’Agence des douanes et du revenu du Canada
+
+
+**95** [Modification]
+
+
+
+**96** [Modification]
+
+
+
+**97** [Modification]
+
+
+
+**98** [Modification]
+
+
+
+**99** [Modification]
+
+
+
+
+#### Loi électorale du Canada
+
+
+**100** [Modification]
+
+
+
+**101** [Modification]
+
+
+
+**102** [Modification]
+
+
+
+**103** [Modification]
+
+
+
+
+#### Loi sur la preuve au Canada
+
+
+**104** [Modification]
+
+
+
+**105** [Modification]
+
+
+
+
+#### Loi sur les grains du Canada
+
+
+**106** [Modification]
+
+
+
+
+#### Code canadien du travail
+
+
+**107** [Modification]
+
+
+
+**108** [Modification]
+
+
+
+**109** [Modification]
+
+
+
+**110** [Modification]
+
+
+
+**111** [Modification]
+
+
+
+**112** [Modification]
+
+
+
+
+#### Loi maritime du Canada
+
+
+**113** [Modification]
+
+
+
+**114** [Modification]
+
+
+
+
+#### Loi sur la Société canadienne d’hypothèques et de logement
+
+
+**115** [Modification]
+
+
+
+**116** [Modification]
+
+
+
+
+#### Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve
+
+
+**117** [Modification]
+
+
+
+**118** [Modification]
+
+
+
+**119** [Modification]
+
+
+
+**120** [Modification]
+
+
+
+**121** [Modification]
+
+
+
+
+#### Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers
+
+
+**122** [Modification]
+
+
+
+**123** [Modification]
+
+
+
+**124** [Modification]
+
+
+
+**125** [Modification]
+
+
+
+**126** [Modification]
+
+
+
+
+#### Loi sur les opérations pétrolières au Canada
+
+
+**127** [Modification]
+
+
+
+**128** [Modification]
+
+
+
+
+#### Régime de pensions du Canada
+
+
+**129** [Modification]
+
+
+
+**130** [Modification]
+
+
+
+
+#### Loi fédérale sur les hydrocarbures
+
+
+**131** [Modification]
+
+
+
+
+#### Loi sur l’École de la fonction publique du Canada
+
+
+**132** [Modification]
+
+
+
+**132.1** [Modification]
+
+
+
+**133** [Modification]
+
+
+
+
+#### Loi sur la Corporation commerciale canadienne
+
+
+**134** [Modification]
+
+
+
+
+#### Loi sur l’Agence canadienne d’inspection des aliments
+
+
+**135** [Modification]
+
+
+
+
+#### Loi sur la pension de retraite des Forces canadiennes
+
+
+**136** [Modification]
+
+
+
+
+#### Loi canadienne sur les droits de la personne
+
+
+**137** [Modification]
+
+
+
+
+#### Loi sur les Instituts de recherche en santé du Canada
+
+
+**138** [Modification]
+
+
+
+**139** [Modification]
+
+
+
+**140** [Modification]
+
+
+
+**141** [Modification]
+
+
+
+
+#### Loi canadienne sur les paiements
+
+
+**142** [Modification]
+
+
+
+
+#### Loi sur le Service canadien du renseignement de sécurité
+
+
+**143** [Modification]
+
+
+
+**144** [Modification]
+
+
+
+**145** [Modification]
+
+
+
+**146** [Modification]
+
+
+
+
+#### Loi sur l’Agence spatiale canadienne
+
+
+**147** [Modification]
+
+
+
+
+#### Loi sur les allocations spéciales pour enfants
+
+
+**148** [Modification]
+
+
+
+
+#### Loi sur la citoyenneté
+
+
+**149** [Modification]
+
+
+
+
+#### Loi sur la commercialisation des services de navigation aérienne civile
+
+
+**150** [Modification]
+
+
+
+**151** [Modification]
+
+
+
+
+#### Loi sur les coopératives de l’énergie
+
+
+**152** [Modification]
+
+
+
+**153** [Modification]
+
+
+
+
+#### Loi sur le droit d’auteur
+
+
+**154** [Modification]
+
+
+
+
+#### Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+**155** [Modification]
+
+
+
+
+#### Loi sur le Service administratif des tribunaux judiciaires
+
+
+**156** [Modification]
+
+
+
+**157** [Modification]
+
+
+
+
+#### Loi sur la production de défense
+
+
+**158** [Modification]
+
+
+
+**159** [Modification]
+
+
+
+
+#### Loi sur le ministère du Développement des ressources humaines
+
+
+**160** [Modification]
+
+
+
+
+#### Loi sur le ministère des Anciens Combattants
+
+
+**161** [Modification]
+
+
+
+
+#### Loi sur la pension spéciale du service diplomatique
+
+
+**162** [Modification]
+
+
+
+
+#### Loi sur l’équité en matière d’emploi
+
+
+**163** [Modification]
+
+
+
+**164** [Modification]
+
+
+
+**165** [Modification]
+
+
+
+
+#### Loi sur les offices des produits agricoles
+
+
+**166** [Modification]
+
+
+
+
+#### Loi sur la Cour fédérale
+
+
+**167** [Modification]
+
+
+
+
+#### Loi sur la gestion des finances publiques
+
+
+**168** [Modification]
+
+
+
+
+#### Loi sur l’Agence de la consommation en matière financière du Canada
+
+
+**169** [Modification]
+
+
+
+**170** [Modification]
+
+
+
+
+#### Loi sur le contrôle des renseignements relatifs aux matières dangereuses
+
+
+**171** [Modification]
+
+
+
+
+#### Loi sur l’immigration et la protection des réfugiés
+
+
+**172** [Modification]
+
+
+
+**173** [Modification]
+
+
+
+
+#### Loi sur les enquêtes
+
+
+**174** [Modification]
+
+
+
+
+#### Loi sur le cinéma
+
+
+**175** [Modification]
+
+
+
+
+#### Loi sur la santé des non-fumeurs
+
+
+**176** [Modification]
+
+
+
+
+#### Loi sur le Bureau du surintendant des institutions financières
+
+
+**177** [Modification]
+
+
+
+
+#### Loi sur la sécurité de la vieillesse
+
+
+**178** [Modification]
+
+
+
+**179** [Modification]
+
+
+
+
+#### Loi sur l’Agence Parcs Canada
+
+
+**180** [Modification]
+
+
+
+**181** [Modification]
+
+
+
+
+#### Loi sur les relations de travail au Parlement
+
+
+**182** [Modification]
+
+
+
+**183** [Modification]
+
+
+
+**184** [Modification]
+
+
+
+**185** [Modification]
+
+
+
+**186** [Modification]
+
+
+
+**187** [Modification]
+
+
+
+
+#### Loi sur les pensions
+
+
+**188** [Modification]
+
+
+
+
+#### Loi sur la protection des renseignements personnels
+
+
+**189** [Modification]
+
+
+
+
+#### Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+
+
+**190** [Modification]
+
+
+
+**191** [Modification]
+
+
+
+
+#### Loi sur l’emploi dans la fonction publique
+
+
+**192** [Modification]
+
+
+
+**193** [Modification]
+
+
+
+**194** [Modification]
+
+
+
+**195** [Modification]
+
+
+
+**196** [Modification]
+
+
+
+**197** [Modification]
+
+
+
+**198** [Modification]
+
+
+
+**199** [Modification]
+
+
+
+**200** [Modification]
+
+
+
+**201** [Modification]
+
+
+
+**202** [Modification]
+
+
+
+**203** [Modification]
+
+
+
+**204** [Modification]
+
+
+
+**205** [Modification]
+
+
+
+**206** [Modification]
+
+
+
+
+#### Loi sur les restructurations et les transferts d’attributions dans l’administration publique
+
+
+**207** [Modification]
+
+
+
+**208** [Modification]
+
+
+
+
+#### Loi sur la pension de la fonction publique
+
+
+**209** [Modification]
+
+
+
+**210** [Modification]
+
+
+
+**211** [Modification]
+
+
+
+**212** [Modification]
+
+
+
+**213** [Modification]
+
+
+
+**214** [Modification]
+
+
+
+
+#### Loi sur la publication des lois
+
+
+**215** [Modification]
+
+
+
+
+#### Loi sur la Gendarmerie royale du Canada
+
+
+**216** [Modification]
+
+
+
+**217** [Modification]
+
+
+
+
+#### Loi sur la pension de retraite de la Gendarmerie royale du Canada
+
+
+**218** [Modification]
+
+
+
+
+#### Loi sur le parc marin du Saguenay — Saint-Laurent
+
+
+**219** [Modification]
+
+
+
+
+#### Loi sur le statut de l’artiste
+
+
+**220** [Modification]
+
+
+
+**221** [Modification]
+
+
+
+
+#### Loi sur les allocations aux anciens combattants
+
+
+**222** [Modification]
+
+
+
+
+#### Modifications terminologiques
+
+
+**223** [Modification]
+
+
+
+**224** [Modification]
+
+
+
+**225** [Modification]
+
+
+
+**226** La substitution de l’expression 
+*« public service* » à l’expression « 
+*Public Service* » et de l’expression « 
+*federal public administration* » à l’expression « 
+*public service of Canada *» effectuée par la présente partie est une modification d’ordre terminologique qui n’a pas pour effet d’édicter un texte de droit nouveau.
+
+
+
+
+**SECTION 2** 
+### Modifications corrélatives découlant de la partie 3
+
+
+
+**SOUS-SECTION A** 
+#### Modifications corrélatives découlant de l’édiction de la Loi sur l’emploi dans la fonction publique à la section 1 de la partie 3
+
+
+
+##### Loi sur le vérificateur général
+
+
+**227** [Modification]
+
+
+
+**228** [Modification]
+
+
+
+
+##### Loi sur l’Agence des douanes et du revenu du Canada
+
+
+**229** [Modification]
+
+
+
+**230** [Modification]
+
+
+
+
+##### Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve
+
+
+**231** [Modification]
+
+
+
+
+##### Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers
+
+
+**232** [Modification]
+
+
+
+
+##### Loi sur les Instituts de recherche en santé du Canada
+
+
+**233** [Modification]
+
+
+
+
+##### Loi sur le Service canadien du renseignement de sécurité
+
+
+**234** [Modification]
+
+
+
+
+##### Loi sur l’Agence spatiale canadienne
+
+
+**235** [Modification]
+
+
+
+
+##### Loi sur l’équité en matière d’emploi
+
+
+**236** [Modification]
+
+
+
+**237** [Modification]
+
+
+
+**238** [Modification]
+
+
+
+
+##### Loi sur la gestion des finances publiques
+
+
+**239** [Modification]
+
+
+
+
+##### Loi sur le cinéma
+
+
+**240** [Modification]
+
+
+
+
+##### Loi sur l’Agence Parcs Canada
+
+
+**241** [Modification]
+
+
+
+
+##### Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes
+
+
+**242** [Modification]
+
+
+
+
+##### Loi sur les relations de travail dans la fonction publique
+
+
+**243** [Modification]
+
+
+
+
+##### Loi référendaire
+
+
+**244** [Modification]
+
+
+
+
+##### Loi sur les avantages destinés aux anciens combattants
+
+
+**245** [Modification]
+
+
+
+
+**SOUS-SECTION B** 
+#### Modifications corrélatives découlant des modifications de la Loi sur l’emploi dans la fonction publique à la section 2 de la partie 3
+
+
+
+##### Loi sur l’accès à l’information
+
+
+**246** [Modification]
+
+
+
+
+##### Loi sur la gestion des finances publiques
+
+
+**247** [Modification]
+
+
+
+
+##### Loi sur la protection des renseignements personnels
+
+
+**248** [Modification]
+
+
+
+
+##### Loi sur les relations de travail dans la fonction publique
+
+
+**249** [Modification]
+
+
+
+
+##### Loi sur la pension de la fonction publique
+
+
+**250** [Modification]
+
+
+
+
+**SECTION 3** 
+### Modifications corrélatives découlant des modifications à la Loi sur le centre canadien de gestion à la partie 4
+
+
+
+#### Loi sur l’accès à l’information
+
+
+**251** [Modification]
+
+
+
+**252** [Modification]
+
+
+
+
+#### Loi sur la gestion des finances publiques
+
+
+**253** [Modification]
+
+
+
+**254** [Modification]
+
+
+
+
+#### Loi sur la protection des renseignements personnels
+
+
+**255** [Modification]
+
+
+
+**256** [Modification]
+
+
+
+
+#### Loi sur les relations de travail dans la fonction publique
+
+
+**257** [Modification]
+
+
+
+**258** [Modification]
+
+
+
+
+#### Loi sur la pension de la fonction publique
+
+
+**259** [Modification]
+
+
+
+**260** [Modification]
+
+
+
+
+#### Loi sur les fonds renouvelables
+
+
+**261** [Modification]
+
+
+
+
+**PARTIE 7** 
+## Dispositions de coordination
+
+
+
+### Loi sur la modernisation de la fonction publique
+
+
+**262** [Modification]
+
+
+
+**263** [Modification]
+
+
+
+
+### Loi sur la gestion des finances publiques
+
+
+**264** [Modification]
+
+
+
+**265** [Modification]
+
+
+
+**266** [Modification]
+
+
+
+**267** [Modification]
+
+
+
+**268** [Modification]
+
+
+
+
+### Loi sur l’emploi dans la fonction publique
+
+
+**269** [Modification]
+
+
+
+**270** [Modification]
+
+
+
+
+### Loi sur l’emploi dans la fonction publique
+
+
+**271** [Modification]
+
+
+
+**272** [Modification]
+
+
+
+
+### Loi sur les relations de travail dans la fonction publique
+
+
+**273** [Modification]
+
+
+
+**274** [Modification]
+
+
+
+**275** [Modification]
+
+
+
+
+### Loi sur le Yukon
+
+
+**276** [Modification]
+
+
+
+
+### Projet de loi C-2
+
+
+**277** [Modification]
+
+
+
+
+### Projet de loi C-6
+
+
+**278** [Modification]
+
+
+
+
+### Projet de loi C-12
+
+
+**279** [Modification]
+
+
+
+
+### Projet de loi C-13
+
+
+**280** [Modification]
+
+
+
+
+### Projet de loi C-17
+
+
+**281** [Modification]
+
+
+
+
+### Projet de loi C-18
+
+
+**282** [Modification]
+
+
+
+
+### Projet de loi C-19
+
+
+**283** [Modification]
+
+
+
+
+**PARTIE 8** 
+## Abrogations
+
+
+**284** [Abrogation]
+
+
+
+**285** [Abrogation]
+
+
+
+
+**PARTIE 9** 
+## Entrée en vigueur
+
+
+
+**Entrée en vigueur**
+
+<sup><a href='#P-33.4_f_s286'>[*]</a></sup>**286** 
+
+- **(1)** Sous réserve du paragraphe (2), les dispositions de la présente loi, à l’exception des articles 1 et 262 à 285, ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
+
+**Partie 2 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)**
+
+- **(2)** Les dispositions de la partie 2 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans leur version édictée par l’article 2 de la présente loi, entrent en vigueur à la date ou aux dates fixées par décret pris sur recommandation du ministre, au sens du paragraphe 2(1) de cette loi, après consultation du président de la Commission des relations de travail dans la fonction publique nommé conformément à l’article 12 de cette loi.
+
+<a name='P-33.4_f_s286'><sup>*</sup></a>: [Note : Articles 1 et 262 à 285 en vigueur à la sanction le 7 novembre 2003.]<br />
+
+
+
+
+### **ANNEXE 1** 
+[Modification]
+
+
+
+
+
+### **ANNEXE 2** 
+**(article 13)**
+> [Voir la Loi sur l’emploi dans la fonction publique]
+
