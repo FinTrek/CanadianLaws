@@ -501,12 +501,12 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 **Deposit of copies**
 
 **25** The Minister shall cause a copy of each self-government agreement that is brought into effect and of any amendment made to such an agreement, certified by the Minister to be a true copy, to be deposited in
-- **(a)** the National Archives of Canada;
+- **(a)** the Library and Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region;
 - **(c)** such regional offices of the Government of Canada situated in Yukon as the Minister considers advisable;
 - **(d)** the central registry of laws of first nations established under section 10, if any; and
 - **(e)** such other places as the Minister considers advisable.
-> 1994, c. 35, s. 25; 2002, c. 7, s. 267.
+> 1994, c. 35, s. 25; 2002, c. 7, s. 267; 2004, c. 11, s. 51.
 
 
 
