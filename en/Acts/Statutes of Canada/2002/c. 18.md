@@ -68,27 +68,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***disposal*** has the same meaning as in section 122 of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), read without reference to the sea.
+***disposal*** has the same meaning as in section 122 of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), read without reference to the sea. (*immersion*)
 
-***ecosystem*** means a dynamic complex of animal, plant and microorganism communities and their non-living environment interacting as a functional unit.
+***ecosystem*** means a dynamic complex of animal, plant and microorganism communities and their non-living environment interacting as a functional unit. (*écosystème*)
 
-***enforcement officer*** means a person designated under section 19 or belonging to a class of persons so designated.
+***enforcement officer*** means a person designated under section 19 or belonging to a class of persons so designated. (*agent de l’autorité*)
 
-***fishing*** has the meaning given to that expression in the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+***fishing*** has the meaning given to that expression in the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md). (*pêche*)
 
-***marine conservation area*** means a national marine conservation area of Canada named and described in Schedule 1.
+***marine conservation area*** means a national marine conservation area of Canada named and described in Schedule 1. (*aire marine de conservation*)
 
-***marine conservation area warden*** means a person designated under section 18.
+***marine conservation area warden*** means a person designated under section 18. (*garde d’aire marine de conservation*)
 
-***Minister*** means the Minister of Canadian Heritage.
+***Minister*** means the Minister responsible for the Parks Canada Agency. (*ministre*)
 
-***public lands*** means lands, including submerged lands, that belong to Her Majesty in right of Canada or that the Government of Canada has the power to dispose of, whether or not subject to the terms of any agreement between the Government of Canada and the government of a province.
+***public lands*** means lands, including submerged lands, that belong to Her Majesty in right of Canada or that the Government of Canada has the power to dispose of, whether or not subject to the terms of any agreement between the Government of Canada and the government of a province. (*terres domaniales*)
 
-***reserve*** means a national marine conservation area reserve of Canada named and described in Schedule 2.
+***reserve*** means a national marine conservation area reserve of Canada named and described in Schedule 2. (*réserve*)
 
-***superintendent*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of a marine conservation area, and includes any other person appointed under that Act who is authorized by that person to act on that person’s behalf.
+***superintendent*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of a marine conservation area, and includes any other person appointed under that Act who is authorized by that person to act on that person’s behalf. (*directeur*)
 
-***waste or other matter*** means waste or other matter listed in Schedule 5 to the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md).
+***waste or other matter*** means waste or other matter listed in Schedule 5 to the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md). (*déchets ou autres matières*)
 
 **Aboriginal rights**
 
@@ -101,6 +101,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of Act to reserves**
 
 - **(4)** This Act applies to a reserve as if it were a marine conservation area.
+> 2002, c. 18, s. 2; 2005, c. 2, s. 6.
+
 
 
 
