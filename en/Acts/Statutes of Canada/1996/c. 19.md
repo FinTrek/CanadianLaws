@@ -1228,8 +1228,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **Regulations pertaining to law enforcement**
 
-- **(2)** The Governor in Council, on the recommendation of the Solicitor General of Canada, may make regulations that pertain to investigations and other law enforcement activities conducted under this Act by a member of a police force and other persons acting under the direction and control of a member and, without restricting the generality of the foregoing, may make regulations
-	- **(a)** authorizing the Solicitor General of Canada, or the provincial minister responsible for policing in a province, to designate a police force within the Solicitor General’s jurisdiction or the minister’s jurisdiction, as the case may be, for the purposes of this subsection;
+- **(2)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may make regulations that pertain to investigations and other law enforcement activities conducted under this Act by a member of a police force and other persons acting under the direction and control of a member and, without restricting the generality of the foregoing, may make regulations
+	- **(a)** authorizing the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction for the purposes of this subsection;
 	- **(b)** exempting, on such terms and conditions as may be specified in the regulations, a member of a police force that has been designated pursuant to paragraph (a) and other persons acting under the direction and control of the member from the application of any provision of Part I or the regulations;
 	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force that has been designated pursuant to paragraph (a) for the purpose of exempting the member from the application of this Act or the regulations;
 	- **(d)** respecting the detention, storage, disposal or otherwise dealing with any controlled substance or precursor;
@@ -1238,8 +1238,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **Regulations pertaining to law enforcement under other Acts of Parliament**
 
-- **(2.1)** The Governor in Council, on the recommendation of the Solicitor General of Canada, may, for the purpose of an investigation or other law enforcement activity conducted under another Act of Parliament, make regulations authorizing a member of a police force or other person under the direction and control of such a member to commit an act or omission — or authorizing a member of a police force to direct the commission of an act or omission — that would otherwise constitute an offence under Part I or the regulations and, without restricting the generality of the foregoing, may make regulations
-	- **(a)** authorizing the Solicitor General of Canada, or the provincial minister responsible for policing in a province, to designate a police force within the Solicitor General’s jurisdiction or the minister’s jurisdiction, as the case may be, for the purposes of this subsection;
+- **(2.1)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may, for the purpose of an investigation or other law enforcement activity conducted under another Act of Parliament, make regulations authorizing a member of a police force or other person under the direction and control of such a member to commit an act or omission — or authorizing a member of a police force to direct the commission of an act or omission — that would otherwise constitute an offence under Part I or the regulations and, without restricting the generality of the foregoing, may make regulations
+	- **(a)** authorizing the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction for the purposes of this subsection;
 	- **(b)** exempting, on such terms and conditions as may be specified in the regulations, a member of a police force that has been designated pursuant to paragraph (a) and other persons acting under the direction and control of the member from the application of any provision of Part I or the regulations;
 	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force that has been designated pursuant to paragraph (a) for the purpose of exempting the member from the application of Part I or the regulations;
 	- **(d)** respecting the detention, storage, disposal or other dealing with any controlled substance or precursor;
@@ -1249,7 +1249,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Incorporation by reference**
 
 - **(3)** Any regulations made under this Act incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time, and, in such a case, the reference shall be read accordingly.
-> 1996, c. 19, s. 55; 2001, c. 32, s. 55.
+> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15.
 
 
 
@@ -1262,12 +1262,11 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**Powers, duties and functions of Minister or Solicitor General of Canada**
+**Powers, duties and functions of Minister or Minister of Public Safety and Emergency Preparedness**
 
-**57** Any power, duty or function of
-- **(a)** the Minister under this Act or the regulations, or
-- **(b)** the Solicitor General of Canada under the regulations
-may be exercised or performed by any person designated, or any person occupying a position designated, by the Minister or the Solicitor General, as the case may be, for that purpose.
+**57** The Minister’s powers, duties or functions under this Act or the regulations — and those of the Minister of Public Safety and Emergency Preparedness under the regulations — may be exercised or performed by any person designated, or any person occupying a position designated, for that purpose by the relevant Minister.
+> 1996, c. 19, s. 57; 2005, c. 10, s. 16.
+
 
 
 
@@ -1308,8 +1307,8 @@ may be exercised or performed by any person designated, or any person occupying 
 
 **References to prior enactments**
 
-**61** Any reference in a designation by the Solicitor General of Canada under Part VI of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to an offence contrary to the Narcotic Control Act or Part III or IV of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or any conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence shall be deemed to be a reference to an offence contrary to section 5 (trafficking), 6 (importing and exporting) or 7 (production) of this Act, as the case may be, or a conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence.
-> 1996, c. 19, s. 61; 2001, c. 32, s. 56.
+**61** Any reference in a designation by the Minister of Public Safety and Emergency Preparedness under Part VI of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to an offence contrary to the Narcotic Control Act or Part III or IV of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or any conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence shall be deemed to be a reference to an offence contrary to section 5 (trafficking), 6 (importing and exporting) or 7 (production) of this Act, as the case may be, or a conspiracy or attempt to commit or being an accessory after the fact or any counselling in relation to such an offence.
+> 1996, c. 19, s. 61; 2001, c. 32, s. 56; 2005, c. 10, s. 34.
 
 
 
