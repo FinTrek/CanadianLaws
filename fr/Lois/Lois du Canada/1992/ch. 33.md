@@ -195,7 +195,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** La présente partie ne s’applique pas, pour les activités qui relèvent de leurs fonctions :
 	- **a)** aux fonctionnaires — au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) — notamment déterminés par la Commission des relations de travail dans la fonction publique ou faisant partie d’une unité de négociation accréditée par celle-ci;
 	- **b)** aux employés — au sens de la partie I du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) — notamment déterminés par le Conseil canadien des relations industrielles ou faisant partie d’une unité de négociation accréditée par celui-ci.
-> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83.
+> 1992, ch. 33, art. 9; 1998, ch. 26, art. 83; 2003, ch. 22, art. 220(A).
 
 
 
@@ -274,6 +274,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rattachement**
 
 - **(2)** Les membres à temps plein sont respectivement rattachés à la fonction publique, pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), et à l’administration publique fédérale, pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 1992, ch. 33, art. 12; 2003, ch. 22, art. 221(A).
+
 
 
 
@@ -317,6 +319,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personnel**
 
 **15** Le personnel nécessaire à l’exercice de l’activité du Tribunal est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et est rattaché à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> 1992, ch. 33, art. 15; 2003, ch. 22, art. 225(A).
+
 
 
 
@@ -1174,6 +1178,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération et indemnités**
 
 **63** Les personnes qui exercent, à la demande du ministre, les attributions prévues par la présente partie, à l’exception des arbitres et présidents de conseil d’arbitrage, reçoivent la rémunération et les indemnités fixées par règlement si elles ne font pas partie de l’administration publique fédérale.
+> 1992, ch. 33, art. 63; 2003, ch. 22, art. 224(A).
+
 
 
 
