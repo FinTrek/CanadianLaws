@@ -58,7 +58,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***président*** Le président de l’École nommé aux termes du paragraphe 13(1).
 
-> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23.
+> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A).
 
 
 
@@ -102,7 +102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** d’aider les administrateurs généraux à répondre aux besoins de formation de leur organisation, notamment par voie de mise en oeuvre de programmes de formation et de perfectionnement;
 - **g)** de mener des études et des recherches sur la théorie et la pratique de la gestion dans le secteur public et de l’administration publique;
 - **h)** de sensibiliser la population canadienne aux questions relatives à la gestion du secteur public, à l’administration publique et à l’ensemble du processus gouvernemental et de faire participer à son idéal de perfection dans l’administration publique des personnalités et des organismes appartenant à de multiples secteurs d’activité.
-> 1991, ch. 16, art. 4; 2003, ch. 22, art. 24.
+> 1991, ch. 16, art. 4; 2003, ch. 22, art. 24 et 225(A).
 
 
 
@@ -127,7 +127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ** acquérir, par don ou legs, des meubles et des biens personnels, notamment sous forme d’argent ou de valeurs, et les employer, les gérer ou en disposer, sous réserve des conditions dont sont éventuellement assorties ces libéralités;
 - **i)
 ** prendre toute autre mesure utile à l’accomplissement de sa mission.
-> 1991, ch. 16, art. 5; 2001, ch. 4, art. 68; 2003, ch. 22, art. 25.
+> 1991, ch. 16, art. 5; 2001, ch. 4, art. 68; 2003, ch. 22, art. 25 et 225(A).
 
 
 
@@ -179,6 +179,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Représentation**
 
 - **(2)** Les nominations visées à l’article 8 doivent être faites de manière que, exception faite de la présidence, le conseil se compose à parité d’administrateurs appartenant à la fonction publique et d’administrateurs extérieurs à celle-ci.
+> 1991, ch. 16, art. 9; 2003, ch. 22, art. 225(A).
+
 
 
 
@@ -211,6 +213,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rémunération**
 
 - **(2)** Les administrateurs qui n’appartiennent pas à la fonction publique peuvent recevoir la rémunération que peut déterminer le gouverneur en conseil pour leur présence aux réunions du conseil ou pour les travaux accomplis pour le compte de celui-ci.
+> 1991, ch. 16, art. 11; 2003, ch. 22, art. 225(A).
+
 
 
 
@@ -244,12 +248,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Programmes et orientations**
 
-- **(3)** Dans l’exercice de la direction générale de l’École et du contrôle de ses programmes, le président tient compte des grandes orientations du gouvernement fédéral, ainsi que des besoins et ordres de priorité de la fonction publique en matière d’apprentissage, de formation et de perfectionnement qui ont été déterminés par le Conseil du Trésor.
+- **(3)** Dans l’exercice de la direction générale de l’École et du contrôle de ses programmes, le président tient compte des grandes orientations du gouvernement fédéral, ainsi que des lignes directrices relatives aux besoins et aux ordres de priorité en matière d’apprentissage, de formation et de perfectionnement qui ont été élaborées par le Conseil du Trésor au titre de l’alinéa 11.1(1) f) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 **Vacance du poste**
 
 - **(4)** En cas de vacance du poste de président, le conseil peut nommer un cadre supérieur de l’École qui assure l’intérim; la durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à quatre-vingt-dix jours.
-> 1991, ch. 16, art. 13; 2003, ch. 22, art. 30.
+> 1991, ch. 16, art. 13; 2003, ch. 22, art. 30 et 132.1.
 
 
 
@@ -285,7 +289,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application de certains textes**
 
 - **(4)** Les personnes visées au paragraphe (2) sont réputées, d’une part, être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), d’autre part, appartenir à l’administration publique fédérale pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), et faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
-> 1991, ch. 16, art. 15; 2003, ch. 22, art. 31.
+> 1991, ch. 16, art. 15; 2003, ch. 22, art. 31 et 133(A).
 
 
 
