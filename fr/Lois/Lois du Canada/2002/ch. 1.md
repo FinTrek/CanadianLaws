@@ -14,7 +14,7 @@ Sanctionnée sur le 19 février 2002
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que la société se doit de répondre aux besoins des adolescents, de les aider dans leur développement et de leur offrir soutien et conseil jusqu’à l’âge adulte;
 
@@ -28,7 +28,7 @@ que la société canadienne doit avoir un système de justice pénale pour les a
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -74,10 +74,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***groupe consultatif*** Tout groupe de personnes constitué pour l’application de l’article 19.
 
-***infraction*** Toute infraction créée par une loi fédérale ou par ses textes d’application : règlement, règle, ordre, décret, arrêté, règlement administratif ou ordonnance, à l’exclusion des ordonnances du Yukon et des Territoires du Nord-Ouest et des lois de la Législature du Nunavut.
+***infraction*** Toute infraction créée par une loi fédérale ou par ses textes d’application : règlement, règle, ordre, décret, arrêté, règlement administratif ou ordonnance, à l’exclusion des ordonnances des Territoires du Nord-Ouest et des lois de la Législature du Yukon ou de celle du Nunavut.
 
 ***infraction désignée***
-- **a)** Toute infraction visée à l’une des dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) énumérées ci-après et commise ou alléguée avoir été commise par un adolescent après qu’il a atteint l’âge de quatorze ans ou, dans le cas où le lieutenant-gouverneur en conseil de la province a fixé un âge de plus de quatorze ans en vertu de l’article 61, l’âge ainsi fixé :
+- **a)** Toute infraction visée à l’une des dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) énumérées ci-après et commise ou alléguée avoir été commise par un adolescent après qu’il a atteint l’âge de quatorze ans ou, dans le cas où le lieutenant-gouverneur en conseil de la province a fixé un âge de plus de quatorze ans en vertu de l’article 61, l’âge ainsi fixé :
 	- **(i)** les articles 231 ou 235 (meurtre au premier ou au deuxième degré),
 	- **(ii)** l’article 239 (tentative de meurtre),
 	- **(iii)** les articles 232, 234 ou 236 (homicide involontaire coupable),
@@ -119,6 +119,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
+> 2002, ch. 1, art. 2, ch. 7, art. 274.
+
 
 
 
@@ -3999,7 +4001,7 @@ S’il est convaincu que l’ordonnance visée aux paragraphes 64(5) (non-opposi
 
 <sup><a href='#Y-1.5_fr_1'>[*]</a></sup>**200** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='Y-1.5_fr_1'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='Y-1.5_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> avril 2003, *voir* TR/2002-91.]<br />
 
 
 
