@@ -3397,11 +3397,11 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Nomination de l’enquêteur**
 
-- **(2)** Si le ministre estime qu’une enquête s’impose, celle-ci est tenue par un juge, juge surnuméraire ou ancien juge de la Cour fédérale.
+- **(2)** Si le ministre estime qu’une enquête s’impose, celle-ci est tenue par un juge, juge surnuméraire ou ancien juge de la Cour fédérale du Canada, de la Cour d’appel fédérale ou de la Cour fédérale.
 
 **Pouvoirs d’enquête**
 
-- **(3)** L’enquêteur nommé conformément au paragraphe (2) a les attributions d’une cour supérieure. Il peut notamment :
+- **(3)** L’enquêteur nommé conformément au paragraphe (2) a les attributions d’une cour supérieure. Il peut notamment :
 	- **a)** par citation adressée aux personnes ayant connaissance des faits se rapportant à l’affaire dont il est saisi, leur enjoindre de comparaître comme témoins aux date, heure et lieu indiqués et d’apporter et de produire tous documents, livres ou pièces, utiles à l’affaire, dont elles ont la possession ou la responsabilité;
 	- **b)** faire prêter serment et interroger sous serment.
 
@@ -3411,7 +3411,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Confidentialité**
 
-- **(5)** L’enquêteur peut, sur demande en ce sens, prendre toute mesure ou rendre toute ordonnance pour assurer la confidentialité de l’enquête s’il est convaincu que, selon le cas :
+- **(5)** L’enquêteur peut, sur demande en ce sens, prendre toute mesure ou rendre toute ordonnance pour assurer la confidentialité de l’enquête s’il est convaincu que, selon le cas :
 	- **a)** des questions touchant à la sécurité publique risquent d’être divulguées;
 	- **b)** risquent d’être divulguées lors de l’enquête des questions financières, personnelles ou autres de nature telle qu’il vaut mieux éviter leur divulgation dans l’intérêt des personnes concernées ou dans l’intérêt public qu’adhérer au principe selon lequel l’enquête doit être publique;
 	- **c)** il y a une sérieuse possibilité que la vie, la liberté ou la sécurité d’une personne puisse être mise en danger par la publicité des débats.
@@ -3431,7 +3431,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Avis de l’audition**
 
 - **(9)** Le membre en cause doit être informé, suffisamment à l’avance, de l’objet de l’enquête, ainsi que des date, heure et lieu de l’audition, et avoir la possibilité de se faire entendre, de contre-interroger les témoins et de présenter tous éléments de preuve utiles à sa décharge, personnellement ou par procureur.
-> 1995, ch. 42, art. 59
+> 1995, ch. 42, art. 59; 2002, ch. 8, art. 132
 
 
 
