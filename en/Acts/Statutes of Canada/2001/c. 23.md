@@ -37,35 +37,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***board*** means the board of directors of the Foundation.
+***board*** means the board of directors of the Foundation. (*conseil*)
 
-***Chairperson*** means the Chairperson of the board appointed under paragraph 9(2)(a).
+***Chairperson*** means the Chairperson of the board appointed under paragraph 9(2)(a). (*président*)
 
-***corporation*** means the corporation described in the order made under subsection 35(1).
+***corporation*** means the corporation described in the order made under subsection 35(1). (*société*)
 
-***director*** means a person who is on the board and includes the Chairperson.
+***director*** means a person who is on the board and includes the Chairperson. (*administrateur*)
 
-***eligible project*** means a project carried on, or to be carried on, primarily in Canada by an eligible recipient to develop and demonstrate new technologies to promote sustainable development, including technologies to address climate change and air quality issues.
+***eligible project*** means a project carried on, or to be carried on, primarily in Canada by an eligible recipient to develop and demonstrate new technologies to promote sustainable development, including technologies to address issues related to climate change and the quality of air, water and soil. (*travaux admissibles*)
 
-***eligible recipient*** means an entity that
+***eligible recipient*** means an entity that
 - **(a)** is established in Canada and carries on or, in the opinion of the board, is capable of carrying on eligible projects;
 - **(b)** meets the criteria of eligibility established in any agreement entered into between Her Majesty in right of Canada and the Foundation for provision of funding by Her Majesty to the Foundation; and
-- **(c)** has legal capacity or is composed of organizations, each of which has legal capacity.
+- **(c)** has legal capacity or is composed of organizations, each of which has legal capacity. (*bénéficiaire admissible*)
 
-***employee or agent of Her Majesty in right of a province*** does not include an employee or agent of Her Majesty in right of a province whose duties and functions in that capacity are restricted to work in a university, college or other educational institution.
+***employee or agent of Her Majesty in right of a province*** does not include an employee or agent of Her Majesty in right of a province whose duties and functions in that capacity are restricted to work in a university, college or other educational institution. (*fonctionnaire ou mandataire de Sa Majesté du chef d’une province*)
 
-***Foundation*** means the Canada Foundation for Sustainable Development Technology referred to in section 3.
+***Foundation*** means the Canada Foundation for Sustainable Development Technology referred to in section 3. (*Fondation*)
 
-***member*** means a person who is a member of the Foundation.
+***member*** means a person who is a member of the Foundation. (*membre*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
 
-***not-for-profit organization*** means a corporation, society, association, university, research institute, organization or body no part of whose income is payable to or otherwise available for the personal benefit of any of its proprietors, members or shareholders.
+***not-for-profit organization*** means a corporation, society, association, university, research institute, organization or body no part of whose income is payable to or otherwise available for the personal benefit of any of its proprietors, members or shareholders. (*organisation sans but lucratif*)
 
-***special resolution*** means a resolution of the members passed by a majority of not less than two thirds of the votes cast by the members who voted on the resolution at a meeting of members or signed by all the members entitled to vote on the resolution.
+***special resolution*** means a resolution of the members passed by a majority of not less than two thirds of the votes cast by the members who voted on the resolution at a meeting of members or signed by all the members entitled to vote on the resolution. (*résolution extraordinaire*)
 
-***sustainable development*** means development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
-> 2001, c. 23, ss. 2, 36.
+***sustainable development*** means development that meets the needs of the present without compromising the ability of future generations to meet their own needs. (*développement durable*)
+> 2001, c. 23, ss. 2, 36; 2004, c. 22, s. 12.
 
 
 
@@ -271,11 +271,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** The appointment of directors shall be made having regard to the following considerations:
 - **(a)** the need to ensure, as far as possible, that at all times the board will be representative of
-	- **(i)** persons engaged in the development and demonstration of technologies to promote sustainable development, including technologies to address climate change and air quality issues,
+	- **(i)** persons engaged in the development and demonstration of technologies to promote sustainable development, including technologies to address issues related to climate change and the quality of air, water and soil,
 	- **(ii)** the business community, and
 	- **(iii)** not-for-profit organizations;
 - **(b)** the importance of having a board that is representative of various regions of Canada and includes men and women who are able to contribute to the achievement of the objects and purposes of the Foundation; and
 - **(c)** the need for a board that has sufficient knowledge of technologies that promote sustainable development.
+> 2001, c. 23, s. 11; 2004, c. 22, s. 13.
+
 
 
 
@@ -389,11 +391,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **15** The appointment of members shall be made having regard to the following considerations:
 - **(a)** the need to ensure, as far as possible, that at all times the membership will be representative of
-	- **(i)** persons engaged in the development and demonstration of technologies to promote sustainable development, including technologies to address climate change and air quality issues,
+	- **(i)** persons engaged in the development and demonstration of technologies to promote sustainable development, including technologies to address issues related to climate change and the quality of air, water and soil,
 	- **(ii)** the business community, and
 	- **(iii)** not-for-profit organizations;
 - **(b)** the importance of having membership that is representative of various regions of Canada and includes men and women who are able to contribute to the achievement of the objects and purposes of the Foundation; and
 - **(c)** the need for a membership that has sufficient knowledge of technologies that promote sustainable development.
+> 2001, c. 23, s. 15; 2004, c. 22, s. 14.
+
 
 
 
