@@ -1,337 +1,316 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4th%20Supp.).md)
 
-# Atlantic Canada Opportunities Agency Act
+# Enterprise Cape Breton Corporation Act
 
 **S.C. 1985, c. 41 (4th Supp.)**
 
 
 ```
-[Enacted as Part I to R.S., 1985, c. 41 (4th Supp.), in force September 15, 1988, see SI/88-152.]
+[Enacted as Part II to R.S., 1985, c. 41 (4th Supp.), in force December 1, 1988, see SI/88-140.]
 ```
 ----------
 
 
 
-## Short Title
+## 
+
+
+
+### Short Title
 
 
 
 **Short title**
 
-**2** This Part may be cited as the Atlantic Canada Opportunities Agency Act.
+**25** This Part may be cited as the Enterprise Cape Breton Corporation Act.
 
 
 
 
-## Interpretation
+### Interpretation
 
 
 
 **Definitions**
 
-**3** In this Part,
+**26** In this Part,
 
-***Agency*** means the Atlantic Canada Opportunities Agency established by section 10; (*Agence*)
+***Board*** means the Board of Directors of the Corporation;
 
-***Atlantic Canada*** means the Provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador; (*Canada atlantique*)
+***Cape Breton Island*** means Cape Breton Island and that portion of the Province of Nova Scotia within the following described boundary:
 
-***Board***[Repealed, 2014, c. 20, s. 175]
-
-***designated area*** means an area of Atlantic Canada designated by order of the Minister pursuant to section 7; (*zone désignée*)
-
-***Minister*** means such member of the Queen’s Privy Council for Canada as is appointed by Commission under the Great Seal to be the Minister for the purposes of this Part; (*ministre*)
-
-***President*** means the President of the Agency appointed pursuant to subsection 11(1). (*président*)
-> R.S., 1985, c. 41 (4th Supp.), s. 3; 2014, c. 20, s. 175; 2015, c. 3, s. 172.
+beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head, said point being S70 degrees E (Nova Scotia grid meridian) from Geodetic Station Sand, thence in a southwesterly direction to a point on the northwesterly boundary of highway 344, said point being southwesterly 240 feet from the intersection of King Brook with said highway boundary, thence northwesterly to Crown post 6678, thence continuing northwesterly to Crown post 6679, thence continuing northwesterly to Crown post 6680, thence continuing northwesterly to Crown post 6681, thence continuing northwesterly to Crown post 6632, thence continuing northwesterly to Crown post 6602, thence northerly to Crown post 8575, thence northerly to Crown post 6599, thence continuing northerly to Crown post 6600, thence northwesterly to the southwest angle of the Town of Mulgrave, then along the westerly boundary of the Town of Mulgrave and a prolongation thereof northerly to the Antigonish-Guysborough county line, thence along said county line northeasterly to the southwesterly shore of the Strait of Canso, thence following the southwesterly shore of the Strait of Canso and the northwesterly shore of Chedabucto Bay southeasterly to the place of beginning;
 
 
 
+***Corporation*** means the Enterprise Cape Breton Corporation;
 
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md);
 
-## Purpose
+***President*** means the President of the Atlantic Canada Opportunities Agency appointed pursuant to subsection 11(1) of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md);
 
-
-
-**Purpose**
-
-**4** The purpose of this Part is to increase opportunity for economic development in Atlantic Canada and, more particularly, to enhance the growth of earned incomes and employment opportunities in that region.
+***Vice-President*** means the Vice-President of the Corporation appointed pursuant to subsection 28(1).
 
 
 
 
-## Powers, Duties and Functions of the Minister
+### Corporation Established
 
 
 
-**Powers, duties and functions of the Minister**
+**Corporation established**
 
-**5** 
+**27** A corporation is hereby established to be called the Enterprise Cape Breton Corporation, consisting of a Board of Directors comprised of the President, the Vice-President and five other directors to be appointed in the manner provided in subsection 28(2).
 
-- **(1)** In furtherance of the purpose of this Part, the Minister may exercise powers and perform duties and functions that affect economic opportunity and development in Atlantic Canada over which Parliament has jurisdiction and that are not by or pursuant to law assigned to any other member of the Queen’s Privy Council for Canada or to any department, board or agency of the Government of Canada.
 
-**Coordination**
 
-- **(2)** The Minister shall coordinate the policies and programs of the Government of Canada in relation to opportunity for economic development in Atlantic Canada.
 
-**Advisory boards**
+**Vice-President**
 
-- **(3)** The Minister may establish advisory boards and provide for their membership, duties, functions and operation.
+**28** 
+
+- **(1)** The Vice-President shall be appointed by the Governor in Council for such term as the Governor in Council deems appropriate and may be removed at any time by the Governor in Council.
+
+**Directors**
+
+- **(2)** Each director, other than the President and the Vice-President, shall be appointed by the Minister, with the approval of the Governor in Council, to hold office for such term, not exceeding three years, as will ensure, as far as possible, the expiration in any one year of the terms of office of not more than one-half of the directors, but may be removed at any time by the Minister, with the approval of the Governor in Council.
+
+**Re-appointment**
+
+- **(3)** The Vice-President is eligible for re-appointment on the expiration of a term of office, but, notwithstanding subsection 105(3) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any other director who has served two consecutive terms is not, during the twelve months following the completion of a second term, eligible for appointment except as President or Vice-President.
+
+**Vacancy**
+
+- **(4)** A vacancy on the Board does not impair the right of the remaining directors to act but where any such vacancy occurs it shall be filled as soon as practicable by appointment in the manner provided in this section.
+
+
+
+
+**President to preside at meetings**
+
+**29** The President shall preside at meetings of the Board but in the event of the absence or incapacity of the President, or if the office of President is vacant, the Vice-President shall preside at such meetings.
+
+
+
+
+**Management vested in President**
+
+**30** 
+
+- **(1)** The President is the chief executive officer of the Corporation and has, on behalf of the Board, the direction and control of the business of the Corporation with authority to act in the conduct of the business of the Corporation in all matters that are not by this Part or by the by-laws of the Corporation specifically reserved to be done by the Board.
+
+**Vice-President to be chief operating officer**
+
+- **(2)** The Vice-President is the chief operating officer of the Corporation and has, on behalf of the President, the direction and control of the day-to-day operations of the Corporation with authority to act in the conduct of the business of the Corporation in all matters that are not by this Part or by the by-laws of the Corporation specifically reserved to be done by the Board or the President.
+
+**Absence or incapacity of Vice-President**
+
+- **(3)** In the event of the absence or incapacity of the Vice-President, or if the office of Vice-President is vacant, the Board shall authorize an officer or director of the Corporation to act as the Vice-President for the time being, but no person so authorized by the Board has authority to act as Vice-President for a period exceeding sixty days without the approval of the Governor in Council.
+
+
+
+
+**Salaries and fees**
+
+**31** 
+
+- **(1)** The Vice-President shall be paid by the Corporation a salary to be fixed by the Governor in Council and the other directors, other than the President, shall be paid by the Corporation such fees for attendances at meetings of the Board or any committee thereof as are fixed by the Governor in Council.
 
 **Expenses**
 
-- **(4)** Subject to the approval of the Governor in Council, the Minister may provide for the payment of reasonable travel and living expenses incurred in the performance of their duties and functions by members of advisory boards established under subsection (3).
+- **(2)** Each director other than the President is entitled to be paid by the Corporation such travel and living expenses incurred in the performance of duties as such as are fixed by by-law of the Corporation.
 
 
 
 
-**Responsible for Agency**
+**Staff**
 
-**6** 
+**32** 
 
-- **(1)** The Minister is responsible for the Agency.
+- **(1)** The Corporation may employ such officers and employees and technical and professional advisers as it considers necessary for the proper conduct of its activities.
 
-**Agreements with provinces**
+**Remuneration and terms and conditions of employment**
 
-- **(2)** The Minister may enter into agreements with the government of any province or provinces in Atlantic Canada respecting the carrying out of any program or project of the Agency.
-> R.S., 1985, c. 41 (4th Supp.), s. 6; 2002, c. 17, s. 2.
-
+- **(2)** The persons employed pursuant to subsection (1) shall be paid by the Corporation such remuneration as is fixed or provided for by the Board and shall be employed on such terms and conditions as are fixed or provided for by by-laws of the Corporation.
 
 
 
 
-**Establishment of areas**
-
-**7** The Minister may, by order, establish as a designated area, for the period set out in the order, any area in Atlantic Canada where, in the opinion of the Minister, exceptional circumstances provide opportunities for locally based improvements in productive employment.
+### Objects and Powers
 
 
 
+**Objects**
 
-**Shares and related instruments**
-
-**8** Subject to any regulations, the Minister may acquire, exercise, assign or sell a stock option, share warrant, share or other similar financial instrument obtained as a condition of a loan or contribution made, a guarantee given or loan insurance or credit insurance provided under section 13 or in the course of the collection or enforcement of a debtor’s obligation to the Agency.
-> R.S., 1985, c. 41 (4th Supp.), s. 8; 2001, c. 34, s. 5.
-
-
-
-
-
-**Support for programs and projects under other Acts**
-
-**9** 
-
-- **(1)** Where the Minister is satisfied that the implementation of a program or project authorized by any other Act would further the purpose of this Part, the Minister may, conditionally or unconditionally, undertake to transfer funds appropriated for the purposes of this Part to supplement funds that the minister responsible for the program or project has undertaken to expend in connection therewith.
-
-**Effect of undertaking**
-
-- **(2)** Subject to compliance with any conditions attached to an undertaking given by the Minister pursuant to subsection (1) and to the approval of Parliament, funds undertaken to be transferred may be expended by the minister responsible for the implementation of the program or project on the same terms and conditions as funds that that minister has undertaken to expend in connection therewith.
-
-**Information in annual report**
-
-- **(3)** Each annual report under subsection 21(3) shall include full and complete information relating to funds undertaken to be transferred under this section in the fiscal year to which the report relates.
-
-
-
-
-## Atlantic Canada Opportunities Agency
-
-
-
-**Establishment of Agency**
-
-**10** There is hereby established an agency of the Government of Canada to be known as the Atlantic Canada Opportunities Agency.
-
-
-
-
-**President**
-
-**11** 
-
-- **(1)** The Governor in Council shall appoint an officer to be the deputy of the Minister, who shall be called the President of the Agency and who shall hold office during pleasure.
-
-**Chief executive officer**
-
-- **(2)** The President is the chief executive officer of the Agency and, under the direction of the Minister, has control and supervision over the work, officers and employees of the Agency.
-
-**Acting President**
-
-- **(3)** In the event of the absence or incapacity of the President or a vacancy in that office, the Minister shall appoint another person to act as the President, but no person may act as President for a period exceeding ninety days without the approval of the Governor in Council.
-
-**Remuneration**
-
-- **(4)** The President shall be paid such remuneration as may be fixed by the Governor in Council.
-
-
-
-
-## Object, Powers and Duties
-
-
-
-**Object**
-
-**12** The object of the Agency is to support and promote opportunity for economic development of Atlantic Canada, with particular emphasis on small and medium-sized enterprises, through policy, program and project development and implementation and through advocacy of the interests of Atlantic Canada in national economic policy, program and project development and implementation.
+**33** The objects of the Corporation are to promote and assist, either alone or in conjunction with any person or the Government of Canada or of Nova Scotia or any agency of either of those governments, the financing and development of industry on Cape Breton Island to provide employment outside the coal producing industry and to broaden the base of the economy of Cape Breton Island.
 
 
 
 
 **Powers**
 
-**13** In carrying out its object, the Agency may
-- **(a)** in concert with other concerned departments and agencies of the Government of Canada, formulate plans and integrated federal approaches to support opportunity for economic development of Atlantic Canada;
-- **(b)** plan, direct, manage and implement programs and projects intended to contribute directly or indirectly to
-	- **(i)** the establishment, development, support and promotion of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada,
-	- **(ii)** the development of entrepreneurial talent in that region, and
-	- **(iii)** the economic prosperity of that region;
-- **(c)** plan, direct, manage and implement programs and projects to improve the business environment in Atlantic Canada, including programs and projects
-	- **(i)** of support to business associations, conferences, studies, consultations, trade shows, demonstration projects and market research,
-	- **(ii)** related to the development of business opportunity data banks and networks,
-	- **(iii)** to improve business communication and cooperation, and
-	- **(iv)** to promote scholarship related to business and investment;
-- **(d)** assist investors to locate enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada, consistent with Atlantic Canada and federal investment requirements;
-- **(e)** make loans to any person with respect to the establishment and development of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada;
-- **(f)** guarantee the repayment of, or provide loan insurance or credit insurance in respect of, any financial obligation undertaken by any person in respect of the establishment and development of enterprises, and more particularly small and medium-sized enterprises, in Atlantic Canada;
-- **(g)** in accordance with terms and conditions approved by Treasury Board, make grants and contributions in support of programs and projects undertaken by the Agency or the Minister;
-- **(h)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the Agency;
-- **(h.1)** acquire the assets and assume the obligations of the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries;
-- **(h.2)** in respect of any security interest that it acquires from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries and that was held by that Corporation or any of those subsidiaries in respect of a loan, investment or agreement that was acquired by that Corporation or any of those subsidiaries,
-	- **(i)** hold any security interest,
-	- **(ii)** surrender any security interest,
-	- **(iii)** realize any security interest, or
-	- **(iv)** exchange, sell, assign or otherwise dispose of any security interest;
-- **(h.3)** hold or exercise, or surrender, sell, assign or otherwise dispose of, a stock option, share or other similar financial instrument that it acquires from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries;
-- **(h.4)** do all things, other than those mentioned in paragraphs (h.2) and (h.3), that are necessary for or incidental to the administration, management, control or disposal of the assets and obligations that it acquires or assumes from the Enterprise Cape Breton Corporation or any of that Corporation’s subsidiaries; and
-- **(i)** do all such other things as are necessary or incidental to the attainment of the object of the Agency.
-> R.S., 1985, c. 41 (4th Supp.), s. 13; 2002, c. 17, s. 3; 2014, c. 20, s. 187.
+**34** 
 
+- **(1)** In carrying out its objects, the Corporation may
+	- **(a)** where a company or person is carrying on or proposing to carry on a business or enterprise that the Corporation considers is likely to make a substantial contribution to the industrial development of Cape Breton Island,
+		- **(i)** lend money, either with or without security and at such rate of interest as the Corporation considers appropriate or without interest, to the company or person,
+		- **(ii)** make grants to the company or person,
+		- **(iii)** notwithstanding section 91 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), invest in the shares or securities of the company or person and hold or sell or otherwise dispose of such shares or securities, or
+		- **(iv)** with the approval of the Governor in Council on the recommendation of the Minister and the Minister of Finance, guarantee repayment by the company or person of any moneys borrowed by it or that person and the payment of all or any portion of the interest thereon;
+	- **(b)** purchase, lease or otherwise acquire any lands or interests therein on Cape Breton Island and manage, improve, develop or otherwise deal with or administer the same;
+	- **(c)** sell or otherwise dispose of any lands or interests therein acquired by it for such consideration as the Corporation thinks fit and for cash or credit or part cash and part credit or for shares or securities of any company or person carrying on or proposing to carry on a business or enterprise that the Corporation considers is likely to make a substantial contribution to the industrial development of Cape Breton Island;
+	- **(d)** take or hold mortgages, liens or charges to secure payment of the sale price of any lands sold or disposed of by it or for any unpaid balance of any such sale price and sell or otherwise dispose of those mortgages, liens or charges;
+	- **(e)** advertise industrial opportunities on Cape Breton Island both within and outside Canada, publish and distribute brochures and other similar material and grant prizes and awards for and make donations and contributions to the effective promotion of the industrial and economic development of Cape Breton Island; and
+	- **(f)** do all such other things as the Corporation deems incidental or conducive to the attainment of its objects.
 
+**Cooperation**
 
+- **(2)** The Corporation shall, to the greatest possible extent consistent with the performance of its duties under this Part, consult and cooperate, either directly or, if a committee to coordinate economic development activities on Cape Breton Island is established pursuant to any agreement in that behalf between the Governments of Canada and Nova Scotia, through that committee, with all departments, branches and agencies of the Governments of Canada and Nova Scotia having duties related to or having aims or objects related to those of the Corporation, and shall not undertake any action in relation to such objects if that action can be more appropriately carried out under any other assistance program or can reasonably be carried out without the assistance of the Corporation.
 
+**Directions**
 
-**Duties**
+- **(3)** The Corporation shall comply with any directions from time to time given to it by the Minister respecting the exercise of its powers.
 
-**14** The Agency shall assist the Minister
-- **(a)** generally, in the exercise of powers and the performance of duties and functions under this Part and any other Act in relation to which powers, duties and functions are assigned to the Minister in relation to opportunity for economic development of Atlantic Canada;
-- **(b)** in the coordination of policies and programs of the Government of Canada in relation to opportunity for economic development of Atlantic Canada;
-- **(c)** by administering any agreements entered into by the Minister with a province or provinces;
-- **(d)** in the exercise of powers conferred on the Minister by section 8; and
-- **(e)** by compiling detailed information on all programs and projects undertaken by the Agency or the Minister for the purpose of measuring trends, development and progress in the economic development of Atlantic Canada.
+**Applicable provisions**
 
+- **(4)** Subsections 89(2) to (6) and section 153 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) apply, with such modifications as the circumstances require, to a direction given under subsection (3) as though it were a directive referred to in those provisions.
 
 
 
-## General
 
+### Financial Provisions
 
 
-**Officers and employees**
 
-**15** 
+**Payments by Minister of Finance**
 
-- **(1)** Such officers and employees as are necessary for the proper conduct of the work of the Agency shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+**35** 
 
-**Government services and facilities**
+- **(1)** The Minister of Finance shall, out of the Consolidated Revenue Fund, on the requisition of the Corporation and the Minister, in accordance with approved budgets of the Corporation, cause to be paid to the Corporation from time to time as required by it such amounts as may from time to time be appropriated by Parliament therefor.
 
-- **(2)** In exercising its powers and performing its duties and functions under this Part, the Agency shall, where appropriate, make use of the services and facilities of departments, boards and agencies of the Government of Canada.
+**Aggregate of guarantees and payments thereon**
 
+- **(2)** The aggregate amount outstanding of guarantees given by the Corporation pursuant to paragraph 34(1)(a) shall not at any time exceed one hundred million dollars, and any amount required to be paid by the terms of any such guarantee may be paid pursuant to section 29 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and shall not be included in computing the aggregate of payments made to the Corporation pursuant to subsection (1).
 
 
 
-**Offices**
 
-**16** The principal office of the Agency shall be in Moncton, New Brunswick, but the Agency shall maintain at least one office in each other province in Atlantic Canada.
+**Administration of funds**
 
+**36** 
 
+- **(1)** All moneys received by the Corporation through the conduct of its operations or otherwise on behalf of or to its credit, including moneys received by the Corporation from Her Majesty in right of Nova Scotia, whether pursuant to an agreement in that behalf between the Governments of Canada and Nova Scotia or otherwise, from an agency of Her Majesty in right of Nova Scotia or from any other person, shall be deposited to the credit of accounts of the Corporation and, subject to the terms, if any, on which they were received, shall be administered and expended by the Corporation exclusively in the exercise and performance of the powers, duties and functions of the Corporation.
 
+**Investments**
 
-**Contracts binding on Her Majesty**
+- **(2)** The Corporation may invest any moneys administered by it pursuant to this section in obligations of or guaranteed by the Government of Canada.
 
-**17** 
+**Books of account**
 
-- **(1)** Every contract, memorandum of understanding and arrangement entered into by the Agency in its own name is binding on Her Majesty in right of Canada to the same extent as it is binding on the Agency.
+- **(3)** The Corporation shall keep proper books of account and records related thereto.
 
-**Legal proceedings**
 
-- **(2)** Actions, suits or other legal proceedings in respect of any right or obligation acquired or incurred by the Agency, whether in its own name or in the name of Her Majesty, may be brought or taken by or against the Agency in the name of the Agency in any court that would have jurisdiction if the Agency were a corporation that is not an agent of Her Majesty.
 
 
+**Information on guarantees**
 
-**18** [Repealed, 2014, c. 20, s. 176]
+**37** Each capital budget submitted by the Corporation pursuant to section 124 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall include such information regarding any guarantees that the Corporation proposes to give pursuant to paragraph 34(1)(a) during the fiscal year to which the budget relates as the Minister may from time to time require.
 
 
 
-**19** [Repealed, 2014, c. 20, s. 176]
 
+### General
 
 
 
-## Regulations
+**Head office and meetings**
 
+**38** The head office of the Corporation shall be at Sydney, Nova Scotia, but meetings of the Board may be held in such other places in Atlantic Canada as the directors may decide.
 
 
-**Regulations**
 
-**20** 
 
-- **(1)** The Minister may make regulations
-	- **(a)** specifying programs and projects in addition to those referred to in paragraph 13(c) to improve the business environment in Atlantic Canada;
-	- **(b)** defining, for the purposes of this Part, the expressions “small and medium-sized enterprises”, “project” and “demonstration projects” and the class or classes of small and medium-sized enterprises and of operations and activities eligible for support by the Agency under this Part; and
-	- **(c)** generally for carrying out the purposes and provisions of this Part.
+**By-laws**
 
-**Idem**
+**39** The Board may make by-laws
+- **(a)** respecting the calling of meetings of the Board;
+- **(b)** respecting the conduct of business at meetings of the Board and the establishment of committees thereof, the delegation of duties to those committees and the fixing of quorums for meetings of the Board and committees thereof;
+- **(c)** fixing the travel and living expenses to be paid to directors other than the President;
+- **(d)** respecting the duties and conduct of the directors, officers and employees of the Corporation and the terms and conditions of employment of officers and employees of the Corporation;
+- **(e)** respecting the establishment, management and administration of a pension fund for the Vice-President, the officers and employees of the Corporation and dependants of those persons, the contributions thereto to be made by the Corporation and the investment of the pension fund moneys thereof; and
+- **(f)** generally for the conduct and management of the affairs of the Corporation.
 
-- **(2)** The Minister may, with the approval of the Minister of Finance, make regulations
-	- **(a)** relating to loans that may be made, guarantees that may be given and loan insurance and credit insurance that may be provided under this Part; and
-	- **(b)** specifying the circumstances in which and the manner in which the Minister may acquire, exercise, assign or sell a stock option obtained as a condition under which a contribution or loan was made, a guarantee given or loan insurance or credit insurance provided under this Part.
 
-**Designated area regulations**
 
-- **(3)** In order to exploit the opportunities for locally based improvements in productive employment identified in a designated area, regulations specially applicable to that area may be made under the authority of this section that vary from regulations of general application to Atlantic Canada.
 
+**Agent of Her Majesty**
 
+**40** Except as provided in subsection 41(1), the Corporation is, for all purposes of this Part, an agent of Her Majesty in right of Canada.
 
 
-## Reports
 
 
+**Persons employed not servants of Her Majesty**
 
-**Annual report of Agency**
+**41** 
 
-**21** 
+- **(1)** Persons employed by the Corporation pursuant to subsection 32(1) are not officers or servants of Her Majesty.
 
-- **(1)** The President shall, within four months after the end of each fiscal year, submit a report on the operations of the Agency in that year to the Minister.
+**Application of [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md)**
 
-- **(2) and (2.1)** [Repealed, 2014, c. 20, s. 177]
+- **(2)** For the purpose of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the officers and employees of the Corporation shall be deemed to be employed in the public service of Canada.
 
-**Annual report by Minister**
 
-- **(3)** The Minister shall cause to be laid before each House of Parliament, on any of the first fifteen days on which that House is sitting after September 30 next following the end of each fiscal year, a report, including a copy of the annual report submitted to the Minister under subsection (1), on the administration of this Part for that fiscal year.
-> R.S., 1985, c. 41 (4th Supp.), s. 21; 1992, c. 1, s. 10; 2014, c. 20, s. 177.
 
 
+**Payments in lieu of taxes**
 
+**42** 
 
+- **(1)** The Corporation may make grants in lieu of taxes to any municipality on Cape Breton Island not exceeding the taxes that might be levied by the municipality on the Corporation if the Corporation were not an agent of Her Majesty.
 
-## Transitional
+**General expenditures**
 
+- **(2)** All expenditures of the Corporation for the payment of which no other provision is made by this Part shall be paid out of moneys appropriated by Parliament therefor.
 
 
-**Appropriations based on Estimates**
 
-**22** The provisions made by any appropriation Act for the fiscal year in which this section comes into force, based on the Estimates for that year to defray the charges and expenses of the public service of Canada within the Department of Regional Industrial Expansion in relation to any matter in Atlantic Canada to which the powers, duties or functions of the Minister or the Agency extend by law, shall be applied to such classifications of the public service within the Agency as the Governor in Council may determine.
 
+**Annual report**
 
+**43** The Corporation shall submit a copy of each annual report of the Corporation prepared in accordance with section 150 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to the Lieutenant Governor in Council of Nova Scotia.
 
 
-**Transfer of powers, duties and functions**
 
-**23** Wherever under any Act, order, rule or regulation, or any contract, lease, licence or other document, any power, duty or function is vested in or exercisable by the Minister of Regional Industrial Expansion, the Deputy Minister of Regional Industrial Expansion or any other officer of the Department of Regional Industrial Expansion in relation to any matter in Atlantic Canada to which the powers, duties or functions of the Minister or of the Agency extend by law, the power, duty or function is vested in and shall be exercised by the Minister, the President or the appropriate officer of the Agency, as the case may be, unless the Governor in Council by order designates another Minister, deputy minister or officer of a department or a portion of the public service of Canada to exercise that power, duty or function.
 
+### Transitional
 
 
 
-**Deemed appointment**
+**Continuation**
 
-**24** Every indeterminate employee in the public service of Canada who is transferred to a position in the Agency from the public service of Canada within ninety days after the day on which this section comes into force is deemed to have been appointed to the Agency in accordance with subsection 15(1).
+**44** 
+
+- **(1)** The [Cape Breton Development Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-25.md) and sections 27 to 43 of this Part shall be construed as if the Industrial Development Division of the Cape Breton Development Corporation were a separate corporation, in this section referred to as the “continued corporation”, continued as the Enterprise Cape Breton Corporation, in this section referred to as the “new corporation”, established by section 27 of this Part.
+
+**Directors and officers**
+
+- **(2)** For the purposes of this section, the members of the Board of Directors of the continued corporation shall be deemed to have resigned immediately before the corporation was continued, and the President of the Cape Breton Development Corporation shall be deemed not to have been an officer or director of the continued corporation.
+
+**By-laws**
+
+- **(3)** The by-laws of the Cape Breton Development Corporation that are in force on the coming into force of this section shall, to the extent they are applicable, be deemed to have been the by-laws of the continued corporation but those by-laws shall cease to have effect as the by-laws of the new corporation sixty days after the coming into force of this section.
+
+**Directions**
+
+- **(4)** The President of the Treasury Board, the Minister and the minister responsible for Cape Breton Development Corporation may, by order, give such directions as they deem necessary to give effect to the intent of this section, and any such directions have the force of law.
+
+**Transfer of property**
+
+- **(5)** For greater certainty, the administration and control of all property that, on the coming into force of this section, is held by or leased to the Cape Breton Development Corporation for the use or benefit of the continued corporation are transferred to the new corporation.
+
+**Certain provisions not to apply**
+
+- **(6)** Sections 90, 91 and 99 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply in respect of any transfer of assets, including shares, from the Cape Breton Development Corporation to the new corporation under or pursuant to this Part, and section 91 of that Act does not apply in respect of any acquisition by the new corporation of those assets.
 
 
