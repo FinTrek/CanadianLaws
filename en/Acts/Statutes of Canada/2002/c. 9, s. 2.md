@@ -403,7 +403,9 @@ Assented to on 1 April 2002
 
 **Agreements**
 
-- **(2)** The Authority may enter into agreements with Her Majesty represented by the Solicitor General of Canada or by the Royal Canadian Mounted Police for the provision of services, including services on aircraft, and may make payments in respect of those services.
+- **(2)** The Authority may enter into agreements with Her Majesty represented by the Minister of Public Safety and Emergency Preparedness or by the Royal Canadian Mounted Police for the provision of services, including services on aircraft, and may make payments in respect of those services.
+> 2002, c. 9, s. 2 "28"; 2005, c. 10, s. 34.
+
 
 
 
