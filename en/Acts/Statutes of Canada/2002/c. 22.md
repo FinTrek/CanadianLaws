@@ -340,7 +340,7 @@ Version anglaise seulement***prescribed*** means
 
 **10** 
 
-- **(1)** The Minister and the Solicitor General of Canada may designate any police force in Canada for the purposes of the enforcement of any of the provisions of this Act that are specified in the designation, subject to any terms and conditions specified in the designation, for any period specified in the designation.
+- **(1)** The Minister and the Minister of Public Safety and Emergency Preparedness may designate any police force in Canada for the purposes of the enforcement of any of the provisions of this Act that are specified in the designation, subject to any terms and conditions specified in the designation, for any period specified in the designation.
 
 **Persons to have powers and duties of officers**
 
@@ -349,6 +349,8 @@ Version anglaise seulement***prescribed*** means
 **Designation to be published**
 
 - **(3)** A designation under subsection (1) or any variation or cancellation of that designation must be published in the Canada Gazette and is not effective before it is so published.
+> 2002, c. 22, s. 10; 2005, c. 10, s. 34.
+
 
 
 
