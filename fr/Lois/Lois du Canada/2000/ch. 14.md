@@ -406,6 +406,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **19** Whitecap Dakota First Nation
 
 
-> 2000, ch. 14, ann.; DORS/2001-114, 523; DORS/2002-376.
+**20** Bonaparte
+
+
+> 2000, ch. 14, ann.; DORS/2001-114, 523; DORS/2002-376; DORS/2003-356.
 
 
