@@ -33,19 +33,23 @@ Assented to on 30 September 1994
 
 **2** In this Act,
 
-***application*** means an application made under subsection 4(1);
+  ***agreement*** means an agreement referred to in subparagraph 4(2)(b )(ii); (*accord*)
 
-***court order*** means an order referred to in paragraph 4(2)(a) or subparagraph 4(2)(b)(i);
+***application*** means an application made under subsection 4(1);  (*demande*)
 
-***member***, in relation to a pension plan, means a person who is or may become entitled to a pension benefit under that pension plan by reason of
+  ***common-law partner*** means a person who establishes that the person is cohabiting with a member of a pension plan in a relationship of a conjugal nature, having so cohabited for a period of at least one year; (*conjoint de fait*)
+
+***court order*** means an order referred to in paragraph 4(2)(a) or subparagraph 4(2)(b)(i);  (*ordonnance*)
+
+***member***, in relation to a pension plan, means a person who is or may become entitled to a pension benefit under that pension plan by reason of 
 - **(a)** the person ceasing or having ceased to be employed, to hold an office, to be a member of the Senate or House of Commons or to serve in the Canadian Forces or the Royal Canadian Mounted Police, or
-- **(b)** any other prescribed circumstances;
+- **(b)** any other prescribed circumstances; (*participant*)
 
-***Minister***, for the purposes of applications and other matters pertaining to a particular pension plan under this Act, means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council to act as the Minister for the purposes of those applications and matters;
+***Minister***, for the purposes of applications and other matters pertaining to a particular pension plan under this Act, means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council to act as the Minister for the purposes of those applications and matters;  (*ministre*)
 
-***pension benefit*** means any pension, allowance, annuity, return of contributions or other benefit or amount payable under a pension plan, and includes any benefit or amount payable under the [Public Service Pension Adjustment Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20P-33.md), chapter P-33 of the Revised Statutes of Canada, 1970, or the [Supplementary Retirement Benefits Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-24.md) in respect of a pension, allowance or annuity payable under that pension plan;
+***pension benefit*** means any pension, allowance, annuity, return of contributions or other benefit or amount payable under a pension plan, and includes any benefit or amount payable under the [Public Service Pension Adjustment Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20P-33.md), chapter P-33 of the Revised Statutes of Canada, 1970, or the [Supplementary Retirement Benefits Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-24.md) in respect of a pension, allowance or annuity payable under that pension plan;  (*prestation de retraite*)
 
-***pension plan*** means
+***pension plan*** means 
 - **(a)** a superannuation or pension plan provided by
 	- **(i)** the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md),
 	- **(ii)** the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md),
@@ -56,16 +60,15 @@ Assented to on 30 September 1994
 	- **(vii)** the [Lieutenant Governors Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-8.md), or
 	- **(viii)** the [Governor General’s Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-9.md),
 - **(b)** a pension plan or retirement compensation arrangement provided by the [Members of Parliament Retiring Allowances Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-5.md), or
-- **(c)** a special pension plan or retirement compensation arrangement established under the [Special Retirement Arrangements Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20I.md);
+- **(c)** a special pension plan or retirement compensation arrangement established under the [Special Retirement Arrangements Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20I.md); (*régime*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation;  (***Version anglaise seulement***)
 
-***spousal agreement*** means an agreement referred to in subparagraph 4(2)(b)(ii);
+***spousal agreement***[Repealed, 2000, c. 12, s. 243]
 
-***spouse***, in relation to a member of a pension plan, means a person of the opposite sex who
-- **(a)** is married to the member,
-- **(b)** is cohabiting with the member in a conjugal relationship, having so cohabited with the member for a period of not less than one year, or
-- **(c)** is a party to a void marriage with the member.
+  ***spouse***, in relation to a member of a pension plan, includes a person who is party to a void marriage with the member. (*époux*)
+> 1992, c. 46, Sch. II, s. 2; 2000, c. 12, s. 243.
+
 
 
 
@@ -85,29 +88,31 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **4** 
 
-- **(1)** A member of a pension plan or a spouse or former spouse of a member may, in the circumstances described in subsection (2), apply to the Minister to divide the member’s pension benefits between the member and the spouse or former spouse.
+- **(1)** A member of a pension plan or a spouse, former spouse or former common-law partner of a member may, in the circumstances described in subsection (2), apply to the Minister to divide the member’s pension benefits between the member and the spouse, former spouse or former common-law partner.
 
 **Circumstances in which application may be made**
 
 - **(2)** The circumstances in which an application may be made are:
-	- **(a)** where a court in Canada of competent jurisdiction, in proceedings in relation to divorce, annulment of marriage or separation, makes an order that provides for the pension benefits to be divided between the member and the spouse or former spouse; or
-	- **(b)** where the member and the spouse or former spouse have lived separate and apart for a period of one year or more and, either before or after they commenced to live separate and apart,
+	- **(a)** where a court in Canada of competent jurisdiction, in proceedings in relation to divorce, annulment of marriage or separation, makes an order that provides for the pension benefits to be divided between the member and the spouse, former spouse or former common-law partner; or
+	- **(b)** where the member and the spouse, former spouse or former common-law partner are living separate and apart, having lived separate and apart for a period of at least one year and, either before or after they commenced to live separate and apart,
 		- **(i)** a court in Canada of competent jurisdiction makes an order that provides for the pension benefits to be divided between them, or
-		- **(ii)** the member and the spouse or former spouse have entered into a written agreement that provides for the pension benefits to be divided between them.
+		- **(ii)** the member and the spouse, former spouse or former common-law partner have entered into a written agreement that provides for the pension benefits to be divided between them.
 
 **Calculation of period of separation**
 
 - **(3)** For the purposes of paragraph (2)(b),
-	- **(a)** the member and the spouse or former spouse are deemed to have lived separate and apart for any period during which they lived apart and either of them had the intention to live separate and apart from the other; and
-	- **(b)** a period during which the member and the spouse or former spouse have lived separate and apart shall not be considered to have been interrupted or terminated by reason only
-		- **(i)** that the member or the spouse or former spouse has become incapable of forming or having an intention to continue to live separate and apart or of continuing to live separate and apart of the member’s or the spouse’s or former spouse’s own volition, if it appears to the Minister that the separation would probably have continued if the member or the spouse or former spouse had not become so incapable, or
-		- **(ii)** that the member and the spouse or former spouse have resumed cohabitation during a period of, or periods totalling, not more than ninety days with reconciliation as its primary purpose.
+	- **(a)** the member and the spouse, former spouse or former common-law partner are deemed to have lived separate and apart for any period during which they lived apart and either of them had the intention to live separate and apart from the other; and
+	- **(b)** a period during which the member and the spouse, former spouse or former common-law partner have lived separate and apart shall not be considered to have been interrupted or terminated by reason only
+		- **(i)** that the member or the spouse, former spouse or former common-law partner has become incapable of forming or having an intention to continue to live separate and apart or of continuing to live separate and apart of the member’s or the spouse’s, former spouse’s or former common-law partner’s own volition, if it appears to the Minister that the separation would probably have continued if the member or the spouse, former spouse or former common-law partner had not become so incapable, or
+		- **(ii)** that the member and the spouse, former spouse or former common-law partner have resumed cohabitation during a period of, or periods totalling, not more than ninety days with reconciliation as its primary purpose.
 
 **Form of application, etc.**
 
 - **(4)** An application must
 	- **(a)** be made in writing and contain the prescribed information; and
-	- **(b)** be accompanied by a certified true copy of the court order or spousal agreement and such other documents as are prescribed.
+	- **(b)** be accompanied by a certified true copy of the court order or agreement and such other documents as are prescribed.
+> 1992, c. 46, Sch. II, s. 4; 2000, c. 12, ss. 244, 249, 250(E), 251(E).
+
 
 
 
@@ -122,7 +127,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 - **(2)** In the case of an interested party who is not the applicant, the notice must
 	- **(a)** include the prescribed information and any other information that the Minister considers necessary; and
-	- **(b)** be accompanied by a copy of the court order or spousal agreement and any other documents that accompanied the application.
+	- **(b)** be accompanied by a copy of the court order or agreement and any other documents that accompanied the application.
 
 **Notice deemed to be received**
 
@@ -130,7 +135,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **Definition of “interested party”**
 
-- **(4)** In this section and sections 6 to 8, ***interested party*** means the member of the pension plan and the spouse or former spouse between whom the member’s pension benefits are sought to be divided.
+- **(4)** In this section and sections 6 to 8, ***interested party*** means the member of the pension plan and the spouse, former spouse or former common-law partner between whom the member’s pension benefits are sought to be divided.
+> 1992, c. 46, Sch. II, s. 5; 2000, c. 12, ss. 249, 251(E).
+
 
 
 
@@ -144,13 +151,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Grounds for objection**
 
 - **(2)** The grounds for objection are
-	- **(a)** that the court order or spousal agreement has been varied or is of no force or effect;
-	- **(b)** that the terms of the court order or spousal agreement have been or are being satisfied by other means; or
-	- **(c)** that proceedings have been commenced in a court in Canada of competent jurisdiction to appeal or review the court order or challenge the terms of the spousal agreement.
+	- **(a)** that the court order or agreement has been varied or is of no force or effect;
+	- **(b)** that the terms of the court order or agreement have been or are being satisfied by other means; or
+	- **(c)** that proceedings have been commenced in a court in Canada of competent jurisdiction to appeal or review the court order or challenge the terms of the agreement.
 
 **Documentary evidence**
 
 - **(3)** An interested party who submits a notice of objection shall include with that notice documentary evidence to establish the grounds for objection.
+> 1992, c. 46, Sch. II, s. 6; 2000, c. 12, s. 251(E).
+
 
 
 
@@ -176,7 +185,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(3)** The Minister shall refuse to approve the division of the pension benefits if
 	- **(a)** the application is withdrawn in accordance with the regulations;
 	- **(b)** where an interested party submits a notice of objection to the Minister in accordance with section 6 and the grounds for objection are the grounds referred to in paragraph 6(2)(a) or (b), the Minister is satisfied that those grounds have been established and that they provide sufficient reason to refuse the division;
-	- **(c)** where an interested party submits a notice of objection to the Minister in accordance with section 6 and the grounds for objection are the grounds referred to in paragraph 6(2)(c), the court order or spousal agreement is of no force or effect as a result of the proceedings on which those grounds are based;
+	- **(c)** where an interested party submits a notice of objection to the Minister in accordance with section 6 and the grounds for objection are the grounds referred to in paragraph 6(2)(c), the court order or agreement is of no force or effect as a result of the proceedings on which those grounds are based;
 	- **(d)** the period subject to division cannot be determined under subsection 8(2) or (3); or
 	- **(e)** the Minister is satisfied, based on evidence submitted to the Minister, that it would not be just to approve the division.
 
@@ -186,7 +195,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **Transitional**
 
-- **(5)** The Minister may approve the division of the pension benefits notwithstanding that the court order or spousal agreement on which the application is based was made or entered into before the day on which subsection 4(1) comes into force.
+- **(5)** The Minister may approve the division of the pension benefits notwithstanding that the court order or agreement on which the application is based was made or entered into before the day on which subsection 4(1) comes into force.
+> 1992, c. 46, Sch. II, s. 7; 2000, c. 12, s. 251(E).
+
 
 
 
@@ -196,17 +207,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **8** 
 
 - **(1)** A division of pension benefits shall be effected by
-	- **(a)** subject to subsection (4), transferring an amount representing fifty per cent of the value of the pension benefits that have accrued to the member of the pension plan during the period subject to division, as determined in accordance with the regulations, to the spouse or former spouse, if that pension plan is a retirement compensation arrangement, or, in any other case, to
-		- **(i)** a pension plan selected by the spouse or former spouse that is registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if that pension plan so permits,
-		- **(ii)** a retirement savings plan or fund for the spouse or former spouse that is of the prescribed kind, or
-		- **(iii)** a financial institution authorized to sell immediate or deferred life annuities of the prescribed kind, for the purchase from that financial institution of such an annuity for the spouse or former spouse; and
+	- **(a)** subject to subsection (4), transferring an amount representing fifty per cent of the value of the pension benefits that have accrued to the member of the pension plan during the period subject to division, as determined in accordance with the regulations, to the spouse, former spouse or former common-law partner, if that pension plan is a retirement compensation arrangement, or, in any other case, to
+		- **(i)** a pension plan selected by the spouse, former spouse or former common-law partner that is registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if that pension plan so permits,
+		- **(ii)** a retirement savings plan or fund for the spouse, former spouse or former common-law partner that is of the prescribed kind, or
+		- **(iii)** a financial institution authorized to sell immediate or deferred life annuities of the prescribed kind, for the purchase from that financial institution of such an annuity for the spouse, former spouse or former common-law partner; and
 	- **(b)** adjusting, in accordance with the regulations, the pension benefits that have accrued to the member of the pension plan under that pension plan, notwithstanding the provisions of that pension plan or the Act under which it is established or by which it is provided.
 
 **Determination of period subject to division**
 
 - **(2)** For the purposes of subsection (1) but subject to subsection (3), the period subject to division is
-	- **(a)** the period specified by the court order or spousal agreement as the period during which the member of the pension plan and the spouse or former spouse cohabited; or
-	- **(b)** where the court order or spousal agreement does not specify a period as described in paragraph (a), such period as may be determined by the Minister, on the basis of evidence submitted by either of the interested parties or by both, as being the period during which the member of the pension plan and the spouse or former spouse cohabited.
+	- **(a)** the period specified by the court order or agreement as the period during which the member of the pension plan and the spouse, former spouse or former common-law partner cohabited; or
+	- **(b)** where the court order or agreement does not specify a period as described in paragraph (a), such period as may be determined by the Minister, on the basis of evidence submitted by either of the interested parties or by both, as being the period during which the member of the pension plan and the spouse, former spouse or former common-law partner cohabited.
 
 **Idem**
 
@@ -214,11 +225,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **Lump sum payment**
 
-- **(4)** If the court order or spousal agreement provides, or the interested parties agree, that the terms of the court order or spousal agreement shall be satisfied by the payment of a lump sum amount and that lump sum amount, together with such interest as may be required by the regulations, is less than the amount that would otherwise be transferred in accordance with paragraph (1)(a), that lump sum amount, together with that interest, shall be transferred in accordance with that paragraph in lieu of the greater amount.
+- **(4)** If the court order or agreement provides, or the interested parties agree, that the terms of the court order or agreement shall be satisfied by the payment of a lump sum amount and that lump sum amount, together with such interest as may be required by the regulations, is less than the amount that would otherwise be transferred in accordance with paragraph (1)(a), that lump sum amount, together with that interest, shall be transferred in accordance with that paragraph in lieu of the greater amount.
 
-**Death of spouse or former spouse**
+**Death**
 
-- **(5)** An amount that cannot be transferred in accordance with paragraph (1)(a) by reason only of the death of the spouse or former spouse shall be paid to the estate of the spouse or former spouse.
+- **(5)** An amount that cannot be transferred in accordance with paragraph (1)(a) by reason only of the death of the spouse, former spouse or former common-law partner shall be paid to their estate or succession.
 
 **Effective date of adjustment**
 
@@ -227,6 +238,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Notice of division**
 
 - **(7)** The Minister shall send a notice of the division of the pension benefits in the prescribed manner to each interested party.
+> 1992, c. 46, Sch. II, s. 8; 2000, c. 12, ss. 245, 249, 250(E), 251(E), 252(F), 253(F).
+
 
 
 
@@ -244,7 +257,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **Amounts transferred in error**
 
-**10** If the amount transferred in respect of a spouse or former spouse or paid to the estate of a deceased spouse or former spouse under section 8 exceeds the amount that the spouse or former spouse was entitled to have transferred or the estate was entitled to be paid, the amount in excess constitutes a debt due to Her Majesty in right of Canada by that spouse, former spouse or estate.
+**10** If the amount transferred in respect of a spouse, former spouse or former common-law partner or paid to their estate or succession under section 8 exceeds the amount that the spouse, former spouse or former common-law partner was entitled to have transferred or the estate or succession was entitled to be paid, the amount in excess constitutes a debt due to Her Majesty in right of Canada by that spouse, former spouse, former common-law partner, estate or succession.
+> 1992, c. 46, Sch. II, s. 10; 2000, c. 12, s. 246.
+
 
 
 
@@ -260,11 +275,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **12** 
 
-- **(1)** Amounts that a spouse or former spouse is or may become entitled to have transferred under section 8 are not capable of being assigned, charged, anticipated or given as security, and any transaction that purports to assign, charge, anticipate or give as security any such amount is void.
+- **(1)** Amounts that a spouse, former spouse or former common-law partner is or may become entitled to have transferred under section 8 are not capable of being assigned, charged, anticipated or given as security, and any transaction that purports to assign, charge, anticipate or give as security any such amount is void.
 
 **Exemption from attachment, etc.**
 
-- **(2)** Amounts that a spouse or former spouse is or may become entitled to have transferred under section 8 are exempt from attachment, seizure and execution, either at law or in equity.
+- **(2)** Amounts that a spouse, former spouse or former common-law partner is or may become entitled to have transferred under section 8 are exempt from attachment, seizure and execution, either at law or in equity.
+> 1992, c. 46, Sch. II, s. 12; 2000, c. 12, s. 249.
+
 
 
 
@@ -273,11 +290,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **13** 
 
-- **(1)** Notwithstanding any other provision of this Act or the provisions of any pension plan or Act under which a pension plan is established or by which a pension plan is provided, where a court in Canada of competent jurisdiction so orders, the Minister shall not, for such period as that court may order, take any action on the direction of a member of a pension plan that may prejudice the ability of the spouse or a former spouse of that member to make an application or obtain a division of pension benefits under this Act.
+- **(1)** Notwithstanding any other provision of this Act or the provisions of any pension plan or Act under which a pension plan is established or by which a pension plan is provided, where a court in Canada of competent jurisdiction so orders, the Minister shall not, for such period as that court may order, take any action on the direction of a member of a pension plan that may prejudice the ability of the spouse or former spouse or common-law partner or former common-law partner of that member to make an application or obtain a division of pension benefits under this Act.
 
 **Information**
 
-- **(2)** The Minister shall, in accordance with the regulations, on request of a spouse or former spouse of a member of a pension plan, provide that person with prescribed information concerning the benefits that are or may become payable to or in respect of that member under that pension plan or under Part II of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), Part II of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md), the [Public Service Pension Adjustment Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20P-33.md) or the [Supplementary Retirement Benefits Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-24.md).
+- **(2)** The Minister shall, in accordance with the regulations, on request of a spouse or former spouse or common-law partner or former common-law partner of a member of a pension plan, provide that person with prescribed information concerning the benefits that are or may become payable to or in respect of that member under that pension plan or under Part II of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), Part II of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md), the [Public Service Pension Adjustment Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20P-33.md) or the [Supplementary Retirement Benefits Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-24.md).
+> 1992, c. 46, Sch. II, s. 13; 2000, c. 12, s. 247.
+
 
 
 
@@ -310,7 +329,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **16** The Governor in Council may, on the recommendation of the President of the Treasury Board, make regulations
 - **(a)** prescribing the circumstances in which a person may make an application under subsection 4(1) on behalf of another person or may act on behalf of another person in prosecuting an application that has been made by that other person;
-- **(b)** prescribing the circumstances in which the personal representative of a deceased member of a pension plan or of a deceased spouse or former spouse may make an application under subsection 4(1) or may proceed with an application that was made by the member, spouse or former spouse;
+- **(b)** prescribing the circumstances in which the personal representative of a deceased member of a pension plan or of a deceased spouse, former spouse or former common-law partner may make an application under subsection 4(1) or may proceed with an application that was made by the member, spouse, former spouse or former common-law partner;
 - **(c)** where regulations are made under paragraph (a) or (b), respecting the manner in which and the extent to which any provision of this Act applies to a person referred to in that paragraph or in the circumstances prescribed by those regulations, and adapting any provision of this Act to those persons or circumstances;
 - **(d)** respecting the withdrawal of applications;
 - **(e)** for the purposes of paragraph 8(1)(a), for determining, on the basis of generally accepted actuarial principles, the value of the pension benefits that have accrued to a member of a pension plan during the period subject to division;
@@ -322,7 +341,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(k)** respecting the provision of information to a spouse, former spouse, common-law partner or former common-law partner of a member of a pension plan under subsection 13(2);
 - **(l)** prescribing any matter or thing that by this Act is to be or may be prescribed; and
 - **(m)** generally as the Governor in Council may consider necessary for carrying out the purposes and provisions of this Act.
-> 1992, c. 46, Sch. II, s. 16; 2000, c. 12, s. 248; 2001, c. 34, s. 65.
+> 1992, c. 46, Sch. II, s. 16; 2000, c. 12, ss. 248, 249; 2001, c. 34, s. 65.
 
 
 
