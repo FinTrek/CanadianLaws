@@ -243,7 +243,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application for court order**
 
-- **(2)** If a person objects to providing or fails to provide the Minister or person, as the case may be, with any requested information or a requested document within the specified period, the Minister may apply to a judge of a superior court of a province or the Trial Division of the Federal Court for an order requiring the person to provide it.
+- **(2)** If a person objects to providing or fails to provide the Minister or person, as the case may be, with any requested information or a requested document within the specified period, the Minister may apply to a judge of a superior court of a province or the Federal Court for an order requiring the person to provide it.
 
 **Notice of hearing**
 
@@ -254,6 +254,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(4)** On hearing the application, the judge may order the person to provide the information or document if the judge concludes that, in the circumstances of the case,
 	- **(a)** the production of the document or information is necessary to ensure Canada’s compliance with the Treaty; and
 	- **(b)** the public interest in the production of the document or information outweighs in importance any privacy interest of the person.
+> 1998, c. 32, s. 13; 2002, c. 8, s. 183.
+
 
 
 
