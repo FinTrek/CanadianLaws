@@ -381,6 +381,8 @@
 **Indemnisation**
 
 - **(5)** Le président du Centre et le personnel du Centre sont réputés être employés dans l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> L.R. (1985), ch. 54 (4e suppl.), art. 23; 2003, ch. 22, art. 224(A) et 225(A).
+
 
 
 
