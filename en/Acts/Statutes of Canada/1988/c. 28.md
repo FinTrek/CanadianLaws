@@ -242,7 +242,7 @@ this Act and the regulations made thereunder take precedence.
 
 ***public servant*** means a person employed in the Public Service of Canada, and includes any other person who is a civil servant within the meaning of the Provincial Act;
 
-***Public Service of Canada*** has the meaning given the expression “Public Service” in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md), and includes any portion of the public service of Canada designated by order in council pursuant to this subsection and for the purposes of this section as part of the Public Service of Canada.
+***Public Service of Canada*** has the meaning given the expression “public service” in the Public Service Labour Relations Act, and includes any portion of the federal public administration designated by order in council pursuant to this subsection and for the purposes of this section as part of the Public Service of Canada.
 
 **Qualifications**
 
@@ -251,6 +251,8 @@ this Act and the regulations made thereunder take precedence.
 **Qualifications for Chairman**
 
 - **(3)** The Chairman of the Board shall not, during the term of office as Chairman, be a public servant.
+> 1988, c. 28, s. 11; 2003, c. 22, s. 122(E).
+
 
 
 
@@ -503,17 +505,19 @@ if the material is to be permanently retained at the facility referred to in sub
 
 **Presumption**
 
-- **(3)** Except as provided in subsection (4), no person employed pursuant to subsection (1) shall, by virtue of that employment, be considered to be employed in the public service of Canada or of the Province.
+- **(3)** Except as provided in subsection (4), no person employed pursuant to subsection (1) shall, by virtue of that employment, be considered to be employed in the federal public administration or the public service of the Province.
 
 **Mobility of staff**
 
-- **(4)** For the purpose of being eligible for appointment to a position in the Public Service by competition or other process of personnel selection pursuant to the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md),
-	- **(a)** any person who, immediately prior to being employed by the Board, was employed in the Public Service shall be deemed to be a person employed in the Public Service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board; and
-	- **(b)** any person who, immediately prior to being employed by the Board, was not employed in the Public Service shall, two years after being employed by the Board, be deemed to be a person employed in the Public Service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board.
+- **(4)** For the purpose of being eligible for appointment to a position in the public service by competition or other process of personnel selection pursuant to the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md),
+	- **(a)** any person who, immediately prior to being employed by the Board, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board; and
+	- **(b)** any person who, immediately prior to being employed by the Board, was not employed in the public service shall, two years after being employed by the Board, be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board.
 
-**Definition of Public Service**
+**Definition of public service**
 
-- **(5)** In this section, ***Public Service*** has the same meaning as in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+- **(5)** In this section, ***public service*** has the same meaning as in the Public Service Labour Relations Act.
+> 1988, c. 28, s. 26; 2003, c. 22, ss. 123, 225(E).
+
 
 
 
@@ -3056,7 +3060,7 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 
 **145** 
 
-- **(1)** The Board may, for the purposes of this Act and the Provincial Act, establish a committee to be known as the Oil and Gas Committee, consisting of not more than five members, not more than three of whom may be employees in the public service of Canada or of the Province.
+- **(1)** The Board may, for the purposes of this Act and the Provincial Act, establish a committee to be known as the Oil and Gas Committee, consisting of not more than five members, not more than three of whom may be employees in the federal public administration or the public service of the Province.
 
 **Appointment of members and chairman**
 
@@ -3065,6 +3069,8 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 **Re-appointment permitted**
 
 - **(3)** A retiring chairman or retiring member may be re-appointed to the Committee in the same or another capacity.
+> 1988, c. 28, s. 145; 2003, c. 22, s. 124(E).
+
 
 
 
@@ -3085,11 +3091,13 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 
 **Remuneration**
 
-- **(4)** The members of the Committee who are not employees of the public service of Canada or of the Province shall be paid such remuneration as may be authorized by the Board.
+- **(4)** The members of the Committee who are not employees in the federal public administration or the public service of the Province shall be paid such remuneration as may be authorized by the Board.
 
 **Expenses**
 
 - **(5)** All members of the Committee are entitled to be paid reasonable travel and living expenses while absent from their ordinary place of residence in the course of their duties.
+> 1988, c. 28, s. 146; 2003, c. 22, s. 125.
+
 
 
 
@@ -3105,11 +3113,13 @@ shall be granted, except with the consent of both Ministers, unless the Board, o
 
 **148** 
 
-- **(1)** A majority of the members, including one member who is not an employee in the public service of Canada or of the Province, constitutes a quorum of the Committee.
+- **(1)** A majority of the members, including one member who is not an employee in the federal public administration or the public service of the Province, constitutes a quorum of the Committee.
 
 **Powers of Committee**
 
 - **(2)** The Committee may make general rules not inconsistent with this Act regulating its practice and procedure and the places and times of its sittings.
+> 1988, c. 28, s. 148; 2003, c. 22, s. 126.
+
 
 
 
