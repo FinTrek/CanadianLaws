@@ -218,7 +218,7 @@ may be filed with the Speaker of that House.
 
 **9** 
 
-- **(1)** A person having the powers of an officer under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) shall be deemed to be a peace officer for the purposes of this Act and sections 487 to 490, 491.l and 491.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(1)** A person having the powers of an officer under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) is deemed to be a peace officer for the purposes of this Act and sections 487 to 490, 491.l and 491.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 **Search and seizure**
 
@@ -227,6 +227,8 @@ may be filed with the Speaker of that House.
 	- **(b)** that there are reasonable grounds to believe has been used in the commission of an offence against this Act, or
 	- **(c)** that there are reasonable grounds to believe will afford evidence with respect to the commission of an offence against this Act
 without a warrant if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would be impractical to obtain a warrant, and may seize any such thing found therein.
+> 1992, c. 17, s. 9; 2002, c. 22, s. 396.
+
 
 
 
