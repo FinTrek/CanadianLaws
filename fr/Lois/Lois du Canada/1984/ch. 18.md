@@ -2805,6 +2805,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Origine de la rémunération**
 
 - **(4)** La rémunération des commissaires et des personnes engagées conformément au paragraphe (1) est payée sur les crédits affectés par le Parlement à cette fin.
+> 1984, ch. 18, art. 162; 2003, ch. 22, art. 224(A).
+
 
 
 
