@@ -442,7 +442,7 @@ by
 - **(1)** For the purposes of this Part, a producer is in default under a repayment agreement if the producer
 	- **(a)** has not met any of their obligations under the agreement within 20 days after the day on which the administrator mails or delivers a notice to the producer stating that the producer has had, in the opinion of the administrator, adequate opportunity to meet the obligation, and requesting the producer to meet it;
 	- **(b)** has not met all of their obligations under the agreement at the end of the crop year in which the advance was made;
-	- **(c)** has not met all of their obligations under the agreement when the producer files an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or a receiving order is made under that Act against the producer;
+	- **(c)** has not met all of their obligations under the agreement when the producer files an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or a bankruptcy order is made under that Act against the producer;
 	- **(d)** at any time breaches an obligation under the agreement; or
 	- **(e)** provides false or misleading information to the administrator for the purpose of obtaining a guaranteed advance, or evading compliance with an undertaking to repay it.
 
@@ -457,6 +457,8 @@ by
 **Ineligibility period**
 
 - **(4)** An advance guarantee agreement may provide that a producer continues to be ineligible for a guaranteed advance for any period specified in the agreement, even though the producer has ceased to be in default.
+> 1997, c. 20, s. 21; 2004, c. 25, s. 183.
+
 
 
 
