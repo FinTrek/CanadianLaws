@@ -163,6 +163,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Ils sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> 1995, ch. 18, art. 11; 2003, ch. 22, art. 224(A) et 225(A).
+
 
 
 
