@@ -11,8 +11,7 @@ Sanctionnée sur le 14 septembre 1999
 
 
 
-
-**Déclaration**
+Déclaration
 
 Il est déclaré que la protection de l’environnement est essentielle au bien-être de la population du Canada et que l’objet principal de la présente loi est de contribuer au développement durable au moyen de la prévention de la pollution.
 
@@ -4195,9 +4194,11 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **193** Les définitions qui suivent s’appliquent à la présente partie.
 
-***substance*** Sauf à l’article 199, la substance inscrite sur la liste établie en vertu des règlements d’application de la présente partie.
+***substance*** Sauf aux articles 199 et 200.1, la substance inscrite sur la liste établie en vertu des règlements ou arrêtés d’urgence pris en application de la présente partie. (*substance*)
 
-***urgence environnementale*** Situation liée au rejet — effectif ou probable — d’une substance dans l’environnement, soit de manière accidentelle, soit en violation des règlements d’application de la présente partie.
+***urgence environnementale*** Situation liée au rejet — effectif ou probable — d’une substance dans l’environnement, soit de manière accidentelle, soit en violation des règlements ou arrêtés d’urgence pris en application de la présente partie. (*environmental emergency*)
+> 1999, ch. 33, art. 193; 2004, ch. 15, art. 26.
+
 
 
 
@@ -4313,24 +4314,78 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 
+**Arrêtés d’urgence**
+
+**200.1** 
+
+- **(1)** Le ministre peut, relativement à une substance, prendre un arrêté d’urgence pouvant comporter les mêmes dispositions qu’un règlement d’application de la présente partie lorsque les conditions suivantes sont réunies :
+	- **a)** selon le cas :
+		- **(i)** la substance n’est pas inscrite sur la liste établie en vertu des règlements d’application de la présente partie et les ministres estiment que, si elle pénètre dans l’environnement dans le cadre d’une urgence environnementale :
+			- **(A)** elle aurait ou pourrait avoir, immédiatement ou à long terme, un effet nocif sur l’environnement ou sa diversité biologique,
+			- **(B)** elle mettrait ou pourrait mettre en danger l’environnement essentiel pour la vie humaine,
+			- **(C)** elle constituerait ou pourrait constituer un danger au Canada pour la vie ou la santé humaines,
+		- **(ii)** elle y est inscrite et les ministres estiment qu’elle n’est pas réglementée comme il convient;
+	- **b)** les ministres croient qu’une intervention immédiate est nécessaire afin de parer à un danger appréciable soit pour l’environnement, soit pour la vie ou la santé humaines.
+
+**Prise d’effet**
+
+- **(2)** Sous réserve du paragraphe (3), l’arrêté prend effet dès sa prise comme s’il s’agissait d’un règlement pris en vertu de la présente partie.
+
+**Cessation d’effet**
+
+- **(3)** L’arrêté cesse toutefois d’avoir effet à défaut d’approbation par le gouverneur en conseil dans les quatorze jours suivant sa prise.
+
+**Approbation du gouverneur en conseil**
+
+- **(4)** Le gouverneur en conseil ne peut approuver l’arrêté d’urgence que si le ministre :
+	- **a)** d’une part, dans les vingt-quatre heures suivant la prise de l’arrêté, a proposé de consulter tous les gouvernements concernés afin de déterminer s’ils sont disposés à prendre les moyens nécessaires pour parer au danger en question;
+	- **b)** d’autre part, a consulté d’autres ministres fédéraux afin de déterminer si des mesures peuvent être prises sous le régime de toute autre loi fédérale pour parer au danger en question.
+
+**Recommandation par le ministre**
+
+- **(5)** Dans les quatre-vingt-dix jours suivant l’approbation par le gouverneur en conseil, le ministre publie dans la Gazette du Canada une déclaration dans laquelle il fait savoir s’il a l’intention de recommander à celui-ci, à la fois :
+	- **a)** la prise d’un règlement d’application de la présente partie ayant le même effet que l’arrêté;
+	- **b)** l’inscription de la substance visée sur la liste établie en vertu des règlements d’application de la présente partie dans les cas où elle n’y figure pas.
+
+**Violation d’un arrêté non publié**
+
+- **(6)** Nul ne peut être condamné pour violation d’un arrêté d’urgence qui, à la date du fait reproché, n’était pas publié dans la Gazette du Canada, sauf s’il est établi qu’à cette date l’arrêté avait été porté à sa connaissance ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+
+**Cessation d’effet de l’arrêté**
+
+- **(7)** Sous réserve du paragraphe (3), l’arrêté cesse d’avoir effet le jour de son abrogation, à la prise du règlement visé au paragraphe (5) ou, au plus tard, deux ans après sa prise.
+
+**Dépôt devant les chambres du Parlement**
+
+- **(8)** Une copie de l’arrêté est déposée devant chaque chambre du Parlement dans les quinze jours suivant sa prise.
+
+**Communication au greffier**
+
+- **(9)** Il suffit, pour se conformer à l’obligation prévue au paragraphe (8), de communiquer la copie de l’arrêté au greffier de la chambre dans le cas où celle-ci ne siège pas.
+> 2004, ch. 15, art. 27.
+
+
+
+
+
 **Correctifs**
 
 **201** 
 
-- **(1)** Sous réserve des règlements d’application du paragraphe 200(1), en cas d’urgence environnementale mettant en cause une substance inscrite sur la liste réglementaire, les intéressés sont tenus, dans les meilleurs délais possible, à la fois :
-	- **a)** de signaler l’urgence à un agent de l’autorité ou à toute autre personne désignée par les règlements et de lui fournir un rapport écrit sur l’urgence;
+- **(1)** Sous réserve des règlements d’application du paragraphe 200(1) ou des arrêtés d’urgence pris en application de l’article 200.1, en cas d’urgence environnementale mettant en cause une substance inscrite sur la liste établie en vertu des règlements ou arrêtés d’urgence, les intéressés sont tenus, dans les meilleurs délais possible, à la fois :
+	- **a)** de signaler l’urgence à un agent de l’autorité ou à toute autre personne désignée par les règlements ou les arrêtés d’urgence et de lui fournir un rapport écrit sur l’urgence;
 	- **b)** de prendre toutes les mesures d’urgence utiles — compatibles avec la protection de l’environnement et la sécurité publique — pour prévenir l’urgence ou pour supprimer ou atténuer les effets nocifs sur l’environnement ou la vie ou la santé humaines pouvant en résulter;
 	- **c)** de s’efforcer d’avertir les membres du public auxquels l’urgence pourrait causer un préjudice.
 
 **Personnes visées**
 
-- **(2)** Les intéressés sont en l’occurrence les personnes qui :
+- **(2)** Les intéressés sont en l’occurrence les personnes qui :
 	- **a)** soit sont propriétaires de la substance en question — ou ont toute autorité sur elle — avant l’urgence environnementale;
 	- **b)** soit causent cette urgence ou y contribuent.
 
 **Autres propriétaires**
 
-- **(3)** Toute autre personne ayant des biens touchés par l’urgence environnementale fait rapport dans les meilleurs délais possible de la situation à l’agent de l’autorité ou à la personne désignée par règlement.
+- **(3)** Toute autre personne ayant des biens touchés par l’urgence environnementale fait rapport dans les meilleurs délais possible de la situation à l’agent de l’autorité ou à la personne désignée par règlement ou arrêté d’urgence.
 
 **Intervention de l’agent de l’autorité**
 
@@ -4347,6 +4402,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Responsabilité personnelle**
 
 - **(7)** Toute autre personne que les intéressés qui fournit aide ou conseils pour l’intervention visée par le paragraphe (1) ou qui prend les mesures visées au paragraphe (4) n’encourt aucune responsabilité personnelle, ni au civil ni au criminel, pour les actes ou omissions constatés à cette occasion, sauf s’il est établi qu’elle était de mauvaise foi.
+> 1999, ch. 33, art. 201; 2004, ch. 15, art. 28.
+
 
 
 
@@ -4355,7 +4412,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **202** 
 
-- **(1)** La personne non tenue au rapport qui a connaissance d’une urgence environnementale peut transmettre les renseignements afférents à l’agent de l’autorité ou à une personne désignée par règlement.
+- **(1)** La personne non tenue au rapport qui a connaissance d’une urgence environnementale peut transmettre les renseignements afférents à l’agent de l’autorité ou à une personne désignée par règlement ou arrêté d’urgence.
 
 **Confidentialité**
 
@@ -4367,10 +4424,12 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **Rapport d’un fonctionnaire**
 
-- **(4)** Malgré toute autre loi fédérale, il est interdit à l’employeur de congédier un employé, de le suspendre, de le rétrograder, de le punir, de le harceler ou de lui faire subir tout autre inconvénient ou de le priver d’un bénéfice de son emploi parce que :
+- **(4)** Malgré toute autre loi fédérale, il est interdit à l’employeur de congédier un employé, de le suspendre, de le rétrograder, de le punir, de le harceler ou de lui faire subir tout autre inconvénient ou de le priver d’un bénéfice de son emploi parce que :
 	- **a)** l’employé a fait un rapport en vertu du paragraphe (1);
 	- **b)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une infraction à la présente loi;
 	- **c)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte qu’il est tenu d’accomplir sous le régime de la présente loi.
+> 1999, ch. 33, art. 202; 2004, ch. 15, art. 29.
+
 
 
 
@@ -6516,7 +6575,9 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Dérogation à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**331** Les arrêtés d’urgence pris en application des articles 94, 163, 173 ou 183 sont soustraits à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et publiés dans la Gazette du Canada dans les vingt-trois jours suivant leur approbation.
+**331** Les arrêtés d’urgence pris en application des articles 94, 163, 173, 183 ou 200.1 sont soustraits à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) et publiés dans la Gazette du Canada dans les vingt-trois jours suivant leur approbation.
+> 1999, ch. 33, art. 331; 2004, ch. 15, art. 30.
+
 
 
 
@@ -6529,7 +6590,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **332** 
 
-- **(1)** Le ministre fait publier dans la Gazette du Canada les projets de décret, d’arrêté ou de règlement prévus par la présente loi; le présent paragraphe ne s’applique pas aux listes visées aux articles 66, 87, 105 ou 112.
+- **(1)** Le ministre fait publier dans la Gazette du Canada les projets de décret, d’arrêté ou de règlement prévus par la présente loi; le présent paragraphe ne s’applique pas aux listes visées aux articles 66, 87, 105 ou 112 ou aux arrêtés d’urgence pris en application des articles 94, 163, 173, 183 ou 200.1.
 
 **Avis d’opposition**
 
@@ -6538,6 +6599,8 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Exception**
 
 - **(3)** Ne sont pas visés par l’obligation de publication les projets de décret, d’arrêté, de règlement ou de texte — autre qu’un règlement — déjà publiés dans les conditions prévues au paragraphe (1), qu’ils aient ou non été modifiés.
+> 1999, ch. 33, art. 332; 2004, ch. 15, art. 31.
+
 
 
 
