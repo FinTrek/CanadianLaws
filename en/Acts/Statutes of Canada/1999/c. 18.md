@@ -1173,11 +1173,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Waiver of return**
 
-- **(10)** The Minister may, after consultation with the Solicitor General of Canada or the appropriate provincial minister responsible for corrections, waive the return of the person by the extradition partner.
+- **(10)** The Minister may, after consultation with the Minister of Public Safety and Emergency Preparedness or the appropriate provincial minister responsible for corrections, waive the return of the person by the extradition partner.
 
 **Final surrender despite subsection 3(3)**
 
 - **(11)** A person may be surrendered under subsection (6) even if the term of imprisonment imposed by the extradition partner, or the portion of the term remaining to be served, is less than that required by subsection 3(3).
+> 1999, c. 18, s. 66; 2005, c. 10, s. 34.
+
 
 
 
@@ -1368,9 +1370,9 @@ over and above, in any case referred to in subparagraph (i) or (ii), the time re
 **77** In this Part, ***competent authority*** means
 - **(a)** in respect of a prosecution or imposition of a sentence — or of a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985 — the Attorney General, or the Attorney General of a province who is responsible for the prosecution of the case; and
 - **(b)** in respect of the enforcement of a sentence or a disposition under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985,
-	- **(i)** the Solicitor General of Canada, if the person would serve the sentence in a penitentiary, or
+	- **(i)** the Minister of Public Safety and Emergency Preparedness, if the person would serve the sentence in a penitentiary, or
 	- **(ii)** the appropriate provincial minister responsible for corrections, in any other case.
-> 1999, c. 18, s. 77; 2002, c. 1, s. 191.
+> 1999, c. 18, s. 77; 2002, c. 1, s. 191; 2005, c. 10, s. 34.
 
 
 
