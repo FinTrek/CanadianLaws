@@ -347,15 +347,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Traitement et frais**
 
-- **(2)** Il touche un traitement égal à celui d’un juge de la Cour fédérale autre que le juge en chef ou le juge en chef adjoint et a droit aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors du lieu de sa résidence habituelle.
+- **(2)** Il touche un traitement égal à celui d'un juge de la Cour fédérale autre que le juge en chef et a droit aux frais de déplacement et de séjour entraînés par l'accomplissement de ses fonctions hors du lieu de sa résidence habituelle.
 
 **Pension de retraite et indemnité**
 
-- **(3)** Il est réputé appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+- **(3)** Il est réputé appartenir à la fonction publique pour l’application de la 
+[Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la 
+[Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la 
+[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
 
 **Communication avec le gouverneur en conseil**
 
 - **(4)** Il communique, pour l’application de la présente loi, avec le gouverneur en conseil par l’intermédiaire du ministre.
+> 2000, ch. 9, art. 15; 2002, ch. 8, art. 116.
+
 
 
 
@@ -8935,7 +8940,7 @@ La demande est notifiée au directeur général des élections.
 
 **525** 
 
-- **(1)** La juridiction siégeant dans le district judiciaire où se trouve, en tout ou en partie, la circonscription en cause ou la Section de première instance de la Cour fédérale constituent le tribunal compétent pour entendre la requête.
+- **(1)** La juridiction siégeant dans le district judiciaire où se trouve, en tout ou en partie, la circonscription en cause ou la Cour fédérale constituent le tribunal compétent pour entendre la requête.
 
 **Définition de juridiction**
 
@@ -8950,7 +8955,7 @@ La demande est notifiée au directeur général des élections.
 **Règles de procédure**
 
 - **(3)** La requête est instruite sans délai et selon la procédure sommaire; le tribunal peut toutefois entendre des témoins lors de l’audition dans des circonstances particulières.
-> 2000, ch. 9, art. 525; 2002, ch. 7, art. 94(A).
+> 2000, ch. 9, art. 525; 2002, ch. 7, art. 94(A), ch. 8, art. 117.
 
 
 
