@@ -3152,7 +3152,7 @@ les deux dernières emprises de route telles qu’indiquées sur le plan 30750 a
 
 **(10)** dans le township 20, rang 19, toutes les sections; excepté :
 
-**a)** les sections 5, 6, 7 et 8, la moitié ouest de la section 4 et le quart sud-ouest de la section 18;
+**a)** les sections 5, 6, 7 et 8, la moitié ouest de la section 4, la partie de la moitié est de la section 4 qui se trouve à l’ouest de la réserve indienne de Clear Lake n<sup>o</sup> 61A et le quart sud-ouest de la section 18;
 
 
 
@@ -3333,7 +3333,7 @@ De là, en ligne droite vers le nord jusqu’au coin théorique nord-est de la s
 
 
 
-De là, en ligne droite vers l’est jusqu’au coin théorique nord-est du township 104, rang 1;
+De là, en ligne droite vers 1'est jusqu’au coin théorique nord-est du township 104, rang 1;
 
 
 
@@ -4875,6 +4875,10 @@ Toutes ces parcelles décrites comme les parties I à IV comme suit :
 ### Partie I
 
 
+
+
+
+
 Toute cette parcelle de terrain plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Icebound Lakes » numéros 38B et 37G du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13 et 10 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13 et 2405-10 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système de référence géodésique nord-américain, 1927.
 
 
@@ -4962,6 +4966,10 @@ Sur l’île Bylot;
 
 
 
+
+
+
+
 Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Milne Inlet » numéros 38B et 48A du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13, 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13, 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288, ainsi que la deuxième édition de la carte « Bylot Island » numéro 38C du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
@@ -5042,6 +5050,10 @@ Le restant de la parcelle décrite sous la PARTIE II renfermant environ 10 858 k
 
 
 Sur l’île de Baffin;
+
+
+
+
 
 
 
@@ -5598,6 +5610,10 @@ Tout élément topographique étant conforme au répertoire géographique du Can
 
 
 
+
+
+
+
 À partir du sommet du mont Thompson situé par environ 81°15′ de latitude et par environ 76°57′ de longitude;
 
 
@@ -5721,7 +5737,7 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1.
 
 
 
@@ -6218,6 +6234,10 @@ Deuxièmement : l’aéroport de Tofino, décrit comme suit :
 
 
 **d)** les parties des lots de district 193, 194, 195 et 196 sises à l’est du plan 1371RW audit bureau.
+
+
+
+Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquels figurent sur le plan n<sup>o</sup> 88700 des Archives d’arpentage des terres du Canada à Ottawa.
 
 
 
@@ -7124,7 +7144,7 @@ De là, généralement vers le nord, le nord-ouest et le nord-est suivant la lai
 Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A).
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2.
 
 
 
