@@ -75,7 +75,7 @@ and includes persons whose functional limitations owing to their impairment have
 Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 ***private sector employer*** means any person who employs one hundred or more employees on or in connection with a federal work, undertaking or business as defined in section 2 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) and includes any corporation established to perform any function or duty on behalf of the Government of Canada that employs one hundred or more employees, but does not include
-- **(a)** a person who employs employees on or in connection with a work, undertaking or business of a local or private nature in the Yukon Territory, the Northwest Territories or Nunavut, or
+- **(a)** a person who employs employees on or in connection with a work, undertaking or business of a local or private nature in Yukon, the Northwest Territories or Nunavut, or
 - **(b)** a departmental corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 
 ***representatives*** means
@@ -83,7 +83,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 - **(b)** bargaining agents, where bargaining agents represent the employees;
 
 ***Tribunal*** means an Employment Equity Review Tribunal established by subsection 28(1).
-> 1993, c. 28, s. 78; 1995, c. 44, s. 3; 1998, c. 9, s. 37, c. 15, s. 25.
+> 1993, c. 28, s. 78; 1995, c. 44, s. 3; 1998, c. 9, s. 37, c. 15, s. 25; 2002, c. 7, s. 162(E).
 
 
 
