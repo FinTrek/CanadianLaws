@@ -475,7 +475,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Jurisdiction**
 
-**32** Notwithstanding the exclusive jurisdiction referred to in section 18 of the Federal Court Act, the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Northwest Territories for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
+**32** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Northwest Territories for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
+> 1998, c. 25, s. 32; 2002, c. 8, s. 182.
+
 
 
 
