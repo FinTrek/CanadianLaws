@@ -11,8 +11,7 @@ Assented to on 14 September 1999
 
 
 
-
-**Declaration**
+Declaration
 
 It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention.
 
@@ -4375,11 +4374,13 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **193** The definitions in this section apply in this Part.
 
-***environmental emergency*** means
-- **(a)** an uncontrolled, unplanned or accidental release, or release in contravention of regulations made under this Part, of a substance into the environment; or
-- **(b)** the reasonable likelihood of such a release into the environment.
+***environmental emergency*** means
+- **(a)** an uncontrolled, unplanned or accidental release, or release in contravention of regulations or interim orders made under this Part, of a substance into the environment; or
+- **(b)** the reasonable likelihood of such a release into the environment. (*urgence environnementale*)
 
-***substance*** means, except in section 199, a substance on the list of substances established under regulations made under this Part.
+***substance*** means, except in sections 199 and 200.1, a substance on a list of substances established under regulations or interim orders made under this Part. (*substance*)
+> 1999, c. 33, s. 193; 2004, c. 15, s. 26.
+
 
 
 
@@ -4501,12 +4502,71 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 
+**Interim orders**
+
+**200.1** 
+
+- **(1)** The Minister may make an interim order, in respect of a substance, that contains any provision that may be contained in a regulation made under this Part, if
+	- **(a)** the substance
+		- **(i)** is not on the list established under regulations made under this Part and the Ministers believe that, if it enters the environment as a result of an environmental emergency,
+			- **(A)** it would have or may have an immediate or long-term harmful effect on the environment or its biological diversity,
+			- **(B)** it would constitute or may constitute a danger to the environment on which human life depends, or
+			- **(C)** it would constitute or may constitute a danger in Canada to human life or health, or
+		- **(ii)** is on that list and the Ministers believe that it is not adequately regulated; and
+	- **(b)** the Ministers believe that immediate action is required to deal with a significant danger to the environment or to human life or health.
+
+**Effect of order**
+
+- **(2)** Subject to subsection (3), an interim order has effect
+	- **(a)** from the time it is made; and
+	- **(b)** as if it were a regulation made under this Part.
+
+**Approval of Governor in Council**
+
+- **(3)** An interim order ceases to have effect unless it is approved by the Governor in Council within 14 days after it is made.
+
+**Consultation**
+
+- **(4)** The Governor in Council shall not approve an interim order unless the Minister has
+	- **(a)** within 24 hours after making the order, offered to consult with all affected governments to determine whether they are prepared to take sufficient action to deal with the significant danger; and
+	- **(b)** consulted with other ministers of the Crown in right of Canada to determine whether any action can be taken under any other Act of Parliament to deal with the significant danger.
+
+**Recommendation of regulations**
+
+- **(5)** If the Governor in Council approves an interim order, the Minister shall, within 90 days after the approval, publish in the Canada Gazette a statement indicating whether the Minister intends to recommend to the Governor in Council
+	- **(a)** that a regulation having the same effect as the order be made under this Part; and
+	- **(b)** if the order was made in respect of a substance that was not on the list established under regulations made under this Part, that the substance be added to that list.
+
+**Contravention of unpublished order**
+
+- **(6)** No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons likely to be affected by it.
+
+**Cessation of effect**
+
+- **(7)** Subject to subsection (3), an interim order ceases to have effect on the earliest of
+	- **(a)** the day it is repealed,
+	- **(b)** the day a regulation referred to in subsection (5) is made, and
+	- **(c)** two years after the order is made.
+
+**Tabling of order**
+
+- **(8)** A copy of each interim order must be tabled in each House of Parliament within 15 days after it is made.
+
+**House not sitting**
+
+- **(9)** In order to comply with subsection (8), the interim order may be sent to the Clerk of the House if the House is not sitting.
+> 2004, c. 15, s. 27.
+
+
+
+
+
 **Remedial measures**
 
 **201** 
 
-- **(1)** Subject to any regulations made under subsection 200(1), where there occurs an environmental emergency in respect of a substance on the list established under the regulations, any person described in subsection (2) shall, as soon as possible in the circumstances,
-	- **(a)** notify an enforcement officer or any other person designated pursuant to the regulations and provide a written report on the environmental emergency to the enforcement officer or other person;
+- **(1)** Subject to any regulations made under subsection 200(1) or any interim orders made under section 200.1, if there occurs an environmental emergency in respect of a substance on a list established under the regulations or interim orders, any person described in subsection (2) shall, as soon as possible in the circumstances,
+	- **(a)** notify an enforcement officer or any other person designated by regulation or interim order and provide a written report on the environmental emergency to the enforcement officer or other person;
 	- **(b)** take all reasonable emergency measures consistent with the protection of the environment and public safety
 		- **(i)** to prevent the environmental emergency, or
 		- **(ii)** to repair, reduce or mitigate any negative effects on the environment or human life or health that result from the environmental emergency or that may reasonably be expected to result from it; and
@@ -4520,7 +4580,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **Report by other persons**
 
-- **(3)** A person, other than a person described in subsection (2), shall, as soon as possible in the circumstances, report an environmental emergency to an enforcement officer or to a person designated by the regulations if their property is affected by the environmental emergency.
+- **(3)** A person, other than a person described in subsection (2), shall, as soon as possible in the circumstances, report an environmental emergency to an enforcement officer or to a person designated by regulation or interim order if their property is affected by the environmental emergency.
 
 **Intervention by enforcement officer**
 
@@ -4537,6 +4597,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **Personal liability**
 
 - **(7)** Any person, other than a person described in subsection (2), who provides assistance or advice in taking the measures required by subsection (1) or who takes any measures authorized under subsection (4) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under those subsections unless it is established that the person acted in bad faith.
+> 1999, c. 33, s. 201; 2004, c. 15, s. 28.
+
 
 
 
@@ -4545,7 +4607,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **202** 
 
-- **(1)** If a person knows about an environmental emergency but the person is not required to report the matter under this Act, the person may report any information about the environmental emergency to an enforcement officer or to a person designated by the regulations.
+- **(1)** If a person knows about an environmental emergency but the person is not required to report the matter under this Act, the person may report any information about the environmental emergency to an enforcement officer or to a person designated by regulation or interim order.
 
 **Request for confidentiality**
 
@@ -4561,6 +4623,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(a)** the employee has made a report under subsection (1);
 	- **(b)** the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is an offence under this Act; or
 	- **(c)** the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done by or under this Act.
+> 1999, c. 33, s. 202; 2004, c. 15, s. 29.
+
 
 
 
@@ -6776,9 +6840,11 @@ and if that person gives a written undertaking not to subsequently disclose the 
 
 **Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**331** An interim order made under section 94, 163, 173 or 183
+**331** An interim order made under section 94, 163, 173, 183 or 200.1
 - **(a)** is exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md); and
 - **(b)** shall be published in the Canada Gazette within 23 days after it is approved by the Governor in Council.
+> 1999, c. 33, s. 331; 2004, c. 15, s. 30.
+
 
 
 
@@ -6791,7 +6857,7 @@ and if that person gives a written undertaking not to subsequently disclose the 
 
 **332** 
 
-- **(1)** The Minister shall publish in the Canada Gazette a copy of every order or regulation proposed to be made by the Minister or the Governor in Council under this Act, except a list or an amendment to a list referred to in section 66, 87, 105 or 112.
+- **(1)** The Minister shall publish in the Canada Gazette a copy of every order or regulation proposed to be made by the Minister or the Governor in Council under this Act, except a list, or an amendment to a list, referred to in section 66, 87, 105 or 112 or an interim order made under section 94, 163, 173, 183 or 200.1.
 
 **Notice of objection**
 
@@ -6800,6 +6866,8 @@ and if that person gives a written undertaking not to subsequently disclose the 
 **Single publication required**
 
 - **(3)** No order, regulation or instrument need be published more than once under subsection (1), whether or not it is altered after publication.
+> 1999, c. 33, s. 332; 2004, c. 15, s. 31.
+
 
 
 
