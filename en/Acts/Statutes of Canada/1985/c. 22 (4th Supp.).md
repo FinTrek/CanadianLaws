@@ -960,12 +960,12 @@ and the balance, if any, shall be paid to that person.
 
 **Decision final**
 
-- **(3)** The decision of the Assessor on any appeal under this Part is final and conclusive and, except for judicial review under the Federal Court Act, is not subject to appeal to or review by any court.
+- **(3)** The decision of the Assessor on any appeal under this Part is final and conclusive and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
 
 **Payment**
 
 - **(4)** Where the Assessor varies a decision of the Minister by awarding compensation or increasing the amount of compensation awarded by the Minister or, on a matter referred back for further action, the Minister increases the amount of compensation previously awarded, the Minister shall pay that compensation or increased compensation, as the case may be.
-> R.S., 1985, c. 22 (4th Supp.), s. 52; 1993, c. 34, s. 61.
+> R.S., 1985, c. 22 (4th Supp.), s. 52; 1993, c. 34, s. 61; 2002, c. 8, s. 182.
 
 
 
