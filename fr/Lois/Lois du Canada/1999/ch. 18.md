@@ -38,38 +38,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** Accord en vigueur auquel le Canada est partie, qui porte en tout ou en partie sur l’extradition, à l’exception de tout accord spécifique.
+***accord*** Accord en vigueur auquel le Canada est partie, qui porte en tout ou en partie sur l’extradition, à l’exception de tout accord spécifique. (*extradition agreement*)
 
-***accord spécifique*** Accord visé à l’article 10 et qui est en vigueur.
+***accord spécifique*** Accord visé à l’article 10 et qui est en vigueur. (*specific agreement*)
 
 ***cour d’appel***
 - **a)** Dans la province de l’Île-du-Prince-Édouard, la Section d’appel de la Cour suprême;
-- **b)** dans les autres provinces, la Cour d’appel.
+- **b)** dans les autres provinces, la Cour d’appel. (*court of appeal*)
 
-***Cour pénale internationale*** La Cour pénale internationale au sens du paragraphe 2(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md).
+***Cour pénale internationale*** La Cour pénale internationale au sens du paragraphe 2(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md). (*International Criminal Court*)
 
 ***État ou entité***
 - **a)** Un État étranger, ses provinces, États ou autres subdivisions politiques, ses colonies, dépendances, possessions, territoires gérés en condominium ou placés sous son protectorat, sa tutelle ou, d’une façon générale, sa dépendance;
 - **b)** tout tribunal pénal international;
-- **c)** un territoire.
+- **c)** un territoire. (*State or entity*)
 
-***juge*** Juge du tribunal.
+***juge*** Juge du tribunal. (*judge*)
 
-***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*justice*)
 
-***ministre*** Le ministre de la Justice.
+***ministre*** Le ministre de la Justice. (*Minister*)
 
-***partenaire*** État ou entité qui est soit partie à un accord d’extradition, soit signataire d’un accord spécifique avec le Canada ou dont le nom figure à l’annexe.
+***partenaire*** État ou entité qui est soit partie à un accord d’extradition, soit signataire d’un accord spécifique avec le Canada ou dont le nom figure à l’annexe. (*extradition partner*)
 
-***procureur général*** Le procureur général du Canada.
+***procureur général*** Le procureur général du Canada. (*Attorney General*)
 
 ***tribunal***
 - **a)** En Ontario, la Cour de l’Ontario (Division générale);
 - **b)** au Québec, la Cour supérieure;
 - **c)** au Nouveau-Brunswick, au Manitoba, en Alberta et en Saskatchewan, la Cour du Banc de la Reine;
-- **d)** en Nouvelle-Écosse, en Colombie-Britannique, au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, la Cour suprême;
-- **e)** dans l’Île-du-Prince-Édouard et à Terre-Neuve, la Section de première instance de la Cour suprême.
-> 1999, ch. 18, art. 2; 2000, ch. 24, art. 47.
+- **d)** en Nouvelle-Écosse, en Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême, et au Nunavut, la Cour de justice;
+- **e)** dans l’Île-du-Prince-Édouard et à Terre-Neuve, la Section de première instance de la Cour suprême. (*court*)
+> 1999, ch. 18, art. 2; 2000, ch. 24, art. 47; 2002, ch. 7, art. 169.
 
 
 
@@ -808,12 +808,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres cas de refus**
 
-**47** Le ministre peut refuser d’extrader s’il est convaincu que :
+**47** Le ministre peut refuser d’extrader s’il est convaincu que :
 - **a)** l’intéressé, s’il subissait son procès au Canada, bénéficierait d’une libération du fait d’une condamnation ou d’un acquittement antérieurs;
 - **b)** l’intéressé a été condamné par défaut et ne pourrait, une fois extradé, obtenir une révision de son procès;
-- **c)** l’intéressé avait moins de dix-huit ans au moment de la perpétration de l’infraction et le droit applicable par le partenaire est incompatible avec les principes fondamentaux mis en oeuvre par la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md);
+- **c)** l’intéressé avait moins de dix-huit ans au moment de la perpétration de l’infraction et le droit applicable par le partenaire est incompatible avec les principes fondamentaux mis en oeuvre par la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md);
 - **d)** l’intéressé fait l’objet d’une poursuite criminelle au Canada pour les actes à l’origine de la demande d’extradition;
 - **e)** aucun des actes à l’origine de la demande d’extradition n’a été commis dans le ressort du partenaire.
+> 1999, ch. 18, art. 47; 2002, ch. 1, art. 190.
+
 
 
 
@@ -1318,10 +1320,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autorités compétentes**
 
 **77** Pour l’application de la présente partie, l’autorité compétente relativement à une demande d’extradition est selon qu’elle est faite :
-- **a)** pour procès ou infliction d’une peine ou pour qu’une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), soit prise contre l’intéressé, le procureur général — du Canada ou de la province — responsable de la poursuite;
-- **b)** pour exécution d’une peine ou d’une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) :
-	- **(i)** le solliciteur général du Canada si l’intéressé doit purger sa peine dans un pénitencier,
+- **a)
+** pour procès ou infliction d'une peine ou pour qu'une décision, au sens de la 
+[Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapite Y-1 des Lois révisées du Canada (1985), soit prise contre l'intéressé, le procureur général — du Canada ou de la province — responsable de la poursuite;
+- **b)
+** pour l'exécution d'une peine ou d'une décision, au sens de la 
+[Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985) :
+	- **(i)** le solliciteur général du Canada si l'intéressé doit purger sa peine dans un pénitencier,
 	- **(ii)** le ministre provincial responsable des services correctionnels dans tout autre cas.
+> 1999, ch. 18, art. 77; 2002, ch. 1, art. 191.
+
 
 
 
@@ -1330,11 +1338,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **78** 
 
-- **(1)** Le ministre peut, à la demande de l’autorité compétente, demander à un État ou entité — appelé « partie requise » dans la présente partie — l’extradition d’une personne pour qu’elle subisse son procès au Canada, se fasse infliger une peine ou la purge, ou se fasse imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ou qu’il l’exécute, relativement à une infraction sanctionnée par le droit canadien.
+- **(1)** Le ministre peut, à la demande de l’autorité compétente, demander à un État ou entité — appelé « partie requise » dans la présente partie — l’extradition d’une personne pour qu’elle subisse son procès au Canada, se fasse infliger une peine ou la purge, ou se fasse imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), ou qu’elle l’exécute, relativement à une infraction sanctionnée par le droit canadien.
 
 **Arrestation provisoire**
 
 - **(2)** Il peut également demander l’arrestation provisoire de cette personne à la demande de l’autorité compétente.
+> 1999, ch. 18, art. 78; 2002, ch. 1, art. 192.
+
 
 
 
@@ -1358,12 +1368,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Principe de spécialité**
 
-**80** Sous réserve de l’accord applicable, la personne extradée au Canada ne peut, sauf si elle a par la suite quitté volontairement le Canada ou eu la possibilité de le faire :
-- **a)** être détenue, poursuivie, se faire infliger ou purger une peine, se faire imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ou l’exécuter au Canada que pour l’une des infractions suivantes qu’elle a ou aurait commise avant son extradition :
+**80** Sous réserve de l’accord applicable, la personne extradée au Canada ne peut, sauf si elle a par la suite quitté volontairement le Canada ou eu la possibilité de le faire :
+- **a)** être détenue, poursuivie, se faire infliger ou purger une peine, se faire imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), ou l’exécuter au Canada que pour l’une des infractions suivantes qu’elle a ou aurait commise avant son extradition :
 	- **(i)** l’infraction pour laquelle elle a été remise ou toute autre infraction incluse,
 	- **(ii)** toute autre infraction pour laquelle la partie requise consent au procès ou à la détention,
 	- **(iii)** toute autre infraction pour laquelle l’extradé consent à son procès ou à sa détention;
 - **b)** être détenue au Canada pour être remise à un État ou entité tiers pour subir son procès dans le ressort de celui-ci, se faire infliger une peine ou la purger pour une infraction qu’elle a ou aurait commise avant son extradition au Canada que si la partie requise y consent.
+> 1999, ch. 18, art. 80; 2002, ch. 1, art. 193.
+
 
 
 
@@ -1427,11 +1439,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Commencement de la peine ou de la décision**
+**Commencement de la peine**
 
 **83** 
 
-- **(1)** Sous réserve du paragraphe (3), la personne extradée temporairement au Canada qui soit y a été déclarée coupable d’une infraction et a reçu une peine en conséquence, soit s’est fait imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), ne commence à purger sa peine qu’à la date de son extradition définitive au Canada.
+- **(1)** Sous réserve du paragraphe (3), la personne extradée temporairement au Canada qui y a été déclarée coupable d’une infraction et, soit a reçu une peine en conséquence, soit s’est fait imposer une décision, au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), ne commence à purger sa peine qu’à la date de son extradition définitive au Canada.
 
 **Mandat de dépôt**
 
@@ -1439,7 +1451,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mention de la portion**
 
-- **(3)** Le juge peut ordonner que la peine soit purgée ou la décision exécutée concurremment avec la peine infligée par la partie requise, auquel cas le mandat de dépôt ou la décision précise que la personne ne peut être incarcérée ou ne peut exécuter la décision, après extradition définitive, que pour la portion de la peine ou décision restant à purger ou à exécuter au Canada.
+- **(3)** Le juge peut ordonner que la peine soit purgée ou la décision exécutée concurremment avec la peine infligée par la partie requise, auquel cas le mandat de dépôt ou la décision précise que la personne ne peut être incarcérée ou ne peut exécuter la décision, après extradition définitive, que pour la portion de la peine ou de la décision restant à purger ou à exécuter au Canada.
+> 1999, ch. 18, art. 83; 2002, ch. 1, art. 194.
+
 
 
 
