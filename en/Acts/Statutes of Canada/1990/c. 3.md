@@ -459,11 +459,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Not part of public service**
 
-- **(2)** Subject to subsections (3) to (5), the trustees, officers, employees and agents of a museum are not part of the public service of Canada.
+- **(2)** Subject to subsections (3) to (5), the trustees, officers, employees and agents of a museum are not part of the federal public administration.
 
 **Superannuation**
 
-- **(3)** The officers and employees of a museum shall be deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and the museum shall be deemed to be a Public Service corporation for the purposes of section 37 of that Act.
+- **(3)** The officers and employees of a museum shall be deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and the museum shall be deemed to be a Public Service corporation for the purposes of section 37 of that Act.
 
 **Idem**
 
@@ -471,7 +471,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Compensation**
 
-- **(5)** The trustees, officers and employees of a museum shall be deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(5)** The trustees, officers and employees of a museum shall be deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 1990, c. 3, s. 24; 2003, c. 22, ss. 224(E), 225(E).
+
 
 
 
