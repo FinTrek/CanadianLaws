@@ -213,13 +213,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** The following definitions apply in subsection (1).
 
-***native bird*** means a member, at any stage of its life cycle, including eggs, of any species of the class Aves that is indigenous to the Antarctic or that occurs there seasonally through natural migrations.
+***native bird*** means a member, at any stage of its life cycle, including eggs, of any species of the class Aves that is indigenous to the Antarctic or that occurs there seasonally through natural migrations. (*oiseau indigène*)
 
-***native invertebrate*** means any terrestrial or freshwater invertebrate, at any stage of its life cycle, that is indigenous to the Antarctic.
+***native invertebrate*** means any terrestrial or freshwater invertebrate, at any stage of its life cycle, that is indigenous to the Antarctic. (*invertébré indigène*)
 
-***native mammal*** means a member of any species of the class Mammalia that is indigenous to the Antarctic or that occurs there seasonally through natural migrations.
+***native mammal*** means a member of any species of the class Mammalia that is indigenous to the Antarctic or that occurs there seasonally through natural migrations. (*mammifère indigène*)
 
-***native plant*** means any terrestrial or freshwater vegetation, including bryophytes, lichens, fungi and algae, at any stage of its life cycle, including seeds and other propagules, that is indigenous to the Antarctic.
+***native plant*** means any terrestrial or freshwater vegetation, including bryophytes, lichens, fungi and algae, at any stage of its life cycle, including seeds and other propagules, that is indigenous to the Antarctic. (*plante indigène*)
 
 
 
@@ -1327,6 +1327,6 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 <sup><a href='#a-11.44_e_70'>[*]</a></sup>**70** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='a-11.44_e_70'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='a-11.44_e_70'><sup>*</sup></a>: [Note: Act in force December 1, 2003, *see* SI/2003-176.]<br />
 
 
