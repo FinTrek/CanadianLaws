@@ -115,6 +115,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(3)** Les conseillers sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2001, ch. 29, art. 7; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -160,6 +162,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Experts**
 
 - **(3)** Le Tribunal peut engager des experts compétents dans des domaines relevant de son champ d’activité et, avec l’approbation du Conseil du Trésor, fixer leur rémunération.
+> 2001, ch. 29, art. 10; 2003, ch. 22, art. 225(A).
+
 
 
 
