@@ -134,7 +134,9 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Limit on directors from public service**
 
-- **(2)** No more than two of the directors, excluding the Chairperson and President, may be appointed from the public service of Canada.
+- **(2)** No more than two of the directors, excluding the Chairperson and President, may be appointed from the federal public administration.
+> 1995, c. 28, s. 5; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -249,7 +251,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **13** 
 
-- **(1)** The Chairperson and each director, except the President and any director employed in the public service of Canada, are entitled to be paid by the Bank the remuneration fixed by the Governor in Council for their time to attend meetings of the Board or any committee of the Board and to perform their duties under this Act.
+- **(1)** The Chairperson and each director, except the President and any director employed in the federal public administration, are entitled to be paid by the Bank the remuneration fixed by the Governor in Council for their time to attend meetings of the Board or any committee of the Board and to perform their duties under this Act.
 
 **Remuneration of President**
 
@@ -271,6 +273,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(c)** the provision of benefits under the fund;
 	- **(d)** the payment of pensions; and
 	- **(e)** the investment of the money of the fund.
+> 1995, c. 28, s. 13; 2003, c. 22, s. 224(E).
+
 
 
 
