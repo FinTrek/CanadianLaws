@@ -320,7 +320,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Accident compensation**
 
-**25** The Chairperson, the President, the private sector directors and the employees of the Commission are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+**25** The Chairperson, the President, the private sector directors and the employees of the Commission are deemed to be employees for the purposes of the 
+[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2000, c. 28, s. 25; 2003, c. 22, s. 224(E).
+
 
 
 
