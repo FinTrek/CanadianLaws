@@ -64,11 +64,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(b)** a departmental corporation or Crown corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md),
 
 but does not include
-- **(c)** any institution of the Council or government of the Northwest Territories or the Yukon Territory or of the Legislative Assembly for, or the government of, Nunavut, or
+- **(c)** any institution of the Council or government of the Northwest Territories or of the Legislative Assembly or government of Yukon or Nunavut, or
 - **(d)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people;
 
 ***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act.
-> R.S., 1985, c. 24 (4th Supp.), s. 2; 1993, c. 28, s. 78.
+> R.S., 1985, c. 24 (4th Supp.), s. 2; 1993, c. 28, s. 78; 2002, c. 7, s. 129.
 
 
 
