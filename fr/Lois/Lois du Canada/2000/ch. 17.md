@@ -982,8 +982,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **b)** peut recueillir tout renseignement qu’il croit se rapporter à des activités de recyclage des produits de la criminalité ou au financement des activités terroristes et qui est accessible au public, notamment par les banques de données mises sur le marché, ou qui est contenu dans des bases de données tenues par les gouvernements fédéral ou provinciaux dans le cadre de l’application des lois et à l’égard desquelles un accord a été conclu en vertu du paragraphe 66(1);
 - **c)** analyse et apprécie les rapports, déclarations et autres renseignements recueillis;
 - **d)** conserve ces rapports, déclarations et renseignements, sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), pendant cinq ans à compter de la date de leur réception ou de leur collecte, et, si des renseignements sont communiqués au titre des paragraphes 55(3), (4) ou (5), conserve ces renseignements et les rapports et déclarations où ils figurent pendant huit ans à compter de cette date;
-- **e)** par dérogation à la [Loi sur les Archives nationales du Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(3e%20suppl.).md), détruit ces rapports, déclarations et renseignements à l’expiration de la période applicable visée à l’alinéa d).
-> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66.
+- **e)** par dérogation à la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md), détruit ces rapports, déclarations et renseignements à l’expiration de la période applicable visée à l’alinéa d).
+> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66; 2004, ch. 11, art. 42.
 
 
 
