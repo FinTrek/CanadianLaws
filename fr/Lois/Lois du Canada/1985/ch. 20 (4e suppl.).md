@@ -354,8 +354,8 @@
 
 **Révision en Cour fédérale**
 
-- **(2)** Les décisions du Conseil, sous réserve de l’article 10, de même que les ordonnances de la Commission ne sont susceptibles de révision qu’au titre de la Loi sur la Cour fédérale.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 12; 1990, ch. 8, art. 42; 1995, ch. 40, art. 36.
+- **(2)** Les décisions du Conseil, sous réserve de l’article 10, de même que les ordonnances de la Commission ne sont susceptibles de révision qu’au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 12; 1990, ch. 8, art. 42; 1995, ch. 40, art. 36; 2002, ch. 8, art. 182.
 
 
 
