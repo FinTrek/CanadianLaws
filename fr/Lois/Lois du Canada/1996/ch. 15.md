@@ -45,7 +45,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Gendarmerie*** La Gendarmerie royale du Canada.
 
-***ministre*** Le solliciteur général du Canada.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile.
 
 ***programme*** Le programme de protection des témoins instauré par l’article 4.
 
@@ -54,6 +54,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***témoin*** Personne qui :
 - **a)** soit a fourni ou accepté de fournir des renseignements ou des éléments de preuve dans le cadre d’une enquête ou d’une poursuite relative à une infraction — ou y a participé ou a accepté d’y participer — et, de ce fait, peut avoir besoin de protection, sa sécurité étant mise en danger;
 - **b)** soit, en raison de ses liens avec la personne visée à l’alinéa a) et pour les motifs qui y sont énoncés, peut également avoir besoin de protection.
+> 1996, ch. 15, art. 2; 2005, ch. 10, art. 34.
+
 
 
 
