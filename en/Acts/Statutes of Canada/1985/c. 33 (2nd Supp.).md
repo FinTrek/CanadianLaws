@@ -56,25 +56,27 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 ***arbitral award*** means an award made by the Board or an arbitrator appointed under section 49 in respect of a dispute;
 
-***bargaining agent*** means an employee organization
+***bargaining agent*** means an employee organization 
 - **(a)** that has been certified by the Board as bargaining agent for a bargaining unit, and
 - **(b)** the certification of which has not been revoked;
 
-***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining;
+***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining; 
 
-***Board*** means the Public Service Staff Relations Board established under section 11 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md);
+***Board*** means the Public Service Labour Relations Board established under section 12 of the Public Service Labour Relations Act;
 
-***Chairman*** means the Chairman of the Board;
+***Chairman***[Repealed, 2003, c. 22, s. 182]
+
+***Chairperson*** means the Chairperson of the Board.
 
 ***collective agreement*** means an agreement in writing entered into under this Part between an employer, on the one hand, and a bargaining agent, on the other hand, containing provisions respecting terms and conditions of employment and related matters;
 
-***conciliator*** means a person appointed by the Chairman under section 40 to assist the parties to collective bargaining in reaching agreement;
+***conciliator*** means a person appointed by the Chairperson under section 40 to assist the parties to collective bargaining in reaching agreement;
 
-***Deputy Chairman*** means a Deputy Chairman of the Board;
+***Deputy Chairman***[Repealed, 2003, c. 22, s. 182]
 
 ***dispute*** means a dispute or difference arising in connection with the conclusion, renewal or revision of a collective agreement, in respect of which arbitration is requested pursuant to section 50;
 
-***employee*** means a person employed by an employer, other than
+***employee*** means a person employed by an employer, other than 
 - **(a)** a person appointed by the Governor in Council,
 - **(b)** a person not ordinarily required to work more than seven hundred hours in a calendar year or one-third of the normal period for persons doing similar work, whichever is greater,
 - **(c)** a person employed on a casual or temporary basis, unless the person has been so employed for a period of six months or more,
@@ -92,7 +94,7 @@ and for the purposes of this definition a person does not cease to be employed b
 - **(d)** the office of the Senate Ethics Officer as represented by the Ethics Officer, or
 - **(e)** the office of the Ethics Commissioner as represented by the Ethics Commissioner;
 
-***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
+***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that 
 - **(a)** for the purposes of any of the provisions of this Part respecting grievances, a reference to an “employee” includes a person who would be an employee but for the fact that the person is a person employed in a managerial or confidential capacity, and
 - **(b)** for the purposes of any of the provisions of this Part respecting grievances with respect to action resulting in termination or suspension, a reference to an “employee” includes a former employee or a person who would be a former employee but for the fact that at the time of the person’s termination or suspension, the person was a person employed in a managerial or confidential capacity;
 
@@ -116,8 +118,10 @@ and for the purposes of this definition a person does not cease to be employed b
 
 ***strike*** includes a cessation of work or a refusal to work or to continue to work by employees in combination or in concert or in accordance with a common understanding, or a slow-down of work or other concerted activity on the part of employees designed to restrict or limit output;
 
-***Vice-Chairman*** means the Vice-Chairman of the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2004, c. 7, s. 33
+***Vice-Chairman***[Repealed, 2003, c. 22, s. 182]
+
+***Vice-Chairperson*** means a Vice-Chairperson of the Board.
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33
 
 
 
@@ -226,19 +230,21 @@ and for the purposes of this definition a person does not cease to be employed b
 
 
 **DIVISION I** 
-### Public Service Staff Relations Board
+### Public Service Labour Relations Board
 
 
 
-#### Public Service Staff Relations Act Provisions
+#### Public Service Labour Relations Act Provisions
 
 
 
-**Application of Part I of [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md)**
+**Application of Public Service Labour Relations Act**
 
-**9** Unless otherwise provided in this Part, the provisions of Part I of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) respecting the Public Service Staff Relations Board apply also in respect of this Part except that, for the purpose of that application,
+**9** Unless otherwise provided in this Part, the provisions the Public Service Labour Relations Act respecting the Public Service Labour Relations Board apply also in respect of this Part except that, for the purpose of that application,
 - **(a)** a reference to that Act in any of those provisions shall be read as a reference to this Part; and
 - **(b)** words and expressions used in those provisions that are defined by this Part shall have the meaning given to them by this Part.
+> R.S., 1985, c. 33 (2nd Supp.), s. 9; 2003, c. 22, s. 184
+
 
 
 
@@ -254,9 +260,17 @@ and for the purposes of this definition a person does not cease to be employed b
 
 
 
-**Delegation of powers to Vice-Chairman and Deputy Chairman**
+**Delegation by Board**
 
-**11** The Vice-Chairman and each Deputy Chairman may exercise such of the powers and perform such of the duties and functions of the Board under this Part as may be assigned to them by the Board other than the power to make regulations of general application under section 12.
+**11** 
+
+- **(1)** The Board may authorize the Chairperson to exercise any of its powers or perform any of its functions, other than the power to make regulations of general application under section 12.
+
+**Delegation by Chairperson**
+
+- **(2)** The Chairperson may authorize a Vice-Chairperson to exercise any of the Chairperson’s powers or perform any of the Chairperson’s functions, including powers or functions delegated to the Chairperson by the Board.
+> R.S., 1985, c. 33 (2nd Supp.), s. 11; 2003, c. 22, s. 185
+
 
 
 
@@ -721,14 +735,18 @@ any money for activities carried on by or on behalf of any political party.
 
 **Request for conciliation**
 
-**40** Where an employer or a bargaining agent advises the Board by notice in writing of the inability of the parties to reach agreement on any term or condition of employment that may be embodied in a collective agreement and that it desires the assistance of a conciliator in reaching agreement, the Chairman may appoint a conciliator who shall, forthwith after the appointment, confer with the parties and endeavour to assist them in reaching agreement.
+**40** Where an employer or a bargaining agent advises the Board by notice in writing of the inability of the parties to reach agreement on any term or condition of employment that may be embodied in a collective agreement and that it desires the assistance of a conciliator in reaching agreement, the Chairperson may appoint a conciliator who shall, forthwith after the appointment, confer with the parties and endeavour to assist them in reaching agreement.
+> R.S., 1985, c. 33 (2nd Supp.), s. 40; 2003, c. 22, s. 187(E)
+
 
 
 
 
 **Report of conciliator**
 
-**41** A conciliator shall, within fourteen days from the date of his appointment or within such longer period as the Chairman may determine, report his success or failure to the Chairman.
+**41** A conciliator shall, within fourteen days from the date of his appointment or within such longer period as the Chairperson may determine, report his success or failure to the Chairperson.
+> R.S., 1985, c. 33 (2nd Supp.), s. 41; 2003, c. 22, s. 187(E)
+
 
 
 
@@ -849,11 +867,11 @@ any money for activities carried on by or on behalf of any political party.
 
 
 
-**Chairman may appoint outside arbitrator**
+**Chairperson may appoint outside arbitrator**
 
 **49** 
 
-- **(1)** Notwithstanding anything in this Part, if the Chairman considers it advisable to do so, the Chairman may appoint an arbitrator in place of the Board in respect of any matters in dispute referred to arbitration under this Part.
+- **(1)** Notwithstanding anything in this Part, if the Chairperson considers it advisable to do so, the Chairperson may appoint an arbitrator in place of the Board in respect of any matters in dispute referred to arbitration under this Part.
 
 **Eligibility**
 
@@ -869,6 +887,8 @@ any money for activities carried on by or on behalf of any political party.
 **Sections 52 to 61 apply**
 
 - **(4)** Sections 52 to 61 apply, with such modifications as the circumstances require, in respect of matters in dispute referred to an arbitrator appointed under subsection (1).
+> R.S., 1985, c. 33 (2nd Supp.), s. 49; 2003, c. 22, s. 187(E)
+
 
 
 
@@ -935,16 +955,13 @@ any money for activities carried on by or on behalf of any political party.
 - **(b)** the need to maintain appropriate relationships in the conditions of employment as between different grade levels within an occupation and as between occupations of employees,
 - **(c)** the need to establish terms and conditions of employment that are fair and reasonable in relation to the qualifications required, the work performed, the responsibility assumed and the nature of the services rendered, and
 - **(d)** any other factor that to it appears to be relevant to the matter in dispute,
-and, so far as consistent with the requirements of the employer, the Board shall give due regard to maintaining comparability of conditions of employment of employees with those that are applicable to persons in similar employment in the public service of Canada.
+and, so far as consistent with the requirements of the employer, the Board shall give due regard to maintaining comparability of conditions of employment of employees with those that are applicable to persons in similar employment in the federal public administration.
+> R.S., 1985, c. 33 (2nd Supp.), s. 53; 2003, c. 22, s. 224(E)
 
 
 
 
-**Limit on increases for certain period**
-
-**53.1** Notwithstanding any other provision of this Act, during the period in which the referral of a dispute to arbitration as the process for the resolution of a dispute under the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) is suspended under paragraph 62(1)(b) of that Act, the Board shall, in rendering an arbitral award, limit the aggregate amount of any increase in pay and other benefits in respect of any dispute applicable to employees to that concluded through collective bargaining or otherwise by a comparable bargaining unit in the Public Service, within the meaning of that Act, after the compensation plan applicable to that bargaining unit ceased to be continued by virtue of the [Public Sector Compensation Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2030.md).
-> 1996, c. 18, s. 11; 1999, c. 26, s. 18
-
+**53.1** [Repealed, 2003, c. 22, s. 186]
 
 
 
@@ -1158,12 +1175,14 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **65** 
 
 - **(1)** Where a grievance is referred to a board of adjudication, the board shall be composed of three persons, namely,
-	- **(a)** a member of the Board, who shall be the chairman; and
+	- **(a)** a member of the Board, who shall be the chairperson; and
 	- **(b)** two other persons, one nominated by each party.
 
 **Ineligible to be a member**
 
 - **(2)** A person is not eligible to be a member of the board of adjudication established under subsection (1) if the person has any direct interest in or connection with the grievance, its handling or its disposition.
+> R.S., 1985, c. 33 (2nd Supp.), s. 65; 2003, c. 22, s. 187(E)
+
 
 
 
@@ -1189,13 +1208,15 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 - **(3)** Notwithstanding section 64 and subsections (1) and (2) of this section, where a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f) is referred to adjudication, the adjudication shall be by a single adjudicator selected by
 	- **(a)** the employee and employer concerned; or
-	- **(b)** the Chairman, where the employer and employee are unable to agree on the selection of an adjudicator and either party makes a written request to the Chairman to select an adjudicator.
+	- **(b)** the Chairperson, where the employer and employee are unable to agree on the selection of an adjudicator and either party makes a written request to the Chairperson to select an adjudicator.
 
 **Adjudicator re certain matters**
 
 - **(4)** A person selected to adjudicate a grievance respecting a matter referred to in paragraph 63(1)(d), (e) or (f)
 	- **(a)** shall not be a member of the Board but has, for the purposes of the adjudication, all the powers, rights and privileges of the Board other than the power to make regulations of general application under section 12; and
 	- **(b)** shall not have any direct interest in or in connection with the grievance, its handling or its disposition.
+> R.S., 1985, c. 33 (2nd Supp.), s. 66; 2003, c. 22, s. 187(E)
+
 
 
 
@@ -1248,7 +1269,7 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Decision of board of adjudication**
 
-- **(3)** In the case of a board of adjudication, a decision of the majority of the members on a grievance is a decision of the board thereon, and the decision shall be signed by the chairman of the board.
+- **(3)** In the case of a board of adjudication, a decision of the majority of the members on a grievance is a decision of the board thereon, and the decision shall be signed by the chairperson of the board.
 
 **Implementation of decision by employer**
 
@@ -1261,6 +1282,8 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **Powers of Board with respect to decision on grievance**
 
 - **(6)** The Board may, in accordance with section 13, take such action as is contemplated by that section to give effect to the decision of an adjudicator on a grievance but shall not inquire into the basis or substance of the decision.
+> R.S., 1985, c. 33 (2nd Supp.), s. 68; 2003, c. 22, s. 187(E)
+
 
 
 
@@ -1474,7 +1497,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 
 **Application of [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)**
 
-**82** Unless the Governor in Council otherwise orders in any case or class of cases, a person appointed under this Part shall be deemed not to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+**82** Unless the Governor in Council otherwise orders in any case or class of cases, a person appointed under this Part shall be deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> R.S., 1985, c. 33 (2nd Supp.), s. 82; 2003, c. 22, s. 225(E)
+
 
 
 
