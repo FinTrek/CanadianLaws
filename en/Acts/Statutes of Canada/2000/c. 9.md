@@ -12590,6 +12590,9 @@ Election Act, R.S.A. 1980, c. E-2
 Motor Vehicle Administration Act, R.S.A. 1980, c. M-22
 
 
+Traffic Safety Act, R.S.A. 2000, c. T-6
+
+
 Vital Statistics Act, R.S.A. 1980, c. V-4
 
 
@@ -12755,7 +12758,7 @@ OTHER SOURCES OF INFORMATION
 Canada Post Corporation’s National Change of Address Database
 
 
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685.
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, page 283.
 
 
 
