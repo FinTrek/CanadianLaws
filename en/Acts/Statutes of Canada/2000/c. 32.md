@@ -45,7 +45,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***enforcement officer*** means a person designated under section 19 or belonging to a class of persons so designated.
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the Minister responsible for the Parks Canada Agency.
 
 ***park*** means a national park of Canada named and described in Schedule 1.
 
@@ -69,7 +69,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
-> 2000, c. 32, s. 2; 2002, c. 18, s. 30.
+> 2000, c. 32, s. 2; 2002, c. 18, s. 30; 2005, c. 2, s. 7.
 
 
 
