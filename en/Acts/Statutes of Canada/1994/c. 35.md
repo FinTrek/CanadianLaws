@@ -14,15 +14,15 @@ Assented to on 7 July 1994
 
 **Preamble**
 
-WHEREAS representatives of Her Majesty the Queen in right of Canada, the Government of the Yukon Territory and the Council for Yukon Indians signed the Umbrella Final Agreement on May 29, 1993, the provisions of which are intended to be incorporated into final agreements for the settlement of land claims of first nations in the Yukon Territory;
+WHEREAS representatives of Her Majesty the Queen in right of Canada, the Government of the Yukon Territory and the Council for Yukon Indians signed the Umbrella Final Agreement on May 29, 1993, the provisions of which are intended to be incorporated into final agreements for the settlement of land claims of first nations in Yukon;
 
 WHEREAS the Champagne and Aishihik First Nations, the First Nation of Nacho Nyak Dun, the Teslin Tlingit Council and the Vuntut Gwitchin First Nation have each entered into a final agreement with Her Majesty and the Government of the Yukon Territory, incorporating the provisions of the Umbrella Final Agreement and including provisions specific to each first nation;
 
-WHEREAS those final agreements provide that Her Majesty and the Government of the Yukon Territory are to enter into negotiations with those first nations for self-government agreements appropriate to the circumstances of each of them and in accordance with the Constitution of Canada;
+WHEREAS those final agreements provide that Her Majesty and the Government of Yukon are to enter into negotiations with those first nations for self-government agreements appropriate to the circumstances of each of them and in accordance with the Constitution of Canada;
 
 WHEREAS self-government agreements have been concluded with those first nations, and have been signed on behalf of each first nation, Her Majesty and the Government of the Yukon Territory;
 
-WHEREAS other first nations of the Yukon Territory may conclude self-government agreements;
+WHEREAS other first nations of Yukon may conclude self-government agreements;
 
 AND WHEREAS the Government of Canada has undertaken to recommend to Parliament the enactment of legislation to bring self-government agreements into effect;
 
@@ -30,6 +30,8 @@ AND WHEREAS the Government of Canada has undertaken to recommend to Parliament t
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 1994, c. 35, Preamble; 2002, c. 7, s. 260..
 
 
 
@@ -54,27 +56,29 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** In this Act,
 
-***citizen***, in relation to a first nation, means a citizen as determined in accordance with the constitution of the first nation;
+***citizen***, in relation to a first nation, means a citizen as determined in accordance with the constitution of the first nation; (*citoyen*)
 
-***constitution*** means the constitution of a first nation, as referred to in section 8;
+***constitution*** means the constitution of a first nation, as referred to in section 8; (*constitution*)
 
-***final agreement*** means a land claims agreement for a first nation that includes provisions specific to the first nation and incorporates the provisions of the Umbrella Final Agreement, and includes any amendments made to it from time to time in accordance with its provisions;
+***final agreement*** means a land claims agreement for a first nation that includes provisions specific to the first nation and incorporates the provisions of the Umbrella Final Agreement, and includes any amendments made to it from time to time in accordance with its provisions; (*accord définitif*)
 
-***first nation*** means a first nation named in column II of Schedule I;
+***first nation*** means a first nation named in column II of Schedule I; (*première nation*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development;
+***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
 
-***predecessor band***, in relation to a first nation, means the band or bands, within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), named in column I of Schedule I opposite the name of the first nation appearing in column II of that Schedule;
+***predecessor band***, in relation to a first nation, means the band or bands, within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), named in column I of Schedule I opposite the name of the first nation appearing in column II of that Schedule; (*bande antérieure*)
 
-***self-government agreement*** means an agreement concluded by a first nation with Her Majesty the Queen in right of Canada and the Yukon Government respecting government by and for the first nation;
+***self-government agreement*** means an agreement concluded by a first nation with Her Majesty the Queen in right of Canada and the Yukon Government respecting government by and for the first nation; (*accord*)
 
-***settlement land*** means land identified in a first nation’s final agreement as settlement land of the first nation;
+***settlement land*** means land identified in a first nation’s final agreement as settlement land of the first nation; (*terres désignées*)
 
-***Umbrella Final Agreement*** means the Umbrella Final Agreement signed on May 29, 1993 by representatives of the Council for Yukon Indians, Her Majesty the Queen in right of Canada and the Yukon Government, and includes any amendments made to it from time to time in accordance with its provisions;
+***Umbrella Final Agreement*** means the Umbrella Final Agreement signed on May 29, 1993 by representatives of the Council for Yukon Indians, Her Majesty the Queen in right of Canada and the Yukon Government, and includes any amendments made to it from time to time in accordance with its provisions; (*accord-cadre*)
 
-***Yukon enactment*** means a law of general application enacted pursuant to the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md);
+***Yukon enactment*** means a law of general application enacted pursuant to the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md); (*loi territoriale*)
 
-***Yukon Government*** means the Commissioner of the Yukon Territory acting by and with the advice and consent of the Executive Council of that Territory.
+***Yukon Government*** means the Commissioner of Yukon acting with the consent of the Executive Council of Yukon. (*gouvernement du Yukon*)
+> 1994, c. 35, s. 2; 2002, c. 7, s. 261.
+
 
 
 
@@ -225,7 +229,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** A first nation named in Schedule II has, to the extent provided by its self-government agreement,
 	- **(a)** the exclusive power to enact laws in relation to the matters enumerated in Part I of Schedule III;
-	- **(b)** the power to enact laws applicable in the Yukon Territory in relation to the matters enumerated in Part II of Schedule III; and
+	- **(b)** the power to enact laws applicable in Yukon in relation to the matters enumerated in Part II of Schedule III; and
 	- **(c)** the power to enact laws of a local or private nature applicable on the first nation’s settlement land in relation to the matters enumerated in Part III of Schedule III.
 
 **Idem**
@@ -237,6 +241,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(3)** The power of a first nation under paragraph (1)(c) to enact laws in relation to the administration of justice is suspended until the earlier of
 	- **(a)** the effective date of an agreement respecting the administration of justice entered into between the parties to the first nation’s self-government agreement, and
 	- **(b)** the expiration of any interim period provided by the self-government agreement for the purpose of reaching an agreement respecting the administration of justice.
+> 1994, c. 35, s. 11; 2002, c. 7, s. 262.
+
 
 
 
@@ -249,7 +255,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Agreements with local governments**
 
-- **(2)** Where a first nation’s self-government agreement so provides, the Yukon Government or a municipal corporation in the Yukon Territory may agree to the exercise by the first nation of any of the powers referred to in subsection (1), for which that Government or corporation has responsibility, in respect of portions of settlement land identified in the agreement.
+- **(2)** Where a first nation’s self-government agreement so provides, the Yukon Government or a municipal corporation in Yukon may agree to the exercise by the first nation of any of the powers referred to in subsection (1), for which that Government or corporation has responsibility, in respect of portions of settlement land identified in the agreement.
+> 1994, c. 35, s. 12; 2002, c. 7, s. 263(E).
+
 
 
 
@@ -274,23 +282,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Administration of justice**
 
 **14** Until an agreement respecting the administration of justice is in effect between a first nation named in Schedule II, Her Majesty and the Yukon Government, or until the expiration of any interim period provided by the first nation’s self-government agreement for the purpose of reaching such an agreement, whichever occurs earlier,
-- **(a)** the courts of the Yukon Territory have, subject to paragraph (b), jurisdiction in respect of laws enacted by the first nation according to the respective jurisdictions of those courts under territorial laws;
+- **(a)** the courts of Yukon have, subject to paragraph (b), jurisdiction in respect of laws enacted by the first nation according to the respective jurisdictions of those courts under territorial laws;
 - **(b)** the Territorial Court of Yukon has exclusive original jurisdiction in relation to the prosecution of offences under laws enacted by the first nation;
 - **(c)** offences under those laws shall be prosecuted in accordance with the Summary Convictions Act (Yukon), as amended from time to time, as if they were offences under Yukon enactments, by prosecutors appointed by the Yukon Government; and
 - **(d)** terms of imprisonment imposed for offences under those laws shall be served in a correctional facility in accordance with the Corrections Act (Yukon), as amended from time to time.
+> 1994, c. 35, s. 14; 2002, c. 7, s. 264.
 
 
 
 
-**Supreme Court of Territory**
+
+**Supreme Court of Yukon**
 
 **15** 
 
-- **(1)** For greater certainty and subject to section 14, the Supreme Court of the Yukon Territory has jurisdiction in respect of any action or proceeding arising out of this Act or out of a self-government agreement of a first nation named in Schedule II.
+- **(1)** For greater certainty and subject to section 14, the Supreme Court of Yukon has jurisdiction in respect of any action or proceeding arising out of this Act or out of a self-government agreement of a first nation named in Schedule II.
 
 **Federal Court of Canada**
 
 - **(2)** Nothing in this Act shall be construed so as to limit the jurisdiction of the Federal Court of Canada.
+> 1994, c. 35, s. 15; 2002, c. 7, s. 265.
+
 
 
 
@@ -319,9 +331,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Idem**
 
 - **(3)** Except as provided by the first nation’s final agreement in relation to the application of section 87 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the provisions of that Act, except sections 74 to 80, apply to a first nation named in Schedule II and to its citizens
-	- **(a)** in respect of any reserve, within the meaning of that Act, of a predecessor band of the first nation situated outside the Yukon Territory, and
-	- **(b)** in respect of any rights, titles, interests, obligations, assets and liabilities of the predecessor band outside the Yukon Territory,
+	- **(a)** in respect of any reserve, within the meaning of that Act, of a predecessor band of the first nation situated outside Yukon, and
+	- **(b)** in respect of any rights, titles, interests, obligations, assets and liabilities of the predecessor band outside Yukon,
 as if the first nation were a band and as if citizens of the first nation registered or entitled to be registered as Indians were members of that band, within the meaning of that Act.
+> 1994, c. 35, s. 17; 2002, c. 7, s. 266.
+
 
 
 
@@ -481,9 +495,11 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 **25** The Minister shall cause a copy of each self-government agreement that is brought into effect and of any amendment made to such an agreement, certified by the Minister to be a true copy, to be deposited in
 - **(a)** the National Archives of Canada;
 - **(b)** the library of the Department of Indian Affairs and Northern Development situated in the National Capital Region;
-- **(c)** such regional offices of the Government of Canada situated in the Yukon Territory as the Minister considers advisable;
+- **(c)** such regional offices of the Government of Canada situated in Yukon as the Minister considers advisable;
 - **(d)** the central registry of laws of first nations established under section 10, if any; and
 - **(e)** such other places as the Minister considers advisable.
+> 1994, c. 35, s. 25; 2002, c. 7, s. 267.
+
 
 
 
@@ -694,7 +710,7 @@ Vuntut Gwitchin First Nation
 
 
 ### **SCHEDULE III** 
-**(*Sections 11, 13 and 20*)**
+**(Sections 11, 13 and 20)**
 ## Legislative Powers
 
 ### PART I
@@ -731,7 +747,7 @@ Vuntut Gwitchin First Nation
 
 
 
-**5** Provision of training programs for citizens of the first nation, subject to applicable certification requirements of Canada or the Yukon Territory
+**5** Provision of training programs for citizens of the first nation, subject to applicable certification requirements of Canada or Yukon
 
 
 
@@ -883,5 +899,7 @@ Vuntut Gwitchin First Nation
 
 **3** The implementation of any taxation agreement entered into by the first nation and the Yukon Government
 
+
+> 1994, c. 35, Sch. III; 2002, c. 7, ss. 268(E), 269(F).
 
 
