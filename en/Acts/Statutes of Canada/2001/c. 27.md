@@ -520,13 +520,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** a permanent resident complies with the residency obligation with respect to a five-year period if, on each of a total of at least 730 days in that five-year period, they are
 		- **(i)** physically present in Canada,
 		- **(ii)** outside Canada accompanying a Canadian citizen who is their spouse or common-law partner or, in the case of a child, their parent,
-		- **(iii)** outside Canada employed on a full-time basis by a Canadian business or in the public service of Canada or of a province,
-		- **(iv)** outside Canada accompanying a permanent resident who is their spouse or common-law partner or, in the case of a child, their parent and who is employed on a full-time basis by a Canadian business or in the public service of Canada or of a province, or
+		- **(iii)** outside Canada employed on a full-time basis by a Canadian business or in the federal public administration or the public service of a province,
+		- **(iv)** outside Canada accompanying a permanent resident who is their spouse or common-law partner or, in the case of a child, their parent and who is employed on a full-time basis by a Canadian business or in the federal public administration or the public service of a province, or
 		- **(v)** referred to in regulations providing for other means of compliance;
 	- **(b)** it is sufficient for a permanent resident to demonstrate at examination
 		- **(i)** if they have been a permanent resident for less than five years, that they will be able to meet the residency obligation in respect of the five-year period immediately after they became a permanent resident;
 		- **(ii)** if they have been a permanent resident for five years or more, that they have met the residency obligation in respect of the five-year period immediately before the examination; and
 	- **(c)** a determination by an officer that humanitarian and compassionate considerations relating to a permanent resident, taking into account the best interests of a child directly affected by the determination, justify the retention of permanent resident status overcomes any breach of the residency obligation prior to the determination.
+> 2001, c. 27, s. 28; 2003, c. 22, s. 172(E).
+
 
 
 
@@ -2541,7 +2543,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** are eligible for reappointment in the same or another capacity;
 	- **(d)** shall receive the remuneration that may be fixed by the Governor in Council;
 	- **(e)** are entitled to be paid reasonable travel and living expenses incurred while absent in the course of their duties, in the case of a full-time member, from their ordinary place of work or, in the case of a part-time member, while absent from their ordinary place of residence;
-	- **(f)** are deemed to be employed in the public service of Canada for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md);
+	- **(f)** are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md);
 	- **(g)** may not accept or hold any office or employment or carry on any activity inconsistent with their duties and functions under this Act; and
 	- **(h)** if appointed as full-time members, must devote the whole of their time to the performance of their duties under this Act.
 
@@ -2556,6 +2558,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Qualification**
 
 - **(4)** The Deputy Chairperson of the Immigration Appeal Division and a majority of the Assistant Deputy Chairpersons of that Division and at least 10 per cent of the members of the Divisions referred to in subsection (1) must be members of at least five years standing at the bar of a province or notaries of at least five years standing at the *Chambre des notaires du Québec*.
+> 2001, c. 27, s. 153; 2003, c. 22, s. 173.
+
 
 
 
@@ -2602,7 +2606,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Personnel**
 
-**158** The Executive Director and other personnel necessary for the proper conduct of the business of the Board shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), and the personnel are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+**158** The Executive Director and other personnel necessary for the proper conduct of the business of the Board shall be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), and the personnel are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 2001, c. 27, s. 158; 2003, c. 22, s. 225(E).
+
 
 
 
