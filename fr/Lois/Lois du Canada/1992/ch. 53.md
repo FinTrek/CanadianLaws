@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md)
 
-# Loi sur le règlement de la revendication territoriale des Gwich'in
+# Loi sur le règlement de la revendication territoriale des Gwich’in
 
 **L.C. 1992, ch. 53**
 
@@ -30,6 +30,8 @@ que l’entente dispose en outre qu’elle constitue un accord sur des revendica
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
+
+> 1992, ch. 53, préambule; 2002, ch. 7, art. 175(A)..
 
 
 
@@ -106,10 +108,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 **7** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie certifiée conforme de l’Entente et de ses modifications éventuelles :
-- **a)** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
-- **b)** aux bureaux régionaux du ministère des Affaires indiennes et du Nord canadien situés au Yukon et dans les Territoires du Nord-Ouest;
-- **c)** aux bibliothèques des affaires législatives du Yukon et des Territoires du Nord-Ouest;
-- **d)** en tout autre lieu qu’il estime nécessaire.
+- **a)
+** à la bibliothèque du ministère des Affaires indiennes et du Nord canadien située dans la région de la capitale nationale;
+- **b)
+** aux bureaux régionaux du ministère des Affaires indiennes et du Nord canadien situés au Yukon et dans les Territoires du Nord-Ouest;
+- **c)
+** aux bibliothèques des affaires législatives du Yukon et des Territoires du Nord-Ouest;
+- **d)
+** en tout autre lieu qu’il estime nécessaire.
+> 1992, ch. 53, art. 7; 2002, ch. 7, art. 176(A).
+
 
 
 
