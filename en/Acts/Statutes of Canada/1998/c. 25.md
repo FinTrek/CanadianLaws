@@ -71,7 +71,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***local government*** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community or settlement, whether incorporated or not, and includes the territorial government acting in the place of a local government pursuant to those laws.
 
-***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by the Yukon Territory, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md), and on the east by the Nunavut Settlement Area, as defined in the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md), but does not include Wood Buffalo National Park of Canada.
+ 
+***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by Yukon, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the 
+[Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md) , and on the east by the Nunavut Settlement Area, as defined in the 
+[Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md) , but does not include Wood Buffalo National Park of Canada.
 
 ***Sahtu Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Sahtu Dene and Metis as represented by the Sahtu Tribal Council, signed on September 6, 1993 and approved, given effect and declared valid by the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md), as that Agreement is amended from time to time in accordance with its provisions.
 
@@ -84,7 +87,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***territorial government*** means the government of the Northwest Territories.
 
 ***territorial Minister***, in relation to any provision of this Act, means the minister of the territorial government designated by instrument of the Executive Council of the Northwest Territories for the purposes of that provision.
-> 1998, c. 25, s. 2; 2000, c. 32, s. 50.
+> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E).
 
 
 
@@ -2203,7 +2206,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **141** 
 
-- **(1)** In relation to a development that is proposed to be carried out partly in the Mackenzie Valley and partly in a region of the Northwest Territories, the Yukon Territory or Nunavut adjacent to the Mackenzie Valley, or partly in a province, as the case may be, the Review Board shall to the extent possible coordinate its environmental assessment functions with the functions of any authority responsible for the examination of environmental effects of the development in that region or province.
+- **(1)** In relation to a development that is proposed to be carried out partly in the Mackenzie Valley and partly in a region of the Northwest Territories, Yukon or Nunavut adjacent to the Mackenzie Valley, or partly in a province, as the case may be, the Review Board shall to the extent possible coordinate its environmental assessment functions with the functions of any authority responsible for the examination of environmental effects of the development in that region or province.
 
 **Agreement — region or province**
 
@@ -2213,7 +2216,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Aboriginal representation**
 
-- **(3)** Where a review panel referred to in paragraph (2)(a) is established in relation to a development to be carried out partly in a region of the Northwest Territories, the Yukon Territory or Nunavut, at least one quarter of its members, excluding the chairperson, must be appointed on the nomination of first nations and other aboriginal groups affected by the proposed development.
+- **(3)** Where a review panel referred to in paragraph (2)(a) is established in relation to a development to be carried out partly in a region of the Northwest Territories, Yukon or Nunavut, at least one quarter of its members, excluding the chairperson, must be appointed on the nomination of first nations and other aboriginal groups affected by the proposed development.
 
 **Report to ministers and agencies**
 
@@ -2225,7 +2228,7 @@ before the expiration of ten days after receiving the report of the Review Board
 **Powers of ministers and agencies**
 
 - **(5)** An examination by a review panel or joint panel referred to in subsection (2) stands in lieu of an environmental impact review of the proposal referred to in that subsection and sections 135 to 137 apply, with such modifications as may be required, in respect of the examination.
-> 1998, c. 15, s. 48, c. 25, s. 141.
+> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E).
 
 
 
@@ -2233,8 +2236,8 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Transregional impact**
 
-**142** Where a development proposed to be carried out wholly in a region of the Northwest Territories, the Yukon Territory or Nunavut adjacent to the Mackenzie Valley, or wholly in a province, might have a significant adverse impact on the environment in the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of the environmental effects of such developments in that region or province to provide for the participation of the Review Board in the examination of the environmental effects of the development by that authority.
-> 1998, c. 15, s. 48, c. 25, s. 142.
+**142** Where a development proposed to be carried out wholly in a region of the Northwest Territories, Yukon or Nunavut adjacent to the Mackenzie Valley, or wholly in a province, might have a significant adverse impact on the environment in the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of the environmental effects of such developments in that region or province to provide for the participation of the Review Board in the examination of the environmental effects of the development by that authority.
+> 1998, c. 15, s. 48, c. 25, s. 142; 2002, c. 7, s. 207(E).
 
 
 
