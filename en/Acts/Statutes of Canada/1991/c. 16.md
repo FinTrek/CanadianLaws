@@ -49,10 +49,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Principal***[Repealed, 2003, c. 22, s. 23]
 
-***Public Service*** has the meaning given that expression in the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md);
+***public service*** has the meaning given that expression in the Public Service Labour Relations Act;
 
 ***School*** means the Canada School of Public Service continued under subsection 3(1).
-> 1991, c. 16, s. 2; 2003, c. 22, s. 23.
+> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E).
 
 
 
@@ -88,15 +88,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Objects**
 
 **4** The objects of the School are
-- **(a)** to encourage pride and excellence in the Public Service and to foster in managers and other Public Service employees a sense of the purposes, values and traditions of the Public Service;
+- **(a)** to encourage pride and excellence in the public service and to foster in managers and other public service employees a sense of the purposes, values and traditions of the public service;
 - **(b)** to help ensure that those managers have the analytical, creative, advisory, administrative and other managerial skills and knowledge necessary to develop and implement policy, respond to change, including changes in the social, cultural, racial and linguistic character of Canadian society, and manage government programs, services and personnel efficiently, effectively and equitably;
-- **(c)** to help managers and other Public Service employees to develop successful cooperative relationships at all levels through leadership, motivation, effective internal communications and the encouragement of innovation, high-quality service to the public and skills development;
-- **(d)** to develop within the Public Service and to attract to the Public Service, through the School’s programs and studies, persons who are of high calibre and who reflect the diversity of Canadian society, and to support their growth and development as public sector managers and employees committed to the service of Canada;
-- **(e)** to formulate and provide training, orientation and development programs for public sector managers and employees, particularly for those in the Public Service;
+- **(c)** to help managers and other public service employees to develop successful cooperative relationships at all levels through leadership, motivation, effective internal communications and the encouragement of innovation, high-quality service to the public and skills development;
+- **(d)** to develop within the public service and to attract to the public service, through the School’s programs and studies, persons who are of high calibre and who reflect the diversity of Canadian society, and to support their growth and development as public sector managers and employees committed to the service of Canada;
+- **(e)** to formulate and provide training, orientation and development programs for public sector managers and employees, particularly for those in the public service;
 - **(f)** to assist deputy heads in meeting the learning needs of their organization, including by way of delivering training and development programs;
 - **(g)** to study and conduct research into the theory and practice of public sector management and public administration; and
 - **(h)** to encourage a greater awareness in Canada of issues related to public sector management, public administration and the role and functions of government and to involve a broad range of individuals and institutions in the School’s pursuit of excellence in public administration.
-> 1991, c. 16, s. 4; 2003, c. 22, s. 24.
+> 1991, c. 16, s. 4; 2003, c. 22, ss. 24, 225(E).
 
 
 
@@ -105,7 +105,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Powers**
 
 **5** In carrying out its objects, the School has the capacity of a natural person and may
-- **(a)** acquire, manage, maintain, design and operate training, orientation and development programs for public sector managers and employees, particularly for those in the Public Service, and acquire personal and movable property;
+- **(a)** acquire, manage, maintain, design and operate training, orientation and development programs for public sector managers and employees, particularly for those in the public service, and acquire personal and movable property;
 - **(b)** assist departments, boards and agencies of the Government of Canada through programs, studies and documentation developed at the School;
 - **(c)** cooperate with other persons and bodies engaged in management and personnel development;
 - **(d)** contribute funds for the pursuit of research or other activities related to the theory and practice of public sector management and public administration;
@@ -114,7 +114,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(g)** enter into contracts, memoranda of understanding or other arrangements in the name of Her Majesty in right of Canada or in the name of the School;
 - **(h)** acquire any money, securities or other personal or movable property by gift or bequest and expend, administer or dispose of the property subject to the terms, if any, on which the gift or bequest was made; and
 - **(i)** do all things necessary or incidental to the attainment of the objects of the School.
-> 1991, c. 16, s. 5; 2001, c. 4, s. 68; 2003, c. 22, s. 25.
+> 1991, c. 16, s. 5; 2001, c. 4, s. 68; 2003, c. 22, ss. 25, 225(E).
 
 
 
@@ -165,7 +165,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Representation**
 
-- **(2)** Appointments under section 8 shall be made so that, of the governors other than the Chair, there are equal numbers of persons who are employed in the Public Service and persons who are not so employed.
+- **(2)** Appointments under section 8 shall be made so that, of the governors other than the Chair, there are equal numbers of persons who are employed in the public service and persons who are not so employed.
+> 1991, c. 16, s. 9; 2003, c. 22, s. 225(E).
+
 
 
 
@@ -197,7 +199,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Remuneration**
 
-- **(2)** The governors who are not employed in the Public Service may be paid such remuneration as the Governor in Council may fix for their attendance at meetings of the Board or for work performed for it.
+- **(2)** The governors who are not employed in the public service may be paid such remuneration as the Governor in Council may fix for their attendance at meetings of the Board or for work performed for it.
+> 1991, c. 16, s. 11; 2003, c. 22, s. 225(E).
+
 
 
 
@@ -231,12 +235,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Programs and studies**
 
-- **(3)** In exercising supervision over the School and direction of its programs, the President shall take into consideration the policies of the Government of Canada as well as the learning, training and development needs and priorities of the Public Service as determined by the Treasury Board.
+- **(3)** In exercising supervision over the School and direction of its programs, the President shall take into consideration the policies of the Government of Canada as well as the policies with respect to learning, training and development needs and priorities that are established by the Treasury Board under paragraph 11.1(1)(f) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
 **Acting President**
 
 - **(4)** In the event of a vacancy in the office of President, the Board may appoint a senior officer of the School to act as President, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
-> 1991, c. 16, s. 13; 2003, c. 22, s. 30.
+> 1991, c. 16, s. 13; 2003, c. 22, ss. 30, 132.1.
 
 
 
@@ -267,12 +271,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Act not applicable**
 
-- **(3)** The [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) does not apply to any person employed by the School under subsection (2).
+- **(3)** The Public Service Labour Relations Act does not apply to any person employed by the School under subsection (2).
 
 **Acts and regulations applicable**
 
-- **(4)** Each person employed by the School under subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
-> 1991, c. 16, s. 15; 2003, c. 22, s. 31.
+- **(4)** Each person employed by the School under subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 1991, c. 16, s. 15; 2003, c. 22, ss. 31, 133(E).
 
 
 
