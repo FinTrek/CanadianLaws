@@ -3279,7 +3279,7 @@ and ending on the day on which the refund is paid to the person.
 
 **Appeal**
 
-- **(6)** If a question set out in an application is determined by the Tax Court, the Minister or any of the persons who have been served with a copy of the application and who are named in an order of the Court under subsection (4) may, in accordance with the provisions of this Act, the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md) or the Federal Court Act, as they relate to appeals from or applications for judicial review of decisions of the Tax Court, appeal from the determination.
+- **(6)** If a question set out in an application is determined by the Tax Court, the Minister or any of the persons who have been served with a copy of the application and who are named in an order of the Court under subsection (4) may, in accordance with the provisions of this Act, the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md) or the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), as they relate to appeals from or applications for judicial review of decisions of the Tax Court, appeal from the determination.
 
 **Parties to appeal**
 
@@ -3297,6 +3297,8 @@ and ending on the day on which the refund is paid to the person.
 - **(9)** The period that is not to be counted in the computation of the periods described in paragraphs (8)(a) to (c) is the time between the day on which an application that is made under this section is served on a person under subsection (3) and
 	- **(a)** in the case of a person named in an order of the Tax Court under subsection (4), the day on which the determination becomes final and conclusive and not subject to any appeal; or
 	- **(b)** in the case of any other person, the day on which the person is served with notice that the person has not been named in an order of the Tax Court under subsection (4).
+> 2002, c. 22, ss. 205, 410.
+
 
 
 
@@ -4606,7 +4608,9 @@ exceeds
 
 **Ordinary action**
 
-- **(2)** The Federal Court Act and the rules made under it that are applicable to ordinary actions apply to actions instituted under subsection (1), except as varied by special rules made in respect of those actions.
+- **(2)** The [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) and the rules made under it that are applicable to ordinary actions apply to actions instituted under subsection (1), except as varied by special rules made in respect of those actions.
+> 2002, c. 22, ss. 276, 410.
+
 
 
 
