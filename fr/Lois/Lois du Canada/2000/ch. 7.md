@@ -265,9 +265,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Loi sur la Cour fédérale**
+**[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md)**
 
-**19** Il est entendu que ni les institutions nisga’a ou la Cour nisga’a, ni les personnes ou organismes nommés par le gouvernement nisga’a et ayant, exerçant ou censés exercer une compétence ou des pouvoirs prévus en vertu des lois nisga’a ne constituent des offices fédéraux au sens de la Loi sur la Cour fédérale.
+**19** Il est entendu que ni les institutions nisga’a ou la Cour nisga’a, ni les personnes ou organismes nommés par le gouvernement nisga’a et ayant, exerçant ou censés exercer une compétence ou des pouvoirs prévus en vertu des lois nisga’a ne constituent des offices fédéraux au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 2000, ch. 7, art. 19; 2002, ch. 8, art. 182.
+
 
 
 
