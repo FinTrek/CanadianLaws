@@ -3000,7 +3000,10 @@ is evidence of the statements contained in the affidavit.
 
 **Decision final**
 
-**105** The decision of the Tax Court of Canada under section 103 is final and, except for judicial review under the Federal Court Act, is not subject to appeal to or review by any court.
+**105** The decision of the Tax Court of Canada under section 103 is final and, except for judicial review under the 
+[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
+> 1996, c. 23, s. 105; 2002, c. 8, s. 182.
+
 
 
 
@@ -3188,7 +3191,7 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 
 **Judges acting as umpires**
 
-- **(2)** Subject to subsection (4), a judge or former judge of a superior court or a judge or former judge appointed under an Act of Parliament or the legislature of a province may, at the request of the chief umpire made with the approval of the Governor in Council, act as an umpire and, while so acting, the judge or former judge has all the powers of an umpire.
+- **(2)** Subject to subsection (4), a judge or former judge of a superior, county or district court or a judge or former judge appointed under an Act of Parliament or the legislature of a province may, at the request of the chief umpire made with the approval of the Governor in Council, act as an umpire and, while so acting, the judge or former judge has all the powers of an umpire.
 
 **Consent required**
 
@@ -3201,7 +3204,8 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 **Salary and travel allowance**
 
 - **(5)** A judge or former judge who acts as an umpire shall be paid
-	- **(a)** a salary for the period the person acts at the rate fixed by the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md) for a judge of the Federal Court, other than the Chief Justice or the Associate Chief Justice of that Court, less any amount otherwise payable to the person under that Act for the period; and
+	- **(a)** a salary for the period the person acts at the rate fixed by the 
+[Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md) for a judge of the Federal Court, other than the Chief Justice of that Court, less any amount otherwise payable to the person under that Act for the period; and
 	- **(b)** the travel allowances that a judge is entitled to be paid under that Act.
 
 **Appeals**
@@ -3215,7 +3219,7 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 **Duty**
 
 - **(8)** The chief umpire has supervision over and direction of the work of the umpires, subject to such rules as the chief umpire may, with the approval of the Governor in Council, make to regulate their work.
-> 1996, c. 23, s. 112; 1998, c. 19, s. 270; 1999, c. 31, s. 81(F).
+> 1996, c. 23, s. 112; 1998, c. 19, s. 270; 1999, c. 31, s. 81(F); 2002, c. 8, s. 135.
 
 
 
@@ -3297,7 +3301,10 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 
 **Decision final**
 
-**118** The decision of the umpire on an appeal is final and, except for judicial review under the Federal Court Act, is not subject to appeal to or review by any court.
+**118** The decision of the umpire on an appeal is final and, except for judicial review under the 
+[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
+> 1996, c. 23, s. 118; 2002, c. 8, s. 182.
+
 
 
 
@@ -3656,7 +3663,9 @@ to the extent that access has been or may be expected to be refused and that the
 
 **Receipt of decision**
 
-- **(3)** On receipt of the decision, the justice, judge or court shall proceed with the hearing and judgment and, in any proceedings under this Act, the decision is conclusive except in accordance with the Federal Court Act.
+- **(3)** On receipt of the decision, the justice, judge or court shall proceed with the hearing and judgment and, in any proceedings under this Act, the decision is conclusive except in accordance with the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> 1996, c. 23, s. 132; 2002, c. 8, s. 182.
+
 
 
 
