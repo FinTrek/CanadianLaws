@@ -4753,17 +4753,64 @@ exceeds
 
 
 
-**Debts to Her Majesty**
+**Definitions**
 
 **284** 
 
-- **(1)** Any duty, interest or other amount payable under this Act is a debt due to Her Majesty and is recoverable in the Federal Court or any other court of competent jurisdiction or in any other manner provided under this Act.
+- **(1)** The following definitions apply in this section.
 
-**Limitation**
+***action*** means an action to collect a tax debt of a person and includes a proceeding in a court and anything done by the Minister under any provision of this Part. 
 
-- **(2)** No proceedings for the recovery of an amount of duty, interest or other amount payable by a person under this Act shall be commenced in a court
-	- **(a)** in the case of an amount that may be assessed under this Act, unless at the time the action is commenced the person has been or may be assessed for that amount; and
-	- **(b)** in any other case, more than four years after the person became liable to pay the amount.
+***legal representative*** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate. 
+
+***tax debt*** means any amount payable by a person under this Act. 
+
+**Debts to Her Majesty**
+
+- **(1.1)** A tax debt is a debt due to Her Majesty and is recoverable as such in the Federal Court or any other court of competent jurisdiction or in any other manner provided under this Act.
+
+**Court proceedings**
+
+- **(2)** The Minister may not commence a proceeding in a court to collect a tax debt of a person in respect of an amount that may be assessed under this Act, unless when the proceeding is commenced the person has been or may be assessed for that amount.
+
+**No actions after limitation period**
+
+- **(2.1)** The Minister may not commence an action to collect a tax debt after the end of the limitation period for the collection of the tax debt.
+
+**Limitation period**
+
+- **(2.2)** The limitation period for the collection of a tax debt of a person
+	- **(a)** begins
+		- **(i)** if a notice of assessment in respect of the tax debt, or a notice referred to in subsection 254(1) or 294(1) in respect of the tax debt, is mailed to or served on the person after March 3, 2004, on the day that is 90 days after the day on which the last one of those notices is mailed or served,
+		- **(ii)** if no notice referred to in subparagraph (i) in respect of the tax debt was mailed or served and the earliest day on which the Minister can commence an action to collect that tax debt is after March 3, 2004, on that earliest day, and
+		- **(iii)** in any other case, on March 4, 2004; and
+	- **(b)** ends, subject to subsection (2.6), on the day that is 10 years after the day on which it begins.
+
+**Limitation period restarted**
+
+- **(2.3)** The limitation period described in subsection (2.2) for the collection of a tax debt of a person restarts (and ends, subject to subsection (2.6), on the day that is 10 years after the day on which it restarts) on any day, before it would otherwise end, on which
+	- **(a)** the person acknowledges the tax debt in accordance with subsection (2.4);
+	- **(b)** the Minister commences an action to collect the tax debt; or
+	- **(c)** the Minister, under subsection 188(1), 289(7), 295(4), 296(2) or 297(3), assesses another person in respect of the tax debt.
+
+**Acknowledgement of tax debts**
+
+- **(2.4)** A person acknowledges a tax debt if the person
+	- **(a)** promises, in writing, to pay the tax debt;
+	- **(b)** makes a written acknowledgement of the tax debt, whether or not a promise to pay can be inferred from the acknowledgement and whether or not it contains a refusal to pay; or
+	- **(c)** makes a payment, including a purported payment by way of a negotiable instrument that is dishonoured, on account of the tax debt.
+
+**Agent or legal representative**
+
+- **(2.5)** For the purposes of this section, an acknowledgement made by a person’s agent or legal representative has the same effect as if it were made by the person.
+
+**Extension of limitation period**
+
+- **(2.6)** In computing the day on which a limitation period ends, there shall be added the number of days on which one or more of the following is the case:
+	- **(a)** the Minister may not, because of any of subsections 286(2) to (7), take any of the actions described in subsection 286(1) in respect of the tax debt;
+	- **(b)** the Minister has accepted and holds security in lieu of payment of the tax debt;
+	- **(c)** if the person was resident in Canada on the applicable date described in paragraph (2.2)(a) in respect of the tax debt, the person is non-resident; or
+	- **(d)** an action that the Minister may otherwise take in respect of the tax debt is restricted or not permitted under any provision of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or of the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md).
 
 **Interest on judgments**
 
@@ -4772,6 +4819,8 @@ exceeds
 **Litigation costs**
 
 - **(4)** If an amount is payable by a person to Her Majesty because of an order, judgment or award of a court in respect of the costs of litigation relating to a matter to which this Act applies, sections 285 and 288 to 294 apply to the amount as if the amount were owing by the person on account of duty payable by the person under this Act.
+> 2002, c. 22, s. 284; 2004, c. 22, s. 47.
+
 
 
 
