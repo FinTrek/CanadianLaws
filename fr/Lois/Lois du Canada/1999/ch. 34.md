@@ -82,6 +82,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
 - **(6)** La partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas à l’Office.
+> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -246,6 +248,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Compétence**
 
 - **(5)** Dans le cadre de l’établissement de la liste, le comité tente d’assurer, autant que faire se peut, la présence au conseil d’un nombre suffisant de personnes ayant une compétence financière reconnue ou une expérience de travail propre à aider l’Office à accomplir sa mission avec efficacité.
+> 1999, ch. 34, art. 10; 2003, ch. 22, art. 225(A).
+
 
 
 
