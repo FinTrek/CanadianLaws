@@ -1938,7 +1938,11 @@ L’auteur de l’infraction encourt, sur déclaration de culpabilité par mise 
 
 **85** 
 
-- **(1)** Les sections I à IV ne s’appliquent pas à la Banque du Canada, au Centre de recherches pour le développement international, au Conseil des Arts du Canada, à la Corporation du Centre national des Arts, à l’Office d’investissement du régime de pensions du Canada, à Téléfilm Canada ni à la Société Radio-Canada.
+- **(1)** Les sections I à IV ne s’appliquent pas à la Banque du Canada, au Centre de recherches pour le développement international, au Conseil des Arts du Canada, à la Corporation du Centre national des Arts, à l’Office d’investissement du régime de pensions du Canada ni à la Société Radio-Canada.
+
+**Exemption : Téléfilm Canada**
+
+- **(1.1)** Sous réserve du paragraphe 21(2) de la [Loi sur Téléfilm Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-16.md), les sections I à IV ne s’appliquent pas à Téléfilm Canada.
 
 **Idem**
 
@@ -1949,7 +1953,7 @@ L’auteur de l’infraction encourt, sur déclaration de culpabilité par mise 
 **Idem**
 
 - **(3)** Les sections I à IV ne s’appliquent ni à l’institution fédérale membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), dont les actions ont été dévolues à la Société d’assurance-dépôts du Canada par décret du gouverneur en conseil pris en vertu de l’article 39.13 de cette loi, ni à la Société d’assurance-dépôts du Canada, en tant que société d’État mère d’une filiale à cent pour cent qui est une telle institution.
-> L.R. (1985), ch. F-11, art. 85; L.R. (1985), ch. 46 (1<sup>er</sup> suppl.), art. 7; 1992, ch. 26, art. 18; 1993, ch. 1, art. 9, ch. 44, art. 156; 1997, ch. 40, art. 108; 1998, ch. 17, art. 31; 2001, ch. 11, art. 6, ch. 34, art. 16; 2002, ch. 17, art. 14.
+> L.R. (1985), ch. F-11, art. 85; L.R. (1985), ch. 46 (1<sup>er</sup> suppl.), art. 7; 1992, ch. 26, art. 18; 1993, ch. 1, art. 9, ch. 44, art. 156; 1997, ch. 40, art. 108; 1998, ch. 17, art. 31; 2001, ch. 11, art. 6, ch. 34, art. 16; 2002, ch. 17, art. 14; 2005, ch. 14, art. 8.
 
 
 
