@@ -52,49 +52,80 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***aéronef canadien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***aéronef canadien*** S’entend au sens du paragraphe 3(1) de la 
+[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+
 
 ***Antarctique***
-- **a)** Le continent antarctique, y compris ses plates-formes glaciaires;
-- **b)** les îles situées au sud du 60<sup>e</sup> degré de latitude sud, y compris leurs plates-formes glaciaires;
-- **c)** la partie du plateau continental adjacente à ce continent et à ces îles et située au sud du 60<sup>e</sup> degré de latitude sud;
-- **d)** la mer et l’espace aérien situés au sud du 60<sup>e</sup> degré de latitude sud.
+- **a)
+** Le continent antarctique, y compris ses plates-formes glaciaires;
+- **b)
+** les îles situées au sud du 60
+<sup>e</sup> degré de latitude sud, y compris leurs plates-formes glaciaires;
+- **c)
+** la partie du plateau continental adjacente à ce continent et à ces îles et située au sud du 60
+<sup>e</sup> degré de latitude sud;
+- **d)
+** la mer et l’espace aérien situés au sud du 60
+<sup>e</sup> degré de latitude sud.
 
-***bâtiment canadien*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+***bâtiment canadien*** S’entend au sens de l’article 2 de la 
+[Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+
 
 ***Canadien***
-- **a)** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-- **b)** personne morale constituée ou prorogée en vertu du droit fédéral ou provincial.
+- **a)
+** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la 
+[Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **b)
+** personne morale constituée ou prorogée en vertu du droit fédéral ou provincial.
 
 ***capitaine*** Est assimilé au capitaine quiconque a le commandement ou la responsabilité d’un bâtiment, sauf le pilote.
 
+
 ***expédition canadienne*** S’entend du voyage d’une ou de plusieurs personnes dans le cas où celui-ci :
-- **a)** soit est organisé au Canada;
-- **b)** soit se fait directement du Canada à l’Antarctique.
+
+- **a)
+** soit est organisé au Canada;
+- **b)
+** soit se fait directement du Canada à l’Antarctique.
 
 ***lieu*** Sont notamment visés par la présente définition toute plate-forme fixée en mer, tout conteneur d’expédition et tout moyen de transport.
 
+
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+
 
 ***moyen de transport*** Est notamment visé par la présente définition tout véhicule, bâtiment ou aéronef.
 
+
 ***permis*** Le permis délivré au titre de l’article 21.
 
-***propriétaire enregistré*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+
+***propriétaire enregistré*** S’entend au sens du paragraphe 3(1) de la 
+[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+
 
 ***Protocole*** Le Protocole au Traité sur l’Antarctique relatif à la protection de l’environnement signé le 4 octobre 1991, à Madrid, avec ses modifications successives dans la mesure où elles lient le Canada.
 
-***représentant autorisé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
-***Traité*** Le Traité sur l’Antarctique signé à Washington le 1<sup>er</sup> décembre 1959, avec ses modifications successives dans la mesure où elles lient le Canada.
+***représentant autorisé*** S’entend au sens de l’article 2 de la 
+[Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+
+
+***Traité*** Le Traité sur l’Antarctique signé à Washington le 1
+<sup>er</sup> décembre 1959, avec ses modifications successives dans la mesure où elles lient le Canada.
+
 
 **Interprétation**
 
 - **(2)** Sauf indication contraire, les termes de la présente loi s’entendent au sens du Traité ou du Protocole.
 
-**Sens de autre partie au Protocole**
+**Sens de 
+autre partie au Protocole**
 
-- **(3)** Dans la présente loi, ***autre partie au Protocole*** s’entend d’une partie autre que le Canada.
+- **(3)** Dans la présente loi, 
+***autre partie au Protocole*** s’entend d’une partie autre que le Canada.
 
 
 
@@ -215,13 +246,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les définitions qui suivent s’appliquent au paragraphe (1).
 
-***invertébré indigène*** Invertébré terrestre ou d’eau douce, à tout stade de son cycle de vie, indigène en Antarctique.
+***invertébré indigène*** Invertébré terrestre ou d’eau douce, à tout stade de son cycle de vie, indigène en Antarctique. (*native invertebrate*)
 
-***mammifère indigène*** Individu de toute espèce appartenant à la classe des mammifères, indigène en Antarctique ou pouvant s’y trouver de façon saisonnière du fait de migrations naturelles.
+***mammifère indigène*** Individu de toute espèce appartenant à la classe des mammifères, indigène en Antarctique ou pouvant s’y trouver de façon saisonnière du fait de migrations naturelles. (*native mammal*)
 
-***oiseau indigène*** Individu, à tout stade de son cycle de vie — y compris l’œuf — de toute espèce appartenant à la classe des oiseaux, indigène en Antarctique ou pouvant s’y trouver de façon saisonnière du fait de migrations naturelles.
+***oiseau indigène*** Individu, à tout stade de son cycle de vie — y compris l’œuf — de toute espèce appartenant à la classe des oiseaux, indigène en Antarctique ou pouvant s’y trouver de façon saisonnière du fait de migrations naturelles. (*native bird*)
 
-***plante indigène*** Végétation terrestre ou d’eau douce — notamment bryophyte, lichen, champignon et algue — à tout stade de son cycle de vie, y compris les graines et autres semences, indigène en Antarctique.
+***plante indigène*** Végétation terrestre ou d’eau douce — notamment bryophyte, lichen, champignon et algue — à tout stade de son cycle de vie, y compris les graines et autres semences, indigène en Antarctique. (*native plant*)
 
 
 
@@ -1301,6 +1332,6 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 <sup><a href='#A-11.44_f_70'>[*]</a></sup>**70** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='A-11.44_f_70'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='A-11.44_f_70'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> décembre 2003, *voir* TR/2003-176.]<br />
 
 
