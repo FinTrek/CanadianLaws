@@ -75,7 +75,7 @@
 - **a.1)** à l’Île-du-Prince-Édouard, la division de première instance de la Cour suprême,
 - **b)** au Québec, la Cour supérieure,
 - **c)** dans le Manitoba, dans la Saskatchewan, dans l’Alberta et dans le Nouveau-Brunswick, la Cour du Banc de la Reine, et
-- **d)** dans le territoire du Yukon et les Territoires du Nord-Ouest, la Cour suprême, et, dans le territoire du Nunavut, la Cour de justice du Nunavut;
+- **d)** au Yukon, la Cour suprême du Yukon, dans les Territoires du Nord-Ouest, la Cour suprême des Territoires du Nord-Ouest et, dans le territoire du Nunavut, la Cour de justice du Nunavut;
 
 ***débenture*** comprend les obligations, stock-obligations et autres titres d’une compagnie qui constituent une charge sur l’actif de la compagnie ou donnent droit d’en bénéficier;
 
@@ -102,7 +102,7 @@
 **Résolution spéciale**
 
 - **(2)** Un règlement mentionné à l’article 20, au paragraphe 29(1), à l’article 51 ou à l’article 52 peut être désigné sous le nom de « résolution spéciale ».
-> S.R. 1970, ch. C-32, art. 3; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 2; 1972, ch. 17, art. 2; 1978-79, ch. 11, art. 10; 1986, ch. 35, art. 14; 1995, ch. 1, art. 32; 1999, ch. 3, art. 17.
+> S.R. 1970, ch. C-32, art. 3; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 2; 1972, ch. 17, art. 2; 1978-79, ch. 11, art. 10; 1986, ch. 35, art. 14; 1995, ch. 1, art. 32; 1999, ch. 3, art. 17; 2002, ch. 7, art. 89.
 
 
 
