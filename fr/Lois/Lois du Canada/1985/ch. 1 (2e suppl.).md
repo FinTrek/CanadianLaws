@@ -33,137 +33,152 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR ou l’ALÉCI.
+***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR ou l’ALÉCI. 
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***Agence*** L’Agence des douanes et du revenu du Canada.
+***Agence*** L’Agence des douanes et du revenu du Canada. 
 
- ou ***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada.
+ ou  ***agent*** ou  ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la  [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada. 
 
-***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili*.
+***alcool spécialement dénaturé*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
 
-***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica*.
+***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili*. 
 
-***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël*.
+***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica*. 
 
-***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël*. 
 
-***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24.
+***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la  [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). 
 
-***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5.
+***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24. 
+
+***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5. 
 
 ***Canada***[Abrogée, 1996, ch. 31, art. 73]
 
-***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4)b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange.
+***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4) b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange. 
 
-***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Chili*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
-***cigare*** S’entend au sens de l’article 6 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***cigare***[Abrogée, 2002, ch. 22, art. 328]
 
-***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
-***commissaire*** Le commissaire des douanes et du revenu nommé en vertu de l’article 25 de la Loi sur l’Agence des douanes et du revenu du Canada.
+***commissaire*** Le commissaire des douanes et du revenu nommé en vertu de l’article 25 de la  Loi sur l’Agence des douanes et du revenu du Canada. 
 
-***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada.
+***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada. 
 
-***Costa Rica*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Costa Rica*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
 ***dédouanement***
-- **a)** Autorisation d’enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes en vue de leur usage au Canada;
-- **b)** dans le cas des marchandises visées à l’alinéa 32(2)b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire.
+- **a) ** Autorisation d’enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes en vue de leur usage au Canada;
+- **b) ** dans le cas des marchandises visées à l’alinéa 32(2) b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire.
 
-***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
+***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif. 
 
-***données*** Toute forme de représentation d’informations ou de notions.
+***données*** Toute forme de représentation d’informations ou de notions. 
 
-***droits*** Les droits ou taxes imposés, en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3)b) et 65(1)b), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***droits*** Les droits ou taxes imposés, en vertu de la   Loi de 2001 sur l'accise, de la   Loi sur la taxe d'accise, de la   Loi sur les mesures spéciales d'importation, du   [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)  ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l'application du paragraphe 3(1), des alinéas 59(3)  b ) et 65(1)  b ), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la   Loi sur la taxe d'accise. 
 
 ***eaux intérieures***[Abrogée, 1996, ch. 31, art. 73]
 
-***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant :
-- **a)** Cap-des-Rosiers à la pointe extrême ouest de l’île d’Anticosti;
-- **b)** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest.
+***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant : 
+- **a) ** Cap-des-Rosiers à la pointe extrême ouest de l’île d’Anticosti;
+- **b) ** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest.
 
-***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24.
+***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24. 
 
-***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
- ou ***envois*** ou ***courrier*** S’entend au sens de l’article 2 de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md).
+ ou  ***envois*** ou  ***courrier*** S’entend au sens de l’article 2 de la  [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md). 
 
 ***États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***exporter*** Exporter hors du Canada.
+***exporter*** Exporter hors du Canada. 
 
-***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
-***importer*** Importer au Canada.
+***importer*** Importer au Canada. 
 
-***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
 
-***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support.
+***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support. 
 
 ***marchandises désignées***
-- **a)** L’alcool, l’alcool éthylique et l’eau-de-vie;
-- **b)** le carburant aviation;
-- **c)** l’essence d’aviation;
-- **d)** la bière ou la liqueur de malt;
-- **e)** les diamants;
-- **f)** le combustible diesel;
-- **g)** l’essence;
-- **h)** les perles;
-- **i)** les pierres précieuses ou fines;
-- **j)** le vin;
-- **k)** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi.
+- **a) ** [Abrogé, 2002, ch. 22, art. 328]
+- **b) ** le carburant aviation;
+- **c) ** l’essence d’aviation;
+- **d) ** la bière ou la liqueur de malt;
+- **e) ** les diamants;
+- **f) ** le combustible diesel;
+- **g) ** l’essence;
+- **h) ** les perles;
+- **i) ** les pierres précieuses ou fines;
+- **i.1) ** les spiritueux;
+- **j) ** le vin;
+- **k) ** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi.
 
 ***mer territoriale***[Abrogée, 1996, ch. 31, art. 73]
 
-***messager*** S’entend au sens du règlement.
+***messager*** S’entend au sens du règlement. 
 
-***ministre*** Le ministre du Revenu national.
+***ministre*** Le ministre du Revenu national. 
 
-***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises.
+***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises. 
 
-***partenaire de libre-échange*** Selon le cas :
-- **a)** un pays ALÉNA;
-- **b)** le Chili;
-- **c)** le Costa Rica;
-- **d)** Israël ou autre bénéficiaire de l’ALÉCI.
+***partenaire de libre-échange*** Selon le cas : 
+- **a) ** un pays ALÉNA;
+- **b) ** le Chili;
+- **c) ** le Costa Rica;
+- **d) ** Israël ou autre bénéficiaire de l’ALÉCI.
 
-***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la  [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). 
 
-***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
+***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. 
 
-***produit du tabac*** Tabac fabriqué ou cigares.
+***produit du tabac*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
 
-***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi.
+***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi. 
 
 ***réglementaire***
-- **a)** Autorisé par le ministre, dans le cas des formulaires et de leurs modalités de production;
-- **b)** précisé par le ministre, dans le cas des renseignements à fournir dans un formulaire ou avec un formulaire;
-- **c)** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas.
+- **a) ** Autorisé par le ministre, dans le cas des formulaires et de leurs modalités de production;
+- **b) ** précisé par le ministre, dans le cas des renseignements à fournir dans un formulaire ou avec un formulaire;
+- **c) ** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas.
 
 ***sous-ministre***[Abrogée, 1999, ch. 17, art. 123]
 
-***tabac fabriqué*** S’entend au sens de l’article 6 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***spiritueux*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
 
-***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire.
+***tabac en feuilles*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise.
 
-***traitement tarifaire préférentiel de l’ALÉCC*** Le bénéfice des taux de droits de douane du tarif du Chili au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***tabac fabriqué***[Abrogée, 2002, ch. 22, art. 328]
 
-***traitement tarifaire préférentiel de l’ALÉCCR*** Le bénéfice des taux de droits de douane du tarif du Costa Rica au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire. 
 
-***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***titulaire de licence de spiritueux***  S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
 
-***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***titulaire de licence de tabac*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
 
-***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56.
+***titulaire de licence de vin*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+
+***traitement tarifaire préférentiel de l’ALÉCC*** Le bénéfice des taux de droits de douane du tarif du Chili au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+
+***traitement tarifaire préférentiel de l’ALÉCCR*** Le bénéfice des taux de droits de douane du tarif du Costa Rica au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+
+***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+
+***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+
+***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56. 
+
+***vin*** S'entend au sens de l'article 2 de la Loi de 2001 sur l'accise. 
 
 **Définitions**
 
 - **(1.1)** Les définitions qui suivent s’appliquent à la définition de « marchandises désignées » au paragraphe (1).
 
-,  ou ,  and ***alcool***, ***alcool éthylique*** ou ***eau-de-vie*** S’entendent au sens du paragraphe 3(1) de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***alcool***, ***alcool éthylique*** ou ***eau-de-vie*** [Abrogée, 2002, ch. 22, art. 328]
 
  ou  or ***bière*** ou ***liqueur de malt*** S’entendent au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
 
@@ -177,7 +192,7 @@
 
 ***pierres précieuses ou fines*** Les marchandises classées dans la position n<sup>o</sup> 71.03 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure.
 
-***vin*** S’entend au sens de l’article 25 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***vin*** [Abrogée, 2002, ch. 22, art. 328]
 
 **Traitement tarifaire préférentiel**
 
@@ -202,7 +217,7 @@
 **Délégation**
 
 - **(4)** Le ministre peut autoriser un fonctionnaire ou une catégorie de fonctionnaires à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328.
 
 
 
@@ -221,7 +236,7 @@
 
 **3** 
 
-- **(1)** Les droits ou taxes imposés, en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de tout autre texte de législation douanière, lient Sa Majesté du chef du Canada ou d’une province relativement aux marchandises importées par elle ou en son nom.
+- **(1)** Les droits ou taxes imposés en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de tout autre texte de législation douanière lient Sa Majesté du chef du Canada ou d’une province relativement aux marchandises importées par elle ou en son nom.
 
 **Application de la loi à Sa Majesté**
 
@@ -230,6 +245,8 @@
 **Exemption**
 
 - **(3)** Le gouverneur en conseil peut, par règlement, d’une part exempter Sa Majesté, dans certains cas ou catégories de cas, des obligations de déclaration prévues aux articles 12 et 95 et, d’autre part, fixer les conditions auxquelles l’exemption est assujettie.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 3; 2002, ch. 22, art. 329.
+
 
 
 
@@ -948,10 +965,10 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **24** 
 
-- **(1)** Sous réserve des règlements, le ministre peut, à son appréciation, octroyer à toute personne qui remplit les conditions réglementaires l’agrément d’exploiter un emplacement :
+- **(1)** Sous réserve des règlements, le ministre peut, à son appréciation, octroyer à toute personne qui remplit les conditions réglementaires l’agrément d’exploiter un emplacement :
 	- **a)** soit comme entrepôt d’attente, en vue de la visite des marchandises importées non dédouanées;
 	- **b)** [Abrogé, 1995, ch. 41, art. 6]
-	- **c)** soit comme boutique hors taxes, en vue de la vente de marchandises, en franchise de certains droits ou taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou tout autre texte de législation douanière, à des personnes sur le point de quitter le Canada.
+	- **c)** soit comme boutique hors taxes en vue de la vente de marchandises, en franchise de certains droits ou taxes imposés par la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou tout autre texte de législation douanière, à des personnes sur le point de quitter le Canada.
 Il peut en outre préciser, dans l’agrément, les limites et les circonstances de réception, dans l’entrepôt ou la boutique, des marchandises selon leur catégorie.
 
 **Inapplication de la définition de droits**
@@ -961,7 +978,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Modification de l’agrément**
 
 - **(2)** Le ministre peut, sous réserve des règlements, modifier, suspendre, renouveler, annuler ou rétablir un agrément octroyé en vertu du paragraphe (1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 24; 1993, ch. 25, art. 70; 1995, ch. 41, art. 6; 2001, ch. 16, art. 2.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 24; 1993, ch. 25, art. 70; 1995, ch. 41, art. 6; 2001, ch. 16, art. 2; 2002, ch. 22, art. 330.
 
 
 
@@ -980,10 +997,10 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 - **(1)** L’exploitant d’une boutique hors taxes tient compte, dans le prix des marchandises qu’il offre en vente, de la mesure dans laquelle elles n’ont pas été assujetties aux droits et taxes.
 
-**Définition de « droits »**
+**Définition de droits**
 
-- **(2)** Au paragraphe (1), ***droits*** s’entend des droits ou taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou tout autre texte de législation douanière.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 25, art. 71.
+- **(2)** Au paragraphe (1), ***droits*** s’entend des droits ou taxes imposés par la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou tout autre texte de législation douanière.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 26; 1993, ch. 25, art. 71; 2002, ch. 22, art. 331.
 
 
 
@@ -1000,31 +1017,25 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **28** 
 
-- **(1)** Sous réserve du paragraphe (1.2), l’exploitant d’un entrepôt d’attente ou de stockage ou d’une boutique hors taxes est redevable des droits et taxes imposés en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de tout autre texte de législation douanière sur les marchandises qui y ont été reçues, sauf s’il établit que les marchandises soit :
+- **(1)** L’exploitant d’un entrepôt d’attente ou de stockage ou d’une boutique hors taxes est redevable des droits et taxes imposés, en vertu de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de tout autre texte de législation douanière, sur les marchandises qui y ont été reçues, sauf s’il établit que les marchandises, selon le cas :
 	- **a)** y séjournent encore;
 	- **b)** ont été détruites pendant leur séjour;
 	- **c)** ont été enlevées conformément à l’article 19;
 	- **d)** ont été prises comme échantillons ou saisies en vertu de la [Loi sur les armes à feu](/fr/Lois/Lois%20du%20Canada/1995/ch.%2039.md) ou de toute autre loi fédérale;
 	- **e)** ont été dédouanées par l’agent.
 
-**Exception : certaines marchandises**
+- **(1.1) et (1.2)** [Abrogés, 2002, ch. 22, art. 332]
 
-- **(1.1)** Le présent article ne s’applique pas aux marchandises visées à l’alinéa 32(2)b).
+**Taux**
 
-**Inapplication du paragraphe (1)**
-
-- **(1.2)** Le paragraphe (1) ne s’applique pas à la taxe perçue en vertu de l’article 23.2 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
-
-**Taux des droits**
-
-- **(2)** Le taux des droits payables sur les marchandises conformément au paragraphe (1) est celui qui leur est applicable :
+- **(2)** Le taux des droits ou taxes payables sur les marchandises conformément au paragraphe (1) est celui qui leur est applicable :
 	- **a)** s’il s’agit de marchandises reçues en entrepôt d’attente, au moment où elles ont fait l’objet de la déclaration prévue à l’article 12;
 	- **b)** s’il s’agit de marchandises reçues en entrepôt de stockage ou en boutique hors taxes, au moment où elles y ont été reçues.
 
-**Non-application de la définition de « droits »**
+**Inapplication de la définition de droits**
 
-- **(3)** La définition de « droits » au paragraphe 2(1) ne s’applique pas aux paragraphes (1) et (2).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 28; 1993, ch. 25, art. 72; 1995, ch. 39, art. 168; 2001, ch. 25, art. 19.
+- **(3)** La définition de ***droits*** au paragraphe 2(1) ne s’applique pas aux paragraphes (1) et (2).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 28; 1993, ch. 25, art. 72; 1995, ch. 39, art. 168; 2001, ch. 25, art. 19; 2002, ch. 22, art. 332 et 408.
 
 
 
@@ -1176,8 +1187,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Droits**
 
-- **(8)** Lorsque la déclaration d’un classement tarifaire devient défectueuse par suite d’un manquement visé au paragraphe (6), les droits ne comprennent pas, pour l’application de l’alinéa (2)b), les droits ou taxes perçus au titre la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1993, ch. 44, art. 82; 1996, ch. 33, art. 29; 1997, ch. 14, art. 36, ch. 36, art. 152; 2001, ch. 25, art. 22.
+- **(8)** Lorsque la déclaration d’un classement tarifaire devient défectueuse par suite d’un manquement visé au paragraphe (6), les droits ne comprennent pas, pour l’application de l’alinéa (2) b), les droits et taxes perçus au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
+> 1993, ch. 44, art. 82; 1996, ch. 33, art. 29; 1997, ch. 14, art. 36, ch. 36, art. 152; 2001, ch. 25, art. 22; 2002, ch. 22, art. 333.
 
 
 
@@ -1197,8 +1208,20 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Dédouanement avant le paiement des droits**
 
-**33** Dans les circonstances prévues par règlement, le dédouanement de marchandises peut s’effectuer avant le paiement des droits afférents. La personne qui a effectué, en vertu des paragraphes 32(2) ou (3), la déclaration en détail ou provisoire des marchandises ainsi dédouanées est tenue de payer les droits afférents dans le délai réglementaire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 33; 1992, ch. 28, art. 6.
+**33** 
+
+- **(1)** Dans les circonstances prévues par règlement, le dédouanement de marchandises peut s’effectuer avant le paiement des droits afférents.
+
+**Paiement des droits**
+
+- **(2)** La personne qui a effectué, en vertu des paragraphes 32(2) ou (3), la déclaration en détail ou provisoire des marchandises dédouanées en vertu du présent article est tenue de payer les droits afférents dans le délai réglementaire.
+
+**Précision**
+
+- **(3)** Les droits visés au paragraphe (2) ne comprennent pas les droits perçus en vertu :
+	- **a)** du paragraphe 21.1(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), s’ils sont payés et perçus conformément au paragraphe 21.1(2) de cette loi;
+	- **b)** des paragraphes 21.2(1) et (2) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), s’ils sont payés et perçus conformément au paragraphe 21.2(3) de cette loi.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 33; 1992, ch. 28, art. 6; 2002, ch. 22, art. 334.
 
 
 
@@ -1718,9 +1741,11 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 
 
-**Taux des droits *ad valorem***
+**Taux des droits ad valorem**
 
-**44** Les droits, autres que les droits ou taxes prévus par la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), qui sont imposés sur des marchandises selon un certain pourcentage se calculent par l’application du taux à une valeur déterminée conformément aux articles 45 à 55.
+**44** Les droits, sauf les droits et taxes prévus par la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), qui sont imposés sur des marchandises selon un certain pourcentage se calculent par l’application du taux à une valeur déterminée conformément aux articles 45 à 55.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 44; 2002, ch. 22, art. 335.
+
 
 
 
@@ -1842,14 +1867,14 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 
 **48** 
 
-- **(1)** Sous réserve des paragraphes (6) et (7), la valeur en douane des marchandises est leur valeur transactionnelle si elles sont vendues pour exportation au Canada à un acheteur au Canada, si le prix payé ou à payer est déterminable et si les conditions suivantes sont réunies :
-	- **a)** il n’existe pas de restriction concernant la cession ou l’utilisation des marchandises par l’acheteur, autre qu’une restriction qui :
+- **(1)** Sous réserve des paragraphes (6) et (7), la valeur en douane des marchandises est leur valeur transactionnelle si elles sont vendues pour exportation au Canada à un acheteur au Canada, si le prix payé ou à payer est déterminable et si les conditions suivantes sont réunies :
+	- **a)** il n’existe pas de restriction concernant la cession ou l’utilisation des marchandises par l’acheteur, autre qu’une restriction qui :
 		- **(i)** soit est imposée par la loi,
 		- **(ii)** soit limite la zone où les marchandises peuvent être revendues,
 		- **(iii)** soit n’a pas d’effet notable sur la valeur des marchandises;
 	- **b)** la vente des marchandises ou le prix payé ou à payer pour celles-ci n’est pas subordonné à des conditions ou à des prestations dont la valeur n’est pas déterminable en ce qui concerne les marchandises;
 	- **c)** aucune partie du produit de toute revente, cession ou utilisation ultérieure des marchandises par l’acheteur ne revient directement ou indirectement au vendeur, sauf s’il a été tenu compte de cette ristourne dans le prix payé ou à payer ou si ce prix est ajusté conformément au sous-alinéa (5)a)(v);
-	- **d)** l’acheteur et le vendeur ne sont pas liés au moment de la vente des marchandises pour exportation ou, s’ils le sont :
+	- **d)** l’acheteur et le vendeur ne sont pas liés au moment de la vente des marchandises pour exportation ou, s’ils le sont :
 		- **(i)** ou bien le lien qui les unit n’a pas influé sur le prix payé ou à payer,
 		- **(ii)** ou bien l’importateur démontre que la valeur transactionnelle des marchandises à apprécier répond aux exigences visées au paragraphe (3).
 
@@ -1859,7 +1884,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 
 **Condition d’acceptation de la valeur transactionnelle dans le cas où le vendeur et l’acheteur sont liés**
 
-- **(3)** Pour l’application du sous-alinéa (1)d)(ii), la valeur transactionnelle des marchandises à apprécier doit, compte tenu des facteurs pertinents, notamment des facteurs et différences réglementaires, être très proche de l’une des valeurs ci-après prise comme valeur en douane d’autres marchandises identiques ou semblables qui ont été exportées au même moment ou à peu près au même moment que les marchandises à apprécier :
+- **(3)** Pour l’application du sous-alinéa (1)d)(ii), la valeur transactionnelle des marchandises à apprécier doit, compte tenu des facteurs pertinents, notamment des facteurs et différences réglementaires, être très proche de l’une des valeurs ci-après prise comme valeur en douane d’autres marchandises identiques ou semblables qui ont été exportées au même moment ou à peu près au même moment que les marchandises à apprécier :
 	- **a)** la valeur transactionnelle de marchandises identiques ou semblables vendues pour l’exportation au Canada par un vendeur à un acheteur avec qui il n’est pas lié au moment de la vente;
 	- **b)** la valeur de référence de marchandises identiques ou semblables;
 	- **c)** la valeur reconstituée de marchandises identiques ou semblables.
@@ -1870,11 +1895,11 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 
 **Ajustement du prix payé ou à payer**
 
-- **(5)** Dans le cas d’une vente de marchandises pour exportation au Canada, le prix payé ou à payer est ajusté :
-	- **a)** par addition, dans la mesure où ils n’y ont pas déjà été inclus, des montants représentant :
+- **(5)** Dans le cas d’une vente de marchandises pour exportation au Canada, le prix payé ou à payer est ajusté :
+	- **a)** par addition, dans la mesure où ils n’y ont pas déjà été inclus, des montants représentant :
 		- **(i)** les commissions et les frais de courtage relatifs aux marchandises et supportés par l’acheteur, à l’exclusion des honoraires versés ou à verser par celui-ci à son mandataire à l’étranger à l’occasion de la vente,
 		- **(ii)** les coûts et frais d’emballage relatifs aux marchandises et supportés par l’acheteur, y compris le prix des cartons, caisses et autres emballages considérés à des fins douanières comme faisant partie des marchandises importées, et les frais accessoires de conditionnement de celles-ci en vue de leur expédition au Canada,
-		- **(iii)** la valeur, déterminée de façon réglementaire et imputée d’une manière raisonnable et conforme aux principes de comptabilité généralement acceptés aux marchandises importées, des marchandises et services ci-après, fournis directement ou indirectement par l’acheteur des marchandises, sans frais ou à coût réduit, et utilisés lors de la production et de la vente pour exportation des marchandises importées :
+		- **(iii)** la valeur, déterminée de façon réglementaire et imputée d’une manière raisonnable et conforme aux principes de comptabilité généralement acceptés aux marchandises importées, des marchandises et services ci-après, fournis directement ou indirectement par l’acheteur des marchandises, sans frais ou à coût réduit, et utilisés lors de la production et de la vente pour exportation des marchandises importées :
 			- **(A)** matières, composants, pièces et autres marchandises incorporés dans les marchandises importées,
 			- **(B)** outils, matrices, moules et autres marchandises utilisés pour la production des marchandises importées,
 			- **(C)** matières consommées dans la production des marchandises importées,
@@ -1882,11 +1907,11 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 		- **(iv)** les redevances et les droits de licence relatifs aux marchandises, y compris les paiements afférents aux brevets d’invention, marques de commerce et droits d’auteur, que l’acheteur est tenu d’acquitter directement ou indirectement en tant que condition de la vente des marchandises pour exportation au Canada, à l’exclusion des frais afférents au droit de reproduction de ces marchandises au Canada,
 		- **(v)** la valeur de toute partie du produit de toute revente, cession ou utilisation ultérieure par l’acheteur des marchandises, qui revient ou doit revenir, directement ou indirectement, au vendeur,
 		- **(vi)** les coûts de transport des marchandises jusqu’au lieu du pays d’exportation d’où elles sont expédiées directement au Canada, les frais de chargement, de déchargement, de manutention et autres frais, ainsi que les coûts d’assurance, relatifs à ce transport;
-	- **b)** par soustraction, dans la mesure où ils ont été inclus, des montants représentant :
+	- **b)** par soustraction, dans la mesure où ils ont été inclus, des montants représentant :
 		- **(i)** les coûts de transport des marchandises depuis le lieu du pays d’exportation d’où elles sont expédiées directement au Canada, les frais de chargement, de déchargement, de manutention et autres frais, ainsi que les coûts d’assurance relatifs à ce transport,
-		- **(ii)** les frais suivants lorsqu’ils sont considérés comme constituant un élément à part du prix payé ou à payer :
+		- **(ii)** les frais suivants lorsqu’ils sont considérés comme constituant un élément à part du prix payé ou à payer :
 			- **(A)** les coûts et frais raisonnables de construction, d’installation, d’assemblage ou d’entretien des marchandises, ou des services d’assistance technique dont elles font l’objet, après leur importation,
-			- **(B)** les droits et taxes payés ou à payer en raison de l’importation ou de la vente des marchandises au Canada et, notamment, les droits ou taxes imposés sur ces marchandises en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de tout autre texte de législation douanière;
+			- **(B)** les droits et taxes payés ou à payer en raison de l’importation ou de la vente des marchandises au Canada et, notamment, les droits ou taxes imposés sur ces marchandises en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de tout autre texte de législation douanière;
 	- **c)** compte non tenu des remises ou réductions du prix payé ou à payer effectuées après l’importation des marchandises.
 
 **Effet de l’absence de renseignements suffisants**
@@ -1896,7 +1921,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Inexactitude des renseignements**
 
 - **(7)** L’agent qui, lors de l’appréciation de la valeur en douane de marchandises, a des motifs raisonnables de douter de l’exactitude des renseignements sur lesquels est fondée la détermination de la valeur transactionnelle des marchandises prévue au paragraphe (4) détermine, conformément à la procédure réglementaire, que le présent article ne peut s’appliquer à l’appréciation de la valeur en douane des marchandises.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18; 2002, ch. 22, art. 336.
 
 
 
@@ -2559,7 +2584,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **74** 
 
-- **(1)** Sous réserve des autres dispositions du présent article, de l’article 75 et des règlements d’application de l’article 81, le demandeur qui a payé des droits sur des marchandises importées peut, conformément au paragraphe (3), faire une demande de remboursement de tout ou partie de ces droits et le ministre peut accorder à la personne qui, conformément à la présente loi, a payé des droits sur des marchandises importées le remboursement total ou partiel de ces droits dans les cas suivants :
+- **(1)** Sous réserve des autres dispositions du présent article, de l’article 75 et des règlements d’application de l’article 81, le demandeur qui a payé des droits sur des marchandises importées peut, conformément au paragraphe (3), faire une demande de remboursement de tout ou partie de ces droits et le ministre peut accorder à la personne qui, conformément à la présente loi, a payé des droits sur des marchandises importées le remboursement total ou partiel de ces droits dans les cas suivants :
 	- **a)** elles ont été endommagées, détériorées ou détruites entre leur expédition vers le Canada et la date de leur dédouanement;
 	- **b)** elles ont été dédouanées en quantité inférieure à celle pour laquelle les droits ont été payés;
 	- **c)** elles sont de qualité inférieure à celle pour laquelle les droits ont été payés;
@@ -2577,7 +2602,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Droits**
 
-- **(1.2)** Les droits qui peuvent être remboursés au titre de l’alinéa (1)f) n’incluent pas les droits ou taxes prévus par la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
+- **(1.2)** Les droits qui peuvent être remboursés au titre de l’alinéa (1)f) n’incluent pas les droits et taxes prévus par la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
 
 **Demande de remboursement**
 
@@ -2585,15 +2610,15 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Idem**
 
-- **(3)** L’octroi d’un remboursement réclamé en vertu du paragraphe (1) est subordonné à la condition que :
+- **(3)** L’octroi d’un remboursement réclamé en vertu du paragraphe (1) est subordonné à la condition que :
 	- **a)** d’une part, le réclamant donne à l’agent toute possibilité d’examiner les marchandises en cause ou, d’une façon générale, d’apprécier les motifs de la réclamation;
-	- **b)** d’autre part, soit adressée à l’agent une demande de remboursement, présentée selon les modalités et assortie des justificatifs réglementaires, et établie en la forme ainsi qu’avec les renseignements réglementaires dans le délai ci-après suivant la déclaration en détail des marchandises en application du paragraphe 32(1), (3) ou (5) :
+	- **b)** d’autre part, soit adressée à l’agent une demande de remboursement, présentée selon les modalités et assortie des justificatifs réglementaires, et établie en la forme ainsi qu’avec les renseignements réglementaires dans le délai ci-après suivant la déclaration en détail des marchandises en application du paragraphe 32(1), (3) ou (5) :
 		- **(i)** quatre ans, pour les réclamations dans les cas prévus aux alinéas (1)a), b), c), c.11), d), e), f) ou g),
 		- **(ii)** un an ou tout délai supérieur prévu par règlement, pour les réclamations dans les cas prévus à l’alinéa (1)c.1).
 
 **Effet du rejet de la demande**
 
-- **(4)** Pour l’application de la présente loi, est assimilé à la révision prévue à l’alinéa 59(1)a) le rejet de la demande de remboursement des droits payés sur les marchandises dans les cas suivants :
+- **(4)** Pour l’application de la présente loi, est assimilé à la révision prévue à l’alinéa 59(1)a) le rejet de la demande de remboursement des droits payés sur les marchandises dans les cas suivants :
 	- **a)** les cas prévus aux alinéas (1)c.1) ou c.11), pour le motif que les marchandises sur lesquelles le demandeur a payé des droits ne bénéficient pas, au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), d’un traitement tarifaire préférentiel découlant d’un accord de libre-échange au moment de leur déclaration en détail en application des paragraphes 32(1), (3) ou (5);
 	- **b)** les cas prévus aux alinéas (1)e), f) ou g), pour le motif que l’origine, le classement tarifaire ou la valeur en douane des marchandises en cause est erroné.
 
@@ -2605,7 +2630,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Remboursement en l’absence d’une demande**
 
-- **(6)** Si la personne ayant payé des droits à l’égard de marchandises importées ne réclame pas de remboursement, le ministre peut lui rembourser, dans les quatre ans suivant la déclaration en détail faite en application des paragraphes 32(1), (3) ou (5), tout ou partie des droits qui ont été payés s’il est établi que leur paiement était excédentaire ou erroné :
+- **(6)** Si la personne ayant payé des droits à l’égard de marchandises importées ne réclame pas de remboursement, le ministre peut lui rembourser, dans les quatre ans suivant la déclaration en détail faite en application des paragraphes 32(1), (3) ou (5), tout ou partie des droits qui ont été payés s’il est établi que leur paiement était excédentaire ou erroné :
 	- **a)** dans les cas prévus aux alinéas (1)a) à c) et d);
 	- **b)** dans le cas prévu à l’alinéa (1)g), si le remboursement ne découle pas du classement tarifaire, de la valeur en douane ou de l’origine.
 
@@ -2616,7 +2641,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Affectation du remboursement**
 
 - **(8)** Une personne d’une catégorie réglementaire peut, dans les quatre ans suivant la déclaration en détail prévue aux paragraphes 32(1), (3) ou (5), dans les cas et aux conditions réglementaires, affecter le montant d’un remboursement auquel elle a droit en vertu du présent article au paiement d’une somme dont elle est redevable ou dont elle peut devenir redevable au titre de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71; 2001, ch. 25, art. 51, ch. 28, art. 29.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337.
 
 
 
@@ -3115,15 +3140,15 @@ La somme ainsi versée est réputée avoir été prêtée, avancée ou payée au
 
 **97.29** 
 
-- **(1)** La personne qui cède un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de dix-huit ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer au titre de la présente partie la moins élevée des sommes suivantes :
-	- **a)** le résultat du calcul suivant :
+- **(1)** La personne qui cède un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de dix-huit ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer au titre de la présente partie la moins élevée des sommes suivantes :
+	- **a)** le résultat du calcul suivant :
 ```
 A - B
 ```
 où :
 - **A** représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour la cession du bien,
-- **B** l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en vertu du paragraphe 325(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et du paragraphe 160(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) relativement au bien sur la somme payée par le cédant relativement à cette cotisation;
-	- **b)** le total des sommes représentant chacune :
+- **B** l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en vertu du paragraphe 297(3) de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), du paragraphe 325(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et du paragraphe 160(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) relativement au bien sur la somme payée par le cédant relativement à cette cotisation;
+	- **b)** le total des sommes représentant chacune :
 		- **(i)** la somme dont le cédant est redevable au titre de la présente loi,
 		- **(ii)** les intérêts ou les pénalités dont le cédant est redevable à ce moment.
 Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente loi.
@@ -3134,7 +3159,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **Règles applicables**
 
-- **(3)** Dans le cas où le cédant et le concessionnaire sont solidairement responsables de tout ou partie d’une obligation du cédant au titre de la présente loi, les règles suivantes s’appliquent :
+- **(3)** Dans le cas où le cédant et le concessionnaire sont solidairement responsables de tout ou partie d’une obligation du cédant au titre de la présente loi, les règles suivantes s’appliquent :
 	- **a)** le paiement fait par le cessionnaire au titre de son obligation éteint d’autant l’obligation solidaire;
 	- **b)** le paiement fait par le cédant au titre de son obligation n’éteint l’obligation du cessionnaire que dans la mesure où il sert à ramener l’obligation du cédant à un montant inférieur à celui dont le paragraphe (1) a rendu le cessionnaire solidairement responsable.
 
@@ -3144,7 +3169,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **Personnes liées**
 
-- **(5)** Pour l’application du présent article :
+- **(5)** Pour l’application du présent article :
 	- **a)** les personnes liées sont réputées avoir un lien de dépendance. La question de savoir si des personnes non liées entre elles sont sans lien de dépendance à un moment donné est une question de fait;
 	- **b)** des personnes sont liées entre elles si elles le sont au sens des paragraphes 251(2) à (6) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). Cependant, la mention à ces paragraphes de « société » vaut mention de « personne morale ou société de personnes » et les mentions d’« actions » ou d’« actionnaires » valent respectivement mention, en ce qui touche une société de personnes, de « droits » et d’« associés »;
 	- **c)** l’associé d’une société de personnes est lié à celle-ci.
@@ -3153,12 +3178,12 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***bien*** Y est assimilé l’argent.
+***bien*** Y est assimilé l’argent. (*property*)
 
-***conjoint de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), la mention de « contribuable » valant mention de « débiteur ».
+***conjoint de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), la mention de « contribuable » valant mention de « débiteur ». (*common-law partner*)
 
-***union de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-> 2001, ch. 25, art. 58.
+***union de fait*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*common-law partnership*)
+> 2001, ch. 25, art. 58; 2002, ch. 22, art. 408.
 
 
 
@@ -4497,14 +4522,20 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 **Mainlevée**
 
-**117** L’agent peut, sous réserve des autres dispositions de la présente loi ou de toute autre loi fédérale, restituer les marchandises saisies en vertu de la présente loi au saisi ou à son fondé de pouvoir :
-- **a)** ou bien sur réception :
-	- **(i)** soit du total de la valeur en douane des marchandises et des droits éventuellement perçus sur elles, calculés au taux applicable :
-		- **(A)** au moment de la saisie, s’il s’agit de marchandises qui n’ont pas fait l’objet de la déclaration en détail ou de la déclaration provisoire prévues au paragraphe 32(1), (2) ou (5) ou de marchandises passibles des droits ou droits supplémentaires prévus à l’alinéa 32.2(2)b) dans le cas visé au paragraphe 32.2(6),
-			- **(B)** au moment où les marchandises ont fait l’objet de la déclaration en détail ou de la déclaration provisoire prévues au paragraphe 32(1), (2) ou (5), dans les autres cas,
-	- **(ii)** soit du montant inférieur ordonné par le ministre;
-- **b)** ou bien sur réception de la garantie autorisée et jugée satisfaisante par le ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185.
+**117** 
+
+- **(1)** L’agent peut, sous réserve des autres dispositions de la présente loi ou de toute autre loi fédérale, restituer les marchandises saisies en vertu de la présente loi au saisi ou à son fondé de pouvoir :
+	- **a)** ou bien sur réception :
+		- **(i)** soit du total de la valeur en douane des marchandises et des droits éventuellement perçus sur elles, calculés au taux applicable :
+			- **(A)** au moment de la saisie, s’il s’agit de marchandises qui n’ont pas fait l’objet de la déclaration en détail ou de la déclaration provisoire prévues au paragraphe 32(1), (2) ou (5) ou de marchandises passibles des droits ou droits supplémentaires prévus à l’alinéa 32.2(2)b) dans le cas visé au paragraphe 32.2(6),
+				- **(B)** au moment où les marchandises ont fait l’objet de la déclaration en détail ou de la déclaration provisoire prévues au paragraphe 32(1), (2) ou (5), dans les autres cas,
+		- **(ii)** soit du montant inférieur ordonné par le ministre;
+	- **b)** ou bien sur réception de la garantie autorisée et jugée satisfaisante par le ministre.
+
+**Pas de restitution**
+
+- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l'alcool spécialement dénaturé, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s'ils ont été saisis par erreur.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338.
 
 
 
@@ -4548,6 +4579,13 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 - **(1)** Le ministre peut autoriser l’agent à vendre ou à détruire des marchandises saisies en vertu de la présente loi ou à en disposer autrement.
 
+**Restriction**
+
+- **(1.1)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu’aux personnes indiquées :
+	- **a)** spiritueux et alcool spécialement dénaturé : titulaires de licence de spiritueux;
+	- **b)** vin : titulaires de licence de vin;
+	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac.
+
 **Produit de la vente**
 
 - **(2)** Le ministre conserve le produit de la vente effectuée en vertu du paragraphe (1). Le produit tient lieu de confiscation.
@@ -4557,7 +4595,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 - **(3)** S’il est impossible de restituer des marchandises à une personne qui y aurait droit par ailleurs, il lui est versé la somme suivante :
 	- **a)** si les marchandises ont été vendues, le produit de la vente;
 	- **b)** sinon, la somme représentant la valeur des marchandises.
-> 1994, ch. 37, art. 9.
+> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339.
 
 
 
@@ -5094,7 +5132,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **142** 
 
-- **(1)** Il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
+- **(1)** Sauf s'il s'agit de spiritueux, d'alcool spécialement dénaturé, de vin, de tabac en feuilles ou de produits du tabac, il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
 	- **a)** par exportation, dans les cas où le ministre l’estime indiqué;
 	- **b)** selon les instructions du ministre, vente exclue, dans les cas où leur importation est prohibée ou lorsque celui-ci les estime impropres à la vente ou d’une valeur qui n’en justifie pas la vente;
 	- **c)** par vente aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux en application de la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md), sous réserve des règlements applicables.
@@ -5102,7 +5140,25 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Suppression des droits**
 
 - **(2)** Les marchandises dont il est disposé conformément au paragraphe (1) cessent dès lors d’être frappées de droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340.
+
+
+
+
+
+**Alcool abandonné ou confisqué**
+
+**142.1** 
+
+- **(1)** Le ministre peut vendre ou détruire les spiritueux, l'alcool spécialement dénaturé, le vin, le tabac en feuilles ou les produits du tabac qui, en vertu de la présente loi, ont été abandonnés ou confisqués à titre définitif, ou autrement en disposer.
+
+**Restriction**
+
+- **(2)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu'aux personnes indiquées :
+	- **a) ** spiritueux et alcool spécialement dénaturé : titulaires de licence de spiritueux;
+	- **b) ** vin : titulaires de licence de vin;
+	- **c) ** tabac en feuilles et produits du tabac : titulaires de licence de tabac.
+> 2002, ch. 22, art. 341.
 
 
 
