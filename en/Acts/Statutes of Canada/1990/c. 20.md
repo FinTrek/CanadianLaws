@@ -878,11 +878,13 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **49** 
 
-- **(1)** A certificate of a decision of the Federal Court or the Supreme Court of Canada holding plant breeder’s rights to be invalid shall, at the instance of the person filing it to make it of record in the Plant Breeders’ Rights Office, be noted in relation to those rights in the register.
+- **(1)** A certificate of a decision of the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada holding plant breeder’s rights to be invalid shall, at the instance of the person filing it to make it of record in the Plant Breeders’ Rights Office, be noted in relation to those rights in the register.
 
 **Appeal from decision re validity**
 
 - **(2)** A decision holding or refusing to hold plant breeder’s rights invalid is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which that decision was made.
+> 1990, c. 20, s. 49; 2002, c. 8, s. 158.
+
 
 
 
