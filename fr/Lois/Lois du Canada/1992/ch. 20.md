@@ -1592,19 +1592,19 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 ***date de libération d’office*** Date calculée en conformité avec l’article 127. 
 
-  ***délinquant***
-- **a) ** Individu condamné — autre qu'un adolescent au sens de la  [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  —, avant ou après l'entrée en vigueur du présent article, à une peine d'emprisonnement :
-	- **(i)** soit en application d'une loi fédérale ou d'une loi provinciale dans la mesure applicable aux termes de la présente partie,
-	- **(ii)** soit à titre de sanction d'un outrage au tribunal en matière civile ou pénale lorsque le délinquant n'est pas requis par une condition de sa sentence de retourner devant ce tribunal;
-- **b)**  adolescent, au sens de la  [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) , qui a fait l'objet d'une ordonnance, d'une détention ou d'un ordre visés aux articles 76, 89, 92 ou 93 de cette loi.
+***délinquant***
+- **a)** Individu condamné — autre qu’un adolescent au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  —, avant ou après l’entrée en vigueur du présent article, à une peine d’emprisonnement :
+	- **(i)** soit en application d’une loi fédérale ou d’une loi provinciale dans la mesure applicable aux termes de la présente partie,
+	- **(ii)** soit à titre de sanction d’un outrage au tribunal en matière civile ou pénale lorsque le délinquant n’est pas requis par une condition de sa sentence de retourner devant ce tribunal;
+- **b)** adolescent, au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) , qui a fait l’objet d’une ordonnance, d’une détention ou d’un ordre visés aux articles 76, 89, 92 ou 93 de cette loi.
 
- La présente définition ne vise toutefois pas la personne qui, en application de l'article 732 du  *Code criminel,*  purge une peine de façon discontinue.
+La présente définition ne vise toutefois pas la personne qui, en application de l’article 732 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),  purge une peine de façon discontinue.
 
 ***dommage grave*** Dommage corporel ou moral grave. 
 
 ***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3). 
 
-***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration fédérale dans la province en cause. 
+***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause.
 
 ***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté. 
 
@@ -1614,13 +1614,13 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 ***ministre*** S’entend au sens de la partie I. 
 
- ou  ***peine*** ou  ***peine d’emprisonnement*** S’entend au sens de la partie I. 
+ ou ***peine*** ou ***peine d’emprisonnement*** S’entend au sens de la partie I. 
 
 ***pénitencier*** S’entend au sens de la partie I. 
 
 ***permission de sortir sans escorte*** Mise en liberté d’une durée déterminée accordée en vertu de l’article 116. 
 
- ou  ***règlement*** ou  ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. 
+ ou ***règlement*** ou ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. 
 
 ***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre l’établissement résidentiel communautaire, le pénitencier ou l’établissement correctionnel provincial chaque soir, à moins d’autorisation écrite contraire. 
 
@@ -1637,7 +1637,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155
 
 
 
@@ -3345,7 +3345,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
-**Rémunération : membres à temps plein**
+**Rémunération : membres à temps plein**
 
 **153** 
 
@@ -3355,13 +3355,15 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 - **(2)** Les membres à temps plein qui font partie de la fonction publique au moment de leur nomination sont mis en congé sans traitement par le secteur de la fonction publique dont ils font partie.
 
-**Rémunération : membres à temps partiel**
+**Rémunération : membres à temps partiel**
 
 - **(3)** Les membres à temps partiel ont droit, pour chaque jour d’exercice de leurs fonctions, à la rémunération fixée par le gouverneur en conseil et ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu ordinaire de résidence.
 
 **Pension**
 
 - **(4)** Les membres à temps plein et le personnel de la Commission sont assimilés à des fonctionnaires pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> 1992, ch. 20, art. 153; 2003, ch. 22, art. 225(A)
+
 
 
 
@@ -3592,6 +3594,8 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Autres avantages**
 
 - **(3)** L’enquêteur correctionnel est assimilé à un agent de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 1992, ch. 20, art. 163; 2003, ch. 22, art. 224(A) et 225(A)
+
 
 
 
