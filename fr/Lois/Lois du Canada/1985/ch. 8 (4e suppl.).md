@@ -236,7 +236,9 @@
 
 **Bénéfices**
 
-- **(2)** Sous réserve de ses règlements administratifs sur la rémunération de ses administrateurs, dirigeants, employés ou représentants, tous les bénéfices d’une association ou toutes les augmentations de valeur de ses biens doivent servir à favoriser l’avancement de sa mission et aucune partie des biens ou des bénéfices de l’association ne peut être distribuée directement ou indirectement aux membres de l’association.
+- **(2)** Sous réserve de ses règlements administratifs sur la rémunération de ses administrateurs, dirigeants, employés ou mandataires, tous les bénéfices d’une association ou toutes les augmentations de valeur de ses biens doivent servir à favoriser l’avancement de sa mission et aucune partie des biens ou des bénéfices de l’association ne peut être distribuée directement ou indirectement aux membres de l’association.
+> 1985, ch. 8 (4e suppl.), art. 13; 2004, ch. 25, art. 2.
+
 
 
 
@@ -752,7 +754,9 @@ Le paiement doit être fait dans l’année qui suit la date d’entrée en vigu
 
 **Bénéfices**
 
-- **(2)** Sous réserve des règlements administratifs sur la rémunération de ses administrateurs, dirigeants, employés ou représentants, tous les bénéfices de la Société ou toutes les augmentations de valeur de ses biens doivent servir à favoriser l’avancement de sa mission et aucune partie des biens ou des bénéfices de la Société ne peut être distribuée directement ou indirectement à ses membres.
+- **(2)** Sous réserve des règlements administratifs sur la rémunération de ses administrateurs, dirigeants, employés ou mandataires, les bénéfices de la Société ou les augmentations de valeur de ses biens doivent servir à favoriser l’avancement de sa mission et aucune partie des biens ou des bénéfices de la Société ne peut être distribuée directement ou indirectement à ses membres.
+> 1985, ch. 8 (4e suppl.), art. 39; 2004, ch. 25, art. 3.
+
 
 
 
@@ -818,17 +822,19 @@ Le paiement doit être fait dans l’année qui suit la date d’entrée en vigu
 
 **43** 
 
-- **(1)** Le Conseil doit prendre des règlements administratifs :
+- **(1)** Le Conseil doit prendre des règlements administratifs :
 	- **a)** pourvoyant à l’administration et à la gestion des affaires de la Société;
 	- **b)** concernant la tenue des assemblées du Conseil, le quorum requis à ces assemblées et la procédure applicable lors des délibérations de ces assemblées;
 	- **c)** concernant la tenue des assemblées générales et spéciales des membres de la Société, le quorum requis à ces assemblées et la procédure applicable lors des délibérations de ces assemblées;
-	- **d)** concernant la nomination, la rémunération et les pouvoirs et fonctions des employés et représentants de la Société;
+	- **d)** concernant la nomination, la rémunération et les pouvoirs et fonctions des employés et mandataires de la Société;
 	- **e)** concernant le paiement des droits pour les services rendus par la Société ainsi que le mode d’établissement de ces droits;
 	- **f)** pour le règlement de tous les autres détails afférents aux affaires de la Société.
 
 **Entrée en vigueur des règlements administratifs**
 
 - **(2)** Les règlements administratifs de la Société sont inopérants tant qu’ils n’ont pas été approuvés par le ministre.
+> 1985, ch. 8 (4e suppl.), art. 43; 2004, ch. 25, art. 4.
+
 
 
 
