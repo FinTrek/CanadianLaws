@@ -126,7 +126,7 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 **7** 
 
 - **(1)** In exercising the powers or performing the duties or functions assigned to the Minister under this or any other Act of Parliament, the Minister shall
-	- **(a)** investigate and develop services for increasing the efficiency and economy of the public service of Canada and for enhancing integrity and efficiency in the contracting process;
+	- **(a)** investigate and develop services for increasing the efficiency and economy of the federal public administration and for enhancing integrity and efficiency in the contracting process;
 	- **(b)** acquire materiel and services in accordance with any applicable regulations relating to government contracts;
 	- **(c)** plan and organize the provision of materiel and related services to departments including the preparation of specifications and standards, the cataloguing of materiel, the determination of aggregate requirements for materiel, the assuring of quality of materiel, and the maintenance, distribution, storage and disposal of materiel and other activities associated with the management of materiel; and
 	- **(d)** provide such other services as the Governor in Council may direct.
@@ -134,6 +134,8 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 **Limitation**
 
 - **(2)** Notwithstanding paragraph (1)(c), the Minister’s power to manage materiel, as distinct from its acquisition, does not extend to the management, in an exclusively military supply system, of materiel essential for the conduct of military missions.
+> 1996, c. 16, s. 7; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -183,7 +185,9 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 
 **Disbursement of pay**
 
-**12** The Minister shall provide such administrative and other services required for the disbursement of pay to persons employed in or by any department, and to persons employed in or by other portions of the public service of Canada, as the Governor in Council may direct.
+**12** The Minister shall provide such administrative and other services required for the disbursement of pay to persons employed in or by any department, and to persons employed in or by other portions of the federal public administration, as the Governor in Council may direct.
+> 1996, c. 16, s. 12; 2003, c. 22, s. 224(E).
+
 
 
 
