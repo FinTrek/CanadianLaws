@@ -7185,7 +7185,16 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **56** Inorganic Chloramines, which have the molecular formula NH<sub>n</sub>Cl<sub>(3-n)</sub>, where n = 0, 1 or 2
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98. .
+**57**  Ethylene oxide, which has the molecular formula H<sub>2</sub>COCH<sub>2</sub>
+
+
+**58**  Formaldehyde, which has the molecular formula CH<sub>2</sub>O
+
+
+**59. ** N-Nitrosodimethylamine, which has the molecular formula C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172. .
 
 
 
