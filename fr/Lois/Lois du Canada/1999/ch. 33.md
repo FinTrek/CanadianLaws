@@ -280,7 +280,7 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 		- **(ii)** un pour tous les gouvernements autochtones — sauf inuit — au Québec,
 		- **(iii)** un pour tous les gouvernements autochtones — sauf inuit — en Ontario,
 		- **(iv)** un pour tous les gouvernements autochtones — sauf inuit — au Manitoba, en Saskatchewan, en Alberta, dans les Territoires du Nord-Ouest et au Nunavut,
-		- **(v)** un pour tous les gouvernements autochtones — sauf inuit — en Colombie-Britannique et au territoire du Yukon,
+		- **(v)** un pour tous les gouvernements autochtones — sauf inuit — en Colombie-Britannique et au Yukon,
 		- **(vi)** un pour tous les gouvernements autochtones inuit.
 
 **Représentant provincial**
@@ -302,6 +302,8 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 **Règlements**
 
 - **(4)** Le ministre peut prendre des règlements en ce qui touche la façon de choisir le représentant visé au paragraphe (3).
+> 1999, ch. 33, art. 6; 2002, ch. 7, art. 124.
+
 
 
 
@@ -4488,9 +4490,15 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** La présente partie régit les ministères, commissions et organismes fédéraux, les entreprises fédérales, les terres autochtones et le territoire domanial, les personnes qui s’y trouvent ou dont les activités s’y rapportent ainsi que les sociétés d’État au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
+**Yukon**
+
+- **(1.1)** Sont cependant soustraits à l’application de la présente partie les biens réels domaniaux dont le commissaire du Yukon a la gestion et la maîtrise aux termes de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md).
+
 **Exclusion**
 
 - **(2)** En ce qui concerne l’espace aérien et les couches de l’atmosphère au-dessus des terres autochtones et du territoire domanial, l’application de la présente partie ne peut déroger à l’exercice d’un pouvoir conféré soit par la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) ou par toute disposition d’une autre loi fédérale en matière d’aéronautique ou de transport aérien, soit par la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou toute disposition d’une autre loi fédérale en matière de défense et de sécurité nationales.
+> 1999, ch. 33, art. 207; 2002, ch. 7, art. 125.
+
 
 
 
