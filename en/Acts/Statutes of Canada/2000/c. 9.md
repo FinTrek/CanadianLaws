@@ -358,11 +358,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** Any of the following persons may vote in accordance with Part 11:
 - **(a)** a Canadian Forces elector;
-- **(b)** an elector who is an employee in the public service of Canada or of a province and who is posted outside Canada;
+- **(b)** an elector who is an employee in the federal public administration or the public service of a province and who is posted outside Canada;
 - **(c)** a Canadian citizen who is employed by an international organization of which Canada is a member and to which Canada contributes and who is posted outside Canada;
 - **(d)** a person who has been absent from Canada for less than five consecutive years and who intends to return to Canada as a resident;
 - **(e)** an incarcerated elector within the meaning of that Part; and
 - **(f)** any other elector in Canada who wishes to vote in accordance with that Part.
+> 2000, c. 9, s. 11; 2003, c. 22, s. 100.
+
 
 
 
@@ -435,15 +437,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Superannuation and compensation**
 
-- **(3)** The Chief Electoral Officer is deemed to be employed in the Public Service for the purposes of the 
-[Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the 
-[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the 
-[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(3)** The Chief Electoral Officer is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
 
 **Communication with Governor in Council**
 
 - **(4)** The Chief Electoral Officer shall communicate with the Governor in Council through the Minister for the purposes of this Act.
-> 2000, c. 9, s. 15; 2002, c. 8, s. 116.
+> 2000, c. 9, s. 15; 2002, c. 8, s. 116; 2003, c. 22, s. 101(E).
 
 
 
@@ -517,7 +516,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Superannuation and compensation**
 
-- **(2)** The Assistant Chief Electoral Officer is deemed to be a person employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(2)** The Assistant Chief Electoral Officer is deemed to be a person employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and is deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2000, c. 9, s. 19; 2003, c. 22, s. 102(E).
+
 
 
 
@@ -3887,10 +3888,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(2)** Paragraph (1)(b) does not apply to an elector who is
-	- **(a)** employed outside Canada in the public service of Canada or of a province;
+	- **(a)** employed outside Canada in the federal public administration or the public service of a province;
 	- **(b)** employed outside Canada by an international organization of which Canada is a member and to which Canada contributes;
 	- **(c)** a person who lives with an elector referred to in paragraph (a) or (b); or
 	- **(d)** a person who lives with a member of the Canadian Forces or with a person referred to in paragraph 191(d).
+> 2000, c. 9, s. 222; 2003, c. 22, s. 103.
+
 
 
 
