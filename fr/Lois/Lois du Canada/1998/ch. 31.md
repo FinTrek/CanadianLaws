@@ -239,6 +239,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Choix des prestataires de services et fournisseurs de biens**
 
 **9** Malgré l’article 9 de la [Loi sur le ministère des Travaux publics et des Services gouvernementaux](/fr/Lois/Lois%20du%20Canada/1996/ch.%2016.md), l’Agence peut, avec l’agrément donné, de façon générale ou dans des cas particuliers, par le gouverneur en conseil sur recommandation du Conseil du Trésor, se procurer des biens et services, notamment des services juridiques, à l’extérieur de l’administration publique fédérale.
+> 1998, ch. 31, art. 9; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -304,12 +306,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** La [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) n’a pas pour effet de porter atteinte au droit ou à l’autorité du directeur général de régir les questions visées à l’alinéa (1)b).
 
-**Gestion du personnel**
+**Gestion des ressources humaines**
 
-- **(3)** Le paragraphe 11(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas à l’Agence et le directeur général peut :
+- **(3)** Les paragraphes 11.1(1) et 12(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Agence et le directeur général peut :
 	- **a)** déterminer l’organisation de l’Agence et la classification des postes au sein de celle-ci;
 	- **b)** fixer les conditions d’emploi — y compris en ce qui concerne le licenciement motivé — des employés ainsi que leur assigner des tâches;
-	- **c)** réglementer les autres questions dans la mesure où il l’estime nécessaire pour la bonne gestion du personnel de l’Agence.
+	- **c)** réglementer les autres questions dans la mesure où il l’estime nécessaire pour la bonne gestion des ressources humaines de l’Agence.
+> 1998, ch. 31, art. 13; 2003, ch. 22, art. 180 et 223(A).
+
 
 
 
@@ -329,7 +333,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir de conclure des conventions collectives**
 
-**15** Malgré l’article 56 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le directeur général est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable à ceux-ci.
+**15** Malgré l’article 112 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), le directeur général est, conformément au mandat de négociation approuvé par le président du Conseil du Trésor, habilité à conclure, avec l’agent négociateur d’une unité de négociation composée d’employés de l’Agence, une convention collective applicable à ceux-ci.
+> 1998, ch. 31, art. 15; 2003, ch. 22, art. 181.
+
 
 
 
