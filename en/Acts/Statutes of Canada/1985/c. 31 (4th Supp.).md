@@ -98,7 +98,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(h)** any other body that is specified by an Act of Parliament to be an agent of Her Majesty in right of Canada or to be subject to the direction of the Governor in Council or a minister of the Crown,
 
 but does not include
-- **(i)** any institution of the Council or government of the Northwest Territories or the Yukon Territory or of the Legislative Assembly or government of Nunavut, or
+- **(i)** any institution of the Council or government of the Northwest Territories or of the Legislative Assembly or government of Yukon or Nunavut, or
 - **(j)** any Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people;
 
 ***National Capital Region*** means the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
@@ -106,7 +106,7 @@ but does not include
 **Definition of “federal court”**
 
 - **(2)** In this section and in Parts II and III, ***federal court*** means any court, tribunal or other body that carries out adjudicative functions and is established by or pursuant to an Act of Parliament.
-> R.S., 1985, c. 31 (4th Supp.), s. 3; 1993, c. 28, s. 78.
+> R.S., 1985, c. 31 (4th Supp.), s. 3; 1993, c. 28, s. 78; 2002, c. 7, s. 224.
 
 
 
@@ -170,10 +170,10 @@ shall be made in both official languages and, if printed and published, shall be
 **Exceptions**
 
 - **(3)** Subsection (1) does not apply to
-	- **(a)** an ordinance of the Northwest Territories or the Yukon Territory or a law made by the Legislature for Nunavut, or any instrument made thereunder, or
+	- **(a)** an ordinance of the Northwest Territories or a law made by the Legislature of Yukon or the Legislature for Nunavut, or any instrument made under any such ordinance or law, or
 	- **(b)** a by-law, law or other instrument of an Indian band, band council or other body established to perform a governmental function in relation to an Indian band or other group of aboriginal people,
 by reason only that the ordinance, by-law, law or other instrument is of a public and general nature.
-> R.S., 1985, c. 31 (4th Supp.), s. 7; 1993, c. 28, s. 78.
+> R.S., 1985, c. 31 (4th Supp.), s. 7; 1993, c. 28, s. 78; 2002, c. 7, s. 225.
 
 
 
