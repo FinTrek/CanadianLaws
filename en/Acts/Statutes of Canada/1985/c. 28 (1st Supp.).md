@@ -983,7 +983,9 @@ the Minister may send a demand to the non-Canadian, requiring the non-Canadian, 
 
 **Definition of superior court**
 
-- **(6)** In this section, ***superior court*** has the same meaning as in subsection 35(1) of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md) but does not include the Supreme Court of Canada.
+- **(6)** In this section, ***superior court*** has the same meaning as in subsection 35(1) of the  [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md)  but does not include the Supreme Court of Canada, the Federal Court of Appeal or the Tax Court of Canada.
+> R.S., 1985, c. 28 (1st Supp.), s. 40; 2002, c. 8, s. 152.
+
 
 
 
