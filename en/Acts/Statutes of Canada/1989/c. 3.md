@@ -190,12 +190,12 @@ carrying out the duties and functions of a coroner; (*coroner*)
 
 **Retirement pensions**
 
-- **(8)** The full-time members are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(8)** The full-time members are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
 **Compensation**
 
-- **(9)** The members are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
-> 1989, c. 3, s. 4; 1998, c. 20, ss. 3, 24.
+- **(9)** The members are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 1989, c. 3, s. 4; 1998, c. 20, ss. 3, 24; 2003, c. 22, ss. 224(E), 225(E).
 
 
 
