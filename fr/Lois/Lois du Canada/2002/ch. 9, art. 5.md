@@ -1328,17 +1328,81 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 
 
-**Créances de Sa Majesté**
+**Définitions**
 
 **72** 
 
-- **(1)** Les sommes exigibles en vertu de la présente loi, sauf celles exigibles de Sa Majesté, sont des créances de Sa Majesté et sont recouvrables à ce titre devant la Cour fédérale ou devant tout autre tribunal compétent ou de toute autre manière prévue par la présente loi.
+- **(1)** Les définitions qui suivent s'appliquent au présent article.
 
-**Restriction**
+***action*** Toute action en recouvrement d'une dette fiscale d'une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu de l'un des articles 74 à 79.
 
-- **(2)** Une action en recouvrement de sommes exigibles d’une personne en vertu de la présente loi ne peut être intentée :
-	- **a)** dans le cas de sommes pouvant faire l’objet d’une cotisation aux termes de la présente loi, que si, au moment où l’action est intentée, la personne a fait l’objet d’une cotisation pour ces sommes ou peut en faire l’objet;
-	- **b)** dans les autres cas, plus de quatre ans après que la personne est devenue redevable des sommes.
+
+***dette fiscale*** Toute somme exigible d'une personne sous le régime de la présente loi.
+
+
+***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d'autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s'en occupe de toute autre façon.
+
+
+**Créances de Sa Majesté**
+
+- **(1.1)** La dette fiscale est une créance de Sa Majesté et est recouvrable à ce titre devant la Cour fédérale ou devant tout autre tribunal compétent ou de toute autre manière prévue par la présente loi.
+
+**Procédures judiciaires**
+
+- **(2)** Une procédure judiciaire en vue du recouvrement de la dette fiscale d'une personne à l'égard d'une somme pouvant faire l'objet d'une cotisation aux termes de la présente loi ne peut être intentée par le ministre que si, au moment où la procédure est intentée, la personne a fait l'objet d'une cotisation pour cette somme ou peut en faire l'objet.
+
+**Prescription**
+
+- **(2.1)** Une action en recouvrement d'une dette fiscale ne peut être entreprise par le ministre après l'expiration du délai de prescription pour le recouvrement de la dette.
+
+**Délai de prescription**
+
+- **(2.2)** Le délai de prescription pour le recouvrement d'une dette fiscale d'une personne :
+	- **a)
+** commence à courir :
+		- **(i)** si un avis de cotisation, ou un avis visé au paragraphe 80(1), concernant la dette est, selon le cas, posté, ou posté ou signifié, à la personne après le 3 mars 2004, le dernier en date des jours où l'un de ces avis est posté ou signifié,
+		- **(ii)** si aucun des avis visés au sous-alinéa (i) n'a été posté ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
+		- **(iii)** dans les autres cas, le 4 mars 2004;
+	- **b)
+** prend fin, sous réserve du paragraphe (2.6), dix ans après le jour de son début.
+
+**Reprise du délai de prescription**
+
+- **(2.3)** Le délai de prescription pour le recouvrement d'une dette fiscale d'une personne recommence à courir — et prend fin, sous réserve du paragraphe (2.6), dix ans plus tard — le jour, antérieur à celui où il prendrait fin par ailleurs, où, selon le cas :
+	- **a)
+** la personne reconnaît la dette conformément au paragraphe (2.4);
+	- **b)
+** le ministre entreprend une action en recouvrement de la dette;
+	- **c)
+** le ministre établit, en vertu des paragraphes 75(8) ou 81(4), une cotisation à l'égard d'une autre personne concernant la dette.
+
+**Reconnaissance de dette fiscale**
+
+- **(2.4)** Se reconnaît débitrice d'une dette fiscale la personne qui, selon le cas :
+	- **a)
+** promet, par écrit, de régler la dette;
+	- **b)
+** reconnaît la dette par écrit, que cette reconnaissance soit ou non rédigée en des termes qui permettent de déduire une promesse de règlement et renferme ou non un refus de payer;
+	- **c)
+** fait un paiement au titre de la dette, y compris un prétendu paiement fait au moyen d'un titre négociable qui fait l'objet d'un refus de paiement.
+
+**Mandataire ou représentant légal**
+
+- **(2.5)** Pour l'application du présent article, la reconnaissance faite par le mandataire ou le représentant légal d'une personne a la même valeur que si elle était faite par la personne.
+
+**Prorogation du délai de prescription**
+
+- **(2.6)** Le nombre de jours où au moins un des faits suivants se vérifie prolonge d'autant la durée du délai de prescription :
+	- **a)
+** le ministre a accepté et détient une garantie pour le paiement de la dette fiscale;
+	- **b)
+** la personne, qui résidait au Canada à la date applicable visée à l'alinéa (2.2)
+a) relativement à la dette fiscale, est un non-résident;
+	- **c)
+** l'une des actions que le ministre peut exercer par ailleurs relativement à la dette fiscale est limitée ou interdite en vertu d'une disposition quelconque de la 
+Loi sur la faillite et l'insolvabilité, de la 
+[Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou de la 
+Loi sur la médiation en matière d'endettement agricole.
 
 **Cotisation avant recouvrement**
 
@@ -1351,6 +1415,8 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 **Frais de justice**
 
 - **(5)** Dans le cas où une somme doit être payée par une personne à Sa Majesté en exécution d’une ordonnance, d’un jugement ou d’une décision d’un tribunal concernant l’attribution des frais de justice relatifs à une question régie par la présente loi, les articles 73 à 80 s’appliquent à la somme comme si elle était exigible en vertu de la présente loi.
+> 2002, ch. 9, art. 5 « 72 »; 2004, ch. 22, art. 45.
+
 
 
 
