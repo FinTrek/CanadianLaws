@@ -132,14 +132,16 @@ and who resides in the private home of foster parents, a group foster home or an
 **8** 
 
 - **(1)** The amount of special allowance to be paid in respect of a child for each month is one twelfth of the total of
-	- **(a)** the amount expressed in dollars in paragraph (a) of the description of A in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and
-	- **(b)** the amount expressed in dollars in paragraph (a) of the description of F in that subsection,
+	- **(a)** the amount expressed in dollars in paragraph (a) of the description of A in subsection 122.61(1) of the 
+[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+	- **(b)** the amount expressed in dollars in paragraph (a) of the description of F in that subsection, and
+	- **(c)** if an amount may be deducted under section 118.3 of that Act in respect of the child, the amount expressed in dollars in the description of N in subsection 122.61(1) of that Act,
 each such amount being adjusted and rounded in accordance with subsections 122.61(5) and (7) of that Act.
 
 **Rounding of amounts**
 
 - **(2)** In the event that an amount calculated pursuant to subsection (1) contains a fraction of a cent, the amount shall be rounded to the nearest whole cent or, if the result is equidistant from two whole cents, to the higher thereof.
-> 1992, c. 48, s. 23 (Sch., s. 8); 1998, c. 21, s. 98.
+> 1992, c. 48, s. 23 (Sch., s. 8); 1998, c. 21, s. 98; 2003, c. 15, s. 90.
 
 
 
