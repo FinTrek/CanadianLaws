@@ -55,7 +55,7 @@
 - **(b)** for the Province of Quebec, the Superior Court,
 - **(c)** for the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(d)** for the Province of New Brunswick, Manitoba, Saskatchewan or Alberta, the Court of Queen’s Bench for the Province, and
-- **(e)** for the Yukon Territory or the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice,
+- **(e)** for Yukon or the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice,
 
 and includes such other court in the province the judges of which are appointed by the Governor General as is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this Act;
 
@@ -100,7 +100,7 @@ and includes such other court in the province the judges of which are appointed 
 **Amendments included**
 
 - **(6)** The guidelines of a province referred to in subsection (5) include any amendments made to them from time to time.
-> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61
+> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E)
 
 
 
@@ -637,7 +637,7 @@ the court may order that the divorce takes effect at such earlier time as it con
 - **(1)** In this section and section 19,
 
 ***Attorney General***, in respect of a province, means
-- **(a)** for the Yukon Territory, the member of the Council of the Yukon Territory designated by the Commissioner of the Yukon Territory,
+- **(a)** for Yukon, the member of the Executive Council of Yukon designated by the Commissioner of Yukon,
 - **(b)** for the Northwest Territories, the member of the Council of the Northwest Territories designated by the Commissioner of the Northwest Territories,
 - **(b.1)** for Nunavut, the member of the Executive Council of Nunavut designated by the Commissioner of Nunavut, and
 - **(c)** for the other provinces, the Attorney General of the province,
@@ -671,7 +671,7 @@ the court shall make a variation order with or without notice to and in the abse
 **Transmission**
 
 - **(6)** Where evidence is received under subsection (5), the court that received the evidence shall forward to the court that remitted the matter back a certified or sworn document setting out or summarizing the evidence, together with such recommendations as the court that received the evidence considers appropriate.
-> R.S., 1985, c. 3 (2nd Supp.), s. 18; 1993, c. 8, s. 3, c. 28, s. 78
+> R.S., 1985, c. 3 (2nd Supp.), s. 18; 1993, c. 8, s. 3, c. 28, s. 78; 2002, c. 7, s. 159
 
 
 
@@ -778,14 +778,14 @@ the court shall make a variation order with or without notice to and in the abse
 - **(1)** A support order may be assigned to
 	- **(a)** any minister of the Crown for Canada designated by the Governor in Council;
 	- **(b)** any minister of the Crown for a province, or any agency in a province, designated by the Lieutenant Governor in Council of the province;
-	- **(c)** any member of the Council of the Yukon Territory, or any agency in the Yukon Territory, designated by the Commissioner of the Yukon Territory;
+	- **(c)** any member of the Legislative Assembly of Yukon, or any agency in Yukon, designated by the Commissioner of Yukon;
 	- **(d)** any member of the Council of the Northwest Territories, or any agency in the Northwest Territories, designated by the Commissioner of the Northwest Territories; or
 	- **(e)** any member of the Legislative Assembly of Nunavut, or any agency in Nunavut, designated by the Commissioner of Nunavut.
 
 **Rights**
 
 - **(2)** A minister, member or agency referred to in subsection (1) to whom an order is assigned is entitled to the payments due under the order, and has the same right to be notified of, and to participate in, proceedings under this Act to vary, rescind, suspend or enforce the order as the person who would otherwise be entitled to the payments.
-> 1993, c. 28, s. 78; 1997, c. 1, s. 9; 1998, c. 15, s. 23
+> 1993, c. 28, s. 78; 1997, c. 1, s. 9; 1998, c. 15, s. 23; 2002, c. 7, s. 160
 
 
 
