@@ -71,14 +71,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** the arts, including cultural aspects of the status of the artist;
 	- **(d)** cultural heritage and industries, including performing arts, visual and audio-visual arts, publishing, sound recording, film, video and literature;
 	- **(e)** national parks, national historic sites, historic canals, national battlefields, national marine conservation areas, heritage railway stations and federal heritage buildings;
-	- **(f)** the encouragement, promotion and development of amateur sport;
+	- **(f)** the encouragement, promotion and development of sport;
 	- **(g)** the advancement of the equality of status and use of English and French and the enhancement and development of the English and French linguistic minority communities in Canada;
 	- **(h)** state ceremonial and Canadian symbols;
 	- **(i)** broadcasting, except in respect of spectrum management and the technical aspects of broadcasting;
 	- **(j)** the formulation of cultural policy, including the formulation of cultural policy as it relates to foreign investment and copyright;
 	- **(k)** the conservation, exportation and importation of cultural property; and
 	- **(l)** national museums, archives and libraries.
-> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F).
+> 1995, c. 11, s. 4; 2002, c. 18, s. 32(F); 2003, c. 2, s. 37.
 
 
 
