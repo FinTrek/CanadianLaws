@@ -191,7 +191,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(f)** any radio broadcasting station;
 	- **(g)** any bank or authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 	- **(h)** any work, undertaking or business that, although wholly situated within a province, is before or after its execution declared by the Parliament of Canada to be for the general advantage of Canada or for the advantage of two or more provinces; and
-	- **(i)** any work, undertaking or business outside the exclusive legislative authority of provincial legislatures, and any work, undertaking or business of a local or private nature in the Yukon Territory, the Northwest Territories or Nunavut.
+	- **(i)** any work, undertaking or business outside the exclusive legislative authority of provincial legislatures, and any work, undertaking or business of a local or private nature in Yukon, the Northwest Territories or Nunavut.
 
 **Definition of “excepted employment”**
 
@@ -206,7 +206,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(b)** any other employment if the Governor in Council, on a report of the Minister, is satisfied that
 		- **(i)** provision has been made for the coverage of employees employed in that employment under the terms of a pension plan that is organized and administered for the benefit primarily of employees employed in other than included employment and that is required to be registered under the law of a designated province, or
 		- **(ii)** in any other case, the exception of that employment is warranted having regard to the existence of other arrangements for the safeguarding of any benefits that are or may become available to employees or other persons in respect of that employment, or having regard to such other circumstances as the Governor in Council deems relevant.
-> R.S., 1985, c. 32 (2nd Supp.), s. 4; 1993, c. 28, s. 78; 1999, c. 28, s. 172, c. 31, s. 244(F).
+> R.S., 1985, c. 32 (2nd Supp.), s. 4; 1993, c. 28, s. 78; 1999, c. 28, s. 172, c. 31, s. 244(F); 2002, c. 7, s. 226.
 
 
 
