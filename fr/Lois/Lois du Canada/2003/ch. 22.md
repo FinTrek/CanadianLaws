@@ -63,7 +63,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**9** [Modification]
+**9** [Modifications]
 
 
 
@@ -616,7 +616,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**109** [Modification]
+**109** [Modifications]
 
 
 
@@ -664,7 +664,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**118** [Modification]
+**118** [Modifications]
 
 
 
@@ -688,7 +688,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**123** [Modification]
+**123** [Modifications]
 
 
 
@@ -816,7 +816,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Loi sur le Service canadien du renseignement de sécurité
 
 
-**143** [Modification]
+**143** [Modifications]
 
 
 
@@ -948,7 +948,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Loi sur l’équité en matière d’emploi
 
 
-**163** [Modification]
+**163** [Modifications]
 
 
 
@@ -956,7 +956,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**165** [Modification]
+**165** [Modifications]
 
 
 
@@ -1076,7 +1076,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Loi sur les relations de travail au Parlement
 
 
-**182** [Modification]
+**182** [Modifications]
 
 
 
@@ -1096,7 +1096,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**187** [Modification]
+**187** [Modifications]
 
 
 
@@ -1136,7 +1136,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**193** [Modification]
+**193** [Modifications]
 
 
 
@@ -1188,7 +1188,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**206** [Modification]
+**206** [Modifications]
 
 
 
@@ -1216,7 +1216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**211** [Modification]
+**211** [Modifications]
 
 
 
@@ -1292,23 +1292,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Modifications terminologiques
 
 
-**223** [Modification]
+**223** [Modifications]
 
 
 
-**224** [Modification]
+**224** [Modifications]
 
 
 
-**225** [Modification]
+**225** [Modifications]
 
 
 
-**226** La substitution de l’expression 
-*« public service* » à l’expression « 
-*Public Service* » et de l’expression « 
-*federal public administration* » à l’expression « 
-*public service of Canada *» effectuée par la présente partie est une modification d’ordre terminologique qui n’a pas pour effet d’édicter un texte de droit nouveau.
+**226** La substitution de l’expression « public service » à l’expression « Public Service » et de l’expression « federal public administration » à l’expression « public service of Canada » effectuée par la présente partie est une modification d’ordre terminologique qui n’a pas pour effet d’édicter un texte de droit nouveau.
 
 
 
@@ -1750,7 +1746,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les dispositions de la partie 2 de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md), dans leur version édictée par l’article 2 de la présente loi, entrent en vigueur à la date ou aux dates fixées par décret pris sur recommandation du ministre, au sens du paragraphe 2(1) de cette loi, après consultation du président de la Commission des relations de travail dans la fonction publique nommé conformément à l’article 12 de cette loi.
 
-<a name='P-33.4_f_s286'><sup>*</sup></a>: [Note : Articles 1 et 262 à 285 en vigueur à la sanction le 7 novembre 2003; articles 14 et 19, des définitions de ***ancienne Commission***, ***ancienne loi***, ***loi modifiée*** et ***nouvelle Commission*** à l’article 68 et articles 77 à 83 et 246 à 250 en vigueur le 20 novembre 2003, *voir* TR/2003-178; articles 21 à 35, 85 à 87 et 251 à 261 en vigueur le 1<sup>er</sup> avril 2004, *voir* TR/2004-42; article 5 en vigueur le 1<sup>er</sup> décembre 2004, *voir* TR/2004-159.]<br />
+<a name='P-33.4_f_s286'><sup>*</sup></a>: [Note : Articles 1 et 262 à 285 en vigueur à la sanction le 7 novembre 2003; articles 14 et 19, des définitions de ***ancienne Commission***, ***ancienne loi***, ***loi modifiée*** et ***nouvelle Commission*** à l’article 68 et articles 77 à 83 et 246 à 250 en vigueur le 20 novembre 2003, *voir* TR/2003-178; articles 21 à 35, 85 à 87 et 251 à 261 en vigueur le 1<sup>er</sup> avril 2004, *voir* TR/2004-42; article 5 en vigueur le 1<sup>er</sup> décembre 2004, *voir* TR/2004-159; préambule, articles 1 à 3 et partie 1, édictés par l’article 2, en vigueur le 1<sup>er</sup> avril 2005, *voir* TR/2005-22; partie 2, édictée par l’article 2, à l’exception du sous-alinéa 209(1)c)(ii), de l’alinéa 211 b) et de l’article 231, en vigueur le 1<sup>er</sup> avril 2005, *voir* TR/2005-23; parties 3 et 4, édictées par l’article 2, et articles 36 à 66 et 88 à 226 en vigueur le 1<sup>er</sup> avril 2005, *voir* TR/2005-24; articles 3, 4, 6 à 11 et 67 en vigueur le 1<sup>er</sup> avril 2005, *voir* TR/2005-25.]<br />
 
 
 
