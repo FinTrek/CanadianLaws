@@ -1,0 +1,3446 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md)
+
+# Loi sur les espèces en péril
+
+**L.C. 2002, ch. 29**
+
+
+Sanctionnée sur le 12 décembre 2002
+
+----------
+
+
+
+
+**Préambule**
+
+Attendu :
+
+que le patrimoine naturel du Canada fait partie intégrante de notre identité nationale et de notre histoire;
+
+que les espèces sauvages, sous toutes leurs formes, ont leur valeur intrinsèque et sont appréciées des Canadiens pour des raisons esthétiques, culturelles, spirituelles, récréatives, éducatives, historiques, économiques, médicales, écologiques et scientifiques;
+
+que les espèces sauvages et les écosystèmes du Canada font aussi partie du patrimoine mondial et que le gouvernement du Canada a ratifié la Convention des Nations Unies sur la diversité biologique;
+
+que l’attribution d’une protection juridique aux espèces en péril complétera les textes législatifs existants et permettra au Canada de respecter une partie des engagements qu’il a pris aux termes de cette convention;
+
+que le gouvernement du Canada s’est engagé à conserver la diversité biologique et à respecter le principe voulant que, s’il existe une menace d’atteinte grave ou irréversible à une espèce sauvage, le manque de certitude scientifique ne soit pas prétexte à retarder la prise de mesures efficientes pour prévenir sa disparition ou sa décroissance;
+
+que la conservation des espèces sauvages au Canada est une responsabilité partagée par les gouvernements du pays et que la collaboration entre eux est importante en vue d’établir des lois et des programmes complémentaires pouvant assurer la protection et le rétablissement des espèces en péril au Canada;
+
+que la coopération entre les gouvernements du pays pour le maintien et le renforcement des normes nationales de conservation de l’environnement est importante et que le gouvernement du Canada est attaché aux principes énoncés dans les accords intergouvernementaux en matière de conservation de l’environnement;
+
+que le Conseil canadien pour la conservation des espèces en péril a la responsabilité d’établir les orientations pour l’ensemble du pays en matière de protection des espèces en péril, notamment en ce qui concerne les activités du Comité sur la situation des espèces en péril au Canada et l’élaboration et la coordination des mesures de protection et de rétablissement de ces espèces;
+
+qu’est essentiel le rôle que peuvent jouer les peuples autochtones du Canada et les conseils de gestion des ressources fauniques établis en application d’accords sur des revendications territoriales dans la conservation des espèces sauvages dans ce pays;
+
+que tous les Canadiens ont un rôle à jouer dans la conservation des espèces sauvages, notamment en ce qui a trait à la prévention de leur disparition du pays ou de la planète;
+
+que, dans certains cas, les frais de la conservation des espèces en péril devraient être partagés;
+
+que les efforts de conservation des Canadiens et des collectivités devraient être encouragés et appuyés;
+
+que les activités d’intendance visant la conservation des espèces sauvages et de leur habitat devraient bénéficier de l’appui voulu pour éviter que celles-ci deviennent des espèces en péril;
+
+que la connaissance et les intérêts — notamment socioéconomiques — des collectivités devraient être pris en compte lors de l’élaboration et de la mise en oeuvre des mesures de rétablissement;
+
+que les connaissances traditionnelles des peuples autochtones du Canada devraient être prises en compte pour découvrir quelles espèces sauvages peuvent être en péril et pour l’élaboration et la mise en oeuvre des mesures de rétablissement;
+
+que la connaissance des espèces sauvages et des écosystèmes est essentielle à leur conservation;
+
+que l’habitat des espèces en péril est important pour leur conservation;
+
+que les aires protégées au Canada, plus particulièrement les parcs nationaux, sont importants pour la protection et le rétablissement des espèces en péril,
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur les espèces en péril.
+
+
+
+
+## Définitions et interprétation
+
+
+
+**Définitions**
+
+**2** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***accord sur des revendications territoriales*** Accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982.
+
+***Conseil canadien pour la conservation des espèces en péril*** Le conseil visé au paragraphe 7(1).
+
+***conseil de gestion des ressources fauniques*** Tout organisme, notamment un conseil, constitué en application d’un accord sur des revendications territoriales qui est habilité à exercer des attributions à l’égard d’espèces sauvages.
+
+***COSEPAC*** Le Comité sur la situation des espèces en péril au Canada, constitué en application de l’article 14.
+
+***décret d’urgence*** Décret pris au titre de l’article 80.
+
+***espèce aquatique*** Espèce sauvage de poissons, au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), ou de plantes marines, au sens de l’article 47 de cette loi.
+
+***espèce disparue du pays*** Espèce sauvage qu’on ne trouve plus à l’état sauvage au Canada, mais qu’on trouve ailleurs à l’état sauvage.
+
+***espèce en péril*** Espèce sauvage disparue du pays, en voie de disparition, menacée ou préoccupante.
+
+***espèce en voie de disparition*** Espèce sauvage qui, de façon imminente, risque de disparaître du pays ou de la planète.
+
+***espèce menacée*** Espèce sauvage susceptible de devenir une espèce en voie de disparition si rien n’est fait pour contrer les facteurs menaçant de la faire disparaître.
+
+***espèce préoccupante*** Espèce sauvage qui peut devenir une espèce menacée ou une espèce en voie de disparition par l’effet cumulatif de ses caractéristiques biologiques et des menaces signalées à son égard.
+
+***espèce sauvage*** Espèce, sous-espèce, variété ou population géographiquement ou génétiquement distincte d’animaux, de végétaux ou d’autres organismes d’origine sauvage, sauf une bactérie ou un virus, qui, selon le cas :
+- **a)** est indigène du Canada;
+- **b)** s’est propagée au Canada sans intervention humaine et y est présente depuis au moins cinquante ans.
+
+***habitat***
+- **a)** S’agissant d’une espèce aquatique, les frayères, aires d’alevinage, de croissance et d’alimentation et routes migratoires dont sa survie dépend, directement ou indirectement, ou aires où elle s’est déjà trouvée et où il est possible de la réintroduire;
+- **b)** s’agissant de toute autre espèce sauvage, l’aire ou le type d’endroit où un individu ou l’espèce se trouvent ou dont leur survie dépend directement ou indirectement ou se sont déjà trouvés, et où il est possible de les réintroduire.
+
+***habitat essentiel*** L’habitat nécessaire à la survie ou au rétablissement d’une espèce sauvage inscrite, qui est désigné comme tel dans un programme de rétablissement ou un plan d’action élaboré à l’égard de l’espèce.
+
+***individu*** Individu d’une espèce sauvage, vivant ou mort, à toute étape de son développement. La présente définition vise également les larves, le sperme, les oeufs, les embryons, les semences, le pollen, les spores et les propagules asexuées.
+
+***infraction*** Infraction à la présente loi.
+
+***inscrite*** Se dit de toute espèce sauvage qui est inscrite sur la liste.
+
+***liste*** La Liste des espèces en péril figurant à l’annexe 1.
+
+***mesures de rechange*** Mesures — autres que le recours aux procédures judiciaires — prises contre une personne à qui une infraction est imputée.
+
+***ministre*** Le ministre de l’Environnement.
+
+***ministre compétent***
+- **a)** En ce qui concerne les individus présents dans les parcs nationaux, les lieux historiques nationaux et les autres lieux patrimoniaux protégés, au sens du paragraphe 2(1) de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md), qui sont des terres domaniales dont la gestion relève du ministre du Patrimoine canadien, ce ministre;
+- **b)** en ce qui concerne les espèces aquatiques dont les individus ne sont pas visés par l’alinéa a), le ministre des Pêches et des Océans;
+- **c)** en ce qui concerne tout autre individu, le ministre de l’Environnement.
+
+***ministre provincial*** Tout ministre d’une province chargé de la conservation et de la gestion d’une espèce sauvage dans la province.
+
+***ministre territorial*** Tout ministre d’un territoire chargé de la conservation et de la gestion d’une espèce sauvage dans le territoire.
+
+***moyen de transport*** Tout véhicule, aéronef, bateau ou autre moyen servant au transport des personnes ou des biens.
+
+***plan d’action*** Plan d’action mis dans le registre en application du paragraphe 50(3), y compris ses modifications qui sont mises dans celui-ci en application de l’article 52.
+
+***procureur général*** Le procureur général du Canada ou, pour l’application des articles 108 à 113, le procureur général du Canada ou son représentant.
+
+***programme de rétablissement*** Programme de rétablissement mis dans le registre en application du paragraphe 43(2), y compris ses modifications qui sont mises dans celui-ci en application de l’article 45.
+
+***rapport de situation*** Sommaire de la meilleure information accessible sur la situation d’une espèce sauvage, notamment les données scientifiques ainsi que les connaissances des collectivités et les connaissances traditionnelles des peuples autochtones, dont la forme et le contenu sont conformes aux exigences réglementaires prévues en application du paragraphe 21(2).
+
+***registre*** Le registre public dont l’établissement est prévu à l’article 120.
+
+***résidence*** Gîte — terrier, nid ou autre aire ou lieu semblable — occupé ou habituellement occupé par un ou plusieurs individus pendant tout ou partie de leur vie, notamment pendant la reproduction, l’élevage, les haltes migratoires, l’hivernage, l’alimentation ou l’hibernation.
+
+***territoire domanial***
+- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien;
+- **b)** les eaux intérieures et la mer territoriale du Canada;
+- **c)** les réserves ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+
+***traité*** Traité au sens de l’article 35 de la Loi constitutionnelle de 1982.
+
+***vente*** Sont assimilées à la vente l’offre de vente ou de location ainsi que la possession et la livraison en vue de la vente ou de la location.
+
+**Présomption**
+
+- **(2)** Dans la définition de ***espèce sauvage*** au paragraphe (1), une espèce, une sous-espèce, une variété ou une population géographiquement ou génétiquement distincte est, sauf preuve contraire, réputée être présente au Canada depuis au moins cinquante ans.
+
+**Ministre compétent**
+
+- **(3)** La mention de ministre compétent dans une disposition de la présente loi vaut celle du ministre compétent à l’égard d’une espèce sauvage, ou des individus d’une telle espèce, auxquels la disposition s’applique.
+
+
+
+
+**Droits des autochtones**
+
+**3** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
+
+
+
+
+**Organismes vivants sédentaires**
+
+**4** 
+
+- **(1)** La présente loi s’applique aussi aux organismes vivants sédentaires se trouvant sur ou sous la partie du plateau continental du Canada située à l’extérieur de la zone économique exclusive.
+
+**Sens de sédentaire**
+
+- **(2)** Pour l’application du paragraphe (1), un organisme est sédentaire si, au stade où il peut être pêché, il est soit immobile sur le fond ou au-dessous du fond, soit incapable de se déplacer autrement qu’en restant constamment en contact avec le fond ou le sous-sol.
+
+
+
+
+## Sa Majesté
+
+
+
+**Obligation de Sa Majesté**
+
+**5** La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+
+
+
+## Objet
+
+
+
+**Objet**
+
+**6** La présente loi vise à prévenir la disparition — de la planète ou du Canada seulement — des espèces sauvages, à permettre le rétablissement de celles qui, par suite de l’activité humaine, sont devenues des espèces disparues du pays, en voie de disparition ou menacées et à favoriser la gestion des espèces préoccupantes pour éviter qu’elles ne deviennent des espèces en voie de disparition ou menacées.
+
+
+
+
+## Conseil canadien pour la conservation des espèces en péril
+
+
+
+**Composition du conseil**
+
+**7** 
+
+- **(1)** Le Conseil canadien pour la conservation des espèces en péril se compose du ministre de l’Environnement, du ministre des Pêches et des Océans et du ministre du Patrimoine canadien ainsi que des ministres d’une province ou d’un territoire chargés de la conservation et de la gestion d’une espèce sauvage dans la province ou dans le territoire.
+
+**Mission**
+
+- **(2)** Le Conseil canadien pour la conservation des espèces en péril a pour mission :
+	- **a)** de diriger d’une façon générale les activités du COSEPAC, l’élaboration des programmes de rétablissement et l’élaboration et la mise en oeuvre des plans d’action;
+	- **b)** de coordonner les activités de protection des espèces en péril exercées par les divers gouvernements représentés au conseil.
+
+
+
+
+## Application de la loi
+
+
+
+**Responsabilité du ministre**
+
+**8** 
+
+- **(1)** Sous réserve des dispositions de la présente loi conférant une responsabilité particulière à un autre ministre, le ministre est responsable de l’application de la présente loi.
+
+**Délégation**
+
+- **(2)** Le ministre, le ministre du Patrimoine canadien ou le ministre des Pêches et des Océans peut, après consultation des deux autres ministres, déléguer à un ministre fédéral ou provincial ou à quiconque est à l’emploi du gouvernement du Canada, d’une province ou de tout autre gouvernement au Canada telle de ses attributions prévues par la présente loi en matière de contrôle d’application de celle-ci.
+
+**Accord et rapport annuel**
+
+- **(3)** La délégation se fait par la conclusion d’un accord, entre le délégant et le délégataire, stipulant que ce dernier fait rapport annuellement au premier sur les activités qu’il exerce dans le cadre de l’accord. Est mise dans le registre une copie de l’accord dans les quarante-cinq jours suivant sa conclusion et une copie de tout rapport annuel dans les quarante-cinq jours suivant sa réception par le délégant.
+
+
+
+
+**Conseil autochtone national sur les espèces en péril**
+
+**8.1** Le ministre constitue un conseil, dénommé Conseil autochtone national sur les espèces en péril, composé de six représentants des peuples autochtones du Canada choisis par lui sur recommandation des organisations autochtones qu’il juge indiquées. La mission du conseil est :
+- **a)** de conseiller le ministre en matière d’application de la présente loi;
+- **b)** de fournir au Conseil canadien pour la conservation des espèces en péril des conseils et des recommandations.
+
+
+
+
+**Comités consultatifs : ministre**
+
+**9** 
+
+- **(1)** Après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le ministre peut constituer un ou plusieurs comités pour le conseiller en matière d’application de la présente loi.
+
+**Comités consultatifs : Conseil**
+
+- **(2)** Après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut constituer un ou plusieurs comités pour conseiller ce dernier relativement à l’exécution de sa mission.
+
+
+
+
+**Accords sur l’application de la loi**
+
+**10** Après consultation de tout autre ministre compétent, le ministre compétent peut conclure avec un gouvernement au Canada, un conseil de gestion des ressources fauniques ou une organisation un accord relatif à l’application des dispositions de la présente loi dont il est responsable, notamment en ce qui concerne l’élaboration et la mise en oeuvre de programmes de rétablissement, de plans d’action et de plans de gestion.
+
+
+
+
+## Plan d’action pour l’intendance
+
+
+
+**Plan d’action pour l’intendance**
+
+**10.1** Le ministre peut, après consultation du Conseil canadien pour la conservation des espèces en péril, établir un plan d’action pour l’intendance qui prévoit des incitatifs et d’autres mesures destinées à appuyer les activités volontaires d’intendance menées par tout gouvernement au Canada ou toute personne ou organisation. Le cas échéant, une copie du plan d’action pour l’intendance est mise dans le registre.
+
+
+
+
+**Contenu**
+
+**10.2** Le plan d’action pour l’intendance comporte notamment les engagements suivants :
+- **a)** examiner périodiquement les incitatifs et les programmes d’appui aux activités menées par des personnes pour protéger les espèces en péril;
+- **b)** fournir de l’information et accroître la sensibilisation du public sur les espèces en péril;
+- **c)** les méthodes de partage, avec d’autres gouvernements et personnes, de l’information concernant les espèces en péril, y compris les connaissances des collectivités et les connaissances traditionnelles autochtones, lesquelles méthodes respectent, préservent et maintiennent les connaissances et favorisent leur application sur une plus grande échelle avec l’accord des dépositaires de ces connaissances;
+- **d)** élaborer des programmes de reconnaissance et de récompense;
+- **e)** fournir de l’information sur les programmes liés aux accords d’intendance, y compris les servitudes de conservation et tout autre accord semblable;
+- **f)** fournir de l’information concernant l’appui technique et scientifique accessible aux personnes menant des activités d’intendance.
+
+
+
+
+## Intendance
+
+
+
+**Accord de conservation : espèce en péril**
+
+**11** 
+
+- **(1)** Après consultation de tout autre ministre compétent et, s’il l’estime indiqué, du Conseil canadien pour la conservation des espèces en péril ou de tout membre de celui-ci, le ministre compétent peut conclure avec un gouvernement au Canada, une organisation ou une personne un accord de conservation qui est bénéfique pour une espèce en péril ou qui améliore ses chances de survie à l’état sauvage.
+
+**Contenu de l’accord**
+
+- **(2)** L’accord doit prévoir des mesures de conservation et d’autres mesures compatibles avec l’objet de la présente loi, et peut prévoir des mesures en ce qui concerne :
+	- **a)** le suivi de la situation de l’espèce;
+	- **b)** l’élaboration et la mise en oeuvre de programmes d’éducation et de sensibilisation du public;
+	- **c)** l’élaboration et la mise en oeuvre de programmes de rétablissement, de plans d’action et de plans de gestion;
+	- **d)** la protection de l’habitat de l’espèce, notamment son habitat essentiel;
+	- **e)** la mise sur pied de projets de recherche visant à favoriser le rétablissement de l’espèce.
+
+
+
+
+**Accord de conservation : autre espèce**
+
+**12** 
+
+- **(1)** Après consultation de tout autre ministre compétent et, s’il l’estime indiqué, du Conseil canadien pour la conservation des espèces en péril ou de tout membre de celui-ci, le ministre compétent peut conclure avec un gouvernement au Canada, une organisation ou une personne un accord portant sur la conservation d’une espèce sauvage qui n’est pas une espèce en péril.
+
+**Contenu de l’accord**
+
+- **(2)** L’accord peut prévoir des mesures de conservation et d’autres mesures compatibles avec l’objet de la présente loi, notamment en ce qui concerne :
+	- **a)** le suivi de la situation de l’espèce;
+	- **b)** l’élaboration et la mise en oeuvre de programmes d’éducation et de sensibilisation du public;
+	- **c)** la protection de l’habitat de l’espèce;
+	- **d)** la prévention, afin que l’espèce ne devienne pas une espèce en péril.
+
+
+
+
+**Accords de financement**
+
+**13** 
+
+- **(1)** Le ministre compétent peut conclure avec un gouvernement au Canada, une organisation ou une personne un accord prévoyant le partage des coûts de la mise en oeuvre de mesures et de programmes en matière de conservation des espèces sauvages, notamment des mesures et des programmes prévus dans un accord conclu au titre des paragraphes 11(1) ou 12(1).
+
+**Dispositions obligatoires**
+
+- **(2)** L’accord doit préciser les points suivants :
+	- **a)** la quote-part des parties à l’accord, ainsi que la date du ou des versements correspondants;
+	- **b)** l’autorité ou la personne qui sera responsable de l’exécution de tout ou partie des mesures ou des programmes;
+	- **c)** la répartition entre les parties à l’accord des éventuelles recettes d’exploitation relatives aux mesures ou aux programmes;
+	- **d)** les modalités d’exécution des mesures ou des programmes.
+
+
+
+
+## Processus d’inscription des espèces sauvages
+
+
+
+### Comité sur la situation des espèces en péril au Canada
+
+
+
+**Constitution**
+
+**14** Est constitué le Comité sur la situation des espèces en péril au Canada.
+
+
+
+
+**Mission**
+
+**15** 
+
+- **(1)** Le COSEPAC a pour mission :
+	- **a)** d’évaluer la situation de toute espèce sauvage qu’il estime en péril ainsi que, dans le cadre de l’évaluation, de signaler les menaces réelles ou potentielles à son égard et d’établir, selon le cas :
+		- **(i)** que l’espèce est disparue, disparue du pays, en voie de disparition, menacée ou préoccupante,
+		- **(ii)** qu’il ne dispose pas de l’information voulue pour la classifier,
+		- **(iii)** que l’espèce n’est pas actuellement en péril;
+	- **b)** de déterminer le moment auquel doit être effectuée l’évaluation des espèces sauvages, la priorité étant donnée à celles dont la probabilité d’extinction est la plus grande;
+	- **c)** d’évaluer de nouveau la situation des espèces en péril et, au besoin, de les reclassifier ou de les déclassifier;
+	- **c.1)** de mentionner dans l’évaluation le fait que l’espèce sauvage traverse la frontière du Canada au moment de sa migration ou que son aire de répartition chevauche cette frontière, le cas échéant;
+	- **d)** d’établir des critères, qu’il révise périodiquement, en vue d’évaluer la situation des espèces sauvages et d’effectuer leur classification, ainsi que de recommander ces critères au ministre et au Conseil canadien pour la conservation des espèces en péril;
+	- **e)** de fournir des conseils au ministre et au Conseil canadien pour la conservation des espèces en péril et d’exercer les autres fonctions que le ministre, après consultation du conseil, peut lui confier.
+
+**Critères**
+
+- **(2)** Il exécute sa mission en se fondant sur la meilleure information accessible sur la situation biologique de l’espèce en question notamment les données scientifiques ainsi que les connaissances des collectivités et les connaissances traditionnelles des peuples autochtones.
+
+**Traités et accords sur des revendications territoriales**
+
+- **(3)** Pour l’exécution de sa mission, il prend en compte les dispositions applicables des traités et des accords sur des revendications territoriales.
+
+
+
+
+**Composition**
+
+**16** 
+
+- **(1)** Le COSEPAC se compose de membres nommés par le ministre après consultation du Conseil canadien pour la conservation des espèces en péril et des experts et organismes d’experts — telle la Société royale du Canada — qui, de l’avis du ministre, possèdent l’expertise appropriée.
+
+**Critères d’admission**
+
+- **(2)** Chaque membre du COSEPAC possède une expertise liée soit à une discipline telle que la biologie de la conservation, la dynamique des populations, la taxinomie, la systématique ou la génétique, soit aux connaissances des collectivités ou aux connaissances traditionnelles des peuples autochtones en matière de conservation des espèces sauvages.
+
+**Mandat**
+
+- **(3)** Les membres sont nommés pour des mandats renouvelables d’au plus quatre ans.
+
+**Statut**
+
+- **(4)** Ils ne font pas, en cette qualité, partie de l’administration publique fédérale.
+
+**Rémunération et indemnités**
+
+- **(5)** Ils peuvent recevoir la rémunération et les indemnités que fixe le ministre.
+
+**Fonctions**
+
+- **(6)** Chaque membre du COSEPAC exerce ses fonctions de façon indépendante.
+
+
+
+
+**Règlement et directives**
+
+**17** Après consultation du Conseil canadien pour la conservation des espèces en péril et du COSEPAC, le ministre peut prendre des règlements et élaborer des directives en ce qui concerne la nomination des membres et l’exécution de la mission du COSEPAC.
+
+
+
+
+**Sous-comités**
+
+**18** 
+
+- **(1)** Le COSEPAC est tenu de constituer des sous-comités de spécialistes chargés de l’assister dans l’élaboration et l’examen des rapports de situation portant sur des espèces sauvages qu’on estime être en péril — notamment des sous-comités compétents à l’égard de catégories d’espèces sauvages et un sous-comité compétent en matière de connaissances traditionnelles des peuples autochtones — et de le conseiller ou d’exercer telle de ses fonctions.
+
+**Membres**
+
+- **(2)** Les sous-comités sont présidés par un membre du COSEPAC et peuvent être composés de personnes qui n’en sont pas membres.
+
+**Sous-comité compétent en matière de connaissances traditionnelles des peuples autochtones**
+
+- **(3)** Sous réserve du paragraphe (2), le président et les membres du sous-comité compétent en matière de connaissances traditionnelles des peuples autochtones sont nommés par le ministre après consultation de toute organisation autochtone qu’il estime indiquée.
+
+
+
+
+**Règles**
+
+**19** Le COSEPAC peut établir des règles régissant la tenue de ses réunions et la conduite de ses activités en général, notamment :
+- **a)** le choix des personnes devant présider ses réunions;
+- **b)** le déroulement des réunions et les activités de ses sous-comités.
+
+
+
+
+**Personnel et installations**
+
+**20** Le ministre fournit au COSEPAC le personnel — professionnels, techniciens, secrétaires, commis et autres personnes — et les installations et fournitures qu’il estime nécessaires à l’exécution de sa mission.
+
+
+
+
+**Rapport de situation**
+
+**21** 
+
+- **(1)** L’évaluation de la situation d’une espèce sauvage par le COSEPAC se fonde obligatoirement sur le rapport de situation relatif à l’espèce qu’il a soit fait rédiger, soit reçu à l’appui d’une demande.
+
+**Contenu**
+
+- **(2)** Le ministre peut, par règlement pris après consultation du COSEPAC, du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, prévoir le contenu des rapports de situation.
+
+
+
+
+**Demandes du public**
+
+**22** 
+
+- **(1)** Toute personne peut présenter au COSEPAC une demande d’évaluation de la situation d’une espèce sauvage.
+
+**Règlements**
+
+- **(2)** Après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, le ministre peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
+
+
+
+
+**Délai d’évaluation**
+
+**23** 
+
+- **(1)** Le COSEPAC évalue, motifs à l’appui, la situation d’une espèce sauvage dans l’année suivant la réception du rapport de situation qui la concerne.
+
+**Communication au demandeur**
+
+- **(2)** Si l’évaluation fait suite à une demande, le COSEPAC la communique, motifs à l’appui, à l’auteur de la demande.
+
+
+
+
+### Révision et rapports
+
+
+
+**Révision de la classification**
+
+**24** Le COSEPAC révise la classification de chaque espèce en péril s’il a des motifs de croire que sa situation a changé de façon significative, mais en tout état de cause au moins une fois tous les dix ans.
+
+
+
+
+**Rapport au ministre et au Conseil**
+
+**25** 
+
+- **(1)** Dès qu’il termine l’évaluation de la situation d’une espèce sauvage, le COSEPAC en fournit une copie, motifs à l’appui, au ministre et au Conseil canadien pour la conservation des espèces en péril. Une copie en est mise dans le registre.
+
+**Liste du COSEPAC**
+
+- **(2)** Le COSEPAC établit annuellement une liste complète des espèces sauvages dont la situation a été évaluée depuis l’entrée en vigueur du présent article. Une copie en est mise dans le registre.
+
+**Réponse du ministre**
+
+- **(3)** Dans les quatre-vingt-dix jours suivant la réception de l’évaluation visée au paragraphe (1), le ministre est tenu de mettre dans le registre une déclaration énonçant comment il se propose de réagir à l’évaluation et, dans la mesure du possible, selon quel échéancier.
+
+
+
+
+**Rapport annuel**
+
+**26** Le COSEPAC présente annuellement au Conseil canadien pour la conservation des espèces en péril un rapport sur ses activités. Une copie en est mise dans le registre.
+
+
+
+
+### Liste des espèces en péril
+
+
+
+**Modification de la liste**
+
+**27** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier la liste conformément aux paragraphes (1.1) et (1.2) soit par l’inscription d’une espèce sauvage, soit par la reclassification ou la radiation d’une espèce sauvage inscrite et le ministre peut, par arrêté, modifier la liste conformément au paragraphe (3) de la même façon.
+
+**Gouverneur en conseil**
+
+- **(1.1)** Sous réserve du paragraphe (3), dans les neuf mois suivant la réception de l’évaluation de la situation d’une espèce faite par le COSEPAC, le gouverneur en conseil peut examiner l’évaluation et, sur recommandation du ministre :
+	- **a)** confirmer l’évaluation et inscrire l’espèce sur la liste;
+	- **b)** décider de ne pas inscrire l’espèce sur la liste;
+	- **c)** renvoyer la question au COSEPAC pour renseignements supplémentaires ou pour réexamen.
+
+**Ministre**
+
+- **(1.2)** Si le gouverneur en conseil prend des mesures en application des alinéas (1.1)b) ou c), le ministre est tenu, avec l’agrément du gouverneur en conseil, de mettre dans le registre une déclaration énonçant les motifs de la prise des mesures.
+
+**Conditions préalables à la recommandation**
+
+- **(2)** Avant de faire une recommandation à l’égard d’une espèce sauvage ou d’une espèce en péril, le ministre :
+	- **a)** prend en compte l’évaluation de la situation de l’espèce faite par le COSEPAC;
+	- **b)** consulte tout ministre compétent;
+	- **c)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, consulte le conseil.
+
+**Modification de la liste**
+
+- **(3)** Si, dans les neuf mois après avoir reçu l’évaluation de la situation de l’espèce faite par le COSEPAC, le gouverneur en conseil n’a pas pris de mesures aux termes du paragraphe (1.1), le ministre modifie, par arrêté, la liste en conformité avec cette évaluation.
+
+
+
+
+**Demandes d’évaluation : menace imminente**
+
+**28** 
+
+- **(1)** Toute personne estimant que la survie d’une espèce sauvage est menacée de façon imminente peut demander au COSEPAC d’évaluer la menace en vue de faire inscrire d’urgence l’espèce comme espèce en voie de disparition en application du paragraphe 29(1).
+
+**Renseignements joints à la demande**
+
+- **(2)** La demande doit comporter les renseignements pertinents indiquant que la survie de l’espèce est menacée de façon imminente.
+
+**Règlements**
+
+- **(3)** Le ministre, après consultation du ministre du Patrimoine canadien, du ministre des Pêches et des Océans et du Conseil canadien pour la conservation des espèces en péril, peut prendre des règlements concernant la présentation des demandes au COSEPAC en vertu du paragraphe (1) et le traitement des demandes par celui-ci.
+
+**Notification**
+
+- **(4)** Le COSEPAC remet une copie de l’évaluation à l’auteur de la demande, au ministre et au Conseil canadien pour la conservation des espèces en péril. Une copie de cette évaluation est mise dans le registre.
+
+
+
+
+**Inscription d’urgence**
+
+**29** 
+
+- **(1)** Si le ministre est d’avis que la survie d’une espèce sauvage est menacée de façon imminente, il est tenu, après consultation de tout autre ministre compétent, de recommander d’urgence au gouverneur en conseil de modifier la liste pour y inscrire l’espèce comme espèce en voie de disparition.
+
+**Fondement de l’arrêté**
+
+- **(2)** Le ministre peut fonder son avis soit sur l’information à laquelle il a accès, soit sur l’évaluation du COSEPAC.
+
+**Exclusion**
+
+- **(3)** Le décret pris en vertu du paragraphe 27(1) sur le fondement de la recommandation visée au paragraphe (1) est soustrait à l’application du paragraphe 27(2) et de l’article 3 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+**Révision**
+
+**30** 
+
+- **(1)** Dès que possible après la prise d’un décret sur le fondement de la recommandation visée au paragraphe 29(1), le COSEPAC fait préparer un rapport de situation concernant l’espèce sauvage et, au plus tard un an après la prise du décret, présente au ministre un rapport écrit comportant une des énonciations suivantes :
+	- **a)** la classification de l’espèce est confirmée;
+	- **b)** sa reclassification est recommandée au ministre;
+	- **c)** sa radiation de la liste est recommandée au ministre.
+
+**Copie du rapport**
+
+- **(2)** Dans les trente jours suivant la réception du rapport par le ministre, une copie en est mise dans le registre.
+
+
+
+
+**Modification de la liste**
+
+**31** Si le COSEPAC fait la recommandation visée aux alinéas 30(1)b) ou c), le ministre peut faire une recommandation au gouverneur en conseil concernant la modification de la liste.
+
+
+
+
+## Mesures de protection des espèces sauvages inscrites
+
+
+
+### Interdictions générales
+
+
+
+**Abattage, harcèlement, etc.**
+
+**32** 
+
+- **(1)** Il est interdit de tuer un individu d’une espèce sauvage inscrite comme espèce disparue du pays, en voie de disparition ou menacée, de lui nuire, de le harceler, de le capturer ou de le prendre.
+
+**Possession, achat, etc.**
+
+- **(2)** Il est interdit de posséder, de collectionner, d’acheter, de vendre ou d’échanger un individu — notamment partie d’un individu ou produit qui en provient — d’une espèce sauvage inscrite comme espèce disparue du pays, en voie de disparition ou menacée.
+
+**Présomption**
+
+- **(3)** Pour l’application du paragraphe (2), tout animal, toute plante ou toute chose présentée comme un individu — notamment partie d’un individu ou produit qui en provient — d’une espèce sauvage inscrite comme espèce disparue du pays, en voie de disparition ou menacée est réputée, sauf preuve contraire, être tel individu, telle partie ou tel produit.
+
+
+
+
+**Endommagement ou destruction de la résidence**
+
+**33** Il est interdit d’endommager ou de détruire la résidence d’un ou de plusieurs individus soit d’une espèce sauvage inscrite comme espèce en voie de disparition ou menacée, soit d’une espèce sauvage inscrite comme espèce disparue du pays dont un programme de rétablissement a recommandé la réinsertion à l’état sauvage au Canada.
+
+
+
+
+**Application : certaines espèces dans une province**
+
+**34** 
+
+- **(1)** S’agissant des individus d’une espèce sauvage inscrite, autre qu’une espèce aquatique ou une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), les articles 32 et 33 ne s’appliquent dans une province, ailleurs que sur le territoire domanial, que si un décret prévu au paragraphe (2) prévoit une telle application.
+
+**Décret**
+
+- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut prévoir, par décret, l’application des articles 32 et 33, ou de l’un de ceux-ci, dans une province, ailleurs que sur le territoire domanial, à l’égard des individus d’une espèce sauvage inscrite, autre qu’une espèce aquatique ou une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md).
+
+**Obligation du ministre**
+
+- **(3)** S’il estime que le droit de la province ne protège pas efficacement l’espèce ou la résidence de ses individus, le ministre est tenu de recommander au gouverneur en conseil la prise du décret.
+
+**Consultation**
+
+- **(4)** Le ministre ne recommande la prise du décret :
+	- **a)** qu’après avoir consulté le ministre provincial compétent;
+	- **b)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, qu’après avoir consulté le conseil.
+
+
+
+
+**Application : certaines espèces dans les territoires**
+
+**35** 
+
+- **(1)** Les articles 32 et 33 ne s’appliquent dans un territoire à l’égard d’une espèce sauvage inscrite que si le gouverneur en conseil, sur recommandation du ministre, prend un décret prévoyant l’application de ces articles ou de l’un de ceux-ci.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** à l’égard des individus d’une espèce aquatique et de leur habitat ou d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md);
+	- **b)** sur les terres relevant du ministre ou de l’Agence Parcs Canada.
+
+**Obligation du ministre**
+
+- **(3)** S’il estime que le droit du territoire ne protège pas efficacement cette espèce ou la résidence de ses individus, le ministre est tenu de recommander au gouverneur en conseil la prise du décret.
+
+**Consultation**
+
+- **(4)** Le ministre ne recommande la prise du décret :
+	- **a)** qu’après avoir consulté le ministre territorial compétent;
+	- **b)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, qu’après avoir consulté le conseil.
+
+
+
+
+**Interdictions : espèces provinciales ou territoriales**
+
+**36** 
+
+- **(1)** Si une espèce sauvage non inscrite est classée par un ministre provincial ou territorial comme espèce en voie de disparition ou menacée, il est interdit :
+	- **a)** de tuer un individu de cette espèce se trouvant sur le territoire domanial situé dans la province ou le territoire, de lui nuire, de le harceler, de le capturer ou de le prendre;
+	- **b)** de posséder, de collectionner, d’acheter, de vendre ou d’échanger un individu — notamment partie d’un individu ou produit qui en provient — de cette espèce se trouvant sur le territoire domanial situé dans la province ou le territoire;
+	- **c)** d’endommager ou de détruire la résidence d’un ou de plusieurs individus de cette espèce se trouvant sur le territoire domanial situé dans la province ou le territoire.
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique qu’aux parties du territoire domanial que le gouverneur en conseil désigne par décret pris sur recommandation du ministre compétent.
+
+
+
+
+### Rétablissement des espèces en voie de disparition, menacées et disparues du pays
+
+
+
+#### Programme de rétablissement
+
+
+
+**Élaboration**
+
+**37** 
+
+- **(1)** Si une espèce sauvage est inscrite comme espèce disparue du pays, en voie de disparition ou menacée, le ministre compétent est tenu d’élaborer un programme de rétablissement à son égard.
+
+**Élaboration conjointe**
+
+- **(2)** Si plusieurs ministres compétents sont responsables de l’espèce sauvage, le programme de rétablissement est élaboré conjointement par eux. Le cas échéant, la mention du ministre compétent aux articles 38 à 46 vaut mention des ministres compétents.
+
+
+
+
+**Engagements applicables**
+
+**38** Pour l’élaboration d’un programme de rétablissement, d’un plan d’action ou d’un plan de gestion, le ministre compétent tient compte de l’engagement qu’a pris le gouvernement du Canada de conserver la diversité biologique et de respecter le principe selon lequel, s’il existe une menace d’atteinte grave ou irréversible à l’espèce sauvage inscrite, le manque de certitude scientifique ne doit pas être prétexte à retarder la prise de mesures efficientes pour prévenir sa disparition ou sa décroissance.
+
+
+
+
+**Collaboration**
+
+**39** 
+
+- **(1)** Dans la mesure du possible, le ministre compétent élabore le programme de rétablissement en collaboration avec :
+	- **a)** le ministre provincial ou territorial compétent dans la province ou le territoire où se trouve l’espèce sauvage inscrite;
+	- **b)** tout ministre fédéral dont relèvent le territoire domanial ou les autres aires où se trouve l’espèce;
+	- **c)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le conseil;
+	- **d)** toute organisation autochtone qu’il croit directement touchée par le programme de rétablissement;
+	- **e)** toute autre personne ou organisation qu’il estime compétente.
+
+**Accord sur des revendications territoriales**
+
+- **(2)** Si l’espèce sauvage inscrite se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le programme de rétablissement est élaboré, dans la mesure où il s’applique à cette aire, en conformité avec les dispositions de cet accord.
+
+**Consultation**
+
+- **(3)** Le programme de rétablissement est élaboré, dans la mesure du possible, en consultation avec les propriétaires fonciers et les autres personnes que le ministre compétent croit directement touchés par le programme, notamment le gouvernement de tout autre pays où se trouve l’espèce.
+
+
+
+
+**Caractère réalisable du rétablissement**
+
+**40** Pour l’élaboration du programme de rétablissement, le ministre compétent vérifie si le rétablissement de l’espèce sauvage inscrite est réalisable au point de vue technique et biologique. Il fonde sa conclusion sur la meilleure information accessible, notamment les renseignements fournis par le COSEPAC.
+
+
+
+
+**Rétablissement réalisable**
+
+**41** 
+
+- **(1)** Si le ministre compétent conclut que le rétablissement de l’espèce sauvage inscrite est réalisable, le programme de rétablissement doit traiter des menaces à la survie de l’espèce — notamment de toute perte de son habitat — précisées par le COSEPAC et doit comporter notamment :
+	- **a)** une description de l’espèce et de ses besoins qui soit compatible avec les renseignements fournis par le COSEPAC;
+	- **b)** une désignation des menaces à la survie de l’espèce et des menaces à son habitat qui soit compatible avec les renseignements fournis par le COSEPAC, et des grandes lignes du plan à suivre pour y faire face;
+	- **c)** la désignation de l’habitat essentiel de l’espèce dans la mesure du possible, en se fondant sur la meilleure information accessible, notamment les informations fournies par le COSEPAC, et des exemples d’activités susceptibles d’entraîner sa destruction;
+	- **c.1)** un calendrier des études visant à désigner l’habitat essentiel lorsque l’information accessible est insuffisante;
+	- **d)** un énoncé des objectifs en matière de population et de dissémination visant à favoriser la survie et le rétablissement de l’espèce, ainsi qu’une description générale des activités de recherche et de gestion nécessaires à l’atteinte de ces objectifs;
+	- **e)** tout autre élément prévu par règlement;
+	- **f)** un énoncé sur l’opportunité de fournir des renseignements supplémentaires concernant l’espèce;
+	- **g)** un exposé de l’échéancier prévu pour l’élaboration d’un ou de plusieurs plans d’action relatifs au programme de rétablissement.
+
+**Rétablissement irréalisable**
+
+- **(2)** Si le ministre compétent conclut que le rétablissement de l’espèce sauvage inscrite est irréalisable, le programme de rétablissement doit comporter une description de l’espèce et de ses besoins, dans la mesure du possible, et la désignation de son habitat essentiel, ainsi que les motifs de la conclusion.
+
+**Plusieurs espèces ou écosystème**
+
+- **(3)** Pour l’élaboration du programme de rétablissement, le ministre compétent peut, s’il l’estime indiqué, traiter de plusieurs espèces simultanément ou de tout un écosystème.
+
+**Règlement**
+
+- **(4)** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)e), les éléments additionnels à inclure dans un programme de rétablissement.
+
+
+
+
+**Projet de programme de rétablissement**
+
+**42** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre compétent met le projet de programme de rétablissement dans le registre dans l’année suivant l’inscription de l’espèce sauvage comme espèce en voie de disparition ou dans les deux ans suivant l’inscription de telle espèce comme espèce menacée ou disparue du pays.
+
+**Liste des espèces en péril originale**
+
+- **(2)** En ce qui concerne les espèces sauvages inscrites à l’annexe 1 à l’entrée en vigueur de l’article 27, le ministre compétent met le projet de programme de rétablissement dans le registre dans les trois ans suivant cette date dans le cas de l’espèce sauvage inscrite comme espèce en voie de disparition ou dans les quatre ans suivant cette date dans le cas de l’espèce sauvage inscrite comme espèce menacée ou disparue du pays.
+
+
+
+
+**Observations**
+
+**43** 
+
+- **(1)** Dans les soixante jours suivant la mise du projet dans le registre, toute personne peut déposer par écrit auprès du ministre compétent des observations relativement au projet.
+
+**Texte définitif du programme de rétablissement**
+
+- **(2)** Dans les trente jours suivant la fin du délai prévu au paragraphe (1), le ministre compétent étudie les observations qui lui ont été présentées, apporte au projet les modifications qu’il estime indiquées et met le texte définitif du programme de rétablissement dans le registre.
+
+
+
+
+**Plans existants**
+
+**44** 
+
+- **(1)** Si le ministre compétent estime qu’un plan existant s’applique à l’égard d’une espèce sauvage et est conforme aux exigences des paragraphes 41(1) ou (2), et qu’il l’adopte à titre de projet de programme de rétablissement, il en met une copie dans le registre pour tenir lieu de projet de programme de rétablissement de l’espèce.
+
+**Incorporation d’un plan existant**
+
+- **(2)** Il peut incorporer toute partie d’un plan existant relatif à une espèce sauvage dans un projet de programme de rétablissement de celle-ci.
+
+
+
+
+**Modifications**
+
+**45** 
+
+- **(1)** Le ministre compétent peut modifier le programme de rétablissement. Une copie de la modification est mise dans le registre.
+
+**Modification du délai**
+
+- **(2)** Si la modification porte sur le délai pour terminer un plan d’action, le ministre compétent est tenu de fournir les motifs de la modification et de mettre une copie de ceux-ci dans le registre.
+
+**Procédure de modification**
+
+- **(3)** Les articles 39 et 43 s’appliquent, avec les adaptations nécessaires, à la modification du programme de rétablissement.
+
+**Exception**
+
+- **(4)** Le paragraphe (3) ne s’applique pas si le ministre compétent estime que la modification est mineure.
+
+
+
+
+**Suivi**
+
+**46** Il incombe au ministre compétent d’établir un rapport sur la mise en oeuvre du programme de rétablissement et sur les progrès effectués en vue des objectifs qu’il expose, à intervalles de cinq ans à compter de sa mise dans le registre, et ce, jusqu’à ce que ces objectifs soient atteints ou que le rétablissement de l’espèce ne soit plus réalisable. Il met son rapport dans le registre.
+
+
+
+
+#### Plan d’action
+
+
+
+**Élaboration**
+
+**47** Le ministre compétent responsable d’un programme de rétablissement est tenu d’élaborer un ou plusieurs plans d’action sur le fondement de celui-ci. Si plusieurs ministres compétents sont responsables du programme, les plans d’action peuvent être élaborés conjointement par eux.
+
+
+
+
+**Collaboration**
+
+**48** 
+
+- **(1)** Dans la mesure du possible, le plan d’action est élaboré en collaboration avec :
+	- **a)** le ministre provincial ou territorial compétent dans la province ou le territoire où se trouve l’espèce sauvage inscrite;
+	- **b)** tout ministre fédéral dont relèvent le territoire domanial ou les autres aires où se trouve l’espèce;
+	- **c)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le conseil;
+	- **d)** toute organisation autochtone que le ministre compétent croit directement touchée par le plan d’action;
+	- **e)** toute autre personne ou organisation qu’il estime compétente.
+
+**Accord sur des revendications territoriales**
+
+- **(2)** Si l’espèce sauvage inscrite se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le plan d’action est élaboré, dans la mesure où il s’applique à cette aire, en conformité avec les dispositions de cet accord.
+
+**Consultation**
+
+- **(3)** Le plan d’action est élaboré, dans la mesure du possible, en consultation avec les propriétaires fonciers, les locataires et les autres personnes que le ministre compétent croit directement touchés ou intéressés, notamment le gouvernement de tout autre pays où se trouve l’espèce.
+
+
+
+
+**Contenu du plan d’action**
+
+**49** 
+
+- **(1)** Le plan d’action comporte notamment, en ce qui concerne l’aire à laquelle il s’applique :
+	- **a)** la désignation de l’habitat essentiel de l’espèce dans la mesure du possible, en se fondant sur la meilleure information accessible et d’une façon compatible avec le programme de rétablissement, et des exemples d’activités susceptibles d’entraîner sa destruction;
+	- **b)** un exposé des mesures envisagées pour protéger l’habitat essentiel de l’espèce, notamment la conclusion d’accords en application de l’article 11;
+	- **c)** la désignation de toute partie de l’habitat essentiel de l’espèce qui n’est pas protégée;
+	- **d)** un exposé des mesures à prendre pour mettre en oeuvre le programme de rétablissement, notamment celles qui traitent des menaces à la survie de l’espèce et celles qui aident à atteindre les objectifs en matière de population et de dissémination, ainsi qu’une indication du moment prévu pour leur exécution;
+	- **d.1)** les méthodes à utiliser pour surveiller le rétablissement de l’espèce et sa viabilité à long terme;
+	- **e)** l’évaluation des répercussions socioéconomiques de sa mise en oeuvre et des avantages en découlant;
+	- **f)** tout autre élément prévu par règlement.
+
+**Règlement**
+
+- **(2)** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prévoir par règlement, pour l’application de l’alinéa (1)f), les éléments additionnels à inclure dans un plan d’action.
+
+
+
+
+**Projet de plan d’action**
+
+**50** 
+
+- **(1)** Le ministre compétent met le projet de plan d’action dans le registre.
+
+**Observations**
+
+- **(2)** Dans les soixante jours suivant la mise du projet dans le registre, toute personne peut déposer par écrit auprès du ministre compétent des observations relativement au projet.
+
+**Texte définitif du plan d’action**
+
+- **(3)** Dans les trente jours suivant la fin du délai prévu au paragraphe (2), le ministre compétent étudie les observations qui lui ont été présentées, apporte au projet les modifications qu’il estime indiquées et met le texte définitif du plan d’action dans le registre.
+
+**Sommaire en cas de retard**
+
+- **(4)** Si le plan d’action n’est pas terminé dans le délai prévu par le programme de rétablissement, le ministre compétent est tenu de mettre dans le registre un sommaire des éléments du plan qui sont élaborés.
+
+
+
+
+**Plans existants**
+
+**51** 
+
+- **(1)** Si le ministre compétent estime qu’un plan existant s’applique à l’égard d’une espèce sauvage et est conforme aux exigences de l’article 49, et qu’il l’adopte à titre de projet de plan d’action, il en met une copie dans le registre pour tenir lieu de projet de plan d’action à l’égard de l’espèce.
+
+**Incorporation d’un plan existant**
+
+- **(2)** Il peut incorporer toute partie d’un plan existant relatif à une espèce sauvage dans un projet de plan d’action portant sur celle-ci.
+
+
+
+
+**Modifications**
+
+**52** 
+
+- **(1)** Le ministre compétent peut modifier le plan d’action. Une copie de la modification est mise dans le registre.
+
+**Procédure de modification**
+
+- **(2)** L’article 48 s’applique, avec les adaptations nécessaires, à la modification du plan d’action.
+
+**Exception**
+
+- **(3)** Le paragraphe (2) ne s’applique pas si le ministre compétent estime que la modification est mineure.
+
+
+
+
+**Règlements**
+
+**53** 
+
+- **(1)** Le ministre compétent prend, par règlement, à l’égard des espèces aquatiques, des espèces d’oiseaux migrateurs protégées par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), où qu’elles se trouvent, ou de toute autre espèce sauvage se trouvant sur le territoire domanial, les mesures qu’il estime nécessaires pour la mise en oeuvre d’un plan d’action. Si les mesures concernent la protection de l’habitat essentiel sur le territoire domanial, les règlements sont pris en vertu de l’article 59.
+
+**Consultation**
+
+- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant de le prendre.
+
+**Consultation**
+
+- **(3)** Si le ministre compétent estime que le règlement touchera une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, il est tenu de consulter le conseil avant de le prendre.
+
+**Incorporation par renvoi**
+
+- **(4)** Les règlements peuvent incorporer par renvoi, dans la mesure où ils s’appliquent à une province ou à un territoire, toute mesure législative de la province ou du territoire, avec ses modifications successives.
+
+**Application dans les territoires**
+
+- **(5)** Si le ministre compétent estime que le règlement touchera des terres dans un territoire, il est tenu de consulter le ministre territorial avant de le prendre.
+
+**Exception**
+
+- **(6)** Le paragraphe (5) ne s’applique pas :
+	- **a)** à l’égard des individus d’une espèce aquatique ou d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), et de leur habitat;
+	- **b)** à l’égard des terres relevant du ministre ou de l’Agence Parcs Canada.
+
+
+
+
+**Pouvoirs conférés au titre d’autres lois**
+
+**54** Le ministre compétent peut, en vue de la mise en oeuvre d’un plan d’action, exercer tout pouvoir qui lui est conféré au titre d’une autre loi fédérale.
+
+
+
+
+**Suivi et rapport**
+
+**55** Cinq ans après la mise du plan d’action dans le registre, il incombe au ministre compétent d’assurer le suivi de sa mise en oeuvre et des progrès réalisés en vue de l’atteinte de ses objectifs. Il l’évalue et établit un rapport, notamment sur ses répercussions écologiques et socioéconomiques. Il met une copie de son rapport dans le registre.
+
+
+
+
+### Protection de l’habitat essentiel
+
+
+
+**Codes de pratique et normes ou directives nationales**
+
+**56** Le ministre compétent peut, après consultation du Conseil canadien pour la conservation des espèces en péril et de toute personne qu’il estime compétente, élaborer des codes de pratique et des normes ou directives nationales en matière de protection de l’habitat essentiel.
+
+
+
+
+**Objet**
+
+**57** L’article 58 a pour objet de faire en sorte que, dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel visé au paragraphe 58(1), tout l’habitat essentiel soit protégé :
+- **a)** soit par des dispositions de la présente loi ou de toute autre loi fédérale, ou une mesure prise sous leur régime, notamment les accords conclus au titre de l’article 11;
+- **b)** soit par l’application du paragraphe 58(1).
+
+
+
+
+**Destruction de l’habitat essentiel**
+
+**58** 
+
+- **(1)** Sous réserve des autres dispositions du présent article, il est interdit de détruire un élément de l’habitat essentiel d’une espèce sauvage inscrite comme espèce en voie de disparition ou menacée — ou comme espèce disparue du pays dont un programme de rétablissement a recommandé la réinsertion à l’état sauvage au Canada :
+	- **a)** si l’habitat essentiel se trouve soit sur le territoire domanial, soit dans la zone économique exclusive ou sur le plateau continental du Canada;
+	- **b)** si l’espèce inscrite est une espèce aquatique;
+	- **c)** si l’espèce inscrite est une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md).
+
+**Zone de protection**
+
+- **(2)** Si l’habitat essentiel ou une partie de celui-ci se trouve dans un parc national du Canada dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), une zone de protection marine sous le régime de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), un refuge d’oiseaux migrateurs sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) ou une réserve nationale de la faune sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), le ministre compétent est tenu, dans les quatre-vingt-dix jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, de publier dans la Gazette du Canada une description de l’habitat essentiel ou de la partie de celui-ci qui se trouve dans le parc, la zone, le refuge ou la réserve.
+
+**Application**
+
+- **(3)** Le paragraphe (1) s’applique à l’habitat essentiel ou à la partie de celui-ci visés au paragraphe (2) après les quatre-vingt-dix jours suivant la publication de sa description dans la Gazette du Canada en application de ce paragraphe.
+
+**Application**
+
+- **(4)** Le paragraphe (1) s’applique à l’habitat essentiel ou à la partie de celui-ci qui ne se trouve pas dans un lieu visé au paragraphe (2), selon ce que précise un arrêté pris par le ministre compétent.
+
+**Obligation : arrêté ou déclaration**
+
+- **(5)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, le ministre compétent est tenu, après consultation de tout autre ministre compétent, à l’égard de l’habitat essentiel ou de la partie de celui-ci qui ne se trouve pas dans un lieu visé au paragraphe (2) :
+	- **a)** de prendre l’arrêté visé au paragraphe (4), si l’habitat essentiel ou la partie de celui-ci ne sont pas protégés légalement par des dispositions de la présente loi ou de toute autre loi fédérale, ou une mesure prise sous leur régime, notamment les accords conclus au titre de l’article 11;
+	- **b)** s’il ne prend pas l’arrêté, de mettre dans le registre une déclaration énonçant comment l’habitat essentiel ou la partie de celui-ci sont protégés légalement.
+
+**Habitat d’oiseaux migrateurs**
+
+- **(5.1)** Par dérogation au paragraphe (4), en ce qui concerne l’habitat essentiel d’une espèce d’oiseaux migrateurs protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) situé hors du territoire domanial, de la zone économique exclusive ou du plateau continental du Canada ou d’un refuge d’oiseaux migrateurs visé au paragraphe (2), le paragraphe (1) ne s’applique qu’aux parties de cet habitat essentiel — constituées de tout ou partie de l’habitat auquel cette loi s’applique — précisées par le gouverneur en conseil par décret pris sur recommandation du ministre compétent.
+
+**Obligation : recommandation ou déclaration**
+
+- **(5.2)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel qui comporte tout ou partie de l’habitat auquel la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) s’applique, le ministre compétent est tenu, après consultation de tout autre ministre compétent :
+	- **a)** de faire la recommandation si, à son avis, aucune disposition de la présente loi ou de toute autre loi fédérale, ni aucune mesure prise sous leur régime, notamment les accords conclus au titre de l’article 11, ne protège légalement toute partie de l’habitat auquel cette loi s’applique;
+	- **b)** s’il ne fait pas la recommandation, de mettre dans le registre une déclaration énonçant comment est protégé légalement tout ou partie de l’habitat essentiel constitué de tout ou partie de l’habitat auquel cette loi s’applique.
+
+**Consultation**
+
+- **(6)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera des terres dans un territoire qui ne relèvent pas du ministre ou de l’Agence Parcs Canada, il est tenu de consulter le ministre territorial avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+
+**Consultation**
+
+- **(7)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+
+**Consultation**
+
+- **(8)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, il est tenu de consulter le conseil avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+
+**Consultation**
+
+- **(9)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera des terres relevant d’un autre ministre fédéral, sauf un ministre compétent, il est tenu de consulter cet autre ministre fédéral avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+
+
+
+
+**Règlements : territoire domanial**
+
+**59** 
+
+- **(1)** Sur recommandation faite par le ministre compétent après consultation de tout autre ministre compétent, le gouverneur en conseil peut, par règlement, prendre des mesures de protection de l’habitat essentiel sur le territoire domanial.
+
+**Obligation du ministre compétent**
+
+- **(2)** Le ministre compétent est tenu de faire la recommandation si, d’une part, un programme de rétablissement ou un plan d’action désigne une partie de l’habitat essentiel comme non protégée et, d’autre part, il estime qu’il est nécessaire de la protéger.
+
+**Contenu des règlements**
+
+- **(3)** Les règlements peuvent comporter des mesures visant à protéger l’habitat essentiel et d’autres interdisant les activités susceptibles de lui nuire.
+
+**Consultation**
+
+- **(4)** Si le ministre compétent estime que le règlement touchera des terres dans un territoire qui ne relèvent pas du ministre ou de l’Agence Parcs Canada, il est tenu de consulter le ministre territorial avant d’en recommander la prise.
+
+**Consultation**
+
+- **(5)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant d’en recommander la prise.
+
+**Consultation**
+
+- **(6)** Si le ministre compétent estime que le règlement touchera une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, il est tenu de consulter le conseil avant d’en recommander la prise.
+
+
+
+
+**Classification par une province ou un territoire**
+
+**60** 
+
+- **(1)** Si une espèce sauvage est classée comme espèce en voie de disparition ou menacée par un ministre provincial ou territorial, il est interdit de détruire un élément de l’habitat de cette espèce se trouvant sur le territoire domanial situé dans la province ou le territoire et désigné par le ministre provincial ou territorial comme nécessaire à la survie ou au rétablissement de l’espèce.
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique qu’aux parties de l’habitat que le gouverneur en conseil désigne par décret pris sur recommandation du ministre compétent.
+
+
+
+
+**Destruction de l’habitat essentiel**
+
+**61** 
+
+- **(1)** Il est interdit de détruire un élément de l’habitat essentiel d’une espèce en voie de disparition inscrite ou d’une espèce menacée inscrite se trouvant dans une province ou un territoire, ailleurs que sur le territoire domanial.
+
+**Non-application**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux espèces aquatiques;
+	- **b)** aux parties de l’habitat essentiel d’une espèce d’oiseaux migrateurs protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), étant l’habitat visé au paragraphe 58(5.1).
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique qu’aux parties de l’habitat essentiel que le gouverneur en conseil désigne par décret pris sur recommandation du ministre.
+
+**Pouvoir de recommandation**
+
+- **(3)** Le ministre peut faire la recommandation dans les cas suivants :
+	- **a)** un ministre provincial ou territorial a demandé qu’elle soit faite;
+	- **b)** le Conseil canadien pour la conservation des espèces en péril a recommandé qu’elle soit faite.
+
+**Obligation de recommandation**
+
+- **(4)** Le ministre est tenu de faire la recommandation s’il estime, après avoir consulté le ministre provincial ou territorial compétent :
+	- **a)** d’une part, qu’aucune disposition de la présente loi ou de toute autre loi fédérale, ni aucune mesure prise sous leur régime — notamment les accords conclus au titre de l’article 11 —, ne protègent la partie de l’habitat essentiel;
+	- **b)** d’autre part, que le droit de la province ou du territoire ne protège pas efficacement cette partie.
+
+**Expiration et prorogation**
+
+- **(5)** La durée d’application du décret visé au paragraphe (2) est de cinq ans, sauf prorogation par décret.
+
+**Recommandation d’abrogation**
+
+- **(6)** Le ministre est tenu de recommander l’abrogation du décret visé au paragraphe (2) s’il estime soit que son application n’est plus nécessaire pour la protection de la partie de l’habitat essentiel visée par le décret, soit que la province ou le territoire a pris les mesures législatives voulues pour protéger la partie visée.
+
+
+
+
+**Acquisition de terres**
+
+**62** Le ministre compétent peut conclure avec un gouvernement au Canada, une organisation ou une personne un accord pour l’acquisition de terres ou de droits sur des terres en vue de la protection de l’habitat essentiel d’une espèce en péril.
+
+
+
+
+**Rapports sur la partie non protégée de l’habitat essentiel**
+
+**63** Si le ministre estime qu’une partie de l’habitat essentiel d’une espèce sauvage inscrite n’est pas encore protégée à l’expiration d’un délai de cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action dans lequel cet habitat a été désigné, il est tenu de mettre dans le registre un rapport sur les mesures prises pour le protéger à cette date et à des intervalles de cent quatre-vingts jours par la suite jusqu’à ce que la partie visée soit protégée ou que sa désignation soit révoquée.
+
+
+
+
+**Indemnisation**
+
+**64** 
+
+- **(1)** Le ministre peut, en conformité avec les règlements, verser à toute personne une indemnité juste et raisonnable pour les pertes subies en raison des conséquences extraordinaires que pourrait avoir l’application :
+	- **a)** des articles 58, 60 ou 61;
+	- **b)** d’un décret d’urgence en ce qui concerne l’habitat qui y est désigné comme nécessaire à la survie ou au rétablissement d’une espèce sauvage.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil doit, par règlement, prendre toute mesure qu’il juge nécessaire à l’application du paragraphe (1), notamment fixer :
+	- **a)** la marche à suivre pour réclamer une indemnité;
+	- **b)** le mode de détermination du droit à indemnité, de la valeur de la perte subie et du montant de l’indemnité pour cette perte;
+	- **c)** les modalités de l’indemnisation.
+
+
+
+
+### Gestion des espèces préoccupantes
+
+
+
+**Élaboration du plan de gestion**
+
+**65** Dans le cas où une espèce sauvage est inscrite comme espèce préoccupante, le ministre compétent est tenu d’élaborer un plan de gestion comportant les mesures qu’il estime indiquées pour la conservation de l’espèce et celle de son habitat. Le plan peut s’appliquer à plus d’une espèce.
+
+
+
+
+**Collaboration**
+
+**66** 
+
+- **(1)** Dans la mesure du possible, le plan de gestion est élaboré en collaboration avec :
+	- **a)** le ministre provincial ou territorial compétent dans la province ou le territoire où se trouve l’espèce sauvage inscrite;
+	- **b)** tout ministre fédéral dont relèvent le territoire domanial ou les autres aires où se trouve l’espèce;
+	- **c)** si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le conseil;
+	- **d)** toute organisation autochtone que le ministre compétent croit directement touchée par le plan de gestion;
+	- **e)** toute autre personne ou organisation qu’il estime compétente.
+
+**Accord sur des revendications territoriales**
+
+- **(2)** Si l’espèce sauvage inscrite se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le plan de gestion est élaboré, dans la mesure où il s’applique à cette aire, en conformité avec les dispositions de cet accord.
+
+**Consultation**
+
+- **(3)** Le plan de gestion est élaboré, dans la mesure du possible, en consultation avec les propriétaires fonciers, les locataires et les autres personnes que le ministre compétent croit directement touchés ou intéressés, notamment le gouvernement de tout autre pays où se trouve l’espèce.
+
+
+
+
+**Plusieurs espèces ou écosystème**
+
+**67** Pour l’élaboration du plan de gestion, le ministre compétent peut, s’il l’estime indiqué, traiter de plusieurs espèces simultanément ou de tout un écosystème.
+
+
+
+
+**Projet de plan de gestion**
+
+**68** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre compétent met le projet de plan de gestion dans le registre dans les trois ans suivant l’inscription de l’espèce sauvage comme espèce préoccupante.
+
+**Espèces déjà inscrites**
+
+- **(2)** En ce qui concerne les espèces sauvages inscrites à l’annexe 1 à l’entrée en vigueur de l’article 27 comme espèces préoccupantes, le ministre compétent met le projet de plan de gestion dans le registre dans les cinq ans suivant cette date.
+
+**Observations**
+
+- **(3)** Dans les soixante jours suivant la mise du projet dans le registre, toute personne peut déposer par écrit auprès du ministre compétent des observations relativement au projet.
+
+**Texte définitif du plan de gestion**
+
+- **(4)** Dans les trente jours suivant la fin du délai prévu au paragraphe (3), le ministre compétent étudie les observations qui lui ont été présentées, apporte au projet les modifications qu’il estime indiquées et met le texte définitif du plan de gestion dans le registre.
+
+
+
+
+**Plans existants**
+
+**69** 
+
+- **(1)** Si le ministre compétent estime qu’un plan existant s’applique à l’égard d’une espèce sauvage et comporte les mesures voulues pour la conservation de l’espèce et de son habitat, il en met une copie dans le registre pour tenir lieu de projet de plan de gestion à l’égard de l’espèce.
+
+**Incorporation d’un plan existant**
+
+- **(2)** Il peut incorporer toute partie d’un plan existant relatif à une espèce sauvage dans un projet de plan de gestion portant sur celle-ci.
+
+
+
+
+**Modifications**
+
+**70** 
+
+- **(1)** Le ministre compétent peut modifier le plan de gestion. Une copie de la modification est mise dans le registre.
+
+**Procédure de modification**
+
+- **(2)** L’article 66 s’applique, avec les adaptations nécessaires, à la modification du plan de gestion.
+
+**Exception**
+
+- **(3)** Le paragraphe (2) ne s’applique pas si le ministre compétent estime que la modification est mineure.
+
+
+
+
+**Règlements**
+
+**71** 
+
+- **(1)** Sur recommandation du ministre compétent, le gouverneur en conseil peut, à l’égard des espèces aquatiques ou des espèces d’oiseaux migrateurs protégées par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), où qu’elles se trouvent, ou à l’égard de toute autre espèce sauvage se trouvant sur le territoire domanial, prendre les règlements qu’il estime indiqués pour la mise en oeuvre du plan de gestion.
+
+**Consultation**
+
+- **(2)** Si le ministre compétent estime que le règlement touchera une réserve ou une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), il est tenu de consulter le ministre des Affaires indiennes et du Nord canadien et la bande avant d’en recommander la prise.
+
+**Consultation**
+
+- **(3)** Si le ministre compétent estime que le règlement proposé touche une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, il est tenu de consulter le conseil avant d’en recommander la prise.
+
+**Incorporation par renvoi**
+
+- **(4)** Les règlements peuvent incorporer par renvoi, dans la mesure où ils s’appliquent à une province ou à un territoire, toute mesure législative de la province ou du territoire, avec ses modifications successives.
+
+**Application dans les territoires**
+
+- **(5)** Si le ministre compétent estime que le règlement touchera des terres dans un territoire, il est tenu de consulter le ministre territorial avant d’en recommander la prise.
+
+**Exception**
+
+- **(6)** Le paragraphe (5) ne s’applique pas :
+	- **a)** à l’égard des individus d’une espèce aquatique ou d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), et de leur habitat;
+	- **b)** à l’égard des terres relevant du ministre ou de l’Agence Parcs Canada.
+
+
+
+
+**Suivi**
+
+**72** Il incombe au ministre compétent d’assurer le suivi de la mise en oeuvre du plan de gestion et d’évaluer celle-ci cinq ans après sa mise dans le registre et à intervalles de cinq ans par la suite, jusqu’à ce que ses objectifs soient atteints. Il doit également verser au registre un rapport de chaque évaluation.
+
+
+
+
+### Accords et permis
+
+
+
+**Pouvoirs du ministre compétent**
+
+**73** 
+
+- **(1)** Le ministre compétent peut conclure avec une personne un accord l’autorisant à exercer une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, ou lui délivrer un permis à cet effet.
+
+**Activités visées**
+
+- **(2)** Cette activité ne peut faire l’objet de l’accord ou du permis que si le ministre compétent estime qu’il s’agit d’une des activités suivantes :
+	- **a)** des recherches scientifiques sur la conservation des espèces menées par des personnes compétentes;
+	- **b)** une activité qui profite à l’espèce ou qui est nécessaire à l’augmentation des chances de survie de l’espèce à l’état sauvage;
+	- **c)** une activité qui ne touche l’espèce que de façon incidente.
+
+**Conditions préalables**
+
+- **(3)** Le ministre compétent ne conclut l’accord ou ne délivre le permis que s’il estime que :
+	- **a)** toutes les solutions de rechange susceptibles de minimiser les conséquences négatives de l’activité pour l’espèce ont été envisagées et la meilleure solution retenue;
+	- **b)** toutes les mesures possibles seront prises afin de minimiser les conséquences négatives de l’activité pour l’espèce, son habitat essentiel ou la résidence de ses individus;
+	- **c)** l’activité ne mettra pas en péril la survie ou le rétablissement de l’espèce.
+
+**Raisons dans le registre**
+
+- **(3.1)** Si un accord est conclu ou un permis délivré, le ministre compétent met dans le registre les raisons pour lesquelles l’accord a été conclu ou le permis délivré, compte tenu des considérations mentionnées aux alinéas (3)a) à c).
+
+**Consultation**
+
+- **(4)** Si l’espèce se trouve dans une aire à l’égard de laquelle un conseil de gestion des ressources fauniques est habilité par un accord sur des revendications territoriales à exercer des attributions à l’égard d’espèces sauvages, le ministre compétent est tenu de consulter le conseil avant de conclure un accord ou de délivrer un permis concernant cette espèce dans cette aire.
+
+**Consultation**
+
+- **(5)** Si l’espèce se trouve dans une réserve ou sur une autre terre qui a été mise de côté à l’usage et au profit d’une bande en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), le ministre compétent est tenu de consulter la bande avant de conclure un accord ou de délivrer un permis concernant cette espèce dans la réserve ou sur l’autre terre.
+
+**Conditions**
+
+- **(6)** Le ministre compétent assortit l’accord ou le permis de toutes les conditions — régissant l’exercice de l’activité — qu’il estime nécessaires pour assurer la protection de l’espèce, minimiser les conséquences négatives de l’activité pour elle ou permettre son rétablissement.
+
+**Révision des accords et permis**
+
+- **(7)** Le ministre compétent est tenu de réviser l’accord ou le permis si un décret d’urgence est pris à l’égard de l’espèce.
+
+**Modification des accords et permis**
+
+- **(8)** Il peut révoquer ou modifier l’accord ou le permis au besoin afin d’assurer la survie ou le rétablissement d’une espèce.
+
+**Durée de validité**
+
+- **(9)** La durée maximale de validité d’un permis est de trois ans et celle d’un accord, de cinq ans.
+
+**Règlement**
+
+- **(10)** Le ministre peut par règlement, après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, régir la conclusion des accords et la délivrance des permis, ainsi que leur renouvellement, annulation, modification et suspension.
+
+
+
+
+**Autres lois fédérales : ministres compétents**
+
+**74** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris par le ministre compétent en application d’une autre loi fédérale et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
+- **a)** avant la conclusion, la délivrance ou la prise, le ministre compétent estime que les exigences des paragraphes 73(2) à (6) et (9) sont remplies;
+- **b)** après la conclusion, la délivrance ou la prise, le ministre compétent se conforme aux exigences du paragraphe 73(7).
+
+
+
+
+**Adjonction de conditions**
+
+**75** 
+
+- **(1)** Le ministre compétent peut ajouter des conditions visant la protection d’une espèce sauvage inscrite, de tout élément de son habitat essentiel ou de la résidence de ses individus à tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris par lui en application d’une autre loi fédérale et ayant pour objet d’autoriser l’exercice d’une activité touchant l’espèce, tout élément de son habitat essentiel ou la résidence de ses individus.
+
+**Modification de conditions**
+
+- **(2)** Il peut aussi annuler ou modifier les conditions d’un tel document pour protéger une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus.
+
+**Traités et accords sur des revendications territoriales**
+
+- **(3)** Pour l’exercice des pouvoirs qui lui sont conférés en vertu du présent article, le ministre compétent prend en compte les dispositions applicables des traités et des accords sur des revendications territoriales.
+
+
+
+
+**Exemption : accords ou permis existants**
+
+**76** Sur recommandation du ministre compétent, le gouverneur en conseil peut, par décret, soustraire, pendant tout ou partie de l’année suivant l’inscription d’une espèce sauvage, à l’application de l’un ou l’autre des articles 32, 33, 36, 58, 60 et 61 ou des règlements pris en vertu des articles 53, 59 ou 71 tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris en application d’une autre loi fédérale avant l’inscription de l’espèce et ayant pour objet d’autoriser l’exercice d’une activité touchant l’espèce, tout élément de son habitat essentiel ou la résidence de ses individus.
+
+
+
+
+**Permis prévus par une autre loi fédérale**
+
+**77** 
+
+- **(1)** Malgré toute autre loi fédérale, toute personne ou tout organisme, autre qu’un ministre compétent, habilité par une loi fédérale, à l’exception de la présente loi, à délivrer un permis ou une autre autorisation, ou à y donner son agrément, visant la mise à exécution d’une activité susceptible d’entraîner la destruction d’un élément de l’habitat essentiel d’une espèce sauvage inscrite ne peut le faire que s’il a consulté le ministre compétent, s’il a envisagé les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce et s’il estime, à la fois :
+	- **a)** que toutes les solutions de rechange susceptibles de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce ont été envisagées, et la meilleure solution retenue;
+	- **b)** que toutes les mesures possibles seront prises afin de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce.
+
+**Application de l’interdiction**
+
+- **(2)** Il est entendu que l’article 58 s’applique même si l’autorisation a été délivrée ou l’agrément a été donné en conformité avec le paragraphe (1).
+
+
+
+
+**Accords et permis au titre de lois provinciales ou territoriales**
+
+**78** 
+
+- **(1)** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris en application d’une loi provinciale ou territoriale par un ministre provincial ou territorial avec lequel le ministre compétent a conclu un accord au titre de l’article 10 et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
+	- **a)** avant la conclusion, la délivrance ou la prise, le ministre provincial ou territorial s’assure que les exigences des paragraphes 73(2), (3), (6) et (9) sont remplies;
+	- **b)** après la conclusion, la délivrance ou la prise, le ministre provincial ou territorial se conforme aux exigences du paragraphe 73(7).
+
+**Interprétation**
+
+- **(2)** Pour l’application du paragraphe (1), la mention du ministre compétent aux paragraphes 73(2), (3), (6) et (7) vaut, selon le cas, mention du ministre provincial ou du ministre territorial.
+
+
+
+
+### Révision des projets
+
+
+
+**Notification du ministre**
+
+**79** 
+
+- **(1)** Toute personne tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet notifie sans tarder à tout ministre compétent tout projet susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
+
+**Réalisations escomptées**
+
+- **(2)** La personne détermine les effets nocifs du projet sur l’espèce et son habitat essentiel et, si le projet est réalisé, veille à ce que des mesures compatibles avec tout programme de rétablissement et tout plan d’action applicable soient prises en vue de les éviter ou de les amoindrir et les contrôler.
+
+**Définitions**
+
+- **(3)** Les définitions qui suivent s’appliquent au présent article.
+
+***personne*** S’entend notamment d’une association de personnes ou d’une organisation et d’une autorité responsable au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+
+***projet*** S’entend au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+
+
+
+
+### Décrets d’urgence
+
+
+
+**Décrets d’urgence**
+
+**80** 
+
+- **(1)** Sur recommandation du ministre compétent, le gouverneur en conseil peut prendre un décret d’urgence visant la protection d’une espèce sauvage inscrite.
+
+**Recommandation obligatoire**
+
+- **(2)** Le ministre compétent est tenu de faire la recommandation s’il estime que l’espèce est exposée à des menaces imminentes pour sa survie ou son rétablissement.
+
+**Consultation**
+
+- **(3)** Avant de faire la recommandation, il consulte tout autre ministre compétent.
+
+**Contenu du décret**
+
+- **(4)** Le décret peut :
+	- **a)** dans le cas d’une espèce aquatique :
+		- **(i)** désigner l’habitat qui est nécessaire à la survie ou au rétablissement de l’espèce dans l’aire visée par le décret,
+		- **(ii)** imposer des mesures de protection de l’espèce et de cet habitat, et comporter des dispositions interdisant les activités susceptibles de leur nuire;
+	- **b)** dans le cas d’une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) se trouvant :
+		- **(i)** sur le territoire domanial ou dans la zone économique exclusive du Canada :
+			- **(A)** désigner l’habitat qui est nécessaire à la survie ou au rétablissement de l’espèce dans l’aire visée par le décret,
+			- **(B)** imposer des mesures de protection de l’espèce et de cet habitat, et comporter des dispositions interdisant les activités susceptibles de leur nuire,
+		- **(ii)** ailleurs que sur le territoire visé au sous-alinéa (i) :
+			- **(A)** désigner l’habitat qui est nécessaire à la survie ou au rétablissement de l’espèce dans l’aire visée par le décret,
+			- **(B)** imposer des mesures de protection de l’espèce, et comporter des dispositions interdisant les activités susceptibles de nuire à l’espèce et à cet habitat;
+	- **c)** dans le cas de toute autre espèce se trouvant :
+		- **(i)** sur le territoire domanial, dans la zone économique exclusive ou sur le plateau continental du Canada :
+			- **(A)** désigner l’habitat qui est nécessaire à la survie ou au rétablissement de l’espèce dans l’aire visée par le décret,
+			- **(B)** imposer des mesures de protection de l’espèce et de cet habitat, et comporter des dispositions interdisant les activités susceptibles de leur nuire,
+		- **(ii)** ailleurs que sur le territoire visé au sous-alinéa (i) :
+			- **(A)** désigner l’habitat qui est nécessaire à la survie ou au rétablissement de l’espèce dans l’aire visée par le décret,
+			- **(B)** comporter des dispositions interdisant les activités susceptibles de nuire à l’espèce et à cet habitat.
+
+**Exclusion**
+
+- **(5)** Les décrets d’urgence sont soustraits à l’application de l’article 3 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+**Mesures équivalentes**
+
+**81** Malgré le paragraphe 80(2), le ministre compétent n’est pas tenu de recommander la prise d’un décret d’urgence s’il estime que des mesures équivalentes ont été prises en vertu d’une autre loi fédérale pour protéger l’espèce sauvage.
+
+
+
+
+**Recommandation d’abrogation**
+
+**82** Si le ministre compétent estime que l’espèce sauvage visée par un décret d’urgence ne serait plus exposée à des menaces imminentes pour sa survie ou son rétablissement si le décret était abrogé, il est tenu de recommander au gouverneur en conseil de l’abroger.
+
+
+
+
+### Exceptions
+
+
+
+**Exceptions générales**
+
+**83** 
+
+- **(1)** Les paragraphes 32(1) et (2), l’article 33, les paragraphes 36(1), 58(1), 60(1) et 61(1), les règlements pris en vertu des articles 53, 59 ou 71 et les décrets d’urgence ne s’appliquent pas à une personne exerçant des activités :
+	- **a)** en matière soit de sécurité ou de santé publiques ou de sécurité nationale autorisées sous le régime de toute autre loi fédérale, soit de santé des animaux et des végétaux autorisées sous le régime de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md) et la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md);
+	- **b)** autorisées par un accord, un permis, une licence, un arrêté ou un autre document visé aux articles 73, 74 ou 78.
+
+**Autorisation au titre d’une autre loi**
+
+- **(2)** Toute activité interdite aux termes des paragraphes 32(1) ou (2), de l’article 33, des paragraphes 36(1), 58(1), 60(1) ou 61(1), des règlements pris en vertu des articles 53, 59 ou 71 ou d’un décret d’urgence peut être autorisée au titre d’une loi visée à l’alinéa (1)a) si la personne qui l’autorise :
+	- **a)** conclut qu’elle est nécessaire à la protection de la sécurité ou de la santé publiques — notamment celle des animaux et des végétaux — ou de la sécurité nationale;
+	- **b)** respecte, dans la mesure du possible, l’objet de la présente loi.
+
+**Exception : accords sur des revendications territoriales**
+
+- **(3)** Les paragraphes 32(1) et (2), l’article 33, les paragraphes 36(1), 58(1), 60(1) et 61(1) et les règlements pris en vertu des articles 53, 59 ou 71 ne s’appliquent pas à une personne exerçant des activités conformes aux régimes de conservation des espèces sauvages dans le cadre d’un accord sur des revendications territoriales.
+
+**Exemptions : activités autorisées**
+
+- **(4)** Les paragraphes 32(1) et (2), l’article 33, les paragraphes 36(1), 58(1), 60(1) et 61(1) ne s’appliquent pas à une personne exerçant des activités autorisées, d’une part, par un programme de rétablissement, un plan d’action ou un plan de gestion et, d’autre part, sous le régime d’une loi fédérale, notamment au titre d’un règlement pris en vertu des articles 53, 59 ou 71.
+
+**Exception supplémentaire : possession**
+
+- **(5)** Le paragraphe 32(2) et l’alinéa 36(1)b) ne s’appliquent pas à une personne qui possède un individu — notamment partie d’un individu ou produit qui en provient — d’une espèce sauvage inscrite comme espèce disparue du pays, en voie de disparition ou menacée si, selon le cas :
+	- **a)** la personne l’avait en sa possession au moment de l’inscription de l’espèce;
+	- **b)** l’individu ou l’article est utilisé par une personne autochtone à des fins cérémonielles ou médicinales, ou fait partie d’un habit cérémonial utilisé à des fins cérémonielles ou culturelles par une personne autochtone;
+	- **c)** la personne l’a légalement acquis à l’extérieur du Canada, puis l’y a importé légalement;
+	- **d)** elle en a hérité d’une personne qui avait droit à sa possession au titre de la présente loi;
+	- **e)** d’une part, elle l’a acquis dans des circonstances qui lui permettraient de se disculper au titre de l’article 100 et, d’autre part, elle ne l’a en sa possession que le temps nécessaire pour en faire don à un musée, un jardin zoologique, un établissement d’enseignement, une association scientifique ou un gouvernement;
+	- **f)** elle est un musée, un jardin zoologique, un établissement d’enseignement, une association scientifique, un gouvernement ou une personne agissant pour le compte de ces derniers et elle l’a acquis d’une personne qui avait droit à sa possession au titre de la présente loi;
+	- **g)** l’individu ou le possesseur bénéficient par ailleurs d’une exemption réglementaire.
+
+
+
+
+**Règlement**
+
+**84** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, prendre des mesures d’application de l’alinéa 83(5)g).
+
+
+
+
+## Contrôle d’application
+
+
+
+### Agents de l’autorité
+
+
+
+**Désignation**
+
+**85** 
+
+- **(1)** Le ministre compétent peut désigner, individuellement ou par catégorie, les agents de l’autorité chargés de contrôler l’application de la présente loi.
+
+**Fonctionnaires provinciaux**
+
+- **(2)** La désignation de fonctionnaires provinciaux ou territoriaux est toutefois subordonnée à l’agrément du gouvernement provincial ou territorial intéressé.
+
+**Présentation du certificat**
+
+- **(3)** Les agents sont munis d’un certificat de désignation en la forme approuvée par le ministre compétent qu’ils présentent, sur demande, au responsable ou à l’occupant du lieu visité.
+
+**Pouvoirs**
+
+- **(4)** Pour l’application de la présente loi, les agents ont tous les pouvoirs d’un agent de la paix; le ministre compétent peut toutefois restreindre ceux-ci lors de la désignation.
+
+**Exemption**
+
+- **(5)** Pour les enquêtes et autres mesures de contrôle d’application de la présente loi, le ministre compétent peut, aux conditions qu’il juge nécessaires, soustraire tout agent désigné par lui agissant dans l’exercice de ses fonctions — ainsi que toute autre personne agissant sous la direction ou l’autorité de celui-ci — à l’application de la présente loi, des règlements ou des décrets d’urgence, ou de telle de leurs dispositions.
+
+
+
+
+### Visite
+
+
+
+**Visite**
+
+**86** 
+
+- **(1)** En vue de faire observer toute disposition de la présente loi, des règlements et des décrets d’urgence, l’agent de l’autorité peut, à toute heure convenable et sous réserve du paragraphe (3), procéder à la visite de tout lieu s’il a des motifs raisonnables de croire que s’y trouve un objet visé par la disposition ou un document relatif à son application. Il peut :
+	- **a)** ouvrir ou faire ouvrir tout contenant où, à son avis, se trouve un tel objet ou document;
+	- **b)** examiner l’objet et en prélever gratuitement des échantillons;
+	- **c)** exiger la communication du document, pour examen ou reproduction totale ou partielle;
+	- **d)** saisir tout objet qui, à son avis, a servi ou donné lieu à une contravention à la disposition ou qui peut servir à la prouver.
+L’avis de l’agent doit être fondé sur des motifs raisonnables.
+
+**Moyens de transport**
+
+- **(2)** L’agent peut procéder à l’immobilisation du moyen de transport qu’il entend visiter et le faire conduire en tout lieu où il peut effectuer la visite.
+
+**Maison d’habitation**
+
+- **(3)** Dans le cas d’une maison d’habitation, l’agent ne peut procéder à la visite sans l’autorisation du responsable ou de l’occupant que s’il est muni d’un mandat.
+
+**Mandat de perquisition**
+
+- **(4)** Sur demande *ex parte*, le juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+	- **a)** les circonstances prévues au paragraphe (1) existent;
+	- **b)** la visite est nécessaire pour l’application de la présente loi, des règlements ou des décrets d’urgence;
+	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+
+**Mandat autorisant la visite d’un lieu autre qu’une maison d’habitation**
+
+- **(5)** Sur demande *ex parte*, le juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’un lieu autre qu’une maison d’habitation, s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+	- **a)** les circonstances prévues au paragraphe (1) existent;
+	- **b)** la visite est nécessaire pour l’application de la présente loi, des règlements ou des décrets d’urgence;
+	- **c)** un refus a été opposé à la visite, l’agent ne peut y procéder sans recourir à la force ou le lieu est abandonné;
+	- **d)** sous réserve du paragraphe (6), le nécessaire a été fait pour aviser le propriétaire, l’exploitant ou le responsable du lieu.
+
+**Avis non requis**
+
+- **(6)** Le juge de paix peut supprimer l’obligation d’aviser le propriétaire, l’exploitant ou le responsable du lieu s’il est convaincu soit qu’on ne peut les joindre parce qu’ils se trouvent hors de son ressort, soit qu’il n’est pas dans l’intérêt public de le faire.
+
+**Usage de la force**
+
+- **(7)** L’agent ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage.
+
+**Usage d’un système informatique**
+
+- **(8)** Au cours de la visite, l’agent peut, pour l’application de la présente loi :
+	- **a)** utiliser ou faire utiliser tout ordinateur se trouvant dans le lieu visité pour vérifier les données que celui-ci contient ou auxquelles il donne accès;
+	- **b)** à partir de ces données, reproduire ou faire reproduire un document sous forme d’imprimé ou toute autre forme intelligible;
+	- **c)** emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **d)** utiliser ou faire utiliser le matériel de reproduction pour faire des copies du document.
+
+**Obligation du responsable**
+
+- **(9)** Le responsable du lieu visité doit faire en sorte que l’agent puisse procéder aux opérations mentionnées au paragraphe (8).
+
+
+
+
+### Destination des objets saisis
+
+
+
+**Garde**
+
+**87** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4) :
+	- **a)** les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent en cas de saisie d’objets effectuée par l’agent de l’autorité en vertu de la présente loi ou d’un mandat délivré au titre du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **b)** la garde de ces objets incombe, sous réserve d’une ordonnance rendue en application de l’article 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’agent ou à la personne qu’il désigne.
+
+**Confiscation de plein droit**
+
+- **(2)** Dans le cas où leur propriétaire légitime — ou la personne qui a légitimement droit à leur possession — ne peut être identifié dans les trente jours suivant la saisie, les objets, ou le produit de leur aliénation, sont confisqués au profit de Sa Majesté du chef du Canada ou d’une province, selon que l’agent saisissant est un fonctionnaire de l’administration publique fédérale ou d’un territoire ou un fonctionnaire de la province en question.
+
+**Biens périssables**
+
+- **(3)** L’agent peut aliéner ou détruire les objets périssables saisis; le produit de l’aliénation est soit remis à leur propriétaire légitime ou à la personne qui a légitimement droit à leur possession, soit, lorsque des poursuites fondées sur la présente loi ont été intentées dans les quatre-vingt-dix jours suivant la saisie, retenu par l’agent jusqu’au règlement de l’affaire.
+
+**Remise des individus saisis**
+
+- **(4)** L’agent peut, au moment de la saisie d’un individu d’une espèce en péril, le remettre à l’état sauvage s’il l’estime encore vivant.
+
+**Abandon**
+
+- **(5)** Le propriétaire légitime de tout objet saisi peut l’abandonner au profit de Sa Majesté du chef du Canada ou d’une province.
+
+
+
+
+**Instructions pour disposition**
+
+**88** Il est disposé des objets confisqués ou abandonnés ou du produit de leur aliénation conformément aux instructions du ministre compétent.
+
+
+
+
+**Frais**
+
+**89** Le propriétaire légitime et toute personne ayant légitimement droit à la possession des objets saisis, abandonnés ou confisqués au titre de la présente loi et qui a été reconnue coupable d’une infraction à la présente loi relativement à ces objets sont solidairement responsables de toute partie des frais — liés à la visite, à l’abandon, à la saisie, à la confiscation ou à l’aliénation — supportés par Sa Majesté qui excède le produit de l’aliénation.
+
+
+
+
+### Aide à donner aux agents de l’autorité
+
+
+
+**Droit de passage**
+
+**90** L’agent de l’autorité peut, dans l’exercice des fonctions que lui confère la présente loi, pénétrer dans une propriété privée et y circuler sans encourir de poursuites pour violation du droit de propriété.
+
+
+
+
+**Aide à donner**
+
+**91** Le propriétaire ou le responsable du lieu visité en vertu de l’article 86, ainsi que quiconque s’y trouve, sont tenus :
+- **a)** de prêter à l’agent de l’autorité toute l’assistance possible dans l’exercice de ses fonctions;
+- **b)** de donner à l’agent les renseignements qu’il peut valablement exiger quant à l’exécution de la présente loi, des règlements ou des décrets d’urgence.
+
+
+
+
+**Entrave**
+
+**92** Lorsque l’agent de l’autorité agit dans l’exercice des fonctions que lui confère la présente loi, il est interdit :
+- **a)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse;
+- **b)** d’une façon générale, d’entraver son action.
+
+
+
+
+### Enquêtes
+
+
+
+**Demande d’enquête**
+
+**93** 
+
+- **(1)** Toute personne âgée d’au moins dix-huit ans et résidant au Canada peut demander au ministre compétent l’ouverture d’une enquête visant à vérifier si une infraction a été perpétrée ou si un acte concourant à la perpétration d’une infraction a été commis.
+
+**Contenu**
+
+- **(2)** La demande, établie en la forme approuvée par le ministre compétent, est accompagnée d’une affirmation ou déclaration solennelle qui énonce :
+	- **a)** les nom et adresse de l’auteur de la demande;
+	- **b)** le fait que l’auteur de la demande a au moins dix-huit ans et réside au Canada;
+	- **c)** la nature de l’infraction reprochée et le nom des personnes à qui elle est imputée;
+	- **d)** les éléments de preuve à l’appui de la demande, sous forme de bref exposé;
+	- **e)** les nom et adresse de chaque personne qui pourrait être en mesure de témoigner au sujet de l’infraction imputée, ainsi que les éléments de preuve, sous forme de bref exposé, qu’elle pourrait fournir, dans la mesure où ces renseignements sont connus de l’auteur de la demande;
+	- **f)** une description de tout document ou autre pièce dont, selon l’auteur de la demande, il faudrait tenir compte dans le cadre de l’enquête de même que, si possible, une copie de tel document;
+	- **g)** le détail de toute communication antérieure de l’auteur de la demande avec le ministre compétent au sujet de l’infraction reprochée.
+
+
+
+
+**Enquête**
+
+**94** 
+
+- **(1)** Le ministre compétent accuse réception de la demande dans les vingt jours et fait, sous réserve des paragraphes (2) et (3), enquête sur tous les éléments qu’il juge indispensables pour établir les faits relatifs à l’infraction reprochée.
+
+**Demande futile ou vexatoire**
+
+- **(2)** Le ministre compétent ne fait pas enquête s’il estime que la demande est futile ou vexatoire.
+
+**Avis de la décision de ne pas enquêter**
+
+- **(3)** S’il décide qu’une enquête n’est pas requise, le ministre compétent donne, dans les soixante jours suivant réception de la demande, un avis de la décision, motifs à l’appui, à l’auteur de la demande.
+
+**Absence d’avis**
+
+- **(4)** Le ministre compétent n’est pas tenu de donner l’avis si l’infraction reprochée dans la demande fait déjà l’objet d’une enquête indépendante de la demande.
+
+
+
+
+**Communication de documents au procureur général**
+
+**95** Le ministre compétent peut, à toute étape de l’enquête, transmettre des documents ou autres éléments de preuve au procureur général pour lui permettre de décider si une infraction a été commise ou est sur le point de l’être et de prendre les mesures de son choix.
+
+
+
+
+**Interruption ou clôture de l’enquête**
+
+**96** 
+
+- **(1)** Le ministre compétent peut interrompre ou clore l’enquête s’il estime que l’infraction reprochée ne justifie plus sa poursuite ou que ses résultats ne permettent pas de conclure à la perpétration d’une infraction.
+
+**Rapport en cas d’interruption**
+
+- **(2)** En cas d’interruption de l’enquête, il établit un rapport écrit exposant l’information recueillie, les motifs de l’interruption et les mesures qu’il a prises ou entend prendre, et en envoie copie à l’auteur de la demande; le cas échéant, il lui notifie la reprise de l’enquête.
+
+**Rapport de clôture d’enquête**
+
+- **(3)** Une fois l’enquête close, il établit un rapport écrit exposant l’information recueillie, les motifs de la clôture et les mesures qu’il a prises ou entend prendre, et en envoie copie à l’auteur de la demande et aux personnes dont la conduite a fait l’objet de l’enquête.
+
+**Renseignements personnels**
+
+- **(4)** La copie du rapport envoyée aux personnes dont la conduite a fait l’objet de l’enquête ne doit dévoiler ni les nom et adresse de l’auteur de la demande, ni aucun autre renseignement personnel à son sujet.
+
+**Absence de rapport**
+
+- **(5)** Si l’infraction reprochée fait déjà l’objet d’une enquête indépendante de la demande, il peut attendre l’interruption ou la clôture de cette enquête avant d’envoyer copie du rapport visé au paragraphe (2) ou (3).
+
+
+
+
+## Infractions et peines
+
+
+
+**Infractions**
+
+**97** 
+
+- **(1)** Quiconque contrevient aux paragraphes 32(1) ou (2), à l’article 33, aux paragraphes 36(1), 58(1), 60(1) ou 61(1), aux articles 91 ou 92, à toute disposition d’un règlement ou d’un décret d’urgence prévue par ce règlement ou ce décret ou contrevient à un accord sur des mesures de rechange conclu sous le régime de la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire :
+		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, une amende maximale de 300 000 $,
+		- **(ii)** dans le cas d’une personne morale sans but lucratif, une amende maximale de 50 000 $,
+		- **(iii)** dans le cas d’une personne physique, une amende maximale de 50 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines;
+	- **b)** par mise en accusation :
+		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, une amende maximale de 1 000 000 $,
+		- **(ii)** dans le cas d’une personne morale sans but lucratif, une amende maximale de 250 000 $,
+		- **(iii)** dans le cas d’une personne physique, une amende maximale de 250 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
+
+**Infraction : règlement ou décret**
+
+- **(2)** Le règlement ou le décret d’urgence peut préciser lesquelles de ses dispositions créent une infraction.
+
+**Récidive**
+
+- **(3)** Le montant des amendes prévues au paragraphe (1) peut être doublé en cas de récidive.
+
+**Infraction continue**
+
+- **(4)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+**Amendes cumulatives**
+
+- **(5)** En cas de déclaration de culpabilité pour une infraction visant plusieurs animaux, végétaux ou autres organismes, l’amende peut être calculée pour chacun d’eux, comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende finale infligée est alors la somme totale obtenue.
+
+**Amende supplémentaire**
+
+- **(6)** Le tribunal peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de l’infraction, lui infliger, en sus de l’amende maximale prévue par la présente loi, une amende supplémentaire correspondant à son évaluation de ces avantages.
+
+**Définition de « personne morale sans but lucratif »**
+
+- **(7)** Pour l’application des sous-alinéas (1)a)(i), (ii) et (iii) et b)(i), (ii) et (iii), ***personne morale sans but lucratif*** s’entend d’une personne morale dont aucune partie du revenu n’est payable à un propriétaire, membre ou actionnaire de celle-ci, ou ne peut par ailleurs servir au profit personnel de ceux-ci.
+
+
+
+
+**Dirigeants d’une personne morale**
+
+**98** En cas de perpétration d’une infraction par une personne morale, ceux de ses dirigeants, administrateurs, agents ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+
+**Infraction : agent ou mandataire**
+
+**99** Dans les poursuites pour infraction, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son agent ou mandataire, que celui-ci ait ou non été poursuivi.
+
+
+
+
+**Disculpation**
+
+**100** La prise de précautions voulues peut être opposée en défense à toute accusation portée au titre de la présente loi.
+
+
+
+
+**Ressort**
+
+**101** La poursuite d’une infraction peut être intentée, entendue et jugée soit au lieu de la perpétration, soit au lieu où a pris naissance l’objet de la poursuite, soit encore au lieu où l’accusé est appréhendé, se trouve ou exerce ses activités.
+
+
+
+
+**Facteurs à considérer**
+
+**102** Le tribunal détermine la peine à infliger compte tenu — en plus des principes qu’il doit prendre en considération — des facteurs suivants :
+- **a)** le dommage ou le risque de dommage que cause l’infraction;
+- **b)** le caractère intentionnel, imprudent ou fortuit de l’infraction;
+- **c)** la conclusion du tribunal selon laquelle le contrevenant a fait preuve d’incompétence, de négligence ou d’insouciance;
+- **d)** tout avantage procuré par la perpétration de l’infraction;
+- **e)** tout élément de preuve l’incitant raisonnablement à croire que le contrevenant a, dans le passé, accompli des actes contraires aux lois portant protection des espèces sauvages;
+- **f)** l’examen de toutes les sanctions applicables qui sont justifiées dans les circonstances, plus particulièrement en ce qui concerne les délinquants autochtones.
+
+
+
+
+**Confiscation**
+
+**103** 
+
+- **(1)** Sur déclaration de culpabilité du contrevenant, le tribunal peut prononcer, en sus de toute autre peine, la confiscation au profit de Sa Majesté des objets saisis ou du produit de leur aliénation.
+
+**Restitution d’un objet non confisqué**
+
+- **(2)** S’il ne prononce pas la confiscation, les objets saisis, ou le produit de leur aliénation, sont restitués au propriétaire légitime ou à la personne qui a légitimement droit à leur possession.
+
+
+
+
+**Rétention ou vente**
+
+**104** En cas de déclaration de culpabilité, les objets saisis, ou le produit de leur aliénation, peuvent être retenus jusqu’au paiement de l’amende; ces objets peuvent être vendus, s’ils ne l’ont pas déjà été, et le produit de leur aliénation peut être affecté en tout ou en partie au paiement de l’amende.
+
+
+
+
+**Ordonnance du tribunal**
+
+**105** En sus de toute autre peine et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant au contrevenant tout ou partie des obligations suivantes :
+- **a)** s’abstenir de tout acte ou activité risquant d’entraîner, selon le tribunal, la continuation de l’infraction ou la récidive;
+- **b)** prendre les mesures que le tribunal juge indiquées pour réparer ou éviter toute atteinte aux espèces sauvages résultant ou pouvant résulter de la perpétration de l’infraction;
+- **c)** faire effectuer, à des moments déterminés, une vérification environnementale par une personne appartenant à la catégorie de personnes désignée, et prendre les mesures appropriées pour remédier aux défauts constatés;
+- **d)** publier, de la façon que le tribunal juge indiquée, les faits liés à la perpétration de l’infraction;
+- **e)** exécuter des travaux d’intérêt collectif aux conditions que le tribunal estime raisonnables;
+- **f)** fournir au ministre compétent, sur demande présentée par celui-ci dans les trois ans suivant la déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime justifiés en l’occurrence;
+- **g)** indemniser le ministre compétent ou le gouvernement de la province ou du territoire, en tout ou en partie, des frais supportés ou devant être supportés pour la réparation ou la prévention des dommages résultant ou pouvant résulter de la perpétration de l’infraction;
+- **h)** verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre des recherches sur la protection de l’espèce sauvage à l’égard de laquelle l’infraction a été commise;
+- **i)** verser à un établissement d’enseignement, selon les modalités prescrites par le tribunal, une somme d’argent destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+- **j)** en garantie de l’exécution des obligations imposées au titre du présent article, fournir le cautionnement ou déposer auprès du tribunal le montant que celui-ci juge indiqué;
+- **k)** satisfaire aux autres exigences que le tribunal estime justifiées pour assurer sa bonne conduite et empêcher toute récidive.
+
+
+
+
+**Condamnation avec sursis**
+
+**106** 
+
+- **(1)** Lorsque, en vertu de l’alinéa 731(1)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), il sursoit au prononcé de la peine, le tribunal, en plus de toute ordonnance de probation rendue au titre de cette loi, peut, par ordonnance, enjoindre au contrevenant de se conformer à l’une ou plusieurs des obligations visées à l’article 105.
+
+**Prononcé de la peine**
+
+- **(2)** Sur demande de la poursuite, le tribunal peut, lorsque la personne visée par l’ordonnance ne se conforme pas aux modalités de celle-ci ou est déclarée coupable d’une autre infraction dans les trois ans qui suivent la date de l’ordonnance, prononcer la peine qui aurait pu lui être infligée s’il n’y avait pas eu sursis.
+
+
+
+
+**Prescription**
+
+**107** 
+
+- **(1)** Les poursuites visant une infraction punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date où les éléments constitutifs de l’infraction sont venus à la connaissance du ministre compétent.
+
+**Certificat**
+
+- **(2)** Le document paraissant délivré par le ministre compétent et attestant la date où les éléments sont venus à sa connaissance est admissible en preuve et fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+**Ministre provincial ou territorial**
+
+- **(3)** Au présent article, toute mention du ministre compétent vise également le ministre provincial ou le ministre territorial si le ministre compétent lui a délégué ses attributions relativement aux mesures d’application de la présente loi, des règlements ou des décrets d’urgence dans la province ou le territoire où l’infraction aurait été commise.
+
+
+
+
+## Mesures de rechange
+
+
+
+**Application**
+
+**108** 
+
+- **(1)** Le recours à des mesures de rechange à l’égard d’une personne accusée d’une infraction n’est possible, compte tenu de l’objet de la présente loi, que si les conditions suivantes sont réunies :
+	- **a)** les mesures font partie d’un programme autorisé par le procureur général après consultation du ministre compétent;
+	- **b)** une dénonciation a été déposée à l’égard de l’infraction;
+	- **c)** le procureur général, après consultation du ministre compétent, est convaincu que les mesures de rechange sont indiquées, compte tenu de la nature de l’infraction, des circonstances de sa perpétration et des éléments suivants :
+		- **(i)** la protection des espèces en péril,
+		- **(ii)** les antécédents du suspect en ce qui concerne l’observation de la présente loi,
+		- **(iii)** la question de savoir si l’infraction constitue une récidive,
+		- **(iv)** toute prétendue tentative — passée ou actuelle — d’action contraire aux objets ou exigences de la présente loi, notamment toute prétendue dissimulation de renseignements,
+		- **(v)** la question de savoir si des mesures préventives ou correctives ont été prises par le suspect — ou en son nom — à l’égard de l’infraction;
+	- **d)** le suspect demande, en conformité avec les règlements pris en vertu de l’alinéa 119a), à collaborer à la mise en oeuvre des mesures de rechange;
+	- **e)** il a conclu avec le procureur général un accord sur les mesures de rechange dans les cent quatre-vingts jours suivant la signification d’une sommation ou la délivrance d’une citation à comparaître ou la remise par lui d’une promesse de comparaître ou d’un engagement;
+	- **f)** il a été informé de son droit d’être représenté par un avocat avant de consentir à collaborer à la mise en oeuvre des mesures de rechange;
+	- **g)** il se reconnaît responsable de l’acte ou de l’omission à l’origine de l’infraction;
+	- **h)** le procureur général estime qu’il y a des preuves suffisantes justifiant des poursuites relatives à l’infraction;
+	- **i)** aucune règle de droit ne fait obstacle aux poursuites relatives à l’infraction.
+
+**Restrictions**
+
+- **(2)** Il ne peut y avoir de mesures de rechange lorsque le suspect :
+	- **a)** soit nie toute participation à la perpétration de l’infraction reprochée;
+	- **b)** soit manifeste le désir de voir déférer au tribunal toute accusation portée contre lui.
+
+**Non-admissibilité des aveux**
+
+- **(3)** Les aveux de culpabilité ou les déclarations de responsabilité faits pour pouvoir bénéficier de mesures de rechange ne sont pas admissibles en preuve dans les actions civiles ou les poursuites pénales engagées contre leur auteur.
+
+**Accusation rejetée**
+
+- **(4)** Dans le cas où il y a eu recours aux mesures de rechange, le tribunal rejette l’accusation portée contre le suspect, s’il est convaincu, selon la prépondérance des probabilités :
+	- **a)** soit que celui-ci a entièrement respecté l’accord;
+	- **b)** soit qu’il a partiellement respecté l’accord, la poursuite étant, à son avis, injuste eu égard aux circonstances et au degré d’exécution de celui-ci.
+
+**Possibilité de mesures de rechange et poursuites**
+
+- **(5)** Le recours aux mesures de rechange n’empêche pas l’exercice de poursuites dans le cadre de la présente loi.
+
+**Dénonciation**
+
+- **(6)** Le présent article n’a pas pour effet d’empêcher, s’ils sont conformes à la loi, les dénonciations, l’obtention ou la confirmation d’un acte judiciaire ou l’engagement de poursuites.
+
+
+
+
+**Conditions de l’accord**
+
+**109** 
+
+- **(1)** L’accord peut être assorti de conditions, notamment en ce qui touche :
+	- **a)** l’assujettissement du suspect à tout ou partie des obligations visées à l’article 105 ou à toute autre obligation réglementaire que le procureur général estime indiquée après consultation du ministre compétent;
+	- **b)** les frais entraînés par le contrôle du respect de l’accord.
+
+**Organisme de contrôle**
+
+- **(2)** Tout organisme gouvernemental peut contrôler le respect de l’accord.
+
+
+
+
+**Durée de l’accord**
+
+**110** L’accord entre en vigueur à la date de sa conclusion ou à la date ultérieure qui y est fixée et demeure en vigueur pendant la période — d’au plus trois ans — qui y est fixée.
+
+
+
+
+**Dépôt auprès du tribunal**
+
+**111** 
+
+- **(1)** Le procureur général consulte le ministre compétent avant de conclure un accord et, sous réserve du paragraphe (5) et dans les trente jours suivant la conclusion de l’accord, fait déposer celui-ci auprès du tribunal saisi de la dénonciation, comme partie du dossier judiciaire de la procédure auquel le public a accès.
+
+**Rapport**
+
+- **(2)** Un rapport relatif à l’application et au respect de l’accord est déposé auprès du même tribunal par le procureur général dès que les conditions dont il est assorti sont exécutées ou que les accusations ayant occasionné sa conclusion sont rejetées.
+
+**Renseignements confidentiels**
+
+- **(3)** Sous réserve du paragraphe (4), les renseignements suivants sont énoncés en annexe de l’accord ou du rapport :
+	- **a)** les secrets industriels de toute personne;
+	- **b)** les renseignements financiers, commerciaux, scientifiques ou techniques qui sont de nature confidentielle et qui sont traités comme tels de façon constante par toute personne;
+	- **c)** les renseignements dont la communication risquerait vraisemblablement de causer des pertes ou de faire réaliser des profits financiers appréciables à toute personne ou de nuire à sa compétitivité;
+	- **d)** les renseignements dont la communication risquerait vraisemblablement d’entraver des négociations menées par toute personne en vue de la conclusion de contrats ou à d’autres fins.
+
+**Entente sur les renseignements à énoncer en annexe**
+
+- **(4)** Les parties à l’accord s’entendent sur la question de savoir quels renseignements correspondent aux catégories précisées par les alinéas (3)a) à d).
+
+**Façon d’assurer le secret de l’annexe**
+
+- **(5)** L’annexe est confidentielle et n’est pas déposée auprès du tribunal.
+
+**Interdiction de communication**
+
+- **(6)** Le ministre compétent ne peut communiquer les renseignements contenus dans l’annexe que dans le cadre de l’article 117 ou de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+
+
+
+
+**Suspension d’instance**
+
+**112** 
+
+- **(1)** Par dérogation à l’article 579 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le procureur général suspend, sur dépôt de l’accord, l’instance à l’égard de l’infraction reprochée — ou demande au tribunal de l’ajourner — jusqu’au plus tard un an après l’expiration de l’accord.
+
+**Reprise de l’instance**
+
+- **(2)** Il peut reprendre l’instance suspendue, sans que soit nécessaire une nouvelle dénonciation ou un nouvel acte d’accusation, selon le cas, simplement en donnant avis au greffier du tribunal où elle a été suspendue; cependant, lorsqu’un tel avis n’est pas donné dans l’année qui suit l’expiration de l’accord, la poursuite est réputée n’avoir jamais été engagée.
+
+
+
+
+**Demande de modification de l’accord**
+
+**113** 
+
+- **(1)** Sur demande de la personne liée par un accord, le procureur général peut, sous réserve des paragraphes 111(2) et (3) et après consultation du ministre compétent, modifier les conditions de l’accord dans le sens qui lui paraît justifié par tout changement important en l’espèce depuis la conclusion ou la dernière modification de l’accord :
+	- **a)** soit en raccourcissant sa période de validité;
+	- **b)** soit en dégageant la personne, absolument, partiellement ou pour une durée limitée, de l’obligation de se conformer à telle de ses conditions.
+
+**Dépôt de l’accord modifié**
+
+- **(2)** L’accord modifié est déposé en conformité avec l’article 111 auprès du tribunal devant lequel il a initialement été déposé.
+
+
+
+
+**Dossier des suspects**
+
+**114** Les articles 115 à 117 ne s’appliquent qu’aux personnes qui ont conclu un accord, qu’elles se conforment ou non aux conditions de cet accord.
+
+
+
+
+**Communication par un agent de la paix ou un agent de l’autorité**
+
+**115** L’agent de la paix ou l’agent de l’autorité peut communiquer à tout ministère ou organisme public canadien l’information contenue dans le dossier relatif à une infraction qu’aurait commise une personne, notamment l’original ou une reproduction des empreintes digitales ou de toute photographie de celle-ci, si la communication s’impose pour la conduite d’une enquête sur l’infraction.
+
+
+
+
+**Dossiers gouvernementaux**
+
+**116** 
+
+- **(1)** Le ministre compétent, les agents de l’autorité et tout ministère ou organisme public canadien avec qui le ministre compétent a conclu un accord en vertu de l’article 10 peuvent conserver les dossiers qui sont en leur possession par suite du recours à des mesures de rechange et utiliser l’information qu’ils contiennent pour les besoins :
+	- **a)** d’une visite faite en vertu de la présente loi ou d’une enquête sur une infraction;
+	- **b)** d’une poursuite engagée contre une personne sous le régime de la présente loi;
+	- **c)** de l’administration de programmes de mesures de rechange;
+	- **d)** de l’application de la présente loi en général.
+
+**Dossiers privés**
+
+- **(2)** Toute personne ou organisation peut conserver les dossiers qui sont en sa possession par suite du contrôle du respect de l’accord et utiliser l’information qu’ils contiennent dans le cadre de ce contrôle.
+
+
+
+
+**Accès au dossier**
+
+**117** 
+
+- **(1)** Ont accès à tout dossier visé aux articles 115 ou 116 :
+	- **a)** tout juge ou tribunal, dans le cadre de poursuites relatives à des infractions — à la présente loi ou à d’autres lois — commises par la personne visée par le dossier ou qui lui sont imputées;
+	- **b)** un agent de la paix, un agent de l’autorité ou un poursuivant, dans le cadre :
+		- **(i)** d’une enquête sur une infraction — à la présente loi ou à une autre loi — que l’on soupçonne, pour des motifs raisonnables, d’avoir été commise par cette personne ou relativement à laquelle elle a été arrêtée ou inculpée,
+		- **(ii)** de l’administration de l’affaire visée par le dossier;
+	- **c)** tout mandataire ou membre du personnel d’un ministère ou d’un organisme public canadien chargé :
+		- **(i)** de l’application de mesures de rechange concernant la personne,
+		- **(ii)** de l’établissement d’un rapport sur celle-ci en application de la présente loi;
+	- **d)** toute autre personne — individuellement ou au titre de son appartenance à une catégorie déterminée — qui s’engage par écrit à s’abstenir de toute communication postérieure, sauf en conformité avec le paragraphe (2), et que le juge d’un tribunal estime avoir un intérêt valable dans le dossier selon la mesure qu’il détermine s’il est convaincu que la communication est souhaitable, selon le cas :
+		- **(i)** dans l’intérêt public, à des fins statistiques ou de recherche,
+		- **(ii)** dans l’intérêt de la bonne administration de la justice.
+
+**Révélation postérieure**
+
+- **(2)** Quiconque ayant, aux termes de l’alinéa (1)d), accès à un dossier peut postérieurement communiquer l’information qui y est contenue, mais seulement d’une manière qui, normalement, ne permet pas d’identifier la personne en cause.
+
+**Communication d’information et de copies**
+
+- **(3)** Les personnes qui peuvent, en vertu du présent article, avoir accès à un dossier ont le droit d’obtenir tout extrait de celui-ci ou toute l’information s’y trouvant.
+
+**Production en preuve**
+
+- **(4)** Le présent article n’autorise pas la production en preuve des pièces d’un dossier qui, par ailleurs, ne seraient pas admissibles en preuve.
+
+**Exception**
+
+- **(5)** Il est entendu que le présent article ne s’applique pas à l’accord — notamment dans sa version modifiée — ou au rapport déposé auprès du tribunal en conformité avec l’article 111.
+
+
+
+
+**Accord d’échange d’information**
+
+**118** Le ministre compétent peut conclure avec un ministère ou un organisme public canadien un accord visant l’échange d’information en vue de l’administration des mesures de rechange et de l’établissement d’un rapport concernant le respect par une personne d’un accord sur les mesures de rechange.
+
+
+
+
+**Règlements**
+
+**119** Le ministre compétent peut prendre des règlements concernant les mesures de rechange qui peuvent être prises pour l’application de la présente loi, notamment des règlements visant :
+- **a)** les modalités de forme, de présentation et de contenu de la demande en vue de collaborer à la mise en oeuvre de mesures de rechange, le délai imparti pour la présenter et les documents qui doivent l’accompagner;
+- **b)** les modalités d’établissement et de dépôt des rapports relatifs à l’application et au respect des accords;
+- **c)** les catégories et les modalités de paiement des frais entraînés par le contrôle du respect des accords;
+- **d)** les conditions dont peuvent être assortis les accords et les obligations qu’elles imposent.
+
+
+
+
+## Registre
+
+
+
+**Établissement du registre**
+
+**120** Le ministre établit un registre public afin de faciliter l’accès aux documents traitant des questions régies par la présente loi.
+
+
+
+
+**Règlements**
+
+**121** Sur recommandation faite par le ministre après consultation du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut, par règlement, fixer les modalités de forme et de tenue du registre, ainsi que les modalités d’accès à celui-ci.
+
+
+
+
+**Immunité**
+
+**122** Malgré toute autre loi fédérale, Sa Majesté du chef du Canada de même que le ministre, le ministre du Patrimoine canadien et le ministre des Pêches et des Océans ainsi que les personnes qui agissent en leur nom ou sous leurs ordres bénéficient de l’immunité en matière civile ou pénale pour la communication totale ou partielle d’un avis ou autre document faite de bonne foi par la voie du registre ainsi que pour les conséquences qui en découlent.
+
+
+
+
+**Documents à mettre dans le registre**
+
+**123** Le registre comporte les documents qui doivent y être mis en application de la présente loi et une copie des documents suivants :
+- **a)** les règlements, décrets et arrêtés pris en vertu de la présente loi;
+- **b)** les accords conclus en application de l’article 10;
+- **c)** les critères établis par le COSEPAC pour la classification des espèces sauvages;
+- **d)** les rapports de situation relatifs aux espèces sauvages que le COSEPAC a soit fait rédiger, soit reçu à l’appui d’une demande;
+- **e)** la Liste des espèces en péril;
+- **f)** les codes de pratique et les normes ou directives nationales élaborés sous le régime de la présente loi;
+- **g)** soit les accords — dans leurs versions successives — et les rapports visés à l’article 111 ou au paragraphe 113(2), soit un avis portant que ces accords ou rapports ont été déposés auprès du tribunal et sont donc accessibles au public;
+- **h)** tout rapport établi aux termes des articles 126 et 128.
+
+
+
+
+**Limitation de la communication de certains renseignements**
+
+**124** Sur l’avis du COSEPAC, le ministre peut limiter la communication de tout renseignement mis dans le registre si ce renseignement concerne l’aire où se trouve une espèce sauvage ou son habitat et si la limitation de sa divulgation est à l’avantage de cette espèce.
+
+
+
+
+## Frais et droits
+
+
+
+**Règlements**
+
+**125** 
+
+- **(1)** Sur recommandation du ministre et du président du Conseil du Trésor, faite après consultation par le ministre du ministre du Patrimoine canadien et du ministre des Pêches et des Océans, le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant les frais et droits, ou leur mode de calcul, qui peuvent être imposés pour les accords et les permis visés à l’article 73, notamment pour leur renouvellement ou modification, de même que pour la mise de tout document dans le registre ou l’obtention d’une copie d’un document qui s’y trouve;
+	- **b)** exemptant certaines personnes ou catégories de personnes de l’obligation de paiement;
+	- **c)** concernant toute condition ou autre question se rapportant au paiement des frais ou des droits.
+
+**Recouvrement**
+
+- **(2)** Les frais et droits réglementaires constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+
+
+
+
+## Rapports et examen de la loi
+
+
+
+**Rapport annuel au Parlement**
+
+**126** Le ministre établit chaque année un rapport sur l’application de la présente loi au cours de la précédente année civile. Il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son achèvement. Ce rapport comporte un sommaire relativement aux objets suivants :
+- **a)** les évaluations faites par le COSEPAC et la réponse du ministre à chacune de ces évaluations;
+- **b)** l’élaboration et la mise en oeuvre des programmes de rétablissement, des plans d’action et des plans de gestion;
+- **c)** les accords conclus en vertu des articles 10 à 13;
+- **d)** les accords conclus et les permis délivrés en vertu de l’article 73, modifiés en vertu de l’article 75, et les exonérations prévues à l’article 76;
+- **e)** les activités d’application et d’observation de la présente loi, y compris la suite donnée aux demandes d’enquête;
+- **f)** les règlements, décrets et arrêtés d’urgence pris en vertu de la présente loi;
+- **g)** tout autre sujet que le ministre juge pertinent.
+
+
+
+
+**Organisation de tables rondes**
+
+**127** 
+
+- **(1)** Le ministre organise au moins tous les deux ans une table ronde réunissant des personnes concernées par les questions de protection des espèces sauvages en péril au Canada et chargée de l’aviser sur ces questions.
+
+**Mise dans le registre**
+
+- **(2)** Les recommandations faites par écrit par la table ronde et présentées au ministre sont mises dans le registre.
+
+**Réponse du ministre**
+
+- **(3)** Le ministre répond aux recommandations dans les cent quatre-vingts jours suivant leur réception. Une copie de sa réponse est mise dans le registre.
+
+
+
+
+**Rapport sur la situation des espèces sauvages**
+
+**128** Cinq ans après l’entrée en vigueur du présent article, et à intervalles de cinq ans par la suite, le ministre établit un rapport général sur la situation des espèces sauvages. Il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son achèvement.
+
+
+
+
+**Examen de la loi**
+
+**129** Cinq ans après l’entrée en vigueur du présent article, le comité de la Chambre des communes, du Sénat ou des deux chambres désigné ou constitué à cette fin entreprend l’examen de l’application de la présente loi.
+
+
+
+
+## Évaluation des espèces sauvages figurant aux annexes
+
+
+
+**Évaluation de la situation**
+
+**130** 
+
+- **(1)** Le COSEPAC évalue la situation de chaque espèce sauvage visée aux annexes 2 ou 3 ainsi que, dans le cadre de l’évaluation, signale les menaces réelles ou potentielles à son égard et établit, selon le cas :
+	- **a)** que l’espèce est disparue, disparue du pays, en voie de disparition, menacée ou préoccupante;
+	- **b)** qu’il ne dispose pas de l’information voulue pour la classifier;
+	- **c)** que l’espèce n’est pas actuellement en péril.
+
+**Délai d’évaluation : annexe 2**
+
+- **(2)** Dans le cas d’une espèce visée à l’annexe 2, l’évaluation doit être terminée dans les trente jours suivant l’entrée vigueur de l’article 14.
+
+**Présomption de classification**
+
+- **(3)** Si l’évaluation d’une espèce visée à l’annexe 2 n’est pas terminée dans le délai imparti ou prorogé, le COSEPAC est réputé avoir classifié cette espèce selon ce qui est indiqué à cette annexe.
+
+**Délai d’évaluation : annexe 3**
+
+- **(4)** Dans le cas d’une espèce visée à l’annexe 3, l’évaluation doit être terminée dans l’année suivant la date à laquelle le ministre compétent en fait la demande. Si plusieurs ministres compétents sont responsables de l’espèce, la demande est présentée conjointement par eux.
+
+**Prorogation**
+
+- **(5)** Sur recommandation faite par le ministre après consultation de tout ministre compétent, le gouverneur en conseil peut, par décret, proroger le délai prévu pour l’évaluation d’une espèce visée aux annexes 2 ou 3. Le ministre met dans le registre une déclaration énonçant les motifs de la prorogation.
+
+**Dispositions applicables**
+
+- **(6)** Les paragraphes 15(2) et (3) et 21(1) et l’article 25 s’appliquent à l’évaluation faite au titre du paragraphe (1).
+
+**Rapports récents**
+
+- **(7)** Le COSEPAC peut, pour l’évaluation d’une espèce sauvage, prendre en compte et se fonder sur tout rapport portant sur l’espèce qui a été élaboré dans les deux ans précédant la sanction de la présente loi.
+
+
+
+
+**Application de l’article 27**
+
+**131** L’article 27 s’applique à l’égard d’une espèce sauvage visée à l’article 130 que le COSEPAC classe comme espèce disparue, disparue du pays, en voie de disparition, menacée ou préoccupante ou qu’il est réputé avoir classée ainsi.
+
+
+
+
+**Délais : programme de rétablissement**
+
+**132** Si l’inscription d’une espèce sauvage par le gouverneur en conseil découle d’une évaluation faite par le COSEPAC en application de l’article 130, le programme de rétablissement est élaboré dans les trois ans suivant l’inscription en ce qui concerne une espèce en voie de disparition et dans les quatre ans en ce qui concerne une espèce menacée.
+
+
+
+
+**Délai : plan de gestion**
+
+**133** Si l’inscription d’une espèce sauvage comme espèce préoccupante par le gouverneur en conseil découle d’une évaluation faite par le COSEPAC en application de l’article 130, le plan de gestion est élaboré dans les cinq ans suivant l’inscription.
+
+
+
+
+## Modifications connexes
+
+
+**134 à 141** [Modifications]
+
+
+
+
+## Disposition de coordination
+
+
+**141.1** [Modification]
+
+
+
+
+## Entrée en vigueur
+
+
+
+**Décret**
+
+<sup><a href='#S-15.3_fr_1'>[*]</a></sup>**142** Les dispositions de la présente loi, à l’exception de l’article 141.1, entrent en vigueur à la date ou aux dates fixées par décret.
+
+<a name='S-15.3_fr_1'><sup>*</sup></a>: [Note : Article 141.1 en vigueur à la sanction le 12 décembre 2002.]<br />
+
+
+
+
+### **ANNEXE 1** 
+**(paragraphes 2(1), 42(2) et 68(2))**
+## Liste des espèces en péril
+
+**PARTIE 1** 
+### Espèces disparues du pays
+
+
+
+##### Mammifères
+
+Baleine grise de Californie (*Eschrichtius robustus*) population de l’Atlantique<br />- <i>Whale, Grey Atlantic population</i>
+
+Morse de l’Atlantique (*Odobenus rosmarus rosmarus*) population de l’Atlantique Nord-Ouest<br />- <i>Walrus, Atlantic Northwest Atlantic population</i>
+
+Ours grizzli (*Ursus arctos*) population des Prairies<br />- <i>Bear, Grizzly Prairie population</i>
+
+Putois d’Amérique (*Mustela nigripes*)<br />- <i>Ferret, Black-footed</i>
+
+
+
+
+##### Oiseaux
+
+Tétras des armoises (*Centrocercus urophasianus phaios*) population de la Colombie-Britannique<br />- <i>Grouse, Sage British Columbia population</i>
+
+Tétras des prairies (*Tympanuchus cupido*)<br />- <i>Prairie-Chicken, Greater</i>
+
+
+
+
+##### Amphibiens
+
+Salamandre tigrée (*Ambystoma tigrinum*) population des Grands Lacs<br />- <i>Salamander, Tiger Great Lakes population</i>
+
+
+
+
+##### Reptiles
+
+Crotale des bois (*Crotalus horridus*)<br />- <i>Rattlesnake, Timber</i>
+
+Iguane pygmée à cornes courtes (*Phrynosoma douglassii douglassii*) population de la Colombie-Britannique<br />- <i>Lizard, Pygmy Short-horned British Columbia population</i>
+
+
+
+
+##### Poissons
+
+Gravelier (*Erimystax x-punctatus*)<br />- <i>Chub, Gravel</i>
+
+Spatulaire (*Polyodon spathula*)<br />- <i>Paddlefish</i>
+
+
+
+
+##### Mollusques
+
+Alasmidonte naine (*Alasmidonta heterodon*)<br />- <i>Wedgemussel, Dwarf</i>
+
+
+
+
+##### Lépidoptères
+
+Lutin givré (*Callophrys irus, Incisalia irus*)<br />- <i>Elfin, Frosted</i>
+
+Marbré insulaire (*Euchloe ausonides*)<br />- <i>Marble, Island</i>
+
+Mélissa bleu (*Lycaeides melissa samuelis*)<br />- <i>Blue, Karner</i>
+
+
+
+
+##### Plantes
+
+Collinsie printanière (*Collinsia verna*)<br />- <i>Mary, Spring Blue-eyed</i>
+
+Desmodie d’Illinois (*Desmodium illinoense*)<br />- <i>Tick-trefoil, Illinois</i>
+
+
+
+**PARTIE 2** 
+### Espèces en voie de disparition
+
+
+
+##### Mammifères
+
+Blaireau d’Amérique, jacksoni (*Taxidea taxus jacksoni*)<br />- <i>Badger jacksoni subspecies, American</i>
+
+Blaireau d’Amérique, jeffersonii (*Taxidea taxus jeffersonii*)<br />- <i>Badger jeffersonii subspecies, American</i>
+
+Caribou des bois (*Rangifer tarandus caribou*) population de la Gaspésie — Atlantique<br />- <i>Caribou, Woodland Atlantic — Gaspésie population</i>
+
+Épaulard (*Orcinus orca*) population résidente du Sud du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific southern resident population</i>
+
+Marmotte de l’île Vancouver (*Marmota vancouverensis*)<br />- <i>Marmot, Vancouver Island</i>
+
+Martre d’Amérique (*Martes americana atrata*) population de Terre-Neuve<br />- <i>Marten, American Newfoundland population</i>
+
+Renard véloce (*Vulpes velox*)<br />- <i>Fox, Swift</i>
+
+
+
+
+##### Oiseaux
+
+Bruant de Henslow (*Ammodramus henslowii*)<br />- <i>Sparrow, Henslow’s</i>
+
+Chevêche des terriers (*Speotyto cunicularia*)<br />- <i>Owl, Burrowing</i>
+
+Chouette tachetée du Nord (*Strix occidentalis caurina*)<br />- <i>Owl, Northern Spotted</i>
+
+Courlis esquimau (*Numenius borealis*)<br />- <i>Curlew, Eskimo</i>
+
+Effraie des clochers (*Tyto alba*) population de l’Est<br />- <i>Owl, Barn Eastern population</i>
+
+Grue blanche (*Grus americana*)<br />- <i>Crane, Whooping</i>
+
+Moqueur des armoises (*Oreoscoptes montanus*)<br />- <i>Thrasher, Sage</i>
+
+Moucherolle vert (*Empidonax virescens*)<br />- <i>Flycatcher, Acadian</i>
+
+Paruline de Kirtland (*Dendroica kirtlandii*)<br />- <i>Warbler, Kirtland’s</i>
+
+Paruline orangée (*Protonotaria citrea*)<br />- <i>Warbler, Prothonotary</i>
+
+Paruline polyglotte de l’Ouest (*Icteria virens auricollis*) population de la Colombie-Britannique<br />- <i>Chat, Western Yellow-breasted British Columbia population</i>
+
+Pic à tête blanche (*Picoides albolarvatus*)<br />- <i>Woodpecker, White-headed</i>
+
+Pie-grièche migratrice de l’Est (*Lanius ludovicianus migrans*)<br />- <i>Shrike, Eastern Loggerhead</i>
+
+Pluvier montagnard (*Charadrius montanus*)<br />- <i>Plover, Mountain</i>
+
+Pluvier siffleur, circumcinctus (*Charadrius melodus circumcinctus*)<br />- <i>Plover circumcinctus subspecies, Piping</i>
+
+Pluvier siffleur, melodus (*Charadrius melodus melodus*)<br />- <i>Plover melodus subspecies, Piping</i>
+
+Râle élégant (*Rallus elegans*)<br />- <i>Rail, King</i>
+
+Sterne de Dougall (*Sterna dougallii*)<br />- <i>Tern, Roseate</i>
+
+Tétras des armoises (*Centrocercus urophasianus urophasianus*) population des Prairies<br />- <i>Grouse, Sage Prairie population</i>
+
+
+
+
+##### Amphibiens
+
+Grenouille léopard (*Rana pipiens*) population des montagnes du Sud<br />- <i>Frog, Northern Leopard Southern Mountain population</i>
+
+Grenouille maculée de l’Oregon (*Rana pretiosa*)<br />- <i>Frog, Oregon Spotted</i>
+
+Grenouille-à-queue des Rocheuses (*Ascaphus montanus*)<br />- <i>Frog, Rocky Mountain Tailed</i>
+
+Rainette grillon (*Acris crepitans*)<br />- <i>Frog, Northern Cricket</i>
+
+Salamandre tigrée (*Ambystoma tigrinum*) population des montagnes du Sud<br />- <i>Salamander, Tiger Southern Mountain population</i>
+
+
+
+
+##### Reptiles
+
+Couleuvre à queue fine (*Contia tenuis*)<br />- <i>Snake, Sharp-tailed</i>
+
+Couleuvre nocturne (*Hypsiglena torquata*)<br />- <i>Snake, Night</i>
+
+Tortue luth (*Dermochelys coriacea*)<br />- <i>Turtle, Leatherback</i>
+
+
+
+
+##### Poissons
+
+Corégone de l’Atlantique (*Coregonus huntsmani*)<br />- <i>Whitefish, Atlantic</i>
+
+Épinoche benthique du lac Paxton (*Gasterosteus* sp.)<br />- <i>Stickleback, Benthic Paxton Lake</i>
+
+Épinoche benthique du ruisseau Vananda (*Gasterosteus* sp.)<br />- <i>Stickleback, Benthic Vananda Creek</i>
+
+Épinoche limnétique du lac Paxton (*Gasterosteus* sp.)<br />- <i>Stickleback, Limnetic Paxton Lake</i>
+
+Épinoche limnétique du ruisseau Vananda (*Gasterosteus* sp.)<br />- <i>Stickleback, Limnetic Vananda Creek</i>
+
+Lamproie du ruisseau Morrison (*Lampetra richardsoni*)<br />- <i>Lamprey, Morrison Creek</i>
+
+Naseux de Nooksack (*Rhinichthys* sp.)<br />- <i>Dace, Nooksack</i>
+
+Omble Aurora (*Salvelinus fontinalis timagamiensis*)<br />- <i>Trout, Aurora</i>
+
+Saumon d’Atlantique (*Salmo salar*) populations de l’intérieur de la baie de Fundy<br />- <i>Salmon, Atlantic Inner Bay of Fundy populations</i>
+
+
+
+
+##### Mollusques
+
+Dysnomie ventrue jaune (*Epioblasma torulosa rangiana*)<br />- <i>Riffleshell, Northern</i>
+
+Epioblasme tricorn (*Epioblasma triquetra*)<br />- <i>Snuffbox</i>
+
+Lampsile fasciolée (*Lampsilis fasciola*)<br />- <i>Lampmussel, Wavy-rayed</i>
+
+Mulette du Necturus (*Simpsonais ambigua*)<br />- <i>Mussel, Mudpuppy</i>
+
+Physe d’eau chaude (*Physella wrighti*)<br />- <i>Physa, Hotwater</i>
+
+Physe des fontaines de Banff (*Physella johnsoni*)<br />- <i>Snail, Banff Springs</i>
+
+Villeuse haricot (*Villosa fabalis*)<br />- <i>Bean, Rayed</i>
+
+
+
+
+##### Lépidoptères
+
+Bleu insulaire (*Plebejus saepiolus insulanus*)<br />- <i>Blue, Island</i>
+
+Damier de Taylor (*Euphydryas editha taylori*)<br />- <i>Checkerspot, Taylor’s</i>
+
+Satyre fauve des Maritimes (*Coenonympha tullia nipisiquit*)<br />- <i>Ringlet, Maritime</i>
+
+
+
+
+##### Plantes
+
+Adiante cheveux-de-Vénus (*Adiantum capillus-veneris*)<br />- <i>Fern, Southern Maidenhair</i>
+
+Ammannie robuste (*Ammannia robusta*)<br />- <i>Ammania, Scarlet</i>
+
+Balsamorhize à feuilles deltoïdes (*Balsamorhiza deltoidea*)<br />- <i>Balsamroot, Deltoid</i>
+
+Benoîte de Peck (*Geum peckii*)<br />- <i>Avens, Eastern Mountain</i>
+
+Braya de Long (*Braya longii*)<br />- <i>Braya, Long’s</i>
+
+Buchnera d’Amérique (*Buchnera americana*)<br />- <i>Bluehearts</i>
+
+Carex des genévriers (*Carex juniperorum*)<br />- <i>Sedge, Juniper</i>
+
+Carex faux-lupulina (*Carex lupuliformis*)<br />- <i>Sedge, False Hop</i>
+
+Castilléjie dorée (*Castilleja levisecta*)<br />- <i>Paintbrush, Golden</i>
+
+Chardon de Pitcher (*Cirsium pitcheri*)<br />- <i>Thistle, Pitcher’s</i>
+
+Chimaphile maculé (*Chimaphila maculata*)<br />- <i>Wintergreen, Spotted</i>
+
+Cimicaire élevée (*Cimicifuga elata*)<br />- <i>Bugbane, Tall</i>
+
+Coréopsis rose (*Coreopsis rosea*)<br />- <i>Coreopsis, Pink</i>
+
+Cryptanthe minuscule (*Cryptantha minima*)<br />- <i>Cryptanthe, Tiny</i>
+
+Cypripède blanc (*Cypripedium candidum*)<br />- <i>Lady’s-slipper, Small White</i>
+
+Droséra filiforme (*Drosera filiformis*)<br />- <i>Sundew, Thread-leaved</i>
+
+Éléocharide fausse-prêle (*Eleocharis equisetoides*)<br />- <i>Spike-rush, Horsetail</i>
+
+Gentiane blanche (*Gentiana alba*)<br />- <i>Gentian, White Prairie</i>
+
+Gérardie de Gattinger (*Agalinis gattingeri*)<br />- <i>Agalinis, Gattinger’s</i>
+
+Gérardie de Skinner (*Agalinis skinneriana*)<br />- <i>Agalinis, Skinner’s</i>
+
+Ginseng à cinq folioles (*Panax quinquefolium*)<br />- <i>Ginseng, American</i>
+
+Isoète d’Engelmann (*Isoëtes engelmannii*)<br />- <i>Quillwort, Engelmann’s</i>
+
+Isotrie fausse-médéole (*Isotria medeoloides*)<br />- <i>Pogonia, Small Whorled</i>
+
+Isotrie verticillée (*Isotria verticillata*)<br />- <i>Pogonia, Large Whorled</i>
+
+Lespédèze de Virginie (*Lespedeza virginica*)<br />- <i>Bush-Clover, Slender</i>
+
+Liparis à feuilles de lis (*Liparis liliifolia*)<br />- <i>Twayblade, Purple</i>
+
+Lotier splendide (*Lotus formosissimus*)<br />- <i>Lotus, Seaside Birds-foot</i>
+
+Lupin élégant (*Lupinus lepidus* var. *lepidus*)<br />- <i>Lupine, Prairie</i>
+
+Magnolia acuminé (*Magnolia acuminata*)<br />- <i>Tree, Cucumber</i>
+
+Mûrier rouge (*Morus rubra*)<br />- <i>Mulberry, Red</i>
+
+Oponce de l’Est (*Opuntia humifusa*)<br />- <i>Cactus, Eastern Prickly Pear</i>
+
+Pédiculaire de Furbish (*Pedicularis furbishiae*)<br />- <i>Lousewort, Furbish’s</i>
+
+Plantain à feuilles cordées (*Plantago cordata*)<br />- <i>Plantain, Heart-leaved</i>
+
+Platanthère blanchâtre de l’Ouest (*Platanthera praeclara*)<br />- <i>Orchid, Western Prairie Fringed</i>
+
+Polygale incarnat (*Polygala incarnata*)<br />- <i>Milkwort, Pink</i>
+
+Psilocarphe élevé (*Psilocarphus elatior*) population du Pacifique<br />- <i>Woolly-heads, Tall Pacific population</i>
+
+Pycnanthème gris (*Pycnanthemum incanum*)<br />- <i>Mountain-Mint, Hoary</i>
+
+Renoncule à feuilles d’alisme (*Ranunculus alismaefolius* var. *alismaefolius*)<br />- <i>Buttercup, Water-plantain</i>
+
+Rotala rameux (*Rotala ramosior*)<br />- <i>Toothcup</i>
+
+Sanicle patte-d’ours (*Sanicula arctopoides*)<br />- <i>Sanicle, Bear’s-foot</i>
+
+Saule des landes (*Salix jejuna*)<br />- <i>Willow, Barrens</i>
+
+Scirpe timide (*Trichophorum planifolium*)<br />- <i>Bulrush, Bashful</i>
+
+Stylophore à deux feuilles (*Stylophorum diphyllum*)<br />- <i>Wood-Poppy</i>
+
+Téphrosie de Virginie (*Tephrosia virginiana*)<br />- <i>Virginia Goat’s-rue</i>
+
+Trille à pédoncule incliné (*Trillium flexipes*)<br />- <i>Trillium, Drooping</i>
+
+Triphore penché (*Triphora trianthophora*)<br />- <i>Pogonia, Nodding</i>
+
+Triphysaire versicolore (*Triphysaria versicolor* ssp. *versicolor*)<br />- <i>Owl-Clover, Bearded</i>
+
+Verge d’or voyante (*Solidago speciosa* var. *rigidiuscula*)<br />- <i>Goldenrod, Showy</i>
+
+Woodsie obtuse (*Woodsia obtusa*)<br />- <i>Woodsia, Blunt-lobed</i>
+
+
+
+
+##### Lichens
+
+Hétérodermie maritime (*Heterodermia sitchensis*)<br />- <i>Seaside Centipede</i>
+
+
+
+
+##### Mousses
+
+Bartramie à feuilles dressées (*Bartramia stricta*)<br />- <i>Moss, Rigid Apple</i>
+
+Fissident appauvri (*Fissidens pauperculus*)<br />- <i>Moss, Poor Pocket</i>
+
+
+
+**PARTIE 3** 
+### Espèces menacées
+
+
+
+##### Mammifères
+
+Bison des bois (*Bison bison athabascae*)<br />- <i>Bison, Wood</i>
+
+Caribou des bois (*Rangifer tarandus caribou*) population boréale<br />- <i>Caribou, Woodland Boreal population</i>
+
+Caribou des bois (*Rangifer tarandus caribou*) population des montagnes du Sud<br />- <i>Caribou, Woodland Southern Mountain population</i>
+
+Chauve-souris blonde (*Antrozous pallidus*)<br />- <i>Bat, Pallid</i>
+
+Épaulard (*Orcinus orca*) population migratrice du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific transient population</i>
+
+Épaulard (*Orcinus orca*) population résidente du Nord du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific northern resident population</i>
+
+Hermine, haidarum (*Mustela erminea haidarum*)<br />- <i>Ermine haidarum subspecies</i>
+
+Loutre de mer (*Enhydra lutris*)<br />- <i>Otter, Sea</i>
+
+Musaraigne de Bendire (*Sorex bendirii*)<br />- <i>Shrew, Pacific Water</i>
+
+
+
+
+##### Oiseaux
+
+Autour des palombes (*Accipiter gentilis laingi*) population des îles de la Reine-Charlotte<br />- <i>Goshawk, Queen Charlotte</i>
+
+Faucon pèlerin, anatum (*Falco peregrinus anatum*)<br />- <i>Falcon, Anatum Peregrine</i>
+
+Guillemot marbré (*Brachyramphus marmoratus*)<br />- <i>Murrelet, Marbled</i>
+
+Mouette rosée (*Rhodostethia rosea*)<br />- <i>Gull, Ross’s</i>
+
+Paruline à capuchon (*Wilsonia citrina*)<br />- <i>Warbler, Hooded</i>
+
+Petit Blongios (*Ixobrychus exilis*)<br />- <i>Bittern, Least</i>
+
+Pipit de Sprague (*Anthus spragueii*)<br />- <i>Pipit, Sprague’s</i>
+
+
+
+
+##### Amphibiens
+
+Crapaud de Fowler (*Bufo fowleri*)<br />- <i>Toad, Fowler’s</i>
+
+Crapaud du Grand Bassin (*Spea intermontana*)<br />- <i>Great Basin Spadefoot</i>
+
+Grande salamandre (*Dicamptodon tenebrosus*)<br />- <i>Salamander, Pacific Giant</i>
+
+Salamandre de Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamander, Jefferson</i>
+
+Salamandre sombre des montagnes (*Desmognathus ochrophaeus*)<br />- <i>Salamander, Allegheny Mountain Dusky</i>
+
+
+
+
+##### Reptiles
+
+Couleuvre à nez plat (*Heterodon platirhinos*)<br />- <i>Snake, Eastern Hog-nosed</i>
+
+Couleuvre à petite tête (*Thamnophis butleri*)<br />- <i>Gartersnake, Butler’s</i>
+
+Couleuvre fauve de l’Est (*Elaphe vulpina gloydi*)<br />- <i>Snake, Eastern Fox</i>
+
+Couleuvre obscure (*Elaphe obsoleta obsoleta*)<br />- <i>Snake, Black Rat</i>
+
+Couleuvre royale (*Regina septemvittata*)<br />- <i>Snake, Queen</i>
+
+
+
+
+##### Poissons
+
+Chabot à tête courte (*Cottus confusus*)<br />- <i>Sculpin, Shorthead</i>
+
+Chabot pygmé (*Cottus* sp.)<br />- <i>Sculpin, Cultus Pygmy</i>
+
+Dard de sable (*Ammocrypta pellucida*)<br />- <i>Darter, Eastern Sand</i>
+
+Éperlan nain du lac Utopia (*Osmerus* sp.)<br />- <i>Smelt, Lake Utopia Dwarf</i>
+
+Lamproie du lac Cowichan (*Lampetra macrostoma*)<br />- <i>Lamprey, Cowichan Lake</i>
+
+Lépisosté tacheté (*Lepisosteus oculatus*)<br />- <i>Gar, Spotted</i>
+
+Loup à tête large (*Anarhichas denticulatus*)<br />- <i>Wolffish, Northern</i>
+
+Loup tacheté (*Anarhichas minor*)<br />- <i>Wolffish, Spotted</i>
+
+Méné d’argent de l’Ouest (*Hybognathus argyritis*)<br />- <i>Minnow, Western Silvery</i>
+
+Sucet de lac (*Erimyzon sucetta*)<br />- <i>Chubsucker, Lake</i>
+
+Tête rose (*Notropis rubellus*) population de l’Est<br />- <i>Shiner, Rosyface Eastern population</i>
+
+
+
+
+##### Mollusques
+
+Haliotide pie (*Haliotis kamtschatkana*)<br />- <i>Abalone, Northern</i>
+
+
+
+
+##### Lépidoptères
+
+Hespérie rurale (*Euphyes vestris*) population de l’Ouest<br />- <i>Skipper, Dun Western population</i>
+
+Porte-queue de Colombie-Britannique (*Satyrium behrii columbia*)<br />- <i>Hairstreak, Behr’s (Columbia)</i>
+
+
+
+
+##### Plantes
+
+Airelle à longues étamines (*Vaccinium stamineum*)<br />- <i>Deerberry</i>
+
+Aletris farineux (*Aletris farinosa*)<br />- <i>Colicroot</i>
+
+Aster d’Anticosti (*Symphyotrichum anticostense*)<br />- <i>Aster, Anticosti</i>
+
+Aster rigide (*Sericocarpus rigidus*)<br />- <i>Aster, White-top</i>
+
+Aster soyeux (*Symphyotrichum sericeum*)<br />- <i>Aster, Western Silver-leaved</i>
+
+Azolle du Mexique (*Azolla mexicana*)<br />- <i>Fern, Mexican Mosquito</i>
+
+Braya de Fernald (*Braya fernaldii*)<br />- <i>Braya, Fernald’s</i>
+
+Buchloé faux-dactyle (*Buchloë dactyloides*)<br />- <i>Buffalograss</i>
+
+Calochorte de Lyall (*Calochortus lyallii*)<br />- <i>Lilly, Lyall’s Mariposa</i>
+
+Carmantine d’Amérique (*Justicia americana*)<br />- <i>Water-willow, American</i>
+
+Cephalanthère d’Austin (*Cephalanthera austiniae*)<br />- <i>Orchid, Phantom</i>
+
+Chicot févier (*Gymnocladus dioicus*)<br />- <i>Coffee-tree, Kentucky</i>
+
+Corydale de Scouler (*Corydalis scouleri*)<br />- <i>Corydalis, Scouler’s</i>
+
+Dalée velue (*Dalea villosa* var. *villosa*)<br />- <i>Prairie-clover, Hairy</i>
+
+Éléocharide tuberculée (*Eleocharis tuberculosa*)<br />- <i>Spike-rush, Tubercled</i>
+
+Halimolobos mince (*Halimolobos virgata*)<br />- <i>Mouse-ear-cress, Slender</i>
+
+Hydraste du Canada (*Hydrastis canadensis*)<br />- <i>Goldenseal</i>
+
+Hydrocotyle à ombelle (*Hydrocotyle umbellata*)<br />- <i>Water-pennywort</i>
+
+Iris du Missouri (*Iris missouriensis*)<br />- <i>Blue-Flag, Western</i>
+
+Lachnanthe de Caroline (*Lachnanthes caroliana*)<br />- <i>Redroot</i>
+
+Liatris à épi (*Liatris spicata*)<br />- <i>Star, Dense Blazing</i>
+
+Lophiolie dorée (*Lophiola aurea*)<br />- <i>Golden Crest</i>
+
+Sabatie de Kennedy (*Sabatia kennedyana*)<br />- <i>Gentian, Plymouth</i>
+
+Sanicle bipinnatifide (*Sanicula bipinnatifida*)<br />- <i>Sanicle, Purple</i>
+
+Smilax à feuilles rondes (*Smilax rotundifolia*) population des plaines des Grands Lacs<br />- <i>Greenbrier, Round-leaved Great Lakes Plains population</i>
+
+Violette jaune des monts (*Viola praemorsa* ssp. *praemorsa*)<br />- <i>Violet, Yellow Montane</i>
+
+Yucca glauque (*Yucca glauca*)<br />- <i>Soapweed</i>
+
+
+
+
+##### Mousses
+
+Bartramie de Haller (*Bartramia halleriana*)<br />- <i>Moss, Haller’s Apple</i>
+
+
+
+**PARTIE 4** 
+### Espèces préoccupantes
+
+
+
+##### Mammifères
+
+Campagnol sylvestre (*Microtus pinetorum*)<br />- <i>Vole, Woodland</i>
+
+Castor de montagne (*Aplodontia rufa*)<br />- <i>Beaver, Mountain</i>
+
+Chien de prairie (*Cynomys ludovicianus*)<br />- <i>Prairie Dog, Black-tailed</i>
+
+Épaulard (*Orcinus orca*) population au large du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific offshore population</i>
+
+Loup de l’Est (*Canis lupus lycaon*)<br />- <i>Wolf, Eastern</i>
+
+Taupe à queue glabre (*Scalopus aquaticus*)<br />- <i>Mole, Eastern</i>
+
+
+
+
+##### Oiseaux
+
+Arlequin plongeur (*Histrionicus histrionicus*) population de l’Est<br />- <i>Duck, Harlequin Eastern population</i>
+
+Bruant des prés, *princeps* (*Passerculus sandwichensis princeps*)<br />- <i>Sparrow, “Ipswich” Savannah</i>
+
+Effraie des clochers (*Tyto alba*) population de l’Ouest<br />- <i>Owl, Barn Western population</i>
+
+Faucon pèlerin, pealei (*Falco peregrinus pealei*)<br />- <i>Falcon, Peale’s Peregrine</i>
+
+Garrot d’Islande (*Bucephala islandica*) population de l’Est<br />- <i>Goldeneye, Barrow’s Eastern population</i>
+
+Mouette blanche (*Pagophila eburnea*)<br />- <i>Gull, Ivory</i>
+
+Paruline polyglotte de l’Est (*Icteria virens virens*)<br />- <i>Chat, Eastern Yellow-breasted</i>
+
+Petit-duc nain (*Otus flammeolus*)<br />- <i>Owl, Flammulated</i>
+
+Pic de Lewis (*Melanerpes lewis*)<br />- <i>Woodpecker, Lewis’s</i>
+
+Râle jaune (*Coturnicops noveboracensis*)<br />- <i>Rail, Yellow</i>
+
+
+
+
+##### Amphibiens
+
+Grenouille-à-queue côtière (*Ascaphus truei*)<br />- <i>Frog, Coast Tailed</i>
+
+Salamandre Coeur d’Alène (*Plethodon idahoensis*)<br />- <i>Salamander, Coeur d’Alène</i>
+
+
+
+
+##### Poissons
+
+Chabot tacheté de Columbia (*Cottus bairdi hubbsi*)<br />- <i>Sculpin, Columbia Mottled</i>
+
+Crapet sac-à-lait (*Lepomis gulosus*)<br />- <i>Warmouth</i>
+
+Fondule rayé (*Fundulus notatus*)<br />- <i>Topminnow, Blackstripe</i>
+
+Loup Atlantique (*Anarhichas lupus*)<br />- <i>Wolffish, Atlantic</i>
+
+Méné à grandes écailles (*Macrhybopsis storeriana*)<br />- <i>Chub, Silver</i>
+
+Méné d’herbe (*Notropis bifrenatus*)<br />- <i>Shiner, Bridle</i>
+
+Meunier tacheté (*Minytrema melanops*)<br />- <i>Sucker, Spotted</i>
+
+Petit-bec (*Opsopoeodus emiliae*)<br />- <i>Minnow, Pugnose</i>
+
+
+
+
+##### Mollusques
+
+Huître plate du Pacifique (*Ostrea conchaphila*)<br />- <i>Oyster, Olympia</i>
+
+
+
+
+##### Lépidoptères
+
+Amiral de Weidemeyer (*Limenitis weidemeyerii*)<br />- <i>Admiral, Weidemeyer’s</i>
+
+Monarque (*Danaux plexippus*)<br />- <i>Monarch</i>
+
+
+
+
+##### Plantes
+
+Achillée à gros capitules (*Achillea millefolium* var. *megacephalum*)<br />- <i>Yarrow, Large-headed Woolly</i>
+
+Astragale de Fernald (*Astragalus robbinsii* var. *fernaldii*)<br />- <i>Milk-vetch, Fernald’s</i>
+
+Clèthre à feuilles d’aulne (*Clethra alnifolia*)<br />- <i>Pepperbush, Sweet</i>
+
+Deschampsie du bassin du Mackenzie (*Deschampsia mackenzieana*)<br />- <i>Hairgrass, Mackenzie</i>
+
+Dryoptéride côtière (*Dryopteris arguta*)<br />- <i>Fern, Coastal Wood</i>
+
+Frêne bleu (*Fraxinus quadrangulata*)<br />- <i>Ash, Blue</i>
+
+Grand bident (*Bidens amplissima*)<br />- <i>Beggarticks, Vancouver Island</i>
+
+Psilocarphe élevé (*Psilocarphus elatior*) population des Prairies<br />- <i>Woolly-heads, Tall Prairie population</i>
+
+Saule de Turnor (*Salix turnorii*)<br />- <i>Willow, Turnor’s</i>
+
+Saule psammophile (*Salix brachycarpa* var. *psammophila*)<br />- <i>Willow, Sand-dune Short-capsuled</i>
+
+Saule silicicole (*Salix silicicola*)<br />- <i>Willow, Felt-leaf</i>
+
+Scolopendre d’Amérique (*Asplenium scolopendrium* var. *americanum*)<br />- <i>Fern, American Hart’s-tongue</i>
+
+Tanaisie floconneuse (*Tanacetum huronense* var. *floccosum*)<br />- <i>Tansy, Floccose</i>
+
+Verge d’or de Riddell (*Solidago riddellii*)<br />- <i>Goldenrod, Riddell’s</i>
+
+
+
+
+
+### **ANNEXE 2** 
+**(article 130)**
+
+**PARTIE 1** 
+### Espèces en voie de disparition
+
+
+
+##### Mammifères
+
+Baleine boréale (*Balaena mysticetus*) population de l’Arctique de l’Est<br />- <i>Whale, Bowhead Eastern Arctic population</i>
+
+Baleine boréale (*Balaena mysticetus*) population de l’Arctique de l’Ouest<br />- <i>Whale, Bowhead Western Arctic population</i>
+
+Baleine noire (*Eubalaena glacialis*)<br />- <i>Whale, Right</i>
+
+Béluga (*Delphinapterus leucas*) population de la baie d’Ungava<br />- <i>Whale, Beluga Ungava Bay population</i>
+
+Béluga (*Delphinapterus leucas*) population du fleuve St-Laurent<br />- <i>Whale, Beluga St. Lawrence River population</i>
+
+Béluga (*Delphinapterus leucas*) population du sud-est de l’île de Baffin et de la baie Cumberland<br />- <i>Whale, Beluga Southeast Baffin Island - Cumberland Sound population</i>
+
+Carcajou (*Gulo gulo*) population de l’Est<br />- <i>Wolverine Eastern population</i>
+
+Caribou de Peary (*Rangifer tarandus pearyi*) population de l’île Banks<br />- <i>Caribou, Peary Banks Island population</i>
+
+Caribou de Peary (*Rangifer tarandus pearyi*) population du haut Arctique<br />- <i>Caribou, Peary High Arctic population</i>
+
+
+
+
+##### Oiseaux
+
+Colin de Virginie (*Colinus virginianus*)<br />- <i>Bobwhite, Northern</i>
+
+
+
+
+##### Reptiles
+
+Couleuvre agile bleue (*Coluber constrictor foxii*)<br />- <i>Racer, Blue</i>
+
+Couleuvre d’eau du lac Érié (*Nerodia sipedon insularum*)<br />- <i>Snake, Lake Erie Water</i>
+
+
+
+
+##### Poissons
+
+Meunier de Salish (*Catostomus* sp.)<br />- <i>Sucker, Salish</i>
+
+
+
+**PARTIE 2** 
+### Espèces menacées
+
+
+
+##### Mammifères
+
+Béluga (*Delphinapterus leucas*) population de l’est de la baie d’Hudson<br />- <i>Whale, Beluga Eastern Hudson Bay population</i>
+
+Caribou de Peary (*Rangifer tarandus pearyi*) population du bas Arctique<br />- <i>Caribou, Peary Low Arctic population</i>
+
+Marsouin commun (*Phocoena phocoena*) population du Nord-Ouest de l’Atlantique<br />- <i>Porpoise, Harbour Northwest Atlantic population</i>
+
+Rorqual à bosse (*Megaptera novaeangliae*) population du Pacifique Nord<br />- <i>Whale, Humpback North Pacific population</i>
+
+Taupe de Townsend (*Scapanus townsendii*)<br />- <i>Mole, Townsend’s</i>
+
+
+
+
+##### Oiseaux
+
+Pie-grièche migratrice des Prairies (*Lanius ludovicianus excubitorides*)<br />- <i>Shrike, Prairie Loggerhead</i>
+
+
+
+
+##### Reptiles
+
+Crotale Massasauga de l’Est (*Sistrurus catenatus catenatus*)<br />- <i>Rattlesnake, Eastern Massasauga</i>
+
+Tortue molle à épines (*Apalone spinifera*)<br />- <i>Turtle, Spiny Softshell</i>
+
+Tortue mouchetée (*Emydoidea blandingi*) population de la Nouvelle-Écosse<br />- <i>Turtle, Blanding’s Nova Scotia population</i>
+
+
+
+
+##### Poissons
+
+Chabot de profondeur des Grands Lacs (*Myoxocephalus thompsoni*) population des Grands Lacs<br />- <i>Sculpin, Deepwater Great Lakes population</i>
+
+Chat-fou liséré (*Noturus insignis*)<br />- <i>Madtom, Margined</i>
+
+Chevalier cuivré (*Moxostoma hubbsi*)<br />- <i>Redhorse, Copper</i>
+
+Chevalier noir (*Moxostoma duquesnei*)<br />- <i>Redhorse, Black</i>
+
+Cisco à mâchoires égales (*Coregonus zenithicus*)<br />- <i>Cisco, Shortjaw</i>
+
+Cisco à museau court (*Coregonus reighardi*)<br />- <i>Cisco, Shortnose</i>
+
+Cisco à nageoires noires (*Coregonus nigripinnis*)<br />- <i>Cisco, Blackfin</i>
+
+Épinoches du lac Enos (*Gasterosteus* spp.)<br />- <i>Sticklebacks, Enos Lake</i>
+
+Fouille-roche gris (*Percina copelandi*)<br />- <i>Darter, Channel</i>
+
+Grand corégone (*Coregonus clupeaformis*) population du lac Simcoe<br />- <i>Whitefish, Lake Lake Simcoe population</i>
+
+
+
+
+##### Plantes
+
+Abronie à petites fleurs (*Abronia micrantha*)<br />- <i>Verbena, Sand</i>
+
+Aster divariqué (*Eurybia divaricata*)<br />- <i>Aster, White Wood</i>
+
+Châtaignier d’Amérique (*Castanea dentata*)<br />- <i>Chestnut, American</i>
+
+Lipocarphe à petites fleurs (*Lipocarpha micrantha*)<br />- <i>Lipocarpha, Small-flowered</i>
+
+Polémoine de van Brunt (*Polemonium van-bruntiae*)<br />- <i>Jacob’s Ladder, van Brunt’s</i>
+
+Tradescantie de l’Ouest (*Tradescantia occidentalis*)<br />- <i>Spiderwort, Western</i>
+
+Violette pédalée (*Viola pedata*)<br />- <i>Violet, Bird’s-foot</i>
+
+
+
+
+
+### **ANNEXE 3** 
+**(article 130)**
+## Espèces préoccupantes
+##### Mammifères
+
+Baleine à bec commune (*Hyperoodon ampullatus*) population du ravin océanique<br />- <i>Whale, Northern Bottlenose Gully population</i>
+
+Baleine à bec de Sowerby (*Mesoplodon bidens*)<br />- <i>Whale, Sowerby’s Beaked</i>
+
+Béluga (*Delphinapterus leucas*) population de l’Est du haut Arctique et de la baie de Baffin<br />- <i>Whale, Beluga Eastern High Arctic/Baffin Bay population</i>
+
+Carcajou (*Gulo gulo*) population de l’Ouest<br />- <i>Wolverine Western population</i>
+
+Chauve-souris à queue frangée (*Myotis thysanodes*)<br />- <i>Bat, Fringed</i>
+
+Chauve-souris de Keen (*Myotis keenii*)<br />- <i>Bat, Keen’s Long-eared</i>
+
+Lapin de Nuttall (*Sylvilagus nuttallii nuttallii*) population de la Colombie-Britannique<br />- <i>Cottontail, Nuttall’s British Columbia population</i>
+
+Musaraigne de Gaspé (*Sorex gaspensis*)<br />- <i>Shrew, Gaspé</i>
+
+Oreillard maculé (*Euderma maculatum*)<br />- <i>Bat, Spotted</i>
+
+Ours grizzli (*Ursus arctos*)<br />- <i>Bear, Grizzly</i>
+
+Ours polaire (*Ursus maritimus*)<br />- <i>Bear, Polar</i>
+
+Petit polatouche (*Glaucomys volans*)<br />- <i>Squirrel, Southern Flying</i>
+
+Phoque commun (*Phoca vitulina mellonae*) population confinée aux lacs des Loups Marins<br />- <i>Seal, Harbour Lacs des Loups Marins landlocked population</i>
+
+Rat kangourou d’Ord (*Dipodomys ordii*)<br />- <i>Kangaroo Rat, Ord’s</i>
+
+Renard gris (*Urocyon cinereoargenteus*)<br />- <i>Fox, Grey</i>
+
+Rorqual à bosse (*Megaptera novaeangliae*) population du Nord-Ouest de l’Atlantique<br />- <i>Whale, Humpback Western North Atlantic population</i>
+
+Rorqual bleu (*Balaenoptera musculus*)<br />- <i>Whale, Blue</i>
+
+Rorqual commun (*Balaenoptera physalus*)<br />- <i>Whale, Fin</i>
+
+Souris des moissons (*Reithrodontomys megalotis megalotis*) population de la Colombie-Britannique<br />- <i>Mouse, Western Harvest British Columbia population</i>
+##### Oiseaux
+
+Buse à épaulettes (*Buteo lineatus*)<br />- <i>Hawk, Red-shouldered</i>
+
+Buse rouilleuse (*Buteo regalis*)<br />- <i>Hawk, Ferruginous</i>
+
+Courlis à long bec (*Numenius americanus*)<br />- <i>Curlew, Long-billed</i>
+
+Faucon pèlerin, toundra (*Falco peregrinus tundrius*)<br />- <i>Falcon, Tundra Peregrine</i>
+
+Grand héron (*Ardea herodias fannini*) population de la côte du Pacifique<br />- <i>Heron, Pacific Great Blue</i>
+
+Grive de Bicknell (*Catharus bicknelli*)<br />- <i>Thrush, Bicknell’s</i>
+
+Guillemot à cou blanc (*Synthliboramphus antiquus*)<br />- <i>Murrelet, Ancient</i>
+
+Hibou des marais (*Asio flammeus*)<br />- <i>Owl, Short-eared</i>
+
+Paruline azurée (*Dendroica cerulea*)<br />- <i>Warbler, Cerulean</i>
+
+Paruline hochequeue (*Seiurus motacilla*)<br />- <i>Waterthrush, Louisiana</i>
+
+Pic à tête rouge (*Melanerpes erythrocephalus*)<br />- <i>Woodpecker, Red-headed</i>
+##### Amphibiens
+
+Crapaud des steppes (*Bufo cognatus*)<br />- <i>Toad, Great Plains</i>
+
+Grenouille du Nord à pattes rouges (*Rana aurora*)<br />- <i>Frog, Northern Red-legged</i>
+
+Grenouille léopard (*Rana pipiens*) population des Prairies<br />- <i>Frog, Northern Leopard Prairie population</i>
+
+Salamandre à nez court (*Ambystoma texanum*)<br />- <i>Salamander, Smallmouth</i>
+
+Salamandre pourpre (*Gyrinophilus porphyriticus*)<br />- <i>Salamander, Spring</i>
+##### Reptiles
+
+Couleuvre agile à ventre jaune de l’Est (*Coluber constrictor flaviventris*)<br />- <i>Racer, Eastern Yellow-bellied</i>
+
+Phrynosome de Douglas de l’Est (*Phrynosoma douglassii brevirostre*)<br />- <i>Lizard, Eastern Short-horned</i>
+
+Scinque des Prairies (*Eumeces septentrionalis septentrionalis*)<br />- <i>Skink, Northern Prairie</i>
+
+Scinque pentaligne (*Eumeces fasciatus*)<br />- <i>Skink, Five-lined</i>
+
+Tortue des bois (*Clemmys insculpta*)<br />- <i>Turtle, Wood</i>
+
+Tortue ponctuée (*Clemmys guttata*)<br />- <i>Turtle, Spotted</i>
+##### Poissons
+
+Buffalo à grande bouche (*Ictiobus cyprinellus*)<br />- <i>Buffalo, Bigmouth</i>
+
+Buffalo noir (*Ictiobus niger*)<br />- <i>Buffalo, Black</i>
+
+Chaboisseau à quatre cornes (*Myoxocephalus quadricornis*) forme d’eau douce<br />- <i>Sculpin, Fourhorn Freshwater form</i>
+
+Chat-fou du Nord (*Noturus stigmosus*)<br />- <i>Madtom, Northern</i>
+
+Chevalier de rivière (*Moxostoma carinatum*)<br />- <i>Redhorse, River</i>
+
+Cisco de printemps (*Coregonus* sp.)<br />- <i>Cisco, Spring</i>
+
+Corégone du Squanga (*Coregonus* sp.)<br />- <i>Whitefish, Squanga</i>
+
+Crapet menu (*Lepomis humilis*)<br />- <i>Sunfish, Orangespotted</i>
+
+Crapet rouge (*Lepomis auritus*)<br />- <i>Sunfish, Redbreast</i>
+
+Dard vert (*Etheostoma blennioides*)<br />- <i>Darter, Greenside</i>
+
+Épinoche géante (*Gasterosteus* sp.)<br />- <i>Stickleback, Giant</i>
+
+Épinoche lisse des îles de la Reine-Charlotte (*Gasterosteus aculeatus*)<br />- <i>Stickleback, Charlotte Unarmoured</i>
+
+Esturgeon à museau court (*Acipenser brevirostrum*)<br />- <i>Sturgeon, Shortnose</i>
+
+Esturgeon blanc (*Acipenser transmontanus*)<br />- <i>Sturgeon, White</i>
+
+Esturgeon vert (*Acipenser medirostris*)<br />- <i>Sturgeon, Green</i>
+
+Fondule barré (*Fundulus diaphanus*) population de Terre-Neuve<br />- <i>Killifish, Banded Newfoundland population</i>
+
+Kiyi (*Coregonus kiyi*)<br />- <i>Kiyi</i>
+
+Lamproie brune (*Ichthyomyzon castaneus*)<br />- <i>Lamprey, Chestnut</i>
+
+Lamproie du Nord (*Ichthyomyzon fossor*)<br />- <i>Lamprey, Northern Brook</i>
+
+Loup de Bering (*Anarhichas orientalis*)<br />- <i>Wolffish, Bering</i>
+
+Méné à grande bouche (*Notropis dorsalis*)<br />- <i>Shiner, Bigmouth</i>
+
+Méné camus (*Notropis anogenus*)<br />- <i>Shiner, Pugnose</i>
+
+Méné long (*Clinostomus elongatus*)<br />- <i>Dace, Redside</i>
+
+Méné miroir (*Notropis photogenis*)<br />- <i>Shiner, Silver</i>
+
+Morue franche (*Gadus morhua*)<br />- <i>Cod, Atlantic</i>
+
+Naseux d’Umatilla (*Rhinichthys umatilla*)<br />- <i>Dace, Umatilla</i>
+
+Naseux moucheté (*Rhinichthys osculus*)<br />- <i>Dace, Speckled</i>
+
+Sardine du Pacifique (*Sardinops sagax*)<br />- <i>Sardine, Pacific</i>
+
+Terrassier à six lignes (*Acantholumpenus mackayi*)<br />- <i>Prickleback, Pighead</i>
+##### Plantes
+
+Arisème dragon (*Arisaema dracontium*)<br />- <i>Green Dragon</i>
+
+Armeria de l’Athabasca (*Armeria maritima* ssp. *interior*)<br />- <i>Thrift, Athabasca</i>
+
+Arnoglosse plantain (*Arnoglossum plantagineum*)<br />- <i>Indian-plantain, Tuberous</i>
+
+Aster du Golfe St-Laurent (*Symphyotrichum laurentianum*)<br />- <i>Aster, Gulf of St. Lawrence</i>
+
+Aster fausse-prenanthe (*Symphyotrichum prenanthoides*)<br />- <i>Aster, Crooked-stemmed</i>
+
+Aster subulé (*Symphyotrichum subulatum*) population de Bathurst<br />- <i>Aster, Bathurst Bathurst population</i>
+
+Aster très élevé (*Symphyotrichum praealtum*)<br />- <i>Aster, Willow</i>
+
+Bartonie paniculé (*Bartonia paniculata* ssp. *paniculata*)<br />- <i>Bartonia, Branched</i>
+
+Camassie faux-scille (*Camassia scilloides*)<br />- <i>Hyacinth, Wild</i>
+
+Chêne de Shumard (*Quercus shumardii*)<br />- <i>Oak, Shumard</i>
+
+Chénopode glabre (*Chenopodium subglabrum*)<br />- <i>Goosefoot, Smooth</i>
+
+Cicutaire de Victorin (*Cicuta maculata* var. *victorinii*)<br />- <i>Water-hemlock, Victorin’s</i>
+
+Épipactis géant (*Epipactis gigantea*)<br />- <i>Helleborine, Giant</i>
+
+Frasère de Caroline (*Frasera caroliniensis*)<br />- <i>Columbo, American</i>
+
+Gentiane de Victorin (*Gentianopsis victorinii*)<br />- <i>Gentian, Victorin’s</i>
+
+Isoète de Bolander (*Isoëtes bolanderi*)<br />- <i>Quillwort, Bolander’s</i>
+
+Isopyre à feuilles biternées (*Enemion biternatum*)<br />- <i>Rue-anemone, False</i>
+
+Jonc du New Jersey (*Juncus caesariensis*)<br />- <i>Rush, New Jersey</i>
+
+Ketmie des marais (*Hibiscus moscheutos*)<br />- <i>Rose-mallow, Swamp</i>
+
+Liléopsis de l’Est (*Lilaeopsis chinensis*)<br />- <i>Lilaeopsis</i>
+
+Limnanthe de Macoun (*Limnanthes macounii*)<br />- <i>Meadowfoam, Macoun’s</i>
+
+Micocoulier rabougri (*Celtis tenuifolia*)<br />- <i>Hackberry, Dwarf</i>
+
+Oxytrope patte-de-lièvre (*Oxytropis lagopus*)<br />- <i>Locoweed, Hare-footed</i>
+
+Phégoptéride à hexagones (*Phegopteris hexagonoptera*)<br />- <i>Fern, Broad Beech</i>
+
+Platanthère blanchâtre de l’Est (*Platanthera leucophaea*)<br />- <i>Orchid, Eastern Prairie Fringed</i>
+
+Potamot de Hill (*Potamogeton hillii*)<br />- <i>Pondweed, Hill’s</i>
+
+Ptéléa trifolié (*Ptelea trifoliata*)<br />- <i>Hop-tree, Common</i>
+
+Rosier sétigère (*Rosa setigera*)<br />- <i>Rose, Climbing Prairie</i>
+
+Scirpe de Long (*Scirpus longii*)<br />- <i>Bulrush, Long’s</i>
+
+Vergerette de Provancher (*Erigeron philadelphicus* ssp. *provancheri*)<br />- <i>Fleabane, Provancher’s</i>
+##### Lichens
+
+Hypogymnie maritime (*Hypogymnia heterophylla*)<br />- <i>Seaside Bone</i>
+
+Lichen cryptique (*Nephroma occultum*)<br />- <i>Cryptic Paw</i>
+
+Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />- <i>Oldgrowth Specklebelly</i>
+
