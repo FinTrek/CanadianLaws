@@ -81,10 +81,16 @@ whether any such change occurs within or outside Canada;
 - **(c)** any department or departmental corporation set out in Schedule I or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
 - **(d)** any other body that is prescribed pursuant to regulations made under paragraph 59(e),
 
-but does not include the Commissioner in Council or an agency or body of the Yukon Territory, the Northwest Territories or Nunavut, a council of the band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), The Hamilton Harbour Commissioners constituted pursuant to The Hamilton Harbour Commissioners’ Act, The Toronto Harbour Commissioners constituted pursuant to The Toronto Harbour Commissioners’ Act, 1911, a harbour commission established pursuant to the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
+but does not include the Legislature or an agency or body of Yukon or Nunavut, the Commissioner in Council or an agency or body of the Northwest Territories, a council of the band within the meaning of the 
+[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), The Hamilton Harbour Commissioners constituted pursuant to 
+The Hamilton Harbour Commissioners' Act, The Toronto Harbour Commissioners constituted pursuant to 
+The Toronto Harbour Commissioners' Act, 1911, a harbour commission established pursuant to the 
+[Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a Crown corporation within the meaning of the 
+[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the 
+[Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
 
 ***federal lands*** means
-- **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands the administration and control of which have been transferred by the Governor in Council to the Commissioner of the Yukon Territory, the Northwest Territories or Nunavut and lands the management of which has been granted to a port authority under the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a not-for-profit corporation that has entered into an agreement under subsection 80(5) of that Act,
+- **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands under the administration and control of the Commissioner of Yukon, the Northwest Territories or Nunavut and lands the management of which has been granted to a port authority under the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a not-for-profit corporation that has entered into an agreement under subsection 80(5) of that Act,
 - **(b)** the following lands and areas, namely,
 	- **(i)** the internal waters of Canada,
 	- **(ii)** the territorial sea of Canada,
@@ -127,7 +133,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 - **(2)** For the purposes of this Act, a corporation is controlled by another corporation if
 	- **(a)** securities of the corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the corporation are held, other than by way of security only, by or for the benefit of that other corporation; and
 	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the corporation.
-> 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 29, s. 137.
+> 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 7, s. 122.
 
 
 
@@ -1047,7 +1053,7 @@ have agreed on another manner of conducting an assessment of the environmental e
 
 - **(6)** For the purposes of this section, ***lands in respect of which Indians have interests*** means
 	- **(a)** land areas that are subject to a land claim accepted by the Government of Canada for negotiation under its comprehensive land claims policy and that
-		- **(i)** in the case of land areas situated in the Yukon Territory, the Northwest Territories or Nunavut, have been withdrawn from disposal under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) for the purposes of land claim settlement, or
+		- **(i)** for the purposes of land claim settlement have been withdrawn from disposal, under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) in the case of land areas situated in the Northwest Territories or Nunavut, or under a law of the Legislature of Yukon in the case of land areas situated in Yukon, or
 		- **(ii)** in the case of land areas situated in a province, have been agreed on for selection by the Government of Canada and the government of the province; and
 	- **(b)** land areas that belong to Her Majesty or in respect of which Her Majesty has the right to dispose and that have been identified and agreed on by Her Majesty and an Indian band for transfer to settle claims based on
 		- **(i)** an outstanding lawful obligation of Her Majesty towards an Indian band pursuant to the specific claims policy of the Government of Canada, or
@@ -1056,7 +1062,7 @@ have agreed on another manner of conducting an assessment of the environmental e
 **Reference to lands, etc.**
 
 - **(7)** For the purposes of this section, a reference to any lands, land areas or reserves includes a reference to all waters on and air above those lands, areas or reserves.
-> 1992, c. 37, c. 48; 1993, c. 28, s. 78.
+> 1992, c. 37, c. 48; 1993, c. 28, s. 78; 2002, c. 7, s. 123.
 
 
 
