@@ -618,6 +618,14 @@ Botswana
 
 
 
+Brazil
+
+
+
+Bulgaria
+
+
+
 Canada
 
 
@@ -642,15 +650,15 @@ European Community
 
 
 
+Ghana
+
+
+
 Guinea
 
 
 
 Guyana
-
-
-
-Hungary
 
 
 
@@ -674,11 +682,11 @@ Laos
 
 
 
-Lebanon
-
-
-
 Lesotho
+
+
+
+Malaysia
 
 
 
@@ -690,11 +698,11 @@ Namibia
 
 
 
-Poland
+Norway
 
 
 
-Republic of Congo
+Romania
 
 
 
@@ -710,7 +718,7 @@ Sierra Leone
 
 
 
-Slovenia
+Singapore
 
 
 
@@ -738,6 +746,10 @@ Thailand
 
 
 
+Togo
+
+
+
 Ukraine
 
 
@@ -761,6 +773,6 @@ Vietnam
 Zimbabwe
 
 
-> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335.
+> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194.
 
 
