@@ -2387,8 +2387,13 @@ mais la personne en cause est obligée au versement de l’indemnité comme il e
 **Absence de responsabilité**
 
 - **(2)** Un administrateur n’est pas responsable en vertu du paragraphe (1) à moins que
-	- **a)** la compagnie n’ait été poursuivie pour la dette dans les six mois après que celle-ci est devenue exigible et que le bref d’exécution n’ait été rapporté insatisfait en totalité ou en partie, ou que
-	- **b)** la compagnie, pendant cette période, n’ait fait faillite ou n’ait reçu l’ordre d’être liquidée en vertu de la Loi sur les liquidations, ou n’ait fait une cession autorisée en vertu de la Loi sur la faillite, ou qu’en vertu de la Loi sur la faillite une ordonnance de séquestre n’ait été rendue contre elle et qu’une réclamation de cette dette n’ait été régulièrement déposée et prouvée,
+	- **a)
+** la compagnie n’ait été poursuivie pour la dette dans les six mois après que celle-ci est devenue exigible et que le bref d’exécution n’ait été rapporté insatisfait en totalité ou en partie, ou que
+	- **b)
+** la compagnie, pendant cette période, n’ait fait faillite ou n’ait reçu l’ordre d’être liquidée en vertu de la 
+[Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), ou n’ait fait une cession autorisée en vertu de la 
+[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), ou qu’en vertu de la 
+[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) une ordonnance de faillite n’ait été rendue contre elle et qu’une réclamation de cette dette n’ait été régulièrement déposée et prouvée,
 ni à moins qu’il ne soit poursuivi pour cette dette pendant qu’il est administrateur ou dans l’année après qu’il a cessé d’être administrateur.
 
 **Somme recouvrable**
@@ -2397,8 +2402,10 @@ ni à moins qu’il ne soit poursuivi pour cette dette pendant qu’il est admin
 
 **Privilège des administrateurs**
 
-- **(4)** Si la réclamation de cette dette a été prouvée dans des procédures en liquidation ou sous le régime de la Loi sur les liquidations ou de la Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à toute priorité à laquelle le créancier payé aurait eu droit, et lorsqu’un jugement a été recouvré, il a droit à une cession du jugement.
-> S.R. 1952, ch. 53, art. 97.
+- **(4)** Si la réclamation de cette dette a été prouvée dans des procédures en liquidation ou sous le régime de la 
+Loi sur les liquidations ou de la 
+Loi sur la faillite, un administrateur, sur paiement de la dette, a droit à toute priorité à laquelle le créancier payé aurait eu droit, et lorsqu’un jugement a été recouvré, il a droit à une cession du jugement.
+> S.R. 1970, ch. C-32, art. 99; 2004, ch. 25, art. 189.
 
 
 
@@ -3842,9 +3849,9 @@ la compagnie privée et l’autre compagnie à laquelle elle serait autrement ai
 **129.2** Les articles 102, 118, 127, 128, 129.1 et 150 ne s’appliquent pas
 - **a)** à une compagnie pour laquelle un administrateur a été nommé par une cour compétente;
 - **b)** à une compagnie pour laquelle un liquidateur a été nommé, en vertu de la Loi sur les liquidations, par une cour compétente; ni
-- **c)** à une compagnie au sujet de laquelle une ordonnance de séquestre a été rendue ou une cession a été déposée, en vertu de la Loi sur la faillite;
+- **c)** à une compagnie au sujet de laquelle une ordonnance de faillite a été rendue ou une cession a été déposée, en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md);
 pendant que la compagnie est sous le contrôle d’un administrateur, liquidateur ou syndic de faillite.
-> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20.
+> S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 20; 2004, ch. 25, art. 190.
 
 
 
