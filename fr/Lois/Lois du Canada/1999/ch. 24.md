@@ -901,7 +901,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#F-11.8_fr_1'>[*]</a></sup>**48** L’article 45 entre en vigueur à la date fixée par décret. Celui-ci ne peut cependant être pris qu’après l’examen de l’accord-cadre — effectué en conformité avec les dispositions de celui-ci — et les consultations que le gouverneur en conseil juge utiles.
 
-<a name='F-11.8_fr_1'><sup>*</sup></a>: [Note : Article 45 non en vigueur.]<br />
+<a name='F-11.8_fr_1'><sup>*</sup></a>: [Note : Article 45 en vigueur le 20 mai 2003, *voir* TR/2003-108.]<br />
 
 
 
@@ -950,5 +950,73 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** Saint Mary’s
 
+
+**15** Garden River
+
+
+**16** Moose Deer Point
+
+
+**17** Whitecap N<sup>o</sup> 94
+
+
+**18** Kinistin
+
+
+**19** Mississauga
+
+
+**20** Whitefish Lake
+
+
+**21** Songhees
+
+
+**22** Beecher Bay
+
+
+**23** Pavilion
+
+
+**24** Tsawwassen
+
+
+**25** Tsawout
+
+
+**26** Kingsclear
+
+
+**27** Skeetchestn
+
+
+**28** Muskeg Lake
+
+
+**29** Burrard
+
+
+**30** Sliammon
+
+
+**31** Osoyoos
+
+
+**32** Chippewas de Kettle et Stony Point
+
+
+**33** Dokis
+
+
+**34** Chippewas de Thames
+
+
+**35** Kitselas
+
+
+**36** McLeod Lake
+
+
+> 1999, ch. 24, ann.; DORS/2003-178.
 
 
