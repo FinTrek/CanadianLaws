@@ -300,11 +300,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** Peuvent voter dans le cadre de la partie 11 :
 - **a)** les électeurs des Forces canadiennes;
-- **b)** les électeurs qui appartiennent à l’administration publique du Canada ou d’une province en poste à l’étranger;
+- **b)** les électeurs qui appartiennent à l’administration publique fédérale ou d’une province en poste à l’étranger;
 - **c)** les électeurs qui sont en poste à l’étranger auprès d’organismes internationaux dont le Canada est membre et auxquels il verse une contribution;
 - **d)** les électeurs qui sont absents du Canada depuis moins de cinq années consécutives et qui ont l’intention de revenir résider au Canada;
 - **e)** les électeurs incarcérés au sens de cette partie;
 - **f)** tout autre électeur au Canada qui désire se prévaloir des dispositions de cette partie.
+> 2000, ch. 9, art. 11; 2003, ch. 22, art. 100.
+
 
 
 
@@ -373,19 +375,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Traitement et frais**
 
-- **(2)** Il touche un traitement égal à celui d'un juge de la Cour fédérale autre que le juge en chef et a droit aux frais de déplacement et de séjour entraînés par l'accomplissement de ses fonctions hors du lieu de sa résidence habituelle.
+- **(2)** Il touche un traitement égal à celui d’un juge de la Cour fédérale autre que le juge en chef et a droit aux frais de déplacement et de séjour entraînés par l’accomplissement de ses fonctions hors du lieu de sa résidence habituelle.
 
 **Pension de retraite et indemnité**
 
-- **(3)** Il est réputé appartenir à la fonction publique pour l’application de la 
-[Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la 
-[Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la 
-[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+- **(3)** Il est réputé appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
 
 **Communication avec le gouverneur en conseil**
 
 - **(4)** Il communique, pour l’application de la présente loi, avec le gouverneur en conseil par l’intermédiaire du ministre.
-> 2000, ch. 9, art. 15; 2002, ch. 8, art. 116.
+> 2000, ch. 9, art. 15; 2002, ch. 8, art. 116; 2003, ch. 22, art. 101(A).
 
 
 
@@ -458,6 +457,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pension de retraite et indemnité**
 
 - **(2)** Le directeur général adjoint des élections est réputé appartenir à la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2000, ch. 9, art. 19; 2003, ch. 22, art. 102(A).
+
 
 
 
@@ -3820,10 +3821,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exceptions**
 
 - **(2)** L’alinéa (1)b) ne s’applique pas aux électeurs qui :
-	- **a)** appartiennent à l’administration publique du Canada ou d’une province en poste à l’étranger;
+	- **a)** appartiennent à l’administration publique fédérale ou d’une province en poste à l’étranger;
 	- **b)** sont, à l’étranger, au service d’organismes internationaux dont le Canada est membre et auxquels il verse une contribution;
 	- **c)** demeurent avec des personnes visées aux alinéas a) ou b);
 	- **d)** demeurent avec des membres des Forces canadiennes ou des personnes visées à l’alinéa 191d).
+> 2000, ch. 9, art. 222; 2003, ch. 22, art. 103.
+
 
 
 
