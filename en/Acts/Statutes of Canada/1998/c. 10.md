@@ -390,12 +390,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **16** The following individuals may not be directors of a port authority:
 - **(a)** an individual who is a mayor, councillor, officer or employee of a municipality mentioned in the letters patent;
 - **(b)** an individual who is a member of the legislature of a province, or an officer or employee of the public service or of a Crown corporation of a province, mentioned in the letters patent;
-- **(c)** a Senator or a member of Parliament or an officer or employee of the federal public service or of a federal Crown corporation;
+- **(c)** a Senator or a member of Parliament or an officer or employee of the federal public administration, including an officer or employee in a federal Crown corporation;
 - **(d)** an individual who is not a resident Canadian, as defined in subsection 2(1) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
 - **(e)** an individual who is a director, officer or employee of a person who is a user of the port;
 - **(f)** an individual who is under eighteen years of age;
 - **(g)** an individual who has been declared mentally incompetent by a court in Canada or elsewhere; or
 - **(h)** an undischarged bankrupt.
+> 1998, c. 10, s. 16; 2003, c. 22, s. 113(E).
+
 
 
 
@@ -2701,7 +2703,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md)**
 
-- **(2)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the employees referred to in subsection (1) are deemed to be employees of the public service of Canada.
+- **(2)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the employees referred to in subsection (1) are deemed to be employees in the federal public administration.
+> 1998, c. 10, s. 136; 2003, c. 22, s. 114.
+
 
 
 
@@ -2713,9 +2717,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**[Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md)**
+**Public Service Labour Relations Act**
 
-**138** For greater certainty, the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) does not apply to designated employees of a non-corporate port that is continued as a port authority under section 12, or to employees appointed under subsection 136(1), after the date of the repeal of the Canada Ports Corporation Act.
+**138** For greater certainty, the Public Service Labour Relations Act does not apply to designated employees of a non-corporate port that is continued as a port authority under section 12, or to employees appointed under subsection 136(1), after the date of the repeal of the Canada Ports Corporation Act.
+> 1998, c. 10, s. 138; 2003, c. 22, s. 223(E).
+
 
 
 
