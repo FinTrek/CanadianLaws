@@ -194,7 +194,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décision définitive**
 
-- **(4)** La décision du ministre en révision est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la Loi sur la Cour fédérale, n’est pas susceptible d’appel ou de révision en justice; elle ne peut non plus faire l’objet d’un grief dans le cadre de l’article 29 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+- **(4)** La décision du ministre en révision est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), n’est pas susceptible d’appel ou de révision en justice; elle ne peut non plus faire l’objet d’un grief dans le cadre de l’article 29 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+> 2003, ch. 14, art. 11 et 21.
+
 
 
 
