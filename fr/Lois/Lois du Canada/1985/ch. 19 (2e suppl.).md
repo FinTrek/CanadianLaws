@@ -61,8 +61,8 @@
 
 **Composition**
 
-- **(2)** Le Tribunal se compose :
-	- **a)** d’au plus six membres nommés par le gouverneur en conseil sur recommandation du ministre de la Justice et choisis parmi les juges de la Section de première instance de la Cour fédérale;
+- **(2)** Le Tribunal se compose :
+	- **a)** d’au plus six membres nommés par le gouverneur en conseil sur recommandation du ministre de la Justice et choisis parmi les juges de la Cour fédérale;
 	- **b)** d’au plus huit autres membres nommés par le gouverneur en conseil sur recommandation du ministre.
 
 **Conseil consultatif**
@@ -72,7 +72,7 @@
 **Consultation**
 
 - **(4)** Avant de recommander la nomination d’un autre membre, le ministre demande l’avis du conseil consultatif constitué en application du paragraphe (3).
-> L.R. (1985), ch. 19 (2<sup>e</sup> suppl.), art. 3; 2002, ch. 16, art. 16.
+> L.R. (1985), ch. 19 (2 <sup>e</sup> suppl.), art. 3; 2002, ch. 8, art. 183 et 198, ch. 16, art. 16.
 
 
 
@@ -296,11 +296,13 @@
 
 **13** 
 
-- **(1)** Sous réserve du paragraphe (2), les décisions ou ordonnances du Tribunal, que celles-ci soient définitives, interlocutoires ou provisoires, sont susceptibles d’appel devant la Cour d’appel fédérale tout comme s’il s’agissait de jugements de la Section de première instance de cette Cour.
+- **(1)** Sous réserve du paragraphe (2), les décisions ou ordonnances du Tribunal, que celles-ci soient définitives, interlocutoires ou provisoires, sont susceptibles d’appel devant la Cour d’appel fédérale tout comme s’il s’agissait de jugements de la Cour fédérale.
 
 **Questions de fait**
 
 - **(2)** Un appel sur une question de fait n’a lieu qu’avec l’autorisation de la Cour d’appel fédérale.
+> L.R. (1985), ch. 19 (2<sup>e</sup> suppl.), art. 13; 2002, ch. 8, art. 130.
+
 
 
 
