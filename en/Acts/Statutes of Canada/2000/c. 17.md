@@ -986,8 +986,8 @@ the applicant is entitled to an order declaring that their interest is not affec
 - **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that is publicly available, including commercially available databases, or that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement and in respect of which an agreement was entered into under subsection 66(1);
 - **(c)** shall analyse and assess the reports and information;
 - **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report and all information for five years after the date the report is received or the information is received or collected or, where information is disclosed under subsection 55(3), (4) or (5), shall retain the information and any report containing it for eight years after that date; and
-- **(e)** notwithstanding the [National Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(3rd%20Supp.).md), shall destroy each report received and all information received or collected on the expiry of the applicable period referred to in paragraph (d).
-> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66.
+- **(e)** notwithstanding the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy each report received and all information received or collected on the expiry of the applicable period referred to in paragraph (d).
+> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42.
 
 
 
