@@ -92,7 +92,9 @@ French version only***administrateur général*** L'administrateur général nom
 
 **Constitution**
 
-**4** Est constitué un secteur de l'administration publique fédérale appelé Bibliothèque et Archives du Canada placé sous l'autorité du ministre et dirigé par son administrateur général.
+**4** Est constitué un secteur de l’administration publique fédérale appelé Bibliothèque et Archives du Canada placé sous l’autorité du ministre et dirigé par son administrateur général.
+> 2004, ch. 11, art. 4 et 54(A).
+
 
 
 
