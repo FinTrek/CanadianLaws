@@ -665,8 +665,6 @@ Canadian Space Agency<br />- <i>Agence spatiale canadienne</i>
 
 Canadian Transportation Accident Investigation and Safety Board<br />- <i>Bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports</i>
 
-Civil Aviation Tribunal<br />- <i>Tribunal de l’aviation civile</i>
-
 Communications Security Establishment, Department of National Defence<br />- <i>Centre de la sécurité des télécommunications, ministère de la Défense nationale</i>
 
 Competition Tribunal<br />- <i>Tribunal de la concurrence</i>
@@ -789,12 +787,14 @@ Supreme Court of Canada, Staff of<br />- <i>Cour suprême du Canada, Personnel d
 
 Tax Court of Canada<br />- <i>Cour canadienne de l’impôt</i>
 
+Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d'appel des transports du Canada</i>
+
 Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des transports Canada</i>
 
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F).
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61.
 
 
 
