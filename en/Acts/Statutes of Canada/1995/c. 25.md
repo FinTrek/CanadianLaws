@@ -408,7 +408,7 @@ the justice may issue a warrant authorizing the representative of the National A
 
 <sup><a href='#C-27.6_en_1'>[*]</a></sup>**27** This Act or any provision of this Act comes into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='C-27.6_en_1'><sup>*</sup></a>: [Note: Act, other than section 8, in force January 1, 2001, *see* SI/2001-3.]<br />
+<a name='C-27.6_en_1'><sup>*</sup></a>: [Note: Act, other than section 8, in force January 1, 2001, *see* SI/2001-3; section 8 in force July 1, 2004, *see* SI/2004-71.]<br />
 
 
 
