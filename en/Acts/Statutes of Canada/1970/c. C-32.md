@@ -2390,7 +2390,7 @@ but a person is liable to pay compensation as aforesaid if it is proved that he 
 
 - **(2)** A director is not liable under subsection (1) unless
 	- **(a)** the company has been sued for the debt within six months after it has become due and execution has been returned unsatisfied in whole or in part, or
-	- **(b)** the company has within that period gone into liquidation or has been ordered to be wound up under the Winding-up Act, or has made an authorized assignment under the Bankruptcy Act or a receiving order under the Bankruptcy Act has been made against it and a claim for such debt has been duly filed and proved,
+	- **(b)** the company has within that period gone into liquidation or has been ordered to be wound up under the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md), or has made an authorized assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or a bankruptcy order under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) has been made against it and a claim for such debt has been duly filed and proved,
 nor unless he is sued for such debt while a director or within one year after he has ceased to be a director.
 
 **Amount recoverable**
@@ -2400,7 +2400,7 @@ nor unless he is sued for such debt while a director or within one year after he
 **Directors’ preference**
 
 - **(4)** Where the claim for such debt has been proved in liquidation or winding-up proceedings or under the Winding-up Act or the Bankruptcy Act a director, upon payment of the debt, is entitled to any preference that the creditor paid would have been entitled to, and where a judgment has been recovered he is entitled to an assignment of the judgment.
-> R.S., 1952, c. 53, s. 97.
+> R.S., 1970, c. C-32, s. 99; 2004, c. 25, s. 189.
 
 
 
@@ -3842,11 +3842,11 @@ the private company and the other company with which it would otherwise be so af
 **Saving**
 
 **129.2** Sections 102, 118, 127, 128, 129.1 and 150 do not apply to
-- **(a)** a company for which a receiver and manager has been appointed by a court of competent jurisdiction;
-- **(b)** a company for which a liquidator has been appointed under the Winding-up Act by a court of competent jurisdiction; or
-- **(c)** a company in respect of which a receiving order has been made or an assignment has been filed under the Bankruptcy Act;
+- **(a)** a company for which a receiver and manager has been appointed by a court of competent jurisdiction,
+- **(b)** a company for which a liquidator has been appointed under the Winding-up Act by a court of competent jurisdiction, or
+- **(c)** a company in respect of which a bankruptcy order has been made or an assignment has been filed under the Bankruptcy and Insolvency Act;
 while the company is under the control of any receiver and manager, liquidator or trustee in bankruptcy.
-> R.S., 1970, c. 10(1st Supp.), s. 20.
+> R.S., 1970, c. 10(1st Supp.), s. 20; 2004, c. 25, s. 190.
 
 
 
