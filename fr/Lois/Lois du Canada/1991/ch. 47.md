@@ -9372,21 +9372,39 @@ où :
 
 
 
-**Sûretés**
+**Principes en matière de sûretés**
 
-**470** 
+**470.** 
 
-- **(1)** Sous réserve du paragraphe (3), il est interdit à la société de grever ses biens pour garantir l’exécution de ses obligations, sauf avec l’autorisation écrite du surintendant ou sauf si l’obligation est contractée à l’égard de la réassurance de risques assurés par un autre assureur.
+- **(1)** La société est tenue de se conformer aux principes que son conseil d’administration a le devoir d’établir en ce qui concerne la constitution de sûretés pour garantir l’exécution de ses obligations et l’acquisition d’un droit de propriété effective sur des biens grevés d’une sûreté.
 
-**Bien grevé**
+**Ordonnance de modification**
 
-- **(2)** La société est tenue de notifier par écrit au surintendant tout droit de propriété effective qu’elle acquiert sur un bien meuble ou immeuble grevé d’une sûreté, sauf si ce droit découle de la réalisation d’une sûreté en sa faveur.
+- **(2)** Le surintendant peut, par ordonnance, obliger la société à modifier ces principes selon les modalités qu’il précise dans l’ordonnance.
 
-**Exceptions**
+**Obligation de se conformer**
 
-- **(3)** Le paragraphe (1) ne s’applique pas aux sûretés grevant :
-	- **a)** soit les catégories de biens meubles désignées par ordonnance du surintendant;
-	- **b)** soit les biens dont la valeur totale est moindre que le montant fixé par ordonnance du surintendant.
+- **(3)** La société est tenue de se conformer à l’ordonnance visée au paragraphe (2) dans le délai que lui fixe le surintendant.
+> 1991, ch. 47, art. 470; 2001, ch. 9, art. 418.
+
+
+
+
+
+**Règlements et lignes directrices**
+
+**470.1** Le gouverneur en conseil peut prendre des règlements et le surintendant donner des lignes directrices concernant l’exigence formulée au paragraphe 470(1).
+> 2001, ch. 9, art. 418.
+
+
+
+
+
+**Exception**
+
+**470.2** Les articles 470 et 470.1 ne s’appliquent pas aux sûretés constituées par la société pour garantir l’exécution de ses obligations envers la Banque du Canada.
+> 2001, ch. 9, art. 418.
+
 
 
 
