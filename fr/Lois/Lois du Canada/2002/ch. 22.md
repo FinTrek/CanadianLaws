@@ -5077,7 +5077,7 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 - **(2)** L’administrateur n’encourt de responsabilité que si :
 	- **a)** un certificat précisant la somme pour laquelle la personne morale est responsable a été enregistré à la Cour fédérale en application de l’article 288, et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
 	- **b)** la personne morale a entrepris des procédures de liquidation ou de dissolution, ou elle a fait l’objet d’une dissolution, et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant le début des procédures ou, si elle est antérieure, la date de la dissolution;
-	- **c)** la personne morale a fait une cession ou une ordonnance de séquestre a été rendue contre elle en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
+	- **c)** la personne morale a fait une cession ou une ordonnance de faillite a été rendue contre elle en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et une réclamation de la somme pour laquelle elle est responsable a été établie dans les six mois suivant la cession ou l’ordonnance.
 
 **Diligence**
 
@@ -5102,6 +5102,8 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 **Répétition**
 
 - **(8)** L’administrateur qui a satisfait à la réclamation peut répéter les parts des administrateurs tenus responsables de la réclamation.
+> 2002, ch. 22, art. 295; 2004, ch. 25, art. 198.
+
 
 
 
