@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1993/c.%2031.md)
 
-# Loi sur la Table ronde nationale sur l'environnement et l'économie
+# Loi sur la Table ronde nationale sur l’environnement et l’économie
 
 **L.C. 1993, ch. 31**
 
@@ -39,13 +39,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre les possibilités pour les générations à venir de satisfaire les leurs.
 
-***directeur général*** Le directeur général de l’Organisme nommé conformément à l’article 10.
+
+***directeur général***[Abrogée, 2004, ch. 16, art. 19]
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
 
+
 ***Organisme*** La Table ronde nationale sur l’environnement et l’économie constituée par l’article 3.
 
+
 ***président*** Le président de l’Organisme nommé conformément au paragraphe 6(1).
+
+
+***président-directeur général*** Le président-directeur général de l'Organisme nommé conformément à l'article 10.
+
+> 1993, ch. 31, art. 2; 2004, ch. 16, art. 19.
+
 
 
 
@@ -163,11 +172,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Est constitué le comité directeur de l’Organisme, composé du président, du directeur général et de cinq à sept autres membres de l’Organisme nommés par leurs collègues pour le mandat qu’ils jugent indiqué.
+- **(1)** Est constitué le comité directeur de l'Organisme, composé du président, du président-directeur général et de cinq à sept autres membres de l'Organisme nommés par leurs collègues pour le mandat qu'ils jugent indiqué.
 
 **Pouvoirs et fonctions du comité directeur**
 
-- **(2)** Le comité directeur assiste le directeur général dans le contrôle des travaux de l’Organisme; il dispose des pouvoirs et remplit les fonctions qui lui sont attribués par règlement administratif ou par résolution de l’Organisme.
+- **(2)** Le comité directeur assiste le président-directeur général dans le contrôle des travaux de l'Organisme; il dispose des pouvoirs et remplit les fonctions qui lui sont attribués par règlement administratif ou par résolution de l'Organisme.
 
 **Président du comité directeur**
 
@@ -176,31 +185,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réunions**
 
 - **(4)** Le comité directeur tient un minimum de quatre réunions par an.
+> 1993, ch. 31, art. 9; 2004, ch. 16, art. 20.
 
 
 
 
-## Directeur général
+
+## Président-directeur général
 
 
 
-**Directeur général**
+**Président-directeur général**
 
 **10** 
 
-- **(1)** Le gouverneur en conseil nomme, sur la recommandation du ministre, le directeur général, à titre amovible, pour un mandat maximal de trois ans.
+- **(1)** Le gouverneur en conseil nomme, sur la recommandation du ministre, le président-directeur général, à titre amovible, pour un mandat maximal de cinq ans.
 
 **Attributions**
 
-- **(2)** Le directeur général est le premier dirigeant de l’Organisme et, à ce titre, en assure la direction et contrôle la gestion de son personnel. À cet effet, il dispose des pouvoirs et remplit les fonctions qui lui sont attribués par règlement administratif ou par résolution de l’Organisme.
+- **(2)** Le président-directeur général est le premier dirigeant de l'Organisme et, à ce titre, en assure la direction et contrôle la gestion de son personnel. À cet effet, il dispose des pouvoirs et remplit les fonctions qui lui sont attribués par règlement administratif ou par résolution de l'Organisme.
 
 **Renouvellement**
 
-- **(3)** Le mandat du directeur général est renouvelable.
+- **(3)** Le mandat du président-directeur général est renouvelable.
 
 **Intérim**
 
-- **(4)** En cas d’absence ou d’empêchement du directeur général ou de vacance de son poste, le comité directeur peut autoriser un membre du personnel de l’Organisme à assurer l’intérim.
+- **(4)** En cas d'absence ou d'empêchement du président-directeur général ou de vacance de son poste, le comité directeur peut autoriser un membre du personnel de l'Organisme à assurer l'intérim.
+> 1993, ch. 31, art. 10; 2004, ch. 16, art. 21.
+
 
 
 
@@ -222,9 +235,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les membres de l’Organisme ont droit, pour leur participation aux réunions et pour l’exécution des fonctions que leur confère la présente loi, à la rémunération que fixe le gouverneur en conseil.
 
-**Traitement du directeur général**
+**Traitement du président-directeur général**
 
-- **(2)** Le traitement du directeur général ainsi que toute autre rémunération à lui verser sont fixés par le gouverneur en conseil.
+- **(2)** Le traitement du président-directeur général ainsi que toute autre rémunération à lui verser sont fixés par le gouverneur en conseil.
+> 1993, ch. 31, art. 12; 2004, ch. 16, art. 22.
+
 
 
 
@@ -235,9 +250,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les membres de l’Organisme ont droit aux frais de déplacement et de séjour entraînés par l’accomplissement des fonctions qui leur sont confiées en application de la présente loi.
 
-**Idem**
+**Indemnités**
 
-- **(2)** Le directeur général est indemnisé des frais de déplacement et de séjour entraînés par l’accomplissement des fonctions qui lui sont confiées en application de la présente loi.
+- **(2)** Le président-directeur général est indemnisé des frais de déplacement et de séjour entraînés par l'accomplissement des fonctions qui lui sont confiées en application de la présente loi.
+> 1993, ch. 31, art. 13; 2004, ch. 16, art. 23.
+
 
 
 
@@ -337,7 +354,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Indemnisation**
 
-**21** Le directeur général et le personnel de l’Organisme sont réputés être agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et avoir un emploi au sein de l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+**21** Le président-directeur général et le personnel de l'Organisme sont réputés être agents de l'État pour l'application de la Loi sur l'indemnisation des agents de l'État et avoir un emploi au sein de l'administration publique fédérale pour l'application des règlements pris en vertu de l'article 9 de la Loi sur l'aéronautique.
+> 1993, ch. 31, art. 21; 2004, ch. 16, art. 24.
+
 
 
 
