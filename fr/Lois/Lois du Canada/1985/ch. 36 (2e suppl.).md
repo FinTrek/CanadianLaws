@@ -1220,6 +1220,8 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Frais**
 
 - **(7)** Les conseillers ont droit au paiement des frais de déplacement et de séjour entraînés par l’exercice des attributions du Conseil.
+> L.R. (1985), ch. 36 (2e suppl.), art. 78; 2003, ch. 22, art. 131(A).
+
 
 
 
