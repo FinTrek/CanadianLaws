@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md)
 
-#  Yukon Environmental and Socio-economic Assessment Act 
+# Yukon Environmental and Socio-economic Assessment Act
 
 **S.C. 2003, c. 7**
 
@@ -770,7 +770,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(b)** all stages of the project or existing project;
 	- **(c)** the significance of any environmental or socio-economic effects of the project or existing project that have occurred or might occur in or outside Yukon, including the effects of malfunctions or accidents;
 	- **(d)** the significance of any adverse cumulative environmental or socio-economic effects that have occurred or might occur in connection with the project or existing project in combination with the effects of
-		- **(i)** other projects for which proposals have been submitted under subsection 50(1), or
+		- **(i)** other projects for which proposals have been submitted under subsection 50(1), or
 		- **(ii)** other existing or proposed activities in or outside Yukon that are known to the designated office, executive committee or panel of the Board from information provided to it or obtained by it under this Act;
 	- **(e)** alternatives to the project or existing project, or alternative ways of undertaking or operating it, that would avoid or minimize any significant adverse environmental or socio-economic effects;
 	- **(f)** mitigative measures and measures to compensate for any significant adverse environmental or socio-economic effects;
@@ -781,7 +781,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Additional matters to be considered**
 
-- **(2)** In addition to the matters referred to in subsection (1), the executive committee or a panel of the Board shall take the following matters into consideration:
+- **(2)** In addition to the matters referred to in subsection (1), the executive committee or a panel of the Board shall take the following matters into consideration:
 	- **(a)** the need for effects monitoring; and
 	- **(b)** the capacity of any renewable resources that are likely to be significantly affected by the project or existing project to meet present and future needs.
 
@@ -1540,12 +1540,14 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(e)** the Minister of the Environment, if the recommendation to the decision body was made by a review panel referred to in section 63;
 	- **(f)** any independent regulatory agency from which an authorization is required, or to which an application is made for financial assistance, to enable the project to be undertaken;
 	- **(g)** the Yukon Surface Rights Board, if an access order is required for the project under the [Yukon Surface Rights Board Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2043.md);
-	- **(h)** the Yukon Territory Water Board, if a licence is required for the project under the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md); and
+	- **(h)** a body established by territorial law and having jurisdiction in relation to rights in respect of waters, if the grant of rights from that body is required for the project under territorial law; and
 	- **(i)** any other person or body that is required to implement the decision document under subsection 82(2), 83(2) or 84(2) or (3).
 
 **Decision not in conformity with land use plan**
 
 - **(2)** Where a decision document allows a project to be undertaken not in conformity with a land use plan referred to in section 44, the decision body shall provide a copy of the decision document to the planning commission that prepared the plan and to any person or body that approved the plan.
+> 2003, c. 7, ss. 81, 133.
+
 
 
 
@@ -1608,9 +1610,11 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Water licences**
 
-**86** The Yukon Territory Water Board may not, under the [Yukon Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2040.md),
-- **(a)** issue a licence if the issuance of a licence is contrary to a decision document issued by another federal agency or a decision document that a territorial agency, municipal government or first nation is required by subsection 83(2) or 84(2) or (3) to implement; or
-- **(b)** set terms of a licence that conflict with such a decision document, to the extent that another federal agency or a territorial agency, municipal government or first nation is required to implement that decision document.
+**86** A body established by territorial law and having jurisdiction in relation to rights in respect of waters may not, under territorial law,
+- **(a)** grant or renew rights in respect of waters contrary to a decision document issued by a federal agency or a decision document that is to be implemented by a territorial agency, municipal government or first nation under subsection 83(2) or 84(2) or (3); or
+- **(b)** set terms of such rights that conflict with such a decision document, to the extent that the decision document is required to be implemented by a federal agency or a territorial agency, municipal government or first nation.
+> 2003, c. 7, ss. 86, 133.
+
 
 
 
@@ -1671,11 +1675,11 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 - **(1)** The following definitions apply in this section and section 91.
 
-***Agreement*** means the Inuvialuit Final Agreement, given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md), chapter 24 of the Statutes of Canada, 1984, as it read on the date that the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md) came into force.
+***Agreement*** means the Inuvialuit Final Agreement, given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md), chapter 24 of the Statutes of Canada, 1984, as it read on the date that the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md) came into force. (*convention*)
 
- and  et ***Screening Committee*** and ***Review Board*** mean the Environmental Impact Screening Committee and the Environmental Impact Review Board, respectively, established by section 11 of the Agreement.
+***Screening Committee*** and ***Review Board*** mean the Environmental Impact Screening Committee and the Environmental Impact Review Board, respectively, established by section 11 of the Agreement. (*Bureau d’examen des répercussions environnementales* et *Comité d’étude des répercussions environnementales*)
 
-***Yukon North Slope*** has the same meaning as in section 12 of the Agreement.
+***Yukon North Slope*** has the same meaning as in section 12 of the Agreement. (*Versant nord du Yukon*)
 
 **Additional consideration**
 
@@ -2171,14 +2175,18 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 **Court reference by Board**
 
-**115** At the request of a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, the Board may refer a question of law or jurisdiction arising in any proceedings under this Act to the Supreme Court of the Yukon Territory.
+**115** At the request of a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, the Board may refer a question of law or jurisdiction arising in any proceedings under this Act to the Supreme Court of Yukon.
+> 2003, c. 7, ss. 115, 133(E).
+
 
 
 
 
 **Application for judicial review**
 
-**116** Notwithstanding the exclusive jurisdiction referred to in section 18 of the Federal Court Act, the Attorney General of Canada, the territorial minister or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Yukon Territory for any relief against the Board, a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
+**116** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada, the territorial minister or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of Yukon for any relief against the Board, a designated office, the executive committee, a panel of the Board, a joint panel or a decision body, by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
+> 2003, c. 7, ss. 116, 132.
+
 
 
 
@@ -2324,8 +2332,6 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-**R.S., c. A-1**
-
 #### Access to Information Act
 
 
@@ -2338,8 +2344,6 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-**R.S., c. P-21**
-
 #### Privacy Act
 
 
@@ -2348,8 +2352,6 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-**1994, c. 35**
-
 #### Yukon First Nations Self-Government Act
 
 
@@ -2357,8 +2359,6 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
-
-**1994, c. 43**
 
 #### Yukon Surface Rights Board Act
 
@@ -2388,7 +2388,7 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 <sup><a href='#Y-2-2Enote1'>[*]</a></sup>**134** Section 6, Part 2 and sections 124 to 126 and 131 come into force eighteen months after the day on which this Act receives royal assent or on any earlier day that may be fixed by order of the Governor in Council.
 
-<a name='Y-2-2Enote1'><sup>*</sup></a>: [Note: Act, except section 6, Part 2 and sections 124 to 126 and 131, in force on assent May 13, 2003.]<br />
+<a name='Y-2-2Enote1'><sup>*</sup></a>: [Note: Act, except section 6, Part 2 and sections 124 to 126 and 131, in force on assent May 13, 2003; section 6, Part 2 and sections 124 to 126 and 131, in force November 13, 2004.]<br />
 
 
 
