@@ -240,7 +240,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **12** 
 
-- **(1)** Every person or entity referred to in subsection (3) shall report to an officer, in accordance with the regulations, the importation or exportation of currency or monetary instruments of a value greater than the prescribed amount.
+- **(1)** Every person or entity referred to in subsection (3) shall report to an officer, in accordance with the regulations, the importation or exportation of currency or monetary instruments of a value equal to or greater than the prescribed amount.
 
 **Limitation**
 
@@ -249,7 +249,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Who must report**
 
 - **(3)** Currency or monetary instruments shall be reported under subsection (1)
-	- **(a)** in the case of currency or monetary instruments in the actual possession of a person arriving in or departing from Canada, or that form part of their baggage if they and their baggage are being carried on board the same conveyance, by that person;
+	- **(a)** in the case of currency or monetary instruments in the actual possession of a person arriving in or departing from Canada, or that form part of their baggage if they and their baggage are being carried on board the same conveyance, by that person or, in prescribed circumstances, by the person in charge of the conveyance;
 	- **(b)** in the case of currency or monetary instruments imported into Canada by courier or as mail, by the exporter of the currency or monetary instruments or, on receiving notice under subsection 14(2), by the importer;
 	- **(c)** in the case of currency or monetary instruments exported from Canada by courier or as mail, by the exporter of the currency or monetary instruments;
 	- **(d)** in the case of currency or monetary instruments, other than those referred to in paragraph (a) or imported or exported as mail, that are on board a conveyance arriving in or departing from Canada, by the person in charge of the conveyance; and
@@ -264,6 +264,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Sending reports to Centre**
 
 - **(5)** Officers shall send the reports they receive under subsection (1) to the Centre.
+> 2000, c. 17, s. 12; 2001, c. 41, s. 54.
+
 
 
 
@@ -321,7 +323,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** any person who has arrived in Canada, within a reasonable time after their arrival in Canada,
 	- **(b)** any person who is about to leave Canada, at any time before their departure, or
 	- **(c)** any person who has had access to an area designated for use by persons about to leave Canada and who leaves the area but does not leave Canada, within a reasonable time after they leave the area,
-if the officer suspects on reasonable grounds that the person has secreted on or about their person currency or monetary instruments that are of a value greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection.
+if the officer suspects on reasonable grounds that the person has secreted on or about their person currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection.
 
 **Person taken before senior officer**
 
@@ -334,6 +336,8 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Search by same sex**
 
 - **(4)** No person shall be searched under this section by a person who is not of the same sex, and if there is no officer of the same sex at the place where the search is to take place, an officer may authorize any suitable person of the same sex to perform the search.
+> 2000, c. 17, s. 15; 2001, c. 41, s. 55.
+
 
 
 
@@ -342,11 +346,13 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **16** 
 
-- **(1)** If an officer suspects on reasonable grounds that there are, on or about a conveyance, currency or monetary instruments of a value greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may stop, board and search the conveyance, examine anything in or on it and open or cause to be opened any package or container in or on it and direct that the conveyance be moved to a customs office or other suitable place for the search, examination or opening.
+- **(1)** If an officer suspects on reasonable grounds that there are, on or about a conveyance, currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may stop, board and search the conveyance, examine anything in or on it and open or cause to be opened any package or container in or on it and direct that the conveyance be moved to a customs office or other suitable place for the search, examination or opening.
 
 **Search of baggage**
 
-- **(2)** If an officer suspects on reasonable grounds that there are, in baggage, currency or monetary instruments that are of a value greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
+- **(2)** If an officer suspects on reasonable grounds that there are, in baggage, currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
+> 2000, c. 17, s. 16; 2001, c. 41, s. 56.
+
 
 
 
@@ -355,7 +361,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **17** 
 
-- **(1)** An officer may examine any mail that is being imported or exported and open or cause to be opened any such mail that the officer suspects on reasonable grounds contains currency or monetary instruments of a value greater than the amount prescribed for the purpose of subsection 12(1).
+- **(1)** An officer may examine any mail that is being imported or exported and open or cause to be opened any such mail that the officer suspects on reasonable grounds contains currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1).
 
 **Exception**
 
@@ -364,6 +370,8 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Opening of mail in officer’s presence**
 
 - **(3)** An officer may cause mail that weighs 30 grams or less to be opened in the officer’s presence by the person to whom it is addressed, the person who sent it or a person authorized by either of those persons.
+> 2000, c. 17, s. 17; 2001, c. 41, s. 57.
+
 
 
 
@@ -380,7 +388,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Return of seized currency or monetary instruments**
 
-- **(2)** The officer shall, on payment of a penalty in the prescribed amount, return the seized currency or monetary instruments to the person from whom they were seized or to the lawful owner unless the officer has reasonable grounds to suspect that the currency or monetary instruments are proceeds of crime within the meaning of subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(2)** The officer shall, on payment of a penalty in the prescribed amount, return the seized currency or monetary instruments to the individual from whom they were seized or to the lawful owner unless the officer has reasonable grounds to suspect that the currency or monetary instruments are proceeds of crime within the meaning of subsection 462.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or funds for use in the financing of terrorist activities.
 
 **Notice of seizure**
 
@@ -392,7 +400,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Service of notice**
 
 - **(4)** The service of a notice under paragraph (3)(b) is sufficient if it is sent by registered mail addressed to the exporter.
-> 2000, c. 17, s. 18; 2001, c. 32, s. 71.
+> 2000, c. 17, s. 18; 2001, c. 32, s. 71, c. 41, ss. 58, 134.
 
 
 
@@ -427,7 +435,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **21** 
 
-- **(1)** On request of an officer, any mail that is being sent from a place in Canada to a place in a foreign country and that contains or is suspected to contain currency or monetary instruments that are of a value greater than the amount prescribed for the purpose of subsection 12(1) shall be submitted by the Canada Post Corporation to an officer.
+- **(1)** On request of an officer, any mail that is being sent from a place in Canada to a place in a foreign country and that contains or is suspected to contain currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) shall be submitted by the Canada Post Corporation to an officer.
 
 **Mail in the course of post**
 
@@ -444,6 +452,8 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Non-mailable matter**
 
 - **(5)** Any non-mailable matter found by an officer in mail made available to the officer under this section shall be dealt with in accordance with the regulations made under the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
+> 2000, c. 17, s. 21; 2001, c. 41, s. 59.
+
 
 
 
@@ -456,11 +466,13 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **22** 
 
-- **(1)** An officer who retains currency or monetary instruments forfeited under subsection 14(5) shall without delay send them to the Minister of Public Works and Government Services.
+- **(1)** An officer who retains currency or monetary instruments forfeited under subsection 14(5) shall send the currency or monetary instruments to the Minister of Public Works and Government Services.
 
 **When seizure or payment of a penalty**
 
-- **(2)** An officer who seizes currency or monetary instruments or is paid a penalty under subsection 18(2) shall without delay send the currency or monetary instruments or the penalty, as the case may be, to the Minister of Public Works and Government Services.
+- **(2)** An officer who seizes currency or monetary instruments or is paid a penalty under subsection 18(2) shall send the currency or monetary instruments or the penalty, as the case may be, to the Minister of Public Works and Government Services.
+> 2000, c. 17, s. 22; 2001, c. 41, s. 60.
+
 
 
 
@@ -489,7 +501,9 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Request for Minister’s decision**
 
-**25** A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may within 30 days after the date of the seizure request a decision of the Minister as to whether subsection 12(1) was contravened by giving notice in writing to the officer who seized the currency or monetary instruments or to an officer at the customs office closest to the place where the seizure took place.
+**25** A person from whom currency or monetary instruments were seized under section 18, or the lawful owner of the currency or monetary instruments, may within 90 days after the date of the seizure request a decision of the Minister as to whether subsection 12(1) was contravened, by giving notice in writing to the officer who seized the currency or monetary instruments or to an officer at the customs office closest to the place where the seizure took place.
+> 2000, c. 17, s. 25; 2001, c. 41, s. 61.
+
 
 
 
@@ -515,11 +529,13 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Deferral of decision**
 
-- **(2)** If charges are laid with respect to a money laundering offence in respect of the currency or monetary instruments seized, the Minister may defer making a decision but shall make it in any case no later than 30 days after the conclusion of all court proceedings in respect of those charges.
+- **(2)** If charges are laid with respect to a money laundering offence or a terrorist activity financing offence in respect of the currency or monetary instruments seized, the Minister may defer making a decision but shall make it in any case no later than 30 days after the conclusion of all court proceedings in respect of those charges.
 
 **Notice of decision**
 
 - **(3)** The Minister shall, without delay after making a decision, serve on the person who requested it a written notice of the decision together with the reasons for it.
+> 2000, c. 17, s. 27; 2001, c. 41, s. 62.
+
 
 
 
@@ -584,7 +600,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **32** 
 
-- **(1)** If currency or monetary instruments have been seized as forfeit under this Part, any person, other than the person in whose possession the currency or monetary instruments were when seized, who claims an interest in the currency or monetary instruments as owner may, within 60 days after the seizure, apply by notice in writing to the court for an order under section 33.
+- **(1)** If currency or monetary instruments have been seized as forfeit under this Part, any person, other than the person in whose possession the currency or monetary instruments were when seized, who claims an interest in the currency or monetary instruments as owner may, within 90 days after the seizure, apply by notice in writing to the court for an order under section 33.
 
 **Date of hearing**
 
@@ -607,6 +623,8 @@ The Minister of Public Works and Government Services shall give effect to a deci
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
 	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
+> 2000, c. 17, s. 32; 2001, c. 41, s. 63.
+
 
 
 
@@ -665,11 +683,11 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Disclosure of information to a police force**
 
-- **(2)** An officer who has reasonable grounds to suspect that information referred to in subsection (1) would be relevant to investigating or prosecuting a money laundering offence may disclose the information to the appropriate police force.
+- **(2)** An officer who has reasonable grounds to suspect that information referred to in subsection (1) would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence may disclose the information to the appropriate police force.
 
 **Disclosure of information to the Centre**
 
-- **(3)** An officer who has reasonable grounds to suspect that information referred to in subsection (1) would be of assistance to the Centre in the detection, prevention or deterrence of money laundering may disclose the information to the Centre.
+- **(3)** An officer may disclose to the Centre information referred to in subsection (1) if the officer has reasonable grounds to suspect that it would be of assistance to the Centre in the detection, prevention or deterrence of money laundering or of the financing of terrorist activities.
 
 **Recording of reasons for decision**
 
@@ -688,6 +706,8 @@ the applicant is entitled to an order declaring that their interest is not affec
 **Definition of official**
 
 - **(6)** In this section and section 37, ***official*** means a person who obtained or who has or had access to information referred to in subsection (1) in the course of exercising powers or performing duties and functions under this Part.
+> 2000, c. 17, s. 36; 2001, c. 41, s. 64.
+
 
 
 
@@ -1721,6 +1741,6 @@ The order must be complied with within the period following the service of the o
 
 <sup><a href='#P-24.501_en_3'>[*]</a></sup>**99** The provisions of this Act, other than section 97, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-24.501_en_3'><sup>*</sup></a>: [Note: Section 97 in force on assent June 29, 2000; sections 1 to 4, 38 and 40 to 44, subsection 45(1), sections 46 to 53, paragraphs 54(b) to (d), subsections 55(1), (2) and (6) and sections 56 to 61, 66 to 82, 84, 85, 90 and 91 in force July 5, 2000, *see* SI/2000-55; sections 5, 7, 8, 10 and 11, the portion of section 54 before paragraph (b), subsections 55(3) to (5.1) and (7) and section 89 in force October 28, 2001, *see* SI/2001-88; sections 6 and 9, subsection 45(2) and sections 62 to 65, 83 and 98 in force June 12, 2002, *see* SI/2002-84.]<br />
+<a name='P-24.501_en_3'><sup>*</sup></a>: [Note: Section 97 in force on assent June 29, 2000; sections 1 to 4, 38 and 40 to 44, subsection 45(1), sections 46 to 53, paragraphs 54 (b) to (d), subsections 55(1), (2) and (6) and sections 56 to 61, 66 to 82, 84, 85, 90 and 91 in force July 5, 2000, *see* SI/2000-55; sections 5, 7, 8, 10 and 11, the portion of section 54 before paragraph (b), subsections 55(3) to (5.1) and (7) and section 89 in force October 28, 2001, *see* SI/2001-88; sections 6 and 9, subsection 45(2) and sections 62 to 65, 83 and 98 in force June 12, 2002, *see* SI/2002-84; sections 12 to 37 and 39 in force January 6, 2003, *see* SI/2002-153.]<br />
 
 
