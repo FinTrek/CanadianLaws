@@ -6943,179 +6943,179 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 
 **65** Les composés organiques volatils participant à des réactions photochimiques atmosphériques, à l'exclusion des composés suivants :
 
-**a)** méthane;
+**a) ** méthane;
 
 
 
-**b)** éthane;
+**b) ** éthane;
 
 
 
-**c)** chlorure de méthylène (dichlorométhane);
+**c) ** chlorure de méthylène (dichlorométhane);
 
 
 
-**d)** 1,1,1-trichloroéthane (méthylchloroforme);
+**d) ** 1,1,1-trichloroéthane (méthylchloroforme);
 
 
 
-**e)** 1,1,2-trichloro-1,2,2-trifluoroéthane (CFC-113);
+**e) ** 1,1,2-trichloro-1,2,2-trifluoroéthane (CFC-113);
 
 
 
-**f)** trichlorofluorométhane (CFC-11);
+**f) ** trichlorofluorométhane (CFC-11);
 
 
 
-**g)** dichlorodifluorométhane (CFC-12);
+**g) ** dichlorodifluorométhane (CFC-12);
 
 
 
-**h)** chlorodifluorométhane (HCFC-22);
+**h) ** chlorodifluorométhane (HCFC-22);
 
 
 
-**i)** trifluorométhane (HFC-23);
+**i) ** trifluorométhane (HFC-23);
 
 
 
-**j)** 1,2-dichloro-1,1,2,2-tétrafluoroéthane (CFC-114);
+**j) ** 1,2-dichloro-1,1,2,2-tétrafluoroéthane (CFC-114);
 
 
 
-**k)** chloropentafluoroéthane (CFC-115);
+**k) ** chloropentafluoroéthane (CFC-115);
 
 
 
-**l)** 1,1,1-trifluoro-2,2-dichloroéthane (HCFC-123);
+**l) ** 1,1,1-trifluoro-2,2-dichloroéthane (HCFC-123);
 
 
 
-**m)** 1,1,1,2-tétrafluoroéthane (HFC-134a);
+**m) ** 1,1,1,2-tétrafluoroéthane (HFC-134a);
 
 
 
-**n)** 1,1-dichloro-1-fluoroéthane (HCFC-141b);
+**n) ** 1,1-dichloro-1-fluoroéthane (HCFC-141b);
 
 
 
-**o)** 1-chloro-1,1-difluoroéthane (HCFC-142b);
+**o) ** 1-chloro-1,1-difluoroéthane (HCFC-142b);
 
 
 
-**p)** 2-chloro-1,1,1,2-tétrafluoroéthane (HCFC-124);
+**p) ** 2-chloro-1,1,1,2-tétrafluoroéthane (HCFC-124);
 
 
 
-**q)** pentafluoroéthane (HFC-125);
+**q) ** pentafluoroéthane (HFC-125);
 
 
 
-**r)** 1,1,2,2-tétrafluoroéthane (HFC-134);
+**r) ** 1,1,2,2-tétrafluoroéthane (HFC-134);
 
 
 
-**s)** 1,1,1-trifluoroéthane (HFC-143a);
+**s) ** 1,1,1-trifluoroéthane (HFC-143a);
 
 
 
-**t)** 1,1-difluoroéthane (HFC-152a);
+**t) ** 1,1-difluoroéthane (HFC-152a);
 
 
 
-**u)** parachlorobenzotrifluorure (PCBTF);
+**u) ** parachlorobenzotrifluorure (PCBTF);
 
 
 
-**v)** perméthylsiloxanes cycliques, ramifiés ou linéaires;
+**v) ** perméthylsiloxanes cycliques, ramifiés ou linéaires;
 
 
 
-**w)** acétone;
+**w) ** acétone;
 
 
 
-**x)** perchloroéthylène (tétrachloroéthylène);
+**x) ** perchloroéthylène (tétrachloroéthylène);
 
 
 
-**y)** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca);
+**y) ** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca);
 
 
 
-**z)** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb);
+**z) ** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb);
 
 
 
-**z.1)** 1,1,1,2,3,4,4,5,5,5-décafluoropentane (HFC 43-10mee);
+**z.1) ** 1,1,1,2,3,4,4,5,5,5-décafluoropentane (HFC 43-10mee);
 
 
 
-**z.2)** difluorométhane (HFC-32);
+**z.2) ** difluorométhane (HFC-32);
 
 
 
-**z.3)** fluorure d'éthyle (HFC-161);
+**z.3) ** fluorure d'éthyle (HFC-161);
 
 
 
-**z.4)** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
+**z.4) ** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
 
 
 
-**z.5)** 1,1,2,2,3-pentafluoropropane (HFC-245ca);
+**z.5) ** 1,1,2,2,3-pentafluoropropane (HFC-245ca);
 
 
 
-**z.6)** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
+**z.6) ** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
 
 
 
-**z.7)** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
+**z.7) ** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
 
 
 
-**z.8)** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
+**z.8) ** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
 
 
 
-**z.9)** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
+**z.9) ** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
 
 
 
-**z.10)** 1,1,1,3,3-pentafluorobutane (HFC-365mfc);
+**z.10) ** 1,1,1,3,3-pentafluorobutane (HFC-365mfc);
 
 
 
-**z.11)** chlorofluorométhane (HCFC-31);
+**z.11) ** chlorofluorométhane (HCFC-31);
 
 
 
-**z.12)** 1-chloro-1-fluoroéthane (HCFC-151a);
+**z.12) ** 1-chloro-1-fluoroéthane (HCFC-151a);
 
 
 
-**z.13)** 1,2-dichloro-1,1,2-trifluoroéthane (HCFC-123a);
+**z.13) ** 1,2-dichloro-1,1,2-trifluoroéthane (HCFC-123a);
 
 
 
-**z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
+**z.14) ** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C <sub>4</sub>F <sub>9</sub>OCH <sub>3</sub>);
 
 
 
-**z.15)** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
+**z.15) ** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF <sub>3</sub>) <sub>2</sub>CFCF <sub>2</sub>OCH <sub>3</sub>);
 
 
 
-**z.16)** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
+**z.16) ** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C <sub>4</sub>F <sub>9</sub>OC <sub>2</sub>H <sub>5</sub>);
 
 
 
-**z.17)** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>);
+**z.17) ** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF <sub>3</sub>) <sub>2</sub>CFCF <sub>2</sub>OC <sub>2</sub>H <sub>5</sub>);
 
 
 
-**z.18)** acétate de méthyle et perfluorocarbures faisant partie de l'une ou l'autre des catégories suivantes :
+**z.18) ** acétate de méthyle et perfluorocarbures faisant partie de l'une ou l'autre des catégories suivantes :
 
 **(i)** perfluoroalkanes cycliques, ramifiés ou linéaires,
 
@@ -7136,7 +7136,16 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229.
+**66** Hexachlorobutadiène, dont la formule moléculaire est C<sub>4</sub>Cl<sub>6</sub>
+
+
+**67** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des fonderies ou des affineries de cuivre, ou des deux
+
+
+**68** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des usines de traitement du zinc
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277.
 
 
 
