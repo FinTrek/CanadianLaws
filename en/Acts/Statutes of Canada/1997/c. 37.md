@@ -54,7 +54,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***enforcement officer*** means an officer or a member of a class of officers designated by the Minister as an enforcement officer for the purposes of this Act.
 
-***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the Minister responsible for the Parks Canada Agency.
 
 ***park*** means the Saguenay-St. Lawrence Marine Park created by section 5.
 
@@ -63,7 +63,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***Quebec minister*** means the minister of the Government of Quebec responsible for the law of the Province of Quebec entitled An Act respecting the Saguenay-St. Lawrence Marine Park, chapter 16 of the Statutes of Quebec, 1997.
 
 ***superintendent*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of the park, and includes any other person appointed under that Act who is authorized by that person to act on their behalf.
-> 1997, c. 37, s. 2; 1998, c. 31, s. 61.01; 2000, c. 32, s. 64.
+> 1997, c. 37, s. 2; 1998, c. 31, s. 61.01; 2000, c. 32, s. 64; 2005, c. 2, s. 13.
 
 
 
