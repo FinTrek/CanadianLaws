@@ -145,11 +145,11 @@ this Act and the regulations made thereunder take precedence.
 
 - **(1)** In this section,
 
-***agreement*** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum carried out on any frontier lands;
+***agreement*** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum carried out on any frontier lands; (*accord*)
 
-***frontier lands*** means lands that belong to Her Majesty in right of Canada, or in respect of which Her Majesty in right of Canada has the right to dispose of or exploit the natural resources and that are situated in
-- **(a)** the Yukon Territory, the Northwest Territories, Nunavut or Sable Island, or
-- **(b)** those submarine areas, not within a province, adjacent to the coast of Canada and extending throughout the natural prolongation of the land territory of Canada to the outer edge of the continental margin or to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater.
+***frontier lands*** means lands that belong to Her Majesty in right of Canada, or in respect of which Her Majesty in right of Canada has the right to dispose of or exploit the natural resources and that are situated in
+- **(a)** Yukon, the Northwest Territories, Nunavut or Sable Island, or
+- **(b)** those submarine areas, not within a province, adjacent to the coast of Canada and extending throughout the natural prolongation of the land territory of Canada to the outer edge of the continental margin or to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater. (*terres domaniales*)
 
 **Disputes between neighbouring provinces**
 
@@ -166,7 +166,7 @@ this Act and the regulations made thereunder take precedence.
 **Approval of Provincial Minister not required before regulation made**
 
 - **(5)** Notwithstanding section 7, where a dispute is settled pursuant to this section and a regulation under subsection 5(1) prescribing the line in relation to which the dispute arose is made in accordance with the settlement, the regulation is not subject to the procedure set out in section 7 with respect to the portion of the line to which the dispute related.
-> 1987, c. 3, s. 6; 1993, c. 28, s. 78; 1998, c. 15, s. 18.
+> 1987, c. 3, s. 6; 1993, c. 28, s. 78; 1998, c. 15, s. 18; 2002, c. 7, s. 108(E).
 
 
 
@@ -4516,12 +4516,12 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 - **(h)** in respect of the tenth fiscal year following the first fiscal year of offshore production, twenty per cent, and
 - **(i)** in respect of the eleventh fiscal year following the first fiscal year of offshore production, ten per cent;
 
-***province*** does not include the Northwest Territories, the Yukon Territory or Nunavut.
+***province*** does not include the Northwest Territories, Yukon or Nunavut.
 
 **Determination of population**
 
 - **(2)** For the purposes of this Part, the population of a province for a fiscal year is the population of that province for that fiscal year, as determined for the purposes of Part I of the Fiscal Arrangements Act.
-> 1987, c. 3, s. 218; 1993, c. 28, s. 78; 1994, c. 41, s. 37; 1998, c. 15, s. 18.
+> 1987, c. 3, s. 218; 1993, c. 28, s. 78; 1994, c. 41, s. 37; 1998, c. 15, s. 18; 2002, c. 7, s. 109(E).
 
 
 
