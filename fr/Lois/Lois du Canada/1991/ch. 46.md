@@ -236,7 +236,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A).
 
 
 
@@ -8450,7 +8450,7 @@ priment les droits de la banque découlant d’une garantie reçue aux termes du
 **Effet de l’ajustement de l’indice**
 
 - **(8)** À la première occasion où, après le 19 décembre 1990, l’indice visé au sous-alinéa (7)b)(ii) est ajusté ou fixé à nouveau sur une base différente, le sous-alinéa est modifié en y remplaçant la référence à mille cent dollars par le produit, arrondi au dollar supérieur, de mille cent dollars par l’indice tel qu’il était avant son ajustement ou sa nouvelle fixation, et le produit ainsi obtenu est divisé par l’indice tel qu’il est ajusté ou fixé à nouveau. À chaque nouvel ajustement ou nouvelle fixation sur une base différente, ce sous-alinéa est modifié en substituant au montant qui y est mentionné le montant calculé de la façon indiquée ci-dessus.
-> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1998, ch. 36, art. 21.
+> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A).
 
 
 
