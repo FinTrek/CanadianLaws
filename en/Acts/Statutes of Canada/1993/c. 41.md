@@ -35,7 +35,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definition of Territory**
 
-**2** In this Act, ***Territory*** means the Yukon Territory or the Northwest Territories, as the case may require.
+**2** In this Act, ***Territory*** means Yukon or the Northwest Territories, as the case may require.
+> 1993, c. 41, s. 2; 2002, c. 7, s. 196.
+
 
 
 
@@ -59,7 +61,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** is similar in substance to that Act as it reads immediately before it is to be repealed in respect of that Territory; and
 	- **(c)** includes
 		- **(i)** in the case of the Northwest Territories, provisions having the same effect as subsections 55(1) to (4) of that Act,
-		- **(ii)** in the case of the Yukon Territory, provisions having the same effect as sections 55 and 56 of that Act,
+		- **(ii)** in the case of Yukon, provisions having the same effect as sections 55 and 56 of that Act,
 		- **(iii)** provisions for the grant of certificates of title for, and the registration of, easements as defined in subsection 80(2) of that Act, and
 		- **(iv)** provisions prohibiting the registration of caveats affecting land in respect of which no certificate of title has been granted or applied for.
 
@@ -70,26 +72,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Idem**
 
 - **(4)** The Governor in Council shall, by order, waive the application of any condition imposed by subsection (2) in respect of a Territory to the extent necessary to implement a land claims agreement with any aboriginal people of Canada.
+> 1993, c. 41, s. 3; 2002, c. 7, s. 197.
+
 
 
 
 
 **Restriction**
 
-**4** Notwithstanding any other Act of Parliament, the Commissioner in Council of a Territory may not, without the approval of the Governor in Council, repeal, amend or otherwise render inoperable any provision included in a land titles ordinance pursuant to paragraph 3(2)(c).
+**4** 
+
+- **(1)** Notwithstanding any other Act of Parliament, the Commissioner in Council of the Northwest Territories and the Legislature of Yukon may not, without the approval of the Governor in Council, repeal, amend or otherwise render inoperable any provision described in paragraph 3(2)(c).
+
+**Nunavut**
+
+- **(2)** The restriction set out in subsection (1) applies to the Legislature for Nunavut in respect of those provisions of its laws that correspond to the provisions described in subparagraphs 3(2)(c)(i), (iii) and (iv).
+> 1993, c. 41, s. 4; 2002, c. 7, s. 198.
 
 
 
 
-**Certificate as evidence against Crown**
+
+**Certificate as evidence against the Crown**
 
 **5** 
 
-- **(1)** Subject to subsection (2), the Commissioner in Council of a Territory may provide in a land titles ordinance that a certificate of title granted under the ordinance is conclusive evidence in all courts as against Her Majesty, subject to the same exceptions as were contained in the Land Titles Act as it read immediately before it was repealed in respect of that Territory.
+- **(1)** Subject to subsection (2), the land titles ordinance or the law of the Legislature of Yukon or for Nunavut that serves the purpose of the ordinance may provide that a certificate of title granted under the ordinance or law is conclusive evidence in all courts as against Her Majesty, subject to the same exceptions as were contained in the 
+Land Titles Act as it read immediately before it was repealed in respect of the Territory.
 
 **Exceptions**
 
 - **(2)** The exceptions referred to in subsection (1) may, with the approval of the Governor in Council, be varied, deleted or added to.
+> 1993, c. 41, s. 5; 2002, c. 7, s. 199.
+
 
 
 
