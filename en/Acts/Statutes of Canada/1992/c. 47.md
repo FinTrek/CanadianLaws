@@ -63,8 +63,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***young person*** means, in respect of a contravention, a person who, at the time of the contravention, is or, in the absence of evidence to the contrary, appears to be twelve years of age or more but under eighteen years of age; (*adolescent*)
 
-***youth court*** means, in respect of a contravention alleged to have been committed by a young person in, or otherwise within the territorial jurisdiction of the courts of, a province, the court established or designated by or under an Act of the legislature of the province, or designated by the Governor in Council or lieutenant governor in council of the province, as the youth court for the purposes of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md). (*tribunal pour adolescents*)
-> 1992, c. 47, s. 2; 1996, c. 7, s. 1
+***youth court***[Repealed, 2002, c. 1, s. 167]
+
+***youth justice court*** means, in respect of a contravention alleged to have been committed by a young person in, or otherwise within the territorial jurisdiction of the courts of, a province, the court established or designated by or under an Act of the legislature of the province, or designated by the Governor in Council or lieutenant governor in council of the province, as the youth justice court for the purposes of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md). (*tribunal pour adolescents*)
+> 1992, c. 47, s. 2; 1996, c. 7, s. 1; 2002, c. 1, s. 167
 
 
 
@@ -98,10 +100,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Relationship with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md)**
+**Relationship with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)**
 
-**5** The provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to summary conviction offences and the provisions of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) apply to proceedings in respect of contraventions that are commenced under this Act, except to the extent that this Act, the regulations or the rules of court provide otherwise.
-> 1992, c. 47, s. 5; 1996, c. 7, s. 2
+**5** The provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to summary conviction offences and the provisions of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) apply to proceedings in respect of contraventions that are commenced under this Act, except to the extent that this Act, the regulations or the rules of court provide otherwise.
+> 1992, c. 47, s. 5; 1996, c. 7, s. 2; 2002, c. 1, s. 168
 
 
 
@@ -300,7 +302,7 @@ in the circumstances prescribed, at any stage of the proceedings; and
 
 **Jurisdiction of adult courts over young persons**
 
-- **(2)** Notwithstanding the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), a contraventions court or a justice of the peace has jurisdiction, to the exclusion of that of the youth court, in respect of any contravention alleged to have been committed by a young person in, or otherwise within the territorial jurisdiction of the courts of, a province the lieutenant governor in council of which has ordered that any such contravention be dealt with in ordinary court.
+- **(2)** Notwithstanding the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), a contraventions court or a justice of the peace has jurisdiction, to the exclusion of that of the youth justice court, in respect of any contravention alleged to have been committed by a young person in, or otherwise within the territorial jurisdiction of the courts of, a province the lieutenant governor in council of which has ordered that any such contravention be dealt with in ordinary court.
 
 **Application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
@@ -309,7 +311,7 @@ in the circumstances prescribed, at any stage of the proceedings; and
 **[Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) offences**
 
 - **(4)** Notwithstanding section 606 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), one justice of the peace has jurisdiction in respect of a contravention for which proceedings are commenced under this Act.
-> 1992, c. 47, s. 17; 1996, c. 7, s. 7
+> 1992, c. 47, s. 17; 1996, c. 7, s. 7; 2002, c. 1, s. 169
 
 
 
@@ -1021,7 +1023,7 @@ as soon as practicable, and in any event within thirty days, after the person do
 **Committal of offender**
 
 - **(2)** The court may, where it determines that the offender is unwilling though able to pay the fine, issue a warrant for the committal of the offender in Form 8 of Part XXVIII of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), varied to suit the case,
-	- **(a)** for the committal of the offender to open custody, as defined in subsection 24.1(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), for one day, if the offender is a young person; or
+	- **(a)** for the committal of the offender to custody under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), for one day, if the offender is a young person; or
 	- **(b)** for the committal of the offender during the term determined by the court, if the offender is not a young person.
 
 **Other discharge of fine**
@@ -1029,7 +1031,7 @@ as soon as practicable, and in any event within thirty days, after the person do
 - **(3)** A court that determines that an offender is willing to pay the fine though unable to pay it may
 	- **(a)** order that the fine be discharged by earning credits for work performed during a period not exceeding two years in a program referred to in section 736 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
 	- **(b)** extend the time for payment of the fine by ordering periodic payments or otherwise.
-> 1992, c. 47, s. 62; 1995, c. 22, s. 17
+> 1992, c. 47, s. 62; 1995, c. 22, s. 17; 2002, c. 1, s. 170
 
 
 
