@@ -60,12 +60,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***garde de parc*** Personne, nommée en vertu de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md), désignée à ce titre par le ministre et dont les fonctions comprennent l’application de la présente loi ou de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada.
 
 ***ministre du Québec*** Ministre du gouvernement du Québec chargé de l’application de la loi québécoise intitulée Loi sur le parc marin du Saguenay — Saint-Laurent, chapitre 16 des Lois du Québec (1997).
 
 ***parc*** Le parc marin du Saguenay — Saint-Laurent créé par l’article 5.
-> 1997, ch. 37, art. 2; 1998, ch. 31, art. 61.01; 2000, ch. 32, art. 64.
+> 1997, ch. 37, art. 2; 1998, ch. 31, art. 61.01; 2000, ch. 32, art. 64; 2005, ch. 2, art. 13.
 
 
 
