@@ -121,7 +121,7 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 	- **(vi)** amounts necessary for the purchase of a student loan made by the lender that is payable and on which no payment has been made by the borrower in at least one year, and a percentage of amounts recovered by the Minister in respect of that loan,
 	- **(vii)** adjusted amounts in respect of principal and interest on a student loan, where an inadvertent error concerning the rate of interest or the amount to be repaid is made by the lender in drawing up the consolidated student loan agreement or the student loan agreement,
 	- **(viii)** amounts in respect of the loss suffered by the lender on a student loan made to a full-time student who, before the month following the month in which the borrower ceases to be a full-time student,
-		- **(A)** makes an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) that is filed and not cancelled, is deemed under that Act, by reason of circumstances occurring before that following month, to have made an assignment, or is the subject of a receiving order made under that Act,
+		- **(A)** makes an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) that is filed and not cancelled, is deemed under that Act, by reason of circumstances occurring before that following month, to have made an assignment, or is the subject of a bankruptcy order made under that Act,
 		- **(B)** makes a proposal under Division I or II of Part III of that Act that is approved or deemed to be approved by a court under that Act,
 		- **(C)** is granted a consolidation order under Part X of that Act, or
 		- **(D)** is granted relief under a provincial law relating to the orderly payment of debts, and
@@ -134,6 +134,8 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 - **(g)** the procedures to be followed by the lender in making, collecting or otherwise dealing with a student loan;
 - **(h)** the making of reports to the Minister respecting student loans; and
 - **(i)** the terms and conditions respecting the obligations of the Minister and the lender under the agreement.
+> 1994, c. 28, s. 5; 2004, c. 25, s. 191
+
 
 
 
