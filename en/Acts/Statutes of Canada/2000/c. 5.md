@@ -50,7 +50,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Commissioner*** means the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*commissaire*)
 
-***Court*** means the Federal Court — Trial Division. (*Cour*)
+***Court*** means the Federal Court. (*Cour*)
 
 ***federal work, undertaking or business*** means any work, undertaking or business that is within the legislative authority of Parliament. It includes
 - **(a)** a work, undertaking or business that is operated or carried on for or in connection with navigation and shipping, whether inland or maritime, including the operation of ships and transportation by ship anywhere in Canada;
@@ -80,6 +80,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Notes in Schedule 1**
 
 - **(2)** In this Part, a reference to clause 4.3 or 4.9 of Schedule 1 does not include a reference to the note that accompanies that clause.
+> 2000, c. 5, s. 2; 2002, c. 8, s. 183.
+
 
 
 
