@@ -124,7 +124,9 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Instances introduites devant deux tribunaux à la même date**
 
-- **(3)** Lorsque des actions en divorce entre les mêmes époux sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Section de première instance de la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
+- **(3)** Lorsque des actions en divorce entre les mêmes époux sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 3; 2002, ch. 8, art. 183
+
 
 
 
@@ -133,7 +135,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **4** 
 
-- **(1)** Dans le cas d’une action en mesures accessoires, a compétence pour instruire l’affaire et en décider :
+- **(1)** Dans le cas d’une action en mesures accessoires, a compétence pour instruire l’affaire et en décider :
 	- **a)** soit le tribunal de la province où l’un des ex-époux réside habituellement à la date de l’introduction de l’instance;
 	- **b)** soit celui dont la compétence est reconnue par les deux ex-époux.
 
@@ -143,8 +145,8 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Instances introduites devant deux tribunaux à la même date**
 
-- **(3)** Lorsque des actions en mesures accessoires entre les mêmes ex-époux concernant le même point sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Section de première instance de la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 8, art. 1
+- **(3)** Lorsque des actions en mesures accessoires entre les mêmes ex-époux concernant le même point sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 8, art. 1; 2002, ch. 8, art. 183
 
 
 
@@ -154,7 +156,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **5** 
 
-- **(1)** Dans le cas d’une action en modification, a compétence pour instruire l’affaire et en décider :
+- **(1)** Dans le cas d’une action en modification, a compétence pour instruire l’affaire et en décider :
 	- **a)** soit le tribunal de la province où l’un des ex-époux réside habituellement à la date d’introduction de l’instance;
 	- **b)** soit celui dont la compétence est reconnue par les deux ex-époux.
 
@@ -164,7 +166,9 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Instances introduites devant deux tribunaux à la même date**
 
-- **(3)** Lorsque des actions en modification entre les mêmes ex-époux concernant le même point sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Section de première instance de la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
+- **(3)** Lorsque des actions en modification entre les mêmes ex-époux concernant le même point sont en cours devant deux tribunaux qui auraient par ailleurs compétence en vertu du paragraphe (1), que les instances ont été introduites à la même date et qu’aucune des actions n’est abandonnée dans les trente jours suivant la date d’introduction de l’instance, la Cour fédérale a compétence exclusive pour instruire ces affaires et en décider, les actions étant renvoyées à cette section sur son ordre.
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 5; 2002, ch. 8, art. 183
+
 
 
 
@@ -907,7 +911,9 @@ La présente définition s’applique également à toute personne que le membre
 
 **Présomption**
 
-- **(2)** Pour l’application du présent article, dans l’éventualité visée au paragraphe 3(3) ou 5(3), l’action renvoyée à la Section de première instance de la Cour fédérale est réputée introduite dans la province où les époux ou ex-époux ont ou ont eu leurs principales attaches, selon l’avis de la Cour fédérale mentionné dans l’ordre.
+- **(2)** Pour l’application du présent article, dans l’éventualité visée au paragraphe 3(3) ou 5(3), l’action renvoyée à la Cour fédérale est réputée introduite dans la province où les époux ou ex-époux ont ou ont eu leurs principales attaches, selon l’avis de la Cour fédérale mentionné dans l’ordre.
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 23; 2002, ch. 8, art. 183
+
 
 
 
