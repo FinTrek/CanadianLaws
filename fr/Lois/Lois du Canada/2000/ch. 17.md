@@ -238,7 +238,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Les personnes ou entités visées au paragraphe (3) sont tenues de déclarer à l’agent, conformément aux règlements, l’importation ou l’exportation des espèces ou effets d’une valeur supérieure au montant réglementaire.
+- **(1)** Les personnes ou entités visées au paragraphe (3) sont tenues de déclarer à l’agent, conformément aux règlements, l’importation ou l’exportation des espèces ou effets d’une valeur égale ou supérieure au montant réglementaire.
 
 **Exception**
 
@@ -247,7 +247,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclarant**
 
 - **(3)** Le déclarant est, selon le cas :
-	- **a)** la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada ou a quitté le pays;
+	- **a)** la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada ou a quitté le pays ou la personne qui, dans les circonstances réglementaires, est responsable du moyen de transport;
 	- **b)** s’agissant d’espèces ou d’effets importés par messager ou par courrier, l’exportateur étranger ou, sur notification aux termes du paragraphe 14(2), l’importateur;
 	- **c)** l’exportateur des espèces ou effets exportés par messager ou par courrier;
 	- **d)** le responsable du moyen de transport arrivé au Canada ou qui a quitté le pays et à bord duquel se trouvent des espèces ou effets autres que ceux visés à l’alinéa a) ou importés ou exportés par courrier;
@@ -262,6 +262,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transmission au Centre**
 
 - **(5)** L’agent fait parvenir au Centre les déclarations recueillies en application du paragraphe (1).
+> 2000, ch. 17, art. 12; 2001, ch. 41, art. 54.
+
 
 
 
@@ -315,7 +317,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** S’il la soupçonne, pour des motifs raisonnables, de dissimuler sur elle ou près d’elle des espèces ou des effets d’une valeur supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) et qui n’ont pas été déclarés en conformité avec ce paragraphe, l’agent peut fouiller :
+- **(1)** S’il la soupçonne, pour des motifs raisonnables, de dissimuler sur elle ou près d’elle des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) et qui n’ont pas été déclarés en conformité avec ce paragraphe, l’agent peut fouiller :
 	- **a)** toute personne entrée au Canada, dans un délai justifiable suivant son arrivée;
 	- **b)** toute personne sur le point de sortir du Canada, à tout moment avant son départ;
 	- **c)** toute personne qui a eu accès à une zone réservée aux personnes sur le point de sortir du Canada et qui quitte cette zone sans sortir du Canada, dans un délai justifiable après son départ de cette zone.
@@ -331,19 +333,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Identité de sexe**
 
 - **(4)** L’agent ne peut fouiller une personne de sexe opposé. Faute de collègue du même sexe que celle-ci sur le lieu de la fouille, il peut autoriser toute personne de ce sexe présentant les qualités voulues à y procéder.
+> 2000, ch. 17, art. 15; 2001, ch. 41, art. 55.
 
 
 
 
-**Fouille d’un moyen de transport**
+
+**Fouille d'un moyen de transport**
 
 **16** 
 
-- **(1)** S’il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d’une valeur supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent à bord d’un moyen de transport et n’ont pas été déclarés conformément à ce paragraphe, l’agent peut immobiliser le moyen de transport, monter à son bord et le fouiller, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire le moyen de transport à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+- **(1)** S'il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d'une valeur égale ou supérieure au montant réglementaire prévu pour l'application du paragraphe 12(1) se trouvent à bord d'un moyen de transport et n'ont pas été déclarés conformément à ce paragraphe, l'agent peut immobiliser le moyen de transport, monter à son bord et le fouiller, examiner toute chose qui s'y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire le moyen de transport à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
 
 **Fouilles des bagages**
 
-- **(2)** S’il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d’une valeur supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent parmi des bagages et n’ont pas été déclarés conformément à ce paragraphe, l’agent peut fouiller les bagages, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+- **(2)** S'il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d'une valeur égale ou supérieure au montant réglementaire prévu pour l'application du paragraphe 12(1) se trouvent parmi des bagages et n'ont pas été déclarés conformément à ce paragraphe, l'agent peut fouiller les bagages, examiner toute chose qui s'y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+> 2000, ch. 17, art. 16; 2001, ch. 41, art. 56.
+
 
 
 
@@ -352,7 +358,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Un agent peut examiner tout envoi destiné à l’importation ou à l’exportation et ouvrir ou faire ouvrir ceux dont il soupçonne, pour des motifs raisonnables, qu’ils contiennent des espèces ou effets d’une valeur supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
+- **(1)** Un agent peut examiner tout envoi destiné à l’importation ou à l’exportation et ouvrir ou faire ouvrir ceux dont il soupçonne, pour des motifs raisonnables, qu’ils contiennent des espèces ou effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
 
 **Exception**
 
@@ -361,6 +367,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ouverture en présence de l’agent**
 
 - **(3)** L’agent peut faire ouvrir en sa présence un envoi pesant au plus trente grammes par le destinataire, l’expéditeur ou la personne autorisée par ce dernier.
+> 2000, ch. 17, art. 17; 2001, ch. 41, art. 57.
+
 
 
 
@@ -377,7 +385,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mainlevée**
 
-- **(2)** Sur réception du paiement de la pénalité réglementaire, l’agent restitue au saisi ou au propriétaire légitime les espèces ou effets saisis sauf s’il soupçonne, pour des motifs raisonnables, qu’il s’agit de produits de la criminalité au sens du paragraphe 462.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(2)** Sur réception du paiement de la pénalité réglementaire, l’agent restitue au saisi ou au propriétaire légitime les espèces ou effets saisis sauf s’il soupçonne, pour des motifs raisonnables, qu’il s’agit de produits de la criminalité au sens du paragraphe 462.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de fonds destinés au financement des activités terroristes.
 
 **Avis de la saisie**
 
@@ -389,7 +397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signification de l’avis**
 
 - **(4)** Il suffit, pour que l’avis visé à l’alinéa (3)b) soit considéré comme signifié, qu’il soit envoyé en recommandé à l’exportateur.
-> 2000, ch. 17, art. 18; 2001, ch. 32, art. 71.
+> 2000, ch. 17, art. 18; 2001, ch. 32, art. 71, ch. 41, art. 58 et 134.
 
 
 
@@ -424,7 +432,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **21** 
 
-- **(1)** Sur demande d’un agent, les envois destinés à l’exportation sont soumis au contrôle douanier par la Société canadienne des postes s’ils contiennent ou si l’on soupçonne qu’ils contiennent des espèces ou effets d’une valeur supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
+- **(1)** Sur demande d’un agent, les envois destinés à l’exportation sont soumis au contrôle douanier par la Société canadienne des postes s’ils contiennent ou si l’on soupçonne qu’ils contiennent des espèces ou effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
 
 **Envois en cours de transmission postale**
 
@@ -441,6 +449,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objets inadmissibles**
 
 - **(5)** Il est disposé conformément aux règlements d’application de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md) des objets inadmissibles que l’agent trouve dans le courrier soumis à son contrôle.
+> 2000, ch. 17, art. 21; 2001, ch. 41, art. 59.
+
 
 
 
@@ -453,11 +463,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** En cas de confiscation aux termes du paragraphe 14(5) des espèces ou effets retenus, l’agent les remet sans délai au ministre des Travaux publics et des Services gouvernementaux.
+- **(1)** En cas de confiscation aux termes du paragraphe 14(5) des espèces ou effets retenus, l’agent les remet au ministre des Travaux publics et des Services gouvernementaux.
 
 **Saisie ou paiement d’une pénalité**
 
-- **(2)** En cas de saisie des espèces ou effets ou de paiement d’une pénalité réglementaire aux termes du paragraphe 18(2), l’agent les remet sans délai au ministre des Travaux publics et des Services gouvernementaux.
+- **(2)** En cas de saisie d’espèces ou d’effets ou de paiement d’une pénalité réglementaire aux termes du paragraphe 18(2), l’agent les remet au ministre des Travaux publics et des Services gouvernementaux.
+> 2000, ch. 17, art. 22; 2001, ch. 41, art. 60.
+
 
 
 
@@ -486,7 +498,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande de révision**
 
-**25** La personne entre les mains de qui ont été saisis les espèces ou effets en vertu de l’article 18 ou leur propriétaire légitime peut, dans les trente jours suivant la saisie, demander au ministre de décider s’il y a eu contravention au paragraphe 12(1) en donnant un avis écrit à l’agent qui les a saisis ou à un agent du bureau de douane le plus proche du lieu de la saisie.
+**25** La personne entre les mains de qui ont été saisis des espèces ou effets en vertu de l'article 18 ou leur propriétaire légitime peut, dans les quatre-vingt-dix jours suivant la saisie, demander au ministre de décider s'il y a eu contravention au paragraphe 12(1) en donnant un avis écrit à l'agent qui les a saisis ou à un agent du bureau de douane le plus proche du lieu de la saisie.
+> 2000, ch. 17, art. 25; 2001, ch. 41, art. 61.
+
 
 
 
@@ -512,11 +526,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Report de la décision**
 
-- **(2)** Dans le cas où des poursuites pour infraction de recyclage des produits de la criminalité ont été intentées relativement aux espèces ou effets saisis, le ministre peut reporter la décision, mais celle-ci doit être prise dans les trente jours suivant l’issue des poursuites.
+- **(2)** Dans le cas où des poursuites pour infraction de recyclage des produits de la criminalité ou pour infraction de financement des activités terroristes ont été intentées relativement aux espèces ou effets saisis, le ministre peut reporter la décision, mais celle-ci doit être prise dans les trente jours suivant l’issue des poursuites.
 
 **Avis de la décision**
 
 - **(3)** Le ministre signifie sans délai par écrit à la personne qui a fait la demande un avis de la décision, motifs à l’appui.
+> 2000, ch. 17, art. 27; 2001, ch. 41, art. 62.
+
 
 
 
@@ -581,7 +597,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **32** 
 
-- **(1)** En cas de saisie-confiscation effectuée en vertu de la présente partie, toute personne, autre que le saisi, qui revendique sur les espèces ou effets un droit en qualité de propriétaire peut, dans les soixante jours suivant la saisie, requérir par avis écrit le tribunal de rendre l’ordonnance visée à l’article 33.
+- **(1)** En cas de saisie-confiscation effectuée en vertu de la présente partie, toute personne, autre que le saisi, qui revendique sur les espèces ou effets un droit en qualité de propriétaire peut, dans les quatre-vingt-dix jours suivant la saisie, requérir par avis écrit le tribunal de rendre l’ordonnance visée à l’article 33.
 
 **Date de l’audition**
 
@@ -604,6 +620,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
 	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, de la Section de première instance de la Cour suprême;
 	- **f)** dans le Nunavut, de la Cour de justice du Nunavut.
+> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63.
+
 
 
 
@@ -661,11 +679,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Communication aux forces policières**
 
-- **(2)** L’agent peut communiquer les renseignements visés au paragraphe (1) aux forces policières compétentes, s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuites d’une infraction de recyclage des produits de la criminalité.
+- **(2)** L’agent peut communiquer les renseignements visés au paragraphe (1) aux forces policières compétentes s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes.
 
 **Communication au Centre**
 
-- **(3)** L’agent peut communiquer au Centre les renseignements visés au paragraphe (1), s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles pour la détection, la prévention ou la dissuasion du recyclage des produits de la criminalité.
+- **(3)** L’agent peut communiquer au Centre les renseignements visés au paragraphe (1), s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles pour la détection, la prévention ou la dissuasion en matière de recyclage des produits de la criminalité ou de financement des activités terroristes.
 
 **Enregistrement des motifs**
 
@@ -684,6 +702,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Définition de fonctionnaire**
 
 - **(6)** Au présent article et à l’article 37, ***fonctionnaire*** s’entend de toute personne qui a obtenu des renseignements visés au paragraphe (1) ou y a ou a eu accès dans l’exercice des attributions qui lui sont conférées sous le régime de la présente partie.
+> 2000, ch. 17, art. 36; 2001, ch. 41, art. 64.
+
 
 
 
@@ -1715,6 +1735,6 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 <sup><a href='#P-24.501_fr_3'>[*]</a></sup>**99** Les dispositions de la présente loi, sauf l’article 97, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='P-24.501_fr_3'><sup>*</sup></a>: [Note : Article 97 en vigueur à la sanction le 29 juin 2000; articles 1 à 4, 38 et 40 à 44, paragraphe 45(1), articles 46 à 53, alinéas 54 b) à d), paragraphes 55(1), (2) et (6) et articles 56 à 61, 66 à 82, 84, 85, 90 et 91 en vigueur le 5 juillet 2000, *voir* TR/2000-55; articles 5, 7, 8, 10 et 11, passage de l’article 54 qui précède l’alinéa b), paragraphes 55(3) à (5.1) et (7) et article 89 en vigueur le 28 octobre 2001, *voir* TR/2001-88; articles 6 et 9, paragraphe 45(2) et articles 62 à 65, 83 et 98 en vigueur le 12 juin 2002, *voir* TR/2002-84.]<br />
+<a name='P-24.501_fr_3'><sup>*</sup></a>: [Note : Article 97 en vigueur à la sanction le 29 juin 2000; articles 1 à 4, 38 et 40 à 44, paragraphe 45(1), articles 46 à 53, alinéas 54 b) à d), paragraphes 55(1), (2) et (6) et articles 56 à 61, 66 à 82, 84, 85, 90 et 91 en vigueur le 5 juillet 2000, *voir* TR/2000-55; articles 5, 7, 8, 10 et 11, passage de l’article 54 qui précède l’alinéa b), paragraphes 55(3) à (5.1) et (7) et article 89 en vigueur le 28 octobre 2001, *voir* TR/2001-88; articles 6 et 9, paragraphe 45(2) et articles 62 à 65, 83 et 98 en vigueur le 12 juin 2002, *voir* TR/2002-84; articles 12 à 37 et 39 en vigueur le 6 janvier 2003, *voir* TR/2002-153.]<br />
 
 
