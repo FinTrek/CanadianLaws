@@ -6736,7 +6736,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **1** Les biphényles chlorés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
 
 
-**2** Le dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane
+**2** Dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane (mirex)
 
 
 **3** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
@@ -6825,7 +6825,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **28** Composés inorganiques d’arsenic
 
 
-**29** Benzidine
+**29** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>•2HCl
 
 
 **30** Phtalate de bis(2-éthylhexyle)
@@ -6909,7 +6909,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **56** Chloramines inorganiques, dont la formule moléculaire est NH<sub>n</sub>Cl<sub>(3-n)</sub> où n = 0, 1 ou 2
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10.
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98.
 
 
 
@@ -6960,7 +6960,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 ### Substances interdites
 
 
-**1** Mirex (dodécachloropentacyclo-[5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane)
+**1** Dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane (mirex)
 
 
 
@@ -7183,7 +7183,7 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 **15** Chlorure de tributyltétradécylphosphonium
 
 
-> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318.
+> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100.
 
 
 
