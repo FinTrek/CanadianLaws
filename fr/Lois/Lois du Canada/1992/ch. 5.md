@@ -39,21 +39,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administration aéroportuaire désignée*** Personne morale ou autre organisme désignés conformément au paragraphe (2).
+***administration aéroportuaire désignée*** Personne morale ou autre organisme désignés conformément au paragraphe (2). (*designated airport authority*)
 
-***employé désigné*** Personne désignée conformément au paragraphe (3).
+***employé désigné*** Personne désignée conformément au paragraphe (3). (*designated employee*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
 **Décret de désignation**
 
-- **(2)** En vue de la cession par le ministre d’un aéroport, notamment par bail ou vente, le gouverneur en conseil peut, pour l’application de la présente loi, prendre un décret :
+- **(2)** En vue de la cession par le ministre d’un aéroport, notamment par bail ou vente, le gouverneur en conseil peut, pour l’application de la présente loi, prendre un décret :
 	- **a)** conférant le statut d’administration aéroportuaire désignée à la personne morale ou l’organisme cessionnaire;
 	- **b)** désignant la date prévue pour l’opération en cause comme date de cession.
 
 **Arrêté de désignation**
 
 - **(3)** Pour l’application de la présente loi, le ministre peut, par arrêté, déterminer, parmi les personnes employées au sein de l’administration publique fédérale dans un aéroport placé sous son autorité ou à des activités liées à un tel aéroport, celles qui auront le statut d’employé désigné pour celui-ci.
+> 1992, ch. 5, art. 2; 2003, ch. 22, art. 224(A).
+
 
 
 
