@@ -57,14 +57,18 @@ Assented to on 12 December 2002
 
 **Notification — Convention**
 
-**6** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+<sup><a href='#C-7-7'>[*]</a></sup>**6** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the  Canada Gazette within 60 days after its entry into force or termination.
+
+<a name='C-7-7'><sup>*</sup></a>: [Note: Convention in force December 19, 2002 *see* Canada Gazette Part I, Volume 137, page 776.]<br />
 
 
 
 
 **Notification — earlier tax treaties**
 
-**7** The Minister of Finance shall, within 60 days after the entry into force of the Convention, cause to be published a notice of the dates on which the Agreement between the Government of Canada and the Government of the Kingdom of Norway, referred to in paragraph 4 of Article 31 of the Convention, and the 1966 Convention, referred to in paragraph 5 of Article 31 of the Convention, terminate.
+<sup><a href='#C-7-7_1'>[*]</a></sup>**7** The Minister of Finance shall, within 60 days after the entry into force of the Convention, cause to be published a notice of the dates on which the Agreement between the Government of Canada and the Government of the Kingdom of Norway, referred to in paragraph 4 of Article 31 of the Convention, and the 1966 Convention, referred to in paragraph 5 of Article 31 of the Convention, terminate.
+
+<a name='C-7-7_1'><sup>*</sup></a>: [Note: Notice given January 22, 2003 *see* Canada Gazette Part I, Volume 137, page 776.]<br />
 
 
 
