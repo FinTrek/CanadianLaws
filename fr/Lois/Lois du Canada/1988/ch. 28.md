@@ -4471,7 +4471,7 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 **Population**
 
 - **(2)** Pour l’application de la présente partie, le chiffre de la population d’une province pour un exercice est celui de cette province pour ce même exercice, établi pour l’application de la partie I de la loi de 1977.
-> 1988, ch. 28, art. 223; 1993, ch. 28, art. 78; 1998, ch. 15, art. 18.
+> 1988, ch. 28, art. 223; 1993, ch. 28, art. 78; 1998, ch. 15, art. 18; 2002, ch. 7, art. 110(A).
 
 
 
