@@ -191,7 +191,7 @@
 	- **f)** une station de radiodiffusion;
 	- **g)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 	- **h)** un ouvrage, une entreprise ou une activité que le Parlement déclare être à l’avantage général du Canada ou de plusieurs provinces même si l’ouvrage ou l’entreprise sont situés, ou l’activité est exercée, entièrement à l’intérieur d’une province;
-	- **i)** un ouvrage, une entreprise ou autre activité qui ne relèvent pas de la compétence législative exclusive des provinces ou qui sont de nature locale ou privée dans le territoire du Yukon, les Territoires du Nord-Ouest ou le territoire du Nunavut.
+	- **i)** un ouvrage, une entreprise ou autre activité qui ne relèvent pas de la compétence législative exclusive des provinces ou qui sont de nature locale ou privée au Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
 
 **Définition de emploi exclu**
 
@@ -206,7 +206,7 @@
 	- **b)** tout autre emploi, s’il est convaincu, sur le rapport du ministre :
 		- **(i)** soit que des dispositions ont été prises en vue d’offrir aux salariés occupant un tel emploi la garantie d’un régime de pension institué et géré, essentiellement pour des salariés qui n’occupent pas un emploi inclus, et qui doit être agréé en application de la loi d’une province désignée,
 		- **(ii)** soit, dans les autres cas, que l’exclusion est justifiée, compte tenu de l’existence d’autres ententes visant à protéger les prestations dont bénéficient ou pourront bénéficier des salariés ou d’autres personnes relativement à cet emploi, ou de toutes autres circonstances qu’il estime indiquées.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 28, art. 78; 1999, ch. 28, art. 172, ch. 31, art. 244(F).
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 4; 1993, ch. 28, art. 78; 1999, ch. 28, art. 172, ch. 31, art. 244(F); 2002, ch. 7, art. 226.
 
 
 
