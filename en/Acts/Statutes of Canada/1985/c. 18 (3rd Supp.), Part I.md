@@ -417,6 +417,10 @@ the Superintendent shall examine and inquire into the carrying out of those acti
 	- **(b)** information received by any member of the committee established by subsection 18(1), or by any person referred to in subsection 18(5) designated by any member of that committee, in the course of an exchange of information permitted by subsection 18(3); and
 	- **(c)** information furnished to the Superintendent pursuant to section 522.27 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
 
+**Disclosure by Superintendent**
+
+- **(1.1)** Despite subsection (1), subsections 606(1) and 636(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), subsection 435(1) of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), subsection 672(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) and subsection 503(1) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), the Superintendent may disclose to the Financial Transactions and Reports Analysis Centre of Canada established by section 41 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) information relating to policies and procedures that financial institutions adopt to ensure their compliance with Part 1 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md).
+
 **Disclosure permitted**
 
 - **(2)** Nothing in subsection (1) prevents the Superintendent from disclosing any information
@@ -447,7 +451,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 **Report respecting disclosure**
 
 - **(6)** The Superintendent shall prepare a report, to be included in the report referred to in section 40, respecting the disclosure of information by financial institutions, and describing the state of progress made in enhancing the disclosure of information in the financial services industry.
-> R.S., 1985, c. 18 (3rd Supp.), s. 22; 1991, c. 46, s. 601; 1994, c. 26, s. 49(F); 1996, c. 6, s. 109; 1997, c. 15, s. 338; 1999, c. 28, s. 129; 2001, c. 9, s. 472.
+> R.S., 1985, c. 18 (3rd Supp.), s. 22; 1991, c. 46, s. 601; 1994, c. 26, s. 49(F); 1996, c. 6, s. 109; 1997, c. 15, s. 338; 1999, c. 28, s. 129; 2001, c. 9, s. 472; 2004, c. 15, s. 97.
 
 
 
