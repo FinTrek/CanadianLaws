@@ -248,15 +248,19 @@ each of whom must, on appointment or reappointment and while serving as a member
 
 **12** 
 
-- **(1)** A member appointed under paragraph 7(2)(a) is deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(1)** A member appointed under paragraph 7(2)(a) is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
 **Temporary members not included**
 
-- **(2)** A temporary member is deemed not to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the member to be so employed for those purposes.
+- **(2)** A temporary member is deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) unless the Governor in Council, by order, deems the member to be so employed for those purposes.
 
 **Accident compensation**
 
-- **(3)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), a member is deemed to be an employee in the public service of Canada.
+- **(3)** For the purposes of the 
+[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made pursuant to section 9 of the 
+[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), a member is deemed to be an employee in the federal public administration.
+> 1996, c. 10, s. 12; 2003, c. 22, ss. 224(E), 225(E).
+
 
 
 
@@ -3303,11 +3307,13 @@ where
 
 **Designation**
 
-- **(2)** The Minister may designate any body established under an Act of Parliament, or any person or class of persons employed in the public service of Canada, to administer the law in accordance with the agreement.
+- **(2)** The Minister may designate any body established under an Act of Parliament, or any person or class of persons employed in the federal public administration, to administer the law in accordance with the agreement.
 
 **Functions, duties and powers**
 
 - **(3)** The designated body, person or class of persons may perform any function or duty and exercise any powers necessary for the enforcement of the law, to the extent specified in the agreement.
+> 1996, c. 10, s. 157.1; 2003, c. 22, s. 224(E).
+
 
 
 
