@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md)
 
-# An Act to implement treaties and administrative arrangements on the international transfer of persons found guilty of criminal offences
+# International Transfer of Offenders Act
 
 **S.C. 2004, c. 21**
 
@@ -572,17 +572,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## References
 
 
-**40** 
-
-- **(1)** [Amendments]
-
-**References in regulations, etc.**
-
-- **(2)** Unless the context requires otherwise, every reference to “
-[Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md)” is replaced by a reference to “
-International Transfer of Offenders Act” in any regulation, as defined in section 2 of the 
-[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), and in any other instrument made in the execution of a power conferred under an Act of Parliament or by order or under the authority of the Governor in Council, and more particularly in paragraph 136(1)(d) of the 
-[Corrections and Conditional Release Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/92/620.md).
+**40** [Amendments]
 
 
 
@@ -609,8 +599,8 @@ International Transfer of Offenders Act” in any regulation, as defined in sect
 
 **Coming into force**
 
-<sup><a href='#fn_IndF4B2_hq_16780'>[*]</a></sup>**43** This Act, other than section 41, comes into force on a day to be fixed by order of the Governor in Council.
+<sup><a href='#fn_IndF1B3_hq_16779'>[*]</a></sup>**43** This Act, other than section 41, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndF4B2_hq_16780'><sup>*</sup></a>: [Note: Section 41 in force on assent May 14, 2004.]<br />
+<a name='fn_IndF1B3_hq_16779'><sup>*</sup></a>: [Note: Section 41 in force on assent May 14, 2004; Act, other than section 41, in force October 29, 2004, *see* SI/2004-140.]<br />
 
 
