@@ -4606,7 +4606,7 @@ Said tract or tracts contains an area of approximately 1805 square kilometres an
 
 
 
-**PART 11 — YUKON TERRITORY** 
+**PART 11 — YUKON** 
 ### (1) Ivvavik National Park of Canada
 
 
@@ -4614,7 +4614,7 @@ All latitudes and longitudes hereinafter are referred to the North American Datu
 
 
 
-In the Yukon Territory;
+In Yukon;
 
 
 
@@ -4673,7 +4673,7 @@ All latitudes and longitudes hereinafter described are referred to the North Ame
 
 
 
-In the Yukon Territory;
+In Yukon;
 
 
 
@@ -4712,7 +4712,7 @@ Said parcel containing about 4345 square kilometres.
 ### (3) Kluane National Park of Canada
 
 
-In the Yukon Territory;
+In Yukon;
 
 
 
@@ -5764,7 +5764,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F).
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106.
 
 
 
@@ -5776,11 +5776,11 @@ The above described lands containing about 37 775 square kilometres.
 ### Kluane National Park Reserve of Canada
 
 
-In the Yukon Territory;
+In Yukon;
 
 
 
-Adjoining the westerly and southerly boundaries of said Territory;
+Adjoining the westerly and southerly boundaries of said territory;
 
 
 
@@ -5788,11 +5788,11 @@ All that parcel being more particularly described as follows, all topographic fe
 
 
 
-Commencing on latitude 60°00′00″ at the point where the British Columbia-Yukon Territory Boundary meets the International Boundary between Alaska and the Yukon Territory, at approximate longitude 139°03′30″;
+Commencing on latitude 60°00′00″ at the point where the British Columbia-Yukon Boundary meets the International Boundary between Alaska and Yukon, at approximate longitude 139°03′30″;
 
 
 
-Thence easterly along the British Columbia-Yukon Territory Boundary to its most westerly intersection with the right bank of Tatshenshini River, at approximate longitude 137°12′45″;
+Thence easterly along the British Columbia-Yukon Boundary to its most westerly intersection with the right bank of Tatshenshini River, at approximate longitude 137°12′45″;
 
 
 
@@ -5900,7 +5900,7 @@ Mount Craig, at approximate latitude 61°16′00″ and longitude 140°53′00�
 
 
 
-Thence due west to said International Boundary between Alaska and the Yukon Territory;
+Thence due west to said International Boundary between Alaska and Yukon;
 
 
 
@@ -7166,6 +7166,8 @@ Thence generally northerly, northwesterly and northeasterly along the ordinary h
 
 Explanatory Note: All topographic features herein referred to being according to the Gazetteer of Canada (British Columbia) Third Edition, Ottawa 1985; to National Topographic Series (N.T.S.) Map, (103 B-C Moresby Island, Edition 2) produced at a scale of 1:250,000 by the Army Survey Establishment at Ottawa; to N.T.S. Maps (102-0/14 and 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 and 103B/14 Louise Island) and (103C/9 Tasu Head) produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa and to Canadian Hydrographic Service (C.H.S.) Chart 3853 produced at a scale of 1:150,000 by the Department of Fisheries and Oceans, Ottawa.
 
+
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E).
 
 
 
