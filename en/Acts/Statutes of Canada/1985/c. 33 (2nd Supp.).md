@@ -30,9 +30,11 @@
 **Generally**
 
 **2** Subject to this Act, this Act applies to and in respect of every person employed by, and applies to and in respect of,
-- **(a)** the Senate, the House of Commons or the Library of Parliament, and
+- **(a)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Ethics Commissioner, and
 - **(b)** a Member of Parliament who, in that capacity, employs that person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament,
 and, except as provided in this Act, nothing in any other Act of Parliament that provides for matters similar to those provided for under this Act and nothing done thereunder, whether before or after the coming into force of this section, shall apply to or in respect of or have any force or effect in relation to the institutions and persons described in this section.
+> R.S., 1985, c. 33 (2nd Supp.), s. 2; 2004, c. 7, s. 32
+
 
 
 
@@ -85,8 +87,10 @@ and for the purposes of this definition a person does not cease to be employed b
 
 ***employer*** means
 - **(a)** the Senate as represented by such committee or person as the Senate by its rules or orders designates for the purposes of this Part,
-- **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part, or
-- **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament;
+- **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part,
+- **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament,
+- **(d)** the office of the Senate Ethics Officer as represented by the Ethics Officer, or
+- **(e)** the office of the Ethics Commissioner as represented by the Ethics Commissioner;
 
 ***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
 - **(a)** for the purposes of any of the provisions of this Part respecting grievances, a reference to an “employee” includes a person who would be an employee but for the fact that the person is a person employed in a managerial or confidential capacity, and
@@ -113,7 +117,7 @@ and for the purposes of this definition a person does not cease to be employed b
 ***strike*** includes a cessation of work or a refusal to work or to continue to work by employees in combination or in concert or in accordance with a common understanding, or a slow-down of work or other concerted activity on the part of employees designed to restrict or limit output;
 
 ***Vice-Chairman*** means the Vice-Chairman of the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F)
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2004, c. 7, s. 33
 
 
 
@@ -1511,8 +1515,12 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 **85** In this Part, ***employer*** means
 - **(a)** the Senate as represented by such committee or person as the Senate by its rules or orders designates for the purposes of this Part;
 - **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part;
-- **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament; or
+- **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament;
+- **(c.1)** the office of the Senate Ethics Officer as represented by the Ethics Officer;
+- **(c.2)** the office of the Ethics Commissioner as represented by the Ethics Commissioner; or
 - **(d)** a Member of Parliament who, in that capacity, employs any person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament.
+> R.S., 1985, c. 33 (2nd Supp.), s. 85; 2004, c. 7, s. 34
+
 
 
 
