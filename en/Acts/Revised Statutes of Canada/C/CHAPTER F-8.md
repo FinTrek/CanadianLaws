@@ -78,8 +78,8 @@
 
 **Fiscal equalization payments**
 
-**3** Subject to this Act, the Minister may pay to a province for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004 a fiscal equalization payment not exceeding the amount computed in accordance with section 4.
-> R.S., 1985, c. F-8, s. 3; R.S., 1985, c. 11 (3rd Supp.), s. 2; 1992, c. 10, s. 2; 1994, c. 2, s. 1; 1999, c. 11, s. 1.
+**3** Subject to this Act, the Minister may pay to a province for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2005 a fiscal equalization payment not exceeding the amount computed in accordance with section 4.
+> R.S., 1985, c. F-8, s. 3; R.S., 1985, c. 11 (3rd Supp.), s. 2; 1992, c. 10, s. 2; 1994, c. 2, s. 1; 1999, c. 11, s. 1; 2004, c. 4, s. 1.
 
 
 
@@ -173,9 +173,9 @@ by
 
 ***revenue to be equalized*** from a revenue source for a province for a fiscal year means the revenue, as determined by the Minister, derived by the province for the fiscal year from that revenue source.
 
-**Variation of definition revenue source**
+**Variation of definition “revenue source”**
 
-- **(3)** A description of a revenue source as set out in the definition revenue source in subsection (2) may, by regulation, be revised or altered in one or more of the following ways:
+- **(3)** A description of a revenue source as set out in the definition “revenue source” in subsection (2) may, by regulation, be revised or altered in one or more of the following ways:
 	- **(a)** so as to constitute two or more separate revenue sources;
 	- **(b)** in a manner that results in the inclusion of all or any part of it in another description of a revenue source set out in that definition; and
 	- **(c)** in a manner that results in the exclusion of any part of it from that definition.
@@ -193,7 +193,7 @@ is deemed to be revenue derived by the province from those revenue sources for t
 
 **Minimum payment to province in certain cases**
 
-- **(6)** Notwithstanding subsections (1) to (5) but subject to subsection (9), the fiscal equalization payment that may be paid to a province in respect of each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2004, if the province received a fiscal equalization payment in respect of the immediately preceding fiscal year, shall not be less than the greater of
+- **(6)** Notwithstanding subsections (1) to (5) but subject to subsection (9), the fiscal equalization payment that may be paid to a province in respect of each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2005, if the province received a fiscal equalization payment in respect of the immediately preceding fiscal year, shall not be less than the greater of
 	- **(a)** an amount equal to what the fiscal equalization payment in respect of the immediately preceding fiscal year would be if this subsection were disregarded, minus the threshold amount for the current fiscal year, and
 	- **(b)** zero.
 
@@ -235,7 +235,7 @@ by
 - **(12)** Notwithstanding any provision of the Canada — Nova Scotia Offshore Petroleum Resources Accord Implementation Act or the Canada — Newfoundland Atlantic Accord Implementation Act, as the case may be, where a province makes the election described in subsection (11) for a fiscal year, the fiscal equalization offset payment that may otherwise be payable to the province under that Act, in respect of that fiscal year, is zero.
 
 - **(13)** [Repealed, 1999, c. 11, s. 2]
-> R.S., 1985, c. F-8, s. 4; R.S., 1985, c. 11 (3rd Supp.), s. 3; 1992, c. 10, s. 3; 1994, c. 2, s. 2; 1999, c. 11, s. 2; 2001, c. 19, s. 1; 2003, c. 15, s. 3.
+> R.S., 1985, c. F-8, s. 4; R.S., 1985, c. 11 (3rd Supp.), s. 3; 1992, c. 10, s. 3; 1994, c. 2, s. 2; 1999, c. 11, s. 2; 2001, c. 19, s. 1; 2003, c. 15, s. 3; 2004, c. 4, s. 2.
 
 
 
@@ -667,9 +667,9 @@ is of
 	- **(c)** maintaining the national standard, set out in section 19, that no period of minimum residency be required or allowed with respect to social assistance; and
 	- **(d)** promoting any shared principles and objectives that are developed, pursuant to subsection (3), with respect to the operation of social programs, other than a program for the purpose referred to in paragraph (b).
 
-**Transfers established under paragraphs 14(c) and (d)**
+**Transfers established under paragraphs 14(c), (d) and (i)**
 
-- **(2)** Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(c) and (d) is to be provided to the provinces for the following purposes:
+- **(2)** Subject to this Part, a Canada Health and Social Transfer established under paragraphs 14(c), (d) and (i) is to be provided to the provinces for the following purposes:
 	- **(a)** the purpose referred to in paragraph (1)(b); and
 	- **(b)** contributing to providing the best possible health care system for Canadians and to making information about the health system available to Canadians.
 
@@ -680,7 +680,7 @@ is of
 **Definition of social programs**
 
 - **(4)** In this section, ***social programs*** includes programs in respect of health, post-secondary education, social assistance and social services, including early childhood development, and early learning and child care services.
-> R.S., 1985, c. F-8, s. 13; 1995, c. 17, s. 48; 1999, c. 26, s. 3; 2000, c. 14, s. 12, c. 35, s. 5; 2003, c. 15, s. 3.1.
+> R.S., 1985, c. F-8, s. 13; 1995, c. 17, s. 48; 1999, c. 26, s. 3; 2000, c. 14, s. 12, c. 35, s. 5; 2003, c. 15, s. 3.1; 2004, c. 4, s. 3.
 
 
 
@@ -701,10 +701,11 @@ is of
 - **(g)** a cash contribution of
 	- **(i)** $2.8 billion for the fiscal year beginning on April 1, 2001,
 	- **(ii)** $3.6 billion for the fiscal year beginning on April 1, 2002, and
-	- **(iii)** $4.325 billion for the fiscal year beginning on April 1, 2003; and
+	- **(iii)** $4.325 billion for the fiscal year beginning on April 1, 2003;
 	- **(iv) and (v)** [Repealed, 2003, c. 15, s. 4]
-- **(h)** a cash contribution of $2.5 billion to be paid to the trust referred to in section 16.3.
-> R.S., 1985, c. F-8, s. 14; 1995, c. 17, s. 48; 1999, c. 26, s. 4; 2000, c. 14, s. 13, c. 35, s. 6; 2003, c. 15, s. 4.
+- **(h)** a cash contribution of $2.5 billion to be paid to the trust referred to in section 16.3; and
+- **(i)** a cash contribution of $2 billion to be paid to the trusts referred to in section 16.4.
+> R.S., 1985, c. F-8, s. 14; 1995, c. 17, s. 48; 1999, c. 26, s. 4; 2000, c. 14, s. 13, c. 35, s. 6; 2003, c. 15, s. 4; 2004, c. 4, s. 4.
 
 
 
@@ -758,7 +759,14 @@ by
 **Provincial share of cash contribution established under paragraph 14(h)**
 
 - **(6)** The portion of the cash contribution established under paragraph 14(h) that may be provided to a province is to be determined in accordance with the terms of the trust indenture establishing the trust referred to in section 16.3.
-> R.S., 1985, c. F-8, s. 15; R.S., 1985, c. 26 (2nd Supp.), s. 1; 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1; 1999, c. 26, s. 4; 2000, c. 14, s. 14; 2003, c. 15, s. 5.
+
+**Provincial share of cash contribution established under paragraph 14(i)**
+
+- **(7)** The portion of the cash contribution established under paragraph 14(i) that may be paid to a trust established to provide funding for a province shall be determined by multiplying that cash contribution by the quotient obtained by dividing
+	- **(a)** the population of the province for the fiscal year
+by
+	- **(b)** the total of the population of all provinces for the fiscal year.
+> R.S., 1985, c. F-8, s. 15; R.S., 1985, c. 26 (2nd Supp.), s. 1; 1995, c. 17, s. 48; 1996, c. 18, s. 49; 1998, c. 19, s. 285.1; 1999, c. 26, s. 4; 2000, c. 14, s. 14; 2003, c. 15, s. 5; 2004, c. 4, s. 5.
 
 
 
@@ -826,18 +834,31 @@ equal to the product obtained by multiplying 13.5/(100-9.143) by the “tax othe
 
 
 
+**Payments to trusts — Canada Health and Social Transfer supplement**
+
+**16.4** The Minister may make direct payments totalling $2 billion to trusts established to provide the provinces with funding for the purposes referred to in subsection 13(2).
+> 2004, c. 4, s. 6.
+
+
+
+
+
 **Payments by Minister**
 
 **17** 
 
 - **(1)** Any amount payable under this Part shall be paid by the Minister out of the Consolidated Revenue Fund at such times and in such manner as may be prescribed.
 
+**Payments to a trust**
+
+- **(1.1)** Despite subsection (1), any amount payable to a trust under this Part may be paid by the Minister out of the Consolidated Revenue Fund at the times and in the manner that the Minister considers appropriate.
+
 **Reduction or withholding**
 
 - **(2)** The cash contribution that may be provided to a province under subsection 15(1) or (4) shall be reduced or withheld for the purposes of giving effect to
 	- **(a)** any order made by the Governor in Council in respect of the province under section 15 or 16 of the [Canada Health Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-6.md) or, in the case of a cash contribution under subsection 15(1), section 21 or 22 of this Act; or
 	- **(b)** any deduction from the cash contribution under section 20 of the [Canada Health Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-6.md).
-> R.S., 1985, c. F-8, s. 17; R.S., 1985, c. 11 (3rd Supp.), s. 7; 1995, c. 17, s. 50; 1999, c. 26, s. 6.
+> R.S., 1985, c. F-8, s. 17; R.S., 1985, c. 11 (3rd Supp.), s. 7; 1995, c. 17, s. 50; 1999, c. 26, s. 6; 2004, c. 4, s. 7.
 
 
 
