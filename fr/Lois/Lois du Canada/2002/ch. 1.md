@@ -820,7 +820,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Dans le cas où l’adolescent n’est pas représenté par un avocat, le juge du tribunal pour adolescents, avant d’accepter un plaidoyer, doit :
 	- **a)** s’assurer que l’adolescent a bien compris l’accusation dont il fait l’objet;
 	- **b)** s’il est passible de la peine applicable aux adultes, l’informer des conséquences qu’entraînerait son assujettissement à cette peine et de la procédure à suivre pour demander l’imposition d’une peine spécifique;
-	- **c)** lui expliquer qu’il peut plaider coupable ou non coupable ou, si les paragraphes 67(1) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes) ou (3) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes — Nunavut) s’appliquent, qu’il peut choisir d’être jugé par un juge du tribunal pour adolescents sans jury et sans enquête préliminaire ou par un juge sans jury après une enquête préliminaire ou encore par un tribunal composé d’un juge et d’un jury après une enquête préliminaire.
+	- **c)** lui expliquer qu’il peut plaider coupable ou non coupable ou, si les paragraphes 67(1) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes) ou (3) (choix du tribunal en cas d’éventuel assujettissement à la peine applicable aux adultes — Nunavut) s’appliquent, qu’il peut choisir d’être jugé par un juge du tribunal pour adolescents sans jury et sans enquête préliminaire ou d’être jugé par un juge sans jury après une enquête préliminaire ou encore par un tribunal composé d’un juge et d’un jury après une enquête préliminaire, une telle enquête n’étant tenue dans l’un ou l’autre cas qu’à sa demande ou à la demande du poursuivant.
 
 **Cas où le tribunal n’est pas convaincu que l’accusation est bien comprise**
 
@@ -829,6 +829,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cas où le tribunal n’est pas convaincu que l’accusation est bien comprise**
 
 - **(5)** Lorsque le tribunal pour adolescents n’est pas convaincu que l’adolescent comprend bien les points énoncés au paragraphe (3), il doit ordonner qu’un avocat lui soit désigné.
+> 2002, ch. 1, art. 32, ch. 13, art. 91.
+
 
 
 
@@ -1798,7 +1800,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **67** 
 
-- **(1)** Sous réserve de l’article 66, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (2) lorsque :
+- **(1)** Sous réserve de l’article 66, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (2) lorsque :
 	- **a)** soit l’adolescent est accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1);
 	- **b)** soit le procureur général a donné, au titre du paragraphe 64(2), avis de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après qu’il a atteint l’âge de quatorze ans;
 	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
@@ -1806,13 +1808,13 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Formule**
 
-- **(2)** Le tribunal pour adolescents appelle l’adolescent à faire son choix dans les termes suivants :Vous avez le choix d’être jugé par un juge du tribunal pour adolescents sans jury et sans enquête préliminaire ou vous pouvez choisir d’être jugé par un juge sans jury après une enquête préliminaire ou encore vous pouvez choisir d’être jugé par un tribunal composé d’un juge et d’un jury après une enquête préliminaire. Si vous ne faites pas ce choix maintenant, vous êtes réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury après une enquête préliminaire. Comment choisissez-vous d’être jugé?
+- **(2)** Le tribunal pour adolescents appelle l’adolescent à faire son choix dans les termes suivants :Vous avez le choix d’être jugé par un juge du tribunal pour adolescents sans jury et sans enquête préliminaire; ou vous pouvez choisir d’être jugé par un juge sans jury; ou encore vous pouvez choisir d’être jugé par un tribunal composé d’un juge et d’un jury. Si vous ne faites pas ce choix maintenant, vous êtes réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury. Si vous choisissez d’être jugé par un juge sans jury ou par un tribunal composé d’un juge et d’un jury ou êtes réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury, une enquête préliminaire ne sera tenue que si vous ou le poursuivant en faites la demande. Comment choisissez-vous d’être jugé?
 
 
 
-**Choix en cas d’infraction grave : Nunavut**
+**Choix en cas d’infraction grave : Nunavut**
 
-- **(3)** Sous réserve de l’article 66, dans une procédure au Nunavut, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (4) lorsque :
+- **(3)** Sous réserve de l’article 66, dans une procédure au Nunavut, le tribunal pour adolescents, avant la présentation du plaidoyer de l’adolescent, appelle celui-ci à faire son choix dans les termes prévus au paragraphe (4) lorsque :
 	- **a)** soit l’adolescent est accusé d’une infraction désignée visée à l’alinéa a) de la définition de ce terme au paragraphe 2(1);
 	- **b)** soit le procureur général a donné avis en vertu du paragraphe 64(2) de son intention d’obtenir l’assujettissement de l’adolescent à la peine applicable aux adultes à l’égard d’une infraction que celui-ci a commise après avoir atteint l’âge de quatorze ans;
 	- **c)** soit l’adolescent est accusé d’un meurtre au premier ou au deuxième degré, au sens de l’article 231 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), qu’il aurait commis avant d’avoir atteint l’âge de quatorze ans;
@@ -1820,15 +1822,15 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Formule**
 
-- **(4)** Le tribunal pour adolescents appelle l’adolescent à faire son choix dans les termes suivants :Vous avez le choix d’être jugé par un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, sans jury et sans enquête préliminaire ou vous pouvez choisir d’être jugé par un juge de la Cour de justice du Nunavut, agissant à ce titre, sans jury après une enquête préliminaire ou encore vous pouvez choisir d’être jugé par un tribunal composé d’un juge de la Cour de justice du Nunavut, agissant à ce titre, et d’un jury après une enquête préliminaire. Si vous ne faites pas ce choix maintenant, vous êtes réputé avoir choisi d’être jugé par un tribunal composé d’un juge de la Cour de justice du Nunavut et d’un jury après une enquête préliminaire. Comment choisissez-vous d’être jugé?
+- **(4)** Le tribunal pour adolescents appelle l’adolescent à faire son choix dans les termes suivants :Vous avez le choix d’être jugé par un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, sans jury et sans enquête préliminaire; ou vous pouvez choisir d’être jugé par un juge de la Cour de justice du Nunavut, agissant à ce titre, sans jury; ou encore vous pouvez choisir d’être jugé par un juge de la Cour de justice du Nunavut, agissant à ce titre, et un jury. Si vous ne faites pas ce choix maintenant, vous êtes réputé avoir choisi d’être jugé par un tribunal composé d’un juge de la Cour de justice du Nunavut et d’un jury. Si vous choisissez d’être jugé par un juge sans jury ou par un juge, agissant à titre de tribunal pour adolescents, et un jury ou êtes réputé avoir choisi d’être jugé par un juge, agissant à ce titre, et un jury, une enquête préliminaire ne sera tenue que si vous ou le poursuivant en faites la demande. Comment choisissez-vous d’être jugé?
 
 
 
 **Mode de procès lorsqu’il y a plusieurs prévenus**
 
-- **(5)** Lorsque plusieurs adolescents sont inculpés de la même infraction ou sont inculpés conjointement dans la même dénonciation ou le même acte d’accusation ou que le procureur général requiert la réunion de chefs d’accusations figurant dans des dénonciations ou actes d’accusation distincts à l’égard de plusieurs adolescents, si tous ne choisissent pas en premier lieu ou comme nouveau choix ou ne sont pas réputés avoir choisi, selon le cas, le même mode de procès, le juge du tribunal pour adolescents :
+- **(5)** Lorsque plusieurs adolescents sont inculpés de la même infraction ou sont inculpés conjointement dans la même dénonciation ou le même acte d’accusation ou que le procureur général requiert la réunion de chefs d’accusations figurant dans des dénonciations ou actes d’accusation distincts à l’égard de plusieurs adolescents, si tous ne choisissent pas en premier lieu ou comme nouveau choix ou ne sont pas réputés avoir choisi, selon le cas, le même mode de procès, le juge du tribunal pour adolescents :
 	- **a)** peut refuser d’enregistrer le choix, le nouveau choix ou le choix présumé pour être jugé par un juge du tribunal pour adolescents sans jury ou un juge sans jury ou, dans une procédure au Nunavut, un juge de la Cour de justice du Nunavut sans jury;
-	- **b)** s’il refuse de le faire, doit tenir une enquête préliminaire sauf si une enquête préliminaire a été tenue avant le choix, le nouveau choix ou le choix présumé.
+	- **b)** s’il refuse de le faire, doit, sur demande d’une partie, tenir une enquête préliminaire sauf si une enquête préliminaire a été tenue avant le choix, le nouveau choix ou le choix présumé.
 
 **Le procureur général peut exiger un procès par jury**
 
@@ -1836,7 +1838,15 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Enquête préliminaire**
 
-- **(7)** Lorsque l’adolescent a choisi d’être jugé par un juge sans jury ou a choisi ou est réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury, le tribunal pour adolescents mentionné au paragraphe 13(1) tient une enquête préliminaire; dans le cas où il est renvoyé pour subir son procès, le procès a lieu devant un juge sans jury ou un tribunal composé d’un juge et d’un jury, selon le cas ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, selon le cas.
+- **(7)** Lorsque l’adolescent a choisi d’être jugé par un juge sans jury ou a choisi ou est réputé avoir choisi d’être jugé par un tribunal composé d’un juge et d’un jury, le tribunal pour adolescents mentionné au paragraphe 13(1) tient une enquête préliminaire sur demande présentée par l’adolescent ou le poursuivant à ce moment ou dans le délai prévu par les règles établies en vertu des articles 17 ou 155 ou, en l’absence de règles, dans le délai fixé par le juge du tribunal pour adolescents; dans le cas où il est renvoyé pour subir son procès, le procès a lieu devant un juge sans jury ou un tribunal composé d’un juge et d’un jury, selon le cas, ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, selon le cas.
+
+**Plusieurs inculpés**
+
+- **(7.1)** Lorsque deux ou plusieurs adolescents font l’objet d’inculpations énoncées dans la même dénonciation et que l’un d’eux demande la tenue d’une enquête préliminaire au titre du paragraphe (7), une même enquête est tenue à l’égard de tous.
+
+**Fixation de la date du procès**
+
+- **(7.2)** Si la tenue d’une enquête préliminaire n’est pas demandée au titre du paragraphe (7), le tribunal pour adolescents fixe soit la date du procès, soit la date à laquelle l’adolescent devra comparaître pour connaître cette date.
 
 **Application des dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relatives à l’enquête préliminaire**
 
@@ -1844,9 +1854,11 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 
 **Application des parties XIX et XX du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
-- **(9)** Les poursuites intentées sous le régime de la présente loi devant un juge sans jury ou un tribunal composé d’un juge et d’un jury ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, sont régies par les parties XIX (actes criminels — procès sans jury) et XX (procédures lors d’un procès devant jury — dispositions générales) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires, sauf que :
+- **(9)** Les poursuites intentées sous le régime de la présente loi devant un juge sans jury ou un tribunal composé d’un juge et d’un jury ou, dans le cas d’une procédure au Nunavut, devant un juge de la Cour de justice du Nunavut, agissant à titre de tribunal pour adolescents, avec ou sans jury, sont régies par les parties XIX (actes criminels — procès sans jury) et XX (procédures lors d’un procès devant jury — dispositions générales) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires, sauf que :
 	- **a)** les dispositions de la présente loi relatives à la protection de la vie privée des adolescents l’emportent sur les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** l’adolescent a le droit d’être représenté par un avocat si le tribunal le fait éloigner en application du paragraphe 650(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2002, ch. 1, art. 67, ch. 13, art. 91.
+
 
 
 
