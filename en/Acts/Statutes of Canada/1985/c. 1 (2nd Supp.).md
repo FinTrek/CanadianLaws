@@ -795,10 +795,10 @@ may not be seized as forfeit under this Act by reason only that they were not re
 
 - **(2)** Subject to this Act, the rates of duties on imported goods shall be the rates applicable to the goods at the time they are accounted for under subsection 32(1), (2) or (5) or, where goods have been released in the circumstances set out in paragraph 32(2)(b), at the time of release.
 
-**Joint and several liability**
+**Liability**
 
-- **(3)** Whenever the importer of the goods that have been released or any person authorized pursuant to paragraph 32(6)(a) or subsection 32(7) to account for goods becomes liable under this Act to pay duties thereon, the owner of the goods at the time of release becomes jointly and severally liable, with the importer or person authorized, to pay the duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 17; 1992, c. 28, s. 4; 2001, c. 25, s. 14.
+- **(3)** Whenever the importer of the goods that have been released or any person authorized under paragraph 32(6)(a) or subsection 32(7) to account for goods becomes liable under this Act to pay duties on those goods, the owner of the goods at the time of release becomes jointly and severally, or solidarily, liable, with the importer or person authorized, to pay the duties.
+> R.S., 1985, c. 1 (2nd Supp.), s. 17; 1992, c. 28, s. 4; 2001, c. 25, s. 14; 2004, c. 25, s. 120(E).
 
 
 
@@ -1448,11 +1448,13 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **38** 
 
-- **(1)** Goods that are deposited in a place of safe-keeping pursuant to section 37 shall be kept there at the risk of the owner and importer thereof, and the owner and importer are jointly and severally liable for such storage charges as may be prescribed and any expenses incurred in moving the goods from the customs office, sufferance warehouse, bonded warehouse or duty free shop to the place of safe-keeping.
+- **(1)** Goods that are deposited in a place of safe-keeping under section 37 shall be kept there at the risk of the owner and importer of those goods, and the owner and importer are jointly and severally, or solidarily, liable for any storage charges that may be prescribed and any expenses incurred in moving the goods from the customs office, sufferance warehouse, bonded warehouse or duty free shop to the place of safe-keeping.
 
 **No removal until expenses paid**
 
 - **(2)** No goods shall be removed by any person other than an officer from a place of safe-keeping referred to in section 37 until the charges and expenses referred to in subsection (1) have been paid.
+> 1985, c. 1 (2nd Supp.), s. 38; 2004, c. 25, s. 121(E).
+
 
 
 
@@ -1465,7 +1467,9 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Expenses of disposal**
 
-- **(2)** The importer of goods that are forfeit under subsection (1) and the owner thereof at the time of forfeiture are jointly and severally liable for all reasonable expenses incurred by Her Majesty in right of Canada in the disposal of the goods where they are disposed of otherwise than by sale.
+- **(2)** The importer of goods that are forfeit under subsection (1) and the owner of those goods at the time of forfeiture are jointly and severally, or solidarily, liable for all reasonable expenses incurred by Her Majesty in right of Canada in the disposal of the goods if they are disposed of otherwise than by sale.
+> 1985, c. 1 (2nd Supp.), s. 39; 2004, c. 25, s. 122(E).
+
 
 
 
@@ -3378,7 +3382,7 @@ However, nothing in this subsection limits the liability of the transferor under
 - **(1)** The following rules apply to a person who is a bankrupt:
 	- **(a)** the trustee in bankruptcy is the agent of the bankrupt and any act performed by the trustee in the administration of the estate of the bankrupt or in the carrying on of any business of the bankrupt is deemed to have been made by the trustee as agent of the bankrupt;
 	- **(b)** the estate of the bankrupt is not a trust or an estate;
-	- **(c)** the property and money of the bankrupt immediately before the day of the bankruptcy does not pass to or vest in the trustee in bankruptcy on the receiving order being made or the assignment in bankruptcy being filed but remains vested in the bankrupt;
+	- **(c)** the property and money of the bankrupt immediately before the day of the bankruptcy does not pass to or vest in the trustee in bankruptcy on the bankruptcy order being made or the assignment in bankruptcy being filed but remains vested in the bankrupt;
 	- **(d)** the trustee in bankruptcy, and not the bankrupt, is liable for the payment of all amounts (other than amounts that relate solely to activities in which the bankrupt begins to engage on or after the day of the bankruptcy and to which the bankruptcy does not relate) that become payable by the bankrupt under this Act during the period beginning on the day immediately after the day the trustee became the trustee in bankruptcy of the bankrupt and ending on the day the discharge of the trustee is granted under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), except that
 		- **(i)** the trustee is liable for the payment of amounts that became payable by the bankrupt after the day of the bankruptcy only to the extent of the property and money of the bankrupt in possession of the trustee available to satisfy the liability, and
 		- **(ii)** the trustee is not liable for the payment of any amount for which a receiver is liable under section 97.37,
@@ -3388,10 +3392,10 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(h)** if there is a receiver with authority in respect of a business, a property, affairs or assets of the bankrupt, the trustee in bankruptcy is not required to perform the obligations of the bankrupt under this Act to the extent that the receiver is required under section 97.37 to perform those obligations; and
 	- **(i)** the property and money held by the trustee in bankruptcy for the bankrupt on the day an order of absolute discharge of the bankrupt is granted under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) does not pass to the bankrupt on the order being granted but is held by and vested in the bankrupt continuously since the day it was acquired by the bankrupt or the trustee, as the case may be.
 
-**Definition of “bankrupt”**
+**Definition of bankrupt**
 
 - **(2)** In this section, ***bankrupt*** has the same meaning as in subsection 2(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58; 2004, c. 25, s. 196.
 
 
 
