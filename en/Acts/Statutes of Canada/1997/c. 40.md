@@ -89,13 +89,15 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 
 - **(2)** The Board is not an agent of Her Majesty.
 
-**Not part of public service of Canada**
+**Not part of federal public administration**
 
-- **(3)** Directors, officers, employees and agents of the Board are not part of the public service of Canada.
+- **(3)** Directors, officers, employees and agents of the Board are not part of the federal public administration.
 
 **[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md)**
 
 - **(4)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, does not apply to the Board.
+> 1997, c. 40, s. 3; 2003, c. 22, s. 224(E).
+
 
 
 
