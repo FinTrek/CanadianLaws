@@ -320,7 +320,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***nouveau Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1). (*new Tribunal*)
 
-<a name='T-18.5_fr_1'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_1'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
 
@@ -336,7 +336,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#T-18.5_fr_2'>[*]</a></sup>**25** Les sommes affectées — et non engagées —, pour l’exercice en cours à l’entrée en vigueur de l’article 44, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses d’administration publique de l’ancien Tribunal sont réputées être affectées aux frais et dépenses d’administration publique du nouveau Tribunal.
 
-<a name='T-18.5_fr_2'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_2'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
 
@@ -345,7 +345,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#T-18.5_fr_3'>[*]</a></sup>**26** Le président, le vice-président et les autres membres qui occupent une charge de conseiller de l’ancien Tribunal à la date d’entrée en vigueur de l’article 44 continuent d’exercer leurs fonctions au sein du nouveau Tribunal jusqu’à l’expiration de leur mandat.
 
-<a name='T-18.5_fr_3'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_3'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
 
@@ -356,7 +356,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La présente loi ne change rien à la situation des fonctionnaires qui occupent un poste à l’ancien Tribunal à la date d’entrée en vigueur de l’article 44, à la différence près que, à compter de cette date, ils l’occupent au nouveau Tribunal.
 
-<a name='T-18.5_fr_4'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_4'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 **Définition de fonctionnaire**
 
@@ -390,7 +390,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#T-18.5_fr_5'>[*]</a></sup>**31** Le nouveau Tribunal prend la suite de l’ancien Tribunal, au même titre et dans les mêmes conditions que celui-ci, comme partie aux procédures judiciaires en cours à l’entrée en vigueur de l’article 44 et auxquelles l’ancien Tribunal est partie.
 
-<a name='T-18.5_fr_5'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_5'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
 
@@ -401,19 +401,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les procédures relatives à une question pendante devant l’ancien Tribunal au moment de l’entrée en vigueur de l’article 44, notamment toute question faisant l’objet d’une audience, sont poursuivies devant le nouveau Tribunal.
 
-<a name='T-18.5_fr_6'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_6'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 **Dispositions applicables**
 
 - <sup><a href='#T-18.5_fr_7'>[*]</a></sup>**(2)** Sauf décret prévoyant qu’elles doivent être poursuivies conformément à la présente loi, les procédures poursuivies au titre du présent article le sont conformément à la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) dans sa version antérieure à l’entrée en vigueur de l’article 44.
 
-<a name='T-18.5_fr_7'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_7'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 **Exception**
 
 - <sup><a href='#T-18.5_fr_8'>[*]</a></sup>**(3)** Le gouverneur en conseil peut, par décret, ordonner que les procédures relatives à une catégorie de questions visées au paragraphe (1) à l’égard desquelles, au moment de l’entrée en vigueur de l’article 44, aucune décision n’a encore été rendue soient, selon les modalités spécifiées dans le décret pour assurer la protection et le maintien des droits des parties, abandonnées ou poursuivies devant le nouveau Tribunal.
 
-<a name='T-18.5_fr_8'><sup>*</sup></a>: [Note : Article 44 non en vigueur.]<br />
+<a name='T-18.5_fr_8'><sup>*</sup></a>: [Note : Article 44 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
 
@@ -442,6 +442,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#T-18.5_fr_9'>[*]</a></sup>**73** Exception faite des articles 71 et 72, les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='T-18.5_fr_9'><sup>*</sup></a>: [Note : Articles 71 et 72 en vigueur à la sanction le 18 décembre 2001.]<br />
+<a name='T-18.5_fr_9'><sup>*</sup></a>: [Note : Articles 71 et 72 en vigueur à la sanction le 18 décembre 2001; articles 1 à 45, 52 à 54 et 60 à 70 en vigueur le 30 juin 2003, *voir* TR/2003-128.]<br />
 
 
