@@ -11,7 +11,7 @@ Sanctionnée sur le 18 juin 1992
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -67,7 +67,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les montants d’argent, excédant les plafonds réglementaires, lorsqu’ils sont possédés sans autorisation;
 - **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier.
 
- ou ***peine*** ou ***peine d’emprisonnement*** S’entend notamment d’une peine d’emprisonnement infligée par un tribunal étranger à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md).
+ ou ***peine*** ou 
+***peine d'emprisonnement*** S'entend notamment d'une peine spécifique imposée en vertu de la 
+[Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  et d'une peine d'emprisonnement infligée par un tribunal étranger à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md) .
+
 
 ***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
 
@@ -88,7 +91,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171
 
 
 
@@ -267,7 +270,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Par dérogation au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la personne qui est condamnée au pénitencier par un tribunal de Terre-Neuve ou qui doit y être transférée ne peut être écrouée dans un pénitencier sans l’agrément du fonctionnaire désigné par le lieutenant-gouverneur de cette province.
+- **(1)** Par dérogation au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et à la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), la personne qui est condamnée au pénitencier par un tribunal de Terre-Neuve ou qui doit y être transférée ne peut être écrouée dans un pénitencier sans l’agrément du fonctionnaire désigné par le lieutenant-gouverneur de cette province.
 
 **Idem**
 
@@ -276,6 +279,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accord**
 
 - **(3)** Le ministre peut, avec l’agrément du gouverneur en conseil, conclure un accord avec la province de Terre-Neuve prévoyant le paiement à celle-ci des coûts d’entretien des personnes visées au paragraphe (2).
+> 1992, ch. 20, art. 15; 2002, ch. 1, art. 172
+
 
 
 
@@ -1582,49 +1587,51 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***commissaire*** S’entend au sens de la partie I.
+***commissaire*** S’entend au sens de la partie I. 
 
-***Commission*** La Commission nationale des libérations conditionnelles visée à l’article 103. Y sont assimilées les commissions provinciales en ce qui a trait à l’exercice de la compétence que leur attribue l’article 112 et aux dispositions qui leur ont été rendues applicables en vertu de l’article 113.
+***Commission*** La Commission nationale des libérations conditionnelles visée à l’article 103. Y sont assimilées les commissions provinciales en ce qui a trait à l’exercice de la compétence que leur attribue l’article 112 et aux dispositions qui leur ont été rendues applicables en vertu de l’article 113. 
 
-***commission provinciale*** La Commission ontarienne des libérations conditionnelles, la Commission québécoise des libérations conditionnelles, la commission de la libération conditionnelle de la Colombie-Britannique ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province.
+***commission provinciale*** La Commission ontarienne des libérations conditionnelles, la Commission québécoise des libérations conditionnelles, la commission de la libération conditionnelle de la Colombie-Britannique ainsi que tout autre organisme provincial, ayant compétence en matière de libération conditionnelle, institué par la législature ou le lieutenant-gouverneur en conseil d’une province. 
 
-***date de libération d’office*** Date calculée en conformité avec l’article 127.
+***date de libération d’office*** Date calculée en conformité avec l’article 127. 
 
-***délinquant*** Individu condamné, avant ou après l’entrée en vigueur du présent article, à une peine d’emprisonnement :
-- **a)** soit en application d’une loi fédérale ou d’une loi provinciale dans la mesure applicable aux termes de la présente partie;
-- **b)** soit à titre de sanction d’un outrage au tribunal en matière civile ou pénale lorsque le délinquant n’est pas requis par une condition de sa sentence à retourner devant ce tribunal.
+  ***délinquant***
+- **a) ** Individu condamné — autre qu'un adolescent au sens de la  [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  —, avant ou après l'entrée en vigueur du présent article, à une peine d'emprisonnement :
+	- **(i)** soit en application d'une loi fédérale ou d'une loi provinciale dans la mesure applicable aux termes de la présente partie,
+	- **(ii)** soit à titre de sanction d'un outrage au tribunal en matière civile ou pénale lorsque le délinquant n'est pas requis par une condition de sa sentence de retourner devant ce tribunal;
+- **b)**  adolescent, au sens de la  [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) , qui a fait l'objet d'une ordonnance, d'une détention ou d'un ordre visés aux articles 76, 89, 92 ou 93 de cette loi.
 
-La présente définition ne vise toutefois pas l’adolescent — au sens de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) — qui a été placé sous garde aux termes de cette loi, ni la personne qui, en application de l’article 732 du *Code criminel,* purge une peine de façon discontinue.
+ La présente définition ne vise toutefois pas la personne qui, en application de l'article 732 du  *Code criminel,*  purge une peine de façon discontinue.
 
-***dommage grave*** Dommage corporel ou moral grave.
+***dommage grave*** Dommage corporel ou moral grave. 
 
-***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3).
+***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3). 
 
-***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration fédérale dans la province en cause.
+***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration fédérale dans la province en cause. 
 
-***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté.
+***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté. 
 
-***libération conditionnelle totale*** Régime accordé sous l’autorité de la Commission ou d’une commission provinciale et permettant au délinquant qui en bénéficie d’être en liberté pendant qu’il purge sa peine.
+***libération conditionnelle totale*** Régime accordé sous l’autorité de la Commission ou d’une commission provinciale et permettant au délinquant qui en bénéficie d’être en liberté pendant qu’il purge sa peine. 
 
-***libération d’office*** Mise en liberté sous surveillance, en conformité avec l’article 127, avant l’expiration de la peine que purge le détenu.
+***libération d’office*** Mise en liberté sous surveillance, en conformité avec l’article 127, avant l’expiration de la peine que purge le détenu. 
 
-***ministre*** S’entend au sens de la partie I.
+***ministre*** S’entend au sens de la partie I. 
 
- ou ***peine*** ou ***peine d’emprisonnement*** S’entend au sens de la partie I.
+ ou  ***peine*** ou  ***peine d’emprisonnement*** S’entend au sens de la partie I. 
 
-***pénitencier*** S’entend au sens de la partie I.
+***pénitencier*** S’entend au sens de la partie I. 
 
-***permission de sortir sans escorte*** Mise en liberté d’une durée déterminée accordée en vertu de l’article 116.
+***permission de sortir sans escorte*** Mise en liberté d’une durée déterminée accordée en vertu de l’article 116. 
 
- ou ***règlement*** ou ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156.
+ ou  ***règlement*** ou  ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. 
 
-***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre l’établissement résidentiel communautaire, le pénitencier ou l’établissement correctionnel provincial chaque soir, à moins d’autorisation écrite contraire.
+***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre l’établissement résidentiel communautaire, le pénitencier ou l’établissement correctionnel provincial chaque soir, à moins d’autorisation écrite contraire. 
 
-***Service*** S’entend au sens de la partie I.
+***Service*** S’entend au sens de la partie I. 
 
-***surveillance de longue durée*** S’entend au sens de la partie I.
+***surveillance de longue durée*** S’entend au sens de la partie I. 
 
-***victime*** S’entend au sens de la partie I.
+***victime*** S’entend au sens de la partie I. 
 
 **Mention de l’expiration légale de la peine**
 
@@ -1633,7 +1640,7 @@ La présente définition ne vise toutefois pas l’adolescent — au sens de la 
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173
 
 
 
@@ -1643,6 +1650,15 @@ La présente définition ne vise toutefois pas l’adolescent — au sens de la 
 
 **99.1** La personne soumise à une ordonnance de surveillance de longue durée est assimilée à un délinquant pour l’application de la présente partie; les articles 100, 101, 109 à 111 et 140 à 145 s’appliquent, avec les adaptations nécessaires, à cette personne et à la surveillance de celle-ci.
 > 1997, ch. 17, art. 18
+
+
+
+
+
+**Adolescent**
+
+**99.2** Pour l’application de la présente partie, le point de départ de la peine imposée à un adolescent — au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) — soumis à une détention ou un ordre visés aux articles 89, 92 ou 93 de cette loi, est le jour où la peine devient exécutoire en conformité avec le paragraphe 42(12) de cette loi.
+> 2002, ch. 1, art. 174
 
 
 
