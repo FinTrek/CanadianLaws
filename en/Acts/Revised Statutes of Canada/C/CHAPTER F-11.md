@@ -1956,7 +1956,11 @@ is guilty of an indictable offence and liable on conviction to a fine not exceed
 
 **85** 
 
-- **(1)** Divisions I to IV do not apply to the Bank of Canada, the Canada Council for the Arts, the Canada Pension Plan Investment Board, the Canadian Broadcasting Corporation, the Telefilm Canada, the International Development Research Centre or the National Arts Centre Corporation.
+- **(1)** Divisions I to IV do not apply to the Bank of Canada, the Canada Council for the Arts, the Canada Pension Plan Investment Board, the Canadian Broadcasting Corporation, the International Development Research Centre or the National Arts Centre Corporation.
+
+**Exemption for Telefilm Canada**
+
+- **(1.1)** Subject to subsection 21(2) of the [Telefilm Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-16.md), Divisions I to IV do not apply to Telefilm Canada.
 
 **Idem**
 
@@ -1969,7 +1973,7 @@ is guilty of an indictable offence and liable on conviction to a fine not exceed
 - **(3)** Divisions I to IV do not apply to
 	- **(a)** a federal member institution, within the meaning assigned to that expression by section 2 of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), the shares of which have been vested in the Canada Deposit Insurance Corporation by order of the Governor in Council under section 39.13 of that Act; or
 	- **(b)** to the Canada Deposit Insurance Corporation, as a parent Crown corporation in respect of a wholly-owned subsidiary that is a federal member institution described in paragraph (a).
-> R.S., 1985, c. F-11, s. 85; R.S., 1985, c. 46 (1st Supp.), s. 7; 1992, c. 26, s. 18; 1993, c. 1, s. 9, c. 44, s. 156; 1997, c. 40, s. 108; 1998, c. 17, s. 31; 2001, c. 11, s. 6, c. 34, s. 16; 2002, c. 17, s. 14.
+> R.S., 1985, c. F-11, s. 85; R.S., 1985, c. 46 (1st Supp.), s. 7; 1992, c. 26, s. 18; 1993, c. 1, s. 9, c. 44, s. 156; 1997, c. 40, s. 108; 1998, c. 17, s. 31; 2001, c. 11, s. 6, c. 34, s. 16; 2002, c. 17, s. 14; 2005, c. 14, s. 8.
 
 
 
