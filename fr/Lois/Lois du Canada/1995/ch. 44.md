@@ -95,16 +95,16 @@ La présente définition vise également les personnes dont les limitations fonc
 
 - **(1)** La présente loi s’applique à :
 	- **a)** tous les employeurs du secteur privé;
-	- **b)** tous les secteurs de l’administration publique fédérale mentionnés à la partie I de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md);
-	- **c)** tout secteur de l’administration publique fédérale figurant à la partie II de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md) et comportant au moins cent salariés;
+	- **b)** tous les secteurs de l’administration publique fédérale mentionnés aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** tout secteur de l’administration publique fédérale figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et comportant au moins cent salariés;
 	- **d)** tout autre élément du secteur public comportant au moins cent salariés, notamment les Forces canadiennes et la Gendarmerie royale du Canada, qui est désigné par décret pris sur la recommandation du Conseil du Trésor, après consultation avec le ministre responsable de l’élément du secteur public visé par le décret.
 
 **Gendarmerie royale du Canada**
 
 - **(2)** Pour l’application de la présente loi :
 	- **a)** la Gendarmerie royale du Canada est réputée être composée uniquement de ses membres au sens de la définition donnée à ce terme à l’article 2 de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
-	- **b)** la Gendarmerie royale du Canada est réputée ne pas être mentionnée à la partie I de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md);
-	- **c)** le personnel civil nommé ou employé conformément à l’article 10 de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) est réputé mentionné à la partie I de l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
+	- **b)** la Gendarmerie royale du Canada est réputée ne pas être mentionnée à l’annexe IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **c)** le personnel civil nommé ou employé conformément à l’article 10 de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) est réputé mentionné à l’annexe IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 **Forces canadiennes et Gendarmerie royale du Canada**
 
@@ -112,7 +112,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Obligations du Conseil du Trésor et de la Commission de la fonction publique**
 
-- **(4)** Le Conseil du Trésor et la Commission de la fonction publique, chacun agissant dans les limites de ses attributions en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et en vertu de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), sont chargés des obligations que la présente loi impose aux employeurs à l’égard des salariés qui font partie des secteurs de l’administration publique visés à l’alinéa (1)b).
+- **(4)** Le Conseil du Trésor et la Commission de la fonction publique, chacun agissant dans les limites de ses attributions en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et en vertu de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), sont chargés des obligations que la présente loi impose aux employeurs à l’égard des salariés qui font partie des secteurs de l’administration publique fédérale visés à l’alinéa (1) b).
 
 **Présomption**
 
@@ -129,7 +129,7 @@ La présente définition vise également les personnes dont les limitations fonc
 **Subdélégation**
 
 - **(8)** Les délégataires visés au paragraphe (7) peuvent, compte tenu des conditions et modalités de la délégation, subdéléguer à une ou plusieurs autres personnes les attributions qui leur ont été ainsi conférées.
-> 1995, ch. 44, art. 4; 2001, ch. 34, art. 40(F).
+> 1995, ch. 44, art. 4; 2001, ch. 34, art. 40(F); 2003, ch. 22, art. 163.
 
 
 
@@ -194,7 +194,9 @@ La présente définition vise également les personnes dont les limitations fonc
 
 - **(4)** En ce qui concerne le secteur public, ne constituent pas des obstacles à la carrière au sens de la présente loi :
 	- **a)** les priorités en matière de nomination établies en vertu de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) ou des règlements pris par la Commission de la fonction publique;
-	- **b)** les mesures de restructuration des effectifs, notamment la Directive sur le réaménagement des effectifs, prises par le Conseil du Trésor et les mesures d’adaptation de la main-d’oeuvre prises par la Commission de la fonction publique ou les autres éléments du secteur public visés aux alinéas 4(1)c) et d).
+	- **b)** les mesures de restructuration des effectifs prises par le Conseil du Trésor, notamment celles qui figurent dans les accords portant sur le réaménagement des effectifs, et par la Commission de la fonction publique ou les autres éléments du secteur public visés aux alinéas 4(1) c) et d).
+> 1995, ch. 44, art. 8; 2003, ch. 22, art. 164.
+
 
 
 
@@ -396,7 +398,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **21** 
 
-- **(1)** À chaque exercice, le président du Conseil du Trésor fait déposer devant chaque chambre du Parlement un rapport sur la situation en ce qui touche l’équité en matière d’emploi au sein des secteurs de l’administration publique visés à l’alinéa 4(1)b) pour le précédent exercice.
+- **(1)** À chaque exercice, le président du Conseil du Trésor fait déposer devant chaque chambre du Parlement un rapport sur la situation en ce qui touche l’équité en matière d’emploi au sein des secteurs de l’administration publique fédérale visés à l’alinéa 4(1) b) pour le précédent exercice.
 
 **Contenu du rapport**
 
@@ -446,6 +448,8 @@ La présente définition vise également les personnes dont les limitations fonc
 	- **a)** dans le cas du rapport visé au paragraphe (1), par le président du Conseil du Trésor;
 	- **b)** dans le cas du rapport visé au paragraphe (3), par les éléments du secteur public visés à ce paragraphe;
 	- **c)** dans le cas du rapport visé au paragraphe (5), par le Service canadien du renseignement de sécurité.
+> 1995, ch. 44, art. 21; 2003, ch. 22, art. 165.
+
 
 
 
@@ -993,6 +997,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Délégation**
 
 **43** Le ministre peut déléguer à tout agent de l’administration publique fédérale qu’il estime compétent l’exercice des attributions que la présente loi ou ses règlements lui confèrent, l’exercice de ces attributions par le délégataire étant assimilé à leur exercice par le ministre même.
+> 1995, ch. 44, art. 43; 2003, ch. 22, art. 224(A).
+
 
 
 
