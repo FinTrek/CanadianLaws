@@ -217,7 +217,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **13** En vue d’établir le droit à une indemnité, le ministre a droit, sur demande, d’avoir accès aux renseignements personnels, concernant la personne qui a subi la blessure, recueillis ou obtenus :
 - **a)** par le ministère des Anciens Combattants pour l’application de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md);
 - **b)** par le ministère des Transports pour l’application de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) et de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou de tout texte législatif antérieur portant sur le même sujet;
-- **c)** par les Archives nationales du Canada pour l’application de la [Loi sur les Archives nationales du Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(3e%20suppl.).md) ou de tout texte législatif antérieur portant sur le même sujet.
+- **c)** par Bibliothèque et Archives du Canada pour l’application de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md) ou de tout texte législatif antérieur portant sur le même sujet.
+> 2003, ch. 14, art. 13; 2004, ch. 11, art. 33.
+
 
 
 
