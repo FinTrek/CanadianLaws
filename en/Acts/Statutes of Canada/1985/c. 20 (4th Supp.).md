@@ -368,8 +368,8 @@
 
 **Review by Federal Court**
 
-- **(2)** Subject to section 10, a decision or order of the Board and a decision or order of the Tribunal may only be reviewed under the Federal Court Act.
-> R.S., 1985, c. 20 (4th Supp.), s. 12; 1990, c. 8, s. 42; 1995, c. 40, s. 36.
+- **(2)** Subject to section 10, a decision or order of the Board and a decision or order of the Tribunal may only be reviewed under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> R.S., 1985, c. 20 (4th Supp.), s. 12; 1990, c. 8, s. 42; 1995, c. 40, s. 36; 2002, c. 8, s. 182.
 
 
 
