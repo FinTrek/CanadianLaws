@@ -257,6 +257,8 @@
 **Décret**
 
 - **(3)** Le décret visé au paragraphe (2) est réputé ne pas être un règlement au sens et pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> L.R. (1985), ch. 47 (4e suppl.), art. 10; 2003, ch. 22, art. 225(A).
+
 
 
 
@@ -1961,7 +1963,7 @@ Le cas échéant, il en avise, sans délai et par écrit, le plaignant et les au
 **Interdiction de comparaître devant le Tribunal**
 
 - **(9)** Le Tribunal peut interdire à l’avocat ou à l’expert qui a commis une infraction prévue au paragraphe (6) — même si celui-ci a été condamné à une peine prévue au paragraphe (7) — de comparaître, pour la période qu’il juge indiquée, dans le cadre de toute procédure engagée devant lui.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 45; 1994, ch. 47, art. 44; 1999, ch. 12, art. 59.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 45; 1994, ch. 47, art. 44; 1999, ch. 12, art. 59; 2003, ch. 22, art. 224(A).
 
 
 
@@ -2034,7 +2036,7 @@ Si elle fait défaut d’agir dans le délai, le Tribunal ne peut tenir compte d
 **49** Ne peuvent être sciemment fournis par les agents de l’administration publique fédérale et les membres de manière à pouvoir être utilisés par des concurrents ou rivaux de la personne dont l’entreprise ou les activités sont concernées par eux les pièces ou renseignements suivants en leur possession :
 - **a)** ceux qui sont, de l’avis du Tribunal, confidentiels de nature et qui sont fournis ou obtenus au cours d’une procédure devant lui;
 - **b)** ceux qui sont déposés auprès du secrétaire conformément à l’alinéa 37a) ou 38(3)b) ou au paragraphe 76.03(9) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) et à propos desquels le commissaire des douanes et du revenu a indiqué par écrit au Tribunal qu’ils faisaient l’objet de l’application du paragraphe 84(1) de cette loi.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115; 2003, ch. 22, art. 224(A).
 
 
 
