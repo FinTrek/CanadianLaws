@@ -957,7 +957,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **57** 
 
-- **(1)** Malgré la Loi sur la Cour fédérale, la cour d’appel de la province où l’incarcération a été ordonnée a compétence exclusive pour connaître, conformément au présent article, de la demande de révision judiciaire de l’arrêté d’extradition pris au titre de l’article 40.
+- **(1)** Malgré la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la cour d’appel de la province où l’incarcération a été ordonnée a compétence exclusive pour connaître, conformément au présent article, de la demande de révision judiciaire de l’arrêté d’extradition pris au titre de l’article 40.
 
 **Demande**
 
@@ -977,13 +977,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs de la cour d’appel**
 
-- **(6)** Saisie de la demande, la cour d’appel peut :
+- **(6)** Saisie de la demande, la cour d’appel peut :
 	- **a)** ordonner au ministre d’accomplir tout acte qu’il a illégalement omis ou refusé d’accomplir ou dont il a retardé l’exécution de manière déraisonnable;
 	- **b)** déclarer nul ou illégal, annuler, infirmer, ou infirmer et renvoyer pour décision suivant ses instructions, l’arrêté d’extradition, en restreindre la portée ou en interdire la prise.
 
 **Motifs**
 
-- **(7)** Elle peut prendre les mesures prévues au présent article pour les mêmes motifs que la Section de première instance de la Cour fédérale peut le faire en application du paragraphe 18.1(4) de la Loi sur la Cour fédérale.
+- **(7)** Elle peut prendre les mesures prévues au présent article pour les mêmes motifs que la Cour fédérale peut le faire en application du paragraphe 18.1(4) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
 
 **Vice de forme**
 
@@ -996,6 +996,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règles applicables**
 
 - **(10)** Sauf incompatibilité avec la présente loi, les lois ou règles relatives à la révision judiciaire en vigueur dans la province s’appliquent, avec les adaptations nécessaires, aux demandes présentées au titre du présent article.
+> 1999, ch. 18, art. 57; 2002, ch. 8, art. 141.
+
 
 
 
