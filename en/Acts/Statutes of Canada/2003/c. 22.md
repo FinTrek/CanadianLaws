@@ -616,7 +616,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**109** [Amendment]
+**109** [Amendments]
 
 
 
@@ -664,7 +664,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**118** [Amendment]
+**118** [Amendments]
 
 
 
@@ -688,7 +688,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**123** [Amendment]
+**123** [Amendments]
 
 
 
@@ -816,7 +816,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Canadian Security Intelligence Service Act
 
 
-**143** [Amendment]
+**143** [Amendments]
 
 
 
@@ -1076,7 +1076,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Parliamentary Employment and Staff Relations Act
 
 
-**182** [Amendment]
+**182** [Amendments]
 
 
 
@@ -1096,7 +1096,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**187** [Amendment]
+**187** [Amendments]
 
 
 
@@ -1136,7 +1136,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**193** [Amendment]
+**193** [Amendments]
 
 
 
@@ -1216,7 +1216,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**211** [Amendment]
+**211** [Amendments]
 
 
 
@@ -1292,15 +1292,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Terminology Changes
 
 
-**223** [Amendment]
+**223** [Amendments]
 
 
 
-**224** [Amendment]
+**224** [Amendments]
 
 
 
-**225** [Amendment]
+**225** [Amendments]
 
 
 
@@ -1746,7 +1746,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Part 2 of the Public Service Labour Relations Act, as enacted by section 2 of this Act, or any provision of that Part, comes into force on a day or days to be fixed by order of the Governor in Council, made on the recommendation of the Minister, within the meaning of subsection 2(1) of that Act, after consultation with the Chairperson of the Public Service Labour Relations Board appointed under section 12 of that Act.
 
-<a name='P-33.4_e_s286'><sup>*</sup></a>: [Note: Sections 1 and 262 to 285 in force on assent November 7, 2003; sections 14 and 19, the definitions ***amended Act***, ***former Act***, ***former Commission*** and ***new Commission*** in section 68 and sections 77 to 83 and 246 to 250 in force November 20, 2003, *see* SI/2003-178; sections 21 to 35, 85 to 87 and 251 to 261 in force April 1, 2004, *see* SI/2004-42; section 5 in force December 1, 2004, *see* SI/2004-159.]<br />
+<a name='P-33.4_e_s286'><sup>*</sup></a>: [Note: Sections 1 and 262 to 285 in force on assent November 7, 2003; sections 14 and 19, the definitions ***amended Act***, ***former Act***, ***former Commission*** and ***new Commission*** in section 68 and sections 77 to 83 and 246 to 250 in force November 20, 2003, *see* SI/2003-178; sections 21 to 35, 85 to 87 and 251 to 261 in force April 1, 2004, *see* SI/2004-42; section 5 in force December 1, 2004, *see* SI/2004-159; preamble, sections 1 to 3 and Part 1, as enacted by section 2, in force April 1, 2005, *see* SI/2005-22; Part 2, as enacted by section 2, other than subparagraph 209(1)(c)(ii), paragraph 211(b) and section 231, in force April 1, 2005, *see* SI/2005-23; Parts 3 and 4, as enacted by section 2, sections 36 to 66 and 88 to 226 in force April 1, 2005, *see* SI/2005-24; sections 3, 4, 6 to 11 and 67 in force April 1, 2005, *see* SI/2005-25.]<br />
 
 
 
