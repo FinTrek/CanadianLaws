@@ -50,6 +50,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Constitution**
 
 **3** Est constitué un secteur de l’administration publique fédérale, le Service administratif des tribunaux judiciaires (ci-après appelé « Service »), composé de l’administrateur en chef et de ses employés.
+> 2002, ch. 8, art. 3; 2003, ch. 22, art. 156(A).
+
 
 
 
@@ -109,6 +111,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(2)** L’administrateur en chef est réputé appartenir à la fonction publique, pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), être un agent de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2002, ch. 8, art. 6; 2003, ch. 22, art. 157(A).
+
 
 
 
