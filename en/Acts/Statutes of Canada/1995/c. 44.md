@@ -99,16 +99,16 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 - **(1)** This Act applies to
 	- **(a)** private sector employers;
-	- **(b)** the portions of the public service of Canada set out in Part I of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md);
-	- **(c)** the portions of the public service of Canada set out in Part II of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) that employ one hundred or more employees; and
+	- **(b)** the portions of the federal public administration set out in Schedule I or IV to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(c)** the portions of the federal public administration set out in of Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) that employ one hundred or more employees; and
 	- **(d)** such other portion of the public sector employing one hundred or more employees, including the Canadian Forces and the Royal Canadian Mounted Police, as may be specified by order of the Governor in Council on the recommendation of the Treasury Board, in consultation with the minister responsible for the specified portion.
 
 **Royal Canadian Mounted Police**
 
 - **(2)** For the purposes of this Act,
 	- **(a)** the Royal Canadian Mounted Police is deemed to consist only of its members within the meaning of subsection 2(1) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md);
-	- **(b)** the Royal Canadian Mounted Police is deemed not to be included in Part I of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md); and
-	- **(c)** civilian employees appointed or employed in accordance with section 10 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) are deemed to be included in Part I of Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md).
+	- **(b)** the Royal Canadian Mounted Police is deemed not to be included in Schedule IV to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
+	- **(c)** civilian employees appointed or employed in accordance with section 10 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) are deemed to be included in Schedule IV to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
 **Canadian Forces and Royal Canadian Mounted Police**
 
@@ -116,7 +116,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Responsibilities of Treasury Board and Public Service Commission**
 
-- **(4)** The Treasury Board and the Public Service Commission, each acting within the scope of its powers, duties and functions under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), are responsible for carrying out the obligations of an employer under this Act in relation to employees employed in those portions of the public service referred to in paragraph (1)(b).
+- **(4)** The Treasury Board and the Public Service Commission, each acting within the scope of its powers, duties and functions under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), are responsible for carrying out the obligations of an employer under this Act in relation to employees employed in those portions of the federal public administration referred to in paragraph (1)(b).
 
 **Deemed employer**
 
@@ -130,12 +130,12 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Delegation by Treasury Board and Public Service Commission**
 
-- **(7)** The Treasury Board and the Public Service Commission may, for the purpose of carrying out their obligations under this Act in relation to a portion of the public service or other portion of the public sector referred to in subsection (1), authorize the chief executive officer or deputy head concerned to exercise, in relation to that portion, any of the powers and perform any of the duties and functions of the Treasury Board or the Public Service Commission, as the case may be, referred to in this section.
+- **(7)** The Treasury Board and the Public Service Commission may, for the purpose of carrying out their obligations under this Act in relation to a portion of the federal public administration or other portion of the public sector referred to in subsection (1), authorize the chief executive officer or deputy head concerned to exercise, in relation to that portion, any of the powers and perform any of the functions of the Treasury Board or the Public Service Commission, as the case may be, referred to in this section.
 
 **Delegation by chief executive officer or deputy head**
 
 - **(8)** Any chief executive officer or deputy head authorized under subsection (7) to exercise any of the powers and perform any of the duties and functions of the Treasury Board or Public Service Commission may, subject to and in accordance with the authorization given to that officer or deputy head, authorize one or more persons to exercise any of those powers and perform any of those duties and functions.
-> 1995, c. 44, s. 4; 2001, c. 34, s. 40(F).
+> 1995, c. 44, s. 4; 2001, c. 34, s. 40(F); 2003, c. 22, s. 163.
 
 
 
@@ -197,7 +197,9 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 - **(4)** The following are not, in relation to the public sector, employment barriers within the meaning of the Act, namely,
 	- **(a)** priorities for appointment under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) or regulations made by the Public Service Commission; and
-	- **(b)** workforce adjustment measures established by the Treasury Board, including measures set out in the Workforce Adjustment Directive, or by the Public Service Commission or any other portion of the public sector referred to in paragraphs 4(1)(c) and (d).
+	- **(b)** workforce adjustment measures established by the Treasury Board, including measures set out in agreements relating to workforce adjustment, or by the Public Service Commission or any other portion of the public sector referred to in paragraphs 4(1)(c) and (d).
+> 1995, c. 44, s. 8; 2003, c. 22, s. 164.
+
 
 
 
@@ -403,14 +405,14 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **21** 
 
-- **(1)** The President of the Treasury Board shall, in each fiscal year, cause to be laid before each House of Parliament a report in respect of the state of employment equity in the portions of the public service referred to in paragraph 4(1)(b) during the immediately preceding fiscal year.
+- **(1)** The President of the Treasury Board shall, in each fiscal year, cause to be laid before each House of Parliament a report in respect of the state of employment equity in the portions of the federal public administration referred to in paragraph 4(1)(b) during the immediately preceding fiscal year.
 
 **Contents of report**
 
 - **(2)** The report referred to in subsection (1) shall consist of
 	- **(a)** a consolidation and analysis of
-		- **(i)** the number of employees employed in each portion of the public service referred to in paragraph 4(1)(b) and the number of persons who are members of each designated group so employed,
-		- **(ii)** the total number of employees employed in all portions of the public service referred to in paragraph 4(1)(b) in each province and in the National Capital Region and the number of persons who are members of each designated group so employed,
+		- **(i)** the number of employees employed in each portion of the federal public administration referred to in paragraph 4(1)(b) and the number of persons who are members of each designated group so employed,
+		- **(ii)** the total number of employees employed in all portions of the federal public administration referred to in paragraph 4(1)(b) in each province and in the National Capital Region and the number of persons who are members of each designated group so employed,
 		- **(iii)** the occupational groups of employees and the degree of representation of persons who are members of each designated group in each occupational group,
 		- **(iv)** the salary ranges of employees and the degree of representation of persons who are members of each designated group in each range and in any subdivision of the range, and
 		- **(v)** the numbers of employees hired, promoted and terminated and the degree of representation, in those numbers, of persons who are members of each designated group;
@@ -454,6 +456,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 	- **(b)** in the case of a report referred to in subsection (3), each portion of the public sector referred to in that subsection, and
 	- **(c)** in the case of a report referred to in subsection (5), the Canadian Security Intelligence Service,
 shall send a copy of the report to its employees’ representatives.
+> 1995, c. 44, s. 21; 2003, c. 22, s. 165.
+
 
 
 
@@ -1023,7 +1027,9 @@ the employer may inform the compliance officer of such belief.
 
 **Delegation**
 
-**43** The Minister may authorize those persons employed in the public service of Canada whom the Minister considers to be appropriate to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by the Minister under this Act or the regulations, and any power exercised or duty or function performed by any person so authorized shall be deemed to have been exercised or performed by the Minister.
+**43** The Minister may authorize those persons employed in the federal public administration whom the Minister considers to be appropriate to exercise any of the powers and perform any of the duties and functions that may be or are required to be exercised or performed by the Minister under this Act or the regulations, and any power exercised or duty or function performed by any person so authorized shall be deemed to have been exercised or performed by the Minister.
+> 1995, c. 44, s. 43; 2003, c. 22, s. 224(E).
+
 
 
 
