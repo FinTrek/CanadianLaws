@@ -54,31 +54,47 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Agency*** means the Canadian Environmental Assessment Agency established by section 61;
 
+
 ***assessment by a review panel*** means an environmental assessment that is conducted by a review panel established pursuant to section 33 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+
 
 ***comprehensive study*** means an environmental assessment that is conducted pursuant to section 21 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
 
+
 ***comprehensive study list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(d);
 
+
 ***environment*** means the components of the Earth, and includes
+
 - **(a)** land, water and air, including all layers of the atmosphere,
 - **(b)** all organic and inorganic matter and living organisms, and
 - **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b);
 
 ***environmental assessment*** means, in respect of a project, an assessment of the environmental effects of the project that is conducted in accordance with this Act and the regulations;
 
-***environmental effect*** means, in respect of a project,
-- **(a)** any change that the project may cause in the environment, including any effect of any such change on health and socio-economic conditions, on physical and cultural heritage, on the current use of lands and resources for traditional purposes by aboriginal persons, or on any structure, site or thing that is of historical, archaeological, paleontological or architectural significance, and
-- **(b)** any change to the project that may be caused by the environment,
 
-whether any such change occurs within or outside Canada;
+ 
+***environmental effect*** means, in respect of a project,
+- **(a )** any change that the project may cause in the environment, including any change it may cause to a listed wildlife species, its critical habitat or the residences of individuals of that species, as those terms are defined in subsection 2(1) of the 
+[Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md) ,
+- **(b )** any effect of any change referred to in paragraph (a ) on
+	- **(i)** health and socio-economic conditions,
+	- **(ii)** physical and cultural heritage,
+	- **(iii)** the current use of lands and resources for traditional purposes by aboriginal persons, or
+	- **(iv)** any structure, site or thing that is of historical, archaeological, paleontological or architectural significance, or
+- **(c )** any change to the project that may be caused by the environment,
+
+ whether any such change or effect occurs within or outside Canada;
 
 ***exclusion list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(c);
 
+
 ***federal authority*** means
+
 - **(a)** a Minister of the Crown in right of Canada,
 - **(b)** an agency of the Government of Canada or other body established by or pursuant to an Act of Parliament that is ultimately accountable through a Minister of the Crown in right of Canada to Parliament for the conduct of its affairs,
-- **(c)** any department or departmental corporation set out in Schedule I or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
+- **(c)** any department or departmental corporation set out in Schedule I or II to the 
+[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
 - **(d)** any other body that is prescribed pursuant to regulations made under paragraph 59(e),
 
 but does not include the Legislature or an agency or body of Yukon or Nunavut, the Commissioner in Council or an agency or body of the Northwest Territories, a council of the band within the meaning of the 
@@ -90,50 +106,66 @@ The Toronto Harbour Commissioners' Act, 1911, a harbour commission established p
 [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
 
 ***federal lands*** means
-- **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands under the administration and control of the Commissioner of Yukon, the Northwest Territories or Nunavut and lands the management of which has been granted to a port authority under the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a not-for-profit corporation that has entered into an agreement under subsection 80(5) of that Act,
+
+- **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands under the administration and control of the Commissioner of Yukon, the Northwest Territories or Nunavut and lands the management of which has been granted to a port authority under the 
+[Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a not-for-profit corporation that has entered into an agreement under subsection 80(5) of that Act,
 - **(b)** the following lands and areas, namely,
 	- **(i)** the internal waters of Canada,
 	- **(ii)** the territorial sea of Canada,
 	- **(iii)** the exclusive economic zone of Canada, and
 	- **(iv)** the continental shelf of Canada, and
-- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and are subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands;
+- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and are subject to the 
+[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands;
 
 ***follow-up program*** means a program for
+
 - **(a)** verifying the accuracy of the environmental assessment of a project, and
 - **(b)** determining the effectiveness of any measures taken to mitigate the adverse environmental effects of the project;
 
 ***interested party*** means, in respect of an environmental assessment, any person or body having an interest in the outcome of the environmental assessment for a purpose that is neither frivolous nor vexatious;
 
+
 ***mediation*** means an environmental assessment that is conducted with the assistance of a mediator appointed pursuant to section 30 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
+
 
 ***Minister*** means the Minister of the Environment;
 
+
 ***mitigation*** means, in respect of a project, the elimination, reduction or control of the adverse environmental effects of the project, and includes restitution for any damage to the environment caused by such effects through replacement, restoration, compensation or any other means;
+
 
 Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
+
 ***project*** means
+
 - **(a)** in relation to a physical work, any proposed construction, operation, modification, decommissioning, abandonment or other undertaking in relation to that physical work, or
 - **(b)** any proposed physical activity not relating to a physical work that is prescribed or is within a class of physical activities that is prescribed pursuant to regulations made under paragraph 59(b);
 
 ***proponent***, in respect of a project, means the person, body, federal authority or government that proposes the project;
 
+
 ***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy thereof;
+
 
 ***responsible authority***, in relation to a project, means a federal authority that is required pursuant to subsection 11(1) to ensure that an environmental assessment of the project is conducted;
 
+
 ***screening*** means an environmental assessment that is conducted pursuant to section 18 and that includes a consideration of the factors set out in subsection 16(1);
+
 
 ***screening report*** means a report that summarizes the results of a screening;
 
+
 ***sustainable development*** means development that meets the needs of the present, without compromising the ability of future generations to meet their own needs.
+
 
 **Control**
 
 - **(2)** For the purposes of this Act, a corporation is controlled by another corporation if
 	- **(a)** securities of the corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the corporation are held, other than by way of security only, by or for the benefit of that other corporation; and
 	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the corporation.
-> 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 7, s. 122.
+> 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 7, s. 122, c. 29, s. 137.
 
 
 
