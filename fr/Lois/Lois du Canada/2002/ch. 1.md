@@ -3250,9 +3250,11 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Dossiers entre les mains d’archivistes**
 
-**126** L’archiviste national ou un archiviste provincial peut, si les conditions ci-après sont réunies, communiquer les renseignements contenus dans un dossier qui a initialement été tenu en application des articles 114 à 116 et qui est en sa possession :
+**126** Le bibliothécaire et archiviste du Canada ou un archiviste provincial peut, si les conditions ci-après sont réunies, communiquer les renseignements contenus dans un dossier qui a initialement été tenu en application des articles 114 à 116 et qui est en sa possession :
 - **a)** un juge du tribunal pour adolescents est convaincu que la communication est souhaitable dans l’intérêt public pour des fins de recherche ou de statistiques;
 - **b)** l’autre personne s’engage à éviter de communiquer les renseignements d’une manière qui pourrait normalement permettre d’identifier l’adolescent visé par le dossier.
+> 2002, ch. 1, art. 126; 2004, ch. 11, art. 48.
+
 
 
 
@@ -3293,11 +3295,11 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Destruction des dossiers**
 
-- **(2)** Sous réserve de l’alinéa 125(7)c), les dossiers tenus en application des articles 114 à 116, à l’exception des dossiers tenus en application du paragraphe 115(3), peuvent à tout moment, à la discrétion de la personne ou de l’organisme qui les tient, être détruits ou transmis à l’archiviste national ou à un archiviste provincial, même avant l’expiration de la période applicable prévue à l’article 119.
+- **(2)** Sous réserve de l’alinéa 125(7)c), les dossiers tenus en application des articles 114 à 116, à l’exception des dossiers tenus en application du paragraphe 115(3), peuvent à tout moment, à la discrétion de la personne ou de l’organisme qui les tient, être détruits ou transmis au bibliothécaire et archiviste du Canada ou à un archiviste provincial, même avant l’expiration de la période applicable prévue à l’article 119.
 
 **Destruction des dossiers de la Gendarmerie royale du Canada**
 
-- **(3)** Les dossiers tenus en application du paragraphe 115(3) sont détruits ou transmis à l’archiviste national, sur demande en ce sens par celui-ci, à l’expiration de la période applicable prévue aux articles 119 ou 120.
+- **(3)** Les dossiers tenus en application du paragraphe 115(3) sont détruits ou transmis au bibliothécaire et archiviste du Canada, sur demande en ce sens par celui-ci, à l’expiration de la période applicable prévue aux articles 119 ou 120.
 
 **Retrait des dossiers**
 
@@ -3307,15 +3309,17 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 - **(5)** Par dérogation aux paragraphes (1), (2) et (4), les renseignements relatifs à une infraction commise ou alléguée avoir été commise par un adolescent et qui figurent dans une banque de données maintenue par la Gendarmerie royale du Canada en vue d’établir des liens entre des renseignements recueillis sur les lieux d’une autre infraction sont traités de la façon dont le sont les renseignements relatifs aux infractions commises par des adultes et à l’égard desquelles il leur a été octroyée une réhabilitation.
 
-**Examen des dossier par l’archiviste**
+**Examen des dossiers**
 
-- **(6)** L’archiviste national peut à tout moment examiner les dossiers tenus en application des articles 114 à 116 par une institution fédérale au sens de l’article 2 de la Loi sur les archives nationales et l’archiviste provincial peut à tout moment examiner ceux des dossiers tenus en application de ces articles qu’il a par ailleurs le droit d’examiner en vertu d’une loi provinciale.
+- **(6)** Le bibliothécaire et archiviste du Canada peut à tout moment examiner les dossiers tenus en application des articles 114 à 116 par une institution fédérale au sens de l’article 2 de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md) et l’archiviste provincial peut à tout moment examiner ceux des dossiers tenus en application de ces articles qu’il a par ailleurs le droit d’examiner en vertu d’une loi provinciale.
 
-**Définition de « destruction »**
+**Définition de destruction**
 
-- **(7)** Pour l’application des paragraphes (2) et (3), « destruction » s’entend :
+- **(7)** Pour l’application des paragraphes (2) et (3), ***destruction*** s’entend :
 	- **a)** dans le cas des dossiers qui ne sont pas sur support électronique, de leur déchiquetage, de leur brûlage ou de tout autre mode de destruction matérielle;
 	- **b)** dans le cas des dossiers qui sont sur support électronique, de leur élimination, y compris par effacement pour substitution, ou de tout autre moyen empêchant d’y avoir accès.
+> 2002, ch. 1, art. 128; 2004, ch. 11, art. 49.
+
 
 
 
