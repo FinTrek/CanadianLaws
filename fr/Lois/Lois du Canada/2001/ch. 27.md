@@ -3222,7 +3222,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Code criminel
 
 
-**244. à 247** [Modifications]
+**244** [Modification]
+
+
+
+**245** [Abrogé, 2004, ch. 15, art. 110]
+
+
+
+**246 et 247** [Modifications]
 
 
 
