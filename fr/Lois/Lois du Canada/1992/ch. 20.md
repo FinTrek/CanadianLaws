@@ -67,10 +67,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les montants d’argent, excédant les plafonds réglementaires, lorsqu’ils sont possédés sans autorisation;
 - **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier.
 
- ou ***peine*** ou 
-***peine d'emprisonnement*** S'entend notamment d'une peine spécifique imposée en vertu de la 
-[Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)  et d'une peine d'emprisonnement infligée par un tribunal étranger à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md) .
-
+ ou ***peine*** ou ***peine d'emprisonnement*** S'entend notamment d'une peine spécifique imposée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et d'une peine d'emprisonnement imposée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
 
 ***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
 
@@ -91,7 +88,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39
 
 
 
@@ -1765,12 +1762,12 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **107** 
 
-- **(1)** Sous réserve de la présente loi, de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), de la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md), de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la Commission a toute compétence et latitude pour :
+- **(1)** Sous réserve de la présente loi, de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la Commission a toute compétence et latitude pour :
 	- **a)** accorder une libération conditionnelle;
 	- **b)** mettre fin à la libération conditionnelle ou d’office, ou la révoquer que le délinquant soit ou non sous garde en exécution d’un mandat d’arrêt délivré à la suite de la suspension de sa libération conditionnelle ou d’office;
 	- **c)** annuler l’octroi de la libération conditionnelle ou la suspension, la cessation ou la révocation de la libération conditionnelle ou d’office;
 	- **d)** examiner les cas qui lui sont déférés en application de l’article 129 et rendre une décision à leur égard;
-	- **e)** accorder une permission de sortir sans escorte, ou annuler la décision de l’accorder dans le cas du délinquant qui purge, dans un pénitencier, une peine d’emprisonnement, selon le cas :
+	- **e)** accorder une permission de sortir sans escorte, ou annuler la décision de l’accorder dans le cas du délinquant qui purge, dans un pénitencier, une peine d’emprisonnement, selon le cas :
 		- **(i)** à perpétuité comme peine minimale ou à la suite de commutation de la peine de mort,
 		- **(ii)** d’une durée indéterminée,
 		- **(iii)** pour une infraction mentionnée à l’annexe I ou II.
@@ -1778,7 +1775,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Infractions aux lois provinciales**
 
 - **(2)** La Commission est également compétente à l’égard des délinquants qui, en vertu de l’article 743.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), sont condamnés à purger dans un pénitencier la peine qui leur a été infligée pour une infraction à une loi provinciale, que cette peine doive être purgée seule, en même temps qu’une autre peine infligée aux termes d’une loi fédérale ou provinciale, ou consécutivement à cette autre peine.
-> 1992, ch. 20, art. 107; 1995, ch. 22, art. 13, ch. 42, art. 28(A), 70(A) et 71(F); 1998, ch. 35, art. 110; 2000, ch. 24, art. 36
+> 1992, ch. 20, art. 107; 1995, ch. 22, art. 13, ch. 42, art. 28(A), 70(A) et 71(F); 1998, ch. 35, art. 110; 2000, ch. 24, art. 36; 2004, ch. 21, art. 40
 
 
 
@@ -2945,7 +2942,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Remise de peine**
 
-- **(3)** Lorsqu’il a été mis fin à la liberté conditionnelle ou d’office d’un délinquant, celui-ci continue de bénéficier de la remise de peine qu’il a méritée en vertu de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md) et des réductions de peines prévues par la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md).
+- **(3)** Lorsqu’il a été mis fin à la liberté conditionnelle ou d’office d’un délinquant, celui-ci continue de bénéficier de la remise de peine qu’il a méritée en vertu de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md) et des réductions de peines prévues par la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
 
 **Admissibilité à la libération conditionnelle en cas de révocation**
 
@@ -2958,7 +2955,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Droit à la libération d’office en cas de révocation**
 
 - **(6)** Sous réserve des paragraphes 130(4) et (6), le délinquant dont la libération conditionnelle ou d’office est révoquée a droit à la libération d’office conformément à l’article 127.
-> 1992, ch. 20, art. 138; 1995, ch. 42, art. 53 et 70(A)
+> 1992, ch. 20, art. 138; 1995, ch. 42, art. 53 et 70(A); 2004, ch. 21, art. 40
 
 
 
