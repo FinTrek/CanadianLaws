@@ -1484,23 +1484,51 @@ An organization shall investigate all complaints. If a complaint is found to be 
 
 ### **SCHEDULE 2** 
 **(Sections 38 to 47, 49 and 51)**
+<table>
+<h4>Acts of Parliament</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Act of Parliament</th>
+<th>Provisions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md)</td>
+<td>Sections 3, 5 to 7, 11 and 16</td>
+</tr>
+</table>
 
-### Acts of Parliament
-
-
-
-
+> 2000, c. 5, Sch. 2; SOR/2004-309, s. 1. .
 
 
 
 
 ### **SCHEDULE 3** 
 **(Sections 38 to 47, 49 and 51)**
+<table>
+<h4>Regulations and Other Instruments</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Regulations or Other Instrument</th>
+<th>Provisions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Federal Real Property Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/92/502.md)</td>
+<td>Sections 9 and 11</td>
+</tr>
+</table>
 
-### Regulations and Other Instruments
-
-
-
-
+> 2000, c. 5, Sch. 3; SOR/2004-309, s. 2.
 
 
