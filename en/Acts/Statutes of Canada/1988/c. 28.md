@@ -4650,12 +4650,12 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 - **(h)** in respect of the seventh fiscal year following the first fiscal year of offshore production, eighty per cent, and
 - **(i)** in respect of the eighth fiscal year following the first fiscal year of offshore production, ninety per cent;
 
-***province*** does not include the Northwest Territories, the Yukon Territory or Nunavut.
+***province*** does not include the Northwest Territories, Yukon or Nunavut.
 
 **Determination of population**
 
 - **(2)** For the purposes of this Part, the population of a province for a fiscal year is the population of that province for that fiscal year, as determined for the purposes of Part I of the Fiscal Arrangements Act.
-> 1988, c. 28, s. 223; 1993, c. 28, s. 78; 1998, c. 15, s. 18.
+> 1988, c. 28, s. 223; 1993, c. 28, s. 78; 1998, c. 15, s. 18; 2002, c. 7, s. 110(E).
 
 
 
