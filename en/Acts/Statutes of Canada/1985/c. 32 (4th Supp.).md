@@ -134,7 +134,7 @@ and that is declared by order of the Minister to be a relevant association or or
 - **(b)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
 - **(c)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(d)** in the Province of Quebec, the Superior Court of the Province, and
-- **(e)** in the Yukon Territory and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice;
+- **(e)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
 
 ***utility crossing*** means that part of a utility line that passes over or under a line of railway, and includes any structure supporting or protecting that part of that utility line or facilitating the crossing;
 
@@ -164,7 +164,7 @@ and that is declared by order of the Minister to be a relevant association or or
 		- **(ii)** by mailing it by registered mail to the person’s latest known address;
 	- **(b)** in the case of a body other than an individual, by mailing it by registered mail to the head office or any prescribed office of that body; or
 	- **(c)** in either case, by any other means approved in writing by the Minister and subject to any conditions fixed by the Minister.
-> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2.
+> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2; 2002, c. 7, s. 234(E).
 
 
 
