@@ -83,11 +83,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** appuyer, publier et diffuser des études, rapports ou autres documents;
 - **c)** appuyer ou prendre en charge la tenue de congrès, colloques ou autres réunions;
 - **d)** établir des relations fonctionnelles avec les gouvernements, les milieux universitaire et juridique, et les autres organismes ou personnes qui s’intéressent à ses travaux;
-- **e)** acquérir, par don, legs ou autre mode de libéralités, des biens, notamment sous forme d’argent ou de valeurs mobilières, et les détenir, employer, investir ou gérer, ou en disposer, pourvu qu’elle respecte les conditions dont sont éventuellement assorties ces libéralités;
+- **e)** acquérir, par don, legs ou autrement, des biens, notamment sous forme d’argent ou de valeurs mobilières, et les détenir, employer, investir ou gérer, ou en disposer, pourvu qu’elle respecte les conditions dont est éventuellement assortie leur acquisition;
 - **f)** toucher des revenus pour la fourniture de biens et de services;
 - **g)** employer, au cours d’un exercice, les crédits affectés par le Parlement ou les sommes obtenues d’autres sources durant l’exercice dans le cadre de ses opérations, sous réserve des conditions de leur affectation ou de leur obtention;
 - **h)** prendre toute autre mesure utile à l’exécution de sa mission.
-> 1996, ch. 9, art. 4; 2001, ch. 4, art. 98(F).
+> 1996, ch. 9, art. 4; 2001, ch. 4, art. 98(F); 2004, ch. 25, art. 143(F).
 
 
 
