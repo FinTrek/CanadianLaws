@@ -33,21 +33,23 @@ Assented to on 16 December 1992
 
 **2** In this Act,
 
-***benefit*** includes a refund of contributions and any interest payable on those contributions;
+***benefit*** includes a refund of contributions and any interest payable on those contributions; (*prestations*)
 
-***Minister*** means the President of the Treasury Board;
+***Minister*** means the President of the Treasury Board; (*ministre*)
 
-***pension benefit*** means a periodic payment to which a member or former member of a special pension plan, or the spouse, other beneficiary or estate of that member or former member, is or may become entitled under that pension plan;
+  ***pension benefit*** means a periodic payment to which a member or former member of a special pension plan, or the beneficiary, estate or succession of that member or former member, is or may become entitled under that pension plan; (*prestation de retraite*)
 
-***pension benefit credit*** means the aggregate value at a particular time of the pension benefit and any other benefits that have accrued under a special pension plan to a member or former member of that pension plan, as calculated in the prescribed manner;
+***pension benefit credit*** means the aggregate value at a particular time of the pension benefit and any other benefits that have accrued under a special pension plan to a member or former member of that pension plan, as calculated in the prescribed manner; (*droits à pension*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***retirement compensation arrangement***, unless the context otherwise requires, means a plan or an arrangement that is established by or under the authority of an order made under paragraph 10(a) or subsection 11(1);
+***retirement compensation arrangement***, unless the context otherwise requires, means a plan or an arrangement that is established by or under the authority of an order made under paragraph 10(a) or subsection 11(1); (*régime compensatoire*)
 
-***retirement compensation benefit credit*** means the aggregate value at a particular time of the benefits that have accrued to a person under a retirement compensation arrangement, as calculated in the prescribed manner;
+***retirement compensation benefit credit*** means the aggregate value at a particular time of the benefits that have accrued to a person under a retirement compensation arrangement, as calculated in the prescribed manner; (*droits à pension compensatoires*)
 
-***special pension plan*** means a pension plan established by or under the authority of an order made under paragraph 3(1)(b).
+***special pension plan*** means a pension plan established by or under the authority of an order made under paragraph 3(1)(b). (*régime spécial de pension*)
+> 1992, c. 46, Sch. I, s. 2; 2000, c. 12, s. 292.
+
 
 
 
@@ -413,6 +415,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations
 	- **(a)** respecting the time or times at which a person or class of persons becomes exempt from the application of the [Diplomatic Service (Special) Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/D/D-2.md) or the [Lieutenant Governors Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-8.md) by an order made under paragraph 3(1)(a) and respecting the manner in which and extent to which any provision of that Act or the regulations made under that Act applies, notwithstanding the exemption, to that person or class of persons and to other persons affected by the exemption, and adapting any such provision to those persons or that class of persons, where necessary for the purpose of providing for the consequences of the exemption or of ensuring the practical operation of that Act or those regulations and a special pension plan;
 	- **(b)** prescribing the time or times at which a person becomes or ceases to be a member of a special pension plan or is deemed to become or to cease to be a member for the purposes of that pension plan or this Act;
+	- **(b.1)** specifying the persons who may be beneficiaries of a pension benefit;
 	- **(c)** for the purposes of section 5, designating special pension plans, defining the word “salary”, and establishing the rate or rates at which persons shall contribute to the Registered Pension Plans Account in respect of a special pension plan;
 	- **(d)** respecting the crediting to the Registered Pension Plans Account and the charging to the Consolidated Revenue Fund of amounts representing the aggregate value at any particular time of any benefits that have accrued to a person under the [Diplomatic Service (Special) Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/D/D-2.md) or the [Lieutenant Governors Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-8.md), as calculated in the prescribed manner;
 	- **(e)** respecting the conditions under which and the extent to which the employment or service that relates to the benefits referred to in paragraph (d) may be counted as pensionable employment or service for the purposes of a special pension plan;
@@ -431,5 +434,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Retroactive application of regulations**
 
 - **(2)** Regulations made under paragraph (1)(a), (b), (c), (h), (i) or (n) may, if they so provide, be retroactive and have effect with respect to any period before they are made.
+> 1992, c. 46, Sch. I, s. 28; 2000, c. 12, s. 294.
+
 
 
