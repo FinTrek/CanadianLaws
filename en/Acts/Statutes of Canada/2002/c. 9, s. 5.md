@@ -1645,7 +1645,7 @@ the Minister may, by notice in writing, require the institution or person, as th
 - **(2)** A director of a corporation is not liable unless
 	- **(a)** a certificate for the amount of the corporation’s liability has been registered in the Federal Court under section 74 and execution for that amount has been returned unsatisfied in whole or in part;
 	- **(b)** the corporation has commenced liquidation or dissolution proceedings or has been dissolved, and a claim for the amount of the corporation’s liability has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
-	- **(c)** the corporation has made an assignment or a receiving order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), and a claim for the amount of the corporation’s liability has been proved within six months after the date of the assignment or receiving order.
+	- **(c)** the corporation has made an assignment or a bankruptcy order has been made against it under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), and a claim for the amount of the corporation’s liability has been proved within six months after the date of the assignment or bankruptcy order.
 
 **Diligence**
 
@@ -1670,6 +1670,8 @@ the Minister may, by notice in writing, require the institution or person, as th
 **Contribution**
 
 - **(8)** A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+> 2002, c. 9, s. 5 “81”; 2004, c. 25, s. 184.
+
 
 
 
