@@ -160,8 +160,8 @@
 
 **Participation des sous-ministres aux réunions**
 
-**15** Le sous-ministre de la Santé et le sous-solliciteur général du Canada, ou leur délégué, sont avisés de la tenue des réunions du conseil et de ses comités, auxquelles ils n’ont toutefois que voix consultative.
-> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 15; 1996, ch. 8, art. 33.
+**15** Le sous-ministre de la Santé et le sous-ministre de la Sécurité publique et de la Protection civile, ou leur délégué, sont avisés de la tenue des réunions du conseil et de ses comités, auxquelles ils n’ont toutefois que voix consultative.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 15; 1996, ch. 8, art. 33; 2005, ch. 10, art. 11.
 
 
 
