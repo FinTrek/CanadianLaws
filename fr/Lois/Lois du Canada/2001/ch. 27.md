@@ -1174,10 +1174,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les dispositions suivantes s’appliquent à la demande d’autorisation :
 	- **a)** elle ne peut être présentée tant que les voies d’appel ne sont pas épuisées;
-	- **b)** elle doit être signifiée à l’autre partie puis déposée au greffe de la Section de première instance de la Cour fédérale — la Cour — dans les quinze ou soixante jours, selon que la mesure attaquée a été rendue au Canada ou non, suivant, sous réserve de l’alinéa 169f), la date où le demandeur en est avisé ou en a eu connaissance;
+	- **b)** elle doit être signifiée à l’autre partie puis déposée au greffe de la Cour fédérale — la Cour — dans les quinze ou soixante jours, selon que la mesure attaquée a été rendue au Canada ou non, suivant, sous réserve de l’alinéa 169f), la date où le demandeur en est avisé ou en a eu connaissance;
 	- **c)** le délai peut toutefois être prorogé, pour motifs valables, par un juge de la Cour;
 	- **d)** il est statué sur la demande à bref délai et selon la procédure sommaire et, sauf autorisation d’un juge de la Cour, sans comparution en personne;
 	- **e)** le jugement sur la demande et toute décision interlocutoire ne sont pas susceptibles d’appel.
+> 2001, ch. 27, art. 72; 2002, ch. 8, art. 194.
+
 
 
 
@@ -1204,11 +1206,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **75** 
 
-- **(1)** Le juge en chef de la Cour fédérale peut, avec l’agrément du gouverneur en conseil, prendre des règles régissant la pratique et la procédure relatives à la demande d’autorisation et de contrôle judiciaire et à l’appel; ces règles l’emportent sur les règles et usages par ailleurs applicables.
+- **(1)** Le comité des règles établi aux termes de l’article 45.1 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) peut, avec l’agrément du gouverneur en conseil, prendre des règles régissant la pratique et la procédure relatives à la demande d’autorisation et de contrôle judiciaire et à l’appel; ces règles l’emportent sur les règles et usages qui seraient par ailleurs applicables.
 
 **Incompatibilité**
 
-- **(2)** Les dispositions de la présente section l’emportent sur les dispositions incompatibles de la Loi sur la Cour fédérale.
+- **(2)** Les dispositions de la présente section l’emportent sur les dispositions incompatibles de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 2001, ch. 27, art. 75; 2002, ch. 8, art. 194.
+
 
 
 
@@ -1226,9 +1230,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **76** Les définitions qui suivent s’appliquent à la présente section.
 
-***juge*** Le juge en chef adjoint de la Cour fédérale ou le juge de la Section de première instance de cette juridiction désigné par celui-ci.
+***juge*** Le juge en chef de la Cour fédérale ou le juge de cette juridiction désigné par celui-ci.
 
 ***renseignements*** Les renseignements en matière de sécurité ou de criminalité et ceux obtenus, sous le sceau du secret, de source canadienne ou du gouvernement d’un État étranger, d’une organisation internationale mise sur pied par des États ou de l’un de leurs organismes.
+> 2001, ch. 27, art. 76; 2002, ch. 8, art. 194.
+
 
 
 
@@ -1237,11 +1243,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **77** 
 
-- **(1)** Le ministre et le solliciteur général du Canada déposent à la Section de première instance de la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée pour qu’il en soit disposé au titre de l’article 80.
+- **(1)** Le ministre et le solliciteur général du Canada déposent à la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée pour qu’il en soit disposé au titre de l’article 80.
 
 **Effet du dépôt**
 
 - **(2)** Il ne peut être procédé à aucune instance visant le résident permanent ou l’étranger au titre de la présente loi tant qu’il n’a pas été statué sur le certificat; n’est pas visée la demande de protection prévue au paragraphe 112(1).
+> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194.
+
 
 
 
@@ -1271,7 +1279,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Reprise de l’affaire**
 
-- **(2)** Le ministre notifie sa décision sur la demande de protection au résident permanent ou à l’étranger et au juge, lequel reprend l’affaire et contrôle la légalité de la décision, compte tenu des motifs visés au paragraphe 18.1(4) de la Loi sur la Cour fédérale.
+- **(2)** Le ministre notifie sa décision sur la demande de protection au résident permanent ou à l’étranger et au juge, lequel reprend l’affaire et contrôle la légalité de la décision, compte tenu des motifs visés au paragraphe 18.1(4) de la 
+[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 2001, ch. 27, art. 79; 2002, ch. 8, art. 194.
+
 
 
 
@@ -3007,6 +3018,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Section du statut de réfugié**
 
 **198** La Section de la protection des réfugiés connaît des décisions de la Section du statut de réfugié qui lui sont renvoyées et en dispose sous le régime de la présente loi.
+> 2001, ch. 27, art. 198; 2002, ch. 8, art. 194.
+
 
 
 
