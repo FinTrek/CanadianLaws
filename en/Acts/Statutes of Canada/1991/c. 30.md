@@ -703,11 +703,11 @@ International Joint Commission (Canadian Section)<br />- <i>Commission mixte int
 
 Law Commission of Canada<br />- <i>Commission du droit du Canada</i>
 
+Library and Archives of Canada<br />- <i>Bibliothèque et Archives du Canada</i>
+
 Machinery and Equipment Advisory Board<br />- <i>Conseil consultatif de la machinerie et de l’équipement</i>
 
 Medical Research Council of Canada<br />- <i>Conseil de recherches médicales du Canada</i>
-
-National Archives of Canada<br />- <i>Archives nationales du Canada</i>
 
 National Battlefields Commission<br />- <i>Commission des champs de bataille nationaux</i>
 
@@ -716,8 +716,6 @@ National Energy Board<br />- <i>Office national de l’énergie</i>
 National Farm Products Marketing Council<br />- <i>Conseil national de commercialisation des produits agricoles</i>
 
 National Film Board<br />- <i>Office national du film</i>
-
-National Library<br />- <i>Bibliothèque nationale</i>
 
 National Parole Board<br />- <i>Commission nationale des libérations conditionnelles</i>
 
@@ -785,14 +783,14 @@ Statistics Canada<br />- <i>Statistique Canada</i>
 
 Supreme Court of Canada, Staff of<br />- <i>Cour suprême du Canada, Personnel de la</i>
 
-Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d'appel des transports du Canada</i>
+Transportation Appeal Tribunal of Canada<br />- <i>Tribunal d’appel des transports du Canada</i>
 
 Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des transports Canada</i>
 
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44.
 
 
 
