@@ -57,14 +57,18 @@ Sanctionnée sur le 12 décembre 2002
 
 **Avis — Convention**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#c-7-7'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='c-7-7'><sup>*</sup></a>: [Note : Convention en vigueur le 19 décembre 2002, *voir* Gazette du Canada Partie I, volume 137, page 776.]<br />
 
 
 
 
 **Avis — traités fiscaux antérieurs**
 
-**7** Dans les 60 jours suivant l’entrée en vigueur de la Convention, le ministre des Finances fait publier dans la Gazette du Canada un avis de la date de l’abrogation de l’Accord entre le gouvernement du Canada et le gouvernement du Royaume de Norvège visé par le paragraphe 4 de l’article 31 de la Convention et de la date de l’abrogation de la Convention de 1966 visée par le paragraphe 5 de l’article 31 de la Convention.
+<sup><a href='#c-7-7_1'>[*]</a></sup>**7** Dans les 60 jours suivant l’entrée en vigueur de la Convention, le ministre des Finances fait publier dans la Gazette du Canada un avis de la date de l’abrogation de l’Accord entre le gouvernement du Canada et le gouvernement du Royaume de Norvège visé par le paragraphe 4 de l’article 31 de la Convention et de la date de l’abrogation de la Convention de 1966 visée par le paragraphe 5 de l’article 31 de la Convention.
+
+<a name='c-7-7_1'><sup>*</sup></a>: [Note : Avis donné le 22 janvier 2003, *voir* Gazette du Canada Partie I, volume 137, page 776.]<br />
 
 
 
