@@ -708,7 +708,10 @@ Le conseil des Tlingits de Teslin
 Les Tr’ondëk Hwëch’in, autrefois appelés première nation de Dawson
 
 
-> 1994, ch. 35, ann. II; DORS/97-451, 456; DORS/98-425; DORS/2002-134.
+La première nation de Kluane
+
+
+> 1994, ch. 35, ann. II; DORS/97-451, 456; DORS/98-425; DORS/2002-134; DORS/2004-9.
 
 
 
