@@ -1182,6 +1182,10 @@ where
 
 
 
+**80.1** [Amendment]
+
+
+
 
 #### Privacy Act
 
@@ -1191,10 +1195,11 @@ where
 
 
 
-#### Public Service Staff Relations Act
+**Public Service Staff Relations Act** 
+#### [Repealed, 2003, c. 22, s. 278]
 
 
-**82** [Amendment]
+**82** [Repealed, 2003, c. 22, s. 278]
 
 
 
