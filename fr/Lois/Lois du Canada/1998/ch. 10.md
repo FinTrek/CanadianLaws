@@ -2109,7 +2109,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** la Section de première instance de la Cour fédérale.
 
 ***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe 119(3) et la Cour d’appel fédérale.
-> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18.
+> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18; 2002, ch. 7, art. 105(A).
 
 
 
