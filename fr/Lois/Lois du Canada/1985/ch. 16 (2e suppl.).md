@@ -75,7 +75,9 @@
 
 **Demande au tribunal**
 
-**6** Une demande de reconnaissance et d’exécution d’une sentence arbitrale aux termes de la Convention peut être faite à la Cour fédérale ou à toute cour supérieure, de district ou de comté.
+**6** Une demande de reconnaissance et d'exécution d'une sentence arbitrale aux termes de la Convention peut être faite à toute cour supérieure, de district ou de comté.
+> L.R. (1985), ch. 16 (2<sup>e</sup> suppl.), art. 6; 2002, ch. 8, art. 178.
+
 
 
 
