@@ -65,7 +65,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***banque de données*** La banque de données où sont enregistrés les renseignements sous le régime de la présente loi. (*database*)
 
-***bureau d’inscription*** Lieu désigné à ce titre en vertu de l’alinéa 18(1)d) ou du paragraphe 19(1). (*registration centre*)
+***bureau d’inscription*** Lieu désigné à ce titre en vertu de l’alinéa 18(1) d) ou du paragraphe 19(1). (*registration centre*)
 
 ***délinquant sexuel*** Personne visée par une ou plusieurs ordonnances ou assujettie à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*sex offender*)
 
@@ -79,7 +79,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***préposé à la collecte*** Personne autorisée à recueillir les renseignements en vertu de l'alinéa 18(1)b) ou du paragraphe 19(1). (*person who collects information*)
 
-***préposé à l’enregistrement*** Personne autorisée à procéder à l’enregistrement des renseignements en vertu de l’alinéa 18(1)c) ou du paragraphe 19(1). (*person who registers information*)
+***préposé à l’enregistrement*** Personne autorisée à procéder à l’enregistrement des renseignements en vertu de l’alinéa 18(1) c) ou du paragraphe 19(1). (*person who registers information*)
 
 ***renseignements*** Y sont assimilées les caractéristiques consignées et les photographies prises au titre du paragraphe 5(3) et les empreintes digitales prises au titre du paragraphe 9(2). (*information*)
 
@@ -163,17 +163,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** 
 
 - **(1)** Lorsqu’il se présente au bureau d’inscription, le délinquant sexuel fournit les renseignements suivants au préposé à la collecte des renseignements :
-	- **a)** ses nom et prénom et tout nom d’emprunt qu’il utilise;
-	- **b)** sa date de naissance et son sexe;
-	- **c)** l’adresse de sa résidence principale et de toute résidence secondaire ou, à défaut d’une telle adresse, l’emplacement de l’une et l’autre;
-	- **d)** l’adresse de tout lieu où ses services ont été retenus à titre de salarié, d’agent contractuel ou de bénévole ou, s’il n’y a pas d’adresse, l’emplacement de ce lieu;
-	- **e)** l’adresse de tout établissement d’enseignement où il est inscrit ou, s’il n’y a pas d’adresse, l’emplacement de cet établissement;
-	- **f)** le numéro de téléphone permettant de le joindre dans les lieux visés aux alinéas c) et d) et celui de tous ses téléphones mobiles ou téléavertisseurs;
-	- **g)** sa taille, son poids et la description de ses marques physiques distinctives.
+	- **a)
+** ses nom et prénom et tout nom d’emprunt qu’il utilise;
+	- **b)
+** sa date de naissance et son sexe;
+	- **c)
+** l’adresse de sa résidence principale et de toute résidence secondaire ou, à défaut d’une telle adresse, l’emplacement de l’une et l’autre;
+	- **d)
+** l’adresse de tout lieu où ses services ont été retenus à titre de salarié, d’agent contractuel ou de bénévole ou, s’il n’y a pas d’adresse, l’emplacement de ce lieu;
+	- **e)
+** l’adresse de tout établissement d’enseignement où il est inscrit ou, s’il n’y a pas d’adresse, l’emplacement de cet établissement;
+	- **f)
+** le numéro de téléphone permettant de le joindre dans les lieux visés aux alinéas 
+c) et 
+d) et celui de tous ses téléphones mobiles ou téléavertisseurs;
+	- **g)
+** sa taille, son poids et la description de ses marques physiques distinctives.
 
 **Renseignements additionnels**
 
-- **(2)** Le préposé peut alors lui demander d’indiquer quand et où il a été déclaré coupable ou non responsable criminellement, pour cause de troubles mentaux, à l’égard de l’infraction à l’origine de toute ordonnance ou de l’infraction désignée, au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), s’agissant de l’obligation prévue à l’article 490.019 de cette loi.
+- **(2)** Le préposé peut alors lui demander d’indiquer quand et où il a été déclaré coupable ou non responsable criminellement, pour cause de troubles mentaux, à l’égard de l’infraction à l’origine de toute ordonnance ou de l’infraction désignée, au sens du paragraphe 490.011(1) du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), s’agissant de l’obligation prévue à l’article 490.019 de cette loi.
 
 **Autres renseignements**
 
@@ -213,33 +223,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Le préposé à l’enregistrement pour le compte du service de police qui reçoit la copie d’une ordonnance transmise au titre du sous-alinéa 490.018(1)d)(iii) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
-	- **a)** enregistre sans délai, dans la banque de données, le nom du service de police et les seuls renseignements suivants sur l’intéressé :
+- **(1)** Le préposé à l’enregistrement pour le compte du service de police qui reçoit la copie d’une ordonnance transmise au titre du sous-alinéa 490.018(1)
+d)(iii) du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+	- **a)
+** enregistre sans délai, dans la banque de données, le nom du service de police et les seuls renseignements suivants sur l’intéressé :
 		- **(i)** ses nom et prénom,
-		- **(ii)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md),
+		- **(ii)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la 
+[Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md),
 		- **(iii)** toute infraction visée par l’ordonnance,
 		- **(iv)** les lieu et date de la perpétration de chacune des infractions,
 		- **(v)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux pour chacune des infractions,
 		- **(vi)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé,
 		- **(vii)** la date et la durée de l’ordonnance,
 		- **(viii)** le tribunal qui l’a rendue;
-	- **b)** veille à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité.
+	- **b)
+** veille à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité.
 
 **Enregistrement de renseignements**
 
-- **(2)** Sur réception de l’affidavit et de l’avis transmis au titre du paragraphe 490.021(6) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le procureur général de la province ou le ministre de la Justice du territoire en cause :
-	- **a)** enregistre sans délai, dans la banque de données, les seuls renseignements suivants sur l’intéressé :
+- **(2)** Sur réception de l’affidavit et de l’avis transmis au titre du paragraphe 490.021(6) du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le procureur général de la province ou le ministre de la Justice du territoire en cause :
+	- **a)
+** enregistre sans délai, dans la banque de données, les seuls renseignements suivants sur l’intéressé :
 		- **(i)** ses nom et prénom,
-		- **(ii)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md),
+		- **(ii)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la 
+[Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md),
 		- **(iii)** la date de la signification de l’avis,
 		- **(iv)** toute infraction mentionnée dans l’avis,
 		- **(v)** les lieu et date de la perpétration de chacune des infractions,
 		- **(vi)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de chacune des infractions,
 		- **(vii)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé,
-		- **(viii)** la durée envisagée de l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
-		- **(ix)** s’agissant du délinquant visé à l’alinéa 490.02(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la date de sa plus récente comparution sous le régime de la loi ontarienne et la durée de l’obligation de se conformer à l’article 3 de cette loi;
-	- **b)** veille à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
-	- **c)** transmet sans frais et sans délai à l’intéressé par courrier recommandé une copie de la transcription de tous les renseignements le concernant qui sont enregistrés dans la banque de données.
+		- **(viii)** la durée envisagée de l’obligation prévue à l’article 490.019 du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(ix)** s’agissant du délinquant visé à l’alinéa 490.02(1)
+b) du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la date de sa plus récente comparution sous le régime de la loi ontarienne et la durée de l’obligation de se conformer à l’article 3 de cette loi;
+	- **b)
+** veille à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
+	- **c)
+** transmet sans frais et sans délai à l’intéressé par courrier recommandé une copie de la transcription de tous les renseignements le concernant qui sont enregistrés dans la banque de données.
 
 
 
@@ -277,10 +300,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Copie des renseignements**
 
 **11** Il incombe au préposé à la collecte au bureau d’inscription, sans frais pour l’intéressé :
-- **a)** de remettre à celui-ci, lorsqu’il se présente en personne au bureau et fournit des renseignements au titre de la présente loi, une copie des renseignements recueillis au titre de l’article 5, datée et signée par celui des préposés qui les a effectivement recueillis ou, après qu’il s’est présenté au bureau d’inscription conformément au règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1), de lui transmettre sans délai une telle copie, par la poste ou tout autre moyen convenu avec lui;
-- **b)** de lui transmettre sans délai, par la poste ou tout autre moyen convenu avec lui, une copie des renseignements recueillis au titre de l’article 6, datée et signée par celui des préposés qui les a effectivement recueillis;
-- **c)** de lui transmettre sans délai, par la poste ou tout autre moyen convenu avec lui, une copie de tous les renseignements le concernant contenus dans la banque de données, une fois que ceux visés à l’alinéa a)y ont été enregistrés;
-- **d)** de lui transmettre sans délai, à sa demande, par la poste ou tout autre moyen convenu avec lui, une copie de tous les renseignements le concernant contenus dans la banque de données, une fois que ceux visés à l’alinéa b) y ont été enregistrés.
+- **a)
+** de remettre à celui-ci, lorsqu’il se présente en personne au bureau et fournit des renseignements au titre de la présente loi, une copie des renseignements recueillis au titre de l’article 5, datée et signée par celui des préposés qui les a effectivement recueillis ou, après qu’il s’est présenté au bureau d’inscription conformément au règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1), de lui transmettre sans délai une telle copie, par la poste ou tout autre moyen convenu avec lui;
+- **b)
+** de lui transmettre sans délai, par la poste ou tout autre moyen convenu avec lui, une copie des renseignements recueillis au titre de l’article 6, datée et signée par celui des préposés qui les a effectivement recueillis;
+- **c)
+** de lui transmettre sans délai, par la poste ou tout autre moyen convenu avec lui, une copie de tous les renseignements le concernant contenus dans la banque de données, une fois que ceux visés à l’alinéa 
+a)y ont été enregistrés;
+- **d)
+** de lui transmettre sans délai, à sa demande, par la poste ou tout autre moyen convenu avec lui, une copie de tous les renseignements le concernant contenus dans la banque de données, une fois que ceux visés à l’alinéa 
+b) y ont été enregistrés.
 
 
 
@@ -514,6 +543,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#S-8.7_s25_F'>[*]</a></sup>**25** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='S-8.7_s25_F'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='S-8.7_s25_F'><sup>*</sup></a>: [Note : Loi en vigueur le 15 décembre 2004, *voir* TR/2004-157.]<br />
 
 
