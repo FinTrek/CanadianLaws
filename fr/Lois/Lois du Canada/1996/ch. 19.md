@@ -1978,6 +1978,10 @@ mais non compris :
 
 
 
+**(7.1)** (diméthyl-1,2 heptyl)-3 hydroxy-1 tétrahydro-7,8,9,10 triméthyl-6,6,9 6H-dibenzo[b,d]pyranne (DMHP)
+
+
+
 mais non compris :
 
 
@@ -1991,7 +1995,7 @@ mais non compris :
 
 
 
-> 1996, ch. 19, ann. II; DORS/98-157.
+> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1.
 
 
 
@@ -2080,6 +2084,14 @@ mais non compris :
 
 
 
+**(21)** N-hydroxy méthylènedioxy-3,4 amphétamine (N-[α-méthyl (méthylènedioxy)-3,4 phénéthyl]hydroxylamine)
+
+
+
+**(22)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
+
+
+
 
 **2** Méthylphénidate (ester méthylique de l’acide a–phénylpipéridine–2 acétique) et ses sels
 
@@ -2123,7 +2135,7 @@ mais non compris :
 **15** Phényl–1 N–propylcyclohexanamine et ses sels
 
 
-**16** (Phényl–1 cyclohexyl)–1 pyrrolidine et ses sels
+**16** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
 
 
 **17** Mescaline (triméthoxy–3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
@@ -2135,7 +2147,7 @@ mais non compris :
 **19** Cathinone (1–a–aminopropiophénone) et ses sels
 
 
-**20** Fénétylline (d,1–dihydro–3,7 diméthyl–1,3 [[(méthyl–1 phényl–2 éthyl)amino]–2 éthyl]–7 1H–purinedione–2,6) et ses sels
+**20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
 
 
 **21** Méthylamino–2 phényl–1 propanone–1 et ses sels
@@ -2156,562 +2168,181 @@ mais non compris :
 **26** Acide hydroxy–4 butanoïque et ses sels
 
 
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1.
+**27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
+
+
+**28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
+
+
+**29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine) et ses sels
+
+
+**30** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
+
+
+**31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
+
+
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2,  3, 4(F) et 5.
 
 
 
 
 ### **ANNEXE IV** 
 **(articles 2 à 4, 5 à 7, 29, 55 et 60)**
-**1** Barbituriques, ainsi que leurs sels et dérivés, notamment :
-
-**(1)** allobarbital (acide diallyl–5,5 barbiturique)
-
-
-
-**(2)** alphénal (acide allyl–5 phényl–5 barbiturique)
-
-
-
-**(3)** amobarbital (acide éthyl–5 (méthyl–3 butyl)–5 barbiturique)
-
-
-
-**(4)** aprobarbital (acide allyl–5 isopropyl–5 barbiturique)
-
-
-
-**(5)** barbital (acide diéthyl–5,5 barbiturique)
-
-
-
-**(6)** acide barbiturique ((1H,3H,5H)–pyrimidinetrione–2,4,6)
-
-
-
-**(7)** butabarbital (acide sec–butyl–5 éthyl–5 barbiturique)
-
-
-
-**(8)** butalbital (acide allyl–5 isobutyl–5 barbiturique)
-
-
-
-**(9)** butallylonal (acide (bromo–2 allyl)–5 sec–butyl–5 barbiturique)
-
-
-
-**(10)** butéthal (acide butyl–5 éthyl–5 barbiturique)
-
-
-
-**(11)** cyclobarbital (acide (cyclohexène–1 yl–1)–5 éthyl–5 barbiturique)
-
-
-
-**(12)** cyclopal (acide allyl–5 (cyclopentène–2 yl–1)–5 barbiturique)
-
-
-
-**(13)** heptabarbital (acide (cycloheptène–1 yl–1)–5 éthyl–5 barbiturique)
-
-
-
-**(14)** hexéthal (acide éthyl–5 hexyl–5 barbiturique)
-
-
-
-**(15)** hexobarbital (acide (cyclohexène–1 yl–1)–5 diméthyl–1,5 barbiturique)
-
-
-
-**(16)** méphobarbital (acide éthyl–5 méthyl–1 phényl–5 barbiturique)
-
-
-
-**(17)** méthabarbital (acide diéthyl–5,5 méthyl–1 barbiturique)
-
-
-
-**(18)** méthylphénobarbital (acide éthyl–5 méthyl–1 phényl–5 barbiturique)
-
-
-
-**(19)** propallylonal (acide (bromo–2 allyl)–5 isopropyl–5 barbiturique)
-
-
-
-**(20)** pentobarbital (acide éthyl–5 (méthyl–1 butyl)–5 barbiturique)
-
-
-
-**(21)** phénobarbital (acide éthyl–5 phényl–5 barbiturique)
-
-
-
-**(22)** probarbital (acide éthyl–5 isopropyl–5 barbiturique)
-
-
-
-**(23)** acide phénylméthylbarbiturique (acide méthyl–5 phényl–5 barbiturique)
-
-
-
-**(24)** sécobarbital (acide allyl–5 (méthyl–1 butyl)–5 barbiturique)
-
-
-
-**(25)** sigmodal (acide (bromo–2 allyl)–5 (méthyl–1 butyl)–5 barbiturique)
-
-
-
-**(26)** talbutal (acide allyl–5 sec–butyl–5 barbiturique)
-
-
-
-**(27)** vinbarbital (acide éthyl–5 (méthyl–1 butényl–1)–5 barbiturique)
-
-
-
-**(28)** vinylbital (acide (méthyl–1 butyl)–5 vinyl–5 barbiturique)
-
-
-
-
-**2** Thiobarbituriques, ainsi que leurs sels et dérivés, notamment :
-
-**(1)** thialbarbital (acide allyl–5 (cyclohexène–2 yl–1)–5 thio–2 barbiturique)
-
-
-
-**(2)** thiamylal (acide allyl–5 (méthyl–1 butyl)–5 thio–2 barbiturique)
-
-
-
-**(3)** acide thiobarbiturique (acide thio–2 barbiturique)
-
-
-
-**(4)** thiopental (acide éthyl–5 (méthyl–1 butyl)–5 thio–2 barbiturique)
-
-
-
-
-**3** Chlorphentermine ((p–chlorophényl)–1 méthyl–2 amino–2 propane) et ses sels
-
-
-**4** Diéthylpropion ((diéthylamino)–2 propiophenone) et ses sels
-
-
-**5** Phendimétrazine (d–diméthyl–3,4 phényl–2 morpholine) et ses sels
-
-
-**6** Phenmétrazine (méthyl–3 phényl–2 morpholine) et ses sels
-
-
-**7** Pipradol (a,a–diphényl (pipéridyl–2)–1 méthanol) et ses sels
-
-
-**8** Phentermine (a,a–diméthylbenzèneéthanamine) et ses sels
-
-
-**9** Butorphanol (1–N–cyclobutylméthyl dihydroxy–3,14 morphinane) et ses sels
-
-
-**10** Nalbuphine (N–cyclobutylméthyl époxy–4,5 morphinanetriol–3,6,14) et ses sels
-
-
-**11** Glutéthimide (éthyl–2 phényl–2 glutarimide)
-
-
-**12** Clotiazépam ((o–chlorophényl)–5 éthyl–7 dihydro–1,3 méthyl–1 2H–thiéno[2,3–e]diazépine–1,4 one–2) et ses sels
-
-
-**13** Éthchlorvynol (éthyl chlorovinyl–2 éthynyl carbinol)
-
-
-**14** Éthinamate (carbamate d’éthynyl–1 cyclohexyle)
-
-
-**15** Mazindol ((p–chlorophényl)–5 dihydro–2,5 3H–imidazo[2,1–a]isoindolol–5)
-
-
-**16** Méprobamate (dicarbamate de méthyl–2 propyl–2 propanediol–1,3)
-
-
-**17** Méthyprylone (diéthyl–3,3 méthyl–5 pipéridinedione–2,4)
-
-
-**18** Benzodiazépines, ainsi que leurs sels et dérivés, notamment :
-
-**(1)** alprazolam (chloro–8 méthyl–1 phényl–6 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
-
-
-
-**(2)** bromazépam (bromo–7 dihydro–1,3 (pyridyl–2)–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(2.1)** brotizolam (bromo-2 (o-chlorophényl)-4 méthyl-9 6H-thiéno[3,2-f]-s-triazolo[4,3-a]diazépine-1,4)
-
-
-
-**(3)** camazépam (diméthylcarbamate (ester) de chloro–7 dihydro–1,3 hydroxy–3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(4)** chlorodiazépoxide (chloro–7 méthylamino–2 phényl–5 3H–benzodiazépine–1,4 oxyde–4)
-
-
-
-**(5)** clobazam (chloro–7 méthyl–1 phényl–5 1H–benzodiazépine–1,5 (3H,5H) dione–2,4)
-
-
-
-**(6)** clonazépam ((o–chlorophényl)–5 dihydro–1,3 nitro–7 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(7)** clorazépate (acide chloro–7 dihydro–2,3 dihydroxy–2,2 phényl–5 1H–benzodiazépine–1,4 carboxylique–3)
-
-
-
-**(8)** cloxazolam (chloro–10 (o–chlorophényl)–11b tétrahydro–2,3,7,11b 5H–oxazolo [3,2–d]benzodiazépine–1,4 one–6)
-
-
-
-**(9)** délorazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(10)** diazépam (chloro–7 dihydro–1,3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(11)** estazolam (chloro–8 phényl–6 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
-
-
-
-**(12)** loflazépate d’éthyl (carboxylate–3 d’éthyl chloro–7 (o–fluorophényl)–5 dihydro–2,3 oxo–2 1H–benzodiazépine–1,4)
-
-
-
-**(13)** fludiazépam (chloro–7 (o–fluorophényl)–5 dihydro–1,3 méthyl–1 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(14)** [Abrogé, DORS/98-173, art. 2]
-
-
-
-**(15)** flurazépam (chloro–7 [(diéthylamino)–2 éthyl]–1 (o–fluorophényl)–5 dihydro–1,3 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(16)** halazépam (chloro–7 dihydro–1,3 phényl–5 (trifluoroéthyl–2,2,2)–1 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(17)** haloxazolam (bromo–10 (o–fluorophényl)–11b tétrahydro–2,3,7,11b oxazolo[3,2–d] (5H)–benzodiazépine–1,4 one–6)
-
-
-
-**(18)** kétazolam (chloro–11 dihydro–8,12b diméthyl–2,8 phényl–12b 4H–oxazino[1,3][3,2–d]benzodiazépine–1,4 (6H)–dione–4,7)
-
-
-
-**(19)** loprazolam ((o–chlorophényl)–6 dihydro–2,4 [(méthyl–4 pipérazinyl–1) méthylène]–2 nitro–8 1H–imidazo[1,2–a]benzodiazépine–1,4 one–1)
-
-
-
-**(20)** lorazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 hydroxy–3 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(21)** lormétazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 hydroxy–3 méthyl–1 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(22)** médazépam (chloro–7 dihydro–2,3 méthyl–1 phényl–5 1H–benzodiazépine–1,4)
-
-
-
-**(22.1)** midazolam (chloro-8 (o-fluorophényl)-6 méthyl-1 4H-imidazo[1,5-a]benzodiazépine-1,4)
-
-
-
-**(23)** nimétazépam (dihydro–1,3 méthyl–1 nitro–7 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(24)** nitrazépam (dihydro–1,3 nitro–7 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(25)** nordazépam (chloro–7 dihydro–1,3 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(26)** oxazépam (chloro–7 dihydro–1,3 hydroxy–3 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(27)** oxazolam (chloro–10 tétrahydro–2,3,7,11b méthyl–2 phényl–11b oxazolo[3,2–d] (5H)–benzodiazépine–1,4 one–6)
-
-
-
-**(28)** pinazépam (chloro–7 dihydro–1,3 phényl–5 (propynyl–2)–1 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(29)** prazépam (chloro–7 (cyclopropylméthyl)–1 dihydro–1,3 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(29.1)** quazépam (chloro-7 (o-fluorophényl)-5 dihydro-1,3(trifluoroéthyl-2,2,2)-1 2H-benzodiazépine-1,4 thione-2)
-
-
-
-**(30)** témazépam (chloro–7 dihydro–1,3 hydroxy–3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(31)** tétrazépam (chloro–7 (cyclohexène–1 yl)–5 dihydro–1,3 méthyl–1 2H–benzodiazépine–1,4 one–2)
-
-
-
-**(32)** triazolam (chloro–8 (o–chlorophényl)–6 méthyl–1 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
-
-
-
-mais non compris :
-
-
-
-**(32.1)** Clozapine (chloro-8 (méthyl-4 pipérazinyl-1)-11 5H-diabenzo[b,e]diazépine-1,4) ainsi que ses sels
-
-
-
-**(33)** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2), ainsi que ses sels et dérivés
-
-
-
-**(34)** olanzapine (méthyl-2 (méthyl-4 pipérazinyl-1)-4 10H-thieno[2,3-b]benzodiazépine-1,5) et ses sels
-
-
-
-
-**19** Catha edulis Forsk., ses préparations, dérivés, alcaloïdes et sels, notamment :
-
-**(1)** cathine (d–thréo–amino–2 hydroxy–1 phényl–1 propane)
-
-
-
-
-**20** Fencamfamine (d,l–N–éthyl phényl–3 bicyclo[2,2,1]heptanamine–2) et ses sels
-
-
-**21** Fenproporex (*d,l*–[(a–méthylphénéthyl)amino]–3 propionitrile) et ses sels
-
-
-**22** Méfénorex (d,l–N–(chloro–3 propyl) a–méthylbenzèneéthanamine) et ses sels
-
-
-**23** Stéroïdes anabolisants et leurs dérivés, notamment :
-
-**(1)** androisoxazole (hydroxy–17ß méthyl–17a androstano[3,2–c]isoxazole)
-
-
-
-**(2)** androstanolone (hydroxy–17ß 5a–androstanone–3)
-
-
-
-**(3)** androstènediol (androstène–5 diol–3ß,17ß)
-
-
-
-**(4)** bolandiol (estrène–4 diol–3ß,17ß)
-
-
-
-**(5)** bolastérone (hydroxy–17ß diméthyl–7a,17 androstène–4 one–3)
-
-
-
-**(6)** bolazine (hydroxy–17ß méthyl–2a 5a–androstanone–3 azine)
-
-
-
-**(7)** boldénone (hydroxy–17ß androstadiène–1,4 one–3)
-
-
-
-**(8)** bolénol (nor–19 17a–prégnène–5 ol–17)
-
-
-
-**(9)** calustérone (hydroxy–17ß diméthyl–7ß,17 androstène–4 one–3)
-
-
-
-**(10)** clostébol (chloro–4 hydroxy–17ß androstène–4 one–3)
-
-
-
-**(11)** drostanolone (hydroxy–17ß méthyl–2a 5a–androstanone–3)
-
-
-
-**(12)** énestébol (dihydroxy–4,17ß méthyl–17 androstadiène–1,4 one–3)
-
-
-
-**(13)** épitiostanol (épithio–2a,3a 5a–androstanol–17ß)
-
-
-
-**(14)** éthylestrénol (nor–19 17a–prégnène–4 ol–17)
-
-
-
-**(15)** hydroxy–4 nor–19 testostérone
-
-
-
-**(16)** fluoxymestérone (fluoro–9 dihydroxy–11ß,17ß méthyl–17 androstène–4 one–3)
-
-
-
-**(17)** formébolone (dihydroxy–11a,17ß méthyl–17 oxo–3 androstadiène–1,4 carboxaldéhyde–2)
-
-
-
-**(18)** furazabol (méthyl–17 5a–androstano[2,3–c]furazanol–17ß)
-
-
-
-**(19)** mébolazine (hydroxy–17ß diméthyl–2a,17 5a–androstanone–3 azine)
-
-
-
-**(20)** mésabolone ([(méthoxy–1 cyclohexyl) oxy]–17ß 5a–androstène–1 one–3)
-
-
-
-**(21)** mestérolone (hydroxy–17ß méthyl–1a 5a–androstanone–3)
-
-
-
-**(22)** métandiénone (hydroxy–17ß méthyl–17 androstadiène–1,4 one–3)
-
-
-
-**(23)** méténolone (hydroxy–17ß méthyl–1 5a–androstène–1 one–3)
-
-
-
-**(24)** méthandriol (méthyl–17a androstène–5 diol–3ß,17ß)
-
-
-
-**(25)** méthyltestostérone (hydroxy–17ß méthyl–17 androstène–4 one–3)
-
-
-
-**(26)** métribolone (hydroxy–17ß méthyl–17 estratriène–4, 9,11 one–3)
-
-
-
-**(27)** mibolérone (hydroxy–17ß diméthyl–7a,17 estrène–4 one–3)
-
-
-
-**(28)** nandrolone (hydroxy–17ß estrène–4 one–3)
-
-
-
-**(29)** norbolétone (éthyl–13 hydroxy–17ß dinor–18,19 prégnène–4 one–3)
-
-
-
-**(30)** norclostébol (chloro–4 hydroxy–17ß estrène–4 one–3)
-
-
-
-**(31)** noréthandrolone (éthyl–17a hydroxy–17ß estrène–4 one–3)
-
-
-
-**(32)** oxabolone (dihydroxy–4,17ß estrène–4 one–3)
-
-
-
-**(33)** oxandrolone (hydroxy–17ß méthyl–17 oxa–2 5a–androstanone–3)
-
-
-
-**(34)** oxymestérone (dihydroxy–4,17ß méthyl–17 androstène–4 one–3)
-
-
-
-**(35)** oxymétholone (hydroxy–17ß (hydroxyméthylène)–2 méthyl–17 5a–androstanone–3)
-
-
-
-**(36)** prastérone (hydroxy–3ß androstène–5 one–17)
-
-
-
-**(37)** quinbolone ((cyclopentènyl–1 oxy–1)–17ß androstadiène–1,4 one–3)
-
-
-
-**(38)** stanozolol (hydroxy–17ß méthyl–17 5a–androstano[3,2–c]pyrazole)
-
-
-
-**(39)** stenbolone (hydroxy–17ß méthyl–2 5a–androstène–1 one–3)
-
-
-
-**(40)** testostérone (hydroxy–17ß androstène–4 one–3)
-
-
-
-**(41)** tibolone (hydroxy–17 méthyl–7a nor–19 17a–prégnène–5(10) yne–20 one–3)
-
-
-
-**(42)** tiomestérone (bis(acétylthio)–1a,7a hydroxy–17ß méthyl–17 androstène–4 one–3)
-
-
-
-**(43)** trenbolone (hydroxy–17ß estratriène–4,9,11 one–3)
-
-
-
-
-**24** Zéranol (trihydroxy–7,14,16 méthyl–3 décahydro–3,4,5,6, 7,8,9,10,11,12 1H–benzoxa–2 cyclotétradécinone–1)
-
-
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2.
+- **1** Barbituriques, ainsi que leurs sels et dérivés, notamment :
+- **(1)** allobarbital (acide diallyl–5,5 barbiturique)
+- **(2)** alphénal (acide allyl–5 phényl–5 barbiturique)
+- **(3)** amobarbital (acide éthyl–5 (méthyl–3 butyl)–5 barbiturique)
+- **(4)** aprobarbital (acide allyl–5 isopropyl–5 barbiturique)
+- **(5)** barbital (acide diéthyl–5,5 barbiturique)
+- **(6)** acide barbiturique ((1H,3H,5H)–pyrimidinetrione–2,4,6)
+- **(7)** butabarbital (acide sec–butyl–5 éthyl–5 barbiturique)
+- **(8)** butalbital (acide allyl–5 isobutyl–5 barbiturique)
+- **(9)** butallylonal (acide (bromo–2 allyl)–5 sec–butyl–5 barbiturique)
+- **(10)** butéthal (acide butyl–5 éthyl–5 barbiturique)
+- **(11)** cyclobarbital (acide (cyclohexène–1 yl–1)–5 éthyl–5 barbiturique)
+- **(12)** cyclopal (acide allyl–5 (cyclopentène–2 yl–1)–5 barbiturique)
+- **(13)** heptabarbital (acide (cycloheptène–1 yl–1)–5 éthyl–5 barbiturique)
+- **(14)** hexéthal (acide éthyl–5 hexyl–5 barbiturique)
+- **(15)** hexobarbital (acide (cyclohexène–1 yl–1)–5 diméthyl–1,5 barbiturique)
+- **(16)** méphobarbital (acide éthyl–5 méthyl–1 phényl–5 barbiturique)
+- **(17)** méthabarbital (acide diéthyl–5,5 méthyl–1 barbiturique)
+- **(18)** méthylphénobarbital (acide éthyl–5 méthyl–1 phényl–5 barbiturique)
+- **(19)** propallylonal (acide (bromo–2 allyl)–5 isopropyl–5 barbiturique)
+- **(20)** pentobarbital (acide éthyl–5 (méthyl–1 butyl)–5 barbiturique)
+- **(21)** phénobarbital (acide éthyl–5 phényl–5 barbiturique)
+- **(22)** probarbital (acide éthyl–5 isopropyl–5 barbiturique)
+- **(23)** acide phénylméthylbarbiturique (acide méthyl–5 phényl–5 barbiturique)
+- **(24)** sécobarbital (acide allyl–5 (méthyl–1 butyl)–5 barbiturique)
+- **(25)** sigmodal (acide (bromo–2 allyl)–5 (méthyl–1 butyl)–5 barbiturique)
+- **(26)** talbutal (acide allyl–5 sec–butyl–5 barbiturique)
+- **(27)** vinbarbital (acide éthyl–5 (méthyl–1 butényl–1)–5 barbiturique)
+- **(28)** vinylbital (acide (méthyl–1 butyl)–5 vinyl–5 barbiturique)
+- **2** Thiobarbituriques, ainsi que leurs sels et dérivés, notamment :
+- **(1)** thialbarbital (acide allyl–5 (cyclohexène–2 yl–1)–5 thio–2 barbiturique)
+- **(2)** thiamylal (acide allyl–5 (méthyl–1 butyl)–5 thio–2 barbiturique)
+- **(3)** acide thiobarbiturique (acide thio–2 barbiturique)
+- **(4)** thiopental (acide éthyl–5 (méthyl–1 butyl)–5 thio–2 barbiturique)
+- **3** Chlorphentermine ((p–chlorophényl)–1 méthyl–2 amino–2 propane) et ses sels
+- **4** Diéthylpropion ((diéthylamino)–2 propiophenone) et ses sels
+- **5** Phendimétrazine (d–diméthyl–3,4 phényl–2 morpholine) et ses sels
+- **6** Phenmétrazine (méthyl–3 phényl–2 morpholine) et ses sels
+- **7** Pipradol (α,α–diphényl (pipéridyl–2)–1 méthanol) et ses sels
+- **8** Phentermine (α,α–diméthylbenzèneéthanamine) et ses sels
+- **9** Butorphanol (1–N–cyclobutylméthyl dihydroxy–3,14 morphinane) et ses sels
+- **10** Nalbuphine (N–cyclobutylméthyl époxy–4,5 morphinanetriol–3,6,14) et ses sels
+- **11** Glutéthimide (éthyl–2 phényl–2 glutarimide)
+- **12** Clotiazépam ((o–chlorophényl)–5 éthyl–7 dihydro–1,3 méthyl–1 2H–thiéno[2,3–e]diazépine–1,4 one–2) et ses sels
+- **13** Éthchlorvynol (éthyl chlorovinyl–2 éthynyl carbinol)
+- **14** Éthinamate (carbamate d’éthynyl–1 cyclohexyle)
+- **15** Mazindol ((p–chlorophényl)–5 dihydro–2,5 3H–imidazo[2,1–a]isoindolol–5)
+- **16** Méprobamate (dicarbamate de méthyl–2 propyl–2 propanediol–1,3)
+- **17** Méthyprylone (diéthyl–3,3 méthyl–5 pipéridinedione–2,4)
+- **18** Benzodiazépines, ainsi que leurs sels et dérivés, notamment :
+- **(1)** alprazolam (chloro–8 méthyl–1 phényl–6 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
+- **(2)** bromazépam (bromo–7 dihydro–1,3 (pyridyl–2)–5 2H–benzodiazépine–1,4 one–2)
+- **(2.1)** brotizolam (bromo-2 (o-chlorophényl)-4 méthyl-9 6H-thiéno[3,2-f]-s-triazolo[4,3-a]diazépine-1,4)
+- **(3)** camazépam (diméthylcarbamate (ester) de chloro–7 dihydro–1,3 hydroxy–3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(4)** chlorodiazépoxide (chloro–7 méthylamino–2 phényl–5 3H–benzodiazépine–1,4 oxyde–4)
+- **(5)** clobazam (chloro–7 méthyl–1 phényl–5 1H–benzodiazépine–1,5 (3H,5H) dione–2,4)
+- **(6)** clonazépam ((o–chlorophényl)–5 dihydro–1,3 nitro–7 2H–benzodiazépine–1,4 one–2)
+- **(7)** clorazépate (acide chloro–7 dihydro–2,3 dihydroxy–2,2 phényl–5 1H–benzodiazépine–1,4 carboxylique–3)
+- **(8)** cloxazolam (chloro–10 (o–chlorophényl)–11b tétrahydro–2,3,7,11b 5H–oxazolo [3,2–d]benzodiazépine–1,4 one–6)
+- **(9)** délorazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 2H–benzodiazépine–1,4 one–2)
+- **(10)** diazépam (chloro–7 dihydro–1,3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(11)** estazolam (chloro–8 phényl–6 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
+- **(12)** loflazépate d’éthyl (carboxylate–3 d’éthyl chloro–7 (o–fluorophényl)–5 dihydro–2,3 oxo–2 1H–benzodiazépine–1,4)
+- **(13)** fludiazépam (chloro–7 (o–fluorophényl)–5 dihydro–1,3 méthyl–1 2H–benzodiazépine–1,4 one–2)
+- **(14)** [Abrogé, DORS/98-173, art. 2]
+- **(15)** flurazépam (chloro–7 [(diéthylamino)–2 éthyl]–1 (o–fluorophényl)–5 dihydro–1,3 2H–benzodiazépine–1,4 one–2)
+- **(16)** halazépam (chloro–7 dihydro–1,3 phényl–5 (trifluoroéthyl–2,2,2)–1 2H–benzodiazépine–1,4 one–2)
+- **(17)** haloxazolam (bromo–10 (o–fluorophényl)–11b tétrahydro–2,3,7,11b oxazolo[3,2–d] (5H)–benzodiazépine–1,4 one–6)
+- **(18)** kétazolam (chloro–11 dihydro–8,12b diméthyl–2,8 phényl–12b 4H–oxazino[1,3][3,2–d]benzodiazépine–1,4 (6H)–dione–4,7)
+- **(19)** loprazolam ((o–chlorophényl)–6 dihydro–2,4 [(méthyl–4 pipérazinyl–1) méthylène]–2 nitro–8 1H–imidazo[1,2–a]benzodiazépine–1,4 one–1)
+- **(20)** lorazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 hydroxy–3 2H–benzodiazépine–1,4 one–2)
+- **(21)** lormétazépam (chloro–7 (o–chlorophényl)–5 dihydro–1,3 hydroxy–3 méthyl–1 2H–benzodiazépine–1,4 one–2)
+- **(22)** médazépam (chloro–7 dihydro–2,3 méthyl–1 phényl–5 1H–benzodiazépine–1,4)
+- **(22.1)** midazolam (chloro-8 (o-fluorophényl)-6 méthyl-1 4H-imidazo[1,5-a]benzodiazépine-1,4)
+- **(23)** nimétazépam (dihydro–1,3 méthyl–1 nitro–7 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(24)** nitrazépam (dihydro–1,3 nitro–7 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(25)** nordazépam (chloro–7 dihydro–1,3 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(26)** oxazépam (chloro–7 dihydro–1,3 hydroxy–3 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(27)** oxazolam (chloro–10 tétrahydro–2,3,7,11b méthyl–2 phényl–11b oxazolo[3,2–d] (5H)–benzodiazépine–1,4 one–6)
+- **(28)** pinazépam (chloro–7 dihydro–1,3 phényl–5 (propynyl–2)–1 2H–benzodiazépine–1,4 one–2)
+- **(29)** prazépam (chloro–7 (cyclopropylméthyl)–1 dihydro–1,3 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(29.1)** quazépam (chloro-7 (o-fluorophényl)-5 dihydro-1,3(trifluoroéthyl-2,2,2)-1 2H-benzodiazépine-1,4 thione-2)
+- **(30)** témazépam (chloro–7 dihydro–1,3 hydroxy–3 méthyl–1 phényl–5 2H–benzodiazépine–1,4 one–2)
+- **(31)** tétrazépam (chloro–7 (cyclohexène–1 yl)–5 dihydro–1,3 méthyl–1 2H–benzodiazépine–1,4 one–2)
+- **(32)** triazolam (chloro–8 (o–chlorophényl)–6 méthyl–1 4H–s–triazolo[4,3–a]benzodiazépine–1,4)
+- mais non compris :
+- **(32.1)** Clozapine (chloro-8 (méthyl-4 pipérazinyl-1)-11 5H-diabenzo[b,e]diazépine-1,4) ainsi que ses sels
+- **(33)** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2), ainsi que ses sels et dérivés
+- **(34)** olanzapine (méthyl-2 (méthyl-4 pipérazinyl-1)-4 10H-thieno[2,3-b]benzodiazépine-1,5) et ses sels
+- **19** Catha edulis Forsk., ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **(1)** cathine (d–thréo–amino–2 hydroxy–1 phényl–1 propane)
+- **20** Fencamfamine (*d,l*–N–éthyl phényl–3 bicyclo[2,2,1]heptanamine–2) et ses sels
+- **21** Fenproporex (d,l–[(α–méthylphénéthyl)amino]–3 propionitrile) et ses sels
+- **22** Méfénorex (d,l–N–(chloro–3 propyl) α–méthylbenzèneéthanamine) et ses sels
+- **23** Stéroïdes anabolisants et leurs dérivés, notamment :
+- **(1)** androisoxazole (hydroxy–17ß méthyl–17α androstano[3,2–c]isoxazole)
+- **(2)** androstanolone (hydroxy–17ß 5α–androstanone–3)
+- **(3)** androstènediol (androstène–5 diol–3ß,17ß)
+- **(4)** bolandiol (estrène–4 diol–3ß,17ß)
+- **(5)** bolastérone (hydroxy–17ß diméthyl–7α,17 androstène–4 one–3)
+- **(6)** bolazine (hydroxy–17ß méthyl–2α 5α–androstanone–3 azine)
+- **(7)** boldénone (hydroxy–17ß androstadiène–1,4 one–3)
+- **(8)** bolénol (nor–19 17α–prégnène–5 ol–17)
+- **(9)** calustérone (hydroxy–17ß diméthyl–7ß,17 androstène–4 one–3)
+- **(10)** clostébol (chloro–4 hydroxy–17ß androstène–4 one–3)
+- **(11)** drostanolone (hydroxy–17ß méthyl–2α 5α–androstanone–3)
+- **(12)** énestébol (dihydroxy–4,17ß méthyl–17 androstadiène–1,4 one–3)
+- **(13)** épitiostanol (épithio–2α,3α 5α–androstanol–17ß)
+- **(14)** éthylestrénol (nor–19 17α–prégnène–4 ol–17)
+- **(15)** hydroxy–4 nor–19 testostérone
+- **(16)** fluoxymestérone (fluoro–9 dihydroxy–11ß,17ß méthyl–17 androstène–4 one–3)
+- **(17)** formébolone (dihydroxy–11α,17ß méthyl–17 oxo–3 androstadiène–1,4 carboxaldéhyde–2)
+- **(18)** furazabol (méthyl–17 5α–androstano[2,3–c]furazanol–17ß)
+- **(19)** mébolazine (hydroxy–17ß diméthyl–2α,17 5α–androstanone–3 azine)
+- **(20)** mésabolone ([(méthoxy–1 cyclohexyl) oxy]–17ß 5α–androstène–1 one–3)
+- **(21)** mestérolone (hydroxy–17ß méthyl–1α 5α–androstanone–3)
+- **(22)** métandiénone (hydroxy–17ß méthyl–17 androstadiène–1,4 one–3)
+- **(23)** méténolone (hydroxy–17ß méthyl–1 5α–androstène–1 one–3)
+- **(24)** méthandriol (méthyl–17α androstène–5 diol–3ß,17ß)
+- **(25)** méthyltestostérone (hydroxy–17ß méthyl–17 androstène–4 one–3)
+- **(26)** métribolone (hydroxy–17ß méthyl–17 estratriène–4, 9,11 one–3)
+- **(27)** mibolérone (hydroxy–17ß diméthyl–7α,17 estrène–4 one–3)
+- **(28)** nandrolone (hydroxy–17ß estrène–4 one–3)
+- **(29)** norbolétone (éthyl–13 hydroxy–17ß dinor–18,19 prégnène–4 one–3)
+- **(30)** norclostébol (chloro–4 hydroxy–17ß estrène–4 one–3)
+- **(31)** noréthandrolone (éthyl–17α hydroxy–17ß estrène–4 one–3)
+- **(32)** oxabolone (dihydroxy–4,17ß estrène–4 one–3)
+- **(33)** oxandrolone (hydroxy–17ß méthyl–17 oxa–2 5α–androstanone–3)
+- **(34)** oxymestérone (dihydroxy–4,17ß méthyl–17 androstène–4 one–3)
+- **(35)** oxymétholone (hydroxy–17ß (hydroxyméthylène)–2 méthyl–17 5α–androstanone–3)
+- **(36)** prastérone (hydroxy–3ß androstène–5 one–17)
+- **(37)** quinbolone ((cyclopentènyl–1 oxy–1)–17ß androstadiène–1,4 one–3)
+- **(38)** stanozolol (hydroxy–17ß méthyl–17 5α–androstano[3,2–c]pyrazole)
+- **(39)** stenbolone (hydroxy–17ß méthyl–2 5α–androstène–1 one–3)
+- **(40)** testostérone (hydroxy–17ß androstène–4 one–3)
+- **(41)** tibolone (hydroxy–17 méthyl–7α nor–19 17α–prégnène–5(10) yne–20 one–3)
+- **(42)** tiomestérone (bis(acétylthio)–1α,7α hydroxy–17ß méthyl–17 androstène–4 one–3)
+- **(43)** trenbolone (hydroxy–17ß estratriène–4,9,11 one–3)
+- **24** Zéranol (trihydroxy–7,14,16 méthyl–3 décahydro–3,4,5,6, 7,8,9,10,11,12 1H–benzoxa–2 cyclotétradécinone–1)
+- **25** Zolpidem (N,N-diméthyl [méthyl-6 (méthyl-4 phényl)-2 imidazo[1,2-a]pyridinyl-3]-2 acétamide) et ses sels
+- **25.1** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
+- **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37.
 
 
 
 
 ### **ANNEXE V** 
 **(articles 2, 4, 6, 55 et 60)**
-**1** [Abrogé, DORS/2002-361, art. 1]
-
-
-**2** Propylhexédrine (d,l–cyclohexyl–1 méthylamino–2 propane) et ses sels
-
-
-**3** Pyrovalérone (d,l–(méthyl–4 phényl)–1 (pyrrolidinyl–1)–2 pentanone–1) et ses sels
-
-
-> 1996, ch. 19, ann. V; DORS/2002-361, art. 1.
+- **1** [Abrogé, DORS/2002-361, art. 1]
+- **2** Propylhexédrine (d,l–cyclohexyl–1 méthylamino–2 propane) et ses sels
+- **3** [Abrogé, DORS/2003-32, art. 7]
+> 1996, ch. 19, ann. V; DORS/2002-361, art. 1; DORS/2003-32, art. 7.
 
 
 
