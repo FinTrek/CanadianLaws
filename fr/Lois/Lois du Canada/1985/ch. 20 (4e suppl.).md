@@ -156,7 +156,7 @@
 **Conflits d’intérêts**
 
 - **(2)** Les membres ne peuvent accepter ni occuper de charge ou d’emploi incompatibles avec leurs fonctions, ni se saisir d’une affaire dans laquelle ils ont un intérêt.
-> 1995, ch. 40, art. 29.
+> 1995, ch. 40, art. 29; 2003, ch. 22, art. 224(A).
 
 
 
@@ -216,7 +216,7 @@
 **Personnel et installations**
 
 - **(4)** Le ministre peut mettre à la disposition du Conseil et de la Commission les cadres et agents de l’administration publique fédérale, les conseillers techniques et professionnels, ainsi que les installations et fournitures nécessaires à leur bon fonctionnement.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 6; 1995, ch. 40, art. 30.
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 6; 1995, ch. 40, art. 30; 2003, ch. 22, art. 224(A).
 
 
 
@@ -225,7 +225,7 @@
 **Indemnités — Conseil**
 
 **7** Les membres du Conseil, à l’exclusion de ceux qui font partie de l’administration publique fédérale, reçoivent les indemnités fixées par le Conseil du Trésor pour les journées ou fractions de journée pendant lesquelles ils exercent leurs fonctions; cependant, tous ont droit aux frais de déplacement et autres entraînés par l’accomplissement de leurs fonctions.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 7; 1995, ch. 40, art. 31.
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 7; 1995, ch. 40, art. 31; 2003, ch. 22, art. 224(A).
 
 
 
