@@ -1,12 +1,12 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4e%20suppl.).md)
 
-# Loi sur l’Agence de promotion économique du Canada atlantique
+# Loi sur la Société d’expansion du Cap-Breton
 
 **L.C. 1985, ch. 41 (4e suppl.)**
 
 
 ```
-[Édictée en tant que partie I de L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), en vigueur le 15 septembre 1988, voir TR/88-152.]
+[Édictée en tant que partie II de L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), en vigueur le 1<sup>er</sup> décembre 1988, voir TR/88-140.]
 ```
 ----------
 
@@ -18,7 +18,7 @@
 
 **Titre abrégé**
 
-**2** Titre abrégé de la présente partie : Loi sur l’Agence de promotion économique du Canada atlantique.
+**25** Titre abrégé de la présente partie : Loi sur la Société d’expansion du Cap-Breton.
 
 
 
@@ -29,193 +29,188 @@
 
 **Définitions**
 
-**3** Les définitions qui suivent s’appliquent à la présente partie.
+**26** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Agence*** L’Agence de promotion économique du Canada atlantique, constituée par l’article 10. (*Agency*)
+***conseil*** Le conseil d’administration de la Société.
 
-***Canada atlantique*** La Nouvelle-Écosse, le Nouveau-Brunswick, l’Île-du-Prince-Édouard et Terre-Neuve-et-Labrador. (*Atlantic Canada*)
+***île du Cap-Breton*** L’île du Cap-Breton et la partie de la province de la Nouvelle-Écosse délimitée comme suit :
 
-***conseil***[Abrogée, 2014, ch. 20, art. 175]
+à partir du point situé sur la côte sud-ouest de la baie Chedabucto près de Red Head qui se trouve à S70 degrés E (ligne d’abscisse constante de la Nouvelle-Écosse) de la station géodésique Sand, vers le sud-ouest, jusqu’au point, situé sur la limite nord-ouest de la route 344, qui se trouve à 240 pieds sud-ouest de l’intersection de King Brook et de cette limite, de là, vers le nord-ouest, jusqu’au repère de la Couronne 6678, puis jusqu’au repère de la Couronne 6679, puis jusqu’au repère de la Couronne 6680, puis jusqu’au repère de la Couronne 6681, puis jusqu’au repère de la Couronne 6632, puis jusqu’au repère de la Couronne 6602; de là, vers le nord, jusqu’au repère de la Couronne 8575, puis jusqu’au repère de la Couronne 6599, puis jusqu’au repère de la Couronne 6600; de là, vers le nord-ouest, jusqu’à l’angle des limites sud et ouest de la ville de Mulgrave, puis le long de la limite ouest de cette ville, se prolongeant vers le nord jusqu’à la limite du comté d’Antigonish-Guysborough; de là, le long de cette limite de comté, vers le nord-est, jusqu’à la côte sud-ouest du détroit de Canso; de là, le long de la côte sud-ouest du détroit de Canso et de la côte nord-ouest de la baie Chedabucto, vers le sud-est, jusqu’au point de départ.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, par commission sous le grand sceau, de l’application de la présente partie. (*Minister*)
 
-***président*** Le président de l’Agence, nommé aux termes du paragraphe 11(1). (*President*)
 
-***zone désignée*** Zone du Canada atlantique désignée par arrêté du ministre aux termes de l’article 7. (*designated area*)
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 3; 2014, ch. 20, art. 175; 2015, ch. 3, art. 172.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la [Loi sur l’Agence de promotion économique du Canada atlantique](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md).
 
+***président*** Le président de l’Agence de promotion économique du Canada atlantique nommé en vertu du paragraphe 11(1) de la [Loi sur l’Agence de promotion économique du Canada atlantique](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md).
 
+***Société*** La Société d’expansion du Cap-Breton.
 
+***vice-président*** Le vice-président de la Société nommé en vertu du paragraphe 28(1).
 
 
-## Objet
 
 
+## Constitution de la Société
 
-**Objet**
 
-**4** La présente partie a pour objet de favoriser les possibilités de développement économique du Canada atlantique et, plus particulièrement, la croissance des revenus et les créations d’emplois dans cette région.
 
+**Composition**
 
+**27** Est constituée la Société d’expansion du Cap-Breton, dotée de la personnalité morale et formée d’un conseil d’administration de sept membres, dont le président de l’Agence de promotion économique du Canada atlantique et le vice-président, nommés conformément au paragraphe 28(2).
 
 
-## Pouvoirs et fonctions du ministre
 
 
+**Vice-président**
 
-**Attributions**
+**28** 
 
-**5** 
+- **(1)** Le gouverneur en conseil nomme à titre amovible le vice-président pour le mandat qu’il estime indiqué.
 
-- **(1)** Pour l’application de la présente partie, le ministre peut, dans les domaines de compétence du Parlement liés à la promotion et au développement économiques du Canada atlantique, exercer les pouvoirs et fonctions non attribués de droit à un autre membre du Conseil privé de la Reine pour le Canada ni à un autre ministère ou organisme fédéral.
+**Autres administrateurs**
 
-**Coordination**
+- **(2)** Le ministre, avec l’approbation du gouverneur en conseil, nomme à titre amovible chacun des autres administrateurs pour un mandat maximal de trois ans; les nominations sont faites, dans la mesure du possible, de façon que, chaque année, la moitié au plus des mandats arrive à expiration. Il peut les révoquer en cours de mandat avec l’approbation du gouverneur en conseil.
 
-- **(2)** Le ministre coordonne la politique et les programmes du gouvernement fédéral pour ce qui est des possibilités de développement économique du Canada atlantique.
+**Reconduction**
 
-**Comités consultatifs**
+- **(3)** Le mandat du vice-président peut être reconduit. Par contre, malgré le paragraphe 105(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et sauf s’il s’agit d’occuper le poste de président ou vice-président, les autres administrateurs ne peuvent, après une première reconduction, être nommés de nouveau qu’après douze mois suivant la fin de leur second mandat.
 
-- **(3)** Le ministre peut constituer des comités consultatifs et prévoir leur composition, leurs attributions et leur activité.
+**Vacance**
 
-**Frais**
+- **(4)** Une vacance au sein du conseil n’entrave pas le fonctionnement de la Société, mais le poste vacant doit être rempli dès que possible conformément au présent article.
 
-- **(4)** Sous réserve de l’approbation du gouverneur en conseil, le ministre peut prévoir le paiement des frais de déplacement et de séjour entraînés par l’exercice des fonctions des membres des comités consultatifs constitués en application du paragraphe (3).
 
 
 
+**Présidence des réunions**
 
-**Responsabilité**
+**29** Le président — ou, en cas d’absence ou d’empêchement de celui-ci ou de vacance de son poste, le vice-président — préside les réunions du conseil.
 
-**6** 
 
-- **(1)** Le ministre est responsable de l’Agence.
 
-**Accords**
 
-- **(2)** Le ministre peut conclure, avec un ou plusieurs gouvernements provinciaux du Canada atlantique, des accords relatifs à l’exécution des programmes ou opérations de l’Agence.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 6; 2002, ch. 17, art. 2.
+**Fonctions du président**
 
+**30** 
 
+- **(1)** Le président est le premier dirigeant de la Société; à ce titre et au nom du conseil, il assure la direction de la Société. Il est investi à cet effet des pouvoirs qui ne sont pas expressément réservés au conseil par la présente partie ou les règlements administratifs de la Société.
 
+**Fonctions du vice-président**
 
+- **(2)** Le vice-président est le directeur général de la Société; à ce titre et au nom du président, il assure la direction quotidienne des activités de la Société. Il est investi à cet effet des pouvoirs qui ne sont pas expressément réservés au conseil ou au président par la présente partie ou les règlements administratifs de la Société.
 
-**Constitution de zones désignées**
+**Absence ou empêchement du vice-président**
 
-**7** Le ministre peut par arrêté, pour une période déterminée, constituer en zone désignée toute région du Canada atlantique s’il estime qu’en raison de circonstances particulières il y a des possibilités d’y améliorer la situation en matière d’emploi productif local.
+- **(3)** En cas d’absence ou d’empêchement du vice-président ou de vacance de son poste, le conseil autorise un autre dirigeant ou administrateur de la Société à exercer la vice-présidence. La durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à soixante jours.
 
 
 
 
-**Instruments financiers**
+**Traitement et rétribution**
 
-**8** Sous réserve d’éventuels règlements, le ministre peut acquérir, exercer, céder ou vendre des options d’achat d’actions, ou acquérir, céder ou vendre des titres au porteur, des actions ou tout autre instrument financier de même nature, obtenus à titre de condition des prêts, aides, garanties, assurances-prêts ou assurances-crédit visés à l’article 13 ou dans le cadre du recouvrement ou de l’exécution de l’obligation d’un débiteur envers l’Agence.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 8; 2001, ch. 34, art. 5.
+**31** 
 
+- **(1)** Le vice-président reçoit de la Société le traitement que fixe le gouverneur en conseil. Les autres administrateurs, à l’exception du président, reçoivent de la Société, pour leur présence aux réunions du conseil ou de tout comité de celui-ci, la rétribution fixée par le gouverneur en conseil.
 
+**Indemnités**
 
+- **(2)** Les administrateurs, à l’exception du président, sont indemnisés, conformément aux règlements administratifs de la Société, des frais de déplacement et de séjour engagés pour l’accomplissement de leurs fonctions.
 
 
-**Aide aux programmes ou opérations régis par d’autres lois**
 
-**9** 
 
-- **(1)** Le ministre peut même inconditionnellement, s’il est convaincu que la réalisation de programmes ou d’opérations autorisés par une autre loi est conforme à la finalité de la présente partie, s’engager à majorer, sur les fonds affectés à l’application de celle-ci, les montants que le ministre responsable de ces programmes ou opérations s’est engagé à leur consacrer.
+**Personnel**
 
-**Conséquence de l’aide**
+**32** 
 
-- **(2)** Sous réserve des éventuelles conditions attachées à l’engagement de majoration ainsi que de l’approbation du Parlement, le ministre responsable des programmes ou opérations en cause peut utiliser les fonds ainsi dégagés selon les mêmes modalités que s’il s’agissait des montants qu’il s’est engagé à leur consacrer.
+- **(1)** La Société peut employer le personnel — technique ou autre — qu’elle estime nécessaire à son fonctionnement.
 
-**Rapport annuel**
+**Rémunération et conditions d’emploi**
 
-- **(3)** Chaque rapport établi en application du paragraphe 21(3) comporte toutes précisions utiles touchant les majorations octroyées, pendant l’exercice sur lequel il porte, au titre du présent article.
+- **(2)** La rémunération du personnel visé au paragraphe (1) est fixée par le conseil et versée par la Société. Leurs autres conditions d’emploi sont fixées par règlement administratif de la Société.
 
 
 
 
-## Agence de promotion économique du Canada atlantique
-
-
-
-**Constitution**
-
-**10** Est constitué un organisme fédéral appelé l’Agence de promotion économique du Canada atlantique.
-
-
-
-
-**Nomination du président**
-
-**11** 
-
-- **(1)** Le gouverneur en conseil nomme le président de l’Agence à titre amovible, qui agit en qualité de délégué du ministre.
-
-**Attributions**
-
-- **(2)** Le président est le premier dirigeant de l’Agence; à ce titre et sous l’autorité du ministre, il en assure la direction et contrôle la gestion de son personnel.
-
-**Intérim**
-
-- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le ministre désigne un intérimaire; cependant, l’intérim ne peut dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
-
-**Rémunération**
-
-- **(4)** Le président reçoit la rémunération fixée par le gouverneur en conseil.
-
-
-
-
-## Mission
+## Mission et pouvoirs
 
 
 
 **Mission**
 
-**12** L’Agence a pour mission de favoriser les possibilités de développement économique du Canada atlantique par des mesures — élaboration et mise en oeuvre d’orientations, de programmes et d’opérations — particulières, notamment en faveur des petites et moyennes entreprises, et par la défense des intérêts du Canada atlantique lors de la prise de mesures de ce genre dans le cadre de la politique économique nationale.
+**33** La Société a pour mission d’encourager et d’aider, de concert éventuellement avec le gouvernement du Canada ou de la Nouvelle-Écosse, leurs organismes ou toute autre personne publique ou privée, le financement et le développement de l’industrie dans l’île du Cap-Breton en vue de créer des emplois en dehors du secteur de l’industrie houillère et de diversifier l’économie de l’île.
 
 
 
 
 **Pouvoirs**
 
-**13** L’Agence peut, dans le cadre de sa mission :
-- **a)** de concert avec les autres ministères ou organismes fédéraux, élaborer des projets et des méthodes fédérales unifiées en vue de favoriser les possibilités de développement économique du Canada atlantique;
-- **b)** concevoir, réaliser, diriger et gérer des programmes ou opérations destinés à contribuer, même indirectement :
-	- **(i)** à la création, au développement, au soutien et à la promotion d’entreprises, et plus particulièrement de petites et moyennes entreprises, au Canada atlantique,
-	- **(ii)** à la valorisation de l’esprit d’entreprise dans la région,
-	- **(iii)** à la prospérité économique de la région;
-- **c)** concevoir, réaliser, diriger et gérer des programmes ou opérations visant à améliorer le contexte commercial du Canada atlantique, notamment en ce qui concerne :
-	- **(i)** dans le domaine des affaires, les aides aux associations, conférences, recherches, consultations, expositions et projets de démonstration ainsi qu’aux études de marché,
-	- **(ii)** la création de fichiers et de réseaux informatisés sur les perspectives commerciales,
-	- **(iii)** l’amélioration de l’information et de la coopération commerciales,
-	- **(iv)** l’avancement du savoir dans le domaine des affaires et des investissements;
-- **d)** aider les investisseurs à implanter des entreprises, et plus particulièrement des petites et moyennes entreprises, au Canada atlantique, compte tenu des besoins de cette région et des exigences fédérales en matière d’investissements;
-- **e)** accorder des prêts pour la création et le développement des entreprises, et plus particulièrement des petites et moyennes entreprises, au Canada atlantique;
-- **f)** garantir le remboursement de tout engagement financier contracté par quiconque aux fins visées à l’alinéa e), ou souscrire des assurances-prêts ou assurances-crédit à cet égard;
-- **g)** contribuer, par des subventions ou autres aides, au financement de programmes ou opérations entrepris par elle-même ou le ministre, conformément aux modalités approuvées par le Conseil du Trésor;
-- **h)** conclure des contrats, ententes ou autres arrangements sous le nom de Sa Majesté du chef du Canada ou le sien;
-- **h.1)** acquérir les éléments d’actif et assumer les obligations de la Société d’expansion du Cap-Breton ou de l’une de ses filiales;
-- **h.2)** dans le cas où elle acquiert de la Société d’expansion du Cap-Breton ou de l’une de ses filiales une sûreté qui était détenue par cette société ou filiale concernant un prêt, un investissement ou un accord que cette société ou filiale a obtenu :
-	- **(i)** détenir toute sûreté,
-	- **(ii)** renoncer à toute sûreté,
-	- **(iii)** réaliser toute sûreté,
-	- **(iv)** échanger, céder ou vendre toute sûreté ou en disposer autrement;
-- **h.3)** détenir, exercer ou remettre des options d’achat d’actions, des actions ou tout autre instrument financier de même nature qu’elle a acquis de la Société d’expansion du Cap-Breton ou de l’une de ses filiales ou les céder ou les vendre, ou en disposer autrement;
-- **h.4)** prendre toute mesure nécessaire ou utile, exception faite des mesures prévues aux alinéas h.2) et h.3), au contrôle, à la gestion ou à la disposition des éléments d’actif et des obligations de la Société d’expansion du Cap-Breton ou de l’une de ses filiales que l’Agence a acquis ou assumées, selon le cas;
-- **i)** prendre toute autre mesure utile à la réalisation de sa mission.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 13; 2002, ch. 17, art. 3; 2014, ch. 20, art. 187.
+**34** 
+
+- **(1)** La Société peut, dans le cadre de sa mission :
+	- **a)** dans les cas où un entrepreneur exerce ou se propose d’exercer des activités qu’elle juge de nature à contribuer de façon appréciable au développement industriel de l’île du Cap-Breton :
+		- **(i)** lui consentir des prêts, avec ou sans garantie et au taux d’intérêt qu’elle juge indiqué, ou sans intérêt,
+		- **(ii)** lui accorder des subventions,
+		- **(iii)** malgré l’article 91 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), faire des placements dans ses actions ou valeurs, et détenir ou aliéner, notamment par vente, ces actions ou valeurs,
+		- **(iv)** avec l’approbation du gouverneur en conseil accordée sur la double recommandation du ministre et du ministre des Finances, garantir le remboursement par lui des emprunts qu’il a contractés et le paiement de tout ou partie des intérêts afférents;
+	- **b)** acheter, prendre à bail ou, d’une façon générale, acquérir des immeubles situés dans l’île du Cap-Breton — ou des droits sur ceux-ci — et les gérer, les aménager et les exploiter ou prendre toute autre mesure à leur sujet;
+	- **c)** aliéner, notamment par vente, les immeubles — ou les droits sur ceux-ci — qu’elle a acquis pour la contrepartie qu’elle estime appropriée, en tout ou en partie au comptant ou à crédit, ou contre des actions ou des valeurs de tout entrepreneur — personne physique ou morale — qu’elle juge de nature à contribuer de façon appréciable au développement industriel de l’île du Cap-Breton;
+	- **d)** prendre ou détenir des hypothèques, privilèges ou sûretés pour garantir le paiement total ou partiel du prix de vente des immeubles qu’elle aliène et céder ces hypothèques, privilèges ou sûretés;
+	- **e)** faire de la publicité sur les possibilités industrielles de l’île du Cap-Breton tant au Canada qu’à l’étranger, publier et diffuser de la documentation, accorder des prix et des récompenses, faire des dons et des contributions en vue d’encourager efficacement le développement industriel et économique de l’île;
+	- **f)** prendre toutes les autres mesures qu’elle estime utiles à la réalisation de cette mission.
+
+**Collaboration**
+
+- **(2)** La Société est tenue, dans toute la mesure compatible avec l’accomplissement de sa mission, de procéder à des consultations et de collaborer, directement ou par l’intermédiaire du comité coordonnateur des initiatives de développement économique de l’île du Cap-Breton éventuellement créé aux termes d’un accord entre les gouvernements du Canada et de la Nouvelle-Écosse, avec les ministères ou organismes de ces gouvernements ayant une mission comparable à la sienne; elle doit toutefois éviter de prendre à cet égard des mesures qui relèveraient plutôt d’un autre programme d’assistance ou qui pourraient être normalement prises sans son aide.
+
+**Instructions**
+
+- **(3)** La Société se conforme aux instructions que lui donne le ministre quant à l’exercice de ses pouvoirs.
+
+**Dispositions applicables**
+
+- **(4)** Les paragraphes 89(2) à (6) et l’article 153 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) s’appliquent, compte tenu des adaptations de circonstance, aux instructions visées au paragraphe (3) comme s’il s’agissait des instructions qu’ils mentionnent.
 
 
 
 
+## Dispositions financières
 
-**Obligations**
 
-**14** L’Agence assiste le ministre :
-- **a)** d’une façon générale, dans l’exercice des attributions conférées au ministre sous le régime de la présente partie ou de toute autre loi pour ce qui est des possibilités de développement économique du Canada atlantique;
-- **b)** dans la coordination de la politique et des programmes fédéraux relatifs aux possibilités de développement économique du Canada atlantique;
-- **c)** dans la mise en oeuvre des accords conclus par le ministre avec les provinces;
-- **d)** dans l’exercice des attributions conférées au ministre par l’article 8;
-- **e)** dans la collecte de données précises sur l’ensemble des programmes et opérations entrepris par elle-même ou le ministre, en vue de mesurer les tendances et l’évolution de la conjoncture dans le développement économique du Canada atlantique.
+
+**Paiements par le ministre des Finances**
+
+**35** 
+
+- **(1)** Sur demande du ministre et de la Société, le ministre des Finances fait verser à celle-ci sur le Trésor, conformément aux autorisations budgétaires la concernant et au fur et à mesure de ses besoins, les crédits qui peuvent être affectés à cette fin par le Parlement.
+
+**Plafond des garanties**
+
+- **(2)** Le total des garanties accordées par la Société aux termes de l’alinéa 34(1)a) ne peut à aucun moment dépasser cent millions de dollars; les montants à débourser au titre de ces garanties peuvent être versés conformément à l’article 29 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et ne sont pas pris en compte dans le calcul du total des versements prévus au paragraphe (1).
+
+
+
+
+**Gestion des fonds**
+
+**36** 
+
+- **(1)** Les montants reçus par la Société et provenant de ses activités ou d’une autre source, pour son propre compte ou à son crédit, y compris ceux reçus de Sa Majesté du chef de la Nouvelle-Écosse, aux termes d’un accord conclu entre les gouvernements du Canada et de la Nouvelle-Écosse ou autrement, d’un organisme de Sa Majesté du chef de la Nouvelle-Écosse ou de toute autre source, sont déposés au crédit des comptes de la Société et, sous réserve des éventuelles conditions auxquelles ils ont été reçus, sont gérés et dépensés par la Société exclusivement dans l’exercice de ses attributions.
+
+**Placements**
+
+- **(2)** La Société peut placer les fonds qu’elle gère conformément au présent article dans des obligations émises ou garanties par le gouvernement du Canada.
+
+**Livres de comptes**
+
+- **(3)** La Société tient les livres de comptes et documents appropriés.
+
+
+
+
+**Renseignements sur les garanties**
+
+**37** Chaque budget d’investissement présenté par la Société conformément à l’article 124 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) doit comporter les renseignements que peut exiger le ministre au fur et à mesure des besoins sur les garanties que la Société se propose d’accorder aux termes de l’alinéa 34(1)a) au cours de l’exercice auquel se rapporte le budget.
 
 
 
@@ -224,90 +219,62 @@
 
 
 
-**Personnel**
+**Siège et réunions**
 
-**15** 
-
-- **(1)** Le personnel nécessaire à l’exécution des travaux de l’Agence est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
-
-**Usage des services fédéraux**
-
-- **(2)** Dans l’exercice de ses attributions, l’Agence fait usage, en tant que de besoin, des installations et services des ministères et organismes fédéraux.
+**38** Le siège de la Société est fixé à Sydney, en Nouvelle-Écosse; les réunions du conseil peuvent toutefois se tenir ailleurs au Canada atlantique, au choix des administrateurs.
 
 
 
 
-**Siège**
+**Règlements administratifs**
 
-**16** Le siège de l’Agence est fixé à Moncton, au Nouveau-Brunswick; cependant, l’Agence tient au moins un bureau dans chacune des autres provinces du Canada atlantique.
-
-
-
-
-**Contrats**
-
-**17** 
-
-- **(1)** Les contrats, ententes ou autres arrangements conclus par l’Agence sous son propre nom lient Sa Majesté du chef du Canada au même titre qu’elle-même.
-
-**Actions en justice**
-
-- **(2)** À l’égard des droits et obligations qu’elle assume sous le nom de Sa Majesté ou le sien, l’Agence peut ester en justice sous son propre nom devant tout tribunal qui serait compétent si elle était dotée de la personnalité morale et n’avait pas la qualité de mandataire de Sa Majesté.
-
-
-
-**18** [Abrogé, 2014, ch. 20, art. 176]
-
-
-
-**19** [Abrogé, 2014, ch. 20, art. 176]
+**39** Le conseil peut, par règlement administratif, régir :
+- **a)** la convocation de ses réunions;
+- **b)** le déroulement de ses réunions, la création de comités en son sein, la délégation d’attributions à ces comités et la fixation du quorum à ses réunions et à celles des comités;
+- **c)** les indemnités à verser aux administrateurs, à l’exception du président, pour leurs frais de déplacement et de séjour;
+- **d)** les responsabilités professionnelles et morales des administrateurs et du personnel, ainsi que les conditions d’emploi de celui-ci;
+- **e)** la création et la gestion d’une caisse de retraite pour le vice-président et le personnel de la Société ainsi que les personnes à leur charge, les cotisations à verser par la Société à cette caisse et le placement des fonds de la caisse;
+- **f)** de façon générale, le fonctionnement de la Société.
 
 
 
 
-## Pouvoir réglementaire
+**Mandataire de Sa Majesté**
 
-
-
-**Pouvoir réglementaire**
-
-**20** 
-
-- **(1)** Le ministre peut, par règlement :
-	- **a)** préciser les programmes ou opérations propres à améliorer le contexte commercial du Canada atlantique, outre ceux mentionnés à l’alinéa 13c);
-	- **b)** pour l’application de la présente partie, définir « petites et moyennes entreprises », « opérations » et « projets de démonstration » et préciser les catégories de petites et moyennes entreprises et d’opérations ou activités susceptibles d’aides de la part de l’Agence au titre de la présente partie;
-	- **c)** prendre toute autre mesure d’application de la présente partie.
-
-**Idem**
-
-- **(2)** Le ministre peut, avec l’approbation du ministre des Finances, prendre des règlements d’application de la présente partie :
-	- **a)** concernant les prêts ou garanties pouvant être accordés et les assurances-prêts ou assurances-crédit pouvant être souscrites;
-	- **b)** concernant la façon dont il peut acquérir, exercer, céder ou vendre des options d’achat d’actions obtenues à titre de condition des prêts, aides, garanties, assurances-prêts ou assurances-crédit et les circonstances de ces opérations.
-
-**Règlement concernant les zones désignées**
-
-- **(3)** Il peut être pris au titre du présent article, à l’égard des zones désignées où il y a des possibilités d’améliorer la situation en matière d’emploi productif local, des règlements différents de ceux qui s’appliquent généralement au Canada atlantique.
+**40** Sauf exception prévue au paragraphe 41(1), la Société est, pour l’application de la présente partie, mandataire de Sa Majesté du chef du Canada.
 
 
 
 
-## Rapports
+**Cas du personnel**
+
+**41** 
+
+- **(1)** Les personnes employées par la Société conformément au paragraphe 32(1) ne sont pas des préposés de Sa Majesté.
+
+**Indemnisation des victimes d’accidents d’aviation**
+
+- **(2)** Pour l’application des règlements pris aux termes de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), le personnel de la Société est réputé appartenir à l’administration publique fédérale.
 
 
 
-**Rapport annuel de l’Agence**
 
-**21** 
+**Paiements tenant lieu d’impôts**
 
-- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le président présente au ministre le rapport d’activité de l’Agence pour l’exercice.
+**42** 
 
-- **(2) et (2.1)** [Abrogés, 2014, ch. 20, art. 177]
+- **(1)** La Société peut accorder à toute municipalité de l’île du Cap-Breton des subventions tenant lieu et à concurrence des impôts dont elle est exemptée en sa qualité de mandataire de Sa Majesté.
 
-**Rapport annuel du ministre**
+**Dépenses générales**
 
-- **(3)** Le ministre fait déposer devant chaque chambre du Parlement, dans les quinze premiers jours de séance de celle-ci suivant le 30 septembre, son rapport sur l’application de la présente partie au cours de l’exercice précédant cette date, en y joignant un exemplaire du rapport annuel de l’Agence.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 21; 1992, ch. 1, art. 10; 2014, ch. 20, art. 177.
+- **(2)** Les dépenses de la Société dont le paiement n’est pas prévu par la présente partie sont payées sur les crédits que le Parlement affecte à cette fin.
 
+
+
+
+**Rapport annuel**
+
+**43** La Société remet un exemplaire de chacun des rapports annuels qu’elle établit en conformité avec l’article 150 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) au lieutenant-gouverneur en conseil de la Nouvelle-Écosse.
 
 
 
@@ -316,22 +283,30 @@
 
 
 
-**Transfert des crédits consécutifs aux prévisions budgétaires**
+**Continuité**
 
-**22** Les sommes affectées, pour l’exercice en cours lors de l’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, à la prise en charge des frais et dépenses d’administration publique du ministère de l’Expansion industrielle régionale dans des domaines relevant de droit du ministre ou de l’Agence sont transférées, en ce qui concerne le Canada atlantique et dans la mesure déterminée par le gouverneur en conseil, à la prise en charge des frais et dépenses d’administration publique de l’Agence.
+**44** 
 
+- **(1)** Dans la [Loi sur la Société de développement du Cap-Breton](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-25.md) et aux articles 27 à 43 de la présente partie, la division du développement industriel de la Société de développement du Cap-Breton est à considérer comme une société distincte — ci-après dénommée la division — dont la continuité est assurée par la Société d’expansion du Cap-Breton constituée par l’article 27 de la présente partie et ci-après dénommée la Société.
 
+**Administrateurs et dirigeants**
 
+- **(2)** Pour l’application du présent article, les administrateurs de la division sont considérés comme démissionnaires dès la constitution de la Société et le président de la Société de développement du Cap-Breton est réputé ne pas avoir été administrateur ou dirigeant de la division.
 
-**Transfert d’attributions**
+**Règlements administratifs**
 
-**23** Les attributions conférées, dans des domaines relevant de droit du ministre ou de l’Agence, en vertu d’une loi, d’un règlement, d’un décret, d’un arrêté, d’une ordonnance ou d’une règle, ou au titre d’un contrat, bail, permis ou autre document, au ministre ou au sous-ministre de l’Expansion industrielle régionale, ou à un fonctionnaire de ce ministère, sont transférées selon le cas, en ce qui concerne le Canada atlantique, au ministre, au président ou au fonctionnaire compétent de l’Agence, sauf décret du gouverneur en conseil chargeant de ces attributions un autre ministre ou sous-ministre, ou un fonctionnaire d’un autre ministère ou secteur de l’administration publique fédérale.
+- **(3)** Les règlements administratifs de la Société de développement du Cap-Breton, encore applicables à la date d’entrée en vigueur du présent article, sont réputés avoir été pris par la division mais ils cessent d’avoir effet, comme règlements administratifs de la Société, soixante jours après cette date.
 
+**Instructions**
 
+- **(4)** Le ministre, le président du Conseil du Trésor et le ministre responsable de la Société de développement du Cap-Breton peuvent, par arrêté, donner les instructions qu’ils jugent nécessaires à la mise en application du présent article. Ces instructions ont force de loi.
 
+**Transfert de propriété**
 
-**Présomption**
+- **(5)** Il est entendu que la gestion et le contrôle des biens qui, lors de l’entrée en vigueur du présent article, sont détenus par la Société de développement du Cap-Breton ou loués à celle-ci, pour l’avantage ou l’usage de la division, sont transférés à la Société.
 
-**24** Les membres du personnel nommés pour une période indéterminée dans l’administration publique fédérale et qui sont mutés à l’Agence dans les quatre-vingt-dix jours suivant l’entrée en vigueur du présent article sont réputés y avoir été nommés aux termes du paragraphe 15(1).
+**Dispositions non applicables**
+
+- **(6)** Les articles 90, 91 et 99 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas au transfert d’actifs, y compris les actions, de la Société de développement du Cap-Breton à la Société effectué conformément à la présente partie, et l’article 91 de cette loi ne s’applique pas à l’acquisition de ces actifs par la Société.
 
 
