@@ -11,180 +11,74 @@
 ----------
 
 
+[Abrogée,  2004, ch. 11, art. 55]
+
+
 
 ## Titre abrégé
+> [Abrogée,  2004, ch. 11, art. 55]
 
 
 
-**Titre abrégé**
-
-**1** Loi sur les Archives nationales du Canada.
+**1** [Abrogé,  2004, ch. 11, art. 55]
 
 
 
 
 ## Définitions
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Définitions**
-
-**2** Les définitions qui suivent s’appliquent à la présente loi.
-
-***archiviste*** L’archiviste national du Canada nommé au titre du paragraphe 3(2).
-
-***documents*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microforme, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
-
-***documents ministériels*** Les documents, afférents à sa qualité de ministre, d’un membre du Conseil privé de la Reine pour le Canada, à l’exclusion des documents personnels ou politiques et des documents des institutions fédérales.
-
-***institution fédérale*** Institution fédérale figurant à l’annexe I de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou à l’annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) ou désignée par règlement du gouverneur en conseil.
-
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+**2** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Archives nationales du Canada
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Constitution**
-
-**3** 
-
-- **(1)** Est constitué un secteur de l’administration publique fédérale appelé les Archives nationales du Canada, placé sous l’autorité du ministre et dirigé par l’archiviste.
-
-**Nomination de l’archiviste**
-
-- **(2)** L’archiviste est nommé par le gouverneur en conseil et a rang, pouvoirs et traitement d’un administrateur général de ministère.
+**3** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Mission et attributions
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Mission**
-
-**4** 
-
-- **(1)** Les Archives nationales du Canada conservent les documents privés et publics d’importance nationale et en favorisent l’accès. Elles sont le dépositaire permanent des documents des institutions fédérales et des documents ministériels. Elles facilitent la gestion des documents des institutions fédérales et des documents ministériels et appuient les milieux des archives.
-
-**Attributions de l’archiviste**
-
-- **(2)** L’archiviste peut prendre toute mesure qui concourt à la réalisation de la mission des Archives nationales du Canada et, notamment :
-	- **a)** acquérir des documents ou en obtenir la possession, la garde ou le contrôle;
-	- **b)** prendre toute mesure utile au classement, à la description, à la protection et à la restauration des documents;
-	- **c)** permettre l’accès aux documents, sous réserve des restrictions juridiques applicables;
-	- **d)** fournir des services d’information, de consultation et de recherche, ainsi que des services connexes, concernant les archives;
-	- **e)** faire connaître les archives, notamment par des publications, des expositions et des prêts;
-	- **f)** conseiller les institutions fédérales quant aux normes et méthodes de gestion de documents;
-	- **g)** fournir aux institutions fédérales des services de reproduction et autres services liés à la gestion de documents;
-	- **h)** fournir un service central de garde et de contrôle des documents des anciens membres du personnel des institutions fédérales;
-	- **i)** fournir aux institutions fédérales des installations d’entreposage de documents;
-	- **j)** fournir des services de formation aux techniques de l’archivage et à la gestion des documents;
-	- **k)** collaborer avec les organismes concernés par les archives et la gestion des documents, notamment par des échanges et des activités communes;
-	- **l)** apporter son appui professionnel, technique et financier aux milieux des archives;
-	- **m)** s’acquitter de toute autre fonction que lui confie le gouverneur en conseil.
-
-**Élimination ou aliénation de documents**
-
-- **(3)** L’archiviste peut, sous réserve des modalités afférentes à leur acquisition ou à leur obtention, aliéner ou éliminer des documents dont il a le contrôle s’il estime que leur conservation n’est plus nécessaire.
-
-**Restrictions à l’accès aux documents**
-
-- **(4)** L’archiviste ne peut donner accès aux documents auxquels le paragraphe 69(1) de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’applique qu’avec l’autorisation du greffier du Conseil privé.
-> L.R. (1985), ch. 1 (3<sup>e</sup> suppl.), art. 4; 1995, ch. 29, art. 48.
-
+**4** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Documents des institutions fédérales et documents ministériels
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Élimination et aliénation**
-
-**5** 
-
-- **(1)** L’élimination ou l’aliénation des documents des institutions fédérales et des documents ministériels, qu’il s’agisse ou non de biens de surplus, est subordonnée à l’autorisation de l’archiviste.
-
-**Accès aux documents**
-
-- **(2)** Par dérogation aux autres lois fédérales et sous réserve du paragraphe (5), l’archiviste a accès aux documents qui font l’objet d’une demande d’autorisation.
-
-**Idem**
-
-- **(3)** Par dérogation aux autres lois fédérales, les fonctionnaires ou employés des institutions fédérales peuvent permettre à l’archiviste d’avoir accès aux documents qui font l’objet d’une demande d’autorisation.
-
-**Normes de sécurité**
-
-- **(4)** L’archiviste et les personnes agissant en son nom ou sur son ordre sont tenus, quant à l’accès aux documents visés au paragraphe (2), de satisfaire aux normes applicables en matière de sécurité et de prêter les serments imposés à leurs usagers habituels.
-
-**Exception**
-
-- **(5)** L’archiviste n’a accès aux documents auxquels le paragraphe 69(1) de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’applique qu’avec l’autorisation du greffier du Conseil privé et aux documents d’une institution fédérale qui contiennent des renseignements dont la communication est restreinte en vertu d’une disposition figurant à l’annexe II de la même loi, qu’avec l’autorisation du responsable de l’institution en cause.
+**5** [Abrogé,  2004, ch. 11, art. ]
 
 
 
-
-**Transfert des documents**
-
-**6** 
-
-- **(1)** Le transfert, sous la garde et le contrôle de l’archiviste, des documents des institutions fédérales et des documents ministériels qu’il estime avoir une importance historique ou archivistique s’effectue selon les calendriers ou accords convenus à cet effet entre l’archiviste et le responsable des documents.
-
-**Règlement**
-
-- **(2)** Le gouverneur en conseil peut, par règlement, fixer les modalités du transfert des documents.
-
-**Anciennes institutions fédérales**
-
-- **(3)** Sauf instruction contraire du gouverneur en conseil, l’archiviste est préposé à la garde et au contrôle des documents des institutions fédérales qui ont cessé leurs activités.
+**6** [Abrogé,  2004, ch. 11, art. ]
 
 
 
-
-**Matériel de musée ou de bibliothèque**
-
-**7** Les articles 5 et 6 ne s’appliquent pas aux documents qui sont du matériel de bibliothèque ou de musée conservé par une institution fédérale à des fins de consultation ou d’exposition.
+**7** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Dépôt d’enregistrements
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Définition de « enregistrement »**
-
-**8** 
-
-- **(1)** Au présent article, ***enregistrement*** s’entend de tout support où sont fixés, indépendamment du procédé utilisé, des sons ou des images, ou les deux.
-
-**Dépôt**
-
-- **(2)** Le producteur ou le distributeur d’un enregistrement est tenu, à la demande écrite de l’archiviste, de lui faire parvenir, dans les six mois suivant la demande, une copie dont celui-ci détermine les caractéristiques.
-
-**Frais**
-
-- **(3)** L’archiviste assume les frais réels de confection de la copie. Il n’assume cependant pas ceux de Sa Majesté du chef du Canada ou de ses mandataires.
-
-**Infraction**
-
-- **(4)** Quiconque ne se conforme pas au paragraphe (2) commet une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-
-**Exclusion**
-
-- **(5)** Le paragraphe (2) ne s’applique pas :
-	- **a)** aux enregistrements dont le dépôt est obligatoire sous le régime de la [Loi sur la Bibliothèque nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-12.md) ni aux enregistrements non radiodiffusés ou non rendus publics au Canada;
-	- **b)** aux catégories d’enregistrements que le ministre peut, par règlement, soustraire à l’application du même paragraphe.
-
-**Obligation de Sa Majesté**
-
-- **(6)** Le présent article lie Sa Majesté du chef du Canada ou d’une province.
+**8** [Abrogé,  2004, ch. 11, art. ]
 
 
 
@@ -194,92 +88,66 @@
 
 
 ## Dispositions financières
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Compte**
-
-**10** 
-
-- **(1)** Est ouvert, parmi les comptes du Canada, un compte intitulé « compte des Archives nationales du Canada ». Ce compte est crédité des sommes reçues pour les Archives nationales du Canada notamment sous forme de don ou de legs.
-
-**Utilisation**
-
-- **(2)** Les sommes visées au paragraphe (1) sont utilisées conformément aux modalités dont est assortie leur remise.
-> L.R. (1985), ch. 1 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 99.
-
+**10** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Disposition générale
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Rapport annuel**
-
-**11** Dans les trois mois suivant la fin de chaque exercice, l’archiviste présente au ministre son rapport d’activité pour l’exercice. Le ministre le dépose devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+**11** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Dispositions transitoires
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Maintien en poste : archiviste**
-
-**12** 
-
-- **(1)** L’archiviste fédéral en fonctions lors de l’entrée en vigueur de la présente loi devient, jusqu’à ce qu’il quitte son poste, l’archiviste national du Canada.
-
-**Documents des archives publiques**
-
-- **(2)** Les documents qui constituaient les archives publiques lors de l’entrée en vigueur de la présente loi sont transférés à l’archiviste sous réserve des modalités dont était assortie leur remise.
-
-**Maintien en poste : personnel**
-
-- **(3)** Chaque personne nommée comme fonctionnaire, commis ou employé avant l’entrée en vigueur de la présente loi pour aider l’archiviste fédéral dans l’accomplissement de ses fonctions est affectée aux Archives nationales du Canada.
-
-**Mentions**
-
-- **(4)** Dans les proclamations, règlements, décrets, arrêtés, ordonnances, contrats ou autres documents, toute mention des « archives publiques » et de l’« archiviste fédéral » vaut mention des « Archives nationales du Canada » et de l’« archiviste national du Canada ».
-
-- **(5)** [Modifications]
+**12** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Loi sur le droit d’auteur
+> [Abrogée,  2004, ch. 11, art. ]
 
 
-**13** [Modification]
+
+**13** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Loi sur les archives publiques
+> [Abrogée,  2004, ch. 11, art. ]
 
 
-**14** [Abrogation]
+
+**14** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ## Entrée en vigueur
+> [Abrogée,  2004, ch. 11, art. ]
 
 
 
-**Entrée en vigueur**
-
-***15** La présente loi entre en vigueur à la date fixée par proclamation.
-
-<a name='N-2.5_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 11 juin 1987, *voir* TR/87-126.]<br />
+**15** [Abrogé,  2004, ch. 11, art. ]
 
 
 
 
 ### **ANNEXE** 
-[Modifications]
+[Abrogée,  2004, ch. 11, art. ]
 
 
