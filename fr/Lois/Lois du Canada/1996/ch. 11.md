@@ -1,0 +1,856 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md)
+
+# Loi sur le ministère du Développement des ressources humaines
+
+**L.C. 1996, ch. 11**
+
+
+Sanctionnée sur le 29 mai 1996
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur le ministère du Développement des ressources humaines.
+
+
+
+
+## Définitions
+
+
+
+**Définitions**
+
+**2** Les définitions qui suivent s’appliquent à la présente loi.
+
+***Commission*** La Commission de l’assurance-emploi du Canada maintenue par l’article 23.
+
+***ministre*** Le ministre du Développement des ressources humaines.
+
+
+
+
+**PARTIE I** 
+## Ministère du Développement des ressources humaines
+
+
+
+### Mise en place
+
+
+
+**Constitution du ministère**
+
+**3** 
+
+- **(1)** Est constitué le ministère du Développement des ressources humaines, placé sous l’autorité du ministre du Développement des ressources humaines. Celui-ci est nommé par commission sous le grand sceau.
+
+**Développement des ressources humaines Canada**
+
+- **(2)** Les expressions « Développement des ressources humaines Canada » et « Human Resources Development Canada » paraissant sur les documents délivrés ou faits en vertu des attributions prévues à l’article 6 sont réputées être, respectivement, des mentions du « ministère du Développement des ressources humaines » et du « Department of Human Resources Development ».
+
+**Ministre**
+
+- **(3)** Le ministre occupe sa charge à titre amovible; il assure la direction et la gestion du ministère.
+
+
+
+
+**Ministre du Travail**
+
+**4** 
+
+- **(1)** Il peut être nommé à titre amovible, par commission sous le grand sceau, un ministre du Travail.
+
+**Attributions**
+
+- **(2)** Les attributions du ministre du Travail s’étendent d’une façon générale à tous les domaines de compétence du Parlement liés au travail et ne ressortissant pas de droit à d’autres ministères ou organismes fédéraux.
+
+**Absence du ministre du Travail**
+
+- **(3)** S’il n’est pas nommé de ministre du Travail en application du paragraphe (1) :
+	- **a)** le ministre exerce les attributions de celui-ci;
+	- **b)** la mention de celui-ci dans les lois fédérales ainsi que dans leurs textes d’application vaut mention, sauf indication contraire du contexte, du ministre.
+
+**Utilisation des services et installations du ministère**
+
+- **(4)** Le ministre du Travail fait usage des services et installations du ministère.
+
+
+
+
+**Sous-ministre**
+
+**5** 
+
+- **(1)** Le gouverneur en conseil peut nommer, à titre amovible, un sous-ministre du Développement des ressources humaines; celui-ci est l’administrateur général du ministère.
+
+**Sous-ministres délégués**
+
+- **(2)** Le gouverneur en conseil peut nommer, à titre amovible, un ou plusieurs sous-ministres délégués du Développement des ressources humaines, avec rang et statut d’administrateurs généraux de ministère. Placés sous l’autorité du sous-ministre du Développement des ressources humaines, ils exercent, à titre de représentants du ministre ou à tout autre titre, les attributions que celui-ci leur confère.
+
+**Sous-ministre du Travail**
+
+- **(3)** Le gouverneur en conseil peut désigner comme sous-ministre du Travail le sous-ministre du Développement des ressources humaines ou l’un des sous-ministres délégués.
+
+
+
+
+### Attributions du ministre
+
+
+
+**Attributions**
+
+**6** Les attributions du ministre s’étendent d’une façon générale à tous les domaines de compétence du Parlement liés au développement des ressources humaines au Canada ne ressortissant pas de droit à d’autres ministres, ministères ou organismes fédéraux et sont exercées en vue d’améliorer le marché de l’emploi et de promouvoir l’égalité et la sécurité sociale.
+
+
+
+
+**Fonctions**
+
+**7** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
+- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur le développement des ressources humaines;
+- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant à maintenir ou à améliorer le développement des ressources humaines.
+
+
+
+
+### Facturation
+
+
+
+**Facturation des services et installations**
+
+**8** 
+
+- **(1)** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de services ou d’installations par lui-même, le ministère, la Commission ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+**Plafonnement**
+
+- **(2)** Le prix fixé dans le cadre du paragraphe (1) ne peut excéder les coûts supportés par Sa Majesté du chef du Canada pour la fourniture des services ou des installations.
+
+
+
+
+**Facturation des produits, droits et avantages**
+
+**9** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de produits ou l’attribution de droits ou d’avantages par lui-même, le ministère, la Commission ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+
+
+
+**Facturation des procédés ou autorisations réglementaires**
+
+**10** 
+
+- **(1)** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de procédés réglementaires ou l’attribution d’autorisations réglementaires par lui-même, le ministère, la Commission ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+**Montant**
+
+- **(2)** Les prix fixés dans le cadre du paragraphe (1) ne peuvent dépasser, dans l’ensemble, un montant suffisant pour indemniser Sa Majesté du chef du Canada des dépenses entraînées pour elle par la fourniture des procédés réglementaires ou l’attribution des autorisations réglementaires.
+
+
+
+
+**Consultations**
+
+**11** 
+
+- **(1)** Avant de fixer un prix dans le cadre des articles 8 à 10, le ministre consulte les personnes ou organismes qu’il estime intéressés en l’occurrence.
+
+**Publication**
+
+- **(2)** Dans les trente jours suivant la date de fixation d’un prix dans le cadre des articles 8 à 10, le ministre publie celui-ci dans la Gazette du Canada et par tout autre moyen indiqué, notamment électronique, que le Conseil du Trésor peut, par règlement, autoriser.
+
+**Renvoi en comité**
+
+- **(3)** Le comité visé à l’article 19 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) est saisi d’office des prix fixés dans le cadre des articles 8 à 10 pour que ceux-ci fassent l’objet de l’étude et du contrôle prévus pour les textes réglementaires.
+
+
+
+
+**Pouvoir de prendre des règlements**
+
+**12** Le Conseil du Trésor peut prendre des règlements pour l’application des articles 8 à 11.
+
+
+
+
+### Organismes de conseil
+
+
+
+**Organismes de conseil**
+
+**13** Le ministre peut, avec l’agrément du gouverneur en conseil, instituer les organismes qu’il estime nécessaires pour l’aider et le conseiller, et pour collaborer avec les autorités provinciales dans le cadre de la présente loi.
+
+
+
+
+### Conseil national du bien-être social
+
+
+
+**Conseil national du bien-être social**
+
+**14** 
+
+- **(1)** Est maintenu le Conseil national du bien-être social; il se compose d’un président et d’au plus treize autres membres nommés à titre amovible par le gouverneur en conseil pour des mandats respectifs d’une durée maximale de trois ans et échelonnés, dans la mesure du possible, de sorte qu’au cours d’une année quelconque moins de la moitié d’entre eux viennent à expiration.
+
+**Présomption**
+
+- **(2)** Les membres du Conseil sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) lorsqu’ils exercent les fonctions qui leur sont confiées en application de la présente loi.
+
+
+
+
+**Possibilité d’un nouveau mandat**
+
+**15** Un membre du Conseil peut recevoir un nouveau mandat.
+
+
+
+
+**Rémunération et dépenses**
+
+**16** Les membres du Conseil reçoivent la rémunération approuvée par le gouverneur en conseil; ils ont également droit aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de leur résidence habituelle, des fonctions qui leur sont confiées en application de la présente loi.
+
+
+
+
+**Mission**
+
+**17** Le Conseil a pour mission de conseiller le ministre, en matière de protection sociale, sur les questions que ce dernier soumet à son examen ou que lui-même juge opportun d’aborder.
+
+
+
+
+**Réunions**
+
+**18** Le Conseil se réunit aux date, heure et lieu fixés par le ministre.
+
+
+
+
+**Personnel et contractuels**
+
+**19** 
+
+- **(1)** Le Conseil peut engager le personnel et les contractuels nécessaires à sa bonne marche.
+
+**Présomption**
+
+- **(2)** Le personnel et les contractuels ainsi engagés ne font pas automatiquement partie de l’administration publique fédérale.
+
+
+
+
+### Dispositions générales
+
+
+
+**Accords et contributions au financement**
+
+**20** En vue de faciliter la formulation, la coordination et l’application des politiques et programmes relatifs aux attributions énoncées à l’article 6, le ministre peut conclure un accord avec une province, un groupe de provinces, un organisme public provincial, une institution financière ou toute personne ou organisme de son choix.
+
+
+
+
+**Délégation**
+
+**21** Le ministre peut déléguer ses attributions, à titre individuel ou collectif, au ministre du Travail, à la Commission ou à toute autre personne ou organisme qu’il désigne.
+
+
+
+
+**Serments et déclarations**
+
+**22** Avec l’autorisation du sous-ministre du Développement des ressources humaines, toute personne employée par le ministère, de même que toute autre personne ou membre d’une catégorie de personnes désignée par le ministre, peut, dans l’exercice de ses fonctions, faire prêter les serments et recevoir les déclarations sous serment, solennelles ou autres, exigés par l’exécution de la mission du ministère ou de la Commission. À cet effet, ces personnes disposent des pouvoirs d’un commissaire aux serments.
+
+
+
+
+**PARTIE II** 
+## Commission de l’assurance-emploi du Canada
+
+
+
+### Maintien de la Commission
+
+
+
+**Commission**
+
+**23** 
+
+- **(1)** La Commission de l’emploi et de l’immigration du Canada est maintenue sous le nom de Commission de l’assurance-emploi du Canada. Elle est composée de quatre commissaires nommés par le gouverneur en conseil.
+
+**Commissaires**
+
+- **(2)** Les quatre commissaires sont les suivants : le sous-ministre du Développement des ressources humaines, qui est le président de la Commission, un sous-ministre délégué, qui en est le vice-président, une personne nommée après consultation des organisations ouvrières et une autre nommée après consultation des organisations patronales.
+
+**Emploi et assurance Canada**
+
+- **(3)** Les expressions « Assurance-emploi Canada » et « Employment Insurance Canada » paraissant sur les documents délivrés ou faits en vertu des attributions prévues à l’article 27 sont réputées être, respectivement, des mentions de la « Commission de l’assurance-emploi du Canada » et de la « Canada Employment Insurance Commission ».
+
+
+
+
+**Mandat, traitement et conditions d’exercice de la fonction**
+
+**24** 
+
+- **(1)** Les commissaires, à l’exception du président et du vice-président :
+	- **a)** sont nommés à titre inamovible pour un mandat maximal de cinq ans par le gouverneur en conseil, sous réserve de révocation motivée de sa part;
+	- **b)** peuvent recevoir un nouveau mandat;
+	- **c)** reçoivent le traitement fixé par le gouverneur en conseil;
+	- **d)** sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md);
+	- **e)** se consacrent exclusivement à leurs fonctions de commissaire et ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec celles-ci.
+
+**Suppléance**
+
+- **(2)** En cas d’absence ou d’empêchement d’un commissaire autre que le président ou le vice-président ou de vacance de son poste, le gouverneur en conseil peut désigner comme suppléant une personne qui, sauf indication contraire de celui-ci, est investie de toutes les attributions du commissaire.
+
+
+
+
+**Président**
+
+**25** 
+
+- **(1)** Le président est le premier dirigeant de la Commission; il en contrôle les activités et en préside les réunions.
+
+**Vice-président**
+
+- **(2)** Le vice-président de la Commission exerce, sous l’autorité du président, les attributions que celui-ci lui assigne.
+
+**Suppléance du président**
+
+- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, la présidence est assumée par le vice-président.
+
+**Suppléance du vice-président**
+
+- **(4)** En cas d’absence ou d’empêchement du vice-président ou de vacance de son poste ou lorsque le vice-président remplace le président en application du paragraphe (3), le gouverneur en conseil peut désigner comme suppléant une personne qui, sauf indication contraire de celui-ci, est investie de toutes les attributions du vice-président.
+
+
+
+
+**Vote**
+
+**26** Le vice-président n’a voix délibérative dans les réunions que s’il remplace ou représente le président.
+
+
+
+
+### Attributions de la Commission
+
+
+
+**Attributions**
+
+**27** 
+
+- **(1)** La Commission exerce les attributions qui lui sont conférées :
+	- **a)** par le ministre ou en application d’une loi fédérale, en ce qui concerne l’assurance-chômage, les services de placement et la création, la mise en oeuvre et l’optimisation des moyens humains au Canada;
+	- **b)** en toute autre matière, aux termes d’un décret ou en application d’une loi fédérale.
+
+**Accords avec d’autres pays**
+
+- **(2)** Malgré toute autre loi fédérale, la Commission peut, avec l’approbation du gouverneur en conseil donnée par décret, conclure avec des gouvernements étrangers des accords de réciprocité concernant les matières visées au paragraphe (1).
+
+**Instructions**
+
+- **(3)** Pour l’exercice de ses attributions, la Commission se conforme aux instructions qui lui sont données par le ministre à cet égard.
+
+
+
+
+**Règles**
+
+**28** 
+
+- **(1)** La Commission peut établir des règles régissant la convocation de ses réunions et la conduite de ses activités en général.
+
+**Réunions de la Commission**
+
+- **(2)** La Commission doit tenir procès-verbal de toutes ses réunions officielles.
+
+
+
+
+**Mandataire de Sa Majesté**
+
+**29** 
+
+- **(1)** La Commission est dotée de la personnalité morale; elle est, à toutes fins, mandataire de Sa Majesté du chef du Canada et ne peut exercer ses pouvoirs qu’à ce titre.
+
+**Contrats**
+
+- **(2)** La Commission peut, pour le compte de Sa Majesté du chef du Canada, conclure des contrats en son propre nom ou au nom de Sa Majesté.
+
+
+
+
+### Structure et fonctionnement
+
+
+
+**Siège**
+
+**30** 
+
+- **(1)** Le siège de la Commission est fixé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md), ou à tout autre lieu au Canada désigné par le gouverneur en conseil.
+
+**Résidence des commissaires**
+
+- **(2)** Les commissaires résident dans la région de la capitale nationale, au lieu désigné par le gouverneur en conseil aux termes du paragraphe (1) ou à une distance raisonnable de cette région ou de ce lieu.
+
+
+
+
+**Personnel**
+
+**31** 
+
+- **(1)** Le personnel nécessaire à la bonne marche de la Commission est engagé par le ministère du Développement des ressources humaines.
+
+**Représentants**
+
+- **(2)** La Commission peut, lorsqu’elle le juge opportun en certains endroits, s’assurer par contrat les services de représentants locaux.
+
+**Délégation**
+
+- **(3)** La Commission peut déléguer ses attributions — qu’elles lui soient propres ou déjà déléguées — , à titre individuel ou collectif à toute personne ou organisme qu’elle désigne.
+
+
+
+
+### Vérification
+
+
+
+**Vérification**
+
+**32** Le vérificateur général examine chaque année les comptes et les opérations financières de la Commission pour l’exercice précédent; il examine également, pour la même période, le Compte d’assurance-emploi créé par l’article 71 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et en fait rapport au ministre.
+> 1996, ch. 11, art. 32, ch. 23, art. 189. .
+
+
+
+
+
+**PARTIE III** 
+## Allocation aux anciens employés
+
+
+
+**Allocation aux anciens employés**
+
+**33** 
+
+- **(1)** Le ministre peut conclure, avec des gouvernements provinciaux, des employeurs ou des salariés, des organisations patronales ou syndicales, des institutions financières ou toute autre personne ou collectivité de son choix, des accords prévoyant le versement périodique d’une allocation de complément de ressources aux anciens employés âgés d’au moins cinquante-cinq ans mais de moins de soixante-cinq ans au moment d’une réduction définitive du personnel affecté dans leur établissement à une activité économique déterminée et dont la cessation d’emploi résultant de cette réduction survient :
+	- **a)** soit après le 31 décembre 1987;
+	- **b)** soit, si l’établissement faisait partie d’un secteur qui, le 12 août 1986, constituait un secteur d’activité désigné, après la fin de la période de validité de la désignation, le seuil d’admissibilité à l’allocation pouvant toutefois être abaissé à moins de cinquante-cinq ans dans le cas où la réduction a lieu avant le 6 octobre 1988, pourvu que le total de l’âge et de l’ancienneté dans les secteurs d’activité désignés soit au moins égal à quatre-vingts ans.
+
+**Définition de « secteur d’activité désigné »**
+
+- **(2)** Pour l’application de l’alinéa (1)b), ***secteur d’activité désigné*** s’entend de tout secteur d’activité désigné aux termes de l’article 3 de la [Loi sur les prestations d’adaptation pour les travailleurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-1.md).
+
+**Anciens employés de moins de cinquante-cinq ans**
+
+- **(3)** Le ministre peut conclure les accords visés au paragraphe (1) même à l’égard d’anciens employés de moins de cinquante-cinq ans, à la condition qu’ils soient d’anciens employés d’établissements de transformation de poisson, qu’ils soient, le 15 mai 1994, âgés d’au moins cinquante ans et que la cessation de leur emploi résulte d’une réduction définitive de personnel causée par la baisse des stocks de poissons.
+
+
+
+
+**PARTIE III.1** 
+## Subvention canadienne pour l’épargne-études
+
+
+
+### Définition
+
+
+
+### Objet
+
+
+
+### Versements
+
+
+
+### Dispositions générales
+
+
+
+**PARTIE IV** 
+## Dispositions transitoires, modifications connexes et conditionnelles, abrogations et entrée en vigueur
+
+
+
+### Dispositions transitoires
+
+
+
+**Postes**
+
+**34** 
+
+- **(1)** La présente loi ne change rien à la situation des fonctionnaires qui occupaient un poste dans les entités ci-après à la date d’entrée en vigueur du présent paragraphe, à la différence près que, à compter de cette date, ils l’occupent au ministère du Développement des ressources humaines sous l’autorité du sous-ministre du Développement des ressources humaines :
+	- **a)** les secteurs de l’administration publique fédérale connus sous les noms de Direction générale de l’aide aux étudiants, Cabinet du sous-secrétaire d’État adjoint (Développement social et Opérations régionales) — à l’exception du secteur chargé de la traduction et des services connexes et de la Direction des citoyens autochtones — et Direction générale de l’aide à l’éducation — à l’exception de la Direction des études canadiennes et projets spéciaux et de la Direction de la participation jeunesse — qui font partie du Secrétariat d’État du Canada, visés à la division a)(i)(A) du décret C.P. 1993-1488 du 25 juin 1993 portant le numéro d’enregistrement TR/93-142;
+	- **b)** les secteurs de l’administration publique fédérale connus sous les noms de Direction générale des programmes de la sécurité du revenu et Direction générale des programmes de service social qui font partie du ministère de la Santé nationale et du Bien-être social visés à la division a)(i)(B) du décret C.P. 1993-1488 du 25 juin 1993 portant le numéro d’enregistrement TR/93-142, à l’exception :
+		- **(i)** des Programmes Nouveaux Horizons / Autonomie des aîné(e)s,
+		- **(ii)** des secteurs connus sous les noms de Division de la prévention de la violence familiale, Bureau des enfants et les programmes connexes de Grandir ensemble, Programme d’action communautaire pour les enfants, Recherche et développement en matière de HIV et de SIDA et Programme de recherches sur l’autonomie des aîné(e)s, visés au décret C.P. 1993-1667 du 11 août 1993 portant le numéro d’enregistrement TR/93-167;
+	- **c)** la Commission de l’emploi et de l’immigration du Canada;
+	- **d)** le ministère de l’Emploi et de l’Immigration;
+	- **e)** le ministère du Travail.
+
+**Définition de « fonctionnaire »**
+
+- **(2)** Au présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md).
+
+
+
+
+**Transfert de crédits**
+
+**35** Les sommes affectées — et non engagées — , pour l’exercice en cours à l’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses d’administration publique du ministère de l’Emploi et de l’Immigration ou de la Commission de l’emploi et de l’immigration du Canada sont réputées être affectées aux dépenses d’administration publique du ministère du Développement des ressources humaines ou à celles de la Commission de l’assurance-emploi du Canada, selon le cas.
+
+
+
+
+**Transfert d’attributions**
+
+**36** 
+
+- **(1)** Les attributions conférées, en vertu d’une loi ou de ses textes d’application ou au titre d’un contrat, bail, permis ou autre document, aux personnes visées au paragraphe (2) dans les domaines relevant des attributions du ministre du Développement des ressources humaines aux termes de la présente loi sont exercées, selon le cas, par le ministre ou le sous-ministre du Développement des ressources humaines ou par le fonctionnaire compétent du ministère, sauf décret chargeant de ces attributions un autre ministre ou sous-ministre, ou un fonctionnaire d’un autre ministère ou secteur de l’administration publique fédérale.
+
+**Personnes visées**
+
+- **(2)** Les personnes sont : le ministre de l’Emploi et de l’Immigration, celui de la Santé nationale et du Bien-être social et le secrétaire d’État du Canada et leurs sous-ministres respectifs, les fonctionnaires dont ils assument la direction et la gestion ainsi que ceux du ministère du Travail.
+
+
+
+
+**Absence d’un ministre du Travail**
+
+**37** 
+
+- **(1)** S’il n’est pas nommé de ministre du Travail en application du paragraphe 4(1), les attributions qui lui ont été conférées au titre d’un contrat, bail, permis ou autre document — dans les domaines relevant des attributions du ministre du Développement des ressources humaines aux termes de la présente loi — sont exercées par celui-ci, à moins que le gouverneur en conseil n’en charge par décret un autre ministre.
+
+**Absence d’un sous-ministre du Travail**
+
+- **(2)** S’il n’est pas désigné de sous-ministre du Travail, les attributions qui lui ont été conférées en vertu d’une loi ou de ses textes d’application ou au titre d’un contrat, bail, permis ou autre document — dans les domaines relevant des attributions du ministre du Développement des ressources humaines aux termes de la présente loi — sont exercées par le sous-ministre du Développement des ressources humaines, à moins que le gouverneur en conseil n’en charge par décret un autre sous-ministre.
+
+
+
+
+**Définitions**
+
+**38** Les définitions qui suivent s’appliquent au présent article et aux articles 39 à 41.
+
+***ancienne commission*** La Commission de l’emploi et de l’immigration du Canada constituée par l’article 9 de la Loi sur le ministère et sur la Commission de l’emploi et de l’immigration, dans sa version antérieure à la date d’entrée en vigueur du présent article.
+
+***nouvelle commission*** La Commission de l’assurance-emploi du Canada maintenue par l’article 23.
+
+
+
+
+**Commissaires**
+
+**39** Les personnes autres que le président et le vice-président qui occupent une charge de membre de l’ancienne commission à la date d’entrée en vigueur du présent article continuent d’exercer leurs fonctions, à titre de membres de la nouvelle commission, jusqu’à l’expiration de leur mandat.
+
+
+
+
+**Transfert des droits et obligations**
+
+**40** 
+
+- **(1)** Les droits et biens de Sa Majesté du chef du Canada dont la gestion était confiée à l’ancienne commission ainsi que les obligations et responsabilités de l’ancienne commission sont transférés à la nouvelle commission.
+
+**Renvois**
+
+- **(2)** Sauf indication contraire du contexte, dans tous les contrats, actes et documents signés par l’ancienne commission sous son nom, les renvois à l’ancienne commission valent renvois à la nouvelle commission.
+
+
+
+
+**Procédures judiciaires nouvelles**
+
+**41** 
+
+- **(1)** Les procédures judiciaires relatives aux obligations contractées ou aux responsabilités encourues par l’ancienne commission peuvent être intentées contre la nouvelle commission devant tout tribunal qui aurait eu compétence pour être saisi des procédures intentées contre l’ancienne commission.
+
+**Procédures en cours devant les tribunaux**
+
+- **(2)** La nouvelle commission prend la suite de l’ancienne, au même titre et dans les mêmes conditions que celle-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur du présent article et auxquelles l’ancienne commission est partie.
+
+
+
+
+**Membres du Conseil national du bien-être social**
+
+**42** Les personnes qui occupent une charge de membre du Conseil national du bien-être social à la date d’entrée en vigueur du présent article continuent d’exercer leurs fonctions jusqu’à l’expiration de leur mandat.
+
+
+
+
+### Modifications connexes
+
+
+
+#### Loi sur l’accès à l’information
+
+
+**43 à 46** [Modifications]
+
+
+
+
+#### Loi d’exécution du budget 1995
+
+
+**46.1** [Modification]
+
+
+
+
+#### Régime d’assistance publique du Canada
+
+
+**47 et 48** [Modifications]
+
+
+
+
+#### Régime de pensions du Canada
+
+
+**49** [Modifications]
+
+
+
+
+#### Loi sur les allocations spéciales pour enfants
+
+
+**50** [Modification]
+
+
+
+
+#### Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé
+
+
+**51 à 53** [Modifications]
+
+
+
+
+#### Loi sur la gestion des finances publiques
+
+
+**54 à 59** [Modifications]
+
+
+
+
+#### Loi sur le contrôle des renseignements relatifs aux matières dangereuses
+
+
+**60** [Modification]
+
+
+
+
+#### Loi canadienne sur les droits de la personne
+
+
+**61** [Modification]
+
+
+
+
+#### Loi sur l’immigration
+
+
+**62** [Modification]
+
+
+
+
+#### Loi de l’impôt sur le revenu
+
+
+**63** [Modification]
+
+
+
+
+#### Loi sur les prestations d’adaptation pour les travailleurs
+
+
+**64** [Modifications]
+
+
+
+
+#### Code canadien du travail
+
+
+**65 à 68** [Modifications]
+
+
+
+
+#### Loi sur les subventions aux municipalités
+
+
+**69 et 70** [Modifications]
+
+
+
+
+#### Loi nationale sur la formation
+
+
+**71 à 75** [Modifications]
+
+
+
+
+#### Loi sur la sécurité de la vieillesse
+
+
+**76** [Modifications]
+
+
+
+
+#### Loi sur la protection des renseignements personnels
+
+
+**77 à 80** [Modifications]
+
+
+
+
+#### Loi sur la rémunération du secteur public
+
+
+**81 à 83** [Modifications]
+
+
+
+
+#### Loi sur les relations de travail dans la fonction publique
+
+
+**84** [Modification]
+
+
+
+
+#### Loi sur la pension de la fonction publique
+
+
+**85 et 86** [Modifications]
+
+
+
+
+#### Loi sur les traitements
+
+
+**87** [Modifications]
+
+
+
+
+#### Loi sur le statut de l’artiste
+
+
+**88** [Modification]
+
+
+
+
+#### Loi sur l’assurance-chômage
+
+
+**89 à 94** [Modifications]
+
+
+
+
+#### Nouvelle terminologie
+
+
+**95** [Modifications]
+
+
+
+**96** Dans les autres lois fédérales ainsi que dans leurs textes d’application, les mentions du ministre de l’Emploi et de l’Immigration, du ministre de la Santé nationale et du Bien-être social et du secrétaire d’État du Canada valent mention du ministre du Développement des ressources humaines, sauf indication contraire du contexte ou attribution de la responsabilité en cause à un autre ministre.
+
+
+
+**97** [Modifications]
+
+
+
+**98** Dans les autres lois fédérales ainsi que dans leurs textes d’application, les mentions du secrétariat d’État, du ministère de l’Emploi et de l’Immigration, du ministère du Travail et du ministère de la Santé nationale et du Bien-être social valent mention du ministère du Développement des ressources humaines, sauf indication contraire du contexte ou attribution de la responsabilité en cause à un ministre autre que le ministre du Développement des ressources humaines.
+
+
+
+**99** [Modifications]
+
+
+
+**100** Dans les autres lois fédérales ainsi que dans leurs textes d’application, la mention de la Commission de l’emploi et de l’immigration du Canada vaut mention, sauf indication contraire du contexte, de la Commission de l’assurance-emploi du Canada.
+
+
+
+
+### Modifications conditionnelles
+
+
+**101 et 102** [Modifications]
+
+
+
+
+### Abrogations
+
+
+**103 à 106** [Abrogations]
+
+
+
+
+### Entrée en vigueur
+
+
+
+**Entrée en vigueur**
+
+***107** La présente loi ou telle de ses dispositions, ou des dispositions de toute loi édictée par elle, entre en vigueur à la date ou aux dates fixées par décret.
+
+<a name='H-5.8_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 32, paragraphe 49(2) et alinéa 101a), en vigueur le 12 juillet 1996, *voir* TR/96-70. Article 32 en vigueur le 1<sup>er</sup> mai 1997, *voir* TR/97-56.]<br />
+
+
