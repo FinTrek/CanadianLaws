@@ -1621,7 +1621,7 @@ the applicant for or holder of the licence, registration certificate, authorizat
 		- **(ii)** persons training to become police officers or peace officers under the control and supervision of
 			- **(A)** a police force, or
 			- **(B)** a police academy or similar institution designated by the federal Minister or the lieutenant governor in council of a province,
-		- **(iii)** persons or members of a class of persons employed in the public service of Canada or by the government of a province or municipality who are prescribed by the regulations made by the Governor in Council under Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to be public officers, and
+		- **(iii)** persons or members of a class of persons employed in the federal public administration or by the government of a province or municipality who are prescribed by the regulations made by the Governor in Council under Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to be public officers, and
 		- **(iv)** chief firearms officers and firearms officers; and
 	- **(b)** firearms acquired or possessed by individuals on behalf of, and under the authority of, a police force or a department of the Government of Canada or of a province.
 
@@ -1632,6 +1632,8 @@ the applicant for or holder of the licence, registration certificate, authorizat
 **Destruction of records**
 
 - **(3)** The Registrar may destroy any record referred to in subsection (1) at such times and in such circumstances as may be prescribed.
+> 1995, c. 39, s. 85; 2003, c. 22, s. 224(E)
+
 
 
 
@@ -2076,7 +2078,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(i)** by the following persons in the course of their duties or for the purposes of their employment, namely,
 		- **(A)** peace officers,
 		- **(B)** persons training to become police officers or peace officers under the control and supervision of a police force or a police academy or similar institution designated by the federal Minister or the lieutenant governor in council of a province,
-		- **(C)** persons or members of a class of persons employed in the public service of Canada or by the government of a province or municipality who are prescribed by the regulations made by the Governor in Council under Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to be public officers, and
+		- **(C)** persons or members of a class of persons employed in the federal public administration or by the government of a province or municipality who are prescribed by the regulations made by the Governor in Council under Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to be public officers, and
 		- **(D)** chief firearms officers and firearms officers, and
 	- **(ii)** by individuals on behalf of, and under the authority of, a police force or a department of the Government of Canada or of a province;
 - **(m)** regulating the keeping and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
@@ -2101,6 +2103,8 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(vi)** the *Restricted Weapon Registration Certificate for Classes of Persons other than Individuals Regulations*, made by Order in Council P.C. 1993-766 of April 20, 1993 and registered as SOR/93-200, and
 	- **(vii)** sections 7, 15 and 17 of the *Restricted Weapons and Firearms Control Regulations*, made by Order in Council P.C. 1978-2572 of August 16, 1978 and registered as SOR/78-670, and the headings before them; and
 - **(w)** prescribing anything that by any provision of this Act is to be prescribed by regulation.
+> 1995, c. 39, s. 117; 2003, c. 22, s. 224(E)
+
 
 
 
