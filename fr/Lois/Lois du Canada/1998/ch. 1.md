@@ -2131,7 +2131,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** La responsabilité des administrateurs n’est engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la coopérative dans les six mois de l’échéance;
 	- **b)** l’existence de la créance est établie dans les six mois de la date du début des procédures de liquidation ou de dissolution de la coopérative ou, si elle est postérieure, de celle de sa dissolution;
-	- **c)** l’existence de la créance est établie dans les six mois d’une cession de biens ou d’une ordonnance de mise sous séquestre frappant la coopérative conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+	- **c)** l’existence de la créance est établie dans les six mois d’une cession de biens ou d’une ordonnance de faillite frappant la coopérative conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
 
 **Prescription**
 
@@ -2148,7 +2148,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Répétition**
 
 - **(8)** L’administrateur qui acquitte une dette conformément au présent article peut répéter les quote-parts des autres administrateurs qui étaient également responsables.
-> 1998, ch. 1, art. 102; 2001, ch. 14, art. 167.
+> 1998, ch. 1, art. 102; 2001, ch. 14, art. 167; 2004, ch. 25, art. 188.
 
 
 
