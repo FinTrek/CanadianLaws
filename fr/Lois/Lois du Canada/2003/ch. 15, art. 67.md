@@ -539,6 +539,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première nation de Kluane
+
+</td>
+<td>Council of the Kluane First Nation
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Kluane, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
 <td>Première nation de Little Salmon/Carmacks
 
 </td>
@@ -649,5 +660,7 @@ où :
 </td>
 </tr>
 </table>
+
+> 2003, ch. 15, s. 67 «ann.»; DORS/2004-281.
 
 
