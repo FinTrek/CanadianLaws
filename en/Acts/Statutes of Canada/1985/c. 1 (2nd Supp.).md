@@ -1730,7 +1730,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28.
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F).
 
 
 
