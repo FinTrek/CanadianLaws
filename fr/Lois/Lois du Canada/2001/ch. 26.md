@@ -209,6 +209,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Autorisation**
 
 - **(5)** Le ministre des Transports ou le ministre des Pêches et des Océans peut, s’il le juge indiqué, autoriser un agent de l’administration publique fédérale ou un officier ou agent de police ou toute autre personne employée à la préservation de la paix publique, individuellement ou au titre de son appartenance à une catégorie, à exercer tout ou partie des attributions que lui confère la présente loi.
+> 2001, ch. 26, art. 10; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -664,6 +666,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Décision de la formation**
 
 - **(6)** Il est entendu que les décisions rendues par la formation valent décisions du Bureau.
+> 2001, ch. 26, art. 27; 2003, ch. 22, art. 224(A).
+
 
 
 
@@ -2381,6 +2385,8 @@ French version only***conseiller*** Membre du Tribunal.
 - **(6)** Si le capitaine est incapable d’établir ou de maintenir une communication directe en raison d’une défectuosité de fonctionnement de l’équipement, le bâtiment qui se trouve dans une des situations mentionnées au paragraphe (4) doit :
 	- **a)** dans le cas où il se trouve dans un port ou un mouillage où l’équipement peut être réparé, y demeurer jusqu’à ce qu’il puisse rétablir ou maintenir la communication conformément aux règlements;
 	- **b)** dans le cas contraire, lorsqu’il est possible de le faire de façon sécuritaire, naviguer jusqu’au port ou mouillage raisonnablement sûr qui est situé le plus près sur sa route et y demeurer jusqu’à ce qu’il puisse rétablir ou maintenir la communication conformément aux règlements.
+> 2001, ch. 26, art. 126; 2003, ch. 22, art. 224(A).
+
 
 
 
