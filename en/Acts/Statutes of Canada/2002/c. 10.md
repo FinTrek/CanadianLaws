@@ -2660,9 +2660,11 @@ that may result from any delay in carrying out the terms of an order determining
 
 **Findings of fact**
 
-**166** Subject to sections 167 to 169 and the Federal Court Act, a determination of the Tribunal on the following questions is final and binding:
+**166** Subject to sections 167 to 169 and the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), a determination of the Tribunal on the following questions is final and binding:
 - **(a)** on any question of fact within its jurisdiction; and
 - **(b)** in an application under section 155, on any question in relation to loss or damage described in subsection 153(1).
+> 2002, c. 10, ss. 166, 201.
+
 
 
 
