@@ -12584,16 +12584,15 @@ Chief Electoral Officer
 Alberta
 
 
-Election Act, R.S.A. 1980, c. E-2
+Election Act, R.S.A. 2000, c. E-1
 
-
-Motor Vehicle Administration Act, R.S.A. 1980, c. M-22
 
 
 Traffic Safety Act, R.S.A. 2000, c. T-6
 
 
-Vital Statistics Act, R.S.A. 1980, c. V-4
+
+Vital Statistics Act, R.S.A. 2000, c. V-4
 
 
 British Columbia
@@ -12602,10 +12601,13 @@ British Columbia
 Election Act, R.S.B.C. 1996, c. 106
 
 
+
 Motor Vehicle Act, R.S.B.C. 1996, c. 318
 
 
+
 Vital Statistics Act, R.S.B.C. 1996, c. 479
+
 
 
 Manitoba
@@ -12614,16 +12616,21 @@ Manitoba
 The City of Winnipeg Act, S.M. 1989-90, c. 10
 
 
+
 The Elections Act, R.S.M. 1987, c. E30 
+
 
 
 The Highway Traffic Act, S.M. 1985-86, c. 3
 
 
+
 The Local Authorities Election Act, R.S.M. 1987, c. L180
 
 
+
 The Vital Statistics Act, R.S.M. 1987, c. V60
+
 
 
 New Brunswick
@@ -12632,10 +12639,13 @@ New Brunswick
 Elections Act, R.S.N.B. 1973, c. E-3
 
 
+
 Motor Vehicle Act, R.S.N.B. 1973, c. M-17
 
 
+
 Vital Statistics Act, S.N.B. 1979, c. V-3
+
 
 
 Newfoundland
@@ -12644,10 +12654,13 @@ Newfoundland
 Elections Act, 1991, S.N. 1992, c. E-3.1
 
 
+
 Highway Traffic Act, R.S.N. 1990, c. H-3
 
 
+
 Vital Statistics Act, R.S.N. 1990, c. V-6
+
 
 
 Northwest Territories
@@ -12656,10 +12669,13 @@ Northwest Territories
 Elections Act, R.S.N.W.T. 1988, c. E-2
 
 
+
 Motor Vehicles Act, R.S.N.W.T. 1988, c. M-16
 
 
+
 Vital Statistics Act, R.S.N.W.T. 1988, c. V-3
+
 
 
 Nova Scotia
@@ -12668,22 +12684,31 @@ Nova Scotia
 Elections Act, R.S.N.S. 1989, c. 140 
 
 
+
 Motor Vehicle Act, R.S.N.S. 1989, c. 293
+
 
 
 Vital Statistics Act, R.S.N.S. 1989, c. 494
 
 
+
 Nunavut
 
 
-Elections Act, R.S.N.W.T. 1988, c. E-2, as duplicated for Nunavut by section 29 of the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
+Elections Act, R.S.N.W.T. 1988, c. E-2, as duplicated for Nunavut by section 29 of the 
+[Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
 
 
-Motor Vehicles Act, R.S.N.W.T. 1988, c. M-16, as duplicated for Nunavut by section 29 of the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
+
+Motor Vehicles Act, R.S.N.W.T. 1988, c. M-16, as duplicated for Nunavut by section 29 of the 
+[Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
 
 
-Vital Statistics Act, R.S.N.W.T. 1988, c. V-3, as duplicated for Nunavut by section 29 of the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
+
+Vital Statistics Act, R.S.N.W.T. 1988, c. V-3, as duplicated for Nunavut by section 29 of the 
+[Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md), S.C. 1993, c. 28
+
 
 
 Ontario
@@ -12692,13 +12717,17 @@ Ontario
 Election Act, R.S.O. 1990, c. E.6
 
 
+
 Highway Traffic Act, R.S.O. 1990, c. H.8
+
 
 
 Municipal Elections Act, 1996, S.O. 1996, c. 32
 
 
+
 Vital Statistics Act, R.S.O. 1990, c. V.4
+
 
 
 Prince Edward Island
@@ -12707,10 +12736,13 @@ Prince Edward Island
 Election Act, R.S.P.E.I. 1988, c. E-1.1 
 
 
+
 Highway Traffic Act, R.S.P.E.I. 1988, c. H-5
 
 
+
 Vital Statistics Act, R.S.P.E.I. 1988, c. V-4
+
 
 
 Québec
@@ -12719,10 +12751,13 @@ Québec
 *Civil Code of Québec*, S.Q. 1991, c. 64
 
 
+
 Election Act, R.S.Q., c. E-3.3
 
 
+
 Highway Safety Code, R.S.Q., c. C-24.2
+
 
 
 Saskatchewan
@@ -12731,13 +12766,17 @@ Saskatchewan
 The Election Act, 1996, S.S. 1996, c. E-6.01
 
 
+
 The Highway Traffic Act, S.S. 1986, c. H-3.1
+
 
 
 The Vehicle Administration Act, S.S. 1986, c. V-2.1
 
 
+
 The Vital Statistics Act, S.S. 1995, c. V-7.1
+
 
 
 Yukon
@@ -12746,10 +12785,13 @@ Yukon
 Elections Act, S.Y. 1999, c. 13 
 
 
+
 Motor Vehicles Act, R.S.Y. 1986, c. 118
 
 
+
 Vital Statistics Act, R.S.Y. 1986, c. 175
+
 
 
 OTHER SOURCES OF INFORMATION
@@ -12758,7 +12800,7 @@ OTHER SOURCES OF INFORMATION
 Canada Post Corporation’s National Change of Address Database
 
 
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, page 283.
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685; Canada Gazette Part I, Volume 138, pages 283, 976.
 
 
 
