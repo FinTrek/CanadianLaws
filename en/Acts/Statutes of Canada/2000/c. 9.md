@@ -101,7 +101,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** in relation to the Provinces of Nova Scotia and British Columbia, a judge of the Supreme Court of the Province;
 - **(d)** in relation to the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, a judge of the Court of Queen’s Bench of the Province;
 - **(e)** in relation to the Provinces of Prince Edward Island and Newfoundland, a judge of the Trial Division of the Supreme Court of the Province;
-- **(f)** in relation to the electoral district of the Yukon Territory, a judge of the Supreme Court of the Yukon Territory;
+- **(f)** in relation to the electoral district of Yukon, a judge of the Supreme Court of Yukon;
 - **(g)** in relation to the electoral district of the Northwest Territories, a judge of the Supreme Court of the Northwest Territories;
 - **(h)** in relation to the electoral district of Nunavut, a judge of the Nunavut Court of Justice; and
 - **(i)** in relation to any place or territory in Canada,
@@ -172,7 +172,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Time**
 
 - **(4)** A reference to a time of day in this Act is a reference to local time.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90.
 
 
 
@@ -486,8 +486,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** The following persons shall not be appointed as an election officer:
 	- **(a)** a minister of the Crown or a member of the executive council of a province;
 	- **(b)** a member of the Senate or the House of Commons;
-	- **(c)** a member of the legislature of a province, the Council of the Yukon Territory, the Council of the Northwest Territories or the Legislative Assembly of Nunavut;
-	- **(d)** a judge or deputy judge of any superior court or any bankruptcy or insolvency court and, in the Yukon Territory and the Northwest Territories, a judge of the Territorial Court;
+	- **(c)** a member of the legislature of a province, the Council of the Northwest Territories or the Legislative Assembly of Yukon or Nunavut;
+	- **(d)** a judge or deputy judge of any superior court or any bankruptcy or insolvency court and, in Yukon and the Northwest Territories, a judge of the Supreme Court;
 	- **(d.1)** a person who was a candidate at the last general election or at a by-election held since the last general election;
 	- **(e)** a person who has served in Parliament in the session immediately before the election or in the session in progress at the time of the election; and
 	- **(f)** a person who, within seven years before the proposed appointment, has been found guilty of any offence under this Act, the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md) or any Act of the legislature of a province relating to provincial, municipal or school board elections.
@@ -505,6 +505,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — acting as election officer**
 
 - **(6)** No person shall act as an election officer knowing that they do not meet the requirements for an election officer set out in this section.
+> 2000, c. 9, s. 22; 2002, c. 7, s. 91.
+
 
 
 
@@ -1266,13 +1268,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **65** The following persons are not eligible to be a candidate:
 - **(a)** a person who is not qualified as an elector on the date on which his or her nomination paper is filed;
 - **(b)** a person who is disentitled under paragraph 502(3)(a) while they are so disentitled;
-- **(c)** a member of the legislature of a province, the Council of the Yukon Territory, the Council of the Northwest Territories or the Legislative Assembly of Nunavut;
+- **(c)** a member of the legislature of a province, the Council of the Northwest Territories or the Legislative Assembly of Yukon or Nunavut;
 - **(d)** a sheriff, clerk of the peace or county Crown Attorney in any of the provinces;
 - **(e)** a person who is not entitled under section 4 to vote;
 - **(f)** a judge appointed by the Governor in Council, other than a citizenship judge appointed under the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md);
 - **(g)** a person who is imprisoned in a correctional institution;
 - **(h)** an election officer; and
 - **(i)** a person who was a candidate in a previous election and for whom a return, report, document or declaration has not been provided under subsection 451(1), if the time and any extension for providing it have expired.
+> 2000, c. 9, s. 65; 2002, c. 7, s. 92.
+
 
 
 
@@ -5076,7 +5080,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** If a judge does not comply with the provisions of sections 300 to 309, an aggrieved party may, within eight days after the failure to comply, make application for an order under subsection (3)
 	- **(a)** in the Province of Ontario, to a judge of the Superior Court of Justice;
-	- **(b)** in the Province of Quebec, New Brunswick or Alberta, the Yukon Territory, the Northwest Territories or Nunavut, to a judge of the Court of Appeal of the Province or Territory;
+	- **(b)** in the Province of Quebec, New Brunswick or Alberta, Yukon, the Northwest Territories or Nunavut, to a judge of the Court of Appeal of the Province or Territory;
 	- **(c)** in the Province of Nova Scotia or British Columbia, to a judge of the Supreme Court of the Province;
 	- **(d)** in the Province of Manitoba or Saskatchewan, to a judge of the Court of Queen’s Bench for the Province; and
 	- **(e)** in the Province of Prince Edward Island or Newfoundland, to a judge of the trial division of the Supreme Court of the Province.
@@ -5095,6 +5099,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Affidavits may be filed in reply**
 
 - **(4)** The judge complained of and any interested party may file in the office of the clerk, registrar or prothonotary of the court of the judge to whom the application is made affidavits in reply to those filed by the applicant and shall provide the applicant with copies of them on demand.
+> 2000, c. 9, s. 311; 2002, c. 7, s. 93.
+
 
 
 
@@ -8970,7 +8976,7 @@ The candidate or his or her official agent shall notify the Chief Electoral Offi
 - **(2)** For the purposes of paragraph (1)(a), the courts are
 	- **(a)** in the Province of Ontario, the Superior Court of Justice;
 	- **(b)** in the Province of Quebec, the Superior Court;
-	- **(c)** in the Provinces of Nova Scotia and British Columbia, the Yukon Territory and the Northwest Territories, the Supreme Court;
+	- **(c)** in the Provinces of Nova Scotia and British Columbia, Yukon and the Northwest Territories, the Supreme Court;
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
 	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
@@ -8978,6 +8984,8 @@ The candidate or his or her official agent shall notify the Chief Electoral Offi
 **Rules of procedure**
 
 - **(3)** An application shall be dealt with without delay and in a summary way. The court may, however, allow oral evidence to be given at the hearing of the application in specific circumstances.
+> 2000, c. 9, s. 525; 2002, c. 7, s. 94(E).
+
 
 
 
@@ -9766,7 +9774,7 @@ The Vehicle Administration Act, S.S. 1986, c. V-2.1
 The Vital Statistics Act, S.S. 1995, c. V-7.1
 
 
-Yukon Territory
+Yukon
 
 
 Elections Act, S.Y. 1999, c. 13 
@@ -9784,7 +9792,7 @@ OTHER SOURCES OF INFORMATION
 Canada Post Corporation’s National Change of Address Database
 
 
-> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; Canada Gazette Part I, Volume 137, page 685.
+> 2000, c. 9, Sch. 2; Canada Gazette Part I, Extra Volume 134, Nos. 6, 8; Canada Gazette Part I, Extra Volume 135, No. 1; 2002, c. 7, s. 95; Canada Gazette Part I, Volume 137, page 685.
 
 
 
@@ -9901,7 +9909,7 @@ Labrador
 
 
 
-*Yukon Territory*
+*Yukon*
 
 Yukon
 
@@ -9921,5 +9929,7 @@ Nunavut
 
 
 
+
+> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95.
 
 
