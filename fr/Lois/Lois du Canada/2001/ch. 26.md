@@ -2799,9 +2799,11 @@ French version only***conseiller*** Membre du Tribunal.
 	- **c)** régir l’utilisation de photographies, de films, d’enregistrements vidéo ou d’images électroniques des restes des victimes d’accidents mettant en cause un bâtiment naufragé ou un aéronef naufragé dans l’eau;
 	- **d)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
 
-**Règlements — ministre et ministre du Patrimoine canadien**
+**Règlements — ministre et ministre responsable de l’Agence Parcs Canada**
 
-- **(2)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre et du ministre du Patrimoine canadien, régir le sauvetage des épaves ou catégories d’épaves précisées par les règlements pris en vertu de l’alinéa 163(2)a).
+- **(2)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre et du ministre responsable de l’Agence Parcs Canada, régir le sauvetage des épaves ou catégories d’épaves précisées par les règlements pris en vertu de l’alinéa 163(2)a).
+> 2001, ch. 26, art. 150; 2005, ch. 2, art. 8.
+
 
 
 
@@ -2998,13 +3000,13 @@ French version only***conseiller*** Membre du Tribunal.
 	- **a)** soustraire toute région géographique à l’application de la présente partie;
 	- **b)** prendre toute mesure d’application de la présente partie.
 
-**Règlements — ministre et ministre du Patrimoine canadien**
+**Règlements — ministre et ministre responsable de l’Agence Parcs Canada**
 
-- **(2)** Le gouverneur en conseil peut, par règlement, sur recommandation conjointe du ministre et du ministre du Patrimoine canadien :
+- **(2)** Le gouverneur en conseil peut, par règlement, sur recommandation conjointe du ministre et du ministre responsable de l’Agence Parcs Canada :
 	- **a)** spécifier les épaves ou catégories d’épaves qui ont une valeur patrimoniale;
 	- **b)** régir la protection et la conservation de ces épaves ou catégories d’épaves, notamment délivrer des permis autorisant leurs titulaires à y avoir accès;
 	- **c)** autoriser la désignation d’agents de l’autorité chargés de l’application des règlements d’application de la présente partie et prévoir leurs attributions;
-	- **d)** autoriser le ministre et le ministre du Patrimoine canadien à conclure conjointement des accords ou des arrangements relativement à l’application ou au contrôle d’application de toute disposition des règlements pris en vertu du présent paragraphe et à autoriser toute personne ou organisation avec qui un accord ou un arrangement est conclu à exercer les attributions prévues par ces règlements qui sont précisés dans l’accord ou l’arrangement;
+	- **d)** autoriser le ministre et le ministre responsable de l’Agence Parcs Canada à conclure conjointement des accords ou des arrangements relativement à l’application ou au contrôle d’application de toute disposition des règlements pris en vertu du présent paragraphe et à autoriser toute personne ou organisation avec qui un accord ou un arrangement est conclu à exercer les attributions prévues par ces règlements qui sont précisés dans l’accord ou l’arrangement;
 	- **e)** exempter des épaves ou catégories d’épaves ayant une valeur patrimoniale de l’application de toute disposition de la présente partie;
 	- **f)** soustraire toute région géographique à l’application des alinéas b) ou c);
 	- **g)** régir la fixation et le versement des droits et frais exigibles à l’égard des services rendus dans le cadre de l’application des règlements pris en vertu du présent paragraphe.
@@ -3012,6 +3014,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Créances de Sa Majesté**
 
 - **(3)** Les droits et les frais visés à l’alinéa (2)g) et les intérêts afférents constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2001, ch. 26, art. 163; 2005, ch. 2, art. 9.
+
 
 
 
