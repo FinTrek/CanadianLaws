@@ -296,7 +296,9 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Indemnisation**
 
-**21** Les administrateurs et le commissaire adjoint nommé en vertu du paragraphe 26(1) sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+**21** Les administrateurs et le commissaire délégué nommé en vertu du paragraphe 26(1) sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 1999, ch. 17, art. 21; 2004, ch. 16, art. 2(F).
+
 
 
 
@@ -326,7 +328,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 
 
-### Commissaire et commissaire adjoint
+### Commissaire et commissaire délégué
 
 
 
@@ -337,26 +339,30 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 
 
-**Nomination et mandat du commissaire adjoint**
+**Nomination et mandat du commissaire délégué**
 
 **26** 
 
-- **(1)** Le gouverneur en conseil peut nommer un commissaire adjoint des douanes et du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
+- **(1)** Le gouverneur en conseil peut nommer un commissaire délégué des douanes et du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
 
-**Attributions du commissaire adjoint**
+**Attributions du commissaire délégué**
 
-- **(2)** Le commissaire adjoint exerce les attributions que lui confie le commissaire.
+- **(2)** Le commissaire délégué exerce les attributions que lui confie le commissaire.
 
 **Absence ou empêchement du commissaire**
 
-- **(3)** En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, sa charge est assumée par le commissaire adjoint.
+- **(3)** En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, sa charge est assumée par le commissaire délégué.
+> 1999, ch. 17, art. 26; 2004, ch. 16, art. 4(F).
+
 
 
 
 
 **Absence ou empêchement**
 
-**27** En cas d’absence ou d’empêchement du commissaire et du commissaire adjoint ou de vacance de leur poste, le ministre peut confier à un employé de l’Agence les attributions du commissaire; cependant, l’intérim ne peut dépasser soixante jours sans l’approbation du gouverneur en conseil.
+**27** En cas d’absence ou d’empêchement du commissaire et du commissaire délégué ou de vacance de leur poste, le ministre peut confier à un employé de l’Agence les attributions du commissaire; cependant, l’intérim ne peut dépasser soixante jours sans l’approbation du gouverneur en conseil.
+> 1999, ch. 17, art. 27; 2004, ch. 16, art. 4(F).
+
 
 
 
@@ -365,18 +371,22 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **28** 
 
-- **(1)** Le commissaire et le commissaire adjoint assument leur charge à temps plein.
+- **(1)** Le commissaire et le commissaire délégué assument leur charge à temps plein.
 
 **Rémunération**
 
-- **(2)** L’Agence verse au commissaire et au commissaire adjoint la rémunération que fixe le gouverneur en conseil.
+- **(2)** L’Agence verse au commissaire et au commissaire délégué la rémunération que fixe le gouverneur en conseil.
+> 1999, ch. 17, art. 28; 2004, ch. 16, art. 4(F).
+
 
 
 
 
 **Frais de déplacement et de séjour**
 
-**29** Le commissaire et le commissaire adjoint sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail.
+**29** Le commissaire et le commissaire délégué sont indemnisés des frais de déplacement et de séjour entraînés par l’accomplissement de leurs fonctions hors de leur lieu habituel de travail.
+> 1999, ch. 17, art. 29; 2004, ch. 16, art. 4(F).
+
 
 
 
@@ -790,7 +800,9 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Activités politiques**
 
-**57** Les articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent aux commissaire, commissaire adjoint et employés de l’Agence. À ces fins, les commissaire et commissaire adjoint sont réputés être des administrateurs généraux, et les employés, des fonctionnaires, au sens de l’article 2 de cette loi.
+**57** Les articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent aux commissaire, commissaire délégué et employés de l’Agence. À ces fins, les commissaire et commissaire délégué sont réputés être des administrateurs généraux, et les employés, des fonctionnaires, au sens de l’article 2 de cette loi.
+> 1999, ch. 17, art. 57; 2004, ch. 16, art. 5(F).
+
 
 
 
