@@ -231,6 +231,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Ententes, subventions et contributions
+
+
+
+**Ententes, subventions et contributions**
+
+**11.1** 
+
+- **(1)** Le ministre peut, avec l'approbation du gouverneur en conseil, donnée sur recommandation du Conseil du Trésor, et selon les modalités précisées par le gouverneur en conseil sur recommandation du Conseil du Trésor, conclure des ententes relativement à la sûreté du transport maritime ou verser des subventions ou contributions à l'égard des frais et dépenses engagés pour la prise des mesures qui, selon lui, contribuent à la sûreté à bord d'un bâtiment ou dans une installation maritime.
+
+**Présomption**
+
+- **(2)** Pour l'application de l'alinéa 25b) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), le paragraphe (1) est réputé être une disposition d'une loi d'application générale permettant le versement de subventions.
+
+**Temporarisation**
+
+- **(3)** Les paragraphes (1) et (2) cessent de s'appliquer trois ans après l'entrée en vigueur du présent article.
+> 2004, ch. 15, art. 73.
+
+
+
+
+
 ## Exemption
 
 
