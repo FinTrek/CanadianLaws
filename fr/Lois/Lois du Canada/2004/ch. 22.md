@@ -240,7 +240,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#B-9.852_f_24'>[*]</a></sup>**(2)** La présente partie entre en vigueur, conformément au paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date fixée par décret.
 
-<a name='B-9.852_f_24'><sup>*</sup></a>: [Note : Partie 4 non en vigueur.]<br />
+<a name='B-9.852_f_24'><sup>*</sup></a>: [Note : Partie 4 en vigueur le 31 janvier 2005, *voir* TR/2005-6.]<br />
 
 
 
