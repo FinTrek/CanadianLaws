@@ -109,8 +109,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Loi fédérale sur les prêts aux étudiants
 
 
@@ -140,8 +138,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Assurance-emploi
 
 
-
-****
 
 ### Loi sur l’assurance-emploi
 
@@ -179,8 +175,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Règlement sur l’assurance-emploi (pêche)
 
 
@@ -204,8 +198,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Modifications connexes
 
 
-
-****
 
 #### Code canadien du travail
 
@@ -241,7 +233,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Malgré l’article 153 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), les articles 23 et 24 entrent en vigueur à la date fixée par décret.
 
-<a name='B-9-851_note1-f'><sup>*</sup></a>: [Note : Article 21 en vigueur à la sanction le 19 juin 2003.]<br />
+<a name='B-9-851_note1-f'><sup>*</sup></a>: [Note : Article 21 en vigueur à la sanction le 19 juin 2003; articles 15 à 20 et 22 à 29 en vigueur le 4 janvier 2004, *voir* TR/2003-185.]<br />
 
 
 
@@ -255,8 +247,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 #### Loi d’exécution du budget de 1997
 
 
@@ -265,8 +255,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 #### Loi d’exécution du budget de 1998
 
 
@@ -274,8 +262,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 #### Loi sur la Fondation du Canada pour l’appui technologique au développement durable
 
@@ -366,8 +352,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Modification de la Loi sur Financement agricole Canada
 
 
@@ -379,8 +363,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Abrogation de la Loi sur le compte de service et de réduction de la dette
 
@@ -395,8 +377,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 6** 
-****
-
 ## Modification de la Loi sur le droit pour la sécurité des passagers du transport aérien
 
 
@@ -410,8 +390,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Tarif des douanes
 
 
@@ -419,8 +397,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Loi de 2001 sur l’accise
 
@@ -461,8 +437,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Loi sur la taxe d’accise
 
@@ -509,8 +483,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Loi sur la taxe d’accise
 
 
@@ -534,8 +506,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Modification corrélative à la Loi de 2001 sur l’accise
 
@@ -563,8 +533,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 #### Loi sur la taxe d’accise
 
 
@@ -577,8 +545,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modification de la Loi de l’impôt sur le revenu et d’une loi connexe
 
 
-
-****
 
 ### Loi de l’impôt sur le revenu
 
@@ -668,8 +634,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-****
-
 ### Loi sur les allocations spéciales pour enfants
 
 
@@ -682,8 +646,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modifications concernant la comptabilité normalisée
 
 
-
-****
 
 ### Loi de 2001 sur l’accise
 
@@ -700,8 +662,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Loi sur la taxe d’accise
 
@@ -774,8 +734,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-****
 
 ### Loi de l’impôt sur le revenu
 
