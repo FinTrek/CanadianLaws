@@ -39,19 +39,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***Convention*** means the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, signed at Paris, France on January 13, 1993, as amended from time to time pursuant to Article XV of the Convention and portions of which are set out in the schedule to this Act;
+***Convention*** means the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, signed at Paris, France on January 13, 1993, as amended from time to time pursuant to Article XV of the Convention and portions of which are set out in the schedule to this Act; (*Convention*)
 
-***international inspector*** means a person who holds a certificate issued by the Minister under section 12;
+***international inspector*** means a person who holds a certificate issued by the Minister under section 12; (*inspecteur international*)
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council to be the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council to be the Minister for the purposes of this Act; (*ministre*)
 
-***National Authority*** means the portion of the public service of Canada designated as the National Authority for Canada under subsection 3(1);
+***National Authority*** means the portion of the federal public administration designated as the National Authority for Canada under subsection 3(1); (*autorité nationale*)
 
-***place*** includes any means of transport;
+***place*** includes any means of transport; (*lieu*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations;
+***prescribed*** means prescribed by the regulations; (***Version anglaise seulement***)
 
-***representative of the National Authority*** means a representative of the National Authority designated under subsection 3(2).
+***representative of the National Authority*** means a representative of the National Authority designated under subsection 3(2). (*représentant de l’autorité nationale*)
 
 **Other words and expressions**
 
@@ -60,6 +60,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Convention provisions prevail where inconsistency**
 
 - **(3)** In the event of any inconsistency between the provisions set out in the schedule and the provisions of the Convention, the provisions of the Convention prevail.
+> 1995, c. 25, s. 2; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -72,7 +74,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **3** 
 
-- **(1)** For the purposes of implementing Canada’s obligations under the Convention and of giving effect to paragraph 4 of Article VII of the Convention, the Minister may designate any portion of the public service of Canada to be the National Authority for Canada.
+- **(1)** For the purposes of implementing Canada’s obligations under the Convention and of giving effect to paragraph 4 of Article VII of the Convention, the Minister may designate any portion of the federal public administration to be the National Authority for Canada.
 
 **Representatives**
 
@@ -87,6 +89,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Identification required**
 
 - **(4)** Every holder of a certificate of designation shall, on request of the person in charge of a place to be entered by the holder under this Act, show the certificate to that person.
+> 1995, c. 25, s. 3; 2003, c. 22, s. 224(E).
+
 
 
 
@@ -173,8 +177,10 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Information and documents**
 
 **11** Every person who does anything under an authorization referred to in section 8 or who produces, possesses, consumes, exports or imports a toxic chemical or precursor listed in Schedule 2 of the Schedules of Chemicals set out in the Annex on Chemicals in the Convention or who produces, exports or imports a toxic chemical or precursor listed in Schedule 3 of the Schedules of Chemicals set out in the Annex on Chemicals in the Convention or who produces a discrete organic chemical or who holds a riot control agent for riot control purposes shall
-- **(a)** provide the prescribed information, at the prescribed time and in the prescribed form, to the National Authority or to such other portion of the public service of Canada as the Minister may by order authorize to collect the information; and
+- **(a)** provide the prescribed information, at the prescribed time and in the prescribed form, to the National Authority or to such other portion of the federal public administration as the Minister may by order authorize to collect the information; and
 - **(b)** keep and maintain the prescribed documents in Canada, at the person’s place of business or at such other place as may be designated by the Minister, in the prescribed manner and for the prescribed period and, on request by the Minister or the National Authority, provide the documents to the National Authority.
+> 1995, c. 25, s. 11; 2003, c. 22, s. 224(E).
+
 
 
 
