@@ -78,8 +78,8 @@
 
 **Fiscal equalization payments**
 
-**3** Subject to this Act, the Minister may pay to a province for each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2005 a fiscal equalization payment not exceeding the amount computed in accordance with section 4.
-> R.S., 1985, c. F-8, s. 3; R.S., 1985, c. 11 (3rd Supp.), s. 2; 1992, c. 10, s. 2; 1994, c. 2, s. 1; 1999, c. 11, s. 1; 2004, c. 4, s. 1.
+**3** Subject to the other provisions of this Act, the Minister may pay to a province for each fiscal year in the period beginning on April 1, 2004 and ending on March 31, 2009 a fiscal equalization payment not exceeding the amount computed in accordance with section 4.
+> R.S., 1985, c. F-8, s. 3; R.S., 1985, c. 11 (3rd Supp.), s. 2; 1992, c. 10, s. 2; 1994, c. 2, s. 1; 1999, c. 11, s. 1; 2004, c. 4, s. 1, c. 22, s. 2.
 
 
 
@@ -89,56 +89,67 @@
 
 **4** 
 
-- **(1)** Subject to the provisions of this Part, the fiscal equalization payment that may be paid to a province for a fiscal year is the amount, as determined by the Minister, equal to the greater of
-	- **(a)** the product obtained by multiplying
-		- **(i)** the aggregate of the amounts obtained by subtracting, for each revenue source, the per capita yield in that province for the revenue source for that fiscal year from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for the revenue source for that fiscal year
-by
-		- **(ii)** the population of the province for that fiscal year, and
-	- **(b)** zero.
+- **(1)** Subject to the other provisions of this Part, the fiscal equalization payment that may be paid to a province for a fiscal year is the amount determined by the Minister by the formula
+```
+1.10 (A + B + C)/3
+```
+where
+- **A** is the greater of
+- **(a)** the product obtained by multiplying
+- **(i)** the aggregate of the amounts obtained by subtracting, for each revenue source, the per capita yield in that province for the revenue source for the immediately preceding fiscal year from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for the revenue source for the immediately preceding fiscal yearby
+- **(ii)** the population of the province for the immediately preceding fiscal year, and
+- **(b)** zero;
+- **B** is the greater of
+- **(a)** the product obtained by multiplying
+- **(i)** the aggregate of the amounts obtained by subtracting, for each revenue source, the per capita yield in that province for the revenue source for the fiscal year two years prior to that fiscal year from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for the revenue source for the fiscal year two years prior to that fiscal yearby
+- **(ii)** the population of the province for the fiscal year two years prior to that fiscal year, and
+- **(b)** zero; and
+- **C** is the greater of
+- **(a)** the product obtained by multiplying
+- **(i)** the aggregate of the amounts obtained by subtracting, for each revenue source, the per capita yield in that province for the revenue source for the fiscal year three years prior to that fiscal year from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for the revenue source for the fiscal year three years prior to that fiscal yearby
+- **(ii)** the population of the province for the fiscal year three years prior to that fiscal year, and
+- **(b)** zero.
 
-**Payment for fiscal year 1999-2000**
+**Payment for fiscal year 2004–2005**
 
-- **(1.1)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 1999 is the amount, as determined by the Minister, equal to the greater of
-	- **(a)** the aggregate of
-		- **(i)** 20 per cent of the product obtained under paragraph (1)(a), and
-		- **(ii)** 80 per cent of the amount that would have been that product had this Act and the [Federal Provincial Fiscal Arrangements Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/194.md), as this Act and those Regulations read on March 31, 1999, applied, with such modifications as the circumstances required, in respect of the fiscal year beginning on April 1, 1999, and
-	- **(b)** zero.
+- **(1.1)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2004 is the amount calculated in accordance with the former legislation. Subsections (6) and (7), as they read immediately before the coming into force of this subsection, apply to that payment as if those subsections expressly provided that they apply to it.
 
-**Payment for fiscal year 2000-2001**
+**Payment for fiscal year 2005–2006**
 
-- **(1.2)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2000 is the amount, as determined by the Minister, equal to the greater of
-	- **(a)** the aggregate of
-		- **(i)** 40 per cent of the product obtained under paragraph (1)(a), and
-		- **(ii)** 60 per cent of the amount that would have been that product had this Act and the [Federal Provincial Fiscal Arrangements Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/194.md), as this Act and those Regulations read on March 31, 1999, applied, with such modifications as the circumstances required, in respect of the fiscal year beginning on April 1, 2000, and
-	- **(b)** zero.
+- **(1.2)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2005 is the amount determined by the Minister by the formula
+```
+2D + E
+```
+where
+- **D** is one third of the amount calculated in accordance with the former legislation; and
+- **E** is 1.10 x A/3, where A has the same description as in subsection (1).
 
-**Payment for fiscal year 2001-2002**
+**Payment for fiscal year 2006–2007**
 
-- **(1.3)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2001 is the amount, as determined by the Minister, equal to the greater of
-	- **(a)** the aggregate of
-		- **(i)** 60 per cent of the product obtained under paragraph (1)(a), and
-		- **(ii)** 40 per cent of the amount that would have been that product had this Act and the [Federal Provincial Fiscal Arrangements Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/194.md), as this Act and those Regulations read on March 31, 1999, applied, with such modifications as the circumstances required, in respect of the fiscal year beginning on April 1, 2001, and
-	- **(b)** zero.
+- **(1.3)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2006 is the amount determined by the Minister by the formula
+```
+F + G + H
+```
+where
+- **F** is one third of the amount calculated in accordance with the former legislation;
+- **G** is 1.10 x A/3, where A has the same description as in subsection (1); and
+- **H** is 1.10 x B/3, where B has the same description as in subsection (1).
 
-**Payment for fiscal year 2002-2003**
-
-- **(1.4)** The fiscal equalization payment that may be paid to a province for the fiscal year beginning on April 1, 2002 is the amount, as determined by the Minister, equal to the greater of
-	- **(a)** the aggregate of
-		- **(i)** 80 per cent of the product obtained under paragraph (1)(a), and
-		- **(ii)** 20 per cent of the amount that would have been that product had this Act and the [Federal Provincial Fiscal Arrangements Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/194.md), as this Act and those Regulations read on March 31, 1999, applied, with such modifications as the circumstances required, in respect of the fiscal year beginning on April 1, 2002, and
-	- **(b)** zero.
+- **(1.4)** [Repealed, 2004, c. 22, s. 3]
 
 **Definitions**
 
-- **(2)** In this section,
+- **(2)** In this section and in section 4.1,
 
-***national average rate of tax*** in respect of a revenue source is the quotient obtained by dividing the aggregate of the revenues to be equalized for a revenue source for all provinces for a fiscal year by the revenue base for that revenue source for all provinces for that fiscal year;
+***former legislation*** means subsection 4(1) of this Act and section 6 of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md), as this Act and those Regulations read on March 31, 2004; 
 
-***per capita yield*** in respect of a province for a revenue source for a fiscal year is the quotient obtained by dividing the product of the national average rate of tax for that revenue source and the province’s revenue base for that revenue source for the fiscal year by the population of the province for that fiscal year;
+***national average rate of tax*** in respect of a revenue source is the quotient obtained by dividing the aggregate of the revenues to be equalized for a revenue source for all provinces for a fiscal year by the revenue base for that revenue source for all provinces for that fiscal year; 
 
-***revenue base*** for a revenue source for a province for a fiscal year relates to the measure of the relative capacity of the province to derive revenue from that revenue source for that fiscal year and has the meaning given to that expression by the regulations;
+***per capita yield*** in respect of a province for a revenue source for a fiscal year is the quotient obtained by dividing the product of the national average rate of tax for that revenue source and the province’s revenue base for that revenue source for the fiscal year by the population of the province for that fiscal year; 
 
-***revenue source*** means any of the following sources from which provincial revenues are or may be derived:
+***revenue base*** for a revenue source for a province for a fiscal year relates to the measure of the relative capacity of the province to derive revenue from that revenue source for that fiscal year and has the meaning given to that expression by the regulations; 
+
+***revenue source*** means any of the following sources from which provincial revenues are or may be derived: 
 - **(a)** personal income taxes,
 - **(b)** corporation income taxes, and revenues derived from government business enterprises that are not included in any other paragraph of this definition,
 - **(c)** taxes on capital of corporations,
@@ -171,11 +182,11 @@ by
 - **(z.4)** miscellaneous provincial taxes and revenues, provincial revenues from sales of goods and services, local government revenues from sales of goods and services, and miscellaneous local government taxes and revenues, and
 - **(z.5)** revenues of the Government of Canada from any of the sources referred to in this definition that are shared by Canada with the provinces;
 
-***revenue to be equalized*** from a revenue source for a province for a fiscal year means the revenue, as determined by the Minister, derived by the province for the fiscal year from that revenue source.
+***revenue to be equalized*** from a revenue source for a province for a fiscal year means the revenue, as determined by the Minister, derived by the province for the fiscal year from that revenue source. 
 
-**Variation of definition “revenue source”**
+**Variation of definition revenue source**
 
-- **(3)** A description of a revenue source as set out in the definition “revenue source” in subsection (2) may, by regulation, be revised or altered in one or more of the following ways:
+- **(3)** A description of a revenue source as set out in the definition revenue source in subsection (2) may, by regulation, be revised or altered in one or more of the following ways:
 	- **(a)** so as to constitute two or more separate revenue sources;
 	- **(b)** in a manner that results in the inclusion of all or any part of it in another description of a revenue source set out in that definition; and
 	- **(c)** in a manner that results in the exclusion of any part of it from that definition.
@@ -193,23 +204,38 @@ is deemed to be revenue derived by the province from those revenue sources for t
 
 **Minimum payment to province in certain cases**
 
-- **(6)** Notwithstanding subsections (1) to (5) but subject to subsection (9), the fiscal equalization payment that may be paid to a province in respect of each fiscal year in the period beginning on April 1, 1999 and ending on March 31, 2005, if the province received a fiscal equalization payment in respect of the immediately preceding fiscal year, shall not be less than the greater of
+- **(6)** Notwithstanding subsections (1) and (1.2) to (5) but subject to subsection (9), the fiscal equalization payment that may be paid to a province for a fiscal year beginning on or after April 1, 2005, if the province received a fiscal equalization payment for the immediately preceding fiscal year, shall not be less than the greater of
 	- **(a)** an amount equal to what the fiscal equalization payment in respect of the immediately preceding fiscal year would be if this subsection were disregarded, minus the threshold amount for the current fiscal year, and
 	- **(b)** zero.
 
-**Interpretation**
+**Definition of national per capita equalization standard**
 
-- **(7)** The definitions in this subsection apply in this subsection and in subsection (6).
+- **(7)** For the purposes of this section, ***national per capita equalization standard*** means the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for all revenue sources.
 
-***national per capita equalization standard*** means the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for all revenue sources.
+**Definition of threshold amount**
 
-***threshold amount*** for a fiscal year, in relation to a province, is the product obtained by multiplying
-- **(a)** 1.6 per cent of the national per capita equalization standard for that fiscal year
-
-by
-- **(b)** the population of the province for either that fiscal year or the immediately preceding fiscal year, whichever is less.
-
-- **(8)** [Repealed, R.S., 1985, c. 11 (3rd Supp.), s. 3]
+- **(8)** For the purposes of subsection (6), the ***threshold amount***
+	- **(a)** for a fiscal year, except as otherwise provided by paragraphs (b) and (c), is the amount determined by the formula
+```
+0.016x 1.10 x X x Y
+```
+where
+- **X** is one third of the sum of the national per capita equalization standard for the immediately preceding fiscal year, the national per capita equalization standard for the fiscal year two years prior to that fiscal year and the national per capita equalization standard for the fiscal year three years prior to that fiscal year, and
+- **Y** is the least of the population of the province for the immediately preceding fiscal year, the population for the fiscal year two years prior to that fiscal year and the population for the fiscal year three years prior to that fiscal year;
+	- **(b)** for the fiscal year 2005–2006, is the amount determined by the formula
+```
+0.016 x X<sub>1</sub> x Y<sub>1</sub>
+```
+where
+- **X** <sub>1</sub>is the sum of two thirds of the national per capita equalization standard for the fiscal year 2005–2006 calculated taking into account section 6 of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md), as those Regulations read on March 31, 2004, and one third of the national per capita equalization standard for the fiscal year 2004–2005 plus 10 per cent, and
+- **Y** <sub>1</sub>is the lesser of the population of the province for the fiscal year 2004–2005 and the population for the fiscal year 2005–2006; and
+	- **(c)** for the fiscal year 2006–2007, the amount determined by the formula
+```
+0.016 x X<sub>2</sub> x Y<sub>2</sub>
+```
+where
+- **X** <sub>2</sub>is the sum of one third of the national per capita equalization standard for the fiscal year 2006–2007 calculated taking into account section 6 of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md), as those Regulations read on March 31, 2004, one third of the national per capita equalization standard for the fiscal year 2005–2006 plus 10 per cent, and one third of the national per capita equalization standard for 2004–2005 plus 10 per cent, and
+- **Y** <sub>2</sub>is the least of the population of the province for the fiscal year 2004–2005, the population for the fiscal year 2005–2006 and the population for the fiscal year 2006–2007.
 
 **Maximum payment**
 
@@ -224,18 +250,117 @@ by
 
 **Adjustment of revenue to be equalized**
 
-- **(10)** Subject to subsection (11), in respect of fiscal years beginning on or after April 1, 1993, where a province that qualifies for a fiscal equalization payment under this Part in respect of the fiscal year has seventy per cent or more of the revenue base for all of the provinces in the fiscal year in respect of a revenue source described in the definition revenue source in subsection (2) or the description of which is revised or altered in accordance with subsection (3), the revenue to be equalized from that revenue source for all of the provinces in respect of the fiscal year is an amount equal to seventy per cent of the revenue as otherwise determined from that revenue source for all of the provinces in respect of the fiscal year.
+- **(10)** Subject to subsection (11), for a fiscal year in the period beginning on April 1, 1993 and ending on March 31, 2005, where a province that qualifies for a fiscal equalization payment under this Part for the fiscal year has 70 per cent or more of the revenue base for all of the provinces in the fiscal year in respect of a revenue source described in the definition revenue source in subsection (2) as revised or altered in accordance with subsection (3), the revenue to be equalized from that revenue source for all of the provinces for the fiscal year is an amount equal to 70 per cent of the revenue as determined before the adjustment from that revenue source for all of the provinces in respect of the fiscal year.
+
+**Adjustment of revenue to be equalized**
+
+- **(10.1)** Subject to subsections (11) and (11.1), for a fiscal year beginning on or after April 1, 2005, the revenue to be equalized from a revenue source described in the definition revenue source in subsection (2) as revised or altered in accordance with subsection (3), for all of the provinces, derived in any of the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year, is an amount equal to 70 per cent of the revenue as determined before the adjustment from that revenue source for all of the provinces for any of those fiscal years taken into account, if in any of those fiscal years taken into account
+	- **(a)** a province has 70 per cent or more of the revenue base for all of the provinces in that fiscal year in respect of a revenue source; and
+	- **(b)** the aggregate of that province’s per capita yields for all revenue sources is less than the aggregate of the averages of the per capita yields for all revenue sources for the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan.
 
 **Election**
 
-- **(11)** In order for subsection (10) to apply in respect of the offshore minerals revenue included in the description set out in paragraph (z.5) of the definition revenue source in subsection (2) as revised or altered in accordance with subsection (3), a province that is eligible for a fiscal equalization offset payment in the fiscal year under the Canada — Nova Scotia Offshore Petroleum Resources Accord Implementation Act, or the Canada — Newfoundland Atlantic Accord Implementation Act, in respect of a fiscal year beginning on or after April 1, 1993 shall make an election, in the prescribed manner, before the end of the calendar year ending in the fiscal year.
+- **(11)** In order for subsections (10) and (10.1), as the case may be, to apply in respect of the offshore minerals revenue included in the description set out in paragraph (z.5) of the definition revenue source in subsection (2) as revised or altered in accordance with subsection (3), a province that is eligible for a fiscal equalization offset payment under the Canada — Newfoundland Atlantic Accord Implementation Act, in respect of a fiscal year in the period beginning on April 1, 2004 and ending on March 31, 2007, shall make an election, in the prescribed manner, within 15 days after the Chief Statistician of Canada submits to the Minister a certificate in respect of the fiscal year for which the election is made in accordance with subsection 9(2) of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md).
+
+**Election**
+
+- **(11.1)** In order for subsection (10.1) to apply in respect of the offshore minerals revenue included in the description set out in paragraph (z. 5) of the definition revenue source in subsection (2) as revised or altered in accordance with subsection (3), a province that is eligible for a fiscal equalization offset payment under the Canada-Newfoundland Atlantic Accord Implementation Act, in respect of a fiscal year beginning on or after April 1, 2007, shall make an election, in the prescribed manner, within 15 days after the Chief Statistician of Canada submits to the Minister a certificate in respect of the fiscal year immediately preceding the fiscal year for which the election is made, in accordance with subsection 9(2) of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md).
 
 **Effect of election under subsection (11)**
 
 - **(12)** Notwithstanding any provision of the Canada — Nova Scotia Offshore Petroleum Resources Accord Implementation Act or the Canada — Newfoundland Atlantic Accord Implementation Act, as the case may be, where a province makes the election described in subsection (11) for a fiscal year, the fiscal equalization offset payment that may otherwise be payable to the province under that Act, in respect of that fiscal year, is zero.
 
 - **(13)** [Repealed, 1999, c. 11, s. 2]
-> R.S., 1985, c. F-8, s. 4; R.S., 1985, c. 11 (3rd Supp.), s. 3; 1992, c. 10, s. 3; 1994, c. 2, s. 2; 1999, c. 11, s. 2; 2001, c. 19, s. 1; 2003, c. 15, s. 3; 2004, c. 4, s. 2.
+> R.S., 1985, c. F-8, s. 4; R.S., 1985, c. 11 (3rd Supp.), s. 3; 1992, c. 10, s. 3; 1994, c. 2, s. 2; 1999, c. 11, s. 2; 2001, c. 19, s. 1; 2003, c. 15, s. 3; 2004, c. 4, s. 2, c. 22, s. 3.
+
+
+
+
+
+**Adjustment of fiscal equalization payment**
+
+**4.1** 
+
+- **(1)** Notwithstanding subsections 4(1), (1.2) and (1.3), in respect of a fiscal year beginning on or after April 1, 2005, the Minister may, on or before March 31 of that fiscal year, on the request of a province made in the prescribed manner on or before March 31 of that fiscal year, adjust the fiscal equalization payment calculated under section 4 for the province for that fiscal year, if
+	- **(a)** the province derived, in that fiscal year, revenues from any of the revenue sources described in paragraphs (m) to (u) of the definition ***revenue source*** in subsection 4(2) as revised or altered in accordance with subsection 4(3); and
+	- **(b)** the per capita yield of that province for that revenue source was greater than the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for that revenue source in that fiscal year.
+
+**Calculation of adjustment**
+
+- **(2)** The amount of the adjustment referred to in subsection (1) is equal to the estimate, calculated by March 31 of that fiscal year, of
+	- **(a)** the product obtained by multiplying
+		- **(i)** the aggregate of the amounts obtained by subtracting the per capita yield in that province for each revenue source referred to in paragraph (1)(a), and to which paragraph (1)(b) applies, for that fiscal year from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for that revenue source for that fiscal year
+by
+		- **(ii)** the population of the province for that fiscal year
+minus
+	- **(b)** the average of the products, for each of the fiscal years taken into account in the calculation of the fiscal equalization payment for the fiscal year, obtained by multiplying
+		- **(i)** the aggregate of the amounts obtained by subtracting the per capita yield in that province for each revenue source referred to in paragraph (1)(a), and to which paragraph (1)(b) applies, for one of those fiscal years taken into account from the average per capita yield of the provinces of Ontario, Quebec, British Columbia, Manitoba and Saskatchewan for that revenue source for that fiscal year
+by
+		- **(ii)** the population of the province for that fiscal year.
+
+**Negative result**
+
+- **(3)** If the amount of the adjustment in subsection (2) is negative, the Minister shall pay to the province one third of the absolute value of that amount in each of the three fiscal years immediately following the fiscal year in respect of which the adjustment is made.
+
+**Positive result**
+
+- **(4)** If the amount of the adjustment in subsection (2) is positive, the Minister shall recover that amount from the province by deducting one third of that amount from the fiscal equalization payment for that province in each of the three fiscal years immediately following the fiscal year in respect of which the adjustment is made.
+
+**Recovery**
+
+- **(5)** If, on March 31 of the third fiscal year after the fiscal year in which the adjustment is made, the total amount of that adjustment has not been recovered, the Minister may recover the amount remaining as a debt due to Her Majesty in right of Canada out of any sum of money that may be due or payable by Her Majesty in right of Canada to the province pursuant to this Act or any other Act of Parliament.
+> 2004, c. 22, s. 4.
+
+
+
+
+
+**Payment to a province**
+
+**4.2** 
+
+- **(1)** Notwithstanding subsection 4(1.1), the Minister may, on the request of a province made in the prescribed manner on or before March 10, 2005, make a payment to the province for the fiscal year beginning on April 1, 2004 in an amount not greater than the amount by which
+	- **(a)** the estimate, calculated by March 10, 2005, of the fiscal equalization payment for that province for the fiscal year beginning on April 1, 2004
+is less than
+	- **(b)** the estimate, calculated by March 10, 2005, of the average of the fiscal equalization payments for that province for the four fiscal years in the period beginning on April 1, 1999 and ending on March 31, 2003.
+
+**Deductions**
+
+- **(2)** Where a province has received a payment under subsection (1), the Minister shall, in the amounts prescribed in the regulations, reduce the fiscal equalization payments to the province for the fiscal years in the period beginning on April 1, 2005 and ending on March 31, 2009. If, on March 31, 2009, the total amount of that payment has not been recovered, the Minister may recover the amount remaining as a debt due to Her Majesty in right of Canada out of any sum of money that may be due or payable by Her Majesty in right of Canada to the province pursuant to this Act or any other Act of Parliament.
+> 2004, c. 22, s. 4.
+
+
+
+
+
+**Additional fiscal equalization payment**
+
+**4.3** 
+
+- **(1)** Notwithstanding subsections 4(1.1) and (1.2), the Minister may make an additional fiscal equalization payment
+	- **(a)** in the fiscal year in which this section comes into force,
+		- **(i)** to Quebec, in the amount of $69,640,666.74,
+		- **(ii)** to Nova Scotia, in the amount of $8,674,951.83,
+		- **(iii)** to New Brunswick, in the amount of $6,951,991.15,
+		- **(iv)** to Manitoba, in the amount of $10,813,779.78,
+		- **(v)** to British Columbia, in the amount of $38,634,050.87,
+		- **(vi)** to Prince Edward Island, in the amount of $1,280,669.01,
+		- **(vii)** to Saskatchewan, in the amount of $9,196,695.51, and
+		- **(viii)** to Newfoundland and Labrador, in the amount of $4,807,195.11; and
+	- **(b)** in the fiscal year beginning on April 1, 2005,
+		- **(i)** to Quebec, in the amount of $11,613,596.18,
+		- **(ii)** to Nova Scotia, in the amount of $1,440,955.45,
+		- **(iii)** to New Brunswick, in the amount of $1,153,751.37,
+		- **(iv)** to Manitoba, in the amount of $1,803,392.10,
+		- **(v)** to British Columbia, in the amount of $6,454,615.15,
+		- **(vi)** to Prince Edward Island, in the amount of $213,406.48,
+		- **(vii)** to Saskatchewan, in the amount of $1,523,209.86, and
+		- **(viii)** to Newfoundland and Labrador, in the amount of $797,073.41.
+
+**Not applicable**
+
+- **(2)** Subsections 4(6), (10) and (10.1) and section 4.1 of this Act, and sections 8 and 9 of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md) do not apply to payments made under subsection (1).
+> 2004, c. 22, s. 4.
 
 
 
@@ -1082,8 +1207,8 @@ where
 - **(1)** The Canada Social Transfer is to consist of
 	- **(a)** a cash contribution of
 		- **(i)** $7.75 billion for the fiscal year beginning on April 1, 2004,
-		- **(ii)** $75 million for the fiscal year beginning on April 1, 2004,
-		- **(iii)** $8.15 billion for the fiscal year beginning on April 1, 2005,
+		- **(ii)** $150 million for the fiscal year beginning on April 1, 2004,
+		- **(iii)** $8.225 billion for the fiscal year beginning on April 1, 2005,
 		- **(iv)** $8.5 billion for the fiscal year beginning on April 1, 2006, and
 		- **(v)** $8.8 billion for the fiscal year beginning on April 1, 2007; and
 	- **(b)** the portion of the total equalized tax transfer for all provinces that is determined by multiplying the total equalized tax transfer for all provinces by the quotient, rounded to the nearest hundredth, that is obtained by dividing an amount equal to the cash contribution specified in subparagraph (a)(i) by an amount equal to the aggregate of the cash contributions specified in subparagraphs (a)(i) and 24.1(1)(a)(i).
@@ -1091,7 +1216,7 @@ where
 **Meaning of total equalized tax transfer**
 
 - **(2)** In subsection (1), ***total equalized tax transfer*** means the total equalized tax transfer as determined in accordance with subsection 24.7(1).
-> 2003, c. 15, s. 8.
+> 2003, c. 15, s. 8; 2004, c. 22, s. 5.
 
 
 
