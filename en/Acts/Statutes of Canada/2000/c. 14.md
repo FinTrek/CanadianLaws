@@ -130,36 +130,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Part.
 
-***alcohol*** means ethyl alcohol.
+***alcohol*** means ethyl alcohol. (*alcool*)
 
-***alcoholic beverage*** means
+***alcoholic beverage*** means
 - **(a)** beer, within the meaning assigned by section B.02.130 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), that contains more than 0.5% alcohol by volume;
 - **(b)** ale, stout, porter or malt liquor, within the meaning assigned by section B.02.131 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), that contains more than 0.5% alcohol by volume;
-- **(c)** wine, within the meaning assigned by section 25 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), that contains more than 0.5% alcohol by volume;
+- **(c)** wine, within the meaning assigned by section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 - **(d)** any beverage that contains more than 0.5% alcohol by volume, that is obtained from the distillation of grains, fruits or other agricultural products or from the distillation of beer or wine; and
-- **(e)** any other beverage that contains a combination of any beverage referred to in paragraphs (a) to (d) that is suitable for human consumption and that contains more than 0.5% alcohol by volume.
+- **(e)** any other beverage that contains a combination of any beverage referred to in paragraphs (a) to (d) that is suitable for human consumption and that contains more than 0.5% alcohol by volume. (*boisson alcoolisée*)
 
-***council of a band*** has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council of a band*** has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil*)
 
-***direct*** has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867.
+***direct*** has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. (*directe*)
 
-***fuel*** means
+***fuel*** means
 - **(a)** diesel fuel, including any fuel oil that is suitable for use in internal combustion engines of the compression-ignition type, other than fuel oil that is intended for use and is actually used as heating oil;
 - **(b)** gasoline type fuels for use in internal combustion engines; and
-- **(c)** propane gas.
+- **(c)** propane gas. (*carburant*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***tobacco product*** means
-- **(a)** every article made by a tobacco manufacturer from raw leaf tobacco, within the meaning assigned to those expressions by section 6 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), by any process whatever, and includes cigarettes and tobacco sticks, as defined in that section, and snuff;
-- **(b)** the leaves and stems of the tobacco plant if they have been processed further than drying and sorting; and
-- **(c)** cigars, within the meaning assigned by section 6 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md).
+***tobacco product*** has the meaning assigned by section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). (*produit du tabac*)
 
 **Expressions defined in other Acts**
 
 - **(2)** In this Part,
 	- **(a)** the expressions ***band*** and ***reserve*** have the meanings assigned by subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
 	- **(b)** the expressions ***supply*** and ***taxable supply*** have the meanings assigned by subsection 123(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+> 2000, c. 14, s. 23; 2002, c. 22, s. 321.
+
 
 
 
