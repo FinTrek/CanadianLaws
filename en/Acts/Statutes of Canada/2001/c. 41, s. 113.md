@@ -54,14 +54,18 @@ Assented to on 24 December 2001
 
 ***applicant*** means a corporation, an organization or a trust that applies to the Minister of National Revenue to become a registered charity.
 
+
 ***information*** means security or criminal intelligence information and information that is obtained in confidence from a source in Canada, from the government of a foreign state, from an international organization of states or from an institution of such a government or organization.
 
-***judge*** means the Chief Justice of the Federal Court or a judge of the Trial Division of that Court designated by the Chief Justice.
+***judge***means the Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice.
 
 ***Minister*** means the Solicitor General of Canada.
 
-***registered charity*** means a registered charity as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2001, c. 41, ss. 113 “3”, 125.
+
+***registered charity*** means a registered charity as defined in subsection 248(1) of the 
+[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+> 2001, c. 41, ss. 113 “3”, 125, 142.
 
 
 
