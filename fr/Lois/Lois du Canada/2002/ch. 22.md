@@ -2468,15 +2468,17 @@ où :
 
 
 
-**Sommes minimes**
+**Sommes dues totalisant 2 $ ou moins**
 
 **165** 
 
-- **(1)** La somme dont une personne est redevable au receveur général en vertu de la présente loi est réputée nulle si le total des sommes dont elle est ainsi redevable est égal ou inférieur à la somme déterminée par règlement.
+- **(1)** Les sommes dont une personne est redevable à Sa Majesté en vertu de la présente loi sont réputées nulles si le total de ces sommes, déterminé par le ministre à un moment donné, est égal ou inférieur à deux dollars.
 
-**Sommes minimes**
+**Sommes à payer totalisant 2 $ ou moins**
 
-- **(2)** Dans le cas où le total des sommes à payer par le ministre à une personne en vertu de la présente loi est égal ou inférieur à la somme déterminée par règlement, le ministre n’est pas tenu de les verser. Il peut toutefois les déduire d’une somme dont la personne est redevable.
+- **(2)** Si, à un moment donné, le total des sommes à payer par le ministre à une personne en vertu de la présente loi est égal ou inférieur à deux dollars, le ministre les déduit de toute somme dont la personne est redevable à ce moment à Sa Majesté en vertu de la présente loi. Toutefois, si la personne n’est redevable d’aucune somme à Sa Majesté, les sommes à payer par le ministre sont réputées nulles.
+> 2002, ch. 22, art. 165; 2003, ch. 15, art. 91.
+
 
 
 
@@ -2542,24 +2544,26 @@ où :
 
 - **(2)** Pour l’application du paragraphe (1), les intérêts qui sont composés un jour donné sur la somme impayée d’une personne sont réputés être à payer par elle au receveur général à la fin du jour donné. Si la personne ne paie pas ces intérêts au plus tard à la fin du jour suivant, ils sont ajoutés à la somme impayée à la fin du jour donné.
 
-**Avis du ministre**
+**Intérêts non exigibles**
 
-- **(3)** Le ministre peut signifier ou envoyer à la personne tenue, en vertu de la présente loi, de payer une somme constituée éventuellement de principal et d’intérêts un avis faisant état de la somme due et du délai de versement.
+- **(3)** Malgré les autres dispositions de la présente loi, si le ministre avise une personne qu’elle est tenue de payer, en vertu de la présente loi, une somme déterminée et que la personne verse la totalité de cette somme avant la fin de la période précisée avec l’avis, aucun intérêt n’est à payer sur la somme pour la période.
 
-**Effet**
+**Intérêts de 25 $ ou moins**
 
-- **(4)** Si le destinataire de l’avis verse la totalité de la somme dans le délai accordé, des intérêts ne sont pas à payer sur la somme, malgré le paragraphe (1), pour la période commençant à la date de l’avis et se terminant à la date du versement.
+- **(4)** Si, à un moment donné, une personne paie une somme égale ou supérieure au total des sommes, sauf les intérêts, dont elle est débitrice à ce moment envers Sa Majesté en vertu de la présente loi pour son mois d’exercice et que le total des intérêts à payer par elle en vertu de la présente loi pour ce mois n’excède pas 25 $, le ministre peut annuler ces intérêts.
 
-**Intérêts minimes**
-
-- **(5)** Lorsque, à un moment donné, une personne s’acquitte des sommes, sauf les intérêts, dont elle est débitrice envers Sa Majesté en vertu de la présente loi et que, immédiatement avant ce moment, les intérêts dont elle est redevable en vertu de la présente loi sont inférieurs à la somme déterminée par règlement, le ministre peut radier et annuler ces intérêts.
-
+- **(5)** [Abrogé, 2003, ch. 15, art. 92]
+> 2002, ch. 22, art. 170; 2003, ch. 15, art. 92.
 
 
 
-**Intérêts composés sur les dettes de Sa Majesté**
 
-**171** Des intérêts, au taux réglementaire, sont calculés et composés quotidiennement sur les sommes dont Sa Majesté est débitrice envers une personne, pour la période commençant le lendemain du jour où elles devaient être payées et se terminant le jour où elles sont payées ou déduites d’une somme dont la personne est redevable à Sa Majesté.
+
+**Intérêts composés sur les sommes à payer par le ministre**
+
+**171** Des intérêts composés, au taux réglementaire, courent quotidiennement sur les sommes que le ministre doit payer à une personne. Sauf disposition contraire de la présente loi, ces intérêts sont calculés pour la période commençant le lendemain du jour où les sommes devaient être payées et se terminant le jour où elles sont payées ou déduites de toute somme dont la personne est redevable à Sa Majesté.
+> 2002, ch. 22, art. 171; 2003, ch. 15, art. 93.
+
 
 
 
@@ -4032,9 +4036,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,259 95 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,159 966 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 149,966 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+- **a)** 0,349 95 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,199 966 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 199,966 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46.
+
 
 
 
@@ -5618,27 +5624,27 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **(article 42)**
 ## Taux du droit sur les produits du tabac
 **1** Cigarettes :
-- **a)** 0,287 375 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, si les cigarettes constituent des produits non ciblés destinés, selon le cas :
+- **a)** 0,374 875 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, si les cigarettes constituent des produits non ciblés destinés, selon le cas :
 	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,308 755 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
+- **b)** 0,396 255 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
 
 
 **2** Bâtonnets de tabac :
-- **a)** 0,042 483 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
+- **a)** 0,054 983 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
 	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,045 483 $ le bâtonnet, dans les autres cas.
+- **b)** 0,057 983 $ le bâtonnet, dans les autres cas.
 
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
-- **a)** 37,483 $ le kilogramme, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
+- **a)** 49,983 $ le kilogramme, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
 	- **(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exporté par le titulaire de licence de tabac qui l’a fabriqué pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 41,481 $ le kilogramme, dans les autres cas.
+- **b)** 53,981 $ le kilogramme, dans les autres cas.
 
 
 **4** Cigares, 14,786 $ le lot de 1 000 cigares.
@@ -5646,6 +5652,8 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
+
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49.
 
 
 
@@ -5655,11 +5663,11 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ## Droit additionnel sur les cigares
 Cigares — la plus élevée des sommes suivantes :
 
-**a)** 0,039 47 $ le cigare;
+**a)** 0,065 $ le cigare;
 
 
 
-**b)** 50 % de la somme applicable suivante :
+**b)** 65 % de la somme applicable suivante :
 
 **(i)** le prix de vente, dans le cas de cigares fabriqués au Canada,
 
@@ -5672,6 +5680,8 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50.
+
 
 
 
@@ -5679,28 +5689,66 @@ Cigares — la plus élevée des sommes suivantes :
 **(articles 53, 54 et 56)**
 ## Taux des droits spéciaux sur certains produits de tabac fabriqué
 **1** Droit spécial sur le tabac fabriqué importé :
-- **a)** 0,0575 $ la cigarette;
-- **b)** 0,0425 $ le bâtonnet de tabac;
-- **c)** 0,0375 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+**a)** 0,075 $ la cigarette;
+
+
+
+**b)** 0,055 $ le bâtonnet de tabac;
+
+
+
+**c)** 0,05 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+
 
 
 **2** Droit spécial sur le tabac du voyageur :
-- **a)** 0,0575 $ la cigarette;
-- **b)** 0,0425 $ le bâtonnet de tabac;
-- **c)** 0,0375 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+**a)** 0,075 $ la cigarette;
+
+
+
+**b)** 0,055 $ le bâtonnet de tabac;
+
+
+
+**c)** 0,05 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+
 
 
 **3** Droit spécial sur les produits du tabac non estampillés :
-- **a)** 0,0575 $ la cigarette;
-- **b)** 0,0425 $ le bâtonnet de tabac;
-- **c)** 37,50 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+**a)** 0,075 $ la cigarette;
+
+
+
+**b)** 0,055 $ le bâtonnet de tabac;
+
+
+
+**c)** 50,00 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+
 
 
 **4** Droit spécial sur les produits du tabac estampillés :
-- **a)** 0,068 224 $ la cigarette;
-- **b)** 0,0345 $ le bâtonnet de tabac;
-- **c)** 33,502 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
+**a)** 0,095 724 $ la cigarette;
+
+
+
+**b)** 0,042 $ le bâtonnet de tabac;
+
+
+
+**c)** 46,002 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+
+
+
+
+> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54.
 
 
 
