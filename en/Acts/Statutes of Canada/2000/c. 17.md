@@ -983,11 +983,11 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **54** The Centre
 - **(a)** shall receive reports made under section 7, 7.1, 9, 12 or 20, incomplete reports sent under subsection 14(5), reports referred to in section 9.1, information provided to the Centre by any agency of another country that has powers and duties similar to those of the Centre, information provided to the Centre by law enforcement agencies or government institutions or agencies, and other information voluntarily provided to the Centre about suspicions of money laundering or of the financing of terrorist activities;
-- **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that is publicly available, including commercially available databases, or that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement and in respect of which an agreement was entered into under subsection 66(1);
+- **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that is publicly available, including commercially available databases, or that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement or national security and in respect of which an agreement was entered into under subsection 66(1);
 - **(c)** shall analyse and assess the reports and information;
 - **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report and all information for five years after the date the report is received or the information is received or collected or, where information is disclosed under subsection 55(3), (4) or (5), shall retain the information and any report containing it for eight years after that date; and
 - **(e)** notwithstanding the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy each report received and all information received or collected on the expiry of the applicable period referred to in paragraph (d).
-> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42.
+> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100.
 
 
 
@@ -1477,7 +1477,19 @@ The order must be complied with within the period following the service of the o
 
 **Disclosure to law enforcement agencies**
 
-**65** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62 or 63 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
+**65** 
+
+- **(1)** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62 or 63 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
+
+**Compliance of persons or entities**
+
+- **(2)** For the purpose of ensuring compliance with Part 1, the Centre may disclose to or receive from any agency or body that regulates or supervises persons or entities to whom Part 1 applies information relating to the compliance of those persons or entities with that Part.
+
+**Limitation**
+
+- **(3)** Any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in that subsection only for purposes relating to compliance with Part 1.
+> 2000, c. 17, s. 65; 2004, c. 15, s. 101.
+
 
 
 
