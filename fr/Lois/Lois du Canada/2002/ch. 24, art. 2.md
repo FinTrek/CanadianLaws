@@ -57,7 +57,9 @@ Sanctionnée sur le 12 décembre 2002
 
 **Avis**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de l’Accord dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#C-6.6'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de l’Accord dans les 60 jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='C-6.6'><sup>*</sup></a>: [Note : Accord en vigueur le 26 août 2003, *voir* Gazette du Canada Partie I, volume 137, page 3312.]<br />
 
 
 
