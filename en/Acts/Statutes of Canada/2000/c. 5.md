@@ -187,8 +187,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
 	- **(a)** the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way;
 	- **(b)** it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;
-	- **(c)** the collection is solely for journalistic, artistic or literary purposes; or
-	- **(d)** the information is publicly available and is specified by the regulations.
+	- **(c)** the collection is solely for journalistic, artistic or literary purposes;
+	- **(d)** the information is publicly available and is specified by the regulations; or
+	- **(e)** the collection is made for the purpose of making a disclosure
+		- **(i)** under subparagraph (3)(c.1)(i) or (d)(ii), or
+		- **(ii)** that is required by law.
 
 **Use without knowledge or consent**
 
@@ -197,7 +200,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** it is used for the purpose of acting in respect of an emergency that threatens the life, health or security of an individual;
 	- **(c)** it is used for statistical, or scholarly study or research, purposes that cannot be achieved without using the information, the information is used in a manner that will ensure its confidentiality, it is impracticable to obtain consent and the organization informs the Commissioner of the use before the information is used;
 	- **(c.1)** it is publicly available and is specified by the regulations; or
-	- **(d)** it was collected under paragraph (1)(a) or (b).
+	- **(d)** it was collected under paragraph (1)(a), (b) or (e).
 
 **Disclosure without knowledge or consent**
 
@@ -233,7 +236,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Disclosure without consent**
 
 - **(5)** Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.2).
-> 2000, c. 5, s. 7, c. 17, s. 97; 2001, c. 41, s. 81.
+> 2000, c. 5, s. 7, c. 17, s. 97; 2001, c. 41, s. 81; 2004, c. 15, s. 98.
 
 
 
