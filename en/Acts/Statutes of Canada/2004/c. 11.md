@@ -92,7 +92,9 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 
 **Establishment**
 
-**4** There is hereby established a branch of the public service of Canada to be known as the Library and Archives of Canada presided over by the Minister and under the direction of the Librarian and Archivist.
+**4** There is hereby established a branch of the federal public administration to be known as the Library and Archives of Canada presided over by the Minister and under the direction of the Librarian and Archivist.
+> 2004, c. 11, ss. 4, 54(E).
+
 
 
 
