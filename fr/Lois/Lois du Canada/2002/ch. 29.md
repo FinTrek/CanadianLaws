@@ -2428,7 +2428,7 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 <sup><a href='#S-15.3_fr_1'>[*]</a></sup>**142** Les dispositions de la présente loi, à l’exception de l’article 141.1, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='S-15.3_fr_1'><sup>*</sup></a>: [Note : Article 141.1 en vigueur à la sanction le 12 décembre 2002.]<br />
+<a name='S-15.3_fr_1'><sup>*</sup></a>: [Note : Article 141.1 en vigueur à la sanction le 12 décembre 2002; articles 1, 134 à 136 et 138 à 141 en vigueur le 24 mars 2003, *voir* TR/2003-43.]<br />
 
 
 
