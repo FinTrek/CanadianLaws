@@ -9371,11 +9371,9 @@ La demande est notifiée au directeur général des élections.
 
 **Application des modifications lors des élections**
 
-***554** 
+**554** 
 
 - **(1)** Les modifications de la présente loi ne s’appliquent pas aux élections déclenchées dans les six mois qui suivent leur adoption, à moins qu’avant la délivrance du bref, le directeur général des élections n’ait publié, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à la mise en application de la modification ont été faits et que celle-ci peut en conséquence entrer en vigueur.
-
-<a name='E-2.01_fr_1'><sup>*</sup></a>: [Note : 2001, ch. 21 en vigueur le 5 octobre 2001, *voir* Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup> 2.]<br />
 
 **Codification des modifications**
 
@@ -9554,6 +9552,299 @@ Directeur général des élections
 
 > Image: Vues avant et arrière du formulaire du bulletin de vote spécial
 
+
+
+
+
+
+### **ANNEXE 2** 
+**(article 46)**
+## Lois provinciales
+Alberta
+
+
+Election Act, R.S.A. 1980, ch. E-2
+
+
+Motor Vehicle Administration Act, R.S.A. 1980, ch. M-22
+
+
+Vital Statistics Act, R.S.A. 1980, ch. V-4
+
+
+Colombie-Britannique
+
+
+Election Act, R.S.B.C. 1996, ch. 106
+
+
+Motor Vehicle Act, R.S.B.C. 1996, ch. 318
+
+
+Vital Statistics Act, R.S.B.C. 1996, ch. 479
+
+
+Île-du-Prince-Édouard
+
+
+Election Act, R.S.P.E.I. 1988, ch. E-1.1 
+
+
+Highway Traffic Act, R.S.P.E.I. 1988, ch. H-5
+
+
+Vital Statistics Act, R.S.P.E.I. 1988, ch. V-4
+
+
+Manitoba
+
+
+*Code de la route*, S.M. 1985-86, ch. 3
+
+
+Loi électorale, L.R.M. 1987, ch. E30 
+
+
+Loi sur la Ville de Winnipeg, S.M. 1989-90, ch. 10
+
+
+Loi sur l’élection des autorités locales, L.R.M 1987, ch. L180
+
+
+Loi sur les statistiques de l’état civil, L.R.M. 1987, ch. V60
+
+
+Nouveau-Brunswick
+
+
+*Loi électorale*, L.R.N.-B. 1973, ch. E-3
+
+
+Loi sur les statistiques de l’état civil, L.N.-B. 1979, ch. V-3
+
+
+Loi sur les véhicules à moteur, L.R.N.-B. 1973, ch. M-17
+
+
+Nouvelle-Écosse
+
+
+Elections Act, R.S.N.S. 1989, ch. 140 
+
+
+Motor Vehicle Act, R.S.N.S. 1989, ch. 293
+
+
+Vital Statistics Act, R.S.N.S. 1989, ch. 494
+
+
+Nunavut
+
+
+*Loi électorale*, L.R.T.N.-O. 1988, ch. E-2, reproduite pour le Nunavut par l’article 29 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), L.C. 1993, ch. 28
+
+
+Loi sur les statistiques de l’état civil, L.R.T.N.-O. 1988, ch. V-3, reproduite pour le Nunavut par l’article 29 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), L.C. 1993, ch. 28
+
+
+Loi sur les véhicules automobiles, L.R.T.N.-O. 1988, ch. M-16, reproduite pour le Nunavut par l’article 29 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), L.C. 1993, ch. 28
+
+
+Ontario
+
+
+*Code de la route*, L.R.O. 1990, ch. H.8
+
+
+*Loi de 1996 sur les élections municipales*, L.O. 1996, ch. 32
+
+
+*Loi électorale*, L.R.O. 1990, ch. E.6
+
+
+Loi sur les statistiques de l’état civil, L.R.O. 1990, ch. V.4
+
+
+Québec
+
+
+*Code civil du Québec*, L.Q. 1991, ch. 64
+
+
+*Code de la sécurité routière*, L.R.Q., ch. C-24.2
+
+
+*Loi électorale*, L.R.Q., ch. E-3.3
+
+
+Saskatchewan
+
+
+Loi de 1995 sur les services de l’état civil, L.S. 1995, ch. V-7,1
+
+
+The Election Act, 1996, S.S. 1996, ch. E-6.01 
+
+
+The Highway Traffic Act, S.S. 1986, ch. H-3.1
+
+
+The Vehicle Administration Act, S.S. 1986, ch. V-2.1
+
+
+Terre-Neuve
+
+
+Elections Act, 1991, S.N. 1992, ch. E-3.1
+
+
+Highway Traffic Act, R.S.N. 1990, ch. H-3
+
+
+Vital Statistics Act, R.S.N. 1990, ch. V-6
+
+
+Territoire du Yukon
+
+
+Loi sur les élections, L.Y. 1999, ch. 13 
+
+
+Loi sur les statistiques de l’état civil, L.R.Y. 1986, ch. 175
+
+
+Loi sur les véhicules automobiles, L.R.Y. 1986, ch. 118
+
+
+Territoires du Nord-Ouest
+
+
+*Loi électorale*, L.R.T.N.-O. 1988, ch. E-2
+
+
+Loi sur les statistiques de l’état civil, L.R.T.N.-O. 1988, ch. V-3
+
+
+Loi sur les véhicules automobiles, L.R.T.N.-O. 1988, ch. M-16
+
+
+AUTRES SOURCES DE RENSEIGNEMENTS
+
+
+La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
+
+
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; Gazette du Canada Partie I, volume 137, page 685.
+
+
+
+
+### **ANNEXE 3** 
+**(alinéas 66(1)e) et f) et article 539)**
+## Liste des circonscriptions
+*Province d’Ontario*
+
+
+Algoma-Manitoulin
+
+
+Kenora-Rainy River
+
+
+Thunder Bay — Superior-Nord
+
+
+Timiskaming-Cochrane
+
+
+Timmins-Baie James
+
+
+*Province de Québec*
+
+
+Abitibi — Baie-James — Nunavik
+
+
+Manicouagan
+
+
+*Province du Manitoba*
+
+
+Churchill
+
+
+*Province de la Colombie-Britannique*
+
+
+Cariboo-Chilcotin
+
+
+Prince George-Bulkley Valley
+
+
+Prince George-Peace River
+
+
+Skeena
+
+
+Île de Vancouver-Nord
+
+
+*Province de la Saskatchewan*
+
+
+Rivière Churchill
+
+
+*Province d’Alberta*
+
+
+Athabasca
+
+
+Peace River
+
+
+Yellowhead
+
+
+*Province de Terre-Neuve*
+
+
+Bonavista-Trinity-Conception
+
+
+Burin-St. George’s
+
+
+Gander-Grand Falls
+
+
+Humber-St. Barbe-Baie Verte
+
+
+Labrador
+
+
+*Territoire du Yukon*
+
+
+Yukon
+
+
+*Territoires du Nord-Ouest*
+
+
+Western Arctic
+
+
+*Territoire du Nunavut*
+
+
+Nunavut
 
 
 
