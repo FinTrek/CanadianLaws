@@ -118,14 +118,14 @@ and this Act is enacted in accordance with and for the attainment of those objec
 - **(a)** in Ontario, the Superior Court of Justice,
 - **(b)** in Quebec, the Superior Court,
 - **(c)** in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
-- **(d)** in Nova Scotia, British Columbia, the Yukon Territory and the Northwest Territories, the Supreme Court,
+- **(d)** in Nova Scotia, British Columbia, Yukon and the Northwest Territories, the Supreme Court,
 - **(e)** in Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court, and
 - **(f)** in Nunavut, the Nunavut Court of Justice;
 
 ***temporary member*** means a temporary member of the Agency appointed under subsection 9(1);
 
 ***Vice-Chairperson*** means the Vice-Chairperson of the Agency.
-> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20.
+> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E).
 
 
 
