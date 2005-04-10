@@ -41,87 +41,69 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***authorization to carry*** means an authorization described in section 20;
 
-
-***authorization to export*** means an authorization referred to in section 44;
-
+***authorization to export*** means an authorization referred to in section 44 and includes a permit to export goods that is issued under the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) and that is deemed by regulations made under paragraph 117(a.1) to be an authorization to export;
 
 ***authorization to import*** means an authorization referred to in section 46;
 
-
-***authorization to transport*** means an authorization described in section 18 or 19;
-
+***authorization to transport*** means an authorization described in section 19;
 
 ***business*** means a person who carries on a business that includes
-
 - **(a)** the manufacture, assembly, possession, purchase, sale, importation, exportation, display, repair, restoration, maintenance, storage, alteration, pawnbroking, transportation, shipping, distribution or delivery of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition,
 - **(b)** the possession, purchase or sale of ammunition, or
 - **(c)** the purchase of cross-bows
 
 and includes a museum;
 
-***carrier*** means a person who carries on a transportation business that includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition or prohibited ammunition;
-
+***carrier*** means a person who carries on a transportation business that includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition;
 
 ***chief firearms officer*** means
-
 - **(a)** in respect of a province, the individual who is designated in writing as the chief firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, the individual who is designated in writing as the chief firearms officer for the territory by the federal Minister, or
 - **(c)** in respect of any matter for which there is no chief firearms officer under paragraph (a) or (b), the individual who is designated in writing as the chief firearms officer for the matter by the federal Minister;
 
 ***commencement day***, in respect of a provision of this Act or the expression “former Act” in a provision of this Act, means the day on which the provision comes into force;
 
-
 ***Commissioner*** means the Commissioner of Firearms appointed under section 81.1;
 
-
- 
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
 
-***customs office*** has the meaning assigned by subsection 2(1) of the 
-[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+***customs office*** has the meaning assigned by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 
-
-***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the 
-[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
-
+***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 
 ***federal Minister*** means the Minister of Public Safety and Emergency Preparedness;
 
 ***firearms officer*** means
-
 - **(a)** in respect of a province, an individual who is designated in writing as a firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, an individual who is designated in writing as a firearms officer for the territory by the federal Minister, or
 - **(c)** in respect of any matter for which there is no firearms officer under paragraph (a) or (b), an individual who is designated in writing as a firearms officer for the matter by the federal Minister;
 
-***former Act*** means Part III of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day;
-
+***former Act*** means Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day;
 
 ***museum*** means a person who operates a museum
-
 - **(a)** in which firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition are possessed, bought, displayed, repaired, restored, maintained, stored or altered, or
 - **(b)** in which ammunition is possessed or bought;
 
-***non-resident*** means an individual who ordinarily resides outside Canada;
-
+***non-resident*** means an individual who ordinarily resides outside Canada; 
 
 ***prescribed*** means
-
 - **(a)** in the case of a form or the information to be included on a form, prescribed by the federal Minister, and
 - **(b)** in any other case, prescribed by the regulations;
 
 ***provincial minister*** means
-
 - **(a)** in respect of a province, the member of the executive council of the province who is designated by the lieutenant governor in council of the province as the provincial minister,
 - **(b)** in respect of a territory, the federal Minister, or
 - **(c)** in respect of any matter for which there is no provincial minister under paragraph (a) or (b), the federal Minister;
 
 ***regulations*** means regulations made by the Governor in Council under section 117.
 
-
 **To be interpreted with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(2)** For greater certainty, unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Deemed references to Registrar**
+
+- **(2.1)** Sections 5, 9, 54 to 58, 67, 68 and 70 to 72 apply in respect of a carrier as if each reference in those sections to a chief firearms officer were a reference to the Registrar and for the purposes of applying section 6 in respect of a carrier, paragraph 113(3)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies as if the reference in that section to a chief firearms officer were a reference to the Registrar.
 
 **Aboriginal and treaty rights**
 
@@ -337,10 +319,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 
 
-
-**International and interprovincial carriers**
-
-**10** Sections 5, 6 and 9 apply in respect of a carrier whose business includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition from one province to any other province, or beyond the limits of a province, as if each reference in those sections to a chief firearms officer were a reference to the Registrar.
+**10** [Repealed, 2003, c. 8, s. 13]
 
 
 
@@ -388,32 +367,40 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 	- **(b)** on the commencement day held a registration certificate under the former Act for one or more automatic firearms that had been so altered; and
 	- **(c)** beginning on the commencement day was continuously the holder of a registration certificate for one or more automatic firearms that have been so altered.
 
-**Grandfathered individuals — *Prohibited Weapons Order, No. 12***
+**Grandfathered individuals — Prohibited Weapons Order, No. 12**
 
-- **(4)** An individual is eligible to hold a licence authorizing the individual to possess firearms that were declared to be prohibited weapons under the former Act by the *Prohibited Weapons Order, No. 12*, made by Order in Council P.C. 1992-1690 of July 23, 1992 and registered as SOR/92-471 and that, on October 1, 1992, either were registered as restricted weapons under the former Act or were the subject of an application for a registration certificate under the former Act if the individual
+- **(4)** An individual is eligible to hold a licence authorizing the individual to possess firearms that were declared to be prohibited weapons under the former Act by the Prohibited Weapons Order, No. 12, made by Order in Council P.C. 1992-1690 of July 23, 1992 and registered as SOR/92-471 and that, on October 1, 1992, either were registered as restricted weapons under the former Act or were the subject of an application for a registration certificate under the former Act if the individual
 	- **(a)** before July 27, 1992 possessed one or more firearms that were so declared;
 	- **(b)** on the commencement day held a registration certificate under the former Act for one or more firearms that were so declared; and
 	- **(c)** beginning on the commencement day was continuously the holder of a registration certificate for one or more firearms that were so declared.
 
-**Grandfathered individuals — *Prohibited Weapons Order, No. 13***
+**Grandfathered individuals — Prohibited Weapons Order, No. 13**
 
-- **(5)** An individual is eligible to hold a licence authorizing the individual to possess firearms that were declared to be prohibited weapons under the former Act by the *Prohibited Weapons Order, No. 13*, made by Order in Council P.C. 1994-1974 of November 29, 1994 and registered as SOR/94-741 and that, on January 1, 1995, either were registered as restricted weapons under the former Act or were the subject of an application for a registration certificate under the former Act if the individual
+- **(5)** An individual is eligible to hold a licence authorizing the individual to possess firearms that were declared to be prohibited weapons under the former Act by the Prohibited Weapons Order, No. 13, made by Order in Council P.C. 1994-1974 of November 29, 1994 and registered as SOR/94-741 and that, on January 1, 1995, either were registered as restricted weapons under the former Act or were the subject of an application for a registration certificate under the former Act if the individual
 	- **(a)** before January 1, 1995 possessed one or more firearms that were so declared;
 	- **(b)** on the commencement day held a registration certificate under the former Act for one or more firearms that were so declared; and
 	- **(c)** beginning on the commencement day was continuously the holder of a registration certificate for one or more firearms that were so declared.
 
-**Grandfathered individuals — pre-February 14, 1995 handguns**
+**Grandfathered individuals — pre-December 1, 1998 handguns**
 
-- **(6)** A particular individual is eligible to hold a licence authorizing the particular individual to possess handguns that have a barrel equal to or less than 105 mm in length or that are designed or adapted to discharge a 25 or 32 calibre cartridge and for which on February 14, 1995 a registration certificate under the former Act had been issued to or applied for by that or another individual if the particular individual
-	- **(a)** on February 14, 1995
-		- **(i)** held a registration certificate under the former Act for one or more of those handguns, or
-		- **(ii)** had applied for a registration certificate that was subsequently issued under the former Act for one or more of those handguns;
-	- **(b)** on the commencement day held a registration certificate under the former Act for one or more of those handguns; and
-	- **(c)** beginning on the commencement day was continuously the holder of a registration certificate for one or more of those handguns.
+- **(6)** A particular individual is eligible to hold a licence authorizing that particular individual to possess a handgun referred to in subsection (6.1) if
+	- **(a)** on December 1, 1998 the particular individual
+		- **(i)** held a registration certificate under the former Act for that kind of handgun, or
+		- **(ii)** had applied for a registration certificate that was subsequently issued for that kind of handgun; and
+	- **(b)** beginning on December 1, 1998 the particular individual was continuously the holder of a registration certificate for that kind of handgun.
 
-**Next of kin of grandfathered individuals — pre-February 14, 1995 handguns**
+**Grandfathered handguns — pre-December 1, 1998 handguns**
 
-- **(7)** A particular individual is eligible to hold a licence authorizing the particular individual to possess a particular handgun referred to in subsection (6) that was manufactured before 1946 if the particular individual is the spouse or common-law partner or a brother, sister, child or grandchild of an individual who was eligible under this or that subsection to hold a licence authorizing the individual to possess the particular handgun.
+- **(6.1)** Subsection (6) applies in respect of a handgun
+	- **(a)** that has a barrel equal to or less than 105 mm in length or that is designed or adapted to discharge a 25 or 32 calibre cartridge; and
+	- **(b)** in respect of which
+		- **(i)** on December 1, 1998 a registration certificate had been issued to an individual under the former Act,
+		- **(ii)** on December 1, 1998 a registration certificate had been applied for by an individual under the former Act, if the certificate was subsequently issued to the individual, or
+		- **(iii)** a record was sent before December 1, 1998 to the Commissioner of the Royal Canadian Mounted Police and received by that officer before, on or after that date.
+
+**Next of kin of grandfathered individuals**
+
+- **(7)** A particular individual is eligible to hold a licence authorizing the particular individual to possess a particular handgun referred to in subsection (6.1) that was manufactured before 1946 if the particular individual is the spouse or common-law partner or a brother, sister, child or grandchild of an individual who was eligible under this subsection or subsection (6) to hold a licence authorizing the individual to possess the particular handgun.
 
 **Grandfathered individuals — regulations re prohibited firearms**
 
@@ -423,7 +410,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 		- **(i)** the day on which that provision comes into force, or
 		- **(ii)** in the case of an individual who on that day did not hold but had applied for a registration certificate for one or more of those firearms, the day on which the registration certificate was issued
 was continuously the holder of a registration certificate for one or more of those firearms.
-> 1995, c. 39, s. 12; 2000, c. 12, s. 117
+> 1995, c. 39, s. 12; 2000, c. 12, s. 117; 2003, c. 8, s. 14
 
 
 
@@ -475,48 +462,50 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Places where prohibited and restricted firearms may be possessed**
 
-**17** Subject to sections 18 to 20, a prohibited firearm or restricted firearm the holder of the registration certificate for which is an individual may be possessed only at the dwelling-house of the individual, as indicated on the registration certificate, or at a place authorized by a chief firearms officer.
+**17** Subject to sections 19 and 20, a prohibited firearm or restricted firearm, the holder of the registration certificate for which is an individual, may be possessed only at the dwelling-house of the individual, as recorded in the Canadian Firearms Registry, or at a place authorized by a chief firearms officer.
+> 1995, c. 39, s. 17; 2003, c. 8, s. 15
 
 
 
 
-**Transporting and using prohibited firearms**
-
-**18** An individual who holds a licence authorizing the individual to possess prohibited firearms may be authorized to transport a particular prohibited firearm between two or more specified places
-- **(a)** in the case of a handgun referred to in subsection 12(6) (pre-February 14, 1995 handguns), for use in target practice, or a target shooting competition, under specified conditions or under the auspices of a shooting club or shooting range that is approved under section 29; or
-- **(b)** if the individual
-	- **(i)** changes residence,
-	- **(ii)** wishes to transport the firearm to a peace officer, firearms officer or chief firearms officer for registration or disposal in accordance with this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
-	- **(iii)** wishes to transport the firearm for repair, storage, sale, exportation or appraisal, or
-	- **(iv)** wishes to transport the firearm to a gun show.
+**18** [Repealed, 2003, c. 8, s. 15]
 
 
 
 
-**Transporting and using restricted firearms**
+**Transporting and using prohibited firearms or restricted firearms**
 
 **19** 
 
-- **(1)** An individual who holds a licence authorizing the individual to possess restricted firearms may be authorized to transport a particular restricted firearm between two or more specified places for any good and sufficient reason, including, without restricting the generality of the foregoing,
-	- **(a)** for use in target practice, or a target shooting competition, under specified conditions or under the auspices of a shooting club or shooting range that is approved under section 29; or
+- **(1)** An individual who holds a licence authorizing the individual to possess prohibited firearms or restricted firearms may be authorized to transport a particular prohibited firearm or restricted firearm between two or more specified places for any good and sufficient reason, including, without restricting the generality of the foregoing,
+	- **(a)** for use in target practice, or a target shooting competition, under specified conditions or under the auspices of a shooting club or shooting range that is approved under section 29;
+	- **(a.1)** to provide instructions in the use of firearms as part of a restricted firearms safety course that is approved by the federal Minister; or
 	- **(b)** if the individual
 		- **(i)** changes residence,
 		- **(ii)** wishes to transport the firearm to a peace officer, firearms officer or chief firearms officer for registration or disposal in accordance with this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(iii)** wishes to transport the firearm for repair, storage, sale, exportation or appraisal, or
 		- **(iv)** wishes to transport the firearm to a gun show.
 
+**Exception for prohibited firearms other than prohibited handguns**
+
+- **(2)** Notwithstanding subsection (1), an individual may not be authorized to transport a prohibited firearm, other than a handgun referred to in subsection 12(6.1), under that subsection, except for the purposes referred to in paragraph (1)(b).
+
 **Non-residents**
 
-- **(2)** A non-resident may be authorized to transport a particular restricted firearm between specified places in accordance with section 35.
+- **(3)** A non-resident may be authorized to transport a particular restricted firearm between specified places in accordance with sections 35 and 35.1.
+> 1995, c. 39, s. 19; 2003, c. 8, s. 16
+
 
 
 
 
 **Carrying restricted firearms and pre-February 14, 1995 handguns**
 
-**20** An individual who holds a licence authorizing the individual to possess restricted firearms or handguns referred to in subsection 12(6) (pre-February 14, 1995 handguns) may be authorized to possess a particular restricted firearm or handgun at a place other than the place at which it is authorized to be possessed if the individual needs the particular restricted firearm or handgun
+**20** An individual who holds a licence authorizing the individual to possess restricted firearms or handguns referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) may be authorized to possess a particular restricted firearm or handgun at a place other than the place at which it is authorized to be possessed if the individual needs the particular restricted firearm or handgun
 - **(a)** to protect the life of that individual or of other individuals; or
 - **(b)** for use in connection with his or her lawful profession or occupation.
+> 1995, c. 39, s. 20; 2003, c. 8, s. 56
+
 
 
 
@@ -551,14 +540,21 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Authorization to transfer firearms**
 
-**23** A person may transfer a firearm if, at the time of the transfer,
-- **(a)** the transferee produces to the person a document that purports to be a licence authorizing the transferee to acquire and possess that kind of firearm;
-- **(b)** the person
-	- **(i)** has no reason to believe that the transferee is not authorized by the document to acquire and possess that kind of firearm, and
-	- **(ii)** informs a chief firearms officer of the transfer and obtains the authorization of the chief firearms officer for the transfer;
-- **(c)** the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm;
-- **(d)** a new registration certificate for the firearm is issued in accordance with this Act; and
-- **(e)** the prescribed conditions are complied with.
+**23** 
+
+- **(1)** A person may transfer a firearm if, at the time of the transfer,
+	- **(a)** the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm;
+	- **(b)** the person has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm;
+	- **(c)** the person informs the Registrar of the transfer;
+	- **(d)** if the person is an individual and the firearm is a prohibited firearm or a restricted firearm, the individual informs a chief firearms officer of the transfer and obtains the authorization of the chief firearms officer for the transfer;
+	- **(e)** a new registration certificate for the firearm is issued in accordance with this Act; and
+	- **(f)** the prescribed conditions are complied with.
+
+**Notice**
+
+- **(2)** If, after being informed of a proposed transfer of a firearm, the Registrar decides to refuse to issue a registration certificate for the firearm, the Registrar shall inform a chief firearms officer of that decision.
+> 1995, c. 39, s. 23; 2003, c. 8, s. 17
+
 
 
 
@@ -573,11 +569,11 @@ was continuously the holder of a registration certificate for one or more of tho
 
 - **(2)** A person may transfer a prohibited weapon, prohibited device, ammunition or prohibited ammunition to a business only if
 	- **(a)** the business holds a licence authorizing the business to acquire and possess prohibited weapons, prohibited devices, ammunition or prohibited ammunition, as the case may be;
-	- **(b)** the business produces to the person a document that purports to be a licence authorizing the business to acquire and possess prohibited weapons, prohibited devices, ammunition or prohibited ammunition, as the case may be;
-	- **(c)** the person
-		- **(i)** has no reason to believe that the business is not authorized by the document to acquire and possess prohibited weapons, prohibited devices, ammunition or prohibited ammunition, as the case may be, and
-		- **(ii)** informs a chief firearms officer of the transfer and obtains the authorization of the chief firearms officer for the transfer; and
+	- **(b)** [Repealed, 2003, c. 8, s. 18]
+	- **(c)** the person has no reason to believe that the business is not authorized to acquire and possess prohibited weapons, prohibited devices, ammunition or prohibited ammunition, as the case may be; and
 	- **(d)** the prescribed conditions are complied with.
+> 1995, c. 39, s. 24; 2003, c. 8, s. 18
+
 
 
 
@@ -591,45 +587,48 @@ was continuously the holder of a registration certificate for one or more of tho
 
 
 
-**Authorization to transfer firearms to the Crown and to the police**
+**Authorization to transfer firearms to the Crown, etc.**
 
 **26** 
 
-- **(1)** A person may transfer a firearm to Her Majesty in right of Canada or a province or to a police force if the person informs the Registrar of the transfer and complies with the prescribed conditions.
+- **(1)** A person may transfer a firearm to Her Majesty in right of Canada or a province, to a police force or to a municipality if the person informs the Registrar of the transfer and complies with the prescribed conditions.
 
-**Authorization to transfer prohibited weapons, etc., to the Crown and to the police**
+**Authorization to transfer prohibited weapons, etc., to the Crown, etc.**
 
-- **(2)** A person may transfer a prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province or to a police force if the person informs a chief firearms officer of the transfer and complies with the prescribed conditions.
+- **(2)** A person may transfer a prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province, to a police force or to a municipality if the person informs a chief firearms officer of the transfer and complies with the prescribed conditions.
+> 1995, c. 39, s. 26; 2003, c. 8, s. 19
+
 
 
 
 
 **Chief firearms officer**
 
-**27** On being informed of a proposed transfer of a firearm under section 23, of a proposed transfer of a firearm, prohibited weapon, prohibited device, ammunition or prohibited ammunition to a business under section 24 or of a proposed importation of a firearm that is not a prohibited firearm by an individual under paragraph 40(1)(c), a chief firearms officer shall
+**27** On being informed of a proposed transfer of a prohibited firearm or restricted firearm under section 23, a chief firearms officer shall
 - **(a)** verify
 	- **(i)** whether the transferee or individual holds a licence,
 	- **(ii)** whether the transferee or individual is still eligible to hold that licence, and
 	- **(iii)** whether the licence authorizes the transferee or individual to acquire that kind of firearm or to acquire prohibited weapons, prohibited devices, ammunition or prohibited ammunition, as the case may be;
-- **(b)** in the case of
-	- **(i)** a proposed transfer of a restricted firearm or a handgun referred to in subsection 12(6) (pre-February 14, 1995 handguns), or
-	- **(ii)** a proposed importation of a restricted firearm,
-verify the purpose for which the transferee or individual wishes to acquire the restricted firearm or handgun and determine whether the particular restricted firearm or handgun is appropriate for that purpose;
-- **(c)** decide whether to approve the transfer or importation and inform the Registrar of that decision; and
+- **(b)** in the case of a proposed transfer of a restricted firearm or a handgun referred to in subsection 12(6.1) (pre-December 1, 1998 handguns), verify the purpose for which the transferee or individual wishes to acquire the restricted firearm or handgun and determine whether the particular restricted firearm or handgun is appropriate for that purpose;
+- **(c)** decide whether to approve the transfer and inform the Registrar of that decision; and
 - **(d)** take the prescribed measures.
+> 1995, c. 39, s. 27; 2003, c. 8, s. 20
+
 
 
 
 
 **Permitted purposes**
 
-**28** A chief firearms officer may approve the transfer to an individual of a restricted firearm or a handgun referred to in subsection 12(6) (pre-February 14, 1995 handguns) or the importation by an individual of a restricted firearm under paragraph 40(1)(c) only if the chief firearms officer is satisfied
+**28** A chief firearms officer may approve the transfer to an individual of a restricted firearm or a handgun referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) only if the chief firearms officer is satisfied
 - **(a)** that the individual needs the restricted firearm or handgun
 	- **(i)** to protect the life of that individual or of other individuals, or
 	- **(ii)** for use in connection with his or her lawful profession or occupation; or
 - **(b)** that the purpose for which the individual wishes to acquire the restricted firearm or handgun is
 	- **(i)** for use in target practice, or a target shooting competition, under conditions specified in an authorization to transport or under the auspices of a shooting club or shooting range that is approved under section 29, or
 	- **(ii)** to form part of a gun collection of the individual, in the case of an individual who satisfies the criteria described in section 30.
+> 1995, c. 39, s. 28; 2003, c. 8, s. 21
+
 
 
 
@@ -723,11 +722,13 @@ verify the purpose for which the transferee or individual wishes to acquire the 
 
 
 
-**Authorization to lend firearms, etc., to the Crown and to the police**
+**Authorization to lend firearms, etc., to the Crown, etc.**
 
-**34** A person may lend a firearm, prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province or to a police force if
+**34** A person may lend a firearm, prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province, to a police force or to a municipality if
 - **(a)** in the case of a firearm, the transferor lends the borrower the registration certificate for the firearm; and
 - **(b)** the prescribed conditions are complied with.
+> 1995, c. 39, s. 34; 2003, c. 8, s. 25
+
 
 
 
@@ -1020,7 +1021,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **54** 
 
-- **(1)** A licence, registration certificate or authorization may be issued only on application made in the prescribed form containing the prescribed information and accompanied by payment of the prescribed fees.
+- **(1)** A licence, registration certificate or authorization may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
 
 **To whom made**
 
@@ -1030,9 +1031,11 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Pre-commencement restricted firearms and handguns**
 
-- **(3)** An individual who, on the commencement day, possesses one or more restricted firearms or one or more handguns referred to in subsection 12(6) (pre-February 14, 1995 handguns) must specify, in any application for a licence authorizing the individual to possess restricted firearms or handguns that are so referred to,
+- **(3)** An individual who, on the commencement day, possesses one or more restricted firearms or one or more handguns referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) must specify, in any application for a licence authorizing the individual to possess restricted firearms or handguns that are so referred to,
 	- **(a)** except in the case of a firearm described in paragraph (b), for which purpose described in section 28 the individual wishes to continue to possess restricted firearms or handguns that are so referred to; and
 	- **(b)** for which of those firearms was a registration certificate under the former Act issued because they were relics, were of value as a curiosity or rarity or were valued as a memento, remembrance or souvenir.
+> 1995, c. 39, s. 54; 2003, c. 8, ss. 36, 56
+
 
 
 
@@ -1115,11 +1118,11 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **61** 
 
-- **(1)** A licence or registration certificate must be in the prescribed form and include the prescribed information and any conditions attached to it.
+- **(1)** A licence or registration certificate must be issued in the prescribed form — which form may be in writing or electronic — or in the prescribed manner, and include the prescribed information, including any conditions attached to it.
 
 **Form of authorizations**
 
-- **(2)** An authorization to carry, authorization to transport, authorization to export or authorization to import may be in the prescribed form and include the prescribed information, including any conditions attached to it.
+- **(2)** An authorization to carry, authorization to transport, authorization to export or authorization to import may be issued in the prescribed form — which form may be in writing or electronic — or in the prescribed manner, and include the prescribed information, including any conditions attached to it.
 
 **Condition attached to licence**
 
@@ -1128,6 +1131,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Businesses**
 
 - **(4)** A licence that is issued to a business must specify each particular activity that the licence authorizes in relation to prohibited firearms, restricted firearms, firearms that are neither prohibited firearms nor restricted firearms, cross-bows, prohibited weapons, restricted weapons, prohibited devices, ammunition or prohibited ammunition.
+> 1995, c. 39, s. 61; 2003, c. 8, s. 38
+
 
 
 
@@ -1143,15 +1148,15 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **63** 
 
-- **(1)** Subject to subsection (2), licences, registration certificates, authorizations to transport, authorizations to export and authorizations to import are valid throughout Canada.
+- **(1)** Licences, registration certificates, authorizations to transport, authorizations to export and authorizations to import are valid throughout Canada.
 
-**Intraprovincial carriers**
-
-- **(2)** A licence that is issued to carrier, other than a carrier described in section 73, is not valid outside the province in which it is issued.
+- **(2)** [Repealed, 2003, c. 8, s. 39]
 
 **Authorizations to carry**
 
 - **(3)** Authorizations to carry are not valid outside the province in which they are issued.
+> 1995, c. 39, s. 63; 2003, c. 8, s. 39
+
 
 
 
@@ -1178,17 +1183,23 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 	- **(a)** the day on which the holder attains the age of eighteen years, and
 	- **(b)** the expiration of the period for which it is expressed to be issued.
 
-**Businesses other than museums**
+**Businesses**
 
-- **(3)** A licence that is issued to a business other than a museum expires on the earlier of
-	- **(a)** one year after the day on which it is issued, and
-	- **(b)** the expiration of the period for which it is expressed to be issued.
-
-**Museums**
-
-- **(4)** A licence that is issued to a museum expires on the earlier of
+- **(3)** A licence that is issued to a business other than a business referred to in subsection (4) expires on the earlier of
 	- **(a)** three years after the day on which it is issued, and
 	- **(b)** the expiration of the period for which it is expressed to be issued.
+
+**Businesses that sell only ammunition**
+
+- **(4)** A licence that is issued to a business that sells ammunition but is not authorized to possess firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition expires on the earlier of
+	- **(a)** five years after the day on which it is issued, and
+	- **(b)** the expiration of the period for which it is expressed to be issued.
+
+- **(5) and (6)** [Not in force]
+
+**Notice to holder**
+
+- **(7)** The chief firearms officer shall give notice of every extension under this section to the holder of the licence.
 > 1995, c. 39, s. 64; 2003, c. 8, s. 40
 
 
@@ -1209,11 +1220,9 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Authorizations to transport**
 
-- **(3)** An authorization to transport a restricted firearm or a handgun referred to in subsection 12(6) (pre-February 14, 1995 handguns) for use in target practice, or a target shooting competition, under specified conditions or under the auspices of a shooting club or shooting range that is approved under section 29 expires
-	- **(a)** in the case of an authorization to transport that takes the form of a condition attached to a licence, on the earlier of
-		- **(i)** the expiration of the period for which the condition is expressed to be attached, which period may not be less than one year or more than three years, and
-		- **(ii)** the expiration of the licence; and
-	- **(b)** in the case of an authorization to transport that does not take the form of a condition attached to a licence, on the expiration of the period for which the authorization is expressed to be issued, which period may not be less than one year or more than three years.
+- **(3)** An authorization to transport a prohibited firearm, except for an automatic firearm, or a restricted firearm for use in target practice, or a target shooting competition, under specified conditions or under the auspices of a shooting club or shooting range that is approved under section 29, whether or not the authorization takes the form of a condition attached to the licence of the holder of the authorization, expires on the earlier of
+	- **(a)** the expiration of the period for which the authorization is expressed to be issued, which period may be no more than five years, and
+	- **(b)** the expiration of the licence.
 
 **Authorizations to carry**
 
@@ -1222,6 +1231,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 		- **(i)** the expiration of the period for which the condition is expressed to be attached, which period may not be more than two years, and
 		- **(ii)** the expiration of the licence; and
 	- **(b)** in the case of an authorization to carry that does not take the form of a condition attached to a licence, on the expiration of the period for which the authorization is expressed to be issued, which period may not be more than two years.
+> 1995, c. 39, s. 65; 2003, c. 8, s. 41
+
 
 
 
@@ -1239,17 +1250,15 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **67** 
 
-- **(1)** A chief firearms officer may renew a licence, authorization to carry or authorization to transport in the same manner and in the same circumstances in which a licence, authorization to carry or authorization to transport may be issued.
+- **(1)** A chief firearms officer may renew a licence, authorization to carry or authorization to transport in the prescribed manner.
 
-**Restricted firearms and pre-February 14, 1995 handguns**
+**Restricted firearms and pre-December 1, 1998 handguns**
 
-- **(2)** On renewing a licence authorizing an individual to possess restricted firearms or handguns referred to in subsection 12(6) (pre-February 14, 1995 handguns), a chief firearms officer shall decide whether any of those firearms or handguns that the individual possesses are being used for
-	- **(a)** the purpose described in section 28 for which the individual acquired the restricted firearms or handguns; or
-	- **(b)** in the case of any of those firearms or handguns that were possessed by the individual on the commencement day, the purpose described in that section that was specified by the individual in the licence application.
+- **(2)** On renewing a licence authorizing an individual to possess restricted firearms or handguns referred to in subsection 12(6.1) (pre-December 1, 1998 handguns), a chief firearms officer shall decide whether any of those firearms or handguns that the individual possesses are being used for a purpose described in section 28.
 
 **Registrar**
 
-- **(3)** A chief firearms officer who decides that any restricted firearms or any handguns referred to in subsection 12(6) (pre-February 14, 1995 handguns) that are possessed by an individual are not being used for that purpose shall
+- **(3)** A chief firearms officer who decides that any restricted firearms or any handguns referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) that are possessed by an individual are not being used for that purpose shall
 	- **(a)** give notice of that decision in the prescribed form to the individual; and
 	- **(b)** inform the Registrar of that decision.
 
@@ -1264,6 +1273,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Material to accompany notice**
 
 - **(5)** A notice given under paragraph (3)(a) must include the reasons for the decision and be accompanied by a copy of sections 74 to 81.
+> 1995, c. 39, s. 67; 2003, c. 8, ss. 42, 56
+
 
 
 
@@ -1312,13 +1323,13 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 - **(1)** The Registrar
 	- **(a)** may revoke a registration certificate for any good and sufficient reason; and
-	- **(b)** shall revoke a registration certificate for a firearm held by an individual where the Registrar is informed by a chief firearms officer under section 67 that the firearm is not being used for
-		- **(i)** the purpose for which the individual acquired it, or
-		- **(ii)** in the case of a firearm possessed by the individual on the commencement day, the purpose specified by the individual in the licence application.
+	- **(b)** shall revoke a registration certificate for a firearm held by an individual where the Registrar is informed by a chief firearms officer under section 67 that the firearm is not being used for a purpose described in section 28.
 
 **Automatic revocation of registration certificate**
 
 - **(2)** A registration certificate for a prohibited firearm referred to in subsection 12(3) (pre-August 1, 1992 converted automatic firearms) is automatically revoked on the change of any alteration in the prohibited firearm that was described in the application for the registration certificate.
+> 1995, c. 39, s. 71; 2003, c. 8, s. 44
+
 
 
 
@@ -1327,7 +1338,13 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **72** 
 
-- **(1)** Where a chief firearms officer decides to refuse to issue or to revoke a licence or authorization to transport or the Registrar decides to refuse to issue or to revoke a registration certificate, authorization to export or authorization to import, the chief firearms officer or Registrar shall give notice of the decision in the prescribed form to the applicant for or holder of the licence, registration certificate or authorization.
+- **(1)** Subject to subsection (1.1), if a chief firearms officer decides to refuse to issue or to revoke a licence or authorization to transport or the Registrar decides to refuse to issue or to revoke a registration certificate, authorization to export or authorization to import, the chief firearms officer or Registrar shall give notice of the decision in the prescribed form to the applicant for or holder of the licence, registration certificate or authorization.
+
+**When notice not required**
+
+- **(1.1)** Notice under subsection (1) need not be given in any of the following circumstances:
+	- **(a)** if the holder has requested that the licence, registration certificate or authorization be revoked; or
+	- **(b)** if the revocation is incidental to the issuance of a new licence, registration certificate or authorization.
 
 **Material to accompany notice**
 
@@ -1348,17 +1365,12 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Reference**
 
 - **(6)** If the applicant for or holder of the licence or registration certificate refers the refusal to issue it or revocation of it to a provincial court judge under section 74, the reasonable period of time does not begin until after the reference is finally disposed of.
+> 1995, c. 39, s. 72; 2003, c. 8, s. 45
 
 
 
 
-### International and Interprovincial Carriers
-
-
-
-**Application**
-
-**73** Sections 54 to 72 apply in respect of a carrier whose business includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition from one province to any other province, or beyond the limits of a province, as if each reference in those sections to a chief firearms officer were a reference to the Registrar.
+**73** [Repealed, 2003, c. 8, s. 46]
 
 
 
@@ -1373,15 +1385,15 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 - **(1)** Subject to subsection (2), where
 	- **(a)** a chief firearms officer or the Registrar refuses to issue or revokes a licence, registration certificate, authorization to transport, authorization to export or authorization to import,
-	- **(b)** a chief firearms officer decides under section 67 that a firearm possessed by an individual who holds a licence is not being used for
-		- **(i)** the purpose for which the individual acquired the firearm, or
-		- **(ii)** in the case of a firearm possessed by an individual on the commencement day, the purpose specified by the individual in the licence application, or
+	- **(b)** a chief firearms officer decides under section 67 that a firearm possessed by an individual who holds a licence is not being used for a purpose described in section 28, or
 	- **(c)** a provincial minister refuses to approve or revokes the approval of a shooting club or shooting range for the purposes of this Act,
 the applicant for or holder of the licence, registration certificate, authorization or approval may refer the matter to a provincial court judge in the territorial division in which the applicant or holder resides.
 
 **Limitation period**
 
 - **(2)** An applicant or holder may only refer a matter to a provincial court judge under subsection (1) within thirty days after receiving notice of the decision of the chief firearms officer, Registrar or provincial minister under section 29, 67 or 72 or within such further time as is allowed by a provincial court judge, whether before or after the expiration of those thirty days.
+> 1995, c. 39, s. 74; 2003, c. 8, s. 47
+
 
 
 
@@ -2051,6 +2063,7 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 
 **117** The Governor in Council may make regulations
 - **(a)** regulating the issuance of licences, registration certificates and authorizations, including regulations respecting the purposes for which they may be issued under any provision of this Act and prescribing the circumstances in which persons are or are not eligible to hold licences;
+- **(a.1)** deeming permits to export goods, or classes of permits to export goods, that are issued under the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) to be authorizations to export for the purposes of this Act;
 - **(b)** regulating the revocation of licences, registration certificates and authorizations;
 - **(c)** prescribing the circumstances in which an individual does or does not need firearms
 	- **(i)** to protect the life of that individual or of other individuals, or
@@ -2069,10 +2082,12 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 	- **(ii)** components or parts of prohibited firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
 - **(j)** regulating the possession and use of restricted weapons;
 - **(k)** for authorizing
-	- **(i)** the possession at any place,
-	- **(ii)** the manufacture or transfer, whether or not for consideration, or offer to manufacture or transfer, whether or not for consideration, or
-	- **(iii)** the importation or exportation
-of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition and components and parts designed exclusively for use in the manufacture of or assembly into automatic firearms;
+	- **(i)** the possession at any place, or
+	- **(ii)** the manufacture or transfer, whether or not for consideration, or offer to manufacture or transfer, whether or not for consideration,
+of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition and components and parts designed exclusively for use in the manufacture of or assembly into firearms;
+- **(k.1)** respecting the importation or exportation of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition and components and parts designed exclusively for use in the manufacture of or assembly into firearms;
+- **(k.2)** respecting the marking of firearms manufactured in Canada or imported into Canada and the removal, alteration, obliteration and defacing of those markings;
+- **(k.3)** respecting the confirmation of declarations and authorizations to transport for the purposes of paragraph 35(1)(d), the confirmation of declarations for the purposes of paragraph 35.1(2)(d) and the confirmation of authorizations to import for the purposes of paragraph 40(2)(e);
 - **(l)** regulating the storage, handling, transportation, shipping, acquisition, possession, transfer, exportation, importation, use and disposal or disposition of firearms, prohibited weapons, restricted weapons, prohibited devices, prohibited ammunition and explosive substances
 	- **(i)** by the following persons in the course of their duties or for the purposes of their employment, namely,
 		- **(A)** peace officers,
@@ -2082,7 +2097,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(ii)** by individuals on behalf of, and under the authority of, a police force or a department of the Government of Canada or of a province;
 - **(m)** regulating the keeping and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
 - **(n)** regulating the keeping and destruction of records by businesses in relation to ammunition;
-- **(o)** creating offences consisting of contraventions of the regulations made under paragraph (d), (e), (f), (g), (i), (j), (l), (m) or (n);
+- **(o)** creating offences consisting of contraventions of the regulations made under paragraph (d), (e), (f), (g), (i), (j), (k.1), (k.2), (l), (m) or (n);
 - **(p)** prescribing the fees that are to be paid to Her Majesty in right of Canada for licences, registration certificates, authorizations, approvals of transfers and importations of firearms and confirmations by customs officers of documents under this Act;
 - **(q)** waiving or reducing the fees payable under paragraph (p) in such circumstances as may be specified in the regulations;
 - **(r)** prescribing the charges that are to be paid to Her Majesty in right of Canada in respect of costs incurred by Her Majesty in right of Canada in storing goods that are detained by customs officers or in disposing of goods;
@@ -2094,15 +2109,15 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(iv)** the time and date when they are deemed to be received;
 - **(u)** respecting the manner in which any provision of this Act or the regulations applies to any of the aboriginal peoples of Canada, and adapting any such provision for the purposes of that application;
 - **(v)** repealing
-	- **(i)** section 4 of the *Cartridge Magazine Control Regulations*, made by Order in Council P.C. 1992-1660 of July 16, 1992 and registered as SOR/92-460, and the heading before it,
-	- **(ii)** the *Designated Areas Firearms Order*, C.R.C., chapter 430,
-	- **(iii)** section 4 of the *Firearms Acquisition Certificate Regulations*, made by Order in Council P.C. 1992-1663 of July 16, 1992 and registered as SOR/92-461, and the heading before it,
-	- **(iv)** section 7 of the *Genuine Gun Collector Regulations*, made by Order in Council P.C. 1992-1661 of July 16, 1992 and registered as SOR/92-435, and the heading before it,
-	- **(v)** sections 8 and 13 of the *Prohibited Weapons Control Regulations*, made by Order in Council P.C. 1991-1925 of October 3, 1991 and registered as SOR/91-572, and the headings before them,
-	- **(vi)** the *Restricted Weapon Registration Certificate for Classes of Persons other than Individuals Regulations*, made by Order in Council P.C. 1993-766 of April 20, 1993 and registered as SOR/93-200, and
-	- **(vii)** sections 7, 15 and 17 of the *Restricted Weapons and Firearms Control Regulations*, made by Order in Council P.C. 1978-2572 of August 16, 1978 and registered as SOR/78-670, and the headings before them; and
+	- **(i)** section 4 of the Cartridge Magazine Control Regulations, made by Order in Council P.C. 1992-1660 of July 16, 1992 and registered as SOR/92-460, and the heading before it,
+	- **(ii)** the [Designated Areas Firearms Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20430.md), C.R.C., chapter 430,
+	- **(iii)** section 4 of the Firearms Acquisition Certificate Regulations, made by Order in Council P.C. 1992-1663 of July 16, 1992 and registered as SOR/92-461, and the heading before it,
+	- **(iv)** section 7 of the Genuine Gun Collector Regulations, made by Order in Council P.C. 1992-1661 of July 16, 1992 and registered as SOR/92-435, and the heading before it,
+	- **(v)** sections 8 and 13 of the Prohibited Weapons Control Regulations, made by Order in Council P.C. 1991-1925 of October 3, 1991 and registered as SOR/91-572, and the headings before them,
+	- **(vi)** the Restricted Weapon Registration Certificate for Classes of Persons other than Individuals Regulations, made by Order in Council P.C. 1993-766 of April 20, 1993 and registered as SOR/93-200, and
+	- **(vii)** sections 7, 15 and 17 of the Restricted Weapons and Firearms Control Regulations, made by Order in Council P.C. 1978-2572 of August 16, 1978 and registered as SOR/78-670, and the headings before them; and
 - **(w)** prescribing anything that by any provision of this Act is to be prescribed by regulation.
-> 1995, c. 39, s. 117; 2003, c. 22, s. 224(E)
+> 1995, c. 39, s. 117; 2003, c. 8, s. 54, c. 22, s. 224(E)
 
 
 
@@ -2188,7 +2203,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 - **(2)** A firearms acquisition certificate that is deemed to be a licence authorizes the holder
 	- **(a)** to acquire and possess any firearms other than prohibited firearms that are acquired by the holder on or after the commencement day and before the expiration or revocation of the firearms acquisition certificate;
 	- **(b)** in the case of an individual referred to in subsection 12(2), (3), (4), (5), (6) or (8), to acquire and possess any prohibited firearms referred to in that subsection that are acquired by the holder on or after the commencement day; and
-	- **(c)** in the case of a particular individual who is eligible under subsection 12(7) to hold a licence authorizing the particular individual to possess a handgun referred to in subsection 12(6) (pre-February 14, 1995 handguns) in the circumstances described in subsection 12(7), to acquire and possess such a handgun in those circumstances, if the particular handgun is acquired by the particular individual on or after the commencement day.
+	- **(c)** in the case of a particular individual who is eligible under subsection 12(7) to hold a licence authorizing the particular individual to possess a handgun referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) in the circumstances described in subsection 12(7), to acquire and possess such a handgun in those circumstances, if the particular handgun is acquired by the particular individual on or after the commencement day.
 
 **Expiration**
 
@@ -2199,6 +2214,8 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 **Lost, stolen and destroyed firearms acquisition certificates**
 
 - **(4)** Where a firearms acquisition certificate that is deemed to be a licence is lost, stolen or destroyed before its expiration under subsection (3), a person who has authority under this Act to issue a licence may issue a replacement firearms acquisition certificate that has the same effect as the one that was lost, stolen or destroyed.
+> 1995, c. 39, s. 120; 2003, c. 8, s. 56
+
 
 
 
@@ -2484,7 +2501,7 @@ continues in force until the expiration of the period for which it was expressed
 
 **Coming into force**
 
-<sup><a href='#fn_IndAA33_hq_16778'>[*]</a></sup>**193** 
+<sup><a href='#fn_Ind99EC_hq_16775'>[*]</a></sup>**193** 
 
 - **(1)** Subject to subsection (2), this Act or any of its provisions or any provision of any other Act enacted or amended by this Act, other than sections 136, 137 and 174, shall come into force on a day or days to be fixed by order of the Governor in Council.
 
@@ -2492,6 +2509,6 @@ continues in force until the expiration of the period for which it was expressed
 
 - **(2)** If no order bringing this Act or any of its provisions or any provision of any other Act enacted or amended by this Act is made before January 1, 2003, this Act, other than sections 136, 137 and 174, comes into force on that date.
 
-<a name='fn_IndAA33_hq_16778'><sup>*</sup></a>: [Note: Section 85, as enacted by section 139, and sections 141 to 150 in force January 1, 1996, *see* SI/96-2; sections 118 and 119 in force April 30, 1996, *see* SI/96-39; section 95 in force December 18, 1997, *see* SI/98-2; sections 1, 2 and 117 in force February 25, 1998, *see* SI/98-35; sections 3 and 4, subsections 5(1) and (2), section 6, subsections 7(1) to (3), paragraphs 7(4)(a) to (d), subsection 7(5), sections 8 to 23, subsection 24(1), paragraphs 24(2)(a) and (b), sections 25 to 28, subsections 29(2) to (7), sections 30 and 31, paragraphs 32(a) and (c), sections 33 and 34, subsection 35(1) before paragraph (a), paragraph 35(1)(a) of the English version before subparagraph (i), subparagraphs 35(1)(a)(i) and (iii) of the English version, paragraphs 35(1)(a) and (c) of the French version, sections 54 to 94, 96, 98 to 116, 120 to 135 and 138, sections 84, 86 to 96 and 98 to 117.15, as enacted by section 139, and sections 140, 151 to 168, 170 to 173 and 175 to 193 in force December 1, 1998, *see* SI/98-93, 95; section 97 in force December 3, 1998, *see* SI/98-129; subsection 5(3), paragraph 7(4)(e), those portions of subsection 35(1) that are not yet in force, subsections 35(2) to (4) and section 36 in force January 1, 2001,  *see* SI/2001-4; subsection 29(1) in force January 1, 2003, *see* SI/2002-161.]<br />
+<a name='fn_Ind99EC_hq_16775'><sup>*</sup></a>: [Note: Section 85, as enacted by section 139, and sections 141 to 150 in force January 1, 1996, *see* SI/96-2; sections 118 and 119 in force April 30, 1996, *see* SI/96-39; section 95 in force December 18, 1997, *see* SI/98-2; sections 1, 2 and 117 in force February 25, 1998, *see* SI/98-35; sections 3 and 4, subsections 5(1) and (2), section 6, subsections 7(1) to (3), paragraphs 7(4)(a) to (d), subsection 7(5), sections 8 to 23, subsection 24(1), paragraphs 24(2)(a) and (b), sections 25 to 28, subsections 29(2) to (7), sections 30 and 31, paragraphs 32(a) and (c), sections 33 and 34, subsection 35(1) before paragraph (a), paragraph 35(1)(a) of the English version before subparagraph (i), subparagraphs 35(1)(a)(i) and (iii) of the English version, paragraphs 35(1)(a) and (c) of the French version, sections 54 to 94, 96, 98 to 116, 120 to 135 and 138, sections 84, 86 to 96 and 98 to 117.15, as enacted by section 139, and sections 140, 151 to 168, 170 to 173 and 175 to 193 in force December 1, 1998, *see* SI/98-93, 95; section 97 in force December 3, 1998, *see* SI/98-129; subsection 5(3), paragraph 7(4)(e), those portions of subsection 35(1) that are not yet in force, subsections 35(2) to (4) and section 36 in force January 1, 2001, *see* SI/2001-4; subsection 29(1) in force January 1, 2003, *see* SI/2002-161; paragraph 24(2)(c), as enacted by 2003, c.8, s.18, in force April 10, 2005, *see* SI/2005-27.]<br />
 
 
