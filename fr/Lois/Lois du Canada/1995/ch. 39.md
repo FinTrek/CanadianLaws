@@ -39,67 +39,71 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). 
+***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
-***autorisation de port*** L’autorisation prévue à l’article 20. 
+***autorisation de port*** L’autorisation prévue à l’article 20.
 
-***autorisation de transport*** L’autorisation prévue aux articles 18 ou 19. 
+***autorisation de transport*** L’autorisation prévue à l’article 19.
 
-***autorisation d’exportation*** L’autorisation prévue à l’article 44. 
+***autorisation d’exportation*** L’autorisation prévue à l’article 44, y compris la licence pour l’exportation de marchandises qui est délivrée en vertu de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) et qui est réputée être une autorisation d’exportation aux termes des règlements pris en vertu de l’alinéa 117a.1).
 
-***autorisation d’importation*** L’autorisation prévue à l’article 46. 
+***autorisation d’importation*** L’autorisation prévue à l’article 46.
 
-***bureau de douane*** S’entend au sens du paragraphe 2(1) de la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). 
+***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
-***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1. 
+***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1.
 
 ***conjoint de fait*** La personne qui vit avec une autre dans une relation conjugale depuis au moins un an.
 
 ***contrôleur des armes à feu***
-- **a) ** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
-- **b) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas  a) ou  b).
+- **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
+- **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
+- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas a) ou b).
 
-***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition. 
+***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition.
 
-***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment : 
-- **a) ** de fabrication, d’assemblage, de possession, d’achat, de vente, d’importation, d’exportation, d’exposition, de réparation, de restauration, d’entretien, d’entreposage, de modification, de prêt sur gages, de transport, d’expédition, de distribution ou de livraison d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
-- **b) ** de possession, d’achat ou de vente de munitions;
-- **c) ** d’achat d’arbalètes.
+***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment :
+- **a)** de fabrication, d’assemblage, de possession, d’achat, de vente, d’importation, d’exportation, d’exposition, de réparation, de restauration, d’entretien, d’entreposage, de modification, de prêt sur gages, de transport, d’expédition, de distribution ou de livraison d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
+- **b)** de possession, d’achat ou de vente de munitions;
+- **c)** d’achat d’arbalètes.
 
 Sont visés par la présente définition les musées.
 
-***loi antérieure*** La partie III du  [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence. 
+***loi antérieure*** La partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence.
 
 ***ministre fédéral*** Le ministre de la Sécurité publique et de la Protection civile.
 
 ***ministre provincial***
-- **a) ** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
-- **b) ** le ministre fédéral en ce qui concerne les territoires;
-- **c) ** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir.
+- **a)** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
+- **b)** le ministre fédéral en ce qui concerne les territoires;
+- **c)** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir.
 
-***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions. 
+***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions.
 
-***non-résident*** Particulier qui réside habituellement à l’étranger. 
+***non-résident*** Particulier qui réside habituellement à l’étranger.
 
 ***préposé aux armes à feu***
-- **a) ** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
-- **b) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c) ** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas  a) ou  b).
+- **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
+- **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
+- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas a) ou b).
 
-***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas. 
+***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas.
 
-***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil. 
+***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil.
 
-***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées. 
+***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées.
 
 **[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
 - **(2)** Sauf disposition contraire, les termes employés dans la présente loi s’entendent au sens des articles 2 ou 84 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
+**Mention du directeur**
+
+- **(2.1)** Les articles 5, 9, 54 à 58, 67, 68 et 70 à 72 s’appliquent aux transporteurs et, à cette fin, la mention du contrôleur des armes à feu vaut mention du directeur; pour que l’article 6 s’applique également aux transporteurs, la mention du contrôleur des armes à feu à l’alinéa 113(3)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) vaut mention du directeur.
+
 **Droits des autochtones**
 
-- **(3)** Il est entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la *Loi constitutionnelle de 1982*.
+- **(3)** Il est entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la Loi constitutionnelle de 1982.
 > 1995, ch. 39, art. 2; 2000, ch. 12, art. 116; 2001, ch. 4, art. 85; 2003, ch. 8, art. 9; 2005, ch. 10, art. 29
 
 
@@ -318,10 +322,7 @@ Sont visés par la présente définition les musées.
 
 
 
-
-**Transporteurs internationaux et interprovinciaux**
-
-**10** Les articles 5, 6 et 9 s’appliquent aux transporteurs se livrant à des activités notamment de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées reliant une province et une ou plusieurs autres provinces, ou débordant les limites d’une province, et, à cette fin, la mention du contrôleur des armes à feu vaut mention du directeur.
+**10** [Abrogé, 2003, ch. 8, art. 13]
 
 
 
@@ -347,59 +348,67 @@ Sont visés par la présente définition les musées.
 
 
 
-**Armes à feu prohibées : particuliers**
+**Armes à feu prohibées : particuliers**
 
 **12** 
 
 - **(1)** Le particulier admissible au permis ne peut devenir titulaire d’un permis de possession d’armes à feu prohibées qu’aux conditions énoncées au présent article.
 
-**Particuliers avec droits acquis : armes automatiques (1<sup>er</sup> janvier 1978)**
+**Particuliers avec droits acquis : armes automatiques (1<sup>er</sup> janvier 1978)**
 
-- **(2)** Est admissible au permis autorisant la possession des armes automatiques qui étaient, à la date de référence, enregistrées comme armes à autorisation restreinte sous le régime de la loi antérieure le particulier qui :
+- **(2)** Est admissible au permis autorisant la possession des armes automatiques qui étaient, à la date de référence, enregistrées comme armes à autorisation restreinte sous le régime de la loi antérieure le particulier qui :
 	- **a)** le 1<sup>er</sup> janvier 1978, en possédait une ou plusieurs;
 	- **b)** était, à la date de référence, titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour de telles armes;
 	- **c)** à compter de la date de référence, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes.
 
-**Particuliers avec droits acquis : armes automatiques modifiées (1<sup>er</sup> août 1992)**
+**Particuliers avec droits acquis : armes automatiques modifiées (1<sup>er</sup> août 1992)**
 
-- **(3)** Est admissible au permis autorisant la possession des armes automatiques — modifiées pour ne tirer qu’un seul projectile à chaque pression de la détente qui étaient, à la date de référence, enregistrées comme des armes à autorisation restreinte sous le régime de la loi antérieure — le particulier qui :
+- **(3)** Est admissible au permis autorisant la possession des armes automatiques — modifiées pour ne tirer qu’un seul projectile à chaque pression de la détente qui étaient, à la date de référence, enregistrées comme des armes à autorisation restreinte sous le régime de la loi antérieure — le particulier qui :
 	- **a)** le 1<sup>er</sup> août 1992, en possédait une ou plusieurs pour lesquelles il était, au 1<sup>er</sup> octobre 1992, titulaire ou demandeur d’un certificat d’enregistrement prévu par la loi antérieure;
 	- **b)** était, à la date de référence, titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour de telles armes;
 	- **c)** à compter de la date de référence, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes.
 
-**Particuliers avec droits acquis : *Décret no 12 sur les armes prohibées***
+**Particuliers avec droits acquis : Décret no 12 sur les armes prohibées**
 
-- **(4)** Est admissible au permis autorisant la possession d’armes à feu — déclarées armes prohibées sous le régime de la loi antérieure par le *Décret no 12 sur les armes prohibées*, pris par le décret C.P. 1992-1690 du 23 juillet 1992 portant le numéro d’enregistrement DORS/92-471 — le particulier qui :
+- **(4)** Est admissible au permis autorisant la possession d’armes à feu — déclarées armes prohibées sous le régime de la loi antérieure par le Décret no 12 sur les armes prohibées, pris par le décret C.P. 1992-1690 du 23 juillet 1992 portant le numéro d’enregistrement DORS/92-471 — le particulier qui :
 	- **a)** avant le 27 juillet 1992, en possédait une ou plusieurs qui, au 1<sup>er</sup> octobre 1992, étaient enregistrées comme des armes à autorisation restreinte sous le régime de la loi antérieure ou faisaient l’objet d’une demande de certificat d’enregistrement sous le régime de cette loi;
 	- **b)** était, à la date de référence, titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour de telles armes;
 	- **c)** à compter de la date de référence, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes.
 
-**Particuliers avec droits acquis : *Décret sur les armes prohibées (no 13)***
+**Particuliers avec droits acquis : Décret sur les armes prohibées (no 13)**
 
-- **(5)** Est admissible au permis autorisant la possession d’armes à feu — déclarées armes prohibées sous le régime de la loi antérieure par le *Décret sur les armes prohibées (no 13)*, pris par le décret C.P. 1994-1974 du 29 novembre 1994 portant le numéro d’enregistrement DORS/94-741 — le particulier qui :
+- **(5)** Est admissible au permis autorisant la possession d’armes à feu — déclarées armes prohibées sous le régime de la loi antérieure par le Décret sur les armes prohibées (no 13), pris par le décret C.P. 1994-1974 du 29 novembre 1994 portant le numéro d’enregistrement DORS/94-741 — le particulier qui :
 	- **a)** avant le 1<sup>er</sup> janvier 1995, en possédait une ou plusieurs qui, au 1<sup>er</sup> janvier 1995, étaient enregistrées comme des armes à autorisation restreinte sous le régime de la loi antérieure ou faisaient l’objet d’une demande de certificat d’enregistrement sous le régime de cette loi;
 	- **b)** était, à la date de référence, titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour de telles armes;
 	- **c)** à compter de la date de référence, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes.
 
-**Particuliers avec droits acquis : armes de poing, 14 février 1995**
+**Particuliers avec droits acquis : armes de poing, 1<sup>er</sup> décembre 1998**
 
-- **(6)** Est admissible au permis autorisant la possession d’armes de poing pourvues d’un canon dont la longueur ne dépasse pas 105 mm, ou conçues ou adaptées pour tirer des cartouches de calibre 25 ou 32 et pour lesquelles il — ou un autre particulier — était, au 14 février 1995, titulaire ou demandeur d’un certificat d’enregistrement prévu par la loi antérieure, le particulier qui :
-	- **a)** était, au 14 février 1995 :
-		- **(i)** titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour une ou plusieurs de ces armes,
-		- **(ii)** demandeur d’un certificat d’enregistrement, qui a été délivré après cette date, pour une ou plusieurs de ces armes;
-	- **b)** était, à la date de référence, titulaire d’un certificat d’enregistrement prévu par la loi antérieure pour de telles armes;
-	- **c)** à compter de la date de référence, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes.
+- **(6)** Est admissible au permis autorisant la possession d’une arme de poing visée au paragraphe (6.1), le particulier qui :
+	- **a)** le 1<sup>er</sup> décembre 1998, était :
+		- **(i)** soit titulaire d’un certificat d’enregistrement — prévu par la loi antérieure — pour une telle arme,
+		- **(ii)** soit demandeur d’un certificat d’enregistrement, qui a été délivré par la suite, pour une telle arme;
+	- **b)** à compter de cette date, a été sans interruption titulaire d’un certificat d’enregistrement pour une telle arme.
 
-**Proches parents de particuliers avec droits acquis : arme de poing, 14 février 1995**
+**Droits acquis : armes de poing, 1<sup>er</sup> décembre 1998**
 
-- **(7)** Est admissible au permis autorisant la possession d’une arme de poing visée au paragraphe (6) et fabriquée avant 1946, le particulier qui est l’époux ou conjoint de fait, le frère, la soeur, l’enfant ou le petit-enfant d’un particulier qui était admissible en vertu de ce paragraphe ou du présent paragraphe au permis autorisant la possession de l’arme de poing en question.
+- **(6.1)** Le paragraphe (6) s’applique à toute arme de poing :
+	- **a)** qui est pourvue d’un canon dont la longueur ne dépasse pas 105 mm, ou conçue ou adaptée pour tirer des cartouches de calibre 25 ou 32;
+	- **b)** pour laquelle par ailleurs, selon le cas :
+		- **(i)** le 1<sup>er</sup> décembre 1998, un certificat d’enregistrement avait été délivré à un particulier en vertu de la loi antérieure,
+		- **(ii)** le 1<sup>er</sup> décembre 1998, une demande de certificat d’enregistrement avait été présentée, en vertu de la loi antérieure, par un particulier et un certificat lui avait été délivré par la suite,
+		- **(iii)** une copie d’un registre a été envoyée, avant le 1<sup>er</sup> décembre 1998, au commissaire de la Gendarmerie royale du Canada et reçue par lui avant, après ou à cette date.
 
-**Particuliers avec droits acquis : armes à feu prohibées visées par les règlements**
+**Proches parents de particuliers avec droits acquis**
 
-- **(8)** Est admissible au permis autorisant la possession d’armes à feu, dans les situations prévues par règlement, qui sont déclarées prohibées en vertu d’une disposition des règlements d’application de l’article 117.15 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le particulier qui :
+- **(7)** Est admissible au permis autorisant la possession d’une arme de poing visée au paragraphe (6.1) et fabriquée avant 1946, le particulier qui est l’époux ou le conjoint de fait, le frère, la soeur, l’enfant ou le petit-enfant d’un particulier qui était admissible en vertu du présent paragraphe ou du paragraphe (6) au permis autorisant la possession de l’arme de poing en question.
+
+**Particuliers avec droits acquis : armes à feu prohibées visées par les règlements**
+
+- **(8)** Est admissible au permis autorisant la possession d’armes à feu, dans les situations prévues par règlement, qui sont déclarées prohibées en vertu d’une disposition des règlements d’application de l’article 117.15 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le particulier qui :
 	- **a)** en possédait une ou plusieurs à l’entrée en vigueur de la disposition;
 	- **b)** à compter de l’entrée en vigueur de la disposition, a été sans interruption titulaire d’un certificat d’enregistrement pour de telles armes ou, dans le cas où il était demandeur d’un certificat d’enregistrement d’une telle arme à cette date, à compter de la date de délivrance du certificat.
-> 1995, ch. 39, art. 12; 2000, ch. 12, art. 117
+> 1995, ch. 39, art. 12; 2000, ch. 12, art. 117; 2003, ch. 8, art. 14
 
 
 
@@ -451,46 +460,51 @@ Sont visés par la présente définition les musées.
 
 **Lieu de possession**
 
-**17** Sous réserve des articles 18 à 20, une arme à feu prohibée ou une arme à feu à autorisation restreinte enregistrée au nom d’un particulier est gardée dans la maison d’habitation indiquée sur le certificat d’enregistrement y afférent ou en tout lieu autorisé par le contrôleur des armes à feu.
+**17** Sous réserve des articles 19 et 20, une arme à feu prohibée ou une arme à feu à autorisation restreinte enregistrée au nom d’un particulier ne peut être gardée que dans la maison d’habitation notée au Registre canadien des armes à feu ou en tout lieu autorisé par le contrôleur des armes à feu.
+> 1995, ch. 39, art. 17; 2003, ch. 8, art. 15
 
 
 
 
-**Transport et usage d’armes à feu prohibées**
-
-**18** Le particulier titulaire d’un permis de possession d’armes à feu prohibées peut être autorisé à en transporter une en particulier entre des lieux précis :
-- **a)** dans le cas d’une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995), pour le tir à la cible, la participation à une compétition de tir ou l’usage à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29;
-- **b)** s’il :
-	- **(i)** change de résidence,
-	- **(ii)** désire la présenter à l’agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu pour enregistrement ou disposition en conformité avec la présente loi ou la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
-	- **(iii)** désire la transporter aux fins de réparation, d’entreposage, de vente, d’exportation ou d’évaluation,
-	- **(iv)** désire l’apporter à une exposition d’armes à feu.
+**18** [Abrogé, 2003, ch. 8, art. 15]
 
 
 
 
-**Transport et usage d’armes à feu à autorisation restreinte**
+**Transport et usage d’armes à feu prohibées ou d’armes à feu à autorisation restreinte**
 
 **19** 
 
-- **(1)** Le particulier titulaire d’un permis de possession d’armes à feu à autorisation restreinte peut être autorisé à en transporter une en particulier entre des lieux précis pour toute raison valable, notamment :
-	- **a)** pour le tir à la cible, la participation à une compétition de tir ou l’usage à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29;
-	- **b)** s’il :
+- **(1)** Le particulier titulaire d’un permis de possession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte peut être autorisé à en transporter une en particulier entre des lieux précis pour toute raison valable, notamment :
+	- **a)
+** pour le tir à la cible, la participation à une compétition de tir ou l’usage à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29;
+	- **a.1)** pour offrir un entraînement au maniement des armes à feu dans le cadre d’un cours sur la sécurité des armes à feu à autorisation restreinte agréé par le ministre fédéral;
+	- **b)
+** s’il :
 		- **(i)** change de résidence,
-		- **(ii)** désire la présenter à l’agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu pour enregistrement ou disposition en conformité avec la présente loi ou la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(ii)** désire la présenter à l’agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu pour enregistrement ou disposition en conformité avec la présente loi ou la partie III du 
+[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(iii)** désire la transporter aux fins de réparation, d’entreposage, de vente, d’exportation ou d’évaluation,
 		- **(iv)** désire l’apporter à une exposition d’armes à feu.
 
+**Exception — armes à feu prohibées autres que les armes de gang prohibées**
+
+- **(2)** Il ne peut toutefois être autorisé à transporter une arme à feu prohibée — autre qu’une arme de poing visée au paragraphe 12(6.1) — entre des lieux précis que pour les raisons visées à l’alinéa (1)b).
+
 **Importation par un non-résident**
 
-- **(2)** Un non-résident peut être autorisé à transporter, en conformité avec les dispositions de l’article 35, une arme à feu à autorisation restreinte entre des lieux précisés.
+- **(3)** Un non-résident peut être autorisé à transporter, en conformité avec les dispositions des articles 35 et 35.1, une arme à feu à autorisation restreinte entre des lieux précisés.
+> 1995, ch. 39, art. 19; 2003, ch. 8, art. 16
+
 
 
 
 
 **Port d’armes à feu à autorisation restreinte et d’armes de poing**
 
-**20** Le particulier titulaire d’un permis de possession d’armes à feu à autorisation restreinte ou d’armes de poing visées au paragraphe 12(6) (armes de poing : 14 février 1995) peut être autorisé à en posséder une en particulier en un lieu autre que celui où il est permis de la posséder, s’il en a besoin pour protéger sa vie ou celle d’autrui ou pour usage dans le cadre de son activité professionnelle légale.
+**20** Le particulier titulaire d’un permis de possession d’armes à feu à autorisation restreinte ou d’armes de poing visées au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) peut être autorisé à en posséder une en particulier en un lieu autre que celui où il est permis de la posséder, s’il en a besoin pour protéger sa vie ou celle d’autrui ou pour usage dans le cadre de son activité professionnelle légale.
+> 1995, ch. 39, art. 20; 2003, ch. 8, art. 56
+
 
 
 
@@ -523,14 +537,21 @@ Sont visés par la présente définition les musées.
 
 **Cession d’armes à feu**
 
-**23** La cession d’une arme à feu est permise si, au moment où elle s’opère :
-- **a)** le cessionnaire présente au cédant un document censé être un permis l’autorisant à acquérir et à posséder une telle arme à feu;
-- **b)** le cédant :
-	- **(i)** n’a aucun motif raisonnable de croire que le document n’autorise pas le cessionnaire à acquérir et à posséder une telle arme à feu,
-	- **(ii)** informe le contrôleur des armes à feu de la cession et obtient l’autorisation correspondante;
-- **c)** le cessionnaire est effectivement titulaire d’un permis l’autorisant à acquérir et à posséder une telle arme à feu;
-- **d)** un nouveau certificat d’enregistrement de l’arme à feu est délivré conformément à la présente loi;
-- **e)** les conditions réglementaires sont remplies.
+**23** 
+
+- **(1)** La cession d’une arme à feu est permise si, au moment où elle s’opère :
+	- **a)** le cessionnaire est effectivement titulaire d’un permis l’autorisant à acquérir et à posséder une telle arme à feu;
+	- **b)** le cédant n’a aucun motif de croire que le cessionnaire n’est pas autorisé à acquérir et à posséder une telle arme à feu;
+	- **c)** le cédant informe le directeur de la cession;
+	- **d)** si le cédant est un particulier et s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, le particulier informe le contrôleur des armes à feu de la cession et obtient l’autorisation correspondante;
+	- **e)** un nouveau certificat d’enregistrement de l’arme à feu est délivré conformément à la présente loi;
+	- **f)** les conditions réglementaires sont remplies.
+
+**Notification**
+
+- **(2)** Si, après avoir été informé d’un projet de cession d’une arme à feu, il refuse de délivrer un nouveau certificat d’enregistrement de l’arme à feu, le directeur notifie sa décision de refus au contrôleur des armes à feu.
+> 1995, ch. 39, art. 23; 2003, ch. 8, art. 17
+
 
 
 
@@ -545,9 +566,11 @@ Sont visés par la présente définition les musées.
 
 - **(2)** La cession d’un tel objet et de munitions n’est permise que si, au moment où elle s’opère :
 	- **a)** l’entreprise est titulaire d’un permis l’autorisant à acquérir et à posséder l’objet en cause;
-	- **b)** l’entreprise présente au cédant un document censé être un permis l’autorisant à acquérir et à posséder l’objet en cause;
-	- **c)** le cédant n’a aucun motif de croire que le document n’autorise pas l’entreprise à acquérir et à posséder l’objet en cause, informe le contrôleur des armes à feu de la cession et obtient l’autorisation correspondante;
+	- **b)** [Abrogé, 2003, ch. 8, art. 18]
+	- **c)** le cédant n’a aucun motif de croire que l’entreprise n’est pas autorisée à acquérir et à posséder l’objet en cause;
 	- **d)** les conditions réglementaires sont remplies.
+> 1995, ch. 39, art. 24; 2003, ch. 8, art. 18
+
 
 
 
@@ -561,42 +584,50 @@ Sont visés par la présente définition les musées.
 
 
 
-**Sa Majesté et les forces policières : armes à feu**
+**Cession d’armes à feu à Sa Majesté, à une force policière ou à une municipalité**
 
 **26** 
 
-- **(1)** La cession d’armes à feu à Sa Majesté du chef du Canada ou d’une province et aux forces policières est permise si le cédant en informe le directeur et remplit les conditions réglementaires.
+- **(1)** La cession d’armes à feu à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permise si le cédant en informe le directeur et remplit les conditions réglementaires.
 
-**Sa Majesté et les forces policières : armes prohibées, etc.**
+**Cession d’armes prohibées, d’armes à autorisation restreinte, etc.**
 
-- **(2)** La cession d’armes prohibées, de dispositifs prohibés, de munitions ou de munitions prohibées à Sa Majesté du chef du Canada ou d’une province et aux forces policières est permise si le cédant en informe le contrôleur des armes à feu et remplit les conditions réglementaires.
+- **(2)** La cession d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permise si le cédant en informe le contrôleur des armes à feu et remplit les conditions réglementaires.
+> 1995, ch. 39, art. 26; 2003, ch. 8, art. 19
+
 
 
 
 
 **Contrôleur des armes à feu**
 
-**27** Dès qu’il est informé soit d’un projet de cession d’une arme à feu en application de l’article 23, d’un projet de cession d’une arme à feu, d’une arme prohibée, d’un dispositif prohibé, de munitions ou de munitions prohibées à une entreprise en application de l’article 24, soit d’un projet d’importation d’une arme à feu non prohibée par un particulier conformément à l’alinéa 40(1)c), le contrôleur des armes à feu :
-- **a)** vérifie, à l’égard du cessionnaire ou du particulier :
+**27** Dès qu’il est informé d’un projet de cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte en application de l’article 23, le contrôleur des armes à feu :
+- **a)
+** vérifie, à l’égard du cessionnaire ou du particulier :
 	- **(i)** s’il est titulaire d’un permis,
 	- **(ii)** s’il y est toujours admissible,
 	- **(iii)** si le permis autorise l’acquisition de l’objet en cause;
-- **b)** en cas de cession soit d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995), soit d’importation d’une arme à feu à autorisation restreinte, vérifie la finalité de l’acquisition par le cessionnaire ou le particulier et détermine si l’arme est appropriée;
-- **c)** autorise ou refuse la cession ou l’importation et avise le directeur de sa décision;
-- **d)** prend les mesures réglementaires.
+- **b)** en cas de cession d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1<sup>er</sup> décembre 1998), vérifie la finalité de l’acquisition par le cessionnaire ou le particulier et détermine si l’arme est appropriée;
+- **c)** autorise ou refuse la cession et avise le directeur de sa décision;
+- **d)
+** prend les mesures réglementaires.
+> 1995, ch. 39, art. 27; 2003, ch. 8, art. 20
+
 
 
 
 
 **Finalité de l’acquisition**
 
-**28** Le contrôleur des armes à feu ne peut autoriser la cession à un particulier d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995), ou l’importation d’une arme à feu à autorisation restreinte par un particulier conformément à l’alinéa 40(1)c), que s’il est convaincu que :
-- **a)** celui-ci en a besoin pour :
+**28** Le contrôleur des armes à feu ne peut autoriser la cession à un particulier d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1<sup>er</sup> décembre 1998) que s’il est convaincu que :
+- **a)** celui-ci en a besoin pour :
 	- **(i)** protéger sa vie ou celle d’autrui,
 	- **(ii)** usage dans le cadre de son activité professionnelle légale;
-- **b)** celui-ci désire l’acquérir pour l’une ou l’autre des fins suivantes :
+- **b)** celui-ci désire l’acquérir pour l’une ou l’autre des fins suivantes :
 	- **(i)** tir à la cible, participation à une compétition de tir ou usage conforme à une autorisation de transport ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29,
 	- **(ii)** collection d’armes à feu par le particulier, lorsque les conditions énoncées à l’article 30 sont remplies.
+> 1995, ch. 39, art. 28; 2003, ch. 8, art. 21
+
 
 
 
@@ -686,11 +717,15 @@ Sont visés par la présente définition les musées.
 
 
 
-**Sa Majesté et les forces policières**
+**Prêt à Sa Majesté, à une force policière ou à une municipalité**
 
-**34** Le prêt d’armes à feu, d’armes prohibées, de dispositifs prohibés, d’armes à autorisation restreinte, de munitions et de munitions prohibées à Sa Majesté du chef du Canada ou d’une province et aux forces policières est permis si :
-- **a)** dans le cas d’une arme à feu, le prêteur la livre accompagnée du certificat d’enregistrement y afférent;
-- **b)** les conditions réglementaires sont remplies.
+**34** Le prêt d’armes à feu, d’armes prohibées, de dispositifs prohibés, d’armes à autorisation restreinte, de munitions et de munitions prohibées à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permis si :
+- **a)
+** dans le cas d’une arme à feu, le prêteur la livre accompagnée du certificat d’enregistrement y afférent;
+- **b)
+** les conditions réglementaires sont remplies.
+> 1995, ch. 39, art. 34; 2003, ch. 8, art. 25
+
 
 
 
@@ -976,7 +1011,7 @@ Sont visés par la présente définition les musées.
 
 **54** 
 
-- **(1)** La délivrance des permis, des autorisations et des certificats d’enregistrement est subordonnée au dépôt d’une demande en la forme et avec les renseignements réglementaires et à l’acquittement des droits réglementaires.
+- **(1)** La délivrance des permis, des autorisations et des certificats d’enregistrement est subordonnée au dépôt d’une demande présentée en la forme réglementaire — écrite ou électronique — ou selon les modalités réglementaires et accompagnée des renseignements réglementaires, et à l’acquittement des droits réglementaires.
 
 **Destinataire de la demande**
 
@@ -986,9 +1021,11 @@ Sont visés par la présente définition les musées.
 
 **Armes à feu à autorisation restreinte et armes de poing antérieures**
 
-- **(3)** Le particulier qui possède une ou plusieurs armes à feu à autorisation restreinte ou armes de poing visées au paragraphe 12(6) (armes de poing : 14 février 1995) à la date de référence est tenu de préciser dans toute demande de permis correspondante :
+- **(3)** Le particulier qui possède une ou plusieurs armes à feu à autorisation restreinte ou armes de poing visées au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) à la date de référence est tenu de préciser dans toute demande de permis correspondante :
 	- **a)** sauf s’il s’agit d’une arme à feu visée à l’alinéa b), pour laquelle des fins, prévues à l’article 28, il désire continuer cette possession;
 	- **b)** pour lesquelles de ces armes à feu a été délivré le certificat d’enregistrement prévu par la loi antérieure parce qu’elles sont des antiquités ou avaient une valeur de curiosité, de rareté, de commémoration ou de simple souvenir.
+> 1995, ch. 39, art. 54; 2003, ch. 8, art. 36 et 56
+
 
 
 
@@ -1071,11 +1108,11 @@ Sont visés par la présente définition les musées.
 
 **61** 
 
-- **(1)** Les permis et les certificats d’enregistrement énoncent les conditions dont ils sont assortis; ils sont délivrés en la forme et énoncent les autres renseignements réglementaires.
+- **(1)** Les permis et les certificats d’enregistrement sont délivrés en la forme réglementaire — écrite ou électronique — ou selon les modalités réglementaires et énoncent les renseignements réglementaires, notamment les conditions dont ils sont assortis.
 
-**Forme : autorisations**
+**Forme : autorisations**
 
-- **(2)** Les autorisations de port, de transport, d’exportation ou d’importation peuvent être délivrées en la forme réglementaire et énoncer les renseignements réglementaires, notamment les conditions dont elles sont assorties.
+- **(2)** Les autorisations de port, de transport, d’exportation ou d’importation peuvent être délivrées en la forme réglementaire — écrite ou électronique — ou selon les modalités réglementaires et énoncer les renseignements réglementaires, notamment les conditions dont elles sont assorties.
 
 **Condition d’un permis**
 
@@ -1084,6 +1121,8 @@ Sont visés par la présente définition les musées.
 **Précisions pour les entreprises**
 
 - **(4)** Les permis délivrés aux entreprises précisent toutes les activités particulières autorisées touchant aux armes à feu — notamment aux armes à feu prohibées et aux armes à feu à autorisation restreinte — aux arbalètes, aux armes prohibées, aux armes à autorisation restreinte, aux dispositifs prohibés, aux munitions ou aux munitions prohibées.
+> 1995, ch. 39, art. 61; 2003, ch. 8, art. 38
+
 
 
 
@@ -1095,19 +1134,19 @@ Sont visés par la présente définition les musées.
 
 
 
-**Validité territoriale**
+**Portée territoriale**
 
 **63** 
 
-- **(1)** Sous réserve du paragraphe (2), les permis, les certificats d’enregistrement, les autorisations de transport, d’exportation ou d’importation sont valides partout au Canada.
+- **(1)** Les permis, les certificats d’enregistrement et les autorisations de transport, d’exportation ou d’importation sont valides partout au Canada.
 
-**Exception : transporteurs**
+- **(2)** [Abrogé, 2003, ch. 8, art. 39]
 
-- **(2)** Les permis délivrés aux transporteurs — qui ne sont visés à l’article 73 — ne sont pas valides à l’extérieur de la province de délivrance.
-
-**Exceptions : autorisation de port**
+**Exceptions : autorisation de port**
 
 - **(3)** Les autorisations de port ne sont pas valides à l’extérieur de la province de délivrance.
+> 1995, ch. 39, art. 63; 2003, ch. 8, art. 39
+
 
 
 
@@ -1130,13 +1169,19 @@ Sont visés par la présente définition les musées.
 
 - **(2)** Les permis délivrés aux particuliers âgés de moins de dix-huit ans sont valides pour la période mentionnée, qui ne peut dépasser la date où le titulaire atteint l’âge de dix-huit ans.
 
-**Entreprises autres que les musées**
+**Entreprises**
 
-- **(3)** Les permis délivrés aux entreprises — autres que les musées — sont valides pour la période mentionnée, qui ne peut dépasser un an.
+- **(3)** Les permis délivrés aux entreprises — autres que celles visées au paragraphe (4) — sont valides pour la période mentionnée, qui ne peut dépasser trois ans.
 
-**Musées**
+**Entreprises qui ne vendent que des munitions**
 
-- **(4)** Les permis délivrés aux musées sont valides pour la période mentionnée, qui ne peut dépasser trois ans suivant la date de délivrance.
+- **(4)** Les permis délivrés aux entreprises qui vendent des munitions, mais qui ne sont pas autorisées à posséder des armes à feu, des armes prohibées, des armes à autorisation restreinte, des dispositifs prohibés ou des munitions prohibées sont valides pour la période mentionnée, qui ne peut dépasser cinq ans suivant la date de délivrance.
+
+- **(5) à (6)** [Non en vigueur]
+
+**Notification**
+
+- **(7)** Le cas échéant, le contrôleur des armes à feu notifie la prolongation aux titulaires des permis.
 > 1995, ch. 39, art. 64; 2003, ch. 8, art. 40
 
 
@@ -1149,21 +1194,21 @@ Sont visés par la présente définition les musées.
 
 - **(1)** Sous réserve des paragraphes (2) à (4), les autorisations sont valides pour la période mentionnée.
 
-**Autorisations de transport : permis**
+**Autorisations de transport : permis**
 
 - **(2)** Sous réserve du paragraphe (3), l’autorisation de transport exprimée sous forme de condition d’un permis est valide pour la période mentionnée, qui ne peut dépasser la date d’expiration du permis.
 
 **Autorisations de transport**
 
-- **(3)** L’autorisation de transport d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995) pour le tir à la cible, la participation à une compétition de tir ou un usage conforme à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29 est valide :
-	- **a)** dans le cas où elle est exprimée sous forme de condition d’un permis, pour la période mentionnée — d’au moins un an et d’au plus trois ans — , qui ne peut dépasser la date d’expiration du permis;
-	- **b)** dans le cas où elle n’est pas exprimée sous forme de condition d’un permis, pour la période — d’au moins un an et d’au plus trois ans — , mentionnée.
+- **(3)** L’autorisation de transport d’une arme à feu prohibée — à l’exception d’une arme automatique — ou d’une arme à feu à autorisation restreinte pour le tir à la cible, la participation à une compétition de tir ou un usage conforme à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29 est valide, qu’elle soit ou non exprimée sous forme de condition du permis de son titulaire, pour la période mentionnée — d’au plus cinq ans — , qui ne peut dépasser la date d’expiration du permis.
 
 **Autorisations de port**
 
-- **(4)** L’autorisation de port :
+- **(4)** L’autorisation de port :
 	- **a)** exprimée sous forme de condition d’un permis est valide pour la période mentionnée — d’au plus deux ans — , qui ne peut dépasser la date d’expiration du permis;
 	- **b)** non exprimée sous forme de condition d’un permis est valide pour la période mentionnée, qui ne peut dépasser deux ans.
+> 1995, ch. 39, art. 65; 2003, ch. 8, art. 41
+
 
 
 
@@ -1179,19 +1224,19 @@ Sont visés par la présente définition les musées.
 
 **67** 
 
-- **(1)** Le contrôleur des armes à feu peut proroger les permis et les autorisations de port et de transport selon les modalités et les circonstances de leur délivrance.
+- **(1)** Le contrôleur des armes à feu peut renouveler les permis et les autorisations de port et de transport selon les modalités réglementaires.
 
 **Armes de poing et armes à feu à autorisation restreinte**
 
-- **(2)** En cas de prorogation du permis de possession par un particulier d’une arme à feu à autorisation restreinte ou une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995), il détermine si celle-ci est utilisée conformément aux fins de l’acquisition prévues à l’article 28 ou, si elle était en sa possession à la date de référence, aux fins — conformes à celles prévues à cet article — précisées par le particulier dans la demande de permis.
+- **(2)** En cas de renouvellement du permis de possession par un particulier d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1<sup>er</sup> décembre 1998), il détermine si celle-ci est utilisée aux fins prévues à l’article 28.
 
 **Notification au directeur**
 
-- **(3)** S’il détermine qu’une arme à feu à autorisation restreinte ou une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995) en la possession d’un particulier n’est pas utilisée aux fins indiquées, il notifie sa décision à celui-ci en la forme réglementaire et en informe le directeur.
+- **(3)** S’il détermine qu’une arme à feu à autorisation restreinte ou une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) en la possession d’un particulier n’est pas utilisée aux fins indiquées, il notifie sa décision à celui-ci en la forme réglementaire et en informe le directeur.
 
 **Antiquités**
 
-- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas à une arme à feu :
+- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas à une arme à feu :
 	- **a)** ayant une valeur de curiosité, de rareté, de commémoration ou de simple souvenir;
 	- **b)** pour laquelle il est précisé dans la demande de permis que le certificat d’enregistrement prévu par la loi antérieure a été délivré parce qu’elle avait une telle valeur;
 	- **c)** pour laquelle a été délivré le certificat d’enregistrement prévu par la loi antérieure parce qu’elle avait une telle valeur;
@@ -1200,6 +1245,8 @@ Sont visés par la présente définition les musées.
 **Contenu de la notification**
 
 - **(5)** La notification prévue au paragraphe (3) comporte les motifs de la décision ainsi que le texte des articles 74 à 81.
+> 1995, ch. 39, art. 67; 2003, ch. 8, art. 42 et 56
+
 
 
 
@@ -1243,11 +1290,13 @@ Sont visés par la présente définition les musées.
 
 **71** 
 
-- **(1)** Le directeur peut révoquer le certificat d’enregistrement pour toute raison valable; il est tenu de le faire à l’égard d’une arme à feu en la possession d’un particulier dans le cas où le contrôleur des armes à feu l’informe, en application de l’article 67, que l’arme à feu n’est pas utilisée conformément aux fins de l’acquisition ou, en cas de possession d’une telle arme à feu à la date de référence, aux fins précisées par le particulier dans la demande de permis.
+- **(1)** Le directeur peut révoquer le certificat d’enregistrement pour toute raison valable; il est tenu de le faire à l’égard d’une arme à feu en la possession d’un particulier dans le cas où le contrôleur des armes à feu l’informe, en application de l’article 67, que l’arme à feu n’est pas utilisée aux fins prévues à l’article 28.
 
 **Révocation automatique du certificat d’enregistrement**
 
 - **(2)** Tout changement aux modifications décrites sur la demande de certificat d’enregistrement d’une arme à feu prohibée visée au paragraphe 12(3) (armes automatiques modifiées : 1<sup>er</sup> août 1992) entraîne la révocation de plein droit du certificat.
+> 1995, ch. 39, art. 71; 2003, ch. 8, art. 44
+
 
 
 
@@ -1256,7 +1305,13 @@ Sont visés par la présente définition les musées.
 
 **72** 
 
-- **(1)** Le contrôleur des armes à feu, dans le cas d’un permis ou d’une autorisation de transport, ou le directeur, dans le cas d’un certificat d’enregistrement ou d’une autorisation d’exportation ou d’importation, notifie à l’intéressé, en la forme réglementaire, sa décision de refus ou de révocation.
+- **(1)** Sous réserve du paragraphe (1.1), le contrôleur des armes à feu, dans le cas d’un permis ou d’une autorisation de transport, ou le directeur, dans le cas d’un certificat d’enregistrement ou d’une autorisation d’exportation ou d’importation, notifie à l’intéressé, en la forme réglementaire, sa décision de refus ou de révocation.
+
+**Cas d’exception**
+
+- **(1.1)** La notification n’est pas requise dans les cas suivants :
+	- **a)** le titulaire a demandé la révocation;
+	- **b)** la révocation est liée à la délivrance d’un autre permis ou certificat ou d’une autre autorisation.
 
 **Contenu**
 
@@ -1277,17 +1332,12 @@ Sont visés par la présente définition les musées.
 **Renvoi**
 
 - **(6)** Lorsque le demandeur ou le titulaire du permis ou du certificat d’enregistrement soumet la non-délivrance ou la révocation du document en cause à un juge de la cour provinciale en vertu de l’article 74, le délai ne commence à courir qu’après la décision finale du juge.
+> 1995, ch. 39, art. 72; 2003, ch. 8, art. 45
 
 
 
 
-### Transporteurs internationaux et interprovinciaux
-
-
-
-**Application**
-
-**73** Les articles 54 à 72 s’appliquent aux transporteurs se livrant à des activités, notamment, de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées reliant une province et une ou plusieurs autres provinces, ou débordant les limites d’une province, et, à cette fin, la mention du contrôleur des armes à feu vaut mention du directeur.
+**73** [Abrogé, 2003, ch. 8, art. 46]
 
 
 
@@ -1300,14 +1350,16 @@ Sont visés par la présente définition les musées.
 
 **74** 
 
-- **(1)** Le demandeur ou le titulaire d’un permis, d’un certificat d’enregistrement, d’une autorisation de transport, d’exportation ou d’importation ou d’un agrément peut soumettre à un juge de la cour provinciale de la circonscription territoriale de sa résidence les cas suivants :
+- **(1)** Le demandeur ou le titulaire d’un permis, d’un certificat d’enregistrement, d’une autorisation de transport, d’exportation ou d’importation ou d’un agrément peut soumettre à un juge de la cour provinciale de la circonscription territoriale de sa résidence les cas suivants :
 	- **a)** la non-délivrance ou révocation, par le contrôleur des armes à feu ou le directeur, du document en cause;
-	- **b)** la décision du contrôleur des armes à feu, prise aux termes de l’article 67, selon laquelle l’arme à feu d’un particulier n’est pas utilisée conformément aux fins de l’acquisition ou, en cas de possession d’une telle arme à feu à la date de référence, aux fins précisées par le particulier dans la demande de permis;
+	- **b)** la décision du contrôleur des armes à feu, prise aux termes de l’article 67, selon laquelle l’arme à feu d’un particulier n’est pas utilisée aux fins prévues à l’article 28;
 	- **c)** le refus ou la révocation de l’agrément d’un club de tir ou de champs de tir par le ministre provincial.
 
 **Délai**
 
 - **(2)** La saisine est à effectuer par le requérant dans les trente jours suivant la réception de la notification de la décision faite par le contrôleur des armes à feu, le directeur ou le ministre provincial en vertu des articles 29, 67 ou 72 ou dans le délai supplémentaire que le juge peut lui accorder avant ou après l’expiration des trente jours.
+> 1995, ch. 39, art. 74; 2003, ch. 8, art. 47
+
 
 
 
@@ -1429,7 +1481,7 @@ Sont visés par la présente définition les musées.
 
 
 
-### COMMISSAIRE AUX ARMES À FEU
+## Commissaire aux armes à feu
 
 
 
@@ -1970,6 +2022,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **117** Le gouverneur en conseil peut, par règlement :
 - **a)** régir la délivrance des permis, des certificats d’enregistrement et des autorisations, y compris les fins auxquelles ils peuvent être délivrés aux termes de la présente loi et préciser les cas d’admissibilité ou d’inadmissibilité aux permis;
+- **a.1)** déclarer que les licences pour l’exportation de marchandises — ou catégories de telles licences — qui sont délivrées en vertu de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) sont réputées être des autorisations d’exportation pour l’application de la présente loi;
 - **b)** régir la révocation des permis, des certificats d’enregistrement et des autorisations;
 - **c)** préciser les cas dans lesquels un particulier peut avoir ou non besoin d’une arme à feu pour protéger sa vie ou celle d’autrui, ou pour usage dans le cadre d’une activité professionnelle légale;
 - **d)** régir l’usage d’armes à feu pour le tir à la cible ou la participation à une compétition de tir;
@@ -1985,10 +2038,12 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 	- **(i)** d’armes à feu prohibées, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées,
 	- **(ii)** d’éléments ou pièces d’armes à feu prohibées, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
 - **j)** régir la possession et l’usage d’armes à autorisation restreinte;
-- **k)** prévoir l’autorisation, en ce qui concerne des armes à feu, des armes prohibées, des armes à autorisation restreinte, des dispositifs prohibés, des munitions, des munitions prohibées et des éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques :
+- **k)** prévoir l’autorisation, en ce qui concerne des armes à feu, des armes prohibées, des armes à autorisation restreinte, des dispositifs prohibés, des munitions, des munitions prohibées et des éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes à feu :
 	- **(i)** de la possession en tout lieu,
-	- **(ii)** de la fabrication ou la cession, la proposition de fabrication ou de cession, avec ou sans contrepartie,
-	- **(iii)** de l’importation ou de l’exportation;
+	- **(ii)** de la fabrication ou la cession, la proposition de fabrication ou de cession, avec ou sans contrepartie;
+- **k.1)** régir l’importation ou l’exportation d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions, de munitions prohibées et des éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes à feu;
+- **k.2)** régir le marquage des armes à feu fabriquées ou importées au Canada et l’enlèvement, la modification, l’oblitération et le maquillage des marques;
+- **k.3)** régir l’attestation des déclarations et des autorisations de transport pour l’application de l’alinéa 35(1)d), l’attestation des déclarations pour l’application de l’alinéa 35.1(2)d) et l’attestation des autorisations d’importation pour l’application de l’alinéa 40(2);
 - **l)** régir l’entreposage, le maniement, le transport, l’expédition, l’acquisition, la possession, la cession, l’exportation, l’importation, l’usage et l’aliénation ou la disposition d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions prohibées et de substances explosives :
 	- **(i)** par les personnes précisées ci-après et utilisées par celles-ci dans le cadre de leurs fonctions :
 		- **(A)** les agents de la paix,
@@ -1998,23 +2053,23 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 	- **(ii)** par des particuliers sous les ordres et pour le compte des forces policières ou d’un ministère fédéral ou provincial;
 - **m)** régir la tenue et la destruction de registres ou fichiers sur les armes à feu, les armes prohibées, les armes à autorisation restreinte, les dispositifs prohibés et les munitions prohibées;
 - **n)** régir la tenue et la destruction de registres ou fichiers par les entreprises en ce qui concerne les munitions;
-- **o)** créer des infractions pour contravention des règlements d’application des alinéas d), e), f), g), i), j), l), m) ou n);
+- **o)** créer des infractions pour contravention des règlements pris en vertu des alinéas d), e), f), g), i), j), k.1), k.2), l), m) ou n);
 - **p)** fixer les droits à payer à Sa Majesté du chef du Canada pour la délivrance des permis, des certificats d’enregistrement, des autorisations, des agréments de cession et d’importation d’armes à feu et des attestations par l’agent des douanes des documents prévus par la présente loi;
 - **q)** fixer les cas et les modalités de dispense ou de réduction des droits à payer en application de l’alinéa p);
 - **r)** fixer les droits à payer à Sa Majesté du chef du Canada pour les frais engagés par elle pour l’entreposage de marchandises retenues par des agents de douane ou pour leur disposition;
 - **s)** régir le fonctionnement du Registre canadien des armes à feu;
 - **t)** régir la transmission des avis et documents sur support électronique ou autre, notamment quant à leurs destinataires, aux personnes ou catégories de personnes qui peuvent l’effectuer et aux modalités de signature — ou de ce qui peut en tenir lieu — sur support électronique ou autre de ces avis ou documents, ainsi que la date et l’heure réputées de leur réception;
 - **u)** prévoir selon quelles modalités et dans quelle mesure telles dispositions de la présente loi ou de ses règlements s’appliquent à tout peuple autochtone du Canada et adapter ces dispositions à cette application;
-- **v)** abroger :
-	- **(i)** l’article 4 — et l’intertitre le précédant — du *Règlement sur le contrôle des chargeurs grande capacité*, pris par le décret C.P. 1992-1660 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-460,
-	- **(ii)** le *Décret sur les régions désignées pour la possession d’armes à feu*, C.R.C., chapitre 430,
-	- **(iii)** l’article 4 — et l’intertitre le précédant — du *Règlement sur les autorisations d’acquisition d’armes à feu*, pris par le décret C.P. 1992-1663 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-461,
-	- **(iv)** l’article 7 — et l’intertitre le précédant — du *Règlement sur les véritables collectionneurs d’armes à feu*, pris par le décret C.P. 1992-1661 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-435,
-	- **(v)** les articles 8 et 13 — et les intertitres les précédant — du *Règlement sur le contrôle des armes prohibées*, pris par le décret C.P. 1991-1925 du 3 octobre 1991 portant le numéro d’enregistrement DORS/91-572,
-	- **(vi)** le *Règlement sur les catégories de personnes morales admissibles à un certificat d’enregistrement d’armes à autorisation restreinte*, pris par le décret C.P. 1993-766 du 20 avril 1993 portant le numéro d’enregistrement DORS/93-200,
-	- **(vii)** les articles 7, 15 et 17 — et les intertitres les précédant — du *Règlement sur le contrôle des armes à autorisation restreinte et sur les armes à feu*, pris par le décret C.P. 1978-2572 du 16 août 1978 portant le numéro d’enregistrement DORS/78-670;
+- **v)** abroger :
+	- **(i)** l’article 4 — et l’intertitre le précédant — du Règlement sur le contrôle des chargeurs grande capacité, pris par le décret C.P. 1992-1660 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-460,
+	- **(ii)** le [Décret sur les régions désignées pour la possession d’armes à feu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20430.md), C.R.C., chapitre 430,
+	- **(iii)** l’article 4 — et l’intertitre le précédant — du Règlement sur les autorisations d’acquisition d’armes à feu, pris par le décret C.P. 1992-1663 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-461,
+	- **(iv)** l’article 7 — et l’intertitre le précédant — du Règlement sur les véritables collectionneurs d’armes à feu, pris par le décret C.P. 1992-1661 du 16 juillet 1992 portant le numéro d’enregistrement DORS/92-435,
+	- **(v)** les articles 8 et 13 — et les intertitres les précédant — du Règlement sur le contrôle des armes prohibées, pris par le décret C.P. 1991-1925 du 3 octobre 1991 portant le numéro d’enregistrement DORS/91-572,
+	- **(vi)** le Règlement sur les catégories de personnes morales admissibles à un certificat d’enregistrement d’armes à autorisation restreinte, pris par le décret C.P. 1993-766 du 20 avril 1993 portant le numéro d’enregistrement DORS/93-200,
+	- **(vii)** les articles 7, 15 et 17 — et les intertitres les précédant — du Règlement sur le contrôle des armes à autorisation restreinte et sur les armes à feu, pris par le décret C.P. 1978-2572 du 16 août 1978 portant le numéro d’enregistrement DORS/78-670;
 - **w)** prendre toute mesure réglementaire prévue par la présente loi.
-> 1995, ch. 39, art. 117; 2003, ch. 22, art. 224(A)
+> 1995, ch. 39, art. 117; 2003, ch. 8, art. 54, ch. 22, art. 224(A)
 
 
 
@@ -2090,17 +2145,17 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **120** 
 
-- **(1)** Est réputée un permis l’autorisation d’acquisition d’armes à feu qui :
+- **(1)** Est réputée un permis l’autorisation d’acquisition d’armes à feu qui :
 	- **a)** a été délivrée en vertu des articles 106 ou 107 de la loi antérieure;
 	- **b)** n’a pas été révoquée avant la date de référence;
 	- **c)** est valide à la date de référence conformément au paragraphe 106(11) de la loi antérieure ou à ce paragraphe par application du paragraphe 107(1) de celle-ci.
 
 **Autorisations**
 
-- **(2)** Le titulaire d’une telle autorisation est habilité :
+- **(2)** Le titulaire d’une telle autorisation est habilité :
 	- **a)** à acquérir et à posséder toute arme à feu non prohibée acquise par lui à compter de la date de référence et avant l’expiration ou la révocation de l’autorisation d’acquisition de l’arme à feu;
 	- **b)** s’il s’agit d’un particulier visé aux paragraphes 12(2), (3), (4), (5), (6) ou (8), à acquérir et à posséder toute arme à feu visée à ces paragraphes acquise par lui à compter de la date de référence;
-	- **c)** s’il s’agit d’un particulier admissible, en vertu du paragraphe 12(7), au permis l’autorisant à posséder une arme de poing visée au paragraphe 12(6) (armes de poing : 14 février 1995) dans les circonstances prévues au paragraphe 12(7), à acquérir et posséder dans ces circonstances une telle arme de poing acquise par lui à compter de la date de référence.
+	- **c)** s’il s’agit d’un particulier admissible, en vertu du paragraphe 12(7), au permis l’autorisant à posséder une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) dans les circonstances prévues au paragraphe 12(7), à acquérir et posséder dans ces circonstances une telle arme de poing acquise par lui à compter de la date de référence.
 
 **Durée de validité**
 
@@ -2109,6 +2164,8 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 **Autorisations d’acquisition perdues, volées ou détruites**
 
 - **(4)** La personne habilitée par la présente loi à délivrer un permis peut remplacer l’autorisation perdue, volée ou détruite avant son expiration par une autorisation correspondante.
+> 1995, ch. 39, art. 120; 2003, ch. 8, art. 56
+
 
 
 
@@ -2373,7 +2430,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Entrée en vigueur**
 
-<sup><a href='#nbp_Ind8204_hq_16242'>[*]</a></sup>**193** 
+<sup><a href='#nbp_Ind71BC_hq_16241'>[*]</a></sup>**193** 
 
 - **(1)** Sous réserve du paragraphe (2), la présente loi ou telle de ses dispositions, ou toute disposition édictée ou modifiée par la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à la date ou aux dates fixées par décret.
 
@@ -2381,6 +2438,6 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 - **(2)** Dans l’éventualité où aucun décret n’est pris en application du paragraphe (1) avant le 1<sup>er</sup> janvier 2003, la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à cette date.
 
-<a name='nbp_Ind8204_hq_16242'><sup>*</sup></a>: [Note : Article 85 édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15 édictés par l’article 139 et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161.]<br />
+<a name='nbp_Ind71BC_hq_16241'><sup>*</sup></a>: [Note : Article 85 édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15 édictés par l’article 139 et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161; alinéa 24(2)c), édicté par 2003, ch. 8, art. 18, en vigueur le 10 avril 2005, *voir* TR/2005-27.]<br />
 
 
