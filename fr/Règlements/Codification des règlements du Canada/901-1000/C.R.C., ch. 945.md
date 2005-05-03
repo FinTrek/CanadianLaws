@@ -666,6 +666,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **i)** [Abrogé, DORS/88-165, art. 1]
 doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de telle somme.
 
+- **(1.1)** Toute personne qui paie à quiconque est soit un particulier non-résident qui est un acteur, soit une société liée à un tel particulier une somme donnée, porte cette somme au crédit de ce dernier ou lui fournit un avantage, pour la prestation au Canada des services d’acteur qu’il a fournis dans le cadre d’une production cinématographique ou magnétoscopique, doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de cette somme ou de cet avantage.
+
 - **(2)** Toute personne résidant au Canada qui paie à une personne non-résidente ou porte à son crédit, ou qui est réputée, selon la partie I ou la partie XIII de la Loi, lui payer ou porter à son crédit une somme au titre ou en paiement intégral ou partiel
 	- **a)** d’un paiement de pension ou de pension de retraite,
 	- **b)** d’une allocation ou d’une prestation ou d’un avantage visés aux sous-alinéas 56(1)a)(ii) à (vi) de la Loi,
@@ -695,7 +697,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(7)** Sous réserve du paragraphe (8), une déclaration de renseignements exigée en vertu du présent article doit être produite au plus tard le 31 mars et doit viser l’année civile précédente.
 
 - **(8)** Lorsqu’une somme mentionnée au paragraphe (1) ou (2) est un revenu d’une succession ou d’une fiducie ou en provenant, la déclaration de renseignements exigée à cet égard en vertu du présent article doit être produite dans les 90 jours suivant la fin de l’année d’imposition de la succession ou de la fiducie au cours de laquelle cette somme a été versée ou créditée, et doit viser cette année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1.
 
 
 
@@ -886,6 +888,26 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(7)** Au présent article, ***émetteur*** et ***rentier*** s’entendent au sens du paragraphe 146(1) de la Loi.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-502, art. 3; DORS/83-866, art. 5; DORS/88-165, art. 31(F); DORS/92-51, art. 3; DORS/2001-188, art. 2; DORS/2003-5, art. 5.
+
+
+
+
+**214.1** 
+
+- **(1)** Tout émetteur d’un régime enregistré d’épargne-retraite doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard des sommes payées par le rentier ou son époux ou conjoint de fait, dans le cadre du régime au cours de l’année de contribution :
+	- **a)** soit à titre de contrepartie du contrat visé à l’alinéa a) de la définition de ***régime d’épargne-retraite*** au paragraphe 146(1) de la Loi, pour payer un revenu de retraite;
+	- **b)** soit à titre d’apport, de contribution ou de dépôt, visé à l’alinéa b) de cette définition, à la fin mentionnée à cet alinéa.
+
+- **(2)** Pour l’application du paragraphe (1), il est entendu que les sommes payées dont il est question à ce paragraphe ne comprennent pas les sommes payées ou transférées dans le cadre du régime conformément au paragraphe 146(16) de la Loi, ni les sommes transférées dans le cadre du régime conformément aux paragraphes 146(21), 146.3(14), 147(19) ou 147.3(1), (4), (5) à (7) de la Loi.
+
+- **(3)** La déclaration doit être produite auprès du ministre, au plus tard le 1<sup>er</sup> jour de mai de l’année civile dans laquelle l’année de contribution se termine, et doit être à l’égard de l’année de contribution.
+
+- **(4)** Les définitions qui suivent s’appliquent au présent article.
+
+***année de contribution*** La période commençant le 61<sup>e</sup> jour d’une année quelconque et se terminant le 60<sup>e</sup> jour de l’année suivante. (*contribution year*)
+
+***émetteur*** S’entend au sens du paragraphe 146(1) de la Loi, avec les adaptations nécessaires. (*issuer*)
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-123, art. 2.
 
 
 
@@ -2224,14 +2246,12 @@ dans cet endroit.
 ## Choix
 
 
-**600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
-- **a)** article 21 de la Loi;
-- **b)** paragraphes 13(4) et (7.4), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(4), 82(3), 83(2), 104(5.3) et (14), 110.4(2), 143(2), 146.01(7), 164(6) et 184(3) de la Loi;
-- **b.1)** [Abrogé, DORS/99-17, art. 7]
-- **c)** alinéas 48(1)a) et c), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d) de la Loi;
-- **c.1)** sous-alinéa 128.1(4)b)(iv) de la Loi;
-- **d)** paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1.
+**600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
+- **a)** l’article 21 de la Loi;
+- **b)** les paragraphes 12.2(4), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
+- **c)** les alinéas 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
+- **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3.
 
 
 
@@ -2632,6 +2652,26 @@ est déclaré être un bien exclu.
 
 
 
+### Réalisation d’options
+
+
+**1000.1** 
+
+- **(1)** Le représentant légal d’un contribuable décédé exerce le choix prévu au paragraphe 164(6.1) de la Loi en produisant auprès du ministre une lettre précisant les éléments suivants :
+	- **a)** la valeur de l’avantage visé au sous-alinéa 164(6.1)a)(i) de la Loi;
+	- **b)** la valeur du droit et le montant payé pour acquérir le droit, visés au sous-alinéa 164(6.1)a)(ii) de la Loi;
+	- **c)** le montant déduit, visé au sous-alinéa 164(6.1)a)(iii) de la Loi;
+	- **d)** la perte visée à l’alinéa 164(6.1)b) de la Loi.
+
+- **(2)** La lettre est produite au plus tard le dernier des jours suivants :
+	- **a)** le dernier jour prévu par la Loi pour l’envoi d’une déclaration que le représentant légal d’un contribuable décédé est tenu ou a choisi de produire en vertu de la Loi à l’égard du revenu du contribuable décédé pour l’année d’imposition au cours de laquelle il est décédé;
+	- **b)** le jour où la déclaration du revenu, pour la première année d’imposition de la succession du contribuable décédé, doit être produite en vertu de l’alinéa 150(1)c) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-123, art. 4.
+
+
+
+
+
 ### Acomptes provisionnels annuels
 
 
@@ -2737,7 +2777,12 @@ pour l’application du présent alinéa et de l’annexe III, le coût en capit
 	- **l)** au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5k), ne dépassant pas le moins élevé des montants suivants :
 		- **(i)** le total du revenu qu’il tire de ces biens et des biens visés à l’alinéa n) de la catégorie 12 de l’annexe II, calculé avant d’effectuer toute déduction en vertu du présent alinéa,
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie distincte à la fin de l’année avant d’effectuer toute déduction en vertu du présent alinéa pour l’année;
-	- **m)** [Abrogé, DORS/78-377, art. 3]
+
+#### Déductions supplémentaires — Production cinématographique ou magnétoscopique canadienne
+
+	- **m)** au montant supplémentaire qu’il demande relativement à un bien pour lequel une catégorie distincte est prescrite par le paragraphe 1101(5k.1), ne dépassant pas le moins élevé des montants suivants :
+		- **(i)** le revenu qu’il tire du bien pour l’année, déterminé avant que soit opérée une déduction en application du présent alinéa,
+		- **(ii)** la fraction non amortie du coût en capital, pour lui, du bien de cette catégorie distincte à la fin de l’année, calculée compte non tenu du paragraphe (2) et avant que soit opérée pour l’année une déduction en application du présent alinéa;
 
 #### Catégorie 19
 
@@ -3032,7 +3077,7 @@ les règles suivantes s’appliquent :
 		- **(i)** en vertu du sous-alinéa 13(21)f)(i) de la Loi, au titre d’un bien acquis au cours de l’année ou devenu prêt à être mis en service par le contribuable au cours de l’année,
 		- **(ii)** en vertu des sous-alinéas 13(21)f)(ii.1) ou (ii.2) de la Loi, au titre d’un montant remboursé au cours de l’année,
 à la fraction non amortie du coût en capital, pour lui, des biens d’une catégorie de l’annexe II, sauf les biens suivants :
-		- **(iii)** ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l), p), q) et s) de la catégorie 12,
+		- **(iii)** ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l) et p) à s) de la catégorie 12,
 		- **(iv)** ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29 et 34,
 		- **(v)** dans le cas où le contribuable est une société visée au paragraphe (16) tout au long de l’année, ceux qui constituent des biens de location déterminés du contribuable à ce moment,
 		- **(vi)** ceux qui sont réputés acquis par le contribuable au cours d’une année d’imposition antérieure en application de l’alinéa 16.1(1)b) de la Loi relativement à un bail dont les biens faisaient l’objet immédiatement avant le moment auquel le contribuable les a acquis pour la dernière fois,
@@ -3100,7 +3145,7 @@ les règles suivantes s’appliquent :
 #### Années d’imposition comprenant moins de 12 mois
 
 
-- **(3)** Lorsqu’une année d’imposition compte moins de 12 mois, le montant accordé à titre de déduction en application du présent article, exception faite des alinéas (1)c), e), f), g), l), w), x), y), ya), zg) et zh), ne peut dépasser le produit du montant maximal autrement déductible par le rapport entre le nombre de jours de l’année d’imposition et 365.
+- **(3)** Lorsqu’une année d’imposition compte moins de 12 mois, le montant accordé à titre de déduction en application du présent article, exception faite des alinéas (1)c), e), f), g), l), m), w), x), y), ya), zg) et zh), ne peut dépasser le produit du montant maximal autrement déductible par le rapport entre le nombre de jours de l’année d’imposition et 365.
 
 - **(4)** Réservé.
 
@@ -3252,7 +3297,7 @@ qui est en sus du total
 		- **(iii)** du montant qui, lorsque les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande ne sont pas terminés dans les 60 jours qui suivent la fin de l’année, peut raisonnablement être considéré comme la fraction proportionnelle de la moins élevée des sommes suivantes supportées par l’investisseur :
 			- **(A)** les frais de production du film ou de la bande engagés avant la fin de l’année, et
 			- **(B)** la fraction des frais de production engagés à la date où les travaux principaux de prise de vue ou d’enregistrement sont terminés, qui correspond au pourcentage des travaux principaux de prise de vue ou d’enregistrement terminés avant la fin de l’année, comme il a été certifié par le ministre des Communications, et
-		- **(iv)** du total des montants déterminés en vertu des alinéas b), c) et d) à l’égard du film ou de la bande à la fin de l’année;
+		- **(iv)** du total des montants déterminés en application des alinéas b) à e) à l’égard du film ou de la bande à la fin de l’année;
 	- **b)** le montant éventuel qu’il est raisonnable de considérer comme la fraction des recettes qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou pour une année d’imposition antérieure, lorsqu’une garantie de recettes (à l’exclusion d’une garantie de recettes portant le visa du ministre des Communications attestant qu’il s’agit d’une garantie aux termes de laquelle la personne qui convient de fournir les recettes est un radiodiffuseur titulaire d’une licence ou un distributeur véritable de films ou de bandes) est donnée à une date quelconque avant la date visée au sous-alinéa (i) ou (ii) relativement au film ou à la bande, aux termes de laquelle il est raisonnablement certain, compte tenu des circonstances, que l’investisseur touchera des recettes :
 		- **(i)** la date où les principaux travaux de prise de vue ou d’enregistrement du film ou de la bande sont terminés,
 		- **(ii)** la date où l’investisseur a acquis le film ou la bande, si cette date est postérieure;
@@ -3269,7 +3314,10 @@ est donnée relativement au film ou à la bande, le montant éventuel qu’il es
 	- **d)** le montant, si montant il y a, qui peut raisonnablement être considéré comme la fraction des recettes devant être versées à l’investisseur en vertu de la garantie de recettes
 		- **(i)** qui n’est pas due à l’investisseur avant plus de quatre ans après le premier jour où le garant a le droit d’utiliser le film ou la bande, et
 		- **(ii)** qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou une année d’imposition antérieure
-lorsque, à un moment donné, une garantie de recettes, autre qu’une garantie de recettes visée par les alinéas b) ou c) est donnée relativement au film ou à la bande.
+lorsque, à un moment donné, une garantie de recettes, autre qu’une garantie de recettes visée par les alinéas b) ou c) est donnée relativement au film ou à la bande;
+	- **e)** la partie d’un titre de créance de l’investisseur, impayé à la fin de l’année d’imposition donnée, qui est convertible en une participation dans le film ou la bande ou dans l’investisseur.
+
+- **(21.1)** Malgré le paragraphe (1), lorsqu’un contribuable acquiert un bien visé à l’alinéa s) de la catégorie 10 de l’annexe II ou à l’alinéa m) de la catégorie 12 de cette annexe, la déduction qui lui est accordée par ailleurs au titre de ce bien en vertu du paragraphe (1) dans le calcul de son revenu pour une année d’imposition ne peut dépasser ce qu’elle serait si le coût en capital du bien pour lui était réduit de la partie d’un titre de créance lui appartenant, impayé à la fin de l’année, qui est convertible en une participation dans le bien ou dans le contribuable.
 
 - **(22)** Par dérogation au paragraphe (1), lorsqu’un investisseur a acquis un film ou une bande après son année d’imposition 1977 et avant 1979 et que les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande sont terminés après une année d’imposition donnée et au plus tard le 1<sup>er</sup> mars 1979, la déduction relative à un bien de la catégorie 12 de l’annexe B accordée par ailleurs à l’investisseur lors du calcul de son revenu pour une année d’imposition donnée, en vertu du paragraphe (1), ne doit en aucun cas dépasser le montant par ailleurs établi, si le coût en capital pour cet investisseur était réduit de la fraction, si fraction il y a,
 	- **a)** du coût en capital pour l’investisseur, du film ou de la bande à la fin de l’année
@@ -3331,7 +3379,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1.
 
 
 
@@ -3571,6 +3619,15 @@ une catégorie distincte est prescrite pour les biens,
 
 - **(5k)** Une catégorie distincte est prescrite pour les biens du contribuable visés à l’alinéa w) de la catégorie 10 de l’annexe II.
 
+#### Production cinématographique ou magnétoscopique canadienne
+
+
+- **(5k.1)** Une catégorie distincte est prescrite pour les biens d’une société qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa x) de cette catégorie et qui constituent :
+	- **a)** soit des biens relativement auxquels la société est réputée par le paragraphe 125.4(3) de la Loi avoir payé un montant au titre de son impôt à payer en vertu de la partie I de la Loi pour une année d’imposition;
+	- **b)** soit des biens que la société a acquis auprès d’une autre société dans le cas où, à la fois :
+		- **(i)** l’autre société est réputée par le paragraphe 125.4(3) de la Loi avoir payé un montant au titre de son impôt à payer en vertu de la partie I de la Loi pour une année d’imposition relativement aux biens,
+		- **(ii)** les sociétés étaient liées l’une à l’autre tout au long de la période qui a commencé au moment où l’autre société a engagé la première dépense de main-d’œuvre admissible, au sens du paragraphe 125.4(1) de la Loi, relativement aux biens et s’est terminée au moment où elle a disposé des biens en faveur de la société.
+
 #### Biens de la catégorie 38 et panneaux publicitaires extérieurs
 
 
@@ -3608,7 +3665,7 @@ une catégorie distincte est prescrite pour les biens,
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2.
 
 
 
@@ -4228,7 +4285,160 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 
 **SECTION VII** 
-### [Abrogée, DORS/95-244, art. 3]
+### Certificats délivrés par le ministre du Patrimoine canadien
+
+
+
+#### Définitions
+
+
+**1106** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente section et à l’alinéa x) de la catégorie 10 de l’annexe II.
+
+***agence cinématographique d’État*** Agence fédérale ou provinciale dont le mandat est lié à l’octroi d’aide à la réalisation de productions cinématographiques au Canada.
+
+***Canadien***
+- **a)** Particulier qui est, selon le cas :
+	- **(i)** un citoyen au sens du paragraphe 2(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md),
+	- **(ii)** un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **b)** société qui est une unité sous contrôle canadien, selon ce qui est prévu aux articles 26 à 28 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md).
+
+***certificat d’achèvement*** Certificat attestant l’achèvement d’une production cinématographique ou magnétoscopique d’une société, délivré par le ministre du Patrimoine canadien avant le jour (appelé « date limite d’attestation de la production » à la présente section) qui suit de six mois la date limite de demande relative à la production.
+
+***convention de jumelage*** Convention qui consiste à réunir deux productions cinématographiques ou magnétoscopiques distinctes, l’une canadienne et l’autre étrangère.
+
+***demande de certificat d’achèvement*** Demande relative à une production cinématographique ou magnétoscopique qu’une société canadienne imposable visée présente au ministre du Patrimoine canadien avant le jour (appelé «date limite de demande relative à la production» à la présente section) qui correspond au dernier en date des jours suivants :
+- **a)** le jour qui suit de 24 mois la fin de l’année d’imposition de la société au cours de laquelle ont débuté les principaux travaux de prise de vue relatifs à la production;
+- **b)** le jour qui suit de 18 mois le jour visé à l’alinéa a), si la société a présenté à l’Agence des douanes et du revenu du Canada la renonciation visée au sous-alinéa 152(4)a)(ii) de la Loi — et en a fourni une copie au ministre du Patrimoine canadien — au cours de la période normale de nouvelle cotisation qui lui est applicable pour les première et deuxième années d’imposition se terminant après le début des principaux travaux de prise de vue relatifs à la production.
+
+***producteur*** Est le producteur d’une production cinématographique ou magnétoscopique le particulier qui, à la fois :
+- **a)** contrôle la production et en est le principal décideur;
+- **b)** est directement responsable de l’acquisition de l’intrigue ou du scénario de la production ainsi que de l’élaboration, du contrôle créatif et financier et de l’exploitation de la production;
+- **c)** est identifié dans la production comme en étant le producteur.
+
+***production exclue*** Production cinématographique ou magnétoscopique d’une société canadienne imposable visée (appelée «société donnée» à la présente définition), qui, selon le cas :
+- **a)** est une production à l’égard de laquelle l’un des faits suivants se vérifie :
+	- **(i)** la société donnée n’a pas présenté de demande de certificat d’achèvement la concernant avant la date limite de demande relative à la production,
+	- **(ii)** aucun certificat d’achèvement la concernant n’a été délivré avant la date limite d’attestation de la production,
+	- **(iii)** dans le cas où elle n’est pas une coproduction prévue par un accord, ni la société donnée ni une autre société canadienne imposable visée qui lui est liée :
+		- **(A)** d’une part, n’est titulaire exclusif du droit d’auteur mondial sur la production en vue de son exploitation commerciale pour la période de 25 ans qui commence dès que la production est exploitable commercialement après son achèvement, sauf jusqu’à concurrence d’une participation dans la production que détient une société canadienne imposable visée à titre de coproducteur ou une personne visée,
+		- **(B)** d’autre part, ne contrôle le processus de concession de la licence d’exploitation commerciale initiale,
+	- **(iv)** aucune convention écrite, faisant état d’une contrepartie à la juste valeur marchande, n’a été conclue à son égard avec l’une des personnes suivantes pour qu’elle soit diffusée au Canada au cours de la période de deux ans qui commence dès qu’elle est exploitable commercialement après son achèvement :
+		- **(A)** une société, ayant la qualité de Canadien, qui est distributrice de productions cinématographiques ou magnétoscopiques,
+		- **(B)** une société titulaire d’une licence de radiodiffusion délivrée par le Conseil de la radiodiffusion et des télécommunications canadiennes pour les marchés de la télévision,
+	- **(v)** la production a été distribuée au Canada au cours de la période de deux ans qui commence dès qu’elle est exploitable commercialement, après son achèvement, par une personne qui n’a pas la qualité de Canadien;
+- **b)** est une production qui est, selon le cas :
+	- **(i)** une émission d’information, d’actualités ou d’affaires publiques ou une émission qui comprend des bulletins sur la météo ou les marchés boursiers,
+	- **(ii)** une interview-variétés,
+	- **(iii)** une production comportant un jeu, un questionnaire ou un concours, sauf celle qui s’adresse principalement aux personnes mineures,
+	- **(iv)** la présentation d’une activité ou d’un événement sportif,
+	- **(v)** la présentation d’un gala ou d’une remise de prix,
+	- **(vi)** une production visant à lever des fonds,
+	- **(vii)** de la télévision vérité,
+	- **(viii)** de la pornographie,
+	- **(ix)** de la publicité,
+	- **(x)** une production produite principalement à des fins industrielles ou institutionnelles,
+	- **(xi)** une production, sauf un documentaire, qui consiste en totalité ou en presque totalité en métrage d’archives.
+
+***rémunération*** Sont exclues de la rémunération les sommes déterminées en fonction des bénéfices ou des recettes.
+
+#### Société canadienne imposable visée
+
+
+- **(2)** Pour l’application de l’article 125.4 de la Loi et de la présente section, est une ***société canadienne imposable visée*** la société canadienne imposable qui a la qualité de Canadien, à l’exception de toute société qui, selon le cas :
+	- **a)** est contrôlée directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes dont tout ou partie du revenu imposable est exonéré de l’impôt en vertu de la partie I de la Loi;
+	- **b)** est une société à capital de risque de travailleurs visée à l’article 6701.
+
+#### Coproduction prévue par un accord
+
+
+- **(3)** Pour l’application de la présente section, ***coproduction prévue par un accord*** s’entend d’une production cinématographique ou magnétoscopique à laquelle s’applique l’un des instruments suivants :
+	- **a)** un accord de coproduction conclu entre le Canada et un autre État;
+	- **b)** le Protocole d’entente entre le gouvernement du Canada et le gouvernement de Hong Kong, région administrative spéciale, République populaire de Chine, relativement à la coproduction cinématographique et audiovisuelle;
+	- **c)** l’Énoncé commun de politique relative à la coproduction cinématographique, télévisuelle et vidéo par le Japon et le Canada;
+	- **d)** le Protocole d’entente entre le gouvernement du Canada et le gouvernement de la République de Corée sur la coproduction télévisuelle;
+	- **e)** l’Accord relatif aux relations dans le domaine de l’audiovisuel entre le gouvernement du Canada et le gouvernement de la République de Malte.
+
+#### Production cinématographique ou magnétoscopique canadienne
+
+
+- **(4)** Sous réserve des paragraphes (6) à (9), pour l’application de l’article 125.4 de la Loi, de la présente partie et de l’annexe II, ***production cinématographique ou magnétoscopique canadienne*** s’entend d’une production cinématographique ou magnétoscopique, à l’exception d’une production exclue, d’une société canadienne imposable visée, à l’égard de laquelle le ministre du Patrimoine canadien a délivré un certificat (sauf un certificat qui a été révoqué en vertu du paragraphe 125.4(6) de la Loi) et qui, selon le cas :
+	- **a)** est une coproduction prévue par un accord;
+	- **b)** remplit les conditions suivantes :
+		- **(i)** son producteur a la qualité de Canadien tout au long de sa production,
+		- **(ii)** le ministre du Patrimoine canadien y a attribué au moins six points en conformité avec le paragraphe (5),
+		- **(iii)** au moins 75 % du total des coûts des services fournis dans le cadre de sa production, à l’exception des coûts exclus, était à payer relativement à des services fournis à ou par des particuliers qui ont la qualité de Canadien; pour l’application du présent sous-alinéa, sont des coûts exclus :
+			- **(A)** les coûts déterminés en fonction du revenu provenant de la production,
+			- **(B)** la rémunération payable au producteur ou aux particuliers visés à l’un des sous-alinéas (5)a)(i) à (viii) et b)(i) à (vi) ou à l’alinéa (5)c), ou à leur égard, (y compris les particuliers qui seraient visés à l’alinéa (5)c) s’ils avaient la qualité de Canadien),
+			- **(C)** les sommes à payer au titre des frais d’assurance, de financement et de courtage et des frais juridiques et comptables et les sommes semblables,
+			- **(D)** les coûts visés au sous-alinéa (iv),
+		- **(iv)** au moins 75 % du total des coûts se rapportant à sa postproduction, y compris les travaux de laboratoire, la prise de son et le montage de la bande sonore et de l’image, (à l’exception, d’une part, des coûts déterminés en fonction du revenu provenant de la production et, d’autre part, de la rémunération payable au producteur ou aux particuliers visés à l’un des sous-alinéas (5)a)(i) à (viii) et b)(i) à (vi) ou à l’alinéa (5)c), ou à leur égard, y compris aux particuliers qui seraient visés à l’alinéa (5)c) s’ils avaient la qualité de Canadien) ont été engagés relativement à des services fournis au Canada.
+
+- **(5)** Pour l’application de la présente section, le ministre du Patrimoine canadien attribue des points à l’égard des productions cinématographiques ou magnétoscopiques, comme suit :
+	- **a)** s’il s’agit d’une production autre qu’une production d’animation, les points ci-après sont attribués pour chacune des personnes suivantes, si elles sont des particuliers ayant la qualité de Canadien :
+		- **(i)** le réalisateur : deux points,
+		- **(ii)** le scénariste : deux points,
+		- **(iii)** l’artiste principal pour les services duquel la rémunération la plus élevée était à payer : un point,
+		- **(iv)** l’artiste principal pour les services duquel la deuxième rémunération en importance était à payer : un point,
+		- **(v)** le directeur artistique : un point,
+		- **(vi)** le directeur de la photographie : un point,
+		- **(vii)** le compositeur de musique : un point,
+		- **(viii)** le monteur de l’image : un point;
+	- **b)** s’il s’agit d’une production d’animation, les points ci-après sont attribués pour chacune des personnes suivantes, si elles sont des particuliers ayant la qualité de Canadien :
+		- **(i)** le réalisateur : un point,
+		- **(ii)** la voix principale pour laquelle la rémunération la plus élevée ou la deuxième rémunération en importance était à payer : un point,
+		- **(iii)** le concepteur surveillant : un point,
+		- **(iv)** le cameraman, si la prise de vue est effectuée au Canada : un point,
+		- **(v)** le compositeur de musique : un point,
+		- **(vi)** le monteur de l’image : un point;
+	- **c)** s’il s’agit d’une production d’animation, un point est attribué lorsque le scénariste principal et le superviseur du scénario-maquette sont tous deux des particuliers ayant la qualité de Canadien;
+	- **d)** s’il s’agit d’une production d’animation, les points ci-après sont attribués pour chacun des endroits suivants, s’ils sont situés au Canada :
+		- **(i)** l’endroit où sont effectués les travaux préparatoires et les décors de fond : un point,
+		- **(ii)** l’endroit où est effectuée l’animation-clé : un point,
+		- **(iii)** l’endroit où sont effectuées l’animation secondaire et l’interpolation : un point.
+
+- **(6)** Une production, sauf s’il s’agit d’une production d’animation ou d’une coproduction prévue par un accord, est une production cinématographique ou magnétoscopique canadienne seulement si les points suivants y sont attribués : deux points en vertu des sous-alinéas (5)a)(i) ou (ii) et un point en vertu des sous-alinéas (5)a)(iii) ou (iv).
+
+- **(7)** Une production d’animation, sauf s’il s’agit d’une coproduction prévue par un accord, est une production cinématographique ou magnétoscopique canadienne seulement si les points ci-après y sont attribués :
+	- **a)** un point en vertu du sous-alinéa (5)b)(i) ou de l’alinéa (5)c);
+	- **b)** un point en vertu du sous-alinéa (5)b)(ii);
+	- **c)** un point en vertu du sous-alinéa (5)d)(ii).
+
+#### Artiste principal et scénariste
+
+
+- **(8)** Les règles suivantes s’appliquent dans le cadre de la présente section :
+	- **a)** l’artiste principal d’une production est un acteur ou une actrice qui interprète l’un des rôles principaux, compte tenu de sa rémunération, de sa position au générique et de son temps de présence à l’écran;
+	- **b)** la voix principale d’une production d’animation est la voix du particulier qui interprète l’un des rôles principaux, compte tenu de sa rémunération et de la durée pendant laquelle sa voix est entendue;
+	- **c)** lorsqu’une personne qui n’a pas la qualité de Canadien participe à la rédaction et à l’élaboration du scénario d’une production, le scénariste n’a la qualité de Canadien que si le scénariste principal est un particulier qui a cette qualité par ailleurs, que si le scénario de la production est tiré d’une œuvre écrite par un Canadien et que si l’œuvre est publiée au Canada.
+
+#### Production documentaire
+
+
+- **(9)** La production documentaire qui n’est pas une production exclue, et à laquelle moins de six points ont été attribués du fait qu’un ou plusieurs des postes visés à l’alinéa (5)a) sont vacants, est une production cinématographique ou magnétoscopique canadienne si tous les postes visés à cet alinéa qui sont occupés relativement à la production le sont par des particuliers qui ont la qualité de Canadien.
+
+#### Personne visée
+
+
+- **(10)** Pour l’application de l’article 125.4 de la Loi et de la présente section, est une personne visée :
+	- **a)** la société titulaire d’une licence de radiodiffusion (télévision, services spécialisés ou télévision payante) délivrée par le Conseil de la radiodiffusion et des télécommunications canadiennes;
+	- **b)** la société titulaire d’une licence d’entreprise de radiodiffusion qui finance des productions en raison de son engagement en matière d’«avantages importants» envers le Conseil de la radiodiffusion et des télécommunications canadiennes;
+	- **c)** la personne à laquelle s’applique l’alinéa 149(1)l) de la Loi, si elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes;
+	- **d)** toute agence cinématographique d’État;
+	- **e)** en ce qui a trait à une production cinématographique ou magnétoscopique, la personne non-résidente qui n’exploite pas d’entreprise au Canada par l’intermédiaire d’un établissement stable au Canada, si elle acquiert une participation dans la production pour se conformer aux conditions d’attestation d’une convention de jumelage portant sur une coproduction prévue par un accord;
+	- **f)** la personne qui répond aux conditions suivantes :
+		- **(i)** elle est visée à l’alinéa 149(1)f) de la Loi,
+		- **(ii)** elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes qui sont financées en totalité ou en presque totalité au moyen de participations directes dans les productions,
+		- **(iii)** les seuls dons qu’elle a reçus après 1996 proviennent de personnes visées aux alinéas a) à e).
+
+#### Montant prévu
+
+
+- **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou payable à un contribuable dans le cadre du Programme de droits de diffusion du Fonds de télévision et de câblodistribution pour la production d’émissions canadiennes ou du Canada Television Fund/Fonds canadien de télévision.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3.
+
+
 
 
 
@@ -11934,7 +12144,7 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6701** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société publique*** au paragraphe 89(1), de la définition de ***entreprise de placement déterminée*** au paragraphe 125(7), de la définition de ***action approuvée*** au paragraphe 127.4(1), des paragraphes 131(8) et (11), de l’article 186.1, de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1) et de la définition de ***placement admissible*** au paragraphe 204.8(1) de la Loi, les sociétés à capital de risque de travailleurs ci-après sont visées :
+**6701** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société publique*** au paragraphe 89(1), de la définition de ***entreprise de placement déterminée*** au paragraphe 125(7), de la définition de ***action approuvée*** au paragraphe 127.4(1), des paragraphes 131(8) et (11), de l’article 186.1, de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1) et de la définition de ***placement admissible*** au paragraphe 204.8(1) de la Loi, sont des sociétés à capital de risque de travailleurs visées les sociétés suivantes :
 - **a)** la société constituée par la Loi constituant le Fonds de solidarité des travailleurs du Québec (F.T.Q.), Lois du Québec 1983, ch. 58;
 - **b)** une société qui est enregistrée aux termes de la loi intitulée The Labour-sponsored Venture Capital Corporations Act, Statutes of Saskatchewan 1986, ch. L-0.2;
 - **c)** une société qui est enregistrée aux termes de la partie 2 de la loi de la Colombie-Britannique intitulée Employee Investment Act, Revised Statutes of British Columbia, 1996, ch. 112;
@@ -11945,7 +12155,7 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 - **g)** la société constituée par la Loi constituant Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Lois du Québec 1995, ch. 48;
 - **h)** une société qui est agréée en vertu de la partie II de la loi de la Nouvelle-Écosse intitulée Equity Tax Credit Act, Statutes of Nova Scotia 1993, ch. 3;
 - **i)** une société qui est inscrite aux termes de la partie II de la Loi sur les crédits d’impôt pour investissement de capital de risque, chapitre 22 des Lois des Territoires du Nord-Ouest de 1998.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/86-1136, art. 10; DORS/89-551, art. 3; DORS/92-397, art. 3; DORS/92-398, art. 2; DORS/93-396, art. 3; DORS/94-686, art. 38(F) et 79(F); DORS/96-173, art. 2; DORS/97-504, art. 2; DORS/98-12, art. 2; DORS/98-281, art. 3; DORS/99-102, art. 5; DORS/2001-289, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/86-1136, art. 10; DORS/89-551, art. 3; DORS/92-397, art. 3; DORS/92-398, art. 2; DORS/93-396, art. 3; DORS/94-686, art. 38(F) et 79(F); DORS/96-173, art. 2; DORS/97-504, art. 2; DORS/98-12, art. 2; DORS/98-281, art. 3; DORS/99-102, art. 5; DORS/2001-289, art. 4; DORS/2005-126, art. 4.
 
 
 
@@ -14514,12 +14724,12 @@ où
 
 **8402** 
 
-- **(1)** Lorsque le facteur d’équivalence pour services passés provisoire d’un particulier quant à un employeur, calculé conformément aux articles 8303, 8304 ou 8308 et rattaché à un fait lié aux services passés (sauf un fait à attester), est supérieur à zéro, l’administrateur de chaque régime de pension agréé auquel le fait se rapporte présente au ministre sur formulaire prescrit, dans les 60 jours suivant le fait, une déclaration de renseignements indiquant la partie du total des montants représentant chacun le facteur d’équivalence pour services passés du particulier quant à un employeur, qui est rattaché au fait, qu’il est raisonnable de considérer comme imputable à des prestations prévues par le régime. Toutefois, l’administrateur n’a pas à présenter de déclaration si le montant qu’il aurait à y indiquer par ailleurs est nul.
+- **(1)** Lorsque le facteur d’équivalence pour services passés provisoire d’un particulier quant à un employeur, calculé conformément aux articles 8303, 8304 ou 8308 et rattaché à un fait lié aux services passés (sauf un fait à attester), est supérieur à zéro, l’administrateur de chaque régime de pension agréé auquel le fait se rapporte présente au ministre sur formulaire prescrit, dans les 120 jours suivant le fait, une déclaration de renseignements indiquant la partie du total des montants représentant chacun le facteur d’équivalence pour services passés du particulier quant à un employeur, qui est rattaché au fait, qu’il est raisonnable de considérer comme imputable à des prestations prévues par le régime. Toutefois, l’administrateur n’a pas à présenter de déclaration si le montant qu’il aurait à y indiquer par ailleurs est nul.
 
 - **(2)** Lorsque le facteur d’équivalence pour services passés (régime étranger), calculé selon les paragraphes 8308.1(5) ou (6), d’un particulier quant à un employeur qui est rattaché à la modification des prestations dans le cadre d’un régime étranger, au sens du paragraphe 8308.1(1), est supérieur à zéro, l’employeur présente au ministre sur le formulaire prescrit, au plus tard le dernier jour de février de l’année civile suivant celle de la modification des prestations, une déclaration de renseignements indiquant ce facteur.
 
 - **(3)** Lorsque le facteur d’équivalence pour services passés (mécanisme de retraite déterminé), calculé selon les paragraphes 8308.3(4) ou (5), d’un particulier quant à un employeur qui est rattaché à la modification des prestations dans le cadre d’un mécanisme de retraite déterminé, au sens du paragraphe 8308.3(1), est supérieur à zéro, l’employeur présente au ministre sur le formulaire prescrit, au plus tard le dernier jour de février de l’année civile suivant celle de la modification des prestations, une déclaration de renseignements indiquant ce facteur.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/96-311, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/96-311, art. 11; DORS/2005-123, art. 5.
 
 
 
@@ -17116,80 +17326,113 @@ sur le total des montants représentant chacun :
 
 
 
+**PARTIE XCIII** 
+## Crédit d’impôt pour services de production cinématographique ou magnétoscopique
+
+
+
+### Production agréée
+
+
+**9300** 
+
+- **(1)** Sous réserve du paragraphe (2), pour l’application de l’article 125.5 de la Loi, est une production agréée :
+	- **a)** la production cinématographique ou magnétoscopique relativement à laquelle les dépenses totales, incluses dans le coût de la production, au cours de la période se terminant 24 mois après le début des principaux travaux de prise de vue ou d’enregistrement dépassent 1 000 000 $;
+	- **b)** la production cinématographique ou magnétoscopique qui fait partie d’une série de productions télévisuelles de plusieurs épisodes, ou qui est l’émission pilote d’une telle série d’épisodes, relativement à laquelle les dépenses totales incluses dans le coût de chaque épisode au cours de la période se terminant 24 mois après le début des principaux travaux de prise de vue ou d’enregistrement dépassent :
+		- **(i)** dans le cas d’un épisode dont la durée de projection est de moins de 30 minutes,100 000 $,
+		- **(ii)** dans les autres cas, 200 000 $.
+
+- **(2)** N’est pas une production agréée :
+	- **a)** une émission d’information, d’actualités ou d’affaires publiques ou une émission qui comprend des bulletins sur la météo ou les marchés boursiers;
+	- **b)** une interview-variétés;
+	- **c)** une production comportant un jeu, un questionnaire ou un concours;
+	- **d)** la présentation d’une activité ou d’un événement sportif;
+	- **e)** la présentation d’un gala ou d’une remise de prix;
+	- **f)** une production visant à lever des fonds;
+	- **g)** de la télévision vérité;
+	- **h)** de la pornographie;
+	- **i)** de la publicité;
+	- **j)** une production produite principalement à des fins industrielles ou institutionnelles.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 5.
+
+
+
+
+
 ### **ANNEXE I** 
 **(articles 100, 102 et 106)**
 ## Paliers de rémunération et de rémunération totale
 **1** Pour l’application de l’alinéa 102(1)c), les paliers de rémunération pour chaque période de paie dans une année d’imposition sont déterminés comme suit :
-- **a)** à l’égard d’une période de paie d’un jour, les paliers de rémunération commencent à 33 $ et augmentent par tranches de 1 $ pour chaque palier jusqu’à 86,99 $;
-- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 149 $ et augmentent par tranches de :
-	- **(i)** 2 $ pour chaque palier jusqu’à 256,99 $,
-	- **(ii)** 4 $ pour chaque palier de 257 $ à 476,99 $,
-	- **(iii)** 8 $ pour chaque palier de 477 $ à 916,99 $,
-	- **(iv)** 12 $ pour chaque palier de 917 $ à 1 576,99 $,
-	- **(v)** 16 $ pour chaque palier de 1 577 $ à 2 456,99 $,
-	- **(vi)** 20 $ pour chaque palier de 2 457 $ à 3 556,99 $;
-- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 298 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 513,99 $,
-	- **(ii)** 8 $ pour chaque palier de 514 $ à 953,99 $,
-	- **(iii)** 16 $ pour chaque palier de 954 $ à 1 833,99 $,
-	- **(iv)** 24 $ pour chaque palier de 1 834 $ à 3 153,99 $,
-	- **(v)** 32 $ pour chaque palier de 3 154 $ à 4 913,99 $,
-	- **(vi)** 40 $ pour chaque palier de 4 914 $ à 7 113,99 $;
-- **d)** à l’égard d’une période de paie semi-mensuelle, les paliers de rémunération commencent à 322 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 537,99 $,
-	- **(ii)** 8 $ pour chaque palier de 538 $ à 977,99 $,
-	- **(iii)** 18 $ pour chaque palier de 978 $ à 1 967,99 $,
-	- **(iv)** 26 $ pour chaque palier de 1 968 $ à 3 397,99 $,
-	- **(v)** 34 $ pour chaque palier de 3 398 $ à 5 267,99 $,
-	- **(vi)** 44 $ pour chaque palier de 5 268 $ à 7 687,99 $;
-- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 644 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 075,99 $,
-	- **(ii)** 18 $ pour chaque palier de 1 076 $ à 2 065,99 $,
-	- **(iii)** 34 $ pour chaque palier de 2 066 $ à 3 935,99 $,
-	- **(iv)** 52 $ pour chaque palier de 3 936 $ à 6 795,99 $,
-	- **(v)** 70 $ pour chaque palier de 6 796 $ à 10 645,99 $,
-	- **(vi)** 86 $ pour chaque palier de 10 646 $ à 15 375,99 $;
-- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 773 $ et augmentent par tranches de :
-	- **(i)** 10 $ pour chaque palier jusqu’à 1 312,99 $,
-	- **(ii)** 20 $ pour chaque palier de 1 313 $ à 2 412,99 $,
-	- **(iii)** 42 $ pour chaque palier de 2 413 $ à 4 722,99 $,
-	- **(iv)** 62 $ pour chaque palier de 4 723 $ à 8 132,99 $,
-	- **(v)** 84 $ pour chaque palier de 8 133 $ à 12 752,99 $,
-	- **(vi)** 104 $ pour chaque palier de 12 753 $ à 18 472,99 $;
-- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 594 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 025,99 $,
-	- **(ii)** 16 $ pour chaque palier de 1 026 $ à 1 905,99 $,
-	- **(iii)** 32 $ pour chaque palier de 1 906 $ à 3 665,99 $,
-	- **(iv)** 48 $ pour chaque palier de 3 666 $ à 6 305,99 $,
-	- **(v)** 64 $ pour chaque palier de 6 306 $ à 9 825,99 $,
-	- **(vi)** 80 $ pour chaque palier de 9 826 $ à 14 225,99 $;
-- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 351 $ et augmentent par tranches de :
-	- **(i)** 5 $ pour chaque palier jusqu’à 620,99 $,
-	- **(ii)** 10 $ pour chaque palier de 621 $ à 1 170,99 $,
-	- **(iii)** 18 $ pour chaque palier de 1 171 $ à 2 160,99 $,
-	- **(iv)** 28 $ pour chaque palier de 2 161 $ à 3 700,99 $,
-	- **(v)** 38 $ pour chaque palier de 3 701 $ à 5 790,99 $,
-	- **(vi)** 48 $ pour chaque palier de 5 791 $ à 8 430,99 $.
+- **a)** à l’égard d’une période de paie d’un jour, les paliers de rémunération commencent à 36 $ et augmentent par tranches de 2 $ pour chaque palier jusqu’à 143,99 $;
+- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 163 $ et augmentent par tranches de :
+	- **(i)** 2 $ pour chaque palier jusqu’à 270,99 $,
+	- **(ii)** 4 $ pour chaque palier de 271 $ à 490,99 $,
+	- **(iii)** 8 $ pour chaque palier de 491 $ à 930,99 $,
+	- **(iv)** 12 $ pour chaque palier de 931 $ à 1 590,99 $,
+	- **(v)** 16 $ pour chaque palier de 1 591 $ à 2 470,99 $,
+	- **(vi)** 20 $ pour chaque palier de 2 471 $ à 3 570,99 $;
+- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 325 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 540,99 $,
+	- **(ii)** 8 $ pour chaque palier de 541 $ à 980,99 $,
+	- **(iii)** 16 $ pour chaque palier de 981 $ à 1 860,99 $,
+	- **(iv)** 24 $ pour chaque palier de 1 861 $ à 3 180,99 $,
+	- **(v)** 32 $ pour chaque palier de 3 181 $ à 4 940,99 $,
+	- **(vi)** 40 $ pour chaque palier de 4 941 $ à 7 140,99 $;
+- **d)** à l’égard d’une période de paie bimensuelle, les paliers de rémunération commencent à 352 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 567,99 $,
+	- **(ii)** 8 $ pour chaque palier de 568 $ à 1 007,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 008 $ à 1 997,99 $,
+	- **(iv)** 26 $ pour chaque palier de 1 998 $ à 3 427,99 $,
+	- **(v)** 34 $ pour chaque palier de 3 428 $ à 5 297,99 $,
+	- **(vi)** 44 $ pour chaque palier de 5 298 $ à 7 717,99 $;
+- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 703 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 134,99 $,
+	- **(ii)** 18 $ pour chaque palier de 1 135 $ à 2 124,99 $,
+	- **(iii)** 34 $ pour chaque palier de 2 125 $ à 3 994,99 $,
+	- **(iv)** 52 $ pour chaque palier de 3 995 $ à 6 854,99 $,
+	- **(v)** 70 $ pour chaque palier de 6 855 $ à 10 704,99 $,
+	- **(vi)** 86 $ pour chaque palier de 10 705 $ à 15 434,99 $;
+- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 843 $ et augmentent par tranches de :
+	- **(i)** 10 $ pour chaque palier jusqu’à 1 382,99 $,
+	- **(ii)** 20 $ pour chaque palier de 1 383 $ à 2 482,99 $,
+	- **(iii)** 42 $ pour chaque palier de 2 483 $ à 4 792,99 $,
+	- **(iv)** 62 $ pour chaque palier de 4 793 $ à 8 202,99 $,
+	- **(v)** 84 $ pour chaque palier de 8 203 $ à 12 822,99 $,
+	- **(vi)** 104 $ pour chaque palier de 12 823 $ à 18 542,99 $;
+- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 649 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 080,99 $,
+	- **(ii)** 16 $ pour chaque palier de 1 081 $ à 1 960,99 $,
+	- **(iii)** 32 $ pour chaque palier de 1 961 $ à 3 720,99 $,
+	- **(iv)** 48 $ pour chaque palier de 3 721 $ à 6 360,99 $,
+	- **(v)** 64 $ pour chaque palier de 6 361 $ à 9 880,99 $,
+	- **(vi)** 80 $ pour chaque palier de 9 881 $ à 14 280,99 $;
+- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 384 $ et augmentent par tranches de :
+	- **(i)** 6 $ pour chaque palier jusqu’à 707,99 $,
+	- **(ii)** 10 $ pour chaque palier de 708 $ à 1 257,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 258 $ à 2 247,99 $,
+	- **(iv)** 28 $ pour chaque palier de 2 248 $ à 3 787,99 $,
+	- **(v)** 38 $ pour chaque palier de 3 788 $ à 5 877,99 $,
+	- **(vi)** 48 $ pour chaque palier de 5 878 $ à 8 517,99 $.
 
 
-**2** Pour l’application de l’alinéa 102(1)d), le point milieu des paliers de montants des crédits d’impôt personnels pour l’année est établi comme suit :
-- **a)** de 0 $ à 7 412 $, 7 412 $;
-- **b)** de 7 412,01 $ à 9 056 $, 8 234 $;
-- **c)** de 9 056,01 $ à 10 700 $, 9 878 $;
-- **d)** de 10 700,01 $ à 12 344 $, 11 522 $;
-- **e)** de 12 344,01 $ à 13 988 $, 13 166 $;
-- **f)** de 13 988,01 $ à 15 632 $, 14 810 $;
-- **g)** de 15 632,01 $ à 17 276 $, 16 454 $;
-- **h)** de 17 276,01 $ à 18 920 $, 18 098 $;
-- **i)** de 18 920,01 $ à 20 564 $, 19 742 $;
-- **j)** de 20 564,01 $ à 22 208 $, 21 386 $;
-- **k)** pour les montants qui excèdent 22 208 $, le montant des crédits d’impôt personnels.
+**2** Pour l’application de l’alinéa 102(1)d), le point milieu des paliers de montants des crédits d’impôt personnels pour une année d’imposition est établi comme suit :
+- **a)** de 0 $ à 8 012 $, 8 012 $;
+- **b)** de 8 012,01 $ à 9 789 $, 8 900,50 $;
+- **c)** de 9 789,01 $ à 11 566 $, 10 677,50 $;
+- **d)** de 11 566,01 $ à 13 343 $, 12 454,50 $;
+- **e)** de 13 343,01 $ à 15 120 $, 14 231,50 $;
+- **f)** de 15 120,01 $ à 16 897 $, 16 008,50 $;
+- **g)** de 16 897,01 $ à 18 674 $, 17 785,50 $;
+- **h)** de 18 674,01 $ à 20 451 $, 19 562,50 $;
+- **i)** de 20 451,01 $ à 22 228 $, 21 339,50 $;
+- **j)** de 22 228,01 $ à 24 005 $, 23 116,50 $;
+- **k)** pour des montants qui excèdent 24 005 $, le montant des crédits d’impôt personnels.
 
 
 **3** [Abrogé, DORS/2001-221, art. 8]
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8; DORS/2005-123, art. 6.
 
 
 
@@ -18102,7 +18345,7 @@ mais à condition qu’il ne soit pas
 
 
 
-**s)** un film cinématographique ou une bande magnétoscopique acquis après le 25 mai 1976, sauf un bien inclus dans l’alinéa w) ou dans la catégorie 12;
+**s)** un film cinématographique ou une bande magnétoscopique acquis après le 25 mai 1976, sauf un bien visé aux alinéas w) ou x) ou compris dans la catégorie 12;
 
 
 
@@ -18156,16 +18399,20 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 
 
 
-**(iii)** réaliser une combinaison quelconque des fonctions visées aux sous-alinéas (i) et (ii); ou
+**(iii)** réaliser une combinaison quelconque des fonctions visées aux sous-alinéas (i) et (ii);
 
 
 
 
 
-**w)** une production portant visa acquise après 1987.
+**w)** une production portant visa acquise après 1987 et avant mars 1996;
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9..
+
+**x)** une production cinématographique ou magnétoscopique canadienne.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6..
 
 
 
@@ -18304,11 +18551,11 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**q)** un coût désigné d’enlèvement des terrains de couverture; ou
+**q)** un coût désigné d’enlèvement des terrains de couverture;
 
 
 
-**r)** une vidéo-cassette qui est acquise après le 15 février 1984 en vue d’être louée et dont la période de location prévue, par preneur, ne dépasse pas sept jours par période de 30 jours
+**r)** une vidéocassette, un vidéodisque laser ou un vidéodisque numérique, acquis en vue d’être loué et dont la période de location prévue, par personne, ne dépasse pas sept jours par période de 30 jours;
 
 
 
@@ -18335,7 +18582,7 @@ ainsi que les biens qui seraient compris par ailleurs dans une autre catégorie 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7..
 
 
 
@@ -19062,13 +19309,13 @@ et d’autre part :
 
 **(ii)** soit a fait l’objet d’importants travaux d’expansion après le 7 novembre 1969 et, selon le cas :
 
-**(A)** par suite des travaux, la capacité maximale projetée, mesurée selon le poids des entrées de minerai, de l’usine qui a traité le minerai provenant de la mine, au cours de l’année suivant les travaux, dépassait d’au moins 25 % la capacité maximale projetée de l’usine au cours de l’année précédant les travaux,
+**(A)** par suite des travaux, la capacité maximale projetée, mesurée selon le poids des entrées de minerai, de l’usine qui a traité le minerai provenant de la mine, au cours de l’année suivant les travaux, dépassait d’au moins 25 % la capacité maximale projetée de l’usine au cours de l’année précédant les travaux,
 
 
 
 **(B)** au cours de l’année précédant les travaux, les faits suivants se vérifient :
 
-**(I)** le ministre, en consultation avec le ministre des Ressources naturelles, établit que la capacité maximale projetée de la mine, mesurée selon le poids de la production de minerai, immédiatement après les travaux dépassait d’au moins 25 % la capacité maximale projetée de la mine immédiatement avant les travaux,
+**(I)** le ministre, en consultation avec le ministre des Ressources naturelles, établit que la capacité maximale projetée de la mine, mesurée selon le poids de la production de minerai, immédiatement après les travaux dépassait d’au moins 25 % la capacité maximale projetée de la mine immédiatement avant les travaux,
 
 
 
@@ -19694,7 +19941,7 @@ cette proportion est calculée selon la formule suivante :
 ```
 où :
 - **A** représente le total des montants dont chacun correspond au coût en capital d’un bien du contribuable qui est devenu prêt à être mis en service pour l’application du paragraphe 13(26) de la Loi au cours de l’année et qui est visé aux sous-alinéas (i) à (iv) relativement à la mine ou aux mines, selon le cas,
-- **B** 5 % des produits bruts du contribuable provenant de la ou des mines, selon le cas, pour l’année,
+- **B** 5 % des produits bruts du contribuable provenant de la ou des mines, selon le cas, pour l’année,
 - **C** le nombre de jours de l’année;
 
 
@@ -19717,7 +19964,7 @@ où :
 
 
 
-**(C)** le ministre, en consultation avec le ministre des Ressources naturelles, établit que la capacité maximale projetée de la mine, mesurée selon le volume de pétrole traité jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent, immédiatement après les travaux dépassait d’au moins 25 % la capacité maximale projetée de la mine immédiatement avant les travaux,
+**(C)** le ministre, en consultation avec le ministre des Ressources naturelles, établit que la capacité maximale projetée de la mine, mesurée selon le volume de pétrole traité jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent, immédiatement après les travaux dépassait d’au moins 25 % la capacité maximale projetée de la mine immédiatement avant les travaux,
 
 
 
@@ -48128,6 +48375,7 @@ par
 - Bastyr University, Seattle, Washington
 - Bates College, Lewiston, Maine
 - Baylor College of Medicine, Houston, Texas
+- Baylor University, Waco, Texas
 - Beloit College, Beloit, Wisconsin
 - Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
@@ -48177,6 +48425,7 @@ par
 - Columbia University in the City of New York, New York, New York
 - Concordia College, Moorhead, Minnesota
 - Connecticut College, New London, Connecticut
+- Conway School of Landscape Design, Conway, Massachusetts
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
@@ -48346,6 +48595,7 @@ par
 - Reconstructionist Rabbinical College, Wyncote, Pennsylvanie
 - Reed College, Portland, Oregon
 - Reformed Bible College, Grand Rapids, Michigan
+- Reformed Theological Seminary, Jackson, Mississippi
 - Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
 - Roberts Wesleyan College, North Chili, New York
@@ -48422,6 +48672,7 @@ par
 - Union College, Schenectady, New York
 - Union Institute, The, Cincinnati, Ohio
 - Union Theological Seminary, New York, New York
+- University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
 - University of Arizona, The, Tucson, Arizona
 - University of Arkansas at Little Rock, Little Rock, Arkansas
@@ -48475,6 +48726,7 @@ par
 - University of Rochester, Rochester, New York
 - University of San Diego, San Diego, Californie
 - University of Southern California, Los Angeles, Californie
+- University of Southern Mississippi, The, Hattiesburg, Mississippi
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, Californie
@@ -48669,7 +48921,8 @@ par
 - University of Hong Kong, The, Hong Kong
 
 
-**22** L’université suivante, située en Nouvelle-Zélande, est désignée pour l’application de l’article 3503 :
+**22** Les universités ci-après, situées en Nouvelle-Zélande, sont désignées pour l’application de l’article 3503 :
+- University of Otago, Dunedin
 - Victoria University of Wellington, Wellington
 
 
@@ -48681,7 +48934,7 @@ par
 - Panjab University, Chandigarh
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8.
 
 
 
