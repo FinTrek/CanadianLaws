@@ -669,6 +669,8 @@ that person or partnership shall make an information return in prescribed form i
 	- **(i)** [Repealed, SOR/88-165, s. 1]
 shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such amount.
 
+- **(1.1)** Every person who pays or credits an amount, or provides a benefit to or on behalf of a person who is either a non-resident individual who is an actor or that is a corporation related to such an individual, for the provision in Canada of acting services of the actor in a film or video production, shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such payment, credit or benefit.
+
 - **(2)** Every person resident in Canada who pays or credits, or is deemed by Part I or Part XIII of the Act to pay or credit, to a non-resident person an amount as, on account or in lieu of payment of, or in satisfaction of,
 	- **(a)** a payment of a superannuation or pension benefit,
 	- **(b)** a payment of any allowance or benefit described in any of subparagraphs 56(1)(a)(ii) to (vi) of the Act,
@@ -698,7 +700,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1.
 
 
 
@@ -889,6 +891,26 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(7)** In this section, ***annuitant*** and ***issuer*** have the meanings assigned by subsection 146(1) of the Act.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5.
+
+
+
+
+**214.1** 
+
+- **(1)** The issuer of a registered retirement savings plan shall make an information return in prescribed form in respect of the amounts that have been paid by the annuitant, or by the spouse or common-law partner of the annuitant, under the plan in a contribution year
+	- **(a)** as consideration for any contract referred to in paragraph (a) of the definition ***retirement savings plan*** in subsection 146(1) of the Act to pay a retirement income; or
+	- **(b)** as a contribution or deposit referred to in paragraph (b) of that definition for the purpose stated in that paragraph.
+
+- **(2)** For greater certainty and for the purposes of subsection (1), amounts that have been paid do not include amounts that have been paid or transferred under the plan in accordance with subsection 146(16) of the Act, or those that have been transferred under the plan in accordance with any of subsections 146(21), 146.3(14), 147(19) or 147.3(1), (4) or (5) to (7) of the Act.
+
+- **(3)** The return shall be filed with the Minister on or before the 1st day of May of the year in which the contribution year ends and shall be in respect of the contribution year.
+
+- **(4)** The following definitions apply in this section.
+
+***contribution year*** means the period beginning on the 61st day of one year and ending on the 60th day of the following year. (*année de contribution*)
+
+***issuer*** has the same meaning as in subsection 146(1) of the Act, with any modifications that the circumstances require. (*émetteur*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-123, s. 2.
 
 
 
@@ -2230,12 +2252,10 @@ in that place.
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 13(4) and (7.4), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(4), 82(3), 83(2), 104(5.3) and (14), 110.4(2), 143(2), 146.01(7), 164(6) and 184(3) of the Act;
-- **(b.1)** [Repealed, SOR/99-17, s. 7]
-- **(c)** paragraphs 48(1)(a) and (c), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d) of the Act;
-- **(c.1)** subparagraph 128.1(4)(b)(iv) of the Act; and
+- **(b)** subsections 12.2(4), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(c)** paragraphs 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act; and
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3.
 
 
 
@@ -2638,6 +2658,26 @@ in respect of which the election is made;
 
 
 
+### Realization of Options
+
+
+**1000.1** 
+
+- **(1)** An election under subsection 164(6.1) of the Act shall be made by the legal representative of a deceased taxpayer by filing with the Minister a letter from the legal representative setting out the following:
+	- **(a)** the amount of the benefit referred to in subparagraph 164(6.1)(a)(i) of the Act;
+	- **(b)** the value of the right, and the amount paid for the right, referred to in subparagraph 164(6.1)(a)(ii) of the Act;
+	- **(c)** the deducted amount, referred to in subparagraph 164(6.1)(a)(iii) of the Act; and
+	- **(d)** the amount of the loss referred to in paragraph 164(6.1)(b) of the Act.
+
+- **(2)** The letter shall be filed not later than the day that is the later of
+	- **(a)** the last day provided by the Act for the filing of a return that the legal representative of a deceased taxpayer is required or has elected to file under the Act in respect of the income of that deceased taxpayer for the taxation year in which he or she died, and
+	- **(b)** the day the return of the income for the first taxation year of the deceased taxpayer’s estate is required to be filed under paragraph 150(1)(c) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-123, s. 4.
+
+
+
+
+
 ### Annual Instalments
 
 
@@ -2743,7 +2783,12 @@ and, for the purposes of this paragraph and Schedule III, the capital cost to a 
 	- **(l)** such additional amount as he may claim in respect of property for which a separate class is prescribed by subsection 1101(5k) not exceeding the lesser of
 		- **(i)** the aggregate of his income for the year from that property and from property described in paragraph (n) of Class 12 in Schedule II, determined before making any deduction under this paragraph, and
 		- **(ii)** the undepreciated capital cost to him of property of that separate class as of the end of the year before making any deduction under this paragraph for the year;
-	- **(m)** [Repealed, SOR/78-377, s. 3]
+
+#### Additional Allowance — Canadian Film or Video Production
+
+	- **(m)** such additional amount as the taxpayer claims in respect of property for which a separate class is prescribed by subsection 1101(5k.1) not exceeding the lesser of
+		- **(i)** the taxpayer’s income for the year from the property, determined before making any deduction under this paragraph, and
+		- **(ii)** the undepreciated capital cost to the taxpayer of the property of that separate class at the end of the year (before making any deduction under this paragraph for the year and computed without reference to subsection (2));
 
 #### Class 19
 
@@ -3042,7 +3087,7 @@ the following rules apply:
 		- **(i)** by reason of subparagraph 13(21)(f)(i) of the Act in respect of a property acquired in the year or that became available for use by the taxpayer in the year, or
 		- **(ii)** by reason of subparagraph 13(21)(f)(ii.1) or (ii.2) of the Act in respect of an amount repaid in the year
 to the undepreciated capital cost to the taxpayer of property of a class in Schedule II, other than
-		- **(iii)** property included in paragraph (1)(v), paragraph (w) of Class 10 or any of paragraphs (a) to (c), (e) to (i), (k), (l), (p), (q) and (s) of Class 12,
+		- **(iii)** property included in paragraph (1)(v), paragraph (w) of Class 10 or any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,
 		- **(iv)** property included in any of Classes 13, 14, 15, 23, 24, 27, 29 and 34,
 		- **(v)** where the taxpayer was a corporation described in subsection (16) throughout the year, property that was specified leasing property of the taxpayer at that time,
 		- **(vi)** property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, and
@@ -3110,7 +3155,7 @@ the following rules apply:
 #### Taxation Years Less Than 12 Months
 
 
-- **(3)** Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under paragraph (1)(c), (e), (f), (g), (l), (w), (x), (y), (ya), (zg) or (zh), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
+- **(3)** Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under any of paragraphs (1)(c), (e), (f), (g), (l), (m), (w), (x), (y), (ya), (zg) and (zh), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
 
 - **(4)** Reserved.
 
@@ -3265,7 +3310,7 @@ exceeds the aggregate of
 		- **(iii)** where the principal photography or taping of the film or tape is not completed within 60 days after the end of the year, the amount that may reasonably be considered to be the investor’s proportionate share of the lesser of
 			- **(A)** the production costs incurred in respect of the film or tape before the end of the year, and
 			- **(B)** the proportion of the production costs incurred to the date the principal photography or taping is completed that the percentage of the principal photography or taping completed as of the end of the year, as certified by the Minister of Communications, is of 100 per cent, and
-		- **(iv)** the aggregate of amounts determined under paragraphs (b), (c) and (d) in respect of the film or tape as of the end of the year;
+		- **(iv)** the total of amounts determined under paragraphs (b) to (e) in respect of the film or tape as of the end of the year;
 	- **(b)** where, at any time before the later of
 		- **(i)** the date the principal photography or taping of the film or tape is completed, and
 		- **(ii)** the date the investor acquired the film or tape,
@@ -3278,10 +3323,13 @@ a revenue guarantee (other than a revenue guarantee that is certified by the Min
 is entered into in respect of the film or tape, the amount, if any, that may reasonably be considered to be the portion of the revenue that is to be received by the investor under the terms of the revenue guarantee that has not been included in the investor’s income in the particular taxation year or a preceding taxation year, if
 		- **(iii)** the guarantor and the investor are not dealing at arm’s length,
 		- **(iv)** the vendor and the guarantor are not dealing at arm’s length, or
-		- **(v)** the vendor or a person not dealing at arm’s length with the vendor undertakes in any way, directly or indirectly, to fulfill all or any part of the guarantor’s obligations under the terms of the revenue guarantee; and
+		- **(v)** the vendor or a person not dealing at arm’s length with the vendor undertakes in any way, directly or indirectly, to fulfill all or any part of the guarantor’s obligations under the terms of the revenue guarantee;
 	- **(d)** where, at any time, a revenue guarantee, other than a revenue guarantee in respect of which paragraph (b) or (c) applies, is entered into in respect of the film or tape, the amount, if any, that may reasonably be considered to be the portion of the revenue that is to be received by the investor under the terms of the revenue guarantee that
 		- **(i)** is not due to the investor until a time that is more than four years after the first day on which the guarantor has the right to the use of the film or tape, and
-		- **(ii)** has not been included in the investor’s income in the particular taxation year or a previous taxation year.
+		- **(ii)** has not been included in the investor’s income in the particular taxation year or a previous taxation year; and
+	- **(e)** the portion of any debt obligation of the investor outstanding at the end of the particular year that is convertible into an interest in the film or tape or in the investor.
+
+- **(21.1)** Notwithstanding subsection (1), where a taxpayer has acquired property described in paragraph (s) of Class 10 in Schedule II, or in paragraph (m) of Class 12 of Schedule II, the deduction in respect of the property otherwise allowed to the taxpayer under subsection (1) in computing the taxpayer’s income for a taxation year shall not exceed the amount that it would be if the capital cost to the taxpayer of the property were reduced by the portion of any debt obligation of the taxpayer outstanding at the end of the year that is convertible into an interest in the property or in the taxpayer.
 
 - **(22)** Notwithstanding subsection (1), where an investor has acquired a film or tape after his 1977 taxation year and before 1979 and the principal photography or taping in respect of the film or tape is completed after a particular taxation year and not later than March 1, 1979, in no case shall the deduction in respect of property of Class 12 in Schedule II otherwise allowed to the investor by virtue of subsection (1) in computing his income for the particular taxation year exceed the amount, otherwise determined, if the capital cost to the investor of the film or tape were reduced by the amount, if any, by which
 	- **(a)** the capital cost to the investor of the film or tape as of the end of the year
@@ -3345,7 +3393,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1.
 
 
 
@@ -3584,6 +3632,15 @@ and in respect of which the taxpayer has, by letter attached to the return of hi
 
 - **(5k)** A separate class is hereby prescribed for all property of a taxpayer included in Class 10 of Schedule II by reason of paragraph (w) thereof.
 
+#### Canadian Film or Video Production
+
+
+- **(5k.1)** A separate class is hereby prescribed for all property of a corporation included in Class 10 in Schedule II because of paragraph (x) of that Class that is property
+	- **(a)** in respect of which the corporation is deemed under subsection 125.4(3) of the Act to have paid an amount on account of its tax payable under Part I of the Act for a taxation year; or
+	- **(b)** acquired by the corporation from another corporation where
+		- **(i)** the other corporation is deemed under subsection 125.4(3) of the Act to have paid an amount on account of its tax payable under Part I of the Act for a taxation year in respect of the property, and
+		- **(ii)** the corporations were related to each other throughout the period that began when the other corporation first incurred a qualified labour expenditure (as defined in subsection 125.4(1) of the Act) in respect of the property and ended when the other corporation disposed of the property to the corporation.
+
 #### Class 38 — Property and Outdoor Advertising Signs
 
 
@@ -3622,7 +3679,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2.
 
 
 
@@ -4242,7 +4299,160 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 
 **DIVISION VII** 
-### [Repealed, SOR/95-244, s. 3]
+### Certificates Issued by the Minister of Canadian Heritage
+
+
+
+#### Interpretation
+
+
+**1106** 
+
+- **(1)** The following definitions apply in this Division and in paragraph (x) of Class 10 in Schedule II.
+
+***application for a certificate of completion***, in respect of a film or video production, means an application by a prescribed taxable Canadian corporation in respect of the production, filed with the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s application deadline”) that is the later of
+- **(a)** the day that is 24 months after the end of the corporation’s taxation year in which the production’s principal photography began, or
+- **(b)** the day that is 18 months after the day referred to in paragraph (a), if the corporation has filed, with the Canada Customs and Revenue Agency, and provided to the Minister of Canadian Heritage a copy of, a waiver described in subparagraph 152(4)(a)(ii) of the Act, within the normal reassessment period for the corporation in respect of the first and second taxation years ending after the production’s principal photography began.
+
+***Canadian*** means a person that is
+- **(a)** an individual who is
+	- **(i)** a citizen, as defined in subsection 2(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), of Canada, or
+	- **(ii)** a permanent resident, as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
+- **(b)** a corporation that is a Canadian-controlled entity, as determined under sections 26 to 28 of the [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md).
+
+***Canadian government film agency*** means a federal or provincial government agency whose mandate is related to the provision of assistance to film productions in Canada.
+
+***certificate of completion***, in respect of a film or video production of a corporation, means a certificate certifying that the production has been completed, issued by the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s certification deadline”) that is six months after the production’s application deadline.
+
+***excluded production*** means a film or video production, of a particular corporation that is a prescribed taxable Canadian corporation,
+- **(a)** in respect of which
+	- **(i)** the particular corporation has not filed an application for a certificate of completion before the production’s application deadline,
+	- **(ii)** a certificate of completion has not been issued before the production’s certification deadline,
+	- **(iii)** where the production is not a treaty co-production, neither the particular corporation nor another prescribed taxable Canadian corporation related to the particular corporation
+		- **(A)** is, except to the extent of an interest in the production held by a prescribed taxable Canadian corporation as a co-producer of the production or by a prescribed person, the exclusive worldwide copyright owner in the production for all commercial exploitation purposes for the 25-year period that begins at the earliest time after the production was completed that it is commercially exploitable, and
+		- **(B)** controls the initial licensing of commercial exploitation,
+	- **(iv)** there is not an agreement in writing, for consideration at fair market value, to have the production shown in Canada within the 2-year period that begins at the earliest time after the production was completed that it is commercially exploitable,
+		- **(A)** with a corporation that is a Canadian and is a distributor of film or video productions, or
+		- **(B)** with a corporation that holds a broadcasting license issued by the Canadian Radio-television and Telecommunications Commission for television markets, or
+	- **(v)** distribution is made in Canada within the 2-year period that begins at the earliest time after the production was completed that it is commercially exploitable by a person that is not a Canadian, or
+- **(b)** that is
+	- **(i)** news, current events or public affairs programming, or a programme that includes weather or market reports,
+	- **(ii)** a talk show,
+	- **(iii)** a production in respect of a game, questionnaire or contest (other than a production directed primarily at minors),
+	- **(iv)** a sports event or activity,
+	- **(v)** a gala presentation or an awards show,
+	- **(vi)** a production that solicits funds,
+	- **(vii)** reality television,
+	- **(viii)** pornography,
+	- **(ix)** advertising,
+	- **(x)** a production produced primarily for industrial, corporate or institutional purposes, or
+	- **(xi)** a production, other than a documentary, all or substantially all of which consists of stock footage.
+
+***producer*** means a producer of a film or video production, except that it does not include a person unless the person is the individual who
+- **(a)** controls and is the central decision maker in respect of the production;
+- **(b)** is directly responsible for the acquisition of the production story or screenplay and the development, creative and financial control and exploitation of the production; and
+- **(c)** is identified in the production as being the producer of the production.
+
+***remuneration*** means remuneration other than an amount determined by reference to profits or revenues.
+
+***twinning arrangement*** means the pairing of two distinct film or video productions, one of which is a Canadian film or video production and the other of which is a foreign film or video production.
+
+#### Prescribed Taxable Canadian Corporation
+
+
+- **(2)** For the purposes of section 125.4 of the Act and this Division, ***prescribed taxable Canadian corporation*** means a taxable Canadian corporation that is a Canadian, other than a corporation that is
+	- **(a)** controlled directly or indirectly in any manner whatever by one or more persons all or part of whose taxable income is exempt from tax under Part I of the Act; or
+	- **(b)** a prescribed labour-sponsored venture capital corporation, as defined in section 6701.
+
+#### Treaty Co-production
+
+
+- **(3)** For the purpose of this Division, ***treaty co-production*** means a film or video production whose production is contemplated under any of the following instruments, and to which the instrument applies:
+	- **(a)** a co-production treaty entered into between Canada and another State;
+	- **(b)** the Memorandum of Understanding between the Government of Canada and the Government of the Hong Kong Special Administrative Region of the People’s Republic of China on Film and Television Co-Production;
+	- **(c)** the Common Statement of Policy on Film, Television and Video Co-Productions between Japan and Canada;
+	- **(d)** the Memorandum of Understanding between the Government of Canada and the Government of the Republic of Korea on Television Co-Production; and
+	- **(e)** the Memorandum of Understanding between the Government of Canada and the Government of the Republic of Malta on Audio-Visual Relations.
+
+#### Canadian Film or Video Production
+
+
+- **(4)** Subject to subsections (6) to (9), for the purposes of section 125.4 of the Act, this Part and Schedule II, ***Canadian film or video production*** means a film or video production, other than an excluded production, of a prescribed taxable Canadian corporation in respect of which the Minister of Canadian Heritage has issued a certificate (other than a certificate that has been revoked under subsection 125.4(6) of the Act) and that is
+	- **(a)** a treaty co-production; or
+	- **(b)** a film or video production
+		- **(i)** whose producer is a Canadian at all times during its production,
+		- **(ii)** in respect of which the Minister of Canadian Heritage has allotted not less than six points in accordance with subsection (5),
+		- **(iii)** in respect of which not less than 75% of the total of all costs for services provided in respect of producing the production (other than excluded costs) was payable in respect of services provided to or by individuals who are Canadians, and for the purpose of this subparagraph, excluded costs are
+			- **(A)** costs determined by reference to the amount of income from the production,
+			- **(B)** remuneration payable to, or in respect of, the producer or individuals described in any of subparagraphs (5)(a)(i) to (viii) and (b)(i) to (vi) and paragraph (5)(c) (including any individuals that would be described in paragraph (5)(c) if they were Canadians),
+			- **(C)** amounts payable in respect of insurance, financing, brokerage, legal and accounting fees, and similar amounts, and
+			- **(D)** costs described in subparagraph (iv), and
+		- **(iv)** in respect of which not less than 75% of the total of all costs incurred for the post-production of the production, including laboratory work, sound re-recording, sound editing and picture editing, (other than costs that are determined by reference to the amount of income from the production and remuneration that is payable to, or in respect of, the producer or individuals described in any of subparagraphs (5)(a)(i) to (viii) and (b)(i) to (vi) and paragraph (5)(c), including any individuals that would be described in paragraph (5)(c) if they were Canadians) was incurred in respect of services provided in Canada.
+
+- **(5)** For the purposes of this Division, the Minister of Canadian Heritage shall allot, in respect of a film or video production
+	- **(a)** that is not an animation production, in respect of each of the following persons if that person is an individual who is a Canadian,
+		- **(i)** for the director, two points,
+		- **(ii)** for the screenwriter, two points,
+		- **(iii)** for the lead performer for whose services the highest remuneration was payable, one point,
+		- **(iv)** for the lead performer for whose services the second highest remuneration was payable, one point,
+		- **(v)** for the art director, one point,
+		- **(vi)** for the director of photography, one point,
+		- **(vii)** for the music composer, one point, and
+		- **(viii)** for the picture editor, one point;
+	- **(b)** that is an animation production, in respect of each of the following persons if that person is an individual who is a Canadian,
+		- **(i)** for the director, one point,
+		- **(ii)** for the lead voice for which the highest or second highest remuneration was payable, one point,
+		- **(iii)** for the design supervisor, one point,
+		- **(iv)** for the camera operator where the camera operation is done in Canada, one point,
+		- **(v)** for the music composer, one point, and
+		- **(vi)** for the picture editor, one point;
+	- **(c)** that is an animation production, one point if both the principal screenwriter and the storyboard supervisor are individuals who are Canadians; and
+	- **(d)** that is an animation production, in respect of each of the following places if that place is in Canada,
+		- **(i)** for the place where the layout and background work is done, one point,
+		- **(ii)** for the place where the key animation is done, one point, and
+		- **(iii)** for the place where the assistant animation and in-betweening is done, one point.
+
+- **(6)** A production (other than a production that is an animation production or a treaty co-production) is a Canadian film or video production only if there is allotted in respect of the production two points under subparagraph (5)(a)(i) or (ii) and one point under subparagraph (5)(a)(iii) or (iv).
+
+- **(7)** An animation production (other than a production that is a treaty co-production) is a Canadian film or video production only if there is allotted, in respect of the production,
+	- **(a)** one point under subparagraph (5)(b)(i) or paragraph (5)(c);
+	- **(b)** one point under subparagraph (5)(b)(ii); and
+	- **(c)** one point under subparagraph (5)(d)(ii).
+
+#### Lead performer/screenwriter
+
+
+- **(8)** For the purposes of this Division,
+	- **(a)** a lead performer in respect of a production is an actor or actress who has a leading role in the production having regard to the performer’s remuneration, billing and time on screen;
+	- **(b)** a lead voice in respect of an animation production is the voice of the individual who has a leading role in the production having regard to the length of time that the individual’s voice is heard in the production and the individual’s remuneration; and
+	- **(c)** where a person who is not a Canadian participates in the writing and preparation of the screenplay for a production, the screenwriter is not a Canadian unless the principal screenwriter is an individual who is otherwise a Canadian, the screenplay for the production is based upon a work authored by a Canadian, and the work is published in Canada.
+
+#### Documentary Production
+
+
+- **(9)** A documentary production that is not an excluded production, and that is allotted less than six points because one or more of the positions referred to in paragraph (5)(a) is unoccupied, is a Canadian film or video production if all of the positions described in that paragraph that are occupied in respect of the production are occupied by individuals who are Canadians.
+
+#### Prescribed Person
+
+
+- **(10)** For the purpose of section 125.4 of the Act and this Division, ***prescribed person*** means any of the following:
+	- **(a)** a corporation that holds a television, specialty or pay-television broadcasting licence issued by the Canadian Radio-television and Telecommunications Commission;
+	- **(b)** a corporation that holds a broadcast undertaking licence and that provides production funding as a result of a “significant benefits” commitment given to the Canadian Radio-television and Telecommunications Commission;
+	- **(c)** a person to which paragraph 149(1)(l) of the Act applies and that has a fund that is used to finance Canadian film or video productions;
+	- **(d)** a Canadian government film agency;
+	- **(e)** in respect of a film or video production, a non-resident person that does not carry on a business in Canada through a permanent establishment in Canada where the person’s interest in the production is acquired to comply with the certification requirements of a treaty co-production twinning arrangement; and
+	- **(f)** a person
+		- **(i)** to which paragraph 149(1)(f) of the Act applies,
+		- **(ii)** that has a fund that is used to finance Canadian film or video productions, all or substantially all of which financing is provided by way of a direct ownership interest in those productions, and
+		- **(iii)** that, after 1996, has received donations only from persons described in paragraphs (a) to (e).
+
+#### Prescribed Amount
+
+
+- **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canada Television and Cable Production Fund or the Canada Television Fund/Fonds canadien de télévision.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3.
+
+
 
 
 
@@ -12024,7 +12234,7 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
-**6701** For the purposes of paragraph 40(2)(i), clause 53(2)(k)(i)(C), the definition ***public corporation*** in subsection 89(1), the definition ***specified investment business*** in subsection 125(7), the definition ***approved share*** in subsection 127.4(1), subsections 131(8) and (11), section 186.1, the definition ***financial intermediary corporation*** in subsection 191(1) and the definition ***eligible investment*** in subsection 204.8(1) of the Act, the following are prescribed labour-sponsored venture capital corporations:
+**6701** For the purposes of paragraph 40(2)(i), clause 53(2)(k)(i)(C), the definition ***public corporation*** in subsection 89(1), the definition ***specified investment business*** in subsection 125(7), the definition ***approved share*** in subsection 127.4(1), subsections 131(8) and (11), section 186.1, the definition ***financial intermediary corporation*** in subsection 191(1) and the definition ***eligible investment*** in subsection 204.8(1), of the Act, ***prescribed labour-sponsored venture capital corporation*** means, at any particular time,
 - **(a)** the corporation established by the Act to establish the Fonds de solidarité des travailleurs du Québec (F.T.Q.), Statutes of Quebec 1983, c. 58;
 - **(b)** a corporation that is registered under the provisions of The Labour-sponsored Venture Capital Corporations Act, Statutes of Saskatchewan 1986, c. L-0.2;
 - **(c)** a corporation that is registered under Part 2 of the Employee Investment Act, Revised Statutes of British Columbia, 1996, c. 112;
@@ -12035,7 +12245,7 @@ is prescribed as a class of persons described in the laws of a province.
 - **(g)** the corporation established by An Act to establish Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Statutes of Québec 1995, c. 48;
 - **(h)** a corporation that is registered under Part II of the Equity Tax Credit Act, Statutes of Nova Scotia 1993, c. 3; or
 - **(i)** a corporation that is registered under Part II of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/86-1136, s. 10; SOR/89-551, s. 3; SOR/92-397, s. 3; SOR/92-398, s. 2; SOR/93-396, s. 3; SOR/94-686, ss. 38(F), 79(F); SOR/96-173, s. 2; SOR/97-504, s. 2; SOR/98-12, s. 2; SOR/98-281, s. 3; SOR/99-102, s. 5; SOR/2001-289, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/86-1136, s. 10; SOR/89-551, s. 3; SOR/92-397, s. 3; SOR/92-398, s. 2; SOR/93-396, s. 3; SOR/94-686, ss. 38(F), 79(F); SOR/96-173, s. 2; SOR/97-504, s. 2; SOR/98-12, s. 2; SOR/98-281, s. 3; SOR/99-102, s. 5; SOR/2001-289, s. 4; SOR/2005-126, s. 4.
 
 
 
@@ -14641,12 +14851,12 @@ the person shall, within 60 days after the day on which paragraph 8308(4)(d) or 
 
 **8402** 
 
-- **(1)** Where a provisional PSPA (computed under section 8303, 8304 or 8308) of an individual with respect to an employer that is associated with a past service event (other than a certifiable past service event) is greater than nil, the administrator of each registered pension plan to which the past service event relates shall, within 60 days after the day on which the past service event occurs, file with the Minister an information return in prescribed form reporting such portion of the aggregate of all amounts each of which is the individual’s PSPA with respect to an employer that is associated with the past service event as may reasonably be considered to be attributable to benefits provided under the plan, except that a return is not required to be filed by an administrator if the amount that would otherwise be reported by the administrator is nil.
+- **(1)** Where a provisional PSPA (computed under section 8303, 8304 or 8308) of an individual with respect to an employer that is associated with a past service event (other than a certifiable past service event) is greater than nil, the administrator of each registered pension plan to which the past service event relates shall, within 120 days after the day on which the past service event occurs, file with the Minister an information return in prescribed form reporting such portion of the aggregate of all amounts each of which is the individual’s PSPA with respect to an employer that is associated with the past service event as may reasonably be considered to be attributable to benefits provided under the plan, except that a return is not required to be filed by an administrator if the amount that would otherwise be reported by the administrator is nil.
 
 - **(2)** Where a foreign plan PSPA (computed under subsection 8308.1(5) or (6)) of an individual with respect to an employer associated with a modification of benefits under a foreign plan (as defined by subsection 8308.1(1)) is greater than nil, the employer shall, on or before the last day of February in the year following the calendar year in which the individual’s benefits were modified, file with the Minister an information return in prescribed form reporting the foreign plan PSPA.
 
 - **(3)** Where a specified retirement arrangement PSPA (computed under subsection 8308.3(4) or (5)) of an individual with respect to an employer associated with a modification of benefits under a specified retirement arrangement (as defined by subsection 8308.3(1)) is greater than nil, the employer shall, on or before the last day of February in the calendar year following the calendar year in which the individual’s benefits were modified, file with the Minister an information return in prescribed form reporting the specified retirement arrangement PSPA.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/96-311, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/96-311, s. 11; SOR/2005-123, s. 5.
 
 
 
@@ -17265,80 +17475,113 @@ exceeds
 
 
 
+**PART XCIII** 
+## Film or Video Production Services Tax Credit
+
+
+
+### Accredited Production
+
+
+**9300** 
+
+- **(1)** Subject to subsection (2), for the purpose of section 125.5 of the Act, accredited production means
+	- **(a)** a film or video production in respect of which the aggregate expenditures, included in the cost of the production, in the period that ends 24 months after the time that the principal filming or taping of the production began, exceeds $1,000,000; and
+	- **(b)** a film or video production that is part of a series of television productions that has two or more episodes, or is a pilot programme for such a series of episodes, in respect of which the aggregate expenditures included in the cost of each episode in the period that ends 24 months after the time that the principal filming or taping of the production began exceeds
+		- **(i)** in the case of an episode whose running time is less than 30 minutes, $100,000, and
+		- **(ii)** in any other case, $200,000.
+
+- **(2)** An accredited production does not include a production that is any of the following:
+	- **(a)** news, current events or public affairs programming, or a programme that includes weather or market reports;
+	- **(b)** a talk show;
+	- **(c)** a production in respect of a game, questionnaire or contest;
+	- **(d)** a sports event or activity;
+	- **(e)** a gala presentation or awards show;
+	- **(f)** a production that solicits funds;
+	- **(g)** reality television;
+	- **(h)** pornography;
+	- **(i)** advertising; and
+	- **(j)** a production produced primarily for industrial, corporate or institutional purposes.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 5.
+
+
+
+
+
 ### **SCHEDULE I** 
 **(Sections 100, 102 and 106)**
 ## Ranges of Remuneration and of Total Remuneration
 **1** For the purposes of paragraph 102(1)(c), the ranges of remuneration for each pay period in a taxation year shall be determined as follows:
-- **(a)** in respect of a daily pay period, the ranges of remuneration shall commence at $33 and increase in increments of $1 for each range up to and including $86.99;
-- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $149 and increase in increments of
-	- **(i)** $2 for each range up to and including $256.99,
-	- **(ii)** $4 for each range from $257 to $476.99,
-	- **(iii)** $8 for each range from $477 to $916.99,
-	- **(iv)** $12 for each range from $917 to $1,576.99,
-	- **(v)** $16 for each range from $1,577 to $2,456.99, and
-	- **(vi)** $20 for each range from $2,457 to $3,556.99;
-- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $298 and increase in increments of
-	- **(i)** $4 for each range up to and including $513.99,
-	- **(ii)** $8 for each range from $514 to $953.99,
-	- **(iii)** $16 for each range from $954 to $1,833.99,
-	- **(iv)** $24 for each range from $1,834 to $3,153.99,
-	- **(v)** $32 for each range from $3,154 to $4,913.99, and
-	- **(vi)** $40 for each range from $4,914 to $7,113.99;
-- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $322 and increase in increments of
-	- **(i)** $4 for each range up to and including $537.99,
-	- **(ii)** $8 for each range from $538 to $977.99,
-	- **(iii)** $18 for each range from $978 to $1,967.99,
-	- **(iv)** $26 for each range from $1,968 to $3,397.99,
-	- **(v)** $34 for each range from $3,398 to $5,267.99, and
-	- **(vi)** $44 for each range from $5,268 to $7,687.99;
-- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $644 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,075.99,
-	- **(ii)** $18 for each range from $1,076 to $2,065.99,
-	- **(iii)** $34 for each range from $2,066 to $3,935.99,
-	- **(iv)** $52 for each range from $3,936 to $6,795.99,
-	- **(v)** $70 for each range from $6,796 to $10,645.99, and
-	- **(vi)** $86 for each range from $10,646 to $15,375.99;
-- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $773 and increase in increments of
-	- **(i)** $10 for each range up to and including $1,312.99,
-	- **(ii)** $20 for each range from $1,313 to $2,412.99,
-	- **(iii)** $42 for each range from $2,413 to $4,722.99,
-	- **(iv)** $62 for each range from $4,723 to $8,132.99,
-	- **(v)** $84 for each range from $8,133 to $12,752.99, and
-	- **(vi)** $104 for each range from $12,753 to $18,472.99;
-- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $594 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,025.99,
-	- **(ii)** $16 for each range from $1,026 to $1,905.99,
-	- **(iii)** $32 for each range from $1,906 to $3,665.99,
-	- **(iv)** $48 for each range from $3,666 to $6,305.99,
-	- **(v)** $64 for each range from $6,306 to $9,825.99, and
-	- **(vi)** $80 for each range from $9,826 to $14,225.99; and
-- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $351 and increase in increments of
-	- **(i)** $5 for each range up to and including $620.99,
-	- **(ii)** $10 for each range from $621 to $1,170.99,
-	- **(iii)** $18 for each range from $1,171 to $2,160.99,
-	- **(iv)** $28 for each range from $2,161 to $3,700.99,
-	- **(v)** $38 for each range from $3,701 to $5,790.99, and
-	- **(vi)** $48 for each range from $5,791 to $8,430.99.
+- **(a)** in respect of a daily pay period, the ranges of remuneration shall commence at $36 and increase in increments of $2 for each range up to and including $143.99;
+- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $163 and increase in increments of
+	- **(i)** $2 for each range up to and including $270.99,
+	- **(ii)** $4 for each range from $271 to $490.99,
+	- **(iii)** $8 for each range from $491 to $930.99,
+	- **(iv)** $12 for each range from $931 to $1,590.99,
+	- **(v)** $16 for each range from $1,591 to $2,470.99, and
+	- **(vi)** $20 for each range from $2,471 to $3,570.99;
+- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $325 and increase in increments of
+	- **(i)** $4 for each range up to and including $540.99,
+	- **(ii)** $8 for each range from $541 to $980.99,
+	- **(iii)** $16 for each range from $981 to $1,860.99,
+	- **(iv)** $24 for each range from $1,861 to $3,180.99,
+	- **(v)** $32 for each range from $3,181 to $4,940.99, and
+	- **(vi)** $40 for each range from $4,941 to $7,140.99;
+- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $352 and increase in increments of
+	- **(i)** $4 for each range up to and including $567.99,
+	- **(ii)** $8 for each range from $568 to $1,007.99,
+	- **(iii)** $18 for each range from $1,008 to $1,997.99,
+	- **(iv)** $26 for each range from $1,998 to $3,427.99,
+	- **(v)** $34 for each range from $3,428 to $5,297.99, and
+	- **(vi)** $44 for each range from $5,298 to $7,717.99;
+- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $703 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,134.99,
+	- **(ii)** $18 for each range from $1,135 to $2,124.99,
+	- **(iii)** $34 for each range from $2,125 to $3,994.99,
+	- **(iv)** $52 for each range from $3,995 to $6,854.99,
+	- **(v)** $70 for each range from $6,855 to $10,704.99, and
+	- **(vi)** $86 for each range from $10,705 to $15,434.99;
+- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $843 and increase in increments of
+	- **(i)** $10 for each range up to and including $1,382.99,
+	- **(ii)** $20 for each range from $1,383 to $2,482.99,
+	- **(iii)** $42 for each range from $2,483 to $4,792.99,
+	- **(iv)** $62 for each range from $4,793 to $8,202.99,
+	- **(v)** $84 for each range from $8,203 to $12,822.99, and
+	- **(vi)** $104 for each range from $12,823 to $18,542.99;
+- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $649 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,080.99,
+	- **(ii)** $16 for each range from $1,081 to $1,960.99,
+	- **(iii)** $32 for each range from $1,961 to $3,720.99,
+	- **(iv)** $48 for each range from $3,721 to $6,360.99,
+	- **(v)** $64 for each range from $6,361 to $9,880.99, and
+	- **(vi)** $80 for each range from $9,881 to $14,280.99; and
+- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $384 and increase in increments of
+	- **(i)** $6 for each range up to and including $707.99,
+	- **(ii)** $10 for each range from $708 to $1,257.99,
+	- **(iii)** $18 for each range from $1,258 to $2,247.99,
+	- **(iv)** $28 for each range from $2,248 to $3,787.99,
+	- **(v)** $38 for each range from $3,788 to $5,877.99, and
+	- **(vi)** $48 for each range from $5,878 to $8,517.99.
 
 
 **2** For the purposes of paragraph 102(1)(d), the mid-point of the range of amount of personal credits for a taxation year shall be as follows:
-- **(a)** from $0 to $7,412, $7,412;
-- **(b)** from $7,412.01 to $9,056, $8,234;
-- **(c)** from $9,056.01 to $10,700, $9,878;
-- **(d)** from $10,700.01 to $12,344, $11,522;
-- **(e)** from $12,344.01 to $13,988, $13,166;
-- **(f)** from $13,988.01 to $15,632, $14,810;
-- **(g)** from $15,632.01 to $17,276, $16,454;
-- **(h)** from $17,276.01 to $18,920, $18,098;
-- **(i)** from $18,920.01 to $20,564, $19,742;
-- **(j)** from $20,564.01 to $22,208, $21,386; and
-- **(k)** for amounts in excess of $22,208, the amount of the personal credits.
+- **(a)** from $0 to $8,012, $8,012;
+- **(b)** from $8,012.01 to $9,789, $8,900.50;
+- **(c)** from $9,789.01 to $11,566, $10,677.50;
+- **(d)** from $11,566.01 to $13,343, $12,454.50;
+- **(e)** from $13,343.01 to $15,120, $14,231.50;
+- **(f)** from $15,120.01 to $16,897, $16,008.50;
+- **(g)** from $16,897.01 to $18,674, $17,785.50;
+- **(h)** from $18,674.01 to $20,451, $19,562.50;
+- **(i)** from $20,451.01 to $22,228, $21,339.50;
+- **(j)** from $22,228.01 to $24,005, $23,116.50; and
+- **(k)** for amounts in excess of $24,005, the amount of the personal credits.
 
 
 **3** [Repealed, SOR/2001-221, s. 8]
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8; SOR/2005-123, s. 6.
 
 
 
@@ -18251,7 +18494,7 @@ but is not
 
 
 
-**(s)** a motion picture film or video tape acquired after May 25, 1976, except a property included in paragraph (w) or in Class 12;
+**(s)** a motion picture film or video tape acquired after May 25, 1976, except a property included in paragraph (w) or (x) or in Class 12;
 
 
 
@@ -18305,16 +18548,20 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 
 
 
-**(iii)** to achieve any combination of functions described in subparagraphs (i) and (ii); or
+**(iii)** to achieve any combination of functions described in subparagraphs (i) and (ii);
 
 
 
 
 
-**(w)** a certified production acquired after 1987.
+**(w)** a certified production acquired after 1987 and before March 1996; or
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9..
+
+**(x)** a Canadian film or video production.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6..
 
 
 
@@ -18457,7 +18704,7 @@ Property not included in any other class that is
 
 
 
-**(r)** a videotape cassette acquired after February 15, 1984 for the purpose of renting and that is not expected to be rented to any one person for more than 7 days in any 30 day period
+**(r)** a video-cassette, a video-laser disk or a digital video disk, that is acquired for the purpose of renting and that is not expected to be rented to any one person for more than 7 days in any 30- day period;
 
 
 
@@ -18484,7 +18731,7 @@ and property that would otherwise be included in another class in this Schedule 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7..
 
 
 
@@ -48293,6 +48540,7 @@ by
 - Bastyr University, Seattle, Washington
 - Bates College, Lewiston, Maine
 - Baylor College of Medicine, Houston, Texas
+- Baylor University, Waco, Texas
 - Beloit College, Beloit, Wisconsin
 - Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
@@ -48342,6 +48590,7 @@ by
 - Columbia University in the City of New York, New York, New York
 - Concordia College, Moorhead, Minnesota
 - Connecticut College, New London, Connecticut
+- Conway School of Landscape Design, Conway, Massachusetts
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
@@ -48511,6 +48760,7 @@ by
 - Reconstructionist Rabbinical College, Wyncote, Pennsylvania
 - Reed College, Portland, Oregon
 - Reformed Bible College, Grand Rapids, Michigan
+- Reformed Theological Seminary, Jackson, Mississippi
 - Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
 - Roberts Wesleyan College, North Chili, New York
@@ -48587,6 +48837,7 @@ by
 - Union College, Schenectady, New York
 - Union Institute, The, Cincinnati, Ohio
 - Union Theological Seminary, New York, New York
+- University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
 - University of Arizona, The, Tucson, Arizona
 - University of Arkansas at Little Rock, Little Rock, Arkansas
@@ -48640,6 +48891,7 @@ by
 - University of Rochester, Rochester, New York
 - University of San Diego, San Diego, California
 - University of Southern California, Los Angeles, California
+- University of Southern Mississippi, The, Hattiesburg, Mississippi
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, California
@@ -48835,7 +49087,8 @@ by
 - University of Hong Kong, The, Hong Kong
 
 
-**22** The university situated in New Zealand that is prescribed by section 3503 is the following:
+**22** The universities situated in New Zealand that are prescribed by section 3503 are the following:
+- University of Otago, Dunedin
 - Victoria University of Wellington, Wellington
 
 
@@ -48847,7 +49100,7 @@ by
 - Panjab University, Chandigarh
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8.
 
 
 
