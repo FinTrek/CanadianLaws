@@ -9353,7 +9353,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **462** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), les documents ci-après ne produisent leurs effets sur les biens appartenant à une personne ou sur les sommes dues en raison d’un compte de dépôt que si ceux-ci ou avis de ceux-ci sont signifiés, selon le cas, à la succursale de la banque ayant la possession des biens ou à celle de tenue du compte :
+- **(1)** Sous réserve des paragraphes (3) et (4), les documents ci-après ne produisent leurs effets sur les biens appartenant à une personne ou sur les sommes dues en raison d’un compte de dépôt que si ceux-ci ou avis de ceux-ci sont signifiés, selon le cas, à la succursale de la banque ayant la possession des biens ou à celle de tenue du compte :
 	- **a)** le bref ou l’acte qui introduit une instance ou qui est délivré dans le cadre d’une instance;
 	- **b)** l’ordonnance ou l’injonction du tribunal;
 	- **c)** le document ayant pour effet de céder ou de régulariser un droit sur un bien ou sur un compte de dépôt ou d’en disposer autrement;
@@ -9363,9 +9363,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(2)** À l’exception des documents visés aux paragraphes (1) ou (3), les avis envoyés à la banque concernant un de ses clients ne constituent un avis valable dont le contenu est porté à la connaissance de la banque que s’ils ont été envoyés à la succursale où se trouve le compte du client et que si celle-ci les a reçus.
 
+**Documents : ministre du Revenu national**
+
+- **(2.1)** Toutefois, le simple envoi à la succursale visée aux paragraphes (1) ou (2) ou au bureau visé à l’alinéa (3)a) ou convenu entre la banque et le ministre du Revenu national suffit, pour l’application de ces paragraphes, dans le cas de tout document — avis, demande formelle, ordonnance ou autre — délivré à l’égard du client dans le cadre de l’application :
+	- **a)** par ce ministre, d’une loi fédérale;
+	- **b)** d’une loi d’une province ou d’un texte législatif d’un gouvernement autochtone avec qui ce ministre, ou le ministre, a conclu, sous le régime d’une loi fédérale, un accord de perception fiscale.
+
 **Ordonnance alimentaire et disposition alimentaire**
 
-- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’avis d’exécution relatif à l’ordonnance alimentaire ou à la disposition alimentaire si les conditions suivantes sont réunies :
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’avis d’exécution relatif à l’ordonnance alimentaire ou à la disposition alimentaire si les conditions suivantes sont réunies :
 	- **a)** l’avis, accompagné d’une déclaration écrite contenant les renseignements réglementaires, est signifié au bureau d’une banque désigné conformément aux règlements pour une province;
 	- **b)** l’ordonnance ou la disposition est exécutoire sous le régime du droit de la province.
 
@@ -9375,7 +9381,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** régir, pour l’application du paragraphe (3), la désignation, par une banque, du lieu de signification, dans la province en cause, des avis d’exécution relatifs aux ordonnances alimentaires et aux dispositions alimentaires;
 	- **b)** prévoir les modalités selon lesquelles la banque doit faire connaître au public les lieux où sont situés ses bureaux désignés;
 	- **c)** régir les renseignements devant accompagner les avis d’exécution relatifs aux ordonnances alimentaires et aux dispositions alimentaires.
@@ -9384,14 +9390,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***avis d’exécution*** Bref de saisie-arrêt ou autre document délivré sous le régime des lois d’une province pour l’exécution d’une ordonnance alimentaire ou d’une disposition alimentaire.
+***avis d’exécution*** Bref de saisie-arrêt ou autre document délivré sous le régime des lois d’une province pour l’exécution d’une ordonnance alimentaire ou d’une disposition alimentaire. (*enforcement notice*)
 
-***bureau désigné*** Bureau désigné conformément aux règlements d’application du paragraphe (3).
+***bureau désigné*** Bureau désigné conformément aux règlements d’application du paragraphe (3). (*designated office*)
 
-***disposition alimentaire*** Disposition d’une entente relative aux aliments.
+***disposition alimentaire*** Disposition d’une entente relative aux aliments. (*support provision*)
 
-***ordonnance alimentaire*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire.
-> 1991, ch. 46, art. 462; 2001, ch. 9, art. 126.
+***ordonnance alimentaire*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire. (*support order*)
+> 1991, ch. 46, art. 462; 2001, ch. 9, art. 126; 2005, ch. 19, art. 57.
 
 
 
@@ -13112,7 +13118,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **579** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), les documents ci-après ne produisent leurs effets sur les biens appartenant à une personne ou sur les sommes dues en raison d’un compte de dépôt que si ceux-ci ou avis de ceux-ci sont signifiés, selon le cas, à la succursale de la banque étrangère autorisée ayant la possession des biens ou à celle de tenue du compte :
+- **(1)** Sous réserve des paragraphes (3) et (4), les documents ci-après ne produisent leurs effets sur les biens appartenant à une personne ou sur les sommes dues en raison d’un compte de dépôt que si ceux-ci ou avis de ceux-ci sont signifiés, selon le cas, à la succursale de la banque étrangère autorisée ayant la possession des biens ou à celle de tenue du compte :
 	- **a)** le bref ou l’acte qui introduit une instance ou qui est délivré dans le cadre d’une instance;
 	- **b)** l’ordonnance ou l’injonction du tribunal;
 	- **c)** le document ayant pour effet de céder ou de régulariser un droit sur un bien ou sur un compte de dépôt ou d’en disposer autrement;
@@ -13122,9 +13128,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(2)** À l’exception des documents visés aux paragraphes (1) ou (3), les avis envoyés à la banque étrangère autorisée concernant un de ses clients ne constituent un avis valable dont le contenu est porté à la connaissance de la banque étrangère autorisée que s’ils ont été envoyés à la succursale où se trouve le compte du client et que si celle-ci les a reçus.
 
+**Documents : ministre du Revenu national**
+
+- **(2.1)** Toutefois, le simple envoi à la succursale visée aux paragraphes (1) ou (2) ou au bureau visé à l’alinéa (3)a) ou convenu entre la banque étrangère autorisée et le ministre du Revenu national suffit, pour l’application de ces paragraphes, dans le cas de tout document — avis, demande formelle, ordonnance ou autre — délivré à l’égard du client dans le cadre de l’application :
+	- **a)** par ce ministre, d’une loi fédérale;
+	- **b)** d’une loi d’une province ou d’un texte législatif d’un gouvernement autochtone avec qui ce ministre, ou le ministre, a conclu, sous le régime d’une loi fédérale, un accord de perception fiscale.
+
 **Ordonnance alimentaire et disposition alimentaire**
 
-- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’avis d’exécution relatif à l’ordonnance alimentaire ou à la disposition alimentaire si les conditions suivantes sont réunies :
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’avis d’exécution relatif à l’ordonnance alimentaire ou à la disposition alimentaire si les conditions suivantes sont réunies :
 	- **a)** l’avis, accompagné d’une déclaration écrite contenant les renseignements réglementaires, est signifié au bureau d’une banque étrangère autorisée désigné conformément aux règlements pour une province;
 	- **b)** l’ordonnance ou la disposition est exécutoire sous le régime du droit de la province.
 
@@ -13134,7 +13146,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
+- **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** régir, pour l’application du paragraphe (3), la désignation, par une banque étrangère autorisée, du lieu de signification, dans la province en cause, des avis d’exécution relatifs aux ordonnances alimentaires et aux dispositions alimentaires;
 	- **b)** prévoir les modalités selon lesquelles la banque étrangère autorisée doit faire connaître au public les lieux où sont situés ses bureaux désignés;
 	- **c)** régir les renseignements devant accompagner les avis d’exécution relatifs aux ordonnances alimentaires et aux dispositions alimentaires.
@@ -13143,14 +13155,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***avis d’exécution*** Bref de saisie-arrêt ou autre document délivré sous le régime des lois d’une province pour l’exécution d’une ordonnance alimentaire ou d’une disposition alimentaire.
+***avis d’exécution*** Bref de saisie-arrêt ou autre document délivré sous le régime des lois d’une province pour l’exécution d’une ordonnance alimentaire ou d’une disposition alimentaire. (*enforcement notice*)
 
-***bureau désigné*** Bureau désigné conformément aux règlements d’application du paragraphe (3).
+***bureau désigné*** Bureau désigné conformément aux règlements d’application du paragraphe (3). (*designated office*)
 
-***disposition alimentaire*** Disposition d’une entente relative aux aliments.
+***disposition alimentaire*** Disposition d’une entente relative aux aliments. (*support provision*)
 
-***ordonnance alimentaire*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire.
-> 1991, ch. 46, art. 579; 1999, ch. 28, art. 35; 2001, ch. 9, art. 160.
+***ordonnance alimentaire*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire. (*support order*)
+> 1991, ch. 46, art. 579; 1999, ch. 28, art. 35; 2001, ch. 9, art. 160; 2005, ch. 19, art. 58.
 
 
 
