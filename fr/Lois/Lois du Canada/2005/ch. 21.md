@@ -1,0 +1,1943 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%2021.md)
+
+# Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes
+
+**L.C. 2005, ch. 21**
+
+
+Sanctionnée sur le 13 mai 2005
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes.
+
+
+
+
+## Définitions et interprétation
+
+
+
+**Définitions**
+
+**2** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***assistance professionnelle*** Tous les services susceptibles d’aider une personne à se trouver un emploi convenable, tels l’évaluation de l’aptitude à l’emploi, l’orientation professionnelle, la formation, les conseils et l’aide en matière de recherche d’emploi.
+
+***conjoint de fait*** La personne qui vit avec le militaire ou vétéran en cause dans une relation conjugale depuis au moins un an.
+
+***due au service*** Se dit de l’aggravation d’une blessure ou maladie non liée au service qui est :
+- **a)** soit survenue au cours du service spécial ou attribuable à celui-ci;
+- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes.
+
+***enfant à charge*** L’enfant du militaire ou vétéran ou l’enfant de son époux ou conjoint de fait qui réside habituellement avec lui et qui, selon le cas :
+- **a)** est âgé de moins de dix-huit ans;
+- **b)** est âgé de moins de vingt-cinq ans et suit un cours approuvé par le ministre;
+- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre.
+
+***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées.
+
+***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, indemnité d’invalidité, indemnité de décès, allocation vestimentaire ou indemnité de captivité prévues par la présente loi.
+
+***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental.
+
+***liée au service*** Se dit de la blessure ou maladie :
+- **a)** soit survenue au cours du service spécial ou attribuable à celui-ci;
+- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes.
+
+***militaire*** Officier ou militaire du rang des Forces canadiennes au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+***ministre*** Le ministre des Anciens Combattants.
+
+***orphelin*** L’enfant du militaire ou vétéran décédé ou l’enfant de son survivant qui, au moment du décès du militaire ou vétéran, résidait habituellement avec lui et qui, selon le cas :
+- **a)** est âgé de moins de dix-huit ans;
+- **b)** est âgé de moins de vingt-cinq ans et suit un cours approuvé par le ministre;
+- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre.
+
+***réadaptation médicale*** Soins ou traitements prodigués pour stabiliser et rétablir les fonctions physiques et psychologiques de base de la personne.
+
+***réadaptation professionnelle*** À l’égard d’une personne qui présente un problème de santé physique ou mentale, tout processus destiné à fixer et à atteindre des objectifs professionnels compte tenu de son état de santé, sa scolarité, ses compétences et son expérience sur le marché du travail.
+
+***réadaptation psychosociale*** Interventions psychologiques et sociales visant à aider une personne à regagner son autonomie et à promouvoir son adaptation sociale.
+
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+
+***services de réadaptation*** L’ensemble des services visant la réadaptation médicale, psychosociale et professionnelle d’une personne.
+
+***service spécial*** Service effectué par un militaire soit dans une zone de service spécial désignée au titre de l’article 69, soit dans le cadre d’une opération de service spécial désignée au titre de l’article 70, pendant la période visée par la désignation. Sont assimilés au service spécial, s’ils ont lieu pendant cette période mais au plus tôt le 11 septembre 2001 : 
+- **a)** la formation reçue spécialement en vue du service spécial dans la zone ou dans le cadre de l’opération, sans égard au lieu où elle est reçue;
+- **b)** le déplacement pour se rendre dans la zone, sur les lieux de l’opération ou dans le lieu de la formation visée à l’alinéa a) et en revenir;
+- **c)** le congé autorisé avec solde pris durant ce service, sans égard au lieu où il est pris.
+
+***survivant*** Selon le cas :
+- **a)** l’époux qui, au moment du décès du militaire ou vétéran, résidait avec celui-ci;
+- **b)** la personne qui, au moment du décès du militaire ou vétéran, était son conjoint de fait.
+
+***Tribunal*** Le Tribunal des anciens combattants (révision et appel) constitué par l’article 4 de la [Loi sur le Tribunal des anciens combattants (révision et appel)](/fr/Lois/Lois%20du%20Canada/1995/ch.%2018.md).
+
+***vétéran*** Ex-militaire.
+
+**Couples séparés**
+
+- **(2)** L’époux est considéré comme résidant avec le militaire ou vétéran et le conjoint de fait conserve sa qualité de conjoint de fait s’il est démontré que l’époux ou conjoint de fait ne vit pas avec le militaire ou vétéran pour l’une ou l’autre des raisons suivantes :
+	- **a)** le placement de l’un d’eux dans un établissement de santé;
+	- **b)** une situation de nature temporaire;
+	- **c)** d’autres circonstances indépendantes de leur volonté.
+
+**Mention de l’époux**
+
+- **(3)** La mention de l’époux vaut mention de l’époux qui réside avec le militaire ou vétéran.
+
+**Mariage récent**
+
+- **(4)** La présente loi ne s’applique pas à l’époux survivant si le militaire ou vétéran décède dans l’année qui suit la date de son mariage, sauf si :
+	- **a)** de l’avis du ministre, le militaire ou vétéran jouissait, lors de son mariage, d’un état de santé le justifiant de croire qu’il pourrait vivre encore au moins un an;
+	- **b)** l’époux, au moment du décès du militaire ou vétéran, vivait avec celui-ci dans une relation conjugale depuis au moins un an.
+
+**Conduite du militaire ou vétéran**
+
+- **(5)** La présente loi ne s’applique pas à l’égard du problème de santé physique ou mentale, de l’invalidité ou du décès du militaire ou vétéran causé par l’automutilation ou résultant de sa mauvaise conduite, telle la désobéissance préméditée aux ordres et la conduite malveillante ou criminelle.
+
+
+
+
+**PARTIE 1** 
+## Aide au placement
+
+
+
+**Admissibilité : militaire et vétéran**
+
+**3** 
+
+- **(1)** Le ministre peut, sur demande, fournir des services d’aide au placement au militaire ou vétéran qui satisfait aux conditions d’admissibilité réglementaires s’il est convaincu que cette aide est nécessaire à la réintégration de celui-ci dans la population active civile.
+
+**Admissibilité : époux, conjoint de fait et survivant**
+
+- **(2)** Il peut également, sur demande, fournir des services d’aide au placement à l’époux ou conjoint de fait ou au survivant qui satisfait aux conditions d’admissibilité réglementaires.
+
+
+
+
+**Évaluation des besoins**
+
+**4** 
+
+- **(1)** S’il approuve la demande, le ministre évalue les besoins en matière d’orientation professionnelle, de conseils et d’aide à la recherche d’emploi du militaire ou vétéran, de l’époux ou conjoint de fait ou du survivant.
+
+**Programme d’aide au placement**
+
+- **(2)** Le ministre peut élaborer et mettre en oeuvre un programme d’aide au placement visant à combler les besoins déterminés lors de l’évaluation.
+
+**Considérations**
+
+- **(3)** Dans l’élaboration du programme d’aide au placement, le ministre tient compte des principes réglementaires.
+
+
+
+
+**Services offerts par un tiers**
+
+**5** Le ministre peut refuser de fournir les services d’aide au placement prévus à la présente partie à toute personne dans la mesure où celle-ci a droit de les recevoir d’un tiers.
+
+
+
+
+**PARTIE 2** 
+## Services de réadaptation, assistance professionnelle et avantages financiers
+
+
+
+### Généralités
+
+
+
+**Application de la présente partie**
+
+**6** La présente partie ne s’applique pas à l’égard d’un problème de santé physique ou mentale qui découle principalement :
+- **a)** du service dans les Forces canadiennes accompli avant le 2 avril 1947;
+- **b)** du service accompli pendant la guerre de Corée, au sens du paragraphe 3(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+
+
+
+**Blessure ou maladie réputée liée au service**
+
+**7** Pour l’application de la présente partie, est réputée être une blessure ou maladie liée au service la blessure ou maladie qui, en tout ou en partie, est la conséquence :
+- **a)** d’une blessure ou maladie liée au service;
+- **b)** d’une blessure ou maladie non liée au service dont l’aggravation est due au service;
+- **c)** d’une blessure ou maladie qui est elle-même la conséquence d’une blessure ou maladie visée par les alinéas a) ou b);
+- **d)** d’une blessure ou maladie qui est la conséquence d’une blessure ou maladie visée par l’alinéa c).
+
+
+
+
+### Services de réadaptation et assistance professionnelle
+
+
+
+**Admissibilité : besoins en matière de réadaptation**
+
+**8** 
+
+- **(1)** Le ministre peut, sur demande, fournir des services de réadaptation au vétéran si celui-ci présente un problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile.
+
+**Décision du ministre**
+
+- **(2)** Pour établir, d’une part, si le problème de santé physique ou mentale du vétéran découle principalement de son service dans les Forces canadiennes et, d’autre part, s’il entrave sa réinsertion dans la vie civile, le ministre tient compte de tout facteur qu’il juge pertinent, notamment :
+	- **a)** tout dossier ou bilan médical concernant le problème de santé;
+	- **b)** tout document concernant le service militaire du vétéran;
+	- **c)** tout document fourni par celui-ci concernant son problème de santé;
+	- **d)** toute recherche établissant l’existence de problèmes de santé propres aux militaires.
+
+**Présomption**
+
+- **(3)** Le problème de santé physique ou mentale pour lequel le vétéran a reçu l’indemnité d’invalidité prévue à l’article 45 ou pour lequel une pension lui a été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) est réputé découler principalement de son service dans les Forces canadiennes.
+
+
+
+
+**Admissibilité : libération pour des raisons de santé**
+
+**9** 
+
+- **(1)** Le ministre peut, sur demande, fournir des services de réadaptation ou de l’assistance professionnelle au vétéran qui a été libéré pour des raisons de santé au titre du chapitre 15 des Ordonnances et règlements royaux applicables aux Forces canadiennes.
+
+**Rejet de la demande**
+
+- **(2)** Le ministre ne peut examiner la demande présentée plus de cent vingt jours après la libération du vétéran sauf s’il est d’avis qu’il existe dans les circonstances un motif raisonnable justifiant le retard.
+
+**Exception**
+
+- **(3)** Le paragraphe (1) ne s’applique pas au vétéran qui appartenait à une catégorie réglementaire au moment où le problème de santé physique ou mentale qui a mené à sa libération s’est déclaré.
+
+
+
+
+**Évaluation des besoins**
+
+**10** 
+
+- **(1)** S’il approuve la demande présentée au titre des articles 8 ou 9, le ministre évalue les besoins du vétéran en matière de réadaptation médicale, psychosociale et professionnelle et, dans le cas du vétéran qui a présenté une demande au titre de l’article 9 et qui n’a aucun besoin en matière de réadaptation, ses besoins en matière d’assistance professionnelle.
+
+**Programme de réadaptation**
+
+- **(2)** Le ministre peut élaborer et mettre en oeuvre un programme de réadaptation visant à combler les besoins déterminés à cet égard lors de l’évaluation.
+
+**Exception**
+
+- **(3)** Le programme de réadaptation vise uniquement :
+	- **a)** dans le cas du vétéran libéré pour des raisons de santé, le problème de santé physique ou mentale qui a mené à sa libération;
+	- **b)** dans les autres cas, le problème de santé physique ou mentale qui découle principalement de son service dans les Forces canadiennes et entrave sa réinsertion dans la vie civile.
+
+**Programme d’assistance professionnelle**
+
+- **(4)** Le ministre peut élaborer et mettre en oeuvre un programme d’assistance professionnelle visant à combler les besoins déterminés à cet égard lors de l’évaluation.
+
+**Considérations**
+
+- **(5)** Dans l’élaboration du programme de réadaptation et du programme d’assistance professionnelle, le ministre tient compte des principes et facteurs réglementaires et des résultats de recherches récentes dans ces domaines.
+
+
+
+
+**Admissibilité : époux et conjoint de fait**
+
+**11** 
+
+- **(1)** Le ministre peut, sur demande, fournir des services de réadaptation et de l’assistance professionnelle à l’époux ou conjoint de fait du vétéran si, à la fois :
+	- **a)** il a approuvé la demande de services de réadaptation présentée par le vétéran;
+	- **b)** il constate, en se fondant sur l’évaluation des besoins du vétéran, que celui-ci ne tirerait aucun avantage de la réadaptation professionnelle du fait que le problème de santé physique ou mentale à l’origine de la demande de services de réadaptation a entraîné son incapacité totale et permanente.
+
+**Continuation**
+
+- **(2)** Dans le cas où le vétéran décède après l’approbation de la demande présentée au titre du paragraphe (1), le survivant continue d’être admissible aux services de réadaptation et à l’assistance professionnelle.
+
+
+
+
+**Admissibilité : survivant**
+
+**12** Le ministre peut, sur demande, fournir des services de réadaptation ou de l’assistance professionnelle au survivant de tout militaire ou vétéran qui est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
+
+
+
+
+**Évaluation des besoins**
+
+**13** 
+
+- **(1)** S’il approuve la demande présentée au titre du paragraphe 11(1) ou de l’article 12, le ministre évalue les besoins de l’époux ou conjoint de fait ou du survivant en matière d’assistance professionnelle et, si de tels besoins sont déterminés, ses besoins en matière de réadaptation médicale, psychosociale et professionnelle.
+
+**Programme d’assistance professionnelle**
+
+- **(2)** Le ministre peut, en vue de rétablir la capacité de l’époux ou conjoint de fait ou du survivant à gagner un revenu qui, de l’avis du ministre, est raisonnable compte tenu de sa scolarité, ses compétences et son expérience sur le marché du travail, élaborer et mettre en oeuvre un programme d’assistance professionnelle visant à combler les besoins déterminés à cet égard lors de l’évaluation.
+
+**Programme de réadaptation**
+
+- **(3)** Dans la mesure nécessaire pour atteindre l’objectif visé au paragraphe (2), le ministre peut élaborer et mettre en oeuvre un programme de réadaptation visant à combler les besoins déterminés à cet égard lors de l’évaluation.
+
+**Considérations**
+
+- **(4)** Dans l’élaboration du programme de réadaptation et du programme d’assistance professionnelle, le ministre tient compte des principes et facteurs réglementaires et des résultats de recherches récentes dans ces domaines.
+
+
+
+
+**Durée des programmes**
+
+**14** 
+
+- **(1)** Le ministre fixe la durée du programme de réadaptation ou d’assistance professionnelle.
+
+**Évaluation des programmes**
+
+- **(2)** Il peut également évaluer tout programme en place, le modifier ou en modifier la durée.
+
+
+
+
+**Examen médical**
+
+**15** 
+
+- **(1)** Lors de l’évaluation d’un programme de réadaptation, le ministre peut exiger de l’intéressé qu’il subisse un examen médical ou une évaluation par la personne qu’il précise.
+
+**Évaluation**
+
+- **(2)** Lors de l’évaluation d’un programme d’assistance professionnelle, le ministre peut exiger de l’intéressé qu’il subisse une évaluation par la personne qu’il précise.
+
+**Défaut**
+
+- **(3)** Si l’intéressé omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler le programme de réadaptation ou d’assistance professionnelle.
+
+
+
+
+**Services assurés par un tiers**
+
+**16** 
+
+- **(1)** Le ministre peut refuser de fournir des services de réadaptation ou de l’assistance professionnelle dans la mesure où ceux-ci sont assurés dans le cadre d’un régime d’assurance-maladie provincial, d’un régime offert par un organisme compétent au titre d’une loi provinciale ou fédérale sur les accidents du travail ou de tout autre régime prévu par règlement.
+
+**Refus de fournir les services**
+
+- **(2)** Il peut également refuser de fournir tout ou partie des services de réadaptation ou de l’assistance professionnelle si la personne en a déjà bénéficié ou s’il estime que son refus est raisonnable dans les circonstances.
+
+
+
+
+**Annulation**
+
+**17** Le ministre peut, dans les circonstances réglementaires, annuler tout programme de réadaptation ou d’assistance professionnelle.
+
+
+
+
+### Allocation pour perte de revenus
+
+
+
+**Admissibilité : vétéran**
+
+**18** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation pour perte de revenus au vétéran s’il décide, par suite de l’évaluation des besoins de celui-ci conformément au paragraphe 10(1), qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré à son égard.
+
+**Début de l’allocation**
+
+- **(2)** L’allocation est exigible à compter du jour où le ministre décide qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré.
+
+**Fin de l’allocation**
+
+- **(3)** Sous réserve du paragraphe (4) et de l’article 21, le vétéran n’a plus droit à l’allocation à partir du premier en date des jours suivants :
+	- **a)** celui où le vétéran termine le programme de réadaptation ou d’assistance professionnelle;
+	- **b)** celui où le programme est annulé;
+	- **c)** celui où le vétéran atteint l’âge de soixante-cinq ans.
+
+**Continuation**
+
+- **(4)** Si le ministre est d’avis que le vétéran présente un problème de santé physique ou mentale pour lequel un programme de réadaptation a été élaboré et que ce problème de santé entraîne son incapacité totale et permanente à occuper un emploi rémunérateur et convenable, l’allocation continue d’être versée même si le vétéran a terminé le programme ou si celui-ci a été annulé, et ce jusqu’au premier en date des jours suivants :
+	- **a)** celui où le ministre est d’avis que le vétéran ne présente plus le problème de santé qui a entraîné son incapacité totale et permanente à occuper un emploi rémunérateur et convenable;
+	- **b)** celui où le vétéran atteint l’âge de soixante-cinq ans.
+
+
+
+
+**Montant de l’allocation**
+
+**19** 
+
+- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 18 correspond au résultat obtenu par la formule suivante :
+```
+A - B
+```
+où :
+- **A** représente soixante-quinze pour cent du revenu attribué du vétéran pour un mois;
+- **B** toute somme exigible d’une source réglementaire par le vétéran pour un mois.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** régissant la détermination du revenu attribué à l’égard d’une catégorie de vétérans;
+	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de vétérans;
+	- **c)** prévoyant le rajustement périodique de la valeur des éléments A et B de la formule figurant au paragraphe (1);
+	- **d)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le vétéran pour un mois.
+
+
+
+
+**Examen médical et évaluation**
+
+**20** 
+
+- **(1)** Le ministre peut exiger du vétéran qui, en raison d’une incapacité totale et permanente, reçoit — ou recevrait n’était le niveau de son revenu — l’allocation pour perte de revenus au titre de l’article 18 que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+
+**Défaut**
+
+- **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
+
+
+
+
+**Annulation**
+
+**21** Le ministre peut, dans les circonstances réglementaires, annuler l’allocation pour perte de revenus versée au titre de l’article 18.
+
+
+
+
+**Admissibilité : survivant et orphelins**
+
+**22** 
+
+- **(1)** Le ministre peut, sur demande, verser au survivant ou à l’orphelin, en conformité avec l’article 23, une allocation pour perte de revenus si le militaire ou vétéran est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
+
+**Début des versements**
+
+- **(2)** L’allocation est exigible à compter du dernier en date des moments suivants :
+	- **a)** le lendemain du décès du militaire ou vétéran;
+	- **b)** un an avant l’approbation de la demande.
+
+**Fin des versements**
+
+- **(3)** L’allocation cesse d’être versée le jour où le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+
+
+
+
+**Montant de l’allocation**
+
+**23** 
+
+- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 22 correspond à soixante-quinze pour cent du revenu attribué du militaire ou vétéran pour un mois.
+
+**Répartition de l’allocation**
+
+- **(2)** Les règles ci-après s’appliquent à la répartition de l’allocation pour perte de revenus accordée au survivant ou à l’orphelin :
+	- **a)** s’il y a un survivant mais aucun orphelin, l’allocation est versée en entier au survivant;
+	- **b)** s’il y a un survivant et un ou plusieurs orphelins :
+		- **(i)** le survivant reçoit soixante pour cent du montant de l’allocation,
+		- **(ii)** chaque orphelin reçoit la somme résultant de la division de quarante pour cent du montant de l’allocation par le nombre d’orphelins;
+	- **c)** s’il y a un ou plusieurs orphelins mais pas de survivant, chaque orphelin reçoit la moindre des sommes suivantes :
+		- **(i)** quarante pour cent du montant de l’allocation,
+		- **(ii)** la somme résultant de la division du montant de l’allocation par le nombre d’orphelins.
+
+**Réduction**
+
+- **(3)** Sous réserve des règlements, le versement mensuel de l’allocation accordée au survivant est réduit de toute somme que celui-ci peut exiger d’une source réglementaire pour un mois à l’égard du militaire ou vétéran.
+
+**Règlements**
+
+- **(4)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** régissant la détermination du revenu attribué à l’égard d’une catégorie de militaires ou vétérans;
+	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de militaires ou vétérans;
+	- **c)** prévoyant le rajustement périodique du montant de l’allocation visé au paragraphe (1) et de la somme visée au paragraphe (3);
+	- **d)** régissant la détermination, pour l’application du paragraphe (3), de toute somme exigible par le survivant pour un mois.
+
+
+
+
+**Versement au prorata**
+
+**24** Toute allocation pour perte de revenus exigible pour une partie de mois est calculée au prorata sur la base d’un mois de trente jours.
+
+
+
+
+### Prestation de retraite supplémentaire
+
+
+
+**Admissibilité : vétéran**
+
+**25** 
+
+- **(1)** Le ministre peut, sur demande, verser une prestation de retraite supplémentaire au vétéran qui a reçu — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus au titre du paragraphe 18(4), si celui-ci n’a plus droit à cette allocation.
+
+**Admissibilité : survivant**
+
+- **(2)** Le ministre peut, sur demande, verser une prestation de retraite supplémentaire au survivant du vétéran qui, au moment de son décès, recevait — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus au titre du paragraphe 18(4), à la condition que le survivant n’ait pas lui-même droit à cette allocation en vertu de l’article 22.
+
+**Admissibilité : survivant**
+
+- **(3)** Le ministre peut, sur demande, verser la prestation de retraite supplémentaire au survivant qui recevait l’allocation pour perte de revenus en vertu de l’article 22 si celui-ci n’a plus droit à cette allocation.
+
+
+
+
+**Montant de la prestation**
+
+**26** Le gouverneur en conseil peut prendre des règlements prévoyant le montant de la prestation de retraite supplémentaire à verser à l’égard d’une ou de plusieurs catégories de vétérans ou de survivants.
+
+
+
+
+### Allocation de soutien du revenu
+
+
+
+**Admissibilité : vétéran**
+
+**27** Le ministre peut, sur demande présentée dans le délai réglementaire, verser une allocation de soutien du revenu au vétéran qui a reçu — ou aurait reçu n’eût été le niveau de son revenu — l’allocation pour perte de revenus visée à l’article 18 si, à la fois :
+- **a)** le vétéran n’a plus droit à l’allocation pour perte de revenus;
+- **b)** il remplit les conditions réglementaires relatives à l’emploi;
+- **c)** pour le mois au cours duquel la demande est présentée, le résultat obtenu par la formule figurant au paragraphe 37(1) est supérieur à zéro.
+
+
+
+
+**Admissibilité : survivant**
+
+**28** Le ministre peut, sur demande présentée dans le délai réglementaire, verser une allocation de soutien du revenu au survivant du vétéran qui recevait cette allocation au moment de son décès si, à la fois :
+- **a)** le vétéran est décédé d’une cause autre que celle visée à l’alinéa 29a);
+- **b)** le survivant remplit les conditions réglementaires relatives à l’emploi;
+- **c)** pour le mois au cours duquel la demande est présentée, le résultat obtenu par la formule figurant au paragraphe 37(1) est supérieur à zéro.
+
+
+
+
+**Admissibilité : survivant**
+
+**29** Le ministre peut, sur demande, verser une allocation de soutien du revenu au survivant si, à la fois :
+- **a)** le militaire ou vétéran est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service;
+- **b)** le jour où la demande est approuvée, le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+
+
+
+
+**Admissibilité : orphelin**
+
+**30** Le ministre peut, sur demande, verser une allocation de soutien du revenu à l’orphelin si, à la fois :
+- **a)** le vétéran est décédé d’une cause autre que celle visée à l’alinéa 31a);
+- **b)** il recevait cette allocation au moment de son décès.
+
+
+
+
+**Admissibilité : orphelin**
+
+**31** Le ministre peut, sur demande, verser une allocation de soutien du revenu à l’orphelin si, à la fois :
+- **a)** le militaire ou vétéran est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service;
+- **b)** le jour où la demande est approuvée, le militaire ou vétéran aurait atteint l’âge de soixante-cinq ans.
+
+
+
+
+**Début des versements**
+
+**32** L’allocation de soutien du revenu à verser au titre des articles 29, 30 ou 31 est exigible à compter du dernier en date des moments suivants :
+- **a)** le premier jour du mois suivant celui au cours duquel le militaire ou vétéran est décédé;
+- **b)** un an avant le premier jour du mois au cours duquel la demande d’allocation est approuvée.
+
+
+
+
+**Résidence au Canada**
+
+**33** L’allocation de soutien du revenu est versée uniquement à la personne qui réside au Canada.
+
+
+
+
+**Versement pour le mois**
+
+**34** Si, au cours d’un mois donné, la personne qui reçoit l’allocation de soutien du revenu décède ou cesse de résider au Canada, l’allocation est versée comme si le droit à l’allocation avait existé pendant tout le mois.
+
+
+
+
+**Participation obligatoire**
+
+**35** 
+
+- **(1)** Le versement de l’allocation de soutien du revenu se poursuit pour tout mois au cours duquel le vétéran ou le survivant visé aux articles 27 ou 28 participe, dans la mesure nécessaire à la réalisation des objectifs du programme, à un programme d’aide à la recherche d’emploi approuvé par le ministre.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas au vétéran ou au survivant âgé de plus de soixante-cinq ans.
+
+**Exemption**
+
+- **(3)** Le ministre peut, sous réserve des modalités qu’il estime indiquées, exempter le vétéran ou le survivant de l’application du paragraphe (1). Il peut également annuler cette exemption.
+
+**Début des versements**
+
+- **(4)** Sous réserve du paragraphe (5), l’allocation exigible au titre des articles 27 ou 28 ne peut être versée avant le premier en date des moments suivants :
+	- **a)** le premier jour du mois au cours duquel débute la participation du vétéran ou du survivant au programme d’aide à la recherche d’emploi;
+	- **b)** le premier jour du mois au cours duquel l’exemption est accordée par le ministre au titre du paragraphe (3).
+
+**Exception : plus de soixante-cinq ans**
+
+- **(5)** L’allocation approuvée au titre des articles 27 ou 28 à l’égard d’un vétéran âgé de plus de soixante-cinq ans est exigible à compter du premier jour du mois au cours duquel la demande est approuvée.
+
+**Fin des versements**
+
+- **(6)** Sous réserve de l’article 36, l’allocation visée aux articles 27 ou 28 cesse d’être versée le dernier jour du mois au cours duquel survient la première en date des éventualités suivantes :
+	- **a)** sauf en cas d’exemption de l’application du paragraphe (1), le vétéran ou le survivant cesse de participer au programme d’aide à la recherche d’emploi;
+	- **b)** le vétéran ou le survivant ne remplit plus les conditions réglementaires relatives à l’emploi;
+	- **c)** le résultat obtenu par la formule figurant au paragraphe 37(1) est égal ou inférieur à zéro.
+
+
+
+
+**Suspension ou annulation**
+
+**36** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’allocation de soutien du revenu.
+
+
+
+
+**Montant de l’allocation**
+
+**37** 
+
+- **(1)** Le montant de l’allocation de soutien du revenu à verser au titre des articles 27 à 31 pour chaque mois d’une période de paiement en cours correspond, sous réserve du paragraphe (2), au résultat obtenu par la formule suivante :
+```
+A - B - C
+```
+où :
+- **A** représente :
+- **a)** dans le cas du vétéran, le total des sommes prévues à la colonne 2 de l’annexe 1 en regard des articles 1 à 3 qui sont applicables à sa situation,
+- **b)** dans le cas du survivant, la somme prévue à la colonne 2 de l’annexe 1 en regard de l’article 4,
+- **c)** dans le cas de l’orphelin, la somme prévue à la colonne 2 de l’annexe 1 en regard de l’article 5;
+- **B** représente :
+- **a)** dans le cas du vétéran, un douzième de son revenu et de celui de son époux ou conjoint de fait pour l’année civile de base,
+- **b)** dans le cas du survivant, un douzième de son revenu pour l’année civile de base,
+- **c)** dans le cas de l’orphelin, un douzième de son revenu pour l’année civile de base;
+- **C** représente :
+- **a)** dans le cas du vétéran, le total des avantages mensuels réglementaires exigibles par lui ou par son époux ou conjoint de fait,
+- **b)** dans le cas du survivant, le total des avantages mensuels réglementaires exigibles par lui,
+- **c)** dans le cas de l’orphelin, le total des avantages mensuels réglementaires exigibles par lui.
+
+**Couple de vétérans**
+
+- **(2)** Si l’époux ou conjoint de fait du vétéran est un vétéran ayant également droit à l’allocation de soutien du revenu, les règles ci-après s’appliquent à l’égard de chacun des vétérans :
+	- **a)** l’élément A de la formule figurant au paragraphe (1) représente le total des sommes suivantes :
+		- **(i)** celle prévue à la colonne 2 de l’annexe 1 en regard de l’article 1,
+		- **(ii)** à l’égard de chaque enfant à charge du vétéran et de chaque enfant à charge de l’époux ou conjoint de fait qui n’est pas également l’enfant à charge du vétéran, la moitié de la somme prévue à la colonne 2 de l’annexe 1 en regard de l’article 3;
+	- **b)** l’élément B, le revenu du vétéran et de son époux ou conjoint de fait pour l’année civile de base divisé par vingt-quatre;
+	- **c)** l’élément C, le total des avantages mensuels réglementaires exigibles par le vétéran ou par son époux ou conjoint de fait divisé par deux.
+
+
+
+
+### Allocation pour déficience permanente
+
+
+
+**Admissibilité**
+
+**38** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation pour déficience permanente au vétéran qui présente un ou plusieurs problèmes de santé physique ou mentale lui occasionnant une déficience grave et permanente si, à la fois, à l’égard de chacun des problèmes de santé :
+	- **a)** une demande de services de réadaptation a déjà été approuvée;
+	- **b)** il a reçu l’indemnité d’invalidité prévue à la partie 3.
+
+**Montant de l’allocation**
+
+- **(2)** Le ministre fixe le montant de l’allocation à verser au cours d’une année selon les minimum et maximum prévus à la colonne 2 de l’annexe 2 en regard respectivement des articles 1 et 2.
+
+
+
+
+**Début des versements**
+
+**39** L’allocation pour déficience permanente est exigible à compter du dernier en date des moments suivants :
+- **a)** le jour où la demande d’allocation a été présentée;
+- **b)** un an avant l’approbation de la demande.
+
+
+
+
+**Examen médical et évaluation**
+
+**40** 
+
+- **(1)** Le ministre peut exiger du vétéran qui reçoit l’allocation pour déficience permanente que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+
+**Défaut**
+
+- **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
+
+
+
+
+### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**41** Le gouverneur en conseil peut prendre des règlements :
+- **a)** prévoyant, dans le cas de toute personne qui reçoit l’allocation pour perte de revenus ou l’allocation de soutien du revenu, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible visée aux paragraphes 19(1) ou 23(3), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
+- **b)** définissant ce qui constitue un emploi rémunérateur et convenable, une entrave à la réinsertion dans la vie civile et l’incapacité totale et permanente;
+- **c)** définissant, pour l’application de l’article 37, ***année civile de base***, ***période de paiement*** et ***revenu***;
+- **d)** prévoyant le rajustement des taux prévus à la colonne 2 de l’annexe 1 en cas d’augmentation du montant de la pension ou du supplément, au sens de l’article 2 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), apportée par une modification de cette loi;
+- **e)** prévoyant le paiement de frais entraînés par la participation à un programme de réadaptation ou d’assistance professionnelle;
+- **f)** précisant, pour l’application des articles 33 et 34, ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada;
+- **g)** précisant, pour l’application de l’article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l’existence et l’ampleur d’une telle déficience chez le vétéran.
+
+
+
+
+**PARTIE 3** 
+## Invalidité, décès et captivité
+
+
+
+### Généralités
+
+
+
+**Application de la présente partie**
+
+**42** La présente partie ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+
+
+
+**Décisions**
+
+**43** Lors de la prise d’une décision au titre de la présente partie ou de l’article 84, le ministre ou quiconque est désigné au titre de l’article 67 :
+- **a)** tire des circonstances portées à sa connaissance et des éléments de preuve qui lui sont présentés les conclusions les plus favorables possible au demandeur;
+- **b)** accepte tout élément de preuve non contredit que le demandeur lui présente et qui lui semble vraisemblable en l’occurrence;
+- **c)** tranche en faveur du demandeur toute incertitude quant au bien-fondé de la demande.
+
+
+
+
+**Représentation du demandeur**
+
+**44** Dans toutes les procédures prévues par la présente partie, le demandeur peut être représenté par le service social d’une organisation d’anciens combattants ou, à ses frais, par tout autre représentant de son choix.
+
+
+
+
+### Indemnité d’invalidité
+
+
+
+**Admissibilité**
+
+**45** 
+
+- **(1)** Le ministre peut, sur demande, verser une indemnité d’invalidité au militaire ou vétéran qui démontre qu’il souffre d’une invalidité causée :
+	- **a)** soit par une blessure ou maladie liée au service;
+	- **b)** soit par une blessure ou maladie non liée au service dont l’aggravation est due au service.
+
+**Fraction**
+
+- **(2)** Pour l’application de l’alinéa (1)b), seule la fraction — calculée en cinquièmes — du degré d’invalidité qui représente l’aggravation due au service donne droit à une indemnité d’invalidité.
+
+
+
+
+**Blessure ou maladie réputée liée au service**
+
+**46** 
+
+- **(1)** Est réputée être une blessure ou maladie liée au service la blessure ou maladie qui, en tout ou en partie, est la conséquence :
+	- **a)** d’une blessure ou maladie liée au service;
+	- **b)** d’une blessure ou maladie non liée au service dont l’aggravation est due au service;
+	- **c)** d’une blessure ou maladie qui est elle-même la conséquence d’une blessure ou maladie visée par les alinéas a) ou b);
+	- **d)** d’une blessure ou maladie qui est la conséquence d’une blessure ou maladie visée par l’alinéa c).
+
+**Fraction**
+
+- **(2)** Pour l’application du paragraphe 45(1), si l’invalidité est causée par une blessure ou maladie réputée liée au service au titre du paragraphe (1), seule la fraction — calculée en cinquièmes — du degré d’invalidité qui représente la proportion de cette blessure ou maladie qui est la conséquence d’une autre blessure ou maladie liée au service ou réputée l’être donne droit à une indemnité d’invalidité.
+
+
+
+
+**Indemnité d’invalidité pour perte de l’un des organes ou membres pairs**
+
+**47** 
+
+- **(1)** Le ministre peut, sur demande, verser une indemnité d’invalidité au militaire ou vétéran qui a reçu une indemnité d’invalidité en raison de la perte de l’un de ses organes ou membres pairs ou de la perte en permanence de l’usage d’un tel organe ou membre si, antérieurement ou postérieurement à cette perte, pour quelque cause que ce soit, il subit la perte, la perte d’usage ou l’affaiblissement de l’autre organe ou membre de la paire.
+
+**Estimation du degré d’invalidité**
+
+- **(2)** Le degré d’invalidité estimé dans ce cas est égal à cinquante pour cent du degré d’invalidité qui aurait été estimé si la perte de l’organe ou membre ou la perte en permanence de l’usage ou l’affaiblissement de celui-ci était survenu dans des circonstances telles qu’une indemnité aurait été versée au titre de l’article 45.
+
+
+
+
+**Augmentation du degré d’invalidité**
+
+**48** 
+
+- **(1)** Si le militaire ou vétéran qui a reçu l’indemnité d’invalidité au titre des articles 45 ou 47 démontre qu’il y a eu une augmentation du degré d’invalidité, le ministre peut, sur demande, lui verser une indemnité d’invalidité correspondant à cette augmentation.
+
+**Fraction à indemniser : aggravation**
+
+- **(2)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 45(2) donne droit, dans le cas d’une blessure ou maladie non liée au service dont l’aggravation est due au service, à l’indemnité d’invalidité.
+
+**Fraction à indemniser : blessure ou maladie réputée liée au service**
+
+- **(3)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 46(2) donne droit, dans le cas d’une blessure ou maladie qui est la conséquence d’une autre blessure ou maladie, à l’indemnité d’invalidité.
+
+
+
+
+**Décès du militaire ou vétéran : blessure ou maladie**
+
+**49** Le militaire ou vétéran décédé d’une blessure ou maladie pour laquelle il a reçu ou aurait pu recevoir une indemnité d’invalidité au titre de l’article 45 est réputé, au moment de son décès, souffrir d’une invalidité dont le degré est estimé à cent pour cent si le décès survient plus de trente jours après celui où il a subi la blessure ou contracté la maladie ou celui où la blessure ou maladie s’est aggravée.
+
+
+
+
+**Décès du militaire ou vétéran : demande non présentée**
+
+**50** 
+
+- **(1)** Si le militaire ou vétéran décède avant d’avoir présenté la demande d’indemnité visée aux articles 45, 47 ou 48, le ministre peut, sur demande, verser au survivant ou à toute autre personne qui au moment du décès est un enfant à charge, en conformité avec l’article 55, l’indemnité à laquelle le militaire ou vétéran aurait eu droit au titre de l’article en question.
+
+**Militaire ou vétéran décédé : continuation de la demande**
+
+- **(2)** Si le militaire ou vétéran qui a demandé l’indemnité visée aux articles 45, 47 ou 48 décède avant qu’une décision ne soit prise par le ministre relativement à sa demande, ce dernier peut verser au survivant ou à toute autre personne qui au moment du décès est un enfant à charge, en conformité avec l’article 55, l’indemnité à laquelle le militaire ou vétéran aurait eu droit au titre de l’article en question.
+
+**Droits du demandeur**
+
+- **(3)** Le survivant ou l’enfant a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé.
+
+
+
+
+**Estimation du degré d’invalidité**
+
+**51** 
+
+- **(1)** Les estimations du degré d’invalidité s’effectuent conformément aux instructions du ministre et sont basées sur la table des invalidités qu’il établit pour aider quiconque les effectue.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(2)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux instructions ni à la table des invalidités.
+
+
+
+
+**Montant de l’indemnité**
+
+**52** 
+
+- **(1)** Sous réserve de l’article 54, le montant de l’indemnité d’invalidité à verser correspond au résultat obtenu par la formule suivante :
+```
+A - B
+```
+où :
+- **A** représente la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi;
+- **B** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond à l’excédent éventuel du total des degrés visé à l’alinéa a) sur le degré visé à l’alinéa b) :
+- **a)** le total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi,
+- **b)** le degré d’invalidité estimé ou réputé à l’égard du militaire ou vétéran pour lequel l’indemnité d’invalidité est exigible.
+
+**Fraction**
+
+- **(2)** Pour l’application du paragraphe (1), si seulement une fraction du degré d’invalidité donne droit à l’indemnité en vertu des paragraphes 45(2), 46(2) ou 48(2) ou (3), il est tenu compte uniquement de cette fraction du degré d’invalidité.
+
+**Réduction**
+
+- **(3)** Le ministre peut retrancher la somme prévue par règlement de l’indemnité d’invalidité exigible en raison du décès ou de l’invalidité du militaire ou vétéran par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
+
+
+
+
+**Versement de l’indemnité**
+
+**53** L’indemnité d’invalidité visée aux articles 45, 47 ou 48 devient exigible lorsque le ministre est d’avis que l’invalidité est stabilisée.
+
+
+
+
+**Degré maximal**
+
+**54** 
+
+- **(1)** Pour l’application des articles 45, 47 et 48, aucune indemnité d’invalidité n’est accordée pour toute partie du total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran excédant cent pour cent.
+
+**Estimation au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md)**
+
+- **(2)** Dans le calcul du total des degrés d’invalidité, il est tenu compte de tout degré d’invalidité estimé au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Fraction**
+
+- **(3)** Si seulement une fraction du degré d’invalidité donne droit à l’indemnité d’invalidité en vertu des paragraphes 45(2), 46(2) ou 48(2) ou (3) ou donne droit à une pension au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), il est tenu compte uniquement de cette fraction du degré d’invalidité dans le calcul du total des degrés d’invalidité.
+
+
+
+
+**Répartition de l’indemnité**
+
+**55** Les règles ci-après s’appliquent à la répartition de l’indemnité d’invalidité accordée au survivant ou à toute autre personne qui au moment du décès est un enfant à charge :
+- **a)** s’il y a un survivant mais aucun enfant à charge, l’indemnité est versée en entier au survivant;
+- **b)** s’il y a un survivant et un ou plusieurs enfants à charge :
+	- **(i)** le survivant reçoit cinquante pour cent du montant de l’indemnité,
+	- **(ii)** chaque enfant à charge reçoit la somme résultant de la division de cinquante pour cent du montant de l’indemnité par le nombre d’enfants à charge;
+- **c)** s’il y a un ou plusieurs enfants à charge mais pas de survivant, chaque enfant à charge reçoit la somme résultant de la division du montant de l’indemnité par le nombre d’enfants à charge.
+
+
+
+
+**Aucune indemnité : demande présentée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md)**
+
+**56** 
+
+- **(1)** Aucune indemnité d’invalidité n’est accordée à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie qui a déjà fait l’objet d’une décision du ministre relativement à l’attribution d’une pension au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Problèmes de santé liés**
+
+- **(2)** L’indemnité n’est pas accordée non plus si le ministre établit que la blessure ou maladie ou l’aggravation d’une blessure ou maladie qui fait l’objet de la demande au titre de la présente partie est indissociable, pour l’estimation du degré d’invalidité, de la blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension a déjà été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+
+
+
+### Indemnité de décès
+
+
+
+**Admissibilité : blessure ou maladie liée au service**
+
+**57** 
+
+- **(1)** Le ministre peut, sur demande, verser au survivant ou à toute autre personne qui au moment du décès du militaire est un enfant à charge, en conformité avec l’article 59, une indemnité de décès si, à la fois, le militaire est décédé en raison d’une blessure ou maladie liée au service et le décès est survenu au plus tard trente jours après le jour où il a subi la blessure ou contracté la maladie.
+
+**Admissibilité : aggravation d’une blessure ou maladie**
+
+- **(2)** Il peut également leur verser une telle indemnité de décès si, à la fois, le militaire est décédé en raison d’une blessure ou maladie non liée au service dont l’aggravation est due au service et le décès est survenu au plus tard trente jours après le jour où la blessure ou maladie s’est aggravée.
+
+
+
+
+**Montant de l’indemnité**
+
+**58** 
+
+- **(1)** Le montant de l’indemnité de décès est celui prévu à la colonne 2 de l’annexe 2 en regard de l’article 3.
+
+**Réduction**
+
+- **(2)** Le ministre peut retrancher la somme prévue par règlement de l’indemnité de décès exigible en raison du décès par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
+
+
+
+
+**Répartition de l’indemnité**
+
+**59** Les règles ci-après s’appliquent à la répartition de l’indemnité de décès accordée au survivant ou à toute autre personne qui au moment du décès est un enfant à charge :
+- **a)** s’il y a un survivant mais aucun enfant à charge, l’indemnité est versée en entier au survivant;
+- **b)** s’il y a un survivant et un ou plusieurs enfants à charge :
+	- **(i)** le survivant reçoit cinquante pour cent du montant de l’indemnité,
+	- **(ii)** chaque enfant à charge reçoit la somme résultant de la division de cinquante pour cent du montant de l’indemnité par le nombre d’enfants à charge;
+- **c)** s’il y a un ou plusieurs enfants à charge mais pas de survivant, chaque enfant à charge reçoit la somme résultant de la division du montant de l’indemnité par le nombre d’enfants à charge.
+
+
+
+
+### Allocation vestimentaire
+
+
+
+**Allocation : amputation**
+
+**60** 
+
+- **(1)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité par suite de l’amputation d’une ou des deux jambes au niveau du sillon de Symes ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+
+**Allocation : amputation**
+
+- **(2)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité par suite de l’amputation d’un ou des deux bras au niveau du poignet ou à un niveau supérieur une allocation vestimentaire pour chaque amputation afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+
+**Allocation : deux amputations**
+
+- **(3)** Pour la deuxième amputation de l’un des membres visés aux paragraphes (1) ou (2), le ministre peut, sur demande, verser pour cette amputation, en plus de toute allocation à laquelle le militaire ou vétéran a droit en vertu de ces paragraphes, une allocation vestimentaire égale à cinquante pour cent de l’allocation exigible en vertu de ces paragraphes pour la seconde amputation.
+
+**Allocation : autre invalidité**
+
+- **(4)** Le ministre peut, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité pour une invalidité qui n’est pas visée aux paragraphes (1) ou (2) une allocation vestimentaire afin de compenser l’usure des vêtements occasionnée par cette invalidité.
+
+**Articles d’habillement**
+
+- **(5)** Le ministre peut également, sur demande, verser au militaire ou vétéran qui a reçu une indemnité d’invalidité, en plus de toute allocation à laquelle il a droit en vertu du présent article, une allocation vestimentaire pour l’achat d’articles d’habillement spéciaux rendus nécessaires par cette invalidité.
+
+
+
+
+**Montant des allocations**
+
+**61** Sous réserve du paragraphe 60(3), le ministre fixe le montant de chacune des allocations vestimentaires qui peuvent être versées au cours d’une année, celui-ci ne pouvant toutefois excéder la somme prévue à la colonne 2 de l’annexe 2 en regard de l’article 4.
+
+
+
+
+**Début des versements**
+
+**62** Toute allocation vestimentaire visée à l’un des paragraphes 60(1) à (5) est exigible à compter du dernier en date des moments suivants :
+- **a)** le jour où la demande d’allocation a été présentée;
+- **b)** un an avant l’approbation de la demande.
+
+
+
+
+### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**63** Le gouverneur en conseil peut prendre des règlements établissant les règles de preuve et les présomptions applicables aux demandes d’indemnité d’invalidité et d’indemnité de décès.
+
+
+
+
+### Indemnité de captivité
+
+
+
+**Admissibilité**
+
+**64** 
+
+- **(1)** Sous réserve du paragraphe (5), le ministre peut, sur demande, verser au militaire ou vétéran qui a été détenu par une puissance pendant une période de service une indemnité couvrant sa période de captivité.
+
+**Définition de puissance**
+
+- **(2)** Au présent article, ***puissance*** s’entend de tout ennemi du Canada ou toute force opposée au Canada, de toute personne ou tout groupe de personnes dont l’un des objectifs ou l’une des activités est de se livrer à des activités terroristes ou de les faciliter ainsi que de toute entité réglementaire.
+
+**Période de captivité**
+
+- **(3)** Pour l’application du paragraphe (1), est assimilée à la période de captivité du militaire ou vétéran toute période pendant laquelle il a tenté d’éviter la capture par une telle puissance ou de s’enfuir en se soustrayant à son emprise.
+
+**Montant de l’indemnité**
+
+- **(4)** Le gouverneur en conseil peut prendre des règlements prévoyant le montant de l’indemnité de captivité.
+
+**Restriction**
+
+- **(5)** L’indemnité de captivité ne peut être versée à l’égard d’une période de captivité qui a débuté avant l’entrée en vigueur du présent article.
+
+
+
+
+**Militaire ou vétéran décédé : demande non présentée**
+
+**65** 
+
+- **(1)** Si le militaire ou vétéran décède avant d’avoir présenté une demande d’indemnité de captivité, le ministre peut, sur demande, verser à sa succession testamentaire l’indemnité à laquelle le militaire ou vétéran aurait eu droit au titre de l’article 64.
+
+**Militaire ou vétéran décédé : continuation de la demande**
+
+- **(2)** Si le militaire ou vétéran qui a demandé l’indemnité de captivité décède avant qu’une décision ne soit prise par le ministre relativement à sa demande, ce dernier peut verser à la succession testamentaire du militaire ou vétéran l’indemnité à laquelle il aurait eu droit au titre de l’article 64.
+
+**Droits du demandeur**
+
+- **(3)** La succession testamentaire a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé.
+
+
+
+
+**PARTIE 4** 
+## Généralités
+
+
+
+### Soins de santé
+
+
+
+**Assurance collective**
+
+**66** 
+
+- **(1)** Le ministre peut :
+	- **a)** établir un programme d’assurance collective similaire au Régime de soins de santé de la fonction publique créé par le Conseil du Trésor et conclure des contrats à cette fin;
+	- **b)** avec l’approbation du Conseil du Trésor, fixer les conditions et modalités du programme d’assurance, notamment en ce qui concerne les primes et les cotisations à verser, les prestations ainsi que la gestion et le contrôle du programme;
+	- **c)** payer les primes, les cotisations et les prestations;
+	- **d)** prendre toute autre mesure qu’il juge indiquée pour mettre en oeuvre le programme et en assurer la viabilité.
+
+**Admissibilité**
+
+- **(2)** Le militaire ou vétéran ou le survivant qui satisfait aux conditions d’admissibilité réglementaires peut choisir de cotiser à tout programme d’assurance collective visé au paragraphe (1).
+
+
+
+
+### Désignation
+
+
+
+**Désignation par le ministre**
+
+**67** 
+
+- **(1)** Le ministre peut désigner toute personne pour l’exercice de l’une ou l’autre des attributions que lui confère la présente loi.
+
+**Restriction**
+
+- **(2)** Toutefois, il ne peut désigner la personne qui a pris une décision sous le régime de la présente loi pour réviser sa propre décision.
+
+
+
+
+**Définition de risques élevés**
+
+**68** Pour l’application des alinéas 69(1)c) et 70(1)c), ***risques élevés*** s’entend de risques dont le niveau est plus élevé que celui qui se rencontre généralement en temps de paix.
+
+
+
+
+**Zone de service spécial**
+
+**69** 
+
+- **(1)** Après consultation du ministre, le ministre de la Défense nationale peut, par arrêté, désigner toute zone comme zone de service spécial si, à la fois :
+	- **a)** la zone se situe à l’extérieur du Canada;
+	- **b)** des militaires y ont été ou y seront déployés dans le cadre d’une opération d’un type prévu à l’article 71;
+	- **c)** il est d’avis qu’en raison du déploiement les militaires ont été ou pourraient être exposés à des risques élevés.
+
+**Effet de la désignation**
+
+- **(2)** La désignation prend effet à la date de la prise de l’arrêté ou à la date antérieure — qui ne précède pas le 1<sup>er</sup> janvier 1949 — ou postérieure qui y est précisée. L’arrêté peut également prévoir la date de cessation d’effet de la désignation.
+
+
+
+
+**Opération de service spécial**
+
+**70** 
+
+- **(1)** Après consultation du ministre, le ministre de la Défense nationale peut, par arrêté, désigner tout ou partie d’une opération comme opération de service spécial si, à la fois :
+	- **a)** l’opération est d’un type prévu à l’article 71;
+	- **b)** des militaires ont été ou seront déployés dans le cadre de l’opération;
+	- **c)** il est d’avis qu’en raison du déploiement les militaires ont été ou pourraient être exposés à des risques élevés.
+
+**Effet de la désignation**
+
+- **(2)** La désignation prend effet à la date de la prise de l’arrêté ou à la date antérieure — qui ne précède pas le 11 septembre 2001 — ou postérieure qui y est précisée. L’arrêté peut également prévoir la date de cessation d’effet de la désignation.
+
+
+
+
+**Types d’opérations**
+
+**71** Pour l’application des alinéas 69(1)b) et 70(1)a), constituent des types d’opérations :
+- **a)** le conflit armé;
+- **b)** l’opération autorisée en vertu de la Charte des Nations Unies, du Traité de l’Atlantique Nord, de l’accord du Commandement de la Défense aérospatiale de l’Amérique du Nord ou de tout autre instrument conventionnel semblable;
+- **c)** l’opération militaire internationale ou multinationale;
+- **d)** l’opération autorisée en tant que mesure adoptée pour faire face à une situation de crise nationale, au sens de l’article 3 de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md), déclarée en vertu de cette loi;
+- **e)** l’opération autorisée en vertu de l’article 273.6 ou de la partie VI de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ou toute opération similaire autorisée par le gouverneur en conseil;
+- **f)** l’opération qui, de l’avis du ministre de la Défense nationale, est une opération de recherche et de sauvetage;
+- **g)** l’opération qui, de l’avis du ministre de la Défense nationale, vise à porter secours aux sinistrés;
+- **h)** l’opération qui, de l’avis du ministre de la Défense nationale, vise à combattre le terrorisme;
+- **i)** l’opération qui, de l’avis du ministre de la Défense nationale, comporte un niveau de risque comparable à celui qui se rencontre généralement dans le cadre des opérations visées aux alinéas a) à e).
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**72** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux arrêtés visés aux articles 69 et 70.
+
+
+
+
+### Pouvoirs du ministre
+
+
+
+**Examen médical et évaluation**
+
+**73** Le ministre peut exiger de tout demandeur de services de réadaptation ou d’indemnisation de subir un examen médical ou une évaluation par la personne qu’il précise.
+
+
+
+
+**Frais de déplacement et de séjour**
+
+**74** 
+
+- **(1)** Le ministre peut indemniser toute personne des frais de déplacement et de séjour entraînés par l’examen médical ou l’évaluation subis à sa demande pour l’application de la présente loi.
+
+**Règlement**
+
+- **(2)** Le gouverneur en conseil peut, par règlement, prévoir les indemnités à verser pour les frais de déplacement et de séjour.
+
+
+
+
+**Paiement des honoraires**
+
+**75** Le ministre paie, selon le barème qu’il fixe, les honoraires de la personne qui, à sa demande, a effectué un examen médical ou une évaluation pour l’application de la présente loi.
+
+
+
+
+### Procédure
+
+
+
+**Demande au ministre**
+
+**76** 
+
+- **(1)** Toute demande de services d’aide au placement, de services de réadaptation, d’assistance professionnelle ou d’indemnisation prévue par la présente loi est présentée au ministre en la forme qu’il précise et est accompagnée des renseignements et autres éléments prévus par règlement.
+
+**Examen par le ministre**
+
+- **(2)** Le ministre examine la demande dès sa réception et peut, dans le cadre de son examen :
+	- **a)** enquêter sur les faits exposés dans la demande ainsi que sur toute question liée à celle-ci;
+	- **b)** recueillir tout renseignement ou document utile.
+
+**Rejet de la demande**
+
+- **(3)** Si un délai de présentation est prévu par règlement, le ministre ne peut examiner la demande présentée après ce délai sauf s’il est d’avis qu’il existe dans les circonstances un motif raisonnable justifiant le retard.
+
+
+
+
+**Procédure**
+
+**77** Dans la mesure où les circonstances et l’équité le permettent, le ministre ou quiconque est désigné au titre de l’article 67 prend ses décisions avec célérité et sans formalisme.
+
+
+
+
+**[Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md)**
+
+**78** 
+
+- **(1)** Le ministre a, relativement à l’exercice des attributions qui lui sont conférées par la présente loi, tous les pouvoirs d’un commissaire nommé en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
+
+**Serments, déclarations solennelles et affidavits**
+
+- **(2)** Tout cadre ou fonctionnaire du ministère des Anciens Combattants désigné à cette fin par le ministre peut, dans l’exercice de ses fonctions, faire prêter les serments et recevoir les affidavits et les déclarations ou affirmations solennelles nécessaires ou accessoires à l’application de la présente loi. À cet effet, il dispose des pouvoirs d’un commissaire aux serments.
+
+**Prestation de serments**
+
+- **(3)** Le ministre peut, pour l’application de la présente loi, accepter les serments, affidavits et déclarations ou affirmations solennelles reçus par tout cadre ou fonctionnaire — disposant des pouvoirs d’un commissaire aux serments — d’un ministère ou d’un autre secteur de l’administration publique fédérale mentionné aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou d’un ministère provincial.
+
+
+
+
+### Inspection
+
+
+
+**Accès aux dossiers**
+
+**79** 
+
+- **(1)** Les personnes visées aux paragraphes (2) ou (3) peuvent, en vue de la présentation d’une demande, consulter les dossiers du ministère des Anciens Combattants et les documents relatifs aux demandes présentées en vertu de la présente loi, ainsi que le dossier médical et les états de service du militaire ou vétéran.
+
+**Titulaires du droit d’accès**
+
+- **(2)** Sont titulaires de ce droit :
+	- **a)** le demandeur ou son représentant;
+	- **b)** le professionnel de la santé consulté par le demandeur ou son représentant;
+	- **c)** le cadre ou fonctionnaire de l’administration publique fédérale dont les fonctions exigent l’examen de ces dossiers ou documents.
+
+**Organisation d’anciens combattants**
+
+- **(3)** Le représentant d’une organisation d’anciens combattants constituée en personne morale sous le régime d’une loi fédérale consulté par le demandeur ou son représentant peut exercer le droit prévu au paragraphe (1) uniquement dans le cas d’une demande présentée au titre de la partie 3.
+
+
+
+
+### Communication de renseignements
+
+
+
+**Accès du ministre aux renseignements**
+
+**80** Pour l’application de la présente loi, le ministre a droit, sur demande, d’avoir accès aux renseignements personnels obtenus par une institution fédérale, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+
+
+
+
+**Communication de renseignements par le ministre**
+
+**81** Le ministre peut communiquer, dans la mesure où la communication est nécessaire aux fins mentionnées, les renseignements personnels qu’il a obtenus dans le cadre de l’application de la présente loi :
+- **a)** à quiconque, pour obtenir de celui-ci les renseignements nécessaires à l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
+- **b)** à tout cadre ou fonctionnaire du ministère des Anciens Combattants, pour l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
+- **c)** à quiconque, pour le recouvrement d’une créance du Canada sur les Nations Unies ou sur un autre organisme international ou pays au titre d’une entente internationale;
+- **d)** au ministère du Développement des ressources humaines, pour l’application de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **e)** au Service correctionnel du Canada, pour l’application de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md).
+
+
+
+
+**Numéro d’assurance sociale**
+
+**82** Le ministre peut, dans le but d’établir si une personne a droit de recevoir l’allocation pour perte de revenus ou l’allocation de soutien du revenu, obtenir son numéro d’assurance sociale et le communiquer à tout ministère ou organisme fédéral.
+
+
+
+
+### Révision
+
+
+
+**Révision : partie 2**
+
+**83** Sous réserve des règlements, le ministre peut, sur demande ou de sa propre initiative, réviser toute décision prise au titre de la partie 2 ou du présent article.
+
+
+
+
+**Révision : partie 3**
+
+**84** Le ministre peut, de sa propre initiative, réviser toute décision prise au titre de la partie 3 et soit la confirmer, soit l’annuler ou la modifier s’il constate que les conclusions sur les faits ou l’interprétation du droit étaient erronées; il peut aussi le faire sur demande si de nouveaux éléments de preuve lui sont présentés.
+
+
+
+
+**Révision : Tribunal**
+
+**85** Le demandeur qui n’est pas satisfait d’une décision du ministre prise au titre de la partie 3 ou de l’article 84 peut la faire réviser par le Tribunal.
+
+
+
+
+**Autorisation préalable du Tribunal**
+
+**86** Le ministre ne peut examiner la demande présentée au titre de la partie 3 ou de l’article 84 qui a déjà été jugée par le Tribunal que si celui-ci a autorisé le demandeur à la lui soumettre ou la lui a renvoyée pour réexamen.
+
+
+
+
+**Représentation du demandeur**
+
+**87** Dans toutes les procédures prévues par les articles 84 et 85, le demandeur peut être représenté par le service social d’une organisation d’anciens combattants ou, à ses frais, par tout autre représentant de son choix.
+
+
+
+
+### Trop-perçu
+
+
+
+**Définition de trop-perçu**
+
+**88** 
+
+- **(1)** Au présent article, ***trop-perçu*** s’entend du versement d’une indemnisation fait indûment ou de la partie d’une indemnisation versée en excédent à une personne ou à sa succession.
+
+**Recouvrement**
+
+- **(2)** Le trop-perçu constitue, quelle qu’en soit la raison, une créance de Sa Majesté recouvrable soit par compensation contre tout versement à effectuer en vertu de la présente loi, soit conformément à l’article 155 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), soit devant la juridiction compétente.
+
+**Remise**
+
+- **(3)** Le ministre peut, sauf si la personne ou, dans le cas d’une succession, le liquidateur ou l’exécuteur a été déclaré coupable d’une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) relative au fait d’avoir reçu ou obtenu le trop-perçu, faire remise de tout ou partie de celui-ci s’il est convaincu que, selon le cas :
+	- **a)** le trop-perçu ne peut être recouvré dans un avenir prévisible;
+	- **b)** il est vraisemblablement égal ou inférieur au coût administratif du recouvrement;
+	- **c)** son remboursement causerait un préjudice abusif à la personne ou au bénéficiaire de la succession;
+	- **d)** il résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale.
+
+**Indemnisation erronée**
+
+- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour déficience permanente ou de l’allocation vestimentaire dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+
+**Recouvrement**
+
+- **(5)** Le montant de l’indemnisation versé après le décès du militaire ou vétéran alors que celui-ci n’y était plus admissible peut être déduit de toute indemnisation accordée à la personne qui l’a retenu.
+
+
+
+
+### Divers
+
+
+
+**Interdiction de cession**
+
+**89** 
+
+- **(1)** L’indemnisation ne peut être cédée, grevée, saisie, payée par anticipation, commuée ni donnée en garantie.
+
+**Insaisissabilité**
+
+- **(2)** Elle est, en droit ou en *equity*, exempte d’exécution, de saisie ou de saisie-arrêt.
+
+
+
+
+**Intérêt**
+
+**90** Aucune somme exigible à titre d’indemnisation ne porte intérêt.
+
+
+
+
+**Immunité**
+
+**91** Ne peuvent faire l’objet de poursuites les actes accomplis et les déclarations faites de bonne foi au cours de procédures devant le ministre ou dans les rapports d’examens ou d’évaluations faits pour l’application de la présente loi, par tout cadre ou fonctionnaire du ministère des Anciens Combattants ou toute autre personne agissant à la demande du ministre.
+
+
+
+
+**Définition de action**
+
+**92** 
+
+- **(1)** Au présent article, ***action*** vise l’acte de procédure introduit par le militaire ou vétéran, ou pour son compte, ou, après son décès, par son survivant, son orphelin ou toute autre personne qui au moment du décès est un enfant à charge, ou pour leur compte, contre Sa Majesté et portant réclamation de dommages pour toute perte — notamment blessure, décès ou dommage — à l’égard de laquelle une indemnisation peut être demandée au titre de la présente loi.
+
+**Suspension d’instance**
+
+- **(2)** L’action non visée par l’article 9 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md) est suspendue, sur demande, jusqu’à ce que le demandeur, ou celui qui agit pour lui, fasse, de bonne foi, une demande d’indemnisation pour toute perte — notamment blessure, décès ou dommage — et que :
+	- **a)** dans le cas d’une demande qui peut être présentée au titre de la partie 2, une décision finale soit prise au titre de l’article 83 concluant à l’inexistence du droit à l’indemnisation;
+	- **b)** dans le cas d’une demande qui peut être présentée au titre de la partie 3, l’inexistence du droit à l’indemnisation soit confirmée en dernier recours au titre de la [Loi sur le Tribunal des anciens combattants (révision et appel)](/fr/Lois/Lois%20du%20Canada/1995/ch.%2018.md).
+
+
+
+
+**Les certificats constituent une preuve**
+
+**93** 
+
+- **(1)** Dans tout procès, poursuite ou autre procédure, le certificat paraissant signé par le ministre et énonçant le montant de l’indemnisation obtenue et la portion de ce montant qui demeure non remboursée ou non recouvrée à une date quelconque fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+**Document du ministre ou Tribunal**
+
+- **(2)** Dans tout procès, poursuite ou autre procédure, le document paraissant être une décision du ministre ou du Tribunal fait preuve des faits qui y sont énoncés sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+
+
+
+### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**94** Le gouverneur en conseil peut prendre des règlements :
+- **a)** prévoyant les modalités — de temps ou autres — de présentation d’une demande de services d’aide au placement, de services de réadaptation, d’assistance professionnelle ou d’indemnisation et les renseignements et autres éléments à fournir avec la demande;
+- **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
+- **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
+- **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
+- **e)** régissant la communication de tout renseignement ou document au ministre par toute personne qui reçoit des services d’aide au placement, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement ou document;
+- **f)** prévoyant les modalités de suspension ou d’annulation des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
+- **g)** concernant la révision de toute décision prise au titre de la partie 2 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
+- **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
+- **i)** prévoyant la procédure à suivre par le ministre pour prendre ses décisions;
+- **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
+- **k)** concernant toute autre mesure d’application de la présente loi.
+
+
+
+
+**PARTIE 5** 
+## Dispositions transitoires, modifications connexes, disposition de coordination et entrée en vigueur
+
+
+
+### Dispositions transitoires
+
+
+
+**Limites**
+
+**95** Les articles 12, 22, 29 à 31 et 57 ne s’appliquent pas à l’égard du survivant, de l’orphelin ou de toute autre personne qui au moment du décès est un enfant à charge, si le militaire ou vétéran est décédé avant l’entrée en vigueur du présent article.
+
+
+
+
+**Prorogation du décret**
+
+**96** Le [Décret sur la pension dans les zones de service spécial](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/496.md), demeuré en vigueur en vertu du paragraphe 5(1) de la Loi modifiant la Loi sur les pensions et la Loi sur la pension de retraite de la Gendarmerie royale du Canada, chapitre 12 des Lois du Canada (2003), continue de s’appliquer comme s’il avait été pris en vertu de l’article 69.
+
+
+
+
+**Prorogation des désignations**
+
+**97** Les désignations faites au titre des articles 91.2 ou 91.3 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), dans leur version antérieure à la date d’entrée en vigueur des articles 69 et 70, demeurent en vigueur comme si elles avaient été faites en vertu des articles 69 ou 70, selon le cas.
+
+
+
+
+**Rajustement de l’annexe 1**
+
+**98** 
+
+- **(1)** À l’entrée en vigueur du présent article, les taux prévus à la colonne 2 de l’annexe 1 sont rajustés en conformité avec les articles 19 à 22 de la [Loi sur les allocations aux anciens combattants](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-3.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme s’ils étaient prévus à la colonne II de l’annexe de cette loi.
+
+**Rajustement de l’annexe 2**
+
+- **(2)** À l’entrée en vigueur du présent article, le taux prévu à la colonne 2 de l’annexe 2 en regard de l’article 4 est rajusté en conformité avec les articles 74 à 77 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme s’il était prévu à l’annexe III de cette loi.
+
+**Rajustement des catégories 21 à 24 de l’annexe 3**
+
+- **(3)** À l’entrée en vigueur du présent article, les sommes prévues à la colonne 3 de l’annexe 3 en regard des catégories 21 à 24 sont rajustées en conformité avec les articles 74 à 77 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme si elles étaient prévues à l’annexe I de cette loi.
+
+
+
+
+### Modifications connexes
+
+
+
+#### Loi sur l’aide en matière d’éducation aux enfants des anciens combattants décédés
+
+
+**99** [Modifications]
+
+
+
+
+#### Loi sur le ministère des Anciens Combattants
+
+
+**100** [Modification]
+
+
+
+
+#### Loi de l’impôt sur le revenu
+
+
+**101** [Modification]
+
+
+
+**102** [Modification]
+
+
+
+**103** [Modification]
+
+
+
+
+#### Loi d’indemnisation des militaires ayant subi des blessures
+
+
+**104** [Modification]
+
+
+
+
+#### Loi sur les pensions
+
+
+**105** [Modification]
+
+
+
+**106** [Modification]
+
+
+
+**107** [Modification]
+
+
+
+**108** [Modification]
+
+
+
+
+#### Loi sur la pension de retraite de la Gendarmerie royale du Canada
+
+
+**109** [Modifications]
+
+
+
+
+#### Loi sur le Tribunal des anciens combattants (révision et appel)
+
+
+**110** [Modification]
+
+
+
+**111** [Modification]
+
+
+
+**112** [Modification]
+
+
+
+**113** [Modifications]
+
+
+
+**114** [Modification]
+
+
+
+
+#### Loi sur l’emploi dans la fonction publique
+
+
+**115** [Modification]
+
+
+
+
+### Disposition de coordination
+
+
+**116** [Modification]
+
+
+
+
+### Entrée en vigueur
+
+
+
+**Décret**
+
+<sup><a href='#C-16.8_f_s117'>[*]</a></sup>**117** La présente loi, à l’exception de l’article 116, entre en vigueur à la date fixée par décret.
+
+<a name='C-16.8_f_s117'><sup>*</sup></a>: [Note : Article 116 en vigueur à la sanction le 13 mai 2005.]<br />
+
+
+
+
+### **ANNEXE 1** 
+**(article 37, alinéas 41d) et 94c) et paragraphe 98(1))**
+## Allocation de soutien du revenu
+<table>
+<tr>
+<td></td>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Taux   </td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td> mensuel</td>
+</tr>
+<tr>
+<td>Article</td>
+<td>Description</td>
+<td>($)    </td>
+</tr>
+<tr>
+<td>1</td>
+<td>Vétéran</td>
+<td>1 132,26</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vétéran — supplément pour l’époux ou conjoint de fait</td>
+<td>586,85</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vétéran — supplément pour chaque enfant à charge</td>
+<td>283,07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Survivant</td>
+<td>1 132,26</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Orphelin</td>
+<td>606,77</td>
+</tr>
+</table>
+
+
+
+
+### **ANNEXE 2** 
+**(paragraphes 38(2) et 58(1), article 61, alinéa 94c) et paragraphe 98(2))**
+## Allocations et indemnité
+<table>
+<tr>
+<td></td>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+</tr>
+<tr>
+<td>Article</td>
+<td>Allocation ou indemnité</td>
+<td>Taux ($)</td>
+</tr>
+<tr>
+<td>1</td>
+<td> Montant minimum de l’allocation pour déficience permanente</td>
+<td> 6 000,00 (annuel)</td>
+</tr>
+<tr>
+<td>2</td>
+<td> Montant maximum de l’allocation pour déficience permanente</td>
+<td> 18 000,00 (annuel)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Indemnité de décès</td>
+<td>250 000,00 (forfaitaire)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Allocation vestimentaire</td>
+<td>1 823,88 (annuel)</td>
+</tr>
+</table>
+
+
+
+
+### **ANNEXE 3** 
+**(paragraphe 52(1), alinéa 94c) et paragraphe 98(3))**
+## Indemnité d’invalidité
+<table>
+<tr>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+<td>Colonne 3</td>
+</tr>
+<tr>
+<td></td>
+<td>Degré d’invalidité </td>
+<td>Somme forfaitaire</td>
+</tr>
+<tr>
+<td>Catégorie</td>
+<td>(%)</td>
+<td> ($)</td>
+</tr>
+<tr>
+<td> 1</td>
+<td></td>
+<td></td>
+<td>98-100</td>
+<td>250 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 2</td>
+<td></td>
+<td></td>
+<td>93-97</td>
+<td>237 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 3</td>
+<td></td>
+<td></td>
+<td>88-92</td>
+<td>225 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 4</td>
+<td></td>
+<td></td>
+<td>83-87</td>
+<td>212 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 5</td>
+<td></td>
+<td></td>
+<td>78-82</td>
+<td>200 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 6</td>
+<td></td>
+<td></td>
+<td>73-77</td>
+<td>187 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 7</td>
+<td></td>
+<td></td>
+<td>68-72</td>
+<td>175 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 8</td>
+<td></td>
+<td></td>
+<td>63-67</td>
+<td>162 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td> 9</td>
+<td></td>
+<td></td>
+<td>58-62</td>
+<td>150 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td></td>
+<td></td>
+<td>53-57</td>
+<td>137 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td></td>
+<td></td>
+<td>48-52</td>
+<td>125 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td>43-47</td>
+<td>112 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td>38-42</td>
+<td>100 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td></td>
+<td></td>
+<td>33-37</td>
+<td>87 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td></td>
+<td>28-32</td>
+<td>75 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td></td>
+<td>23-27</td>
+<td>62 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td></td>
+<td></td>
+<td>18-22</td>
+<td>50 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td></td>
+<td></td>
+<td>13-17</td>
+<td>37 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td></td>
+<td></td>
+<td> 8-12</td>
+<td>25 000,00</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td></td>
+<td></td>
+<td> 5-7</td>
+<td>12 500,00</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td></td>
+<td></td>
+<td> 4</td>
+<td>2 617,96</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td></td>
+<td></td>
+<td> 3</td>
+<td>1 963,48</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td></td>
+<td></td>
+<td> 2</td>
+<td>1 308,97</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td></td>
+<td></td>
+<td> 1</td>
+<td>654,49</td>
+<td></td>
+</tr>
+</table>
+
+
