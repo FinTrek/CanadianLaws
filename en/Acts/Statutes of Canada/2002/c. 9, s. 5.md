@@ -236,43 +236,37 @@ Version anglaise seulement***prescribed*** means
 **12** 
 
 - **(1)** Subject to subsection (3), if an air transportation service is acquired in Canada, the amount of the charge in respect of the service is
-	- **(a)** $6.54 for each chargeable emplanement included in the service, to a maximum of $13.08, if
+	- **(a)** $5.61 for each chargeable emplanement included in the service, to a maximum of $11.22, if
 		- **(i)** the service does not include transportation to a destination outside Canada, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(b)** $7.00 for each chargeable emplanement included in the service, to a maximum of $14.00, if
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
+	- **(b)** $6.00 for each chargeable emplanement included in the service, to a maximum of $12.00, if
 		- **(i)** the service does not include transportation to a destination outside Canada, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service;
-	- **(c)** $11.22 for each chargeable emplanement included in the service, to a maximum of $22.43, if
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service;
+	- **(c)** $9.35 for each chargeable emplanement included in the service, to a maximum of $18.69, if
 		- **(i)** the service includes transportation to a destination outside Canada and does not include transportation to a destination outside the continental zone, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(d)** $12.00 for each chargeable emplanement included in the service, to a maximum of $24.00, if
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
+	- **(d)** $10.00 for each chargeable emplanement included in the service, to a maximum of $20.00, if
 		- **(i)** the service includes transportation to a destination outside Canada and does not include transportation to a destination outside the continental zone, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
-	- **(e)** $24.00, if the service includes transportation to a destination outside the continental zone.
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
+	- **(e)** $20.00, if the service includes transportation to a destination outside the continental zone.
 
 **Amount of charge if service acquired outside Canada**
 
 - **(2)** Subject to subsection (3), if an air transportation service is acquired outside Canada, the amount of the charge in respect of the service is
-	- **(a)** $11.22 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $22.43, if
+	- **(a)** $9.35 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $18.69, if
 		- **(i)** the service does not include transportation to a destination outside the continental zone, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(b)** $12.00 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $24.00, if
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
+	- **(b)** $10.00 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $20.00, if
 		- **(i)** the service does not include transportation to a destination outside the continental zone, and
-		- **(ii)** tax under subsection 165(1) of the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
-	- **(c)** $24.00, if the service includes transportation to a destination outside the continental zone.
+		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
+	- **(c)** $20.00, if the service includes transportation to a destination outside the continental zone.
 
 **Prescribed amount of charge**
 
 - **(3)** The amount of the charge in respect of a prescribed air transportation service is the lesser of
 	- **(a)** the amount that is determined in respect of the service under subsection (1) or (2), as the case may be, and
 	- **(b)** the amount that is prescribed, or determined in accordance with prescribed rules, in respect of the service.
-> 2002, c. 9, s. 5 "12"; 2003, c. 15, s. 44.
+> 2002, c. 9, s. 5 "12"; 2003, c. 15, s. 44; 2005, c. 19, s. 2.
 
 
 
