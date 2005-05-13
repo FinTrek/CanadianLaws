@@ -38,11 +38,11 @@ Sanctionnée sur le 19 juin 2003
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord d’application*** L’accord visé au paragraphe 5(2).
+***accord d’application*** S’entend, à la partie 1, de l’accord visé au paragraphe 5(2) et, à la partie 2, de l’accord visé à l’article 22.
 
 ***bande*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
 
-***corps dirigeant*** Le corps d’une première nation dont le nom figure à l’annexe en regard du nom de celle-ci.
+***corps dirigeant*** Le corps d’une première nation dont le nom figure à l’annexe 1 en regard du nom de celle-ci.
 
 ***crédit de taxe sur les intrants*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
@@ -58,24 +58,31 @@ Sanctionnée sur le 19 juin 2003
 
 ***taxe nette*** S’entend au sens de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
-***terres*** Les terres d’une première nation dont la description figure à l’annexe en regard du nom de celle-ci.
+***terres*** Les terres d’une première nation dont la description figure à l’annexe 1 en regard du nom de celle-ci.
 
 **Termes définis au par. 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)**
 
-- **(2)** À moins d’indication contraire, les termes de la présente loi s’entendent au sens du paragraphe 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+- **(2)** À moins d’indication contraire, les termes de la partie 1 s’entendent au sens du paragraphe 123(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
 **Maison mobile ou maison flottante**
 
-- **(3)** Une maison mobile ou une maison flottante est réputée être un bien meuble corporel pour l’application des dispositions de la présente loi et de tout texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), concernant le transfert de biens meubles corporels sur les terres d’une première nation.
+- **(3)** Une maison mobile ou une maison flottante est réputée être un bien meuble corporel pour l’application des dispositions de la partie 1 et de tout texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), concernant le transfert de biens meubles corporels sur les terres d’une première nation.
 
 **Application des présomptions**
 
 - **(4)** Les circonstances ou faits qui sont réputés exister aux termes d’une disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sont réputés exister lorsqu’il s’agit de déterminer les matières relativement auxquelles une première nation peut édicter un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1).
+> 2003, ch. 15, art. 67 « 2 »; 2005, ch. 19, art. 3.
 
 
 
 
-## Application d’autres lois fédérales
+
+**PARTIE 1** 
+## Taxe sur les produits et services des premières nations
+
+
+
+### Application d’autres lois fédérales
 
 
 
@@ -85,18 +92,24 @@ Sanctionnée sur le 19 juin 2003
 
 - **(1)** L’obligation d’acquitter une taxe ou une autre somme à payer en vertu d’un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), l’emporte sur l’application de l’exemption prévue à l’article 87 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et de toute autre exemption fiscale, prévue par une autre loi fédérale, qui est semblable à cette exemption.
 
+**Article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
+
+- **(1.1)** Tout texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ou toute obligation de payer une somme découlant de l’application de l’article 14 peut être mis en application par Sa Majesté du chef du Canada ou par un mandataire de la première nation malgré l’article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+
 **Application prépondérante du par. 4(1)**
 
-- **(2)** Le corps dirigeant d’une première nation dont le nom figure à l’annexe peut édicter un texte législatif imposant une taxe en vertu du paragraphe 4(1) malgré toute autre loi fédérale qui limite le pouvoir de la première nation en cette matière.
+- **(2)** Le corps dirigeant d’une première nation dont le nom figure à l’annexe 1 peut édicter un texte législatif imposant une taxe en vertu du paragraphe 4(1) malgré toute autre loi fédérale qui limite le pouvoir de la première nation en cette matière.
 
 **Obligation de Sa Majesté**
 
 - **(3)** Si une disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) lie Sa Majesté du chef du Canada ou d’une province, cette disposition, dans la mesure où elle s’applique dans le cadre d’un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ainsi que toute disposition de ce texte qui y correspond, lient Sa Majesté du chef du Canada ou d’une province pour l’application de ce texte.
+> 2003, ch. 15, art. 67 « 3 »; 2005, ch. 19, art. 5.
 
 
 
 
-## Texte législatif concernant la taxe sur les produits et services d’une première nation
+
+### Texte législatif concernant la taxe sur les produits et services d’une première nation
 
 
 
@@ -104,14 +117,14 @@ Sanctionnée sur le 19 juin 2003
 
 **4** 
 
-- **(1)** Sous réserve du présent article, le corps dirigeant d’une première nation dont le nom figure à l’annexe et qui est soit une bande, soit une première nation dont le pouvoir d’édicter des textes législatifs a été reconnu ou conféré par une autre loi fédérale ou par un accord mis en vigueur par une autre loi fédérale, peut édicter un texte législatif imposant :
+- **(1)** Sous réserve du présent article, le corps dirigeant d’une première nation dont le nom figure à l’annexe 1 et qui est soit une bande, soit une première nation dont le pouvoir d’édicter des textes législatifs a été reconnu ou conféré par une autre loi fédérale ou par un accord mis en vigueur par une autre loi fédérale, peut édicter un texte législatif imposant :
 	- **a)** une taxe relative aux fournitures taxables effectuées sur les terres de la première nation;
 	- **b)** une taxe relative au transfert de biens meubles corporels sur les terres de la première nation depuis un endroit au Canada;
 	- **c)** une taxe relative aux fournitures taxables importées effectuées sur les terres de la première nation.
 
 **Fournitures sur des terres**
 
-- **(2)** Une fourniture, sauf une fourniture taxable importée, est effectuée sur les terres d’une première nation seulement si au moins une des conditions suivantes est remplie :
+- **(2)** Pour l’application du paragraphe (1), une fourniture, sauf une fourniture taxable importée, est effectuée sur les terres d’une première nation seulement si au moins une des conditions suivantes est remplie :
 	- **a)** à supposer que les terres de la première nation constituent une province participante, la fourniture serait réputée, aux termes d’une disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), être effectuée dans cette province si, à la fois :
 		- **(i)** les terres de chacune des autres premières nations relativement auxquelles un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), est en vigueur au moment de la fourniture constituaient chacune une province participante distincte,
 		- **(ii)** les provinces participantes dont le nom figure à l’annexe VIII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) constituaient des provinces non participantes;
@@ -125,7 +138,7 @@ Sanctionnée sur le 19 juin 2003
 
 **Fourniture taxable importée sur des terres**
 
-- **(4)** Une fourniture taxable importée est effectuée sur les terres d’une première nation seulement si au moins une des conditions suivantes est remplie :
+- **(4)** Pour l’application de l’alinéa (1)c), une fourniture taxable importée est effectuée sur les terres d’une première nation seulement si au moins une des conditions suivantes est remplie :
 	- **a)** la taxe prévue au paragraphe 218.1(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) serait exigible relativement à la fourniture si, à la fois :
 		- **(i)** les terres de la première nation constituaient la province participante visée à ce paragraphe,
 		- **(ii)** les terres de chacune des autres premières nations relativement auxquelles un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), est en vigueur au moment de la fourniture constituaient chacune une province participante distincte,
@@ -139,23 +152,23 @@ Sanctionnée sur le 19 juin 2003
 
 **Exception**
 
-- **(6)** La taxe relative au transfert d’un bien sur les terres d’une première nation n’est pas imposée dans le cas où :
+- **(6)** Pour l’application de l’alinéa (1)b), la taxe relative au transfert d’un bien sur les terres d’une première nation n’est pas imposée dans le cas où :
 	- **a)** avant le transfert, une taxe est devenue exigible de l’auteur du transfert relativement au bien en vertu d’un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), ou en vertu de l’article 212 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **b)** la taxe prévue au paragraphe 220.05(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ne serait pas exigible relativement au transfert si, à la fois :
 		- **(i)** les terres de la première nation constituaient la province participante visée à ce paragraphe,
 		- **(ii)** les terres de chacune des autres premières nations relativement auxquelles un texte législatif autochtone, au sens des paragraphes 11(1) ou 12(1), est en vigueur au moment du transfert constituaient chacune une province participante distincte,
 		- **(iii)** les provinces participantes dont le nom figure à l’annexe VIII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) constituaient des provinces non participantes,
-		- **(iv)** les alinéas 220.05(3)a) et b) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), l’article 18 de la partie I de l’annexe X de cette loi, l’exemption prévue à l’article 87 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et toute autre exemption fiscale, prévue par une autre loi fédérale, qui est semblable à cette exemption ne s’appliquaient pas relativement au transfert.
+		- **(iv)** les alinéas 220.05(3) a) et b) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), l’article 18 de la partie I de l’annexe X de cette loi, l’exemption prévue à l’article 87 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et toute autre exemption fiscale, prévue par une autre loi fédérale, qui est semblable à cette exemption ne s’appliquaient pas relativement au transfert.
 
 **Transporteurs**
 
-- **(7)** Pour l’application de la présente loi, le bien qu’une personne donnée transfère sur les terres d’une première nation pour le compte d’une autre personne est réputé avoir été transféré par cette dernière et non par la personne donnée.
+- **(7)** Pour l’application de la présente partie, le bien qu’une personne donnée transfère sur les terres d’une première nation pour le compte d’une autre personne est réputé avoir été transféré par cette dernière et non par la personne donnée.
 
 **Montant de taxe — transfert d’un bien sur des terres**
 
 - **(8)** Pour l’application du paragraphe (1), le montant de taxe qui peut être imposé en vertu du texte législatif d’une première nation relativement au transfert d’un bien sur les terres de celle-ci correspond au montant obtenu par la formule suivante :
 ```
-A x B
+A × B
 ```
 où :
 - **A** représente le taux de taxe établi au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
@@ -181,6 +194,8 @@ où :
 **Application**
 
 - **(11)** Tout texte législatif édicté en vertu du paragraphe (1) par le corps dirigeant d’une première nation est appliqué, et la taxe imposée en vertu de ce texte est perçue, conformément à un accord d’application conclu aux termes du paragraphe 11(2) par l’organe autorisé de la première nation.
+> 2003, ch. 15, art. 67 « 4 »; 2005, ch. 19, art. 6.
+
 
 
 
@@ -322,8 +337,8 @@ où :
 **Règles d’application**
 
 - **(3)** Dans le cas où l’organe autorisé d’une première nation et le ministre ont conclu un accord d’application relatif à un texte législatif autochtone, les règles suivantes s’appliquent :
-	- **a)** chaque disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exception du paragraphe 327(2), s’applique, avec les adaptations nécessaires, dans le cadre du texte législatif autochtone comme si la taxe visée à chacun des alinéas 4(1)a) et c) qui est imposée en vertu de ce texte était imposée en vertu du paragraphe 165(1) et de l’article 218 de cette loi respectivement et, sous réserve du paragraphe 4(9), comme si la taxe visée à l’alinéa 4(1)b) qui est imposée en vertu de ce texte était imposée en vertu du paragraphe 220.05(1) de cette loi relativement au transfert d’un bien dans une province participante; il n’en demeure pas moins que le texte législatif autochtone n’a pour effet d’imposer une taxe que dans la mesure prévue à l’article 4;
-	- **b)** le texte législatif autochtone s’applique comme si la taxe imposée en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) était imposée en vertu de ce texte et comme si les dispositions de cette partie concernant cette taxe faisaient partie de ce texte; il n’en demeure pas moins que le texte législatif autochtone n’a pour effet d’imposer une taxe que dans la mesure prévue à l’article 4;
+	- **a)** chaque disposition de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exception de toute disposition créant une infraction criminelle, s’applique, avec les adaptations nécessaires, dans le cadre du texte législatif autochtone comme si la taxe visée à chacun des alinéas 4(1)a) et c) qui est imposée en vertu de ce texte était imposée en vertu du paragraphe 165(1) et de l’article 218 de cette loi respectivement et, sous réserve du paragraphe 4(9), comme si la taxe visée à l’alinéa 4(1)b) qui est imposée en vertu de ce texte était imposée en vertu du paragraphe 220.05(1) de cette loi relativement au transfert d’un bien dans une province participante; il n’en demeure pas moins que le texte législatif autochtone n’a pour effet d’imposer une taxe que dans la mesure prévue à l’article 4;
+	- **b)** le texte législatif autochtone s’applique comme si la taxe imposée en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) était imposée en vertu de ce texte et comme si les dispositions de cette partie concernant cette taxe, à l’exception de toute disposition créant une infraction criminelle, faisaient partie de ce texte; il n’en demeure pas moins que le texte législatif autochtone n’a pour effet d’imposer une taxe que dans la mesure prévue à l’article 4;
 	- **c)** la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) s’applique, sauf dans le cadre de l’alinéa a), comme si la taxe imposée en vertu du texte législatif autochtone était imposée en vertu de cette partie et comme si les dispositions de ce texte concernant cette taxe faisaient partie de cette partie; il n’en demeure pas moins que la partie IX de cette loi n’a pour effet d’imposer une taxe que dans la mesure qui y est prévue;
 	- **d)** les lois fédérales, à l’exception de la présente loi et de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), s’appliquent comme si la taxe visée à chacun des alinéas 4(1)a) et c) qui est imposée en vertu du texte législatif autochtone était imposée en vertu du paragraphe 165(1) et de l’article 218 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) respectivement et, sous réserve du paragraphe 4(9), comme si la taxe visée à l’alinéa 4(1)b) qui est imposée en vertu de ce texte était imposée en vertu du paragraphe 220.05(1) de cette loi relativement au transfert d’un bien dans une province participante;
 	- **e)** il est entendu que :
@@ -333,12 +348,15 @@ où :
 		- **(iv)** tout acte accompli en vue de remplir une exigence ou d’exercer un pouvoir, un droit ou un privilège prévu par le texte législatif autochtone est accompli pour l’application à la fois de ce texte et de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md),
 		- **(v)** quiconque est un inscrit pour l’application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) l’est pour l’application à la fois de cette partie et du texte législatif autochtone,
 		- **(vi)** quiconque est un inscrit pour l’application du texte législatif autochtone l’est pour l’application à la fois de ce texte et de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md),
-		- **(vii)** toute procédure qui pourrait être engagée en application d’une autre loi fédérale relativement à la taxe imposée en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) peut être engagée relativement à la taxe imposée en vertu du texte législatif autochtone.
+		- **(vii)** toute procédure qui pourrait être engagée en application d’une autre loi fédérale relativement à la taxe imposée en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) peut être engagée relativement à la taxe imposée en vertu du texte législatif autochtone,
+		- **(viii)** la présente partie n’a pas pour effet de conférer à un corps dirigeant le pouvoir d’édicter des textes législatifs en matière de droit criminel.
+> 2003, ch. 15, art. 67 « 11 »; 2005, ch. 19, art. 7.
 
 
 
 
-## Texte législatif autochtone édicté en vertu d’un pouvoir distinct
+
+### Texte législatif autochtone édicté en vertu d’un pouvoir distinct
 
 
 
@@ -346,7 +364,7 @@ où :
 
 **12** 
 
-- **(1)** Au présent article, ***texte législatif autochtone*** s’entend d’un texte législatif qui est édicté par le corps dirigeant d’une première nation dont le nom figure à l’annexe en vertu d’un pouvoir reconnu ou conféré par une autre loi fédérale ou par un accord mis en vigueur par une autre loi fédérale. Ce texte et son application doivent toutefois être conformes aux paragraphes 4(1) à (10), aux alinéas 11(3)a) et b) et aux sous-alinéas 11(3)e)(i) à (iii) et (v).
+- **(1)** Au présent article, ***texte législatif autochtone*** s’entend d’un texte législatif qui est édicté par le corps dirigeant d’une première nation dont le nom figure à l’annexe 1 en vertu d’un pouvoir reconnu ou conféré par une autre loi fédérale ou par un accord mis en vigueur par une autre loi fédérale. Ce texte et son application doivent toutefois être conformes aux paragraphes 4(1) à (10), aux alinéas 11(3)a) et b) et aux sous-alinéas 11(3)e)(i) à (iii), (v) et (viii).
 
 **Règles d’application**
 
@@ -360,12 +378,14 @@ où :
 
 **Cessation de l’accord**
 
-- **(3)** Dès qu’un accord d’application relatif à un texte législatif autochtone cesse d’avoir effet, la présente loi s’applique comme si ce texte avait été abrogé au même moment.
+- **(3)** Dès qu’un accord d’application relatif à un texte législatif autochtone cesse d’avoir effet, la présente partie s’applique comme si ce texte avait été abrogé au même moment.
+> 2003, ch. 15, art. 67 « 12 »; 2005, ch. 19, art. 8.
 
 
 
 
-## Accord d’application et partie IX de la Loi sur la taxe d’accise
+
+### Accord d’application et partie IX de la Loi sur la taxe d’accise
 
 
 
@@ -376,7 +396,7 @@ où :
 
 
 
-## Infractions
+### Infractions
 
 
 
@@ -390,13 +410,15 @@ où :
 
 
 
-## Dispositions générales
+### Dispositions générales
 
 
 
-**Modification de l’annexe**
+**Modification de l’annexe 1**
 
-**15** Le gouverneur en conseil peut, par décret, modifier l’annexe pour y ajouter, en retrancher ou y changer le nom d’une première nation, le nom du corps dirigeant d’une première nation ou la description des terres d’une première nation.
+**15** Le gouverneur en conseil peut, par décret, modifier l’annexe 1 pour y ajouter, en retrancher ou y changer le nom d’une première nation, le nom du corps dirigeant d’une première nation ou la description des terres d’une première nation.
+> 2003, ch. 15, art. 67 « 15 »; 2005, ch. 19, art. 9.
+
 
 
 
@@ -414,7 +436,189 @@ où :
 
 
 
-### **ANNEXE** 
+**PARTIE 2** 
+## Taxe de vente des premières nations — Québec
+
+
+
+### Définitions
+
+
+
+**Définitions**
+
+**17** Les définitions qui suivent s’appliquent à la présente partie et à l’annexe 2.
+
+***conseil de bande*** S’entend au sens de conseil de la bande, au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+
+***directe*** Pour distinguer une taxe directe d’une taxe indirecte, a le même sens qu’à la catégorie 2 de l’article 92 de la Loi constitutionnelle de 1867.
+
+***loi québécoise parallèle*** En ce qui a trait à un texte législatif de bande, le texte législatif du Québec auquel le texte législatif de bande est similaire, ou celles de ses dispositions auxquelles il est similaire.
+
+***réserves au Québec*** En ce qui concerne une bande, ses réserves au Québec dont la description figure à l’annexe 2 en regard de son nom.
+
+***taxe de vente*** Toute taxe d’application générale payable par une personne selon le prix, la quantité ou la valeur, relativement à la consommation, à la fourniture, à la location, à l’utilisation ou à la vente d’un bien ou d’un service.
+
+***texte législatif de bande*** Texte législatif édicté par un conseil de bande en vertu de l’article 23.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+### Application d’autres lois
+
+
+
+**Article 87 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et dispositions semblables**
+
+**18** 
+
+- **(1)** L’obligation d’acquitter une taxe ou une autre somme à payer en vertu d’un texte législatif de bande l’emporte sur l’application de l’exemption prévue à l’article 87 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et de toute autre exemption fiscale, prévue par une autre loi fédérale, qui est semblable à cette exemption.
+
+**Article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
+
+- **(2)** Tout texte législatif de bande peut être mis en application par un mandataire de la bande malgré l’article 89 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**19** Le texte législatif de bande n’est pas assujetti à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Application prépondérante de l’art. 23**
+
+**20** Le conseil de bande peut édicter un texte législatif de bande malgré toute autre loi fédérale qui limite son pouvoir d’édicter un texte législatif imposant une taxe.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Application d’autres lois**
+
+**21** Si une loi du Québec prévoit qu’une ou plusieurs lois du Québec s’appliquent comme si la taxe imposée en vertu d’un texte législatif de bande était imposée en vertu d’une loi du Québec en particulier, les lois fédérales, à l’exception de la présente loi, s’appliquent comme si cette taxe était imposée en vertu de cette loi du Québec.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+### Accord d’application
+
+
+
+**Pouvoir de conclure un accord**
+
+**22** Le conseil de bande peut, au nom de la bande, conclure avec le gouvernement du Québec un accord d’application relatif au texte législatif de bande qu’il a édicté.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+### Délégation
+
+
+
+**Pouvoir d’imposition**
+
+**23** 
+
+- **(1)** Le conseil de bande dont le nom figure à l’annexe 2 peut édicter un texte législatif qui impose, dans les limites des réserves de la bande au Québec, une taxe de vente directe et toute autre somme dont le paiement peut être exigé relativement à l’imposition de cette taxe.
+
+**Loi québécoise parallèle**
+
+- **(2)** Un texte législatif ne peut être édicté en vertu du paragraphe (1) que s’il a une seule loi québécoise parallèle qui y est nommée expressément.
+
+**Force de loi**
+
+- **(3)** Le texte législatif édicté en vertu du paragraphe (1) n’a force de loi que si, à la fois :
+	- **a)** un accord d’application entre le conseil de bande et le gouvernement du Québec relativement au texte est en vigueur;
+	- **b)** le texte est appliqué, et la taxe de vente directe qu’il impose est perçue, conformément à cet accord;
+	- **c)** le nom de la bande, le nom du conseil de bande et la description des réserves de la bande au Québec figurent à l’annexe 2;
+	- **d)** la loi québécoise parallèle qui s’y rattache est en vigueur.
+
+**Conformité à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
+
+- **(4)** Le texte législatif édicté en vertu du paragraphe (1) n’est valide que si le pouvoir du conseil de bande d’édicter ce texte est exercé en conformité avec l’alinéa 2(3)b) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). Nul texte législatif de cette nature n’est invalide en raison d’un vice de forme.
+
+**Exclusion — droit criminel**
+
+- **(5)** La présente partie n’a pas pour effet de conférer au conseil de bande le pouvoir d’édicter des textes législatifs en matière de droit criminel.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Entrée en vigueur du texte législatif**
+
+**24** Sous réserve du paragraphe 23(3), le texte législatif de bande entre en vigueur à la date prévue dans l’accord d’application conclu avec le gouvernement du Québec relativement à ce texte.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Preuve**
+
+**25** La copie d’un texte législatif de bande constitue, si elle est certifiée conforme par le ministre ou une personne qu’il autorise, une preuve que le texte a été régulièrement édicté par le conseil de bande sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du ministre ou de la personne.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Publication**
+
+**26** Le conseil de bande est tenu de fournir, sur demande, une copie de tout texte législatif de bande qu’il a édicté; il est aussi tenu de le publier dans un journal à grand tirage au lieu où le texte s’applique ainsi que dans la publication intitulée First Nations Gazette. Toutefois, le défaut de publication ne porte pas atteinte à la validité du texte législatif.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Dépenses**
+
+**27** Le pouvoir du conseil de bande de faire des dépenses sur les fonds qui lui sont versés aux termes d’un accord d’application n’est validement exercé qu’en conformité avec l’alinéa 2(3)b) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+**Argent des Indiens**
+
+**28** Les fonds prélevés en application d’un texte législatif de bande ne constituent pas de l’argent des Indiens au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+### Disposition générale
+
+
+
+**Modification de l’annexe 2**
+
+**29** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter, en retrancher ou y changer le nom d’une bande, le nom d’un conseil de bande ou la description des réserves d’une bande au Québec.
+> 2005, ch. 19, art. 10.
+
+
+
+
+
+### **ANNEXE 1** 
 **(paragraphes 2(1), 3(2), 4(1) et 12(1) et article 15)**
 <table>
 <h4>Nom des premières nations et des corps dirigeants et description des terres</h4>
@@ -458,6 +662,17 @@ où :
 
 </td>
 <td>Réserve de Buffalo Point First Nation
+
+</td>
+</tr>
+<tr>
+<td>Burrard, aussi connue sous le nom de Tsleil-Waututh Nation
+
+</td>
+<td>Council of Burrard
+
+</td>
+<td>Réserve de Burrard
 
 </td>
 </tr>
@@ -638,6 +853,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Tla-o-qui-aht
+
+</td>
+<td>Council of the Tla-o-qui-aht First Nations
+
+</td>
+<td>Réserve des Tla-o-qui-aht First Nations
+
+</td>
+</tr>
+<tr>
 <td>Tr’ondëk Hwëch’in
 
 </td>
@@ -661,6 +887,32 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 «ann.»; DORS/2004-281.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11.
+
+
+
+
+### **ANNEXE 2** 
+**(articles 17, 23 et 29)**
+<table>
+<h4>Nom des bandes et des conseils de bande et description des réserves au Québec</h4>
+<tr>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+</tr>
+<tr>
+<th>Bande</th>
+<th>Conseil de Bande</th>
+<th>Réserves au Québec</th>
+</tr>
+<tr>
+<td>Montagnais Essipit</td>
+<td>Conseil des Montagnais Essipit</td>
+<td>Réserve des Montagnais Essipit</td>
+</tr>
+</table>
+
+> 2005, ch. 19, art. 12.
 
 
