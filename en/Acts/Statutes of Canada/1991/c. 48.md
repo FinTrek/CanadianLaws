@@ -7822,6 +7822,12 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(2)** Any notification sent to an association with respect to a customer of the association, other than a document referred to in subsection (1) or (3), constitutes notice to the association and fixes the association with knowledge of its contents only if sent to and received at the branch of the association that is the branch of account of an account held in the name of that customer.
 
+**Notices: Minister of National Revenue**
+
+- **(2.1)** Despite subsections (1) and (2), a notice, demand, order or other document issued with respect to a customer of an association constitutes notice to the association and fixes the association with knowledge of its contents and, where applicable, is binding on property belonging to the customer and in the possession of the association or on money owing to the customer by reason of an account in the association, if it is sent to the branch of the association referred to in subsection (1) or (2), an office of the association referred to in paragraph (3)(a) or any other office agreed to by the association and the Minister of National Revenue and it relates to
+	- **(a)** the administration of an Act of Parliament by the Minister of National Revenue; or
+	- **(b)** the administration of an Act of the legislature of a province or legislation made by an aboriginal government, where the Minister or the Minister of National Revenue has entered into a tax collection agreement under an Act of Parliament with the government of the province or the aboriginal government.
+
 **Exception**
 
 - **(3)** Subsections (1) and (2) do not apply in respect of an enforcement notice in respect of a support order or support provision if
@@ -7843,14 +7849,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(6)** The following definitions apply in this section.
 
-***designated office*** means a place designated in accordance with regulations made for the purpose of subsection (3).
+***designated office*** means a place designated in accordance with regulations made for the purpose of subsection (3). (*bureau désigné*)
 
-***enforcement notice***, in respect of a support order or support provision, means a garnishee summons or other instrument issued under the laws of a province for the enforcement of the support order or support provision.
+***enforcement notice***, in respect of a support order or support provision, means a garnishee summons or other instrument issued under the laws of a province for the enforcement of the support order or support provision. (*avis d’exécution*)
 
-***support order*** means an order or judgment or interim order or judgment for family financial support.
+***support order*** means an order or judgment or interim order or judgment for family financial support. (*ordonnance alimentaire*)
 
-***support provision*** means a provision of an agreement relating to the payment of maintenance or family financial support.
-> 2001, c. 9, s. 313.
+***support provision*** means a provision of an agreement relating to the payment of maintenance or family financial support. (*disposition alimentaire*)
+> 2001, c. 9, s. 313; 2005, c. 19, s. 59.
 
 
 
