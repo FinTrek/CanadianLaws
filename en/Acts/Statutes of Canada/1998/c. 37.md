@@ -123,13 +123,63 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Communication of information**
+**Review of information transmitted**
+
+**5.1** 
+
+- **(1)** The Commissioner shall review the information transmitted under section 487.071 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 196.22 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) to ensure that the offence referred to in the order or authorization is a designated offence.
+
+**Forensic DNA analysis**
+
+- **(2)** The Commissioner shall conduct a forensic DNA analysis of the bodily substances transmitted if satisfied that the offence referred to in the order or authorization is a designated offence and enter the resulting DNA profile in the convicted offenders index.
+
+**Retention of order or authorization**
+
+- **(3)** The Commissioner shall retain the copy of the order or authorization transmitted under subsection 487.071(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 196.161(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+> 2005, c. 25, s. 16.
+
+
+
+
+
+**Defect in order or authorization**
+
+**5.2** 
+
+- **(1)** If the Commissioner is of the opinion that the offence referred to in the order or authorization is not a designated offence, the Commissioner shall retain any bodily substances collected under it and any information transmitted with it, and give notice of the apparent defect to
+	- **(a)** the Attorney General of the province in which the order or authorization was made, if it was transmitted under section 487.071 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
+	- **(b)** the Director of Military Prosecutions, if the order or authorization was transmitted under section 196.22 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Confirmation or correction**
+
+- **(2)** If the Attorney General or Director of Military Prosecutions, as the case may be, confirms in writing that the order or authorization is valid or sends a copy of a corrected order or authorization to the Commissioner, the Commissioner shall conduct a forensic DNA analysis of any bodily substances collected under it.
+
+**Revoked order or authorization**
+
+- **(3)** The Commissioner shall, without delay, destroy any bodily substances collected and any information transmitted with them if the order or authorization for their collection is revoked.
+
+**Destruction of bodily substances**
+
+- **(4)** The Commissioner shall destroy any bodily substances and information retained under subsection (1) on the expiry of 180 days after sending a notice under that subsection unless, before the expiry of that period, the Commissioner receives
+	- **(a)** a confirmation that the order or authorization is valid;
+	- **(b)** a corrected order or authorization;
+	- **(c)** a notice that the Attorney General or Director of Military Prosecutions requires an additional period of not greater than 90 days to review the order or authorization; or
+	- **(d)** a notice that the issue of whether or not the order or authorization is defective is under review by a judge or in proceedings before a court.
+> 2005, c. 25, s. 16.
+
+
+
+
+
+**Comparison of DNA profiles and communication of information**
 
 **6** 
 
-- **(1)** On receipt of a DNA profile that is transmitted under subsection 487.071(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 196.22(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 10(3) for entry in the DNA data bank, the Commissioner shall compare it with the DNA profiles in the data bank in order to determine whether it is already contained in the data bank and may then communicate, for the purposes of the investigation or prosecution of a criminal offence, the following information to any Canadian law enforcement agency or laboratory that the Commissioner considers appropriate:
-	- **(a)** whether the DNA profile is already contained in the data bank; and
-	- **(b)** any information, other than the DNA profile itself, that is contained in the data bank in relation to that DNA profile.
+- **(1)** The Commissioner shall compare any DNA profile that is entered in the convicted offenders index or the crime scene index with those DNA profiles that are already contained in the data bank and may then, for the purpose of the investigation of a designated offence, communicate the following information to any Canadian law enforcement agency or laboratory that the Commissioner considers appropriate:
+	- **(a)** if the DNA profile is not already contained in the data bank, the fact that it is not;
+	- **(b)** if the DNA profile is already contained in the data bank, any information contained in the data bank in relation to that DNA profile;
+	- **(c)** if the DNA profile is, in the opinion of the Commissioner, similar to one that is already contained in the data bank, the similar DNA profile; and
+	- **(d)** if a DNA profile that is communicated under paragraph (c) cannot be excluded as a possible match on further analysis, any information contained in the data bank in relation to that DNA profile.
 
 **Authorized users**
 
@@ -137,7 +187,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Foreign law enforcement agencies**
 
-- **(3)** On receipt of a DNA profile from the government of a foreign state, an international organization established by the governments of states or an institution of any such government or international organization, the Commissioner may compare the DNA profile with those in the DNA data bank in order to determine whether it is already contained in the data bank and may then communicate information referred to in subsection (1) to that government, international organization or institution.
+- **(3)** On receipt of a DNA profile from the government of a foreign state, an international organization established by the governments of states or an institution of any such government or international organization, the Commissioner may compare the DNA profile with those in the DNA data bank to determine whether it is already contained in the data bank and may then communicate to that government, international organization or institution
+	- **(a)** whether the DNA profile is already contained in the data bank; and
+	- **(b)** any information, other than the DNA profile itself, that is contained in the data bank in relation to that DNA profile.
 
 **Communication of DNA profile**
 
@@ -145,16 +197,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Agreement or arrangement**
 
-- **(5)** Subsections (3) and (4) apply only if the Government of Canada or one of its institutions has entered into an agreement or arrangement, in accordance with paragraph 8(2)(f) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), with that government, international organization or institution, as the case may be, authorizing the communication solely for the purposes of the investigation or prosecution of a criminal offence.
+- **(5)** Subsections (3) and (4) apply only if the Government of Canada or one of its institutions has entered into an agreement or arrangement, in accordance with paragraph 8(2)(f) of the  [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), with that government, international organization or institution, as the case may be, authorizing the communication solely for the purposes of the investigation or prosecution of a criminal offence.
 
-**Unauthorized use**
+**Use of results — order, authorization**
 
-- **(6)** No person who receives a DNA profile for entry in the DNA data bank shall use it or allow it to be used other than for the purposes of the administration of this Act.
+- **(6)** No person shall use the results of forensic DNA analysis of bodily substances that are taken in execution of an order or authorization, except in accordance with this Act.
+
+**Subsequent communication**
+
+- **(6.1)** Information that is communicated under subsection (1) may be communicated subsequently to a person to whom the communication is necessary for the purpose of the investigation or prosecution of a designated offence.
 
 **Unauthorized communication**
 
-- **(7)** No person shall, except in accordance with this section, communicate or allow to be communicated a DNA profile that is contained in the DNA data bank or information that is referred to in subsection (1).
-> 1998, c. 37, s. 6; 2000, c. 10, s. 7.
+- **(7)** Subject to this section, no person shall communicate any information that is contained in the DNA data bank or allow the information to be communicated.
+> 1998, c. 37, s. 6; 2000, c. 10, s. 7; 2005, c. 25, s. 17.
 
 
 
