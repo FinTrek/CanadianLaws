@@ -136,10 +136,10 @@ the balance remaining after deducting or withholding this amount, as the case ma
 	- **(a)** in respect of remuneration that is salary, wages or commissions, at the establishment of the employer from which the remuneration is paid; or
 	- **(b)** in respect of remuneration other than salary, wages or commissions, at the establishment of the employer in the province where the employee resides at the time the remuneration is paid but, if the employer does not have an establishment in that province at that time, he shall, for the purposes of this paragraph, be deemed to have an establishment in that province.
 
-- **(5)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee an amount in respect of the acquisition by the employee of an approved share, as defined in subsection 127.4(1) of the Act, there shall be deducted from the amount determined under paragraph 102(1)(e) or (2)(f), as the case may be, in respect of that payment the lesser of
+- **(5)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee an amount in respect of the acquisition by the employee of an approved share, as defined in subsection 127.4(1) of the Act, there shall be deducted from the amount determined under paragraph 102(1)(e) or (2)(e), as the case may be, in respect of that payment the lesser of
 	- **(a)** $750, and
 	- **(b)** 15% of the amount deducted or withheld in respect of the acquisition of an approved share.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1.
 
 
 
@@ -232,8 +232,11 @@ where
 
 - **(5)** Notwithstanding subsections (1) and (2), no amount shall be deducted or withheld in the year by an employer from a payment of remuneration to an employee in respect of commissions earned by the employee in the immediately preceding year where those commissions were previously reported by the employer as remuneration of the employee in respect of that year on an information return.
 
-- **(6)** [Repealed, SOR/83-349, s. 2]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 2; SOR/78-449, s. 1; SOR/78-625, s. 1; SOR/79-359, s. 1; SOR/79-694, s. 1; SOR/80-187, s. 1; SOR/80-683, s. 2; SOR/80-941, s. 2; SOR/81-471, s. 3; SOR/83-349, s. 2; SOR/83-692, ss. 2 to 4; SOR/84-913, s. 1; SOR/84-966, s. 1; SOR/85-453, ss. 1, 2; SOR/86-629, s. 2; SOR/87-471, s. 2; SOR/88-310, s. 1; SOR/89-508, s. 2; SOR/90-161, s. 1; SOR/91-150, s. 1; SOR/91-279, s. 1; SOR/91-536, s. 1; SOR/92-138, s. 1; SOR/92-667, s. 1; SOR/94-238, s. 2; SOR/94-569, s. 1; SOR/98-259, s. 2; SOR/99-17, s. 2; SOR/2001-221, s. 2.
+#### Canadian Forces and Police — exception
+
+
+- **(6)** Despite subsection (1), no amount shall be deducted or withheld in the year by an employer from an amount determined in accordance with subparagraph 110(1)(f)(v) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 2; SOR/78-449, s. 1; SOR/78-625, s. 1; SOR/79-359, s. 1; SOR/79-694, s. 1; SOR/80-187, s. 1; SOR/80-683, s. 2; SOR/80-941, s. 2; SOR/81-471, s. 3; SOR/83-349, s. 2; SOR/83-692, ss. 2 to 4; SOR/84-913, s. 1; SOR/84-966, s. 1; SOR/85-453, ss. 1, 2; SOR/86-629, s. 2; SOR/87-471, s. 2; SOR/88-310, s. 1; SOR/89-508, s. 2; SOR/90-161, s. 1; SOR/91-150, s. 1; SOR/91-279, s. 1; SOR/91-536, s. 1; SOR/92-138, s. 1; SOR/92-667, s. 1; SOR/94-238, s. 2; SOR/94-569, s. 1; SOR/98-259, s. 2; SOR/99-17, s. 2; SOR/2001-221, s. 2; SOR/2005-185, s. 2.
 
 
 
@@ -2252,10 +2255,10 @@ in that place.
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 12.2(4), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
-- **(c)** paragraphs 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act; and
+- **(b)** subsections 7(10), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3.
 
 
 
@@ -17510,78 +17513,75 @@ exceeds
 
 ### **SCHEDULE I** 
 **(Sections 100, 102 and 106)**
-## Ranges of Remuneration and of Total Remuneration
+## Ranges of Remuneration and Total Remuneration
 **1** For the purposes of paragraph 102(1)(c), the ranges of remuneration for each pay period in a taxation year shall be determined as follows:
 - **(a)** in respect of a daily pay period, the ranges of remuneration shall commence at $36 and increase in increments of $2 for each range up to and including $143.99;
-- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $163 and increase in increments of
-	- **(i)** $2 for each range up to and including $270.99,
-	- **(ii)** $4 for each range from $271 to $490.99,
-	- **(iii)** $8 for each range from $491 to $930.99,
-	- **(iv)** $12 for each range from $931 to $1,590.99,
-	- **(v)** $16 for each range from $1,591 to $2,470.99, and
-	- **(vi)** $20 for each range from $2,471 to $3,570.99;
-- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $325 and increase in increments of
-	- **(i)** $4 for each range up to and including $540.99,
-	- **(ii)** $8 for each range from $541 to $980.99,
-	- **(iii)** $16 for each range from $981 to $1,860.99,
-	- **(iv)** $24 for each range from $1,861 to $3,180.99,
-	- **(v)** $32 for each range from $3,181 to $4,940.99, and
-	- **(vi)** $40 for each range from $4,941 to $7,140.99;
-- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $352 and increase in increments of
-	- **(i)** $4 for each range up to and including $567.99,
-	- **(ii)** $8 for each range from $568 to $1,007.99,
-	- **(iii)** $18 for each range from $1,008 to $1,997.99,
-	- **(iv)** $26 for each range from $1,998 to $3,427.99,
-	- **(v)** $34 for each range from $3,428 to $5,297.99, and
-	- **(vi)** $44 for each range from $5,298 to $7,717.99;
-- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $703 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,134.99,
-	- **(ii)** $18 for each range from $1,135 to $2,124.99,
-	- **(iii)** $34 for each range from $2,125 to $3,994.99,
-	- **(iv)** $52 for each range from $3,995 to $6,854.99,
-	- **(v)** $70 for each range from $6,855 to $10,704.99, and
-	- **(vi)** $86 for each range from $10,705 to $15,434.99;
-- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $843 and increase in increments of
-	- **(i)** $10 for each range up to and including $1,382.99,
-	- **(ii)** $20 for each range from $1,383 to $2,482.99,
-	- **(iii)** $42 for each range from $2,483 to $4,792.99,
-	- **(iv)** $62 for each range from $4,793 to $8,202.99,
-	- **(v)** $84 for each range from $8,203 to $12,822.99, and
-	- **(vi)** $104 for each range from $12,823 to $18,542.99;
-- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $649 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,080.99,
-	- **(ii)** $16 for each range from $1,081 to $1,960.99,
-	- **(iii)** $32 for each range from $1,961 to $3,720.99,
-	- **(iv)** $48 for each range from $3,721 to $6,360.99,
-	- **(v)** $64 for each range from $6,361 to $9,880.99, and
-	- **(vi)** $80 for each range from $9,881 to $14,280.99; and
-- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $384 and increase in increments of
-	- **(i)** $6 for each range up to and including $707.99,
-	- **(ii)** $10 for each range from $708 to $1,257.99,
-	- **(iii)** $18 for each range from $1,258 to $2,247.99,
-	- **(iv)** $28 for each range from $2,248 to $3,787.99,
-	- **(v)** $38 for each range from $3,788 to $5,877.99, and
-	- **(vi)** $48 for each range from $5,878 to $8,517.99.
+- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $165 and increase in increments of
+	- **(i)** $2 for each range up to and including $272.99,
+	- **(ii)** $4 for each range from $273 to $492.99,
+	- **(iii)** $8 for each range from $493 to $932.99,
+	- **(iv)** $12 for each range from $933 to $1,592.99,
+	- **(v)** $16 for each range from $1,593 to $2,472.99, and
+	- **(vi)** $20 for each range from $2,473 to $3,572.99;
+- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $330 and increase in increments of
+	- **(i)** $4 for each range up to and including $545.99,
+	- **(ii)** $8 for each range from $546 to $985.99,
+	- **(iii)** $16 for each range from $986 to $1,865.99,
+	- **(iv)** $24 for each range from $1,866 to $3,185.99,
+	- **(v)** $32 for each range from $3,186 to $4,945.99, and
+	- **(vi)** $40 for each range from $4,946 to $7,145.99;
+- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $358 and increase in increments of
+	- **(i)** $4 for each range up to and including $573.99,
+	- **(ii)** $8 for each range from $574 to $1,013.99,
+	- **(iii)** $18 for each range from $1,014 to $2,003.99,
+	- **(iv)** $26 for each range from $2,004 to $3,433.99,
+	- **(v)** $34 for each range from $3,434 to $5,303.99, and
+	- **(vi)** $44 for each range from $5,304 to $7,723.99;
+- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $715 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,146.99,
+	- **(ii)** $18 for each range from $1,147 to $2,136.99,
+	- **(iii)** $34 for each range from $2,137 to $4,006.99,
+	- **(iv)** $52 for each range from $4,007 to $6,866.99,
+	- **(v)** $70 for each range from $6,867 to $10,716.99, and
+	- **(vi)** $86 for each range from $10,717 to $15,446.99;
+- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $857 and increase in increments of
+	- **(i)** $10 for each range up to and including $1,396.99,
+	- **(ii)** $20 for each range from $1,397 to $2,496.99,
+	- **(iii)** $42 for each range from $2,497 to $4,806.99,
+	- **(iv)** $62 for each range from $4,807 to $8,216.99,
+	- **(v)** $84 for each range from $8,217 to $12,836.99, and
+	- **(vi)** $104 for each range from $12,837 to $18,556.99;
+- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $660 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,091.99,
+	- **(ii)** $16 for each range from $1,092 to $1,971.99,
+	- **(iii)** $32 for each range from $1,972 to $3,731.99,
+	- **(iv)** $48 for each range from $3,732 to $6,371.99,
+	- **(v)** $64 for each range from $6,372 to $9,891.99, and
+	- **(vi)** $80 for each range from $9,892 to $14,291.99; and
+- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $390 and increase in increments of
+	- **(i)** $6 for each range up to and including $713.99,
+	- **(ii)** $10 for each range from $714 to $1,263.99,
+	- **(iii)** $18 for each range from $1,264 to $2,253.99,
+	- **(iv)** $28 for each range from $2,254 to $3,793.99,
+	- **(v)** $38 for each range from $3,794 to $5,883.99, and
+	- **(vi)** $48 for each range from $5,884 to $8,523.99.
 
 
 **2** For the purposes of paragraph 102(1)(d), the mid-point of the range of amount of personal credits for a taxation year shall be as follows:
-- **(a)** from $0 to $8,012, $8,012;
-- **(b)** from $8,012.01 to $9,789, $8,900.50;
-- **(c)** from $9,789.01 to $11,566, $10,677.50;
-- **(d)** from $11,566.01 to $13,343, $12,454.50;
-- **(e)** from $13,343.01 to $15,120, $14,231.50;
-- **(f)** from $15,120.01 to $16,897, $16,008.50;
-- **(g)** from $16,897.01 to $18,674, $17,785.50;
-- **(h)** from $18,674.01 to $20,451, $19,562.50;
-- **(i)** from $20,451.01 to $22,228, $21,339.50;
-- **(j)** from $22,228.01 to $24,005, $23,116.50; and
-- **(k)** for amounts in excess of $24,005, the amount of the personal credits.
+- **(a)** from $0 to $8,148, $8,148;
+- **(b)** from $8,148.01 to $9,955, $9,051.50;
+- **(c)** from $9,955.01 to $11,762, $10,858.50;
+- **(d)** from $11,762.01 to $13,569, $12,665.50;
+- **(e)** from $13,569.01 to $15,376, $14,472.50;
+- **(f)** from $15,376.01 to $17,183, $16,279.50;
+- **(g)** from $17,183.01 to $18,990, $18,086.50;
+- **(h)** from $18,990.01 to $20,797, $19,893.50;
+- **(i)** from $20,797.01 to $22,604, $21,700.50;
+- **(j)** from $22,604.01 to $24,411, $23,507.50; and
+- **(k)** for amounts in excess of $24,411, the amount of the personal credits.
 
 
-**3** [Repealed, SOR/2001-221, s. 8]
-
-
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8; SOR/2005-123, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8; SOR/2005-123, s. 6; SOR/2005-185, s. 4.
 
 
 
@@ -48746,7 +48746,7 @@ by
 - Pennsylvania College of Podiatric Medicine, Philadelphia, Pennsylvania
 - Pennsylvania State University, The, University Park, Pennsylvania
 - Philadelphia College of Bible, Langhorne, Pennsylvania
-- Philadelphia College of Textiles and Science, Philadelphia, Pennsylvania
+- Philadelphia University, Philadelphia, Pennsylvania
 - Pine Manor College, Chestnut Hill, Massachusetts
 - Pomona College, Claremont, California
 - Princeton Theological Seminary, Princeton, New Jersey
@@ -48779,7 +48779,7 @@ by
 - Saint Olaf College, Northfield, Minnesota
 - St. Vladimir’s Orthodox Theological Seminary, Crestwood, New York
 - San Francisco State College, San Francisco, California
-- San Jose State College, San Jose, California
+- San José State University, San José, California
 - Santa Clara University, Santa Clara, California
 - Sarah Lawrence College, Bonxville, New York
 - Scripps College, Claremont, California
@@ -49100,7 +49100,7 @@ by
 - Panjab University, Chandigarh
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5.
 
 
 
