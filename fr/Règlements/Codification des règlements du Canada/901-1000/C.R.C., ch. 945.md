@@ -45,9 +45,9 @@ Autorités habilitantes :
 ***crédits d’impôt personnels*** Relativement à une année d’imposition, le plus élevé des montants suivants :
 - **a)** le montant visé à l’alinéa 118(1)c) de la Loi;
 - **b)** le total des crédits auxquels l’employé aurait droit pour l’année en vertu des dispositions suivantes :
-	- **(i)** les paragraphes 118(1), (2) et (3) de la Loi, si « le taux de base pour l’année » était remplacé par « un »,
-	- **(ii)** les paragraphes 118.3(1) et (2) de la Loi, si le paragraphe 118.3(1) de la Loi était interprété sans égard à son alinéa c) et si « le taux de base pour l’année » était remplacé par « un »,
-	- **(iii)** les paragraphes 118.5(1) et 118.6(2) de la Loi, si le paragraphe 118.5(1) de la Loi était interprété sans égard à la mention « le produit de la multiplication du taux de base pour l’année par » et si « le taux de base pour l’année » était remplacé par « un » au paragraphe 118.6(2) de la Loi, après avoir soustrait de l’ensemble des montants déterminés selon ces paragraphes la fraction en sus de 3 000 $ du total des montants que l’employé s’attend à recevoir, pendant l’année, à titre de bourse d’études ou de bourse de perfectionnement (*fellowship*),
+	- **(i)** les paragraphes 118(1), (2) et (3) de la Loi, si « le taux de base pour l’année » était remplacé par « un »,
+	- **(ii)** les paragraphes 118.3(1) et (2) de la Loi, si le paragraphe 118.3(1) de la Loi était interprété sans égard à son alinéa c) et si « le taux de base pour l’année » était remplacé par « un »,
+	- **(iii)** les paragraphes 118.5(1) et 118.6(2) de la Loi, si le paragraphe 118.5(1) de la Loi était interprété sans égard à la mention « le produit de la multiplication du taux de base pour l’année par » et si « le taux de base pour l’année » était remplacé par « un » au paragraphe 118.6(2) de la Loi, après avoir soustrait de l’ensemble des montants déterminés selon ces paragraphes la fraction en sus de 3 000 $ du total des montants que l’employé s’attend à recevoir, pendant l’année, à titre de bourse d’études ou de bourse de perfectionnement (*fellowship*),
 	- **(iv)** l’article 118.8 de la Loi, si la formule A + B - C figurant à cet article était remplacée par la formule suivante :
 ```
 (A + B) / C
@@ -85,7 +85,7 @@ où :
 ***rémunération*** comprend tout paiement qui est
 - **a)** relatif au versement
 	- **(i)** d’un traitement ou d’un salaire, ou
-	- **(ii)** de commissions ou d’autres montants semblables établis en fonction du chiffre de ventes ou des contrats négociés (appelés «commissions» dans la présente partie),
+	- **(ii)** de commissions ou d’autres montants semblables établis en fonction du chiffre de ventes ou des contrats négociés (appelés « commissions » dans la présente partie),
 à un agent ou employé ou à un ancien agent ou employé,
 - **a.1)** relatif aux pourboires qu’un employé est tenu de déclarer à son employeur aux termes d’une loi provinciale,
 - **b)** une prestation de retraite ou de pension (y compris un paiement de rente effectué au titre ou en vertu d’une caisse ou d’un régime de pensions de retraite ou de pensions),
@@ -93,13 +93,13 @@ où :
 - **c)** une allocation de retraite,
 - **d)** une prestation consécutive au décès,
 - **e)** une prestation en vertu d’un régime de prestations supplémentaires de chômage,
-- **f)** un paiement versé en vertu d’un régime de participation différée aux bénéfices ou d’un organisme dit «régime dont l’agrément est retiré» à l’article 147 de la Loi et réduit, s’il y a lieu, de montants déterminés selon les paragraphes 147(10.1), (11) et (12) de la Loi,
+- **f)** un paiement versé en vertu d’un régime de participation différée aux bénéfices ou d’un organisme dit « régime dont l’agrément est retiré » à l’article 147 de la Loi et réduit, s’il y a lieu, de montants déterminés selon les paragraphes 147(10.1), (11) et (12) de la Loi,
 - **g)** une prestation versée en vertu de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md),
 - **h)** un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu de l’alinéa 56(1)r) de la Loi, à l’exception de la partie du montant qui se rapporte aux frais de garde d’enfants et aux frais de scolarité,
 - **i)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
 	- **(i)** un paiement périodique de rente,
 	- **(ii)** un paiement fait par une personne qui a des motifs raisonnables de croire que le paiement est déductible en application du paragraphe 146(8.2) de la Loi dans le calcul du revenu d’un contribuable,
-- **j)** un paiement versé à partir ou aux termes d’un régime appelé, au paragraphe 146(12) de la Loi, «régime modifié», autre
+- **j)** un paiement versé à partir ou aux termes d’un régime appelé, au paragraphe 146(12) de la Loi, « régime modifié », autre
 	- **(i)** qu’un paiement périodique de rente, ou
 	- **(ii)** lorsque l’alinéa 146(12)a) de la Loi s’appliquait au régime après le 25 mai 1976, qu’un paiement versé durant une année postérieure à l’année durant laquelle cet alinéa pouvait être appliqué au régime,
 - **j.1)** un paiement effectué durant la vie d’un rentier visé à la définition de ***rentier*** au paragraphe 146.3(1) de la Loi dans le cadre d’un fonds enregistré de revenu de retraite de celui-ci, à l’exclusion d’un paiement donné dans la mesure où ce paiement :
@@ -135,10 +135,10 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 	- **a)** dans le cas d’une rémunération qui consiste en un traitement, un salaire ou des commissions, à l’établissement de l’employeur où la rémunération lui est versée; ou
 	- **b)** dans le cas d’une rémunération autre qu’un traitement, un salaire ou des commissions, à l’établissement de l’employeur situé dans la province de résidence de l’employé au moment où la rémunération est versée, mais si l’employeur n’a alors aucun établissement dans cette province, il est réputé avoir un établissement dans ladite province aux fins du présent alinéa.
 
-- **(5)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un montant au titre de l’acquisition par ce dernier d’une action approuvée au sens du paragraphe 127.4(1) de la Loi, le moindre des deux montants suivants est déduit du montant déterminé selon l’alinéa 102(1)e) ou (2)f), selon le cas, à l’égard de ce paiement :
+- **(5)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un montant au titre de l’acquisition par ce dernier d’une action approuvée au sens du paragraphe 127.4(1) de la Loi, le moindre des deux montants suivants est déduit du montant déterminé selon l’alinéa 102(1)e) ou (2)e), selon le cas, à l’égard de ce paiement :
 	- **a)** 750 $;
 	- **b)** le montant correspondant à 15 % du montant déduit ou retenu au titre de l’acquisition d’une action approuvée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1.
 
 
 
@@ -160,7 +160,7 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 **102** 
 
 - **(1)** Sauf dispositions contraires de la présente partie, le montant à déduire ou à retenir par un employeur
-	- **a)** de tout paiement de rémunération (dans le présent paragraphe, appelé le «paiement») versé à un employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur situé dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, et
+	- **a)** de tout paiement de rémunération (dans le présent paragraphe, appelé le « paiement ») versé à un employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur situé dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, et
 	- **b)** pour toute période de paie pendant laquelle l’employeur verse le paiement
 est déterminé pour chaque paiement conformément aux règles suivantes :
 	- **c)** un montant représentant la rémunération conceptuelle pour l’année à l’égard des sommes suivantes :
@@ -176,7 +176,7 @@ où :
 	- **(B)** les pourboires visés au sous-alinéa (ii), déclarés par l’employé pour la période de paie,
 - **B** le nombre maximum de périodes de paie pour l’année;
 	- **d)** si l’employé ne réside pas au Canada à la date du paiement, aucun crédit d’impôt personnel n’est admis pour l’application du présent paragraphe et, si l’employé réside au Canada à la date du paiement, ses crédits d’impôt personnels pour l’année correspondent, s’ils sont compris dans un palier de montants prévu à l’article 2 de l’annexe I, au point milieu de ce palier;
-	- **e)** un montant (appelé «impôt conceptuel pour l’année» au présent paragraphe) est calculé pour cet employé comme suit :
+	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour cet employé comme suit :
 		- **(i)** l’impôt payable pour l’année est calculé comme s’il était établi selon le paragraphe 117(2) de la Loi et rajusté annuellement conformément à l’article 117.1 de la Loi, sur le montant qui est déterminé selon l’alinéa c) comme s’il représentait son montant imposable pour l’année,
 et il en est déduit le total des montants suivants :
 		- **(ii)** le produit obtenu lorsque le montant déterminé selon l’alinéa d) est multip1ié par le taux de base pour l’année,
@@ -195,7 +195,7 @@ et il en est déduit le total des montants suivants :
 		- **(i)** le montant d’impôt conceptuel pour l’année est divisé par le nombre maximum de périodes de paie pour l’année relativement à la période de paie en cause,
 		- **(ii)** le montant déterminé selon le sous-alinéa (i) est arrondi au plus proche multiple de cinq cents ou, si le montant est équidistant de deux multiples, au multiple le plus élevé.
 
-- **(2)** Lorsqu’un employé a exercé un choix en vertu du paragraphe 107(2) et qu’il ne l’a pas révoqué, le montant à déduire ou à retenir par l’employeur de tout paiement de rémunération (dans le présent paragraphe, appelé le «paiement») qui est
+- **(2)** Lorsqu’un employé a exercé un choix en vertu du paragraphe 107(2) et qu’il ne l’a pas révoqué, le montant à déduire ou à retenir par l’employeur de tout paiement de rémunération (dans le présent paragraphe, appelé le « paiement ») qui est
 	- **a)** un paiement à l’égard de commissions ou un paiement mixte à l’égard de commissions et d’un traitement ou de commissions et d’un salaire, ou
 	- **b)** un paiement à l’égard de traitement ou salaire lorsque l’employé est rémunéré selon un paiement mixte à l’égard de commissions et de traitement ou salaire,
 versé à cet employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, est déterminé pour chaque paiement conformément aux règles suivantes :
@@ -207,7 +207,7 @@ où
 - **A** représente le montant de la rémunération totale de cet employé pour l’année comme il l’a inscrit sur la formule visée au paragraphe 107(2),
 - **B** le montant des dépenses de l’employé pour l’année comme il l’a inscrit sur cette formule;
 	- **d)** l’employé qui ne réside pas au Canada à la date du paiement n’a droit à aucun crédit d’impôt personnel aux termes du présent paragraphe et les crédits d’impôt personnels pour l’année de l’employé qui réside au Canada à la date du paiement correspondent au montant total de la demande pour l’année, tel qu’il l’a inscrit sur la déclaration visée au paragraphe 107(1);
-	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour l’employé selon la formule suivante :
+	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour l’employé selon la formule suivante :
 ```
 C - [(D + E + F) × G] + H - I
 ```
@@ -231,8 +231,11 @@ où :
 
 - **(5)** Nonobstant les paragraphes (1) et (2), l’employeur ne peut déduire ni retenir dans l’année aucun montant sur un paiement de rémunération qu’il verse à un employé au titre de commissions gagnées par lui au cours de l’année précédente, s’il a déjà inscrit ces commissions dans une déclaration de renseignements à titre de rémunération de l’employé pour cette année.
 
-- **(6)** [Abrogé, DORS/83-349, art. 2]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 2; DORS/78-449, art. 1; DORS/78-625, art. 1; DORS/79-359, art. 1; DORS/79-694, art. 1; DORS/80-187, art. 1; DORS/80-683, art. 2; DORS/80-941, art. 2; DORS/81-471, art. 3; DORS/83-349, art. 2; DORS/83-692, art. 2 à 4; DORS/84-913, art. 1; DORS/84-966, art. 1; DORS/85-453, art. 1 et 2; DORS/86-629, art. 2; DORS/87-471, art. 2; DORS/88-310, art. 1; DORS/89-508, art. 2; DORS/90-161, art. 1; DORS/91-150, art. 1; DORS/91-279, art. 1; DORS/91-536, art. 1; DORS/92-138, art. 1; DORS/92-667, art. 1; DORS/94-238, art. 2; DORS/94-569, art. 1; DORS/98-259, art. 2; DORS/99-17, art. 2; DORS/2001-221, art. 2.
+#### Membre des Forces canadiennes ou agent de police — exception
+
+
+- **(6)** Malgré le paragraphe (1), l’employeur ne peut déduire ni retenir dans l’année un montant sur la somme déterminée aux termes du sous-alinéa 110(1)f)(v) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 2; DORS/78-449, art. 1; DORS/78-625, art. 1; DORS/79-359, art. 1; DORS/79-694, art. 1; DORS/80-187, art. 1; DORS/80-683, art. 2; DORS/80-941, art. 2; DORS/81-471, art. 3; DORS/83-349, art. 2; DORS/83-692, art. 2 à 4; DORS/84-913, art. 1; DORS/84-966, art. 1; DORS/85-453, art. 1 et 2; DORS/86-629, art. 2; DORS/87-471, art. 2; DORS/88-310, art. 1; DORS/89-508, art. 2; DORS/90-161, art. 1; DORS/91-150, art. 1; DORS/91-279, art. 1; DORS/91-536, art. 1; DORS/92-138, art. 1; DORS/92-667, art. 1; DORS/94-238, art. 2; DORS/94-569, art. 1; DORS/98-259, art. 2; DORS/99-17, art. 2; DORS/2001-221, art. 2; DORS/2005-185, art. 2.
 
 
 
@@ -2248,10 +2251,10 @@ dans cet endroit.
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 12.2(4), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
-- **c)** les alinéas 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
+- **b)** les paragraphes 7(10), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
+- **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3.
 
 
 
@@ -17362,77 +17365,74 @@ sur le total des montants représentant chacun :
 ### **ANNEXE I** 
 **(articles 100, 102 et 106)**
 ## Paliers de rémunération et de rémunération totale
-**1** Pour l’application de l’alinéa 102(1)c), les paliers de rémunération pour chaque période de paie dans une année d’imposition sont déterminés comme suit :
+**1** Pour l’application de l’alinéa 102(1)c), les paliers de rémunération pour chaque période de paie dans une année d’imposition sont déterminés ainsi :
 - **a)** à l’égard d’une période de paie d’un jour, les paliers de rémunération commencent à 36 $ et augmentent par tranches de 2 $ pour chaque palier jusqu’à 143,99 $;
-- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 163 $ et augmentent par tranches de :
-	- **(i)** 2 $ pour chaque palier jusqu’à 270,99 $,
-	- **(ii)** 4 $ pour chaque palier de 271 $ à 490,99 $,
-	- **(iii)** 8 $ pour chaque palier de 491 $ à 930,99 $,
-	- **(iv)** 12 $ pour chaque palier de 931 $ à 1 590,99 $,
-	- **(v)** 16 $ pour chaque palier de 1 591 $ à 2 470,99 $,
-	- **(vi)** 20 $ pour chaque palier de 2 471 $ à 3 570,99 $;
-- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 325 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 540,99 $,
-	- **(ii)** 8 $ pour chaque palier de 541 $ à 980,99 $,
-	- **(iii)** 16 $ pour chaque palier de 981 $ à 1 860,99 $,
-	- **(iv)** 24 $ pour chaque palier de 1 861 $ à 3 180,99 $,
-	- **(v)** 32 $ pour chaque palier de 3 181 $ à 4 940,99 $,
-	- **(vi)** 40 $ pour chaque palier de 4 941 $ à 7 140,99 $;
-- **d)** à l’égard d’une période de paie bimensuelle, les paliers de rémunération commencent à 352 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 567,99 $,
-	- **(ii)** 8 $ pour chaque palier de 568 $ à 1 007,99 $,
-	- **(iii)** 18 $ pour chaque palier de 1 008 $ à 1 997,99 $,
-	- **(iv)** 26 $ pour chaque palier de 1 998 $ à 3 427,99 $,
-	- **(v)** 34 $ pour chaque palier de 3 428 $ à 5 297,99 $,
-	- **(vi)** 44 $ pour chaque palier de 5 298 $ à 7 717,99 $;
-- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 703 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 134,99 $,
-	- **(ii)** 18 $ pour chaque palier de 1 135 $ à 2 124,99 $,
-	- **(iii)** 34 $ pour chaque palier de 2 125 $ à 3 994,99 $,
-	- **(iv)** 52 $ pour chaque palier de 3 995 $ à 6 854,99 $,
-	- **(v)** 70 $ pour chaque palier de 6 855 $ à 10 704,99 $,
-	- **(vi)** 86 $ pour chaque palier de 10 705 $ à 15 434,99 $;
-- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 843 $ et augmentent par tranches de :
-	- **(i)** 10 $ pour chaque palier jusqu’à 1 382,99 $,
-	- **(ii)** 20 $ pour chaque palier de 1 383 $ à 2 482,99 $,
-	- **(iii)** 42 $ pour chaque palier de 2 483 $ à 4 792,99 $,
-	- **(iv)** 62 $ pour chaque palier de 4 793 $ à 8 202,99 $,
-	- **(v)** 84 $ pour chaque palier de 8 203 $ à 12 822,99 $,
-	- **(vi)** 104 $ pour chaque palier de 12 823 $ à 18 542,99 $;
-- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 649 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 080,99 $,
-	- **(ii)** 16 $ pour chaque palier de 1 081 $ à 1 960,99 $,
-	- **(iii)** 32 $ pour chaque palier de 1 961 $ à 3 720,99 $,
-	- **(iv)** 48 $ pour chaque palier de 3 721 $ à 6 360,99 $,
-	- **(v)** 64 $ pour chaque palier de 6 361 $ à 9 880,99 $,
-	- **(vi)** 80 $ pour chaque palier de 9 881 $ à 14 280,99 $;
-- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 384 $ et augmentent par tranches de :
-	- **(i)** 6 $ pour chaque palier jusqu’à 707,99 $,
-	- **(ii)** 10 $ pour chaque palier de 708 $ à 1 257,99 $,
-	- **(iii)** 18 $ pour chaque palier de 1 258 $ à 2 247,99 $,
-	- **(iv)** 28 $ pour chaque palier de 2 248 $ à 3 787,99 $,
-	- **(v)** 38 $ pour chaque palier de 3 788 $ à 5 877,99 $,
-	- **(vi)** 48 $ pour chaque palier de 5 878 $ à 8 517,99 $.
+- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 165 $ et augmentent par tranches de :
+	- **(i)** 2 $ pour chaque palier jusqu’à 272,99 $,
+	- **(ii)** 4 $ pour chaque palier de 273 $ à 492,99 $,
+	- **(iii)** 8 $ pour chaque palier de 493 $ à 932,99 $,
+	- **(iv)** 12 $ pour chaque palier de 933 $ à 1 592,99 $,
+	- **(v)** 16 $ pour chaque palier de 1 593 $ à 2 472,99 $,
+	- **(vi)** 20 $ pour chaque palier de 2 473 $ à 3 572,99 $;
+- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 330 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 545,99 $,
+	- **(ii)** 8 $ pour chaque palier de 546 $ à 985,99 $,
+	- **(iii)** 16 $ pour chaque palier de 986 $ à 1 865,99 $,
+	- **(iv)** 24 $ pour chaque palier de 1 866 $ à 3 185,99 $,
+	- **(v)** 32 $ pour chaque palier de 3 186 $ à 4 945,99 $,
+	- **(vi)** 40 $ pour chaque palier de 4 946 $ à 7 145,99 $;
+- **d)** à l’égard d’une période de paie semi-mensuelle, les paliers de rémunération commencent à 358 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 573,99 $,
+	- **(ii)** 8 $ pour chaque palier de 574 $ à 1 013,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 014 $ à 2 003,99 $,
+	- **(iv)** 26 $ pour chaque palier de 2 004 $ à 3 433,99 $,
+	- **(v)** 34 $ pour chaque palier de 3 434 $ à 5 303,99 $,
+	- **(vi)** 44 $ pour chaque palier de 5 304 $ à 7 723,99 $;
+- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 715 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 146,99 $,
+	- **(ii)** 18 $ pour chaque palier de 1 147 $ à 2 136,99 $,
+	- **(iii)** 34 $ pour chaque palier de 2 137 $ à 4 006,99 $,
+	- **(iv)** 52 $ pour chaque palier de 4 007 $ à 6 866,99 $,
+	- **(v)** 70 $ pour chaque palier de 6 867 $ à 10 716,99 $,
+	- **(vi)** 86 $ pour chaque palier de 10 717 $ à 15 446,99 $;
+- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 857 $ et augmentent par tranches de :
+	- **(i)** 10 $ pour chaque palier jusqu’à 1 396,99 $,
+	- **(ii)** 20 $ pour chaque palier de 1 397 $ à 2 496,99 $,
+	- **(iii)** 42 $ pour chaque palier de 2 497 $ à 4 806,99 $,
+	- **(iv)** 62 $ pour chaque palier de 4 807 à 8 216,99 $,
+	- **(v)** 84 $ pour chaque palier de 8 217 $ à 12 836,99 $,
+	- **(vi)** 104 $ pour chaque palier de 12 837 $ à 18 556,99 $;
+- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 660 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 091,99 $,
+	- **(ii)** 16 $ pour chaque palier de 1 092 $ à 1 971,99 $,
+	- **(iii)** 32 $ pour chaque palier de 1 972 $ à 3 731,99 $,
+	- **(iv)** 48 $ pour chaque palier de 3 732 $ à 6 371,99 $,
+	- **(v)** 64 $ pour chaque palier de 6 372 $ à 9 891,99 $,
+	- **(vi)** 80 $ pour chaque palier de 9 892 $ à 14 291,99 $;
+- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 390 $ et augmentent par tranches de :
+	- **(i)** 6 $ pour chaque palier jusqu’à 713,99 $,
+	- **(ii)** 10 $ pour chaque palier de 714 $ à 1 263,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 264 $ à 2 253,99 $,
+	- **(iv)** 28 $ pour chaque palier de 2 254 $ à 3 793,99 $,
+	- **(v)** 38 $ pour chaque palier de 3 794 $ à 5 883,99 $,
+	- **(vi)** 48 $ pour chaque palier de 5 884 $ à 8 523,99 $.
 
 
-**2** Pour l’application de l’alinéa 102(1)d), le point milieu des paliers de montants des crédits d’impôt personnels pour une année d’imposition est établi comme suit :
-- **a)** de 0 $ à 8 012 $, 8 012 $;
-- **b)** de 8 012,01 $ à 9 789 $, 8 900,50 $;
-- **c)** de 9 789,01 $ à 11 566 $, 10 677,50 $;
-- **d)** de 11 566,01 $ à 13 343 $, 12 454,50 $;
-- **e)** de 13 343,01 $ à 15 120 $, 14 231,50 $;
-- **f)** de 15 120,01 $ à 16 897 $, 16 008,50 $;
-- **g)** de 16 897,01 $ à 18 674 $, 17 785,50 $;
-- **h)** de 18 674,01 $ à 20 451 $, 19 562,50 $;
-- **i)** de 20 451,01 $ à 22 228 $, 21 339,50 $;
-- **j)** de 22 228,01 $ à 24 005 $, 23 116,50 $;
-- **k)** pour des montants qui excèdent 24 005 $, le montant des crédits d’impôt personnels.
+**2** Pour l’application de l’alinéa 102(1)d), le point milieu des paliers de montants des crédits d’impôt personnels pour l’année est établi ainsi :
+- **a)** de 0 $ à 8 148 $, 8 148 $;
+- **b)** de 8 148,01 $ à 9 955 $, 9 051,50 $;
+- **c)** de 9 955,01 $ à 11 762 $, 10 858,50 $;
+- **d)** de 11 762,01 $ à 13 569 $, 12 665,50 $;
+- **e)** de 13 569,01 $ à 15 376 $, 14 472,50 $;
+- **f)** de 15 376,01 $ à 17 183 $, 16 279,50 $;
+- **g)** de 17 183,01 $ à 18 990 $, 18 086,50 $;
+- **h)** de 18 990,01 $ à 20 797 $, 19 893,50 $;
+- **i)** de 20 797,01 $ à 22 604 $, 21 700,50 $;
+- **j)** de 22 604,01 $ à 24 411 $, 23 507,50 $;
+- **k)** pour les montants qui excèdent 24 411 $, le montant des crédits d’impôt personnels.
 
 
-**3** [Abrogé, DORS/2001-221, art. 8]
-
-
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8; DORS/2005-123, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8; DORS/2005-123, art. 6; DORS/2005-185, art. 4.
 
 
 
@@ -48581,7 +48581,7 @@ par
 - Pennsylvania College of Podiatric Medicine, Philadelphie, Pennsylvanie
 - Pennsylvania State University, The, University Park, Pennsylvanie
 - Philadelphia College of Bible, Langhorne, Pennsylvanie
-- Philadelphia College of Textiles and Science, Philadelphie, Pennsylvanie
+- Philadelphia University, Philadelphie, Pennsylvanie
 - Pine Manor College, Chestnut Hill, Massachusetts
 - Pomona College, Claremont, Californie
 - Princeton University, Princeton, New Jersey
@@ -48614,7 +48614,7 @@ par
 - St. Mary’s University of San Antonio, San Antonio, Texas
 - St. Vladimir’s Orthodox Theological Seminary, Crestwood, New York
 - San Francisco State College, San Francisco, Californie
-- San Jose State College, San Jose, Californie
+- San José State University, San José, Californie
 - Santa Clara University, Santa Clara, Californie
 - Sarah Lawrence College, Bronxville, New York
 - Scripps College, Claremont, Californie
@@ -48934,7 +48934,9 @@ par
 - Panjab University, Chandigarh
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5..
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; .
 
 
 
