@@ -694,9 +694,11 @@ a), tous secteurs ou régions du Canada ou lieux à l’étranger, compte tenu :
 
 
 
-**Rapport du secrétaire du Conseil du Trésor**
+**Rapport envoyé au commissaire**
 
-**47** Le secrétaire du Conseil du Trésor fait parvenir au commissaire tous rapports établis au titre de l’alinéa 46(2)d).
+**47** Le président de l’Agence de gestion des ressources humaines de la fonction publique du Canada fait parvenir au commissaire tous rapports établis au titre de l’alinéa 46(2)d).
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 47; 2005, ch. 15, art. 3.
+
 
 
 
