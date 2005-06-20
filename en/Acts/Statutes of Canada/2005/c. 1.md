@@ -621,10 +621,11 @@ the issue shall not be decided until the party raising the issue has served noti
 
 
 
-### Lobbyists Registration Act
+**Lobbyists Registration Act** 
+### [Repealed, 2005, c. 1, s. 110]
 
 
-**100** [Amendment]
+**100** [Repealed, 2005, c. 1, s. 110]
 
 
 
