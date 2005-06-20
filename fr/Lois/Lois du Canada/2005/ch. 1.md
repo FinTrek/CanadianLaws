@@ -618,10 +618,11 @@ French version only***peuple tlicho*** S’entend au sens du chapitre 1 de l’A
 
 
 
-### Loi sur l’enregistrement des lobbyistes
+**Loi sur l’enregistrement des lobbyistes** 
+### [Abrogé, 2005, ch. 1, art. 110]
 
 
-**100** [Modification]
+**100** [Abrogé, 2005, ch. 1, art. 110]
 
 
 
