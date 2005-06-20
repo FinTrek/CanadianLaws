@@ -19,13 +19,15 @@ Vu l’intérêt public présenté par la liberté d’accès aux institutions d
 
 Vu la légitimité du lobbyisme auprès des titulaires d’une charge publique;
 
-Vu l’opportunité d’accorder aux titulaires d’une charge publique et au public la possibilité de savoir qui cherche à exercer une influence auprès de ces institutions;
+Vu l’opportunité d’accorder aux titulaires d’une charge publique et au public la possibilité de savoir qui se livre à des activités de lobbyisme;
 
 Vu le fait que l’enregistrement des lobbyistes rémunérés ne doit pas faire obstacle à cette liberté d’accès,
 
 
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+> L.R. (1985), ch. 44 (4e suppl.), préambule; 2003, ch. 10, art. 1..
+
 
 
 
@@ -57,7 +59,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***directeur*** La personne désignée à ce titre en application de l’article 8.
 
-***organisation*** Organisation commerciale, industrielle, professionnelle, syndicale ou bénévole, chambre de commerce, organisme de bienfaisance, société de personnes, association, coalition ou groupe d’intérêt, ainsi que tout gouvernement autre que celui du Canada. Y est en outre assimilée la personne morale sans capital-actions constituée aux fins de poursuivre, sans gain pécuniaire pour ses membres, des objets d’un caractère national, provincial, patriotique, religieux, philanthropique, charitable, scientifique, artistique, social, professionnel ou sportif, ou des objets analogues.
+***organisation*** Organisation commerciale, industrielle, professionnelle, syndicale ou bénévole, chambre de commerce, société de personnes, fiducie, association, organisme de bienfaisance, coalition ou groupe d’intérêt, ainsi que tout gouvernement autre que celui du Canada. Y est en outre assimilée la personne morale sans capital-actions constituée afin de poursuivre, sans gain pécuniaire pour ses membres, des objets d’un caractère national, provincial, patriotique, religieux, philanthropique, charitable, scientifique, artistique, social, professionnel ou sportif, ou des objets analogues.
 
 ***paiement*** Argent ou autre objet de valeur. Y est assimilée toute entente ou promesse de paiement.
 
@@ -73,7 +75,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application de la présente loi, une personne morale est la filiale d’une autre si, à la fois :
 	- **a)** ses valeurs mobilières qui comportent plus de cinquante pour cent des droits de vote pouvant être exercés lors de l’élection de ses administrateurs sont détenues, directement ou indirectement — notamment par l’intermédiaire d’une ou de plusieurs filiales — autrement qu’à titre de garantie uniquement, par cette autre personne morale ou pour son bénéfice;
 	- **b)** les droits de vote que comportent ces valeurs mobilières sont suffisants, lorsqu’ils sont effectivement exercés, pour faire élire la majorité de ces administrateurs.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1; 2002, ch. 8, art. 182; 2004, ch. 7, art. 19.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 2; 1995, ch. 12, art. 1; 2002, ch. 8, art. 182; 2003, ch. 10, art. 2; 2004, ch. 7, art. 19.
 
 
 
@@ -99,9 +101,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les employés d’un gouvernement provincial;
 	- **c)** les membres d’un conseil ou autre organisme créé par une loi et chargé de la conduite des affaires municipales d’une administration locale — cité, ville, village, municipalité ou district — , leur personnel et les employés d’une telle administration;
 	- **d)** les membres du conseil d’une bande, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou d’une bande indienne constituée aux termes d’une loi fédérale, leur personnel ainsi que leurs employés;
-	- **d.1)** les membres du corps dirigeant prévu par la constitution d’une première nation dont le nom figure à l’annexe II de la [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md), leur personnel ainsi que leurs employés;
-	- **d.2)** les membres du gouvernement nisga’a, au sens de l’Accord définitif nisga’a mis en vigueur par la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), leur personnel ou les employés de la Nation nisga’a, d’un village nisga’a ou d’une institution nisga’a, au sens de l’accord;
-	- **d.3)** les membres du conseil — au sens de l'Accord d'autonomie gouvernementale de la première nation de Westbank mis en vigueur par la Loi sur l'autonomie gouvernementale de la première nation de Westbank —, leur personnel ainsi que celui du conseil;
+	- **d.1)** les membres d’un gouvernement ou d’une institution autochtone qui exerce sa compétence ou son autorité au titre d’un accord d’autonomie gouvernementale ou de dispositions en matière d’autonomie gouvernementale contenues dans un accord sur des revendications territoriales — lesquels accords ont été mis en vigueur au titre d’une loi fédérale —, le personnel de ces membres ainsi que les employés d’un tel gouvernement ou d’une telle institution;
+	- **d.2)** [Abrogé, 2003, ch. 10, art. 3]
+	- **d.3)** [Abrogé, 2004, ch. 17, art. 20]
 	- **e)** les agents diplomatiques, fonctionnaires consulaires et représentants officiels au Canada d’un gouvernement étranger;
 	- **f)** les fonctionnaires d’une agence spécialisée des Nations Unies au Canada ou d’une autre organisation internationale à qui des privilèges et immunités sont accordés sous le régime d’une loi fédérale.
 
@@ -109,13 +111,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** La présente loi ne s’applique pas dans les cas suivants :
 	- **a)** présentation d’observations, orales ou écrites, soit à un comité du Sénat ou de la Chambre des communes, ou à un comité mixte, soit, dans le cadre de procédures dont l’existence peut être connue du public, à une personne ou à un organisme dont les pouvoirs ou la compétence sont conférés sous le régime d’une loi fédérale;
-	- **b)** communication orale ou écrite entre un mandataire et un titulaire d’une charge publique portant sur l’exécution, l’interprétation ou l’application, par celui-ci, d’une loi fédérale ou d’un règlement d’application de celle-ci à l’égard de la personne ou de l’organisation mandante;
-	- **c)** présentation à un titulaire d’une charge publique, en réponse directe à sa demande écrite, d’avis ou observations, oralement ou par écrit, au nom d’une personne ou d’une organisation en rapport avec une mesure visée aux sous-alinéas 5(1)a)(i) à (vi) ou aux alinéas 6(1)a) à e) ou 7(1)a) à e).
+	- **b)** communication orale ou écrite, faite par un mandataire au titulaire d’une charge publique portant sur l’exécution, l’interprétation ou l’application, par celui-ci, d’une loi fédérale ou d’un règlement d’application de celle-ci à l’égard de la personne ou de l’organisation mandante;
+	- **c)** communication orale ou écrite, faite par le mandataire d’une personne ou d’une organisation au titulaire d’une charge publique et qui se limite à une demande de renseignements.
 
 **Idem**
 
 - **(3)** La présente loi n’a pas pour effet d’exiger la divulgation du nom ou de l’identité d’un individu lorsque cela risquerait vraisemblablement de nuire à sa sécurité.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 4; 1994, ch. 35, art. 36; 1995, ch. 12, art. 2; 2000, ch. 7, art. 24; 2004, ch. 17, art. 17.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 4; 1994, ch. 35, art. 36; 1995, ch. 12, art. 2; 2000, ch. 7, art. 24; 2003, ch. 10, art. 3; 2004, ch. 17, art. 17 et 20.
 
 
 
@@ -133,39 +135,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Est tenue de fournir au directeur, dans les dix jours suivant l’engagement, une déclaration, en la forme réglementaire, contenant les renseignements prévus au paragraphe (2) toute personne (ci-après « lobbyiste-conseil ») qui, moyennant paiement, s’engage, auprès d’un client, personne physique ou morale ou organisation :
-	- **a)** à communiquer avec un titulaire de charge publique afin de tenter d’influencer :
+- **(1)** Est tenue de fournir au directeur, en la forme réglementaire, une déclaration contenant les renseignements prévus au paragraphe (2) toute personne (ci-après « lobbyiste-conseil ») qui, moyennant paiement, s’engage, auprès d’un client, d’une personne physique ou morale ou d’une organisation :
+	- **a)
+** à communiquer avec le titulaire d’une charge publique au sujet des mesures suivantes :
 		- **(i)** l’élaboration de propositions législatives par le gouvernement fédéral ou par un sénateur ou un député,
 		- **(ii)** le dépôt d’un projet de loi ou d’une résolution devant une chambre du Parlement, ou sa modification, son adoption ou son rejet par celle-ci,
-		- **(iii)** la prise ou la modification de tout règlement au sens du paragraphe 2(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md),
-		- **(iv)** l’élaboration ou la modification d’orientation ou programmes fédéraux,
-		- **(v)** l’octroi de subventions, de contributions ou autres avantages financiers par Sa Majesté du chef du Canada ou en son nom,
+		- **(iii)** la prise ou la modification de tout règlement au sens du paragraphe 2(1) de la 
+[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md),
+		- **(iv)** l’élaboration ou la modification d’orientation ou de programmes fédéraux,
+		- **(v)** l’octroi de subventions, de contributions ou d’autres avantages financiers par Sa Majesté du chef du Canada ou en son nom,
 		- **(vi)** l’octroi de tout contrat par Sa Majesté du chef du Canada ou en son nom;
-	- **b)** à ménager pour un tiers une entrevue avec le titulaire d’une charge publique.
+	- **b)
+** à ménager pour un tiers une entrevue avec le titulaire d’une charge publique.
+
+**Délais de remise**
+
+- **(1.1)** Le lobbyiste-conseil fournit la déclaration :
+	- **a)** dans les dix jours suivant l’engagement visé au paragraphe (1);
+	- **b)** sous réserve des paragraphes (1.2) et (1.3), dans les trente jours suivant l’expiration de chaque période de six mois à compter de la date de remise visée à l’alinéa a).
+
+**Délai de remise : cas particulier**
+
+- **(1.2)** Le lobbyiste-conseil qui informe le directeur d’un renseignement ou d’un changement de renseignement conformément au paragraphe (3) fournit la déclaration visée à l’alinéa (1.1)b) dans les trente jours suivant l’expiration de chaque période de six mois à compter de la dernière date où il informe ainsi le directeur.
+
+**Fin de l’engagement**
+
+- **(1.3)** Le lobbyiste-conseil n’est pas tenu de fournir une déclaration en vertu de l’alinéa (1.1)b) concernant un engagement qui a pris fin s’il en avise le directeur, en la forme réglementaire, avant l’expiration du délai prévu à cet alinéa pour fournir la déclaration.
 
 **Renseignements**
 
 - **(2)** Le lobbyiste-conseil est tenu, dans sa déclaration, de fournir les renseignements suivants sur son engagement :
-	- **a)** son nom, l’adresse de son établissement ainsi que, le cas échéant, le nom de sa firme et l’adresse de son établissement;
-	- **b)** le nom de son client et l’adresse de son établissement ainsi que les nom et adresse de l’établissement de toute personne morale ou physique ou organisation qui, à sa connaissance, contrôle ou dirige les activités de ce client et qui est directement intéressée au résultat de ses activités au nom de ce client;
-	- **c)** si son client est une personne morale, le nom et l’adresse de l’établissement de chacune de ses filiales qui, à sa connaissance, est directement intéressée au résultat de ses activités au nom de ce client;
-	- **d)** si son client est une personne morale filiale d’une autre, le nom de cette dernière et l’adresse de son établissement;
-	- **e)** si son client est une coalition, le nom des personnes morales ou organisations qui la composent ainsi que l’adresse de leur établissement;
-	- **e.1)** dans le cas où le financement de son client provient en tout ou en partie d’une administration publique, le nom de cette dernière et les montants en cause;
-	- **f)** les renseignements — même non réglementaires — utiles à la détermination de l’objet de l’engagement;
-	- **g)** le fait, le cas échéant, que le paiement est constitué en tout ou en partie d’honoraires conditionnels et donc subordonné au degré de succès de ses tentatives d’influencer l’une des mesures visées aux sous-alinéas (1)a)(i) à (vi);
-	- **h)** les renseignements utiles à la détermination de la mesure — proposition législative, projet de loi, résolution, règlement, politique, programme, subvention, contribution, avantage financier, contrat — en cause;
-	- **i)** le nom du ministère ou de l’institution gouvernementale où exerce ses fonctions le titulaire d’une charge publique avec qui il a communiqué ou compte communiquer ou avec qui il a pris rendez-vous ou compte prendre rendez-vous;
-	- **j)** les moyens de communication qu’il a utilisés ou qu’il compte utiliser pour tenter d’influencer l’une des mesures visées aux sous-alinéas (1)a)(i) à (vi), notamment par un appel au grand public, directement ou au moyen d’un média à grande diffusion, pour qu’il communique avec le titulaire d’une charge publique en vue de faire pression sur lui concernant la mesure;
-	- **k)** tout autre renseignement réglementaire utile à son identification, à celle de son client, de toute personne morale ou physique ou organisation visée à l’alinéa b), de la filiale visée à l’alinéa c), de la personne morale visée à l’alinéa d), de tout membre d’une coalition visée à l’alinéa e), du ministère ou de l’institution visé à l’alinéa i).
+	- **a)
+** son nom, l’adresse de son établissement ainsi que, le cas échéant, le nom de sa firme et l’adresse de son établissement;
+	- **b)
+** le nom de son client et l’adresse de son établissement ainsi que les nom et adresse de l’établissement de toute personne morale ou physique ou organisation qui, à sa connaissance, contrôle ou dirige les activités de ce client et qui est directement intéressée au résultat de ses activités au nom de ce client;
+	- **c)
+** si son client est une personne morale, le nom et l’adresse de l’établissement de chacune de ses filiales qui, à sa connaissance, est directement intéressée au résultat de ses activités au nom de ce client;
+	- **d)
+** si son client est une personne morale filiale d’une autre, le nom de cette dernière et l’adresse de son établissement;
+	- **e)
+** si son client est une coalition, le nom des personnes morales ou organisations qui la composent ainsi que l’adresse de leur établissement;
+	- **e.1)** dans le cas où le financement de son client provient en tout ou en partie d’un gouvernement ou d’un organisme public, le nom de celui-ci et le montant du financement;
+	- **f)** les renseignements — réglementaires et autres — utiles à la détermination de l’objet de l’engagement;
+	- **g)** le fait, le cas échéant, que le paiement est constitué en tout ou en partie d’honoraires conditionnels et donc subordonné à l’influence qu’il réussit à exercer sur l’une des mesures visées aux sous-alinéas (1)a)(i) à (vi);
+	- **h)
+** les renseignements utiles à la détermination de la mesure — proposition législative, projet de loi, résolution, règlement, politique, programme, subvention, contribution, avantage financier, contrat — en cause;
+	- **h.1)** s’il est un ancien titulaire d’une charge publique, la description des postes qu’il a occupés;
+	- **i)** le nom du ministère ou de l’institution gouvernementale où exerce ses fonctions le titulaire d’une charge publique avec qui il communique ou compte communiquer au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (vi) ou avec qui il prend ou compte prendre rendez-vous;
+	- **j)** les renseignements utiles à la détermination des moyens de communication qu’il utilise ou qu’il compte utiliser pour communiquer avec le titulaire d’une charge publique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (vi), notamment par un appel au grand public, directement ou au moyen d’un média à grande diffusion, pour persuader celui-ci de communiquer directement avec le titulaire d’une charge publique en vue de faire pression sur lui afin qu’il appuie un certain point de vue;
+	- **k)
+** tout autre renseignement réglementaire utile à son identification, à celle de son client, de toute personne morale ou physique ou organisation visée à l’alinéa 
+b), de la filiale visée à l’alinéa 
+c), de la personne morale visée à l’alinéa 
+d), de tout membre d’une coalition visée à l’alinéa 
+e), du ministère ou de l’institution visé à l’alinéa 
+i).
 
 **Mise à jour**
 
 - **(3)** Il informe le directeur, dans les trente jours, en la forme réglementaire, de tout changement des renseignements contenus dans sa déclaration ainsi que de tout renseignement qu’il doit fournir au titre du paragraphe (2) qui a été porté à sa connaissance après la transmission de sa déclaration.
 
-**Fin d’un engagement**
-
-- **(4)** Il informe le directeur, dans les trente jours, en la forme réglementaire, de la fin d’un engagement pour lequel il a transmis une déclaration.
+- **(4)** [Abrogé, 2003, ch. 10, art. 4]
 
 **Précisions**
 
@@ -177,73 +207,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Déclaration unique**
 
-- **(7)** Le lobbyiste-conseil qui s’engage à communiquer avec le titulaire d’une charge publique conformément à l’alinéa (1)a) n’est tenu de faire qu’une déclaration aux termes du paragraphe (1) indépendamment du fait qu’il communique plusieurs fois avec un ou plusieurs titulaires dans le cadre de cet engagement.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 5; 1995, ch. 12, art. 3; 1999, ch. 31, art. 163(F).
+- **(7)** Le lobbyiste-conseil qui s’engage à communiquer avec le titulaire d’une charge publique conformément à l’alinéa (1)a) et qui communique avec plusieurs titulaires ou plusieurs fois avec un ou plusieurs titulaires d’une charge publique dans le cadre de cet engagement n’est tenu de faire qu’une déclaration concernant cet engagement.
+> L.R. (1985), ch. 44 (4
+<sup>e</sup> suppl.), art. 5; 1995, ch. 12, art. 3; 1999, ch. 31, art. 163(F); 2003, ch. 10, art. 4.
 
 
 
 
-
-### Lobbyistes salariés
-
-
-
-**Déclaration obligatoire**
-
-**6** 
-
-- **(1)** Est tenu de fournir au directeur, dans les délais prévus au paragraphe (2), une déclaration, en la forme réglementaire, contenant les renseignements prévus au paragraphe (3) tout employé (ci-après « lobbyiste salarié ») d’une personne morale ou physique dont les fonctions, pour une partie importante, comportent la communication, soit au nom de son employeur, soit au nom d’une filiale de l’employeur ou d’une personne morale dont celui-ci est une filiale, avec le titulaire d’une charge publique afin de tenter d’influencer :
-	- **a)** l’élaboration de propositions législatives par le gouvernement fédéral ou par un sénateur ou un député;
-	- **b)** le dépôt d’un projet de loi ou d’une résolution devant une chambre du Parlement, ou sa modification, son adoption ou son rejet par celle-ci;
-	- **c)** la prise ou la modification de tout règlement au sens du paragraphe 2(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md);
-	- **d)** l’élaboration ou la modification d’orientation ou programmes fédéraux;
-	- **e)** l’octroi de subventions, de contributions ou autres avantages financiers par Sa Majesté du chef du Canada ou en son nom.
-
-**Délais**
-
-- <sup><a href='#L-12.4_fr_1'>[*]</a></sup>**(2)** Le lobbyiste salarié transmet sa déclaration dans les deux mois suivant soit la date d’entrée en vigueur du paragraphe (1) lorsque, antérieurement, les activités qui y sont mentionnées sont devenues une partie importante de ses fonctions, soit, dans le cas contraire, la date à laquelle elles le sont devenues. Il en transmet également une dans les deux mois suivant la fin de chaque exercice de son employeur ou, à défaut, de chaque année civile, le point de départ étant la période au cours de laquelle il doit transmettre la première déclaration.
-
-<a name='L-12.4_fr_1'><sup>*</sup></a>: [Note : Paragraphe 6(1) en vigueur le 30 septembre 1989, *voir* TR/89-193.]<br />
-
-**Renseignements**
-
-- **(3)** La déclaration du lobbyiste salarié contient les renseignements suivants :
-	- **a)** son nom et l’adresse de son établissement;
-	- **b)** le nom de son employeur et l’adresse de son établissement;
-	- **c)** si son employeur est une personne morale, le nom et l’adresse de l’établissement de chacune de ses filiales qui, à sa connaissance, est directement intéressée au résultat de ses activités au nom de son employeur;
-	- **d)** si son employeur est une personne morale, filiale d’une autre, le nom de cette dernière et l’adresse de son établissement;
-	- **e)** les dates indiquant le début et la fin de l’exercice de son employeur, s’il y a lieu;
-	- **f)** un résumé des activités — commerciales ou autres — de son employeur et tout autre renseignement réglementaire portant sur la nature de ces activités;
-	- **f.1)** dans le cas où le financement de son employeur provient en tout ou en partie d’une administration publique, le nom de cette dernière et les montants en cause;
-	- **g)** dans le cas où il tente d’influencer une des mesures visées aux alinéas (1)a) à e) à la date de remise de sa déclaration, les renseignements — même non réglementaires — utiles à la détermination de l’objet poursuivi;
-	- **h)** les renseignements — même non réglementaires — utiles à la détermination de l’objet pour lequel il a communiqué ou compte communiquer avec le titulaire d’une charge publique au cours de l’exercice ou, à défaut, de l’année civile visé par la déclaration afin d’influencer une des mesures visées aux alinéas (1)a) à e);
-	- **i)** les renseignements utiles à la détermination de la mesure — proposition législative, projet de loi, résolution, règlement, politique, pro- gramme, subvention, contribution ou autre avantage financier — en cause;
-	- **j)** le nom du ministère ou de l’institution gouvernementale où exerce ses fonctions le titulaire d’une charge publique avec qui il a communiqué ou compte communiquer concernant une des mesures visées aux alinéas g) ou h);
-	- **k)** les moyens de communication qu’il a utilisés ou qu’il compte utiliser pour tenter d’influencer l’une des mesures visées aux alinéas g) ou h), notamment par un appel au grand public, directement ou au moyen d’un média à grande diffusion, pour qu’il communique avec le titulaire d’une charge publique en vue de faire pression sur lui concernant la mesure;
-	- **l)** tout autre renseignement réglementaire utile à son identification, à celle de son employeur, de la filiale visée à l’alinéa c), de la personne morale visée à l’alinéa d), du ministère ou de l’institution visé à l’alinéa j).
-
-**Mise à jour**
-
-- **(4)** Le lobbyiste salarié informe le directeur, dans les trente jours, en la forme réglementaire, de tout changement des renseignements contenus dans sa déclaration ainsi que de tout renseignement qu’il doit fournir au titre du paragraphe (3) qui a été porté à sa connaissance après la transmission de sa déclaration.
-
-**Cessation ou changement de fonctions**
-
-- **(5)** Le lobbyiste salarié pour qui les activités visées au paragraphe (1) et mentionnées dans sa déclaration cessent d’être une partie importante de ses fonctions, ou qui quitte son employeur, en informe le directeur, en la forme réglementaire, dans les trente jours.
-
-**Précisions**
-
-- **(6)** Le lobbyiste salarié apporte à sa déclaration les précisions demandées par le directeur et les lui transmet, en la forme réglementaire, dans les trente jours suivant la demande.
-
-**Définition de « employé »**
-
-- **(7)** Pour l’application du présent article, est assimilé à un employé le cadre dûment rémunéré pour ses fonctions.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 6; 1995, ch. 12, art. 3; 1999, ch. 31, art. 164(F).
+**6** [Abrogé, 2003, ch. 10, art. 5]
 
 
 
 
-
-### Lobbyistes pour le compte d’une organisation
+### Lobbyistes salariés (personnes morales ou organisations)
 
 
 
@@ -251,39 +227,58 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Est tenu de fournir au directeur une déclaration contenant les renseignements prévus au paragraphe (3), en la forme réglementaire et dans les délais prévus au paragraphe (2), le premier dirigeant d’une organisation qui compte au moins un employé dont les fonctions, pour une partie importante, comportent la communication, au nom de l’organisation, avec le titulaire d’une charge publique, afin d’influencer :
-	- **a)** l’élaboration de propositions législatives par le gouvernement fédéral ou par un sénateur ou un député;
-	- **b)** le dépôt d’un projet de loi ou d’une résolution devant une chambre du Parlement, ou sa modification, son adoption ou son rejet par celle-ci;
-	- **c)** la prise ou la modification de tout règlement au sens du paragraphe 2(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md);
-	- **d)** l’élaboration ou la modification d’orientation ou programmes fédéraux;
-	- **e)** l’octroi de subventions, de contributions ou autres avantages financiers par Sa Majesté du chef du Canada ou en son nom.
-Il est tenu à la même obligation dans le cas où, exercées par plusieurs employés, ces fonctions constitueraient au total une partie importante de celles d’un seul employé.
+- **(1)** Est tenu de fournir au directeur, en la forme réglementaire, une déclaration contenant les renseignements prévus au paragraphe (3) le déclarant d’une personne morale ou d’une organisation si :
+	- **a)** d’une part, celle-ci compte au moins un employé dont les fonctions comportent la communication, au nom de l’employeur ou, si celui-ci est une personne morale, au nom d’une filiale de l’employeur ou d’une personne morale dont celui-ci est une filiale, avec le titulaire d’une charge publique, au sujet des mesures suivantes :
+		- **(i)** l’élaboration de propositions législatives par le gouvernement fédéral ou par un sénateur ou un député,
+		- **(ii)** le dépôt d’un projet de loi ou d’une résolution devant une chambre du Parlement, ou sa modification, son adoption ou son rejet par celle-ci,
+		- **(iii)** la prise ou la modification de tout règlement au sens du paragraphe 2(1) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md),
+		- **(iv)** l’élaboration ou la modification d’orientation ou de programmes fédéraux,
+		- **(v)** l’octroi de subventions, de contributions ou d’autres avantages financiers par Sa Majesté du chef du Canada ou en son nom;
+	- **b)** d’autre part, les fonctions visées à l’alinéa a) constituent une partie importante de celles d’un seul employé ou constitueraient une partie importante des fonctions d’un employé si elles étaient exercées par un seul employé.
 
 **Délais**
 
-- <sup><a href='#L-12.4_fr_2'>[*]</a></sup>**(2)** Il transmet sa déclaration dans les deux mois suivant soit la date d’entrée en vigueur du paragraphe (1) si, à cette date, l’organisation affecte au moins une personne aux fonctions mentionnées à ce paragraphe, soit, dans le cas contraire, l’affectation d’une personne à ces fonctions. Par la suite, il en transmet une tous les six mois et dispose pour ce faire d’un délai de trente jours.
+- **(2)** La déclaration doit être fournie :
+	- **a)** au plus tard dans les deux mois suivant la date où l’obligation prévue à ce paragraphe a pris naissance;
+	- **b)** sous réserve du paragraphe (2.1), dans les trente jours suivant l’expiration de chaque période de six mois à compter de la date de remise prévue à l’alinéa a).
 
-<a name='L-12.4_fr_2'><sup>*</sup></a>: [Note : Paragraphe 7(1) en vigueur le 30 septembre 1989, *voir* TR/89-193.]<br />
+**Cessation des activités**
+
+- **(2.1)** Il n’est pas nécessaire de la fournir au titre de l’alinéa (2)b) dans le cas suivant :
+	- **a)** l’employeur n’a plus d’employé dont les fonctions sont décrites aux alinéas (1)a) et b);
+	- **b)** le déclarant en informe le directeur en la forme réglementaire avant l’expiration du délai pour fournir la déclaration prévu à l’alinéa (2)b).
 
 **Renseignements**
 
-- **(3)** La déclaration du premier dirigeant contient les renseignements suivants :
-	- **a)** son nom et l’adresse de son établissement;
-	- **b)** le nom de l’organisation et l’adresse de son établissement;
-	- **c)** un résumé des activités — commerciales ou autres — de l’organisation et tout autre renseignement réglementaire utile portant sur la nature de ces activités;
-	- **d)** la composition de l’organisation et tout autre renseignement réglementaire utile à l’identification de ses membres;
-	- **e)** dans le cas où le financement de l’organisation provient en tout ou en partie d’une administration publique, le nom de cette dernière et, le cas échéant, celui de son mandataire et les montants en cause;
-	- **f)** le nom des employés occupant les fonctions visées au paragraphe (1);
-	- **g)** dans le cas où un employé tente d’influencer une des mesures visées aux alinéas (1)a) à e) à la date de remise de sa déclaration, les renseignements — même non réglementaires — utiles à la détermination de l’objet poursuivi;
-	- **h)** les renseignements — même non réglementaires — utiles à la détermination de l’objet pour lequel un employé a communiqué avec le titulaire d’une charge publique au cours de la période applicable aux termes du paragraphe (2), ou compte communiquer avec lui au cours des six prochains mois afin d’influencer une des mesures visées aux alinéas (1)a) à e);
+- **(3)** La déclaration contient les renseignements suivants :
+	- **a)** le nom et l’adresse de l’établissement du déclarant;
+	- **b)** le nom de l’employeur et l’adresse de son établissement;
+	- **b.1)** si l’employeur est une personne morale, le nom et l’adresse de l’établissement de chacune de ses filiales qui, à sa connaissance, est directement intéressée par le résultat des activités de l’employé exercées au nom de l’employeur au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v);
+	- **b.2)** si l’employeur est une personne morale qui est la filiale d’une autre personne morale, le nom de celle-ci et l’adresse de son établissement;
+	- **c)** un résumé des activités — commerciales ou autres — de l’employeur et tout autre renseignement réglementaire utile portant sur la nature de ces activités;
+	- **d)** si l’employeur est une organisation, la composition de celle-ci et tout autre renseignement réglementaire utile à l’identification de ses membres;
+	- **e)** dans le cas où le financement de l’employeur provient en tout ou en partie d’un gouvernement ou d’un organisme public, le nom de celui-ci et le montant du financement;
+	- **f)** si l’employeur est une organisation, le nom de tout employé occupant les fonctions décrites à l’alinéa (1)a);
+	- **f.1)** si l’employeur est une personne morale, le nom des personnes suivantes :
+		- **(i)** tout cadre dirigeant qui exerce des fonctions décrites à l’alinéa (1)a),
+		- **(ii)** tout autre employé qui exerce des fonctions décrites à l’alinéa (1)a), si celles-ci constituent une partie importante de ses fonctions;
+	- **g)** si la déclaration est fournie conformément à l’alinéa (2)a), les renseignements — réglementaires et autres — utiles à la détermination de l’objet de toute communication entre tout employé visé dans la déclaration et le titulaire d’une charge publique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v), au cours de la période entre la date où l’obligation de remise a pris naissance en vertu du paragraphe (1) et la date de la remise;
+	- **h)** si la déclaration est fournie conformément à l’alinéa (2)b), les renseignements — réglementaires et autres — utiles à la détermination de l’objet de toute communication entre l’employé visé dans la déclaration et le titulaire d’une charge publique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours d’une période de six mois prévue à l’alinéa (2)b);
+	- **h.1)** les renseignements — réglementaires et autres — utiles à la détermination de l’objet de toute communication entre tout employé visé par la déclaration et le titulaire d’une charge publique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours de la période entre l’expiration d’une période de six mois prévue à l’alinéa (2)b) et la date de remise visée à cet alinéa;
+	- **h.2)** dans le cas où l’on s’attend à ce qu’un employé visé par la déclaration communique avec le titulaire d’une charge publique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours de la période de six mois suivant la date de remise visée à l’alinéa (2)a) ou au cours de la période de six mois suivant l’expiration d’une période de six mois prévue à l’alinéa (2)b), les renseignements — réglementaires et autres — utiles à la détermination de l’objet de la communication;
+	- **h.3)** si tout employé visé par la déclaration est un ancien titulaire d’une charge publique, la description des postes qu’il a occupés;
 	- **i)** les renseignements utiles à la détermination de la mesure — proposition législative, projet de loi, résolution, règlement, politique, programme, subvention, contribution ou autre avantage financier — en cause;
-	- **j)** le nom du ministère ou de l’institution gouvernementale où exerce ses fonctions le titulaire d’une charge publique avec qui il a communiqué au cours de la période applicable aux termes du paragraphe (2), ou avec qui il compte communiquer au cours des six prochains mois concernant une des mesures visées aux alinéas g) ou h);
-	- **k)** les moyens de communication qu’il a utilisés au cours de la période applicable aux termes du paragraphe (2), ou qu’il compte utiliser au cours des six prochains mois pour tenter d’influencer l’une des mesures visées aux alinéas g) ou h), notamment par un appel au grand public, directement ou au moyen d’un média à grande diffusion, pour qu’il communique avec le titulaire d’une charge publique en vue de faire pression sur lui concernant la mesure;
-	- **l)** tout autre renseignement réglementaire utile à son identification, à celle de son organisation, de l’employé visé à l’alinéa f), du ministère ou de l’institution gouvernementale visé à l’alinéa j).
+	- **j)** le nom du ministère ou de l’institution gouvernementale où exerce ses fonctions le titulaire d’une charge publique :
+		- **(i)** avec lequel tout employé communique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours des périodes prévues aux alinéas g), h) ou h.1),
+		- **(ii)** avec lequel on s’attend à ce que tout employé communique au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours de l’une des périodes prévues à l’alinéa h.2);
+	- **k)** les renseignements utiles à la détermination des moyens de communication, notamment l’appel au grand public, directement ou au moyen d’un média à grande diffusion :
+		- **(i)** que tout employé visé dans la déclaration utilise dans le cadre d’une communication au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours des périodes prévues aux alinéas g), h) ou h.1),
+		- **(ii)** qu’on s’attend à ce que tout employé visé dans la déclaration utilise dans le cadre d’une communication au sujet d’une des mesures visées aux sous-alinéas (1)a)(i) à (v) au cours de l’une des périodes prévues à l’alinéa h.2);
+	- **l)** tout autre renseignement réglementaire utile à l’identification du déclarant, de l’employeur, de la filiale visée à l’alinéa b.1), de l’autre personne morale visée à l’alinéa b.2) de qui l’employeur est une filiale, de l’employé visé aux alinéas f) ou f.1), ou du ministère ou de l’institution gouvernementale visé à l’alinéa j).
 
-**Cessation d’activités**
+**Mise à jour**
 
-- **(4)** Il informe le directeur, dans les trente jours, en la forme réglementaire, du fait que l’employé visé dans la déclaration a cessé d’être employé de l’organisation ou a cessé d’occuper les fonctions visées au paragraphe (1).
+- **(4)** Le déclarant informe le directeur, en la forme réglementaire dans les trente jours suivant le changement, du fait qu’un employé visé par la déclaration a cessé d’occuper les fonctions visées à l’alinéa (1)a) ou a cessé de travailler pour l’employeur.
 
 **Précisions**
 
@@ -293,10 +288,16 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
+***cadre dirigeant*** S’entend :
+- **a)** du premier dirigeant, du directeur de l’exploitation ou du président de la personne morale;
+- **b)** de tout autre dirigeant qui relève directement du premier dirigeant, du directeur de l’exploitation ou du président de la personne morale.
+
+***déclarant*** L’employé rémunéré qui exerce les fonctions les plus élevées au sein d’une personne morale ou d’une organisation.
+
 ***employé*** Lui est assimilé le cadre dûment rémunéré pour ses fonctions.
 
-***premier dirigeant*** Le cadre rémunéré qui occupe les fonctions les plus élevées au sein de l’organisation.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 7; 1995, ch. 12, art. 3.
+***premier dirigeant***[Abrogée, 2003, ch. 10, art. 7]
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 7; 1995, ch. 12, art. 3; 2003, ch. 10, art. 7.
 
 
 
@@ -412,7 +413,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 
 **10.2** 
 
-- **(1)** Le directeur élabore un code de déontologie des lobbyistes portant sur toutes les activités visées aux paragraphes 5(1), 6(1) et 7(1).
+- **(1)** Le directeur élabore un code de déontologie des lobbyistes portant sur toutes les activités visées aux paragraphes 5(1) et 7(1).
 
 **Consultation**
 
@@ -427,7 +428,7 @@ Il est tenu à la même obligation dans le cas où, exercées par plusieurs empl
 - **(4)** Le code n’est pas un texte réglementaire pour l’application de la 
 [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Il doit cependant être publié dans la 
 Gazette du Canada.
-> 1995, ch. 12, art. 5; 2004, ch. 7, art. 22.
+> 1995, ch. 12, art. 5; 2003, ch. 10, art. 8; 2004, ch. 7, art. 22 et 39.
 
 
 
@@ -437,12 +438,14 @@ Gazette du Canada.
 
 **10.3** 
 
-- **(1)** Sont tenues de se conformer au code la personne requise par les paragraphes 5(1) ou 6(1) de fournir une déclaration ainsi que l’employé visé à l’alinéa 7(3)f).
+- **(1)** Doivent se conformer au code :
+	- **a)** la personne tenue de fournir une déclaration en application du paragraphe 5(1);
+	- **b)** l’employé qui, aux termes des alinéas 7(3) f) ou f.1), est nommé dans une déclaration fournie en application du paragraphe 7(1).
 
 **Non-application de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
 - **(2)** L’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’applique pas à l’infraction visée au paragraphe (1).
-> 1995, ch. 12, art. 5.
+> 1995, ch. 12, art. 5; 2003, ch. 10, art. 9.
 
 
 
@@ -456,7 +459,7 @@ Gazette du Canada.
 
 **Pouvoirs d’enquête**
 
-- **(2)** Il peut, dans le cadre de son enquête, de la même manière et dans la même mesure qu’une cour supérieure d’archives, assigner devant lui des témoins et leur enjoindre de déposer oralement ou par écrit, sous la foi du serment, ou de produire les documents et autres pièces qu’il croit nécessaires à son enquête, y compris les documents établissant que le lobbyiste-conseil, le lobbyiste salarié ou le lobbyiste travaillant pour le compte d’une organisation a reçu un paiement ou engagé une dépense se rapportant à une activité visée aux paragraphes 5(1), 6(1) ou 7(1). Il peut en outre faire prêter serment et recueillir tout renseignement, qu’il soit ou non admissible en preuve devant un tribunal.
+- **(2)** Il peut, dans le cadre de son enquête, de la même manière et dans la même mesure qu’une cour supérieure d’archives, assigner devant lui des témoins et leur enjoindre de déposer oralement ou par écrit, sous la foi du serment, ou de produire les documents et autres pièces qu’il croit nécessaires à son enquête, y compris les documents établissant que la personne qui est tenue de fournir une déclaration en application du paragraphe 5(1) ou qui, aux termes des alinéas 7(3)f) ou f.1), est nommée dans une déclaration fournie en application du paragraphe 7(1), a reçu un paiement ou engagé une dépense se rapportant, le cas échéant, à l’une des mesures visées aux sous-alinéas 5(1)a)(i) à (vi) ou 7(1)a)(i) à (v). Il peut en outre faire prêter serment et recueillir tout renseignement, qu’il soit ou non admissible en preuve devant un tribunal.
 
 **Secret de l’enquête**
 
@@ -474,8 +477,38 @@ Gazette du Canada.
 
 - **(6)** Le directeur et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance dans l’exercice des pouvoirs et fonctions que leur confère la présente loi. Ces renseignements peuvent toutefois être divulgués :
 	- **a)** si, de l’avis du directeur, leur divulgation est nécessaire pour mener une enquête en vertu du présent article ou pour motiver les conclusions contenues dans son rapport;
-	- **b)** dans le rapport du directeur ou dans le cadre de procédures intentées pour infraction à l’article 131 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) relativement à une déposition faite au cours d’une enquête.
-> 1995, ch. 12, art. 5; 2004, ch. 7, art. 23.
+	- **b)** dans le rapport du directeur ou dans le cadre de procédures intentées pour infraction à l’article 131 du  [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) relativement à une déposition faite au cours d’une enquête;
+	- **c)** si le directeur a des motifs raisonnables de croire que la divulgation est nécessaire pour aviser un agent de la paix compétent pour mener une enquête relativement à une infraction présumée à la présente loi ou à toute autre loi fédérale ou provinciale. **[2004, ch. 7, al. 39(3)(b)]**
+	- **c)** si le conseiller a des motifs raisonnables de croire que la divulgation est nécessaire pour aviser un agent de la paix compétent pour mener une enquête relativement à une infraction présumée à la présente loi ou à toute autre loi fédérale ou provinciale. **[2003, ch. 10, par. 10(2)]**
+
+**Enquête**
+
+- **(7)** Si, dans l’exercice des pouvoirs et des fonctions que lui confère le présent article, le directeur a des motifs raisonnables de croire qu’une personne a commis une infraction à la présente loi ou à toute autre loi fédérale ou provinciale, il avise un agent de la paix compétent pour mener une enquête relativement à l’infraction. **[2004, ch. 7, al. 39(3)(c)]**
+
+**Suspension de l’enquête**
+
+- **(8)** Le directeur suspend sans délai l’enquête menée en vertu du présent article à l’égard d’une infraction présumée au code si, selon le cas :
+	- **a)** il a des motifs raisonnables de croire que la personne a commis une infraction à la présente loi ou à toute autre loi fédérale ou provinciale portant sur le même sujet;
+	- **b)** l’on découvre que l’objet de l’enquête est le même que celui d’une enquête menée dans le but de décider si une infraction visée à l’alinéa a) a été commise, ou qu’une accusation a été portée à l’égard du même objet. **[2004, ch. 7, al. 39(3)(c)]**
+
+**Poursuite de l’enquête**
+
+- **(9)** Le directeur ne peut poursuivre l’enquête avant qu’une décision finale n’ait été prise relativement à toute enquête ou à toute accusation portant sur le même objet. **[2004, ch. 7, al. 39(3)(c)]**
+
+**Enquête**
+
+- **(7)** Si, dans l’exercice des pouvoirs et des fonctions que lui confère le présent article, le conseiller a des motifs raisonnables de croire qu’une personne a commis une infraction à la présente loi ou à toute autre loi fédérale ou provinciale, il avise un agent de la paix compétent pour mener une enquête relativement à l’infraction. **[2003, ch. 10, par. 10(3)]**
+
+**Suspension de l’enquête**
+
+- **(8)** Le conseiller suspend sans délai l’enquête menée en vertu du présent article à l’égard d’une infraction présumée au code si, selon le cas :
+	- **a)** il a des motifs raisonnables de croire que la personne a commis une infraction à la présente loi ou à toute autre loi fédérale ou provinciale portant sur le même sujet;
+	- **b)** l’on découvre que l’objet de l’enquête est le même que celui d’une enquête menée dans le but de décider si une infraction visée à l’alinéa a) a été commise, ou qu’une accusation a été portée à l’égard du même objet. **[2003, ch. 10, par. 10(3)]**
+
+**Poursuite de l’enquête**
+
+- **(9)** Le conseiller ne peut poursuivre l’enquête avant qu’une décision finale n’ait été prise relativement à toute enquête ou à toute accusation portant sur le même objet. **[2003, ch. 10, par. 10(3)]**
+> 1995, ch. 12, art. 5; 2003, ch. 10, art. 10; 2004, ch. 7, art. 23 et 39.
 
 
 
@@ -489,8 +522,8 @@ Gazette du Canada.
 
 **Contenu du rapport**
 
-- **(2)** Le rapport peut faire état, lorsque le directeur estime que l’intérêt public le justifie, des renseignements concernant tout paiement reçu ou dépense engagée par le lobbyiste-conseil, le lobbyiste salarié ou le lobbyiste travaillant pour le compte d’une organisation et se rapportant à une activité visée aux paragraphes 5(1), 6(1) ou 7(1).
-> 1995, ch. 12, art. 5; 2004, ch. 7, art. 23.
+- **(2)** Le rapport peut faire état, si le directeur estime que l’intérêt public le justifie, des renseignements concernant tout paiement reçu ou toute dépense engagée par la personne tenue de fournir une déclaration en application du paragraphe 5(1) ou qui, aux termes des alinéas 7(3)f) ou f.1), est nommée dans une déclaration fournie en application du paragraphe 7(1), et se rapportant, le cas échéant, à l’une des mesures visées aux sous-alinéas 5(1)a)(i) à (vi) ou 7(1)a)(i) à (v).
+> 1995, ch. 12, art. 5; 2003, ch. 10, art. 11; 2004, ch. 7, art. 23 et 39.
 
 
 
@@ -532,12 +565,12 @@ Gazette du Canada.
 **Règlements**
 
 **12** Le gouverneur en conseil peut, par règlement :
-- **a)** prévoir le versement de droits pour la remise, sous le régime des articles 5, 6 ou 7, d’une déclaration ou d’une déclaration faisant partie d’une catégorie déterminée ou pour la prestation de services ou la mise à disposition d’installations par le directeur et déterminer le montant des droits ou leur mode de détermination;
+- **a)** prévoir le versement de droits pour la remise, sous le régime des articles 5 ou 7, d’une déclaration ou d’une déclaration faisant partie d’une catégorie déterminée ou pour la prestation de services ou la mise à disposition d’installations par le directeur et déterminer le montant des droits ou leur mode de détermination;
 - **b)** prendre toute mesure concernant la transmission des documents — déclarations ou autres — au directeur en application de la présente loi, notamment ceux transmis sous forme électronique ou autre aux termes de l’article 7.2, ainsi que les personnes ou les catégories de personnes autorisées à les transmettre sous cette forme et la date à laquelle ils sont réputés avoir été reçus;
 - **c)** prendre toute mesure concernant la mise en mémoire des documents en la forme prévue à l’article 7.3;
 - **d)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 - **e)** prendre toute autre mesure d’application de la présente loi.
-> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 12; 1995, ch. 12, art. 7.
+> L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 12; 1995, ch. 12, art. 7; 2003, ch. 10, art. 12.
 
 
 
@@ -576,6 +609,25 @@ Gazette du Canada.
 
 - **(3)** Les poursuites par voie de procédure sommaire engagées aux termes du présent article se prescrivent par deux ans à compter de la date de la prétendue perpétration.
 > L.R. (1985), ch. 44 (4<sup>e</sup> suppl.), art. 14; 1995, ch. 12, art. 7.
+
+
+
+
+
+## Examen par le Parlement
+
+
+
+**Examen par un comité**
+
+**14.1** 
+
+- **(1)** Est désigné ou constitué un comité du Sénat, de la Chambre des communes ou des deux chambres, chargé spécialement de l’examen, tous les cinq ans suivant l’entrée en vigueur du présent article, des dispositions et de l’application de la présente loi.
+
+**Examen et rapport**
+
+- **(2)** Dans un délai d’un an à compter du début de l’examen ou tout délai plus long autorisé par le Sénat, la Chambre des communes ou les deux chambres, selon le cas, le comité remet au Parlement son rapport, accompagné des modifications qu’il recommande.
+> 2003, ch. 10, art. 13.
 
 
 
