@@ -19,13 +19,15 @@ WHEREAS free and open access to government is an important matter of public inte
 
 AND WHEREAS lobbying public office holders is a legitimate activity;
 
-AND WHEREAS it is desirable that public office holders and the public be able to know who is attempting to influence government;
+AND WHEREAS it is desirable that public office holders and the public be able to know who is engaged in lobbying activities;
 
 AND WHEREAS a system for the registration of paid lobbyists should not impede free and open access to government;
 
 
 
 NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+> R.S., 1985, c. 44 (4th Supp.), preamble; 2003, c. 10, s. 1..
+
 
 
 
@@ -59,7 +61,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 - **(a)** a business, trade, industry, professional or voluntary organization,
 - **(b)** a trade union or labour organization,
 - **(c)** a chamber of commerce or board of trade,
-- **(d)** a partnership, association, charitable society, coalition or interest group,
+- **(d)** a partnership, trust, association, charitable society, coalition or interest group,
 - **(e)** a government, other than the Government of Canada, and
 - **(f)** a corporation without share capital incorporated to pursue, without financial gain to its members, objects of a national, provincial, patriotic, religious, philanthropic, charitable, scientific, artistic, social, professional or sporting character or other similar objects;
 
@@ -81,7 +83,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** For the purposes of this Act, a corporation is a subsidiary of another corporation if
 	- **(a)** securities of the first-mentioned corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the first-mentioned corporation are held, otherwise than by way of security only, directly or indirectly, whether through one or more subsidiaries or otherwise, by or for the benefit of the other corporation; and
 	- **(b)** the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the first-mentioned corporation.
-> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1; 2002, c. 8, s. 182; 2004, c. 7, s. 19.
+> R.S., 1985, c. 44 (4th Supp.), s. 2; 1995, c. 12, s. 1; 2002, c. 8, s. 182; 2003, c. 10, s. 2; 2004, c. 7, s. 19.
 
 
 
@@ -107,9 +109,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 	- **(b)** employees of the government of a province;
 	- **(c)** members of a council or other statutory body charged with the administration of the civil or municipal affairs of a city, town, municipality or district, persons on the staff of such members or officers or employees of a city, town, municipality or district;
 	- **(d)** members of the council of a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or of the council of an Indian band established by an Act of Parliament, persons on their staff or employees of such a council;
-	- **(d.1)** members of a governing body under the constitution of a first nation named in Schedule II to the [Yukon First Nations Self-Government Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md), persons on their staff or employees of such a governing body;
-	- **(d.2)** members of Nisga’a Government, as defined in the Nisga’a Final Agreement given effect by the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), persons on the staff of those members or employees of the Nisga’a Nation, a Nisga’a Village or a Nisga’a Institution, as defined in that Agreement;
-	- **(d.3)** members of the council, as defined in the Westbank First Nation Self-Government Agreement given effect by the [Westbank First Nation Self-Government Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2017.md), or persons on the staff of the council or of a member of the council;
+	- **(d.1)** members of an aboriginal government or institution that exercises jurisdiction or authority under a self-government agreement, or under self-government provisions contained in a land claims agreement, given effect by or under an Act of Parliament, persons on the staff of those members or employees of that government or institution;
+	- **(d.2)** [Repealed, 2003, c. 10, s. 3]
+	- **(d.3)** [Repealed, 2004, c. 17, s. 20]
 	- **(e)** diplomatic agents, consular officers or official representatives in Canada of a foreign government; or
 	- **(f)** officials of a specialized agency of the United Nations in Canada or officials of any other international organization to whom there are granted, by or under any Act of Parliament, privileges and immunities.
 
@@ -117,13 +119,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 - **(2)** This Act does not apply in respect of
 	- **(a)** any oral or written submission made to a committee of the Senate or House of Commons or of both Houses of Parliament or to any body or person having jurisdiction or powers conferred by or under an Act of Parliament, in proceedings that are a matter of public record;
-	- **(b)** any oral or written submission made to a public office holder by an individual on behalf of any person or organization with respect to the enforcement, interpretation or application of any Act of Parliament or regulation thereunder by that public office holder and with respect to that person or organization; or
-	- **(c)** any oral or written submission made to a public office holder by an individual on behalf of any person or organization in direct response to a written request from a public office holder, for advice or comment in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e).
+	- **(b)** any oral or written communication made to a public office holder by an individual on behalf of any person or organization with respect to the enforcement, interpretation or application of any Act of Parliament or regulation by that public office holder with respect to that person or organization; or
+	- **(c)** any oral or written communication made to a public office holder by an individual on behalf of any person or organization if the communication is restricted to a request for information.
 
 **Idem**
 
 - **(3)** Nothing in this Act shall be construed as requiring the disclosure of the name or identity of any individual where that disclosure could reasonably be expected to threaten the safety of that individual.
-> R.S., 1985, c. 44 (4th Supp.), s. 4; 1994, c. 35, s. 36; 1995, c. 12, s. 2; 2000, c. 7, s. 24; 2004, c. 17, s. 17.
+> R.S., 1985, c. 44 (4th Supp.), s. 4; 1994, c. 35, s. 36; 1995, c. 12, s. 2; 2000, c. 7, s. 24; 2003, c. 10, s. 3; 2004, c. 17, ss. 17, 20.
 
 
 
@@ -137,20 +139,33 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-**Lobbyists shall file return**
+**Requirement to file return**
 
 **5** 
 
-- **(1)** Every individual who, for payment, on behalf of any person or organization (in this section referred to as the “client”), undertakes to
-	- **(a)** communicate with a public office holder in an attempt to influence
+- **(1)** An individual shall file with the registrar, in the prescribed form and manner, a return setting out the information referred to in subsection (2), if the individual, for payment, on behalf of any person or organization (in this section referred to as the “client”), undertakes to
+	- **(a)** communicate with a public office holder in respect of
 		- **(i)** the development of any legislative proposal by the Government of Canada or by a member of the Senate or the House of Commons,
 		- **(ii)** the introduction of any Bill or resolution in either House of Parliament or the passage, defeat or amendment of any Bill or resolution that is before either House of Parliament,
-		- **(iii)** the making or amendment of any regulation as defined in subsection 2(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md),
+		- **(iii)** the making or amendment of any regulation as defined in subsection 2(1) of the  [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md),
 		- **(iv)** the development or amendment of any policy or program of the Government of Canada,
 		- **(v)** the awarding of any grant, contribution or other financial benefit by or on behalf of Her Majesty in right of Canada, or
-		- **(vi)** the awarding of any contract by or on behalf of Her Majesty in right of Canada, or
-	- **(b)** arrange a meeting between a public office holder and any other person,
-shall, not later than ten days after entering into that undertaking, file with the registrar, in the prescribed form and manner, a return setting out the information referred to in subsection (2).
+		- **(vi)** the awarding of any contract by or on behalf of Her Majesty in right of Canada; or
+	- **(b)** arrange a meeting between a public office holder and any other person.
+
+**Time limits for filing returns**
+
+- **(1.1)** An individual shall file a return
+	- **(a)** not later than ten days after entering into an undertaking referred to in subsection (1); and
+	- **(b)** subject to subsections (1.2) and (1.3), not later than thirty days after the expiry of every six-month period after the day on which a return is filed under paragraph (a).
+
+**Exception if change provided**
+
+- **(1.2)** Where an individual provides a change to information or newly acquired information under subsection (3), a return under paragraph (1.1)(b) shall be filed not later than thirty days after the expiry of every six-month period after the last day on which a change or newly acquired information is provided under that subsection.
+
+**Completion or termination of undertaking**
+
+- **(1.3)** An individual is not required to file a return under paragraph (1.1)(b) with respect to an undertaking if the individual completes or terminates the undertaking and advises the registrar of that fact in the prescribed form and manner before the expiry of the period within which the return must be filed under that paragraph.
 
 **Contents of return**
 
@@ -160,21 +175,20 @@ shall, not later than ten days after entering into that undertaking, file with t
 	- **(c)** where the client is a corporation, the name and business address of each subsidiary of the corporation that, to the knowledge of the individual, has a direct interest in the outcome of the individual’s activities on behalf of the client;
 	- **(d)** where the client is a corporation that is a subsidiary of any other corporation, the name and business address of that other corporation;
 	- **(e)** where the client is a coalition, the name and business address of each corporation or organization that is a member of the coalition;
-	- **(e.1)** where the client is funded in whole or in part by a government, the name of the government or government agency, as the case may be, and the amount of funding received by the client from that government or government agency;
-	- **(f)** particulars to identify the subject-matter in respect of which the individual has undertaken to communicate with a public office holder or to arrange a meeting, and such other information respecting the subject-matter as is prescribed;
+	- **(e.1)** the client is funded in whole or in part by a government or government agency, the name of the government or agency, as the case may be, and the amount of funding received;
+	- **(f)** particulars to identify the subject-matter in respect of which the individual undertakes to communicate with a public office holder or to arrange a meeting, and any other information respecting the subject-matter that is prescribed;
 	- **(g)** where applicable, whether the payment to the individual is in whole or in part contingent on the individual’s degree of success in influencing any matter described in subparagraphs (1)(a)(i) to (vi);
 	- **(h)** particulars to identify any relevant legislative proposal, Bill, resolution, regulation, policy, program, grant, contribution, financial benefit or contract;
-	- **(i)** the name of any department or other governmental institution in which any public office holder with whom the individual has communicated or expects to communicate, or with whom a meeting is to be or has been arranged, is employed or serves;
-	- **(j)** where the individual has undertaken to communicate with a public office holder in an attempt to influence any matter described in subparagraphs (1)(a)(i) to (vi), particulars to identify any communication technique, including appeals to members of the public through the mass media or by direct communication that seek to persuade members of the public to communicate directly with a public office holder in an attempt to place pressure on the public office holder to endorse a particular opinion (in this Act referred to as “grass-roots communication”), that the individual has used or expects to use in an attempt to influence that matter; and
+	- **(h.1)** if the individual is a former public officer holder, a description of the offices held;
+	- **(i)** the name of any department or other governmental institution in which any public office holder with whom the individual communicates or expects to communicate in respect of any matter described in subparagraphs (1)(a)(i) to (vi) or with whom a meeting is, or is to be, arranged, is employed or serves;
+	- **(j)** if the individual undertakes to communicate with a public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (vi), particulars to identify any communication technique that the individual uses or expects to use in connection with the communication with the public office holder, including any appeals to members of the public through the mass media or by direct communication that seek to persuade those members of the public to communicate directly with a public office holder in an attempt to place pressure on the public office holder to endorse a particular opinion (in this Act referred to as “grass-roots communication”); and
 	- **(k)** such other information relating to the identity of the individual, the client, any person or organization referred to in paragraph (b), any subsidiary referred to in paragraph (c), the other corporation referred to in paragraph (d), any member of a coalition referred to in paragraph (e) or any department or institution referred to in paragraph (i) as is prescribed.
 
 **Changes to information and new information**
 
 - **(3)** An individual who files a return shall provide the registrar, in the prescribed form and manner, with any change to the information provided by the individual in the return, and any information required to be provided under subsection (2) the knowledge of which the individual acquired only after the return was filed, not later than thirty days after the change occurs or the knowledge is acquired.
 
-**Completion or termination of undertaking**
-
-- **(4)** An individual who completes or terminates an undertaking in respect of which the individual has filed a return shall advise the registrar of that fact, in the prescribed form and manner, not later than thirty days after the undertaking is completed or terminated.
+- **(4)** [Repealed, 2003, c. 10, s. 4]
 
 **Information requested by registrar**
 
@@ -186,132 +200,81 @@ shall, not later than ten days after entering into that undertaking, file with t
 
 **For greater certainty**
 
-- **(7)** For greater certainty, an individual who undertakes to communicate with a public office holder as described in paragraph (1)(a) is required to file only one return under subsection (1) notwithstanding that the individual may, in connection with that undertaking, communicate with one or more public office holders on one or more occasions.
-> R.S., 1985, c. 44 (4th Supp.), s. 5; 1995, c. 12, s. 3; 1999, c. 31, s. 163(F).
+- **(7)** For greater certainty, an individual who undertakes to communicate with a public office holder as described in paragraph (1)(a) is not required to file more than one return with respect to the undertaking, even though the individual, in connection with that undertaking, communicates with more than one public office holder or communicates with one or more public office holders on more than one occasion.
+> R.S., 1985, c. 44 (4th Supp.), s. 5; 1995, c. 12, s. 3; 1999, c. 31, s. 163(F); 2003, c. 10, s. 4.
 
 
 
 
-
-### In-House Lobbyists (Corporate)
-
-
-
-**Lobbyists shall file return**
-
-**6** 
-
-- **(1)** Where a person employs an individual a significant part of whose duties as an employee is to communicate with public office holders on behalf of the employer or, where the employer is a corporation, on behalf of any subsidiary of the employer or any corporation of which the employer is a subsidiary, in an attempt to influence
-	- **(a)** the development of any legislative proposal by the Government of Canada or by a member of the Senate or the House of Commons,
-	- **(b)** the introduction of any Bill or resolution in either House of Parliament or the passage, defeat or amendment of any Bill or resolution that is before either House of Parliament,
-	- **(c)** the making or amendment of any regulation as defined in subsection 2(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md),
-	- **(d)** the development or amendment of any policy or program of the Government of Canada, or
-	- **(e)** the awarding of any grant, contribution or other financial benefit by or on behalf of Her Majesty in right of Canada,
-the employee shall file with the registrar, in the prescribed form and manner and at the time or times required by subsection (2), a return setting out the information referred to in subsection (3).
-
-**Time limits for filing a return**
-
-- <sup><a href='#L-12.4_en_1'>[*]</a></sup>**(2)** An employee to whom subsection (1) applies shall file a return
-	- **(a)** where the duties described in subsection (1) commenced to be a significant part of their duties before the date on which that subsection comes into force, within two months after that date;
-	- **(b)** where the duties described in subsection (1) commence to be a significant part of their duties on or after that date, within two months after the date on which those duties commence to be a significant part of their duties; and
-	- **(c)** within two months after the end of each financial year of the employer or, if the employer does not have a financial year, within two months after the end of each calendar year, beginning with the financial year or calendar year, as the case may be, in which the employee is required to file a return pursuant to paragraph (a) or (b).
-
-<a name='L-12.4_en_1'><sup>*</sup></a>: [Note: Subsection 6(1) in force September 30, 1989, *see* SI/89-193.]<br />
-
-**Contents of return**
-
-- **(3)** The return shall set out the following information:
-	- **(a)** the name and business address of the employee;
-	- **(b)** the name and business address of the employer;
-	- **(c)** where the employer is a corporation, the name and business address of each subsidiary of the corporation that, to the knowledge of the employee, has a direct interest in the outcome of the employee’s activities on behalf of the employer;
-	- **(d)** where the employer is a corporation that is a subsidiary of any other corporation, the name and business address of that other corporation;
-	- **(e)** if applicable, the financial year of the employer;
-	- **(f)** a description in summary form of the employer’s business or activities and such other information to identify the employer’s business or activities as is prescribed;
-	- **(f.1)** where the employer is funded in whole or in part by a government, the name of the government or government agency, as the case may be, and the amount of funding received by the employer from that government or government agency;
-	- **(g)** where the employee is attempting to influence any matter described in paragraphs (1)(a) to (e) at the time the return is filed, particulars to identify the relevant subject-matter and such other information respecting the subject-matter as is prescribed;
-	- **(h)** particulars to identify the subject-matters in respect of which the employee has communicated or expects to communicate with public office holders during the financial year of the employer in which the return is filed or, if the employer does not have a financial year, during the calendar year in which the return is filed, in an attempt to influence any matter described in paragraphs (1)(a) to (e), and such other information respecting those subject-matters as is prescribed;
-	- **(i)** particulars to identify any relevant legislative proposal, Bill, resolution, regulation, policy, program, grant, contribution or financial benefit;
-	- **(j)** the name of any department or other governmental institution in which any public office holder with whom the employee has communicated or expects to communicate, in connection with any matter referred to in paragraph (g) or (h), is employed or serves;
-	- **(k)** particulars to identify any communication technique, including grass-roots communication within the meaning of paragraph 5(2)(j), that the employee has used or expects to use in an attempt to influence any matter referred to in paragraph (g) or (h); and
-	- **(l)** such other information relating to the identity of the employee, the employer, any subsidiary referred to in paragraph (c), the other corporation referred to in paragraph (d) or any department or institution referred to in paragraph (j) as is prescribed.
-
-**Changes to return and new information**
-
-- **(4)** An employee who files a return shall provide the registrar, in the prescribed form and manner, with any change to the information provided by the employee in the return, and any information required to be provided under subsection (3) the knowledge of which the employee acquired only after the return was filed, not later than thirty days after the change occurs or the knowledge is acquired.
-
-**Ceasing duties or employment**
-
-- **(5)** An employee who files a return shall advise the registrar, in the prescribed form and manner, if the duties described in subsection (1) cease to be a significant part of their duties or they cease to be employed by the employer, and shall do so not later than thirty days after the event.
-
-**Information requested by registrar**
-
-- **(6)** An employee who files a return shall provide the registrar, in the prescribed form and manner, with such information as the registrar may request to clarify any information that the employee has provided to the registrar pursuant to this section, and shall do so not later than thirty days after the request is made.
-
-**Definition of “employee”**
-
-- **(7)** In this section, ***employee*** includes an officer who is compensated for the performance of their duties.
-> R.S., 1985, c. 44 (4th Supp.), s. 6; 1995, c. 12, s. 3; 1999, c. 31, s. 164(F).
+**6** [Repealed, 2003, c. 10, s. 5]
 
 
 
 
-
-### In-House Lobbyists (Organizations)
-
+### In-house Lobbyists (Corporations and Organizations)
 
 
-**Senior officer shall file return**
+
+**Requirement to file return**
 
 **7** 
 
-- **(1)** Where an organization employs one or more individuals any part of whose duties is to communicate with public office holders on behalf of the organization in an attempt to influence
-	- **(a)** the development of any legislative proposal by the Government of Canada or by a member of the Senate or the House of Commons,
-	- **(b)** the introduction of any Bill or resolution in either House of Parliament or the passage, defeat or amendment of any Bill or resolution that is before either House of Parliament,
-	- **(c)** the making or amendment of any regulation as defined in subsection 2(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md),
-	- **(d)** the development or amendment of any policy or program of the Government of Canada, or
-	- **(e)** the awarding of any grant, contribution or other financial benefit by or on behalf of Her Majesty in right of Canada,
-the senior officer of the organization shall, if those duties constitute a significant part of the duties of one employee or would constitute a significant part of the duties of one employee were those duties to be performed by only one employee, file with the registrar, in the prescribed form and manner and at the time or times required by subsection (2), a return setting out the information referred to in subsection (3).
+- **(1)** The officer responsible for filing returns for a corporation or organization shall file with the registrar, in the prescribed form and manner, a return setting out the information referred to in subsection (3) if
+	- **(a)** the corporation or organization employs one or more individuals any part of whose duties is to communicate with public office holders on behalf of the employer or, if the employer is a corporation, on behalf of any subsidiary of the employer or any corporation of which the employer is a subsidiary, in respect of
+		- **(i)** the development of any legislative proposal by the Government of Canada or by a member of the Senate or the House of Commons,
+		- **(ii)** the introduction of any Bill or resolution in either House of Parliament or the passage, defeat or amendment of any Bill or resolution that is before either House of Parliament,
+		- **(iii)** the making or amendment of any regulation as defined in subsection 2(1) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md),
+		- **(iv)** the development or amendment of any policy or program of the Government of Canada, or
+		- **(v)** the awarding of any grant, contribution or other financial benefit by or on behalf of Her Majesty in right of Canada; and
+	- **(b)** those duties constitute a significant part of the duties of one employee or would constitute a significant part of the duties of one employee if they were performed by only one employee.
 
-**Time limits for filing a return**
+**Time limits for filing returns**
 
-- <sup><a href='#L-12.4_en_2'>[*]</a></sup>**(2)** The senior officer of the organization shall file a return
-	- **(a)** where, on the date on which subsection (1) comes into force, the organization employs one or more individuals whose duties are as described in that subsection, within two months after that date and thereafter within thirty days after the expiration of each six month period after the date of filing; and
-	- **(b)** where, on that date, the organization does not employ any individual whose duties are as described in that subsection, within two months after the date on which the organization first commences to employ such an individual and thereafter within thirty days after the expiration of each six month period after the date of filing.
+- **(2)** The officer responsible for filing returns shall file a return
+	- **(a)** not later than two months after the day on which the requirement to file a return first arises under subsection (1); and
+	- **(b)** subject to subsection (2.1), not later than thirty days after the expiry of every six-month period after the day on which a return is filed under paragraph (a).
 
-<a name='L-12.4_en_2'><sup>*</sup></a>: [Note: Subsection 7(1) in force September 30, 1989, *see* SI/89-193.]<br />
+**Termination of activities**
+
+- **(2.1)** The officer responsible for filing returns is not required to file a return under paragraph (2)(b) if
+	- **(a)** the employer no longer employs any employees whose duties are as described in paragraphs (1)(a) and (b); and
+	- **(b)** the officer responsible for filing returns advises the registrar of the circumstances described in paragraph (a) in the prescribed form and manner before the expiry of the period within which the return must be filed under paragraph (2)(b).
 
 **Contents of return**
 
 - **(3)** The return shall set out the following information:
-	- **(a)** the name and business address of the senior officer;
-	- **(b)** the name and business address of the organization;
-	- **(c)** a description in summary form of the organization’s business or activities and such other information to identify its business or activities as is prescribed;
-	- **(d)** a description of the organization’s membership and such other information to identify its membership as is prescribed;
-	- **(e)** where the organization is funded in whole or in part by a government, the name of the government or government agency, as the case may be, and the amount of funding received by the organization from that government or government agency;
-	- **(f)** the name of each employee of the organization whose duties include those described in subsection (1);
-	- **(g)** where any such employee is attempting to influence any matter described in paragraphs (1)(a) to (e) at the time the return is filed, particulars to identify the relevant subject-matter and such other information respecting the subject-matter as is prescribed;
-	- **(h)** particulars to identify the subject-matters in respect of which any such employee
-		- **(i)** has communicated with public office holders during the period for which the return is filed under subsection (2), and
-		- **(ii)** is expected to communicate with public office holders during the next following six month period,
-in an attempt to influence any matter described in paragraphs (1)(a) to (e), and such other information respecting those subject-matters as is prescribed;
+	- **(a)** the name and business address of the officer responsible for filing returns;
+	- **(b)** the name and business address of the employer;
+	- **(b.1)** if the employer is a corporation, the name and business address of every subsidiary of the corporation that, to the knowledge of the officer responsible for filing returns, has a direct interest in the outcome of an employee’s activities on behalf of the employer in respect of any matter described in subparagraphs (1)(a)(i) to (v);
+	- **(b.2)** if the employer is a corporation that is a subsidiary of any other corporation, the name and business address of that other corporation;
+	- **(c)** a description in summary form of the employer’s business or activities and any other information to identify its business or activities that is prescribed;
+	- **(d)** if the employer is an organization, a description of the organization’s membership and any other information to identify its membership that is prescribed;
+	- **(e)** if the employer is funded in whole or in part by a government or government agency, the name of the government or agency, as the case may be, and the amount of funding received;
+	- **(f)** if the employer is an organization, the name of each employee any part of whose duties is as described in paragraph (1)(a);
+	- **(f.1)** if the employer is a corporation, the name of
+		- **(i)** each senior officer any part of whose duties is as described in paragraph (1)(a), and
+		- **(ii)** any other employee any part of whose duties is as described in paragraph (1)(a), if that part constitutes a significant part of the duties of that employee;
+	- **(g)** if the return is filed under paragraph (2)(a), particulars to identify the subject-matter of any communication between any employee named in the return and a public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during the period between the date on which the requirement to file a return first arises under subsection (1) and the date of filing, and any other information respecting that subject-matter that is prescribed;
+	- **(h)** if the return is filed under paragraph (2)(b), particulars to identify the subject-matter of any communication between any employee named in the return and a public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during a six-month period referred to in paragraph (2)(b) and any other information respecting that subject-matter that is prescribed;
+	- **(h.1)** if any employee named in the return communicates with a public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during the period between the expiry of a six-month period referred to in paragraph (2)(b) and the date on which the return is filed under that paragraph, particulars to identify the subject-matter of the communication and any other information respecting that subject-matter that is prescribed;
+	- **(h.2)** if any employee named in the return is expected to communicate with a public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during the six-month period after the date of filing under paragraph (2)(a), or during the six-month period after the expiry of a six-month period referred to in paragraph (2)(b), particulars to identify the subject-matter of the communication and any other information respecting that subject-matter that is prescribed;
+	- **(h.3)** if any employee named in the return is a former public office holder, a description of the offices held;
 	- **(i)** particulars to identify any relevant legislative proposal, Bill, resolution, regulation, policy, program, grant, contribution or financial benefit;
-	- **(j)** the name of any department or other governmental institution in which any public office holder with whom any such employee
-		- **(i)** has communicated during the period for which the return is required to be filed pursuant to subsection (2), and
-		- **(ii)** is expected to communicate during the next following six month period,
-in connection with any matter referred to in paragraph (g) or (h), is employed or serves;
-	- **(k)** particulars to identify any communication technique, including grass-roots communication within the meaning of paragraph 5(2)(j), that any such employee
-		- **(i)** has used during the period for which the return is required to be filed pursuant to subsection (2), and
-		- **(ii)** is expected to use during the next following six month period,
-in an attempt to influence any matter referred to in paragraph (g) or (h); and
-	- **(l)** such other information relating to the identity of the senior officer, the organization, any employee referred to in paragraph (f) or any department or institution referred to in paragraph (j) as is prescribed.
+	- **(j)** the name of any department or other governmental institution in which a public office holder is employed or serves, if any employee named in the return,
+		- **(i)** communicates with the public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during the period referred to in paragraph (g), (h) or (h.1), or
+		- **(ii)** is expected to communicate with the public office holder in respect of any matter described in subparagraphs (1)(a)(i) to (v) during either of the periods referred to in paragraph (h.2);
+	- **(k)** particulars to identify any communication technique, including grass-roots communication within the meaning of paragraph 5(2)(j), that any employee named in the return
+		- **(i)** uses in connection with any communication in respect of any matter described in subparagraphs (1)(a)(i) to (v) during the period referred to in paragraph (g), (h) or (h.1), or
+		- **(ii)** is expected to use in connection with any communication in respect of any matter described in subparagraphs (1)(a)(i) to (v) during either of the periods referred to in paragraph (h.2); and
+	- **(l)** any other information that is prescribed that relates to the identity of the officer responsible for filing returns, the employer, any subsidiary referred to in paragraph (b.1), any corporation referred to in paragraph (b.2) of which the employer is a subsidiary, any employee referred to in paragraph (f) or (f.1) or any department or institution referred to in paragraph (j).
 
-**Ceasing duties or employment**
+**Changes to information**
 
-- **(4)** The senior officer of an organization in respect of which a return is filed shall advise the registrar, in the prescribed form and manner, if an employee who has been identified in the return ceases to perform duties described in subsection (1) or ceases to be employed by the organization, and shall do so not later than thirty days after the event.
+- **(4)** If an employee who has been named in a return no longer performs any of the duties described in paragraph (1)(a) or is no longer employed by the employer, the officer responsible for filing returns shall, in the prescribed form and manner, not later than thirty days after the change occurs, advise the registrar of the change.
 
 **Information requested by registrar**
 
-- **(5)** The senior officer of an organization in respect of which a return is filed shall provide the registrar, in the prescribed form and manner, with such information as the registrar may request to clarify any information that has been provided to the registrar pursuant to this section, and shall do so not later than thirty days after the request is made.
+- **(5)** If the registrar requests information to clarify any information that has been provided to the registrar under this section, the officer responsible for filing returns shall, in the prescribed form and manner, not later than thirty days after the request is made, provide the registrar with the information.
 
 **Definitions**
 
@@ -319,8 +282,12 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 ***employee*** includes an officer who is compensated for the performance of their duties;
 
-***senior officer***, in respect of an organization, means the most senior officer of the organization who is compensated for the performance of their duties.
-> R.S., 1985, c. 44 (4th Supp.), s. 7; 1995, c. 12, s. 3.
+***officer responsible for filing returns*** means the employee who holds the most senior office in a corporation or organization and is compensated for the performance of their duties;
+
+***senior officer***, in respect of a corporation, means
+- **(a)** a chief executive officer, chief operating officer or president of the corporation, or
+- **(b)** any other officer who reports directly to the chief executive officer, chief operating officer or president of the corporation.
+> R.S., 1985, c. 44 (4th Supp.), s. 7; 1995, c. 12, s. 3; 2003, c. 10, s. 7.
 
 
 
@@ -434,7 +401,7 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **10.2** 
 
-- **(1)** The registrar shall develop a Lobbyists' Code of Conduct respecting the activities described in subsections 5(1), 6(1) and 7(1).
+- **(1)** The registrar shall develop a Lobbyists’ Code of Conduct respecting the activities described in subsections 5(1) and 7(1).
 
 **Consultation**
 
@@ -447,7 +414,7 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 **Code not a statutory instrument**
 
 - **(4)** The Code is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md), but the Code shall be published in the Canada Gazette.
-> 1995, c. 12, s. 5; 2004, c. 7, s. 22.
+> 1995, c. 12, s. 5; 2003, c. 10, s. 8; 2004, c. 7, ss. 22, 39.
 
 
 
@@ -458,13 +425,13 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 **10.3** 
 
 - **(1)** The following individuals shall comply with the Code:
-	- **(a)** an individual who is required to file a return under subsection 5(1) or 6(1); and
-	- **(b)** an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1).
+	- **(a)** an individual who is required to file a return under subsection 5(1); and
+	- **(b)** an employee who, in accordance with paragraph 7(3)(f) or (f.1), is named in a return filed under subsection 7(1).
 
 **Non-application of section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
 - **(2)** Section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a contravention of subsection (1).
-> 1995, c. 12, s. 5.
+> 1995, c. 12, s. 5; 2003, c. 10, s. 9.
 
 
 
@@ -481,7 +448,7 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 - **(2)** For the purpose of conducting the investigation, the registrar may
 	- **(a)** in the same manner and to the same extent as a superior court of record,
 		- **(i)** summon and enforce the attendance of persons before the registrar and compel them to give oral or written evidence on oath, and
-		- **(ii)** compel persons to produce any documents or other things that the registrar considers necessary for the investigation, including any record of a payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be; and
+		- **(ii)** compel persons to produce any documents or other things that the registrar considers necessary for the investigation, including any record of a payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or by an employee who, in accordance with paragraph 7(3)(f) or (f.1), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or 7(1)(a)(i) to (v), as the case may be; and
 	- **(b)** administer oaths and receive and accept information, whether or not it would be admissible as evidence in a court of law.
 
 **Investigation in private**
@@ -499,9 +466,39 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 **Confidentiality**
 
 - **(6)** The registrar, and every person acting on behalf of or under the direction of the registrar, may not disclose any information that comes to their knowledge in the performance of their duties and functions under this section, unless
-	- **(a)** the disclosure is, in the opinion of the registrar, necessary for the purpose of conducting an investigation under this section or establishing the grounds for any findings or conclusions contained in a report under section 10.5; or
-	- **(b)** the information is disclosed in a report under section 10.5 or in the course of a prosecution for an offence under section 131 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the registrar.
-> 1995, c. 12, s. 5; 2004, c. 7, s. 23.
+	- **(a)** the disclosure is, in the opinion of the registrar, necessary for the purpose of conducting an investigation under this section or establishing the grounds for any findings or conclusions contained in a report under section 10.5;
+	- **(b)** the information is disclosed in a report under section 10.5 or in the course of a prosecution for an offence under section 131 of the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made to the registrar; or
+	- **(c)** the registrar believes on reasonable grounds that the disclosure is necessary for the purpose of advising a peace officer having jurisdiction to investigate an alleged offence under this or any other Act of Parliament or of the legislature of a province. **[2004, c. 7, par. 39(3)(b)]**
+	- **(c)** the Ethics Counsellor believes on reasonable grounds that the disclosure is necessary for the purpose of advising a peace officer having jurisdiction to investigate an alleged offence under this or any other Act of Parliament or of the legislature of a province. **[2003, c. 10, s. 10(2)]**
+
+**Advice to peace officers**
+
+- **(7)** If, during the course of performing duties and functions under this section, the registrar believes on reasonable grounds that a person has committed an offence under this or any other Act of Parliament or of the legislature of a province, the registrar shall advise a peace officer having jurisdiction to investigate the alleged offence. **[2004, c. 7, par. 39(3)(c)]**
+
+**Suspension of investigation**
+
+- **(8)** The registrar must immediately suspend an investigation under this section of an alleged breach of the Code by any person if
+	- **(a)** the registrar believes on reasonable grounds that the person has committed an offence under this or any other Act of Parliament or of the legislature of a province in respect of the same subject-matter; or
+	- **(b)** it is discovered that the subject-matter of the investigation under this section is also the subject-matter of an investigation to determine whether an offence referred to in paragraph (a) has been committed or that a charge has been laid with respect to that subject-matter. **[2004, c. 7, par. 39(3)(c)]**
+
+**Investigation continued**
+
+- **(9)** The registrar may not continue an investigation under this section until any investigation or charge regarding the same subject-matter has been finally disposed of. **[2004, c. 7, par. 39(3)(c)]**
+
+**Advice to peace officers**
+
+- **(7)** If, during the course of performing duties and functions under this section, the Ethics Counsellor believes on reasonable grounds that a person has committed an offence under this or any other Act of Parliament or of the legislature of a province, the Ethics Counsellor shall advise a peace officer having jurisdiction to investigate the alleged offence. **[2003, c. 10, s. 10(3)]**
+
+**Suspension of investigation**
+
+- **(8)** The Ethics Counsellor must immediately suspend an investigation under this section of an alleged breach of the Code by any person if
+	- **(a)** the Ethics Counsellor believes on reasonable grounds that the person has committed an offence under this or any other Act of Parliament or of the legislature of a province in respect of the same subject-matter; or
+	- **(b)** it is discovered that the subject-matter of the investigation under this section is also the subject-matter of an investigation to determine whether an offence referred to in paragraph (a) has been committed or that a charge has been laid with respect to that subject-matter. **[2003, c. 10, s. 10(3)]**
+
+**Investigation continued**
+
+- **(9)** The Ethics Counsellor may not continue an investigation under this section until any investigation or charge regarding the same subject-matter has been finally disposed of. **[2003, c. 10, s. 10(3)]**
+> 1995, c. 12, s. 5; 2003, c. 10, s. 10; 2004, c. 7, ss. 23, 39.
 
 
 
@@ -515,8 +512,8 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 **Contents of report**
 
-- **(2)** The report may contain details of any payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or 6(1) or by an individual who, in accordance with paragraph 7(3)(f), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or paragraphs 6(1)(a) to (e) or 7(1)(a) to (e), as the case may be, if the registrar considers publication of the details to be in the public interest.
-> 1995, c. 12, s. 5; 2004, c. 7, s. 23.
+- **(2)** The report may contain details of any payment received, disbursement made or expense incurred by an individual who is required to file a return under subsection 5(1) or by an employee who, in accordance with paragraph 7(3)(f) or (f.1), is named in a return filed under subsection 7(1), in respect of any matter referred to in any of subparagraphs 5(1)(a)(i) to (vi) or 7(1)(a)(i) to (v), as the case may be, if the registrar considers publication of the details to be in the public interest.
+> 1995, c. 12, s. 5; 2003, c. 10, s. 11; 2004, c. 7, ss. 23, 39.
 
 
 
@@ -557,12 +554,12 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 **Regulations**
 
 **12** The Governor in Council may make regulations
-- **(a)** requiring a fee to be paid on the filing of a return or a return of a class of returns under section 5, 6 or 7, or for any service performed or the use of any facility provided by the registrar, and prescribing the fee or the manner of determining it;
+- **(a)** requiring a fee to be paid on the filing of a return or a return of a class of returns under section 5 or 7, or for any service performed or the use of any facility provided by the registrar, and prescribing the fee or the manner of determining it;
 - **(b)** respecting the submission of returns or other documents to the registrar under this Act, including those that may be submitted in an electronic or other form under section 7.2, the persons or classes of persons by whom they may be submitted in that form and the time at which they are deemed to be received by the registrar;
 - **(c)** respecting the entering or recording of any return or other document under section 7.3;
 - **(d)** prescribing any matter or thing that by this Act is to be or may be prescribed; and
 - **(e)** generally for carrying out the purposes and provisions of this Act.
-> R.S., 1985, c. 44 (4th Supp.), s. 12; 1995, c. 12, s. 7.
+> R.S., 1985, c. 44 (4th Supp.), s. 12; 1995, c. 12, s. 7; 2003, c. 10, s. 12.
 
 
 
@@ -601,6 +598,25 @@ in an attempt to influence any matter referred to in paragraph (g) or (h); and
 
 - **(3)** Proceedings by way of summary conviction in respect of an offence under this section may be instituted at any time within but not later than two years after the time when the subject-matter of the proceedings arose.
 > R.S., 1985, c. 44 (4th Supp.), s. 14; 1995, c. 12, s. 7.
+
+
+
+
+
+## Review by Parliament
+
+
+
+**Review of Act by parliamentary committee**
+
+**14.1** 
+
+- **(1)** A comprehensive review of the provisions and operation of this Act must be undertaken, every five years after this section comes into force, by the committee of the Senate, of the House of Commons, or of both Houses of Parliament, that may be designated or established for that purpose.
+
+**Review and report**
+
+- **(2)** The committee referred to in subsection (1) must, within a year after the review is undertaken or within any further period that the Senate, the House of Commons, or both Houses of Parliament, as the case may be, may authorize, submit a report on the review to Parliament that includes a statement of any changes to this Act or its operation that the committee recommends.
+> 2003, c. 10, s. 13.
 
 
 
