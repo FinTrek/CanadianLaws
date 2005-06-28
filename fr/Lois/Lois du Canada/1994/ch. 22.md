@@ -39,15 +39,45 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
+***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion. Sont exclues de la présente définition les plates-formes fixes.
+
+***bâtiment canadien*** Bâtiment :
+- **a)** qui est immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
+- **b)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ni sous celui d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
+	- **(i)** elle a la citoyenneté canadienne,
+	- **(ii)** dans le cas d’un bâtiment qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), elle est domiciliée au Canada et y réside de fait,
+	- **(iii)** s’agissant d’une personne morale, elle a été constituée sous le régime d’une loi fédérale ou provinciale et a son principal établissement au Canada;
+- **c)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
+
+***bâtiment étranger*** Bâtiment qui n’est pas un bâtiment canadien.
+
+***capitaine*** Personne ayant la direction ou le commandement d’un bâtiment, à l’exclusion du pilote au sens de l’article 2 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md).
+
 ***convention*** La convention dont le texte figure à l’annexe, avec ses modifications successives.
+
+***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
+- **a)** l’air, l’eau et le sol;
+- **b)** toutes les couches de l’atmosphère;
+- **c)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
+- **d)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) à c).
+
+***étranger*** S’entend au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
+
+***exploitant*** Personne, à l’exception du propriétaire, qui a la possession et l’usage du bâtiment en vertu de la loi ou d’un contrat.
+
+***immersion ou rejet*** Le versement, le déversement, l’écoulement, le suintement, l’arrosage, l’épandage, la vaporisation, l’évacuation, l’émission, le vidage, le jet, la décharge ou le dépôt.
 
 ***ministre*** Le ministre de l’Environnement ou, pour toute mesure ayant trait au pipe-line du Nord, le membre du Conseil privé de la Reine pour le Canada chargé de l’application de la [Loi sur le pipe-line du Nord](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-26.md).
 
-***moyen de transport*** Tout véhicule, aéronef, bateau ou autre moyen servant au transport des personnes ou des biens.
+***moyen de transport*** Tout véhicule, aéronef, bâtiment ou autre moyen servant au transport des personnes ou des biens.
 
 ***nid*** Tout ou partie du nid d’un oiseau migrateur.
 
 ***oiseau migrateur*** Tout ou partie d’un oiseau migrateur visé à la convention, y compris son sperme et ses oeufs, embryons et cultures tissulaires.
+
+***plate-forme fixe*** Île artificielle ou ouvrage en mer attaché de façon permanente au fond de la mer et destiné à l’exploration, à l’exploitation des ressources ou à d’autres fins économiques.
+
+***propriétaire*** Le propriétaire réel d’un bâtiment non immatriculé ou enregistré et le propriétaire enregistré d’un bâtiment immatriculé ou enregistré.
 
 **Possession**
 
@@ -60,6 +90,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(3)** Il demeure entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la Loi constitutionnelle de 1982.
+> 1994, ch. 22, art. 2; 2005, ch. 23, art. 1
+
+
+
+
+
+## Application
+
+
+
+**Application**
+
+**2.1** La présente loi s’applique à l’ensemble du Canada ainsi qu’à la zone économique exclusive de celui-ci.
+> 2005, ch. 23, art. 2
+
 
 
 
@@ -81,12 +126,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Objet**
 
-**4** La présente loi a pour objet la mise en oeuvre de la convention par la protection des oiseaux migrateurs et de leurs nids.
+**4** La présente loi a pour objet la mise en œuvre de la convention par la protection et la conservation des oiseaux migrateurs — individus et populations — et de leurs nids.
+> 1994, ch. 22, art. 4; 2005, ch. 23, art. 3
 
 
 
 
-## Interdiction
+
+## Interdictions
 
 
 
@@ -95,6 +142,89 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** Sauf conformément aux règlements, nul ne peut, sans excuse valable :
 - **a)** avoir en sa possession un oiseau migrateur ou son nid;
 - **b)** acheter, vendre, échanger ou donner un oiseau migrateur ou son nid, ou en faire le commerce.
+
+
+
+
+**Interdiction**
+
+**5.1** 
+
+- **(1)** Il est interdit à toute personne et à tout bâtiment d’immerger ou de rejeter ou de permettre que soit immergée ou rejetée une substance nocive pour les oiseaux migrateurs dans des eaux ou une région fréquentées par ces oiseaux ou en tout autre lieu à partir duquel la substance pourrait pénétrer dans ces eaux ou cette région.
+
+**Interdiction**
+
+- **(2)** Il est interdit à toute personne et à tout bâtiment d’immerger ou de rejeter ou de permettre que soit immergée ou rejetée une substance qui, mélangée à une ou plusieurs autres substances, résulte en une substance nocive pour les oiseaux migrateurs dans des eaux ou une région fréquentées par ces oiseaux ou en tout autre lieu à partir duquel la substance nocive pourrait pénétrer dans ces eaux ou cette région.
+
+**Exception**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas lorsque, selon le cas :
+	- **a)** l’immersion ou le rejet est autorisé sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
+	- **b)** la nature et la quantité de la substance et les conditions de l’immersion ou du rejet sont autorisées soit sous le régime d’une loi fédérale autre que la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), soit par le ministre à des fins scientifiques.
+> 2005, ch. 23, art. 4
+
+
+
+
+
+**Interdiction**
+
+**5.2** Il est interdit :
+- **a)** de détruire ou faire détruire délibérément un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), ou de les modifier ou faire modifier dans le dessein d’induire en erreur;
+- **b)** de faire ou faire faire de fausses inscriptions dans un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), ou d’omettre ou faire omettre d’y faire une inscription exigée;
+- **c)** d’entraver délibérément l’action de toute personne dans l’exercice de ses fonctions sous le régime de la présente loi ou de toute personne agissant sous sa direction ou son autorité;
+- **d)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse à toute personne dans l’exercice de ses fonctions sous le régime de la présente loi ou à toute personne agissant sous sa direction ou son autorité, ou de leur fournir sciemment des renseignements faux ou trompeurs.
+> 2005, ch. 23, art. 4
+
+
+
+
+
+**Interdiction**
+
+**5.3** 
+
+- **(1)** Il est interdit à l’employeur canadien de congédier un employé, de le suspendre, de le rétrograder, de le punir, de le harceler ou de lui faire subir tout autre inconvénient, ou de le priver d’un avantage lié à son emploi, pour l’une ou l’autre des raisons suivantes :
+	- **a)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a informé un ministre fédéral ou tout membre de l’administration publique fédérale que l’employeur canadien ou une autre personne avait enfreint ou avait l’intention d’enfreindre une disposition de la présente loi ou des règlements;
+	- **b)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à une disposition de la présente loi ou des règlements;
+	- **c)** l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte nécessaire pour empêcher que soit commise une contravention à une disposition de la présente loi ou des règlements;
+	- **d)** l’employeur canadien croit que l’employé accomplira un des actes prévus aux alinéas a), b) et c).
+
+**Définition de employeur canadien**
+
+- **(2)** Au paragraphe (1), ***employeur canadien*** s’entend de l’employeur qui est citoyen canadien, résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne morale constituée sous le régime d’une loi fédérale ou provinciale qui a son principal établissement au Canada.
+
+**Précision**
+
+- **(3)** Le présent article n’a pas pour effet de restreindre les droits de l’employé, que ce soit en général ou dans le cadre d’un contrat de travail ou d’une convention collective.
+
+**Définitions de employé et employeur**
+
+- **(4)** Au présent article, ***employé*** s’entend notamment d’un travailleur autonome et ***employeur*** a un sens correspondant.
+> 2005, ch. 23, art. 4 et 47(A)
+
+
+
+
+
+## Obligations
+
+
+
+**Obligation du capitaine, du propriétaire, etc.**
+
+**5.4** Le capitaine, le mécanicien en chef, le propriétaire et l’exploitant du bâtiment et, dans le cas où le propriétaire ou l’exploitant est une personne morale, les administrateurs et dirigeants de celle-ci qui sont en mesure de diriger ou d’influencer ses orientations ou activités relativement aux actes interdits par l’article 5.1, prennent les mesures voulues pour faire en sorte que le bâtiment et les personnes à bord se conforment à cet article.
+> 2005, ch. 23, art. 4
+
+
+
+
+
+**Obligation des administrateurs et dirigeants**
+
+**5.5** Les administrateurs et dirigeants de la personne morale prennent les mesures voulues pour faire en sorte que celle-ci se conforme à la présente loi et aux règlements.
+> 2005, ch. 23, art. 4
+
 
 
 
@@ -115,7 +245,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présentation du certificat**
 
-- **(3)** Les gardes-chasse sont munis d’un certificat de désignation en la forme approuvée par le ministre qu’ils présentent, sur demande, au responsable ou à l’occupant des lieux qui font l’objet de leur visite.
+- **(3)** Les gardes-chasse sont munis d’un certificat de désignation en la forme approuvée par le ministre qu’ils présentent, sur demande, au responsable des lieux qui font l’objet de leur visite.
 
 **Assimilation à agents de la paix**
 
@@ -125,9 +255,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Pour les enquêtes et autres mesures de contrôle d’application de la loi, le ministre peut, aux conditions qu’il juge nécessaires, soustraire tout garde-chasse agissant dans l’exercice de ses fonctions — ainsi que toute autre personne agissant sous la direction ou l’autorité de celui-ci — à l’application de la présente loi ou des règlements, ou de telle de leurs dispositions.
 
-**Entrave**
+**Arrestation sans mandat**
 
-- **(6)** Il est interdit d’entraver volontairement l’action des gardes-chasse dans l’exercice de leurs fonctions ou de leur faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(6)** Les gardes-chasse peuvent arrêter sans mandat toute personne dont ils ont des motifs raisonnables de croire qu’elle a commis une infraction à la présente loi ou qu’ils prennent en flagrant délit ou sur le point de commettre une telle infraction.
+> 1994, ch. 22, art. 6; 2005, ch. 23, art. 5
+
 
 
 
@@ -136,34 +268,157 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Dans le but de faire observer la présente loi et ses règlements, le garde-chasse peut, à toute heure convenable et sous réserve du paragraphe (3), procéder à la visite de tout lieu s’il a des motifs raisonnables de croire que s’y trouve un objet visé par la présente loi ou les règlements ou un document relatif à l’application de ceux-ci. Il peut en outre :
+- **(1)** Dans le but de vérifier l’observation de la présente loi et des règlements, le garde-chasse peut, à toute heure convenable et sous réserve du paragraphe (3), procéder à la visite de tout lieu — notamment un bâtiment — s’il a des motifs raisonnables de croire que s’y trouve un objet visé par la présente loi ou les règlements ou un document ou des données relatifs à l’application de ceux-ci. Il peut en outre :
 	- **a)** ouvrir ou faire ouvrir tout contenant où, à son avis, se trouve un tel objet ou document;
 	- **b)** examiner tout objet et en prélever, sans compensation, des échantillons;
 	- **c)** exiger la communication du document, pour examen ou reproduction totale ou partielle;
+	- **c.1)** utiliser ou faire utiliser tout ordinateur ou système informatique se trouvant dans le lieu visité pour vérifier les données que celui-ci contient ou auxquelles il donne accès;
+	- **c.2)** à partir de ces données, reproduire ou faire reproduire un document sous forme d’imprimé ou toute autre forme intelligible;
+	- **c.3)** emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **c.4)** utiliser ou faire utiliser le matériel de reproduction se trouvant dans le lieu visité pour faire des copies du document;
 	- **d)** saisir tout objet qui, à son avis, a servi ou donné lieu à une contravention à la présente loi ou à ses règlements ou qui peut servir à la prouver.
 L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
-**Moyens de transport**
+**Devoir du responsable**
 
-- **(2)** Le garde-chasse peut procéder à l’immobilisation du moyen de transport qu’il entend visiter et le faire conduire en tout lieu où il peut effectuer la visite.
+- **(1.1)** Le responsable du lieu visité doit faire en sorte que le garde-chasse, ou la personne agissant sous sa direction ou son autorité, puisse procéder aux opérations mentionnées aux alinéas (1)c.1) à c.4).
+
+**Visite des bâtiments**
+
+- **(1.2)** Dans le but de vérifier l’observation de la présente loi et des règlements, le garde-chasse peut, sous réserve du paragraphe (3), à toute heure convenable, partout dans les eaux canadiennes ou la zone économique exclusive du Canada, visiter un bâtiment et y prendre place si le garde-chasse a des motifs raisonnables de croire que s’y trouve un objet visé par la présente loi ou les règlements ou un document ou des données relatifs à l’application de ceux-ci.
+
+**Prise en charge du garde-chasse**
+
+- **(1.3)** Le garde-chasse et la personne agissant sous sa direction ou son autorité qui prennent place à bord du bâtiment ont droit à la gratuité du transport; en outre, le capitaine est tenu de leur assurer gratuitement repas et hébergement dans des conditions convenables.
+
+**Pouvoirs d’immobilisation et de détention**
+
+- **(2)** Le garde-chasse peut, à toute heure convenable, ordonner l’immobilisation d’un moyen de transport ou son déplacement en un lieu propice pour une inspection, et le retenir pendant un laps de temps raisonnable.
 
 **Local d’habitation**
 
-- **(3)** Dans le cas d’un local d’habitation, le garde-chasse ne peut procéder à la visite sans l’autorisation du responsable ou de l’occupant que s’il est muni d’un mandat de perquisition.
+- **(3)** Dans le cas d’un local d’habitation, le garde-chasse ne peut procéder à la visite sans l’autorisation du responsable que s’il est muni d’un mandat.
 
-**Mandat de perquisition**
+**Mandat autorisant la visite d’un local d’habitation**
 
-- **(4)** Sur demande *ex parte*, le juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, le garde-chasse à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+- **(4)** Sur demande *ex parte*, le juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — peut signer un mandat autorisant, sous réserve des conditions qui y sont prévues, le garde-chasse à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** les circonstances prévues au paragraphe (1) existent;
-	- **b)** la visite est nécessaire pour l’application de la présente loi ou de ses règlements;
-	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+	- **b)** la visite est nécessaire pour l’application de la présente loi ou des règlements;
+	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas;
+	- **d)** le nécessaire a été fait pour aviser le propriétaire ou le responsable du lieu.
+
+**Mandat autorisant la visite d’un lieu autre qu’un local d’habitation**
+
+- **(5)** Sur demande *ex parte*, le juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, le garde-chasse à procéder à la visite d’un lieu autre qu’un local d’habitation, s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+	- **a)** les circonstances prévues au paragraphe (1) existent;
+	- **b)** la visite est nécessaire pour l’application de la présente loi ou des règlements;
+	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas, le garde-chasse ne peut y procéder sans recourir à la force ou encore le lieu est abandonné;
+	- **d)** le nécessaire a été fait pour aviser le propriétaire, l’exploitant ou le responsable du lieu.
+
+**Avis non requis**
+
+- **(6)** Le juge de paix peut supprimer l’obligation prévue aux alinéas (4)d) ou (5)d) d’aviser le propriétaire, l’exploitant ou le responsable du lieu s’il est convaincu soit qu’on ne peut les joindre parce qu’ils se trouvent hors de son ressort, soit qu’il n’est pas dans l’intérêt public de le faire.
+
+**Personne sous la direction du garde-chasse**
+
+- **(7)** Le garde-chasse qui procède à la visite d’un lieu sous le régime du présent article peut se faire accompagner d’une autre personne agissant sous sa direction ou son autorité; celle-ci peut alors pénétrer dans le lieu et y exercer les pouvoirs prévus aux alinéas (1)b) à c.4).
+
+**Usage de la force**
+
+- **(8)** Le garde-chasse ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage.
+
+**Zone économique exclusive**
+
+- **(9)** Les pouvoirs prévus au présent article peuvent être exercés tant au Canada que dans la zone économique exclusive de celui-ci.
+
+**Consentement**
+
+- **(10)** Les pouvoirs prévus au présent article ne peuvent être exercés à l’égard d’un bâtiment étranger dans la zone économique exclusive du Canada qu’avec le consentement du ministre; le consentement du procureur général du Canada n’est toutefois pas requis.
+> 1994, ch. 22, art. 7; 2005, ch. 23, art. 6
+
 
 
 
 
 **Perquisition sans mandat**
 
-**8** Dans le but de faire observer la présente loi et ses règlements, le garde-chasse peut exercer sans mandat les pouvoirs mentionnés à l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en matière de perquisition et de saisie lorsque l’urgence de la situation rend difficilement réalisable l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient réunies.
+**8** Dans le but de faire observer la présente loi et les règlements, le garde-chasse peut exercer sans mandat de perquisition les pouvoirs mentionnés à l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en matière de perquisition et de saisie lorsque l’urgence de la situation rend difficilement réalisable l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient réunies.
+> 1994, ch. 22, art. 8; 2005, ch. 23, art. 7
+
+
+
+
+
+**Ordres aux bâtiments**
+
+**8.1** 
+
+- **(1)** Le garde-chasse qui a des motifs raisonnables de croire qu’un bâtiment ou une personne à son bord a commis, est en train de commettre ou est sur le point de commettre, dans les eaux canadiennes, une infraction à l’article 5.1 et que le bâtiment a été ou est utilisé, ou est sur le point d’être utilisé dans le cadre de la perpétration de l’infraction peut ordonner au bâtiment de se rendre en un lieu dans les eaux canadiennes ou la zone économique exclusive du Canada ou ordonner la détention du bâtiment, ou donner les deux ordres à la fois.
+
+**Ordres aux bâtiments**
+
+- **(2)** Le garde-chasse peut ordonner à tout bâtiment de se rendre en un lieu dans les eaux canadiennes ou la zone économique exclusive du Canada ou ordonner la détention du bâtiment, ou donner les deux ordres à la fois, s’il a des motifs raisonnables de croire :
+	- **a)** que le bâtiment ou une personne à son bord a commis, est en train de commettre ou est sur le point de commettre, dans la zone économique exclusive du Canada, une infraction à l’article 5.1 et que le bâtiment a été ou est utilisé, ou est sur le point d’être utilisé dans le cadre de la perpétration de l’infraction;
+	- **b)** que la perpétration de l’infraction entraînera des dommages importants à l’environnement, au Canada ou dans la zone économique exclusive de celui-ci, ou une menace réelle de tels dommages.
+
+**Interprétation**
+
+- **(3)** Il est entendu que l’immersion ou le rejet d’une substance en contravention à l’article 5.1 peut causer des dommages importants à l’environnement si, combiné à d’autres immersions ou rejets effectués en contravention à cet article par des personnes ou des bâtiments, il a un effet cumulatif.
+
+**Ordre écrit**
+
+- **(4)** L’ordre de détention est adressé par écrit à quiconque a, dans le lieu précisé dans l’ordre, le pouvoir de donner congé au bâtiment.
+
+**Signification**
+
+- **(5)** Un avis de l’ordre de détention est signifié au capitaine du bâtiment qui en fait l’objet par signification à personne d’un exemplaire ou, si la signification à personne ne peut raisonnablement se faire, par affichage d’un exemplaire à un endroit bien en vue sur le bâtiment.
+
+**Obligation de l’exploitant du bâtiment**
+
+- **(6)** Dès que l’avis de l’ordre de détention a été signifié au capitaine, il est interdit au capitaine, au propriétaire et à l’exploitant d’ordonner que le bâtiment contrevienne à l’ordre.
+
+**Obligation des personnes qui ont le pouvoir de donner congé**
+
+- **(7)** Sous réserve du paragraphe (8), il est interdit à quiconque a reçu l’avis de l’ordre de détention de donner congé au bâtiment.
+
+**Congé**
+
+- **(8)** Quiconque a reçu l’avis de l’ordre de détention peut donner congé au bâtiment si, selon le cas :
+	- **a)** aucune personne ni aucun bâtiment n’a été accusé, dans les trente jours suivant la prise de l’ordre, de l’infraction qui a donné lieu à l’ordre;
+	- **b)** dans les trente jours suivant la prise de l’ordre, une personne ou le bâtiment a été accusé de cette infraction et chaque accusé a comparu au Canada pour répondre à l’accusation;
+	- **c)** est remis à Sa Majesté du chef du Canada le cautionnement — dont la forme est déterminée par le procureur général du Canada — pour le paiement soit de l’amende maximale susceptible d’être imposée à chaque accusé en cas de déclaration de culpabilité et des autres frais engendrés par le procès, soit d’une somme inférieure approuvée par le procureur général du Canada;
+	- **d)** il y a désistement de toutes les poursuites relatives à l’infraction qui a donné lieu à l’ordre;
+	- **e)** l’ordre a été annulé par un garde-chasse.
+
+**Consentement du procureur général du Canada**
+
+- **(9)** Les pouvoirs visés aux paragraphes (1) et (2) ne peuvent être exercés dans la zone économique exclusive du Canada à l’égard d’un bâtiment étranger sans le consentement du procureur général du Canada.
+
+**Notification à l’État étranger**
+
+- **(10)** Si le bâtiment visé par l’ordre de détention est immatriculé dans un État étranger, celui-ci est informé du fait que l’ordre a été rendu.
+> 2005, ch. 23, art. 7
+
+
+
+
+
+**Droit de passage**
+
+**8.2** La personne qui exerce des fonctions au titre de la présente loi, ainsi que toute personne agissant sous sa direction ou son autorité, peuvent pénétrer dans une propriété privée et y circuler sans encourir de poursuites à cet égard et sans que personne puisse s’y opposer.
+> 2005, ch. 23, art. 7
+
+
+
+
+
+**Assistance au garde-chasse**
+
+**8.3** Le propriétaire, l’exploitant ou le responsable du lieu visité en application de la présente loi, ainsi que quiconque s’y trouve, sont tenus :
+- **a)** de prêter au garde-chasse et à toute personne agissant sous sa direction ou son autorité toute l’assistance possible pour permettre au garde-chasse d’exercer ses fonctions;
+- **b)** de donner au garde-chasse et à toute personne agissant sous sa direction ou son autorité les renseignements que le garde-chasse peut valablement exiger quant à l’exécution de la présente loi et des règlements.
+> 2005, ch. 23, art. 7
+
 
 
 
@@ -236,8 +491,12 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 	- **f)** régir la délivrance, le renouvellement, l’annulation et la suspension des permis;
 	- **g)** régir l’envoi et l’acheminement hors d’une province d’oiseaux migrateurs et prévoir les conditions applicables au commerce international de ces oiseaux;
 	- **h)** viser l’interdiction de tuer, de capturer, de blesser, de prendre ou de déranger des oiseaux migrateurs, ou d’endommager, de détruire, d’enlever ou de déranger leurs nids;
+	- **h.1)** prévoir les conditions et modalités pour tuer, capturer, blesser, prendre ou déranger des oiseaux migrateurs, ou pour endommager, détruire, enlever ou déranger leurs nids;
 	- **i)** établir des zones de protection pour les oiseaux migrateurs et leurs nids et en prévoir la surveillance et la gestion;
+	- **i.1)** régir les documents et les données que doit tenir ou fournir toute personne ou tout bâtiment ou toute catégorie de personnes ou de bâtiments dans le cadre de la présente loi;
+	- **i.2)** soustraire à l’application de toute disposition de la présente loi ou des règlements tout bâtiment de guerre, tout bâtiment de guerre auxiliaire ou tout bâtiment appartenant à un État ou exploité par un État et utilisé exclusivement à des fins d’intérêt public et non commerciales;
 	- **j)** prévoir l’imposition de redevances pour les baux ainsi que pour les permis, timbres et autres autorisations préalables à l’exercice d’activités dans le cadre de la présente loi et de ses règlements, de même que la fixation de leur montant et des conditions de leur paiement;
+	- **j.1)** définir, pour l’application de la présente loi, les termes non définis par celle-ci qui y figurent;
 	- **k)** autoriser le ministre à modifier ou à suspendre l’application de tout règlement pris en vertu de la présente loi si celui-ci le juge nécessaire à la conservation des oiseaux migrateurs.
 
 **Modification de la convention**
@@ -247,7 +506,7 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Débat à la Chambre des communes**
 
 - **(3)** Les modifications déposées devant le Sénat et la Chambre des communes en vertu du paragraphe (2) font l’objet d’un débat à la Chambre des communes dans les vingt jours de séance suivant leur dépôt devant les deux chambres.
-> 1994, ch. 22, art. 12; 2001, ch. 34, art. 53(A)
+> 1994, ch. 22, art. 12; 2001, ch. 34, art. 53(A); 2005, ch. 23, art. 8
 
 
 
@@ -257,17 +516,55 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
 
 
-**Infractions**
+**Contraventions à la loi ou aux règlements**
 
 **13** 
 
-- **(1)** Quiconque contrevient à l’article 5, au paragraphe 6(6) ou aux règlements commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire :
-		- **(i)** dans le cas d’une personne morale, une amende maximale de 100 000 $,
-		- **(ii)** dans le cas d’une personne physique, une amende maximale de 50 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
-	- **b)** par mise en accusation :
-		- **(i)** dans le cas d’une personne morale, une amende maximale de 250 000 $,
-		- **(ii)** dans le cas d’une personne physique, une amende maximale de 100 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
+- **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
+	- **a)** à la présente loi ou aux règlements;
+	- **b)** à toute obligation ou interdiction découlant de la présente loi ou des règlements;
+	- **c)** à tout ordre donné en application de la présente loi;
+	- **d)** à toute ordonnance ou décision judiciaire rendue en application de la présente loi.
+
+**Peines**
+
+- **(1.1)** L’auteur de l’infraction encourt, sur déclaration de culpabilité :
+	- **a)** par mise en accusation, une amende maximale de 1 000 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines;
+	- **b)** par procédure sommaire, une amende maximale de 300 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+**Bâtiment qui jauge 5 000 tonnes ou plus**
+
+- **(1.11)** Dans le cas d’une infraction à l’article 5.1 commise par un bâtiment qui jauge 5 000 tonnes ou plus de port en lourd :
+	- **a)** l’amende imposée en vertu de l’alinéa (1.1)a) ne peut être inférieure à 500 000 $;
+	- **b)** l’amende imposée en vertu de l’alinéa (1.1)b) ne peut être inférieure à 100 000 $.
+
+**Participants à l’infraction**
+
+- **(1.2)** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue, que la personne morale ait été ou non poursuivie.
+
+**Preuve : personnes morales**
+
+- **(1.3)** Dans les poursuites contre une personne morale pour une infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d) ou aux articles 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé ou son mandataire, que cet employé ou mandataire soit ou non identifié ou poursuivi.
+
+**Preuve : bâtiments**
+
+- **(1.4)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d), il suffit, pour établir la culpabilité du bâtiment, de prouver que l’infraction a été commise par une personne à bord, que cette personne soit ou non identifiée ou poursuivie.
+
+**Preuve des ordres**
+
+- **(1.5)** Dans le cas de poursuites pour omission de se conformer à un ordre donné sous le régime de la présente loi, l’ordre donné au capitaine ou à un membre d’équipage est réputé avoir été donné au bâtiment.
+
+**Preuve**
+
+- **(1.6)** Dans les poursuites contre le capitaine ou le mécanicien en chef d’un bâtiment pour infraction à la présente loi autre que la contravention aux alinéas 5.2a), c) ou d) ou aux articles 5.3, 5.4 ou 5.5, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par une personne à bord du bâtiment, que cette personne soit ou non identifiée ou poursuivie.
+
+**Preuve**
+
+- **(1.7)** Dans les poursuites intentées pour contravention à l’article 5.4, il suffit, pour établir la culpabilité de l’accusé, de prouver que le bâtiment a procédé à l’immersion ou au rejet d’une substance en contravention à l’article 5.1.
+
+**Disculpation**
+
+- **(1.8)** La personne ou le bâtiment ne peut être déclaré coupable d’une infraction à la présente loi, autre que la contravention aux alinéas 5.2a), c) ou d) ou à l’article 5.3, s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
 
 **Récidive**
 
@@ -281,9 +578,25 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
 - **(4)** En cas de déclaration de culpabilité pour une infraction portant sur plusieurs oiseaux migrateurs ou nids, l’amende peut être calculée sur chacun d’eux, comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende finale infligée est alors la somme totale obtenue.
 
+**Facteurs à considérer**
+
+- **(4.1)** Le tribunal détermine la peine à infliger compte tenu — en plus des principes qu’il doit prendre en considération — des facteurs suivants :
+	- **a)** le dommage ou le risque de dommage que cause l’infraction;
+	- **b)** le caractère intentionnel, imprudent ou fortuit de l’infraction;
+	- **c)** la conclusion du tribunal selon laquelle le contrevenant a fait preuve d’incompétence, de négligence ou d’insouciance;
+	- **d)** tout avantage procuré par la perpétration de l’infraction;
+	- **e)** tout élément de preuve l’incitant raisonnablement à croire que le contrevenant a, dans le passé, accompli des actes contraires à la présente loi ou aux règlements;
+	- **f)** l’examen de toutes les sanctions applicables qui sont justifiées dans les circonstances, plus particulièrement en ce qui concerne les délinquants autochtones.
+
 **Amende supplémentaire**
 
-- **(5)** Le tribunal saisi d’une poursuite pour infraction à la présente loi peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de celle-ci, lui infliger, en sus du maximum prévu, le montant qu’il juge correspondre à ces avantages, à titre d’amende supplémentaire.
+- **(5)** Le tribunal saisi d’une poursuite pour infraction à la présente loi peut, s’il constate que le contrevenant ou, dans le cas où le contrevenant est un bâtiment, le propriétaire ou l’exploitant de celui-ci a tiré des avantages financiers de la perpétration de l’infraction ou qu’il a causé une perte financière à autrui du fait de sa perpétration, infliger au contrevenant, en sus de l’amende maximale prévue par la présente loi, une amende supplémentaire correspondant à son évaluation de ces avantages ou de cette perte.
+
+**Affectation**
+
+- **(6)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi le sont à des fins particulières liées à la protection et à la conservation des oiseaux migrateurs ou de l’environnement et sont portées au crédit du Fonds pour dommages à l’environnement, ouvert parmi les comptes du Canada.
+> 1994, ch. 22, art. 13; 2005, ch. 23, art. 9
+
 
 
 
@@ -297,6 +610,8 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Restitution d’un objet non confisqué**
 
 - **(2)** Si le tribunal ne prononce pas la confiscation, les objets saisis, ou le produit de leur aliénation, sont restitués à leur propriétaire légitime ou à la personne qui a légitimement droit à leur possession.
+> 1994, ch. 22, art. 14; 2005, ch. 23, art. 10(A)
+
 
 
 
@@ -304,21 +619,52 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Rétention ou vente**
 
 **15** En cas de déclaration de culpabilité, les objets saisis, ou le produit de leur aliénation, peuvent être retenus jusqu’au paiement de l’amende; ces objets peuvent, s’ils ne l’ont pas déjà été, être vendus et le produit de leur aliénation affecté en tout ou en partie au paiement de l’amende.
+> 1994, ch. 22, art. 15; 2005, ch. 23, art. 11(A)
+
 
 
 
 
 **Ordonnance du tribunal**
 
-**16** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant au contrevenant tout ou partie des obligations suivantes :
-- **a)** s’abstenir de tout acte ou activité risquant d’entraîner, à son avis, la continuation de l’infraction ou la récidive;
-- **b)** prendre les mesures qu’il estime indiquées pour réparer ou éviter les dommages aux oiseaux migrateurs ou aux nids résultant ou pouvant résulter de la perpétration de l’infraction;
-- **c)** publier, de la façon indiquée par lui, les faits liés à la perpétration de l’infraction;
-- **d)** indemniser le ministre ou le gouvernement de la province, en tout ou en partie, des frais supportés pour la réparation ou la prévention des dommages résultant ou pouvant résulter de la perpétration de l’infraction;
-- **e)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
-- **f)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant la déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime justifiés en l’occurrence;
-- **g)** satisfaire aux autres exigences qu’il estime justifiées pour assurer sa bonne conduite et empêcher toute récidive;
-- **h)** en garantie de l’exécution des obligations imposées au titre du présent article, fournir le cautionnement ou déposer auprès de lui le montant qu’il estime indiqué.
+**16** 
+
+- **(1)** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant au contrevenant tout ou partie des obligations suivantes :
+	- **a)** s’abstenir de tout acte ou activité risquant d’entraîner, à son avis, la continuation de l’infraction ou la récidive;
+	- **b)** prendre les mesures qu’il estime indiquées pour réparer ou éviter les dommages aux oiseaux migrateurs ou aux nids résultant ou pouvant résulter de la perpétration de l’infraction;
+	- **b.1)** faire effectuer, à des moments déterminés, une vérification environnementale par une personne appartenant à une catégorie de personnes désignée, et prendre les mesures propres à remédier aux défauts constatés;
+	- **c)** publier, de la façon indiquée par lui, les faits liés à la perpétration de l’infraction;
+	- **d)** indemniser le ministre ou le gouvernement de la province, en tout ou en partie, des frais supportés pour la réparation ou la prévention des dommages résultant ou pouvant résulter de la perpétration de l’infraction;
+	- **d.1)** verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre des recherches sur la protection des populations d’oiseaux migrateurs à l’égard desquelles l’infraction a été commise;
+	- **d.2)** verser à un établissement d’enseignement, selon les modalités prescrites par le tribunal, une somme d’argent destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+	- **e)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
+	- **f)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant la déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime justifiés en l’occurrence;
+	- **g)** satisfaire aux autres exigences qu’il estime justifiées pour assurer sa bonne conduite et empêcher toute récidive;
+	- **h)** en garantie de l’exécution des obligations imposées au titre du présent article, fournir le cautionnement ou déposer auprès de lui le montant qu’il estime indiqué.
+
+**Indemnisation**
+
+- **(2)** Le tribunal peut en outre ordonner au contrevenant d’indemniser la victime qui le demande — à l’exception du propriétaire ou de l’exploitant du bâtiment dans le cas où celui-ci est le contrevenant —, de toute perte financière résultant de l’infraction.
+
+**Exécution**
+
+- **(3)** À défaut de paiement immédiat de l’indemnité, la victime peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question et ce jugement peut être exécuté contre le contrevenant de la même manière que s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+
+**Ordonnance de modification des sanctions**
+
+- **(4)** Le tribunal qui a rendu une ordonnance en vertu du paragraphe (1) peut, sur demande du procureur général du Canada ou du contrevenant, accepter de faire comparaître celui-ci et, après avoir entendu les observations de l’un et l’autre, modifier l’ordonnance selon ce qui est applicable en l’espèce et lui paraît justifié par tout changement dans la situation du contrevenant :
+	- **a)** soit en modifiant son contenu ou ses conditions ou en prolongeant sa validité, sans toutefois excéder un an;
+	- **b)** soit en raccourcissant sa période de validité ou en dégageant le contrevenant, absolument ou partiellement ou pour une durée limitée, de l’obligation de se conformer à telle de ses conditions.
+
+**Préavis**
+
+- **(5)** Avant de rendre une ordonnance en vertu du paragraphe (4), le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
+
+**Restriction**
+
+- **(6)** Après audition de la demande visée au paragraphe (4), toute nouvelle demande au titre de ce paragraphe est subordonnée à l’autorisation du tribunal.
+> 1994, ch. 22, art. 16; 2005, ch. 23, art. 12
+
 
 
 
@@ -332,7 +678,26 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Prononcé de la peine**
 
 - **(2)** Sur demande de la poursuite, le tribunal peut, lorsque la personne visée par l’ordonnance ne se conforme pas aux modalités de celle-ci ou est déclarée coupable d’une autre infraction à la présente loi dans les trois ans suivant la date de l’ordonnance, prononcer la peine qui aurait pu lui être infligée s’il n’y avait pas eu sursis.
-> 1994, ch. 22, art. 17; 1995, ch. 22, art. 18
+> 1994, ch. 22, art. 17; 1995, ch. 22, art. 18; 2005, ch. 23, art. 13(A)
+
+
+
+
+
+**Absence d’effet sur les recours civils**
+
+**17.1** 
+
+- **(1)** Le simple fait qu’un comportement constitue une infraction à la présente loi n’a aucun effet, suspensif ou autre, sur d’éventuels recours civils.
+
+**Absence d’effet sur l’existence de recours**
+
+- **(2)** La présente loi n’a pas pour effet de porter atteinte aux recours éventuels prévus par le droit en vigueur au Canada.
+
+**Dommage causé par un bâtiment**
+
+- **(3)** Le tribunal ne peut rendre l’ordonnance visée à l’alinéa 16(1)d) ou au paragraphe 16(2) à l’égard du dommage causé par un bâtiment si le ministre, le gouvernement ou la victime qui bénéficierait de l’ordonnance peut présenter une demande d’indemnisation à l’égard de ce dommage en vertu de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) ou de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md).
+> 2005, ch. 23, art. 14
 
 
 
@@ -351,6 +716,113 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 **Ministre provincial**
 
 - **(3)** Pour l’application du présent article, toute référence au ministre peut également viser le ministre responsable de la protection des espèces sauvages de la province où l’infraction aurait été commise.
+
+
+
+
+**Documents et données**
+
+**18.1** Dans les poursuites engagées sous le régime de la présente loi, les documents ou données dont celle-ci ou la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) exige la tenue sont admissibles en preuve et font foi, sauf preuve contraire, de leur contenu.
+> 2005, ch. 23, art. 15
+
+
+
+
+
+**Certificat de l’analyste**
+
+**18.2** 
+
+- **(1)** Dans les poursuites pour infraction à la présente loi, le certificat paraissant signé par l’analyste, où il est déclaré que celui-ci a analysé ou examiné tel article, tel échantillon ou telle substance et où sont donnés ses résultats, est admissible en preuve et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+**Présence de l’analyste**
+
+- **(2)** La partie contre laquelle est produit le certificat peut, avec l’autorisation du tribunal, exiger la présence de l’analyste pour contre-interrogatoire.
+
+**Préavis**
+
+- **(3)** Le certificat n’est recevable en preuve que si la partie qui entend le produire donne de son intention à la partie qu’elle vise, avant le procès, un préavis suffisant, accompagné d’une copie du certificat.
+
+**Preuve de signification**
+
+- **(4)** La signification du certificat peut être prouvée oralement sous serment, par affidavit ou par déclaration solennelle de la personne qui a effectué la signification.
+
+**Présence pour interrogatoire**
+
+- **(5)** Malgré le paragraphe (4), le tribunal peut exiger que la personne qui a signé l’affidavit ou la déclaration solennelle se présente devant lui pour interrogatoire ou contre-interrogatoire à l’égard de la preuve de la signification.
+
+**Définition de analyste**
+
+- **(6)** Pour l’application du présent article, ***analyste*** s’entend de toute personne qu’un laboratoire ou centre de recherche reconnaît apte à faire l’analyse ou l’examen dont fait état le certificat.
+> 2005, ch. 23, art. 15
+
+
+
+
+
+## Application du droit criminel
+
+
+
+**Infractions réputées commises au Canada**
+
+**18.3** 
+
+- **(1)** Tout fait — acte ou omission — commis dans la zone économique exclusive du Canada est réputé commis au Canada dans le cas où il constitue une infraction sous le régime de la présente loi ou dans le cas où il est commis à l’endroit de toute personne exerçant des fonctions ou des pouvoirs au titre de la présente loi ou de toute personne agissant sous sa direction ou son autorité ou par l’une ou l’autre de ces personnes et constituerait, s’il était commis au Canada, une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Infractions réputées commises au Canada**
+
+- **(2)** Tout fait — acte ou omission — commis en tout lieu en mer, exception faite de la mer territoriale et des eaux intérieures d’un État étranger, en cas de poursuite immédiate d’un bâtiment entamée dans les eaux canadiennes ou la zone économique exclusive du Canada, est réputé commis au Canada dans le cas où, d’une part, il constituerait une infraction sous le régime de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’il était commis au Canada et, d’autre part, s’agissant de l’infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), il a été commis à l’endroit de toute personne exerçant des fonctions ou des pouvoirs au titre de la présente loi ou de toute personne agissant sous sa direction ou son autorité ou par l’une ou l’autre de ces personnes.
+
+**Exercice des pouvoirs d’arrestation, de visite, etc.**
+
+- **(3)** Les pouvoirs — notamment en matière d’arrestation, de visite, de perquisition ou de saisie — pouvant être exercés au Canada à l’égard d’une infraction sous le régime de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peuvent l’être, à l’égard de l’infraction visée au paragraphe (1), dans la zone économique exclusive du Canada et, à l’égard de l’infraction visée au paragraphe (2), en tout lieu en mer, exception faite de la mer territoriale et des eaux intérieures d’un État étranger.
+
+**Consentement du procureur général du Canada**
+
+- **(4)** Les pouvoirs visés au paragraphe (3) ne peuvent être exercés à l’égard d’un bâtiment étranger ou d’un étranger se trouvant à bord d’un tel bâtiment sans le consentement du procureur général du Canada.
+
+**Pouvoir des tribunaux**
+
+- **(5)** Tout juge de paix — au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou tout juge, quelle que soit sa circonscription territoriale au Canada, a compétence pour autoriser toute arrestation, visite, perquisition, fouille ou saisie à l’égard de l’infraction visée aux paragraphes (1) ou (2) comme si l’infraction avait été commise dans sa circonscription territoriale.
+
+**Consentement du procureur général**
+
+- **(6)** Il est mis fin aux poursuites ayant trait à l’infraction visée aux paragraphes (1) ou (2) dans le cas où l’accusé est un bâtiment étranger ou un étranger qui se trouvait à bord d’un tel bâtiment au moment où l’infraction a été commise, à moins que le procureur général du Canada ne consente à leur continuation au plus tard huit jours après qu’elles ont été intentées.
+> 2005, ch. 23, art. 15
+
+
+
+
+
+**Lieu où les poursuites sont intentées**
+
+**18.4** L’infraction visée aux paragraphes 18.3(1) ou (2) peut être poursuivie dans toute circonscription territoriale du Canada, que l’accusé se trouve ou non au Canada; l’accusé peut être jugé et puni comme si l’infraction avait été commise dans cette circonscription.
+> 2005, ch. 23, art. 15
+
+
+
+
+
+**Poursuites contre les bâtiments**
+
+**18.5** 
+
+- **(1)** Les dispositions de la présente loi et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) applicables aux personnes relativement aux actes criminels ou aux infractions punissables par procédure sommaire s’appliquent, avec les adaptations nécessaires, aux bâtiments.
+
+**Signification au bâtiment et comparution**
+
+- **(2)** La signification au bâtiment accusé d’une infraction à la présente loi se fait par remise de la citation à comparaître au capitaine ou à un officier du bâtiment ou par son affichage à un endroit bien en vue sur celui-ci.
+
+**Comparution**
+
+- **(3)** Le bâtiment cité comparaît par avocat ou représentant. En cas de non-comparution du bâtiment, la juridiction saisie peut, sur preuve de la signification, procéder par défaut.
+
+**Procédure engagée par mise en accusation**
+
+- **(4)** Il est entendu que le paragraphe (3) s’applique aux procédures engagées par mise en accusation.
+> 2005, ch. 23, art. 15
+
 
 
 
@@ -393,6 +865,32 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 	- **a)** les infractions visées par le présent article ainsi que leur désignation dans le formulaire de contravention;
 	- **b)** le montant de l’amende afférente, jusqu’à concurrence de 1 000 $.
 > 1994, ch. 22, art. 19; 2003, ch. 22, art. 224(A)
+
+
+
+
+
+## Communication de renseignements
+
+
+
+**Cas de communication**
+
+**19.1** 
+
+- **(1)** Sous réserve de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), les renseignements obtenus sous le régime de la présente loi peuvent être communiqués :
+	- **a)** dans la mesure nécessaire à l’application ou au contrôle d’application de la présente loi;
+	- **b)** pour informer une autre partie à la convention des urgences environnementales qui se sont produites ou de tout risque pour l’environnement;
+	- **c)** pour informer le public des urgences environnementales qui se sont produites ou de tout risque pour l’environnement qui pourraient porter atteinte à la santé ou la sécurité publiques;
+	- **d)** dans le cadre d’un accord ou arrangement conclu entre le gouvernement fédéral ou une de ses institutions et tout autre gouvernement au Canada ou à l’étranger, ou toute organisation internationale ou une de leurs institutions, ou entre le ministre et un autre ministre fédéral et visant :
+		- **(i)** soit l’application ou le contrôle d’application d’une règle de droit,
+		- **(ii)** soit l’accomplissement des obligations qui incombent à une partie à la convention aux termes de celle-ci,
+		- **(iii)** soit à l’exécution de travaux de recherche ou de statistique relativement à la protection et à la conservation des oiseaux migrateurs.
+
+**Immunité**
+
+- **(2)** Malgré toute autre loi fédérale, les ministres fédéraux ainsi que les personnes qui agissent au nom ou sur l’ordre d’un ministre fédéral, de la Couronne ou d’une institution fédérale bénéficient de l’immunité en matière civile ou pénale, et la Couronne et les institutions fédérales bénéficient de l’immunité devant toute juridiction, pour la communication totale ou partielle de renseignements faite de bonne foi dans le cadre de la présente loi ainsi que pour les conséquences qui en découlent.
+> 2005, ch. 23, art. 16
 
 
 
