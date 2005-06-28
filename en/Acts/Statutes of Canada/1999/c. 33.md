@@ -11,12 +11,12 @@ Assented to on 14 September 1999
 
 
 
-Declaration
+
+**Declaration**
 
 It is hereby declared that the protection of the environment is essential to the well-being of Canadians and that the primary purpose of this Act is to contribute to sustainable development through pollution prevention.
 
-
-**Preamble**
+Preamble
 
 Whereas the Government of Canada seeks to achieve sustainable development that is based on an ecologically efficient use of natural, social and economic resources and acknowledges the need to integrate environmental, economic and social factors in the making of all decisions by government and private entities;
 
@@ -2662,7 +2662,7 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 
 **DIVISION 1** 
-### NUTRIENTS
+### Nutrients
 
 
 
@@ -2731,7 +2731,7 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 
 **DIVISION 2** 
-### PROTECTION OF THE MARINE ENVIRONMENT FROM LAND-BASED SOURCES OF POLLUTION
+### Protection of the Marine Environment from Land-based Sources of Pollution
 
 
 
@@ -2771,7 +2771,7 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 
 **DIVISION 3** 
-### DISPOSAL AT SEA
+### Disposal at Sea
 
 
 
@@ -2800,22 +2800,23 @@ Version anglaise seulement***condition*** means, in respect of a permit, any ter
 ***Convention*** means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time.
 
 ***disposal*** means
-- **(a)** the deliberate disposal of a substance at sea from a ship, an aircraft, a platform or another structure,
-- **(b)** the deliberate disposal of dredged material into the sea from any source not mentioned in paragraph (a),
+- **(a)** the disposal of a substance at sea from a ship, an aircraft, a platform or another structure,
+- **(b)** the disposal of dredged material into the sea from any source not mentioned in paragraph (a),
 - **(c)** the storage on the seabed, in the subsoil of the seabed or on the ice in any area of the sea of a substance that comes from a ship, an aircraft, a platform or another structure,
-- **(d)** the disposal of a substance by placing it on the ice in an area of the sea,
-- **(e)** the deliberate disposal at sea of a ship or aircraft, and
-- **(f)** the deliberate disposal or abandonment at sea of a platform or another structure,
+- **(d)** the deposit of a substance on the ice in an area of the sea,
+- **(e)** the disposal at sea of a ship or aircraft,
+- **(f)** the disposal or abandonment at sea of a platform or another structure, and
+- **(g)** any other act or omission that constitutes a disposal under regulations made under paragraph 135(3)(c),
 
 but does not include
-- **(g)** a disposal that is incidental to or derived from the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure, other than the disposal of substances from a ship, an aircraft, a platform or another structure operated for the purpose of disposing of such substances at sea,
-- **(h)** the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol,
-- **(i)** the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or
-- **(j)** a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources.
+- **(h)** a disposal of a substance that is incidental to or derived from the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure, other than the disposal of substances from a ship, an aircraft, a platform or another structure operated for the purpose of disposing of such substances at sea,
+- **(i)** the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol,
+- **(j)** the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or
+- **(k)** a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources.
 
-***incineration*** means the deliberate combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction.
+***incineration*** means the combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction.
 
-***master*** includes every person who has command or charge of a ship but does not include a pilot.
+***master*** means the person in command or charge of a ship, but does not include a licensed pilot, within the meaning of section 2 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md).
 
 ***owner***, in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure.
 
@@ -2839,6 +2840,21 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(e)** an area of the sea adjacent to the areas referred to in paragraphs (a) to (d) that is specified under paragraph 135(1)(g);
 	- **(f)** an area of the sea under the jurisdiction of a foreign state, other than its internal waters; and
 	- **(g)** an area of the sea, other than the internal waters of a foreign state, not included in the areas of the sea referred to in paragraphs (a) to (f).
+> 1999, c. 33, s. 122; 2005, c. 23, s. 18.
+
+
+
+
+
+#### Purpose
+
+
+
+**Purpose**
+
+**122.1** The purpose of this Division is to protect the marine environment, particularly by implementing the Convention and the Protocol.
+> 2005, c. 23, s. 19.
+
 
 
 
@@ -2851,11 +2867,13 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **123** 
 
-- **(1)** No person shall import a substance for disposal in an area of the sea referred to in any of paragraphs 122(2)(a) to (e).
+- **(1)** No person or ship shall import a substance for disposal in an area of the sea referred to in any of paragraphs 122(2)(a) to (e).
 
 **Export for disposal in waters under foreign jurisdiction**
 
-- **(2)** No person shall export a substance for disposal in an area of the sea under the jurisdiction of a foreign state or its internal waters.
+- **(2)** No person or ship shall export a substance for disposal in an area of the sea under the jurisdiction of a foreign state or in its internal waters.
+> 1999, c. 33, s. 123; 2005, c. 23, s. 20.
+
 
 
 
@@ -2865,6 +2883,12 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **124** 
 
 - **(1)** No person shall, in Canada, load a substance onto any ship, aircraft, platform or other structure for the purpose of disposal in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) and (g) unless
+	- **(a)** the substance is waste or other matter; and
+	- **(b)** the loading is done in accordance with a Canadian permit.
+
+**Loading in Canada for disposal at sea**
+
+- **(1.1)** No ship shall, in Canada, load a substance onto itself for the purpose of disposal in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) and (g) unless
 	- **(a)** the substance is waste or other matter; and
 	- **(b)** the loading is done in accordance with a Canadian permit.
 
@@ -2887,6 +2911,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(d)** if the disposal occurs in an area of the sea referred to in paragraph 122(2)(g) and the loading occurs in the territory of a foreign state that is not a contracting party, the loading and disposal are done in accordance with a Canadian permit;
 	- **(e)** if the disposal occurs in an area of the sea under the jurisdiction of a foreign state that is a contracting party, the loading and disposal are done in accordance with a permit issued under the Convention or the Protocol by that state; and
 	- **(f)** if the disposal occurs in an area of the sea under the jurisdiction of a foreign state that is not a contracting party, the loading is done in accordance with a Canadian permit and the disposal is authorized by that state.
+> 1999, c. 33, s. 124; 2005, c. 23, s. 21.
+
 
 
 
@@ -2895,7 +2921,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **125** 
 
-- **(1)** No person shall dispose of a substance in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) unless
+- **(1)** No person or ship shall dispose of a substance in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) unless
 	- **(a)** the substance is waste or other matter; and
 	- **(b)** the disposal is done in accordance with a Canadian permit.
 
@@ -2905,9 +2931,23 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(a)** the substance is waste or other matter; and
 	- **(b)** the disposal is done in accordance with a Canadian permit or, if the substance was loaded in the territory of a state that is a contracting party, a permit issued under the Convention or the Protocol by that state.
 
+**Disposal by Canadian ship in waters that are not under the jurisdiction of any state**
+
+- **(2.1)** No Canadian ship shall dispose of a substance in an area of the sea referred to in paragraph 122(2)(g) unless
+	- **(a)** the substance is waste or other matter; and
+	- **(b)** the disposal is done in accordance with a Canadian permit or, if the substance was loaded in the territory of a state that is a contracting party, a permit issued under the Convention or the Protocol by that state.
+
 **Disposal from Canadian ship, etc., in waters under foreign jurisdiction**
 
 - **(3)** No person shall dispose of a substance from a Canadian ship, a Canadian aircraft or a Canadian platform or other structure in an area of the sea referred to in paragraph 122(2)(f) unless
+	- **(a)** the substance is waste or other matter;
+	- **(b)** the substance was loaded in the foreign state that has jurisdiction over that area;
+	- **(c)** if the foreign state is a contracting party, the disposal is done in accordance with a permit issued under the Convention or the Protocol by that contracting party; and
+	- **(d)** if the foreign state is not a contracting party, that state has authorized the disposal and it is done in accordance with a Canadian permit.
+
+**Disposal by Canadian ship in waters under foreign jurisdiction**
+
+- **(3.1)** No Canadian ship shall dispose of a substance in an area of the sea referred to in paragraph 122(2)(f) unless
 	- **(a)** the substance is waste or other matter;
 	- **(b)** the substance was loaded in the foreign state that has jurisdiction over that area;
 	- **(c)** if the foreign state is a contracting party, the disposal is done in accordance with a permit issued under the Convention or the Protocol by that contracting party; and
@@ -2923,6 +2963,12 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(a)** if the foreign state that has jurisdiction over that area is a contracting party, the disposal is done in accordance with a permit issued under the Convention or the Protocol by that contracting party; and
 	- **(b)** if the foreign state that has jurisdiction over that area is not a contracting party, that state has authorized the disposal and it is done in accordance with a Canadian permit.
 
+**Exception**
+
+- **(6)** This section does not apply in respect of any disposal that is authorized under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md).
+> 1999, c. 33, s. 125; 2005, c. 23, s. 22.
+
+
 
 
 
@@ -2934,11 +2980,25 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(a)** the substance is waste generated on board the ship, platform or other structure during normal operations; or
 	- **(b)** the incineration is done in accordance with a permit issued under subsection 128(2).
 
+**Incineration by ship**
+
+- **(1.1)** No ship shall incinerate a substance on board the ship in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) unless
+	- **(a)** the substance is waste generated on board the ship during normal operations; or
+	- **(b)** the incineration is done in accordance with a permit issued under subsection 128(2).
+
 **Incineration in waters under foreign jurisdiction, etc.**
 
 - **(2)** No person shall incinerate a substance on board a Canadian ship or a Canadian platform or other structure in an area of the sea referred to in paragraph 122(2)(f) or (g) unless
 	- **(a)** the substance is waste generated on board the Canadian ship or the Canadian platform or other structure during normal operations; or
 	- **(b)** the incineration is done in accordance with a permit issued under subsection 128(2).
+
+**Incineration by Canadian ship in waters under foreign jurisdiction**
+
+- **(3)** No Canadian ship shall, in an area of the sea referred to in paragraph 122(2)(f) or (g), incinerate a substance on board the ship unless
+	- **(a)** the substance is waste generated on board the ship during normal operations; or
+	- **(b)** the incineration is done in accordance with a permit issued under subsection 128(2).
+> 1999, c. 33, s. 126; 2005, c. 23, s. 23.
+
 
 
 
@@ -2972,7 +3032,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **128** 
 
-- **(1)** Paragraphs 125(1)(a), (2)(a) and (3)(a) do not apply if a permit is issued under this section.
+- **(1)** Paragraphs 125(1)(a), (2)(a), (2.1)(a), (3)(a) and (3.1)(a) do not apply if a permit is issued under this section.
 
 **Permits for emergency disposal**
 
@@ -3001,6 +3061,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **Notice**
 
 - **(6)** The Minister shall inform the International Maritime Organization of any action taken under this section.
+> 1999, c. 33, s. 128; 2005, c. 23, s. 24.
+
 
 
 
@@ -3038,7 +3100,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **130** 
 
 - **(1)** Despite the other provisions of this Division, a person may dispose of a substance if
-	- **(a)** it is necessary to avert a danger to human life or to a ship, a platform or another structure at sea in situations caused by stress of weather or in any other case that constitutes a danger to human life or a threat to a ship, an aircraft, a platform or another structure at sea;
+	- **(a)** it is necessary to avert a danger to human life or to a ship, an aircraft, a platform or another structure at sea in situations caused by stress of weather or in any other case that constitutes a danger to human life or a threat to a ship, an aircraft, a platform or another structure at sea;
 	- **(b)** the disposal appears to be the only way of averting the danger or threat; and
 	- **(c)** it is probable that the damage caused by the disposal would be less than would otherwise occur.
 
@@ -3053,6 +3115,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **Duty to report**
 
 - **(4)** If disposal takes place under subsection (1), the master of the ship, the pilot in command of the aircraft or the person in charge of the platform or other structure shall report the disposal without delay to an enforcement officer or any other person whom the Governor in Council may, by order, designate, at the location and in the manner that may be prescribed, and the report shall contain any information that may be prescribed.
+> 1999, c. 33, s. 130; 2005, c. 23, s. 25(E).
+
 
 
 
@@ -3141,8 +3205,14 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 **Regulations**
 
 - **(3)** The Minister may make regulations
-	- **(a)** prescribing the form of an application for a Canadian permit; and
-	- **(b)** specifying the information required to be contained in or to accompany an application for a Canadian permit.
+	- **(a)** prescribing the form of an application for a Canadian permit;
+	- **(b)** specifying the information required to be contained in or to accompany an application for a Canadian permit;
+	- **(c)** specifying acts or omissions that constitute a disposal for the purposes of paragraph (g) of the definition ***disposal*** in subsection 122(1);
+	- **(d)** specifying, for the purposes of paragraph (h) of the definition ***disposal*** in subsection 122(1), the operations that are deemed to be, or deemed not to be, the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure;
+	- **(e)** specifying, for the purposes of subsections 125(1) to (3.1), disposals that are deemed to be, or deemed not to be, disposals of substances referred to in paragraph (h) of the definition ***disposal*** in subsection 122(1), which specifications may refer, among other things, to any quantity or concentration of any substance or to any place or area; and
+	- **(f)** specifying, for the purposes of section 126, the operations that are deemed to be, or deemed not to be, normal operations of ships, including Canadian ships.
+> 1999, c. 33, s. 135; 2005, c. 23, s. 26.
+
 
 
 
@@ -3153,7 +3223,9 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **Costs and expenses recoverable**
 
-**136** If the Minister directs an action to be taken by or on behalf of Her Majesty in right of Canada to remedy a condition or mitigate damage resulting from an offence under this Act that arises out of this Division, the costs and expenses of and incidental to taking that action, to the extent that they can be established to have been reasonably incurred in the circumstances, are recoverable by Her Majesty in right of Canada from the person who committed the offence with costs in proceedings brought or taken therefor in the name of Her Majesty in any court of competent jurisdiction.
+**136** If the Minister directs an action to be taken by or on behalf of Her Majesty in right of Canada to remedy a condition or mitigate damage resulting from an offence under this Act that arises out of this Division, the costs and expenses of and incidental to taking that action, to the extent that they can be established to have been reasonably incurred in the circumstances, are recoverable by Her Majesty in right of Canada from the person or ship that committed the offence with costs in proceedings brought or taken therefor in the name of Her Majesty in any court of competent jurisdiction.
+> 1999, c. 33, s. 136; 2005, c. 23, s. 27(E).
+
 
 
 
@@ -3174,7 +3246,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 **DIVISION 4** 
-### FUELS
+### Fuels
 
 
 
@@ -3381,7 +3453,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 **DIVISION 5** 
-### VEHICLE, ENGINE AND EQUIPMENT EMISSIONS
+### Vehicle, Engine and Equipment Emissions
 
 
 
@@ -3780,7 +3852,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 **DIVISION 6** 
-### INTERNATIONAL AIR POLLUTION
+### International Air Pollution
 
 
 
@@ -3999,7 +4071,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 **DIVISION 7** 
-### INTERNATIONAL WATER POLLUTION
+### International Water Pollution
 
 
 
@@ -4230,7 +4302,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 
 **DIVISION 8** 
-### CONTROL OF MOVEMENT OF HAZARDOUS WASTE AND HAZARDOUS RECYCLABLE MATERIAL AND OF PRESCRIBED NON-HAZARDOUS WASTE FOR FINAL DISPOSAL
+### Control of Movement of Hazardous Waste and Hazardous Recyclable Material and of Prescribed Non-hazardous Waste for Final Disposal
 
 
 
@@ -4996,11 +5068,35 @@ the Governor in Council may make an order stating that opinion and, if such an o
 
 **216** The definitions in this section apply in this Part.
 
-***conveyance*** includes any vehicle, ship or aircraft.
+***conveyance*** includes any vehicle, ship or aircraft. (*moyen de transport*)
 
-***place*** includes any platform anchored at sea, shipping container or conveyance.
+***foreign national*** has the same meaning as in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md). (*étranger*)
 
-***substance*** includes hazardous wastes, hazardous recyclable material or non-hazardous waste, as those expressions are defined by regulations made under section 191, and waste or other matter listed in Schedule 5.
+***place*** includes any platform anchored at sea, shipping container or conveyance. (*lieu*)
+
+***substance*** includes hazardous wastes, hazardous recyclable material or non-hazardous waste, as those expressions are defined by regulations made under section 191, and waste or other matter listed in Schedule 5. (*substance*)
+> 1999, c. 33, s. 216; 2005, c. 23, s. 28.
+
+
+
+
+
+**Definition of ship that is not a Canadian ship**
+
+**216.1** 
+
+- **(1)** For the purpose of subsections 217(6), 218(16) and (17) and 220(5.1) and section 275.1, a ***ship that is not a Canadian ship*** does not include a ship that
+	- **(a)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or under the laws of another state but is owned by one or more persons each of whom is
+		- **(i)** a Canadian citizen,
+		- **(ii)** in the case of a ship that is not required to be registered, listed or licensed under that Act, a person who is resident and domiciled in Canada, or
+		- **(iii)** a corporation incorporated under the laws of Canada or a province, that has its principal place of business in Canada: or
+	- **(b)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) but is owned or operated by Her Majesty in right of Canada.
+
+**Definition of committed in the course of enforcement of this Act**
+
+- **(2)** For the purpose of subsections 217(4) and 271.1(2), sections 275.1 and 278.1 and subsections 279(1) and (3), ***committed in the course of enforcement of this Act*** means committed by or against a person who is engaged in carrying out duties or functions, or exercising a power, under this Act or a person acting under their direction and control.
+> 2005, c. 23, s. 29.
+
 
 
 
@@ -5024,6 +5120,20 @@ the Governor in Council may make an order stating that opinion and, if such an o
 **Powers of enforcement officers**
 
 - **(3)** For the purposes of this Act and the regulations, enforcement officers have all the powers of a peace officer, but the Minister may specify limits on those powers when designating any person or class of persons.
+
+**Powers in exclusive economic zone**
+
+- **(4)** Every power — including arrest, entry, search and seizure — that may be exercised in Canada in respect of an offence under this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may, in respect of an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division, or in respect of an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that is committed in the course of enforcement of this Act, be exercised in an area of the sea referred to in paragraph 122(2)(c) if the offence was committed in that area of the sea.
+
+**Exercising powers in cases of hot pursuit**
+
+- **(5)** The powers referred to in subsection (4) may be exercised in an area of the sea referred to in paragraph 122(2)(g) if hot pursuit has been commenced in Canada or in an area of the sea referred to in any of paragraphs 122(2)(a) to (e) and (g).
+
+**When consent of Attorney General of Canada required**
+
+- **(6)** The powers referred to in subsection (4) may not be exercised under that subsection or subsection (5) in relation to a ship that is not a Canadian ship, or to a foreign national who is on board such a ship, without the consent of the Attorney General of Canada.
+> 1999, c. 33, s. 217; 2005, c. 23, s. 30.
+
 
 
 
@@ -5086,12 +5196,12 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 **Powers in relation to ships, etc.**
 
 - **(8)** Subject to subsection (2), for the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time,
-	- **(a)** board any ship, platform or other structure anywhere in Canada or within Canadian waters or any aircraft if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and
+	- **(a)** board any ship, platform or other structure in an area of the sea referred to in any of paragraphs 122(2)(a) to (e), or any aircraft in Canada, if the enforcement officer believes on reasonable grounds that the ship, platform or other structure or aircraft has on board a substance to be disposed of at sea; and
 	- **(b)** travel on any ship, aircraft, platform or other structure that is loaded with a substance to be disposed of at sea.
 
-**Enforcement officer to receive accommodation**
+**Enforcement officer and analyst to receive accommodation**
 
-- **(9)** An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b) shall be carried free of charge to and from the disposal site and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer with suitable accommodation and food.
+- **(9)** An enforcement officer who travels on a ship, aircraft, platform or other structure under paragraph (8)(b), and any analyst who accompanies the enforcement officer, shall be carried free of charge to and from the disposal site, and the person in command of the ship or aircraft or in charge of the platform or structure shall provide the enforcement officer and analyst with suitable accommodation and food free of charge.
 
 **Powers of enforcement officer**
 
@@ -5121,6 +5231,20 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 **Duty of person in possession or control**
 
 - **(14)** Every person who is in possession or control of a place being inspected under this section shall permit the enforcement officer to do anything referred to in subsection (13).
+
+**Inspections in exclusive economic zone**
+
+- **(15)** For the purpose of verifying compliance with Division 3 of Part 7 and regulations made under that Division, subsections (1) to (14) also apply in respect of a place in an area of the sea referred to in paragraph 122(2)(c).
+
+**Consent of Minister required**
+
+- **(16)** The consent of the Minister is required for the exercise in an area of the sea referred to in paragraph 122(2)(c) of any power under this section in relation to a ship that is not a Canadian ship.
+
+**Consent of Attorney General not required**
+
+- **(17)** For greater certainty, the consent of the Attorney General of Canada is not required for the exercise of any power under this section in relation to a ship that is not a Canadian ship.
+> 1999, c. 33, s. 218; 2005, c. 23, s. 31.
+
 
 
 
@@ -5170,6 +5294,12 @@ the justice may issue a warrant authorizing an enforcement officer, or authorizi
 
 - **(5)** For greater certainty, exigent circumstances include circumstances in which the delay necessary to obtain a warrant under subsection (1) or (2) would result in danger to human life or the environment or the loss or destruction of evidence.
 
+**Exception in relation to ships that are not Canadian ships**
+
+- **(5.1)** Despite subsection (4), an enforcement officer may exercise the powers described in subsection (3) without a warrant in relation to a ship that is not a Canadian ship if
+	- **(a)** the conditions for obtaining the warrant exist but by reason of exigent circumstances it would not be practical to obtain the warrant; and
+	- **(b)** the Attorney General of Canada has consented to the exercise of the powers without a warrant.
+
 **Operation of computer system and copying equipment**
 
 - **(6)** A person authorized under this section to search a place may
@@ -5181,6 +5311,12 @@ the justice may issue a warrant authorizing an enforcement officer, or authorizi
 **Duty of person in possession or control**
 
 - **(7)** Every person who is in possession or control of a place in respect of which a search is carried out under this section shall permit the person carrying out the search to do anything referred to in subsection (6).
+
+**Accommodation**
+
+- **(8)** A person who is exercising powers described in subsection (3) on a ship, an aircraft, a platform or other structure shall be carried free of charge, and the person in command of the ship or aircraft or in charge of the platform or other structure shall provide the person exercising those powers with suitable accommodation and food free of charge.
+> 1999, c. 33, s. 220; 2005, c. 23, s. 32.
+
 
 
 
@@ -5221,6 +5357,19 @@ may sell the cargo or the portion of it that is perishable, as the case may be, 
 **Seized ship, etc., to be returned unless proceedings instituted**
 
 - **(2)** Anything referred to in subsection (1) that has been seized under section 220, or any security given to the Minister under subsection (1), shall be returned or paid to the person from whom the thing was seized within 30 days after the seizure unless, before the expiry of those 30 days, proceedings are instituted in respect of an offence under section 272 alleged to have been committed by the owner of the thing.
+
+
+
+
+### Arrest Without Warrant
+
+
+
+**Arrest without warrant**
+
+**222.1** An enforcement officer may arrest without warrant a person or ship that the enforcement officer believes, on reasonable grounds, has committed an offence against this Act or the regulations, or that the enforcement officer finds committing or about to commit an offence against this Act or the regulations.
+> 2005, c. 23, s. 33.
+
 
 
 
@@ -5311,9 +5460,15 @@ in which case it may be removed to and stored in any other place at the directio
 
 - **(2)** A detention order made under subsection (1) shall be in writing and be addressed to all persons at any port in Canada where the ship to which the order relates is or will be who are empowered to give a clearance in respect of the ship.
 
-**Notice of detention order**
+**Service of detention order**
 
-- **(3)** Notice of a detention order made under subsection (1) shall be served on the master of the ship in respect of which the order is made.
+- **(3)** A detention order made under subsection (1) in respect of a ship shall be served
+	- **(a)** by delivering the order to the master of the ship; or
+	- **(b)** if service cannot reasonably be effected in the manner provided for in paragraph (a), by leaving the order with the person being or appearing to be in command or charge of the ship or, if there is no such person, by placing the order on a conspicuous part of the ship.
+
+**Foreign state to be notified**
+
+- **(3.1)** If a ship in respect of which a detention order is made under subsection (1) is registered in a foreign state, that state is to be notified that the order was made.
 
 **Duty of owner or master of ship**
 
@@ -5329,8 +5484,34 @@ in which case it may be removed to and stored in any other place at the directio
 	- **(a)** the owner or master of the ship
 		- **(i)** has not, within 30 days after the order was made, been charged with the offence that gave rise to the making of the order, or
 		- **(ii)** has, within 30 days after the order was made, been charged with that offence and appears in Canada to answer to the charge;
-	- **(b)** security for payment of the maximum fine that might be imposed as a result of a conviction of the person charged with that offence and of costs related to proceedings in connection with the charge, or payment of any lesser amount that is approved by the Minister or a person designated by the Minister for the purpose, is given to Her Majesty in right of Canada; or
+	- **(b)** if the alleged offence involves the contravention of Division 3 of Part 7 or of any regulation made under that Division, Her Majesty in right of Canada is given security, in a form determined by the Attorney General of Canada, for payment of the maximum fine that might be imposed as a result of a conviction of the person or ship charged with that offence and of costs related to proceedings in connection with the charge or charges, or payment of any lesser amount that is approved by the Attorney General of Canada;
+	- **(b.1)** if the alleged offence involves the contravention of this Act or the regulations, other than a contravention referred to in paragraph (b), Her Majesty in right of Canada is given security for payment of the maximum fine that might be imposed as a result of a conviction of the person charged with that offence and of costs related to proceedings in connection with the charge, or payment of any lesser amount that is approved by the Minister or a person designated by the Minister for the purpose; or
 	- **(c)** proceedings in respect of the alleged offence that gave rise to the making of the detention order are discontinued.
+> 1999, c. 33, s. 225; 2005, c. 23, s. 34.
+
+
+
+
+
+### Direction of Ships
+
+
+
+**Power to direct ship**
+
+**225.1** 
+
+- **(1)** An enforcement officer may direct a ship that is in an area of the sea referred to in any of paragraphs 122(2)(a) to (d) and (g) to proceed, by the route and in the manner that the enforcement officer may specify, to any place specified by the enforcement officer if the enforcement officer has reasonable grounds to believe that
+	- **(a)** the ship is committing, has committed or is about to commit in an area of the sea referred to in any of paragraphs 122(2)(a) to (d) an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division; or
+	- **(b)** a person on board the ship is committing, has committed or is about to commit such an offence in such an area and the ship was, is being or is about to be used in connection with the commission of the offence.
+
+**Power to direct ship**
+
+- **(2)** If a ship is in an area of the sea referred to in paragraph 122(2)(f), an enforcement officer may, with the consent of the foreign state that has jurisdiction in that area, direct the ship to proceed, by the route and in the manner that the enforcement officer may specify, to any place specified by the enforcement officer if the enforcement officer has reasonable grounds to believe that
+	- **(a)** the ship is committing, has committed or is about to commit in an area of the sea referred to in any of paragraphs 122(2)(a) to (d) an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division; or
+	- **(b)** a person on board the ship is committing, has committed or is about to commit such an offence in such an area and the ship was, is being or is about to be used in connection with the commission of the offence.
+> 2005, c. 23, s. 35.
+
 
 
 
@@ -5939,6 +6120,29 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
+### Acts Committed Outside Canada
+
+
+
+**Offences under this Act deemed committed in Canada**
+
+**271.1** 
+
+- **(1)** An act or omission that is an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division is deemed to have been committed in Canada if it is committed
+	- **(a)** in an area of the sea referred to in paragraph 122(2)(c); or
+	- **(b)** in an area of the sea referred to in paragraph 122(2)(g) in the course of hot pursuit that commenced while a ship was in an area of the sea referred to in any paragraphs 122(2)(a) to (e).
+
+**Offences under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) deemed committed in Canada**
+
+- **(2)** An act or omission that is committed in the course of enforcement of this Act and that would be an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if it were committed in Canada, is deemed to have been committed in Canada if it is committed
+	- **(a)** in an area of the sea referred to in paragraph 122(2)(c); or
+	- **(b)** in an area of the sea referred to in paragraph 122(2)(g) in the course of hot pursuit that commenced while a ship was in an area of the sea referred to in any paragraphs 122(2)(a) to (e).
+> 2005, c. 23, s. 36.
+
+
+
+
+
 ### Offences and Punishment
 
 
@@ -5959,6 +6163,12 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 - **(2)** Every person who commits an offence under subsection (1) is liable
 	- **(a)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both; and
 	- **(b)** on summary conviction, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both.
+
+**Application in respect of ships**
+
+- **(3)** For the purposes of this section, a ship is deemed to be a person in respect of every provision of this Act or the regulations that expressly applies to ships.
+> 1999, c. 33, s. 272; 2005, c. 23, s. 37.
+
 
 
 
@@ -6010,6 +6220,15 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
+**When consent of Attorney General of Canada required**
+
+**275.1** A proceeding that is commenced in respect of an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division, or in respect of an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that is committed in the course of enforcement of this Act, shall not be continued if the offence was committed in an area of the sea referred to in paragraph 122(2)(c) and the accused is either a ship that is not a Canadian ship or a foreign national who was on board such a ship when the offence was committed, unless the Attorney General of Canada consents to the continuation no later than eight days after the proceeding is commenced.
+> 2005, c. 23, s. 38.
+
+
+
+
+
 **Continuing offence**
 
 **276** Where an offence under this Act is committed or continued on more than one day, the person who committed the offence is liable to be convicted for a separate offence for each day on which it is committed or continued.
@@ -6031,11 +6250,22 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-**Nearest court has jurisdiction for Division 3 of Part 7 offences**
+**Jurisdiction of justices and judges**
+
+**278.1** A justice or judge in any territorial division in Canada has jurisdiction to authorize, in the same manner as if the offence had been committed in the territorial division, an arrest, an entry, a search or a seizure in relation to
+- **(a)** an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division that is committed in an area of the sea referred to in any of paragraphs 122(2)(c), (f) and (g); or
+- **(b)** an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that is committed in the course of enforcement of this Act in an area of the sea referred to in paragraph 122(2)(c) or in an area of the sea referred to in paragraph 122(2)(g) in the course of hot pursuit that commenced while a ship was in an area of the sea referred to in any paragraphs 122(2)(a) to (e).
+> 2005, c. 23, s. 39.
+
+
+
+
+
+**Jurisdiction of court**
 
 **279** 
 
-- **(1)** Where an offence arising out of a contravention of Division 3 of Part 7 is committed by a person, whether or not the person is a Canadian citizen, in Canadian waters, the offence
+- **(1)** If an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division is committed in an area of the sea referred to in any of paragraphs 122(2)(a) to (e), or if an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) is committed in the course of enforcement of this Act in an area of the sea referred to in paragraph 122(2)(c), the offence
 	- **(a)** is within the competence of and shall be tried by the court having jurisdiction in respect of similar offences in the territorial division nearest to the place where the offence was committed; and
 	- **(b)** shall be tried in the same manner as if it had been committed within that territorial division.
 
@@ -6043,26 +6273,101 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 - **(2)** An offence to which subsection (1) applies is, for the purpose of that subsection, deemed to have been committed either in the place where the offence was actually committed or in the place in which the accused is found.
 
-**Any court has jurisdiction for Division 3 of Part 7 offences**
+**Jurisdiction of court**
 
-- **(3)** Where an offence arising out of a contravention of Division 3 of Part 7 is committed by a person, whether or not the person is a Canadian citizen, in an area of the sea referred to in paragraph 122(2)(f) or (g), the offence
+- **(3)** If an offence arising out of a contravention of Division 3 of Part 7 or of any regulation made under that Division is committed in an area of the sea referred to in paragraph 122(2)(f) or (g), or if an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) is committed in the course of enforcement of this Act in an area of the sea referred to in paragraph 122(2)(g) in the course of hot pursuit that commenced while a ship was in an area of the sea referred to in any paragraphs 122(2)(a) to (e), the offence
 	- **(a)** is within the competence of and shall be tried by any court having jurisdiction in respect of similar offences committed by persons within the limits of its ordinary jurisdiction; and
 	- **(b)** shall be tried in the same manner as if it had been committed within the jurisdiction of the court before which it is tried.
+> 1999, c. 33, s. 279; 2005, c. 23, s. 40.
 
 
 
 
-**Liability of directors**
+
+**Liability of directors, officers and agents**
 
 **280** 
 
-- **(1)** Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+- **(1)** If a corporation commits an offence under this Act or the regulations, any officer, director or agent of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
 
-**Duties of directors**
+**Liability of master and chief engineer of ship**
 
-- **(2)** Every director and officer of a corporation shall take all reasonable care to ensure that the corporation complies with
-	- **(a)** this Act and the regulations; and
-	- **(b)** orders and directions of, and prohibitions and requirements imposed by, the Minister and enforcement officers and review officers.
+- **(2)** If a ship commits an offence under this Act or the regulations and the master or the chief engineer of the ship directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the master or chief engineer, as the case may be, is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
+> 1999, c. 33, s. 280; 2005, c. 23, s. 41.
+
+
+
+
+
+**Duties of directors and officers**
+
+**280.1** 
+
+- **(1)** Every director and officer of a corporation shall take all reasonable care to ensure that the corporation complies with
+	- **(a)** this Act and the regulations, other than Division 3 of Part 7 and regulations made under that Division; and
+	- **(b)** orders and directions of, and prohibitions and requirements imposed by, the Minister, enforcement officers and review officers, other than those issued or imposed in connection with obligations or prohibitions under that Division or regulations made under that Division.
+
+**Duties of directors and officers — Division 3 of Part 7**
+
+- **(2)** Every director and officer of a corporation who is in a position to direct or influence the corporation’s policies or activities in respect of its obligation to comply with Division 3 of Part 7, regulations made under that Division, and orders and directions of, and prohibitions and requirements imposed by, the Minister, enforcement officers and review officers in connection with obligations or prohibitions under that Division or those regulations, shall take all reasonable care to ensure that the corporation so complies.
+
+**Liability of directors and officers — Division 3 of Part 7**
+
+- **(3)** If a corporation commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director and officer of the corporation who is in a position to direct or influence the corporation’s policies or activities in respect of conduct that is the subject-matter of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+> 2005, c. 23, s. 41.
+
+
+
+
+
+**Duties of masters and chief engineers**
+
+**280.2** 
+
+- **(1)** The master and the chief engineer of a ship shall take all reasonable care to ensure that the ship complies with
+	- **(a)** Division 3 of Part 7 and regulations made under that Division; and
+	- **(b)** orders and directions of, and prohibitions and requirements imposed by, the Minister, enforcement officers and review officers in connection with obligations or prohibitions under that Division or those regulations.
+
+**Liability of master and chief engineer**
+
+- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, the master and the chief engineer of the ship are a party to and guilty of the offence, and are liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
+> 2005, c. 23, s. 41.
+
+
+
+
+
+**Duties of owner**
+
+**280.3** 
+
+- **(1)** Every owner of a ship shall take all reasonable care to ensure that the ship complies, and all persons on board the ship comply, with
+	- **(a)** Division 3 of Part 7 and regulations made under that Division; and
+	- **(b)** orders and directions of, and prohibitions and requirements imposed by, the Minister, enforcement officers and review officers in connection with obligations or prohibitions under that Division or those regulations.
+
+**Liability of directors and officers of owners**
+
+- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director or officer of a corporation that is an owner of the ship who is in a position to direct or influence the corporation’s policies or activities in respect of conduct that is the subject-matter of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
+> 2005, c. 23, s. 41.
+
+
+
+
+
+**For greater certainty**
+
+**280.4** For greater certainty, section 283 applies to a person who is a party to an offence under subsection 280.1(3), 280.2(2) or 280.3(2).
+> 2005, c. 23, s. 41.
+
+
+
+
+
+**Directions**
+
+**280.5** For the purpose of prosecuting a ship for contravening a direction made under section 225.1 or an order made under section 235, a direction or an order, as the case may be, that is given to the master or a crew member of the ship is deemed to have been given to the ship.
+> 2005, c. 23, s. 41.
+
 
 
 
@@ -6070,6 +6375,21 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Identifying owner, master, etc.**
 
 **281** The owner or master of a ship, the owner or pilot in command of an aircraft or the owner or person in charge of any platform or other structure may be charged with an offence arising out of a contravention of Division 3 of Part 7 as owner, master, pilot in command or person in charge, as the case may be, of the ship, aircraft, platform or structure if it is adequately identified, and no such charge is invalid by reason only that it does not name the owner, master, pilot in command or person in charge, as the case may be, of the ship, aircraft, platform or structure.
+
+
+
+
+**Proceedings against ships**
+
+**281.1** 
+
+- **(1)** Subject to subsection (2), the provisions of this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to indictable or summary conviction offences that apply to persons apply also to ships, with any modifications that the circumstances require.
+
+**Service on ship and appearance at trial**
+
+- **(2)** If a ship is charged with having committed an offence under this Act or the regulations, the summons may be served by leaving it with the owner, master or any officer of the ship or by posting the summons on some conspicuous part of the ship, and the ship may appear by counsel or representative. Despite the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the ship does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
+> 2005, c. 23, s. 42.
+
 
 
 
