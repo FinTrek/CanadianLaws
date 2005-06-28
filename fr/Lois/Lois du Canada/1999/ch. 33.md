@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md)
 
-# Loi canadienne sur la protection de l'environnement (1999)
+# Loi canadienne sur la protection de l’environnement (1999)
 
 **L.C. 1999, ch. 33**
 
@@ -11,14 +11,14 @@ Sanctionnée sur le 14 septembre 1999
 
 
 
-Déclaration
+
+**Déclaration**
 
 Il est déclaré que la protection de l’environnement est essentielle au bien-être de la population du Canada et que l’objet principal de la présente loi est de contribuer au développement durable au moyen de la prévention de la pollution.
 
+Préambule
 
-**Préambule**
-
-Attendu :
+Attendu :
 
 que le gouvernement du Canada vise au développement durable fondé sur l’utilisation écologiquement rationnelle des ressources naturelles, sociales et économiques et reconnaît la nécessité, pour lui et les organismes privés, de prendre toute décision en tenant compte des facteurs environnementaux, économiques et sociaux;
 
@@ -52,7 +52,7 @@ qu’il se doit d’être en mesure de respecter les obligations internationales
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -2560,7 +2560,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 1** 
-### SUBSTANCES NUTRITIVES
+### Substances nutritives
 
 
 
@@ -2629,7 +2629,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 2** 
-### PROTECTION DU MILIEU MARIN CONTRE LA POLLUTION DE SOURCE TELLURIQUE
+### Protection du milieu marin contre la pollution de source tellurique
 
 
 
@@ -2665,7 +2665,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 3** 
-### IMMERSION
+### Immersion en mer
 
 
 
@@ -2683,26 +2683,28 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 ***aéronef canadien*** Aéronef immatriculé en application d’une loi fédérale.
 
-***capitaine*** Est assimilé au capitaine quiconque a le commandement ou la responsabilité d’un navire, sauf le pilote.
+***capitaine*** La personne ayant la direction ou le commandement d’un navire. Est exclu de la présente définition le pilote breveté, au sens de l’article 2 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md).
 
 ***Convention*** La Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets, signée par le Canada le 29 décembre 1972, avec ses modifications successives.
 
 ***déchets ou autres matières*** Les déchets et autres matières énumérés à l’annexe 5.
 
-***immersion***
-- **a)** Rejet délibéré de substances en mer à partir de navires, aéronefs, plates-formes ou autres ouvrages;
-- **b)** rejet délibéré dans la mer de matières draguées à partir de toute autre source;
-- **c)** entreposage sur le fond des mers, ainsi que dans leur sous-sol, ou sur les glaces de substances provenant de navires, aéronefs, plates-formes ou autres ouvrages;
-- **d)** rejet délibéré de substances sur les glaces de la mer;
-- **e)** sabordage en mer de navires ou aéronefs;
-- **f)** immersion ou abandon délibéré en mer de plates-formes ou autres ouvrages;
-- **g)** sont exclus de la présente définition :
-	- **(i)** les rejets résultant ou provenant de l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou autre ouvrage — ou de leur équipement — , sauf le rejet de substances effectué à partir d’un tel matériel lorsque celui-ci est affecté à cette fin,
-	- **(ii)** le dépôt de substances à des fins autres que leur simple élimination, sous réserve qu’un tel dépôt ne soit pas incompatible avec l’objet de la présente section et de la Convention ou du Protocole,
-	- **(iii)** l’abandon de câbles, pipelines, appareils de recherche ou autres objets placés sur le fond des mers, ainsi que dans leur sous-sol, à des fins autres que leur simple élimination,
-	- **(iv)** le rejet ou l’entreposage de déchets et autres matières résultant directement de l’exploration, de l’exploitation et du traitement en mer des ressources minérales du fond des mers.
+***immersion*** Selon le cas :
+- **a)** l’élimination en mer de substances provenant de navires, d’aéronefs, de plates-formes ou d’autres ouvrages;
+- **b)** l’élimination en mer de matières draguées provenant de toute autre source;
+- **c)** l’entreposage sur le fond des mers, ainsi que dans leur sous-sol, ou sur les glaces de substances provenant de navires, d’aéronefs, de plates-formes ou d’autres ouvrages;
+- **d)** le dépôt de substances sur les glaces de la mer;
+- **e)** le sabordage en mer de navires ou d’aéronefs;
+- **f)** le sabordage ou l’abandon en mer de plates-formes ou d’autres ouvrages;
+- **g)** tout autre fait — acte ou omission — constituant une immersion aux termes d’un règlement pris en vertu de l’alinéa 135(3)c).
 
-***incinération*** La combustion délibérée de substances pour destruction thermique à bord d’un navire, d’une plate-forme ou autre ouvrage en mer.
+Sont toutefois exclus :
+- **h)** l’élimination de substances résultant directement ou indirectement de l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage — ou de leur équipement —, sauf l’élimination de substances effectuée à partir d’un tel ouvrage ou équipement lorsque celui-ci est affecté à cette fin;
+- **i)** le placement de substances à des fins autres que leur simple élimination sous réserve qu’un tel placement ne soit pas incompatible avec l’objet de la présente section et de la Convention ou du Protocole;
+- **j)** l’abandon de câbles, de pipelines, d’appareils de recherche ou d’autres objets placés sur le fond des mers, ainsi que dans leur sous-sol, à des fins autres que leur simple élimination;
+- **k)** le rejet ou l’entreposage de déchets et autres matières résultant directement de l’exploration, de l’exploitation et du traitement en mer des ressources minérales du fond des mers.
+
+***incinération*** La combustion de substances pour destruction thermique à bord d’un navire, d’une plate-forme ou d’un autre ouvrage en mer.
 
 ***navire*** Tout genre de bâtiment, bateau ou embarcation conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion, ainsi qu’un aéroglisseur.
 
@@ -2728,6 +2730,21 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 	- **e)** l’espace maritime, réglementé en application de l’alinéa 135(1)g), contigu aux espaces visés aux alinéas a) à d);
 	- **f)** les espaces maritimes relevant de la souveraineté d’un État étranger, à l’exclusion des eaux intérieures;
 	- **g)** les espaces maritimes, à l’exclusion des eaux intérieures d’un État étranger, non compris dans l’espace visé aux alinéas a) à f).
+> 1999, ch. 33, art. 122; 2005, ch. 23, art. 18.
+
+
+
+
+
+#### Objet
+
+
+
+**Objet**
+
+**122.1** La présente section a pour objet de protéger le milieu marin, notamment par la mise en œuvre de la Convention et du Protocole.
+> 2005, ch. 23, art. 19.
+
 
 
 
@@ -2736,15 +2753,17 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 
-**Importation pour immersion dans les eaux sous compétence canadienne**
+**Importation pour immersion dans les eaux relevant du Canada**
 
 **123** 
 
-- **(1)** Est interdite l’importation de substances pour immersion dans tout espace visé aux alinéas 122(2)a) à e).
+- **(1)** Il est interdit à toute personne et à tout navire d’importer des substances pour immersion dans un espace visé à l’un des alinéas 122(2)a) à e).
 
-**Exportation pour immersion dans les eaux sous compétence étrangère**
+**Exportation pour immersion dans les eaux relevant d’un État étranger**
 
-- **(2)** Est interdite l’exportation de substances pour immersion dans tout espace maritime relevant de la souveraineté d’un État étranger ou dans ses eaux intérieures.
+- **(2)** Il est interdit à toute personne et à tout navire d’exporter des substances pour immersion dans tout espace maritime relevant de la souveraineté d’un État étranger ou dans ses eaux intérieures.
+> 1999, ch. 33, art. 123; 2005, ch. 23, art. 20.
+
 
 
 
@@ -2755,67 +2774,101 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** Est interdit le chargement au Canada de substances à bord d’un navire ou d’un aéronef ou sur une plate-forme ou un autre ouvrage pour immersion dans tout espace visé aux alinéas 122(2)a) à e) ou g), sauf s’il s’agit de déchets ou autres matières et que le chargement est effectué conformément à un permis canadien.
 
-**Responsabilité : chargement au Canada**
+**Chargement au Canada pour immersion en mer**
+
+- **(1.1)** Il est interdit à tout navire de procéder, au Canada, au chargement de substances à son bord pour immersion dans un espace visé à l’un des alinéas 122(2)a) à e) et g), sauf s’il s’agit de déchets ou autres matières et que le chargement est effectué conformément à un permis canadien.
+
+**Responsabilité : chargement au Canada**
 
 - **(2)** Il incombe au capitaine ou au commandant de bord de refuser tout chargement au Canada de substances pour immersion dans tout espace visé aux alinéas 122(2)a) à e) ou g), sauf s’il s’agit de déchets ou autres matières et que le chargement est effectué conformément à un permis canadien.
 
-**Responsabilité : chargement à l’étranger**
+**Responsabilité : chargement à l’étranger**
 
 - **(3)** Il incombe au capitaine d’un navire canadien ou au commandant de bord d’un aéronef canadien de refuser tout chargement de substances hors du Canada pour immersion en mer.
 
 **Exception**
 
-- **(4)** Le paragraphe (3) ne s’applique pas si les conditions suivantes sont réunies :
+- **(4)** Le paragraphe (3) ne s’applique pas si les conditions suivantes sont réunies :
 	- **a)** il s’agit de déchets ou autres matières;
 	- **b)** l’immersion a lieu dans tout espace visé à l’alinéa 122(2)g) ou dans l’espace maritime relevant de la souveraineté de l’État où le chargement est fait;
 	- **c)** si l’immersion a lieu dans tout espace visé à l’alinéa 122(2)g) et si le chargement est fait sur le territoire d’un État étranger qui est une partie contractante, ils sont effectués conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole;
 	- **d)** si l’immersion a lieu dans tout espace visé à l’alinéa 122(2)g) et si le chargement est fait sur le territoire d’un État étranger qui n’est pas une partie contractante, ils sont effectués conformément à un permis canadien;
 	- **e)** si l’immersion a lieu dans tout espace maritime relevant de la souveraineté d’un État étranger qui est une partie contractante, le chargement et l’immersion sont effectués conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole;
 	- **f)** si l’immersion a lieu dans tout espace maritime relevant de la souveraineté d’un État étranger qui n’est pas une partie contractante, le chargement est effectué conformément à un permis canadien et l’immersion est autorisée par cet État.
+> 1999, ch. 33, art. 124; 2005, ch. 23, art. 21.
 
 
 
 
-**Immersion dans les eaux sous compétence canadienne**
+
+**Immersion dans les eaux relevant du Canada**
 
 **125** 
 
-- **(1)** Il est interdit de procéder à l’immersion de substances dans tout espace visé aux alinéas 122(2)a) à e), sauf s’il s’agit de déchets ou autres matières et que l’immersion est effectuée conformément à un permis canadien.
+- **(1)** Il est interdit à toute personne et à tout navire de procéder à l’immersion de substances dans un espace visé à l’un des alinéas 122(2) a) à e), sauf s’il s’agit de déchets ou autres matières et que l’immersion est effectuée conformément à un permis canadien.
 
 **Immersion dans des eaux qui ne sont sous la compétence d’aucun État**
 
-- **(2)** Il est interdit de procéder à l’immersion de substances à partir de navires ou aéronefs canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2)g), sauf s’il s’agit de déchets ou autres matières et que l’immersion est effectuée conformément à un permis canadien ou, si le chargement est fait sur le territoire d’un État qui est une partie contractante, conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole.
+- **(2)** Il est interdit de procéder à l’immersion de substances à partir de navires ou aéronefs canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2) g), sauf s’il s’agit de déchets ou autres matières et que l’immersion est effectuée conformément à un permis canadien ou, si le chargement est fait sur le territoire d’un État qui est une partie contractante, conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole.
+
+**Immersion dans des eaux ne relevant d’aucun État**
+
+- **(2.1)** Il est interdit à tout navire canadien de procéder à l’immersion de substances dans un espace visé à l’alinéa 122(2)g), sauf s’il s’agit de déchets ou autres matières et que l’immersion est effectuée conformément à un permis canadien ou, si le chargement des substances est fait sur le territoire d’un État qui est une partie contractante, conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole.
 
 **Immersion dans les eaux sous compétence étrangère**
 
-- **(3)** Il est interdit de procéder à l’immersion de substances à partir de navires ou aéronefs canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2)f), sauf si :
+- **(3)** Il est interdit de procéder à l’immersion de substances à partir de navires ou aéronefs canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2) f), sauf si :
 	- **a)** il s’agit de déchets ou autres matières;
 	- **b)** le chargement est fait dans l’État étranger qui a souveraineté sur les eaux où a lieu l’immersion;
 	- **c)** cet État étant une partie contractante, l’immersion est effectuée conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole;
 	- **d)** cet État ne l’étant pas, l’immersion est autorisée par lui et effectuée conformément à un permis canadien.
 
+**Immersion dans les eaux relevant d’un État étranger**
+
+- **(3.1)** Il est interdit à tout navire canadien de procéder à l’immersion de substances dans un espace visé à l’alinéa 122(2)f), sauf si les conditions suivantes sont réunies :
+	- **a)** il s’agit de déchets ou autres matières;
+	- **b)** le chargement des substances est fait dans l’État étranger dont relèvent les eaux où a lieu l’immersion;
+	- **c)** si cet État est une partie contractante, l’immersion est effectuée conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole;
+	- **d)** s’il ne l’est pas, l’immersion est autorisée par lui et effectuée conformément à un permis canadien.
+
 **Immersion dans les eaux qui ne sont sous la compétence d’aucun État**
 
-- **(4)** Il est interdit de procéder à l’immersion d’un navire ou aéronef canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2)g), sauf s’il est effectué conformément à un permis canadien.
+- **(4)** Il est interdit de procéder à l’immersion d’un navire ou aéronef canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2) g), sauf s’il est effectué conformément à un permis canadien.
 
 **Immersion dans les eaux sous compétence étrangère**
 
-- **(5)** Il est interdit de procéder à l’immersion d’un navire ou aéronef canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2)f), sauf si :
+- **(5)** Il est interdit de procéder à l’immersion d’un navire ou aéronef canadiens ou d’une plate-forme ou autre ouvrage canadiens dans tout espace visé à l’alinéa 122(2) f), sauf si :
 	- **a)** l’État étant une partie contractante, l’immersion est effectuée conformément à un permis qu’il a délivré au titre de la Convention ou du Protocole;
 	- **b)** l’État ne l’étant pas, l’immersion est autorisée par lui et effectuée conformément à un permis canadien.
 
+**Exception**
+
+- **(6)** Le présent article ne s’applique pas aux immersions permises sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+> 1999, ch. 33, art. 125; 2005, ch. 23, art. 22.
 
 
 
-**Incinération dans les eaux sous compétence canadienne**
+
+
+**Incinération dans les eaux relevant du Canada**
 
 **126** 
 
-- **(1)** Il est interdit de procéder à l’incinération de substances sur un navire canadien ou sur une plate-forme ou autre ouvrage canadiens dans tout espace visé aux alinéas 122(2)a) à e), sauf s’il s’agit de déchets produits à leur bord au cours de leur exploitation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
+- **(1)** Il est interdit de procéder à l’incinération de substances sur un navire ou sur une plate-forme ou un autre ouvrage dans un espace visé à l’un des alinéas 122(2) a) à e), sauf s’il s’agit de déchets produits à leur bord au cours de leur utilisation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
 
-**Incinération dans les eaux sous compétence étrangère, etc.**
+**Incinération à bord d’un navire**
 
-- **(2)** Il est interdit de procéder à l’incinération de substances sur un navire canadien ou sur une plate-forme ou autre ouvrage canadiens dans tout espace visé aux alinéas 122(2)f) ou g), sauf s’il s’agit de déchets produits à leur bord au cours de leur exploitation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
+- **(1.1)** Il est interdit à tout navire de procéder à l’incinération de substances à son bord dans un espace visé à l’un des alinéas 122(2)a) à e), sauf s’il s’agit de déchets produits à son bord au cours de son utilisation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
+
+**Incinération dans les eaux relevant d’un État étranger**
+
+- **(2)** Il est interdit de procéder à l’incinération de substances sur un navire canadien ou sur une plate-forme ou un autre ouvrage canadiens dans un espace visé aux alinéas 122(2)f) ou g), sauf s’il s’agit de déchets produits à leur bord au cours de leur utilisation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
+
+**Incinération dans les eaux relevant d’un État étranger**
+
+- **(3)** Il est interdit à tout navire canadien de procéder à l’incinération de substances à son bord, dans un espace visé aux alinéas 122(2)f) ou g), sauf s’il s’agit de déchets produits à son bord au cours de son utilisation normale ou que l’incinération est effectuée conformément à un permis délivré au titre du paragraphe 128(2).
+> 1999, ch. 33, art. 126; 2005, ch. 23, art. 23.
+
 
 
 
@@ -2849,17 +2902,17 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **128** 
 
-- **(1)** Les paragraphes 125(1), (2) et (3) interdisant l’immersion de substances sauf s’il s’agit de déchets ou autres matières ne s’appliquent pas à la délivrance d’un permis conformément au présent article.
+- **(1)** Les paragraphes 125(1) à (3.1) interdisant l’immersion de substances sauf s’il s’agit de déchets ou d’autres matières ne s’appliquent pas en cas de délivrance d’un permis en vertu du présent article.
 
 **Immersion ou incinération**
 
-- **(2)** Le ministre peut, sur demande, délivrer un permis pour l’immersion ou l’incinération d’une substance si, selon lui :
+- **(2)** Le ministre peut, sur demande, délivrer un permis pour l’immersion ou l’incinération d’une substance si, selon lui :
 	- **a)** l’immersion ou l’incinération d’une certaine quantité de la substance est nécessaire afin d’éviter une situation d’urgence présentant des risques inacceptables pour l’environnement ou pour la santé humaine;
 	- **b)** aucune autre solution n’est possible.
 
 **Demande**
 
-- **(3)** La demande :
+- **(3)** La demande :
 	- **a)** est présentée en la forme réglementaire;
 	- **b)** contient les renseignements requis par les règlements ou que peut exiger le ministre en vue de se conformer à l’annexe 6;
 	- **c)** est accompagnée des droits réglementaires;
@@ -2876,6 +2929,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Notification**
 
 - **(6)** Le ministre notifie à l’Organisation maritime internationale toute action prise conformément au présent article.
+> 1999, ch. 33, art. 128; 2005, ch. 23, art. 24.
+
 
 
 
@@ -2912,7 +2967,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **130** 
 
-- **(1)** Malgré les autres dispositions de la présente section, il peut être procédé à l’immersion de substances dans le cas suivant :
+- **(1)** Malgré les autres dispositions de la présente section, il peut être procédé à l’immersion de substances dans le cas suivant :
 	- **a)** l’immersion est nécessaire pour éviter les menaces à la vie humaine ou à la sécurité de navires, d’aéronefs, de plates-formes ou d’autres ouvrages en mer découlant d’intempéries ou de toute autre situation mettant en danger la vie humaine ou constituant une menace pour un navire, un aéronef, une plate-forme ou d’autres ouvrages en mer;
 	- **b)** elle apparaît comme le seul moyen de faire face à la menace ou au danger;
 	- **c)** il est probable que les dommages causés seraient moins graves qu’ils ne le seraient sans le recours à l’immersion.
@@ -2928,6 +2983,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Notification et rapport**
 
 - **(4)** Le capitaine du navire, le commandant de bord de l’aéronef ou le responsable de la plate-forme ou de l’ouvrage est tenu de notifier sans délai l’immersion à l’agent de l’autorité ou à toute autre personne désignée par décret du gouverneur en conseil, en donnant dans son rapport, établi au lieu et de la façon prévus par règlement, tous les renseignements réglementaires.
+> 1999, ch. 33, art. 130; 2005, ch. 23, art. 25(A).
+
 
 
 
@@ -3013,9 +3070,17 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier les annexes 5 et 6.
 
-**Demandes de permis canadien**
+**Règlements du ministre**
 
-- **(3)** Le ministre peut, par règlement, fixer la forme des demandes de permis canadien et préciser les renseignements à fournir ou joindre pour ces demandes.
+- **(3)** Le ministre peut, par règlement :
+	- **a)** fixer la forme des demandes de permis canadien;
+	- **b)** préciser les renseignements à fournir ou à joindre à l’égard de ces demandes;
+	- **c)** préciser des faits — actes ou omissions — constituant une immersion pour l’application de l’alinéa g) de la définition de ***immersion*** au paragraphe 122(1);
+	- **d)** préciser, pour l’application de l’alinéa h) de la définition de ***immersion*** au paragraphe 122(1), ce qui est réputé constituer ou ne pas constituer l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage, ou de leur équipement;
+	- **e)** préciser, pour l’application des paragraphes 125(1) à (3.1), ce qui est réputé constituer ou ne pas constituer une élimination visée à l’alinéa h) de la définition de ***immersion*** au paragraphe 122(1), notamment par mention de la quantité ou de la concentration d’une substance ou de tout lieu ou toute zone;
+	- **f)** préciser, pour l’application de l’article 126, ce qui est réputé constituer ou ne pas constituer l’utilisation normale d’un navire, notamment un navire canadien.
+> 1999, ch. 33, art. 135; 2005, ch. 23, art. 26.
+
 
 
 
@@ -3027,6 +3092,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Recouvrement des dépenses**
 
 **136** Dans les cas où le ministre fait prendre, par Sa Majesté du chef du Canada ou pour son compte, des mesures visant à remédier à la situation créée par une contravention à la présente section constituant une infraction à la présente loi, ou à atténuer les dommages qui en découlent, les dépenses directes ou indirectes occasionnées par les mesures, pour autant qu’elles se justifient dans les circonstances, peuvent être recouvrées auprès de l’auteur de l’infraction, avec les frais et dépens de toute action éventuellement engagée à cette fin au nom de Sa Majesté devant tout tribunal compétent.
+> 1999, ch. 33, art. 136; 2005, ch. 23, art. 27(A).
+
 
 
 
@@ -3047,7 +3114,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 4** 
-### COMBUSTIBLES
+### Combustibles
 
 
 
@@ -3252,7 +3319,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 5** 
-### ÉMISSIONS DES VÉHICULES, MOTEURS ET ÉQUIPEMENTS
+### Émissions des véhicules, moteurs et équipements
 
 
 
@@ -3631,7 +3698,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 6** 
-### POLLUTION ATMOSPHÉRIQUE INTERNATIONALE
+### Pollution atmosphérique internationale
 
 
 
@@ -3839,7 +3906,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 7** 
-### POLLUTION INTERNATIONALE DES EAUX
+### Pollution internationale des eaux
 
 
 
@@ -4059,7 +4126,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 
 **SECTION 8** 
-### CONTRÔLE DES MOUVEMENTS DE DÉCHETS DANGEREUX OU DE MATIÈRES RECYCLABLES DANGEREUSES ET DE DÉCHETS NON DANGEREUX RÉGIS DEVANT ÊTRE ÉLIMINÉS DÉFINITIVEMENT
+### Contrôle des mouvements de déchets dangereux ou de matières recyclables dangereuses et de déchets non dangereux régis devant être éliminés définitivement
 
 
 
@@ -4785,11 +4852,35 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **216** Les définitions qui suivent s’appliquent à la présente partie.
 
-***lieu*** Sont notamment visés par la présente définition toute plate-forme fixée en mer, tout conteneur d’expédition et tout moyen de transport.
+***étranger*** S’entend au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md). (*foreign national*)
 
-***moyen de transport*** Est notamment visé par la présente définition tout véhicule, navire ou aéronef.
+***lieu*** Sont notamment visés par la présente définition toute plate-forme fixée en mer, tout conteneur d’expédition et tout moyen de transport. (*place*)
 
-***substance*** S’entend notamment des déchets dangereux, des matières recyclables dangereuses et des déchets non dangereux, au sens des règlements d’application de l’article 191, de même que des déchets et autres matières énumérés à l’annexe 5.
+***moyen de transport*** Est notamment visé par la présente définition tout véhicule, navire ou aéronef. (*conveyance*)
+
+***substance*** S’entend notamment des déchets dangereux, des matières recyclables dangereuses et des déchets non dangereux, au sens des règlements d’application de l’article 191, de même que des déchets et autres matières énumérés à l’annexe 5. (*substance*)
+> 1999, ch. 33, art. 216; 2005, ch. 23, art. 28.
+
+
+
+
+
+**Définition de navire autre qu’un navire canadien**
+
+**216.1** 
+
+- **(1)** Pour l’application des paragraphes 217(6), 218(16) et (17) et 220(5.1) et de l’article 275.1, l’expression ***navire autre qu’un navire canadien*** ne vise pas le navire :
+	- **a)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ni aux termes d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
+		- **(i)** elle a la citoyenneté canadienne,
+		- **(ii)** dans le cas d’un navire qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), elle est domiciliée au Canada et y réside de fait,
+		- **(iii)** s’agissant d’une personne morale, elle a été constituée sous le régime d’une loi fédérale ou provinciale et a son principal établissement au Canada;
+	- **b)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
+
+**Définition de commis dans le cadre de l’application de la présente loi**
+
+- **(2)** Pour l’application des paragraphes 217(4), 271.1(2), des articles 275.1 et 278.1 et des paragraphes 279(1) et (3), l’expression ***commis dans le cadre de l’application de la présente loi*** signifie commis à l’endroit de toute personne exerçant des fonctions ou des pouvoirs au titre de la présente loi ou de toute personne agissant sous sa direction ou son autorité ou par l’une ou l’autre de ces personnes.
+> 2005, ch. 23, art. 29.
+
 
 
 
@@ -4802,7 +4893,7 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **217** 
 
-- **(1)** Le ministre peut désigner, à titre d’agent de l’autorité ou d’analyste pour l’application de tout ou partie de la présente loi :
+- **(1)** Le ministre peut désigner, à titre d’agent de l’autorité ou d’analyste pour l’application de tout ou partie de la présente loi :
 	- **a)** les personnes — ou catégories de personnes — qu’il estime compétentes pour occuper ces fonctions;
 	- **b)** avec l’approbation d’un gouvernement, les personnes affectées — à titre individuel ou au titre de leur appartenance à une catégorie — par celui-ci à l’exécution d’une loi concernant la protection de l’environnement.
 
@@ -4813,6 +4904,20 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Assimilation à agent de la paix**
 
 - **(3)** Pour l’application de la présente loi et de ses règlements, l’agent de l’autorité a tous les pouvoirs d’un agent de la paix; le ministre peut toutefois restreindre ceux-ci lors de la désignation.
+
+**Exercice de certains pouvoirs dans la zone économique exclusive**
+
+- **(4)** Les pouvoirs — notamment en matière d’arrestation, de visite, de perquisition ou de saisie — pouvant être exercés au Canada à l’égard d’une infraction sous le régime de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peuvent l’être, à l’égard d’une infraction à la section 3 de la partie 7 ou à tout règlement pris en vertu de cette section ou d’une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) commise dans le cadre de l’application de la présente loi, dans tout espace visé à l’alinéa 122(2)c) si l’infraction y est commise.
+
+**Exercice des pouvoirs en cas de poursuites immédiates**
+
+- **(5)** Les pouvoirs visés au paragraphe (4) peuvent être exercés dans tout espace visé à l’alinéa 122(2)g) en cas de poursuite immédiate entamée au Canada ou dans un espace visé à l’un des alinéas 122(2)a) à e) et g).
+
+**Consentement du procureur général du Canada**
+
+- **(6)** Les pouvoirs visés au paragraphe (4) ne peuvent être exercés en vertu de ce paragraphe ou du paragraphe (5) à l’égard d’un navire autre qu’un navire canadien ou à l’égard d’un étranger se trouvant à bord d’un navire autre qu’un navire canadien sans le consentement du procureur général du Canada.
+> 1999, ch. 33, art. 217; 2005, ch. 23, art. 30.
+
 
 
 
@@ -4871,12 +4976,12 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Pouvoirs relatifs aux navires**
 
 - **(8)** Pour l’application de la présente loi et de ses règlements, l’agent de l’autorité peut, sous réserve du paragraphe (2), à toute heure convenable :
-	- **a)** partout au Canada ou dans les eaux canadiennes, visiter un navire, un aéronef, une plate-forme ou un autre ouvrage s’il a des motifs raisonnables de croire que s’y trouve une substance destinée à être immergée;
+	- **a)** visiter un aéronef au Canada et visiter un navire, une plate-forme ou un autre ouvrage dans un espace visé à l’un des alinéas 122(2)a) à e), s’il a des motifs raisonnables de croire que s’y trouve une substance destinée à être immergée;
 	- **b)** prendre place à bord d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage chargés d’une substance destinée à être immergée.
 
-**Prise en charge de l’agent de l’autorité**
+**Prise en charge de l’agent de l’autorité et de l’analyste**
 
-- **(9)** L’agent de l’autorité qui, en application de l’alinéa (8)b), se rend sur le lieu de l’immersion a droit à la gratuité du transport à l’aller et au retour; en outre, la personne qui a le commandement du navire ou de l’aéronef, ou la responsabilité de la plate-forme ou de l’autre ouvrage, est tenue de lui assurer repas et hébergement dans des conditions convenables.
+- **(9)** L’agent de l’autorité qui, en application de l’alinéa (8)b), se rend sur le lieu de l’immersion et tout analyste qui l’accompagne ont droit à la gratuité du transport à l’aller et au retour; en outre, la personne qui a le commandement du navire ou de l’aéronef, ou la responsabilité de la plate-forme ou de l’autre ouvrage, est tenue de leur assurer gratuitement repas et hébergement dans des conditions convenables.
 
 **Pouvoirs des agents de l’autorité**
 
@@ -4907,6 +5012,20 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Obligation du responsable**
 
 - **(14)** Le responsable du lieu inspecté doit faire en sorte que l’agent de l’autorité puisse procéder aux opérations mentionnées au paragraphe (13).
+
+**Inspection dans la zone économique exclusive**
+
+- **(15)** Aux fins de vérification de la conformité à la section 3 de la partie 7 ou aux règlements pris en vertu de cette section, les paragraphes (1) à (14) s’appliquent également aux lieux situés dans un espace visé à l’alinéa 122(2)c).
+
+**Consentement du ministre**
+
+- **(16)** Les pouvoirs prévus au présent article ne peuvent être exercés dans un espace visé à l’alinéa 122(2)c) à l’égard d’un navire autre qu’un navire canadien sans le consentement du ministre.
+
+**Aucun consentement requis**
+
+- **(17)** Il est entendu que l’exercice des pouvoirs prévus au présent article à l’égard d’un navire autre qu’un navire canadien n’est pas subordonné au consentement du procureur général du Canada.
+> 1999, ch. 33, art. 218; 2005, ch. 23, art. 31.
+
 
 
 
@@ -4953,6 +5072,12 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 - **(5)** Il est entendu qu’il y a notamment urgence dans les cas où le délai d’obtention du mandat visé aux paragraphes (1) ou (2) risquerait soit de mettre en danger l’environnement ou la vie humaine, soit d’entraîner la perte ou la destruction d’éléments de preuve.
 
+**Exception**
+
+- **(5.1)** Malgré le paragraphe (4), l’agent de l’autorité ne peut exercer sans mandat les pouvoirs mentionnés au paragraphe (3) à l’égard d’un navire autre qu’un navire canadien que si les conditions suivantes sont réunies :
+	- **a)** l’urgence de la situation rend difficilement réalisable l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient réunies;
+	- **b)** le procureur général du Canada a consenti à ce que les pouvoirs soient exercés sans mandat.
+
 **Usage d’un système informatique**
 
 - **(6)** La personne qui procède à la perquisition peut :
@@ -4964,6 +5089,12 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Obligation du responsable du lieu**
 
 - **(7)** Le responsable du lieu objet de la perquisition doit faire en sorte que la personne qui procède à celle-ci puisse procéder aux opérations mentionnées au paragraphe (6).
+
+**Prise en charge**
+
+- **(8)** Quiconque exerce les pouvoirs mentionnés au paragraphe (3) à bord d’un navire ou d’un aéronef ou sur une plate-forme ou un autre ouvrage a droit à la gratuité du transport; en outre, la personne qui a le commandement du navire ou de l’aéronef, ou la responsabilité de la plate-forme ou de l’autre ouvrage, est tenue de lui assurer gratuitement repas et hébergement dans des conditions convenables.
+> 1999, ch. 33, art. 220; 2005, ch. 23, art. 32.
+
 
 
 
@@ -4998,6 +5129,19 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Restitution du bien saisi à défaut d’action**
 
 - **(2)** L’objet de la saisie ou la garantie déposée auprès du ministre en application du paragraphe (1) sont restitués à la personne en la possession de laquelle se trouvait l’objet lors de sa saisie dans les trente jours suivant la date de celle-ci, à moins que des poursuites ne soient intentées, avant l’expiration de ce délai, contre le propriétaire — de l’objet — soupçonné d’avoir commis une infraction visée à l’article 272.
+
+
+
+
+### Arrestation sans mandat
+
+
+
+**Arrestation**
+
+**222.1** L’agent de l’autorité peut arrêter sans mandat toute personne ou tout navire pris en flagrant délit d’infraction à la présente loi ou à ses règlements ou sur le point de commettre une telle infraction. Il le peut également s’il a des motifs raisonnables de croire que cette personne ou ce navire a commis une telle infraction.
+> 2005, ch. 23, art. 33.
+
 
 
 
@@ -5079,9 +5223,13 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 - **(2)** L’ordre est adressé par écrit à quiconque a, dans le port canadien où se trouve ou se trouvera le navire, le pouvoir de lui donner congé.
 
-**Signification**
+**Signification de l’ordre d’arrêt**
 
-- **(3)** L’ordre d’arrêt est signifié au capitaine du navire qui en fait l’objet.
+- **(3)** L’ordre d’arrêt est signifié par remise au capitaine du navire qui en fait l’objet ou, dans le cas où il ne peut être signifié ainsi, par remise à la personne qui est ou semble être responsable du navire, ou, à défaut, par affichage de l’ordre à un endroit bien en vue sur le navire.
+
+**Notification à l’État étranger**
+
+- **(3.1)** Si le navire visé par l’ordre d’arrêt est immatriculé dans un État étranger, cet État est informé du fait que l’ordre a été donné.
 
 **Obligation du propriétaire ou du capitaine du navire**
 
@@ -5097,8 +5245,34 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 	- **a)** lorsque le propriétaire ou le capitaine du navire :
 		- **(i)** soit n’a pas été accusé, dans les trente jours suivant la prise de l’ordre, de l’infraction qui a donné lieu à l’ordre d’arrêt,
 		- **(ii)** soit a été accusé, dans les trente jours suivant la prise de l’ordre, de cette infraction et comparaît au Canada pour répondre à l’accusation;
-	- **b)** lorsque est remise à Sa Majesté du chef du Canada la caution pour le paiement soit de l’amende maximale et des frais et dépens susceptibles d’être imposés à l’accusé en cas de déclaration de culpabilité, soit du montant inférieur approuvé par le ministre ou son délégué;
+	- **b)** dans le cas d’une infraction présumée à la section 3 de la partie 7 ou à un règlement pris en vertu de cette section, lorsque est remis à Sa Majesté du chef du Canada un cautionnement — dont la forme est déterminée par le procureur général du Canada — pour le paiement soit de l’amende maximale et des frais et dépens susceptibles d’être imposés à l’accusé en cas de déclaration de culpabilité, soit de la somme inférieure approuvée par le procureur général du Canada;
+	- **b.1)** dans le cas d’une infraction présumée à la présente loi ou à ses règlements autre qu’une infraction visée à l’alinéa b), lorsque est remis à Sa Majesté du chef du Canada un cautionnement pour le paiement soit de l’amende maximale et des frais et dépens susceptibles d’être imposés à l’accusé en cas de déclaration de culpabilité, soit de la somme inférieure approuvée par le ministre ou son délégué;
 	- **c)** lorsqu’il y a désistement des poursuites relatives à l’infraction présumée qui a donné lieu à l’ordre d’arrêt.
+> 1999, ch. 33, art. 225; 2005, ch. 23, art. 34.
+
+
+
+
+
+### Ordre aux navires
+
+
+
+**Ordre aux navires**
+
+**225.1** 
+
+- **(1)** L’agent de l’autorité peut ordonner au navire qui se trouve dans un espace visé à l’un des alinéas 122(2)a) à d) et g) de se rendre à l’endroit qu’il précise, de la manière et par la route qu’il précise, s’il a des motifs raisonnables de croire :
+	- **a)** que le navire est sur le point de commettre, est en train de commettre ou a commis, dans un espace visé à l’un des alinéas 122(2)a) à d), une infraction à la section 3 de la partie 7 ou à un règlement pris en vertu de cette section;
+	- **b)** qu’une personne à bord est sur le point de commettre, est en train de commettre ou a commis une telle infraction, dans un espace visé à l’un des alinéas 122(2)a) à d), et que le navire est sur le point d’être utilisé, ou est ou a été utilisé dans le cadre de la perpétration de l’infraction.
+
+**Ordre aux navires**
+
+- **(2)** Lorsqu’un navire se trouve dans un espace visé à l’alinéa 122(2)f), l’agent de l’autorité peut, avec le consentement de l’État étranger dont relève cet espace, ordonner au navire de se rendre à l’endroit qu’il précise, de la manière et par la route qu’il précise, s’il a des motifs raisonnables de croire :
+	- **a)** que le navire est sur le point de commettre, est en train de commettre ou a commis, dans un espace visé à l’un des alinéas 122(2)a) à d), une infraction à la section 3 de la partie 7 ou à un règlement pris en vertu de cette section;
+	- **b)** qu’une personne à bord est sur le point de commettre, est en train de commettre ou a commis une telle infraction dans un espace visé à l’un des alinéas 122(2)a) à d), et que le navire est sur le point d’être utilisé, ou est ou a été utilisé dans le cadre de la perpétration de l’infraction.
+> 2005, ch. 23, art. 35.
+
 
 
 
@@ -5692,6 +5866,27 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
+### Actes commis hors du Canada
+
+
+
+**Infractions à la présente loi réputées commises au Canada**
+
+**271.1** 
+
+- **(1)** Est réputé avoir été commis au Canada tout fait — acte ou omission — constituant une infraction à la section 3 de la partie 7 ou à tout règlement pris en vertu de cette section commis soit dans un espace visé à l’alinéa 122(2)c), soit dans un espace visé à l’alinéa 122(2)g) au cours d’une poursuite immédiate entamée alors que le navire se trouvait dans un espace visé à l’un des alinéas 122(2)a) à e).
+
+**Infractions au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) réputées commises au Canada**
+
+- **(2)** Est réputé avoir été commis au Canada tout fait — acte ou omission — qui, commis au Canada, constituerait une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et qui est commis dans le cadre de l’application de la présente loi :
+	- **a)** soit dans un espace visé à l’alinéa 122(2)c);
+	- **b)** soit dans un espace visé à l’alinéa 122(2)g) au cours d’une poursuite immédiate entamée alors que le navire se trouvait dans un espace visé à l’un des alinéas 122(2)a) à e).
+> 2005, ch. 23, art. 36.
+
+
+
+
+
 ### Infractions et peines
 
 
@@ -5712,6 +5907,12 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 - **(2)** L’auteur de l’infraction encourt, sur déclaration de culpabilité :
 	- **a)** par mise en accusation, une amende maximale d’un million de dollars et un emprisonnement maximal de trois ans, ou l’une de ces peines;
 	- **b)** par procédure sommaire, une amende maximale de trois cent mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+**Application aux navires**
+
+- **(3)** Pour l’application du présent article, « quiconque » vise notamment les navires à l’égard de toute disposition de la présente loi ou de ses règlements expressément applicable à eux.
+> 1999, ch. 33, art. 272; 2005, ch. 23, art. 37.
+
 
 
 
@@ -5763,6 +5964,15 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
+**Consentement du procureur général**
+
+**275.1** Il est mis fin aux poursuites intentées à l’égard d’une infraction à la section 3 de la partie 7 ou à tout règlement pris en vertu de cette section ou à l’égard d’une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) commise dans le cadre de l’application de la présente loi si elles ont trait à une infraction commise dans un espace visé à l’alinéa 122(2)c) et que l’accusé est soit un navire autre qu’un navire canadien, soit un étranger qui se trouvait à bord d’un navire autre qu’un navire canadien au moment où l’infraction a été commise, à moins que le procureur général du Canada ne consente à leur continuation au plus tard huit jours après qu’elles ont été intentées.
+> 2005, ch. 23, art. 38.
+
+
+
+
+
 **Infraction continue**
 
 **276** Il peut être compté une infraction distincte à la présente loi pour chacun des jours au cours desquels se commet ou se continue l’infraction.
@@ -5784,34 +5994,118 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-**Tribunal compétent : section 3 de la partie 7**
+**Pouvoirs des juges ou juges de paix**
+
+**278.1** Tout juge ou juge de paix a compétence, comme si l’infraction avait été commise dans son ressort, pour autoriser toute arrestation, visite, perquisition, fouille ou saisie à l’égard d’une infraction à la section 3 de la partie 7 ou à tout règlement pris en vertu de cette section commise dans un espace visé à l’un des alinéas 122(2)c), f) et g), ou à l’égard d’une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) commise dans le cadre de l’application de la présente loi soit dans un espace visé à l’alinéa 122(2)c), soit dans un espace visé à l’alinéa 122(2)g) au cours d’une poursuite immédiate entamée alors que le navire se trouvait dans un espace visé à l’un des alinéas 122(2)a) à e).
+> 2005, ch. 23, art. 39.
+
+
+
+
+
+**Tribunal compétent**
 
 **279** 
 
-- **(1)** Que son auteur ait ou non la citoyenneté canadienne, toute infraction à la section 3 de la partie 7 commise dans les eaux canadiennes relève du tribunal compétent pour des infractions similaires dans la circonscription territoriale la plus proche du lieu de l’infraction et est jugée par ce tribunal comme si elle y avait été commise.
+- **(1)** Toute infraction à la section 3 de la partie 7 ou à un règlement pris en vertu de cette section commise dans un espace visé à l’un des alinéas 122(2) a) à e), ou toute infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) commise dans le cadre de l’application de la présente loi dans un espace visé à l’alinéa 122(2) c), relève du tribunal compétent à l’égard des infractions similaires dans la circonscription territoriale la plus proche du lieu de l’infraction et est jugée par ce tribunal comme si elle y avait été commise.
 
 **Lieu présumé de l’infraction**
 
 - **(2)** Pour l’application du paragraphe (1), le lieu de l’infraction est présumé être soit celui de sa perpétration, soit celui où l’accusé est trouvé.
 
-**Tribunal compétent : section 3 de la partie 7**
+**Tribunal compétent**
 
-- **(3)** Que son auteur ait ou non la citoyenneté canadienne, toute infraction à la section 3 de la partie 7 commise dans tout espace visé aux alinéas 122(2)f) ou g) relève du tribunal compétent pour des infractions similaires commises dans les limites de son ressort normal et est jugée par ce tribunal comme si elle y avait été commise.
+- **(3)** Toute infraction à la section 3 de la partie 7 ou à un règlement pris en vertu de cette section commise dans un espace visé aux alinéas 122(2)f) ou g), ou toute infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) commise dans le cadre de l’application de la présente loi dans un espace visé à l’alinéa 122(2)g) au cours d’une poursuite immédiate entamée alors que le navire se trouvait dans un espace visé à l’un des alinéas 122(2)a) à e), relève du tribunal compétent à l’égard des infractions similaires commises dans les limites de son ressort normal et est jugée par ce tribunal comme si elle y avait été commise.
+> 1999, ch. 33, art. 279; 2005, ch. 23, art. 40.
 
 
 
 
-**Responsabilité pénale : personnes morales**
+
+**Responsabilité pénale : dirigeants, administrateurs et mandataires**
 
 **280** 
 
-- **(1)** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+- **(1)** En cas de perpétration d’une infraction à la présente loi ou à ses règlements par toute personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme coauteurs de l’infraction et encourent la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
 
-**Devoirs des administrateurs**
+**Responsabilité pénale : capitaine et mécanicien en chef**
 
-- **(2)** Les administrateurs et dirigeants d’une personne morale font preuve de la diligence voulue pour faire en sorte que celle-ci se conforme :
-	- **a)** à la présente loi et à ses règlements;
-	- **b)** aux ordres et directives du ministre ou des agents de l’autorité ou réviseurs, aux interdictions qu’ils édictent ou aux obligations qu’ils imposent.
+- **(2)** En cas de perpétration d’une infraction à la présente loi ou à ses règlements par tout navire, le capitaine ou le mécanicien en chef qui l’a ordonnée ou autorisée, ou qui y a consenti ou participé, est considéré comme coauteur de l’infraction et encourt la peine prévue, que le navire ait été ou non poursuivi ou déclaré coupable.
+> 1999, ch. 33, art. 280; 2005, ch. 23, art. 41.
+
+
+
+
+
+**Devoirs des dirigeants et administrateurs**
+
+**280.1** 
+
+- **(1)** Les dirigeants et administrateurs de toute personne morale font preuve de la diligence voulue pour faire en sorte que celle-ci se conforme :
+	- **a)** à la présente loi et à ses règlements, exception faite de la section 3 de la partie 7 et de ses règlements d’application;
+	- **b)** aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs, exception faite de ceux qui sont liés aux obligations ou aux interdictions visées par cette section ou par ses règlements d’application.
+
+**Devoirs des dirigeants et administrateurs — section 3 de la partie 7**
+
+- **(2)** Les dirigeants et administrateurs de toute personne morale qui sont en mesure de diriger ou d’influencer ses orientations ou ses activités relativement à l’obligation de se conformer à la section 3 de la partie 7, aux règlements d’application de cette section et aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements font preuve de la diligence voulue pour faire en sorte qu’elle s’y conforme.
+
+**Responsabilité pénale : dirigeants et administrateurs — section 3 de la partie 7**
+
+- **(3)** En cas de perpétration par toute personne morale d’une infraction à la section 3 de la partie 7 ou à ses règlements d’application, ou de contravention aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements, chacun de ses dirigeants ou administrateurs qui sont en mesure de diriger ou d’influencer ses orientations ou ses activités relativement aux faits reprochés est considéré comme coauteur de l’infraction et encourt la peine prévue pour cette infraction, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+> 2005, ch. 23, art. 41.
+
+
+
+
+
+**Devoirs du capitaine et du mécanicien en chef**
+
+**280.2** 
+
+- **(1)** Le capitaine et le mécanicien en chef d’un navire font preuve de la diligence voulue pour faire en sorte que celui-ci se conforme :
+	- **a)** à la section 3 de la partie 7 et à ses règlements d’application;
+	- **b)** aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements.
+
+**Responsabilité pénale : capitaine et mécanicien en chef**
+
+- **(2)** En cas de perpétration par tout navire d’une infraction à la section 3 de la partie 7 ou à ses règlements d’application, ou de contravention aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements, le capitaine et le mécanicien en chef sont considérés comme coauteurs de l’infraction et encourent la peine prévue pour cette infraction, que le navire ait été ou non poursuivi ou déclaré coupable.
+> 2005, ch. 23, art. 41.
+
+
+
+
+
+**Devoirs du propriétaire**
+
+**280.3** 
+
+- **(1)** Le propriétaire d’un navire fait preuve de la diligence voulue pour faire en sorte que celui-ci et les personnes à bord se conforment :
+	- **a)** à la section 3 de la partie 7 et à ses règlements d’application;
+	- **b)** aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements.
+
+**Responsabilité pénale : dirigeants et administrateurs d’une personne morale propriétaire**
+
+- **(2)** En cas de perpétration par tout navire d’une infraction à la section 3 de la partie 7 ou à ses règlements d’application, ou de contravention aux ordres, directives, interdictions et obligations qui émanent du ministre, des agents de l’autorité ou des réviseurs et qui sont liés aux obligations ou aux interdictions visées par cette section ou par ces règlements, chacun des dirigeants ou administrateurs du propriétaire, lorsque celui-ci est une personne morale qui est en mesure de diriger ou d’influencer les orientations ou les activités du navire relativement aux faits reprochés est considéré comme coauteur de l’infraction et encourt la peine prévue pour cette infraction, que le navire ait été ou non poursuivi ou déclaré coupable.
+> 2005, ch. 23, art. 41.
+
+
+
+
+
+**Interprétation**
+
+**280.4** Il est entendu que l’article 283 s’applique à toute personne pouvant être considérée comme coauteur d’une infraction par application des paragraphes 280.1(3), 280.2(2) et 280.3(2).
+> 2005, ch. 23, art. 41.
+
+
+
+
+
+**Preuve des ordres**
+
+**280.5** Dans le cas de poursuites contre un navire pour omission de se conformer à un ordre donné en vertu des articles 225.1 ou 235, est présumé avoir été donné au navire l’ordre donné au capitaine ou à un membre de l’équipage.
+> 2005, ch. 23, art. 41.
+
 
 
 
@@ -5819,6 +6113,21 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Poursuites contre le propriétaire, capitaine, etc.**
 
 **281** Le propriétaire, le capitaine ou le responsable d’un navire, d’une plate-forme ou d’un autre ouvrage, de même que le propriétaire ou le commandant de bord d’un aéronef, peuvent être valablement inculpés en tant que tels d’infraction à la section 3 de la partie 7 — même s’ils ne sont pas nommément désignés — pourvu que le navire, l’aéronef, la plate-forme ou l’autre ouvrage en cause soit convenablement identifié.
+
+
+
+
+**Poursuites contre les navires**
+
+**281.1** 
+
+- **(1)** Sous réserve du paragraphe (2), les dispositions de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) applicables aux personnes relativement aux actes criminels ou aux infractions punissables par procédure sommaire s’appliquent, avec les adaptations nécessaires, aux navires.
+
+**Signification au navire et comparution**
+
+- **(2)** La signification au navire accusé d’une infraction à la présente loi ou à ses règlements se fait par remise de la citation à comparaître au propriétaire, au capitaine ou à un officier du navire ou par son affichage à un endroit bien en vue sur celui-ci. Le navire peut comparaître par l’intermédiaire d’un avocat ou de tout autre représentant; en cas de défaut de comparution, le tribunal peut, malgré le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), procéder par défaut sur preuve de la signification.
+> 2005, ch. 23, art. 42.
+
 
 
 
