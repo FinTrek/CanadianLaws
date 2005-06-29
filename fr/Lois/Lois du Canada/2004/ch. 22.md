@@ -97,19 +97,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Paiement pour l’exercice 2004-2005**
+**Paiement à la Nouvelle-Écosse pour l’exercice commençant le 1<sup>er</sup> avril 2004**
 
 **8** 
 
-- **(1)** Le ministre des Finances peut, pour l’exercice commençant le 1 <sup>er</sup> avril 2004, faire à la province de la Nouvelle-Écosse un paiement égal au total de vingt et un millions de dollars et de vingt pour cent des revenus minéraux extracôtiers visés par la désignation de l’alinéa z.5) de la définition de ***source de revenu*** au paragraphe 4(2) de la législation antérieure et par la désignation du sous-alinéa 5(1) z.5)(ii) du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md) pour cet exercice.
+- **(1)** Le ministre des Finances peut, pour l’exercice commençant le 1 <sup>er</sup> avril 2004, faire à la province de la Nouvelle-Écosse un paiement de trente-quatre millions de dollars.
 
-**Paiement pour l’exercice 2005-2006**
+**Paiement à la Nouvelle-Écosse pour l’exercice commençant le 1<sup>er</sup> avril 2005**
 
-- **(2)** Le ministre des Finances peut, pour l’exercice commençant le 1<sup>er</sup> avril 2005, faire à la province de la Nouvelle-Écosse un paiement égal à dix pour cent des revenus minéraux extracôtiers visés par la désignation de l’alinéa z.5) de la définition de ***source de revenu*** au paragraphe 4(2) de la législation antérieure et par la désignation du sous-alinéa 5(1)z.5)(ii) du [Règlement de 1999 sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/100.md) pour cet exercice.
+- **(2)** Le ministre des Finances peut, pour l’exercice commençant le 1<sup>er</sup> avril 2005, faire à la province de la Nouvelle-Écosse un paiement de quatre millions de dollars.
 
-**Calcul des revenus minéraux extracôtiers**
-
-- **(3)** Le calcul des revenus minéraux extracôtiers de la province de la Nouvelle-Écosse pour les exercices mentionnés aux paragraphes (1) et (2) se fait par le ministre des Finances après chacun de ces exercices au moment du calcul définitif du paiement de péréquation éventuellement à verser à la province pour l’exercice en question au titre de la partie I de la législation antérieure.
+- **(3)** [Abrogé, 2005, ch. 30, art. 86]
 
 **Paiements sur le Trésor**
 
@@ -118,7 +116,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de législation antérieure**
 
 - **(5)** Pour l’application des paragraphes (1) à (3), ***législation antérieure*** s’entend de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) dans sa version au 13 mai 2004.
-> 2004, ch. 22, art. 8; 2005, ch. 7, art. 8.
+> 2004, ch. 22, art. 8; 2005, ch. 7, art. 8, ch. 30, art. 86.
 
 
 
