@@ -1172,6 +1172,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3.4)** Aucune prolongation au titre des paragraphes 10(10) à (13.3) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
 
+**Restrictions**
+
+- **(3.5)** Si des prestations doivent être payées à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes doivent lui être payées en vertu d’une loi provinciale pour les mêmes raisons, les prestations à payer au titre de la présente loi sont réduites ou supprimées de la manière prévue par règlement.
+
 **Paiement aux deux prestataires de la première catégorie**
 
 - **(4)** Lorsque deux prestataires de la première catégorie prennent soin d’un enfant visé au paragraphe (1), les semaines de prestations payables en vertu du présent article peuvent être partagées entre eux.
@@ -1183,7 +1187,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** un autre prestataire de la première catégorie a présenté une demande de prestations au titre de l’article 22 ou du présent article relativement au même enfant et est en train de purger ou a déjà purgé son délai de carence;
 	- **c)** un autre prestataire de la première catégorie présente une telle demande relativement au même enfant au même moment que lui et choisit de purger son délai de carence;
 	- **d)** lui-même ou un autre prestataire de la première catégorie répond aux exigences prévues par règlement.
-> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18.
+> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130.
 
 
 
@@ -2246,35 +2250,96 @@ c);
 
 
 
+**Calcul du taux de cotisation par l’actuaire en chef**
+
+**65.3** 
+
+- **(1)** Pour chaque année, l’actuaire en chef visé à l’article 31 de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md) calcule le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année.
+
+**Changement du taux**
+
+- **(2)** Si le ministre annonce avant le 15 octobre d’une année un changement aux sommes à payer au titre des alinéas 77(1)a), b) ou c) pour l’année suivante et lui en fait la demande, l’actuaire en chef calcule aussi le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année suivante soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année si le changement prenait effet à la date précisée par le ministre.
+
+**Rapport**
+
+- **(3)** Au plus tard le 14 octobre de chaque année, l’actuaire en chef fait rapport à la Commission du taux de cotisation calculé au titre des paragraphes (1) ou (2) pour l’année suivante et la Commission, dans les meilleurs délais après réception du rapport, le rend accessible au public.
+> 2005, ch. 30, art. 126.
+
+
+
+
+
 **Fixation du taux de cotisation**
 
-**66** Pour chaque année, la Commission fixe, avec l’agrément du gouverneur en conseil, sur la recommandation du ministre et du ministre des Finances, le taux de cotisation qui, à son avis, permet le mieux, au cours d’un cycle économique, d’assurer un apport de revenus suffisant pour couvrir les débits autorisés sur le Compte d’assurance-emploi et maintenir une certaine stabilité des taux.
+**66** 
 
+- **(1)** Sous réserve du paragraphe (2) et des articles 66.1 et 66.3, pour chaque année, la Commission fixe le taux de cotisation en tenant compte :
+	- **a)** du principe voulant que celui-ci, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, soit susceptible de faire en sorte que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année compte tenu, le cas échéant, du changement annoncé par le ministre;
+	- **b)** du rapport de l’actuaire en chef pour l’année en question;
+	- **c)** des éventuelles observations du public.
 
+**Variation**
 
+- **(2)** Le taux de cotisation ne peut varier d’une année à l’autre de plus de quinze centièmes pour cent (0,15 %).
 
-**Taux de cotisation pour 2002 et 2003**
+**Délai**
 
-**66.1** Par dérogation à l’article 66, le taux de cotisation pour l’année 2002 et celui pour l’année 2003 sont fixés par le gouverneur en conseil sur la recommandation du ministre et du ministre des Finances.
-> 2001, ch. 5, art. 9.
-
-
-
-
-
-**Taux de cotisation pour 2004**
-
-**66.2** Par dérogation à l’article 66, le taux de cotisation pour l’année 2004 est fixé à 1,98 %.
-> 2003, ch. 15, art. 21.
+- **(3)** Au plus tard le 14 novembre de chaque année, la Commission fixe le taux de cotisation de l’année suivante.
+> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126.
 
 
 
 
 
-**Taux de cotisation pour 2005**
+**Plafond**
 
-**66.3** Par dérogation à l'article 66, le taux de cotisation pour l'année 2005 est fixé par le gouverneur en conseil sur la recommandation du ministre et du ministre des Finances.
-> 2004, ch. 22, art. 25.
+**66.1** Le taux de cotisation des années 2006 et 2007 ne peut être supérieur à 1,95 %.
+> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126.
+
+
+
+
+
+**Renseignements**
+
+**66.2** Le ministre des Finances, au plus tard le 30 septembre à chaque année, communique à l’actuaire en chef et à la Commission les plus récentes données estimatives liées aux variables économiques qui sont utiles pour le calcul du taux de cotisation pour l’année suivante au titre de l’article 65.3 et du paragraphe 66(1).
+> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126.
+
+
+
+
+
+**Fixation du taux de cotisation par le gouverneur en conseil**
+
+**66.3** Sous réserve du paragraphe 66(2) et de l’article 66.1, s’il l’estime dans l’intérêt public, le gouverneur en conseil peut, au plus tard le 30 novembre d’une année, sur recommandation conjointe du ministre et du ministre des Finances, substituer un autre taux de cotisation à celui qu’a fixé la Commission pour l’année suivante au titre du paragraphe 66(1).
+> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126.
+
+
+
+
+
+**Arrondisse­ment : fraction de un pour cent**
+
+**66.4** Dans les cas visés aux articles 65.3, 66 et 66.3, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
+> 2005, ch. 30, art. 126.
+
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux taux de cotisation fixés au titre des articles 66 ou 66.3 ni aux cotisations fixées au titre des articles 67 et 68. Toutefois, la Commission publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
+> 2005, ch. 30, art. 126.
+
+
+
+
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux taux de cotisation fixés au titre des articles 66 ou 66.3 ni aux cotisations fixées au titre des articles 67 et 68.
+> 2005, ch. 30, art. 126.
 
 
 
@@ -2282,8 +2347,8 @@ c);
 
 **Cotisation ouvrière**
 
-**67** Sous réserve de l'article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66, 66.1, 66.2 ou 66.3, selon le cas.
-> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26.
+**67** Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66 ou 66.3, selon le cas.
+> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26; 2005, ch. 30, art. 126.
 
 
 
@@ -4216,6 +4281,34 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 - **(3)** Toutefois, le régime ne peut avoir pour effet d’assurer des prestations spéciales aux personnes qui sont visées par l’article 7.1.
 > 1996, ch. 23, art. 153.1; 2000, ch. 14, art. 6.
+
+
+
+
+
+**PARTIE VIII.2** 
+## Règlements — régimes provinciaux
+
+
+
+**Règlements**
+
+**153.2** 
+
+- **(1)** Par dérogation aux autres dispositions de la présente loi, dans le cas où le gouvernement fédéral a conclu avec une province un accord à l’égard d’une loi provinciale qui aurait pour effet de réduire ou de supprimer les prestations spéciales mentionnées au paragraphe 69(2), la Commission peut, avec l’agrément du gouverneur en conseil, pour mettre en oeuvre l’accord et pour tenir compte de l’application ou de l’effet de la loi provinciale, prendre les règlements qu’elle juge nécessaires, notamment des règlements :
+	- **a)** prévoyant selon quelles modalités et dans quelle mesure telles dispositions de la présente loi ou de ses règlements s’appliquent;
+	- **b)** adaptant ces dispositions à cette application.
+
+**Règlements**
+
+- **(2)** Ces règlements peuvent prévoir :
+	- **a)** des ajustements financiers et l’inscription du montant de ces ajustements au crédit ou au débit du Compte d’assurance-emploi, notamment :
+		- **(i)** le remboursement des versements excédentaires des cotisations ouvrières,
+		- **(ii)** le redressement des cotisations entre la province et le gouvernement fédéral,
+		- **(iii)** le remboursement par la province des prestations payées par le gouvernement fédéral conformément à toute entente administrative conclue entre eux;
+	- **b)** l’échange des renseignements, recueillis en vertu de la loi provinciale ou de la présente loi;
+	- **c)** l’administration des prestations à payer selon la présente loi aux personnes qui travaillent ou qui résident dans la province ou qui ont présenté une demande sous le régime de la loi provinciale et la modification du montant des prestations à payer au titre de la présente loi à ces personnes ou à leur égard ou du nombre de semaines où elles sont versées.
+> 2005, ch. 30, art. 131.
 
 
 
