@@ -1287,41 +1287,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Documents comptables**
-
 **60** 
 
-- **(1)** La Société veille, pour elle-même et ses filiales à cent pour cent :
-	- **a)** à faire tenir des documents comptables;
-	- **b)** à ce que soient mis en oeuvre des méthodes de gestion, ainsi que des moyens de contrôle et d’information en matière de finances et de gestion.
-
-**Idem**
-
-- **(2)** Elle doit s’acquitter de cette double obligation de façon à garantir, dans la mesure du possible :
-	- **a)** la protection et le contrôle de ses actifs et de ceux de ses filiales;
-	- **b)** la conformité des opérations de la Société et de chaque filiale avec la présente partie et les règlements administratifs de la Société ou de la filiale et, dans le cas d’une filiale, leur conformité avec ses documents constitutifs;
-	- **c)** la gestion économique et efficace de ses ressources financières, humaines et matérielles et de celles de ses filiales et l’efficacité de ses opérations et de celles de ses filiales.
-
-**Vérification interne**
-
-- **(3)** La Société fait faire des vérifications internes de ses opérations et de celles de ses filiales à cent pour cent afin de surveiller l’observation des paragraphes (1) et (2).
-
-**États financiers**
-
-- **(4)** La Société établit et fait établir par ses filiales à cent pour cent, pour chaque année, des états financiers selon les principes comptables généralement admis, compte tenu des obligations complémentaires prévues par règlement d’application du paragraphe (6).
-
-**Présentation**
-
-- **(5)** La présentation de ces états financiers met en évidence les principales activités de la Société ou de ses filiales.
-
-**Règlement**
-
-- **(6)** Pour l’application du paragraphe (4), le Conseil du Trésor peut prendre, à l’égard des états financiers de la Société, des règlements qui ajoutent aux principes comptables généralement admis.
+- **(1) à (6)** [Abrogés, 2005, ch. 30, art. 41]
 
 **Rapports au ministre**
 
 - **(7)** Le conseil d’administration remet au ministre les rapports des opérations financières de la Société demandés par celui-ci.
+> 1991, ch. 11, art. 60; 2005, ch. 30, art. 41.
+
 
 
 
@@ -1332,157 +1306,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**62** [Abrogé, 2005, ch. 30, art. 42]
 
-**Rapport annuel du vérificateur**
 
-**62** 
 
-- **(1)** La Société fait établir un rapport annuel de vérification à l’égard de ses opérations et de celles de ses filiales à cent pour cent en conformité avec les règlements; le rapport est remis au conseil d’administration et au ministre.
+**63** [Abrogé, 2005, ch. 30, art. 42]
 
-**Contenu**
 
-- **(2)** Le rapport de vérification comporte notamment les éléments suivants :
-	- **a)** des énoncés distincts indiquant si, de l’avis du vérificateur :
-		- **(i)** les états financiers sont présentés sincèrement en conformité avec les principes comptables généralement admis appliqués d’une façon compatible avec celle de l’année précédente,
-		- **(ii)** les renseignements chiffrés qui figurent dans le rapport d’activité de la Société et qui lui ont été soumis par le conseil d’administration sont précis dans tous leurs aspects importants et, s’il y a lieu, ont été préparés d’une façon compatible avec celle de l’année précédente,
-		- **(iii)** les opérations de la Société et de ses filiales portées à sa connaissance au cours de l’établissement de son rapport ont été effectuées en conformité avec la présente partie et les règlements administratifs de la Société ou de ses filiales;
-	- **b)** la mention des autres questions qui relèvent de sa compétence dans le cadre de l’établissement du rapport et qu’il estime devoir être portées à l’attention du Parlement.
 
-**Règlements**
+**64** [Abrogé, 2005, ch. 30, art. 42]
 
-- **(3)** Le Conseil du Trésor peut, par règlement, prévoir la façon d’établir le rapport visé au paragraphe (1), ainsi que sa présentation matérielle.
 
-**Autres rapports**
 
-- **(4)** Le vérificateur établit tout autre rapport, sur la Société ou sur l’une de ses filiales à cent pour cent, demandé par le gouverneur en conseil.
+**65** [Abrogé, 2005, ch. 30, art. 42]
 
-**Examens**
 
-- **(5)** Le vérificateur fait les examens qu’il estime nécessaires à l’établissement de ses rapports.
 
-**Utilisation des données d’une vérification interne**
+**66** [Abrogé, 2005, ch. 30, art. 42]
 
-- **(6)** Le vérificateur, dans la mesure où il le juge utile, se fie aux résultats de toute vérification interne faite en conformité avec le paragraphe 60(3).
 
 
+**67** [Abrogé, 2005, ch. 30, art. 42]
 
 
-**Erreurs et omissions**
 
-**63** 
+**68** [Abrogé, 2005, ch. 30, art. 42]
 
-- **(1)** Les administrateurs et les dirigeants de la Société avisent sans délai le vérificateur et le comité de vérification de la Société des erreurs ou des omissions qu’ils trouvent dans les états financiers sur lesquels le vérificateur a fait rapport ou dans un rapport établi par celui-ci en conformité avec le paragraphe 62(1).
 
-**Idem**
 
-- **(2)** Le vérificateur qui est avisé de l’existence d’une telle erreur ou d’une telle omission ou qui en trouve une en avise sans délai les administrateurs s’il l’estime importante.
-
-**Rectificatif**
-
-- **(3)** Suite à l’avis du vérificateur, la Société établit des états financiers révisés ou le vérificateur apporte un rectificatif à son rapport; copie de ceux-ci est remise au ministre.
-
-
-
-
-**Examens spéciaux**
-
-**64** 
-
-- **(1)** La Société fait faire par le vérificateur un examen spécial de ses opérations et de celles de ses filiales à cent pour cent afin de déterminer si l’obligation visée à l’alinéa 60(1) b) a été exécutée, pendant la période considérée, de façon à garantir dans la mesure du possible :
-	- **a)** la protection et le contrôle de ses actifs et de ceux de ses filiales;
-	- **b)** la gestion économique et efficace de ses ressources financières, humaines et matérielles et de celles de ses filiales et l’efficacité de ses opérations et de celles de ses filiales.
-
-**Périodicité**
-
-- **(2)** Un examen spécial a lieu, d’une part, au moins tous les cinq ans, d’autre part, à la demande du gouverneur en conseil, du ministre ou du conseil d’administration.
-
-**Plan d’action**
-
-- **(3)** Avant de commencer un examen spécial, le vérificateur étudie les moyens et les méthodes de la Société et présente au comité de vérification de celle-ci un plan d’action, notamment quant aux critères qu’il entend appliquer.
-
-**Désaccord**
-
-- **(4)** Les désaccords entre le vérificateur et le comité de vérification ou le conseil d’administration sur le plan d’action peuvent être tranchés, dans le cas de la Société, par le ministre, dans le cas d’une filiale à cent pour cent, par la Société.
-
-**Utilisation de données**
-
-- **(5)** Le vérificateur, dans la mesure où il le juge utile, se fie au résultat de toute vérification interne faite en conformité avec le paragraphe 60(3).
-
-**Rapport**
-
-- **(6)** Une fois terminé l’examen spécial, le vérificateur établit un rapport de ses résultats et le soumet au conseil d’administration.
-
-**Contenu**
-
-- **(7)** Le rapport du vérificateur comporte un énoncé indiquant, d’une part, si à son avis, compte tenu des critères de son plan d’action, les moyens et les méthodes étudiés ne comportent vraisemblablement aucun défaut majeur, d’autre part, dans quelle mesure il s’est fié aux résultats de la vérification interne.
-
-**Rapport spécial**
-
-- **(8)** Après consultation du conseil d’administration, le vérificateur, s’il est d’avis que son rapport contient des renseignements qui devraient être portés à l’attention du ministre, en fait rapport à celui-ci. Copie de ce rapport est remise aux administrateurs.
-
-**Idem**
-
-- **(9)** Après consultation du ministre et du conseil d’administration, le vérificateur peut faire un tel rapport — à inclure dans le prochain rapport d’activité de la Société — au Parlement au sujet des renseignements qui, à son avis, devraient être portés à l’attention de celui-ci. Copie du rapport est remise au ministre et au conseil d’administration.
-
-
-
-
-**Accès aux renseignements**
-
-**65** 
-
-- **(1)** Les administrateurs, dirigeants, salariés ou mandataires de la Société, ou leurs prédécesseurs, doivent, à la demande du vérificateur lui fournir des renseignements et des éclaircissements et lui donner accès à tous les registres, documents, livres, comptes et pièces justificatives de la Société ou de ses filiales. Ils se conforment, selon leurs possibilités, à la demande dans la mesure jugée nécessaire, par le vérificateur, à la préparation des rapports prévus par la présente partie.
-
-**Idem**
-
-- **(2)** Le conseil d’administration recueille auprès des administrateurs, dirigeants, salariés ou mandataires des filiales de la Société, ou de leurs prédécesseurs, selon les possibilités de ceux-ci, et transmet au vérificateur les renseignements et éclaircissements demandés par celui-ci et nécessaires, de l’avis de celui-ci, à la préparation des rapports prévus par la présente partie.
-
-
-
-
-**Restrictions**
-
-**66** La présente partie n’autorise pas le vérificateur à exprimer son opinion sur le bien-fondé de questions d’orientation, notamment sur celui de la mission de la Société ou des restrictions quant aux activités qu’elle peut exercer, de ses objectifs et des décisions, touchant ses activités ou ses orientations, prises par celle-ci ou par le gouvernement du Canada.
-
-
-
-
-**Immunité relative**
-
-**67** Le vérificateur jouit d’une immunité relative en ce qui concerne les déclarations orales ou écrites et les rapports qu’il fait sous le régime de la présente partie.
-
-
-
-
-**Coût des vérifications et examens**
-
-**68** Les coûts exposés par le vérificateur dans l’établissement des rapports visés au paragraphe 62(1) ou à l’article 64 figurent dans le prochain rapport annuel du vérificateur général du Canada et sont supportés par son bureau.
-
-
-
-
-**Comité de vérification**
-
-**69** 
-
-- **(1)** La Société constitue un comité de vérification formé d’au moins trois administrateurs.
-
-**Fonctions**
-
-- **(2)** Le comité de vérification est chargé des fonctions suivantes :
-	- **a)** examiner les états financiers à inclure dans le rapport d’activité de la Société et conseiller le conseil d’administration à leur égard;
-	- **b)** superviser les vérifications internes visées au paragraphe 60(3);
-	- **c)** examiner le rapport de vérification visé au paragraphe 62(1) et conseiller le conseil d’administration à cet égard;
-	- **d)** lorsque la Société fait l’objet d’un examen spécial, examiner le plan et les rapports mentionnés à l’article 64 et conseiller le conseil d’administration à cet égard;
-	- **e)** exécuter les autres fonctions que lui attribue le conseil d’administration.
-
-**Présence du vérificateur**
-
-- **(3)** Le vérificateur a le droit de recevoir avis de chacune des réunions du comité de vérification, d’y assister et d’y prendre la parole; il a le devoir d’y assister, sur demande d’un membre du comité.
-
-**Tenue des réunions**
-
-- **(4)** Le vérificateur ou un membre du comité peut demander la tenue d’une réunion du comité.
+**69** [Abrogé, 2005, ch. 30, art. 42]
 
 
 
@@ -1510,13 +1362,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présentation et contenu**
 
-- **(3)** Le rapport d’activité contient notamment les éléments suivants :
-	- **a)** les états financiers visés à l’article 60;
-	- **b)** le rapport visé au paragraphe 62(1);
+- **(3)** Le rapport d’activité contient notamment les éléments suivants :
+	- **a)** les états financiers visés au paragraphe 131(4) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **b)** le rapport visé à l’article 132 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **c)** un énoncé de la mesure dans laquelle la Société a réalisé ses objectifs pour l’exercice en question;
 	- **d)** les renseignements chiffrés sur les résultats de la Société et, le cas échéant, ceux de ses filiales à cent pour cent, par rapport à ses objectifs;
 	- **e)** les autres renseignements relatifs aux opérations financières de celle-ci exigés par le ministre ou la présente partie.
 La présentation du rapport met en évidence les principales activités de la Société et, le cas échéant, de ses filiales à cent pour cent.
+> 1991, ch. 11, art. 71; 2005, ch. 30, art. 43.
+
 
 
 
