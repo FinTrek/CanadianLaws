@@ -236,6 +236,21 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 
 
+**Death of borrower — section 6.1 loan**
+
+**10.1** 
+
+- **(1)** All obligations of a borrower in respect of a loan made under an agreement entered into under section 6.1 terminate if the borrower dies.
+
+**Death of borrower before this section in force**
+
+- **(2)** If a borrower dies before this section comes into force, then all obligations of that borrower in respect of such a loan terminate on the day on which this section comes into force.
+> 2005, c. 30, s. 110
+
+
+
+
+
 **Permanent disability of borrower**
 
 **11** 
@@ -247,6 +262,15 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 - **(2)** For the purposes of subsection (1), the permanent disability must occur
 	- **(a)** in the case of a full-time student, before the first day of the seventh month after the month in which the borrower ceases to be a full-time student; and
 	- **(b)** in the case of a part-time student, before the day on which the lender and the borrower enter into the student loan agreement.
+
+
+
+
+**Permanent disability of borrower — section 6.1 loan**
+
+**11.1** All obligations of a borrower in respect of a loan made under an agreement entered into under section 6.1 terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided to the Minister by or on behalf of the borrower, that the borrower, by reason of the borrower’s permanent disability, is or will be unable to repay the loan without exceptional hardship, taking into account the borrower’s family income.
+> 2005, c. 30, s. 111
+
 
 
 
@@ -327,8 +351,7 @@ by
 
 **Non-participating provinces**
 
-- **(2)** The government of a province that, on the coming into force of this section, is not participating in the student loan plan established by the  
-[Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) is deemed to have notified the Minister as described in subsection (1) in respect of the loan year in which this section comes into force.
+- **(2)** The government of a province that, on the coming into force of this section, is not participating in the student loan plan established by the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) is deemed to have notified the Minister as described in subsection (1) in respect of the loan year in which this section comes into force.
 
 **Opting in, or opting back in**
 
@@ -337,26 +360,19 @@ by
 **Calculation of alternative amount**
 
 - **(4)** The alternative amount for a province for a loan year (in this subsection referred to as the “current loan year”) is the amount, as determined by the Minister after consultation with the Chief Statistician of Canada, obtained by
-	- **( 
-a)** multiplying
+	- **(a)** multiplying
 		- **(i)** the net per capita costs for participating provinces for the loan year beginning on August 1, 1990,
 by
 		- **(ii)** the product obtained by multiplying the estimated number of persons in that province who, on the first day of the current loan year, have attained eighteen years of age and have not attained twenty-five years of age by the escalator determined under subsection (5), for each loan year in the period beginning on August 1, 1991 and ending on July 31 of the current loan year; and
-	- **( 
-b)** subtracting from the product obtained under paragraph ( 
-a) the net costs for that province for the current loan year.
+	- **(b)** subtracting from the product obtained under paragraph (a) the net costs for that province for the current loan year.
 
 **Escalator**
 
-- **(5)** For the purposes of subparagraph (4)( 
-a)(ii),
-	- **( 
-a)** subject to paragraph ( 
-b), the escalator for a loan year is a fraction of which
+- **(5)** For the purposes of subparagraph (4)(a)(ii),
+	- **(a)** subject to paragraph (b), the escalator for a loan year is a fraction of which
 		- **(i)** the numerator is the net per capita costs for participating provinces for that loan year, and
 		- **(ii)** the denominator is the net per capita costs for participating provinces for the previous loan year; and
-	- **( 
-b)** the escalator for the first loan year in which a provincial student financial assistance plan will be in operation in the province, as stated in the notice under subsection (1), is a fraction of which
+	- **(b)** the escalator for the first loan year in which a provincial student financial assistance plan will be in operation in the province, as stated in the notice under subsection (1), is a fraction of which
 		- **(i)** the numerator is the net per capita costs for participating provinces for that first loan year, and
 		- **(ii)** the denominator is the net per capita costs for the previous loan year for provinces that are participating provinces in that first loan year.
 
@@ -365,123 +381,65 @@ b)** the escalator for the first loan year in which a provincial student financi
 - **(6)** In this section,
 
 ***net costs***, for a province for a loan year, means the amount determined by the formula 
-
 ```
 (A + B) - (C + D)
 ```
 where
 - **A** is the estimated aggregate of all amounts paid by the Minister in that loan year
-- **( 
-a)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the  
-[Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authority for that province, and
-- **( 
-b)** to persons pursuant to regulations made under paragraph 15( 
-p),excluding
-- **( 
-c)** any amounts paid pursuant to paragraph 5( 
-e) or pursuant to regulations made under paragraph 15( 
-o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
-- **( 
-d)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18( 
-b)(ii),
+- **(a)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authority for that province, and
+- **(b)** to persons pursuant to regulations made under paragraph 15(p),excluding
+- **(c)** any amounts paid pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
+- **(d)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii),
 - **B** is the estimated aggregate of
-- **( 
-a)** the amount of interest calculated in that loan year in respect of outstanding loans referred to in the description of A made under an agreement entered into under section 6.1, at the rate of interest fixed or determined in accordance with subsection 20(2),
-- **( 
-b)** the amount by which the outstanding principal in respect of all loans referred to in paragraph ( 
-a) has been reduced in that loan year in accordance with the regulations,
-- **( 
-c)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph ( 
-a) for which the Minister has, in that loan year, cancelled the obligation to pay, in accordance with the regulations, as a result of the death or disability of the borrower, and
-- **( 
-d)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph ( 
-a) for which the Minister has commenced collection action in that loan year, minus the amount of the outstanding principal and interest in respect of loans referred to in that paragraph for which the Minister has ended collection action in that loan year due to the occurrence of an event set out in the regulations that resulted in the removal of restrictions to financial assistance,
-- **C** is the estimated aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the  
-[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in the description of A, other than loans made under an agreement entered into under section 6.1, excluding
-- **( 
-a)** any amounts received pursuant to paragraph 5( 
-e) or pursuant to regulations made under paragraph 15( 
-o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
-- **( 
-b)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18( 
-b)(ii), and
+- **(a)** the amount of interest calculated in that loan year in respect of outstanding loans referred to in the description of A made under an agreement entered into under section 6.1, at the rate of interest fixed or determined in accordance with subsection 20(2),
+- **(b)** the amount by which the outstanding principal in respect of all loans referred to in paragraph (a) has been reduced in that loan year in accordance with the regulations,
+- **(c)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph (a) for which the borrower’s obligations have terminated in that loan year as a result of the death or disability of the borrower, and
+- **(d)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph (a) for which the Minister has commenced collection action in that loan year, minus the amount of the outstanding principal and interest in respect of loans referred to in that paragraph for which the Minister has ended collection action in that loan year due to the occurrence of an event set out in the regulations that resulted in the removal of restrictions to financial assistance,
+- **C** is the estimated aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in the description of A, other than loans made under an agreement entered into under section 6.1, excluding
+- **(a)** any amounts received pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
+- **(b)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii), and
 - **D** is the estimated aggregate of
-- **( 
-a)** the amount of interest received by or on behalf of Her Majesty in right of Canada in that loan year in respect of loans referred to in the description of A that were made under an agreement entered into under section 6.1, and
-- **( 
-b)** any amounts received in that loan year pursuant to collection action taken by the Minister in respect of loans referred to in paragraph ( 
-a).
+- **(a)** the amount of interest received by or on behalf of Her Majesty in right of Canada in that loan year in respect of loans referred to in the description of A that were made under an agreement entered into under section 6.1, and
+- **(b)** any amounts received in that loan year pursuant to collection action taken by the Minister in respect of loans referred to in paragraph (a).
 
-***net per capita costs***, for participating provinces for a loan year, means a fraction of which 
+***net per capita costs***, for participating provinces for a loan year, means a fraction of which
+- **(a)** the numerator is the amount by which the total program net costs for that loan year exceed the aggregate of the net costs for that loan year for all provinces that are not participating provinces in that loan year, and
+- **(b)** the denominator is the estimated number of persons in the participating provinces who, on the first day of the loan year, have attained eighteen years of age and have not attained twenty-five years of age;
 
-- **( 
-a)** the numerator is the amount by which the total program net costs for that loan year exceed the aggregate of the net costs for that loan year for all provinces that are not participating provinces in that loan year, and
-- **( 
-b)** the denominator is the estimated number of persons in the participating provinces who, on the first day of the loan year, have attained eighteen years of age and have not attained twenty-five years of age;
-
-***total program net costs***, for a loan year, means the amount determined by the formula 
-
+***total program net costs***, for a loan year, means the amount determined by the formula
 ```
 (A + B) - (C + D)
 ```
 where
 - **A** is the aggregate of all amounts paid by the Minister in that loan year
-- **( 
-a)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the  
-[Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authorities for participating provinces, and
-- **( 
-b)** to persons pursuant to regulations made under paragraph 15( 
-p),excluding
-- **( 
-c)** any amounts paid pursuant to paragraph 5( 
-e) or pursuant to regulations made under paragraph 15( 
-o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
-- **( 
-d)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18( 
-b)(ii),
+- **(a)** to lenders, service providers or financial institutions under this Act, the regulations or an agreement entered into under section 5, 6.2 or 6.3, to lenders under the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md) or the regulations made under that Act, and to collection agencies, in respect of student loans or guaranteed student loans made pursuant to certificates of eligibility issued or caused to be issued in any loan year by the appropriate authorities for participating provinces, and
+- **(b)** to persons pursuant to regulations made under paragraph 15(p),excluding
+- **(c)** any amounts paid pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
+- **(d)** any provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii),
 - **B** is the aggregate of
-- **( 
-a)** the estimated amount of interest calculated in that loan year in respect of outstanding loans referred to in the description of A made under an agreement entered into under section 6.1, at the rate of interest fixed or determined in accordance with subsection 20(2),
-- **( 
-b)** the amount by which the outstanding principal in respect of all loans referred to in paragraph ( 
-a) has been reduced in that loan year in accordance with the regulations,
-- **( 
-c)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph ( 
-a) for which the Minister has, in that loan year, cancelled the obligation to pay, in accordance with the regulations, as a result of the death or disability of the borrower, and
-- **( 
-d)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph ( 
-a) for which the Minister has commenced collection action in that loan year, minus the amount of the outstanding principal and interest in respect of loans referred to in that paragraph for which the Minister has ended collection action in that loan year due to the occurrence of an event set out in the regulations that resulted in the removal of restrictions to financial assistance,
-- **C** is the aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the  
-[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in the description of A, other than loans made under an agreement entered into under section 6.1, excluding
-- **( 
-a)** any amounts received pursuant to paragraph 5( 
-e) or pursuant to regulations made under paragraph 15( 
-o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
-- **( 
-b)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18( 
-b)(ii), and
+- **(a)** the estimated amount of interest calculated in that loan year in respect of outstanding loans referred to in the description of A made under an agreement entered into under section 6.1, at the rate of interest fixed or determined in accordance with subsection 20(2),
+- **(b)** the amount by which the outstanding principal in respect of all loans referred to in paragraph (a) has been reduced in that loan year in accordance with the regulations,
+- **(c)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph (a) for which the borrower’s obligations have terminated in that loan year as a result of the death or disability of the borrower, and
+- **(d)** the amount of the outstanding principal and interest in respect of all loans referred to in paragraph (a) for which the Minister has commenced collection action in that loan year, minus the amount of the outstanding principal and interest in respect of loans referred to in that paragraph for which the Minister has ended collection action in that loan year due to the occurrence of an event set out in the regulations that resulted in the removal of restrictions to financial assistance,
+- **C** is the aggregate of all amounts received by or on behalf of Her Majesty in right of Canada in that loan year, including any amount received pursuant to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), in respect of loans referred to in the description of A, other than loans made under an agreement entered into under section 6.1, excluding
+- **(a)** any amounts received pursuant to paragraph 5(e) or pursuant to regulations made under paragraph 15(o) that provide for the repayment of student loans by borrowers on an income-contingent basis, and
+- **(b)** any amounts received by or on behalf of Her Majesty in right of Canada in respect of a provincial share paid pursuant to an agreement or arrangement made under subparagraph 18(b)(ii), and
 - **D** is the aggregate of
-- **( 
-a)** the amount of interest received by or on behalf of Her Majesty in right of Canada in that loan year in respect of loans referred to in the description of A that were made under an agreement entered into under section 6.1, and
-- **( 
-b)** any amounts received in that loan year pursuant to collection action taken by the Minister in respect of loans referred to in paragraph ( 
-a).
+- **(a)** the amount of interest received by or on behalf of Her Majesty in right of Canada in that loan year in respect of loans referred to in the description of A that were made under an agreement entered into under section 6.1, and
+- **(b)** any amounts received in that loan year pursuant to collection action taken by the Minister in respect of loans referred to in paragraph (a).
 
 **Exception**
 
-- **(7)** The following amounts shall be included in the calculations described in the definitions 
-***net costs*** and 
-***total program net costs*** in subsection (6) only if the government of the province satisfies the Minister, by written notice received by the Minister before the beginning of the loan year in question, that, in relation to the matter in question, the provincial student financial assistance plan has substantially the same effect as the plan established by this Act and the regulations:
+- **(7)** The following amounts shall be included in the calculations described in the definitions ***net costs*** and ***total program net costs*** in subsection (6) only if the government of the province satisfies the Minister, by written notice received by the Minister before the beginning of the loan year in question, that, in relation to the matter in question, the provincial student financial assistance plan has substantially the same effect as the plan established by this Act and the regulations:
 	- **(a)** amounts that are determined as a result of the application of subparagraph 5(a)(viii) or section 7, 10 or 11;
 	- **(b)** amounts in relation to programs established by regulations made under paragraph 15(l), (m), (n) or (p);
-	- **(c)** in respect of loans made under an agreement entered into under section 6.1, amounts in relation to a termination of the Minister’s rights or a reduction in the outstanding principal resulting from the operation of regulations made under paragraph 15(o), other than regulations that provide for the repayment of student loans by borrowers on an income-contingent basis; and
-	- **(d)** amounts in relation to programs established by regulations made under section 11 of the 
-[Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md).
+	- **(c)** in respect of loans made under an agreement entered into under section 6.1, amounts in relation to a termination of a borrower’s obligations under section 10.1 or 11.1 or to a reduction in the outstanding principal resulting from the operation of regulations made under paragraph 15(o), other than regulations that provide for the repayment of student loans by borrowers on an income-contingent basis; and
+	- **(d)** amounts in relation to programs established by regulations made under section 11 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md).
 
 **Negative amounts**
 
 - **(8)** If the amount determined by the formula “(A + B) - (C + D)” in subsection (6) would, but for this subsection, be a negative amount, it is deemed to be zero.
-> 1994, c. 28, s. 14; 2000, c. 14, s. 19; 2003, c. 15, s. 10
+> 1994, c. 28, s. 14; 2000, c. 14, s. 19; 2003, c. 15, s. 10; 2005, c. 30, s. 112
 
 
 
