@@ -97,19 +97,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Payment for fiscal year 2004-2005**
+**Payment for 2004-2005**
 
 **8** 
 
-- **(1)** For the fiscal year beginning on April 1, 2004, the Minister of Finance may make a cash payment to the Province of Nova Scotia in an amount equal to the aggregate of twenty-one million dollars and an amount equal to 20 per cent of the Province’s offshore minerals revenue for that fiscal year included in the description set out in paragraph (z.5) of the definition ***revenue source*** in subsection 4(2) of the former legislation and subparagraph 5(1)(z.5)(ii) of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md).
+- **(1)** For the fiscal year beginning on April 1, 2004, the Minister of Finance may make a cash payment to the Province of Nova Scotia in the amount of thirty-four million dollars.
 
-**Payment for fiscal year 2005-2006**
+**Payment for 2005-2006**
 
-- **(2)** For the fiscal year beginning on April 1, 2005, the Minister of Finance may make a cash payment to the Province of Nova Scotia in an amount equal to 10 per cent of the Province’s offshore minerals revenue for that fiscal year included in the description set out in paragraph (z.5) of the definition ***revenue source*** in subsection 4(2) of the former legislation and subparagraph 5(1)(z.5)(ii) of the [Federal-Provincial Fiscal Arrangements Regulations, 1999](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/100.md).
+- **(2)** For the fiscal year beginning on April 1, 2005, the Minister of Finance may make a cash payment to the Province of Nova Scotia in the amount of four million dollars.
 
-**Determination of offshore minerals revenue**
-
-- **(3)** The offshore minerals revenue of the Province of Nova Scotia for each of the fiscal years referred to in subsections (1) and (2) shall be determined by the Minister of Finance after the end of that fiscal year at the time of the final computation of the amount, if any, of the fiscal equalization payment that is payable to the Province for that fiscal year under Part I of the former legislation.
+- **(3)** [Repealed, 2005, c. 30, s. 86]
 
 **Payment out of C.R.F.**
 
@@ -118,7 +116,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of former legislation**
 
 - **(5)** In subsections (1) to (3), ***former legislation*** means the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) as it read on May 13, 2004.
-> 2004, c. 22, s. 8; 2005, c. 7, s. 8.
+> 2004, c. 22, s. 8; 2005, c. 7, s. 8, c. 30, s. 86.
 
 
 
