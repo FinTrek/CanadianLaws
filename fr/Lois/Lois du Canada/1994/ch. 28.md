@@ -233,6 +233,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Décès : prêt consenti sous le régime de l’article 6.1**
+
+**10.1** 
+
+- **(1)** Dans le cas d’un prêt consenti sous le régime de l’article 6.1, les obligations de l’emprunteur s’éteignent lorsque celui-ci décède.
+
+**Décès avant l’entrée en vigueur du paragraphe (1)**
+
+- **(2)** Toutefois, si le décès survient avant la date d’entrée en vigueur du paragraphe (1), les obligations de l’emprunteur s’éteignent à cette date.
+> 2005, ch. 30, art. 110
+
+
+
+
+
 **Invalidité**
 
 **11** 
@@ -244,6 +259,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application du paragraphe (1), l’extinction des droits ne se réalise que si l’invalidité permanente survient :
 	- **a)** dans le cas d’un prêt consenti à un étudiant à temps plein, avant le premier jour du septième mois suivant celui où il a cessé de l’être;
 	- **b)** dans le cas d’un prêt consenti à un étudiant à temps partiel, avant la conclusion du contrat de prêt simple.
+
+
+
+
+**Invalidité : prêt consenti sous le régime de l’article 6.1**
+
+**11.1** Dans le cas d’un prêt consenti sous le régime de l’article 6.1, les obligations de l’emprunteur s’éteignent lorsque, sur communication par celui-ci — ou en son nom — des renseignements que le ministre détermine, le ministre est convaincu que, en raison d’une invalidité permanente et compte tenu du revenu familial, l’emprunteur ne peut ou ne pourra rembourser son prêt sans privations excessives.
+> 2005, ch. 30, art. 111
+
 
 
 
@@ -355,10 +379,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 où :
 - **A** représente le total estimatif des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par l’autorité compétente de la province, ainsi que le total estimatif des sommes versées aux personnes visées à l’alinéa 15p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **B** le total estimatif des sommes suivantes :
-- **a)** le montant des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
-- **b)** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa a);
-- **c)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) dont le ministre annule, au cours de cette année, l’obligation de paiement en conformité avec les règlements, en raison du décès ou de l’invalidité de l’emprunteur;
-- **d)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
+- **a)
+** le montant des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
+- **b)
+** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa 
+a);
+- **c)
+** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
+a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
+- **d)
+** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
+a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
 - **C** le total estimatif des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **D** le total estimatif des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts.
 
@@ -373,21 +404,32 @@ où :
 où :
 - **A** représente le total des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par les autorités compétentes des provinces participantes, ainsi que le total des sommes versées aux personnes visées à l’alinéa 15p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **B** le total des sommes suivantes :
-- **a)** le montant estimatif des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
-- **b)** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa a);
-- **c)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) dont le ministre annule, au cours de cette année, l’obligation de paiement en conformité avec les règlements, en raison du décès ou de l’invalidité de l’emprunteur;
-- **d)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
+- **a)
+** le montant estimatif des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
+- **b)
+** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa 
+a);
+- **c)
+** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
+a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
+- **d)
+** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
+a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
 - **C** le total des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **D** le total des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts.
 
 **Exception**
 
-- **(7)** Les sommes qui, soit par application du sous-alinéa 5a)(viii) ou des articles 7, 10 et 11, soit par la mise en œuvre de programmes prévus aux alinéas 15l), m), n) ou p), soit en raison de l’extinction des droits du ministre ou de la réduction du principal impayé des prêts consentis sous le régime de l’article 6.1 conformément aux règlements d’application de l’alinéa 15o) autres que les règlements qui prévoient le remboursement des prêts en fonction du revenu, soit encore par la mise en œuvre de programmes prévus à l’article 11 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md), seraient prises en compte pour le calcul visé aux définitions de ***coût net*** ou ***coût net total du programme*** au paragraphe (6) ne le sont que si le gouvernement de la province convainc le ministre, dans un avis qui doit lui parvenir avant le début de l’année de prêt, que les effets de son régime d’aide financière aux étudiants sont essentiellement les mêmes, dans chacun des domaines visés, que ceux du régime fédéral établi par la présente loi et ses règlements.
+- **(7)** Les sommes ci-après ne sont prises en compte pour le calcul visé aux définitions de ***coût net*** ou ***coût net total du programme*** au paragraphe (6) que si le gouvernement de la province convainc le ministre, dans un avis qui doit lui parvenir avant le début de l’année de prêt, que les effets de son régime d’aide financière aux étudiants sont essentiellement les mêmes, dans chacun des domaines visés, que ceux du régime fédéral établi par la présente loi et ses règlements :
+	- **a)** les sommes résultant de l’application du sous-alinéa 5a)(viii) ou des articles 7, 10 et 11;
+	- **b)** celles résultant de la mise en oeuvre de programmes établis par règlement pris en vertu des alinéas 15l), m), n) ou p);
+	- **c)** dans le cas des prêts consentis sous le régime de l’article 6.1, les sommes relatives à l’extinction des obligations de l’emprunteur conformément aux articles 10.1 ou 11.1 ou à la réduction du principal impayé conformément aux règlements pris en vertu de l’alinéa 15o) autres que les règlements qui prévoient le remboursement des prêts en fonction du revenu;
+	- **d)** celles résultant de la mise en oeuvre de programmes établis par règlement pris en vertu de l’article 11 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
 
 **Montants négatifs**
 
 - **(8)** Si le montant calculé conformément à la formule « (A + B) - (C + D) » au paragraphe (6) est négatif, il est considéré comme égal à zéro.
-> 1994, ch. 28, art. 14; 2000, ch. 14, art. 19; 2003, ch. 15, art. 10
+> 1994, ch. 28, art. 14; 2000, ch. 14, art. 19; 2003, ch. 15, art. 10; 2005, ch. 30, art. 112
 
 
 
