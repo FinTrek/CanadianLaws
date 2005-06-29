@@ -531,7 +531,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **27** 
 
 - **(1)** Sous réserve du paragraphe (2), la fondation ne peut octroyer sur ses fonds une bourse d’études qu’à une personne qui :
-	- **a)** est un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+	- **a)** est un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne protégée au sens du paragraphe 95(2) de cette loi;
 	- **b)** est inscrite à un établissement admissible à temps plein ou à temps partiel;
 	- **c)** y poursuit des études en vue d’obtenir un grade, un diplôme ou un certificat de premier cycle universitaire ou de niveau inférieur;
 	- **d)** a besoin d’aide financière et fait la preuve de son mérite.
@@ -539,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mérite exceptionnel**
 
 - **(2)** La fondation peut, pendant l’année, octroyer sur ses fonds un montant représentant jusqu’à 5 p. 100 du montant à octroyer en bourses d’études pour cette année, à des personnes qui remplissent les conditions énoncées aux alinéas (1)a) à c) et qui font la preuve d’un mérite exceptionnel, sans toutefois qu’elles aient besoin d’aide financière.
-> 1998, ch. 21, art. 27; 2001, ch. 27, art. 207.
+> 1998, ch. 21, art. 27; 2001, ch. 27, art. 207; 2005, ch. 30, art. 82.
 
 
 
