@@ -537,7 +537,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **27** 
 
 - **(1)** From and out of its funds, the Foundation may, subject to subsection (2), grant scholarships only to persons who
-	- **(a)** are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
+	- **(a)** are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or protected persons within the meaning of subsection 95(2) of that Act;
 	- **(b)** are enrolled at an eligible institution as a full-time student or part-time student;
 	- **(c)** are pursuing studies that lead to a degree, certificate or diploma from that institution, other than a degree, certificate or diploma for a program of studies beyond the undergraduate university level; and
 	- **(d)** are in financial need and demonstrate merit.
@@ -545,7 +545,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exceptional merit**
 
 - **(2)** The Foundation may, in any year, grant up to five percent of the funds it expects to grant as scholarships in the year to persons who meet the requirements mentioned in paragraphs (1)(a) to (c) and who demonstrate exceptional merit even if those persons are not in financial need.
-> 1998, c. 21, s. 27; 2001, c. 27, s. 207.
+> 1998, c. 21, s. 27; 2001, c. 27, s. 207; 2005, c. 30, s. 82.
 
 
 
