@@ -313,8 +313,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
-- **(3)** La partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’applique pas à la Fondation.
-> 1991, ch. 8, art. 17; 2003, ch. 22, art. 224(A).
+- **(3)** Exception faite des articles 131 à 148, les dispositions de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à la Fondation.
+> 1991, ch. 8, art. 17; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 45.
 
 
 
@@ -440,9 +440,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’exercice de la Fondation commence le 1<sup>er</sup> avril et se termine le 31 mars de l’année suivante.
 
-**Vérificateur**
+- **(2)** [Abrogé, 2005, ch. 30, art. 46]
+> 1991, ch. 8, art. 25; 2005, ch. 30, art. 46.
 
-- **(2)** Un vérificateur indépendant nommé par le conseil examine chaque année les comptes et opérations financières de la Fondation et en fait rapport au conseil.
 
 
 
