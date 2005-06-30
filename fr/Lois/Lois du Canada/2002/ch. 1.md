@@ -3548,12 +3548,12 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 
 **141** 
 
-- **(1)** Dans la mesure où ils ne sont pas incompatibles avec la présente loi ou écartés par celle-ci, l’article 16 (défense de troubles mentaux) et la partie XX.1 (troubles mentaux) — à l’exclusion des articles 672.65 (durée maximale) et 672.66 (modalités d’audition de la demande) — du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux infractions imputées aux adolescents.
+- **(1)** Dans la mesure où ils ne sont pas incompatibles avec la présente loi ou écartés par celle-ci, l’article 16 (défense de troubles mentaux) et la partie XX.1 (troubles mentaux) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent, avec les adaptations nécessaires, aux infractions imputées aux adolescents.
 
 **Avis aux parents et à l’avocat**
 
-- **(2)** Pour l’application du paragraphe (1), la mention dans la partie XX.1 (troubles mentaux) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
-	- **a)** des copies qui doivent être remises ou envoyées à l’accusé ou aux parties vaut également mention des copies qui doivent être envoyées ou remises aux personnes suivantes :
+- **(2)** Pour l’application du paragraphe (1), la mention dans la partie XX.1 (troubles mentaux) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+	- **a)** des copies qui doivent être remises ou envoyées à l’accusé ou aux parties vaut également mention des copies qui doivent être envoyées ou remises aux personnes suivantes :
 		- **(i)** l’avocat qui, le cas échéant, représente l’adolescent,
 		- **(ii)** le père ou la mère de l’adolescent qui suit la procédure menée contre celui-ci,
 		- **(iii)** le père ou la mère de l’adolescent qui, de l’avis du tribunal pour adolescents ou de la commission d’examen, s’intéresse activement aux procédures;
@@ -3565,36 +3565,19 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 
 **Exception**
 
-- **(4)** Le fait de ne pas envoyer l’avis mentionné à l’alinéa (2)b) au père ou à la mère de l’adolescent annule les procédures subséquentes intentées à l’égard de l’adolescent sous le régime de la présente loi, sauf dans les cas suivants :
+- **(4)** Le fait de ne pas envoyer l’avis mentionné à l’alinéa (2)b) au père ou à la mère de l’adolescent annule les procédures subséquentes intentées à l’égard de l’adolescent sous le régime de la présente loi, sauf dans les cas suivants :
 	- **a)** le père ou la mère de l’adolescent est présent au tribunal ou devant la commission d’examen avec l’adolescent;
-	- **b)** un juge du tribunal pour adolescents ou la commission d’examen saisi des procédures intentées contre l’adolescent :
+	- **b)** un juge du tribunal pour adolescents ou la commission d’examen saisi des procédures intentées contre l’adolescent :
 		- **(i)** soit ajourne les procédures et ordonne que l’avis soit donné aux personnes et de la manière qu’il précise,
 		- **(ii)** soit accorde l’autorisation de ne pas donner l’avis si, compte tenu des circonstances, il estime que celui-ci n’est pas indispensable.
 
-**Renvoi**
-
-- **(5)** Le tribunal pour adolescents ne peut rendre d’ordonnance en vertu de l’article 672.11 (évaluation de l’état mental) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard d’un adolescent dans le cas mentionné à l’alinéa e) de cet article.
+- **(5)** [Abrogé, 2005, ch. 22, art. 63]
 
 **Observations du père ou de la mère**
 
 - **(6)** Avant de prononcer ou de réviser une décision à l’égard d’un adolescent en vertu de la partie XX.1 (troubles mentaux) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le tribunal pour adolescents ou la commission d’examen doit prendre en considération l’âge et les besoins spéciaux de l’adolescent ainsi que les observations que présente le père ou la mère de l’adolescent.
 
-**Durée maximale des peines**
-
-- **(7)** Sous réserve du paragraphe (9) et pour l’application du paragraphe 672.64(3) (durée maximale) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard d’une infraction reprochée à un adolescent, la durée maximale visée à ce paragraphe s’entend de la période maximale pendant laquelle l’adolescent pourrait être assujetti à une peine spécifique pour cette infraction s’il était déclaré coupable.
-
-**Exception : assujettissement à la peine applicable aux adultes**
-
-- **(8)** Lorsque l’adolescent est accusé d’une infraction désignée ou que le procureur général a donné l’avis prévu au paragraphe 64(2) (avis — demande d’assujettissement à la peine applicable aux adultes) et qu’un verdict d’inaptitude à subir son procès est rendu à l’égard de l’adolescent, le procureur général peut demander au tribunal d’augmenter la durée maximale de détention applicable à l’adolescent.
-
-**Pouvoir du tribunal pour adolescents**
-
-- **(9)** Le tribunal pour adolescents, après avoir accordé au procureur général, à l’avocat et aux père ou mère de l’adolescent visé par le paragraphe (8) la possibilité de se faire entendre, prend en compte les éléments suivants :
-	- **a)** la gravité de l’infraction reprochée et les circonstances entourant sa perpétration;
-	- **b)** l’âge, la maturité, le caractère et les antécédents de l’adolescent, notamment ses antécédents judiciaires;
-	- **c)** la possibilité que l’adolescent cause des blessures graves à une autre personne s’il est mis en liberté à l’expiration de la durée maximale qui s’applique dans son cas;
-	- **d)** les durées maximales qui s’appliqueraient à l’adolescent sous le régime de la présente loi et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-S’il est convaincu que l’ordonnance visée aux paragraphes 64(5) (non-opposition par l’adolescent à l’assujettissement à la peine applicable aux adultes) ou 70(2) (non-opposition par l’adolescent à l’assujettissement à la peine applicable aux adultes) ou à l’alinéa 72(1)b) (imposition de la peine applicable aux adultes) aurait vraisemblablement été rendue si l’accusé avait été déclaré apte à subir son procès, le tribunal pour adolescents doit augmenter la durée maximale de détention qui s’applique à l’adolescent jusqu’à la période maximale équivalente qui s’appliquerait à un adulte pour la même infraction.
+- **(7) à (9)** [Abrogés, 2005, ch. 22, art. 63]
 
 **Preuve prima facie**
 
@@ -3604,9 +3587,11 @@ S’il est convaincu que l’ordonnance visée aux paragraphes 64(5) (non-opposi
 
 - **(11)** Un renvoi dans la partie XX.1 (troubles mentaux) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à un hôpital dans une province s’entend d’un renvoi à un hôpital désigné par le ministre de la Santé de la province en vue de la garde, du traitement et de l’évaluation des adolescents.
 
-**Définition de « commission d’examen »**
+**Définition de commission d’examen**
 
-- **(12)** Pour l’application du présent article, « commission d’examen » s’entend au sens de l’article 672.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(12)** Pour l’application du présent article, ***commission d’examen*** s’entend au sens de l’article 672.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2002, ch. 1, art. 141; 2005, ch. 22, art. 63.
+
 
 
 
