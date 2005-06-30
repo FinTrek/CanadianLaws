@@ -3606,7 +3606,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 
 **141** 
 
-- **(1)** Except to the extent that they are inconsistent with or excluded by this Act, section 16 (defence of mental disorder) and Part XX.1 (mental disorder) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), except sections 672.65 (capping of offences) and 672.66 (hearing application procedures), apply, with any modifications that the circumstances require, in respect of proceedings under this Act in relation to offences alleged to have been committed by young persons.
+- **(1)** Except to the extent that they are inconsistent with or excluded by this Act, section 16 (defence of mental disorder) and Part XX.1 (mental disorder) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply, with any modifications that the circumstances require, in respect of proceedings under this Act in relation to offences alleged to have been committed by young persons.
 
 **Notice and copies to counsel and parents**
 
@@ -3629,32 +3629,15 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 		- **(i)** adjourns the proceedings and orders that the notice be given in the manner and to the persons that the judge or Review Board directs, or
 		- **(ii)** dispenses with the notice if the youth justice court or Review Board is of the opinion that, having regard to the circumstances, the notice may be dispensed with.
 
-**No hospital order assessments**
-
-- **(5)** A youth justice court may not make an order under section 672.11 (assessment order) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in respect of a young person for the purpose of assisting in the determination of a matter mentioned in paragraph (e) of that section.
+- **(5)** [Repealed, 2005, c. 22, s. 63]
 
 **Considerations of court or Review Board making a disposition**
 
 - **(6)** Before making or reviewing a disposition in respect of a young person under Part XX.1 (mental disorder) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a youth justice court or Review Board shall consider the age and special needs of the young person and any representations or submissions made by a parent of the young person.
 
-**Cap applicable to young persons**
+- **(7) to (9)** [Repealed, 2005, c. 22, s. 63]
 
-- **(7)** Subject to subsection (9), for the purpose of applying subsection 672.64(3) (cap for various offences) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to proceedings under this Act in relation to an offence alleged to have been committed by a young person, the applicable cap shall be the maximum period during which the young person would be subject to a youth sentence by the youth justice court if found guilty of the offence.
-
-**Application to increase cap of unfit young person subject to adult sentence**
-
-- **(8)** If a young person is charged with a presumptive offence or notice has been given under subsection 64(2) (intention to seek adult sentence), and the young person is found unfit to stand trial, the Attorney General may apply to the court to increase the cap that will apply to the young person.
-
-**Consideration of youth justice court for increase in cap**
-
-- **(9)** The youth justice court, after giving the Attorney General and the counsel and a parent of the young person in respect of whom subsection (8) applies an opportunity to be heard, shall take into consideration
-	- **(a)** the seriousness and circumstances of the alleged offence,
-	- **(b)** the age, maturity, character and background of the young person and any previous criminal record,
-	- **(c)** the likelihood that the young person will cause significant harm to any person if released on expiry of the cap that applies to the young person under subsection (7), and
-	- **(d)** the respective caps that would apply to the young person under this Act and under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-If the court is satisfied that it would make an order under subsection 64(5) (application for adult sentence unopposed) or 70(2) (no application by young person to avoid adult sentence) or paragraph 72(1)(b) (imposition of adult sentence) if the young person were fit to stand trial, it shall apply to the young person the cap that would apply to an adult for the same offence.
-
-***Prima facie* case to be made every year**
+**Prima facie case to be made every year**
 
 - **(10)** For the purpose of applying subsection 672.33(1) (fitness to stand trial) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to proceedings under this Act in relation to an offence alleged to have been committed by a young person, wherever in that subsection a reference is made to two years, there shall be substituted a reference to one year.
 
@@ -3662,9 +3645,11 @@ If the court is satisfied that it would make an order under subsection 64(5) (ap
 
 - **(11)** A reference in Part XX.1 (mental disorder) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to a hospital in a province shall be construed as a reference to a hospital designated by the Minister of Health for the province for the custody, treatment or assessment of young persons.
 
-**Definition of “Review Board”**
+**Definition of Review Board**
 
 - **(12)** In this section, ***Review Board*** has the meaning assigned by section 672.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2002, c. 1, s. 141; 2005, c. 22, s. 63.
+
 
 
 
