@@ -446,6 +446,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#T-18.5_en_22'>[*]</a></sup>**73** The provisions of this Act, other than sections 71 and 72, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='T-18.5_en_22'><sup>*</sup></a>: [Note: Sections 71 and 72 in force on assent December 18, 2001; sections 1 to 45, 52 to 54 and 60 to 70 in force June 30, 2003, *see* SI/2003-128.]<br />
+<a name='T-18.5_en_22'><sup>*</sup></a>: [Note: Sections 71 and 72 in force on assent December 18, 2001; sections 1 to 45, 52 to 54 and 60 to 70 in force June 30, 2003, *see* SI/2003-128; sections 55 to 59 in force June 30, 2005, *see* SI/2005-61.]<br />
 
 
