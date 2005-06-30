@@ -39,39 +39,45 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu de l’article 19 pour l’application de la présente loi.
+  ***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu de l'article 19.1 pour l'application de la présente loi.
 
-***bâtiment*** Tout type de navire ou d’embarcation pouvant servir à la navigation maritime, ainsi que tout élévateur flottant, hydravion, radeau, aéroglisseur, drague, habitation flottante, plate-forme de forage pétrolier ou digue de billes ou de bois, indépendamment de leur mode de propulsion.
+***bâtiment*** Tout type de navire ou d’embarcation pouvant servir à la navigation maritime, ainsi que tout élévateur flottant, hydravion, radeau, aéroglisseur, drague, habitation flottante, plate-forme de forage pétrolier ou digue de billes ou de bois, indépendamment de leur mode de propulsion. 
 
-***bien*** Toute chose pouvant être apportée ou placée à bord d’un bâtiment, notamment comme effet personnel, bagage ou fret.
+***bien*** Toute chose pouvant être apportée ou placée à bord d’un bâtiment, notamment comme effet personnel, bagage ou fret. 
 
-***contrôle*** Ensemble des actes autorisés ou exigés en vertu des règlements ou des mesures ou règles de sûreté pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un bâtiment ou dans une installation maritime.
+French version only  ***conseiller*** Membre du Tribunal.
 
-***exploitant*** Le propriétaire réel d’un bâtiment non immatriculé et le propriétaire enregistré d’un bâtiment immatriculé, le capitaine et toute autre personne, à l’exclusion du pilote, ayant le commandement ou la direction d’un bâtiment, ainsi que toute personne ayant la direction, la gestion ou le contrôle d’une installation maritime pour son propre compte ou pour le compte d’autrui. Sont assimilés à l’exploitant d’un bâtiment la personne possédant un intérêt bénéficiaire sur celui-ci — notamment un intérêt découlant d’un contrat ou un autre intérêt en equity, né autrement que par voie d’hypothèque —, son locataire et l’affréteur responsable de sa navigation.
+***contrôle*** Ensemble des actes autorisés ou exigés en vertu des règlements ou des mesures ou règles de sûreté pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un bâtiment ou dans une installation maritime. 
 
-***inspecteur*** Toute personne désignée à ce titre par le ministre en vertu de l’article 22 pour l’application de la présente loi.
+***exploitant*** Le propriétaire réel d’un bâtiment non immatriculé et le propriétaire enregistré d’un bâtiment immatriculé, le capitaine et toute autre personne, à l’exclusion du pilote, ayant le commandement ou la direction d’un bâtiment, ainsi que toute personne ayant la direction, la gestion ou le contrôle d’une installation maritime pour son propre compte ou pour le compte d’autrui. Sont assimilés à l’exploitant d’un bâtiment la personne possédant un intérêt bénéficiaire sur celui-ci — notamment un intérêt découlant d’un contrat ou un autre intérêt en equity, né autrement que par voie d’hypothèque —, son locataire et l’affréteur responsable de sa navigation. 
 
-***installation maritime*** S’entend notamment :
-- **a)** de tout terrain, plan d’eau ou de glace servant — ou conçu, aménagé, équipé ou réservé pour servir —, en tout ou en partie, aux mouvements ainsi qu’à l’entretien et à la révision des bâtiments;
-- **b)** des installations qui y sont situées, leur sont rattachées ou sont utilisées ou réservées pour la manutention ou l’entreposage des biens transportés par bâtiment ou destinés à l’être;
-- **c)** de l’équipement et des installations destinés à fournir des services liés au transport maritime;
-- **d)** des ouvrages en mer au sens de l’article 2 de la Loi sur l’application extracôtière des lois canadiennes.
+***inspecteur*** Toute personne désignée à ce titre par le ministre en vertu de l’article 22 pour l’application de la présente loi. 
 
-***mesure de sûreté*** Mesure établie par le ministre en vertu de l’article 7.
+***installation maritime*** S’entend notamment : 
+- **a) ** de tout terrain, plan d’eau ou de glace servant — ou conçu, aménagé, équipé ou réservé pour servir —, en tout ou en partie, aux mouvements ainsi qu’à l’entretien et à la révision des bâtiments;
+- **b) ** des installations qui y sont situées, leur sont rattachées ou sont utilisées ou réservées pour la manutention ou l’entreposage des biens transportés par bâtiment ou destinés à l’être;
+- **c) ** de l’équipement et des installations destinés à fournir des services liés au transport maritime;
+- **d) ** des ouvrages en mer au sens de l’article 2 de la  Loi sur l’application extracôtière des lois canadiennes.
 
-***ministre*** Le ministre des Transports.
+***mesure de sûreté*** Mesure établie par le ministre en vertu de l’article 7. 
 
-***navire canadien*** Navire immatriculé au Canada sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, avant le 1<sup>er</sup> août 1936, de la loi intitulée Merchant Shipping Act, 1894 du Parlement du Royaume-Uni, 57-58 Victoria, chapitre 60, et de toutes les lois qui ajoutent à cette loi ou la modifient.
+***ministre*** Le ministre des Transports. 
 
-***règle de sûreté*** Règle approuvée par le ministre en vertu de l’article 10.
+***navire canadien*** Navire immatriculé au Canada sous le régime de la  [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, avant le 1 <sup>er</sup> août 1936, de la loi intitulée  Merchant Shipping Act, 1894 du Parlement du Royaume-Uni, 57-58 Victoria, chapitre 60, et de toutes les lois qui ajoutent à cette loi ou la modifient. 
 
-***règle de sûreté proposée*** Règle soumise à l’approbation du ministre en vertu de l’article 10.
+***règle de sûreté*** Règle approuvée par le ministre en vertu de l’article 10. 
 
-***zone réglementée*** Toute zone établie en vertu des règlements ou des mesures ou règles de sûreté dont l’accès est réservé aux personnes autorisées.
+***règle de sûreté proposée*** Règle soumise à l’approbation du ministre en vertu de l’article 10. 
+
+  ***Tribunal*** Le Tribunal d'appel des transports du Canada constitué par le paragraphe 2(1) de la  Loi sur le Tribunal d'appel des transports du Canada .
+
+***zone réglementée*** Toute zone établie en vertu des règlements ou des mesures ou règles de sûreté dont l’accès est réservé aux personnes autorisées. 
 
 **Délégation par le ministre**
 
 - **(2)** Le ministre peut déléguer à toute personne ayant la compétence voulue au sein du ministère des Transports l’exercice des attributions que lui confère la présente loi. Le cas échéant, la mention du terme « ministre » vaut également pour le délégué.
+> 1994, ch. 40, art. 2; 2001, ch. 29, art. 55.
+
 
 
 
@@ -110,22 +116,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements en matière de sûreté**
 
-**5** Le gouverneur en conseil peut, par règlement, régir la sûreté du transport maritime et notamment :
-- **a)** viser à prévenir les atteintes illicites au transport maritime et, lorsque de telles atteintes surviennent ou risquent de survenir, faire en sorte que des mesures efficaces soient prises pour y parer;
-- **b)** exiger ou autoriser un contrôle pour la sécurité des personnes, des biens, des bâtiments et des installations maritimes;
-- **c)** régir l’établissement de zones réglementées;
-- **d)** régir la tenue et la conservation de dossiers et d’autres documents relatifs à la sûreté des opérations maritimes, notamment des copies de règlements, de mesures et de règles de sûreté;
-- **e)** prévoir l’exigence du dépôt auprès du ministre de ces documents ou leur fourniture sur demande;
-- **f)** régir la préservation et la restitution de tout élément de preuve saisi sans mandat ou de tout bâtiment retenu en application de la présente loi.
+**5** 
 
-
-
+- **(1)** Le gouverneur en conseil peut, par règlement, régir la sûreté du transport maritime et notamment :
+	- **a)** viser à prévenir les atteintes illicites au transport maritime et, lorsque de telles atteintes surviennent ou risquent de survenir, faire en sorte que des mesures efficaces soient prises pour y parer;
+	- **b)** exiger ou autoriser un contrôle pour la sécurité des personnes, des biens, des bâtiments et des installations maritimes;
+	- **c)** régir l’établissement de zones réglementées;
+	- **d)** régir la tenue et la conservation de dossiers et d’autres documents relatifs à la sûreté des opérations maritimes, notamment des copies de règlements, de mesures et de règles de sûreté;
+	- **e)** prévoir l’exigence du dépôt auprès du ministre de ces documents ou leur fourniture sur demande;
+	- **f)** régir la préservation et la restitution de tout élément de preuve saisi sans mandat ou de tout bâtiment retenu en application de la présente loi.
 
 **Infraction**
 
-**6** L’inobservation des règlements constitue une infraction passible, sur déclaration de culpabilité par procédure sommaire :
-- **a)** dans le cas d’une personne physique, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
-- **b)** dans le cas d’une personne morale, d’une amende maximale de 100 000 $.
+- **(2)** L’inobservation de ces règlements constitue une infraction passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** dans le cas d’une personne physique, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+	- **b)** dans le cas d’une personne morale, d’une amende maximale de 100 000 $.
+> 1994, ch. 40, art. 5; 2001, ch. 29, art. 56.
+
+
+
+
+
+**Avis et signification ou notification de documents**
+
+**6** Le gouverneur en conseil peut, par règlement :
+- **a)** régir les avis prévus par la présente loi;
+- **b)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification ou la notification de documents autorisée ou exigée par la présente loi.
+> 1994, ch. 40, art. 6; 2001, ch. 29, art. 56.
+
 
 
 
@@ -360,9 +378,151 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Définition de désignation**
+
+**19** Pour l’application des articles 19.1 à 19.8, est assimilé à la désignation tout avantage qu’elle octroie.
+> 1994, ch. 40, art. 19; 2001, ch. 29, art. 57.
+
+
+
+
+
 **Désignation**
 
-**19** Le ministre peut désigner des personnes, individuellement ou par catégorie, pour remplir les fonctions d’agent de contrôle dans le cadre de la présente loi ou de telle de ses dispositions.
+**19.1** Le ministre peut désigner des personnes, individuellement ou par catégorie, pour remplir les fonctions d’agent de contrôle dans le cadre de la présente loi ou de telle de ses dispositions.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Suspension, annulation ou refus pour inaptitude**
+
+**19.2** 
+
+- **(1)** Le ministre peut suspendre, annuler ou refuser de renouveler la désignation d’un agent de contrôle, ou refuser de désigner une personne à titre d’agent de contrôle, s’il estime que l’intéressé est inapte ou ne répond pas — ou ne répond plus — aux conditions de délivrance ou de maintien en état de validité de la désignation.
+
+**Suspension ou annulation pour contravention à la loi**
+
+- **(2)** Le ministre peut suspendre ou annuler la désignation de l’agent de contrôle s’il estime que celui-ci contrevient à la présente loi, aux règlements, aux mesures de sûreté, aux règles de sûreté, ou aux conditions visées au paragraphe 10(6).
+
+**Suspension pour motif de sûreté**
+
+- **(3)** Le ministre peut suspendre la désignation de l’agent de contrôle s’il estime que l’exercice, par lui, des fonctions d’agent de contrôle constitue un danger immédiat ou probable pour la sûreté du transport maritime.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Avis**
+
+**19.3** 
+
+- **(1)** S’il décide de suspendre, d’annuler ou de refuser de renouveler la désignation de l’agent de contrôle, ou de refuser de désigner une personne à titre d’agent de contrôle, le ministre notifie à l’intéressé avis de sa décision.
+
+**Contenu de l’avis**
+
+- **(2)** Sont notamment indiqués dans l’avis :
+	- **a)** les motifs de la décision du ministre;
+	- **b)** le lieu et la date limite, à savoir trente jours après la notification de l’avis, du dépôt d’une éventuelle requête en révision.
+
+**Prise d’effet**
+
+- **(3)** Dans le cas d’une suspension ou d’une annulation, la date de prise d’effet de la décision :
+	- **a)** si celle-ci est rendue en vertu des paragraphes 19.2(1) ou (3), ne peut être antérieure à la date de réception de l’avis par l’intéressé;
+	- **b)** si celle-ci est rendue en vertu du paragraphe 19.2(2), ne peut être antérieure au trentième jour suivant la notification de l’avis.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Requête en révision**
+
+**19.4** 
+
+- **(1)** L’intéressé peut faire réviser la décision du ministre en déposant une requête auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Effet de la requête**
+
+- **(2)** Le dépôt d’une requête en révision n’a pas pour effet de suspendre la décision.
+
+**Exception**
+
+- **(3)** Sauf s’il estime que cela constituerait un danger pour la sûreté du transport maritime, le conseiller commis à l’affaire qui est saisi d’une demande écrite de l’intéressé peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 19.2(2) jusqu’à ce qu’il ait été statué sur la requête en révision.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Audience**
+
+**19.5** 
+
+- **(1)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(2)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Non-contraignabilité à témoigner**
+
+- **(3)** Dans le cas visé par le paragraphe 19.2(2), l’auteur de la présumée contravention n’est pas tenu de témoigner.
+
+**Décision**
+
+- **(4)** Le conseiller peut :
+	- **a)** dans les cas visés aux paragraphes 19.2(1) ou (3), confirmer la décision ou renvoyer l’affaire au ministre pour réexamen;
+	- **b)** dans le cas visé au paragraphe 19.2(2), confirmer la décision ou y substituer sa propre décision.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Appel**
+
+**19.6** 
+
+- **(1)** Le ministre ou toute personne concernée peuvent faire appel au Tribunal de la décision rendue en vertu de l’alinéa 19.5(4)b); seule une personne concernée peut faire appel de celle rendue en vertu de l’alinéa 19.5(4)a). Dans tous les cas, le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut :
+	- **a)** dans les cas d’une décision visée à l’alinéa 19.5(4) a), rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen;
+	- **b)** dans les cas d’une décision visée à l’alinéa 19.5(4)b), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Maintien de la décision en cas de renvoi au ministre**
+
+**19.7** En cas de renvoi de l’affaire au ministre au titre des alinéas 19.5(4)a) ou 19.6(3)a), la décision du ministre de suspendre ou d’annuler la désignation continue d’avoir effet. Toutefois, le conseiller ou le comité peut, après avoir entendu les observations des parties et s’il estime que cela ne constitue pas un danger pour la sûreté du transport maritime, prononcer la suspension de la décision de suspendre ou d’annuler la désignation rendue en vertu du paragraphe 19.2(1) jusqu’à ce que le ministre ait réexaminé sa décision.
+> 2001, ch. 29, art. 57.
+
+
+
+
+
+**Réexamen**
+
+**19.8** 
+
+- **(1)** Dans le cas d’une décision visée au paragraphe 19.2(3), si le comité rejette l’appel ou que le ministre maintient la suspension après réexamen de la décision conformément aux alinéas 19.5(4)a) ou 19.6(3)a), l’intéressé peut, par écrit, demander au ministre de réexaminer la question de savoir s’il y a toujours danger immédiat ou probable pour la sûreté du transport maritime.
+
+**Procédure applicable**
+
+- **(2)** Sur réception de la demande, le ministre procède sans délai au réexamen et informe l’intéressé de sa décision. Les articles 19.3 à 19.7 s’appliquent, avec les adaptations nécessaires, à sa décision.
+> 2001, ch. 29, art. 57.
+
 
 
 
@@ -528,7 +688,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Exploitant du bâtiment**
 
-- **(2)** L’exploitant d’un bâtiment peut être déclaré coupable d’une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l’infraction, le bâtiment n’ait été en la possession d’un tiers sans son consentement.
+- **(2)** L’exploitant d’un bâtiment peut être déclaré coupable d’une infraction à la présente loi, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée, poursuivie ou déclarée coupable, à moins que, lors de l’infraction, le bâtiment n’ait été en la possession d’une autre personne sans son consentement.
 
 **Exploitant de l’installation maritime**
 
@@ -537,6 +697,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Personnes morales et leurs dirigeants, etc.**
 
 - **(4)** En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction.
+> 1994, ch. 40, art. 28; 2001, ch. 29, art. 58(F).
+
 
 
 
@@ -568,9 +730,363 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-## Modification corrélative
+## Sanctions administratives
 
 
-**32** [Modification]
+
+### Définition
+
+
+
+**Définition de violation**
+
+**32** Aux articles 33 à 51, ***violation*** s’entend de toute contravention à une disposition qualifiée de violation par les règlements.
+> 1994, ch. 40, art. 32; 2001, ch. 29, art. 59.
+
+
+
+
+
+### Transaction et procès-verbal
+
+
+
+**Transaction ou procès-verbal**
+
+**33** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’une violation a été commise, le ministre peut :
+	- **a)** soit conclure avec le contrevenant une transaction en vue de l’observation, dans le délai précisé et aux conditions fixées, de la disposition enfreinte et fixer le montant et la forme de la caution à verser pour garantir l’exécution de la transaction ainsi que le montant de la sanction, en application des règlements, qu’il aurait eu à payer s’il n’avait pas conclu la transaction;
+	- **b)** soit dresser un procès-verbal — qu’il fait signifier au contrevenant — comportant, outre le nom du contrevenant et les faits reprochés, le montant de la sanction à payer, fixé en application des règlements, ainsi que le délai, soit trente jours après signification de l’avis, et les modalités de paiement ou de requête en révision.
+
+**Prorogation du délai**
+
+- **(2)** S’il estime que le contrevenant ne peut exécuter la transaction dans le délai précisé pour des raisons indépendantes de sa volonté, le ministre peut proroger celui-ci.
+
+**Description abrégée**
+
+- **(3)** Il peut établir, pour toute violation, une description abrégée à utiliser dans les procès-verbaux.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Commission de la violation**
+
+**34** 
+
+- **(1)** Sauf s’il présente une requête en révision au titre du paragraphe (2), le contrevenant qui conclut une transaction est réputé avoir commis la violation en cause.
+
+**Requête en révision**
+
+- **(2)** Le contrevenant qui conclut une transaction peut, dans les quarante-huit heures suivant la signature de celle-ci, mais avant signification de l’avis de défaut visé au paragraphe 36(1), déposer auprès du Tribunal une requête en révision des faits reprochés, auquel cas la transaction est réputée être un procès-verbal et le contrevenant est réputé avoir déposé une requête en révision des faits reprochés ou du montant de la sanction en vertu du paragraphe 39(1).
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Avis d’exécution**
+
+**35** S’il estime que l’intéressé a exécuté la transaction, le ministre en avise celui-ci. Sur signification de l’avis :
+- **a)** aucune poursuite ne peut être intentée contre l’intéressé pour la même violation;
+- **b)** toute caution versée au titre de l’alinéa 33(1) a) est remise à l’intéressé.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Avis de défaut d’exécution**
+
+**36** 
+
+- **(1)** S’il estime que l’intéressé n’a pas exécuté la transaction, le ministre peut lui signifier un avis de défaut qui l’informe que, sauf si le conseiller ou le comité conclut respectivement au titre des articles 37 ou 40 que la transaction a été exécutée :
+	- **a)** soit il doit payer le double du montant de la sanction prévue par la transaction;
+	- **b)** soit la caution versée au titre de l’alinéa 33(1) a) est confisquée au profit de Sa Majesté du chef du Canada.
+
+**Contenu de l’avis**
+
+- **(2)** Sont notamment indiqués dans l’avis le lieu et la date limite, à savoir trente jours après signification de l’avis, du dépôt d’une éventuelle requête en révision.
+
+**Effet de l’inexécution**
+
+- **(3)** Sur signification de l’avis de défaut, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Requête en révision**
+
+**37** 
+
+- **(1)** Le contrevenant peut faire réviser la décision du ministre prise en vertu du paragraphe 36(1) en déposant une requête en révision auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Audience**
+
+- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(3)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(4)** Il incombe au ministre d’établir la responsabilité du contrevenant; celui-ci n’est cependant pas tenu de témoigner.
+
+**Exclusion de certains moyens de défense**
+
+- **(5)** Le contrevenant ne peut invoquer en défense le fait qu’il a pris toutes les mesures nécessaires pour exécuter la transaction.
+
+**Décision**
+
+- **(6)** Le conseiller peut confirmer la décision du ministre ou conclure que la transaction a été exécutée par le contrevenant.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Remise de la caution**
+
+**38** La caution versée par le contrevenant au titre de l’alinéa 33(1) a) lui est remise :
+- **a)** en cas de signification de l’avis mentionné au paragraphe 36(1), lorsque le contrevenant paie le double du montant de la sanction prévue par la transaction;
+- **b)** lorsque le conseiller en vertu du paragraphe 37(6) ou le comité en vertu du paragraphe 40(3) conclut que la transaction a été exécutée.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Option en cas de refus de transiger**
+
+**39** 
+
+- **(1)** Si le ministre ne transige pas, le contrevenant doit soit payer le montant de la sanction infligée initialement, soit, dans les trente jours suivant la signification du procès-verbal ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal, déposer auprès de celui-ci une requête en révision des faits reprochés ou du montant de la sanction.
+
+**Aucune requête**
+
+- **(2)** L’omission de déposer une requête en révision des faits reprochés vaut déclaration de responsabilité à l’égard de la violation.
+
+**Audience**
+
+- **(3)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et le contrevenant.
+
+**Déroulement**
+
+- **(4)** À l’audience, le conseiller commis à l’affaire accorde au ministre et au contrevenant la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(5)** S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir la responsabilité du contrevenant; celui-ci n’est cependant pas tenu de témoigner.
+
+**Décision**
+
+- **(6)** Le conseiller peut confirmer la décision du ministre ou, sous réserve des règlements pris en vertu de l’alinéa 51 c), y substituer sa propre décision.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Appel**
+
+**40** 
+
+- **(1)** Le ministre ou le contrevenant peut faire appel au Tribunal de la décision rendue en vertu des paragraphes 37(6) ou 39(6). Dans les deux cas, le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal peut :
+	- **a)** dans le cas d’une décision visée au paragraphe 37(6), rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause;
+	- **b)** dans le cas d’une décision visée au paragraphe 39(6), rejeter l’appel ou y faire droit et, sous réserve des règlements pris en vertu de l’alinéa 51 c), substituer sa propre décision à celle en cause.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+### Choix de poursuites
+
+
+
+**Contravention qualifiable de violation et d’infraction**
+
+**41** Dans le cas où elle peut être réprimée comme violation ou comme infraction, la contravention est poursuivie comme violation ou, sur recommandation du ministre, comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+### Recouvrement des créances
+
+
+
+**Créances de Sa Majesté**
+
+**42** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent :
+- **a)** sauf en cas de présentation d’une requête en révision du montant de la sanction au titre du paragraphe 39(1), ce montant, à compter de la date de signification du procès-verbal;
+- **b)** la somme devant être payée au titre de l’avis de défaut visé au paragraphe 36(1), à compter de la date de signification de l’avis;
+- **c)** le montant de la sanction fixé par le conseiller ou le comité dans le cadre de la requête prévue aux articles 39 ou 40, à compter de la date de la décision;
+- **d)** le montant des frais raisonnables engagés en vue du recouvrement d’une somme visée à l’un des alinéas a) à c).
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**43** 
+
+- **(1)** Le ministre ou le Tribunal, selon le cas, peut établir un certificat de non-paiement pour la partie impayée de toute créance visée à l’article 42.
+
+**Enregistrement en Cour fédérale**
+
+- **(2)** La Cour fédérale enregistre tout certificat visé au paragraphe (1) déposé auprès d’elle. L’enregistrement confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+### Règles propres aux violations
+
+
+
+**Précision**
+
+**44** Il est entendu que les violations n’ont pas valeur d’infractions; en conséquence, l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’applique pas en l’espèce.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Moyens de défense**
+
+**45** Il est entendu que nul ne peut être reconnu responsable d’une violation s’il a pris toutes les mesures nécessaires pour l’éviter.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Infraction de l’agent ou du mandataire**
+
+**46** 
+
+- **(1)** Toute personne peut être reconnue responsable de la violation commise par son agent ou mandataire, que cet agent ou mandataire soit ou non identifié ou poursuivi aux termes des articles 33 à 43.
+
+**Exploitant du bâtiment**
+
+- **(2)** L’exploitant d’un bâtiment peut être reconnu responsable d’une violation, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi, à moins que, lors de la violation, le bâtiment n’ait été en la possession d’une autre personne sans son consentement.
+
+**Exploitant de l’installation maritime**
+
+- **(3)** L’exploitant d’une installation maritime peut être reconnu responsable d’une violation, en rapport avec cette installation maritime, commise par une autre personne avec son consentement, que cette personne ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi.
+
+**Personnes morales, leurs dirigeants, etc.**
+
+- **(4)** En cas de commission par une personne morale d’une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que la personne morale ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+### Dispositions générales
+
+
+
+**Dossiers**
+
+**47** 
+
+- **(1)** À moins que le ministre n’estime que cela est contraire à l’intérêt public, toutes les mentions relatives aux violations commises par le contrevenant, aux transactions conclues par celui-ci ainsi qu’aux suspensions, annulations ou refus de renouvellement de la désignation d’un agent de contrôle ou au refus de désigner une personne à ce titre pour les motifs réglementaires sont radiées du dossier que le ministre tient à l’égard de l’intéressé cinq ans après le dernier en date des événements suivants :
+	- **a)** le paiement par le contrevenant de toutes les sanctions imposées au titre d’un procès-verbal, d’un avis de défaut ou de la décision du Tribunal;
+	- **b)** la suspension ou l’annulation de la désignation d’un agent de contrôle ou le refus de la renouveler ou de désigner une personne à ce titre en vertu de l’article 19.2.
+
+**Notification**
+
+- **(2)** Lorsqu’il estime que la radiation est contraire à l’intérêt public, le ministre en donne avis à l’intéressé.
+
+**Contenu de l’avis**
+
+- **(3)** Sont notamment indiqués dans l’avis le lieu et la date limite, à savoir trente jours après signification de l’avis, du dépôt d’une éventuelle requête en révision, ainsi que les motifs à l’appui de la décision du ministre.
+
+**Requête en révision**
+
+- **(4)** Les paragraphes 37(1) à (3) s’appliquent, avec les adaptations nécessaires, au refus de radier les mentions.
+
+**Décision**
+
+- **(5)** Le conseiller peut confirmer la décision du ministre ou lui renvoyer l’affaire pour réexamen.
+
+**Appel**
+
+- **(6)** L’intéressé peut faire appel au Tribunal de la décision rendue en vertu du paragraphe (5). Le délai d’appel est de trente jours suivant la décision.
+
+**Perte du droit d’appel**
+
+- **(7)** L’intéressé qui ne se présente pas à l’audience de la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(8)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Registre public**
+
+**48** Le ministre tient un registre public des procès-verbaux et avis de défaut au dossier d’une personne.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Délai**
+
+**49** Le procès-verbal ne peut être dressé plus de deux ans après la date à laquelle le ministre a eu connaissance des éléments constitutifs de la violation.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+**Certificat du ministre**
+
+**50** Le certificat paraissant délivré par le ministre et attestant la date à laquelle il a eu connaissance des éléments visés à l’article 49 est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire et fait foi de son contenu.
+> 2001, ch. 29, art. 59.
+
+
+
+
+
+### Règlements
+
+
+
+**Règlements**
+
+**51** Le gouverneur en conseil peut, par règlement :
+- **a)** désigner comme violation punissable au titre des articles 33 à 46, 49 et 50 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée;
+- **b)** désigner les violations pour lesquelles il est compté des violations distinctes pour chacun des jours au cours desquels elles se continuent;
+- **c)** désigner les violations qui peuvent faire l’objet d’un procès-verbal et fixer le montant — notamment par barème — de la sanction applicable à chacune de ces violations, qui ne peut dépasser 25 000 $ ni le montant de l’amende maximale dont la violation aurait été passible si elle avait été poursuivie par procédure sommaire;
+- **d)** prendre toute mesure d’ordre réglementaire prévue par les articles 33 à 50.
+> 2001, ch. 29, art. 59.
+
 
 
