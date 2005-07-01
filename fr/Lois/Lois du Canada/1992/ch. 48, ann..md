@@ -181,7 +181,7 @@ Chacun de ces montants est rajusté et arrondi conformément aux paragraphes 122
 
 **Communication**
 
-- **(2)** Les renseignements recueillis par le ministre ou pour son compte dans le cadre de la présente loi ou de ses règlements ou de la mise en oeuvre des accords conclus en vertu de l’article 11 peuvent être communiqués à toute personne à condition qu’il soit raisonnable de considérer qu’ils sont nécessaires à l’application ou à l’exécution de la présente loi ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(2)** Les renseignements recueillis par le ministre ou pour son compte dans le cadre de la présente loi ou de ses règlements ou de la mise en œuvre des accords conclus en vertu de l’article 11 peuvent être communiqués à toute personne à condition qu’il soit raisonnable de considérer qu’ils sont nécessaires à l’application ou à l’exécution de la présente loi, de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la [Loi canadienne sur l’épargne-études](/fr/Lois/Lois%20du%20Canada/2004/ch.%2026.md), ou d’un programme administré au titre d’un accord conclu en vertu de l’article 12 de la [Loi canadienne sur l’épargne-études](/fr/Lois/Lois%20du%20Canada/2004/ch.%2026.md).
 
 **Exception pour les parlementaires fédéraux**
 
@@ -200,7 +200,7 @@ Chacun de ces montants est rajusté et arrondi conformément aux paragraphes 122
 **Infraction**
 
 - **(5)** Commet une infraction sur déclaration de culpabilité par procédure sommaire quiconque contrevient sciemment au présent article en communiquant ou laissant communiquer des renseignements protégés ou en permettant soit l’accès aux déclarations ou autres documents contenant ces renseignements, soit leur examen.
-> 1992, ch. 48, art. 23 (ann., art. 10); 1995, ch. 33, art. 47; 1996, ch. 11, art. 50, 97 et 101, ch. 16, art. 61; 1998, ch. 19, art. 258.
+> 1992, ch. 48, art. 23 (ann., art. 10); 1995, ch. 33, art. 47; 1996, ch. 11, art. 50, 97 et 101, ch. 16, art. 61; 1998, ch. 19, art. 258; 2004, ch. 26, art. 18.
 
 
 
