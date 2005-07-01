@@ -506,127 +506,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART III.1** 
-## Canada Education Savings Grants
+## [repealed, 2004, c. 26, s. 19]
 
 
+**33.1** [Repealed, 2004, c. 26, s. 19]
 
-### Interpretation
 
 
+**33.2** [Repealed, 2004, c. 26, s. 19]
 
-**Definitions**
 
-**33.1** 
 
-- **(1)** The definitions in this subsection apply in this Part.
+**33.3** [Repealed, 2004, c. 26, s. 19]
 
-***CES grant*** means a grant payable or paid under subsection 33.3(1).
 
-Version anglaise seulement***prescribed*** means prescribed by regulations of the Governor in Council.
 
-**[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) expressions**
+**33.4** [Repealed, 2004, c. 26, s. 19]
 
-- **(2)** Unless the contrary intention appears,
-	- **(a)** an expression in this Part that is defined for the purposes of section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) has the same meaning in this Part as it has for the purposes of that section; and
-	- **(b)** all other expressions in this Part have the same meanings as in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 1998, c. 21, s. 72.
 
 
+**33.5** [Repealed, 2004, c. 26, s. 19]
 
 
 
-### Purpose of Part
-
-
-
-**Purpose**
-
-**33.2** The purpose of this Part is to provide, through financial assistance, an incentive to individuals to finance the post-secondary education of children from an early age by means of savings in registered education savings plans.
-> 1998, c. 21, s. 72.
-
-
-
-
-
-### Payments
-
-
-
-**Authority to pay CES grants**
-
-**33.3** 
-
-- **(1)** Subject to this Part and the regulations, on application to the Minister in a form and manner approved by the Minister, the Minister may, on such terms and conditions as the Minister may specify by agreement between the Minister and the trustee of a trust governed by a registered education savings plan, pay a grant to the trustee for the benefit of the trust in respect of contributions made to the plan in 1998 or a subsequent year by subscribers under the plan in respect of a beneficiary under the plan, other than a beneficiary who was 17 years of age or older at the end of the preceding year, of an amount not exceeding the lesser of
-	- **(a)** 20% of the contributions made in the year, and
-	- **(b)** the amount of
-		- **(i)** if the year is 1998, $400, and
-		- **(ii)** in any other case, $800.
-
-**Where no grant payable**
-
-- **(2)** No CES grant may be paid in respect of a contribution in respect of a beneficiary under a registered education savings plan unless
-	- **(a)** the beneficiary’s Social Insurance Number is provided to the Minister; and
-	- **(b)** the beneficiary is resident in Canada at the time the contribution is made.
-
-**Interest**
-
-- **(3)** The Minister may in prescribed circumstances pay interest, determined in accordance with prescribed rules, in respect of a CES grant.
-> 1998, c. 21, s. 72.
-
-
-
-
-
-### General
-
-
-
-**Recovery of payments and interest**
-
-**33.4** An amount required to be repaid to the Minister under this Part or under an agreement entered into under this Part and any interest due in respect of the amount constitute a debt due to Her Majesty in right of Canada and is recoverable as such in the Federal Court or any other court of competent jurisdiction.
-> 1998, c. 21, s. 72.
-
-
-
-
-
-**Access to information**
-
-**33.5** 
-
-- **(1)** Subject to subsections (3) and (4) and except as otherwise prescribed, all information obtained in the course of the administration or enforcement of this Part is privileged and no person shall knowingly make it available or allow it to be made available to any other person except for the purpose of the administration or enforcement of this Part or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-
-**Social Insurance Number information**
-
-- **(2)** Subject to subsections (3) and (4), no person shall knowingly use, communicate or allow to be communicated the Social Insurance Number of an individual that was obtained for a purpose related to an application for a CES grant under this Part except for the purpose of the administration or enforcement of this Part or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-
-**Provisions of [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) re information applicable**
-
-- **(3)** Subject to subsection (4) and except as otherwise prescribed, sections 104 to 104.03, 104.05 to 104.08, 104.1 and 104.11 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) relating to the protection of personal information apply, with such modifications as the circumstances require, to this Part and shall be read as if they were contained in this Part but, for the purposes of this Part,
-	- **(a)** any matter or thing that is to be or may be prescribed under any of those sections is to be or may be prescribed under this Part;
-	- **(b)** the Minister referred to in any of those sections shall be construed to be the Minister under this Act; and
-	- **(c)** a reference in any of those sections to “representative” shall be read as “legal representative” in respect of information that is a Social Insurance Number.
-
-**Restriction on application of certain provisions**
-
-- **(4)** Sections 104.05 to 104.07 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) do not apply to this Part in respect of information received solely by reason of subparagraph 241(4)(d)(vii.1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 1998, c. 21, s. 72.
-
-
-
-
-
-**Regulations**
-
-**33.6** The Governor in Council may make regulations for carrying out the purpose and provisions of this Part and, without limiting the generality of the foregoing, may make regulations
-- **(a)** prescribing any matter or thing that by this Part is to be or may be prescribed;
-- **(b)** establishing conditions that must be met by a registered education savings plan and by persons in respect of the plan before a CES grant may be paid in respect of the plan;
-- **(c)** establishing the manner of determining the amount of a CES grant that may be paid in respect of contributions to registered education savings plans;
-- **(d)** specifying terms and conditions to be included in agreements entered into between a trustee under a registered education savings plan and the Minister relating to the terms and conditions applicable to the payment of a CES grant and specifying, for inclusion in the agreements, in addition to such other conditions as the Minister deems appropriate, the obligations of a trustee under an agreement;
-- **(e)** specifying circumstances under which all or part of any amount paid under this Part is to be repaid to the Minister; and
-- **(f)** establishing, for the purpose of determining an amount required to be repaid under this Part in respect of CES grants, the manner of determining the portion, if any, of an educational assistance payment made under a registered education savings plan that is attributable to CES grants.
-> 1998, c. 21, s. 72.
-
+**33.6** [Repealed, 2004, c. 26, s. 19]
 
 
 
