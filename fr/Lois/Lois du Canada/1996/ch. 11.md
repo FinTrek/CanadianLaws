@@ -499,23 +499,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE III.1** 
-## Subvention canadienne pour l’épargne-études
-
-
-
-### Définition
-
-
-
-### Objet
-
-
-
-### Versements
-
-
-
-### Dispositions générales
+## [Abrogée, 2004, ch. 26, art. 19]
 
 
 
