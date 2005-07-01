@@ -371,6 +371,6 @@ où :
 
 <sup><a href='#C-3.6-f-s23'>[*]</a></sup>**23** Exception faite des articles 4, 12, 17 et 20 à 22, les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='C-3.6-f-s23'><sup>*</sup></a>: [Note : Articles 4, 12, 17 et 20 à 22 en vigueur à la sanction le 15 décembre 2004.]<br />
+<a name='C-3.6-f-s23'><sup>*</sup></a>: [Note : Articles 4, 12, 17 et 20 à 22 en vigueur à la sanction le 15 décembre 2004; loi, à l’exception des articles 4, 12, 17 et 20 à 22, en vigueur le 1<sup>er</sup> juillet 2005, *voir* TR/2005-51.]<br />
 
 
