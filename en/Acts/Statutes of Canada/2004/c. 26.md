@@ -380,6 +380,6 @@ and in respect of whom a national child benefit supplement, or a special allowan
 
 <sup><a href='#C-3.6-e-s23'>[*]</a></sup>**23** The provisions of this Act, other than sections 4, 12, 17 and 20 to 22, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='C-3.6-e-s23'><sup>*</sup></a>: [Note: Sections 4, 12, 17 and 20 to 22 in force on assent December 15, 2004.]<br />
+<a name='C-3.6-e-s23'><sup>*</sup></a>: [Note: Sections 4, 12, 17 and 20 to 22 in force on assent December 15, 2004; Act, other than sections 4, 12, 17 and 20 to 22, in force July 1, 2005, *see* SI/2005-51.]<br />
 
 
