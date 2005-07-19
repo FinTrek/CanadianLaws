@@ -1174,12 +1174,15 @@
 ### **ANNEXE** 
 **(articles 2, 4, 6 et 8)**
 ## États et entités désignés
+Cour pénale internationale
+
+
 Tribunal international pour juger les personnes présumées responsables d’actes de génocide ou d’autres violations graves du droit international humanitaire commis sur le territoire du Rwanda et les citoyens rwandais présumés responsables de tels actes ou violations commis sur le territoire d’États voisins entre le 1<sup>er</sup> janvier et le 31 décembre 1994, créé par la résolution 955 (1994) du Conseil de sécurité des Nations Unies
 
 
 Tribunal international pour juger les personnes présumées responsables de violations graves du droit international humanitaire commises sur le territoire de l’ex-Yougoslavie depuis 1991, créé par la résolution 827 (1993) du Conseil de sécurité des Nations Unies
 
 
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), ann.; DORS/90-704; DORS/93-446; DORS/98-382; 1999, ch. 18, art. 128.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), ann.; DORS/90-704; DORS/93-446; DORS/98-382; 1999, ch. 18, art. 128; DORS/2005-228.
 
 
