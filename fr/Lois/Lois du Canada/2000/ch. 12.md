@@ -28,14 +28,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Règle d’interprétation
-
-
-
-**Règle d’interprétation**
-
-**1.1** Il demeure entendu que les modifications que la présente loi apporte ne changent pas le sens du terme « mariage », soit l’union légitime d’un homme et d’une femme à l’exclusion de toute autre personne.
+**1.1** [Abrogé, 2005, ch. 33, art. 15]
 
 
 
