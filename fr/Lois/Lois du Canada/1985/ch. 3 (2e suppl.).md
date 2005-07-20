@@ -43,15 +43,15 @@ French version only***accès*** Comporte le droit de visite.
 
 ***cour d’appel*** Tribunal compétent pour connaître des appels formés contre les décisions d’un autre tribunal.
 
-***enfant à charge*** Enfant des deux époux ou ex-époux qui, à l’époque considérée, se trouve dans une des situations suivantes :
+***enfant à charge*** Enfant des deux époux ou ex-époux qui, à l’époque considérée, se trouve dans une des situations suivantes :
 - **a)** il n’est pas majeur et est à leur charge;
 - **b)** il est majeur et est à leur charge, sans pouvoir, pour cause notamment de maladie ou d’invalidité, cesser d’être à leur charge ou subvenir à ses propres besoins.
 
-***époux*** Homme ou femme unis par les liens du mariage.
+***époux*** L’une des deux personnes unies par les liens du mariage.
 
 ***garde*** Sont assimilés à la garde le soin, l’éducation et tout autre élément qui s’y rattache.
 
-***lignes directrices applicables*** S’entend :
+***lignes directrices applicables*** S’entend :
 - **a)** dans le cas où les époux ou les ex-époux résident habituellement, à la date à laquelle la demande d’ordonnance alimentaire au profit d’un enfant ou la demande modificative de celle-ci est présentée ou à la date à laquelle le nouveau montant de l’ordonnance alimentaire au profit d’un enfant doit être fixée sous le régime de l’article 25.1, dans la même province — qui est désignée par un décret pris en vertu du paragraphe (5) — , des textes législatifs de celle-ci précisés dans le décret;
 - **b)** dans les autres cas, des lignes directrices fédérales sur les pensions alimentaires pour enfants.
 
@@ -71,7 +71,7 @@ French version only***accès*** Comporte le droit de visite.
 
 ***service provincial des aliments pour enfants*** Administration, organisme ou service désignés dans un accord conclu avec une province en vertu de l’article 25.1.
 
-***tribunal*** Dans le cas d’une province, l’un des tribunaux suivants :
+***tribunal*** Dans le cas d’une province, l’un des tribunaux suivants :
 - **a)** la Cour supérieure de justice de l’Ontario;
 - **a.1)** la section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
 - **b)** la Cour supérieure du Québec;
@@ -83,8 +83,8 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Enfant à charge**
 
-- **(2)** Est considéré comme enfant à charge au sens du paragraphe (1) l’enfant des deux époux ou ex-époux :
-	- **a)** pour lequel ils tiennent lieu de père et mère;
+- **(2)** Est considéré comme enfant à charge au sens du paragraphe (1) l’enfant des deux époux ou ex-époux :
+	- **a)** pour lequel ils tiennent lieu de parents;
 	- **b)** dont l’un est le père ou la mère et pour lequel l’autre en tient lieu.
 
 **Terminologie non limitative**
@@ -97,12 +97,12 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Lignes directrices provinciales sur les aliments pour les enfants**
 
-- **(5)** Le gouverneur en conseil peut, par décret, désigner une province pour l’application de la définition de « lignes directrices applicables » au paragraphe (1) si la province a établi, relativement aux aliments pour enfants, des lignes directrices complètes qui traitent des questions visées à l’article 26.1. Le décret mentionne les textes législatifs qui constituent les lignes directrices de la province.
+- **(5)** Le gouverneur en conseil peut, par décret, désigner une province pour l’application de la définition de ***lignes directrices applicables*** au paragraphe (1) si la province a établi, relativement aux aliments pour enfants, des lignes directrices complètes qui traitent des questions visées à l’article 26.1. Le décret mentionne les textes législatifs qui constituent les lignes directrices de la province.
 
 **Modifications**
 
 - **(6)** Les lignes directrices de la province comprennent leurs modifications éventuelles.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61; 2002, ch. 7, art. 158(A)
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61; 2002, ch. 7, art. 158(A); 2005, ch. 33, art. 8
 
 
 
