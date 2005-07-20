@@ -71,7 +71,7 @@ and includes such other court in the province the judges of which are appointed 
 
 ***spousal support order*** means an order made under subsection 15.2(1);
 
-***spouse*** means either of a man or woman who are married to each other;
+***spouse*** means either of two persons who are married to each other;
 
 ***support order*** means a child support order or a spousal support order;
 
@@ -81,7 +81,7 @@ and includes such other court in the province the judges of which are appointed 
 
 **Child of the marriage**
 
-- **(2)** For the purposes of the definition “child of the marriage” in subsection (1), a child of two spouses or former spouses includes
+- **(2)** For the purposes of the definition ***child of the marriage*** in subsection (1), a child of two spouses or former spouses includes
 	- **(a)** any child for whom they both stand in the place of parents; and
 	- **(b)** any child of whom one is the parent and for whom the other stands in the place of a parent.
 
@@ -95,12 +95,12 @@ and includes such other court in the province the judges of which are appointed 
 
 **Provincial child support guidelines**
 
-- **(5)** The Governor in Council may, by order, designate a province for the purposes of the definition “applicable guidelines” in subsection (1) if the laws of the province establish comprehensive guidelines for the determination of child support that deal with the matters referred to in section 26.1. The order shall specify the laws of the province that constitute the guidelines of the province.
+- **(5)** The Governor in Council may, by order, designate a province for the purposes of the definition ***applicable guidelines*** in subsection (1) if the laws of the province establish comprehensive guidelines for the determination of child support that deal with the matters referred to in section 26.1. The order shall specify the laws of the province that constitute the guidelines of the province.
 
 **Amendments included**
 
 - **(6)** The guidelines of a province referred to in subsection (5) include any amendments made to them from time to time.
-> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E)
+> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E); 2005, c. 33, s. 8
 
 
 
