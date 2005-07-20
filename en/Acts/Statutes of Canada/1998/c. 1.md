@@ -7028,14 +7028,16 @@ but does not include
 	- **(a)** had a financial interest in a cooperative on the day that an error, omission or misstatement in financial information concerning the cooperative occurred, or acquired a financial interest in the period between the day that the error, omission or misstatement occurred and the day, as determined by the court, that it was generally disclosed; and
 	- **(b)** has established that the value of the plaintiff’s total financial interest in the cooperative was not more than the prescribed amount at the close of business on the day that the error, omission or misstatement occurred or at the close of business on any day that the plaintiff acquired a financial interest in the period referred to in paragraph (a).
 
-**Definition of “personal body corporate”**
-
-- **(2)** In subsection (1), ***personal body corporate*** means a body corporate that is not actively engaged in any financial, commercial or industrial business and that is controlled by an individual or a group of individuals, each member of which is connected by blood relationship, adoption or marriage or by cohabiting with another member in a conjugal relationship.
-
 **Exception**
 
-- **(3)** Subsection (1) does not apply when the plaintiff brings the action as a member of a partnership or other association or as a trustee in bankruptcy, liquidator or receiver of a body corporate.
-> 2001, c. 14, s. 218.
+- **(1.1)** Subsection (1) does not apply when the plaintiff brings the action as a member of a partnership or other association or as a trustee in bankruptcy, liquidator or receiver of a body corporate.
+
+**Interpretation**
+
+- **(2)** For the purposes of this section,
+	- **(a)** a personal body corporate is a body corporate that is not actively engaged in any financial, commercial or industrial business and that is controlled by an individual, or by a group of individuals who are connected by marriage, common-law partnership or any legal parent-child relationship or are connected indirectly by a combination of those relationships, whether or not the individuals through whom they are connected are members of the group; and
+	- **(b)** a common-law partnership is a relationship between two persons who are cohabiting with each other in a conjugal relationship and have done so for a period of at least one year.
+> 2001, c. 14, s. 218; 2005, c. 33, s. 6.
 
 
 
