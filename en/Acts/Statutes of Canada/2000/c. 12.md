@@ -28,14 +28,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## Interpretation
-
-
-
-**Interpretation**
-
-**1.1** For greater certainty, the amendments made by this Act do not affect the meaning of the word “marriage”, that is, the lawful union of one man and one woman to the exclusion of all others.
+**1.1** [Repealed, 2005, c. 33, s. 15]
 
 
 
