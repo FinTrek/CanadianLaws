@@ -33,10 +33,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Prohibition**
 
-- **(2)** No person shall marry another person if they are related
-	- **(a)** lineally by consanguinity or adoption;
-	- **(b)** as brother and sister by consanguinity, whether by the whole blood or by the half-blood; or
-	- **(c)** as brother and sister by adoption.
+- **(2)** No person shall marry another person if they are related lineally, or as brother or sister or half-brother or half-sister, including by adoption.
+> 1990, c. 46, s. 2; 2005, c. 33, s. 13.
+
 
 
 
@@ -49,7 +48,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Marriage void**
 
-- **(2)** A marriage between persons who are related in the manner described in paragraph 2(2)(a), (b) or (c) is void.
+- **(2)** A marriage between persons who are related in the manner described in subsection 2(2) is void.
+> 1990, c. 46, s. 3; 2005, c. 33, s. 14.
+
 
 
 
