@@ -33,10 +33,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prohibition**
 
-- **(2)** Est prohibé le mariage entre personnes ayant des liens de parenté :
-	- **a)** en ligne directe, par consanguinité ou adoption;
-	- **b)** en ligne collatérale, par consanguinité, s’il s’agit de frère et soeur ou de demi-frère et demi-soeur;
-	- **c)** en ligne collatérale, par adoption, s’il s’agit de frère et soeur.
+- **(2)** Est prohibé le mariage entre personnes ayant des liens de parenté, notamment par adoption, en ligne directe ou en ligne collatérale s’il s’agit du frère et de la soeur ou du demi-frère et de la demi-soeur.
+> 1990, ch. 46, art. 2; 2005, ch. 33, art. 13.
+
 
 
 
@@ -49,7 +48,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Nullité du mariage**
 
-- **(2)** Un mariage entre personnes apparentées prohibé par l’alinéa 2(2)a), b) ou c) est nul.
+- **(2)** Le mariage entre personnes apparentées prohibé par le paragraphe 2(2) est nul.
+> 1990, ch. 46, art. 3; 2005, ch. 33, art. 14.
+
 
 
 
