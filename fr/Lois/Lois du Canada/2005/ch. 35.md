@@ -1,0 +1,693 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md)
+
+# Loi sur le ministère du Développement social
+
+**L.C. 2005, ch. 35**
+
+
+Sanctionnée sur le 20 juillet 2005
+
+----------
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi sur le ministère du Développement social.
+
+
+
+
+## Définition
+
+
+
+**Définition de « ministre »**
+
+**2** Pour l’application de la présente loi, « ministre » s’entend du ministre du Développement social.
+
+
+
+
+**PARTIE 1** 
+## Ministère du Développement social
+
+
+
+### Mise en place
+
+
+
+**Constitution du ministère**
+
+**3** 
+
+- **(1)** Est constitué le ministère du Développement social, placé sous l’autorité du ministre du Développement social. Celui-ci est nommé par commission sous le grand sceau.
+
+**Développement social Canada**
+
+- **(2)** Les mentions « Développement social Canada » et « Social Development Canada » paraissant sur les documents délivrés ou faits en vertu des attributions que la présente loi ou toute autre loi confère au ministre valent mention, respectivement, du « ministère du Développement social » et du « Department of Social Development ».
+
+**Ministre**
+
+- **(3)** Le ministre occupe sa charge à titre amovible; il assure la direction et la gestion du ministère.
+
+
+
+
+**Sous-ministre**
+
+**4** 
+
+- **(1)** Le gouverneur en conseil peut nommer, à titre amovible, un sous-ministre du Développement social; celui-ci est l’administrateur général du ministère.
+
+**Sous-ministres délégués**
+
+- **(2)** Le gouverneur en conseil peut nommer, à titre amovible, un ou plusieurs sous-ministres délégués du Développement social, avec rang et statut d’administrateurs généraux de ministère. Placés sous l’autorité du sous-ministre du Développement social, ils exercent, à titre de représentants du ministre ou à tout autre titre, les attributions que celui-ci leur confère.
+
+
+
+
+### Attributions du ministre
+
+
+
+**Attributions**
+
+**5** 
+
+- **(1)** Les attributions du ministre s’étendent d’une façon générale à tous les domaines de compétence du Parlement liés au développement social du Canada ne ressortissant pas de droit à d’autres ministres, ministères ou organismes fédéraux.
+
+**Exercice des attributions**
+
+- **(2)** Ces attributions sont exercées en vue de promouvoir le bien-être des personnes au sein de la société et la sécurité du revenu.
+
+
+
+
+**Pouvoirs**
+
+**6** Dans le cadre des attributions que lui confère la présente loi ou toute autre loi, le ministre peut :
+- **a)** sous réserve de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), collecter, analyser, interpréter, publier et diffuser de l’information sur le développement social;
+- **b)** collaborer avec les autorités provinciales en vue de coordonner les efforts visant le développement social.
+
+
+
+
+**Programmes**
+
+**7** Le ministre peut, dans le cadre des attributions que lui confère la présente loi, concevoir et réaliser des programmes destinés à appuyer les projets ou autres activités qui contribuent au développement social du Canada et accorder des subventions et des contributions pour les appuyer.
+
+
+
+
+### Services entre ministères
+
+
+
+**Prestation et réception de services**
+
+**8** 
+
+- **(1)** Le ministère peut fournir des services au ministère des Ressources humaines et du Développement des compétences et à la Commission de l’assurance-emploi du Canada et en recevoir de ceux-ci.
+
+**Sommes à recouvrer**
+
+- **(2)** Avec l’approbation du Conseil du Trésor, le ministre peut fixer la somme ou le mode de calcul de la somme à recouvrer pour les services que le ministère fournit au ministère des Ressources humaines et du Développement des compétences et à la Commission de l’assurance-emploi du Canada. La somme ne peut excéder le coût des services fournis.
+
+**Utilisation**
+
+- **(3)** Sous réserve des conditions fixées par le Conseil du Trésor, le ministère peut dépenser à ses fins les sommes perçues.
+
+
+
+
+### Comités
+
+
+
+**Comités**
+
+**9** 
+
+- **(1)** Le ministre peut constituer des comités consultatifs ou autres, et en prévoir la composition, les attributions et le fonctionnement.
+
+**Rémunération**
+
+- **(2)** Les membres de ces comités reçoivent, pour l’exercice de leurs attributions, la rémunération que peut fixer le gouverneur en conseil.
+
+**Indemnités**
+
+- **(3)** Ils sont indemnisés des frais, notamment des frais de déplacement et de séjour, entraînés par l’exercice de leurs attributions hors de leur lieu habituel, soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel, conformément aux directives du Conseil du Trésor.
+
+
+
+
+### Conseil national du bien-être social
+
+
+
+**Conseil national du bien-être social**
+
+**10** 
+
+- **(1)** Est maintenu le Conseil national du bien-être social; il se compose d’un président et d’au plus quinze autres membres nommés à titre amovible par le gouverneur en conseil pour des mandats respectifs d’une durée maximale de trois ans et échelonnés, dans la mesure du possible, de sorte qu’au cours d’une année quelconque moins de la moitié d’entre eux viennent à expiration.
+
+**Présomption**
+
+- **(2)** Les membres du Conseil sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) lorsqu’ils exercent les fonctions qui leur sont confiées en application de la présente loi.
+
+
+
+
+**Possibilité d’un nouveau mandat**
+
+**11** Tout membre du Conseil peut recevoir un nouveau mandat.
+
+
+
+
+**Rémunération**
+
+**12** 
+
+- **(1)** Les membres du Conseil reçoivent, pour l’exercice de leurs attributions, la rémunération que peut fixer le gouverneur en conseil.
+
+**Indemnités**
+
+- **(2)** Ils sont indemnisés des frais, notamment des frais de déplacement et de séjour, entraînés par l’exercice de leurs attributions hors de leur lieu habituel soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel, conformément aux directives du Conseil du Trésor.
+
+
+
+
+**Mission**
+
+**13** Le Conseil a pour mission de conseiller le ministre, en matière de développement social, sur les questions que ce dernier soumet à son examen ou que lui-même juge opportun d’aborder.
+
+
+
+
+**Réunions**
+
+**14** Le Conseil se réunit aux date, heure et lieu fixés par le ministre.
+
+
+
+
+**Personnel et contractuels**
+
+**15** 
+
+- **(1)** Le Conseil peut engager le personnel et les contractuels nécessaires à l’exécution de sa mission.
+
+**Présomption**
+
+- **(2)** Le personnel et les contractuels ainsi engagés ne font pas automatiquement partie de l’administration publique fédérale.
+
+
+
+
+### Dispositions générales
+
+
+
+**Accords**
+
+**16** En vue de faciliter la formulation, la coordination et l’application des politiques et programmes relatifs aux attributions que lui confère la présente loi, le ministre peut conclure un accord avec une province, un organisme public provincial, une institution financière ou toute personne ou tout organisme de son choix.
+
+
+
+
+**Délégation**
+
+**17** Le ministre peut déléguer ses attributions, à titre individuel ou collectif, à toute personne ou à tout organisme qu’il désigne.
+
+
+
+
+**Serments et déclarations**
+
+**18** Toute personne ou tout membre d’une catégorie de personnes employée par le ministère et autorisée par le sous-ministre, de même que toute autre personne ou tout autre membre d’une catégorie de personnes autorisée par le ministre, peut, dans l’exercice de ses fonctions et à des fins liées ou accessoires à cet exercice, faire prêter des serments et recevoir des déclarations sous serment, solennelles ou autres. À cet effet, ces personnes disposent des pouvoirs d’un commissaire aux serments.
+
+
+
+
+**Facturation des services et installations**
+
+**19** 
+
+- **(1)** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de services ou d’installations par lui-même, le ministère ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+**Plafonnement**
+
+- **(2)** Le prix fixé dans le cadre du paragraphe (1) ne peut excéder les coûts supportés par Sa Majesté du chef du Canada pour la fourniture des services ou des installations.
+
+
+
+
+**Facturation des produits, droits et avantages**
+
+**20** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de produits ou l’attribution de droits ou d’avantages par lui-même, le ministère ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+
+
+
+**Facturation des procédés ou autorisations réglementaires**
+
+**21** 
+
+- **(1)** Le ministre peut, sous réserve des règlements d’application du présent article éventuellement pris par le Conseil du Trésor, fixer le prix à payer pour la fourniture de procédés réglementaires ou l’attribution d’autorisations réglementaires par lui-même, le ministère ou tout autre organisme fédéral dont il est, du moins en partie, responsable.
+
+**Plafonnement**
+
+- **(2)** Les prix fixés dans le cadre du paragraphe (1) ne peuvent dépasser, dans l’ensemble, une somme suffisante pour indemniser Sa Majesté du chef du Canada des dépenses entraînées pour elle par la fourniture des procédés réglementaires ou l’attribution des autorisations réglementaires.
+
+
+
+
+**Publication**
+
+**22** 
+
+- **(1)** Dans les trente jours suivant la date de fixation d’un prix dans le cadre des articles 19 à 21, le ministre publie celui-ci dans la Gazette du Canada.
+
+**Renvoi en comité**
+
+- **(2)** Le comité visé à l’article 19 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) est saisi d’office des prix fixés dans le cadre des articles 19 à 21 pour que ceux-ci fassent l’objet de l’étude et du contrôle prévus pour les textes réglementaires.
+
+
+
+
+**Pouvoir de prendre des règlements**
+
+**23** Le Conseil du Trésor peut prendre des règlements pour l’application des articles 19 à 21.
+
+
+
+
+**PARTIE 2** 
+## Protection des renseignements personnels
+
+
+
+**Définitions**
+
+**24** Les définitions qui suivent s’appliquent à la présente partie.
+
+***fonctionnaire public*** Quiconque occupe une fonction ou est employé dans une institution fédérale et tout particulier désigné par règlement ou membre d’une catégorie de particuliers désignée par règlement.
+
+***institution fédérale*** Ministère ou tout autre organisme mentionnés dans une annexe de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
+***mise en oeuvre*** S’agissant de programmes, sont assimilées à la mise en oeuvre la conception, l’élaboration et l’évaluation.
+
+***programme*** Programme dont la mise en oeuvre ou l’exécution relèvent du ministre; y sont assimilées les lois — autres que le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) et la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) —, les orientations ou les activités dont la mise en oeuvre ou l’exécution relèvent du ministre.
+
+***renseignements*** S’entend de renseignements personnels au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le passage figurant entre les alinéas i) et j) de la définition étant réputé être ainsi libellé : « toutefois, il demeure entendu que, pour l’application de la présente partie, les renseignements ne comprennent pas les renseignements concernant : ».
+
+
+
+
+**Objet**
+
+**25** La présente partie édicte les règles de protection et d’accessibilité des renseignements obtenus par le ministre dans le cadre d’un programme ou tirés de tels renseignements sous son régime; elle prévoit également des principes relatifs à l’utilisation de renseignements à des fins de recherche.
+
+
+
+
+**Protection des renseignements**
+
+**26** Les renseignements sont protégés et ne peuvent être rendus accessibles que si la présente partie l’autorise.
+
+
+
+
+**Particulier**
+
+**27** 
+
+- **(1)** Sur demande écrite adressée au ministre par le particulier, les renseignements peuvent être rendus accessibles à celui-ci sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). Ce droit s’ajoute au droit d’accès que donne au particulier l’article 12 de cette loi.
+
+**Particuliers, représentants et parlementaires fédéraux**
+
+- **(2)** Les renseignements peuvent être rendus accessibles, aux conditions que le ministre estime indiquées et sous réserve des exceptions et exclusions prévues par la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), à un particulier ou à son représentant ou au parlementaire fédéral qui les demande au nom du particulier, dans la mesure où ils sont liés à la présentation d’une demande par le particulier, au versement de prestations à celui-ci, à une autre forme d’aide dans le cadre d’un programme ou à une autre question qui concerne le particulier en vertu de ce programme.
+
+
+
+
+**Mise en oeuvre d’un programme**
+
+**28** 
+
+- **(1)** Les renseignements peuvent être rendus accessibles à quiconque pour la mise en oeuvre ou l’exécution du programme dans le cadre duquel ils ont été obtenus ou préparés.
+
+**Au sein du ministère**
+
+- **(2)** Les renseignements peuvent être rendus accessibles à tout fonctionnaire public du ministère pour la mise en oeuvre ou l’exécution d’un programme, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md).
+
+
+
+
+**Ministère des Ressources humaines et du Développement des compétences**
+
+**29** 
+
+- **(1)** Les renseignements peuvent être rendus accessibles au ministre des Ressources humaines et du Développement des compétences et à la Commission de l’assurance-emploi du Canada ou à tout fonctionnaire public de ce ministère ou de la Commission pour la mise en oeuvre ou l’exécution d’un programme, au sens de l’article 30 de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
+
+**Autres institutions fédérales**
+
+- **(2)** Si le ministre l’estime indiqué, les renseignements peuvent, pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales ou provinciales visées par règlement, être rendus accessibles à tout ministre ou fonctionnaire public de toute autre institution fédérale visée par règlement aux conditions dont sont convenus le ministre et l’institution.
+
+**Accès à d’autres personnes**
+
+- **(3)** Les renseignements obtenus dans le cadre du paragraphe (2) ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées à ce paragraphe et aux conditions dont sont convenus le ministre et l’institution fédérale.
+
+
+
+
+**Communication aux provinces**
+
+**30** 
+
+- **(1)** Les renseignements peuvent être rendus accessibles — pour la mise en oeuvre ou l’exécution d’une loi ou d’une activité fédérales ou d’une loi provinciale — au gouvernement d’une province ou à un organisme public créé sous le régime d’une loi provinciale, si le ministre l’estime indiqué et, le cas échéant, sont rendus accessibles aux conditions dont sont convenus le ministre et le gouvernement ou l’organisme.
+
+**Communication à des pays étrangers, organisations internationales, etc.**
+
+- **(2)** Les renseignements peuvent, pour la mise en oeuvre ou l’exécution d’une loi, être rendus accessibles à un État étranger, à une organisation internationale d’États ou de gouvernements ou à l’un de leurs organismes si le ministre l’estime indiqué et, le cas échéant, sont rendus accessibles aux conditions dont sont convenus le ministre et cet État, cette organisation internationale ou cet organisme.
+
+**Accès à d’autres personnes**
+
+- **(3)** Les renseignements obtenus dans le cadre du présent article ne peuvent être rendus accessibles à quiconque que si le ministre l’estime indiqué et, le cas échéant, que s’ils le sont aux fins visées aux paragraphes (1) ou (2) et aux conditions dont sont convenus le ministre et le gouvernement, l’État, l’organisme ou l’organisation internationale, selon le cas.
+
+
+
+
+**Intérêt public**
+
+**31** 
+
+- **(1)** Par dérogation aux articles 26 à 30, les renseignements peuvent toujours être rendus accessibles si le ministre estime que l’intérêt du public à la communication justifierait nettement une éventuelle violation de la vie privée ou que la communication profiterait nettement au particulier visé par les renseignements.
+
+**Avis au Commissaire à la protection de la vie privée**
+
+- **(2)** Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant le particulier concerné est laissée à l’appréciation du Commissaire.
+
+
+
+
+**Travaux de recherche ou de statistique**
+
+**32** Les renseignements peuvent être rendus accessibles à toute personne ou à tout organisme, y compris ceux visés aux paragraphes 29(2) ou (3) ou à l’article 30, pour des travaux de recherche ou de statistique si les conditions suivantes sont réunies :
+- **a)** le ministre estime que les travaux de recherche ou de statistique sont conformes aux principes énoncés aux alinéas 33(1)a) à e);
+- **b)** le ministre estime que les fins auxquelles les renseignements sont rendus accessibles ne peuvent être normalement atteintes que si ceux-ci sont donnés sous une forme qui permette d’identifier le particulier qu’ils concernent;
+- **c)** les renseignements sont rendus accessibles aux conditions fixées dans un accord conclu entre le ministre et la personne ou l’organisme en question dans lequel la personne ou l’organisme s’engagent notamment auprès du ministre à s’abstenir de toute communication ultérieure des renseignements tant que leur forme risque vraisemblablement de permettre l’identification d’un particulier.
+
+
+
+
+**Utilisation de renseignements à des fins de recherche**
+
+**33** 
+
+- **(1)** L’utilisation de renseignements par le ministre et les fonctionnaires publics du ministère à des fins d’évaluation, de recherche ou d’analyse des politiques s’inspire des principes suivants :
+	- **a)** l’objet de l’évaluation, de la recherche ou de l’analyse est conforme aux attributions du ministre;
+	- **b)** l’utilisation satisfait aux exigences des accords en vertu desquels les renseignements ont été obtenus;
+	- **c)** les résultats ne peuvent être rendus accessibles qu’en conformité avec la présente partie et les accords en vertu desquels les renseignements ont été obtenus;
+	- **d)** l’évaluation, la recherche ou l’analyse seraient difficiles ou même impossibles sans l’utilisation des renseignements;
+	- **e)** l’évaluation, la recherche ou l’analyse sont dans l’intérêt du public.
+
+**Utilisation**
+
+- **(2)** Le fonctionnaire public ne peut, sauf s’il a été autorisé par le ministre, utiliser à des fins d’évaluation, de recherche ou d’analyse des politiques des renseignements qui permettent l’identification d’un particulier.
+
+**Restriction**
+
+- **(3)** Les renseignements visés au paragraphe (1) ne peuvent pas être utilisés à des fins administratives au sens de l’article 3 de la Loi sur la protection des renseignements personnels.
+
+
+
+
+**Dépositions en justice**
+
+**34** Par dérogation à toute autre loi ou règle de droit, il ne peut être exigé du ministre ni d’un fonctionnaire public de déposer en justice au sujet des renseignements protégés au titre de l’article 26 ni de produire des déclarations écrites ou autres documents contenant ces renseignements, sauf si le ministre l’estime indiqué ou s’il s’agit d’une procédure se rapportant directement à la mise en oeuvre ou à l’exécution d’un programme.
+
+
+
+
+**Accords pour l’obtention de renseignements**
+
+**35** Le ministre peut, en vue d’obtenir des renseignements pour la mise en oeuvre ou l’exécution de programmes, conclure des accords avec des institutions fédérales, des gouvernements provinciaux, des organismes publics créés sous le régime d’une loi provinciale, des États étrangers, des organisations internationales d’États ou de gouvernements ou l’un de leurs organismes ou encore avec tout autre organisme ou toute autre personne.
+
+
+
+
+**Infractions**
+
+**36** 
+
+- **(1)** Commet une infraction quiconque sciemment rend accessibles, utilise ou permet qu’on utilise des renseignements protégés par la présente partie contrairement à celle-ci ou aux conditions visées au paragraphe 27(2) ou aux articles 29, 30 ou 32, ou à tout accord visé à ces dispositions.
+
+**Peines : particuliers**
+
+- **(2)** Le particulier qui commet l’infraction visée au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+**Peines : personnes ou organismes**
+
+- **(3)** Toute autre personne ou tout organisme qui commet l’infraction visée au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $.
+
+
+
+
+**Règlements**
+
+**37** Le gouverneur en conseil peut, par règlement :
+- **a)** désigner tout particulier ou toute catégorie de particuliers pour l’application de la définition de « fonctionnaire public » à l’article 24;
+- **b)** préciser, pour l’application du paragraphe 29(2), les institutions fédérales à qui les renseignements visés à ce paragraphe peuvent être rendus accessibles et les lois ou activités fédérales ou provinciales pour la mise en oeuvre ou l’exécution desquelles ils peuvent l’être.
+
+
+
+
+**PARTIE 3** 
+## Dispositions transitoires, modifications corrélatives et connexes, disposition de coordination, abrogation et entrée en vigueur
+
+
+
+### Dispositions transitoires
+
+
+
+**Ministre et sous-ministre**
+
+**38** 
+
+- **(1)** Les personnes portant, immédiatement avant l’entrée en vigueur du présent article, les titres de ministre et de sous-ministre du Développement social sont, à compter de cette entrée en vigueur, réputées avoir été nommées, en vertu de la présente loi, ministre du Développement social et sous-ministre du Développement social, respectivement.
+
+**Fonctionnaires**
+
+- **(2)** La présente loi ne change rien à la situation des fonctionnaires qui, immédiatement avant l’entrée en vigueur du présent article, occupaient un poste au sein du ministère du Développement des ressources humaines, à la différence près que, à compter de cette entrée en vigueur, ils l’occupent au sein du ministère du Développement social.
+
+
+
+
+**Membres du Conseil national du bien-être social**
+
+**39** Les membres du Conseil national du bien-être social en poste immédiatement avant l’entrée en vigueur du présent article sont maintenus en poste jusqu’à la fin du mandat pour lequel ils ont été nommés.
+
+
+
+
+**Transfert d’attributions**
+
+**40** Les attributions qui, immédiatement avant l’entrée en vigueur du présent article, étaient conférées, en vertu d’une loi, d’un règlement, d’un décret, d’un arrêté, d’une ordonnance ou d’une règle ou au titre d’un contrat, bail, permis ou autre document, au ministre du Développement des ressources humaines, au sous-ministre ou à un fonctionnaire du ministère du Développement des ressources humaines ou au ministre portant le titre de ministre du Développement social ou au sous-ministre portant le titre de sous-ministre du Développement social sont, à compter de cette entrée en vigueur, conférées au ministre du Développement social ou au sous-ministre ou au fonctionnaire du ministère du Développement social, selon le cas, sauf décret chargeant de ces attributions un autre ministre ou sous-ministre, ou un fonctionnaire d’un autre secteur de l’administration publique fédérale.
+
+
+
+
+**Transfert de crédits**
+
+**41** Les sommes affectées — et non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard du ministère du Développement des ressources humaines (Développement social) sont réputées être affectées aux frais et dépenses de l’administration publique fédérale à l’égard du ministère du Développement social.
+
+
+
+
+### Modifications corrélatives et connexes
+
+
+
+#### Loi sur l’accès à l’information
+
+
+**42** [Modification]
+
+
+
+**43** [Modification]
+
+
+
+**44** [Modification]
+
+
+
+
+#### Régime de pensions du Canada
+
+
+**45** [Modification]
+
+
+
+**46** [Modification]
+
+
+
+**47** [Modification]
+
+
+
+**48** [Modifications]
+
+
+
+**49** [Modification]
+
+
+
+**50** [Modification]
+
+
+
+**51** [Modification]
+
+
+
+**52** [Modification]
+
+
+
+
+#### Loi d’aide à l’exécution des ordonnances et des ententes familiales
+
+
+**53** [Modification]
+
+
+
+
+#### Loi sur la gestion des finances publiques
+
+
+**54** [Modification]
+
+
+
+
+#### Loi sur la sécurité de la vieillesse
+
+
+**55** [Modification]
+
+
+
+**56** [Modification]
+
+
+
+**57** [Modification]
+
+
+
+**58** [Modifications]
+
+
+
+**59** [Modification]
+
+
+
+**60** [Modification]
+
+
+
+**61** [Modification]
+
+
+
+**62** [Modification]
+
+
+
+
+#### Loi sur la protection des renseignements personnels
+
+
+**63** [Modification]
+
+
+
+
+#### Loi sur la rémunération du secteur public
+
+
+**64** [Modification]
+
+
+
+
+#### Loi sur les traitements
+
+
+**65** [Modification]
+
+
+
+
+#### Nouvelle terminologie
+
+
+**66** [Modifications]
+
+
+
+**67** [Modifications]
+
+
+
+
+### Disposition de coordination
+
+
+**68** [Modifications]
+
+
+
+
+### Abrogation
+
+
+**69** [Abrogation]
+
+
+
+
+### Entrée en vigueur
+
+
+
+**Décret**
+
+<sup><a href='#S-11.5_f_70'>[*]</a></sup>**70** La présente loi, à l’exception de l’article 68, entre en vigueur à la date fixée par décret, mais cette date doit être la même que celle fixée en vertu de l’article 85 de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
+
+<a name='S-11.5_f_70'><sup>*</sup></a>: [Note : Article 68 en vigueur à la sanction le 20 juillet 2005.]<br />
+
+
