@@ -2990,7 +2990,9 @@ où
 
 ***exportation*** L’expédition de grain par bâtiment, au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), vers toute destination à l’étranger ainsi que l’expédition de grain par tout autre moyen de transport vers les États-Unis pour l’utilisation dans ce pays et non pour expédition hors de celui-ci.
 
-***grain*** Grain ou plante mentionnés à l’annexe II et cultivés dans la région de l’Ouest; y sont assimilés les produits mentionnés à cette annexe provenant de leur transformation dans cette région.
+***grain***
+- **a)** Grain ou plante mentionnés à l’annexe II et cultivés dans la région de l’Ouest, y étant assimilés les produits mentionnés à cette annexe provenant de leur transformation dans cette région;
+- **b)** grain ou plante mentionnés à l’annexe II et importés au Canada après avoir été cultivés à l’étranger, y étant assimilés les produits mentionnés à cette annexe qui, d’une part, proviennent de la transformation à l’étranger de grains ou plantes qui y sont également mentionnés et, d’autre part, ont été importés au Canada.
 
 ***mouvement du grain*** Transport du grain par une compagnie de chemin de fer régie sur toute ligne soit dans le sens ouest-est à destination de Thunder Bay ou d’Armstrong (Ontario), soit au départ de tout point situé à l’ouest de Thunder Bay ou d’Armstrong et à destination de Churchill (Manitoba) ou d’un port de la Colombie-Britannique, pour exportation. La présente définition ne s’applique pas au grain exporté d’un port de la Colombie-Britannique aux États-Unis pour consommation.
 
@@ -3001,7 +3003,7 @@ où
 ***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba.
 
 ***wagon-trémie du gouvernement*** Wagon-trémie fourni à une compagnie de chemin de fer régie par le gouvernement fédéral, le gouvernement d’une province ou la Commission canadienne du blé.
-> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9.
+> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2005, ch. 24, art. 3.
 
 
 
