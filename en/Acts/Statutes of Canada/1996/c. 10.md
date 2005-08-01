@@ -3071,7 +3071,9 @@ request two or more railway companies to consider the joint or common use of a r
 
 ***government hopper car*** means a hopper car provided to a prescribed railway company by the government of Canada or a province or by the Canadian Wheat Board;
 
-***grain*** means any grain or crop included in Schedule II that is grown in the Western Division, or any product of it included in Schedule II that is processed in the Western Division;
+***grain*** means 
+- **(a)** any grain or crop included in Schedule II that is grown in the Western Division, or any product of it included in Schedule II that is processed in the Western Division, or
+- **(b)** any grain or crop included in Schedule II that is grown outside Canada and imported into Canada, or any product of any grain or crop included in Schedule II that is itself included in Schedule II and is processed outside Canada and imported into Canada;
 
 ***joint line movement***[Repealed, 2000, c. 16, s. 9]
 
@@ -3088,7 +3090,7 @@ but does not include the carriage of grain to a port in British Columbia for exp
 ***prescribed railway company*** means the Canadian National Railway Company, the Canadian Pacific Railway Company and any railway company that may be specified in the regulations;
 
 ***Western Division*** means the part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba.
-> 1996, c. 10, s. 147; 2000, c. 16, s. 9.
+> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2005, c. 24, s. 3.
 
 
 
