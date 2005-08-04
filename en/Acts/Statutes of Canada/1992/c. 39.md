@@ -232,6 +232,25 @@ shall forthwith, in accordance with the regulations, if any, made under subparag
 
 
 
+## Tlicho Communities
+
+
+
+**Exemption**
+
+**9.1** 
+
+- **(1)** Sections 8 and 9 do not apply in respect of a use of waters or a deposit of waste in a Tlicho community, if the local government of that community has enacted a bylaw providing that a licence is not required for that type of use or deposit.
+
+**Same meaning**
+
+- **(2)** The expressions ***Tlicho community*** and ***local government*** in subsection (1) have the same meaning as in section 2 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
+> 2005, c. 1, s. 103.
+
+
+
+
+
 ## Northwest Territories Water Board
 
 
@@ -365,7 +384,11 @@ who were such licensees, users, depositors, owners, occupiers or holders, whethe
 	- **(b)** in the case of a type B licence,
 		- **(i)** of the chairperson of the Board, where no public hearing is held by the Board in connection with the application for the licence, or
 		- **(ii)** of the Minister, where a public hearing is held by the Board in connection with the application for the licence.
-> 1992, c. 39, s. 14; 1998, c. 25, s. 166; 2002, c. 10, s. 184.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(7)** For greater certainty, licences issued by the Board under this Act either before or after the coming into force of this subsection are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 1992, c. 39, s. 14; 1998, c. 25, s. 166; 2002, c. 10, s. 184; 2005, c. 1, s. 104.
 
 
 
