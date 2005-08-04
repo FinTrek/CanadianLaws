@@ -14,7 +14,7 @@ Sanctionnée sur le 18 juin 1998
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que l’Entente sur la revendication territoriale globale des Gwich’in et l’Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu, d’une part, exigent la mise en place d’un office d’aménagement territorial et d’un office des terres et des eaux pour chacune des régions désignées qu’elles visent et d’un office d’examen des répercussions environnementales pour la vallée du Mackenzie, et, d’autre part, prévoient la mise en place d’un office des terres et des eaux pour une région qui s’étend au-delà des régions désignées;
 
@@ -24,7 +24,7 @@ que l’intention reconnue par les signataires consiste à mettre en place ces o
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -50,13 +50,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de revendication*** L’accord gwich’in ou celui du Sahtu.
+***accord de revendication*** L’accord gwich’in, l’accord du Sahtu ou l’accord tlicho.
 
 ***accord du Sahtu*** Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal du Sahtu, signée le 6 septembre 1993 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
 
 ***accord gwich’in*** Entente sur la revendication territoriale globale des Gwich’in, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal des Gwich’in, signée le 22 avril 1992 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Gwich’in](/fr/Lois/Lois%20du%20Canada/1992/ch.%2053.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
 
-***administration locale*** Toute administration établie comme telle sous le régime des règles de droit des Territoires du Nord-Ouest, notamment les cités, villes, villages, hameaux, collectivités établies avec charte ou localités, constitués en personne morale ou non. Y est assimilé le gouvernement territorial dans les cas où il exerce, sous le régime de ces règles de droit, les attributions d’une telle administration.
+***accord tlicho*** L’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
+
+***administration locale*** Toute administration établie comme telle sous le régime des règles de droit des Territoires du Nord-Ouest, notamment les cités, villes, villages, hameaux, collectivités établies avec charte, localités ou administrations d’une collectivité tlicho, constitués en personne morale ou non. Y est assimilé le gouvernement territorial dans les cas où il exerce, sous le régime de ces règles de droit, les attributions d’une telle administration.
+
+***citoyen tlicho*** Personne dont le nom figure au registre au sens du chapitre 1 de l’accord tlicho.
+
+***collectivité tlicho*** Collectivité à l’égard de laquelle une administration communautaire est constituée conformément au chapitre 8 de l’accord tlicho.
 
 ***dépôt de déchets*** Dépôt de déchets visé au paragraphe 9(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md).
 
@@ -69,24 +75,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***gouvernement territorial*** Le gouvernement des Territoires du Nord-Ouest.
 
+***gouvernement tlicho*** Le gouvernement de la première nation tlicho institué conformément au chapitre 7 de l’accord tlicho.
+
+***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho.
+
 ***ministre fédéral*** Le ministre des Affaires indiennes et du Nord canadien.
 
 ***ministre territorial*** Le ministre du gouvernement territorial désigné, par acte du Conseil exécutif des Territoires du Nord-Ouest, pour l’application de telle disposition de la présente loi.
 
-***première nation*** Outre la première nation des Gwich’in ou celle du Sahtu, tous les organismes représentant d’autres Dénés ou Métis des régions de North Slave, South Slave ou Deh Cho de la vallée du Mackenzie.
+***Monfwi gogha de niitlee*** Le territoire décrit à la partie 1 de l’annexe du chapitre 1 de l’accord tlicho.
+
+***première nation*** La première nation des Gwich’in, celle du Sahtu ou tout organisme représentant d’autres Dénés ou Métis des régions de North Slave, South Slave ou Deh Cho de la vallée du Mackenzie, exception faite de la première nation tlicho et de son gouvernement.
 
 ***première nation des Gwich’in*** Les Gwich’in, représentés soit par le Conseil tribal des Gwich’in mentionné dans l’accord gwich’in, soit par tout organisme succédant à ce conseil.
 
 ***première nation du Sahtu*** Les Dénés et Métis du Sahtu, représentés soit par la société sans capital-actions constituée sous le nom « The Sahtu Secretariat Incorporated » en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, et succédant, pour l’application de la présente loi, au Conseil tribal du Sahtu mentionné dans l’accord du Sahtu, soit par tout organisme succédant à cette société.
 
-***région désignée*** La région de la vallée du Mackenzie à laquelle s’applique tel accord de revendication.
+***première nation tlicho*** Le peuple autochtone du Canada composé de tous les citoyens tlichos et visé par l’article 35 de la Loi constitutionnelle de 1982.
+
+***région désignée*** La région décrite à l’annexe A de l’accord gwich’in ou de l’accord du Sahtu.
+
+***règle de droit territoriale*** Ordonnance des Territoires du Nord-Ouest ou règlement pris en vertu d’une telle ordonnance.
 
 ***ressources patrimoniales*** Les sites archéologiques ou historiques, les lieux de sépulture, les artéfacts et autres objets de valeur historique, culturelle ou religieuse, ainsi que les documents se rapportant à l’histoire ou à la culture.
 
-***terres désignées*** Les terres désignées comme « terres visées par le règlement » par l’accord de revendication pertinent.
+***terres désignées*** Les terres désignées comme « terres visées par le règlement » par l’accord gwich’in ou l’accord du Sahtu.
+
+***terres tlichos*** S’entend au sens du chapitre 1 de l’accord tlicho.
 
 ***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada.
-> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A).
+
+***Wekeezhii*** La zone décrite à la partie 2 de l’annexe du chapitre 1 de l’accord tlicho.
+> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15.
 
 
 
@@ -113,6 +133,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La première nation peut, en conformité avec l’accord de revendication pertinent, déléguer à l’organisation autochtone qu’elle désigne les attributions qui lui sont conférées sous le régime de la présente loi.
 
+**Délégation faite par le gouvernement tlicho**
+
+- **(4)** Le gouvernement tlicho peut, en conformité avec l’accord tlicho, déléguer aux organismes ci-après les attributions qui lui sont conférées sous le régime de la présente loi :
+	- **a)** tout organisme constitué par une loi tlicho;
+	- **b)** tout ministère ou organisme administratif fédéral ou territorial;
+	- **c)** tout organisme public constitué sous le régime d’une loi fédérale ou d’une règle de droit territoriale;
+	- **d)** toute administration locale.
+> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16.
+
+
 
 
 
@@ -125,6 +155,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
+
+
+
+
+**Accord entre le gouvernement tlicho et un peuple autochtone**
+
+**5.1** Les droits de la première nation tlicho, des citoyens tlichos et du gouvernement tlicho prévus par la présente loi sont assujettis à tout accord conclu entre le gouvernement tlicho et un peuple autochtone, autre que la première nation tlicho, en vertu de l’article 2.7.3 de l’accord tlicho.
+> 2005, ch. 1, art. 17.
+
 
 
 
@@ -151,11 +190,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Le ministre fédéral est tenu de consulter les premières nations au sujet de toute modification de la présente loi.
+- **(1)** Le ministre fédéral est tenu de consulter les premières nations et le gouvernement tlicho au sujet de toute modification de la présente loi.
 
 **Examen de la loi**
 
 - **(2)** Il est aussi tenu, dans le cadre des négociations relatives à l’autonomie gouvernementale de toute première nation, de procéder, en collaboration avec celle-ci, à l’examen des dispositions pertinentes de la présente loi.
+> 1998, ch. 25, art. 8; 2005, ch. 1, art. 18.
+
 
 
 
@@ -194,28 +235,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** Exception faite du président et des membres spéciaux visés à l’article 15, le ministre fédéral nomme les membres de l’office en conformité avec les parties 2 à 5 : certains sont nommés soit sur la proposition des premières nations ou du ministre territorial, soit après consultation de celles-ci.
+- **(1)** Exception faite du président, des membres nommés suivant la manière déterminée en application de l’article 15 et des membres nommés par le gouvernement tlicho en vertu du paragraphe 57.1(2) ou conformément à un accord visé à ce paragraphe, le ministre fédéral nomme les membres de l’office en conformité avec les parties 2 à 5.
 
 **Suppléants**
 
-- **(2)** Il peut aussi nommer, soit parmi les candidats qui lui sont proposés à cet effet par les premières nations, soit après consultation de celles-ci, des suppléants chargés d’exercer, en cas d’absence ou d’incapacité, les fonctions des membres nommés sur telle proposition ou après telle consultation, selon le cas. Quant aux suppléants des autres membres, ils sont nommés par le ministre fédéral avec l’accord du ministre territorial.
+- **(2)** Il peut aussi nommer, soit parmi les candidats qui lui sont proposés à cet effet par les premières nations, soit après consultation de celles-ci, des suppléants chargés d’exercer, en cas d’absence ou d’incapacité, les fonctions des membres nommés sur telle proposition ou après telle consultation, selon le cas. Quant aux suppléants des autres membres, ils sont nommés par le ministre fédéral avec l’accord du ministre territorial. Le présent paragraphe ne s’applique pas à l’Office des terres et des eaux du Wekeezhii.
+> 1998, ch. 25, art. 11; 2005, ch. 1, art. 19.
 
 
 
 
-**Président**
+
+**Nomination du président de l’office**
 
 **12** 
 
-- **(1)** Le ministre fédéral nomme le président de l’office parmi les candidats proposés par la majorité des membres de celui-ci.
+- **(1)** Le ministre fédéral nomme le président de l’office, exception faite de l’Office des terres et des eaux du Wekeezhii, parmi les candidats proposés par la majorité des membres de celui-ci.
 
 **Choix du ministre fédéral**
 
-- **(2)** À défaut, dans un délai suffisant, de proposition qu’il juge acceptable, le ministre fédéral peut d’autorité choisir le président.
+- **(2)** À défaut, dans un délai suffisant, de proposition qu’il juge acceptable, le ministre fédéral peut d’autorité choisir le président de l’office, exception faite de l’Office des terres et des eaux du Wekeezhii.
+
+**Office des terres et des eaux du Wekeezhii**
+
+- **(2.1)** Le ministre fédéral et le gouvernement tlicho nomment conjointement le président de l’Office des terres et des eaux du Wekeezhii sur la proposition des autres membres de l’Office.
 
 **Intérim**
 
 - **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, l’intérim est assuré, avec plein exercice de ses attributions, par le membre que peut désigner l’office.
+> 1998, ch. 25, art. 12; 2005, ch. 1, art. 20.
+
 
 
 
@@ -237,26 +286,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Ce mandat peut être reconduit, à des fonctions identiques ou non.
 
-**Consultation**
+**Révocation par le ministre fédéral après consultation**
 
-- **(3)** La révocation est subordonnée à la consultation, par le ministre fédéral, de l’office et de quiconque a proposé la candidature du membre en question.
+- **(3)** La révocation d’un membre nommé par le ministre fédéral est subordonnée à la consultation, par celui-ci, de l’office et de quiconque a proposé la candidature du membre en question.
+
+**Révocation par le gouvernement tlicho après consultation**
+
+- **(4)** La révocation d’un membre de l’Office des terres et des eaux du Wekeezhii nommé par le gouvernement tlicho est subordonnée à la consultation, par celui-ci, de l’Office et du ministre fédéral.
+> 1998, ch. 25, art. 14; 2005, ch. 1, art. 21.
 
 
 
 
-**Membre spécial : autochtones**
 
-**15** 
+**Mise en œuvre du droit de représentation d’un autre peuple autochtone**
 
-- **(1)** Dans les cas où l’accord gwich’in ou celui du Sahtu accorde un droit de représentation, en ce qui touche une décision de l’office, aux autochtones qui ont conclu un accord avec Sa Majesté du chef du Canada au sujet des revendications territoriales relatives à une région des Territoires du Nord-Ouest voisine de la vallée du Mackenzie, ces autochtones peuvent proposer la nomination d’une personne à titre de membre spécial.
+**15** Malgré toute autre disposition de la présente loi concernant ses membres, l’office, pour la prise de toute décision qui peut toucher une région qui ne relève pas de sa compétence, détermine la manière de mettre en œuvre, conformément à l’accord de revendication applicable, tout droit de représentation du peuple autochtone qui utilise les ressources de cette région conféré par cet accord.
+> 1998, ch. 25, art. 15; 2005, ch. 1, art. 22.
 
-**Membre spécial : gouvernements**
-
-- **(2)** Le cas échéant, les ministres fédéral et territorial peuvent aussi proposer la nomination d’une personne à titre de membre spécial, dans le but de maintenir les proportions établies, dans les dispositions pertinentes de la présente loi, entre les membres proposés par les premières nations ou nommés après consultation de celles-ci et les autres membres.
-
-**Nomination**
-
-- **(3)** L’office est alors tenu, malgré toute disposition de la présente loi relative à sa composition, de procéder à la nomination des personnes proposées en conformité avec le présent article, laquelle n’a cependant d’effet qu’en ce qui touche la décision en question.
 
 
 
@@ -269,7 +316,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Statut et droits conférés par accord**
 
-- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in ou de celui du Sahtu, soit de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
+- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
+> 1998, ch. 25, art. 16; 2005, ch. 1, art. 23.
+
 
 
 
@@ -278,11 +327,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Les membres de l’office, exception faite des membres spéciaux visés à l’article 15, reçoivent la rémunération et les autres indemnités fixées par le ministre fédéral.
+- **(1)** Les membres de l’office, exception faite des membres nommés suivant la manière déterminée en application de l’article 15, reçoivent la rémunération et les autres indemnités fixées par le ministre fédéral.
 
 **Frais**
 
 - **(2)** Ces membres sont indemnisés, selon des règles compatibles avec les directives du Conseil du Trésor, des frais de déplacement et de séjour faits dans l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
+> 1998, ch. 25, art. 17; 2005, ch. 1, art. 24.
+
 
 
 
@@ -335,7 +386,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renseignements**
 
-**22** L’office peut, sous réserve de toute autre règle de droit fédérale ou territoriale, obtenir des ministères et organismes des gouvernements fédéral et territorial les renseignements qui sont en leur possession et dont il a besoin pour l’exercice de ses attributions.
+**22** L’office peut, sous réserve de toute autre règle de droit fédérale ou territoriale et de toute loi tlicho, obtenir des ministères et organismes des gouvernements fédéral et territorial ou du gouvernement tlicho les renseignements qui sont en leur possession et dont il a besoin pour l’exercice de ses attributions.
+> 1998, ch. 25, art. 22; 2005, ch. 1, art. 25.
+
 
 
 
@@ -349,13 +402,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enquêtes**
 
-**24** 
+**24** L’office peut tenir, outre les enquêtes dont la tenue est prévue par la présente loi, celles qu’il estime utiles à l’exercice de ses attributions.
+> 1998, ch. 25, art. 24; 2005, ch. 1, art. 26.
 
-- **(1)** L’office peut tenir, outre les enquêtes dont la tenue est prévue par la présente loi, celles qu’il estime utiles à l’exercice de ses attributions.
 
-**Coordination**
 
-- **(2)** Sous réserve des autres dispositions de la présente loi, les offices veillent à coordonner leurs enquêtes de manière qu’elles ne fassent pas double emploi.
+
+
+**Coordination des activités de l’office**
+
+**24.1** L’office veille à coordonner ses activités, y compris ses enquêtes, avec celles des organismes suivants :
+- **a)** les autres offices;
+- **b)** les ministères et organismes fédéraux responsables de la gestion des parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou des terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
+- **c)** les comités de gestion de parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) constitués en vertu d’un accord de revendication;
+- **d)** les comités de gestion de zones protégées au sens d’un accord de revendication ou les organismes semblables;
+- **e)** les offices des ressources renouvelables constitués en vertu d’un accord de revendication;
+- **f)** les organismes d’aménagement territorial constitués pour le Wekeezhii ou une partie de celui-ci.
+> 2005, ch. 1, art. 26.
+
 
 
 
@@ -454,23 +518,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **31** 
 
-- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions générales données en vertu du paragraphe 82(1), aux lignes directrices visées à l’article 106 et aux directives établies en vertu de l’article 120.
+- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 83(1) ou (2), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 et aux directives établies en vertu de l’article 120.
 
 **Avis dans la Gazette du Canada**
 
 - **(2)** Toutefois, dès soit la réception par l’office de ces instructions, soit l’agrément du plan d’aménagement ou de ses modifications, soit encore la prise des autres textes visés au paragraphe (1), un avis indiquant que des exemplaires sont mis à la disposition du public au siège de l’office et aux autres endroits que celui-ci estime appropriés doit être publié dans la Gazette du Canada.
 
+**Permis d’utilisation des terres**
+
+- **(3)** Il est entendu que les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27.
 
 
 
-### Contrôle judiciaire
+
+
+### Compétence
 
 
 
-**Demande**
+**Compétence concurrente**
 
-**32** Indépendamment de la compétence exclusive accordée par l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême des Territoires du Nord-Ouest afin d’obtenir, contre l’office, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
-> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182.
+**32** 
+
+- **(1)** Indépendamment de la compétence exclusive accordée par l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), le procureur général du Canada ou quiconque est directement touché par l’affaire peut présenter une demande à la Cour suprême des Territoires du Nord-Ouest afin d’obtenir, contre l’office, toute réparation par voie d’injonction, de jugement déclaratoire, de bref — *certiorari*, *mandamus*, *quo warranto* ou prohibition — ou d’ordonnance de même nature.
+
+**Compétence exclusive**
+
+- **(2)** Malgré le paragraphe (1) et l’article 18 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), la Cour suprême des Territoires du Nord-Ouest a compétence exclusive en première instance pour connaître de toute question relative à la compétence de l’Office des terres et des eaux de la vallée du Mackenzie ou de l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, qu’elle soit soulevée ou non par une demande du même type que celle visée au paragraphe (1).
+> 1998, ch. 25, art. 32; 2002, ch. 8, art. 182; 2005, ch. 1, art. 28.
 
 
 
@@ -765,7 +841,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide.
 
-***office*** L’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu constitués respectivement en vertu des articles 54 et 56.
+***office*** L’Office gwich’in des terres et des eaux, l’Office des terres et des eaux du Sahtu ou l’Office des terres et des eaux du Wekeezhii constitués respectivement par les articles 54, 56 et 57.1.
 
 ***permis d’utilisation des eaux*** Permis délivré par l’office conformément à la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et à la présente partie et visant l’utilisation des eaux ou le dépôt de déchets, ou les deux.
 
@@ -774,7 +850,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***terres*** La surface du sol.
 
 ***terres d’une première nation*** Outre les terres désignées de la première nation, les terres situées dans le territoire d’une administration locale et désignées comme « terres municipales » par l’accord de revendication pertinent.
-> 1998, ch. 15, art. 48, ch. 25, art. 51.
+
+***zone de gestion*** La zone à l’égard de laquelle l’office a été constitué, à savoir la région décrite à l’annexe A de l’accord gwich’in dans le cas de l’Office gwich’in des terres et des eaux ou décrite à l’annexe A de l’accord du Sahtu dans le cas de l’Office des terres et des eaux du Sahtu et le Wekeezhii dans le cas de l’Office des terres et des eaux du Wekeezhii.
+> 1998, ch. 15, art. 48, ch. 25, art. 51; 2005, ch. 1, art. 29.
 
 
 
@@ -784,16 +862,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **52** 
 
-- **(1)** Sont soustraits à l’application de la présente partie — exception faite des articles 78 et 79 — l’utilisation des terres ou des eaux et le dépôt de déchets soit dans les parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), soit en ce qui touche les terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) — ces parcs et terres étant ci-après appelés « région exemptée ».
+- **(1)** Sont soustraits à l’application de la présente partie — exception faite des articles 78, 79, 79.2 et 79.3 — l’utilisation des terres ou des eaux et le dépôt de déchets soit dans les parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), soit en ce qui touche les terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) — ces parcs et terres étant ci-après appelés « région exemptée ».
 
 **Consultation de l’office**
 
-- **(2)** Cependant, l’autorité chargée, dans une région exemptée située dans une région désignée, de délivrer les autorisations relatives à de telles activités est tenue de consulter, avant leur délivrance, l’office constitué pour la région désignée.
+- **(2)** Cependant, l’autorité chargée, dans une région exemptée située dans une zone de gestion, de délivrer les autorisations relatives à de telles activités est tenue de consulter, avant leur délivrance, l’office constitué pour cette zone de gestion.
 
 **Consultation de l’autorité**
 
 - **(3)** De même, l’office est tenu de consulter cette autorité avant la délivrance de tout permis ou toute autorisation visant de telles activités susceptibles d’avoir des répercussions dans la région exemptée.
-> 1998, ch. 25, art. 52; 2000, ch. 32, art. 53.
+> 1998, ch. 25, art. 52; 2000, ch. 32, art. 53; 2005, ch. 1, art. 30.
 
 
 
@@ -872,35 +950,84 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Office des terres et des eaux du Wekeezhii
+
+
+
+**Constitution**
+
+**57.1** 
+
+- **(1)** Est constitué, pour le Wekeezhii, l’Office des terres et des eaux du Wekeezhii.
+
+**Membres**
+
+- **(2)** L’Office est composé de cinq membres, dont le président, deux membres qui, sous réserve de tout accord conclu par le gouvernement tlicho avec un peuple autochtone du Canada visé par l’article 35 de la Loi constitutionnelle de 1982 autre que la première nation tlicho, sont nommés par ce gouvernement et un membre qui est nommé sur la proposition du ministre territorial.
+
+**Consultation**
+
+- **(3)** Le ministre fédéral et le gouvernement tlicho se consultent avant d’effectuer leurs nominations respectives.
+
+**Quorum**
+
+- **(4)** Le quorum est de trois membres ou du nombre supérieur fixé par l’Office, dont un membre nommé par le gouvernement tlicho ou conformément à tout accord visé au paragraphe (2) et un membre — autre que le président — nommé par le ministre fédéral.
+> 2005, ch. 1, art. 31.
+
+
+
+
+
+**Siège**
+
+**57.2** Le siège de l’Office est fixé au Wekeezhii.
+> 2005, ch. 1, art. 31.
+
+
+
+
+
 ### Dispositions générales
 
 
 
-**Mission**
+**Mission de l’office gwich’in et de l’office du Sahtu**
 
-**58** L’office a pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la conservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour les habitants de la région désignée, ceux de la vallée du Mackenzie et tous les Canadiens.
+**58** L’Office gwich’in des terres et des eaux et l’Office des terres et des eaux du Sahtu ont pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la préservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour les habitants de leur zone de gestion respective, ceux de la vallée du Mackenzie et tous les Canadiens.
+> 1998, ch. 25, art. 58; 2005, ch. 1, art. 32.
 
 
 
 
-**Compétence : terres**
+
+**Mission de l’office du Wekeezhii**
+
+**58.1** L’Office des terres et des eaux du Wekeezhii a pour mission de régir l’utilisation des terres et des eaux et le dépôt de déchets de manière à assurer la préservation, la mise en valeur et l’exploitation de ces ressources de la façon la plus avantageuse possible pour tous les Canadiens et, en particulier, pour les habitants de sa zone de gestion.
+> 2005, ch. 1, art. 32.
+
+
+
+
+
+**Compétence sur les terres**
 
 **59** 
 
-- **(1)** L’office a compétence, dans la région désignée pour laquelle il est constitué, en ce qui touche toute forme d’utilisation des terres pour laquelle un permis est nécessaire sous le régime de la présente partie. Il peut, à cet égard et en conformité avec les règlements, délivrer, modifier, renouveler, suspendre ou annuler tout permis d’utilisation des terres ou toute autorisation de même nature, ou autoriser la cession d’un tel permis.
+- **(1)** L’office a compétence, dans sa zone de gestion, en ce qui touche toute forme d’utilisation des terres pour laquelle un permis est nécessaire sous le régime de la présente partie. Il peut, à cet égard et en conformité avec les règlements, délivrer, modifier, renouveler, suspendre ou annuler tout permis d’utilisation des terres ou toute autorisation de même nature, ou autoriser la cession d’un tel permis.
 
 **Droit souterrain**
 
 - **(2)** Il est entendu que l’utilisation des terres dans l’exercice d’un droit souterrain relève de la compétence de l’office au titre du paragraphe (1).
+> 1998, ch. 25, art. 59; 2005, ch. 1, art. 33.
 
 
 
 
-**Compétence : eaux et dépôt de déchets**
+
+**Compétence sur les eaux et le dépôt de déchets**
 
 **60** 
 
-- **(1)** L’office a compétence, dans la région désignée pour laquelle il est constitué, en ce qui touche toute forme d’utilisation des eaux ou de dépôt de déchets pour laquelle un permis est nécessaire aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et peut :
+- **(1)** L’office a compétence, dans sa zone de gestion, en ce qui touche toute forme d’utilisation des eaux ou de dépôt de déchets pour laquelle un permis est nécessaire aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et peut :
 	- **a)** en conformité avec cette loi, délivrer, modifier, renouveler ou annuler tout permis d’utilisation des eaux, ou en autoriser la cession;
 	- **b)** exercer toute autre attribution conférée à l’Office des eaux des Territoires du Nord-Ouest par cette loi.
 À cet égard, la mention, dans cette loi, de l’Office des eaux des Territoires du Nord-Ouest vaut mention de l’office.
@@ -909,9 +1036,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’office peut en outre suspendre tout permis d’utilisation des eaux en cas de violation, par le titulaire, des dispositions de la présente partie, de celles de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou des conditions dont ce permis est assorti et ce, pour la période qu’il fixe ou jusqu’à ce que les conditions qu’il précise soient remplies.
 
-**Activités à l’extérieur de la région désignée**
+**Activités à l’extérieur de la zone de gestion**
 
-- **(3)** Dans les cas d’utilisation des eaux ou de dépôt de déchets, dans la région désignée, ayant des répercussions ailleurs dans les Territoires du Nord-Ouest ou au Nunavut, les paragraphes 14(4) et (5) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) s’appliquent en ce qui touche la protection qui y est accordée aux droits de titulaires de permis ou d’autres personnes dans la région où se font sentir ces répercussions.
+- **(3)** Dans les cas d’utilisation des eaux ou de dépôt de déchets, dans une zone de gestion, ayant des répercussions ailleurs dans les Territoires du Nord-Ouest ou au Nunavut, les paragraphes 14(4) et (5) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) s’appliquent en ce qui touche la protection qui y est accordée aux droits de titulaires de permis ou d’autres personnes dans la région où se font sentir ces répercussions.
 
 **Terres inuit**
 
@@ -919,20 +1046,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
 
-- **(4)** Malgré le paragraphe (1), les dispositions ci-après de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’appliquent pas en ce qui touche la région désignée pour laquelle un office est constitué : les articles 10 à 13, le paragraphe 14(6), les articles 20 et 22, l’obligation de publication dans la Gazette du Canada prévue aux paragraphes 23(1) et (2), les articles 24, 26 — sauf en ce qui concerne les permis de type A au sens de cette loi — , 27 et 28 ainsi que le paragraphe 37(2).
+- **(4)** Malgré le paragraphe (1), les dispositions ci-après de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’appliquent pas aux zones de gestion : les articles 10 à 13, le paragraphe 14(6), les articles 20 et 22, les paragraphes 23(1) et (2) en ce qui concerne l’obligation de publication dans la Gazette du Canada, les articles 24, 26 — sauf en ce qui concerne les permis de type A au sens de cette loi —, 27 et 28 ainsi que le paragraphe 37(2).
 
 **[Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md)**
 
-- **(5)** De même, malgré le paragraphe (1), l’article 31 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’applique pas en ce qui touche les terres d’une première nation.
-> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178.
+- **(5)** De même, malgré le paragraphe (1), l’article 31 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ne s’applique pas en ce qui touche les terres d’une première nation ou les terres tlichos.
+> 1998, ch. 15, art. 48, ch. 25, art. 60; 2002, ch. 10, art. 178; 2005, ch. 1, art. 34.
 
 
 
 
 
-**Plan d’aménagement**
+**Éléments à considérer**
 
-**61** L’office ne peut, en ce qui touche les permis ou autres autorisations, procéder à toute délivrance ou modification incompatibles avec le plan d’aménagement territorial applicable aux termes de la partie 2.
+**60.1** Dans l’exercice de ses pouvoirs, l’office tient compte, d’une part, de l’importance de préserver les ressources pour le bien-être et le mode de vie des peuples autochtones du Canada visés par l’article 35 de la Loi constitutionnelle de 1982 et qui utilisent les ressources d’une région de la vallée du Mackenzie et, d’autre part, des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
+> 2005, ch. 1, art. 35.
+
+
+
+
+
+**Conformité avec le plan d’aménagement — office gwich’in et office du Sahtu**
+
+**61** 
+
+- **(1)** L’Office gwich’in des terres et des eaux et l’Office des terres et des eaux du Sahtu ne peuvent, en ce qui touche les permis ou autres autorisations, procéder à toute délivrance, toute modification ou tout renouvellement incompatible avec le plan d’aménagement territorial applicable aux termes de la partie 2.
+
+**Conformité avec quelque plan d’aménagement — office du Wekeezhii**
+
+- **(2)** L’Office des terres et des eaux du Wekeezhii ne peut, en ce qui touche les permis ou autres autorisations, procéder à toute délivrance, toute modification ou tout renouvellement incompatible avec quelque plan d’aménagement territorial établi en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho et applicable à quelque partie de sa zone de gestion.
+> 1998, ch. 25, art. 61; 2005, ch. 1, art. 35.
+
+
+
+
+
+**Conformité avec toute loi tlicho — office du Wekeezhii**
+
+**61.1** L’Office des terres et des eaux du Wekeezhii ne peut exercer ses pouvoirs discrétionnaires relativement à l’utilisation des terres tlichos de manière incompatible avec toute loi tlicho établie en vertu de l’article 7.4.2 de l’accord tlicho.
+> 2005, ch. 1, art. 35.
+
 
 
 
@@ -950,9 +1103,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’office adresse une copie de toute demande de permis dont il est saisi aux ministères et organismes compétents des gouvernements fédéral et territorial, ainsi qu’au propriétaire des terres visées.
 
-**Avis de la demande**
+**Avis à la collectivité et à la première nation**
 
-- **(2)** Il avise la collectivité et la première nation concernées de toute demande de permis dont il est saisi et leur accorde un délai suffisant pour lui présenter des observations à cet égard.
+- **(2)** Il avise la collectivité et la première nation concernées de toute demande de permis ou d’autorisation dont il est saisi et leur accorde un délai suffisant pour lui présenter des observations à cet égard.
+
+**Avis au gouvernement tlicho**
+
+- **(3)** L’Office des terres et des eaux du Wekeezhii avise de plus le gouvernement tlicho de toute demande de permis ou d’autorisation dont il est saisi et lui accorde un délai suffisant pour lui présenter des observations à cet égard.
+
+**Consultation du gouvernement tlicho**
+
+- **(4)** L’Office des terres et des eaux du Wekeezhii consulte le gouvernement tlicho avant de délivrer, modifier ou renouveler un permis ou une autorisation relativement à l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou au dépôt de déchets dans ces lieux.
+> 1998, ch. 25, art. 63; 2005, ch. 1, art. 36.
+
 
 
 
@@ -961,11 +1124,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **64** 
 
-- **(1)** L’office doit demander et étudier l’avis de toute première nation concernée et des ministères et organismes compétents des gouvernements fédéral et territorial au sujet des ressources patrimoniales susceptibles d’être touchées par l’activité visée par la demande de permis dont il est saisi.
+- **(1)** L’office doit demander et étudier l’avis de toute première nation concernée, des ministères et organismes compétents des gouvernements fédéral et territorial et, s’agissant de l’Office des terres et des eaux du Wekeezhii, du gouvernement tlicho au sujet des ressources patrimoniales susceptibles d’être touchées par l’activité visée par la demande de permis dont il est saisi.
 
 **Ressources fauniques**
 
 - **(2)** Il doit de plus demander et étudier l’avis de l’office des ressources renouvelables constitué par l’accord de revendication au sujet des ressources fauniques et de leur habitat susceptibles d’être touchés par l’activité visée par la demande de permis.
+> 1998, ch. 25, art. 64; 2005, ch. 1, art. 37.
+
 
 
 
@@ -990,10 +1155,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Recommandations**
-
-**68** L’office fait au ministre fédéral, sur demande de celui-ci, des recommandations concernant soit la modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application. Il peut aussi faire ces recommandations de sa propre initiative.
+**68** [Abrogé, 2005, ch. 1, art. 38]
 
 
 
@@ -1067,7 +1229,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Utilisation sans permis**
 
-**73** Malgré les articles 8 et 9 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu ont le droit d’utiliser les eaux ou de déposer des déchets, sans permis d’utilisation de celles-ci, soit pour leurs activités de piégeage, soit pour toute autre forme d’exploitation — à des fins non commerciales toutefois — des ressources fauniques, soit encore pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles et spirituelles traditionnelles.
+**73** 
+
+- **(1)** Malgré les articles 8 et 9 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu ont le droit d’utiliser les eaux ou de déposer des déchets, sans permis d’utilisation de celles-ci, soit pour leurs activités de piégeage, soit pour toute autre forme d’exploitation — à des fins non commerciales toutefois — des ressources fauniques, soit encore pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles et spirituelles traditionnelles.
+
+**Utilisation sans permis — citoyen tlicho**
+
+- **(2)** Malgré les articles 8 et 9 de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), tout citoyen tlicho a le droit d’utiliser les eaux se trouvant dans la partie du Monfwi gogha de niitlee comprise dans les Territoires du Nord-Ouest, sans permis d’utilisation de celles-ci, pour l’exploitation des ressources fauniques aux termes de l’article 10.1.1 de l’accord tlicho, pour les activités de transport s’y rattachant ou à des fins patrimoniales, culturelles ou spirituelles propres à la première nation tlicho, sous réserve de toute loi tlicho applicable et, s’agissant des eaux se trouvant sur des terres désignées, des limites prévues dans l’accord de revendication applicable qui sont analogues aux limites relatives aux eaux se trouvant sur des terres tlichos.
+> 1998, ch. 25, art. 73; 2005, ch. 1, art. 39.
+
 
 
 
@@ -1086,33 +1256,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Délivrance de permis**
+**Délivrance, modification ou renouvellement de permis**
 
-**76** L’office peut délivrer un permis ou une autorisation dans les cas où, à son avis, l’utilisation des terres ou des eaux ou le dépôt de déchets aurait pour effet de porter atteinte au droit accordé par l’article 75 s’il est convaincu de ce qui suit :
+**76** L’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu, selon le cas, peut délivrer, modifier ou renouveler un permis ou une autorisation dans les cas où, à son avis, l’utilisation des terres ou des eaux ou le dépôt de déchets aurait pour effet de porter atteinte au droit accordé par l’article 75 s’il est convaincu de ce qui suit :
 - **a)** il n’existe aucune autre solution permettant de satisfaire convenablement les besoins du demandeur;
 - **b)** il n’existe aucun moyen acceptable permettant d’éviter cette atteinte;
 - **c)** dans les cas de permis d’utilisation des eaux, les conditions prévues par l’article 77 sont remplies.
+> 1998, ch. 25, art. 76; 2005, ch. 1, art. 40.
 
 
 
 
-### Indemnisation
+
+### Indemnisation des premières nations des Gwich’in et du Sahtu
 
 
 
-**Délivrance de permis : région désignée**
+**Délivrance, modification ou renouvellement de permis**
 
-**77** L’office ne peut délivrer un permis d’utilisation des eaux dans les cas visés à l’article 76 que si le demandeur a conclu avec la première nation un accord d’indemnisation en ce qui touche les pertes ou les dommages résultant de toute altération importante de la qualité, de la quantité ou du débit des eaux qui sont sur les terres de cette dernière, qui les traversent ou qui y sont adjacentes, ou si la question de l’indemnité payable à la première nation a fait l’objet de la demande prévue au paragraphe 79(1).
+**77** L’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu, selon le cas, ne peut délivrer, modifier ou renouveler un permis d’utilisation des eaux dans les cas visés à l’article 76 que si le demandeur a conclu avec la première nation un accord d’indemnisation en ce qui touche les pertes ou les dommages résultant de toute altération importante de la qualité, de la quantité ou du débit des eaux qui sont sur les terres de cette dernière, qui les traversent ou qui y sont adjacentes, ou si la question de l’indemnité payable à la première nation a fait l’objet de la demande prévue au paragraphe 79(1).
+> 1998, ch. 25, art. 77; 2005, ch. 1, art. 41.
 
 
 
 
-**Activités ailleurs dans les Territoires du Nord-Ouest**
+
+**Activités ailleurs dans les Territoires du Nord-Ouest ou au Nunavut**
 
 **78** 
 
-- **(1)** S’il conclut que les activités — utilisation des eaux ou dépôt de déchets — visées par une demande d’autorisation présentée à une autorité de gestion des eaux auront vraisemblablement pour effet d’altérer de façon importante la qualité, la quantité ou le débit des eaux qui sont sur les terres de la première nation des Gwich’in ou de celle du Sahtu — selon le cas — , qui les traversent ou qui y sont adjacentes, l’office notifie sa conclusion à cette autorité, dans les cas où ces activités doivent être exercées :
-	- **a)** dans les Territoires du Nord-Ouest ou au Nunavut, à l’extérieur de la région désignée pour laquelle il a été constitué;
+- **(1)** S’il conclut que les activités — utilisation des eaux ou dépôt de déchets — visées par une demande d’autorisation présentée à une autorité de gestion des eaux auront vraisemblablement pour effet d’altérer de façon importante la qualité, la quantité ou le débit des eaux qui sont sur les terres de la première nation des Gwich’in ou de celle du Sahtu — selon le cas —, qui les traversent ou qui y sont adjacentes, l’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu, selon le cas, notifie sa conclusion à cette autorité, dans les cas où ces activités doivent être exercées :
+	- **a)** dans les Territoires du Nord-Ouest ou au Nunavut, à l’extérieur de sa zone de gestion;
 	- **b)** à l’intérieur de celle-ci, dans un parc régi par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou sur des terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md).
 
 **Renseignements**
@@ -1122,7 +1296,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Condition préalable**
 
 - **(3)** Malgré toute autre loi fédérale, l’autorité de gestion des eaux qui fait l’objet de la notification prévue au paragraphe (1) ne peut délivrer l’autorisation que si le demandeur a conclu avec la première nation un accord d’indemnisation ou si la question de l’indemnité payable à la première nation a fait l’objet de la demande prévue au paragraphe 79(1).
-> 1998, ch. 15, art. 48, ch. 25, art. 78; 2000, ch. 32, art. 54.
+> 1998, ch. 15, art. 48, ch. 25, art. 78; 2000, ch. 32, art. 54; 2005, ch. 1, art. 42.
 
 
 
@@ -1132,7 +1306,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **79** 
 
-- **(1)** En cas de défaut de conclure l’accord d’indemnisation visé aux articles 77 ou 78 dans le délai fixé par les règles de l’office, le demandeur de permis ou d’autorisation ou la première nation peut demander à l’office de fixer l’indemnité.
+- **(1)** En cas de défaut de conclure l’accord d’indemnisation visé aux articles 77 ou 78 dans le délai fixé par les règles de l’Office gwich’in des terres et des eaux ou de l’Office des terres et des eaux du Sahtu, selon le cas, le demandeur de permis ou d’autorisation ou la première nation peut demander à l’office concerné de fixer l’indemnité.
 
 **Indemnité**
 
@@ -1141,6 +1315,66 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les nuisances et inconvénients — notamment le bruit — que l’activité peut entraîner, pour la première nation, sur ses terres;
 	- **c)** les effets sur l’exploitation des ressources fauniques par la première nation;
 	- **d)** tout autre facteur qu’il estime pertinent dans les circonstances.
+> 1998, ch. 25, art. 79; 2005, ch. 1, art. 43.
+
+
+
+
+
+### Indemnisation de la première nation tlicho
+
+
+
+**Délivrance, modification ou renouvellement de permis**
+
+**79.1** L’Office des terres et des eaux du Wekeezhii ne peut délivrer, modifier ou renouveler un permis d’utilisation des eaux s’il conclut que les activités — utilisation des eaux ou dépôt de déchets — auront vraisemblablement pour effet d’altérer de façon importante la qualité, la quantité ou le débit des eaux qui sont sur les terres tlichos, les traversent ou y sont adjacentes, sauf si les conditions ci-après sont réunies :
+- **a)** il estime qu’il n’existe aucune autre solution permettant de satisfaire raisonnablement les besoins du demandeur et aucun moyen raisonnable lui permettant d’éviter l’altération;
+- **b)** soit le demandeur a conclu avec le gouvernement tlicho un accord d’indemnisation de la première nation tlicho pour les pertes ou dommages susceptibles de résulter de cette altération, soit le demandeur ou le gouvernement tlicho a demandé à l’Office, aux termes du paragraphe 79.3(1), de fixer l’indemnité pour ces pertes ou dommages.
+> 2005, ch. 1, art. 44.
+
+
+
+
+
+**Activités ailleurs dans les Territoires du Nord-Ouest ou au Nunavut**
+
+**79.2** 
+
+- **(1)** S’il conclut que les activités — utilisation des eaux ou dépôt de déchets — visées par une demande d’autorisation présentée à une autorité de gestion des eaux auront vraisemblablement pour effet d’altérer de façon importante la qualité, la quantité ou le débit des eaux qui sont sur les terres tlichos, les traversent ou y sont adjacentes, l’Office des terres et des eaux du Wekeezhii notifie sa conclusion à cette autorité dans les cas où ces activités doivent être exercées :
+	- **a)** au Nunavut ou dans les Territoires du Nord-Ouest mais à l’extérieur du Wekeezhii;
+	- **b)** à l’intérieur du Wekeezhii, dans un parc régi par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou sur des terres acquises sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md).
+
+**Renseignements**
+
+- **(2)** L’autorité de gestion des eaux est tenue de fournir à l’Office les renseignements qui sont en sa possession et que celui-ci peut exiger pour parvenir à la conclusion visée au paragraphe (1).
+
+**Condition préalable**
+
+- **(3)** Malgré toute autre loi fédérale, l’autorité de gestion des eaux qui fait l’objet de la notification prévue au paragraphe (1) ne peut délivrer l’autorisation que si le demandeur a conclu avec le gouvernement tlicho un accord d’indemnisation ou si la question de l’indemnité à payer à la première nation tlicho a fait l’objet de la demande prévue au paragraphe 79.3(1).
+> 2005, ch. 1, art. 44.
+
+
+
+
+
+**Renvoi à l’office du Wekeezhii**
+
+**79.3** 
+
+- **(1)** Faute d’avoir conclu l’accord d’indemnisation visé à l’alinéa 79.1b) ou au paragraphe 79.2(3), selon le cas, le demandeur ou le gouvernement tlicho peut demander à l’Office des terres et des eaux du Wekeezhii, après avoir participé à la médiation prévue au chapitre 6 de l’accord tlicho, de fixer l’indemnité.
+
+**Indemnité**
+
+- **(2)** Saisi d’une telle demande, l’Office tient compte, pour fixer l’indemnité :
+	- **a)** des effets de l’activité projetée sur l’utilisation par les citoyens tlichos des eaux qui sont sur les terres tlichos, les traversent ou y sont adjacentes, sur ces terres elles-mêmes, compte tenu de leur valeur culturelle ou particulière pour la première nation tlicho, et sur l’exploitation des ressources fauniques par les citoyens tlichos;
+	- **b)** des nuisances et inconvénients — notamment le bruit — que l’activité entraîne pour les citoyens tlichos se trouvant sur ces terres;
+	- **c)** de tout autre facteur qu’il estime pertinent dans les circonstances.
+
+**Forme de l’indemnité**
+
+- **(3)** L’indemnité peut prendre la forme d’une somme globale, de versements périodiques, d’une compensation non pécuniaire telle que le remplacement des biens perdus ou endommagés ou la substitution d’autres biens à ces derniers, la réinstallation de citoyens tlichos et le transport de leurs biens ou d’une combinaison de ces formes.
+> 2005, ch. 1, art. 44.
+
 
 
 
@@ -1149,23 +1383,56 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Obligation de fourniture**
+**Obligation de fournir les matériaux — premières nations des Gwich’in et du Sahtu**
 
 **80** 
 
-- **(1)** Les premières nations des Gwich’in ou du Sahtu sont tenues, sur demande, de fournir aux ministères et organismes des gouvernements fédéral et territorial ou à toute personne les matériaux de construction — sable, gravier, argile et autres — se trouvant sur leurs terres, et d’y donner accès, dans les cas où il n’existe aucune autre source d’approvisionnement aisément accessible dans la région avoisinante.
+- **(1)** Les premières nations des Gwich’in ou du Sahtu sont tenues, sur demande, de fournir aux ministères et organismes des gouvernements fédéral et territorial ou à toute personne les matériaux de construction — sable, gravier, argile et autres — se trouvant sur leurs terres, et d’y donner accès, dans les cas où il n’existe aucune autre source d’approvisionnement accessible, sans difficulté excessive, dans la région avoisinante.
 
 **Indemnisation**
 
 - **(2)** Elles ont droit, en contrepartie, à une indemnité équitable.
 
-**Conflit**
+**Renvoi à l’office**
 
-- **(3)** L’office, sur demande de quiconque réclame les matériaux, soit se prononce sur la présence de sources d’approvisionnement aisément accessibles dans la région avoisinante, soit tranche tout conflit sur les modalités de l’approvisionnement en matériaux, sur l’accès à ceux-ci ou sur l’ordre de préséance entre la première nation et les autres utilisateurs.
+- **(3)** L’Office gwich’in des terres et des eaux ou l’Office des terres et des eaux du Sahtu, selon le cas, sur demande de quiconque réclame les matériaux ou l’accès à ceux-ci, soit se prononce sur la présence de sources d’approvisionnement accessibles, sans difficulté excessive, dans la région avoisinante, soit tranche tout conflit sur les modalités de l’approvisionnement en matériaux, sur l’accès à ceux-ci ou sur l’ordre de préséance entre la première nation et les autres utilisateurs.
 
 **Terres extérieures à la région désignée**
 
 - **(4)** Dans les cas où les terres visées par la demande d’approvisionnement sont situées dans les Territoires du Nord-Ouest mais à l’extérieur de la région désignée de la première nation, l’office est tenu de consulter l’autorité de gestion des ressources ayant compétence sur ces terres avant de se prononcer en vertu du paragraphe (3).
+> 1998, ch. 25, art. 80; 2005, ch. 1, art. 45.
+
+
+
+
+
+**Obligation de fournir les matériaux — gouvernement tlicho**
+
+**80.1** 
+
+- **(1)** Le gouvernement tlicho est tenu, sur demande, de fournir aux ministères et organismes fédéraux et territoriaux, à l’administration locale de la collectivité tlicho ainsi qu’à toute personne les matériaux de construction — sable, gravier, argile et autres — se trouvant sur les terres tlichos et d’y donner accès.
+
+**Exception**
+
+- **(2)** Il n’est pas tenu de fournir ces matériaux ni d’y donner accès s’ils doivent être utilisés sur des terres autres que les terres tlichos à moins qu’il n’existe aucune autre source d’approvisionnement accessible, sans difficulté excessive, dans un endroit plus près des terres où ils doivent être utilisés.
+
+**Contrepartie**
+
+- **(3)** Il a le droit d’être payé pour la valeur des matériaux fournis et l’exercice du droit d’accès à ceux-ci à moins qu’ils ne soient utilisés soit à une fin d’utilité publique sur les terres tlichos ou dans une collectivité tlicho, soit pour un chemin public contigu aux terres tlichos ou aux limites d’une collectivité tlicho.
+
+**Renvoi à l’Office — demandeur**
+
+- **(4)** Selon le cas, l’Office des terres et des eaux du Wekeezhii, sur demande de quiconque réclame les matériaux ou l’accès à ceux-ci et a participé à la médiation prévue au chapitre 6 de l’accord tlicho :
+	- **a)** se prononce, pour l’application du paragraphe (2), sur la présence d’une autre source d’approvisionnement accessible, sans difficulté excessive, dans un endroit plus près des terres où les matériaux doivent être utilisés;
+	- **b)** se prononce, pour l’application du paragraphe (3), sur le fait que les matériaux doivent être utilisés soit à une fin d’utilité publique sur les terres tlichos ou dans une collectivité tlicho, soit pour un chemin public contigu aux terres tlichos ou aux limites d’une collectivité tlicho;
+	- **c)** tranche tout conflit concernant les conditions de l’approvisionnement en matériaux ou l’accès à ceux-ci, à l’exception du montant du paiement visé au paragraphe (3);
+	- **d)** tranche tout conflit concernant l’incompatibilité de l’utilisation des matériaux par le gouvernement tlicho ou les citoyens tlichos avec celle projetée par le demandeur.
+
+**Renvoi à l’Office — gouverne­ment tlicho**
+
+- **(5)** Le gouvernement tlicho peut demander à l’Office, après avoir participé à la médiation prévue au chapitre 6 de l’accord tlicho, de trancher tout conflit visé à l’alinéa (4)d).
+> 2005, ch. 1, art. 46.
+
 
 
 
@@ -1191,32 +1458,52 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Instructions ministérielles**
+**Consultation des premières nations et du gouvernement tlicho**
 
 **82** 
 
-- **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relatives à l’exercice des attributions conférées à celui-ci par la présente partie.
+- **(1)** Le ministre fédéral est tenu de consulter les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho au sujet des propositions de modification de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou des règlements d’application de celle-ci.
 
-**Non-application**
+**Consultation de l’office**
 
-- **(2)** Sauf dans la mesure prévue au paragraphe (3), les instructions ministérielles ne visent toutefois pas la demande qui, au moment où elles sont données, soit est pendante devant l’office, soit a été accueillie par celui-ci mais n’a pas encore reçu l’agrément prévu à l’article 81.
-
-**Exception**
-
-- **(3)** Elles s’appliquent à la demande visée au paragraphe (2) dans les cas où le contraire risquerait d’entraîner l’incompatibilité d’un permis ou d’une autre autorisation avec une autre loi fédérale ou ses textes d’application.
+- **(2)** Il est de plus tenu de consulter l’office en ce qui touche soit les propositions de modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application.
+> 1998, ch. 25, art. 82; 2005, ch. 1, art. 47.
 
 
 
 
-**Consultations : premières nations**
+
+### Instructions générales obligatoires
+
+
+
+**Instructions ministérielles**
 
 **83** 
 
-- **(1)** Le ministre fédéral est tenu de consulter les premières nations des Gwich’in et du Sahtu au sujet des propositions de modification de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou des règlements d’application de celle-ci.
+- **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente partie. Le ministre consulte également le gouvernement tlicho avant de donner par écrit de telles instructions à l’Office des terres et des eaux du Wekeezhii.
 
-**Consultations : Office**
+**Instructions du gouvernement tlicho**
 
-- **(2)** Il est de plus tenu de consulter l’office en ce qui touche soit les propositions de modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application.
+- **(2)** Le gouvernement tlicho peut, après consultation de l’Office des terres et des eaux du Wekeezhii et du ministre fédéral, donner par écrit à l’Office des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente partie en ce qui touche l’utilisation des terres tlichos. Ces instructions lient l’Office dans la mesure où elles ne l’obligent pas à dépasser le budget approuvé à son égard.
+
+**Non-application**
+
+- **(3)** Sauf dans la mesure prévue au paragraphe (4), les instructions ne visent toutefois pas la demande qui, au moment où elles sont données, soit est pendante devant l’office, soit a été accueillie par celui-ci mais n’a pas encore reçu l’agrément prévu à l’article 81.
+
+**Exception**
+
+- **(4)** Elles s’appliquent à la demande visée au paragraphe (3) dans les cas où le contraire risquerait d’entraîner l’incompatibilité d’un permis ou d’une autre autorisation avec une autre loi fédérale ou ses textes d’application.
+
+**Incompatibilité entre les instructions**
+
+- **(5)** Les instructions données par le gouvernement tlicho en vertu du paragraphe (2) l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu du paragraphe (1).
+
+**Incompatibilité entre la loi et les instructions**
+
+- **(6)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
+> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47.
+
 
 
 
@@ -1250,9 +1537,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Dans les cas où il l’estime indiqué, l’inspecteur donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
 
+**Préavis au gouvernement tlicho**
+
+- **(2.1)** L’inspecteur donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
+
 **Local d’habitation**
 
 - **(3)** Le présent article n’a pas pour effet de permettre la visite d’un lieu conçu et utilisé de façon temporaire ou permanente comme local d’habitation.
+> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48.
+
 
 
 
@@ -1304,9 +1597,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Dans les cas où il l’estime indiqué, l’inspecteur désigné en vertu de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) donne aux premières nations des Gwich’in ou du Sahtu un préavis de son intention de procéder à la visite de leurs terres.
 
+**Préavis au gouvernement tlicho**
+
+- **(1.1)** L’inspecteur donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
+
 **Révision par l’office**
 
 - **(2)** L’office révise sans délai, sur demande de toute personne, l’ordre donné à celle-ci par l’inspecteur en vertu du paragraphe 37(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) et le confirme, le modifie ou l’annule.
+> 1998, ch. 25, art. 89; 2005, ch. 1, art. 49.
+
 
 
 
@@ -1317,7 +1616,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements concernant l’utilisation des terres**
 
-**90** Le gouverneur en conseil peut, après consultation des premières nations par le ministre fédéral, prendre des règlements relativement à la protection, la surveillance et l’utilisation des terres dans la vallée du Mackenzie, notamment pour :
+**90** Le gouverneur en conseil peut, après consultation des premières nations et du gouvernement tlicho par le ministre fédéral, prendre des règlements relativement à la protection, la surveillance et l’utilisation des terres dans la vallée du Mackenzie, notamment pour :
 - **a)** subordonner leur utilisation ou certains types d’utilisation à l’obtention d’un permis ou, dans les cas qu’il spécifie, à l’autorisation écrite de l’inspecteur;
 - **b)** régir la délivrance, la modification, le renouvellement, la suspension et l’annulation des permis d’utilisation des terres ainsi que l’autorisation de leur cession;
 - **c)** régir les conditions d’obtention et la période de validité des permis et fixer les conditions ou les types de conditions dont l’office peut assortir ceux-ci;
@@ -1332,13 +1631,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **l)** régir la remise en état des terres visées par un permis;
 - **m)** permettre à l’office ou à l’inspecteur de soustraire les titulaires de permis à certaines obligations prévues par les règlements;
 - **n)** autoriser l’office ou l’inspecteur à exiger des titulaires de permis qu’ils lui communiquent un rapport sur les sujets qui y sont spécifiés.
+> 1998, ch. 25, art. 90; 2005, ch. 1, art. 50.
+
+
+
+
+
+**Interdiction — utilisation sans permis des terres tlichos**
+
+**90.1** Nul ne peut, même en l’absence d’exigence réglementaire à cet égard, utiliser les terres tlichos sans détenir un permis d’utilisation des terres ou une autorisation délivré sous le régime des parties 3 ou 4, selon le cas, si une loi tlicho l’exige.
+> 2005, ch. 1, art. 51.
+
+
+
+
+
+**Exception**
+
+**90.2** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autorisation délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si un règlement municipal établi par l’administration locale de la collectivité tlicho prévoit une exemption à l’égard du type d’utilisation projetée.
+> 2005, ch. 1, art. 51.
+
 
 
 
 
 **Règles**
 
-**91** L’office peut établir des règles en ce qui touche soit le délai à respecter pour la conclusion de l’accord d’indemnisation visé aux articles 77 et 78, soit la résolution des conflits visés à l’article 80.
+**91** L’office peut établir des règles en ce qui touche soit le délai à respecter pour la conclusion de l’accord d’indemnisation visé aux articles 77 et 78, soit la résolution des conflits visés à l’article 80 ou 80.1.
+> 1998, ch. 25, art. 91; 2005, ch. 1, art. 52.
+
 
 
 
@@ -1351,7 +1672,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **92** 
 
-- **(1)** Quiconque contrevient soit aux règlements, soit aux conditions d’un permis d’utilisation des terres, soit encore à l’ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 15 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+- **(1)** Quiconque contrevient à l’article 90.1, aux règlements, aux conditions d’un permis d’utilisation des terres ou à l’ordre donné par l’inspecteur en vertu des paragraphes 86(1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 15 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
 
 **Ordonnance du tribunal**
 
@@ -1364,6 +1685,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres infractions**
 
 - **(4)** Quiconque contrevient à l’article 87 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 2 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+> 1998, ch. 25, art. 92; 2005, ch. 1, art. 53.
+
 
 
 
@@ -1386,9 +1709,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Premières nations**
+**Droits**
 
-**95** Malgré le paragraphe 14(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu ne sont pas tenues de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres.
+**95** Malgré le paragraphe 14(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres ou les terres tlichos, selon le cas.
+> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54.
+
 
 
 
@@ -1414,13 +1739,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***permis d’utilisation des terres*** Permis délivré par l’Office conformément à la présente partie et visant l’utilisation des terres.
 
-**Définition de la partie 3**
+**Définitions de la partie 3**
 
-- **(2)** Les termes « eaux », « terres » et « terres d’une première nation » s’entendent, pour l’application de la présente partie, au sens de la partie 3.
+- **(2)** Les termes ***eaux***, ***terres***, ***terres d’une première nation*** et ***zone de gestion*** s’entendent, pour l’application de la présente partie, au sens de la partie 3.
 
-**Article 90 et règlements**
+**Mention de permis**
 
-- **(3)** Pour l’application de la présente partie, la mention de permis, à l’article 90 et dans les règlements pris en vertu de celui-ci, ainsi qu’à l’article 92, vise également le permis d’utilisation des terres au sens du paragraphe (1).
+- **(3)** Pour l’application de la présente partie, la mention de permis, à l’article 90 et dans les règlements pris en vertu de celui-ci, ainsi qu’aux articles 90.1, 90.2 et 92, vise également le permis d’utilisation des terres au sens du paragraphe (1).
+> 1998, ch. 25, art. 96; 2005, ch. 1, art. 55.
+
 
 
 
@@ -1471,20 +1798,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Est constitué l’Office des terres et des eaux de la vallée du Mackenzie.
 
-**Formations régionales**
+**Formations régionales — office gwich’in et office du Sahtu**
 
-- **(2)** Tout office constitué en application de la partie 3 devient, à l’entrée en vigueur de la présente partie, une formation régionale de l’Office. Il conserve sa dénomination et ses membres deviennent de plein droit membres de l’Office.
+- **(2)** Les offices constitués par les articles 54 et 56 deviennent, à l’entrée en vigueur de la présente partie, des formations régionales de l’Office à l’égard de leur zone de gestion. Ils conservent leur dénomination et leurs membres deviennent de plein droit membres de l’Office.
+
+**Formation régionale — office du Wekeezhii**
+
+- **(2.1)** L’office constitué par l’article 57.1 devient, six mois après l’entrée en vigueur de cet article, une formation régionale de l’Office à l’égard de sa zone de gestion. Il conserve sa dénomination et ses membres deviennent d’office membres de l’Office.
 
 **Dispositions applicables**
 
-- **(3)** Il est entendu que les dispositions de la partie 1 concernant la nomination des membres, leur mandat et la présidence et celles de la partie 3 concernant le quorum et le siège continuent de s’appliquer à la formation régionale.
+- **(3)** Il est entendu que les dispositions de la partie 1 concernant la nomination des membres, leur mandat, leur révocation et la présidence et celles de la partie 3 concernant la nomination des membres, le quorum et le siège continuent de s’appliquer à la formation régionale.
 
 **Composition**
 
-- **(4)** Outre les membres visés au paragraphe (2), l’Office est, sous réserve du paragraphe 108(7), composé d’un président et des autres membres suivants :
-	- **a)** trois membres nommés après consultation, par le ministre fédéral, des premières nations;
-	- **b)** un membre nommé sur la proposition du ministre territorial;
-	- **c)** deux autres membres.
+- **(4)** Outre les membres visés aux paragraphes (2) et (2.1), l’Office est, sous réserve du paragraphe 108(7), composé d’un président et :
+	- **a)** de deux membres nommés après consultation, par le ministre fédéral, des premières nations et du gouvernement tlicho;
+	- **b)** d’un membre nommé sur la proposition du ministre territorial;
+	- **c)** d’un autre membre.
+> 1998, ch. 25, art. 99; 2005, ch. 1, art. 56.
+
 
 
 
@@ -1503,19 +1836,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Mission de l’Office
+### Mission et compétence de l’Office
 
 
 
-**Compétence : Office**
+**Mission de l’Office**
+
+**101.1** 
+
+- **(1)** L’Office a pour mission d’assurer la préservation, la mise en valeur et l’exploitation des terres et des eaux de la façon la plus avantageuse possible pour tous les Canadiens et, en particulier, pour les habitants de la vallée du Mackenzie.
+
+**Mission de certaines formations régionales**
+
+- **(2)** Les formations régionales de l’Office visées au paragraphe 99(2) ont pour mission d’assurer la préservation, la mise en valeur et l’exploitation des terres et des eaux de la façon la plus avantageuse possible pour les habitants de leur zone de gestion, ceux de la vallée du Mackenzie et tous les Canadiens.
+
+**Mission de l’une des formations régionales**
+
+- **(3)** La formation régionale de l’Office visée au paragraphe 99(2.1) a pour mission d’assurer la préservation, la mise en valeur et l’exploitation des terres et des eaux de la façon la plus avantageuse possible pour tous les Canadiens et, en particulier, pour les habitants de sa zone de gestion.
+> 2005, ch. 1, art. 58.
+
+
+
+
+
+**Compétence de l’Office**
 
 **102** 
 
-- **(1)** L’Office a compétence en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets réalisée dans la vallée du Mackenzie pour laquelle un permis est nécessaire sous le régime de la partie 3 ou aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md). Il exerce à cet égard les attributions conférées aux offices constitués en vertu de cette partie — exception faite toutefois des articles 78 et 79 — , la mention de la région désignée, dans les dispositions pertinentes de cette partie, valant mention de la vallée du Mackenzie.
+- **(1)** L’Office a compétence en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets réalisée dans la vallée du Mackenzie pour laquelle un permis est nécessaire sous le régime de la partie 3 ou aux termes de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md). Il exerce à cet égard les attributions conférées aux offices constitués en vertu de cette partie, exception faite toutefois de celles prévues aux articles 78, 79 et 79.2 à 80.1, la mention de la zone de gestion dans les dispositions pertinentes de cette partie valant mention de la vallée du Mackenzie, sauf au paragraphe 61(2) où cette mention continue de viser le Wekeezhii.
 
-**Compétence : formations régionales**
+**Compétence des formations régionales**
 
-- **(2)** Les attributions visées au paragraphe (1) sont exercées, en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets réalisée entièrement dans les limites d’une région désignée et y ayant vraisemblablement ses répercussions, par la formation régionale compétente. Celle-ci exerce aussi, malgré ce paragraphe, les attributions conférées aux offices par les articles 78 à 80.
+- **(2)** Les attributions visées au paragraphe (1) sont exercées, en ce qui touche toute forme d’utilisation des terres ou des eaux ou de dépôt de déchets devant être réalisée entièrement dans les limites de sa zone de gestion, et devant vraisemblablement y avoir ses répercussions, par la formation régionale compétente. Celle-ci exerce aussi, malgré ce paragraphe, les attributions conférées aux offices par les articles 78, 79 et 79.2 à 80.1.
+> 1998, ch. 25, art. 102; 2005, ch. 1, art. 58.
+
 
 
 
@@ -1524,7 +1878,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **103** 
 
-- **(1)** Sont présentées à l’Office les demandes relatives aux activités devant être réalisées ou ayant vraisemblablement des répercussions soit dans plusieurs régions désignées, soit dans une région désignée et une région non désignée, ou devant être entièrement réalisées dans une région non désignée.
+- **(1)** Sont présentées à l’Office les demandes relatives aux activités devant être réalisées ou devant vraisemblablement avoir des répercussions soit dans plus d’une zone de gestion, soit dans une zone de gestion et une région autre qu’une zone de gestion ou devant être entièrement réalisées dans une région autre qu’une zone de gestion.
 
 **Demandes présentées à la formation régionale**
 
@@ -1541,13 +1895,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Décision de la formation**
 
 - **(5)** Il est entendu que toute décision rendue par la formation régionale au sujet de la demande dont elle est saisie a la même validité qu’une décision de l’Office.
+> 1998, ch. 25, art. 103; 2005, ch. 1, art. 59.
+
 
 
 
 
 **Pouvoir du président**
 
-**104** Le président désigne, pour l’instruction des demandes visées au paragraphe 103(1), au moins trois membres de l’Office, dont au moins un nommé sur la proposition des premières nations ou après la consultation de celles-ci et au moins un qui n’est pas ainsi nommé.
+**104** Le président désigne, pour l’instruction des demandes visées au paragraphe 103(1), au moins trois membres de l’Office, dont au moins un nommé sur la proposition des premières nations ou après consultation de celles-ci et du gouvernement tlicho — ou nommé par le gouvernement tlicho — et au moins un qui n’est pas ainsi nommé.
+> 1998, ch. 25, art. 104; 2005, ch. 1, art. 60.
+
 
 
 
@@ -1562,6 +1920,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Lignes directrices**
 
 **106** L’Office peut établir des lignes directrices concernant soit des orientations générales, soit des questions relatives à l’utilisation des terres ou des eaux ou au dépôt de déchets dont la solution nécessite, à son avis, une application uniforme dans la vallée du Mackenzie.
+
+
+
+
+**Recommandations au ministre fédéral**
+
+**106.1** 
+
+- **(1)** L’Office fait au ministre fédéral, sur demande de celui-ci, des recommandations concernant soit la modification de la présente loi ou de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), soit la prise ou la modification de leurs textes d’application.
+
+**Recommandations à d’autres autorités**
+
+- **(2)** Il peut également, de sa propre initiative, faire des recommandations au ministre responsable, au ministre territorial et à toute administration locale respectivement, selon qu’il s’agit de la modification d’une loi fédérale — ou la prise ou la modification de ses textes d’application —, d’une règle de droit territoriale ou d’un règlement municipal régissant l’utilisation des terres ou des eaux ou le dépôt de déchets. Il peut en outre faire des recommandations au gouvernement tlicho concernant la modification d’une loi tlicho régissant l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux.
+> 2005, ch. 1, art. 61.
+
 
 
 
@@ -1585,15 +1958,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **108** 
 
-- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre fédéral, constituer au plus trois formations régionales qui s’ajoutent à celles visées au paragraphe 99(2).
+- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre fédéral, constituer au plus deux formations régionales qui s’ajoutent à celles visées aux paragraphes 99(2) et (2.1).
 
 **Compétence**
 
-- **(2)** Le gouverneur en conseil fixe, après consultation des premières nations concernées, le ressort de ces formations supplémentaires. Les paragraphes 102(2) et 103(2) à (5) s’appliquent dès lors, avec les adaptations nécessaires, en ce qui touche les régions qui sont de ce ressort.
+- **(2)** Le gouverneur en conseil détermine, après consultation des premières nations concernées, la région — située dans la vallée du Mackenzie et non comprise, même en partie, dans une zone de gestion — qui relève de la compétence de chaque formation supplémentaire. Les paragraphes 102(2) et 103(2) à (5) s’appliquent dès lors, avec les adaptations nécessaires, en ce qui touche la région concernée.
 
 **Nomination**
 
-- **(3)** Le ministre fédéral nomme les membres des formations supplémentaires. Ce faisant, il est tenu de choisir, pour chacune de celles-ci, un membre visé à l’alinéa 99(4)a) et un autre visé aux alinéas 99(4)b) ou c).
+- **(3)** Le ministre fédéral nomme les membres des formations supplémentaires. Ce faisant, il est tenu de choisir, pour chacune de celles-ci, un membre visé à l’alinéa 99(4) a) et un autre visé aux alinéas 99(4) b) ou c).
 
 **Président**
 
@@ -1614,6 +1987,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Avis**
 
 - **(8)** Un avis de la constitution de formations régionales supplémentaires sous le régime du présent article est publié dans un journal distribué dans la vallée du Mackenzie.
+> 1998, ch. 25, art. 108; 2005, ch. 1, art. 62.
+
 
 
 
@@ -1621,6 +1996,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs ministériels**
 
 **109** Le ministre fédéral exerce, en ce qui touche l’Office et les formations régionales, les attributions qui lui sont conférées relativement aux offices constitués en application de la partie 3.
+
+
+
+
+### Pouvoirs du gouvernement tlicho
+
+
+
+**Instructions du gouvernement tlicho**
+
+**109.1** Le gouvernement tlicho exerce, en ce qui touche l’Office et la formation régionale visée au paragraphe 99(2.1), les attributions qui sont les siennes aux termes de l’article 83 relativement à l’Office des terres et des eaux du Wekeezhii.
+> 2005, ch. 1, art. 63.
+
+
+
+
+
+### Règles applicables en cas d’incompatibilité
+
+
+
+**Incompatibilité entre les instructions**
+
+**109.2** 
+
+- **(1)** Les instructions données par le gouvernement tlicho en vertu de l’article 109.1 l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109.
+
+**Incompatibilité entre la loi et les instructions**
+
+- **(2)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109 ou le gouvernement tlicho en vertu de l’article 109.1.
+> 2005, ch. 1, art. 63.
+
 
 
 
@@ -1641,36 +2048,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Définitions
+### Définitions et champ d’application
 
 
 
 **Définitions**
 
-**111** Les définitions qui suivent s’appliquent à la présente partie.
+**111** 
 
-***autorité administrative*** Personne ou organisme chargé, au titre de toute règle de droit fédérale ou territoriale, de délivrer les permis ou autres autorisations relativement à un projet de développement. Sont exclus les administrations locales et les organismes administratifs désignés.
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***étude d’impact*** Examen d’un projet de développement effectué par une formation de l’Office en vertu de l’article 132.
+***autorité administrative*** Personne ou organisme chargé, au titre de toute règle de droit fédérale ou territoriale, de délivrer les permis ou autres autorisations relativement à un projet de développement. Sont exclus les administrations locales et les organismes administratifs désignés. (*regulatory authority*)
 
-***évaluation environnementale*** Examen d’un projet de développement effectué par l’Office en vertu de l’article 126.
+***étude d’impact*** Examen d’un projet de développement effectué par une formation de l’Office en vertu de l’article 132. (*environmental impact review*)
 
-***examen préalable*** Examen d’un projet de développement effectué en vertu de l’article 124.
+***évaluation environnementale*** Examen d’un projet de développement effectué par l’Office en vertu de l’article 126. (*environmental assessment*)
 
-***mesures correctives ou d’atténuation*** Mesures visant la limitation, la réduction ou l’élimination des répercussions négatives sur l’environnement. Sont notamment visées les mesures de rétablissement.
+***examen préalable*** Examen d’un projet de développement effectué en vertu de l’article 124. (*preliminary screening*)
 
-***ministre compétent*** Le ministre du gouvernement fédéral ou du gouvernement territorial ayant compétence, sous le régime des règles de droit fédérales ou territoriales, selon le cas, en ce qui touche le projet de développement en cause.
+***mesures correctives ou d’atténuation*** Mesures visant la limitation, la réduction ou l’élimination des répercussions négatives sur l’environnement. Sont notamment visées les mesures de rétablissement. (*mitigative or remedial measure*)
 
-***Office*** L’Office d’examen des répercussions environnementales de la vallée du Mackenzie constitué en vertu du paragraphe 112(1).
+***ministre compétent*** Le ministre du gouvernement fédéral ou du gouvernement territorial ayant compétence, sous le régime des règles de droit fédérales ou territoriales, selon le cas, en ce qui touche le projet de développement en cause. (*responsible minister*)
 
-***organisme administratif désigné*** Organisme mentionné à l’annexe. « Organisme administratif autonome » dans l’accord de revendication.
+***Office*** L’Office d’examen des répercussions environnementales de la vallée du Mackenzie constitué en vertu du paragraphe 112(1). (*Review Board*)
 
-***programme de suivi*** Programme visant à vérifier, d’une part, le bien-fondé des conclusions de l’évaluation environnementale ou de l’étude d’impact, selon le cas, et, d’autre part, l’efficacité des mesures correctives ou d’atténuation auxquelles est assujetti le projet de développement.
+***organisme administratif désigné*** Organisme mentionné à l’annexe. « Organisme administratif autonome » dans l’accord de revendication. (*designated regulatory agency*)
 
-***projet de développement*** Ouvrage ou activité — ou toute partie de ceux-ci — devant être réalisé sur la terre ou sur l’eau et, sauf indication contraire, entièrement dans la vallée du Mackenzie. Y sont assimilées la prise de mesures, par un ministère ou un organisme gouvernemental, en vue de la constitution de parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ainsi que l’acquisition de terres sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md).
+***programme de suivi*** Programme visant à vérifier, d’une part, le bien-fondé des conclusions de l’évaluation environnementale ou de l’étude d’impact, selon le cas, et, d’autre part, l’efficacité des mesures correctives ou d’atténuation auxquelles est assujetti le projet de développement. (*follow-up program*)
 
- ou ***répercussions environnementales*** ou ***répercussions sur l’environnement*** Les répercussions sur le sol, l’eau et l’air et toute autre composante de l’environnement, ainsi que sur l’exploitation des ressources fauniques. Y sont assimilées les répercussions sur l’environnement social et culturel et sur les ressources patrimoniales.
-> 1998, ch. 25, art. 111; 2000, ch. 32, art. 55.
+***projet de développement*** Ouvrage ou activité — ou toute partie ou extension de ceux-ci — devant être réalisé sur la terre ou sur l’eau. Y sont assimilées la prise de mesures, par un ministère ou un organisme gouvernemental, en vue de la constitution de parcs régis par la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou de la constitution de parcs en vertu d’une règle de droit territoriale ainsi que l’acquisition de terres sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md). (*development*)
+
+***répercussions environnementales*** ou ***répercussions sur l’environnement*** Les répercussions sur le sol, l’eau et l’air et toute autre composante de l’environnement, ainsi que sur l’exploitation des ressources fauniques. Y sont assimilées les répercussions sur l’environnement social et culturel et sur les ressources patrimoniales. (*impact on the environment*)
+
+**Champ d’application**
+
+- **(2)** La présente partie s’applique aux projets de développement devant être réalisés en tout ou en partie dans la vallée du Mackenzie et ne s’applique pas, à l’exception de l’article 142, aux projets devant être réalisés entièrement à l’extérieur de celle-ci.
+> 1998, ch. 25, art. 111; 2000, ch. 32, art. 55; 2005, ch. 1, art. 65.
 
 
 
@@ -1686,9 +2099,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Est constitué l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, composé d’au moins sept membres, dont le président.
 
-**Proposition des premières nations**
+**Propositions de nomination — premières nations et gouvernement tlicho**
 
-- **(2)** Des membres autres que le président, la moitié est nommée sur la proposition des premières nations. Parmi les membres ainsi nommés, au moins un doit l’être sur la proposition de la première nation des Gwich’in et un autre, sur celle de la première nation du Sahtu.
+- **(2)** Des membres autres que le président, la moitié est nommée sur la proposition des premières nations et du gouvernement tlicho. Parmi les membres ainsi nommés, au moins un doit l’être sur la proposition de la première nation des Gwich’in, un autre sur celle de la première nation du Sahtu et un autre sur celle du gouvernement tlicho.
 
 **Autres membres**
 
@@ -1696,7 +2109,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Quorum**
 
-- **(4)** Le quorum est de cinq membres, dont au moins deux nommés sur la proposition des premières nations et au moins deux — outre le président — qui ne sont pas ainsi nommés.
+- **(4)** Le quorum est de cinq membres, dont au moins deux nommés conformément au paragraphe (2) et au moins deux — outre le président — qui ne sont pas ainsi nommés.
+> 1998, ch. 25, art. 112; 2005, ch. 1, art. 66.
+
 
 
 
@@ -1726,7 +2141,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **115** Le processus mis en place par la présente partie est suivi avec célérité, compte tenu des points suivants :
 - **a)** la protection de l’environnement contre les répercussions négatives importantes du projet de développement;
-- **b)** le maintien du bien-être social, culturel et économique des habitants et des collectivités de la vallée du Mackenzie.
+- **b)** le maintien du bien-être social, culturel et économique des habitants et des collectivités de la vallée du Mackenzie;
+- **c)** l’importance de préserver les ressources pour le bien-être et le mode de vie des peuples autochtones du Canada visés par l’article 35 de la Loi constitutionnelle de 1982 et qui utilisent les ressources d’une région de la vallée du Mackenzie.
+> 1998, ch. 25, art. 115; 2005, ch. 1, art. 67.
+
+
+
+
+
+**Éléments à considérer**
+
+**115.1** Dans l’exercice de ses pouvoirs, l’Office tient compte des connaissances traditionnelles et des renseignements scientifiques mis à sa disposition.
+> 2005, ch. 1, art. 68.
+
 
 
 
@@ -1735,7 +2162,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **116** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas, dans la vallée du Mackenzie, aux projets de développement, sauf :
 - **a)** dans les cas où le ministre de l’Environnement a été saisi de l’affaire en vertu de l’alinéa 130(1)c), dans la mesure qui y est prévue;
-- **b)** dans les cas de projets faisant l’objet d’accords visés à l’alinéa 141(2)a), dans la mesure prévue par ceux-ci.
+- **b)** dans les cas de projets faisant l’objet d’accords visés à l’alinéa 141(2)a) ou (3)b), dans la mesure prévue par ceux-ci.
+> 1998, ch. 25, art. 116; 2005, ch. 1, art. 69.
+
 
 
 
@@ -1752,7 +2181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les répercussions du projet de développement en cause sur l’environnement, y compris celles causées par les accidents ou défaillances pouvant en découler et les répercussions cumulatives que sa réalisation, combinée à celle d’autres projets, entraînera vraisemblablement;
 	- **b)** l’importance de ces répercussions;
 	- **c)** les observations présentées par le public en conformité avec les règlements ou les règles de pratique de l’Office;
-	- **d)** dans les cas où le projet de développement aura vraisemblablement des répercussions négatives importantes sur l’environnement, la prise de mesures correctives ou d’atténuation;
+	- **d)** dans les cas où le projet de développement aura vraisemblablement des répercussions négatives importantes sur l’environnement, la nécessité de prendre des mesures correctives ou d’atténuation;
 	- **e)** tout autre élément — y compris l’utilité du projet et les solutions de rechange — que l’Office ou, après consultation de celui-ci, tout ministre compétent estime pertinent.
 
 **Éléments supplémentaires**
@@ -1763,6 +2192,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** la nécessité d’un programme de suivi, ainsi que son contenu;
 	- **d)** la capacité des ressources renouvelables qui seront vraisemblablement touchées de façon importante par le projet de répondre aux besoins du présent et à ceux des générations futures.
 
+**Éléments à examiner — examen conjoint**
+
+- **(4)** Les paragraphes (2) et (3) s’appliquent à l’égard de l’examen effectué par une formation conjointe ou une commission conjointe établie par l’Office et une autre autorité.
+> 1998, ch. 25, art. 117; 2005, ch. 1, art. 70.
+
+
 
 
 
@@ -1770,11 +2205,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **118** 
 
-- **(1)** La délivrance, au titre de toute règle de droit fédérale ou territoriale, d’un permis ou de toute autre autorisation nécessaire à la réalisation d’un projet de développement n’a lieu qu’une fois remplies les exigences de la présente partie.
+- **(1)** La délivrance, au titre de toute règle de droit fédérale ou territoriale ou d’une loi tlicho, d’un permis ou de toute autre autorisation nécessaire à la réalisation d’un projet de développement n’a lieu qu’une fois remplies les exigences de la présente partie.
 
 **Prise de mesures irrévocables**
 
-- **(2)** Le promoteur — première nation des Gwich’in ou du Sahtu, administration locale, ministère ou organisme des gouvernements fédéral et territorial — d’un projet de développement pour lequel une telle autorisation n’est pas requise ne peut prendre aucune mesure irrévocable à son égard avant que n’aient été remplies ces exigences.
+- **(2)** Le promoteur — première nation des Gwich’in, première nation du Sahtu, gouvernement tlicho, administration locale, ministère ou organisme des gouvernements fédéral et territorial — d’un projet de développement pour lequel une telle autorisation n’est pas requise ne peut prendre aucune mesure irrévocable à son égard avant que n’aient été remplies ces exigences.
+> 1998, ch. 25, art. 118; 2005, ch. 1, art. 71.
+
 
 
 
@@ -1790,17 +2227,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Directives**
 
-**120** L’Office peut, sous réserve des règlements pris en vertu de l’alinéa 143(1)a) et après consultation des premières nations et des ministres fédéral et territorial, établir des directives relativement au processus mis en place par la présente partie, notamment en ce qui touche :
+**120** L’Office peut, sous réserve des règlements pris en vertu de l’alinéa 143(1) a) et après consultation des premières nations, du gouvernement tlicho et des ministres fédéral et territorial, établir des directives relativement au processus mis en place par la présente partie, notamment en ce qui touche :
 - **a)** l’évaluation de la portée des projets de développement;
 - **b)** la forme et le contenu des rapports à faire au titre de la présente partie;
 - **c)** en matière d’étude d’impact, le dépôt et la mise en circulation de l’énoncé des répercussions visé à l’alinéa 134(1)b) et la publication d’un avis de ce dépôt.
+> 1998, ch. 25, art. 120; 2005, ch. 1, art. 72.
+
 
 
 
 
 **Publication des motifs**
 
-**121** Sont consignés et mis à la disposition du public les motifs expliquant soit les décisions prises par l’Office, sa formation, le ministre fédéral, tout ministre compétent, l’organisme administratif désigné, l’autorité administrative ainsi que la première nation des Gwich’in ou celle du Sahtu, soit les recommandations faites par ceux-ci, dans le cadre du processus mis en place par la présente partie.
+**121** Sont consignés et mis à la disposition du public les motifs des décisions et des recommandations formulées, dans le cadre du processus mis en place par la présente partie, par l’Office, ses formations, les formations conjointes et les commissions conjointes établies par l’Office et une autre autorité, le ministre fédéral, tout ministre compétent, les organismes administratifs désignés, les autorités administratives, les ministères et organismes fédéraux ou territoriaux, les administrations locales, la première nation des Gwich’in, celle du Sahtu ou le gouvernement tlicho.
+> 1998, ch. 25, art. 121; 2005, ch. 1, art. 73.
+
 
 
 
@@ -1819,6 +2260,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Consultations**
+
+**123.1** Au cours de l’étude d’impact ou de l’examen des répercussions environnementales d’un projet de développement, la formation de l’Office ou la formation conjointe ou la commission conjointe établie par l’Office et une autre autorité procède aux consultations exigées par les accords de revendication et, en outre, elle peut consulter toute personne qui utilise les ressources de la région où le projet peut avoir des répercussions sur l’environnement.
+> 2005, ch. 1, art. 74.
+
+
+
+
+
+**Conflit d’intérêts**
+
+**123.2** 
+
+- **(1)** Nul ne peut être nommé membre d’une formation de l’Office ou d’une formation conjointe ou d’une commission conjointe établie par l’Office et une autre autorité ni continuer d’en faire partie s’il en résulte une situation de conflit d’intérêts sérieux.
+
+**Statut et droits conférés par accord**
+
+- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord sur des revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
+> 2005, ch. 1, art. 74.
+
+
+
+
+
+**Propositions de nomination**
+
+**123.3** La nomination des membres de la formation de l’Office ou de ceux de la formation conjointe ou de la commission conjointe établie par l’Office et une autre autorité est effectuée conformément aux règles relatives aux propositions de nomination prévues dans les accords de revendication.
+> 2005, ch. 1, art. 74.
+
+
+
+
+
 ### Examen préalable
 
 
@@ -1833,13 +2307,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Projet non visé par une demande**
 
-- **(2)** Dans les cas de projet dont le promoteur est soit la première nation des Gwich’in ou celle du Sahtu, soit un ministère ou un organisme gouvernemental fédéral ou territorial, et pour lequel une demande de permis ou d’autorisation n’a pas à être présentée, ce promoteur est tenu, après avoir informé l’Office par écrit de ce projet, d’en effectuer l’examen préalable, sauf si :
+- **(2)** Dans les cas de projet dont le promoteur est soit la première nation des Gwich’in, celle du Sahtu ou le gouvernement tlicho, soit un ministère ou un organisme gouvernemental fédéral ou territorial, et pour lequel une demande de permis ou d’autorisation n’a pas à être présentée en vertu d’une règle de droit fédérale ou territoriale, ce promoteur est tenu, après avoir informé l’Office par écrit de ce projet, d’en effectuer l’examen préalable, sauf si :
 	- **a)** à son avis, il s’agit d’un projet dont les répercussions environnementales n’ont, de toute évidence, aucune importance;
-	- **b)** celui-ci est soustrait à l’examen, aux termes des règlements pris en vertu de l’alinéa 143(1)c), pour l’un des motifs mentionnés aux alinéas (1)a) ou b).
+	- **b)** celui-ci est soustrait à l’examen, aux termes des règlements pris en vertu de l’alinéa 143(1) c), pour l’un des motifs mentionnés aux alinéas (1) a) ou b).
+
+**Examen préalable facultatif**
+
+- **(3)** La première nation des Gwich’in, celle du Sahtu ou le gouvernement tlicho peut effectuer l’examen préalable d’un projet de développement en vue d’établir si le projet doit, à son avis, faire l’objet du renvoi visé aux alinéas 126(2)b) ou c), selon le cas.
 
 **Coopération**
 
-- **(3)** Les organes qui sont tenus d’effectuer un examen préalable au sujet du même projet de développement peuvent se consulter, entériner leurs rapports respectifs ou procéder à un examen conjoint. Au surplus, si l’un d’eux est un office constitué en vertu des parties 3 ou 4, les autres sont soustraits à cette obligation en ce qui touche ce projet.
+- **(4)** Les organes qui effectuent un examen préalable au sujet du même projet de développement peuvent se consulter, entériner leurs rapports respectifs ou procéder à un examen conjoint. Au surplus, si l’un d’eux est un office constitué en vertu des parties 3 ou 4, les autres sont soustraits à cette obligation en ce qui touche ce projet.
+> 1998, ch. 25, art. 124; 2005, ch. 1, art. 75.
+
 
 
 
@@ -1871,24 +2351,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Il procède de plus, quelles que soient les conclusions de l’examen préalable, à l’évaluation environnementale des projets qui font l’objet d’un renvoi de la part :
 	- **a)** d’une autorité administrative, d’un organisme administratif désigné ou d’un ministère ou organisme des gouvernements fédéral et territorial;
-	- **b)** de la première nation des Gwich’in ou celle du Sahtu, dans les cas où le projet doit être réalisé dans les limites de sa région désignée ou est susceptible, de l’avis de cette première nation, d’y avoir des répercussions négatives sur l’environnement;
-	- **c)** d’une administration locale, dans les cas où le projet doit être réalisé dans les limites de son territoire ou est susceptible, de l’avis de cette dernière, d’y avoir des répercussions négatives sur l’environnement.
+	- **b)** de la première nation des Gwich’in ou celle du Sahtu, dans les cas où le projet doit être réalisé dans les limites de sa région désignée ou est susceptible d’y avoir des répercussions sur l’environnement;
+	- **c)** du gouvernement tlicho, dans les cas où le projet doit être réalisé — même en partie — dans la partie du Monfwi gogha de niitlee comprise dans les limites des Territoires du Nord-Ouest ou est susceptible d’y avoir des répercussions sur l’environnement;
+	- **d)** d’une administration locale, dans les cas où le projet doit être réalisé dans les limites de son territoire ou est susceptible d’y avoir des répercussions sur l’environnement.
 
 **Initiative de l’Office**
 
 - **(3)** L’Office peut enfin, quelles que soient les conclusions de l’examen préalable, procéder de sa propre initiative à l’évaluation environnementale de projets de développement.
 
-**Application**
+**Application des paragraphes (2) et (3)**
 
-- **(4)** Les paragraphes (2) et (3) s’appliquent en outre aux projets soustraits à l’examen préalable :
-	- **a)** soit parce que l’autorisation nécessaire pour leur réalisation est délivrée sous le régime d’une règle de droit fédérale ou territoriale non mentionnée dans les règlements pris en vertu de l’alinéa 143(1)b);
-	- **b)** soit par règlements pris en vertu de l’alinéa 143(1)c);
-	- **c)** soit parce que les répercussions environnementales ont été jugées sans importance en conformité avec l’alinéa 124(2)a).
-L’Office ne peut toutefois procéder de sa propre initiative à l’examen de projets visés aux alinéas b) ou c) que s’il estime qu’ils soulèvent des questions particulières en matière d’environnement.
+- **(4)** Il est entendu que les paragraphes (2) et (3) s’appliquent même si aucun examen préalable n’a été entrepris ou terminé.
 
 **Notification**
 
 - **(5)** L’Office notifie au promoteur du projet de développement le renvoi effectué en vertu du paragraphe (2) ou son intention de procéder à l’évaluation environnementale sous le régime du paragraphe (3).
+> 1998, ch. 25, art. 126; 2005, ch. 1, art. 76.
+
 
 
 
@@ -1896,6 +2375,15 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 **Rapport établi en vertu d’autres textes**
 
 **127** L’Office tient compte, dans le cadre de l’évaluation environnementale, de tout rapport établi, avant l’entrée en vigueur de la présente partie, relativement au projet de développement sous le régime soit du Décret sur les lignes directrices visant le processus d’évaluation et d’examen en matière d’environnement approuvé par le décret C.P. 1984-2132 du 21 juin 1984 et enregistré sous le numéro DORS/84-467, soit de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+
+
+
+
+**Consultation de la première nation ou du gouvernement tlicho**
+
+**127.1** L’Office consulte la première nation ou le gouvernement tlicho, selon le cas, avant de terminer l’évaluation environnementale d’un projet de développement devant être réalisé — même en partie — sur les terres de la première nation au sens de l’article 51 ou sur les terres tlichos.
+> 2005, ch. 1, art. 77.
+
 
 
 
@@ -1912,24 +2400,28 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 	- **c)** s’il conclut que le projet sera vraisemblablement la cause de préoccupations importantes pour le public, ordonne, sous réserve de la décision ministérielle prise au titre de l’alinéa 130(1)c), la réalisation d’une étude d’impact;
 	- **d)** s’il conclut que le projet aura vraisemblablement des répercussions négatives si importantes sur l’environnement qu’il est injustifiable, en recommande le rejet, sans étude d’impact.
 
-**Rapport**
+**Rapport de l’Office**
 
-- **(2)** L’Office adresse son rapport d’évaluation, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet.
+- **(2)** L’Office adresse son rapport d’évaluation, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet. Il adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
 
 **Copie**
 
-- **(3)** L’Office adresse une copie du rapport au promoteur du projet de développement, à l’organe en ayant effectué l’examen préalable et, en cas de renvoi effectué en vertu du paragraphe 126(2), au ministère, à l’organisme, à la première nation ou à l’administration locale concernée.
+- **(3)** L’Office adresse une copie du rapport au promoteur du projet de développement, à l’organe en ayant effectué l’examen préalable et, en cas de renvoi effectué en vertu du paragraphe 126(2), au ministère, à l’organisme, à la première nation, au gouvernement tlicho ou à l’administration locale concernée.
 
 **Régions touchées**
 
 - **(4)** Dans son rapport, l’Office précise la région — même située à l’extérieur de la vallée du Mackenzie — dans laquelle, à son avis, le projet aura vraisemblablement les répercussions visées à l’alinéa (1)b) ou sera vraisemblablement la cause des préoccupations visées à l’alinéa (1)c), ainsi que la mesure dans laquelle la région sera ainsi touchée.
+> 1998, ch. 25, art. 128; 2005, ch. 1, art. 78.
+
 
 
 
 
 **Effet suspensif**
 
-**129** En cas de déclaration prévue à l’alinéa 128(1)a), l’autorité administrative ou l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement ne peut procéder à leur délivrance avant l’expiration d’un délai de dix jours suivant la réception de la copie du rapport d’évaluation. Si la déclaration vise un projet pour lequel un tel permis ou une telle autorisation n’est pas nécessaire, le promoteur ne peut en entreprendre la réalisation avant l’expiration du même délai.
+**129** En cas de déclaration prévue à l’alinéa 128(1)a), l’autorité administrative, l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement ou le gouvernement tlicho, selon le cas, ne peut procéder à leur délivrance avant l’expiration d’un délai de dix jours suivant la réception de la copie du rapport d’évaluation. Si la déclaration vise un projet pour lequel un tel permis ou une telle autorisation n’est pas nécessaire en vertu d’une règle de droit fédérale ou territoriale ou d’une loi tlicho, le promoteur ne peut en entreprendre la réalisation avant l’expiration du même délai.
+> 1998, ch. 25, art. 129; 2005, ch. 1, art. 79.
+
 
 
 
@@ -1943,6 +2435,10 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 	- **b)** accepter la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii) ou de l’alinéa 128(1)d), la lui renvoyer pour réexamen ou après avoir consulté ce dernier soit l’accepter avec certaines modifications, soit la rejeter et ordonner la réalisation d’une étude d’impact;
 	- **c)** dans les cas où, à leur avis, l’intérêt national l’exige et après avoir consulté le ministre de l’Environnement, saisir celui-ci de l’affaire, quelles que soient les conclusions du rapport, pour qu’un examen conjoint soit effectué sous le régime de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
 
+**Consultation du gouvernement tlicho**
+
+- **(1.1)** Avant de prendre la mesure visée aux alinéas (1)a) ou c), le ministre fédéral et les ministres compétents consultent le gouvernement tlicho si le projet de développement doit être réalisé — même en partie — sur les terres tlichos.
+
 **Régions touchées**
 
 - **(2)** Dans les cas où ils ordonnent la réalisation d’une étude d’impact, le ministre fédéral et les ministres compétents précisent la région — même située à l’extérieur de la vallée du Mackenzie — dans laquelle, à leur avis, le projet aura vraisemblablement des répercussions négatives importantes ou sera vraisemblablement la cause de préoccupations importantes pour le public, ainsi que la mesure dans laquelle la région sera ainsi touchée.
@@ -1955,9 +2451,11 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 - **(4)** Le ministre fédéral est chargé de communiquer la décision ainsi rendue à l’Office, aux premières nations, administrations locales et autorités administratives touchées par celle-ci et aux ministères et organismes des gouvernements fédéral et territorial concernés.
 
-**Mise en oeuvre**
+**Mise en œuvre**
 
-- **(5)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes gouvernementaux sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence.
+- **(5)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en œuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
+> 1998, ch. 25, art. 130; 2005, ch. 1, art. 80.
+
 
 
 
@@ -1983,6 +2481,34 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 
 
+**Décision du gouvernement tlicho**
+
+**131.1** 
+
+- **(1)** Lorsque le projet de développement doit être réalisé — même en partie — sur les terres tlichos, le gouvernement tlicho, au terme de son étude du rapport d’évaluation environnementale, accepte la recommandation faite par l’Office en vertu du sous-alinéa 128(1)b)(ii), la lui renvoie pour réexamen ou, après l’avoir consulté, soit l’accepte avec modifications, soit la rejette.
+
+**Mise en œuvre**
+
+- **(2)** Le gouvernement tlicho est tenu, dans la mesure de sa compétence, de mettre en œuvre toute recommandation qu’il accepte.
+
+**Renseignements supplémentaires**
+
+- **(3)** Il est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de l’Office, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par ce dernier.
+> 2005, ch. 1, art. 81.
+
+
+
+
+
+**Préservation des terres, des eaux et de la faune**
+
+**131.2** Pour la prise de toute décision en vertu de l’alinéa 130(1)b) ou des paragraphes 131(1) ou 131.1(1), le ministre fédéral et les ministres compétents, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, tiennent compte de l’importance de préserver les terres, les eaux et la faune de la vallée du Mackenzie qui peuvent être touchées par le projet de développement.
+> 2005, ch. 1, art. 81.
+
+
+
+
+
 ### Étude d’impact
 
 
@@ -1995,18 +2521,15 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **Experts**
 
-- **(2)** Peuvent faire partie de la formation, outre les membres de l’Office, les experts compétents en ce qui touche le projet en cause. Les règles de l’article 16 s’appliquent à ces experts.
+- **(2)** Peuvent être membres de la formation, outre les membres de l’Office, les experts compétents en ce qui touche le projet en cause.
 
-**Quorum spécial**
+**Condition de validité de la nomination**
 
-- **(3)** La nomination prévue au paragraphe (1) n’est valide que si un nombre égal de membres de l’Office nommés sur la proposition des premières nations et de membres — autres que le président — qui ne sont pas ainsi nommés y participe.
+- **(3)** La nomination prévue au paragraphe (1) n’est valide que si un nombre égal de membres de l’Office nommés sur la proposition d’une première nation ou du gouvernement tlicho et de membres — autres que le président — qui ne sont pas ainsi nommés y participe.
 
-**Membres autochtones**
+- **(4)** [Abrogé, 2005, ch. 1, art. 82]
+> 1998, ch. 25, art. 132; 2005, ch. 1, art. 82.
 
-- **(4)** Sauf entente contraire entre la première nation et le ministre fédéral, font partie de la formation chargée de l’étude d’impact relative à un projet devant être réalisé — même en partie — dans une région désignée les membres de l’Office choisis à cette fin par la première nation des Gwich’in ou celle du Sahtu, selon le cas, qui doivent représenter :
-	- **a)** la moitié des membres de la formation — exception faite de son président — , dans les cas où, selon les précisions faites aux termes des paragraphes 128(4), 130(2) ou 131(3), les répercussions négatives importantes ou la cause de préoccupations importantes pour le public se trouveront entièrement dans les limites de cette région;
-	- **b)** au moins deux membres de la formation, dans les cas où, selon ces précisions, ces répercussions ou cette cause se trouveront principalement dans ces limites;
-	- **c)** au moins un membre de la formation, dans les cas où, selon ces précisions, elles ne se trouveront qu’accessoirement dans ces limites.
 
 
 
@@ -2024,12 +2547,21 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 
 
+**Coordination de l’étude d’impact avec tout examen**
+
+**133.1** L’Office veille, dans la mesure du possible, à ce que l’étude d’impact relative au projet de développement devant, à son avis, être réalisé en partie à l’extérieur de la vallée du Mackenzie soit coordonnée avec tout examen des effets sur l’environnement du projet effectué par l’organisme chargé de l’examen de cette partie du projet.
+> 2005, ch. 1, art. 83.
+
+
+
+
+
 **Éléments de l’étude**
 
 **134** 
 
 - **(1)** L’étude d’impact d’un projet de développement comporte :
-	- **a)** l’établissement, par l’Office, du mandat de sa formation après consultation de tout ministre compétent et des premières nations concernées;
+	- **a)** l’établissement, par l’Office, du mandat de sa formation après consultation de tout ministre compétent, des premières nations concernées et, si l’Office est d’avis que le projet aura vraisemblablement des répercussions négatives importantes sur l’environnement au Monfwi gogha de niitlee ou qu’il y sera vraisemblablement la cause de préoccupations importantes pour le public, du gouvernement tlicho;
 	- **b)** le dépôt, par quiconque demande un permis ou une autre autorisation relativement au projet ou par le promoteur de celui-ci, d’un énoncé des répercussions et sa mise en circulation en conformité avec les directives établies en vertu de l’article 120 et les instructions données en vertu du paragraphe 133(2);
 	- **c)** la publication, en conformité avec ces directives, d’un avis de ce dépôt;
 	- **d)** les examens du projet que la formation estime nécessaires;
@@ -2041,7 +2573,9 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **Destinataires**
 
-- **(3)** Le rapport est adressé, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou les autres autorisations nécessaires à la réalisation du projet.
+- **(3)** Le rapport est adressé, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent et, d’autre part, à l’organisme administratif désigné chargé de délivrer les permis ou les autres autorisations nécessaires à la réalisation du projet. Il est également adressé au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
+> 1998, ch. 25, art. 134; 2005, ch. 1, art. 84.
+
 
 
 
@@ -2067,9 +2601,11 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 - **(1)** Le ministre fédéral communique la décision rendue en vertu de l’article 135 aux premières nations, administrations locales et autorités administratives touchées par celle-ci et aux ministères et organismes des gouvernements fédéral et territorial concernés.
 
-**Mise en oeuvre**
+**Mise en œuvre**
 
-- **(2)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes gouvernementaux sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence.
+- **(2)** Ces premières nations, administrations locales, autorités administratives, ministères et organismes sont tenus de se conformer à la décision ministérielle dans la mesure de leur compétence. La mise en œuvre de celle-ci incombe au ministre fédéral et aux ministres compétents.
+> 1998, ch. 25, art. 136; 2005, ch. 1, art. 85.
+
 
 
 
@@ -2091,36 +2627,100 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 
 
+**Décision du gouvernement tlicho**
+
+**137.1** 
+
+- **(1)** Lorsque le projet de développement doit être réalisé — même en partie — sur les terres tlichos, le gouvernement tlicho, au terme de son étude du rapport visé au paragraphe 134(2), accepte la recommandation de la formation de l’Office, la lui renvoie pour réexamen ou, après l’avoir consultée, soit l’accepte avec modifications, soit la rejette.
+
+**Renseignements supplémentaires**
+
+- **(2)** Le gouvernement tlicho est tenu d’indiquer, au soutien de sa décision ou dans le cadre des consultations visées au paragraphe (1), les renseignements dont il tient compte et qui étaient inconnus de la formation de l’Office, ainsi que les questions d’intérêt public qu’il a étudiées et qui n’ont pas été soulevées par celle-ci.
+
+**Mise en œuvre**
+
+- **(3)** Il est tenu, dans la mesure de sa compétence, de mettre en œuvre toute recommandation qu’il accepte.
+> 2005, ch. 1, art. 86.
+
+
+
+
+
+**Préservation des terres, des eaux et de la faune**
+
+**137.2** Pour la prise de toute décision en vertu des paragraphes 135(1), 137(1) ou 137.1(1), le ministre fédéral et les ministres compétents, l’organisme administratif désigné ou le gouvernement tlicho, selon le cas, tiennent compte de l’importance de préserver les terres, les eaux et la faune de la vallée du Mackenzie qui peuvent être touchées par le projet de développement.
+> 2005, ch. 1, art. 86.
+
+
+
+
+
+**Consultation de toute autorité responsable**
+
+**137.3** Avant de prendre leur décision aux termes des paragraphes 135(1), 137(1) ou 137.1(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie, les personnes ou organismes concernés tiennent compte de tout rapport de la commission établie en vertu de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) concernant le projet et consultent toute autorité responsable qui doit recevoir un rapport aux termes de cette loi.
+> 2005, ch. 1, art. 86.
+
+
+
+
+
 ### Coopération et examens conjoints
 
 
 
-**Rapport préparé en vertu de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
+**Rapport de la commission après un renvoi dans l’intérêt national**
 
 **138** 
 
-- **(1)** Outre ce qui est prévu à l’alinéa 41f) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), la commission constituée sous le régime du paragraphe 40(2.1) de cette loi, à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations nécessaires à la réalisation du projet en question.
+- **(1)** Outre ce qui est prévu à l’alinéa 41f) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), la commission constituée sous le régime du paragraphe 40(2.1) de cette loi, à la suite du renvoi effectué en vertu de l’alinéa 130(1)c) de la présente loi, adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations nécessaires à la réalisation du projet en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
 
-**Application de certains articles**
+**Application de certaines dispositions**
 
-- **(2)** L’examen effectué par cette commission tient lieu d’étude d’impact. À cet égard, les articles 135 à 137 s’appliquent, avec les adaptations nécessaires.
+- **(2)** L’examen effectué par cette commission tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la commission pour réexamen.
+> 1998, ch. 25, art. 138; 2005, ch. 1, art. 87.
 
 
 
 
-**Entente : organisme administratif désigné**
+
+**Accord après un renvoi dans l’intérêt national**
+
+**138.1** 
+
+- **(1)** Si le ministre de l’Environnement a été saisi, en vertu de l’alinéa 130(1)c), d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure avec celui-ci un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet conformément au paragraphe 40(2.1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+
+**Médiation**
+
+- **(2)** L’Office et le ministre de l’Environnement participent à toute médiation prévue par règlement s’ils n’ont pas conclu un tel accord dans le délai réglementaire.
+
+**Arbitrage**
+
+- **(3)** Ils peuvent s’entendre pour soumettre à tout arbitrage prévu par règlement, dans le délai réglementaire, toute question non résolue s’ils n’ont pas conclu d’accord au terme de la médiation.
+
+**Portée de l’étude d’impact en l’absence d’un accord**
+
+- **(4)** Malgré les paragraphes (1) à (3), faute de conclusion, dans le délai réglementaire, de l’accord prévu au présent article, une formation de l’Office réalise une étude d’impact qui ne porte que sur les parties du projet devant être réalisées dans la vallée du Mackenzie.
+> 2005, ch. 1, art. 87.
+
+
+
+
+
+**Entente avec l’organisme administratif désigné**
 
 **139** 
 
-- **(1)** Dans les cas où la réalisation d’une étude d’impact a été ordonnée en vertu de la présente partie, l’Office et l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en cause peuvent conclure une entente visant l’examen des répercussions environnementales de celui-ci par une formation conjointe mise sur pied à cette fin.
+- **(1)** Dans les cas où une étude d’impact a été ordonnée en vertu de la présente partie, l’Office et l’organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement devant, selon l’Office, être réalisé entièrement dans la vallée du Mackenzie, mais à l’exclusion d’un projet de développement dont le ministre de l’Environnement a été saisi en vertu de l’alinéa 130(1)c), peuvent conclure une entente visant l’examen des répercussions environnementales du projet par une formation conjointe mise sur pied à cette fin.
 
-**Rapport**
+**Rapport de la formation conjointe**
 
-- **(2)** La formation conjointe adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations visés au paragraphe (1).
+- **(2)** La formation conjointe adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autorisations visés au paragraphe (1). Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
 
-**Substitution, pouvoirs et obligations**
+**Application de certaines dispositions**
 
-- **(3)** L’examen effectué par une telle formation tient lieu d’étude d’impact. À cet égard, les articles 135 à 137 s’appliquent, avec les adaptations nécessaires.
+- **(3)** L’examen effectué par une telle formation tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
+> 1998, ch. 25, art. 139; 2005, ch. 1, art. 87.
+
 
 
 
@@ -2131,17 +2731,19 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 - **(1)** Dans les cas où, dans le cadre de l’évaluation environnementale relative à un projet de développement devant être réalisé entièrement dans la vallée du Mackenzie, l’Office se rend compte que le projet est susceptible d’avoir des répercussions négatives importantes sur l’environnement dans une région située à l’extérieur de cette vallée, il est tenu d’en informer l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région et de demander sa coopération pour la poursuite de l’évaluation.
 
-**Entente : région extérieure à la vallée du Mackenzie**
+**Entente avec l’organisme compétent**
 
-- **(2)** Dans les cas où, selon les précisions faites en vertu des paragraphes 128(4), 130(2) ou 131(3), le projet de développement visé au paragraphe (1) aura vraisemblablement des répercussions négatives importantes sur l’environnement dans une région située à l’extérieur de la vallée du Mackenzie, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région une entente visant soit la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet, soit l’examen de ces répercussions par une formation conjointe mise sur pied à cette fin.
+- **(2)** Dans les cas où, selon l’Office, le projet de développement visé au paragraphe (1), autre qu’un projet de développement dont le ministre de l’Environnement a été saisi en vertu de l’alinéa 130(1)c), aura vraisemblablement des répercussions négatives importantes sur l’environnement dans une région située à l’extérieur de la vallée du Mackenzie, l’Office peut, avec l’agrément du ministre fédéral, conclure avec l’organisme compétent en matière d’examen des effets sur l’environnement dans cette région une entente visant soit la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet, soit l’examen de ces répercussions par une formation conjointe mise sur pied à cette fin.
 
-**Rapport**
+**Rapport de la formation conjointe**
 
-- **(3)** La formation conjointe mise sur pied sous le régime d’une telle entente adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question.
+- **(3)** La formation conjointe mise sur pied sous le régime d’une telle entente adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé — même en partie — sur les terres tlichos.
 
-**Substitution, pouvoirs et obligations**
+**Application de certaines dispositions**
 
-- **(4)** L’examen effectué par cette formation conjointe tient lieu d’étude d’impact. À cet égard, les articles 135 à 137 s’appliquent, avec les adaptations nécessaires.
+- **(4)** L’examen effectué par cette formation conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe pour réexamen.
+> 1998, ch. 25, art. 140; 2005, ch. 1, art. 88.
+
 
 
 
@@ -2156,24 +2758,30 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 - **(1)** En ce qui touche tout projet de développement devant être réalisé à la fois dans la vallée du Mackenzie et soit dans une région voisine de la vallée du Mackenzie située dans les Territoires du Nord-Ouest, au Yukon ou au Nunavut, soit dans une province, l’Office veille dans la mesure du possible à la coordination de ses activités, en matière d’évaluation environnementale, avec les activités de l’organisme chargé, dans cette région ou cette province, de l’examen des effets sur l’environnement.
 
-**Entente : région voisine ou province**
+**Accord ou entente — projet ne concernant pas le Wekeezhii**
 
-- **(2)** Une fois ordonnée, pour ce qui touche la vallée du Mackenzie, la réalisation d’une étude d’impact, l’Office peut, avec l’agrément du ministre fédéral :
+- **(2)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1) b)(i), des alinéas 128(1)c) ou 130(1) a) ou b) ou du paragraphe 131(1) à l’égard d’un projet visé au paragraphe (1) mais non visé au paragraphe (3), l’Office peut, avec l’agrément du ministre fédéral :
 	- **a)** dans les cas où l’examen des répercussions environnementales est, dans la région voisine ou la province, régie par la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), conclure avec le ministre de l’Environnement un accord conformément aux articles 40 et 41 de cette loi visant un examen par une commission conjointe;
 	- **b)** dans tous les autres cas, conclure avec l’organisme chargé, dans cette province ou cette région, de l’examen des effets sur l’environnement une entente visant la coordination de leurs activités en ce qui touche l’examen des répercussions environnementales du projet ou visant l’examen de celles-ci par une formation conjointe mise sur pied à cette fin.
 
-**Composition de la commission**
+**Accord — projet en partie au Wekeezhii ou susceptible d’y avoir des répercussions**
 
-- **(3)** Sont nommés sur la proposition des premières nations et autres groupes autochtones concernés au moins le quart des membres — exception faite du président — de la commission chargée, par l’accord visé à l’alinéa (2)a), de l’examen relatif au projet devant être réalisé en partie dans une région des Territoires du Nord-Ouest, du Yukon ou du Nunavut.
+- **(3)** Si une étude d’impact a été ordonnée en vertu du sous-alinéa 128(1)b)(i), des alinéas 128(1)c) ou 130(1)a) ou b) ou du paragraphe 131(1) à l’égard d’un projet de développement devant, selon l’Office, être réalisé en partie à l’extérieur de la vallée du Mackenzie et soit être réalisé en partie au Wekeezhii, soit être susceptible d’y avoir des répercussions sur l’environnement, l’Office doit conclure :
+	- **a)** avec l’organisme chargé, pour la partie du projet devant être réalisée à l’extérieur de la vallée du Mackenzie, de l’examen des effets sur l’environnement, un accord établissant une formation conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci;
+	- **b)** avec le ministre de l’Environnement, un accord établissant une commission conjointe et régissant l’examen des répercussions environnementales du projet effectué par celle-ci, dans les cas où le ministre est habilité à conclure un accord en vertu de l’article 40 de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
 
-**Rapport**
+**Portée de l’étude d’impact en l’absence d’un accord**
 
-- **(4)** La formation conjointe ou la commission adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question. Dans les cas d’entente visée à l’alinéa (2)b), le rapport est en outre adressé au ministre des gouvernements fédéral, provincial ou territorial ayant compétence en ce qui touche l’examen effectué par l’organisme en question.
+- **(4)** Malgré le paragraphe (3), faute de conclusion, dans le délai réglementaire, de l’accord prévu par ce paragraphe, une formation de l’Office réalise une étude d’impact qui ne porte que sur les parties du projet devant être réalisées dans la vallée du Mackenzie.
 
-**Substitution, pouvoirs et obligations**
+**Rapport de la formation conjointe ou de la commission conjointe**
 
-- **(5)** L’examen effectué par la formation conjointe ou la commission tient lieu d’étude d’impact. À cet égard, les articles 135 à 137 s’appliquent, avec les adaptations nécessaires.
-> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A).
+- **(5)** La formation conjointe ou la com­mission conjointe adresse son rapport, d’une part, au ministre fédéral, qui est tenu de le transmettre à tout ministre compétent, et, d’autre part, à tout organisme administratif désigné chargé de délivrer les permis ou autres autorisations nécessaires à la réalisation du projet de développement en question. Elle adresse également le rapport au gouvernement tlicho s’il s’agit d’un projet devant être réalisé en partie sur les terres tlichos. Dans les cas d’entente ou d’accord visé à l’alinéa (2)b) ou (3)a), le rapport est en outre adressé au ministre des gouvernements fédéral, provincial ou territorial ayant compétence en ce qui touche l’examen effectué par l’organisme en question.
+
+**Application de certaines dispositions**
+
+- **(6)** L’examen effectué par la formation conjointe ou la commission conjointe tient lieu d’étude d’impact. À cet égard, les alinéas 134(1)b), d) et e) et les articles 135 à 137.2 s’appliquent, avec les adaptations nécessaires, sauf que la recommandation ne peut être renvoyée à la formation conjointe ou à la commission conjointe pour réexamen.
+> 1998, ch. 15, art. 48, ch. 25, art. 141; 2002, ch. 7, art. 206(A); 2005, ch. 1, art. 89.
 
 
 
@@ -2196,23 +2804,28 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **143** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, après consultation par le ministre fédéral du ministre territorial et des premières nations, prendre les mesures d’application de la présente partie et, notamment :
+- **(1)** Le gouverneur en conseil peut, par règlement, après consultation par le ministre fédéral du ministre territorial, des premières nations et du gouvernement tlicho, prendre les mesures d’application de la présente partie et, notamment :
 	- **a)** régir la procédure applicable en matière d’examen préalable, d’évaluation environnementale et d’étude d’impact, y compris :
 		- **(i)** les délais accordés — notamment au ministre compétent — pour prendre des décisions ou faire des recommandations,
 		- **(ii)** la forme et le contenu des rapports;
 	- **b)** énumérer, parmi les règles de droit fédérales et territoriales qui prévoient la délivrance de permis ou d’autres autorisations par une autorité administrative ou un organisme administratif désigné, relativement aux projets de développement, celles pour lesquelles cette délivrance doit être précédée d’un examen préalable;
-	- **c)** soustraire à l’examen préalable certains projets de développement ou certaines catégories de ceux-ci pour l’un des motifs prévus aux alinéas 124(1)a) ou b);
-	- **d)** prévoir l’établissement et la tenue de registres publics, permettre leur consultation par le public, fixer les heures et les modalités de consultation et de reproduction des registres ainsi que les droits à payer pour ces services.
+	- **c)** soustraire à l’examen préalable certains projets de développement ou certaines catégories de ceux-ci pour l’un des motifs prévus aux alinéas 124(1) a) ou b);
+	- **d)** prévoir l’établissement et la tenue de registres publics, permettre leur consultation par le public, fixer les heures et les modalités de consultation et de reproduction des registres ainsi que les droits à payer pour ces services;
+	- **e)** régir la médiation visée au paragraphe 138.1(2) et fixer le délai prévu par ce paragraphe;
+	- **f)** régir l’arbitrage visé au paragraphe 138.1(3) et fixer le délai prévu par ce paragraphe;
+	- **g)** fixer le délai prévu par les paragraphes 138.1(4) et 141(4).
 
 **Consultation de l’Office**
 
-- **(2)** La prise de tout règlement en vertu des alinéas (1)a) et d) et la modification des règlements pris en vertu des alinéas b) et c) sont en outre subordonnées à la consultation, par le ministre fédéral, de l’Office.
+- **(2)** La prise de tout règlement en vertu des alinéas (1)a) et d) à g) et la modification des règlements pris en vertu des alinéas b) et c) sont en outre subordonnées à la consultation, par le ministre fédéral, de l’Office.
 
 **Limite**
 
-- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1)b) les projets de développement :
-	- **a)** ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 59b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md);
-	- **b)** assujettis, individuellement ou par catégorie, à une étude environnementale approfondie du fait de la désignation prévue à l’alinéa 59d) de cette loi.
+- **(3)** Ne peuvent faire l’objet d’une exemption pour le motif prévu à l’alinéa 124(1) b) les projets de développement :
+	- **a)** ayant fait l’objet, individuellement ou par catégorie, de la désignation prévue à l’alinéa 59 b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md);
+	- **b)** assujettis, individuellement ou par catégorie, à une étude environnementale approfondie du fait de la désignation prévue à l’alinéa 59 d) de cette loi.
+> 1998, ch. 25, art. 143; 2005, ch. 1, art. 90.
+
 
 
 
@@ -2221,11 +2834,13 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **144** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement pris après consultation, par le ministre fédéral, de l’Office, des premières nations et du ministre territorial, modifier l’annexe afin d’y ajouter ou d’y supprimer le nom de tout organisme — exception faite des offices constitués en vertu des parties 3 ou 4 — auquel sont conférés, sous le régime des règles de droit fédérales ou territoriales, des pouvoirs de régulation et qui n’est pas assujetti à des mesures de contrôle ou d’orientation spécifiques d’un ministre des gouvernements fédéral ou territorial ou du gouverneur en conseil.
+- **(1)** Le gouverneur en conseil peut, par règlement pris après consultation, par le ministre fédéral, du ministre territorial, de l’Office, des premières nations et du gouvernement tlicho, modifier l’annexe afin d’y ajouter ou d’y supprimer le nom de tout organisme — exception faite des offices constitués en vertu des parties 3 ou 4 — auquel sont conférés, sous le régime des règles de droit fédérales ou territoriales, des pouvoirs de régulation et qui n’est pas assujetti à des mesures de contrôle ou d’orientation spécifiques d’un ministre des gouvernements fédéral ou territorial ou du gouverneur en conseil.
 
 **Exception**
 
 - **(2)** Ne constituent pas les mesures visées au paragraphe (1) l’assujettissement à une orientation générale sous forme de directives d’application générale, l’approbation des décisions de l’organisme ou le fait de les modifier ou de les annuler.
+> 1998, ch. 25, art. 144; 2005, ch. 1, art. 91.
+
 
 
 
@@ -2253,15 +2868,17 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 
 
-**Collaboration des premières nations**
+**Collaboration des premières nations et du gouvernement tlicho**
 
 **147** 
 
-- **(1)** Dans les cas où les attributions d’une autorité compétente sont exercées par un ministre du gouvernement fédéral, celui-ci est tenu de les exercer en collaboration avec les premières nations.
+- **(1)** Dans les cas où les attributions d’une autorité compétente sont exercées par un ministre du gouvernement fédéral, celui-ci est tenu de les exercer en collaboration avec les premières nations et le gouvernement tlicho.
 
-**Participation des premières nations**
+**Participation des premières nations et du gouvernement tlicho**
 
-- **(2)** Dans les cas où ces attributions sont conférées à toute autre personne ou organisme, les premières nations des Gwich’in et du Sahtu participent à leur exercice en conformité avec les règlements.
+- **(2)** Dans les cas où ces attributions sont conférées à toute autre personne ou organisme, les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho participent à leur exercice en conformité avec les règlements.
+> 1998, ch. 25, art. 147; 2005, ch. 1, art. 92.
+
 
 
 
@@ -2274,7 +2891,7 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **Mandat**
 
-- **(2)** Le ministre fédéral établit, après consultation des premières nations des Gwich’in et du Sahtu et du gouvernement territorial, le mandat du vérificateur; il y précise notamment les principales composantes de l’environnement à examiner.
+- **(2)** Le ministre fédéral établit, après consultation des premières nations des Gwich’in et du Sahtu, du gouvernement tlicho et du gouvernement territorial, le mandat du vérificateur; il y précise notamment les principales composantes de l’environnement à examiner.
 
 **Éléments**
 
@@ -2288,9 +2905,11 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 - **(4)** Le vérificateur adresse un rapport — dans lequel il peut formuler des recommandations — au ministre fédéral, qui le met à la disposition du public.
 
-**Participation des premières nations**
+**Participation des premières nations et du gouvernement tlicho**
 
-- **(5)** Les premières nations des Gwich’in et du Sahtu participent au processus de vérification en conformité avec les règlements.
+- **(5)** Les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho participent au processus de vérification en conformité avec les règlements.
+> 1998, ch. 25, art. 148; 2005, ch. 1, art. 93.
+
 
 
 
@@ -2304,10 +2923,12 @@ L’Office ne peut toutefois procéder de sa propre initiative à l’examen de 
 
 **Règlements**
 
-**150** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations concernées et du ministre territorial, prendre des règlements pour l’application de la présente partie, notamment en ce qui touche :
+**150** Le gouverneur en conseil peut, après consultation par le ministre fédéral des premières nations concernées, du gouvernement tlicho et du ministre territorial, prendre des règlements pour l’application de la présente partie, notamment en ce qui touche :
 - **a)** la collecte de données et l’analyse de celles-ci, de données scientifiques, de connaissances traditionnelles et d’autres renseignements sous le régime de l’article 146;
 - **b)** l’attribution à toute personne ou organisme des pouvoirs et fonctions d’une autorité compétente;
-- **c)** la participation des premières nations des Gwich’in et du Sahtu soit à l’exercice des attributions d’une autorité compétente — dans les cas où celles-ci n’ont pas été conférées à un ministre du gouvernement fédéral — , soit au processus de vérification.
+- **c)** la participation des premières nations des Gwich’in et du Sahtu et du gouvernement tlicho soit à l’exercice des attributions d’une autorité compétente — dans les cas où celles-ci n’ont pas été conférées à un ministre du gouvernement fédéral —, soit au processus de vérification.
+> 1998, ch. 25, art. 150; 2005, ch. 1, art. 94.
+
 
 
 
