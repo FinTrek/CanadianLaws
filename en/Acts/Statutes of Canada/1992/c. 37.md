@@ -1224,6 +1224,18 @@ the responsible authority may exercise any power or perform any duty or function
 
 - **(2.1)** Subject to section 41, where the Minister is required by subsection 28(2) to refer a proposal to a review panel, the Minister and the Mackenzie Valley Environmental Impact Review Board shall, in writing, jointly establish a review panel and prescribe the manner of its examination of the impact of the proposal on the environment.
 
+**Where no agreement**
+
+- **(2.2)** Despite subsection (2.1), if, in respect of a proposal referred to in subsection 138.1(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), no agreement is entered into under that subsection within the period fixed by the regulations referred to in subsection 138.1(4) of that Act, an assessment by a review panel of the proposal shall be conducted.
+
+**Coordination**
+
+- **(2.3)** The Minister shall to the extent possible ensure that any assessment of the proposal required by subsection (2.2) is coordinated with any environmental impact review of the proposal under the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
+
+**Consultation**
+
+- **(2.4)** Before taking a course of action under subsection 37(1) in respect of a proposal referred to in subsection (2.3), the responsible authority shall take into consideration any report in respect of the proposal that is issued under subsection 134(2) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) and shall consult the persons and bodies to whom the report is submitted or distributed under subsection 134(3) of that Act.
+
 **Review panels established jointly with another jurisdiction**
 
 - **(3)** Subject to section 41, where the referral of a project to a review panel is required or permitted by this Act and a jurisdiction referred to in paragraph (1)(e) or (f) has a responsibility or an authority to conduct an assessment of the environmental effects of the project or any part of it, the Minister and the Minister of Foreign Affairs may enter into an agreement or arrangement with that jurisdiction respecting the joint establishment of a review panel and the manner in which the environmental assessment of the project is to be conducted by the review panel.
@@ -1231,7 +1243,7 @@ the responsible authority may exercise any power or perform any duty or function
 **Publication of agreement for joint panel**
 
 - **(4)** Any agreement or arrangement referred to in subsection (2) or (3), and any document establishing a review panel under subsection (2.1), shall be published before the commencement of the hearings conducted by the review panel.
-> 1992, c. 37, s. 40; 1993, c. 34, s. 31(F); 1995, c. 5, s. 25; 1998, c. 25, s. 163; 2003, c. 9, s. 19.
+> 1992, c. 37, s. 40; 1993, c. 34, s. 31(F); 1995, c. 5, s. 25; 1998, c. 25, s. 163; 2003, c. 9, s. 19; 2005, c. 1, s. 99.
 
 
 
