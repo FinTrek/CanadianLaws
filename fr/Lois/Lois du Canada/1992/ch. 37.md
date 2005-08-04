@@ -1191,7 +1191,7 @@ b).
 	- **a)** d’une autorité fédérale;
 	- **b)** du gouvernement d’une province;
 	- **c)** de tout autre organisme établi sous le régime d’une loi provinciale ou fédérale ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet;
-	- **d)** de tout organisme, constitué aux termes d’un accord sur des revendications territoriales visé à l’article 35 de la *Loi constitutionnelle de 1982*, ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet;
+	- **d)** de tout organisme, constitué aux termes d’un accord sur des revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982, ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet;
 	- **e)** du gouvernement d’un État étranger, d’une subdivision politique d’un État étranger ou de l’un de leurs organismes;
 	- **f)** d’une organisation internationale d’États ou de l’un de ses organismes.
 
@@ -1205,6 +1205,18 @@ b).
 
 - **(2.1)** Sous réserve de l’article 41, dans les cas où il est tenu de soumettre l’affaire à un examen par une commission au titre du paragraphe 28(2), le ministre, de concert avec l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, procède à la constitution d’une commission conjointe et fixe, dans le document constitutif, les modalités d’examen des effets environnementaux du projet par celle-ci.
 
+**Examen par une commission en l’absence d’un accord**
+
+- **(2.2)** Malgré le paragraphe (2.1), faute de conclusion, dans le délai réglementaire prévu au paragraphe 138.1(4) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), de l’accord prévu au paragraphe 138.1(1) de cette loi, le projet visé à ce paragraphe fait l’objet d’un examen par une commission.
+
+**Coordination de l’examen avec toute étude d’impact**
+
+- **(2.3)** Le ministre veille, dans la mesure du possible, à ce que l’examen visé au paragraphe (2.2) soit coordonné avec toute étude d’impact du projet effectuée en vertu de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
+
+**Consultation**
+
+- **(2.4)** Avant de prendre la décision visée au paragraphe 37(1) à l’égard du projet visé au paragraphe (2.3), l’autorité responsable tient compte de tout rapport établi en vertu du paragraphe 134(2) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) à l’égard du projet et consulte les personnes et organismes qui doivent recevoir le rapport aux termes du paragraphe 134(3) de cette loi.
+
 **Examen conjoint**
 
 - **(3)** Sous réserve de l’article 41, dans le cas où ils estiment qu’un examen par une commission est nécessaire ou possible et où une instance visée aux alinéas (1)e) ou f) a la responsabilité ou le pouvoir d’entreprendre l’évaluation des effets environnementaux de tout ou partie du projet, le ministre et le ministre des Affaires étrangères peuvent conclure avec l’instance visée un accord relatif à la constitution conjointe d’une commission et aux modalités de l’évaluation environnementale du projet par celle-ci.
@@ -1212,7 +1224,7 @@ b).
 **Publicité**
 
 - **(4)** Les accords visés aux paragraphes (2) ou (3), ainsi que les documents visés au paragraphe (2.1), sont publiés avant le début des audiences de la commission conjointe.
-> 1992, ch. 37, art. 40; 1993, ch. 34, art. 31(F); 1995, ch. 5, art. 25; 1998, ch. 25, art. 163; 2003, ch. 9, art. 19.
+> 1992, ch. 37, art. 40; 1993, ch. 34, art. 31(F); 1995, ch. 5, art. 25; 1998, ch. 25, art. 163; 2003, ch. 9, art. 19; 2005, ch. 1, art. 99.
 
 
 
