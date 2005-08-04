@@ -206,6 +206,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Collectivités tlichos
+
+
+
+**Exception**
+
+**9.1** 
+
+- **(1)** Les articles 8 et 9 ne s’appliquent pas à l’égard de l’utilisation des eaux ou du dépôt de déchets dans une collectivité tlicho si un règlement municipal établi par l’administration locale de cette collectivité prévoit, à l’égard du type d’utilisation ou de dépôt projeté, qu’il n’est pas requis d’obtenir un permis.
+
+**Terminologie**
+
+- **(2)** Au paragraphe (1), les expressions ***administration locale*** et ***collectivité tlicho*** s’entendent au sens de l’article 2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
+> 2005, ch. 1, art. 103.
+
+
+
+
+
 ## Office des eaux des territoires du Nord-Ouest
 
 
@@ -333,7 +352,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** La délivrance est subordonnée à l’agrément :
 	- **a)** dans le cas d’un permis de type A, du ministre;
 	- **b)** dans le cas d’un permis de type B, du président de l’Office si la demande ne fait pas l’objet d’une audience publique par l’Office ou du ministre dans le cas contraire.
-> 1992, ch. 39, art. 14; 1998, ch. 25, art. 166; 2002, ch. 10, art. 184.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(7)** Il est entendu que les permis délivrés par l’Office sous le régime de la présente loi, avant ou après l’entrée en vigueur du présent paragraphe, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 1992, ch. 39, art. 14; 1998, ch. 25, art. 166; 2002, ch. 10, art. 184; 2005, ch. 1, art. 104.
 
 
 
