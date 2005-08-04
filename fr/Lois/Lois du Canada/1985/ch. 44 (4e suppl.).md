@@ -96,7 +96,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** La présente loi ne s’applique pas aux actes accomplis, dans le cadre de leurs attributions, par les personnes suivantes :
+- **(1)** La présente loi ne s’applique pas aux actes accomplis, dans le cadre de leurs attributions, par les personnes suivantes :
 	- **a)** les députés provinciaux et leur personnel;
 	- **b)** les employés d’un gouvernement provincial;
 	- **c)** les membres d’un conseil ou autre organisme créé par une loi et chargé de la conduite des affaires municipales d’une administration locale — cité, ville, village, municipalité ou district — , leur personnel et les employés d’une telle administration;
@@ -109,7 +109,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Idem**
 
-- **(2)** La présente loi ne s’applique pas dans les cas suivants :
+- **(2)** La présente loi ne s’applique pas dans les cas suivants :
 	- **a)** présentation d’observations, orales ou écrites, soit à un comité du Sénat ou de la Chambre des communes, ou à un comité mixte, soit, dans le cadre de procédures dont l’existence peut être connue du public, à une personne ou à un organisme dont les pouvoirs ou la compétence sont conférés sous le régime d’une loi fédérale;
 	- **b)** communication orale ou écrite, faite par un mandataire au titulaire d’une charge publique portant sur l’exécution, l’interprétation ou l’application, par celui-ci, d’une loi fédérale ou d’un règlement d’application de celle-ci à l’égard de la personne ou de l’organisation mandante;
 	- **c)** communication orale ou écrite, faite par le mandataire d’une personne ou d’une organisation au titulaire d’une charge publique et qui se limite à une demande de renseignements.
