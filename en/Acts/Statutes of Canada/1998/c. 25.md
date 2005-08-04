@@ -57,7 +57,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***federal Minister*** means the Minister of Indian Affairs and Northern Development.
 
-***first nation*** means the Gwich’in First Nation, the Sahtu First Nation or bodies representing other Dene or Metis of the North Slave, South Slave or Deh Cho region of the Mackenzie Valley.
+***first nation*** means the Gwich’in First Nation, the Sahtu First Nation or bodies representing other Dene or Metis of the North Slave, South Slave or Deh Cho region of the Mackenzie Valley, but does not include the Tlicho First Nation or the Tlicho Government.
 
 ***Gwich’in Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Gwich’in as represented by the Gwich’in Tribal Council, signed on April 22, 1992 and approved, given effect and declared valid by the [Gwich’in Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md), as that Agreement is amended from time to time in accordance with its provisions.
 
@@ -67,27 +67,44 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***heritage resources*** means archaeological or historic sites, burial sites, artifacts and other objects of historical, cultural or religious significance, and historical or cultural records.
 
-***land claim agreement*** means the Gwich’in Agreement or the Sahtu Agreement.
+***land claim agreement*** means the Gwich’in Agreement, the Sahtu Agreement or the Tlicho Agreement.
 
-***local government*** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community or settlement, whether incorporated or not, and includes the territorial government acting in the place of a local government pursuant to those laws.
+***local government*** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community, settlement or government of a Tlicho community, whether incorporated or not, and includes the territorial government acting in the place of a local government pursuant to those laws.
 
- 
-***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by Yukon, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the 
-[Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md) , and on the east by the Nunavut Settlement Area, as defined in the 
-[Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md) , but does not include Wood Buffalo National Park of Canada.
+***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by Yukon, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md) , and on the east by the Nunavut Settlement Area, as defined in the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md) , but does not include Wood Buffalo National Park of Canada.
+
+***Monfwi Gogha De Niitlee*** means the area described in part 1 of the appendix to chapter 1 of the Tlicho Agreement.
 
 ***Sahtu Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Sahtu Dene and Metis as represented by the Sahtu Tribal Council, signed on September 6, 1993 and approved, given effect and declared valid by the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md), as that Agreement is amended from time to time in accordance with its provisions.
 
 ***Sahtu First Nation*** means the Sahtu Dene and Metis as represented by The Sahtu Secretariat Incorporated, a corporation without share capital under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, being the successor, for the purposes of this Act, to the Sahtu Tribal Council referred to in the Sahtu Agreement, or by any successor to that corporation.
 
-***settlement area*** means a portion of the Mackenzie Valley to which a land claim agreement applies.
+***settlement area*** means the area described in appendix A to the Gwich’in Agreement or in appendix A to the Sahtu Agreement.
 
-***settlement lands*** means lands referred to as settlement lands in a land claim agreement.
+***settlement lands*** means lands referred to as settlement lands in the Gwich’in Agreement or the Sahtu Agreement.
 
 ***territorial government*** means the government of the Northwest Territories.
 
+***territorial law*** means an ordinance of the Northwest Territories and any regulations made under such an ordinance.
+
 ***territorial Minister***, in relation to any provision of this Act, means the minister of the territorial government designated by instrument of the Executive Council of the Northwest Territories for the purposes of that provision.
-> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E).
+
+***Tlicho Agreement*** means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003 and approved, given effect and declared valid by the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md), as that Agreement is amended from time to time in accordance with its provisions.
+
+***Tlicho citizen*** means a person whose name is on the Register as defined in chapter 1 of the Tlicho Agreement.
+
+***Tlicho community*** means a community for which a community government is established in accordance with chapter 8 of the Tlicho Agreement.
+
+***Tlicho First Nation*** means the aboriginal people of Canada to whom section 35 of the Constitution Act, 1982 applies, consisting of all Tlicho citizens.
+
+***Tlicho Government*** means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Tlicho Agreement.
+
+***Tlicho lands*** means Tlicho lands as defined in chapter 1 of the Tlicho Agreement.
+
+***Tlicho law*** means a law enacted by the Tlicho Government.
+
+***Wekeezhii*** means the area described in part 2 of the appendix to chapter 1 of the Tlicho Agreement.
+> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15.
 
 
 
@@ -119,6 +136,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** A first nation may, in conformity with its land claim agreement, delegate any of the functions of the first nation under this Act to an aboriginal organization designated by it.
 
+**Delegation by Tlicho Government**
+
+- **(4)** The Tlicho Government may, in conformity with the Tlicho Agreement, delegate any of its functions under this Act to
+	- **(a)** a body or office established by a Tlicho law;
+	- **(b)** any department, agency or office of the federal or the territorial government;
+	- **(c)** a board or other public body established by or under an Act of Parliament or by a territorial law; or
+	- **(d)** a local government.
+> 1998, c. 25, s. 4; 2005, c. 1, s. 16.
+
+
 
 
 
@@ -131,6 +158,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
+
+
+
+
+**Agreement between Tlicho Government and another aboriginal people**
+
+**5.1** The rights of the Tlicho First Nation, Tlicho citizens and the Tlicho Government under this Act are subject to the provisions of any agreement entered into between the Tlicho Government and an aboriginal people, other than the Tlicho First Nation, under 2.7.3 of chapter 2 of the Tlicho Agreement.
+> 2005, c. 1, s. 17.
+
 
 
 
@@ -157,11 +193,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **8** 
 
-- **(1)** The federal Minister shall consult the first nations with respect to the amendment of this Act.
+- **(1)** The federal Minister shall consult the first nations and the Tlicho Government with respect to the amendment of this Act.
 
 **Review of Act**
 
 - **(2)** The federal Minister shall, in the course of any negotiations with a first nation relating to self-government, review the pertinent provisions of this Act in consultation with that first nation.
+> 1998, c. 25, s. 8; 2005, c. 1, s. 18.
+
 
 
 
@@ -200,13 +238,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **11** 
 
-- **(1)** The members of a board, other than the chairperson and any special members appointed under section 15, shall be appointed by the federal Minister and, to the extent provided in Parts 2 to 5, shall be nominated by a first nation or the territorial Minister or following consultation with first nations.
+- **(1)** The members of a board — other than the chairperson, any members appointed pursuant to a determination under section 15 and any members appointed by the Tlicho Government under subsection 57.1(2) or in accordance with an agreement referred to in that subsection — shall be appointed by the federal Minister in accordance with Parts 2 to 5.
 
 **Alternate members**
 
-- **(2)** The federal Minister may appoint
+- **(2)** Except in the case of the Wekeezhii Land and Water Board, the federal Minister may appoint
 	- **(a)** alternate members selected from persons nominated for that purpose by a first nation, or selected following consultation with first nations, to act in the event of the absence or incapacity of members appointed on such nomination or following such consultation, respectively; and
 	- **(b)** alternate members agreed to by the territorial Minister to act in the event of the absence or incapacity of members other than members referred to in paragraph (a).
+> 1998, c. 25, s. 11; 2005, c. 1, s. 19.
+
 
 
 
@@ -215,15 +255,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **12** 
 
-- **(1)** The chairperson of a board shall be appointed by the federal Minister from persons nominated by a majority of the members.
+- **(1)** Except in the case of the Wekeezhii Land and Water Board, the chairperson of a board shall be appointed by the federal Minister from persons nominated by a majority of the members.
 
 **Appointment by federal Minister**
 
-- **(2)** If a majority of the members does not nominate a person acceptable to the federal Minister within a reasonable time, the Minister may appoint any person as chairperson of the board.
+- **(2)** Except in the case of the Wekeezhii Land and Water Board, if a majority of the members does not nominate a person acceptable to the federal Minister within a reasonable time, the Minister may appoint any person as chairperson of the board.
+
+**Wekeezhii Land and Water Board**
+
+- **(2.1)** The chairperson of the Wekeezhii Land and Water Board shall be appointed jointly by the federal Minister and the Tlicho Government on the nomination of the members of the Board other than the chairperson.
 
 **Absence or incapacity of chairperson**
 
 - **(3)** The board may designate a member to act as its chairperson during the absence or incapacity of the chairperson or a vacancy in the office of chairperson, and that person while so acting may exercise the powers and shall perform the duties of the chairperson.
+> 1998, c. 25, s. 12; 2005, c. 1, s. 20.
+
 
 
 
@@ -245,26 +291,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** A member may be reappointed in the same or another capacity.
 
-**Removal after consultation**
+**Removal by federal Minister after consultation**
 
-- **(3)** A member may not be removed from office except after consultation by the federal Minister with the board and, where applicable, with the territorial Minister or the first nation that nominated the member.
+- **(3)** A member who has been appointed by the federal Minister may not be removed from office except after consultation by the federal Minister with the board and, where applicable, with the territorial Minister, the first nation or the Tlicho Government that nominated the member.
+
+**Removal by Tlicho Government after consultation**
+
+- **(4)** A member of the Wekeezhii Land and Water Board who has been appointed by the Tlicho Government may not be removed from office except after consultation by the Tlicho Government with the Board and the federal Minister.
+> 1998, c. 25, s. 14; 2005, c. 1, s. 21.
 
 
 
 
-**Nominations by other aboriginal groups**
 
-**15** 
+**Implementation of right of representation of other aboriginal peoples**
 
-- **(1)** In any case where the Gwich’in Agreement or Sahtu Agreement provides a right of representation, in respect of a decision of a board, to aboriginal persons who are party to an agreement with Her Majesty in right of Canada for the settlement of a claim to lands in the Northwest Territories adjacent to the Mackenzie Valley, those aboriginal persons may nominate a person for appointment as a special member of the board.
+**15** Despite any provision of this Act respecting members of a board, if an aboriginal people has a right under a land claim agreement to representation on that board in relation to a decision of the board that might affect an area used by that aboriginal people that is outside the board’s area of jurisdiction, the board shall, in accordance with that land claim agreement, determine how to implement that right.
+> 1998, c. 25, s. 15; 2005, c. 1, s. 22.
 
-**Nominations by Ministers**
-
-- **(2)** Where a nomination is made pursuant to subsection (1), the federal and territorial Ministers may nominate another person for appointment as a special member of the board for the purpose of maintaining the proportion, under any other provision of this Act, of members appointed to the board on the nomination of or following consultation with first nations and other members of the board.
-
-**Appointment of nominees**
-
-- **(3)** Notwithstanding any provision of this Act respecting the number of persons who may be members of a board, a person nominated pursuant to subsection (1) or (2) shall be appointed by the board as a special member to act in relation to the decision referred to in subsection (1).
 
 
 
@@ -277,7 +321,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Status or entitlements under agreement**
 
-- **(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich’in Agreement or Sahtu Agreement or under any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands.
+- **(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands.
+> 1998, c. 25, s. 16; 2005, c. 1, s. 23.
+
 
 
 
@@ -286,11 +332,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **17** 
 
-- **(1)** Members of a board, other than special members referred to in section 15, shall be paid such fees or other remuneration as the federal Minister may fix.
+- **(1)** Members of a board, other than any members appointed pursuant to a determination under section 15, shall be paid such fees or other remuneration as the federal Minister may fix.
 
 **Expenses**
 
 - **(2)** Such members shall be paid such travel and living expenses, incurred by them while absent from their ordinary place of residence in the course of performing their duties, as are consistent with directives of the Treasury Board.
+> 1998, c. 25, s. 17; 2005, c. 1, s. 24.
+
 
 
 
@@ -343,7 +391,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Government information**
 
-**22** Subject to any other federal or territorial law, a board may obtain from any department or agency of the federal or territorial government any information in the possession of the department or agency that the board requires for the performance of its functions.
+**22** Subject to any other federal or territorial law and to any Tlicho law, a board may obtain from any department or agency of the federal or territorial government or the Tlicho Government any information in the possession of the department or agency or the Tlicho Government that the board requires for the performance of its functions.
+> 1998, c. 25, s. 22; 2005, c. 1, s. 25.
+
 
 
 
@@ -357,13 +407,24 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Hearings**
 
-**24** 
+**24** In addition to hearings that a board is authorized or required to hold under this Act, a board may conduct any hearings that it considers to be desirable for the purpose of carrying out any of its functions.
+> 1998, c. 25, s. 24; 2005, c. 1, s. 26.
 
-- **(1)** In addition to hearings that a board is authorized or required to hold under this Act, a board may conduct any hearings that it considers to be desirable for the purpose of carrying out any of its functions.
+
+
+
 
 **Coordination**
 
-- **(2)** Subject to this Act, the boards shall coordinate their respective hearings in order to avoid duplication.
+**24.1** A board shall coordinate its activities, including hearings, with the activities of
+- **(a)** other boards;
+- **(b)** departments and agencies of the federal government that have responsibility for the administration, management and control of parks to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies or lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
+- **(c)** committees established under any of the land claim agreements for the management of parks to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies;
+- **(d)** committees, or similar bodies, established for the management of protected areas as defined in any of the land claim agreements;
+- **(e)** renewable resources boards established under any of the land claim agreements; and
+- **(f)** land use planning bodies established for Wekeezhii or any part of Wekeezhii.
+> 2005, c. 1, s. 26.
+
 
 
 
@@ -462,23 +523,35 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **31** 
 
-- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment thereto under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 82(1), directions under section 106 or guidelines under section 120.
+- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment thereto under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 83(1) or (2), directions under section 106, policy directions under section 109 or 109.1 or guidelines under section 120.
 
 **Notice in Canada Gazette**
 
 - **(2)** A notice shall be published in the Canada Gazette immediately after policy directions are received by a board, a land use plan or amendment thereto is approved, or any other instrument referred to in subsection (1) is made or issued, stating that copies thereof are available to the public at the main office of the board and at such other locations as the board considers appropriate.
 
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** For greater certainty, permits issued by a board under Part 3 or 4 either before or after the coming into force of this subsection are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 1998, c. 25, s. 31; 2005, c. 1, s. 27.
 
 
 
-### Judicial Review
+
+
+### Jurisdiction of Courts
 
 
 
-**Jurisdiction**
+**Concurrent jurisdiction**
 
-**32** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Northwest Territories for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
-> 1998, c. 25, s. 32; 2002, c. 8, s. 182.
+**32** 
+
+- **(1)** Notwithstanding the exclusive jurisdiction referred to in section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application to the Supreme Court of the Northwest Territories for any relief against a board by way of an injunction or declaration or by way of an order in the nature of *certiorari*, *mandamus*, *quo warranto* or prohibition.
+
+**Exclusive original jurisdiction**
+
+- **(2)** Despite subsection (1) and section 18 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Supreme Court of the Northwest Territories has exclusive original jurisdiction to hear and determine any action or proceeding, whether or not by way of an application of a type referred to in subsection (1), concerning the jurisdiction of the Mackenzie Valley Land and Water Board or the Mackenzie Valley Environmental Impact Review Board.
+> 1998, c. 25, s. 32; 2002, c. 8, s. 182; 2005, c. 1, s. 28.
 
 
 
@@ -771,7 +844,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **51** The definitions in this section apply in this Part.
 
-***board*** means the Gwich’in Land and Water Board or the Sahtu Land and Water Board established by sections 54 and 56, respectively.
+***board*** means the Gwich’in Land and Water Board, the Sahtu Land and Water Board or the Wekeezhii Land and Water Board established by sections 54, 56 and 57.1, respectively.
 
 ***first nation lands***, in relation to a first nation, means
 - **(a)** settlement lands of the first nation; or
@@ -781,12 +854,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***licence*** means a licence for the use of waters or the deposit of waste, or both, issued by a board under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) and this Part, and “licensee” has a corresponding meaning.
 
+***management area*** means an area in respect of which a board has been established, namely,
+- **(a)** in the case of the Gwich’in Land and Water Board, the area described in appendix A to the Gwich’in Agreement;
+- **(b)** in the case of the Sahtu Land and Water Board, the area described in appendix A to the Sahtu Agreement; and
+- **(c)** in the case of the Wekeezhii Land and Water Board, Wekeezhii.
+
 ***permit*** means a permit for the use of land issued by a board under this Part, and “permittee” has a corresponding meaning.
 
 ***water authority*** means a board or other authority having jurisdiction in relation to the use of waters or the deposit of waste in any portion of the Northwest Territories or Nunavut.
 
 ***waters*** means any inland waters, whether in a liquid or frozen state, on or below the surface of land.
-> 1998, c. 15, s. 48, c. 25, s. 51.
+> 1998, c. 15, s. 48, c. 25, s. 51; 2005, c. 1, s. 29.
 
 
 
@@ -796,16 +874,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **52** 
 
-- **(1)** This Part, except sections 78 and 79, does not apply in respect of the use of land or waters or the deposit of waste within a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies or within lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md).
+- **(1)** This Part, except sections 78, 79, 79.2 and 79.3, does not apply in respect of the use of land or waters or the deposit of waste within a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies or within lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md).
 
 **Consultation with board**
 
-- **(2)** Notwithstanding subsection (1), an authority responsible for authorizing uses of land or waters or deposits of waste in a portion of a settlement area excluded by that subsection from the application of this Part shall consult the board established for the settlement area before authorizing any such use or deposit.
+- **(2)** Notwithstanding subsection (1), an authority responsible for authorizing uses of land or waters or deposits of waste in a portion of a management area excluded by that subsection from the application of this Part shall consult the board established for that management area before authorizing any such use or deposit.
 
 **Consultation with authority**
 
-- **(3)** A board established for a settlement area shall consult a responsible authority referred to in subsection (2) before issuing a licence, permit or authorization for a use of land or waters or deposit of waste that may have an effect in the portion of the settlement area in which the authority is responsible.
-> 1998, c. 25, s. 52; 2000, c. 32, s. 53.
+- **(3)** A board shall consult a responsible authority referred to in subsection (2) before issuing a licence, permit or authorization for a use of land or waters or deposit of waste that may have an effect in the portion of the management area in which the authority is responsible.
+> 1998, c. 25, s. 52; 2000, c. 32, s. 53; 2005, c. 1, s. 30.
 
 
 
@@ -884,13 +962,60 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+### Wekeezhii Land and Water Board
+
+
+
+**Board established**
+
+**57.1** 
+
+- **(1)** There is hereby established, in respect of Wekeezhii, a board to be known as the Wekeezhii Land and Water Board.
+
+**Membership**
+
+- **(2)** The Board shall consist of five members including, apart from the chairperson, two members who, subject to any agreement between the Tlicho Government and an aboriginal people of Canada to whom section 35 of the Constitution Act, 1982 applies, other than the Tlicho First Nation, are appointed by the Tlicho Government and one member who is appointed on the nomination of the territorial Minister.
+
+**Consultation**
+
+- **(3)** The federal Minister and the Tlicho Government shall consult each other before making their appointments.
+
+**Quorum**
+
+- **(4)** A quorum of the Board consists of three members, or any larger number that is determined by the Board, including one of the members appointed by the Tlicho Government or in accordance with any agreement referred to in subsection (2) and one of the members appointed by the federal Minister, other than the chairperson.
+> 2005, c. 1, s. 31.
+
+
+
+
+
+**Main office**
+
+**57.2** The main office of the Board shall be located in Wekeezhii.
+> 2005, c. 1, s. 31.
+
+
+
+
+
 ### General Provisions
 
 
 
-**Objectives**
+**Objectives — Gwich’in and Sahtu Land and Water Boards**
 
-**58** A board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit to the residents of the settlement area and of the Mackenzie Valley and to all Canadians.
+**58** The Gwich’in Land and Water Board and the Sahtu Land and Water Board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit for residents of their respective management areas and of the Mackenzie Valley and for all Canadians.
+> 1998, c. 25, s. 58; 2005, c. 1, s. 32.
+
+
+
+
+
+**Objectives — Wekeezhii Land and Water Board**
+
+**58.1** The Wekeezhii Land and Water Board shall regulate the use of land and waters and the deposit of waste so as to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit generally for all Canadians and in particular for residents of its management area.
+> 2005, c. 1, s. 32.
+
 
 
 
@@ -899,11 +1024,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **59** 
 
-- **(1)** A board established for a settlement area has jurisdiction in respect of all uses of land in the settlement area for which a permit is required under this Part and may, in accordance with the regulations, issue, amend, renew, suspend and cancel permits and authorizations for the use of land, and approve the assignment of permits.
+- **(1)** A board has jurisdiction in respect of all uses of land in its management area for which a permit is required under this Part and may, in accordance with the regulations, issue, amend, renew, suspend and cancel permits and authorizations for the use of land, and approve the assignment of permits.
 
 **Subsurface rights**
 
 - **(2)** For greater certainty, the jurisdiction of a board under subsection (1) includes a use of land that is required for the exercise of subsurface rights.
+> 1998, c. 25, s. 59; 2005, c. 1, s. 33.
+
 
 
 
@@ -912,18 +1039,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **60** 
 
-- **(1)** A board established for a settlement area has jurisdiction in respect of all uses of waters and deposits of waste in the settlement area for which a licence is required under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) and may
+- **(1)** A board has jurisdiction in respect of all uses of waters and deposits of waste in its management area for which a licence is required under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) and may
 	- **(a)** issue, amend, renew and cancel licences and approve the assignment of licences, in accordance with that Act, and
 	- **(b)** exercise any other power of the Northwest Territories Water Board under that Act,
-and, for those purposes, references in that Act to that Board shall be read as references to the board established for the settlement area.
+and, for those purposes, references in that Act to that Board shall be read as references to the board.
 
 **Suspension power**
 
 - **(2)** A board may suspend a licence for a specified period or until terms and conditions specified by the board are complied with, where the licensee contravenes a provision of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or of this Part or a term or condition of the licence.
 
-**Effect outside settlement area**
+**Effect outside management area**
 
-- **(3)** In respect of a use of waters or deposit of waste in the settlement area that has an effect in a region of the Northwest Territories or Nunavut outside the settlement area, subsections 14(4) and (5) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) apply in relation to the protection of the rights of licensees and other persons referred to in those subsections who are in such a region.
+- **(3)** In respect of a use of waters or deposit of waste in a management area that has an effect in a region of the Northwest Territories or Nunavut outside the management area, subsections 14(4) and (5) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) apply in relation to the protection of the rights of licensees and other persons referred to in those subsections who are in such a region.
 
 **Inuit-owned lands**
 
@@ -931,20 +1058,48 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 **[Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md)**
 
-- **(4)** Notwithstanding subsection (1), the following provisions of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) do not apply in respect of a settlement area for which a board has been established, namely, sections 10 to 13, subsection 14(6), sections 20 and 22, paragraphs 23(1)(b) and (2)(b), section 24, section 26 except in relation to type A licences under that Act, sections 27 and 28 and subsection 37(2).
+- **(4)** Notwithstanding subsection (1), the following provisions of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) do not apply in respect of a management area, namely, sections 10 to 13, subsection 14(6), sections 20 and 22, paragraphs 23(1)(b) and (2)(b), section 24, section 26 except in relation to type A licences under that Act, sections 27 and 28 and subsection 37(2).
 
 **[Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md)**
 
-- **(5)** Notwithstanding subsection (1), section 31 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) does not apply in respect of first nation lands.
-> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178.
+- **(5)** Notwithstanding subsection (1), section 31 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) does not apply in respect of first nation lands or Tlicho lands.
+> 1998, c. 15, s. 48, c. 25, s. 60; 2002, c. 10, s. 178; 2005, c. 1, s. 34.
 
 
 
 
 
-**Conformity with land use plan under Part 2**
+**Considerations**
 
-**61** A board may not issue a licence, permit or authorization or make an amendment to a licence, permit or authorization except in accordance with an applicable land use plan under Part 2.
+**60.1** In exercising its powers, a board shall consider
+- **(a)** the importance of conservation to the well-being and way of life of the aboriginal peoples of Canada to whom section 35 of the Constitution Act, 1982 applies and who use an area of the Mackenzie Valley; and
+- **(b)** any traditional knowledge and scientific information that is made available to it.
+> 2005, c. 1, s. 35.
+
+
+
+
+
+**Conformity with land use plan — Gwich’in and Sahtu Boards**
+
+**61** 
+
+- **(1)** The Gwich’in Land and Water Board and the Sahtu Land and Water Board may not issue, amend or renew a licence, permit or authorization except in accordance with an applicable land use plan under Part 2.
+
+**Conformity with land use plan — Wekeezhii Board**
+
+- **(2)** The Wekeezhii Land and Water Board may not issue, amend or renew a licence, permit or authorization except in accordance with any land use plan, established under a federal, territorial or Tlicho law, that is applicable to any part of its management area.
+> 1998, c. 25, s. 61; 2005, c. 1, s. 35.
+
+
+
+
+
+**Conformity with Tlicho laws — Wekeezhii Board**
+
+**61.1** The Wekeezhii Land and Water Board may not exercise its discretionary powers relating to the use of Tlicho lands except in accordance with any Tlicho laws enacted under 7.4.2 of chapter 7 of the Tlicho Agreement.
+> 2005, c. 1, s. 35.
+
 
 
 
@@ -964,7 +1119,17 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 **Notice of applications**
 
-- **(2)** A board shall notify affected communities or first nations of an application made to the board for a licence or permit and allow a reasonable period of time for them to make representations to the board with respect to the application.
+- **(2)** A board shall notify affected communities and first nations of an application made to the board for a licence, permit or authorization and allow a reasonable period of time for them to make representations to the board with respect to the application.
+
+**Notice to Tlicho Government**
+
+- **(3)** The Wekeezhii Land and Water Board shall notify the Tlicho Government of an application made to the Board for a licence, permit or authorization and allow a reasonable period of time for it to make representations to the Board with respect to the application.
+
+**Consultation with Tlicho Government**
+
+- **(4)** The Wekeezhii Land and Water Board shall consult the Tlicho Government before issuing, amending or renewing any licence, permit or authorization for a use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters.
+> 1998, c. 25, s. 63; 2005, c. 1, s. 36.
+
 
 
 
@@ -973,11 +1138,13 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 **64** 
 
-- **(1)** A board shall seek and consider the advice of any affected first nation and any appropriate department or agency of the federal or territorial government respecting the presence of heritage resources that might be affected by a use of land or waters or a deposit of waste proposed in an application for a licence or permit.
+- **(1)** A board shall seek and consider the advice of any affected first nation and, in the case of the Wekeezhii Land and Water Board, the Tlicho Government and any appropriate department or agency of the federal or territorial government respecting the presence of heritage resources that might be affected by a use of land or waters or a deposit of waste proposed in an application for a licence or permit.
 
 **Wildlife resources**
 
-- **(2)** A board shall seek and consider the advice of the renewable resources board established by the land claim agreement applicable in the settlement area respecting the presence of wildlife and wildlife habitat that might be affected by a use of land or waters or a deposit of waste proposed in an application for a licence or permit.
+- **(2)** A board shall seek and consider the advice of the renewable resources board established by the land claim agreement applicable in its management area respecting the presence of wildlife and wildlife habitat that might be affected by a use of land or waters or a deposit of waste proposed in an application for a licence or permit.
+> 1998, c. 25, s. 64; 2005, c. 1, s. 37.
+
 
 
 
@@ -1002,10 +1169,7 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 
 
-
-**Recommendations to Minister**
-
-**68** The board may, and at the request of the federal Minister shall, make recommendations to the federal Minister with respect to the amendment of this Act or the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or the making or amendment of any instrument pursuant to this Act or that Act.
+**68** [Repealed, 2005, c. 1, s. 38]
 
 
 
@@ -1079,7 +1243,15 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 **Wildlife harvesting and traditional use**
 
-**73** Notwithstanding sections 8 and 9 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), the Gwich’in First Nation and the Sahtu First Nation have the right to use waters or to deposit waste without a licence for purposes of trapping and non-commercial wildlife harvesting other than trapping, for purposes of transportation related to those activities and for traditional heritage, cultural and spiritual purposes.
+**73** 
+
+- **(1)** Notwithstanding sections 8 and 9 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), the Gwich’in First Nation and the Sahtu First Nation have the right to use waters or to deposit waste without a licence for purposes of trapping and non-commercial wildlife harvesting other than trapping, for purposes of transportation related to those activities and for traditional heritage, cultural and spiritual purposes.
+
+**Wildlife harvesting and traditional use — Tlicho citizens**
+
+- **(2)** Despite sections 8 and 9 of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) — and subject to any applicable Tlicho laws and, in relation to waters that are on settlement lands, any limitations under the applicable land claim agreement that are of the same type as those that apply in relation to waters on Tlicho lands — Tlicho citizens have the right to use water in the part of Monfwi Gogha De Niitlee that is in the Northwest Territories without a licence, for purposes of wildlife harvesting under 10.1.1 of chapter 10 of the Tlicho Agreement, for purposes of transportation related to such wildlife harvesting and for heritage, cultural or spiritual purposes of the Tlicho First Nation.
+> 1998, c. 25, s. 73; 2005, c. 1, s. 39.
+
 
 
 
@@ -1098,25 +1270,29 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 
 
-**Issuance of licences, etc.**
+**Issuance, amendment or renewal of licences, etc.**
 
-**76** A board may issue a licence, permit or authorization where the use of land or waters or the deposit of waste proposed by the applicant would, in the opinion of the board, interfere with a first nation’s rights under section 75, if the board is satisfied that
+**76** The Gwich’in Land and Water Board or the Sahtu Land and Water Board may issue, amend or renew a licence, permit or authorization where the use of land or waters or the deposit of waste proposed by the applicant would, in the opinion of the board, interfere with a first nation’s rights under section 75, if the board is satisfied that
 - **(a)** there is no alternative that could reasonably satisfy the requirements of the applicant;
 - **(b)** there are no reasonable measures by which the applicant could avoid the interference; and
 - **(c)** in the case of a licence, the requirements of section 77 are satisfied.
+> 1998, c. 25, s. 76; 2005, c. 1, s. 40.
 
 
 
 
-### Compensation
+
+### Compensation — Gwich’in and Sahtu First Nations
 
 
 
-**Conditions for issuing licence**
+**Conditions for licence**
 
-**77** A board may not issue a licence pursuant to section 76 unless
+**77** The Gwich’in Land and Water Board or the Sahtu Land and Water Board may not issue, amend or renew a licence pursuant to section 76 unless
 - **(a)** the applicant and the first nation enter into an agreement to compensate the first nation for any loss or damage resulting from any substantial alteration to the quality, quantity or rate of flow of waters when on or flowing through its first nation lands, or waters adjacent to its first nation lands; or
 - **(b)** the applicant or the first nation applies to the board for a determination pursuant to subsection 79(1).
+> 1998, c. 25, s. 77; 2005, c. 1, s. 41.
+
 
 
 
@@ -1125,9 +1301,9 @@ and, for those purposes, references in that Act to that Board shall be read as r
 
 **78** 
 
-- **(1)** Where a board established for a settlement area determines that a use of waters or a deposit of waste that is proposed, in an application made to a water authority, to be carried out in
-	- **(a)** an area of the Northwest Territories or Nunavut outside the settlement area, or
-	- **(b)** a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies, or lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), in the settlement area
+- **(1)** If the Gwich’in Land and Water Board or the Sahtu Land and Water Board determines that a use of waters or a deposit of waste that is proposed, in an application made to a water authority, to be carried out in
+	- **(a)** an area of the Northwest Territories or Nunavut outside the board’s management area, or
+	- **(b)** a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies, or lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), in the board’s management area
 would be likely to substantially alter the quality, quantity or rate of flow of waters when on or flowing through first nation lands of the Gwich’in or Sahtu First Nation or waters adjacent to those first nation lands, the board shall notify the water authority in writing of its determination.
 
 **Access to information**
@@ -1139,7 +1315,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(3)** Notwithstanding any other Act, a water authority that is notified by a board under subsection (1) may not authorize the proposed use of waters or deposit of waste unless
 	- **(a)** the applicant and the first nation have entered into an agreement to compensate the first nation for any loss or damage resulting from the alteration; or
 	- **(b)** the applicant or the first nation applies to the board for a determination pursuant to subsection 79(1).
-> 1998, c. 15, s. 48, c. 25, s. 78; 2000, c. 32, s. 54.
+> 1998, c. 15, s. 48, c. 25, s. 78; 2000, c. 32, s. 54; 2005, c. 1, s. 42.
 
 
 
@@ -1149,17 +1325,83 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **79** 
 
-- **(1)** If a compensation agreement referred to in section 77 or 78 is not entered into within the period allowed by the rules of the board, the applicant or the first nation may apply to the board for a determination of compensation.
+- **(1)** If a compensation agreement referred to in section 77 or 78 is not entered into within the period allowed by the rules of the Gwich’in Land and Water Board or the Sahtu Land and Water Board, as the case may be, the applicant or the first nation may apply to the board for a determination of compensation.
 
 **Determination of compensation**
 
 - **(2)** On an application pursuant to subsection (1), the board shall determine the compensation payable in respect of the proposed use of waters or deposit of waste, taking into consideration
 	- **(a)** the effect of the proposed use or deposit on
-		- **(i)** the first nation’s use of waters when on or flowing through its first nation lands or waters adjacent to its first nation lands, or
+		- **(i)** the first nation’s use of waters when on or flowing through its first nation lands or waters adjacent to its first nation lands, and
 		- **(ii)** its first nation lands, taking into account any cultural or special value of those lands to the first nation;
 	- **(b)** the nuisance or inconvenience to the first nation, including noise, that may result on first nation lands;
 	- **(c)** the effect on wildlife harvesting carried on by the first nation; and
 	- **(d)** any other factor that the board considers relevant in the circumstances.
+> 1998, c. 25, s. 79; 2005, c. 1, s. 43.
+
+
+
+
+
+### Compensation — Tlicho First Nation
+
+
+
+**Conditions for licence**
+
+**79.1** The Wekeezhii Land and Water Board may not issue, amend or renew a licence for the use of waters or the deposit of waste if, in its opinion, that use or deposit is likely to substantially alter the quality, quantity or rate of flow of waters when on or flowing through Tlicho lands or waters adjacent to Tlicho lands unless
+- **(a)** the Board is satisfied that there is no alternative that could reasonably satisfy the requirements of the applicant and that there are no reasonable measures by which the applicant could avoid the alteration; and
+- **(b)** the applicant has entered into an agreement with the Tlicho Government to compensate the Tlicho First Nation for any loss or damage that may be caused by the alteration, or the applicant or the Tlicho Government has applied to the Board under subsection 79.3(1) for a determination of compensation for that loss or damage.
+> 2005, c. 1, s. 44.
+
+
+
+
+
+**Application to water authority**
+
+**79.2** 
+
+- **(1)** If the Wekeezhii Land and Water Board determines that a use of waters or a deposit of waste that is proposed, in an application made to a water authority, to be carried out in
+	- **(a)** Nunavut or an area of the Northwest Territories outside Wekeezhii, or
+	- **(b)** a park to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies, or lands acquired pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), in Wekeezhii
+would be likely to substantially alter the quality, quantity or rate of flow of waters when on or flowing through Tlicho lands or waters adjacent to Tlicho lands, the Board shall notify the water authority in writing of its determination.
+
+**Access to information**
+
+- **(2)** A water authority shall provide the Board with any information in its possession that the Board requires in order to make a determination under subsection (1).
+
+**Conditions for authorization**
+
+- **(3)** Despite any other Act, a water authority that is notified by the Board under subsection (1) may not authorize the proposed use of waters or deposit of waste unless
+	- **(a)** the applicant and the Tlicho Government have entered into an agreement to compensate the Tlicho First Nation for any loss or damage that may be caused by the alteration; or
+	- **(b)** the applicant or the Tlicho Government applies to the Board under subsection 79.3(1) for a determination.
+> 2005, c. 1, s. 44.
+
+
+
+
+
+**Referral of compensation to Wekeezhii Board**
+
+**79.3** 
+
+- **(1)** If a compensation agreement referred to in paragraph 79.1(b) or 79.2(3)(a), as the case may be, is not entered into, the applicant or the Tlicho Government may, after having participated in mediation under chapter 6 of the Tlicho Agreement, apply to the Wekeezhii Land and Water Board for a determination of compensation.
+
+**Determination of compensation**
+
+- **(2)** On an application under subsection (1), the Board shall determine the compensation payable in respect of the proposed use of waters or deposit of waste, taking into consideration
+	- **(a)** the effect of the proposed use or deposit on
+		- **(i)** the use by Tlicho citizens of waters when on or flowing through Tlicho lands, or waters adjacent to Tlicho lands,
+		- **(ii)** Tlicho lands, taking into account any cultural or special value of those lands to the Tlicho First Nation, and
+		- **(iii)** wildlife harvesting carried on by Tlicho citizens;
+	- **(b)** the nuisance or inconvenience, including noise, caused by the proposed use or deposit to Tlicho citizens on Tlicho lands; and
+	- **(c)** any other factor that the Board considers relevant in the circumstances.
+
+**Form of compensation**
+
+- **(3)** The compensation may be in the form of a lump sum payment or periodic payments or non-monetary compensation, including replacement of, or substitution for, damaged or lost property or relocation of Tlicho citizens or their property, or any combination of those forms of compensation.
+> 2005, c. 1, s. 44.
+
 
 
 
@@ -1178,15 +1420,48 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(2)** The Gwich’in or Sahtu First Nation is entitled to fair and reasonable compensation for any construction materials supplied or obtained from its first nation lands.
 
-**Reference to board**
+**Reference to Board**
 
-- **(3)** On application by the person or department or agency requesting the supply or access, the board shall
+- **(3)** On application by the person or department or agency requesting the supply or access, the Gwich’in Land and Water Board or the Sahtu Land and Water Board, as the case may be, shall
 	- **(a)** determine whether an alternate source of supply is reasonably available in the surrounding area; or
 	- **(b)** resolve any dispute concerning terms or conditions of supply or access or priorities between a first nation and other users of the construction materials.
 
 **Settlement lands outside settlement area**
 
 - **(4)** Where first nation lands from which construction materials are requested are situated outside the first nation’s settlement area but within the Northwest Territories, the board shall consult the resource management authority having jurisdiction in respect of those lands before making any determination under subsection (3).
+> 1998, c. 25, s. 80; 2005, c. 1, s. 45.
+
+
+
+
+
+**Duty to supply — Tlicho Government**
+
+**80.1** 
+
+- **(1)** The Tlicho Government shall supply, and permit access to, sand, gravel, clay and like construction materials situated on Tlicho lands to any person that requests it, including any department or agency of the federal or territorial government or any local government of a Tlicho community.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if the materials are to be used on lands other than Tlicho lands, unless no alternate source of supply is reasonably available in an area closer to the lands where the materials are to be used.
+
+**Compensation — Tlicho Government**
+
+- **(3)** The Tlicho Government is entitled to be paid for the value of materials supplied under subsection (1) and for the exercise of a right of access to the materials under that subsection, unless the materials are to be used for a public purpose on Tlicho lands or in a Tlicho community or for a public road contiguous to Tlicho lands or to a Tlicho community.
+
+**Reference to Wekeezhii Land and Water Board**
+
+- **(4)** On application by any person, department, agency or government requesting the supply of, or access to, materials under subsection (1) and after the applicant has participated in mediation under chapter 6 of the Tlicho Agreement, the Wekeezhii Land and Water Board shall
+	- **(a)** determine, for the purpose of subsection (2), whether an alternate source of supply is reasonably available in an area closer to the lands where the materials are to be used;
+	- **(b)** determine, for the purpose of subsection (3), whether the materials are to be used for a public purpose on Tlicho lands or in a Tlicho community or for a public road contiguous to Tlicho lands or a Tlicho community;
+	- **(c)** resolve any dispute concerning terms or conditions of supply or access, excluding the amount to be paid under subsection (3); or
+	- **(d)** resolve any dispute concerning conflicting uses of materials referred to in subsection (1) by the applicant and by the Tlicho Government or Tlicho citizens.
+
+**Reference to Board by Tlicho Government**
+
+- **(5)** In the case of a dispute referred to in paragraph (4)(d), an application for its resolution may also be made to the Board by the Tlicho Government after it has participated in mediation under chapter 6 of the Tlicho Agreement.
+> 2005, c. 1, s. 46.
+
 
 
 
@@ -1212,32 +1487,52 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**Minister’s policy directions to board**
+**Consultation with first nations and Tlicho Government**
 
 **82** 
 
-- **(1)** The federal Minister may, after consultation with a board, give written policy directions binding on the board with respect to the exercise of any of its functions under this Part.
-
-**Limitation**
-
-- **(2)** Except as provided by subsection (3), policy directions do not apply in respect of any application that, at the time the directions are given, is pending before a board or has been approved by a board and is awaiting approval under section 81.
-
-**Exception**
-
-- **(3)** Policy directions apply in respect of an application referred to in subsection (2) if their non-application could result in the inconsistency of a licence, permit or authorization with another Act or with a regulation or order made under another Act.
-
-
-
-
-**Consultation with first nations**
-
-**83** 
-
-- **(1)** The federal Minister shall consult the Gwich’in and Sahtu First Nations with respect to the amendment of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or regulations made under that Act.
+- **(1)** The federal Minister shall consult the Gwich’in and Sahtu First Nations and the Tlicho Government with respect to the amendment of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or regulations made under that Act.
 
 **Consultation with boards**
 
 - **(2)** The federal Minister shall consult the boards with respect to the amendment of this Act or the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or the making or amendment of any instrument pursuant to this Act or that Act.
+> 1998, c. 25, s. 82; 2005, c. 1, s. 47.
+
+
+
+
+
+### Policy Directions
+
+
+
+**Minister’s policy directions to board**
+
+**83** 
+
+- **(1)** The federal Minister may, after consultation with a board, give written policy directions binding on the board with respect to the exercise of any of its functions under this Part. The federal Minister shall also consult the Tlicho Government before giving such written policy directions to the Wekeezhii Land and Water Board.
+
+**Policy directions by the Tlicho Government to the Wekeezhii Board**
+
+- **(2)** The Tlicho Government may, after consultation with the Wekeezhii Land and Water Board and the federal Minister, give written policy directions with respect to the exercise of any of its functions under this Part in relation to the use of Tlicho lands. Policy directions shall be binding on the Board to the extent that compliance with them does not require the Board to exceed its approved budget.
+
+**Limitation**
+
+- **(3)** Except as provided by subsection (4), policy directions do not apply in respect of any application that, at the time the directions are given, is pending before a board or has been approved by a board and is awaiting approval under section 81.
+
+**Exception**
+
+- **(4)** Policy directions apply in respect of an application referred to in subsection (3) if their non-application could result in the inconsistency of a licence, permit or authorization with another Act or with a regulation or order made under another Act.
+
+**Conflict between policy directions**
+
+- **(5)** If there is a conflict between policy directions given by the federal Minister under subsection (1) and policy directions given by the Tlicho Government under subsection (2), the policy directions given under subsection (2) prevail to the extent of the conflict.
+
+**Conflict between legislation and policy directions**
+
+- **(6)** If there is a conflict between policy directions given by the federal Minister or the Tlicho Government under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
+> 1998, c. 25, s. 83; 2005, c. 1, s. 47.
+
 
 
 
@@ -1271,9 +1566,15 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(2)** Where the inspector considers it reasonable to do so, an inspector shall give the Gwich’in or Sahtu First Nation prior notice of entry by the inspector on its first nation lands.
 
+**Notice to Tlicho Government**
+
+- **(2.1)** An inspector shall, if it is reasonable to do so, give the Tlicho Government prior notice of entry by the inspector on Tlicho lands.
+
 **Exception for dwelling-place**
 
 - **(3)** An inspector may not enter any place designed to be used and being used as a permanent or temporary private dwelling-place.
+> 1998, c. 25, s. 85; 2005, c. 1, s. 48.
+
 
 
 
@@ -1325,9 +1626,15 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(1)** An inspector designated under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) who considers it reasonable to do so shall give the Gwich’in or Sahtu First Nation prior notice of entry on its first nation lands.
 
+**Notice to Tlicho Government by water inspector**
+
+- **(1.1)** An inspector designated under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) shall, if it is reasonable to do so, give the Tlicho Government prior notice of entry on Tlicho lands.
+
 **Review of order by board**
 
 - **(2)** A board shall, if so requested by a person who is directed to take measures pursuant to subsection 37(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), review without delay and confirm, vary or revoke the direction.
+> 1998, c. 25, s. 89; 2005, c. 1, s. 49.
+
 
 
 
@@ -1338,7 +1645,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Regulations respecting the use of land**
 
-**90** The Governor in Council may, following consultation by the federal Minister with first nations, make regulations respecting the protection, control and use of lands in the Mackenzie Valley and, in particular, may make regulations
+**90** The Governor in Council may, following consultation by the federal Minister with first nations and the Tlicho Government, make regulations respecting the protection, control and use of lands in the Mackenzie Valley and, in particular, may make regulations
 - **(a)** prohibiting uses of land or classes of uses except under the authority of permits or, where the regulations so provide, under the written authority of an inspector;
 - **(b)** respecting the issuance, amendment, renewal, suspension, cancellation, and approval of the assignment, of permits;
 - **(c)** respecting eligibility for permits, prescribing the conditions or kinds of conditions that a board may include in permits and respecting the duration of permits;
@@ -1353,6 +1660,26 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(l)** respecting the restoration of lands to which a permit applies;
 - **(m)** authorizing a board or an inspector to relieve permittees from specified obligations under the regulations; and
 - **(n)** authorizing a board or an inspector to require permittees to submit reports to them on specified matters.
+> 1998, c. 25, s. 90; 2005, c. 1, s. 50.
+
+
+
+
+
+**Prohibition — Tlicho lands**
+
+**90.1** Even if the regulations do not require a permit or authorization under Part 3 or 4 for a particular use of land, no person shall use Tlicho lands without such a permit or authorization if one is required by a Tlicho law for uses of that type.
+> 2005, c. 1, s. 51.
+
+
+
+
+
+**Exemption for use of land in Tlicho communities**
+
+**90.2** Despite the regulations, a permit or authorization under Part 3 or 4 for a particular use of land in a Tlicho community is not required if the local government of that community has enacted a bylaw providing that one is not required for uses of that type.
+> 2005, c. 1, s. 51.
+
 
 
 
@@ -1361,7 +1688,9 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **91** A board may make rules
 - **(a)** specifying the period of time within which compensation agreements referred to in sections 77 and 78 must be entered into; and
-- **(b)** respecting the determination of matters in dispute under section 80.
+- **(b)** respecting the determination of matters in dispute under section 80 or 80.1.
+> 1998, c. 25, s. 91; 2005, c. 1, s. 52.
+
 
 
 
@@ -1374,11 +1703,11 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **92** 
 
-- **(1)** Every person who contravenes any provision of the regulations, any condition of a permit or an order of an inspector under subsection 86(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding six months, or to both.
+- **(1)** Every person who contravenes section 90.1, any provision of the regulations, any condition of a permit or an order of an inspector under subsection 86(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding six months, or to both.
 
 **Reparation**
 
-- **(2)** In addition to the penalty provided by subsection (1), a court that convicts a person of using land without a permit contrary to the regulations may, taking into account the nature of the offence and the circumstances of its commission, order the person to take any measures that it considers reasonable in order to repair or limit any damage resulting from the act or omission that constituted the offence.
+- **(2)** In addition to the penalty provided by subsection (1), a court that convicts a person of using land without a permit may, taking into account the nature of the offence and the circumstances of its commission, order the person to take any measures that it considers reasonable in order to repair or limit any damage resulting from the act or omission that constituted the offence.
 
 **Continuing offences**
 
@@ -1387,6 +1716,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Contravening orders**
 
 - **(4)** Every person who contravenes section 87 is guilty of an offence and liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding six months, or to both.
+> 1998, c. 25, s. 92; 2005, c. 1, s. 53.
+
 
 
 
@@ -1409,9 +1740,11 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**Fees — first nations**
+**Fees**
 
-**95** Notwithstanding subsection 14(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), the Gwich’in First Nation and Sahtu First Nation are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands.
+**95** Notwithstanding subsection 14(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), the Gwich’in and Sahtu First Nations and the Tlicho Government are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands or Tlicho lands, as the case may be.
+> 1998, c. 25, s. 95; 2005, c. 1, s. 54.
+
 
 
 
@@ -1439,11 +1772,13 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Terms defined in Part 3**
 
-- **(2)** In this Part, the expressions “first nation lands”, “land” and “waters” have the same meaning as in Part 3.
+- **(2)** In this Part, the expressions ***first nation lands***, ***land***, ***management area*** and ***waters*** have the same meaning as in Part 3.
 
-**Meaning of “permit” in Part 3**
+**Meaning of permit**
 
-- **(3)** For the purposes of this Part, references to a permit in section 90, in the regulations made pursuant to that section and in section 92 include a permit as defined in subsection (1).
+- **(3)** For the purposes of this Part, references to a permit in section 90, in the regulations made pursuant to that section and in sections 90.1, 90.2 and 92 include a permit as defined in subsection (1).
+> 1998, c. 25, s. 96; 2005, c. 1, s. 55.
+
 
 
 
@@ -1494,20 +1829,26 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(1)** There is hereby established a board to be known as the Mackenzie Valley Land and Water Board.
 
-**Regional panels**
+**Regional panels — Gwich’in and Sahtu Boards**
 
-- **(2)** On the coming into force of this Part, a board established for a settlement area by Part 3 continues as a regional panel of the Board under the same name and its members become members of the Board.
+- **(2)** On the coming into force of this Part, a board established by section 54 or 56 continues as a regional panel of the Board under the same name and in respect of the same management area as that of the board. Its members become members of the Board.
+
+**Regional panel — Wekeezhii Board**
+
+- **(2.1)** Six months after the coming into force of section 57.1, the board established by that section continues as a regional panel of the Board under the same name and in respect of the same management area as that of the board. Its members become members of the Board.
 
 **Applicable provisions**
 
-- **(3)** The provisions of Part 1 respecting the appointment and tenure of members of a board and respecting the chairperson of a board, and the provisions of Part 3 respecting the quorum of a board and its main office, continue to apply to a regional panel.
+- **(3)** The provisions of Part 1 respecting the appointment, tenure and removal from office of members of a board and respecting the chairperson of a board, and the provisions of Part 3 respecting the appointment of members of a board, the quorum of a board and its main office, continue to apply to a regional panel.
 
 **Composition**
 
-- **(4)** In addition to the members of the regional panels referred to in subsection (2) and a chairperson, the Board shall, subject to subsection 108(7), consist of
-	- **(a)** three members appointed following consultation by the federal Minister with the first nations;
+- **(4)** In addition to the members of the regional panels referred to in subsections (2) and (2.1) and a chairperson, the Board shall, subject to subsection 108(7), consist of
+	- **(a)** two members appointed following consultation by the federal Minister with the first nations and the Tlicho Government;
 	- **(b)** one member appointed on the nomination of the territorial Minister; and
-	- **(c)** two other members.
+	- **(c)** one other member.
+> 1998, c. 25, s. 99; 2005, c. 1, s. 56.
+
 
 
 
@@ -1530,17 +1871,38 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+**Objectives — Board**
+
+**101.1** 
+
+- **(1)** The objectives of the Board are to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit generally for all Canadians and in particular for residents of the Mackenzie Valley.
+
+**Objectives — Gwich’in and Sahtu regional panels**
+
+- **(2)** The objectives of a regional panel referred to in subsection 99(2) are to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit for residents of its management area and of the Mackenzie Valley and for all Canadians.
+
+**Objectives — Wekeezhii regional panel**
+
+- **(3)** The objectives of the regional panel referred to in subsection 99(2.1) are to provide for the conservation, development and utilization of land and water resources in a manner that will provide the optimum benefit generally for all Canadians and in particular for residents of its management area.
+> 2005, c. 1, s. 58.
+
+
+
+
+
 **Jurisdiction — Board**
 
 **102** 
 
-- **(1)** The Board has jurisdiction in respect of all uses of land or waters or deposits of waste in the Mackenzie Valley for which a permit is required under Part 3 or a licence is required under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), and for that purpose the Board has the powers and duties of a board established under Part 3, other than powers under sections 78 and 79, as if a reference in that Part to a settlement area were a reference to the Mackenzie Valley.
+- **(1)** The Board has jurisdiction in respect of all uses of land or waters or deposits of waste in the Mackenzie Valley for which a permit is required under Part 3 or a licence is required under the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md), and for that purpose the Board has the powers and duties of a board established under Part 3, other than powers under sections 78, 79 and 79.2 to 80.1, as if a reference in that Part to a management area were a reference to the Mackenzie Valley, except that, with regard to subsection 61(2), the reference to management area continues to be a reference to Wekeezhii.
 
 **Jurisdiction — regional panels**
 
-- **(2)** The regional panel of the Board for a settlement area shall exercise
-	- **(a)** the powers and duties referred to in subsection (1) in respect of a use of land or waters or a deposit of waste that is to take place, and that is likely to have an impact, wholly within the settlement area; and
-	- **(b)** the powers conferred by sections 78 to 80 on the board established under Part 3 for that settlement area.
+- **(2)** A regional panel of the Board shall exercise
+	- **(a)** the powers and duties referred to in subsection (1) in respect of a use of land or waters or a deposit of waste that is to take place, and that is likely to have an impact, wholly within the management area of the regional panel; and
+	- **(b)** the powers conferred by sections 78, 79 and 79.2 to 80.1 on the board established under Part 3 for that management area.
+> 1998, c. 25, s. 102; 2005, c. 1, s. 58.
+
 
 
 
@@ -1550,12 +1912,12 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **103** 
 
 - **(1)** An application shall be made to the Board where the application relates to a use of land or waters or a deposit of waste
-	- **(a)** that is to take place or is likely to have an impact in more than one settlement area, or in a settlement area and an area outside any settlement area; or
-	- **(b)** that is to take place wholly outside any settlement area.
+	- **(a)** that is to take place, or is likely to have an impact, in more than one management area, or in a management area and an area outside any management area; or
+	- **(b)** that is to take place wholly outside any management area.
 
 **Applications to regional panel**
 
-- **(2)** An application relating to a use of land or waters or a deposit of waste described in subsection 102(2), including an application relating to a licence or permit for such a use or deposit issued pursuant to Part 3 before the coming into force of this Part, shall be made to the regional panel of the Board for the settlement area referred to in that subsection.
+- **(2)** An application relating to a use of land or waters or a deposit of waste described in subsection 102(2), including an application relating to a licence or permit for such a use or deposit issued pursuant to Part 3 before the coming into force of this Part, shall be made to the regional panel of the Board for the management area referred to in that subsection.
 
 **Copies of panel applications**
 
@@ -1568,13 +1930,17 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Decisions of regional panels**
 
 - **(5)** For greater certainty, a decision made by a regional panel of the Board on an application is a decision of the Board.
+> 1998, c. 25, s. 103; 2005, c. 1, s. 59.
+
 
 
 
 
 **Power of chairperson**
 
-**104** Applications referred to in subsection 103(1) shall be disposed of by three or more members of the Board designated by the chairperson for that purpose, including at least one of the members appointed to a regional panel on the nomination of a first nation or appointed to the Board following consultation with first nations and at least one of the members of the Board not so appointed.
+**104** Applications referred to in subsection 103(1) shall be disposed of by three or more members of the Board designated by the chairperson for that purpose, including at least one of the members appointed to a regional panel — on the nomination of a first nation or by the Tlicho Government — or appointed to the Board following consultation with first nations and the Tlicho Government and at least one of the members of the Board not so appointed.
+> 1998, c. 25, s. 104; 2005, c. 1, s. 60.
+
 
 
 
@@ -1589,6 +1955,25 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Board directions**
 
 **106** The Board may issue directions on general policy matters or on matters concerning the use of land or waters or the deposit of waste that, in the Board’s opinion, require consistent application throughout the Mackenzie Valley.
+
+
+
+
+**Requirement to make recommendations**
+
+**106.1** 
+
+- **(1)** The Board shall, at the request of the federal Minister, make recommendations to the federal Minister with respect to the amendment of this Act or the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or the making or amendment of any instrument under this Act or that Act.
+
+**Discretion to make recommendations**
+
+- **(2)** The Board may make recommendations to
+	- **(a)** the Minister responsible for any Act of Parliament regarding the use of land or waters or the deposit of waste, with respect to the amendment of that Act or the making or amendment of any instrument under that Act;
+	- **(b)** the territorial Minister with respect to the amendment of territorial laws regarding the use of land or waters or the deposit of waste;
+	- **(c)** a local government with respect to the amendment of bylaws enacted by that government regarding the use of land or waters or the deposit of waste; and
+	- **(d)** the Tlicho Government with respect to the amendment of Tlicho laws regarding the use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters.
+> 2005, c. 1, s. 61.
+
 
 
 
@@ -1612,11 +1997,11 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **108** 
 
-- **(1)** The Governor in Council may, on the recommendation of the federal Minister, establish up to three regional panels of the Board in addition to those referred to in subsection 99(2).
+- **(1)** The Governor in Council may, on the recommendation of the federal Minister, establish up to two regional panels of the Board in addition to those referred to in subsections 99(2) and (2.1).
 
 **Powers**
 
-- **(2)** The area of the Mackenzie Valley in which such a regional panel has jurisdiction shall be specified by the Governor in Council, following consultation with affected first nations, and subsections 102(2) and 103(2) to (5) apply in relation to that area with such modifications as are required.
+- **(2)** The area of the Mackenzie Valley in which such a regional panel has jurisdiction shall be specified by the Governor in Council, following consultation with affected first nations, which area must be wholly outside any management area. Subsections 102(2) and 103(2) to (5) apply in relation to that area with such modifications as are required.
 
 **Appointment**
 
@@ -1641,6 +2026,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice**
 
 - **(8)** A notice of the establishment of a regional panel under this section shall be published in a newspaper circulated in the Mackenzie Valley.
+> 1998, c. 25, s. 108; 2005, c. 1, s. 62.
+
 
 
 
@@ -1648,6 +2035,38 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Minister’s functions**
 
 **109** The federal Minister may exercise the same powers and shall perform the same duties in relation to the Board and its regional panels as are conferred or imposed on the federal Minister in relation to a board established by Part 3.
+
+
+
+
+### Powers of Tlicho Government
+
+
+
+**Policy directions by the Tlicho Government**
+
+**109.1** The Tlicho Government may exercise the same powers and shall perform the same duties in relation to the Board and the regional panel of the Board referred to in subsection 99(2.1) as those that the Tlicho Government has under section 83 in relation to the Wekeezhii Land and Water Board.
+> 2005, c. 1, s. 63.
+
+
+
+
+
+### Precedence Relating to Policy Directions
+
+
+
+**Conflict between policy directions**
+
+**109.2** 
+
+- **(1)** If there is a conflict between policy directions given by the federal Minister under section 109 and policy directions given by the Tlicho Government under section 109.1, the policy directions under section 109.1 prevail to the extent of the conflict.
+
+**Conflict between legislation and policy directions**
+
+- **(2)** If there is a conflict between policy directions given by the federal Minister under section 109 or by the Tlicho Government under section 109.1 and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
+> 2005, c. 1, s. 63.
+
 
 
 
@@ -1668,38 +2087,44 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-### Interpretation
+### Interpretation and Application
 
 
 
 **Definitions**
 
-**111** The definitions in this section apply in this Part.
+**111** 
 
-***designated regulatory agency*** means an agency named in the schedule, referred to in a land claim agreement as an independent regulatory agency.
+- **(1)** The following definitions apply in this Part.
 
-***development*** means any undertaking, or any part of an undertaking, that is carried out on land or water and, except where the context otherwise indicates, wholly within the Mackenzie Valley, and includes measures carried out by a department or agency of government leading to the establishment of a park subject to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) and an acquisition of lands pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md).
+***designated regulatory agency*** means an agency named in the schedule, referred to in a land claim agreement as an independent regulatory agency. (*organisme administratif désigné*)
 
-***environmental assessment*** means an examination of a proposal for a development undertaken by the Review Board pursuant to section 126.
+***development*** means any undertaking, or any part or extension of an undertaking, that is carried out on land or water and includes an acquisition of lands pursuant to the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) and measures carried out by a department or agency of government leading to the establishment of a park subject to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) or the establishment of a park under a territorial law. (*projet de développement*)
 
-***environmental impact review*** means an examination of a proposal for a development undertaken by a review panel established under section 132.
+***environmental assessment*** means an examination of a proposal for a development undertaken by the Review Board pursuant to section 126. (*évaluation environnementale*)
 
-***follow-up program*** means a program for evaluating
+***environmental impact review*** means an examination of a proposal for a development undertaken by a review panel established under section 132. (*étude d’impact*)
+
+***follow-up program*** means a program for evaluating 
 - **(a)** the soundness of an environmental assessment or environmental impact review of a proposal for a development; and
-- **(b)** the effectiveness of the mitigative or remedial measures imposed as conditions of approval of the proposal.
+- **(b)** the effectiveness of the mitigative or remedial measures imposed as conditions of approval of the proposal. (*programme de suivi*)
 
- ou ***impact on the environment*** means any effect on land, water, air or any other component of the environment, as well as on wildlife harvesting, and includes any effect on the social and cultural environment or on heritage resources.
+***impact on the environment*** means any effect on land, water, air or any other component of the environment, as well as on wildlife harvesting, and includes any effect on the social and cultural environment or on heritage resources. (*répercussions environnementales* ou *répercussions sur l’environnement*)
 
-***mitigative or remedial measure*** means a measure for the control, reduction or elimination of an adverse impact of a development on the environment, including a restorative measure.
+***mitigative or remedial measure*** means a measure for the control, reduction or elimination of an adverse impact of a development on the environment, including a restorative measure. (*mesures correctives ou d’atténuation*)
 
-***preliminary screening*** means an examination of a proposal for a development undertaken pursuant to section 124.
+***preliminary screening*** means an examination of a proposal for a development undertaken pursuant to section 124. (*examen préalable*)
 
-***regulatory authority***, in relation to a development, means a body or person responsible for issuing a licence, permit or other authorization required for the development under any federal or territorial law, but does not include a designated regulatory agency or a local government.
+***regulatory authority***, in relation to a development, means a body or person responsible for issuing a licence, permit or other authorization required for the development under any federal or territorial law, but does not include a designated regulatory agency or a local government. (*autorité administrative*)
 
-***responsible minister***, in relation to a proposal for a development, means any minister of the Crown in right of Canada or of the territorial government having jurisdiction in relation to the development under federal or territorial law.
+***responsible minister***, in relation to a proposal for a development, means any minister of the Crown in right of Canada or of the territorial government having jurisdiction in relation to the development under federal or territorial law. (*ministre compétent*)
 
-***Review Board*** means the Mackenzie Valley Environmental Impact Review Board established by subsection 112(1).
-> 1998, c. 25, s. 111; 2000, c. 32, s. 55.
+***Review Board*** means the Mackenzie Valley Environmental Impact Review Board established by subsection 112(1). (*Office*)
+
+**Application**
+
+- **(2)** This Part applies in respect of developments to be carried out wholly or partly within the Mackenzie Valley and, except for section 142, does not apply in respect of developments wholly outside the Mackenzie Valley.
+> 1998, c. 25, s. 111; 2000, c. 32, s. 55; 2005, c. 1, s. 65.
 
 
 
@@ -1715,17 +2140,19 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(1)** There is hereby established a board to be known as the Mackenzie Valley Environmental Impact Review Board consisting of not less than seven members including a chairperson.
 
-**Nominations by first nations**
+**Nominations by first nations and the Tlicho Government**
 
-- **(2)** One half of the members of the Review Board other than the chairperson shall be persons appointed on the nomination of first nations, including at least one nominated by the Gwich’in First Nation and one nominated by the Sahtu First Nation.
+- **(2)** One half of the members of the Review Board other than the chairperson shall be persons appointed on the nomination of first nations and the Tlicho Government, including at least one nominated by the Gwich’in First Nation, one nominated by the Sahtu First Nation and one nominated by the Tlicho Government.
 
 **Government members**
 
-- **(3)** Of the members of the Review Board other than the chairperson and those nominated by first nations, at most one half shall be nominated by the territorial Minister.
+- **(3)** Of the members of the Review Board other than the chairperson and those appointed in accordance with subsection (2), at most one half shall be nominated by the territorial Minister.
 
 **Quorum**
 
-- **(4)** A quorum of the Review Board consists of five members, including two of the members appointed on the nomination of first nations and two of the members not so appointed other than the chairperson.
+- **(4)** A quorum of the Review Board consists of five members, including two of the members appointed in accordance with subsection (2) and two of the members not so appointed other than the chairperson.
+> 1998, c. 25, s. 112; 2005, c. 1, s. 66.
+
 
 
 
@@ -1754,8 +2181,20 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Guiding principles**
 
 **115** The process established by this Part shall be carried out in a timely and expeditious manner and shall have regard to
-- **(a)** the protection of the environment from the significant adverse impacts of proposed developments; and
-- **(b)** the protection of the social, cultural and economic well-being of residents and communities in the Mackenzie Valley.
+- **(a)** the protection of the environment from the significant adverse impacts of proposed developments;
+- **(b)** the protection of the social, cultural and economic well-being of residents and communities in the Mackenzie Valley; and
+- **(c)** the importance of conservation to the well-being and way of life of the aboriginal peoples of Canada to whom section 35 of the Constitution Act, 1982 applies and who use an area of the Mackenzie Valley.
+> 1998, c. 25, s. 115; 2005, c. 1, s. 67.
+
+
+
+
+
+**Considerations**
+
+**115.1** In exercising its powers, the Review Board shall consider any traditional knowledge and scientific information that is made available to it.
+> 2005, c. 1, s. 68.
+
 
 
 
@@ -1764,7 +2203,9 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **116** The [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) does not apply in the Mackenzie Valley in respect of proposals for developments other than
 - **(a)** proposals referred to the Minister of the Environment pursuant to paragraph 130(1)(c), to the extent provided by that Act; or
-- **(b)** proposals that are the subject of agreements referred to in paragraph 141(2)(a), to the extent provided by such agreements.
+- **(b)** proposals that are the subject of agreements referred to in paragraph 141(2)(a) or (3)(b), to the extent provided by such agreements.
+> 1998, c. 25, s. 116; 2005, c. 1, s. 69.
+
 
 
 
@@ -1781,7 +2222,7 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(a)** the impact of the development on the environment, including the impact of malfunctions or accidents that may occur in connection with the development and any cumulative impact that is likely to result from the development in combination with other developments;
 	- **(b)** the significance of any such impact;
 	- **(c)** any comments submitted by members of the public in accordance with the regulations or the rules of practice and procedure of the Review Board;
-	- **(d)** where the development is likely to have a significant adverse impact on the environment, the imposition of mitigative or remedial measures; and
+	- **(d)** where the development is likely to have a significant adverse impact on the environment, the need for mitigative or remedial measures; and
 	- **(e)** any other matter, such as the need for the development and any available alternatives to it, that the Review Board or any responsible minister, after consulting the Review Board, determines to be relevant.
 
 **Additional factors**
@@ -1792,6 +2233,12 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 	- **(c)** the need for any follow-up program and the requirements of such a program; and
 	- **(d)** the capacity of any renewable resources that are likely to be significantly affected by the development to meet existing and future needs.
 
+**Joint panels**
+
+- **(4)** Subsections (2) and (3) apply in respect of an examination of a proposal for a development by a review panel, or a joint panel, established jointly by the Review Board and any other person or body.
+> 1998, c. 25, s. 117; 2005, c. 1, s. 70.
+
+
 
 
 
@@ -1799,11 +2246,13 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **118** 
 
-- **(1)** No licence, permit or other authorization required for the carrying out of a development may be issued under any federal or territorial law unless the requirements of this Part have been complied with in relation to the development.
+- **(1)** No licence, permit or other authorization required for the carrying out of a development may be issued under any federal, territorial or Tlicho law unless the requirements of this Part have been complied with in relation to the development.
 
 **Implementation of proposals**
 
-- **(2)** Where the Gwich’in or Sahtu First Nation, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
+- **(2)** Where the Gwich’in or Sahtu First Nation, the Tlicho Government, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal, territorial or Tlicho law, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
+> 1998, c. 25, s. 118; 2005, c. 1, s. 71.
+
 
 
 
@@ -1819,17 +2268,21 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Guidelines**
 
-**120** Following consultation with first nations and the federal and territorial Ministers and subject to any regulations made under paragraph 143(1)(a), the Review Board may establish guidelines respecting the process established by this Part, including guidelines
+**120** Following consultation with first nations, the Tlicho Government and the federal and territorial Ministers and subject to any regulations made under paragraph 143(1)(a), the Review Board may establish guidelines respecting the process established by this Part, including guidelines
 - **(a)** for the determination of the scope of developments by the Review Board;
 - **(b)** for the form and content of reports made under this Part; and
 - **(c)** for the submission and distribution of environmental impact statements and for public notification of such submission pursuant to paragraphs 134(1)(b) and (c).
+> 1998, c. 25, s. 120; 2005, c. 1, s. 72.
+
 
 
 
 
 **Written reasons**
 
-**121** The Review Board, a review panel thereof, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority or the Gwich’in or Sahtu First Nation shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
+**121** The Review Board, a review panel thereof, a review panel, or a joint panel, established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich’in or Sahtu First Nation or the Tlicho Government shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
+> 1998, c. 25, s. 121; 2005, c. 1, s. 73.
+
 
 
 
@@ -1848,6 +2301,41 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+**Consultation**
+
+**123.1** In conducting a review or examination of the impact on the environment of a development, a review panel of the Review Board or a review panel, or a joint panel, established jointly by the Review Board and any other person or body,
+- **(a)** shall carry out any consultations that are required by any of the land claim agreements; and
+- **(b)** may carry out other consultations with any persons who use an area where the development might have an impact on the environment.
+> 2005, c. 1, s. 74.
+
+
+
+
+
+**Conflict of interest**
+
+**123.2** 
+
+- **(1)** A person shall not be appointed, or continue, as a member of a review panel of the Review Board or of a review panel, or a joint panel, established jointly by the Review Board and any other person or body, if doing so would place the member in a material conflict of interest.
+
+**Status or entitlements under agreement**
+
+- **(2)** A person is not in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands.
+> 2005, c. 1, s. 74.
+
+
+
+
+
+**Nominations**
+
+**123.3** In appointing a review panel of the Review Board or a review panel, or a joint panel, established jointly by the Review Board and any other person or body, the Review Board and those other persons or bodies shall comply with the requirements of land claim agreements respecting nominations for appointment.
+> 2005, c. 1, s. 74.
+
+
+
+
+
 ### Preliminary Screening
 
 
@@ -1862,13 +2350,19 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Proposal not requiring application**
 
-- **(2)** Where a development that does not require a licence, permit or other authorization is proposed to be carried out by a department or agency of the federal or territorial government or by the Gwich’in or Sahtu First Nation, the department or agency or the first nation shall, after notifying the Review Board in writing of the proposal for the development, conduct a preliminary screening of the proposal, unless
+- **(2)** Where a development that does not require a licence, permit or other authorization under any federal or territorial law is proposed to be carried out by a department or agency of the federal or territorial government or by the Gwich’in or Sahtu First Nation or the Tlicho Government, the body proposing to carry out that development shall, after notifying the Review Board in writing of the proposal for the development, conduct a preliminary screening of the proposal, unless
 	- **(a)** in its opinion, the impact of the development on the environment will be manifestly insignificant; or
 	- **(b)** the development is exempted from preliminary screening for a reason referred to in paragraph (1)(a) or (b).
 
+**Preliminary screening by Gwich’in, Sahtu or Tlicho**
+
+- **(3)** The Gwich’in First Nation, the Sahtu First Nation or the Tlicho Government, as the case may be, may conduct a preliminary screening of a proposal for a development to determine whether to refer the proposal for an environmental assessment in accordance with paragraph 126(2)(b) or (c).
+
 **Cooperation**
 
-- **(3)** Where more than one body is required by subsection (1) or (2) to conduct a preliminary screening in respect of a development, any of them may consult the others, adopt another’s report or participate in a joint preliminary screening and, where one of them is a board established under Part 3 or 4, the others are not required to conduct a preliminary screening.
+- **(4)** Where more than one body conducts a preliminary screening in respect of a development, any of them may consult the others, adopt another’s report or participate in a joint preliminary screening and, where one of them is a board established under Part 3 or 4, the others are not required to conduct a preliminary screening.
+> 1998, c. 25, s. 124; 2005, c. 1, s. 75.
+
 
 
 
@@ -1904,24 +2398,23 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(2)** Notwithstanding any determination on a preliminary screening, the Review Board shall conduct an environmental assessment of a proposal for a development that is referred to it by
 	- **(a)** a regulatory authority, designated regulatory agency or department or agency of the federal or territorial government;
-	- **(b)** the Gwich’in or Sahtu First Nation, in the case of a development to be carried out in its settlement area or a development that might, in its opinion, have an adverse impact on the environment in that settlement area; or
-	- **(c)** a local government, in the case of a development to be carried out within its boundaries or a development that might, in its opinion, have an adverse impact on the environment within its boundaries.
+	- **(b)** the Gwich’in or Sahtu First Nation, in the case of a development to be carried out in its settlement area or a development that might have an impact on the environment in that settlement area;
+	- **(c)** the Tlicho Government, in the case of a development to be carried out wholly or partly in the part of Monfwi Gogha De Niitlee that is in the Northwest Territories or a development that might have an impact on the environment in that part; or
+	- **(d)** a local government, in the case of a development to be carried out within its boundaries or a development that might have an impact on the environment within its boundaries.
 
 **Review Board’s own motion**
 
 - **(3)** Notwithstanding any determination on a preliminary screening, the Review Board may conduct an environmental assessment of a proposal for a development on its own motion.
 
-**Application**
+**For greater certainty**
 
-- **(4)** Subsections (2) and (3) apply in respect of a development for which no preliminary screening is conducted by reason that
-	- **(a)** a licence, permit or other authorization is required for the carrying out of the development under a federal or territorial law other than one specified in regulations made under paragraph 143(1)(b),
-	- **(b)** the development is exempted by regulations made under paragraph 143(1)(c), or
-	- **(c)** the impact of the development is found to be manifestly insignificant pursuant to paragraph 124(2)(a),
-but, in the cases referred to in paragraphs (b) and (c), the Review Board may only conduct an environmental assessment on its own motion if, in its opinion, the development involves issues of special environmental concern.
+- **(4)** For greater certainty, subsections (2) and (3) apply even if a preliminary screening has not been commenced or, if commenced, has not been completed.
 
 **Notice**
 
 - **(5)** The Review Board shall give notice of a referral of a proposal under subsection (2), or of its decision to conduct an environmental assessment under subsection (3), to the person or body that proposes to carry out the development.
+> 1998, c. 25, s. 126; 2005, c. 1, s. 76.
+
 
 
 
@@ -1929,6 +2422,15 @@ but, in the cases referred to in paragraphs (b) and (c), the Review Board may on
 **Application of *EARP Order* and *CEAA***
 
 **127** In an environmental assessment of a proposal for a development, the Review Board shall take into account any report made in relation to that proposal before the coming into force of this Part pursuant to the Environmental Assessment and Review Process Guidelines Order, approved by Order in Council P.C. 1984-2132 of June 21, 1984, and registered as SOR/84-467, or pursuant to the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+
+
+
+
+**Consultation**
+
+**127.1** Before completing an environmental assessment of a proposal for a development that is to be carried out wholly or partly on first nation lands as defined in section 51 or on Tlicho lands, the Review Board shall consult the first nation on whose lands the development is to be carried out or, if the development is to be carried out on Tlicho lands, the Tlicho Government.
+> 2005, c. 1, s. 77.
+
 
 
 
@@ -1945,11 +2447,12 @@ but, in the cases referred to in paragraphs (b) and (c), the Review Board may on
 	- **(c)** where the development is likely in its opinion to be a cause of significant public concern, order that an environmental impact review of the proposal be conducted, subject to paragraph 130(1)(c); and
 	- **(d)** where the development is likely in its opinion to cause an adverse impact on the environment so significant that it cannot be justified, recommend that the proposal be rejected without an environmental impact review.
 
-**Report to ministers and agencies**
+**Report to ministers, agencies and Tlicho Government**
 
 - **(2)** The Review Board shall make a report of an environmental assessment to
-	- **(a)** the federal Minister, who shall distribute it to every responsible minister; and
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development.
+	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
+	- **(c)** if the development is to be carried out wholly or partly on Tlicho lands, the Tlicho Government.
 
 **Copies of report**
 
@@ -1958,6 +2461,8 @@ but, in the cases referred to in paragraphs (b) and (c), the Review Board may on
 **Areas identified**
 
 - **(4)** The Review Board shall identify in its report any area within or outside the Mackenzie Valley in which the development is likely, in its opinion, to have a significant adverse impact or to be a cause of significant public concern and specify the extent to which that area is affected.
+> 1998, c. 25, s. 128; 2005, c. 1, s. 78.
+
 
 
 
@@ -1965,9 +2470,11 @@ but, in the cases referred to in paragraphs (b) and (c), the Review Board may on
 **Delay**
 
 **129** Where the Review Board makes a determination under paragraph 128(1)(a),
-- **(a)** no regulatory authority or designated regulatory authority shall issue a licence, permit or other authorization for the development, or
-- **(b)** where no licence, permit or authorization is required for the development, the person or body that proposes to carry it out shall not proceed,
+- **(a)** a regulatory authority, a designated regulatory agency or the Tlicho Government shall not issue a licence, permit or other authorization for the development, and
+- **(b)** where no licence, permit or authorization is required under any federal, territorial or Tlicho law for the development, the person or body that proposes to carry it out shall not proceed,
 before the expiration of ten days after receiving the report of the Review Board.
+> 1998, c. 25, s. 129; 2005, c. 1, s. 79.
+
 
 
 
@@ -1983,6 +2490,10 @@ before the expiration of ten days after receiving the report of the Review Board
 		- **(ii)** after consulting the Review Board, to adopt the recommendation with modifications or reject it and order an environmental impact review of the proposal; or
 	- **(c)** irrespective of the determination in the report, to refer the proposal to the Minister of the Environment, following consultation with that Minister, for the purpose of a joint review under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), where the federal Minister and the responsible ministers determine that it is in the national interest to do so.
 
+**Consultation**
+
+- **(1.1)** Before making an order under paragraph (1)(a) or a referral under paragraph (1)(c), the federal Minister and the responsible ministers shall consult the Tlicho Government if the development is to be carried out wholly or partly on Tlicho lands.
+
 **Areas identified**
 
 - **(2)** Where an environmental impact review of a proposal is ordered under subsection (1), the federal Minister and responsible ministers shall identify any area within or outside the Mackenzie Valley in which the development is likely, in their opinion, to have a significant adverse impact or to be a cause of significant public concern and specify the extent to which that area is affected.
@@ -1997,7 +2508,9 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Effect of decision**
 
-- **(5)** A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision to the extent of its authority.
+- **(5)** The federal Minister and responsible ministers shall carry out a decision made under this section to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision made under this section shall act in conformity with the decision to the extent of their respective authorities.
+> 1998, c. 25, s. 130; 2005, c. 1, s. 80.
+
 
 
 
@@ -2025,6 +2538,36 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
+**Decision by Tlicho Government**
+
+**131.1** 
+
+- **(1)** If a development is to be carried out wholly or partly on Tlicho lands, the Tlicho Government shall, after considering a report of the Review Board containing a recommendation made under subparagraph 128(1)(b)(ii),
+	- **(a)** adopt the recommendation or refer it back to the Review Board for further consideration; or
+	- **(b)** after consulting the Review Board, adopt the recommendation with modifications or reject it.
+
+**Effect of decision**
+
+- **(2)** The Tlicho Government shall carry out, to the extent of its authority, any recommendation that it adopts.
+
+**Additional information**
+
+- **(3)** If the Tlicho Government considers any new information that was not before the Review Board, or any matter of public concern that was not referred to in the Review Board’s reasons, the new information or matter shall be identified in the decision made under this section and in any consultation under paragraph (1)(b).
+> 2005, c. 1, s. 81.
+
+
+
+
+
+**Conservation**
+
+**131.2** In making a decision under paragraph 130(1)(b) or subsection 131(1) or 131.1(1), the federal Minister and the responsible ministers, a designated regulatory agency or the Tlicho Government, as the case may be, shall consider the importance of the conservation of the lands, waters and wildlife of the Mackenzie Valley on which the development might have an impact.
+> 2005, c. 1, s. 81.
+
+
+
+
+
 ### Environmental Impact Review
 
 
@@ -2037,20 +2580,17 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Expert members**
 
-- **(2)** A review panel may include, in addition to members of the Review Board, persons having particular expertise related to the development, and section 16 applies to any such member.
+- **(2)** A review panel may, in addition to members of the Review Board, include as members of the panel persons having particular expertise related to the development.
 
-**Representation on review panel**
+**Board members to participate in appointments**
 
 - **(3)** The members of the Review Board who participate in the appointment of a review panel must include in equal numbers
-	- **(a)** members who were appointed on the nomination of first nations; and
+	- **(a)** members who were appointed on the nomination of a first nation or the Tlicho Government; and
 	- **(b)** members not so appointed, other than the chairperson.
 
-**First nation nominees**
+- **(4)** [Repealed, 2005, c. 1, s. 82]
+> 1998, c. 25, s. 132; 2005, c. 1, s. 82.
 
-- **(4)** In an environmental impact review of a proposal for a development to be carried out wholly or partly in a settlement area, the members of the Review Board appointed to the review panel shall, unless otherwise agreed by the first nation and the federal Minister, include members nominated to the panel by the Gwich’in or Sahtu First Nation, as the case may be, which members must comprise
-	- **(a)** half the members of the panel other than the chairperson, where it has been determined that the significant adverse impact referred to in subsection 128(4), 130(2) or 131(3), or the cause of the significant public concern referred to in that subsection, will be wholly within the first nation’s settlement area;
-	- **(b)** at least two of the members of the panel, where it has been determined that the significant adverse impact or the cause of significant public concern will be predominantly within the first nation’s settlement area; and
-	- **(c)** at least one member of the panel, where it has been determined that the significant adverse impact or the cause of significant public concern will be partially but not predominantly within the first nation’s settlement area.
 
 
 
@@ -2068,12 +2608,21 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
+**Coordination**
+
+**133.1** The Review Board shall to the extent possible coordinate any environmental impact review conducted by a review panel of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley with any examination of the environmental impact of that development conducted by another authority responsible for the examination of environmental effects of the part of the development to be carried out outside the Mackenzie Valley.
+> 2005, c. 1, s. 83.
+
+
+
+
+
 **Components of review**
 
 **134** 
 
 - **(1)** An environmental impact review of a proposal for a development includes
-	- **(a)** the preparation by the Review Board of terms of reference for the review panel, after consultation with the responsible ministers and any first nation affected by the proposal;
+	- **(a)** the preparation by the Review Board of terms of reference for the review panel, after consultation with the responsible ministers, with any first nation affected by the proposal and, if the Board has determined that the development is likely to have a significant adverse impact on the environment, or to be a cause of significant public concern, in Monfwi Gogha De Niitlee, with the Tlicho Government;
 	- **(b)** the submission of an impact statement by the applicant for a licence, permit or other authorization or such other person or body as proposes to carry out the development, and its distribution in accordance with any guidelines issued under section 120 and any special instructions issued under subsection 133(2);
 	- **(c)** public notification, in accordance with any such guidelines, of the submission of the impact statement;
 	- **(d)** such analysis of the proposal as the review panel considers appropriate; and
@@ -2083,11 +2632,14 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(2)** A review panel shall issue a report containing a summary of comments received from the public, an account of the panel’s analysis, the conclusions of the panel and its recommendation whether the proposal for the development be approved, with or without mitigative or remedial measures or a follow-up program, or rejected.
 
-**Submission to ministers and agencies**
+**Submission to ministers, agencies and Tlicho Government**
 
 - **(3)** The report of a review panel shall be submitted to
-	- **(a)** the federal Minister, who shall distribute it to every responsible minister; and
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development.
+	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
+	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
+> 1998, c. 25, s. 134; 2005, c. 1, s. 84.
+
 
 
 
@@ -2115,7 +2667,9 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Effect of decision**
 
-- **(2)** A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision under section 135 shall act in conformity with the decision to the extent of its authority.
+- **(2)** The federal Minister and responsible ministers shall carry out a decision made under section 135 to the extent of their respective authorities. A first nation, local government, regulatory authority or department or agency of the federal or territorial government affected by a decision under that section shall act in conformity with the decision to the extent of their respective authorities.
+> 1998, c. 25, s. 136; 2005, c. 1, s. 85.
+
 
 
 
@@ -2139,40 +2693,108 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
+**Decision by Tlicho Government**
+
+**137.1** 
+
+- **(1)** If a development is to be carried out wholly or partly on Tlicho lands, the Tlicho Government shall, after considering the report of a review panel,
+	- **(a)** adopt the recommendation of the review panel or refer it back to the panel for further consideration; or
+	- **(b)** after consulting the review panel, adopt the recommendation with modifications or reject it.
+
+**Additional information**
+
+- **(2)** If the Tlicho Government considers any new information that was not before the review panel, or any matter of public concern that was not referred to in the review panel’s reasons, the new information or matter shall be identified in the decision made under this section and in any consultation under paragraph (1)(b).
+
+**Effect of decision**
+
+- **(3)** The Tlicho Government shall carry out, to the extent of its authority, any recommendation that it adopts.
+> 2005, c. 1, s. 86.
+
+
+
+
+
+**Conservation**
+
+**137.2** In making a decision under subsection 135(1), 137(1) or 137.1(1), the federal Minister and the responsible ministers, a designated regulatory agency or the Tlicho Government, as the case may be, shall consider the importance of the conservation of the lands, waters and wildlife of the Mackenzie Valley on which the development might have an impact.
+> 2005, c. 1, s. 86.
+
+
+
+
+
+**Consultation**
+
+**137.3** Before making a decision under subsection 135(1), 137(1) or 137.1(1) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley, the person or body making the decision shall take into consideration any report in respect of the proposal that is submitted by a review panel established under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) and shall consult every responsible authority to whom the report is submitted under that Act.
+> 2005, c. 1, s. 86.
+
+
+
+
+
 ### Cooperation and Joint Reviews
 
 
 
-**Report under [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
+**Report by review panel — national interest referral**
 
 **138** 
 
-- **(1)** A review panel established under subsection 40(2.1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) in respect of a proposal for a development that was referred pursuant to paragraph 130(1)(c) of this Act shall, in addition to satisfying the requirements of paragraph 41(f) of that Act, submit the report of its recommendations
-	- **(a)** to the federal Minister, who shall distribute it to every responsible minister; and
-	- **(b)** to any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development.
+- **(1)** A review panel established under subsection 40(2.1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) in respect of a proposal for a development that was referred pursuant to paragraph 130(1)(c) of this Act shall, in addition to satisfying the requirements of paragraph 41(f) of that Act, submit the report of its recommendations to
+	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
+	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
-**Application of other sections**
+**Provisions applicable**
 
-- **(2)** An examination by a review panel referred to in subsection (1) stands in lieu of an environmental impact review and sections 135 to 137 apply, with such modifications as may be required, in respect of the examination.
+- **(2)** An examination by a review panel referred to in subsection (1) stands in lieu of an environmental impact review and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
+> 1998, c. 25, s. 138; 2005, c. 1, s. 87.
 
 
 
 
-**Examination with designated regulatory agency**
+
+**Agreement — national interest referral**
+
+**138.1** 
+
+- **(1)** If a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii is referred to the Minister of the Environment under paragraph 130(1)(c), then the Review Board shall enter into an agreement with the Minister of the Environment for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the impact on the environment of the development in accordance with subsection 40(2.1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+
+**Mediation**
+
+- **(2)** If the Review Board and the Minister of the Environment have not entered into an agreement under subsection (1) within the period fixed by any regulations, they shall participate in mediation in accordance with those regulations for the purpose of reaching an agreement under subsection (1).
+
+**Arbitration**
+
+- **(3)** If the Review Board and the Minister of the Environment have not entered into an agreement under subsection (1) by the end of any mediation required under subsection (2), they may, within the period fixed by any regulations, by mutual agreement refer any unresolved matter to arbitration in accordance with those regulations.
+
+**Where no agreement**
+
+- **(4)** Despite subsections (1) to (3), if, within the period fixed by the regulations, an agreement has not been entered into under this section, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
+> 2005, c. 1, s. 87.
+
+
+
+
+
+**Agreement — designated regulatory agency**
 
 **139** 
 
-- **(1)** Where an environmental impact review of a proposal is ordered under this Part, and a licence, permit or other authorization must be issued by a designated regulatory agency in order for the proposed development to be carried out, the Review Board and the agency may enter into an agreement for the examination of the impact of the development on the environment by a joint panel established for that purpose.
+- **(1)** Where an environmental impact review of a proposal for a development that, as determined by the Review Board, is to be carried out wholly in the Mackenzie Valley, other than a development that has been referred to the Minister of the Environment under paragraph 130(1)(c), is ordered under this Part, and a licence, permit or other authorization must be issued by a designated regulatory agency in order for the proposed development to be carried out, the Review Board and the agency may enter into an agreement for the examination of the impact of the development on the environment by a joint panel established for that purpose.
 
-**Report to ministers and agencies**
+**Report to ministers, agencies and Tlicho Government**
 
 - **(2)** A joint panel so established shall make a report of its examination to
-	- **(a)** the federal Minister, who shall distribute it to every responsible minister; and
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development.
+	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
+	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
-**Powers of ministers and agencies**
+**Provisions applicable**
 
-- **(3)** An examination by a joint panel established under this section stands in lieu of an environmental impact review and sections 135 to 137 apply, with such modifications as may be required, in respect of the examination.
+- **(3)** An examination by a joint panel established under this section stands in lieu of an environmental impact review and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
+> 1998, c. 25, s. 139; 2005, c. 1, s. 87.
+
 
 
 
@@ -2183,21 +2805,24 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(1)** Where it appears to the Review Board, during the environmental assessment of a development proposed to be carried out wholly within the Mackenzie Valley, that the development might have a significant adverse impact on the environment in a region outside the Mackenzie Valley, the Review Board shall so advise the authority responsible for the examination of environmental effects in that region and request its cooperation in the conduct of the assessment.
 
-**Impact outside Mackenzie Valley**
+**Agreement — other authority**
 
-- **(2)** Where it has been determined pursuant to subsection 128(4), 130(2) or 131(3) that a development referred to in subsection (1) is likely to have a significant adverse impact on the environment in a region outside the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of environmental effects in that region to provide for
+- **(2)** Where the Review Board has determined that a development referred to in subsection (1), other than a development that has been referred to the Minister of the Environment under paragraph 130(1)(c), is likely to have a significant adverse impact on the environment in a region outside the Mackenzie Valley, the Review Board may, with the approval of the federal Minister, enter into an agreement with the authority responsible for the examination of environmental effects in that region to provide for
 	- **(a)** the coordination of the respective examinations of the environmental impact of the development; or
 	- **(b)** the examination of the environmental impact of the development by a joint panel established for that purpose.
 
-**Report to ministers and agencies**
+**Report to ministers, agencies and Tlicho Government**
 
 - **(3)** A joint panel established under subsection (2) shall make a report of its recommendations to
-	- **(a)** the federal Minister, who shall distribute it to every responsible minister; and
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development.
+	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
+	- **(c)** the Tlicho Government, if the development is to be carried out wholly or partly on Tlicho lands.
 
-**Powers of ministers and agencies**
+**Provisions applicable**
 
-- **(4)** An examination by a joint panel established under subsection (2) stands in lieu of an environmental impact review of the proposal and sections 135 to 137 apply, with such modifications as may be required, in respect of the examination.
+- **(4)** An examination by a joint panel established under subsection (2) stands in lieu of an environmental impact review of the proposal and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
+> 1998, c. 25, s. 140; 2005, c. 1, s. 88.
+
 
 
 
@@ -2212,27 +2837,34 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(1)** In relation to a development that is proposed to be carried out partly in the Mackenzie Valley and partly in a region of the Northwest Territories, Yukon or Nunavut adjacent to the Mackenzie Valley, or partly in a province, as the case may be, the Review Board shall to the extent possible coordinate its environmental assessment functions with the functions of any authority responsible for the examination of environmental effects of the development in that region or province.
 
-**Agreement — region or province**
+**Agreement — cases other than Wekeezhii**
 
-- **(2)** Where an environmental impact review of a proposal for such a development is ordered in respect of the Mackenzie Valley, the Review Board may, with the approval of the federal Minister,
+- **(2)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development referred to in subsection (1), other than a development referred to in subsection (3), the Review Board may, with the approval of the federal Minister,
 	- **(a)** enter into an agreement with the Minister of the Environment in accordance with sections 40 and 41 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) to provide for an examination by a review panel, in any case where that Act applies in respect of the development in the region or province referred to in subsection (1); and
 	- **(b)** in any other case, enter into an agreement with an authority responsible for the examination of environmental effects of such developments in that region or province to provide for the coordination of their respective examinations of the environmental impact of the development or to provide for the examination of that impact by a joint panel established for that purpose.
 
-**Aboriginal representation**
+**Agreement — Wekeezhii**
 
-- **(3)** Where a review panel referred to in paragraph (2)(a) is established in relation to a development to be carried out partly in a region of the Northwest Territories, Yukon or Nunavut, at least one quarter of its members, excluding the chairperson, must be appointed on the nomination of first nations and other aboriginal groups affected by the proposed development.
+- **(3)** If an environmental impact review is ordered under subparagraph 128(1)(b)(i), paragraph 128(1)(c) or 130(1)(a), subparagraph 130(1)(b)(ii) or paragraph 131(1)(b) in respect of a proposal for a development that, as determined by the Review Board, is to be carried out partly outside the Mackenzie Valley and either is to be carried out partly in Wekeezhii or might have an impact on the environment in Wekeezhii, the Review Board shall enter into an agreement for the purpose of jointly establishing a review panel and prescribing the manner of its examination of the impact on the environment of the development
+	- **(a)** with an authority responsible for the examination of environmental effects of the part of the development that is to be carried out outside the Mackenzie Valley; or
+	- **(b)** with the Minister of the Environment if that Minister is authorized under section 40 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) to enter into such an agreement.
 
-**Report to ministers and agencies**
+**Where no agreement**
 
-- **(4)** A review panel or joint panel established by an agreement referred to in subsection (2) shall make a report of its examination to
+- **(4)** Despite subsection (3), if, within the period fixed by the regulations, an agreement has not been entered into under that subsection, a panel of the Review Board shall conduct an environmental impact review of the development, but the review shall be limited to the part of the development to be carried out in the Mackenzie Valley.
+
+**Report**
+
+- **(5)** A review panel or joint panel established by an agreement referred to in subsection (2) or (3) shall make a report of its examination to
 	- **(a)** the federal Minister, who shall distribute it to every responsible minister;
-	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development; and
-	- **(c)** in the case of a joint panel referred to in paragraph (2)(b), the minister of the federal, provincial or territorial government having jurisdiction in relation to examinations conducted by the authority referred to in that paragraph.
+	- **(b)** any designated regulatory agency from which a licence, permit or other authorization is required for the carrying out of the development;
+	- **(c)** in the case of a joint panel referred to in paragraph (2)(b) or (3)(a), the minister of the federal, provincial or territorial government having jurisdiction in relation to examinations conducted by the authority referred to in that paragraph; and
+	- **(d)** the Tlicho Government, if the development is to be carried out partly on Tlicho lands.
 
-**Powers of ministers and agencies**
+**Provisions applicable**
 
-- **(5)** An examination by a review panel or joint panel referred to in subsection (2) stands in lieu of an environmental impact review of the proposal referred to in that subsection and sections 135 to 137 apply, with such modifications as may be required, in respect of the examination.
-> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E).
+- **(6)** An examination by a review panel or joint panel referred to in subsection (2) or (3) stands in lieu of an environmental impact review of the proposal referred to in that subsection and paragraphs 134(1)(b), (d) and (e) and sections 135 to 137.2 apply, with such modifications as may be required, in respect of the examination, except that a recommendation of a panel may not be referred back to the panel for further consideration.
+> 1998, c. 15, s. 48, c. 25, s. 141; 2002, c. 7, s. 206(E); 2005, c. 1, s. 89.
 
 
 
@@ -2255,23 +2887,28 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **143** 
 
-- **(1)** The Governor in Council may, following consultation by the federal Minister with the territorial Minister and first nations, make regulations for carrying out the purposes and provisions of this Part and, in particular, regulations
+- **(1)** The Governor in Council may, following consultation by the federal Minister with the territorial Minister, first nations and the Tlicho Government, make regulations for carrying out the purposes and provisions of this Part and, in particular, regulations
 	- **(a)** prescribing procedures in relation to preliminary screenings, environmental assessments and environmental impact reviews generally, including
 		- **(i)** limits on the time for making any decision or recommendation, including a decision of a responsible minister, and
 		- **(ii)** the form and content of reports required by this Part;
 	- **(b)** specifying the federal and territorial laws in respect of which preliminary screenings of proposals must be conducted by regulatory authorities and designated regulatory agencies before the issuance of licences, permits or other authorizations;
-	- **(c)** exempting any development or class of development from a preliminary screening for a reason referred to in paragraph 124(1)(a) or (b); and
-	- **(d)** respecting the establishment, maintenance and operation of a public registry, public accessibility to records contained in the registry, the time and manner in which those records may be examined or copied and fees that may be charged to the public therefor.
+	- **(c)** exempting any development or class of development from a preliminary screening for a reason referred to in paragraph 124(1)(a) or (b);
+	- **(d)** respecting the establishment, maintenance and operation of a public registry, public accessibility to records contained in the registry, the time and manner in which those records may be examined or copied and fees that may be charged to the public therefor;
+	- **(e)** fixing a period for the purposes of subsection 138.1(2) and respecting mediation referred to in that subsection;
+	- **(f)** fixing the period within which a matter may be referred to arbitration under subsection 138.1(3) and respecting arbitration under that subsection; and
+	- **(g)** fixing a period for the purposes of subsections 138.1(4) and 141(4).
 
 **Consultation with Review Board**
 
-- **(2)** Regulations may only be made under paragraph (1)(a) or (d), or amended under paragraph (1)(b) or (c), following consultation by the federal Minister with the Review Board.
+- **(2)** Regulations may only be made under paragraph (1)(a), (d), (e), (f) or (g), or amended under paragraph (1)(b) or (c), following consultation by the federal Minister with the Review Board.
 
 **Exemptions**
 
 - **(3)** No development may be exempted for a reason set out in paragraph 124(1)(b) if
 	- **(a)** it is a project or belongs to a class of projects, within the meaning of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), by virtue of regulations made pursuant to paragraph 59(b) of that Act; or
 	- **(b)** it is a project or belongs to a class of projects for which a comprehensive study is required under that Act by regulations made pursuant to paragraph 59(d) of that Act.
+> 1998, c. 25, s. 143; 2005, c. 1, s. 90.
+
 
 
 
@@ -2280,11 +2917,13 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **144** 
 
-- **(1)** The Governor in Council may, by regulations made following consultation by the federal Minister with the Review Board, the first nations and the territorial Minister, amend the schedule by adding, or by deleting, the name of any agency, other than a land and water board established by Part 3 or 4, that exercises regulatory powers pursuant to territorial or federal laws and that is not subject to specific control or direction by a minister of the federal or territorial government or the Governor in Council.
+- **(1)** The Governor in Council may, by regulations made following consultation by the federal Minister with the territorial Minister, the Review Board, the first nations and the Tlicho Government, amend the schedule by adding, or by deleting, the name of any agency, other than a land and water board established by Part 3 or 4, that exercises regulatory powers pursuant to territorial or federal laws and that is not subject to specific control or direction by a minister of the federal or territorial government or the Governor in Council.
 
 **Exception**
 
 - **(2)** Policy directions of general application governing an agency, or the power to approve, vary or rescind an agency’s decisions, do not constitute specific control or direction for the purposes of subsection (1).
+> 1998, c. 25, s. 144; 2005, c. 1, s. 91.
+
 
 
 
@@ -2312,15 +2951,17 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
-**Consultation with first nations**
+**Consultation with first nations and Tlicho Government**
 
 **147** 
 
-- **(1)** A responsible authority that is a minister of the Crown in right of Canada shall carry out the functions referred to in section 146 in consultation with the first nations.
+- **(1)** A responsible authority that is a minister of the Crown in right of Canada shall carry out the functions referred to in section 146 in consultation with the first nations and the Tlicho Government.
 
-**Role of first nations**
+**Role of first nations and Tlicho Government**
 
-- **(2)** Where a responsible authority is other than a minister of the Crown in right of Canada, the Gwich’in and Sahtu First Nations are entitled to participate in the functions referred to in section 146 in the manner provided by the regulations.
+- **(2)** Where a responsible authority is other than a minister of the Crown in right of Canada, the Gwich’in and Sahtu First Nations and the Tlicho Government are entitled to participate in the functions referred to in section 146 in the manner provided by the regulations.
+> 1998, c. 25, s. 147; 2005, c. 1, s. 92.
+
 
 
 
@@ -2333,7 +2974,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Terms of reference**
 
-- **(2)** The federal Minister shall, after consulting the Gwich’in First Nation, the Sahtu First Nation and the territorial government, fix the terms of reference of an environmental audit, including the key components of the environment to be examined.
+- **(2)** The federal Minister shall, after consulting the Gwich’in First Nation, the Sahtu First Nation, the Tlicho Government and the territorial government, fix the terms of reference of an environmental audit, including the key components of the environment to be examined.
 
 **Content of audit**
 
@@ -2347,9 +2988,11 @@ before the expiration of ten days after receiving the report of the Review Board
 
 - **(4)** A report of the environmental audit, which may include recommendations, shall be prepared and submitted to the federal Minister, who shall make the report available to the public.
 
-**Participation by first nations**
+**Participation by first nations and Tlicho Government**
 
-- **(5)** The Gwich’in and Sahtu First Nations are entitled to participate in an environmental audit in the manner provided by the regulations.
+- **(5)** The Gwich’in and Sahtu First Nations and the Tlicho Government are entitled to participate in an environmental audit in the manner provided by the regulations.
+> 1998, c. 25, s. 148; 2005, c. 1, s. 93.
+
 
 
 
@@ -2363,10 +3006,12 @@ before the expiration of ten days after receiving the report of the Review Board
 
 **Regulations**
 
-**150** The Governor in Council may, after consultation by the federal Minister with affected first nations and the territorial Minister, make regulations for carrying out the purposes and provisions of this Part and, in particular, regulations
+**150** The Governor in Council may, after consultation by the federal Minister with affected first nations, the Tlicho Government and the territorial Minister, make regulations for carrying out the purposes and provisions of this Part and, in particular, regulations
 - **(a)** respecting the collection of data and the analysis of data so collected and scientific data, traditional knowledge and other information, for the purposes of section 146;
 - **(b)** designating a person or body as the responsible authority for the purposes of this Part; and
-- **(c)** respecting the manner of participation of the Gwich’in and Sahtu First Nations in the functions of a responsible authority that is not a minister of the Crown or in an environmental audit.
+- **(c)** respecting the manner of participation of the Gwich’in and Sahtu First Nations and the Tlicho Government in the functions of a responsible authority that is not a minister of the Crown or in an environmental audit.
+> 1998, c. 25, s. 150; 2005, c. 1, s. 94.
+
 
 
 
