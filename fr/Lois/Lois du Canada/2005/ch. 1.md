@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md)
 
-# Loi sur les revendications territoriales et l'autonomie gouvernementale du peuple tlicho
+# Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho
 
 **L.C. 2005, ch. 1**
 
@@ -14,7 +14,7 @@ Sanctionnée sur le 15 février 2005
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que le peuple tlicho est un peuple autochtone du Canada qui, de temps immémorial, occupe et utilise des terres comprises dans les Territoires du Nord-Ouest et des terres contiguës à ceux-ci;
 
@@ -24,15 +24,13 @@ que le peuple tlicho a, par un vote tenu les 26 et 27 juin 2003, autorisé la co
 
 que le peuple tlicho, représenté par le Conseil des Dogribs visés par le Traité n<sup>o</sup> 11, et les gouvernements des Territoires du Nord-Ouest et du Canada ont signé l’accord le 25 août 2003;
 
-que le commissaire en conseil des Territoires du Nord-Ouest a pris, le 10 octobre 2003, l’ordonnance intitulée 
-Loi sur l’accord sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho approuvant l’accord;
+que le commissaire en conseil des Territoires du Nord-Ouest a pris, le 10 octobre 2003, l’ordonnance intitulée Loi sur l’accord sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho approuvant l’accord;
 
-que l’accord stipule qu’il constitue un accord sur des revendications territoriales au sens de l’article 35 de la 
-Loi constitutionnelle de 1982 et que son approbation par le Parlement est un préalable à sa validité,
+que l’accord stipule qu’il constitue un accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982 et que son approbation par le Parlement est un préalable à sa validité,
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -58,15 +56,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada et signé le 25 août 2003, avec ses modifications éventuelles.
+***Accord*** L’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada et signé le 25 août 2003, avec ses modifications éventuelles. (*Agreement*)
 
-***accord sur le traitement fiscal*** L’accord sur le traitement fiscal conclu entre le gouvernement du Canada, le gouvernement des Territoires du Nord-Ouest et la première nation tlicho et signé le 6 février 2003 pour le compte du gouvernement du Canada, le 27 février 2003 pour le compte du gouvernement des Territoires du Nord-Ouest et le 3 mars 2003 pour le compte de la première nation tlicho, avec ses modifications éventuelles.
+***accord sur le traitement fiscal*** L’accord sur le traitement fiscal conclu entre le gouvernement du Canada, le gouvernement des Territoires du Nord-Ouest et la première nation tlicho et signé le 6 février 2003 pour le compte du gouvernement du Canada, le 27 février 2003 pour le compte du gouvernement des Territoires du Nord-Ouest et le 3 mars 2003 pour le compte de la première nation tlicho, avec ses modifications éventuelles. (*Tax Treatment Agreement*)
 
-***gouvernement tlicho*** Le gouvernement de la première nation tlicho institué conformément au chapitre 7 de l’Accord.
+***gouvernement tlicho*** Le gouvernement de la première nation tlicho institué conformément au chapitre 7 de l’Accord. (*Tlicho Government*)
 
-***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho.
+***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho. (*Tlicho law*)
 
-French version only***peuple tlicho*** S’entend au sens du chapitre 1 de l’Accord.
+***peuple tlicho*** S’entend au sens du chapitre 1 de l’Accord. (***French version only***)
 
 
 
@@ -94,7 +92,7 @@ French version only***peuple tlicho*** S’entend au sens du chapitre 1 de l’A
 
 **Publication**
 
-**4** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie de l’Accord et de ses modifications éventuelles :
+**4** Le ministre des Affaires indiennes et du Nord canadien fait déposer une copie de l’Accord et de ses modifications éventuelles :
 - **a)** à la bibliothèque du Parlement;
 - **b)** à la bibliothèque de l’Assemblée législative des Territoires du Nord-Ouest;
 - **c)** au siège du gouvernement tlicho;
@@ -711,6 +709,6 @@ French version only***peuple tlicho*** S’entend au sens du chapitre 1 de l’A
 
 <sup><a href='#T-11.3_f-s111'>[*]</a></sup>**111** La présente loi, à l’exception des articles 107 à 110, entre en vigueur à la date fixée par décret.
 
-<a name='T-11.3_f-s111'><sup>*</sup></a>: [Note : Articles 107 à 110 en vigueur à la sanction le 15 février 2005.]<br />
+<a name='T-11.3_f-s111'><sup>*</sup></a>: [Note : Articles 107 à 110 en vigueur à la sanction le 15 février 2005; loi, à l’exception des articles 107 à 110, en vigueur le 4 août 2005, *voir* TR/2005-54.]<br />
 
 
