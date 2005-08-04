@@ -26,6 +26,8 @@ WHEREAS on October 10, 2003 the Commissioner in Council of the Northwest Territo
 
 AND WHEREAS the agreement provides that the agreement will be a land claims agreement within the meaning of section 35 of the Constitution Act, 1982 and that approval by Parliament is a condition precedent to the validity of the agreement;
 
+
+
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
@@ -52,13 +54,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003, including any amendments made to it from time to time.
+***Agreement*** means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003, including any amendments made to it from time to time. (*Accord*)
 
-***Tax Treatment Agreement*** means the Tlicho Tax Treatment Agreement among the Government of Canada, the Government of the Northwest Territories and the Tlicho First Nation, signed on behalf of the Government of Canada on February 6, 2003, on behalf of the Government of the Northwest Territories on February 27, 2003 and on behalf of the Tlicho First Nation on March 3, 2003, including any amendments made to it from time to time.
+***Tax Treatment Agreement*** means the Tlicho Tax Treatment Agreement among the Government of Canada, the Government of the Northwest Territories and the Tlicho First Nation, signed on behalf of the Government of Canada on February 6, 2003, on behalf of the Government of the Northwest Territories on February 27, 2003 and on behalf of the Tlicho First Nation on March 3, 2003, including any amendments made to it from time to time. (*accord sur le traitement fiscal*)
 
-***Tlicho Government*** means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Agreement.
+***Tlicho Government*** means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Agreement. (*gouvernement tlicho*)
 
-***Tlicho law*** means a law enacted by the Tlicho Government.
+***Tlicho law*** means a law enacted by the Tlicho Government. (*loi tlicho*)
 
 
 
@@ -714,6 +716,6 @@ the issue shall not be decided until the party raising the issue has served noti
 
 <sup><a href='#T-11.3_e_s.111'>[*]</a></sup>**111** This Act, other than sections 107 to 110, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='T-11.3_e_s.111'><sup>*</sup></a>: [Note: Sections 107 to 110 in force on assent February 15, 2005.]<br />
+<a name='T-11.3_e_s.111'><sup>*</sup></a>: [Note: Sections 107 to 110 in force on assent February 15, 2005; Act, other than sections 107 to 110, in force August 4, 2005, *see* SI/2005-54.]<br />
 
 
