@@ -1478,15 +1478,15 @@ mais non compris :
 
 
 
-**(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5a méthylènemorphinan-6 diol-3,14)
+**(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
 
 
 
-**(34.1)** naloxone (époxy–4,5a dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
+**(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
 
 
 
-**(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5a dihydroxy-3,14 morphinanone–6)
+**(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
 
 
 
@@ -1943,7 +1943,10 @@ mais non compris :
 **17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
 
 
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A).
+**18** Méthamphétamine (N,α-diméthylbenzèneéthanamine)
+
+
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1.
 
 
 
@@ -2006,83 +2009,83 @@ mais non compris :
 **(articles 2 à 7, 29, 55 et 60)**
 **1** Les amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, notamment :
 
-**(1)** amphétamine (a–méthylbenzèneéthanamine)
+**(1)** amphétamine (α–méthylbenzèneéthanamine)
 
 
 
-**(2)** méthamphétamine (N,a–diméthylbenzèneéthanamine)
+**(2)** [Abrogé, DORS/2005-235, art. 2]
 
 
 
-**(3)** N–éthylamphétamine (N–éthyl a–méthylbenzène-éthanamine)
+**(3)** N–éthylamphétamine (N–éthyl α–méthylbenzène-éthanamine)
 
 
 
-**(4)** méthyl–4 diméthoxy–2,5 amphétamine (STP) (diméthoxy–2,5 4,a–diméthylbenzèneéthanamine)
+**(4)** méthyl–4 diméthoxy–2,5 amphétamine (STP) (diméthoxy–2,5 4,α–diméthylbenzèneéthanamine)
 
 
 
-**(5)** méthylènedioxy–3,4 amphétamine (MDA) (a–méthyl benzodioxole–1,3 éthanamine–5)
+**(5)** méthylènedioxy–3,4 amphétamine (MDA) (α–méthyl benzodioxole–1,3 éthanamine–5)
 
 
 
-**(6)** diméthoxy–2,5 amphétamine (diméthoxy–2,5 a–méthylbenzèneéthanamine)
+**(6)** diméthoxy–2,5 amphétamine (diméthoxy–2,5 α–méthylbenzèneéthanamine)
 
 
 
-**(7)** méthoxy–4 amphétamine (méthoxy–4 a–méthylbenzèneéthanamine)
+**(7)** méthoxy–4 amphétamine (méthoxy–4 α–méthylbenzèneéthanamine)
 
 
 
-**(8)** triméthoxy–2,4,5 amphétamine (triméthoxy–2,4,5 a–méthylbenzèneéthanamine)
+**(8)** triméthoxy–2,4,5 amphétamine (triméthoxy–2,4,5 α–méthylbenzèneéthanamine)
 
 
 
-**(9)** N–méthyl méthylènedioxy–3,4 amphétamine (N,a–diméthyl benzodioxole–1,3 éthanamine–5)
+**(9)** N–méthyl méthylènedioxy–3,4 amphétamine (N,α–diméthyl benzodioxole–1,3 éthanamine–5)
 
 
 
-**(10)** éthoxy–4 diméthoxy–2,5 amphétamine (éthoxy–4 diméthoxy–2,5 a–méthylbenzèneéthanamine)
+**(10)** éthoxy–4 diméthoxy–2,5 amphétamine (éthoxy–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
 
 
 
-**(11)** méthoxy–5 méthylènedioxy–3,4 amphétamine (N,a–diméthyl benzodioxole–1,3 éthanamine–5)
+**(11)** méthoxy–5 méthylènedioxy–3,4 amphétamine (N,α–diméthyl benzodioxole–1,3 éthanamine–5)
 
 
 
-**(12)** N,N–diméthyl méthylènedioxy–3,4 amphétamine (N,N,a–triméthyl benzodioxole–1,3 éthanamine–5)
+**(12)** N,N–diméthyl méthylènedioxy–3,4 amphétamine (N,N,α–triméthyl benzodioxole–1,3 éthanamine–5)
 
 
 
-**(13)** N–éthyl méthylènedioxy–3,4 amphétamine (N–éthyl a–méthyl benzodioxole–1,3 éthanamine–5)
+**(13)** N–éthyl méthylènedioxy–3,4 amphétamine (N–éthyl α–méthyl benzodioxole–1,3 éthanamine–5)
 
 
 
-**(14)** éthyl–4 diméthoxy–2,5 amphétamine (DŒT) (éthyl–4 diméthoxy–2,5 a–méthylbenzèneéthanamine)
+**(14)** éthyl–4 diméthoxy–2,5 amphétamine (DŒT) (éthyl–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
 
 
 
-**(15)** bromo–4 diméthoxy–2,5 amphétamine (bromo–4 diméthoxy–2,5 a–méthylbenzèneéthanamine)
+**(15)** bromo–4 diméthoxy–2,5 amphétamine (bromo–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
 
 
 
-**(16)** chloro–4 diméthoxy–2,5 amphétamine (chloro–4 diméthoxy–2,5 a–méthylbenzèneéthanamine)
+**(16)** chloro–4 diméthoxy–2,5 amphétamine (chloro–4 diméthoxy–2,5 α–méthylbenzèneéthanamine)
 
 
 
-**(17)** éthoxy–4 amphétamine (éthoxy–4 a–méthylbenzèneéthanamine)
+**(17)** éthoxy–4 amphétamine (éthoxy–4 α–méthylbenzèneéthanamine)
 
 
 
-**(18)** benzphétamine (N–benzyl N,a–diméthylbenzèneéthanamine)
+**(18)** benzphétamine (N–benzyl N,α–diméthylbenzèneéthanamine)
 
 
 
-**(19)** N–propyl méthylènedioxy–3,4 amphétamine (a–méthyl N–propyl benzodioxole–1,3 éthanamine)
+**(19)** N–propyl méthylènedioxy–3,4 amphétamine (α–méthyl N–propyl benzodioxole–1,3 éthanamine)
 
 
 
-**(20)** (hydroxy–2 éthyl)–N méthyl–a benzèneéthanamine
+**(20)** (hydroxy–2 éthyl)–N méthyl–α benzèneéthanamine
 
 
 
@@ -2094,8 +2097,16 @@ mais non compris :
 
 
 
+sauf :
 
-**2** Méthylphénidate (ester méthylique de l’acide a–phénylpipéridine–2 acétique) et ses sels
+
+
+**(23)** méthamphétamine (N,α-diméthylbenzèneéthanamine)
+
+
+
+
+**2** Méthylphénidate (ester méthylique de l’acide α–phénylpipéridine–2 acétique) et ses sels
 
 
 **3** Méthaqualone (méthyl–2 (méthyl–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
@@ -2146,7 +2157,7 @@ mais non compris :
 **18** Méthyl–4 aminorex (dihydro–4,5 méthyl–4 phényl–5 oxazolamine–2) et ses sels
 
 
-**19** Cathinone (1–a–aminopropiophénone) et ses sels
+**19** Cathinone (1–α–aminopropiophénone) et ses sels
 
 
 **20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
@@ -2185,11 +2196,10 @@ mais non compris :
 **31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
 
 
-**32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5)
-amino]-7 heptanoïque et ses sels
+**32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
 
 
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2,  3, 4(F) et 5; DORS/2003-412.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2.
 
 
 
