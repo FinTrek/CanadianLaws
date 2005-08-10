@@ -1976,8 +1976,12 @@ but not including
 
 
 
+**18** Methamphetamine (N,α-dimethylbenzeneethanamine)
 
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E).
+
+
+
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1.
 
 
 
@@ -2037,86 +2041,86 @@ but not including
 
 
 ### **SCHEDULE III** 
-**(*Sections 2 to 7, 29, 55 and 60*)**
+**(Sections 2 to 7, 29, 55 and 60)**
 **1** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues including:
 
-**(1)** amphetamine (a–methylbenzeneethanamine)
+**(1)** amphetamine (α–methylbenzeneethanamine)
 
 
 
-**(2)** methamphetamine (N,a–dimethylbenzeneethanamine)
+**(2)** [Repealed, SOR/2005–235, s. 2]
 
 
 
-**(3)** N–ethylamphetamine (N–ethyl–a–methylbenzeneethanamine)
+**(3)** N–ethylamphetamine (N–ethyl–α–methylbenzeneethanamine)
 
 
 
-**(4)** 4–methyl–2,5–dimethoxyamphetamine (STP) (2,5–dimethoxy–4,a–dimethylbenzeneethanamine)
+**(4)** 4–methyl–2,5–dimethoxyamphetamine (STP) (2,5–dimethoxy–4,α–dimethylbenzeneethanamine)
 
 
 
-**(5)** 3,4–methylenedioxyamphetamine (MDA) (a–methyl–1,3–benzodioxole–5–ethanamine)
+**(5)** 3,4–methylenedioxyamphetamine (MDA) (α–methyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(6)** 2,5–dimethoxyamphetamine (2,5–dimethoxy–a–methylbenzeneethanamine)
+**(6)** 2,5–dimethoxyamphetamine (2,5–dimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(7)** 4–methoxyamphetamine (4–methoxy–a–methylbenzeneethanamine)
+**(7)** 4–methoxyamphetamine (4–methoxy–α–methylbenzeneethanamine)
 
 
 
-**(8)** 2,4,5–trimethoxyamphetamine (2,4,5–trimethoxy–a–methylbenzeneethanamine)
+**(8)** 2,4,5–trimethoxyamphetamine (2,4,5–trimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(9)** N–methyl–3,4–methylenedioxyamphetamine (N,a–dimethyl–1,3–benzodioxole–5–ethanamine)
+**(9)** N–methyl–3,4–methylenedioxyamphetamine (N,α–dimethyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(10)** 4–ethoxy–2,5–dimethoxyamphetamine (4–ethoxy–2,5–dimethoxy–a–methylbenzeneethanamine)
+**(10)** 4–ethoxy–2,5–dimethoxyamphetamine (4–ethoxy–2,5–dimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(11)** 5–methoxy–3,4–methylenedioxyamphetamine (7–methoxy–a–methyl–1,3–benzodioxole–5–ethanamine)
+**(11)** 5–methoxy–3,4–methylenedioxyamphetamine (7–methoxy–α–methyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(12)** N,N–dimethyl–3,4–methylenedioxyamphetamine (N,N, a–trimethyl–1,3–benzodioxole–5–ethanamine)
+**(12)** N,N–dimethyl–3,4–methylenedioxyamphetamine (N,N, α–trimethyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(13)** N–ethyl–3,4–methylenedioxyamphetamine (N–ethyl–a–methyl–1,3–benzodioxole–5–ethanamine)
+**(13)** N–ethyl–3,4–methylenedioxyamphetamine (N–ethyl–α–methyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(14)** 4–ethyl–2,5–dimethoxyamphetamine (DOET) (4–ethyl–2,5–dimethoxy–a–methylbenzeneethanamine)
+**(14)** 4–ethyl–2,5–dimethoxyamphetamine (DOET) (4–ethyl–2,5–dimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(15)** 4–bromo–2,5–dimethoxyamphetamine (4–bromo–2,5–dimethoxy–a–methylbenzeneethanamine)
+**(15)** 4–bromo–2,5–dimethoxyamphetamine (4–bromo–2,5–dimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(16)** 4–chloro–2,5–dimethoxyamphetamine (4–chloro–2,5–dimethoxy–a–methylbenzeneethanamine)
+**(16)** 4–chloro–2,5–dimethoxyamphetamine (4–chloro–2,5–dimethoxy–α–methylbenzeneethanamine)
 
 
 
-**(17)** 4–ethoxyamphetamine (4–ethoxy–a–methylbenzeneethanamine)
+**(17)** 4–ethoxyamphetamine (4–ethoxy–α–methylbenzeneethanamine)
 
 
 
-**(18)** Benzphetamine (N–benzyl–N,a–dimethylbenzeneethanamine)
+**(18)** Benzphetamine (N–benzyl–N,α–dimethylbenzeneethanamine)
 
 
 
-**(19)** N–Propyl–3,4–methylenedioxyamphetamine (a–methyl–N–propyl–1,3–benzodioxole–5–ethanamine)
+**(19)** N–Propyl–3,4–methylenedioxyamphetamine (α–methyl–N–propyl–1,3–benzodioxole–5–ethanamine)
 
 
 
-**(20)** N–(2–Hydroxyethyl)–a–methylbenzeneethanamine
+**(20)** N–(2–Hydroxyethyl)–α–methylbenzeneethanamine
 
 
 
@@ -2128,8 +2132,16 @@ but not including
 
 
 
+but not including
 
-**2** Methylphenidate (a–phenyl–2–piperidineacetic acid methyl ester) and any salt thereof
+
+
+**(23)** Methamphetamine (N,α-dimethylbenzeneethanamine)
+
+
+
+
+**2** Methylphenidate (α–phenyl–2–piperidineacetic acid methyl ester) and any salt thereof
 
 
 **3** Methaqualone (2–methyl–3–(2–methylphenyl)–4(3H)–quinazolinone) and any salt thereof
@@ -2180,7 +2192,7 @@ but not including
 **18** 4–Methylaminorex (4,5–dihydro–4–methyl–5–phenyl–2–oxazolamine) and any salt thereof
 
 
-**19** Cathinone ((–)–a–aminopropiophenone) and any salt thereof
+**19** Cathinone ((–)–α–aminopropiophenone) and any salt thereof
 
 
 **20** Fenetylline (d,l–3,7–dihydro–1,3–dimethyl–7–(2–[(1–methyl–2–phenethyl)amino]ethyl)–1H–purine–2, 6–dione) and any salt thereof
@@ -2222,7 +2234,7 @@ but not including
 **32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
 
 
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2.
 
 
 
