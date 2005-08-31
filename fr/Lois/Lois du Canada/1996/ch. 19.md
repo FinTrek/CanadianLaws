@@ -1875,7 +1875,11 @@ mais non compris :
 
 
 
-**14** Phencyclidine ((phényl–1 cyclohexyl)–1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues
+**14** Phencyclidine ((phényl-1 cyclohexyl)-1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
+
+**(1)** kétamine (2-(2-chlorophényl)-2- (méthylamino)cyclohexanone)
+
+
 
 
 **15** Piritramide (amide de l’acide (cyano–3 diphénylpropyl–3,3)–1 (pipéridino–1)–4 pipéridine carboxylique–4), ses sels et dérivés, ainsi que les sels de ses dérivés
@@ -1946,7 +1950,7 @@ mais non compris :
 **18** Méthamphétamine (N,α-diméthylbenzèneéthanamine)
 
 
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1, 271.
 
 
 
