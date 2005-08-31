@@ -225,6 +225,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **2** Annapolis Valley Band
 
 
+**2.1** Bear River Band
+
+
 **3** Chapel Island Band
 
 
@@ -245,5 +248,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **9** Whycocomagh First Nation
 
+
+> 1998, c. 24, Sch.; SOR/2005-275.
 
 
