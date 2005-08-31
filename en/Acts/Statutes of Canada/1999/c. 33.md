@@ -7810,7 +7810,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **70. [71.]** 2-methoxyethanol, which has the molecular formula C<sub>3</sub>H<sub>8</sub>O<sub>2</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46.
+**72** Tetrachlorobenzenes, which have the molecular formula C<sub>6</sub>H <sub>2</sub>Cl<sub>4</sub>
+
+
+**73** Pentachlorobenzene, which has the molecular formula C <sub>6</sub>HCl<sub>5</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262.
 
 
 
