@@ -7526,7 +7526,13 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **70. [71.]** Le 2-méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46.
+**72** Tétrachlorobenzènes, dont la formule moléculaire est C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub>
+
+
+**73** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262.
 
 
 
