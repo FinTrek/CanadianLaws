@@ -885,12 +885,12 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(4)** Lorsque, en vertu du paragraphe 146(8.8) de la Loi, une somme est réputée avoir été reçue par un rentier à titre de prestation versée à même un régime enregistré d’épargne-retraite ou en vertu de ce dernier et doit, en vertu du paragraphe 146(8) de la Loi, être incluse dans le calcul du revenu de ce rentier pour une année d’imposition, l’émetteur du régime doit remplir à l’égard de cette somme une déclaration de renseignements selon le formulaire prescrit.
 
-- **(5)** Si le paragraphe 146(16) de la Loi s’applique à un versement ou transfert de biens, l’émetteur du régime duquel le versement ou transfert est fait doit remplir à cet égard une déclaration de renseignements sur le formulaire prescrit.
+- **(5)** L’émetteur du régime sur lequel est effectué un versement ou un transfert de biens auquel s’applique l’alinéa 146(16)b) de la Loi est tenu de remplir, à l’égard du versement ou du transfert, une déclaration de renseignements sur le formulaire prescrit.
 
 - **(6)** [Abrogé, DORS/2003-5, art. 5]
 
 - **(7)** Au présent article, ***émetteur*** et ***rentier*** s’entendent au sens du paragraphe 146(1) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-502, art. 3; DORS/83-866, art. 5; DORS/88-165, art. 31(F); DORS/92-51, art. 3; DORS/2001-188, art. 2; DORS/2003-5, art. 5.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-502, art. 3; DORS/83-866, art. 5; DORS/88-165, art. 31(F); DORS/92-51, art. 3; DORS/2001-188, art. 2; DORS/2003-5, art. 5; DORS/2005-264, art. 1.
 
 
 
@@ -929,8 +929,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(4)** L’émetteur d’un fonds enregistré de revenu de retraite doit remplir, selon le formulaire prescrit, une déclaration de renseignements à l’égard des sommes qui sont réputées, en vertu des paragraphes 146.3(6) ou (12) de la Loi, avoir été reçues par un rentier d’un tel fonds ou en vertu d’un tel fonds.
 
-- **(5)** Si l’alinéa 146.3(14)b) de la Loi s’applique au transfert d’un montant, l’émetteur de fonds duquel le transfert est fait doit remplir à cet égard une déclaration de renseignements sur le formulaire prescrit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-948, art. 1; DORS/84-967, art. 1; DORS/88-165, art. 31(F); DORS/2003-5, art. 6.
+- **(5)** L’émetteur du fonds sur lequel est effectué un transfert auquel s’applique le paragraphe 146.3(14) de la Loi est tenu de remplir, à l’égard du transfert, une déclaration de renseignements sur le formulaire prescrit.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-948, art. 1; DORS/84-967, art. 1; DORS/88-165, art. 31(F); DORS/2003-5, art. 6; DORS/2005-264, art. 2.
 
 
 
@@ -1006,26 +1006,27 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
-### Placements admissibles et biens étrangers
+### Placements admissibles
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+
 
 
 **221** 
 
 - **(1)** Pour l’application du présent article, ***déclarant*** s’entend des personnes suivantes :
-	- **a)** les sociétés de placement à capital variable;
-	- **b)** les sociétés de placement;
-	- **c)** les fiducies de fonds commun de placement;
-	- **d)** les fiducies de fonds mis en commun au sens du paragraphe 5000(7);
-	- **e)** les fiducies d’avoirs miniers au sens du paragraphe 5000(7);
-	- **f)** les fiducies qui seraient des fiducies de fonds commun de placement s’il n’était pas tenu compte, à la partie XLVIII, de l’alinéa 4801b);
-	- **g)** les fiducies visées à l’alinéa 65(1)c) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md);
-	- **h)** les fiducies de placement dans des petites entreprises au sens du paragraphe 5103(1);
-	- **i)** les fiducies visées à l’alinéa 149(1)o.4) de la Loi.
+	- **a) ** les sociétés de placement à capital variable;
+	- **b) ** les sociétés de placement;
+	- **c) ** les fiducies de fonds commun de placement;
+	- **d) et e)** [Abrogés, DORS/2005-264, art. 4]
+	- **f) ** les fiducies qui seraient des fiducies de fonds commun de placement s’il n’était pas tenu compte, à la partie XLVIII, de l’alinéa 4801b);
+	- **g) ** [Abrogé, DORS/2005-264, art. 4]
+	- **h) ** les fiducies de placement dans des petites entreprises au sens du paragraphe 5103(1).
+	- **i) ** [Abrogé, DORS/2005-264, art. 4]
 
 - **(2)** Le déclarant, sauf un placement enregistré, qui déclare, au cours d’une année d’imposition, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires est un placement admissible pour l’application des articles 146, 146.1, 146.3 ou 204 de la Loi est tenu de produire, pour l’année et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements sur le formulaire prescrit.
 
-- **(3)** Un déclarant, sauf un placement enregistré, est tenu de produire, pour une année d’imposition et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements sur le formulaire prescrit s’il déclare, au cours de l’année, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires n’est pas un bien étranger pour l’application de l’article 206 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1.
+- **(3)** [Abrogé, DORS/2005-264, art. 4]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1; DORS/2005-264, art. 4.
 
 
 
@@ -5431,7 +5432,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 
 **1219** 
 
-- **(1)** Sous réserve du paragraphe (2) et pour l’application du paragraphe 66.1(6) de la Loi, ***frais liés aux énergies renouvelables et à l’économie d’énergie au Canada*** s’entend des dépenses engagées par un contribuable, et payables à une personne ou à une société de personnes avec laquelle il n’a aucun lien de dépendance, relativement à la réalisation de travaux dans le cadre desquels il est raisonnable de s’attendre à ce qu’au moins 50 % du coût en capital des biens amortissables qui y seront utilisés soit celui de biens qui sont visés à la catégorie 43.1 de l’annexe II ou qui seraient ainsi visés si ce n’était le présent paragraphe. Sont comprises parmi ces frais les dépenses de ce type que le contribuable engage à l’une des fins suivantes :
+- **(1)** Sous réserve des paragraphes (2) à (4) et pour l’application du paragraphe 66.1(6) de la Loi, ***frais liés aux énergies renouvelables et à l’économie d’énergie au Canada*** s’entend des dépenses engagées par un contribuable, et payables à une personne ou à une société de personnes avec laquelle il n’a aucun lien de dépendance, relativement à la réalisation de travaux dans le cadre desquels il est raisonnable de s’attendre à ce qu’au moins 50 % du coût en capital des biens amortissables qui y seront utilisés soit celui de biens qui sont visés à la catégorie 43.1 de l’annexe II ou qui seraient ainsi visés si ce n’était le présent paragraphe. Sont comprises parmi ces frais les dépenses de ce type que le contribuable engage à l’une des fins suivantes :
 	- **a)** la mise en place d’un branchement jusqu’aux travaux en vue de la transmission d’électricité à un acheteur de l’électricité, dans la mesure où la dépense n’a pas été engagée en vue d’acquérir un bien du contribuable;
 	- **b)** la construction d’une route d’accès temporaire menant à l’emplacement des travaux;
 	- **c)** l’utilisation d’un droit d’accès à l’emplacement des travaux avant le premier moment où un bien visé à la catégorie 43.1 de l’annexe II est utilisé dans le cadre des travaux en vue de gagner un revenu;
@@ -5442,7 +5443,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 		- **(iii)** les simulations et l’analyse relatives à l’efficacité et au coût des modèles proposés dans l’étude technique,
 		- **(iv)** la sélection du modèle optimal;
 	- **f)** le forage ou l’achèvement d’un puits relatif aux travaux;
-	- **g)** l’utilisation de son éolienne à des fins d’essai dans le cadre des travaux.
+	- **g)** l’utilisation d’une éolienne d’essai qui fait partie de son parc d’éoliennes.
 
 - **(2)** Les dépenses suivantes ne sont pas comprises parmi les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada :
 	- **a)** celles qui sont visées aux alinéas 20(1)c), d), e) ou e.1) de la Loi;
@@ -5461,10 +5462,26 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 			- **(A)** à la construction, à la rénovation ou à la modification des biens, sauf dans le cas prévu aux alinéas (1)b), f) ou g),
 			- **(B)** à la propriété d’un fonds de terre au cours de la période, sauf dans le cas prévu aux alinéas (1)b), c) ou d).
 
-- **(3)** Pour l’application de l’alinéa (1)g), ***éolienne à des fins d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, si ce n’était le présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v), si le ministre, en consultation avec le ministre des Ressources naturelles, établit que l’installation répond aux conditions suivantes :
-	- **a)** elle sera la première du genre à être installée à l’emplacement où le contribuable projette de monter un système de conversion de l’énergie cinétique du vente;
-	- **b)** son principal objet consiste à vérifier le niveau de production d’énergie électrique à l’emplacement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4.
+- **(3)** Pour l’application de l’alinéa (1)g), ***éolienne d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, en l’absence du présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v), si le ministre, en consultation avec le ministre des Ressources naturelles, établit ce qui suit :
+	- **a)** l’installation fait partie d’un parc d’éoliennes existant ou projeté du contribuable, et l’énergie électrique produite à partir du vent par l’installation, et par les autres éoliennes d’essai du parc, n’excède pas :
+		- **(i)** le tiers de la capacité nominale prévue du parc, selon les plaques signalétiques, si, à la fois :
+			- **(A)** le ministre des Ressources naturelles est d’avis que la capacité nominale prévue du parc est limitée sur le plan technique ou scientifique,
+			- **(B)** la capacité nominale prévue du parc n’excède pas six mégawatts,
+		- **(ii)** 20 % de la capacité nominale prévue du parc, selon les plaques signalétiques, dans les autres cas;
+	- **b)** le parc ne partage pas, avec quelque autre projet, de point d’interconnexion à un réseau de transport ou de distribution d’énergie électrique;
+	- **c)** le parc, s’il n’a pas de point d’interconnexion à un réseau de transport ou de distribution d’énergie électrique, a un point d’interconnexion :
+		- **(i)** à un système électrique du contribuable, à la fois :
+			- **(A)** qui est situé à plus de dix kilomètres de tout réseau de transport et de tout réseau de distribution,
+			- **(B)** à partir duquel au moins 90 % de l’énergie électrique produite par le parc est utilisée dans le cadre d’une entreprise exploitée par le contribuable,
+		- **(ii)** à un système électrique d’une autre personne ou société de personnes sans lien de dépendance avec le contribuable, à la fois :
+			- **(A)** qui est situé à plus de dix kilomètres de tout réseau de transport et de tout réseau de distribution,
+			- **(B)** à partir duquel au moins 90 % de l’énergie électrique produite par le parc est utilisée dans le cadre d’une entreprise exploitée par l’autre personne ou société de personnes;
+	- **d)** la construction de l’installation a pour principal objet de vérifier le niveau d’énergie électrique produite à partir du vent par l’installation là où elle se trouve;
+	- **e)** aucune autre éolienne d’essai ne se trouve dans un périmètre de 1 500 mètres de l’installation;
+	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
+
+- **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1.
 
 
 
@@ -9380,11 +9397,18 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 		- **(ii)** fiducies visées aux divisions 149(1)o.2)(iv)(B) ou (C) de la Loi,
 		- **(iii)** personnes visées au présent paragraphe.
 
+- **(1.1)** Pour l’application de l’alinéa 149(1)o.4) de la Loi, est une fiducie principale à un moment donné la fiducie qui, après sa création et avant ce moment, remplit les conditions suivantes :
+	- **a)** elle réside au Canada;
+	- **b)** sa seule entreprise consiste à investir ses fonds;
+	- **c)** elle n’a jamais contracté d’emprunts d’argent autres que des emprunts d’une durée d’au plus 90 jours et il est établi que ces emprunts ne faisaient pas partie d’une série d’emprunts — ou d’autres opérations — et de remboursements;
+	- **d)** elle n’a jamais accepté de dépôts;
+	- **e)** chacun de ses bénéficiaires est une fiducie régie par un régime de pension agréé ou par un régime de participation différée aux bénéfices.
+
 - **(2)** Pour l’application de l’alinéa 149(1)t) de la Loi, les assureurs visés sont :
 	- **a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.;
 	- **c)** Laurentienne Agricole, Compagnie d’Assurance inc.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5.
 
 
 
@@ -9454,7 +9478,12 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 	- **d.2)** d’une unité d’une fiducie, dans le cas où, à la fois :
 		- **(i)** la fiducie serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’alinéa 4801a),
 		- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
-	- **e)** d’un droit de souscription ou d’achat conférant à son propriétaire le droit d’acquérir, soit immédiatement, soit plus tard, un bien qui constitue un placement admissible pour la fiducie de régime;
+	- **e)** d’une option, d’un droit de souscription ou d’un droit semblable (appelés «titre» au présent alinéa) émis par une personne ou une société de personnes (appelées «émetteur» au présent alinéa) qui confère au détenteur le droit soit d’acquérir, immédiatement ou ultérieurement, des biens qui constituent chacun un placement admissible pour la fiducie de régime, soit de recevoir, en remplacement de la livraison de ces biens, un règlement en espèces si, à la fois :
+		- **(i)** le bien est, selon le cas :
+			- **(A)** une action du capital-actions, une unité ou une créance de l’émetteur ou d’une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur,
+			- **(B)** un droit de souscription émis par l’émetteur ou par une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur, lequel droit confère au détenteur le droit d’acquérir des actions ou unités visées à la division (A),
+		- **(ii)** l’émetteur et quiconque est rentier, bénéficiaire, employeur ou souscripteur en vertu du régime d’encadrement de la fiducie de régime n’ont entre eux aucun lien de dépendance;
+	- **e.01)** d’une option, d’un droit de souscription ou d’un droit semblable inscrit à la cote d’une bourse de valeurs visée aux articles 3200 ou 3201 et se rapportant à des biens qui constituent chacun un placement admissible pour la fiducie de régime;
 	- **e.1)** un dépôt auprès d’une société d’entraide économique ou une action de son capital-actions;
 	- **f)** d’une action d’une caisse de crédit ou d’un intérêt dans une caisse de crédit;
 	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est un rentier, un bénéficiaire ou un employeur en vertu du régime d’encadrement de la fiducie de régime, ou à toute autre personne qui a un lien de dépendance avec cette personne, du fait :
@@ -9484,13 +9513,27 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **i.11)** d’une action du capital-actions d’une société canadienne qui est agréée en vertu de l’article 11 de la loi intitulée Equity Tax Credit Act, chapitre 3 des Statutes of Nova Scotia, 1993, et dont l’agrément n’a pas été retiré en vertu de cette loi;
 	- **i.12)** d’une action du capital-actions d’une société canadienne qui est inscrite aux termes de l’article 39 de la Loi sur les crédits d’impôt pour investissement de capital de risque, chapitre 22 des Lois des Territoires du Nord-Ouest de 1998, et dont l’inscription n’a pas été révoquée en vertu de cette loi;
 	- **i.2)** d’une dette d’une société canadienne (sauf une société qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime), attestée par une acceptation de banque;
-	- **j)** d’une hypothèque qui, à la fois :
-		- **(i)** vise un bien immeuble situé au Canada (ou un droit sur l’hypothèque),
-		- **(ii)** est, si l’un des créanciers hypothécaires est une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime, ou une personne ayant un lien de dépendance avec une telle personne :
-			- **(A)** d’une part, gérée par un prêteur agréé en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
-			- **(B)** d’autre part, assurée :
-				- **(I)** soit en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
-				- **(II)** soit par une société qui offre au public au Canada des services en tant qu’assureur d’hypothèques et qui est agréée à titre d’assureur privé d’hypothèques par le surintendant des institutions financières conformément aux attributions qui lui sont conférées en vertu du paragraphe 6(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md);
+	- **i.3)** d’un titre de créance émis par une société canadienne ou par une fiducie résidant au Canada si, à la fois :
+		- **(i)** la société ou la fiducie a pour principal objet de tirer un revenu d’un bien, ou de la disposition d’un bien, qui est :
+			- **(A)** soit un titre de créance ou un bail qui a pris naissance dans le cours normal des activités d’une entreprise entre des parties sans lien de dépendance,
+			- **(B)** soit un bien visé au présent alinéa,
+			- **(C)** soit un intérêt ou, pour l’application du droit civil, un droit sur un bien visé aux divisions (A) ou (B),
+		- **(ii)** le titre de créance était classé, au moment de son acquisition par la fiducie de régime, dans une catégorie d’évaluation supérieure par une agence d’évaluation qui évalue des titres de créance dans le cours normal des activités de son entreprise,
+		- **(iii)** selon le cas :
+			- **(A)** le titre de créance est émis par la société ou la fiducie dans le cadre d’une émission unique d’au moins 25 000 000 $,
+			- **(B)** au moment de l’émission du titre de créance, les créances émises et en circulation de la société ou de la fiducie s’élèvent à au moins 25 000 000 $;
+	- **j)** d’un titre de créance d’un débiteur, ou d’un intérêt ou, pour l’application du droit civil, un droit sur ce titre, dans le cas où, à la fois :
+		- **(i)** le titre de créance est entièrement garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou le serait n’était une diminution de la juste valeur marchande du bien qui s’est opérée après l’émission du titre de créance,
+		- **(ii)** le débiteur (et toute personne ou société de personnes avec lequel il a un lien de dépendance) n’est ni rentier, ni bénéficiaire, ni employeur, ni souscripteur en vertu du régime d’encadrement de la fiducie de régime;
+	- **j.1)** d’un titre de créance garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou d’un intérêt ou, pour l’application du droit civil, un droit sur ce titre, si le titre de créance est, à la fois :
+		- **(i)** administré par un prêteur agréé sous le régime de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
+		- **(ii)** assuré :
+			- **(A)** soit en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
+			- **(B)** soit par une société qui offre au public au Canada des services d’assureur de créances hypothécaires et qui est agréée à titre d’assureur privé de créances hypothécaires par le surintendant des institutions financières en vertu du paragraphe 6(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md);
+	- **j.2)** d’un certificat constatant un intérêt indivis ou, pour l’application du droit civil, un droit indivis sur un ou plusieurs biens si, à la fois :
+		- **(i)** la totalité ou la presque totalité de la juste valeur marchande du certificat est attribuable à un bien qui est un titre de créance garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou qui est accessoire à tel titre,
+		- **(ii)** le certificat était classé, au moment de son acquisition par la fiducie de régime, dans une catégorie d’évaluation supérieure par une agence d’évaluation qui évalue des titres de créance dans le cours normal des activités de son entreprise,
+		- **(iii)** le certificat est émis par l’émetteur dans le cadre d’une émission de certificats d’au moins 25 000 000 $;
 	- **k)** d’un placement, autre qu’un placement admissible décrit aux alinéas a) à j), qui
 		- **(i)** était à la fin de 1980, un placement admissible pour une fiducie en vertu du sous-alinéa 204e)(v) de la Loi ou de l’article 1502, de la présente partie ou de l’article 5800, selon le cas, d’après le libellé de ces dispositions d’alors,
 		- **(ii)** était détenu par la fiducie au 31 décembre 1980 et continuellement par la suite jusqu’à la date donnée, et
@@ -9506,6 +9549,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(vi)** la Banque africaine de développement;
 	- **m)** d’une part de redevance cotée sur une bourse de valeurs mentionnée à l’article 3200 et dont la valeur provient uniquement d’avoirs miniers canadiens;
 	- **n)** d’une part dans une société de personnes en commandite, inscrite à la cote d’une bourse de valeurs visée à l’article 3200;
+	- **n.01)** d’une créance émise par une société de personnes en commandite dont les parts sont inscrites à la cote d’une bourse de valeurs visée à l’article 3200;
 	- **n.1)** d’une unité d’une fiducie donnée, si, à la fois :
 		- **(i)** à la date donnée, l’unité est cotée sur une bourse de valeurs mentionnée à l’article 3201,
 		- **(ii)** la principale raison d’être de la fiducie donnée est :
@@ -9536,7 +9580,23 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(ii)** remplit les conditions suivantes :
 			- **(A)** il a été acquis par la fiducie de régime après août 2000 d’une autre fiducie de régime dont le rentier ou le bénéficiaire est également le rentier ou le bénéficiaire de la fiducie de régime,
 			- **(B)** immédiatement avant son acquisition par la fiducie de régime, il était un placement admissible de l’autre fiducie de régime,
-			- **(C)** il serait un placement admissible de la fiducie de régime par l’effet du présent alinéa s’il n’était pas tenu compte du présent sous-alinéa, et il a été acquis par la fiducie de régime avant septembre 2000.
+			- **(C)** il serait un placement admissible de la fiducie de régime par l’effet du présent alinéa s’il n’était pas tenu compte du présent sous-alinéa, et il a été acquis par la fiducie de régime avant septembre 2000;
+	- **t)** d’une pièce d’or ou d’argent ayant cours légal qui, à la fois :
+		- **(i)** a un titre minimal de 995 parties par mille, dans le cas de l’or, et de 999 parties par mille, dans le cas de l’argent,
+		- **(ii)** a été produite par la Monnaie royale canadienne,
+		- **(iii)** a une juste valeur marchande à la date donnée n’excédant pas 110 % de la juste valeur marchande de son contenu en or ou en argent,
+		- **(iv)** est acquise par la fiducie de régime directement de la Monnaie royale canadienne ou d’une société (appelée «société déterminée» aux alinéas u) et v)) qui, à la fois :
+			- **(A)** est une banque, une société de fiducie, une caisse de crédit, une compagnie d’assurance ou un courtier en valeurs mobilières inscrit,
+			- **(B)** réside au Canada,
+			- **(C)** est une société dont les activités d’entreprise sont légalement sous la surveillance d’un organisme de réglementation au Canada, à savoir le surintendant des institutions financières ou un organisme provincial semblable;
+	- **u)** d’un lingot ou d’une plaquette d’or ou d’argent qui, à la fois :
+		- **(i)** a un titre minimal de 995 parties par mille, dans le cas de l’or, et de 999 parties par mille, dans le cas de l’argent,
+		- **(ii)** a été produit par un affineur dont le nom figure sur la liste de bonne livraison d’affineurs agréés d’or ou d’argent, selon le cas, de la London Bullion Market Association,
+		- **(iii)** porte le poinçon de l’affineur qui l’a produit ainsi qu’une estampille indiquant son titre et son poids,
+		- **(iv)** est acquis par la fiducie de régime soit directement de l’affineur qui l’a produit, soit d’une société déterminée;
+	- **v)** d’un certificat délivré par une société déterminée ou la Monnaie royale canadienne qui constate le droit du titulaire sur un bien détenu par l’émetteur, dans le cas où, à la fois :
+		- **(i)** le bien serait visé aux alinéas t) ou u) si ceux-ci s’appliquaient compte non tenu de leur sous-alinéa (iv),
+		- **(ii)** le certificat est acquis par la fiducie de régime directement de l’émetteur ou d’une société déterminée.
 
 - **(2)** Les billets, obligations, acceptations de banque ou autres titres semblables des personnes suivantes ne sont pas des placements admissibles pour la fiducie visée à l’alinéa a) :
 	- **a)** un employeur qui fait des paiements en fiducie à un fiduciaire dans le cadre d’un régime de participation différée aux bénéfices ou d’un régime dont l’agrément est retiré, pour le compte de bénéficiaires du régime;
@@ -9606,7 +9666,7 @@ la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est rép
 		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
 		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
 L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6.
 
 
 
@@ -9688,211 +9748,20 @@ sauf si le total des montants dont chacun représente le coût indiqué d’une 
 
 
 **PARTIE L** 
-## Régimes de revenu différé, biens étrangers
-
-
-**5000** 
-
-- **(1)** Lorsqu’un contribuable détient une action du capital-actions d’une société de placement à capital variable (sauf une société de placement) ou qu’il possède une participation ou un droit d’acquérir une participation dans l’une des fiducies suivantes :
-	- **a)** une fiducie de fonds communs de placement,
-	- **b)** une fiducie de fonds mis en commun,
-	- **c)** une fiducie qui serait une fiducie de fonds communs de placement si la partie XLVIII se lisait sans l’alinéa 4801b),
-	- **c.1)** une fiducie d’avoirs miniers,
-	- **c.2)** une fiducie, dans le cas où, à la fois :
-		- **(i)** elle serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’article 4801,
-		- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale,
-cette action, cette participation ou ce droit, selon le cas, ne constitue pas un bien étranger aux fins du calcul de l’impôt à payer par le contribuable en vertu de la partie XI de la Loi à l’égard d’un mois donné, si
-	- **d)** ou bien la société ou fiducie n’a pas acquis de biens étrangers après le 30 juin 1971;
-	- **e)** ou bien le coût indiqué, pour la société ou la fiducie, des biens étrangers qu’elle détient n’a dépassé, à aucun moment de la période pertinente pour le mois donné, 30 % du coût indiqué, pour elle, de l’ensemble des biens qu’elle détient.
-
-- **(1.1)** Pour l’application de l’alinéa i) de la définition de ***bien étranger*** au paragraphe 206(1) de la Loi, les participations suivantes ne sont pas des biens étrangers :
-	- **a)** l’intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises (au sens du paragraphe 5102(1));
-	- **b)** la participation dans une fiducie de placement dans des petites entreprises (au sens du paragraphe 5103(1));
-	- **c)** [Abrogé, DORS/2003-328, art. 3]
-	- **d)** la participation dans une fiducie financière internationale déterminée;
-	- **e)** l’intérêt d’un commanditaire dans une société de personnes en commandite désignée.
-
-- **(1.2)** Pour l’application de l’alinéa i) de la définition de ***bien étranger***, au paragraphe 206(1) de la Loi, la participation du bénéficiaire dans une fiducie visée à l’alinéa 149(1)o.4) de la Loi ne constitue pas, à un moment donné, un bien étranger du bénéficiaire si, selon le cas :
-	- **a)** le bénéficiaire n’est propriétaire d’aucun bien étranger à ce moment;
-	- **b)** la fiducie n’est propriétaire d’aucun bien étranger à ce moment.
-
-- **(1.3)** Pour l’application de l’alinéa i) de la définition de ***bien étranger*** au paragraphe 206(1) de la Loi, la partie déterminée d’une part de commanditaire dans une société de personnes en commandite admissible que détient, à un moment donné, un associé désigné de la société de personnes ne constitue pas, à ce moment, un bien étranger de l’associé.
-
-- **(1.4)** Pour l’application du paragraphe (1.3), la partie déterminée d’une part de commanditaire dans une société de personnes en commandite admissible que détient, à un moment donné, un associé désigné correspond :
-	- **a)** si le nombre de parts de commanditaire dans la société de personnes, dont chacune est détenue à ce moment par l’associé désigné ou par un autre associé semblable avec lequel celui-ci a un lien de dépendance, représente au plus 30 % du nombre de parts de commanditaire dans la société de personnes détenues, à ce moment, par des associés désignés, à la part de commanditaire;
-	- **b)** dans les autres cas, à la proportion de la part de commanditaire que représente le coût indiqué, pour la société de personnes, des biens qu’elle détient à ce moment qui ne sont pas des biens étrangers, par rapport au coût indiqué, pour elle, de l’ensemble des biens qu’elle détient à ce moment.
-
-- **(1.5)** Pour l’application des paragraphes (1.3) et (1.4), est un associé désigné d’une société de personnes en commandite admissible à un moment donné la personne ou la société de personnes qui détient, à ce moment, une part de commanditaire dans la société de personnes et qui, à ce moment, n’est :
-	- **a)** ni le commandité de la société de personnes;
-	- **b)** ni une fiducie admissible, au sens du paragraphe 259(5) de la Loi, ni une société admissible, au sens du même paragraphe, auxquelles le paragraphe 259(1) de la Loi s’applique.
-
-- **(1.6)** Pour l’application des paragraphes (1.4) et (1.5), la personne ou la société de personnes, sauf le contribuable visé à l’article 205 de la Loi, qui détient à un moment donné une unité dans une fiducie admissible, au sens du paragraphe 259(5) de la Loi, ou une action d’une société admissible, au sens du même paragraphe, est réputée détenir à ce moment tout bien de la fiducie ou de la société qu’elle serait réputée, aux termes de l’alinéa 259(1)b) de la Loi, détenir à ce moment si elle était un contribuable visé à l’article 205 de la Loi.
-
-- **(2)** L’action du capital-actions d’une société visée au paragraphe (1) ou la participation ou le droit d’acquérir une participation dans une fiducie visée à ce paragraphe ne constitue pas un bien étranger aux fins du calcul de l’impôt à payer par un contribuable aux termes de la partie XI de la Loi pour un mois donné, si les conditions suivantes sont réunies :
-	- **a)** l’action, la participation ou le droit constituerait, sans le présent paragraphe, un bien étranger aux fins du calcul de l’impôt à payer par le contribuable aux termes de la partie XI de la Loi pour le mois donné;
-	- **b)** en ce qui concerne les biens détenus par la fiducie ou la société, la période pertinente pour le mois donné correspond à l’année d’imposition de la fiducie ou de la société qui comprend la fin de ce mois;
-	- **c)** à la fin de la période pertinente pour le mois donné, le coût indiqué, pour la société ou la fiducie, des biens étrangers qu’elle détient ne dépasse pas 30 % du coût indiqué, pour elle, de l’ensemble des biens qu’elle détient.
-
-- **(3)** Lorsqu’un contribuable détient une action du capital-actions d’une société de placement, les paragraphes (1), (2) et (7) s’appliquent à l’action comme si, à la fois :
-	- **a)** la mention «société de placement à capital variable (sauf une société de placement)» au paragraphe (1) était remplacée par la mention «société de placement»;
-	- **b)** la date du 30 juin 1971 au paragraphe (1) était remplacée par la date du 13 octobre 1971.
-
-- **(4)** L’action du capital-actions d’une société de placement qu’un contribuable détient ne constitue pas un bien étranger aux fins du calcul de l’impôt à payer par le contribuable aux termes de la partie XI de la Loi pour un mois donné, dans le cas où elle constituerait autrement un tel bien en raison seulement de l’acquisition par la société de biens étrangers avant le 16 octobre 1971.
-
-- **(5)** Lorsqu’une société de placement à capital variable ou une fiducie de fonds commun de placement détient une action du capital-actions d’une société de placement à capital variable (sauf une société de placement) ou possède une participation dans une fiducie de fonds commun de placement ou le droit d’acquérir une telle participation, l’action ou la participation ne constitue pas un bien étranger aux fins du calcul de l’impôt à payer par un contribuable aux termes de la partie XI de la Loi pour un mois donné, si la dernière société ou fiducie mentionnée remplit les conditions énoncées :
-	- **a)** soit à l’alinéa (1)d);
-	- **b)** soit à l’alinéa (1)e) en ce qui concerne le mois donné;
-	- **c)** soit aux alinéas (2)b) et c) en ce qui concerne le mois donné.
-
-- **(6)** Lorsqu’une société de placement à capital variable ou une fiducie de fonds commun de placement détient une action du capital-actions d’une société de placement, l’action ne constitue pas un bien étranger aux fins du calcul de l’impôt à payer par un contribuable aux termes de la partie XI de la Loi pour un mois donné, dans le cas où la société de placement :
-	- **a)** soit remplirait la condition énoncée à l’alinéa (1)d) si la date du 30 juin 1971 y était remplacée par la date du 16 octobre 1971;
-	- **b)** soit remplit la condition énoncée à l’alinéa (1)e) en ce qui concerne le mois donné;
-	- **c)** soit remplit les conditions énoncées aux alinéas (2)b) et c) en ce qui concerne le mois donné.
-
-- **(7)** Les définitions qui suivent s’appliquent à la présente partie.
-
-***bien étranger*** a le sens que lui donne l’article 206 de la Loi; (*foreign property*)
-
-***fiducie d’avoirs miniers*** désigne une fiducie dont le fiduciaire est une société de fiducie constituée en vertu de la loi fédérale ou provinciale et qui remplit les conditions suivantes :
-- **a)** la fiducie, en tout temps après le 12 novembre 1981 ou le moment de sa création, si celui-ci est postérieur au 12 novembre 1981 :
-	- **(i)** a limité ses activités
-		- **(A)** à acquérir des avoirs miniers canadiens en les achetant ou en engageant des frais d’exploration au Canada ou des frais d’aménagement au Canada, ou
-		- **(B)** à détenir, explorer, aménager, entretenir, améliorer, gérer, exploiter ses avoirs miniers canadiens ou à en disposer,
-	- **(ii)** n’a pas fait de placements autres que :
-		- **(A)** dans des avoirs miniers canadiens,
-		- **(B)** dans des biens à utiliser en rapport avec les avoirs miniers canadiens visés à la division (i)(A),
-		- **(C)** dans des prêts garantis par des avoirs miniers canadiens, en vue d’exercer une activité visée au sous-alinéa (i) à l’égard d’avoirs miniers canadiens,
-		- **(D)** dans des sociétés visées au sous-alinéa 149(1)o.2)(ii.1) de la Loi, ou
-		- **(E)** ceux qu’une caisse de pension ou un régime de pension est autorisé à faire en vertu de la Loi sur les normes des prestations de pension ou d’une loi provinciale semblable, et
-	- **(iii)** n’a emprunté de l’argent qu’en vue de tirer un revenu d’avoirs miniers canadiens;
-- **b)** les bénéficiaires de la fiducie, en tout temps après le 12 novembre 1981 ou le moment de sa création, si celui-ci est postérieur au 12 novembre 1981, étaient
-	- **(i)** des régimes de pension agréés, ou
-	- **(ii)** des fiducies dont tous les bénéficiaires étaient des régimes de pension agréés; (*resource property trust*)
-
-***fiducie de fonds mis en commun*** s’entend, en ce qui concerne un contribuable particulier qui possède une participation dans la fiducie, d’une fiducie dont le fiduciaire est une société de fiducie constituée en vertu des lois du Canada ou d’une province et qui remplit les conditions suivantes :
-- **a)** durant toute l’année d’imposition de la fiducie (appelée « première année pertinente » au présent paragraphe) au cours de laquelle le contribuable a acquis la participation, ou durant la première année d’imposition de la fiducie (appelée « deuxième année pertinente » au présent paragraphe) commençant plus d’une année après l’acquisition de la participation par le contribuable, le total des montants suivants à un moment donné représentait au moins 80 pour cent de l’excédent du coût indiqué, pour la fiducie, de tous les biens à ce moment sur le total des montants dus par elle à ce moment du fait qu’elle a acquis des biens immeubles et compris alors dans le coût indiqué pour elle de tels biens :
-	- **(i)** le coût indiqué, pour la fiducie, des biens suivants :
-		- **(A)** actions,
-		- **(B)** biens qui, selon les modalités s’y rattachant ou une convention s’y rapportant, sont convertibles en des actions ou échangeables contre des actions, ou confèrent le droit d’en acquérir,
-		- **(C)** obligations, hypothèques, billets et titres semblables,
-		- **(D)** valeurs négociables,
-		- **(E)** espèces,
-		- **(F)** polices d’assurance-vie au Canada, sauf les contrats de rente,
-		- **(G)** contrats de rente établis par des personnes autorisées par permis ou autrement, en vertu de la législation fédérale ou provinciale, à exercer au Canada un commerce de rentes,
-	- **(ii)** l’excédent du coût indiqué, pour la fiducie, de biens immeubles qu’il est raisonnable de considérer comme détenus afin de tirer un revenu de biens sur le total des montants dus par elle à ce moment fait qu’elle a acquis les biens immeubles et compris alors dans le coût indiqué pour elle de ces biens;
-- **b)** tout au long de la première ou de la deuxième année pertinente, le coût indiqué pour la fiducie, à un moment donné, d’actions, d’obligations, d’hypothèques et d’autres valeurs d’une même société ou d’un même débiteur, sauf les obligations, les hypothèques et les autres valeurs émises ou garanties par Sa Majesté du chef du Canada, par une province ou par une municipalité au Canada, ne dépassait pas 10 pour cent de l’excédent du coût indiqué pour elle de tous les biens à ce moment sur le total des montants dus par elle à ce moment du fait qu’elle a acquis des biens immeubles et compris alors dans le coût indiqué pour elle de tels biens;
-- **c)** tout au long de la première ou de la deuxième année pertinente, l’excédent du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) ne dépassait pas 10 pour cent de l’excédent du coût indiqué pour elle de tous les biens à un moment donné sur le total des montants dus par elle à ce moment du fait qu’elle a acquis des biens immeubles et compris alors dans le coût indiqué pour elle de tels biens :
-	- **(i)** le coût indiqué, pour la fiducie, d’un bien immeuble à ce moment,
-	- **(ii)** le total des montants dus par la fiducie à ce moment du fait qu’elle a acquis le bien immeuble et compris alors dans le coût indiqué pour elle de ce bien;
-- **d)** au moins 95 pour cent du revenu de la fiducie (déterminé compte non tenu des paragraphes 49(2.1) et 104(6) de la Loi) pour la première ou la deuxième année pertinente a été tiré de placements visés à l’alinéa a) ou de la disposition de tels placements. (*pooled fund trust*)
-
-***fiducie financière internationale déterminée*** À un moment donné, fiducie à l’égard de laquelle les conditions suivantes sont réunies :
-- **a)** elle a été établie principalement en vue d’investir dans les biens visés au sous-alinéa c)(i);
-- **b)** tout au long de la période ayant commencé au moment de son établissement et se terminant au moment donné, elle a résidé au Canada;
-- **c)** tout au long de la période ayant commencé trente jours après son établissement et se terminant au moment donné, le total des coûts indiqués, pour elle, des biens ci-après représentait au moins 90 % du total des coûts indiqués, pour elle, de ses biens :
-	- **(i)** les créances émises en faveur des entités suivantes :
-		- **(A)** la Banque africaine de développement,
-		- **(B)** la Banque asiatique de développement,
-		- **(C)** la Banque de développement des Caraïbes,
-		- **(D)** la Banque européenne pour la reconstruction et le développement,
-		- **(E)** Exportation et développement Canada,
-		- **(F)** la Banque interaméricaine de développement,
-		- **(G)** la Banque internationale pour la reconstruction et le développement,
-		- **(H)** la Société financière internationale,
-	- **(ii)** les actions et créances qui ne sont pas des biens étrangers de la fiducie; (*specified international finance trust*)
-
-***part de commanditaire*** En ce qui concerne une société de personnes en commandite admissible, part visée à l’alinéa d) de la définition de ***société de personnes en commandite admissible*** au présent paragraphe. (*limited unit*)
-
-***période pertinente pour le mois donné*** signifie relativement aux biens détenus par une société ou une fiducie particulière,
-- **a)** sa plus récente année d’imposition se terminant avant la fin du mois donné, et
-- **b)** son année d’imposition qui comprend la fin du mois donné, lorsque l’alinéa a) ne s’applique pas; (*relevant period for the particular month*)
-
-***période pertinente pour le mois particulier***[Abrogée, DORS/92-681, art. 3(F)]
-
-***société de personnes en commandite admissible*** à un moment donné après 1985, s’entend d’une société de personnes en commandite qui, en tout temps après sa formation et avant le moment donné, répond aux conditions suivantes :
-- **a)** elle n’a qu’un seul commandité;
-- **b)** la part du commandité, en sa qualité de commandité, du revenu de la société de personnes provenant de toute source située dans un endroit quelconque pour une période donnée est la même que sa part, en sa qualité de commandité :
-	- **(i)** du revenu de la société de personnes provenant de cette source située dans un autre endroit,
-	- **(ii)** du revenu de la société de personnes provenant d’une autre source,
-	- **(iii)** de la perte de la société de personnes provenant d’une source quelconque,
-	- **(iv)** d’un gain en capital de la société de personnes, et
-	- **(v)** d’une perte en capital de la société de personnes,
-pour cette période, sauf que la part du commandité, en sa qualité de commandité, du revenu ou de la perte de la société de personnes provenant de biens déterminés (au sens du paragraphe 5100(1)) peut différer de sa part, en sa qualité de commandité, du revenu ou de la perte de la société de personnes provenant d’autres sources;
-- **c)** la part du commandité, en sa qualité de commandité, d’un revenu ou d’une perte de la société de personnes pour une période quelconque n’est pas inférieure à sa part, en sa qualité de commandité, du revenu ou de la perte de la société de personnes pour une période antérieure;
-- **d)** les intérêts des commanditaires sont fonction des parts dans la société de personnes qui sont identiques à tous égards;
-- **e)** [Abrogé, DORS/2003-328, art. 3]
-- **f)** la seule entreprise de la société de personnes consiste à investir ses fonds, et ses seuls placements sont, selon le cas :
-	- **(i)** des actions du capital-actions de sociétés (à l’exclusion des actions visées à l’article 66.3 de la Loi et des actions à l’égard desquelles des montants ont été désignés en vertu du paragraphe 192(4) de la Loi, qui ont été émises à la société de personnes),
-	- **(ii)** des droits d’acquérir des actions du capital-actions de sociétés ou des bons de souscription qui confèrent à leur propriétaire le droit d’acquérir de telles actions,
-	- **(iii)** des options de vente ou d’achat sur des actions du capital-actions de sociétés,
-	- **(iv)** des créances de sociétés,
-	- **(v)** des biens déterminés (au sens du paragraphe 5100(1)),
-	- **(vi)** une combinaison quelconque des biens visés aux sous-alinéas (i) à (v);
-- **g)** aucun choix n’a été fait en vertu du paragraphe 97(2) de la Loi à l’acquisition d’un bien par la société de personnes;
-- **h)** la société de personnes n’a pas emprunté d’argent, sauf en vue de tirer un revenu de ses placements, et le montant de ces emprunts à une date quelconque ne dépasse pas 20 pour cent du capital de la société de personnes à cette date;
-- **i)** le coût indiqué, pour la société de personnes, des biens étrangers qu’elle détient au cours des périodes suivantes ne dépasse pas les pourcentages prévus du coût indiqué, pour elle, de l’ensemble des biens qu’elle détient :
-	- **(i)** avant 1990 et le moment donné : 10 pour cent,
-	- **(ii)** avant 1991 et le moment donné : 12 pour cent,
-	- **(iii)** avant 1992 et le moment donné : 14 pour cent,
-	- **(iv)** avant 1993 et le moment donné : 16 pour cent,
-	- **(v)** avant 1994 et le moment donné : 18 pour cent,
-	- **(vi)** avant 2000 et le moment donné : 20 pour cent,
-	- **(vii)** avant 2001 et le moment donné : 25 pour cent,
-	- **(viii)** avant le moment donné : 30 pour cent. (*qualified limited partnership*)
-
-***société de personnes en commandite désignée*** Société de personnes en commandite à l’égard de laquelle les conditions suivantes sont réunies :
-- **a)** les intérêts des commanditaires sont définis par rapport à une seule catégorie de parts de la société de personnes cotée à une bourse de valeurs visée à l’article 3200;
-- **b)** cette catégorie a été cotée avant 1999 à une bourse de valeurs visée à l’article 3200;
-- **c)** au moins 80 % des employés à temps plein de la société de personnes sont employés au Canada;
-- **d)** le total des coûts indiqués, pour la société de personnes, des biens utilisés dans le cadre des activités qu’elle exerce au Canada représente au moins 80 % du total des coûts indiqués, pour elle, de ses biens;
-- **e)** l’activité principale de la société de personnes consiste :
-	- **(i)** soit à produire des biens au Canada,
-	- **(ii)** soit à y vendre des biens,
-	- **(iii)** soit à y fournir des services,
-	- **(iv)** soit à exercer plusieurs des activités visées aux sous-alinéas (i) à (iii);
-- **f)** le revenu provenant de cette activité principale est réglementé par une administration régie par les lois fédérales ou provinciales. (*designated limited partnership*)
-
-- **(8)** Pour l’application de la définition de ***société de personnes en commandite désignée*** au paragraphe (7) et du présent paragraphe, lorsqu’une société de personnes donnée est l’associée d’une autre société de personnes à la fin d’un exercice de celle-ci (appelé « moment déterminant » au présent paragraphe), tout au long de la période commençant au moment déterminant et se terminant soit immédiatement avant la fin de l’exercice subséquent de l’autre société de personnes, soit, s’il est antérieur, au moment où cette dernière cesse d’exister :
-	- **a)** la société de personnes donnée est réputée employer un nombre supplémentaire d’employés à temps plein, ou d’employés à temps plein au Canada, selon le cas, égal au produit des éléments suivants :
-		- **(i)** la fraction déterminée calculée à son égard au moment déterminant relativement à l’autre société de personnes,
-		- **(ii)** le nombre d’employés à temps plein, ou d’employés à temps plein au Canada, selon le cas, de l’autre société de personnes au moment déterminant;
-	- **b)** chaque bien utilisé, ou utilisé dans le cadre d’activités exercées au Canada, selon le cas, au moment déterminant par l’autre société de personnes est réputé être utilisé, ou être utilisé dans ce cadre, selon le cas, par la société de personnes donnée, et son coût indiqué pour cette dernière est réputé égal au produit des éléments suivants :
-		- **(i)** la fraction déterminée calculée à l’égard de la société de personnes donnée au moment déterminant relativement à l’autre société de personnes,
-		- **(ii)** le coût indiqué du bien au moment déterminant pour l’autre société de personnes;
-	- **c)** la société de personnes donnée est réputée exercer chacune des activités exercées par l’autre société de personnes dans une mesure qui, d’après ce qu’il est raisonnable de considérer, reflète la fraction déterminée calculée à son égard au moment déterminant relativement à l’autre société de personnes.
-
-- **(9)** Pour l’application du paragraphe (8), la fraction déterminée calculée à l’égard de la société de personnes donnée relativement à l’autre société de personnes à la fin de l’exercice de celle-ci correspond au quotient de sa part du revenu ou de la perte de l’autre société de personnes pour l’exercice par le revenu ou la perte de celle-ci pour l’exercice.
-
-- **(10)** Pour l’application du paragraphe (9), si le revenu et la perte de l’autre société de personnes pour l’exercice sont nuls, le quotient visé à ce paragraphe est calculé comme si son revenu pour l’exercice était égal à 1 000 000 $.
-
-- **(11)** Les hypothèses formulées aux alinéas 96(1)a) à g) de la Loi s’appliquent dans le cadre de la définition de ***société de personnes en commandite désignée*** au paragraphe (7) et des paragraphes (8) à (10).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 5; DORS/85-712, art. 1; DORS/86-390, art. 4; DORS/90-606, art. 2; DORS/92-51, art. 8; DORS/92-123, art. 1; DORS/92-681, art. 3(F); DORS/94-471, art. 3; DORS/94-686, art. 28(F), 52(F), 71(F), 75(F), 78(F) et 79(F); DORS/97-105, art. 1; DORS/2000-62, art. 2; DORS/2000-190, art. 1; DORS/2001-216, art. 8; 2001, ch. 33, art. 30; DORS/2003-328, art. 3.
+> [Abrogée, DORS/2005-264, art. 9]
 
 
 
-
-**5001** Pour l’application de l’alinéa 149(1)o.4) de la Loi, est une fiducie principale à un moment donné la fiducie qui, après sa création et avant ce moment, remplit toutes les conditions suivantes :
-- **a)** elle réside au Canada;
-- **b)** sa seule entreprise consiste à investir ses fonds;
-- **c)** elle n’a jamais contracté d’emprunts d’argent autres que des emprunts d’une durée d’au plus 90 jours et il est établi que ces emprunts ne faisaient pas partie d’une série d’emprunts — ou d’autres opérations — et de remboursements;
-- **d)** elle n’a jamais accepté de dépôts;
-- **e)** chacun de ses bénéficiaires est une fiducie régie par un régime de pension agréé ou par un régime de participation différée aux bénéfices.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-606, art. 3; DORS/92-51, art. 8.
+**5000** [Abrogé, DORS/2005-264, art. 9]
 
 
 
+**5001** [Abrogé, DORS/2005-264, art. 9]
 
-**5002** Pour l’application du sous-alinéa 206(2.01)b)(ii) de la Loi :
-- **a)** sont des fiducies visées :
-	- **(i)** les fiducies de fonds mis en commun,
-	- **(ii)** les fiducies qui seraient des fiducies de fonds commun de placement s’il n’était pas tenu compte, à la partie XLVIII, de l’alinéa 4801b),
-	- **(iii)** les fiducies d’avoirs miniers,
-	- **(iv)** les fiducies principales au sens de l’article 5001,
-	- **(v)** toute fiducie qui répond aux conditions suivantes :
-		- **(A)** elle serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’article 4801,
-		- **(B)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
-- **b)** sont des sociétés de personnes visées les sociétés de personnes en commandite admissibles.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-62, art. 3; DORS/2001-216, art. 9.
+
+
+**5002** [Abrogé, DORS/2005-264, art. 9]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-62, art. 3; DORS/2001-216, art. 9; DORS/2005-264, art. 9.
 
 
 
@@ -9906,26 +9775,26 @@ pour cette période, sauf que la part du commandité, en sa qualité de commandi
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***bien déterminé*** Bien visé à l’un des sous-alinéas 204e) (i), (ii), (iii), (vii) et (viii) de la Loi. (*specified property*)
+***bien déterminé*** Bien visé à l’un des alinéas a), b), c), f) et g) de la définition de ***placement admissible*** à l’article 204 de la Loi. (*specified property*)
 
-***entreprise admissible exploitée activement*** Entreprise exploitée principalement au Canada par une société à une date quelconque, à l’exclusion :
+***entreprise admissible exploitée activement*** Entreprise exploitée principalement au Canada par une société à une date quelconque, à l’exclusion :
 - **a)** d’une entreprise (sauf une entreprise de louage de biens qui ne sont pas des biens immeubles) dont l’objet principal est de tirer un revenu de biens (y compris les intérêts, dividendes, loyers et redevances);
 - **b)** d’une entreprise qui consiste à tirer des gains de la disposition de biens, sauf les biens figurant à l’inventaire de l’entreprise;
 
-par ailleurs, pour l’application de la présente définition, une entreprise exploitée principalement au Canada par une société à une date quelconque comprend une entreprise exploitée par la société, dans l’un ou l’autre des cas suivants :
+par ailleurs, pour l’application de la présente définition, une entreprise exploitée principalement au Canada par une société à une date quelconque comprend une entreprise exploitée par la société, dans l’un ou l’autre des cas suivants :
 - **c)** si, à cette date, au moins 50 pour cent des employés à plein temps de la société et des sociétés liées à celle-ci qui occupent un emploi en rapport avec l’entreprise sont employés au Canada;
-- **d)** si, à cette date, il est raisonnable d’attribuer à des services rendus au Canada au moins 50 pour cent des traitements et salaires versés aux employés de la société et de chaque société liée à celle-ci qui occupent un emploi en rapport avec l’entreprise. (*qualifying active business*)
+- **d)** si, à cette date, il est raisonnable d’attribuer à des services rendus au Canada au moins 50 pour cent des traitements et salaires versés aux employés de la société et de chaque société liée à celle-ci qui occupent un emploi en rapport avec l’entreprise. (*qualifying active business*)
 
-***société admissible*** Est une société admissible à un moment donné :
-- **a)** une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à ce moment :
+***société admissible*** Est une société admissible à un moment donné :
+- **a)** une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à ce moment :
 	- **(i)** soit des biens utilisés dans le cadre d’une entreprise admissible exploitée activement par elle ou par une société qu’elle contrôle,
 	- **(ii)** soit des actions du capital-actions d’une ou de plusieurs sociétés admissibles qui lui sont liées ou des titres de créance émis par de telles sociétés,
 	- **(iii)** soit des biens et des actions visés aux sous-alinéas (i) et (ii);
 - **a.1)** une société de portefeuille déterminée;
 - **b)** une société à capital de risque visée à l’article 6700.
 
-N’est pas une société admissible :
-- **c)** une société (sauf une société de placement à capital variable) qui est, selon le cas :
+N’est pas une société admissible :
+- **c)** une société (sauf une société de placement à capital variable) qui est, selon le cas :
 	- **(i)** un négociant ou courtier en valeurs mobilières,
 	- **(ii)** une banque,
 	- **(iii)** une société autorisée par licence ou autrement, en vertu de la législation fédérale ou provinciale, à exploiter au Canada une entreprise d’offre au public de services de fiduciaire,
@@ -9934,27 +9803,27 @@ N’est pas une société admissible :
 	- **(vi)** une société dont l’activité d’entreprise principale consiste à prêter de l’argent ou à acheter des créances, ou à faire les deux;
 - **d)** une société contrôlée par une ou plusieurs personnes non-résidentes;
 - **e)** une société à capital de risque non visée à l’article 6700;
-- **f)** à tout moment donné dans la période de douze mois commençant le jour qui suit de six mois le jour où prend fin l’année d’imposition pour laquelle une société a fait le choix prévu au sous-alinéa (iv) de l’élément B de la formule figurant à l’alinéa 204.82(2.2)c.1) de la Loi, la société. (*eligible corporation*)
+- **f)** à tout moment donné dans la période de douze mois commençant le jour qui suit de six mois le jour où prend fin l’année d’imposition pour laquelle une société a fait le choix prévu au sous-alinéa (iv) de l’élément B de la formule figurant à l’alinéa 204.82(2.2)c.1) de la Loi, la société. (*eligible corporation*)
 
-***société de portefeuille déterminée*** S’entend, à un moment donné, d’une société canadienne imposable qui répond aux conditions suivantes :
-- **a)** la totalité, ou presque, des biens collectifs de la société et de toutes les sociétés qu’elle contrôle — chacune étant appelée «société contrôlée» dans la présente définition —, à l’exclusion des actions du capital-actions de la société ou d’une société qui lui est liée et des titres de créance émis par la société ou par une société qui lui est liée, sont utilisés à ce moment dans une entreprise admissible exploitée activement par la société;
-- **b)** la totalité, ou presque, des biens de la société sont à ce moment :
+***société de portefeuille déterminée*** S’entend, à un moment donné, d’une société canadienne imposable qui répond aux conditions suivantes :
+- **a)** la totalité, ou presque, des biens collectifs de la société et de toutes les sociétés qu’elle contrôle — chacune étant appelée « société contrôlée » dans la présente définition —, à l’exclusion des actions du capital-actions de la société ou d’une société qui lui est liée et des titres de créance émis par la société ou par une société qui lui est liée, sont utilisés à ce moment dans une entreprise admissible exploitée activement par la société;
+- **b)** la totalité, ou presque, des biens de la société sont à ce moment :
 	- **(i)** soit des biens utilisés dans une entreprise admissible exploitée activement par la société ou par une société contrôlée,
 	- **(ii)** soit des actions du capital-actions d’une ou plusieurs sociétés contrôlées ou sociétés admissibles liées à la société,
 	- **(iii)** soit des titres de créance émis par une ou plusieurs sociétés contrôlées ou sociétés admissibles liées à la société,
 	- **(iv)** soit une combinaison des biens visés aux sous-alinéas (i), (ii) et (iii).
 
-Afin de déterminer, pour l’application de l’alinéa a), si un bien est utilisé dans une entreprise admissible exploitée activement, les règles suivantes s’appliquent :
-- **c)** dans le cas d’une entreprise exploitée par une société contrôlée :
+Afin de déterminer, pour l’application de l’alinéa a), si un bien est utilisé dans une entreprise admissible exploitée activement, les règles suivantes s’appliquent :
+- **c)** dans le cas d’une entreprise exploitée par une société contrôlée :
 	- **(i)** d’une part, l’entreprise est réputée être une entreprise exploitée seulement par la société,
 	- **(ii)** d’autre part, la société contrôlée est réputée être la société pour l’application des alinéas c) et d) de la définition de ***entreprise admissible exploitée activement***;
-- **d)** les entreprises de la société qui sont essentiellement de même nature sont réputées être une seule entreprise de celle-ci. (*specified holding corporation*)
+- **d)** les entreprises de la société qui sont essentiellement de même nature sont réputées être une seule entreprise de celle-ci. (*specified holding corporation*)
 
-***taux déterminé*** Taux à une date quelconque qui correspond à 150 pour cent du plus élevé des taux préférentiels généralement cotés à cette date par les banques auxquelles s’applique l’annexe A de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*designated rate*)
+***taux déterminé*** Taux à une date quelconque qui correspond à 150 pour cent du plus élevé des taux préférentiels généralement cotés à cette date par les banques auxquelles s’applique l’annexe A de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*designated rate*)
 
-***titre admissible*** Obligation, hypothèque, billet ou titre semblable, à une date quelconque, d’une société visée aux alinéas 149(1)o.2) ou o.3) de la Loi dans le cas où :
+***titre admissible*** Obligation, hypothèque, billet ou titre semblable, à une date quelconque, d’une société visée aux alinéas 149(1)o.2) ou o.3) de la Loi dans le cas où :
 - **a)** la société a émis le titre après le 31 octobre 1985;
-- **b)** la société a utilisé la totalité, ou presque, du produit de l’émission du titre dans les 90 jours suivant la réception de ce produit pour acquérir, selon le cas :
+- **b)** la société a utilisé la totalité, ou presque, du produit de l’émission du titre dans les 90 jours suivant la réception de ce produit pour acquérir, selon le cas :
 	- **(i)** des titres de petites entreprises,
 	- **(ii)** des intérêts d’un commanditaire dans des sociétés de personnes en commandite de placement dans des petites entreprises,
 	- **(iii)** des participations dans des fiducies de placement dans des petites entreprises,
@@ -9962,103 +9831,91 @@ Afin de déterminer, pour l’application de l’alinéa a), si un bien est util
 par ailleurs, sous réserve du paragraphe 5104(1), la société est la première personne — à l’exception d’un courtier en valeurs — à acquérir les biens qui lui appartiennent depuis sans interruption;
 - **c)** ni la société ni un groupe de personnes qui ont entre elles un lien de dépendance, et dont la société est membre, ne détient plus de 30 pour cent des actions en circulation d’une catégorie quelconque d’actions avec droit de vote d’une autre société, sauf dans le cas où tout ou partie de ces actions ont été acquises dans des circonstances déterminées, au sens du paragraphe 5104(2);
 - **d)** le recours du détenteur du titre contre la société relativement au titre se limite aux biens acquis avec le produit de l’émission du titre et aux biens y substitués;
-- **e)** les biens acquis avec le produit de l’émission du titre n’ont pas fait l’objet d’une disposition, sauf si la disposition a été effectuée dans les 90 jours précédant cette date. (*qualifying obligation*)
+- **e)** les biens acquis avec le produit de l’émission du titre n’ont pas fait l’objet d’une disposition, sauf si la disposition a été effectuée dans les 90 jours précédant cette date. (*qualifying obligation*)
 
-- **(2)** La définition qui suit s’applique à la présente partie et à l’alinéa a) de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi.
+- **(2)** Pour l’application de la présente partie et de la division b)(iii)(A) de la définition de ***placement admissible*** au paragraphe 204.8(1) de la Loi, est un titre de petite entreprise d’une personne à une date quelconque, le bien de la personne qui est, à cette date :
+	- **a)** une action du capital-actions d’une société admissible,
+	- **b)** une créance d’une société admissible, sauf une société à capital de risque visée à l’article 6700, qui, ni par ses conditions ni par un accord y afférent, n’interdit à la société de contracter d’autres dettes et, selon le cas :
+		- **(i)** qui est garantie uniquement par une charge flottante sur l’actif de la société et qui, par ses conditions ou un accord y afférent, est subordonnée à toutes les autres créances de la société — à l’exception des titres de petite entreprise émis par la société et des créances dues par la société à ses actionnaires ou à des personnes liées à ceux-ci qui ne sont garanties d’aucune façon —,
+		- **(ii)** qui n’est garantie d’aucune façon,
+à l’exclusion d’une créance :
+		- **(iii)** dont le taux de rendement annuel réel dépasse le taux déterminé à la date d’émission de la créance, dans le cas où le taux d’intérêt de la créance est invariable,
+		- **(iv)** dont le taux de rendement annuel réel à une date donnée peut dépasser le taux déterminé à cette même date, dans les autres cas,
+	- **c)** une option ou un droit consenti par une société admissible conjointement avec l’émission d’une action ou créance qui constitue un titre de petite entreprise, pour l’acquisition d’une action du capital-actions de la société,
+	- **d)** une option ou un droit consenti sans contrepartie par une société admissible au détenteur d’une action qui constitue un titre de petite entreprise, pour l’acquisition d’une action du capital-actions de la société,
+si, immédiatement après la date d’acquisition du bien :
+	- **e)** le total des coûts indiqués, pour la personne, de l’ensemble des actions, options, droits et créances de la société admissible et des sociétés associées à celle-ci que la personne détient ne dépasse pas 10 000 000 $, et
+	- **f)** l’actif total de la société admissible et des sociétés qui lui sont associées, déterminé conformément aux principes comptables généralement reconnus, sur une base consolidée ou cumulée, le cas échéant, ne dépasse pas 50 000 000 $;
+Est également un titre de petite entreprise à une date quelconque :
+	- **g)** un bien de la personne qui est, à cette date :
+		- **(i)** soit un titre admissible,
+		- **(ii)** [Abrogé, DORS/2005-264, art. 10]
+		- **(iii)** soit un titre visé à l’un des alinéas a) à d) qui, à un moment donné, a été émis :
+			- **(A)** en échange de droits afférents à un autre titre, qui, sans le présent sous-alinéa et l’alinéa h), constituerait un titre de petite entreprise de la personne immédiatement avant le moment donné, ou encore lors de la conversion de tels droits ou relativement à de tels droits,
+			- **(B)** en conformité avec une convention conclue avant le moment donné et au plus tard au moment où la personne a acquis l’autre titre pour la dernière fois;
+	- **h)** lorsque la personne est une société de placement dans des petites entreprises, une société de personnes en commandite de placement dans des petites entreprises ou une fiducie de placement dans des petites entreprises, un bien de la personne qui est, à cette date, un titre visé à l’un des alinéas a) à d) qui, à un moment donné de la période de cinq ans précédant cette date, a été émis en échange de droits afférents à un autre titre qui, sans le présent alinéa, constituerait un titre de petite entreprise de la personne immédiatement avant ce moment, ou encore lors de la conversion de tels droits ou relativement à de tels droits.
 
-***titre de petite entreprise*** Bien d’une personne à une date quelconque, qui est, à cette date :
-- **a)** une action du capital-actions d’une société admissible,
-- **b)** une créance d’une société admissible, sauf une société à capital de risque visée à l’article 6700, qui, ni par ses conditions ni par un accord y afférent, n’interdit à la société de contracter d’autres dettes et, selon le cas :
-	- **(i)** qui est garantie uniquement par une charge flottante sur l’actif de la société et qui, par ses conditions ou un accord y afférent, est subordonnée à toutes les autres créances de la société — à l’exception des titres de petite entreprise émis par la société et des créances dues par la société à ses actionnaires ou à des personnes liées à ceux-ci qui ne sont garanties d’aucune façon —,
-	- **(ii)** qui n’est garantie d’aucune façon,
-à l’exclusion d’une créance :
-	- **(iii)** dont le taux de rendement annuel réel dépasse le taux déterminé à la date d’émission de la créance, dans le cas où le taux d’intérêt de la créance est invariable,
-	- **(iv)** dont le taux de rendement annuel réel à une date donnée peut dépasser le taux déterminé à cette même date, dans les autres cas,
-- **c)** une option ou un droit consenti par une société admissible conjointement avec l’émission d’une action ou créance qui constitue un titre de petite entreprise, pour l’acquisition d’une action du capital-actions de la société,
-- **d)** une option ou un droit consenti sans contrepartie par une société admissible au détenteur d’une action qui constitue un titre de petite entreprise, pour l’acquisition d’une action du capital-actions de la société,
-
-si, immédiatement après la date d’acquisition du bien :
-- **e)** le total des coûts indiqués, pour la personne, de l’ensemble des actions, options, droits et créances de la société admissible et des sociétés associées à celle-ci que la personne détient ne dépasse pas 10 000 000 $, et
-- **f)** l’actif total de la société admissible et des sociétés qui lui sont associées, déterminé conformément aux principes comptables généralement reconnus, sur une base consolidée ou cumulée, le cas échéant, ne dépasse pas 50 000 000 $;
-
-Est également un titre de petite entreprise à une date quelconque :
-- **g)** un bien de la personne qui est, à cette date :
-	- **(i)** soit un titre admissible,
-	- **(ii)** soit la fraction de l’intérêt de la personne en tant que commanditaire dans une société de personnes en commandite admissible (au sens du paragraphe 5000(7)) à cette date, représentée par le rapport entre :
-		- **(A)** d’une part, le total des coût indiqués, pour la société de personnes, des biens qu’elle détient à cette date qui constitueraient des biens de petite entreprise (au sens du paragraphe 206(1) de la Loi) si la société de personnes était une personne,
-		- **(B)** d’autre part, le total des coûts indiqués, pour la société de personnes, des biens qu’elle détient à cette date,
-	- **(iii)** soit un titre visé à l’un des alinéas a) à d) qui, à un moment donné, a été émis :
-		- **(A)** en échange de droits afférents à un autre titre, qui, sans le présent sous-alinéa et l’alinéa h), constituerait un titre de petite entreprise de la personne immédiatement avant le moment donné, ou encore lors de la conversion de tels droits ou relativement à de tels droits,
-		- **(B)** en conformité avec une convention conclue avant le moment donné et au plus tard au moment où la personne a acquis l’autre titre pour la dernière fois;
-- **h)** lorsque la personne est une société de placement dans des petites entreprises, une société de personnes en commandite de placement dans des petites entreprises ou une fiducie de placement dans des petites entreprises, un bien de la personne qui est, à cette date, un titre visé à l’un des alinéas a) à d) qui, à un moment donné de la période de cinq ans précédant cette date, a été émis en échange de droits afférents à un autre titre qui, sans le présent alinéa, constituerait un titre de petite entreprise de la personne immédiatement avant ce moment, ou encore lors de la conversion de tels droits ou relativement à de tels droits.
-
-- **(2.1)** Dans le cas où tout ou partie des biens d’une personne est constitué d’actions du capital-actions d’une société à capital de risque visée à l’article 6700, d’options ou de droits accordés par la société ou de titres de créance de la société :
-	- **a)** d’une part, le total des coûts indiqués, pour cette personne, de l’ensemble de ces biens est réputé, pour l’application de l’alinéa e) de la définition de ***titre de petite entreprise*** au paragraphe (2), ne pas dépasser 10 000 000 $;
-	- **b)** d’autre part, l’actif total de la société et des sociétés qui lui sont associées, déterminé conformément aux principes comptables généralement reconnus, sur une base consolidée ou cumulée, le cas échéant, est réputé, pour l’application de l’alinéa (2)f), ne pas dépasser 50 000 000 $.
+- **(2.1)** Dans le cas où tout ou partie des biens d’une personne est constitué d’actions du capital-actions d’une société à capital de risque visée à l’article 6700, d’options ou de droits accordés par la société ou de titres de créance de la société :
+	- **a)** d’une part, le total des coûts indiqués, pour cette personne, de l’ensemble de ces biens est réputé, pour l’application de l’alinéa e) de la définition de ***titre de petite entreprise*** au paragraphe (2), ne pas dépasser 10 000 000 $;
+	- **b)** d’autre part, l’actif total de la société et des sociétés qui lui sont associées, déterminé conformément aux principes comptables généralement reconnus, sur une base consolidée ou cumulée, le cas échéant, est réputé, pour l’application de l’alinéa (2)f), ne pas dépasser 50 000 000 $.
 
 - **(3)** Pour l’application du paragraphe (2),
 	- **a)** dans le calcul du taux de rendement annuel réel d’une créance d’une société admissible, il n’est tenu compte ni de la valeur d’un droit de convertir tout ou partie de la créance en actions du capital-actions de la société ou d’échanger tout ou partie de la créance contre de telles actions, ni de la valeur d’une option ou d’un droit d’acquisition de telles actions;
-	- **b)** une société est réputée ne pas être associée à une autre à un moment où elle n’y serait pas associée si :
-		- **(i)** d’une part, la mention «contrôlée, directement ou indirectement, de quelque manière que ce soit», à l’article 256 de la Loi, à l’exclusion du paragraphe (5.1), était remplacée par «contrôlée»,
+	- **b)** une société est réputée ne pas être associée à une autre à un moment où elle n’y serait pas associée si :
+		- **(i)** d’une part, la mention « contrôlée, directement ou indirectement, de quelque manière que ce soit », à l’article 256 de la Loi, à l’exclusion du paragraphe (5.1), était remplacée par « contrôlée »,
 		- **(ii)** d’autre part, il n’était pas tenu compte des droits visés au paragraphe 256(1.4) de la Loi ni des actions que détient à ce moment une société de placement dans des petites entreprises, une société de personnes en commandite de placement dans des petites entreprises ou une fiducie de placement dans des petites entreprises.
 
-- **(4)** Pour l’application de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi, un contribuable est une personne visée par règlement à une date quelconque, si, selon le cas :
-	- **a)** les conditions suivantes sont réunies :
-		- **(i)** le contribuable est bénéficiaire d’une fiducie qui a fait le choix prévu au paragraphe 259(1) de la Loi pour une période quelconque qui comprend cette date,
-		- **(ii)** le contribuable est réputé détenir le bien à cette date en application du paragraphe 259(1) de la Loi,
-		- **(iii)** la fiducie visée au sous-alinéa (i) est la première personne — à l’exclusion d’un courtier en valeurs — à avoir acquis le bien dont elle est propriétaire depuis sans interruption, sauf si le bien est un titre de petite entreprise acquis dans les cas visés au paragraphe 5104(1);
-	- **b)** le contribuable est commanditaire d’une société de personnes en commandite admissible (au sens du paragraphe 5000(7)), et le bien est constitué de la fraction de l’intérêt du contribuable dans la société de personnes qui, selon le sous-alinéa (2)g)(ii), représente un titre de petite entreprise du contribuable à cette date;
-	- **c)** le contribuable détient, à cette date, un titre de petite entreprise acquis dans les cas visés au paragraphe 5104(1);
-	- **d)** le contribuable est commanditaire d’une société de personnes en commandite de placement dans des petites entreprises dont les unités sont inscrites à une bourse de valeurs visée à l’article 3200 et le bien est constitué des unités que détient le contribuable dans cette société de personnes;
-	- **e)** le contribuable est bénéficiaire d’une fiducie de placement dans des petites entreprises dont les unités sont inscrites à une bourse de valeurs visée à l’article 3200 et le bien est constitué des unités que détient le contribuable dans cette fiducie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/87-134, art. 1; DORS/90-606, art. 4; DORS/92-123, art. 2; DORS/94-471, art. 4; DORS/94-686, art. 29(F), 50(F), 62, 78(F) et 79(F); DORS/98-281, art. 1; DORS/99-102, art. 2; DORS/2001-289, art. 1, 7 et 8(A).
+- **(4)** [Abrogé, DORS/2005-264, art. 10]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/87-134, art. 1; DORS/90-606, art. 4; DORS/92-123, art. 2; DORS/94-471, art. 4; DORS/94-686, art. 29(F), 50(F), 62, 78(F) et 79(F); DORS/98-281, art. 1; DORS/99-102, art. 2; DORS/2001-289, art. 1, 7 et 8(A); DORS/2005-264, art. 10.
 
 
 
 
 **5101** 
 
-- **(1)** Sous réserve du paragraphe (4), pour l’application de la présente partie et de l’alinéa 149(1)o.3) et de l’alinéa b) de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi, une société est une société de placement dans des petites entreprises à une date quelconque si elle est une société canadienne constituée après le 22 mai 1985 et si, à tout moment après sa constitution et avant cette date, elle répond aux conditions suivantes :
-	- **a)** toutes les actions du capital-actions de la société, et tous les droits d’acquérir de telles actions, appartiennent :
+- **(1)** Sous réserve du paragraphe (4), pour l’application de la présente partie et de l’alinéa 149(1)o.3) et de l’alinéa b) de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi, une société est une société de placement dans des petites entreprises à une date quelconque si elle est une société canadienne constituée après le 22 mai 1985 et si, à tout moment après sa constitution et avant cette date, elle répond aux conditions suivantes :
+	- **a)** toutes les actions du capital-actions de la société, et tous les droits d’acquérir de telles actions, appartiennent :
 		- **(i)** à un ou plusieurs régimes de pension agréés,
 		- **(ii)** à une ou plusieurs fiducies dont tous les bénéficiaires sont des régimes de pension agréés,
 		- **(iii)** à une ou plusieurs fiducies créées à l’égard d’un fonds réservé (au sens de l’alinéa 138.1(1)a) de la Loi) liées, dont tous les bénéficiaires sont régimes de pension agréés,
 		- **(iv)** à une ou plusieurs personnes prescrites par l’article 4802 pour l’application de la division 149(1)o.2)(iv)(D) de la Loi;
-	- **b)** la seule entreprise de la société consiste à investir ses fonds, et ses seuls placements, sont selon le cas :
+	- **b)** la seule entreprise de la société consiste à investir ses fonds, et ses seuls placements, sont selon le cas :
 		- **(i)** des titres de petite entreprise,
 		- **(ii)** des intérêts d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises,
 		- **(iii)** des participations dans des fiducies de placement dans des petites entreprises,
-		- **(iv)** des biens, sauf des titres de petite entreprise, visés à l’un des sous-alinéas f)(i) à (iv) de la définition de ***société de personnes en commandite admissible*** au paragraphe 5000(7),
+		- **(iv)** des biens, sauf des titres de petite entreprise, qui sont :
+			- **(A)** des actions du capital-actions d’une société, sauf une action émise à la société qui est soit une action visée à l’article 66.3 de la Loi, soit une action relativement à laquelle un montant a été désigné en vertu du paragraphe 192(4) de la Loi,
+			- **(B)** des options, des bons de souscription ou d’autres droits permettant d’acquérir ou de vendre des actions visées à la division (A),
 		- **(v)** des biens déterminés,
 		- **(vi)** toute combinaison des biens visés à l’un des sous-alinéas (i) à (v);
 par ailleurs, sous réserve du paragraphe 5104(1), en ce qui concerne les biens visés à l’un des sous-alinéas (i) à (iii), la société est la première personne — à l’exclusion d’un courtier en valeurs — à avoir acquis les biens qu’elle détient depuis sans interruption;
 	- **c)** la société répond à la condition énoncée au paragraphe (2);
-	- **d)** ni la société ni un groupe de personnes qui ont entre elles un lien de dépendance et dont la société est membre ne détient plus de 30 pour cent des actions en circulation d’une catégorie quelconque d’actions avec droit de vote d’une société, sauf si, selon le cas :
+	- **d)** ni la société ni un groupe de personnes qui ont entre elles un lien de dépendance et dont la société est membre ne détient plus de 30 pour cent des actions en circulation d’une catégorie quelconque d’actions avec droit de vote d’une société, sauf si, selon le cas :
 		- **(i)** tout ou partie de ces actions ont été acquises dans des circonstances déterminées, selon le paragraphe 5104(2),
 		- **(ii)** ces actions font partie d’une catégorie d’actions avec droit de vote d’une société à capital de risque visée à l’article 6700;
 	- **e)** la société n’a pas emprunté d’argent, sauf de ses actionnaires;
 	- **f)** la société n’a pas accepté de dépôts.
 
-- **(2)** Une société de placement dans des petites entreprises doit toujours détenir les biens visés aux sous-alinéas (1)b)(i) à (iii) dont le total des coûts indiqués n’est pas moins que 75 pour cent de l’excédent éventuel :
+- **(2)** Une société de placement dans des petites entreprises doit toujours détenir les biens visés aux sous-alinéas (1)b)(i) à (iii) dont le total des coûts indiqués n’est pas moins que 75 pour cent de l’excédent éventuel :
 	- **a)** du total des montants dont chacun représente la contrepartie de l’émission d’actions du capital-actions de la société ou de créances de celle-ci à ses actionnaires ou le montant d’un apport de capital de ses actionnaires, qu’elle a reçu plus de 90 jours avant cette date,
 sur
-	- **b)** le total :
+	- **b)** le total :
 		- **(i)** des montants payés par la société avant cette date à ses actionnaires à titre de remboursement de capital ou de créance,
 		- **(ii)** de l’excédent éventuel du total des pertes de la société provenant de dispositions de biens effectuées avant cette date sur le total de ses gains provenant de dispositions de biens effectuées avant cette date.
 
 - **(3)** Pour l’application du paragraphe (2), une société de placement dans des petites entreprises qui dispose d’un bien visé aux sous-alinéas (1)b)(i) à (iii) est réputée continuer de détenir le placement pendant une période de 90 jours suivant la date de la disposition.
 
 - **(4)** Pour l’application de l’alinéa 149(1)o.3) de la Loi, lorsqu’une société de placement dans des petites entreprises détient un intérêt dans une société de personnes qui constituait une société de personnes en commandite de placement dans des petites entreprises à la date d’acquisition de l’intérêt et qui, sans le présent paragraphe, cesserait de constituer une telle société de personnes à une date ultérieure, l’intérêt dans la société de personnes est réputé être un intérêt dans une société de personnes en commandite de placement dans des petites entreprises pour la période de 24 mois suivant la date ultérieure. Le présent paragraphe s’applique aussi aux fiducies qui sont des fiducies de placement dans des petites entreprises, compte tenu des adaptations de circonstance.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/90-606, art. 5; DORS/92-51, art. 8; DORS/94-471, art. 5; DORS/94-686, art. 78(F) et 79(F); DORS/2001-289, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/90-606, art. 5; DORS/92-51, art. 8; DORS/94-471, art. 5; DORS/94-686, art. 78(F) et 79(F); DORS/2001-289, art. 7; DORS/2005-264, art. 11.
 
 
 
 
 **5102** 
 
-- **(1)** Pour l’application de la présente partie et de l’alinéa c) de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi, une société de personnes est une société de personnes en commandite de placement dans des petites entreprises à une date quelconque si, à tout moment après sa formation et avant cette date, elle répond aux conditions suivantes :
+- **(1)** Pour l’application de la présente partie, une société de personnes est une société de personnes en commandite de placement dans des petites entreprises à une date quelconque si, à tout moment après sa formation et avant cette date, elle répond aux conditions suivantes :
 	- **a)** la société de personnes n’a qu’un seul commandité;
-	- **b)** la part du commandité, en sa qualité de commandité, du revenu de la société de personnes provenant de toute source située dans un endroit quelconque pour une période donnée est la même que sa part, en sa qualité de commandité :
+	- **b)** la part du commandité, en sa qualité de commandité, du revenu de la société de personnes provenant de toute source située dans un endroit quelconque pour une période donnée est la même que sa part, en sa qualité de commandité :
 		- **(i)** du revenu de la société de personnes provenant de cette source située dans un autre endroit,
 		- **(ii)** du revenu de la société de personnes provenant d’une autre source,
 		- **(iii)** de la perte de la société de personnes provenant d’une source quelconque,
@@ -10067,71 +9924,75 @@ sur
 pour cette période, sauf que la part du commandité, en sa qualité de commandité, du revenu ou de la perte de la société de personnes provenant de biens déterminés peut différer de sa part, en sa qualité de commandité, du revenu ou de la perte de la société de personnes provenant d’autres sources;
 	- **c)** la part du commandité, en sa qualité de commandité, d’un revenu ou d’une perte de la société de personnes pour une période quelconque n’est pas inférieure à sa part, en sa qualité de commandité, du revenu ou de la perte de la société de personnes pour une période antérieure;
 	- **d)** les intérêts des commanditaires sont fonction des unités de la société de personnes qui sont identiques à tous égards;
-	- **e)** aucun commanditaire ou groupe de commanditaires qui ont entre eux un lien de dépendance ne détient plus de 30 pour cent des unités de la société de personnes; pour l’application du présent alinéa :
+	- **e)** aucun commanditaire ou groupe de commanditaires qui ont entre eux un lien de dépendance ne détient plus de 30 pour cent des unités de la société de personnes; pour l’application du présent alinéa :
 		- **(i)** d’une part, est réputée ne pas être un commanditaire la société de placement dans des petites entreprises qui n’a pas emprunté d’argent et dont aucun actionnaire ou groupe d’actionnaires qui ont entre eux un lien de dépendance ne détient plus de 30 pour cent des actions en circulation d’une catégorie d’actions avec droit de vote,
 		- **(ii)** d’autre part, le commandité est réputé ne pas détenir d’unités de la société de personnes à titre de commanditaire;
-	- **f)** la seule entreprise de la société de personnes consiste à investir ses fonds, et ses seuls placements sont, selon le cas :
+	- **f)** la seule entreprise de la société de personnes consiste à investir ses fonds, et ses seuls placements sont, selon le cas :
 		- **(i)** des titres de petite entreprise, dans le cas où, sous réserve du paragraphe 5104(1), la société de personnes est la première personne — à l’exclusion d’un courtier en valeurs — à avoir acquis les titres qu’elle détient depuis sans interruption,
-		- **(ii)** des biens, sauf des titres de petite entreprise, visés à l’un des sous-alinéas f)(i) à (iv) de la définition de ***société de personnes en commandite admissible*** au paragraphe 5000(7),
+		- **(ii)** des biens, sauf des titres de petite entreprise, qui sont :
+			- **(A)** des actions du capital-actions d’une société, sauf une action émise à la société de personnes qui est soit une action visée à l’article 66.3 de la Loi, soit une action relativement à laquelle un montant a été désigné en vertu du paragraphe 192(4) de la Loi,
+			- **(B)** des options, des bons de souscription ou d’autres droits permettant d’acquérir ou de vendre des actions visées à la division (A),
 		- **(iii)** des biens déterminés,
 		- **(iv)** toute combinaison des biens visés à l’un des sous-alinéas (i) à (iii);
 	- **g)** la société de personnes répond à la condition énoncée au paragraphe (2);
 	- **h)** la société de personnes n’a pas emprunté d’argent, sauf en vue de tirer un revenu de ses placements, et le montant de ces emprunts à une date quelconque ne dépasse pas 20 pour cent du capital de la société de personnes à cette date;
 	- **i)** la société de personnes n’a pas accepté de dépôts.
 
-- **(2)** Le total des coûts indiqués, pour une société de personnes en commandite de placement dans des petites entreprises, des titres de petite entreprise qu’elle détient à une date quelconque ne doit pas être inférieur à l’excédent éventuel du total :
-	- **a)** de 25 pour cent de l’excédent éventuel :
+- **(2)** Le total des coûts indiqués, pour une société de personnes en commandite de placement dans des petites entreprises, des titres de petite entreprise qu’elle détient à une date quelconque ne doit pas être inférieur à l’excédent éventuel du total :
+	- **a)** de 25 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 12 mois avant cette date et au plus 24 mois avant cette date en contrepartie de l’émission de ses unités ou au titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses associés et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i);
-	- **b)** de 50 pour cent de l’excédent éventuel :
+	- **b)** de 50 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 24 mois avant cette date et au plus 36 mois avant cette date en contrepartie de l’émission de ses unités ou au titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses associés et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i);
-	- **c)** de 75 pour cent de l’excédent éventuel :
+	- **c)** de 75 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 36 mois avant cette date en contrepartie de l’émission de ses unités ou au titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses associés et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i),
 sur 75 pour cent de l’excédent éventuel du total de ses pertes provenant de dispositions de biens effectuées avant cette date sur le total de ses gains provenant de dispositions de biens effectuées avant cette date.
 
 - **(3)** Pour l’application du paragraphe (2), une société de personnes en commandite de placement dans des petites entreprises qui dispose d’un titre de petite entreprise est réputée continuer de détenir le placement pendant une période de 90 jours suivant la date de la disposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/90-606, art. 6; DORS/94-471, art. 6; DORS/94-686, art. 58(F), 78(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/90-606, art. 6; DORS/94-471, art. 6; DORS/94-686, art. 58(F), 78(F) et 79(F); DORS/2005-264, art. 12.
 
 
 
 
 **5103** 
 
-- **(1)** Pour l’application de la présente partie, du paragraphe 259(3) de la Loi et de l’alinéa d) de la définition de ***bien de petite entreprise*** au paragraphe 206(1) de la Loi, une fiducie est une fiducie de placement dans des petites entreprises à une date quelconque si, à tout moment après sa création et avant cette date, elle répond aux conditions suivantes :
+- **(1)** Pour l’application de la présente partie et du paragraphe 259(5) de la Loi, une fiducie est une fiducie de placement dans des petites entreprises à une date quelconque si, à tout moment après sa création et avant cette date, elle répond aux conditions suivantes :
 	- **a)** la fiducie réside au Canada;
 	- **b)** les participations des bénéficiaires de la fiducie sont fonction des unités de la fiducie qui sont identiques à tous égards;
 	- **c)** aucun bénéficiaire ou aucun groupe de bénéficiaires qui ont entre eux un lien de dépendance ne détient plus de 30 pour cent des unités de la fiducie; et par ailleurs, pour l’application du présent alinéa, est réputée ne pas être un bénéficiaire la société de placement dans des petites entreprises qui n’a pas emprunté d’argent et dans laquelle aucun actionnaire ou groupe d’actionnaires qui ont entre eux un lien de dépendance ne détient plus de 30 pour cent des actions en circulation d’une catégorie quelconque d’actions avec droit de vote;
-	- **d)** la seule entreprise de la fiducie consiste à investir ses fonds, et ses seuls placements sont, selon le cas :
+	- **d)** la seule entreprise de la fiducie consiste à investir ses fonds, et ses seuls placements sont, selon le cas :
 		- **(i)** des titres de petite entreprise, dans le cas où, sous réserve du paragraphe 5104(1), la fiducie est la première personne — à l’exclusion d’un courtier en valeurs — à avoir acquis les titres qu’elle détient depuis sans interruption,
-		- **(ii)** des biens, sauf des titres de petite entreprise, visés à l’un des sous-alinéas f)(i) à (iv) de la définition de ***société de personnes en commandite admissible*** au paragraphe 5000(7),
+		- **(ii)** des biens, sauf des titres de petite entreprise, qui sont :
+			- **(A)** des actions du capital-actions d’une société, sauf une action émise à la fiducie qui est soit une action visée à l’article 66.3 de la Loi, soit une action relativement à laquelle un montant a été désigné en vertu du paragraphe 192(4) de la Loi,
+			- **(B)** des options, des bons de souscription ou d’autres droits permettant d’acquérir ou de vendre des actions visées à la division (A),
 		- **(iii)** des biens déterminés,
 		- **(iv)** toute combinaison des biens visés à l’un des sous-alinéas (i) à (iii);
 	- **e)** la fiducie répond à la condition énoncée au paragraphe (2);
 	- **f)** la fiducie n’a pas emprunté d’argent, sauf en vue de tirer un revenu de ses placements, et le montant de ces emprunts à une date quelconque n’a jamais dépassé 20 pour cent du capital de la fiducie à cette date;
 	- **g)** la fiducie n’a pas accepté de dépôts.
 
-- **(2)** Le total des coûts indiqués, pour une fiducie de placement dans des petites entreprises, des titres de petite entreprise qu’elle détient à une date quelconque ne doit pas être inférieur à l’excédent éventuel du total :
-	- **a)** de 25 pour cent de l’excédent éventuel :
+- **(2)** Le total des coûts indiqués, pour une fiducie de placement dans des petites entreprises, des titres de petite entreprise qu’elle détient à une date quelconque ne doit pas être inférieur à l’excédent éventuel du total :
+	- **a)** de 25 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 12 mois avant cette date et au plus 24 mois avant cette date en contrepartie de l’émission de ses unités ou au titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses bénéficiaires et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i);
-	- **b)** de 50 pour cent de l’excédent éventuel :
+	- **b)** de 50 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 24 mois avant cette date et au plus 36 mois avant cette date en contrepartie de l’émission de ses unités ou au titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses bénéficiaires et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i);
-	- **c)** de 75 pour cent de l’excédent éventuel :
+	- **c)** de 75 pour cent de l’excédent éventuel :
 		- **(i)** du total des montants qu’elle a reçus plus de 36 mois avant cette date en contrepartie de l’émission de ses unités ou autre titre de ses unités,
 sur
 		- **(ii)** le total des montants qu’elle a payés avant cette date à ses bénéficiaires et qu’elle a désignés comme remboursement de la contrepartie visée au sous-alinéa (i),
 sur 75 pour cent de l’excédent éventuel du total de ses pertes provenant de dispositions de biens effectuées avant cette date sur le total de ses gains provenant de dispositions de biens effectuées avant cette date.
 
 - **(3)** Pour l’application du paragraphe (2), une fiducie de placement dans des petites entreprises qui dispose d’un titre de petite entreprise est réputée continuer de détenir le placement pendant une période de 90 jours suivant la date de la disposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/94-471, art. 7; DORS/94-686, art. 78(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-390, art. 5; DORS/94-471, art. 7; DORS/94-686, art. 78(F) et 79(F); DORS/2005-264, art. 13.
 
 
 
@@ -12704,18 +12565,18 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 
 **7305.1** Pour l’application du sous-alinéa (ii) de l’élément A de la formule figurant à l’alinéa 6(1)k) de la Loi, le montant prescrit pour une année d’imposition correspond au montant suivant :
-- **a)** 0,14 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
-- **b)** 0,17 $, dans les autres cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1.
+- **a)** 0,17 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
+- **b)** 0,20 $, dans les autres cas.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1.
 
 
 
 
 **7306** Pour l’application de l’alinéa 18(1)r) de la Loi, le montant pour usage d’une ou de plusieurs automobiles par un particulier au cours d’une année d’imposition quant aux kilomètres parcourus au cours de l’année en vue de lui permettre de gagner un revenu correspond au total des montants suivants :
-- **a)** le produit de 0,36 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
+- **a)** le produit de 0,39 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
 - **b)** le produit de 0,06 $ par le nombre de kilomètres, jusqu’à concurrence de 5 000, parcourus au cours de l’année à cette fin;
 - **c)** le produit de 0,04 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2.
 
 
 
@@ -12764,24 +12625,17 @@ où
 
 **7308** 
 
-- **(1)** Pour l’application du présent article, « émetteur » s’entend au sens du paragraphe 146.3(1) de la Loi.
+- **(1)** Pour l’application du présent article, ***émetteur*** s’entend au sens du paragraphe 146.3(1) de la Loi.
 
 - **(2)** Pour l’application du présent article, un fonds de revenu de retraite est un fonds admissible de revenu de retraite à un moment donné si l’une ou l’autre des conditions suivantes est respectée :
 	- **a)** l’entente concernant le fonds a été conclue avant 1993 et l’émetteur n’a accepté aucun bien en contrepartie après 1992 et jusqu’à ce moment dans le cadre du fonds;
 	- **b)** les seuls biens acceptés en contrepartie par l’émetteur après 1992 et jusqu’à ce moment dans le cadre du fonds sont des biens transférés d’un fonds de revenu de retraite qui était un fonds admissible de revenu de retraite immédiatement avant le transfert.
 
-- **(3)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi, le facteur prescrit quant à un particulier pour une année, relativement à un fonds de revenu de retraite qui était un fonds admissible de revenu de retraite au début de l’année, est le facteur, établi selon le tableau ci-après, qui correspond à l’âge en années accomplies (élément « X » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
+- **(3)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi, le facteur prescrit quant à un particulier pour une année, relativement à un fonds de revenu de retraite qui était un fonds admissible de revenu de retraite au début de l’année, est le facteur, établi selon le tableau ci-après, qui correspond à l’âge en années accomplies (élément « X » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
 <table>
 <tr>
+<th></th>
 <th>X Facteur</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>moins de 79 ans</td>
@@ -12854,18 +12708,11 @@ où
 </table>
 
 
-- **(4)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi, le facteur prescrit quant à un particulier pour une année, relativement à un fonds de revenu de retraite qui n’était pas un fonds admissible de revenu de retraite au début de l’année, est le facteur, établi selon le tableau ci-après, qui correspond à l’âge en années accomplies (élément « Y » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
+- **(4)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi et du paragraphe 8506(5), le facteur prescrit quant à un particulier pour une année relativement à un fonds de revenu de retraite qui n’était pas un fonds admissible de revenu de retraite au début de l’année, ou le facteur désigné quant à un particulier pour une année relativement à un compte dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé, selon le cas, est le facteur qui, au tableau ci-après, correspond à l’âge en années accomplies (élément « Y » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
 <table>
 <tr>
+<th></th>
 <th>Y Facteur</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>moins de 71</td>
@@ -12969,7 +12816,7 @@ où
 </tr>
 </table>
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/94-127, art. 1; DORS/2000-63, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/94-127, art. 1; DORS/2000-63, art. 2; DORS/2005-264, art. 14.
 
 
 
@@ -13232,14 +13079,14 @@ où
 ### Établissements stables
 
 
-**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), des paragraphes 34.2(6), 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du paragraphe 206(1.3) et de l’alinéa 260(5)a) de la Loi, « établissement stable » d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
+**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), du paragraphe 34.2(6), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées «personne» au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
 - **a)** si la personne exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi à un endroit donné, qui a l’autorisation générale de passer des contrats pour la personne ou qui dispose d’un stock de marchandises appartenant à celle-ci et à partir duquel il remplit régulièrement les commandes, son établissement stable est réputé situé à cet endroit;
 - **b)** si la personne est une compagnie d’assurance, elle est réputée avoir un établissement stable dans chaque pays où elle est enregistrée ou détient un permis d’exercice;
 - **c)** si la personne utilise des machines ou du matériel importants dans un endroit donné au cours d’une année d’imposition, son établissement stable est réputé situé à cet endroit;
 - **d)** le fait que la personne a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 - **e)** si la personne est une société, le fait qu’elle a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
 Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un accord ou une convention visant à éviter les doubles impositions et ayant force de loi au Canada, « établissement stable » s’entend au sens éventuellement donné à cette expression dans cet accord ou cette convention.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15.
 
 
 
@@ -13265,7 +13112,7 @@ Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***cotisation exclue*** Montant transféré à un régime de pension agréé en application de l’un des paragraphes 146(16), 147(19), 147.3(1) à (4) et 147.3(5) à (7) de la Loi. (*excluded contribution*)
+***cotisation exclue*** Montant transféré à un régime de pension agréé en application de l’un des paragraphes 146(16), 146.3(14.1), 147(19) et 147.3(1) à (4) et (5) à (7) de la Loi. (*excluded contribution*)
 
 ***disposition à prestations forfaitaires*** Disposition à prestations déterminées d’un régime de pension dans le cadre de laquelle les prestations viagères de chaque participant sont fonction du total des montants représentant chacun le produit d’un taux fixe et de la durée des services du participant ou du nombre d’unités de production de celui-ci. Pour l’application de la présente définition, lorsque :
 - **a)** les prestations viagères assurées à chaque participant aux termes d’une disposition à prestations déterminées sont soumises à une limite établie en fonction de la rémunération du participant;
@@ -13337,7 +13184,7 @@ Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un
 le particulier est réputé participer au régime ou à la disposition, selon le cas, tout au long de la période allant du moment du paiement ou de l’acquisition, selon le cas, jusqu’à son décès.
 
 - **(13)** Pour l’application de la présente partie et de la partie LXXXV, le particulier auquel une prestation doit ou peut être assurée aux termes d’une disposition à prestations déterminées d’un régime de pension agréé du fait que la totalité ou une partie d’un surplus actuariel afférent à la disposition peut ou doit lui être attribuée est réputé ne pas avoir le droit de recevoir la prestation aux termes de la disposition tant qu’elle n’est pas assurée aux termes de celle-ci.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 1; DORS/99-9, art. 4; DORS/2003-328, art. 5.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 1; DORS/99-9, art. 4; DORS/2003-328, art. 5; DORS/2005-264, art. 16.
 
 
 
@@ -13360,13 +13207,27 @@ le particulier est réputé participer au régime ou à la disposition, selon le
 #### Crédit de pension — régime de participation différée aux bénéfices
 
 
-- **(2)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147(5.1) de la Loi, et sous réserve des paragraphes (3) et 8304(2), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’un régime de participation différée aux bénéfices correspond au total des montants représentant chacun :
-	- **a)** soit une cotisation que l’employeur verse au régime au cours de l’année pour le particulier;
-	- **b)** soit la fraction d’un montant attribué au particulier au cours de l’année qui est imputable aux montants perdus dans le cadre du régime et aux revenus y afférents, sauf dans la mesure où, selon le cas :
-		- **(i)** elle est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime,
-		- **(ii)** elle est versée au particulier au cours de l’année,
-		- **(iii)** si l’année en question est 1990, elle est imputable à des montants perdus avant 1990 ou aux revenus y afférents.
-Le crédit de pension du particulier est nul si l’année en question est antérieure à 1990.
+- **(2)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147(5.1) de la Loi, et sous réserve du paragraphe 8304(2), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’un régime de participation différée aux bénéfices correspond à la somme obtenue par la formule suivante :
+```
+A - B
+```
+où :
+- **A** représente le total des sommes représentant chacune :
+- **a)** soit une cotisation que l’employeur verse au régime au cours de l’année pour le particulier;
+- **b)** soit la partie d’une somme attribuée au particulier au cours de l’année qui est imputable aux montants perdus dans le cadre du régime ou aux revenus du régime relatifs à des montants perdus, sauf dans la mesure où, selon le cas :
+- **(i)** elle est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime,
+- **(ii)** elle est versée au particulier au cours de l’année;
+- **B** zéro ou, si les conditions énoncées au paragraphe (2.1) sont remplies, le total visé à l’alinéa (2.1)b).
+
+##### Conditions à remplir — élément B de la formule figurant au paragraphe (2)
+
+
+- **(2.1)** Les conditions à remplir pour l’application de l’élément B de la formule figurant au paragraphe (2) sont les suivantes :
+	- **a)** le total des sommes dont chacune représenterait le crédit de pension du particulier pour l’année civile quant à l’employeur dans le cadre d’un régime de participation différée aux bénéfices, si le libellé de l’élément B de la formule figurant au paragraphe (2) était «zéro.», est, à la fois :
+		- **(i)** égal ou inférieur à la somme représentant 50 % du plafond des cotisations déterminées pour l’année,
+		- **(ii)** supérieur à la somme représentant 18 % de la somme qui correspondrait à la rétribution que le particulier reçoit de l’employeur pour l’année si la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi s’appliquait compte non tenu de son alinéa b),
+		- **(iii)** égal ou inférieur à la somme représentant 18 % de la somme qui correspondrait à la rétribution que le particulier a reçue de l’employeur pour l’année précédente si la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi s’appliquait compte non tenu de son alinéa b);
+	- **b)** le total des sommes, représentant chacune une somme provenant du régime qui est versée au particulier ou à l’employeur au cours de l’année civile ou des deux premiers mois de l’année suivante et qu’il est raisonnable de considérer comme provenant d’une somme incluse dans la valeur de l’élément A de la formule figurant au paragraphe (2) relativement au particulier et à l’employeur pour l’année, est supérieur à zéro.
 
 #### Droits non acquis au retrait d’un régime de participation différée aux bénéfices
 
@@ -13529,16 +13390,16 @@ où
 	- **a)** le régime devient, le 1<sup>er</sup> février de l’année civile subséquente, un régime dont l’agrément peut être retiré;
 	- **b)** le ministre peut faire les déterminations visées au paragraphe (13) que l’entité cotisante omet de faire, ou fait en contravention des règles énoncées à ce paragraphe.
 
-#### Transfert de montants
+#### Transfert de sommes
 
 
-- **(15)** Pour l’application des sous-alinéas (2)b)(ii) et (4)b)(iv), le montant transféré directement, pour le compte d’un particulier, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices à un régime de pension agréé, à un régime enregistré d’épargne-retraite, à un fonds enregistré de revenu de retraite ou à un régime de participation différée aux bénéfices est réputé ne pas avoir été versé au particulier.
+- **(15)** Pour l’application du sous-alinéa b)(ii) de l’élément A de la formule figurant au paragraphe (2), de l’alinéa (2.1)b) et du sous-alinéa (4)b)(iv), la somme transférée directement, pour le compte d’un particulier, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices à un régime de pension agréé, à un régime enregistré d’épargne-retraite, à un fonds enregistré de revenu de retraite ou à un régime de participation différée aux bénéfices est réputée ne pas avoir été versée au particulier.
 
 #### Événements ultérieurs
 
 
 - **(16)** Sauf disposition contraire expresse dans la présente partie, le calcul du crédit de pension d’un particulier pour une année civile ne tient pas compte des opérations, événements et circonstances qui se produisent après la fin de l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 2; DORS/96-311, art. 6; DORS/99-9, art. 5; DORS/2003-328, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 2; DORS/96-311, art. 6; DORS/99-9, art. 5; DORS/2003-328, art. 6; DORS/2005-264, art. 17.
 
 
 
@@ -13746,6 +13607,17 @@ où
 - **C** représente :
 		- **(A)** soit le salaire moyen pour l’année civile qui comprend le moment de l’augmentation, si la valeur du taux fixe a été augmentée au cours de cette année,
 		- **(B)** soit le salaire moyen pour l’année précédant l’année civile qui comprend le moment de l’augmentation, dans les autres cas;
+	- **f.1)** lorsque la formule de calcul des prestations viagères payables au particulier aux termes de la disposition comprend un plafond qui correspond au produit de la durée des services validables du particulier et d’un pourcentage de sa rémunération ou, s’il est moins élevé, d’un taux fixe, et que la valeur du taux fixe est portée, après l’année du crédit de pension, à une somme égale au plafond des prestations déterminées pour l’année de l’augmentation du taux fixe ou, si elle est antérieure, l’année du début du versement au particulier des prestations de retraite prévues par la disposition, la partie des prestations découlant directement de l’augmentation qui n’aurait pas été assurée si la valeur du taux fixe avait été fixée au plafond des prestations déterminées pour l’année du crédit de pension, si, à la fois :
+		- **(i)** la valeur du taux fixe correspondait, immédiatement avant l’augmentation, au plafond des prestations déterminées pour l’année au cours de laquelle la valeur du taux fixe a été établie la dernière fois,
+		- **(ii)** dans le cas où l’année au cours de laquelle la valeur du taux fixe a été établie la dernière fois est antérieure à l’année précédant l’année de l’augmentation :
+			- **(A)** le ministre a approuvé par écrit l’application du présent alinéa relativement au fait lié aux services passés,
+			- **(B)** la disposition compte plus de neuf participants actifs, au sens de l’alinéa 8306(4)a),
+			- **(C)** le régime n’est pas un régime désigné aux termes de l’article 8515;
+	- **f.2)** lorsque la formule de calcul des prestations viagères payables au particulier aux termes de la disposition comprend un plafond qui correspond au produit de la durée des services validables du particulier et d’un pourcentage de sa rémunération ou, s’il est moins élevé, d’un taux fixe dont il est raisonnable de considérer la valeur comme étant fixée chaque année à un montant représentant une proportion du plafond des prestations déterminées pour l’année, les prestations qui découlent directement d’une augmentation apportée à la valeur du taux fixe, après l’année du crédit de pension, pour tenir compte du plafond des prestations déterminées pour l’année de l’augmentation, si, à la fois :
+		- **(i)** sauf autorisation contraire expresse du ministre, il est raisonnable de considérer que, pour les années postérieures à 1989, le rapport entre le taux fixe et le plafond des prestations déterminées a été constant et le demeurera,
+		- **(ii)** les prestations ne sont pas assurées par suite d’une deuxième augmentation, ou d’une augmentation subséquente, apportée à la valeur du taux fixe après le début du versement au particulier des prestations de retraite prévues par la disposition,
+		- **(iii)** le ministre a approuvé par écrit l’application du présent alinéa relativement au fait lié aux services passés,
+		- **(iv)** le régime n’est pas un régime désigné aux termes de l’article 8515;
 	- **g)** lorsque les conditions suivantes sont réunies :
 		- **(i)** la disposition en question est une disposition à prestations forfaitaires,
 		- **(ii)** au moment donné, le montant, calculé sur une année, des prestations viagères assurées à chaque participant aux termes de la disposition pour les services validables effectués au cours de chaque année civile ne représente pas plus de 40 pour cent du plafond des prestations déterminées pour l’année qui comprend le moment donné,
@@ -13852,7 +13724,7 @@ Pour l’application du présent paragraphe, l’administrateur du régime déte
 
 
 - **(10)** Lorsque, par suite d’un fait lié aux services passés, des prestations sont assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé pour une période tout au long de laquelle le particulier occupait un emploi à l’étranger et que le ministre consent par écrit à appliquer le présent paragraphe, chaque facteur d’équivalence pour services passés provisoire du particulier qui est rattaché au fait est calculé selon l’hypothèse qu’aucune prestation n’est assurée pour la période.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2; DORS/2005-264, art. 18.
 
 
 
@@ -14172,43 +14044,44 @@ les présomptions suivantes s’appliquent dans le cadre du paragraphe (8) :
 
 **8306** 
 
-- **(1)** Pour l’application du paragraphe 147.1(10) de la Loi aux faits liés aux services passés et aux prestations assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension agréé, l’attestation du ministre n’est pas requise dans les cas suivants :
+- **(1)** Pour l’application du paragraphe 147.1(10) de la Loi aux faits liés aux services passés et aux prestations assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension agréé, l’attestation du ministre n’est pas requise dans les cas suivants :
 	- **a)** chaque facteur d’équivalence pour services passés provisoire du participant, rattaché au fait lié aux services passés, est nul;
 	- **b)** les conditions énoncées aux paragraphes (2) ou (3) sont remplies;
 	- **c)** les conditions énoncées aux paragraphes (2) ou (3) sont remplies quant à leurs éléments essentiels et le ministre lève, par écrit, l’obligation d’attestation;
+	- **c.1)** l’alinéa 8303(5)f.1) s’est appliqué au calcul du facteur d’équivalence pour services passés provisoire du participant qui est rattaché au fait lié aux services passés;
 	- **d)** le fait lié aux services passés est réputé par l’alinéa 8304(3)b) s’être produit immédiatement après la fin de 1990.
 
-- **(2)** Les conditions suivantes sont visées aux alinéas (1)b) et c) et 8303(5)g) :
+- **(2)** Les conditions suivantes sont visées aux alinéas (1)b) et c) et 8303(5)g) :
 	- **a)** la disposition compte plus de neuf participants actifs;
 	- **b)** au plus 25 pour cent des participants actifs dans le cadre de la disposition sont des participants actifs déterminés dans ce cadre;
 	- **c)** les prestations viagères acquises aux termes de la disposition sont majorées par suite du fait lié aux services passés pour la totalité, ou presque, des participants actifs dans le cadre de la disposition;
-	- **d)** si la disposition compte un participant actif déterminé :
+	- **d)** si la disposition compte un participant actif déterminé :
 		- **(i)** d’une part, les montants calculés aux éléments C et D visés au sous-alinéa (ii) sont supérieurs à zéro,
-		- **(ii)** d’autre part, le montant calculé selon la formule A/C ne dépasse pas le montant calculé selon la formule B/D, où :
+		- **(ii)** d’autre part, le montant calculé selon la formule A/C ne dépasse pas le montant calculé selon la formule B/D, où :
 - **A** représente le total des montants représentant chacun les prestations viagères acquises aux termes de la disposition, immédiatement après le fait lié aux services passés, à un participant actif déterminé dans le cadre de la disposition;
 - **B** le total des montants représentant chacun les prestations viagères acquises aux termes de la disposition, immédiatement après le fait, à un participant actif (sauf un participant actif déterminé) dans le cadre de la disposition;
 - **C** le total des montants représentant chacun les prestations viagères qui étaient acquises aux termes de la disposition, immédiatement avant le fait, à un participant actif déterminé dans le cadre de la disposition;
 - **D** le total des montants représentant chacun les prestations viagères qui étaient acquises aux termes de la disposition, immédiatement avant le fait, à un participant actif (sauf un participant actif déterminé) dans le cadre de la disposition;
 	- **e)** les prestations prévues par la disposition par suite du fait lié aux services passés n’offrent pas plus d’avantages aux participants qui ne sont pas des participants actifs dans le cadre de la disposition qu’à ceux qui le sont.
 
-- **(3)** Les conditions suivantes sont visées aux alinéas (1)b) et c) :
+- **(3)** Les conditions suivantes sont visées aux alinéas (1)b) et c) :
 	- **a)** le fait lié aux services passés consiste en l’établissement de la disposition;
 	- **b)** la disposition compte plus de neuf participants actifs;
 	- **c)** au plus 25 pour cent des participants actifs dans le cadre de la disposition sont des participants actifs déterminés dans ce cadre;
 	- **d)** le participant n’est pas un participant actif déterminé dans le cadre de la disposition;
-	- **e)** si le participant n’est pas un participant actif dans le cadre de la disposition, les conditions suivantes sont réunies pour chacune des cinq années précédant l’année civile au cours de laquelle le fait lié aux services passés se produit :
+	- **e)** si le participant n’est pas un participant actif dans le cadre de la disposition, les conditions suivantes sont réunies pour chacune des cinq années précédant l’année civile au cours de laquelle le fait lié aux services passés se produit :
 		- **(i)** le participant n’était, à aucun moment de l’année, rattaché à un employeur qui participe au régime,
 		- **(ii)** le total des montants représentant chacun la rémunération du participant pour l’année reçue d’un employeur qui participe au régime n’a pas dépassé deux fois et demie le maximum des gains annuels ouvrant droit à pension pour l’année;
 	- **f)** le total des montants représentant chacun un facteur d’équivalence pour services passés provisoire du participant, rattaché au fait lié aux services passés, ne dépasse pas 7/2 du plafond des cotisations déterminées pour l’année au cours de laquelle le fait lié aux services passés se produit.
 
-- **(4)** Pour l’application du présent article à un fait lié aux services passés :
-	- **a)** le participant à un régime de pension est un participant actif dans le cadre d’une disposition à prestations déterminées du régime si, selon le cas :
+- **(4)** Pour l’application du présent article à un fait lié aux services passés :
+	- **a)** le participant à un régime de pension est un participant actif dans le cadre d’une disposition à prestations déterminées du régime si, selon le cas :
 		- **(i)** des prestations viagères lui sont acquises aux termes de la disposition pour la période suivant le moment où le fait lié aux services passés se produit,
 		- **(ii)** le participant a droit, immédiatement après le moment où le fait lié aux services passés se produit, à des prestations viagères aux termes de la disposition pour une période antérieure à ce moment, et il est raisonnable de s’attendre, à ce moment, à ce que des prestations viagères soient acquises au participant aux termes de la disposition pour une période postérieure à ce moment;
-	- **b)** le participant actif dans le cadre de la disposition à prestations déterminées d’un régime de pension est un participant actif déterminé dans le cadre de la disposition si, selon le cas :
+	- **b)** le participant actif dans le cadre de la disposition à prestations déterminées d’un régime de pension est un participant actif déterminé dans le cadre de la disposition si, selon le cas :
 		- **(i)** il est rattaché, au moment où le fait lié aux services passés se produit, à un employeur qui participe au régime,
 		- **(ii)** il est raisonnable de s’attendre, à ce moment, à ce que le total des montants représentant chacun la rémunération que le participant reçoit, pour l’année civile où le fait se produit, d’un employeur qui participe au régime dépasse deux fois et demie le maximum des gains annuels ouvrant droit à pension pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2005-264, art. 19.
 
 
 
@@ -14439,10 +14312,10 @@ sur le total des montants suivants :
 		- **(iii)** 1 000 $,
 		- **(iv)** le montant qui correspondrait au facteur d’équivalence du particulier pour l’année quant à l’employeur s’il n’était pas tenu compte de l’alinéa 8301(1)b).
 
-#### Crédits de pension — 1996 à 2003
+#### Crédits de pension — 1996 à 2002
 
 
-- **(4.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2004 quant à un employeur dans le cadre d’un régime étranger, le sous-alinéa (2)b)(vi) est remplacé par ce qui suit :
+- **(4.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2003 quant à un employeur dans le cadre d’un régime étranger, le sous-alinéa (2)b)(vi) est remplacé par ce qui suit :
 
 	- **« (vi)** le plafond des cotisations déterminées pour l’année. »
 
@@ -14461,7 +14334,7 @@ sur le total des montants représentant chacun :
 
 
 - **(6)** Dans le cas où le ministre a approuvé par écrit, à la demande écrite d’un employeur, une méthode de calcul du facteur d’équivalence pour services passés (régime étranger) d’un particulier quant à l’employeur qui est rattaché à la modification des prestations du particulier dans le cadre d’un régime étranger, ce facteur est calculé selon cette méthode.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 10.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 10; DORS/2005-264, art. 20.
 
 
 
@@ -14484,15 +14357,15 @@ sous réserve du paragraphe (2), est visé quant au particulier pour l’année 
 	- **d)** l’excédent du plafond des cotisations déterminées pour l’année donnée sur le montant de réduction du FE pour cette année;
 	- **e)** le montant représentant 10 pour cent de la partie de la rétribution de résident que le particulier a reçue de l’employeur pour l’année donnée qui est imputable à des services qu’il lui a rendus au cours de périodes tout au long desquelles il rendait des services visés à l’alinéa a).
 
-#### Montants visés — 1997 à 2004
+#### Montants visés — 1997 à 2003
 
 
-- **(2)** Pour le calcul du montant visé au paragraphe (1) quant à un particulier pour une année civile postérieure à 1996 et antérieure à 2005, l’alinéa (1)d) est remplacé par ce qui suit :
+- **(2)** Pour le calcul du montant visé au paragraphe (1) quant à un particulier pour une année civile postérieure à 1996 et antérieure à 2004, l’alinéa (1)d) est remplacé par ce qui suit :
 
 - **« d)** le plafond des cotisations déterminées pour l’année donnée; »
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 11; DORS/2005-264, art. 21.
 
 
 
@@ -14544,10 +14417,10 @@ où
 
 - **(3)** Dans le cas où le ministre a approuvé par écrit, à la demande écrite d’un employeur, une méthode de calcul des crédits de pension pour une année quant à l’employeur dans le cadre d’un mécanisme de retraite déterminé, les crédits de pension sont calculés selon cette méthode.
 
-#### Crédits de pension — 1996 à 2003
+#### Crédits de pension — 1996 à 2002
 
 
-- **(3.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2004 quant à un employeur dans le cadre d’un mécanisme de retraite déterminé :
+- **(3.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2003 quant à un employeur dans le cadre d’un mécanisme de retraite déterminé :
 	- **a)** le passage de l’alinéa (2) b) précédant le sous-alinéa (i) est remplacé par ce qui suit :
 
 	- **« b)** dans le cas où les conditions suivantes sont réunies, le montant qui serait déterminé selon la formule figurant au sous-alinéa (v) si la fraction « 0,85 » était remplacée par « 1 » et si la division (B) de l’élément A de cette formule était remplacée par « (B) le plafond des cotisations déterminées pour l’année » : »
@@ -14580,7 +14453,7 @@ sur le total des montants représentant chacun :
 
 
 - **(5)** Dans le cas où le ministre a approuvé par écrit, à la demande écrite d’un employeur, une méthode de calcul du facteur d’équivalence pour services passés (mécanisme de retraite déterminé) d’un particulier quant à l’employeur qui est rattaché à la modification des prestations du particulier dans le cadre d’un mécanisme de retraite déterminé, ce facteur est calculé selon cette méthode.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 12.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 12; DORS/2005-264, art. 22.
 
 
 
@@ -14621,13 +14494,13 @@ est visé quant au particulier pour l’année suivant l’année donnée, pour 
 
 **8309** 
 
-- **(1)** Sous réserve du paragraphe (3), lorsqu’un particulier est, au cours d’une année civile donnée postérieure à 1989, lieutenant-gouverneur d’une province (sauf un lieutenant-gouverneur qui n’est pas un contributeur au sens de l’article 2 de la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md)), le moins élevé des montants suivants est prescrit à son égard pour l’année suivant l’année donnée pour l’application de l’élément B des formules figurant dans les définitions de ***déductions inutilisées au titre des REER*** et ***maximum déductible au titre des REER***, au paragraphe 146(1) de la Loi, et pour l’application de l’élément B de la formule figurant à l’alinéa 204.2(1.1)b) de la Loi :
+- **(1)** Sous réserve du paragraphe (3), lorsqu’un particulier est, au cours d’une année civile donnée postérieure à 1989, lieutenant-gouverneur d’une province (sauf un lieutenant-gouverneur qui n’est pas un contributeur au sens de l’article 2 de la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md)), le moins élevé des montants suivants est prescrit à son égard pour l’année suivant l’année donnée pour l’application de l’élément B des formules figurant dans les définitions de ***déductions inutilisées au titre des REER*** et ***maximum déductible au titre des REER***, au paragraphe 146(1) de la Loi, et pour l’application de l’élément B de la formule figurant à l’alinéa 204.2(1.1)b) de la Loi :
 	- **a)** l’excédent éventuel du montant représentant 18 pour cent du traitement que le particulier a reçu pour l’année donnée en sa qualité de lieutenant-gouverneur sur le montant de réduction du FE pour cette année;
 	- **b)** l’excédent éventuel du plafond des cotisations déterminées pour l’année donnée sur le montant de réduction du FE pour cette année.
 
-- **(2)** Sous réserve du paragraphe (3), lorsqu’un particulier est, au cours d’une année civile donnée postérieure à 1990, un juge qui reçoit un traitement aux termes de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md), le moins élevé des montants suivants est prescrit à son égard pour l’année suivant l’année donnée pour l’application de l’élément B des formules figurant dans les définitions de ***déductions inutilisées au titre des REER*** et ***maximum déductible au titre des REER***, au paragraphe 146(1) de la Loi, et pour l’application de l’élément B de la formule figurant à l’alinéa 204.2(1.1)b) de la Loi :
-	- **a)** l’excédent éventuel du montant représentant 18 % de la partie du traitement, reçu par la particulier pour l’année donnée aux termes de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md), relativement à laquelle des cotisations sont versées en vertu des paragraphes 50(1) ou (2) de cette loi, sur le montant de réduction du FE pour cette année;
-	- **b)** le montant obtenu par la formule suivante :
+- **(2)** Sous réserve du paragraphe (3), lorsqu’un particulier est, au cours d’une année civile donnée postérieure à 1990, un juge qui reçoit un traitement aux termes de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md), le moins élevé des montants suivants est prescrit à son égard pour l’année suivant l’année donnée pour l’application de l’élément B des formules figurant dans les définitions de ***déductions inutilisées au titre des REER*** et ***maximum déductible au titre des REER***, au paragraphe 146(1) de la Loi, et pour l’application de l’élément B de la formule figurant à l’alinéa 204.2(1.1)b) de la Loi :
+	- **a)** l’excédent éventuel du montant représentant 18 % de la partie du traitement, reçu par la particulier pour l’année donnée aux termes de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md), relativement à laquelle des cotisations sont versées en vertu des paragraphes 50(1) ou (2) de cette loi, sur le montant de réduction du FE pour cette année;
+	- **b)** le montant obtenu par la formule suivante :
 ```
 A × B / 12
 ```
@@ -14635,15 +14508,15 @@ où
 - **A** représente l’excédent du plafond des cotisations déterminées pour l’année donnée sur le montant de réduction du FE pour cette année,
 - **B** le nombre de mois de l’année donnée pour lesquels le particulier a reçu un traitement relativement auquel des cotisations ont été versées en vertu des paragraphes 50(1) ou (2) de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md).
 
-- **(3)** Pour le calcul du montant prescrit en vertu des paragraphes (1) ou (2) à l’égard d’un particulier pour une année civile postérieure à 2000 et antérieure à 2005, les règles suivantes s’appliquent :
-	- **a)** l’alinéa (1) b) est remplacé par ce qui suit :
+- **(3)** Pour le calcul du montant prescrit en vertu des paragraphes (1) ou (2) à l’égard d’un particulier pour une année civile postérieure à 2000 et antérieure à 2004, les règles suivantes s’appliquent :
+	- **a)** l’alinéa (1) b) est remplacé par ce qui suit :
 
-	- **« b)** le plafond des cotisations déterminées pour l’année donnée. »;
+	- **« b)** le plafond des cotisations déterminées pour l’année donnée. »;
 
 
-	- **b)** l’élément A de la formule figurant à l’alinéa (2) b) est remplacé par ce qui suit :
-- **« A** représente le plafond des cotisations déterminées pour l’année donnée, ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 14; DORS/2001-339, art. 1.
+	- **b)** l’élément A de la formule figurant à l’alinéa (2) b) est remplacé par ce qui suit :
+- **« A** représente le plafond des cotisations déterminées pour l’année donnée, ».
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/99-9, art. 14; DORS/2001-339, art. 1; DORS/2005-264, art. 23.
 
 
 
@@ -14994,14 +14867,17 @@ l’émetteur remplit, dans les 30 jours suivant la réception de la demande, le
 
 ***prestation de retraite*** Prestation prévue pour un particulier par la disposition à cotisations ou à prestations déterminées d’un régime de pension qui est payable périodiquement. (*retirement benefits*)
 
-***prestation viagère*** Prestation de retraite prévue pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension et qui, une fois le versement commencé, lui est payable jusqu’à son décès, sauf si elle est rachetée ou que son versement est suspendu. (*lifetime retirement benefits*)
+***prestation viagère***
+- **a)** Prestation de retraite prévue pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension qui, une fois le versement commencé, lui est payable jusqu’à son décès, sauf si elle est rachetée ou que son versement est suspendu;
+- **b)** il est entendu que les prestations de retraite prévues pour un participant par la disposition à cotisations ou à prestations déterminées d’un régime de pension conformément à l’alinéa 8506(1)e.1) sont des prestations viagères. (*lifetime retirement benefits*)
 
 ***profession liée à la sécurité publique*** Les professions suivantes :
 - **a)** pompier;
 - **b)** policier;
 - **c)** agent des services correctionnels;
 - **d)** contrôleur de la circulation aérienne;
-- **e)** pilote de ligne. (*public safety occupation*)
+- **e)** pilote de ligne;
+- **f)** travailleur paramédical. (*public safety occupation*)
 
 ***régime exclu*** S’entend, selon le cas :
 - **a)** d’un régime existant qui comportait une disposition à prestations déterminées le 27 mars 1988;
@@ -15044,7 +14920,7 @@ Pour l’application du présent paragraphe :
 
 - **(6)** Pour déterminer une variable prévue par la présente partie, une période n’est comptée dans un ensemble de périodes qui remplissent certaines conditions que si elle ne fait pas partie d’une période plus longue qui remplit les mêmes conditions.
 
-- **(7)** Pour l’application de la définition de ***participant actif*** au paragraphe (1), du sous-alinéa 8503(3)a)(v) et des alinéas 8504(7)d) et 8507(3)a), est réputée être une cotisation versée pour le compte d’un particulier à un moment donné aux termes de la disposition à cotisations déterminées d’un régime de pension agréé la fraction d’un montant attribué au particulier à ce moment aux termes de la disposition qui est imputable :
+- **(7)** Pour l’application de la définition de ***participant actif*** au paragraphe (1), du sous-alinéa 8503(3)a)(v) et des alinéas 8504(7)d), 8506(2)c.1) et 8507(3)a), est réputée être une cotisation versée pour le compte d’un particulier à un moment donné aux termes de la disposition à cotisations déterminées d’un régime de pension agréé la fraction d’un montant attribué au particulier à ce moment aux termes de la disposition qui est imputable :
 	- **a)** soit aux montants perdus dans le cadre de la disposition ou aux revenus du régime qu’il est raisonnable d’imputer à ces montants;
 	- **b)** soit à un surplus afférent à la disposition;
 	- **c)** soit à un bien transféré à la disposition relativement au surplus actuariel afférent à une disposition à prestations déterminées du régime ou d’un autre régime de pension agréé;
@@ -15054,7 +14930,7 @@ Pour l’application du présent paragraphe :
 	- **a)** pour déterminer si les prestations de participant sont permises par la présente partie, il n’est pas tenu compte des prestations de non-participant;
 	- **b)** pour déterminer si les prestations de non-participant sont permises par la présente partie, il n’est pas tenu compte des prestations de participant;
 	- **c)** pour calculer le facteur d’équivalence, le facteur d’équivalence rectifié ou le facteur d’équivalence pour services passés du particulier en vertu de la partie LXXXIII, il n’est pas tenu compte des prestations de non-participant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24.
 
 
 
@@ -15077,7 +14953,7 @@ ainsi que les conditions suivantes :
 	- **d)** il n’y a aucune raison de s’attendre, d’après les documents instituant le régime et établissant les mécanismes de financement, à ce que :
 		- **(i)** soit l’agrément du régime puisse être retiré conformément au paragraphe (2),
 		- **(ii)** soit les conditions énoncées au paragraphe 147.1(10) de la Loi ne soient pas remplies;
-	- **e)** il n’y a aucune raison de s’attendre à ce que l’agrément du régime puisse être retiré conformément aux paragraphes 147.1(8) ou (9) de la Loi ou au paragraphe 8503(15).
+	- **e)** il n’y a aucune raison de s’attendre à ce que l’agrément du régime puisse être retiré conformément aux paragraphes 147.1(8) ou (9) de la Loi ou aux paragraphes 8503(15) ou 8506(4).
 
 #### Conditions applicables aux régimes de pension agréés
 
@@ -15085,7 +14961,7 @@ ainsi que les conditions suivantes :
 - **(2)** Pour l’application de l’alinéa 147.1(11)c) de la Loi et sous réserve des articles 8509 et 8510, l’agrément d’un régime de pension agréé peut être retiré dès que le régime ne remplit pas, selon le cas :
 	- **a)** une des conditions énoncées aux alinéas 8502b), d), g) à k) et m);
 	- **b)** si le régime comporte une disposition à prestations déterminées, une des conditions énoncées aux alinéas 8503(3)a), b), d), j), k) ou l) ou (4)b), d), e) ou f);
-	- **c)** si le régime comporte une disposition à cotisations déterminées, une des conditions énoncées à l’un des alinéas 8506(2)b) à c) et e) à h).
+	- **c)** si le régime comporte une disposition à cotisations déterminées, une des conditions énoncées à l’un des alinéas 8506(2)b) à c.1) et e) à i).
 
 #### Incompatibilité des règles
 
@@ -15147,7 +15023,7 @@ les règles suivantes s’appliquent :
 	- **d)** dans l’éventualité où le particulier s’était antérieurement retiré de la disposition et où les conditions énoncées au paragraphe 8304.1(14) étaient remplies relativement au retrait, il est raisonnable de considérer que l’ensemble des prestations accessoires se rapportent à des périodes antérieures à 1990,
 	- **e)** le ministre a approuvé l’application du présent paragraphe aux prestations accessoires,
 pour déterminer si les prestations accessoires sont permises selon la présente partie, le particulier est réputé avoir, dans le cadre de la disposition, un droit aux prestations rachetées.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 9; DORS/96-311, art. 14; DORS/99-9, art. 20; DORS/2001-188, art. 9; DORS/2003-328, art. 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 9; DORS/96-311, art. 14; DORS/99-9, art. 20; DORS/2001-188, art. 9; DORS/2003-328, art. 8; DORS/2005-264, art. 25.
 
 
 
@@ -15168,7 +15044,7 @@ pour déterminer si les prestations accessoires sont permises selon la présente
 	- **(i)** un montant qu’un participant verse conformément au régime tel qu’il est agréé, et qui est porté au crédit du compte du participant au titre d’une disposition à cotisations déterminées du régime ou versé au titre des prestations prévues pour le participant par une disposition à prestations déterminées du régime,
 	- **(ii)** un montant qu’un employeur verse pour ses employés actuels ou anciens conformément à une disposition à cotisations déterminées du régime tel qu’il est agréé,
 	- **(iii)** une cotisation admissible qu’un employeur verse pour ses employés actuels ou anciens aux termes d’une disposition à prestations déterminées du régime,
-	- **(iv)** un montant transféré au régime en conformité avec les paragraphes 146(16), 147(19) ou 147.3(1) à (8) de la Loi,
+	- **(iv)** un montant transféré au régime en conformité avec les paragraphes 146(16), 146.3(14.1), 147(19) ou 147.3(1) à (8) de la Loi,
 	- **(v)** un montant, que le ministre juge acceptable, transféré au régime d’un régime de pension principalement maintenu au profit de personnes non résidantes pour des services rendus à l’étranger;
 pour l’application du présent alinéa,
 	- **(vi)** la cotisation versée par un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension constitue une cotisation admissible lorsqu’elle est une cotisation admissible par application du paragraphe 147.2(2) de la Loi ou, étant une cotisation versée à un régime dont Sa Majesté du chef du Canada ou d’une province est un employeur participant, constituerait une cotisation admissible par application de ce paragraphe si tous les montants portés au crédit du régime dans les comptes du Canada ou de la province étaient exclus de l’actif du régime,
@@ -15197,9 +15073,9 @@ pour l’application du présent alinéa,
 #### Versement des prestations
 
 - **e)** le régime :
-	- **(i)** d’une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard :
-		- **(A)** soit à la fin de l’année civile où le particulier atteint l’âge de 69 ans,
-		- **(B)** soit, si les prestations sont prévues par une disposition à prestations déterminées, à tout moment postérieur que le ministre juge acceptable, mais seulement si le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait au moment visé à la division (A),
+	- **(i)** d’une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard à la fin de l’année civile où le participant atteint l’âge de 69 ans; toutefois :
+		- **(A)** si les prestations sont prévues par une disposition à prestations déterminées, leur versement peut débuter à tout moment postérieur que le ministre juge acceptable, à condition que le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait à la fin de l’année civile où le participant atteint l’âge de 69 ans,
+		- **(B)** si les prestations sont prévues par une disposition à cotisations déterminées conformément à l’alinéa 8506(1)e.1), leur versement peut débuter au plus tard à la fin de l’année civile où le participant atteint l’âge de 70 ans,
 	- **(ii)** d’autre part, prévoit que les prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées sont versées à intervalles ne dépassant pas un an;
 
 #### Cession de droits
@@ -15247,7 +15123,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26.
 
 
 
@@ -15543,7 +15419,7 @@ où
 #### Taux d’accumulation des prestations
 
 	- **g)** lorsque les prestations viagères assurées à un participant par la disposition sont en partie déterminées par la multiplication de la rémunération du participant (ou d’une fonction de celle-ci) par le taux annuel d’accumulation des prestations, ou selon une méthode équivalente, le taux annuel d’accumulation des prestations ou l’équivalent ne dépasse pas :
-		- **(i)** 2,33 pour cent, s’il s’agit de prestations assurées au participant relativement à un emploi de pompier et s’il est raisonnable de considérer que la formule de calcul des prestations viagères applicable au participant tient compte des prestations de pension de l’État,
+		- **(i)** 2,33 pour cent, s’il s’agit de prestations assurées au participant relativement à l’exercice d’une profession liée à la sécurité publique et s’il est raisonnable de considérer que la formule de calcul des prestations viagères applicable au participant tient compte des prestations de pension de l’État,
 		- **(ii)** 2 pour cent, dans les autres cas;
 
 #### Augmentation des prestations acquises
@@ -15708,7 +15584,7 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 		- **(i)** soit après le 10 décembre 1989,
 		- **(ii)** soit avant le 11 décembre 1989 lorsqu’elle n’a pas été approuvée par le ministre avant cette date aux termes de l’alinéa 20(1)s) de la Loi;
 	- **c)** il est raisonnable de considérer que l’employeur, en accord avec le participant, a versé la totalité, ou presque, de la partie de la cotisation qui se rapporte aux prestations pour services passés au lieu de payer au participant un montant ou autre prestation auquel il aurait droit par ailleurs.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27.
 
 
 
@@ -16007,9 +15883,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 	- **a)** des prestations viagères assurées à un participant qui sont payables en montants périodiques égaux ou le seraient si ce n’était l’un des motifs suivants :
 		- **(i)** celles qui sont payables au participant après le décès de son époux ou conjoint de fait sont inférieures à celles qui lui seraient payables si son époux ou conjoint de fait était vivant,
-		- **(ii)** elles font l’objet d’un rajustement après le début de leur versement, lequel rajustement :
-			- **(A)** s’il s’agit de prestations de retraite assurées en conformité avec le sous-alinéa (2)g)(i), serait conforme à l’un des sous-alinéas 146(3)b)(iii) à (v) de la Loi si la rente par laquelle les prestations viagères sont assurées était une rente prévue par un régime d’épargne-retraite,
-			- **(B)** sinon, est jugé acceptable par le ministre et est de même nature que le rajustement permis par la division (A);
+		- **(ii)** elles font l’objet d’un rajustement après le début de leur versement, lequel rajustement serait conforme à l’un des sous-alinéas 146(3)b)(iii) à (v) de la Loi si la rente par laquelle les prestations viagères sont assurées était une rente prévue par un régime d’épargne-retraite;
 
 #### Prestation de raccordement
 
@@ -16019,7 +15893,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 	- **c)** des prestations de retraite assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** les prestations sont payables pour une période commençant après le décès du participant et se terminant au plus tard 15 ans après la date du début du versement à celui-ci des prestations de retraite prévues par la disposition,
-		- **(ii)** le total des prestations payables mensuellement aux termes de la disposition ne dépasse pas les prestations de retraite qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
+		- **(ii)** le total des prestations payables mensuellement aux termes de la disposition ne dépasse pas les prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
 
 #### Prestation après-retraite au survivant
 > [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
@@ -16028,7 +15902,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 	- **d)** des prestations de retraite (appelées «prestations au survivant» au présent alinéa) assurées au bénéficiaire d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au début du versement à celui-ci des prestations de retraite,
 		- **(ii)** les prestations au survivant sont payables pour une période commençant après le décès du participant et se terminant au décès du bénéficiaire,
-		- **(iii)** le total des prestations au survivant et des autres prestations de retraite payables mensuellement aux bénéficiaires du participant aux termes de la disposition ne dépasse pas les prestations de retraite qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
+		- **(iii)** le total des prestations au survivant et des autres prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) payables mensuellement aux bénéficiaires du participant aux termes de la disposition ne dépasse pas les prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
 
 #### Prestation préretraite au survivant
 > [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
@@ -16039,13 +15913,21 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 		- **(ii)** les prestations seraient permises par les alinéas a) à c) si le bénéficiaire participait au régime,
 		- **(iii)** les prestations de retraite sont payables au bénéficiaire au plus tard à compter du premier anniversaire du décès du participant ou, s’il est postérieur, du 31 décembre de l’année civile où le bénéficiaire atteint l’âge de 69 ans;
 
+#### Prestation variables
+
+	- **e.1)** des prestations de retraite (appelées «prestations variables» au présent alinéa), sauf les prestations permises en vertu des alinéas a) à e), assurées à un participant et, après son décès, à un ou plusieurs de ses bénéficiaires, si les conditions suivantes sont réunies :
+		- **(i)** les prestations variables sont versées sur le compte du participant,
+		- **(ii)** les prestations variables assurées au participant ou à un bénéficiaire (sauf celui qui est le bénéficiaire déterminé du participant dans le cadre de la disposition) sont payables pour une période se terminant au plus tard à la fin de l’année civile suivant celle du décès du participant,
+		- **(iii)** les prestations variables assurées à un bénéficiaire qui est le bénéficiaire déterminé du participant dans le cadre de la disposition sont payables pour une période se terminant au plus tard à la fin de l’année civile du décès du bénéficiaire déterminé,
+		- **(iv)** le montant des prestations variables payables au participant et à ses bénéficiaires pour chaque année civile est au moins égal au minimum relatif au compte du participant dans le cadre de la disposition pour l’année civile;
+
 #### Paiement du compte
 
 	- **f)** un montant unique versé pour un participant sur le compte de celui-ci dans le cadre de la disposition;
 
-#### Paiement forfaitaire au décès préretraite
+#### Paiement du compte après le décès
 
-	- **g)** un ou plusieurs montants uniques versés à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition;
+	- **g)** un ou plusieurs montants uniques versés pour un ou plusieurs bénéficiaires d’un participant sur le compte de celui-ci dans le cadre de la disposition;
 
 #### Rachat des prestations
 
@@ -16075,6 +15957,12 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 		- **(i)** à un moment où la disposition présente un surplus,
 		- **(ii)** à un moment, postérieur à 1991, où un montant perdu dans le cadre de la disposition avant 1990, ou les revenus du régime qui sont imputables à juste titre à ce montant, sont détenus relativement à la disposition et n’ont pas été attribués de nouveau aux participants du régime;
 
+#### Cotisations interdites
+
+	- **c.1)** après l’année civile où un participant atteint l’âge de 69 ans, aucune cotisation n’est versée à son égard dans le cadre de la disposition et aucune somme n’est transférée à son profit à la disposition d’une autre disposition à cotisations ou à prestations déterminées du régime, sauf s’il s’agit d’une somme qui est transférée à son profit à la disposition :
+		- **(i)** soit conformément aux paragraphes 146.3(14.1) ou 147.3(1) ou (4) de la Loi,
+		- **(ii)** soit d’une autre disposition à cotisations ou à prestations déterminées du régime, dans le cas où le montant ainsi transféré serait conforme aux paragraphes 147.3(1) ou (4) de la Loi si les dispositions à cotisations ou à prestations déterminées faisaient partie de régimes de pension agréés distincts;
+
 #### Remboursement de cotisations
 
 	- **d)** si le régime n’est pas institué par la législation fédérale ou provinciale, il contient une stipulation qui permet, en vue d’empêcher le retrait de son agrément, de rembourser au cotisant la cotisation versée aux termes de la disposition par un participant ou un employeur; la stipulation peut prévoir que le remboursement de cotisations est assujetti à l’approbation de l’organe chargé d’appliquer la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou une loi provinciale semblable;
@@ -16092,13 +15980,15 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 #### Prestations de retraite
 
-	- **g)** des prestations de retraite sont assurées aux termes de la disposition :
-		- **(i)** soit par l’achat d’une rente d’un titulaire de permis ou autre personne autorisée par les lois fédérales ou provinciales applicables à exploiter au Canada un commerce de rentes,
-		- **(ii)** soit par un mécanisme que le ministre juge acceptable;
+	- **g)** des prestations de retraite (sauf les prestations permises en vertu de l’alinéa (1)e.1)) sont assurées aux termes de la disposition par l’achat d’une rente d’un fournisseur de rentes autorisé;
 
-#### Délai de versement
+#### Délai de versement — décès du participant
 
-	- **h)** chaque montant unique qui est payable après le décès d’un participant est versé dès que possible après ce décès.
+	- **h)** chaque montant unique qui est payable après le décès d’un participant (sauf celui qui est payable après le décès du bénéficiaire déterminé du participant dans le cadre de la disposition) est versé dès que possible après ce décès;
+
+#### Délai de versement — décès du bénéficiaire déterminé
+
+	- **i)** chaque montant unique qui est payable après le décès du bénéficiaire déterminé d’un participant dans le cadre de la disposition est versé dès que possible après ce décès.
 
 #### Attribution des cotisations patronales — Méthode de rechange
 
@@ -16111,7 +16001,51 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 - **(3)** Le ministre peut, sur demande écrite de l’administrateur d’un régime de pension agréé, proroger le délai prévu à l’alinéa (2)f) si :
 	- **a)** d’une part, le total des montants perdus au cours d’une année civile est plus élevé que la normale en raison de circonstances exceptionnelles;
 	- **b)** d’autre part, les montants perdus seront soit attribués de nouveau de façon raisonnable à la majorité des participants, soit versés à titre de frais d’administration ou de placement ou de frais semblables engagés relativement au régime.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15.
+
+#### Non-versement du minimum — régime dont l’agrément peut être retiré
+
+
+- **(4)** Le régime de pension agréé qui comporte une disposition à cotisations déterminées devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, un régime dont l’agrément peut être retiré au début d’une année civile si le total des prestations de retraite (sauf celles permises en vertu des alinéas (1)a) à e)) versées sur le régime au cours de l’année relativement au compte d’un participant dans le cadre de la disposition est inférieur au minimum relatif au compte pour l’année.
+
+#### Minimum
+
+
+- **(5)** Pour l’application de l’alinéa (1)e.1) et du paragraphe (4), mais sous réserve du paragraphe (7), le minimum relatif au compte d’un participant dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé pour une année civile correspond à la somme obtenue par la formule suivante :
+```
+A x B
+```
+où :
+- **A** représente le solde du compte au début de l’année;
+- **B** :
+- **a)** s’il existe un bénéficiaire déterminé du participant pour l’année dans le cadre de la disposition, le facteur désigné au paragraphe 7308(4) pour l’année quant à ce bénéficiaire,
+- **b)** si l’alinéa a) ne s’applique pas pour l’année, le facteur désigné au paragraphe 7308(4) pour l’année quant à un particulier si, à la fois :
+- **(i)** le particulier était, au moment de la désignation mentionnée au sous-alinéa (ii), l’époux ou le conjoint de fait du participant,
+- **(ii)** avant le début de l’année, le participant avait remis à l’administrateur du régime un document désignant le particulier pour l’application du présent alinéa relativement à la disposition,
+- **(iii)** avant le début de l’année, le participant n’avait pas révoqué la désignation,
+- **c)** dans les autres cas, le facteur désigné au paragraphe 7308(4) pour l’année quant au participant.
+
+#### Calcul du solde du compte
+
+
+- **(6)** Pour l’application de l’élément A de la formule figurant au paragraphe (5), le solde du compte d’un participant au début d’une année civile (appelée «année courante» au présent paragraphe) est établi selon les règles suivantes :
+	- **a)** le solde est établi d’une manière qui tient compte de façon raisonnable de la juste valeur marchande des biens détenus dans le cadre du compte au début de l’année courante et comprend une estimation de la partie des gains non attribués du régime constatée dans l’année civile précédente et dont il est raisonnable de s’attendre à ce qu’elle soit attribuée au compte au cours de l’année courante;
+	- **b)** si le versement des prestations de retraite (sauf les prestations permises en vertu de l’alinéa (1)e.1)) prévues par la disposition à l’égard du participant avait débuté avant l’année courante et que les prestations continuent d’être payables au cours de cette année, le solde est établi compte non tenu de la valeur des biens détenus relativement à ces prestations.
+
+#### Minimum égal à zéro
+
+
+- **(7)** Le minimum relatif au compte d’un participant dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé pour une année civile est égal à zéro si, à la fois :
+	- **a)** un particulier, qui est soit le participant, soit son bénéficiaire déterminé pour l’année dans le cadre de la disposition, est vivant au début de l’année;
+	- **b)** le particulier n’avait pas atteint l’âge de 69 ans à la fin de l’année civile précédente.
+
+#### Bénéficiaire déterminé
+
+
+- **(8)** Au présent article, un particulier est le bénéficiaire déterminé d’un participant pour une année civile dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé si, à la fois :
+	- **a)** le participant est décédé avant le début de l’année;
+	- **b)** le particulier compte parmi les bénéficiaires du participant et était son époux ou conjoint de fait immédiatement avant le décès du participant;
+	- **c)** avant le début de l’année, le participant ou son représentant légal avait remis à l’administrateur du régime un document désignant le particulier, et personne d’autre, à titre de bénéficiaire déterminé du participant pour l’année dans le cadre de la disposition.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15; DORS/2005-264, art. 28.
 
 
 
@@ -16232,19 +16166,19 @@ où
 
 **8509** 
 
-- **(1)** Les conditions d’agrément d’un régime exclu, applicables avant 1992, sont les suivantes :
+- **(1)** Les conditions d’agrément d’un régime exclu, applicables avant 1992, sont les suivantes :
 	- **a)** la condition énoncée à l’alinéa 8502a),
 	- **b)** la condition énoncée à l’alinéa 8502c), mais seulement en ce qui concerne les prestations prévues par les dispositions à cotisations déterminées du régime,
 	- **c)** si le régime comporte une disposition à cotisations déterminées, la condition énoncée à l’alinéa 8506(2)a),
-ainsi que les conditions suivantes :
+ainsi que les conditions suivantes :
 	- **d)** les prestations prévues par chaque disposition à prestations déterminées du régime sont jugées acceptables par le ministre; pour l’application de la présente condition, les prestations visant les périodes antérieures à 1991 et prévues après 1988 pour un participant qui est rattaché à un employeur qui participe au régime, ou qui était ainsi rattaché avant que les prestations soient prévues, sont réputées inacceptables à moins que le ministre ne soit avisé par écrit qu’elles sont prévues pour le participant;
 	- **e)** le régime contient les modalités éventuellement exigées par le ministre.
 
 #### Conditions applicables après 1991 aux prestations prévues par les régimes exclus
 
 
-- **(2)** Pour l’application de la condition énoncée à l’alinéa 8502c), dans sa version applicable après 1991 aux régimes exclus, les paragraphes 8503(2) et (3) ainsi que l’article 8504 sont modifiés comme suit :
-	- **a)** la condition énoncée au sous-alinéa 8503(2)b)(ii) est remplacée par la condition voulant que les prestations de raccordement payables à un participant pour un mois donné ne dépassent pas le montant calculé pour le mois selon la formule suivante :
+- **(2)** Pour l’application de la condition énoncée à l’alinéa 8502c), dans sa version applicable après 1991 aux régimes exclus, les paragraphes 8503(2) et (3) ainsi que l’article 8504 sont modifiés comme suit :
+	- **a)** la condition énoncée au sous-alinéa 8503(2)b)(ii) est remplacée par la condition voulant que les prestations de raccordement payables à un participant pour un mois donné ne dépassent pas le montant calculé pour le mois selon la formule suivante :
 ```
 (A × C × (E / F)) + (G × (1 - (E / F)))
 ```
@@ -16255,7 +16189,7 @@ où
 - **F** le total des nombres représentant chacun la durée (en années et fractions d’année) d’une période de services validables accomplie par le participant dans le cadre de la disposition;
 - **G** le montant calculé quant au participant pour le mois selon la formule figurant au sous-alinéa 8503(2)b)(ii);
 	- **b)** les conditions énoncées aux alinéas 8503(3)c), h) et i) et 8504(1)a) et b) ne s’appliquent qu’aux prestations viagères prévues pour les périodes postérieures à 1991;
-	- **c)** pour l’application des conditions énoncées aux alinéas 8504(1)a) et b), les règles suivantes s’appliquent :
+	- **c)** pour l’application des conditions énoncées aux alinéas 8504(1)a) et b), les règles suivantes s’appliquent :
 		- **(i)** le total calculé selon le sous-alinéa 8504(1)a)(i) ne comprend pas de montant se rapportant à 1991,
 		- **(ii)** le montant calculé à l’élément G du sous-alinéa 8504(1)a)(ii) est fonction seulement des périodes de services validables accomplies après 1991.
 
@@ -16267,14 +16201,14 @@ où
 #### Inapplication des conditions aux prestations déterminées prévues par les régimes exclus
 
 
-- **(4)** Le ministre peut, après 1991, exclure de l’application de la condition énoncée à l’alinéa 8502c) les prestations suivantes prévues par la disposition à prestations déterminées d’un régime exclu :
+- **(4)** Le ministre peut, après 1991, exclure de l’application de la condition énoncée à l’alinéa 8502c) les prestations suivantes prévues par la disposition à prestations déterminées d’un régime exclu :
 	- **a)** les prestations payables après le décès d’un participant, dans la mesure où il est raisonnable de considérer qu’elles se rapportent aux prestations viagères qui lui sont assurées pour des périodes antérieures à 1992;
 	- **b)** les prestations de raccordement dépassant celles que permet l’alinéa 8503(2)b), dans la mesure où elles sont acquises à un participant le 31 décembre 1991.
 
 #### Prestations prévues par les régimes exclus — Invalidité antérieure à 1992
 
 
-- **(4.1)** Lorsque des prestations sont assurées au participant d’un régime exclu, aux termes d’une disposition à prestations déterminées du régime, en raison de sa déficience mentale ou physique antérieure à 1992, les règles suivantes s’appliquent :
+- **(4.1)** Lorsque des prestations sont assurées au participant d’un régime exclu, aux termes d’une disposition à prestations déterminées du régime, en raison de sa déficience mentale ou physique antérieure à 1992, les règles suivantes s’appliquent :
 	- **a)** les conditions prévues à la présente partie, sauf celle énoncée à l’alinéa b), ne s’appliquent pas aux prestations;
 	- **b)** l’une des conditions d’agrément du régime prévoit que les prestations doivent être jugées acceptables par le ministre;
 	- **c)** l’agrément du régime ne peut être retiré par l’effet des paragraphes 147.1(8) et (9) de la Loi dans le cas où ces paragraphes n’auraient pas cet effet si les crédits de pension du participant aux termes de la disposition étaient déterminés compte non tenu des prestations.
@@ -16282,7 +16216,7 @@ où
 #### Conditions inapplicables aux régimes exclus
 
 
-- **(5)** Les règles suivantes s’appliquent aux régimes de pension qui sont des régimes exclus :
+- **(5)** Les règles suivantes s’appliquent aux régimes de pension qui sont des régimes exclus :
 	- **a)** les conditions visées à l’alinéa 8501(2)b) ne s’appliquent pas aux régimes avant 1992;
 	- **b)** la condition énoncée à l’alinéa 8502d) ne s’applique pas aux attributions faites avant 1992 dans le cadre des dispositions à prestations déterminées des régimes;
 	- **c)** les conditions énoncées aux alinéas 8503(3)a) et b) ne s’appliquent pas aux prestations prévues par les dispositions à prestations déterminées des régimes pour les périodes antérieures à 1992.
@@ -16290,29 +16224,29 @@ où
 #### Limites du facteur d’équivalence applicables aux régimes exclus pour 1991
 
 
-- **(6)** Les paragraphes 147.1(8) et (9) de la Loi ne s’appliquent pas à un régime exclu pour une année civile antérieure à 1992 dans l’une ou l’autre des situations suivantes :
+- **(6)** Les paragraphes 147.1(8) et (9) de la Loi ne s’appliquent pas à un régime exclu pour une année civile antérieure à 1992 dans l’une ou l’autre des situations suivantes :
 	- **a)** le régime ne comporte pas de dispositions à cotisations déterminées pour cette année;
 	- **b)** aucune cotisation n’est versée pour cette année aux termes de semblables dispositions.
 
 #### Limites applicables aux prestations reçues avant 65 ans
 
 
-- **(7)** Lorsqu’un régime de pension est un régime exclu ou le serait si la date du 27 mars 1988 dans les définitions de ***régime existant*** et ***régime exclu***, au paragraphe 8500(1), était remplacée par la date du 7 juin 1990 et si la date du 28 mars 1988 dans la définition de ***régime existant***, à ce paragraphe, était remplacée par la date du 8 juin 1990, le paragraphe 8504(5) est modifié comme suit dans son application au régime :
+- **(7)** Lorsqu’un régime de pension est un régime exclu ou le serait si la date du 27 mars 1988 dans les définitions de ***régime existant*** et ***régime exclu***, au paragraphe 8500(1), était remplacée par la date du 7 juin 1990 et si la date du 28 mars 1988 dans la définition de ***régime existant***, à ce paragraphe, était remplacée par la date du 8 juin 1990, le paragraphe 8504(5) est modifié comme suit dans son application au régime :
 	- **a)** les conditions énoncées aux alinéas 8504(5)a) et b) ne s’appliquent qu’aux prestations de retraite prévues pour des périodes postérieures à 1991;
 	- **b)** les montants calculés aux éléments B et D de l’alinéa 8504(5)a) sont fonction seulement des périodes de services validables accomplies après 1991.
 
 #### Taux d’accumulation des prestations supérieur à 2 pour cent
 
 
-- **(8)** Les règles suivantes s’appliquent au régime de pension qui est un régime exclu ou qui le serait si la date du 27 mars 1988 dans les définitions de ***régime existant*** et ***régime exclu***, au paragraphe 8500(1), était remplacée par la date du 31 juillet 1991 et si la date du 28 mars 1988 dans la définition de ***régime existant***, à ce paragraphe, était remplacée par la date du 1<sup>er</sup> août 1991 :
+- **(8)** Les règles suivantes s’appliquent au régime de pension qui est un régime exclu ou qui le serait si la date du 27 mars 1988 dans les définitions de ***régime existant*** et ***régime exclu***, au paragraphe 8500(1), était remplacée par la date du 31 juillet 1991 et si la date du 28 mars 1988 dans la définition de ***régime existant***, à ce paragraphe, était remplacée par la date du 1<sup>er</sup> août 1991 :
 	- **a)** la condition énoncée à l’alinéa 8503(3)g) ne s’applique qu’aux prestations viagères prévues par une disposition à prestations déterminées du régime pour des périodes postérieures à 1994;
 	- **b)** le sous-alinéa 8503(3)h)(iv) ne s’applique aux prestations viagères assurées à un participant aux termes d’une disposition à prestations déterminées du régime que si la formule servant au calcul des prestations viagères du participant est conforme à la condition énoncée à l’alinéa 8503(3)g) telle qu’elle s’appliquerait en l’absence du présent paragraphe.
 
 #### Prestations prévues par un régime non exclu
 
 
-- **(9)** Les règles suivantes s’appliquent aux prestations prévues par la disposition à prestations déterminées d’un régime de pension qui n’est pas un régime exclu :
-	- **a)** la condition énoncée à l’alinéa 8502c) ne s’applique pas aux prestations assurées au particulier qui répond à l’une des conditions suivantes :
+- **(9)** Les règles suivantes s’appliquent aux prestations prévues par la disposition à prestations déterminées d’un régime de pension qui n’est pas un régime exclu :
+	- **a)** la condition énoncée à l’alinéa 8502c) ne s’applique pas aux prestations assurées au particulier qui répond à l’une des conditions suivantes :
 		- **(i)** des prestations de retraite ont commencé à lui être versées aux termes de la disposition avant 1992,
 		- **(ii)** il est décédé avant 1992;
 	- **b)** est comprise parmi les conditions d’agrément du régime celle voulant que toutes les prestations visées à l’alinéa a) soient jugées acceptables par le ministre.
@@ -16325,7 +16259,7 @@ où
 #### Stipulation non requise pour les régimes antérieurs à 1992
 
 
-- **(10.1)** Les conditions énoncées aux alinéas 8503(4)c) et 8506(2)d) ne s’appliquent pas aux régimes de pension suivants :
+- **(10.1)** Les conditions énoncées aux alinéas 8503(4)c) et 8506(2)d) ne s’appliquent pas aux régimes de pension suivants :
 	- **a)** les régimes qui étaient des régimes de pension agréés le 31 décembre 1991;
 	- **b)** les régimes à l’égard desquels une demande d’agrément a été adressée au ministre avant 1992;
 	- **c)** les régimes établis pour assurer des prestations à au moins un particulier en remplacement des prestations auxquelles celui-ci avait droit aux termes d’un autre régime de pension visé aux alinéas a) ou b) ou au présent alinéa, indépendamment du fait que des prestations soient aussi assurées à d’autres particuliers.
@@ -16335,28 +16269,28 @@ où
 
 - **(11)** Il est entendu que les dispositions du présent article n’ont pas pour effet de limiter les exigences que le ministre peut imposer à l’égard des prestations prévues par la disposition à prestations déterminées d’un régime de pension du fait que ces prestations sont soumises, par application de l’alinéa 8503(3)e) ou du paragraphe (3), à la condition voulant qu’elles soient jugées acceptables par le ministre.
 
-#### Limites applicables au facteur d’équivalence — 1996 à 2003
+#### Limites applicables au facteur d’équivalence — 1996 à 2002
 
 
-- **(12)** L’agrément d’un régime de pension agréé ne peut être retiré à la fin d’une année civile postérieure à 1995 et antérieure à 2004 en application des paragraphes 147.1(8) ou (9) de la Loi du seul fait que le facteur d’équivalence d’un particulier pour l’année, ou un ensemble de tels facteurs, ou un ensemble de crédits de pension qui lui sont applicables pour l’année, (appelés chacun « montant de référence » au présent paragraphe) est excessif, dans le cas où il ne pourrait l’être en application du paragraphe si chaque montant de référence était diminué du moins élevé des montants suivants :
-	- **a)** l’excédent éventuel du moins élevé des montants suivants sur le plafond des cotisations déterminées pour l’année :
-		- **(i)** le total des montants représentant chacun :
+- **(12)** L’agrément d’un régime de pension agréé ne peut être retiré à la fin d’une année civile postérieure à 1995 et antérieure à 2003 en application des paragraphes 147.1(8) ou (9) de la Loi du seul fait que le facteur d’équivalence d’un particulier pour l’année, ou un ensemble de tels facteurs, ou un ensemble de crédits de pension qui lui sont applicables pour l’année, (appelés chacun « montant de référence » au présent paragraphe) est excessif, dans le cas où il ne pourrait l’être en application du paragraphe si chaque montant de référence était diminué du moins élevé des montants suivants :
+	- **a)** l’excédent éventuel du moins élevé des montants suivants sur le plafond des cotisations déterminées pour l’année :
+		- **(i)** le total des montants représentant chacun :
 			- **(A)** un crédit de pension dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé qui est inclus dans le calcul du montant de référence,
 			- **(B)** un crédit de pension dans le cadre d’un régime de participation différée aux bénéfices ou d’une disposition à cotisations déterminées d’un régime de pension agréé qui est inclus dans le calcul du montant de référence et est pris en compte, selon l’alinéa 8302(2)c), dans le calcul du crédit de pension visé à la division (A),
-		- **(ii)** 15 500 $;
+		- **(ii)** 15 500 $;
 	- **b)** le total des montants représentant chacun le crédit de pension visé à la division a)(i)(A).
 
 #### Prestations maximales indexées avant 2005
 
 
-- **(13)** Dans le cas où les conditions suivantes sont réunies :
+- **(13)** Dans le cas où les conditions suivantes sont réunies :
 	- **a)** un régime de pension est un régime exclu, ou le serait si la date du 27 mars 1988, dans les définitions de ***régime existant*** et ***régime exclu*** au paragraphe 8500(1), était remplacée par la date du 5 mars 1996 et la date du 28 mars 1988, dans cette définition de ***régime existant***, par la date du 6 mars 1996,
 	- **b)** selon les modalités du régime, en leur état immédiatement avant le 6 mars 1996, le régime prévoyait des prestations auxquelles s’applique une condition prévue à l’un des paragraphes 8504(1), (5) et (6) ou à l’alinéa 8505(3)d), et les prestations étaient conformes à la condition à ce moment,
 	- **c)** par suite du changement applicable au plafond des prestations déterminées à compter du 6 mars 1996, les prestations cesseraient d’être conformes à la condition en l’absence du présent paragraphe,
-les présomptions suivantes s’appliquent :
+les présomptions suivantes s’appliquent :
 	- **d)** pour déterminer, après le 5 mars 1996 et avant 1998, si les prestations sont conformes à la condition, le plafond des prestations déterminées pour chaque année postérieure à 1995 est réputé égal au montant qui correspondrait à ce plafond si la définition de ***plafond des cotisations déterminées*** au paragraphe 147.1(1) de la Loi s’appliquait en son état au 31 décembre 1995;
 	- **e)** pour déterminer, après 1997, si les prestations sont conformes à la condition, le plafond des prestations déterminées pour 1996 et 1997 est réputé égal au montant qui correspondrait à ce plafond s’il était déterminé conformément à l’alinéa d).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 15; DORS/99-9, art. 24.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 15; DORS/99-9, art. 24; DORS/2005-264, art. 29.
 
 
 
