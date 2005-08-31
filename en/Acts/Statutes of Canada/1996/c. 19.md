@@ -1908,7 +1908,11 @@ but not including
 
 
 
-**14** Phencyclidine (1–(1–phenylcyclohexyl)piperidine), its salts, derivatives and analogues and salts of derivatives and analogues
+**14** Phencyclidine (1-(1-phenylcyclohexyl)piperidine), its salts, derivatives and analogues and salts of derivatives and analogues, including:
+
+**(1)** Ketamine (2-(2-chlorophenyl)-2-(methylamino)cyclohexanone) 
+
+
 
 
 **15** Piritramide (1–(3–cyano–3,3–diphenylpropyl)–4–(1–piperidino)piperidine–4–carboxylic acid amide), its salts, derivatives and salts of derivatives
@@ -1981,7 +1985,7 @@ but not including
 
 
 
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1, 271.
 
 
 
