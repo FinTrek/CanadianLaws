@@ -223,6 +223,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **2** Bande de la vallée d’Annapolis
 
 
+**2.1** Bande de Bear River
+
+
 **3** Bande de Chapel Island
 
 
@@ -243,5 +246,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** Première nation de Whycocomagh
 
+
+> 1998, ch. 24, ann.; DORS/2005-275.
 
 
