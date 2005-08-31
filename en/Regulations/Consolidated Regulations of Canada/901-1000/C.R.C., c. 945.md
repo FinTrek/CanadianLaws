@@ -888,12 +888,12 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(4)** Where subsection 146(8.8) of the Act deems an amount to be received by an annuitant as a benefit out of or under a registered retirement savings plan and such amount is required by subsection 146(8) of the Act to be included in computing the income of that annuitant for a taxation year, the issuer of the plan shall make an information return in prescribed form.
 
-- **(5)** If a payment or transfer of property to which subsection 146(16) of the Act applies is made, the issuer of the plan from which the payment or transfer was made shall make an information return in prescribed form in respect of the payment or transfer.
+- **(5)** If a payment or transfer of property to which paragraph 146(16)(b) of the Act applies is made from a plan, the issuer of the plan shall make an information return in prescribed form in respect of the payment or transfer.
 
 - **(6)** [Repealed, SOR/2003-5, s. 5]
 
 - **(7)** In this section, ***annuitant*** and ***issuer*** have the meanings assigned by subsection 146(1) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5; SOR/2005-264, s. 1.
 
 
 
@@ -932,8 +932,8 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(4)** Where an amount is deemed under subsection 146.3(6) or (12) of the Act to be received by an annuitant out of or under a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the amount.
 
-- **(5)** If a transfer of an amount to which paragraph 146.3(14)(b) of the Act applies is made, the carrier of the fund from which the transfer is made shall make an information return in prescribed form in respect of the transfer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6.
+- **(5)** If a transfer of an amount to which subsection 146.3(14) of the Act applies is made from a fund, the carrier of the fund shall make an information return in prescribed form in respect of the transfer.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6; SOR/2005-264, s. 2.
 
 
 
@@ -1009,7 +1009,9 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-### Qualified Investments and Foreign Property
+### Qualified Investments
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 **221** 
@@ -1018,17 +1020,16 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(a)** a mutual fund corporation;
 	- **(b)** an investment corporation;
 	- **(c)** a mutual fund trust;
-	- **(d)** a pooled fund trust (within the meaning assigned by subsection 5000(7));
-	- **(e)** a resource property trust (within the meaning assigned by subsection 5000(7));
-	- **(f)** a trust that would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(b);
-	- **(g)** a trust described in paragraph 65(1)(c) of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md);
-	- **(h)** a small business investment trust (within the meaning assigned by subsection 5103(1)); or
-	- **(i)** a trust described in paragraph 149(1)(o.4) of the Act.
+	- **(d) and (e)** [Repealed, SOR/2005-264, s. 4]
+	- **(f)** a trust that would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(b); or
+	- **(g)** [Repealed, SOR/2005-264, s. 4]
+	- **(h)** a small business investment trust (within the meaning assigned by subsection 5103(1)).
+	- **(i)** [Repealed, SOR/2005-264, s. 4]
 
 - **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3 or 204 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
-- **(3)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or that an interest of a beneficiary under it, is not foreign property for the purpose of section 206 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1.
+- **(3)** [Repealed, SOR/2005-264, s. 4]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4.
 
 
 
@@ -5448,7 +5449,7 @@ other than
 
 **1219** 
 
-- **(1)** Subject to subsection (2), for the purpose of subsection 66.1(6) of the Act, ***Canadian renewable and conservation expense*** means an expense incurred by a taxpayer, and payable to a person or partnership with whom the taxpayer is dealing at arm’s length, in respect of the development of a project for which it is reasonable to expect that at least 50% of the capital cost of the depreciable property to be used in the project would be the capital cost of any property that is described in Class 43.1 of Schedule II or that would be such property but for this subsection, and includes such an expense incurred by the taxpayer
+- **(1)** Subject to subsections (2) to (4), for the purpose of subsection 66.1(6) of the Act, ***Canadian renewable and conservation expense*** means an expense incurred by a taxpayer, and payable to a person or partnership with whom the taxpayer is dealing at arm’s length, in respect of the development of a project for which it is reasonable to expect that at least 50% of the capital cost of the depreciable property to be used in the project would be the capital cost of any property that is described in Class 43.1 of Schedule II or that would be such property but for this subsection, and includes such an expense incurred by the taxpayer
 	- **(a)** for the purpose of making a service connection to the project for the transmission of electricity to a purchaser of the electricity, to the extent that the expense so incurred was not incurred to acquire property of the taxpayer;
 	- **(b)** for the construction of a temporary access road to the project site;
 	- **(c)** for a right of access to the project site before the earliest time at which a property described in Class 43.1 of Schedule II is used in the project for the purpose of earning income;
@@ -5459,7 +5460,7 @@ other than
 		- **(iii)** simulation and analysis of the performance and cost of process design options, and
 		- **(iv)** selection of the optimum process design;
 	- **(f)** for the drilling or completion of a well for the project; or
-	- **(g)** for the taxpayer’s test wind turbine for the project.
+	- **(g)** for a test wind turbine that is part of a wind farm project of the taxpayer.
 
 - **(2)** A Canadian renewable and conservation expense does not include any expense that
 	- **(a)** is described in paragraphs 20(1)(c), (d), (e) or (e.1) of the Act; or
@@ -5479,9 +5480,25 @@ other than
 			- **(B)** the ownership of land during the period, except as provided by paragraph (1)(b), (c) or (d).
 
 - **(3)** For the purpose of paragraph (1)(g), ***test wind turbine*** means a fixed location device that is a wind energy conversion system that would, but for this section, be property included in Class 43.1 of Schedule II because of subparagraph (d)(v) thereof, and in respect of which the Minister, in consultation with the Minister of Natural Resources, determines that
-	- **(a)** the device will be the first such device installed at the taxpayer’s site for a proposed wind energy conversion system; and
-	- **(b)** the primary purpose of the device is to test the level of electrical energy production at the site.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4.
+	- **(a)** the device is installed as part of a wind farm project of the taxpayer at which the electrical energy produced from wind by the device, and by all other test wind turbines that are part of the project, does not exceed
+		- **(i)** one third of the project’s planned nameplate capacity if
+			- **(A)** in the opinion of the Minister of Natural Resources, the project’s planned nameplate capacity is limited from an engineering or scientific perspective, and
+			- **(B)** the project’s planned nameplate capacity does not exceed six megawatts, or
+		- **(ii)** 20% of the project’s planned nameplate capacity, in any other case;
+	- **(b)** the project does not share with any other project a point of interconnection to an electrical energy transmission or distribution system;
+	- **(c)** if the project does not have a point of interconnection to an electrical energy transmission or distribution system, the project has a point of interconnection to an electrical system
+		- **(i)** of the taxpayer
+			- **(A)** which system is more than 10 kilometres from any transmission system and from any distribution system, and
+			- **(B)** from which system at least 90% of the electrical energy produced by the project is used in a business carried on by the taxpayer, or
+		- **(ii)** of another person or partnership that deals at arm’s length with the taxpayer
+			- **(A)** which system is more than 10 kilometres from any transmission system and from any distribution system, and
+			- **(B)** from which system at least 90% of the electrical energy produced by the project is used in a business carried on by the other person or partnership;
+	- **(d)** the primary purpose for installing the device is to test the level of electrical energy produced by the device from wind at the place of installation;
+	- **(e)** no other test wind turbine is installed within 1500 metres of the device; and
+	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
+
+- **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1.
 
 
 
@@ -9423,11 +9440,18 @@ are converted into shares of any class (in this subsection referred to as the �
 		- **(ii)** trusts described in clause 149(1)(o.2)(iv)(B) or (C) of the Act, and
 		- **(iii)** persons described in this subsection.
 
+- **(1.1)** For the purposes of paragraph 149(1)(o.4) of the Act, a trust is a master trust at any time if, at all times after it was created and before that time,
+	- **(a)** it was resident in Canada;
+	- **(b)** its only undertaking was the investing of its funds;
+	- **(c)** it never borrowed money except where the borrowing was for a term not exceeding 90 days and it is established that the borrowing was not part of a series of loans or other transactions and repayments;
+	- **(d)** it never accepted deposits; and
+	- **(e)** each of the beneficiaries of the trust was a trust governed by a registered pension plan or a deferred profit sharing plan.
+
 - **(2)** For the purposes of paragraph 149(1)(t) of the Act, the following are prescribed insurers:
 	- **(a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **(b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.; and
 	- **(c)** Laurentian Farm Insurance Company Inc.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5.
 
 
 
@@ -9497,7 +9521,12 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 	- **(d.2)** a unit of a trust if
 		- **(i)** the trust would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(a), and
 		- **(ii)** there has been a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not required under the laws of the province to be filed in respect of the distribution;
-	- **(e)** a warrant or right giving the owner thereof the right to acquire either immediately or in the future property all of which is a qualified investment for the plan trust;
+	- **(e)** an option, a warrant or a similar right (each of which is, in this paragraph, referred to as the “security”) issued by a person or partnership (in this paragraph referred to as the “issuer”) that gives the holder the right to acquire, either immediately or in the future, property all of which is a qualified investment for the plan trust or to receive a cash settlement in lieu of delivery of that property, where
+		- **(i)** the property is
+			- **(A)** a share of the capital stock of, a unit of, or a debt issued by, the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, or
+			- **(B)** a warrant issued by the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, that gives the holder the right to acquire a share or unit described in clause (A), and
+		- **(ii)** the issuer deals at arm’s length with each person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust;
+	- **(e.01)** an option, a warrant or a similar right that is listed on a stock exchange referred to in section 3200 or 3201 and that is in respect of property all of which is a qualified investment for the plan trust;
 	- **(e.1)** a share of, or deposit with, a société d’entraide économique,
 	- **(f)** a share of, or similar interest in a credit union;
 	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is an annuitant, a beneficiary or an employer under the governing plan of the plan trust, or to any other person who does not deal at arm’s length with that person, as a result of the ownership by
@@ -9527,13 +9556,27 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 	- **(i.11)** a share of the capital stock of a Canadian corporation that is registered under section 11 of the Equity Tax Credit Act, chapter 3 of the Statutes of Nova Scotia, 1993, the registration of which has not been revoked under that Act;
 	- **(i.12)** a share of the capital stock of a Canadian corporation that is registered under section 39 of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998, the registration of which has not been revoked under that Act;
 	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust) represented by a bankers’ acceptance;
-	- **(j)** a mortgage
-		- **(i)** that is in respect of real property situated in Canada (or an interest in that mortgage), and
-		- **(ii)** that is, if any mortgagor of that mortgage is a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust or is any other person who does not deal at arm’s length with that person,
-			- **(A)** administered by an approved lender under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), and
-			- **(B)** insured
-				- **(I)** under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), or
-				- **(II)** by a corporation that offers its services to the public in Canada as an insurer of mortgages and that is approved as a private insurer of mortgages by the Superintendent of Financial Institutions pursuant to the powers assigned to the Superintendent under subsection 6(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+	- **(i.3)** a debt obligation issued by a Canadian corporation or a trust resident in Canada, where
+		- **(i)** the principal purpose of the corporation or trust is to derive income from, or from the disposition of, property that is
+			- **(A)** a debt obligation, or a lease, that arose in the ordinary course of business between parties dealing with each other at arm’s length,
+			- **(B)** a property described by this paragraph, or
+			- **(C)** an interest, or for civil law a right, in property described in clause (A) or (B),
+		- **(ii)** the debt obligation has, at the time of its acquisition by the plan trust, an investment grade rating with a bond rating agency that rates debt in the ordinary course of its business, and
+		- **(iii)** either
+			- **(A)** the debt obligation is issued as part of a single issue of debt by the corporation or trust for a total amount of at least $25 million, or
+			- **(B)** at the time the debt obligation is issued, the corporation or trust has issued and outstanding debt of at least $25 million;
+	- **(j)** a debt obligation of a debtor, or an interest, or for civil law a right, in that debt obligation, where
+		- **(i)** the debt obligation is fully secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or would be fully secured were it not for a decline in the fair market value of the property after the debt obligation was issued, and
+		- **(ii)** the debtor (and any person or partnership who does not deal at arm’s length with the debtor) is not an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust;
+	- **(j.1)** a debt obligation secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or an interest, or for civil law a right, in that debt obligation, where the debt obligation is
+		- **(i)** administered by an approved lender under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), and
+		- **(ii)** insured
+			- **(A)** under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), or
+			- **(B)** by a corporation that offers its services to the public in Canada as an insurer of mortgages or hypothecary claims and that is approved as a private insurer of mortgages or hypothecary claims by the Superintendent of Financial Institutions under subsection 6(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+	- **(j.2)** a certificate evidencing an undivided interest, or for civil law an undivided right, in one or more properties, where
+		- **(i)** all or substantially all of the fair market value of the certificate is attributable to property that is, or is incidental to, a debt obligation secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada,
+		- **(ii)** the certificate has, at the time of its acquisition by the plan trust, an investment grade rating with a bond rating agency that rates debt in the ordinary course of its business, and
+		- **(iii)** the certificate is issued as part of an issue of certificates by the issuer for a total amount of at least $25 million;
 	- **(k)** an investment, other than a qualified investment described in paragraphs (a) to (j), that
 		- **(i)** was, at the end of 1980, a qualified investment for a trust pursuant to subparagraph 204(e)(v) of the Act or section 1502, this Part or section 5800, as the case may be, as those provisions read at that time,
 		- **(ii)** was held on December 31, 1980 and continuously thereafter by the trust until the particular time,
@@ -9549,6 +9592,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(vi)** the African Development Bank;
 	- **(m)** a royalty unit that is listed on a stock exchange referred to in section 3200 and the value of which is derived solely from Canadian resource properties;
 	- **(n)** a limited partnership unit listed on a stock exchange referred to in section 3200;
+	- **(n.01)** a debt issued by a limited partnership whose units are listed on a stock exchange referred to in section 3200;
 	- **(n.1)** a unit of a particular trust if
 		- **(i)** at the particular time, the unit is listed on a stock exchange referred to in section 3201,
 		- **(ii)** the primary purpose of the particular trust is
@@ -9569,7 +9613,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(i)** the taxable income of the corporation is exempt from tax under Part I of the Act because of paragraph 149(1)(l) of the Act, and
 		- **(ii)** either
 			- **(A)** the debt is issued by the corporation as part of an issue of debt by the corporation for an amount of at least $25 million, or
-			- **(B)** at the time of the acquisition of the debt by the plan trust, the corporation had issued debt as part of a single issue for an amount of at least $25 million; or
+			- **(B)** at the time of the acquisition of the debt by the plan trust, the corporation had issued debt as part of a single issue for an amount of at least $25 million;
 	- **(s)** where the particular time is before 2002, a security of a corporation (other than a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust)
 		- **(i)** that
 			- **(A)** was last acquired by the plan trust before September 2000, and
@@ -9579,7 +9623,23 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** that
 			- **(A)** was acquired by the plan trust after August 2000 from another plan trust under which the annuitant or beneficiary is also the annuitant or beneficiary under the plan trust,
 			- **(B)** immediately before its acquisition by the plan trust was a qualified investment for the other plan trust, and
-			- **(C)** would be a qualified investment for the plan trust because of this paragraph if this paragraph were read without reference to this subparagraph and the plan trust had acquired the security before September 2000.
+			- **(C)** would be a qualified investment for the plan trust because of this paragraph if this paragraph were read without reference to this subparagraph and the plan trust had acquired the security before September 2000;
+	- **(t)** a gold or silver legal tender bullion coin
+		- **(i)** that is of a minimum fineness of 995 parts per 1000 in the case of gold and 999 parts per 1000 in the case of silver,
+		- **(ii)** that was produced by the Royal Canadian Mint,
+		- **(iii)** that has a fair market value at the particular time not exceeding 110 per cent of the fair market value of the coin’s gold or silver content, and
+		- **(iv)** that is acquired by the plan trust directly from the Royal Canadian Mint or from a corporation (in paragraphs (u) and (v) referred to as a “specified corporation”)
+			- **(A)** that is a bank, a trust company, a credit union, an insurance corporation or a registered securities dealer,
+			- **(B)** that is resident in Canada, and
+			- **(C)** that is a corporation whose business activities are subject by law to the supervision of a regulating authority that is the Superintendent of Financial Institutions or a similar authority of a province;
+	- **(u)** a gold or silver bullion bar, ingot or wafer
+		- **(i)** that is of a minimum fineness of 995 parts per 1000 in the case of gold and 999 parts per 1000 in the case of silver,
+		- **(ii)** that was produced by a metal refiner included in the London Bullion Market Association’s good delivery list of acceptable refiners for gold or silver, as the case may be,
+		- **(iii)** that bears the hallmark of the metal refiner that produced it and a stamp indicating its fineness and its weight, and
+		- **(iv)** that is acquired by the plan trust either directly from the metal refiner that produced it or from a specified corporation; or
+	- **(v)** a certificate issued by a specified corporation or the Royal Canadian Mint representing a claim of the holder of the certificate to property held by the issuer of the certificate, where
+		- **(i)** the property would be property described in paragraph (t) or (u) if those paragraphs were read without reference to subparagraphs (t)(iv) and (u)(iv), respectively, and
+		- **(ii)** the certificate is acquired by the plan trust directly from the issuer of the certificate or from a specified corporation.
 
 - **(2)** Notes, bonds, debentures, bankers’ acceptances or similar obligations of
 	- **(a)** an employer by whom payments are made in trust to a trustee under a deferred profit sharing plan or a revoked plan for the benefit of beneficiaries under the plan, or
@@ -9653,7 +9713,7 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6.
 
 
 
@@ -9728,214 +9788,20 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 
 **PART L** 
-## Deferred Income Plans, Foreign Property
-
-
-**5000** 
-
-- **(1)** Where a taxpayer holds a share of the capital stock of a mutual fund corporation (other than an investment corporation) or an interest in, or a right to acquire an interest in,
-	- **(a)** a mutual fund trust,
-	- **(b)** a pooled fund trust,
-	- **(c)** a trust that would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(b) thereof,
-	- **(c.1)** a resource property trust, or
-	- **(c.2)** a trust if
-		- **(i)** the trust would be a mutual fund trust if Part XLVIII were read without reference to section 4801, and
-		- **(ii)** there has been a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not required under the laws of the province to be filed in respect of the distribution,
-that share, interest or right, as the case may be, shall not be foreign property for the purpose of computing the tax payable by the taxpayer under Part XI of the Act in respect of any particular month, if
-	- **(d)** the corporation or trust, as the case may be, has not acquired any foreign property after June 30, 1971; or
-	- **(e)** at no time during the relevant period for the particular month did the cost amount to the corporation or to the trust, as the case may be, of all foreign property held by it exceed 30% of the cost amount to it of all property held by it.
-
-- **(1.1)** For the purposes of paragraph (i) of the definition ***foreign property*** in subsection 206(1) of the Act, the following interests are hereby prescribed not to be foreign property:
-	- **(a)** an interest of a limited partner in a small business investment limited partnership (within the meaning assigned by subsection 5102(1));
-	- **(b)** an interest in a small business investment trust (within the meaning assigned by subsection 5103(1));
-	- **(c)** [Repealed, SOR/2003-328, s. 3]
-	- **(d)** an interest in a specified international finance trust; and
-	- **(e)** an interest of a limited partner in a designated limited partnership.
-
-- **(1.2)** For the purposes of paragraph (i) of the definition ***foreign property*** in subsection 206(1) of the Act, a property of a beneficiary that is an interest under a trust described in paragraph 149(1)(o.4) of the Act is prescribed not to be foreign property of the beneficiary at a time where
-	- **(a)** no other property of the beneficiary is foreign property at that time; or
-	- **(b)** the trust does not own any foreign property at that time.
-
-- **(1.3)** For the purpose of paragraph (i) of the definition ***foreign property*** in subsection 206(1) of the Act, the specified portion of a limited unit in a qualified limited partnership that is held at any time by a specified partner of the partnership is, at that time, not foreign property of the specified partner.
-
-- **(1.4)** For the purpose of subsection (1.3), the specified portion of a limited unit in a qualified limited partnership held at any time by a specified partner is
-	- **(a)** if the number of limited units in the partnership, each of which is held at that time by the specified partner or by any other specified partner with whom the specified partner does not deal at arm’s length, is less than or equal to 30 per cent of the number of limited units in the partnership held at that time by specified partners, the limited unit; and
-	- **(b)** in any other case, that proportion of the limited unit that the cost amount to the partnership of all property (other than foreign property) held by the partnership at that time is of the cost amount to the partnership of all property held by the partnership at that time.
-
-- **(1.5)** For the purposes of subsections (1.3) and (1.4), a specified partner of a qualified limited partnership at any time means a person or partnership that holds at that time a limited unit in the partnership and that is at that time neither
-	- **(a)** the general partner of the partnership; nor
-	- **(b)** a qualified trust or qualified corporation (as those expressions are defined in subsection 259(5) of the Act) to which subsection 259(1) of the Act applies.
-
-- **(1.6)** For the purposes of subsections (1.4) and (1.5), if a person or partnership (other than a taxpayer described in section 205 of the Act) holds at any time a unit or share in a “qualified trust” or “qualified corporation” (as those expressions are defined in subsection 259(5) of the Act), the person or partnership is deemed to hold at that time any property of the trust or corporation that it would be deemed, by paragraph 259(1)(b) of the Act, to hold at that time if that person or partnership were a taxpayer described in section 205 of the Act.
-
-- **(2)** Where
-	- **(a)** a share of the capital stock of a corporation referred to in subsection (1) or an interest in, or a right to acquire an interest in, a trust referred to in that subsection would, but for this subsection, be foreign property for the purpose of computing the tax payable by a taxpayer under Part XI of the Act in respect of a particular month,
-	- **(b)** the relevant period for the particular month in relation to property held by the trust or corporation is its taxation year that includes the end of the particular month, and
-	- **(c)** at the end of the relevant period for the particular month, the cost amount to the corporation or to the trust, as the case may be, of all foreign property held by it did not exceed 30% of the cost amount to it of all property held by it,
-that share, interest or right shall not be foreign property for the purpose of computing the tax payable by the taxpayer under Part XI of the Act in respect of the particular month.
-
-- **(3)** Where a taxpayer holds a share of the capital stock of an investment corporation, subsections (1), (2) and (7) apply in respect of that share as if
-	- **(a)** the reference in subsection (1) to “mutual fund corporation (other than an investment corporation)” were read as a reference to an “investment corporation”; and
-	- **(b)** the reference in subsection (1) to “June 30, 1971” were read as a reference to “October 13, 1971”.
-
-- **(4)** Where a taxpayer holds a share of the capital stock of an investment corporation, that share shall not be foreign property for the purpose of computing the tax payable by the taxpayer under Part XI of the Act in respect of a particular month if the share would otherwise be foreign property solely by reason of the acquisition by the corporation of foreign property before October 16, 1971.
-
-- **(5)** Where a mutual fund corporation or a mutual fund trust holds a share of the capital stock of a mutual fund corporation (other than an investment corporation) or an interest in, or a right to acquire an interest in, a mutual fund trust, the share or the interest, as the case may be, shall not be foreign property for the purpose of computing the tax payable by a taxpayer under Part XI of the Act in respect of a particular month if the last-mentioned corporation or trust, as the case may be, complies with
-	- **(a)** paragraph (1)(d);
-	- **(b)** paragraph (1)(e) in respect of the particular month; or
-	- **(c)** paragraphs (2)(b) and (c) in respect of the particular month.
-
-- **(6)** Where a mutual fund corporation or a mutual fund trust holds a share of the capital stock of an investment corporation, the share shall not be foreign property for the purpose of computing the tax payable by a taxpayer under Part XI of the Act in respect of a particular month if the investment corporation
-	- **(a)** would comply with paragraph (1)(d) if the reference therein to “June 30, 1971” were read as a reference to “October 16, 1971”;
-	- **(b)** complies with paragraph (1)(e) in respect of the particular month; or
-	- **(c)** complies with paragraphs (2)(b) and (c) in respect of the particular month.
-
-- **(7)** In this Part,
-
-***designated limited partnership*** means a limited partnership that complies with the following conditions:
-- **(a)** the interests of the limited partners are described by reference to a single class of units of the partnership listed on a stock exchange prescribed under section 3200,
-- **(b)** that class was listed before 1999 on a stock exchange prescribed under section 3200,
-- **(c)** at least 80% of the full-time employees employed by the partnership are employed in Canada,
-- **(d)** the total of all amounts each of which is the cost amount to the partnership of a property used in its activities carried on in Canada is not less than 80% of the total of all amounts each of which is the cost amount to the partnership of a property of the partnership,
-- **(e)** the principal activity of the partnership is
-	- **(i)** the production of goods in Canada,
-	- **(ii)** the sale of goods in Canada,
-	- **(iii)** the provision of services in Canada, or
-	- **(iv)** any combination of the activities described in subparagraphs (i) to (iii), and
-- **(f)** the revenue from that principal activity is regulated by a public authority governed by the laws of Canada or a province; (*société de personnes en commandite désignée*)
-
-***foreign property*** has the meaning assigned by section 206 of the Act; (*bien étranger*)
-
-***limited unit*** in a qualified limited partnership means a unit described in paragraph (d) of the definition ***qualified limited partnership***;
-
-***pooled fund trust*** means, with respect to a particular taxpayer who owns an interest in the trust, a trust the trustee of which is a trust company incorporated under the laws of Canada or a province and that complies with the following conditions:
-- **(a)** throughout the taxation year of the trust (in this subsection referred to as the “first relevant year”) in which the taxpayer acquired the interest or the first taxation year of the trust (in this subsection referred to as the “second relevant year”) commencing more than one year after the taxpayer acquired the interest, the total, at any time, of
-	- **(i)** the cost amount to the trust of
-		- **(A)** shares,
-		- **(B)** any property that, under its terms or conditions or any agreement relating to it, is convertible into, is exchangeable for or confers a right to acquire, shares,
-		- **(C)** bonds, debentures, mortgages, notes and other similar obligations,
-		- **(D)** marketable securities,
-		- **(E)** cash,
-		- **(F)** life insurance policies in Canada (other than annuity contracts), and
-		- **(G)** annuity contracts issued by persons licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an annuities business, and
-	- **(ii)** the amount by which the cost amount to the trust of real property that can reasonably be regarded as being held for the purpose of producing income from property exceeds the total of amounts each of which was owing by the trust at that time on account of its acquisition of the real property and was included at that time in the cost amount to the trust of the real property,
-was not less than 80 per cent of the amount by which the cost amount to the trust of all property at that time exceeds the total of amounts each of which was owing by it at that time on account of its acquisition of real property and was included at that time in the cost amount to it of real property,
-- **(b)** throughout the first relevant year or the second relevant year, the cost amount to the trust at any time of shares, bonds, mortgages and other securities of any one corporation or debtor, other than bonds, mortgages and other securities of or guaranteed by Her Majesty in right of Canada, a province or a Canadian municipality, was not more than 10 per cent of the amount by which the cost amount to the trust of all property at that time exceeds the total of all amounts each of which was owing by the trust at that time on account of the trust’s acquisition of real property and was included at that time in the cost amount to the trust of real property,
-- **(c)** throughout the first relevant year or the second relevant year, the amount by which
-	- **(i)** the cost amount to the trust of any one real property at any time
-exceeds
-	- **(ii)** the total of amounts each of which was owing by the trust at that time on account of its acquisition of the real property and was included at that time in the cost amount to it of the real property
-was not more than 10 per cent of the amount by which the cost amount to the trust of all property at that time exceeds the total of amounts each of which was owing by the trust at that time on account of its acquisition of real property and was included at that time in the cost amount to the trust of real property, and
-- **(d)** not less than 95 per cent of the income of the trust (determined without reference to subsections 49(2.1) and 104(6) of the Act) for the first relevant year or the second relevant year was derived from, or from the dispositions of, investments described in paragraph (a); (*fiducie de fonds mis en commun*)
-
-***qualified limited partnership***, at a particular time after 1985, means a limited partnership that at all times after it was formed and before the particular time complied with the following conditions:
-- **(a)** it had only one general partner,
-- **(b)** the share of the general partner, as general partner, in any income of the partnership from any source in any place, for any period, was the same as his share, as general partner, in
-	- **(i)** the income of the partnership from that source in any other place,
-	- **(ii)** the income of the partnership from any other source,
-	- **(iii)** the loss of the partnership from any source,
-	- **(iv)** any capital gain of the partnership, and
-	- **(v)** any capital loss of the partnership
-for that period, except that the share of the general partner, as general partner, in the income or loss of the partnership from specified properties (within the meaning assigned by subsection 5100(1)) may differ from his share, as general partner, in the income or loss of the partnership from other sources,
-- **(c)** the share of the general partner, as general partner, in any income or loss of the partnership for any period was not less than his share, as general partner, in the income or loss of the partnership for any preceding period,
-- **(d)** the interests of the limited partners were described by reference to units of the partnership that were identical in all respects,
-- **(e)** [Repealed, SOR/2003-328, s. 3]
-- **(f)** its only undertaking was the investing of its funds and its investments consisted solely of
-	- **(i)** shares of the capital stock of corporations (other than shares that were issued to the partnership and that are shares described in section 66.3 of the Act or shares in respect of which amounts have been designated under subsection 192(4) of the Act),
-	- **(ii)** rights, or warrants that grant the owner thereof rights, to acquire shares of the capital stock of corporations,
-	- **(iii)** put or call options in respect of shares of the capital stock of corporations,
-	- **(iv)** debt obligations of corporations,
-	- **(v)** specified properties (within the meaning assigned by subsection 5100(1)), or
-	- **(vi)** any combination of the properties described in subparagraphs (i) to (v),
-- **(g)** no election has been made under subsection 97(2) of the Act on the acquisition of any property by it,
-- **(h)** it has not borrowed money except for the purpose of earning income from its investments and the amount of any such borrowings at any time did not exceed 20 per cent of the partnership capital at that time, and
-- **(i)** the cost amount to it of all foreign property held by it
-	- **(i)** before 1990 and the particular time did not exceed 10 per cent,
-	- **(ii)** before 1991 and the particular time did not exceed 12 per cent,
-	- **(iii)** before 1992 and the particular time did not exceed 14 per cent,
-	- **(iv)** before 1993 and the particular time did not exceed 16 per cent,
-	- **(v)** before 1994 and the particular time did not exceed 18 per cent,
-	- **(vi)** before 2000 and the particular time did not exceed 20 per cent,
-	- **(vii)** before 2001 and the particular time did not exceed 25 per cent, and
-	- **(viii)** before the particular time did not exceed 30 per cent
-of the cost amount to it of all property held by it; (*société de personnes en commandite admissible*)
-
-***relevant period for the particular month*** means, in relation to property held by a particular corporation or particular trust,
-- **(a)** its most recent taxation year ending before the end of the particular month, and
-- **(b)** its taxation year that includes the end of the particular month, where paragraph (a) does not apply; (*période pertinente pour le mois donné*)
-
-***resource property trust*** means a trust the trustee of which is a trust company that is incorporated under the laws of Canada or a province and that complies with the following conditions:
-- **(a)** the trust, at all times after the later of November 12, 1981 and the time at which it was created,
-	- **(i)** has limited its activities to
-		- **(A)** acquiring Canadian resource properties by purchase or by incurring Canadian exploration expense or Canadian development expense, or
-		- **(B)** holding, exploring, developing, maintaining, improving, managing, operating or disposing of its Canadian resource properties,
-	- **(ii)** has made no investments other than
-		- **(A)** in Canadian resource properties,
-		- **(B)** in property to be used in connection with Canadian resource properties described in clause (i)(A),
-		- **(C)** in loans secured by Canadian resource properties for the purpose of carrying out any activity described in subparagraph (i) with respect to Canadian resource properties,
-		- **(D)** in corporations described in subparagraph 149(1)(o.2)(ii.1) of the Act, or
-		- **(E)** investments that a pension fund or plan is permitted to make under the Pension Benefits Standards Act or a similar law of a province, and
-	- **(iii)** has not borrowed money except for the purpose of earning income from Canadian resource properties, and
-- **(b)** the beneficiaries of the trust, at all times after the later of November 12, 1981 and the time at which it was created, were
-	- **(i)** registered pension plans, or
-	- **(ii)** trusts all the beneficiaries of which were registered pension plans; (*fiducie d’avoirs miniers*)
-
-***specified international finance trust*** at a particular time means a trust that complies with the following conditions:
-- **(a)** the trust was created principally for the purpose of investing in property described in subparagraph (c)(i),
-- **(b)** throughout the period that began at the time the trust was created and ends at the particular time, the trust was resident in Canada, and
-- **(c)** throughout the period that began 30 days after the time the trust was created and ends at the particular time, the total of all amounts each of which is the cost amount to the trust of the following property was not less than 90% of the total of all amounts each of which is the cost amount to the trust of a property of the trust:
-	- **(i)** debt issued to
-		- **(A)** the African Development Bank,
-		- **(B)** the Asian Development Bank,
-		- **(C)** the Caribbean Development Bank,
-		- **(D)** the European Bank for Reconstruction and Development,
-		- **(E)** Export Development Canada,
-		- **(F)** the Inter-American Development Bank,
-		- **(G)** the International Bank for Reconstruction and Development, or
-		- **(H)** the International Finance Corporation, and
-	- **(ii)** shares and debt that are not foreign property of the trust. (*fiducie financière internationale déterminée*)
-
-- **(8)** For the purposes of the definition ***designated limited partnership*** in subsection (7) and for the purposes of this subsection, if a particular partnership is a member of another partnership at the end of a fiscal period of the other partnership (in this subsection referred to as the “relevant time”), throughout the period that begins at the relevant time and ends at the earlier of the time that is immediately before the end of the following fiscal period of the other partnership and the time that the other partnership ceases to exist
-	- **(a)** the particular partnership is deemed to employ an additional number of full-time employees, or full-time employees employed in Canada, as the case may be, equal to the product of
-		- **(i)** the specified fraction of the particular partnership at the relevant time in respect of the other partnership, and
-		- **(ii)** the number of full-time employees employed, or employed in Canada, as the case may be, at the relevant time by the other partnership,
-	- **(b)** each property used, or used in activities carried on in Canada, as the case may be, at the relevant time by the other partnership is deemed to be used, or to be used in activities carried on in Canada, as the case may be, by the particular partnership and is deemed to have a cost amount to the particular partnership equal to the product of
-		- **(i)** the specified fraction of the particular partnership at the relevant time in respect of the other partnership, and
-		- **(ii)** the cost amount of the property at the relevant time to the other partnership, and
-	- **(c)** the particular partnership is, to the degree that can reasonably be considered to reflect the specified fraction of the particular partnership at the relevant time in respect of the other partnership, deemed to carry on each of the activities carried on by the other partnership.
-
-- **(9)** For the purposes of subsection (8), the specified fraction of the particular partnership in respect of the other partnership at the end of a fiscal period of the other partnership is the quotient obtained by dividing the particular partnership’s share of the income or loss of the other partnership for the fiscal period by the income or loss of the other partnership for the fiscal period.
-
-- **(10)** For the purposes of subsection (9), if the income and loss of the other partnership for the fiscal period are nil, the quotient referred to in that subsection shall be calculated as if the other partnership had income for the fiscal period in the amount of $1,000,000.
-
-- **(11)** The definition ***designated limited partnership*** in subsection (7) and subsections (8) to (10) shall be read and construed as if each of the assumptions set out in paragraphs 96(1)(a) to (g) of the Act were made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 5; SOR/85-712, s. 1; SOR/86-390, s. 4; SOR/90-606, s. 2; SOR/92-51, s. 8; SOR/92-123, s. 1; SOR/92-681, s. 3(F); SOR/94-471, s. 3; SOR/94-686, ss. 28(F), 52(F), 71(F), 75(F), 78(F), 79(F); SOR/97-105, s. 1; SOR/2000-62, s. 2; SOR/2000-190, s. 1; SOR/2001-216, s. 8; 2001, c. 33, s. 30; SOR/2003-328, s. 3.
+> [Repealed, SOR/2005-264, s. 9]
 
 
 
-
-**5001** For the purposes of paragraph 149(1)(o.4) of the Act, a trust is a master trust at any time if, at all times after it was created and before that time,
-- **(a)** it was resident in Canada;
-- **(b)** its only undertaking was the investing of its funds;
-- **(c)** it never borrowed money except where the borrowing was for a term not exceeding 90 days and it is established that the borrowing was not part of a series of loans or other transactions and repayments;
-- **(d)** it never accepted deposits; and
-- **(e)** each of the beneficiaries of the trust was a trust governed by a registered pension plan or a deferred profit sharing plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-606, s. 3; SOR/92-51, s. 8.
+**5000** [Repealed, SOR/2005-264, s. 9]
 
 
 
+**5001** [Repealed, SOR/2005-264, s. 9]
 
-**5002** For the purpose of subparagraph 206(2.01)(b)(ii) of the Act,
-- **(a)** a prescribed trust is,
-	- **(i)** a pooled fund trust,
-	- **(ii)** a trust that would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(b),
-	- **(iii)** a resource property trust,
-	- **(iv)** a master trust, as described in section 5001, or
-	- **(v)** a trust if
-		- **(A)** the trust would be a mutual fund trust if Part XLVIII were read without reference to section 4801, and
-		- **(B)** there has been a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not required under the laws of the province to be filed in respect of the distribution; and
-- **(b)** a prescribed partnership is a qualified limited partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-62, s. 3; SOR/2001-216, s. 9.
+
+
+**5002** [Repealed, SOR/2005-264, s. 9]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-62, s. 3; SOR/2001-216, s. 9; SOR/2005-264, s. 9.
 
 
 
@@ -9949,7 +9815,7 @@ of the cost amount to it of all property held by it; (*société de personnes en
 
 - **(1)** In this Part,
 
-***designated rate***, at any time, means 150 per cent of the highest of the prime rates generally quoted at that time by the banks to which Schedule A to the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) applies; (*taux déterminé*)
+***designated rate***, at any time, means 150 per cent of the highest of the prime rates generally quoted at that time by the banks to which Schedule A to the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) applies; (*taux déterminé*)
 
 ***eligible corporation***, at any time, means
 - **(a)** a particular corporation that is a taxable Canadian corporation all or substantially all of the property of which is at that time
@@ -9969,7 +9835,7 @@ but does not include
 	- **(vi)** a corporation the principal business of which is the lending of money or the purchasing of debt obligations or a combination of them,
 - **(d)** a corporation controlled by one or more non-resident persons,
 - **(e)** a venture capital corporation, other than a venture capital corporation described in section 6700, or
-- **(f)** a corporation that has made an election in respect of a particular taxation year under subparagraph (iv) of the description of B in paragraph 204.82(2.2)(c.1) of the Act, if that time is in the 12-month period that begins on the day that is six months after the day on which the particular taxation year ends; (*société admissible*)
+- **(f)** a corporation that has made an election in respect of a particular taxation year under subparagraph (iv) of the description of B in paragraph 204.82(2.2)(c.1) of the Act, if that time is in the 12-month period that begins on the day that is six months after the day on which the particular taxation year ends; (*société admissible*)
 
 ***qualifying active business***, at any time, means any business carried on primarily in Canada by a corporation, but does not include
 - **(a)** a business (other than a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rent and royalties), or
@@ -9977,7 +9843,7 @@ but does not include
 
 and, for the purposes of this definition, a business carried on primarily in Canada by a corporation, at any time, includes a business carried on by the corporation if, at that time,
 - **(c)** at least 50 per cent of the full time employees of the corporation and all corporations related thereto employed in respect of the business are employed in Canada, or
-- **(d)** at least 50 per cent of the salaries and wages paid to employees of the corporation and all corporations related thereto employed in respect of the business are reasonably attributable to services rendered in Canada; (*entreprise admissible exploitée activement*)
+- **(d)** at least 50 per cent of the salaries and wages paid to employees of the corporation and all corporations related thereto employed in respect of the business are reasonably attributable to services rendered in Canada; (*entreprise admissible exploitée activement*)
 
 ***qualifying obligation***, at any time, means a bond, debenture, mortgage, note or other similar obligation of a corporation described in paragraph 149(1)(o.2) or (o.3) of the Act, if
 - **(a)** the obligation was issued by the corporation after October 31, 1985,
@@ -9989,7 +9855,7 @@ and, for the purposes of this definition, a business carried on primarily in Can
 and, except as provided in subsection 5104(1), the corporation was the first person (other than a broker or dealer in securities) to have acquired the properties and the corporation has owned the properties continuously since they were so acquired,
 - **(c)** the corporation does not hold, and no group of persons who do not deal with each other at arm’s length and of which it is a member holds, more than 30 per cent of the outstanding shares of any class of voting stock of another corporation, except where all or any part of those shares were acquired in specified circumstances, within the meaning of subsection 5104(2),
 - **(d)** the recourse of the holder of the obligation against the corporation with respect to the obligation is limited to the properties acquired with the proceeds of the issue of the obligation and any properties substituted therefor, and
-- **(e)** the properties acquired with the proceeds of the issue of the obligation have not been disposed of, unless the disposition occurred within the 90 day period immediately preceding that time; (*titre admissible*)
+- **(e)** the properties acquired with the proceeds of the issue of the obligation have not been disposed of, unless the disposition occurred within the 90 day period immediately preceding that time; (*titre admissible*)
 
 ***specified holding corporation***, at any time, means a taxable Canadian corporation where
 - **(a)** all or substantially all of the collective property of the corporation and of all other corporations controlled by it (each of which other corporations is referred to in this definition as a “controlled corporation”), other than shares in the capital stock of the corporation or of a corporation related to it and debt obligations issued by it or by a corporation related to it, is at that time used in a qualifying active business carried on by the corporation, and
@@ -10003,11 +9869,11 @@ and in a determination of whether property is used in a qualifying active busine
 - **(c)** where a business is carried on by a controlled corporation,
 	- **(i)** the business shall be deemed to be a business carried on only by the corporation, and
 	- **(ii)** the controlled corporation shall be deemed to be the corporation in the application of paragraphs (c) and (d) of the definition ***qualifying active business***, and
-- **(d)** if a business of the corporation is substantially similar to one or more other businesses of the corporation, all those businesses shall be deemed collectively to be one business of the corporation; (*société de portefeuille déterminé*)
+- **(d)** if a business of the corporation is substantially similar to one or more other businesses of the corporation, all those businesses shall be deemed collectively to be one business of the corporation; (*société de portefeuille déterminé*)
 
-***specified property*** means property described in any of subparagraphs 204(e)(i), (ii), (iii), (vii) and (viii) of the Act. (*bien déterminé*)
+***specified property*** means property described in any of paragraphs (a), (b), (c), (f) and (g) of the definition ***qualified investment*** in section 204 of the Act. (*bien déterminé*)
 
-- **(2)** For the purposes of this part and paragraph (a) of the definition ***small business property*** in subsection 206(1) of the Act, a small business security of a person, at any time, is the property of that person that is, at that time,
+- **(2)** For the purposes of this Part and clause (b)(iii)(A) of the definition ***eligible investment*** in subsection 204.8(1) of the Act, a small business security of a person, at any time, is property of that person that is, at that time,
 	- **(a)** a share of the capital stock of an eligible corporation,
 	- **(b)** a debt obligation of an eligible corporation (other than a venture capital corporation described in section 6700) that does not by its terms or any agreement related to the obligation restrict the corporation from incurring other debts and that is
 		- **(i)** secured solely by a floating charge on the assets of the corporation and that by its terms or any agreement related thereto is subordinate to all other debt obligations of the corporation (other than a small business security issued by the corporation, or a debt obligation that is owing by the corporation to a shareholder of the corporation or a person related to a shareholder of the corporation and that is not secured in any manner whatever), or
@@ -10022,10 +9888,8 @@ if, immediately after the time of acquisition thereof,
 	- **(f)** the total assets (determined in accordance with generally accepted accounting principles, on a consolidated or combined basis, where applicable) of the eligible corporation and all corporations associated with it do not exceed $50,000,000
 and includes
 	- **(g)** property of the person that is, at that time,
-		- **(i)** a qualifying obligation,
-		- **(ii)** the proportion of the interest of the person as a limited partner in a qualified limited partnership (within the meaning assigned by subsection 5000(7)) at that time that
-			- **(A)** the aggregate of the cost amounts to the partnership of all properties held by the partnership at that time that would be small business properties (within the meaning assigned by subsection 206(1) of the Act) if the partnership were a person,is of
-			- **(B)** the aggregate of the cost amounts to the partnership of all properties held by the partnership at that time, or
+		- **(i)** a qualifying obligation, or
+		- **(ii)** [Repealed, SOR/2005-264, s. 10]
 		- **(iii)** a security (in this subparagraph referred to as the “new security”) described in any of paragraphs (a) to (d), where the new security was issued at a particular time
 			- **(A)** in exchange for, on the conversion of, or in respect of rights pertaining to a security (in this paragraph referred to as the “former security”) that would, if this subsection were read without reference to this subparagraph and paragraph (h), be a small business security of the person immediately before the particular time, and
 			- **(B)** pursuant to an agreement entered into before the particular time and at or before the time that the former security was last acquired by the person, or
@@ -10041,16 +9905,8 @@ and includes
 		- **(i)** the references to “controlled, directly or indirectly, in any manner whatever” in section 256 of the Act (other than subsection (5.1) thereof) were read as references to “controlled”, and
 		- **(ii)** such rights described in subsection 256(1.4) of the Act and shares, as were held at that time by a small business investment corporation, small business investment limited partnership or small business investment trust, were disregarded.
 
-- **(4)** For the purposes of paragraph (e) of the definition ***small business property*** in subsection 206(1) of the Act, a taxpayer is a prescribed person in respect of a property at any time where
-	- **(a)** the following conditions are met:
-		- **(i)** the taxpayer is a beneficiary of a trust that has elected pursuant to subsection 259(1) of the Act for a period that includes that time,
-		- **(ii)** the property is deemed to be held by the taxpayer at that time by virtue of subsection 259(1) of the Act, and
-		- **(iii)** the trust referred to in subparagraph (i) is the first person (other than a broker or dealer in securities) to have acquired the property and has owned the property continuously since it was so acquired, except where the property is a small business security acquired in cases described in subsection 5104(1);
-	- **(b)** the taxpayer is a limited partner in a qualified limited partnership (within the meaning assigned by subsection 5000(7)) and the property is that proportion of the taxpayer’s interest in the partnership that, pursuant to subparagraph (2)(g)(ii), is a small business security of the taxpayer at that time;
-	- **(c)** the taxpayer is a holder of property that at that time is a small business security acquired in cases described in subsection 5104(1);
-	- **(d)** the taxpayer is a limited partner in a small business investment limited partnership the units of which are listed on a stock exchange prescribed under section 3200 and the property consists of the taxpayer’s units in that partnership; or
-	- **(e)** the taxpayer is a beneficiary under a small business investment trust the units of which are listed on a stock exchange prescribed under section 3200 and the property consists of the taxpayer’s units in that trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/87-134, s. 1; SOR/90-606, s. 4; SOR/92-123, s. 2; SOR/94-471, s. 4; SOR/94-686, ss. 29(F), 50(F), 62, 78(F), 79(F); SOR/98-281, s. 1; SOR/99-102, s. 2; SOR/2001-289, ss. 1, 7, 8(E).
+- **(4)** [Repealed, SOR/2005-264, s. 10]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/87-134, s. 1; SOR/90-606, s. 4; SOR/92-123, s. 2; SOR/94-471, s. 4; SOR/94-686, ss. 29(F), 50(F), 62, 78(F), 79(F); SOR/98-281, s. 1; SOR/99-102, s. 2; SOR/2001-289, ss. 1, 7, 8(E); SOR/2005-264, s. 10.
 
 
 
@@ -10067,7 +9923,9 @@ and includes
 		- **(i)** small business securities,
 		- **(ii)** interests of a limited partner in small business investment limited partnerships,
 		- **(iii)** interests in small business investment trusts,
-		- **(iv)** property (other than small business securities) described in any of subparagraphs (f)(i) to (iv) of the definition ***qualified limited partnership*** in subsection 5000(7),
+		- **(iv)** property (other than a small business security) that is
+			- **(A)** a share of the capital stock of a corporation (other than a share that is issued to the corporation and that is either a share described in section 66.3 of the Act or a share in respect of which an amount has been designated under subsection 192(4) of the Act), or
+			- **(B)** a put, call, warrant or other right to acquire or sell a share described by clause (A),
 		- **(v)** specified properties, or
 		- **(vi)** any combination of properties described in any of subparagraphs (i) to (v)
 and, except as provided in subsection 5104(1), with respect to properties referred to in any of subparagraphs (i) to (iii), the corporation was the first person (other than a broker or dealer in securities) to have acquired the properties and the corporation has owned the properties continuously since they were so acquired;
@@ -10088,14 +9946,14 @@ exceeds
 - **(3)** For the purposes of subsection (2), where a small business investment corporation disposes of a property referred to in subparagraphs (1)(b)(i) to (iii), it shall be deemed to continue to hold the investment for a period of 90 days following the date of the disposition.
 
 - **(4)** For the purposes of paragraph 149(1)(o.3) of the Act, where a small business investment corporation holds an interest in a partnership or trust that qualified as a small business investment limited partnership or small business investment trust, as the case may be, when the interest was acquired and that, but for this subsection, would cease at a subsequent time to so qualify, the interest in the partnership or trust shall be deemed to be an interest in a small business investment limited partnership or small business investment trust, as the case may be, for the 24 months immediately following the subsequent time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/90-606, s. 5; SOR/92-51, s. 8; SOR/94-471, s. 5; SOR/94-686, ss. 78(F), 79(F); SOR/2001-289, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/90-606, s. 5; SOR/92-51, s. 8; SOR/94-471, s. 5; SOR/94-686, ss. 78(F), 79(F); SOR/2001-289, s. 7; SOR/2005-264, s. 11.
 
 
 
 
 **5102** 
 
-- **(1)** For the purposes of this Part and paragraph (c) of the definition ***small business property*** in subsection 206(1) of the Act, a partnership is a small business investment limited partnership at any time if at all times after it was formed and before that time
+- **(1)** For the purpose of this Part, a partnership is a small business investment limited partnership at any particular time if at all times after it was formed and before the particular time
 	- **(a)** it had only one general partner;
 	- **(b)** the share of the general partner, as general partner, in any income of the partnership from any source in any place, for any period, was the same as his share, as general partner, in
 		- **(i)** the income of the partnership from that source in any other place,
@@ -10111,7 +9969,9 @@ for that period, except that the share of the general partner, as general partne
 		- **(ii)** the general partner shall be deemed not to hold any unit of the partnership as a limited partner;
 	- **(f)** its only undertaking was the investing of its funds and its investments consisted solely of
 		- **(i)** small business securities where, except as provided in subsection 5104(1), the partnership was the first person (other than a broker or dealer in securities) to have acquired the securities and it has owned the securities continuously since they were so acquired,
-		- **(ii)** property (other than small business securities) described in any of subparagraphs (f)(i) to (iv) of the definition ***qualified limited partnership*** in subsection 5000(7),
+		- **(ii)** property (other than a small business security) that is
+			- **(A)** a share of the capital stock of a corporation (other than a share that is issued to the partnership and that is either a share described in section 66.3 of the Act or a share in respect of which an amount has been designated under subsection 192(4) of the Act), or
+			- **(B)** a put, call, warrant or other right to acquire or sell a share described by clause (A),
 		- **(iii)** specified properties, or
 		- **(iv)** any combination of properties described in any of subparagraphs (i) to (iii);
 	- **(g)** it has complied with subsection (2);
@@ -10134,20 +9994,22 @@ exceeds
 exceeds 75 per cent of the amount, if any, by which the aggregate of its losses from the disposition of properties disposed of before that time exceeds the aggregate of its gains from the disposition of properties disposed of before that time.
 
 - **(3)** For the purposes of subsection (2), where a small business investment limited partnership disposes of a small business security it shall be deemed to continue to hold the investment for a period of 90 days following the date of the disposition.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/90-606, s. 6; SOR/94-471, s. 6; SOR/94-686, ss. 58(F), 78(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/90-606, s. 6; SOR/94-471, s. 6; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/2005-264, s. 12.
 
 
 
 
 **5103** 
 
-- **(1)** For the purposes of this Part, paragraph (d) of the definition ***small business property*** in subsection 206(1) of the Act and subsection 259(3) of the Act, a trust is a small business investment trust at any time if at all times after it was created and before that time
+- **(1)** For the purposes of this Part and subsection 259(5) of the Act, a trust is a small business investment trust at any particular time if at all times after it was created and before the particular time
 	- **(a)** it was resident in Canada;
 	- **(b)** the interests of the beneficiaries under the trust were described by reference to units of the trust that were identical in all respects; and
 	- **(c)** no beneficiary or group of beneficiaries who did not deal with each other at arm’s length held more than 30 per cent of the units of the trust and, for the purposes of this paragraph, a small business investment corporation that has not borrowed money and in which no shareholder or group of shareholders who did not deal with each other at arm’s length held more than 30 per cent of the outstanding shares of any class of voting stock shall be deemed not to be a beneficiary;
 	- **(d)** its only undertaking was the investing of its funds and its investments consisted solely of
 		- **(i)** small business securities where, except as provided in subsection 5104(1), the trust was the first person (other than a broker or dealer in securities) to have acquired the securities and it has owned the securities continuously since they were so acquired,
-		- **(ii)** property (other than small business securities) described in any of subparagraphs (f)(i) to (iv) of the definition ***qualified limited partnership*** in subsection 5000(7),
+		- **(ii)** property (other than a small business security) that is
+			- **(A)** a share of the capital stock of a corporation (other than a share that is issued to the trust and that is either a share described in section 66.3 of the Act or a share in respect of which an amount has been designated under subsection 192(4) of the Act), or
+			- **(B)** a put, call, warrant or other right to acquire or sell a share described by clause (A),
 		- **(iii)** specified properties, or
 		- **(iv)** any combination of properties described in any of subparagraphs (i) to (iii);
 	- **(e)** it has complied with subsection (2);
@@ -10170,7 +10032,7 @@ exceeds
 exceeds 75 per cent of the amount, if any, by which the aggregate of its losses from the disposition of properties disposed of before that time exceeds the aggregate of its gains from the disposition of properties disposed of before that time.
 
 - **(3)** For the purposes of subsection (2), where a small business investment trust disposes of a small business security it shall be deemed to continue to hold the investment for a period of 90 days following the date of disposition.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/94-471, s. 7; SOR/94-686, ss. 78(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-390, s. 5; SOR/94-471, s. 7; SOR/94-686, ss. 78(F), 79(F); SOR/2005-264, s. 13.
 
 
 
@@ -12800,18 +12662,18 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 
 **7305.1** For the purpose of subparagraph (v) of the description of A in paragraph 6(1)(k) of the Act, the amount prescribed for a taxation year is
-- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 14 cents; and
-- **(b)** in any other case, 17 cents.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1.
+- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 17 cents; and
+- **(b)** in any other case, 20 cents.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1.
 
 
 
 
 **7306** For the purposes of paragraph 18(1)(r) of the Act, the amount in respect of the use of one or more automobiles in a taxation year by an individual for kilometres driven in the year for the purpose of earning income of the individual is the total of
-- **(a)** the product of 36 cents multiplied by the number of those kilometres;
+- **(a)** the product of 39 cents multiplied by the number of those kilometres;
 - **(b)** the product of 6 cents multiplied by the lesser of 5,000 and the number of those kilometres; and
 - **(c)** the product of 4 cents multiplied by the number of those kilometres driven in the Yukon Territory, the Northwest Territories or Nunavut.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2.
 
 
 
@@ -12869,15 +12731,8 @@ where
 - **(3)** For the purposes of the definition ***minimum amount*** in subsection 146.3(1) of the Act, the prescribed factor in respect of an individual for a year in connection with a retirement income fund that was a qualifying retirement income fund at the beginning of the year is the factor, determined pursuant to the following table, that corresponds to the age in whole years (in the table referred to as “X”) attained by the individual at the beginning of that year or that would have been so attained by the individual if the individual had been alive at the beginning of that year.
 <table>
 <tr>
+<th></th>
 <th>X Factor</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>Under 79</td>
@@ -12950,18 +12805,11 @@ where
 </table>
 
 
-- **(4)** For the purposes of the definition ***minimum amount*** in subsection 146.3(1) of the Act, the prescribed factor in respect of an individual for a year in connection with a retirement income fund other than a fund that was a qualifying retirement income fund at the beginning of the year is the factor, determined pursuant to the following table, that corresponds to the age in whole years (in the table referred to as “Y”) attained by the individual at the beginning of that year or that would have been so attained by the individual if the individual had been alive at the beginning of that year.
+- **(4)** For the purposes of the definition ***minimum amount*** in subsection 146.3(1) of the Act and subsection 8506(5), the prescribed factor in respect of an individual for a year in connection with a retirement income fund (other than a fund that was a qualifying retirement income fund at the beginning of the year) or the designated factor in respect of an individual for a year in connection with an account under a money purchase provision of a registered pension plan, as the case may be, is the factor, determined in accordance with the following table, that corresponds to the age in whole years (in the table referred to as “Y”) attained by the individual at the beginning of the year or that would have been so attained by the individual if the individual was alive at the beginning of the year.
 <table>
 <tr>
+<th></th>
 <th>Y Factor</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>under 71</td>
@@ -13065,7 +12913,7 @@ where
 </tr>
 </table>
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2; SOR/2005-264, s. 14.
 
 
 
@@ -13329,14 +13177,14 @@ exceeds
 ### Permanent Establishments
 
 
-**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non residents*** in subsection 18(5), subsections 34.2(6), 112(2), 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subsection 206(1.3) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
+**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsection 34.2(6), the definition ***excluded income*** and ***excluded revenue*** in subsection 95(2.5), subsections 112(2), 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
 - **(a)** where the person carries on business through an employee or agent, established in a particular place, who has general authority to contract for the person or who has a stock of merchandise owned by the person from which the employee or agent regularly fills orders, the person shall be deemed to have a permanent establishment at that place,
 - **(b)** where the person is an insurance corporation, the person is deemed to have a permanent establishment in each country in which the person is registered or licensed to do business,
 - **(c)** where the person uses substantial machinery or equipment at a particular place at any time in a taxation year, the person shall be deemed to have a permanent establishment at that place,
 - **(d)** the fact that the person has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the person has a permanent establishment, and
 - **(e)** where the person is a corporation, the fact that the person has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place shall not of itself be held to mean that the person is operating a permanent establishment at that place,
 except that, where the person is resident in a country with which the Government of Canada has concluded an agreement or convention for the avoidance of double taxation that has the force of law in Canada and in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15.
 
 
 
@@ -13366,7 +13214,7 @@ except that, where the person is resident in a country with which the Government
 
 ***complete period of reduced services*** of an individual means a period of reduced services of the individual that is not part of a longer period of reduced services of the individual; (*période complète de services réduits*)
 
-***excluded contribution*** to a registered pension plan means an amount that is transferred to the plan in accordance with any of subsections 146(16), 147(19), 147.3(1) to (4) and 147.3(5) to (7) of the Act; (*cotisation exclue*)
+***excluded contribution*** to a registered pension plan means an amount that is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (4) and 147.3(5) to (7) of the Act; (*cotisation exclue*)
 
 ***flat benefit provision*** of a pension plan means a defined benefit provision of the plan under which the amount of lifetime retirement benefits provided to each member is based on the aggregate of all amounts each of which is the product of a fixed rate and either the duration of service of the member or the number of units of output of the member, and, for the purposes of this definition, where
 - **(a)** the amount of lifetime retirement benefits provided under a defined benefit provision to each member is subject to a limit based on the remuneration received by the member, and
@@ -13439,7 +13287,7 @@ shall be deemed to be a contribution made under the provision by the employer wi
 the individual is deemed to continue, from the time of the payment or acquisition, as the case may be, until the individual’s death, to be a member in relation to the plan or provision, as the case may be.
 
 - **(13)** For the purposes of this Part and Part LXXXV, where a benefit is to be provided, or may be provided, to an individual under a defined benefit provision of a registered pension plan as a consequence of an allocation that is to be made, or may be made, to the individual of all or part of an actuarial surplus under the provision, the individual is considered not to have any right to receive the benefit under the provision until the time at which the benefit becomes provided under the provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5; SOR/2005-264, s. 16.
 
 
 
@@ -13462,13 +13310,27 @@ the individual is deemed to continue, from the time of the payment or acquisitio
 #### Pension Credit — Deferred Profit Sharing Plan
 
 
-- **(2)** For the purposes of subsection (1) and Part LXXXV and subsection 147(5.1) of the Act, and subject to subsections (3) and 8304(2), an individual’s pension credit for a calendar year with respect to an employer under a deferred profit sharing plan is the aggregate of all amounts each of which is
-	- **(a)** a contribution made to the plan in the year by the employer with respect to the individual, or
-	- **(b)** such portion of an amount allocated in the year to the individual as is attributable to forfeited amounts under the plan and earnings of the plan in respect thereof, except to the extent that such portion is
-		- **(i)** included in determining the individual’s pension credit for the year with respect to any other employer who participates in the plan,
-		- **(ii)** paid to the individual in the year, or
-		- **(iii)** where the year is 1990, attributable to amounts forfeited before 1990 or earnings of the plan in respect thereof,
-except that, where the year is before 1990, the individual’s pension credit is nil.
+- **(2)** For the purposes of subsection (1) and Part LXXXV and subsection 147(5.1) of the Act, and subject to subsection 8304(2), an individual’s pension credit for a calendar year with respect to an employer under a deferred profit sharing plan is the amount determined by the formula
+```
+A - B
+```
+where
+- **A** is the total of all amounts each of which is
+- **(a)** a contribution made to the plan in the year by the employer with respect to the individual, or
+- **(b)** the portion of an amount allocated in the year to the individual that is attributable to forfeited amounts under the plan or to earnings of the plan in respect of forfeited amounts, except to the extent that the portion
+- **(i)** is included in determining the individual’s pension credit for the year with respect to any other employer who participates in the plan, or
+- **(ii)** is paid to the individual in the year; and
+- **B** is nil, unless the conditions in subsection (2.1) are satisfied, in which case it is the total referred to in paragraph (2.1)(b).
+
+##### Conditions Re — Description of B in Subsection (2)
+
+
+- **(2.1)** The following are conditions for the purpose of the description of B in subsection (2):
+	- **(a)** the total of all amounts, each of which would be the individual’s pension credit for the calendar year with respect to the employer under a deferred profit sharing plan if the description of B in subsection (2) were read as “is nil”., is
+		- **(i)** equal to, or less than, 50% of the money purchase limit for the year,
+		- **(ii)** greater than 18% of the amount that would be the individual’s compensation from the employer for the year if the definition ***compensation*** in subsection 147.1(1) of the Act were read without reference to paragraph (b) of that definition, and
+		- **(iii)** equal to, or less than, 18% of the amount that would be the individual’s compensation from the employer for the preceding year if the definition ***compensation*** in subsection 147.1(1) of the Act were read without reference to paragraph (b) of that definition; and
+	- **(b)** the total of all amounts, each of which is an amount that is paid from the plan to the individual or the employer in the calendar year or in the first two months of the following year that can reasonably be considered to derive from an amount included in the value of A in subsection (2) with respect to the individual and the employer for the year, is greater than nil.
 
 #### Non-vested Termination from DPSP
 
@@ -13638,13 +13500,13 @@ where
 #### Transferred Amounts
 
 
-- **(15)** For the purposes of subparagraphs (2)(b)(ii) and (4)(b)(iv), an amount transferred for the benefit of an individual from a registered pension plan or a deferred profit sharing plan directly to a registered pension plan, a registered retirement savings plan, a registered retirement income fund or a deferred profit sharing plan shall be deemed to be an amount that was not paid to the individual.
+- **(15)** For the purposes of subparagraph (b)(ii) of the description of A in subsection (2), paragraph (2.1)(b) and subparagraph (4)(b)(iv), an amount transferred for the benefit of an individual from a registered pension plan or a deferred profit sharing plan directly to a registered pension plan, a registered retirement savings plan, a registered retirement income fund or a deferred profit sharing plan is deemed to be an amount that was not paid to the individual.
 
 #### Subsequent Events
 
 
 - **(16)** Except as otherwise expressly provided in this Part, each pension credit of an individual for a calendar year shall be determined without regard to any transactions, events or circumstances that occur subsequent to the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 2; SOR/96-311, s. 6; SOR/99-9, s. 5; SOR/2003-328, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 2; SOR/96-311, s. 6; SOR/99-9, s. 5; SOR/2003-328, s. 6; SOR/2005-264, s. 17.
 
 
 
@@ -13853,6 +13715,17 @@ where
 - **C** is
 		- **(A)** if the value of the fixed rate has previously been increased in the calendar year that includes the time of increase, the average wage for that year, or
 		- **(B)** otherwise, the average wage for the year immediately preceding the calendar year that includes the time of increase,
+	- **(f.1)** where the formula for determining the amount of lifetime retirement benefits payable under the provision to the individual includes a limit that is the product of the duration of the individual’s pensionable service and the lesser of a percentage of the individual’s remuneration and a fixed rate, and the value of the fixed rate is increased after the pension credit year to an amount equal to the defined benefit limit for the earlier of the year in which the increase occurs and the year in which retirement benefits under the provision commenced to be paid to the individual, the portion of the benefits payable as a direct consequence of the increase that would not have become provided had the value of the fixed rate been set at the defined benefit limit for the pension credit year, if
+		- **(i)** the value of the fixed rate was, immediately before the increase, equal to the defined benefit limit for the year in which the value of the fixed rate was last established, and
+		- **(ii)** where the year in which the value of the fixed rate was last established precedes the year immediately preceding the year in which the increase occurs,
+			- **(A)** the Minister has approved in writing the application of this paragraph in respect of the past service event,
+			- **(B)** there are more than nine active members (within the meaning assigned by paragraph 8306(4)(a)) under the provision, and
+			- **(C)** the plan is not a designated plan under section 8515,
+	- **(f.2)** where the formula for determining the amount of lifetime retirement benefits payable under the provision to the individual includes a limit that is the product of the duration of the individual’s pensionable service and the lesser of a percentage of the individual’s remuneration and a fixed rate the value of which can reasonably be considered to be fixed each year as a portion of the defined benefit limit for that year, benefits payable as a direct consequence of an increase, after the pension credit year, in the value of the fixed rate to reflect the defined benefit limit for the year in which the increase occurs, if
+		- **(i)** except as otherwise expressly permitted by the Minister, it is reasonable to consider that, for years after 1989, the ratio of the fixed rate to the defined benefit limit has been, and will remain, constant,
+		- **(ii)** the benefits are not provided as a consequence of a second or subsequent increase in the value of the fixed rate after the time that retirement benefits under the provision commenced to be paid to the individual,
+		- **(iii)** the Minister has approved in writing the application of this paragraph in respect of the past service event, and
+		- **(iv)** the plan is not a designated plan under section 8515,
 	- **(g)** where
 		- **(i)** the provision is a flat benefit provision,
 		- **(ii)** at the particular time, the amount (expressed on an annual basis) of lifetime retirement benefits provided under the provision to each member in respect of pensionable service in each calendar year does not exceed 40 per cent of the defined benefit limit for the year that includes the particular time,
@@ -13962,7 +13835,7 @@ the individual’s provisional PSPA with respect to an employer who participates
 
 
 - **(10)** Where, as a consequence of a past service event, benefits become provided to an individual under a defined benefit provision of a registered pension plan in respect of a period throughout which the individual was employed outside Canada, and the Minister has consented in writing to the application of this subsection, each provisional PSPA of the individual that is associated with the past service event shall be determined on the assumption that no benefits were provided in respect of the period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18.
 
 
 
@@ -14292,7 +14165,8 @@ for the purpose of subsection (8),
 - **(1)** For the purposes of subsection 147.1(10) of the Act as it applies in respect of a past service event and the benefits provided under a defined benefit provision of a registered pension plan with respect to a particular member of the plan, a certification of the Minister is not required where
 	- **(a)** each provisional PSPA of the member that is associated with the past service event is nil;
 	- **(b)** the conditions in subsection (2) or (3) are satisfied;
-	- **(c)** the conditions in subsection (2) or (3) are substantially satisfied and the Minister waives in writing the requirement for certification; or
+	- **(c)** the conditions in subsection (2) or (3) are substantially satisfied and the Minister waives in writing the requirement for certification;
+	- **(c.1)** paragraph 8303(5)(f.1) was applicable in determining the provisional PSPA of the member that is associated with the past service event; or
 	- **(d)** the past service event is deemed by paragraph 8304(3)(b) to have occurred immediately after the end of 1990.
 
 - **(2)** The following are conditions for the purposes of paragraphs (1)(b) and (c) and 8303(5)(g):
@@ -14325,7 +14199,7 @@ for the purpose of subsection (8),
 	- **(b)** an active member under a defined benefit provision of a pension plan is a specified active member under the provision if
 		- **(i)** the member is connected, at the time of the past service event, with an employer who participates in the plan, or
 		- **(ii)** it is reasonable to expect, at the time of the past service event, that the aggregate of all amounts each of which is the remuneration of the member for the calendar year in which the past service event occurs from an employer who participates in the plan will exceed 2 1/2 times the Year’s Maximum Pensionable Earnings for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2005-264, s. 19.
 
 
 
@@ -14564,10 +14438,10 @@ exceeds the total of
 		- **(iii)** $1,000, and
 		- **(iv)** the amount that would be the pension adjustment of the individual for the year with respect to the employer if subsection 8301(1) were read without reference to paragraph (b) of that subsection.
 
-#### Pension Credits — 1996 to 2003
+#### Pension Credits — 1996 to 2002
 
 
-- **(4.1)** For the purpose of determining the pension credit of an individual for a calendar year after 1995 and before 2004 with respect to an employer under a foreign plan, subparagraph (2)(b)(vi) shall be read as
+- **(4.1)** For the purpose of determining the pension credit of an individual for a calendar year after 1995 and before 2003 with respect to an employer under a foreign plan, subparagraph (2)(b)(vi) shall be read as
 
 	- **“(vi)** the money purchase limit for the year.”
 
@@ -14586,7 +14460,7 @@ exceeds the total of all amounts each of which is
 
 
 - **(6)** Where the Minister has, on the written application of an employer, approved in writing a method for determining the foreign plan PSPA of an individual with respect to the employer associated with a modification of the individual’s benefits under a foreign plan, the individual’s foreign plan PSPA shall be determined in accordance with that method.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 10.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 10; SOR/2005-264, s. 20.
 
 
 
@@ -14609,15 +14483,15 @@ subject to subsection (2), there is prescribed in respect of the individual for 
 	- **(d)** the amount by which the money purchase limit for the particular year exceeds the PA offset for the particular year, and
 	- **(e)** 10% of the portion of the individual’s resident compensation from the employer for the particular year that is attributable to services rendered by the individual to the employer in periods throughout which the individual rendered services described in paragraph (a).
 
-#### Prescribed Amounts – 1997 to 2004
+#### Prescribed Amounts – 1997 to 2003
 
 
-- **(2)** For the purpose of determining the amount prescribed under subsection (1) in respect of an individual for a calendar year after 1996 and before 2005, paragraph (d) of that subsection shall be read as:
+- **(2)** For the purpose of determining the amount prescribed under subsection (1) in respect of an individual for a calendar year after 1996 and before 2004, paragraph (d) of that subsection shall be read as:
 
 - **“(d)** the money purchase limit for the particular year, and”
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 11; SOR/2005-264, s. 21.
 
 
 
@@ -14670,10 +14544,10 @@ the amount that would be determined by the formula in subparagraph (v) if the re
 
 - **(3)** Where the Minister has, on the written application of an employer, approved in writing a method for determining pension credits for a year with respect to the employer under a specified retirement arrangement, the pension credits shall be determined in accordance with that method.
 
-#### Pension Credits — 1996 to 2003
+#### Pension Credits — 1996 to 2002
 
 
-- **(3.1)** For the purpose of determining the pension credit of an individual for a calendar year after 1995 and before 2004 with respect to an employer under a specified retirement arrangement, the portion of paragraph (2)(b) after subparagraph (iv) shall be read as
+- **(3.1)** For the purpose of determining the pension credit of an individual for a calendar year after 1995 and before 2003 with respect to an employer under a specified retirement arrangement, the portion of paragraph (2)(b) after subparagraph (iv) shall be read as
 
 	- **“(v)** the amount determined by the formula
 ```
@@ -14707,7 +14581,7 @@ exceeds the total of all amounts each of which is
 
 
 - **(5)** Where the Minister has, on the written application of an employer, approved in writing a method for determining the specified retirement arrangement PSPA of an individual with respect to the employer associated with a modification of the individual’s benefits under a specified retirement arrangement, the individual’s specified retirement arrangement PSPA shall be determined in accordance with that method.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 12.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 12; SOR/2005-264, s. 22.
 
 
 
@@ -14762,14 +14636,15 @@ where
 - **A** is the amount by which the money purchase limit for the particular year exceeds the PA offset for the particular year, and
 - **B** is the number of months, in the particular year, for which the individual received salary in respect of which contributions were required under subsection 50(1) or (2) of the [Judges Act](/en/Acts/Revised%20Statutes%20of%20Canada/J/J-1.md).
 
-- **(3)** For the purpose of determining the amount prescribed under subsection (1) or (2) in respect of an individual for a calendar year after 2000 and before 2005, (a) paragraph (1)(b) shall be read as follows:
+- **(3)** For the purpose of determining the amount prescribed under subsection (1) or (2) in respect of an individual for a calendar year after 2000 and before 2004,
+	- **(a)** paragraph (1)(b) shall be read as follows:
 
-- **“(b)** the money purchase limit for the particular year.”, and
+	- **“(b)** the money purchase limit for the particular year.”, and
 
 
 	- **(b)** the description of A in paragraph (2)(b) shall be read as follows:
 - **“A** is the money purchase limit for the particular year, and”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 14; SOR/2001-339, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 14; SOR/2001-339, s. 1; SOR/2005-264, s. 23.
 
 
 
@@ -15118,7 +14993,9 @@ on or before the day that an information return required by that regulator is to
 - **(a)** an existing plan that, on March 27, 1988, contained a defined benefit provision, or
 - **(b)** a pension plan that was established to provide benefits under a defined benefit provision to one or more individuals in lieu of benefits to which the individuals were entitled under a defined benefit provision of another pension plan that is a grandfathered plan, whether or not benefits are also provided to other individuals; (*régime exclu*)
 
-***lifetime retirement benefits*** provided to a member under a benefit provision of a pension plan means retirement benefits provided to the member under the provision that, after they commence to be paid, are payable to the member until the member’s death, unless the benefits are commuted or payment of the benefits is suspended; (*prestation viagère*)
+***lifetime retirement benefits*** provided to a member under a benefit provision of a pension plan means
+- **(a)** retirement benefits provided to the member under the provision that, after they commence to be paid, are payable to the member until the member’s death, unless the benefits are commuted or payment of the benefits is suspended, and
+- **(b)** for greater certainty, retirement benefits provided to the member under the provision in accordance with paragraph 8506(1)(e.1); (*prestation viagère*)
 
 ***multi-employer plan*** in a calendar year means
 - **(a)** a pension plan in respect of which it is reasonable to expect, at the beginning of the year (or at the time in the year when the plan is established, if later), that at no time in the year will more than 95 per cent of the active members of the plan be employed by a single participating employer or by a related group of participating employers, other than a plan where it is reasonable to consider that one of the main reasons there is more than one employer participating in the plan is to obtain the benefit of any of the provisions of the Act or these Regulations that are applicable only in respect of multi-employer plans, or
@@ -15138,8 +15015,9 @@ and, for the purposes of this definition, 2 corporations that are related to eac
 - **(a)** firefighter,
 - **(b)** police officer,
 - **(c)** corrections officer,
-- **(d)** air traffic controller, or
-- **(e)** commercial airline pilot; (*profession liée à la sécurité publique*)
+- **(d)** air traffic controller,
+- **(e)** commercial airline pilot, or
+- **(f)** paramedic; (*profession liée à la sécurité publique*)
 
 ***retirement benefits*** provided to an individual under a benefit provision of a pension plan means benefits provided to the individual under the provision that are payable on a periodic basis; (*prestation de retraite*)
 
@@ -15174,7 +15052,7 @@ and, for the purposes of this subsection,
 
 - **(6)** Where this Part provides that an amount is to be determined by aggregating the durations of periods that satisfy specified conditions, a period shall be included in determining the aggregate only if it is not part of a longer period that satisfies the conditions.
 
-- **(7)** For the purposes of the definition ***active member*** in subsection (1), subparagraph 8503(3)(a)(v) and paragraphs 8504(7)(d) and 8507(3)(a), such portion of an amount allocated to an individual at any time under a money purchase provision of a registered pension plan as is attributable to
+- **(7)** For the purposes of the definition ***active member*** in subsection (1), subparagraph 8503(3)(a)(v) and paragraphs 8504(7)(d), 8506(2)(c.1) and 8507(3)(a), the portion of an amount allocated to an individual at any time under a money purchase provision of a registered pension plan that is attributable to
 	- **(a)** forfeited amounts under the provision or earnings of the plan that are reasonably attributable to those amounts,
 	- **(b)** a surplus under the provision,
 	- **(c)** property transferred to the provision in respect of the actuarial surplus under a defined benefit provision of the plan or another registered pension plan, or
@@ -15185,7 +15063,7 @@ shall be deemed to be a contribution made under the provision on behalf of the i
 	- **(a)** for the purpose of determining whether the member benefits are permissible under this Part, the non-member benefits shall be disregarded;
 	- **(b)** for the purpose of determining whether the non-member benefits are permissible under this Part, the member benefits shall be disregarded; and
 	- **(c)** for the purpose of determining a pension adjustment, pension adjustment reversal or provisional past service pension adjustment of the individual under Part LXXXIII, the non-member benefits shall be disregarded.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24.
 
 
 
@@ -15208,7 +15086,7 @@ and the following conditions:
 	- **(d)** there is no reason to expect, on the basis of the documents that constitute the plan and establish the funding arrangements, that
 		- **(i)** the plan may become a revocable plan pursuant to subsection (2), or
 		- **(ii)** the conditions in subsection 147.1(10) of the Act may not be complied with, and
-	- **(e)** there is no reason to expect that the plan may become a revocable plan pursuant to subsection 147.1(8) or (9) of the Act or subsection 8503(15).
+	- **(e)** there is no reason to expect that the plan may become a revocable plan pursuant to subsection 147.1(8) or (9) of the Act or subsection 8503(15) or 8506(4).
 
 #### Conditions Applicable to Registered Pension Plans
 
@@ -15216,7 +15094,7 @@ and the following conditions:
 - **(2)** For the purposes of paragraph 147.1(11)(c) of the Act, and subject to sections 8509 and 8510, a registered pension plan becomes a revocable plan at any time that it fails to comply with
 	- **(a)** a condition set out in any of paragraphs 8502(b), (d), (g) to (k) and (m);
 	- **(b)** where the plan contains a defined benefit provision, a condition set out in paragraph 8503(3)(a), (b), (d), (j), (k) or (l) or (4)(b), (d), (e) or (f); or
-	- **(c)** where the plan contains a money purchase provision, a condition set out in any of paragraphs 8506(2)(b) to (c) and (e) to (h).
+	- **(c)** where the plan contains a money purchase provision, a condition set out in any of paragraphs 8506(2)(b) to (c.1) and (e) to (i).
 
 #### Permissive Rules
 
@@ -15279,7 +15157,7 @@ the following rules apply:
 	- **(d)** if the individual had previously terminated from the provision and the conditions in subsection 8304.1(14) were satisfied with respect to the termination, it is reasonable to consider that all of the ancillary benefits are in respect of periods before 1990, and
 	- **(e)** the Minister has approved the application of this subsection in respect of the ancillary benefits,
 for the purpose of determining whether the ancillary benefits are permissible under this Part, the individual is considered to have an entitlement under the provision to the commuted benefits.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8; SOR/2005-264, s. 25.
 
 
 
@@ -15300,7 +15178,7 @@ for the purpose of determining whether the ancillary benefits are permissible un
 	- **(i)** is paid by a member of the plan in accordance with the plan as registered, where the amount is credited to the member’s account under a money purchase provision of the plan or is paid in respect of the member’s benefits under a defined benefit provision of the plan,
 	- **(ii)** is paid in accordance with a money purchase provision of the plan as registered, by an employer with respect to the employer’s employees or former employees,
 	- **(iii)** is an eligible contribution that is paid in respect of a defined benefit provision of the plan by an employer with respect to the employer’s employees or former employees,
-	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 147(19) and 147.3(1) to (8) of the Act, or
+	- **(iv)** is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19) and 147.3(1) to (8) of the Act, or
 	- **(v)** is acceptable to the Minister and that is transferred to the plan from a pension plan that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada,
 and, for the purposes of this paragraph,
 	- **(vi)** an eligible contribution is a contribution that is paid by an employer in respect of a defined benefit provision of a pension plan where it is an eligible contribution under subsection 147.2(2) of the Act or, in the case of a plan in which Her Majesty in right of Canada or a province is a participating employer, would be an eligible contribution under subsection 147.2(2) of the Act if all amounts held to the credit of the plan in the accounts of Canada or the province were excluded from the assets of the plan, and
@@ -15329,9 +15207,9 @@ and, for the purposes of this paragraph,
 #### Payment of Pension
 
 - **(e)** the plan
-	- **(i)** requires that the retirement benefits of a member under each benefit provision of the plan commence to be paid not later than
-		- **(A)** the end of the calendar year in which the member attains 69 years of age, or
-		- **(B)** in the case of benefits provided under a defined benefit provision, such later time as is acceptable to the Minister, but only if the amount of benefits (expressed on an annualized basis) payable does not exceed the amount of benefits that would be payable if payment of the benefits commenced at the time referred to in clause (A), and
+	- **(i)** requires that the retirement benefits of a member under each benefit provision of the plan begin to be paid not later than the end of the calendar year in which the member attains 69 years of age except that,
+		- **(A)** in the case of benefits provided under a defined benefit provision, the benefits may begin to be paid at any later time that is acceptable to the Minister, if the amount of benefits (expressed on an annualized basis) payable does not exceed the amount of benefits that would be payable if payment of the benefits began at the end of the calendar year in which the member attains 69 years of age, and
+		- **(B)** in the case of benefits provided under a money purchase provision in accordance with paragraph 8506(1)(e.1), the benefits may begin to be paid not later than the end of the calendar year in which the member attains 70 years of age, and
 	- **(ii)** provides that retirement benefits under each benefit provision are payable not less frequently than annually;
 
 #### Assignment of Rights
@@ -15379,7 +15257,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26.
 
 
 
@@ -15675,7 +15553,7 @@ where
 #### Benefit Accrual Rate
 
 	- **(g)** if the amount of lifetime retirement benefits provided under the provision to a member is determined, in part, by multiplying the member’s remuneration (or a function of the member’s remuneration) by an annual benefit accrual rate, or in a manner that is equivalent to that calculation, the annual benefit accrual rate or the quivalent annual benefit accrual rate does not exceed
-		- **(i)** in the case of a member whose benefits are provided in respect of employment as a firefighter and for whom the formula for determining the amount of the lifetime retirement benefits can reasonably be considered to take into account public pension benefits, 2.33 per cent, and
+		- **(i)** in the case of a member whose benefits are provided in respect of employment in a public safety occupation and for whom the formula for determining the amount of the lifetime retirement benefits can reasonably be considered to take into account public pension benefits, 2.33 per cent, and
 		- **(ii)** in any other case, 2 per cent;
 
 #### Increase in Accrued Benefits
@@ -15841,7 +15719,7 @@ the following rules apply for the purposes of the conditions in subsection 8504(
 		- **(ii)** before December 11, 1989 where the contribution has not, before that date, been approved by the Minister under paragraph 20(1)(s) of the Act, and
 	- **(c)** it is reasonable to consider that all or substantially all of such portion of the contribution as is in respect of past service benefits was paid by the employer, with the consent of the member, in lieu of a payment or other benefit to which the member would otherwise be entitled,
 the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan on the later of December 11, 1989 and the day immediately before the day on which the contribution is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27.
 
 
 
@@ -16144,9 +16022,7 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 
 	- **(a)** lifetime retirement benefits provided to a member where the benefits are payable in equal periodic amounts or are not so payable only by reason that
 		- **(i)** the benefits payable to a member after the death of the member’s spouse or common-law partner are less than the benefits that would be payable to the member were the member’s spouse or common-law partner alive, or
-		- **(ii)** the benefits are adjusted, after they commence to be paid, where
-			- **(A)** in the case of retirement benefits provided in accordance with subparagraph (2)(g)(i), the adjustments would be in accordance with any of subparagraphs 146(3)(b)(iii) to (v) of the Act if the annuity by means of which the lifetime retirement benefits are provided were an annuity under a retirement savings plan, and
-			- **(B)** in any other case, the adjustments are acceptable to the Minister and are similar in nature to adjustments that are permissible under clause (A);
+		- **(ii)** the benefits are adjusted, after they commence to be paid, where those adjustments would be in accordance with any of subparagraphs 146(3)(b)(iii) to (v) of the Act if the annuity by means of which the lifetime retirement benefits are provided were an annuity under a retirement savings plan;
 
 #### Bridging Benefits
 
@@ -16156,7 +16032,7 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 
 	- **(c)** retirement benefits (in this paragraph referred to as “continued retirement benefits”) provided to one or more beneficiaries of a member who dies after retirement benefits under the provision commence to be paid to the member where
 		- **(i)** the continued retirement benefits are payable for a period beginning after the death of the member and ending no later than 15 years after the day on which retirement benefits commence to be paid under the provision to the member, and
-		- **(ii)** the aggregate amount of continued retirement benefits payable under the provision for each month does not exceed the amount of retirement benefits that would have been payable under the provision for the month to the member if the member were alive;
+		- **(ii)** the total amount of continued retirement benefits payable under the provision for each month does not exceed the amount of retirement benefits (other than benefits permissible under paragraph (e.1)) that would have been payable under the provision for the month to the member if the member were alive;
 
 #### Post-retirement Survivor Benefits
 > [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
@@ -16165,7 +16041,7 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 	- **(d)** retirement benefits (in this paragraph referred to as “survivor retirement benefits”) provided to a beneficiary of a member who dies after retirement benefits under the provision commence to be paid to the member where
 		- **(i)** the beneficiary is a spouse or common-law partner or former spouse or common-law partner of the member at the time the member’s retirement benefits commence to be paid,
 		- **(ii)** the survivor retirement benefits are payable for a period beginning after the death of the member and ending with the death of the beneficiary, and
-		- **(iii)** the aggregate amount of survivor retirement benefits and other retirement benefits payable under the provision for each month to beneficiaries of the member does not exceed the amount of retirement benefits that would have been payable under the provision for the month to the member if the member were alive;
+		- **(iii)** the total amount of survivor retirement benefits and other retirement benefits (other than benefits permissible under paragraph (e.1)) payable under the provision for each month to beneficiaries of the member does not exceed the amount of retirement benefits (other than benefits permissible under paragraph (e.1)) that would have been payable under the provision for the month to the member if the member were alive;
 
 #### Pre-retirement Survivor Benefits
 > [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
@@ -16176,13 +16052,21 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 		- **(ii)** the benefits would be permissible under paragraphs (a) to (c) if the beneficiary were a member of the plan, and
 		- **(iii)** the retirement benefits are payable to the beneficiary beginning no later than on the later of one year after the day of death of the member and the end of the calendar year in which the beneficiary attains 69 years of age;
 
+#### Variable Benefits
+
+	- **(e.1)** retirement benefits (in this paragraph referred to as “variable benefits”), other than benefits permissible under any of paragraphs (a) to (e), provided to a member and, after the death of the member, to one or more beneficiaries of the member if
+		- **(i)** the variable benefits are paid from the member’s account,
+		- **(ii)** the variable benefits provided to the member or a beneficiary (other than a beneficiary who is the specified beneficiary of the member in relation to the provision) are payable for a period ending no later than the end of the calendar year following the calendar year in which the member dies,
+		- **(iii)** the variable benefits provided to a beneficiary who is the specified beneficiary of the member in relation to the provision are payable for a period ending no later than the end of the calendar year in which the specified beneficiary dies, and
+		- **(iv)** the amount of variable benefits payable to the member and beneficiaries of the member for each calendar year is not less than the minimum amount for the member’s account under the provision for the calendar year;
+
 #### Payment from Account
 
 	- **(f)** the payment with respect to a member of a single amount from the member’s account under the provision;
 
-#### Lump Sum Payments on Death Before Retirement
+#### Payment from Account after Death
 
-	- **(g)** the payment of one or more single amounts to one or more beneficiaries of a member who dies before retirement benefits under the provision commence to be paid to the member;
+	- **(g)** the payment, with respect to one or more beneficiaries of a member, of one or more single amounts from the member’s account under the provision;
 
 #### Commutation of Benefits
 
@@ -16212,6 +16096,12 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 		- **(i)** at a time when there is a surplus under the provision, or
 		- **(ii)** at a time after 1991 when an amount that became a forfeited amount under the provision before 1990, or any earnings of the plan that are reasonably attributable to that amount, is being held in respect of the provision and has not been reallocated to members of the plan;
 
+#### Contributions Not Permitted
+
+	- **(c.1)** no contribution is made under the provision with respect to a member, and no amount is transferred for the benefit of a member to the provision from another benefit provision of the plan, at any time after the calendar year in which the member attains 69 years of age, other than an amount that is transferred for the benefit of the member to the provision
+		- **(i)** in accordance with subsection 146.3(14.1) or 147.3(1) or (4) of the Act, or
+		- **(ii)** from another benefit provision of the plan, where the amount so transferred would, if the benefit provisions were in separate registered pension plans, be in accordance with subsection 147.3(1) or (4) of the Act;
+
 #### Return of Contributions
 
 	- **(d)** where the plan is not established by an enactment of Canada or a province, it includes a stipulation that permits, for the purpose of avoiding revocation of the registration of the plan, a contribution made under the provision by a member or by an employer to be returned to the person who made the contribution, which stipulation may provide that a return of contributions is subject to the approval of the authority administering the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province;
@@ -16230,13 +16120,15 @@ on or before December 31 of the year immediately following the calendar year in 
 
 #### Retirement Benefits
 
-	- **(g)** retirement benefits under the provision are provided
-		- **(i)** by means of annuities that are purchased from a person who is licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an annuities business, or
-		- **(ii)** under an arrangement acceptable to the Minister; and
+	- **(g)** retirement benefits (other than benefits permissible under paragraph (1)(e.1)) under the provision are provided by means of annuities that are purchased from a licensed annuities provider;
 
-#### Undue Deferral of Payment
+#### Undue Deferral of Payment — Death of Member
 
-	- **(h)** each single amount that is payable after the death of a member is paid as soon as is practicable after the member’s death.
+	- **(h)** each single amount that is payable after the death of a member (other than a single amount that is payable after the death of the specified beneficiary of the member in relation to the provision) is paid as soon as is practicable after the member’s death; and
+
+#### Undue Deferral of Payment — Death of Specified Beneficiary
+
+	- **(i)** each single amount that is payable after the death of the specified beneficiary of a member in relation to the provision is paid as soon as is practicable after the specified beneficiary’s death.
 
 #### Alternative Method for Allocating Employer Contributions
 
@@ -16249,7 +16141,51 @@ on or before December 31 of the year immediately following the calendar year in 
 - **(3)** The Minister may, on the written application of the administrator of a registered pension plan, extend the time for satisfying the requirements of paragraph (2)(f) where
 	- **(a)** the aggregate of the forfeited amounts that arise in a calendar year is greater than normal because of unusual circumstances; and
 	- **(b)** the forfeited amounts are to be reallocated on a reasonable basis to a majority of plan members or paid as or on account of administrative, investment or similar expenses incurred in connection with the plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15.
+
+#### Non-payment of Minimum Amount — Plan Revocable
+
+
+- **(4)** A registered pension plan that contains a money purchase provision becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan at the beginning of a calendar year if the total amount of retirement benefits (other than retirement benefits permissible under any of paragraphs (1)(a) to (e)) paid from the plan in the calendar year in respect of a member’s account under the provision is less than the minimum amount for the account for the calendar year.
+
+#### Minimum Amount
+
+
+- **(5)** For the purposes of paragraph (1)(e.1) and subsection (4), but subject to subsection (7), the minimum amount for a member’s account under a money purchase provision of a registered pension plan for a calendar year is the amount determined by the formula
+```
+A x B
+```
+where
+- **A** is the balance in the account at the beginning of the year; and
+- **B** is
+- **(a)** if there is a specified beneficiary of the member for the year in relation to the provision, the factor designated under subsection 7308(4) for the year in respect of the specified beneficiary,
+- **(b)** if paragraph (a) does not apply for the year, the factor designated under subsection 7308(4) for the year in respect of an individual where
+- **(i)** the individual was, at the time the designation referred to in subparagraph (ii) was made, the member’s spouse or common-law partner,
+- **(ii)** the member had, before the beginning of the year, provided the administrator of the plan with a written designation of the individual for the purpose of this paragraph in relation to the provision, and
+- **(iii)** the member had not, before the beginning of the year, revoked the designation, and
+- **(c)** in any other case, the factor designated under subsection 7308(4) for the year in respect of the member.
+
+#### Determination of Account Balance
+
+
+- **(6)** For the purpose of the description of A in subsection (5), the balance in a member’s account at the beginning of a calendar year (in this subsection referred to as the “current year”) is to be determined in accordance with the following rules:
+	- **(a)** the determination is to be made in a manner that reasonably reflects the fair market value of the property held in connection with the account at the beginning of the current year, including an estimate of the portion of any unallocated earnings of the plan that arose in the preceding calendar year and that can reasonably be expected to be allocated to the account in the current year; and
+	- **(b)** if retirement benefits (other than benefits permissible under paragraph (1)(e.1)) provided under the provision with respect to the member had commenced to be paid before the current year and continue to be payable in the current year, the determination is to be made without regard to the value of any property held in connection with those benefits.
+
+#### When Minimum Amount is Nil
+
+
+- **(7)** The minimum amount for a member’s account under a money purchase provision of a registered pension plan for a calendar year is nil if
+	- **(a)** an individual, who is either the member or the specified beneficiary of the member for the year in relation to the provision, is alive at the beginning of the year; and
+	- **(b)** that individual had not attained 69 years of age at the end of the preceding calendar year.
+
+#### Specified Beneficiary
+
+
+- **(8)** In this section, an individual is the specified beneficiary of a member for a calendar year in relation to a money purchase provision of a registered pension plan if
+	- **(a)** the member died before the beginning of the year;
+	- **(b)** the individual is a beneficiary of the member and was, immediately before the member’s death, the member’s spouse or common-law partner; and
+	- **(c)** the member or the member’s legal representative had, before the beginning of the year, provided the administrator of the plan with a written designation of the individual (and of no other individual) as the specified beneficiary of the member for the calendar year in relation to the provision.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28.
 
 
 
@@ -16476,10 +16412,10 @@ where
 
 - **(11)** For greater certainty, where benefits under a defined benefit provision of a pension plan are, by reason of paragraph 8503(3)(e) or subsection (3), subject to the condition that they be acceptable to the Minister, the provisions of this section shall not be considered to limit in any way the requirements that may be imposed by the Minister in respect of the benefits.
 
-#### PA Limits — 1996 to 2003
+#### PA Limits — 1996 to 2002
 
 
-- **(12)** Neither subsection 147.1(8) nor (9) of the Act applies to render a registered pension plan a revocable plan at the end of any calendar year after 1995 and before 2004 solely because a pension adjustment, a total of pension adjustments or a total of pension credits of an individual for the year (each of which is, in this subsection, referred to as a “test amount”) is excessive where the subsection would not apply to render the plan a revocable plan at the end of the year if each test amount were decreased by the lesser of
+- **(12)** Neither subsection 147.1(8) nor (9) of the Act applies to render a registered pension plan a revocable plan at the end of any calendar year after 1995 and before 2003 solely because a pension adjustment, a total of pension adjustments or a total of pension credits of an individual for the year (each of which is, in this subsection, referred to as a “test amount”) is excessive where the subsection would not apply to render the plan a revocable plan at the end of the year if each test amount were decreased by the lesser of
 	- **(a)** the amount, if any, by which the lesser of
 		- **(i)** the total of all amounts each of which is
 			- **(A)** a pension credit under a defined benefit provision of a registered pension plan that is included in determining the test amount, or
@@ -16498,7 +16434,7 @@ exceeds the money purchase limit for the year, and
 the following rules apply:
 	- **(d)** for the purpose of determining at any time after March 5, 1996 and before 1998 whether the benefits comply with the condition, the defined benefit limit for each year after 1995 is deemed to be the amount that it would be if the definition ***money purchase limit*** in subsection 147.1(1) of the Act were applied as it read on December 31, 1995, and
 	- **(e)** for the purpose of determining at any time after 1997 whether the benefits comply with the condition, the defined benefit limit for 1996 and 1997 is deemed to be the amount that it would be if it were determined in accordance with paragraph (d).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 15; SOR/99-9, s. 24.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 15; SOR/99-9, s. 24; SOR/2005-264, s. 29.
 
 
 
