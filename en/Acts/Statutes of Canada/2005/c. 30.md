@@ -788,7 +788,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 - **(2)** Sections 101 to 103 and 108 are deemed to have come into force on February 23, 2005.
 
-<a name='B-9.854_e_s109'><sup>*</sup></a>: [Note: Part 15, other than sections 101 to 103 and 108, not in force.]<br />
+<a name='B-9.854_e_s109'><sup>*</sup></a>: [Note: Part 15, other than sections 101 to 103 and 108, in force September 1, 2005, *see* SI/2005-74.]<br />
 
 
 
