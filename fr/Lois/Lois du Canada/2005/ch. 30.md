@@ -786,7 +786,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 - **(2)** Les articles 101 à 103 et 108 sont réputés être entrés en vigueur le 23 février 2005.
 
-<a name='B-9.854_f_s109'><sup>*</sup></a>: [Note : Partie 15, sauf articles 101 à 103 et 108, non en vigueur.]<br />
+<a name='B-9.854_f_s109'><sup>*</sup></a>: [Note : Partie 15, sauf articles 101 à 103 et 108, en vigueur le 1<sup>er</sup> septembre 2005, *voir* TR/2005-74.]<br />
 
 
 
