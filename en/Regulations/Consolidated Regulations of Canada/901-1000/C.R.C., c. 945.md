@@ -9778,10 +9778,8 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 - **(2.3)** For the purpose of this Part, a person is deemed to be a designated shareholder of a corporation at any time if the person would be a designated shareholder of the corporation at that time if, at that time, paragraphs (2.2)(a) to (c) applied in respect of that person.
 
-- **(3)** For greater certainty, a reference in this Part to
-	- **(a)** a mortgage includes a reference to a charge, hypothec or similar instrument pertaining to real property, or to an interest therein; and
-	- **(b)** a mortgagor includes a reference to a hypothecator or a debtor under any instrument referred to in paragraph (a).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F).
+- **(3)** [Repealed, SOR/2005-264, s. 7]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F); SOR/2005-264, s. 7.
 
 
 
@@ -17100,18 +17098,8 @@ the amount of the individual’s lifetime retirement benefits under the particul
 
 
 
-
-### Pension Adjustment Limits
-
-
-**8518** 
-
-- **(1)** Subsection 147.1(8) of the Act does not apply to render a registered pension plan a revocable plan at the end of a calendar year by reason that a pension adjustment, or an aggregate of pension adjustments, of an individual for the year is excessive where the subsection would not so apply if the individual’s pension adjustments for the year were determined without the inclusion of those pension credits, if any, of the individual for the year under deferred profit sharing plans that are described in subsection (2).
-
-- **(2)** For the purposes of subsection (1), a pension credit (as determined under Part LXXXIII) of an individual for a year under a deferred profit sharing plan is described in this subsection if
-	- **(a)** it is a pension credit with respect to an employer by whom the individual ceased to be employed in the year; and
-	- **(b)** it includes the amount of a contribution made to the plan in the year by the employer with respect to the individual that was based, in whole or in part, on the individual’s remuneration for the preceding year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7.
+**8518** [Repealed, SOR/2005-264, s. 30]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2005-264, s. 30.
 
 
 
