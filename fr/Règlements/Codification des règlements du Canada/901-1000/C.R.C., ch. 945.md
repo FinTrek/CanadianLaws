@@ -9738,10 +9738,8 @@ sauf si le total des montants dont chacun représente le coût indiqué d’une 
 
 - **(2.3)** Pour l’application de la présente partie, une personne est réputée être un actionnaire désigné d’une société à un moment donné dans le cas où elle serait un tel actionnaire à ce moment si les alinéas (2.2)a) à c) s’appliquaient alors à son égard.
 
-- **(3)** Pour plus de certitude, tout renvoi dans la présente partie
-	- **a)** à une hypothèque comprend également toute charge, hypothèque ou garantie semblable reliée à des biens immeubles ou à un intérêt dans une hypothèque; et
-	- **b)** à un débiteur hypothécaire comprend également un renvoi à tout débiteur aux termes d’un document visé à l’alinéa a).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/86-390, art. 3; DORS/86-1092, art. 13(A); DORS/90-606, art. 1; DORS/94-471, art. 2; DORS/94-686, art. 27(F), 58(F), 78(F) et 79(F); DORS/95-513, art. 2; DORS/2001-216, art. 7 et 11(F).
+- **(3)** [Abrogé, DORS/2005-264, art. 7]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/86-390, art. 3; DORS/86-1092, art. 13(A); DORS/90-606, art. 1; DORS/94-471, art. 2; DORS/94-686, art. 27(F), 58(F), 78(F) et 79(F); DORS/95-513, art. 2; DORS/2001-216, art. 7 et 11(F); DORS/2005-264, art. 7.
 
 
 
@@ -16952,18 +16950,8 @@ le montant des prestations viagères du particulier aux termes de la disposition
 
 
 
-
-### Limites applicables au facteur d’équivalence
-
-
-**8518** 
-
-- **(1)** L’agrément d’un régime de pension agréé ne peut être retiré à la fin d’une année civile en application du paragraphe 147.1(8) de la Loi pour le motif que le facteur d’équivalence d’un particulier pour une année d’imposition, ou un ensemble de tels facteurs, est excessif, sauf dans le cas où cet agrément pourrait être retiré en application de ce paragraphe pour ce motif si les facteurs d’équivalence du particulier pour l’année étaient calculés compte non tenu des crédits de pension du particulier pour l’année dans le cadre de régimes de participation différée aux bénéfices qui sont visés au paragraphe (2).
-
-- **(2)** Pour l’application du paragraphe (1), le crédit de pension d’un particulier (déterminé selon la partie LXXXIII) pour une année dans le cadre d’un régime de participation différée aux bénéfices est visé au présent paragraphe, s’il remplit les conditions suivantes :
-	- **a)** il s’agit d’un crédit de pension quant à un employeur à l’égard duquel le particulier a cessé d’être l’employé au cours de l’année;
-	- **b)** il comprend une cotisation que l’employeur a versée au régime au cours de l’année pour le compte du particulier et qui est fondée en tout ou en partie sur la rémunération du particulier pour l’année précédente.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7.
+**8518** [Abrogé, DORS/2005-264, art. 30]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2005-264, art. 30.
 
 
 
