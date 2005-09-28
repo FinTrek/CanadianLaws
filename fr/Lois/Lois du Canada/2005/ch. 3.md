@@ -213,7 +213,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#I-19.6_f_s19'>[*]</a></sup>**19** Les dispositions de la présente loi ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='I-19.6_f_s19'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='I-19.6_f_s19'><sup>*</sup></a>: [Note : Articles 11 à 18 en vigueur le 28 septembre 2005, *voir* TR/2005-89.]<br />
 
 
 
