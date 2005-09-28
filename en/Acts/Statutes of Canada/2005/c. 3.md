@@ -213,7 +213,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#I-19.6_e_s.19'>[*]</a></sup>**19** **19** The provisions of this Act, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='I-19.6_e_s.19'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='I-19.6_e_s.19'><sup>*</sup></a>: [Note: Sections 11 to 18 in force September 28, 2005, *see* SI/2005-89.]<br />
 
 
 
