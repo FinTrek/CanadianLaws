@@ -946,7 +946,7 @@ or any lesser maximum amount that may be prescribed by the regulations in respec
 
 - **(4)** The description of Aulavik National Park of Canada in Part 12 of Schedule 1 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='N-14.01_en_2'><sup>*</sup></a>: [Note: Sections 68 to 70.1 in force on assent October 20, 2000; sections 1 to 16, section 17, other than paragraphs (1)(b) and (c), sections 18 to 67, Schedule 1, including the description of Aulavik National Park of Canada in Part 12, but excluding the descriptions of Wapusk National Park of Canada in Part 4 and Gros Morne National Park of Canada in Part 10 of Schedule 1, and Schedules 2 to 5 in force February 19, 2001, *see* SI/2001-29.]<br />
+<a name='N-14.01_en_2'><sup>*</sup></a>: [Note: Sections 68 to 70.1 in force on assent October 20, 2000; sections 1 to 16, section 17, other than paragraphs (1)(b) and (c), sections 18 to 67, Schedule 1, including the description of Aulavik National Park of Canada in Part 12, but excluding the descriptions of Wapusk National Park of Canada in Part 4 and Gros Morne National Park of Canada in Part 10 of Schedule 1, and Schedules 2 to 5 in force February 19, 2001, *see* SI/2001-29; paragraph 17(1)(c) and the description of Gros Morne National Park of Canada in Part 10 of Schedule 1 in force October 1, 2005, see SI/2005-63.]<br />
 
 
 
