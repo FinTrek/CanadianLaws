@@ -933,7 +933,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le texte décrivant le parc national Aulavik du Canada à la partie 12 de l’annexe 1 entre en vigueur à la date fixée par décret.
 
-<a name='N-14.01_fr_2'><sup>*</sup></a>: [Note : Articles 68 à 70.1 en vigueur à la sanction le 20 octobre 2000; articles 1 à 16, article 17, sauf les alinéas (1)b) et c), articles 18 à 67, annexe 1, y compris le texte décrivant le parc national Aulavik du Canada à la partie 12, sauf les textes décrivant le parc national Wapusk du Canada à la partie 4 et le parc national du Gros-Morne du Canada à la partie 10 de cette annexe, et annexes 2 à 5 en vigueur le 19 février 2001, *voir* TR/2001-29.]<br />
+<a name='N-14.01_fr_2'><sup>*</sup></a>: [Note : Articles 68 à 70.1 en vigueur à la sanction le 20 octobre 2000; articles 1 à 16, article 17, sauf les alinéas (1)b) et c), articles 18 à 67, annexe 1, y compris le texte décrivant le parc national Aulavik du Canada à la partie 12, sauf les textes décrivant le parc national Wapusk du Canada à la partie 4 et le parc national du Gros-Morne du Canada à la partie 10 de cette annexe, et annexes 2 à 5 en vigueur le 19 février 2001, *voir* TR/2001-29; alinéa 17(1)c) et le texte décrivant le parc national du Gros-Morne du Canada à la partie 10 de l’annexe 1 en vigueur le 1<sup>er</sup> octobre 2005, *voir* TR/2005-63.]<br />
 
 
 
