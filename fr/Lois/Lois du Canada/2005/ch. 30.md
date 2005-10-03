@@ -687,7 +687,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 <sup><a href='#B-9.854_f_s95'>[*]</a></sup>**95** La présente partie, à l’exception des articles 93 et 94, entre en vigueur à la date fixée par décret.
 
-<a name='B-9.854_f_s95'><sup>*</sup></a>: [Note : Articles 93 et 94 en vigueur à la sanction le 29 juin 2005.]<br />
+<a name='B-9.854_f_s95'><sup>*</sup></a>: [Note : Articles 93 et 94 en vigueur à la sanction le 29 juin 2005; partie 13, à l'exception des articles 93 et 94, en vigueur le 3 octobre 2005, *voir* TR/2005-92.]<br />
 
 
 
