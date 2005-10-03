@@ -8,7 +8,7 @@
 Assented to on 29 June 2005
 
 ```
-[Enacted by section 87 of chapter 30 of the Statutes of Canada, 2005, not in force.]
+[Enacted by section 87 of chapter 30 of the Statutes of Canada, 2005, in force October 3, 2005, see SI/2005-92.]
 ```
 ----------
 
@@ -47,21 +47,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Agency*** means the Canada Emission Reduction Incentives Agency established by section 4.
+***Agency*** means the Canada Emission Reduction Incentives Agency established by section 4. (*Agence*)
 
-***compliance unit*** means a compliance unit within the meaning of the Kyoto Protocol.
+***compliance unit*** means a compliance unit within the meaning of the Kyoto Protocol. (*unité de conformité*)
 
-***eligible credit*** means an eligible domestic credit or an eligible Kyoto unit.
+***eligible credit*** means an eligible domestic credit or an eligible Kyoto unit. (*crédit admissible*)
 
-***eligible domestic credit*** means a tradeable unit that is of an eligible class designated by order made under paragraph 3(a).
+***eligible domestic credit*** means a tradeable unit that is of an eligible class designated by order made under paragraph 3(a). (*crédit national admissible*)
 
-***eligible Kyoto unit*** means any compliance unit that is of an eligible class designated by order made under paragraph 3(b).
+***eligible Kyoto unit*** means any compliance unit that is of an eligible class designated by order made under paragraph 3(b). (*unité Kyoto admissible*)
 
-***greenhouse gas*** means any gas listed in Annex A to the Kyoto Protocol.
+***greenhouse gas*** means any gas listed in Annex A to the Kyoto Protocol. (*gaz à effet de serre*)
 
-***Kyoto Protocol*** means the Kyoto Protocol to the United Nations Framework Convention on Climate Change done at Kyoto on December 11, 1997, and includes any decision related to the implementation of that protocol taken by the “Conference of the Parties serving as the Meeting of the Parties to the Kyoto Protocol”, within the meaning of that protocol.
+***Kyoto Protocol*** means the Kyoto Protocol to the United Nations Framework Convention on Climate Change done at Kyoto on December 11, 1997, and includes any decision related to the implementation of that protocol taken by the “Conference of the Parties serving as the Meeting of the Parties to the Kyoto Protocol”, within the meaning of that protocol. (*Protocole de Kyoto*)
 
-***Minister*** means the Minister of the Environment.
+***Minister*** means the Minister of the Environment. (*ministre*)
 
 
 
@@ -313,7 +313,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Accident compensation**
 
-**22** The President and the members of the advisory board are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the public service of Canada for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+**22** The President and the members of the advisory board are deemed to be employees for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2005, c. 30, ss. 87 “22”, 94(E).
+
 
 
 
