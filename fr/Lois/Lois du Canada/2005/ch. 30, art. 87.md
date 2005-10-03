@@ -8,7 +8,7 @@
 Sanctionnée sur le 29 juin 2005
 
 ```
-[Édictée par l’article 87 du chapitre 30 des Lois du Canada (2005), non en vigueur.]
+[Édictée par l’article 87 du chapitre 30 des Lois du Canada (2005), en vigueur le 3 octobre 2005, voir TR/2005-92.]
 ```
 ----------
 
@@ -47,21 +47,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence canadienne pour l’incitation à la réduction des émissions, constituée par l’article 4.
+***Agence*** L’Agence canadienne pour l’incitation à la réduction des émissions, constituée par l’article 4. (*Agency*)
 
-***crédit admissible*** Crédit national admissible ou unité Kyoto admissible.
+***crédit admissible*** Crédit national admissible ou unité Kyoto admissible. (*eligible credit*)
 
-***crédit national admissible*** Permis échangeable qui fait partie d’une catégorie désignée comme catégorie admissible en vertu de l’alinéa 3a).
+***crédit national admissible*** Permis échangeable qui fait partie d’une catégorie désignée comme catégorie admissible en vertu de l’alinéa 3a). (*eligible domestic credit*)
 
-***gaz à effet de serre*** Gaz figurant à l’annexe A du Protocole de Kyoto.
+***gaz à effet de serre*** Gaz figurant à l’annexe A du Protocole de Kyoto. (*greenhouse gas*)
 
-***ministre*** Le ministre de l’Environnement.
+***ministre*** Le ministre de l’Environnement. (*Minister*)
 
-***Protocole de Kyoto*** Le Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, fait à Kyoto le 11 décembre 1997, y compris toute décision adoptée relativement à la mise en oeuvre de ce protocole par la Conférence des Parties agissant comme réunion des Parties au Protocole de Kyoto, au sens de ce protocole.
+***Protocole de Kyoto*** Le Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, fait à Kyoto le 11 décembre 1997, y compris toute décision adoptée relativement à la mise en oeuvre de ce protocole par la Conférence des Parties agissant comme réunion des Parties au Protocole de Kyoto, au sens de ce protocole. (*Kyoto Protocol*)
 
-***unité de conformité*** Unité de conformité, au sens du Protocole de Kyoto.
+***unité de conformité*** Unité de conformité, au sens du Protocole de Kyoto. (*compliance unit*)
 
-***unité Kyoto admissible*** Unité de conformité qui fait partie d’une catégorie désignée comme catégorie admissible en vertu de l’alinéa 3b).
+***unité Kyoto admissible*** Unité de conformité qui fait partie d’une catégorie désignée comme catégorie admissible en vertu de l’alinéa 3b). (*eligible Kyoto unit*)
 
 
 
@@ -314,6 +314,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 **22** Le président et les membres du comité consultatif sont réputés être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et appartenir à l’administration publique fédérale pour l’application des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2005, ch. 30, art. 87 « 22 », 94(A).
+
 
 
 
