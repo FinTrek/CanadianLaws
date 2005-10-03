@@ -689,7 +689,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 <sup><a href='#B-9.854_e_s95'>[*]</a></sup>**95** This Part, other than sections 93 and 94, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.854_e_s95'><sup>*</sup></a>: [Note: Sections 93 and 94 in force on assent June 29, 2005.]<br />
+<a name='B-9.854_e_s95'><sup>*</sup></a>: [Note: Sections 93 and 94 in force on assent June 29, 2005; Part 13, other than sections 93 and 94, in force October 3, 2005, *see* SI/2005-92.]<br />
 
 
 
