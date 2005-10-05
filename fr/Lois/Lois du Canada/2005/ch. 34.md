@@ -315,6 +315,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suppléance**
 
 - **(2)** En cas d’absence ou d’empêchement d’un commissaire autre que le président ou le vice-président ou de vacance de son poste, le gouverneur en conseil peut désigner comme suppléant une personne qui, sauf indication contraire de celui-ci, est investie de toutes les attributions du commissaire.
+> 2005, ch. 34, art. 21 et 82(A).
+
 
 
 
@@ -419,6 +421,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le personnel nécessaire à la bonne marche de la Commission est fourni par le ministère.
 
+**Actuaire en chef**
+
+- **(1.1)** Le fonctionnaire qui occupe le poste d’actuaire en chef, lorsqu’il exerce les attributions prévues à l’article 65.3 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), est placé sous l’autorité de la Commission.
+
 **Représentants**
 
 - **(2)** La Commission peut, lorsqu’elle le juge opportun en certains endroits, s’assurer par contrat les services de représentants locaux.
@@ -426,6 +432,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** La Commission peut déléguer ses attributions — qu’elles lui soient propres ou déjà déléguées —, à titre individuel ou collectif, à toute personne ou à tout organisme qu’elle désigne.
+> 2005, ch. 30, art. 129, ch. 34, art. 28.
+
+
+
+
+
+**Spécialistes**
+
+**28.1** Par dérogation à l’article 28, la Commission peut engager à contrat les spécialistes compétents qu’elle estime nécessaires pour des travaux liés à la fixation du taux de cotisation au titre de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et leur verser la rémunération et les indemnités qu’elle fixe.
+> 2005, ch. 30, art. 129.
+
 
 
 
@@ -684,6 +701,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert d’attributions**
 
 **51** Les attributions qui, immédiatement avant l’entrée en vigueur du présent article, étaient conférées, en vertu d’une loi, d’un règlement, d’un décret, d’un arrêté, d’une ordonnance ou d’une règle ou au titre d’un contrat, bail, permis ou autre document, au ministre d’État portant le titre de ministre des Ressources humaines et du Développement des compétences, au sous-ministre, au sous-ministre délégué ou à un fonctionnaire du secteur de l’administration publique fédérale connu sous le nom de ministère des Ressources humaines et du Développement des compétences sont, à compter de cette entrée en vigueur, conférées au ministre des Ressources humaines et du Développement des compétences, au sous-ministre ou au sous-ministre délégué ou au fonctionnaire du ministère des Ressources humaines et du Développement des compétences, selon le cas, sauf décret chargeant de ces attributions un autre ministre, sous-ministre ou sous-ministre délégué, ou un fonctionnaire d’un autre secteur de l’administration publique fédérale.
+> 2005, ch. 34, art. 51 et 82(A).
+
 
 
 
@@ -691,6 +710,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert de crédits **
 
 **52** Les sommes affectées — et non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard du secteur de l’administration publique fédérale connu sous le nom de ministère des Ressources humaines et du Développement des compétences sont réputées être affectées aux frais et dépenses de l’administration publique fédérale à l’égard du ministère des Ressources humaines et du Développement des compétences.
+> 2005, ch. 34, art. 52 et 82(A).
+
 
 
 
@@ -910,10 +931,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#H-5.7_s85_f'>[*]</a></sup>**85.
-** La présente loi, à l’exception des articles 82 et 83, entre en vigueur à la date fixée par décret, mais cette date doit être la même que celle fixée en vertu de l’article 70 de la 
-[Loi sur le ministère du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2035.md).
+<sup><a href='#H-5.7_s85_f'>[*]</a></sup>**85. ** La présente loi, à l’exception des articles 82 et 83, entre en vigueur à la date fixée par décret, mais cette date doit être la même que celle fixée en vertu de l’article 70 de la  [Loi sur le ministère du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2035.md).
 
-<a name='H-5.7_s85_f'><sup>*</sup></a>: [Note : Articles 82 et 83 en vigueur à la sanction le 20 juillet 2005.<br />
+<a name='H-5.7_s85_f'><sup>*</sup></a>: [Note : Articles 82 et 83 en vigueur à la sanction le 20 juillet 2005; loi, à l'exception des articles 82 et 83, en vigueur le 5 octobre 2005, *voir* TR/2005-99.<br />
 
 
