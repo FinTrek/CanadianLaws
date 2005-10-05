@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1995/c.%201.md)
 
-# Loi sur le ministère de l'Industrie
+# Loi sur le ministère de l’Industrie
 
 **L.C. 1995, ch. 1**
 
@@ -85,7 +85,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Extension**
 
-- **(2)** Ils s’étendent également, dans les mêmes conditions, aux domaines liés au développement économique régional en Ontario et au Québec.
+- **(2)** Ils s’étendent également, dans les mêmes conditions, aux domaines liés au développement économique régional en Ontario.
+> 1995, ch. 1, art. 4; 2005, ch. 26, art. 20.
+
 
 
 
@@ -126,16 +128,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE II** 
-## Développement économique régional en Ontario et au Québec
+## Développement économique régional en Ontario
 
 
 
 **Objectifs**
 
 **8** Le ministre exerce les pouvoirs et fonctions que lui confère le paragraphe 4(2) de manière à :
-- **a)** promouvoir le développement économique des régions de l’Ontario et du Québec à faibles revenus et faible croissance économique ou n’ayant pas suffisamment de possibilités d’emplois productifs;
+- **a)** promouvoir le développement économique des régions de l’Ontario à faibles revenus et faible croissance économique ou n’ayant pas suffisamment de possibilités d’emplois productifs;
 - **b)** mettre l’accent sur le développement économique à long terme et sur la création d’emplois et de revenus durables;
 - **c)** concentrer les efforts sur les petites et moyennes entreprises et sur la valorisation des capacités d’entreprise.
+> 1995, ch. 1, art. 8; 2005, ch. 26, art. 22.
+
 
 
 
@@ -144,17 +148,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Dans le cadre de la compétence visée au paragraphe 4(2), le ministre, en ce qui touche le développement économique régional en Ontario et au Québec :
+- **(1)** Dans le cadre de la compétence visée au paragraphe 4(2), le ministre, en ce qui touche le développement économique régional en Ontario :
 	- **a)** en collaboration avec les autres ministres ou organismes fédéraux compétents, formule et met en oeuvre des orientations, des projets et une conception intégrée de l’action fédérale;
 	- **b)** coordonne les politiques et les programmes de mise en oeuvre du gouvernement fédéral;
-	- **c)** dirige et coordonne les activités du gouvernement fédéral en ce qui concerne l’établissement de relations de coopération avec l’Ontario et le Québec, ainsi qu’avec les milieux d’affaires, les syndicats et autres organismes publics ou privés;
+	- **c)** dirige et coordonne les activités du gouvernement fédéral en ce qui concerne l’établissement de relations de coopération avec l’Ontario, ainsi qu’avec les milieux d’affaires, les syndicats et autres organismes publics ou privés;
 	- **d)** assure la collecte — notamment par sondage — la compilation, l’analyse, la coordination et la diffusion de l’information.
 
 **Coordination**
 
 - **(2)** Dans le même cadre, le ministre peut :
-	- **a)** fournir des services favorisant le développement économique régional de l’Ontario et du Québec, notamment en vue de promouvoir les capacités d’entreprise, de stimuler les investissements et de soutenir les associations commerciales locales et les petites et moyennes entreprises dans l’ensemble ou dans une région précise de ces provinces, et, au besoin, coordonner leur prestation;
-	- **b)** concevoir, recommander, coordonner, diriger, favoriser et mettre en oeuvre des programmes et des opérations en ce qui touche le développement économique régional en Ontario et au Québec.
+	- **a)
+** fournir des services favorisant le développement économique régional de l’Ontario, notamment en vue de promouvoir les capacités d’entreprise, de stimuler les investissements et de soutenir les associations commerciales locales et les petites et moyennes entreprises dans l’ensemble ou dans une région précise de cette province, et, au besoin, coordonner leur prestation;
+	- **b)
+** concevoir, recommander, coordonner, diriger, favoriser et mettre en oeuvre des programmes et des opérations en ce qui touche le développement économique régional en Ontario.
+> 1995, ch. 1, art. 9; 2005, ch. 26, art. 23.
+
 
 
 
