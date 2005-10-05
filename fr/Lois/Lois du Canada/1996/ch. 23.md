@@ -75,7 +75,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** un bâtiment qui se trouve dans la même enceinte qu’une maison d’habitation et qui y est relié par une baie de porte ou par un passage couvert et clos;
 - **b)** une unité conçue pour être mobile et pour être utilisée comme résidence permanente ou temporaire et qui est ainsi utilisée.
 
-***ministre*** Sauf aux parties IV et VII, le ministre du Développement des ressources humaines.
+***ministre*** Sauf aux parties IV et VII, le ministre des Ressources humaines et du Développement des compétences.
 
 ***période de prestations*** La période visée aux articles 9 et 10.
 
@@ -114,7 +114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Semaines de prestations**
 
 - **(5)** Pour l’application du paragraphe 7(4.1) et de l’article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines à l’égard desquelles des prestations ont été versées au prestataire.
-> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15.
+> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80.
 
 
 
@@ -2254,7 +2254,8 @@ c);
 
 **65.3** 
 
-- **(1)** Pour chaque année, l’actuaire en chef visé à l’article 31 de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md) calcule le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année.
+- **(1)** Pour chaque année, l’actuaire en chef visé à l’article 28 de la  
+Loi sur le ministère des Ressources humaines et du Développement des compétences calcule le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année.
 
 **Changement du taux**
 
@@ -2263,7 +2264,7 @@ c);
 **Rapport**
 
 - **(3)** Au plus tard le 14 octobre de chaque année, l’actuaire en chef fait rapport à la Commission du taux de cotisation calculé au titre des paragraphes (1) ou (2) pour l’année suivante et la Commission, dans les meilleurs délais après réception du rapport, le rend accessible au public.
-> 2005, ch. 30, art. 126.
+> 2005, ch. 30, art. 126 et 129.
 
 
 
@@ -3789,27 +3790,11 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 
 
-
-**Caractère confidentiel des renseignements**
-
-**127** 
-
-- **(1)** Les renseignements suivants ne peuvent être divulgués qu’à la Commission et aux employés du ministère du Développement des ressources humaines dans l’exercice de leurs fonctions et aux autres personnes à qui le ministre juge souhaitable d’en permettre l’accès :
-	- **a)** les renseignements de toute nature obtenus de quiconque par la Commission ou le ministère en vertu de la présente loi ou d’un règlement y afférent;
-	- **b)** les renseignements tirés de ceux visés à l’alinéa a).
-
-**Non contraignables**
-
-- **(2)** La Commission, le ministère et ses employés ne peuvent être contraints de répondre à une question concernant ces renseignements ou de produire des registres, documents ou autres pièces contenant ces renseignements à titre de preuve dans des procédures sans rapport direct avec l’exécution ou l’interprétation de la présente loi ou des règlements.
-> 1996, ch. 23, art. 127 et 189.
+**127** [Abrogé, 2005, ch. 34, art. 64]
 
 
 
-
-
-**Exception pour les crimes de guerre**
-
-**128** Malgré toute autre disposition de la présente loi, le ministre peut permettre l’accès aux renseignements obtenus de quiconque en vertu de la présente loi ou d’un règlement y afférent, de même qu’aux renseignements tirés de ces renseignements, au commissaire de la Gendarmerie royale du Canada, au ministre de la Justice et au procureur général du Canada aux fins des enquêtes, des poursuites et des activités en matière d’extradition au Canada en ce qui concerne les crimes de guerre et les crimes contre l’humanité.
+**128** [Abrogé, 2005, ch. 34, art. 64]
 
 
 
