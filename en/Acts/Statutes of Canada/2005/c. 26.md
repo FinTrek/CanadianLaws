@@ -37,11 +37,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***Agency*** means the Economic Development Agency of Canada for the Regions of Quebec established by section 8.
+***Agency*** means the Economic Development Agency of Canada for the Regions of Quebec established by section 8. (*Agence*)
 
-***enterprise*** includes a social economy enterprise.
+***enterprise*** includes a social economy enterprise. (*entreprise*)
 
-***Minister*** means the Minister of the Economic Development Agency of Canada for the Regions of Quebec.
+***Minister*** means the Minister of the Economic Development Agency of Canada for the Regions of Quebec. (*ministre*)
 
 
 
@@ -317,9 +317,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this section.
 
-***former agency*** means the portion of the public service of Canada known as the Economic Development Agency of Canada for the Regions of Quebec.
+***former agency*** means the portion of the federal public administration known as the Economic Development Agency of Canada for the Regions of Quebec. (*ancienne agence*)
 
-***new agency*** means the Economic Development Agency of Canada for the Regions of Quebec established by section 8.
+***new agency*** means the Economic Development Agency of Canada for the Regions of Quebec established by section 8. (*nouvelle agence*)
 
 **President**
 
@@ -335,11 +335,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Transfer of appropriations**
 
-- **(5)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada for the former agency that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the public service of Canada for the new agency.
+- **(5)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration for the former agency that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the federal public administration for the new agency.
 
 **Transfer of powers, duties and functions**
 
-- **(6)** Wherever under any Act, order, rule or regulation, or any contract, lease, licence or other document, any power, duty or function is vested in or exercisable by the Deputy Minister of the former agency or an employee of the former agency, the power, duty or function is vested in and shall be exercised by the President of the new agency or an employee of the new agency, unless the Governor in Council by order designates a Deputy Minister or officer of the public service of Canada to exercise that power, duty or function.
+- **(6)** Wherever under any Act, order, rule or regulation, or any contract, lease, licence or other document, any power, duty or function is vested in or exercisable by the Deputy Minister of the former agency or an employee of the former agency, the power, duty or function is vested in and shall be exercised by the President of the new agency or an employee of the new agency, unless the Governor in Council by order designates a Deputy Minister or officer of the federal public administration to exercise that power, duty or function.
 
 **References**
 
@@ -353,6 +353,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deputy head**
 
 - **(8)** The designation of a person as deputy head of the former agency in any order of the Governor in Council made pursuant to the definition deputy head in subsection 2(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) is deemed to be a designation of the President of the new agency as deputy head of that agency.
+> 2005, c. 26, ss. 18, 27(E).
+
 
 
 
@@ -429,6 +431,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#E-1.3_e_s28'>[*]</a></sup>**28** The provisions of this Act, other than section 27, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='E-1.3_e_s28'><sup>*</sup></a>: [Note: Section 27 in force on assent June 23, 2005.]<br />
+<a name='E-1.3_e_s28'><sup>*</sup></a>: [Note: Section 27 in force on assent June 23, 2005; Act, other than section 27, in force October 5, 2005, *see* SI/2005-101.]<br />
 
 
