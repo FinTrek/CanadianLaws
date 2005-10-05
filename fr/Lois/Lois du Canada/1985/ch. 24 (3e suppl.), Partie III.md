@@ -723,7 +723,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 		- **(i)** pour l’exécution et le contrôle d’application de la partie II de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md),
 		- **(ii)** aux fins prévues au paragraphe 13(2);
 	- **b)** [Abrogé, 1996, ch. 8, art. 24]
-	- **c)** un fonctionnaire du ministère du Développement des ressources humaines ou tout agent d’appel, agent de santé et de sécurité ou agent régional de santé et de sécurité, au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), pour l’exécution et le contrôle d’application de la partie II de cette loi;
+	- **c)** un fonctionnaire du ministère des Ressources humaines et du Développement des compétences ou tout agent d’appel, agent de santé et de sécurité ou agent régional de santé et de sécurité, au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), pour l’exécution et le contrôle d’application de la partie II de cette loi;
 	- **d)** un fonctionnaire du ministère des Transports pour rendre les renseignements accessibles, en cas d'urgence médicale, par l'intermédiaire du Centre canadien d'urgence transport de ce ministère (CANUTEC);
 	- **e)** un fonctionnaire du gouvernement d’une province pour l’exécution et le contrôle d’application de toute loi de la province en matière de santé et de sécurité professionnelles dans les cas où le droit de la province comporte des dispositions semblables en matière de protection de la confidentialité des renseignements obtenus par cette communication, cet examen ou cet accès.
 
@@ -738,7 +738,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 **Définition de « fonctionnaire »**
 
 - **(5)** Dans le présent article, ***fonctionnaire*** s’entend d’une personne qui est ou était à l’emploi de Sa Majesté ou qui occupe ou occupait un poste responsable pour le compte de celle-ci.
-> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26.
+> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79.
 
 
 
