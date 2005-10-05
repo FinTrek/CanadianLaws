@@ -313,12 +313,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** shall be appointed by the Governor in Council to hold office during good behaviour for a term not exceeding five years but may be removed by the Governor in Council at any time for cause;
 	- **(b)** are eligible for reappointment on the expiration of each term of office;
 	- **(c)** shall receive the remuneration that is fixed by the Governor in Council;
-	- **(d)** are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
+	- **(d)** are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
 	- **(e)** shall devote the whole of their time to the performance of the duties and functions of the office of commissioner and shall not accept or hold any office or employment or carry on any activity inconsistent with their duties and functions.
 
 **Tenure, remuneration and conditions of office — acting**
 
 - **(2)** In the event of the absence or incapacity of a commissioner other than the Chairperson or Vice-Chairperson or if the office is vacant, the Governor in Council may designate a person to act as a commissioner for the period of the absence, incapacity or vacancy and the person so designated has and may exercise all the powers and perform all the duties and functions of a commissioner, unless the Governor in Council specifies otherwise.
+> 2005, c. 34, ss. 21, 82(E).
+
 
 
 
@@ -423,6 +425,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The officers and employees necessary for the proper conduct of the business of the Commission shall be employees of the Department.
 
+**Chief actuary**
+
+- **(1.1)** The employee or officer who holds the position of chief actuary shall be under the direction of the Commission in the performance of the chief actuary’s functions under section 65.3 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+
 **Agents**
 
 - **(2)** The Commission may enter into contracts with agents in or for locations where the Commission considers it desirable to do so.
@@ -430,6 +436,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Delegation**
 
 - **(3)** The Commission may authorize any person or body, or member of a class of persons or bodies, to exercise powers or perform duties and functions of or delegated to the Commission, and any such authorized person or body or class of persons or bodies may exercise specified powers or perform specified duties and functions.
+> 2005, c. 30, s. 129, c. 34, s. 28.
+
+
+
+
+
+**Persons who have specialized knowledge**
+
+**28.1** Despite section 28, the Commission may, as it considers necessary for the purpose of assisting it in setting the premium rate under section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), contract for the services of persons who have specialized knowledge and may fix and pay the remuneration and expenses of those persons.
+> 2005, c. 30, s. 129.
+
 
 
 
@@ -687,14 +704,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Transfer of powers, duties and functions**
 
-**51** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of State to be styled Minister of Human Resources and Skills Development, the Deputy Minister, an Associate Deputy Minister or an employee of the portion of the public service of Canada known as the Department of Human Resources and Skills Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Human Resources and Skills Development, Deputy Minister, Associate Deputy Minister or employee of the Department of Human Resources and Skills Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister, Associate Deputy Minister or employee of the public service of Canada to exercise that power or perform that duty or function.
+**51** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of State to be styled Minister of Human Resources and Skills Development, the Deputy Minister, an Associate Deputy Minister or an employee of the portion of the federal public administration known as the Department of Human Resources and Skills Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Human Resources and Skills Development, Deputy Minister, Associate Deputy Minister or employee of the Department of Human Resources and Skills Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister, Associate Deputy Minister or employee of the federal public administration to exercise that power or perform that duty or function.
+> 2005, c. 34, ss. 51, 82(E).
+
 
 
 
 
 **Transfer of appropriations**
 
-**52** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada within the portion of the public service of Canada known as the Department of Human Resources and Skills Development and that, on the day on which this section comes into force, is unexpended, is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Human Resources and Skills Development.
+**52** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the portion of the federal public administration known as the Department of Human Resources and Skills Development and that, on the day on which this section comes into force, is unexpended, is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Human Resources and Skills Development.
+> 2005, c. 34, ss. 52, 82(E).
+
 
 
 
@@ -914,9 +935,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-***85** This Act, other than sections 82 and 83, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same as that fixed under section 70 of the 
-[Department of Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md).
+***85** This Act, other than sections 82 and 83, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same as that fixed under section 70 of the  [Department of Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md).
 
-<a name='H-5.7_E_85'><sup>*</sup></a>: [Note: Sections 82 and 83 in force on assent July 20, 2005.]<br />
+<a name='H-5.7_E_85'><sup>*</sup></a>: [Note: Sections 82 and 83 in force on assent July 20, 2005; Act, other than sections 82 and 83, in force October 5, 2005, *see* SI/2005-99.]<br />
 
 
