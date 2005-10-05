@@ -4208,7 +4208,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(i)** Her Majesty in right of Canada, or
 		- **(ii)** Her Majesty in right of a province on account of taxes payable to the province if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province;
 	- **(h)** counsel, as defined in subsection 84(4) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), in accordance with subsection 84(3) of that Act and subject to subsection 84(3.1) of that Act, except that the word “information” in those subsections is to be read as a reference to the words “customs information”;
-	- **(i)** an official of the Department of Human Resources Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
+	- **(i)** an official of the Department of Human Resources and Skills Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
 	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada;
 	- **(k)** an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of administering or enforcing the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(l)** a person solely for the purpose of determining any entitlement, liability or obligation of the person under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) including the person’s entitlement to any refund, relief, drawback or abatement under those Acts;
@@ -4266,7 +4266,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79.
 
 
 
