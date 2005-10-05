@@ -81,7 +81,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***labour dispute*** means a dispute between employers and employees, or between employees and employees, that is connected with the employment or non-employment, or the terms or conditions of employment, of any persons;
 
-***Minister*** means the Minister of Human Resources Development, except in Parts IV and VII;
+***Minister*** means the Minister of Human Resources and Skills Development, except in Parts IV and VII;
 
 ***overpayment of benefits*** does not include a benefit repayment as described in Part VII;
 
@@ -116,7 +116,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Weeks of benefits paid**
 
 - **(5)** For the purposes of subsection 7(4.1) and section 145, the Commission may, with the approval of the Governor in Council, make regulations for establishing how many weeks of benefits a claimant was paid, in order to take into account benefit reductions or deductions in the calculation or payment of those benefits.
-> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15.
+> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15; 2005, c. 34, s. 80.
 
 
 
@@ -2213,7 +2213,8 @@ is to be considered to have worked or not worked a full working week;
 
 **65.3** 
 
-- **(1)** The chief actuary referred to in section 31 of the  [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) shall determine the premium rate for a year that, in the chief actuary’s opinion, based on the information provided by the Minister of Finance under section 66.2 and taking into account any regulations made under section 69, should generate just enough premium revenue during that year to cover the payments that will be made under subsection 77(1) during that year.
+- **(1)** The chief actuary referred to in section 28 of the 
+Department of Human Resources and Skills Development Act shall determine the premium rate for a year that, in the chief actuary’s opinion, based on the information provided by the Minister of Finance under section 66.2 and taking into account any regulations made under section 69, should generate just enough premium revenue during that year to cover the payments that will be made under subsection 77(1) during that year.
 
 **Changes to payments**
 
@@ -2222,7 +2223,7 @@ is to be considered to have worked or not worked a full working week;
 **Report to the Commission**
 
 - **(3)** The chief actuary shall provide to the Commission a report setting out the premium rate determined under subsection (1) or (2) for a year, on or before October 14 of the previous year, and the Commission shall, as soon as possible after receiving the report, make it available to the public.
-> 2005, c. 30, s. 126.
+> 2005, c. 30, ss. 126, 129.
 
 
 
@@ -3843,27 +3844,11 @@ to the extent that access has been or may be expected to be refused and that the
 
 
 
-
-**Confidential information**
-
-**127** 
-
-- **(1)** The following information shall be made available only to the Commission and the employees of the Department of Human Resources Development in the course of their employment and such other persons as the Minister considers advisable:
-	- **(a)** any information obtained by the Commission or the Department from any person under this Act or the regulations; and
-	- **(b)** any information prepared from information described in paragraph (a).
-
-**Witnesses not compellable**
-
-- **(2)** The Commission, the Department and the employees of the Department mentioned in this section are not compellable to answer questions concerning the information, or to produce records or other documents containing the information, as evidence in any proceedings not directly concerned with the enforcement or interpretation of this Act or the regulations.
-> 1996, c. 23, ss. 127, 189.
+**127** [Repealed, 2005, c. 34, s. 64]
 
 
 
-
-
-**Exception for war crimes**
-
-**128** Notwithstanding any other provision of this Act, any information obtained from any person under this Act or the regulations, or prepared from that information, may be made available by the Minister to the Commissioner of the Royal Canadian Mounted Police, the Minister of Justice and the Attorney General of Canada for the purposes of investigations, prosecutions and extradition activities in Canada in relation to war crimes and crimes against humanity.
+**128** [Repealed, 2005, c. 34, s. 64]
 
 
 
