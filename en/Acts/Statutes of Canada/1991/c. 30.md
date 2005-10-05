@@ -600,7 +600,7 @@ Department of Foreign Affairs and International Trade<br />- <i>Ministère des A
 
 Department of Health<br />- <i>Ministère de la Santé</i>
 
-Department of Human Resources Development<br />- <i>Ministère du Développement des ressources humaines</i>
+Department of Human Resources and Skills Development<br />- <i>Ministère des Ressources humaines et du Développement des compétences</i>
 
 Department of Indian Affairs and Northern Development<br />- <i>Ministère des Affaires indiennes et du Nord canadien</i>
 
@@ -617,6 +617,8 @@ Department of Natural Resources<br />- <i>Ministère des Ressources naturelles</
 Department of Public Safety and Emergency Preparedness<br />- <i>Ministère de la Sécurité publique et de la Protection civile</i>
 
 Department of Public Works and Government Services<br />- <i>Ministère des Travaux publics et des Services gouvernementaux</i>
+
+Department of Social Development<br />- <i>Ministère du Développement social</i>
 
 Department of Transport<br />- <i>Ministère des Transports</i>
 
@@ -790,7 +792,7 @@ Transportation Safety Board of Canada<br />- <i>Bureau de la sécurité des tran
 Treasury Board Secretariat<br />- <i>Secrétariat du Conseil du Trésor</i>
 
 Veterans Review and Appeal Board<br />- <i>Tribunal des anciens combattants (révision et appel)</i>
-> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33.
+> 1991, c. 30, Sch. I; SOR/93-307; 1994, c. 31, s. 21, c. 38, ss. 23, 24, c. 41, ss. 31, 32; 1995, c. 1, ss. 57 to 59, c. 5, ss. 22, 23, c. 11, ss. 33, 34, c. 18, ss. 91, 92, c. 29, s. 32; 1996, c. 8, ss. 29, 30, c. 9, s. 29, c. 11, ss. 81 to 83, c. 16, ss. 49, 50; SOR/96-541; 1997, c. 9, ss. 114, 115; 1998, c. 9, ss. 46, 47, c. 26, ss. 79, 80; 1999, c. 31, s. 179; 2000, c. 34, s. 93(F); 2001, c. 29, ss. 60, 61; 2002, c. 8, ss. 162, 163; 2004, c. 11, ss. 43, 44; 2005, c. 10, ss. 32, 33, c. 34, ss. 75, 76, c. 35, s. 64.
 
 
 
