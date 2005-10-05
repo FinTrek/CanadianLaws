@@ -250,22 +250,7 @@ and in respect of whom a national child benefit supplement, or a special allowan
 
 
 
-
-**Access to information**
-
-**11** 
-
-- **(1)** Subject to subsection (3) and except as otherwise prescribed, all information obtained in the course of the administration or enforcement of this Act or under a program administered pursuant to an agreement entered into under section 12 is privileged, and no person shall knowingly make it available or allow it to be made available to any other person except for the purpose of the administration or enforcement of this Act, the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or that program.
-
-**Social Insurance Number information**
-
-- **(2)** Subject to subsection (3), no person shall knowingly use, communicate or allow to be communicated the Social Insurance Number of an individual that was obtained for a purpose related to an application for a CES grant or a Canada Learning Bond under this Act or for a benefit under a program administered pursuant to an agreement entered into under section 12 except for the purpose of the administration or enforcement of this Act, the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or that program.
-
-**Provisions of [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) re information applicable**
-
-- **(3)** Except as otherwise prescribed, sections 104 to 104.03, 104.05 to 104.08, 104.1 and 104.11 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) relating to the protection of personal information apply, with any modifications that the circumstances require, to this Act and shall be read as if they were contained in this Act but, for the purposes of this Act,
-	- **(a)** any matter or thing that is to be or may be prescribed under any of those sections is to be or may be prescribed under this Act; and
-	- **(b)** a reference in any of those sections to the Minister shall be read as a reference to the Minister under this Act.
+**11** [Repealed, 2005, c. 34, s. 83]
 
 
 
