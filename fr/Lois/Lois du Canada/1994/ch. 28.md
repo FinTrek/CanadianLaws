@@ -453,7 +453,7 @@ a) pour lesquels le ministre prend, au cours de cette année, des mesures de rec
 - **h)** prendre des mesures concernant la subrogation de Sa Majesté du chef du Canada dans les droits d’un prêteur;
 - **i)** déterminer les cas justifiant l’annulation de l’exemption du paiement d’intérêt prévue au paragraphe 7(1) ou le refus d’un prêt d’études ou d’un certificat d’admissibilité;
 - **j)** prévoir le ou les prêts d’études auxquels s’appliquent les articles 7, 8, 10 et 11 et le paragraphe 12(4);
-- **k)** prévoir, en matière de prêts d’études ou d’une autre forme d’aide financière, l’échange d’information et de dossiers entre des personnes, des organismes ou des autorités;
+- **k)** [Abrogé, 2005, ch. 34, art. 63]
 - **l)** prévoir, avec ou sans condition, le remboursement, ainsi que son mode de calcul, au prêteur par le ministre du montant d’une partie du prêt d’études et la décharge correspondante en ce qui concerne l’étudiant à temps plein ou à temps partiel;
 - **m)** prévoir, malgré toute autre disposition de la présente loi, dans le cas d’un étudiant à temps partiel, les modalités d’application d’un programme de prêts d’études, notamment en ce qui concerne la détermination de son statut, le remboursement de prêts ou les avances de fonds ainsi que le nombre maximal de semaines ou de périodes d’études après lesquelles l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
 - **n)** prévoir l’élaboration et la mise en oeuvre d’un programme d’exemptions totales ou partielles, pendant des périodes spéciales, pour le paiement d’intérêts — ainsi que la conclusion, prorogation ou modification correspondante des accords entre emprunteurs et prêteurs — , en fixer les conditions de même que les modalités de cessation et déléguer aux prêteurs le pouvoir de les accorder, d’y mettre fin et de gérer le programme;
@@ -461,7 +461,7 @@ a) pour lesquels le ministre prend, au cours de cette année, des mesures de rec
 - **p)** prévoir l’élaboration et la mise en oeuvre de programmes d’attribution de bourses et d’attribution de bourses supplémentaires pour les étudiants admissibles dont les besoins d’aide financière sont supérieurs à ce que prévoit le plafond de l’aide financière qui peut leur être octroyée, et les catégories de personnes pouvant en bénéficier;
 - **q)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 - **r)** de façon générale, prendre toute autre mesure d’application de la présente loi.
-> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20
+> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20; 2005, ch. 34, art. 63
 
 
 
