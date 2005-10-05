@@ -241,22 +241,7 @@ où :
 
 
 
-
-**Communication de renseignements**
-
-**11** 
-
-- **(1)** Sous réserve du paragraphe (3) et sauf disposition réglementaire contraire, les renseignements recueillis dans le cadre de l’application de la présente loi ou dans le cadre d’un programme administré au titre d’un accord conclu en vertu de l’article 12 sont protégés, et nul ne peut sciemment les rendre accessibles si ce n’est pour l’application de la présente loi ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou pour l’administration du programme.
-
-**Renseignements sur le numéro d’assurance sociale**
-
-- **(2)** Sous réserve du paragraphe (3), nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d’assurance sociale d’un particulier qui a été obtenu à une fin liée soit à une demande de subvention pour l’épargne-études ou de bon d’études dans le cadre de la présente loi, soit à une demande de prestation dans le cadre d’un programme administré au titre d’un accord conclu en vertu de l’article 12, si ce n’est pour l’application de la présente loi ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou pour l’administration du programme.
-
-**Application du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)**
-
-- **(3)** Sauf disposition réglementaire contraire, les articles 104 à 104.03, 104.05 à 104.08, 104.1 et 104.11 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) concernant la protection des renseignements personnels s’appliquent, avec les adaptations nécessaires, à la présente loi et sont réputés en faire partie. Toutefois, pour l’application de la présente loi :
-	- **a)** toute mesure d’ordre réglementaire qui doit ou peut être prise en application de ces articles doit ou peut l’être en application de la présente loi;
-	- **b)** le ministre visé à ces articles est réputé être celui chargé de l’application de la présente loi.
+**11** [Abrogé, 2005, ch. 34, art. 83]
 
 
 
