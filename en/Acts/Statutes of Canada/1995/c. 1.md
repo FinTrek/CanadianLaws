@@ -87,7 +87,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Additional powers, duties and functions**
 
-- **(2)** The powers, duties and functions of the Minister also extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to regional economic development in Ontario and Quebec.
+- **(2)** The powers, duties and functions of the Minister also extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to regional economic development in Ontario.
+> 1995, c. 1, s. 4; 2005, c. 26, s. 20.
+
 
 
 
@@ -128,35 +130,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART II** 
-## Regional Economic Development in Ontario and Quebec
+## Regional Economic Development in Ontario
 
 
 
-**Objectives in relation to regional development in Ontario and Quebec**
+**Objectives in relation to regional development in Ontario**
 
 **8** The Minister shall exercise the powers and perform the duties and functions assigned by subsection 4(2) in a manner that will
-- **(a)** promote economic development in areas of Ontario and Quebec where low incomes and slow economic growth are prevalent or where opportunities for productive employment are inadequate;
+- **(a)** promote economic development in areas of Ontario where low incomes and slow economic growth are prevalent or where opportunities for productive employment are inadequate;
 - **(b)** emphasize long-term economic development and sustainable employment and income creation; and
 - **(c)** focus on small and medium-sized enterprises and the development and enhancement of entrepreneurial talent.
+> 1995, c. 1, s. 8; 2005, c. 26, s. 22.
 
 
 
 
-**Duties in relation to regional development in Ontario and Quebec**
+
+**Duties in relation to regional development in Ontario**
 
 **9** 
 
-- **(1)** In exercising the powers and performing the duties and functions assigned by subsection 4(2), the Minister shall, with respect to regional economic development in Ontario and Quebec,
+- **(1)** In exercising the powers and performing the duties and functions assigned by subsection 4(2), the Minister shall, with respect to regional economic development in Ontario,
 	- **(a)** in cooperation with other concerned ministers and boards and agencies of the Government of Canada, formulate and implement policies, plans and integrated federal approaches;
 	- **(b)** coordinate the policies and programs of the Government of Canada;
-	- **(c)** lead and coordinate the activities of the Government of Canada in the establishment of cooperative relationships with Ontario and Quebec and with business, labour and other public and private bodies; and
+	- **(c)** lead and coordinate the activities of the Government of Canada in the establishment of cooperative relationships with Ontario and with business, labour and other public and private bodies; and
 	- **(d)** collect, gather, by survey or otherwise, compile, analyse, coordinate and disseminate information.
 
 **Coordination**
 
 - **(2)** In exercising the powers and performing the same duties and functions, the Minister may
-	- **(a)** provide and, where appropriate, coordinate services promoting regional economic development in Ontario and Quebec including services to develop entrepreneurial talent, support local business associations, stimulate investment and support small and medium-sized enterprises in those provinces or any part thereof; and
-	- **(b)** initiate, recommend, coordinate, direct, promote and implement programs and projects in relation to regional economic development in Ontario and Quebec.
+	- **(a)** provide and, where appropriate, coordinate services promoting regional economic development in Ontario including services to develop entrepreneurial talent, support local business associations, stimulate investment and support small- and medium-sized enterprises in that province or any part of that province; and
+	- **(b)** initiate, recommend, coordinate, direct, promote and implement programs and projects in relation to regional economic development in Ontario.
+> 1995, c. 1, s. 9; 2005, c. 26, s. 23.
+
 
 
 
