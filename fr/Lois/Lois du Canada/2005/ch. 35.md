@@ -167,6 +167,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Les membres du Conseil sont réputés appartenir à l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) lorsqu’ils exercent les fonctions qui leur sont confiées en application de la présente loi.
+> 2005, ch. 35, art. 10 et 68(A).
+
 
 
 
@@ -214,6 +216,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(2)** Le personnel et les contractuels ainsi engagés ne font pas automatiquement partie de l’administration publique fédérale.
+> 2005, ch. 35, art. 15 et 68(A).
+
 
 
 
@@ -509,6 +513,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert d’attributions**
 
 **40** Les attributions qui, immédiatement avant l’entrée en vigueur du présent article, étaient conférées, en vertu d’une loi, d’un règlement, d’un décret, d’un arrêté, d’une ordonnance ou d’une règle ou au titre d’un contrat, bail, permis ou autre document, au ministre du Développement des ressources humaines, au sous-ministre ou à un fonctionnaire du ministère du Développement des ressources humaines ou au ministre portant le titre de ministre du Développement social ou au sous-ministre portant le titre de sous-ministre du Développement social sont, à compter de cette entrée en vigueur, conférées au ministre du Développement social ou au sous-ministre ou au fonctionnaire du ministère du Développement social, selon le cas, sauf décret chargeant de ces attributions un autre ministre ou sous-ministre, ou un fonctionnaire d’un autre secteur de l’administration publique fédérale.
+> 2005, ch. 35, art. 40 et 68(A).
+
 
 
 
@@ -516,6 +522,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert de crédits**
 
 **41** Les sommes affectées — et non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard du ministère du Développement des ressources humaines (Développement social) sont réputées être affectées aux frais et dépenses de l’administration publique fédérale à l’égard du ministère du Développement social.
+> 2005, ch. 35, art. 41 et 68(A).
+
 
 
 
@@ -688,6 +696,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#S-11.5_f_70'>[*]</a></sup>**70** La présente loi, à l’exception de l’article 68, entre en vigueur à la date fixée par décret, mais cette date doit être la même que celle fixée en vertu de l’article 85 de la Loi sur le ministère des Ressources humaines et du Développement des compétences.
 
-<a name='S-11.5_f_70'><sup>*</sup></a>: [Note : Article 68 en vigueur à la sanction le 20 juillet 2005.]<br />
+<a name='S-11.5_f_70'><sup>*</sup></a>: [Note : Article 68 en vigueur à la sanction le 20 juillet 2005; loi, à l'exception de l'article 68, en vigueur le 5 octobre 2005, *voir* TR/2005-97.]<br />
 
 
