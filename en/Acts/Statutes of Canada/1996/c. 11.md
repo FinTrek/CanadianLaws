@@ -10,6 +10,9 @@ Assented to on 29 May 1996
 ----------
 
 
+[Repealed,  2005, c. 34, s. 84]
+
+
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -19,494 +22,238 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ## Short Title
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Department of Human Resources Development Act.
+**1** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ## Interpretation
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Definitions**
-
-**2** In this Act,
-
-***Commission*** means the Canada Employment Insurance Commission continued by section 23;
-
-***Minister*** means the Minister of Human Resources Development.
+**2** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 **PART I** 
 ## Department of Human Resources Development
+> [Repealed,  2005, c. 34, s. 84]
+
 
 
 
 ### Establishment
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Department established**
-
-**3** 
-
-- **(1)** There is hereby established a department of the Government of Canada called the Department of Human Resources Development over which the Minister of Human Resources Development, appointed by commission under the Great Seal, shall preside.
-
-**Human Resources Development Canada**
-
-- **(2)** The expressions “Human Resources Development Canada” and “Développement des ressources humaines Canada” in any document issued or executed in relation to the matters set out in section 6 are deemed to be references to the “Department of Human Resources Development” and the “ministère du Développement des ressources humaines”, respectively.
-
-**Minister**
-
-- **(3)** The Minister holds office during pleasure and has the management and direction of the Department.
+**3** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Minister of Labour**
-
-**4** 
-
-- **(1)** A Minister of Labour may be appointed by commission under the Great Seal to hold office during pleasure.
-
-**Powers, duties and functions**
-
-- **(2)** The powers, duties and functions of the Minister of Labour extend to and include all matters over which Parliament has jurisdiction relating to labour not by law assigned to any other department, board or agency of the Government of Canada.
-
-**Where no Minister of Labour**
-
-- **(3)** Where no Minister of Labour is appointed under subsection (1),
-	- **(a)** the Minister of Human Resources Development shall exercise the powers and perform the duties and functions of the Minister of Labour; and
-	- **(b)** every reference to the Minister of Labour in any Act of Parliament or in any order, regulation or other instrument made under an Act of Parliament shall, unless the context otherwise requires, be read as a reference to the Minister of Human Resources Development.
-
-**Use of departmental services and facilities**
-
-- **(4)** The Minister of Labour shall make use of the services and facilities of the Department.
+**4** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Deputy minister**
-
-**5** 
-
-- **(1)** The Governor in Council may appoint an officer called the Deputy Minister of Human Resources Development to hold office during pleasure and to be the deputy head of the Department.
-
-**Associate deputy ministers**
-
-- **(2)** The Governor in Council may appoint one or more Associate Deputy Ministers of Human Resources Development, each of whom shall have the rank and status of a deputy head of a department and shall, under the Deputy Minister of Human Resources Development, exercise such powers and perform such duties and functions as deputies of the Minister and otherwise as the Minister may specify.
-
-**Deputy Minister of Labour**
-
-- **(3)** The Governor in Council may designate the Deputy Minister of Human Resources Development or one of the Associate Deputy Ministers to be Deputy Minister of Labour.
+**5** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Powers, Duties and Functions of the Minister
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Powers, duties and functions**
-
-**6** The powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction relating to the development of the human resources of Canada not by law assigned to any other Minister, department, board or agency of the Government of Canada, and are to be exercised with the objective of enhancing employment, encouraging equality and promoting social security.
+**6** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Additional powers**
-
-**7** In exercising the powers or performing the duties or functions assigned to the Minister under this or any other Act of Parliament, the Minister may
-- **(a)** subject to the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), collect, analyse, interpret, publish and distribute information relating to human resources development; and
-- **(b)** cooperate with provincial authorities with a view to the coordination of efforts made or proposed for preserving and improving human resources development.
+**7** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Fees and Charges
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Fees for services or use of facilities**
-
-**8** 
-
-- **(1)** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix the fees to be paid for a service or the use of a facility provided by the Minister, the Department or the Commission or any other board or agency of the Government of Canada for which the Minister has responsibility.
-
-**Amount not to exceed cost**
-
-- **(2)** Fees for a service or the use of a facility that are fixed under subsection (1) may not exceed the cost to Her Majesty in right of Canada of providing the service or the use of the facility.
+**8** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Fees for products, rights and privileges**
-
-**9** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix fees in respect of products, rights and privileges provided by the Minister, the Department or the Commission or any other board or agency of the Government of Canada for which the Minister has responsibility.
+**9** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Fees in respect of regulatory processes and approvals**
-
-**10** 
-
-- **(1)** The Minister may, subject to any regulations that the Treasury Board may make for the purposes of this section, fix fees in respect of regulatory processes or approvals provided by the Minister, the Department or the Commission or any other board or agency of the Government of Canada for which the Minister has responsibility.
-
-**Amount**
-
-- **(2)** Fees that are fixed under subsection (1) shall in the aggregate not exceed an amount sufficient to compensate Her Majesty in right of Canada for any reasonable outlays incurred by Her Majesty for the purpose of providing the regulatory processes or approvals.
+**10** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Consultation**
-
-**11** 
-
-- **(1)** Before fixing a fee under any of sections 8 to 10, the Minister shall consult with such persons or organizations as the Minister considers to be interested in the matter.
-
-**Publication**
-
-- **(2)** The Minister shall, within thirty days after the date on which the Minister fixes a fee under any of sections 8 to 10, publish the fee in the Canada Gazette and by such appropriate electronic or other means that the Treasury Board may authorize by regulation.
-
-**Reference to Scrutiny Committee**
-
-- **(3)** Any fee fixed under any of sections 8 to 10 shall stand referred to the Committee referred to in section 19 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) to be reviewed and scrutinized as if it were a statutory instrument.
+**11** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Power to make regulations**
-
-**12** The Treasury Board may make regulations for the purposes of sections 8 to 11.
+**12** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Boards, Committees and Councils
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Boards, committees and councils**
-
-**13** The Minister may, with the approval of the Governor in Council, establish such bodies as are necessary to assist and advise the Minister and to cooperate with provincial authorities for the purposes of this Act.
+**13** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### National Council of Welfare
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**National Council of Welfare**
-
-**14** 
-
-- **(1)** The National Council of Welfare is continued, consisting of a chairperson and not more than thirteen other members to be appointed by the Governor in Council to hold office during pleasure for the term, not exceeding three years, that will ensure as far as possible the expiration in any one year of the terms of appointment of fewer than half of the members so appointed.
-
-**Members deemed to be in the federal public administration**
-
-- **(2)** The members are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the 
-[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of duties under this Act.
-> 1996, c. 11, s. 14; 2003, c. 22, s. 224(E).
+**14** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-
-**Eligibility for reappointment**
-
-**15** A member of the National Council of Welfare is eligible for reappointment to the Council.
+**15** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Remuneration and expenses**
-
-**16** Each member of the National Council of Welfare shall be paid the remuneration that may be approved by the Governor in Council and is entitled to be paid reasonable travel and other expenses incurred by them while absent from their ordinary place of residence in the course of duties under this Act.
+**16** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Duties and powers**
-
-**17** It is the function of the National Council of Welfare to advise the Minister in respect of any matters relating to social welfare that the Minister may refer to the Council for its consideration or that the Council considers appropriate.
+**17** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Meetings**
-
-**18** The National Council of Welfare shall meet at the times and places that the Minister may direct.
+**18** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Personnel**
-
-**19** 
-
-- **(1)** The National Council of Welfare may employ or retain the persons who are necessary to perform the duties and functions of the Council.
-
-**Presumption**
-
-- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the federal public administration.
-> 1996, c. 11, s. 19; 2003, c. 22, s. 224(E).
-
+**19** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### General Provisions
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Agreements**
-
-**20** For the purpose of facilitating the formulation, coordination and implementation of any program or policy relating to the powers, duties and functions referred to in section 6, the Minister may enter into agreements with a province or group of provinces, agencies of provinces, financial institutions and such other persons or bodies as the Minister considers appropriate.
+**20** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Delegation**
-
-**21** The Minister may authorize the Minister of Labour, the Commission or any other person or body or member of a class of persons or bodies to exercise any power or perform any duty or function of the Minister.
+**21** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Affidavits**
-
-**22** With the authorization of the Deputy Minister of Human Resources Development, a person or member of a class of persons employed by the Department, or any other person or member of a class of persons authorized by the Minister, may, in the course of their employment, administer oaths and take and receive affidavits, declarations and affirmations for the purposes of or incidental to the performance of any duties or functions of the Department or the Commission, and every person so authorized by the Deputy Minister has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
+**22** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 **PART II** 
 ## Canada Employment Insurance Commission
+> [Repealed,  2005, c. 34, s. 84]
+
 
 
 
 ### Continuation of the Commission
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Commission**
-
-**23** 
-
-- **(1)** The body corporate called the Canada Employment and Immigration Commission is continued as a body corporate under the name of the Canada Employment Insurance Commission consisting of four commissioners to be appointed by the Governor in Council.
-
-**Commissioners**
-
-- **(2)** The four commissioners shall be appointed under subsection (1) as follows:
-	- **(a)** the Deputy Minister of Human Resources Development, who shall be the Chairperson of the Commission;
-	- **(b)** an Associate Deputy Minister, who shall be the Vice-Chairperson of the Commission;
-	- **(c)** a person appointed after consultation with organizations representative of workers; and
-	- **(d)** a person appointed after consultation with organizations representative of employers.
-
-**Employment and Insurance Canada**
-
-- **(3)** The expressions “Employment Insurance Canada” and “Assurance-emploi Canada” in any document issued or executed in relation to the matters set out in section 27 are deemed to be references to the “Canada Employment Insurance Commission” and the “Commission de l’assurance-emploi du Canada”, respectively.
+**23** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Tenure, remuneration and conditions of office**
-
-**24** 
-
-- **(1)** A commissioner, other than the Chairperson or Vice-Chairperson,
-	- **(a)** shall be appointed by the Governor in Council to hold office during good behaviour for a term not exceeding five years but may be removed by the Governor in Council at any time for cause;
-	- **(b)** is eligible for reappointment on the expiration of each term of office;
-	- **(c)** shall receive such remuneration as is fixed by the Governor in Council;
-	- **(d)** is deemed to be a person employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and a person employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md); and
-	- **(e)** shall devote the whole of their time to the performance of the duties of the office of a commissioner and shall not accept or hold any office or employment or carry on any activity inconsistent with the duties and functions of a commissioner.
-
-**Tenure, remuneration and conditions of office — acting**
-
-- **(2)** In the event of the absence or incapacity of a commissioner other than the Chairperson or Vice-Chairperson or if the office is vacant, the Governor in Council may designate a person to act as a commissioner for the period of the absence, incapacity or vacancy and the person so designated has and may exercise all the powers and perform all the duties and functions of a commissioner, unless the Governor in Council specifies otherwise.
-> 1996, c. 11, s. 24; 2003, c. 22, s. 160.
+**24** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-
-**Chairperson**
-
-**25** 
-
-- **(1)** The Chairperson of the Commission is the chief executive officer of the Commission, supervises the work of the Commission and presides at meetings of the Commission.
-
-**Vice-Chairperson**
-
-- **(2)** The Vice-Chairperson of the Commission exercises such powers and performs such duties and functions under the Chairperson as the Chairperson may specify.
-
-**Acting Chairperson**
-
-- **(3)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-Chairperson has and may exercise all the powers and perform all the duties and functions of the Chairperson.
-
-**Acting Vice-Chairperson**
-
-- **(4)** In the event of the absence or incapacity of the Vice-Chairperson, if the office of Vice-Chairperson is vacant or if the Vice-Chairperson is acting as Chairperson pursuant to subsection (3), the Governor in Council may designate a person to act as Vice-Chairperson for the period of the absence, incapacity or vacancy or the period during which the Vice-Chairperson is acting as Chairperson, and the person so designated has and may exercise all the powers and perform all the duties and functions of the Vice-Chairperson, unless the Governor in Council specifies otherwise.
+**25** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Voting**
-
-**26** The Vice-Chairperson may not vote at any meeting of the Commission unless the Vice-Chairperson is acting for or on behalf of the Chairperson.
+**26** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Powers, Duties and Functions of the Commission
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Powers, duties and functions of the Commission**
-
-**27** 
-
-- **(1)** The Commission shall exercise such powers and perform such duties and functions
-	- **(a)** in relation to unemployment insurance, employment services and the development and utilization of labour market resources, as are required by the Minister or by or pursuant to an Act of Parliament; and
-	- **(b)** in relation to other matters, as are required by order of the Governor in Council or by or pursuant to an Act of Parliament.
-
-**Agreements with other countries**
-
-- **(2)** With the approval by order of the Governor in Council, the Commission may, notwithstanding any other Act of Parliament, enter into agreements with the governments of other countries to establish reciprocal arrangements relating to any matter set out in subsection (1).
-
-**Directions to Commission**
-
-- **(3)** The Commission shall comply with any directions given to it from time to time by the Minister respecting the exercise of its powers or the performance of its duties and functions.
+**27** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Rules**
-
-**28** 
-
-- **(1)** The Commission may make rules respecting the calling of meetings of the Commission and generally respecting the conduct of its business.
-
-**Minutes of meetings**
-
-- **(2)** Minutes shall be recorded of all formal meetings of the Commission.
+**28** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Agent of Her Majesty**
-
-**29** 
-
-- **(1)** The Commission is a body corporate and is for all purposes an agent of Her Majesty in right of Canada and it may exercise its powers only as an agent of Her Majesty in that right.
-
-**Contracts**
-
-- **(2)** The Commission may, on behalf of Her Majesty in right of Canada, enter into contracts in the name of Her Majesty or in the name of the Commission.
+**29** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Organization and Operation of the Commission
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Head office**
-
-**30** 
-
-- **(1)** The head office of the Commission shall be in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or at such other place in Canada as may be designated by order of the Governor in Council.
-
-**Residence of commissioners**
-
-- **(2)** Each commissioner shall reside in the National Capital Region or at the place designated by the Governor in Council under subsection (1) or within reasonable commuting distance of that region or place.
+**30** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Staff**
-
-**31** 
-
-- **(1)** The officers and employees necessary for the proper conduct of the business of the Commission shall be employees of the Department of Human Resources Development.
-
-**Chief actuary**
-
-- **(1.1)** The employee or officer who holds the position of chief actuary shall be under the direction of the Commission in the performance of the chief actuary’s functions under section 65.3 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
-
-**Agents**
-
-- **(2)** The Commission may enter into contracts with agents in or for locations where the Commission considers it desirable to do so.
-
-**Delegation**
-
-- **(3)** The Commission may authorize any person or body, or member of a class of persons or bodies, to exercise powers or perform duties and functions of or delegated to the Commission and any such authorized person or body or class of persons or bodies may exercise specified powers or perform specified duties and functions.
-> 1996, c. 11, s. 31; 2005, c. 30, s. 127.
+**31** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-
-**Persons who have specialized knowledge**
-
-**31.1** Despite section 31, the Commission may, as it considers necessary for the purpose of assisting it in setting the premium rate under section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), contract for the services of persons who have specialized knowledge and may fix and pay the remuneration and expenses of those persons.
-> 2005, c. 30, s. 128.
-
+**31.1** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Audit
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Audit by Auditor General**
-
-**32** The accounts and financial transactions of the Commission and the Employment Insurance Account established by section 71 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) shall be audited annually for the previous fiscal year by the Auditor General of Canada and a report of the audit relating to that Account shall be made to the Minister.
-> 1996, c. 11, s. 32, c. 23, s. 189.
-
+**32** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 **PART III** 
 ## Assistance for Long-service Employees
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Assistance for long-service employees**
-
-**33** 
-
-- **(1)** The Minister may enter into agreements with provincial governments, employers, employer organizations, employees, employee organizations, financial institutions or such other persons or entities as the Minister considers appropriate, for the purpose of making provision for periodic income assistance payments to
-	- **(a)** former employees at an establishment whose employment has been terminated, at any time since December 31, 1987, by reason of a permanent reduction in the work force engaged in an identifiable economic activity at the establishment and who, at the time of the termination, were fifty-five years of age or older but less than sixty-five years of age; or
-	- **(b)** former employees at an establishment in an industry that was a designated industry on August 12, 1986 whose employment has been terminated, at any time since the industry ceased to be a designated industry, by reason of a permanent reduction in the work force engaged in an identifiable economic activity at the establishment and who, at the time of the termination, were fifty-five years of age or older but less than sixty-five years of age or, in the case of a reduction that took effect before October 6, 1988, were persons less than sixty-five years of age the sum of whose age and length of service in designated industries was not less than eighty years.
-
-**Definition of “designated industry”**
-
-- **(2)** In paragraph (1)(b), ***designated industry*** means an industry designated pursuant to section 3 of the [Labour Adjustment Benefits Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-1.md).
-
-**Persons under the age of fifty-five years**
-
-- **(3)** The Minister may enter into agreements referred to in subsection (1) that, notwithstanding that subsection, apply to former employees who are less than fifty-five years of age if the former employees
-	- **(a)** were fifty years of age or older on May 15, 1994; and
-	- **(b)** are former employees of fish plants whose employment has been terminated by reason of a permanent reduction in the work force at those plants because of a decline in fish stocks.
+**33** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 **PART III.1** 
 ## [repealed, 2004, c. 26, s. 19]
+> 
+
 
 
 **33.1** [Repealed, 2004, c. 26, s. 19]
@@ -536,361 +283,344 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **PART IV** 
 ## Transitional, Related and Conditional Amendments, Repeals and Coming into Force
+> [Repealed,  2005, c. 34, s. 84]
+
 
 
 
 ### Transitional Provisions
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Positions**
-
-**34** 
-
-- **(1)** Nothing in this Act shall be construed as affecting the status of an employee who, immediately before the coming into force of this subsection, occupied a position
-	- **(a)** in those portions of the public service of Canada in the Department of the Secretary of State of Canada referred to in clause (a)(i)(A) of Order in Council P.C. 1993-1488 of June 25, 1993, registered as SI/93-142, and known as the Student Assistance Branch, the Office of the Assistant Under-Secretary of State (Social Development and Regional Operations) other than the portion relating to translation and related services and other than the Native Citizens Directorate, and the Education Support Branch other than the Canadian Studies and Special Projects Directorate and other than the Youth Participation Directorate,
-	- **(b)** in those portions of the public service of Canada in the Department of National Health and Welfare referred to in clause (a)(i)(B) of Order in Council P.C. 1993-1488 of June 25, 1993, registered as SI/93-142, and known as the Income Security Programs Branch and the Social Service Programs Branch, other than
-		- **(i)** the New Horizons/Seniors Independence Programs, and
-		- **(ii)** the portions thereof referred to in Order in Council P.C. 1993-1667 of August 11, 1993, registered as SI/93-167, and known as the Family Violence Prevention Division, the Children’s Bureau and attendant Brighter Futures programs, the Community Action Program for Children, HIV/AIDS Research and Development and the Seniors Independence Research Program,
-	- **(c)** in the Canada Employment and Immigration Commission,
-	- **(d)** in the Department of Employment and Immigration, and
-	- **(e)** in the Department of Labour,
-except that the employee shall, on the coming into force of this subsection, occupy their position in the Department of Human Resources Development under the authority of the Deputy Minister of Human Resources Development.
-
-**Definition of “employee”**
-
-- **(2)** In this section, ***employee*** has the same meaning as in subsection 2(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+**34** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Transfer of appropriations**
-
-**35** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada within the Department of Employment and Immigration or the Canada Employment and Immigration Commission and that, on the day on which this Act comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Human Resources Development or the Canada Employment Insurance Commission, as the case may be.
+**35** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Transfer of powers, duties and functions**
-
-**36** 
-
-- **(1)** Wherever under any Act of Parliament, any instrument made under an Act of Parliament or any contract, lease, licence or other document, a power, duty or function is vested in or may be exercised or performed by any of the persons referred to in subsection (2) in relation to any matter to which the powers, duties and functions of the Minister of Human Resources Development extend by virtue of this Act, the power, duty or function is vested in or may be exercised or performed by the Minister of Human Resources Development, the Deputy Minister of Human Resources Development or the appropriate officer of the Department of Human Resources Development, as the case may be, unless the Governor in Council by order designates another minister, deputy minister or officer of the public service of Canada to exercise that power or perform that duty or function.
-
-**Persons**
-
-- **(2)** For the purpose of subsection (1), the persons are
-	- **(a)** the Minister of Employment and Immigration, the Minister of National Health and Welfare and the Secretary of State of Canada;
-	- **(b)** the Deputy Minister of Employment and Immigration, the Deputy Minister of National Health and Welfare and the Under-Secretary of State of Canada; and
-	- **(c)** any officer of the Department of Employment and Immigration, the Department of Labour, the Department of National Health and Welfare and the Department of the Secretary of State of Canada.
+**36** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Where no Minister of Labour**
-
-**37** 
-
-- **(1)** In the event that a Minister of Labour is not appointed pursuant to subsection 4(1), wherever, in any contract, lease, licence or other document a power, duty or function is vested in or may be exercised or performed by the Minister of Labour in relation to any matter to which the powers, duties and functions of the Minister of Human Resources Development extend by virtue of this Act, the power, duty or function is vested in or may be exercised or performed by the Minister of Human Resources Development, unless the Governor in Council by order designates another minister to exercise that power or perform that duty or function.
-
-**Where no Deputy Minister of Labour**
-
-- **(2)** In the event that no Deputy Minister of Labour is designated or appointed, wherever, under any Act of Parliament, any instrument made under an Act of Parliament or any contract, lease, licence or other document a power, duty or function is vested in or may be exercised or performed by the Deputy Minister of Labour in relation to any matter to which the powers, duties and functions of the Minister of Human Resources Development extend by virtue of this Act, the power, duty or function is vested in or may be exercised or performed by the Deputy Minister of Human Resources Development, unless the Governor in Council by order designates another deputy minister to exercise that power or perform that duty or function.
+**37** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Definitions**
-
-**38** In this section and sections 39 to 41,
-
-***former Commission*** means the Canada Employment and Immigration Commission established by section 9 of the Employment and Immigration Department and Commission Act, as that section read immediately before the coming into force of this section;
-
-***new Commission*** means the Canada Employment Insurance Commission continued by section 23.
+**38** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Commissioners**
-
-**39** Each person, other than the Chairperson and the Vice-Chairperson, who holds office as a commissioner of the former Commission immediately before the coming into force of this section shall continue in office as a commissioner of the new Commission for the remainder of the term for which the person was appointed.
+**39** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Rights and obligations transferred**
-
-**40** 
-
-- **(1)** All rights and property of Her Majesty in right of Canada that are under the administration and control of the former Commission and all obligations and liabilities of the former Commission are hereby transferred to the new Commission.
-
-**References**
-
-- **(2)** Every reference to the former Commission in a deed, contract or other document executed by the former Commission in its own name shall, unless the context otherwise requires, be read as a reference to the new Commission.
+**40** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Commencement of legal proceedings**
-
-**41** 
-
-- **(1)** Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the former Commission may be brought against the new Commission in any court that would have had jurisdiction if the action, suit or proceeding had been brought against the former Commission.
-
-**Continuation of legal proceedings**
-
-- **(2)** Any action, suit or other legal proceeding to which the former Commission is party pending in any court immediately before the day on which this section comes into force may, on that day, be continued by or against the new Commission in the like manner and to the same extent as it could have been continued by or against the former Commission.
+**41** [Repealed,  2005, c. 34, s. 84]
 
 
 
-
-**Members of the National Council of Welfare**
-
-**42** Each person who holds office as a member of the National Council of Welfare immediately before the coming into force of this section shall continue in office for the remainder of the term for which the person was appointed.
+**42** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Related Amendments
+> [Repealed,  2005, c. 34, s. 84]
+
 
 
 
 #### Access to Information Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**43 to 46** [Amendments]
+
+**43 to 46** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Budget Implementation Act, 1995
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**46.1** [Amendment]
+
+**46.1** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Canada Assistance Plan
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**47 and 48** [Amendments]
+
+**47 and 48** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Canada Pension Plan
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**49** [Amendments]
+
+**49** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Children’s Special Allowances Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**50** [Amendment]
+
+**50** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**51 to 53** [Amendments]
+
+**51 to 53** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Financial Administration Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**54 to 59** [Amendments]
+
+**54 to 59** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Hazardous Materials Information Review Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**60** [Amendment]
+
+**60** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Canadian Human Rights Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**61** [Amendment]
+
+**61** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Immigration Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**62** [Amendment]
+
+**62** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Income Tax Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**63** [Amendment]
+
+**63** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Labour Adjustment Benefits Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**64** [Amendments]
+
+**64** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Canada Labour Code
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**65 to 68** [Amendments]
+
+**65 to 68** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Municipal Grants Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**69 and 70** [Amendments]
+
+**69 and 70** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### National Training Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**71 to 75** [Amendments]
+
+**71 to 75** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Old Age Security Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**76** [Amendments]
+
+**76** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Privacy Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**77 to 80** [Amendments]
+
+**77 to 80** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Public Sector Compensation Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**81 to 83** [Amendments]
+
+**81 to 83** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Public Service Staff Relations Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**84** [Amendment]
+
+**84** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Public Service Superannuation Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**85 and 86** [Amendments]
+
+**85 and 86** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Salaries Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**87** [Amendments]
+
+**87** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Status of the Artist Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**88** [Amendment]
+
+**88** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### Unemployment Insurance Act
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**89 to 94** [Amendments]
+
+**89 to 94** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 #### References
-
-
-**95** [Amendments]
-
-
-
-**96** Every reference to the Minister of Employment and Immigration, the Minister of National Health and Welfare or the Secretary of State of Canada in any other Act of Parliament or in any order, regulation or other instrument made under an Act of Parliament shall be read as a reference to the Minister of Human Resources Development, unless the context otherwise requires or unless the relevant power, duty or function has been assigned to another Minister.
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**97** [Amendments]
+**95** [Repealed,  2005, c. 34, s. 84]
 
 
 
-**98** Every reference to the Department of Employment and Immigration, the Department of Labour, the Department of National Health and Welfare or the Department of the Secretary of State of Canada in any other Act of Parliament or in any order, regulation or other instrument made under an Act of Parliament shall be read as a reference to the Department of Human Resources Development, unless the context otherwise requires or unless the relevant power, duty or function has been assigned to a Minister other than the Minister of Human Resources Development.
+**96** [Repealed,  2005, c. 34, s. 84]
 
 
 
-**99** [Amendments]
+**97** [Repealed,  2005, c. 34, s. 84]
 
 
 
-**100** Every reference to the Canada Employment and Immigration Commission in any other Act of Parliament or in any order, regulation or other instrument made under an Act of Parliament shall, unless the context otherwise requires, be read as a reference to the Canada Employment Insurance Commission.
+**98** [Repealed,  2005, c. 34, s. 84]
+
+
+
+**99** [Repealed,  2005, c. 34, s. 84]
+
+
+
+**100** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Conditional Amendments
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**101 and 102** [Amendments]
+
+**101 and 102** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Repeals
+> [Repealed,  2005, c. 34, s. 84]
 
 
-**103 to 106** [Repeals]
+
+**103 to 106** [Repealed,  2005, c. 34, s. 84]
 
 
 
 
 ### Coming into Force
+> [Repealed,  2005, c. 34, s. 84]
 
 
 
-**Coming into force**
-
-***107** This Act or any provision of this Act or any provision of an Act enacted by this Act comes into force on a day or days to be fixed by order of the Governor in Council.
-
-<a name='H-5.8_en_1'><sup>*</sup></a>: [Note: Act, except section 32, subsection 49(2) and paragraph 101(a), in force July 12, 1996, *see* SI/96-70; section 32 in force May 1, 1997,* see* SI/97-56.]<br />
+**107** [Repealed,  2005, c. 34, s. 84]
 
 
