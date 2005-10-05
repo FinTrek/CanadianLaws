@@ -915,14 +915,14 @@ the justice may issue a warrant authorizing the enforcement officer to enter the
 		- **(iii)** ice breaking and ice management services, and
 		- **(iv)** channel maintenance;
 	- **(b)** the marine component of the federal search and rescue program;
-	- **(c)** pleasure craft safety, including the regulation of the construction, inspection, equipment and operation of pleasure craft;
-	- **(d)** marine pollution prevention and response; and
+	- **(c)** [Repealed, 2005, c. 29, s. 36]
+	- **(d)** marine pollution response; and
 	- **(e)** the support of departments, boards and agencies of the Government of Canada through the provision of ships, aircraft and other marine services.
 
 **Cost effective**
 
 - **(2)** The Minister shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost effective manner.
-> 1996, c. 31, s. 41; 1999, c. 31, s. 170(F).
+> 1996, c. 31, s. 41; 1999, c. 31, s. 170(F); 2005, c. 29, s. 36.
 
 
 
