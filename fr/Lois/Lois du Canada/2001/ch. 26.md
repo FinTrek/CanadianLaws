@@ -99,9 +99,9 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Règlements**
 
-**4** Le gouverneur en conseil peut :
-- **a)** par règlement pris sur recommandation du ministre des Transports et du ministre des Pêches et des Océans, prévoir des catégories de bâtiments pour l’application de la définition de « embarcation de plaisance » à l’article 2;
-- **b)** par règlement pris sur recommandation du ministre des Transports, prendre toute autre mesure réglementaire prévue à l’article 2.
+**4** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre des Transports, prendre toute mesure réglementaire prévue à l’article 2.
+> 2001, ch. 26, art. 4; 2005, ch. 29, art. 15.
+
 
 
 
@@ -309,12 +309,6 @@ French version only***conseiller*** Membre du Tribunal.
 **Actes du représentant autorisé**
 
 - **(5)** Le propriétaire d’un bâtiment canadien est lié par les faits — actes ou omissions — de son représentant autorisé à l’égard des questions visées au paragraphe (1).
-
-
-
-
-### Arbitres
-> [Abrogé, 2001, ch. 29, art. 72]
 
 
 
@@ -846,9 +840,9 @@ French version only***conseiller*** Membre du Tribunal.
 		- **(i)** les mettre en oeuvre à l’égard de personnes, de bâtiments ou d’installations de manutention d’hydrocarbures qu’ils ne visent pas,
 		- **(ii)** établir des normes plus sévères que celles qui y sont prévues,
 		- **(iii)** établir des normes supplémentaires ou complémentaires à celles qui y sont prévues dans le cas où il est convaincu qu’elles servent les objectifs de la convention, du protocole ou de la résolution;
-	- **e)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par la présente partie ou les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports);
-	- **f)** régir les avis prévus par la présente partie ou les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports);
-	- **g)** régir la fixation et le versement des droits exigibles à l’égard des services rendus dans le cadre de l’application de la présente partie ou des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports) ou des règlements pris en vertu de l’une de ces parties.
+	- **e)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
+	- **f)** régir les avis prévus par la présente partie et les parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et les règlements pris en vertu du paragraphe 136(1);
+	- **g)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application de la présente partie et des parties 2 (immatriculation, enregistrement et inscription), 3 (personnel), 4 (sécurité), 6 (incidents, accidents et sinistres), 7 (épaves) sauf l’article 163, 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) dans la mesure où le ministre des Transports est responsable de cette partie, 9 (prévention de la pollution — ministère des Transports), 10 (embarcations de plaisance) et 11 (contrôle d’application — ministère des Transports) et des règlements pris en vertu de l’une de ces parties ou du paragraphe 136(1).
 
 **Aéronefs**
 
@@ -857,14 +851,14 @@ French version only***conseiller*** Membre du Tribunal.
 **Règlements — ministre des Pêches et des Océans**
 
 - **(3)** Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre des Pêches et des Océans :
-	- **a)** mettre en oeuvre, en tout ou en partie, dans sa version éventuellement modifiée, une convention internationale, un protocole ou une résolution mentionnés à l’annexe 2, y compris :
-		- **(i)** les mettre en oeuvre à l’égard de personnes, de bâtiments ou d’installations de manutention d’hydrocarbures qu’ils ne visent pas,
+	- **a)** mettre en œuvre, en tout ou en partie, dans sa version éventuellement modifiée, une convention internationale, un protocole ou une résolution mentionnés à l’annexe 2, y compris :
+		- **(i)** les mettre en œuvre à l’égard de personnes ou de bâtiments qu’ils ne visent pas,
 		- **(ii)** établir des normes plus sévères que celles qui y sont prévues,
 		- **(iii)** établir des normes supplémentaires ou complémentaires à celles qui y sont prévues dans le cas où il est convaincu qu’elles servent les objectifs de la convention, du protocole ou de la résolution;
-	- **b)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par les parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance);
-	- **c)** régir les avis prévus par les parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance);
-	- **d)** régir la fixation et le versement des droits exigibles à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation), 7 (épaves), à l’exception de l’article 163, 8 (pollution : prévention et intervention — ministère des Pêches et des Océans) ou 10 (embarcations de plaisance) ou des règlements pris en vertu de l’une de ces parties.
-> 2001, ch. 26, art. 35, ch. 29, art. 72.
+	- **b)** régir la tenue et la conservation des documents, la gestion de l’information et la présentation des rapports prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
+	- **c)** régir les avis prévus par les parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties;
+	- **d)** régir la fixation et le versement des droits à payer à l’égard des services rendus dans le cadre de l’application des parties 5 (services de navigation) et 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), dans la mesure où le ministre des Pêches et des Océans est responsable de ces parties, et des règlements pris en vertu du paragraphe 136(2).
+> 2001, ch. 26, art. 35, ch. 29, art. 72; 2005, ch. 29, art. 16.
 
 
 
@@ -2168,11 +2162,13 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-**Droit de monter à bord**
+**Interdiction de monter à bord**
 
-**116** Sous réserve des articles 135 (pouvoir de monter à bord d’un bâtiment), 175 (pouvoirs de l’agent chargé de la prévention de la pollution), 196 et 198 (inspection — embarcation de plaisance), 200 (pouvoir de monter à bord d’un bâtiment), 211 (visite de l’inspecteur) et de toute autre loi fédérale, nul ne peut monter à bord d’un bâtiment ou en débarquer — ou tenter de monter à bord d’un bâtiment ou d’en débarquer — , selon le cas :
+**116** Sous réserve des articles 135 (pouvoir de monter à bord d’un bâtiment), 175.1 (pouvoirs généraux de l’agent d’intervention environnementale), 196 et 198 (inspection — embarcations de plaisance), 200 (pouvoir de monter à bord d’un bâtiment) et 211 (visite de l’inspecteur) et de toute autre loi fédérale, nul ne peut monter à bord d’un bâtiment ou en débarquer — ou tenter de monter à bord d’un bâtiment ou d’en débarquer —, selon le cas :
 - **a)** à l’encontre des ordres du capitaine ou de la personne chargée de l’embarquement ou du débarquement des passagers ou sans son autorisation;
 - **b)** en l’absence de moyens d’embarquement ou de débarquement sécuritaires ou en cas d’obstruction de tels moyens.
+> 2001, ch. 26, art. 116; 2005, ch. 29, art. 17.
+
 
 
 
@@ -2527,25 +2523,29 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-**Règlements — ministre**
+**Règlements — ministre des Transports**
 
 **136** 
 
-- **(1)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre :
+- **(1)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre des Transports :
 	- **a)** créer des zones STM à l’intérieur des eaux canadiennes ou d’une zone de contrôle de la sécurité de la navigation désignée sous le régime de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md);
-	- **b)** prévoir les renseignements que doivent fournir les bâtiments qui se trouvent à l’intérieur des zones STM ou sont sur le point d’entrer dans ces zones ou d’en sortir, et les formalités et la procédure qu’ils doivent suivre;
-	- **c)** prévoir les modalités de délivrance de l’autorisation visée à l’article 126;
+	- **b)** prévoir les renseignements que doivent fournir les bâtiments qui se trouvent à l’intérieur des zones STM ou sont sur le point d’y entrer ou d’en sortir, et les formalités et la procédure qu’ils doivent suivre;
+	- **c)** prévoir les cas dans lesquels l’autorisation visée à l’article 126 est donnée;
 	- **d)** définir, pour l’application de la présente partie, l’expression ***sur le point d’entrer***;
 	- **e)** régir les aides à la navigation dans les eaux canadiennes;
-	- **f)** régir la gestion et la maîtrise de l’île de Sable;
+	- **f)** dans l’intérêt public et afin d’assurer la sécurité et l’efficacité de la navigation ou de protéger l’environnement, réglementer ou interdire la navigation, le mouillage et l’amarrage des bâtiments;
 	- **g)** régir la sécurité des personnes sur les eaux canadiennes pour les activités ou événements sportifs, récréatifs ou publics;
-	- **h)** nommer des personnes, individuellement ou par catégories, chargées de l’application des règlements pris en vertu des alinéas f) ou g) et prévoir leurs attributions;
-	- **i)** régir les activités de recherche et de sauvetage maritimes;
-	- **j)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+	- **h)** nommer des personnes, individuellement ou par catégories, chargées de l’application des règlements pris en vertu de l’un des alinéas b) et e) à g) et prévoir leurs attributions;
+	- **i)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
 
-**Règlements — ministre et ministre des Transports**
+**Règlements — ministre**
 
-- **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre et du ministre des Transports, dans l’intérêt public et afin d’assurer la sécurité et l’efficacité de la navigation ou de protéger l’environnement, réglementer ou interdire la navigation, le mouillage et l’amarrage des bâtiments.
+- **(2)** Le gouverneur en conseil peut par règlement, sur recommandation du ministre :
+	- **a)** régir la gestion et la maîtrise de l’île de Sable;
+	- **b)** nommer des personnes, individuellement ou par catégories, chargées de l’application des règlements pris en vertu de l’alinéa a) et prévoir leurs attributions;
+	- **c)** régir les activités de recherche et de sauvetage maritimes.
+> 2001, ch. 26, art. 136; 2005, ch. 29, art. 18.
+
 
 
 
@@ -2861,11 +2861,13 @@ French version only***conseiller*** Membre du Tribunal.
 
 **153** Les définitions qui suivent s’appliquent à la présente partie.
 
-***épave*** Sont compris parmi les épaves :
+***épave*** Sont compris parmi les épaves :
 - **a)** les épaves rejetées, flottantes, attachées à une bouée ou abandonnées ainsi que tous les objets qui se sont détachés d’un bâtiment naufragé, échoué ou en détresse ou qui se trouvaient à son bord;
-- **b)** les aéronefs naufragés dans des eaux et tous les objets qui se sont détachés d’un aéronef naufragé, échoué ou en détresse dans des eaux ou qui se trouvaient à son bord.
+- **b)** les aéronefs naufragés dans des eaux et tous les objets qui se sont détachés d’un aéronef naufragé, échoué ou en détresse dans des eaux ou qui se trouvaient à son bord. (*wreck*)
 
-***ministre*** Le ministre des Pêches et des Océans.
+***ministre*** Le ministre des Transports. (*Minister*)
+> 2001, ch. 26, art. 153; 2005, ch. 29, art. 19.
+
 
 
 
@@ -3052,7 +3054,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 **PARTIE 8** 
-## Pollution : prévention et intervention — ministère des Pêches et des Océans
+## Pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans
 
 
 
@@ -3070,7 +3072,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 ***hydrocarbures*** Le pétrole sous toutes ses formes, notamment le pétrole brut, le fioul, les boues, les résidus d’hydrocarbures et les produits raffinés.
 
-***ministre*** Le ministre des Pêches et des Océans.
+***ministre*** Le ministre des Transports.
 
 ***organisme d’intervention*** Toute personne qualifiée agréée par le ministre en vertu du paragraphe 169(1).
 
@@ -3079,6 +3081,8 @@ French version only***conseiller*** Membre du Tribunal.
 - **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains.
 
 ***rejet*** Rejet d’un polluant depuis un bâtiment, ou d’hydrocarbures depuis une installation de manutention d’hydrocarbures engagée dans des opérations de chargement ou de déchargement d’un bâtiment, qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
+> 2001, ch. 26, art. 165; 2005, ch. 29, art. 21.
+
 
 
 
@@ -3114,7 +3118,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 - **(1)** Sous réserve du paragraphe (2), tout bâtiment réglementaire ou appartenant à une catégorie réglementaire est tenu, à la fois :
 	- **a)** de conclure une entente avec un organisme d’intervention à l’égard, d’une part, d’une quantité d’hydrocarbures, celle-ci devant être au moins égale à la totalité des hydrocarbures qu’il a à bord en tant que cargaison et combustible, dans la limite maximale réglementaire, et, d’autre part, des eaux où il navigue ou exerce une activité maritime;
-	- **b)** d’avoir à son bord une déclaration, en la forme établie par le ministre des Transports :
+	- **b)** d’avoir à son bord une déclaration, en la forme établie par le ministre :
 		- **(i)** énonçant les nom et adresse de son assureur ou, si le bâtiment fait l’objet d’une police d’assurance collective, de l’apériteur qui l’assure contre la pollution,
 		- **(ii)** confirmant la conclusion de l’entente,
 		- **(iii)** identifiant toute personne qui est autorisée à mettre l’entente à exécution.
@@ -3130,6 +3134,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Publication**
 
 - **(4)** Chacune des dispenses fait l’objet d’un avis dans la Gazette du Canada.
+> 2001, ch. 26, art. 167; 2005, ch. 29, art. 22.
+
 
 
 
@@ -3290,15 +3296,15 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-### Agents chargés de la prévention de la pollution
+### Agents chargés de la prévention de la pollution et agents d’intervention environnementale
 
 
 
-**Désignation**
+**Désignation des agents chargés de la prévention de la pollution**
 
 **174** 
 
-- **(1)** Le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — à titre d’agent chargé de la prévention de la pollution relativement aux bâtiments, aux installations de manutention d’hydrocarbures, aux organismes d’intervention et aux mesures prises à l’égard de rejets réels ou éventuels; il peut restreindre, de la façon qu’il estime indiquée, les pouvoirs qu’un tel agent est autorisé à exercer sous le régime de la présente partie.
+- **(1)** Le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — à titre d’agent chargé de la prévention de la pollution relativement aux installations de manutention d’hydrocarbures et aux organismes d’intervention; il peut restreindre, de la façon qu’il estime indiquée, les pouvoirs qu’un tel agent est autorisé à exercer sous le régime de la présente partie.
 
 **Certificat de désignation**
 
@@ -3307,65 +3313,99 @@ French version only***conseiller*** Membre du Tribunal.
 **Immunité**
 
 - **(3)** Les agents chargés de la prévention de la pollution sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi aux termes de la présente partie.
+> 2001, ch. 26, art. 174; 2005, ch. 29, art. 23.
 
 
 
 
-**Pouvoirs généraux**
 
-**175** 
+**Désignation des agents d’intervention environnementale**
 
-- **(1)** L’agent chargé de la prévention de la pollution peut :
-	- **a)** ordonner à un bâtiment, s’il approche des eaux dans lesquelles la présente partie s’applique ou s’y trouve déjà, de lui fournir tout renseignement qu’il estime utile pour l’application de la présente partie;
-	- **b)** ordonner au bâtiment qui approche des eaux dans lesquelles la présente partie s’applique, ou qui s’y trouve déjà, dans les cas où il a des motifs raisonnables de croire que le bâtiment transporte un polluant, de traverser ces eaux, sans dépasser la vitesse maximale qu’il fixe, par la route qu’il spécifie;
-	- **c)** ordonner à un bâtiment tenu d’avoir un plan d’urgence de bord contre la pollution par les hydrocarbures au titre des règlements de lui fournir tout renseignement relatif à celui-ci et à sa mise à exécution;
+**174.1** 
+
+- **(1)** Le ministre des Pêches et des Océans peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — à titre d’agent d’intervention environnementale relativement aux mesures prises à l’égard de rejets réels ou éventuels; il peut restreindre, de la façon qu’il estime indiquée, les pouvoirs qu’un tel agent est autorisé à exercer sous le régime de la présente partie.
+
+**Certificat de désignation**
+
+- **(2)** Le ministre des Pêches et des Océans remet à chaque agent d’intervention environnementale un certificat attestant sa qualité; l’agent dont les pouvoirs sont restreints au titre du paragraphe (1) reçoit un certificat où sont énumérés ceux qu’il est autorisé à exercer.
+
+**Immunité**
+
+- **(3)** Les agents d’intervention environnementale sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi aux termes de la présente partie.
+> 2005, ch. 29, art. 23.
+
+
+
+
+
+**Pouvoirs de l’agent chargé de la prévention de la pollution**
+
+**175** L’agent chargé de la prévention de la pollution peut :
+- **a)** ordonner à l’exploitant d’une installation de manutention d’hydrocarbures de lui présenter tout document que celui-ci est tenu d’avoir sur les lieux aux termes de la présente partie;
+- **b)** ordonner à l’organisme d’intervention de lui présenter tout document que celui-ci est tenu d’avoir aux termes de la présente partie;
+- **c)** inspecter toute installation de manutention d’hydrocarbures en vue de déterminer si l’équipement et les ressources de celle-ci respectent les exigences de la présente partie;
+- **d)** inspecter les installations de tout organisme d’intervention en vue de déterminer si l’équipement et les ressources respectent les exigences de la présente partie.
+> 2001, ch. 26, art. 175; 2005, ch. 29, art. 23.
+
+
+
+
+
+**Pouvoirs généraux de l’agent d’intervention environnementale**
+
+**175.1** 
+
+- **(1)** L’agent d’intervention environnementale peut :
+	- **a)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà de lui fournir tout renseignement qu’il estime utile pour l’application de la présente partie;
+	- **b)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà, dans les cas où il a des motifs raisonnables de croire que le bâtiment transporte un polluant, de traverser ces eaux, sans dépasser la vitesse maximale qu’il fixe, par la route qu’il spécifie;
+	- **c)** ordonner au bâtiment tenu d’avoir un plan d’urgence de bord contre la pollution par les hydrocarbures au titre des règlements de lui fournir tout renseignement relatif à celui-ci et à sa mise à exécution;
 	- **d)** ordonner à l’exploitant d’une installation de manutention d’hydrocarbures de lui présenter tout document que celui-ci est tenu d’avoir sur les lieux aux termes de la présente partie;
-	- **e)** ordonner à l’organisme d’intervention de lui présenter tout document que celui-ci est tenu d’avoir aux termes de la présente partie;
-	- **f)** inspecter toute installation de manutention d’hydrocarbures en vue de déterminer si l’équipement et les ressources de celle-ci respectent les exigences de la présente partie;
-	- **g)** inspecter les installations d’un organisme d’intervention en vue de déterminer si l’équipement et les ressources respectent les exigences de la présente partie.
+	- **e)** ordonner à l’organisme d’intervention de lui présenter tout document que celui-ci est tenu d’avoir aux termes de la présente partie.
 
 **Pouvoirs en cas de rejet de polluants**
 
-- **(2)** Dans le cas où il a des motifs raisonnables de croire qu’un bâtiment pourrait rejeter ou pourrait avoir rejeté un polluant, l’agent chargé de la prévention de la pollution peut :
-	- **a)** ordonner à un bâtiment qui approche des eaux dans lesquelles s’applique la présente partie, ou s’y trouve déjà, de traverser ces eaux, sans dépasser la vitesse maximale qu’il fixe, par la route qu’il spécifie;
+- **(2)** Dans le cas où il a des motifs raisonnables de croire qu’un bâtiment pourrait rejeter ou avoir rejeté un polluant, l’agent d’intervention environnementale peut :
+	- **a)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà de traverser ces eaux sans dépasser la vitesse maximale qu’il fixe, par la route qu’il spécifie;
 	- **b)** monter à bord du bâtiment et y prélever des échantillons de toute substance qu’il croit être le polluant;
-	- **c)** ordonner au bâtiment, s’il approche des eaux dans lesquelles la présente partie s’applique ou s’il s’y trouve déjà :
-		- **(i)** de se diriger vers le lieu qu’il précise à l’intérieur de ces eaux, par la route et de la manière qu’il précise et de s’amarrer à quai, de mouiller ou de rester à cet endroit pour la période raisonnable qu’il indique,
+	- **c)** ordonner au bâtiment qui est sur le point d’entrer dans les eaux auxquelles la présente partie s’applique ou qui s’y trouve déjà :
+		- **(i)** de se diriger vers le lieu qu’il spécifie à l’intérieur de ces eaux, par la route et de la manière qu’il précise et de s’amarrer à quai, de mouiller ou de rester à cet endroit pour la période raisonnable qu’il spécifie,
 		- **(ii)** de quitter ces eaux par la route et de la manière qu’il lui indique,
 		- **(iii)** de rester à l’extérieur de ces eaux;
-	- **d)** lorsqu’il apprend qu’une quantité importante d’un polluant a pénétré ou a été rejetée dans des eaux dans lesquelles s’applique la présente partie ou s’il a des motifs raisonnables de croire à l’existence d’un risque sérieux et imminent de rejet important d’un polluant dans ces eaux, déclarer une zone d’urgence, d’une étendue proportionnelle à la gravité de la situation, et ordonner :
-		- **(i)** aux bâtiments qui se trouvent dans cette zone de lui signaler leur position,
-		- **(ii)** à tout bâtiment de s’abstenir d’entrer dans cette zone ou d’en sortir,
-		- **(iii)** aux bâtiments qui se trouvent dans cette zone de se conformer à des exigences concernant les routes, les limites de vitesse, le pilotage et l’équipement.
+	- **d)** lorsqu’il apprend qu’une quantité importante d’un polluant a pénétré ou a été rejetée dans des eaux auxquelles la présente partie s’applique ou s’il a des motifs raisonnables de croire à l’existence d’un risque sérieux et imminent de rejet important d’un polluant dans ces eaux, déclarer une zone d’urgence, d’une étendue proportionnelle à la gravité de la situation, et prendre les mesures suivantes :
+		- **(i)** ordonner aux bâtiments qui se trouvent dans cette zone de lui signaler leur position,
+		- **(ii)** ordonner à tout bâtiment de s’abstenir d’entrer dans cette zone ou d’en sortir,
+		- **(iii)** donner aux bâtiments qui se trouvent dans cette zone des directives concernant les routes, les limites de vitesse, le pilotage et l’équipement.
 
 **Sort des échantillons**
 
-- **(3)** L’agent qui, en vertu de l’alinéa (2)b), prend un échantillon peut ensuite en disposer de la façon qu’il estime indiquée ou le remettre, pour analyse ou examen, à la personne désignée par le ministre des Transports en vertu du paragraphe 221(1).
+- **(3)** L’agent qui, en vertu de l’alinéa (2)b), prélève un échantillon peut ensuite en disposer de la façon qu’il estime indiquée ou le remettre, pour analyse ou examen, à la personne désignée par le ministre.
 
 **Certificat ou rapport**
 
-- **(4)** La personne désignée peut, après analyse ou examen, délivrer un certificat ou produire un rapport où sont donnés ses résultats.
+- **(4)** La personne désignée peut, après analyse ou examen, délivrer un certificat ou produire un rapport des résultats.
 
-**Certificat de l’analyste**
+**Certificat**
 
-- **(5)** Sous réserve des paragraphes (6) et (7), le certificat ou rapport est admissible en preuve dans les procédures engagées pour contravention à la présente partie et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+- **(5)** Sous réserve des paragraphes (6) et (7), le certificat ou le rapport est admissible en preuve dans les procédures engagées pour contravention à la présente partie et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 
-**Présence de l’analyste**
+**Présence**
 
-- **(6)** La partie contre laquelle est produit le certificat ou rapport peut, avec l’autorisation du tribunal, exiger la présence de la personne désignée pour contre-interrogatoire.
+- **(6)** La partie contre laquelle est produit le certificat ou le rapport peut, avec l’autorisation du tribunal, exiger la présence de la personne désignée pour contre-interrogatoire.
 
 **Avis**
 
-- **(7)** Le certificat ou rapport n’est recevable en preuve que si la partie qui entend le produire donne de son intention à la partie qu’elle vise un préavis suffisant, accompagné d’un double du certificat ou rapport.
+- **(7)** Le certificat ou le rapport n’est recevable en preuve que si la partie qui entend le produire donne de son intention à la partie qu’elle vise un préavis suffisant, accompagné d’un double du certificat ou du rapport.
+> 2005, ch. 29, art. 23.
 
 
 
 
-**Pouvoirs de l’agent**
+
+**Pouvoirs des agents**
 
 **176** 
 
-- **(1)** Dans le cadre de l’exercice des attributions qui lui sont confiées sous le régime de la présente partie, l’agent chargé de la prévention de la pollution peut :
+- **(1)** Dans le cadre de l’exercice des attributions qui leur sont respectivement confiées sous le régime de la présente partie, l’agent chargé de la prévention de la pollution et l’agent d’intervention environnementale peuvent :
 	- **a)** procéder, à toute heure convenable, à la visite de tous lieux — y compris un bâtiment;
 	- **b)** ordonner à quiconque de lui prêter toute l’assistance possible, de mettre des machines en marche ou de les arrêter ou de faire fonctionner ou de cesser de faire fonctionner l’équipement;
 	- **c)** ordonner à quiconque de lui fournir les renseignements qu’il peut valablement exiger dans le cadre de l’application de la présente partie;
@@ -3392,7 +3432,9 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Restitution des documents et autres objets**
 
-- **(5)** Les documents ou autres objets obtenus ou emportés en vertu de l’alinéa (1)h) sont restitués dès qu’ils ne sont plus nécessaires pour l’inspection ou pour les procédures qui en découlent.
+- **(5)** Les documents ou autres objets obtenus ou emportés en vertu de l’alinéa (1) h) sont restitués dès qu’ils ne sont plus nécessaires pour l’inspection ou pour les procédures qui en découlent.
+> 2001, ch. 26, art. 176; 2005, ch. 29, art. 24.
+
 
 
 
@@ -3405,7 +3447,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 **177** 
 
-- **(1)** S’il a des motifs raisonnables de croire qu’il y a eu infraction, par un bâtiment ou à son égard, à la présente partie, l’agent chargé de la prévention de la pollution peut en ordonner la détention.
+- **(1)** S’il a des motifs raisonnables de croire qu’il y a eu infraction, par un bâtiment ou à son égard, à la présente partie, l’agent d’intervention environnementale peut ordonner la détention du bâtiment.
 
 **Ordonnance écrite**
 
@@ -3421,7 +3463,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 - **(4)** L’avis énonce :
 	- **a)** les mesures à prendre pour assurer la conformité à la présente partie et faire annuler l’ordonnance;
-	- **b)** si un acte d’accusation a été présenté à l’égard de l’infraction, le montant et la nature de la caution qui doit être remise au ministre — jusqu’au règlement de l’affaire liée à l’acte d’accusation — pour faire annuler l’ordonnance.
+	- **b)** si un acte d’accusation a été présenté à l’égard de l’infraction, le montant et la nature de la caution qui doit être remise au ministre des Pêches et des Océans — jusqu’au règlement de l’affaire liée à l’acte d’accusation — pour faire annuler l’ordonnance.
 
 **Notification à l’État étranger**
 
@@ -3429,7 +3471,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Annulation de l’ordonnance de détention**
 
-- **(6)** L’agent chargé de la prévention de la pollution annule l’ordonnance de détention prévue au présent article s’il est convaincu que les mesures énoncées dans l’avis visé au paragraphe (4) ont été prises et, s’il y a lieu, que la caution visée dans l’avis a été remise au ministre; le cas échéant, il en avise, selon les modalités que le ministre fixe, les personnes à qui l’ordonnance de détention est adressée.
+- **(6)** L’agent d’intervention environnementale annule l’ordonnance de détention prévue au présent article s’il est convaincu que les mesures énoncées dans l’avis visé au paragraphe (4) ont été prises et, s’il y a lieu, que la caution visée dans l’avis a été remise au ministre des Pêches et des Océans; le cas échéant, il en avise, selon les modalités que ce ministre fixe, les personnes à qui l’ordonnance de détention est adressée.
 
 **Obligation des personnes qui ont le pouvoir de délivrer un congé**
 
@@ -3445,9 +3487,11 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Restitution du cautionnement**
 
-- **(10)** Le ministre, une fois l’affaire réglée :
+- **(10)** Le ministre des Pêches et des Océans, une fois l’affaire réglée :
 	- **a)** peut utiliser le cautionnement pour rembourser, en tout ou en partie, à Sa Majesté du chef du Canada les frais qu’il a engagés pour la détention du bâtiment ainsi que l’amende infligée;
 	- **b)** restitue le cautionnement ou, si celui-ci a été utilisé au titre de l’alinéa a), tout éventuel reliquat lorsque les frais et l’amende ont été payés.
+> 2001, ch. 26, art. 177; 2005, ch. 29, art. 25.
+
 
 
 
@@ -3461,11 +3505,13 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Autorisation — déplacement du bâtiment détenu**
 
-**179** Le ministre peut :
+**179** Le ministre des Pêches et des Océans peut :
 - **a)** à la demande du représentant autorisé d’un bâtiment détenu ou, s’il n’y a pas de représentant autorisé, à la demande du propriétaire, permettre au capitaine de déplacer le bâtiment;
 - **b)** à la demande du propriétaire du quai — ou de la personne responsable du havre — où un bâtiment se trouve détenu, ordonner à la personne qui a ou semble avoir la responsabilité du bâtiment de le déplacer;
-- **c)** si la personne n’obtempère pas à l’ordre visé à l’alinéa b) et s’il est convaincu que le demandeur a contracté une assurance suffisante pour absorber le coût de tout incident susceptible de résulter du déplacement, autoriser le demandeur, aux frais du représentant autorisé ou s’il n’y a pas de représentant autorisé, aux frais du propriétaire, à effectuer le déplacement.
-Le ministre fixe les modalités de présentation de la demande de déplacement et donne à l’égard de celui-ci les instructions qu’il estime indiquées.
+- **c)** si la personne n’obtempère pas à l’ordre visé à l’alinéa b) et s’il est convaincu que le demandeur a contracté une assurance suffisante pour absorber le coût de tout incident susceptible de résulter du déplacement, autoriser le demandeur, aux frais du représentant autorisé ou, s’il n’y a pas de représentant autorisé, aux frais du propriétaire, à effectuer le déplacement.
+Ce ministre fixe les modalités de présentation de la demande de déplacement et donne à l’égard de celui-ci les instructions qu’il estime indiquées.
+> 2001, ch. 26, art. 179; 2005, ch. 29, art. 26.
+
 
 
 
@@ -3478,18 +3524,20 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **180** 
 
-- **(1)** Le ministre peut, s’il a des motifs raisonnables de croire qu’un bâtiment ou une installation de manutention d’hydrocarbures a rejeté, rejette ou risque de rejeter un polluant :
+- **(1)** Le ministre des Pêches et des Océans peut, s’il a des motifs raisonnables de croire qu’un bâtiment ou une installation de manutention d’hydrocarbures a rejeté, rejette ou risque de rejeter un polluant :
 	- **a)** prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, voire enlever ou détruire le bâtiment et son contenu, et disposer du bâtiment et de son contenu;
 	- **b)** surveiller l’application de toute mesure prise par toute personne en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
 	- **c)** dans le cas où il l’estime nécessaire, ordonner à toute personne ou à tout bâtiment de prendre les mesures visées à l’alinéa a) ou de s’abstenir de les prendre.
 
 **Affectation du produit de la disposition**
 
-- **(2)** Le produit de la disposition d’un bâtiment ou de son contenu effectuée en vertu de l’alinéa (1)a) est affecté aux frais engagés par la prise de mesures que vise cet alinéa; le surplus est remis au propriétaire du bâtiment ou du contenu, selon le cas.
+- **(2)** Le produit de la disposition d’un bâtiment ou de son contenu effectuée en vertu de l’alinéa (1) a) est affecté aux frais engagés par la prise de mesures que vise cet alinéa; le surplus est remis au propriétaire du bâtiment ou du contenu, selon le cas.
 
 **Indemnité**
 
-- **(3)** Sa Majesté du chef du Canada indemnise les personnes et les bâtiments qui obéissent aux ordres donnés en vertu de l’alinéa (1)c), à l’exception des exploitants d’installations de manutention d’hydrocarbures et des bâtiments qui avaient rejeté, rejetaient ou risquaient de rejeter le polluant.
+- **(3)** Sa Majesté du chef du Canada indemnise les personnes et les bâtiments qui obéissent aux ordres donnés en vertu de l’alinéa (1) c), à l’exception des exploitants d’installations de manutention d’hydrocarbures et des bâtiments qui avaient rejeté, rejetaient ou risquaient de rejeter le polluant.
+> 2001, ch. 26, art. 180; 2005, ch. 29, art. 27.
+
 
 
 
@@ -3547,7 +3595,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 	- **e)** à l’alinéa 168(3)b) (prise de mesures raisonnables pour mettre à exécution le plan d’urgence);
 	- **f)** à l’alinéa 171b) (obligation d’avoir l’équipement et les ressources prévus par les règlements à l’endroit précisé);
 	- **g)** à l’alinéa 171e) (mise à exécution du plan d’intervention);
-	- **h)** à un ordre donné en vertu de l’un des alinéas 175(2)a), c) ou d) (ordre en cas de rejet ou de risque de rejet de polluants);
+	- **h)** à un ordre donné en vertu de l’un des alinéas 175.1(2)a), c) et d) (ordre en cas de rejet ou de risque de rejet de polluants);
 	- **i)** au paragraphe 177(7) (délivrance d’un congé à un bâtiment détenu);
 	- **j)** au paragraphe 177(8) (déplacement d’un bâtiment détenu);
 	- **k)** à l’article 178 (faire volontairement obstacle à la signification d’un avis);
@@ -3556,6 +3604,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
+> 2001, ch. 26, art. 183; 2005, ch. 29, art. 28.
+
 
 
 
@@ -3605,11 +3655,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 ***ministre*** Le ministre des Transports.
 
-***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la partie 8 (pollution : prévention et intervention — ministère des Pêches et des Océans), les hydrocarbures et notamment les substances suivantes :
+***polluant*** Les substances désignées par règlement, nommément ou par catégorie, comme polluantes pour l’application de la partie 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans), les hydrocarbures et notamment les substances suivantes : 
 - **a)** celles qui, ajoutées à l’eau, produiraient, directement ou non, une dégradation ou altération de la qualité de celle-ci de nature à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains;
 - **b)** l’eau qui contient une substance en quantité ou concentration telle — ou qui a été chauffée ou traitée ou transformée depuis son état naturel de façon telle — que son addition à l’eau produirait, directement ou non, une dégradation ou altération de la qualité de cette eau de façon à nuire à son utilisation par les êtres humains ou par les animaux ou les plantes utiles aux êtres humains.
 
 ***rejet*** Rejet d’un polluant qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
+> 2001, ch. 26, art. 185; 2005, ch. 29, art. 29.
+
 
 
 
@@ -3661,11 +3713,14 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **189** Dans le cas où il a des motifs raisonnables de croire qu’un bâtiment pourrait rejeter ou pourrait avoir rejeté un polluant précisé par les règlements, le ministre peut :
 - **a)** ordonner à un bâtiment, s’il approche des eaux dans lesquelles la présente partie s’applique ou s’y trouve déjà, de lui fournir tout renseignement qu’il estime utile pour l’application de la présente partie;
+- **a.1)** ordonner à un bâtiment tenu d’avoir un plan d’urgence de bord contre la pollution par les hydrocarbures au titre des règlements de lui fournir tout renseignement relatif à celui-ci et à sa mise à exécution;
 - **b)** ordonner à un bâtiment tenu d’avoir à bord la déclaration visée à l’alinéa 167(1)b) de lui fournir tout renseignement relatif à celle-ci;
 - **c)** lorsqu’un bâtiment approche des eaux dans lesquelles s’applique la présente partie, ou s’y trouve déjà, lui ordonner de suivre, de la façon qu’il prévoit, la route qu’il spécifie;
 - **d)** ordonner au bâtiment de se rendre, de la façon et par la route qu’il spécifie, à l’endroit qu’il précise et, selon le cas :
 	- **(i)** d’y décharger le polluant,
 	- **(ii)** de s’y amarrer à quai, de mouiller ou de rester à cet endroit pour la période raisonnable qu’il indique.
+> 2001, ch. 26, art. 189; 2005, ch. 29, art. 30.
+
 
 
 
@@ -3780,13 +3835,15 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **a)** Les membres de la Gendarmerie royale du Canada;
 - **b)** les membres d’une force de police portuaire ou fluviale;
 - **c)** les membres des forces de police provinciales, de comté ou municipale;
-- **d)** les personnes désignées par le ministre, individuellement ou au titre de leur appartenance à une catégorie, en vertu du paragraphe 196(1).
+- **d)** les personnes désignées par le ministre, individuellement ou au titre de leur appartenance à une catégorie, en vertu du paragraphe 196(1). (*enforcement officer*)
 
-***inspecteur*** Inspecteur des embarcations de plaisance désigné en vertu du paragraphe 195(1).
+***inspecteur*** Inspecteur des embarcations de plaisance désigné en vertu du paragraphe 195(1). (*inspector*)
 
-***ministre*** Le ministre des Pêches et des Océans.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***permis*** Permis délivré à l’égard d’une embarcation de plaisance sous le régime de la présente partie.
+***permis*** Permis délivré à l’égard d’une embarcation de plaisance sous le régime de la présente partie. (*licence*)
+> 2001, ch. 26, art. 194; 2005, ch. 29, art. 31.
+
 
 
 
@@ -4055,9 +4112,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **210** Les définitions qui suivent s’appliquent à la présente partie.
 
-***disposition visée*** Toute disposition de la présente loi ou des règlements dont le ministre est chargé de l’application, à l’exception des règlements pris sous le régime du paragraphe 136(2), dans la mesure où ceux-ci s’appliquent aux embarcations de plaisance qui ne sont pas des bâtiments canadiens ou des bâtiments étrangers.
+***disposition visée*** Toute disposition de la présente loi ou des règlements dont le ministre est chargé de l’application, à l’exception :
+- **a)** du paragraphe 40(1) à l’égard de toute disposition d’un règlement pris en vertu de l’alinéa 35(1)e) relativement à l’une des parties 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) et 10 (embarcations de plaisance);
+- **b)** des dispositions des parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) et 10 (embarcations de plaisance) et de celles des règlements pris en vertu de ces parties, sauf les dispositions des règlements pris sous le régime de l’alinéa 136(1)f) dans la mesure où elles s’appliquent aux bâtiments canadiens ou aux bâtiments étrangers.
 
 ***ministre*** Le ministre des Transports.
+> 2001, ch. 26, art. 210; 2005, ch. 29, art. 32.
+
 
 
 
@@ -4922,11 +4983,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **252** 
 
-- **(1)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord — à l’exception de l’agent chargé de la prévention de la pollution et de toute personne effectuant une inspection en application de la présente loi — , que cette personne soit identifiée ou non.
+- **(1)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord — à l’exception de l’agent chargé de la prévention de la pollution, de l’agent d’intervention environnementale et de toute personne effectuant une inspection en application de la présente loi —, que cette personne soit identifiée ou non.
 
 **Preuve des ordres**
 
 - **(2)** Dans le cas de poursuites pour omission de se conformer à un ordre donné en vertu de la présente loi, est présumé avoir été donné au bâtiment l’ordre donné au capitaine, à un membre de l’équipage ou à toute personne qui a ou semble avoir la responsabilité du bâtiment.
+> 2001, ch. 26, art. 252; 2005, ch. 29, art. 33.
+
 
 
 
