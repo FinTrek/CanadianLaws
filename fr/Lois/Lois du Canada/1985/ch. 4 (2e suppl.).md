@@ -39,7 +39,7 @@
 ***autorité provinciale*** Administration, organisme ou service désignés dans un accord conclu avec une province au titre de l’article 3 et habilités par les lois de cette province à exécuter les dispositions familiales.
 
 ***directeur de fichier***
-- **a)** Le ministre du Développement des ressources humaines pour les fichiers régis par le ministère du même nom et susceptibles d’être consultés au titre de la présente partie;
+- **a)** Le ministre du Développement social pour les fichiers régis par le ministère du même nom et susceptibles d’être consultés au titre de la présente partie;
 - **b)** le président de la Commission de l’assurance-emploi du Canada pour les fichiers régis par la Commission du même nom et susceptibles d’être consultés au titre de la présente partie;
 - **c)** le ministre du Revenu national pour les fichiers régis par l’Agence des douanes et du revenu du Canada et susceptibles d’être consultés au titre de la présente partie.
 
@@ -58,7 +58,7 @@
 ***ordonnance*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire, de garde ou d’accès, exécutoire dans une province.
 
 ***tribunal*** Juridiction compétente pour faire exécuter les dispositions familiales.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158; 2005, ch. 35, art. 66 et 67.
 
 
 
@@ -91,12 +91,12 @@
 
 
 
-**Accord — Régime général de pensions**
+**Accord — régime général de pensions**
 
-**6** Le ministre du Développement des ressources humaines peut, avec l’approbation du gouverneur en conseil, conclure, au nom du gouvernement fédéral, un accord avec une province instituant un régime général de pensions, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), en vue d’être autorisé par celle-ci :
-- **a)** à établir, pour l’application de la présente loi, un fichier, qui sera régi par le ministère du Développement des ressources humaines, concernant les cotisants à ce régime ou les bénéficiaires de celui-ci;
-- **b)** à communiquer, au titre de la présente partie, des renseignements contenus dans le fichier visé à l’alinéa a) ou dans tout autre fichier régi par le ministère du Développement des ressources humaines concernant les cotisants à ce régime ou les bénéficiaires de celui-ci.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 6; 1996, ch. 11, art. 95 et 97.
+**6** Le ministre du Développement social peut, avec l’approbation du gouverneur en conseil, conclure, au nom du gouvernement fédéral, un accord avec une province instituant un régime général de pensions, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), en vue d’être autorisé par celle-ci :
+- **a)** à établir, pour l’application de la présente loi, un fichier, qui sera régi par le ministère du Développement social, concernant les cotisants à ce régime ou les bénéficiaires de celui-ci;
+- **b)** à communiquer, au titre de la présente partie, des renseignements contenus dans le fichier visé à l’alinéa a) ou dans tout autre fichier régi par le ministère du Développement social concernant les cotisants à ce régime ou les bénéficiaires de celui-ci.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 6; 1996, ch. 11, art. 95 et 97; 2005, ch. 35, art. 53.
 
 
 
@@ -229,8 +229,8 @@
 
 **Fichiers visés**
 
-**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère du Développement des ressources humaines, par le ministère du Revenu national et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F).
+**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère du Développement social, par le ministère du Revenu national et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F); 2005, ch. 35, art. 66.
 
 
 
