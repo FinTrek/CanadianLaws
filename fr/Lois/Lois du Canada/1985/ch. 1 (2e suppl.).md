@@ -4194,7 +4194,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 		- **(i)** soit de Sa Majesté du chef du Canada,
 		- **(ii)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province en vertu de laquelle le Canada est autorisé à percevoir les impôts ou taxes pour le compte de la province;
 	- **h)** à un avocat, au sens du paragraphe 84(4) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), conformément aux exigences énoncées au paragraphe 84(3) de cette loi et sous réserve du paragraphe 84(3.1) de la même loi, la mention dans ces dispositions de « les renseignements auxquels ce paragraphe s’applique » et de « renseignements » valant mention de « renseignements douaniers »;
-	- **i)** à un fonctionnaire du ministère du Développement des ressources humaines, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
+	- **i)** à un fonctionnaire du ministère des Ressources humaines et du Développement des compétences, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
 	- **j)** à un fonctionnaire du ministère de la Citoyenneté et de l’Immigration, uniquement pour l’application ou l’exécution de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), lorsque le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
 	- **k)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, uniquement pour l’application ou l’exécution de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 	- **l)** à quiconque, uniquement en vue de déterminer sa réclamation, sa responsabilité ou ses obligations en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), notamment sa réclamation relativement à un remboursement, un drawback ou un abattement en vertu de ces lois;
@@ -4252,7 +4252,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79.
 
 
 
