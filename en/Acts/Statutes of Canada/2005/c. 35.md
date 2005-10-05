@@ -166,7 +166,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Members deemed to be in the public service**
 
-- **(2)** The members of the Council are deemed to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of their duties under this Act.
+- **(2)** The members of the Council are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made pursuant to section 9 of the  [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) while in the course of their duties under this Act.
+> 2005, c. 35, ss. 10, 68(E).
+
 
 
 
@@ -213,7 +215,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Presumption**
 
-- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the public service of Canada.
+- **(2)** No person employed or retained pursuant to subsection (1) shall, by virtue only of being so employed or retained, be considered to be employed in the federal public administration.
+> 2005, c. 35, ss. 15, 68(E).
+
 
 
 
@@ -508,14 +512,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Transfer of powers, duties and functions**
 
-**40** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of Human Resources Development, the Deputy Minister or an employee of the Department of Human Resources Development, the Minister to be styled Minister of Social Development or the Deputy Minister to be styled Deputy Minister of Social Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Social Development, Deputy Minister or employee of the Department of Social Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister or officer of the public service of Canada to exercise that power or perform that duty or function.
+**40** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of Human Resources Development, the Deputy Minister or an employee of the Department of Human Resources Development, the Minister to be styled Minister of Social Development or the Deputy Minister to be styled Deputy Minister of Social Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Social Development, Deputy Minister or employee of the Department of Social Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister or officer of the federal public administration to exercise that power or perform that duty or function.
+> 2005, c. 35, ss. 40, 68(E).
+
 
 
 
 
 **Transfer of appropriations**
 
-**41** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada within the Department of Human Resources Development (Social Development) and that, on the day on which this section comes into force, is unexpended, is deemed to be an amount appropriated for defraying the charges and expenses of the Department of Social Development.
+**41** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the Department of Human Resources Development (Social Development) and that, on the day on which this section comes into force, is unexpended, is deemed to be an amount appropriated for defraying the charges and expenses of the Department of Social Development.
+> 2005, c. 35, ss. 41, 68(E).
+
 
 
 
@@ -688,6 +696,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#S-11.3_e_s.70'>[*]</a></sup>**70** This Act, other than section 68, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same day as that fixed under section 85 of the Department of Human Resources and Skills Development Act.
 
-<a name='S-11.3_e_s.70'><sup>*</sup></a>: [Note: Section 68 in force on assent July 20, 2005.]<br />
+<a name='S-11.3_e_s.70'><sup>*</sup></a>: [Note: Section 68 in force on assent July 20, 2005; Act, other than section 68, in force October 5, 2005, *see* SI/2005-97.]<br />
 
 
