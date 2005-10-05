@@ -885,21 +885,21 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **41** 
 
-- **(1)** Le ministre étant responsable des services de garde côtière, ses pouvoirs et fonctions s’étendent d’une façon générale à tous les domaines de compétence du Parlement non attribués de droit à d’autres ministères ou organismes fédéraux concernant :
-	- **a)** les services destinés à assurer la sécurité, la rentabilité et l’efficacité du déplacement des navires dans les eaux canadiennes par la fourniture :
+- **(1)** Le ministre étant responsable des services de garde côtière, ses pouvoirs et fonctions s’étendent d’une façon générale à tous les domaines de compétence du Parlement non attribués de droit à d’autres ministères ou organismes fédéraux concernant :
+	- **a)** les services destinés à assurer la sécurité, la rentabilité et l’efficacité du déplacement des navires dans les eaux canadiennes par la fourniture :
 		- **(i)** de systèmes et de services d’aide à la navigation,
 		- **(ii)** de services de communication maritime et de gestion du trafic maritime,
 		- **(iii)** de services de brise-glace et de surveillance des glaces,
 		- **(iv)** de services d’entretien des chenaux;
 	- **b)** le volet maritime du programme fédéral de recherche et de sauvetage;
-	- **c)** la sécurité de la navigation de plaisance, y compris la réglementation de la construction, de l’inspection, de l’équipement et du fonctionnement des embarcations de plaisance;
-	- **d)** la prévention de la pollution marine et l’intervention environnementale;
+	- **c)** [Abrogé, 2005, ch. 29, art. 36]
+	- **d)** l’intervention environnementale en milieu marin;
 	- **e)** les services de navigation maritime et aérienne et les autres services maritimes fournis aux ministères et organismes fédéraux.
 
 **Obligation du ministre**
 
 - **(2)** Le ministre devra s’assurer que les services mentionnés aux sous-alinéas (1)a)(i) à (iv) sont dispensés de la manière la plus économique et la plus judicieuse possible.
-> 1996, ch. 31, art. 41; 1999, ch. 31, art. 170(F).
+> 1996, ch. 31, art. 41; 1999, ch. 31, art. 170(F); 2005, ch. 29, art. 36.
 
 
 
