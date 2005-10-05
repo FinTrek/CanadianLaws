@@ -64,7 +64,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre provincial*** Le ministre de qui relève au premier chef l’administration de l’enseignement postsecondaire de la province.
 
-***ministres*** Le ministre du Développement des ressources humaines et le ministre des Finances.
+***ministres*** Le ministre des Ressources humaines et du Développement des compétences et le ministre des Finances.
 
 ***président*** Le président du conseil, nommé conformément à l’alinéa 8(2)a).
 
@@ -75,6 +75,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Établissement d’enseignement postsecondaire public**
 
 - **(2)** Pour l’application de la présente partie, un établissement d’enseignement au niveau postsecondaire est considéré comme étant public si la fondation est d’avis que la majeure partie de son financement provient d’un gouvernement provincial.
+> 1998, ch. 21, art. 2; 2005, ch. 34, art. 80.
+
 
 
 
@@ -677,7 +679,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Diffusion du rapport**
 
-- **(2)** Une fois approuvé, le rapport est rendu public et transmis officiellement aux ministres et aux ministres provinciaux. Le ministre du Développement des ressources humaines en fait déposer un exemplaire devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+- **(2)** Une fois approuvé, le rapport est rendu public et transmis officiellement aux ministres et aux ministres provinciaux. Le ministre des Ressources humaines et du Développement des compétences en fait déposer un exemplaire devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 1998, ch. 21, art. 38; 2005, ch. 34, art. 80.
+
 
 
 
