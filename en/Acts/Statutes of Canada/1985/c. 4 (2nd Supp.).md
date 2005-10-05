@@ -45,7 +45,7 @@
 ***family provision*** means a support provision, a custody provision or an access right;
 
 ***information bank director*** means
-- **(a)** with respect to any of the information banks controlled by the Department of Human Resources Development that may be searched under this Part, the Minister of Human Resources Development,
+- **(a)** with respect to any of the information banks controlled by the Department of   Social Development that may be searched under this Part, the Minister of Social Development,
 - **(b)** with respect to any of the information banks controlled by the Canada Employment Insurance Commission that may be searched under this Part, the Chairman of the Canada Employment Insurance Commission, and
 - **(c)** with respect to any of the information banks controlled by the Canada Customs and Revenue Agency that may be searched under this Part, the Minister of National Revenue;
 
@@ -58,7 +58,7 @@
 ***provincial information bank*** means a source of information designated in an agreement made under section 3;
 
 ***support provision*** means a provision of an order or agreement for maintenance, alimony or family financial support and includes any order for arrears of payments thereof.
-> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158.
+> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158; 2005, c. 35, ss. 66, 67.
 
 
 
@@ -93,10 +93,10 @@
 
 **Agreements regarding comprehensive pension plans**
 
-**6** With the approval of the Governor in Council, the Minister of Human Resources Development may, on behalf of the Government of Canada, enter into an agreement with each province providing a comprehensive pension plan, as defined under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for the purpose of obtaining the approval of that province for
-- **(a)** the creation, for the purposes of this Act, of an information bank to be controlled by the Department of Human Resources Development in respect of contributors to and beneficiaries under that comprehensive pension plan; and
-- **(b)** the release of information under this Part from the information bank referred to in paragraph (a) and from any other information bank controlled by the Department of Human Resources Development that contains information in respect of contributors to and beneficiaries under that comprehensive pension plan.
-> R.S., 1985, c. 4 (2nd Supp.), s. 6; 1996, c. 11, ss. 95, 97.
+**6** With the approval of the Governor in Council, the Minister of Social Development may, on behalf of the Government of Canada, enter into an agreement with each province providing a comprehensive pension plan, as defined under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for the purpose of obtaining the approval of that province for
+- **(a)** the creation, for the purposes of this Act, of an information bank to be controlled by the Department of Social Development in respect of contributors to and beneficiaries under that comprehensive pension plan; and
+- **(b)** the release of information under this Part from the information bank referred to in paragraph (a) and from any other information bank controlled by the Department of Social Development that contains information in respect of contributors to and beneficiaries under that comprehensive pension plan.
+> R.S., 1985, c. 4 (2nd Supp.), s. 6; 1996, c. 11, ss. 95, 97; 2005, c. 35, s. 53.
 
 
 
@@ -231,8 +231,8 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 **Information banks that may be searched**
 
-**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Human Resources Development, the Department of National Revenue and the Canada Employment Insurance Commission.
-> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F).
+**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Social Development, the Department of National Revenue and the Canada Employment Insurance Commission.
+> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F); 2005, c. 35, s. 66.
 
 
 
