@@ -37,11 +37,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence de développement économique du Canada pour les régions du Québec constituée par l’article 8.
+***Agence*** L’Agence de développement économique du Canada pour les régions du Québec constituée par l’article 8. (*Agency*)
 
-***entreprise*** S’entend notamment de toute entreprise d’économie sociale.
+***entreprise*** S’entend notamment de toute entreprise d’économie sociale. (*enterprise*)
 
-***ministre*** Le ministre de l’Agence de développement économique du Canada pour les régions du Québec.
+***ministre*** Le ministre de l’Agence de développement économique du Canada pour les régions du Québec. (*Minister*)
 
 
 
@@ -317,9 +317,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***ancienne agence*** Le secteur de l’administration publique fédérale appelé Agence de développement économique du Canada pour les régions du Québec.
+***ancienne agence*** Le secteur de l’administration publique fédérale appelé Agence de développement économique du Canada pour les régions du Québec. (*former agency*)
 
-***nouvelle agence*** L’Agence de développement économique du Canada pour les régions du Québec constituée par l’article 8.
+***nouvelle agence*** L’Agence de développement économique du Canada pour les régions du Québec constituée par l’article 8. (*new agency*)
 
 **Président**
 
@@ -353,6 +353,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Administrateur général**
 
 - **(8)** La désignation de toute personne à titre d’administrateur général de l’ancienne agence dans tout décret pris au titre de la définition de administrateur général, au paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), vaut désignation du président de la nouvelle agence à titre d’administrateur général de celle-ci.
+> 2005, ch. 26, art. 18 et 27(A).
+
 
 
 
@@ -429,6 +431,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#E-1.3_f_s28'>[*]</a></sup>**28** Les dispositions de la présente loi, à l’exception de l’article 27, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='E-1.3_f_s28'><sup>*</sup></a>: [Note : Article 27 en vigueur à la sanction le 23 juin 2005.]<br />
+<a name='E-1.3_f_s28'><sup>*</sup></a>: [Note : Article 27 en vigueur à la sanction le 23 juin 2005; loi, à l’exception de l’article 27, en vigueur le 5 octobre 2005, *voir* TR/2005-101.]<br />
 
 
