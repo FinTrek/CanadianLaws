@@ -99,9 +99,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Regulations**
 
-**4** The Governor in Council may
-- **(a)** on the recommendation of the Minister of Transport and the Minister of Fisheries and Oceans, make regulations prescribing classes of vessels for the purpose of the definition “pleasure craft” in section 2; and
-- **(b)** on the recommendation of the Minister of Transport, make regulations prescribing anything else that may be prescribed under section 2.
+**4** The Governor in Council may, on the recommendation of the Minister of Transport, make regulations prescribing anything that may be prescribed under section 2.
+> 2001, c. 26, s. 4; 2005, c. 29, s. 15.
+
 
 
 
@@ -309,12 +309,6 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Acts or omissions of authorized representative binding**
 
 - **(5)** The owner of a Canadian vessel is bound by the acts or omissions of their authorized representative with respect to the matters referred to in subsection (1).
-
-
-
-
-### Adjudicators
-> [Repealed, 2001, c. 29, s. 72]
 
 
 
@@ -853,9 +847,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 		- **(i)** implementing it in respect of persons, vessels or oil handling facilities to which it does not apply,
 		- **(ii)** establishing stricter standards than it sets out, or
 		- **(iii)** establishing additional or complementary standards to those it sets out if the Governor in Council is satisfied that the additional or complementary standards meet the objectives of the convention, protocol or resolution;
-	- **(e)** respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing or Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport);
-	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing or Recording), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport); and
-	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing or Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts.
+	- **(e)** respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
+	- **(f)** respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1); and
+	- **(g)** respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck) other than section 163, 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1).
 
 **Aircraft**
 
@@ -865,13 +859,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 - **(3)** The Governor in Council may, on the recommendation of the Minister of Fisheries and Oceans, make regulations
 	- **(a)** implementing, in whole or in part, an international convention, protocol or resolution that is listed in Schedule 2, as amended from time to time, including regulations
-		- **(i)** implementing it in respect of persons, vessels or oil handling facilities to which it does not apply,
+		- **(i)** implementing it in respect of persons or vessels to which it does not apply,
 		- **(ii)** establishing stricter standards than it sets out, or
 		- **(iii)** establishing additional or complementary standards to those it sets out if the Governor in Council is satisfied that the additional or complementary standards meet the objectives of the convention, protocol or resolution;
-	- **(b)** respecting record keeping, information management and reporting for the purposes of Part 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft);
-	- **(c)** respecting the form and manner of giving notice under Part 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft); and
-	- **(d)** respecting the setting and payment of fees for services provided in the administration of Part 5 (Navigation Services), 7 (Wreck), other than section 163, 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) or 10 (Pleasure Craft) or the regulations made under any of those Parts.
-> 2001, c. 26, s. 35, c. 29, s. 72.
+	- **(b)** respecting record keeping, information management and reporting for the purposes of Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts;
+	- **(c)** respecting the form and manner of giving notice under Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts; and
+	- **(d)** respecting the setting and payment of fees for services provided in the administration of
+		- **(i)** Part 5 (Navigation Services) or 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans), to the extent that the Minister of Fisheries and Oceans is responsible for those Parts, or
+		- **(ii)** regulations made under subsection 136(2).
+> 2001, c. 26, s. 35, c. 29, s. 72; 2005, c. 29, s. 16.
 
 
 
@@ -2177,9 +2173,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **When boarding a vessel prohibited**
 
-**116** Subject to sections 135 (stopping and boarding a vessel), 175 (pollution prevention officers’ powers), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one
+**116** Subject to sections 135 (stopping and boarding a vessel), 175.1 (powers of pollution response officers — general), 196 and 198 (pleasure craft inspections), 200 (stopping and boarding a vessel) and 211 (inspections) and to any other Act of Parliament, no person shall go or attempt to go on board a vessel or to leave or attempt to leave one
 - **(a)** without the permission or against the orders of the master or the person in charge of embarkation or disembarkation; or
 - **(b)** if there is no safe means of embarkation or disembarkation or every such means has been blocked.
+> 2001, c. 26, s. 116; 2005, c. 29, s. 17.
+
 
 
 
@@ -2535,25 +2533,29 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 
-**Regulations — Minister**
+**Regulations — Minister of Transport**
 
 **136** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations
+- **(1)** The Governor in Council may, on the recommendation of the Minister of Transport, make regulations
 	- **(a)** establishing VTS Zones within Canadian waters or in a shipping safety control zone prescribed under the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md);
 	- **(b)** respecting the information to be provided and the procedures and practices to be followed by vessels that are about to enter, leave or proceed within a VTS Zone;
 	- **(c)** respecting the conditions under which a clearance under section 126 is to be granted;
 	- **(d)** defining the expression ***about to enter*** for the purpose of this Part;
 	- **(e)** respecting aids to navigation in Canadian waters;
-	- **(f)** respecting the administration and control of Sable Island;
+	- **(f)** regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment;
 	- **(g)** respecting the safety of persons on Canadian waters for the purposes of sporting, recreational or public events or activities;
-	- **(h)** specifying classes of persons, or appointing persons, to ensure compliance with regulations made under paragraph (f) or (g) and specifying their powers and duties;
-	- **(i)** respecting maritime search and rescue; and
-	- **(j)** prescribing anything that may be prescribed under this Part.
+	- **(h)** specifying classes of persons, or appointing persons, to ensure compliance with regulations made under any of paragraphs (b) and (e) to (g) and specifying their powers and duties; and
+	- **(i)** prescribing anything that may be prescribed under this Part.
 
-**Regulations — Minister and Minister of Transport**
+**Regulations — Minister**
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister and the Minister of Transport, make regulations regulating or prohibiting the navigation, anchoring, mooring or berthing of vessels for the purposes of promoting the safe and efficient navigation of vessels and protecting the public interest and the environment.
+- **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations
+	- **(a)** respecting the administration and control of Sable Island;
+	- **(b)** specifying classes of persons, or appointing persons, to ensure compliance with regulations made under paragraph (a) and specifying their powers and duties; and
+	- **(c)** respecting maritime search and rescue.
+> 2001, c. 26, s. 136; 2005, c. 29, s. 18.
+
 
 
 
@@ -2871,11 +2873,13 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 **153** The definitions in this section apply in this Part.
 
-***Minister*** means the Minister of Fisheries and Oceans.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***wreck*** includes
+***wreck*** includes
 - **(a)** jetsam, flotsam, lagan and derelict and any other thing that was part of or was on a vessel wrecked, stranded or in distress; and
-- **(b)** aircraft wrecked in waters and anything that was part of or was on an aircraft wrecked, stranded or in distress in waters.
+- **(b)** aircraft wrecked in waters and anything that was part of or was on an aircraft wrecked, stranded or in distress in waters. (*épave*)
+> 2001, c. 26, s. 153; 2005, c. 29, s. 19.
+
 
 
 
@@ -3066,7 +3070,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 
 **PART 8** 
-## Pollution Prevention and Response — Department of Fisheries and Oceans
+## Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans
 
 
 
@@ -3080,7 +3084,7 @@ the vessel may, subject to subsection (6), nevertheless proceed on its route.
 
 ***discharge*** means a discharge of a pollutant from a vessel, or a discharge of oil from an oil handling facility engaged in loading to or unloading from a vessel, that directly or indirectly results in the pollutant entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
 
-***Minister*** means the Minister of Fisheries and Oceans.
+***Minister*** means the Minister of Transport.
 
 ***oil*** means petroleum in any form, including crude oil, fuel oil, sludge, oil refuse and refined products.
 
@@ -3095,6 +3099,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 ***pollution damage***, in relation to a vessel or an oil handling facility, means loss or damage outside the vessel or oil handling facility caused by contamination resulting from a discharge from the vessel or facility.
 
 ***response organization*** means a qualified person to whom the Minister issues a certificate of designation under subsection 169(1).
+> 2001, c. 26, s. 165; 2005, c. 29, s. 21.
+
 
 
 
@@ -3130,7 +3136,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(1)** Subject to subsection (2), every prescribed vessel or vessel of a prescribed class shall
 	- **(a)** have an arrangement with a response organization in respect of a quantity of oil that is at least equal to the total amount of oil that the vessel carries, both as cargo and as fuel, to a prescribed maximum quantity, and in respect of waters where the vessel navigates or engages in a marine activity; and
-	- **(b)** have on board a declaration, in the form specified by the Minister of Transport, that
+	- **(b)** have on board a declaration, in the form specified by the Minister, that
 		- **(i)** identifies the name and address of the vessel’s insurer or, in the case of a subscription policy, the name and address of the lead insurer who provides pollution insurance coverage in respect of the vessel,
 		- **(ii)** confirms that the arrangement has been made, and
 		- **(iii)** identifies every person who is authorized to implement the arrangement.
@@ -3146,6 +3152,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Publication**
 
 - **(4)** Notice of every exemption must be published in the Canada Gazette.
+> 2001, c. 26, s. 167; 2005, c. 29, s. 22.
+
 
 
 
@@ -3306,15 +3314,15 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-### Pollution Prevention Officers
+### Pollution Prevention Officers and Pollution Response Officers
 
 
 
-**Designation**
+**Designation of pollution prevention officers**
 
 **174** 
 
-- **(1)** The Minister may designate any persons or classes of persons as pollution prevention officers in respect of vessels, oil handling facilities, response organizations or responses to discharges or threats of discharges, and may limit in any manner the Minister considers appropriate the powers that the officer may exercise under this Part.
+- **(1)** The Minister may designate any persons or classes of persons as pollution prevention officers in respect of oil handling facilities and response organizations and may limit in any manner that he or she considers appropriate the powers that the officers may exercise under this Part.
 
 **Certificate of designation**
 
@@ -3323,40 +3331,72 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Immunity**
 
 - **(3)** Pollution prevention officers are not personally liable for anything they do or omit to do in good faith under this Part.
+> 2001, c. 26, s. 174; 2005, c. 29, s. 23.
 
 
 
 
-**Powers — general**
 
-**175** 
+**Designation of pollution response officer**
 
-- **(1)** A pollution prevention officer may
-	- **(a)** direct a vessel, if it is about to enter or is within waters in respect of which this Part applies, to provide the officer with any information that the officer considers appropriate for the administration of this Part;
-	- **(b)** direct any vessel that is within or about to enter waters in respect of which this Part applies and that the officer believes on reasonable grounds is carrying a pollutant to proceed through those waters by the route, and at a speed not in excess of the speed, that the officer may specify;
+**174.1** 
+
+- **(1)** The Minister of Fisheries and Oceans may designate any persons or classes of persons as pollution response officers in respect of discharges or threats of discharges and may limit in any manner that he or she considers appropriate the powers that the officers may exercise under this Part.
+
+**Certificate of designation**
+
+- **(2)** The Minister of Fisheries and Oceans must furnish every pollution response officer with a certificate of designation and, if the officer’s powers are limited under subsection (1), the certificate must specify the powers that the officer may exercise.
+
+**Immunity**
+
+- **(3)** Pollution response officers are not personally liable for anything they do or omit to do in good faith under this Part.
+> 2005, c. 29, s. 23.
+
+
+
+
+
+**Powers of pollution prevention officers**
+
+**175** A pollution prevention officer may
+- **(a)** direct the operator of an oil handling facility to provide him or her with any document that the operator is required to have on site under this Part;
+- **(b)** direct a response organization to provide him or her with any document that the organization is required to have under this Part;
+- **(c)** inspect an oil handling facility to determine whether its equipment and resources meet the requirements of this Part; and
+- **(d)** inspect a response organization’s facilities to determine whether the organization’s equipment and resources meet the requirements of this Part.
+> 2001, c. 26, s. 175; 2005, c. 29, s. 23.
+
+
+
+
+
+**Powers of pollution response officers — general**
+
+**175.1** 
+
+- **(1)** A pollution response officer may
+	- **(a)** direct a vessel, if it is about to enter or is within waters in respect of which this Part applies, to provide him or her with any information that he or she considers appropriate for the administration of this Part;
+	- **(b)** direct any vessel that is within or about to enter waters in respect of which this Part applies and that he or she believes on reasonable grounds to be carrying a pollutant to proceed through those waters by the route, and at a speed not in excess of the speed, that he or she may specify;
 	- **(c)** direct a vessel that is required to have a shipboard oil pollution emergency plan under the regulations to provide information concerning it and its implementation;
-	- **(d)** direct the operator of an oil handling facility to provide any document that the operator is required under this Part to have on site;
-	- **(e)** direct a response organization to provide any document that the organization is required under this Part to have;
-	- **(f)** inspect an oil handling facility to determine whether its equipment and resources meet the requirements of this Part; and
-	- **(g)** inspect the equipment and resources of a response organization to determine whether its equipment and resources meet the requirements of this Part.
+	- **(d)** direct the operator of an oil handling facility to provide any document that the operator is required to have on site under this Part; and
+	- **(e)** direct a response organization to provide any document that the organization is required to have under this Part.
 
 **Powers — discharge of pollutant**
 
-- **(2)** If the pollution prevention officer believes on reasonable grounds that a vessel may discharge, or may have discharged, a pollutant, the officer may
-	- **(a)** direct a vessel that is within or about to enter waters in respect of which this Part applies to proceed through those waters by the route, and at a speed not in excess of the speed, that the officer may specify;
-	- **(b)** go on board and take samples of any substance that the officer believes may be the pollutant;
+- **(2)** If the pollution response officer believes on reasonable grounds that a vessel might discharge, or might have discharged, a pollutant, he or she may
+	- **(a)** direct a vessel that is within or about to enter waters in respect of which this Part applies to proceed through those waters by the route, and at a speed not in excess of the speed, that he or she may specify;
+	- **(b)** go on board and take samples of any substance that he or she believes to be the pollutant;
 	- **(c)** if the vessel is within or about to enter waters in respect of which this Part applies, direct the vessel to
-		- **(i)** proceed to the place within waters in respect of which this Part applies that the officer may select, by the route and in the manner that the officer may direct, and to moor, anchor or remain there for any reasonable period that the officer may specify,
-		- **(ii)** proceed out of waters in respect of which this Part applies by the route and in the manner that the officer may direct, or
+		- **(i)** proceed to the place within waters in respect of which this Part applies that he or she may specify, by the route and in the manner that he or she may specify, and to moor, anchor or remain there for any reasonable period that he or she may specify,
+		- **(ii)** proceed out of waters in respect of which this Part applies, by the route and in the manner that he or she may specify, or
 		- **(iii)** remain outside waters in respect of which this Part applies; and
-	- **(d)** if the officer is informed that a substantial quantity of a pollutant has entered or been discharged in waters in respect of which this Part applies, or if on reasonable grounds the officer is satisfied that a grave and imminent danger of a substantial discharge of a pollutant in those waters exists, declare an emergency zone, of an area that is reasonable with regard to the seriousness of the situation, and
-		- **(i)** direct any vessel within that emergency zone to report its position to the officer,
+	- **(d)** if he or she is informed that a substantial quantity of a pollutant has entered or been discharged in waters in respect of which this Part applies, or if on reasonable grounds he or she is satisfied that a grave and imminent danger of a substantial discharge of a pollutant in those waters exists, declare an emergency zone, the size of which is reasonable with regard to the seriousness of the situation, and
+		- **(i)** direct any vessel within that emergency zone to report its position to him or her,
 		- **(ii)** direct any vessel not to enter or not to leave the emergency zone, and
 		- **(iii)** direct any vessel within the emergency zone in respect of routes, speed limits and pilotage and equipment requirements.
 
 **Disposition of samples**
 
-- **(3)** An officer who takes a sample under paragraph (2)(b) may dispose of it in any manner that they consider appropriate or may submit it for analysis or examination to a person designated by the Minister of Transport under subsection 221(1).
+- **(3)** An officer who takes a sample under paragraph (2)(b) may dispose of it in any manner that he or she considers appropriate or may submit it for analysis or examination to a person designated by the Minister.
 
 **Certificate or report**
 
@@ -3366,13 +3406,15 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(5)** Subject to subsections (6) and (7), the certificate or report is admissible in evidence in any proceeding related to an offence under this Part and, in the absence of any evidence to the contrary, is proof of the statements contained in the certificate or report without proof of the signature or the official character of the person appearing to have signed it.
 
-**Attendance of analyst**
+**Attendance of person**
 
 - **(6)** The party against whom the certificate or report is produced may, with leave of the court, require for the purposes of cross-examination the attendance of the person who issued it.
 
 **Notice**
 
 - **(7)** The certificate or report may be admitted in evidence only if the party who intends to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate or report.
+> 2005, c. 29, s. 23.
+
 
 
 
@@ -3381,7 +3423,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **176** 
 
-- **(1)** For the purpose of exercising their powers under this Part, a pollution prevention officer may
+- **(1)** For the purpose of exercising his or her powers under this Part, a pollution prevention officer or a pollution response officer may
 	- **(a)** board any vessel or enter any premises or other place at any reasonable time;
 	- **(b)** direct any person to provide reasonable assistance or put into operation or cease operating any machinery or equipment;
 	- **(c)** direct any person to provide any information that the officer may reasonably require in the administration of this Part;
@@ -3398,7 +3440,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Authority to issue warrant**
 
-- **(3)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing a pollution prevention officer to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
+- **(3)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing a pollution prevention officer or a pollution response officer to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
 	- **(a)** is necessary for any purpose related to the carrying out of the officer’s powers under this Part; and
 	- **(b)** has been refused or there are reasonable grounds for believing that it will be refused.
 
@@ -3409,6 +3451,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Return of documents and things**
 
 - **(5)** Documents or other things taken under paragraph (1)(h) must be returned as soon as feasible after they are no longer required for the inspection or for any proceedings that may result from it.
+> 2001, c. 26, s. 176; 2005, c. 29, s. 24.
+
 
 
 
@@ -3421,7 +3465,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **177** 
 
-- **(1)** If a pollution prevention officer believes on reasonable grounds that an offence under this Part has been committed by or in respect of a vessel, the officer may make a detention order in respect of the vessel.
+- **(1)** If a pollution response officer believes on reasonable grounds that an offence under this Part has been committed by or in respect of a vessel, he or she may make a detention order in respect of the vessel.
 
 **Order to be in writing**
 
@@ -3437,7 +3481,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(4)** The notice must
 	- **(a)** indicate the measures to ensure compliance with this Part that must be taken for the detention order to be rescinded; and
-	- **(b)** if an indictment has been preferred in respect of the offence, indicate the amount and form of security that, pending the outcome of any proceedings related to the indictment, must be deposited with the Minister for the detention order to be rescinded.
+	- **(b)** if an indictment has been preferred in respect of the offence, indicate the amount and form of security that, pending the outcome of any proceedings related to the indictment, must be deposited with the Minister of Fisheries and Oceans for the detention order to be rescinded.
 
 **Foreign state to be notified**
 
@@ -3445,9 +3489,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Rescission of orders**
 
-- **(6)** A pollution prevention officer must
-	- **(a)** rescind a detention order made under this section if the officer is satisfied that the measures indicated in the notice referred to in subsection (4) have been taken and, if applicable, security in the amount and form indicated in the notice referred to in that subsection has been deposited with the Minister; and
-	- **(b)** notify, in the form and manner specified by the Minister, the master and the persons referred to in subsection (2) of the rescission.
+- **(6)** A pollution response officer must
+	- **(a)** rescind a detention order made under this section if he or she is satisfied that the measures indicated in the notice referred to in subsection (4) have been taken and, if applicable, security in the amount and form indicated in the notice referred to in that subsection has been deposited with the Minister of Fisheries and Oceans; and
+	- **(b)** notify, in the form and manner specified by the Minister of Fisheries and Oceans, the master and the persons referred to in subsection (2) of the rescission.
 
 **Duty of persons empowered to give clearance**
 
@@ -3463,9 +3507,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Return of security**
 
-- **(10)** The Minister, after proceedings in respect of which security was deposited are concluded,
+- **(10)** The Minister of Fisheries and Oceans, after proceedings in respect of which security was deposited are concluded,
 	- **(a)** may apply the security to reimburse Her Majesty in right of Canada, either fully or partially, if any of the expenses or any fine has not been paid; and
 	- **(b)** is to return the security, or any part of it that remains if it is applied under paragraph (a), if all expenses and any fine imposed have been paid.
+> 2001, c. 26, s. 177; 2005, c. 29, s. 25.
+
 
 
 
@@ -3479,10 +3525,12 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Direction to move a detained vessel**
 
-**179** The Minister may
-- **(a)** on application made by the authorized representative or, if there is no authorized representative, the owner of a detained vessel in the form and manner specified by the Minister, permit the master to move it in accordance with the directions of the Minister;
-- **(b)** on application made by the owner of a dock or wharf or by the person in charge of a harbour at which a detained vessel is situated in the form and manner specified by the Minister, direct the person who is, or appears to be, in charge of the vessel to move the vessel in accordance with the directions of the Minister; and
-- **(c)** if a person to whom a direction is given under paragraph (b) does not comply with it and the Minister is satisfied that the applicant for the direction has sufficient insurance in place to cover any incident that may arise from the moving of the vessel, authorize the applicant to move the vessel in accordance with the Minister’s directions and at the expense of the authorized representative or, if there is no authorized representative, the owner.
+**179** The Minister of Fisheries and Oceans may
+- **(a)** on application made by the authorized representative or, if there is no authorized representative, the owner of a detained vessel, in the form and manner specified by the Minister of Fisheries and Oceans, permit the master to move it in accordance with the directions of the Minister of Fisheries and Oceans;
+- **(b)** on application made by the owner of a dock or wharf, or by the person in charge of a harbour, at which a detained vessel is situated, in the form and manner specified by the Minister of Fisheries and Oceans, direct the person who is, or appears to be, in charge of the vessel to move the vessel in accordance with the directions of the Minister of Fisheries and Oceans; and
+- **(c)** if a person to whom a direction is given under paragraph (b) does not comply with it and the Minister of Fisheries and Oceans is satisfied that the applicant for the direction has sufficient insurance in place to cover any incident that may arise from the moving of the vessel, authorize the applicant to move the vessel in accordance with the Minister of Fisheries and Oceans’ directions and at the expense of the authorized representative or, if there is no authorized representative, the owner.
+> 2001, c. 26, s. 179; 2005, c. 29, s. 26.
+
 
 
 
@@ -3495,10 +3543,10 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **180** 
 
-- **(1)** If the Minister believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or is likely to discharge a pollutant, the Minister may
-	- **(a)** take the measures that the Minister considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, the removal or destruction of the vessel and its contents, and may sell or otherwise dispose of the vessel and its contents;
+- **(1)** If the Minister of Fisheries and Oceans believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or is likely to discharge a pollutant, he or she may
+	- **(a)** take the measures that he or she considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, the removal or destruction of the vessel and its contents, and may sell or otherwise dispose of the vessel and its contents;
 	- **(b)** monitor the measures taken by any person to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility; or
-	- **(c)** if the Minister considers it necessary to do so, direct any person or vessel to take measures referred to in paragraph (a) or to refrain from doing so.
+	- **(c)** if he or she considers it necessary to do so, direct any person or vessel to take measures referred to in paragraph (a) or to refrain from doing so.
 
 **Application of proceeds of disposition**
 
@@ -3507,6 +3555,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Compensation**
 
 - **(3)** Compensation shall be paid by Her Majesty in right of Canada for the services of any vessel or person, other than a vessel or the operator of an oil handling facility that had discharged, was discharging or was likely to discharge a pollutant, that has complied with a direction issued under paragraph (1)(c).
+> 2001, c. 26, s. 180; 2005, c. 29, s. 27.
+
 
 
 
@@ -3564,7 +3614,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 	- **(e)** paragraph 168(3)(b) (implement oil pollution emergency plan);
 	- **(f)** paragraph 171(b) (have equipment and resources at the site);
 	- **(g)** paragraph 171(e) (implement response plan);
-	- **(h)** a direction given under paragraph 175(2)(a), (c) or (d) (direction resulting from a discharge or possible discharge of pollutant);
+	- **(h)** a direction given under paragraph 175.1(2)(a), (c) or (d) (direction resulting from a discharge or possible discharge of a pollutant);
 	- **(i)** subsection 177(7) (giving clearance to detained vessel);
 	- **(j)** subsection 177(8) (moving detained vessel);
 	- **(k)** section 178 (wilfully interfering with service of notice); or
@@ -3573,6 +3623,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than eighteen months, or to both.
+> 2001, c. 26, s. 183; 2005, c. 29, s. 28.
+
 
 
 
@@ -3628,7 +3680,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(a)** a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans; and
 - **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state, that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or a plant that is useful to humans.
 
-It includes oil and any substance or class of substances that is prescribed for the purpose of Part 8 (Pollution Prevention and Response — Department of Fisheries and Oceans) to be a pollutant.
+It includes oil and any substance or class of substances that is prescribed for the purpose of Part 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to be a pollutant.
+> 2001, c. 26, s. 185; 2005, c. 29, s. 29.
+
 
 
 
@@ -3680,11 +3734,14 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **189** If the Minister believes on reasonable grounds that a vessel may discharge, or may have discharged, a prescribed pollutant, the Minister may
 - **(a)** direct a vessel, if it is about to enter or is within waters to which this Part applies, to provide the Minister with any information that the Minister considers appropriate for the administration of this Part;
+- **(a.1)** direct a vessel that is required to have a shipboard oil pollution emergency plan under the regulations to provide him or her with any information concerning it and its implementation;
 - **(b)** direct a vessel that is required to have on board a declaration described in paragraph 167(1)(b) to provide information concerning it;
 - **(c)** direct a vessel that is within or about to enter waters in respect of which this Part applies to proceed through those waters by the route and in the manner that the Minister may specify; and
 - **(d)** direct the vessel to proceed to the place that the Minister may select, by the route and in the manner that the Minister may specify, and to
 	- **(i)** unload the pollutant, or
 	- **(ii)** moor, anchor or remain there for any reasonable period that the Minister may specify.
+> 2001, c. 26, s. 189; 2005, c. 29, s. 30.
+
 
 
 
@@ -3795,17 +3852,19 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **194** The definitions in this section apply in this Part.
 
-***enforcement officer*** means
+***enforcement officer*** means
 - **(a)** a member of the Royal Canadian Mounted Police;
 - **(b)** a member of any harbour or river police force;
 - **(c)** a member of any provincial, county or municipal police force; and
-- **(d)** any person, or member of a class of persons, designated under subsection 196(1).
+- **(d)** any person, or member of a class of persons, designated under subsection 196(1). (*agent de l’autorité*)
 
-***inspector*** means a pleasure craft safety inspector designated under subsection 195(1).
+***inspector*** means a pleasure craft safety inspector designated under subsection 195(1). (*inspecteur*)
 
-***licence*** means a licence issued for a pleasure craft under this Part.
+***licence*** means a licence issued for a pleasure craft under this Part. (*permis*)
 
-***Minister*** means the Minister of Fisheries and Oceans.
+***Minister*** means the Minister of Transport. (*ministre*)
+> 2001, c. 26, s. 194; 2005, c. 29, s. 31.
+
 
 
 
@@ -4078,7 +4137,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 ***Minister*** means the Minister of Transport.
 
-***relevant provision*** means a provision of the Act or the regulations that the Minister is responsible for administering, other than a provision of the regulations made under subsection 136(2) in so far as it applies in respect of vessels that are not Canadian vessels or foreign vessels.
+***relevant provision*** means a provision of this Act or the regulations that the Minister is responsible for administering, other than
+- **(a)** subsection 40(1) with respect to a provision of regulations made under paragraph 35(1)(e) in relation to any of Parts 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) and 10 (Pleasure Craft); and
+- **(b)** a provision of any of Parts 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) and 10 (Pleasure Craft) or a provision of any regulation made under any of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels.
+> 2001, c. 26, s. 210; 2005, c. 29, s. 32.
+
 
 
 
@@ -4954,11 +5017,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **252** 
 
-- **(1)** In a prosecution of a vessel for an offence under this Act, it is sufficient proof that the vessel has committed the offence to establish that the act or omission that constitutes the offence was committed by the master or any person on board, other than a person carrying out an inspection under this Act or a pollution prevention officer, whether or not the person on board has been identified.
+- **(1)** In a prosecution of a vessel for an offence under this Act, it is sufficient proof that the vessel has committed the offence to establish that the act or omission that constitutes the offence was committed by the master or any person on board, other than a person carrying out an inspection under this Act, a pollution prevention officer or a pollution response officer, whether or not the person on board has been identified.
 
 **Directions**
 
 - **(2)** For the purpose of prosecuting a vessel for contravening a direction given under this Act, a direction given to the master, a crew member or any person on board who is, or appears to be, in charge of the vessel, is deemed to have been given to the vessel.
+> 2001, c. 26, s. 252; 2005, c. 29, s. 33.
+
 
 
 
@@ -5533,46 +5598,47 @@ HAVE AGREED as follows:
 
 
 
-### Chapter I - General Provisions
+**CHAPTER I** 
+### General Provisions
 
 
-**Article 1**
+**ARTICLE 1** 
 ### Definitions
 
 
 For the purpose of this Convention:
 
-**(a)** *Salvage operation* means any act or activity undertaken to assist a vessel or any other property in danger in navigable waters or in any other waters whatsoever.
+**(a)** ***Salvage operation*** means any act or activity undertaken to assist a vessel or any other property in danger in navigable waters or in any other waters whatsoever.
 
 
 
-**(b)** *Vessel* means any ship or craft, or any structure capable of navigation.
+**(b)** ***Vessel*** means any ship or craft, or any structure capable of navigation.
 
 
 
-**(c)** *Property* means any property not permanently and intentionally attached to the shoreline and includes freight at risk.
+**(c)** ***Property*** means any property not permanently and intentionally attached to the shoreline and includes freight at risk.
 
 
 
-**(d)** *Damage to the environment* means substantial physical damage to human health or to marine life or resources in coastal or inland waters or areas adjacent thereto, caused by pollution, contamination, fire, explosion or similar major incidents.
+**(d)** ***Damage to the environment*** means substantial physical damage to human health or to marine life or resources in coastal or inland waters or areas adjacent thereto, caused by pollution, contamination, fire, explosion or similar major incidents.
 
 
 
-**(e)** *Payment* means any reward, remuneration or compensation due under this Convention.
+**(e)** ***Payment*** means any reward, remuneration or compensation due under this Convention.
 
 
 
-**(f)** *Organization* means the International Maritime Organization.
+**(f)** ***Organization*** means the International Maritime Organization.
 
 
 
-**(g)** *Secretary-General* means the Secretary-General of the Organization.
+**(g)** ***Secretary-General*** means the Secretary-General of the Organization.
 
 
 
 
 
-**Article 2**
+**ARTICLE 2** 
 ### Application of the Convention
 
 
@@ -5580,7 +5646,7 @@ This Convention shall apply whenever judicial or arbitral proceedings relating t
 
 
 
-**Article 3**
+**ARTICLE 3** 
 ### Platforms and drilling units
 
 
@@ -5588,51 +5654,51 @@ This Convention shall not apply to fixed or floating platforms or to mobile offs
 
 
 
-**Article 4**
+**ARTICLE 4** 
 ### State-owned vessels
 
 
-1 Without prejudice to article 5, this Convention shall not apply to warships or other non-commercial vessels owned or operated by a State and entitled, at the time of salvage operations, to sovereign immunity under generally recognized principles of international law unless that State decides otherwise.
+**1** Without prejudice to article 5, this Convention shall not apply to warships or other non-commercial vessels owned or operated by a State and entitled, at the time of salvage operations, to sovereign immunity under generally recognized principles of international law unless that State decides otherwise.
 
 
 
-2 Where a State Party decides to apply the Convention to its warships or other vessels described in paragraph 1, it shall notify the Secretary-General thereof specifying the terms and conditions of such application.
+**2** Where a State Party decides to apply the Convention to its warships or other vessels described in paragraph 1, it shall notify the Secretary-General thereof specifying the terms and conditions of such application.
 
 
 
-**Article 5**
+**ARTICLE 5** 
 ### Salvage operations controlled by public authorities
 
 
-1 This Convention shall not affect any provisions of national law or any international convention relating to salvage operations by or under the control of public authorities.
+**1** This Convention shall not affect any provisions of national law or any international convention relating to salvage operations by or under the control of public authorities.
 
 
 
-2 Nevertheless, salvors carrying out such salvage operations shall be entitled to avail themselves of the rights and remedies provided for in this Convention in respect of salvage operations.
+**2** Nevertheless, salvors carrying out such salvage operations shall be entitled to avail themselves of the rights and remedies provided for in this Convention in respect of salvage operations.
 
 
 
-3 The extent to which a public authority under a duty to perform salvage operations may avail itself of the rights and remedies provided for in this Convention shall be determined by the law of the State where such authority is situated.
+**3** The extent to which a public authority under a duty to perform salvage operations may avail itself of the rights and remedies provided for in this Convention shall be determined by the law of the State where such authority is situated.
 
 
 
-**Article 6**
+**ARTICLE 6** 
 ### Salvage contracts
 
 
-1 This Convention shall apply to any salvage operations save to the extent that a contract otherwise provides expressly or by implication.
+**1** This Convention shall apply to any salvage operations save to the extent that a contract otherwise provides expressly or by implication.
 
 
 
-2 The master shall have the authority to conclude contracts for salvage operations on behalf of the owner of the vessel. The master or the owner of the vessel shall have the authority to conclude such contracts on behalf of the owner of the property on board the vessel.
+**2** The master shall have the authority to conclude contracts for salvage operations on behalf of the owner of the vessel. The master or the owner of the vessel shall have the authority to conclude such contracts on behalf of the owner of the property on board the vessel.
 
 
 
-3 Nothing in this article shall affect the application of article 7 nor duties to prevent or minimize damage to the environment.
+**3** Nothing in this article shall affect the application of article 7 nor duties to prevent or minimize damage to the environment.
 
 
 
-**Article 7**
+**ARTICLE 7** 
 ### Annulment and modification of contracts
 
 
@@ -5648,14 +5714,15 @@ A contract or any terms thereof may be annulled or modified if:
 
 
 
-### Chapter II - Performance of Salvage Operations
+**CHAPTER II** 
+### Performance of Salvage Operations
 
 
-**Article 8**
+**ARTICLE 8** 
 ### Duties of the salvor and of the owner and master
 
 
-1 The salvor shall owe a duty to the owner of the vessel or other property in danger:
+**1** The salvor shall owe a duty to the owner of the vessel or other property in danger:
 
 **(a)** to carry out the salvage operations with due care;
 
@@ -5675,7 +5742,7 @@ A contract or any terms thereof may be annulled or modified if:
 
 
 
-2 The owner and master of the vessel or the owner of other property in danger shall owe a duty to the salvor:
+**2** The owner and master of the vessel or the owner of other property in danger shall owe a duty to the salvor:
 
 **(a)** to co-operate fully with him during the course of the salvage operations;
 
@@ -5691,7 +5758,7 @@ A contract or any terms thereof may be annulled or modified if:
 
 
 
-**Article 9**
+**ARTICLE 9** 
 ### Rights of coastal States
 
 
@@ -5699,23 +5766,23 @@ Nothing in this Convention shall affect the right of the coastal State concerned
 
 
 
-**Article 10**
+**ARTICLE 10** 
 ### Duty to render assistance
 
 
-1 Every master is bound, so far as he can do so without serious danger to his vessel and persons thereon, to render assistance to any person in danger of being lost at sea.
+**1** Every master is bound, so far as he can do so without serious danger to his vessel and persons thereon, to render assistance to any person in danger of being lost at sea.
 
 
 
-2 The States Parties shall adopt the measures necessary to enforce the duty set out in paragraph 1.
+**2** The States Parties shall adopt the measures necessary to enforce the duty set out in paragraph 1.
 
 
 
-3 The owner of the vessel shall incur no liability for a breach of the duty of the master under paragraph 1.
+**3** The owner of the vessel shall incur no liability for a breach of the duty of the master under paragraph 1.
 
 
 
-**Article 11**
+**ARTICLE 11** 
 ### Co-operation
 
 
@@ -5723,30 +5790,31 @@ A State Party shall, whenever regulating or deciding upon matters relating to sa
 
 
 
-### Chapter III - Rights of Salvors
+**CHAPTER III** 
+### Rights of Salvors
 
 
-**Article 12**
+**ARTICLE 12** 
 ### Conditions for reward
 
 
-1 Salvage operations which have had a useful result give right to a reward.
+**1** Salvage operations which have had a useful result give right to a reward.
 
 
 
-2 Except as otherwise provided, no payment is due under this Convention if the salvage operations have had no useful result.
+**2** Except as otherwise provided, no payment is due under this Convention if the salvage operations have had no useful result.
 
 
 
-3 This chapter shall apply, notwithstanding that the salved vessel and the vessel undertaking the salvage operations belong to the same owner.
+**3** This chapter shall apply, notwithstanding that the salved vessel and the vessel undertaking the salvage operations belong to the same owner.
 
 
 
-**Article 13**
+**ARTICLE 13** 
 ### Criteria for fixing the reward
 
 
-1 The reward shall be fixed with a view to encouraging salvage operations, taking into account the following criteria without regard to the order in which they are presented below:
+**1** The reward shall be fixed with a view to encouraging salvage operations, taking into account the following criteria without regard to the order in which they are presented below:
 
 **(a)** the salved value of the vessel and other property;
 
@@ -5790,67 +5858,67 @@ A State Party shall, whenever regulating or deciding upon matters relating to sa
 
 
 
-2 Payment of a reward fixed according to paragraph 1 shall be made by all of the vessel and other property interests in proportion to their respective salved values. However, a State Party may in its national law provide that the payment of a reward has to be made by one of these interests, subject to a right of recourse of this interest against the other interests for their respective shares. Nothing in this article shall prevent any right of defence.
+**2** Payment of a reward fixed according to paragraph 1 shall be made by all of the vessel and other property interests in proportion to their respective salved values. However, a State Party may in its national law provide that the payment of a reward has to be made by one of these interests, subject to a right of recourse of this interest against the other interests for their respective shares. Nothing in this article shall prevent any right of defence.
 
 
 
-3 The rewards, exclusive of any interest and recoverable legal costs that may be payable thereon, shall not exceed the salved value of the vessel and other property.
+**3** The rewards, exclusive of any interest and recoverable legal costs that may be payable thereon, shall not exceed the salved value of the vessel and other property.
 
 
 
-**Article 14**
+**ARTICLE 14** 
 ### Special compensation
 
 
-1 If the salvor has carried out salvage operations in respect of a vessel which by itself or its cargo threatened damage to the environment and has failed to earn a reward under article 13 at least equivalent to the special compensation assessable in accordance with this article, he shall be entitled to special compensation from the owner of that vessel equivalent to his expenses as herein defined.
+**1** If the salvor has carried out salvage operations in respect of a vessel which by itself or its cargo threatened damage to the environment and has failed to earn a reward under article 13 at least equivalent to the special compensation assessable in accordance with this article, he shall be entitled to special compensation from the owner of that vessel equivalent to his expenses as herein defined.
 
 
 
-2 If, in the circumstances set out in paragraph 1, the salvor by his salvage operations has prevented or minimized damage to the environment, the special compensation payable by the owner to the salvor under paragraph 1 may be increased up to a maximum of 30 % of the expenses incurred by the salvor. However, the tribunal, if it deems it fair and just to do so and bearing in mind the relevant criteria set out in article 13, paragraph 1, may increase such special compensation further, but in no event shall the total increase be more than 100 % of the expenses incurred by the salvor.
+**2** If, in the circumstances set out in paragraph 1, the salvor by his salvage operations has prevented or minimized damage to the environment, the special compensation payable by the owner to the salvor under paragraph 1 may be increased up to a maximum of 30 % of the expenses incurred by the salvor. However, the tribunal, if it deems it fair and just to do so and bearing in mind the relevant criteria set out in article 13, paragraph 1, may increase such special compensation further, but in no event shall the total increase be more than 100 % of the expenses incurred by the salvor.
 
 
 
-3 Salvor’s expenses for the purpose of paragraphs 1 and 2 means the out-of-pocket expenses reasonably incurred by the salvor in the salvage operation and a fair rate for equipment and personnel actually and reasonably used in the salvage operation, taking into consideration the criteria set out in article 13, paragraph 1(h), (i) and (j).
+**3** Salvor’s expenses for the purpose of paragraphs 1 and 2 means the out-of-pocket expenses reasonably incurred by the salvor in the salvage operation and a fair rate for equipment and personnel actually and reasonably used in the salvage operation, taking into consideration the criteria set out in article 13, paragraph 1(h), (i) and (j).
 
 
 
-4 The total special compensation under this article shall be paid only if and to the extent that such compensation is greater than any reward recoverable by the salvor under article 13.
+**4** The total special compensation under this article shall be paid only if and to the extent that such compensation is greater than any reward recoverable by the salvor under article 13.
 
 
 
-5 If the salvor has been negligent and has thereby failed to prevent or minimize damage to the environment, he may be deprived of the whole or part of any special compensation due under this article.
+**5** If the salvor has been negligent and has thereby failed to prevent or minimize damage to the environment, he may be deprived of the whole or part of any special compensation due under this article.
 
 
 
-6 Nothing in this article shall affect any right of recourse on the part of the owner of the vessel.
+**6** Nothing in this article shall affect any right of recourse on the part of the owner of the vessel.
 
 
 
-**Article 15**
+**ARTICLE 15** 
 ### Apportionment between salvors
 
 
-1 The apportionment of a reward under article 13 between salvors shall be made on the basis of the criteria contained in that article.
+**1** The apportionment of a reward under article 13 between salvors shall be made on the basis of the criteria contained in that article.
 
 
 
-2 The apportionment between the owner, master and other persons in the service of each sailing vessel shall be determined by the law of the flag of that vessel. If the salvage has not been carried out from a vessel, the apportionment shall be determined by the law governing the contract between the salvor and his servants.
+**2** The apportionment between the owner, master and other persons in the service of each sailing vessel shall be determined by the law of the flag of that vessel. If the salvage has not been carried out from a vessel, the apportionment shall be determined by the law governing the contract between the salvor and his servants.
 
 
 
-**Article 16**
+**ARTICLE 16** 
 ### Salvage of persons
 
 
-1 No remuneration is due from persons whose lives are saved, but nothing in this article shall affect the provisions of national law on this subject.
+**1** No remuneration is due from persons whose lives are saved, but nothing in this article shall affect the provisions of national law on this subject.
 
 
 
-2 A salvor of human life, who has taken part in the services rendered on the occasion of the accident giving rise to salvage, is entitled to a fair share of the payment awarded to the salvor for salving the vessel or other property or preventing or minimizing damage to the environment.
+**2** A salvor of human life, who has taken part in the services rendered on the occasion of the accident giving rise to salvage, is entitled to a fair share of the payment awarded to the salvor for salving the vessel or other property or preventing or minimizing damage to the environment.
 
 
 
-**Article 17**
+**ARTICLE 17** 
 ### Services rendered under existing contracts
 
 
@@ -5858,7 +5926,7 @@ No payment is due under the provisions of this Convention unless the services re
 
 
 
-**Article 18**
+**ARTICLE 18** 
 ### The effect of salvor’s misconduct
 
 
@@ -5866,7 +5934,7 @@ A salvor may be deprived of the whole or part of the payment due under this Conv
 
 
 
-**Article 19**
+**ARTICLE 19** 
 ### Prohibition of salvage operations
 
 
@@ -5874,66 +5942,67 @@ Services rendered notwithstanding the express and reasonable prohibition of the 
 
 
 
-### Chapter IV - Claims and Actions
+**CHAPTER IV** 
+### Claims and Actions
 
 
-**Article 20**
+**ARTICLE 20** 
 ### Maritime lien
 
 
-1 Nothing in this Convention shall affect the salvor’s maritime lien under any international convention or national law.
+**1** Nothing in this Convention shall affect the salvor’s maritime lien under any international convention or national law.
 
 
 
-2 The salvor may not enforce his maritime lien when satisfactory security for his claim, including interest and costs, has been duly tendered or provided.
+**2** The salvor may not enforce his maritime lien when satisfactory security for his claim, including interest and costs, has been duly tendered or provided.
 
 
 
-**Article 21**
+**ARTICLE 21** 
 ### Duty to provide security
 
 
-1 Upon the request of the salvor a person liable for payment due under this Convention shall provide satisfactory security for the claim, including interest and costs of the salvor.
+**1** Upon the request of the salvor a person liable for payment due under this Convention shall provide satisfactory security for the claim, including interest and costs of the salvor.
 
 
 
-2 Without prejudice to paragraph 1, the owner of the salved vessel shall use his best endeavours to ensure that the owners of the cargo provide satisfactory security for the claims against them including interest and costs before the cargo is released.
+**2** Without prejudice to paragraph 1, the owner of the salved vessel shall use his best endeavours to ensure that the owners of the cargo provide satisfactory security for the claims against them including interest and costs before the cargo is released.
 
 
 
-3 The salved vessel and other property shall not, without the consent of the salvor, be removed from the port or place at which they first arrive after the completion of the salvage operations until satisfactory security has been put up for the salvor’s claim against the relevant vessel or property.
+**3** The salved vessel and other property shall not, without the consent of the salvor, be removed from the port or place at which they first arrive after the completion of the salvage operations until satisfactory security has been put up for the salvor’s claim against the relevant vessel or property.
 
 
 
-**Article 22**
+**ARTICLE 22** 
 ### Interim payment
 
 
-1 The tribunal having jurisdiction over the claim of the salvor may, by interim decision, order that the salvor shall be paid on account such amount as seems fair and just, and on such terms including terms as to security where appropriate, as may be fair and just according to the circumstances of the case.
+**1** The tribunal having jurisdiction over the claim of the salvor may, by interim decision, order that the salvor shall be paid on account such amount as seems fair and just, and on such terms including terms as to security where appropriate, as may be fair and just according to the circumstances of the case.
 
 
 
-2 In the event of an interim payment under this article the security provided under article 21 shall be reduced accordingly.
+**2** In the event of an interim payment under this article the security provided under article 21 shall be reduced accordingly.
 
 
 
-**Article 23**
+**ARTICLE 23** 
 ### Limitation of actions
 
 
-1 Any action relating to payment under this Convention shall be time-barred if judicial or arbitral proceedings have not been instituted within a period of two years. The limitation period commences on the day on which the salvage operations are terminated.
+**1** Any action relating to payment under this Convention shall be time-barred if judicial or arbitral proceedings have not been instituted within a period of two years. The limitation period commences on the day on which the salvage operations are terminated.
 
 
 
-2 The person against whom a claim is made may at any time during the running of the limitation period extend that period by a declaration to the claimant. This period may in the like manner be further extended.
+**2** The person against whom a claim is made may at any time during the running of the limitation period extend that period by a declaration to the claimant. This period may in the like manner be further extended.
 
 
 
-3 An action for indemnity by a person liable may be instituted even after the expiration of the limitation period provided for in the preceding paragraphs, if brought within the time allowed by the law of the State where proceedings are instituted.
+**3** An action for indemnity by a person liable may be instituted even after the expiration of the limitation period provided for in the preceding paragraphs, if brought within the time allowed by the law of the State where proceedings are instituted.
 
 
 
-**Article 24**
+**ARTICLE 24** 
 ### Interest
 
 
@@ -5941,7 +6010,7 @@ The right of the salvor to interest on any payment due under this Convention sha
 
 
 
-**Article 25**
+**ARTICLE 25** 
 ### State-owned cargoes
 
 
@@ -5949,7 +6018,7 @@ Unless the State owner consents, no provision of this Convention shall be used a
 
 
 
-**Article 26**
+**ARTICLE 26** 
 ### Humanitarian cargoes
 
 
@@ -5957,7 +6026,7 @@ No provision of this Convention shall be used as a basis for the seizure, arrest
 
 
 
-**Article 27**
+**ARTICLE 27** 
 ### Publication of arbitral awards
 
 
@@ -5965,18 +6034,19 @@ States Parties shall encourage, as far as possible and with the consent of the p
 
 
 
-### Chapter V - Final Clauses
+**CHAPTER V** 
+### Final Clauses
 
 
-**Article 28**
+**ARTICLE 28** 
 ### Signature, ratification, acceptance, approval and accession
 
 
-1 This Convention shall be open for signature at the Headquarters of the Organization from 1 July 1989 to 30 June 1990 and shall thereafter remain open for accession.
+**1** This Convention shall be open for signature at the Headquarters of the Organization from 1 July 1989 to 30 June 1990 and shall thereafter remain open for accession.
 
 
 
-2 States may express their consent to be bound by this Convention by:
+**2** States may express their consent to be bound by this Convention by:
 
 **(a)** signature without reservation as to ratification, acceptance or approval; or
 
@@ -5992,27 +6062,27 @@ States Parties shall encourage, as far as possible and with the consent of the p
 
 
 
-3 Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
+**3** Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
 
 
-**Article 29**
+**ARTICLE 29** 
 ### Entry into force
 
 
-1 This Convention shall enter into force one year after the date on which 15 States have expressed their consent to be bound by it.
+**1** This Convention shall enter into force one year after the date on which 15 States have expressed their consent to be bound by it.
 
 
 
-2 For a State which expresses its consent to be bound by this Convention after the conditions for entry into force thereof have been met, such consent shall take effect one year after the date of expression of such consent.
+**2** For a State which expresses its consent to be bound by this Convention after the conditions for entry into force thereof have been met, such consent shall take effect one year after the date of expression of such consent.
 
 
 
-**Article 30**
+**ARTICLE 30** 
 ### Reservations
 
 
-1 Any State may, at the time of signature, ratification, acceptance, approval or accession, reserve the right not to apply the provisions of this Convention:
+**1** Any State may, at the time of signature, ratification, acceptance, approval or accession, reserve the right not to apply the provisions of this Convention:
 
 **(a)** when the salvage operation takes place in inland waters and all vessels involved are of inland navigation;
 
@@ -6032,55 +6102,55 @@ States Parties shall encourage, as far as possible and with the consent of the p
 
 
 
-2 Reservations made at the time of signature are subject to confirmation upon ratification, acceptance or approval.
+**2** Reservations made at the time of signature are subject to confirmation upon ratification, acceptance or approval.
 
 
 
-3 Any State which has made a reservation to this Convention may withdraw it at any time by means of a notification addressed to the Secretary-General. Such withdrawal shall take effect on the date the notification is received. If the notification states that the withdrawal of a reservation is to take effect on a date specified therein, and such date is later than the date the notification is received by the Secretary-General, the withdrawal shall take effect on such later date.
+**3** Any State which has made a reservation to this Convention may withdraw it at any time by means of a notification addressed to the Secretary-General. Such withdrawal shall take effect on the date the notification is received. If the notification states that the withdrawal of a reservation is to take effect on a date specified therein, and such date is later than the date the notification is received by the Secretary-General, the withdrawal shall take effect on such later date.
 
 
 
-**Article 31**
+**ARTICLE 31** 
 ### Denunciation
 
 
-1 This Convention may be denounced by any State Party at any time after the expiry of one year from the date on which this Convention enters into force for that State.
+**1** This Convention may be denounced by any State Party at any time after the expiry of one year from the date on which this Convention enters into force for that State.
 
 
 
-2 Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General.
+**2** Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General.
 
 
 
-3 A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after the receipt of the instrument of denunciation by the Secretary-General.
+**3** A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after the receipt of the instrument of denunciation by the Secretary-General.
 
 
 
-**Article 32**
+**ARTICLE 32** 
 ### Revision and amendment
 
 
-1 A conference for the purpose of revising or amending this Convention may be convened by the Organization.
+**1** A conference for the purpose of revising or amending this Convention may be convened by the Organization.
 
 
 
-2 The Secretary-General shall convene a conference of the States Parties to this Convention for revising or amending the Convention, at the request of eight States Parties, or one fourth of the States Parties, whichever is the higher figure.
+**2** The Secretary-General shall convene a conference of the States Parties to this Convention for revising or amending the Convention, at the request of eight States Parties, or one fourth of the States Parties, whichever is the higher figure.
 
 
 
-3 Any consent to be bound by this Convention expressed after the date of entry into force of an amendment to this Convention shall be deemed to apply to the Convention as amended.
+**3** Any consent to be bound by this Convention expressed after the date of entry into force of an amendment to this Convention shall be deemed to apply to the Convention as amended.
 
 
 
-**Article 33**
+**ARTICLE 33** 
 ### Depositary
 
 
-1 This Convention shall be deposited with the Secretary-General.
+**1** This Convention shall be deposited with the Secretary-General.
 
 
 
-2 The Secretary-General shall:
+**2** The Secretary-General shall:
 
 **(a)** inform all States which have signed this Convention or acceded thereto, and all Members of the Organization, of:
 
@@ -6112,11 +6182,11 @@ States Parties shall encourage, as far as possible and with the consent of the p
 
 
 
-3 As soon as this Convention enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretary-General of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+**3** As soon as this Convention enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretary-General of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
 
 
-**Article 34**
+**ARTICLE 34** 
 ### Languages
 
 
@@ -6132,9 +6202,7 @@ DONE AT LONDON this twenty-eighth day of April one thousand nine hundred and eig
 
 
 
-### ATTACHMENT 1
-
-
+**ATTACHMENT 1** 
 ### **Common Understanding concerning Articles 13 and 14 of the International Convention on Salvage, 1989**
 
 
@@ -6184,9 +6252,9 @@ RECOGNIZING that the entry into force of the Convention will represent an import
 
 CONSIDERING that the international publicizing and wide implementation of the Convention is of the utmost importance for the attainment of its objectives,
 
-I RECOMMENDS:
 
 
+**I** RECOMMENDS:
 
 **(a)** that the Organization promote public awareness of the Convention through the holding of seminars, courses or symposia;
 
@@ -6194,11 +6262,11 @@ I RECOMMENDS:
 
 **(b)** that training institutions created under the auspices of the Organization include the study of the Convention in their corresponding courses of study.
 
-II REQUESTS:
 
 
 
 
+**II** REQUESTS:
 
 **(a)** Members States to transmit to the Organization the text of the laws, orders, decrees, regulations and other instruments that they promulgate concerning the various matters falling within the scope of application of the Convention;
 
