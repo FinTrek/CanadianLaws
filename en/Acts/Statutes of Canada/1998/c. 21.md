@@ -66,7 +66,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***member*** means a person who is a member of the Foundation.
 
-***Ministers*** means the Minister of Human Resources Development and the Minister of Finance.
+***Ministers*** means the Minister of Human Resources and Skills Development and the Minister of Finance.
 
 ***part-time studies*** means a course load that is determined by the Foundation to be a part-time course load.
 
@@ -77,6 +77,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Public post-secondary educational institutions**
 
 - **(2)** For the purposes of this Part, a public post-secondary educational institution is considered to be public if the Foundation is of the opinion that a substantial part of its funding comes from a provincial government.
+> 1998, c. 21, s. 2; 2005, c. 34, s. 80.
+
 
 
 
@@ -683,7 +685,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Distribution of report**
 
-- **(2)** After a report under section 36 or 37 is approved, it shall be made public and a copy of it shall be sent to the Ministers and to the provincial ministers. The Minister of Human Resources Development shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after that Minister receives it.
+- **(2)** After a report under section 36 or 37 is approved, it shall be made public and a copy of it shall be sent to the Ministers and to the provincial ministers. The Minister of Human Resources and Skills Development shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after that Minister receives it.
+> 1998, c. 21, s. 38; 2005, c. 34, s. 80.
+
 
 
 
