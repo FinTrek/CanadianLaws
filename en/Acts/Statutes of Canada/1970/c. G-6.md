@@ -39,8 +39,8 @@
 
 **Administration**
 
-**3** Until otherwise determined by the Governor in Council, this Act shall be administered by the Minister of Human Resources Development.
-> R.S., 1970, c. G-6, s. 3; 1996, c. 11, s. 95.
+**3** Until otherwise determined by the Governor in Council, this Act shall be administered by the Minister of Human Resources and Skills Development.
+> R.S., 1970, c. G-6, s. 3; 1996, c. 11, s. 95; 2005, c. 34, s. 80.
 
 
 
