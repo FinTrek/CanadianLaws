@@ -1394,7 +1394,7 @@ les sels, les dérivés et les sels des dérivés des substances visées aux par
 
 
 
-**(14)** étorphine ([(hydroxy–1 méthyl–1 butyl)–7a endoétheno–6,14 tétrahydro–oripavine])
+**(14)** étorphine ([(hydroxy–1 méthyl–1 butyl)–7α endoétheno–6,14 tétrahydro–oripavine])
 
 
 
@@ -1474,7 +1474,7 @@ mais non compris :
 
 
 
-**(33)** cyprénorphine (N–(cyclopropylméthyl) tétrahydro–6,7,8,14 (hydroxy–1 méthyl–1 éthyl)–7a endo–6,14 éthénonororipavine)
+**(33)** cyprénorphine (N–(cyclopropylméthyl) tétrahydro–6,7,8,14 (hydroxy–1 méthyl–1 éthyl)–7α endo–6,14 éthénonororipavine)
 
 
 
@@ -1524,11 +1524,11 @@ mais non compris :
 
 
 
-**(2)** alphaméprodine (a–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
+**(2)** alphaméprodine (α–éthyl–3 méthyl–1 phényl–4 propionoxy–4 pipéridine)
 
 
 
-**(3)** alphaprodine (a–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
+**(3)** alphaprodine (α–diméthyl–1,3 phényl–4 propionoxy–4 pipéridine)
 
 
 
@@ -1681,11 +1681,11 @@ mais non compris :
 
 
 
-**(2)** alphacétylméthadol (a–diméthylamino–6 diphényl–4,4 a–acétoxy–3 heptane)
+**(2)** alphacétylméthadol (α–diméthylamino–6 diphényl–4,4 a–acétoxy–3 heptane)
 
 
 
-**(3)** alphaméthadol (a–diméthylamino–6 diphényl–4,4 heptanol–3)
+**(3)** alphaméthadol (α–diméthylamino–6 diphényl–4,4 heptanol–3)
 
 
 
@@ -1701,7 +1701,7 @@ mais non compris :
 
 
 
-**(7)** noracyméthadol (a–méthylamino–6 diphényl–4,4 acétoxy–3 heptanol–3)
+**(7)** noracyméthadol (α–méthylamino–6 diphényl–4,4 acétoxy–3 heptanol–3)
 
 
 
@@ -1723,15 +1723,15 @@ mais non compris :
 
 **8** Thiambutènes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 
-**(1)** diéthylthiambutène (diéthylamino–3 di–(thiényl–2')–1,1 butène–1)
+**(1)** diéthylthiambutène (diéthylamino–3 di–(thiényl–2′)–1,1 butène–1)
 
 
 
-**(2)** diméthylthiambutène (diméthylamino–3 di–(thiényl–2')–1,1 butène–1)
+**(2)** diméthylthiambutène (diméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
 
 
 
-**(3)** éthylméthylthiambutène (éthylméthylamino–3 di–(thiényl–2')–1,1 butène–1)
+**(3)** éthylméthylthiambutène (éthylméthylamino–3 di–(thiényl–2′)–1,1 butène–1)
 
 
 
@@ -1757,7 +1757,7 @@ mais non compris :
 
 **10** Morphinanes, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 
-**(1)** buprénorphine ((cyclopropylméthyl)–17 a–(diméthyléthyl–1,1) époxy–4,5 dihydro–18,19 hydroxy–3 méthoxy–6 a–méthyléthénomorphinane–6,14 méthanol–7)
+**(1)** buprénorphine ((cyclopropylméthyl)–17 α–(diméthyléthyl–1,1) époxy–4,5 dihydro–18,19 hydroxy–3 méthoxy–6 α–méthyléthénomorphinane–6,14 méthanol–7)
 
 
 
@@ -1817,7 +1817,7 @@ mais non compris :
 
 
 
-**(15)** nalbuphine ((cyclobutylméthyl)–17 époxy–4,5a morphinanetriol–3, 6a, 14)
+**(15)** nalbuphine ((cyclobutylméthyl)–17 époxy–4,5α morphinanetriol–3, 6α, 14)
 
 
 
@@ -1875,7 +1875,7 @@ mais non compris :
 
 
 
-**14** Phencyclidine ((phényl-1 cyclohexyl)-1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
+**14** Phencyclidine ((phényl-1 cyclohexyl)-1 pipéridine), ses sels, dérivés et analogues, ainsi que les sels de ses dérivés et analogues, notamment :
 
 **(1)** kétamine (2-(2-chlorophényl)-2- (méthylamino)cyclohexanone)
 
@@ -1887,7 +1887,7 @@ mais non compris :
 
 **16** Fentanyls, leurs sels, leurs dérivés et leurs analogues, ainsi que les sels de leurs dérivés et leurs analogues, notamment :
 
-**(1)** acétyl–a–méthylfentanyl (N–[(a–méthylphénéthyl)–1 pipéridyl–4] acétanilide)
+**(1)** acétyl–α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] acétanilide)
 
 
 
@@ -1899,7 +1899,7 @@ mais non compris :
 
 
 
-**(4)** p–fluorofentanyl (fluoro–4' N–(phénéthyl–1 pipéridyl–4) propionanilide)
+**(4)** p–fluorofentanyl (fluoro–4′ N–(phénéthyl–1 pipéridyl–4) propionanilide)
 
 
 
@@ -1915,11 +1915,11 @@ mais non compris :
 
 
 
-**(8)** a–méthylfentanyl (N–[(a–méthylphénéthyl)–1 pipéridyl–4] propionanilide)
+**(8)** α–méthylfentanyl (N–[(α–méthylphénéthyl)–1 pipéridyl–4] propionanilide)
 
 
 
-**(9)** a–méthylthiofentanyl (N–[[méthyl–1 (thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
+**(9)** α–méthylthiofentanyl (N–[[méthyl–1 (thiényl–2) éthyl]–1 pipéridyl–4] propionanilide)
 
 
 
@@ -1947,10 +1947,10 @@ mais non compris :
 **17** Tilidine (ester éthylique de l’acide diméthylamino–2 phényl–1 cyclohexène–3 carboxylate–1), ses sels et dérivés, ainsi que les sels de ses dérivés
 
 
-**18** Méthamphétamine (N,α-diméthylbenzèneéthanamine)
+**18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 
 
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1, 271.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337.
 
 
 
