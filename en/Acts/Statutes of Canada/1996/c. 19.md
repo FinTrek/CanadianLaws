@@ -1375,7 +1375,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **(Sections 2 to 7, 29, 55 and 60)**
 ** 1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
 
-** (1)** Opium
+**(1)** Opium
 
 
 
@@ -1387,7 +1387,11 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**(4)** Thebaine (paramorphine), and the salts, derivatives and salts of derivatives of the substances set out in subitems (1) to (4), including:
+**(4)** Thebaine (paramorphine)
+
+
+
+and the salts, derivatives and salts of derivatives of the substances set out in subitems (1) to (4), including:
 
 
 
@@ -1427,7 +1431,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**(14)** Etorphine (tetrahydro–7a–(1–hydroxy–1–methyl-butyl)–6,14–endo–ethenooripavine)
+**(14)** Etorphine (tetrahydro–7α–(1–hydroxy–1–methyl-butyl)–6,14–endo–ethenooripavine)
 
 
 
@@ -1443,7 +1447,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**(18)** Methyldesorphine (?6–deoxy–6–methylmorphine)
+**(18)** Methyldesorphine (Δ6–deoxy–6–methylmorphine)
 
 
 
@@ -1507,19 +1511,19 @@ but not including
 
 
 
-**(33)** Cyprenorphine (N–(cyclopropylmethyl)–6,7,8,14–tetrahydro–7a–(1–hydroxy–1–methylethyl)–6,14–endo–ethenonororipavine)
+**(33)** Cyprenorphine (N–(cyclopropylmethyl)–6,7,8,14–tetrahydro–7α–(1–hydroxy–1–methylethyl)–6,14–endo–ethenonororipavine)
 
 
 
-**(34)** Nalmefene (17-(cyclopropylmethyl)-4,5a-epoxy-6-methylenemorphinan-3,14-diol)
+**(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
 
 
 
-**(34.1)** Naloxone (4,5a-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
+**(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
 
 
 
-**(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5a-epoxy-3,14-dihydroxymorphinan-6-one)
+**(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
 
 
 
@@ -1557,11 +1561,11 @@ but not including
 
 
 
-**(2)** Alphameprodine (a–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
+**(2)** Alphameprodine (α–3–ethyl–1–methyl–4–phenyl–4–piperidinol propionate)
 
 
 
-**(3)** Alphaprodine (a–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
+**(3)** Alphaprodine (α–1,3–dimethyl–4–phenyl–4–piperidinol propionate)
 
 
 
@@ -1714,11 +1718,11 @@ but not including
 
 
 
-**(2)** Alphacetylmethadol (a–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
+**(2)** Alphacetylmethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol acetate)
 
 
 
-**(3)** Alphamethadol (a–6–dimethylamino–4,4–diphenyl–3–heptanol)
+**(3)** Alphamethadol (α–6–dimethylamino–4,4–diphenyl–3–heptanol)
 
 
 
@@ -1734,7 +1738,7 @@ but not including
 
 
 
-**(7)** Noracymethadol (a–6–methylamino–4,4–diphenyl–3–heptanol acetate)
+**(7)** Noracymethadol (α–6–methylamino–4,4–diphenyl–3–heptanol acetate)
 
 
 
@@ -1749,7 +1753,7 @@ but not including
 
 
 
-**(3)** Dextropropoxyphene ([S–(R*,S*)]–a–[2–(dimethylamino)–1–methylethyl]–a–phenylbenzeneethanol, propanoate ester)
+**(3)** Dextropropoxyphene ([S–(R*,S*)]–α–[2–(dimethylamino)–1–methylethyl]–α–phenylbenzeneethanol, propanoate ester)
 
 
 
@@ -1790,7 +1794,7 @@ but not including
 
 **10** Morphinans, their salts, derivatives and salts of derivatives including:
 
-**(1)** Buprenorphine (17–(cyclopropylmethyl)–a–(1,1–dimethylethyl)–4,5–epoxy–18,19–dihydro–3–hydroxy–6–methoxy–a–methyl–6,14–ethenomorphinan–7–methanol)
+**(1)** Buprenorphine (17–(cyclopropylmethyl)–α–(1,1–dimethylethyl)–4,5–epoxy–18,19–dihydro–3–hydroxy–6–methoxy–α–methyl–6,14–ethenomorphinan–7–methanol)
 
 
 
@@ -1822,7 +1826,7 @@ but not including
 
 
 
-**(9)** Racemorphan (d,l–3–hydroxy–N–methylmorphinan)
+**(9)** Racemorphan (*d,l*–3–hydroxy–N–methylmorphinan)
 
 
 
@@ -1850,7 +1854,7 @@ but not including
 
 
 
-**(15)** Nalbuphine (17–(cyclobutylmethyl)–4,5a–epoxymorphinan–3,6a, 14–triol)
+**(15)** Nalbuphine (17–(cyclobutylmethyl)–4,5α–epoxymorphinan–3,6α, 14–triol)
 
 
 
@@ -1920,7 +1924,7 @@ but not including
 
 **16** Fentanyls, their salts, derivatives, and analogues and salts of derivatives and analogues, including:
 
-**(1)** Acetyl–a–methylfentanyl (N–[1–(a–methylphenethyl)–4–piperidyl] acetanilide)
+**(1)** Acetyl–α–methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] acetanilide)
 
 
 
@@ -1932,7 +1936,7 @@ but not including
 
 
 
-**(4)** p–Fluorofentanyl (4'fluoro–N–(1–phenethyl–4–piperidyl) propionanilide)
+**(4)** p–Fluorofentanyl (4′fluoro–N–(1–phenethyl–4–piperidyl) propionanilide)
 
 
 
@@ -1948,11 +1952,11 @@ but not including
 
 
 
-**(8)** a–Methylfentanyl (N–[1–(a–methylphenethyl)–4–piperidyl] propionanilide)
+**(8)** α–Methylfentanyl (N–[1–(α–methylphenethyl)–4–piperidyl] propionanilide)
 
 
 
-**(9)** a–Methylthiofentanyl (N–[1–[1–methyl–2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
+**(9)** α–Methylthiofentanyl (N–[1–[1–methyl–2–(2–thienyl) ethyl]–4–piperidyl] propionanilide)
 
 
 
@@ -1976,16 +1980,14 @@ but not including
 
 
 
+
 **17** Tilidine (ethyl2–(dimethylamino)–1–phenyl–3–cyclohexene–1–carboxylate), its salts, derivatives and salts of derivatives
 
 
-
-**18** Methamphetamine (N,α-dimethylbenzeneethanamine)
-
+**18** Methamphetamine (N,α-dimethylbenzeneethanamine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 
 
-
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1, 271.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337.
 
 
 
