@@ -2475,7 +2475,7 @@ but not including
 
 
 
-**17** Safrole (5-(2-propenyl)-1,3-benzodioxole) and any essential oil containing safrole
+**17** Safrole (5-(2-propenyl)-1,3-benzodioxole) and any essential oil containing more than 4% safrole
 
 
 
@@ -2526,7 +2526,7 @@ but not including
 **1** Any preparation or mixture that contains a precursor set out in Part 1 or 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002–361, s. 2.
+> 1996, c. 19, Sch. VI; SOR/2002–361, s. 2; 2005–364, ss. 1, 3(F).
 
 
 
