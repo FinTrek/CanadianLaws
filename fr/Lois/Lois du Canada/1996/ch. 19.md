@@ -2438,7 +2438,7 @@ sauf :
 
 
 
-**17** Safrole ((propényl-2)-5 benzodioxole-1,3) et les huiles essentielles qui en contiennent
+**17** Safrole ((propényl-2)-5 benzodioxole-1,3) et les huiles essentielles qui en contiennent plus de 4 %
 
 
 
@@ -2489,7 +2489,7 @@ sauf :
 **1** Toute préparation ou tout mélange qui contient l'un des précurseurs visés aux parties 1 ou 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1 et 3(F).
 
 
 
