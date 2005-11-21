@@ -7532,7 +7532,33 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **73** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262.
+**74** Dioxyde de carbone, dont la formule moléculaire est CO<sub>2</sub>
+
+
+**75** Méthane, dont la formule moléculaire est CH<sub>4</sub>
+
+
+**76** Oxyde nitreux, dont la formule moléculaire est N<sub>2</sub>O
+
+
+**77** Hydrofluorocarbures dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>F<sub>(2n+2-x)</sub>, où 0<n<6
+
+
+**78** Les hydrocarbures perfluorés suivants :
+
+**a) ** ceux dont la formule moléculaire est C<sub>n</sub>F<sub>2n+2</sub>, où 0<n<7;
+
+
+
+**b) ** l’octafluorocyclobutane, dont la formule moléculaire est C<sub>4</sub>F<sub>8.</sub>
+
+
+
+
+**79** Hexafluorure de soufre, dont la formule moléculaire est SF<sub>6</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345.
 
 
 
