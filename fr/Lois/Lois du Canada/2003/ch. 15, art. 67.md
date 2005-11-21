@@ -856,10 +856,21 @@ où :
 <td>Tla-o-qui-aht
 
 </td>
-<td>Council of the Tla-o-qui-aht First Nations
+<td>Tla-o-qui-aht
 
 </td>
 <td>Réserve des Tla-o-qui-aht First Nations
+
+</td>
+</tr>
+<tr>
+<td>Tlicho
+
+</td>
+<td>Gouvernement tlicho
+
+</td>
+<td>Terres tlichos et collectivité tlicho au sens de l’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que ses modifications éventuelles
 
 </td>
 </tr>
@@ -887,7 +898,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363.
 
 
 
