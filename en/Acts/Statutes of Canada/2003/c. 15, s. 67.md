@@ -854,6 +854,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Tlicho
+
+</td>
+<td>Tlicho Government
+
+</td>
+<td>Tlicho lands and Tlicho community within the meaning assigned by the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003 and approved, given effect and declared valid by the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md), as that Agreement is amended from time to time
+
+</td>
+</tr>
+<tr>
 <td>Tr’ondëk Hwëch’in
 
 </td>
@@ -888,7 +899,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11.
+> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363.
 
 
 
