@@ -409,6 +409,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **20** Bonaparte
 
 
-> 2000, c. 14, Sch.; SOR/2001-114, 523; SOR/2002-376; SOR/2003-356.
+**21** Little Shuswap Lake
+
+
+> 2000, c. 14, Sch.; SOR/2001-114, 523; SOR/2002-376; SOR/2003-356; SOR/2005-362.
 
 
