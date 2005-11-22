@@ -2904,6 +2904,7 @@ pour l’application du sous-alinéa (iv), un bien est réputé avoir été acqu
 	- **z)** au montant supplémentaire qu’il peut déduire au titre de biens pour lesquels une catégorie distincte est prescrite en vertu de l’alinéa 1101(5d)c), sans dépasser 8 pour cent de la fraction non amortie du coût en capital, pour lui, de biens de cette catégorie à la fin de l’année d’imposition (avant d’opérer toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 	- **z.1a)** au montant supplémentaire qu’il peut déduire au titre de biens pour lesquels une catégorie distincte est prescrite en vertu des alinéas 1101(5d) d), e) ou f), sans dépasser 6 pour cent de la fraction non amortie du coût en capital, pour lui, de biens de cette catégorie à la fin de l’année d’imposition (avant d’opérer toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 	- **z.1b)** lorsqu’il est, tout au long de l’année d’imposition, un voiturier public qui exploite un chemin de fer et en est propriétaire, au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5d.1), sans dépasser 3 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année avant d’opérer toute déduction en vertu du présent paragraphe pour l’année;
+	- **z.1c)** lorsqu’il est, tout au long de l’année d’imposition, un voiturier public qui exploite un chemin de fer et en est propriétaire, au montant supplémentaire qu’il peut demander à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5d.2), sans dépasser 6 % de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année (avant d’opérer toute déduction en vertu du présent paragraphe pour l’année);
 
 #### Déductions supplémentaires — Voies de chemin de fer et biens connexes
 
@@ -2922,7 +2923,7 @@ pour l’application du sous-alinéa (iv), un bien est réputé avoir été acqu
 			- **(D)** compris dans la catégorie 6 de l’annexe II en vertu de l’alinéa j) de cette catégorie,
 			- **(E)** des machines ou du matériel compris dans la catégorie 8 de l’annexe II et constituant un élément accessoire
 				- **(I)** d’une voie et d’un remblai de chemin de fer, ou
-				- **(II)** de l’équipement de contrôle du trafic ferroviaire ou de signalisation, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont principalement de l’équipement électronique ou du logiciel de système,
+				- **(II)** de l’équipement de contrôle du trafic ferroviaire ou de signalisation, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont principalement de l’équipement électronique ou du logiciel de systèmes pour de l’équipement électronique,
 			- **(F)** des machines ou du matériel compris dans la catégorie 8 de l’annexe II qui
 				- **(I)** ont principalement été acquis aux fins de l’entretien ou de la réparation, ou
 				- **(II)** sont des éléments accessoires et font partie d’une locomotive de chemin de fer ou d’une voiture de chemin de fer,
@@ -3383,7 +3384,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1.
 
 
 
@@ -3483,6 +3484,11 @@ si ces décrets s’appliquaient à l’année d’imposition, une catégorie di
 		- **(ii)** du forage de puits de pétrole ou de gaz; ou
 	- **b)** après le 22 mai 1979 et destinés principalement aux fins de déterminer l’existence, l’endroit, l’étendue ou la qualité des ressources minérales.
 
+#### Navires et mécanisme de financement structuré
+
+
+- **(2c)** Les paragraphes (2a) et (2b) ne s’appliquent pas à un navire, ni aux mobilier, accessoires, matériel de radiocommunication et autre matériel fixé au navire, si un mécanisme de financement structuré concernant un ou plusieurs de ces biens a reçu l’approbation du ministre de l’Industrie en vertu de la [Loi sur le ministère de l’Industrie](/fr/Lois/Lois%20du%20Canada/1995/ch.%201.md).
+
 #### Concessions forestières et droits de coupe
 
 
@@ -3572,7 +3578,9 @@ une catégorie distincte est prescrite pour les biens suivants :
 	- **e)** l’ensemble de tels biens acquis par le contribuable avant le 27 avril 1989 en vue d’être donnés à bail ou loués à une autre personne;
 	- **f)** l’ensemble de tels biens acquis par le contribuable après le 26 avril 1989 en vue d’être donnés à bail ou loués à une autre personne.
 
-- **(5d.1)** Une catégorie distincte est prescrite pour les biens compris dans la catégorie 35 de l’annexe II qui sont acquis après le 6 décembre 1991 par un contribuable qui, au moment de l’acquisition, est un voiturier public qui exploite un chemin de fer et en est propriétaire.
+- **(5d.1)** Une catégorie distincte est prescrite pour les biens compris dans la catégorie 35 de l’annexe II et acquis après le 6 décembre 1991 et avant le 28 février 2000 par un contribuable qui, au moment de l’acquisition, était un voiturier public qui exploitait un chemin de fer et en était propriétaire.
+
+- **(5d.2)** Une catégorie distincte est prescrite pour les biens compris dans la catégorie 35 de l’annexe II et acquis après le 27 février 2000 par un contribuable qui, au moment de l’acquisition, est un voiturier public qui exploite un chemin de fer et en est propriétaire.
 
 #### Voies de chemin de fer et biens connexes
 
@@ -3655,7 +3663,7 @@ une catégorie distincte est prescrite pour les biens,
 	- **c)** un photocopieur;
 	- **d)** du matériel de bureau qui consiste en de l’équipement de communication électronique, comme un télécopieur ou de l’équipement téléphonique.
 
-- **(5q)** Le paragraphe (5p) s’applique uniquement aux biens d’un contribuable pour lesquels celui-ci a choisi, par lettre à cet effet annexée à sa déclaration de revenu produite auprès du ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis, de se prévaloir de ce paragraphe.
+- **(5q)** Les paragraphes (5p) et (5s) ne s’appliquent qu’aux biens d’un contribuable à l’égard desquels il a fait un choix en ce sens. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
 
 #### Logiciels déterminés
 
@@ -3665,11 +3673,23 @@ une catégorie distincte est prescrite pour les biens,
 	- **b)** l’un des biens qu’elle comprend est un logiciel déterminé;
 	- **c)** l’un des biens qu’elle comprend n’est pas un logiciel déterminé.
 
+#### Matériel de fabrication ou de transformation
+
+
+- **(5s)** Sous réserve du paragraphe (5q), une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui répondent aux conditions suivantes :
+	- **a) ** ils ont été acquis au cours d’une année d’imposition et étaient compris pour cette année dans la catégorie 43 de l’annexe II par l’effet de l’alinéa a) de cette catégorie;
+	- **b) ** leur coût en capital pour le contribuable est d’au moins 1 000 $.
+
+#### Turbines à combustion
+
+
+- **(5t)** Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui constituent une turbine à combustion (y compris les brûleurs et compresseurs connexes) comprise dans la catégorie 17 de l’annexe II par l’effet du sous-alinéa a.1)(i) de cette catégorie et à l’égard de laquelle le contribuable a fait un choix en ce sens. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
+
 #### Renvoi
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2.
 
 
 
@@ -3966,7 +3986,9 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(2f)** Le contribuable peut, par lettre jointe à la déclaration de revenu qu’il produit auprès du ministre conformément à l’article 150 de la Loi pour une année d’imposition, choisir d’inclure dans la catégorie 1, 3 ou 6 de l’annexe II les biens, précisés dans la lettre, qui seraient compris par ailleurs dans la catégorie 20 de l’annexe II et dont il est propriétaire au début de l’année.
 
-#### Transferts aux catégories 8 ou 10
+#### Transferts aux catégories 8, 10 ou 43
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+
 
 
 - **(2g)** Pour l’application de la présente partie et de l’annexe II, lorsque des biens d’un contribuable sont inclus dans une catégorie distincte en vertu d’un choix que celui-ci a fait en application du paragraphe 1101(5q), les biens compris dans cette catégorie immédiatement après le début de la cinquième année d’imposition du contribuable commençant après la fin de la première année d’imposition au cours de laquelle un bien de la catégorie est devenu prêt à être mis en service par le contribuable pour l’application du paragraphe 13(26) de la Loi doivent être transférés, immédiatement après le début de cette cinquième année d’imposition, de la catégorie distincte à celle dans laquelle ils auraient été inclus, n’eût été le choix.
@@ -3976,6 +3998,11 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(2h)** Un contribuable peut, par lettre à cet effet annexée à la déclaration de revenu qu’il produit auprès du ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle il acquiert un bien, choisir d’exclure ce bien de la catégorie 44 de l’annexe II.
 
+#### Choix d’inclure des biens dans la catégorie 35
+
+
+- **(2i)** Un contribuable peut, relativement à tout bien compris par ailleurs dans la catégorie 7 de l’annexe II par l’effet de l’alinéa h) de cette catégorie et auquel l’alinéa 1100(1)z.1a) et le paragraphe 1101(5d), ou l’alinéa 1100(1)z.1c) et le paragraphe 1101(5d.2), s’appliqueraient si la catégorie 35 de cette annexe s’appliquait au bien, choisir que le bien soit compris dans la catégorie 35 plutôt que dans la catégorie 7. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le bien a été acquis.
+
 #### Règles sur le choix
 
 
@@ -3984,7 +4011,7 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 - **(4)** Le choix prévu aux alinéas 1102(8)d) ou (9)d) et au présent article entre en vigueur le premier jour de l’année d’imposition qu’il vise et s’applique à cette année ainsi qu’aux années d’imposition postérieures.
 
 - **(5)** Un choix en vertu du paragraphe (1) ou (2) s’exerce par l’envoi, sous pli recommandé, d’une lettre adressée au bureau de district où le contribuable produit habituellement les déclarations requises par l’article 150 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3; DORS/2005-371, art. 3.
 
 
 
@@ -4271,7 +4298,13 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 ***système à cycles combinés amélioré*** Système générateur d’électricité dans lequel les déchets thermiques provenant d’un ou de plusieurs systèmes de compresseur de gaz naturel sont récupérés et utilisés de façon à constituer au moins 20 pour cent de l’apport énergétique d’un procédé à cycles combinés en vue d’améliorer la production d’électricité. Le système à cycles combinés amélioré ne comprend pas le système de compresseur de gaz naturel. (*enhanced combined cycle system*)
 
 - **(14)** Le bien d’un contribuable qui ne fonctionne pas de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II en raison seulement d’un défaut, d’une défectuosité ou d’un arrêt — indépendant de la volonté du contribuable — du système dont il fait partie et qui fonctionnait de la manière prévue à cet alinéa est réputé, pour l’application de cet alinéa, fonctionner de la manière ainsi prévue pendant la durée du défaut, de la défectuosité ou de l’arrêt si le contribuable s’applique raisonnablement à rectifier la situation ou le problème dans un délai raisonnable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A).
+
+- **(15)** Pour l’application du paragraphe (14), le système d’un contribuable, visé à ce paragraphe, qui a fonctionné à un moment donné de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II comprend, après ce moment, le bien d’une autre personne ou société de personnes si les conditions suivantes sont réunies :
+	- **a)** si le bien appartenait au contribuable, il serait raisonnable de considérer qu’il fait partie de son système;
+	- **b)** le bien utilise de la vapeur provenant du système du contribuable et obtenue principalement d’un procédé industriel (sauf un procédé de production d’énergie électrique);
+	- **c)** le fonctionnement du bien est nécessaire pour que le système du contribuable puisse fonctionner de la manière prévue à l’alinéa c) de la catégorie 43.1;
+	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4.
 
 
 
@@ -8995,8 +9028,9 @@ où
 	- **i)** des biens compris aux alinéas a) à f) de la catégorie 9 de l’annexe II;
 	- **j)** des biens compris dans la catégorie 28 ou visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de l’annexe II qui, si ce n’était ces catégories, ou l’une d’elles, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
 	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40 et 43 de l’annexe II;
-	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10.
+	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
+	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5.
 
 
 
@@ -9012,7 +9046,7 @@ où
 	- **(iii)** un chevalet compris dans la catégorie 3 de l’annexe II qui est un élément accessoire d’une voie et d’un remblai de chemin de fer,
 	- **(iv)** des machines ou du matériel compris dans la catégorie 8 de l’annexe II qui sont des éléments accessoires
 		- **(A)** d’une voie et d’un remblai de chemin de fer, ou
-		- **(B)** de l’équipement de contrôle du trafic ferroviaire ou de signalisation, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont principalement de l’équipement électronique ou du logiciel de système,
+		- **(B)** de l’équipement de contrôle du trafic ferroviaire ou de signalisation, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont principalement de l’équipement électronique ou du logiciel de systèmes pour de l’équipement électronique,
 	- **(v)** compris dans la catégorie 10 de l’annexe II en vertu du sous-alinéa m)(i), (ii) ou (iii) de cette catégorie, ou
 	- **(vi)** visés à l’alinéa m) de la catégorie 10 de l’annexe II (à l’exclusion des biens visés au sous-alinéa (iv) de cet alinéa) qui sont compris dans la catégorie 28 ou 41 de l’annexe II;
 - **b)** les biens qui sont
@@ -9040,7 +9074,7 @@ où
 	- **(i)** compris dans la catégorie 9 de l’annexe II en vertu de l’alinéa g) de cette catégorie, ou
 	- **(ii)** des machines ou du matériel visés aux alinéas h) ou i) de la catégorie 9 de l’annexe II qui sont des éléments accessoires utilisés avec des biens visés au sous-alinéa (i) qui constituent du matériel de transport admissible au sens du paragraphe 127(9) de la Loi;
 - **g)** un bien compris dans la catégorie 8 de l’annexe II qui est un conteneur qui peut être utilisé de nouveau et qui est muni d’accessoires externes servant à la manutention, à la fixation ou à l’entreposage, dont la capacité est égale ou supérieure à 500 pieds cubes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-131, art. 3; DORS/85-696, art. 12; DORS/88-165, art. 20; DORS/90-22, art. 7; DORS/92-681, art. 3(F); DORS/95-244, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-131, art. 3; DORS/85-696, art. 12; DORS/88-165, art. 20; DORS/90-22, art. 7; DORS/92-681, art. 3(F); DORS/95-244, art. 4; DORS/2005-371, art. 6(F).
 
 
 
@@ -17455,10 +17489,10 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**q)** un bâtiment ou une autre structure, ou toute partie de ceux-ci, y compris les parties constituantes, notamment les fils électriques, la plomberie, les réseaux d’extincteurs automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants.
+**q)** un bâtiment ou une autre construction, ou toute partie de ceux-ci, y compris les parties constituantes notamment les fils électriques, la plomberie, les réseaux d’extinction automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants (à l’exception des biens visés à l’un des alinéas k) et m) à p) de la présente catégorie ou à l’un des alinéas a) à e) de la catégorie 8).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 10; DORS/97-377, art. 6; DORS/2005-371, art. 7..
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 10; DORS/97-377, art. 6..
 
 
 
@@ -17529,9 +17563,9 @@ acquis par le contribuable
 **(iii)** qui est une machine ou un équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-427, art. 2; DORS/85-270, art. 1; DORS/86-1092, art. 19(F) et 20; DORS/90-22, art. 11..
+
+
 
 
 
@@ -17630,9 +17664,9 @@ dans la mesure où le coût total du rajout ou de la modification ne dépasse pa
 
 
 **l)** un bien accessoire à un fil ou à un câble visés à l’alinéa j) ou à la catégorie 42, à savoir du matériel de soutien tel un poteau, un mât, un pylône, un conduit, une entretoise, une traverse, un hauban ou un isolateur.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 2; DORS/90-22, art. 12; DORS/94-140, art. 17..
+
+
 
 
 
@@ -17793,9 +17827,9 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 
 
 **k)** un rajout ou une modification fait après 1978 à un édifice compris dans la présente catégorie selon le sous-alinéa a)(viii), pourvu que le coût total de ces rajouts ou modifications ne dépasse pas 100 000 $.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 3; DORS/94-140, art. 18..
+
+
 
 
 
@@ -17833,14 +17867,30 @@ Les biens constitués par
 
 
 
-**f)** un ber roulant (*marine railway*); ou
+**f)** un ber roulant (*marine railway*);
 
 
 
-**g)** un navire en construction, à l’exception d’un navire compris dans la catégorie 41.
+**g)** un navire en construction, à l’exception d’un navire compris dans la catégorie 41;
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13..
+
+**h)** sous réserve du choix prévu au paragraphe 1103(2i), un bien acquis après le 27 février 2000 qui est :
+
+**(i)** soit un dispositif de suspension sur rails conçu pour transporter des remorques conçues pour être utilisées sur route ou sur rail,
+
+
+
+**(ii)** soit une voiture de chemin de fer;
+
+
+
+
+
+**i)** un bien acquis après le 27 février 2000 qui est une locomotive, mais non une voiture de chemin de fer automobile.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8..
+
+
 
 
 
@@ -17848,7 +17898,7 @@ Les biens constitués par
 **CATÉGORIE 8** 
 ## (20 pour cent)
 
-Les biens non compris dans les catégories 1, 2, 7, 9, 11 ou 30 qui sont constitués par :
+Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont constitués par :
 
 **a)** une structure consistant dans des machines ou du matériel de fabrication ou de transformation;
 
@@ -17975,9 +18025,9 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11 ou 30 qui sont constit
 
 
 **m)** une serre à structure rigide recouverte de plastique souple et remplaçable.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/80-881, art. 1; DORS/80-926, art. 3(F); DORS/85-853, art. 1; DORS/90-22, art. 14; DORS/94-140, art. 19; DORS/97-377, art. 7; DORS/99-179, art. 12; DORS/2005-371, art. 9..
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/80-881, art. 1; DORS/80-926, art. 3(F); DORS/85-853, art. 1; DORS/90-22, art. 14; DORS/94-140, art. 19; DORS/97-377, art. 7; DORS/99-179, art. 12..
 
 
 
@@ -18335,9 +18385,9 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 
 
 **x)** une production cinématographique ou magnétoscopique canadienne.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6..
+
+
 
 
 
@@ -18376,9 +18426,9 @@ Les biens non compris dans aucune autre catégorie, qui servent à gagner un rev
 
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 16..
+
+
 
 
 
@@ -18505,9 +18555,9 @@ ainsi que les biens qui seraient compris par ailleurs dans une autre catégorie 
 **(iv)** le matériel électronique ou les logiciels qui sont accessoires aux biens visés aux sous-alinéas (i), (ii) ou (iii) et utilisés en totalité, ou presque, avec ces biens.
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7..
+
+
 
 
 
@@ -18525,9 +18575,9 @@ Les biens qui sont des tenures à bail et les biens acquis par un contribuable q
 
 
 **c)** un bien compris dans la catégorie 23.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 21..
+
+
 
 
 
@@ -18553,9 +18603,9 @@ Les biens constitués par un brevet, une concession ou un permis de durée limit
 
 
 **e)** un bien compris dans la catégorie 44.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/83-855, art. 2; DORS/94-170, art. 4..
+
+
 
 
 
@@ -18581,9 +18631,9 @@ Sont exclus de la présente catégorie :
 
 
 **d)** les avoirs forestiers.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 22..
+
+
 
 
 
@@ -18646,9 +18696,9 @@ et les biens acquis après le 6 décembre 1991, constitués par :
 
 
 **g)** un camion ou un tracteur conçus pour transporter des marchandises et utilisés principalement à cette fin par le contribuable ou une personne avec laquelle il a un lien de dépendance dans le cadre d’une entreprise qui consiste notamment à transporter des marchandises, et dont le « poids nominal brut du véhicule », au sens du paragraphe 2(1) du [Règlement sur la sécurité des véhicules automobiles](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201038.md), dépasse 11 788 kg.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/83-340, art. 4; DORS/85-696, art. 21; DORS/91-673, art. 6; DORS/94-140, art. 23; DORS/94-686, art. 66(F)..
+
+
 
 
 
@@ -18670,26 +18720,38 @@ Les biens qui autrement seraient compris dans une autre catégorie de la présen
 
 
 
-et les biens non compris dans l’une ou l’autre de ces catégories, acquis après le 25 mai 1976, et qui sont constitués par
+**a.1)** un bien (sauf un bâtiment ou une autre construction) acquis après le 27 février 2000 qui n’a pas été utilisé à quelque fin que ce soit avant le 28 février 2000 et qui est :
+
+**(i)** soit du matériel générateur d’électricité (sauf celui visé à l’un des alinéas f) à h) de la catégorie 8),
 
 
 
-**b)** un équipement téléphonique, télégraphique ou de commutation de transmission des données, sauf
-
-**(i)** un équipement installé dans les locaux du client, ou
+**(ii)** soit du matériel de production et de distribution d’un distributeur d’eau ou de vapeur servant au chauffage ou au refroidissement (y compris, à cette fin, les canalisations servant à recueillir ou à distribuer un médium de transfert d’énergie, mais à l’exclusion du matériel ou des canalisations servant à distribuer de l’eau pour consommation, évacuation ou traitement);
 
 
 
-**(ii)** des biens qui sont constitués principalement par un équipement électronique ou un logicien de systèmes; ou
+
+
+ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne sont compris dans aucune autre catégorie de la présente annexe :
+
+
+
+**b)** un équipement téléphonique, télégraphique ou de commutation de transmission des données, sauf :
+
+**(i)** l’équipement installé dans les locaux du client,
+
+
+
+**(ii)** le bien constitué principalement par un équipement électronique ou un logiciel de systèmes pour un tel équipement;
 
 
 
 
 
 **c)** une route (sauf une route d’accès temporaire déterminée du contribuable), un trottoir, une piste d’envol, une aire de stationnement ou d’entreposage ou une construction de surface semblable.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/99-179, art. 13; DORS/2005-371, art. 10..
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/99-179, art. 13..
 
 
 
@@ -18704,9 +18766,9 @@ Les biens constitués d’un film cinématographique acquis avant le 26 mai 1976
 
 
 **b)** d’un long métrage portant visa.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/95-244, art. 9(F)..
+
+
 
 
 
@@ -18780,9 +18842,9 @@ n’était pas inférieur aux 2/3 du montant par lequel le revenu brut tiré de 
 
 
 **c)** les biens n’avaient pas été utilisés à quelque fin que ce soit avant d’être acquis par le contribuable.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48, 79(F) et 81(F)..
+
+
 
 
 
@@ -18840,9 +18902,9 @@ et qui, suivant l’attestation du ministre de l’Industrie, sur demande faite 
 
 
 **b)** dont le coût en capital a été inclus dans le coût approuvé d’immobilisation défini dans la Loi stimulant le développement de certaines régions sur lequel coût approuvé d’immobilisation le montant d’un octroi en vertu de cette Loi a été fondé par le ministre de l’Industrie.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48..
+
+
 
 
 
@@ -18864,9 +18926,9 @@ Les biens qui seraient autrement compris dans la catégorie 8 ou 19
 
 
 **b)** dont le coût en capital a été inclus dans le coût approuvé d’immobilisation défini dans la Loi stimulant le développement de certaines régions sur lequel coût approuvé d’immobilisation le montant d’un octroi en vertu de cette Loi a été fondé par le ministre de l’Industrie.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48 et 81(F)..
+
+
 
 
 
@@ -18888,9 +18950,9 @@ Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le 
 **(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-426, art. 6; DORS/90-22, art. 17..
+
+
 
 
 
@@ -18913,9 +18975,9 @@ Les biens constitués par
 
 
 **d)** un bâtiment ou autre structure, y compris les parties constituantes, érigé sur le terrain faisant l’objet d’une tenure à bail ou d’un permis prévu à l’alinéa c), dans les cas où le bâtiment ou la structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevé au plus tard le 31 janvier 1987.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/85-13, art. 2; DORS/94-686, art. 79(F)..
+
+
 
 
 
@@ -19049,9 +19111,9 @@ Pour l’application des alinéas a) et b) :
 
 
 **e)** il est fait abstraction du sous-alinéa b)(i) si les alinéas c) ou d) s’appliquent au contribuable et si les biens ont été acquis avant 1992.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-146, art. 1; DORS/79-426, art. 7; DORS/94-140, art. 24; DORS/94-686, art. 79(F); DORS/97-377, art. 8..
+
+
 
 
 
@@ -19078,9 +19140,9 @@ si le contribuable était, le 22 octobre 1968, une société, une commission ou 
 
 
 **d)** se serait appliqué si ce n’était du sous-alinéa (i) ou (ii) dudit alinéa.
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-686, art. 48 et 79(F)..
+
+
 
 
 
@@ -19095,9 +19157,9 @@ Les biens constitués par
 
 
 **b)** l’eau enrichie au deutérium (communément appelée «l’eau lourde» acquis après le 22 mai 1979.
+
+
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-427, art. 3..
-
-
 
 
 
@@ -19391,9 +19453,9 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14..
+
+
 
 
 
@@ -19415,9 +19477,9 @@ Un bien qui est un engin spatial de télécommunications inhabité conçu pour �
 **(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 20..
+
+
 
 
 
@@ -19492,9 +19554,9 @@ et qui a été acquis par le contribuable :
 **(ii)** à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la production auprès d’un organisme public au Canada est exigée, produit auprès de celui-ci avant le 18 juin 1987.
 
 
-
-
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-146, art. 3; DORS/79-426, art. 9; DORS/81-244, art. 3; DORS/82-1070, art. 1; DORS/90-22, art. 21..
+
+
 
 
 
@@ -19921,7 +19983,7 @@ où :
 
 
 
-**b)** soit sont des biens qui, selon le cas :
+**b)** soit sont des biens, sauf des biens visés au paragraphe 1101(2c), qui, selon le cas :
 
 **(i)** étant visés aux alinéas f.1), g), j), k), l), m), r), t) ou u) de la catégorie 10, seraient compris dans cette catégorie en l’absence du présent alinéa,
 
@@ -19984,7 +20046,7 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11..
 
 
 
@@ -20023,7 +20085,7 @@ Les biens acquis après le 25 février 1992 qui, selon le cas :
 
 **CATÉGORIE 43.1** 
 
-Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autrement compris dans les catégories 1, 2 ou 8 et :
+Les biens, sauf le matériel remis en état ou remis à neuf, qui seraient compris par ailleurs dans les catégories 1, 2, 8 ou 17 (par l’effet de son sous-alinéa a.1)(i)) et :
 
 **a)** qui constituent :
 
@@ -20133,7 +20195,7 @@ Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autre
 
 
 
-ainsi que les biens, sauf ceux visés à l’alinéa a), qui seraient autrement compris dans une autre catégorie de la présente annexe et :
+ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui seraient autrement compris dans une autre catégorie de la présente annexe et :
 
 
 
@@ -20143,7 +20205,7 @@ ainsi que les biens, sauf ceux visés à l’alinéa a), qui seraient autrement 
 
 
 
-**(ii)** une installation hydro-électrique d’un producteur d’énergie hydro-électrique (sauf le matériel de distribution et les biens autrement compris dans les catégories 10 ou 17), qui répond aux conditions suivantes :
+**(ii)** une installation hydro-électrique d’un producteur d’énergie hydro-électrique (sauf le matériel de distribution, les biens compris autrement dans la catégorie 10 et les biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i)) qui répond aux conditions suivantes :
 
 **(A)** elle a une production annuelle moyenne maximale de 15 mégawatts, une fois terminé l’aménagement du site,
 
@@ -20203,7 +20265,7 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-à l’exclusion du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens autrement compris dans les catégories 10 ou 17,
+à l’exclusion du matériel de distribution, du matériel auxiliaire générateur d’électricité, des biens compris autrement dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
 
 
 
@@ -20235,11 +20297,11 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens autrement compris dans les catégories 10 ou 17,
+à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire générateur d’électricité, des biens compris autrement dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
 
 
 
-**(vii)** du matériel de surface que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique uniquement à partir d’énergie géothermique, y compris les pompes, les échangeurs thermiques, les séparateurs de vapeur, le matériel générateur d’électricité et le matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de transmission, du matériel de distribution, du matériel de stockage de l’énergie électrique et des biens autrement compris dans les catégories 10 ou 17,
+**(vii)** du matériel de surface que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique uniquement à partir d’énergie géothermique, y compris les pompes, échangeurs thermiques, séparateurs de vapeur, matériel générateur d’électricité et matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de transmission, du matériel de distribution, du matériel de stockage de l’énergie électrique, des biens compris autrement dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
 
 
 
@@ -20312,7 +20374,7 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12..
 
 
 
