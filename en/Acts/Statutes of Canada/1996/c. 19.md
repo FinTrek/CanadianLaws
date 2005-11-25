@@ -328,7 +328,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(a)** a controlled substance or precursor in respect of which this Act has been contravened,
 	- **(b)** any thing in which a controlled substance or precursor referred to in paragraph (a) is contained or concealed,
 	- **(c)** offence-related property, or
-	- **(d)** any thing that will afford evidence in respect of an offence under this Act
+	- **(d)** any thing that will afford evidence in respect of an offence under this Act or an offence, in whole or in part in relation to a contravention of this Act, under section 354 or 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
 is in a place may, at any time, issue a warrant authorizing a peace officer, at any time, to search the place for any such controlled substance, precursor, property or thing and to seize it.
 
 **Application of section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
@@ -362,6 +362,8 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Seizure of additional things**
 
 - **(8)** A peace officer who executes a warrant issued under subsection (1) or exercises powers under subsection (5) or (7) may seize, in addition to the things mentioned in the warrant and in subsection (6), any thing that the peace officer believes on reasonable grounds has been obtained by or used in the commission of an offence or that will afford evidence in respect of an offence.
+> 1996, c. 19, s. 11; 2005, c. 44, s. 13.
+
 
 
 
