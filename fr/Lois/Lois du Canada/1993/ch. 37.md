@@ -271,14 +271,14 @@ Loi sur l'accise, partager, conformément à la présente loi et à ses règleme
 **10** 
 
 - **(1)** Le ministre doit, conformément aux règlements, partager le produit de l’aliénation de biens confisqués ou, selon le cas, tout montant perçu à titre d’amende lorsqu’un organisme chargé de l’application de la loi au Canada a participé, concernant une infraction, à une enquête dont le résultat est :
-	- **a)** la confiscation de biens au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1) ou (2) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+	- **a)** la confiscation de biens au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
 	- **b)** la confiscation au profit de Sa Majesté, en vertu du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de biens qui sont ou qui ont été visés par une ordonnance de prise en charge;
 	- **c)** la condamnation à une amende en vertu du paragraphe 462.37(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite de procédures engagées sur l’instance du gouvernement fédéral.
 
 **[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md)**
 
 - **(2)** Si la participation d'un organisme chargé de l'application de la loi au Canada a contribué à la confiscation de biens au profit de Sa Majesté en vertu de la  [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou au paiement d'une pénalité aux termes du paragraphe 18(2) de cette loi, le ministre partage avec cet organisme, en conformité avec les règlements, le produit de l'aliénation des biens confisqués ou la pénalité, selon le cas.
-> 1993, ch. 37, art. 10; 1996, ch. 19, art. 90; 1997, ch. 23, art. 23; 2000, ch. 17, art. 95; 2001, ch. 41, art. 86 et 110.
+> 1993, ch. 37, art. 10; 1996, ch. 19, art. 90; 1997, ch. 23, art. 23; 2000, ch. 17, art. 95; 2001, ch. 41, art. 86 et 110; 2005, ch. 44, art. 14.
 
 
 
@@ -286,20 +286,13 @@ Loi sur l'accise, partager, conformément à la présente loi et à ses règleme
 
 **Partage à l'étranger**
 
-**11** Le procureur général peut, avec l'agrément du gouverneur en conseil et conformément aux règlements, conclure avec des gouvernements étrangers des accords de partage mutuel dans les cas où des organismes canadiens ou étrangers, selon le cas, chargés de l'application de la loi ont participé à des enquêtes dont le résultat est la confiscation de biens ou la condamnation à une amende ou ont participé à ce qui a mené à la confiscation de biens ou au paiement d'une pénalité aux termes de la  
-[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md). Le partage porte alors sur :
-- **a)
-** le produit de l'aliénation des biens confisqués au profit de Sa Majesté en vertu de l'article 83.14, des paragraphes 462.37(1) ou (2) ou 462.38(2), du sous-alinéa 462.43
-c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la 
-[Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) ou en vertu de la 
-[Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) et de ceux qui sont ou ont été visés par une ordonnance de prise en charge et qui ont été confisqués au profit de Sa Majesté en vertu du paragraphe 490(9) du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ainsi que sur le produit des biens qui ont été aliénés par les gouvernements étrangers;
+**11** Le procureur général peut, avec l'agrément du gouverneur en conseil et conformément aux règlements, conclure avec des gouvernements étrangers des accords de partage mutuel dans les cas où des organismes canadiens ou étrangers, selon le cas, chargés de l'application de la loi ont participé à des enquêtes dont le résultat est la confiscation de biens ou la condamnation à une amende ou ont participé à ce qui a mené à la confiscation de biens ou au paiement d'une pénalité aux termes de la  [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md). Le partage porte alors sur :
+- **a)** le produit de l’aliénation des biens confisqués au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) et de ceux qui sont ou ont été visés par une ordonnance de prise en charge et qui ont été confisqués au profit de Sa Majesté en vertu du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ainsi que sur le produit des biens qui ont été aliénés par les gouvernements étrangers;
 - **b) 
 ** les amendes perçues en application du paragraphe 462.37(3) du  
 [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à la suite des procédures engagées sur l'instance du gouvernement fédéral et celles perçues par les gouvernements étrangers pour tenir lieu de la confiscation ainsi que les pénalités payées aux termes du paragraphe 18(2) de la  
 [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md).
-> 1993, ch. 37, art. 11; 1996, ch. 19, art. 91; 1997, ch. 23, art. 24; 2000, ch. 17, art. 96; 2001, ch. 32, art. 79, ch. 41, art. 111, 120 et 137.
+> 1993, ch. 37, art. 11; 1996, ch. 19, art. 91; 1997, ch. 23, art. 24; 2000, ch. 17, art. 96; 2001, ch. 32, art. 79, ch. 41, art. 111, 120 et 137; 2005, ch. 44, art. 15.
 
 
 
@@ -363,8 +356,8 @@ c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du
 
 **Déficit**
 
-**14** Sont portées au débit du compte des biens saisis et portées au crédit du fonds de roulement les sommes nécessaires pour couvrir le déficit qui pourrait résulter de la différence entre le produit de l’aliénation des biens confisqués au profit de Sa Majesté — en application des paragraphes 462.37(1) ou (2), 462.38(2), du sous-alinéa 462.43c)(iii) ou du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) — et les dépenses relatives aux biens, intérêts compris, portées au débit du fonds de roulement en application du paragraphe 12(2).
-> 1993, ch. 37, art. 14; 1996, ch. 19, art. 92; 1997, ch. 23, art. 25.
+**14** Sont portées au débit du compte des biens saisis et portées au crédit du fonds de roulement les sommes nécessaires pour couvrir le déficit qui pourrait résulter de la différence entre le produit de l’aliénation des biens confisqués au profit de Sa Majesté — en application des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou du paragraphe 490(9) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres sub­stances — et les dépenses relatives aux biens, intérêts compris, portées au débit du fonds de roulement en application du paragraphe 12(2).
+> 1993, ch. 37, art. 14; 1996, ch. 19, art. 92; 1997, ch. 23, art. 25; 2005, ch. 44, art. 16.
 
 
 
