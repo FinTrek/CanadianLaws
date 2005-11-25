@@ -1,0 +1,552 @@
+> [Go to French version](/fr/Lois/Lois%20du%20Canada/2005/ch.%2047,%20s.%201.md)
+
+# Wage Earner Protection Program Act
+
+**S.C. 2005, c. 47, s. 1**
+
+
+Assented to on 25 November 2005
+
+```
+[Enacted by section 1 of chapter 47 of the Statutes of Canada, 2005, not in force.]
+```
+----------
+
+
+
+
+
+
+
+
+
+
+## Short Title
+
+
+
+**Short title**
+
+**1** This Act may be cited as the Wage Earner Protection Program Act.
+
+
+
+
+## Interpretation
+
+
+
+**Meaning of wages**
+
+**2** 
+
+- **(1)** In this Act, ***wages*** includes salaries, commissions, compensation for services rendered, vacation pay and any other amounts prescribed by regulation but does not include severance or termination pay.
+
+**Employers subject to a receivership**
+
+- **(2)** For the purposes of this Act, an employer is subject to a receivership when any property of the employer is under the possession or control of a receiver.
+
+**Meaning of receiver**
+
+- **(3)** In this Act, ***receiver*** means a receiver within the meaning of subsection 243(2) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+
+**Words and expressions**
+
+- **(4)** Unless otherwise provided, words and expressions used in this Act have the same meaning as in the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+
+
+
+
+## Designation of Minister
+
+
+
+**Power of Governor in Council**
+
+**3** The Governor in Council may designate a member of the Queen’s Privy Council for Canada to be the Minister for the purposes of this Act.
+
+
+
+
+## Program Established
+
+
+
+**Establishment**
+
+**4** The Wage Earner Protection Program is established to make payments to individuals in respect of wages owed to them by employers who are bankrupt or subject to a receivership.
+
+
+
+
+## Eligibility for Payments
+
+
+
+**Conditions of eligibility**
+
+**5** An individual is eligible to receive a payment if
+- **(a)** the individual’s employment with an employer was terminated, within the meaning of the regulations;
+- **(b)** the former employer is bankrupt or subject to a receivership;
+- **(c)** the individual is owed wages by the former employer; and
+- **(d)** the wages that are owed were earned during the six months immediately before the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer.
+
+
+
+
+**Exceptions**
+
+**6** 
+
+- **(1)** An individual is ineligible to receive a payment if, at the date of his or her former employer’s bankruptcy, or the first day on which there was a receiver in relation to the former employer, the individual had been employed by the former employer for a period of three months or less or, in relation to any category of wage earners specified by the regulations, any shorter period specified in the regulations.
+
+**Other exceptions**
+
+- **(2)** An individual is ineligible to receive a payment in respect of any wages earned during a period in which the individual
+	- **(a)** was an officer or a director of the former employer;
+	- **(b)** had a controlling interest, within the meaning of the regulations, in the business of the former employer; or
+	- **(c)** occupied a managerial position, within the meaning of the regulations, with the former employer.
+
+
+
+
+## Amounts Covered by Program
+
+
+
+**Amount of payment**
+
+**7** 
+
+- **(1)** The amount that may be paid under this Act to an eligible individual is the amount of wages owing to the individual that were earned in the six months immediately before the date of bankruptcy or the first day on which there was a receiver in relation to the former employer less any deductions applicable to the payment under a federal or provincial law.
+
+**Maximum**
+
+- **(2)** The maximum amount that may be paid under this Act to an eligible individual in respect of any particular bankruptcy or receivership is the greater of
+	- **(a)** $3,000, and
+	- **(b)** an amount equal to four times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md);
+less any deductions applicable under a federal or provincial law.
+
+**Allocation of payments**
+
+- **(3)** Unless otherwise prescribed by regulation, payments made under this Act to an individual are to be allocated to vacation pay only after payments are first allocated to all other components of wages owing to the individual.
+
+
+
+
+## Application for Payment
+
+
+
+**Application**
+
+**8** To receive a payment, an individual must apply to the Minister in the form and manner, and within the period, provided for in the regulations.
+
+
+
+
+**Minister’s determination**
+
+**9** If the Minister determines that the applicant is eligible for a payment, the Minister must approve the making of the payment.
+
+
+
+
+**Notification**
+
+**10** The Minister must inform the applicant of the Minister’s determination.
+
+
+
+
+## Review and Appeal
+
+
+
+**Request for review**
+
+**11** An applicant who is the subject of a determination may, in accordance with the regulations, request a review of the determination.
+
+
+
+
+**Review decision**
+
+**12** After considering the request for a review, the Minister may confirm, vary or rescind the determination.
+
+
+
+
+**Review decision is final**
+
+**13** Subject to the right of appeal under section 14, the review decision is final and may not be questioned or reviewed in any court.
+
+
+
+
+**Appeal of review decision**
+
+**14** An applicant may appeal a review decision to an adjudicator only on a question of law or a question of jurisdiction. An appeal must be made in accordance with the regulations.
+
+
+
+
+**Appointment of adjudicator**
+
+**15** An appeal is to be heard by an adjudicator appointed by the Minister.
+
+
+
+
+**Appeal on the record**
+
+**16** An appeal is an appeal on the record.
+
+
+
+
+**Adjudicator’s decision**
+
+**17** After considering an appeal, the adjudicator may confirm, vary or rescind the review decision.
+
+
+
+
+**Copies of decision**
+
+**18** The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal.
+
+
+
+
+**Decision is final**
+
+**19** The adjudicator’s decision is final and may not be questioned or reviewed in any court.
+
+
+
+
+**No review by *certiorari*, etc.**
+
+**20** No order shall be made, process entered or proceeding taken in any court — whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise — to question, review, prohibit or restrain an adjudicator in any proceedings of the adjudicator.
+
+
+
+
+## Administration
+
+
+
+### Duties of Trustees and Receivers
+
+
+
+**General duties**
+
+**21** 
+
+- **(1)** For the purposes of this Act, every trustee and receiver shall
+	- **(a)** identify each individual who is owed wages by a bankrupt or insolvent employer, as the case may be, that were earned during the period of six months immediately before the date of the bankruptcy or the first day on which there was a receiver in relation to the employer;
+	- **(b)** determine the amount of wages owing to each individual in respect of that six-month period;
+	- **(c)** inform each individual of the existence of the program established by section 4 and the conditions under which payments may be made under this Act;
+	- **(d)** provide the Minister and each individual, in accordance with the regulations, with information prescribed by the regulations in relation to the individual and the amount of wages owing to the individual in respect of the six-month period; and
+	- **(e)** inform the Minister
+		- **(i)** in the case of a trustee, when he or she is discharged, and
+		- **(ii)** in the case of a receiver, when the receiver has completed his or her duties as receiver.
+
+**Compliance with directions**
+
+- **(2)** A trustee or receiver must comply with any directions of the Minister relating to the administration of this Act.
+
+
+
+
+**Fees and disbursements**
+
+**22** 
+
+- **(1)** A trustee or receiver who performs duties for the purposes of this Act may charge reasonable fees and disbursements for the performance of those duties.
+
+**Payment**
+
+- **(2)** The fees and disbursements are to be paid out of the property or estate of the bankrupt or insolvent employer.
+
+
+
+
+### Powers of Minister
+
+
+
+**Directions to trustees and receivers**
+
+**23** 
+
+- **(1)** The Minister may give directions to trustees and receivers in respect of the performance of their duties under this Act.
+
+**Directions not statutory instruments**
+
+- **(2)** A direction given by the Minister is not a statutory instrument within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+
+
+
+
+**Power to summon, etc.**
+
+**24** 
+
+- **(1)** For the purposes of the administration of this Act, the Minister may
+	- **(a)** summon any person before him or her and require the person to give evidence, orally or in writing, and on oath or, if the person is entitled to affirm in civil matters, on solemn affirmation;
+	- **(b)** require any person to provide the Minister with any information or document that the Minister considers necessary; and
+	- **(c)** require any person to provide an affidavit or a statutory declaration attesting to the truth of any information provided by the person.
+
+**Taking oaths, etc.**
+
+- **(2)** Any person, if designated by the Minister for the purpose, may administer oaths and take and receive affidavits, statutory declarations and solemn affirmations for the purpose of or incidental to the administration of this Act. Every person so designated has, with respect to any such oath, affidavit, declaration or affirmation, all the powers of a commissioner for administering oaths or taking affidavits.
+
+**Acceptance of oaths, etc.**
+
+- **(3)** The Minister may, for the purposes of administering this Act, accept any oath administered or any affidavit, statutory declaration or solemn affirmation taken or received by any person who has the powers of a commissioner for taking affidavits and who is an officer or employee of
+	- **(a)** a department or other portion of the federal public administration specified in any of Schedules I, IV and V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
+	- **(b)** a department of the government of a province.
+
+
+
+
+**Inspections**
+
+**25** 
+
+- **(1)** A person designated by the Minister for the purpose may, at any reasonable time, enter any place in which he or she reasonably believes there is any information or document relevant to the administration of this Act and may, in that place,
+	- **(a)** inspect any books, records, electronic data or other documents that he or she reasonably believes may contain information that is relevant to the administration of this Act;
+	- **(b)** use or cause to be used any computer system to examine any data contained in or available to the computer system;
+	- **(c)** reproduce or cause to be reproduced any record from the data in the form of a print-out or other intelligible output;
+	- **(d)** take any document or other thing from the place for examination or, in the case of a document, for copying; and
+	- **(e)** use or cause to be used any copying equipment to make copies of any documents.
+
+**Prior authorization**
+
+- **(2)** If any place referred to in subsection (1) is a dwelling-house, the designated person may not enter the dwelling-house without the consent of the occupant, except under the authority of a warrant issued under subsection (3).
+
+**Warrant to enter dwelling-house**
+
+- **(3)** A judge may issue a warrant authorizing the designated person to enter a dwelling-house subject to the conditions specified in the warrant if, on *ex parte* application, the judge is satisfied by information on oath that
+	- **(a)** there are reasonable grounds to believe that the dwelling-house is a place referred to in subsection (1);
+	- **(b)** entry into the dwelling-house is necessary for any purpose related to the administration of this Act; and
+	- **(c)** entry into the dwelling-house has been, or there are reasonable grounds to believe that entry will be, refused.
+
+**Orders if entry not authorized**
+
+- **(4)** If the judge is not satisfied that entry into the dwelling-house is necessary for any purpose related to the administration of this Act, the judge may, to the extent that access was or may be expected to be refused and that information or documents are or may be expected to be kept in the dwelling-house,
+	- **(a)** order the occupant of the dwelling-house to provide the Minister, or a person designated by the Minister for the purpose, with reasonable access to any information or document that is or should be kept in the dwelling-house; and
+	- **(b)** make any other order that is appropriate in the circumstances to carry out the purposes of this Act.
+
+
+
+
+**Duty to assist**
+
+**26** The owner or person in charge of a place that is entered by the designated person and every person found there must
+- **(a)** give the designated person all reasonable assistance to enable him or her to exercise his or her powers and perform his or her duties; and
+- **(b)** provide the designated person with any information relevant to the administration of this Act that he or she requires.
+
+
+
+
+**Information to be made available to Minister**
+
+**27** Despite subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), personal information relating to an applicant that is collected or obtained by the Canada Employment Insurance Commission must, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility to receive a payment under this Act.
+> 2005, c. 47, ss. 1 "27", 140.
+
+
+
+
+**28** [Repealed, 2005, c. 47, s. 140]
+
+
+
+
+**Social Insurance Number**
+
+**29** No person shall knowingly use, communicate or allow to be communicated the Social Insurance Number of an individual that was obtained for a purpose related to an application for a payment under this Act except for the purpose of the administration or enforcement of this Act or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+
+
+
+**Delegation**
+
+**30** The Minister may delegate to any person the exercise of any power or the performance of any duty or function that may be exercised or performed by the Minister under this Act.
+
+
+
+
+**Audit of applications**
+
+**31** 
+
+- **(1)** Subject to subsections (2) to (4), the Minister may, on his or her initiative, conduct an audit of any application for payment under this Act.
+
+**Applications with payment**
+
+- **(2)** An audit of an application in respect of which a payment was made may be conducted at any time within three years after the day on which the payment was made.
+
+**Exception**
+
+- **(3)** If the Minister has reasonable grounds to believe that a payment was made on the basis of any false or misleading information, an audit of the application in respect of which the payment was made may be conducted at any time within six years after the payment was made.
+
+**Other applications**
+
+- **(4)** An audit of an application in respect of which no payment was made may be conducted at any time within three years after the day on which the applicant was sent a notice informing the applicant that he or she was not eligible to receive a payment.
+
+
+
+
+**Determination of overpayment**
+
+**32** 
+
+- **(1)** If the Minister determines that an individual who received a payment was not eligible to receive the payment or has received a payment in an amount greater than the amount the individual was eligible to receive, the Minister shall send to the individual a notice
+	- **(a)** informing the individual of the determination; and
+	- **(b)** specifying the amount that the individual was not eligible to receive.
+
+**Debt due to Her Majesty**
+
+- **(2)** The amount specified in the notice may be recovered from the individual as a debt due to Her Majesty in right of Canada.
+
+**Certificate of default**
+
+- **(3)** The amount of any debt referred to in subsection (2) that remains unpaid 30 days after the notice referred to in that subsection is sent may be certified by the Minister, and registration of the certificate in the Federal Court has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+**Garnishment**
+
+**33** If the Minister is of the opinion that a person is or is about to become liable to make a payment to a person who is liable to Her Majesty under section 32, the Minister may, by written notice, order the first person to pay to the Receiver General, on account of the second person’s liability, all or part of the money otherwise payable to the second person.
+
+
+
+
+**No payment or partial payment**
+
+**34** If the Minister determines that an individual has not received a payment that he or she is eligible to receive, or has not received the full amount that he or she is eligible to receive, the Minister shall approve a payment to the individual in an amount equal to the amount that the individual did not receive.
+
+
+
+
+### Financial Provisions
+
+
+
+**Payments out of C.R.F.**
+
+**35** There may be paid out of the Consolidated Revenue Fund all payments authorized to be made under this Act.
+
+
+
+
+**Subrogation**
+
+**36** 
+
+- **(1)** If a payment is made under this Act to an individual in respect of unpaid wages, Her Majesty in right of Canada is, to the extent of the amount of the payment, subrogated to any rights the individual may have in respect of those unpaid wages against
+	- **(a)** the bankrupt or insolvent employer; and
+	- **(b)** if the bankrupt or insolvent employer is a corporation, a director of the corporation.
+
+**Maintaining an action**
+
+- **(2)** For the purposes of subsection (1), Her Majesty in right of Canada may maintain an action against a bankrupt or insolvent employer, or a director, either in the name of the individual referred to in that subsection or in the name of Her Majesty in right of Canada.
+
+
+
+
+**Amount not assignable**
+
+**37** An amount that is payable under this Act is not capable of being assigned, charged, attached, anticipated or given as security and any transaction appearing to do so is void or, in the Province of Quebec, null.
+
+
+
+
+### Offences and Penalties
+
+
+
+**Offences**
+
+**38** 
+
+- **(1)** Every person commits an offence who
+	- **(a)** makes a false or deceptive entry, or omits to enter a material particular, in any record or book of account that contains information that supports an application under this Act;
+	- **(b)** in relation to an application under this Act, makes a representation that the person knows to be false or misleading;
+	- **(c)** in relation to an application under this Act, makes a declaration that the person knows is false or misleading because of the non-disclosure of facts;
+	- **(d)** being required under this Act to provide information, provides information or makes a representation that the person knows to be false or misleading;
+	- **(e)** obtains a payment under this Act by false pretence;
+	- **(f)** being the payee of any cheque issued as a payment under this Act, knowingly negotiates or attempts to negotiate it knowing that the person is not entitled to the payment or any part of the payment; or
+	- **(g)** participates in, assents to or acquiesces in an act or omission mentioned in any of paragraphs (a) to (f).
+
+**Trustees and receivers**
+
+- **(2)** Every person who fails to comply with any of the requirements of subsection 21(1) commits an offence.
+
+**Limitation of prosecutions**
+
+- **(3)** A prosecution for an offence under subsection (1) or (2) may be commenced at any time within six years after the time when the subject-matter of the prosecution arose.
+
+
+
+
+**Obstruction**
+
+**39** 
+
+- **(1)** Every person commits an offence who delays or obstructs a person in the exercise of his or her powers or the performance of his or her duties under this Act.
+
+**Limitation of prosecutions**
+
+- **(2)** A prosecution for an offence under subsection (1) may be commenced at any time within two years after the time when the subject-matter of the prosecution arose.
+
+
+
+
+**Punishment**
+
+**40** Every person who is guilty of an offence under section 38 or 39 is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both.
+
+
+
+
+### Regulations
+
+
+
+**Regulations**
+
+**41** 
+
+- **(1)** The Governor in Council may make regulations generally for carrying out the purposes of this Act, including regulations
+	- **(a)** prescribing any amounts to be wages for the purposes of this Act;
+	- **(b)** defining what constitutes a termination of employment for the purposes of paragraph 5(a);
+	- **(c)** specifying categories of wage earners and periods of time for the purposes of subsection 6(1);
+	- **(d)** defining the expressions controlling interest and managerial position for the purposes of subsection 6(2);
+	- **(e)** respecting the period within which, and the manner and form in which, applications for payments are to be made;
+	- **(f)** respecting the period within which and the manner in which payments are to be made;
+	- **(g)** respecting the period within which, and the manner and form in which, a review of a determination may be requested or an appeal may be made from a review decision;
+	- **(h)** prescribing the information that is to be provided by trustees and receivers to the Minister and to individuals for the purposes of paragraph 21(1)(d); and
+	- **(i)** respecting the period within which, and the manner and form in which, trustees and receivers are to provide the information referred to in paragraph (h).
+
+**Allocation of payments**
+
+- **(2)** The Governor in Council may make regulations respecting the allocation of payments under this Act to the different components of wages for the purposes of subsection 7(3).
+
+
+
+
+## Review of Act
+
+
+
+**Review**
+
+**42** Within five years after the day on which this section comes into force, the Minister must cause a review of this Act and its administration and operation to be conducted, and cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
+
+
