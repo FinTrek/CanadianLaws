@@ -311,7 +311,7 @@ Y est assimilée l’offre de produire.
 	- **a)** une substance désignée ou un précurseur ayant donné lieu à une infraction à la présente loi;
 	- **b)** une chose qui contient ou recèle une substance désignée ou un précurseur visé à l’alinéa a);
 	- **c)** un bien infractionnel;
-	- **d)** une chose qui servira de preuve relativement à une infraction à la présente loi.
+	- **d)** une chose qui servira de preuve relativement à une infraction à la présente loi ou, dans les cas où elle découle en tout ou en partie d’une contravention à la présente loi, à une infraction prévue aux articles 354 ou 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Application de l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
@@ -344,6 +344,8 @@ Y est assimilée l’offre de produire.
 **Saisie d’autres choses**
 
 - **(8)** L’agent de la paix qui exécute le mandat ou qui exerce les pouvoirs visés aux paragraphes (5) ou (7) peut, en plus des choses mentionnées au mandat et au paragraphe (6), saisir toute chose dont il a des motifs raisonnables de croire qu’elle a été obtenue ou utilisée dans le cadre de la perpétration d’une infraction ou qu’elle servira de preuve à l’égard de celle-ci.
+> 1996, ch. 19, art. 11; 2005, ch. 44, art. 13.
+
 
 
 
