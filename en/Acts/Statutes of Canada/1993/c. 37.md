@@ -272,7 +272,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **10** 
 
 - **(1)** Where a law enforcement agency in Canada has participated in the investigation of an offence that leads to
-	- **(a)** the forfeiture to Her Majesty of property pursuant to section 83.14, subsection 462.37(1) or (2) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
+	- **(a)** the forfeiture to Her Majesty of property pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md);
 	- **(b)** the forfeiture to Her Majesty pursuant to subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) of any property that is or was the subject of a management order, or
 	- **(c)** the imposition of a fine pursuant to subsection 462.37(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada,
 the Minister shall, in accordance with the regulations, share the proceeds of disposition of that forfeited property, or any amount paid or recovered on account of the fine, as the case may be.
@@ -280,7 +280,7 @@ the Minister shall, in accordance with the regulations, share the proceeds of di
 **[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md)**
 
 - **(2)** If the participation of a law enforcement agency in Canada has led to the forfeiture to Her Majesty of property under the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) or the payment of a penalty under subsection 18(2) of that Act, the Minister shall, in accordance with the regulations, share the proceeds of disposition of that forfeited property or the penalty, as the case may be.
-> 1993, c. 37, s. 10; 1996, c. 19, s. 90; 1997, c. 23, s. 23; 2000, c. 17, s. 95;  2001, c. 41, ss. 86, 110.
+> 1993, c. 37, s. 10; 1996, c. 19, s. 90; 1997, c. 23, s. 23; 2000, c. 17, s. 95;  2001, c. 41, ss. 86, 110; 2005, c. 44, s. 14.
 
 
 
@@ -289,22 +289,13 @@ the Minister shall, in accordance with the regulations, share the proceeds of di
 **Sharing outside Canada**
 
 **11** The Attorney General may, with the approval of the Governor in Council and in accordance with the regulations, enter into an agreement with the government of any foreign state respecting the reciprocal sharing of
-- **( 
-a)** the proceeds of disposition of
-	- **(i)** property forfeited to Her Majesty under section 83.14, subsection 462.37(1) or (2) or 462.38(2), subparagraph 462.43( 
-c)(iii) or subsection 490.1(1) or 490.2(2) of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 16(1) or 17(2) of the 
-[Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) or the 
-[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), or
-	- **(ii)** property that is or was the subject of a management order and that was forfeited under subsection 490(9) of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
+- **(a)** the proceeds of disposition of
+	- **(i)** property forfeited to Her Majesty pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md), or
+	- **(ii)** property that is or was the subject of a management order and that was forfeited under subsection 490(9) of the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)
 and the proceeds arising from the disposition of property by that foreign state, and
-- **( 
-b)** amounts paid or recovered on account of fines imposed under subsection 462.37(3) of the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada, penalties paid under subsection 18(2) of the 
-[Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) and amounts paid or recovered on account of fines imposed in lieu of forfeiture under the laws of that foreign state,
-if law enforcement agencies of that foreign state, or of Canada, as the case may be, have participated in the investigation of the offence or offences that led to the forfeiture of the property or the imposition of the fine or if the law enforcement agencies' participation led to the forfeiture of the property or the payment of the penalty under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md).
-> 1993, c. 37, s. 11; 1996, c. 19, s. 91; 1997, c. 23, s. 24; 2000, c. 17, s. 96; 2001, c. 32, s. 79, c. 41, ss. 111, 120, 137.
+- **(b)** amounts paid or recovered on account of fines imposed under subsection 462.37(3) of the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to proceedings commenced at the instance of the Government of Canada, penalties paid under subsection 18(2) of the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) and amounts paid or recovered on account of fines imposed in lieu of forfeiture under the laws of that foreign state,
+if law enforcement agencies of that foreign state, or of Canada, as the case may be, have participated in the investigation of the offence or offences that led to the forfeiture of the property or the imposition of the fine or if the law enforcement agencies' participation led to the forfeiture of the property or the payment of the penalty under the  [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md).
+> 1993, c. 37, s. 11; 1996, c. 19, s. 91; 1997, c. 23, s. 24; 2000, c. 17, s. 96; 2001, c. 32, s. 79, c. 41, ss. 111, 120, 137; 2005, c. 44, s. 15.
 
 
 
@@ -366,10 +357,10 @@ if law enforcement agencies of that foreign state, or of Canada, as the case may
 
 
 
-**Where costs are greater than proceeds**
+**If costs are greater than proceeds**
 
-**14** Where the proceeds of disposition available to Her Majesty from the forfeiture of any property pursuant to subsection 462.37(1) or (2) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) are insufficient to cover the outstanding amounts charged to the Working Capital Account pursuant to subsection 12(2), and any interest thereon, in respect of the property, there shall be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
-> 1993, c. 37, s. 14; 1996, c. 19, s. 92; 1997, c. 23, s. 25.
+**14** If the proceeds of disposition available to Her Majesty from the forfeiture of any property pursuant to subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 16(1) or 17(2) of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) are insufficient to cover the outstanding amounts charged to the Working Capital Account pursuant to subsection 12(2), and any interest on it, in respect of the property, there shall be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
+> 1993, c. 37, s. 14; 1996, c. 19, s. 92; 1997, c. 23, s. 25; 2005, c. 44, s. 16.
 
 
 
