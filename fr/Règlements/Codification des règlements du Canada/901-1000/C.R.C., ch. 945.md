@@ -7735,14 +7735,14 @@ où
 où
 - **A** A représente le montant positif ou négatif, selon le cas, calculé au titre de l’assureur pour l’année en application du paragraphe (4) relativement aux biens de placement canadiens, à l’exception des avoirs canadiens, dont il est propriétaire à un moment de l’année;
 - **A.1** le montant positif ou négatif, selon le cas, calculé au titre de l’assureur pour l’année en application du paragraphe (4.1) relativement aux biens de placement canadiens, sauf les avoirs canadiens, dont il a disposé au cours de l’année ou d’une année d’imposition antérieure;
-- **B** la valeur globale pour l’année des biens de placement canadiens, à l’exception des avoirs canadiens, dont l’assureur est propriétaire à un moment de l’année;
+- **B** la valeur globale pour l’année des biens de placement canadiens dont l’assureur est propriétaire à un moment de l’année, à l’exception des avoirs canadiens et des biens visés à l’alinéa i) de la définition de ***bien de placement canadien*** au paragraphe 2400(1);
 - **C** la valeur globale pour l’année des biens de placement canadiens de l’assureur pour l’année (sauf des avoirs canadiens et des biens visés à l’alinéa i) de la définition de ***bien de placement canadien*** au paragraphe 2400(1)) qui comptent parmi ses biens d’assurance désignés pour l’année;
 - **D** le montant positif ou négatif, selon le cas, calculé au titre de l’assureur pour l’année en application du paragraphe (4) relativement aux biens de placement canadiens qui constituent des avoirs canadiens dont il est propriétaire à un moment de l’année;
-- **E** la valeur globale pour l’année des biens de placement canadiens qui constituent des avoirs canadiens dont l’assureur est propriétaire à un moment de l’année;
+- **E** la valeur globale pour l’année des biens de placement canadiens qui constituent des avoirs canadiens dont l’assureur est propriétaire à un moment de l’année, à l’exception des biens visés à l’alinéa i) de la définition de ***bien de placement canadien*** au paragraphe 2400(1);
 - **F** la valeur globale pour l’année des biens de placement canadiens de l’assureur (sauf des biens visés à l’alinéa i) de la définition de ***bien de placement canadien*** au paragraphe 2400(1)) qui constituent des avoirs canadiens comptant parmi ses biens d’assurance désignés pour l’année;
 - **G** le montant positif ou négatif, selon le cas, calculé au titre de l’assureur pour l’année en application du paragraphe (4) relativement aux biens de placement étrangers dont il est propriétaire à un moment de l’année;
 - **G.1** le montant positif ou négatif, selon le cas, calculé au titre de l’assureur pour l’année en application du paragraphe (4.1) relativement aux biens de placement étrangers dont il a disposé au cours de l’année ou d’une année d’imposition antérieure;
-- **H** la valeur globale pour l’année des biens de placement étrangers dont l’assureur est propriétaire à un moment de l’année;
+- **H** la valeur globale pour l’année des biens de placement étrangers dont l’assureur est propriétaire à un moment de l’année, à l’exception des biens visés à l’alinéa e) de la définition de ***bien de placement*** au paragraphe 2400(1);
 - **J** la valeur globale pour l’année des biens de placement étrangers de l’assureur (sauf des biens visés à l’alinéa e) de la définition de ***bien de placement*** au paragraphe 2400(1)) qui comptent parmi ses biens d’assurance désignés pour l’année.
 
 - **(4)** Le montant positif ou négatif, selon le cas, calculé au titre d’un assureur pour une année d’imposition en application du présent paragraphe relativement à un bien est calculé selon la formule suivante :
@@ -7751,7 +7751,7 @@ A - B
 ```
 où 
 - **A** représente le total des montants suivants qui sont déterminés relativement au bien pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
-- **a)** les revenus bruts de placements de l’assureur pour l’année provenant du bien, à l’exception des dividendes imposables qui sont ou seraient déductibles en application du paragraphe 138(6) de la Loi dans le calcul de son revenu imposable pour l’année,
+- **a)** les revenus bruts de placements de l’assureur pour l’année provenant du bien, à l’exception des dividendes imposables qui sont ou seraient déductibles en application de l’article 112 ou du paragraphe 138(6) de la Loi dans le calcul de son revenu imposable pour l’année,
 - **b)** les montants qui sont ou seraient inclus en application des alinéas 138(4)b) et c) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **c)** les montants qui sont ou seraient inclus dans le calcul des gains en capital imposables de l’assureur pour l’année provenant de la disposition du bien,
 - **d)** les montants qui sont ou seraient inclus dans le calcul des gains de l’assureur pour l’année provenant de la disposition du bien, à l’exception d’un titre du Canada et d’une immobilisation,
@@ -7793,7 +7793,7 @@ où les éléments A et B correspondent aux montants calculés selon le paragrap
 - **(7)** [Abrogé, DORS/2000-413, art. 6]
 
 - **(8)** Pour l’application du présent article, les biens de placement étrangers d’un assureur, sauf s’il s’agit d’un assureur non résidant qui a établi que les biens de placement ne sont pas réellement rattachés à ses entreprises d’assurance au Canada, sont ceux de ses biens de placement qui ne constituent pas des biens de placement canadiens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6; DORS/2005-393, art. 1.
 
 
 
