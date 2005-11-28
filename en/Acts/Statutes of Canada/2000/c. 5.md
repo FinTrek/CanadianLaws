@@ -1525,10 +1525,15 @@ An organization shall investigate all complaints. If a complaint is found to be 
 <tr>
 <td>1</td>
 <td>[Federal Real Property Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/92/502.md)</td>
-<td>Sections 9 and 11</td>
+<td>Sections 9 and 11 **[SOR/2005-407]**</td>
+</tr>
+<tr>
+<td>1</td>
+<td>[Federal Real Property Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/92/502.md)</td>
+<td>Sections 9 and 11 **[SOR/2004-309, s. 2]**</td>
 </tr>
 </table>
 
-> 2000, c. 5, Sch. 3; SOR/2004-309, s. 2.
+> 2000, c. 5, Sch. 3; SOR/2004-309, s. 2; SOR/2005-407.
 
 
