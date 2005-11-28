@@ -7772,14 +7772,14 @@ or
 where
 - **A** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4) in respect of Canadian investment property (other than Canadian equity property) owned by the insurer at any time in the year;
 - **A.1** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4.1) in respect of Canadian investment property (other than Canadian equity property) disposed of by the insurer in the year or preceding year;
-- **B** is the total value for the year of Canadian investment property (other than Canadian equity property) owned by the insurer at any time in the year;
+- **B** is the total value for the year of Canadian investment property (other than Canadian equity property and any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) owned by the insurer at any time in the year;
 - **C** is the total value for the year of the insurer’s Canadian investment property for the year (other than Canadian equity property and any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) that is designated insurance property of the insurer for the year;
 - **D** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4) in respect of Canadian investment property that is Canadian equity property owned by the insurer at any time in the year;
-- **E** is the total value for the year of Canadian investment property that is Canadian equity property owned by the insurer at any time in the year;
+- **E** is the total value for the year of Canadian investment property that is Canadian equity property (other than any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) owned by the insurer at any time in the year;
 - **F** is the total value for the year of the insurer’s Canadian investment property (other than any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) for the year that is Canadian equity property that is designated insurance property of the insurer for the year;
 - **G** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4) in respect of foreign investment property owned by the insurer at any time in the year;
 - **G.1** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4.1) in respect of foreign investment property disposed of by the insurer in the year or a preceding taxation year;
-- **H** is the total value for the year of foreign investment property owned by the insurer at any time in the year; and
+- **H** is the total value for the year of foreign investment property (other than any property described in paragraph (e) of the definition ***investment property*** in subsection 2400(1)) owned by the insurer at any time in the year; and
 - **J** is the total value for the year of the insurer’s foreign investment property (other than any property described in paragraph (e) of the definition ***investment property*** in subsection 2400(1)) that is designated insurance property of the insurer for the year.
 
 - **(4)** The positive or negative amount, as the case may be, determined under this subsection in respect of an insurer for a taxation year in respect of property shall be the amount determined by the formula
@@ -7788,7 +7788,7 @@ A - B
 ```
 where
 - **A** is the total of the following amounts determined in respect of the property for the year, or that would be determined in respect of the property for the year if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which the property was held by the insurer:
-- **(a)** the insurer’s gross investment revenue for the year (other than taxable dividends that were or would be deductible in computing the insurer’s taxable income for the year under subsection 138(6) of the Act) derived from the property,
+- **(a)** the insurer’s gross investment revenue for the year (other than taxable dividends that were or would be deductible in computing the insurer’s taxable income for the year under section 112 or subsection 138(6) of the Act) derived from the property,
 - **(b)** all amounts that were or would be included in computing the insurer’s income for the year under paragraphs 138(4)(b) and (c) of the Act in respect of the property,
 - **(c)** all amounts that were or would be included in computing the insurer’s taxable capital gains for the year from the disposition of the property,
 - **(d)** all amounts that were or would be included in computing the insurer’s gains for the year from the disposition of the property (other than a Canada security or capital property),
@@ -7831,7 +7831,7 @@ exceeds
 - **(7)** [Repealed, SOR/2000-413, s. 6]
 
 - **(8)** For the purposes of this section, ***foreign investment property*** of an insurer means investment property of the insurer (unless the insurer is a non-resident insurer and it is established by the insurer that the investment property is not effectively connected with its Canadian insurance businesses) that is not Canadian investment property of the insurer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F); 69(F); SOR/2000-413, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F), 69(F); SOR/2000-413, s. 6; SOR/2005-393, s. 1.
 
 
 
