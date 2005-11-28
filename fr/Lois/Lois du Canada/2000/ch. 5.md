@@ -1509,10 +1509,15 @@ Une organisation doit faire enquête sur toutes les plaintes. Si une plainte est
 <tr>
 <td>1</td>
 <td>[Règlement concernant les immeubles fédéraux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/92/502.md)</td>
-<td>Articles 9 et 11</td>
+<td>Articles 9 et 11 **[DORS/2005-407]**</td>
+</tr>
+<tr>
+<td>1</td>
+<td>[Règlement concernant les immeubles fédéraux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/92/502.md)</td>
+<td>Articles 9 et 11 **[DORS/2004-309, art. 2]**</td>
 </tr>
 </table>
 
-> 2000, ch. 5, ann. 3; DORS/2004-309, art. 2.
+> 2000, ch. 5, ann. 3; DORS/2004-309, art. 2; DORS/2005-407.
 
 
