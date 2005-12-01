@@ -493,16 +493,8 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 - **(3)** Au cours de l’exercice, le surintendant peut établir une cotisation provisoire dans le cadre du paragraphe (2).
 
-**Pénalité**
-
-- **(4)** Le surintendant peut faire payer une pénalité prévue par règlement à l’institution financière ou à l’administrateur d’un régime de pension qui :
-	- **a)** ne fournit pas les relevés ou renseignements requis, dans les délais requis, par la loi fédérale qui régit l’institution ou la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md), selon le cas;
-	- **b)** ne fournit pas des renseignements complets et exacts dans le cadre de ces relevés ou renseignements.
-
-**Infraction continue**
-
-- **(5)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction prévue à l’alinéa (4)a).
-> 1997, ch. 15, art. 339; 1999, ch. 28, art. 131.
+- **(4) et (5)** [Abrogés, 2001, ch. 9, art. 474]
+> 1997, ch. 15, art. 339; 1999, ch. 28, art. 131; 2001, ch. 9, art. 474.
 
 
 
