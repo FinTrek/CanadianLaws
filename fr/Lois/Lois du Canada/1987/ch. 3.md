@@ -98,8 +98,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Incompatibilité**
 
-**4** Les dispositions de la présente loi et de ses textes d’application l’emportent sur les dispositions incompatibles de toute loi fédérale d’application extracôtière et de ses textes d’application.
-> 1987, ch. 3, art. 4; 1992, ch. 35, art. 44.
+**4** Les dispositions de la présente loi et de ses textes d’application l’emportent sur les dispositions incompatibles de toute loi fédérale d’application extracôtière — sauf la [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md) — et de ses textes d’application.
+> 1987, ch. 3, art. 4; 1992, ch. 35, art. 44; 2005, ch. 27, art. 18.
 
 
 
