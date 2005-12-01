@@ -14,7 +14,7 @@ Sanctionnée sur le 23 juin 2005
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que la Loi constitutionnelle de 1982 reconnaît et confirme les droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada;
 
@@ -34,7 +34,7 @@ que l’Accord stipule qu’une loi doit être adoptée par le Parlement du Cana
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -60,15 +60,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’accord sur les revendications territoriales signé le 22 janvier 2005 pour le compte des Inuit du Labrador, de Sa Majesté la Reine du chef de Terre-Neuve-et-Labrador et de Sa Majesté la Reine du chef du Canada, avec ses modifications éventuelles.
+***Accord*** L’accord sur les revendications territoriales signé le 22 janvier 2005 pour le compte des Inuit du Labrador, de Sa Majesté la Reine du chef de Terre-Neuve-et-Labrador et de Sa Majesté la Reine du chef du Canada, avec ses modifications éventuelles. (*Agreement*)
 
-***accord sur le traitement fiscal*** L’accord sur le traitement fiscal signé le 15 mars 2005 pour le compte des Inuit du Labrador, le 24 mars 2005 pour le compte de Sa Majesté la Reine du chef de Terre-Neuve-et-Labrador et le 12 avril 2005 pour le compte de Sa Majesté la Reine du chef du Canada, avec ses modifications éventuelles.
+***accord sur le traitement fiscal*** L’accord sur le traitement fiscal signé le 15 mars 2005 pour le compte des Inuit du Labrador, le 24 mars 2005 pour le compte de Sa Majesté la Reine du chef de Terre-Neuve-et-Labrador et le 12 avril 2005 pour le compte de Sa Majesté la Reine du chef du Canada, avec ses modifications éventuelles. (*Tax Treatment Agreement*)
 
-***gouvernement nunatsiavut*** Le gouvernement établi au titre de l’alinéa 17.3.3a) de l’Accord.
+***gouvernement nunatsiavut*** Le gouvernement établi au titre de l’alinéa 17.3.3a) de l’Accord. (*Nunatsiavut Government*)
 
-***loi inuite*** S’entend au sens de l’article 1.1.1 de l’Accord.
+***loi inuite*** S’entend au sens de l’article 1.1.1 de l’Accord. (*Inuit law*)
 
-***règlement inuit*** S’entend au sens de la définition de ***règlement***, à l’article 1.1.1 de l’Accord.
+***règlement inuit*** S’entend au sens de la définition de règlement, à l’article 1.1.1 de l’Accord. (*Inuit bylaw*)
 
 
 
@@ -267,12 +267,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Loi sur l’enregistrement des lobbyistes
-> [Abrogé, 2005, ch. 27, art. 26]
-
-
-
 **19** [Abrogé, 2005, ch. 27, art. 26]
 
 
@@ -346,6 +340,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#L-4.3_f_s27'>[*]</a></sup>**27** La présente loi, à l’exception des articles 22 à 26, entre en vigueur à la date fixée par décret.
 
-<a name='L-4.3_f_s27'><sup>*</sup></a>: [Note : Articles 22 à 26 en vigueur à la sanction le 23 juin 2005.]<br />
+<a name='L-4.3_f_s27'><sup>*</sup></a>: [Note : Articles 22 à 26 en vigueur à la sanction le 23 juin 2005; loi, à l’exception des articles 22 à 26, en vigueur le 1<sup>er</sup> décembre 2005, *voir* TR/2005-117.]<br />
 
 
