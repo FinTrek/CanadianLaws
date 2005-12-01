@@ -110,9 +110,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **4** In case of any inconsistency or conflict between
 - **(a)** this Act or any regulations made thereunder, and
-- **(b)** any other Act of Parliament that applies to the offshore area or any regulations made under that Act,
+- **(b)** any other Act of Parliament that applies to the offshore area or any regulations made under that Act, except the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md),
 this Act and the regulations made thereunder take precedence.
-> 1987, c. 3, s. 4; 1992, c. 35, s. 44.
+> 1987, c. 3, s. 4; 1992, c. 35, s. 44; 2005, c. 27, s. 18.
 
 
 
