@@ -58,15 +58,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the land claims agreement signed on behalf of the Inuit of Labrador, Her Majesty the Queen in right of Newfoundland and Labrador and Her Majesty the Queen in right of Canada on January 22, 2005, including any amendments made to it.
+***Agreement*** means the land claims agreement signed on behalf of the Inuit of Labrador, Her Majesty the Queen in right of Newfoundland and Labrador and Her Majesty the Queen in right of Canada on January 22, 2005, including any amendments made to it. (*Accord*)
 
-***Inuit bylaw*** means a Bylaw as defined in section 1.1.1 of the Agreement.
+***Inuit bylaw*** means a Bylaw as defined in section 1.1.1 of the Agreement. (*règlement inuit*)
 
-***Inuit law*** means an Inuit Law as defined in section 1.1.1 of the Agreement.
+***Inuit law*** means an Inuit Law as defined in section 1.1.1 of the Agreement. (*loi inuite*)
 
-***Nunatsiavut Government*** means the government established pursuant to subsection 17.3.3(a) of the Agreement.
+***Nunatsiavut Government*** means the government established pursuant to subsection 17.3.3(a) of the Agreement. (*gouvernement nunatsiavut*)
 
-***Tax Treatment Agreement*** means the tax treatment agreement signed on behalf of the Inuit of Labrador on March 15, 2005, Her Majesty the Queen in right of Newfoundland and Labrador on March 24, 2005 and Her Majesty the Queen in right of Canada on April 12, 2005, including any amendments made to it.
+***Tax Treatment Agreement*** means the tax treatment agreement signed on behalf of the Inuit of Labrador on March 15, 2005, Her Majesty the Queen in right of Newfoundland and Labrador on March 24, 2005 and Her Majesty the Queen in right of Canada on April 12, 2005, including any amendments made to it. (*accord sur le traitement fiscal*)
 
 
 
@@ -273,12 +273,6 @@ the issue shall not be decided until the party raising the issue has served noti
 
 
 
-
-### Lobbyists Registration Act
-> [Repealed, 2005, c. 27, s. 26]
-
-
-
 **19** [Repealed, 2005, c. 27, s. 26]
 
 
@@ -352,6 +346,6 @@ the issue shall not be decided until the party raising the issue has served noti
 
 <sup><a href='#L-4.3_e_s27'>[*]</a></sup>**27** This Act, other than sections 22 to 26, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='L-4.3_e_s27'><sup>*</sup></a>: [Note: Sections 22 to 26 in force on assent June 23, 2005.]<br />
+<a name='L-4.3_e_s27'><sup>*</sup></a>: [Note: Sections 22 to 26 in force on assent June 23, 2005; Act, other than sections 22 to 26, in force December 1, 2005, *see* SI/2005-117.]<br />
 
 
