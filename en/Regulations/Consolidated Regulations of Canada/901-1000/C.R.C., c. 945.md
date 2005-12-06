@@ -2736,8 +2736,10 @@ in respect of which the election is made;
 		- **(xxvii)** of Class 41, 25 per cent,
 		- **(xxviii)** of Class 42, 12 per cent,
 		- **(xxix)** of Class 43, 30 per cent,
-		- **(xxix.1)** of Class 43.1, 30 per cent, and
+		- **(xxix.1)** of Class 43.1, 30 per cent,
 		- **(xxx)** of Class 44, 25 per cent,
+		- **(xxxi)** of Class 45, 45 per cent, and
+		- **(xxxii)** of Class 46, 30 per cent,
 of the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
 
 #### Class 13
@@ -3034,6 +3036,7 @@ but, for greater certainty, does not include intangible property (including syst
 - **(1.13)** For the purposes of this section,
 	- **(a)** ***exempt property*** means
 		- **(i)** general purpose office furniture or office equipment included in Class 8 in Schedule II (including, for greater certainty, mobile office equipment such as cellular telephones and pagers) or general purpose electronic data processing equipment and ancillary data processing equipment, included in paragraph (f) of Class 10 in Schedule II, other than any individual piece thereof having a capital cost to the taxpayer in excess of $1,000,000,
+		- **(i.1)** general-purpose electronic data processing equipment and ancillary data processing equipment, included in Class 45 in Schedule II, other than any individual item of that type of equipment having a capital cost to the taxpayer in excess of $1,000,000,
 		- **(ii)** furniture, appliances, television receivers, radio receivers, telephones, furnaces, hot-water heaters and other similar properties, designed for residential use,
 		- **(iii)** a property that is a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, or a motor vehicle of a type commonly called a van or pick-up truck, or a similar vehicle,
 		- **(iv)** a truck or tractor that is designed for hauling freight on highways,
@@ -3398,7 +3401,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1.
 
 
 
@@ -3670,11 +3673,10 @@ and in respect of which the taxpayer has, by letter attached to the return of hi
 #### Rapidly Depreciating Electronic Equipment
 
 
-- **(5p)** Subject to subsection (5q), a separate class is prescribed for one or more properties of a taxpayer acquired in a taxation year and included in the year in Class 8 in Schedule II, or for one or more properties of a taxpayer acquired in a taxation year and included in the year in Class 10 in Schedule II, where each of the properties has a capital cost to the taxpayer of at least $1,000 and is
-	- **(a)** general-purpose electronic data processing equipment and systems software therefor, including ancillary data processing equipment, included in paragraph (f) of Class 10 in Schedule II;
-	- **(b)** computer software;
-	- **(c)** a photocopier; or
-	- **(d)** office equipment that is electronic communications equipment, such as a facsimile transmission device or telephone equipment.
+- **(5p)** Subject to subsection (5q), a separate class is prescribed for one or more properties of a taxpayer acquired in a taxation year and included in the year in Class 8 in Schedule II, where each of the properties has a capital cost to the taxpayer of at least $1,000 and is
+	- **(a)** computer software;
+	- **(b)** a photocopier; or
+	- **(c)** office equipment that is electronic communications equipment, such as a facsimile transmission device or telephone equipment.
 
 - **(5q)** Each of subsections (5p) and (5s) apply to a property or properties of a taxpayer only if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that the subsection apply to the property or properties, as the case may be.
 
@@ -3703,7 +3705,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2.
 
 
 
@@ -4101,6 +4103,15 @@ and, for the purposes of the application of this definition,
 
 ***computer software*** includes systems software and a right or licence to use computer software; (*logiciel*)
 
+***data network infrastructure equipment*** means network infrastructure equipment that controls, transfers, modulates or directs data, and that operates in support of telecommunications applications such as e-mail, instant messaging, audio- and video-over-Internet Protocol or Web browsing, Web searching and Web hosting, including data switches, multiplexers, routers, remote access servers, hubs, domain name servers, and modems, but does not include
+- **(a)** network equipment (other than radio network equipment) that operates in support of telecommunications applications, if the bandwidth made available by that equipment to a single end-user of the network is 64 kilobits per second or less in either direction,
+- **(b)** radio network equipment that operates in support of wireless telecommunications applications unless the equipment supports digital transmission on a radio channel,
+- **(c)** network equipment that operates in support of broadcast telecommunications applications and that is unidirectional,
+- **(d)** network equipment that is end-user equipment, including telephone sets, personal digital assistants and facsimile transmission devices,
+- **(e)** equipment that is described in paragraph (f.2) or (v) of Class 10 or in Class 45,
+- **(f)** wires or cables, or similar property, and
+- **(g)** structures; (*matériel d’infrastructure pour réseaux de données*)
+
 ***designated overburden removal cost*** of a taxpayer means any cost incurred by him in respect of clearing or removing overburden from a mine in Canada owned or operated by him where the cost
 - **(a)** was incurred after November 16, 1978 and before 1988,
 - **(b)** was incurred after the mine came into production in reasonable commercial quantities,
@@ -4285,6 +4296,12 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 - **(13)** The definitions in this subsection apply for the purposes of this subsection and subsection (14) and Class 43.1 in Schedule II.
 
+***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
+
+***bio-oil*** means liquid fuel that is created from wood waste or plant residues using a thermo-chemical conversion process that takes place in the absence of oxygen. (*bio-huile*)
+
+***blast furnace gas*** means the gas produced in a blast furnace of a steel mill, by the chemical reaction of carbon (in the form of coke, coal or natural gas), the oxygen in air and iron ore. (*gaz de haut fourneau*)
+
 ***digester gas*** means a mixture of gases that are produced from the decomposition of organic waste in a digester and that are extracted from an eligible sewage treatment facility for that organic waste. (*gaz de digesteur*)
 
 ***distribution equipment*** means equipment (other than transmission equipment) used to distribute electrical energy generated by electrical generating equipment. (*matériel de distribution*)
@@ -4297,11 +4314,13 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***enhanced combined cycle system*** means an electrical generating system in which thermal waste from one or more natural gas compressor systems is recovered and used to contribute at least 20 per cent of the energy input of a combined cycle process in order to enhance the generation of electricity, but does not include the natural gas compressor systems. (*système à cycles combinés amélioré*)
 
-***fossil fuel*** means a fuel that is petroleum, natural gas or related hydrocarbons, coal, coal gas, coke, lignite or peat. (*combustible fossile*)
+***fossil fuel*** means a fuel that is petroleum, natural gas or related hydrocarbons, basic oxygen furnace gas, blast furnace gas, coal, coal gas, coke, coke oven gas, lignite or peat. (*combustible fossile*)
 
 ***landfill gas*** means a mixture of gases that are produced from the decomposition of organic waste and that are extracted from an eligible landfill site. (*gaz d’enfouissement*)
 
 ***municipal waste*** means the combustible portion of waste material (other than waste material that is considered to be toxic or hazardous waste pursuant to any law of Canada or of a province) that is generated in Canada and that is accepted at an eligible landfill site or an eligible waste management facility and that, when burned to generate energy, emits only those fluids or other emissions that are in compliance with the law of Canada or of a province. (*déchets municipaux*)
+
+***plant residue*** means the residue of plants that would, but for its use in a system to convert biomass into bio-oil, be waste material, but does not include wood waste or waste that no longer has the chemical properties of the plants of which it is a residue. (*résidus végétaux*)
 
 ***solution gas*** means a fossil fuel that is gas that would otherwise be flared and has been extracted from a solution of gas and produced oil. (*gaz dissous*)
 
@@ -4318,7 +4337,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(b)** the property utilizes steam obtained from the taxpayer’s system primarily in an industrial process (other than the generation of electrical energy);
 	- **(c)** the operation of the property is necessary for the taxpayer’s system to operate in the manner required by paragraph (c) of Class 43.1; and
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1.
 
 
 
@@ -9069,10 +9088,10 @@ where
 	- **(h)** a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway);
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
 	- **(j)** a property included in Class 28 or paragraph (a), (a.1), (a.2) or (a.3) of Class 41 in Schedule II that would, but for Class 28 or 41, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
-	- **(k)** a property included in any of Classes 21, 24, 27, 29, 34, 39, 40 and 43 in Schedule II;
+	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45 or 46 in Schedule II;
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II; or
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4.
 
 
 
@@ -18279,7 +18298,7 @@ Property not included in any other class that is
 
 
 
-**(f)** general-purpose electronic data processing equipment and systems software therefor, including ancillary data processing equipment, acquired after May 25, 1976, but not including property that is principally or is used principally as
+**(f)** general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, acquired after May 25, 1976 and before March 23, 2004 (or after March 22, 2004 and before 2005 if an election in respect of the property is made under subsection 1101(5q)), but not including property that is principally or is used principally as
 
 **(i)** electronic process control or monitor equipment,
 
@@ -18538,7 +18557,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(x)** a Canadian film or video production.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5..
 
 
 
@@ -20256,7 +20275,11 @@ Property, other than reconditioned or remanufactured equipment, that would other
 
 
 
-**(ii)** equipment that generates both electrical and heat energy,
+**(ii)** equipment that generates both electrical and heat energy other than, for greater certainty, fuel cell equipment,
+
+
+
+**(ii.1)** fixed location fuel cell equipment that has a peak capacity of not less than 3 kilowatts of electrical output and uses hydrogen generated only from internal, or ancillary, fuel reformation equipment,
 
 
 
@@ -20272,7 +20295,7 @@ Property, other than reconditioned or remanufactured equipment, that would other
 
 
 
-**(iv)** control, feedwater and condensate systems and other equipment, where that property is ancillary to equipment described in subparagraph (i), (ii) or (iii), or
+**(iv)** control, feedwater and condensate systems and other equipment, if that property is ancillary to equipment described in any of subparagraphs (i) to (iii), or
 
 
 
@@ -20330,7 +20353,7 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 **(i)** part of a system (other than an enhanced combined cycle system) that
 
-**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy, or both electrical and heat energy, using only fuel that is fossil fuel, wood waste, municipal waste, landfill gas or digester gas, or any combination of those fuels, and
+**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy, or both electrical and heat energy, using only fuel that is fossil fuel, wood waste, municipal waste, landfill gas, digester gas or bio-oil, or any combination of those fuels, and
 
 
 
@@ -20364,13 +20387,13 @@ and property, other than reconditioned or remanufactured equipment, that would o
 
 **(d)** that is
 
-**(i)** active solar heating equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of heating a liquid or gas used directly in an industrial process, including such equipment that consists of solar collectors, solar energy conversion equipment, solar water heaters, energy storage equipment, control equipment and equipment designed to interface solar heating equipment with other heating equipment, but not including buildings,
+**(i)** active solar heating equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of heating a liquid or gas used directly in an industrial process or in a greenhouse, including such equipment that consists of solar collectors, solar energy conversion equipment, solar water heaters, energy storage equipment, control equipment and equipment designed to interface solar heating equipment with other heating equipment, but not including buildings,
 
 
 
 **(ii)** a hydro-electric installation of a producer of hydro-electric energy, where that installation
 
-**(A)** has an annual average generating capacity not exceeding 15 megawatts upon completion of site development, and
+**(A)** has, if acquired after February 21, 1994 and before December 11, 2001, an annual average generating capacity not exceeding 15 megawatts upon completion of the site development, or, if acquired after December 10, 2001, a rated capacity at the hydro-electric installation site that does not exceed 50 megawatts, and
 
 
 
@@ -20384,7 +20407,11 @@ other than distribution equipment, property otherwise included in Class 10 and p
 
 
 
-**(iii)** an addition or alteration to a hydro-electric installation described in subparagraph (ii) that results in an increase in generating capacity, if the resulting annual average generating capacity of the hydro-electric installation does not exceed 15 megawatts,
+**(iii)** an addition or alteration, which is acquired after February 21, 1994 and before December 11, 2001, to a hydro-electric installation that is described in subparagraph (ii) or that would be so described if that installation were acquired by the taxpayer after February 21, 1994, and which results in an increase in generating capacity, if the resulting annual average generating capacity of the hydro-electric installation does not exceed 15 megawatts,
+
+
+
+**(iii.1)** an addition or alteration, which is acquired after December 10, 2001, to a hydro-electric installation that is described in subparagraph (ii) or that would be so described if that installation were acquired by the taxpayer after February 21, 1994, and which results in an increase in generating capacity, if the resulting rated capacity at the hydro-electric installation site does not exceed 50 megawatts,
 
 
 
@@ -20476,7 +20503,7 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 
 
-**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating heat energy from the consumption of wood waste, municipal waste, landfill gas or digester gas, if the heat energy is used directly in an industrial process carried on by the taxpayer or lessee, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including buildings or other structures, property otherwise included in Class 10 or 17, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, fuel handling equipment and electrical generating equipment, or
+**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating heat energy from the consumption of wood waste, municipal waste, landfill gas, digester gas or bio-oil, if the heat energy is used directly in an industrial process, or in a greenhouse, of the taxpayer or lessee, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and electrical generating equipment, and property otherwise included in Class 10 or 17,
 
 
 
@@ -20494,9 +20521,17 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 
 
-**(B)** is used instead of a pressure reducing valve, and
+**(B)** is used instead of a pressure reducing valve,
 
 
+
+
+
+**(xi)** equipment used in a system of the taxpayer that converts wood waste or plant residue into bio-oil, if that bio-oil is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity, or electricity and heat, other than equipment used for the collection, storage or transportation of wood waste or plant residue, buildings or other structures and property otherwise included in Class 10 or 17, or
+
+
+
+**(xii)** fixed location fuel cell equipment used by the taxpayer, or by a lessee of the taxpayer, that has a peak capacity of not less than 3 kilowatts of electrical output and uses hydrogen generated only from ancillary electrolysis equipment (or, if the fuel cell is reversible, the fuel cell itself) using electricity generated by photovoltaic, wind energy conversion or hydro-electric equipment, of the taxpayer or the lessee, and equipment ancillary to the fuel cell equipment other than buildings or other structures, transmission equipment, distribution equipment, auxiliary electrical generating equipment and property otherwise included in Class 10 or 17, and
 
 
 
@@ -20541,7 +20576,7 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12..
 
 
 
@@ -20549,7 +20584,39 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 **CLASS 44** 
 
 Property that is a patent, or a right to use patented information for a limited or unlimited period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-170, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-170, s. 5..
+
+
+
+
+**CLASS 45** 
+
+Property acquired after March 22, 2004 (other than property acquired before 2005 in respect of which an election is made under subsection 1101(5q)) that is general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, but not including property that is principally or is used principally as
+
+**(a)** electronic process control or monitor equipment;
+
+
+
+**(b)** electronic communications control equipment;
+
+
+
+**(c)** systems software for equipment referred to in paragraph (a) or (b); or
+
+
+
+**(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6..
+
+
+
+
+**CLASS 46** 
+
+Property acquired after March 22, 2004 that is data network infrastructure equipment, and systems software for that equipment, that would, but for this Class, be included in Class 8 because of paragraph (i) of that Class.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-414, s. 6.
 
 
 
