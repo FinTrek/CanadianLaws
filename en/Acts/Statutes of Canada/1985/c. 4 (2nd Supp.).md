@@ -47,7 +47,7 @@
 ***information bank director*** means
 - **(a)** with respect to any of the information banks controlled by the Department of   Social Development that may be searched under this Part, the Minister of Social Development,
 - **(b)** with respect to any of the information banks controlled by the Canada Employment Insurance Commission that may be searched under this Part, the Chairman of the Canada Employment Insurance Commission, and
-- **(c)** with respect to any of the information banks controlled by the Canada Customs and Revenue Agency that may be searched under this Part, the Minister of National Revenue;
+- **(c)** with respect to any of the information banks controlled by the Canada Revenue Agency that may be searched under this Part, the Minister of National Revenue;
 
 ***Minister*** means the Minister of Justice;
 
@@ -58,7 +58,7 @@
 ***provincial information bank*** means a source of information designated in an agreement made under section 3;
 
 ***support provision*** means a provision of an order or agreement for maintenance, alimony or family financial support and includes any order for arrears of payments thereof.
-> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158; 2005, c. 35, ss. 66, 67.
+> R.S., 1985, c. 4 (2nd Supp.), s. 2; 1996, c. 11, ss. 95, 97(E), 99; 1997, c. 1, s. 16; 1999, c. 17, s. 158; 2005, c. 35, ss. 66, 67, c. 38, s. 138.
 
 
 
@@ -231,8 +231,8 @@ may apply to the Minister, in the manner prescribed by the regulations, to have 
 
 **Information banks that may be searched**
 
-**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Social Development, the Department of National Revenue and the Canada Employment Insurance Commission.
-> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F); 2005, c. 35, s. 66.
+**15** The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Social Development, the Canada Revenue Agency and the Canada Employment Insurance Commission.
+> R.S., 1985, c. 4 (2nd Supp.), s. 15; 1996, c. 11, ss. 97, 99; 1997, c. 1, s. 19; 1999, c. 31, s. 91(F); 2005, c. 35, s. 66, c. 38, ss. 111, 146.
 
 
 
