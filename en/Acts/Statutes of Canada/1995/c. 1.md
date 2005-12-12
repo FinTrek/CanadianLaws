@@ -264,7 +264,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16** 
 
-- **(1)** The Minister of National Revenue shall, notwithstanding any other Act, on request of the Minister, make available to the Minister copies of invoices and other information collected under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) on goods imported into Canada and exported from Canada for the purpose of carrying out duties and functions of the Minister under paragraph 6(b).
+- **(1)** The Minister of Public Safety and Emergency Preparedness shall, notwithstanding any other Act, on request of the Minister, make available to the Minister copies of invoices and other information collected under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) on goods imported into Canada and exported from Canada for the purpose of carrying out duties and functions of the Minister under paragraph 6(b).
 
 **Confidentiality**
 
@@ -273,7 +273,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Exception**
 
 - **(3)** Notwithstanding subsection (2), in carrying out duties and functions under paragraph 6(b), the Minister may publish lists of names and addresses of some or all importers or exporters of a product or group of products with trade values aggregated in such a manner as to protect the confidentiality of data concerning individual importers or exporters.
-> 1995, c. 1, s. 16; 2003, c. 22, s. 224(E).
+> 1995, c. 1, s. 16; 2003, c. 22, s. 224(E); 2005, c. 38, ss. 142, 145.
 
 
 
