@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md)
 
-# Loi sur l'Agence des douanes et du revenu du Canada
+# Loi sur l’Agence du revenu du Canada
 
 **L.C. 1999, ch. 17**
 
@@ -11,7 +11,7 @@ Sanctionnée sur le 29 avril 1999
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -24,7 +24,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Titre abrégé**
 
-**1** Loi sur l’Agence des douanes et du revenu du Canada.
+**1** Loi sur l’Agence du revenu du Canada.
+> 1999, ch. 17, art. 1; 2005, ch. 38, art. 35.
+
 
 
 
@@ -37,24 +39,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence des douanes et du revenu du Canada, créée par le paragraphe 4(1).
+***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1).
 
-***commissaire*** Le commissaire des douanes et du revenu, nommé au titre de l’article 25.
+***commissaire*** Le commissaire du revenu, nommé au titre de l’article 25.
 
 ***conseil*** Le conseil de direction de l’Agence, constitué par l’article 14.
 
-***législation fiscale et douanière*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application :
-- **a)** dont le ministre, l'Agence, le commissaire ou un employé de l'Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l'application, notamment la 
-Loi sur l'accise, la 
-Loi de 2001 sur l'accise, la 
-[Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la 
-Loi de l'impôt sur le revenu, la 
-Loi sur les mesures spéciales d'importation, le 
-*Tarif des douanes* et la Loi sur la taxe d'accise;
-- **b)** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le commissaire ou un employé de l’Agence à appliquer un programme ou à exercer une activité.
+***législation fiscale*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application : 
+- **a) ** dont le ministre, l’Agence, le commissaire ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l’application, notamment la  [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la  [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la  [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la  [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et la  [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+- **b) ** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le commissaire ou un employé de l’Agence à appliquer un programme ou à exercer une activité.
+
+***législation fiscale et douanière***[Abrogée, 2005, ch. 38, art. 36]
 
 ***ministre*** Le ministre du Revenu national, nommé à titre amovible par commission sous le grand sceau.
-> 1999, ch. 17, art. 2; 2002, ch. 22, art. 322.
+> 1999, ch. 17, art. 2; 2002, ch. 22, art. 322; 2005, ch. 38, art. 36 et 140.
 
 
 
@@ -71,15 +69,15 @@ Loi sur les mesures spéciales d'importation, le
 
 
 
-## Création et mission de l’Agence
+## Prorogation et mission de l’agence
 
 
 
-**Création de l’Agence**
+**Prorogation de l’Agence**
 
 **4** 
 
-- **(1)** Est créée l’Agence des douanes et du revenu du Canada, dotée de la personnalité morale.
+- **(1)** L’Agence des douanes et du revenu du Canada, dotée de la personnalité morale, est prorogée sous le nom d’Agence du revenu du Canada.
 
 **Qualité de mandataire de Sa Majesté**
 
@@ -88,6 +86,8 @@ Loi sur les mesures spéciales d'importation, le
 **Siège**
 
 - **(3)** L’Agence a son siège au lieu au Canada fixé par le gouverneur en conseil.
+> 1999, ch. 17, art. 4; 2005, ch. 38, art. 38.
+
 
 
 
@@ -96,8 +96,8 @@ Loi sur les mesures spéciales d'importation, le
 
 **5** 
 
-- **(1)** L’Agence est chargée :
-	- **a)** de fournir l’appui nécessaire à l’application et au contrôle d’application de la législation fiscale et douanière;
+- **(1)** L’Agence est chargée :
+	- **a)** de fournir l’appui nécessaire à l’application et au contrôle d’application de la législation fiscale;
 	- **b)** de mettre en oeuvre toute entente conclue entre elle ou le gouvernement fédéral et le gouvernement d’une province ou un organisme public remplissant des fonctions gouvernementales au Canada et portant sur l’exercice d’une activité, l’administration d’une taxe ou d’un impôt ou l’application d’un programme;
 	- **c)** de mettre en oeuvre toute entente ou tout accord conclus entre elle et un ministère ou organisme fédéral et portant sur l’exercice d’une activité ou l’application d’un programme;
 	- **d)** de mettre en oeuvre toute entente conclue entre le gouvernement fédéral et un gouvernement autochtone et portant sur l’administration d’une taxe ou d’un impôt.
@@ -105,6 +105,8 @@ Loi sur les mesures spéciales d'importation, le
 **Fonctions auxiliaires**
 
 - **(2)** L’Agence peut fournir tout service — d’appui, de consultation ou autre — compatible avec sa mission.
+> 1999, ch. 17, art. 5; 2005, ch. 38, art. 39(F).
+
 
 
 
@@ -118,25 +120,26 @@ Loi sur les mesures spéciales d'importation, le
 **6** 
 
 - **(1)** Les pouvoirs et fonctions du ministre s’étendent d’une façon générale à tous les domaines de compétence du Parlement non attribués de droit aux ministères ou organismes fédéraux, à l’exception de l’Agence, et liés :
-	- **a)** aux droits de douane et aux questions qui s’y rattachent;
+	- **a)** [Abrogé, 2005, ch. 38, art. 40]
 	- **b)** aux droits d’accise;
 	- **c)** aux droits de timbre, à la préparation et à l’émission de timbres — à l’exclusion des timbres-poste — et de papier timbré, et à la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), sauf disposition contraire de celle-ci;
 	- **d)** sauf disposition contraire, aux impôts intérieurs, notamment l’impôt sur le revenu;
+	- **d.1)** à la perception des créances de Sa Majesté sous le régime de la partie V.1 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
 	- **e)** aux autres secteurs que le Parlement ou le gouverneur en conseil peut lui attribuer.
 
 **Ministre responsable**
 
 - **(2)** L’Agence est placée sous la responsabilité du ministre.
+> 1999, ch. 17, art. 6; 2005, ch. 38, art. 40.
+
 
 
 
 
 **Désignation par le ministre**
 
-**7** Le ministre peut désigner toute personne, nommément ou par catégorie, comme agent au sens du paragraphe 2(1) de la 
-[Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou comme préposé au sens de l'article 2 de la 
-Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'exercice des attributions de ces postes que peut préciser le ministre.
-> 1999, ch. 17, art. 7; 2002, ch. 22, art. 323.
+**7** Le ministre peut désigner toute personne, nommément ou par catégorie, comme préposé au sens de l’article 2 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) ou de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) en vue de l’exercice des attributions de ces postes que peut préciser le ministre.
+> 1999, ch. 17, art. 7; 2002, ch. 22, art. 323; 2005, ch. 38, art. 41.
 
 
 
@@ -167,7 +170,9 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Instructions sur l’exercice des attributions**
 
-**9** Le ministre peut donner des instructions au commissaire ou à toute autre personne sur l’exercice de celles de ses attributions qui leur sont confiées soit au titre des paragraphes 8(1) ou (4), soit sous le régime de la législation fiscale et douanière.
+**9** Le ministre peut donner des instructions au commissaire ou à toute autre personne sur l’exercice de celles de ses attributions qui leur sont confiées soit au titre des paragraphes 8(1) ou (4), soit sous le régime de la législation fiscale.
+> 1999, ch. 17, art. 9; 2005, ch. 38, art. 42(F).
+
 
 
 
@@ -334,7 +339,9 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Nomination et mandat du commissaire**
 
-**25** Le gouverneur en conseil nomme le commissaire des douanes et du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
+**25** Le gouverneur en conseil nomme le commissaire du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
+> 1999, ch. 17, art. 25; 2005, ch. 38, art. 140.
+
 
 
 
@@ -343,7 +350,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **26** 
 
-- **(1)** Le gouverneur en conseil peut nommer un commissaire délégué des douanes et du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
+- **(1)** Le gouverneur en conseil peut nommer un commissaire délégué du revenu à titre amovible pour un mandat maximal de cinq ans. Celui-ci peut recevoir un ou plusieurs nouveaux mandats d’au plus cinq ans chacun.
 
 **Attributions du commissaire délégué**
 
@@ -352,7 +359,7 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 **Absence ou empêchement du commissaire**
 
 - **(3)** En cas d’absence ou d’empêchement du commissaire ou de vacance de son poste, sa charge est assumée par le commissaire délégué.
-> 1999, ch. 17, art. 26; 2004, ch. 16, art. 4(F).
+> 1999, ch. 17, art. 26; 2004, ch. 16, art. 4(F); 2005, ch. 38, art. 43.
 
 
 
@@ -450,23 +457,29 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **Fonctions consultatives**
 
-**33** Il peut conseiller le ministre sur les questions liées à l’application et au contrôle d’application, en général, de la législation fiscale et douanière.
+**33** Il peut conseiller le ministre sur les questions liées à l’application et au contrôle d’application, en général, de la législation fiscale.
+> 1999, ch. 17, art. 33; 2005, ch. 38, art. 44(F).
+
 
 
 
 
 **Restriction**
 
-**34** Le conseil ne peut donner au commissaire ou à toute autre personne des instructions relatives :
-- **a)** à l’exercice des attributions soit qui leur sont conférées ou déléguées sous le régime de la législation fiscale et douanière ou d’une loi provinciale, soit qu’ils sont autorisés à exercer au nom du ministre sous le régime de la présente loi;
-- **b)** à l’application ou au contrôle d’application de la législation fiscale et douanière.
+**34** Le conseil ne peut donner au commissaire ou à toute autre personne des instructions relatives :
+- **a)** à l’exercice des attributions soit qui leur sont conférées ou déléguées sous le régime de la législation fiscale ou d’une loi provinciale, soit qu’ils sont autorisés à exercer au nom du ministre sous le régime de la présente loi;
+- **b)** à l’application ou au contrôle d’application de la législation fiscale.
+> 1999, ch. 17, art. 34; 2005, ch. 38, art. 45(F).
+
 
 
 
 
 **Confidentialité de certains renseignements**
 
-**35** La présente loi n’a pas pour effet d’autoriser la divulgation au conseil de renseignements qui, même indirectement, révèlent l’identité de la personne, de l’organisation ou de l’entreprise commerciale à laquelle ils ont trait et ont été soit obtenus sous le régime de la législation fiscale et douanière ou d’une loi provinciale, soit préparés à partir de renseignements ainsi obtenus.
+**35** La présente loi n’a pas pour effet d’autoriser la divulgation au conseil de renseignements qui, même indirectement, révèlent l’identité de la personne, de l’organisation ou de l’entreprise commerciale à laquelle ils ont trait et qui ont été soit obtenus sous le régime de la législation fiscale ou d’une loi provinciale, soit préparés à partir de renseignements ainsi obtenus.
+> 1999, ch. 17, art. 35; 2005, ch. 38, art. 46(F).
+
 
 
 
@@ -486,13 +499,15 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **37** 
 
-- **(1)** Le commissaire peut autoriser toute personne à exercer en son nom, selon les modalités et dans les limites qu’il fixe, les attributions qu’il exerce sous le régime de la présente loi.
+- **(1)** Le commissaire peut autoriser toute personne à exercer en son nom, selon les modalités et dans les limites qu’il fixe, les attributions qu’il exerce sous le régime de la présente loi ou de toute autre loi.
 
 **Exception**
 
-- **(2)** Sont exclus des attributions visées au paragraphe (1) :
+- **(2)** Sont exclus des attributions visées au paragraphe (1) :
 	- **a)** les attributions ministérielles conférées au commissaire sous le régime du paragraphe 8(1);
 	- **b)** le pouvoir d’autorisation prévu au paragraphe 8(4) et au présent article.
+> 1999, ch. 17, art. 37; 2005, ch. 38, art. 47.
+
 
 
 
@@ -514,11 +529,13 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **39** 
 
-- **(1)** Sous réserve des dispositions de la législation fiscale et douanière et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) relatives à la confidentialité, le commissaire est tenu de fournir, aux ministères et organismes fédéraux pour le compte desquels l’Agence applique un programme ou exerce une activité, l’information nécessaire à l’évaluation du programme ou de l’activité et à l’élaboration des orientations correspondantes.
+- **(1)** Sous réserve des dispositions de la législation fiscale et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) relatives à la confidentialité, le commissaire est tenu de fournir, aux ministères et organismes fédéraux pour le compte desquels l’Agence applique un programme ou exerce une activité, l’information nécessaire à l’évaluation du programme ou de l’activité et à l’élaboration des orientations correspondantes.
 
 **Consultation**
 
 - **(2)** Le commissaire est tenu de consulter les ministères et organismes fédéraux visés au paragraphe (1) relativement à toute question susceptible d’avoir un effet notable sur le programme ou l’activité.
+> 1999, ch. 17, art. 39; 2005, ch. 38, art. 48(F).
+
 
 
 
@@ -527,11 +544,13 @@ Loi sur l'accise ou de l'article 2 de la Loi de 2001 sur l'accise en vue de l'ex
 
 **40** 
 
-- **(1)** Sous réserve des dispositions de la législation fiscale et douanière et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) relatives à la confidentialité, le commissaire est tenu de fournir, aux gouvernements provinciaux pour le compte desquels l’Agence applique un programme, administre une taxe ou un impôt ou exerce une activité, l’information nécessaire à l’évaluation du programme, de la taxe, de l’impôt ou de l’activité et à l’élaboration des orientations correspondantes.
+- **(1)** Sous réserve des dispositions de la législation fiscale et de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) relatives à la confidentialité, le commissaire est tenu de fournir, aux gouvernements provinciaux pour le compte desquels l’Agence applique un programme, administre une taxe ou un impôt ou exerce une activité, l’information nécessaire à l’évaluation du programme, de la taxe, de l’impôt ou de l’activité et à l’élaboration des orientations correspondantes.
 
 **Consultation**
 
 - **(2)** Le commissaire consulte les gouvernements provinciaux visés au paragraphe (1) relativement à toute question susceptible d’avoir un effet notable sur le programme, la taxe, l’impôt ou l’activité.
+> 1999, ch. 17, art. 40; 2005, ch. 38, art. 49(F).
+
 
 
 
@@ -857,7 +876,7 @@ g).
 
 **Recettes d’exploitation**
 
-- **(2)** L’Agence peut, au cours d’un exercice ou, sous réserve du paragraphe (4), de l’exercice suivant, dépenser les recettes d’exploitation perçues pour cet exercice, notamment les sommes reçues :
+- **(2)** L’Agence peut, au cours d’un exercice ou, sous réserve du paragraphe (4), de l’exercice suivant, dépenser les recettes d’exploitation perçues pour cet exercice, notamment les sommes reçues :
 	- **a)** pour la vente, l’échange, la location, le prêt, le transfert ou toute autre disposition de biens, y compris les biens réels de l’Agence, au sens de l’article 73;
 	- **a.1)** pour la vente, l’échange, le prêt, le transfert ou toute autre disposition — ou pour la location — de biens, y compris les immeubles de l’Agence, au sens de l’article 73;
 	- **b)** pour la fourniture de services ou de produits, l’utilisation d’installations ou l’attribution de droits ou de privilèges;
@@ -866,12 +885,12 @@ g).
 
 **Restriction**
 
-- **(3)** Ne constituent pas des recettes d’exploitation les taxes, impôts, droits, pénalités et intérêts perçus sous le régime de la législation fiscale et douanière ou d’une loi provinciale, ni les sommes perçues pour le compte d’un ministère, gouvernement ou organisme public.
+- **(3)** Ne constituent pas des recettes d’exploitation les taxes, impôts, droits, pénalités et intérêts perçus sous le régime de la législation fiscale ou d’une loi provinciale, ni les sommes perçues pour le compte d’un ministère, gouvernement ou organisme public.
 
 **Loi de crédits**
 
 - **(4)** Une loi de crédits peut prévoir que la partie non utilisée à la fin d’un exercice des crédits affectés à l’usage de l’Agence ou de ses recettes d’exploitation est annulée à la fin de celui-ci.
-> 1999, ch. 17, art. 60; 2001, ch. 4, art. 130.
+> 1999, ch. 17, art. 60; 2001, ch. 4, art. 130; 2005, ch. 38, art. 50(F).
 
 
 
@@ -895,15 +914,17 @@ g).
 
 
 
-**Entente pour l’administration d’une taxe ou d’un impôt provincial**
+**Entente pour l’administration d’une taxe ou d’un impôt**
 
 **63** 
 
-- **(1)** L’Agence peut conclure une entente avec le gouvernement d’une province pour l’administration d’une taxe, d’un impôt ou d’une autre mesure fiscale de celle-ci, ou modifier une telle entente, si d’une part, la taxe, l’impôt ou la mesure est conforme aux lignes directrices établies par les ministres fédéral et provinciaux responsables des finances et, d’autre part, l’Agence suit la procédure établie conjointement par le ministre et le ministre des Finances.
+- **(1)** L’Agence peut conclure une entente avec le gouvernement d’une province ou d’un territoire ou un gouvernement autochtone pour l’administration d’une taxe, d’un impôt ou d’une autre mesure fiscale, ou modifier une telle entente, si celle-ci est conforme aux directives établies conjointement par le ministre et le ministre des Finances relativement à ce type d’entente.
 
 **[Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md)**
 
 - **(2)** Les parties III et III.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) ne s’appliquent pas aux ententes conclues ou modifiées conformément au paragraphe (1).
+> 1999, ch. 17, art. 63; 2005, ch. 38, art. 51.
+
 
 
 
@@ -1470,14 +1491,7 @@ g).
 
 
 
-
-## Nouvelle terminologie
-
-
-
-**Mentions**
-
-**186** Dans les autres dispositions des lois fédérales ainsi que dans les textes d’application de toute loi fédérale et dans tout autre document, les expressions désignant le ministère du Revenu national ou le sous-ministre du Revenu national valent respectivement mention, sauf indication contraire du contexte, de l’Agence des douanes et du revenu du Canada ou du commissaire des douanes et du revenu.
+**186** [Abrogé, 2005, ch. 38, art. 52]
 
 
 
