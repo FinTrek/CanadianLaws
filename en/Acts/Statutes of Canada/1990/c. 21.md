@@ -568,10 +568,14 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 
 - **(1)** The President of the Canadian Food Inspection Agency may designate under section 13 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) analysts, inspectors, veterinary inspectors and officers for the purposes of this Act.
 
+**Designation**
+
+- **(1.1)** The President of the Canada Border Services Agency may designate inspectors under paragraph 9(2)(b) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) for the purposes of enforcing this Act.
+
 **Certificate to be produced**
 
-- **(2)** Inspectors, officers and veterinary inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency attesting to their designation and, on entering any place under this Act, an inspector, officer or veterinary inspector shall show the certificate to the person in charge of the place if the person requests proof of the designation.
-> 1990, c. 21, s. 32; 1997, c. 6, s. 68.
+- **(2)** Inspectors, officers and veterinary inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency or the President of the Canada Border Services Agency, as the case may be, attesting to their designation and, on entering any place under this Act, an inspector, officer or veterinary inspector shall show the certificate to the person in charge of the place if the person requests proof of the designation.
+> 1990, c. 21, s. 32; 1997, c. 6, s. 68; 2005, c. 38, s. 117.
 
 
 
