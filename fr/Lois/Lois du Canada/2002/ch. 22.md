@@ -39,7 +39,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***administration des alcools*** Régie, commission ou organisme public autorisé par les lois d’une province à vendre des boissons enivrantes.
 
-***Agence*** L’Agence des douanes et du revenu du Canada, créée par le paragraphe 4(1) de la Loi sur l’Agence des douanes et du revenu du Canada.
+***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
 
 ***agent de la paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
@@ -75,7 +75,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commerçant de tabac agréé*** Titulaire de l’agrément de commerçant de tabac délivré en vertu de l’article 14.
 
-***commissaire*** Le commissaire des douanes et du revenu, nommé au titre de l’article 25 de la Loi sur l’Agence des douanes et du revenu du Canada.
+***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
 
 ***contenant*** En ce qui concerne les produits du tabac, enveloppe, paquet, cartouche, boîte, caisse ou autre contenant les renfermant. La présente définition ne s’applique pas aux articles 258 et 260.
 
@@ -169,7 +169,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** Produit à base d’alcool fabriqué par un utilisateur agréé conformément à une formule qu’il a fait approuver par le ministre;
 - **b)** produit importé qui, de l’avis du ministre, serait un produit visé à l’alinéa a) s’il était fabriqué au Canada par un utilisateur agréé.
 
-***préposé*** Personne nommée ou employée relativement à l’exécution ou au contrôle d’application de la présente loi, membre de la Gendarmerie royale du Canada ou membre d’un corps de police désigné en vertu du paragraphe 10(1).
+***préposé***
+- **a)** Toute personne nommée ou employée relativement à l’exécution ou au contrôle d’application de la présente loi;
+- **b)** tout membre de la Gendarmerie royale du Canada ou membre d’un corps de police désigné au titre du paragraphe 10(1);
+- **c)** s’agissant de marchandises importées qui n’ont pas été dédouanées en application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), tout agent au sens du paragraphe 2(1) de cette loi.
 
 ***prix de vente*** En ce qui concerne les cigares, le total des éléments suivants :
 - **a)** la somme demandée au titre du prix des cigares, avant l’adjonction d’une somme exigible au titre d’une taxe prévue par la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
@@ -241,6 +244,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92.
+
 
 
 
@@ -325,6 +330,12 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Préposé désigné**
 
 - **(2)** Le ministre peut autoriser des préposés ou des mandataires, à titre individuel ou collectif, à exercer les pouvoirs et les fonctions que lui confère la présente loi, notamment en matière judiciaire ou quasi judiciaire.
+
+**Préposé désigné**
+
+- **(3)** Le ministre de la Sécurité publique et de la Protection civile peut autoriser des préposés ou des mandataires, à titre individuel ou collectif, à exercer les pouvoirs et les fonctions que lui confère l’article 68.
+> 2002, ch. 22, art. 9; 2005, ch. 38, art. 93 et 145.
+
 
 
 
@@ -1207,7 +1218,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **68** 
 
-- **(1)** Quiconque importe un produit déclaré à titre d’alcool dénaturé ou d’alcool spécialement dénaturé en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) doit en permettre l’échantillonnage. Un échantillon du produit doit être prélevé par le ministre préalablement au dédouanement du produit.
+- **(1)** Quiconque importe un produit déclaré à titre d’alcool dénaturé ou d’alcool spécialement dénaturé en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) doit en permettre l’échantillonnage. Le ministre de la Sécurité publique et de la Protection civile doit prélever un échantillon du produit avant le dédouanement de celui-ci.
 
 **Analyse**
 
@@ -1215,11 +1226,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Renonciation**
 
-- **(3)** Le ministre peut, à tout moment, renoncer à l’exigence de prélever un échantillon d’un produit importé.
+- **(3)** Le ministre de la Sécurité publique et de la Protection civile peut, à tout moment, renoncer à l’exigence de prélever un échantillon d’un produit importé.
 
 **Facturation**
 
-- **(4)** Le ministre peut fixer le prix à payer par l’importateur du produit pour le prélèvement de l’échantillon et l’analyse, lequel prix ne peut excéder la somme, déterminée par le ministre, qui représente le coût pour Sa Majesté de ces prélèvement et analyse.
+- **(4)** Le ministre de la Sécurité publique et de la Protection civile peut fixer le prix à payer par l’importateur du produit pour le prélèvement de l’échantillon et l’analyse, lequel prix ne peut excéder la somme, déterminée par ce ministre, qui représente le coût pour Sa Majesté de ces prélèvement et analyse.
+> 2002, ch. 22, art. 68; 2005, ch. 38, art. 94 et 145.
+
 
 
 
@@ -2821,7 +2834,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Restriction — paiements en trop**
 
-- **(6)** Un paiement en trop de droits exigibles pour le mois d’exercice d’une personne et les intérêts y afférents ne sont appliqués conformément à l’alinéa (4)b) ou remboursés conformément à l’alinéa (4)c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres qu’elle était tenue de présenter au ministre en vertu de la présente loi, de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(6)** Un paiement en trop de droits exigibles pour le mois d’exercice d’une personne et les intérêts afférents ne sont appliqués conformément à l’alinéa (4) b) ou remboursés conformément à l’alinéa (4) c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres qu’elle était tenue de présenter soit au ministre en vertu de la présente loi, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), soit au ministre de la Sécurité publique et de la Protection civile en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
 **Restriction**
 
@@ -2829,7 +2842,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 	- **a)** d’une part, ne sont appliqués conformément à l’alinéa (5)b) en réduction d’une somme (appelée « somme impayée » au présent alinéa) qui est exigible d’une personne que dans le cas où le montant de remboursement aurait été payable à la personne à titre de remboursement si celle-ci en avait fait la demande aux termes de la présente loi le jour où elle a omis de verser la somme impayée et, dans le cas d’un paiement prévu à l’article 176, si cet article lui avait permis de demander le paiement dans les quatre ans suivant le jour où elle a versé la somme relativement à laquelle le paiement serait ainsi exigible;
 	- **b)** d’autre part, ne sont remboursés en application de l’alinéa (5)c) que dans le cas où, à la fois :
 		- **(i)** le montant de remboursement aurait été payable à la personne à titre de remboursement si celle-ci en avait fait la demande aux termes de la présente loi le jour où l’avis de cotisation lui est envoyé,
-		- **(ii)** la personne a produit l’ensemble des déclarations et autres registres qu’elle était tenue de présenter au ministre en vertu de la présente loi, de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) avant le jour où l’avis de cotisation lui est envoyé.
+		- **(ii)** la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres qu’elle était tenue de présenter soit au ministre en vertu de la présente loi, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), soit au ministre de la Sécurité publique et de la Protection civile en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
 **Présomption de déduction ou d’application**
 
@@ -2851,6 +2864,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(10)** Au présent article, le paiement en trop de droits exigibles d’une personne pour un mois d’exercice correspond à l’excédent éventuel du total des sommes payées par la personne au titre des droits exigibles pour le mois sur la somme des montants suivants :
 	- **a)** les droits exigibles pour le mois;
 	- **b)** les sommes remboursées à la personne pour le mois en vertu de la présente loi.
+> 2002, ch. 22, art. 188; 2005, ch. 38, art. 95 et 145.
+
 
 
 
@@ -2871,11 +2886,16 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Restriction**
 
-- **(4)** Un montant de remboursement n’est versé qu’une fois présentés au ministre l’ensemble des déclarations et autres registres à produire en vertu de la présente loi, de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(4)** Un montant de remboursement n’est versé qu’une fois présentés au ministre ou au ministre de la Sécurité publique et de la Protection civile, selon le cas, l’ensemble des déclarations et autres registres à produire en vertu de la présente loi, de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la 
+[Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la 
+[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la 
+[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 **Intérêts**
 
 - **(5)** Le ministre paie à la personne à qui une somme est remboursée des intérêts au taux réglementaire calculés sur la somme pour la période commençant le trentième jour suivant la production de la demande de remboursement et se terminant le jour où le remboursement est effectué.
+> 2002, ch. 22, art. 189; 2005, ch. 38, art. 96 et 145.
+
 
 
 
@@ -3457,7 +3477,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 ***renseignement confidentiel*** Renseignement de toute nature et sous toute forme concernant une ou plusieurs personnes et qui, selon le cas :
 - **a)** est obtenu par le ministre ou en son nom pour l’application de la présente loi;
-- **b)** est tiré d’un renseignement visé à l’alinéa a).
+- **a.1)** est obtenu par le ministre de la Sécurité publique et de la Protection civile ou en son nom pour l’application de l’article 68;
+- **b)** est tiré d’un renseignement visé à l’alinéa a) ou a.1).
 
 N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, même indirectement, l’identité de la personne en cause.
 
@@ -3536,6 +3557,8 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145.
+
 
 
 
@@ -5259,7 +5282,11 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **Preuve de documents**
 
-- **(8)** Tout document présenté comme ayant été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre, du commissaire ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions du ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par le ministre, le commissaire ou le préposé, sauf s’il a été mis en doute par le ministre ou par une autre personne pour son compte ou celui de Sa Majesté.
+- **(8)** Tout document paraissant avoir été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre, du commissaire des douanes et du revenu, du commissaire ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions du ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par le ministre, le commissaire des douanes et du revenu, le commissaire ou le préposé, sauf s’il a été mis en doute par le ministre ou par une autre personne agissant pour lui ou pour Sa Majesté.
+
+**Preuve de documents**
+
+- **(8.1)** Tout document paraissant avoir été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre de la Sécurité publique et de la Protection civile, du président de l’Agence des services frontaliers du Canada ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions de ce ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par ce ministre, le président ou le préposé, sauf s’il a été mis en doute par ce ministre ou par une autre personne agissant pour lui ou pour Sa Majesté.
 
 **Date de mise à la poste**
 
@@ -5288,6 +5315,8 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Force probante des copies**
 
 - **(15)** Toute copie faite en vertu de l’article 262 qui est présentée comme registre que le ministre ou un préposé atteste être une copie du registre original fait foi de la nature et du contenu du registre original et a la même force probante qu’aurait celui-ci si son authenticité était prouvée de la façon usuelle.
+> 2002, ch. 22, art. 301; 2005, ch. 38, art. 98 et 145.
+
 
 
 
