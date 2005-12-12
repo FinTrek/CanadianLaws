@@ -987,7 +987,9 @@ Sont visés par la présente définition les musées.
 
 **Bureaux de douane désignés**
 
-**52** Les entreprises sont tenues de passer par les bureaux de douane désignés par le ministre du Revenu national pour l’exportation ou l’importation de marchandises visées à l’article 43.
+**52** Les entreprises sont tenues de passer par les bureaux de douane désignés par le   ministre de la Sécurité publique et de la Protection civile pour l’exportation ou l’importation de marchandises visées à l’article 43.
+> 1995, ch. 39, art. 52; 2005, ch. 38, art. 142 et 145
+
 
 
 
