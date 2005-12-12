@@ -35,7 +35,7 @@ Assented to on 27 March 2002
 
 ***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act.
 
-***Agency*** means the Canada Customs and Revenue Agency established by subsection 4(1) of the Canada Customs and Revenue Agency Act.
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
 
 ***air carrier*** means a person who carries on a business of transporting individuals by air.
 
@@ -70,7 +70,7 @@ Assented to on 27 March 2002
 	- **(iv)** in the course of an air ambulance service; or
 - **(d)** the embarkation is made in prescribed circumstances.
 
-***Commissioner*** means the Commissioner of Customs and Revenue appointed under section 25 of the Canada Customs and Revenue Agency Act.
+***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
 
 ***continental zone*** means
 - **(a)** Canada;
@@ -129,6 +129,8 @@ Version anglaise seulement***prescribed*** means
 - **(c)** that results from the provision of emergency or ground services to an aircraft or its occupants.
 
 ***Tax Court*** means the Tax Court of Canada.
+> 2002, c. 9, s. 5 "2"; 2005, c. 38, s. 31.
+
 
 
 
@@ -1725,7 +1727,7 @@ the Minister may, by notice in writing, require the institution or person, as th
 
 **Proof of documents**
 
-- **(8)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister, the Commissioner or an officer authorized to exercise the powers or perform the duties of the Minister under this Act is deemed to be a document signed, made and issued by the Minister, the Commissioner or the officer, unless it has been called into question by the Minister or a person acting for the Minister or for Her Majesty.
+- **(8)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister, the Commissioner of Customs and Revenue, the Commissioner or an officer authorized to exercise the powers or perform the duties of the Minister under this Act is deemed to be a document signed, made and issued by the Minister, the Commissioner of Customs and Revenue, the Commissioner or the officer, unless it has been called into question by the Minister or a person acting for the Minister or for Her Majesty.
 
 **Mailing date**
 
@@ -1754,6 +1756,8 @@ the Minister may, by notice in writing, require the institution or person, as th
 **Probative force of copy**
 
 - **(15)** Any copy of an original record made under section 71 that is purported to be certified by the Minister or an officer to be a copy of the original record is evidence of the nature and content of the original record, and has the same probative force as the original record would have if it were proven in the ordinary way.
+> 2002, c. 9, s. 5 “83”; 2005, c. 38, s. 32.
+
 
 
 
