@@ -106,9 +106,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Ministre de tutelle**
+**Compétence générale du ministre de la Citoyenneté et de l’Immigration**
 
-**4** Le ministre est le membre du Conseil privé de la Reine pour le Canada que le gouverneur en conseil charge de l’application de la présente loi.
+**4** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre de la Citoyenneté et de l’Immigration est chargé de l’application de la présente loi.
+
+**Compétence du solliciteur général du Canada**
+
+- **(2)** Le ministre, au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md), est chargé de l’application de la présente loi relativement :
+	- **a)** au contrôle des personnes aux points d’entrée;
+	- **b)** aux mesures d’exécution de la présente loi, notamment en matière d’arrestation, de détention et de renvoi;
+	- **c)** à l’établissement des orientations en matière d’exécution de la présente loi et d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou pour activités de criminalité organisée;
+	- **d)** à la prise des décisions au titre des paragraphes 34(2), 35(2) ou 37(2).
+
+**Précisions du gouverneur en conseil**
+
+- **(3)** Sous réserve des paragraphes (1) et (2), le gouverneur en conseil peut préciser :
+	- **a)** lequel des ministres visés à ces paragraphes est chargé de l’application de telle des dispositions de la présente loi;
+	- **b)** que les deux ministres sont chargés de l’application de telle de ces dispositions, chacun dans les circonstances qu’il prévoit.
+
+**Publication**
+
+- **(4)** Tout décret pris pour l’application du paragraphe (3) est publié dans la partie II de la Gazette du Canada.
+> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118.
+
 
 
 
@@ -2465,13 +2487,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **150.1** 
 
 - **(1)** Les règlements régissent :
-	- **a)** la collecte, la conservation, le retrait et la communication de renseignements pour l'application de la présente loi;
-	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d'accords ou d'ententes conclus au titre de l'article 5 de la Loi sur le ministère de la Citoyenneté et de l'Immigration —, la communication de renseignements.
+	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
+	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements.
 
 **Conditions**
 
-- **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, le retrait et la communication de renseignements.
-> 2004, ch. 15, art. 72.
+- **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements.
+> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119.
 
 
 
