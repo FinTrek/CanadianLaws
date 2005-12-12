@@ -33,51 +33,51 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***analyste*** Personne désignée à ce titre en application du paragraphe 12(1).
+***analyste*** Personne désignée à ce titre en application du paragraphe 12(1). (*analyst*)
 
-***animal*** Tout animal de la classe des mammifères ou des oiseaux, ainsi que tout autre animal qui, pour l’application de la présente loi, soit est précisé par règlement, soit fait partie d’une classe précisée par règlement.
+***animal*** Tout animal de la classe des mammifères ou des oiseaux, ainsi que tout autre animal qui, pour l’application de la présente loi, soit est précisé par règlement, soit fait partie d’une classe précisée par règlement. (*animal*)
 
-***carcasse*** Le cadavre d’un animal.
+***carcasse*** Le cadavre d’un animal. (*carcass*)
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
 
-***emballage*** Récipient ou enveloppe qui, en contact ou non avec un produit de viande, sert à le contenir ou à l’emballer.
+***emballage*** Récipient ou enveloppe qui, en contact ou non avec un produit de viande, sert à le contenir ou à l’emballer. (*package*)
 
-***estampille*** Estampille réglementaire d’inspection des viandes.
+***estampille*** Estampille réglementaire d’inspection des viandes. (*meat inspection legend*)
 
-***établissement*** Lieu d’abattage d’animaux ou de préparation, d’emballage, d’étiquetage ou d’entreposage des produits de viande.
+***établissement*** Lieu d’abattage d’animaux ou de préparation, d’emballage, d’étiquetage ou d’entreposage des produits de viande. (*establishment*)
 
-***établissement agréé*** Établissement agréé réglementairement.
+***établissement agréé*** Établissement agréé réglementairement. (*registered establishment*)
 
-***étiquette*** Toute indication — notamment estampille, mot, marque, symbole, dessin, impression, cachet, empreinte, label ou carte ou combinaison de ceux-ci — placée ou à placer sur ou dans un emballage, sur un produit de viande ou sur un animal, ou qui les accompagne ou est destinée à les accompagner.
+***étiquette*** Toute indication — notamment estampille, mot, marque, symbole, dessin, impression, cachet, empreinte, label ou carte ou combinaison de ceux-ci — placée ou à placer sur ou dans un emballage, sur un produit de viande ou sur un animal, ou qui les accompagne ou est destinée à les accompagner. (*label*)
 
-***inspecteur*** Personne désignée à ce titre en application du paragraphe 12(1).
+***inspecteur*** Personne désignée à ce titre en application des paragraphes 12(1) ou (1.1). (*inspector*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***personne*** Particulier, personne morale, ainsi que société de personnes ou organisme.
+***personne*** Particulier, personne morale, ainsi que société de personnes ou organisme. (*person*)
 
 ***produit de viande***
 - **a)** Carcasse;
 - **b)** le sang d’un animal ou les produits ou sous-produits d’une carcasse;
-- **c)** les produits dans la composition desquels entre un des éléments visés à l’alinéa b).
+- **c)** les produits dans la composition desquels entre un des éléments visés à l’alinéa b). (*meat product*)
 
-***publicité*** Toute réclame faite pour promouvoir, directement ou indirectement, la vente ou une autre forme d’aliénation des produits de viande.
+***publicité*** Toute réclame faite pour promouvoir, directement ou indirectement, la vente ou une autre forme d’aliénation des produits de viande. (*advertise*)
 
-***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*penalty*)
 
-***vente*** Les actes suivants sont assimilés à la vente :
+***vente*** Les actes suivants sont assimilés à la vente :
 - **a)** consentir à vendre;
 - **b)** offrir, détenir, exposer, transmettre, expédier, transporter ou livrer en vue de la vente;
 - **c)** échanger ou consentir à échanger;
-- **d)** disposer ou consentir à disposer de quelque manière que ce soit en faveur de quiconque à titre onéreux.
+- **d)** disposer ou consentir à disposer de quelque manière que ce soit en faveur de quiconque à titre onéreux. (*sell*)
 
-***violation*** Contravention à la présente loi ou à ses règlements punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***violation*** Contravention à la présente loi ou à ses règlements punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*violation*)
 
 **Obligation de Sa Majesté**
 
 - **(2)** La présente loi lie Sa Majesté du chef du Canada ou d’une province.
-> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 64; 1997, ch. 6, art. 72.
+> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 64; 1997, ch. 6, art. 72; 2005, ch. 38, art. 121.
 
 
 
@@ -217,10 +217,14 @@
 
 - **(1)** Les inspecteurs et les analystes chargés de l’application de la présente loi sont désignés par le président de l’Agence canadienne d’inspection des aliments conformément à l’article 13 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md).
 
+**Désignations**
+
+- **(1.1)** Le président de l’Agence des services frontaliers du Canada peut, en vertu de l’alinéa 9(2)b) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md), désigner des inspecteurs chargés du contrôle d’application de la présente loi.
+
 **Production du certificat**
 
-- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence canadienne d’inspection des aliments et attestant sa qualité, qu’il présente, sur demande, au responsable du lieu ou du véhicule qui font l’objet de sa visite.
-> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 12; 1997, ch. 6, art. 73.
+- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence canadienne d’inspection des aliments ou le président de l’Agence des services frontaliers du Canada, selon le cas, et attestant sa qualité, qu’il présente, sur demande, au responsable du lieu ou du véhicule qui font l’objet de sa visite.
+> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 12; 1997, ch. 6, art. 73; 2005, ch. 38, art. 122.
 
 
 
