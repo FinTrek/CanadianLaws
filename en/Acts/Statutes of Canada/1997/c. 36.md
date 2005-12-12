@@ -99,7 +99,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***North American Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
 
 Version anglaise seulement***prescribed*** means
-- **(a)** in respect of a form, the information to be provided on or with a form, or the manner of filing a form, prescribed by the Minister of National Revenue; and
+- **(a)** in respect of a form, the information to be provided on or with a form, or the manner of filing a form, prescribed by the Minister of Public Safety and Emergency Preparedness; and
 - **(b)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
 
 ***regulation*** means a regulation made under this Act.
@@ -128,7 +128,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition “country” in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145.
 
 
 
@@ -184,7 +184,9 @@ Version anglaise seulement***prescribed*** means
 
 **Delegation of powers**
 
-**9** The Minister of National Revenue may authorize an officer or agent or a class of officers or agents to exercise powers or perform duties of that Minister under this Act.
+**9** The Minister of Public Safety and Emergency Preparedness may authorize an officer or agent or a class of officers or agents to exercise powers or perform duties of that Minister under this Act.
+> 1997, c. 36, s. 9; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -296,7 +298,7 @@ Version anglaise seulement***prescribed*** means
 
 **Definition of geographic area**
 
-- **(2.1)** In subsections (2) and 49.1(4), ***geographic area*** means any area specified by the Minister of National Revenue after consultation with the Minister for International Trade.
+- **(2.1)** In subsections (2) and 49.1(4), ***geographic area*** means any area specified by the Minister of Public Safety and Emergency Preparedness after consultation with the Minister for International Trade.
 
 **Application of rules of origin regulations**
 
@@ -308,7 +310,7 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** Chapters Three and Four of the North American Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement;
 	- **(b)** Chapters C and D of the Canada–Chile Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement; and
 	- **(c)** Chapters III and IV of the Canada — Costa Rica Free Trade Agreement and any other matters agreed on from time to time by the parties to that Agreement for the purposes of that Agreement.
-> 1997, c. 36, s. 16; 2001, c. 28, s. 34.
+> 1997, c. 36, s. 16; 2001, c. 28, s. 34; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -343,7 +345,9 @@ Version anglaise seulement***prescribed*** means
 
 **Regulations**
 
-- **(2)** The Governor in Council, on the recommendation of the Minister of National Revenue, may make regulations prescribing conditions and a period for the purposes of paragraph (1)(d).
+- **(2)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may make regulations prescribing conditions and a period for the purposes of paragraph (1)(d).
+> 1997, c. 36, s. 18; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -362,13 +366,15 @@ Version anglaise seulement***prescribed*** means
 
 **Regulations prescribing marking requirements**
 
-- **(2)** The Minister of National Revenue may make regulations for the purpose of the administration of this section, including regulations prescribing
+- **(2)** The Minister of Public Safety and Emergency Preparedness may make regulations for the purpose of the administration of this section, including regulations prescribing
 	- **(a)** the manner in which imported goods must be marked and any conditions applicable to the marking of the goods; and
 	- **(b)** when imported goods must be marked, including whether they must be marked before or after importation, and any conditions applicable to the time of marking.
 
 **Applicability of regulations**
 
 - **(3)** Regulations made under this section may apply generally or be limited to particular countries or geographic areas defined in the regulations.
+> 1997, c. 36, s. 19; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -1528,7 +1534,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Non-application to goods in transit**
 
-- **(3)** The Commissioner of Customs and Revenue may relieve goods from payment of a surtax imposed by an order under subsection (1) if the Commissioner is of the opinion that
+- **(3)** The President of the Canada Border Services Agency may relieve goods from payment of a surtax imposed by an order under subsection (1) if the President is of the opinion that
 	- **(a)** before the coming into force of the order, the goods were purchased for importation in the expectation in good faith that subsection (1) would not have applied to those goods; and
 	- **(b)** at the time that the order comes into force, the goods were in transit to the purchaser in Canada.
 
@@ -1554,7 +1560,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Publication**
 
 - **(8)** Every order made under subsection (1) must be published in the Canada Gazette.
-> 1997, c. 36, s. 68; 1999, c. 17, s. 130.
+> 1997, c. 36, s. 68; 1999, c. 17, s. 130; 2005, c. 38, s. 87.
 
 
 
@@ -2369,7 +2375,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Goods of tariff item No. 9937.00.00**
 
-**88** A group desiring to be recognized as an ethno-cultural group for the purposes of tariff item No. 9937.00.00 shall submit an application to the Minister of National Revenue supported by evidence that the group satisfies the criteria set out in that tariff item.
+**88** A group desiring to be recognized as an ethno-cultural group for the purposes of tariff item No. 9937.00.00 shall submit an application to the Minister of Public Safety and Emergency Preparedness supported by evidence that the group satisfies the criteria set out in that tariff item.
+> 1997, c. 36, s. 88; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2399,15 +2407,15 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(a)** designated as ships’ stores by regulations made under paragraph 99(g) and supplied for use on board a conveyance of a class prescribed under that paragraph;
 	- **(b)** used for the equipment, repair or reconstruction of ships or aircraft of a class prescribed under paragraph 99(d);
 	- **(c)** delivered to a telegraph cable ship of a class prescribed under paragraph 99(d);
-	- **(d)** supplied for exportation to a department or agency of, or a corporation owned, controlled or operated by, the Government of Canada or the government of a province, that is designated by the Minister of National Revenue;
+	- **(d)** supplied for exportation to a department or agency of, or a corporation owned, controlled or operated by, the Government of Canada or the government of a province, that is designated by the Minister of Public Safety and Emergency Preparedness;
 	- **(e)** placed in a bonded warehouse or duty free shop for exportation, or placed in a bonded warehouse for use in accordance with paragraph (a) or (c);
 	- **(f)** transferred from a person who has been issued a certificate under section 90 to another person who has been issued such a certificate; or
 	- **(g)** used or destined for use in any other prescribed manner.
 
 **Application**
 
-- **(4)** An application for relief under subsection (1) must be in a form and contain information satisfactory to the Minister of National Revenue.
-> 1997, c. 36, s. 89; 2002, c. 22, s. 349.
+- **(4)** An application for relief under subsection (1) must be in a form and contain information satisfactory to the Minister of Public Safety and Emergency Preparedness.
+> 1997, c. 36, s. 89; 2002, c. 22, s. 349; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -2417,15 +2425,17 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **90** 
 
-- **(1)** Subject to regulations made under paragraph 99(e), the Minister of National Revenue may issue a numbered certificate to a person of a prescribed class referred to in section 89.
+- **(1)** Subject to regulations made under paragraph 99(e), the Minister of Public Safety and Emergency Preparedness may issue a numbered certificate to a person of a prescribed class referred to in section 89.
 
 **Amendment, suspension, etc., of certificate**
 
-- **(2)** The Minister of National Revenue may, subject to regulations made under paragraph 99(e), amend, suspend, renew, cancel or reinstate a certificate issued under subsection (1).
+- **(2)** The Minister of Public Safety and Emergency Preparedness may, subject to regulations made under paragraph 99(e), amend, suspend, renew, cancel or reinstate a certificate issued under subsection (1).
 
 **Release of goods**
 
 - **(3)** Goods in respect of which relief is granted under section 89 may be released without payment of the duties relieved under that section if the number of the certificate issued under subsection (1) is disclosed when the goods are accounted for under section 32 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the certificate is in force at that time.
+> 1997, c. 36, s. 90; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2434,19 +2444,21 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **91** 
 
-- **(1)** If the Minister of National Revenue considers it advisable, that Minister may issue a licence for the operation of any place as a bonded warehouse to a person who meets the qualifications prescribed by regulations made under subparagraph 99(f)(i) and any requirements or conditions set out in this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the regulations under both Acts respecting the operation of that place.
+- **(1)** If the Minister of Public Safety and Emergency Preparedness considers it advisable, that Minister may issue a licence for the operation of any place as a bonded warehouse to a person who meets the qualifications prescribed by regulations made under subparagraph 99(f)(i) and any requirements or conditions set out in this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the regulations under both Acts respecting the operation of that place.
 
 **Licence restriction**
 
-- **(2)** Subject to regulations made under paragraph 99(f), the Minister of National Revenue may impose in a licence issued under subsection (1) any restriction as to the classes of goods that may be received, or the circumstances under which goods may be received, in the bonded warehouse.
+- **(2)** Subject to regulations made under paragraph 99(f), the Minister of Public Safety and Emergency Preparedness may impose in a licence issued under subsection (1) any restriction as to the classes of goods that may be received, or the circumstances under which goods may be received, in the bonded warehouse.
 
 **Amendment of licence**
 
-- **(3)** The Minister of National Revenue may, subject to regulations made under paragraph 99(f), amend, suspend, renew, cancel or reinstate a licence issued under subsection (1).
+- **(3)** The Minister of Public Safety and Emergency Preparedness may, subject to regulations made under paragraph 99(f), amend, suspend, renew, cancel or reinstate a licence issued under subsection (1).
 
 **Security**
 
-- **(4)** A person to whom a licence is issued under subsection (1) shall, at the request of the Minister of National Revenue, provide security, of a type and in accordance with the conditions that may be prescribed, in an amount satisfactory to that Minister.
+- **(4)** A person to whom a licence is issued under subsection (1) shall, at the request of the Minister of Public Safety and Emergency Preparedness, provide security, of a type and in accordance with the conditions that may be prescribed, in an amount satisfactory to that Minister.
+> 1997, c. 36, s. 91; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2475,7 +2487,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Submission of evidence**
 
-**93** If relief has been granted under section 89 or 92, the Minister of National Revenue may require the submission of evidence satisfactory to that Minister for the purpose of administering section 95.
+**93** If relief has been granted under section 89 or 92, the Minister of Public Safety and Emergency Preparedness may require the submission of evidence satisfactory to that Minister for the purpose of administering section 95.
+> 1997, c. 36, s. 93; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2520,7 +2534,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Reduction of amount repayable**
 
-- **(4)** The amount of the customs duties levied under subsection (1) in respect of goods other than goods referred to in paragraph 8 of Article 303 of the North American Free Trade Agreement shall be reduced in accordance with subsection (5) if, within 60 days after the goods are exported, evidence satisfactory to the Minister of National Revenue is submitted to that Minister that customs duties in respect of the exportation of the goods have been paid to the government of a NAFTA country other than Canada.
+- **(4)** The amount of the customs duties levied under subsection (1) in respect of goods other than goods referred to in paragraph 8 of Article 303 of the North American Free Trade Agreement shall be reduced in accordance with subsection (5) if, within 60 days after the goods are exported, evidence satisfactory to the Minister of Public Safety and Emergency Preparedness is submitted to that Minister that customs duties in respect of the exportation of the goods have been paid to the government of a NAFTA country other than Canada.
 
 **Amount of reduction**
 
@@ -2551,6 +2565,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Definition of materials**
 
 - **(8)** In this section, ***materials*** means goods that are used in the processing of other goods, and includes parts or ingredients.
+> 1997, c. 36, s. 95; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2594,7 +2610,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Regulations**
 
-**99** The Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations
+**99** The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations
 - **(a)** prescribing, for the purposes of section 89,
 	- **(i)** classes of persons who may apply for relief,
 	- **(ii)** classes of goods for which, and the circumstances and conditions under which, relief may not be granted,
@@ -2630,7 +2646,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(h)** regulating or prohibiting the delivery to conveyances of goods designated as ships’ stores;
 - **(i)** regulating or prohibiting the transfer from one conveyance to another of goods designated as ships’ stores; and
 - **(j)** prescribing anything required to be prescribed by the Governor in Council under sections 89 to 94 and 96 to 98.
-> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424.
+> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -2638,7 +2654,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Regulations**
 
-**100** The Governor in Council may, on the recommendation of the Minister and the Minister of National Revenue, make regulations prescribing the circumstances under which and the extent to which goods may be manipulated, unpacked, packed, altered or combined with other goods while in a bonded warehouse.
+**100** The Governor in Council may, on the recommendation of the Minister and the Minister of Public Safety and Emergency Preparedness, make regulations prescribing the circumstances under which and the extent to which goods may be manipulated, unpacked, packed, altered or combined with other goods while in a bonded warehouse.
+> 1997, c. 36, s. 100; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2666,7 +2684,9 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 - **(3)** The Governor in Council may make regulations
 	- **(a)** on the recommendation of the Minister, prescribing the manner for determining what goods are considered to be a product of Canada for the purposes of subsection (1); and
-	- **(b)** on the recommendation of the Minister of National Revenue, defining the words ***aircraft***, ***vehicles*** and ***vessels*** for the purposes of subsection (2).
+	- **(b)** on the recommendation of the Minister of Public Safety and Emergency Preparedness, defining the words ***aircraft***, ***vehicles*** and ***vessels*** for the purposes of subsection (2).
+> 1997, c. 36, s. 101; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2674,11 +2694,13 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Application**
 
 **102** An application for relief under section 101 must be
-- **(a)** accompanied by evidence satisfactory to the Minister of National Revenue that the goods were exported and
+- **(a)** accompanied by evidence satisfactory to the Minister of Public Safety and Emergency Preparedness that the goods were exported and
 	- **(i)** in respect of goods referred to in paragraph 101(1)(a), repairs could not have been made in Canada at the place the goods were located before their exportation or within a reasonable distance of that place,
 	- **(ii)** in respect of equipment referred to in paragraph 101(1)(b), the equipment added could not practicably have been added in Canada, or
 	- **(iii)** in respect of goods referred to in paragraph 101(1)(c), it would not have been practicable to do the work in Canada; or
 - **(b)** if the application is made under subsection 101(2), made in the prescribed form and manner, with the prescribed information, at the time of the return to Canada of the goods in respect of which the application is made.
+> 1997, c. 36, s. 102; 2005, c. 38, ss. 89(F), 142, 145..
+
 
 
 
@@ -2713,7 +2735,9 @@ less
 
 **Regulations**
 
-- **(2)** For the purposes of subsection (1), the Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations prescribing the method of determining the value of repairs made, equipment added and work done outside Canada.
+- **(2)** For the purposes of subsection (1), the Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing the method of determining the value of repairs made, equipment added and work done outside Canada.
+> 1997, c. 36, s. 105; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2722,8 +2746,7 @@ less
 
 **106** 
 
-- **(1)** If an application for relief is made in the prescribed circumstances by a person of a prescribed class and in the prescribed form and manner, accompanied by prescribed documents and by security of a prescribed nature in an amount fixed by the Minister of National Revenue, relief shall be granted from the payment of the whole or the prescribed portion, as the case may be, of any duty imposed under sections 21.1 to 21.3 or the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or of any excise taxes that, but for this section, would be payable in respect of prescribed goods that are imported and subsequently exported after being used in Canada only for a prescribed purpose.
+- **(1)** If an application for relief is made in the prescribed circumstances by a person of a prescribed class and in the prescribed form and manner, accompanied by prescribed documents and by security of a prescribed nature in an amount fixed by the Minister of Public Safety and Emergency Preparedness, relief shall be granted from the payment of the whole or the prescribed portion, as the case may be, of any duty imposed under sections 21.1 to 21.3 or the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or of any excise taxes that, but for this section, would be payable in respect of prescribed goods that are imported and subsequently exported after being used in Canada only for a prescribed purpose.
 
 **Release of goods**
 
@@ -2731,16 +2754,16 @@ less
 
 **Conditions**
 
-- **(3)** Relief under subsection (1) is subject to prescribed conditions and to the importer of the goods establishing to the satisfaction of the Minister of National Revenue that the goods are exported within one year after they are released or, if a period is prescribed, within the prescribed period after they are released.
+- **(3)** Relief under subsection (1) is subject to prescribed conditions and to the importer of the goods establishing to the satisfaction of the Minister of Public Safety and Emergency Preparedness that the goods are exported within one year after they are released or, if a period is prescribed, within the prescribed period after they are released.
 
 **Extension of period**
 
-- **(4)** The Minister of National Revenue may, in respect of prescribed goods, extend the period of exportation by not more than six months if that Minister is satisfied that it is not practical or possible to export the goods within the period.
+- **(4)** The Minister of Public Safety and Emergency Preparedness may, in respect of prescribed goods, extend the period of exportation by not more than six months if that Minister is satisfied that it is not practical or possible to export the goods within the period.
 
 **Waiver**
 
-- **(5)** The Minister of National Revenue may waive the requirement under subsection (1) to provide security.
-> 1997, c. 36, s. 106; 2002, c. 22, s. 353.
+- **(5)** The Minister of Public Safety and Emergency Preparedness may waive the requirement under subsection (1) to provide security.
+> 1997, c. 36, s. 106; 2002, c. 22, s. 353; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -2771,16 +2794,18 @@ less
 
 **Refund or cancellation of security**
 
-**108** The Minister of National Revenue shall refund or cancel any security given
+**108** The Minister of Public Safety and Emergency Preparedness shall refund or cancel any security given
 - **(a)** in respect of the issuance of a licence under section 91, when the licence is cancelled;
 - **(b)** in respect of goods that would have been classified under tariff item No. 9993.00.00 if they had met the conditions set out in that tariff item, when the goods are accounted for under section 32 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and all duties payable in respect of the goods are paid;
-- **(c)** in respect of goods of tariff item No. 9993.00.00, when the goods are destroyed in the manner that the Minister of National Revenue directs or the destruction is certified by a customs officer or another person designated by that Minister;
+- **(c)** in respect of goods of tariff item No. 9993.00.00, when the goods are destroyed in the manner that the Minister of Public Safety and Emergency Preparedness directs or the destruction is certified by a customs officer or another person designated by the President of the Canada Border Services Agency;
 - **(d)** in respect of goods of any tariff item in respect of which security is required, other than goods of tariff item No. 9993.00.00, when the goods are exported in the manner and within the period referred to in the tariff item in respect of which security was given or within the period established or extended by the regulations;
 - **(e)** in respect of goods of tariff item No. 9993.00.00, when the goods are exported, destroyed, consumed or expended in the manner and within the period referred to in that tariff item or within the period established or extended by the regulations; and
 - **(f)** in respect of an application for relief under section 106, if
 	- **(i)** the goods in respect of which the application was made are not exported within the period referred to in subsection 106(3) or (4), as the case may be, the goods are accounted for under section 32 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and all duties and taxes payable in respect of the goods are paid,
-	- **(ii)** the goods in respect of which the application was made are destroyed in the manner that the Minister of National Revenue directs, or
+	- **(ii)** the goods in respect of which the application was made are destroyed in the manner that the Minister of Public Safety and Emergency Preparedness directs, or
 	- **(iii)** the goods in respect of which the application was made are exported within the period referred to in subsection 106(3) or (4), as the case may be.
+> 1997, c. 36, s. 108; 2005, c. 38, ss. 88, 142, 145.
+
 
 
 
@@ -2797,8 +2822,10 @@ less
 	- **(i)** in the case of imported goods, by their importer or owner, or
 	- **(ii)** in any other case, by their manufacturer, producer or owner;
 - **(b)** not used in Canada;
-- **(c)** destroyed in such manner as the Minister of National Revenue may direct; and
+- **(c)** destroyed in such manner as the Minister of Public Safety and Emergency Preparedness may direct; and
 - **(d)** not damaged before their destruction.
+> 1997, c. 36, s. 109; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2821,13 +2848,17 @@ less
 	- **(ii)** in any other case, by the manufacturer, producer or owner of the obsolete or surplus goods;
 - **(b)** accompanied by a waiver referred to in section 119, if applicable, and by the prescribed documents; and
 - **(c)** made within five years, or such other time as may be prescribed, after the goods in respect of which it is made are released.
+> 1997, c. 36, s. 111; 2005, c. 38, ss. 89(F), 145.
+
 
 
 
 
 **Regulations**
 
-**112** The Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations prescribing documents that must accompany an application under section 110 and the period within which such an application must be made.
+**112** The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing documents that must accompany an application under section 110 and the period within which such an application must be made.
+> 1997, c. 36, s. 112; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2854,14 +2885,14 @@ less
 **Application**
 
 - **(3)** For the purposes of subsection (1), an application must
-	- **(a)** be supported by such evidence as the Minister of National Revenue may require;
+	- **(a)** be supported by such evidence as the Minister of Public Safety and Emergency Preparedness may require;
 	- **(b)** be made by a prescribed person or by a person belonging to a prescribed class of persons;
 	- **(c)** be made in the prescribed form and manner, with the prescribed information, within four years, or within such other time as may be prescribed, after the goods in respect of which it is made are released; and
 	- **(d)** if the goods have not been exported or deemed exported for the purposes of relief under section 89, disclose the number of the certificate issued under section 90.
 
 **Regulations**
 
-- **(4)** For the purposes of this section, the Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations prescribing
+- **(4)** For the purposes of this section, the Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing
 	- **(a)** the circumstances in which, and the classes of goods in respect of which, a refund or drawback of duties levied under sections 21.1 to 21.3 or under the 
 [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax levied under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty levied under any of sections 69 to 76.1, a tax levied under the 
 [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty levied under the 
@@ -2880,7 +2911,7 @@ less
 - **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the 
 [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the 
 [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
-> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354.
+> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145.
 
 
 
@@ -2905,7 +2936,7 @@ less
 
 **115** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister or the Minister of National Revenue, by order, remit duties.
+- **(1)** The Governor in Council may, on the recommendation of the Minister or the Minister of Public Safety and Emergency Preparedness, by order, remit duties.
 
 **Scope of relief**
 
@@ -2914,6 +2945,8 @@ less
 **Remission by way of refund**
 
 - **(3)** If duties have been paid, a remission under subsection (1) shall be made by granting a refund of the duties to be remitted.
+> 1997, c. 36, s. 115; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2934,7 +2967,9 @@ less
 
 **Sum in lieu of drawback, refund, etc.**
 
-**117** If circumstances exist that render it difficult to determine the exact amount of relief under section 89, of a refund under section 110 or of a refund or drawback under section 113 or the exact amount of a general remission of duties under an order made under section 115 of this Act or section 23 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister of National Revenue may, with the consent of the applicant for the relief, refund, drawback or remission, grant to the applicant a sum, in an amount determined by that Minister, in lieu of the relief, refund, drawback or remission.
+**117** If circumstances exist that render it difficult to determine the exact amount of relief under section 89, of a refund under section 110 or of a refund or drawback under section 113 or the exact amount of a general remission of duties under an order made under section 115 of this Act or section 23 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister of Public Safety and Emergency Preparedness may, with the consent of the applicant for the relief, refund, drawback or remission, grant to the applicant a sum, in an amount determined by that Minister, in lieu of the relief, refund, drawback or remission.
+> 1997, c. 36, s. 117; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2945,7 +2980,7 @@ less
 
 - **(1)** If relief from, or remission of, duties is granted under this Act, other than under section 92, or if remission of duties is granted under section 23 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and a condition to which the relief or remission is subject is not complied with, the person who did not comply with the condition shall, within 90 days or such other period as may be prescribed after the day of the failure to comply,
 	- **(a)** report the failure to comply to an officer at a customs office; and
-	- **(b)** pay to Her Majesty in right of Canada an amount equal to the amount of the duties in respect of which the relief or remission was granted, unless that person can provide evidence satisfactory to the Minister of National Revenue that
+	- **(b)** pay to Her Majesty in right of Canada an amount equal to the amount of the duties in respect of which the relief or remission was granted, unless that person can provide evidence satisfactory to the Minister of Public Safety and Emergency Preparedness that
 		- **(i)** at the time of the failure to comply with the condition, a refund or drawback would otherwise have been granted if duties had been paid, or
 		- **(ii)** the goods in respect of which the relief or remission was granted qualify in some other manner for relief or remission under this Act or the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
@@ -2962,8 +2997,10 @@ less
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations
-	- **(a)** on the recommendation of the Minister of National Revenue, prescribing time limits for the application of subsection (1) and the goods or classes of goods in respect of which, or the circumstances in which, those limits apply; and
+	- **(a)** on the recommendation of the Minister of Public Safety and Emergency Preparedness, prescribing time limits for the application of subsection (1) and the goods or classes of goods in respect of which, or the circumstances in which, those limits apply; and
 	- **(b)** on the recommendation of the Minister, prescribing the circumstances in which certain goods are exempted from the application of subsection (1) and the goods or classes of goods in respect of which, and the period for which and the conditions under which, those exemptions apply.
+> 1997, c. 36, s. 118; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -2971,6 +3008,8 @@ less
 **Waivers**
 
 **119** An application under section 110 or 113 must be accompanied by a waiver, in the prescribed form, from every other person eligible to claim a drawback, refund or remission of the duties in respect of which the application is made, waiving that person’s right to apply for the drawback, refund or remission.
+> 1997, c. 36, s. 119; 2005, c. 38, ss. 89(F), 145.
+
 
 
 
@@ -3066,7 +3105,9 @@ less
 
 **Prescribed rate may be authorized**
 
-**125** The Minister of National Revenue may authorize persons who are required under a provision of this Act to pay interest on an amount at a specified rate to instead pay interest under that provision at the prescribed rate.
+**125** The Minister of Public Safety and Emergency Preparedness may authorize persons who are required under a provision of this Act to pay interest on an amount at a specified rate to instead pay interest under that provision at the prescribed rate.
+> 1997, c. 36, s. 125; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -3075,11 +3116,13 @@ less
 
 **126** 
 
-- **(1)** The Minister of National Revenue may at any time waive or cancel payment of all or any portion of any interest otherwise payable under this Part.
+- **(1)** The Minister of Public Safety and Emergency Preparedness may at any time waive or cancel payment of all or any portion of any interest otherwise payable under this Part.
 
 **Interest on interest refunded**
 
 - **(2)** If, as a result of a waiver or cancellation under subsection (1), a person is refunded an amount of interest that was paid, the person shall be given, in addition to the refund, interest at the prescribed rate for the period beginning on the first day after the day the amount was paid and ending on the day the refund is given, calculated on the amount of the refund.
+> 1997, c. 36, s. 126; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -3113,20 +3156,24 @@ less
 
 **Regulations**
 
-**129** The Minister of National Revenue may make regulations
+**129** The Minister of Public Safety and Emergency Preparedness may make regulations
 - **(a)** for the purposes of tariff item No. 9813.00.00 or 9814.00.00, permitting the importation free of customs duties of containers not originating in Canada, if that Minister is satisfied that a like quantity of usable containers has been exported; and
 - **(b)** for the purposes of tariff item No. 9897.00.00, prescribing
 	- **(i)** conditions under which specimens of aigrettes, egret plumes or osprey plumes and the feathers, quills, heads, wings, tails, skins or parts of skins of wild birds of that tariff item may be imported for any museum or for scientific or educational purposes, and
 	- **(ii)** the manner in which materials from used or second-hand mattresses shall be cleaned and fumigated and the certificates that shall accompany those materials.
+> 1997, c. 36, s. 129; 2005, c. 38, ss. 142, 145.
 
 
 
 
-**Powers of the Minister of National Revenue**
 
-**130** The Minister of National Revenue may
+**Powers of the Minister of Public Safety and Emergency Preparedness**
+
+**130** The Minister of Public Safety and Emergency Preparedness may
 - **(a)** specify documentation that is considered acceptable for the purposes of tariff item No. 9827.00.00; and
 - **(b)** recognize authorities, representatives or authorized persons in a country of origin as competent for the purposes of conditions of classification of goods under a tariff item.
+> 1997, c. 36, s. 130; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -3193,7 +3240,7 @@ less
 
 **Regulations**
 
-**133** The Governor in Council may, on the recommendation of the Minister of National Revenue, make regulations
+**133** The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations
 - **(a)** prescribing, for the purposes of section 101,
 	- **(i)** the period after the exportation of goods within which the goods must be returned to Canada, and
 	- **(ii)** what constitutes satisfactory evidence of exportation of the goods;
@@ -3201,15 +3248,15 @@ less
 - **(c)** for the purposes of tariff item No. 9801.10.00, 9801.20.00, 9808.00.00 or 9810.00.00, prescribing conditions under which goods may be imported;
 - **(d)** for the purposes of tariff item No. 9802.00.00,
 	- **(i)** prescribing conditions under which conveyances may be imported,
-	- **(ii)** limiting the length of time that any imported conveyance may remain in Canada and the use that may be made of the conveyance while it remains in Canada, and authorizing the Minister of National Revenue to extend those limits,
+	- **(ii)** limiting the length of time that any imported conveyance may remain in Canada and the use that may be made of the conveyance while it remains in Canada, and authorizing the Minister of Public Safety and Emergency Preparedness to extend those limits,
 	- **(iii)** excluding any class of conveyance from classification under that tariff item, and
-	- **(iv)** authorizing the Minister of National Revenue to require security for imported conveyances and limit the amount and type of security that may be required;
+	- **(iv)** authorizing the Minister of Public Safety and Emergency Preparedness to require security for imported conveyances and limit the amount and type of security that may be required;
 - **(e)** for the purposes of tariff item No. 9803.00.00,
-	- **(i)** prescribing conditions under which goods or conveyances may be imported and authorizing the Minister of National Revenue to establish such conditions in specified circumstances,
-	- **(ii)** limiting the quantity of any class of goods that may be imported and authorizing the Minister of National Revenue to increase those limits in specified circumstances,
-	- **(iii)** limiting the length of time that imported goods or conveyances may remain in Canada and authorizing the Minister of National Revenue to extend those limits,
+	- **(i)** prescribing conditions under which goods or conveyances may be imported and authorizing the Minister of Public Safety and Emergency Preparedness to establish such conditions in specified circumstances,
+	- **(ii)** limiting the quantity of any class of goods that may be imported and authorizing the Minister of Public Safety and Emergency Preparedness to increase those limits in specified circumstances,
+	- **(iii)** limiting the length of time that imported goods or conveyances may remain in Canada and authorizing the Minister of Public Safety and Emergency Preparedness to extend those limits,
 	- **(iv)** excluding any class of goods or conveyances from classification under that tariff item, and
-	- **(v)** authorizing the Minister of National Revenue to require security for imported goods or conveyances and limit the amount and type of security that may be required;
+	- **(v)** authorizing the Minister of Public Safety and Emergency Preparedness to require security for imported goods or conveyances and limit the amount and type of security that may be required;
 - **(f)** for the purposes of heading No. 98.04 or of tariff item No. 9807.00.00, 9813.00.00, 9814.00.00, 9816.00.00, 9938.00.00 or 9989.00.00, prescribing conditions under which goods may be imported;
 - **(g)** for the purposes of tariff item No. 9805.00.00,
 	- **(i)** exempting goods or classes of goods imported by any class of persons referred to in that tariff item from any of its requirements relating to the period during which goods must be owned, possessed or used abroad, and
@@ -3226,9 +3273,9 @@ less
 - **(k)** for the purposes of tariff item No. 9993.00.00,
 	- **(i)** extending any period that the goods imported under that tariff item may remain in Canada, if it is impracticable or impossible for the importer to export the goods,
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
-	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of National Revenue; and
+	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -3238,12 +3285,12 @@ less
 
 **134** 
 
-- **(1)** The Minister of National Revenue or Commissioner of Customs and Revenue may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 2(c) of Chapter 7 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 2(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
+- **(1)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 2(c) of Chapter 7 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 2(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
 
 **Other orders**
 
-- **(2)** The Minister of National Revenue or Commissioner of Customs and Revenue may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 4(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 4(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
-> 1997, c. 36, s. 134; 1999, c. 17, s. 131.
+- **(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 4(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 4(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
+> 1997, c. 36, s. 134; 1999, c. 17, s. 131; 2005, c. 38, ss. 141, 142, 145.
 
 
 
