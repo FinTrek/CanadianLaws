@@ -41,7 +41,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act.
 
-***Agency*** means the Canada Customs and Revenue Agency established under subsection 4(1) of the Canada Customs and Revenue Agency Act.
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
 
 ***alcohol*** means spirits or wine.
 
@@ -71,7 +71,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***cigarette*** includes any roll or tubular construction intended for smoking, other than a cigar or a tobacco stick. If a cigarette exceeds 102 mm in length, each portion of 76 mm or less is considered to be a separate cigarette.
 
-***Commissioner*** means the Commissioner of Customs and Revenue, appointed under section 25 of the Canada Customs and Revenue Agency Act.
+***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
 
 ***container***, in respect of a tobacco product, means a wrapper, package, carton, box, crate or other container that contains the tobacco product.
 
@@ -147,7 +147,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***non-duty-paid***, in respect of packaged alcohol, means that duty, other than special duty, has not been paid on the alcohol.
 
-***officer***, except in sections 167, 226 and 296, means a person who is appointed or employed in the administration or enforcement of this Act, a member of the Royal Canadian Mounted Police or a member of a police force designated under subsection 10(1).
+***officer*** means, except in sections 167, 226 and 296,
+- **(a)** a person who is appointed or employed in the administration or enforcement of this Act;
+- **(b)** a member of the Royal Canadian Mounted Police or a member of a police force designated under subsection 10(1); and
+- **(c)** with respect to imported goods that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an officer as defined in subsection 2(1) of that Act.
 
 ***packaged*** means
 - **(a)** in respect of raw leaf tobacco or a tobacco product, packaged in a prescribed package; or
@@ -246,6 +249,8 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92.
+
 
 
 
@@ -332,6 +337,12 @@ Version anglaise seulement***prescribed*** means
 **Delegation of powers**
 
 - **(2)** The Minister may authorize a designated officer or agent or a class of officers or agents to exercise powers or perform duties of the Minister, including any judicial or quasi-judicial power or duty of the Minister, under this Act.
+
+**Authorization**
+
+- **(3)** The Minister of Public Safety and Emergency Preparedness may authorize a designated officer or agent, or a class of officers or agents, to exercise powers and perform duties of that Minister under section 68.
+> 2002, c. 22, s. 9; 2005, c. 38, ss. 93, 145.
+
 
 
 
@@ -1214,7 +1225,7 @@ Version anglaise seulement***prescribed*** means
 
 **68** 
 
-- **(1)** Any person who imports a product that is reported under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) as being denatured alcohol or specially denatured alcohol shall make the product available for sampling and the product is required to be sampled by the Minister before it is released under that Act.
+- **(1)** Any person who imports a product that is reported under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) as being denatured alcohol or specially denatured alcohol shall make the product available for sampling and the product is required to be sampled by the Minister of Public Safety and Emergency Preparedness before it is released under that Act.
 
 **Testing**
 
@@ -1222,11 +1233,13 @@ Version anglaise seulement***prescribed*** means
 
 **Minister may waive**
 
-- **(3)** The Minister may at any time waive the requirement to sample an imported product under subsection (1).
+- **(3)** The Minister of Public Safety and Emergency Preparedness may at any time waive the requirement to sample an imported product under subsection (1).
 
 **Fees**
 
-- **(4)** The Minister may fix fees to be paid by the importer of the product but those fees must not exceed an amount determined by the Minister to be the costs to Her Majesty in respect of the sampling and testing.
+- **(4)** The Minister of Public Safety and Emergency Preparedness may fix fees to be paid by the importer of the product but those fees must not exceed an amount determined by that Minister to be the costs to Her Majesty in respect of the sampling and testing.
+> 2002, c. 22, s. 68; 2005, c. 38, ss. 94, 145.
+
 
 
 
@@ -2838,7 +2851,9 @@ and ending on the day on which the refund is paid to the person.
 
 **Limitation on refunding overpayments**
 
-- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns or other records that the person was required to file with the Minister under this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns or other records that the person was required to file with
+	- **(a)** the Minister under this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+	- **(b)** the Minister of Public Safety and Emergency Preparedness under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
 
 **Limitation**
 
@@ -2846,7 +2861,9 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** shall not be applied under paragraph (5)(b) against an amount (in this paragraph referred to as the “outstanding amount”) that is payable by a person unless the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which the person defaulted in paying the outstanding amount and, in the case of a payment under section 176, if that section allowed the person to claim the payment within four years after the person paid the amount in respect of which the payment would be so payable; and
 	- **(b)** shall not be refunded under paragraph (5)(c) unless
 		- **(i)** the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which notice of the assessment is sent to the person, and
-		- **(ii)** the person has filed all returns or other records that the person was required to file with the Minister under this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) before the day on which notice of the assessment is sent to the person.
+		- **(ii)** the person has, before the day on which notice of the assessment is sent to him or her, filed all returns or other records that the person was required to file
+			- **(A)** with the Minister under this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+			- **(B)** with the Minister of Public Safety and Emergency Preparedness under the Customs Act.
 
 **Deemed claim or application**
 
@@ -2868,6 +2885,8 @@ and ending on the day on which the refund is paid to the person.
 - **(10)** In this section, “overpayment of duty payable” of a person for a fiscal month of the person means the amount, if any, by which the total of all amounts paid by the person on account of duty payable for the month exceeds the total of
 	- **(a)** the duty payable for the month, and
 	- **(b)** all amounts paid to the person under this Act as a refund for the month.
+> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145.
+
 
 
 
@@ -2888,11 +2907,16 @@ and ending on the day on which the refund is paid to the person.
 
 **Restriction**
 
-- **(4)** A refund shall not be paid until the person has filed with the Minister all returns or other records that are required to be filed under this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness, all returns or other records that are required to be filed under this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the 
+[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the 
+[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the 
+[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Interest**
 
 - **(5)** If a refund is paid to a person, the Minister shall pay interest at the prescribed rate to the person on the refund for the period beginning on the day that is 30 days after the day on which the application for the refund is filed with the Minister and ending on the day on which the refund is paid.
+> 2002, c. 22, s. 189; 2005, c. 38, ss. 96, 145.
+
 
 
 
@@ -3487,8 +3511,10 @@ and ending on the day on which the refund is paid to the person.
 - **(b)** an applicant for a refund under this Act.
 
 ***confidential information*** means information of any kind and in any form that relates to one or more persons and that is
-- **(a)** obtained by or on behalf of the Minister for the purposes of this Act; or
-- **(b)** prepared from information referred to in paragraph (a).
+
+- **(a)** obtained by or on behalf of the Minister for the purposes of this Act; 
+- **(a.1)** obtained by or on behalf of the Minister of Public Safety and Emergency Preparedness for the purposes of section 68; or
+- **(b)** prepared from information referred to in paragraph (a) or (a.1).
 
 It excludes information that does not directly or indirectly reveal the identity of the person to whom it relates.
 
@@ -3571,6 +3597,8 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145.
+
 
 
 
@@ -5319,7 +5347,11 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **Proof of documents**
 
-- **(8)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister, the Commissioner or an officer authorized to exercise the powers or perform the duties of the Minister under this Act is deemed to be a document signed, made and issued by the Minister, the Commissioner or the officer, unless it has been called into question by the Minister or a person acting for the Minister or for Her Majesty.
+- **(8)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister, the Commissioner of Customs and Revenue, the Commissioner or an officer authorized to exercise the powers or perform the duties of the Minister under this Act is deemed to be a document signed, made and issued by the Minister, the Commissioner of Customs and Revenue, the Commissioner or the officer, unless it has been called into question by the Minister or a person acting for the Minister or for Her Majesty.
+
+**Proof of documents: Canada Border Services Agency**
+
+- **(8.1)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister of Public Safety and Emergency Preparedness, the President of the Canada Border Services Agency or an officer authorized to exercise the powers or perform the duties of that Minister under this Act is deemed to be a document signed, made and issued by that Minister, the President or the officer, unless it has been called into question by that Minister or a person acting for that Minister or for Her Majesty.
 
 **Mailing date**
 
@@ -5348,6 +5380,8 @@ However, nothing in this subsection limits the liability of the transferor under
 **Probative force of copy**
 
 - **(15)** Any copy of an original record made under section 262 that is purported to be certified by the Minister or an officer to be a copy of the original record is evidence of the nature and content of the original record and has the same probative force as the original record would have if it were proven in the ordinary way.
+> 2002, c. 22, s. 301; 2005, c. 38, ss. 98, 145.
+
 
 
 
