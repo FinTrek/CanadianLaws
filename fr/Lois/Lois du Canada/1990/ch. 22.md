@@ -338,10 +338,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les inspecteurs chargés de l’application de la présente loi sont désignés par le président de l’Agence canadienne d’inspection des aliments conformément à l’article 13 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md).
 
+**Désignations**
+
+- **(1.1)** Le président de l’Agence des services frontaliers du Canada peut, en vertu de l’alinéa 9(2)b) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md), désigner des inspecteurs chargés du contrôle d’application de la présente loi.
+
 **Production du certificat**
 
-- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence canadienne d’inspection des aliments et attestant sa qualité, qu’il présente, sur demande, au responsable des lieux qui font l’objet de sa visite.
-> 1990, ch. 22, art. 21; 1997, ch. 6, art. 82.
+- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence canadienne d’inspection des aliments ou le président de l’Agence des services frontaliers du Canada, selon le cas, et attestant sa qualité, qu’il présente, sur demande, au responsable des lieux qui font l’objet de sa visite.
+> 1990, ch. 22, art. 21; 1997, ch. 6, art. 82; 2005, ch. 38, art. 123.
 
 
 
