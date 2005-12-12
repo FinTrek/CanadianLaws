@@ -33,152 +33,154 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR ou l’ALÉCI. 
+***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR ou l’ALÉCI.
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***Agence*** L’Agence des douanes et du revenu du Canada. 
+***Agence*** L’Agence des services frontaliers du Canada.
 
- ou  ***agent*** ou  ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la  [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada. 
+ ou ***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada.
 
-***alcool spécialement dénaturé*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***alcool spécialement dénaturé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili*. 
+***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
 
-***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica*. 
+***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
-***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la  *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël*. 
+***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
 
-***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la  [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). 
+***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
-***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24. 
+***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24.
 
-***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5. 
+***bureau de douane*** Emplacement établi à titre de bureau de douane par le ministre en vertu de l’article 5.
 
 ***Canada***[Abrogée, 1996, ch. 31, art. 73]
 
-***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4) b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange. 
+***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4) b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange.
 
-***Chili*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***cigare***[Abrogée, 2002, ch. 22, art. 328]
 
-***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***commissaire*** Le commissaire des douanes et du revenu nommé en vertu de l’article 25 de la  Loi sur l’Agence des douanes et du revenu du Canada. 
+***commissaire***[Abrogée, 2005, ch. 38, art. 60]
 
-***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada. 
+***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada.
 
-***Costa Rica*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***Costa Rica*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***dédouanement***
-- **a) ** Autorisation d’enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes en vue de leur usage au Canada;
-- **b) ** dans le cas des marchandises visées à l’alinéa 32(2) b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire.
+- **a)** Autorisation d’enlever des marchandises d’un bureau de douane, d’un entrepôt d’attente, d’un entrepôt de stockage ou d’une boutique hors taxes en vue de leur usage au Canada;
+- **b)** dans le cas des marchandises visées à l’alinéa 32(2)b), leur réception à l’établissement de l’importateur, du propriétaire ou du destinataire.
 
-***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif. 
+***document*** Tout support où des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
 
-***données*** Toute forme de représentation d’informations ou de notions. 
+***données*** Toute forme de représentation d’informations ou de notions.
 
-***droits*** Les droits ou taxes imposés, en vertu de la   Loi de 2001 sur l'accise, de la   Loi sur la taxe d'accise, de la   Loi sur les mesures spéciales d'importation, du   [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)  ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l'application du paragraphe 3(1), des alinéas 59(3)  b ) et 65(1)  b ), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la   Loi sur la taxe d'accise. 
+***droits*** Les droits ou taxes imposés, en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)  ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3) b ) et 65(1) b ), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
 ***eaux intérieures***[Abrogée, 1996, ch. 31, art. 73]
 
-***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant : 
-- **a) ** Cap-des-Rosiers à la pointe extrême ouest de l’île d’Anticosti;
-- **b) ** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest.
+***eaux internes*** L’ensemble des fleuves, rivières, lacs et autres plans d’eau douce du Canada, y compris la partie du Saint-Laurent délimitée, vers la mer, par les lignes droites joignant : 
+- **a)** Cap-des-Rosiers à la pointe extrême ouest de l’île d’Anticosti;
+- **b)** l’île d’Anticosti à la rive nord du Saint-Laurent suivant le méridien de soixante-trois degrés de longitude ouest.
 
-***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24. 
+***entrepôt d’attente*** Établissement agréé comme tel par le ministre en vertu de l’article 24.
 
-***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***entrepôt de stockage*** Établissement agréé comme tel par le ministre en vertu du paragraphe 91(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
- ou  ***envois*** ou  ***courrier*** S’entend au sens de l’article 2 de la  [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md). 
+ ou ***envois*** ou ***courrier*** S’entend au sens de l’article 2 de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md).
 
 ***États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
-***exporter*** Exporter hors du Canada. 
+***exporter*** Exporter hors du Canada.
 
-***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***importer*** Importer au Canada. 
+***importer*** Importer au Canada.
 
-***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support. 
+***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support.
 
 ***marchandises désignées***
-- **a) ** [Abrogé, 2002, ch. 22, art. 328]
-- **b) ** le carburant aviation;
-- **c) ** l’essence d’aviation;
-- **d) ** la bière ou la liqueur de malt;
-- **e) ** les diamants;
-- **f) ** le combustible diesel;
-- **g) ** l’essence;
-- **h) ** les perles;
-- **i) ** les pierres précieuses ou fines;
-- **i.1) ** les spiritueux;
-- **j) ** le vin;
-- **k) ** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi.
+- **a)** [Abrogé, 2002, ch. 22, art. 328]
+- **b)** le carburant aviation;
+- **c)** l’essence d’aviation;
+- **d)** la bière ou la liqueur de malt;
+- **e)** les diamants;
+- **f)** le combustible diesel;
+- **g)** l’essence;
+- **h)** les perles;
+- **i)** les pierres précieuses ou fines;
+- **i.1)** les spiritueux;
+- **j)** le vin;
+- **k)** les autres marchandises que le ministre peut, par arrêté, désigner pour l’application d’une ou de plusieurs dispositions de la présente loi.
 
 ***mer territoriale***[Abrogée, 1996, ch. 31, art. 73]
 
-***messager*** S’entend au sens du règlement. 
+***messager*** S’entend au sens du règlement.
 
-***ministre*** Le ministre du Revenu national. 
+***ministre*** Sauf dans la partie V.1, le ministre de la Sécurité publique et de la Protection civile.
 
-***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises. 
+***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises.
 
-***partenaire de libre-échange*** Selon le cas : 
-- **a) ** un pays ALÉNA;
-- **b) ** le Chili;
-- **c) ** le Costa Rica;
-- **d) ** Israël ou autre bénéficiaire de l’ALÉCI.
+***partenaire de libre-échange*** Selon le cas : 
+- **a)** un pays ALÉNA;
+- **b)** le Chili;
+- **c)** le Costa Rica;
+- **d)** Israël ou autre bénéficiaire de l’ALÉCI.
 
-***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la  [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). 
+***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
-***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. 
+***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
 
-***produit du tabac*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***président*** Le président de l’Agence, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
 
-***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi. 
+***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***règlement*** Règlement pris par le gouverneur en conseil en application de la présente loi.
 
 ***réglementaire***
-- **a) ** Autorisé par le ministre, dans le cas des formulaires et de leurs modalités de production;
-- **b) ** précisé par le ministre, dans le cas des renseignements à fournir dans un formulaire ou avec un formulaire;
-- **c) ** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas.
+- **a)** Autorisé par le ministre, dans le cas des formulaires et de leurs modalités de production;
+- **b)** précisé par le ministre, dans le cas des renseignements à fournir dans un formulaire ou avec un formulaire;
+- **c)** prévu par règlement ou déterminé en conformité avec les règles prévues par règlement, dans tous les autres cas.
 
 ***sous-ministre***[Abrogée, 1999, ch. 17, art. 123]
 
-***spiritueux*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***tabac en feuilles*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise.
+***tabac en feuilles*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***tabac fabriqué***[Abrogée, 2002, ch. 22, art. 328]
 
-***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire. 
+***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire.
 
-***titulaire de licence de spiritueux***  S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***titulaire de licence de spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***titulaire de licence de tabac*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***titulaire de licence de tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***titulaire de licence de vin*** S'entend au sens de l'article 2 de la  Loi de 2001 sur l'accise. 
+***titulaire de licence de vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***traitement tarifaire préférentiel de l’ALÉCC*** Le bénéfice des taux de droits de douane du tarif du Chili au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***traitement tarifaire préférentiel de l’ALÉCC*** Le bénéfice des taux de droits de douane du tarif du Chili au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***traitement tarifaire préférentiel de l’ALÉCCR*** Le bénéfice des taux de droits de douane du tarif du Costa Rica au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***traitement tarifaire préférentiel de l’ALÉCCR*** Le bénéfice des taux de droits de douane du tarif du Costa Rica au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du  [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). 
+***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56. 
+***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56.
 
-***vin*** S'entend au sens de l'article 2 de la Loi de 2001 sur l'accise. 
+***vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 **Définitions**
 
-- **(1.1)** Les définitions qui suivent s’appliquent à la définition de « marchandises désignées » au paragraphe (1).
+- **(1.1)** Les définitions qui suivent s’appliquent à la définition de ***marchandises désignées*** au paragraphe (1).
 
-***alcool***, ***alcool éthylique*** ou ***eau-de-vie*** [Abrogée, 2002, ch. 22, art. 328]
+***alcool***, ***alcool éthylique*** ou ***eau-de-vie***[Abrogée, 2002, ch. 22, art. 328]
 
  ou  or ***bière*** ou ***liqueur de malt*** S’entendent au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
 
@@ -192,11 +194,11 @@
 
 ***pierres précieuses ou fines*** Les marchandises classées dans la position n<sup>o</sup> 71.03 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et destinées à l’usage personnel ou à la parure.
 
-***vin*** [Abrogée, 2002, ch. 22, art. 328]
+***vin***[Abrogée, 2002, ch. 22, art. 328]
 
 **Traitement tarifaire préférentiel**
 
-- **(1.2)** Pour l’application de la présente loi, la mention du traitement tarifaire préférentiel découlant d’un accord de libre-échange vaut mention, selon le cas :
+- **(1.2)** Pour l’application de la présente loi, la mention du traitement tarifaire préférentiel découlant d’un accord de libre-échange vaut mention, selon le cas :
 	- **a)** du traitement tarifaire préférentiel de l’ALÉNA;
 	- **b)** du traitement tarifaire préférentiel de l’ALÉCC;
 	- **c)** du traitement tarifaire préférentiel de l’ALÉCCR;
@@ -210,14 +212,22 @@
 
 - **(2)** Le gouverneur en conseil peut par règlement, à titre temporaire, soustraire à l’application de la présente loi des zones déterminées des eaux canadiennes, y compris les eaux internes; le cas échéant, un tel règlement n’emporte aucune renonciation aux droits souverains du Canada sur les zones ainsi soustraites.
 
-**Attributions du commissaire**
+**Attributions du président**
 
-- **(3)** Les attributions conférées au commissaire par la présente loi peuvent être exercées par toute personne qu’il autorise à agir ainsi ou par tout agent appartenant à une catégorie d’agents qu’il autorise à agir ainsi. Les attributions ainsi exercées sont réputées l’avoir été par le commissaire.
+- **(3)** Les attributions conférées au président par la présente loi peuvent être exercées par toute personne qu’il autorise à agir ainsi ou par tout agent appartenant à une catégorie d’agents qu’il autorise à agir ainsi. Les attributions ainsi exercées sont réputées l’avoir été par le président.
 
 **Délégation**
 
 - **(4)** Le ministre peut autoriser un fonctionnaire ou une catégorie de fonctionnaires à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328.
+
+**Délégation par le ministre**
+
+- **(5)** Le ministre peut autoriser toute personne employée par l’Agence du revenu du Canada, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
+
+**Délégation par le ministre du Revenu national**
+
+- **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145.
 
 
 
@@ -277,7 +287,7 @@
 
 **3.3** 
 
-- **(1)** Le ministre ou l’agent qu’il charge de l’application du présent article peut, en tout temps, annuler tout ou partie des pénalités ou intérêts à payer par ailleurs par une personne en application de la présente loi, ou y renoncer.
+- **(1)** Sauf à l’égard de la perception de toute créance de Sa Majesté sous le régime de la partie V.1, le ministre ou l’agent que le président charge de l’application du présent article peut, en tout temps, annuler tout ou partie des pénalités ou intérêts à payer par ailleurs par une personne en application de la présente loi, ou y renoncer.
 
 **Non-application du paragraphe (1)**
 
@@ -286,7 +296,7 @@
 **Intérêts sur remboursement de pénalité ou d’intérêts**
 
 - **(2)** Quiconque est remboursé, par suite d’une renonciation ou d’une annulation visée au paragraphe (1), d’un montant de pénalité ou d’intérêts payé reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur le remboursement pour la période commençant le lendemain du paiement du montant et se terminant le jour de l’octroi du remboursement.
-> 1992, ch. 28, art. 2; 1995, ch. 41, art. 2; 2001, ch. 25, art. 3.
+> 1992, ch. 28, art. 2; 1995, ch. 41, art. 2; 2001, ch. 25, art. 3; 2005, ch. 38, art. 61.
 
 
 
@@ -300,12 +310,12 @@
 
 **3.4** 
 
-- **(1)** Si le ministre ou l’agent qu’il charge de l’application du présent article décide que la garantie qu’une personne a donnée au ministre en application d’une disposition de la présente loi n’est plus suffisante, le ministre ou l’agent peut, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger qu’une garantie supplémentaire soit donnée par la personne ou en son nom dans le délai raisonnable fixé dans l’avis.
+- **(1)** Si le ministre ou l’agent que le président charge de l’application du présent article décide que la garantie qu’une personne a donnée au ministre en application d’une disposition de la présente loi n’est plus suffisante, le ministre ou l’agent peut, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger qu’une garantie supplémentaire soit donnée par la personne ou en son nom dans le délai raisonnable fixé dans l’avis.
 
 **Paiement en l’absence de garantie supplémentaire**
 
 - **(2)** Quiconque omet de se conformer à une demande de garantie supplémentaire dans le délai imparti est aussitôt redevable de l’excédent du montant dû — pour lequel la garantie donnée au ministre n’est plus suffisante — sur la valeur de cette garantie, déterminée par le ministre ou par l’agent qu’il charge de l’application du présent article.
-> 1992, ch. 28, art. 2.
+> 1992, ch. 28, art. 2; 2005, ch. 38, art. 62.
 
 
 
@@ -1123,8 +1133,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Autorisation**
 
-- **(7)** Le ministre ou un agent qu’il charge de l’application du présent paragraphe peut autoriser une personne qui ne réside pas au Canada à faire une déclaration en détail ou provisoire de marchandises en vertu du présent article, dans les circonstances et dans les conditions prévues par règlement, au lieu de leur importateur ou de leur propriétaire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 32; 1992, ch. 28, art. 5; 1995, ch. 41, art. 8; 2001, ch. 25, art. 21.
+- **(7)** Le ministre ou l’agent que le président charge de l’application du présent paragraphe peut autoriser une personne qui ne réside pas au Canada à faire une déclaration en détail ou provisoire de marchandises en vertu du présent article, dans les circonstances et dans les conditions prévues par règlement, au lieu de leur importateur ou de leur propriétaire.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 32; 1992, ch. 28, art. 5; 1995, ch. 41, art. 8; 2001, ch. 25, art. 21; 2005, ch. 38, art. 63.
 
 
 
@@ -1233,8 +1243,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Mise en demeure de faire une déclaration en détail**
 
-**33.2** Le destinataire d’une mise en demeure du ministre ou de l’agent qu’il charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de faire, selon les modalités visées à l’alinéa 32(1)a) et dans le délai raisonnable fixé dans la mise en demeure, une déclaration en détail des marchandises indiquées dans la mise en demeure.
-> 1992, ch. 28, art. 7.
+**33.2** Le destinataire d’une mise en demeure du ministre ou de l’agent que le président charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de faire, selon les modalités visées à l’alinéa 32(1)a) et dans le délai raisonnable fixé dans la mise en demeure, une déclaration en détail des marchandises indiquées dans la mise en demeure.
+> 1992, ch. 28, art. 7; 2005, ch. 38, art. 64.
 
 
 
@@ -1265,8 +1275,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Mise en demeure de payer**
 
-**33.5** Le destinataire d’une mise en demeure du ministre ou de l’agent qu’il charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de verser, dans le délai raisonnable fixé dans la mise en demeure, tout montant dû à titre de droits sur les marchandises indiquées dans la mise en demeure.
-> 1992, ch. 28, art. 7.
+**33.5** Le destinataire d’une mise en demeure du ministre ou de l’agent que le président charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu de verser, dans le délai raisonnable fixé dans la mise en demeure, toute somme due à titre de droits sur les marchandises indiquées dans la mise en demeure.
+> 1992, ch. 28, art. 7; 2005, ch. 38, art. 65.
 
 
 
@@ -1280,7 +1290,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **33.7** 
 
-- **(1)** Le ministre ou l’agent qu’il charge de l’application du présent article peut, en tout temps, proroger par écrit le délai prévu par les règlements d’application de la présente partie pour la déclaration en détail de marchandises ou le paiement d’un montant dû à titre de droits.
+- **(1)** Le ministre ou l’agent que le président charge de l’application du présent article peut, en tout temps, proroger par écrit le délai prévu par les règlements d’application de la présente partie pour la déclaration en détail de marchandises ou le paiement d’une somme due à titre de droits.
 
 **Effet de la prorogation du délai de déclaration en détail**
 
@@ -1295,7 +1305,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **a)** le paiement doit être fait dans le délai prorogé;
 	- **b)** si le paiement est fait dans le délai prorogé, le paragraphe 33.4(1) s’applique au montant comme si le délai n’avait pas été prorogé, mais les intérêts à payer sur ce montant en application de ce paragraphe sont calculés au taux réglementaire plutôt qu’au taux déterminé;
 	- **c)** le délai est réputé ne pas avoir été prorogé si le paiement n’est pas fait dans le délai prorogé.
-> 1992, ch. 28, art. 7; 2001, ch. 25, art. 28.
+> 1992, ch. 28, art. 7; 2001, ch. 25, art. 28; 2005, ch. 38, art. 66.
 
 
 
@@ -1336,7 +1346,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Mise en demeure de marquer**
 
-- **(2)** Le destinataire d’une mise en demeure du ministre, ou de l’agent que celui-ci charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu :
+- **(2)** Le destinataire d’une mise en demeure du ministre ou de l’agent que le président charge de l’application du présent article, signifiée à personne ou envoyée par courrier recommandé ou certifié, est tenu :
 	- **a)** soit de marquer, conformément aux règlements d’application de l’article 19 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et dans le délai raisonnable fixé par la mise en demeure, les marchandises importées en contravention de l’article 35.01;
 	- **b)** soit de se conformer à l’article 35.01 à l’égard de marchandises, indiquées dans la mise en demeure, qui seront importées ultérieurement.
 
@@ -1350,7 +1360,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **c)** les marchandises importées ont été marquées d’une manière trompeuse de façon à induire une autre personne en erreur quant au pays ou à la zone géographique de leur origine.
 
 - **(5)** [Abrogé, 2001, ch. 25, art. 30]
-> 1993, ch. 44, art. 83; 1997, ch. 36, art. 156; 2001, ch. 25, art. 30.
+> 1993, ch. 44, art. 83; 1997, ch. 36, art. 156; 2001, ch. 25, art. 30; 2005, ch. 38, art. 67.
 
 
 
@@ -1530,7 +1540,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 
 
-**Définition de « maison d’habitation »**
+**Définition de maison d’habitation**
 
 **42** 
 
@@ -1540,7 +1550,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Enquêtes**
 
-- **(2)** L’agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l’application du présent article peut à toute heure convenable, pour l’application et l’exécution de la présente loi :
+- **(2)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article peut à toute heure convenable, pour l’application et l’exécution de la présente loi :
 	- **a)** inspecter, vérifier ou examiner les documents d’une personne qui se rapportent ou peuvent se rapporter soit aux renseignements qui figurent dans les livres ou registres de la personne ou qui devraient y figurer, soit à toute somme à payer par la personne en vertu de la présente loi;
 	- **b)** examiner les biens à porter à l’inventaire d’une personne, ainsi que tout bien ou tout procédé de celle-ci ou toute matière la concernant dont l’examen peut aider l’agent à établir l’exactitude de l’inventaire de la personne ou à contrôler soit les renseignements qui figurent dans les documents de la personne ou qui devraient y figurer, soit toute somme payée ou à payer par la personne en vertu de la présente loi;
 	- **c)** sous réserve du paragraphe (3), pénétrer dans un lieu où est exploitée une entreprise, est gardé un bien, est faite une chose en rapport avec une entreprise ou sont tenus, ou devraient être tenus, des documents;
@@ -1562,7 +1572,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 - **(5)** Dans la mesure où un refus de pénétrer dans la maison d’habitation a été opposé ou pourrait l’être et où des documents ou biens sont gardés dans la maison d’habitation ou pourraient l’être, le juge qui n’est pas convaincu qu’il est nécessaire de pénétrer dans la maison d’habitation pour l’application ou l’exécution de la présente loi peut :
 	- **a)** ordonner à l’occupant de la maison d’habitation de permettre à l’agent d’avoir raisonnablement accès à tous documents ou biens qui sont gardés dans la maison d’habitation ou devraient y être gardés;
 	- **b)** rendre toute autre ordonnance indiquée en l’espèce pour l’application de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 42; 2001, ch. 25, art. 32.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 42; 2001, ch. 25, art. 32; 2005, ch. 38, art. 68.
 
 
 
@@ -1574,8 +1584,8 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **Méthodes de vérification**
 
-**42.01** L’agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l’application du présent article peut effectuer la vérification de l’origine des marchandises importées, autres que celles visées à l’article 42.1, ou la vérification de leur classement tarifaire ou de leur valeur en douane selon les modalités réglementaires; à cette fin, il a accès aux lieux désignés par règlement à toute heure convenable.
-> 1997, ch. 36, art. 160; 2001, ch. 25, art. 33.
+**42.01** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article peut effectuer la vérification de l’origine des marchandises importées, autres que celles visées à l’article 42.1, ou la vérification de leur classement tarifaire ou de leur valeur en douane selon les modalités réglementaires; à cette fin, il a accès aux lieux désignés par règlement à toute heure convenable.
+> 1997, ch. 36, art. 160; 2001, ch. 25, art. 33; 2005, ch. 38, art. 69.
 
 
 
@@ -1593,7 +1603,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **42.1** 
 
-- **(1)** L’agent chargé ou appartenant à une catégorie d’agents chargée, par le ministre, de l’application du présent article — ou la personne désignée par le ministre, individuellement ou au titre de son appartenance à une catégorie déterminée, pour agir pour le compte d’un tel agent — peut, sous réserve des conditions réglementaires :
+- **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires :
 	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange :
 		- **(i)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire,
 		- **(ii)** soit de toute autre manière prévue par règlement;
@@ -1604,7 +1614,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Retrait du traitement tarifaire préférentiel**
 
 - **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé peut être refusé ou retiré aux marchandises en cause.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70.
 
 
 
@@ -1712,19 +1722,19 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **43.1** 
 
-- **(1)** L'agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l'application du présent article est tenu, sur demande d'un membre d'une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, avec les renseignements et en la forme réglementaires, de rendre, avant l'importation de marchandises, une décision anticipée :
-	- **a) ** sur l'origine des marchandises et l'application à leur égard du traitement tarifaire préférentiel découlant d'un accord de libre-échange;
-	- **b)** s'agissant de marchandises exportées d'un pays ALÉNA, du Chili ou du Costa Rica, sur toute autre question portant sur l'application à celles-ci du paragraphe 1 de l'article 509 de l'ALÉNA, du paragraphe 1 de l'article E-09 de l'ALÉCC ou du paragraphe 1 de l'article V.9 ou du paragraphe 10 de l'article IX.2 de l'ALÉCCR, selon le cas;
-	- **c) ** sur le classement tarifaire des marchandises.
+- **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article est tenu, sur demande d’un membre d’une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, en la forme et avec les renseignements déterminés par le ministre, de rendre, avant l’importation de marchandises, une décision anticipée :
+	- **a)** sur l’origine des marchandises et l’application à leur égard du traitement tarifaire préférentiel découlant d’un accord de libre-échange;
+	- **b)** s’agissant de marchandises exportées d’un pays ALÉNA, du Chili ou du Costa Rica, sur toute autre question portant sur l’application à celles-ci du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC ou du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR, selon le cas;
+	- **c)** sur le classement tarifaire des marchandises.
 
 **Règlements**
 
-- **(2)** Le gouverneur en conseil peut prendre des règlements concernant les décisions anticipées et, notamment, régir :
-	- **a) ** leur application;
-	- **b) ** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
-	- **c) ** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
-	- **d) ** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F).
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant les décisions anticipées et, notamment, régir :
+	- **a)** leur application;
+	- **b)** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
+	- **c)** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
+	- **d)** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71.
 
 
 
@@ -2125,12 +2135,12 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **57.01** 
 
-- **(1)** L’agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l’application du présent article, peut, au plus tard au moment de la déclaration en détail des marchandises importées d’un pays ALÉNA prévue aux paragraphes 32(1), (3) ou (5), selon les modalités réglementaires et sous réserve des conditions réglementaires, décider si les marchandises ont été marquées conformément à l’article 35.01.
+- **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article, peut, au plus tard au moment de la déclaration en détail des marchandises importées d’un pays ALÉNA faite en vertu des paragraphes 32(1), (3) ou (5), selon les modalités réglementaires et sous réserve des conditions réglementaires, décider si les marchandises ont été marquées conformément à l’article 35.01.
 
 **Décision présumée**
 
 - **(2)** Dans le cas où l’agent ne rend pas sa décision au plus tard au moment de la déclaration en détail des marchandises prévue aux paragraphes 32(1), (3) ou (5), celles-ci sont réputées marquées conformément à l’article 35.01 sur le fondement des déclarations faites par l’auteur de la déclaration en détail.
-> 1993, ch. 44, art. 88; 1997, ch. 36, art. 165; 2001, ch. 25, art. 39.
+> 1993, ch. 44, art. 88; 1997, ch. 36, art. 165; 2001, ch. 25, art. 39; 2005, ch. 38, art. 72.
 
 
 
@@ -2160,7 +2170,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **58** 
 
-- **(1)** L’agent chargé, ou l’agent appartenant à une catégorie d’agents chargée, par le ministre de l’application du présent article peut déterminer l’origine, le classement tarifaire et la valeur en douane des marchandises importées au plus tard au moment de leur déclaration en détail faite en vertu des paragraphes 32(1), (3) ou (5).
+- **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article peut déterminer l’origine, le classement tarifaire et la valeur en douane des marchandises importées au plus tard au moment de leur déclaration en détail faite en vertu des paragraphes 32(1), (3) ou (5).
 
 **Détermination présumée**
 
@@ -2169,7 +2179,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Intervention à l’égard d’une détermination**
 
 - **(3)** La détermination faite en vertu du présent article n’est susceptible de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 59 à 61.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 58; 1992, ch. 28, art. 11; 1997, ch. 36, art. 166.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 58; 1992, ch. 28, art. 11; 1997, ch. 36, art. 166; 2005, ch. 38, art. 73.
 
 
 
@@ -2179,11 +2189,11 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **59** 
 
-- **(1)** L’agent chargé par le ministre — individuellement ou au titre de son appartenance à une catégorie déterminée — de l’application du présent article peut :
+- **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article peut :
 	- **a)** dans le cas d’une décision prévue à l’article 57.01 ou d’une détermination prévue à l’article 58, réviser l’origine, le classement tarifaire ou la valeur en douane des marchandises importées, ou procéder à la révision de la décision sur la conformité des marques de ces marchandises, dans les délais suivants :
 		- **(i)** dans les quatre années suivant la date de la détermination, d’après les résultats de la vérification ou de l’examen visé à l’article 42, de la vérification prévue à l’article 42.01 ou de la vérification de l’origine prévue à l’article 42.1,
 		- **(ii)** dans les quatre années suivant la date de la détermination, si le ministre l’estime indiqué;
-	- **b)** réexaminer l’origine, le classement tarifaire ou la valeur en douane dans les quatre années suivant la date de la détermination ou, si le ministre l’estime indiqué, dans le délai réglementaire d’après les résultats de la vérification ou de l’examen visé à l’article 42, de la vérification prévue à l’article 42.01 ou de la vérification de l’origine prévue à l’article 42.1 effectuée à la suite soit d’un remboursement accordé en application des alinéas 74(1)c.1), c.11), e), f) ou g) qui est assimilé, conformément au paragraphe 74(1.1), à une révision au titre de l’alinéa a), soit d’une correction effectuée en application de l’article 32.2 qui est assimilée, conformément au paragraphe 32.2(3), à une révision au titre de l’alinéa a).
+	- **b)** réexaminer l’origine, le classement tarifaire ou la valeur en douane dans les quatre années suivant la date de la détermination ou, si le ministre l’estime indiqué, dans le délai réglementaire d’après les résultats de la vérification ou de l’examen visé à l’article 42, de la vérification prévue à l’article 42.01 ou de la vérification de l’origine prévue à l’article 42.1 effectuée à la suite soit d’un remboursement accordé en application des alinéas 74(1) c.1), c.11), e), f) ou g) qui est assimilé, conformément au paragraphe 74(1.1), à une révision au titre de l’alinéa a), soit d’une correction effectuée en application de l’article 32.2 qui est assimilée, conformément au paragraphe 32.2(3), à une révision au titre de l’alinéa a).
 
 **Avis de la détermination**
 
@@ -2206,13 +2216,13 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **Intervention à l’égard d’une révision ou d’un réexamen**
 
 - **(6)** La révision ou le réexamen fait en vertu du présent article ne sont susceptibles de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues au paragraphe 59(1) ou aux articles 60 ou 61.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 59; 1997, ch. 36, art. 166; 2001, ch. 25, art. 41.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 59; 1997, ch. 36, art. 166; 2001, ch. 25, art. 41; 2005, ch. 38, art. 74.
 
 
 
 
 
-### Révision ou réexamen par le commissaire
+### Révision ou réexamen par le président
 
 
 
@@ -2228,19 +2238,19 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **Présentation de la demande**
 
-- **(3)** La demande prévue au présent article est présentée au commissaire en la forme et selon les modalités réglementaires et avec les renseignements réglementaires.
+- **(3)** La demande prévue au présent article est présentée au président en la forme et selon les modalités réglementaires et avec les renseignements réglementaires.
 
-**Intervention du commissaire**
+**Intervention du président**
 
-- **(4)** Sur réception de la demande prévue au présent article, le commissaire procède sans délai à l’une des interventions suivantes :
+- **(4)** Sur réception de la demande prévue au présent article, le président procède sans délai à l’une des interventions suivantes :
 	- **a)** la révision ou le réexamen de l’origine, du classement tarifaire ou de la valeur en douane;
 	- **b)** la confirmation, la modification ou l’annulation de la décision anticipée;
 	- **c)** la révision ou le réexamen de la décision sur la conformité des marques.
 
 **Avis de la décision**
 
-- **(5)** Le commissaire donne avis au demandeur, sans délai, de la décision qu’il a prise en application du paragraphe (4), motifs à l’appui.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 60; 1992, ch. 28, art. 12; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 42.
+- **(5)** Le président donne avis au demandeur, sans délai, de la décision qu’il a prise en application du paragraphe (4), motifs à l’appui.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 60; 1992, ch. 28, art. 12; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 42; 2005, ch. 38, art. 85.
 
 
 
@@ -2250,7 +2260,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **60.1** 
 
-- **(1)** La personne qui n’a pas présenté la demande visée à l’article 60 dans le délai qui y est prévu peut demander au commissaire une prorogation du délai, le commissaire étant autorisé à faire droit à la demande.
+- **(1)** La personne qui n’a pas présenté la demande visée à l’article 60 dans le délai qui y est prévu peut demander au président une prorogation du délai, le président étant autorisé à faire droit à la demande.
 
 **Motifs de la demande**
 
@@ -2258,15 +2268,15 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 
 **Modalités**
 
-- **(3)** La demande de prorogation est envoyée au commissaire selon les modalités réglementaires et avec les renseignements réglementaires.
+- **(3)** La demande de prorogation est envoyée au président selon les modalités réglementaires et avec les renseignements réglementaires.
 
-**Obligations du commissaire**
+**Obligations du président**
 
-- **(4)** Sur réception de la demande de prorogation, le commissaire l’examine sans délai et avise par écrit la personne de sa décision.
+- **(4)** Sur réception de la demande de prorogation, le président l’examine sans délai et avise par écrit la personne de sa décision.
 
 **Date de la demande de révision ou de réexamen**
 
-- **(5)** Si le commissaire fait droit à la demande de prorogation, la demande de révision ou de réexamen est réputée valide à compter de la date de la décision.
+- **(5)** Si le président fait droit à la demande de prorogation, la demande de révision ou de réexamen est réputée valide à compter de la date de la décision.
 
 **Conditions d’acceptation de la demande**
 
@@ -2276,7 +2286,7 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 		- **(i)** au cours du délai prévu à l’article 60, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de présenter une demande de révision ou de réexamen,
 		- **(ii)** il serait juste et équitable de faire droit à la demande de prorogation,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 43.
+> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85.
 
 
 
@@ -2287,13 +2297,13 @@ Le prix unitaire retenu à cet égard est le prix unitaire de vente du plus gran
 **60.2** 
 
 - **(1)** La personne qui a présenté une demande de prorogation en vertu de l’article 60.1 peut demander au Tribunal canadien du commerce extérieur d’y faire droit :
-	- **a)** soit après le rejet de la demande par le commissaire;
-	- **b)** soit à l’expiration d’un délai de quatre-vingt-dix jours suivant la présentation de la demande, si le commissaire ne l’a pas avisée de sa décision.
+	- **a)** soit après le rejet de la demande par le président;
+	- **b)** soit à l’expiration d’un délai de quatre-vingt-dix jours suivant la présentation de la demande, si le président ne l’a pas avisée de sa décision.
 La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix jours suivant le rejet de la demande.
 
 **Modalités**
 
-- **(2)** La demande se fait par dépôt, auprès du commissaire et du secrétaire du Tribunal canadien du commerce extérieur, d’une copie de la demande de prorogation visée à l’article 60.1 et, si un avis a été donné en application du paragraphe 60.1(4), d’une copie de l’avis.
+- **(2)** La demande se fait par dépôt, auprès du président et du secrétaire du Tribunal canadien du commerce extérieur, d’une copie de la demande de prorogation visée à l’article 60.1 et, si un avis a été donné en application du paragraphe 60.1(4), d’une copie de l’avis.
 
 **Pouvoirs du Tribunal canadien du commerce extérieur**
 
@@ -2307,17 +2317,17 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(i)** au cours du délai prévu à l’article 60, il n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou il avait véritablement l’intention de présenter une demande de révision ou de réexamen,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 43.
+> 2001, ch. 25, art. 43; 2005, ch. 38, art. 85.
 
 
 
 
 
-**Délai d’intervention du commissaire**
+**Délai d’intervention du président**
 
 **61** 
 
-- **(1)** Le commissaire peut procéder :
+- **(1)** Le président peut procéder :
 	- **a)** à la révision ou au réexamen de l’origine, du classement tarifaire ou de la valeur en douane des marchandises importées :
 		- **(i)** à tout moment après la révision ou le réexamen visé à l’alinéa 60(4)a), mais avant l’audition de l’appel prévu à l’article 67, sur recommandation du procureur général du Canada, dans les cas où la révision ou le réexamen réduirait les droits exigibles sur les marchandises,
 		- **(ii)** à tout moment, si la personne qui a déclaré en détail les marchandises en cause, en application des paragraphes 32(1), (3) ou (5), ne s’est pas conformée à la présente loi ou à ses règlements, ou a enfreint les dispositions de la présente loi applicables aux marchandises,
@@ -2327,14 +2337,14 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(ii)** à tout moment, si le destinataire de l’avis de la décision prise sur la conformité des marques en application de l’article 57.01 ou d’une révision faite en vertu de l’alinéa 59(1)a) ne s’est pas conformé à la présente loi ou à ses règlements, ou a enfreint les dispositions de la présente loi applicables aux marchandises,
 		- **(iii)** à tout moment, dans le cas où la révision ou le réexamen donnerait effet à une décision du Tribunal canadien du commerce extérieur, de la Cour d’appel fédérale ou de la Cour suprême du Canada rendue au sujet des marchandises,
 		- **(iv)** à tout moment après la révision visée à l’alinéa 60(4)c), mais avant l’audition de l’appel prévu à l’article 67, sur recommandation du procureur général du Canada;
-	- **c)** à la révision ou au réexamen de l’origine, du classement tarifaire ou de la valeur en douane des marchandises importées, à tout moment, dans le cas où la révision ou le réexamen donnerait effet, pour ce qui est des marchandises en cause, à une décision du Tribunal canadien du commerce extérieur, de la Cour d’appel fédérale ou de la Cour suprême du Canada, ou du commissaire en application du sous-alinéa a)(i) :
+	- **c)** à la révision ou au réexamen de l’origine, du classement tarifaire ou de la valeur en douane des marchandises importées, à tout moment, dans le cas où la révision ou le réexamen donnerait effet, pour ce qui est des marchandises en cause, à une décision du Tribunal canadien du commerce extérieur, de la Cour d’appel fédérale ou de la Cour suprême du Canada, ou du président en application du sous-alinéa a)(i) :
 		- **(i)** qui porte sur l’origine ou le classement tarifaire d’autres marchandises semblables importées par le même importateur ou propriétaire le jour de l’importation des marchandises en cause ou antérieurement,
 		- **(ii)** qui porte sur le mode de détermination de la valeur en douane d’autres marchandises importées par le même importateur ou propriétaire le jour de l’importation des marchandises en cause ou antérieurement.
 
 **Avis de la décision**
 
-- **(2)** Le commissaire qui procède à une révision ou à un réexamen en application du présent article donne sans délai avis de sa décision, motifs à l’appui, aux personnes visées par règlement.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 61; 1992, ch. 28, art. 13; 1993, ch. 44, art. 92; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 44.
+- **(2)** Le président qui procède à une révision ou à un réexamen en application du présent article donne sans délai avis de sa décision, motifs à l’appui, aux personnes visées par règlement.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 61; 1992, ch. 28, art. 13; 1993, ch. 44, art. 92; 1997, ch. 36, art. 166; 1999, ch. 17, art. 127; 2001, ch. 25, art. 44; 2005, ch. 38, art. 85.
 
 
 
@@ -2418,7 +2428,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **67** 
 
-- **(1)** Toute personne qui s’estime lésée par une décision du commissaire rendue conformément aux articles 60 ou 61 peut en interjeter appel devant le Tribunal canadien du commerce extérieur en déposant par écrit un avis d’appel auprès du commissaire et du secrétaire de ce Tribunal dans les quatre-vingt-dix jours suivant la notification de l’avis de décision.
+- **(1)** Toute personne qui s’estime lésée par une décision du président rendue conformément aux articles 60 ou 61 peut en interjeter appel devant le Tribunal canadien du commerce extérieur en déposant par écrit un avis d’appel auprès du président et du secrétaire de ce Tribunal dans les quatre-vingt-dix jours suivant la notification de l’avis de décision.
 
 **Publication de l’avis d’appel**
 
@@ -2427,7 +2437,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Recours judiciaire**
 
 - **(3)** Le Tribunal canadien du commerce extérieur peut statuer sur l’appel prévu au paragraphe (1), selon la nature de l’espèce, par ordonnance, constatation ou déclaration, celles-ci n’étant susceptibles de recours, de restriction, d’interdiction, d’annulation, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues à l’article 68.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 67, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 169; 1999, ch. 17, art. 127; 2001, ch. 25, art. 48(F); 2005, ch. 38, art. 85.
 
 
 
@@ -2445,7 +2455,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **Modalités**
 
-- **(3)** La demande de prorogation se fait par dépôt, auprès du commissaire et du secrétaire du Tribunal canadien du commerce extérieur, de la demande et de l’avis d’appel.
+- **(3)** La demande de prorogation se fait par dépôt, auprès du président et du secrétaire du Tribunal canadien du commerce extérieur, de la demande et de l’avis d’appel.
 
 **Conditions d’acceptation de la demande**
 
@@ -2456,7 +2466,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible,
 		- **(iv)** l’appel est fondé sur des motifs raisonnables.
-> 2001, ch. 25, art. 49.
+> 2001, ch. 25, art. 49; 2005, ch. 38, art. 85.
 
 
 
@@ -2468,13 +2478,13 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 - **(1)** La décision sur l’appel prévu à l’article 67 est, dans les quatre-vingt-dix jours suivant la date où elle est rendue, susceptible de recours devant la Cour d’appel fédérale sur tout point de droit, de la part de toute partie à l’appel, à savoir :
 	- **a)** l’appelant;
-	- **b)** le commissaire;
+	- **b)** le président;
 	- **c)** quiconque a remis l’acte de comparution visé au paragraphe 67(2).
 
 **Issue du recours**
 
 - **(2)** La Cour d’appel fédérale peut statuer sur le recours, selon la nature de l’espèce, par ordonnance ou constatation, ou renvoyer l’affaire au Tribunal canadien du commerce extérieur pour une nouvelle audience.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 68, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1995, ch. 41, art. 20; 1999, ch. 17, art. 127.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 68, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1995, ch. 41, art. 20; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
 
 
 
@@ -2489,9 +2499,9 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Intérêts**
 
 - **(2)** Le bénéficiaire d’un remboursement prévu au paragraphe (1) :
-	- **a)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le commissaire en vertu du sous-alinéa 61(1)a)(iii), une fraction de la somme remboursée devient due à titre de droits et d’intérêts, paie des intérêts au taux réglementaire, calculés sur les arriérés pour la période commençant le lendemain de l’octroi du remboursement et se terminant le jour du paiement intégral de la fraction due; toutefois, nul intérêt n’est payable sur les arriérés pour la période allant de la révision ou du réexamen jusqu’au versement de la fraction due si celle-ci est versée dans les trente jours suivant la révision ou le réexamen;
-	- **b)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le commissaire en vertu du sous-alinéa 61(1)a)(iii), la totalité ou une fraction de la somme remboursée n’est pas due à titre de droits et d’intérêts, reçoit des intérêts au taux réglementaire, calculés sur la somme non due pour la période commençant le lendemain du versement par le bénéficiaire de cette somme et se terminant le jour de son remboursement.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 69, ch. 1 (4<sup>e</sup> suppl.), art. 45(F); 1992, ch. 28, art. 19; 1997, ch. 36, art. 170; 1999, ch. 17, art. 127; 2001, ch. 25, art. 50(F).
+	- **a)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le président en vertu du sous-alinéa 61(1)a)(iii), une fraction de la somme remboursée devient due à titre de droits et d’intérêts, paie des intérêts au taux réglementaire, calculés sur les arriérés pour la période commençant le lendemain de l’octroi du remboursement et se terminant le jour du paiement intégral de la fraction due; toutefois, nul intérêt n’est payable sur les arriérés pour la période allant de la révision ou du réexamen jusqu’au versement de la fraction due si celle-ci est versée dans les trente jours suivant la révision ou le réexamen;
+	- **b)** dans le cas où, à la suite d’une révision ou d’un réexamen effectué par le président en vertu du sous-alinéa 61(1)a)(iii), la totalité ou une fraction de la somme remboursée n’est pas due à titre de droits et d’intérêts, reçoit des intérêts au taux réglementaire, calculés sur la somme non due pour la période commençant le lendemain du versement par le bénéficiaire de cette somme et se terminant le jour de son remboursement.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 69, ch. 1 (4<sup>e</sup> suppl.), art. 45(F); 1992, ch. 28, art. 19; 1997, ch. 36, art. 170; 1999, ch. 17, art. 127; 2001, ch. 25, art. 50(F); 2005, ch. 38, art. 85.
 
 
 
@@ -2501,12 +2511,12 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **70** 
 
-- **(1)** Le commissaire peut consulter le Tribunal canadien du commerce extérieur sur toute question se rapportant à l’origine, au classement tarifaire ou à la valeur en douane de toute marchandise ou catégorie de marchandises.
+- **(1)** Le président peut consulter le Tribunal canadien du commerce extérieur sur toute question se rapportant à l’origine, au classement tarifaire ou à la valeur en douane de toute marchandise ou catégorie de marchandises.
 
 **Idem**
 
 - **(2)** Les articles 67 et 68 s’appliquent aux consultations visées au présent article comme s’il s’agissait des appels visés à l’article 67.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 70, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 171; 1999, ch. 17, art. 127.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 70, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1997, ch. 36, art. 171; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
 
 
 
@@ -2880,19 +2890,44 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 **97.21** Les définitions qui suivent s’appliquent à la présente partie.
 
-***débiteur*** Personne responsable du paiement d’une somme due ou à payer conformément à la présente loi.
+***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Commissioner*)
 
-***juge*** Juge d’une cour supérieure compétente de la province où une affaire prend naissance ou juge de la Cour fédérale.
+***débiteur*** Personne responsable du paiement d’une somme due ou à payer conformément à la présente loi. (*debtor*)
 
-***séquestre*** Personne qui, selon le cas :
+***juge*** Juge d’une cour supérieure compétente de la province où une affaire prend naissance ou juge de la Cour fédérale. (*judge*)
+
+***ministre*** Le ministre du Revenu national. (*Minister*)
+
+***séquestre*** Personne qui, selon le cas :
 - **a)** en vertu d’un titre de créance, de l’ordonnance d’un tribunal ou d’une loi fédérale ou provinciale, a le pouvoir de gérer ou d’exploiter l’entreprise ou le bien d’un tiers;
 - **b)** est nommée par un fiduciaire aux termes d’un acte de fiducie relativement à un titre de créance, pour exercer le pouvoir du fiduciaire de gérer ou d’exploiter l’entreprise ou le bien du débiteur du titre;
 - **c)** est nommée par une banque à titre de mandataire lors de l’exercice du pouvoir de celle-ci visé au paragraphe 426(3) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) relativement aux biens d’un tiers;
 - **d)** est nommée pour liquider les biens ou les affaires d’une personne morale;
 - **e)** est nommée à titre de curateur ou de tuteur aux biens d’un incapable.
 
-Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un créancier, en vertu d’un titre de créance, de gérer ou d’exploiter l’entreprise ou le bien d’un tiers, le créancier étant dès lors exclu.
-> 2001, ch. 25, art. 58.
+Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un créancier, en vertu d’un titre de créance, de gérer ou d’exploiter l’entreprise ou le bien d’un tiers, le créancier étant dès lors exclu. (*receiver*)
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 75.
+
+
+
+
+
+### Pouvoirs du ministre
+
+
+
+**Pouvoirs du ministre**
+
+**97.211** 
+
+- **(1)** Le ministre peut, pour l’application et le contrôle d’application de la présente partie, exercer les pouvoirs ci- après nécessaires à la perception des créances de Sa Majesté sous le régime de la présente partie :
+	- **a)** les pouvoirs prévus aux alinéas a) et b) de la définition de ***réglementaire*** au paragraphe 2(1), ainsi qu’aux paragraphes 3.3(1) et (2), 43(1) et 115(1);
+	- **b)** ceux qui sont prévus dans les dispositions de la présente loi précisées par le gouverneur en conseil, sur recommandation du ministre et du ministre de la Sécurité publique et de la Protection civile.
+
+**Publication**
+
+- **(2)** Tout décret pris pour l’application du paragraphe (1) est publié dans la partie II de la Gazette du Canada dans les meilleurs délais suivant sa prise.
+> 2005, ch. 38, art. 76 et 145.
 
 
 
@@ -2910,11 +2945,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Pénalité ou confiscation compensatoire**
 
-- **(2)** Les pénalités établies par l’avis de cotisation prévu à l’article 109.3 ainsi que l’intérêt à payer au titre de l’article 109.5, et les sommes réclamées par l’avis prévu à l’article 124 ainsi que l’intérêt à payer au titre du paragraphe 124(6), constituent, dès la signification de l’avis, des créances de Sa Majesté. Il incombe au destinataire de l’avis d’effectuer le paiement ou, dans les quatre-vingt-dix jours de la signification de l’avis, de demander au ministre de rendre la décision prévue à l’article 131.
+- **(2)** Les pénalités établies par l’avis de cotisation prévu à l’article 109.3 ainsi que l’intérêt à payer au titre de l’article 109.5, et les sommes réclamées par l’avis prévu à l’article 124 ainsi que l’intérêt à payer au titre du paragraphe 124(6), constituent, dès la signification de l’avis, des créances de Sa Majesté. Il incombe au destinataire de l’avis d’effectuer le paiement ou, dans les quatre-vingt-dix jours de la signification de l’avis, de demander au ministre de la Sécurité publique et de la Protection civile de rendre la décision prévue à l’article 131.
 
-**Sommes réclamées par le ministre**
+**Sommes réclamées**
 
-- **(3)** Les sommes réclamées en vertu des alinéas 133(1)c) ou (1.1)b), ainsi que l’intérêt à payer au titre du paragraphe 133(7), constituent, dès la signification de l’avis prévu au paragraphe 131(2), des créances de Sa Majesté. Il incombe au demandeur de la décision d’effectuer le paiement ou, en cas d’appel de la décision du ministre en vertu de l’article 135, de fournir la garantie jugée satisfaisante par celui-ci.
+- **(3)** Les sommes réclamées en vertu des alinéas 133(1) c) ou (1.1) b), ainsi que l’intérêt à payer au titre du paragraphe 133(7), constituent, dès la signification de l’avis prévu au paragraphe 131(2), des créances de Sa Majesté. Il incombe au demandeur de la décision d’effectuer le paiement ou, en cas d’appel de la décision prise par le ministre de la Sécurité publique et de la Protection civile en vertu de l’article 135, de fournir la garantie jugée satisfaisante par celui-ci.
 
 **Frais de justice**
 
@@ -2927,7 +2962,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Intérêts sur jugements**
 
 - **(6)** Les dispositions de la présente loi prévoyant le versement d’intérêts sur les paiements en souffrance s’appliquent, avec les adaptations nécessaires, à toute somme adjugée par un tribunal en vertu de la présente loi, notamment par certificat enregistré aux termes de l’article 97.24. Les intérêts sont recouvrables de la même manière que le principal.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 77, 84 et 145.
 
 
 
@@ -2935,10 +2970,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Appel**
 
-**97.23** Le destinataire de l’avis visé au paragraphe 97.22(1) peut en appeler, dans les trente jours suivant l’envoi de l’avis, par voie d’action devant la Cour fédérale, à titre de demandeur, le ministre étant le défendeur, si :
+**97.23** Le destinataire de l’avis visé au paragraphe 97.22(1) peut en appeler, dans les trente jours suivant l’envoi de l’avis, par voie d’action devant la Cour fédérale, à titre de demandeur, le ministre de la Sécurité publique et de la Protection civile étant le défendeur, si :
 - **a)** d’une part, il ne peut ou n’a pu, en l’espèce, se prévaloir du droit d’appel ou de recours prévu aux articles 67 ou 68;
 - **b)** d’autre part, l’avis ne concerne pas une cotisation visée à l’article 97.44.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145.
 
 
 
@@ -3073,8 +3108,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Imputation d’un drawback, remboursement, etc.**
 
-**97.27** Le ministre peut imputer le montant d’un drawback, d’un remboursement ou d’une exonération en vertu des articles 74 ou 76 de la présente loi ou des articles 89, 101 ou 113 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sur toute somme dont une personne est redevable à Sa Majesté du chef du Canada ou du chef d’une province ou sur le point de l’être.
-> 2001, ch. 25, art. 58.
+**97.27** Le ministre de la Sécurité publique et de la Protection civile peut imputer le montant d’un drawback, d’un remboursement ou d’une exonération en vertu des articles 74 ou 76 de la présente loi ou des articles 89, 101 ou 113 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) sur toute somme dont une personne est redevable à Sa Majesté du chef du Canada ou du chef d’une province ou sur le point de l’être.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 84 et 145.
 
 
 
@@ -3279,23 +3314,23 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **Appel à la Cour fédérale**
 
-- **(2)** En cas d’appel d’une décision du ministre auprès de la Cour fédérale en vertu des articles 97.23 ou 135, ce dernier ne peut prendre aucune mesure de recouvrement à l’égard de la somme en litige avant la date de la décision de cette cour ou, en cas de désistement, la date de celui-ci.
+- **(2)** En cas d’appel d’une décision du ministre de la Sécurité publique et de la Protection civile auprès de la Cour fédérale en vertu des articles 97.23 ou 135, le ministre ne peut prendre les mesures visées au paragraphe (1) à l’égard de la somme en litige avant la date de la décision de cette cour ou, en cas de désistement, la date de celui-ci.
 
 **Renvoi**
 
-- **(3)** Dans le cas où le commissaire a renvoyé une question au Tribunal canadien du commerce extérieur en vertu de l’article 70, le ministre ne peut prendre aucune des mesures prévues au paragraphe (1) avant la date où le Tribunal statue sur la question.
+- **(3)** Dans le cas où le président a renvoyé une question au Tribunal canadien du commerce extérieur en vertu de l’article 70, le ministre ne peut prendre aucune des mesures prévues au paragraphe (1) avant la date où le Tribunal statue sur la question.
 
 **Effet de l’appel**
 
-- **(4)** Lorsque la personne qui a présenté une demande en vertu des articles 60 ou 129 ou interjeté un appel en vertu des articles 67 ou 68 convient par écrit avec le ministre de suspendre la demande ou l'appel jusqu'à ce que le Tribunal canadien du commerce extérieur, la Cour fédérale, la Cour d'appel fédérale ou la Cour suprême du Canada rende jugement dans une autre action qui soulève essentiellement la même question, le ministre peut prendre les mesures visées au paragraphe (1) pour recouvrer tout ou partie de la cotisation à payer, compte tenu de la décision ou du jugement rendu dans cette autre action, après avoir avisé la personne par écrit que, selon le cas :
+- **(4)** Lorsque la personne qui a présenté une demande en vertu des articles 60 ou 129 ou interjeté un appel en vertu des articles 67 ou 68 convient par écrit avec le ministre de la Sécurité publique et de la Protection civile de suspendre la demande ou l’appel jusqu’à ce que le Tribunal canadien du commerce extérieur, la Cour fédérale, la Cour d’appel fédérale ou la Cour suprême du Canada rende jugement dans une autre action qui soulève essentiellement la même question, le ministre peut prendre les mesures visées au paragraphe (1) pour recouvrer tout ou partie de la cotisation à payer, compte tenu de la décision ou du jugement rendu dans cette autre action, après que le ministre de la Sécurité publique et de la Protection civile a avisé la personne par écrit que, selon le cas :
 	- **a)** la décision du Tribunal canadien du commerce extérieur ou de la Cour fédérale dans l’action lui a été postée;
 	- **b)** la Cour d’appel fédérale a rendu jugement dans l’action;
 	- **c)** la Cour suprême du Canada a rendu jugement dans l’action.
 
 **Garantie**
 
-- **(5)** Le ministre ne peut, pour recouvrer tout ou partie d’une somme à payer en vertu de la présente loi, prendre une mesure visée au paragraphe (1) si le débiteur lui a fourni une garantie en présentant sa demande ou en interjetant appel de sa décision ou de celle du commissaire.
-> 2001, ch. 25, art. 58; 2002, ch. 8, art. 193.
+- **(5)** Le ministre ne peut, pour recouvrer tout ou partie d’une somme à payer en vertu de la présente loi, prendre une mesure visée au paragraphe (1) si le débiteur a fourni au ministre de la Sécurité publique et de la Protection civile une garantie en présentant sa demande ou en interjetant appel de la décision de celui-ci ou de celle du président.
+> 2001, ch. 25, art. 58; 2002, ch. 8, art. 193; 2005, ch. 38, art. 78, 85 et 145.
 
 
 
@@ -3720,7 +3755,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 
 **Modalités**
 
-- **(3)** La demande, accompagnée d’un exemplaire de l’avis d’opposition, est envoyée ou postée au chef des appels d’un bureau de services fiscaux ou d’un centre fiscal de l’Agence.
+- **(3)** La demande, accompagnée d’un exemplaire de l’avis d’opposition, est envoyée ou postée au chef des appels d’un bureau de services fiscaux ou d’un centre fiscal de l’Agence du revenu du Canada.
 
 **Exception**
 
@@ -3742,7 +3777,7 @@ De plus, le ministre peut établir une nouvelle cotisation ou une cotisation sup
 		- **(i)** dans le délai d’opposition par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** il serait juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que possible.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58; 2005, ch. 38, art. 79.
 
 
 
@@ -4149,7 +4184,9 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 ***personne déterminée*** Personne qui est ou a été engagée par Sa Majesté du chef du Canada ou pour son compte ou qui est ou a été employée par elle ou qui occupe ou a occupé une fonction de responsabilité à son service, pour l’application des dispositions de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
 
 ***renseignement douanier*** Renseignement de toute nature et sous toute forme qui :
-- **a)** soit concerne une ou plusieurs personnes et est obtenu par le ministre ou pour son compte pour l’application de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+- **a)** soit concerne une ou plusieurs personnes et est obtenu, selon le cas :
+	- **(i)** par le ministre ou pour son compte pour l’application de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md),
+	- **(ii)** par le ministre du Revenu national ou pour son compte pour la perception des créances de Sa Majesté sous le régime de la partie V.1;
 - **b)** soit est tiré d’un renseignement visé à l’alinéa a).
 
 **Interdiction — fourniture ou utilisation d’un renseignement douanier**
@@ -4161,7 +4198,10 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **Utilisation autorisée de renseignements — fonctionnaire**
 
-- **(3)** Le fonctionnaire peut utiliser un renseignement douanier pour l’application ou l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou à toute autre fin mentionnée aux paragraphes (4), (5) ou (7).
+- **(3)** Le fonctionnaire peut utiliser un renseignement douanier :
+	- **a)** pour l’application ou l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) ou à toute autre fin mentionnée aux paragraphes (4), (5) ou (7);
+	- **b)** pour l’exercice des attributions conférées au ministre de la Sécurité publique et de la Protection civile sous le régime de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), notamment en matière d’identification de personnes et de détermination de leur admissibilité;
+	- **c)** pour l’application de tout ou partie de toute loi ou de ses textes d’application dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
 **Fourniture ou accès autorisé — fonctionnaire**
 
@@ -4171,8 +4211,10 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 		- **(i)** une cour d’archives, notamment une cour d’archives hors du ressort canadien,
 		- **(ii)** une organisation internationale,
 		- **(iii)** un organe de règlement de différends ou une juridiction d’appel constituée sous le régime d’un accord commercial international;
-	- **c)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’application ou à l’exécution de la présente loi, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) par un fonctionnaire de l’Agence;
-	- **d)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’application ou à l’exécution de la présente loi, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) ou de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) par un membre de la Gendarmerie royale du Canada;
+	- **c)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’application ou à l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) par un fonctionnaire de l’Agence;
+	- **c.1)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’exécution de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), de la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), de la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), de la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md) par un fonctionnaire de l’Agence;
+	- **c.2)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’application ou à l’exécution de la partie V.1 par un fonctionnaire de l’Agence du revenu du Canada désigné par le ministre du Revenu national, nommément ou au titre de son appartenance à une catégorie donnée;
+	- **d)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement à l’application ou à l’exécution de la présente loi, de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) par un membre de la Gendarmerie royale du Canada;
 	- **e)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement pour la vie, la santé ou la sécurité d’une personne physique ou de l’environnement au Canada ou dans tout autre pays;
 	- **f)** le renseignement ne sera utilisé qu’à une fin liée à la surveillance ou à l’évaluation d’une personne déterminée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté du chef du Canada relativement à une période au cours de laquelle cette personne était soit employée par Sa Majesté du chef du Canada, soit engagée par elle ou occupait une fonction de responsabilité à son service, pour l’application ou l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), dans la mesure où le renseignement se rapporte à cette fin;
 	- **g)** le renseignement peut raisonnablement être considéré par le fonctionnaire comme un renseignement qui ne peut directement ou indirectement identifier qui que ce soit;
@@ -4193,9 +4235,11 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **g)** à un fonctionnaire uniquement pour procéder, par voie de compensation, à la retenue, sur toute somme due à Sa Majesté du chef du Canada ou à payer par elle, de toute somme égale à une créance :
 		- **(i)** soit de Sa Majesté du chef du Canada,
 		- **(ii)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province en vertu de laquelle le Canada est autorisé à percevoir les impôts ou taxes pour le compte de la province;
+	- **g.1)** à un fonctionnaire de l’Agence du revenu du Canada, uniquement pour l’application ou l’exécution du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **h)** à un avocat, au sens du paragraphe 84(4) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), conformément aux exigences énoncées au paragraphe 84(3) de cette loi et sous réserve du paragraphe 84(3.1) de la même loi, la mention dans ces dispositions de « les renseignements auxquels ce paragraphe s’applique » et de « renseignements » valant mention de « renseignements douaniers »;
 	- **i)** à un fonctionnaire du ministère des Ressources humaines et du Développement des compétences, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
 	- **j)** à un fonctionnaire du ministère de la Citoyenneté et de l’Immigration, uniquement pour l’application ou l’exécution de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), lorsque le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
+	- **j.1)** à un fonctionnaire de l’Agence canadienne d’inspection des aliments, uniquement pour l’application ou l’exécution d’une loi mentionnée à l’article 11 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md) si le renseignement concerne l’importation, l’exportation ou le mouvement en cours de route de marchandises;
 	- **k)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, uniquement pour l’application ou l’exécution de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 	- **l)** à quiconque, uniquement en vue de déterminer sa réclamation, sa responsabilité ou ses obligations en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), notamment sa réclamation relativement à un remboursement, un drawback ou un abattement en vertu de ces lois;
 	- **m)** à quiconque, si le renseignement est exigé par assignation, mandat ou ordonnance d’une cour d’archives au Canada;
@@ -4237,7 +4281,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **Appel — ordonnance de communication d’un renseignement douanier**
 
-- **(12)** Le ministre ou la personne contre laquelle une ordonnance est rendue ou à l’égard de laquelle une directive est donnée, dans le cadre ou à l’occasion d’une instance judiciaire enjoignant à un fonctionnaire de témoigner ou de produire quoi que ce soit relativement à un renseignement douanier peut sans délai, par avis signifié aux parties intéressées, interjeter appel de l’ordonnance ou de la directive devant :
+- **(12)** Le ministre, le ministre du Revenu national ou la personne contre laquelle une ordonnance est rendue ou à l’égard de laquelle une directive est donnée, dans le cadre d’une instance judiciaire enjoignant à un fonctionnaire de témoigner ou de produire quoi que ce soit relativement à un renseignement douanier, peut sans délai, par avis signifié aux parties intéressées, interjeter appel de l’ordonnance ou de la directive devant :
 	- **a)** la cour d’appel de la province dans laquelle l’ordonnance est rendue ou la directive donnée, s’il s’agit d’une ordonnance ou d’une directive émanant d’une cour ou d’un autre tribunal établi en application des lois de la province, que ce tribunal exerce ou non une compétence conférée par les lois fédérales;
 	- **b)** la Cour d’appel fédérale, s’il s’agit d’une ordonnance ou d’une directive émanant d’une cour ou d’un autre tribunal établi en application des lois fédérales.
 
@@ -4252,7 +4296,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145.
 
 
 
@@ -4480,14 +4524,14 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 - **(1)** Les biens saisis en vertu de la présente loi sont aussitôt placés sous la garde de l’agent.
 
-**Rapport au commissaire**
+**Rapport au président**
 
-- **(2)** L’agent qui a saisi des objets ou documents comme moyens de preuve en vertu de la présente loi fait aussitôt rapport au commissaire des circonstances de l’affaire.
+- **(2)** L’agent qui a saisi des objets ou documents comme moyens de preuve en vertu de la présente loi fait aussitôt rapport au président des circonstances de l’affaire.
 
 **Moyens de preuve**
 
 - **(3)** Les objets ou documents saisis en vertu de la présente loi uniquement comme moyens de preuve sont restitués dès l’achèvement des procédures au cours desquelles il a pu en être fait usage.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 114; 1999, ch. 17, art. 127.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 114; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
 
 
 
@@ -4735,23 +4779,25 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 
 **127.1** 
 
-- **(1)** Le ministre ou l’agent qu’il désigne pour l’application du présent article peut annuler une saisie faite en vertu de l’article 110, annuler ou réduire une pénalité établie en vertu de l’article 109.3 ou une somme réclamée en vertu de l’article 124 ou rembourser un montant reçu en vertu de l’un des articles 117 à 119, dans les trente jours suivant la saisie ou l’établissement de la pénalité ou la réclamation dans les cas suivants :
-	- **a)** le ministre est convaincu qu’aucune infraction n’a été commise;
-	- **b)** il y a eu infraction, mais le ministre est d’avis qu’une erreur a été commise concernant la somme établie, versée ou réclamée et que celle-ci doit être réduite.
+- **(1)** Le ministre ou l’agent que le président désigne pour l’application du présent article peut annuler une saisie faite en vertu de l’article 110, annuler ou réduire une pénalité établie en vertu de l’article 109.3 ou une somme réclamée en vertu de l’article 124 ou rembourser un montant reçu en vertu de l’un des articles 117 à 119, dans les trente jours suivant la saisie ou l’établissement de la pénalité ou la réclamation dans les cas suivants :
+	- **a)
+** le ministre est convaincu qu’aucune infraction n’a été commise;
+	- **b)
+** il y a eu infraction, mais le ministre est d’avis qu’une erreur a été commise concernant la somme établie, versée ou réclamée et que celle-ci doit être réduite.
 
 **Intérêt**
 
 - **(2)** La somme qui est remboursée à une personne en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par cette personne jusqu’à celui de son remboursement.
-> 2001, ch. 25, art. 68.
+> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81.
 
 
 
 
 
-**Rapport au commissaire**
+**Rapport au président**
 
-**128** L’agent qui a saisi des marchandises ou des moyens de transport en vertu de la présente loi ou qui a signifié ou fait signifier l’avis prévu aux articles 109.3 ou 124 fait aussitôt rapport au commissaire des circonstances de l’affaire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 128; 1993, ch. 25, art. 81; 1999, ch. 17, art. 127.
+**128** L’agent qui a saisi des marchandises ou des moyens de transport en vertu de la présente loi ou qui a signifié ou fait signifier l’avis prévu aux articles 109.3 ou 124 fait aussitôt rapport au président des circonstances de l’affaire.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 128; 1993, ch. 25, art. 81; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
 
 
 
@@ -4839,11 +4885,11 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 
 
 
-**Signification du commissaire**
+**Signification du président**
 
 **130** 
 
-- **(1)** Le commissaire signifie sans délai par écrit à la personne qui a présenté la demande visée à l’article 129 un avis des motifs de la saisie, ou des motifs de l’avis prévu aux articles 109.3 ou 124, à l’origine de la demande.
+- **(1)** Le président signifie sans délai par écrit à la personne qui a présenté la demande visée à l’article 129 un avis des motifs de la saisie, ou des motifs de l’avis prévu aux articles 109.3 ou 124, à l’origine de la demande.
 
 **Preuve**
 
@@ -4852,7 +4898,7 @@ La demande fondée sur l’alinéa a) doit être présentée dans les quatre-vin
 **Affidavit**
 
 - **(3)** Les moyens de preuve visés au paragraphe (2) peuvent être produits par déclaration sous serment faite devant toute personne autorisée par une loi fédérale ou provinciale à faire prêter serment et à recevoir les déclarations sous serment.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 130; 1993, ch. 25, art. 83; 1999, ch. 17, art. 127; 2001, ch. 25, art. 71.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 130; 1993, ch. 25, art. 83; 1999, ch. 17, art. 127; 2001, ch. 25, art. 71; 2005, ch. 38, art. 85.
 
 
 
@@ -4987,8 +5033,8 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Signification des avis**
 
-**137** Il suffit, pour que l’avis des motifs visés à l’article 130 ou que l’avis de la décision visée à l’article 131 soient considérés comme respectivement signifiés par le commissaire ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 137; 1999, ch. 17, art. 127.
+**137** Il suffit, pour que l’avis des motifs visés à l’article 130 ou que l’avis de la décision visée à l’article 131 soient considérés comme respectivement signifiés par le président ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 137; 1999, ch. 17, art. 127; 2005, ch. 38, art. 85.
 
 
 
@@ -5109,7 +5155,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **141** 
 
-- **(1)** Sur demande d’une personne qui a obtenu, respectivement au titre de l’article 139 et en vertu des articles 139.1 ou 140, une décision ou une ordonnance portant que la saisie ou la détention ne porte pas atteinte à son droit, le commissaire lui fait remettre :
+- **(1)** Sur demande d’une personne qui a obtenu, respectivement au titre de l’article 139 et en vertu des articles 139.1 ou 140, une décision ou une ordonnance portant que la saisie ou la détention ne porte pas atteinte à son droit, le président lui fait remettre :
 	- **a)** dans le cas de marchandises ou d’un moyen de transport dont la confiscation est devenue définitive, les marchandises ou le moyen de transport;
 	- **b)** dans le cas d’un moyen de transport retenu en vertu du paragraphe 97.25(2), le moyen de transport.
 
@@ -5120,7 +5166,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Limitation du montant du versement**
 
 - **(2)** En cas de vente ou d’aliénation sous une autre forme de marchandises ou d’un moyen de transport à l’égard desquels un versement est effectué au titre du paragraphe (1.1), le montant du versement ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents aux marchandises ou au moyen de transport supportés par Sa Majesté; dans les cas où aucun produit ne résulte d’une aliénation effectuée en vertu de la présente loi, il n’est effectué aucun versement au titre du paragraphe (1.1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 141; 1999, ch. 17, art. 127; 2001, ch. 25, art. 77.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 141; 1999, ch. 17, art. 127; 2001, ch. 25, art. 77; 2005, ch. 38, art. 85.
 
 
 
@@ -5302,8 +5348,8 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Preuve de l’absence d’appel**
 
-**149.1** Constitue la preuve des énonciations qui y sont renfermées l’affidavit d’un fonctionnaire de l’Agence — souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir — indiquant qu’il a la charge des registres pertinents, qu’il a connaissance de la pratique de l’Agence, qu’un examen des registres démontre qu’un avis de cotisation prévu à la partie V.1 a été posté ou autrement envoyé à une personne un jour particulier, en application de la présente loi, et que, après avoir fait un examen attentif des registres et y avoir pratiqué des recherches, il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation a été reçu dans le délai imparti à cette fin.
-> 2001, ch. 25, art. 80.
+**149.1** Constitue la preuve des énonciations qui y sont renfermées l’affidavit d’un fonctionnaire de l’Agence ou de l’Agence du revenu du Canada — souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir — indiquant qu’il a la charge des registres pertinents, qu’il a connaissance de la pratique de l’Agence ou de l’Agence du revenu du Canada, selon le cas, qu’un examen des registres démontre qu’un avis de cotisation prévu à la partie V.1 a été posté ou autrement envoyé à une personne un jour donné, en application de la présente loi, et que, après avoir fait un examen attentif des registres et y avoir pratiqué des recherches, il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation a été reçu dans le délai imparti à cette fin.
+> 2001, ch. 25, art. 80; 2005, ch. 38, art. 82.
 
 
 
@@ -5514,16 +5560,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 
 
-**Désignation ministérielle**
+**Désignation par le président**
 
 **163.4** 
 
-- **(1)** Le ministre peut désigner des agents des douanes pour l’application de la présente partie; il leur remet alors un certificat attestant leur qualité.
+- **(1)** Le président peut désigner des agents des douanes pour l’application de la présente partie; il leur remet alors un certificat attestant leur qualité.
 
 **Admissibilité du certificat**
 
 - **(2)** Le certificat de désignation d’un agent des douanes désigné est admissible en preuve et fait foi de la désignation sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
-> 1998, ch. 7, art. 1.
+> 1998, ch. 7, art. 1; 2005, ch. 38, art. 83.
 
 
 
