@@ -106,9 +106,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Minister**
+**Minister of Citizenship and Immigration**
 
-**4** The Minister responsible for the administration of this Act is the member of the Queen’s Privy Council designated as such by the Governor in Council.
+**4** 
+
+- **(1)** Subject to subsection (2), the Minister of Citizenship and Immigration is responsible for the administration of this Act.
+
+**Solicitor General of Canada**
+
+- **(2)** The Minister as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) is responsible for the administration of this Act as it relates to
+	- **(a)** examinations at ports of entry;
+	- **(b)** the enforcement of this Act, including arrest, detention and removal;
+	- **(c)** the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, organized criminality or violating human or international rights; or
+	- **(d)** determinations under any of subsections 34(2), 35(2) and 37(2).
+
+**Specification**
+
+- **(3)** Subject to subsections (1) and (2), the Governor in Council may specify
+	- **(a)** which Minister referred to in subsections (1) and (2) shall be the Minister for the purposes of any provision of this Act; and
+	- **(b)** that both Ministers may be the Minister for the purposes of any provision of this Act and the circumstances under which each Minister shall be the Minister.
+
+**Publication**
+
+- **(4)** Any order made under subsection (3) must be published in Part II of the Canada Gazette.
+> 2001, c. 27, s. 4; 2005, c. 38, s. 118.
+
 
 
 
@@ -2502,13 +2524,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **150.1** 
 
 - **(1)** The regulations may provide for any matter relating to
-	- **(a)** the collection, retention, disposal and disclosure of information for the purposes of this Act; and
-	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md).
+	- **(a)** the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md); and
+	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md).
 
 **Conditions**
 
-- **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, disposal and disclosure may be made.
-> 2004, c. 15, s. 72.
+- **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
+> 2004, c. 15, s. 72; 2005, c. 38, s. 119.
 
 
 
