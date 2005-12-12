@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md)
 
-# Loi sur l'Agence des services frontaliers du Canada
+# Loi sur l’Agence des services frontaliers du Canada
 
 **L.C. 2005, ch. 38**
 
@@ -37,17 +37,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence des services frontaliers du Canada constituée par le paragraphe 3(1).
+***Agence*** L’Agence des services frontaliers du Canada constituée par le paragraphe 3(1). (*Agency*)
 
-***législation frontalière*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application :
+***législation frontalière*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application :
 - **a)** dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer et contrôler l’application, notamment la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md);
 - **b)** dont le ministre, l’Agence, le président ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à contrôler l’application, notamment la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md);
 - **c)** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le président ou un employé de l’Agence à appliquer un programme ou à exercer une activité;
-- **d)** en vertu desquels des droits ou des taxes versés et perçus au titre de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) sont imposés.
+- **d)** en vertu desquels des droits ou des taxes versés et perçus au titre de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) sont imposés. (*program legislation*)
 
-***ministre*** Le solliciteur général du Canada.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***président*** Le président de l’Agence nommé en application du paragraphe 7(1).
+***président*** Le président de l’Agence nommé en application du paragraphe 7(1). (*President*)
+> 2005, ch. 38, art. 2 et 145.
+
 
 
 
@@ -185,6 +187,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Assimilation**
 
 - **(3)** Ils sont réputés faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et faire partie de l’administration publique fédérale pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2005, ch. 38, art. 10 et 144(A).
+
 
 
 
@@ -295,11 +299,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** Les définitions qui suivent s’appliquent aux articles 17 à 19 et 21 à 28.
 
-***ancienne agence*** Le secteur de l’administration publique fédérale appelé Agence des services frontaliers du Canada.
+***ancienne agence*** Le secteur de l’administration publique fédérale appelé Agence des services frontaliers du Canada. (*former agency*)
 
-***décret C.P. 2003-2064*** Le décret C.P. 2003-2064 du 12 décembre 2003 portant le numéro d’enregistrement TR/2003-216.
+***décret C.P. 2003-2064*** Le décret C.P. 2003-2064 du 12 décembre 2003 portant le numéro d’enregistrement TR/2003-216. (*order P.C. 2003-2064*)
 
-***nouvelle agence*** L’Agence des services frontaliers du Canada constituée par le paragraphe 3(1).
+***nouvelle agence*** L’Agence des services frontaliers du Canada constituée par le paragraphe 3(1). (*new agency*)
+> 2005, ch. 38, art. 16 et 144(A).
+
 
 
 
@@ -350,6 +356,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Valeur probante des documents**
 
 - **(6)** Tout affidavit signé ou document paraissant avoir été certifié par un fonctionnaire de l’ancienne agence, avant la date d’entrée en vigueur du présent article, a la même valeur probante qu’un affidavit signé ou document paraissant avoir été certifié par un fonctionnaire de la nouvelle agence après cette date.
+> 2005, ch. 38, art. 18 et 144(A).
+
 
 
 
@@ -1123,6 +1131,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-1.4_s147_f'>[*]</a></sup>**147** La présente loi, à l’exception des articles 144 à 146, entre en vigueur à la date fixée par décret.
 
-<a name='C-1.4_s147_f'><sup>*</sup></a>: [Note : Articles 144 à 146 en vigueur à la sanction le 3 novembre 2005.]<br />
+<a name='C-1.4_s147_f'><sup>*</sup></a>: [Note : Articles 144 à 146 en vigueur à la sanction le 3 novembre 2005; loi, à l’exception des articles 144 à 146, en vigueur le 12 décembre 2005, *voir* TR/2005-119.]<br />
 
 
