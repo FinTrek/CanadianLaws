@@ -2380,7 +2380,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 	- **c)** prévoyant la méthode de détermination du montant de la réduction pour les régimes qui satisfont aux normes prévues par règlement et l’utilisation qui doit être faite des calculs et estimations actuariels;
 	- **d)** fixant les modalités selon lesquelles les assurés tirent avantage de la réduction du taux de cotisation;
 	- **e)** prévoyant le mode de règlement des demandes de réduction du taux de cotisation et des appels;
-	- **f)** prévoyant la manière dont les employeurs sont tenus de déclarer la rémunération assurable des assurés à l’Agence des douanes et du revenu du Canada;
+	- **f)** prévoyant la manière dont les employeurs sont tenus de déclarer la rémunération assurable des assurés à l’Agence du revenu du Canada;
 	- **g)** d’une façon générale, prévoyant toute autre mesure d’application des paragraphes (1) et (2).
 
 **Demande tardive**
@@ -2394,7 +2394,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Définition**
 
 - **(6)** Le renvoi, aux paragraphes (1) et (2), au paiement d’allocations, de prestations ou d’autres sommes à des assurés en cas de soins à donner aux membres de la famille s’entend du paiement d’allocations, de prestations ou d’autres sommes pour des raisons qui sont les mêmes ou essentiellement les mêmes que celles pour lesquelles des prestations peuvent être payées aux termes de l’article 23.1.
-> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22.
+> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22; 2005, ch. 38, art. 138.
 
 
 
@@ -2754,7 +2754,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **88** 
 
-- **(1)** La personne autorisée peut, à toute heure convenable, pour l’application et l’exécution de la présente loi, inspecter, vérifier ou examiner tous documents qui se rapportent ou peuvent se rapporter soit aux renseignements qui figurent dans les registres ou livres comptables ou qui devraient y figurer, soit au montant de toute cotisation payable en vertu de la présente loi; à ces fins, elle peut :
+- **(1)** La personne autorisée peut, à toute heure convenable, pour l’application et l’exécution de la présente loi, inspecter, vérifier ou examiner tous documents qui se rapportent ou peuvent se rapporter soit aux renseignements qui figurent dans les registres ou livres comptables ou qui devraient y figurer, soit au montant de toute cotisation payable en vertu de la présente loi; à ces fins, elle peut :
 	- **a)** sous réserve du paragraphe (2), visiter tout lieu où des registres ou des livres comptables sont tenus ou devraient l’être;
 	- **b)** obliger le propriétaire, occupant ou responsable du lieu à lui prêter toute l’assistance possible, à répondre à toutes les questions relatives à l’application et l’exécution de la présente loi et, à cette fin, à l’accompagner dans le lieu.
 
@@ -2764,7 +2764,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **Délivrance du mandat**
 
-- **(3)** Sur demande *ex parte* du ministre, le juge saisi peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, une personne autorisée à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+- **(3)** Sur demande *ex parte* du ministre, le juge saisi peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, une personne autorisée à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
 	- **a)** il y a des motifs raisonnables de croire que la maison d’habitation est un lieu visé au paragraphe (1);
 	- **b)** la visite est nécessaire pour l’application et l’exécution de la présente loi;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
@@ -2775,7 +2775,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **Production de documents ou fourniture de renseignements**
 
-- **(5)** Malgré les autres dispositions de la présente loi, le ministre peut, sous réserve du paragraphe (6) et pour l’application et l’exécution de la présente partie, par avis signifié à personne ou envoyé par service de messagerie, exiger d’une personne, dans le délai raisonnable que précise l’avis :
+- **(5)** Malgré les autres dispositions de la présente loi, le ministre peut, sous réserve du paragraphe (6) et pour l’application et l’exécution de la présente partie, par avis signifié à personne ou envoyé par service de messagerie, exiger d’une personne, dans le délai raisonnable que précise l’avis :
 	- **a)** qu’elle fournisse des renseignements ou suppléments de renseignements, notamment en répondant à un questionnaire ou à un questionnaire supplémentaire;
 	- **b)** qu’elle produise des documents.
 
@@ -2785,7 +2785,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **Autorisation judiciaire**
 
-- **(7)** Sur demande *ex parte* du ministre, un juge peut, aux conditions qu’il estime indiquées, autoriser le ministre à exiger d’un tiers la fourniture de renseignements ou production de documents prévue au paragraphe (5) concernant une personne non désignée nommément ou plus d’une personne non désignée nommément — appelée « groupe » au présent article — , s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+- **(7)** Sur demande *ex parte* du ministre, un juge peut, aux conditions qu’il estime indiquées, autoriser le ministre à exiger d’un tiers la fourniture de renseignements ou production de documents prévue au paragraphe (5) concernant une personne non désignée nommément ou plus d’une personne non désignée nommément — appelée « groupe » au présent article — , s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
 	- **a)** cette personne ou ce groupe est identifiable;
 	- **b)** la fourniture ou la production est exigée pour vérifier si cette personne ou les personnes de ce groupe ont respecté un devoir ou une obligation prévus par la présente partie;
 	- **c)** il est raisonnable de s’attendre — pour n’importe quel motif, notamment des renseignements (statistiques ou autres) ou l’expérience antérieure, concernant ce groupe ou toute autre personne — à ce que cette personne ou une personne de ce groupe n’ait pas fourni les renseignements exigés ou ne les fournisse vraisemblablement pas ou n’ait pas respecté par ailleurs la présente loi ou ne la respecte vraisemblablement pas;
@@ -2809,12 +2809,12 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **Copies**
 
-- **(12)** Lorsque des documents sont inspectés, vérifiés, examinés ou produits conformément au présent article, la personne qui fait cette inspection, cette vérification ou cet examen ou à qui est faite cette production ou tout fonctionnaire de l’Agence des douanes et du revenu du Canada peut en faire ou en faire faire une ou plusieurs copies. Les documents présentés comme documents que le ministre ou une personne autorisée atteste être des copies faites conformément au présent paragraphe font foi de la nature et du contenu des documents originaux et ont la même force probante qu’auraient ceux-ci si leur authenticité était prouvée de la façon usuelle.
+- **(12)** Lorsque des documents sont inspectés, vérifiés, examinés ou produits conformément au présent article, la personne qui fait cette inspection, cette vérification ou cet examen ou à qui est faite cette production ou tout fonctionnaire de l’Agence du revenu du Canada peut en faire ou en faire faire une ou plusieurs copies. Les documents présentés comme documents que le ministre ou une personne autorisée atteste être des copies faites conformément au présent paragraphe font foi de la nature et du contenu des documents originaux et ont la même force probante qu’auraient ceux-ci si leur authenticité était prouvée de la façon usuelle.
 
 **Observation du présent article**
 
 - **(13)** Il est interdit de rudoyer ou de contrecarrer une personne qui fait une chose qu’elle est autorisée à faire en vertu du présent article ou d’entraver son action, ou d’empêcher ou de tenter d’empêcher une personne de faire une telle chose. Malgré toute autre loi ou règle de droit, quiconque est tenu par le présent article de faire quelque chose doit le faire, sauf impossibilité.
-> 1996, ch. 23, art. 88; 1999, ch. 17, art. 135.
+> 1996, ch. 23, art. 88; 1999, ch. 17, art. 135; 2005, ch. 38, art. 138.
 
 
 
@@ -2841,7 +2841,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **90** 
 
-- **(1)** La Commission, de même que tout employé, employeur ou personne prétendant être l’un ou l’autre, peut demander à un fonctionnaire de l’Agence des douanes et du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+- **(1)** La Commission, de même que tout employé, employeur ou personne prétendant être l’un ou l’autre, peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
 	- **a)** le fait qu’un emploi est assurable;
 	- **b)** la détermination de la durée d’un emploi assurable, y compris ses dates de début et de fin;
 	- **c)** la détermination de la rémunération assurable;
@@ -2863,7 +2863,7 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 **Présomption**
 
 - **(4)** À moins qu’une décision ait été demandée, lorsqu’une somme a été retenue sur la rétribution de l’assuré ou payée par l’employeur à titre de cotisation pour l’assuré, la somme ainsi retenue ou payée est réputée l’avoir été en conformité avec la présente loi et, lorsque aucune somme n’a été ainsi retenue ou payée, aucune retenue ni aucun paiement ne sont réputés avoir été requis selon la présente loi.
-> 1996, ch. 23, art. 90; 1999, ch. 17, art. 135, ch. 31, art. 80.
+> 1996, ch. 23, art. 90; 1999, ch. 17, art. 135, ch. 31, art. 80; 2005, ch. 38, art. 138.
 
 
 
@@ -2891,16 +2891,16 @@ ou attestant que le ministre a accepté une garantie pour le paiement de ces mon
 
 **Présentation d’une demande**
 
-- **(2)** Les demandes d’appel et de révision sont adressées au directeur adjoint des Appels d’un bureau des services fiscaux de l’Agence des douanes et du revenu du Canada et sont livrées à ce bureau ou y sont expédiées par la poste.
+- **(2)** Les demandes d’appel et de révision sont adressées au directeur adjoint des Appels d’un bureau des services fiscaux de l’Agence du revenu du Canada et sont livrées à ce bureau ou y sont expédiées par la poste.
 
-**Décision : appel**
+**Décision : appel**
 
 - **(3)** Le ministre règle la question soulevée par l’appel ou la demande de révision dans les meilleurs délais et notifie le résultat aux personnes concernées.
 
 **Notification**
 
 - **(4)** Lorsqu’il est requis d’aviser une personne qui est ou peut être concernée par un appel ou une révision, le ministre peut faire aviser cette personne de la manière qu’il juge adéquate.
-> 1996, ch. 23, art. 93; 1999, ch. 17, art. 135.
+> 1996, ch. 23, art. 93; 1999, ch. 17, art. 135; 2005, ch. 38, art. 138.
 
 
 
@@ -3053,12 +3053,12 @@ où :
 
 **97** 
 
-- **(1)** L’application de la présente partie, de l’article 5 et des règlements pris au titre de cet article et de l’article 55 relève du ministre, et le commissaire des douanes et du revenu peut exercer les pouvoirs et fonctions conférés au ministre par la présente partie.
+- **(1)** L’application de la présente partie, de l’article 5 et des règlements pris au titre de cet article et de l’article 55 relève du ministre, et le commissaire du revenu peut exercer les pouvoirs et fonctions conférés au ministre par la présente partie.
 
 **Prestations de serments**
 
 - **(2)** Tout fonctionnaire ou employé participant à l’application de la présente partie, de l’article 5 ou des règlements pris au titre de cet article ou de l’article 55, s’il est désigné à cette fin par le ministre, peut, dans l’exercice de ses fonctions, faire prêter les serments et recevoir les affidavits et les déclarations et affirmations solennelles exigés par l’application de la présente loi ou des règlements, et tout fonctionnaire ou employé ainsi désigné est investi à cet effet de tous les pouvoirs d’un commissaire à l’assermentation.
-> 1996, ch. 23, art. 97; 1999, ch. 17, art. 132.
+> 1996, ch. 23, art. 97; 1999, ch. 17, art. 132; 2005, ch. 38, art. 140.
 
 
 
@@ -3110,7 +3110,7 @@ où :
 
 **102** 
 
-- **(1)** Une dénonciation ou plainte prévue par la présente partie peut être déposée ou formulée par tout fonctionnaire de l’Agence des douanes et du revenu du Canada, par un membre de la Gendarmerie royale du Canada ou par toute personne qui y est autorisée et, lorsqu’une dénonciation ou plainte est présentée comme ayant été déposée ou formulée en vertu de la présente partie, elle est réputée l’avoir été par une personne qui y est autorisée et ne peut être contestée pour défaut de compétence du dénonciateur ou plaignant que par le ministre ou une personne agissant pour lui ou pour Sa Majesté.
+- **(1)** Une dénonciation ou plainte prévue par la présente partie peut être déposée ou formulée par tout fonctionnaire de l’Agence du revenu du Canada, par un membre de la Gendarmerie royale du Canada ou par toute personne qui y est autorisée et, lorsqu’une dénonciation ou plainte est présentée comme ayant été déposée ou formulée en vertu de la présente partie, elle est réputée l’avoir été par une personne qui y est autorisée et ne peut être contestée pour défaut de compétence du dénonciateur ou plaignant que par le ministre ou une personne agissant pour lui ou pour Sa Majesté.
 
 **Deux infractions ou plus**
 
@@ -3126,31 +3126,31 @@ où :
 
 **Preuve de la signification par la poste**
 
-- **(5)** Lorsque la présente partie ou un règlement prévoit l’expédition par la poste d’une demande de renseignements, d’un avis ou d’une sommation, un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes, qu’il est au courant des faits de l’espèce, que l’expédition de la demande, de l’avis ou de la sommation au destinataire, avec indication de son adresse, a été faite par courrier recommandé, à une certaine date, et qu’il reconnaît les pièces jointes à l’affidavit comme étant le récépissé de recommandation postale de la lettre, ou une copie conforme de la partie pertinente du récépissé, et une copie conforme de la demande, de l’avis ou de la sommation, fait foi de l’expédition et du contenu de la demande, de l’avis ou de la sommation.
+- **(5)** Lorsque la présente partie ou un règlement prévoit l’expédition par la poste d’une demande de renseignements, d’un avis ou d’une sommation, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes, qu’il est au courant des faits de l’espèce, que l’expédition de la demande, de l’avis ou de la sommation au destinataire, avec indication de son adresse, a été faite par courrier recommandé, à une certaine date, et qu’il reconnaît les pièces jointes à l’affidavit comme étant le récépissé de recommandation postale de la lettre, ou une copie conforme de la partie pertinente du récépissé, et une copie conforme de la demande, de l’avis ou de la sommation, fait foi de l’expédition et du contenu de la demande, de l’avis ou de la sommation.
 
 **Preuve de la signification à personne**
 
-- **(6)** Lorsque la présente partie ou un règlement prévoit la signification à personne d’une demande de renseignements, d’un avis ou d’une sommation, un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes, qu’il est au courant des faits de l’espèce, que la signification à personne de la demande, de l’avis ou de la sommation a été faite à une certaine date au destinataire et qu’il reconnaît la pièce jointe à l’affidavit comme étant une copie conforme de la demande, de l’avis ou de la sommation, fait foi de la signification et du contenu de la demande, de l’avis ou de la sommation.
+- **(6)** Lorsque la présente partie ou un règlement prévoit la signification à personne d’une demande de renseignements, d’un avis ou d’une sommation, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes, qu’il est au courant des faits de l’espèce, que la signification à personne de la demande, de l’avis ou de la sommation a été faite à une certaine date au destinataire et qu’il reconnaît la pièce jointe à l’affidavit comme étant une copie conforme de la demande, de l’avis ou de la sommation, fait foi de la signification et du contenu de la demande, de l’avis ou de la sommation.
 
 **Preuve de non-observation**
 
-- **(7)** Lorsque la présente partie ou un règlement exige qu’une personne fournisse une déclaration, un état, une réponse ou un certificat, un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’après avoir soigneusement examiné et inspecté les pièces il n’a pu trouver, dans une affaire donnée, d’indication de la fourniture par cette personne de la déclaration, de l’état, de la réponse ou du certificat, selon le cas, fait foi que dans cette affaire elle ne l’a pas fourni.
+- **(7)** Lorsque la présente partie ou un règlement exige qu’une personne fournisse une déclaration, un état, une réponse ou un certificat, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’après avoir soigneusement examiné et inspecté les pièces il n’a pu trouver, dans une affaire donnée, d’indication de la fourniture par cette personne de la déclaration, de l’état, de la réponse ou du certificat, selon le cas, fait foi que dans cette affaire elle ne l’a pas fourni.
 
 **Preuve de la date de dépôt**
 
-- **(8)** Lorsque la présente partie ou un règlement exige qu’une personne fournisse une déclaration, un état, une réponse ou un certificat, un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’après avoir soigneusement examiné les pièces il a constaté que cette personne avait déposé ou fourni la déclaration, l’état, la réponse ou le certificat à une certaine date, fait foi qu’elle l’a déposé ou fourni à cette date et non avant.
+- **(8)** Lorsque la présente partie ou un règlement exige qu’une personne fournisse une déclaration, un état, une réponse ou un certificat, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’après avoir soigneusement examiné les pièces il a constaté que cette personne avait déposé ou fourni la déclaration, l’état, la réponse ou le certificat à une certaine date, fait foi qu’elle l’a déposé ou fourni à cette date et non avant.
 
 **Preuve des documents**
 
-- **(9)** Un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’un document joint à l’affidavit est un document établi soit par ou pour le ministre ou quelque personne exerçant les pouvoirs du ministre, soit par ou pour un employeur, ou est une copie d’un tel document, fait foi de la nature et du contenu du document, est admissible en preuve et a la même force probante qu’aurait l’original du document si son authenticité était prouvée de la façon usuelle.
+- **(9)** Un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes et qu’un document joint à l’affidavit est un document établi soit par ou pour le ministre ou quelque personne exerçant les pouvoirs du ministre, soit par ou pour un employeur, ou est une copie d’un tel document, fait foi de la nature et du contenu du document, est admissible en preuve et a la même force probante qu’aurait l’original du document si son authenticité était prouvée de la façon usuelle.
 
 **Preuve de l’absence d’appel**
 
-- **(10)** Un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes et est au courant des usages de l’Agence, qu’un examen des pièces révèle qu’un avis d’évaluation pour une certaine année a été expédié par la poste ou autrement communiqué à un employeur à une certaine date en application de la présente partie et qu’après avoir soigneusement examiné et inspecté les pièces il n’a pu trouver d’indication de la réception d’un avis d’appel relatif à l’évaluation dans le délai accordé à cette fin, fait foi des assertions qu’il contient.
+- **(10)** Un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes et est au courant des usages de l’Agence, qu’un examen des pièces révèle qu’un avis d’évaluation pour une certaine année a été expédié par la poste ou autrement communiqué à un employeur à une certaine date en application de la présente partie et qu’après avoir soigneusement examiné et inspecté les pièces il n’a pu trouver d’indication de la réception d’un avis d’appel relatif à l’évaluation dans le délai accordé à cette fin, fait foi des assertions qu’il contient.
 
 **Présomption**
 
-- **(11)** Lorsqu’une preuve est présentée, en vertu du présent article, sous forme d’affidavit et qu’au vu de celui-ci il semble que la personne qui l’a souscrit est un fonctionnaire de l’Agence des douanes et du revenu du Canada, il n’est nécessaire de prouver ni les qualités officielles ni l’authenticité des signatures de ce fonctionnaire et de la personne devant laquelle a été souscrit l’affidavit.
+- **(11)** Lorsqu’une preuve est présentée, en vertu du présent article, sous forme d’affidavit et qu’au vu de celui-ci il semble que la personne qui l’a souscrit est un fonctionnaire de l’Agence du revenu du Canada, il n’est nécessaire de prouver ni les qualités officielles ni l’authenticité des signatures de ce fonctionnaire et de la personne devant laquelle a été souscrit l’affidavit.
 
 **Connaissance judiciaire**
 
@@ -3158,7 +3158,7 @@ où :
 
 **Preuve de documents**
 
-- **(13)** Tout document présenté comme étant un ordre, une instruction, une sommation, un avis, un certificat, une décision, une évaluation, une mainlevée d’hypothèque ou autre document, présenté comme étant signé en vertu de la présente partie ou pour son application au nom ou sous l’autorité du ministre ou du sous-ministre du Revenu national, du commissaire des douanes et du revenu ou d’un fonctionnaire autorisé à exercer les pouvoirs ou fonctions du ministre en vertu de la présente partie, est réputé être un document signé, établi et délivré par le ministre, le sous-ministre, le commissaire ou le fonctionnaire en question à moins qu’il ne soit contesté par le ministre ou par une personne agissant pour lui ou pour Sa Majesté.
+- **(13)** Tout document paraissant être un ordre, une instruction, une sommation, un avis, un certificat, une décision, une évaluation, une mainlevée d’hypothèque ou autre document et comme étant signé en vertu de la présente partie ou pour son application ou son contrôle d’application au nom ou sous l’autorité du ministre ou du sous-ministre du Revenu national, du commissaire des douanes et du revenu, du commissaire du revenu ou d’un fonctionnaire autorisé à exercer les pouvoirs ou fonctions du ministre en vertu de la présente partie, est réputé être un document signé, établi et délivré par le ministre, le sous-ministre, le commissaire des douanes et du revenu, le commissaire du revenu ou le fonctionnaire en question à moins qu’il ne soit contesté par le ministre ou par une personne agissant pour lui ou pour Sa Majesté.
 
 **Date d’établissement d’une évaluation**
 
@@ -3178,7 +3178,7 @@ où :
 
 **Preuve d’une déclaration : pièces pertinentes**
 
-- **(18)** Dans les poursuites pour infraction à la présente loi, un affidavit d’un fonctionnaire de l’Agence des douanes et du revenu du Canada attestant qu’il a la charge des pièces pertinentes et que l’examen des pièces révèle que le receveur général n’a pas reçu une somme dont le versement à celui-ci au titre des cotisations était requis en vertu de la présente loi, fait foi des assertions qui y sont contenues.
+- **(18)** Dans les poursuites pour infraction à la présente loi, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada attestant qu’il a la charge des pièces pertinentes et que l’examen des pièces révèle que le receveur général n’a pas reçu une somme dont le versement à celui-ci au titre des cotisations était requis en vertu de la présente loi, fait foi des assertions qui y sont contenues.
 
 **Associés de sociétés**
 
@@ -3189,7 +3189,7 @@ où :
 		- **(ii)** soit à la dernière adresse connue :
 			- **(A)** s’il s’agit d’une société en commandite, de l’un de ses associés dont la responsabilité, à titre d’associé, n’est pas limitée,
 			- **(B)** dans les autres cas, de l’un de ses associés.
-> 1996, ch. 23, art. 102; 1999, ch. 17, art. 133 et 135; 2001, ch. 4, art. 78(A).
+> 1996, ch. 23, art. 102; 1999, ch. 17, art. 133 et 135; 2001, ch. 4, art. 78(A); 2005, ch. 38, art. 90 et 138.
 
 
 
@@ -3564,8 +3564,8 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Règlements des questions**
 
-**122** Si, au cours de l’examen d’une demande de prestations, une question prévue à l’article 90 se pose, cette question est décidée par le fonctionnaire autorisé de l’Agence des douanes et du revenu du Canada comme le prévoit cet article.
-> 1996, ch. 23, art. 122; 1999, ch. 17, art. 135.
+**122** Si, au cours de l’examen d’une demande de prestations, une question prévue à l’article 90 se pose, cette question est décidée par le fonctionnaire autorisé de l’Agence du revenu du Canada comme le prévoit cet article.
+> 1996, ch. 23, art. 122; 1999, ch. 17, art. 135; 2005, ch. 38, art. 138.
 
 
 
@@ -3817,14 +3817,14 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **131** 
 
-- **(1)** Lorsque se pose au cours de procédures judiciaires une question prévue à l’article 90, le ou les juges de paix, le juge ou le tribunal qui en sont saisis doivent :
-	- **a)** si la question n’a pas été décidée par le fonctionnaire autorisé de l’Agence des douanes et du revenu du Canada, la lui soumettre et suspendre les procédures jusqu’à réception de sa décision;
+- **(1)** Lorsque se pose au cours de procédures judiciaires une question prévue à l’article 90, le ou les juges de paix, le juge ou le tribunal qui en sont saisis doivent :
+	- **a)** si la question n’a pas été décidée par le fonctionnaire autorisé de l’Agence du revenu du Canada, la lui soumettre et suspendre les procédures jusqu’à réception de sa décision;
 	- **b)** sur réception de celle-ci, poursuivre l’audition et le jugement de l’affaire.
 
 **Jugement différé**
 
 - **(2)** Cependant, en cas d’appel au ministre du Revenu national au titre de l’article 91 ou à la Cour canadienne de l’impôt au titre de l’article 103, le ou les juges de paix, le juge ou le tribunal doivent différer le jugement jusqu’à réception de la décision de ce ministre ou de la Cour canadienne de l’impôt.
-> 1996, ch. 23, art. 131; 1999, ch. 17, art. 135.
+> 1996, ch. 23, art. 131; 1999, ch. 17, art. 135; 2005, ch. 38, art. 138.
 
 
 
