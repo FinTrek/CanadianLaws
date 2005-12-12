@@ -997,7 +997,9 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Only at designated customs offices**
 
-**52** No business shall export or import goods described in section 43 except at a customs office designated for that purpose by the Minister of National Revenue.
+**52** No business shall export or import goods described in section 43 except at a customs office designated for that purpose by the Minister of Public Safety and Emergency Preparedness.
+> 1995, c. 39, s. 52; 2005, c. 38, ss. 142, 145
+
 
 
 
