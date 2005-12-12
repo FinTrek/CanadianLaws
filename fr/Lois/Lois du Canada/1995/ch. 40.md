@@ -41,10 +41,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi agroalimentaire*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***ministre *** Soit le ministre de l’Agriculture et de l’Agroalimentaire, soit, s’agissant des questions relatives aux procès-verbaux pour violation de la législation frontalière visée au paragraphe 11(5) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md), le ministre de la Sécurité publique et de la Protection civile.
 
 ***sanction*** Sanction administrative pécuniaire infligée pour une violation.
-> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30.
+> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30; 2005, ch. 38, art. 30 et 145.
 
 
 
