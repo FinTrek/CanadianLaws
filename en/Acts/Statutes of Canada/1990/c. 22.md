@@ -360,10 +360,14 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 
 - **(1)** The President of the Canadian Food Inspection Agency may designate inspectors under section 13 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) for the purposes of this Act.
 
+**Designation**
+
+- **(1.1)** The President of the Canada Border Services Agency may designate inspectors under paragraph 9(2)(b) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) for the purposes of enforcing this Act.
+
 **Certificate to be produced**
 
-- **(2)** Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency attesting to their designation and, on entering any place under this Act, an inspector shall show the certificate to the person in charge of the place if the person requests proof of the inspector’s designation.
-> 1990, c. 22, s. 21; 1997, c. 6, s. 82.
+- **(2)** Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency or the President of the Canada Border Services Agency, as the case may be, attesting to their designation and, on entering any place under this Act, an inspector shall show the certificate to the person in charge of the place if the person requests proof of the inspector’s designation.
+> 1990, c. 22, s. 21; 1997, c. 6, s. 82; 2005, c. 38, s. 123.
 
 
 
