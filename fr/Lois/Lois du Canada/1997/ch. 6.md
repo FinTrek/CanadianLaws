@@ -175,7 +175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** L’Agence est chargée d’assurer et de contrôler l’application des lois suivantes : la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des obtentions végétales](/fr/Lois/Lois%20du%20Canada/1990/ch.%2020.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
+- **(1)** L’Agence est chargée d’assurer et de contrôler l’application des lois suivantes : la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md), la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur l’inspection du poisson](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-12.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur la protection des obtentions végétales](/fr/Lois/Lois%20du%20Canada/1990/ch.%2020.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
 **[Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md)**
 
@@ -183,13 +183,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md)**
 
-- **(3)** L’Agence est chargée :
+- **(3)** L’Agence est chargée :
 	- **a)** de contrôler l’application de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) en ce qui a trait aux aliments, au sens de l’article 2 de cette loi;
 	- **b)** d’assurer l’application des dispositions de cette loi en ce qui a trait aux aliments, sauf si celles-ci portent sur la santé publique, la salubrité ou la nutrition.
 
 **Rôle du ministre de la Santé**
 
 - **(4)** Le ministre de la Santé est chargé de l’élaboration des politiques et des normes relatives à la salubrité et à la valeur nutritive des aliments vendus au Canada et de l’évaluation de l’efficacité des activités de l’Agence relativement à la salubrité des aliments.
+
+**Agence des services frontaliers du Canada**
+
+- **(5)** L’Agence des services frontaliers du Canada est chargée du contrôle d’application de la législation frontalière visée à l’alinéa b) de la définition de ce terme à l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) en ce qui a trait à l’inspection en première ligne des voyageurs et des produits importés dans les aéroports et dans les postes frontaliers canadiens, à l’exclusion des centres de service à l’importation.
+> 1997, ch. 6, art. 11; 2005, ch. 38, art. 53.
+
 
 
 
