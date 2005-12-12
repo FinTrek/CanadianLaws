@@ -473,9 +473,13 @@
 
 - **(1)** The President of the Canadian Food Inspection Agency may designate inspectors, analysts and graders under section 13 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) for the purposes of this Act.
 
+**Designation**
+
+- **(1.1)** The President of the Canada Border Services Agency may designate inspectors under paragraph 9(2)(b) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) for the purposes of enforcing this Act.
+
 **Certificate to be produced**
 
-- **(2)** Inspectors shall be given certificates in a form established by the President of the Agency attesting to their designation and, on entering any place under this Act, an inspector shall show the certificate to the person in charge of the place on request.
+- **(2)** Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency or the President of the Canada Border Services Agency, as the case may be, attesting to their designation and, on entering any place under this Act, an inspector shall show the certificate to the person in charge of the place on request.
 
 - **(3)** [Repealed, 1997, c. 6, s. 39]
 
@@ -486,7 +490,7 @@
 **Interference**
 
 - **(5)** Except as authorized by an inspector, no person shall remove, alter or interfere in any way with a thing seized or detained under this Act or the regulations.
-> R.S., 1985, c. 20 (4th Supp.), s. 19; 1997, c. 6, s. 39.
+> R.S., 1985, c. 20 (4th Supp.), s. 19; 1997, c. 6, s. 39; 2005, c. 38, s. 33.
 
 
 
