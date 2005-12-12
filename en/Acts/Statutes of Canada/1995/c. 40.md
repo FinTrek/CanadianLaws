@@ -39,14 +39,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***agri-food Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md);
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***Minister*** means
+- **(a)** the Minister of Agriculture and Agri-Food; or
+- **(b)** with respect to a notice of violation issued in relation to the contravention of program legislation referred to in subsection 11(5) of the 
+[Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md), the Minister of Public Safety and Emergency Preparedness;
 
 ***penalty*** means an administrative monetary penalty imposed under this Act for a violation;
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> 1995, c. 40, s. 2; 1997, c. 21, s. 30.
+> 1995, c. 40, s. 2; 1997, c. 21, s. 30; 2005, c. 38, ss. 30, 145.
 
 
 
