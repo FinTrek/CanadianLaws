@@ -45,7 +45,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***client*** means a person or an entity that engages in a financial transaction or activity with a person or an entity referred to in section 5, and includes a person or an entity on whose behalf the person or the entity that engages in the transaction or activity is acting.
 
-***Commissioner*** has the same meaning as in section 2 of the Canada Customs and Revenue Agency Act.
+***Commissioner***[Repealed, 2005, c. 38, s. 124]
 
 ***courier*** means a courier as defined by regulation.
 
@@ -57,7 +57,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
  ou ***mail*** has the same meaning as in subsection 2(1) of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
 
-***Minister*** means, in relation to sections 25 to 39, the Minister of National Revenue and, in relation to any other provision of this Act, the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of that provision.
+***Minister*** means, in relation to sections 25 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of that provision.
 
 ***money laundering offence*** means an offence under subsection 462.31(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
@@ -67,12 +67,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Version anglaise seulement***prescribed*** means prescribed by regulations made by the Governor in Council.
 
+***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md).
+
 ***terrorist activity*** has the same meaning as in subsection 83.01(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 ***terrorist activity financing offence*** means an offence under section 83.02, 83.03 or 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence under section 83.12 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) arising out of a contravention of section 83.08 of that Act.
 
 ***threats to the security of Canada*** has the same meaning as in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132.
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145.
 
 
 
@@ -420,9 +422,11 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 
 
-**Report to Commissioner and the Centre**
+**Report to President and the Centre**
 
-**20** If the currency or monetary instruments have been seized under section 18, the officer who seized them shall without delay report the circumstances of the seizure to the Commissioner and to the Centre.
+**20** If the currency or monetary instruments have been seized under section 18, the officer who seized them shall without delay report the circumstances of the seizure to the President and to the Centre.
+> 2000, c. 17, s. 20; 2005, c. 38, s. 127.
+
 
 
 
@@ -508,15 +512,17 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 
 
-**Notice of Commissioner**
+**Notice of President**
 
 **26** 
 
-- **(1)** If a decision of the Minister is requested under section 25, the Commissioner shall without delay serve on the person who requested it written notice of the circumstances of the seizure in respect of which the decision is requested.
+- **(1)** If a decision of the Minister is requested under section 25, the President shall without delay serve on the person who requested it written notice of the circumstances of the seizure in respect of which the decision is requested.
 
 **Evidence**
 
 - **(2)** The person on whom a notice is served under subsection (1) may, within 30 days after the notice is served, furnish any evidence in the matter that they desire to furnish.
+> 2000, c. 17, s. 26; 2005, c. 38, s. 127.
+
 
 
 
@@ -589,7 +595,9 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **Service of notices**
 
-**31** The service of the Commissioner’s notice under section 26 or the notice of the Minister’s decision under section 27 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at their latest known address.
+**31** The service of the President’s notice under section 26 or the notice of the Minister’s decision under section 27 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at their latest known address.
+> 2000, c. 17, s. 31; 2005, c. 38, s. 127.
+
 
 
 
@@ -608,13 +616,13 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 - **(2)** A judge of the court to which an application is made under this section shall fix a day, not less than 30 days after the date of the filing of the application, for the hearing.
 
-**Notice to Commissioner**
+**Notice to President**
 
-- **(3)** A person who makes an application under this section shall serve notice of the application and of the hearing on the Commissioner, or an officer designated by the Commissioner for the purpose of this section, not later than 15 days after a day is fixed under subsection (2) for the hearing of the application.
+- **(3)** A person who makes an application under this section shall serve notice of the application and of the hearing on the President, or an officer designated by the President for the purpose of this section, not later than 15 days after a day is fixed under subsection (2) for the hearing of the application.
 
 **Service of notice**
 
-- **(4)** The service of a notice under subsection (3) is sufficient if it is sent by registered mail addressed to the Commissioner.
+- **(4)** The service of a notice under subsection (3) is sufficient if it is sent by registered mail addressed to the President.
 
 **Definition of court**
 
@@ -625,7 +633,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
 	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
-> 2000, c. 17, s. 32; 2001, c. 41, s. 63.
+> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127.
 
 
 
@@ -659,13 +667,15 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **35** 
 
-- **(1)** The Minister of Public Works and Government Services shall, after the forfeiture of currency or monetary instruments has become final and on being informed by the Commissioner that a person has obtained a final order under section 33 or 34 in respect of the currency or monetary instruments, give to the person
+- **(1)** The Minister of Public Works and Government Services shall, after the forfeiture of currency or monetary instruments has become final and on being informed by the President that a person has obtained a final order under section 33 or 34 in respect of the currency or monetary instruments, give to the person
 	- **(a)** the currency or monetary instruments; or
 	- **(b)** an amount calculated on the basis of the interest of the applicant in the currency or monetary instruments at the time of the contravention in respect of which they were seized, as declared in the order.
 
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(b) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
+> 2000, c. 17, s. 35; 2005, c. 38, s. 127.
+
 
 
 
@@ -730,8 +740,8 @@ the applicant is entitled to an order declaring that their interest is not affec
 **38** 
 
 - **(1)** The Minister, with the consent of the Minister designated for the purpose of section 42, may enter into an agreement or arrangement in writing with the government of a foreign state, or an institution or agency of that state, that has reporting requirements similar to those set out in this Part, whereby
-	- **(a)** information set out in reports made under subsection 12(1) in respect of currency or monetary instruments imported into Canada from that state will be provided to a department, institution or agency of that state that has powers and duties similar to those of the Canada Customs and Revenue Agency; and
-	- **(b)** information contained in reports in respect of currency or monetary instruments imported into that state from Canada will be provided to the Canada Customs and Revenue Agency.
+	- **(a)** information set out in reports made under subsection 12(1) in respect of currency or monetary instruments imported into Canada from that state will be provided to a department, institution or agency of that state that has powers and duties similar to those of the Canada Border Services Agency in respect of the reporting of currency or monetary instruments; and
+	- **(b)** information contained in reports in respect of currency or monetary instruments imported into that state from Canada will be provided to the Canada Border Services Agency.
 
 **Information sent under an agreement**
 
@@ -740,6 +750,8 @@ the applicant is entitled to an order declaring that their interest is not affec
 **Information received by the Centre**
 
 - **(3)** The information received under an agreement or arrangement referred to in subsection (1) shall be sent to the Centre and, for the purposes of any provision of this Act dealing with the confidentiality of information or the collection or use of information by the Centre, is deemed to be information set out in a report made under section 12.
+> 2000, c. 17, s. 38; 2005, c. 38, ss. 125, 139.
+
 
 
 
@@ -754,9 +766,11 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 - **(1)** The Minister may authorize an officer or a class of officers to exercise powers or perform duties of the Minister, including any judicial or quasi-judicial powers or duties of the Minister, under this Part.
 
-**Commissioner’s duties**
+**President’s duties**
 
-- **(2)** The Commissioner may authorize an officer or a class of officers to exercise powers or perform duties of the Commissioner under this Part.
+- **(2)** The President may authorize an officer or a class of officers to exercise powers or perform duties of the President under this Part.
+> 2000, c. 17, s. 39; 2005, c. 38, s. 127.
+
 
 
 
@@ -1027,9 +1041,14 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 - **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
 	- **(a)** the appropriate police force;
-	- **(b)** the Canada Customs and Revenue Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue; and
+	- **(b)** the Canada Revenue Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+	- **(b.1)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency; and
 	- **(c)** [Repealed, 2001, c. 41, s. 67]
-	- **(d)** the Department of Citizenship and Immigration, if the Centre also determines that the information would promote the objective set out in paragraph 3(1)(i) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and is relevant to determining whether a person is a person described in sections 34 to 42 of that Act or to an offence under any of sections 117 to 119, 126 or 127 of that Act.
+	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information would promote the objective set out in paragraph 3(1)(i) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and is relevant to determining whether a person is a person described in sections 34 to 42 of that Act or to an offence under any of sections 117 to 119, 126 or 127 of that Act.
+
+**Exception**
+
+- **(3.1)** Paragraph (3)(b) or (b.1) does not apply in respect of an offence relating to taxes or duties imposed under a prescribed Act or a prescribed portion of an Act.
 
 - **(4) and (5)** [Repealed, 2001, c. 41, s. 67]
 
@@ -1049,7 +1068,7 @@ the applicant is entitled to an order declaring that their interest is not affec
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
 	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126.
 
 
 
