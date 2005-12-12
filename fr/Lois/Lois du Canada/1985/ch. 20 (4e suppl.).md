@@ -454,9 +454,13 @@
 
 - **(1)** Les inspecteurs, analystes et classificateurs chargés de l’application de la présente loi sont désignés par le président de l’Agence canadienne d’inspection des aliments conformément à l’article 13 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md).
 
+**Désignations**
+
+- **(1.1)** Le président de l’Agence des services frontaliers du Canada peut, en vertu de l’alinéa 9(2)b) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md), désigner des inspecteurs chargés du contrôle d’application de la présente loi.
+
 **Production du certificat**
 
-- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence et attestant sa qualité, qu’il présente, sur demande, au responsable des lieux qui font l’objet de sa visite.
+- **(2)** Chaque inspecteur reçoit un certificat établi en la forme fixée par le président de l’Agence canadienne d’inspection des aliments ou par le président de l’Agence des services frontaliers du Canada, selon le cas, et attestant sa qualité, qu’il présente, sur demande, au responsable des lieux qui font l’objet de sa visite.
 
 - **(3)** [Abrogé, 1997, ch. 6, art. 39]
 
@@ -467,7 +471,7 @@
 **Intervention**
 
 - **(5)** Il est interdit, sans l’autorisation de l’inspecteur, de modifier l’état ou la situation des objets saisis ou retenus en application de la présente loi ou des règlements.
-> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 19; 1997, ch. 6, art. 39.
+> L.R. (1985), ch. 20 (4<sup>e</sup> suppl.), art. 19; 1997, ch. 6, art. 39; 2005, ch. 38, art. 33.
 
 
 
