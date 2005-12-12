@@ -2341,7 +2341,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 	- **(c)** prescribing the method for determining the amount of reduction for plans that meet the prescribed standards and the use to be made of actuarial calculations and estimates;
 	- **(d)** prescribing the manner in which insured persons are to benefit from the premium reduction;
 	- **(e)** providing for the making of decisions relating to premium reduction and appeals in cases of dispute;
-	- **(f)** prescribing how the insured earnings of insured persons will be reported by employers to the Canada Customs and Revenue Agency; and
+	- **(f)** prescribing how the insured earnings of insured persons will be reported by employers to the Canada Revenue Agency; and
 	- **(g)** generally, providing for any other matters necessary for carrying out the purposes and provisions of subsections (1) and (2).
 
 **Late applications**
@@ -2355,7 +2355,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 **Definition**
 
 - **(6)** The reference to the payment of allowances, money or other benefits because of compassionate care in subsections (1) and (2) means the payment of allowances, money or other benefits for the same or substantially the same reasons for which benefits are payable under section 23.1.
-> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22.
+> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22; 2005, c. 38, s. 138.
 
 
 
@@ -2780,13 +2780,13 @@ to the extent that access has been or may be expected to be refused and that the
 **Copies as evidence**
 
 - **(12)** If a document is inspected, audited, examined or provided in accordance with this section,
-	- **(a)** the person by whom it is inspected, audited, or examined or to whom it is provided, or any officer of the Canada Customs and Revenue Agency, may make one or more copies, or have them made; and
+	- **(a)** the person by whom it is inspected, audited, or examined or to whom it is provided, or any officer of the Canada Revenue Agency, may make one or more copies, or have them made; and
 	- **(b)** any document appearing to be certified by the Minister or an authorized person to be a copy made under this subsection is evidence of the nature and content of the original document and has the same probative force as the original document would have if it were proven in the ordinary way.
 
 **Compliance**
 
 - **(13)** No person shall hinder, molest or interfere with any person doing anything that the person is authorized to do by or under this section or prevent or attempt to prevent any person from doing any such thing and, notwithstanding any other Act or law, every person shall, unless the person is unable to do so, do everything required by or under this section.
-> 1996, c. 23, s. 88; 1999, c. 17, s. 135.
+> 1996, c. 23, s. 88; 1999, c. 17, s. 135; 2005, c. 38, s. 138.
 
 
 
@@ -2813,7 +2813,7 @@ to the extent that access has been or may be expected to be refused and that the
 
 **90** 
 
-- **(1)** An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Customs and Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
+- **(1)** An employer, an employee, a person claiming to be an employer or an employee or the Commission may request an officer of the Canada Revenue Agency authorized by the Minister to make a ruling on any of the following questions:
 	- **(a)** whether an employment is insurable;
 	- **(b)** how long an insurable employment lasts, including the dates on which it begins and ends;
 	- **(c)** what is the amount of any insurable earnings;
@@ -2837,7 +2837,7 @@ to the extent that access has been or may be expected to be refused and that the
 - **(4)** Unless a ruling has been requested with respect to an insured person,
 	- **(a)** an amount deducted from the remuneration of the person or paid by an employer as a premium for the person is deemed to have been deducted or paid in accordance with this Act; or
 	- **(b)** an amount that has not been so deducted or paid is deemed not to have been required to be deducted or paid in accordance with this Act.
-> 1996, c. 23, s. 90; 1999, c. 17, s. 135, c. 31, s. 80.
+> 1996, c. 23, s. 90; 1999, c. 17, s. 135, c. 31, s. 80; 2005, c. 38, s. 138.
 
 
 
@@ -2865,7 +2865,7 @@ to the extent that access has been or may be expected to be refused and that the
 
 **Where appeal to be sent**
 
-- **(2)** An appeal shall be addressed to the Assistant Director of Appeals in a Tax Services Office of the Canada Customs and Revenue Agency and delivered or mailed to that office.
+- **(2)** An appeal shall be addressed to the Assistant Director of Appeals in a Tax Services Office of the Canada Revenue Agency and delivered or mailed to that office.
 
 **Decision**
 
@@ -2874,7 +2874,7 @@ to the extent that access has been or may be expected to be refused and that the
 **Notification**
 
 - **(4)** If the Minister is required to notify a person who may be or is affected by an appeal, the Minister may have the person notified in such manner as the Minister considers adequate.
-> 1996, c. 23, s. 93; 1999, c. 17, s. 135.
+> 1996, c. 23, s. 93; 1999, c. 17, s. 135; 2005, c. 38, s. 138.
 
 
 
@@ -3030,12 +3030,12 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **97** 
 
-- **(1)** The Minister shall administer this Part, section 5 and any regulations made under section 5 or 55 and the Commissioner of Customs and Revenue may exercise all the powers and perform all the duties of the Minister under this Part.
+- **(1)** The Minister shall administer this Part, section 5 and any regulations made under section 5 or 55 and the Commissioner of Revenue may exercise all the powers and perform all the duties of the Minister under this Part.
 
 **Administration of oaths**
 
 - **(2)** An officer or employee employed in connection with the administration of this Part, section 5 or any regulations made under section 5 or 55, if designated by the Minister for the purpose, may, in the course of their employment, administer oaths and take and receive affidavits, declarations and solemn affirmations for the purposes of or incidental to the administration or enforcement of this Act or the regulations, and every officer or employee so designated has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
-> 1996, c. 23, s. 97; 1999, c. 17, s. 132.
+> 1996, c. 23, s. 97; 1999, c. 17, s. 132; 2005, c. 38, s. 140.
 
 
 
@@ -3089,7 +3089,7 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **102** 
 
-- **(1)** An information or complaint under this Part may be laid or made by an officer of the Canada Customs and Revenue Agency, by a member of the Royal Canadian Mounted Police or by an authorized person and, if an information or complaint appears to have been laid or made under this Part, it is deemed to have been laid or made by an authorized person and shall not be called into question for lack of authority of the informant or complainant except by the Minister or by a person acting for the Minister or for Her Majesty.
+- **(1)** An information or complaint under this Part may be laid or made by an officer of the Canada Revenue Agency, by a member of the Royal Canadian Mounted Police or by an authorized person and, if an information or complaint appears to have been laid or made under this Part, it is deemed to have been laid or made by an authorized person and shall not be called into question for lack of authority of the informant or complainant except by the Minister or by a person acting for the Minister or for Her Majesty.
 
 **Two or more offences**
 
@@ -3105,7 +3105,7 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **Proof of service by mail**
 
-- **(5)** If provision is made by this Part or the regulations for sending by mail a request for information, notice or demand, an affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(5)** If provision is made by this Part or the regulations for sending by mail a request for information, notice or demand, an affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records and has knowledge of the facts in the particular case,
 	- **(b)** such a request, notice or demand was sent by registered letter on a named day to the person to whom it was addressed, indicating the address, and
 	- **(c)** the officer identifies as exhibits attached to the affidavit the post office certificate of registration of the letter or a true copy of the relevant portion of the certificate and a true copy of the request, notice or demand,
@@ -3113,7 +3113,7 @@ is evidence of the request, notice or demand and of its being sent.
 
 **Proof of personal service**
 
-- **(6)** If provision is made by this Part or the regulations for personal service of a request for information, notice or demand, an affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(6)** If provision is made by this Part or the regulations for personal service of a request for information, notice or demand, an affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records and has knowledge of the facts in the particular case,
 	- **(b)** such a request, notice or demand was served personally on a named day on the person to whom it was directed, and
 	- **(c)** the officer identifies as an exhibit attached to the affidavit a true copy of the request, notice or demand,
@@ -3121,28 +3121,28 @@ is evidence of the request, notice or demand and of its personal service.
 
 **Proof of failure to comply**
 
-- **(7)** If a person is required by this Part or the regulations to make a return, statement, answer or certificate, an affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(7)** If a person is required by this Part or the regulations to make a return, statement, answer or certificate, an affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records, and
 	- **(b)** after a careful examination and search of the records the officer has been unable to find in a given case that the return, statement, answer or certificate, as the case may be, has been filed or made by the person,
 is evidence that the person did not do so in that case.
 
 **Proof of time of compliance**
 
-- **(8)** If a person is required by this Part or the regulations to make a return, statement, answer or certificate, an affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(8)** If a person is required by this Part or the regulations to make a return, statement, answer or certificate, an affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records, and
 	- **(b)** after careful examination of the records the officer has found that the return, statement, answer or certificate was filed or made on a particular day,
 is evidence that it was filed or made on that day and not before.
 
 **Proof of documents**
 
-- **(9)** An affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(9)** An affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records, and
 	- **(b)** a document annexed to it is a document or true copy of a document made by or for an employer, the Minister or a person exercising the powers of the Minister,
 is evidence of the nature and contents of the document and is admissible in evidence and has the same probative force as the original document would have if it were proven in the ordinary way.
 
 **Proof of no appeal**
 
-- **(10)** An affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(10)** An affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records and has knowledge of the practice of the Agency,
 	- **(b)** an examination of the records shows that a notice of assessment for a particular year was mailed or otherwise communicated to an employer on a particular day under this Part, and
 	- **(c)** after careful examination and search of the records, the officer has been unable to find that a notice of appeal from the assessment was received within the time allowed,
@@ -3150,7 +3150,7 @@ is evidence of the statements contained in it.
 
 **Presumption**
 
-- **(11)** If evidence is offered under this section by an affidavit from which it appears that the person making the affidavit is an officer of the Canada Customs and Revenue Agency, it is not necessary to prove
+- **(11)** If evidence is offered under this section by an affidavit from which it appears that the person making the affidavit is an officer of the Canada Revenue Agency, it is not necessary to prove
 	- **(a)** the person’s signature;
 	- **(b)** that the person is such an officer; or
 	- **(c)** the signature or official character of the person before whom the affidavit was sworn.
@@ -3161,7 +3161,7 @@ is evidence of the statements contained in it.
 
 **Proof of documents**
 
-- **(13)** Every document appearing to be an order, direction, demand, notice, certificate, requirement, decision, assessment, discharge of mortgage, release of hypothec or other document executed under, or in the course of the administration or enforcement of, this Part over the name in writing of the Minister, the Deputy Minister of National Revenue, the Commissioner of Customs and Revenue or an officer authorized to exercise the powers or perform the duties of the Minister under this Part, is deemed to be a document signed, made and issued by the Minister, the Deputy Minister, the Commissioner or the officer unless it has been called into question by the Minister or by a person acting for the Minister or for Her Majesty.
+- **(13)** Every document appearing to be an order, direction, demand, notice, certificate, requirement, decision, assessment, discharge of mortgage, release of hypothec or other document executed under, or in the course of the administration or enforcement of, this Part over the name in writing of the Minister, the Deputy Minister of National Revenue, the Commissioner of Customs and Revenue, the Commissioner of Revenue or an officer authorized to exercise the powers or perform the duties of the Minister under this Part, is deemed to be a document signed, made and issued by the Minister, the Deputy Minister, the Commissioner of Customs and Revenue, the Commissioner of Revenue or the officer unless it has been called into question by the Minister or by a person acting for the Minister or for Her Majesty.
 
 **Date when assessment made**
 
@@ -3181,7 +3181,7 @@ is evidence of the statements contained in it.
 
 **Proof of records**
 
-- **(18)** In a prosecution for an offence under this Act, an affidavit of an officer of the Canada Customs and Revenue Agency stating that
+- **(18)** In a prosecution for an offence under this Act, an affidavit of an officer of the Canada Revenue Agency stating that
 	- **(a)** the officer has charge of the appropriate records, and
 	- **(b)** an examination of the records shows that an amount required under this Act to be remitted to the Receiver General on account of premiums has not been received by the Receiver General,
 is evidence of the statements contained in the affidavit.
@@ -3195,7 +3195,7 @@ is evidence of the statements contained in the affidavit.
 		- **(ii)** at the latest known address
 			- **(A)** if it is a limited partnership, of any member of the partnership whose liability as a member is not limited, or
 			- **(B)** in any other case, of any member of the partnership.
-> 1996, c. 23, s. 102; 1999, c. 17, ss. 133, 135; 2001, c. 4, s. 78(E).
+> 1996, c. 23, s. 102; 1999, c. 17, ss. 133, 135; 2001, c. 4, s. 78(E); 2005, c. 38, ss. 90, 138.
 
 
 
@@ -3591,8 +3591,8 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 
 **Determination of questions**
 
-**122** If a question specified in section 90 arises in the consideration of a claim for benefits, it shall be determined by an authorized officer of the Canada Customs and Revenue Agency, as provided by that section.
-> 1996, c. 23, s. 122; 1999, c. 17, s. 135.
+**122** If a question specified in section 90 arises in the consideration of a claim for benefits, it shall be determined by an authorized officer of the Canada Revenue Agency, as provided by that section.
+> 1996, c. 23, s. 122; 1999, c. 17, s. 135; 2005, c. 38, s. 138.
 
 
 
@@ -3872,7 +3872,7 @@ to the extent that access has been or may be expected to be refused and that the
 **131** 
 
 - **(1)** If a question specified in section 90 arises in any legal proceedings, the justice, judge or court before whom it arises shall
-	- **(a)** refer the question to an authorized officer of the Canada Customs and Revenue Agency under that section and defer further proceedings until the officer’s ruling is received, if the question has not been decided by the authorized officer; and
+	- **(a)** refer the question to an authorized officer of the Canada Revenue Agency under that section and defer further proceedings until the officer’s ruling is received, if the question has not been decided by the authorized officer; and
 	- **(b)** on receipt of the ruling, proceed with the hearing and judgment of the legal proceedings.
 
 **Deferral of judgment**
@@ -3880,7 +3880,7 @@ to the extent that access has been or may be expected to be refused and that the
 - **(2)** If an appeal has been made under section 91 or 103, the justice, judge or court shall defer judgment until
 	- **(a)** a decision of the Minister of National Revenue is received, in the case of an appeal under section 91; or
 	- **(b)** a decision of the Tax Court of Canada is received, in the case of an appeal under section 103.
-> 1996, c. 23, s. 131; 1999, c. 17, s. 135.
+> 1996, c. 23, s. 131; 1999, c. 17, s. 135; 2005, c. 38, s. 138.
 
 
 
