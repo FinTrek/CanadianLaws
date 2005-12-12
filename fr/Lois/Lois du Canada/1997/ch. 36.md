@@ -44,13 +44,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili*.
+***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
 
-***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica*.
+***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
-***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis*.
+***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md).
 
-***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël*.
+***Accord de libre-échange Canada — Israël*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
 
 ***Accord de libre-échange nord-américain*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
@@ -128,7 +128,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de « pays », ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145.
 
 
 
@@ -184,7 +184,9 @@ French version only***taux*** Le taux de droits de douane.
 
 **Délégation des attributions**
 
-**9** Le ministre du Revenu national peut autoriser un agent ou un mandataire ou une catégorie d’agents ou de mandataires à exercer les attributions qui lui sont conférées par la présente loi.
+**9** Le ministre de la Sécurité publique et de la Protection civile peut autoriser un agent ou un mandataire ou une catégorie d’agents ou de mandataires à exercer les attributions qui lui sont conférées par la présente loi.
+> 1997, ch. 36, art. 9; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -296,7 +298,7 @@ French version only***taux*** Le taux de droits de douane.
 
 **Zone géographique**
 
-- **(2.1)** Aux paragraphes (2) et 49.1(4), ***zone géographique*** s’entend de toute zone spécifiée par le ministre du Revenu national après consultation du ministre du Commerce international.
+- **(2.1)** Aux paragraphes (2) et 49.1(4), ***zone géographique*** s’entend de toute zone spécifiée par le ministre de la Sécurité publique et de la Protection civile après consultation du ministre du Commerce international.
 
 **Application des règles d’origine**
 
@@ -308,7 +310,7 @@ French version only***taux*** Le taux de droits de douane.
 	- **a)** des chapitres 3 et 4 de l’Accord de libre-échange nord-américain ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application;
 	- **b)** des chapitres C et D de l’Accord de libre-échange Canada — Chili ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application;
 	- **c)** des chapitres III et IV de l’Accord de libre-échange Canada — Costa Rica ou pour toute autre question dont peuvent, en tant que de besoin, convenir les parties à cet accord pour son application.
-> 1997, ch. 36, art. 16; 2001, ch. 28, art. 34.
+> 1997, ch. 36, art. 16; 2001, ch. 28, art. 34; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -335,7 +337,7 @@ French version only***taux*** Le taux de droits de douane.
 
 **18** 
 
-- **(1)** Malgré l’article 17, pour l’application de la présente loi, les marchandises exportées au Canada à partir d’un pays qui ont été transbordées dans un pays intermédiaire ne sont pas réputées avoir été expédiées directement au Canada à partir du premier pays dans chacun des cas suivants :
+- **(1)** Malgré l’article 17, pour l’application de la présente loi, les marchandises exportées au Canada à partir d’un pays qui ont été transbordées dans un pays intermédiaire ne sont pas réputées avoir été expédiées directement au Canada à partir du premier pays dans chacun des cas suivants :
 	- **a)** elles ne demeurent pas en transit dans le pays intermédiaire sous surveillance de la douane;
 	- **b)** leur traitement dans le pays intermédiaire ne se limite ni à des opérations de déchargement, de chargement ou de fractionnement des chargements, ni à d’autres opérations visant leur conservation en bon état;
 	- **c)** elles entrent dans le commerce du pays intermédiaire ou y sont offertes à la consommation;
@@ -343,7 +345,9 @@ French version only***taux*** Le taux de droits de douane.
 
 **Règlements**
 
-- **(2)** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut, par règlement, fixer les conditions et la durée de la période réglementaire pour l’application de l’alinéa (1)d).
+- **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, fixer les conditions et la durée de la période réglementaire pour l’application de l’alinéa (1)d).
+> 1997, ch. 36, art. 18; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -362,11 +366,13 @@ French version only***taux*** Le taux de droits de douane.
 
 **Règlements**
 
-- **(2)** Le ministre du Revenu national peut prendre des règlements pour l’application du présent article, notamment pour fixer les modalités et les conditions du marquage des marchandises importées ainsi que le moment où elles doivent être marquées, avant ou après leur importation, et les conditions applicables à cet égard.
+- **(2)** Le ministre de la Sécurité publique et de la Protection civile peut prendre des règlements pour l’application du présent article, notamment pour fixer les modalités et les conditions du marquage des marchandises importées ainsi que le moment où elles doivent être marquées, avant ou après leur importation, et les conditions applicables à cet égard.
 
 **Champ d’application**
 
 - **(3)** Les règlements pris en vertu des paragraphes (1) ou (2) peuvent être d’application générale ou limitée à certains pays ou à des zones géographiques définies.
+> 1997, ch. 36, art. 19; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -1494,7 +1500,7 @@ French version only***taux*** Le taux de droits de douane.
 
 **Non-application du décret**
 
-- **(3)** Le commissaire des douanes et du revenu peut exonérer des marchandises de la surtaxe imposée par décret pris en vertu du paragraphe (1), s’il estime que celles-ci ont été achetées pour importation, avant l’entrée en vigueur du décret, par un acheteur qui croyait de bonne foi que ce paragraphe n’aurait pas été applicable à ces marchandises, dans le cas où les marchandises sont en transit à destination de l’acheteur au Canada à la date d’entrée en vigueur du décret.
+- **(3)** Le président de l’Agence des services frontaliers du Canada peut exonérer des marchandises de la surtaxe imposée par décret pris en vertu du paragraphe (1), s’il estime que celles-ci ont été achetées pour importation, avant l’entrée en vigueur du décret, par un acheteur qui croyait de bonne foi que ce paragraphe n’aurait pas été applicable à ces marchandises, dans le cas où les marchandises sont en transit à destination de l’acheteur au Canada à la date d’entrée en vigueur du décret.
 
 **Résolution de cessation d’effet**
 
@@ -1518,7 +1524,7 @@ French version only***taux*** Le taux de droits de douane.
 **Publication**
 
 - **(8)** Les décrets pris en application du paragraphe (1) sont publiés dans la Gazette du Canada.
-> 1997, ch. 36, art. 68; 1999, ch. 17, art. 130.
+> 1997, ch. 36, art. 68; 1999, ch. 17, art. 130; 2005, ch. 38, art. 87.
 
 
 
@@ -2306,7 +2312,9 @@ French version only***taux*** Le taux de droits de douane.
 
 **Marchandises du n<sup>o</sup> tarifaire 9937.00.00**
 
-**88** Tout groupe qui désire être reconnu comme groupe ethnoculturel pour l’application du n<sup>o</sup> tarifaire 9937.00.00 est tenu de présenter au ministre du Revenu national une demande prouvant qu’il respecte les critères énoncés dans ce numéro tarifaire.
+**88** Tout groupe qui désire être reconnu comme groupe ethnoculturel pour l’application du n<sup>o</sup> tarifaire 9937.00.00 est tenu de présenter au ministre de la Sécurité publique et de la Protection civile une demande prouvant qu’il respecte les critères énoncés dans ce numéro tarifaire.
+> 1997, ch. 36, art. 88; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2319,51 +2327,32 @@ French version only***taux*** Le taux de droits de douane.
 
 **89** 
 
-- **(1)** Sous réserve du paragraphe (2), de l’article 95 et des règlements visés à l’article 99 et sur demande présentée dans le délai réglementaire en conformité avec le paragraphe (4) par une personne appartenant à une catégorie réglementaire, des marchandises importées peuvent, dans les cas suivants, être exonérées, une fois dédouanées, des droits qui, sans le présent article, seraient exigibles :
-	- **a)
-** elles sont ultérieurement exportées dans le même état qu’au moment de leur importation;
-	- **b)
-** elles sont transformées au Canada et ultérieurement exportées;
-	- **c)
-** elles sont directement consommées ou absorbées lors de la transformation au Canada de marchandises ultérieurement exportées;
-	- **d)
-** la même quantité de marchandises nationales ou importées de la même catégorie est transformée au Canada et ultérieurement exportée;
-	- **e)
-** la même quantité de marchandises nationales ou importées de la même catégorie est directement consommée ou absorbée lors de la transformation au Canada de marchandises ultérieurement exportées.
+- **(1)** Sous réserve du paragraphe (2), de l’article 95 et des règlements visés à l’article 99 et sur demande présentée dans le délai réglementaire en conformité avec le paragraphe (4) par une personne appartenant à une catégorie réglementaire, des marchandises importées peuvent, dans les cas suivants, être exonérées, une fois dédouanées, des droits qui, sans le présent article, seraient exigibles :
+	- **a)** elles sont ultérieurement exportées dans le même état qu’au moment de leur importation;
+	- **b)** elles sont transformées au Canada et ultérieurement exportées;
+	- **c)** elles sont directement consommées ou absorbées lors de la transformation au Canada de marchandises ultérieurement exportées;
+	- **d)** la même quantité de marchandises nationales ou importées de la même catégorie est transformée au Canada et ultérieurement exportée;
+	- **e)** la même quantité de marchandises nationales ou importées de la même catégorie est directement consommée ou absorbée lors de la transformation au Canada de marchandises ultérieurement exportées.
 
 **Produits du tabac ou marchandises désignées**
 
-- **(2)** L'exonération ne s'applique pas dans le cas de droits ou taxes perçus ou imposés, en application des articles 21.1 à 21.3, de la 
-Loi de 2001 sur l'accise ou de la 
-Loi sur la taxe d'accise, sur les produits du tabac et les marchandises désignées.
+- **(2)** L’exonération ne s’applique pas dans le cas de droits ou taxes perçus ou imposés, en application des articles 21.1 à 21.3, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), sur les produits du tabac et les marchandises désignées.
 
 **Présomption d’exportation**
 
-- **(3)** Pour l’application du paragraphe (1), sont réputées avoir été exportées les marchandises :
-	- **a)
-** désignées comme provisions de bord au titre de l’alinéa 99
-g) et fournies en vue de leur usage à bord d’un moyen de transport d’une catégorie réglementaire prévue par cet alinéa;
-	- **b)
-** ayant servi pour l’équipement, la réparation ou la reconstruction de navires ou d’aéronefs d’une catégorie réglementaire prévue par l’alinéa 99
-d);
-	- **c)
-** livrées à des navires poseurs de câbles télégraphiques d’une catégorie réglementaire prévue par l’alinéa 99
-d);
-	- **d)
-** fournies en vue de leur exportation aux ministères ou organismes fédéraux ou provinciaux, ou aux sociétés d’appartenance, d’exploitation ou de contrôle fédérales ou provinciales, désignés par le ministre du Revenu national;
-	- **e)
-** placées en entrepôt de stockage ou en boutique hors taxes en vue de leur exportation ou placées en entrepôt de stockage en vue d’un usage conforme aux alinéas 
-a) ou 
-c);
-	- **f)
-** cédées par le titulaire d’un certificat délivré en application de l’article 90 à un autre titulaire d’un tel certificat;
-	- **g)
-** utilisées ou destinées à être utilisées de toute autre manière réglementaire.
+- **(3)** Pour l’application du paragraphe (1), sont réputées avoir été exportées les marchandises :
+	- **a)** désignées comme provisions de bord au titre de l’alinéa 99 g) et fournies en vue de leur usage à bord d’un moyen de transport d’une catégorie réglementaire prévue par cet alinéa;
+	- **b)** ayant servi pour l’équipement, la réparation ou la reconstruction de navires ou d’aéronefs d’une catégorie réglementaire prévue par l’alinéa 99 d);
+	- **c)** livrées à des navires poseurs de câbles télégraphiques d’une catégorie réglementaire prévue par l’alinéa 99 d);
+	- **d)** fournies en vue de leur exportation aux ministères ou organismes fédéraux ou provinciaux, ou aux sociétés d’appartenance, d’exploitation ou de contrôle fédérales ou provinciales, désignés par le ministre de la Sécurité publique et de la Protection civile;
+	- **e)** placées en entrepôt de stockage ou en boutique hors taxes en vue de leur exportation ou placées en entrepôt de stockage en vue d’un usage conforme aux alinéas a) ou c);
+	- **f)** cédées par le titulaire d’un certificat délivré en application de l’article 90 à un autre titulaire d’un tel certificat;
+	- **g)** utilisées ou destinées à être utilisées de toute autre manière réglementaire.
 
 **Demandes**
 
-- **(4)** Les demandes d’exonération sont présentées en la forme et comportent les renseignements que le ministre du Revenu national juge indiqués.
-> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349.
+- **(4)** Les demandes d’exonération sont présentées en la forme et comportent les renseignements que le ministre de la Sécurité publique et de la Protection civile juge indiqués.
+> 1997, ch. 36, art. 89; 2002, ch. 22, art. 349; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -2373,15 +2362,17 @@ c);
 
 **90** 
 
-- **(1)** Le ministre du Revenu national peut, sous réserve des règlements visés à l’alinéa 99e), délivrer un certificat numéroté à une personne appartenant à l’une des catégories réglementaires énumérées à l’article 89.
+- **(1)** Le ministre de la Sécurité publique et de la Protection civile peut, sous réserve des règlements visés à l’alinéa 99e), délivrer un certificat numéroté à une personne appartenant à l’une des catégories réglementaires énumérées à l’article 89.
 
 **Modification du certificat**
 
-- **(2)** Le ministre du Revenu national peut, sous réserve des règlements visés à l’alinéa 99e), modifier, suspendre, renouveler, annuler ou rétablir le certificat.
+- **(2)** Le ministre de la Sécurité publique et de la Protection civile peut, sous réserve des règlements visés à l’alinéa 99e), modifier, suspendre, renouveler, annuler ou rétablir le certificat.
 
 **Dédouanement des marchandises**
 
 - **(3)** Les marchandises faisant l’objet de l’exonération prévue à l’article 89 peuvent être dédouanées sans le paiement des droits visés par l’exonération, si le numéro indiqué sur le certificat est présenté au moment de la déclaration en détail exigée par l’article 32 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et si le certificat est valide à cette date.
+> 1997, ch. 36, art. 90; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2390,7 +2381,7 @@ c);
 
 **91** 
 
-- **(1)** Le ministre du Revenu national peut, s’il l’estime indiqué, délivrer un agrément d’exploitation d’un lieu comme entrepôt de stockage à toute personne qui possède la compétence prévue par les règlements pris aux termes du sous-alinéa 99f)(i) et respecte les exigences ou conditions prévues par la présente loi, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et leurs règlements d’application à cet égard.
+- **(1)** Le ministre de la Sécurité publique et de la Protection civile peut, s’il l’estime indiqué, délivrer un agrément d’exploitation d’un lieu comme entrepôt de stockage à toute personne qui possède la compétence prévue par les règlements pris aux termes du sous-alinéa 99f)(i) et respecte les exigences ou conditions prévues par la présente loi, la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et leurs règlements d’application à cet égard.
 
 **Restrictions**
 
@@ -2402,7 +2393,9 @@ c);
 
 **Garanties**
 
-- **(4)** Le titulaire d’un agrément est tenu, sur demande du ministre du Revenu national, de fournir, à hauteur du montant que celui-ci juge indiqué, une garantie dont la nature et les conditions peuvent être prévues par règlement.
+- **(4)** Le titulaire d’un agrément est tenu, sur demande du ministre de la Sécurité publique et de la Protection civile, de fournir, à hauteur du montant que celui-ci juge indiqué, une garantie dont la nature et les conditions peuvent être prévues par règlement.
+> 1997, ch. 36, art. 91; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2430,7 +2423,9 @@ c);
 
 **Production de justificatifs**
 
-**93** En cas d’exonération de droits au titre des articles 89 ou 92, le ministre du Revenu national peut exiger les justificatifs qu’il juge indiqués pour l’application de l’article 95.
+**93** En cas d’exonération de droits au titre des articles 89 ou 92, le ministre de la Sécurité publique et de la Protection civile peut exiger les justificatifs qu’il juge indiqués pour l’application de l’article 95.
+> 1997, ch. 36, art. 93; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2475,7 +2470,7 @@ c);
 
 **Réduction**
 
-- **(4)** Sauf dans le cas de marchandises visées au paragraphe 8 de l’article 303 de l’Accord de libre-échange nord-américain, le montant des droits de douane perçus au titre du paragraphe (1) est réduit en conformité avec le paragraphe (5) si, dans les soixante jours suivant l’exportation, sont produits auprès du ministre du Revenu national les justificatifs, jugés convaincants par celui-ci, du paiement de droits de douane au gouvernement d’un pays ALÉNA autre que le Canada.
+- **(4)** Sauf dans le cas de marchandises visées au paragraphe 8 de l’article 303 de l’Accord de libre-échange nord-américain, le montant des droits de douane perçus au titre du paragraphe (1) est réduit en conformité avec le paragraphe (5) si, dans les soixante jours suivant l’exportation, sont produits auprès du ministre de la Sécurité publique et de la Protection civile les justificatifs, jugés convaincants par celui-ci, du paiement de droits de douane au gouvernement d’un pays ALÉNA autre que le Canada.
 
 **Réduction du montant**
 
@@ -2506,6 +2501,8 @@ c);
 **Définition de matières**
 
 - **(8)** Dans le présent article, ***matières*** s’entend des marchandises utilisées dans la transformation d’autres marchandises, y compris les pièces ou les ingrédients.
+> 1997, ch. 36, art. 95; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2547,34 +2544,20 @@ c);
 
 **Règlements**
 
-**99** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut, par règlement :
-- **a)
-** pour l’application de l’article 89 :
+**99** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement :
+- **a)** pour l’application de l’article 89 :
 	- **(i)** désigner les catégories de personnes qui peuvent demander l’exonération,
 	- **(ii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération ainsi que déterminer les cas et conditions d’inadmissibilité,
-	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l'exonération des droits perçus au titre des articles 21.1 à 21.3 ou de la 
-Loi sur les mesures spéciales d'importation, des surtaxes imposées en vertu des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires imposés au titre de l'un ou l'autre des articles 69 à 76.1, des taxes perçues au titre de la 
-Loi sur la taxe d'accise ou des droits imposés au titre de la 
-Loi de 2001 sur l'accise, et déterminer les cas d'inadmissibilité,
+	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes imposées en vertu des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits imposés au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et déterminer les cas d’inadmissibilité,
 	- **(iv)** fixer le délai, postérieur au dédouanement des marchandises, dans lequel ces marchandises ou les marchandises traitées au Canada doivent être exportées,
 	- **(v)** déterminer la fraction des droits exigibles qui peuvent faire l’objet de l’exonération;
-- **b)
-** prévoir, pour l’application de l’alinéa 89(1)
-a), les usages des marchandises qui peuvent être faits ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
-- **c)
-** désigner, pour l’application des alinéas 89(1)
-d) et 
-e), les marchandises réputées être de la même catégorie;
-- **d)
-** désigner :
-	- **(i)** les catégories de navires ou d’aéronefs, pour l’application de l’alinéa 89(3)
-b),
-	- **(ii)** les catégories de navires poseurs de câbles télégraphiques, pour l’application de l’alinéa 89(3)
-c);
-- **e)
-** pour l’application de l’article 90, déterminer les cas et conditions de délivrance, de modification, de suspension, de renouvellement, d’annulation ou de rétablissement du certificat;
-- **f)
-** pour l’application de l’article 91 :
+- **b)** prévoir, pour l’application de l’alinéa 89(1) a), les usages des marchandises qui peuvent être faits ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
+- **c)** désigner, pour l’application des alinéas 89(1) d) et e), les marchandises réputées être de la même catégorie;
+- **d)** désigner :
+	- **(i)** les catégories de navires ou d’aéronefs, pour l’application de l’alinéa 89(3) b),
+	- **(ii)** les catégories de navires poseurs de câbles télégraphiques, pour l’application de l’alinéa 89(3) c);
+- **e)** pour l’application de l’article 90, déterminer les cas et conditions de délivrance, de modification, de suspension, de renouvellement, d’annulation ou de rétablissement du certificat;
+- **f)** pour l’application de l’article 91 :
 	- **(i)** déterminer la compétence que doit posséder l’exploitant d’un entrepôt de stockage,
 	- **(ii)** fixer les conditions d’octroi de l’agrément d’exploitation d’un entrepôt de stockage, notamment en ce qui concerne les garanties à souscrire par l’exploitant, la durée de validité de l’agrément et les frais y afférents ou la manière de les déterminer,
 	- **(iii)** déterminer la nature et la forme des garanties exigées et fixer les conditions afférentes,
@@ -2588,22 +2571,16 @@ c);
 	- **(xi)** fixer le délai d’enlèvement des marchandises des entrepôts de stockage,
 	- **(xii)** déterminer les catégories de marchandises qui peuvent être confisquées si elles ne sont pas enlevées des entrepôts de stockage dans le délai réglementaire,
 	- **(xiii)** prendre toute autre mesure concernant l’exploitation des entrepôts de stockage;
-- **g)
-** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
+- **g)** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
 	- **(i)** leurs attributs physiques, leur fonction ou leur description officielle,
 	- **(ii)** les zones à l’intérieur desquelles ils voyagent,
 	- **(iii)** les exigences ou restrictions liées à leurs voyages,
 	- **(iv)** toute combinaison des critères mentionnés aux sous-alinéas (i) à (iii);
-- **g.1)
-** limiter la quantité de marchandises mentionnées à l’alinéa 
-g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de plusieurs périodes réglementaires;
-- **h)
-** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
-- **i)
-** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
-- **j)
-** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
-> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424.
+- **g.1)** limiter la quantité de marchandises mentionnées à l’alinéa g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de plusieurs périodes réglementaires;
+- **h)** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
+- **i)** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
+- **j)** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
+> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -2611,7 +2588,9 @@ g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de
 
 **Règlements**
 
-**100** Sur recommandation du ministre et du ministre du Revenu national, le gouverneur en conseil peut, par règlement, déterminer dans quelles circonstances et quelle mesure les marchandises peuvent, pendant leur séjour en entrepôt de stockage, être manutentionnées, déballées, emballées, modifiées ou combinées avec d’autres marchandises.
+**100** Sur recommandation du ministre et du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, déterminer dans quelles circonstances et quelle mesure les marchandises peuvent, pendant leur séjour en entrepôt de stockage, être manutentionnées, déballées, emballées, modifiées ou combinées avec d’autres marchandises.
+> 1997, ch. 36, art. 100; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2639,19 +2618,23 @@ g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de
 
 - **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** sur recommandation du ministre, fixer les modalités de désignation des marchandises qui sont réputées produites au Canada pour l’application du paragraphe (1);
-	- **b)** sur recommandation du ministre du Revenu national, définir ***aéronef***, ***navire*** et ***véhicule*** pour l’application du paragraphe (2).
+	- **b)** sur recommandation du ministre de la Sécurité publique et de la Protection civile, définir ***aéronef***, ***navire*** et ***véhicule*** pour l’application du paragraphe (2).
+> 1997, ch. 36, art. 101; 2005, ch. 38, art. 142 et 145.
+
 
 
 
 
 **Demandes**
 
-**102** Les demandes d’exonération prévues à l’article 101 :
-- **a)** comportent les justificatifs, que le ministre du Revenu national juge convaincants, établissant que les marchandises ont été exportées et que :
+**102** Les demandes d’exonération prévues à l’article 101 :
+- **a)** comportent les justificatifs, que le ministre de la Sécurité publique et de la Protection civile juge convaincants, établissant que les marchandises ont été exportées et que :
 	- **(i)** s’agissant des marchandises visées à l’alinéa 101(1)a), les réparations n’auraient pas pu être effectuées au Canada au lieu où elles étaient situées avant leur exportation, ou à une distance raisonnable de ce lieu,
 	- **(ii)** s’agissant de l’équipement visé à l’alinéa 101(1)b), il ne pouvait pas commodément être ajouté au Canada,
 	- **(iii)** s’agissant des marchandises visées à l’alinéa 101(1)c), les travaux n’auraient pas pu commodément être effectués au Canada;
-- **b)** sont présentées, dans le cas de celles qui sont prévues au paragraphe 101(2), lors du retour au Canada des marchandises visées, en la forme prescrite par le ministre du Revenu national et comportent les renseignements prescrits par lui.
+- **b)** sont présentées, dans le cas de celles qui sont prévues au paragraphe 101(2), lors du retour au Canada des marchandises visées, en la forme prescrite par le ministre de la Sécurité publique et de la Protection civile et comportent les renseignements prescrits par lui.
+> 1997, ch. 36, art. 102; 2005, ch. 38, art. 89(F), 142 et 145.
+
 
 
 
@@ -2685,7 +2668,9 @@ g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de
 
 **Règlements**
 
-- **(2)** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut par règlement, pour l’application du paragraphe (1), prévoir le mode de détermination de la valeur des réparations effectuées, de l’équipement ajouté ou du travail effectué à l’étranger.
+- **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement, pour l’application du paragraphe (1), prévoir le mode de détermination de la valeur des réparations effectuées, de l’équipement ajouté ou du travail effectué à l’étranger.
+> 1997, ch. 36, art. 105; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2694,8 +2679,7 @@ g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de
 
 **106** 
 
-- **(1)** Sur demande d'une personne d'une catégorie réglementaire, présentée dans les cas réglementaires, en la forme et selon les modalités réglementaires, et accompagnée des documents réglementaires et des garanties de nature réglementaire d'un montant que le ministre du Revenu national juge indiqué, est accordée l'exonération de la totalité ou de la fraction réglementaire des droits imposés au titre des articles 21.1 à 21.3 ou de la 
-Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, seraient exigibles relativement aux marchandises réglementaires qui sont importées et réexportées après avoir été utilisées au Canada à des fins réglementaires.
+- **(1)** Sur demande d’une personne d’une catégorie réglementaire, présentée dans les cas réglementaires, en la forme et selon les modalités réglementaires, et accompagnée des documents réglementaires et des garanties de nature réglementaire d’un montant que le ministre de la Sécurité publique et de la Protection civile juge indiqué, est accordée l’exonération de la totalité ou de la fraction réglementaire des droits imposés au titre des articles 21.1 à 21.3 ou de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou des taxes d’accise qui, sans le présent article, seraient exigibles relativement aux marchandises réglementaires qui sont importées et réexportées après avoir été utilisées au Canada à des fins réglementaires.
 
 **Dédouanement des marchandises**
 
@@ -2703,16 +2687,16 @@ Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, se
 
 **Conditions**
 
-- **(3)** L’exonération est assujettie aux conditions réglementaires et à la preuve, jugée convaincante par le ministre du Revenu national, que les marchandises ont été exportées dans l’année, ou dans le délai réglementaire le cas échéant, suivant le dédouanement des marchandises.
+- **(3)** L’exonération est assujettie aux conditions réglementaires et à la preuve, jugée convaincante par le ministre de la Sécurité publique et de la Protection civile, que les marchandises ont été exportées dans l’année, ou dans le délai réglementaire le cas échéant, suivant le dédouanement des marchandises.
 
 **Prorogation**
 
-- **(4)** Dans le cas où le ministre du Revenu national est convaincu qu’il est incommode ou impossible d’exporter les marchandises dans le délai déterminé en application du paragraphe (3), il peut, à l’égard de marchandises réglementaires, proroger le délai pour une période maximale de six mois.
+- **(4)** Dans le cas où le ministre de la Sécurité publique et de la Protection civile est convaincu qu’il est incommode ou impossible d’exporter les marchandises dans le délai déterminé en application du paragraphe (3), il peut, à l’égard de marchandises réglementaires, proroger le délai pour une période maximale de six mois.
 
 **Renonciation à la garantie**
 
-- **(5)** Le ministre du Revenu national peut renoncer à l’exigence de fournir une garantie prévue au paragraphe (1).
-> 1997, ch. 36, art. 106; 2002, ch. 22, art. 353.
+- **(5)** Le ministre de la Sécurité publique et de la Protection civile peut renoncer à l’exigence de fournir une garantie prévue au paragraphe (1).
+> 1997, ch. 36, art. 106; 2002, ch. 22, art. 353; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -2743,16 +2727,18 @@ Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, se
 
 **Remboursement ou annulation d’une garantie**
 
-**108** Le ministre du Revenu national rembourse ou annule une garantie qu’il détient concernant :
+**108** Le ministre de la Sécurité publique et de la Protection civile rembourse ou annule une garantie qu’il détient concernant :
 - **a)** l’agrément d’exploitation délivré en vertu de l’article 91, au moment de l’annulation de celui-ci;
 - **b)** les marchandises qui auraient été classées dans le n<sup>o</sup> tarifaire 9993.00.00, si elles avaient respecté les conditions de ce numéro, au moment de leur déclaration en détail en application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), tous les droits exigibles sur celles-ci étant payés;
-- **c)** les marchandises du n<sup>o</sup> tarifaire 9993.00.00, au moment où celles-ci sont détruites selon les instructions du ministre du Revenu national, ou si la destruction est attestée par l’agent des douanes ou par une autre personne désignée par ce ministre;
+- **c)** les marchandises du n<sup>o</sup> tarifaire 9993.00.00, au moment où celles-ci sont détruites selon les instructions du ministre de la Sécurité publique et de la Protection civile, ou si la destruction est attestée par l’agent des douanes ou par une autre personne désignée par le président de l’Agence des services frontaliers du Canada;
 - **d)** les marchandises d’un numéro tarifaire — sauf du n<sup>o</sup> tarifaire 9993.00.00 — aux termes duquel une garantie est exigée, au moment de leur exportation selon les modalités et dans le délai prévus par le numéro tarifaire visé ou dans le délai fixé ou prorogé par règlement;
 - **e)** les marchandises du n<sup>o</sup> tarifaire 9993.00.00, au moment de leur exportation, destruction, consommation ou absorption, selon les modalités et dans le délai prévus par ce numéro ou dans le délai fixé ou prorogé par règlement;
 - **f)** les demandes d’exonération faites en application de l’article 106, si les marchandises visées par la demande sont :
 	- **(i)** exportées dans le délai visé aux paragraphes 106(3) ou (4), selon le cas, et déclarées en détail en application de l’article 32 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et tous les droits et taxes exigibles sur celles-ci ont été payés,
-	- **(ii)** détruites selon les instructions du ministre du Revenu national,
+	- **(ii)** détruites selon les instructions du ministre de la Sécurité publique et de la Protection civile,
 	- **(iii)** exportées dans le délai visé aux paragraphes 106(3) ou (4), selon le cas.
+> 1997, ch. 36, art. 108; 2005, ch. 38, art. 88, 142 et 145.
+
 
 
 
@@ -2769,8 +2755,10 @@ Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, se
 	- **(i)** leur importateur ou propriétaire, dans le cas de marchandises importées,
 	- **(ii)** leur fabricant, producteur ou propriétaire, dans les autres cas;
 - **b)** ne sont pas utilisées au Canada;
-- **c)** sont détruites selon les instructions du ministre du Revenu national;
+- **c)** sont détruites selon les instructions du ministre de la Sécurité publique et de la Protection civile;
 - **d)** n’ont pas été endommagées avant leur destruction.
+> 1997, ch. 36, art. 109; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2788,18 +2776,22 @@ Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, se
 **Demandes**
 
 **111** Les demandes de remboursement prévues à l’article 110 :
-- **a)** comportent les renseignements prescrits par le ministre du Revenu national et sont présentées, en la forme qu’il prescrit, par :
+- **a)** comportent les renseignements prescrits par le ministre de la Sécurité publique et de la Protection civile et sont présentées, en la forme qu’il prescrit, par :
 	- **(i)** l’importateur ou le propriétaire des marchandises surannées ou excédentaires, dans les cas où ces marchandises ont été importées,
 	- **(ii)** le fabricant, le producteur ou le propriétaire des marchandises surannées ou excédentaires, dans tous les autres cas;
 - **b)** comportent la renonciation visée à l’article 119, le cas échéant, et les documents réglementaires;
 - **c)** sont présentées dans les cinq ans — ou, le cas échéant, dans le délai réglementaire — suivant le dédouanement des marchandises.
+> 1997, ch. 36, art. 111; 2005, ch. 38, art. 89(F) et 145.
+
 
 
 
 
 **Règlements**
 
-**112** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut, par règlement, déterminer quels documents doivent comporter les demandes prévues à l’article 110 et le délai de présentation de celles-ci.
+**112** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par règlement, déterminer quels documents doivent comporter les demandes prévues à l’article 110 et le délai de présentation de celles-ci.
+> 1997, ch. 36, art. 112; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2813,32 +2805,27 @@ Loi de 2001 sur l'accise ou des taxes d'accise qui, sans le présent article, se
 
 **113** 
 
-- **(1)** Sous réserve du paragraphe (2), de l’article 96 et des règlements d’application du paragraphe (4), est accordé une exonération ou un remboursement de tout ou partie des droits si, à la fois :
+- **(1)** Sous réserve du paragraphe (2), de l’article 96 et des règlements d’application du paragraphe (4), est accordé une exonération ou un remboursement de tout ou partie des droits si, à la fois :
 	- **a)** l’exonération ou le remboursement de tout ou partie des droits aurait pu être accordé en application des articles 89 ou 101, mais ne l’a pas été;
 	- **b)** les droits ont été payés en tout ou en partie;
 	- **c)** une demande est présentée en conformité avec le paragraphe (3) et l’article 119.
 
 **Produits du tabac**
 
-- **(2)** Il n'est accordé aucun remboursement ou drawback des droits imposés sur les produits du tabac en vertu de la 
-Loi de 2001 sur l'accise, sauf si le remboursement d'une fraction ou de la totalité des droits est prévu par la section 3.
+- **(2)** Il n’est accordé aucun remboursement ou drawback des droits imposés sur les produits du tabac en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), sauf si le remboursement d’une fraction ou de la totalité des droits est prévu par la section 3.
 
 **Demandes**
 
-- **(3)** Pour l’application du paragraphe (1), les demandes :
-	- **a)** comportent les justificatifs exigés par le ministre du Revenu national;
+- **(3)** Pour l’application du paragraphe (1), les demandes :
+	- **a)** comportent les justificatifs exigés par le ministre de la Sécurité publique et de la Protection civile;
 	- **b)** sont présentées par les personnes visées par règlement ou les personnes d’une catégorie réglementaire;
-	- **c)** sont présentées, en la forme prescrite par le ministre du Revenu national et comportent les renseignements prescrits par lui, dans les quatre ans — ou, le cas échéant, dans le délai réglementaire — suivant le dédouanement des marchandises;
+	- **c)** sont présentées, en la forme prescrite par le ministre de la Sécurité publique et de la Protection civile et comportent les renseignements prescrits par lui, dans les quatre ans — ou, le cas échéant, dans le délai réglementaire — suivant le dédouanement des marchandises;
 	- **d)** portent, pour l’application de l’article 89 dans les cas où les marchandises n’ont pas été exportées ou ne sont pas réputées exportées, le numéro indiqué sur le certificat délivré au titre de l’article 90.
 
 **Règlements**
 
-- **(4)** Pour l’application du présent article, le gouverneur en conseil peut, sur recommandation du ministre du Revenu national, préciser par règlement :
-	- **a)
-** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre des articles 21.1 à 21.3 ou de la 
-Loi sur les mesures spéciales d'importation, des surtaxes perçues au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires perçus au titre de l'un ou l'autre des articles 69 à 76.1, des taxes perçues au titre de la 
-Loi sur la taxe d'accise ou des droits perçus au titre de la 
-Loi de 2001 sur l'accise, ainsi que les cas d'inadmissibilité;
+- **(4)** Pour l’application du présent article, le gouverneur en conseil peut, sur recommandation du ministre de la Sécurité publique et de la Protection civile, préciser par règlement :
+	- **a)** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes perçues au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires perçus au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits perçus au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), ainsi que les cas d’inadmissibilité;
 	- **b)** la fraction des droits payés susceptible d’être versée au titre du remboursement ou du drawback;
 	- **c)** les personnes ou les catégories de celles-ci qui peuvent demander le remboursement ou le drawback;
 	- **d)** les usages qui peuvent être faits des marchandises ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
@@ -2850,10 +2837,8 @@ Loi de 2001 sur l'accise, ainsi que les cas d'inadmissibilité;
 
 **Marchandises désignées**
 
-- **(5)** Malgré l'exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la 
-Loi de 2001 sur l'accise ou de la 
-Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les marchandises désignées.
-> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354.
+- **(5)** Malgré l’exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) est accordé en application de l’alinéa (1)a) sur les marchandises désignées.
+> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145.
 
 
 
@@ -2876,7 +2861,7 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **115** 
 
-- **(1)** Sur recommandation du ministre ou du ministre du Revenu national, le gouverneur en conseil peut, par décret, remettre des droits.
+- **(1)** Sur recommandation du ministre ou du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut, par décret, remettre des droits.
 
 **Portée de l’exonération**
 
@@ -2885,6 +2870,8 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 **Remise par remboursement**
 
 - **(3)** Dans le cas où les droits ont déjà été payés, la remise est effectuée par remboursement des droits à remettre.
+> 1997, ch. 36, art. 115; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2905,7 +2892,9 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **Somme substitutive**
 
-**117** S’il est difficile d’établir le montant exact soit de l’exonération prévue à l’article 89, du remboursement prévu à l’article 110 ou du remboursement ou du drawback demandé en vertu de l’article 113, soit d’une remise générale demandée pour certaines marchandises en application de l’article 23 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou en application de l’article 115, le ministre du Revenu national peut accorder au demandeur, avec le consentement de celui-ci, une somme en tenant lieu, dont il détermine le montant.
+**117** S’il est difficile d’établir le montant exact soit de l’exonération prévue à l’article 89, du remboursement prévu à l’article 110 ou du remboursement ou du drawback demandé en vertu de l’article 113, soit d’une remise générale demandée pour certaines marchandises en application de l’article 23 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou en application de l’article 115, le ministre de la Sécurité publique et de la Protection civile peut accorder au demandeur, avec le consentement de celui-ci, une somme en tenant lieu, dont il détermine le montant.
+> 1997, ch. 36, art. 117; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -2916,7 +2905,7 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 - **(1)** Si, en cas d’exonération ou de remise accordée en application de la présente loi, sauf l’article 92, ou de remise accordée en application de l’article 23 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), une condition de l’exonération ou de la remise n’est pas observée, la personne défaillante est tenue, dans les quatre-vingt-dix jours ou dans le délai réglementaire suivant le moment de l’inobservation, de :
 	- **a)** déclarer celle-ci à un agent d’un bureau de douane;
-	- **b)** payer à Sa Majesté du chef du Canada les droits faisant l’objet de l’exonération ou de la remise, sauf si elle peut produire avec sa déclaration les justificatifs, que le ministre du Revenu national juge convaincants, pour établir un des faits suivants :
+	- **b)** payer à Sa Majesté du chef du Canada les droits faisant l’objet de l’exonération ou de la remise, sauf si elle peut produire avec sa déclaration les justificatifs, que le ministre de la Sécurité publique et de la Protection civile juge convaincants, pour établir un des faits suivants :
 		- **(i)** au moment de l’inobservation de la condition, un drawback ou un remboursement aurait été accordé si les droits avaient été payés,
 		- **(ii)** les marchandises sont admissibles à un autre titre à l’exonération ou à la remise prévue par la présente loi ou à la remise prévue par la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
@@ -2933,15 +2922,19 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 **Règlements**
 
 - **(4)** Le gouverneur en conseil peut, par règlement déterminer :
-	- **a)** sur recommandation du ministre du Revenu national, soit le délai d’application du paragraphe (1) et les marchandises ou catégories de marchandises visées, soit les cas dans lesquels ce délai s’applique;
+	- **a)** sur recommandation du ministre de la Sécurité publique et de la Protection civile, soit le délai d’application du paragraphe (1) et les marchandises ou catégories de marchandises visées, soit les cas dans lesquels ce délai s’applique;
 	- **b)** sur recommandation du ministre, les cas dans lesquels certaines marchandises sont soustraites à l’application du paragraphe (1), les marchandises ou catégories de marchandises ainsi soustraites et la durée et les conditions de l’exemption.
+> 1997, ch. 36, art. 118; 2005, ch. 38, art. 142 et 145.
+
 
 
 
 
 **Renonciations**
 
-**119** Les demandes présentées en vertu des articles 110 ou 113 comportent, en la forme prescrite par le ministre du Revenu national, la renonciation par laquelle toute autre personne admissible au drawback, au remboursement ou à la remise des droits y renonce.
+**119** Les demandes présentées en vertu des articles 110 ou 113 comportent, en la forme prescrite par le ministre de la Sécurité publique et de la Protection civile, la renonciation par laquelle toute autre personne admissible au drawback, au remboursement ou à la remise des droits y renonce.
+> 1997, ch. 36, art. 119; 2005, ch. 38, art. 89(F) et 145.
+
 
 
 
@@ -3037,7 +3030,9 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **Autorisation visant le taux réglementaire**
 
-**125** Le ministre du Revenu national peut autoriser toute personne tenue, au titre d’une disposition de la présente loi, de payer des intérêts à un taux déterminé à les payer au taux réglementaire.
+**125** Le ministre de la Sécurité publique et de la Protection civile peut autoriser toute personne tenue, au titre d’une disposition de la présente loi, de payer des intérêts à un taux déterminé à les payer au taux réglementaire.
+> 1997, ch. 36, art. 125; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -3046,11 +3041,13 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **126** 
 
-- **(1)** Le ministre du Revenu national peut, à tout moment, annuler le paiement de tout ou partie des intérêts exigibles en vertu de la présente partie, ou y renoncer.
+- **(1)** Le ministre de la Sécurité publique et de la Protection civile peut, à tout moment, annuler le paiement de tout ou partie des intérêts exigibles en vertu de la présente partie, ou y renoncer.
 
 **Intérêts sur remboursement d’intérêts**
 
 - **(2)** Quiconque est remboursé, par suite d’une renonciation ou d’une annulation visée au paragraphe (1), d’intérêts payés reçoit, en plus du remboursement, des intérêts au taux réglementaire, calculés sur le remboursement pour la période commençant le lendemain du paiement et se terminant le jour de l’octroi du remboursement.
+> 1997, ch. 36, art. 126; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -3084,20 +3081,24 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **Règlements**
 
-**129** Le ministre du Revenu national peut, par règlement :
+**129** Le ministre de la Sécurité publique et de la Protection civile peut, par règlement :
 - **a)** pour l’application des n<sup>os</sup> tarifaires 9813.00.00 ou 9814.00.00, autoriser l’importation en franchise douanière des conteneurs non originaires du Canada, s’il est convaincu qu’une quantité comparable de conteneurs utilisables a été exportée;
 - **b)** pour l’application du n<sup>o</sup> tarifaire 9897.00.00, préciser :
 	- **(i)** les conditions d’importation des spécimens d’aigrettes, de plumes d’aigrettes ou de plumes d’orfraie, et des plumes, grandes plumes, têtes, ailes, queues, peaux ou parties de peau d’oiseaux sauvages de ce numéro tarifaire pour un musée ou à des fins scientifiques ou éducatives,
 	- **(ii)** les modalités de nettoyage et de fumigation des matières provenant de matelas usagés ou d’occasion ainsi que les certificats qui doivent les accompagner.
+> 1997, ch. 36, art. 129; 2005, ch. 38, art. 142 et 145.
 
 
 
 
-**Pouvoirs du ministre du Revenu national**
 
-**130** Le ministre du Revenu national peut :
+**Pouvoirs du ministre de la Sécurité publique et de la Protection civile**
+
+**130** Le ministre de la Sécurité publique et de la Protection civile peut :
 - **a)** déterminer la documentation qui est acceptable pour l’application du n<sup>o</sup> tarifaire 9827.00.00;
 - **b)** reconnaître les autorités, les représentants ou les délégués d’un pays d’origine comme étant compétents pour l’application des conditions de classement de marchandises dans un numéro tarifaire.
+> 1997, ch. 36, art. 130; 2005, ch. 38, art. 142 et 145.
+
 
 
 
@@ -3164,7 +3165,7 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **Règlements**
 
-**133** Sur recommandation du ministre du Revenu national, le gouverneur en conseil peut par règlement :
+**133** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement :
 - **a)** pour l’application de l’article 101, préciser :
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
 	- **(ii)** les justificatifs nécessaires pour établir l’exportation des marchandises;
@@ -3172,15 +3173,15 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 - **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.00, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
 - **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
 	- **(i)** fixer les conditions de l’importation des moyens de transport,
-	- **(ii)** limiter le délai pendant lequel un moyen de transport importé peut rester au Canada, ainsi que l’usage qui peut en être fait pendant son séjour au Canada, et autoriser le ministre du Revenu national à proroger le délai,
+	- **(ii)** limiter le délai pendant lequel un moyen de transport importé peut rester au Canada, ainsi que l’usage qui peut en être fait pendant son séjour au Canada, et autoriser le ministre de la Sécurité publique et de la Protection civile à proroger le délai,
 	- **(iii)** soustraire une catégorie de moyens de transport au classement dans ce numéro tarifaire,
-	- **(iv)** autoriser le ministre du Revenu national à exiger une garantie à l’égard des moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
+	- **(iv)** autoriser le ministre de la Sécurité publique et de la Protection civile à exiger une garantie à l’égard des moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
 - **e)** pour l’application du n<sup>o</sup> tarifaire 9803.00.00 :
-	- **(i)** fixer les conditions de l’importation des marchandises ou des moyens de transport et autoriser le ministre du Revenu national à établir de telles conditions dans des cas spécifiques,
-	- **(ii)** limiter la quantité de toute catégorie de marchandises pouvant être importées et autoriser le ministre du Revenu national à accroître cette quantité dans des cas spécifiques,
-	- **(iii)** limiter le délai pendant lequel des marchandises ou des moyens de transport importés peuvent rester au Canada et autoriser le ministre du Revenu national à proroger ce délai,
+	- **(i)** fixer les conditions de l’importation des marchandises ou des moyens de transport et autoriser le ministre de la Sécurité publique et de la Protection civile à établir de telles conditions dans des cas spécifiques,
+	- **(ii)** limiter la quantité de toute catégorie de marchandises pouvant être importées et autoriser le ministre de la Sécurité publique et de la Protection civile à accroître cette quantité dans des cas spécifiques,
+	- **(iii)** limiter le délai pendant lequel des marchandises ou des moyens de transport importés peuvent rester au Canada et autoriser le ministre de la Sécurité publique et de la Protection civile à proroger ce délai,
 	- **(iv)** soustraire une catégorie de marchandises ou de moyens de transport au classement dans ce numéro tarifaire,
-	- **(v)** autoriser le ministre du Revenu national à exiger une garantie à l’égard de marchandises ou de moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
+	- **(v)** autoriser le ministre de la sécurité publique et de la Protection civile à exiger une garantie à l’égard de marchandises ou de moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
 - **f)** pour l’application de la position n<sup>o</sup> 98.04 et des n<sup>os</sup> tarifaires 9807.00.00, 9813.00.00, 9814.00.00, 9816.00.00, 9938.00.00 et 9989.00.00, fixer les conditions de l’importation de marchandises;
 - **g)** pour l’application du n<sup>o</sup> tarifaire 9805.00.00 :
 	- **(i)** soustraire des marchandises ou des catégories de marchandises importées par toute catégorie de personnes visée par ce numéro tarifaire de toute exigence relative à la durée de la propriété, de la possession ou de l’usage des marchandises à l’étranger,
@@ -3197,9 +3198,9 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 - **k)** pour l’application du n<sup>o</sup> tarifaire 9993.00.00 :
 	- **(i)** proroger la période pendant laquelle les marchandises importées au titre de ce numéro tarifaire peuvent rester au Canada, dans le cas où il est incommode ou impossible pour l’importateur d’exporter les marchandises,
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
-	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre du Revenu national estime indiquée;
+	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre  de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -3209,12 +3210,12 @@ Loi sur la taxe d'accise est accordé en application de l'alinéa (1)a) sur les 
 
 **134** 
 
-- **(1)** Le ministre du Revenu national ou le commissaire des douanes et du revenu peuvent, par arrêté, suspendre pendant une période spécifiée l’application d’un numéro tarifaire visé à la Note supplémentaire 2c) du Chapitre 7 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 2b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
+- **(1)** Le ministre de la Sécurité publique et de la Protection civile ou le président de l’Agence des services frontaliers du Canada peuvent, par arrêté, suspendre pendant une période spécifiée l’application d’un numéro tarifaire visé à la Note supplémentaire 2c) du Chapitre 7 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 2b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
 
 **Arrêtés**
 
-- **(2)** Le ministre du Revenu national ou le commissaire des douanes et du revenu peuvent, par arrêté, suspendre pendant une période donnée l’application d’un numéro tarifaire visé à la Note supplémentaire 4c) du Chapitre 8 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 4b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
-> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131.
+- **(2)** Le ministre de la Sécurité publique et de la Protection civile ou le président de l’Agence des services frontaliers du Canada peuvent, par arrêté, suspendre pendant une période donnée l’application d’un numéro tarifaire visé à la Note supplémentaire 4c) du Chapitre 8 de la liste des dispositions tarifaires et faire entrer en vigueur pour la période un ou plusieurs numéros tarifaires visés à la Note supplémentaire 4 b) de ce chapitre en ce qui concerne des marchandises qui sont importées pendant cette période à un bureau de douane dans une région ou une partie du Canada donnée.
+> 1997, ch. 36, art. 134; 1999, ch. 17, art. 131; 2005, ch. 38, art. 141, 142 et 145.
 
 
 
