@@ -43,6 +43,8 @@
 
 ***ministre*** Le ministre des Finances.
 
+***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
+
 ***produits textiles et vêtements*** Les produits textiles et les vêtements qui figurent, selon le cas, à l’appendice 1.1 de l’annexe 300-B de l’Accord, à l’appendice 1.1 de l’annexe C-00-B de l’ALÉCC ou à l’appendice III.1.1.1 de l’annexe III.1 de l’ALÉCCR.
 
 ***Tribunal*** Le Tribunal canadien du commerce extérieur constitué par le paragraphe 3(1).
@@ -73,7 +75,7 @@
 **Marchandises importées d’un pays ALÉNA, du Chili ou du Costa Rica**
 
 - **(5)** Pour l’application de la présente loi, sont des marchandises importées d’un pays ALÉNA, du Chili ou du Costa Rica les marchandises transportées directement au Canada de ce pays ALÉNA, du Chili ou du Costa Rica, selon le cas, conformément aux articles 17 et 18 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54.
 
 
 
@@ -825,15 +827,15 @@
 
 **Dumping et subventionnement**
 
-- **(4)** Si avant d’ouvrir une enquête, le Tribunal en vient à la conclusion que la cause du dommage allégué dans la plainte ou de la menace d’un tel dommage paraît être le dumping ou le subventionnement des marchandises, au sens de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), il défère sans délai au commissaire des douanes et du revenu la plainte pour étude dans le cadre de cette loi. Le cas échéant, il notifie sans délai le renvoi au plaignant et aux autres intéressés.
+- **(4)** Si avant d’ouvrir une enquête, le Tribunal en vient à la conclusion que la cause du dommage allégué dans la plainte ou de la menace d’un tel dommage paraît être le dumping ou le subventionnement des marchandises, au sens de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), il défère sans délai au président la plainte pour étude dans le cadre de cette loi. Le cas échéant, il notifie sans délai le renvoi au plaignant et aux autres intéressés.
 
-**Enquête sur une plainte déférée au commissaire**
+**Enquête sur une plainte déférée au président**
 
-- **(5)** Dans le cas où il défère la plainte au commissaire des douanes et du revenu, le Tribunal peut ouvrir une enquête si les conditions suivantes s’appliquent :
-	- **a)** le commissaire n’ouvre pas d’enquête, visée par la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), concernant le dumping ou le subventionnement des marchandises en cause ou, s’il en ouvre une, il la clôt en vertu des articles 35 ou 41 de cette loi;
+- **(5)** Dans le cas où il défère la plainte au président, le Tribunal peut ouvrir une enquête si les conditions suivantes s’appliquent :
+	- **a)** le président n’ouvre pas d’enquête, visée par la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), concernant le dumping ou le subventionnement des marchandises en cause ou, s’il en ouvre une, il la clôt en vertu des articles 35 ou 41 de cette loi;
 	- **b)** le plaignant le lui demande :
-		- **(i)** soit, dans le cas où le commissaire n’ouvre pas d’enquête, dans les trente jours suivant la transmission de l’avis visé au paragraphe 33(1) de cette loi ou, dans le cas prévu au paragraphe 33(2) de cette loi, dans les trente jours suivant celui où le Tribunal se prononce sur la question en cause,
-		- **(ii)** soit, dans le cas où le commissaire clôt son enquête en vertu des articles 35 ou 41 de cette loi, dans les trente jours suivant la transmission de l’avis visé à l’un ou l’autre de ces articles.
+		- **(i)** soit, dans le cas où le président n’ouvre pas d’enquête, dans les trente jours suivant la transmission de l’avis visé au paragraphe 33(1) de cette loi ou, dans le cas prévu au paragraphe 33(2) de cette loi, dans les trente jours suivant celui où le Tribunal se prononce sur la question en cause,
+		- **(ii)** soit, dans le cas où le président clôt son enquête en vertu des articles 35 ou 41 de cette loi, dans les trente jours suivant la transmission de l’avis visé à l’un ou l’autre de ces articles.
 
 **Prorogation du délai**
 
@@ -842,7 +844,7 @@
 **Délai pour ouvrir une enquête**
 
 - **(7)** Lorsque, en raison du paragraphe 55(5) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou du paragraphe 5(3.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le décret visé au paragraphe 5(3) de cette loi ou au paragraphe 55(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ne peut être pris, pendant une période donnée, à l’égard de marchandises, le Tribunal peut ouvrir l’enquête prévue au paragraphe (1) au plus tôt dans les cent quatre-vingts jours précédant la fin de la période en question.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55.
 
 
 
@@ -889,24 +891,24 @@
 
 
 
-**Renvoi au commissaire**
+**Renvoi au président**
 
 **28** 
 
-- **(1)** S’il en vient à la conclusion, alors qu’il enquête sur une plainte, que la cause du dommage allégué dans celle-ci ou de la menace d’un tel dommage paraît être le dumping ou le subventionnement des marchandises au sens de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), sans délai, le Tribunal ajourne l’enquête, en notifie le plaignant et les autres intéressés et en avise par écrit le commissaire des douanes et du revenu auquel il transmet la plainte pour étude dans le cadre de cette loi.
+- **(1)** S’il en vient à la conclusion, alors qu’il enquête sur une plainte, que la cause du dommage allégué dans celle-ci ou de la menace d’un tel dommage paraît être le dumping ou le subventionnement des marchandises au sens de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), sans délai, le Tribunal ajourne l’enquête, en notifie le plaignant et les autres intéressés et en avise par écrit le président auquel il transmet la plainte pour étude dans le cadre de cette loi.
 
 **Reprise de l’enquête**
 
-- **(2)** Dans le cas prévu au paragraphe (1), le Tribunal reprend l’enquête si les conditions suivantes s’appliquent :
-	- **a)** le commissaire n’ouvre pas d’enquête, visée par la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), concernant le dumping ou le subventionnement des marchandises en cause ou, s’il en ouvre une, il la clôt en vertu des articles 35 ou 41 de cette loi;
-	- **b)** le plaignant le lui demande :
-		- **(i)** soit, dans le cas où le commissaire n’ouvre pas d’enquête, dans les trente jours suivant la transmission de l’avis visé au paragraphe 33(1) de cette loi ou, dans le cas prévu au paragraphe 33(2) de cette loi, dans les trente jours suivant celui où le Tribunal se prononce sur la question en cause,
-		- **(ii)** soit, dans le cas où le commissaire clôt son enquête en vertu des articles 35 ou 41 de cette loi, dans les trente jours suivant la transmission de l’avis visé à l’un ou l’autre de ces articles.
+- **(2)** Dans le cas prévu au paragraphe (1), le Tribunal reprend l’enquête si les conditions suivantes s’appliquent :
+	- **a)** le président n’ouvre pas d’enquête, visée par la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), concernant le dumping ou le subventionnement des marchandises en cause ou, s’il en ouvre une, il la clôt en vertu des articles 35 ou 41 de cette loi;
+	- **b)** le plaignant le lui demande :
+		- **(i)** soit, dans le cas où le président n’ouvre pas d’enquête, dans les trente jours suivant la transmission de l’avis visé au paragraphe 33(1) de cette loi ou, dans le cas prévu au paragraphe 33(2) de cette loi, dans les trente jours suivant celui où le Tribunal se prononce sur la question en cause,
+		- **(ii)** soit, dans le cas où le président clôt son enquête en vertu des articles 35 ou 41 de cette loi, dans les trente jours suivant la transmission de l’avis visé à l’un ou l’autre de ces articles.
 
 **Clôture de l’enquête**
 
 - **(3)** S’il décide de ne pas reprendre l’enquête parce que les conditions requises à cet effet ne s’appliquent pas, le Tribunal clôt l’enquête et en notifie sans délai le plaignant et les autres intéressés.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 28; 1994, ch. 13, art. 7, ch. 47, art. 46(F); 1999, ch. 12, art. 58, ch. 17, art. 114 et 115.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 28; 1994, ch. 13, art. 7, ch. 47, art. 46(F); 1999, ch. 12, art. 58, ch. 17, art. 114 et 115; 2005, ch. 38, art. 55.
 
 
 
@@ -2033,10 +2035,10 @@ Si elle fait défaut d’agir dans le délai, le Tribunal ne peut tenir compte d
 
 **Autres renseignements**
 
-**49** Ne peuvent être sciemment fournis par les agents de l’administration publique fédérale et les membres de manière à pouvoir être utilisés par des concurrents ou rivaux de la personne dont l’entreprise ou les activités sont concernées par eux les pièces ou renseignements suivants en leur possession :
+**49** Ne peuvent être sciemment fournis par les agents de l’administration publique fédérale et les membres de manière à pouvoir être utilisés par des concurrents ou rivaux de la personne dont l’entreprise ou les activités sont concernées par eux les pièces ou renseignements suivants en leur possession :
 - **a)** ceux qui sont, de l’avis du Tribunal, confidentiels de nature et qui sont fournis ou obtenus au cours d’une procédure devant lui;
-- **b)** ceux qui sont déposés auprès du secrétaire conformément à l’alinéa 37a) ou 38(3)b) ou au paragraphe 76.03(9) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) et à propos desquels le commissaire des douanes et du revenu a indiqué par écrit au Tribunal qu’ils faisaient l’objet de l’application du paragraphe 84(1) de cette loi.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115; 2003, ch. 22, art. 224(A).
+- **b)** ceux qui sont déposés auprès du secrétaire conformément à l’alinéa 37a) ou 38(3)b) ou au paragraphe 76.03(9) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) et à propos desquels le président des douanes et du revenu a indiqué par écrit au Tribunal qu’ils faisaient l’objet de l’application du paragraphe 84(1) de cette loi.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 49; 1994, ch. 13, art. 7; 1999, ch. 12, art. 60, ch. 17, art. 114 et 115; 2003, ch. 22, art. 224(A); 2005, ch. 38, art. 55.
 
 
 
