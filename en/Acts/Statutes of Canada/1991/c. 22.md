@@ -252,8 +252,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 
 **Disclosure of information**
 
-**11** Information submitted for the purposes of administering a program established under an agreement may be communicated, disclosed or made available to an official of the Canada Customs and Revenue Agency solely for the purposes of administering or enforcing the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 1991, c. 22, s. 11; 1999, c. 17, s. 159.
+**11** Information submitted for the purposes of administering a program established under an agreement may be communicated, disclosed or made available to an official of the Canada Revenue Agency solely for the purposes of administering or enforcing the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> 1991, c. 22, s. 11; 1999, c. 17, s. 159; 2005, c. 38, s. 138.
 
 
 
