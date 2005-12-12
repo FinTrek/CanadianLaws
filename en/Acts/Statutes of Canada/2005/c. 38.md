@@ -37,17 +37,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***Agency*** means the Canada Border Services Agency established under subsection 3(1).
+***Agency*** means the Canada Border Services Agency established under subsection 3(1). (*Agence*)
 
-***Minister*** means the Solicitor General of Canada.
+***Minister*** means the Minister of Public Safety and Emergency Preparedness. (*ministre*)
 
-***President*** means the President of the Agency appointed under subsection 7(1).
+***President*** means the President of the Agency appointed under subsection 7(1). (*président*)
 
-***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument,
+***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument,
 - **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to administer and enforce, including the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md);
 - **(b)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to enforce, including the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) and the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md);
 - **(c)** under which the Minister or another minister authorizes the Agency, the President or an employee of the Agency to administer a program or carry out an activity; or
-- **(d)** under which duties or taxes collected and paid pursuant to the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) are imposed.
+- **(d)** under which duties or taxes collected and paid pursuant to the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) are imposed. (*législation frontalière*)
+> 2005, c. 38, ss. 2, 145.
+
 
 
 
@@ -184,7 +186,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Deemed employment**
 
-- **(3)** The President and the Executive Vice-president are deemed to be employed in the Public Service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the public service of Canada for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+- **(3)** The President and the Executive Vice-president are deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+> 2005, c. 38, ss. 10, 144(E).
+
 
 
 
@@ -274,7 +278,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **15.1** 
 
-- **(1)** The Minister shall, as soon as possible after the end of each fiscal year but no later than the end of the calendar year in which that fiscal year ends, cause to be laid before each House of Parliament a report of the operations and performance of the Agency for that fiscal year. 
+- **(1)** The Minister shall, as soon as possible after the end of each fiscal year but no later than the end of the calendar year in which that fiscal year ends, cause to be laid before each House of Parliament a report of the operations and performance of the Agency for that fiscal year.
 
 **Reports required by Treasury Board**
 
@@ -295,11 +299,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16** The following definitions apply in sections 17 to 19 and 21 to 28.
 
-***former agency*** means the portion of the public service of Canada known as the Canada Border Services Agency.
+***former agency*** means the portion of the federal public administration known as the Canada Border Services Agency. (*ancienne agence*)
 
-***new agency*** means the Canada Border Services Agency established under subsection 3(1).
+***new agency*** means the Canada Border Services Agency established under subsection 3(1). (*nouvelle agence*)
 
-***order P.C. 2003-2064*** means Order in Council P.C. 2003-2064 of December 12, 2003, registered as SI/2003-216.
+***order P.C. 2003-2064*** means Order in Council P.C. 2003-2064 of December 12, 2003, registered as SI/2003-216. (*décret C.P. 2003-2064*)
+> 2005, c. 38, ss. 16, 144(E).
+
 
 
 
@@ -329,11 +335,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18** 
 
-- **(1)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the public service of Canada for the former agency that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the public service of Canada for the new agency.
+- **(1)** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration for the former agency that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the federal public administration for the new agency.
 
 **Transfer of powers, duties and functions**
 
-- **(2)** Wherever under any Act, order, rule or regulation, or any contract, lease, licence or other document, any power, duty or function is vested in or exercisable by the President of the former agency or an employee of the former agency, the power, duty or function is vested in and shall be exercised by the President of the new agency or an employee of the new agency unless the Governor in Council by order designates a deputy minister or an officer of the public service of Canada to exercise that power or perform that duty or function.
+- **(2)** Wherever under any Act, order, rule or regulation, or any contract, lease, licence or other document, any power, duty or function is vested in or exercisable by the President of the former agency or an employee of the former agency, the power, duty or function is vested in and shall be exercised by the President of the new agency or an employee of the new agency unless the Governor in Council by order designates a deputy minister or an officer of the federal public administration to exercise that power or perform that duty or function.
 
 **Continuation of proceedings**
 
@@ -350,6 +356,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Continuation of evidentiary presumption**
 
 - **(6)** Every affidavit sworn, or document purporting to be certified, by an employee of the former agency before the day on which this section comes into force has the same probative value as if it were sworn or certified by an employee of the new agency after that day.
+> 2005, c. 38, ss. 18, 144(E).
+
 
 
 
@@ -1123,6 +1131,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#C-1.4_e_s147'>[*]</a></sup>**147** This Act, except for sections 144 to 146, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='C-1.4_e_s147'><sup>*</sup></a>: [Note: Sections 144 to 146 in force on assent November 3, 2005.]<br />
+<a name='C-1.4_e_s147'><sup>*</sup></a>: [Note: Sections 144 to 146 in force on assent November 3, 2005; Act, except sections 144 to 146, in force December 12, 2005, *see* SI/2005-119.]<br />
 
 
