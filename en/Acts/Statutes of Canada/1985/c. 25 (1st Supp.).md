@@ -33,53 +33,53 @@
 
 - **(1)** In this Act,
 
-***advertise*** includes the making of a representation by any means whatever for the purpose of promoting, directly or indirectly, the sale or disposal of a meat product;
+***advertise*** includes the making of a representation by any means whatever for the purpose of promoting, directly or indirectly, the sale or disposal of a meat product; (*publicité*)
 
-***analyst*** means a person designated as an analyst pursuant to subsection 12(1);
+***analyst*** means a person designated as an analyst pursuant to subsection 12(1); (*analyste*)
 
-***animal*** means any animal in the class of mammals or birds and includes any other animal that is prescribed for the purposes of this Act or that falls within a class of animals prescribed for those purposes;
+***animal*** means any animal in the class of mammals or birds and includes any other animal that is prescribed for the purposes of this Act or that falls within a class of animals prescribed for those purposes; (*animal*)
 
-***carcass*** means the body of a dead animal;
+***carcass*** means the body of a dead animal; (*carcasse*)
 
-***establishment*** means any place in which animals are slaughtered or meat products are prepared, packaged, labelled or stored;
+***establishment*** means any place in which animals are slaughtered or meat products are prepared, packaged, labelled or stored; (*établissement*)
 
-***inspector*** means a person designated as an inspector pursuant to subsection 12(1);
+***inspector*** means a person designated as an inspector pursuant to subsection 12(1) or (1.1); (*inspecteur*)
 
-***label*** includes any legend, word, mark, symbol, design, imprint, stamp, brand, ticket or tag or any combination thereof that is or is to be applied or attached to or included in, or that accompanies or is to accompany, any meat product, package or animal;
+***label*** includes any legend, word, mark, symbol, design, imprint, stamp, brand, ticket or tag or any combination thereof that is or is to be applied or attached to or included in, or that accompanies or is to accompany, any meat product, package or animal; (*étiquette*)
 
-***meat inspection legend*** means any prescribed meat inspection legend;
+***meat inspection legend*** means any prescribed meat inspection legend; (*estampille*)
 
-***meat product*** means
+***meat product*** means
 - **(a)** a carcass,
 - **(b)** the blood of an animal or a product or by-product of a carcass, or
-- **(c)** a product containing anything described in paragraph (b);
+- **(c)** a product containing anything described in paragraph (b); (*produit de viande*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***package*** means an inner or outer receptacle or covering used or to be used in connection with a meat product;
+***package*** means an inner or outer receptacle or covering used or to be used in connection with a meat product; (*emballage*)
 
-***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation;
+***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation; (*sanction*)
 
-***person*** includes any individual, corporation, partnership or organization;
+***person*** includes any individual, corporation, partnership or organization; (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations;
+***prescribed*** means prescribed by the regulations; (***Version anglaise seulement***)
 
-***registered establishment*** means an establishment registered in accordance with the regulations;
+***registered establishment*** means an establishment registered in accordance with the regulations; (*établissement agréé*)
 
-***sell*** includes
+***sell*** includes
 - **(a)** to agree to sell,
 - **(b)** to offer, keep, expose, transmit, send, convey or deliver for sale,
 - **(c)** to exchange or agree to exchange, and
-- **(d)** to dispose of, or agree to dispose of, to any person in any manner for a consideration;
+- **(d)** to dispose of, or agree to dispose of, to any person in any manner for a consideration; (*vente*)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md);
+***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Commission*)
 
-***violation*** means any contravention of this Act or the regulations that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md).
+***violation*** means any contravention of this Act or the regulations that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md). (*violation*)
 
 **Binding on Her Majesty**
 
 - **(2)** This Act is binding on Her Majesty in right of Canada or a province.
-> R.S., 1985, c. 25 (1st Supp.), s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 64; 1997, c. 6, s. 72.
+> R.S., 1985, c. 25 (1st Supp.), s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 64; 1997, c. 6, s. 72; 2005, c. 38, s. 121.
 
 
 
@@ -220,10 +220,14 @@ unless the meat product complies with prescribed standards and is packaged and l
 
 - **(1)** The President of the Canadian Food Inspection Agency may designate under section 13 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) the inspectors and analysts for the purposes of this Act.
 
+**Designation**
+
+- **(1.1)** The President of the Canada Border Services Agency may designate inspectors under paragraph 9(2)(b) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) for the purposes of enforcing this Act.
+
 **Certificate to be produced**
 
-- **(2)** Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency attesting to their designation and, on entering any place or vehicle referred to in subsection 13(1), an inspector shall, if so required, produce the certificate to the person in charge of that place or vehicle.
-> R.S., 1985, c. 25 (1st Supp.), s. 12; 1997, c. 6, s. 73.
+- **(2)** Inspectors shall be given certificates in a form established by the President of the Canadian Food Inspection Agency or the President of the Canada Border Services Agency, as the case may be, attesting to their designation and, on entering any place or vehicle referred to in subsection 13(1), an inspector shall, if so required, produce the certificate to the person in charge of that place or vehicle.
+> R.S., 1985, c. 25 (1st Supp.), s. 12; 1997, c. 6, s. 73; 2005, c. 38, s. 122.
 
 
 
