@@ -230,8 +230,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Communication de renseignements**
 
-**11** Les renseignements fournis relativement à la gestion du régime ou programme institué au titre d’un accord peuvent être communiqués à un fonctionnaire de l’Agence des douanes et du revenu du Canada, mais uniquement en vue de l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-> 1991, ch. 22, art. 11; 1999, ch. 17, art. 159.
+**11** Les renseignements fournis relativement à la gestion du régime ou programme institué au titre d’un accord peuvent être communiqués à un fonctionnaire de l’Agence du revenu du Canada, mais uniquement en vue de l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+> 1991, ch. 22, art. 11; 1999, ch. 17, art. 159; 2005, ch. 38, art. 138.
 
 
 
