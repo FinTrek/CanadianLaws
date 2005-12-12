@@ -35,11 +35,11 @@ Sanctionnée sur le 27 mars 2002
 
 ***aéroport désigné*** Aéroport visé par règlement ou dont le nom figure à l’annexe.
 
-***Agence*** L’Agence des douanes et du revenu du Canada, créée par le paragraphe 4(1) de la Loi sur l’Agence des douanes et du revenu du Canada.
+***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
 
 ***banque*** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou banque étrangère autorisée, au sens de cet article, qui ne fait pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
 
-***commissaire*** Le commissaire des douanes et du revenu, nommé au titre de l’article 25 de la Loi sur l’Agence des douanes et du revenu du Canada.
+***commissaire*** Le commissaire du revenu, nommé  en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
 
 ***cotisation*** Cotisation ou nouvelle cotisation établie en vertu de la présente loi.
 
@@ -122,6 +122,8 @@ Sanctionnée sur le 27 mars 2002
 - **a)** Le Canada;
 - **b)** les États-Unis, à l’exception d’Hawaï;
 - **c)** Saint-Pierre-et-Miquelon.
+> 2002, ch. 9, art. 5 « 2 »; 2005, ch. 38, art. 31.
+
 
 
 
@@ -1720,7 +1722,7 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 
 **Preuve de documents**
 
-- **(8)** Tout document présenté comme ayant été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre, du commissaire ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions du ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par le ministre, le commissaire ou le préposé, sauf s’il a été mis en doute par le ministre ou par une autre personne pour son compte ou celui de Sa Majesté.
+- **(8)** Tout document paraissant avoir été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre, du commissaire des douanes et du revenu, du commissaire ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions du ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par le ministre, le commissaire des douanes et du revenu, le commissaire ou le préposé, sauf s’il a été mis en doute par le ministre ou par une autre personne agissant pour lui ou pour Sa Majesté.
 
 **Date de mise à la poste**
 
@@ -1749,6 +1751,8 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 **Force probante des copies**
 
 - **(15)** Toute copie faite en vertu de l’article 71 qui est présentée comme registre que le ministre ou un préposé atteste être une copie du registre original fait foi de la nature et du contenu du registre original et a la même force probante qu’aurait celui-ci si son authenticité était prouvée de la façon usuelle.
+> 2002, ch. 9, art. 5 « 83 »; 2005, ch. 38, art. 32.
+
 
 
 
