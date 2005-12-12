@@ -91,8 +91,8 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **Delegation**
 
-- **(3)** Any power, duty or function of the Minister of National Revenue or the Minister of Transport under this Act may be exercised or performed by any person authorized by that Minister, as the case may be, to do so and, if so exercised or performed, shall be deemed to have been exercised by that Minister.
-> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F).
+- **(3)** Any power, duty or function of the Minister of Public Safety and Emergency Preparedness or the Minister of Transport under this Act may be exercised or performed by any person authorized by that Minister, as the case may be, to do so and, if so exercised or performed, shall be deemed to have been exercised by that Minister.
+> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2005, c. 38, ss. 142, 145.
 
 
 
@@ -138,7 +138,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **4** 
 
-- **(1)** Subject to section 7, on application therefor by a person resident in Canada acting on behalf of a foreign ship, the Minister of National Revenue shall issue a licence in respect of the foreign ship, where the Minister is satisfied that
+- **(1)** Subject to section 7, on application therefor by a person resident in Canada acting on behalf of a foreign ship, the Minister of Public Safety and Emergency Preparedness shall issue a licence in respect of the foreign ship, where the Minister is satisfied that
 	- **(a)** the Agency has determined that no Canadian ship or non-duty paid ship is suitable and available to provide the service or perform the activity described in the application;
 	- **(b)** where the activity described in the application entails the carriage of passengers by ship, the Agency has determined that an identical or similar adequate marine service is not available from any person operating one or more Canadian ships;
 	- **(c)** arrangements have been made for the payment of the duties and taxes under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) applicable to the foreign ship in relation to its temporary use in Canada;
@@ -148,16 +148,20 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **Other laws apply**
 
 - **(2)** For greater certainty, the issuance of a licence pursuant to subsection (1) does not affect the application of any law of Canada that imposes safety or pollution prevention requirements in respect of ships.
+> 1992, c. 31, s. 4; 2005, c. 38, ss. 142, 145.
+
 
 
 
 
 **Issuance of licence: non-duty paid ship**
 
-**5** Subject to section 7, on application therefor by a person resident in Canada acting on behalf of a non-duty paid ship, the Minister of National Revenue shall issue a licence in respect of the non-duty paid ship, where the Minister is satisfied that
+**5** Subject to section 7, on application therefor by a person resident in Canada acting on behalf of a non-duty paid ship, the Minister of Public Safety and Emergency Preparedness shall issue a licence in respect of the non-duty paid ship, where the Minister is satisfied that
 - **(a)** the Agency has determined that no Canadian ship is suitable and available to provide the service or perform the activity described in the application;
 - **(b)** where the activity described in the application entails the carriage of passengers by ship, the Agency has determined that an identical or similar adequate marine service is not available from any person operating one or more Canadian ships; and
 - **(c)** arrangements have been made for the payment of the duties and taxes under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) applicable to the non-duty paid ship in relation to its temporary use in Canada.
+> 1992, c. 31, s. 5; 2005, c. 38, ss. 142, 145.
+
 
 
 
@@ -166,7 +170,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **6** 
 
-- **(1)** The Minister of National Revenue may issue a licence subject to any terms and conditions that the Minister considers appropriate, including, without restricting the generality of the foregoing, terms and conditions respecting
+- **(1)** The Minister of Public Safety and Emergency Preparedness may issue a licence subject to any terms and conditions that the Minister considers appropriate, including, without restricting the generality of the foregoing, terms and conditions respecting
 	- **(a)** the service or activity that is to be performed by the foreign ship or non-duty paid ship to which the licence relates; and
 	- **(b)** the place or places where the foreign ship or non-duty paid ship may perform that service or activity.
 
@@ -178,9 +182,11 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 **Suspension, cancellation or variation of licence**
 
-- **(3)** The Minister of National Revenue may, by order, suspend or cancel a licence or vary the terms and conditions of a licence where
+- **(3)** The Minister of Public Safety and Emergency Preparedness may, by order, suspend or cancel a licence or vary the terms and conditions of a licence where
 	- **(a)** the owner or master of the licensed ship is convicted of an offence under this or any other Act of Parliament relating to navigation or shipping; or
 	- **(b)** there has been a contravention of or failure to comply with any term or condition to which the licence is subject.
+> 1992, c. 31, s. 6; 2005, c. 38, ss. 142, 145.
+
 
 
 
