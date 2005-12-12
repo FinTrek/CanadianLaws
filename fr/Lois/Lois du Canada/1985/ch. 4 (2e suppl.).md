@@ -41,7 +41,7 @@
 ***directeur de fichier***
 - **a)** Le ministre du Développement social pour les fichiers régis par le ministère du même nom et susceptibles d’être consultés au titre de la présente partie;
 - **b)** le président de la Commission de l’assurance-emploi du Canada pour les fichiers régis par la Commission du même nom et susceptibles d’être consultés au titre de la présente partie;
-- **c)** le ministre du Revenu national pour les fichiers régis par l’Agence des douanes et du revenu du Canada et susceptibles d’être consultés au titre de la présente partie.
+- **c)** le ministre du Revenu national pour les fichiers régis par l’Agence du revenu du Canada et susceptibles d’être consultés au titre de la présente partie.
 
 ***disposition alimentaire*** Disposition d’une ordonnance ou d’une entente relative aux aliments, y compris celle d’une ordonnance visant leurs arriérés.
 
@@ -58,7 +58,7 @@
 ***ordonnance*** Ordonnance ou autre décision, définitive ou provisoire, en matière alimentaire, de garde ou d’accès, exécutoire dans une province.
 
 ***tribunal*** Juridiction compétente pour faire exécuter les dispositions familiales.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158; 2005, ch. 35, art. 66 et 67.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 2; 1996, ch. 11, art. 95, 97(A) et 99; 1997, ch. 1, art. 16; 1999, ch. 17, art. 158; 2005, ch. 35, art. 66 et 67, ch. 38, art. 138.
 
 
 
@@ -229,8 +229,8 @@
 
 **Fichiers visés**
 
-**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère du Développement social, par le ministère du Revenu national et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
-> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F); 2005, ch. 35, art. 66.
+**15** Les fichiers susceptibles d’être consultés au titre de la présente partie sont, parmi les fichiers régis par le ministère du Développement social, par l’Agence du revenu du Canada et par la Commission de l’assurance-emploi du Canada, ceux qui sont désignés par règlement.
+> L.R. (1985), ch. 4 (2<sup>e</sup> suppl.), art. 15; 1996, ch. 11, art. 97 et 99; 1997, ch. 1, art. 19; 1999, ch. 31, art. 91(F); 2005, ch. 35, art. 66, ch. 38, art. 111 et 146.
 
 
 
