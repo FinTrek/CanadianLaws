@@ -173,7 +173,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **11** 
 
-- **(1)** The Agency is responsible for the administration and enforcement of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), Feeds Act, Fertilizers Act, [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), [Plant Breeders’ Rights Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2020.md), Plant Protection Act and Seeds Act.
+- **(1)** The Agency is responsible for the administration and enforcement of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), [Plant Breeders’ Rights Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2020.md), Plant Protection Act and Seeds Act.
 
 **[Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md)**
 
@@ -188,6 +188,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Role of Minister of Health**
 
 - **(4)** The Minister of Health is responsible for establishing policies and standards relating to the safety and nutritional quality of food sold in Canada and assessing the effectiveness of the Agency’s activities related to food safety.
+
+**Role of Canada Border Services Agency**
+
+- **(5)** The Canada Border Services Agency is responsible for the enforcement of the program legislation referred to in paragraph (b) of the definition program legislation in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md) as that program legislation relates to the delivery of passenger and initial import inspection services performed at airports and other Canadian border points other than import service centres.
+> 1997, c. 6, s. 11; 2005, c. 38, s. 53.
+
 
 
 
