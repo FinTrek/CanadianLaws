@@ -264,7 +264,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Par dérogation à toute autre loi, le ministre du Revenu national met à la disposition du ministre, sur demande de celui-ci et pour lui permettre d’exercer les attributions que lui confère l’alinéa 6b), les renseignements — notamment ceux qui sont contenus dans les factures — recueillis en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) sur les marchandises importées ou exportées.
+- **(1)** Par dérogation à toute autre loi, le ministre de la Sécurité publique et de la Protection civile met à la disposition du ministre, sur demande de celui-ci et pour lui permettre d’exercer les attributions que lui confère l’alinéa 6b), les renseignements — notamment ceux qui sont contenus dans les factures — recueillis en vertu de la 
+[Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) sur les marchandises importées ou exportées.
 
 **Caractère confidentiel**
 
@@ -273,7 +274,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Par dérogation au paragraphe (2), le ministre peut, dans l’exercice des attributions que lui confère l’alinéa 6b), publier la liste des noms et adresses de plusieurs ou de l’ensemble des importateurs ou exportateurs d’un produit ou groupe de produits à valeur commerciale globalisée, en veillant toutefois à protéger le caractère confidentiel des données sur un importateur ou exportateur en particulier.
-> 1995, ch. 1, art. 16; 2003, ch. 22, art. 224(A).
+> 1995, ch. 1, art. 16; 2003, ch. 22, art. 224(A); 2005, ch. 38, art. 142 et 145.
 
 
 
