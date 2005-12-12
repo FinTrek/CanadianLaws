@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md)
 
-# Canada Customs and Revenue Agency Act
+# Canada Revenue Agency Act
 
 **S.C. 1999, c. 17**
 
@@ -24,7 +24,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Short title**
 
-**1** This Act may be cited as the Canada Customs and Revenue Agency Act.
+**1** This Act may be cited as the Canada Revenue Agency Act.
+> 1999, c. 17, s. 1; 2005, c. 38, s. 35.
+
 
 
 
@@ -37,30 +39,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Agency*** means the Canada Customs and Revenue Agency established by subsection 4(1).
-
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1).
 
 ***Board*** means the Board of Management of the Agency established by section 14.
 
 
-***Commissioner*** means the Commissioner of Customs and Revenue appointed under section 25.
-
+***Commissioner*** means the Commissioner of Revenue appointed under section 25.
 
 ***Minister*** means the Minister of National Revenue, appointed to serve at pleasure by commission under the Great Seal.
 
-
 ***program legislation*** means any other Act of Parliament or any instrument made under it, or any part of such an Act or instrument
-
-- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the 
+- **(a)** that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the 
 [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the 
-*Customs Tariff*, the 
 [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the 
-[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the 
-[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md); or
+[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
 - **(b)** under which the Minister or another minister authorizes the Agency, the Commissioner or an employee of the Agency to administer a program or carry out an activity.
-> 1999, c. 17, s. 2; 2002, c. 22, s. 322.
+> 1999, c. 17, s. 2; 2002, c. 22, s. 322; 2005, c. 38, ss. 36, 140.
 
 
 
@@ -77,15 +71,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-## Establishment and Mandate of the Agency
+## Continuation and Mandate of the Agency
 
 
 
-**Establishment**
+**Continuation**
 
 **4** 
 
-- **(1)** There is hereby established a body corporate to be called the Canada Customs and Revenue Agency.
+- **(1)** The Canada Customs and Revenue Agency is continued as a body corporate under the name of the Canada Revenue Agency.
 
 **Agent of Her Majesty**
 
@@ -94,6 +88,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Headquarters**
 
 - **(3)** The headquarters of the Agency must be at such place in Canada as may be designated by the Governor in Council.
+> 1999, c. 17, s. 4; 2005, c. 38, s. 38.
+
 
 
 
@@ -111,6 +107,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Ancillary functions**
 
 - **(2)** The Agency may provide any support, advice and services that can be provided in the course of carrying out its mandate under subsection (1).
+> 1999, c. 17, s. 5; 2005, c. 38, s. 39(F).
+
 
 
 
@@ -124,26 +122,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **6** 
 
 - **(1)** The powers, duties and functions of the Minister extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any department, board or agency of the Government of Canada other than the Agency, relating to
-	- **(a)** duties of customs and matters incident thereto;
+	- **(a)** [Repealed, 2005, c. 38, s. 40]
 	- **(b)** duties of excise;
 	- **(c)** stamp duties and the preparation and issue of stamps and stamped paper, except postage stamps, and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), except as therein otherwise provided;
-	- **(d)** internal taxes, unless otherwise provided, including income taxes; and
+	- **(d)** internal taxes, unless otherwise provided, including income taxes;
+	- **(d.1)** the collection of debts due to Her Majesty under Part V.1 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); and
 	- **(e)** such other subjects as may be assigned to the Minister by Parliament or the Governor in Council.
 
 **Minister responsible**
 
 - **(2)** The Minister is responsible for the Agency.
+> 1999, c. 17, s. 6; 2005, c. 38, s. 40.
+
 
 
 
 
 **Designation of officers**
 
-**7** The Minister may designate any person, or person within a class of persons, as an officer as defined in subsection 2(1) of the 
-[Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), section 2 of the 
-[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or section 2 of the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) to exercise any powers or perform any duties and functions of an officer under those Acts that the Minister may specify.
-> 1999, c. 17, s. 7; 2002, c. 22, s. 323.
+**7** The Minister may designate any person, or person within a class of persons, as an officer as defined in section 2 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) to exercise any powers or perform any duties and functions of an officer under those Acts that the Minister may specify.
+> 1999, c. 17, s. 7; 2002, c. 22, s. 323; 2005, c. 38, s. 41.
 
 
 
@@ -175,6 +173,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Minister may direct on exercise of powers**
 
 **9** The Minister may direct the Commissioner or any other person in the exercise of a power or the performance of a duty or function of the Minister that the Commissioner or the person is authorized to exercise or perform under subsection 8(1) or (4) or under the program legislation.
+> 1999, c. 17, s. 9; 2005, c. 38, s. 42(F).
+
 
 
 
@@ -341,7 +341,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Appointment and tenure of Commissioner**
 
-**25** The Commissioner of Customs and Revenue must be appointed by the Governor in Council to hold office during pleasure for a term of not more than five years, which term may be renewed for one or more further terms of not more than five years each.
+**25** The Commissioner of Revenue must be appointed by the Governor in Council to hold office during pleasure for a term of not more than five years, which term may be renewed for one or more further terms of not more than five years each.
+> 1999, c. 17, s. 25; 2005, c. 38, s. 140.
+
 
 
 
@@ -350,7 +352,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **26** 
 
-- **(1)** A Deputy Commissioner of Customs and Revenue may be appointed by the Governor in Council to hold office during pleasure for a term of not more than five years, which term may be renewed for one or more further terms of not more than five years each.
+- **(1)** A Deputy Commissioner of Revenue may be appointed by the Governor in Council to hold office during pleasure for a term of not more than five years, which term may be renewed for one or more further terms of not more than five years each.
 
 **Duties of Deputy Commissioner**
 
@@ -359,7 +361,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **When Deputy acts for Commissioner**
 
 - **(3)** The Deputy Commissioner must act as Commissioner if the Commissioner is absent or incapacitated or the office of Commissioner is vacant and, for that purpose, has all the powers, duties and functions of the Commissioner.
-> 1999, c. 17, s. 26; 2004, c. 16, s. 4(F).
+> 1999, c. 17, s. 26; 2004, c. 16, s. 4(F); 2005, c. 38, s. 43.
 
 
 
@@ -458,6 +460,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Advisory role**
 
 **33** The Board may advise the Minister on matters that relate to the general administration and enforcement of the program legislation.
+> 1999, c. 17, s. 33; 2005, c. 38, s. 44(F).
+
 
 
 
@@ -467,6 +471,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **34** The Board may not direct the Commissioner or any other person
 - **(a)** in the exercise of a power or the performance of a duty or function conferred or delegated under the program legislation or the laws of a province or authorized to be exercised or performed on the Minister’s behalf under this Act; or
 - **(b)** on the administration and enforcement of the program legislation.
+> 1999, c. 17, s. 34; 2005, c. 38, s. 45(F).
+
 
 
 
@@ -476,6 +482,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **35** Nothing in this Act authorizes the disclosure to the Board of information
 - **(a)** that directly or indirectly reveals the identity of the person, organization or business to which it relates; and
 - **(b)** that is obtained under the program legislation or the laws of a province or that is prepared from information so obtained.
+> 1999, c. 17, s. 35; 2005, c. 38, s. 46(F).
+
 
 
 
@@ -495,11 +503,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **37** 
 
-- **(1)** The Commissioner may authorize any person, subject to any terms and conditions that the Commissioner may specify, to exercise or perform on behalf of the Commissioner any power, duty or function of the Commissioner under this Act.
+- **(1)** The Commissioner may authorize any person, subject to any terms and conditions that the Commissioner may specify, to exercise or perform on behalf of the Commissioner any power, duty or function of the Commissioner under this Act or any other Act.
 
 **Limitation**
 
 - **(2)** Subsection (1) does not include a ministerial power, duty or function conferred on the Commissioner under subsection 8(1) or the Commissioner’s power under subsection 8(4) or this section.
+> 1999, c. 17, s. 37; 2005, c. 38, s. 47.
+
 
 
 
@@ -526,6 +536,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Consultation with departments**
 
 - **(2)** The Commissioner must consult with any federal department or agency on whose behalf the Agency administers a program or carries out an activity on matters that could have a significant impact on the program or activity.
+> 1999, c. 17, s. 39; 2005, c. 38, s. 48(F).
+
 
 
 
@@ -539,6 +551,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Consultation with provinces**
 
 - **(2)** The Commissioner must consult with the government of a province on whose behalf the Agency administers a tax or program or carries out an activity on matters that could have a significant impact on the tax, program or activity.
+> 1999, c. 17, s. 40; 2005, c. 38, s. 49(F).
+
 
 
 
@@ -868,7 +882,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Appropriation Acts**
 
 - **(4)** An appropriation Act may provide that money appropriated by Parliament for the use of the Agency in a fiscal year or revenues received by the Agency in that year lapse at the end of it.
-> 1999, c. 17, s. 60; 2001, c. 4, s. 130.
+> 1999, c. 17, s. 60; 2001, c. 4, s. 130; 2005, c. 38, s. 50(F).
 
 
 
@@ -892,15 +906,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Agreements to administer a provincial tax**
+**Agreements to administer a tax**
 
 **63** 
 
-- **(1)** The Agency may enter into or amend an agreement with the government of a province to administer a provincial tax or other fiscal measure, if the tax or measure meets the guidelines established by federal and provincial ministers responsible for finance and the Agency follows the procedures established jointly by the Minister and the Minister of Finance.
+- **(1)** The Agency may enter into or amend an agreement with a provincial, territorial or aboriginal government to administer a tax or other fiscal measure if the agreement is in accordance with guidelines relating to agreements of that kind established jointly by the Minister and the Minister of Finance.
 
 **Application of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md)**
 
 - **(2)** Parts III and III.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) do not apply to an agreement entered into or amended under subsection (1).
+> 1999, c. 17, s. 63; 2005, c. 38, s. 51.
+
 
 
 
@@ -1474,14 +1490,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## Other Referential Amendments
-
-
-
-**References in documents and other provisions**
-
-**186** Any expression referring to the Deputy Minister of National Revenue or the Department of National Revenue in any document, any instrument made under an Act of Parliament, or any provision of an Act of Parliament not amended by this Act must, unless the context otherwise requires, be read as a reference to the Commissioner of Customs and Revenue or the Canada Customs and Revenue Agency, respectively.
+**186** [Repealed, 2005, c. 38, s. 52]
 
 
 
