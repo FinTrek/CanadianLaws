@@ -33,37 +33,37 @@
 
 - **(1)** In this Act,
 
-***Agency*** means the Canada Customs and Revenue Agency; 
+***Agency*** means the Canada Border Services Agency;
 
-***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***bonded warehouse*** means a place licensed as a bonded warehouse by the Minister under subsection 91(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***Canada***[Repealed, 1996, c. 31, s. 73]
 
 ***Canada-United States Free Trade Agreement***[Repealed, 1997, c. 14, s. 35]
 
-***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); 
+***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
 
-***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  Canada — Costa Rica Free Trade Agreement Implementation Act; 
+***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
 
-***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b); 
+***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b);
 
-***Chile*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the  [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md); 
+***CIFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
 
 ***cigar***[Repealed, 2002, c. 22, s. 328]
 
-***Commissioner*** means the Commissioner of Customs and Revenue, appointed under section 25 of the  Canada Customs and Revenue Agency Act; 
+***Commissioner***[Repealed, 2005, c. 38, s. 60]
 
-***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods; 
+***conveyance*** means any vehicle, aircraft or water-borne craft or any other contrivance that is used to move persons or goods;
 
-***Costa Rica*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***Costa Rica*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***courier*** has the meaning assigned by regulation; 
+***courier*** has the meaning assigned by regulation;
 
-***customs office*** means a place designated as a customs office by the Minister under section 5; 
+***customs office*** means a place designated as a customs office by the Minister under section 5;
 
-***data*** means representations, in any form, of information or concepts; 
+***data*** means representations, in any form, of information or concepts;
 
 ***Deputy Minister***[Repealed, 1999, c. 17, s. 123]
 
@@ -81,104 +81,106 @@
 - **(j)** wine, or
 - **(k)** such other goods as the Minister may, by order, designate for the purposes of all or any of the provisions of this Act;
 
-***duties*** means any duties or taxes levied or imposed on imported goods under the  *Customs Tariff*, the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the  [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the  [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b ) and 65(1)(b ), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the  [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b ) and 65(1)(b ), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
 
-***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24; 
+***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24;
 
-***export*** means export from Canada; 
+***export*** means export from Canada;
 
-***forfeit*** means forfeit to Her Majesty in right of Canada; 
+***forfeit*** means forfeit to Her Majesty in right of Canada;
 
-***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA; 
+***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA;
 
-***free trade partner*** means 
+***free trade partner*** means
 - **(a)** a NAFTA country,
 - **(b)** Chile,
 - **(c)** Costa Rica, or
 - **(d)** Israel or another CIFTA beneficiary;
 
-***goods***, for greater certainty, includes conveyances, animals and any document in any form; 
+***goods***, for greater certainty, includes conveyances, animals and any document in any form;
 
-***import*** means import into Canada; 
+***import*** means import into Canada;
 
-***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn 
+***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn
 - **(a)** from Cap-des-Rosiers to the westernmost point of Anticosti Island, and
 - **(b)** from Anticosti Island to the north shore of the St. Lawrence River along the meridian of longitude sixty-three degrees west;
 
 ***internal waters***[Repealed, 1996, c. 31, s. 73]
 
-***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
- ou  ***mail*** has the meaning set out in section 2 of the  [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md); 
+ ou ***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md);
 
 ***manufactured tobacco***[Repealed, 2002, c. 22, s. 328]
 
-***Minister*** means the Minister of National Revenue; 
+***Minister*** means, except in Part V.1, the Minister of Public Safety and Emergency Preparedness;
 
-***NAFTA*** has the meaning assigned to the word “Agreement” by subsection 2(1) of the  [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); 
+***NAFTA*** has the meaning assigned to the word “Agreement” by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
 
-***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the  [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md); 
+***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
 
- ou  ***officer*** means a person employed in the administration or enforcement of this Act, the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the  [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police; 
+ ou ***officer*** means a person employed in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police;
 
-***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind; 
+***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind;
 
-***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***preferential tariff treatment under NAFTA*** means, in respect of goods, entitlement to the United States Tariff, the Mexico Tariff or the Mexico–United States Tariff rates of customs duty under the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***preferential tariff treatment under NAFTA*** means, in respect of goods, entitlement to the United States Tariff, the Mexico Tariff or the Mexico–United States Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***prescribed*** means 
 - **(a)** in respect of a form or the manner of filing a form, authorized by the Minister,
 - **(b)** in respect of the information to be provided on or with a form, specified by the Minister, and
 - **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation;
 
-***raw leaf tobacco*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device; 
+***raw leaf tobacco*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***regulation*** means a regulation made by the Governor in Council under this Act; 
+***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device;
 
-***release*** means 
+***regulation*** means a regulation made by the Governor in Council under this Act;
+
+***release*** means
 - **(a)** in respect of goods, to authorize the removal of the goods from a customs office, sufferance warehouse, bonded warehouse or duty free shop for use in Canada, and
 - **(b)** in respect of goods to which paragraph 32(2)(b) applies, to receive the goods at the place of business of the importer, owner or consignee;
 
-***specially denatured alcohol*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***specially denatured alcohol*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate; 
+***specified rate*** means the rate of interest, expressed as a percentage per year, equal to 6% per year plus the prescribed rate;
 
-***spirits*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***spirits*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***spirits licensee*** has the same meaning as in section 2 of the  Excise Act, 2001;
+***spirits licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24; 
+***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24;
 
-***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the  [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); 
+***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***territorial sea***[Repealed, 1996, c. 31, s. 73]
 
-***tobacco licensee*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***tobacco licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***tobacco product*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***tobacco product*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
 ***United States***[Repealed, 1997, c. 14, s. 35]
 
 ***value for duty*** means, in respect of goods, the value of the goods as it would be determined in accordance with sections 45 to 56;
 
-***wine*** has the same meaning as in section 2 of the  [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
+***wine*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
-***wine licensee*** has the same meaning as in section 2 of the  Excise Act, 2001.
+***wine licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
 **Definitions**
 
 - **(1.1)** For the purpose of the definition “designated goods” in subsection (1),
 
-***alcohol***,  ***ethyl alcohol*** and  ***spirits***[Repealed, 2002, c. 22, s. 328]
+***alcohol***, ***ethyl alcohol*** and ***spirits***[Repealed, 2002, c. 22, s. 328]
 
  or  ou ***beer*** or ***malt liquor*** has the meaning assigned by section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md);
 
@@ -210,14 +212,22 @@
 
 - **(2)** The Governor in Council may from time to time by regulation temporarily restrict, for the purposes of this Act, the extent of Canadian waters, including the inland waters, but no such regulation shall be construed as foregoing any Canadian rights in respect of waters so restricted.
 
-**Powers, duties and functions of Commissioner**
+**Powers, duties and functions of President**
 
-- **(3)** Any power, duty or function of the Commissioner under this Act may be exercised or performed by any person, or by any officer within a class of officers, authorized by the Commissioner to do so and, if so exercised or performed, is deemed to have been exercised or performed by the Commissioner.
+- **(3)** Any power, duty or function of the President under this Act may be exercised or performed by any person, or by any officer within a class of officers, authorized by the President to do so and, if so exercised or performed, is deemed to have been exercised or performed by the President.
 
 **Delegation**
 
 - **(4)** The Minister may authorize an officer or a class of officers to exercise powers or perform duties of the Minister, including any judicial or quasi-judicial powers or duties of the Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328.
+
+**Delegation by Minister**
+
+- **(5)** The Minister may authorize a person employed by the Canada Revenue Agency, or a class of those persons, to exercise powers or perform duties of the Minister, including any judicial or quasi-judicial powers or duties of the Minister, under this Act.
+
+**Delegation by Minister of National Revenue**
+
+- **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145.
 
 
 
@@ -277,7 +287,7 @@
 
 **3.3** 
 
-- **(1)** The Minister or any officer designated by the Minister for the purposes of this section may at any time waive or cancel all or any portion of any penalty or interest otherwise payable by a person under this Act.
+- **(1)** Except with respect to the collection of any debt due to Her Majesty under Part V.1, the Minister or any officer designated by the President for the purposes of this section may at any time waive or cancel all or any portion of any penalty or interest otherwise payable by a person under this Act.
 
 **Exception**
 
@@ -286,7 +296,7 @@
 **Interest on penalty or interest refunded**
 
 - **(2)** Where, as a result of a waiver or cancellation under subsection (1), a person is given a refund of an amount of penalty or interest that was paid by the person, the person shall be given, in addition to the refund, interest at the prescribed rate for the period beginning on the first day after the day the amount was paid and ending on the day the refund is given, calculated on the amount of the refund.
-> 1992, c. 28, s. 2; 1995, c. 41, s. 2; 2001, c. 25, s. 3.
+> 1992, c. 28, s. 2; 1995, c. 41, s. 2; 2001, c. 25, s. 3; 2005, c. 38, s. 61.
 
 
 
@@ -300,7 +310,7 @@
 
 **3.4** 
 
-- **(1)** Where security has been given to the Minister by a person under a provision of this Act and the Minister or any officer (in this section referred to as a “designated officer”) designated by the Minister for the purposes of this section determines that the security that has been given is no longer adequate, the Minister or a designated officer may, by notice served personally or by registered or certified mail, require additional security to be given by or on behalf of the person within such reasonable time as may be stipulated in the notice.
+- **(1)** Where security has been given to the Minister by a person under a provision of this Act and the Minister or any officer (in this section referred to as a “designated officer”) designated by the President for the purposes of this section determines that the security that has been given is no longer adequate, the Minister or a designated officer may, by notice served personally or by registered or certified mail, require additional security to be given by or on behalf of the person within such reasonable time as may be stipulated in the notice.
 
 **Payment where additional security not given**
 
@@ -309,7 +319,7 @@
 exceeds
 	- **(b)** the value of the security that has been given to the Minister by the person, as determined by the Minister or a designated officer,
 is payable by the person immediately.
-> 1992, c. 28, s. 2.
+> 1992, c. 28, s. 2; 2005, c. 38, s. 62.
 
 
 
@@ -1131,8 +1141,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Authorization to account**
 
-- **(7)** The Minister or an officer designated by the Minister for the purposes of this subsection may authorize any person not resident in Canada to account for goods under this section, in such circumstances and under such conditions as may be prescribed, in lieu of the importer or owner thereof.
-> R.S., 1985, c. 1 (2nd Supp.), s. 32; 1992, c. 28, s. 5; 1995, c. 41, s. 8; 2001, c. 25, s. 21.
+- **(7)** The Minister or an officer designated by the President for the purposes of this subsection may authorize any person not resident in Canada to account for goods under this section, in such circumstances and under such conditions as may be prescribed, in lieu of the importer or owner of those goods.
+> R.S., 1985, c. 1 (2nd Supp.), s. 32; 1992, c. 28, s. 5; 1995, c. 41, s. 8; 2001, c. 25, s. 21; 2005, c. 38, s. 63.
 
 
 
@@ -1241,8 +1251,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Notice requiring accounting**
 
-**33.2** The Minister or any officer designated by the Minister for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to account, within such reasonable time as may be stipulated in the notice, in the manner described in paragraph 32(1)(a), for any goods as may be designated in the notice.
-> 1992, c. 28, s. 7.
+**33.2** The Minister or any officer designated by the President for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to account, within such reasonable time as may be stipulated in the notice, in the manner described in paragraph 32(1)(a), for any goods as may be designated in the notice.
+> 1992, c. 28, s. 7; 2005, c. 38, s. 64.
 
 
 
@@ -1273,8 +1283,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Notice requiring payment**
 
-**33.5** The Minister or any officer designated by the Minister for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to pay any amount owing as duties, within such reasonable time as may be stipulated in the notice, on any goods as may be designated in the notice.
-> 1992, c. 28, s. 7.
+**33.5** The Minister or any officer designated by the President for the purposes of this section may, by notice served personally or by registered or certified mail, require any person to pay any amount owing as duties, within such reasonable time as may be stipulated in the notice, on any goods as may be designated in the notice.
+> 1992, c. 28, s. 7; 2005, c. 38, s. 65.
 
 
 
@@ -1288,7 +1298,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **33.7** 
 
-- **(1)** The Minister or any officer designated by the Minister for the purposes of this section may at any time extend in writing the time prescribed by the regulations made under this Part for the accounting of goods or the payment of any amount owing as duties.
+- **(1)** The Minister or any officer designated by the President for the purposes of this section may at any time extend in writing the time prescribed by the regulations made under this Part for the accounting of goods or the payment of any amount owing as duties.
 
 **Effect of extension for accounting**
 
@@ -1303,7 +1313,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(a)** that amount shall be paid within the time as so extended;
 	- **(b)** if the person pays that amount within the time as so extended, subsection 33.4(1) shall apply in respect of that amount as if the time had not been so extended, but interest payable under that subsection in respect of that amount shall be computed at the prescribed rate rather than at the specified rate; and
 	- **(c)** if the person fails to pay the amount within the time as so extended, the extension shall be deemed not to have been made.
-> 1992, c. 28, s. 7; 2001, c. 25, s. 28.
+> 1992, c. 28, s. 7; 2001, c. 25, s. 28; 2005, c. 38, s. 66.
 
 
 
@@ -1344,7 +1354,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Notice requiring marking or compliance**
 
-- **(2)** The Minister or any officer designated by the Minister for the purposes of this section may, by notice served personally or by registered mail, require any person
+- **(2)** The Minister or any officer designated by the President for the purposes of this section may, by notice served personally or by registered mail, require any person
 	- **(a)** to mark imported goods in accordance with the regulations made under section 19 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), within such reasonable time as may be stipulated in the notice, if there has been a failure to comply with section 35.01 with respect to the goods; or
 	- **(b)** to comply with section 35.01 in respect of any goods designated in the notice that will subsequently be imported by the person.
 
@@ -1358,7 +1368,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(c)** the imported goods have been marked in a deceptive manner so as to mislead another person as to the country or geographic area of origin of the goods.
 
 - **(5)** [Repealed, 2001, c. 25, s. 30]
-> 1993, c. 44, s. 83; 1997, c. 36, s. 156; 2001, c. 25, s. 30.
+> 1993, c. 44, s. 83; 1997, c. 36, s. 156; 2001, c. 25, s. 30; 2005, c. 38, s. 67.
 
 
 
@@ -1538,7 +1548,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 
 
-**Definition of “dwelling-house”**
+**Definition of dwelling-house**
 
 **42** 
 
@@ -1548,7 +1558,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Inspections**
 
-- **(2)** An officer, or an officer within a class of officers, designated by the Minister for the purposes of this section, may at all reasonable times, for any purpose related to the administration or enforcement of this Act,
+- **(2)** An officer, or an officer within a class of officers, designated by the President for the purposes of this section, may at all reasonable times, for any purpose related to the administration or enforcement of this Act,
 	- **(a)** inspect, audit or examine any record of a person that relates or may relate to the information that is or should be in the records of the person or to any amount paid or payable under this Act;
 	- **(b)** examine property in an inventory of a person and any property or process of, or matter relating to, the person, an examination of which may assist the officer in determining the accuracy of the inventory of the person or in ascertaining the information that is or should be in the records of the person or any amount paid or payable by the person under this Act;
 	- **(c)** subject to subsection (3), enter any premises or place where any business is carried on, any property is kept, anything is done in connection with any business or any records are or should be kept; and
@@ -1570,7 +1580,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 - **(5)** If the judge is not satisfied that entry into that dwelling-house is necessary for any purpose relating to the administration or enforcement of this Act but is satisfied that access to a document or property that is or should be kept in the dwelling-house has been or may be expected to be refused, the judge may
 	- **(a)** order the occupant of the dwelling-house to provide the officer with reasonable access to any document or property; and
 	- **(b)** make any other order that is appropriate in the circumstances to carry out the purposes of this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 42; 2001, c. 25, s. 32.
+> R.S., 1985, c. 1 (2nd Supp.), s. 42; 2001, c. 25, s. 32; 2005, c. 38, s. 68.
 
 
 
@@ -1582,8 +1592,8 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **Methods of verification**
 
-**42.01** An officer, or an officer within a class of officers, designated by the Minister for the purposes of this section may conduct a verification of origin (other than a verification of origin referred to in section 42.1), verification of tariff classification or verification of value for duty in respect of imported goods in the manner that is prescribed and may for that purpose at all reasonable times enter any prescribed premises.
-> 1997, c. 36, s. 160; 2001, c. 25, s. 33.
+**42.01** An officer, or an officer within a class of officers, designated by the President for the purposes of this section may conduct a verification of origin (other than a verification of origin referred to in section 42.1), verification of tariff classification or verification of value for duty in respect of imported goods in the manner that is prescribed and may for that purpose at all reasonable times enter any prescribed premises.
+> 1997, c. 36, s. 160; 2001, c. 25, s. 33; 2005, c. 38, s. 69.
 
 
 
@@ -1601,7 +1611,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **42.1** 
 
-- **(1)** Any officer, or any officer within a class of officers, designated by the Minister for the purposes of this section, or any person, or any person within a class of persons, designated by the Minister to act on behalf of such an officer, may, subject to the prescribed conditions,
+- **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to the prescribed conditions,
 	- **(a)** conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement is claimed
 		- **(i)** by entering any prescribed premises or place at any reasonable time, or
 		- **(ii)** in the prescribed manner; or
@@ -1612,7 +1622,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Withdrawal of preferential tariff treatment**
 
 - **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement may be denied or withdrawn from the goods.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70.
 
 
 
@@ -1722,7 +1732,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 **43.1** 
 
-- **(1)** Any officer, or any officer within a class of officers, designated by the Minister for the purposes of this section shall, before goods are imported, on application by any member of a prescribed class that is made within the prescribed time, in the prescribed manner and in the prescribed form containing the prescribed information, give an advance ruling with respect to
+- **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section shall, before goods are imported, on application by any member of a prescribed class that is made within the prescribed time, in the prescribed manner and in the prescribed form containing the prescribed information, give an advance ruling with respect to
 	- **(a)** whether the goods qualify as originating goods and are entitled to the benefit of preferential tariff treatment under a free trade agreement;
 	- **(b)** in the case of goods exported from a NAFTA country, from Chile or from Costa Rica, any other matter concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA or in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA, as the case may be; and
 	- **(c)** the tariff classification of the goods.
@@ -1734,7 +1744,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F).
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71.
 
 
 
@@ -2137,12 +2147,12 @@ determined in the manner prescribed; and
 
 **57.01** 
 
-- **(1)** Any officer, or any officer within a class of officers, designated by the Minister for the purposes of this section may, at or before the time goods imported from a NAFTA country are accounted for under subsection 32(1), (3) or (5), in the prescribed manner and subject to the prescribed conditions, make a determination as to whether the goods have been marked in the manner referred to in section 35.01.
+- **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section may, at or before the time goods imported from a NAFTA country are accounted for under subsection 32(1), (3) or (5), in the prescribed manner and subject to the prescribed conditions, make a determination as to whether the goods have been marked in the manner referred to in section 35.01.
 
 **Deemed determination**
 
 - **(2)** If an officer does not make a determination under subsection (1) in respect of goods imported from a NAFTA country at or before the time the goods are accounted for under subsection 32(1), (3) or (5), a determination as to whether the goods have been marked in the manner referred to in section 35.01 shall be deemed to have been made in accordance with any representations that have been made in respect of the marking of the goods by the person who accounted for the goods.
-> 1993, c. 44, s. 88; 1997, c. 36, s. 165; 2001, c. 25, s. 39.
+> 1993, c. 44, s. 88; 1997, c. 36, s. 165; 2001, c. 25, s. 39; 2005, c. 38, s. 72.
 
 
 
@@ -2172,7 +2182,7 @@ determined in the manner prescribed; and
 
 **58** 
 
-- **(1)** Any officer, or any officer within a class of officers, designated by the Minister for the purposes of this section, may determine the origin, tariff classification and value for duty of imported goods at or before the time they are accounted for under subsection 32(1), (3) or (5).
+- **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, may determine the origin, tariff classification and value for duty of imported goods at or before the time they are accounted for under subsection 32(1), (3) or (5).
 
 **Deemed determination**
 
@@ -2181,7 +2191,7 @@ determined in the manner prescribed; and
 **Review of determination**
 
 - **(3)** A determination made under this section is not subject to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 59 to 61.
-> R.S., 1985, c. 1 (2nd Supp.), s. 58; 1992, c. 28, s. 11; 1997, c. 36, s. 166.
+> R.S., 1985, c. 1 (2nd Supp.), s. 58; 1992, c. 28, s. 11; 1997, c. 36, s. 166; 2005, c. 38, s. 73.
 
 
 
@@ -2191,7 +2201,7 @@ determined in the manner prescribed; and
 
 **59** 
 
-- **(1)** An officer, or any officer within a class of officers, designated by the Minister for the purposes of this section may
+- **(1)** An officer, or any officer within a class of officers, designated by the President for the purposes of this section may
 	- **(a)** in the case of a determination under section 57.01 or 58, re-determine the origin, tariff classification, value for duty or marking determination of any imported goods at any time within
 		- **(i)** four years after the date of the determination, on the basis of an audit or examination under section 42, a verification under section 42.01 or a verification of origin under section 42.1, or
 		- **(ii)** four years after the date of the determination, if the Minister considers it advisable to make the re-determination; and
@@ -2218,13 +2228,13 @@ determined in the manner prescribed; and
 **Review of re-determination or further re-determination**
 
 - **(6)** A re-determination or further re-determination made under this section is not subject to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by subsection 59(1) and sections 60 and 61.
-> R.S., 1985, c. 1 (2nd Supp.), s. 59; 1997, c. 36, s. 166; 2001, c. 25, s. 41.
+> R.S., 1985, c. 1 (2nd Supp.), s. 59; 1997, c. 36, s. 166; 2001, c. 25, s. 41; 2005, c. 38, s. 74.
 
 
 
 
 
-### Re-determination and Further Re-determination by Commissioner
+### Re-determination and Further Re-determination by President
 
 
 
@@ -2240,19 +2250,19 @@ determined in the manner prescribed; and
 
 **How request to be made**
 
-- **(3)** A request under this section must be made to the Commissioner in the prescribed form and manner, with the prescribed information.
+- **(3)** A request under this section must be made to the President in the prescribed form and manner, with the prescribed information.
 
-**Commissioner’s duty on receipt of request**
+**President’s duty on receipt of request**
 
-- **(4)** On receipt of a request under this section, the Commissioner shall, without delay,
+- **(4)** On receipt of a request under this section, the President shall, without delay,
 	- **(a)** re-determine or further re-determine the origin, tariff classification or value for duty;
 	- **(b)** affirm, revise or reverse the advance ruling; or
 	- **(c)** re-determine or further re-determine the marking determination.
 
 **Notice requirement**
 
-- **(5)** The Commissioner shall without delay give notice of a decision made under subsection (4), including the rationale on which the decision is made, to the person who made the request.
-> R.S., 1985, c. 1 (2nd Supp.), s. 60; 1992, c. 28, s. 12; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 42.
+- **(5)** The President shall without delay give notice of a decision made under subsection (4), including the rationale on which the decision is made, to the person who made the request.
+> R.S., 1985, c. 1 (2nd Supp.), s. 60; 1992, c. 28, s. 12; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 42; 2005, c. 38, s. 85.
 
 
 
@@ -2262,7 +2272,7 @@ determined in the manner prescribed; and
 
 **60.1** 
 
-- **(1)** If no request is made under section 60 within the time set out in that section, a person may make an application to the Commissioner for an extension of the time within which the request may be made, and the Commissioner may extend the time for making the request.
+- **(1)** If no request is made under section 60 within the time set out in that section, a person may make an application to the President for an extension of the time within which the request may be made, and the President may extend the time for making the request.
 
 **Reasons**
 
@@ -2270,15 +2280,15 @@ determined in the manner prescribed; and
 
 **How application made**
 
-- **(3)** The application must be made to the Commissioner in the prescribed manner and form and contain the prescribed information.
+- **(3)** The application must be made to the President in the prescribed manner and form and contain the prescribed information.
 
-**Duties of Commissioner**
+**Duties of President**
 
-- **(4)** On receipt of an application, the Commissioner must, without delay, consider it and notify the person making the application, in writing, of the Commissioner’s decision.
+- **(4)** On receipt of an application, the President must, without delay, consider it and notify the person making the application, in writing, of the President’s decision.
 
 **Date of request**
 
-- **(5)** If the Commissioner grants the application, the request is valid as of the date of the Commissioner’s decision.
+- **(5)** If the President grants the application, the request is valid as of the date of the President’s decision.
 
 **Conditions for granting application**
 
@@ -2288,7 +2298,7 @@ determined in the manner prescribed; and
 		- **(i)** within the time set out in section 60, the person was unable to act or to give a mandate to act in the person’s name or the person had a *bona fide* intention to make a request,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 43.
+> 2001, c. 25, s. 43; 2005, c. 38, s. 85.
 
 
 
@@ -2299,13 +2309,13 @@ determined in the manner prescribed; and
 **60.2** 
 
 - **(1)** A person who has made an application under section 60.1 may apply to the Canadian International Trade Tribunal to have the application granted after either
-	- **(a)** the Commissioner has refused the application; or
-	- **(b)** ninety days have elapsed after the application was made and the Commissioner has not notified the person of the Commissioner’s decision.
+	- **(a)** the President has refused the application; or
+	- **(b)** ninety days have elapsed after the application was made and the President has not notified the person of the President’s decision.
 If paragraph (a) applies, the application under this subsection must be made within ninety days after the application is refused.
 
 **How application made**
 
-- **(2)** The application must be made by filing with the Commissioner and the Secretary of the Canadian International Trade Tribunal a copy of the application referred to in section 60.1 and, if notice has been given under subsection 60.1(4), a copy of the notice.
+- **(2)** The application must be made by filing with the President and the Secretary of the Canadian International Trade Tribunal a copy of the application referred to in section 60.1 and, if notice has been given under subsection 60.1(4), a copy of the notice.
 
 **Powers of Canadian International Trade Tribunal**
 
@@ -2319,17 +2329,17 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(i)** within the time set out in section 60, the person was unable to act or to give a mandate to act in the person’s name or the person had a *bona fide* intention to make a request,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 43.
+> 2001, c. 25, s. 43; 2005, c. 38, s. 85.
 
 
 
 
 
-**What Commissioner may do**
+**What President may do**
 
 **61** 
 
-- **(1)** The Commissioner may
+- **(1)** The President may
 	- **(a)** re-determine or further re-determine the origin, tariff classification or value for duty of imported goods
 		- **(i)** at any time after a re-determination or further re-determination is made under paragraph 60(4)(a), but before an appeal is heard under section 67, on the recommendation of the Attorney General of Canada, if the re-determination or further re-determination would reduce duties payable on the goods,
 		- **(ii)** at any time, if the person who accounted for the goods under subsection 32(1), (3) or (5) fails to comply with any provision of this Act or the regulations or commits an offence under this Act in respect of the goods, and
@@ -2339,14 +2349,14 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(ii)** at any time, if the person who is given notice of a marking determination under section 57.01 or of a re-determination under paragraph 59(1)(a) fails to comply with any provision of this Act or the regulations or commits an offence under this Act in respect of the goods,
 		- **(iii)** at any time, if the re-determination or further re-determination would give effect to a decision made in respect of the goods by the Canadian International Trade Tribunal, the Federal Court of Appeal or the Supreme Court of Canada, and
 		- **(iv)** at any time after a re-determination is made under paragraph 60(4)(c), but before an appeal is heard under section 67, on the recommendation of the Attorney General of Canada; and
-	- **(c)** re-determine or further re-determine the origin, tariff classification or value for duty of imported goods (in this paragraph referred to as the “subsequent goods”), at any time, if the re-determination or further re-determination would give effect, in respect of the subsequent goods, to a decision of the Canadian International Trade Tribunal, the Federal Court of Appeal or the Supreme Court of Canada, or of the Commissioner under subparagraph (a)(i),
+	- **(c)** re-determine or further re-determine the origin, tariff classification or value for duty of imported goods (in this paragraph referred to as the “subsequent goods”), at any time, if the re-determination or further re-determination would give effect, in respect of the subsequent goods, to a decision of the Canadian International Trade Tribunal, the Federal Court of Appeal or the Supreme Court of Canada, or of the President under subparagraph (a)(i),
 		- **(i)** that relates to the origin or tariff classification of other like goods imported by the same importer or owner on or before the date of importation of the subsequent goods, or
 		- **(ii)** that relates to the manner of determining the value for duty of other goods previously imported by the same importer or owner on or before the date of importation of the subsequent goods.
 
 **Notice requirement**
 
-- **(2)** If the Commissioner makes a re-determination or further re-determination under this section, the Commissioner shall without delay give notice of that decision, including the rationale on which the decision is made, to the prescribed persons.
-> R.S., 1985, c. 1 (2nd Supp.), s. 61; 1992, c. 28, s. 13; 1993, c. 44, s. 92; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 44.
+- **(2)** If the President makes a re-determination or further re-determination under this section, the President shall without delay give notice of that decision, including the rationale on which the decision is made, to the prescribed persons.
+> R.S., 1985, c. 1 (2nd Supp.), s. 61; 1992, c. 28, s. 13; 1993, c. 44, s. 92; 1997, c. 36, s. 166; 1999, c. 17, s. 127; 2001, c. 25, s. 44; 2005, c. 38, s. 85.
 
 
 
@@ -2430,7 +2440,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **67** 
 
-- **(1)** A person aggrieved by a decision of the Commissioner made under section 60 or 61 may appeal from the decision to the Canadian International Trade Tribunal by filing a notice of appeal in writing with the Commissioner and the Secretary of the Canadian International Trade Tribunal within ninety days after the time notice of the decision was given.
+- **(1)** A person aggrieved by a decision of the President made under section 60 or 61 may appeal from the decision to the Canadian International Trade Tribunal by filing a notice of appeal in writing with the President and the Secretary of the Canadian International Trade Tribunal within ninety days after the time notice of the decision was given.
 
 **Publication of notice of appeal**
 
@@ -2439,7 +2449,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Judicial review**
 
 - **(3)** On an appeal under subsection (1), the Canadian International Trade Tribunal may make such order, finding or declaration as the nature of the matter may require, and an order, finding or declaration made under this section is not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by section 68.
-> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 67, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 169; 1999, c. 17, s. 127; 2001, c. 25, s. 48(F); 2005, c. 38, s. 85.
 
 
 
@@ -2457,7 +2467,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **How application made**
 
-- **(3)** The application must be made by filing with the Commissioner and the Secretary of the Canadian International Trade Tribunal the application accompanied by the notice of appeal.
+- **(3)** The application must be made by filing with the President and the Secretary of the Canadian International Trade Tribunal the application accompanied by the notice of appeal.
 
 **Conditions for granting application**
 
@@ -2468,7 +2478,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 		- **(ii)** it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted, and
 		- **(iv)** there are reasonable grounds for the appeal.
-> 2001, c. 25, s. 49.
+> 2001, c. 25, s. 49; 2005, c. 38, s. 85.
 
 
 
@@ -2480,14 +2490,14 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 - **(1)** Any of the parties to an appeal under section 67, namely,
 	- **(a)** the person who appealed,
-	- **(b)** the Commissioner, or
+	- **(b)** the President, or
 	- **(c)** any person who entered an appearance in accordance with subsection 67(2),
 may, within ninety days after the date a decision is made under section 67, appeal therefrom to the Federal Court of Appeal on any question of law.
 
 **Disposition of appeal**
 
 - **(2)** The Federal Court of Appeal may dispose of an appeal by making such order or finding as the nature of the matter may require or by referring the matter back to the Canadian International Trade Tribunal for re-hearing.
-> R.S., 1985, c. 1 (2nd Supp.), s. 68, c. 47 (4th Supp.), s. 52; 1995, c. 41, s. 20; 1999, c. 17, s. 127.
+> R.S., 1985, c. 1 (2nd Supp.), s. 68, c. 47 (4th Supp.), s. 52; 1995, c. 41, s. 20; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
 
 
 
@@ -2502,9 +2512,9 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Interest**
 
 - **(2)** Where a refund is given under subsection (1), the person who is given the refund shall,
-	- **(a)** if a re-determination or further re-determination is made by the Commissioner under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is owing as duties and interest, pay interest at the prescribed rate for the period beginning on the first day after the day the refund is given and ending on the day the amount of the refund found to be owing as duties and interest has been paid in full, calculated on the outstanding balance of that amount of the refund, except that if the amount of the refund found to be owing is paid within thirty days after the day that decision is made, interest shall not be payable on that amount from that day to the day the amount is paid; or
-	- **(b)** if a re-determination or further re-determination is made by the Commissioner under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is not owing as duties and interest, be given interest at the prescribed rate for the period beginning on the day after the amount refunded was originally paid by that person and ending on the day it was refunded, calculated on the amount of the refund found not to be owing.
-> R.S., 1985, c. 1 (2nd Supp.), s. 69, c. 1 (4th Supp.), s. 45(F); 1992, c. 28, s. 19; 1997, c. 36, s. 170; 1999, c. 17, s. 127; 2001, c. 25, s. 50(F).
+	- **(a)** if a re-determination or further re-determination is made by the President under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is owing as duties and interest, pay interest at the prescribed rate for the period beginning on the first day after the day the refund is given and ending on the day the amount of the refund found to be owing as duties and interest has been paid in full, calculated on the outstanding balance of that amount of the refund, except that if the amount of the refund found to be owing is paid within thirty days after the day that decision is made, interest shall not be payable on that amount from that day to the day the amount is paid; or
+	- **(b)** if a re-determination or further re-determination is made by the President under subparagraph 61(1)(a)(iii) and a portion of the amount refunded as a result of that decision is not owing as duties and interest, be given interest at the prescribed rate for the period beginning on the day after the amount refunded was originally paid by that person and ending on the day it was refunded, calculated on the amount of the refund found not to be owing.
+> R.S., 1985, c. 1 (2nd Supp.), s. 69, c. 1 (4th Supp.), s. 45(F); 1992, c. 28, s. 19; 1997, c. 36, s. 170; 1999, c. 17, s. 127; 2001, c. 25, s. 50(F); 2005, c. 38, s. 85.
 
 
 
@@ -2514,12 +2524,12 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **70** 
 
-- **(1)** The Commissioner may refer to the Canadian International Trade Tribunal for its opinion any questions relating to the origin, tariff classification or value for duty of any goods or class of goods.
+- **(1)** The President may refer to the Canadian International Trade Tribunal for its opinion any questions relating to the origin, tariff classification or value for duty of any goods or class of goods.
 
 **Idem**
 
 - **(2)** Sections 67 and 68 apply in respect of a reference made pursuant to this section as if the reference were an appeal taken pursuant to section 67.
-> R.S., 1985, c. 1 (2nd Supp.), s. 70, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 171; 1999, c. 17, s. 127.
+> R.S., 1985, c. 1 (2nd Supp.), s. 70, c. 47 (4th Supp.), s. 52; 1997, c. 36, s. 171; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
 
 
 
@@ -2893,19 +2903,44 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 **97.21** The definitions in this section apply in this Part.
 
-***debtor*** means a person liable to pay an amount owing or payable in accordance with this Act.
+***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*commissaire*)
 
-***judge*** means a judge of a superior court having jurisdiction in the province where a matter arises or a judge of the Federal Court.
+***debtor*** means a person liable to pay an amount owing or payable in accordance with this Act. (*débiteur*)
 
-***receiver*** means a person who
+***judge*** means a judge of a superior court having jurisdiction in the province where a matter arises or a judge of the Federal Court. (*juge*)
+
+***Minister*** means the Minister of National Revenue. (*ministre*)
+
+***receiver*** means a person who
 - **(a)** under the authority of a debenture, bond or other debt security, a court order or an Act of Parliament or of the legislature of a province, is empowered to operate or manage a business or a property of another person;
 - **(b)** is appointed by a trustee under a trust deed in respect of a debt security to exercise the authority of the trustee to manage or operate a business or a property of the debtor under the debt security;
 - **(c)** is appointed by a bank to act as agent of the bank in the exercise of the authority of the bank under subsection 426(3) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) in respect of property of another person;
 - **(d)** is appointed as a liquidator to liquidate the assets of a corporation or to wind up the affairs of a corporation; or
 - **(e)** is appointed as a committee, guardian or curator with authority to manage and care for the affairs and assets of an individual who is incapable of managing those affairs and assets.
 
-It includes a person who is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person. However, if a person is so appointed it does not include that creditor.
-> 2001, c. 25, s. 58.
+It includes a person who is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person. However, if a person is so appointed it does not include that creditor. (*séquestre*)
+> 2001, c. 25, s. 58; 2005, c. 38, s. 75.
+
+
+
+
+
+### Ancillary Powers
+
+
+
+**Ancillary powers**
+
+**97.211** 
+
+- **(1)** The Minister may, for the purposes of administering or enforcing this Part, exercise any of the following powers that are necessary for the collection of debts due to Her Majesty under this Part:
+	- **(a)** the powers provided for in paragraphs (a) and (b) of the definition ***prescribed*** in subsection 2(1) as well as those provided for in subsections 3.3(1) and (2), 43(1) and 115(1); and
+	- **(b)** any other powers that are conferred under any provision of this Act that is specified by the Governor in Council on the recommendation of the Minister and the Minister of Public Safety and Emergency Preparedness.
+
+**Publication**
+
+- **(2)** An order made for the purpose of subsection (1) must be published in Part II of the Canada Gazette as soon as practicable after it is made.
+> 2005, c. 38, ss. 76, 145.
 
 
 
@@ -2923,11 +2958,11 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Penalty or ascertained forfeiture**
 
-- **(2)** Any amount of money demanded as a penalty in a notice of assessment served under section 109.3 and any interest payable under section 109.5 or any amount of money demanded in a notice under section 124 and any interest payable under subsection 124(6), from and after the time of service, is a debt due to Her Majesty in right of Canada from the person on whom the notice is served and the person shall pay that amount or, within ninety days after the time of service, request a decision of the Minister under section 131.
+- **(2)** Any amount of money demanded as a penalty in a notice of assessment served under section 109.3 and any interest payable under section 109.5 or any amount of money demanded in a notice under section 124 and any interest payable under subsection 124(6), from and after the time of service, is a debt due to Her Majesty in right of Canada from the person on whom the notice is served and the person shall pay that amount or, within ninety days after the time of service, request a decision of the Minister of Public Safety and Emergency Preparedness under section 131.
 
-**Amounts demanded by the Minister**
+**Amounts demanded**
 
-- **(3)** Any amount of money demanded under paragraph 133(1)(c) or (1.1)(b) and any interest payable under subsection 133(7), from and after the time notice is served under subsection 131(2), is a debt due to Her Majesty in right of Canada from the person who requested the decision and the person shall pay the amount so demanded or, if the person appeals the decision of the Minister under section 135, give security satisfactory to the Minister.
+- **(3)** Any amount of money demanded under paragraph 133(1)(c) or (1.1)(b) and any interest payable under subsection 133(7), from and after the time notice is served under subsection 131(2), is a debt due to Her Majesty in right of Canada from the person who requested the decision and the person shall pay the amount so demanded or, if the person appeals the decision of the Minister of Public Safety and Emergency Preparedness under section 135, give security satisfactory to that Minister.
 
 **Court costs**
 
@@ -2940,7 +2975,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 **Interest on judgments**
 
 - **(6)** If a judgment is obtained for any amount payable under this Act, including a certificate registered under section 97.24, the provisions of this Act under which interest is payable for failure to pay the amount apply, with any modifications that the circumstances require, to a failure to pay the judgment debt, and the interest is recoverable in the same manner as the judgment debt.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 77, 84, 145.
 
 
 
@@ -2948,10 +2983,10 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Appeal**
 
-**97.23** A person to whom a notice is sent or delivered under subsection 97.22(1) may, within thirty days after that notice is sent, appeal the notice by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant if
+**97.23** A person to whom a notice is sent or delivered under subsection 97.22(1) may, within thirty days after that notice is sent, appeal the notice by way of an action in the Federal Court in which the person is the plaintiff and the Minister of Public Safety and Emergency Preparedness is the defendant if
 - **(a)** no appeal is or was available to that person under section 67 or 68 in respect of the same matter; and
 - **(b)** the notice is not in respect of an amount assessed under section 97.44.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145.
 
 
 
@@ -3086,8 +3121,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Refund may be applied against liabilities**
 
-**97.27** The Minister may, if a person is or is about to become liable to make any payment to Her Majesty in right of Canada or in right of a province, apply the amount of any drawback, refund or relief granted under section 74 or 76 of this Act or section 89, 101 or 113 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to that other liability and notify the person of that action.
-> 2001, c. 25, s. 58.
+**97.27** The Minister of Public Safety and Emergency Preparedness may, if a person is or is about to become liable to make any payment to Her Majesty in right of Canada or in right of a province, apply the amount of any drawback, refund or relief granted under section 74 or 76 of this Act or section 89, 101 or 113 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to that other liability and notify the person of that action.
+> 2001, c. 25, s. 58; 2005, c. 38, ss. 84, 145.
 
 
 
@@ -3292,23 +3327,23 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **Appeal to Federal Court**
 
-- **(2)** If a person has appealed a decision of the Minister to the Federal Court under section 97.23 or 135, the Minister must not take any action described in subsection (1) to collect the amount in controversy before the date of the decision of the Court or the day on which the person discontinues the appeal.
+- **(2)** If a person has appealed a decision of the Minister of Public Safety and Emergency Preparedness to the Federal Court under section 97.23 or 135, the Minister must not take any action described in subsection (1) to collect the amount in controversy before the date of the decision of the Court or the day on which the person discontinues the appeal.
 
 **Reference to Canadian International Trade Tribunal**
 
-- **(3)** If the Commissioner has referred a question to the Canadian International Trade Tribunal under section 70, the Minister must not take any action described in subsection (1) to collect the amount in controversy before the day on which the question is determined by the Tribunal.
+- **(3)** If the President has referred a question to the Canadian International Trade Tribunal under section 70, the Minister must not take any action described in subsection (1) to collect the amount in controversy before the day on which the question is determined by the Tribunal.
 
 **Effect of appeal**
 
-- **(4)** If a person has made a request under section 60 or 129 or has appealed under section 67 or 68 and the person agrees in writing with the Minister to delay proceedings on the request or appeal, as the case may be, until judgment has been given in another action before the Canadian International Trade Tribunal, the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada, in which action the issue is the same or substantially the same as that raised in the request or appeal of the person, the Minister may take any of the actions described in subsection (1) for the purpose of collecting the amount payable, or a part of the amount payable, determined in a manner consistent with the decision or judgment in the other action at any time after the Minister notifies the person in writing that
-	- **(a)** the decision of the Canadian International Trade Tribunal or Federal Court in that action has been mailed to the Minister;
+- **(4)** If a person has made a request under section 60 or 129 or has appealed under section 67 or 68 and the person agrees in writing with the Minister of Public Safety and Emergency Preparedness to delay proceedings on the request or appeal, as the case may be, until judgment has been given in another action before the Federal Court, the Canadian International Trade Tribunal or the Supreme Court of Canada, in which action the issue is the same or substantially the same as that raised in the request or appeal of the person, the Minister may take any of the actions described in subsection (1) for the purpose of collecting the amount payable, or a part of the amount payable, determined in a manner consistent with the decision or judgment in the other action at any time after the Minister of Public Safety and Emergency Preparedness notifies the person in writing that
+	- **(a)** the decision of the Canadian International Trade Tribunal or Federal Court in that action has been mailed to the Minister of Public Safety and Emergency Preparedness;
 	- **(b)** judgment has been pronounced by the Federal Court of Appeal in that action; or
 	- **(c)** judgment has been delivered by the Supreme Court of Canada in that action.
 
 **Effect of taking security**
 
-- **(5)** The Minister must not, for the purpose of collecting an amount payable, or a part of an amount payable, under this Act, take any of the actions described in subsection (1) if a person has given security to the Minister when requesting or appealing from a decision of the Commissioner or Minister.
-> 2001, c. 25, s. 58; 2002, c. 8, s. 193.
+- **(5)** The Minister must not, for the purpose of collecting an amount payable, or a part of an amount payable, under this Act, take any of the actions described in subsection (1) if a person has given security to the Minister of Public Safety and Emergency Preparedness when requesting or appealing from a decision of that Minister or the President.
+> 2001, c. 25, s. 58; 2002, c. 8, s. 193; 2005, c. 38, ss. 78, 85, 145.
 
 
 
@@ -3733,7 +3768,7 @@ The Minister may reassess the amount or make an additional assessment.
 
 **How application made**
 
-- **(3)** The application must be made by delivering or mailing the application and a copy of the notice of objection to the Chief of Appeals in a Tax Services Office or Taxation Centre of the Agency.
+- **(3)** The application must be made by delivering or mailing the application and a copy of the notice of objection to the Chief of Appeals in a Tax Services Office or Taxation Centre of the Canada Revenue Agency.
 
 **Exception**
 
@@ -3755,7 +3790,7 @@ The Minister may reassess the amount or make an additional assessment.
 		- **(i)** within the time otherwise limited by this Part for objecting, the person was unable to act or to give a mandate to act in the person’s name, or the person had a *bona fide* intention to object to the assessment,
 		- **(ii)** it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58; 2005, c. 38, s. 79.
 
 
 
@@ -4156,7 +4191,9 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(1)** The definitions in this subsection apply in this section.
 
 ***customs information*** means information of any kind and in any form that
-- **(a)** relates to one or more persons and is obtained by or on behalf of the Minister for the purposes of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); or
+- **(a)** relates to one or more persons and is obtained by or on behalf of
+	- **(i)** the Minister for the purposes of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or
+	- **(ii)** the Minister of National Revenue for the purposes of the collection of debts due to Her Majesty under Part V.1;
 - **(b)** is prepared from information described in paragraph (a).
 
 ***official*** means a person who
@@ -4175,7 +4212,10 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Authorized use of customs information by official**
 
-- **(3)** An official may use customs information for the purposes of administering or enforcing this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the Special Imports Measures Act or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) or for any purpose set out in subsection (4), (5) or (7).
+- **(3)** An official may use customs information
+	- **(a)** for the purposes of administering or enforcing this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the Special Imports Measures Act or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) or for any purpose set out in subsection (4), (5) or (7);
+	- **(b)** for the purposes of exercising the powers or performing the duties and functions of the Minister of Public Safety and Emergency Preparedness under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), including establishing a person’s identity or determining their inadmissibility; or
+	- **(c)** for the purposes of any Act or instrument made under it, or any part of such an Act or instrument, that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to enforce, including the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) and the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md).
 
 **Authorized provision of information**
 
@@ -4185,8 +4225,10 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 		- **(i)** a court of record, including a court of record in a jurisdiction outside Canada,
 		- **(ii)** an international organization, or
 		- **(iii)** a dispute settlement panel or an appellate body created under an international agreement relating to trade;
-	- **(c)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of this Act, the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) by an official of the Agency;
-	- **(d)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) or the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) by a member of the Royal Canadian Mounted Police;
+	- **(c)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) by an official of the Agency;
+	- **(c.1)** may reasonably be regarded as necessary solely for a purpose relating to the enforcement of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md), the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Fish Inspection Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-12.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) and the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) by an official of the Agency;
+	- **(c.2)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of Part V.1 by an official or a class of officials of the Canada Revenue Agency designated by the Minister of National Revenue;
+	- **(d)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) by a member of the Royal Canadian Mounted Police;
 	- **(e)** may reasonably be regarded as necessary solely for a purpose relating to the life, health or safety of an individual or to the environment in Canada or any other country;
 	- **(f)** will be used solely for a purpose relating to the supervision, evaluation or discipline of a specified person by Her Majesty in right of Canada in respect of a period during which the person was employed or engaged by, or occupied a position of responsibility in the service of, Her Majesty in right of Canada to administer or enforce this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) to the extent that the information is relevant for that purpose;
 	- **(g)** is reasonably regarded by the official to be information that does not directly or indirectly identify any person; or
@@ -4207,9 +4249,11 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(g)** an official solely for the purpose of setting off, against any sum of money that may be due to or payable by Her Majesty in right of Canada, a debt due to
 		- **(i)** Her Majesty in right of Canada, or
 		- **(ii)** Her Majesty in right of a province on account of taxes payable to the province if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province;
+	- **(g.1)** an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(h)** counsel, as defined in subsection 84(4) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), in accordance with subsection 84(3) of that Act and subject to subsection 84(3.1) of that Act, except that the word “information” in those subsections is to be read as a reference to the words “customs information”;
 	- **(i)** an official of the Department of Human Resources and Skills Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
 	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada;
+	- **(j.1)** an official of the Canadian Food Inspection Agency for the purpose of administering or enforcing any Act referred to in section 11 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) if the information relates to the import, export or in-transit movement of goods into or out of Canada;
 	- **(k)** an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of administering or enforcing the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(l)** a person solely for the purpose of determining any entitlement, liability or obligation of the person under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) including the person’s entitlement to any refund, relief, drawback or abatement under those Acts;
 	- **(m)** any person, if the information is required to comply with a subpoena or warrant issued or an order made by a court of record in Canada;
@@ -4251,7 +4295,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Appeal from order to disclose customs information**
 
-- **(12)** An order or direction that is made in the course of or in connection with any legal proceeding and that requires an official to give or produce evidence relating to customs information may, by notice served on all interested parties, be immediately appealed by the Minister or by the person against whom the order or direction is made
+- **(12)** An order or direction that is made in the course of or in connection with any legal proceeding and that requires an official to give or produce evidence relating to customs information may, by notice served on all interested parties, be immediately appealed by the Minister or the Minister of National Revenue, as the case may be, or by the person against whom the order or direction is made
 	- **(a)** to the court of appeal of the province in which the order or direction is made, in the case of an order or direction made by a court or other tribunal established under the laws of the province, whether or not that court or tribunal is exercising a jurisdiction conferred by the laws of Canada; or
 	- **(b)** to the Federal Court of Appeal, in the case of an order or direction made by a court or other tribunal established under the laws of Canada.
 
@@ -4266,7 +4310,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145.
 
 
 
@@ -4497,12 +4541,12 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 **Report where evidence seized**
 
-- **(2)** Where an officer seizes anything as evidence under this Act, the officer shall forthwith report the circumstances of the case to the Commissioner.
+- **(2)** Where an officer seizes anything as evidence under this Act, the officer shall forthwith report the circumstances of the case to the President.
 
 **Return of evidence**
 
 - **(3)** Anything that is seized under this Act as evidence alone shall be returned forthwith on completion of all proceedings in which the thing seized may be required.
-> R.S., 1985, c. 1 (2nd Supp.), s. 114; 1999, c. 17, s. 127.
+> R.S., 1985, c. 1 (2nd Supp.), s. 114; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
 
 
 
@@ -4750,23 +4794,23 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 
 **127.1** 
 
-- **(1)** The Minister, or any officer designated by the Minister for the purposes of this section, may cancel a seizure made under section 110, cancel or reduce a penalty assessed under section 109.3 or an amount demanded under section 124 or refund an amount received under any of sections 117 to 119 within thirty days after the seizure, assessment or demand, if
+- **(1)** The Minister, or any officer des­ignated by the President for the purposes of this section, may cancel a seizure made under section 110, cancel or reduce a penalty assessed under section 109.3 or an amount demanded under section 124 or refund an amount received under any of sections 117 to 119 within thirty days after the seizure, assessment or demand, if
 	- **(a)** the Minister is satisfied that there was no contravention; or
 	- **(b)** there was a contravention but the Minister considers that there was an error with respect to the amount assessed, collected, demanded or taken as security and that the amount should be reduced.
 
 **Interest**
 
 - **(2)** If an amount is returned to a person under paragraph (1)(a), the person shall be given interest on that amount at the prescribed rate for the period beginning on the day after the amount was originally paid by that person and ending on the day it was returned.
-> 2001, c. 25, s. 68.
+> 2001, c. 25, s. 68; 2005, c. 38, s. 81.
 
 
 
 
 
-**Report to Commissioner**
+**Report to President**
 
-**128** Where goods or a conveyance has been seized under this Act, or a notice has been served under section 109.3 or 124, the officer who seized the goods or conveyance or served the notice or caused it to be served shall forthwith report the circumstances of the case to the Commissioner.
-> R.S., 1985, c. 1 (2nd Supp.), s. 128; 1993, c. 25, s. 81; 1999, c. 17, s. 127.
+**128** Where goods or a conveyance has been seized under this Act, or a notice has been served under section 109.3 or 124, the officer who seized the goods or conveyance or served the notice or caused it to be served shall forthwith report the circumstances of the case to the President.
+> R.S., 1985, c. 1 (2nd Supp.), s. 128; 1993, c. 25, s. 81; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
 
 
 
@@ -4858,7 +4902,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 
 **130** 
 
-- **(1)** Where a decision of the Minister under section 131 is requested under section 129, the Commissioner shall forthwith serve on the person who requested the decision written notice of the reasons for the seizure, or for the notice served under section 109.3 or 124, in respect of which the decision is requested.
+- **(1)** Where a decision of the Minister under section 131 is requested under section 129, the President shall forthwith serve on the person who requested the decision written notice of the reasons for the seizure, or for the notice served under section 109.3 or 124, in respect of which the decision is requested.
 
 **Evidence**
 
@@ -4867,7 +4911,7 @@ If paragraph (a) applies, the application under this subsection must be made wit
 **Evidence**
 
 - **(3)** Evidence may be given under subsection (2) by affidavit made before any person authorized by an Act of Parliament or of the legislature of a province to administer oaths or take affidavits.
-> R.S., 1985, c. 1 (2nd Supp.), s. 130; 1993, c. 25, s. 83; 1999, c. 17, s. 127; 2001, c. 25, s. 71.
+> R.S., 1985, c. 1 (2nd Supp.), s. 130; 1993, c. 25, s. 83; 1999, c. 17, s. 127; 2001, c. 25, s. 71; 2005, c. 38, s. 85.
 
 
 
@@ -5002,8 +5046,8 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **Service of notices**
 
-**137** The service of the Commissioner’s notice under section 130 or the notice of the Minister’s decision under section 131 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at his latest known address.
-> R.S., 1985, c. 1 (2nd Supp.), s. 137; 1999, c. 17, s. 127.
+**137** The service of the President’s notice under section 130 or the notice of the Minister’s decision under section 131 is sufficient if it is sent by registered mail addressed to the person on whom it is to be served at his latest known address.
+> R.S., 1985, c. 1 (2nd Supp.), s. 137; 1999, c. 17, s. 127; 2005, c. 38, s. 85.
 
 
 
@@ -5124,7 +5168,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **141** 
 
-- **(1)** The Commissioner, on application by a person whose interest in a conveyance detained under subsection 97.25(2) or in goods or a conveyance seized as forfeit under this Act has been determined under section 139 or ordered under section 139.1 or 140 to be unaffected by the seizure or detention, shall direct that
+- **(1)** The President, on application by a person whose interest in a conveyance detained under subsection 97.25(2) or in goods or a conveyance seized as forfeit under this Act has been determined under section 139 or ordered under section 139.1 or 140 to be unaffected by the seizure or detention, shall direct that
 	- **(a)** in the case of goods or a conveyance the forfeiture of which has become final, the goods or conveyance, as the case may be, be given to the applicant; and
 	- **(b)** in the case of a conveyance detained under subsection 97.25(2), the conveyance be given to the applicant.
 
@@ -5135,7 +5179,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Limit on amount paid**
 
 - **(2)** The total amount paid under subsection (1.1) in respect of goods or a conveyance shall, if the goods or conveyance was sold or otherwise disposed of under this Act, not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the goods or conveyance, and, if there are no proceeds of disposition, no payment shall be made pursuant to subsection (1.1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 141; 1999, c. 17, s. 127; 2001, c. 25, s. 77.
+> R.S., 1985, c. 1 (2nd Supp.), s. 141; 1999, c. 17, s. 127; 2001, c. 25, s. 77; 2005, c. 38, s. 85.
 
 
 
@@ -5322,8 +5366,8 @@ shall be received, in the absence of evidence to the contrary, as proof of the p
 
 **Proof of no appeal**
 
-**149.1** An affidavit of an officer, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Agency and that an examination of the records shows that a notice of assessment under Part V.1 was mailed or otherwise sent to a person under this Act and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment was received within the time allowed for the notice, is evidence of the statements contained in the affidavit.
-> 2001, c. 25, s. 80.
+**149.1** An affidavit of an officer, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Agency or the Canada Revenue Agency, as the case may be, and that an examination of the records shows that a notice of assessment under Part V.1 was mailed or otherwise sent to a person under this Act and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment was received within the time allowed for the notice, is evidence of the statements contained in the affidavit.
+> 2001, c. 25, s. 80; 2005, c. 38, s. 82.
 
 
 
@@ -5537,16 +5581,16 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 
 
-**Designation by Minister**
+**Designation by President**
 
 **163.4** 
 
-- **(1)** The Minister may designate any officer for the purposes of this Part and shall furnish the officer with a certificate of designation.
+- **(1)** The President may designate any officer for the purposes of this Part and shall provide the officer with a certificate of designation.
 
 **Admissibility of certificate**
 
 - **(2)** A certificate of designation is admissible in evidence as proof of an officer’s designation without proof of the signature or official character of the person appearing to have signed it.
-> 1998, c. 7, s. 1.
+> 1998, c. 7, s. 1; 2005, c. 38, s. 83.
 
 
 
