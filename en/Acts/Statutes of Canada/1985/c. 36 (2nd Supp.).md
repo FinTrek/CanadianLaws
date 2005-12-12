@@ -1109,10 +1109,10 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **72** Sections 231 to 231.5 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) apply, with such modifications as the circumstances require, in respect of the administration and enforcement of this Part and, without restricting the generality of the foregoing, as if
 - **(a)** the references therein to “tax” were read as a reference to “royalty”;
 - **(b)** the references therein to “Minister” were read as a reference to “Minister” as defined in section 2 of this Act;
-- **(c)** the references therein to the “Canada Customs and Revenue Agency” were read as a reference to the “Department of Natural Resources” or the “Department of Indian Affairs and Northern Development”, whichever is applicable in the circumstances;
+- **(c)** the references therein to the “Canada Revenue Agency” were read as a reference to the “Department of Natural Resources” or the “Department of Indian Affairs and Northern Development”, whichever is applicable in the circumstances;
 - **(d)** the references therein to the “Tax Court of Canada” were read as a reference to the “Federal Court”; and
 - **(e)** the references therein to a “return of income or a supplementary return” were read as a reference to “a report or return” filed pursuant to this Part.
-> R.S., 1985, c. 36 (2nd Supp.), s. 72; 1994, c. 41, s. 14; 1999, c. 17, s. 113.
+> R.S., 1985, c. 36 (2nd Supp.), s. 72; 1994, c. 41, s. 14; 1999, c. 17, s. 113; 2005, c. 38, s. 138.
 
 
 
