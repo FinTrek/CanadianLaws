@@ -43,6 +43,8 @@ Version anglaise seulement***Chairperson*** means the Chairperson of the Tribuna
 
 Version anglaise seulement***prescribed*** means prescribed by regulations;
 
+***President*** means the President of the Canada Border Services Agency appointed under subsection 7(1) of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
+
 ***serious injury***, in relation to domestic producers of like or directly competitive goods, means a significant overall impairment in the position of the domestic producers;
 
 ***textile and apparel goods*** means the textile and apparel goods set out in Appendix 1.1 of Annex 300-B of the Agreement, in Appendix 1.1 of Annex C-00-B of the CCFTA or in Appendix III.1.1.1 of Annex III.1 of the CCRFTA, as the case may be;
@@ -79,7 +81,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 **Goods imported from a NAFTA country, Chile or Costa Rica**
 
 - **(5)** For the purposes of this Act, goods are imported from a NAFTA country, from Chile or from Costa Rica if they are shipped directly to Canada from the NAFTA country, from Chile or from Costa Rica, as the case may be, within the meaning of sections 17 and 18 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19.
+> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54.
 
 
 
@@ -821,15 +823,19 @@ that the Governor in Council refers to the Tribunal for inquiry.
 - **(1)** Subject to subsections (4) to (7), the Tribunal shall, within thirty days after the day on which notice is given to a complainant that the complaint is properly documented, commence an inquiry into the complaint if it is satisfied
 	- **(a)** that the information provided by the complainant and any other information examined by the Tribunal disclose a reasonable indication that
 		- **(i)** in the case of a complaint filed under subsection 23(1), the goods that are the subject of the complaint are being imported in such increased quantities and under such conditions as to cause or threaten serious injury to domestic producers of like or directly competitive goods,
-		- **(i.1)** in the case of a complaint filed under subsection 23(1.01), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods,
-		- **(i.2)** in the case of a complaint filed under subsection 23(1.02), the goods that are entitled to the Mexico Tariff, or the Mexico–United States Tariff, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
-		- **(i.3)** in the case of a complaint filed under subsection 23(1.03), the textile and apparel goods that are entitled to the United States Tariff, or the Mexico Tariff, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
+		- **(i.1)** in the case of a complaint filed under subsection 23(1.01), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods,
+		- **(i.2)** in the case of a complaint filed under subsection 23(1.02), the goods that are entitled to the Mexico Tariff, or the Mexico–United States Tariff, in the List of Tariff Provisions set out in the schedule to the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
+		- **(i.3)** in the case of a complaint filed under subsection 23(1.03), the textile and apparel goods that are entitled to the United States Tariff, or the Mexico Tariff, in the List of Tariff Provisions set out in the schedule to the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction of that tariff, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 		- **(i.4)** in the case of a complaint filed under subsection 23(1.04), the goods that are entitled to the Canada-Israel Free Trade Agreement Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods,
 		- **(i.5)** in the case of a complaint filed under subsection 23(1.05), the goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
 		- **(i.6)** in the case of a complaint filed under subsection 23(1.06), the textile and apparel goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 		- **(i.7)** in the case of a complaint filed under subsection 23(1.07), the goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
 		- **(i.8)** in the case of a complaint filed under subsection 23(1.08), the textile and apparel goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods, or
-		- **(ii)** in the case of a complaint filed under subsection 23(1.1), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction or elimination of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods;
+		- **(ii)** in the case of a complaint filed under subsection 23(1.1), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction or elimination of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods;
 	- **(b)** that the complaint is made by or on behalf of domestic producers who produce a major proportion of domestic production of the like or directly competitive goods; and
 	- **(c)** where an inquiry, except an inquiry under sections 30.21 to 30.25, in relation to like or directly competitive goods has been completed or terminated by the Tribunal under this Act during the twenty-four month period preceding the date of receipt of the complaint, that the circumstances are sufficiently different to warrant a new inquiry.
 
@@ -837,7 +843,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 - **(2)** Where the Tribunal decides to commence an inquiry into a complaint under subsection (1), it shall forthwith
 	- **(a)** notify the complainant and each other interested party in writing of its decision, of the reasons therefor, and of the date on which any hearing in the inquiry shall commence;
-	- **(b)** cause a notice of its decision and the date on which any hearing in the inquiry shall commence to be published in the Canada Gazette; and
+	- **(b)** cause a notice of its decision and the date on which any hearing in the inquiry shall commence to be published in the 
+Canada Gazette; and
 	- **(c)** send a copy of its decision, a copy of the complaint and the information accompanying the complaint and a copy of any other relevant information examined by the Tribunal in relation to the complaint to the Minister.
 
 **Copies to Minister**
@@ -848,21 +855,25 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 - **(3)** Where the Tribunal decides not to commence an inquiry into a complaint under subsection (1), it shall forthwith
 	- **(a)** notify the complainant and each other interested party in writing of its decision and of the reasons for its refusal to commence an inquiry and, where the reasons for its decision are based in whole or in part on information that was obtained from a source other than the complainant, of the fact that the decision was based in whole or in part on such information; and
-	- **(b)** cause a notice of its decision to be published in the Canada Gazette.
+	- **(b)** cause a notice of its decision to be published in the 
+Canada Gazette.
 
 **Evidence of dumping or subsidizing**
 
-- **(4)** Where, before commencing an inquiry into a complaint under subsection (1), the Tribunal forms the opinion that the injury or threat of injury alleged in the complaint appears to be caused by the dumping or subsidizing of goods within the meaning of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall forthwith
-	- **(a)** by notice in writing, refer the complaint to the Commissioner of Customs and Revenue for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md); and
-	- **(b)** notify the complainant and each other interested party in writing that the complaint has been so referred to the Commissioner.
+- **(4)** Where, before commencing an inquiry into a complaint under subsection (1), the Tribunal forms the opinion that the injury or threat of injury alleged in the complaint appears to be caused by the dumping or subsidizing of goods within the meaning of the 
+[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall forthwith
+	- **(a)** by notice in writing, refer the complaint to the President for consideration under the 
+[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md); and
+	- **(b)** notify the complainant and each other interested party in writing that the complaint has been so referred to the President.
 
 **Inquiry only in case of dumping**
 
-- **(5)** The Tribunal may commence an inquiry under subsection (1) into a complaint that pursuant to subsection (4) is referred to the Commissioner of Customs and Revenue for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) only if
-	- **(a)** the Commissioner does not initiate an investigation under that Act respecting the dumping or subsidizing of the goods that are the subject of the complaint or initiates such an investigation but terminates the investigation under section 35 or 41 of that Act; and
+- **(5)** The Tribunal may commence an inquiry under subsection (1) into a complaint that pursuant to subsection (4) is referred to the President for consideration under the 
+[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) only if
+	- **(a)** the President does not initiate an investigation under that Act respecting the dumping or subsidizing of the goods that are the subject of the complaint or initiates such an investigation but terminates the investigation under section 35 or 41 of that Act; and
 	- **(b)** the complainant applies to the Tribunal to commence an inquiry under subsection (1)
-		- **(i)** in the case where the Commissioner does not initiate such an investigation, within thirty days after the date of the notice sent to the complainant pursuant to subsection 33(1) of that Act advising the complainant of the Commissioner’s decision or, where the Commissioner or complainant refers to the Tribunal the question mentioned in subsection 33(2) of that Act, within thirty days after the date the Tribunal renders its advice on the question, or
-		- **(ii)** in the case where the Commissioner initiates such an investigation but terminates the investigation under section 35 or 41 of that Act, within thirty days after the date of the notice sent to the complainant under section 35 or 41 of that Act advising the complainant of the termination of the investigation.
+		- **(i)** in the case where the President does not initiate such an investigation, within thirty days after the date of the notice sent to the complainant pursuant to subsection 33(1) of that Act advising the complainant of the President’s decision or, where the President or complainant refers to the Tribunal the question mentioned in subsection 33(2) of that Act, within thirty days after the date the Tribunal renders its advice on the question, or
+		- **(ii)** in the case where the President initiates such an investigation but terminates the investigation under section 35 or 41 of that Act, within thirty days after the date of the notice sent to the complainant under section 35 or 41 of that Act advising the complainant of the termination of the investigation.
 
 **Extension of time**
 
@@ -870,8 +881,12 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **Time limit on inquiry**
 
-- **(7)** If subsection 55(5) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) prohibits the making of an order under subsection 55(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than one hundred and eighty days before the end of the period.
-> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1.
+- **(7)** If subsection 55(5) of the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.1) of the 
+[Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) prohibits the making of an order under subsection 55(1) of the 
+[Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3) of the 
+[Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than one hundred and eighty days before the end of the period.
+> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55.
 
 
 
@@ -918,24 +933,24 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 
 
-**Reference to Commissioner**
+**Reference to President**
 
 **28** 
 
-- **(1)** Where, at any time during an inquiry into a complaint, the Tribunal forms the opinion that the injury or threat of injury alleged in the complaint appears to be caused by the dumping or subsidizing of goods within the meaning of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall forthwith adjourn the inquiry, give notice thereof to the complainant and each other interested party and, by notice in writing, refer the complaint to the Commissioner of Customs and Revenue for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
+- **(1)** Where, at any time during an inquiry into a complaint, the Tribunal forms the opinion that the injury or threat of injury alleged in the complaint appears to be caused by the dumping or subsidizing of goods within the meaning of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall forthwith adjourn the inquiry, give notice thereof to the complainant and each other interested party and, by notice in writing, refer the complaint to the President for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
 
 **Resumption of inquiry**
 
-- **(2)** Where, pursuant to subsection (1), the Tribunal adjourns an inquiry into a complaint and refers the complaint to the Commissioner of Customs and Revenue for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall resume the inquiry only if
-	- **(a)** the Commissioner does not initiate an investigation under that Act respecting the dumping or subsidizing of the goods that are the subject of the complaint or initiates such an investigation but terminates the investigation under section 35 or 41 of that Act; and
+- **(2)** Where, pursuant to subsection (1), the Tribunal adjourns an inquiry into a complaint and refers the complaint to the President for consideration under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), the Tribunal shall resume the inquiry only if
+	- **(a)** the President does not initiate an investigation under that Act respecting the dumping or subsidizing of the goods that are the subject of the complaint or initiates such an investigation but terminates the investigation under section 35 or 41 of that Act; and
 	- **(b)** the complainant applies to the Tribunal to resume the inquiry
-		- **(i)** in the case where the Commissioner does not initiate such an investigation, within thirty days after the date of the notice sent to the complainant pursuant to subsection 33(1) of that Act advising the complainant of the Commissioner’s decision or, where the Commissioner or complainant refers to the Tribunal the question mentioned in subsection 33(2) of that Act, within thirty days after the date the Tribunal renders its advice on the question, or
-		- **(ii)** in the case where the Commissioner initiates such an investigation but terminates the investigation under section 35 or 41 of that Act, within thirty days after the date of the notice sent to the complainant under section 35 or 41 of that Act advising the complainant of the termination of the investigation.
+		- **(i)** in the case where the President does not initiate such an investigation, within thirty days after the date of the notice sent to the complainant pursuant to subsection 33(1) of that Act advising the complainant of the President’s decision or, where the President or complainant refers to the Tribunal the question mentioned in subsection 33(2) of that Act, within thirty days after the date the Tribunal renders its advice on the question, or
+		- **(ii)** in the case where the President initiates such an investigation but terminates the investigation under section 35 or 41 of that Act, within thirty days after the date of the notice sent to the complainant under section 35 or 41 of that Act advising the complainant of the termination of the investigation.
 
 **Termination of inquiry**
 
 - **(3)** Where the Tribunal decides not to resume an inquiry pursuant to subsection (2) by reason that the conditions referred to in that subsection have not been met, the Tribunal shall terminate the inquiry and cause written notice of such termination to be given forthwith to the complainant and each other interested party.
-> R.S., 1985, c. 47 (4th Supp.), s. 28; 1994, c. 13, s. 7, c. 47, s. 46(F); 1999, c. 12, s. 58, c. 17, ss. 114, 115.
+> R.S., 1985, c. 47 (4th Supp.), s. 28; 1994, c. 13, s. 7, c. 47, s. 46(F); 1999, c. 12, s. 58, c. 17, ss. 114, 115; 2005, c. 38, s. 55.
 
 
 
@@ -2106,9 +2121,9 @@ and, where the person does neither of those things within those fifteen days, th
 
 **49** If
 - **(a)** information or material given or elicited in the course of any proceedings before the Tribunal is, in the opinion of the Tribunal, in its nature confidential, or
-- **(b)** the Commissioner of Customs and Revenue indicates to the Tribunal in writing that subsection 84(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) applies to information or material filed with the Secretary under paragraph 37(a) or 38(3)(b) or subsection 76.03(9) of that Act,
+- **(b)** the President indicates to the Tribunal in writing that subsection 84(1) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) applies to information or material filed with the Secretary under paragraph 37(a) or 38(3)(b) or subsection 76.03(9) of that Act,
 the information or material shall not knowingly be disclosed by any member or person employed in the federal public administration who comes into possession of the information in any manner that is calculated or likely to make it available for the use of any business competitor or rival of any person to whose business or affairs the information relates.
-> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115; 2003, c. 22, s. 224(E).
+> R.S., 1985, c. 47 (4th Supp.), s. 49; 1994, c. 13, s. 7; 1999, c. 12, s. 60, c. 17, ss. 114, 115; 2003, c. 22, s. 224(E); 2005, c. 38, s. 55.
 
 
 
