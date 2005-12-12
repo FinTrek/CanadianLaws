@@ -1074,13 +1074,13 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Application de certaines dispositions de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
 
-**72** Les articles 231 à 231.5 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, compte tenu des adaptations de circonstance, à la mise en oeuvre de la présente partie et, notamment, comme si :
+**72** Les articles 231 à 231.5 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, compte tenu des adaptations de circonstance, à la mise en oeuvre de la présente partie et, notamment, comme si :
 - **a)** la mention de l’« impôt » était la mention d’une « redevance »;
 - **b)** la mention de « ministre » était la mention de « ministre » au sens de l’article 2 de la présente loi;
-- **c)** la mention de « l’Agence des douanes et du revenu du Canada » était la mention, selon le cas, du « ministère des Ressources naturelles » ou du « ministère des Affaires indiennes et du Nord canadien »;
+- **c)** la mention de « l’Agence du revenu du Canada » était la mention, selon le cas, du « ministère des Ressources naturelles » ou du « ministère des Affaires indiennes et du Nord canadien »;
 - **d)** la mention de la « Cour canadienne de l’impôt » était la mention de la « Cour fédérale »;
 - **e)** la mention d’une « déclaration de revenu » ou d’une « déclaration supplémentaire » était la mention de « rapports » ou « déclarations » déposés en application de la présente partie.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 72; 1994, ch. 41, art. 14; 1999, ch. 17, art. 113.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 72; 1994, ch. 41, art. 14; 1999, ch. 17, art. 113; 2005, ch. 38, art. 138.
 
 
 
