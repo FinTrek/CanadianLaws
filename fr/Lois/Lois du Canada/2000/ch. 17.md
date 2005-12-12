@@ -49,7 +49,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***client*** Toute personne ou entité qui se livre à une opération ou à une activité financières avec une personne ou une entité visées à l’article 5, ainsi que toute personne ou entité pour le compte de qui elle agit.
 
-***commissaire*** S’entend au sens de l’article 2 de la Loi sur l’Agence des douanes et du revenu du Canada.
+***commissaire***[Abrogée, 2005, ch. 38, art. 124]
 
 ***conseiller juridique*** Dans la province de Québec, un avocat ou un notaire et, dans les autres provinces, un *barrister* ou un *solicitor*.
 
@@ -65,12 +65,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***messager*** S’entend au sens prévu par règlement.
 
-***ministre*** Le ministre du Revenu national pour l’application des articles 25 à 39 ou le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de telle autre disposition de la présente loi.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile, pour l’application des articles 25 à 39, ou le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de telle autre disposition de la présente loi.
 
 ***personne*** S’entend d’un particulier.
 
 ***personne autorisée*** Personne autorisée en vertu du paragraphe 45(2).
-> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132.
+
+***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
+> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145.
 
 
 
@@ -417,9 +419,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Rapport au commissaire et au Centre**
+**Rapport au président et au Centre**
 
-**20** L’agent qui a saisi les espèces ou effets en vertu de l’article 18 fait aussitôt un rapport au commissaire et au Centre sur les circonstances de la saisie.
+**20** L’agent qui a saisi les espèces ou effets en vertu de l’article 18 fait aussitôt un rapport au président et au Centre sur les circonstances de la saisie.
+> 2000, ch. 17, art. 20; 2005, ch. 38, art. 127.
+
 
 
 
@@ -505,15 +509,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Signification du commissaire**
+**Signification du président**
 
 **26** 
 
-- **(1)** Le commissaire signifie sans délai par écrit à la personne qui a présenté la demande visée à l’article 25 un avis exposant les circonstances de la saisie à l’origine de la demande.
+- **(1)** Le président signifie sans délai par écrit à la personne qui a présenté la demande visée à l’article 25 un avis exposant les circonstances de la saisie à l’origine de la demande.
 
 **Moyens de preuve**
 
 - **(2)** Le demandeur dispose de trente jours à compter de la signification de l’avis pour produire tous moyens de preuve à l’appui de ses prétentions.
+> 2000, ch. 17, art. 26; 2005, ch. 38, art. 127.
+
 
 
 
@@ -586,7 +592,9 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Signification des avis**
 
-**31** Il suffit, pour que les avis visés aux articles 26 et 27 soient considérés comme respectivement signifiés par le commissaire ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
+**31** Il suffit, pour que les avis visés aux articles 26 et 27 soient considérés comme respectivement signifiés par le président ou le ministre, qu’il en soit fait envoi en recommandé à la dernière adresse connue du destinataire.
+> 2000, ch. 17, art. 31; 2005, ch. 38, art. 127.
+
 
 
 
@@ -605,13 +613,13 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(2)** Le juge du tribunal saisi conformément au présent article fixe à une date postérieure d’au moins trente jours à celle de la requête l’audition de celle-ci.
 
-**Signification au commissaire**
+**Signification au président**
 
-- **(3)** Dans les quinze jours suivant la date ainsi fixée, le requérant signifie au commissaire, ou à l’agent que celui-ci désigne pour l’application du présent article, un avis de la requête et de l’audition.
+- **(3)** Dans les quinze jours suivant la date ainsi fixée, le requérant signifie au président, ou à l’agent que celui-ci désigne pour l’application du présent article, un avis de la requête et de l’audition.
 
 **Signification de l’avis**
 
-- **(4)** Il suffit, pour que l’avis prévu au paragraphe (3) soit considéré comme signifié, qu’il soit envoyé en recommandé au commissaire.
+- **(4)** Il suffit, pour que l’avis prévu au paragraphe (3) soit considéré comme signifié, qu’il soit envoyé en recommandé au président.
 
 **Définition de tribunal**
 
@@ -622,7 +630,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
 	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, de la Section de première instance de la Cour suprême;
 	- **f)** dans le Nunavut, de la Cour de justice du Nunavut.
-> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63.
+> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127.
 
 
 
@@ -655,13 +663,15 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **35** 
 
-- **(1)** Le ministre des Travaux publics et des Services gouvernementaux, une fois la confiscation devenue définitive et dès qu’il a été informé par le commissaire que la personne a, en vertu des articles 33 ou 34, obtenu une ordonnance définitive au sujet des espèces ou effets saisis, fait remettre à cette personne :
+- **(1)** Le ministre des Travaux publics et des Services gouvernementaux, une fois la confiscation devenue définitive et dès qu’il a été informé par le président que la personne a, en vertu des articles 33 ou 34, obtenu une ordonnance définitive au sujet des espèces ou effets saisis, fait remettre à cette personne :
 	- **a)** soit les espèces ou les effets;
 	- **b)** soit une somme dont le montant est basé sur la valeur de son droit sur les espèces ou effets au moment de la contravention, telle qu’elle est fixée dans l’ordonnance.
 
 **Limitation du montant versé**
 
 - **(2)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)b) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
+> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127.
+
 
 
 
@@ -725,9 +735,9 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **38** 
 
-- **(1)** Le ministre, avec le consentement du ministre chargé de l’application de l’article 42, peut conclure, avec le gouvernement d’un État étranger — ou un organisme de celui-ci — qui exige des déclarations similaires à celles que prévoit la présente partie, un accord écrit stipulant que :
-	- **a)** les renseignements figurant dans les déclarations faites au titre du paragraphe 12(1) à l’égard des espèces ou effets importés de cet État au Canada sont communiqués à un ministère ou organisme de cet État dont les attributions sont similaires à celles de l’Agence des douanes et du revenu du Canada;
-	- **b)** les renseignements figurant dans les déclarations à l’égard des espèces ou effets importés dans cet État du Canada sont communiqués à l’Agence des douanes et du revenu du Canada.
+- **(1)** Le ministre, avec le consentement du ministre chargé de l’application de l’article 42, peut conclure, avec le gouvernement d’un État étranger — ou un organisme de celui-ci — qui exige des déclarations similaires à celles que prévoit la présente partie, un accord écrit stipulant que :
+	- **a)** les renseignements figurant dans les déclarations faites au titre du paragraphe 12(1) à l’égard des espèces ou effets importés de cet État au Canada sont communiqués à un ministère ou organisme de cet État dont les attributions sont similaires à celles de l’Agence des services frontaliers du Canada en matière de déclarations à l’égard des espèces ou effets importés;
+	- **b)** les renseignements figurant dans les déclarations à l’égard des espèces ou effets importés dans cet État du Canada sont communiqués à l’Agence des services frontaliers du Canada.
 
 **Assimilation**
 
@@ -736,6 +746,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Assimilation**
 
 - **(3)** Les renseignements obtenus en vertu d’un accord visé au paragraphe (1) sont envoyés au Centre et, pour l’application de toute disposition de la présente loi sur la confidentialité des renseignements ou la collecte ou l’utilisation de ceux-ci par le Centre, sont réputés être des renseignements figurant dans une déclaration faite au titre de l’article 12.
+> 2000, ch. 17, art. 38; 2005, ch. 38, art. 125 et 139.
+
 
 
 
@@ -750,9 +762,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(1)** Le ministre peut autoriser un agent ou une catégorie d’agents à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente partie.
 
-**Attributions du commissaire**
+**Attributions du président**
 
-- **(2)** Le commissaire peut autoriser un agent ou une catégorie d’agents à exercer les pouvoirs et fonctions qui lui sont conférés en vertu de la présente partie.
+- **(2)** Le président peut autoriser un agent ou une catégorie d’agents à exercer les pouvoirs et fonctions qui lui sont conférés en vertu de la présente partie.
+> 2000, ch. 17, art. 39; 2005, ch. 38, art. 127.
+
 
 
 
@@ -1023,9 +1037,14 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(3)** S’il a des motifs raisonnables de soupçonner, à la lumière de son analyse et de son appréciation aux termes de l’alinéa 54c), qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, le Centre communique les renseignements désignés :
 	- **a)** aux forces policières compétentes;
-	- **b)** à l’Agence des douanes et du revenu du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+	- **b)** à l’Agence du revenu du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+	- **b.1)** à l’Agence des services frontaliers du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève de l’Agence;
 	- **c)** [Abrogé, 2001, ch. 41, art. 67]
-	- **d)** au ministère de la Citoyenneté et de l’Immigration, s’il estime en outre que les renseignements sont utiles pour promouvoir l’objectif visé à l’alinéa 3(1)i) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et pour déterminer si une personne est une personne visée aux articles 34 à 42 de cette loi ou se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi.
+	- **d)** à l’Agence des services frontaliers du Canada, s’il estime en outre que les renseignements sont utiles pour promouvoir l’objectif visé à l’alinéa 3(1)i) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et pour déterminer si une personne est une personne visée aux articles 34 à 42 de cette loi ou se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi.
+
+**Exception**
+
+- **(3.1)** Les alinéas (3)b) ou b.1) ne s’appliquent pas aux infractions relatives aux taxes ou aux droits imposés sous le régime de toute loi ou partie de loi précisée par règlement.
 
 - **(4) et (5)** [Abrogés, 2001, ch. 41, art. 67]
 
@@ -1045,7 +1064,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
 	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126.
 
 
 
