@@ -8628,8 +8628,8 @@ except any such expenditure incurred by a corporation that derives all or substa
 ## Tax Transfer Payments
 
 
-**3300** For the purposes of subsection 154(2) of the Act, a rate of 40 per cent is hereby prescribed.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-17, s. 8.
+**3300** For the purposes of subsection 154(2) of the Act, a rate of 45% is prescribed.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-17, s. 8; SOR/2006-1, s. 1.
 
 
 
