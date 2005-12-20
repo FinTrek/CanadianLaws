@@ -8585,8 +8585,8 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 ## Paiements relatifs à la cession de l’impôt
 
 
-**3300** Aux fins du paragraphe 154(2) de la Loi, un taux de 40 pour cent est prescrit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-17, art. 8.
+**3300** Pour l’application du paragraphe 154(2) de la Loi, le taux prescrit est de 45 %.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-17, art. 8; DORS/2006-1, art. 1.
 
 
 
