@@ -648,12 +648,6 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 
 
-
-#### [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md)
-> [Abrogé, 2005, ch. 30, art. 93]
-
-
-
 **91** [Abrogé, 2005, ch. 30, art. 93]
 
 
@@ -853,7 +847,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 <sup><a href='#B-9.854_f_s119'>[*]</a></sup>**119** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='B-9.854_f_s119'><sup>*</sup></a>: [Note : Partie 17 non en vigueur.]<br />
+<a name='B-9.854_f_s119'><sup>*</sup></a>: [Note : Partie 17 en vigueur le 30 décembre 2005, *voir* TR/2005-126.]<br />
 
 
 
