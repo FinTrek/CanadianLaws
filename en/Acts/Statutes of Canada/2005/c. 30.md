@@ -650,12 +650,6 @@ Canada Emission Reduction Incentives Agency Act]
 
 
 
-
-#### [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md)
-> [Repealed, 2005, c. 30, s. 93]
-
-
-
 **91** [Repealed, 2005, c. 30, s. 93]
 
 
@@ -855,7 +849,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 <sup><a href='#B-9.854_e_s119'>[*]</a></sup>**119** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.854_e_s119'><sup>*</sup></a>: [Note: Part 17 not in force.]<br />
+<a name='B-9.854_e_s119'><sup>*</sup></a>: [Note: Part 17 in force December 30, 2005, *see* SI/2005-126.]<br />
 
 
 
