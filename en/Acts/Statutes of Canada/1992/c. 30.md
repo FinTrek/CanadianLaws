@@ -754,13 +754,13 @@ shall, subject to the regulations made pursuant to that Act and to the condition
 
 - **(1)** In this section,
 
-***public servant*** means a deputy head or an employee as defined in subsection 2(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), but does not include a person on the staff of the Chief Electoral Officer;
+***public servant*** means a deputy head or an employee as defined in subsection 2(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), but does not include a person on the staff of the Chief Electoral Officer; (*fonctionnaire*)
 
-***referendum officer*** means returning officers, assistant returning officers, additional assistant returning officers, persons authorized by a returning officer to perform duties under this Act, revising agents, deputy returning officers, poll clerks, registration officers, information officers, persons responsible for maintaining order at a central polling place, central poll supervisors, persons appointed to collect ballot boxes, the special voting rules administrator, special ballot officers, liaison officers for correctional institutions and deputy returning officers and poll clerks for correctional institutions.
+***referendum officer*** means returning officers, assistant returning officers, additional assistant returning officers, persons authorized by a returning officer to perform duties under this Act, revising agents, deputy returning officers, poll clerks, registration officers, information officers, persons responsible for maintaining order at a central polling place, central poll supervisors, persons appointed to collect ballot boxes, the special voting rules administrator, special ballot officers, liaison officers for correctional institutions and deputy returning officers and poll clerks for correctional institutions. (*fonctionnaire référendaire*)
 
 **Participation not precluded**
 
-- **(2)** Section 33 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) shall not be construed or applied so as to restrict the right of a public servant to participate fully in respect of a referendum.
+- **(2)** Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) is not to be construed or applied so as to restrict the right of a public servant to participate fully in respect of a referendum.
 
 **Regulations**
 
@@ -769,7 +769,7 @@ shall, subject to the regulations made pursuant to that Act and to the condition
 **Referendum officers**
 
 - **(4)** Referendum officers shall, in performing their duties and functions under this Act, act impartially and not in any way show favour to any side in a referendum.
-> 1992, c. 30, s. 32; 1996, c. 35, s. 91; 2000, c. 9, s. 570.
+> 1992, c. 30, s. 32; 1996, c. 35, s. 91; 2000, c. 9, s. 570; 2003, c. 22, s. 244.
 
 
 
