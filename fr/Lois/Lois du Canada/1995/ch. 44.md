@@ -129,7 +129,7 @@ La présente définition vise également les personnes dont les limitations fonc
 **Subdélégation**
 
 - **(8)** Les délégataires visés au paragraphe (7) peuvent, compte tenu des conditions et modalités de la délégation, subdéléguer à une ou plusieurs autres personnes les attributions qui leur ont été ainsi conférées.
-> 1995, ch. 44, art. 4; 2001, ch. 34, art. 40(F); 2003, ch. 22, art. 163.
+> 1995, ch. 44, art. 4; 2001, ch. 34, art. 40(F); 2003, ch. 22, art. 163 et 236(A).
 
 
 
@@ -159,9 +159,11 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **6** L’obligation de mise en oeuvre de l’équité en matière d’emploi n’oblige pas l’employeur :
 - **a)** à prendre des mesures susceptibles de lui causer un préjudice injustifié;
-- **b)** à engager ou promouvoir des personnes non qualifiées;
+- **b)** à engager ou promouvoir des personnes qui ne possèdent pas les qualifications essentielles pour le travail à accomplir;
 - **c)** en ce qui concerne le secteur public, à engager ou promouvoir des personnes sans égard au mérite, dans les cas où la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) exige que la sélection soit faite au mérite;
 - **d)** à créer de nouveaux postes.
+> 1995, ch. 44, art. 6; 2003, ch. 22, art. 237.
+
 
 
 
@@ -737,7 +739,7 @@ La présente définition vise également les personnes dont les limitations fonc
 
 - **(1)** Ni la Commission, ni le tribunal, dans l’exercice des pouvoirs qui leur sont respectivement conférés par les articles 25 ou 26 et 30, ne peuvent donner un ordre ou rendre une ordonnance qui :
 	- **a)** causerait un préjudice injustifié à l’employeur;
-	- **b)** l’obligerait à embaucher ou promouvoir une personne non qualifiée;
+	- **b)** l’obligerait à embaucher ou promouvoir une personne qui ne possède pas les qualifications essentielles pour le travail à accomplir;
 	- **c)** en ce qui concerne le secteur public, l’obligerait à embaucher ou promouvoir des personnes sans égard à leur mérite, dans les cas où la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) exige que la sélection soit faite au mérite, ou obligerait la Commission de la fonction publique à utiliser son pouvoir discrétionnaire en matière de décrets d’exemption ou de règlements;
 	- **d)** l’obligerait à créer de nouveaux postes;
 	- **e)** lui imposerait un quota;
@@ -750,6 +752,8 @@ La présente définition vise également les personnes dont les limitations fonc
 **Secteur public**
 
 - **(3)** Dans tout ordre ou ordonnance relatifs au secteur public, la Commission et le tribunal tiennent compte des responsabilités et des rôles respectifs d’une part que la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) confèrent au Conseil du Trésor et à la Commission de la fonction publique, d’autre part que toute autre loi confie à un élément du secteur public visé par les alinéas 4(1)c) ou d).
+> 1995, ch. 44, art. 33; 2003, ch. 22, art. 238.
+
 
 
 
