@@ -8,7 +8,7 @@
 Sanctionnée sur le 7 novembre 2003
 
 ```
-[Édictée par les articles 12 et 13 du chapitre 22 des Lois du Canada (2003), non en vigueur.]
+[Édictée par les articles 12 et 13 du chapitre 22 des Lois du Canada (2003), en vigueur le 31 décembre 2005, voir TR/2005-122.]
 ```
 ----------
 
@@ -66,45 +66,80 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
 ***administrateur général*** S’entend :
-- **a)** dans une administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), du sous-ministre;
-- **b)** dans une administration ou partie d’administration désignée comme ministère en vertu de la présente loi, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)** dans toute administration figurant aux annexes IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
 
-***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **a)
+** dans une administration figurant à l’annexe I de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), du sous-ministre;
+- **b)
+** dans une administration ou partie d’administration désignée comme ministère en vertu de la présente loi, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
+- **c)
+** dans toute administration figurant aux annexes IV ou V de la  
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et dans laquelle les nominations relèvent exclusivement de la Commission, du premier dirigeant de cette administration ou, à défaut, de son administrateur général au titre de la loi ou, à défaut de l’un et l’autre, de la personne que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+
+***administrateur général au titre de la loi*** Toute personne qui, au titre d’une loi fédérale, est ou est réputée être administrateur général ou en a ou est réputée en avoir le rang ou le statut.
+
+
+***administration*** Secteur de l’administration publique fédérale figurant aux annexes I, IV ou V de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
 
 ***Commission*** La Commission de la fonction publique maintenue par le paragraphe 4(1).
 
+
 ***employeur***
-- **a)** Le Conseil du Trésor, dans le cas d’une administration figurant aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission.
+- **a)
+** Le Conseil du Trésor, dans le cas d’une administration figurant aux annexes I ou IV de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)
+** l’organisme distinct en cause, dans le cas d’un organisme distinct dans lequel les nominations relèvent exclusivement de la Commission.
 
 ***fonctionnaire*** Personne employée dans la fonction publique et dont la nomination à celle-ci relève exclusivement de la Commission.
 
+
 ***fonction publique*** L’ensemble des postes qui sont compris dans les entités ci-après ou qui en relèvent :
-- **a)** les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)** les administrations figurant à l’annexe IV de cette loi;
-- **c)** les organismes distincts figurant à l’annexe V de la même loi.
+
+- **a)
+** les ministères figurant à l’annexe I de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)
+** les administrations figurant à l’annexe IV de cette loi;
+- **c)
+** les organismes distincts figurant à l’annexe V de la même loi.
 
 ***ministère***
-- **a)** Administration figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)** toute autre administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
-- **c)** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
+- **a)
+** Administration figurant à l’annexe I de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)
+** toute autre administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi;
+- **c)
+** la partie d’une administration que le gouverneur en conseil désigne à ce titre pour l’application de la présente loi.
 
-***ministre*** S’entend, sauf à l’article 131, de tout ministre figurant à l’article 4 de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la [Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md).
+***ministre*** S’entend, sauf à l’article 131, de tout ministre visé à l’article 4.1 de la 
+[Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md) et de tout ministre d’État visé par la 
+[Loi sur les départements et ministres d’État](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-8.md).
 
 ***mutation*** Transfert d’une personne d’un poste à un autre sous le régime de la partie 3.
 
+
 French version only***nomination externe*** Nomination d’une personne ne faisant pas partie de la fonction publique.
+
 
 French version only***nomination interne*** Nomination d’une personne faisant déjà partie de la fonction publique.
 
-***organisme distinct*** Administration figurant à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
+***organisme distinct*** Administration figurant à l’annexe V de la 
+[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
 
 ***processus de nomination externe*** Processus de nomination dans lequel peuvent être prises en compte tant les personnes appartenant à la fonction publique que les autres.
 
+
 ***processus de nomination interne*** Processus de nomination dans lequel seules peuvent être prises en compte les personnes employées dans la fonction publique.
 
+
 ***Tribunal*** Le Tribunal de la dotation de la fonction publique maintenu par le paragraphe 88(1).
+
 
 **Mention d’un administrateur général**
 
@@ -119,6 +154,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Abus de pouvoir**
 
 - **(4)** Il est entendu que, pour l’application de la présente loi, on entend notamment par « abus de pouvoir » la mauvaise foi et le favoritisme personnel.
+> 2003, ch. 22, art. 12 « 2 » et 271; 2005, ch. 16, art. 17.
+
 
 
 
@@ -1993,7 +2030,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 ## Définitions
 **1** Les définitions qui suivent s’appliquent au paragraphe 39(1) et à la présente annexe.
 
-***ancien combattant*** Sous réserve du paragraphe 2(1) de la présente annexe, personne qui, selon le cas :
+***ancien combattant*** Sous réserve du paragraphe 2(1) de la présente annexe, personne qui, selon le cas : 
 - **a)** pendant la Première Guerre mondiale, était en service actif outre-mer dans la marine, l’armée de terre ou l’aviation, ou a servi en haute mer sur un navire de guerre de Sa Majesté ou d’un allié de celle-ci, et a quitté le service ou a été démobilisée avec des états de service honorables;
 - **b)** pendant la Seconde Guerre mondiale, a été en mission hors de l’hémisphère occidental ou en haute mer sur un navire à bord duquel le service, à l’époque, était considéré comme « temps de mer » pour l’avancement des marins ou l’aurait été si le navire avait été affecté à la marine canadienne, alors qu’elle était en service actif :
 	- **(i)** soit dans la marine, l’armée de terre ou l’aviation de Sa Majesté ou d’un allié de celle-ci, tout en ayant été, au début de son service actif, domiciliée au Canada ou à Terre-Neuve,
@@ -2020,7 +2057,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 ***Première Guerre mondiale*** Guerre déclarée par Sa Majesté le 4 août 1914 à l’Empire allemand (II<sup>e</sup> Reich) et, par la suite, à d’autres puissances.
 
-***Seconde Guerre mondiale*** Guerre déclarée par Sa Majesté le 10 septembre 1939 au III<sup>e</sup> Reich allemand et, par la suite, à l’Italie, à la Finlande, à la Hongrie, à la Roumanie et au Japon.
+***Seconde Guerre mondiale*** Guerre déclarée par Sa Majesté le 10 septembre 1939 au III<sup>e</sup> Reich allemand et, par la suite, à l’Italie, à la Finlande, à la Hongrie, à la Roumanie et au Japon. 
 
 ***survivant d’un ancien combattant*** L’époux survivant ou le conjoint de fait survivant d’une personne décédée des suites de la guerre au titre de laquelle elle était ancien combattant.
 
@@ -2029,7 +2066,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 - **(1)** N’est pas considérée comme ancien combattant la personne qui :
 	- **a)** soit s’est trouvée hors de l’hémisphère occidental ou en haute mer seulement en qualité de passager dans un aéronef ou navire, ou seulement pour une période limitée d’entraînement sur l’un de ces véhicules, dans le cadre d’un programme d’instruction;
-	- **b)** soit, pour faute ou manquement au devoir militaire, a cessé, depuis le 10 septembre 1939, de servir dans la marine, l’armée de terre ou l’aviation de Sa Majesté ou d’un allié de celle-ci, ou de servir dans ces forces à titre de représentant des *Canadian Legion War Services Inc.*, du Conseil national des *Young Men’s Christian Associations of Canada*, des *Knights of Columbus Canadian Army Huts*, ou des *Salvation Army Canadian War**Services*, ou encore dans le personnel du Corps féminin de la Marine royale ou du *South African Military Nursing Service*, ou d’être affectée à une mission spéciale au sens de la définition de ***ancien combattant*** à l’article 1 de la présente annexe.
+	- **b)** soit, pour faute ou manquement au devoir militaire, a cessé, depuis le 10 septembre 1939, de servir dans la marine, l’armée de terre ou l’aviation de Sa Majesté ou d’un allié de celle-ci, ou de servir dans ces forces à titre de représentant des *Canadian Legion War Services Inc.*, du Conseil national des *Young Men’s Christian Associations of Canada*, des *Knights of Columbus Canadian Army Huts*, ou des *Salvation Army Canadian War Services*, ou encore dans le personnel du Corps féminin de la Marine royale ou du *South African Military Nursing Service*, ou d’être affectée à une mission spéciale au sens de la définition de ***ancien combattant*** à l’article 1 de la présente annexe.
 
 - **(2)** Pour l’attribution du statut d’ancien combattant, la Seconde Guerre mondiale est réputée avoir pris fin :
 	- **a)** le 8 mai 1945 en ce qui concerne les opérations sur les théâtres de guerre européen et méditerranéen;
