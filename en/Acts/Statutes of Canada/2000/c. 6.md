@@ -400,9 +400,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
+**Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
 
-**24** For the purposes of sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the President is deemed to be a deputy head and an employee of the CIHR is deemed to be an employee as defined in subsection 2(1) of that Act.
+**24** For the purposes of Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the President is deemed to be a deputy head as defined in subsection 2(1) of that Act and an employee of the CIHR is deemed to be an employee as defined in subsection 2(1) of that Act.
+> 2000, c. 6, s. 24; 2003, c. 22, s. 233.
+
 
 
 
