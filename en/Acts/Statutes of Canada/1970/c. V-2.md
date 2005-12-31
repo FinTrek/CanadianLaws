@@ -223,7 +223,7 @@ such person is qualified to participate in the benefits of the said Act if he pa
 
 **9** 
 
-- **(1)** Paragraphs 16(4)(b) and 17(4)(b) and subsection 17(5) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to every person not described in subsection (2) who
+- **(1)** Paragraph 39(1)(b) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) applies to every person not described in subsection (2) who
 	- **(a)** has served in or on the strength of the special force and, at the commencement of such service, was domiciled in Canada or was a Canadian citizen,
 	- **(b)** has served in a theatre of operations, and
 	- **(c)** has not, by reason of misconduct, ceased so to serve,
@@ -231,12 +231,12 @@ as though that person were a veteran within the meaning of that Act.
 
 **Korean War veterans pensioned for disability**
 
-- **(2)** Paragraphs 16(4)(a) and 17(4)(a) and subsection 17(5) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to every person who
+- **(2)** Paragraph 39(1)(a) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) applies to every person who
 	- **(a)** is in receipt of a pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) for disability resulting from an injury or disease or an aggravation thereof that was attributable to or was incurred during service in or on the strength of the special force or during service in a theatre of operations;
 	- **(b)** at the commencement of his service in or on the strength of the special force, was domiciled in Canada or was a Canadian citizen;
 	- **(c)** has, from causes attributable to his service in or on the strength of the special force, lost the capacity for physical exertion to such an extent as to render him unfit efficiently to pursue the vocation that he was pursuing before such service; and
 	- **(d)** has not been successfully re-established in some other vocation.
-> R.S., 1970, c. V-2, s. 9; 2000, c. 34, s. 57.
+> R.S., 1970, c. V-2, s. 9; 2000, c. 34, s. 57; 2003, c. 22, s. 245.
 
 
 
