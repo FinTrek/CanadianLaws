@@ -21138,7 +21138,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2004
+## au 31 décembre 2005
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21189,6 +21189,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Walpole Island</td>
 </tr>
 <tr>
+<td>General Bank of Canada</td>
+<td>Edmonton</td>
+</tr>
+<tr>
 <td>Banque Laurentienne du Canada</td>
 <td>Montréal</td>
 </tr>
@@ -21213,10 +21217,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Montréal</td>
 </tr>
 <tr>
-<td>Banque Sears Canada</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>La Banque Toronto-Dominion</td>
 <td>Toronto</td>
 </tr>
@@ -21226,14 +21226,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 139, page 751.
+> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 140, page 264.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2004
+## au 31 décembre 2005
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -21349,14 +21349,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 139, page 751.
+> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 140, page 264.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2004
+## au 31 décembre 2005
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -21373,12 +21373,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Bayerische Landesbank</td>
-<td>Bayerische Landesbank</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21408,13 +21402,25 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Credit Suisse First Boston</td>
-<td>Credit Suisse First Boston, succursale de Toronto</td>
+<td>Credit Suisse, succursale de Toronto</td>
 <td>Prêt</td>
 <td>Toronto</td>
 </tr>
 <tr>
 <td>Deutsche Bank AG</td>
 <td>Deutsche Bank AG</td>
+<td>Services complets</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Dexia Crédit Local S.A.</td>
+<td>Dexia Crédit Local S.A.</td>
+<td>Services complets</td>
+<td>Montréal</td>
+</tr>
+<tr>
+<td>Fifth Third Bank</td>
+<td>Fifth Third Bank</td>
 <td>Services complets</td>
 <td>Toronto</td>
 </tr>
@@ -21461,6 +21467,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Toronto</td>
 </tr>
 <tr>
+<td>Société Générale</td>
+<td>Société Générale (Succursale Canada)</td>
+<td>Services complets</td>
+<td>Montréal</td>
+</tr>
+<tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
 <td>Services complets</td>
@@ -21500,6 +21512,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_fr_2'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 139, page 751.
+> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 140, page 264.
 
 
