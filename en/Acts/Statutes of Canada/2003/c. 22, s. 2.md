@@ -8,9 +8,7 @@
 Assented to on 7 November 2003
 
 ```
-[Enacted by section 2 of chapter 22 of the Statutes of Canada, 2003; preamble, sections 1 to 3 and Part 1, in force April 1, 2005, 
-see SI/2005-22; Part 2, other than subparagraph 209(1)(c)(ii), paragraph 211(b) and section 231, in force April 1, 2005, 
-see SI/2005-23; Parts 3 and 4 in force April 1, 2005, see SI/2005-24.]
+[Enacted by section 2 of chapter 22 of the Statutes of Canada, 2003; preamble, sections 1 to 3 and Part 1, in force April 1, 2005, see SI/2005-22; Part 2, other than subparagraph 209(1)(c)(ii), paragraph 211(b) and section 231, in force April 1, 2005, see SI/2005-23; Parts 3 and 4 in force April 1, 2005, see SI/2005-24; subparagraph 209(1)(c)(ii), paragraph 211(b) and section 231 in force December 31, 2005, see SI/2005-123.]
 ```
 ----------
 
@@ -136,11 +134,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Casual employment**
 
-- **(4)** For the purposes of paragraph (f) of the definition ***employee*** in subsection (1), a person employed in the part of the public service to which the Public Service Commission has the exclusive right and authority to make appointments is employed on a casual basis if the person was appointed under section 21.2 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+- **(4)** For the purposes of paragraph (f) of the definition ***employee*** in subsection (1), a person employed in the part of the public service to which the Public Service Commission has the exclusive right to make appointments is employed on a casual basis if the person was appointed under section 50 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
 
 **References to occupants of positions**
 
 - **(5)** Every reference to a person who occupies a position, or to the occupant of a position, includes a person who is acting in that position or who has assumed wholly or substantially the duties and responsibilities of that position, and a reference to a person’s position includes the position of a person who is acting in that position or who has assumed wholly or substantially the duties and responsibilities of that position.
+> 2003, c. 22, ss. 2 “2”, 243.
+
 
 
 
@@ -223,7 +223,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 **DIVISION 3** 
-### Consultation Committees And Co-Development
+### Consultation Committees and Co-Development
 
 
 
