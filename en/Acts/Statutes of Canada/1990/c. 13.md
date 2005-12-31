@@ -252,8 +252,8 @@ Version anglaise seulement***Executive Vice-President*** means the Executive Vic
 
 **Acts and regulations applicable**
 
-- **(4)** Each person employed in the Agency pursuant to subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) and for the purposes of being eligible to enter competitions under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and of sections 11 and 13 of the last-named Act.
-> 1990, c. 13, s. 16; 2003, c. 22, ss. 147, 223(E).
+- **(4)** Each person employed in the Agency pursuant to subsection (2) is deemed to be an employee for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), to be employed in the federal public administration for the purposes of any regulations made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), and to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 1990, c. 13, s. 16; 2003, c. 22, ss. 147, 223(E), 235.
 
 
 
