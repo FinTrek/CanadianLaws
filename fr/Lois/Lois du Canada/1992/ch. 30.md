@@ -746,13 +746,13 @@ doit, sous réserve des règlements d’application de cette loi et des conditio
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***fonctionnaire*** Administrateur général ou fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), exclusion faite du personnel du directeur général des élections.
+***fonctionnaire*** Administrateur général ou fonctionnaire au sens de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), exclusion faite du personnel du directeur général des élections. (*public servant*)
 
-***fonctionnaire référendaire*** Le directeur du scrutin, le directeur adjoint du scrutin, le directeur adjoint du scrutin supplémentaire, toute personne à qui le directeur du scrutin a délégué des fonctions, l’agent réviseur, le scrutateur, le greffier du scrutin, l’agent d’inscription, le préposé à l’information, le responsable du maintien de l’ordre, le superviseur d’un centre de scrutin, la personne nommée pour recueillir les urnes, l’administrateur des règles électorales spéciales, l’agent des bulletins de vote spéciaux, l’agent de liaison d’un établissement correctionnel ainsi que le scrutateur et le greffier du scrutin d’un établissement correctionnel.
+***fonctionnaire référendaire*** Le directeur du scrutin, le directeur adjoint du scrutin, le directeur adjoint du scrutin supplémentaire, toute personne à qui le directeur du scrutin a délégué des fonctions, l’agent réviseur, le scrutateur, le greffier du scrutin, l’agent d’inscription, le préposé à l’information, le responsable du maintien de l’ordre, le superviseur d’un centre de scrutin, la personne nommée pour recueillir les urnes, l’administrateur des règles électorales spéciales, l’agent des bulletins de vote spéciaux, l’agent de liaison d’un établissement correctionnel ainsi que le scrutateur et le greffier du scrutin d’un établissement correctionnel. (*referendum officer*)
 
 **Participation des fonctionnaires**
 
-- **(2)** L’article 33 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) n’a pas pour effet de restreindre le droit d’un fonctionnaire de participer pleinement à des activités référendaires.
+- **(2)** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) n’a pas pour effet de restreindre le droit d’un fonctionnaire de participer pleinement à des activités référendaires.
 
 **Règlement**
 
@@ -761,7 +761,7 @@ doit, sous réserve des règlements d’application de cette loi et des conditio
 **Fonctionnaires référendaires**
 
 - **(4)** Les fonctionnaires référendaires sont tenus d’exercer leurs fonctions avec impartialité et de s’abstenir de favoriser une question référendaire ou de s’y opposer.
-> 1992, ch. 30, art. 32; 1996, ch. 35, art. 91; 2000, ch. 9, art. 570.
+> 1992, ch. 30, art. 32; 1996, ch. 35, art. 91; 2000, ch. 9, art. 570; 2003, ch. 22, art. 244.
 
 
 
