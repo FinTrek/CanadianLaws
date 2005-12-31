@@ -316,15 +316,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Political partisanship**
+**Political activities**
 
 **14** 
 
-- **(1)** For the purposes of sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Chief Executive Officer is deemed to be a deputy head, and an employee is deemed to be an employee within the meaning of that Act.
+- **(1)** For the purposes of Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Chief Executive Officer is deemed to be a deputy head, and an employee is deemed to be an employee, within the meaning of subsection 2(1) of that Act.
 
 **Services of the Public Service Commission**
 
 - **(2)** The Public Service Commission may, at the request of the Agency, provide any service to the Agency that it is authorized to provide to a department under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) or any other related service, and may recover from the Agency the costs incurred in providing the service, and the Commission is, for greater certainty, authorized to enter into arrangements with the Agency for those purposes.
+> 1998, c. 31, s. 14; 2003, c. 22, s. 241.
+
 
 
 
