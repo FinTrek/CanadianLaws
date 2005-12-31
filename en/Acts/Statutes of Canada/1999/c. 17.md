@@ -799,7 +799,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **55** 
 
-- **(1)** For the purpose of deployments or appointments made, or closed competitions held, under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), employees of the Agency must be treated as if they were employees within the meaning of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and had the rights of recourse provided by that Act.
+- **(1)** For the purpose of deployments or appointments made, or advertised internal appointment processes, under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), employees of the Agency must be treated as if they were employees within the meaning of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and had the rights of recourse provided by that Act.
 
 **When deployments made subject to terms**
 
@@ -808,6 +808,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Mobility to the Agency**
 
 - **(3)** When the Agency considers employees within the meaning of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) for employment within the Agency, it must treat them as if they were employees of the Agency and had the rights of recourse of Agency employees.
+> 1999, c. 17, s. 55; 2003, c. 22, s. 229.
+
 
 
 
@@ -825,10 +827,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Political partisanship**
+**Political activities**
 
-**57** Sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to the Commissioner, Deputy Commissioner and employees of the Agency. For the purposes of those sections, the Commissioner and Deputy Commissioner are deemed to be deputy heads and the employees of the Agency are deemed to be employees as defined in section 2 of that Act.
-> 1999, c. 17, s. 57; 2004, c. 16, s. 5(F).
+**57** Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) applies to the Commissioner, Deputy Commissioner and employees of the Agency. For the purposes of that Part, the Commissioner and Deputy Commissioner are deemed to be deputy heads as defined in subsection 2(1) of that Act and the employees of the Agency are deemed to be employees as defined in that subsection.
+> 1999, c. 17, s. 57; 2003, c. 22, s. 230; 2004, c. 16, ss. 5(F), 30(F)..
 
 
 
