@@ -248,8 +248,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de certains textes**
 
-- **(4)** Ces astronautes sont réputés, d’une part, être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), d’autre part, appartenir à l’administration publique fédérale pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), et faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et des articles 11 et 13 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), ainsi qu’en ce qui a trait à l’admissibilité aux concours prévus par cette dernière loi.
-> 1990, ch. 13, art. 16; 2003, ch. 22, art. 147 et 223(A).
+- **(4)** Ces astronautes sont réputés, d’une part, être des agents de l’État pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), d’autre part, appartenir à l’administration publique fédérale pour l’application des règlements pris sous le régime de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), et faire partie de la fonction publique pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+> 1990, ch. 13, art. 16; 2003, ch. 22, art. 147, 223(A) et 235.
 
 
 
