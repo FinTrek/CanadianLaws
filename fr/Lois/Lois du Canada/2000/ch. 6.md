@@ -399,9 +399,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+**Partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
 
-**24** Pour l’application des articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le président et les employés d’IRSC sont réputés être respectivement administrateur général et fonctionnaires, au sens du paragraphe 2(1) de cette loi.
+**24** Pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le président d’IRSC est réputé être administrateur général, au sens du paragraphe 2(1) de cette loi, et les employés d’IRSC, des fonctionnaires, au sens du paragraphe 2(1) de cette loi.
+> 2000, ch. 6, art. 24; 2003, ch. 22, art. 233.
+
 
 
 
