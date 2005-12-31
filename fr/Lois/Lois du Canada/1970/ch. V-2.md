@@ -223,7 +223,7 @@ cette personne est habile à participer aux avantages que prévoit ladite loi si
 
 **9** 
 
-- **(1)** Les alinéas 16(4)b) et 17(4)b) et le paragraphe 17(5) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent aux personnes non visées au paragraphe (2) qui :
+- **(1)** L’alinéa 39(1)b) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique aux personnes non visées au paragraphe (2) qui :
 	- **a)** a servi dans le contingent spécial ou dans les effectifs d’un tel contingent et, au commencement de ce service, était domiciliée au Canada ou était un citoyen canadien,
 	- **b)** a servi sur un théâtre d’opérations, et
 	- **c)** n’a pas, pour cause d’inconduite, cessé de servir ainsi,
@@ -231,12 +231,12 @@ comme si cette personne était un ancien combattant au sens de ladite loi.
 
 **Application aux anciens combattants de la guerre de Corée**
 
-- **(2)** Les alinéas 16(4)a) et 17(4)a) et le paragraphe 17(5) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent à chaque personne qui :
+- **(2)** L’alinéa 39(1)a) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique à chaque personne qui :
 	- **a)** reçoit une pension aux termes de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) pour une invalidité causée par une blessure ou maladie — ou son aggravation — survenue pendant le service dans le contingent spécial, ou dans les effectifs de celui-ci, ou le service sur un théâtre d’opérations, ou qui en résulte;
 	- **b)** au commencement de son service dans le contingent spécial ou dans les effectifs d’un tel contingent, était domiciliée au Canada ou était un citoyen canadien;
 	- **c)** est devenue, pour des causes attribuables à son service dans le contingent spécial ou dans les effectifs d’un tel contingent, incapable d’effort physique à un degré qui la rend inapte à exercer efficacement l’emploi qu’elle occupait avant ce service; et
 	- **d)** n’a pas été rétablie avec succès dans quelque autre emploi.
-> S.R. 1970, ch. V-2, art. 9; 2000, ch. 34, art. 57.
+> S.R. 1970, ch. V-2, art. 9; 2000, ch. 34, art. 57; 2003, ch. 22, art. 245.
 
 
 
