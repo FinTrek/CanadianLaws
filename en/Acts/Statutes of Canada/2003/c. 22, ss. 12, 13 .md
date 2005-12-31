@@ -8,7 +8,7 @@
 Assented to on 7 November 2003
 
 ```
-[Enacted by sections 12 and 13 of chapter 22 of the Statutes of Canada, 2003, not in force.]
+[Enacted by sections 12 and 13 of chapter 22 of the Statutes of Canada, 2003, in force December 31, 2005, see SI/2005-122.]
 ```
 ----------
 
@@ -77,7 +77,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***deputy head***
 - **(a)** in relation to an organization named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), its deputy minister;
 - **(b)** in relation to any organization or part of an organization that is designated as a department under this Act, the person that the Governor in Council designates as the deputy head for the purposes of this Act; and
-- **(c)** in relation to any organization named in Schedule IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to which the Commission has the exclusive authority to make appointments, its chief executive officer or, if there is no chief executive officer, the person designated by the Governor in Council as its deputy head for the purposes of this Act.
+- **(c)** in relation to any organization named in Schedule IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) to which the Commission has the exclusive authority to make appointments, its chief executive officer or, if there is no chief executive officer, its statutory deputy head or, if there is neither, the person designated by the Governor in Council as its deputy head for the purposes of this Act.
 
 ***employee*** means a person employed in that part of the public service to which the Commission has exclusive authority to make appointments.
 
@@ -89,7 +89,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***internal appointment process*** means a process for making one or more appointments in which only persons employed in the public service may be considered.
 
-***minister***, except in section 131, means any minister referred to in section 4 of the [Salaries Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-3.md) and any minister of State referred to in the [Ministries and Ministers of State Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-8.md).
+***minister***, except in section 131, means any minister referred to in section 4.1 of the [Salaries Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-3.md) and any minister of State referred to in the [Ministries and Ministers of State Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-8.md).
 
 ***organization*** means any portion of the federal public administration named in Schedule I, IV or V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
@@ -99,6 +99,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** the separate agencies named in Schedule V to that Act.
 
 ***separate agency*** means an organization named in Schedule V to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+
+***statutory deputy head*** means any officer who, by any Act of Parliament, is or is deemed to be a deputy head or who has, or is deemed to have, the rank of a deputy head.
 
 ***Tribunal*** means the Public Service Staffing Tribunal continued by subsection 88(1).
 
@@ -115,6 +117,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **References to abuse of authority**
 
 - **(4)** For greater certainty, a reference in this Act to abuse of authority shall be construed as including bad faith and personal favouritism.
+> 2003, c. 22, ss. 12 “2”, 271; 2005, c. 16, s. 17.
+
 
 
 
@@ -781,7 +785,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-** Finality of appointments**
+**Finality of appointments**
 
 **49** The Commission’s decision to appoint a person or to propose a person for appointment is final and is not subject to appeal or review except in accordance with this Act.
 
