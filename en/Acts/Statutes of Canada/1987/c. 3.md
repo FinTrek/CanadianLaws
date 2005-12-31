@@ -534,14 +534,14 @@ whichever occurs earlier.
 
 **Mobility of staff**
 
-- **(4)** For the purpose of being eligible for appointment to a position in the public service by competition or other process of personnel selection pursuant to the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md),
+- **(4)** For the purpose of being eligible for appointment to a position in the public service by an appointment process under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md),
 	- **(a)** any person who, immediately prior to being employed by the Board, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board; and
 	- **(b)** any person who, immediately prior to being employed by the Board, was not employed in the public service shall, two years after being employed by the Board, be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board.
 
 **Definition of public service**
 
 - **(5)** In this section, ***public service*** has the same meaning as in the Public Service Labour Relations Act.
-> 1987, c. 3, s. 25; 2003, c. 22, ss. 118, 225(E).
+> 1987, c. 3, s. 25; 2003, c. 22, ss. 118, 225(E), 231.
 
 
 
