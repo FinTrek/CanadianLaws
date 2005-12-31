@@ -322,11 +322,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Les articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent au directeur général et aux employés de l’Agence qui sont, pour leur application, réputés être respectivement administrateur général et fonctionnaires, au sens de cette loi.
+- **(1)** Pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le directeur général et les employés de l’Agence sont réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
 
 **Services de la Commission de la fonction publique**
 
 - **(2)** La Commission de la fonction publique peut, à la demande de l’Agence, fournir à celle-ci les services qu’elle est habilitée à fournir aux ministères dans le cadre de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) ou des services connexes et recouvrer le coût de ces services; il est entendu que la Commission a le pouvoir de conclure des ententes à cette fin.
+> 1998, ch. 31, art. 14; 2003, ch. 22, art. 241.
+
 
 
 
