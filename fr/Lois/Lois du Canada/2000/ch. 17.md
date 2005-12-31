@@ -941,7 +941,9 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Activités politiques**
 
-**50** Le directeur et les employés du Centre sont, pour l’application des articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), réputés être respectivement administrateur général et fonctionnaires, au sens de cette loi.
+**50** Le directeur et les employés du Centre sont, pour l’application de la partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), réputés être respectivement administrateur général et fonctionnaires au sens du paragraphe 2(1) de cette loi.
+> 2000, ch. 17, art. 50; 2003, ch. 22, art. 242.
+
 
 
 
