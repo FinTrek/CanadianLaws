@@ -21609,7 +21609,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2004
+## As at December 31, 2005
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21660,6 +21660,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Walpole Island</td>
 </tr>
 <tr>
+<td>General Bank of Canada</td>
+<td>Edmonton</td>
+</tr>
+<tr>
 <td>Laurentian Bank of Canada</td>
 <td>Montréal</td>
 </tr>
@@ -21684,10 +21688,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Montréal</td>
 </tr>
 <tr>
-<td>Sears Canada Bank</td>
-<td>Toronto</td>
-</tr>
-<tr>
 <td>The Toronto-Dominion Bank</td>
 <td>Toronto</td>
 </tr>
@@ -21697,14 +21697,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 139, page 751.
+> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 140, page 264.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2004
+## As at December 31, 2005
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -21820,14 +21820,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 139, page 751.
+> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 140, page 264.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2004
+## As at December 31, 2005
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -21844,12 +21844,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Full-service</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Bayerische Landesbank</td>
-<td>Bayerische Landesbank</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21879,13 +21873,25 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>Credit Suisse First Boston</td>
-<td>Credit Suisse First Boston Toronto Branch</td>
+<td>Credit Suisse, Toronto Branch</td>
 <td>Lending</td>
 <td>Toronto</td>
 </tr>
 <tr>
 <td>Deutsche Bank AG</td>
 <td>Deutsche Bank AG</td>
+<td>Full-service</td>
+<td>Toronto</td>
+</tr>
+<tr>
+<td>Dexia Crédit Local S.A.</td>
+<td>Dexia Crédit Local S.A.</td>
+<td>Full-service</td>
+<td>Montréal</td>
+</tr>
+<tr>
+<td>Fifth Third Bank</td>
+<td>Fifth Third Bank</td>
 <td>Full-service</td>
 <td>Toronto</td>
 </tr>
@@ -21932,6 +21938,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Toronto</td>
 </tr>
 <tr>
+<td>Société Générale</td>
+<td>Société Générale (Canada Branch)</td>
+<td>Full-service</td>
+<td>Montréal</td>
+</tr>
+<tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
 <td>Full-service</td>
@@ -21971,6 +21983,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 
 <a name='B-1.01_en_1'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 139, page 751.
+> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 140, page 264.
 
 
