@@ -806,7 +806,7 @@ g).
 
 **55** 
 
-- **(1)** En ce qui a trait aux concours internes, aux mutations et aux nominations effectués sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les employés de l’Agence sont traités comme s’ils étaient des fonctionnaires au sens de cette loi et peuvent se prévaloir à cet égard des recours qui y sont prévus.
+- **(1)** En ce qui a trait aux processus de nomination interne annoncés, aux mutations et aux nominations prévus par la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les employés de l’Agence sont traités comme s’ils étaient des fonctionnaires au sens de cette loi et peuvent se prévaloir à cet égard des recours qui y sont prévus.
 
 **Modalités afférentes aux mutations**
 
@@ -815,6 +815,8 @@ g).
 **Dotation au sein de l’Agence**
 
 - **(3)** Lorsqu’elle les admet à postuler un emploi en son sein, l’Agence traite les fonctionnaires, au sens de la Loi sur l’emploi dans la fonction publique, comme s’ils étaient ses employés et avaient les mêmes recours que ceux-ci.
+> 1999, ch. 17, art. 55; 2003, ch. 22, art. 229.
+
 
 
 
@@ -834,8 +836,8 @@ g).
 
 **Activités politiques**
 
-**57** Les articles 32 à 34 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’appliquent aux commissaire, commissaire délégué et employés de l’Agence. À ces fins, les commissaire et commissaire délégué sont réputés être des administrateurs généraux, et les employés, des fonctionnaires, au sens de l’article 2 de cette loi.
-> 1999, ch. 17, art. 57; 2004, ch. 16, art. 5(F).
+**57** La partie 7 de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) s’applique aux commissaire, commissaire délégué et employés de l’Agence. Pour l’application de cette partie, les commissaire et commissaire délégué sont réputés être des administrateurs généraux, au sens du paragraphe 2(1) de cette loi, et les employés, des fonctionnaires, au sens du paragraphe 2(1) de cette loi.
+> 1999, ch. 17, art. 57; 2003, ch. 22, art. 230; 2004, ch. 16, art. 5(F) et 30(F).
 
 
 
