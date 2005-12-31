@@ -483,12 +483,12 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Mutations**
 
-- **(4)** Pour ce qui concerne leur admissibilité à une nomination à un poste dans la fonction publique à la suite d’un concours ou selon tel mode de sélection établi sous le régime de la [Loi sur l’emploi dans la Fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les agents de l’Office qui faisaient partie de la fonction publique sont considérés comme des fonctionnaires du ministère de l’Énergie, des Mines et des Ressources du lieu où ils exercent leurs fonctions dans un poste dont la nature et le niveau équivalent à ceux de leur poste de l’Office, et ceux qui n’en faisaient pas partie sont considérés tels deux ans après leur entrée en fonctions.
+- **(4)** Pour ce qui concerne leur admissibilité à une nomination à un poste dans la fonction publique à la suite de tout processus de nomination sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les agents de l’Office qui faisaient partie de la fonction publique sont considérés comme des fonctionnaires du ministère de l’Énergie, des Mines et des Ressources du lieu où ils exercent leurs fonctions dans un poste dont la nature et le niveau équivalent à ceux de leur poste de l’Office, et ceux qui n’en faisaient pas partie sont considérés tels deux ans après leur entrée en fonctions.
 
 **Définition de fonction publique**
 
 - **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123 et 225(A).
+> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232.
 
 
 
