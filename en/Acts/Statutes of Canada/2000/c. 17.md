@@ -943,9 +943,11 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 
 
-**Political partisanship**
+**Political activities**
 
-**50** Sections 32 to 34 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) apply to the Director and employees of the Centre. For the purposes of those sections, the Director is deemed to be a deputy head and the employees are deemed to be employees as defined in section 2 of that Act.
+**50** Part 7 of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) applies to the Director and employees of the Centre. For the purposes of that Part, the Director is deemed to be a deputy head, and the employees are deemed to be employees, as defined in subsection 2(1) of that Act.
+> 2000, c. 17, s. 50; 2003, c. 22, s. 242.
+
 
 
 
