@@ -120,13 +120,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **Deemed employer**
 
-- **(5)** Every portion of the public sector referred to in paragraphs (1)(c) and (d) is deemed to be an employer for the purposes of this Act in relation to employees employed in that portion except that, with respect to any of those portions for which the Public Service Commission exercises any power or performs any duty or function under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Public Service Commission and that portion are responsible for carrying out the obligations of an employer under this Act.
+- **(5)** Every portion of the public sector referred to in paragraphs (1)(c) and (d) is deemed to be an employer for the purposes of this Act in relation to employees employed in that portion except that, with respect to any of those portions for which the Public Service Commission exercises any power or performs any function under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), the Public Service Commission and that portion are responsible for carrying out the obligations of an employer under this Act.
 
 **References to employer**
 
 - **(6)** In this Act, a reference to an employer is deemed, in relation to those portions of the public sector referred to in
-	- **(a)** paragraph (1)(b), to be a reference to the Treasury Board and the Public Service Commission, each acting within the scope of its powers, duties and functions under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md); and
-	- **(b)** paragraphs (1)(c) and (d) for which the Public Service Commission exercises any power or performs any duty or function under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), to be a reference to the employer and the Public Service Commission.
+	- **(a)** paragraph (1)(b), to be a reference to the Treasury Board and the Public Service Commission, each acting within the scope of its powers and functions under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md); and
+	- **(b)** paragraphs (1)(c) and (d) for which the Public Service Commission exercises any power or performs any function under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md), to be a reference to the employer and the Public Service Commission.
 
 **Delegation by Treasury Board and Public Service Commission**
 
@@ -135,7 +135,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 **Delegation by chief executive officer or deputy head**
 
 - **(8)** Any chief executive officer or deputy head authorized under subsection (7) to exercise any of the powers and perform any of the duties and functions of the Treasury Board or Public Service Commission may, subject to and in accordance with the authorization given to that officer or deputy head, authorize one or more persons to exercise any of those powers and perform any of those duties and functions.
-> 1995, c. 44, s. 4; 2001, c. 34, s. 40(F); 2003, c. 22, s. 163.
+> 1995, c. 44, s. 4; 2001, c. 34, s. 40(F); 2003, c. 22, ss. 163, 236(E).
 
 
 
@@ -165,9 +165,11 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 **6** The obligation to implement employment equity does not require an employer
 - **(a)** to take a particular measure to implement employment equity where the taking of that measure would cause undue hardship to the employer;
-- **(b)** to hire or promote unqualified persons;
-- **(c)** with respect to the public sector, to hire or promote persons without basing the hiring or promotion on selection according to merit in cases where the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) requires that hiring or promotion be based on selection according to merit; or
+- **(b)** to hire or promote persons who do not meet the essential qualifications for the work to be performed;
+- **(c)** with respect to the public sector, to hire or promote persons without basing the hiring or promotion on merit in cases where the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) requires that hiring or promotion be based on merit; or
 - **(d)** to create new positions in its workforce.
+> 1995, c. 44, s. 6; 2003, c. 22, s. 237.
+
 
 
 
@@ -760,8 +762,8 @@ the employer may inform the compliance officer of such belief.
 
 - **(1)** The Commission may not give a direction under section 25 or 26 and no Tribunal may make an order under section 30 where that direction or order would
 	- **(a)** cause undue hardship on an employer;
-	- **(b)** require an employer to hire or promote unqualified persons;
-	- **(c)** with respect to the public sector, require an employer to hire or promote persons without basing the hiring or promotion on selection according to merit in cases where the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) requires that hiring or promotion be based on selection according to merit, or impose on the Public Service Commission an obligation to exercise its discretion regarding exclusion orders or regulations;
+	- **(b)** require an employer to hire or promote persons who do not meet the essential qualifications for the work to be performed;
+	- **(c)** with respect to the public sector, require an employer to hire or promote persons without basing the hiring or promotion on merit in cases where the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) requires that hiring or promotion be based on merit, or impose on the Public Service Commission an obligation to exercise its discretion regarding exclusion orders or regulations;
 	- **(d)** require an employer to create new positions in its workforce;
 	- **(e)** impose a quota on an employer; or
 	- **(f)** in the case of a direction or order respecting the establishment of short term numerical goals, fail to take into account the factors set out in subsection 10(2).
@@ -775,6 +777,8 @@ the employer may inform the compliance officer of such belief.
 - **(3)** In making a direction or order that applies to the public sector, the Commission, in the case of a direction, and a Tribunal, in the case of an order, shall take into account the respective roles and responsibilities of
 	- **(a)** the Public Service Commission and the Treasury Board under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) and the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 	- **(b)** a portion of the public sector referred to in paragraph 4(1)(c) or (d) under any other Act of Parliament.
+> 1995, c. 44, s. 33; 2003, c. 22, s. 238.
+
 
 
 
