@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1985/ch.%2029%20(3rd%20Supp.).md)
 
-# Motor Vehicle Transport Act, 1987
+# Motor Vehicle Transport Act
 
 **S.C. 1985, c. 29 (3rd Supp.)**
 
@@ -18,7 +18,9 @@
 
 **Short title**
 
-**1** This Act may be cited as the Motor Vehicle Transport Act, 1987.
+**1** This Act may be cited as the Motor Vehicle Transport Act.
+> R.S., 1985, c. 29 (3rd Supp.), s. 1; 2001, c. 13, s. 1.
+
 
 
 
@@ -37,7 +39,9 @@
 
 ***extra-provincial bus undertaking*** means a work or undertaking, for the transport of passengers or passengers and goods by bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; (*entreprise extra-provinciale de transport par autocar*)
 
-***extra-provincial truck transport*** means the transport of goods by means of an extra-provincial truck undertaking; (*camionnage extra-provincial*)
+***extra-provincial motor carrier undertaking*** means an extra-provincial bus undertaking or an extra-provincial truck undertaking; (*entreprise extra-provinciale de transport routier*)
+
+***extra-provincial truck transport***[Repealed, 2001, c. 13, s. 2]
 
 ***extra-provincial truck undertaking*** means a work or undertaking, for the transport of goods by motor vehicle other than a bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; (*entreprise de camionnage extra-provinciale*)
 
@@ -47,63 +51,102 @@
 
 ***local bus undertaking*** means a work or undertaking for the transport of passengers or passengers and goods by bus, not being an extra-provincial bus undertaking; (*entreprise locale de transport par autocar*)
 
-***local truck transport*** means the transport of goods by means of a local truck undertaking; (*camionnage local*)
+***local truck transport***[Repealed, 2001, c. 13, s. 2]
 
-***local truck undertaking*** means a work or undertaking for the transport of goods by motor vehicle other than by bus, not being an extra-provincial truck undertaking; (*entreprise de camionnage locale*)
+***local truck undertaking***[Repealed, 2001, c. 13, s. 2]
 
 ***Minister*** means the Minister of Transport; (*ministre*)
 
-***prescribed*** means prescribed by regulation under this Act;
+***prescribed***[Repealed, 2001, c. 13, s. 2]
 
-***provincial transport board*** means a board, commission or other body or person having, under the law of a province, authority to control or regulate the operation of local bus undertakings or local truck undertakings. (*office provincial*)
+***provincial authority*** means a person or body that has, under the law of a province, authority to control or regulate motor carrier undertakings that operate exclusively in the province. (*autorité provinciale*)
+
+***provincial transport board***[Repealed, 2001, c. 13, s. 2]
 
 **Interpretation**
 
 - **(2)** For the purposes of this Act, an extra-provincial bus undertaking or extra-provincial truck undertaking is operated in a province if it is operated into, in, across or out of the province.
+> R.S., 1985, c. 29 (3rd Supp.), s. 2; 2001, c. 13, s. 2.
 
 
 
 
-## Safety
+
+## Objectives
 
 
 
-**Regulations**
+**Statement of objectives**
 
 **3** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister made after consultation by the Minister with the government of each province affected thereby, make regulations respecting the safe operation of extra-provincial bus undertakings or extra-provincial truck undertakings including, without limiting the generality of the foregoing, regulations respecting audit, inspection, entry on premises and the provision of information.
+- **(1)** The objectives of this Act are to ensure that the National Transportation Policy set out in section 5 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) is carried out with respect to extra-provincial motor carrier undertakings, and, more specifically, that
+	- **(a)** the regulatory regime for those undertakings is focused on safety performance assessments based on the National Safety Code for Motor Carriers; and
+	- **(b)** the operating standards that apply to those undertakings are applied consistently across Canada.
 
-**Incorporation by reference**
+**Statements of policy by Governor in Council**
 
-- **(2)** A regulation under subsection (1) may incorporate by reference the law of a province as amended from time to time.
+- **(2)** The Governor in Council may, on the recommendation of the Minister, after consultation by the Minister with the provinces, issue transportation policy statements consistent with the objectives set out in subsection (1).
 
-**Prohibition**
+**Provincial authority to comply with guidelines**
 
-- **(3)** No person shall operate an extra-provincial bus undertaking or extra-provincial truck undertaking in contravention of any regulation made under subsection (1).
+- **(3)** Provincial authorities shall, with respect to extra-provincial motor carrier undertakings, have regard to all transportation policy statements issued under subsection (2).
+> R.S., 1985, c. 29 (3rd Supp.), s. 3; 2001, c. 13, s. 3.
 
 
 
 
-**PART I** 
+
+**Power to conduct research**
+
+**3.1** The Minister may conduct any research, studies and evaluations that the Minister considers necessary to carry out the objectives of this Act.
+> 2001, c. 13, s. 3.
+
+
+
+
+
+## Arrangements
+
+
+
+**Agreements**
+
+**3.2** 
+
+- **(1)** The Minister may, after consultation with the provinces and on the terms and conditions that the Minister may specify, enter into agreements in support of the objectives set out in section 3 with provincial governments or with other persons or bodies.
+
+**International arrangements**
+
+- **(2)** The Minister may, after consultation with the provinces and on the terms and conditions that the Minister may specify, enter into arrangements with foreign states or agencies of those states to promote the objectives of this Act, including the recognition in Canada of documents analogous to safety fitness certificates issued by those states or agencies and the recognition by them of safety fitness certificates.
+> 2001, c. 13, s. 3.
+
+
+
+
+
 ## Bus Transport
 
 
 
-### Operating Licence
+### Operating Licences
 
 
 
 **Operation without licence prohibited**
 
-**4** Where in any province a licence is, by the law of the province, required for the operation of a local bus undertaking, no person shall operate an extra-provincial bus undertaking in that province except under and in accordance with a licence issued under the authority of this Part.
+**4** Where in any province a licence is, by the law of the province, required for the operation of a local bus undertaking, no person shall operate an extra-provincial bus undertaking in that province except under and in accordance with a licence issued under the authority of this Act.
+> R.S., 1985, c. 29 (3rd Supp.), s. 4; 2001, c. 13, s. 4.
+
 
 
 
 
 **Issue of licence**
 
-**5** The provincial transport board in each province may, in its discretion, issue a licence to a person to operate an extra-provincial bus undertaking in the province on the like terms and conditions and in the like manner as if the extra-provincial bus undertaking were a local bus undertaking.
+**5** The provincial authority in each province may, in its discretion, issue a licence to a person to operate an extra-provincial bus undertaking in the province on the like terms and conditions and in the like manner as if the extra-provincial bus undertaking were a local bus undertaking.
+> R.S., 1985, c. 29 (3rd Supp.), s. 5; 2001, c. 13, s. 5.
+
 
 
 
@@ -114,122 +157,141 @@
 
 **Tariffs and tolls**
 
-**6** Where in any province tariffs and tolls for local bus transport are determined or regulated by the provincial transport board, the provincial transport board may, in its discretion, determine or regulate the tariffs and tolls for extra-provincial bus transport on the like terms and conditions and in the like manner as if the extra-provincial bus transport were local bus transport.
+**6** Where in any province tariffs and tolls for local bus transport are determined or regulated by the provincial authority, the authority may, in its discretion, determine or regulate the tariffs and tolls for extra-provincial bus transport on the like terms and conditions and in the like manner as if the extra-provincial bus transport were local bus transport.
+> R.S., 1985, c. 29 (3rd Supp.), s. 6; 2001, c. 13, s. 5.
 
 
 
 
-**PART II** 
-## Trucking
+
+## Extra-Provincial Motor Carrier Safety
 
 
 
-### Operating Licence
+**Operation without safety fitness certificate prohibited**
+
+**7** 
+
+- **(1)** Subject to the regulations, no person or body shall operate an extra-provincial motor carrier undertaking except under a safety fitness certificate issued by a provincial authority under this Act or an analogous document prescribed by the regulations.
+
+**Form of certificate**
+
+- **(2)** A safety fitness certificate need not be in any particular form.
+
+**Applicable safety laws**
+
+- **(3)** Laws of a province respecting the safety of motor carrier undertakings apply to an extra-provincial motor carrier undertaking to the extent that those laws are not inconsistent with this Act.
+> R.S., 1985, c. 29 (3rd Supp.), s. 7; 2001, c. 13, s. 5.
 
 
 
-**Operation without licence prohibited**
-
-**7** Where in any province a licence is, by the law of the province, required for the operation of a local truck undertaking, no person shall operate an extra-provincial truck undertaking in that province except under and in accordance with a licence issued under the authority of this Part.
 
 
-
-
-**Issue of licence**
+**Issuance of safety fitness certificate**
 
 **8** 
 
-- **(1)** Subject to this section and to any regulations made pursuant to section 9, the provincial transport board in each province may issue a licence to a person to operate an extra-provincial truck undertaking in the province on the like terms and conditions and in the like manner as if the extra-provincial truck undertaking were a local truck undertaking.
+- **(1)** The provincial authority in each province may, subject to the regulations, issue a safety fitness certificate to a person or body to operate an extra-provincial motor carrier undertaking, and may revoke any certificate so issued.
 
-**Idem**
+**Certificate valid throughout Canada**
 
-- **(2)** The provincial transport board in a province shall, in exercising its powers under subsection (1), issue a licence to operate an extra-provincial truck undertaking in that province to an applicant therefor who submits to the board prescribed evidence that the applicant meets the prescribed criteria relating to the fitness of the applicant to hold such a licence.
+- **(2)** A safety fitness certificate issued under subsection (1) is valid throughout Canada.
 
-**Public hearings**
+**Review of decisions with respect to safety fitness certificates**
 
-- **(3)** Notwithstanding subsection (2), where under the law of a province the provincial transport board is authorized to hold a public hearing with respect to an application for a licence to operate a local truck undertaking, the board shall not hold a public hearing with respect to an application for a licence referred to in subsection (2) unless an interested person who objects to the issue of the licence provides the board with evidence that satisfies the board that, in the absence of evidence to the contrary, the operation of the extra-provincial truck undertaking in respect of which the licence is sought would likely be detrimental to the public interest.
+- **(3)** The following rules apply to the review of decisions with respect to the issuance or revocation of safety fitness certificates in a province by a provincial authority:
+	- **(a)** any rules with respect to the right of review, and any proceedings governing reviews, applicable in that province in respect of such decisions; and
+	- **(b)** in the absence of rules or procedures established under paragraph (a), the rules with respect to the right of review, and the procedures governing reviews, of decisions with respect to the issuance and revocation of licences of motor carrier undertakings in that province.
+> R.S., 1985, c. 29 (3rd Supp.), s. 8; 2001, c. 13, s. 5.
 
-**Objection by interested person**
 
-- **(4)** Notwithstanding subsection (2), where under the law of a province an interested person may object to the issue by the provincial transport board of a licence to operate a local truck undertaking, the provincial transport board is not required to issue a licence referred to in subsection (2) if an interested person objects to the issue of the licence and establishes to the satisfaction of the board that the operation of the extra-provincial truck undertaking in respect of which the licence is sought would likely be detrimental to the public interest.
 
-**Implementation**
 
-- **(5)** In applying subsections (3) and (4), a provincial transport board shall
-	- **(a)** give primary emphasis to the interests of users of transportation services, whether those services are provided by the undertaking or not; and
-	- **(b)** have regard to any statement of public transportation policy issued by the Governor in Council after consultation by the Minister with the government of each province affected thereby.
 
-**Limitation**
+**Withdrawal of power to issue safety fitness certificates**
 
-- **(6)** Subject to subsection 10(3) but notwithstanding any other provision of this Part, after the day on which subsections (3) to (5) and paragraphs 9(1)(a) to (d) cease to have effect,
-	- **(a)** a provincial transport board may not attach any restrictions or conditions to a licence issued under the authority of this Part; and
-	- **(b)** the restrictions and conditions to which any licence issued under the authority of this Part is subject, except the condition referred to in subsection 10(3), shall cease to have effect.
+**9** 
 
+- **(1)** If the Minister is satisfied after consultation with the provinces that the provincial authority in a province is not issuing safety fitness certificates in accordance with this Act, the Minister may, by order, withdraw its power to issue such certificates.
+
+**Effective date of withdrawal**
+
+- **(2)** An order made under subsection (1) takes effect on the date of its publication in the Canada Gazette.
+
+**Undertaking that holds a certificate**
+
+- **(3)** An extra-provincial motor carrier undertaking that holds a safety fitness certificate issued by a provincial authority whose power to issue certificates under this section has been withdrawn shall, not later than sixty days after publication of an order made under subsection (1), file a declaration with another provincial authority that the undertaking is subject to supervision by it.
+> R.S., 1985, c. 29 (3rd Supp.), s. 9; 1992, c. 1, s. 144(F); 2001, c. 4, s. 100(E), c. 13, s. 5.
+
+
+
+
+
+**Reinstatement**
+
+**10** If the Minister is satisfied that a provincial authority referred to in subsection 9(3) has remedied its default and established a plan to ensure that the default does not recur, the Minister shall, by order, revoke the order made under subsection 9(1).
+> R.S., 1985, c. 29 (3rd Supp.), s. 10; 2001, c. 13, s. 5.
+
+
+
+
+
+****
+
+**11. to 15** [Repealed, 1996, c. 17, s. 19]
+
+
+
+
+## Exemptions, Regulations, Foreign Carriers and Offence and Punishment
+
+
+
+### Exemptions
+
+
+
+**Exemptions**
+
+**16** 
+
+- **(1)** The Minister may, after consultation with the provinces that would be affected by a proposed exemption, exempt from the application of any provision of this Act or the regulations, either generally or for a limited period or in respect of a limited area, any person, the whole or any part of any extra-provincial motor carrier undertaking or any class of those undertakings, if in the opinion of the Minister the exemption is in the public interest and is not likely to affect motor carrier safety.
+
+**Terms and conditions**
+
+- **(2)** An exemption under subsection (1) is subject to any terms or conditions that the Minister may specify in it.
+> R.S., 1985, c. 29 (3rd Supp.), s. 16; 2001, c. 13, s. 6.
+
+
+
+
+
+### Regulations
 
 
 
 **Regulations**
 
-**9** 
+**16.1** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister made after consultation by the Minister with the government of each province affected thereby, make regulations
-	- **(a)** prescribing restrictions or conditions to which licences issued under the authority of this Part shall be subject;
-	- **(b)** requiring an applicant for a licence under this Part to furnish to the provincial transport board information respecting the applicant’s identity and service proposal;
-	- **(c)** exempting corridor operations from the application of subsections 8(3) to (5);
-	- **(d)** exempting from the application of subsections 8(3) to (5) the extra-provincial truck transport of such commodities as may be specified in the regulations;
-	- **(e)** prescribing as the criteria relating to the fitness of an applicant to hold a licence issued under the authority of this Part
-		- **(i)** the criteria set out in any agreement between the Government of Canada and the governments of all of the provinces, as amended from time to time, or
-		- **(ii)** in the absence of any agreement referred to in subparagraph (i) or on failure to renew such an agreement, such criteria as the Governor in Council may consider necessary;
-	- **(f)** authorizing any person or body to determine and certify whether an applicant for a licence under this Part meets, or the holder of a licence issued under the authority of this Part continues to meet, the requirements related to safety that are included in the criteria prescribed pursuant to paragraph (e) and to determine and certify the level at which the applicant or holder of the licence meets those requirements;
-	- **(g)** prescribing the type, amount and conditions of insurance coverage and of bonding or suretyship coverage required to be held by an extra-provincial truck undertaking;
-	- **(h)** prescribing any other matter or thing that by this Part is to be prescribed; and
-	- **(i)** generally as may be necessary for the purposes and provisions of this Part.
+- **(1)** The Governor in Council may, on the recommendation of the Minister made after consultation by the Minister with the provinces that would be affected by the proposed regulation, make regulations for the attainment of the objectives of this Act and, in particular, regulations
+	- **(a)** prescribing classes of extra-provincial motor carrier undertakings for the purposes of this Act, or any or all regulations under this Act;
+	- **(b)** respecting the criteria according to which provincial authorities may issue safety fitness certificates under section 8;
+	- **(c)** prescribing analogous documents for the purpose of subsection 7(1);
+	- **(d)** respecting the safe operation of extra-provincial motor carrier undertakings including regulations respecting audit, inspection, entry on premises and the provision of information;
+	- **(e)** prescribing the criteria relating to the fitness of an extra-provincial motor carrier undertaking to hold a safety fitness certificate issued under section 8;
+	- **(f)** prescribing the type, amount and conditions of insurance and bonding coverage required to be held by an extra-provincial motor carrier undertaking;
+	- **(g)** prescribing the information that applicants, extra-provincial motor carrier undertakings and provincial authorities must provide to the Minister, to other provincial authorities or to foreign states or agencies of those states;
+	- **(h)** prescribing the conditions of carriage and the limitations of liability that apply with respect to extra-provincial motor carrier undertakings; and
+	- **(i)** restricting or otherwise governing the release of pollutants into the environment from the operation of vehicles operated by extra-provincial motor carrier undertakings.
 
-**Fitness criteria**
+**Incorporation by reference**
 
-- **(2)** The criteria relating to the fitness of an applicant referred to in paragraph (1)(e) shall include requirements related to safety and insurance and may include requirements relating to bonding or suretyship coverage and to any other requirement relating to the fitness of an applicant to hold a licence.
-> R.S., 1985, c. 29 (3rd Supp.), s. 9; 1992, c. 1, s. 144(F); 2001, c. 4, s. 100(E).
+- **(2)** A regulation made under subsection (1) may incorporate by reference all or any portion of another document, as amended from time to time, including
+	- **(a)** a standard relating to the safe operation of a motor carrier undertaking; and
+	- **(b)** the law of a province relating to motor vehicle undertakings.
+> 2001, c. 13, s. 6.
 
-
-
-
-
-**Compliance with fitness criteria**
-
-**10** 
-
-- **(1)** The holder of a licence issued under the authority of this Part shall not operate the undertaking in respect of which the licence was issued during any period during which the holder does not meet the criteria prescribed pursuant to paragraph 9(1)(e).
-
-**Licence not transferable**
-
-- **(2)** A licence issued under the authority of this Part is not transferable.
-
-**Condition**
-
-- **(3)** It is a condition of every licence issued under the authority of this Part that the holder thereof will comply with subsections (1) and (2) and any regulations made under subsection 3(1).
-
-
-
-
-**PART III** 
-## 
-> [Repealed, 1996, c. 17, s. 19]
-
-
-
-
-**PART IV** 
-## Exceptions and Enforcement
-
-
-
-### Exemption
-
-
-
-**Exemption**
-
-**16** The Governor in Council may, by regulation, on the recommendation of the Minister made after consultation by the Minister with the government of each province affected thereby, exempt from the application of this Act or of any provision of this Act, either generally or for a limited period or in respect of a limited area, any person, the whole or any part of any extra-provincial bus undertaking or extra-provincial truck undertaking, every extra-provincial bus undertaking or extra-provincial truck undertaking, any group or class of such undertakings or any extra-provincial bus transport or extra-provincial truck transport.
 
 
 
@@ -242,16 +304,19 @@
 
 **17** 
 
-- **(1)** Where the Minister is of the opinion that a government in a foreign country has engaged in unfair, discriminatory or restrictive practices with regard to Canadian carriers that transport goods by motor vehicle in that country or between that country and Canada, the Minister shall, with the concurrence of the Minister of Foreign Affairs, seek elimination of such practices through consultations.
+- **(1)** If the Minister is of the opinion that a government in a foreign state has engaged in unfair, discriminatory or restrictive practices with regard to Canadian extra-provincial motor carrier undertakings that operate in that state or between that state and Canada, the Minister shall, with the concurrence of the Minister of Foreign Affairs, seek elimination of those practices through consultations with that state.
 
 **Order in Council**
 
-- **(2)** Where the consultations referred to in subsection (1) fail to result in the elimination of the practices referred to in that subsection, the Governor in Council may, on the recommendation of the Minister and the Minister of Foreign Affairs made after consultation by the Minister with the government of each province affected thereby, notwithstanding this Act or any other Act of Parliament, by order,
-	- **(a)** prohibit or restrict the issuance of any licence under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier,
-	- **(b)** direct any provincial transport board to amend or suspend any licence issued under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier, and
-	- **(c)** direct any provincial transport board to reinstate any licence suspended in accordance with a direction issued under paragraph (b),
-subject to such terms and conditions as may be specified in the order, and a provincial transport board to which the order applies shall comply with the order.
-> R.S., 1985, c. 29 (3rd Supp.), s. 17; 1995, c. 5, s. 25.
+- **(2)** If the consultations referred to in subsection (1) fail to result in the elimination of the practices referred to in that subsection, the Governor in Council may, on the recommendation of the Minister and the Minister of Foreign Affairs made after consultation by the Minister with the provinces that would be affected by the proposed order, notwithstanding anything in this Act or any other Act of Parliament, by order, subject to any conditions that may be specified in the order,
+	- **(a)** prohibit or restrict the issuance of a safety fitness certificate under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier;
+	- **(b)** direct any provincial authority to suspend a safety fitness certificate issued under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier; and
+	- **(c)** direct any provincial authority to reinstate a safety fitness certificate suspended in accordance with a direction issued under paragraph (b).
+
+**Compliance**
+
+- **(3)** A provincial authority to which an order applies shall comply with it.
+> R.S., 1985, c. 29 (3rd Supp.), s. 17; 1995, c. 5, s. 25; 2001, c. 13, s. 7.
 
 
 
@@ -294,6 +359,15 @@ subject to such terms and conditions as may be specified in the order, and a pro
 
 
 
+**Venue**
+
+**20.1** A prosecution under this Act may be instituted, tried and determined by a court in any territorial jurisdiction in which the accused carries on business, regardless of where the subject-matter of the prosecution arose.
+> 2001, c. 13, s. 8.
+
+
+
+
+
 **Disposition of fines**
 
 **21** A fine imposed under section 19 shall be paid over by the provincial court judge or officer receiving it to the treasurer of the province in which it was imposed.
@@ -303,144 +377,37 @@ subject to such terms and conditions as may be specified in the order, and a pro
 
 **Proof of documents**
 
-**22** In any proceedings for an offence under this Act, any document purporting to be certified by the secretary of a provincial transport board to be a true copy of any order or direction made by the board is, without proof of the signature or of the official character of the person appearing to have signed the document, evidence of the original document of which it purports to be a copy.
+**22** In any proceedings for an offence under this Act, any document purporting to be certified by a provincial authority to be a true copy of any order or direction made by it is, without proof of the signature or of the official character of the person appearing to have signed the document, evidence of the original document of which it purports to be a copy.
+> R.S., 1985, c. 29 (3rd Supp.), s. 22; 2001, c. 13, s. 9.
 
 
 
 
-**PART V** 
-## Consequential Amendments and Coming into Force
+
+## Transitional Provisions
 
 
 
-### Repeal
+**Deeming**
 
+**23** If an extra-provincial motor carrier undertaking is, on the day immediately before the coming into force of this section, authorized to operate within a province, the undertaking is deemed to hold a safety fitness certificate issued under section 8.
+> R.S., 1985, c. 29 (3rd Supp.), s. 23; 2001, c. 13, s. 9.
 
-**23** [Repeal]
-
-
-
-
-### Energy Supplies Emergency Act
-
-
-**24** [Amendment]
-
-
-
-
-### Canada Grain Act
-
-
-**25** [Amendment]
-
-
-
-
-### National Transportation Act, 1987
-
-
-**26** [Amendments]
-
-
-
-
-### Transitional
-
-
-
-**Continuation of licences respecting bus undertakings**
-
-**27** Every licence authorizing the operation of an extra-provincial bus undertaking that has been issued under the authority of the Motor Vehicle Transport Act and that is in effect on the day immediately before the day on which this Act, except section 26, comes into force shall be deemed to have been issued under the authority of Part I of this Act.
-
-
-
-
-**Intra-provincial bus transport**
-
-**28** For greater certainty, every licence authorizing the operation of an extra-provincial bus undertaking between any two points in a province that purports to have been issued under a law of the province prior to the coming into force of this Act, except section 26, and that purports to be in effect on the day immediately before this Act, except section 26, comes into force shall be deemed to have been issued under the authority of Part I of this Act if that licence was issued to a person who at the time of issuance was the holder of a licence issued under the authority of the Motor Vehicle Transport Act in respect of the same extra-provincial bus undertaking.
-
-
-
-
-**Continuation of licences respecting truck undertakings**
-
-**29** 
-
-- **(1)** Subject to subsection (2), every licence authorizing the operation of an extra-provincial truck undertaking that has been issued under the authority of the Motor Vehicle Transport Act and that is in effect on the day immediately before the day on which this Act, except section 26, comes into force shall be deemed to have been issued under the authority of Part II of this Act.
-
-**Exception**
-
-- **(2)** Where a licence referred to in subsection (1) authorizes the holder thereof to engage in the intra-provincial truck transport of goods, within the meaning of Part III of this Act, that licence shall be deemed to have been issued under the authority of Parts II and III of this Act.
-
-
-
-
-**Intra-provincial trucking**
-
-**30** For greater certainty, every licence authorizing the operation of an extra-provincial truck undertaking between any two points in a province that purports to have been issued under a law of the province prior to the coming into force of this Act, except section 26, and that purports to be in effect on the day immediately before this Act, except section 26, comes into force shall be deemed to have been issued under the authority of Part III of this Act if that licence was issued to a person who at the time of issuance was the holder of a licence issued under the authority of the Motor Vehicle Transport Act in respect of the same extra-provincial truck undertaking.
 
 
 
 
 **Pending applications**
 
-**31** Every application for a licence made under the Motor Vehicle Transport Act and pending on the day immediately before the day on which this Act, except section 26, comes into force shall be deemed to have been made pursuant to section 5, 8 or 13 of this Act, whichever is applicable, and shall be dealt with in accordance with this Act.
+**24** 
 
+- **(1)** An application for a licence made under section 8, as that section read before the coming into force of this section, and pending on the day immediately before that coming into force, is deemed to have been made under section 8 of this Act.
 
+**Pending applications — bus transport**
 
+- **(2)** Every application for a licence made under section 5 with respect to bus transport that is pending on the day immediately before the coming into force of this section, is deemed to be an application made under sections 5 and 8.
+> R.S., 1985, c. 29 (3rd Supp.), s. 24; 2001, c. 13, s. 9.
 
-**Continuation of exemptions**
-
-**32** Every exemption granted under section 6 of the Motor Vehicle Transport Act and in force on the day immediately before the day on which this Act, except section 26, comes into force shall be deemed to have been granted under section 16 of this Act.
-
-
-
-
-### Coming Into Force
-
-
-
-**Coming into force**
-
-***33** 
-
-- **(1)** This Act, except section 26, shall come into force on January 1, 1988 or on such earlier day as may be fixed by proclamation.
-
-**Idem**
-
-- **(2)** Section 26 shall come into force on the later of the day on which section 16 comes into force and the day on which sections 184, 199, 266 and 267 of the Bill, mentioned in section 26, come into force.
-
-<a name='M-12.01_en_1'><sup>*</sup></a>: [Note: Act in force January 1, 1988.]<br />
-
-
-
-
-### Repeal
-
-
-
-**Repeal**
-
-**34** 
-
-- **(1)** Subsections 8(3) to (5) and paragraphs 9(1)(a) to (d) shall, subject to subsections (2) to (4), cease to have effect five years after the day on which this Act, except section 26, comes into force.
-
-**Review**
-
-- **(2)** The Minister shall, after the expiration of three years after the coming into force of subsections 8(3) to (5) and before the expiration of four years after the coming into force of those subsections, undertake and complete a comprehensive review of the operation and effect of those subsections.
-
-**Tabling of report**
-
-- **(2.1)** After the completion of the review referred to in subsection (2), the Minister shall cause a copy of a report of the review to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the report has been prepared.
-
-**Continuation in force**
-
-- **(3)** The Governor in Council may, by proclamation, on the recommendation of the Minister made after consultation by the Minister with the government of each province, after the completion of the review referred to in subsection (2) and before subsections 8(3) to (5) and paragraphs 9(1)(a) to (d) cease to have effect pursuant to subsection (1), continue subsections 8(3) to (5) and paragraphs 9(1)(a) to (d) in force for such further period as is specified in the proclamation.
-
-**Idem**
-
-- **(4)** The Governor in Council may, by proclamation, on the recommendation of the Minister made after consultation by the Minister with the government of each province, at any time while subsections 8(3) to (5) and paragraphs 9(1)(a) to (d) are in force pursuant to subsection (3) or this subsection, continue subsections 8(3) to (5) and paragraphs 9(1)(a) to (d) in force for such further period as is specified in the proclamation.
 
 
 
@@ -449,16 +416,77 @@ subject to such terms and conditions as may be specified in the order, and a pro
 
 
 
-**Annual report**
+**Report to Parliament**
 
-**35** 
+**25** 
 
-- **(1)** After the expiration of each of the years 1988 to 1993, the Minister shall prepare the report referred to in subsection (2) and shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister completes it.
+- **(1)** The Minister shall prepare an annual report and cause a copy of it to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister completes it.
 
-**Contents of report**
+**Content of annual report**
 
-- **(2)** The report of the Minister shall contain the following in respect of each year referred to in subsection (1):
-	- **(a)** the available statistical information respecting trends of highway accidents in Canada involving motor vehicles operated by extra-provincial bus undertakings and extra-provincial truck undertakings; and
+- **(2)** The annual report of the Minister shall contain the following in respect of the year:
+	- **(a)** the available statistical information respecting trends of highway accidents in Canada involving motor vehicles operated by extra-provincial bus undertakings and extra-provincial truck undertakings reported separately for bus undertakings and truck undertakings; and
 	- **(b)** a progress report on the implementation of rules and standards respecting the safe operation of extra-provincial bus undertakings and of extra-provincial truck undertakings.
+> R.S., 1985, c. 29 (3rd Supp.), s. 25; 2001, c. 13, s. 9.
+
+
+
+
+
+## Review of Provisions
+
+
+
+**Review**
+
+**26** 
+
+- **(1)** The Minister shall, after the expiry of four years after the coming into force of this section and before the expiry of five years after that coming into force, undertake and complete a comprehensive review of the operation and effect of the amendments to this Act contained in An Act to amend the Motor Vehicle Transport Act, 1987 and to make consequential amendments to other Acts and shall, without delay, prepare a report with respect to that review.
+
+**Minister to make report available**
+
+- **(2)** The Minister shall make the report available to the Council of Ministers Responsible for Transportation and Highway Safety at the next meeting of the council after its completion.
+
+**Tabling of report**
+
+- **(3)** The Minister shall cause a copy of the report to be laid before each House of Parliament during the first thirty sitting days of that House following its completion.
+> R.S., 1985, c. 29 (3rd Supp.), s. 26; 2001, c. 13, s. 9.
+
+
+
+
+**27** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**28** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**29** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**30** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**31** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**32** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**33** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**34** [Repealed, 2001, c. 13, s. 9]
+
+
+
+**35** [Repealed, 2001, c. 13, s. 9]
 
 
