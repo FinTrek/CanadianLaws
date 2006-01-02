@@ -1452,7 +1452,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modifications conditionnelles
 
 
-**124. à 126** [Modifications]
+**124** [Abrogé, 2005, ch. 22, art. 62]
+
+
+
+**125 et 126** [Modifications]
 
 
 
