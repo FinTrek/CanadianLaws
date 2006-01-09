@@ -1450,6 +1450,10 @@ and includes works, machinery, plants and buildings below or above ground belong
 
 
 
+**11** The land claims agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Carcross/Tagish First Nation as represented by the Chief of the Carcross/Tagish First Nation, signed on October 22, 2005.
+
+
+
 **PART II** 
 ### Self-Government Agreements
 
@@ -1493,7 +1497,11 @@ and includes works, machinery, plants and buildings below or above ground belong
 **10** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Kwanlin Dun First Nation as represented by the Chief of the Kwanlin Dun First Nation, signed on February 19, 2005, respecting government by and for the First Nation.
 
 
-> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70.
+
+**11** The agreement entered into between Her Majesty in right of Canada as represented by the Minister, the Government of Yukon as represented by the Government Leader of Yukon, and the Carcross/Tagish First Nation as represented by the Chief of the Carcross/Tagish First Nation, signed on October 22, 2005, respecting government by and for the First Nation.
+
+
+> 1994, c. 43, Sch. I; SOR/98-178; SOR/99-14; SOR/2002-378; SOR/2004-10; SOR/2005-70, 402.
 
 
 
