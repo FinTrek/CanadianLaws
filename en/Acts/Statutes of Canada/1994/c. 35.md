@@ -718,7 +718,10 @@ Kluane First Nation
 Kwanlin Dun First Nation
 
 
-> 1994, c. 35, Sch. II; SOR/97-451, 456; SOR/98-425; SOR/2002-134; SOR/2004-9; SOR/2005-69.
+Carcross/Tagish First Nation
+
+
+> 1994, c. 35, Sch. II; SOR/97-451, 456; SOR/98-425; SOR/2002-134; SOR/2004-9; SOR/2005-69, 403.
 
 
 
