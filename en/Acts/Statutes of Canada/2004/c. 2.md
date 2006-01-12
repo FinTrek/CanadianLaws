@@ -1332,6 +1332,6 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 <sup><a href='#A-13.4_e_s78'>[*]</a></sup>**78** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='A-13.4_e_s78'><sup>*</sup></a>: [Note: Act, other than sections 8, 12, 14 to 19, 21 to 59, 72 and 74 to 77, in force April 22, 2004, *see* SI/2004-49.]<br />
+<a name='A-13.4_e_s78'><sup>*</sup></a>: [Note: Act, other than sections 8, 12, 14 to 19, 21 to 59, 72 and 74 to 77, in force April 22, 2004, *see* SI/2004-49; sections 21 to 24, other than paragraphs 24(1)(a), (e) and (g), sections 25 to 39, 72, 74, 75 and 77 in force January 12, 2006, *see* SI/2005-42.]<br />
 
 
