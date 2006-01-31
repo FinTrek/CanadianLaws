@@ -2376,71 +2376,30 @@ sauf :
 ### Précurseurs — catégorie A<sup><a href='#C-38-8_DOR16_1'>[1]</a></sup>
 
 
-**1** Anhydride acétique
 
-
-
-**2** Acide N-acétylanthranilique (acide 2-acétamidobenzoïque) et ses sels
-
-
-
-**3** Acide anthranilique (acide 2-aminobenzoïque) et ses sels
-
-
-
-**4** Éphédrine (érythro (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
-
-
-
-**5** Ergométrine (didéhydro-9,10 N-(hydroxy-2 méthyl-1 éthyl) méthyl-6 ergolinecarboxamide-8) et ses sels
-
-
-
-**6** Ergotamine (hydroxy-12' méthyl-2' phénylméthyl-5'ergotamantrione-3',6',18) et ses sels
-
-
-
-**7** Isosafrole (propényl-1)-5 benzodioxole-1,3)
-
-
-
-**8** Acide lysergique (acide didéhydro-9,10 méthyl-6 ergoline carboxylique-8) et ses sels
-
-
-
-**9** Méthylènedioxyphényle-3,4 propanone-2 ((benzodioxole-1,3)-1 propanone-2)
-
-
-
-**10** Noréphédrine (phénylpropanolamine) et ses sels
-
-
-
-**11** Phényl-1 propanone-2
-
-
-
-**12** Acide phénylacétique et ses sels
-
-
-
-**13** Pipéridine et ses sels
-
-
-
-**14** Pipéronal (benzodioxole-1,3 carboxaldehyde-5)
-
-
-
-**15** Permanganate de potassium
-
-
-
-**16** Pseudoéphédrine (thréo (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
-
-
-
-**17** Safrole ((propényl-2)-5 benzodioxole-1,3) et les huiles essentielles qui en contiennent plus de 4 %
+- **1** Anhydride acétique
+- **2** Acide N-acétylanthranilique (acide 2-acétamidobenzoïque) et ses sels
+- **3** Acide anthranilique (acide 2-aminobenzoïque) et ses sels
+- **4** Éphédrine (érythro (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
+- **5** Ergométrine (didéhydro-9,10 N-(hydroxy-2 méthyl-1 éthyl) méthyl-6 ergolinecarboxamide-8) et ses sels
+- **6** Ergotamine (hydroxy-12′ méthyl-2′ phénylméthyl-5′ergotamantrione-3′,6′,18) et ses sels
+- **7** Isosafrole (propényl-1)-5 benzodioxole-1,3)
+- **8** Acide lysergique (acide didéhydro-9,10 méthyl-6 ergoline carboxylique-8) et ses sels
+- **9** Méthylènedioxyphényle-3,4 propanone-2 ((benzodioxole-1,3)-1 propanone-2)
+- **10** Noréphédrine (phénylpropanolamine) et ses sels
+- **11** Phényl-1 propanone-2
+- **12** Acide phénylacétique et ses sels
+- **13** Pipéridine et ses sels
+- **14** Pipéronal (benzodioxole-1,3 carboxaldehyde-5)
+- **15** Permanganate de potassium
+- **16** Pseudoéphédrine (thréo (méthylamino)-2 phényl-1 propanol-1), ses sels et les plantes qui en contiennent
+- **17** Safrole ((propényl-2)-5 benzodioxole-1,3) et les huiles essentielles qui en contiennent plus de 4 %
+- **18** Gamma-butyrolactone (dihydro-2(3H)-furanone)
+- **19** Butane-1,4-diol
+- **20** Phosphore rouge
+- **21** Phosphore blanc
+- **22** Acide hydrophosphoreux et ses sels et dérivés
+- **23** Acide hydriodique
 
 
 
@@ -2454,27 +2413,13 @@ sauf :
 ### Précurseurs — catégorie B<sup><a href='#C-38-8_DOR16_2'>[1]</a></sup>
 
 
-**1** Acétone
 
-
-
-**2** Éther éthylique
-
-
-
-**3** Acide chlorhydrique
-
-
-
-**4** Méthyléthylcétone
-
-
-
-**5** Acide sulphurique
-
-
-
-**6** Toluène
+- **1** Acétone
+- **2** Éther éthylique
+- **3** Acide chlorhydrique
+- **4** Méthyléthylcétone
+- **5** Acide sulphurique
+- **6** Toluène
 
 
 
@@ -2488,10 +2433,11 @@ sauf :
 ### Préparations et mélanges
 
 
-**1** Toute préparation ou tout mélange qui contient l'un des précurseurs visés aux parties 1 ou 2.
+
+- **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1 et 3(F).
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4.
 
 
 
