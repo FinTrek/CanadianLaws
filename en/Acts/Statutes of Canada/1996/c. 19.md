@@ -2410,80 +2410,39 @@ but not including
 **(Sections 2, 6, 55 and 60)**
 
 **PART 1** 
-### Class A Precursors<sup><a href='#SOR361-1'>[1]</a></sup>
-
-
-**1** Acetic anhydride
+### Class A Precursors<sup><a href='#fn_C-38.8_EN_hq_6827'>[1]</a></sup>
 
 
 
-**2** N-Acetylanthranilic acid (2-acetamidobenzoic acid) and its salts
-
-
-
-**3** Anthranilic acid (2-aminobenzoic acid) and its salts
-
-
-
-**4** Ephedrine (erythro-2-(methylamino)-1-phenylpropan-1-ol), its salts and any plant containing ephedrine or any of its salts
-
-
-
-**5** Ergometrine (9,10-didehydro-N-(2-hydroxy-1-methylethyl)-6-methylergoline-8-carboxamide) and its salts
-
-
-
-**6** Ergotamine (12'-hydroxy-2'-methyl-5'-(phenylmethyl)ergotaman-3',6',18-trione) and its salts
-
-
-
-**7** Isosafrole (5-(1-propenyl)-1,3-benzodioxole)
-
-
-
-**8** Lysergic acid (9,10-didehydro-6-methylergoline-8-carboxylic acid) and its salts
-
-
-
-**9** 3,4-Methylenedioxyphenyl-2-propanone (1-(1,3-benzodioxole)-2-propanone)
-
-
-
-**10** Norephedrine (Phenylpropanolamine) and its salts
-
-
-
-**11** 1-Phenyl-2-propanone
-
-
-
-**12** Phenylacetic acid and its salts
-
-
-
-**13** Piperidine and its salts
-
-
-
-**14** Piperonal (1,3-benzodioxole-5-carboxaldehyde)
-
-
-
-**15** Potassium permanganate
-
-
-
-**16** Pseudoephedrine (threo-2-(methylamino)-1-phenylpropan-1-ol), its salts and any plant containing pseudoephedrine or any of its salts
-
-
-
-**17** Safrole (5-(2-propenyl)-1,3-benzodioxole) and any essential oil containing more than 4% safrole
+- **1** Acetic anhydride
+- **2** N-Acetylanthranilic acid (2-acetamidobenzoic acid) and its salts
+- **3** Anthranilic acid (2-aminobenzoic acid) and its salts
+- **4** Ephedrine (erythro-2-(methylamino)-1-phenylpropan-1-ol), its salts and any plant containing ephedrine or any of its salts
+- **5** Ergometrine (9,10-didehydro-N-(2-hydroxy-1-methylethyl)-6-methylergoline-8-carboxamide) and its salts
+- **6** Ergotamine (12′-hydroxy-2′-methyl-5′-(phenylmethyl)ergotaman-3′,6′,18-trione) and its salts
+- **7** Isosafrole (5-(1-propenyl)-1,3-benzodioxole)
+- **8** Lysergic acid (9,10-didehydro-6-methylergoline-8-carboxylic acid) and its salts
+- **9** 3,4-Methylenedioxyphenyl-2-propanone (1-(1,3-benzodioxole)-2-propanone)
+- **10** Norephedrine (Phenylpropanolamine) and its salts
+- **11** 1-Phenyl-2-propanone
+- **12** Phenylacetic acid and its salts
+- **13** Piperidine and its salts
+- **14** Piperonal (1,3-benzodioxole-5-carboxaldehyde)
+- **15** Potassium permanganate
+- **16** Pseudoephedrine (threo-2-(methylamino)-1-phenylpropan-1-ol), its salts and any plant containing pseudoephedrine or any of its salts
+- **17** Safrole (5-(2-propenyl)-1,3-benzodioxole) and any essential oil containing more than 4% safrole
+- **18** Gamma-butyrolactone (dihydro-2(3H)-furanone)
+- **19** 1,4-butanediol
+- **20** Red Phosphorus
+- **21** White Phosphorus
+- **22** Hypophosphorous acid, its salts and derivatives
+- **23** Hydriodic acid
 
 
 
 
 
-<a name='SOR361-1'><sup>1</sup></a>: Each Class A precursor includes synthetic and natural forms.<br />
+<a name='fn_C-38.8_EN_hq_6827'><sup>1</sup></a>: Each Class A precursor includes synthetic and natural forms.<br />
 
 
 
@@ -2491,27 +2450,13 @@ but not including
 ### Class B Precursors<sup><a href='#SOR361-2'>[1]</a></sup>
 
 
-**1** Acetone
 
-
-
-**2** Ethyl ether
-
-
-
-**3** Hydrochloric acid
-
-
-
-**4** Methyl ethyl ketone
-
-
-
-**5** Sulphuric acid
-
-
-
-**6** Toluene
+- **1** Acetone
+- **2** Ethyl ether
+- **3** Hydrochloric acid
+- **4** Methyl ethyl ketone
+- **5** Sulphuric acid
+- **6** Toluene
 
 
 
@@ -2525,10 +2470,11 @@ but not including
 ### Preparations and Mixtures
 
 
-**1** Any preparation or mixture that contains a precursor set out in Part 1 or 2.
+
+- **1** Any preparation or mixture that contains a precursor set out in Part 1, except items 20 to 23, or in Part 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002–361, s. 2; 2005–364, ss. 1, 3(F).
+> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4.
 
 
 
