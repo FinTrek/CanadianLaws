@@ -1,0 +1,995 @@
+> [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1201-1300/C.R.C.,%20c.%201246.md)
+
+# Règlement d’application de la Loi sur la sécurité de la vieillesse
+
+**C.R.C., ch. 1246**
+
+Autorités habilitantes : 
+- [LOI SUR LA SÉCURITÉ DE LA VIEILLESSE](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md)
+
+----------
+
+
+
+## Titre abrégé
+
+
+**1** Le présent règlement peut être cité sous le titre : Règlement sur la sécurité de la vieillesse.
+
+
+
+
+## Interprétation
+
+
+**2** 
+
+- **(1)** Dans le présent règlement,
+
+***appel*** S’entend de l’appel visé au paragraphe 28(1) de la Loi ou de l’appel d’un renvoi. (*appeal*)
+
+***appelant*** Personne qui interjette appel en vertu des paragraphes 28(1) ou (2) de la Loi ou qui en appelle d’un renvoi. (*appellant*)
+
+***Comité de révision***[Abrogée, DORS/90-813, art. 1]
+
+***Commission***[Abrogée, DORS/89-269, art. 1]
+
+***Cour*** désigne la Cour canadienne de l’impôt constituée en application de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md); (*Court*)
+
+***demande de révision*** Demande faite au ministre en vue d’une révision aux termes de l’article 27.1 de la Loi. (*request for reconsideration*)
+
+***Directeur régional***[Abrogée, DORS/96-521, art. 1]
+
+***formule de demande*** désigne la formule de demande requise par le ministre; (*application form*)
+
+***Loi*** signifie la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md); (*Act*)
+
+***ministre***[Abrogée, DORS/96-521, art. 1]
+
+***prestataire*** Est assimilée au prestataire toute personne au nom de laquelle une prestation est devenue payable. (*beneficiary*)
+
+***renvoi*** Renvoi devant la Cour canadienne de l’impôt visé au paragraphe 28(2) de la Loi. (*reference*)
+
+***requérant***[Abrogée, DORS/96-521, art. 1]
+
+***secrétaire***[Abrogée, DORS/96-521, art. 1]
+
+***Tribunal de révision***[Abrogée, DORS/96-521, art. 1]
+
+- **(2)** Aux fins du présent règlement, la résidence et la présence à Terre-Neuve, avant la date de l’union de cette province au Canada, sont tenues respectivement pour résidence et présence au Canada.
+
+- **(3)** Pour l’application de la définition de ***fonctionnaire public*** au paragraphe 33(1) de la Loi, est désigné comme tel tout particulier employé dans une institution fédérale, ou dont les services sont requis par une institution fédérale, à titre occasionnel ou temporaire ou en vertu d’un programme d’embauche d’étudiants.
+> DORS/81-285, art. 1; DORS/89-269, art. 1; DORS/90-813, art. 1; DORS/96-521, art. 1; DORS/99-193, art. 1.
+
+
+
+
+
+**PARTIE I** 
+## Demandes
+
+
+
+### Formules de demande
+
+
+**3** 
+
+- **(1)** Si le ministre l’exige, la demande de prestation doit être présentée sur une formule de demande.
+
+- **(2)** Sous réserve des paragraphes 5(2) et 11(3) de la Loi, une demande n’est réputée présentée que si une formule de demande remplie par le demandeur ou en son nom est reçue par le ministre.
+> DORS/96-521, art. 2.
+
+
+
+
+**4** 
+
+- **(1)** Lorsque le ministre juge qu’une personne est incapable, pour une raison suffisante, de présenter une demande de révision ou d’interjeter appel, ou de présenter une demande, une déclaration ou un avis, une personne ou un organisme compétent peut le faire au nom de cette personne.
+
+- **(2)** Lorsqu’une personne reçoit ou a reçu de l’assistance en vertu de la [Loi sur l’assistance-chômage](/fr/Lois/Lois%20du%20Canada/1970/ch.%20U-1.md) ou du Régime d’assistance publique du Canada, les autorités provinciales compétentes peuvent faire une demande de pension au nom de cette personne.
+> DORS/90-813, art. 2; DORS/96-521, art. 3.
+
+
+
+
+
+### Agrément d’une demande de pension
+
+
+**5** 
+
+- **(1)** Sous réserve du paragraphe (2), lorsque le ministre :
+	- **a)** est convaincu qu’un demandeur est admissible à une pension selon les articles 3 à 5 de la Loi,
+	- **b)** agrée la demande après le dernier jour du mois au cours duquel elle a été reçue,
+l’agrément prend effet à celle des dates suivantes qui est postérieure aux autres :
+	- **c)** la date de réception de la demande,
+	- **d)** la date à laquelle le demandeur est devenu admissible à une pension selon les articles 3 à 5 de la Loi;
+	- **e)** la date indiquée par écrit par le demandeur.
+
+- **(2)** Lorsque le ministre est convaincu que le demandeur visé au paragraphe (1) a atteint l’âge de 65 ans avant la date de réception de sa demande, l’agrément de celle-ci prend effet à celle des dates suivantes qui est postérieure aux autres :
+	- **a)** la date qui précède d’un an celle de la réception de la demande;
+	- **b)** la date à laquelle le demandeur a atteint l’âge de 65 ans;
+	- **c)** la date à laquelle le demandeur est devenu admissible à une pension selon les articles 3 à 5 de la Loi;
+	- **d)** le mois précédant la date indiquée par écrit par le demandeur.
+
+- **(3)** Lorsque, en vertu des paragraphes 5(2) ou 11(3) de la Loi, le ministre répute une demande présentée et agréée, l’agrément prend effet le jour où la personne a atteint l’âge de 65 ans.
+> DORS/83-84, art. 1; DORS/84-656, art. 1; DORS/90-813, art. 3; DORS/96-521, art. 4 et 29(F).
+
+
+
+
+
+### Versement d’une allocation inférieure à deux dollars
+
+
+**6** Dans le cas où un époux, un conjoint de fait ou un survivant est admissible, en vertu de la partie III de la Loi, à une allocation dont le montant ne dépasse pas 2 $ par mois, une allocation de 2 $ est payable mensuellement à l’époux, au conjoint de fait ou au survivant.
+> DORS/89-269, art. 2; DORS/2000-412, art. 1.
+
+
+
+
+
+### Méthode pour arrondir le montant d’une pension mensuelle partielle
+
+
+**7** Lorsque le montant de la pension partielle visé au paragraphe 3(3) de la Loi contient une fraction d’un dollar représentée par trois chiffres ou plus :
+- **a)** si le troisième chiffre est inférieur à 5, on doit exclure le troisième chiffre et les chiffres subséquents; et
+- **b)** si le troisième chiffre est 5 ou un chiffre supérieur, on doit augmenter le deuxième chiffre de 1 et exclure le troisième chiffre et les chiffres subséquents.
+> DORS/90-813, art. 4.
+
+
+
+
+
+### Méthode de rajustement trimestriel des prestations
+
+
+**8** 
+
+- **(1)** Lorsque le montant de la pleine pension ou du supplément mensuel est rajusté trimestriellement conformément aux paragraphes 7(2) ou 12(2) de la Loi :
+	- **a)** le produit suivant doit être arrondi à un cent près conformément au paragraphe (2) :
+		- **(i)** le produit de la multiplication de la mensualité visée à l’alinéa 7(2)a) de la Loi par la fraction visée à l’alinéa 7(2)b) de la Loi,
+		- **(ii)** le produit de la multiplication du montant visé à l’alinéa 12(2)a) de la Loi par la fraction visée à l’alinéa 12(2)b) de la Loi;
+	- **b)** les proportions mentionnées à l’alinéa a) doivent être exprimées en fractions décimales conformément au paragraphe (3).
+
+- **(2)** Lorsque le produit mentionné à l’alinéa (1)a) renferme une fraction de dollar exprimée par trois chiffres ou plus,
+	- **a)** si le troisième chiffre est inférieur à 5, ledit chiffre et les chiffres suivants doivent être supprimés; et
+	- **b)** si le troisième chiffre est 5 ou supérieur à 5, le deuxième chiffre doit être augmenté de 1 et le troisième chiffre et les chiffres suivants doivent être supprimés.
+
+- **(3)** Lorsque les proportions mentionnées à l’alinéa (1)a) renferment une fraction inférieure à 1, ladite fraction doit être exprimée sous forme de fraction décimale de quatre chiffres après le point décimal, et
+	- **a)** lorsque le quatrième chiffre après le point décimal est inférieur à 5, ledit chiffre après le point décimal doit être supprimé; et
+	- **b)** lorsque le quatrième chiffre après le point décimal est 5 ou supérieur à 5, le troisième chiffre après le point décimal doit être augmenté de 1 et le quatrième chiffre après le point décimal doit être supprimé.
+> DORS/90-813, art. 5.
+
+
+
+
+
+### Détermination de l’indice moyen des prix à la consommation pour un certain nombre de mois
+
+
+**9** 
+
+- **(1)** La moyenne de l’indice des prix à la consommation pour un certain nombre de mois doit être déterminée en divisant la valeur totale de l’indice des prix à la consommation au Canada, publié par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), pour chaque mois de la période considérée, par le nombre de mois que compte ladite période.
+
+- **(2)** Lorsque le quotient obtenu conformément au paragraphe (1) renferme une fraction inférieure à 1, ladite fraction doit être exprimée sous forme de fraction décimale de deux chiffres après le point, et
+	- **a)** le deuxième chiffre après le point décimal doit être supprimé, s’il est inférieur à 5; ou
+	- **b)** le premier chiffre après le point décimal doit être augmenté au chiffre supérieur, et le deuxième chiffre doit être supprimé s’il est supérieur à 5.
+
+
+
+
+### Agrément d’une demande de supplément
+
+
+**10** Lorsqu’il est convaincu qu’un pensionné est admissible à un supplément en vertu de l’article 11 de la Loi, le ministre agrée la demande de supplément conformément à cet article.
+> DORS/90-813, art. 6; DORS/96-521, art. 5.
+
+
+
+
+
+### Agrément d’une demande d’allocation
+> [DORS/2000-412, art. 2(A)]
+
+
+
+**11** Le ministre agrée la demande d’allocation à l’époux ou au conjoint de fait d’un pensionné ou au survivant si l’époux, le conjoint de fait ou le survivant est admissible à l’allocation en vertu des articles 19 ou 21 de la Loi.
+> DORS/81-285, art. 2; DORS/89-269, art. 3; DORS/96-521, art. 5; DORS/2000-412, art. 3.
+
+
+
+
+**12** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), si le ministre agrée une demande d’allocation après le dernier jour du mois au cours duquel la demande a été reçue, l’agrément prend effet à celle des dates suivantes qui est postérieure à l’autre :
+	- **a)** la date où la demande a été reçue;
+	- **b)** la date à laquelle l’époux, le conjoint de fait ou le survivant est devenu admissible à une allocation en vertu des articles 19 ou 21 de la Loi.
+
+- **(2)** Si l’époux ou le conjoint de fait d’un pensionné atteint l’âge de 60 ans avant la date de réception d’une demande d’allocation à son égard, l’agrément de la demande par le ministre prend effet à celle des dates suivantes qui est postérieure aux autres :
+	- **a)** la date qui précède d’un an celle de la réception de la demande;
+	- **b)** la date à laquelle l’époux ou le conjoint de fait a atteint l’âge de 60 ans;
+	- **c)** la date à laquelle l’époux ou le conjoint de fait est devenu admissible à une allocation en vertu de l’article 19 de la Loi.
+
+- **(3)** Si un survivant est admissible à une allocation en vertu de l’article 21 de la Loi avant la date de réception de la demande d’allocation à son égard, l’agrément de la demande par le ministre prend effet à celle des dates suivantes qui est postérieure à l’autre :
+	- **a)** la date qui précède d’un an celle de la réception de la demande;
+	- **b)** la date à laquelle le survivant est devenu admissible à une allocation en vertu de l’article 21 de la Loi.
+> DORS/81-285, art. 3; DORS/89-269, art. 4; DORS/90-813, art. 7; DORS/96-521, art. 5; DORS/2000-412, art. 4.
+
+
+
+
+
+### Mois au cours duquel il y a perte de revenu
+
+
+**13** Pour l’application de l’article 14 de la Loi :
+- **a)** le mois au cours duquel le demandeur ou l’époux ou le conjoint de fait du demandeur :
+	- **(i)** cesse d’occuper une charge ou un emploi, est le mois dans lequel tombe le dernier jour pour lequel il a touché un revenu provenant de cette charge ou de cet emploi, ou
+	- **(ii)** cesse d’exploiter un commerce, est le mois dans lequel tombe le dernier jour où il a effectivement exploité ce commerce; et
+- **b)** le mois au cours duquel le demandeur ou l’époux ou le conjoint de fait du demandeur subit une perte de revenu par suite de la suppression ou de la réduction du revenu provenant d’un régime de pensions est le mois au cours duquel ce revenu est effectivement supprimé ou réduit.
+> DORS/84-656, art. 2; DORS/90-813, art. 8; DORS/96-521, art. 29(F); DORS/2000-412, art. 5.
+
+
+
+
+
+### Définition de revenu provenant d’un régime de pensions
+
+
+**14** Pour l’application de l’article 14 de la Loi, le revenu provenant d’un régime de pension est le total des montants perçus au titre :
+- **a)** de rentes;
+- **b)** de prestations alimentaires et de soutien;
+- **c)** de prestations d’assurance-emploi;
+- **d)** de prestations d’invalidité provenant d’un régime d’assurance privé;
+- **e)** de prestations, autres que des prestations de décès, versées aux termes du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions, tel que défini dans le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **f)** de pensions ou de pensions de retraite, autres que les prestations reçues aux termes de la Loi et tout versement semblable reçu en vertu d’une loi provinciale;
+- **g)** d’une indemnité versée aux termes d’une loi fédérale ou provinciale sur l’indemnisation des victimes d’accidents du travail, en raison d’une blessure, d’une invalidité ou d’un décès;
+- **h)** d’allocations de complément de ressources versées aux termes d’un accord visé au paragraphe 33(1) de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md), en raison d’une réduction définitive du personnel visée à ce paragraphe;
+- **i)** d’allocations de complément de ressources versées au titre du Programme d’adaptation des travailleurs d’usine, du Programme de retraite anticipée des pêches ou du Programme d’adaptation et de redressement de la pêche de la morue du Nord, en raison d’une réduction définitive du personnel.
+> DORS/84-656, art. 3; DORS/86-956, art. 1(A); DORS/90-813, art. 9; DORS/2001-148, art. 1.
+
+
+
+
+
+### Attribution de numéros d’assurance sociale aux demandeurs, aux prestataires ou aux époux ou aux conjoints de fait
+
+
+**15** Si un numéro d’assurance sociale n’a pas été attribué au demandeur, au prestataire, ou à l’époux ou au conjoint de fait du demandeur ou du prestataire, le ministre peut attribuer ou faire attribuer un numéro d’assurance sociale au demandeur, au prestataire, ou à l’époux ou au conjoint de fait du demandeur ou du prestataire.
+> DORS/96-521, art. 28(F) et 29(F); DORS/2000-412, art. 6.
+
+
+
+
+
+### Preuve pour déterminer la relation
+
+
+**16** Si le ministre n’a pas reçu suffisamment de preuves ou de renseignements à l’appui d’une demande de prestation pour déterminer la relation entre le demandeur et son époux ou conjoint de fait, le demandeur ou son représentant doit permettre au ministre d’avoir accès aux documents suivants :
+- **a)** dans le cas d’époux :
+	- **(i)** une copie officielle ou un extrait du registre de mariage délivrés par une autorité compétente ou une copie conforme de l’un ou de l’autre,
+	- **(ii)** si le ministre a des motifs suffisants de croire qu’une copie officielle ou un extrait du registre de mariage délivrés par une autorité compétente ou une copie conforme de l’un ou de l’autre ne sont pas disponibles :
+		- **(A)** d’une part, une déclaration solennelle contenant les renseignements relatifs au mariage,
+		- **(B)** d’autre part, toute autre preuve du mariage;
+- **b)** dans le cas de conjoints de fait :
+	- **(i)** d’une part, une déclaration solennelle contenant les renseignements relatifs à la relation entre les conjoints de fait,
+	- **(ii)** d’autre part, toute autre preuve de la relation entre les conjoints de fait.
+> DORS/96-521, art. 27 et 29(F); DORS/2000-412, art. 7; DORS/2004-249, art. 5.
+
+
+
+
+**17** [Abrogé, DORS/2000-412, art. 8]
+
+
+
+
+### Preuve d’âge et d’identité
+> [DORS/2004-249, art. 6]
+
+
+
+**18** 
+
+- **(1)** Sous réserve de l’article 19, le ministre établit l’âge et l’identité du demandeur pour l’application de la Loi conformément à celui des paragraphes (2) à (2.2) qui est applicable.
+
+- **(2)** Le ministre établit l’âge et l’identité du demandeur sur le fondement des renseignements que la Commission de l’assuranceemploi du Canada lui a fournis en vertu du paragraphe 139(5) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+
+- **(2.1)** Le ministre établit l’âge et l’identité du demandeur sur le fondement d’un acte de naissance ou d’une copie conforme d’un tel acte.
+
+- **(2.2)** S’il y a des raisons suffisantes de croire qu’un acte de naissance ne peut être obtenu, le ministre établit l’âge et l’identité du demandeur sur le fondement de toute autre preuve ou tout autre renseignement relatifs à l’âge et à l’identité de celui-ci.
+
+- **(3)** Si le ministre ne peut établir l’âge et l’identité du demandeur conformément à l’un des paragraphes (2) à (2.2), il peut, sous réserve des conditions ci-après, demander à Statistique Canada de chercher dans les dossiers de recensement des renseignements touchant l’âge et l’identité du demandeur :
+	- **a)** une telle demande doit être faite dans la forme prescrite par le statisticien en chef du Canada, s’accompagner du consentement écrit de la personne au sujet de laquelle l’information est sollicitée et inclure les renseignements précis nécessaires aux recherches dans les dossiers de recensements; et
+	- **b)** tout renseignement fourni par Statistique Canada doit demeurer confidentiel et ne peut servir qu’à déterminer l’âge du demandeur, comme l’exige la Loi, le Régime d’assistance publique du Canada ou le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), selon le cas.
+
+- **(4)** [Abrogé, DORS/96-521, art. 7]
+> DORS/96-521, art. 7, 27 et 29(F); DORS/2004-249, art. 7.
+
+
+
+
+**19** Si l’âge du demandeur a été déterminé aux fins du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), le ministre peut accepter cet âge pour l’application de la Loi.
+> DORS/96-521, art. 8.
+
+
+
+
+**19.1** [Abrogé, DORS/96-521, art. 8]
+
+
+
+
+### Résidence
+
+
+**20** Pour permettre au ministre de décider de l’admissibilité du demandeur, quant à la résidence au Canada, le demandeur ou quelqu’un en son nom doit présenter une déclaration contenant les détails complets de toutes les périodes de résidence au Canada et de toutes les absences de ce pays se rapportant à cette admissibilité.
+> DORS/96-521, art. 27 et 29(F).
+
+
+
+
+**21** 
+
+- **(1)** Aux fins de la Loi et du présent règlement,
+	- **a)** une personne réside au Canada si elle établit sa demeure et vit ordinairement dans une région du Canada; et
+	- **b)** une personne est présente au Canada lorsqu’elle se trouve physiquement dans une région du Canada.
+
+- **(2)** Une personne qui vit à bord d’un navire au-delà des limites des eaux territoriales du Canada est, tant qu’elle y vit, réputée ne pas vivre dans une région du Canada.
+
+- **(2.1)** Nonobstant le paragraphe (1), une personne qui n’est pas un citoyen canadien ou un résident permanent du Canada ne réside pas au Canada, aux fins de la Loi et du présent règlement, durant la période où elle est présente au Canada
+	- **a)** à titre d’agent diplomatique, de fonctionnaire consulaire, de représentant ou de fonctionnaire dûment accrédité
+		- **(i)** d’un pays étranger,
+		- **(ii)** des Nations Unies ou de l’un de ses organismes, ou
+		- **(iii)** de tout autre organisme intergouvernemental auquel participe le Canada;
+	- **b)** à titre de militaire présent au Canada pour des fins de formation ou autres fins ayant trait à la défense ou à la sécurité nationale du Canada ou en application d’un traité ou d’un accord intervenu entre le Canada et un autre pays;
+	- **c)** à titre d’époux ou de conjoint de fait ou de personne à charge d’une personne visée aux alinéas a) ou b) ou de personne à charge de l’époux ou du conjoint de fait d’une telle personne;
+	- **d)** à titre de membre du personnel d’une personne visée aux alinéas a), b) ou c) ou en tant que personne accompagnant à un autre titre une telle personne.
+
+- **(3)** Pour l’application de la Loi et du présent règlement, dans le cas où quelqu’un devient l’époux ou le conjoint de fait d’une personne qui réside au Canada alors que cette dernière en est absente dans n’importe laquelle des circonstances décrites aux alinéas (5)a) ou b), la période passée hors du Canada par l’époux après le mariage ou par le conjoint de fait après qu’il l’est devenu compte comme période de résidence et de présence au Canada si :
+	- **a)** l’époux ou le conjoint de fait revient au Canada avant le retour de la personne résidant au Canada ou dans un délai de six mois après soit le retour de cette dernière, soit la mort de la personne si celle-ci meurt au cours de son absence du Canada;
+	- **b)** l’époux ou le conjoint de fait atteint, pendant la période passée hors du Canada, un âge qui le rend admissible à une pension en vertu de la Loi.
+
+- **(4)** Lorsqu’une personne qui réside au Canada s’absente du Canada et que son absence
+	- **a)** est temporaire et ne dépasse pas un an,
+	- **b)** a pour motif la fréquentation d’une école ou d’une université, ou
+	- **c)** compte parmi les absences mentionnées au paragraphe (5),
+cette absence est réputée n’avoir pas interrompu la résidence ou la présence de cette personne au Canada.
+
+- **(5)** Les absences du Canada dont il est question à l’alinéa (4)c) dans le cas d’un résident du Canada sont des absences qui se produisent dans les circonstances suivantes :
+	- **a)** lorsque ledit résident était employé hors du Canada
+		- **(i)** par l’Organisation des Nations Unies ou l’une de ses institutions spécialisées,
+		- **(ii)** par l’Organisation du traité de l’Atlantique Nord,
+		- **(iii)** par le Secrétariat du Commonwealth,
+		- **(iv)** par l’Organisation de Coopération et de Développement économiques,
+		- **(v)** par l’Agence de coopération culturelle et technique, ou
+		- **(vi)** par une entreprise ou corporation canadienne en qualité de membre ou de représentant,
+si, au cours de sa période d’emploi hors du Canada, ce résident
+		- **(vii)** a conservé au Canada une demeure permanente à laquelle il avait l’intention de revenir, ou
+		- **(viii)** a gardé au Canada un établissement domestique autonome,
+et il est revenu au Canada dans un délai de six mois après la fin de sa période d’emploi hors du Canada ou, au cours de sa période d’emploi hors du Canada, il a atteint un âge qui le rendait admissible à une pension en vertu de la Loi;
+	- **b)** lorsque ledit résident était engagé ou employé hors du Canada
+		- **(i)** par le gouvernement du Canada ou par le gouvernement ou une corporation municipale de n’importe quelle province,
+		- **(ii)** en service dans un pays étranger dans le cadre d’un programme de développement ou d’assistance que commandite ou dirige dans ce pays le gouvernement du Canada ou d’une province, ou une agence canadienne à but non lucratif,
+		- **(iii)** à titre de membre des Forces canadiennes, à cause et du fait des exigences de ses fonctions,
+		- **(iv)** à titre de personne occupée pour le compte du Canada à un travail relatif à la poursuite d’une guerre,
+		- **(v)** à titre de membre des forces armées d’un pays allié du Canada pendant n’importe quelle guerre,
+		- **(vi)** à titre de missionnaire membre d’un groupe ou d’un organisme religieux,
+		- **(vii)** à titre de travailleur employé à la coupe du bois, à la moisson, à la pêche ou à une autre occupation saisonnière,
+		- **(viii)** à titre d’employé des transports à bord d’un train, d’un avion, d’un navire, d’un autocar en service entre le Canada et des endroits à l’étranger ou dans le cadre d’un autre emploi semblable, ou
+		- **(ix)** à titre d’employé, de membre ou de fonctionnaire d’une organisation internationale de bienfaisance,
+si cette personne revient au Canada dans un délai de six mois après la fin de sa période d’emploi ou d’engagement hors du Canada, ou si elle a atteint, au cours de sa période d’emploi ou d’engagement hors du Canada, un âge la rendant admissible à une pension en vertu de la Loi;
+	- **c)** lorsque cette personne accompagnait son époux ou son conjoint de fait dont l’absence du Canada est motivée par l’une des circonstances prévues aux alinéas a) ou b) ou a pour motif la fréquentation d’une école ou d’une université, si elle :
+		- **(i)** est revenue au Canada avant le retour de son époux ou de son conjoint de fait ou dans un délai de six mois après soit le retour de cet époux ou de ce conjoint de fait, soit la mort de son époux ou de son conjoint de fait, si son époux ou son conjoint de fait est mort durant son absence du Canada,
+		- **(ii)** a atteint, durant son absence du Canada, un âge la rendant admissible à une pension en vertu de la Loi;
+	- **d)** alors que cette personne attendait d’être transportée au Canada durant la Seconde guerre mondiale ou immédiatement après, si cette personne
+		- **(i)** n’a pas pu revenir au Canada à cause de la désorganisation des moyens de transport, et
+		- **(ii)** est revenue au Canada quand elle a pu trouver un moyen de transport;
+	- **e)** alors que cette personne accompagnait son conjoint qui était résident du Canada et attendait d’être transportée au Canada au cours de la Seconde guerre mondiale ou immédiatement après, si cette personne
+		- **(i)** n’a pas pu revenir au Canada à cause de la désorganisation des moyens de transport, et
+		- **(ii)** est revenue au Canada quand elle a pu trouver un moyen de transport; ou
+	- **f)** alors que cette personne était une personne à charge, qu’elle accompagnait la personne de qui elle dépendait et qu’elle résidait hors du Canada, si la personne de qui elle dépendait résidait au Canada et dont l’absence du Canada était motivée par l’une des circonstances prévues à l’alinéa a) ou b) et si la personne dépendante
+		- **(i)** est revenue au Canada avant le retour de la personne de qui elle dépendait ou dans un délai de six mois après son retour, ou dans un délai de six mois après la mort de cette personne, si cette personne est morte durant son absence du Canada, ou
+		- **(ii)** alors qu’elle a atteint, durant son absence du Canada, un âge la rendant admissible à une pension en vertu de la Loi.
+
+- **(5.1)** Si, aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, une personne résidant dans un pays étranger est assujettie à la Loi, l’absence du Canada de cette personne — ou celle de son époux ou de son conjoint de fait et des personnes à sa charge ou à celle de son époux ou conjoint de fait, s’ils résident avec elle — est réputée, en ce qui concerne l’allocation, ne pas avoir interrompu la résidence ou la présence de l’intéressé au Canada.
+
+- **(5.2)** Si une personne résidant au Canada est assujettie aux lois d’un pays étranger aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, son époux ou son conjoint de fait ou les personnes à sa charge ou à celle de son époux ou conjoint de fait qui occupent un emploi ouvrant droit à pension au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou aux termes d’un régime d’une province instituant un régime général de pensions sont réputés, pour l’application de la Loi et du présent règlement, être des résidents du Canada pendant la durée de leur emploi.
+
+- **(5.3)** Lorsque, aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, une personne est assujettie aux lois d’un pays étranger, elle est réputée, pour l’application de la Loi et du présent règlement, ne pas être un résident du Canada.
+
+- **(6)** Pour l’application de l’alinéa (5)f), ***personne à charge*** s’entend, en ce qui concerne la personne dont l’absence du Canada est motivée par l’une des circonstances prévues aux alinéas (5)a) ou b), de son père, de sa mère, de son frère, de sa soeur, de son enfant ou de l’enfant dont elle a la garde à titre de parent nourricier, de même que du père, de la mère ou de l’enfant de son époux ou son conjoint de fait, selon le cas, ou encore de l’enfant dont son époux ou son conjoint de fait a la garde à titre de parent nourricier.
+
+- **(7)** ***Personne à charge***
+	- **a)** d’une personne qui ne réside pas au Canada, au sens du paragraphe (2.1),
+	- **b)** d’une personne réputée être un résident du Canada, au sens du paragraphe (5.1), ou
+	- **c)** d’une personne visée au paragraphe (5.2) qui réside au Canada et est assujettie aux lois d’un pays autre que le Canada,
+s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant ou de l’enfant dont elle a la garde à titre de parent nourricier, de même que du père, de la mère ou de l’enfant de son époux ou son conjoint de fait, selon le cas, ou encore de l’enfant dont son époux ou son conjoint de fait a la garde à titre de parent nourricier.
+> DORS/81-285, art. 5; DORS/83-84, art. 2 et 3; DORS/89-269, art. 6; DORS/96-521, art. 9; DORS/2000-412, art. 9.
+
+
+
+
+**22** Pour l’application des paragraphes 4(1), 19(2) et 21(2) de la Loi, ***résident légal*** s’entend d’une personne qui, le jour en cause visé aux alinéas a) ou b) de ces paragraphes :
+- **a)** soit se trouve légalement au Canada en conformité avec les lois canadiennes sur l’immigration alors en vigueur;
+- **b)** soit est un résident du Canada et est absente du Canada, mais :
+	- **(i)** d’une part, est réputée, en application des paragraphes 21(4) ou (5) ou aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, ne pas avoir interrompu sa résidence au Canada durant la période d’absence,
+	- **(ii)** d’autre part, se trouvait légalement au Canada en conformité avec les lois canadiennes sur l’immigration en vigueur immédiatement avant le début de la période d’absence;
+- **c)** soit n’est pas un résident du Canada mais est réputée, en vertu du paragraphe 21(3) ou aux termes d’un accord visé au paragraphe 40(1) de la Loi, être un résident du Canada.
+> DORS/78-699, art. 1; DORS/81-285, art. 6; DORS/89-269, art. 7; DORS/90-813, art. 11; DORS/96-521, art. 10.
+
+
+
+
+
+### Application des accords internationaux
+
+
+**22.01** Pour donner effet à la Loi, tout accord visé à l’annexe, conclu en vertu du paragraphe 40(1) de la Loi pour prévoir la signature d’arrangements réciproques relatifs à l’application de la Loi, s’applique au Canada de manière à accorder aux conjoints de fait les mêmes avantages qu’il prévoit pour les époux ou conjoints, selon la terminologie utilisée dans sa version française.
+> DORS/2000-412, art. 10.
+
+
+
+
+
+### Immigrants parrainés
+
+
+**22.1** 
+
+- **(1)** Pour l’application des paragraphes 11(8), 19(6.2) et 21(9.1) de la Loi, les faits suivants constituent des événements relativement au répondant mentionné dans ces paragraphes :
+	- **a)** le décès du répondant;
+	- **b)** le fait que le répondant a été reconnu coupable d’une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) concernant le particulier parrainé;
+	- **c)** la détermination du fait que le répondant est un failli au sens de l’article 2 de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md);
+	- **d)** la condamnation du répondant à une peine d’emprisonnement de plus de six mois.
+
+- **(2)** Le paragraphe (1) s’applique au répondant :
+	- **a)** dont l’engagement relatif à un pensionné ou à l’époux ou au conjoint de fait d’un pensionné, ou au survivant, selon le cas, était en vigueur le 7 mars 1996 ou après cette date;
+	- **b)** qui a été touché le 7 mars 1996 ou après cette date par un événement visé à l’un des alinéas (1)a) à d).
+> DORS/97-530, art. 1; DORS/2000-412, art. 11.
+
+
+
+
+
+### Autres renseignements et enquêtes avant ou après l’agrément de la demande ou l’octroi de la dispense
+> [DORS/96-521, art. 11]
+
+
+
+**23** 
+
+- **(1)** Le ministre peut, avant ou après l’agrément d’une demande ou après l’octroi d’une dispense, exiger que le demandeur, la personne qui a fait la demande en son nom, le prestataire ou la personne qui touche la pension pour le compte de ce dernier, selon le cas, permette l’accès à des renseignements ou des éléments de preuve additionnels concernant l’admissibilité du demandeur ou du prestataire à une prestation.
+
+- **(2)** Le ministre peut, en tout temps, faire enquête sur l’admissibilité d’une personne à une prestation, y compris sur la capacité du prestataire pour ce qui est de l’administration de ses propres affaires.
+> DORS/96-521, art. 12, 27 et 28(F).
+
+
+
+
+
+### Paiements à une personne autre que le prestataire
+> [DORS/96-521, art. 28(F)]
+
+
+
+**24** 
+
+- **(1)** Quand une personne ou un organisme démontre d’une façon satisfaisante au ministre qu’un prestataire, à cause d’une infirmité, maladie, aliénation mentale ou autre cause, est incapable de gérer ses propres affaires, le ministre peut ordonner que la prestation soit versée pour le compte de ce prestataire
+	- **a)** à un organisme ou à une personne qui, de l’avis du ministre, est autorisé en vertu d’une loi du Canada ou d’une province à gérer les affaires du prestataire; ou
+	- **b)** s’il appert au ministre qu’aucun organisme ou personne n’est autorisé pour la fin visée à l’alinéa a), à l’organisme ou à la personne désigné par le ministre aux termes d’un accord conclu entre eux, selon lequel l’organisme ou la personne s’engage à administrer et à utiliser la prestation pour le compte du prestataire conformément à l’accord.
+
+- **(2)** Le ministre doit fournir, à la personne ou à l’organisme désigné en vertu du paragraphe (1) pour recevoir une prestation, les directives se rapportant à l’administration et à la dépense de la prestation que le ministre juge opportunes pour le plus grand bien du prestataire.
+
+- **(3)** Toute personne ou tout organisme désigné en vertu du paragraphe (1) doit rendre compte des paiements de prestation reçus et des sommes dépensées en la forme et aux époques que le ministre peut indiquer.
+
+- **(4)** Lorsqu’une prestation est versée à une personne ou à un organisme pour être administrée ou dépensée à l’avantage d’un prestataire, les avis requis par l’article 25 doivent être donnés par cette personne ou cet organisme.
+
+- **(5)** Il peut être versé une prestation aux ayants droit d’un prestataire décédé ou, en l’absence d’ayants droit, à la personne ou à l’organisme désigné par le ministre, dans l’un ou l’autre des cas suivants :
+	- **a)** un montant est payable, à titre de prestation, au prestataire décédé;
+	- **b)** un versement de prestation fait au prestataire ou pour son compte, par chèque ou autrement, est retourné au ministre après le décès.
+> DORS/83-84, art. 4; DORS/96-521, art. 13, 27 et 28(F); DORS/2000-133, art. 9(F).
+
+
+
+
+
+### Avis devant être donnés par le demandeur ou le prestataire ou en son nom
+> [DORS/96-521, art. 28(F) et 29(F)]
+
+
+
+**25** 
+
+- **(1)** Lorsqu’un demandeur ou un prestataire s’est absenté du Canada pendant une période dépassant un mois, il doit en donner immédiatement avis au ministre et, dans un délai d’un mois après son retour au Canada, informer le ministre de son retour.
+
+- **(2)** Un demandeur ou un prestataire doit faire connaître au ministre l’adresse à laquelle sa prestation doit être envoyée et, si cette adresse change, en informer immédiatement le ministre.
+
+- **(3)** Lorsque des demandeurs d’une demande d’allocation se séparent, le prestataire et le pensionné doivent en donner immédiatement avis au ministre.
+
+- **(4)** Lorsque le prestataire d’une allocation meurt, le pensionné doit en donner immédiatement avis au ministre.
+
+- **(5)** [Abrogé, DORS/81-285, art. 7]
+> DORS/81-285, art. 7; DORS/96-521, art. 27, 28(F) et 29(F); DORS/2000-412, art. 12.
+
+
+
+
+
+### Suspension des versements
+
+
+**26** 
+
+- **(1)** Le ministre doit suspendre le versement d’une prestation à l’égard de tout prestataire lorsqu’il lui semble que le prestataire n’est pas admissible au versement de la prestation et il peut en suspendre le versement lorsqu’une plus ample enquête sur l’admissibilité du prestataire lui paraît nécessaire. Une telle suspension courra jusqu’à ce que le ministre ait reçu des preuves satisfaisantes démontrant que le prestataire est admissible à la prestation.
+
+- **(2)** Lorsque reprend le versement d’une prestation qui avait été suspendue en vertu du paragraphe (1), le ministre doit faire verser la prestation pour toute partie de la période de suspension pendant laquelle le prestataire était admissible à la prestation.
+> DORS/96-521, art. 27 et 28(F).
+
+
+
+
+
+### Recouvrement des plus-payés
+
+
+**27** Pour l’application du paragraphe 37(2.1) de la Loi, le montant dû par le prestataire ou sa succession peut être recouvré en une ou plusieurs déductions effectuées sur la totalité ou une partie de toute prestation payable au prestataire ou à sa succession en vertu de la Loi ou de toute autre loi ou tout programme dont la gestion est confiée au ministre, d’un montant qui ne met pas le prestataire ou sa succession dans une situation difficile.
+> DORS/96-521, art. 14, 27 et 28(F); DORS/99-193, art. 2.
+
+
+
+
+**28** [Abrogé, DORS/99-193, art. 2]
+
+
+
+
+### Retenues sur les prestations
+
+
+**28.1** 
+
+- **(1)** Pour l’application du paragraphe 36(2) de la Loi, le ministre peut effectuer une retenue sur une prestation payable en vertu de la Loi lorsque les conditions suivantes sont réunies :
+	- **a)** l’autorité provinciale ou municipale qui a versé l’avance, l’aide ou la prestation d’assistance sociale présente au ministre un justificatif du paiement accompagné du consentement irrévocable à la retenue signé par la personne qui reçoit le paiement;
+	- **b)** le justificatif et le consentement visés à l’alinéa a) sont reçus par le ministre avant l’expiration d’un délai d’un an après la date de la signature du consentement;
+	- **c)** le ministre et l’autorité provinciale ou municipale qui a versé l’avance, l’aide ou la prestation d’assistance sociale visée à l’alinéa a) ont conclu une entente au sujet de la procédure à suivre pour présenter le justificatif et le consentement;
+	- **d)** le montant retenu est supérieur à 50 $.
+
+- **(2)** Pour l’application du paragraphe 36(2) de la Loi, lorsque, pour un motif quelconque, aucune retenue n’a été faite ou qu’une retenue et un paiement ont été faits pour un montant moindre que celui qui aurait pu être payé selon ce paragraphe, le ministre ne peut pas autoriser d’autres retenues et paiements.
+> DORS/89-269, art. 8; DORS/96-521, art. 16; DORS/99-193, art. 3; DORS/2002-221, art. 5.
+
+
+
+
+**28.2** 
+
+- **(1)** Pour l’application du paragraphe 33.01(2) de la Loi, les renseignements peuvent être rendus accessibles au destinataire désigné dans la demande si celle-ci a été signée dans l’année précédant le jour de sa réception par le ministre.
+
+- **(2)** Le destinataire peut, sur demande, avoir accès annuellement aux renseignements jusqu’à ce que le particulier décède ou que ce dernier ou son représentant retire la demande visée au paragraphe (1), si celle-ci indique que le particulier ou son représentant consent à cette mesure.
+> DORS/99-193, art. 3.
+
+
+
+
+
+**PARTIE II** 
+## Révisions
+
+
+**29** La demande de révision visée à l’article 27.1 de la Loi est faite par écrit, est envoyée au ministre et contient les renseignements suivants :
+- **a)** les nom et adresse ainsi que le numéro d’assurance sociale ou le numéro de compte de la personne;
+- **b)** les motifs de la demande et un exposé des faits sur lesquels elle est fondée.
+> DORS/83-84, art. 5; DORS/96-521, art. 17; DORS/2000-133, art. 10.
+
+
+
+
+**30 à 37** [Abrogés, DORS/96-521, art. 18]
+
+
+
+
+### Renvoi devant la Cour canadienne de l’impôt
+
+
+**38** Lorsque le motif d’appel prévu au paragraphe 28(2) de la Loi est invoqué dans un avis d’appel envoyé conformément au paragraphe 28(1) de la Loi, le commissaire des tribunaux de révision, au sens de l’article 2 du [Règlement sur le Régime de pensions du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/301-400/C.R.C.,%20ch.%20385.md), doit :
+- **a)** informer l’appelant et le ministre que l’appel de l’appelant ainsi motivé est renvoyé devant la Cour conformément au paragraphe 28(2) de la Loi;
+- **b)** transmettre au greffier de la Cour une copie des documents pertinents relatifs au renvoi conformément à l’article 5 des Règles de procédure des tribunaux de révision.
+> DORS/89-269, art. 10; DORS/96-521, art. 19; DORS/2000-133, art. 12(F).
+
+
+
+
+**38.1** 
+
+- **(1)** Dans le cas où un appel est interjeté au sujet d’un renvoi conformément au paragraphe 28(2) de la Loi et que, de l’avis du ministre, une personne autre que l’appelant peut être directement touchée par la décision de la Cour, le ministre doit en informer le commissaire des tribunaux de révision.
+
+- **(2)** Le commissaire des tribunaux de révision doit immédiatement en informer le greffier de la Cour qui met alors en cause cette personne.
+> DORS/96-521, art. 19; DORS/2000-133, art. 12(F).
+
+
+
+
+**39** 
+
+- **(1)** Le greffier de la Cour doit sans délai aviser le juge en chef de la Cour, le commissaire des tribunaux de révision, le ministre et toute personne mise en cause dans l’appel de la réception des documents transmis par le commissaire des tribunaux de révision conformément à l’alinéa 38b).
+
+- **(2)** Lorsque le juge en chef de la Cour est avisé de la réception des documents conformément au paragraphe (1), il doit nommer un juge de la Cour pour entendre le renvoi.
+> DORS/89-269, art. 11; DORS/96-521, art. 20; DORS/2000-133, art. 12(F).
+
+
+
+
+
+### Date et lieu de l’audition du renvoi
+
+
+**40** 
+
+- **(1)** De concert avec le juge de la Cour nommé conformément au paragraphe 39(2), le greffier de la Cour doit fixer la date, l’heure et le lieu de l’audition du renvoi.
+
+- **(2)** L’audition d’un renvoi doit avoir lieu dans la cité, la ville ou le village où réside ordinairement l’appelant ou le plus rapproché de son lieu de résidence habituel, à moins que l’appelant ne consente par écrit à ce que l’audition se tienne dans un autre endroit.
+
+- **(3)** Le greffier de la Cour doit, par courrier recommandé, informer l’appelant, le commissaire des tribunaux de révision, le ministre et toute personne mise en cause dans l’appel de la date, de l’heure et du lieu de l’audition du renvoi.
+> DORS/89-269, art. 12; DORS/96-521, art. 21; DORS/2000-133, art. 12(F).
+
+
+
+
+
+### Procédure de la Cour canadienne de l’impôt
+
+
+**41** 
+
+- **(1)** Les délibérations devant la Cour doivent se dérouler sans formalités et de façon sommaire.
+
+- **(2)** Compte tenu du droit qu’ont toutes les parties et leurs représentants d’être entendus, le juge nommé par la Cour conformément au paragraphe 39(2) doit déterminer la procédure à suivre à l’audition du renvoi.
+> DORS/89-269, art. 13.
+
+
+
+
+**42** Si l’appelant y consent, le juge nommé conformément au paragraphe 39(2) peut exiger que l’appelant, le ministre et toute personne mise en cause dans l’appel présentent des exposés écrits en plus des exposés oraux ou au lieu de ceux-ci.
+> DORS/89-269, art. 13; DORS/96-521, art. 22.
+
+
+
+
+
+### Décision de la Cour canadienne de l’impôt
+
+
+**43** [Abrogé, DORS/2000-133, art. 11]
+
+
+
+**44** 
+
+- **(1)** Le juge nommé conformément au paragraphe 39(2) doit informer le greffier de la Cour de sa décision.
+
+- **(2)** Après avoir été informé de la décision conformément au paragraphe (1), le greffier de la Cour doit transmettre à l’appelant, au commissaire des tribunaux de révision, au ministre et à toute personne mise en cause dans l’appel une copie conforme de la décision.
+> DORS/89-269, art. 13; DORS/96-521, art. 24; DORS/2000-133, art. 12(F).
+
+
+
+
+**45** Aucuns dépens ne doivent être adjugés lors du règlement d’un renvoi et la Cour ne doit imputer aucuns honoraires à l’appelant.
+> DORS/89-269, art. 13.
+
+
+
+
+**46** Lorsque l’avis d’appel invoque un motif d’appel non renvoyé à la Cour selon le paragraphe 28(2) de la Loi ainsi qu’un motif d’appel renvoyé à la Cour conformément à ce paragraphe, le commissaire des tribunaux de révision doit, dès réception d’une copie conforme de la décision de la Cour, prendre les mesures prévues dans les Règles de procédure des tribunaux de révision.
+> DORS/89-269, art. 13; DORS/96-521, art. 25.
+
+
+
+
+**47** Tout avis, toute demande et tout autre document doivent être adressés à la personne à laquelle il est exigé qu’ils soient envoyés, transmis ou postés au dernier domicile connu de celle-ci.
+
+
+
+
+### **ANNEXE** 
+**(article 22.01)**
+<table>
+<tr>
+<th>Pays</th>
+<th>Accord</th>
+</tr>
+<tr>
+<td>
+
+Allemagne (République fédérale d’)<br />- <i>Germany (Federal Republic of)</i></td>
+<td>Accord entre le gouvernement du Canada et le gouvernement de la République fédérale d’Allemagne, signé à Bonn le 14 novembre 1985</td>
+</tr>
+<tr>
+<td>
+
+Antigua-et-Barbuda<br />- <i>Antigua and Barbuda</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et Antigua et Barbuda, signé à Ottawa le 2 septembre 1992</td>
+</tr>
+<tr>
+<td>
+
+Australie<br />- <i>Australia</i></td>
+<td>Accord réciproque de sécurité sociale entre le Gouvernement du Canada et le Gouvernement de l’Australie, signé à Canberra le 4 juillet 1988
+
+Protocole modifiant l’Accord réciproque de sécurité sociale entre le Gouvernement du Canada et le Gouvernement de l’Australie, signé à Ottawa le 11 octobre 1990
+
+</td>
+</tr>
+<tr>
+<td>
+
+Autriche (République d’)<br />- <i>Austria (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République d’Autriche, signé à Vienne le 24 février 1987
+
+Accord supplémentaire à l’Accord de sécurité sociale entre le Canada et la République d’Autriche, signé à Vienne le 12 septembre 1995
+
+</td>
+</tr>
+<tr>
+<td>
+
+Barbade<br />- <i>Barbados</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la Barbade, signé à Bridgetown le 11 février 1985</td>
+</tr>
+<tr>
+<td>
+
+Belgique<br />- <i>Belgium</i></td>
+<td>Accord entre le Gouvernement du Canada et le Gouvernement de la Belgique, signé à Bruxelles le 10 mai 1984</td>
+</tr>
+<tr>
+<td>
+
+Chili (République du)<br />- <i>Chile (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République du Chili, signé le 18 novembre 1996</td>
+</tr>
+<tr>
+<td>
+
+Chypre (République de)<br />- <i>Cyprus (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la République de Chypre, signé à Ottawa le 24 janvier 1990</td>
+</tr>
+<tr>
+<td>
+
+Corée (République de)<br />- <i>Korea (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la République de Corée, signé à Séoul le 10 janvier 1997</td>
+</tr>
+<tr>
+<td>
+
+Croatie (République de la)<br />- <i>Croatia (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République de Croatie, signé le 22 avril 1998</td>
+</tr>
+<tr>
+<td>
+
+Danemark<br />- <i>Denmark</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement du Danemark, signé à Copenhague le 12 avril 1985</td>
+</tr>
+<tr>
+<td>
+
+Dominique (Commonwealth de la)<br />- <i>Dominica (Commonwealth of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement du Commonwealth de la Dominique, signé à Roseau le 14 janvier 1988</td>
+</tr>
+<tr>
+<td>
+
+Espagne<br />- <i>Spain</i></td>
+<td>Protocole de la Convention sur la sécurité sociale entre le Canada et l’Espagne, signé à Ottawa le 19 octobre 1995</td>
+</tr>
+<tr>
+<td>
+
+États-Unis d’Amérique<br />- <i>United States of America</i></td>
+<td>Accord entre le Gouvernement du Canada et le Gouvernement des États-Unis d’Amérique en matière de sécurité sociale, signé à Ottawa le 11 mars 1981
+
+Accord supplémentaire entre le gouvernement du Canada et le gouvernement des États-Unis d’Amérique en matière de sécurité sociale, signé à Ottawa le 10 mai 1983
+
+Deuxième Accord supplémentaire modifiant l’Accord entre le Gouvernement du Canada et le Gouvernement des États-Unis d’Amérique en matière de sécurité sociale, signé le 28 mai 1996
+
+Entente administrative sur l’assistance mutuelle, conclue en vertu de l’Accord entre le Gouvernement du Canada et le Gouvernement des États-Unis d’Amérique en matière de sécurité sociale et signée le 4 décembre 1996
+
+</td>
+</tr>
+<tr>
+<td>
+
+Finlande (République de)<br />- <i>Finland (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République de Finlande, signé à Ottawa le 28 octobre 1986</td>
+</tr>
+<tr>
+<td>
+
+France<br />- <i>France</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la France, signé à Ottawa le 9 février 1979</td>
+</tr>
+<tr>
+<td>
+
+Grèce (République hellénique)<br />- <i>Greece (Hellenic Republic)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la République hellénique, signé à Toronto le 10 novembre 1995</td>
+</tr>
+<tr>
+<td>
+
+Grenade<br />- <i>Grenada</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la Grenade, signé le 8 janvier 1998</td>
+</tr>
+<tr>
+<td>
+
+Guernesey<br />- <i>Guernsey</i></td>
+<td>Accord sur la sécurité sociale entre Jersey, Guernesey et le Canada, en vigueur au Canada à compter du 1<sup>er</sup> janvier 1994</td>
+</tr>
+<tr>
+<td>
+
+Irlande<br />- <i>Ireland</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et l’Irlande, signé à Ottawa le 29 novembre 1990</td>
+</tr>
+<tr>
+<td>
+
+Islande<br />- <i>Iceland</i></td>
+<td>Accord entre le gouvernement du Canada et le gouvernement de l’Islande, signé à Gimli le 25 juin 1988</td>
+</tr>
+<tr>
+<td>
+
+Israël<br />- <i>Israel</i></td>
+<td>Accord intérimaire sur la sécurité sociale entre le gouvernement du Canada et le gouvernement d’Israël, signé à Jérusalem le 9 avril 2000</td>
+</tr>
+<tr>
+<td>
+
+Italie (République italienne)<br />- <i>Italy (Italian Republic)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et l’Italie, signé à Toronto le 17 novembre 1977
+
+Accord sur la sécurité sociale entre le Canada et la République italienne, signé à Rome le 22 mai 1995
+
+</td>
+</tr>
+<tr>
+<td>
+
+Jamaïque<br />- <i>Jamaica</i></td>
+<td>Accord en matière de sécurité sociale entre le gouvernement du Canada et le gouvernement de la Jamaïque, signé à Kingston, Jamaïque, le 10 janvier 1983</td>
+</tr>
+<tr>
+<td>
+
+Jersey<br />- <i>Jersey</i></td>
+<td>Accord sur la sécurité sociale entre Jersey, Guernesey et le Canada, en vigueur au Canada à compter du 1<sup>er</sup> janvier 1994</td>
+</tr>
+<tr>
+<td>
+
+Luxembourg<br />- <i>Luxembourg</i></td>
+<td>Accord entre le gouvernement du Canada et le gouvernement du Luxembourg, signé à Ottawa le 22 mai 1986</td>
+</tr>
+<tr>
+<td>
+
+Malte (République de)<br />- <i>Malta (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la République de Malte, signé à Toronto le 4 avril 1991</td>
+</tr>
+<tr>
+<td>
+
+Maroc (Royaume du)<br />- <i>Morocco (Kingdom of)</i></td>
+<td>Convention sur la sécurité sociale entre le gouvernement du Canada et le gouvernement du Royaume du Maroc, signée le 1<sup>er</sup> juillet 1998</td>
+</tr>
+<tr>
+<td>
+
+Mexique (États-Unis du)<br />- <i>Mexico (United Mexican States)</i></td>
+<td>Convention de sécurité sociale entre le Canada et les États-Unis du Mexique, signée à Ottawa le 25 avril 1995</td>
+</tr>
+<tr>
+<td>
+
+Norvège (Royaume de)<br />- <i>Norway (Kingdom of)</i></td>
+<td>Accord entre le gouvernement du Canada et le gouvernement du royaume de Norvège, signé à Oslo le 12 novembre 1985</td>
+</tr>
+<tr>
+<td>
+
+Nouvelle-Zélande<br />- <i>New Zealand</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la Nouvelle-Zélande, signé le 9 avril 1996</td>
+</tr>
+<tr>
+<td>
+
+Pays-Bas (Royaume des)<br />- <i>Netherlands (Kingdom of the)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement du Royaume des Pays-Bas, signé à La Haye le 26 février 1987</td>
+</tr>
+<tr>
+<td>
+
+Philippines (République des)<br />- <i>Philippines (Republic of the)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la République des Philippines, signé à Winnipeg le 9 septembre 1994
+
+Accord supplémentaire à l’Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République des Philippines, signé à Winnipeg le 13 novembre 1999
+
+</td>
+</tr>
+<tr>
+<td>
+
+Portugal<br />- <i>Portugal</i></td>
+<td>Accord entre le Canada et le Portugal en matière de sécurité sociale, signé à Toronto le 15 décembre 1980</td>
+</tr>
+<tr>
+<td>
+
+Royaume-Uni de Grande-Bretagne et d’Irlande du Nord<br />- <i>United Kingdom of Great Britain and Northern Ireland</i></td>
+<td>Protocole d’entente entre le gouvernement du Canada et le gouvernement du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord concernant la coopération et l’assistance mutuelle en vue de l’administration des programmes de sécurité sociale, signé le 16 janvier 1997</td>
+</tr>
+<tr>
+<td>
+
+Sainte-Lucie<br />- <i>Saint Lucia</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de Sainte-Lucie, signé à Castries le 5 janvier 1987</td>
+</tr>
+<tr>
+<td>
+
+Saint-Kitts-et-Nevis (Fédération de)<br />- <i>St. Kitts and Nevis (Federation of)</i></td>
+<td>Accord sur la sécurité sociale entre le Canada et la Fédération de Saint-Kitts-et-Nevis, signé à Ottawa le 17 août 1992</td>
+</tr>
+<tr>
+<td>
+
+Saint-Vincent-et-les-Grenadines<br />- <i>Saint-Vincent and the Grenadines</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de Saint-Vincent et les Grenadines, signé le 6 janvier 1998</td>
+</tr>
+<tr>
+<td>
+
+Slovénie (République de)<br />- <i>Slovenia (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République de Slovénie, signé le 17 mai 1998</td>
+</tr>
+<tr>
+<td>
+
+Suède<br />- <i>Sweden</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la Suède, signé à Stockholm le 10 avril 1985</td>
+</tr>
+<tr>
+<td>
+
+Suisse (Confédération suisse)<br />- <i>Switzerland (Swiss Confederation)</i></td>
+<td>Convention de sécurité sociale entre le Canada et la Confédération suisse, signée à Ottawa le 24 février 1994</td>
+</tr>
+<tr>
+<td>
+
+Trinité-et-Tobago (République de)<br />- <i>Trinidad and Tobago (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République de Trinité et Tobago, signé le 9 avril 1997</td>
+</tr>
+<tr>
+<td>
+
+Turquie (République turque)<br />- <i>Turkey (Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République de la Turquie, signé le 19 juin 1998</td>
+</tr>
+<tr>
+<td>
+
+Uruguay (République orientale de l’)<br />- <i>Uruguay (Eastern Republic of)</i></td>
+<td>Accord sur la sécurité sociale entre le gouvernement du Canada et le gouvernement de la République orientale de l’Uruguay, signé à Ottawa le 2 juin 1999</td>
+</tr>
+</table>
+
+> DORS/2000-412, art. 13.
+
+
