@@ -1,0 +1,3037 @@
+> [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md)
+
+# Règlement d’application de la Loi sur la pension de la fonction publique
+
+**C.R.C., ch. 1358**
+
+Autorités habilitantes : 
+- [LOI SUR LA PENSION DE LA FONCTION PUBLIQUE](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
+
+----------
+
+
+
+## Titre abrégé
+
+
+**1** Le présent règlement peut être cité sous le titre : Règlement sur la pension de la fonction publique.
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+## Pension de retraite
+
+
+
+### Interprétation
+
+
+**2** Dans la présente partie,
+
+***département***[Abrogée, DORS/91-332, art. 1(F)]
+
+***employé*** comprend un fonctionnaire et un commis; (*employee*)
+
+***Loi*** La [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md). (*Act*)
+
+***ministère*** Sont assimilés à un ministère tout secteur du gouvernement exécutif du Canada, le Sénat et la Chambre des communes, la bibliothèque du Parlement et tout office, conseil, bureau, commission ou personne morale, ou secteur de l’administration publique fédérale, que mentionne l’annexe I de la Loi. (*department*)
+
+***sous-ministre*** Est assimilé à un sous-ministre le président ou le premier dirigeant d’un ministère. (*deputy head*)
+
+***Tables a(f) Ultimate*** et ***a(f) and a(m) Ultimate*** signifie les tables ainsi intitulées figurant dans « *Mortality of Annuitants 1900-1920* », publié pour le compte du *Institute of Actuaries and Faculty of Actuaries* en Écosse en 1924. (*a(f) Ultimate** and **a(f) and a(m) Ultimate*)
+> DORS/91-332, art. 1; DORS/93-450, art. 1; DORS/2002-365, art. 1.
+
+
+
+
+**3** 
+
+- **(1)** Aux fins de la définition ***activité de service dans les forces*** au paragraphe 2(1) de la Loi,
+
+***activité de service*** signifie service à plein temps comme membre
+- **a)** d’un élément des forces navales, terrestres ou aériennes du Canada, alors que cet élément était en activité de service pour y avoir été mis par le gouverneur en conseil en application de la Loi de la milice<sup><a href='#footnote1_f'>[1]</a></sup>, ou
+
+<a name='footnote1_f'><sup>1</sup></a>: Abrogé par S.C. 1950, ch. 43, art. 250.<br />
+- **b)** d’un élément des forces navales, terrestres ou aériennes de Sa Majesté, autres que les forces spécifiées à l’alinéa a), ou de l’un quelconque des alliés de Sa Majesté, alors que les membres de cet élément pouvaient être appelés à servir sur un théâtre de guerre; (*active service*)
+
+***hôpital d’anciens combattants*** signifie, en ce qui concerne une personne, tout endroit où cette personne a reçu, à titre d’hospitalisé, ou de malade externe touchant des allocations, des soins autorisés par le ministère des Affaires des anciens combattants, le ministère des Pensions et de la Santé nationale ou le ministère du Rétablissement civil des soldats. (*veterans’ hospital*)
+
+- **(2)** Aux fins de la Loi,
+
+***employé à temps partiel*** Personne employée dans la fonction publique qui n’est pas employée à plein temps mais est engagée pour travailler en moyenne au moins 12 heures par semaine, compte tenu de tous les postes qu’elle occupe. (*part-time employee*)
+
+***employé de session*** désigne une personne qui
+- **a)** est un employé de l’une ou l’autre Chambre ou à la fois des deux Chambres du Parlement, et
+- **b)** est employée pendant une ou plusieurs sessions du Parlement,
+
+mais, pour l’application de l’alinéa 4(1)f) de la Loi, ne comprend pas une personne qui était, immédiatement avant de devenir une personne à laquelle s’applique l’alinéa a) ou b), une personne tenue de contribuer en vertu du paragraphe 4(1) de la Loi. (*sessional employee*)
+
+***employé engagé localement hors du Canada***[Abrogée, DORS/91-332, art. 2(F)]
+
+***employé recruté sur place à l’étranger*** Toute personne engagée à l’étranger pour y fournir des services, à l’exception des personnes suivantes :
+- **a)** la personne qui est nommée à un emploi continu à titre amovible conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md);
+- **b)** la personne qui est nommée en vertu d’un pouvoir exécutif et qui, avant le 1<sup>er</sup> janvier 1954, était contributeur au compte de pension de retraite. (*an employee engaged locally outside Canada*)
+
+***employé saisonnier***
+- **a)** À l’égard de toute période d’emploi antérieure au 4 juillet 1994, la personne — à l’exception, pour l’application de l’alinéa 5(1)b) de la Loi, de celle qui était tenue de contribuer en vertu du paragraphe 5(1) de la Loi immédiatement avant d’être certifiée ou nommée selon les sous-alinéas (i) ou (ii) — qui :
+	- **(i)** soit a été certifiée à titre d’employé saisonnier en conformité avec la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md),
+	- **(ii)** soit a été nommée, à un traitement annuel défini, pour exercer des fonctions pendant une période de moins de 12 mois dans des années d’emploi successives, à l’exception de celle nommée enseignante dans une école établie en vertu de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou en vertu d’une ordonnance des Territoires du Nord-Ouest;
+- **b)** à l’égard de toute période d’emploi postérieure au 3 juillet 1994, la personne employée dans la fonction publique qui, chaque année, est mise à pied pour une ou plusieurs périodes prédéterminées d’au moins trois mois consécutifs. (*seasonal employee*)
+
+***plein temps*** À l’égard d’une personne employée dans la fonction publique, se dit de celle qui, selon le cas :
+- **a)** si le nombre d’heures de travail hebdomadaires normales a été établi pour le groupe professionnel dont elle fait partie, est engagée pour travailler ce nombre d’heures ou 30 heures, selon le plus élevé de ces deux nombres;
+- **b)** si aucun nombre d’heures de travail hebdomadaires normales n’a été établi pour le groupe professionnel dont elle fait partie, est engagée pour travailler 37,5 heures par semaine;
+- **c)** occupe plus d’un poste à temps partiel à la fois, lorsque la somme des quotients de A par B calculés pour chacun de ces postes est égale ou supérieure à 1,où :
+- **A** représente la moyenne du nombre d’heures hebdomadaires pour lequel elle est engagée,
+- **B** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont elle fait partie;
+- **d)** sauf pour l’application du paragraphe 5(1) de la Loi, à l’égard d’une période d’emploi antérieure au 4 juillet 1994, est nommée commissaire en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) ou est nommée à un poste dans le cadre duquel les pouvoirs d’un tel commissaire lui sont conférés. (*full-time*)
+
+- **(3)** Pour l’application de la définition de ***traitement*** aux paragraphes 3(1) et 47(1) de la Loi, la rémunération de base de l’employé à temps partiel s’entend :
+	- **a)** dans le cas où celui-ci travaille moins d’heures que la moyenne du nombre d’heures hebdomadaires pour lequel il a été engagé, de la rémunération qu’il aurait reçue s’il avait travaillé ce nombre d’heures;
+	- **b)** dans tout autre cas, de la rémunération qu’il reçoit à l’égard de la moyenne du nombre d’heures hebdomadaires pour lequel il a été engagé.
+
+- **(4)** [Abrogé, DORS/94-483, art. 1]
+> DORS/91-332, art. 2(F); DORS/93-450, art. 11(F); DORS/94-483, art. 1.
+
+
+
+
+**3.1** L’ensemble des personnes employées dans les bureaux de recherche des caucus de la Chambre des communes est désigné comme une catégorie d’employés pour l’application de l’alinéa 2(1.1)b) de la Loi.
+> DORS/85-148, art. 1.
+
+
+
+
+**4** 
+
+- **(1)** Les prestations de retraite ou de pension visées par l’alinéa 4(2)b) de la Loi sont celles qui
+	- **a)** sont accordées en application de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md);
+	- **b)** sont payables soit sur le Trésor ou sur quelque caisse ou compte parmi les comptes du Canada autres que le compte de pension de retraite ou le Compte des rentes sur l’État, soit sur un fonds ou un régime de pension de retraite ou de pension auquel ont été versées des cotisations prélevées sur le Trésor à l’égard d’employés recrutés sur place à l’étranger, et qui :
+		- **(i)** se rattachent par le montant à la durée de service qui peut être comptée par la personne à qui la prestation de retraite ou de pension est payable, et
+		- **(ii)** sont payables par versements durant la vie du bénéficiaire et au-delà si le régime de retraite ou de pension le prévoit; ou
+	- **c)** sont payables, conformément aux dispositions relatives à la pension ou à la retraite d’un conseil, d’une commission ou d’une société qui est, ou peut être par la suite, spécifiée à l’annexe A de la Loi, sur tout compte ou caisse ne faisant pas partie du Fonds du revenu consolidé, et qui
+		- **(i)** se rattachent par le montant à la durée de service qui peut être comptée par la personne à qui la prestation de retraite ou de pension est payable, et
+		- **(ii)** sont payables par versements durant la vie du bénéficiaire et au-delà si le régime de retraite ou de pension le prévoit.
+
+- **(2)** Les prestations de retraite ou de pension visées par l’alinéa 7(2)a) de la Loi sont celles qui
+	- **a)** sont constituées en totalité ou en partie par des contributions, subventions ou autres paiements effectués par l’employeur;
+	- **b)** se rattachent par le montant à la durée de service qui peut être comptée par la personne à qui la prestation de retraite ou de pension est payable; et
+	- **c)** sont payables par versements durant la vie du bénéficiaire et au-delà si le régime de retraite ou de pension le prévoit.
+
+- **(3)** Nonobstant le paragraphe (2), lorsqu’un contributeur reçoit ou aura droit de recevoir une prestation de pension de retraite ou de pension fondée sur une partie d’une période de service dans un emploi ouvrant droit à la pension et que la prestation ne peut être cédée par le contributeur, seule la partie de la période de service sur laquelle est fondée la prestation sera censée tomber sous le coup des prescriptions de ce paragraphe, et à cette fin
+	- **a)** la partie de la période de service doit se rattacher à une période de service et est censée être une période de service, quelle que soit la façon dont le calcul a été effectué par l’employeur;
+	- **b)** le ministre doit déterminer la durée de la période de service sur la foi des renseignements reçus de l’employeur; et
+	- **c)** la période de service déterminée par le ministre doit être considérée comme étant cette partie de la période la plus éloignée.
+> DORS/91-332, art. 3.
+
+
+
+
+
+## Contributions au compte de pension de retraite
+
+
+
+### Paiements échelonnés
+
+
+**5** 
+
+- **(1)** Lorsqu’un contributeur a choisi d’échelonner ses paiements applicables à toute durée de service pour laquelle il s’est engagé à contribuer au compte de pension de retraite,
+	- **a)** son premier versement devient dû et payable à la fin du mois où son option a été reçue par le ministre ou par une personne désignée par le ministre en conformité de l’alinéa 14(1)b), et ses versements subséquents deviendront payables chaque mois par la suite sa vie durant, en montants égaux, sauf pour le dernier versement dont le montant peut être moindre que celui des versements antérieurs,
+		- **(i)** tous ses versements devant être intégralement acquittés avant qu’il ait atteint l’âge de 65 ans si le premier versement est échu et payable avant qu’il ait atteint l’âge de 45 ans, et
+		- **(ii)** tous ses versements devant être intégralement acquittés au cours de 20 ans si son premier versement est échu et payable après qu’il a atteint l’âge de 45 ans,
+calculés conformément à la Table canadienne de mortalité n<sup>o</sup> 2 (1941), Hommes ou Femmes, suivant le cas, avec intérêt à quatre pour cent l’an; et
+	- **b)** il peut de temps à autre modifier son mode de paiement de façon que les versements non encore effectués puissent être payés
+		- **(i)** en une somme forfaitaire,
+		- **(ii)** au moyen de mensualités plus considérables suivant un mode semblable à celui qui est prévu à l’alinéa a), calculées à compter de la date de la modification, ou
+		- **(iii)** en une somme forfaitaire et au moyen de mensualités suivant un mode semblable à celui qui est prévu à l’alinéa a), calculées à compter de la date de la modification et payables dans le même délai ou dans un délai inférieur à celui dont il était déjà convenu en vertu de l’alinéa a); et
+	- **c)** il peut, dans le cas d’une option portant sur plus d’un genre ou période de service, lorsqu’on s’aperçoit qu’une ou plusieurs de ces périodes ne peuvent valablement être comptées, réduire le versement au minimum requis pour la ou les périodes de service valable, pourvu que le délai dans lequel il acquitte ledit service valable ne soit pas prolongé.
+
+- **(2)** Lorsqu’un contributeur n’effectue pas un versement dont il est redevable, le ministre le somme immédiatement de payer le montant en souffrance (s’il est en congé non payé, la sommation ne lui est faite qu’après qu’il a cessé d’être en congé non payé), sur quoi le montant, en souffrance, majoré des intérêts prévus par le paragraphe (7) jusqu’à la date de la sommation, devient payable
+	- **a)** en une somme forfaitaire immédiatement, ou
+	- **b)** en versements mensuels pendant la moindre des durées suivantes :
+		- **(i)** la vie du contributeur, ou
+		- **(ii)** le restant de la période durant laquelle les versements prévus au paragraphe (1) doivent être payés,
+au choix du contributeur, la valeur du montant en cause, calculée à compter de la date où le contributeur a exercé son option en vertu du présent paragraphe et en conformité de la Table canadienne de mortalité n<sup>o</sup> 2 (1941), Hommes ou Femmes, suivant le cas, avec intérêt à quatre pour cent l’an, étant le montant en souffrance avec intérêt jusqu’à la date de la sommation; si le contributeur ne formule pas son choix dans les 30 jours qui suivent la date de la sommation, il est censé avoir choisi la période spécifiée à l’alinéa b).
+
+- **(3)** Un contributeur auquel s’applique le paragraphe (2) peut, au lieu d’exercer une option qui y est prévue, choisir, avant l’expiration du délai de 30 jours qui y est mentionné, d’effectuer, sous réserve de l’approbation du ministre, les versements non acquittés, avec intérêt (nonobstant le paragraphe (7)) au taux de quatre pour cent l’an depuis la date d’échéance de chaque versement non acquitté jusqu’à ce qu’il ait été acquitté, sur une durée égale à celle pour laquelle le contributeur est défaillant, cette durée devant commencer
+	- **a)** 30 jours après la fin de la période durant laquelle le contributeur acquitte les contributions mentionnées au paragraphe (1) pour lesquelles il n’était pas défaillant, ou
+	- **b)** le dernier jour du mois durant lequel le contributeur exerce une option prévue par le présent paragraphe,
+soit celle de ces deux époques qui est postérieure à l’autre; et si le contributeur décède avant que tous lesdits versements, majorés de l’intérêt prévu au présent article, aient été effectués, les versements non acquittés, majorés de l’intérêt prévu audit article, continuent d’être payables au compte de pension de retraite par le contributeur.
+
+- **(4)** Lorsqu’un contributeur a choisi de payer un montant ainsi qu’il est prévu à l’alinéa 7(6)a) de la Loi et qu’il n’a pas payé ledit montant dans les 30 jours suivant l’exercice de l’option, le contributeur est censé avoir choisi de payer ledit montant ou le solde alors impayé dudit montant, suivant le cas, au moyen de versements calculés en conformité du paragraphe (1).
+
+- **(5)** Lorsqu’un contributeur cesse d’être employé dans le service public et acquiert le droit à une prestation prévue par la Loi ou qu’il lui est accordé une prestation en vertu de la Loi sur la pension de retraite avant que le montant dont il est redevable en vertu du présent article ne soit payé, le recouvrement peut en être fait n’importe quand par retenue sous forme de déduction ou de compensation sur la prestation payable au contributeur,
+	- **a)** dans le cas d’une prestation forfaitaire, au moyen d’un paiement forfaitaire immédiatement, ou
+	- **b)** dans le cas d’une prestation autre qu’une prestation forfaitaire,
+		- **(i)** au moyen d’un paiement forfaitaire immédiatement, ou
+		- **(ii)** au moyen de mensualités pendant la moindre des durées suivantes :
+			- **(A)** la vie du contributeur, ou
+			- **(B)** le restant de la période durant laquelle les versements prévus en vertu du présent article doivent être payés,
+au choix du contributeur, la valeur du montant en cause, calculée à compter de la date où le contributeur a exercé son option en vertu du présent paragraphe et en conformité de la Table canadienne de mortalité n<sup>o</sup> 2 (1941), Hommes ou Femmes, suivant le cas, étant le montant dont il est redevable en vertu du présent article, avec intérêt à quatre pour cent l’an.
+
+- **(6)** Lorsque, au décès d’un contributeur, un montant payable par lui au compte de pension de retraite est échu et exigible mais n’est pas payé, le ministre doit, si le montant, majoré des intérêts prévus au présent article, n’est pas payé immédiatement par le représentant personnel du contributeur, sommer la veuve et les enfants du contributeur, ou l’un ou plusieurs d’entre eux, à qui revient une allocation prévue par la Loi, de le payer; si le montant échu et exigible, avec intérêt jusqu’à la date de la sommation, n’est pas payé, recouvrement peut en être fait n’importe quand et, sans préjudice de tout recours dont Sa Majesté dispose en la matière, peut se faire à toute époque par retenue, au moyen de déduction ou compensation, sur l’allocation payable à la veuve et aux enfants, ou à l’un ou plusieurs d’entre eux,
+	- **a)** en une somme forfaitaire immédiatement, ou
+	- **b)** par versements échelonnés sur une durée déterminée par le ministre,
+suivant que le choisit le bénéficiaire, avec intérêt au taux de quatre pour cent l’an.
+
+- **(7)** Sous réserve du paragraphe (8), lorsqu’un montant payable par un contributeur ou un bénéficiaire est payé après le jour de l’échéance, il y est ajouté un intérêt de quatre pour cent l’an à compter du jour de l’échéance jusqu’au jour du paiement.
+
+- **(8)** Nonobstant toute disposition du présent article,
+	- **a)** lorsque le contributeur ou son représentant personnel ou le bénéficiaire fait paiement intégral d’un montant dû en vertu du présent article avant le jour où la sommation de payer est faite conformément audit article, aucun intérêt n’en est exigible;
+	- **b)** lorsque, après sommation par le ministre, conformément au présent article, de payer un montant, intérêts compris, paiement intégral en est fait dans les 30 jours qui suivent la date de la sommation, aucun intérêt n’en est exigible en vertu du paragraphe (7); et
+	- **c)** lorsqu’un contributeur a autorisé ou requis la retenue, sur des sommes qui lui sont dues de la part de Sa Majesté, du montant dont il est redevable en vertu du présent article, et qu’il se trouve en défaut parce que cette retenue n’a pas été faite, aucun intérêt n’est exigé en vertu du paragraphe (3) ou du paragraphe (7) sur un montant égal à la retenue qui n’a pas été ainsi effectuée.
+
+- **(9)** Aux fins du présent article, une sommation par le ministre de paiement d’un montant est réputée faite le jour de la mise à la poste d’une lettre, réclamant le paiement, signée par le ministre ou en son nom et adressée au contributeur ou au bénéficiaire, selon le cas.
+
+- **(10)** Aucune disposition du présent article n’empêche une personne de payer n’importe quand avant l’échéance un montant payable par elle ou déductible sur sa prestation en vertu du présent article.
+
+- **(11)** Lorsqu’un contributeur a choisi de payer par versements à l’égard d’une période de service qu’il a choisi d’acquitter au compte de pension de retraite et que n’importe quel des versements mensuels payables suivant le mode de paiement, à l’exception du dernier versement, est inférieur à 1 $, le ministre peut modifier le mode de paiement de façon que chaque versement mensuel, sauf le dernier versement, s’établisse à 1 $.
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Taux annuel de traitement maximal
+
+
+**5.1** Pour l’application de l’alinéa 5(3)d) de la Loi, nulle personne ne peut contribuer au compte de pension de retraite en ce qui regarde la partie de son taux annuel de traitement qui dépasse le montant déterminé selon la formule suivante, arrondi à la centaine supérieure :
+```
+(A - 0,013B) ÷ (0,02) + B
+```
+ où
+- **A** représente :
+- **a)** à l’égard du traitement qu’elle a reçu pour les années 1994 ou 1995, 1 722,22 $
+- **b)** à l’égard du traitement qu’elle a reçu pour toute année après 1995, le montant du plafond des prestations déterminées au sens du paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
+- **B** le montant du maximum des gains annuels ouvrant droit à pension de cette personne pour l’année en cause, déterminé conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+> DORS/94-767, art. 1.
+
+
+
+
+
+### Recouvrement d’allocations versées par erreur
+
+
+**6** 
+
+- **(1)** Si, en vertu de la Loi, un montant a été versé par erreur à une personne en raison d’une pension ou d’une allocation annuelle, le ministre doit, immédiatement, sommer cette personne de payer un montant égal au montant qui a été payé par erreur.
+
+- **(2)** Une personne qui a été sommée de payer un montant par le ministre conformément au paragraphe (1) doit, dans les 30 jours qui suivent la date où la sommation a été faite
+	- **a)** payer ledit montant au ministre en une somme forfaitaire, ou
+	- **b)** prendre les dispositions nécessaires en vue de payer le montant au ministre en versements mensuels à déduire de sa pension ou de son allocation annuelle, pendant la moindre des durées suivantes :
+		- **(i)** la vie de ladite personne, ou
+		- **(ii)** la période requise pour payer le montant par des versements égaux à 10 pour cent du montant mensuel brut de la pension ou de l’allocation annuelle payable à cette personne en vertu de la Loi,
+selon le choix que peut faire cette personne, le montant étant calculé à la date où elle a exercé son choix, en conformité de la Table canadienne de mortalité n<sup>o</sup> 2 (1941), Hommes ou Femmes, suivant le cas.
+
+- **(3)** Lorsque la personne dont il est question au paragraphe (2) ne formule pas son choix dans les 30 jours qui suivent la date de la sommation de paiement, elle est censée avoir choisi la méthode de paiement spécifiée à l’alinéa (2)b).
+
+- **(4)** La personne à l’égard de laquelle des déductions sont effectuées en vertu du présent article peut, en tout temps,
+	- **a)** payer le montant alors dû en une somme forfaitaire; ou
+	- **b)** prendre les dispositions nécessaires en vue de payer le montant alors dû
+		- **(i)** par versements plus considérables suivant un mode semblable à celui qui est prévu à l’alinéa (2)b), ou
+		- **(ii)** par un montant comptant et des versements mensuels suivant un mode semblable à celui qui est prévu à l’alinéa (2)b), et payables en dedans de la même période ou une période plus courte que celle qui avait d’abord été fixée.
+
+- **(5)** Si, en vertu du présent article, des déductions doivent être faites sur le montant mensuel brut d’une pension ou d’une allocation annuelle, la première déduction doit se faire au cours du mois qui suit le mois dans lequel expire la période de 30 jours prévue au paragraphe (2), et les déductions subséquentes devront s’effectuer mensuellement par la suite en montants égaux pendant la vie de la personne à qui la pension ou l’allocation annuelle est payable ou jusqu’à ce que le montant demandé par le ministre, en conformité du paragraphe (1), ait été payé, sauf dans le cas du dernier versement dont le montant pourra être inférieur aux versements précédents.
+
+- **(6)** Nonobstant le paragraphe (2), lorsque les déductions mensuelles dont il est question seraient, de l’avis du ministre, trop onéreuses pour la personne à qui la pension ou l’allocation annuelle est payable, le ministre peut prescrire d’effectuer des déductions mensuelles moins élevées, mais ces déductions ne doivent en aucun cas être inférieures à cinq pour cent du montant mensuel brut de la pension ou de l’allocation annuelle, ou à 1 $, selon le plus élevé des deux montants.
+
+- **(7)** Nonobstant le paragraphe (5), lorsque le ministre ordonne, en vertu du paragraphe (6), que des déductions moins élevées soient effectuées, de telles déductions doivent se continuer tant que le montant alors dû n’aura pas été entièrement acquitté et, advenant le décès de la personne à l’égard de laquelle les déductions sont effectuées, avant le paiement complet du montant, le solde impayé sera, si le ministre l’ordonne, recouvré sur toutes autres prestations payables, en vertu de la Loi, à l’égard de ladite personne.
+
+- **(8)** Les dispositions des paragraphes 5(9) et (10) s’appliquent au présent article.
+
+
+
+**6.01** 
+
+- **(1)** Dans le cas où un montant a été payé par erreur aux termes de la Loi au titre d’une prestation supplémentaire, le ministre somme sans délai la personne qui a reçu ce montant de le rembourser.
+
+- **(2)** Si la personne qui a été sommée de rembourser un montant aux termes du paragraphe (1) ne l’a pas acquitté dans les 30 jours suivant la date de la sommation, le ministre peut retenir le montant sur la pension, l’allocation annuelle ou la prestation supplémentaire de cette personne par des déductions mensuelles sensiblement égales représentant chacune deux pour cent du montant mensuel brut de la pension ou de l’allocation annuelle, selon le cas.
+
+- **(3)** La personne à l’égard de laquelle des déductions sont effectuées aux termes du paragraphe (2) peut, à tout moment :
+	- **a)** acquitter le reliquat par un paiement forfaitaire;
+	- **b)** faire augmenter le montant des déductions mensuelles;
+	- **c)** verser une somme partielle et prendre les dispositions nécessaires pour acquitter le reliquat par des déductions mensuelles sensiblement égales, échelonnées sur une période inférieure ou égale à celle sur laquelle seraient échelonnées les déductions visées à ce paragraphe.
+
+- **(4)** Dans le cas où des déductions sont effectuées aux termes du présent article, la première déduction est faite au cours du mois suivant celui où expire la période de 30 jours visée au paragraphe (2) et les déductions subséquentes sont faites mensuellement jusqu’à paiement complet du montant dû.
+
+- **(5)** Les paragraphes 5(9) et (10) s’appliquent aux sommations faites par le ministre et aux montants payables aux termes du présent article.
+> DORS/93-450, art. 2.
+
+
+
+
+
+## Déductions
+
+
+**6.1** 
+
+- **(1)** Lorsque le conjoint survivant d’un contributeur a reçu le montant prévu au paragraphe 25(2) de la Loi, dans une de ses versions antérieures au 29 juin 1989, le ministre déduit, conformément aux paragraphes (2) à (4), un montant équivalent sur les paiements de l’allocation annuelle de conjoint survivant faits en application de l’article 34 de la Loi modifiant la législation relative aux pensions de retraite.
+
+- **(2)** Les déductions effectuées en application du paragraphe (1) :
+	- **a)** correspondent à 10 pour cent du montant brut de l’allocation annuelle payable au conjoint survivant, sauf que la dernière déduction effectuée peut être inférieure aux déductions précédentes;
+	- **b)** s’opèrent sur chaque paiement, à compter de la date d’entrée en vigueur du présent article;
+	- **c)** cessent à la première en date des éventualités suivantes :
+		- **(i)** le décès du conjoint survivant,
+		- **(ii)** le remboursement complet du montant visé au paragraphe (1).
+
+- **(3)** Le conjoint survivant dont l’allocation annuelle fait l’objet de déductions effectuées conformément au présent article peut, en tout temps, rembourser le montant visé au paragraphe (1) de l’une des façons suivantes :
+	- **a)** par le paiement d’une somme globale;
+	- **b)** par des paiements mensuels supérieurs à 10 pour cent du montant mensuel brut de son allocation annuelle;
+	- **c)** à la fois par le paiement d’une somme globale et par des paiements mensuels échelonnés sur une période égale ou inférieure à celle initialement prévue.
+
+- **(4)** Dans le cas où les déductions effectuées selon les modalités prévues au paragraphe (2) placeraient le conjoint survivant dans une situation financière difficile, le ministre peut réduire ces déductions, mais elles ne peuvent en aucun cas être inférieures à cinq pour cent du montant mensuel brut de l’allocation annuelle, ou à 1 $, selon le plus élevé des deux montants.
+> DORS/91-703, art. 1.
+
+
+
+
+
+### Emploi à temps partiel
+
+
+**6.2** Pour l’application des articles 5.1 et 5.2 et de l’alinéa 8(2)b.1) de la Loi, des définitions de ***employé à temps partiel*** et ***plein temps*** au paragraphe 3(2), du paragraphe 3(3) et des articles 6.6, 6.7 et 30.1 à 30.3, la moyenne du nombre d’heures hebdomadaires pour lequel l’employé à temps partiel est engagé est calculée de la façon suivante :
+- **a)** dans le cas où il est engagé pour travailler un nombre d’heures hebdomadaires fixe et où il occupe un ou plusieurs postes, le nombre total de ces heures;
+- **b)** dans le cas où il est engagé pour travailler un nombre d’heures hebdomadaires qui varie d’une semaine à l’autre :
+	- **(i)** s’il travaille selon un cycle de travail comportant des heures de travail prédéterminées, le nombre total de ces heures durant ce cycle, divisé par le nombre de semaines comprises dans celui-ci,
+	- **(ii)** sinon, le nombre total d’heures de travail prédéterminées au cours d’une période de trois mois, divisé par le nombre de semaines comprises dans cette période.
+> DORS/94-483, art. 2.
+
+
+
+
+**6.3** 
+
+- **(1)** Toute personne visée à l’article 5.2 de la Loi peut, en vertu de cet article, choisir de contribuer au compte de pension de retraite au plus tard au dernier en date des jours suivants :
+	- **a)** le 4 juillet 1996;
+	- **b)** le dernier jour du sixième mois suivant la date d’envoi de l’avis écrit l’avisant qu’elle peut effectuer un tel choix;
+	- **c)** si elle était absente en congé non payé le 4 juillet 1994, le dernier jour du sixième mois suivant la date de son retour au travail.
+
+- **(2)** Lorsqu’il a été établi que la personne visée au paragraphe (1) a reçu d’une personne employée dans la fonction publique — dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils sur l’application de la Loi — des renseignements faux ou trompeurs quant au délai d’exercice du choix visé à l’article 5.2 de la Loi ou quant à l’application de celle-ci ou du présent règlement à un employé à temps partiel, le ministre lui envoie un avis écrit renfermant les renseignements exacts et indiquant qu’elle peut exercer son choix dans le délai prévu au paragraphe (3).
+
+- **(3)** Malgré le paragraphe (1), la personne qui reçoit un avis aux termes du paragraphe (2) peut exercer son choix dans les trois mois suivant la date d’envoi de l’avis.
+> DORS/94-483, art. 2; DORS/98-286, art. 1; DORS/2000-167, art. 1.
+
+
+
+
+**6.4** 
+
+- **(1)** Sous réserve du paragraphe (3), une personne peut révoquer le choix effectué en vertu de l’article 5.2 de la Loi lorsqu’il a été établi qu’elle a reçu d’une personne employée dans la fonction publique — dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils sur l’application de la Loi — des renseignements faux ou trompeurs quant à l’application de la Loi ou du présent règlement à un employé à temps partiel.
+
+- **(2)** Lorsqu’il a été établi que la personne a reçu des renseignements faux ou trompeurs dans les circonstances visées au paragraphe (1), le ministre lui envoie un avis écrit renfermant les renseignements exacts et indiquant qu’elle peut exercer son choix dans le délai prévu au paragraphe (3).
+
+- **(3)** La personne avise le ministre par écrit de la révocation de son choix dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe (2).
+> DORS/94-483, art. 2; DORS/98-286, art. 2; DORS/2000-167, art. 2.
+
+
+
+
+**6.5** Malgré le paragraphe 8(3) de la Loi, le contributeur qui a le droit d’exercer un choix au titre de la partie I de la Loi peut choisir de payer :
+- **a)** pour toute fraction d’une période de service à titre d’employé à temps partiel;
+- **b)** pour toute période de service à plein temps antérieure à une période de service à titre d’employé à temps partiel.
+> DORS/94-483, art. 2.
+
+
+
+
+**6.6** 
+
+- **(1)** Sous réserve du paragraphe (3), le contributeur visé au paragraphe 7(1.1) de la Loi qui, au plus tard un an après être devenu contributeur en vertu de la Loi, exerce son option à l’égard d’une période de service visée à ce paragraphe, sauf s’il s’agit d’une période de service à l’égard de laquelle il a exercé le choix visé à la division 6(1)b)(iii)(I.1) de la Loi, est tenu de verser au compte de pension de retraite une contribution égale à la somme des montants suivants :
+	- **a)** à l’égard de toute période de service à plein temps, le montant qu’il aurait été tenu de payer aux termes du paragraphe 7(1) de la Loi si celui-ci était calculé sur la base d’un traitement égal :
+		- **(i)** dans le cas où il était employé à plein temps la dernière fois qu’il est devenu contributeur en vertu de la Loi, au traitement qui était autorisé à lui être versé à ce moment,
+		- **(ii)** dans le cas où il était employé à temps partiel la dernière fois qu’il est devenu contributeur en vertu de la Loi, au traitement qui lui aurait été payable s’il avait été employé à plein temps à ce moment;
+	- **b)** à l’égard de chaque période de service à titre d’employé à temps partiel, le montant qu’il aurait été tenu de payer aux termes de l’alinéa 7(1)e) de la Loi si celui-ci était calculé sur la base d’un traitement égal au résultat de la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+	- **(i)** dans le cas où il était employé à plein temps la dernière fois qu’il est devenu contributeur en vertu de la Loi, le traitement qui était autorisé à lui être versé à ce moment,
+	- **(ii)** dans le cas où il était employé à temps partiel la dernière fois qu’il est devenu contributeur en vertu de la Loi, le traitement qui lui aurait été payable s’il avait été employé à plein temps à ce moment,
+- **B** la somme des résultats de la formule suivante calculés pour chacun des postes à temps partiel pour lesquels il était engagé durant la période visée :
+```
+C/D
+```
+où :
+- **C** représente la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **D** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont il faisait partie.
+
+- **(2)** Le contributeur visé au paragraphe 7(1.1) de la Loi qui, plus d’un an après être devenu contributeur en vertu de la Loi, exerce son option à l’égard d’une période de service visée à ce paragraphe, sauf s’il s’agit d’une période de service à l’égard de laquelle il a exercé le choix visé à la division 6(1)b)(iii)(I.1) de la Loi, est tenu de verser au compte de pension de retraite une contribution calculée en conformité avec le paragraphe (1) sur la base d’un traitement égal :
+	- **a)** dans le cas où il était employé à plein temps au moment où il a exercé son option, au traitement qui était autorisé à lui être versé à ce moment;
+	- **b)** dans le cas où il était employé à temps partiel au moment où il a exercé son option, sous réserve du paragraphe (3), au traitement qui lui aurait été payable s’il avait été employé à plein temps à ce moment.
+
+- **(3)** Pour l’application des paragraphes (1) et (2), lorsque le contributeur était un employé à temps partiel occupant plus d’un poste à la fois aux moments visés au sous-alinéa (1)a)(ii), au sous-alinéa (ii) de l’élément A de l’alinéa (1)b) ou à l’alinéa (2)b), son traitement est égal à la somme des résultats de la formule suivante calculés pour chacun de ces postes :
+```
+A × B/C
+```
+où :
+- **A** représente le traitement qui lui aurait été payable, s’il avait été employé à plein temps,
+- **B** la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **C** le total des moyennes, pour tous ces postes, du nombre d’heures hebdomadaires pour lequel il était engagé.
+> DORS/94-483, art. 2.
+
+
+
+
+**6.7** Le contributeur est tenu de verser au compte de pension de retraite, à l’égard de la période de service visée à la division 6(1)b)(iii)(I.1) de la Loi, une contribution égale au montant qu’il aurait été tenu de verser selon l’alinéa 7(1)e) de la Loi si celui-ci était calculé sur la base d’un traitement égal au montant obtenu selon la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente le traitement qui était autorisé à lui être versé au 4 juillet 1994,
+- **B** la somme des résultats de la formule suivante calculés pour chacun des postes à temps partiel pour lesquels il était engagé durant la période visée :
+```
+C/D
+```
+où :
+- **C** représente la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **D** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont il faisait partie.
+> DORS/94-483, art. 2; DORS/94-539, art. 1.
+
+
+
+
+
+### En cas d’absence en congé non payé
+
+
+**7** 
+
+- **(1)** Sous réserve du paragraphe 5.3(2) de la Loi et des paragraphes (2) et (3), le contributeur qui est absent de la fonction publique, en congé non payé, est tenu de contribuer au compte de pension de retraite :
+	- **a)** pour les trois premiers mois consécutifs de sa période d’absence, le montant qu’il aurait été tenu de verser en application du paragraphe 5(1) et de l’article 65 de la Loi s’il n’avait pas été absent;
+	- **b)** pour le reliquat de sa période d’absence, le double du montant qu’il aurait été tenu de verser en application du paragraphe 5(1) et de l’article 65 de la Loi s’il n’avait pas été absent.
+
+- **(2)** Sous réserve du paragraphe 5.3(2) de la Loi, le contributeur qui est absent de la fonction publique, en congé non payé, est tenu, dans les circonstances suivantes, de contribuer au compte de pension de retraite en versant, à l’égard de cette période d’absence, le montant qu’il aurait été tenu de contribuer en application des articles 5 et 65 de la Loi s’il n’avait pas été absent :
+	- **a)** congé non payé, pour lequel le sous-ministre du ministère employeur remet au ministre une attestation des raisons du congé, que le contributeur prend, selon le cas :
+		- **(i)** afin de faire des études ou d’acquérir une formation dont le ministère profitera,
+		- **(ii)** en raison de maladie ou de blessures,
+		- **(iii)** en raison de sa grossesse,
+		- **(iv)** afin d’exercer des fonctions pour le compte de tout office, conseil, bureau, commission ou organisme qui est un mandataire de Sa Majesté du chef du Canada sans faire partie de la fonction publique,
+		- **(v)** afin d’exercer des fonctions auprès d’un organisme — y compris un gouvernement autre que le gouvernement du Canada, mais non un agent négociateur de la fonction publique ni une caisse de crédit —, lesquelles fonctions profiteront au ministère ou sont exercées à la demande du gouvernement du Canada,
+		- **(vi)** afin de servir dans les Forces armées canadiennes,
+		- **(vii)** pour des raisons d’ordre personnel, si le congé n’excède pas trois mois et a été approuvé par les autorités compétentes;
+	- **b)** congé non payé au cours duquel le contributeur est un employé recruté sur place à l’étranger par Sa Majesté du chef du Canada.
+
+- **(3)** Sous réserve du paragraphe 5.3(2) de la Loi, dans le cas où le contributeur est absent de la fonction publique, en congé non payé, pour l’une des raisons suivantes et que le sous-ministre du ministère employeur remet au ministre une attestation des raisons du congé du contributeur, le contributeur est tenu de verser au compte de pension de retraite, à l’égard de toute partie de la période d’absence comprise dans la période de 52 semaines suivant le jour de la naissance ou de l’adoption de l’enfant, le montant qu’il aurait été tenu de verser en application des articles 5 et 65 de la Loi s’il n’avait pas été absent :
+	- **a)** naissance de son enfant;
+	- **b)** responsabilités parentales à l’égard d’un enfant dont il a accepté la garde aux fins d’adoption;
+	- **c)** soin et garde de son enfant.
+> DORS/78-112, art. 1; DORS/79-106, art. 1; DORS/81-183, art. 1; DORS/91-332, art. 4; DORS/93-450, art. 3.
+
+
+
+
+**7.1** 
+
+- **(1)** Le contributeur qui est absent de la fonction publique, en congé non payé, est censé avoir reçu pendant son absence un traitement égal à celui dont le versement aurait été autorisé s’il n’avait pas été absent.
+
+- **(2)** Dans le calcul du traitement du contributeur pour l’application du paragraphe (1), il est tenu compte de toute augmentation de traitement qui lui aurait été versée s’il n’avait pas été absent en congé non payé, sauf disposition contraire de la convention collective ou autre texte régissant ses conditions de travail.
+> DORS/91-332, art. 4; DORS/93-450, art. 4.
+
+
+
+
+**7.2** 
+
+- **(1)** Sous réserve des paragraphes (1.1) et (2), le contributeur est tenu de verser le montant payable aux termes de l’article 7 :
+	- **a)** soit en un paiement forfaitaire dans les 30 jours suivant son retour au travail à un poste où il est tenu de contribuer au compte de pension de retraite selon les articles 5 ou 65 de la Loi et qu’il occupe sans être en congé non payé à l’égard d’un autre poste de la fonction publique;
+	- **b)** soit par des retenues sensiblement égales sur son traitement effectuées dès son retour au travail dans la situation visée à l’alinéa a) pendant une période égale au double de la période du congé à l’égard duquel il est tenu de contribuer aux termes de l’article 7.
+
+- **(1.1)** Dans le cas où le contributeur qui verse un montant par retenues en conformité avec l’alinéa (1)b) à l’égard d’une période d’absence s’absente de nouveau de la fonction publique, en congé non payé, avant d’avoir fini de verser la totalité du montant :
+	- **a)** les retenues sont différées jusqu’à ce qu’il retourne au travail dans la situation visée au paragraphe (1);
+	- **b)** le montant qui représente la somme du montant du reliquat et du montant payable à l’égard de la nouvelle période d’absence en application de l’article 7 est versé en conformité avec le paragraphe (1), sauf que la période visée à l’alinéa (1)b) est égale au total de la période sur laquelle est échelonné le reliquat, plus le double de la nouvelle période d’absence à l’égard de laquelle le contributeur est tenu de contribuer aux termes de l’article 7.
+
+- **(2)** Le contributeur verse au ministre avant le début de chaque année ou de chaque trimestre compris dans sa période d’absence le montant payable en application de l’article 7 pour cette année ou ce trimestre, dans les cas suivants :
+	- **a)** il est détaché par le gouvernement du Canada auprès du gouvernement d’un pays étranger;
+	- **b)** il est un salarié à plein temps d’un agent négociateur de la fonction publique;
+	- **c)** il est un salarié à plein temps d’une caisse de crédit;
+	- **d)** il exerce des fonctions auprès d’une organisation internationale et n’est pas visé à l’article 7.3.
+
+- **(3)** Si, à son retour au travail, le contributeur visé au paragraphe (2) n’a pas versé la totalité du montant payable en application de l’article 7, il en verse le solde au ministre soit pas un paiement forfaitaire fait dans les 30 jours suivant son retour au travail, soit par des retenues égales sur son traitement effectuées dès son retour au travail, pendant une période n’excédant pas celle pour laquelle il aurait dû faire des versements anticipés conformément au paragraphe (2).
+
+- **(4)** Si le contributeur n’a pas versé la totalité du montant payable en application de l’article 7 au moment où il cesse d’être employé dans la fonction publique, le solde est prélevé sur toute prestation qui est ou devient payable à lui ou à son égard aux termes de la Loi, de la façon suivante :
+	- **a)** dans le cas d’une pension, d’une allocation annuelle ou d’une prestation supplémentaire :
+		- **(i)** soit par des retenues effectuées sur les mensualités de la pension, de l’allocation annuelle ou de la prestation supplémentaire, d’un montant égal au moindre du montant des retenues payables aux termes du présent article et de 30 pour cent des mensualités brutes,
+		- **(ii)** soit, si le prestataire en fait le choix, par le prélèvement d’un montant forfaitaire dès que la pension ou l’allocation annuelle devient payable;
+	- **b)** dans le cas d’une prestation non visée à l’alinéa a), par le prélèvement d’un montant forfaitaire dès que la prestation devient payable.
+
+- **(5)** Si le contributeur n’a pas versé la totalité du montant payable en application de l’article 7 au moment de son décès, le solde peut être recouvré, en application du paragraphe 8(8) de la Loi, sur toute allocation payable selon la partie I de la Loi à son conjoint survivant et à ses enfants, au choix du bénéficiaire :
+	- **a)** soit par le prélèvement d’un montant forfaitaire sur l’allocation dès qu’elle devient payable;
+	- **b)** soit par des retenues effectuées sur les mensualités de l’allocation, d’un montant égal au moindre du montant des retenues payables aux termes du présent article par le contributeur avant son décès et de 30 pour cent des mensualités brutes.
+
+- **(6)** Malgré les paragraphes (1) à (5), dans le cas où le versement selon l’un de ces paragraphes mettrait le contributeur ou tout bénéficiaire des prestations payables à son égard dans une situation financière difficile, il peut choisir de payer :
+	- **a)** si le versement est effectué selon les paragraphes (1) ou (3), par des retenues sensiblement égales sur son traitement pendant une période ne dépassant pas la moindre des périodes suivantes : le triple de la durée du congé du contributeur ou quinze ans;
+	- **b)** si le versement est effectué selon le sous-alinéa (4)a)(i), par des retenues effectuées sur les mensualités de la pension, de l’allocation annuelle ou de la prestation supplémentaire, d’un montant représentant au moins 15 pour cent des mensualités brutes;
+	- **c)** si le versement est effectué selon l’alinéa (5)b), par des retenues effectuées sur les mensualités de toute allocation, d’un montant représentant au moins 15 pour cent des mensualités brutes.
+
+- **(7)** Le présent article n’a pas pour effet d’empêcher le remboursement avant terme de tout ou partie du montant payable en application de l’article 7.
+> DORS/91-332, art. 4; DORS/93-450, art. 5.
+
+
+
+
+**7.3** Lorsqu’un contributeur en congé non payé exerce des fonctions auprès d’une organisation internationale et qu’à la fois :
+- **a)** il est tenu de contribuer au régime de pension de cette organisation,
+- **b)** un montant forfaitaire lui est payable dans le cadre de ce régime à la cessation de son emploi auprès de l’organisation internationale,
+- **c)** un montant forfaitaire ne dépassant pas le montant qu’il est tenu de verser en application de l’article 7 doit, conformément à une entente avec le gouvernement du Canada, être payé à celui-ci sur les fonds de ce régime,
+la somme reçue par le gouvernement du Canada aux termes de l’entente mentionnée à l’alinéa c) est déduite du montant payable par le contributeur en application de l’article 7, et tout solde débiteur est versé par le contributeur conformément au paragraphe 7.2(3).
+> DORS/91-332, art. 4.
+
+
+
+
+**8** 
+
+- **(1)** Lorsqu’une personne est censée, en vertu du paragraphe 14(1) de la Loi, être absente de la fonction publique en congé non payé durant une période spécifiée, le montant que pourra fixer le Conseil du Trésor doit être versé par elle ou à son égard au compte de pension de retraite et au Compte de prestations de retraite supplémentaires à l’égard de cette période.
+
+- **(2)** Le montant fixé en vertu du paragraphe (1) à l’égard de la période d’absence spécifiée d’une personne doit s’appliquer durant toute la période et ne doit être ni inférieur au montant que la personne aurait été autrement tenue de verser aux comptes visés au paragraphe (1), conformément aux articles 5 et 65 de la Loi, respectivement, à l’égard de cette période, ni supérieur au double dudit montant.
+
+- **(3)** Une personne visée par le paragraphe (1) est censée, aux fins du présent article, recevoir, durant la période spécifiée dont il est question audit paragraphe, le traitement que fixe le Conseil du Trésor, qui ne doit pas être inférieur à celui qu’elle recevait le dernier jour où elle a été employée comme sous-chef.
+
+- **(4)** Les montants dont le paragraphe (1) prescrit le versement au compte de pension de retraite et au Compte de prestations de retraite supplémentaires doivent être versés au ministre à la date et de la façon que ce dernier prescrit de temps à autre.
+
+- **(5)** Un choix exercé conformément au paragraphe 14(1) de la Loi par une personne qui y est désignée peut
+	- **a)** être révoqué par elle à tout moment, à l’égard des paiements qu’elle doit effectuer pour le reste de la période indiquée dans son choix; ou
+	- **b)** être suspendu par elle à tout moment, à l’égard des paiements qui doivent être effectués pour toute partie du reste de la période indiquée dans son choix.
+
+- **(6)** Le service ouvrant droit à pension aux fins de la Partie I de la Loi ne comprend pas une période spécifiée ou une partie d’une période spécifiée, à l’égard de laquelle une personne visée par le paragraphe (1) ne verse pas de contribution comme l’exige le présent article.
+
+- **(7)** Une personne qui est désignée au paragraphe 14(1) de la Loi et qui s’est rendue coupable d’inconduite ne peut exercer un choix en vertu dudit paragraphe.
+
+- **(8)** Le paragraphe 7.2(4), y compris les modifications qu’exigent les circonstances, s’applique à une personne visée par le paragraphe (1).
+> DORS/93-450, art. 11(F) et 12.
+
+
+
+
+**8.1** Le contributeur peut effectuer le choix prévu au paragraphe 5.3(1) de la Loi :
+- **a)** relativement à une période de congé non payé qui prend fin au plus tôt le 9 septembre 1993, durant la période qui commence à l’expiration d’une période de trois mois suivant la date du début de la période du congé et se termine à l’expiration d’une période de trois mois suivant la date de son retour au travail à un poste où il est tenu de contribuer au compte de pension de retraite selon les articles 5 ou 65 de la Loi et qu’il occupe sans être en congé non payé à l’égard d’un autre poste de la fonction publique;
+- **b)** relativement à une période de congé non payé qui a pris fin avant le 9 septembre 1993 et à l’égard de laquelle le contributeur n’a pas, avant cette date, versé toutes les contributions requises aux termes de l’article 7, à tout moment avant que la totalité des contributions soient versées.
+> DORS/93-450, art. 6.
+
+
+
+
+**8.2** 
+
+- **(1)** Le contributeur peut révoquer un choix effectué en vertu du paragraphe 5.3(1) de la Loi s’il reçoit d’une personne employée dans la fonction publique dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils sur la façon de compter le service selon la Loi des renseignements faux ou trompeurs :
+	- **a)** soit quant au montant qui aurait dû être versé à l’égard de la période visée par le choix s’il n’avait pas fait ce choix;
+	- **b)** soit quant au montant à verser s’il effectue un choix en vertu de la division 6(1)b)(iii)(L) de la Loi ou quant aux conditions applicables à ce choix;
+	- **c)** soit quant aux prestations qu’aurait procurées l’adjonction de la période visée par le choix au service ouvrant droit à pension déjà à son crédit;
+	- **d)** soit quant à la déductibilité des contributions visées aux alinéas a) et b), sous le régime de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
+- **(2)** La révocation prévue au paragraphe (1) vaut à l’égard de toute la période visée par le choix.
+
+- **(3)** La révocation prévue au paragraphe (1) doit être faite au plus tard trois mois suivant la date où le contributeur a reçu un avis écrit selon lequel des renseignements faux ou trompeurs lui ont été donnés.
+> DORS/93-450, art. 6.
+
+
+
+
+**8.3** Pour l’application de l’alinéa 7(1)k) de la Loi, le contributeur qui choisit, aux termes de la division 6(1)b)(iii)(L) de la Loi, de payer pour une période de service à l’égard de laquelle il a effectué le choix visé au paragraphe 5.3(1) de la Loi est tenu de payer le montant qui représente la somme des montants suivants :
+- **a)** le montant qu’il aurait dû verser relativement à ce service, selon l’article 7, s’il avait reçu, durant cette période, un traitement égal à celui dont le versement est autorisé au moment de l’exercice du choix prévu à cette division;
+- **b)** les intérêts au sens du paragraphe 7(2) de la Loi.
+> DORS/93-450, art. 6.
+
+
+
+
+**8.4** Pour l’application du paragraphe 5.3(4) de la Loi, la partie de la période du congé à compter comme service ouvrant droit à pension au titre de la division 6(1)a)(ii)(A) de la Loi est celle qui serait la plus éloignée à l’égard de laquelle les contributions versées avant l’exercice du choix auraient été suffisantes pour l’application de l’article 7 si elles avaient été appliquées à cette partie.
+> DORS/93-450, art. 6.
+
+
+
+
+**8.5** 
+
+- **(1)** Malgré la partie I de la Loi, le contributeur ne peut compter comme service ouvrant droit à pension une période de congé non payé, ou toute partie de celle-ci, qui débute après le 31 décembre 1995, si ce congé ne respecte pas les conditions d’une période admissible établies au paragraphe 8507(2) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992.
+
+- **(2)** Le contributeur qui ne peut, en raison du paragraphe (1), compter comme service ouvrant droit à pension une période de congé non payé ou une partie de celle-ci :
+	- **a)** malgré les parties I et III de la Loi, n’est pas astreint à contribuer au compte de pension de retraite à l’égard de cette période ou partie de période;
+	- **b)** demeure, pour l’application de la partie II de la Loi, un participant au sens du paragraphe 47(1) de la Loi à l’égard de cette période ou partie de celle-ci.
+> DORS/96-18, art. 1.
+
+
+
+
+
+### Par les corporations
+
+
+**9** Le président du Conseil du Trésor détermine le montant que doit verser, conformément à l’article 37 de la Loi, un organisme de la fonction publique ou tout autre organisme mentionnés à l’annexe I, selon les dispositions suivantes :
+- **a)** dans le cas de contributions d’un employé à l’égard d’une période de service courant antérieure au 1<sup>er</sup> avril 2000, un montant égal au montant des contributions que l’employé est tenu de verser, à moins que l’employé ne verse, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser en vertu de l’article 5 de la Loi et, le cas échéant, en vertu de l’article 65 de la Loi dans sa version au 31 décembre 1999;
+- **b)** dans le cas de contributions d’un employé à l’égard de toute période de service accompagné d’option qui est visée à l’alinéa 6(1)b) de la Loi et pour laquelle l’option est exercée avant le 1<sup>er</sup> avril 2000, un montant égal au montant des contributions et intérêts que l’employé est tenu de verser, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
+- **c)** dans le cas de contributions d’un employé à l’égard d’une période de service courant postérieure au 31 mars 2000, un montant égal à 2,14 fois le montant des contributions que l’employé est tenu de verser, à moins que l’employé ne verse, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser en vertu de l’article 5 de la Loi;
+- **d)** dans le cas de contributions d’un employé à l’égard de toute période de service accompagné d’option qui est visée à l’alinéa 6(1)b) de la Loi et pour laquelle l’option est exercée après le 31 mars 2000, un montant égal à 2,14 fois le montant des contributions et intérêts que l’employé est tenu de verser, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
+- **e)** dans les cas visés aux alinéas c) ou d) où l’employé est tenu de verser une contribution double, un montant égal à 0,56 fois le montant des contributions et intérêts que l’employé est tenu de verser à l’égard de la période de service visée à l’alinéa pertinent.
+> DORS/93-450, art. 11(F) et 12; DORS/2000-137, art. 1.
+
+
+
+
+
+### Service ouvrant droit à pension
+
+
+**10** 
+
+- **(1)** Aux fins de la disposition 5(1)a)(ii)(B) de la Loi, lorsqu’un contributeur a contribué au Fonds de retraite avant de devenir contributeur en vertu de la Loi, la partie de la période (déterminée par le ministre) durant laquelle il a ainsi contribué compte pour autant de service non accompagné d’option que peut acheter le montant transféré du Fonds de retraite au compte de pension de retraite, appliqué à la plus récente période de service ouvrant droit à pension, le calcul s’en faisant aux taux établis au paragraphe 4(1) de la Loi à l’égard d’un traitement égal à celui qu’on était autorisé à lui verser pendant ladite période de service ouvrant droit à pension, avec les intérêts.
+
+- **(2)** La fraction de la période de service qui reste après que les calculs prévus au présent article ont été faits, peut, suivant la disposition 5(1)b)(iii)(F) de la Loi, être comptée par le contributeur comme service ouvrant droit à pension s’il décide, en conformité de la Loi, de compter ledit service, et les contributions payables par lui à cet égard seront le montant qui résulte du calcul effectué en conformité de l’alinéa 6(1)e) de la Loi, avec les intérêts.
+
+- **(3)** Aux fins des calculs prévus au présent article, le mot ***intérêts*** a le même sens qu’il a dans le paragraphe 6(2) de la Loi.
+
+- **(4)** Pour l’application du présent article, lorsqu’un contributeur a commencé de contribuer au compte de pension de retraite avant l’époque à laquelle il est devenu astreint à contribuer en conformité du paragraphe 4(1) de la Loi, l’établissement de la partie du service achetée par le transfert du montant figurant à son crédit au Fonds de retraite, et l’établissement du coût de la partie restante en conformité des paragraphes (1) et (2) du présent article, se font comme si le contributeur avait été tenu de contribuer au compte de pension de retraite à l’époque où il a ainsi commencé de contribuer.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**11** Un contributeur peut choisir d’inclure
+- **a)** aux fins de la disposition 5(1)b)(iii)(D) de la Loi, son service auprès de l’Organisation du Traité de l’Atlantique Nord; et
+- **b)** aux fins de la disposition 5(1)b)(iii)(E) de la Loi, les catégories de service de guerre accompli par des civils, au cours de la Seconde Guerre mondiale, qui sont mentionnées à l’annexe II.
+
+
+
+**12** Le service ouvrant droit à pension d’un contributeur n’inclut pas une période de service spécifiée à la disposition 5(1)a)(iii)(C) de la Loi, à moins qu’il ne s’agisse d’une période durant laquelle le contributeur, étant devenu contributeur sous le régime de la Loi sur la pension de retraite avant le 11 août 1939 et ayant, depuis cette date, continué d’être contributeur et se trouvant, alors qu’il était fonctionnaire, commis ou employé titularisé de la fonction publique au sens de la Loi sur la pension de retraite, en congé non payé avant le 14 avril 1927.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**12.1** 
+
+- **(1)** Malgré l’article 5 de la Loi, ne sont pas astreintes à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui est âgée de 71 ans ou plus le 31 décembre 2002, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge, et la personne qui est âgée de 71 ans ou plus le 31 décembre 1995, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 mars 1996.
+
+- **(2)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui atteint l’âge de 69 ans le 1<sup>er</sup> janvier 2003 ou après cette date, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge.
+
+- **(3)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui atteint l’âge de 70 ou 71 ans pendant l’année 2003, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre 2003.
+
+- **(4)** La personne qui, n’eût été les paragraphes (1), (2) ou (3), serait astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique est à la fois :
+	- **a)** un contributeur pour l’application de l’alinéa 29a) de la Loi;
+	- **b)** un participant au sens du paragraphe 47(1) de la Loi.
+
+- **(5)** Malgré le paragraphe 69(3) de la Loi et sous réserve du paragraphe 69(6) de la Loi, l’année ou le mois de la retraite de la personne visée aux paragraphes (1), (2) ou (3) à ou pour laquelle, ou relativement au service de laquelle, une pension est payable est, pour l’application de l’article 69 de la Loi, l’année ou le mois, selon le cas, au cours desquels cette personne cesse, en application des paragraphes (1), (2) ou (3), d’être astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique.
+> DORS/96-18, art. 2; DORS/2002-365, art. 2.
+
+
+
+
+**13** 
+
+- **(1)** Lorsqu’un contributeur est devenu employé dans la fonction publique avant l’expiration de six mois à compter de l’époque où il a cessé d’être employé dans un emploi ouvrant droit à pension, la période de service dans cet emploi ouvrant droit à pension sera, aux fins de la disposition 5(1)b)(iii)(F) de la Loi, considérée comme étant immédiatement antérieure à son début d’emploi dans la fonction publique.
+
+- **(2)** Lorsqu’un contributeur est devenu employé dans la fonction publique plus de six mois mais moins de deux ans après l’époque où il a cessé d’être employé dans un emploi ouvrant droit à pension, la période de service dans cet emploi ouvrant droit à pension sera, aux fins de la disposition 5(1)b)(iii)(F) de la Loi, considérée comme étant immédiatement antérieure à son début d’emploi dans la fonction publique seulement si, en conformité des principes qui étaient applicables le 12 septembre 1956, cette période de service aurait été considérée comme étant immédiatement antérieure au début de son emploi dans la fonction publique.
+
+- **(3)** Lorsqu’un contributeur est devenu employé dans la fonction publique après l’expiration de deux ans à compter de l’époque où il a cessé d’être employé dans un emploi ouvrant droit à pension, la période de service dans cet emploi ouvrant droit à pension ne sera, en aucun cas, considérée comme étant immédiatement antérieure au début de son emploi dans la fonction publique, pour l’application de la disposition 5(1)b)(iii)(F) de la Loi.
+
+- **(4)** Pour les fins de la disposition 5(1)b)(iii)(E) de la Loi, le genre de service décrit dans la Partie I de la Loi sur les pensions et allocations de guerre pour les civils sera censé continu lorsque les périodes de ce service ne sont pas séparées par plus de 30 jours.
+
+- **(5)** Quiconque s’est enrôlé dans les forces avant l’expiration de six mois à compter de l’époque où il a cessé d’être employé dans le service sera, aux fins de l’alinéa 6(1)d) de la Loi, considéré comme ayant été employé dans la fonction publique immédiatement avant son enrôlement dans les forces.
+
+- **(6)** Quiconque s’est enrôlé dans les forces plus de six mois mais moins de deux ans après qu’il a cessé d’être employé dans la fonction publique sera, aux fins de l’alinéa 6(1)d) de la Loi, considéré comme ayant été employé dans la fonction publique immédiatement avant son enrôlement dans les forces seulement si, en conformité des principes qui étaient applicables le 12 septembre 1956, il aurait été considéré comme étant employé dans la fonction publique immédiatement avant son enrôlement dans les forces.
+
+- **(7)** Quiconque s’est enrôlé dans les forces après l’expiration de deux ans à compter de l’époque où il a cessé d’être employé dans la fonction publique ne sera, en aucun cas, considéré comme ayant été employé dans la fonction publique immédiatement avant son enrôlement dans les forces, pour l’application de l’alinéa 6(1)d) de la Loi.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**13.1** 
+
+- **(1)** La personne visée au paragraphe 5.1(2) de la Loi et celle visée au paragraphe 5.5(1) de la Loi peuvent effectuer un choix, respectivement, en vertu des paragraphes 5.4(1) et 5.5(1) de la Loi avant celle des deux dates suivantes qui sera postérieure à l’autre :
+	- **a)** le 9 septembre 1994;
+	- **b)** la date qui suit de six mois la date d’envoi de l’avis écrit les avisant qu’elles peuvent choisir de compter la période de service visée aux paragraphes 5.4(1) et 5.5(1) de la Loi comme service ouvrant droit à pension.
+
+- **(2)** Le choix visé au paragraphe 5.5(1) de la Loi :
+	- **a)** se fait par écrit;
+	- **b)** comporte une mention indiquant si le montant payable aux termes de l’article 13.2 sera acquitté en une somme forfaitaire ou par versements;
+	- **c)** est daté, signé par son auteur et attesté par un témoin;
+	- **d)** est remis ou expédié par la poste au ministre ou à une personne désignée par lui avant la date fixée au paragraphe (1).
+> DORS/93-450, art. 7.
+
+
+
+
+**13.2** 
+
+- **(1)** Sous réserve du paragraphe (3), la personne qui effectue le choix visé aux paragraphes 5.4(1) ou 5.5(1) de la Loi doit verser au compte de pension de retraite le montant qui représente la somme des montants suivants :
+	- **a)** les contributions qu’elle aurait été tenue de payer aux termes des articles 5 et 65 de la Loi à l’égard de la période visée par le choix, si elle n’avait pas été dispensée de contribuer durant cette période pour le motif mentionné aux paragraphes 5.4(1) et 5.5(1) de la Loi;
+	- **b)** les intérêts au sens du paragraphe 7(2) de la Loi.
+
+- **(2)** La personne visée au paragraphe (1) peut acquitter le montant déterminé selon ce paragraphe :
+	- **a)** soit en une somme forfaitaire dans les 30 jours suivant l’exercice de son choix;
+	- **b)** soit par versements.
+
+- **(3)** Nul paiement n’est requis aux termes du paragraphe (1) à l’égard d’une période de service pour laquelle la personne visée à ce paragraphe a déjà contribué au compte de pension de retraite ou au compte de prestations de retraite supplémentaires selon la manière et aux taux prévus par les articles 5 et 65 de la Loi si les contributions versées sont toujours dans le compte de pension de retraite.
+> DORS/93-450, art. 7.
+
+
+
+
+**13.3** 
+
+- **(1)** Une personne peut révoquer un choix effectué en vertu des paragraphes 5.4(1) ou 5.5(1) de la Loi au plus tard deux ans suivant la date où il a été effectué dans l’un ou l’autre des cas suivants :
+	- **a)** elle a reçu des renseignements faux ou trompeurs d’une personne employée dans la fonction publique dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils sur la façon de compter le service selon la Loi :
+		- **(i)** soit quant au montant à verser au compte de pension de retraite à l’égard du service visé par le choix,
+		- **(ii)** soit quant aux prestations qui seraient payables aux termes de la Loi par suite de l’exercice du choix;
+	- **b)** en raison de circonstances qu’elle n’avait pas prévues au moment de l’exercice du choix, le paiement exigé aux termes de l’article 13.2 la mettrait dans une situation financière difficile.
+
+- **(2)** La révocation prévue au paragraphe (1) vaut à l’égard de tout le service visé par le choix.
+
+- **(3)** Toute personne qui révoque un choix conformément au paragraphe (1) doit rembourser les sommes reçues au titre d’une pension, allocation annuelle ou prestation supplémentaire à l’égard du service visé par le choix :
+	- **a)** soit en une somme forfaitaire dans les 30 jours suivant sa révocation;
+	- **b)** soit par des versements à déduire des mensualités de toute pension, allocation annuelle ou prestation supplémentaire qui lui sont payables aux termes de la Loi à l’égard de tout autre service.
+> DORS/93-450, art. 7.
+
+
+
+
+
+### Exercice du choix
+
+
+**13.4** 
+
+- **(1)** Malgré la partie I de la Loi, le choix fait après le 31 mars 1996 de compter comme service ouvrant droit à pension la période de service ou d’emploi postérieure au 31 décembre 1989, ou toute partie de celle-ci, est nul en ce qui concerne cette période ou partie de période, si le ministre du Revenu national refuse d’attester, conformément à l’alinéa 147.1(10)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), dans sa version du 15 janvier 1992, que les conditions réglementaires sont remplies en ce qui concerne le service ou l’emploi pendant cette période ou partie de période.
+
+- **(2)** Malgré l’alinéa 8(2)a) de la Loi, le choix fait après le 31 mars 1996 pour la période de service ou d’emploi postérieure au 31 décembre 1989, ou toute partie de celle-ci, qui serait nul en vertu de cet alinéa est nul seulement si l’auteur du choix a droit, le 60<sup>e</sup> jour après avoir été avisé par le ministre que le ministre du Revenu national a délivré l’attestation mentionnée au paragraphe (1), de compter la période de service ou d’emploi visée par l’attestation aux fins de toute prestation de pension de retraite ou de pension d’un genre spécifié au paragraphe 4(2), sauf celle payable en vertu de la partie I de la Loi.
+
+- **(3)** Le paragraphe 39(4) de la Loi ne s’applique pas à la personne qui effectue, après le 31 mars 1996, le choix visé au paragraphe 39(1) de la Loi à l’égard de la période de service ou d’emploi postérieure au 31 décembre 1989, ou toute partie de celle-ci, si le ministre du Revenu national refuse de délivrer l’attestation visée au paragraphe (1).
+
+- **(4)** Malgré le paragraphe 40(11) de la Loi, la personne qui devient un contributeur après le 31 mars 1996 ne peut compter comme service ouvrant droit à pension, dans le cadre d’un accord conclu par le ministre en vertu du paragraphe 40(2) de la Loi, la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, que si l’attestation visée au paragraphe (1) a été délivrée.
+> DORS/96-18, art. 3; DORS/97-490, art. 1(A).
+
+
+
+
+**13.5** Malgré l’article 6 de la Loi, le choix fait après le 31 décembre 1995 dans le but de compter comme service ouvrant droit à pension la période de service dans un emploi ouvrant droit à pension, ou toute partie de celle-ci, est nul s’il s’agit d’une période de service à l’égard de laquelle, selon le cas :
+- **a)** des prestations de pension n’ont pas été acquises selon la disposition à prestations déterminées d’un régime de pension agréé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+- **b)** des contributions n’ont pas été versées par l’employé ou pour son compte selon la disposition à cotisations déterminées d’un régime de pension agréé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+> DORS/96-18, art. 3.
+
+
+
+
+**14** 
+
+- **(1)** Tout choix exercé en vertu des paragraphes 8(1) ou 14(1) de la Loi doit être
+	- **a)** remis ou expédié par la poste au ministre; ou
+	- **b)** remis ou expédié par le contributeur à la personne désignée par le ministre.
+
+- **(2)** Lorsqu’un choix est remis ou expédié à une personne désignée par le ministre, en conformité de l’alinéa (1)b), cette personne doit transmettre le choix au ministre dans les 60 jours qui en suivent la réception.
+> DORS/93-450, art. 12.
+
+
+
+
+**15** Pour l’application de l’alinéa 7(2)d) de la Loi, une période de service inférieure à 90 jours signifie une période de service dans une année financière dans laquelle le nombre total de jours pendant lesquels une personne a été employée est inférieure à 90, exception faite de toute période de service pouvant être comptée en conformité
+- **a)** du sous-alinéa 5(1)b)(ii) de la Loi;
+- **b)** de la disposition 5(1)b)(iii)(B) de la Loi, lorsque ce service
+	- **(i)** précède immédiatement le jour auquel l’employé devient un contributeur, ou
+	- **(ii)** fait partie d’une période continue de service d’au moins 90 jours commençant dans une année financière suivante; ou
+- **c)** de la disposition 5(1)b)(iii)(K) de la Loi, lorsque ce service est d’un genre qui autrement aurait pu être compté conformément aux alinéas a) ou b).
+
+
+
+**16** Lorsqu’un contributeur, ayant décidé de payer pour une fraction de durée de service spécifiée à la disposition 5(1)b)(i)(A) ou (B) de la Loi, décide, à une époque ultérieure quelconque, de payer pour une nouvelle fraction de cette durée de service, la fraction de la période pour laquelle il a décidé de payer en premier lieu est censée être la plus éloignée sous le rapport du temps.
+
+
+
+**17** 
+
+- **(1)** Les dispositions du présent article ne s’appliquent qu’à un contributeur qui, de l’avis du ministre, relevait d’une catégorie de personnes qui, à la suite d’avis erronés reçus par une ou plusieurs personnes de cette catégorie d’une personne dont les fonctions ordinaires dans la fonction publique consistaient, entre autres choses, à donner des avis sur l’admissibilité du service en vertu de la Loi ou de la Loi sur la pension de retraite, suivant lesquels une telle personne ne pouvait, en vertu de ladite Loi, faire compter une durée de service accomplie par une telle personne avant l’époque où elle est devenue contributeur en vertu de la Loi, a omis d’exercer une option prévue par ladite Loi dans le délai y prescrit pour l’acquittement dudit service.
+
+- **(2)** Une personne prévue au paragraphe (1) qui, à toute époque, était un contributeur en vertu de la Loi, peut, à l’égard du service mentionné au paragraphe (1), opter pour que le service compte aux fins de la Loi, qu’elle soit ou non employée à la fonction publique au moment où elle exerce l’option si
+	- **a)** avant le 6 juillet 1961, avis lui a été donné par le ministre que le service mentionné au paragraphe (1) peut être compté et si elle exerce une telle option le ou avant le 1<sup>er</sup> avril 1962, ou
+	- **b)** après le 5 juillet 1961, avis lui est donné par le ministre que le service mentionné au paragraphe (1) peut être compté et si elle exerce une telle option dans l’année qui suit le jour où l’avis lui est ainsi donné,
+et elle sera censée avoir exercé ladite option en vertu de la Loi dans le délai pertinent prescrit dans la Loi.
+
+- **(3)** Toute option exercée en conformité du paragraphe (2) doit être dans la forme que prescrit le ministre, et les dispositions de la Loi concernant l’exercice d’options, sauf l’article 19 de ladite Loi, s’appliquent *mutatis mutandis* à l’exercice d’une telle option.
+
+- **(4)** Lorsqu’une personne exerce une option conformément au paragraphe (2), elle doit verser la contribution qu’elle aurait autrement été tenue de verser en vertu de l’article 6 de la Loi, suivant la teneur de cet article à l’époque où elle aurait pu opter en vertu de cette Loi, comme si elle avait exercé ladite option dans le délai pertinent prescrit à l’alinéa 5(1)b) de la Loi.
+
+- **(5)** Lorsqu’une personne prévue au paragraphe (1) a exercé une option conformément à la disposition 5(1)b)(iii)(K) de la Loi pour une durée de service mentionnée au paragraphe (1) à l’égard de laquelle elle aurait pu opter en vertu de la Loi ou de la Loi sur la pension de retraite, elle est censée avoir exercé une telle option en vertu de la Loi ou de la Loi sur la pension de retraite suivant le cas, dans le délai pertinent prescrit dans ladite Loi pour l’exercice d’une telle option, et un redressement approprié, sous forme de remboursement ou de réduction du nombre des versements, doit être apporté à l’égard des contributions requises du fait d’option en vertu de la Loi, aux fins de calculer un tel remboursement ou une telle réduction, l’option est censée avoir été exercée conformément au paragraphe (2).
+
+- **(6)** Une personne prévue au paragraphe (1), à laquelle le paragraphe (5) ne s’applique pas, qui aurait une durée globale de service en excédent de 35 ans, si la période de service mentionnée au paragraphe (1) était ajoutée au service ouvrant droit à pension qu’elle a à son crédit, peut opter de la manière prescrite au paragraphe (3) à l’égard du service mentionné au paragraphe (1).
+
+- **(7)** Le Conseil du Trésor doit déterminer le redressement à apporter, sous forme de remboursement ou autrement, à l’égard de la contribution faite par toute personne à laquelle le paragraphe (6) s’applique, mais en aucun cas ne doit-il être fait de contribution à l’égard d’une période en excédent de celle qui est prescrite à l’alinéa 4(2)a) ou b) de la Loi.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**18** 
+
+- **(1)** Un choix exercé par un contributeur en vertu de la Loi de payer pour une période de service peut, du consentement du ministre, être révoqué par le contributeur en totalité ou en partie
+	- **a)** pour ce qui est de paiements faits et à faire pour la période de service mentionnée dans le choix, si le contributeur a reçu des renseignements erronés ou trompeurs donnés par écrit et provenant d’une personne employée dans la fonction publique qui normalement fournit des renseignements quant au montant à payer en vertu de la Loi au titre de service et que le contributeur a, en exerçant son choix, agi de bonne foi d’après ces renseignements erronés ou trompeurs;
+	- **b)** pour ce qui est des paiements à faire pour la période de service mentionnée dans le choix, si chacun desdits paiements n’est pas inférieur à deux pour cent de son traitement mensuel brut et si, à cause de circonstances sur lesquelles le contributeur ne pouvait rien et qu’il ne pouvait prévoir à l’époque de l’exercice de son choix, une charge financière trop onéreuse peut lui être imposée s’il est tenu de continuer à acquitter ledit service;
+	- **c)** pour ce qui est des paiements à faire pour la période de service mentionnée dans le choix si, après le commencement de sa pension, le versement mensuel exigé pour défrayer le choix est supérieur à la prestation qui résulte de l’addition dudit service à sa pension, calculée ainsi qu’il est prévu à l’article 10 de la Loi;
+	- **d)** à toute époque après qu’il atteint l’âge de 60 ans, pour ce qui est des paiements à faire pour la période de service mentionnée dans le choix, si le versement mensuel exigé pour défrayer le choix est supérieur à la prestation qui résulte de l’addition dudit service à la pension qui serait payable s’il prenait sa retraite à ce moment-là, calculée ainsi qu’il est prévu à l’article 10 de la Loi;
+	- **e)** pour ce qui est des paiements à faire pour toute partie d’un choix si l’un quelconque des alinéas précédents s’applique à ladite partie du choix;
+	- **f)** pour ce qui est des paiements faits et à faire pour la période de service mentionnée dans le choix à l’égard de laquelle le contributeur a demandé qu’un paiement soit versé pour son compte au compte de pension de retraite conformément à un accord passé en vertu du paragraphe 30(2) de la Loi;
+	- **g)** pour ce qui est des paiements faits ou à faire pour la période de service mentionnée dans le choix, si, de l’avis du ministre, le contributeur a mentionné cette période de service par inadvertance;
+	- **h)** pour ce qui est des paiements faits et à faire pour la période de service mentionnée dans le choix, si le contributeur, après l’exercice du choix, a acquis le droit de compter cette période de service aux fins de la détermination des prestations de pension de retraite ou de pension autres que celles prévues par la Loi.
+
+- **(2)** Un contributeur qui révoque un choix exercé en vertu des alinéas (1)b), c), d) ou e) doit payer à Sa Majesté, à l’égard de toute prestation lui revenant pendant l’époque où le choix qu’il a exercé reste en vigueur, du fait qu’il l’a exercé, le montant déterminé par le ministre suivant la Table canadienne de mortalité n<sup>o</sup> 2 (1941), Hommes ou Femmes, selon le cas, avec intérêt de quatre pour cent l’an.
+
+- **(3)** Tout paiement effectué par un contributeur en vertu du paragraphe (2), tel qu’il se lisait avant le 12 juin 1968 à l’égard de toute prestation lui revenant pendant la durée d’un choix, exercé en vertu de la Loi, qu’il a révoqué en vertu de l’alinéa (1)a), avant le 31 mars 1969, doit être remboursé à ce contributeur.
+
+- **(4)** Le montant à payer par un contributeur en application du paragraphe (2) peut être recouvré pour le compte de Sa Majesté, à titre de dette due à la Couronne, sur toute prestation payable en vertu de la Loi au contributeur ou à son égard, sans préjudice de tout autre recours que possède Sa Majesté à l’égard du recouvrement.
+
+- **(5)** Lorsqu’un contributeur qui révoque un choix exercé en vertu du paragraphe (1) a payé un montant quelconque à la suite de l’exercice d’un choix, le montant ainsi payé est affecté d’abord au paiement du montant que le contributeur est tenu de payer en vertu du paragraphe (2), le restant du montant, s’il en est, devant être affecté ainsi qu’il suit :
+	- **a)** si le contributeur a révoqué le choix en totalité en vertu des alinéas (1)a), f) ou h), le reste du montant lui est remboursé;
+	- **b)** si le contributeur a annulé le choix en totalité ou en partie, en vertu de l’alinéa (1)g), le montant versé à l’égard de la partie visée par l’annulation, doit, si le contributeur le désire, lui être remboursé; et
+	- **c)** dans tout autre cas, le restant du montant sera affecté à l’achat de la partie de la période de service mentionnée dans le choix qui n’a pas été révoqué, le calcul s’en faisant d’après les dispositions de la Loi en vertu desquelles le choix a été exercé, et toute partie dudit montant qui pourrait rester sera remboursée au contributeur.
+
+- **(6)** Lorsqu’un contributeur révoque un choix exercé en vertu du paragraphe (1) et qu’il lui reste d’autres paiements à effectuer, il les effectuera en telle somme et de telle façon que le ministre déterminera, et ils seront affectés d’abord au paiement du montant que le contributeur est tenu de payer d’après le paragraphe (2), si ce montant n’a pas déjà été payé, et le restant de ces paiements, s’il en est, sera affecté à l’achat de la partie de la durée de service (déterminée par le ministre) mentionnée dans le choix qui n’a pas été révoqué, le calcul s’en faisant d’après les dispositions de la Loi en vertu desquelles le choix a été exercé.
+
+- **(7)** Lorsque le contributeur révoque le choix de payer pour compter une période de service en vertu des alinéas (1)a), b), c), d), e) ou h), il est réputé, comme condition de la révocation, pour l’application de la division 6(1)b)(iii)(K) de la Loi, avoir omis d’exercer un choix pour cette période de service dans le délai prescrit.
+
+- **(8)** Lorsqu’un choix de payer pour une période de service est annulé par un contributeur en vertu de l’alinéa (1)g), le contributeur peut choisir de payer pour une nouvelle période de service si,
+	- **a)** de l’avis du ministre, cette nouvelle période de service est la période pour laquelle le contributeur avait l’intention de choisir de payer dans le choix qui a été annulé par lui; et si
+	- **b)** le choix d’une nouvelle période de service est exercé dans les six mois à compter du jour où le ministre informe le contributeur qu’il peut choisir de payer pour une nouvelle période de service.
+
+- **(9)** Lorsqu’un contributeur exerce un choix en vertu du paragraphe (8), le montant de la contribution qu’il est tenu de verser est le montant qu’il aurait eu par ailleurs à verser pour cette période de service en vertu de l’article 6 de la Loi tel qu’il se lisait le jour où il a fait son choix antérieur.
+> DORS/93-450, art. 11(F); DORS/97-490, art. 2; DORS/98-286, art. 3(F).
+
+
+
+
+
+### Annulation d’option — renseignements erronés ou trompeurs
+
+
+**19** Sous réserve de l’article 19.1, le contributeur qui a reçu des renseignements erronés ou trompeurs peut, avec le consentement du ministre, annuler l’option qu’il a exercée aux termes des articles 12, 13 ou 13.01 de la Loi ou qu’il est réputé, selon les alinéas 10(5)a) ou b) de la Loi, avoir exercée, et exercer une autre option aux termes de ces articles, dans le cas où :
+- **a)** d’une part, il a reçu ces renseignements d’une personne qui soit est employée dans la fonction publique, soit est engagée par un organisme dont les employés sont réputés, pour l’application de la Loi, être employés dans la fonction publique et qui donne habituellement des renseignements sur les prestations à l’égard desquelles un contributeur peut exercer une option lorsqu’il cesse d’être employé dans la fonction publique;
+- **b)** d’autre part, ces renseignements portaient soit sur le montant, la nature ou le genre de prestations visées aux articles 12, 13 ou 13.01 de la Loi, soit sur la marche à suivre pour exercer validement une option, soit encore sur un accord visé aux paragraphes 40(2) ou 40.2(2) de la Loi.
+> DORS/93-450, art. 11(F); DORS/2003-13, art. 1.
+
+
+
+
+**19.1** L’annulation de l’option aux termes de l’article 19 et l’exercice d’une autre option aux termes des articles 12, 13 ou 13.01 de la Loi sont subordonnés aux conditions suivantes :
+- **a)** la personne qui a reçu les renseignements erronés ou trompeurs demande au ministre l’annulation de son option et la possibilité d’en exercer une nouvelle dans le délai suivant :
+	- **(i)** trois mois suivant le jour où elle s’est rendu compte qu’elle avait reçu ces renseignements, si l’option avait été exercée aux termes des articles 12 ou 13 de la Loi,
+	- **(ii)** trois mois suivant ce jour ou six mois suivant l’entrée en vigueur du présent article et de l’article 19, selon la dernière de ces périodes à expirer, si l’option avait été exercée aux termes de l’article 13.01 de la Loi;
+- **b)** le contributeur, ayant exercé son option aux termes des articles 12, 13 ou 13.01 de la Loi ou ayant été réputé selon les alinéas 10(5)a) ou b) de la Loi, l’avoir exercée, a agi sur la foi de renseignements erronés ou trompeurs visés à l’article 19 sans lesquels il aurait choisi une autre prestation ou aurait exercé son option plus tôt;
+- **c)** le contributeur qui a exercé une option aux termes des articles 12 ou 13 de la Loi rembourse les paiements qui lui ont été versés au titre des prestations pendant la durée de cette option dans les trente jours suivant l’avis du ministre lui indiquant la somme à rembourser, sous réserve de l’article 20; la personne qui a exercé une option aux termes de l’article 13.01 de la Loi les rembourse dans les trois mois suivant cet avis;
+- **d)** la personne rembourse au compte des régimes compensatoires établi en vertu de la [Loi sur les régimes de retraite particuliers](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20I.md), dans le délai applicable prévu à l’alinéa c), les paiements qui lui ont été versés aux termes du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) et qui découlent d’un choix de prestations effectué aux termes des articles 12, 13 ou 13.01 de la Loi;
+- **e)** s’agissant d’une option exercée aux termes de l’article 13.01 de la Loi, dont la personne demande l’annulation au motif qu’elle a reçu des renseignements erronés ou trompeurs portant sur le montant d’une prestation visée aux articles 12, 13 ou 13.01 de la Loi, il existe un écart d’au moins 5 % entre le montant véritable de la prestation et le montant auquel elle avait droit.
+> DORS/2003-13, art. 1.
+
+
+
+
+**20** Le contributeur qui a exercé une option aux termes des articles 12 ou 13 de la Loi et qui exerce une nouvelle option comportant le paiement d’une pension rembourse les paiements visés à l’alinéa 19.1c) par retenues mensuelles, sur cette pension, de montants déterminés par le ministre dans le cas où celui-ci a des motifs raisonnables de croire que le remboursement dans le délai fixé à cet alinéa exposerait le contributeur à des embarras financiers; ces retenues ne sont en aucun cas inférieures à 10 % du montant mensuel brut de la pension.
+> DORS/85-628, art. 1; DORS/93-450, art. 11(F); DORS/2003-13, art. 1.
+
+
+
+
+
+### Annulation d’option — accords de transfert
+
+
+**21** 
+
+- **(1)** La personne qui a cessé d’être employée dans la fonction publique et a été embauchée par un employeur admissible peut, avec le consentement du ministre, annuler l’option qu’elle a exercée aux termes des articles 12, 13 ou 13.01 de la Loi ou qu’elle est réputée, selon les alinéas 10(5)a) ou b) de la Loi, avoir exercée, et exercer une autre option aux termes de ces articles, si elle n’a encore touché aucune prestation aux termes de la Loi et que :
+	- **a)** soit elle pouvait raisonnablement s’attendre, au moment où elle a cessé d’être employée dans la fonction publique, à ce qu’un accord visé au paragraphe 40.2(2) de la Loi soit conclu et, selon le cas :
+		- **(i)** un tel accord n’a pas encore été conclu au moment où elle demande l’annulation de l’option,
+		- **(ii)** un tel accord a été conclu après qu’elle a cessé d’être employée dans la fonction publique, mais son service ouvrant droit à pension n’a pu être transféré en vertu de l’accord;
+	- **b)** soit elle a pris, lorsqu’elle a cessé d’être employée dans la fonction publique, les dispositions nécessaires pour transférer son service ouvrant droit à pension à l’employeur admissible, mais le transfert n’a pu être effectué valablement pour des raisons indépendantes de sa volonté.
+
+- **(2)** La personne qui a cessé d’être employée dans la fonction publique avant le 15 octobre 2000 et qui a essayé de transférer son service ouvrant droit à pension au titre d’un accord du type visé au paragraphe 40(2) de la Loi peut, avec le consentement du ministre, annuler l’option qu’elle a exercée aux termes des articles 12, 13 ou 13.01 de la Loi ou qu’elle est réputée, selon les alinéas 10(5)a) ou b) de la Loi, avoir exercée, et exercer une autre option aux termes de ces articles, si elle n’a encore touché aucune prestation aux termes de la Loi et que le transfert n’a pu être effectué valablement.
+
+- **(3)** La personne qui a cessé d’être employée dans la fonction publique le 1<sup>er</sup> septembre 2000 ou après cette date mais avant le 15 octobre 2000 et qui a essayé de transférer son service ouvrant droit à pension au titre d’un accord du type visé au paragraphe 40(2) de la Loi peut, avec le consentement du ministre, annuler l’option qu’elle a exercée aux termes des articles 12, 13 ou 13.01 de la Loi ou qu’elle est réputée, selon les alinéas 10(5)a) ou b) de la Loi, avoir exercée, et exercer une autre option aux termes de ces articles si, à la fois :
+	- **a)** l’option antérieure a été exercée ou est réputée avoir été exercée avant la date d’entrée en vigueur du présent paragraphe;
+	- **b)** elle a été exercée ou est réputée avoir été exercée du fait que le transfert n’a pu être effectué valablement;
+	- **c)** la personne rembourse toute somme reçue en conséquence de l’exercice de l’option antérieure.
+> DORS/85-628, art. 2; DORS/93-450, art. 11(F); DORS/2003-13, art. 1; DORS/2004-311, art. 1.
+
+
+
+
+**21.1** Le consentement du ministre, visé aux articles 19 et 21, est accordé au contributeur qui remplit les conditions d’annulation d’une option et d’exercice d’une autre option.
+> DORS/2003-13, art. 1.
+
+
+
+
+**22** Lorsque le ministre consent à l’annulation d’une option et à l’exercice d’une nouvelle option selon l’article 19 ou 21, la nouvelle option prend effet à la date où l’option précédente a été ou est réputée avoir été exercée en vertu de la Loi, sauf indication contraire du ministre.
+
+
+
+**23** [Abrogé, DORS/2003-13, art. 2]
+
+
+
+
+## Cas spéciaux
+
+
+
+### Personnes ne touchant pas un traitement annuel défini
+
+
+**24** 
+
+- **(1)** Pour l’application de l’article 6 de la Loi, un traitement dont le paiement est ou était autorisé à une personne, à un taux autre qu’un taux annuel, doit être calculé en fonction d’un taux annuel en multipliant le taux de rémunération suivant lequel elle est ou était effectivement rémunérée,
+	- **a)** dans le cas d’un taux horaire, par l’ensemble
+		- **(i)** du nombre d’heures dans une semaine normale de travail pertinente multiplié par 52, et
+		- **(ii)** du nombre d’heures dans une semaine normale de travail pertinente divisé par le nombre de jours dans une semaine normale de travail pertinente;
+	- **b)** dans le cas d’un taux quotidien, par l’ensemble
+		- **(i)** du nombre de jours dans une semaine normale de travail pertinente multiplié par 52, et
+		- **(ii)** de une journée;
+	- **c)** dans le cas d’un taux hebdomadaire, par 52; ou
+	- **d)** dans le cas d’un taux mensuel, par 12.
+
+- **(2)** Toute période de service non accompagné d’option prévue dans la disposition 5(1)a)(ii)(B) ou toute période de service accompagné d’option prévue dans l’alinéa 5(1)b) de la Loi, pour laquelle un contributeur a choisi de payer, doit être calculée :
+	- **a)** dans le cas d’un employé qui, durant toute période pertinente, est ou était rémunéré suivant un taux horaire, en divisant le nombre total d’heures à l’égard desquelles des contributions sont ou ont été faites au compte de pension de retraite par l’ensemble
+		- **(i)** du nombre d’heures dans une semaine normale de travail pertinente multiplié par 52, et
+		- **(ii)** du nombre d’heures dans une semaine normale de travail pertinente divisé par le nombre de jours dans une semaine normale de travail pertinente;
+	- **b)** dans le cas d’un employé qui, durant toute période pertinente, est ou était rémunéré suivant un taux quodidien, en divisant le nombre total de jours à l’égard desquels des contributions sont ou ont été faites au compte de pension de retraite par l’ensemble
+		- **(i)** du nombre de jours dans une semaine normale de travail pertinente multiplié par 52, et
+		- **(ii)** de une journée;
+	- **c)** dans le cas d’un employé qui, durant toute période pertinente, est ou était rémunéré suivant un taux hebdomadaire, en divisant par 52 le nombre total de semaines à l’égard desquelles des contributions sont ou ont été faites au compte de pension de retraite; ou
+	- **d)** dans le cas d’un employé qui, durant toute période pertinente, est ou était rémunéré suivant un taux mensuel, en divisant par 12 le nombre total de mois à l’égard desquels des contributions sont ou ont été faites au compte de pension de retraite.
+
+- **(3)** Pour l’application du présent article, le nombre d’heures ou de jours dans une semaine normale de travail pertinente est le nombre d’heures ou de jours, suivant le cas, pendant lesquels l’employé à l’égard duquel l’expression s’applique est ou était ordinairement tenu de travailler dans la semaine de travail pertinente,
+	- **a)** tel que le détermine le Conseil du Trésor, ou
+	- **b)** dans tous les cas où le Conseil du Trésor ne l’a pas ainsi déterminé, tel que l’établit le sous-ministre du ministère ou de l’organisme et que l’approuve le Conseil du Trésor.
+
+- **(4)** L’article 7 s’applique *mutatis mutandis* dans le cas de tout employé au taux régnant qui est absent en congé non payé.
+
+- **(5)** Pour plus de certitude, il est déclaré que toute période de service accompagné d’option mentionnée à la disposition (5)(1)b)(iii)(K) de la Loi doit être calculée en fonction du traitement ou du taux de rémunération et de la semaine normale de travail en vigueur à la date de l’exercice du choix concernant ledit service.
+
+- **(6)** Nonobstant toutes dispositions du présent article, le traitement d’une personne pendant la durée de ses fonctions à titre de commissaire en vertu de la Partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) est calculé, à l’égard de chaque période de service, en fonction d’un taux annuel en divisant
+	- **a)** le produit obtenu par la multiplication du montant total qui lui est payé pour ladite période et de 365, par
+	- **b)** le nombre de jours où il a ainsi exercé ses fonctions.
+
+- **(7)** Le service accompli à titre de commissaire nommé en vertu de la Partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md) est censé être continu pendant la période commençant à la date indiquée, dans le document de sa nomination, comme date du commencement de ses fonctions à titre de commissaire et se terminant à la date où il cesse de faire ainsi fonction de commissaire.
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Maîtres de poste à commission et leurs adjoints
+
+
+**25** Un contributeur qui a choisi ou qui choisit de compter comme service ouvrant droit à pension une période de service accompagné d’option spécifiée au sous-alinéa 5(1)b)(ii) ou à la disposition 5(1)b)(iii)(B) de la Loi et durant laquelle il était employé
+- **a)** à titre de maître de poste dans un bureau de poste à commission avant le 1<sup>er</sup> avril 1948, ou
+- **b)** à titre d’adjoint au maître de poste dans un bureau de poste à commission avant le 1<sup>er</sup> novembre 1948,
+est réputé avoir reçu, durant cette période, un traitement à un taux déterminé conformément à l’annexe III en fonction de renseignements fournis dans chaque cas au ministre par le sous-ministre des Postes.
+
+
+
+
+### Traitement annuel lorsqu’il y a doute
+
+
+**26** 
+
+- **(1)** En tout cas de doute, le montant réputé, aux fins de la Loi, être le traitement annuel d’un contributeur
+	- **a)** qui, étant gardien de phare, se trouve ou s’est trouvé obligé pour une période quelconque de rétribuer des aides sur son propre traitement, est un montant déterminé conformément à l’annexe IV; et
+	- **b)** dont le traitement autorisé comprend normalement toute prime ou allocation de tout montant déterminé ou indéterminé, est,
+		- **(i)** dans le cas d’un contributeur qui était membre de la Gendarmerie royale du Canada avant de devenir contributeur en vertu de la Loi, un montant égal à l’ensemble de la solde qu’il a effectivement touchée dans l’année et des allocations pour l’année calculées conformément au paragraphe (2), et
+		- **(ii)** dans tout autre cas, le montant établi comme étant la rémunération régulière de services accomplis dans son emploi continu et la valeur de la prime ou allocation telle qu’elle est fixée aux fins de la Loi par le Conseil du Trésor d’accord avec la Commission de la fonction publique, sauf que
+			- **(A)** dans le cas de toute période de service antérieure au 1<sup>er</sup> janvier 1954, pour laquelle un choix a été exercé avant le 15 juillet 1971, le traitement utilisé dans l’établissement du montant à payer en vertu de la Loi sur la pension de retraite est censé être le traitement du contributeur, ou
+			- **(B)** dans le cas du service accompli avant le 1<sup>er</sup> janvier 1954, au cours duquel le contributeur a versé des contributions, le traitement est censé être le traitement, y compris toute prime ou allocation, ayant servi à l’établissement de telles contributions courantes.
+
+- **(2)** Les allocations visées par le sous-alinéa (1)b)(i) se calculent ainsi qu’il suit :
+	- **a)** dans le cas de service antérieur au 1<sup>er</sup> juin 1949, si le grade du contributeur est un grade spécifié dans le décret de base, les allocations sont égales à la proportion des allocations spécifiées dans le décret de base pour ce grade qui correspond au rapport existant entre le tarif de solde journalier qu’il a effectivement touché et le tarif de solde autorisé pour ce grade le 8 septembre 1934;
+	- **b)** dans le cas de service antérieur au 1<sup>er</sup> juin 1949, si le grade du contributeur n’est pas un grade spécifié dans le décret de base, les allocations sont égales à la proportion des allocations spécifiées dans le décret de base pour le grade immédiatement supérieur qui correspond au rapport existant entre le tarif de solde qu’il a effectivement touché et le tarif de solde autorisé pour le grade immédiatement supérieur le 16 août 1934; et
+	- **c)** dans le cas de service postérieur au 31 mai 1949, les allocations sont celles qui sont spécifiées dans le décret définitif.
+
+- **(3)** Dans le présent article, ***décret de base*** signifie le décret C.P. 168/1852 du 16 août 1934, tel qu’il existait ce jour-là, et ***décret définitif***, le décret C.P. 142/2540 du 18 mai 1949.
+
+- **(4)** Lorsqu’un employé touchant un traitement à l’égard d’une position à plein temps, d’un caractère continu, touche également un traitement à l’égard d’un emploi à temps partiel, ledit traitement supplémentaire qui lui est versé à l’égard des fonctions à temps partiel est,
+	- **a)** censé être un traitement aux fins de la définition de ***traitement*** au paragraphe 3(1) de la Loi, si l’employé l’a touché au cours de la période commençant le 1<sup>er</sup> janvier 1962 et se terminant le 3 juillet 1994 et si le versement du traitement est ou a été approuvé par la Commission de la fonction publique ou autorisé par le Conseil du Trésor;
+	- **b)** s’il l’a touché pendant la période commencée le 1<sup>er</sup> janvier 1954, rendue à titre individuel ou pour une catégorie, fait partie du traitement aux fins de la définition ***traitement*** au paragraphe 2(1) de la Loi,
+		- **(i)** par une décision du ministre subséquente au 1<sup>er</sup> janvier 1954, rendue à titre individuel ou pour une catégorie, fait partie du traitement aux fins de la définition ***traitement*** au paragraphe 2(1) de la Loi,
+		- **(ii)** par une décision du Conseil du Trésor, rendue avant le 1<sup>er</sup> janvier 1954, fait partie de la rétribution régulière de son service,
+		- **(iii)** était, avant le 1<sup>er</sup> septembre 1949, censé être un traitement et être autorisé aux fins de la pension de retraite par le gouverneur en conseil, ou
+		- **(iv)** était, avant le 1<sup>er</sup> janvier 1942, autorisé en vertu des dispositions de l’article 17 de la Loi sur le service civil ou de toute autre loi du Parlement du Canada,
+et si les contributions à l’égard du traitement s’effectuaient ou avaient commencé après le 1<sup>er</sup> janvier 1954, ou si les contributions avaient cessé le ou après le 1<sup>er</sup> janvier 1954, en raison de l’application du paragraphe 4(2) de la Loi.
+
+- **(5)** Lorsqu’un contributeur reçoit plus d’un traitement pour un emploi à plein temps dans la fonction publique, son traitement est réputé être égal :
+	- **a)** dans le cas des traitements reçus avant le 4 juillet 1994, au premier de ceux-ci dont le versement a été autorisé;
+	- **b)** à l’égard des traitements reçus après le 3 juillet 1994, à la somme de tous les traitements qu’il reçoit.
+
+- **(6)** Lorsque le traitement d’un contributeur, durant toute période d’emploi à plein temps dans la fonction publique, ne peut être établi, ce contributeur sera censé avoir reçu durant cette période un traitement d’un taux égal
+	- **a)** au taux du traitement annuel qui lui a été payé durant l’année qui suit ladite période où son traitement pour un emploi à plein temps dans la fonction publique peut être établi, ou
+	- **b)** si l’année mentionnée à l’alinéa a) survient plus de deux ans après la fin de cette période, au taux de traitement annuel payé durant cette période pour un emploi à plein temps dans la fonction publique à l’égard d’un emploi qui, de l’avis du Conseil du Trésor, équivaut à l’emploi occupé par le contributeur durant cette période,
+et le montant de son traitement pour cette période sera censé être le taux de son traitement pendant ladite période, établi conformément au présent paragraphe, multiplié par la durée de cette période en années ou fractions d’années.
+> DORS/93-450, art. 11(F); DORS/94-483, art. 3.
+
+
+
+
+
+### Dates officielles à compter desquelles commence et cesse un emploi dans la fonction publique
+
+
+**27** 
+
+- **(1)** Pour l’application des parties I et II de la Loi, sauf la détermination du point de départ du délai d’exercice d’un choix, la date effective à laquelle une personne est censée être devenue employée dans la fonction publique correspond au premier en date des jours suivants :
+	- **a)** le premier jour pour lequel elle a reçu une rémunération à titre d’employé à plein temps;
+	- **b)** si son premier emploi dans la fonction publique était à titre d’employé à temps partiel, celui des jours suivants qui est postérieur à l’autre :
+		- **(i)** le 1<sup>er</sup> janvier 1981,
+		- **(ii)** le premier jour pour lequel elle a reçu une rémunération à titre d’employé à temps partiel.
+
+- **(2)** Pour l’application de la partie I de la Loi, sous réserve des paragraphes (10) à (13), (15) et (16), la date officielle à compter de laquelle une personne est censée avoir cessé d’être employée dans la fonction publique est la suivante :
+	- **a)** le jour suivant le dernier jour pour lequel la personne a reçu une rémunération à l’égard d’un emploi dans la fonction publique, à moins que
+		- **(i)** la personne, pendant qu’elle était employée, ne soit décédée, auquel cas elle est censée avoir cessé d’être employée le jour suivant celui de son décès,
+		- **(ii)** la personne ne soit absente sans rémunération, ce jour-là, auquel cas si elle revient au travail et si sa rémunération est rétablie, elle n’est pas censée avoir cessé d’être employée dans la fonction publique pendant cette absence, ou
+		- **(iii)** la personne ne soit décrite à l’alinéa b), c) ou d) du présent paragraphe, auquel cas la date prévue dans ledit alinéa est applicable;
+	- **b)** lorsque la personne est absente en congé autorisé sans rémunération,
+		- **(i)** le jour suivant le date à laquelle le sous-ministre a notifié au ministre par écrit que l’employé a cessé d’être employé,
+		- **(ii)** le jour suivant la date de son décès, ou
+		- **(iii)** le jour où elle devient assujettie à un autre régime de pension ou de retraite, sous réserve de toute loi fédérale régissant l’emploi à l’extérieur de la fonction publique,
+suivant celle des éventualités qui survient en premier lieu;
+	- **c)** lorsque la personne est absente sans rémunération et qu’aucun congé n’a été autorisé,
+		- **(i)** le jour suivant la date à laquelle le sous-ministre notifie au ministre par écrit que l’employé a cessé d’être employé, ou
+		- **(ii)** le jour suivant la date de son décès,
+suivant celle des éventualités qui survient en premier lieu; et
+	- **d)** lorsque la personne a été suspendue en vertu des dispositions de toute loi du Parlement du Canada,
+		- **(i)** la date officielle à compter de laquelle elle est suspendue, tel qu’il est indiqué dans l’avis par écrit du sous-ministre au ministre, ou
+		- **(ii)** le jour suivant la date de son décès,
+suivant celle des éventualités qui survient en premier lieu.
+
+- **(3)** Sauf dispositions contraires, le paragraphe (2) ne s’applique pas aux personnes suivantes :
+	- **a)** un employé de session;
+	- **b)** un employé au taux régnant occupé à un emploi saisonnier; ou
+	- **c)** un employé saisonnier.
+
+- **(4)** Pour l’application de la partie I de la Loi, la date officielle à laquelle un employé de session auquel la Loi s’applique cesse d’être employé dans la fonction publique est le premier jour de la session du Parlement suivant immédiatement la session au cours de laquelle il a été activement employé, à moins
+	- **a)** que dans les 10 jours suivant ce premier jour il ne reprenne ses fonctions, ou
+	- **b)** qu’avant ce premier jour, le président de la Chambre du Parlement où l’employé est ou était employé n’informe le ministre, par écrit, que l’employé a cessé d’être employé à quelque autre date avant ce premier jour,
+sauf que si l’employé est activement employé dans la fonction publique, la date officielle à laquelle il cesse d’être employé dans cette position est déterminée par le paragraphe (2).
+
+- **(5)** Aucun employé de session, à moins qu’il ne soit activement employé dans la fonction publique, ne doit compter de période entre sessions du Parlement comme service ouvrant droit à pension, et aucun employé de session, à moins qu’il ne soit activement employé dans la fonction publique, ne doit contribuer au compte de pension de retraite à l’égard de semblable période.
+
+- **(6)** Le paragraphe (4) ne s’applique pas à un employé de session à l’égard d’une session spéciale ou d’urgence du Parlement dans les cas où l’employé ne rend pas ou n’a pas rendu de services au Parlement durant telle session.
+
+- **(7)** Aux fins du paragraphe (5), une session spéciale ou d’urgence du Parlement est censée être ou avoir été une période entre des sessions du Parlement dans les cas où un employé de session ne rend pas ou n’a pas rendu de services au Parlement durant telle session.
+
+- **(8)** Pour l’application de la partie I de la Loi, la date à compter de laquelle un employé au taux régnant occupé à titre saisonnier ou un employé saisonnier à qui s’applique la Loi cesse d’être employé à la fonction publique, est censé être le premier jour auquel il est tenu de réintégrer ses fonctions après la saison pendant laquelle il a été employé activement, à moins
+	- **a)** que dans la période de 10 jours suivant ce premier jour, il ne réintègre ses fonctions, ou
+	- **b)** qu’avant ce premier jour, le sous-ministre de son ministère n’informe le ministre par écrit que l’employé a cessé d’être employé à une date antérieure à ce premier jour,
+sauf que si l’employé est activement employé dans la fonction publique, la date officielle à laquelle il cesse d’être employé dans cette position est déterminée par le paragraphe (2).
+
+- **(9)** Nul, étant un employé au taux régnant occupé à titre saisonnier ou un employé saisonnier, n’est admis à compter, comme service ouvrant droit à pension, de période survenant entre les saisons applicables à son emploi ou à contribuer au fonds de pension à l’égard de toute semblable période, à moins d’être employé activement dans la fonction publique.
+
+- **(10)** Sous réserve des paragraphes (11) et (12), un contributeur est censé, pour l’application de la partie I de la Loi, avoir cessé d’être employé dans la fonction publique, lorsqu’il
+	- **a)** cesse d’être employé dans une direction de la fonction publique;
+	- **b)** devient, immédiatement après, employé dans une autre direction de la fonction publique;
+	- **c)** devient contributeur en vertu d’un régime de pension destiné aux employés de cette direction; et
+	- **d)** cesse de contribuer au compte de pension, en vertu des articles 5 et 65 de la Loi.
+
+- **(11)** Tout contributeur auquel le paragraphe (10) se serait appliqué si, avant le 1<sup>er</sup> novembre 1960, ce contributeur
+	- **a)** n’avait pas cessé d’être employé dans une direction de la fonction publique, et
+	- **b)** n’était pas devenu employé dans une autre direction de la fonction publique,
+est censé, pour l’application de la partie I de la Loi, avoir cessé d’être employé dans la fonction publique le 1<sup>er</sup> novembre 1960.
+
+- **(12)** Tout contributeur qui choisit, ou qui a choisi, de devenir contributeur en vertu de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md) est censé, pour l’application de la partie I de la Loi, avoir cessé d’être employé dans la fonction publique la veille du jour à l’égard duquel il commence à contribuer en vertu de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
+
+- **(13)** Sauf dispositions du paragraphe (10), un contributeur n’est pas censé, pour l’application de la partie I de la Loi, avoir cessé d’être employé dans toute partie de la fonction publique et est devenu employé dans une autre partie de la fonction publique, si seulement
+	- **a)** un jour de repos,
+	- **b)** un jour déclaré un congé général par l’autorité compétente, ou
+	- **c)** à la fois un jour de repos et un jour déclaré un congé général par l’autorité compétente,
+sont intervenus entre le dernier jour de travail pour lequel il a touché une rémunération dans la partie mentionnée en premier lieu de la fonction publique et le premier jour de travail à l’égard duquel il a touché une rémunération dans la partie mentionnée ensuite de la fonction publique.
+
+- **(14)** Toute personne qui, en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), est devenue un contributeur le ou après le 1<sup>er</sup> janvier 1936 et qui a été continuellement à l’emploi de la succursale d’Ottawa de la Monnaie royale depuis une date antérieure à décembre 1931, est censée être devenue employée dans la fonction publique au début de son emploi auprès de la succursale d’Ottawa de la Monnaie royale.
+
+- **(15)** Aux fins de la Partie I de la Loi, une personne
+	- **a)** qui était employée à la Direction des services d’ingénierie du ministère de l’Expansion économique régionale à Amherst, Nouvelle-Écosse, au moment où le Conseil des premiers ministres des Maritimes a pris la suite de cette direction, et
+	- **b)** dont le service ouvrant droit à pension n’a pas été transféré aux termes d’un accord intervenu entre le ministre et le Conseil, en application de l’article 30 de la Loi
+est censée avoir cessé d’être employée dans la fonction publique le 29 décembre 1973.
+
+- **(16)** Pour l’application de la partie I de la Loi, tout contributeur qui est un juge au sens du paragraphe 1(1) du Règlement sur le régime enregistré de pension des juges des Territoires du Nord-Ouest est censé avoir cessé d’être employé dans la fonction publique le jour précédant celui à partir duquel il est devenu assujetti à ce règlement.
+
+- **(17)** Pour l’application de la partie I de la Loi, toute personne qui, au 31 décembre 1990, était employée de la Société de développement de Terre-Neuve et du Labrador Limitée est réputée avoir cessé d’être employée dans la fonction publique le 1<sup>er</sup> janvier 1991.
+
+- **(18)** Pour l’application de la partie I de la Loi, la personne qui a effectué un choix aux termes de l’article 14 de la Loi et qui est censée selon cet article être employée dans la fonction publique au 14 décembre 1994 est réputée avoir cessé être ainsi employée à vingt-quatre heures à cette date.
+> DORS/91-332, art. 5(F); DORS/93-450, art. 8, 11(F) et 12; DORS/94-483, art. 4; DORS/94-539, art. 2; DORS/94-767, art. 2.
+
+
+
+
+**28** [Abrogé, DORS/86-741, art. 1]
+
+
+
+
+### Personnes employées de nouveau
+
+
+**29** Aux fins de l’alinéa 17a)<sup><a href='#footnote2_f'>[1]</a></sup> de la Loi, le titulaire d’une charge ou d’un emploi ou le prestataire de services dont la rémunération est payable sur le Fonds du revenu consolidé ou par un agent de Sa Majesté du chef du Canada, auquel ledit article s’applique, est réputé employé dans la fonction publique pendant qu’il est
+
+<a name='footnote2_f'><sup>1</sup></a>: Alinéa abrogé par S.C. 1974-75-76, ch. 81, art. 12.<br />
+- **a)** lieutenant-gouverneur d’une province;
+- **b)** membre du Sénat;
+- **c)** juge de toute cour visée par la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md);
+- **d)** employé de la Société centrale d’hypothèques et de logement;
+- **e)** membre des Forces canadiennes ou de la Gendarmerie royale du Canada; ou
+- **f)** employé ou membre de tout office, commission, société ou section de la fonction publique, dont la rémunération est payable sur le Fonds du revenu consolidé ou par un agent de Sa Majesté du chef du Canada, qui n’est pas
+	- **(i)** une personne nommée à titre d’officier rapporteur, en vertu du paragraphe 7(1) de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), ou
+	- **(ii)** une personne employée à titre de commissaire de recensement ou recenseur, en vertu du paragraphe 5(1) de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Emploi sensiblement ininterrompu
+
+
+**30** 
+
+- **(1)** Sous réserve du présent article, lorsque, au cours de toute période pertinente,
+	- **a)** une personne a cessé d’être employée dans la fonction publique et y est devenue employée de nouveau, ou
+	- **b)** les fonctions ou conditions d’emploi d’une personne employée dans la fonction publique ont été modifiées,
+son service pendant cette période est réputé être sensiblement sans interruption (ou sensiblement continu) au sens de la Loi.
+
+- **(2)** Le paragraphe (1) ne s’applique pas, aux fins de l’alinéa 5(1)c) de la Loi, à l’égard de la personne visée à cet alinéa qui accepte une nomination temporaire dans la fonction publique, pour plus de trois mois, à un poste dont la moyenne du nombre d’heures de travail hebdomadaires est de 30 heures ou plus.
+
+- **(3)** Le paragraphe (1) ne s’applique pas aux fins des alinéas 5(1)b) et c) de la Loi si, au cours de la période pertinente, l’employé a cessé d’être employé dans la fonction publique pendant plus d’un jour pour quelque raison que ce soit.
+
+- **(4)** Le paragraphe (1) ne s’applique pas, aux fins de la disposition 6(1)a)(iii)(E) de la Loi, à la période pertinente quand, au cours de cette période, l’employé,
+	- **a)** contributeur au titre de la Loi sur la pension de retraite, a cessé d’être contributeur; ou
+	- **b)** tenu de contribuer conformément au paragraphe 5(1) de la Loi, a cessé d’y être ainsi tenu.
+
+- **(5)** Le paragraphe (1) ne s’applique pas, aux fins de l’article 12 de la Loi, à la période pertinente quand, au cours de ladite période, l’employé a cessé d’être employé dans la fonction publique pour une période continue dépassant un jour.
+
+- **(6)** Le paragraphe (1) ne s’applique pas aux fins du paragraphe 13(4) de la Loi dans le cas de la période pertinente lorsque l’employé, durant cette période, a cessé d’être employé dans la fonction publique pour toute raison que ce soit et,
+	- **a)** dans le cas de la période de service visée par l’alinéa 13(5)a) de la Loi, s’il n’est pas de nouveau devenu employé dans ladite fonction dans les trois mois de la date à laquelle il a cessé d’être employé; ou
+	- **b)** dans le cas de la période visée à l’alinéa 13(5)b) de la Loi, s’il n’est pas devenu employé de nouveau dans la fonction publique dans le délai que stipule l’accord visé audit alinéa.
+
+- **(7)** Le paragraphe (1) ne s’applique pas, aux fins de l’article 31 de la Loi, à l’égard de la période pertinente dans le cas où un employé, pendant ladite période, a cessé d’être employé dans la fonction publique ou a cessé d’être membre de la force régulière ou de la Gendarmerie pour quelque raison que ce soit et n’est pas redevenu employé de la fonction publique ni membre de la force régulière ou de la Gendarmerie dans les trois mois de la date à laquelle il a ainsi cessé d’être employé ou membre.
+
+- **(8)** Le paragraphe (1) ne s’applique pas aux fins du paragraphe 11(5) de la Loi à l’égard de la période pertinente où un employé, durant cette période, a cessé d’être employé dans la fonction publique pour une période continue dépassant trois mois.
+> DORS/93-450, art. 11(F); DORS/94-483, art. 5 et 9.
+
+
+
+
+
+## Prestations
+
+
+
+### Calcul des prestations des employés comptant à leur crédit du service à temps partiel
+
+
+**30.1** Pour l’application de la définition de ***allocation de cessation en espèces*** au paragraphe 10(1) de la Loi, lorsque le service ouvrant droit à pension du contributeur comprend des périodes de service à titre d’employé à temps partiel, le traitement de celui-ci est égal à la somme des montants suivants :
+- **a)** à l’égard de chaque période de service ouvrant droit à pension qui représente du service à plein temps, le montant calculé selon la formule suivante :
+```
+A × D/E
+```
+
+- **b)** à l’égard de chaque période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans un seul poste, le montant calculé selon la formule suivante :
+```
+(A × B × D)/(C × E)
+```
+
+- **c)** à l’égard de chaque période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans plus d’un poste à la fois, le montant calculé selon la formule suivante :
+```
+A × F × D/E
+```
+où :
+- **A** représente :
+- **(i)** dans le cas où il était employé à plein temps au moment visé dans cette définition, le traitement qui était autorisé à lui être versé à ce moment,
+- **(ii)** dans le cas où il était un employé à temps partiel occupant un seul poste au moment visé dans cette définition, le traitement qui lui aurait été payable s’il avait été employé à plein temps à ce moment,
+- **(iii)** dans le cas où il était un employé à temps partiel occupant plus d’un poste à la fois au moment visé dans cette définition, le total des montants calculés selon la formule suivante pour chacun de ces postes :
+```
+G × H/I
+```
+où :
+- **G** représente le traitement qui lui aurait été payable s’il avait été employé à plein temps à ce moment,
+- **H** la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé durant la période visée,
+- **I** le total des moyennes, pour tous ces postes, du nombre d’heures hebdomadaires pour lequel il était engagé durant la période visée,
+- **B** la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé durant la période visée,
+- **C** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont il faisait partie durant la période visée,
+- **D** la durée de la période visée,
+- **E** la durée de toute la période de service ouvrant droit à pension,
+- **F** la somme des quotients de B par C obtenus à l’égard de chacun de ces postes.
+> DORS/94-483, art. 6.
+
+
+
+
+**30.2** 
+
+- **(1)** Pour l’application de l’article 11 de la Loi, sous réserve du paragraphe (2), lorsque le service ouvrant droit à pension du contributeur comprend des périodes de service à titre d’employé à temps partiel, le traitement annuel moyen du contributeur est :
+	- **a)** à l’égard de toute période de service à titre d’employé à temps partiel qui représente du service visé au paragraphe 7(1.1) de la Loi, sauf s’il s’agit de service visé à la division 6(1)b)(iii)(I.1) de la Loi à l’égard duquel il a effectué un choix aux termes de cette division ou de la division 6(1)b)(iii)(K) de la Loi, malgré l’alinéa 11(7)e) de la Loi, calculé en fonction du traitement visé à l’élément A de l’alinéa 6.6(1)b);
+	- **b)** à l’égard de toute période de service visée à la division 6(1)b)(iii)(I.1) de la Loi à l’égard de laquelle il a effectué un choix aux termes de cette division ou de la division 6(1)b)(iii)(K) de la Loi, malgré l’alinéa 11(7)e) de la Loi, calculé en fonction du traitement qui lui était payable au 4 juillet 1994;
+	- **c)** à l’égard de toute période de service à titre d’employé à temps partiel non visée aux alinéas a) et b), calculé en fonction du traitement qui lui aurait été payable s’il avait été employé à plein temps durant cette période;
+	- **d)** à l’égard de toute période de service à plein temps qui représente du service visé aux paragraphes 7(1) ou (1.1) de la Loi, malgré l’alinéa 11(7)e) de la Loi, calculé en fonction du traitement visé à l’élément A de l’alinéa 6.6(1)b).
+
+- **(2)** Lorsque la période de service ouvrant droit à pension visée au paragraphe (1) comprend une période durant laquelle le contributeur était un employé à temps partiel occupant plus d’un poste à la fois, pour l’application de ce paragraphe, le traitement pour cette période est égal à la somme des montants calculés selon la formule suivante pour chacun des postes :
+```
+A × B/C
+```
+où :
+- **A** représente le traitement qui lui aurait été payable s’il avait été employé à plein temps, calculé en conformité avec le paragraphe (1),
+- **B** la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **C** le total des moyennes, pour tous ces postes, du nombre d’heures hebdomadaires pour lequel il était engagé durant.
+> DORS/94-483, art. 6.
+
+
+
+
+**30.3** 
+
+- **(1)** Pour l’application du paragraphe 11(1) de la Loi, le montant de la pension à laquelle peut devenir admissible le contributeur dont le service ouvrant droit à pension comprend des périodes de service à titre d’employé à temps partiel est égal à la somme des montants suivants :
+	- **a)** à l’égard de toute période de service ouvrant droit à pension qui représente du service à plein temps, le montant déterminé selon le paragraphe 11(1) de la Loi;
+	- **b)** à l’égard de toute période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans un seul poste, le montant calculé selon la formule suivante :
+```
+C × A/B
+```
+
+	- **c)** à l’égard de toute période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans plus d’un poste à la fois, le montant calculé selon la formule suivante :
+```
+C × D
+```
+où :
+- **A** représente la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **B** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont il faisait partie,
+- **C** le montant déterminé selon le paragraphe 11(1) de la Loi et l’article 30.2,
+- **D** la somme des quotients de A par B calculés pour chacun de ces postes.
+
+- **(2)** Pour l’application du paragraphe 11(2) de la Loi, lorsque le service ouvrant droit à pension du contributeur comprend des périodes de service à titre d’employé à temps partiel, le traitement annuel moyen visé à ce paragraphe est égal :
+	- **a)** à l’égard de toute période du service ouvrant droit à pension qui représente du service à plein temps, au montant déterminé selon l’article 11 de la Loi et l’article 30.2;
+	- **b)** à l’égard de toute période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans un seul poste, au montant calculé selon la formule suivante :
+```
+C × A/B
+```
+
+	- **c)** à l’égard de toute période de service ouvrant droit à pension qui représente du service à titre d’employé à temps partiel dans plus d’un poste à la fois, le montant calculé selon la formule suivante :
+```
+C × D
+```
+ où :
+- **A** représente la moyenne du nombre d’heures hebdomadaires pour lequel il était engagé,
+- **B** le nombre d’heures de travail hebdomadaires normales établi pour les employés à plein temps du groupe professionnel dont il faisait partie,
+- **C** le traitement annuel moyen déterminé selon l’article 11 de la Loi et l’article 30.2,
+- **D** la somme des quotients de A par B calculés pour chacun de ces postes.
+> DORS/94-483, art. 6.
+
+
+
+
+
+### Droit à une pension après la conclusion d’un accord de transfert réciproque
+
+
+**30.4** Malgré les dispositions de la Loi, lorsque le contributeur, après qu’un paiement a été fait à son égard à un employeur approuvé dans le cadre d’un accord conclu en application du paragraphe 40(2) de la Loi, a encore à son crédit du service ouvrant droit à pension :
+- **a)** il n’a pas droit à une pension ou à une allocation annuelle à l’égard de ce service, à moins d’avoir de nouveau le droit de compter ce service comme service ouvrant droit à pension en vertu de la Loi;
+- **b)** il a droit au remboursement des contributions versées à l’égard de ce service.
+> DORS/96-18, art. 4.
+
+
+
+
+
+### Calcul d’un montant versé en vertu des paragraphes 40.2(7) ou (8) de la Loi
+
+
+**30.41** Pour l’application du paragraphe 40.2(7) de la Loi, les montants ci-après, selon le cas, sont réputés être payés en vertu du paragraphe 40.2(3) de la Loi :
+- **a)** l’excédent de tout montant visé au paragraphe 15.1(1) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) sur la somme globale qui serait calculée en vertu du paragraphe 15.1(2) de ce règlement;
+- **b)** l’excédent de tout montant visé au paragraphe 38.4(1) du même règlement sur la somme globale qui serait calculée en vertu de l’alinéa 38.4(2)a) de ce règlement;
+- **c)** tout montant visé à l’article 41.6 du même règlement.
+> DORS/2003-233, art. 1.
+
+
+
+
+**30.42** Pour l’application du paragraphe 40.2(8) de la Loi, les montants ci-après, selon le cas, sont réputés être payés en vertu du paragraphe 40.2(3) de la Loi :
+- **a)** l’excédent de tout montant visé au paragraphe 38.4(1) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) sur la somme globale qui serait calculée en vertu de l’alinéa 38.4(2)b) de ce règlement;
+- **b)** tout montant visé à l’article 41.6 du même règlement.
+> DORS/2003-233, art. 1.
+
+
+
+
+
+### Restriction applicable au droit des enfants
+
+
+**30.5** Malgré le paragraphe 12(9) de la Loi, l’enfant du contributeur qui décède après le 31 décembre 1995 n’a droit à l’allocation annuelle visée aux articles 12 ou 13 de la Loi que s’il était à la charge du contributeur au moment du décès de celui-ci.
+> DORS/96-18, art. 4.
+
+
+
+
+
+### Limites applicables aux prestations aux survivants
+
+
+**30.6** 
+
+- **(1)** Le montant mensuel payable, en vertu des articles 12 ou 13 de la Loi, au conjoint survivant ou à l’enfant du contributeur décédé, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduit de façon que le total de ce montant et des prestations payables à l’égard de celui-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées au bénéficiaire d’un participant, calculé conformément aux alinéas 8503(2)d) à f) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans leur version du 15 janvier 1992.
+
+- **(2)** Le total des montants mensuels payables, en vertu des articles 12 ou 13 de la Loi, au conjoint survivant et aux enfants du contributeur décédé, à l’égard de la période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduit de façon que la somme du total de ces montants et des prestations payables à l’égard de ceux-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément aux alinéas 8503(2)d) ou e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans leur version du 15 janvier 1992.
+
+- **(3)** Les limites prévues aux paragraphes (1) et (2) s’appliquent aux montants mensuels payables à l’égard d’un contributeur qui est tenu de contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique le 15 décembre 1994 ou après cette date et qui décède le 20 novembre 1997 — date d’entrée en vigueur de l’alinéa 41.1(1)a) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) — ou après cette date.
+> DORS/96-18, art. 4; DORS/97-490, art. 3; DORS/2002-74, art. 1.
+
+
+
+
+**30.7** 
+
+- **(1)** Pour calculer le montant d’une prestation minimale payable en vertu de l’article 27 de la Loi, les sommes versées à un contributeur, son survivant ou ses enfants en vertu des alinéas 41.1(1)a) ou c) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) sont réputées avoir été versées aux termes de la partie I de la Loi.
+
+- **(2)** Si, au décès d’un contributeur, une prestation est payable à son survivant ou ses enfants en vertu de l’article 19 du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md), il n’est versé aucune prestation minimale en vertu de l’article 27 de la Loi.
+
+- **(3)** Si le survivant et l’enfant visés à l’article 19 du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) décèdent ou cessent d’être admissibles à la prestation prévue à cet article, la fraction de la prestation qui leur a été payée à l’égard du service ouvrant droit à pension du contributeur en vertu de la partie I de la Loi est réputée avoir été versée, aux termes de la partie I de la Loi, pour le calcul de la prestation minimale payable en vertu de l’article 27 de la Loi.
+> DORS/97-490, art. 3; DORS/2002-74, art. 2.
+
+
+
+
+**30.8** 
+
+- **(1)** Malgré le paragraphe 27(2) de la Loi, le montant payable en vertu de ce paragraphe ne peut excéder le plus élevé des montants visés aux alinéas 8503(2)i), j) et n) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+
+- **(2)** La limite prévue au paragraphe (1) s’applique au contributeur qui est tenu de contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique le 15 décembre 1994 ou après cette date et qui décède le 20 novembre 1997 — date d’entrée en vigueur de l’alinéa 41.1(1)b) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) — ou après cette date.
+> DORS/97-490, art. 3; DORS/2002-74, art. 3.
+
+
+
+
+
+### Paiements effectués autrement que par mensualités
+
+
+**31** Lorsqu’un contributeur ou un bénéficiaire demande qu’une pension ou une allocation annuelle soit payée autrement qu’en mensualités égales ou que le paiement d’une pension ou d’une allocation annuelle en mensualités égales n’est pas praticable pour des raisons d’ordre administratif, le ministre peut prescrire, s’il n’en résulte pas le paiement d’un montant global plus élevé que le montant global des mensualités égales qui auraient autrement été payables en conformité avec le paragraphe 9(2) de la Loi, que la pension ou l’allocation annuelle soit payée, à terme échu,
+- **a)** trimestriellement ou semestriellement par versements égaux; ou
+- **b)** annuellement.
+> DORS/85-628, art. 3.
+
+
+
+
+
+### Augmentation de pension rattachée aux montants payables en vertu du régime de pensions du Canada ou d’un régime provincial de pensions
+
+
+**32** 
+
+- **(1)** Aux fins du paragraphe 10(4) de la Loi, le montant de toute pension de retraite ou d’invalidité qu’une personne désignée dans ce paragraphe est admissible à recevoir en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou en vertu d’un régime provincial de pensions est la pension qu’elle aurait reçue si le traitement reçu ou censé avoir été reçu par elle pendant son service ouvrant droit à pension en vertu de la Loi avait été le montant total de son revenu provenant d’un emploi ouvrant droit à pension tel que le définit le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) et si le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) s’était appliqué à elle pendant tel service ouvrant droit à pension.
+
+- **(2)** Toute demande faite en vertu du paragraphe 10(4) de la Loi doit être faite selon la formule D visée à l’annexe VI.
+
+- **(3)** Lorsque le montant d’une pension payable à un contributeur est augmenté conformément au paragraphe 10(4) de la Loi, l’augmentation est en vigueur à partir du jour où le montant de la pension payable audit contributeur en vertu de la Loi est réduit, en vertu du paragraphe 10(2) de la Loi.
+
+
+
+
+### Capitalisation des prestations
+
+
+**33** 
+
+- **(1)** Pour l’application du paragraphe 10(4) de la Loi, la valeur capitalisée d’une pension ou d’une allocation annuelle et des prestations supplémentaires payables à l’égard de celles-ci en vertu de la partie III de la Loi est leur valeur actuarielle actualisée déterminée à la date de la demande sur la base des hypothèses actuarielles suivantes :
+	- **a)** le taux de mortalité pour un contributeur correspond à la moyenne des taux de mortalité des contributeurs qui touchent des prestations pour cause d’invalidité et de ceux qui touchent des prestations pour des raisons autres que l’invalidité, applicables au groupe d’âge dans lequel se situe le contributeur, qui figurent au rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiqués, pondérée selon les prestations payées à chacun de ces deux groupes de contributeurs;
+	- **b)** les taux de mortalité applicables aux conjoints survivants sont ceux qui figurent au rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiqués;
+	- **c)** les taux d’intérêt sont ceux figurant dans les Recommandations pour le calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, en vigueur depuis le 1<sup>er</sup> septembre 1993, qui s’appliquent aux pensions pleinement indexées, rajustées selon les taux d’intérêt applicables aux pensions non indexées afin de tenir compte des dispositions de la partie III de la Loi.
+
+- **(2)** Le rapport d’évaluation actuarielle visé au paragraphe (1) est le rapport le plus récent déposé devant le Parlement ou, si ce dépôt a eu lieu au cours du mois de la demande ou du mois précédent, le rapport précédent ainsi déposé.
+> DORS/93-450, art. 11(F); DORS/97-490, art. 4.
+
+
+
+
+
+### Ajustement de certaines pensions et de certaines allocations annuelles
+
+
+**34** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), la pension ou l’allocation annuelle à laquelle a droit un contributeur visé au sous-alinéa 13(1)d)(ii), au paragraphe 13(6) ou à l’article 23 de la Loi est ajustée par déduction d’un montant égal au produit obtenu par la multiplication de l’élément visé à l’alinéa a) par celui visé à l’alinéa b) :
+	- **a)** cinq pour cent du montant de l’allocation annuelle qu’il recevait avant de devenir invalide ou d’être employé à nouveau dans la fonction publique;
+par
+	- **b)** le nombre d’années, calculé au plus proche dixième, durant lesquelles le contributeur a reçu une allocation annuelle, sauf les années, calculées au plus proche dixième, postérieures à la date à laquelle il a atteint l’âge auquel il aurait pu autrement prendre sa retraite et avoir droit à une pension à jouissance immédiate fondée sur la durée de service ouvrant droit à pension d’après laquelle l’allocation annuelle a été calculée.
+
+- **(2)** Le montant de la pension ou de l’allocation annuelle à laquelle un contributeur visé au paragraphe 13(6) ou à l’article 23 de la Loi peut devenir admissible en vertu de la partie I de la Loi ne doit pas être inférieur à l’allocation annuelle qu’il recevait avant son dernier réemploi dans la fonction publique, plus toute augmentation de cette allocation, à laquelle il a droit à l’égard de la période de service ouvrant droit à pension à son crédit, du fait qu’il a été ainsi réemployé.
+
+- **(3)** Le montant total déduit au titre du paragraphe (1) ne peut excéder le montant total reçu par le contributeur, à titre d’allocation annuelle, avant son invalidité ou son réemploi dans la fonction publique.
+> DORS/81-866, art. 1; DORS/93-450, art. 11(F); DORS/2001-160, art. 1.
+
+
+
+
+
+### Preuve requise pour convaincre le ministre, selon l’alinéa 10(2)b) de la loi
+
+
+**35** 
+
+- **(1)** La preuve requise pour convaincre le ministre qu’un contributeur n’a pas droit à une pension d’invalidité visée à l’alinéa 10(2)b) de la Loi consiste en
+	- **a)** un document signé par le contributeur déclarant qu’il n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec; et
+	- **b)** un certificat signé par le ministre responsable de l’administration du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), pour son compte, ou par le président de la Régie des rentes du Québec, selon le cas, attestant que le contributeur désigné, n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec.
+
+- **(2)** Un contributeur, employé de la fonction publique au 21 avril 1976, qui, par la suite, cesse de l’être, fournit la preuve visée à l’alinéa (1)a) avant la date où il devient admissible, selon la Loi, à une annuité.
+
+- **(3)** Sous réserve du paragraphe (4), un contributeur qui cesse d’être employé de la fonction publique avant le 21 avril 1976 fournit la preuve visée à l’alinéa (1)a), dans les six mois de la date où le ministre l’avise, par écrit, des exigences de l’alinéa 10(2)b) de la Loi.
+
+- **(4)** Le ministre peut prolonger la période visée au paragraphe (3) lorsqu’il est d’avis que le contributeur, en raison de circonstances indépendantes de sa volonté, a été dans l’impossibilité de fournir, dans le délai prévu à ce paragraphe, la preuve visée à l’alinéa (1)a).
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Personnes engagées autrement qu’à plein temps
+
+
+**36** 
+
+- **(1)** Tout contributeur, à qui s’applique l’alinéa 10(6)b) de la Loi, qui a choisi de compter comme service ouvrant droit à pension toute période de service accompagné d’option spécifiée à la disposition 5(1)b)(i)(A) de la Loi, ou qui choisit de compter comme service ouvrant droit à pension toute période de service accompagné d’option spécifiée à la disposition 5(1)b)(i)(B), et qui,
+	- **a)** immédiatement avant son enrôlement dans les Forces canadiennes a été engagé dans la fonction publique autrement qu’à plein temps, ou
+	- **b)** était employé dans la fonction publique immédiatement avant son enrôlement dans les Forces canadiennes durant soit la Première Guerre mondiale, soit la Seconde Guerre mondiale, mais n’était pas ainsi employé immédiatement avant son enrôlement dans les Forces canadiennes durant l’autre guerre et, postérieurement à sa période de service actif dans les forces durant ladite autre guerre, était employé dans la fonction publique autrement qu’à plein temps,
+est réputé, aux fins de l’alinéa 10(6)b) de la Loi, avoir été, pendant cet engagement,
+	- **c)** employé dans la fonction publique; et
+	- **d)** avoir touché un traitement à un taux égal au taux de traitement autorisé, à l’époque pertinente, à être payé à une personne occupant dans la fonction publique l’emploi à plein temps qui correspond de plus près à l’emploi occupé par le contributeur, ou en en accomplissant les fonctions, tel que le Conseil du Trésor le détermine.
+
+- **(2)** Tout contributeur à qui s’applique le sous-alinéa 10(6)c)(ii) de la Loi ou tout contributeur ayant à son actif une durée de service ouvrant droit à pension qui comprend une période durant laquelle il était en activité de service dans les Forces canadiennes durant la Première Guerre mondiale ou la Seconde Guerre mondiale, n’ayant pas été employé dans la fonction publique immédiatement avant son enrôlement, qui a choisi de compter comme service ouvrant droit à pension toute période de service accompagné d’option spécifiée à la disposition 5(1)b)(i)(A) de la Loi, ou qui choisit de compter comme service ouvrant droit à pension toute période de service accompagné d’option spécifiée à la disposition 5(1)b)(i)(B) et qui, en devenant par la suite employé dans la fonction publique, y était autrement qu’à plein temps, est réputé, aux fins de l’alinéa 10(6)c) de la Loi, avoir alors été, pendant son engagement,
+	- **a)** employé dans la fonction publique; et
+	- **b)** avoir touché un traitement à un taux égal au taux de traitement autorisé, à l’époque pertinente, à être payé à une personne occupant l’emploi à plein temps dans la fonction publique qui correspond de plus près à l’emploi occupé par le contributeur, ou en en accomplissant les fonctions, tel que le Conseil du Trésor le détermine.
+
+- **(3)** Tout contributeur qui a choisi de compter comme service ouvrant droit à pension toute période de service accompagné d’option, spécifiée à la disposition 5(1)b)(i)(A) de la Loi, ou qui choisit de compter comme service ouvrant droit à pension toute période de service accompagné d’option, spécifiée à la disposition 5(1)b)(i)(B) durant laquelle il était engagé autrement qu’à plein temps, à titre de maître de poste d’un bureau à commission ou d’adjoint d’un maître de poste de bureau à commission, est réputé, aux fins du paragraphe 10(1) de la Loi et des alinéas 10(6)b) et c), avoir été, pendant qu’il était ainsi engagé, employé dans la fonction publique si, dans le cas d’un adjoint de maître de poste d’un bureau à commission, le sous-ministre des Postes atteste, suivant le modèle prescrit par le ministre,
+	- **a)** qu’il n’était pas un employé personnel du maître de poste; et
+	- **b)** que son emploi comme adjoint du maître de poste était nécessaire pour assurer le fonctionnement du bureau conformément aux normes ordinaires du service postal, eu égard à la quantité de travail échéant au bureau de temps en temps.
+
+- **(4)** Un contributeur à qui s’applique le paragraphe (3) est réputé, aux fins qui y sont spécifiées, avoir reçu, à l’époque pertinente, un traitement au taux que le sous-ministre des Postes a attesté être le taux approprié de traitement payable au contributeur de temps à autre durant son emploi comme maître de poste d’un bureau à commission, ou comme adjoint d’un maître de poste de bureau à commission, conformément au barème pertinent des traitements en vigueur à l’époque où le contributeur a exercé son choix de compter le service ouvrant droit à pension visé par le paragraphe (3).
+
+- **(5)** La période de service ouvrant droit à pension au crédit d’une personne relativement à une période pour laquelle elle a choisi de contribuer au compte de pension de retraite pour avoir été employée, durant cette période, autrement qu’à plein temps comme maître de poste dans un bureau de poste à commission ou comme adjoint d’un maître de poste dans un bureau de poste à commission, correspond à la proportion de la période de son emploi comme tel maître de poste ou adjoint pour laquelle elle a choisi de contribuer au compte de pension de retraite que le taux de traitement au titre duquel elle a contribué ou elle contribue pour cette période représente par rapport au taux minimum de traitement qui, à l’époque où elle a formulé son choix, était autorisé pour un maître de poste ou adjoint de maître de poste qui, durant les heures ou périodes de son activité d’emploi était tenu de se consacrer constamment à l’accomplissement des fonctions de son poste.
+
+- **(6)** Lorsqu’un employé qui est normalement employé à plein temps dans une position pendant seulement une partie de l’année est, à cause du caractère saisonnier de son emploi, engagé autrement qu’à plein temps dans sa position, l’employé est censé durant cette autre période
+	- **a)** avoir été employé à plein temps; et
+	- **b)** avoir touché le traitement qu’il aurait touché s’il avait effectivement été engagé, durant cette autre période, dans sa position à plein temps.
+
+- **(7)** Lorsqu’un contributeur qui est normalement employé à plein temps dans une position durant l’année est, à cause d’un congé d’étude, engagé autrement qu’à plein temps pour toute autre période durant l’année ou durant toute l’année et qui, durant cette autre période ou durant toute l’année, touche une partie de la rémunération normale de l’emploi à plein temps dans sa position, le contributeur est censé durant cette période ou cette année-là
+	- **a)** avoir été employé à plein temps; et
+	- **b)** avoir touché le traitement qu’il aurait touché s’il avait effectivement été engagé, durant cette autre période ou durant cette année-là, dans sa position à plein temps.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**36.1** Pour l’application de l’article 13 de la Loi, lorsque le service ouvrant droit à pension que le contributeur compte à son crédit comprend du service à titre d’employé à temps partiel, la mention « employé dans la fonction publique à plein temps » à la division 13(1)c)(ii)(C) de la Loi vaut mention de « employé dans la fonction publique à plein temps ou à temps partiel ».
+> DORS/94-483, art. 7.
+
+
+
+
+
+### Paiements à la veuve et aux enfants
+
+
+**37** Lorsqu’un enfant naît d’un contributeur après que le contributeur a cessé d’être employé dans la fonction publique, l’enfant n’a pas droit à une allocation en vertu de la Loi, sauf
+- **a)** si le contributeur a cessé d’être employé pour cause de décès, l’enfant étant posthume; et
+- **b)** si, le contributeur ayant cessé d’être employé pour autre cause que décès, il appert au ministre que l’enfant est né à la suite d’une grossesse commencée avant la date où le contributeur cesse d’être employé.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**38** 
+
+- **(1)** Aux fins de l’alinéa 11(7)b) de la Loi ***fréquenter à plein temps une école ou une université*** signifie fréquenter à plein temps une école, un collège, une université ou tout autre établissement d’enseignement qui dispense une formation ou un enseignement de nature éducative, spécialisée, professionnelle ou technique, et un enfant sera considéré comme fréquentant ou ayant fréquenté à plein temps une école ou une université à peu près sans interruption
+	- **a)** pendant une absence pour des raisons de vacances scolaires
+		- **(i)** si, immédiatement après ces vacances, il commence ou continue à fréquenter une école ou une université à plein temps pendant l’année scolaire suivante,
+		- **(ii)** si le Directeur a pu déterminer que l’enfant ne peut pas se conformer au sous-alinéa (i) en raison de maladie ou de toute autre cause que le Directeur considère raisonnable, s’il commence ou continue à fréquenter, à plein temps, une école ou une université, en tout temps au cours de l’année scolaire, immédiatement après la fin des vacances scolaires, ou
+		- **(iii)** s’il a été établi par le Directeur que l’enfant ne peut pas se conformer au sous-alinéa (ii), s’il commence ou continue à fréquenter à plein temps, une école ou université, au cours de l’année scolaire qui suit celle qui est mentionnée au sous-alinéa (i); et
+	- **b)** pendant une absence qui a lieu au cours d’une année scolaire en raison de maladie ou de toute autre cause que le Directeur considère raisonnable, si, immédiatement après une telle absence, il commence ou continue à fréquenter, à plein temps, une école ou une université pendant cette année scolaire, ou si le Directeur a pu déterminer que l’enfant est dans l’impossibilité de le faire, s’il commence ou continue à fréquenter à plein temps l’école ou l’université au cours de l’année scolaire suivante.
+
+- **(2)** Si l’absence d’un enfant, en raison de maladie, débute après qu’il a entrepris une année scolaire et s’il a été déterminé par le Directeur, de façon satisfaisante, qu’en raison d’une telle maladie, il n’est pas possible pour l’enfant de continuer à fréquenter, à plein temps, l’école ou l’université, cet enfant sera, nonobstant l’alinéa (1)b), considéré comme ayant fréquenté à plein temps, à peu près sans interruption, une école ou une université jusqu’à la fin de l’année scolaire.
+
+- **(3)** Si un enfant décède alors qu’il était absent de l’école ou de l’université, en raison de maladie ou de toute autre cause que le Directeur considère raisonnable, l’enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquenté à plein temps, à peu près sans interruption, l’école ou l’université
+	- **a)** jusqu’à son décès, s’il a eu lieu au cours de l’année scolaire pendant laquelle l’absence a débuté; ou
+	- **b)** jusqu’à la fin de l’année scolaire au cours de laquelle l’absence a débuté, si le décès a eu lieu après l’année scolaire en question.
+
+- **(4)** Si un enfant cesse d’être un enfant tel que le définit l’alinéa 11(7)b) de la Loi, alors qu’il est absent
+	- **a)** au cours d’une année scolaire, pour raison de santé ou toute autre raison que le Directeur considère comme raisonnable, ou
+	- **b)** au cours de vacances scolaires,
+cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquenté, à plein temps, une école ou une université à peu près sans interruption, jusqu’au moment où il cesse d’être un enfant si, immédiatement après une telle absence,
+	- **c)** dans le cas d’une absence mentionnée à l’alinéa a), il commence ou continue à fréquenter, à plein temps, une école ou une université au cours de cette même année scolaire ou lorsque le Directeur détermine que cet enfant n’est pas en mesure de le faire, il commence ou continue la fréquentation à plein temps au cours de l’année scolaire suivante; ou
+	- **d)** dans le cas d’une absence mentionnée à l’alinéa b), il commence ou continue à fréquenter, à plein temps, une école ou une université au cours de l’année scolaire suivante.
+
+
+
+**39** 
+
+- **(1)** Il sera présenté au Directeur, à l’appui de chaque réclamation selon laquelle un enfant âgé de 18 ans ou plus
+	- **a)** est ou a été inscrit à un cours exigeant la présence à plein temps, à peu près sans interruption, à une école ou une université, une déclaration en la forme prescrite par le Directeur, signée par un fonctionnaire responsable de cette école ou de cette université, certifiant son inscription; et
+	- **b)** fréquente ou a fréquenté pendant une période de temps, à plein temps, une école ou une université, à peu près sans interruption, une déclaration de fréquentation en la forme prescrite par le Directeur, signée par l’enfant en question.
+
+- **(2)** Dans le présent article et l’article 38, Directeur signifie le Directeur — Direction des pensions de retraite du ministère des Approvisionnements et Services.
+
+
+
+**40** 
+
+- **(1)** Lorsque l’âge d’un contributeur,
+	- **a)** dans le cas d’une personne qui était, immédiatement avant le 15 juillet 1971 et a continué de l’être jusqu’au jour de sa mort, un employé de la Société canadienne des ports à qui le régime de pension de la Société s’appliquait, qui s’est marié après le 21 mai 1943, ou,
+	- **b)** dans le cas de toute autre personne qui s’est mariée après le 19 juillet 1924,
+dépasse de 20 ans ou plus l’âge de son épouse, l’allocation à laquelle celle-ci peut avoir droit en vertu de la Loi à titre de veuve du contributeur doit être réduite de telle sorte que la proportion que l’allocation réduite représente par rapport à l’allocation soit égale à la proportion que la valeur d’une rente viagère de 1 $ par année pour une personne ayant 20 ans de moins que le contributeur, lorsque celui-ci est décédé, représente par rapport à la valeur d’une rente viagère de 1 $ par année pour une personne de l’âge de la veuve à ladite date.
+
+- **(2)** Aux fins du paragraphe (1), le calcul de la valeur d’une rente viagère de 1 $ par année se fait d’après la table a(f) Ultimate avec intérêt à quatre pour cent l’an.
+
+
+
+
+### Contributeur coupable d’acte criminel
+
+
+**41** Lorsqu’un contributeur est déclaré coupable d’un acte criminel commis pendant son emploi dans la fonction publique et constituant, de l’avis du Conseil du Trésor, inconduite dans l’exercice de ses fonctions, toute pension ou allocation annuelle payable selon la Loi au contributeur ou pour son compte doit être réduite du montant que le Conseil du Trésor juge approprié.
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Employés transférés de Terre-Neuve ayant droit à pension
+
+
+**42** 
+
+- **(1)** Lorsqu’un contributeur auquel s’applique le paragraphe 23(2) de la Loi a cessé ou cesse d’être employé dans la fonction publique avant d’avoir atteint l’âge de 60 ans pour toute autre raison que l’invalidité ou la suppression de poste, le montant de toute prestation payable au contributeur en vertu de la Loi, autre qu’un remboursement de cotisations, doit être ajusté jusqu’à ce qu’il atteigne l’âge de 60 ans de façon qu’il ne lui soit payable que la proportion de la prestation à laquelle il aurait droit s’il n’était pas un employé transféré de Terre-Neuve ayant droit à pension, que son service canadien représente par rapport à l’ensemble de son service ouvrant droit à pension.
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas lorsqu’un contributeur visé par le paragraphe 23(2) de la Loi a cessé ou cesse d’être employé dans la fonction publique après le 30 août 1977, ayant atteint l’âge de 55 ans et ayant à son crédit 30 années de service ouvrant droit à pension.
+
+- **(2)** Dans le présent article,
+
+***service canadien*** désigne toute période de service, autre que le temps passé au service de Terre-Neuve, qui peut être compté comme service ouvrant droit à pension aux fins de la Loi; (*Canadian service*)
+
+***suppression de poste*** a le même sens que dans la Loi de Terre-Neuve. (*abolition of post*)
+
+- **(3)** Lorsqu’une personne visée au paragraphe (1) a choisi ou choisit, en vertu du paragraphe 3(1) de la loi intitulée The Civil Service (Transferred Employees) Act, 1956 of Newfoundland ou en vertu du paragraphe 3(1) de la loi intitulée The Civil Service Transferred Employees Act, 1978 of Newfoundland, de recevoir la pension prévue à l’alinéa b) dudit paragraphe, il lui est payé, au titre de son service auprès du gouvernement de Terre-Neuve et en plus de tout autre montant auquel elle a droit en vertu de la Loi, une fraction de la pension qui se rapporte au temps passé au service de Terre-Neuve et qui lui aurait été payable si elle avait pris sa retraite à l’âge de 60 ans, cette fraction devant être déterminée ainsi qu’il suit :
+	- **a)** le numérateur correspond à la période de service ouvrant droit à pension, à son crédit; et
+	- **b)** le dénominateur correspond au total formé
+		- **(i)** de la période de service ouvrant droit à pension, à son crédit, et
+		- **(ii)** du nombre d’années qui, au moment où il cesse d’être employé dans la fonction publique, lui manquent pour atteindre l’âge de 60 ans.
+> DORS/79-499, art. 1; DORS/93-450, art. 11(F).
+
+
+
+
+
+### Droit à des prestations pour invalidité
+
+
+**42.1** 
+
+- **(1)** Malgré les articles 12 et 13 de la Loi, le contributeur n’a le droit de recevoir, en raison de son invalidité, les prestations prévues par la partie I de la Loi que s’il souffre d’une incapacité physique ou mentale :
+	- **a)** qui l’empêche d’occuper un emploi dont il est raisonnable de croire qu’il est approprié compte tenu de ses études, de sa formation ou de son expérience;
+	- **b)** dont il est raisonnable de croire qu’il en souffrira toute sa vie.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la personne qui était invalide au 31 décembre 1995, tant que dure son invalidité.
+> DORS/96-18, art. 5.
+
+
+
+
+
+### Examens médicaux
+
+
+**43** 
+
+- **(1)** Tout examen médical visé aux articles 43.1 à 43.3 est effectué par un médecin autorisé par licence ou autrement à exercer la médecine là où a lieu l’examen.
+
+- **(2)** L’examen médical visé à l’article 43.1 doit permettre d’obtenir les renseignements demandés dans les formulaires NHW 365 ou NHW-SNBS 366 du ministère de la Santé nationale et du Bien-être social, lesquels renseignements doivent être consignés par écrit conformément à ces formulaires.
+
+- **(3)** L’examen médical visé aux articles 43.2 ou 43.3 doit permettre d’obtenir les renseignements demandés dans les formulaires suivants, lesquels renseignements doivent être consignés par écrit conformément à ces formulaires :
+	- **a)** les formulaires NHW 365 ou NHW-SNBS 366 du ministère de la Santé nationale et du Bien-être social;
+	- **b)** le formulaire prévu à l’annexe VII.
+
+- **(4)** Les formulaires visés aux paragraphes (2) et (3) sont présentés, une fois remplis, à la Direction générale des services médicaux du ministère de la Santé nationale et du Bien-être social.
+> DORS/94-623, art. 1.
+
+
+
+
+**43.1** 
+
+- **(1)** Sous réserve du paragraphe (2), l’examen médical exigé aux paragraphes 31(1) ou (3) de la Loi, aux fins d’un choix, a lieu au plus tôt 90 jours avant l’exercice du choix et au plus tard six mois après l’exercice de ce choix.
+
+- **(2)** Une personne qui, sans faute de sa part, n’a pas subi l’examen médical exigé par les paragraphes 31(1) ou (3) de la Loi dans le délai prévu au paragraphe (1) peut le subir dans les 30 jours suivant la réception d’un avis écrit du ministre l’informant qu’un examen médical est requis.
+
+- **(3)** Une personne subit avec succès l’examen médical visé à l’article 31 de la Loi lorsque le ministre reçoit un rapport, établi par le sous-ministre adjoint de la Direction générale des services médicaux du ministère de la Santé nationale et du Bien-être social à l’aide des renseignements contenus dans les formulaires visés à l’article 43, concluant que celle-ci :
+	- **a)** soit est capable d’exercer pendant cinq années sans interruption les fonctions qu’elle exerçait au moment de l’examen;
+	- **b)** soit a une espérance de vie normale.
+
+- **(4)** Lorsque le sous-ministre adjoint de la Direction générale des services médicaux détermine que les renseignements contenus dans un formulaire présenté aux termes de l’article 43 sont insuffisants pour établir le rapport visé au paragraphe (3) à l’égard d’une personne, il peut exiger que cette dernière subisse un autre examen médical pour que les renseignements nécessaires soient obtenus.
+
+- **(5)** Lorsqu’une personne ne subit pas l’examen médical exigé au paragraphe (4), il est déterminé, selon le cas :
+	- **a)** qu’elle n’a pas subi l’examen médical conformément au paragraphe 31(1) de la Loi;
+	- **b)** que, pour l’application du paragraphe 31(3) de la Loi, elle n’a pas passé l’examen médical.
+> DORS/94-623, art. 1.
+
+
+
+
+**43.2** 
+
+- **(1)** Pour l’application de la partie I de la Loi, le contributeur qui, en raison de son invalidité, prétend avoir droit à une allocation de cessation en espèces ou à une pension immédiate prévue par la Loi est tenu de se soumettre à un examen médical pour que soit confirmé :
+	- **a)** dans le cas d’un contributeur visé au paragraphe 42.1(2), le fait qu’il est invalide;
+	- **b)** dans le cas de tout autre contributeur, le fait qu’il satisfait aux exigences du paragraphe 42.1(1).
+
+- **(2)** Pour l’application de la partie I de la Loi, le contributeur est déclaré comme ayant droit, en raison de son invalidité, aux prestations prévues par la partie I de la loi si le ministre reçoit un rapport établi par le sous-ministre adjoint de la Direction générale des services médicaux du ministère de la Santé nationale et du Bien-être social à l’aide des renseignements contenus dans les formulaires visés à l’article 43, qui confirme :
+	- **a)** dans le cas d’un contributeur visé au paragraphe 42.1(2), qu’il est invalide;
+	- **b)** dans le cas de tout autre contributeur, qu’il satisfait aux exigences du paragraphe 42.1(1).
+
+- **(3)** Lorsque le sous-ministre adjoint de la Direction générale des services médicaux décide qu’il est impossible, sans plus de renseignements, d’établir le rapport visé au paragraphe (2), le contributeur est tenu de se soumettre à un autre examen médical afin que les renseignements nécessaires soient obtenus.
+
+- **(4)** Le contributeur qui ne subit pas l’examen médical exigé au paragraphe (3) est déclaré ne pas être invalide pour l’application de la partie I de la Loi.
+> DORS/94-623, art. 1; DORS/96-18, art. 6.
+
+
+
+
+**43.3** 
+
+- **(1)** Un contributeur visé au paragraphe 42.1(2) qui est âgé de moins de 60 ans, qui a été déclaré invalide ou satisfait aux exigences du paragraphe 42.1(1) et qui reçoit en conséquence une pension immédiate prévue par la Loi est tenu de subir un autre examen médical pour établir s’il est toujours invalide ou satisfait toujours aux exigences du paragraphe 42.1(1) :
+	- **a)** dans le cas où il a été déclaré temporairement invalide, à la fin de la période, indiquée sur le formulaire prévu à l’annexe VII, après laquelle il a été prévu qu’il pourrait être en mesure de reprendre le travail;
+	- **b)** dans tous les cas, à la demande du ministre, lorsque celui-ci a des motifs de croire qu’il n’est plus invalide ou qu’il ne satisfait plus aux exigences du paragraphe 42.1(1).
+
+- **(2)** Le versement d’une pension immédiate au contributeur visé au paragraphe (1) ne se continue qu’à la condition qu’il subisse un examen médical exigé par ce paragraphe établissant qu’il est toujours invalide.
+
+- **(3)** Le versement de la pension immédiate du contributeur cesse si celui-ci ne subit pas l’examen médical dans les 90 jours suivant la fin de la période visée à l’alinéa (1)a) ou suivant la demande visée à l’alinéa b), selon le cas.
+> DORS/94-623, art. 1; DORS/96-18, art. 7.
+
+
+
+
+
+### Droits de succession
+
+
+**44** 
+
+- **(1)** Quand, au décès d’un contributeur, une allocation devient payable à un successeur, en vertu de la Loi, il peut être adressé au ministre, par le successeur ou en son nom, une demande par écrit de paiement, sur le compte de pension de retraite, de la totalité ou toute partie de la fraction des droits ou impôts sur les successions, legs ou héritages payables par le successeur qui est attribuable à ladite allocation, et, lorsque le ministre prescrit, en conformité de la demande, que la totalité ou toute partie de la fraction des droits ou impôts ainsi payables soit payée sur le compte de pension de retraite, la fraction maximum des droits ou impôts qui peut être ainsi payée est la proposition que
+	- **a)** la valeur de l’allocation payable au successeur
+représente par rapport à
+	- **b)** la valeur de l’ensemble de la succession aux fins de déterminer les droits ou impôts payables à cet égard.
+
+- **(2)** Lorsque le ministre fait une prescription conformément au paragraphe (1), si l’allocation payable au successeur est payable en versements mensuels, trimestriels, ou semi-annuels ou en un versement annuel, l’allocation doit être réduite soit pour une période, précisée par le successeur dans la demande faite conformément au paragraphe (1), soit pour la période entière durant laquelle l’allocation est payable quand le successeur ne précise aucune durée dans la demande prévue par le paragraphe (1),
+	- **a)** si l’allocation est payable en versements mensuels, de un douzième d’un montant,
+	- **b)** si l’allocation est payable en versements trimestriels, du quart d’un montant,
+	- **c)** si l’allocation est payable en versements semi-annuels, de la moitié d’un montant, et
+	- **d)** si l’allocation est payable annuellement, de la totalité d’un montant,
+qu’on détermine en divisant le montant des droits ou impôts sur les successions, legs ou héritages à payer sur le compte de pension de retraite par la valeur d’une rente de 1 $ par année, payable mensuellement, trimestriellement, semi-annuellement ou annuellement, selon la façon dont l’allocation est payable, à une personne ayant l’âge du successeur à la date de paiement des droits ou impôts sur le compte de pension de retraite calculée,
+	- **e)** dans le cas d’une allocation payable à la veuve du contributeur, suivant la table a(f) Ultimate avec intérêt à quatre pour cent l’an; et
+	- **f)** dans le cas d’une allocation payable à un enfant du contributeur, à un taux d’intérêt de quatre pour cent l’an, la mortalité n’entrant pas en ligne de compte.
+
+- **(3)** Lorsque l’allocation d’un successeur doit être ou est réduite en vertu du présent article et que le successeur, étant la veuve d’un contributeur, se remarie et demande que le paiement prévu par le paragraphe 13(2) de la Loi soit fait à elle, le paiement sera réduit de la valeur actuelle des déductions qui auraient été faites sur l’allocation, si l’allocation avait continué d’être payable de la même manière qu’elle l’était avant son remariage.
+
+- **(4)** Aux fins du paragraphe (3), ***la valeur actuelle des déductions*** est la valeur actuelle d’une rente viagère du montant de la déduction calculée en fonction de l’âge de la veuve à la date de son remariage, conformément à la table *a(f)* Ultimate avec intérêt à quatre pour cent l’an.
+
+- **(5)** Lorsque l’allocation d’un successeur doit être ou est, en vertu du présent article, réduite pour un terme et que le successeur, étant la veuve d’un contributeur, se remarie avant l’expiration du terme et que l’allocation est suspendue, celle-ci sera, si à quelque époque elle est reprise, réduite pour un terme égal au terme ou au restant du terme, selon le cas, durant lequel elle aurait été réduite si elle n’avait pas été suspendue, et la réduction sera faite au même degré et de la même façon que l’allocation a été réduite immédiatement avant sa suspension.
+> DORS/93-450, art. 11(F).
+
+
+
+
+
+### Dispositions diverses
+
+
+**45** À compter de l’exercice se terminant le 31 mars 2002, le rapport annuel visé à l’article 46 de la Loi comprend les états financiers du régime prévu par celle-ci, lesquels sont préparés conformément aux conventions comptables de l’administration fédérale énoncées pour le régime qui sont basées sur les principes comptables généralement reconnus.
+> DORS/2002-393, art. 1.
+
+
+
+
+**46** 
+
+- **(1)** Pour l’application de l’alinéa 44(1)c) de la Loi, l’intérêt de chaque trimestre de chaque année financière sera calculé au dernier jour de juin, septembre, décembre et mars sur le solde figurant au crédit du compte de pension de retraite le dernier jour du trimestre précédent.
+
+- **(2)** Le taux qui doit être utilisé pour le calcul de l’intérêt aux termes du paragraphe (1) à l’égard de quelque trimestre que ce soit, est celui qui produirait un montant d’intérêt équivalent au montant d’intérêt qu’aurait produit au cours de ce trimestre l’ensemble des soldes créditeurs des comptes de pension de retraite tenus en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), si l’excédent trimestriel était investi
+	- **a)** dans le cas de tout excédent trimestriel ultérieur au 31 décembre 1965, la moyenne des taux d’intérêt que le ministre des Finances peut fixer ou avoir fixés pour les mois dudit trimestre, en vertu du paragraphe 111(2) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md); et
+	- **b)** dans le cas de tout excédent trimestriel antérieur au trimestre prenant fin le 31 mars 1966, la moyenne des taux d’intérêt fixés par le ministre des Finances pour les mois dudit trimestre, comme si le paragraphe 111(2) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) avait été en vigueur.
+
+- **(3)** Le ministre fait publier dans la Gazette du Canada, au moins une fois par exercice, un avis du taux devant servir au calcul de l’intérêt visé au paragraphe (1).
+
+- **(4)** Dans le présent article, ***excédent trimestriel*** désigne
+	- **a)** la somme des montants crédités aux comptes de pension de retraite tenus en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), durant tout trimestre de l’année financière
+moins
+	- **b)** les paiements imputés à ces comptes au cours du trimestre
+plus
+	- **c)** la somme de tous montants crédités à ces comptes, après déduction des paiements qui ont pu leur être imputés au cours de tout trimestre correspondant d’une année financière antérieure de 20 ans, ou de tout multiple de 20 ans, au trimestre dont il est question à l’alinéa a).
+> DORS/93-450, art. 9, 11(F) et 12.
+
+
+
+
+**47** Le ministre peut, en tout cas où il estime la chose nécessaire ou utile aux fins de l’application de la Loi ou du présent règlement, requérir toute personne de lui présenter une déclaration statutaire énonçant les faits que le ministre juge pertinents en l’espèce.
+
+
+
+**48** 
+
+- **(1)** Pour l’application de la Loi, l’âge doit, sous réserve du paragraphe (2), être établi par la preuve suivante :
+	- **a)** un certificat de naissance délivré par l’autorité civile appropriée; ou
+	- **b)** un certificat de baptême, délivré par l’autorité religieuse appropriée, indiquant que le baptême a eu lieu dans les cinq ans de la date de naissance.
+
+- **(2)** Au cas où la preuve mentionnée au paragraphe (1) qui est requise pour établir l’âge du contributeur, ne peut être obtenue par celui-ci, l’âge du contributeur peut être établi ainsi qu’il suit :
+	- **a)** preuve quant à l’âge dans une des formes suivantes :
+		- **(i)** un document, établi dans les cinq ans de la date de naissance du contributeur, indiquant le nom et la date de naissance ou l’âge du contributeur ou une copie ou un extrait conforme dudit document,
+		- **(ii)** deux documents s’accordant quant au mois et à l’année de naissance du contributeur et indiquant le nom et la date de naissance ou l’âge du contributeur, ou des copies ou extraits conformes desdits documents, à l’égard desquels
+			- **(A)** l’un des documents doit remonter à au moins 20 ans, à l’époque où ce document ou une copie ou un extrait conforme de ce document est pris en considération par le ministre aux fins d’établir l’âge du contributeur et, sauf dans le cas d’une page de la Bible familiale, le document doit être en totalité ou en partie sous forme imprimée, et
+			- **(B)** l’autre document
+				- **(I)** doit, à moins qu’il ne s’agisse d’une déclaration assermentée ou statutaire, remonter à au moins 10 ans, à l’époque où ce document est pris en considération par le ministre aux fins d’établir l’âge du contributeur,
+				- **(II)** ne doit pas être un état d’emploi dans la fonction publique, ni une formule prescrite par le ministre en vertu de la présente Loi ou de la Loi sur la pension de retraite, et
+				- **(III)** doit être, dans le cas d’une déclaration assermentée ou statutaire, établi par le père ou la mère, un frère ou une soeur du contributeur ou quelque autre personne ayant connaissance des circonstances pertinentes de la naissance du contributeur, ou
+		- **(iii)** toute autre preuve relative à l’âge que le ministre peut prescrire conformément au paragraphe (6);
+	- **b)** preuve relative à l’impossibilité d’obtenir l’un ou l’autre des certificats mentionnés au paragraphe (1) sous forme
+		- **(i)** de lettre de l’autorité appropriée indiquant que des recherches ont été entreprises en vain pour trouver un certificat de naissance, ou
+		- **(ii)** d’état exposant, à la satisfaction du ministre, pourquoi il ne serait pas pratique d’entreprendre des recherches pour trouver l’un quelconque des certificats mentionnés au paragraphe (1); et
+	- **c)** état, en une forme prescrite par le ministre, attestant la force probante de la preuve mentionnée aux alinéas a) et b) et assermenté ou certifié par la personne présentant la preuve.
+
+- **(3)** Un contributeur doit, sur mise en demeure du ministre, produire une preuve quant à son âge
+	- **a)** au moment où il choisit un mode de paiement par versements pour une période de service prévue à l’article 5 de la Loi,
+	- **b)** au moment de l’expiration d’une période de cinq années continues à titre de contributeur au compte de pension de retraite, ou
+	- **c)** au moment où il atteint l’âge de 55 ans,
+suivant celle des éventualités qui survient en premier lieu.
+
+- **(4)** Nonobstant toute disposition du présent règlement,
+	- **a)** si, dans le cas de l’alinéa (3)a), un contributeur omet de fournir une preuve d’âge ainsi qu’il est prévu au présent article dans l’année qui suit la date de la première mise en demeure du ministre à cet effet, la valeur capitalisée de tous versements alors payables deviendra due et exigible et, à défaut de paiement dans les 30 jours, le choix sera censé avoir été révoqué quant aux futurs paiements; et
+	- **b)** si, dans le cas de l’alinéa (3)b) ou c), un contributeur omet de fournir une preuve d’âge ainsi qu’il est prévu au présent article dans l’année qui suit la date de la première mise en demeure du ministre à cet effet, aucune prestation ne sera payée au contributeur, sauf que
+		- **(i)** si le contributeur a droit seulement au remboursement des contributions, elles lui seront payables,
+		- **(ii)** si, d’après les écritures dont dispose l’organisme qui l’emploie, le contributeur est donné comme étant âgé de moins de 55 ans et a choisi une prestation en un paiement forfaitaire, elle lui sera payable, et
+		- **(iii)** si le contributeur a droit à une prestation autre qu’en un paiement forfaitaire, elle lui sera payée, à l’époque où elle deviendrait normalement payable, en mensualités établies par le ministre jusqu’à épuisement du montant qu’il a versé au compte de pension de retraite ou production de la preuve exigée par le ministre, alors que la prestation normale à laquelle le contributeur a droit sera établie.
+
+- **(5)** Un avis adressé au contributeur par le ministre,
+	- **a)** par écrit, et
+	- **b)** établissant clairement les exigences du ministre,
+constitue une mise en demeure au sens des paragraphes (3) et (4).
+
+- **(6)** Lorsque le ministre est convaincu qu’un contributeur est incapable d’obtenir une preuve quant à son âge, suivant les prescriptions du paragraphe (1) ou des alinéas (2)a) et b), le ministre peut
+	- **a)** prescrire toute autre preuve qu’il juge suffisante que le contributeur devra fournir pour prouver son âge; et
+	- **b)** prolonger le délai prescrit au paragraphe (3) ou (4) dans lequel cette preuve doit être produite.
+> DORS/93-450, art. 11(F).
+
+
+
+
+**49** 
+
+- **(1)** Pour l’application de la Loi, une preuve *prima facie* de la qualité de veuve d’un contributeur du sexe masculin consiste dans la preuve du mariage de la personne en question et du contributeur, sous forme d’un certificat de mariage délivré par l’autorité appropriée, soit religieuse, soit civile, indiquant que la personne a été mariée au contributeur, ou, si cette preuve ne peut être obtenue, dans toute autre preuve de mariage que le ministre peut prescrire.
+
+- **(2)** Lorsque, de l’avis du ministre, il est nécessaire d’établir l’âge de la veuve d’un contributeur,
+	- **a)** les paragraphes 48(1), (2), (5) et (6) s’appliqueront *mutatis mutandis*; et
+	- **b)** la veuve, si la preuve ainsi requise n’est pas présentée dans l’année qui suit la mise en demeure, est censée, pour l’application de la présente Loi, être plus jeune que le contributeur du nombre d’années que le Conseil du Trésor peut déterminer.
+
+- **(3)** En cas de doute, le ministre peut exiger que la personne qui prétend être la veuve d’un contributeur fournisse tout document comme une déclaration statutaire, un certificat de mariage ou une copie d’un décret irrévocable, s’il y a lieu, à l’appui de la prétention de cette personne d’être la veuve du contributeur.
+
+- **(4)** Sous réserve du paragraphe 13(4) de la Loi, si, dans l’année qui suit le décès d’un contributeur, la personne qui prétend être sa veuve ne peut prouver qu’elle l’est, de la manière prescrite par le paragraphe (1), le contributeur sera censé, pour l’application de la Loi, être décédé sans laisser de veuve.
+
+
+
+
+## Contrôleurs de la circulation aérienne
+
+
+
+### Service opérationnel
+
+
+**50** 
+
+- **(1)** Aux fins de la définition de ***service opérationnel*** prévue à l’article 12.11 de la Loi, sont désignés comme service opérationnel, les genres de service suivants :
+	- **a)** un emploi au sein de la fonction publique pendant lequel une personne qui est contributeur le 1<sup>er</sup> avril 1976 ou après cette date,
+		- **(i)** remplit des fonctions, comportant ou non de la surveillance, dont l’exercice exige la possession d’un permis de contrôleur de la circulation aérienne, valide et médicalement valable, ou une lettre d’autorisation émise par le ministère des Transports,
+		- **(ii)** [Abrogé, DORS/85-285, art. 1]
+		- **(iii)** remplit le poste de coordonnateur des systèmes de données au ministère des Transports depuis une date antérieure au 1<sup>er</sup> juillet 1980, ou
+		- **(iv)** reçoit une formation pour l’une ou l’autre des fonctions visées aux sous-alinéas (i), (ii) ou (iii), à l’exception de toute période de formation suivie pour devenir contrôleur de la circulation aérienne à une école centrale de formation en contrôle de la circulation aérienne, à moins que la formation n’ait eu lieu avant l’établissement des écoles de formation;
+	- **b)** toute période pendant laquelle un contributeur qui remplit des fonctions ou qui reçoit une formation aux termes de l’alinéa a) s’en absente
+		- **(i)** pour suivre des cours de langue, ou
+		- **(ii)** pour prendre un congé autorisé payé ou non payé d’une période de moins de six mois,
+si le contributeur reprend lesdites fonctions ou ladite formation immédiatement après son absence;
+	- **c)** toute période de moins de six mois durant laquelle un contributeur occupe, au sein de la fonction publique un emploi non visé à l’alinéa a), si l’emploi qu’il a occupé immédiatement avant et après cet emploi est d’un genre visé à l’alinéa a); et
+	- **d)** toute période d’emploi au sein de la fonction publique antérieure au 1<sup>er</sup> avril 1985 pendant laquelle un contributeur — qui l’était le 1<sup>er</sup> avril 1976 ou après cette date — remplissait le poste de surveillant immédiat d’un employé non-surveillant visé au sous-alinéa a)(i), auquel il avait été nommé au plus tard le 30 septembre 1981.
+
+- **(2)** Par dérogation aux alinéas (1)b) et c), le service visé à ces alinéas, par un contributeur qui ne revient pas au service opérationnel en vertu de l’application de l’article 52, est considéré un service opérationnel.
+
+- **(2.2)** Lorsqu’une autorité compétente ordonne qu’une personne visée à l’alinéa (1)a) qui a été relevée de l’une des fonctions mentionnées aux sous-alinéas (1)a)(i), (iii) ou (iv) soit réintégrée dans ces fonctions, la période commençant le jour où cette dernière est relevée de ces fonctions et se terminant le jour où sa réintégration est ordonnée, ou toute période plus courte stipulée dans l’ordre, est considérée comme service opérationnel.
+
+- **(3)** Sous réserve des articles 27 et 28, la date officielle du début ou de la fin du service opérationnel d’un contributeur est celle stipulée dans l’avis écrit adressé au ministre par le sous-chef du ministère des Transports.
+> DORS/81-866, art. 2; DORS/85-285, art. 1; DORS/93-450, art. 11(F); DORS/94-483, art. 8(F).
+
+
+
+
+
+### Contributions pendant un congé non payé
+
+
+**51** 
+
+- **(1)** Sous réserve du paragraphe 5.3(2) de la Loi, le contributeur en service opérationnel qui prend un congé non payé est tenu de verser au compte de pension de retraite, en plus de tout montant qu’il est tenu de verser selon l’article 7 :
+	- **a)** dans le cas d’un congé visé à l’alinéa 7(1)a) ou aux paragraphes 7(2) ou (3), un montant égal à ce qu’il aurait été tenu de verser en vertu de l’article 19 de la Loi s’il n’avait pas été absent; et
+	- **b)** dans tous les autres cas, un montant égal au double du montant des contributions qu’il aurait été tenu de verser en vertu de l’article 19 de la Loi s’il n’avait pas été absent.
+
+- **(2)** Les contributions que l’employé est tenu de verser en vertu du paragraphe (1) doivent être versées dans le même délai et de la même façon que celles exigées à l’article 7 et l’article 7 s’applique comme si les contributions exigées au paragraphe (1) étaient versées en vertu de l’article 7.
+
+- **(3)** Par dérogation au paragraphe (2), les contributions qu’est tenu de verser, en vertu du paragraphe (1), un contributeur en service opérationnel à qui s’applique le paragraphe 7.2(2) ou l’article 7.3 doivent être versées dans le même délai et de la même façon que celles exigées au paragraphe 7.2(2) ou à l’article 7.3, selon celui qui est applicable.
+
+- **(4)** Tout montant payable par un contributeur en vertu du présent article et non payé au moment où il cesse d’être employé de la fonction publique, doit être versé dans le même délai et de la même façon que le prescrit le paragraphe 7.2(4).
+> DORS/81-866, art. 2; DORS/93-450, art. 10, 11(F) et 12.
+
+
+
+
+
+### Cessation d’emploi non volontaire
+
+
+**52** Aux fins de l’article 12.13 de la Loi, un contributeur est réputé avoir cessé involontairement son emploi en service opérationnel dès que le sous-chef du ministère des Transports atteste
+- **a)** que l’employé est incapable de satisfaire aux exigences médicales inhérentes à la validation de son permis de contrôleur de la circulation aérienne ou de la lettre d’autorisation émise par le ministère des Transports;
+- **b)** que l’employé est incapable de conserver le niveau de compétence technique exigé; ou
+- **c)** que le retrait de l’employé du service opérationnel est nécessaire au maintien de sa santé physique ou mentale.
+> DORS/81-866, art. 2.
+
+
+
+
+
+## Service correctionnel du Canada
+
+
+
+### Service opérationnel
+
+
+**53** Pour l’application de la définition de ***service opérationnel*** à l’article 24.1 de la Loi et des articles 54 à 58, sont désignés comme service opérationnel :
+- **a)** tout service effectué par une personne qui est employée par le Service correctionnel du Canada et dont le principal lieu de travail n’est pas :
+	- **(i)** l’administration centrale ou une administration régionale du Service correctionnel du Canada,
+	- **(ii)** les bureaux du commissaire du Service correctionnel du Canada,
+	- **(iii)** un collège du personnel du Service correctionnel du Canada ou tout autre établissement offrant une formation similaire aux employés de ce service;
+- **b)** toute période d’absence du service visé à l’alinéa a) :
+	- **(i)** d’une durée de moins de six mois, durant laquelle la personne est employée dans la fonction publique ailleurs que dans le Service correctionnel du Canada et à la fin de laquelle elle réintègre le service visé à l’alinéa a),
+	- **(ii)** d’une durée d’au plus deux ans, durant laquelle la personne demeure à l’emploi du Service correctionnel du Canada.
+> DORS/94-259, art. 1.
+
+
+
+
+**54** 
+
+- **(1)** Sous réserve du paragraphe (2), la personne qui a été affectée au service opérationnel qui constitue du service ouvrant droit à pension durant une ou plusieurs périodes totalisant au moins 10 ans et qui cesse d’y être affectée tout en demeurant employée du Service correctionnel du Canada est réputée affectée au service opérationnel tant qu’elle reste ainsi employée, si elle en fait le choix avant le dernier en date des jours suivants :
+	- **a)** le 90<sup>e</sup> jour suivant la cessation de son affectation au service opérationnel;
+	- **b)** le 90<sup>e</sup> jour suivant celui où l’avis du sous-ministre confirmant la date de la cessation de son affectation au service opérationnel est envoyé à la personne.
+
+- **(2)** Le total des périodes de service opérationnel qui constitue du service ouvrant droit à pension visé au paragraphe (1) ne comprend :
+	- **a)** aucune période d’absence visée au sous-alinéa 53b)(i);
+	- **b)** ni la fraction d’une période d’absence visée au sous-alinéa 53b)(ii) qui excède six mois.
+
+- **(3)** Le choix visé au paragraphe (1) prend effet le lendemain du jour où la personne cesse d’être affectée au service opérationnel; il est irrévocable.
+> DORS/94-259, art. 1.
+
+
+
+
+
+### Contributions supplémentaires
+
+
+**55** 
+
+- **(1)** Sous réserve du paragraphe (2), la contribution que la personne visée au paragraphe 24.4(1) de la Loi est tenue de verser au compte de pension de retraite aux termes de ce paragraphe est égale à 1,25 pour cent de son traitement.
+
+- **(2)** Lorsque la personne visée au paragraphe 24.4(1) de la Loi est absente en congé non payé, elle est tenue de verser au compte de pension de retraite, en sus de tout montant payable aux termes de l’article 7 :
+	- **a)** à l’égard des trois premiers mois de la période d’absence, la contribution prévue au paragraphe (1);
+	- **b)** à l’égard du reliquat de la période d’absence pour lequel elle n’a pas effectué le choix visé au paragraphe 5.3(2) de la Loi :
+		- **(i)** dans le cas où elle est absente dans les circonstances visées aux paragraphes 7(2) ou (3), la contribution prévue au paragraphe (1),
+		- **(ii)** dans tout autre cas, le double de la contribution prévue au paragraphe (1).
+> DORS/94-259, art. 1.
+
+
+
+
+**56** Pour l’application du paragraphe 24.4(2) de la Loi, les catégories de personnes auxquelles le paragraphe 24.4(1) de la Loi ne s’applique pas sont les suivantes :
+- **a)** les personnes qui, à la date d’entrée en vigueur de l’article 24.4 de la Loi, auraient eu droit à une pension immédiate en vertu de l’alinéa 13(1)a) ou du sous-alinéa 13(1)c)(i) de la Loi si elles avaient cessé d’être employées dans la fonction publique à cette date;
+- **b)** les personnes qui étaient ou sont âgées de 35 ans ou plus au moment de leur affectation au service opérationnel et à l’égard desquelles la différence entre l’âge en années et la somme des nombres suivants est égale ou supérieure à 35 :
+	- **(i)** le nombre d’années de service opérationnel qui constitue du service ouvrant droit à pension porté à leur crédit,
+	- **(ii)** le nombre d’années correspondant à toute période antérieure de service opérationnel à l’égard de laquelle elles peuvent choisir de contribuer aux termes de la division 6(1)b)(iii)(I) de la Loi;
+- **c)** les personnes qui, au moment de leur affectation au service opérationnel :
+	- **(i)** étaient ou sont âgées d’au moins 30 ans mais de moins de 35 ans,
+	- **(ii)** comptaient ou comptent à leur crédit au moins cinq ans de service ouvrant droit à pension qui ne constitue pas du service opérationnel.
+> DORS/94-259, art. 1.
+
+
+
+
+**57** 
+
+- **(1)** Pour l’application des articles 24.2 et 24.3 de la Loi, le service opérationnel qu’une personne a effectué depuis la date d’entrée en vigueur de ces articles et pour lequel elle exerce un choix en vertu de l’article 6 de la Loi ne peut constituer du service ouvrant droit à pension porté à son crédit que si, pendant qu’elle est employée dans le service opérationnel, elle choisit en outre de verser au compte de pension de retraite la contribution supplémentaire déterminée conformément au paragraphe (2), ainsi que les intérêts au sens du paragraphe 7(2) de la Loi.
+
+- **(2)** La contribution supplémentaire mentionnée au paragraphe (1) est égale au montant que la personne aurait été tenue de verser aux termes de l’article 55 à l’égard du service opérationnel antérieur visé à ce paragraphe, calculé sur le traitement autorisé à lui être payé :
+	- **a)** à la date du début de sa dernière affectation au service opérationnel, si elle choisit de contribuer dans l’année suivant le début de cette affectation;
+	- **b)** à la date où elle a choisi de contribuer, dans tout autre cas.
+
+- **(3)** Le montant payable selon le paragraphe (1) est acquitté :
+	- **a)** soit en une somme forfaitaire au moment de l’exercice du choix mentionné au paragraphe (2);
+	- **b)** soit par versements sensiblement égaux retenus sur le traitement de la personne ou déduits de toute prestation qui lui est payable aux termes de la Loi.
+> DORS/94-259, art. 1; DORS/97-490, art. 5(F).
+
+
+
+
+
+### Pension immédiate ou allocation annuelle
+
+
+**58** 
+
+- **(1)** Pour l’application de l’article 24.2 de la Loi, la personne visée à cet article a le droit, à son choix, lors de la cessation de son emploi dans la fonction publique, de recevoir en remplacement des prestations auxquelles elle a droit en vertu du paragraphe 13(1) de la Loi à l’égard du service opérationnel :
+	- **a)** si elle est âgée de 50 ans ou plus au moment de la cessation de son emploi dans le service opérationnel et a à son crédit au moins 25 ans de service opérationnel qui constitue du service ouvrant droit à pension, une pension immédiate à l’égard de ce service;
+	- **b)** si elle est âgée de 45 ans ou plus au moment de la cessation de son emploi dans le service opérationnel et a à son crédit au moins 20 ans de service opérationnel qui constitue du service ouvrant droit à pension, une allocation annuelle à l’égard de ce service, payable immédiatement et égale au montant de la pension différée à laquelle elle a droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service, diminué du produit obtenu par la multiplication de cinq pour cent du montant de la pension différée par le plus élevé des nombres suivants :
+		- **(i)** 50 moins son âge en années lors de l’exercice de son choix, arrondi à un dixième d’année près,
+		- **(ii)** 25 moins le nombre d’années de service opérationnel ouvrant droit à pension, arrondi à un dixième d’année près.
+
+- **(2)** La personne visée à l’alinéa (1)a) qui n’exerce pas de choix sous le régime du paragraphe (1) ou du paragraphe 13(1) de la Loi dans l’année suivant la cessation de son emploi dans la fonction publique est réputée avoir choisi la pension immédiate selon le paragraphe (1).
+> DORS/94-259, art. 1.
+
+
+
+
+
+## Choix relatif à l’allocation au conjoint survivant
+
+
+**59** Les définitions qui suivent s’appliquent aux articles 60 à 79.
+
+***choix*** Le choix visé à l’article 13.1 de la Loi. (*election*)
+
+***conjoint*** Le conjoint visé à l’article 13.1 de la Loi. (*spouse*)
+
+***niveau de réduction*** À l’égard d’une pension immédiate, d’une allocation annuelle ou d’une pension différée, s’entend de l’un des trois montants calculés selon l’article 68, les niveaux un, deux et trois correspondant à la réduction nécessaire pour assurer au conjoint survivant une allocation annuelle immédiate égale respectivement à 30, 40 ou 50 pour cent de la pension visée à la division 68b)(ii)(A), interprétée comme si l’alinéa 68b) ne faisait pas mention des prestations supplémentaires payables en vertu de la partie III de la Loi. (*level of reduction*) 
+> DORS/94-194, art. 1.
+
+
+
+
+**60** Pour l’application de l’article 13.1 de la Loi, le contributeur peut choisir de réduire le montant de sa pension ou de son allocation annuelle dans le délai d’un an qui suit la dernière des dates suivantes :
+- **a)** la date d’entrée en vigueur du présent article;
+- **b)** la date de son mariage avec le conjoint;
+- **c)** la date à laquelle sa pension ou son allocation annuelle devient payable.
+> DORS/94-194, art. 1.
+
+
+
+
+**61** 
+
+- **(1)** Malgré l’article 60, le contributeur peut effectuer son choix après le délai qui y est prévu s’il a reçu d’une personne employée dans la fonction publique, dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils concernant le choix, des renseignements écrits :
+	- **a)** soit faux ou trompeurs au sujet du délai dans lequel il pouvait effectuer un choix;
+	- **b)** soit sensiblement faux ou trompeurs au sujet du montant de la réduction de sa pension ou de son allocation annuelle ou au sujet du montant de l’allocation annuelle immédiate à laquelle aurait droit son conjoint.
+
+- **(2)** Le choix visé au paragraphe (1) se fait dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements corrigés est envoyé au contributeur.
+> DORS/94-194, art. 1.
+
+
+
+
+**62** Le choix est effectué par écrit et :
+- **a)** indique le niveau de réduction de la pension ou de l’allocation annuelle du contributeur;
+- **b)** indique la date de naissance du conjoint du contributeur et la date de leur mariage;
+- **c)** est signé par le contributeur et un témoin, autre que le conjoint, et porte la date de la signature du contributeur.
+> DORS/94-194, art. 1.
+
+
+
+
+**63** 
+
+- **(1)** Le choix est envoyé au ministre ou à la personne qu’il a désignée, dans le délai prévu à l’article 60 ou au paragraphe 61(2), selon le cas.
+
+- **(2)** Le choix est effectué à la date où il est envoyé conformément au paragraphe (1).
+> DORS/94-194, art. 1; DORS/97-490, art. 6(A).
+
+
+
+
+**64** Le contributeur ou son mandataire doit, dans le délai d’un an suivant la date du choix, envoyer au ministre ou à la personne qu’il a désignée :
+- **a)** un document qui atteste la date de naissance du conjoint;
+- **b)** un document qui atteste le mariage du contributeur et du conjoint;
+- **c)** lorsque le nom du conjoint paraissant sur le document visé à l’alinéa a) diffère de celui figurant sur le document visé à l’alinéa b), tout autre document qui démontre qu’il s’agit de la même personne ou une déclaration solennelle du conjoint attestant qu’il est la personne visée par ces documents.
+> DORS/94-194, art. 1; DORS/97-490, art. 7(F).
+
+
+
+
+**65** 
+
+- **(1)** Malgré les articles 48 et 49 et sous réserve des paragraphes (2) et (3), pour l’application de l’article 13.1 de la Loi, la preuve de l’âge du conjoint du contributeur est établie par un certificat de naissance délivré par une autorité civile.
+
+- **(2)** Si le certificat visé au paragraphe (1) ne peut être obtenu, la preuve de l’âge du conjoint est établie par :
+	- **a)** d’une part, une déclaration solennelle du conjoint attestant sa date de naissance et indiquant les raisons pour lesquelles le certificat ne peut être obtenu;
+	- **b)** d’autre part :
+		- **(i)** soit un document, établi dans les cinq ans suivant la date de naissance du conjoint, indiquant son nom et sa date de naissance ou son âge,
+		- **(ii)** soit un document, établi au moins 20 ans avant la date du choix, indiquant la date de naissance du conjoint, lequel est accompagné de la déclaration solennelle d’une personne autre que le contributeur ou son conjoint attestant la date de naissance du conjoint.
+
+- **(3)** Lorsqu’un document ou une déclaration solennelle devant être fourni aux termes de l’alinéa (2)b) ne peut être obtenu, la déclaration solennelle exigée à l’alinéa (2)a) doit en exposer les raisons.
+> DORS/94-194, art. 1.
+
+
+
+
+**66** 
+
+- **(1)** Sous réserve du paragraphe (2), la preuve du mariage entre le contributeur et son conjoint est établie par un certificat de mariage délivré par une autorité civile.
+
+- **(2)** Si le certificat visé au paragraphe (1) ne peut être obtenu, la preuve du mariage est établie par :
+	- **a)** d’une part, une déclaration solennelle du contributeur ou de son conjoint attestant la date du mariage et indiquant les raisons pour lesquelles le certificat ne peut être obtenu;
+	- **b)** d’autre part, un document assimilable à un certificat de mariage qui se rapporte à la célébration du mariage ou une déclaration solennelle d’une personne autre que le contributeur ou son conjoint qui était présente à la célébration du mariage, attestant sa connaissance du mariage.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Défaut de fournir la preuve requise
+
+
+**67** Un choix est réputé ne pas avoir été effectué si un document ou une déclaration solennelle exigé aux articles 64 à 66 n’est pas fourni dans le délai d’un an suivant la date du choix.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Calcul de la réduction
+
+
+**68** 
+
+- **(1)** Le montant de la réduction des mensualités de la pension immédiate, de l’allocation annuelle ou de la pension différée du contributeur qui effectue un choix est égal au résultat de la série d’opérations suivantes :
+	- **a)** la valeur actuarielle actualisée de la pension immédiate, de l’allocation annuelle ou de la pension différée à laquelle le contributeur est admissible en vertu de la partie I de la Loi immédiatement avant le choix et des prestations supplémentaires payables à l’égard de cette pension ou allocation annuelle en vertu de la partie III de la Loi est calculée compte tenu des éléments suivants :
+		- **(i)** toute déduction effectuée ou à effectuer en vertu du paragraphe 11(2) de la Loi,
+		- **(ii)** la prestation minimale payable à titre de prestation consécutive au décès en vertu de l’article 27 de la Loi;
+	- **b)** le montant déterminé selon l’alinéa a) est converti en chacune des pensions suivantes, ayant la même valeur actuarielle actualisée :
+		- **(i)** une rente viagère immédiate sur une seule tête payable au contributeur en mensualités à compter du premier jour du mois suivant celui du choix ou, si le contributeur a le droit de recevoir une pension différée qui n’est pas payable au moment du choix, à compter du mois de son soixantième anniversaire de naissance, calculée compte tenu des prestations supplémentaires payables en vertu de la partie III de la Loi comme s’il s’agissait d’une pension payable en vertu de la partie I de celle-ci,
+		- **(ii)** une prestation réversible qui assurerait :
+			- **(A)** au contributeur une pension immédiate payable en mensualités, sa vie durant, à compter du premier jour du mois suivant celui du choix ou, si le contributeur a le droit de recevoir une pension différée qui n’est pas payable au moment du choix, à compter du premier jour du mois suivant celui de son soixantième anniversaire de naissance calculée compte tenu des prestations supplémentaires payables en vertu de la partie III de la Loi comme s’il s’agissait d’une pension payable en vertu de la partie I de celle-ci,
+			- **(B)** au conjoint survivant du contributeur, une pension payable en mensualités, sa vie durant, à compter du premier jour du mois suivant celui du décès du contributeur et équivalant à 30, 40 ou 50 pour cent, selon le choix du contributeur, de la pension déterminée selon la division (A), calculée compte tenu des prestations supplémentaires payables en vertu de la partie III de la Loi comme s’il s’agissait d’une pension payable en vertu de la partie I de celle-ci;
+	- **c)** le montant de la première mensualité de la pension visée à la division b)(ii)(A) est soustrait, sous réserve du paragraphe (2), de la première mensualité de la pension visée au sous-alinéa b)(i) et la différence obtenue est rajustée compte tenu des éléments suivants :
+		- **(i)** la réduction s’applique pendant la plus courte des périodes suivantes :
+			- **(A)** la durée de la vie du contributeur,
+			- **(B)** la durée de la vie de son conjoint,
+			- **(C)** la durée de leur mariage,
+		- **(ii)** la réduction s’applique à compter du mois prévu aux paragraphes 76(1), (2), (4) ou (5), selon le cas,
+		- **(iii)** la réduction fait l’objet de l’augmentation prévue à l’article 69 à chaque année qui y est visée.
+
+- **(2)** Pour l’application de l’alinéa (1)c), dans le cas où le calcul de la réduction est effectué pour un contributeur à l’égard duquel une prestation consécutive au décès serait payable en vertu de l’article 27 de la Loi s’il décédait le jour du choix, la valeur actuarielle actualisée convertie conformément au sous-alinéa (1)b)(i) ne doit pas tenir compte de la prestation consécutive au décès payable à l’égard du contributeur.
+> DORS/94-194, art. 1; DORS/94-278, art. 1; DORS/97-490, art. 8.
+
+
+
+
+
+### Indexation
+
+
+**69** 
+
+- **(1)** Sous réserve du paragraphe (2), le montant de la réduction déterminé conformément à l’article 68 est augmenté annuellement, à compter du 1<sup>er</sup> janvier qui suit l’année où la réduction commence à s’appliquer, du montant qui serait payable à titre de prestation supplémentaire en vertu de la partie III de la Loi si la réduction représentait une pension immédiate devenue payable aux termes de la partie I de la Loi le 1<sup>er</sup> janvier de l’année du choix.
+
+- **(2)** Lorsque le contributeur effectue un choix au cours de son année de retraite, l’augmentation prévue au paragraphe (1) est calculée, pour la première année où celle-ci est appliquée, à compter du premier jour du mois où il a cessé pour la dernière fois d’être employé dans la fonction publique.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Rajustements
+
+
+**70** 
+
+- **(1)** Lorsque le contributeur admissible à une pension différée effectue un choix et devient par la suite admissible à une allocation annuelle et reçoit celle-ci, le montant de la réduction déterminé conformément à l’article 68 est rajusté pour tenir compte de la nouvelle période à laquelle s’applique la réduction.
+
+- **(2)** Lorsque le contributeur admissible à une pension différée ou à une allocation annuelle effectue un choix et devient par la suite admissible à une pension immédiate et reçoit celle-ci, le montant de la réduction déterminé conformément à l’article 68 est rajusté pour tenir compte de la nouvelle période à laquelle s’applique la réduction.
+> DORS/94-194, art. 1.
+
+
+
+
+**71** Lorsque le contributeur qui reçoit une pension immédiate en raison d’une invalidité cesse d’y avoir droit et devient admissible à une pension différée, le montant de la réduction déterminé conformément à l’article 68 est rajusté pour tenir compte de la nouvelle période à laquelle la réduction s’applique selon le paragraphe 76(2).
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Hypothèses actuarielles
+
+
+**72** 
+
+- **(1)** Pour l’application des articles 68 à 71, le calcul des valeurs actuarielles actualisées repose sur les seules hypothèses démographiques suivantes :
+	- **a)** le taux de mortalité pour un contributeur correspond à la moyenne des taux de mortalité des contributeurs qui touchent des prestations pour cause d’invalidité et de ceux qui touchent des prestations pour des raisons autres que l’invalidité, applicable au groupe d’âge dans lequel se situe le contributeur, qui figurent au rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiquées, pondérée selon les prestations payées à chacun de ces deux groupes de contributeurs;
+	- **b)** les taux de mortalité des conjoints survivants correspondent à ceux figurant dans le rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiqués;
+	- **c)** les taux de divorce correspondent à ceux établis par le surintendant des institutions financières selon les données sur les divorces publiées par Statistique Canada.
+
+- **(2)** Le rapport d’évaluation actuarielle visé au paragraphe (1) est le rapport le plus récent déposé devant le Parlement ou, si ce dépôt remonte à moins de deux mois avant la date du choix du contributeur, le rapport précédent ainsi déposé.
+> DORS/94-194, art. 1.
+
+
+
+
+**73** Les taux d’intérêt à utiliser aux fins des calculs prévus aux articles 68 à 71 sont ceux indiqués dans les Recommandations pour le calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, lesquelles s’appliquent depuis le 1<sup>er</sup> septembre 1993 à l’égard :
+- **a)** sous réserve de l’alinéa b), des rentes pleinement indexées;
+- **b)** des rentes non indexées pour la période à l’égard de laquelle aucune prestation supplémentaire ne serait payable aux termes de la partie III de la Loi, dans le cas d’un contributeur admissible à une pension ou à une allocation annuelle aux termes des articles 16, 17 ou 24.2 de la Loi.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Révision ou révocation du choix
+
+
+**74** 
+
+- **(1)** Le contributeur qui a effectué un choix peut réviser le niveau de réduction dans l’un ou l’autre des cas suivants :
+	- **a)** il a reçu par écrit d’une personne employée dans la fonction publique, dont les fonctions ordinaires comprenaient la responsabilité de donner des conseils concernant le choix, des renseignements sensiblement faux ou trompeurs au sujet du montant de la réduction de sa pension ou de son allocation annuelle ou au sujet du montant de l’allocation annuelle immédiate à laquelle aurait droit son conjoint;
+	- **b)** le montant de sa pension ou de son allocation annuelle est révisé en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md) après la date du choix.
+
+- **(2)** Le contributeur peut révoquer son choix :
+	- **a)** dans le cas visé à l’alinéa (1)a);
+	- **b)** lorsque le montant de sa pension ou de son allocation annuelle est révisé en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md) après la date du choix.
+
+- **(3)** La révision du niveau de réduction ou la révocation du choix s’effectue par écrit et le document qui la constate est envoyé au ministre ou à la personne qu’il a désignée, selon le cas :
+	- **a)** dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements corrigés est envoyé au contributeur;
+	- **b)** dans les trois mois suivant la date à laquelle la pension ou l’allocation annuelle a été révisée en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md).
+
+- **(4)** La révision du niveau de réduction ou la révocation du choix prend effet à la date où le document qui la constate est envoyé conformément au paragraphe (3).
+> DORS/94-194, art. 1; DORS/97-490, art. 9(A).
+
+
+
+
+**75** Le choix cesse d’avoir effet le jour où survient la première des éventualités suivantes :
+- **a)** le décès du conjoint;
+- **b)** la prise d’effet de l’annulation du mariage entre le contributeur et son conjoint;
+- **c)** la prise d’effet du divorce du contributeur et de son conjoint.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Moment de la réduction
+
+
+**76** 
+
+- **(1)** Sous réserve des paragraphes (2) à (5), la réduction calculée conformément à l’article 68 est appliquée mensuellement à la pension ou à l’allocation annuelle du contributeur à compter du premier jour du deuxième mois suivant celui du choix.
+
+- **(2)** Si le contributeur est admissible à une pension différée et que celle-ci n’est pas devenue payable avant qu’il effectue son choix, la réduction est appliquée mensuellement à cette pension à compter du dernier en date des jours suivants :
+	- **a)** le premier jour du mois suivant celui où la pension devient payable;
+	- **b)** du premier jour du deuxième mois suivant celui du choix.
+
+- **(3)** Lorsque le contributeur a révisé le niveau de réduction en application du paragraphe 74(1), le montant révisé de la réduction est appliqué mensuellement à sa pension ou à son allocation annuelle à compter du premier jour du mois suivant celui où la révision a été faite.
+
+- **(4)** Dans le cas d’un contributeur visé à l’article 70, le montant rajusté de la réduction est appliqué à compter du premier jour du mois suivant celui où la pension immédiate ou l’allocation annuelle devient payable.
+
+- **(5)** Dans le cas d’un contributeur visé à l’article 71, le montant rajusté de la réduction est appliqué à compter du premier jour du mois suivant celui où la pension différée devient payable.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Révocation
+
+
+**77** Pour l’application du paragraphe 13.1(4) de la Loi, le choix effectué par le contributeur est réputé révoqué le jour où celui-ci est tenu de contribuer au compte de pension de retraite aux termes du paragraphe 5(1) de la Loi.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Cessation de la réduction
+
+
+**78** Lorsqu’un choix est révoqué en application du paragraphe 74(2), cesse d’avoir effet en vertu de l’article 75 ou est réputé révoqué aux termes de l’article 77, la réduction cesse le premier jour du mois au cours duquel la révocation a lieu ou au cours duquel le choix cesse d’avoir effet.
+> DORS/94-194, art. 1.
+
+
+
+
+
+### Allocation au conjoint survivant
+
+
+**79** L’allocation annuelle immédiate à laquelle est admissible le conjoint au décès du contributeur ayant effectué un choix est égale au montant déterminé conformément à la division 68b)(ii)(B), interprétée comme si l’alinéa 68b) ne faisait pas mention des prestations supplémentaires payables en vertu de la partie III de la Loi.
+> DORS/94-194, art. 1.
+
+
+
+
+
+## Limite applicable à l’allocation annuelle en cas de mise à la retraite
+
+
+**80** 
+
+- **(1)** Malgré la division 13(1)c)(ii)(C) de la Loi, le montant de l’allocation annuelle qui devient payable au contributeur en vertu de cette division ne peut excéder le montant calculé conformément à la formule prévue à l’alinéa 8503(3)c) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992.
+
+- **(2)** La limite prévue au paragraphe (1) s’applique au montant de l’allocation annuelle payable au contributeur qui cesse d’être employé à la date d’entrée en vigueur du décret pris en vertu de l’alinéa 10a) de la [Loi sur les régimes de retraite particuliers](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20I.md), ou après cette date, à l’égard des personnes visées aux sous-alinéas 10a)(i) ou (vi) de cette loi, qui prévoit le versement de prestations au contributeur qui a droit à une allocation annuelle en vertu de la division 13(1)c)(ii)(C) de la Loi.
+> DORS/96-18, art. 8; DORS/97-490, art. 10(F).
+
+
+
+
+**80.1** 
+
+- **(1)** Malgré la partie I de la Loi, le montant d’une pension ou d’une allocation annuelle payable à un contributeur à l’égard d’une période de service antérieure au 1<sup>er</sup> janvier 1990 qui n’est pas une période de service visée au paragraphe 8504(7) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992, ne peut excéder le montant calculé selon la formule prévue à l’alinéa 8504(6)b) de ce règlement, dans sa version à la même date.
+
+- **(2)** La limite prévue au paragraphe (1) s’applique au contributeur qui cesse d’être employé à la date d’entrée en vigueur de l’alinéa 41.1(1)c) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) ou après cette date.
+> DORS/97-490, art. 11.
+
+
+
+
+
+## Calcul de l’intérêt sur le remboursement de contributions
+
+
+**81** Pour l’application du paragraphe 10(9) de la Loi, le calcul de l’intérêt et la détermination des soldes, pour toute période antérieure au 1<sup>er</sup> janvier 1997, se font conformément au paragraphe 10(9) de la Loi, dans sa version au 31 décembre 1996.
+> DORS/97-2, art. 1.
+
+
+
+
+**82** 
+
+- **(1)** Pour l’application du paragraphe 10(9) de la Loi, le calcul de l’intérêt et la détermination des soldes, pour toute période commençant le 1<sup>er</sup> janvier 1997 ou après cette date, se font conformément au présent article à l’égard de chaque trimestre, jusqu’au trimestre précédant celui pendant lequel s’effectue le remboursement de contributions.
+
+- **(2)** Au présent article, ***solde de fermeture de 1996*** s’entend du total des montants mentionnés aux alinéas a), b) et c) de la définition de ***remboursement de contributions*** au paragraphe 10(1) de la Loi, dans sa version au 31 décembre 1996, qui ont été versés par le contributeur ou transférés à son crédit avant le 1<sup>er</sup> janvier 1997, et les intérêts y afférents calculés conformément à l’article 81.
+
+- **(3)** Au présent article, ***solde de fermeture du 31 mars 2002*** s’entend du total de ce qui suit :
+	- **a)** le solde de fermeture de 1996 et les intérêts y afférents calculés conformément au paragraphe (4);
+	- **b)** le total des montants mentionnés aux alinéas a), b) et c) de la définition de ***remboursement de contributions*** au paragraphe 10(1) de la Loi qui ont été versés par le contributeur ou transférés à son crédit le 1<sup>er</sup> janvier 1997 ou après cette date mais au plus tard le 31 mars 2002, et les intérêts y afférents calculés conformément au paragraphe (4).
+
+- **(4)** Pour l’application des alinéas 10(9)b) et c) de la Loi, pour chaque trimestre commençant le 1<sup>er</sup> janvier 1997 ou après cette date et se terminant avant le 1<sup>er</sup> avril 2002, l’intérêt est calculé au taux établi selon le paragraphe 46(2) sur le total de ce qui suit :
+	- **a)** le solde de fermeture de 1996;
+	- **b)** le total des montants mentionnés aux alinéas a), b) et c) de la définition de ***remboursement de contributions*** au paragraphe 10(1) de la Loi qui ont été versés par le contributeur ou transférés à son crédit le 1<sup>er</sup> janvier 1997 ou après cette date mais au plus tard à la fin du trimestre précédent;
+	- **c)** l’intérêt calculé selon le présent paragraphe à la fin du trimestre précédant celui pour lequel l’intérêt est calculé.
+
+- **(5)** Pour l’application de l’alinéa 10(9)c) de la Loi, pour chaque trimestre commençant le 1<sup>er</sup> avril 2002 ou après cette date, l’intérêt est calculé au taux établi selon le paragraphe (6) sur le total de ce qui suit :
+	- **a)** le solde de fermeture du 31 mars 2002;
+	- **b)** le total des montants mentionnés aux alinéas a), b) et c) de la définition de ***remboursement de contributions*** au paragraphe 10(1) de la Loi qui ont été versés par le contributeur ou transférés à son crédit le 1<sup>er</sup> avril 2002 ou après cette date mais au plus tard à la fin du trimestre précédent;
+	- **c)** l’intérêt calculé selon le présent paragraphe à la fin du trimestre précédant celui pour lequel l’intérêt est calculé.
+
+- **(6)** Pour l’application du paragraphe (5), le taux d’intérêt est le taux trimestriel effectif établi d’après le taux annuel de rendement de la Caisse de retraite de la fonction publique publié dans le rapport annuel — pour l’exercice précédent — de l’Office d’investissement des régimes de pensions du secteur public déposé devant chaque chambre du Parlement en application du paragraphe 48(3) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md).
+
+- **(7)** Le taux d’intérêt est de zéro pour cent si le taux annuel de rendement est négatif.
+> DORS/97-2, art. 1; DORS/2002-240, art. 1.
+
+
+
+
+
+## Valeur de transfert
+
+
+
+### Définitions
+
+
+**83** 
+
+- **(1)** Les définitions ci-après s’appliquent aux articles 84 à 104.
+
+***âge ouvrant droit à pension*** L’âge visé à l’alinéa 13(1)a) de la Loi. (*pensionable age*)
+
+***date d’évaluation***
+- **a)** Dans le cas d’un contributeur qui a cessé d’être employé dans la fonction publique pour devenir employé du nouvel employeur, la plus tardive des dates suivantes :
+	- **(i)** la date où il cesse d’être employé du nouvel employeur,
+	- **(ii)** la date où il exerce un choix en faveur de la valeur de transfert;
+- **b)** dans tout autre cas, la plus tardive des dates suivantes :
+	- **(i)** la date où le contributeur cesse d’être employé dans la fonction publique,
+	- **(ii)** la date où il exerce un choix en faveur de la valeur de transfert. (*valuation day*)
+
+***nouvel employeur*** L’employeur d’une personne qui a cessé d’être employée dans la fonction publique lors de la cession par Sa Majesté de l’administration d’un service et qui, selon les règlements pris en application de l’alinéa 42.1(1)u) de la Loi, n’a pas droit à des prestations prévues par la Loi ni à l’exercice d’un choix en faveur de celles-ci jusqu’à ce qu’elle cesse d’être employée par cet employeur. (*new employer*)
+
+***période de service achetable*** Période de service à l’égard de laquelle le versement d’une valeur de transfert a été fait conformément au paragraphe 13.01(2) de la Loi. (*transfer value service*)
+
+- **(2)** Malgré la définition de ***date d’évaluation*** au paragraphe (1), la date d’évaluation est le 30 avril 1997 lorsque le contributeur a exercé un choix en faveur de la valeur de transfert au cours de la période commençant le 20 juin 1996 et se terminant la veille du 30 avril 1997.
+> DORS/97-222, art. 1; DORS/2003-13, art. 3.
+
+
+
+
+
+### Admissibilité
+
+
+**84** 
+
+- **(1)** Sous réserve du paragraphe (3), le contributeur visé au paragraphe 13.01(1) de la Loi a le droit d’exercer un choix en faveur de la valeur de transfert, calculée selon les articles 90 à 95, dans les cas suivants :
+	- **a)** il cesse d’être employé dans la fonction publique ou par le nouvel employeur le 30 avril 1997 ou après cette date et il a plus de dix ans de moins que l’âge ouvrant droit à pension à la date à laquelle il cesse d’être employé dans la fonction publique ou, s’il devient subséquemment employé du nouvel employeur, à la date où il cesse d’être employé par celui-ci;
+	- **b)** il a cessé d’être employé dans la fonction publique avant le 30 avril 1997 et il avait plus de dix ans de moins que l’âge ouvrant droit à pension le 20 juin 1996 ainsi qu’à la date à laquelle il a cessé d’être ainsi employé;
+	- **c)** il a plus de dix ans de moins que l’âge ouvrant droit à pension à la date à laquelle il acquiert le droit à une pension différée en vertu de l’article 28 de la Loi.
+
+- **(2)** Le contributeur visé à l’alinéa (1)b) s’entend notamment de la personne qui a choisi ou qui est réputée avoir choisi de recevoir une pension différée et de la personne qui a choisi de recevoir une allocation annuelle qui n’est pas encore payable.
+
+- **(3)** Le contributeur visé à l’alinéa (1)a) n’a pas le droit d’exercer un choix en faveur de la valeur de transfert s’il a déjà exercé un choix en faveur d’autres prestations prévues par la Loi.
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Délais
+
+
+**85** Le contributeur visé à l’alinéa 84(1)a) qui désire exercer un choix en faveur de la valeur de transfert le fait dans le délai d’un an qui suit la date où il cesse d’être employé dans la fonction publique ou, s’il devient subséquemment employé du nouvel employeur, dans le délai d’un an qui suit la date où il cesse d’être employé par celui-ci.
+> DORS/97-222, art. 1.
+
+
+
+
+**86** 
+
+- **(1)** Sous réserve du paragraphe (2), le contributeur visé à l’alinéa 84(1)b) qui désire exercer un choix en faveur de la valeur de transfert le fait au plus tard à celle des dates suivantes qui est postérieure à l’autre :
+	- **a)** le 30 avril 1998;
+	- **b)** la date d’expiration du délai de six mois qui suit la date d’envoi par le ministre d’un avis écrit l’informant de son droit d’exercer un choix en faveur de la valeur de transfert.
+
+- **(2)** Le contributeur peut exercer son choix après la date limite prévue au paragraphe (1) sans toutefois dépasser le délai fixé au paragraphe (4), s’il établit qu’il n’a pas reçu l’avis visé à l’alinéa (1)b).
+
+- **(3)** Si le contributeur établit qu’il n’a pas reçu l’avis visé à l’alinéa (1)b), le ministre lui envoie sans délai un avis écrit l’informant de son droit d’exercer un choix en faveur de la valeur de transfert.
+
+- **(4)** Le contributeur peut alors exercer son choix dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe (3), sauf s’il a commencé à recevoir une pension ou une allocation annuelle en vertu de la Loi à l’égard du service ouvrant droit à pension.
+> DORS/97-222, art. 1.
+
+
+
+
+**87** Le contributeur visé à l’alinéa 84(1)c) qui désire exercer un choix en faveur de la valeur de transfert le fait au plus tard à celle des dates suivantes qui est postérieure à l’autre :
+- **a)** le 30 avril 1998;
+- **b)** la date d’expiration du délai d’un an qui suit la date où il acquiert le droit à une pension différée en vertu de l’article 28 de la Loi.
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Modalités de l’exercice du choix
+
+
+**88** 
+
+- **(1)** Le choix en faveur de la valeur de transfert est :
+	- **a)** effectué par écrit;
+	- **b)** daté et signé par le contributeur;
+	- **c)** envoyé au ministre ou à la personne qu’il a désignée, dans le délai applicable prévu aux articles 85 à 87.
+
+- **(2)** Le choix est réputé être exercé à la date où il est envoyé au ministre conformément à l’alinéa (1)c).
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Choix nul
+
+
+**89** L’exercice du choix en faveur d’une valeur de transfert aux termes de l’article 13.01 de la Loi est nul si, avant le versement de la valeur de transfert, le contributeur devient à nouveau employé dans la fonction publique et est astreint à payer une contribution aux termes de l’article 5 de la Loi.
+> DORS/97-222, art. 1; DORS/2003-13, art. 4.
+
+
+
+
+
+### Calcul de la valeur de transfert
+
+
+**90** 
+
+- **(1)** Sous réserve du paragraphe (2), la valeur de transfert à laquelle le contributeur a droit est la somme globale représentant la valeur actuarielle actualisée, à la date d’évaluation, des prestations de pension acquises qui seraient payables à celui-ci ou à son égard en vertu de la Loi, plus les intérêts calculés selon l’article 93, s’il avait droit à une pension différée en vertu de l’article 13 de la Loi au moment où il cesse d’être employé dans la fonction publique.
+
+- **(2)** Lorsque la somme globale visée au paragraphe (1) est inférieure au montant du remboursement de contributions qui serait payable à la date d’évaluation si le contributeur y avait droit, la valeur de transfert à laquelle il a droit est la somme globale représentant le montant de ce remboursement, plus les intérêts calculés selon l’article 93.
+> DORS/97-222, art. 1.
+
+
+
+
+**91** Le calcul de la valeur actuarielle actualisée des prestations de pension acquises, visée au paragraphe 90(1), est soumis aux règles suivantes :
+- **a)** les prestations supplémentaires sont majorées pour tenir compte de la période commençant soit le 1<sup>er</sup> janvier de l’année qui comprend la date d’évaluation, soit le jour où le contributeur a cessé d’être employé dans la fonction publique, selon la plus tardive de ces dates, et se terminant à la date d’évaluation;
+- **b)** la possibilité que le contributeur reçoive une allocation annuelle est exclue.
+> DORS/97-222, art. 1.
+
+
+
+
+**92** 
+
+- **(1)** Le calcul de la valeur actuarielle actualisée des prestations de pension acquises, visée au paragraphe 90(1), est effectué sur la base des hypothèses actuarielles suivantes :
+	- **a)** les taux de mortalité des anciens contributeurs et des conjoints survivants, y compris les facteurs de projection de la mortalité, sont ceux utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pension établi en vertu de la Loi;
+	- **b)** les taux d’intérêt prévus dans les Recommandations pour les calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, en vigueur depuis le 1<sup>er</sup> septembre 1993, sont ceux qui s’appliquent à l’égard des pensions pleinement indexées, rajustées selon les taux d’intérêt applicables aux pensions non indexées afin de tenir compte des dispositions de la partie III de la Loi;
+	- **c)** la probabilité qu’un contributeur ait des enfants survivants est fondée sur les taux concernant le nombre, l’âge moyen et le statut d’admissibilité présumés des enfants à la date du décès d’un contributeur, utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pension établi en vertu de la Loi;
+	- **d)** la probabilité qu’un contributeur ait droit à des prestations d’invalidité est fondée sur les taux de fréquence des invalidités utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pensions établi en vertu de la Loi, compte tenu de la probabilité — indiquée dans ce rapport — que le contributeur qui cesse son emploi en raison d’une invalidité soit immédiatement admissible à des prestations d’invalidité sous le Régime de pensions du Canada ou le Régime des rentes du Québec;
+	- **e)** les taux de mariage à la cessation d’emploi et les taux de divorce après la cessation d’emploi sont ceux établis par l’actuaire en chef du Bureau du surintendant des institutions financières selon les statistiques sur le mariage et le divorce publiées par Statistique Canada;
+	- **f)** le calcul de la différence d’âge entre les conjoints à la cessation d’emploi est effectué par l’actuaire en chef du Bureau du surintendant des institutions financières selon les statistiques publiées par Statistique Canada.
+
+- **(2)** Le rapport d’évaluation actuarielle visé aux alinéas (1)a), c) et d) est le dernier rapport déposé devant le Parlement conformément à l’article 45 de la Loi avant la date d’évaluation ou, si ce rapport a été déposé au cours du mois où tombe la date d’évaluation ou du mois précédent, l’avant-dernier rapport déposé devant le Parlement.
+> DORS/97-222, art. 1; DORS/2003-13, art. 5.
+
+
+
+
+**93** 
+
+- **(1)** Les intérêts visés à l’article 90 sont calculés pour la période qui commence à la date d’évaluation et se termine le dernier jour du mois précédant celui où il y a versement de la valeur de transfert, au taux déterminé selon les paragraphes (2) et (3), converti en un taux annuel effectif.
+
+- **(2)** Le taux d’intérêt correspond au taux relatif au deuxième trimestre qui précède la date d’évaluation, ce taux figurant à la ligne « Médiane MERCER » de la colonne intitulée « 3 mois » à la partie intitulée « FONDS ÉQUILIBRÉS » du Sommaire du rendement des placements des caisses de retraite canadiennes en gestion commune, publié par la société Mercer Consultation en gestion de placements, avec ses modifications successives.
+
+- **(3)** Les intérêts sont nuls si le taux d’intérêt est négatif.
+> DORS/97-222, art. 1; DORS/2003-13, art. 6.
+
+
+
+
+**94** 
+
+- **(1)** Aux fins du calcul de la pension différée visée au paragraphe 90(1), le service ouvrant droit à pension est celui que le contributeur a à son crédit au moment où il cesse d’être employé dans la fonction publique.
+
+- **(2)** Pour l’application du paragraphe 13.01(3) de la Loi, malgré le paragraphe (1), le service ouvrant droit à pension au crédit du contributeur qui a choisi de payer par versements pour compter une période de service comme service ouvrant droit à pension comprend seulement la partie de ce service visée par le choix qui correspond aux versements qui ont été effectués ou auraient dû l’être à la date d’évaluation ou avant cette date.
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Réduction
+
+
+**95** Lorsqu’un partage des prestations de retraite d’un contributeur est effectué en vertu de l’article 8 de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md) avant la date du paiement de la valeur de transfert, la somme globale visée à l’article 90 est réduite pour tenir compte de la révision des prestations de retraite du contributeur faite en vertu de l’article 21 du [Règlement sur le partage des prestations de retraite](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/612.md).
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Régimes ou fonds d’épargne-retraite
+
+
+**96** Les régimes ou fonds d’épargne-retraite prévus pour l’application de l’alinéa 13.01(2)b) de la Loi sont les régimes d’épargne-retraite prévus pour l’application de l’article 26 de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md).
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Rentes viagères ou différées
+
+
+**97** Les rentes viagères ou différées prévues pour l’application de l’alinéa 13.01(2)c) de la Loi sont les prestations viagères immédiates et les prestations viagères différées au sens du paragraphe 2(1) du [Règlement de 1985 sur les normes de prestation de pension](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/87/19.md).
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Adaptation du paragraphe 13.01(2) de la Loi
+
+
+**98** Pour l’application du paragraphe 13.01(2) de la Loi, lorsque la valeur de transfert calculée conformément aux articles 90 à 95 dépasse la somme qui peut être transférée, conformément à l’article 8517 du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), à un régime ou fonds d’épargne-retraite ou à un établissement financier pour l’achat d’une rente viagère ou différée, l’excédent est versé au contributeur.
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Paiement en cas de décès
+
+
+**99** Le paiement de la valeur de transfert est fait à la succession du contributeur s’il ne peut être effectué selon le paragraphe 13.01(2) de la Loi au motif que le contributeur est décédé.
+> DORS/97-222, art. 1.
+
+
+
+
+
+### Choix d’une période de service achetable
+
+
+**100** 
+
+- **(1)** Sous réserve des dispositions de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), le contributeur qui est employé dans la fonction publique peut, conformément à la division 6(1)b)(iii)(M) de la Loi, choisir, une fois seulement, de payer pour une période de service achetable pour laquelle il n’a pu choisir auparavant de payer.
+
+- **(2)** Le choix est fait par écrit, en la forme déterminée par le ministre, daté et signé par la personne qui le fait.
+
+- **(3)** Le choix est envoyé au ministre, ou à la personne qu’il désigne, dans l’année qui suit soit la date de l’avis écrit informant le contributeur qu’il est devenu contributeur aux termes de la partie I de la Loi, soit, si elle est postérieure, la date d’entrée en vigueur du présent article.
+
+- **(4)** Le choix est réputé être fait le jour de sa réception par le ministre ou la personne qu’il désigne.
+
+- **(5)** Le choix qui ne vise qu’une partie de la période de service achetable s’applique, sous réserve du paragraphe (6), à la partie la plus récente.
+
+- **(6)** Le choix qui ne vise qu’une partie de la période de service achetable s’applique, dans le cas où celle-ci comprend des périodes de service à temps plein et des périodes de service à temps partiel, aux périodes de service à temps plein et à temps partiel les plus récentes dans les mêmes proportions que celles ayant servi à déterminer la valeur de transfert.
+
+- **(7)** Le choix est irrévocable, sauf dans le cas prévu à l’alinéa 18(1)a); il ne peut en outre être modifié.
+
+- **(8)** L’alinéa 8(5)a) de la Loi s’applique au choix.
+> DORS/2003-13, art. 7.
+
+
+
+
+**101** 
+
+- **(1)** La somme à payer pour une période de service achetable est le total de ce qui suit :
+	- **a)** le produit de la multiplication de la somme versée à titre de valeur de transfert aux termes du paragraphe 13.01(2) de la Loi et de l’article 98 par la fraction dont le numérateur est la partie de la période de service achetable pour laquelle le contributeur a choisi de payer aux termes de l’article 100 et le dénominateur, la période de service achetable;
+	- **b)** les intérêts sur la somme établie selon l’alinéa a), calculés aux taux déterminés selon les paragraphes (2) et (3), composés trimestriellement, à partir du jour où le versement de la valeur de transfert est effectué jusqu’au dernier jour du mois précédant celui où est fait le choix de payer pour la période de service achetable.
+
+- **(2)** Le taux d’intérêt correspond, pour chaque trimestre, au taux relatif au deuxième trimestre qui précède le trimestre pour lequel les intérêts sont calculés, ce taux figurant à la ligne « Médiane MERCER » de la colonne intitulée « 3 mois » à la partie intitulée « FONDS ÉQUILIBRÉS » du Sommaire du rendement des placements des caisses de retraite canadiennes en gestion commune, publié par la société Mercer Consultation en gestion de placements, avec ses modifications successives.
+
+- **(3)** Les intérêts visés à l’alinéa (1)b) sont nuls si le calcul effectué aux termes de cet alinéa donne un résultat négatif.
+> DORS/2003-13, art. 7.
+
+
+
+
+**102** 
+
+- **(1)** La somme à payer pour une période de service achetable est versée à la Caisse de retraite de la fonction publique en une somme globale.
+
+- **(2)** Le contributeur qui ne verse pas la totalité de la somme à payer pour la période de service achetable visée par son choix est réputé avoir choisi de payer pour la partie de la période de service achetable couverte par la somme versée.
+
+- **(3)** La somme est payable dans les quatre-vingt-dix jours suivant la réception du choix par le ministre ou la personne qu’il désigne; à défaut de paiement dans ce délai, le choix est nul.
+> DORS/2003-13, art. 7.
+
+
+
+
+**103** Est nul le choix du contributeur qui ne verse pas au compte des régimes compensatoires établi aux termes de la [Loi sur les régimes de retraite particuliers](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20I.md), dans le délai prévu au paragraphe 102(3), la somme à payer en application de l’alinéa 38.3a) du [Règlement no 1 sur le régime compensatoire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/94/785.md) au titre de la période de service achetable visée par le choix.
+> DORS/2003-13, art. 7.
+
+
+
+
+**104** Le choix frappé de nullité aux termes du paragraphe 102(3) ou de l’article 103 emporte interdiction de choisir à nouveau de payer pour toute période de service achetable qu’il visait.
+> DORS/2003-13, art. 7.
+
+
+
+
+
+### **ANNEXE I** 
+**(article 9)**
+
+Administration de pilotage de l’Atlantique<br />- <i>Atlantic Pilotage Authority</i>
+
+Administration de pilotage des Grands Lacs<br />- <i>Great Lakes Pilotage Authority</i>
+
+Administration de pilotage des Laurentides<br />- <i>Laurentian Pilotage Authority</i>
+
+Administration de pilotage du Pacifique<br />- <i>Pacific Pilotage Authority</i>
+
+Centre de recherches pour le développement international<br />- <i>International Development Research Centre</i>
+
+Centre international des droits de la personne et du développement démocratique<br />- <i>International Centre for Human Rights and Democratic Development</i>
+
+Commission canadienne du blé<br />- <i>Canadian Wheat Board</i>
+
+Commission canadienne du lait<br />- <i>Canadian Dairy Commission</i>
+
+Commission de la capitale nationale<br />- <i>National Capital Commission</i>
+
+Conseil canadien des ministres de l’environnement<br />- <i>Canadian Council of Ministers of the Environment</i>
+
+Conseil canadien des normes<br />- <i>Standards Council of Canada</i>
+
+Conseil des Arts du Canada<br />- <i>Canada Council for the Arts</i>
+
+Construction de défense (1951) Limitée<br />- <i>Defence Construction (1951) Limited</i>
+
+Corporation commerciale canadienne<br />- <i>Canadian Commercial Corporation</i>
+
+Énergie atomique du Canada, Limitée<br />- <i>Atomic Energy of Canada Limited</i>
+
+Exportation et développement Canada<br />- <i>Export Development Canada</i>
+
+Gouvernement des Territoires du Nord-Ouest<br />- <i>Government of the Northwest Territories</i>
+
+Gouvernement du Nunavut<br />- <i>Government of Nunavut</i>
+
+Gouvernement du territoire du Yukon<br />- <i>Government of the Yukon Territory</i>
+
+Institut international du Canada pour le grain<br />- <i>Canadian International Grains Institute</i>
+
+La Corporation du Pont international de la voie maritime, Ltée<br />- <i>The Seaway International Bridge Corporation, Ltd.</i>
+
+Le Centre parlementaire<br />- <i>Parliamentary Centre</i>
+
+Les Ponts Jacques-Cartier et Champlain Inc.<br />- <i>The Jacques-Cartier and Champlain Bridges Inc.</i>
+
+Monnaie royale canadienne<br />- <i>Royal Canadian Mint</i>
+
+Musée canadien de la nature<br />- <i>Canadian Museum of Nature</i>
+
+Musée canadien des civilisations<br />- <i>Canadian Museum of Civilization</i>
+
+Musée des beaux-arts du Canada<br />- <i>National Gallery of Canada</i>
+
+Musée national des sciences et de la technologie<br />- <i>National Museum of Science and Technology</i>
+
+Office de commercialisation du poisson d’eau douce<br />- <i>Freshwater Fish Marketing Corporation</i>
+
+Société d’assurance-dépôts du Canada<br />- <i>Canada Deposit Insurance Corporation</i>
+
+Téléfilm Canada<br />- <i>Telefilm Canada</i>
+
+Société de développement du Cap-Breton<br />- <i>Cape Breton Development Corporation</i>
+
+Société d’expansion du Cap-Breton<br />- <i>Enterprise Cape Breton Corporation</i>
+
+Société du Centre national des Arts<br />- <i>National Arts Centre Corporation</i>
+
+Société Héritage Canada<br />- <i>Heritage Canada</i>
+> DORS/79-795, art. 1; DORS/81-482, art. 1; DORS/2000-137, art. 2; 2001, ch. 22, art. 22, ch. 33, art. 30, ch. 34, art. 17; DORS/2002-74, art. 4; 2002, ch. 17, art. 15.
+
+
+
+
+### **ANNEXE II** 
+**(article 11)**
+Le service désigné dans les Parties I, II, III, VIII, IX, X et XI de la Loi sur les pensions et allocations de guerre pour les civils.
+
+
+Le service auprès de l’un des ministères britanniques suivants :
+- Admiralty
+- Air
+- Aircraft Production
+- Aviation
+- Civil Aviation
+- Co-ordination of Defence
+- Defence
+- Economic Warfare
+- Information
+- Munitions
+- Shipping
+- Supply
+- Transport
+- War
+- War Transport
+
+
+
+
+
+### **ANNEXE III** 
+**(article 25)**
+#### Traitements des maîtres de poste à commission
+<table>
+<tr>
+<th>Ventes de timbres</th>
+<th>Classes de maître de poste</th>
+<th>Traitement annuel</th>
+</tr>
+<tr>
+<td>Jusqu’à 142 $</td>
+<td>1</td>
+<td>120 $</td>
+</tr>
+<tr>
+<td>143 $ à 200</td>
+<td>2</td>
+<td>180</td>
+</tr>
+<tr>
+<td>201 à 300</td>
+<td>3</td>
+<td>300</td>
+</tr>
+<tr>
+<td>301 à 400</td>
+<td>4</td>
+<td>360</td>
+</tr>
+<tr>
+<td>401 à 500</td>
+<td>5</td>
+<td>420</td>
+</tr>
+<tr>
+<td>501 à 600</td>
+<td>6</td>
+<td>480</td>
+</tr>
+<tr>
+<td>601 à 700</td>
+<td>7</td>
+<td>540</td>
+</tr>
+<tr>
+<td>701 à 800</td>
+<td>8</td>
+<td>600</td>
+</tr>
+<tr>
+<td>801 à 900</td>
+<td>9</td>
+<td>660</td>
+</tr>
+<tr>
+<td>901 à 1,000</td>
+<td>10</td>
+<td>720</td>
+</tr>
+<tr>
+<td>1,001 à 1,100</td>
+<td>11</td>
+<td>780</td>
+</tr>
+<tr>
+<td>1,101 à 1,200</td>
+<td>12</td>
+<td>840</td>
+</tr>
+<tr>
+<td>1,201 à 1,300</td>
+<td>13</td>
+<td>900</td>
+</tr>
+<tr>
+<td>1,301 à 1,400</td>
+<td>14</td>
+<td>960</td>
+</tr>
+<tr>
+<td>1,401 à 1,500</td>
+<td>15</td>
+<td>1,020</td>
+</tr>
+<tr>
+<td>1,501 à 1,600</td>
+<td>16</td>
+<td>1,080</td>
+</tr>
+<tr>
+<td>1,601 à 1,700</td>
+<td>17</td>
+<td>1,140</td>
+</tr>
+<tr>
+<td>1,701 à 1,800</td>
+<td>18</td>
+<td>1,200</td>
+</tr>
+<tr>
+<td>1,801 à 1,900</td>
+<td>19</td>
+<td>1,260</td>
+</tr>
+<tr>
+<td>1,901 à 2,000</td>
+<td>20</td>
+<td>1,320</td>
+</tr>
+<tr>
+<td>2,001 à 2,100</td>
+<td>21</td>
+<td>1,380</td>
+</tr>
+<tr>
+<td>2,101 à 2,200</td>
+<td>22</td>
+<td>1,440</td>
+</tr>
+<tr>
+<td>2,201 à 2,300</td>
+<td>23</td>
+<td>1,500</td>
+</tr>
+<tr>
+<td>2,301 à 2,400</td>
+<td>24</td>
+<td>1,560</td>
+</tr>
+<tr>
+<td>2,401 à 2,500</td>
+<td>25</td>
+<td>1,620</td>
+</tr>
+<tr>
+<td>2,501 à 2,600</td>
+<td>26</td>
+<td>1,680</td>
+</tr>
+<tr>
+<td>2,601 à 2,700</td>
+<td>27</td>
+<td>1,740</td>
+</tr>
+<tr>
+<td>2,701 à 2,800</td>
+<td>28</td>
+<td>1,800</td>
+</tr>
+<tr>
+<td>2,801 à 2,900</td>
+<td>29</td>
+<td>1,860</td>
+</tr>
+<tr>
+<td>2,901 à 3,000</td>
+<td>30</td>
+<td>1,920</td>
+</tr>
+<tr>
+<td>3,001 à 5,000</td>
+<td>31</td>
+<td>1,980 à 2,280 $</td>
+</tr>
+<tr>
+<td>5,001 à 10,000</td>
+<td>32</td>
+<td>2,280 à 2,580</td>
+</tr>
+<tr>
+<td>10,001 à 20,000</td>
+<td>33</td>
+<td>2,580 à 2,880</td>
+</tr>
+<tr>
+<td>20,001 à 50,000</td>
+<td>34</td>
+<td>2,880 à 3,180</td>
+</tr>
+<tr>
+<td>50,001 à 100,000</td>
+<td>35</td>
+<td>3,000 à 3,480</td>
+</tr>
+</table>
+
+Traitements des adjoints de maîtres de poste à commission
+- Classe 13 à 30 — 900 $
+- Classe 31 — $ 900(60)&nbsp;&nbsp;&nbsp;&nbsp;1,260 $
+- Classe 32 — 1,080(60)&nbsp;&nbsp;&nbsp;&nbsp;1,380(120)&nbsp;&nbsp;&nbsp;&nbsp;1,500 $
+- Classe 33 — 1,200(60)&nbsp;&nbsp;&nbsp;&nbsp;1,500(120)&nbsp;&nbsp;&nbsp;&nbsp;1,800
+- Classe 34 — 1,320(60)&nbsp;&nbsp;&nbsp;&nbsp;1,680(120)&nbsp;&nbsp;&nbsp;&nbsp;2,040
+- Classe 35 — 1,440(60)&nbsp;&nbsp;&nbsp;&nbsp;1,800(120)&nbsp;&nbsp;&nbsp;&nbsp;2,280
+
+
+
+
+
+### **ANNEXE IV** 
+**(article 26)**
+Un gardien de phare qui a eu ou qui a à rétribuer des aides sur son traitement est réputé, aux fins de l’alinéa 21(1)a), avoir reçu
+
+**a)** entre le 1<sup>er</sup> avril 1927 et le 31 août 1946, le traitement suivant :
+
+Classes 1, 2, 2A et 3  1,620 $
+
+
+
+Classes 4 et 5  1,500
+
+
+
+
+
+**b)** entre le 1<sup>er</sup> septembre 1946 et le 30 septembre 1947, le traitement suivant :
+
+Classes 1, 2, 2A et 3  1,920
+
+
+
+Classes 4 et 5  1,800
+
+
+
+
+
+**c)** entre le 1<sup>er</sup> octobre 1947 et le 30 septembre 1948, le traitement suivant :
+
+Classes 1, 2, 2A et 3  2,040
+
+
+
+Classes 4 et 5  1,920
+
+
+
+
+
+**d)** entre le 1<sup>er</sup> octobre 1948 et le 30 novembre 1950, le traitement suivant :
+
+Classes 1, 2, 2A et 3  2,160
+
+
+
+Classes 4 et 5  2,040
+
+
+
+
+
+**e)** entre le 1<sup>er</sup> décembre 1950 et le 1<sup>er</sup> décembre 1951, le traitement suivant :
+
+Classes 1, 2, 2A et 3  2,436
+
+
+
+Classes 4 et 5  2,292
+
+
+
+
+
+
+
+
+
+### **ANNEXE V** 
+### **FORMULE A** 
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Numéro de pension</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+DIRECTION DES PENSIONS DE RETRAITE
+
+
+Ministère des Finances
+
+
+[Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
+
+
+AVIS D’ORDONNANCE DE TRIBUNAL
+
+
+Applicable au paragraphe 20(2) de la
+
+
+[Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
+
+
+<table>
+<tr>
+<th>Tribunal</th>
+<th>Province</th>
+<th>Date de l’ordonnance</th>
+</tr>
+<tr>
+<td>Nom du bénéficaire</td>
+<td>Montant et mode du paiement</td>
+</tr>
+<tr>
+<td></td>
+<td>Somme forfaitaire</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>☐ $____________ ou ☐ $____________ par ____________</td>
+</tr>
+<tr>
+<td>Nom de la personne à charge</td>
+<td>Parenté entre la personne à charge et le bénéficiaire</td>
+</tr>
+<tr>
+<td>Loi ou autre texte en vertu duquel l’ordonnance a été rendue</td>
+</tr>
+</table>
+
+LE PRÉSIDENT DU CONSEIL DU TRÉSOR
+
+
+OTTAWA, CANADA.
+
+
+Conformément à l’ordonnance ci-dessus (dont copie certifiée conforme est ci-annexée), et en vertu du paragraphe 20(2) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), je vous demande par les présentes de payer le montant spécifié ci-dessus à la personne à charge sus-indiquée par retenues sur toute somme payable ou à devenir payable au bénéficiaire en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+
+
+
+<p>____________<br />(Registrateur, protonotaire, greffier ou autre fonctionnaire du Tribunal autorisé à délivrer cet avis de la part du Tribunal)<br /></p>
+
+
+
+<p>____________<br />Date<br /></p>
+
+
+Formule n<sup>o</sup>____________
+
+
+> DORS/93-450, art. 11(F).
+
+
+
+
+### **ANNEXE VI** 
+**(article 32)**
+### **FORMULE D** 
+N<sup>o</sup> d’assurance sociale :
+
+
+N<sup>o</sup> de pension :
+
+
+Je, ____________ demande par la présente en vertu de l’article 10(4) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) une augmentation de la pension qui m’est versée en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+
+
+Je joins à la présente formule un état du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) (ou du Régime de rentes du Québec) indiquant le montant d’allocation de retraite (ou d’invalidité) qui m’est payable.
+
+
+En outre, j’autorise par la présente à communiquer à la Direction des pensions de retraite du ministère des Finances, au besoin, des renseignements sur toute question relative à mes gains, cotisations ou prestations en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) (ou du Régime de rentes du Québec).
+
+
+
+<p>____________<br />Signé<br /></p>
+
+
+
+<p>____________<br />Date<br /></p>
+
+
+> DORS/93-450, art. 11(F).
+
+
+
+
+### **ANNEXE VII** 
+**(paragraphe 43(3))**
+FORMULAIRE : PENSION DE RETRAITE - INTERPRÉTATION DE L’EXAMEN MÉDICAL
+
+
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/94-623, ART. 2
+
+
+> DORS/94-623, art. 2.
+
+
