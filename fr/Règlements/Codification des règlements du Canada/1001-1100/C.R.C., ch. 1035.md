@@ -873,7 +873,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Hareldes kakawis, eiders et macreuses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -941,14 +941,14 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>6</td>
-<td>6c)</td>
-<td>5</td>
+<td>  6a)</td>
+<td>  6</td>
+<td>  6c)</td>
+<td>  5</td>
 <td>10</td>
 </tr>
 <tr>
@@ -960,7 +960,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards noirs.
@@ -1004,7 +1004,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Eiders</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1067,13 +1067,13 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6</td>
-<td>6a)</td>
-<td>5</td>
+<td>  6</td>
+<td>  6a)</td>
+<td>  5</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1084,7 +1084,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Pas plus que trois peuvent être des eiders, après le premier lundi de février.
@@ -1116,7 +1116,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Guillemot marmette et Guillemot de Brünnich*</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1139,7 +1139,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <td>du 2 novembre au 10 janvier et du 2 février au 10 mars</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>***** autrefois appelés respectivement Marmette de Troïl et Marmette de Brünnich
@@ -1180,7 +1180,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Marmettes</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
@@ -1217,7 +1217,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1251,13 +1251,13 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1268,7 +1268,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards colverts, Canards colverts-noirs hybrides ou Canards noirs.
@@ -1315,7 +1315,7 @@ TABLEAU I.1
 <th>Bécasses et bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1336,7 +1336,7 @@ au 31 décembre
 </td>
 <td>du 1<sup>er</sup> octobre
 
-au 30 novembre
+ au 30 novembre
 
 </td>
 </tr>
@@ -1353,7 +1353,7 @@ au 31 décembre
 
 et du 2 au 7 janvier
 
-(dans les eaux
+(dans les eaux 
 
 côtières seulement)
 
@@ -1369,7 +1369,7 @@ et du 2 au 7 janvier
 au 14 janvier
 
 </td>
-<td>du 1<sup>er</sup> octobre
+<td>du 1<sup>er</sup> octobre 
 
 au 30 novembre
 
@@ -1392,14 +1392,14 @@ au 31 décembre
 au 14 janvier
 
 </td>
-<td>du 1<sup>er</sup> octobre
+<td>du 1<sup>er</sup> octobre 
 
 au 30 novembre
 
 </td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 </table>
 
@@ -1447,14 +1447,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>5</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  5</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1466,7 +1466,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards noirs.
@@ -1507,7 +1507,7 @@ TABLEAU I.1
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1534,7 +1534,7 @@ au 30 novembre
 </td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 </table>
 
@@ -1614,14 +1614,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>6c)</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  6c)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1633,7 +1633,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont trois au plus peuvent être des Canards noirs.
@@ -1688,7 +1688,7 @@ TABLEAU I.1
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -1832,7 +1832,7 @@ au 26 décembre
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dans les districts C, D, E, F, G, H et I, la chasse à la Bernache du Canada est permise uniquement sur les terres agricoles.
@@ -2062,12 +2062,12 @@ TABLEAU I.1
 Du 1<sup>er</sup> septembre au 10 décembre
 
 </td>
-<td>Enregistrements d’appels d’oiseaux d), f)</td>
+<td>Enregistrements d’appels d’oiseaux  d), f)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>Du 17 septembre au 26 décembre
+<td>Du 16 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2077,9 +2077,9 @@ Du 1<sup>er</sup> septembre au 10 décembre
 <td>Districts C et D</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a)
 
-Du 6 au 16 septembre a)
+Du 1<sup>er</sup> au 15 septembre a)
 
-Du 17 septembre au 26 décembre
+Du 16 septembre au 16 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2089,9 +2089,9 @@ Du 17 septembre au 26 décembre
 <td>District E</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a)
 
-Du 6 au 16 septembre a)
+Du 1<sup>er</sup> au 15 septembre a)
 
-Du 17 septembre au 26 décembre
+Du 16 septembre au 16 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f); appât ou zone de culture-appât e)</td>
@@ -2101,9 +2101,9 @@ Du 17 septembre au 26 décembre
 <td>Districts F, G, H et I</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a), b), c)
 
-Du 6 au 23 septembre a)
+Du 6 au 22 septembre a)
 
-Du 24 septembre au 26 décembre
+Du 23 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f); appât ou zone de culture-appât e)</td>
@@ -2111,7 +2111,7 @@ Du 24 septembre au 26 décembre
 <tr>
 <td>6</td>
 <td>District J</td>
-<td>Du 24 septembre au 26 décembre
+<td>Du 23 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2120,7 +2120,7 @@ Du 24 septembre au 26 décembre
 <td></td>
 </tr>
 <tr>
-<td>**a)** La chasse est permise uniquement sur les terres agricoles.
+<td>**a)** La chasse et le matériel de chasse sont permis uniquement sur les terres agricoles.
 
 </td>
 </tr>
@@ -2135,17 +2135,17 @@ Du 24 septembre au 26 décembre
 </td>
 </tr>
 <tr>
-<td>**d)** ***Enregistrements d’appels d’oiseaux*** vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
+<td>**d)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
 
 </td>
 </tr>
 <tr>
-<td>**e)** La chasse au moyen d’un appât ou dans une zone de culture-appât est permise sous réserve de l’obtention d’‘une autorisation écrite du directeur régional en vertu de l’article 23.3.
+<td>**e)** La chasse au moyen d’un appât ou dans une zone de cultureappât est permise sous réserve du consentement écrit du directeur régional donné en vertu de l’article 23.3.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Les leurres utilisés pendant la chasse, conjointement avec des enregistrements d’appels d’oies des neiges, doivent représenter l’oie des neiges en phase blanche.
+<td>**f)** Les leurres utilisés pendant la chasse, conjointement avec des enregistrements d’appels d’oies des neiges, représentent uniquement l’oie des neiges de forme blanche en plumage adulte ou juvénile (blanc ou gris).
 
 </td>
 </tr>
@@ -2168,15 +2168,15 @@ Du 24 septembre au 26 décembre
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6 a), b), c), d), f)</td>
-<td>5 f)</td>
+<td>  6 a), b), c), d), f)</td>
+<td>  5 f)</td>
 <td>20 f)</td>
 <td>4 f)</td>
-<td>8 e), f)</td>
+<td>  8 e), f)</td>
 <td>10 f)</td>
 </tr>
 <tr>
@@ -2189,7 +2189,7 @@ Du 24 septembre au 26 décembre
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Il est permis de prendre au plus quatre Canards noirs par jour et d’en posséder au plus huit dans les districts A, B, C, D, E, F et J.
@@ -2248,7 +2248,7 @@ Du 24 septembre au 26 décembre
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2293,7 +2293,7 @@ du 21 au 28 février f), g)
 <td>du 25 septembre au 20 décembre g)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dans les secteurs de gestion de la faune 60A, 61, 72A (à l’exclusion du canton de Haldimand), 72B à 89, 90 (à l’exclusion du comté de South Walsingham, lequel comprend Long Point) et 91 à 95.
@@ -2451,15 +2451,15 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)b)c)</td>
-<td>5d)e)f)g)</td>
+<td>  6a)b)c)</td>
+<td>  5d)e)f)g)</td>
 <td>10</td>
 <td>10</td>
-<td>8</td>
+<td>  8</td>
 </tr>
 <tr>
 <td>Oiseaux à posséder</td>
@@ -2470,7 +2470,7 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <td>16</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Il est permis de ne prendre qu’un seul Canard noir par jour et de ne posséder que deux Canards noirs dans le district central et le district sud, et de ne prendre que deux Canards noirs par jour et de ne posséder que quatre Canards noirs dans le district de la baie d’Hudson et de la baie James, ainsi que dans le district nord.
@@ -2548,7 +2548,7 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 </th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2647,7 +2647,7 @@ au 30 novembre b)
 </td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dans les Aires de chasse provinciales 6 et 6A seulement.
@@ -2689,7 +2689,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2720,7 +2720,7 @@ Du 15 au 30 août
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -2792,7 +2792,7 @@ Du 15 au 30 août
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 <th></th>
 <th></th>
 <th></th>
@@ -2803,12 +2803,12 @@ Du 15 au 30 août
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
-<td>8c)</td>
+<td>  8a)</td>
+<td>  8c)</td>
 <td>20</td>
-<td>5e)</td>
-<td>5</td>
-<td>8</td>
+<td>  5e)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -2822,7 +2822,7 @@ Du 15 au 30 août
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dans la zone n<sup>o</sup> 4, pour les résidents, pas plus de quatre oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
@@ -2902,7 +2902,7 @@ TABLEAU III
 <th>Grues du Canada</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2923,7 +2923,7 @@ TABLEAU III
 <td>du 1<sup>er</sup> septembre au 16 décembre c)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Saison de chasse aux oiseaux rapaces du 1<sup>er</sup> septembre au 16 décembre.
@@ -2999,7 +2999,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -3014,7 +3014,7 @@ TABLEAU I.1
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -3045,14 +3045,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
+<td>  8a)</td>
 <td>20</td>
-<td>8c)</td>
-<td>5</td>
+<td>  8c)</td>
+<td>  5</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -3066,7 +3066,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont trois au plus peuvent être un Canard pilet.
@@ -3433,13 +3433,13 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
+<td>  8a)</td>
 <td>20</td>
-<td>8c)</td>
+<td>  8c)</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -3452,7 +3452,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards pilets.
@@ -3511,7 +3511,7 @@ TABLEAU I.1
 <th>Tourterelles tristes</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -3586,11 +3586,11 @@ au 10 mars d)
 
 au 20 janvier e),
 
-du 10 au
+ du 10 au 
 
 18 septembre f), h),
 
-du 8 octobre au
+ du 8 octobre au 
 
 27 novembre f), h), du
 
@@ -3598,9 +3598,9 @@ du 8 octobre au
 
 au 2 janvier f), h), du
 
-11 février
+ 11 février
 
-au 10 mars f), h) et du
+ au 10 mars f), h) et du
 
 10 septembre
 
@@ -3810,7 +3810,7 @@ au 10 mars c)
 </td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Secteurs provinciaux de gestion 1-3 et 1-7 à 1-15 inclusivement, et pour la Bernache du Canada seulement.
@@ -3979,16 +3979,16 @@ TABLEAU I.1
 <th>Tourterelles tristes</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8 a)c)e)k)</td>
-<td>5 g)i)</td>
+<td>  8 a)c)e)k)</td>
+<td>  5 g)i)</td>
 <td>10</td>
 <td>10</td>
-<td>5</td>
-<td>5</td>
+<td>  5</td>
+<td>  5</td>
 </tr>
 <tr>
 <td>Possession</td>
@@ -4000,7 +4000,7 @@ TABLEAU I.1
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canard pilets.
@@ -4085,7 +4085,7 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4124,14 +4124,14 @@ TABLEAU I.1
 <th>Bécassines NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
 <td>25</td>
-<td>8</td>
+<td>  8</td>
 <td>15</td>
-<td>5 a)</td>
+<td>  5 a)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -4147,7 +4147,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -4185,7 +4185,7 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4255,12 +4255,12 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
-<td>5b)</td>
+<td>  8a)</td>
+<td>  5b)</td>
 <td>2</td>
 <td>0c)</td>
 <td>10</td>
@@ -4274,7 +4274,7 @@ TABLEAU I.1
 <td>30d)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf qu’il est permis de prendre 17 canards de plus par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
@@ -4319,7 +4319,7 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4327,7 +4327,7 @@ TABLEAU I.1
 <td>du 1<sup>er</sup> septembre au 10 décembre a)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Des enregistrements d’appels d’Oies des neiges et des leurres blancs peuvent être utilisés pour chasser l’Oie des neiges. Ce faisant, tout oiseau migrateur pour lequel il y a une saison de chasse ouverte peut aussi être pris.
@@ -4356,7 +4356,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4365,7 +4365,7 @@ TABLEAU I.1
 <td>Enregistrements d’appels d’oiseaux a) b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -4397,14 +4397,14 @@ TABLEAU I.1
 <th>Bécassines NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
 <td>25c)g)</td>
-<td>8c)g)</td>
+<td>  8c)g)</td>
 <td>15b)e)</td>
-<td>5a)b)e)</td>
+<td>  5a)b)e)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -4420,7 +4420,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -4466,7 +4466,7 @@ TABLEAU I.1
 
 
 
-> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26.
+> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1.
 
 
 
