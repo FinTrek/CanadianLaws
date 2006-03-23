@@ -26,7 +26,7 @@ Autorités habilitantes :
 
 ***journée de production*** Dans le cas d'une brasserie, toute période n'excédant pas 24 heures consécutives durant laquelle de la bière est produite. (*production day*)
 
-***jour ouvrable*** Jour autre que le samedi ou qu'un jour férié. (*business day*)
+***jour ouvrable***[Abrogée, DORS/2006-51, art. 1]
 
 ***Loi*** signifie la Loi sur l'accise; (*Act*)
 
@@ -41,7 +41,7 @@ Autorités habilitantes :
 - **b)** le haut-commissaire qui représente, au Canada, un gouvernement de Sa Majesté;
 - **c)** le ministre, le conseiller, le secrétaire et l'attaché d'une ambassade ou d'un haut-commissariat au Canada;
 - **d)** le consul général, le consul et le vice-consul, au Canada, d'un pays étranger qui est natif ou national du pays qu'il représente et qui ne se consacre à aucune autre entreprise ou profession. (*accredited representative*)
-> DORS/86-45, art. 1; DORS/90-471, art. 1; DORS/91-128, art. 1; DORS/93-170, art. 1.
+> DORS/86-45, art. 1; DORS/90-471, art. 1; DORS/91-128, art. 1; DORS/93-170, art. 1; DORS/2006-51, art. 1.
 
 
 
@@ -85,15 +85,8 @@ Autorités habilitantes :
 ## Paiements des droits d'accise
 
 
-**5** 
-
-- **(1)** Les droits imposés en application de la Loi à l'égard de la bière produite pendant un mois sont payés de manière à être perçus par le receveur général au plus tard :
-	- **a)** l'avant-dernier jour ouvrable du mois suivant le mois où la bière a été produite, dans le cas de la bière produite dans un autre mois que mars ou avril;
-	- **b)** l'avant-dernier jour ouvrable du mois de mars d'une année, dans le cas de la bière produite au cours de la période commençant le 1<sup>er</sup> mars de l'année et se terminant deux jours avant l'avant-dernier jour ouvrable de mars de cette même année;
-	- **c)** l'avant-dernier jour ouvrable du mois de mai d'une année, dans le cas de la bière produite au cours de la période commençant le jour précédant l'avant-dernier jour ouvrable du mois de mars de l'année et se terminant le dernier jour du mois d'avril de cette même année.
-
-- **(2)** [Abrogé, DORS/94-370, art. 2]
-> DORS/86-45, art. 3; DORS/91-128, art. 3; DORS/93-170, art. 2; DORS/94-370, art. 2; DORS/96-132, art. 2.
+**5** Les droits imposés en application de la Loi à l’égard de la bière produite pendant un mois sont exigibles au plus tard le dernier jour du mois suivant le mois où la bière a été produite.
+> DORS/86-45, art. 3; DORS/91-128, art. 3; DORS/93-170, art. 2; DORS/94-370, art. 2; DORS/96-132, art. 2; DORS/2006-51, art. 2.
 
 
 
