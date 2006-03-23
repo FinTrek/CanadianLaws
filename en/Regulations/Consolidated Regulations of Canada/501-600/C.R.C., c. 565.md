@@ -32,7 +32,7 @@ Enabling authorities:
 
 ***Act*** means the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md); (*Loi*)
 
-***business day*** means a day other than Saturday or a holiday; (*jour ouvrable*)
+***business day***[Repealed, SOR/2006-51, s. 1]
 
 ***package*** means any container in which beer is placed for shipment, sale or consumption; (*paquet*)
 
@@ -41,7 +41,7 @@ Enabling authorities:
 ***production day*** means, in respect of a brewery, a period not exceeding 24 consecutive hours during which beer is produced. (*journée de production*) 
 
 ***production period***[Repealed, SOR/91-128, s. 1]
-> SOR/86-45, s. 1; SOR/90-471, s. 1; SOR/91-128, s. 1; SOR/93-170, s. 1.
+> SOR/86-45, s. 1; SOR/90-471, s. 1; SOR/91-128, s. 1; SOR/93-170, s. 1; SOR/2006-51, s. 1.
 
 
 
@@ -85,15 +85,8 @@ Enabling authorities:
 ## Excise Duty Payments
 
 
-**5** 
-
-- **(1)** The duty imposed under the Act in respect of beer produced during a month shall be paid in a manner that ensures that the duty is collected by the Receiver General
-	- **(a)** no later than the second to last business day of the month following the month during which the beer was produced, where the beer was produced in a month other than March or April;
-	- **(b)** no later than the second to last business day of March in a year, where the beer was produced during a period beginning on the first day of March in the year and ending two days before the second to last business day of March in that year;
-	- **(c)** no later than the second to last business day of May in a year, where the beer was produced during a period beginning one day before the second to last business day of March in the year and ending on the last day of April in that year.
-
-- **(2)** [Repealed, SOR/94-370, s. 2]
-> SOR/86-45, s. 3; SOR/91-128, s. 3; SOR/93-170, s. 2; SOR/94-370, s. 2; SOR/96-132, s. 2.
+**5** The duty imposed under the Act in respect of beer produced during a month shall be paid not later than the last day of the month following the month during which the beer was produced.
+> SOR/86-45, s. 3; SOR/91-128, s. 3; SOR/93-170, s. 2; SOR/94-370, s. 2; SOR/96-132, s. 2; SOR/2006-51, s. 2.
 
 
 
