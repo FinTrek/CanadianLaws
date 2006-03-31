@@ -266,6 +266,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-49.6_fr_2'>[*]</a></sup>**47** Les paragraphes 2(2) et (3), les articles 4 à 6, 8 et 9, les paragraphes 10(1) et (2), les articles 11 à 32, le paragraphe 33(2) et les articles 35 à 39, 42 à 44 et 46 entrent en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='C-49.6_fr_2'><sup>*</sup></a>: [Note : Paragraphes 10(1) et (2) et articles 11 à 32 en vigueur le 26 novembre 1991, *voir* TR/91-161; article 46 en vigueur le 30 avril 1992, *voir* TR/92-77; article 9 en vigueur le 4 février 1993, *voir* TR/93-18; paragraphes 2(2) et (3) et articles 5 et 6 en vigueur le 17 mars 1993, *voir* TR/93-46; articles 35 à 39 en vigueur le 1<sup>er</sup> août 1993, *voir* TR/93-153.]<br />
+<a name='C-49.6_fr_2'><sup>*</sup></a>: [Note : Paragraphes 10(1) et (2) et articles 11 à 32 en vigueur le 26 novembre 1991, *voir* TR/91-161; article 46 en vigueur le 30 avril 1992, *voir* TR/92-77; article 9 en vigueur le 4 février 1993, *voir* TR/93-18; paragraphes 2(2) et (3) et articles 5 et 6 en vigueur le 17 mars 1993, *voir* TR/93-46; articles 35 à 39 en vigueur le 1<sup>er</sup> août 1993, *voir* TR/93-153; article 42 en vigueur le 31 mars 2006, *voir* TR/2006-58.]<br />
 
 
