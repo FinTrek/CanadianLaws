@@ -908,7 +908,7 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 <sup><a href='#F-11.9_e_s64'>[*]</a></sup>**64** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='F-11.9_e_s64'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='F-11.9_e_s64'><sup>*</sup></a>: [Note: Act in force April 1, 2006, *see* SI/2006-56.]<br />
 
 
 
