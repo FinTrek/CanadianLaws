@@ -1296,8 +1296,10 @@ où :
 - **a)** à quiconque, pour obtenir de celui-ci les renseignements nécessaires à l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
 - **b)** à tout cadre ou fonctionnaire du ministère des Anciens Combattants, pour l’application de la présente loi ou de tout autre texte législatif relevant de sa compétence;
 - **c)** à quiconque, pour le recouvrement d’une créance du Canada sur les Nations Unies ou sur un autre organisme international ou pays au titre d’une entente internationale;
-- **d)** au ministère du Développement des ressources humaines, pour l’application de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+- **d)** au ministère du Développement social, pour l’application de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md) ou du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **e)** au Service correctionnel du Canada, pour l’application de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md).
+> 2005, ch. 21, art. 81 et 116.
+
 
 
 
@@ -1629,34 +1631,26 @@ où :
 
 <sup><a href='#C-16.8_f_s117'>[*]</a></sup>**117** La présente loi, à l’exception de l’article 116, entre en vigueur à la date fixée par décret.
 
-<a name='C-16.8_f_s117'><sup>*</sup></a>: [Note : Article 116 en vigueur à la sanction le 13 mai 2005.]<br />
+<a name='C-16.8_f_s117'><sup>*</sup></a>: [Note : Article 116 en vigueur à la sanction le 13 mai 2005; loi, à l’exception de l’article 116, en vigueur le 1<sup>er</sup> avril 2006, *voir* TR/2006-54.]<br />
 
 
 
 
 ### **ANNEXE 1** 
 **(article 37, alinéas 41d) et 94c) et paragraphe 98(1))**
-## Allocation de soutien du revenu
 <table>
+<h4>Allocation de soutien du revenu</h4>
 <tr>
-<td></td>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>Taux   </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td> mensuel</td>
-</tr>
-<tr>
-<td>Article</td>
-<td>Description</td>
-<td>($)    </td>
+<th>Article</th>
+<th>Description</th>
+<th>Taux mensuel($)
+
+</th>
 </tr>
 <tr>
 <td>1</td>
@@ -1693,23 +1687,23 @@ où :
 ## Allocations et indemnité
 <table>
 <tr>
-<td></td>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
-<td>Article</td>
-<td>Allocation ou indemnité</td>
-<td>Taux ($)</td>
+<th>Article</th>
+<th>Allocation ou indemnité</th>
+<th>Taux ($)</th>
 </tr>
 <tr>
 <td>1</td>
-<td> Montant minimum de l’allocation pour déficience permanente</td>
-<td> 6 000,00 (annuel)</td>
+<td>Montant minimum de l’allocation pour déficience permanente</td>
+<td> 6 000,00 (annuel)</td>
 </tr>
 <tr>
 <td>2</td>
-<td> Montant maximum de l’allocation pour déficience permanente</td>
+<td>Montant maximum de l’allocation pour déficience permanente</td>
 <td> 18 000,00 (annuel)</td>
 </tr>
 <tr>
@@ -1729,214 +1723,141 @@ où :
 
 ### **ANNEXE 3** 
 **(paragraphe 52(1), alinéa 94c) et paragraphe 98(3))**
-## Indemnité d’invalidité
 <table>
+<h4>Indemnité d’invalidité</h4>
 <tr>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
-<td>Colonne 3</td>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
 </tr>
 <tr>
-<td></td>
-<td>Degré d’invalidité </td>
-<td>Somme forfaitaire</td>
+<th>Catégorie</th>
+<th>Degré d’invalidité(%)
+
+</th>
+<th>Somme forfaitaire($)
+
+</th>
 </tr>
 <tr>
-<td>Catégorie</td>
-<td>(%)</td>
-<td> ($)</td>
-</tr>
-<tr>
-<td> 1</td>
-<td></td>
-<td></td>
+<td>1</td>
 <td>98-100</td>
 <td>250 000,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 2</td>
-<td></td>
-<td></td>
+<td>2</td>
 <td>93-97</td>
 <td>237 500,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 3</td>
-<td></td>
-<td></td>
+<td>3</td>
 <td>88-92</td>
 <td>225 000,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 4</td>
-<td></td>
-<td></td>
+<td>4</td>
 <td>83-87</td>
 <td>212 500,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 5</td>
-<td></td>
-<td></td>
+<td>5</td>
 <td>78-82</td>
 <td>200 000,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 6</td>
-<td></td>
-<td></td>
+<td>6</td>
 <td>73-77</td>
 <td>187 500,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 7</td>
-<td></td>
-<td></td>
+<td>7</td>
 <td>68-72</td>
 <td>175 000,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 8</td>
-<td></td>
-<td></td>
+<td>8</td>
 <td>63-67</td>
 <td>162 500,00</td>
-<td></td>
 </tr>
 <tr>
-<td> 9</td>
-<td></td>
-<td></td>
+<td>9</td>
 <td>58-62</td>
 <td>150 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
-<td></td>
-<td></td>
 <td>53-57</td>
 <td>137 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td></td>
-<td></td>
 <td>48-52</td>
 <td>125 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
 <td>43-47</td>
 <td>112 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
 <td>38-42</td>
 <td>100 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>14</td>
-<td></td>
-<td></td>
 <td>33-37</td>
 <td>87 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>15</td>
-<td></td>
-<td></td>
 <td>28-32</td>
 <td>75 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
-<td></td>
-<td></td>
 <td>23-27</td>
 <td>62 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>17</td>
-<td></td>
-<td></td>
 <td>18-22</td>
 <td>50 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>18</td>
-<td></td>
-<td></td>
 <td>13-17</td>
 <td>37 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>19</td>
-<td></td>
-<td></td>
-<td> 8-12</td>
+<td>8-12</td>
 <td>25 000,00</td>
-<td></td>
 </tr>
 <tr>
 <td>20</td>
-<td></td>
-<td></td>
-<td> 5-7</td>
+<td>5-7</td>
 <td>12 500,00</td>
-<td></td>
 </tr>
 <tr>
 <td>21</td>
-<td></td>
-<td></td>
-<td> 4</td>
+<td>4</td>
 <td>2 617,96</td>
-<td></td>
 </tr>
 <tr>
 <td>22</td>
-<td></td>
-<td></td>
-<td> 3</td>
+<td>3</td>
 <td>1 963,48</td>
-<td></td>
 </tr>
 <tr>
 <td>23</td>
-<td></td>
-<td></td>
-<td> 2</td>
+<td>2</td>
 <td>1 308,97</td>
-<td></td>
 </tr>
 <tr>
 <td>24</td>
-<td></td>
-<td></td>
-<td> 1</td>
+<td>1</td>
 <td>654,49</td>
-<td></td>
 </tr>
 </table>
 
