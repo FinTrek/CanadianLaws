@@ -39,32 +39,32 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***aggravated by service***, in respect of an injury or a disease, means an injury or a disease that has been aggravated, if the aggravation
+***aggravated by service***, in respect of an injury or a disease, means an injury or a disease that has been aggravated, if the aggravation 
 - **(a)** was attributable to or was incurred during special duty service; or
 - **(b)** arose out of or was directly connected with service in the Canadian Forces.
 
-***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md).
+***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md). 
 
-***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland.
+***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland. 
 
 ***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. 
 
-***compensation*** means any of the following benefits under this Act: an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a disability award, a death benefit, a clothing allowance or a detention benefit.
+***compensation*** means any of the following benefits under this Act: an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a disability award, a death benefit, a clothing allowance or a detention benefit. 
 
-***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is 
+***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is
 - **(a)** under the age of 18 years;
 - **(b)** under the age of 25 years and following a course of instruction approved by the Minister; or
 - **(c)** over the age of 18 years and prevented by physical or mental incapacity from earning a livelihood, if the incapacity occurred
 	- **(i)** before the child attained the age of 18 years, or
 	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
 
-***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act.
+***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act. 
 
-***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person.
+***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person. 
 
 ***member*** means an officer or a non-commissioned member of the Canadian Forces, as those terms are defined in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). 
 
-***Minister*** means the Minister of Veterans Affairs.
+***Minister*** means the Minister of Veterans Affairs. 
 
 ***orphan***, in relation to a deceased member or a deceased veteran, means their child, or a child of their survivor who at the time of the member’s or veteran’s death was ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
@@ -73,19 +73,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** before the child attained the age of 18 years, or
 	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
 
-***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). 
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+Version anglaise seulement***prescribed*** means prescribed by regulation. 
 
-***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment.
+***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment. 
 
-***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person.
+***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person. 
 
-***service-related injury or disease*** means an injury or a disease that
+***service-related injury or disease*** means an injury or a disease that 
 - **(a)** was attributable to or was incurred during special duty service; or
 - **(b)** arose out of or was directly connected with service in the Canadian Forces.
 
-***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001:
+***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001: 
 - **(a)** periods of training for the express purpose of service in that area or as part of that operation, wherever that training takes place;
 - **(b)** travel to and from the area, the operation or the location of training referred to in paragraph (a); and
 - **(c)** authorized leave of absence with pay during that service, wherever that leave is taken.
@@ -94,11 +94,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(a)** their spouse who was, at the time of the member’s or veteran’s death, residing with the member or veteran; or
 - **(b)** the person who was, at the time of the member’s or veteran’s death, the member’s or veteran’s common-law partner.
 
-***veteran*** means a former member.
+***veteran*** means a former member. 
 
-***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment.
+***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment. 
 
-***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience.
+***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience. 
 
 **Couples who are living apart**
 
@@ -146,7 +146,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **4** 
 
-- **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to career counselling, job-search training and job-finding assistance.
+- **(1)** The Minister shall, on approving an application made under section 
+3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to career counselling, job-search training and job-finding assistance.
 
 **Job placement assistance plan**
 
@@ -272,7 +273,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(1)** The Minister may, on application, provide rehabilitation services and vocational assistance to a veteran’s spouse or common-law partner if the Minister
 	- **(a)** has approved an application for rehabilitation services made by or on behalf of the veteran; and
-	- **(b)** has determined, based on an assessment of the veteran under subsection 10(1), that the veteran would not benefit from vocational rehabilitation as a result of being totally and permanently incapacitated by the physical or mental health problem in respect of which the rehabilitation services were approved.
+	- **(b)** has determined, based on an assessment of the veteran under subsection 
+10(1), that the veteran would not benefit from vocational rehabilitation as a result of being totally and permanently incapacitated by the physical or mental health problem in respect of which the rehabilitation services were approved.
 
 **Continuation**
 
@@ -371,7 +373,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **18** 
 
-- **(1)** The Minister may, on application, pay an earnings loss benefit to a veteran if the Minister determines, as a result of an assessment made in accordance with subsection 10(1), that a rehabilitation plan or a vocational assistance plan should be developed for the veteran.
+- **(1)** The Minister may, on application, pay an earnings loss benefit to a veteran if the Minister determines, as a result of an assessment made in accordance with subsection 
+10(1), that a rehabilitation plan or a vocational assistance plan should be developed for the veteran.
 
 **When benefit payable**
 
@@ -379,7 +382,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Duration of benefit**
 
-- **(3)** Subject to subsection (4) and section 21, the earnings loss benefit is payable to a veteran until the earlier of
+- **(3)** Subject to subsection (4) and section 
+21, the earnings loss benefit is payable to a veteran until the earlier of
 	- **(a)** the day on which the veteran completes the rehabilitation plan or the vocational assistance plan,
 	- **(b)** the day on which the rehabilitation plan or the vocational assistance plan is cancelled, and
 	- **(c)** the day on which the veteran attains the age of 65 years.
@@ -397,7 +401,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **19** 
 
-- **(1)** Subject to the regulations, the monthly amount of the earnings loss benefit under section 18 that is payable to a veteran shall be determined in accordance with the formula
+- **(1)** Subject to the regulations, the monthly amount of the earnings loss benefit under section 
+18 that is payable to a veteran shall be determined in accordance with the formula
 ```
 A - B
 ```
@@ -420,7 +425,8 @@ where
 
 **20** 
 
-- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination of total and permanent incapacity, is in receipt of an earnings loss benefit under section 18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
+- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination of total and permanent incapacity, is in receipt of an earnings loss benefit under section 
+18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
 
 **Non-compliance**
 
@@ -608,7 +614,9 @@ where
 
 **35** 
 
-- **(1)** A Canadian Forces income support benefit under section 27 or 28 is only payable for each month that the veteran or survivor participates — to the extent required to meet the objectives of the program — in a job placement program that is approved by the Minister.
+- **(1)** A Canadian Forces income support benefit under section 
+27 or 
+28 is only payable for each month that the veteran or survivor participates — to the extent required to meet the objectives of the program — in a job placement program that is approved by the Minister.
 
 **Exception**
 
@@ -620,17 +628,24 @@ where
 
 **When benefit is payable**
 
-- **(4)** Subject to subsection (5), the Canadian Forces income support benefit under section 27 or 28 begins to be payable on the earlier of
+- **(4)** Subject to subsection (5), the Canadian Forces income support benefit under section 
+27 or 
+28 begins to be payable on the earlier of
 	- **(a)** the first day of the month in which the veteran or the survivor starts a job placement program referred to in subsection (1), and
 	- **(b)** the first day of the month in which the Minister grants the veteran or survivor an exemption under subsection (3).
 
 **Exception — applicant over 65 years of age**
 
-- **(5)** If an application for a Canadian Forces income support benefit under section 27 or 28 is approved in respect of a veteran or a survivor who has attained the age of 65 years, the benefit begins to be payable on the first day of the month in which the application is approved.
+- **(5)** If an application for a Canadian Forces income support benefit under section 
+27 or 
+28 is approved in respect of a veteran or a survivor who has attained the age of 65 years, the benefit begins to be payable on the first day of the month in which the application is approved.
 
 **Duration of benefit**
 
-- **(6)** Subject to section 36, a Canadian Forces income support benefit under section 27 or 28 ceases to be payable on the earlier of
+- **(6)** Subject to section 
+36, a Canadian Forces income support benefit under section 
+27 or 
+28 ceases to be payable on the earlier of
 	- **(a)** the last day of the month in which the veteran or survivor ceases to participate in a job placement program referred to in subsection (1), unless the veteran or survivor is exempt from the application of that subsection,
 	- **(b)** the last day of the month in which the veteran or survivor no longer meets the prescribed employment-related criteria, and
 	- **(c)** the last day of the month in which a calculation made under subsection 37(1) in respect of the veteran or survivor would result in an amount equal to or less than zero.
@@ -700,7 +715,8 @@ where
 
 **When allowance payable**
 
-**39** The permanent impairment allowance under section 38 begins to be payable on the later of
+**39** The permanent impairment allowance under section 
+38 begins to be payable on the later of
 - **(a)** the day on which the application for the allowance was made, and
 - **(b)** the day that is one year prior to the day on which the application for the allowance is approved.
 
@@ -729,11 +745,16 @@ where
 **41** The Governor in Council may make regulations
 - **(a)** providing for the notification of the Minister, by persons who are in receipt of an earnings loss benefit or a Canadian Forces income support benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1) or 23(3), requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
 - **(b)** respecting the determination of what constitutes suitable gainful employment, a barrier to re-establishment in civilian life and total and permanent incapacity;
-- **(c)** defining “base calendar year”, “income” and “payment period” for the purposes of section 37;
-- **(d)** providing for the increase of any amount set out in column 2 of Schedule 1 in case of any increase in the amount of a pension or a supplement, as those terms are defined in section 2 of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), as a result of amendments to that Act;
+- **(c)** defining “base calendar year”, “income” and “payment period” for the purposes of section 
+37;
+- **(d)** providing for the increase of any amount set out in column 2 of Schedule 1 in case of any increase in the amount of a pension or a supplement, as those terms are defined in section 2 of the 
+[Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), as a result of amendments to that Act;
 - **(e)** respecting the payment of expenses arising out of a person’s participation in a rehabilitation plan or a vocational assistance plan;
-- **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 33 and 34; and
-- **(g)** respecting, for the purposes of section 38, what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
+- **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 
+33 and 
+34; and
+- **(g)** respecting, for the purposes of section 
+38, what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
 
 
 
@@ -749,7 +770,8 @@ where
 
 **Non-application of this Part**
 
-**42** This Part does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+**42** This Part does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the 
+[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
 
 
 
@@ -839,7 +861,8 @@ where
 
 **Death of member or veteran**
 
-**49** If a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid or would be payable under section 45 and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, at the time of their death, as having an extent of disability at that time of 100%.
+**49** If a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid or would be payable under section 
+45 and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, at the time of their death, as having an extent of disability at that time of 100%.
 
 
 
@@ -848,11 +871,23 @@ where
 
 **50** 
 
-- **(1)** If a member or a veteran who would have been entitled to a disability award under section 45, 47 or 48 dies before they have applied for the award, the Minister may, on application, pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 45, 47 or 48, as the case may be.
+- **(1)** If a member or a veteran who would have been entitled to a disability award under section 
+45, 
+47 or 
+48 dies before they have applied for the award, the Minister may, on application, pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 
+45, 
+47 or 
+48, as the case may be.
 
 **Death of member or veteran — application pending**
 
-- **(2)** If a member or a veteran who has made an application for a disability award under section 45, 47 or 48 dies before the Minister has made a decision in respect of the application, the Minister may pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 45, 47 or 48, as the case may be.
+- **(2)** If a member or a veteran who has made an application for a disability award under section 
+45, 
+47 or 
+48 dies before the Minister has made a decision in respect of the application, the Minister may pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 
+45, 
+47 or 
+48, as the case may be.
 
 **Rights of survivors and children**
 
@@ -878,7 +913,8 @@ where
 
 **52** 
 
-- **(1)** Subject to section 54, the amount of a disability award payable in respect of a member or a veteran shall be determined by the formula
+- **(1)** Subject to section 
+54, the amount of a disability award payable in respect of a member or a veteran shall be determined by the formula
 ```
 A - B
 ```
@@ -901,7 +937,8 @@ where
 
 **When award payable**
 
-**53** A disability award under section 45, 47 or 48 becomes payable whenever, in the opinion of the Minister, the disability has stabilized.
+**53** A disability award under section 
+45, 47 or 48 becomes payable whenever, in the opinion of the Minister, the disability has stabilized.
 
 
 
@@ -935,15 +972,18 @@ where
 
 
 
-**No award — decision under [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md)**
+**No award — decision under 
+[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md)**
 
 **56** 
 
-- **(1)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) and the Minister has rendered a decision in respect of the application.
+- **(1)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the 
+[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) and the Minister has rendered a decision in respect of the application.
 
 **No award — inseparable for purpose of assessment**
 
-- **(2)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+- **(2)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the 
+[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
 
 
 
@@ -1330,8 +1370,10 @@ where
 - **(c)** to any person or body, to the extent that the disclosure is required for the purpose of obtaining a payment that is due to Canada by
 	- **(i)** the United Nations, or
 	- **(ii)** another international organization or another country, pursuant to an international agreement;
-- **(d)** to the Department of Human Resources Development, to the extent that the disclosure is required for the administration of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
+- **(d)** to the Department of Social Development, to the extent that the disclosure is required for the administration of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); and
 - **(e)** to the Correctional Service of Canada, to the extent that the disclosure is required for the administration of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md).
+> 2005, c. 21, ss. 81, 116.
+
 
 
 
@@ -1390,22 +1432,26 @@ where
 
 
 
-**Definition of overpayment**
+**Definition of 
+overpayment**
 
 **88** 
 
-- **(1)** In this section, ***overpayment*** means any compensation, or a part of it, that was paid to a person or their estate or succession and to which the person or the estate or succession had no entitlement.
+- **(1)** In this section, 
+***overpayment*** means any compensation, or a part of it, that was paid to a person or their estate or succession and to which the person or the estate or succession had no entitlement.
 
 **Recovery of overpayment**
 
 - **(2)** If, through any cause, an overpayment is paid to a person or their estate or succession, the overpayment is a debt due to Her Majesty by the person or by their estate or succession, and may be recovered
 	- **(a)** by deduction from any future payments made under this Act to the person or their estate or succession;
-	- **(b)** in accordance with section 155 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
+	- **(b)** in accordance with section 155 of the 
+[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 	- **(c)** by proceedings in any court of competent jurisdiction.
 
 **Remission of overpayment**
 
-- **(3)** If a person or their estate or succession has received or obtained an overpayment, the Minister may, unless that person or the executor of the estate or the liquidator of the succession has been convicted of an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in connection with the receiving or obtaining of the overpayment, remit all or any portion of the overpayment if the Minister is satisfied that
+- **(3)** If a person or their estate or succession has received or obtained an overpayment, the Minister may, unless that person or the executor of the estate or the liquidator of the succession has been convicted of an offence under the 
+[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in connection with the receiving or obtaining of the overpayment, remit all or any portion of the overpayment if the Minister is satisfied that
 	- **(a)** the overpayment cannot be recovered within the reasonably foreseeable future;
 	- **(b)** the administrative costs of recovering the overpayment are likely to equal or exceed the amount to be recovered;
 	- **(c)** the repayment of the overpayment would cause undue hardship to the person or a beneficiary; or
@@ -1498,8 +1544,11 @@ where
 - **(d)** providing for the payment or the reimbursement of fees for financial advice;
 - **(e)** respecting the provision of information or documents to the Minister by persons who are in receipt of job placement assistance services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information or documents are provided;
 - **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling rehabilitation services, vocational assistance or payment of compensation;
-- **(g)** providing for a review of any decisions made under Part 2 and under section 83, including the grounds for review, the powers on review and the number of reviews;
-- **(h)** respecting the time and manner of making an application for a review under sections 83 and 84;
+- **(g)** providing for a review of any decisions made under Part 2 and under section 
+83, including the grounds for review, the powers on review and the number of reviews;
+- **(h)** respecting the time and manner of making an application for a review under sections 
+83 and 
+84;
 - **(i)** respecting the processes and procedures to be followed by the Minister in making decisions under this Act;
 - **(j)** prescribing any matter required or authorized by this Act to be prescribed; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
@@ -1541,15 +1590,15 @@ where
 
 **98** 
 
-- **(1)** On the coming into force of this section, the amounts set out in column 2 of Schedule 1 to this Act shall be adjusted in accordance with sections 19 to 22 of the [War Veterans Allowance Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-3.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in column II of the schedule to that Act.
+- **(1)** On the coming into force of this section, the amounts set out in column 2 of Schedule 1 to this Act shall be adjusted in accordance with sections 19 to 22 of the  [War Veterans Allowance Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-3.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in column II of the schedule to that Act.
 
 **Adjustment of Schedule 2**
 
-- **(2)** On the coming into force of this section, the amount set out in column 2 of item 4 of Schedule 2 to this Act shall be adjusted in accordance with sections 74 to 77 of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if it were an amount set out in Schedule III to that Act.
+- **(2)** On the coming into force of this section, the amount set out in column 2 of item 4 of Schedule 2 to this Act shall be adjusted in accordance with sections 74 to 77 of the  [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if it were an amount set out in Schedule III to that Act.
 
 **Adjustment of classes 21 to 24 of Schedule 3**
 
-- **(3)** On the coming into force of this section, the amounts set out in column 3 of Schedule 3 to this Act in respect of classes 21 to 24 shall be adjusted in accordance with sections 74 to 77 of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in Schedule I to that Act.
+- **(3)** On the coming into force of this section, the amounts set out in column 3 of Schedule 3 to this Act in respect of classes 21 to 24 shall be adjusted in accordance with sections 74 to 77 of the  [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in Schedule I to that Act.
 
 
 
@@ -1674,69 +1723,49 @@ where
 
 <sup><a href='#C-16.8_e_s117'>[*]</a></sup>**117** This Act, other than section 116, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='C-16.8_e_s117'><sup>*</sup></a>: [Note: Section 116 in force on assent May 13, 2005.]<br />
+<a name='C-16.8_e_s117'><sup>*</sup></a>: [Note: Section 116 in force on assent May 13, 2005; Act, other than section 116, in force April 1, 2006, *see* SI/2006-54.]<br />
 
 
 
 
 ### **SCHEDULE 1** 
-**(Section 
-37, paragraphs 
-41(d) and 
-94(c) and subsection 98(1))**
-## Canadian Forces Income Support Benefit
+**(Section 37, paragraphs 41(d) and 94(c) and subsection 98(1))**
 <table>
+<h4>Canadian Forces Income Support Benefit</h4>
 <tr>
-<td></td>
-<td></td>
-<td>Column 1</td>
-<td>Column 2</td>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Monthly </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Amount</td>
-</tr>
-<tr>
-<td>Item</td>
-<td></td>
-<td>Description</td>
-<td> ($)</td>
+<th>Item</th>
+<th>Description</th>
+<th>Monthly Amount($)
+
+</th>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
 <td>Veteran</td>
 <td>1,132.26</td>
 </tr>
 <tr>
 <td>2</td>
-<td></td>
 <td>Veteran having a spouse or a common-law partner, an additional</td>
 <td>586.85</td>
 </tr>
 <tr>
 <td>3</td>
-<td></td>
 <td>Veteran having one or more dependent children, in respect of each dependent child, an additional</td>
 <td>283.07</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
 <td>Survivor</td>
 <td>1,132.26</td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
 <td>Orphan</td>
 <td>606.77</td>
 </tr>
@@ -1746,31 +1775,27 @@ where
 
 
 ### **SCHEDULE 2** 
-**(Subsections 
-38(2) and 
-58(1), section 
-61, paragraph 
-94(c) and subsection 98(2))**
+**(Subsections 38(2) and 58(1), section 61, paragraph 94(c) and subsection 98(2))**
 ## Allowances and Benefits
 <table>
 <tr>
-<td></td>
-<td>Column 1</td>
-<td>Column 2</td>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
-<td>Item</td>
-<td>Allowance or Benefit</td>
-<td>Amount ($)</td>
+<th>Item</th>
+<th>Allowance or Benefit</th>
+<th>Amount ($)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Minimum permanent impairment allowance </td>
-<td>   6,000.00 (yearly)</td>
+<td>Minimum permanent impairment allowance</td>
+<td>6,000.00 (yearly)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Maximum permanent impairment allowance </td>
+<td>Maximum permanent impairment allowance</td>
 <td>18,000.00 (yearly)</td>
 </tr>
 <tr>
@@ -1780,7 +1805,7 @@ where
 </tr>
 <tr>
 <td>4</td>
-<td>Clothing allowance </td>
+<td>Clothing allowance</td>
 <td>1,823.88 (yearly)</td>
 </tr>
 </table>
@@ -1789,217 +1814,142 @@ where
 
 
 ### **SCHEDULE 3** 
-**(Subsection 
-52(1), paragraph 
-94(c) and subsection 98(3))**
-## Disability Award
+**(Subsection 52(1), paragraph 94(c) and subsection 98(3))**
 <table>
+<h4>Disability Award</h4>
 <tr>
-<td>Column 1</td>
-<td>Column 2</td>
-<td>Column 3</td>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
 </tr>
 <tr>
-<td></td>
-<td>Extent of Disability</td>
-<td>Lump Sum Amount</td>
+<th>Class</th>
+<th>Extent of Disability(%)
+
+</th>
+<th>Lump Sum Amount($)
+
+</th>
 </tr>
 <tr>
-<td>Class</td>
-<td>(%)</td>
-<td> ($)</td>
-</tr>
-<tr>
-<td> 1</td>
-<td></td>
-<td></td>
+<td>1</td>
 <td>98-100</td>
 <td>250,000.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 2</td>
-<td></td>
-<td></td>
+<td>2</td>
 <td>93-97</td>
 <td>237,500.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 3</td>
-<td></td>
-<td></td>
+<td>3</td>
 <td>88-92</td>
 <td>225,000.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 4</td>
-<td></td>
-<td></td>
+<td>4</td>
 <td>83-87</td>
 <td>212,500.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 5</td>
-<td></td>
-<td></td>
+<td>5</td>
 <td>78-82</td>
 <td>200,000.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 6</td>
-<td></td>
-<td></td>
+<td>6</td>
 <td>73-77</td>
 <td>187,500.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 7</td>
-<td></td>
-<td></td>
+<td>7</td>
 <td>68-72</td>
 <td>175,000.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 8</td>
-<td></td>
-<td></td>
+<td>8</td>
 <td>63-67</td>
 <td>162,500.00</td>
-<td></td>
 </tr>
 <tr>
-<td> 9</td>
-<td></td>
-<td></td>
+<td>9</td>
 <td>58-62</td>
 <td>150,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
-<td></td>
-<td></td>
 <td>53-57</td>
 <td>137,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>11</td>
-<td></td>
-<td></td>
 <td>48-52</td>
 <td>125,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
 <td>43-47</td>
 <td>112,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
 <td>38-42</td>
 <td>100,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>14</td>
-<td></td>
-<td></td>
 <td>33-37</td>
 <td>87,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>15</td>
-<td></td>
-<td></td>
 <td>28-32</td>
 <td>75,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
-<td></td>
-<td></td>
 <td>23-27</td>
 <td>62,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>17</td>
-<td></td>
-<td></td>
 <td>18-22</td>
 <td>50,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>18</td>
-<td></td>
-<td></td>
 <td>13-17</td>
 <td>37,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>19</td>
-<td></td>
-<td></td>
-<td> 8-12</td>
+<td>8-12</td>
 <td>25,000.00</td>
-<td></td>
 </tr>
 <tr>
 <td>20</td>
-<td></td>
-<td></td>
-<td> 5-7</td>
+<td>5-7</td>
 <td>12,500.00</td>
-<td></td>
 </tr>
 <tr>
 <td>21</td>
-<td></td>
-<td></td>
-<td> 4</td>
+<td>4</td>
 <td>2,617.96</td>
-<td></td>
 </tr>
 <tr>
 <td>22</td>
-<td></td>
-<td></td>
-<td> 3</td>
+<td>3</td>
 <td>1,963.48</td>
-<td></td>
 </tr>
 <tr>
 <td>23</td>
-<td></td>
-<td></td>
-<td> 2</td>
+<td>2</td>
 <td>1,308.97</td>
-<td></td>
 </tr>
 <tr>
 <td>24</td>
-<td></td>
-<td></td>
-<td> 1</td>
+<td>1</td>
 <td>654.49</td>
-<td></td>
 </tr>
 </table>
 
