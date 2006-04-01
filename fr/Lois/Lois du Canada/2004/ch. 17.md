@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2004/c.%2017.md)
 
-# Loi portant mise en vigueur de l'Accord d'autonomie gouvernementale de la première nation de Westbank
+# Loi portant mise en vigueur de l’Accord d’autonomie gouvernementale de la première nation de Westbank
 
 **L.C. 2004, ch. 17**
 
@@ -14,11 +14,11 @@ Sanctionnée sur le 6 mai 2004
 
 **Préambule**
 
-Attendu que le gouvernement du Canada s'est engagé à recommander au Parlement l'édiction d'une loi pour mettre en vigueur l'Accord d'autonomie gouvernementale de la première nation de Westbank,
+Attendu que le gouvernement du Canada s’est engagé à recommander au Parlement l’édiction d’une loi pour mettre en vigueur l’Accord d’autonomie gouvernementale de la première nation de Westbank,
 
 
 
-Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -111,6 +111,20 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 **Loi sur les textes réglementaires**
 
 **8** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux lois de Westbank.
+
+
+
+
+**Loi sur la gestion financière et statistique des premières nations**
+
+**8.1** Malgré toute autre disposition de la présente loi ou toute disposition de l’accord, le gouverneur en conseil peut, afin de donner à la première nation de Westbank la possibilité de profiter des dispositions de la  
+Loi sur la gestion financière et statistique des premières nations ou d’obtenir les services d’un organisme constitué par celle-ci, prendre les règlements qu’il estime nécessaires, et notamment :
+- **a)
+**  adapter toute disposition de cette loi ou des règlements pris en vertu de celle-ci;
+- **b)
+**  restreindre l’application de toute disposition de cette loi ou des règlements pris en vertu de celle-ci.
+> 2005, ch. 9, art. 153.
+
 
 
 
@@ -212,7 +226,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 
-### Loi sur l'accès à l'information
+### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
 
 
 **16** [Modification]
@@ -220,7 +234,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 
-### Loi sur l'enregistrement des lobbyistes
+### Loi sur l’enregistrement des lobbyistes
 
 
 **17** [Modification]
