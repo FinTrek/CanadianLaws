@@ -668,6 +668,27 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
+**Mobilité — militaires des Forces canadiennes**
+
+**35.1** 
+
+- **(1)** Le militaire des Forces canadiennes :
+	- **a)** peut participer à un processus de nomination interne annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise les militaires, pourvu qu’il satisfasse aux autres critères fixés, le cas échéant, en vertu de l’article 34;
+	- **b)** a le droit de présenter une plainte en vertu de l’article 77.
+
+**Présomption**
+
+- **(2)** Le militaire qui participe au processus visé au paragraphe (1) est, dans le cadre du processus, réputé appartenir à la fonction publique.
+
+**Définition de militaire**
+
+- **(3)** Au présent article, ***militaire*** s’entend de la personne qui est enrôlée dans les Forces canadiennes.
+> 2005, ch. 21, art. 115.
+
+
+
+
+
 **Méthode d’évaluation**
 
 **36** La Commission peut avoir recours à toute méthode d’évaluation — notamment prise en compte des réalisations et du rendement antérieur, examens ou entrevues — qu’elle estime indiquée pour décider si une personne possède les qualifications visées à l’alinéa 30(2)a) et au sous-alinéa 30(2)b)(i).
