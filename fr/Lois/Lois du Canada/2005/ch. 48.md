@@ -910,7 +910,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#F-11.9_s64_f'>[*]</a></sup>**64** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='F-11.9_s64_f'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='F-11.9_s64_f'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> avril 2006, *voir* TR/2006-56.]<br />
 
 
 
