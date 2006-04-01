@@ -633,6 +633,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Mobility — members of the Canadian Forces**
+
+**35.1** 
+
+- **(1)** A member of the Canadian Forces
+	- **(a)** may participate in an advertised internal appointment process for which the organizational criterion established under section 34 entitles members of the Canadian Forces to be considered, as long as the member meets the other criteria, if any, established under that section; and
+	- **(b)** has the right to make a complaint under section 77.
+
+**Deemed employment in public service**
+
+- **(2)** A member who participates in a process referred to in subsection (1) is, for the purpose of the process, deemed to be a person employed in the public service.
+
+**Definition of member**
+
+- **(3)** In this section, ***member*** means a person who is enrolled in the Canadian Forces.
+> 2005, c. 21, s. 115.
+
+
+
+
+
 **Assessment methods**
 
 **36** In making an appointment, the Commission may use any assessment method, such as a review of past performance and accomplishments, interviews and examinations, that it considers appropriate to determine whether a person meets the qualifications referred to in paragraph 30(2)(a) and subparagraph 30(2)(b)(i).
