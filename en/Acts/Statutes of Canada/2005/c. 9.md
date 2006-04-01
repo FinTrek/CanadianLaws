@@ -26,8 +26,7 @@ Whereas real property taxation regimes on reserves should recognize both the int
 
 Whereas accurate, timely and credible statistics are a key element of sound financial planning, management and reporting available to other governments in Canada;
 
-Whereas first nations led an initiative that resulted in 1988 in an amendment to the
-					[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
+Whereas first nations led an initiative that resulted in 1988 in an amendment to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
 
 Whereas, in 1995, the First Nations Finance Authority Inc. was incorporated for the purposes of issuing debentures using real property tax revenues and providing investment opportunities;
 
@@ -35,7 +34,13 @@ Whereas, by 1999, first nations and the Government of Canada recognized the bene
 
 And whereas first nations have led an initiative culminating in the introduction of this Act;
 
+
+
+
+
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
 
 
 
@@ -65,7 +70,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***borrowing member*** means a first nation that has been accepted as a borrowing member under subsection 76(2) and has not ceased to be a borrowing member under section 77.
 
-***council*** has the same meaning as “council of the band” in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council*** has the same meaning as ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
 
 ***first nation*** means
 - **(a)** in any provision of Part 5, a band; and
@@ -98,7 +103,7 @@ Version anglaise seulement***third-party management*** means the management of a
 **Amendments to schedule**
 
 - **(3)** At the request of the council of a band, the Governor in Council may, by order, amend the schedule in order to
-	- **(a)** add or change the name of the band; or 
+	- **(a)** add or change the name of the band; or
 	- **(b)** delete the name of the band, as long as there are no amounts owing by the band to the First Nations Finance Authority that remain unpaid.
 
 
@@ -381,9 +386,9 @@ Version anglaise seulement***third-party management*** means the management of a
 
 **16** The following definitions apply in this Part.
 
-***Commission*** means the First Nations Tax Commission.
+***Commission*** means the First Nations Tax Commission. (*Commission*)
 
-***taxpayer*** means a person paying tax under a property taxation law.
+***taxpayer*** means a person paying tax under a property taxation law. (*contribuable*)
 
 
 
@@ -1112,11 +1117,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **60** 
 
-- **(1)** The Authority is not an agent of Her Majesty or a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the public service of Canada.
+- **(1)** The Authority is not an agent of Her Majesty or a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and its officers and employees are not part of the federal public administration.
 
 **No guarantees**
 
 - **(2)** No person shall give a guarantee on behalf of Her Majesty for the discharge of an obligation or liability of the Authority.
+> 2005, c. 9, ss. 60, 154(E).
+
 
 
 
@@ -1928,24 +1935,26 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **114** The following definitions apply in this Part.
 
-***board of directors*** includes
+***board of directors*** includes
 - **(a)** in respect of the First Nations Tax Commission, the commissioners referred to in section 17; and
-- **(b)** in respect of the First Nations Financial Management Board, the directors referred to in section 38.
+- **(b)** in respect of the First Nations Financial Management Board, the directors referred to in section 38. (*conseil d’administra­tion*)
 
-***institution*** means the First Nations Tax Commission or the First Nations Financial Management Board.
-
-
+***institution*** means the First Nations Tax Commission or the First Nations Financial Management Board. (*institution*)
 
 
-**Exclusion from public service**
+
+
+**Exclusion from federal public administration**
 
 **115** 
 
-- **(1)** The officers and employees of an institution are not part of the public service of Canada.
+- **(1)** The officers and employees of an institution are not part of the federal public administration.
 
 **No guarantees**
 
 - **(2)** No person shall give a guarantee on behalf of Her Majesty for the discharge of an obligation or liability of an institution.
+> 2005, c. 9, ss. 115, 154(E).
+
 
 
 
@@ -2346,7 +2355,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 
 
-**PART 8**
+**PART 8** 
 ## Transitional Provisions, Consequential Amendments, Coordinating Amendments and Coming into Force
 
 
@@ -2463,7 +2472,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 <sup><a href='#F-11.67_e_s.155'>[*]</a></sup>**155** The provisions of this Act, other than section 154, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='F-11.67_e_s.155'><sup>*</sup></a>: [Note: Section 154 in force on assent March 23, 2005.]<br />
+<a name='F-11.67_e_s.155'><sup>*</sup></a>: [Note: Section 154 in force on assent March 23, 2005; Act, other than section 154, in force April 1, 2006, *see* SI/2006-59.]<br />
 
 
 
