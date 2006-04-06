@@ -2563,6 +2563,8 @@ Ptychomitre à feuilles incurvées (*Ptychomitrium incurvum*)<br />- <i>Moss, In
 
 ##### Mammifères
 
+Baleine à bec commune (*Hyperoodon ampullatus*) population du plateau néo-écossais <br />- <i>Whale, Northern Bottlenose Scotian Shelf population</i>
+
 Baleine noire de l’Atlantique Nord (*Eubalaena glacialis*)<br />- <i>Whale, North Atlantic Right</i>
 
 Blaireau d’Amérique de la sous-espèce *jacksoni* (*Taxidea taxus jacksoni*)<br />- <i>Badger jacksoni subspecies, American</i>
@@ -3029,6 +3031,8 @@ Dard de sable (*Ammocrypta pellucida*)<br />- <i>Darter, Eastern Sand</i>
 
 Éperlan nain du lac Utopia (*Osmerus spectrum*)<br />- <i>Smelt, Lake Utopia Dwarf</i>
 
+Fouille-roche gris (*Percina copelandi*)<br />- <i>Darter, Channel</i>
+
 Lamproie de Vancouver (*Lampetra macrostoma*)<br />- <i>Lamprey, Vancouver</i>
 
 Lépisosté tacheté (*Lepisosteus oculatus*)<br />- <i>Gar, Spotted</i>
@@ -3369,7 +3373,7 @@ Tortule à poils lisses (*Syntrichia laevipila*)<br />- <i>Moss, Twisted Oak</i>
 Érioderme boréal (*Erioderma pedicellatum*) population boréale<br />- <i>Lichen, Boreal Felt Boreal population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53, 224, art. 1 à 32.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53, 224, art. 1 à 32; DORS/2006-60, art. 1 et 2.
 
 
 
@@ -3432,7 +3436,7 @@ Tortue mouchetée (*Emydoidea blandingi*) population de la Nouvelle-Écosse<br /
 
 
 
-##### **Poissons**
+##### Poissons
 
 Chabot de profondeur des Grands Lacs (*Myoxocephalus thompsoni*) population des Grands Lacs<br />- <i>Sculpin, Deepwater Great Lakes population</i>
 
@@ -3446,8 +3450,6 @@ Cisco à museau court (*Coregonus reighardi*)<br />- <i>Cisco, Shortnose</i>
 
 Cisco à nageoires noires (*Coregonus nigripinnis*)<br />- <i>Cisco, Blackfin</i>
 
-Fouille-roche gris (*Percina copelandi*)<br />- <i>Darter, Channel</i>
-
 Grand corégone (*Coregonus clupeaformis*) population du lac Simcoe<br />- <i>Whitefish, Lake Lake Simcoe population</i>
 
 
@@ -3458,7 +3460,7 @@ Grand corégone (*Coregonus clupeaformis*) population du lac Simcoe<br />- <i>Wh
 Châtaignier d’Amérique (*Castanea dentata*)<br />- <i>Chestnut, American</i>
 
 
-> 2002, ch. 29, ann. 2; DORS/2005-14, art. 54 à 60, 224, art. 33 à 36.
+> 2002, ch. 29, ann. 2; DORS/2005-14, art. 54 à 60, 224, art. 33 à 36; DORS/2006-60, art. 3.
 
 
 
@@ -3467,8 +3469,6 @@ Châtaignier d’Amérique (*Castanea dentata*)<br />- <i>Chestnut, American</i>
 **(article 130)**
 ## Espèces préoccupantes
 ##### Mammifères
-
-Baleine à bec commune (*Hyperoodon ampullatus*) population du ravin océanique<br />- <i>Whale, Northern Bottlenose Gully population</i>
 
 Baleine à bec de Sowerby (*Mesoplodon bidens*)<br />- <i>Whale, Sowerby’s Beaked</i>
 
@@ -3615,6 +3615,6 @@ Hypogymnie maritime (*Hypogymnia heterophylla*)<br />- <i>Seaside Bone</i>
 Lichen cryptique (*Nephroma occultum*)<br />- <i>Cryptic Paw</i>
 
 Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />- <i>Oldgrowth Specklebelly</i>
-> 2002, ch. 29, ann. 3; DORS/2005-14, art. 61 à 65, 224, art. 37 à 40.
+> 2002, ch. 29, ann. 3; DORS/2005-14, art. 61 à 65, 224, art. 37 à 40; DORS/2006-60, art. 4.
 
 
