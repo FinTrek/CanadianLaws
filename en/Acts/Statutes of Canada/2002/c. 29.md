@@ -2586,6 +2586,8 @@ Whale, Killer (*Orcinus orca*) Northeast Pacific southern resident population<br
 
 Whale, North Atlantic Right (*Eubalaena glacialis*)<br />- <i>Baleine noire de l’Atlantique Nord</i>
 
+Whale, Northern Bottlenose (*Hyperoodon ampullatus*) Scotian Shelf population<br />- <i>Baleine à bec commune, population du plateau néo-écossais</i>
+
 Whale, Sei (*Balaenoptera borealis*) Pacific population<br />- <i>Rorqual boréal population du Pacifique</i>
 
 Wolverine (*Gulo gulo*) Eastern population<br />- <i>Carcajou population de l’Est</i>
@@ -3022,6 +3024,8 @@ Stinkpot (*Sternotherus odoratus*)<br />- <i>Tortue musquée</i>
 
 Chubsucker, Lake (*Erimyzon sucetta*)<br />- <i>Sucet de lac</i>
 
+Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
+
 Darter, Eastern Sand (*Ammocrypta pellucida*)<br />- <i>Dard de sable</i>
 
 Gar, Spotted (*Lepisosteus oculatus*)<br />- <i>Lépisosté tacheté</i>
@@ -3370,7 +3374,7 @@ Moss, Twisted Oak (*Syntrichia laevipila*)<br />- <i>Tortule à poils lisses</i>
 Lichen, Boreal Felt (*Erioderma pedicallatum*) Boreal population<br />- <i>Érioderme boréal population boréale</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53, 224, ss. 1 to 32.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53, 224, ss. 1 to 32; SOR/2006-60, ss. 1, 2.
 
 
 
@@ -3441,8 +3445,6 @@ Cisco, Shortjaw (*Coregonus zenithicus*)<br />- <i>Cisco à mâchoires égales</
 
 Cisco, Shortnose (*Coregonus reighardi*)<br />- <i>Cisco à museau court</i>
 
-Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
-
 Redhorse, Black (*Moxostoma duquesnei*)<br />- <i>Chevalier noir</i>
 
 Redhorse, Copper (*Moxostoma hubbsi*)<br />- <i>Chevalier cuivré</i>
@@ -3459,7 +3461,7 @@ Whitefish, Lake (*Coregonus clupeaformis*) Lake Simcoe population<br />- <i>Gran
 Chestnut, American (*Castanea dentata*)<br />- <i>Châtaignier d’Amérique</i>
 
 
-> 2002, c. 29, Sch. 2; SOR/2005-14, ss. 54 to 60, 224, ss. 33 to 36.
+> 2002, c. 29, Sch. 2; SOR/2005-14, ss. 54 to 60, 224, ss. 33 to 36; SOR/2006-60, s. 3.
 
 
 
@@ -3488,8 +3490,6 @@ Squirrel, Southern Flying (*Glaucomys volans*)<br />- <i>Petit polatouche</i>
 Whale, Beluga (*Delphinapterus leucas*) Eastern High Arctic/Baffin Bay population<br />- <i>Béluga population de l’Est du haut Arctique et de la baie de Baffin</i>
 
 Whale, Fin (*Balaenoptera physalus*)<br />- <i>Rorqual commun</i>
-
-Whale, Northern Bottlenose (*Hyperoodon ampullatus*) Gully population<br />- <i>Baleine à bec commune population du ravin océanique</i>
 
 Whale, Sowerby’s Beaked (*Mesoplodon bidens*)<br />- <i>Baleine à bec de Sowerby</i>
 ##### Birds
@@ -3537,7 +3537,7 @@ Cod, Atlantic (*Gadus morhua*)<br />- <i>Morue franche</i>
 
 Dace, Redside (*Clinostomus elongatus*)<br />- <i>Méné long</i>
 
-Dace, Umatilla (*Rhinichthys umatilla*)<br />- <i>Naseux d’Umatilla</i>
+Dace, Umatilla ( *Rhinichthys umatilla*)<br />- <i>Naseux d’Umatilla</i>
 
 Darter, Greenside (*Etheostoma blennioides*)<br />- <i>Dard vert</i>
 
@@ -3616,6 +3616,6 @@ Cryptic Paw (*Nephroma occultum*)<br />- <i>Lichen cryptique</i>
 Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
 Seaside Bone (*Hypogymnia heterophylla*)<br />- <i>Hypogymnie maritime</i>
-> 2002, c. 29, Sch. 3; SOR/2005-14, ss. 61 to 65, 224, ss. 37 to 40.
+> 2002, c. 29, Sch. 3; SOR/2005-14, ss. 61 to 65, 224, ss. 37 to 40; SOR/2006-60, s. 4.
 
 
