@@ -176,6 +176,8 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***Minister*** means the Minister of Finance;
 
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+
 ***NAFTA country resident***[Repealed, 1999, c. 28, s. 1]
 
 ***non-WTO Member foreign bank*** means a foreign bank that is not controlled by a WTO Member resident;
@@ -250,7 +252,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E).
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1.
 
 
 
@@ -558,11 +560,11 @@ the acquisition is deemed to cause the person to increase a substantial investme
 	- **(a)** there shall be set out in Schedule I
 		- **(i)** the name of every bank named in Schedules I and II as those Schedules read immediately before the day section 184 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) comes into force that was not a subsidiary of a foreign bank,
 		- **(ii)** the name of every bank incorporated or formed under this Act that is not a subsidiary of a foreign bank, and
-		- **(iii)** the place in Canada where the head office of the bank is situated; and
+		- **(iii)** the province in which the head office of the bank is situated; and
 	- **(b)** there shall be set out in Schedule II
 		- **(i)** the name of every bank named in Schedule II as that Schedule read immediately before the day section 184 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) comes into force that was a subsidiary of a foreign bank,
 		- **(ii)** the name of every bank incorporated or formed under this Act that is a subsidiary of a foreign bank, and
-		- **(iii)** the place in Canada where the head office of the bank is situated.
+		- **(iii)** the province in which the head office of the bank is situated.
 
 **Amending the schedules**
 
@@ -579,7 +581,7 @@ Schedules I and II shall be amended accordingly.
 **Notice of amendments**
 
 - **(3)** If in any year either Schedule I or II is amended, the Superintendent shall, within sixty days after the end of the year, cause a notice to be published in the Canada Gazette showing Schedule I or II in its complete amended form as at the end of the year.
-> 1991, c. 46, s. 14; 2001, c. 9, s. 43.
+> 1991, c. 46, s. 14; 2001, c. 9, s. 43; 2005, c. 54, s. 4.
 
 
 
@@ -591,7 +593,7 @@ Schedules I and II shall be amended accordingly.
 
 - **(1)** There shall be set out in Schedule III
 	- **(a)** the name of every authorized foreign bank and, where applicable, any other name under which it is permitted to carry on business in Canada;
-	- **(b)** the place in Canada where the principal office of the authorized foreign bank is situated; and
+	- **(b)** the province in which the principal office of the authorized foreign bank is situated; and
 	- **(c)** whether the authorized foreign bank is subject to the restrictions and requirements referred to in subsection 524(2).
 
 **Amending Schedule III**
@@ -604,7 +606,7 @@ Schedules I and II shall be amended accordingly.
 **Notice of amendments**
 
 - **(3)** Where in any year Schedule III is amended, the Superintendent shall, within sixty days after the end of the year, cause a notice to be published in the Canada Gazette showing Schedule III in its complete amended form as at the end of the year.
-> 1999, c. 28, s. 5.
+> 1999, c. 28, s. 5; 2005, c. 54, s. 5.
 
 
 
@@ -681,14 +683,19 @@ Schedules I and II shall be amended accordingly.
 
 **Authority of directors and officers**
 
-**20** A bank or a guarantor of an obligation of a bank may not assert against a person dealing with the bank or with any person who has acquired rights from the bank that
-- **(a)** the bank’s incorporating instrument or any by-laws of the bank have not been complied with,
-- **(b)** the persons named as directors of the bank in the most recent return sent to the Superintendent under section 632 are not the directors of the bank,
-- **(c)** the place named in the incorporating instrument or the by-laws of the bank is not the head office of the bank,
-- **(d)** a person held out by the bank as a director, an officer or a representative of the bank has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the bank or usual for such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the bank with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the bank knowledge to that effect.
-> 1991, c. 46, s. 20; 1999, c. 28, s. 8.
+**20** 
+
+- **(1)** No bank and no guarantor of an obligation of a bank may assert against a person dealing with the bank or against a person who has acquired rights from the bank that
+	- **(a)** the bank’s incorporating instrument or any by-laws of the bank have not been complied with;
+	- **(b)** the persons named as directors of the bank in the most recent return sent to the Superintendent under section 632 are not the directors of the bank;
+	- **(c)** the place named in the incorporating instrument or by-laws of the bank is not the place where the head office of the bank is situated;
+	- **(d)** a person held out by the bank as a director, officer or representative of the bank has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the bank or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the bank with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the bank.
+> 1991, c. 46, s. 20; 1999, c. 28, s. 8; 2005, c. 54, s. 6.
 
 
 
@@ -810,7 +817,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating a bank
 	- **(a)** the name of the bank;
-	- **(b)** the place in Canada where the head office of the bank is to be situated; and
+	- **(b)** the province in which the head office of the bank is to be situated; and
 	- **(c)** the date that the bank came, or is to come, into existence.
 
 **Provisions in letters patent**
@@ -820,6 +827,8 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating a bank as the Minister considers necessary or appropriate.
+> 1991, c. 46, s. 28; 2005, c. 54, s. 7.
+
 
 
 
@@ -1439,11 +1448,13 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **62** 
 
-- **(1)** The by-laws of a bank made pursuant to section 61 may authorize the issue of any class of shares in one or more series and may authorize the directors of the bank to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of a bank may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -1459,7 +1470,9 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares of a series of shares authorized under this section, the directors shall send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+> 1991, c. 46, s. 62; 2005, c. 54, s. 8.
+
 
 
 
@@ -1503,11 +1516,13 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 **Exception**
 
-- **(3)** Notwithstanding subsection (2), a bank may record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(3)** Despite subsection (2), a bank may, subject to subsection (4), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the bank at arm’s length within the meaning of the Income Tax Act, or
-		- **(ii)** shares of a body corporate that immediately before the exchange, or because of the exchange, did not deal with the bank at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** under an agreement referred to in subsection 224(1) to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated bank.
+		- **(i)** property of a person who immediately before the exchange did not deal with the bank at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the bank at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the bank at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the bank and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 224(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated bank.
 
 **Limit on addition to a stated capital account**
 
@@ -1516,7 +1531,7 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 **Constraint on addition to a stated capital account**
 
 - **(5)** Where a bank that has issued any outstanding shares of more than one class or series proposes to add to a stated capital account that it maintains in respect of a class or series of shares an amount that was not received by the bank as consideration for the issue of shares, the addition must be approved by special resolution unless all the issued and outstanding shares are of not more than two classes of convertible shares referred to in subsection 77(4).
-> 1991, c. 46, s. 66; 1997, c. 15, s. 7.
+> 1991, c. 46, s. 66; 1997, c. 15, s. 7; 2005, c. 54, s. 9.
 
 
 
@@ -1626,6 +1641,8 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Saving**
 
 - **(3)** Nothing in subsection (2) precludes a bank that was in existence immediately prior to the day this Part comes into force, or any of its subsidiaries, from holding any security interest held immediately prior to the coming into force of this Part.
+> 1991, c. 46, s. 72; 2005, c. 54, s. 10(F).
+
 
 
 
@@ -2024,7 +2041,7 @@ the restriction or lien is ineffective against a transferee of the security who 
 
 - **(2)** Notwithstanding subsection (1), a bank may treat a person as a registered security holder entitled to exercise all of the rights of the security holder that the person represents, if that person provides the bank with evidence as described in subsection 127(4) that the person is
 	- **(a)** the heir or personal representative of a deceased security holder or the personal representative of the heirs of the deceased security holder;
-	- **(b)** the personal representative of a registered security holder who is an infant, an incompetent person or a missing person; or
+	- **(b)** the personal representative of a registered security holder who is a minor, an incompetent person or a missing person; or
 	- **(c)** a liquidator of, or a trustee in bankruptcy for, a registered security holder.
 
 **Permissible registered holder**
@@ -2034,15 +2051,17 @@ the restriction or lien is ineffective against a transferee of the security who 
 **Immunity of bank**
 
 - **(4)** A bank is not required to inquire into the existence of, or see to the performance or observance of, any duty owed to a third person by a registered holder of any of its securities or by anyone whom it treats, as permitted or required by this Part, as the owner or registered holder thereof.
-> 1991, c. 46, s. 93; 2001, c. 9, s. 62(F).
+> 1991, c. 46, s. 93; 2001, c. 9, s. 62(F); 2005, c. 54, s. 14.
 
 
 
 
 
-**Infant owner**
+**Minors**
 
-**94** If an infant exercises any rights of ownership in the securities of a bank, no subsequent repudiation or avoidance is effective against the bank.
+**94** If a minor exercises any rights of ownership in the securities of a bank, no subsequent repudiation or avoidance is effective against the bank.
+> 1991, c. 46, s. 94; 2005, c. 54, s. 15(E).
+
 
 
 
@@ -3552,8 +3571,8 @@ but does not include
 	- **(d)** if a shareholder has voted for more than one candidate without specifying the distribution of the votes among the candidates, the shareholder is deemed to have distributed the votes equally among the candidates for whom the shareholder voted;
 	- **(e)** if the number of candidates nominated for director exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;
 	- **(f)** each director ceases to hold office at the close of the next annual meeting of shareholders following the director’s election;
-	- **(g)** a director may not be removed from office if the votes cast against the removal would be sufficient to elect the director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected; and
-	- **(h)** the number of directors required by the by-laws may not be decreased if the votes cast against the motion to decrease would be sufficient to elect a director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected.
+	- **(g)** a director may be removed from office only if the number of votes cast in favour of a motion to remove the director is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion; and
+	- **(h)** the number of directors required by the by-laws may be decreased only if the number of votes cast in favour of a motion to decrease the number of directors is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion.
 
 **Mandatory cumulative voting**
 
@@ -3582,7 +3601,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Exception**
 
 - **(5)** Nothing in this Act precludes the holders of any class or series of shares of a bank from having an exclusive right to elect one or more directors.
-> 1991, c. 46, s. 168; 1997, c. 15, s. 14; 2001, c. 9, s. 73.
+> 1991, c. 46, s. 168; 1997, c. 15, s. 14; 2001, c. 9, s. 73; 2005, c. 54, s. 33.
 
 
 
@@ -3725,11 +3744,13 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **177** 
 
-- **(1)** Notwithstanding section 183 but subject to subsection (2) and sections 176 and 178, a quorum of directors may fill a vacancy among the directors except a vacancy among the directors resulting from a change in the by-laws by which the number or minimum number of directors is increased or from a failure to elect the number or minimum number of directors required by the by-laws.
+- **(1)** Despite section 183 but subject to subsection (2) and sections 176 and 178, a quorum of directors may fill a vacancy among the directors except a vacancy resulting from a change in the by-laws by which the number or the minimum or maximum number of directors is increased or from a failure to elect the number or minimum number of directors provided for in the by-laws.
 
 **Where composition fails**
 
 - **(2)** Notwithstanding sections 176 and 183, where by reason of a vacancy the number of directors or the composition of the board of directors fails to meet any of the requirements of section 159, subsection 163(1) and section 164, the directors who, in the absence of any by-law, would be empowered to fill that vacancy shall do so forthwith.
+> 1991, c. 46, s. 177; 2005, c. 54, s. 34.
+
 
 
 
@@ -3737,9 +3758,11 @@ is entitled to submit to the bank a written statement giving the reasons for the
 **Class vacancy**
 
 **178** Notwithstanding section 183, where the holders of any class or series of shares of a bank have an exclusive right to elect one or more directors and a vacancy occurs among those directors, then, subject to section 176,
-- **(a)** the remaining directors elected by the holders of that class or series may fill the vacancy except a vacancy resulting from an increase in the number or minimum number of directors for that class or series or from a failure to elect the number or minimum number of directors for that class or series;
+- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 159, subsection 163(1) and section 164, the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
+> 1991, c. 46, s. 178; 2005, c. 54, s. 35.
+
 
 
 
@@ -4299,21 +4322,22 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **207** 
 
-- **(1)** The directors of a bank who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 65(1) or the issue of subordinated indebtedness contrary to section 80 for a consideration other than money are jointly and severally liable to the bank to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of a bank who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 65(1) or the issue of subordinated indebtedness contrary to section 80 for a consideration other than money are jointly and severally, or solidarily, liable to the bank to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of a bank who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of shares contrary to section 71,
-	- **(b)** a reduction of capital contrary to section 75,
-	- **(c)** a payment of a dividend contrary to section 79,
-	- **(d)** a payment of an indemnity contrary to section 212, or
-	- **(e)** any transaction contrary to Part XI
-are jointly and severally liable to restore to the bank any amounts so distributed or paid and not otherwise recovered by the bank and any amounts in relation to any loss suffered by the bank.
+- **(2)** Directors of a bank who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the bank any amounts so distributed or paid and not otherwise recovered by the bank and any amounts in relation to any loss suffered by the bank:
+	- **(a)** a redemption or purchase of shares contrary to section 71;
+	- **(b)** a reduction of capital contrary to section 75;
+	- **(c)** a payment of a dividend contrary to section 79;
+	- **(d)** a payment of an indemnity contrary to section 212; or
+	- **(e)** any transaction contrary to Part XI.
+> 1991, c. 46, s. 207; 2005, c. 54, s. 42(E).
+
 
 
 
@@ -4347,11 +4371,11 @@ are jointly and severally liable to restore to the bank any amounts so distribut
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **210** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of a bank are jointly and severally liable to each employee of the bank for all debts not exceeding six months wages payable to the employee for services performed for the bank while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of a bank are jointly and severally, or solidarily, liable to each employee of the bank for all debts not exceeding six months wages payable to the employee for services performed for the bank while they are directors.
 
 **Conditions precedent**
 
@@ -4375,49 +4399,61 @@ are jointly and severally liable to restore to the bank any amounts so distribut
 **Contribution entitlement**
 
 - **(6)** A director of a bank who has satisfied a claim under this section is entitled to a contribution from the other directors of the bank who are liable for the claim.
-> 1991, c. 46, s. 210; 1996, c. 6, s. 167.
+> 1991, c. 46, s. 210; 1996, c. 6, s. 167; 2005, c. 54, s. 43(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**211** A director, an officer or an employee of a bank is not liable under subsection 158(1) or (2), section 207 or 210 or subsection 506(1) if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the bank represented to the director, officer or employee by an officer of the bank or in a written report of the auditor or auditors of the bank fairly to reflect the financial condition of the bank; or
-- **(b)** a report of an accountant, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 1991, c. 46, s. 211; 2001, c. 9, s. 78.
+**211** 
+
+- **(1)** A director, officer or employee of a bank is not liable under section 207 or 210 or subsection 506(1) and has fulfilled their duty under subsection 158(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the bank that were represented to them by an officer of the bank or in a written report of the auditor or auditors of the bank fairly to reflect the financial condition of the bank; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of a bank has fulfilled their duty under subsection 158(1) if they relied in good faith on
+	- **(a)** financial statements of the bank that were represented to them by an officer of the bank or in a written report of the auditor or auditors of the bank fairly to reflect the financial condition of the bank; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 46, s. 211; 2001, c. 9, s. 78; 2005, c. 54, s. 44.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **212** 
 
-- **(1)** Except in respect of an action by or on behalf of the bank to procure a judgment in its favour, a bank may indemnify
-	- **(a)** a director or an officer of the bank,
-	- **(b)** a former director or officer of the bank, or
-	- **(c)** any person who acts or acted at the bank’s request as a director or an officer of an entity of which the bank is or was a shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the bank, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** A bank may indemnify a director or officer of the bank, a former director or officer of the bank or another person who acts or acted, at the bank’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the bank or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** A bank may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the bank or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the bank or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** A bank may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** A bank may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the bank or the other entity for which they acted at the bank’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** A bank may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the bank or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the bank or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Notwithstanding anything in this section, a person referred to in subsection (1) is entitled to indemnity from the bank in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the bank or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the bank in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of the association referred to in subsection (1) with the bank or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** A bank may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the bank may indemnify pursuant to subsections (1) to (3).
-> 1991, c. 46, s. 212; 2001, c. 9, s. 79(F).
+- **(6)** A bank may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the bank may indemnify under those subsections.
+> 1991, c. 46, s. 212; 2001, c. 9, s. 79(F); 2005, c. 54, s. 44.
 
 
 
@@ -4427,7 +4463,9 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **213** A bank may purchase and maintain insurance for the benefit of any person referred to in section 212 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the bank, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the bank; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the bank’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the bank’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 1991, c. 46, s. 213; 2005, c. 54, s. 45.
+
 
 
 
@@ -4496,7 +4534,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 	- **(h)** revoke, diminish or enlarge any authority conferred under paragraphs (f) and (g);
 	- **(i)** increase or decrease the number of directors or the minimum or maximum number of directors, subject to subsection 159(1) and section 168;
 	- **(i.1)** change the name of the bank; or
-	- **(j)** change the place in Canada where the head office of the bank is to be situated.
+	- **(j)** change the province in which the head office of the bank is situated.
 
 **Shareholder approval**
 
@@ -4505,7 +4543,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Effective date of by-law**
 
 - **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders under subsection (2) and, in the case of a by-law referred to in paragraph (1)(i.1), approved by the Superintendent.
-> 1991, c. 46, s. 217; 2001, c. 9, s. 82.
+> 1991, c. 46, s. 217; 2001, c. 9, s. 82; 2005, c. 54, s. 46.
 
 
 
@@ -4614,7 +4652,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement**
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated bank and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated bank and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated bank;
 	- **(c)** the manner in which the shares of each applicant are to be converted into shares or other securities of the amalgamated bank;
 	- **(d)** if any shares of an applicant are not to be converted into shares or other securities of the amalgamated bank, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities of the amalgamated bank;
@@ -4626,6 +4664,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Cross ownership of shares**
 
 - **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated bank.
+> 1991, c. 46, s. 224; 2005, c. 54, s. 47.
+
 
 
 
@@ -4645,11 +4685,11 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation whether or not it otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Special resolution**
 
@@ -4658,6 +4698,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant notwithstanding that the agreement has been approved by the shareholders of all or any of the applicant banks or bodies corporate.
+> 1991, c. 46, s. 226; 2005, c. 54, s. 48.
+
 
 
 
@@ -4905,15 +4947,17 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **237** 
 
-- **(1)** A bank shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** A bank shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of a bank may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of a bank may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** A bank shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
+> 1991, c. 46, s. 237; 2005, c. 54, s. 49.
+
 
 
 
@@ -5069,15 +5113,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **245** 
 
-- **(1)** Subject to subsection (3), a bank shall maintain and process in Canada any information or data relating to the preparation and maintenance of the records referred to in section 238 unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the bank from the application of this section.
+- **(1)** Subject to subsection (3), a bank shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 238 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the bank from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (4) and (5), a bank may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (4) and (5), the bank may maintain copies of the records referred to in section 238 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Foreign records**
 
@@ -5098,7 +5142,7 @@ the registers and records required or authorized by this Act to be prepared and 
 **Guidelines**
 
 - **(7)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 46, s. 245; 2001, c. 9, s. 89.
+> 1991, c. 46, s. 245; 2001, c. 9, s. 89; 2005, c. 54, s. 52.
 
 
 
@@ -6044,17 +6088,19 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Approval by directors**
+**Annual statement — approval**
 
 **309** 
 
-- **(1)** The directors of a bank shall approve the annual statement and the approval of the directors shall be evidenced by the signature of
+- **(1)** The directors of a bank shall approve the annual statement and their approval shall be evidenced by the signature or a printed or otherwise mechanically reproduced facsimile of the signature of
 	- **(a)** the chief executive officer or, in the event of that officer’s absence or inability to act, any other officer of the bank authorized by the directors to sign in the stead of the chief executive officer; and
 	- **(b)** one director, if the signature required by paragraph (a) is that of a director, or two directors if the signature required by that paragraph is that of an officer who is not a director.
 
 **Condition precedent to publication**
 
 - **(2)** A bank shall not publish copies of an annual statement unless it is approved and signed in accordance with subsection (1).
+> 1991, c. 46, s. 309; 2005, c. 54, s. 70.
+
 
 
 
@@ -6413,7 +6459,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(a)** the auditor or auditors shall transmit the report, in writing, to the chief executive officer and chief financial officer of the bank;
 	- **(b)** the report shall be presented to the first meeting of the directors following its receipt;
 	- **(c)** the report shall be incorporated in the minutes of that meeting; and
-	- **(d)** the auditor or auditors shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the Superintendent with a copy of the report.
+	- **(d)** the auditor or auditors shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the audit committee of the bank and the Superintendent with a copy.
+> 1991, c. 46, s. 328; 2005, c. 54, s. 74.
+
 
 
 
@@ -6502,13 +6550,15 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Conditions precedent**
 
 - **(2)** No action may be brought and no intervention in an action may be made under subsection (1) by a complainant unless the court is satisfied that
-	- **(a)** the complainant has given reasonable notice to the directors of the bank or the subsidiary of the complainant’s intention to apply to the court under that section if the directors of the bank or its subsidiary do not bring, diligently prosecute or defend, or discontinue the action;
+	- **(a)** the complainant has, not less than 14 days before bringing the application or as otherwise ordered by the court, given notice to the directors of the bank or the bank’s subsidiary of the complainant’s intention to apply to the court under subsection (1) if the directors of the bank or the bank’s subsidiary do not bring, diligently prosecute or defend or discontinue the action;
 	- **(b)** the complainant is acting in good faith; and
 	- **(c)** it appears to be in the interests of the bank or the subsidiary that the action be brought, prosecuted, defended or discontinued.
 
 **Notice to Superintendent**
 
 - **(3)** A complainant under subsection (1) shall give the Superintendent notice of the application and the Superintendent may appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 46, s. 334; 2005, c. 54, s. 75.
+
 
 
 
@@ -6552,6 +6602,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Interim costs**
 
 - **(2)** In an application made or an action brought or intervened in under subsection 334(1) or section 338, the court may at any time order the bank or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable by the court for those interim costs on final disposition of the application or action.
+> 1991, c. 46, s. 337; 2005, c. 54, s. 76(F).
+
 
 
 
@@ -6750,6 +6802,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(ii)** an order continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** an order to the liquidator to restore to the bank all of its remaining property; and
 - **(o)** after the liquidator has rendered the liquidator’s final account to the court, an order directing the bank to apply to the Minister for letters patent dissolving the bank.
+> 1991, c. 46, s. 349; 2005, c. 54, s. 77(F).
+
 
 
 
@@ -6816,11 +6870,13 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 
 
-**Reliance on statements**
+**Due diligence**
 
-**354** A liquidator is not liable if the liquidator relies in good faith on
-- **(a)** financial statements of the bank represented to the liquidator by an officer of the bank, or on a written report of the auditor or auditors of the bank, to reflect fairly the financial condition of the bank; or
-- **(b)** an opinion, a report or a statement of a lawyer, a notary, an accountant, an appraiser or other professional adviser retained by the liquidator.
+**354** A liquidator is not liable if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+- **(a)** financial statements of the bank represented to the liquidator by an officer of the bank or in a written report of the auditor or auditors of the bank fairly to reflect the financial condition of the bank; or
+- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 46, s. 354; 2005, c. 54, s. 78.
+
 
 
 
@@ -12193,7 +12249,7 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 
 - **(1)** An order made under subsection 524(1) shall set out
 	- **(a)** the name of the authorized foreign bank and, where applicable, the name under which it is permitted to carry on business in Canada;
-	- **(b)** the place in Canada where the principal office of the authorized foreign bank is to be situated;
+	- **(b)** the province in which the principal office of the authorized foreign bank is to be situated;
 	- **(c)** whether the authorized foreign bank is subject to any restrictions and requirements referred to in subsection 524(2); and
 	- **(d)** the date on which the order becomes effective.
 
@@ -12208,7 +12264,7 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 **Notice of order**
 
 - **(4)** The Superintendent shall cause to be published in the Canada Gazette a notice of the making of the order.
-> 1991, c. 46, s. 527; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 527; 1999, c. 28, s. 35; 2005, c. 54, s. 79.
 
 
 
@@ -12219,14 +12275,14 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 **528** 
 
 - **(1)** On application by an authorized foreign bank, the Minister may, by further order,
-	- **(a)** change the name under which it is permitted to carry on business in Canada or the place in Canada where its principal office is to be situated as that name or place is set out in the order made under subsection 524(1) or in any other order made under this section;
+	- **(a)** change the name under which it is permitted to carry on business in Canada or the province in which its principal office is to be situated as that name or province is set out in the order made under subsection 524(1) or in any other order made under this section;
 	- **(b)** add any provision referred to in subsection 527(2) or any term or condition referred to in subsection 527(3) or change or remove any of those provisions, terms or conditions that are included in the order made under subsection 524(1) or in any other order made under this section; or
 	- **(c)** add or remove the restrictions and requirements referred to in subsection 524(2).
 
 **Notice of intention**
 
 - **(2)** Before making an application under subsection (1), the authorized foreign bank must publish a notice of intention to make the application at least once a week for a period of four consecutive weeks in the Canada Gazette and in a newspaper of general circulation at or near the place where its principal office is situated.
-> 1991, c. 46, s. 528; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 528; 1999, c. 28, s. 35; 2005, c. 54, s. 80.
 
 
 
@@ -12408,16 +12464,16 @@ but before making a further order the Superintendent shall provide the authorize
 
 **535** 
 
-- **(1)** An authorized foreign bank shall at all times have a principal office in the place in Canada set out in the order under subsection 524(1) or 528(1) made with respect to it.
+- **(1)** An authorized foreign bank shall at all times have a principal office in the province specified in the order made under subsection 524(1) or 528(1) with respect to it.
 
 **Change of principal office**
 
-- **(2)** An authorized foreign bank may change the address of its principal office within the place specified in the order under subsection 524(1) or 528(1) made with respect to it.
+- **(2)** An authorized foreign bank may change the address of its principal office within the province specified in the order made under subsection 524(1) or 528(1) with respect to it.
 
 **Notice of change of address**
 
 - **(3)** An authorized foreign bank shall send to the Superintendent, within fifteen days after any change of address of its principal office, a notice of the change of address.
-> 1991, c. 46, s. 535; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 535; 1999, c. 28, s. 35; 2005, c. 54, s. 81.
 
 
 
@@ -15274,16 +15330,21 @@ together with such other information about the background, business record and e
 
 
 
-**Authority of directors and officers**
+**Authority of directors, officers and representatives**
 
-**669** A bank holding company or a guarantor of an obligation of a bank holding company may not assert against a person dealing with the bank holding company or with any person who has acquired rights from the bank holding company that
-- **(a)** the bank holding company’s incorporating instrument or any by-laws of the bank holding company have not been complied with,
-- **(b)** the persons named as directors of the bank holding company in the most recent return sent to the Superintendent under section 951 are not the directors of the bank holding company,
-- **(c)** the place named in the incorporating instrument or the by-laws of the bank holding company is not the head office of the bank holding company,
-- **(d)** a person held out by the bank holding company as a director, an officer or a representative of the bank holding company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the bank holding company or usual for such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the bank holding company with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the bank holding company knowledge to that effect.
-> 1999, c. 28, s. 65; 2001, c. 9, s. 183.
+**669** 
+
+- **(1)** No bank holding company and no guarantor of an obligation of a bank holding company may assert against a person dealing with the bank holding company or against a person who has acquired rights from the bank holding company that
+	- **(a)** the bank holding company’s incorporating instrument or any by-laws of the bank holding company have not been complied with;
+	- **(b)** the persons named as directors of the bank holding company in the most recent return sent to the Superintendent under section 951 are not the directors of the bank holding company;
+	- **(c)** the place named in the incorporating instrument or by-laws of the bank holding company is not the place where the head office of the bank holding company is situated;
+	- **(d)** a person held out by the bank holding company as a director, officer or representative of the bank holding company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the bank holding company or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the bank holding company with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the bank holding company.
+> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2005, c. 54, s. 83.
 
 
 
@@ -15375,7 +15436,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating a bank holding company
 	- **(a)** the name of the bank holding company;
-	- **(b)** the place in Canada where the head office of the bank holding company is to be situated; and
+	- **(b)** the province in which the head office of the bank holding company is to be situated; and
 	- **(c)** the date that the bank holding company came, or is to come, into existence.
 
 **Provisions in letters patent**
@@ -15385,7 +15446,7 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating a bank holding company as the Minister considers necessary or appropriate.
-> 1999, c. 28, s. 70; 2001, c. 9, s. 183.
+> 1999, c. 28, s. 70; 2001, c. 9, s. 183; 2005, c. 54, s. 84.
 
 
 
@@ -15762,8 +15823,8 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 **699** The Superintendent shall, within sixty days after the end of each year, cause a notice to be published in the Canada Gazette, showing
 - **(a)** the name of every bank holding company; and
-- **(b)** the place in Canada where the head office of the bank holding company is situated.
-> 2001, c. 9, s. 183.
+- **(b)** the province in which the head office of the bank holding company is situated.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 85.
 
 
 
@@ -15898,11 +15959,13 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **706** 
 
-- **(1)** The by-laws of a bank holding company made pursuant to section 705 may authorize the issue of any class of shares in one or more series and may authorize the directors of the bank holding company to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of a bank holding company may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -15918,8 +15981,8 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares of a series of shares authorized under this section, the directors shall send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
-> 2001, c. 9, s. 183.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 86.
 
 
 
@@ -15970,11 +16033,13 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 **Exception**
 
-- **(3)** Notwithstanding subsection (2), a bank holding company may record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(3)** Despite subsection (2), a bank holding company may, subject to subsection (4), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the bank holding company at arm’s length within the meaning of the Income Tax Act, or
-		- **(ii)** shares of a body corporate that immediately before the exchange, or because of the exchange, did not deal with the bank holding company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** under an agreement referred to in subsection 804(1) to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated bank holding company.
+		- **(i)** property of a person who immediately before the exchange did not deal with the bank holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the bank holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the bank holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the bank holding company and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 804(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated bank holding company.
 
 **Limit on addition to a stated capital account**
 
@@ -15983,7 +16048,7 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 **Constraint on addition to a stated capital account**
 
 - **(5)** Where a bank holding company that has issued any outstanding shares of more than one class or series proposes to add to a stated capital account that it maintains in respect of a class or series of shares an amount that was not received by the bank holding company as consideration for the issue of shares, the addition must be approved by special resolution unless all the issued and outstanding shares are of not more than two classes of convertible shares referred to in subsection 720(4).
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 87.
 
 
 
@@ -16096,7 +16161,7 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 **Security interest**
 
 - **(2)** A bank holding company may permit its subsidiaries to hold by way of a security interest shares of the bank holding company or of any body corporate that controls the bank holding company, or any ownership interests of any entity that controls the bank holding company, if the security interest is nominal or immaterial when measured by criteria established by the bank holding company that have been approved in writing by the Superintendent.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 88(F).
 
 
 
@@ -16653,14 +16718,14 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 
 
-**Meeting called by court**
+**Court may order meeting to be called**
 
 **743** 
 
-- **(1)** Where it is impracticable
-	- **(a)** to call a meeting of shareholders of a bank holding company in the manner in which meetings of those shareholders are to be called, or
-	- **(b)** to conduct the meeting in the manner required by the by-laws and this Part,
-or where a court thinks fit to do so for any other reason, the court, on the application of a director or a shareholder entitled to vote at the meeting, may order a meeting to be called, held and conducted in such manner as the court directs.
+- **(1)** A court may, on the application of a director, a shareholder who is entitled to vote at a meeting of shareholders or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
+	- **(a)** it is impracticable to call the meeting within the time or in the manner in which it is to be called;
+	- **(b)** it is impracticable to conduct the meeting in the manner required by this Part or the by-laws; or
+	- **(c)** the court thinks that the meeting ought to be called, held or conducted within the time or in the manner that it directs for any other reason.
 
 **Varying quorum**
 
@@ -16669,7 +16734,7 @@ or where a court thinks fit to do so for any other reason, the court, on the app
 **Valid meeting**
 
 - **(3)** A meeting called, held and conducted pursuant to this section is for all purposes a meeting of shareholders of the bank holding company duly called, held and conducted.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 101.
 
 
 
@@ -16912,8 +16977,8 @@ or where a court thinks fit to do so for any other reason, the court, on the app
 	- **(d)** if a shareholder has voted for more than one candidate without specifying the distribution of the votes among the candidates, the shareholder is deemed to have distributed the votes equally among the candidates for whom the shareholder voted;
 	- **(e)** if the number of candidates nominated for director exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;
 	- **(f)** each director ceases to hold office at the close of the next annual meeting of shareholders following the director’s election;
-	- **(g)** a director may not be removed from office if the votes cast against the removal would be sufficient to elect the director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected; and
-	- **(h)** the number of directors required by the by-laws may not be decreased if the votes cast against the motion to decrease would be sufficient to elect a director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected.
+	- **(g)** a director may be removed from office only if the number of votes cast in favour of a motion to remove the director is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion; and
+	- **(h)** the number of directors required by the by-laws may be decreased only if the number of votes cast in favour of a motion to decrease the number of directors is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion.
 
 **Mandatory cumulative voting**
 
@@ -16940,7 +17005,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Exception**
 
 - **(6)** Nothing in this Part precludes the holders of any class or series of shares of a bank holding company from having an exclusive right to elect one or more directors.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 104.
 
 
 
@@ -17089,12 +17154,12 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **765** 
 
-- **(1)** Notwithstanding section 772 but subject to subsection (2) and sections 764 and 766, a quorum of directors may fill a vacancy among the directors except a vacancy among the directors resulting from a change in the by-laws by which the number or minimum number of directors is increased or from a failure to elect the number or minimum number of directors required by the by-laws.
+- **(1)** Despite section 772 but subject to subsection (2) and sections 764 and 766, a quorum of directors may fill a vacancy among the directors except a vacancy resulting from a change in the by-laws by which the number or the minimum or maximum number of directors is increased or from a failure to elect the number or minimum number of directors provided for in the by-laws.
 
 **Where composition fails**
 
 - **(2)** Notwithstanding sections 764 and 772, where by reason of a vacancy the number of directors or the composition of the board of directors fails to meet any of the requirements of section 749 or section 752, the directors who, in the absence of any by-law, would be empowered to fill that vacancy shall do so forthwith.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 105.
 
 
 
@@ -17103,10 +17168,10 @@ is entitled to submit to the bank holding company a written statement giving the
 **Class vacancy**
 
 **766** Notwithstanding section 772, where the holders of any class or series of shares of a bank holding company have an exclusive right to elect one or more directors and a vacancy occurs among those directors, then, subject to section 764,
-- **(a)** the remaining directors elected by the holders of that class or series may fill the vacancy except a vacancy resulting from an increase in the number or minimum number of directors for that class or series or from a failure to elect the number or minimum number of directors for that class or series;
+- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 749 or section 752, the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 106.
 
 
 
@@ -17596,21 +17661,20 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **794** 
 
-- **(1)** The directors of a bank holding company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 709(1) or the issue of subordinated indebtedness contrary to section 723 for a consideration other than money are jointly and severally liable to the bank holding company to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank holding company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of a bank holding company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 709(1) or the issue of subordinated indebtedness contrary to section 723 for a consideration other than money are jointly and severally, or solidarily, liable to the bank holding company to make good any amount by which the consideration received is less than the fair equivalent of the money that the bank holding company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of a bank holding company who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of shares contrary to section 715,
-	- **(b)** a reduction of capital contrary to section 718,
-	- **(c)** a payment of a dividend contrary to section 722, or
-	- **(d)** a payment of an indemnity contrary to section 799
-are jointly and severally liable to restore to the bank holding company any amounts so distributed or paid and not otherwise recovered by the bank holding company and any amounts in relation to any loss suffered by the bank holding company.
-> 2001, c. 9, s. 183.
+- **(2)** Directors of a bank holding company who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the bank holding company any amounts so distributed or paid and not otherwise recovered by the bank holding company and any amounts in relation to any loss suffered by the bank holding company:
+	- **(a)** a redemption or purchase of shares contrary to section 715;
+	- **(b)** a reduction of capital contrary to section 718;
+	- **(c)** a payment of a dividend contrary to section 722; or
+	- **(d)** a payment of an indemnity contrary to section 799.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 113(E).
 
 
 
@@ -17647,11 +17711,11 @@ are jointly and severally liable to restore to the bank holding company any amou
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **797** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of a bank holding company are jointly and severally liable to each employee of the bank holding company for all debts not exceeding six months wages payable to the employee for services performed for the bank holding company while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of a bank holding company are jointly and severally, or solidarily, liable to each employee of the bank holding company for all debts not exceeding six months wages payable to the employee for services performed for the bank holding company while they are directors.
 
 **Conditions precedent**
 
@@ -17675,49 +17739,61 @@ are jointly and severally liable to restore to the bank holding company any amou
 **Contribution entitlement**
 
 - **(6)** A director of a bank holding company who has satisfied a claim under this section is entitled to a contribution from the other directors of the bank holding company who are liable for the claim.
-> 2001, c. 9, s. 183; 2004, c. 25, s. 186.
+> 2001, c. 9, s. 183; 2004, c. 25, s. 186; 2005, c. 54, s. 114(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**798** A director, an officer or an employee of a bank holding company is not liable under subsection 748(1) or (2) or section 794 or 797 if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the bank holding company represented to the director, officer or employee by an officer of the bank holding company or in a written report of the auditor of the bank holding company fairly to reflect the financial condition of the bank holding company; or
-- **(b)** a report of an accountant, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 2001, c. 9, s. 183.
+**798** 
+
+- **(1)** A director, officer or employee of a bank holding company is not liable under section 794 or 797 and has fulfilled their duty under subsection 748(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the bank holding company that were represented to them by an officer of the bank holding company or in a written report of the auditor of the bank holding company fairly to reflect the financial condition of the bank holding company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of a bank holding company has fulfilled their duty under subsection 748(1) if they relied in good faith on
+	- **(a)** financial statements of the bank holding company that were represented to them by an officer of the bank holding company or in a written report of the auditor of the bank holding company fairly to reflect the financial condition of the bank holding company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 115.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **799** 
 
-- **(1)** Except in respect of an action by or on behalf of the bank holding company to procure a judgment in its favour, a bank holding company may indemnify
-	- **(a)** a director or an officer of the bank holding company,
-	- **(b)** a former director or officer of the bank holding company, or
-	- **(c)** any person who acts or acted at the bank holding company’s request as a director or an officer of an entity of which the bank holding company is or was a shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the bank holding company, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** A bank holding company may indemnify a director or officer of the bank holding company, a former director or officer of the bank holding company or another person who acts or acted, at the bank holding company’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the bank holding company or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** A bank holding company may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the bank holding company or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the bank holding company or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** A bank holding company may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** A bank holding company may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the bank holding company or the other entity for which they acted at the bank holding company’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** A bank holding company may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the bank holding company or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the bank holding company or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Notwithstanding anything in this section, a person referred to in subsection (1) is entitled to indemnity from the bank holding company in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the bank holding company or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the bank holding company in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of the association referred to in subsection (1) with the bank holding company or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** A bank holding company may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the bank holding company may indemnify pursuant to subsections (1) to (3).
-> 2001, c. 9, s. 183.
+- **(6)** A bank holding company may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the bank holding company may indemnify under those subsections.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 115.
 
 
 
@@ -17727,8 +17803,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **800** A bank holding company may purchase and maintain insurance for the benefit of any person referred to in section 799 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the bank holding company, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the bank holding company; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the bank holding company’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
-> 2001, c. 9, s. 183.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the bank holding company’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 116.
 
 
 
@@ -17813,7 +17889,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement**
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated bank holding company and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated bank holding company and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated bank holding company;
 	- **(c)** the manner in which the shares of each applicant are to be converted into shares or other securities of the amalgamated bank holding company;
 	- **(d)** if any shares of an applicant are not to be converted into shares or other securities of the amalgamated bank holding company, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities of the amalgamated bank holding company;
@@ -17825,7 +17901,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Cross ownership of shares**
 
 - **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated bank holding company.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 117.
 
 
 
@@ -17848,11 +17924,11 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation whether or not it otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Special resolution**
 
@@ -17861,7 +17937,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant notwithstanding that the agreement has been approved by the shareholders of all or any of the applicant bodies corporate.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 118.
 
 
 
@@ -18070,16 +18146,16 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **814** 
 
-- **(1)** A bank holding company shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** A bank holding company shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of a bank holding company may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of a bank holding company may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** A bank holding company shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 119.
 
 
 
@@ -18239,15 +18315,15 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **822** 
 
-- **(1)** Subject to subsection (3), a bank holding company shall maintain and process in Canada any information or data relating to the preparation and maintenance of the records referred to in section 815 unless the Superintendent has, subject to such terms and conditions as the Superintendent considers appropriate, exempted the bank holding company from the application of this section.
+- **(1)** Subject to subsection (3), a bank holding company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 815 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the bank holding company from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (3) and (4), a bank holding company may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (3) and (4), the bank holding company may maintain copies of the records referred to in section 815 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Information for Superintendent**
 
@@ -18264,7 +18340,7 @@ the registers and records required or authorized by this Part to be prepared and
 **Guidelines**
 
 - **(6)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 122.
 
 
 
@@ -18545,18 +18621,18 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Approval by directors**
+**Annual statement — approval**
 
 **841** 
 
-- **(1)** The directors of a bank holding company shall approve the annual statement and the approval of the directors shall be evidenced by the signature of
+- **(1)** The directors of a bank holding company shall approve the annual statement and their approval shall be evidenced by the signature or a printed or otherwise mechanically reproduced facsimile of the signature of
 	- **(a)** the chief executive officer or, in the event of that officer’s absence or inability to act, any other officer of the bank holding company authorized by the directors to sign in the stead of the chief executive officer; and
 	- **(b)** one director, if the signature required by paragraph (a) is that of a director, or two directors if the signature required by that paragraph is that of an officer who is not a director.
 
 **Condition precedent to publication**
 
 - **(2)** A bank holding company shall not publish copies of an annual statement unless it is approved and signed in accordance with subsection (1).
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 127.
 
 
 
@@ -21023,6 +21099,15 @@ together with such other information about the background, business record and e
 
 
 
+**Execution of documents**
+
+**964.1** Any by-law, notice, resolution, requisition, statement or other document required or permitted to be executed or signed by more than one person for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the persons. The documents if duly executed or signed by all persons required or permitted to sign them are deemed to constitute one document for the purposes of this Act.
+> 2005, c. 54, s. 132.
+
+
+
+
+
 **Notice to directors and shareholders**
 
 **965** A notice or document required by this Act or the regulations or by the incorporating instrument or by-laws of a bank or a bank holding company to be sent to a shareholder or director of the bank or bank holding company may be sent by prepaid mail addressed to, or may be delivered personally to,
@@ -21051,8 +21136,8 @@ together with such other information about the background, business record and e
 
 **Undelivered notices**
 
-- **(2)** If a bank or a bank holding company sends a notice or document to a shareholder in accordance with section 965 and the notice or document is returned on three consecutive occasions because the shareholder cannot be found, the bank or bank holding company is not required to send any further notices or documents to the shareholder until informed in writing of the shareholder’s new address.
-> 2001, c. 9, s. 183.
+- **(2)** If a bank or bank holding company sends a notice or document to a shareholder in accordance with section 965 and it is returned on two consecutive occasions because the shareholder cannot be found, the bank or bank holding company is not required to send any further notices or documents to the shareholder until it is informed in writing of their new address.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 133.
 
 
 
@@ -21088,7 +21173,7 @@ together with such other information about the background, business record and e
 **Entry in securities register**
 
 **970** An entry in the securities register of, or on a security certificate issued by, a bank or a bank holding company is evidence that the person in whose name the security is registered is the owner of the securities described in the register or in the certificate.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 134(F).
 
 
 
@@ -21283,20 +21368,30 @@ together with such other information about the background, business record and e
 
 **Power to make regulations**
 
-**978** The Governor in Council may make regulations
-- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
-- **(b)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined;
-- **(c)** respecting, for any purpose of any provision of the Act, the determination of the equity of a bank or a bank holding company;
-- **(d)** defining words and expressions to be defined for the purposes of this Act;
-- **(e)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount of the fee or the manner of determining its amount;
-- **(f)** respecting the regulatory capital and total assets of a bank or a bank holding company;
-- **(g)** respecting the retention, in Canada, of assets of a bank or a bank holding company;
-- **(h)** respecting the value of assets of a bank or a bank holding company to be held in Canada and the manner in which those assets are to be held;
-- **(i)** respecting the protection and maintenance of assets of a bank or a bank holding company, including regulations respecting the bonding of directors, officers and employees of a bank or a bank holding company;
-- **(j)** respecting the holding of shares and ownership interests for the purposes of sections 70, 74 and 714;
-- **(k)** respecting information, in addition to the information required by section 634 or 953, to be maintained in the register referred to in that section; and
-- **(l)** generally for carrying out the purposes and provisions of this Act.
-> 2001, c. 9, s. 183.
+**978** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
+	- **(b)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined;
+	- **(c)** respecting, for any purpose of any provision of the Act, the determination of the equity of a bank or a bank holding company;
+	- **(d)** defining words and expressions to be defined for the purposes of this Act;
+	- **(e)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount of the fee or the manner of determining its amount;
+	- **(f)** respecting the regulatory capital and total assets of a bank or a bank holding company;
+	- **(g)** respecting the retention, in Canada, of assets of a bank or a bank holding company;
+	- **(h)** respecting the value of assets of a bank or a bank holding company to be held in Canada and the manner in which those assets are to be held;
+	- **(i)** respecting the protection and maintenance of assets of a bank or a bank holding company, including regulations respecting the bonding of directors, officers and employees of a bank or a bank holding company;
+	- **(j)** respecting the holding of shares and ownership interests for the purposes of sections 70, 74 and 714;
+	- **(k)** respecting information, in addition to the information required by section 634 or 953, to be maintained in the register referred to in that section; and
+	- **(l)** generally for carrying out the purposes and provisions of this Act.
+
+**Incorporation by reference**
+
+- **(2)** The regulations may incorporate any material by reference regardless of its source and either as it exists on a particular date or as amended from time to time.
+
+**Incorporated material is not a regulation**
+
+- **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 135.
 
 
 
@@ -21519,7 +21614,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 - **(1)** Every person who is guilty of an offence under any of sections 980 to 984 is
 	- **(a)** in the case of a natural person, liable
 		- **(i)** on summary conviction, to a fine of not more than $100,000 or to imprisonment for a term of not more than twelve months, or to both, or
-		- **(ii)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both; and
+		- **(ii)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; and
 	- **(b)** in the case of an entity, liable
 		- **(i)** on summary conviction, to a fine of not more than $500,000, or
 		- **(ii)** on conviction on indictment, to a fine of not more than $5,000,000.
@@ -21530,8 +21625,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 **Additional fine**
 
-- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or to the spouse, common-law partner or other dependant of the convicted person, order the convicted person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of those monetary benefits.
-> 2001, c. 9, s. 183.
+- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or their spouse, common-law partner or other dependant, order the convicted person to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to three times the court’s estimation of the amount of those monetary benefits.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 136.
 
 
 
@@ -21589,10 +21684,16 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 
 
-**Appeals**
+**Appeal of final order**
 
-**990** Any decision or order of a court under this Act may be appealed to the court of appeal.
-> 2001, c. 9, s. 183.
+**990** 
+
+- **(1)** An appeal lies to the court of appeal of a province from any final order made by a court of that province under this Act.
+
+**Appeal with leave**
+
+- **(2)** An appeal lies to the court of appeal of a province from any order, other than a final order made by a court of that province, only with leave of the court of appeal in accordance with the rules applicable to that court.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 137.
 
 
 
@@ -21609,380 +21710,392 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2005
+## as at April 26, 2005
 <table>
 <tr>
-<th>Name of Bank</th>
-<th>Head Office</th>
+<td>Column 1</td>
+<td>Column 2</td>
+</tr>
+<tr>
+<td>Name of Bank</td>
+<td>Head Office</td>
 </tr>
 <tr>
 <td>Amicus Bank</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of Montreal</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>The Bank of Nova Scotia</td>
-<td>Halifax</td>
+<td>Nova Scotia</td>
 </tr>
 <tr>
 <td>Bank West</td>
-<td>High River</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Canadian Imperial Bank of Commerce</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Canadian Tire Bank</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Canadian Western Bank</td>
-<td>Edmonton</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Citizens Bank of Canada</td>
-<td>Vancouver</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>CS Alterna Bank</td>
-<td>Ottawa</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Dundee Wealth Bank</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>First Nations Bank of Canada</td>
-<td>Walpole Island</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
-<td>Edmonton</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Laurentian Bank of Canada</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Manulife Bank of Canada</td>
-<td>Waterloo</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>National Bank of Canada</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Pacific & Western Bank of Canada</td>
-<td>London</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>President’s Choice Bank</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Royal Bank of Canada</td>
-<td>Montréal</td>
+<td>Quebec</td>
+</tr>
+<tr>
+<td>Sears Canada Bank</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>The Toronto-Dominion Bank</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Ubiquity Bank of Canada</td>
-<td>Abbotsford</td>
+<td>British Columbia</td>
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; Canada Gazette Part I, Volume 140, page 264.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2005
+## as at April 26, 2005
 <table>
 <tr>
-<th>Name of Bank</th>
-<th>Head Office</th>
+<td>Column 1</td>
+<td>Column 2</td>
+</tr>
+<tr>
+<td>Name of Bank</td>
+<td>Head Office</td>
 </tr>
 <tr>
 <td>ABN AMRO Bank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Amex Bank of Canada</td>
-<td>Markham</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of China (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of East Asia (Canada)</td>
-<td>Richmond Hill</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of Tokyo-Mitsubishi (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank One Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>BCPBank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>BNP Paribas (Canada)</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Citibank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>CTC Bank of Canada</td>
-<td>Vancouver</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>Habib Canadian Bank</td>
-<td>Mississauga</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>HSBC Bank Canada</td>
-<td>Vancouver</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>ICICI Bank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>ING Bank of Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>International Commercial Bank of Cathay (Canada)</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>J.P. Morgan Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>J.P. Morgan Bank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>J.P. Morgan Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Korea Exchange Bank of Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>MBNA Canada Bank</td>
-<td>Ottawa</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Mizuho Corporate Bank (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>National Bank of Greece (Canada)</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
-<td>Montréal</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>State Bank of India (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Sumitomo Mitsui Banking Corporation of Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>UBS Bank (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>UFJ Bank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; Canada Gazette Part I, Volume 140, page 264.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2005
+## as at April 26, 2005
 <table>
 <tr>
-<th>Name of Authorized Foreign Bank (FB)</th>
-<th>Name under which FB is permitted to carry on business in Canada</th>
-<th>Type of Foreign Bank Branch (FBB)<sup><a href='#B-1.01_en_1'>[*]</a></sup></th>
-<th>Principal Office</th>
+<td>Column 1</td>
+<td>Column 2</td>
+<td>Column 3</td>
+<td>Column 4</td>
+</tr>
+<tr>
+<td>Name of Authorized Foreign Bank (FB)</td>
+<td>Name under which FB is permitted to carry on business in Canada</td>
+<td>Type of Foreign Bank Branch (FBB)<sup><a href='#c54_SchIII_e'>[*]</a></sup></td>
+<td>Principal Office</td>
 </tr>
 <tr>
 <td>ABN AMRO Bank N.V.</td>
 <td>ABN AMRO Bank N.V.</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bayerische Landesbank</td>
+<td>Bayerische Landesbank</td>
+<td>Full-service</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Capital One Bank</td>
 <td>Capital One Bank (Canada Branch)</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Citibank, N.A.</td>
 <td>Citibank, N.A.</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Comerica Bank</td>
 <td>Comerica Bank</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A.</td>
 <td>Rabobank Nederland</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Credit Suisse First Boston</td>
-<td>Credit Suisse, Toronto Branch</td>
+<td>Credit Suisse First Boston Toronto Branch</td>
 <td>Lending</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Deutsche Bank AG</td>
 <td>Deutsche Bank AG</td>
 <td>Full-service</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Dexia Crédit Local S.A.</td>
-<td>Dexia Crédit Local S.A.</td>
-<td>Full-service</td>
-<td>Montréal</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
 <td>Fifth Third Bank</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>First Commercial Bank</td>
 <td>First Commercial Bank</td>
 <td>Full-service</td>
-<td>Greater Vancouver Regional District</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Maple Bank GmbH</td>
 <td>Maple Bank</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Mellon Bank, N.A.</td>
 <td>Mellon Bank, N.A.</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>National City Bank</td>
 <td>National City</td>
 <td>Lending</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Ohio Savings Bank</td>
 <td>Ohio Savings Bank, Canadian Branch</td>
 <td>Lending</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Société Générale</td>
-<td>Société Générale (Canada Branch)</td>
-<td>Full-service</td>
-<td>Montréal</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>UBS AG</td>
 <td>UBS AG Canada Branch</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Union Bank of California, N.A.</td>
 <td>Union Bank of California, Canada Branch</td>
 <td>Lending</td>
-<td>Calgary</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>United Overseas Bank Limited</td>
 <td>United Overseas Bank Limited</td>
 <td>Full-service</td>
-<td>Vancouver</td>
+<td>British Columbia</td>
 </tr>
 <tr>
 <td>U.S. Bank National Association</td>
 <td>U.S. Bank National Association</td>
 <td>Full-service</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>WestLB AG</td>
 <td>WestLB AG</td>
 <td>Lending</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 </table>
 
 
-<a name='B-1.01_en_1'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; Canada Gazette Part I, Volume 140, page 264.
+<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the  Bank Act is referred to as a “lending” branch.<br />
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
 
 
