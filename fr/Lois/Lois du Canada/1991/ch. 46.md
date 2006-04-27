@@ -151,6 +151,8 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
 
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+
 ***ministre*** Le ministre des Finances.
 
 ***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
@@ -236,7 +238,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A).
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1.
 
 
 
@@ -520,11 +522,11 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 	- **a)** les renseignements suivants doivent figurer à l’annexe I :
 		- **(i)** la dénomination sociale de chaque banque qui figurait aux annexes I ou II dans leur version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et qui n’était pas la filiale d’une banque étrangère,
 		- **(ii)** la dénomination sociale de chaque banque constituée ou formée sous le régime de la présente loi et qui n’est pas la filiale d’une banque étrangère,
-		- **(iii)** le lieu, au Canada, du siège de chacune de ces banques;
+		- **(iii)** la province où se trouve le siège de chacune de ces banques;
 	- **b)** les renseignements suivants doivent figurer à l’annexe II :
 		- **(i)** la dénomination sociale de chaque banque qui figurait à l’annexe II dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et qui était la filiale d’une banque étrangère,
 		- **(ii)** la dénomination sociale de chaque banque constituée ou formée sous le régime de la présente loi et qui est la filiale d’une banque étrangère,
-		- **(iii)** le lieu, au Canada, du siège de chacune de ces banques.
+		- **(iii)** la province où se trouve le siège de chacune de ces banques.
 
 **Modification des annexes**
 
@@ -540,7 +542,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 **Avis**
 
 - **(3)** Le surintendant doit, dans les soixante jours suivant la fin de chaque année où l’annexe I ou II est modifiée, faire publier un avis dans la Gazette du Canada reproduisant le texte complet de l’annexe I ou II dans sa forme modifiée à la fin de l’année.
-> 1991, ch. 46, art. 14; 2001, ch. 9, art. 43.
+> 1991, ch. 46, art. 14; 2001, ch. 9, art. 43; 2005, ch. 54, art. 4.
 
 
 
@@ -550,14 +552,14 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 **14.1** 
 
-- **(1)** Les renseignements suivants doivent figurer à l’annexe III :
+- **(1)** Les renseignements suivants doivent figurer à l’annexe III :
 	- **a)** la dénomination sociale de chaque banque étrangère autorisée et, le cas échéant, toute autre dénomination sous laquelle elle est autorisée à exercer ses activités au Canada;
-	- **b)** le lieu du Canada où est situé son bureau principal;
+	- **b)** la province où se trouve son bureau principal;
 	- **c)** s’il y a lieu, le fait qu’elle fait l’objet des restrictions et exigences visées au paragraphe 524(2).
 
 **Modification**
 
-- **(2)** Les modifications nécessaires sont effectuées à l’annexe III dans les cas suivants :
+- **(2)** Les modifications nécessaires sont effectuées à l’annexe III dans les cas suivants :
 	- **a)** cessation d’effet de l’arrêté prévu au paragraphe 524(1);
 	- **b)** changement des renseignements visés aux alinéas (1)a) et b);
 	- **c)** adjonction ou suppression des restrictions et exigences visées au paragraphe 524(2).
@@ -565,7 +567,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 **Avis**
 
 - **(3)** Le surintendant doit, dans les soixante jours suivant la fin de chaque année où l’annexe III est modifiée, faire publier un avis dans la Gazette du Canada reproduisant le texte complet de l’annexe III dans sa forme modifiée à la fin de l’année.
-> 1999, ch. 28, art. 5.
+> 1999, ch. 28, art. 5; 2005, ch. 54, art. 5.
 
 
 
@@ -638,15 +640,21 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 
 
-**Irrecevabilité de certaines prétentions**
+**Prétentions interdites**
 
-**20** La banque non plus que ses cautions ne peut opposer aux personnes qui font affaire avec elle ou ses ayants droit — sauf si ces personnes, en raison de leur poste chez elle ou de leurs relations avec elle, connaissaient ou auraient dû connaître la situation réelle — les prétentions suivantes :
-- **a)** il y a eu manquement à son acte constitutif ou à ses règlements administratifs;
-- **b)** les personnes qui figurent comme administrateurs de la banque dans le dernier relevé envoyé au surintendant aux termes de l’article 632 ne sont pas ses administrateurs;
-- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
-- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement soit du poste, soit de son activité commerciale;
-- **e)** un document émanant régulièrement d’un tel administrateur, dirigeant ou mandataire n’est ni valable ni authentique.
-> 1991, ch. 46, art. 20; 1999, ch. 28, art. 8.
+**20** 
+
+- **(1)** La banque, ou ses cautions, ne peuvent opposer aux personnes qui ont traité avec elle ou à ses ayants droit ou ayants cause les prétentions suivantes :
+	- **a)** son acte constitutif ou ses règlements administratifs n’ont pas été observés;
+	- **b)** les personnes qui figurent comme administrateurs de la banque dans le dernier relevé envoyé au surintendant aux termes de l’article 632 ne sont pas ses administrateurs;
+	- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
+	- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement du poste ou de son activité commerciale;
+	- **e)** un document émanant régulièrement de l’un de ses administrateurs, dirigeants ou mandataires n’est pas valable ou authentique.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui connaissent ou devraient connaître une situation visée à ce paragraphe en raison de leur relation avec la banque.
+> 1991, ch. 46, art. 20; 1999, ch. 28, art. 8; 2005, ch. 54, art. 6.
 
 
 
@@ -768,7 +776,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 - **(1)** Les lettres patentes d’une banque doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
-	- **b)** le lieu du siège au Canada;
+	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution.
 
 **Dispositions particulières**
@@ -778,6 +786,8 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 **Conditions**
 
 - **(3)** Le ministre peut assujettir la délivrance des lettres patentes de la banque aux conditions qu’il estime indiquées.
+> 1991, ch. 46, art. 28; 2005, ch. 54, art. 7.
+
 
 
 
@@ -1387,11 +1397,13 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 
 
-**Séries d’actions**
+**Émission d’actions en série**
 
 **62** 
 
-- **(1)** Les règlements administratifs visés à l’article 61 peuvent permettre l’émission d’une catégorie d’actions en une ou plusieurs séries et autoriser les administrateurs à fixer, s’il y a lieu, le nombre maximal et la désignation des actions de chaque série, ainsi qu’à déterminer les droits, privilèges, conditions et restrictions qui leur sont attachés.
+- **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
+	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
+	- **b)** permettre aux administrateurs de le faire.
 
 **Participation des séries**
 
@@ -1407,7 +1419,9 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Documents à envoyer au surintendant**
 
-- **(5)** Avant de procéder à l’émission d’actions autorisées aux termes du présent article, les administrateurs font parvenir au surintendant un exemplaire du règlement administratif afférent et lui communiquent tous détails sur les séries qui seront émises.
+- **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
+> 1991, ch. 46, art. 62; 2005, ch. 54, art. 8.
+
 
 
 
@@ -1451,11 +1465,13 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **Exception**
 
-- **(3)** La banque peut porter au compte capital déclaré correspondant une partie seulement du montant de l’apport reçu en contrepartie des actions dans les cas suivants :
-	- **a)** elle émet les actions en échange :
-		- **(i)** de biens d’une personne avec qui, avant l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** d’actions d’une personne morale avec laquelle, avant l’échange ou à cause de l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** elle émet les actions aux termes d’une convention visée au paragraphe 224(1) en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place de valeurs mobilières de la banque issue de la fusion.
+- **(3)** Malgré le paragraphe (2), la banque peut, sous réserve du paragraphe (4), verser au compte capital déclaré afférent à la catégorie ou à la série d’actions concernée une partie du montant de l’apport reçu en contrepartie d’actions émises :
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque la banque avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, la banque et tous les détenteurs des actions de la catégorie ou de la série d’actions ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 224(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de la banque issue de la fusion.
 
 **Limite**
 
@@ -1464,7 +1480,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Restriction**
 
 - **(5)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, la banque ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de la banque appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 77(4).
-> 1991, ch. 46, art. 66; 1997, ch. 15, art. 7.
+> 1991, ch. 46, art. 66; 1997, ch. 15, art. 7; 2005, ch. 54, art. 9.
 
 
 
@@ -1556,11 +1572,11 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 
 
-**Représentant personnel**
+**Exception — représentant personnel**
 
 **72** 
 
-- **(1)** La banque et ses filiales — si elle le leur permet — peuvent, en qualité de représentant personnel, mais à condition que ce ne soit pas à titre de véritable propriétaire, détenir soit des actions de la banque ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
+- **(1)** La banque — ainsi que ses filiales si elle le leur permet — peut, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, détenir soit des actions de la banque ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
 
 **Sûreté**
 
@@ -1569,6 +1585,8 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Précision**
 
 - **(3)** Le paragraphe (2) n’a pas pour effet d’empêcher une banque qui existait à la date d’entrée en vigueur de la présente partie ou l’une de ses filiales de continuer à détenir une sûreté qu’elle détenait à cette date.
+> 1991, ch. 46, art. 72; 2005, ch. 54, art. 10(F).
+
 
 
 
@@ -1953,7 +1971,7 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Immunité de la banque**
 
 - **(4)** La banque n’est pas tenue de vérifier si des obligations envers des tiers incombent au détenteur inscrit de l’une de ses valeurs mobilières ou à la personne considérée en vertu de la présente partie comme tel ou comme propriétaire, ni de veiller à leur exécution.
-> 1991, ch. 46, art. 93; 2001, ch. 9, art. 62(F).
+> 1991, ch. 46, art. 93; 2001, ch. 9, art. 62(F); 2005, ch. 54, art. 14.
 
 
 
@@ -1962,6 +1980,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Mineurs**
 
 **94** En cas d’exercice par un mineur de droits attachés à la propriété des valeurs mobilières de la banque, aucun désaveu ultérieur n’a d’effet contre celle-ci.
+> 1991, ch. 46, art. 94; 2005, ch. 54, art. 15(A).
+
 
 
 
@@ -3437,8 +3457,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **d)** l’actionnaire qui a voté pour plus d’un candidat, sans autres précisions, est réputé avoir réparti ses voix également entre les candidats;
 	- **e)** si le nombre de candidats en nomination est supérieur au nombre de postes à pourvoir, les candidats qui recueillent le plus petit nombre de voix sont éliminés jusqu’à ce que le nombre de candidats restants soit égal au nombre de postes à pourvoir;
 	- **f)** le mandat de chaque administrateur prend fin à la clôture de l’assemblée annuelle suivant son élection;
-	- **g)** la révocation d’un administrateur ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
-	- **h)** la réduction, par motion, du nombre fixe d’administrateurs prévu par les règlements administratifs ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs.
+	- **g)** la révocation d’un administrateur ne peut intervenir que si le nombre de voix en faveur de la motion visant la révocation dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
+	- **h)** la réduction, par motion, du nombre fixe d’administrateurs prévu par les règlements administratifs ne peut intervenir que si le nombre de voix en faveur de cette motion dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs.
 
 **Vote cumulatif obligatoire**
 
@@ -3466,7 +3486,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Exception**
 
 - **(5)** La présente loi n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73.
+> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73; 2005, ch. 54, art. 33.
 
 
 
@@ -3604,15 +3624,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Élection par administrateurs**
+**Manière de combler les vacances**
 
 **177** 
 
-- **(1)** Par dérogation à l’article 183 mais sous réserve du paragraphe (2) et des articles 176 et 178, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil à l’exception de celles qui résultent du défaut d’élire le nombre fixe ou minimal d’administrateurs requis par les règlements administratifs ou d’une augmentation de ce nombre par suite d’une modification de ceux-ci.
+- **(1)** Malgré l’article 183, mais sous réserve du paragraphe (2) et des articles 176 et 178, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil, à l’exception de celles qui résultent soit de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs, soit d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs.
 
 **Composition du conseil contraire à la loi**
 
 - **(2)** Par dérogation aux articles 176 et 183 lorsque, par suite d’une vacance, le nombre des administrateurs ou la composition du conseil n’est pas conforme à l’article 159, au paragraphe 163(1) ou à l’article 164, la vacance doit être comblée sans délai par les administrateurs qui, à défaut d’un règlement administratif spécifique, seraient habilités à le faire.
+> 1991, ch. 46, art. 177; 2005, ch. 54, art. 34.
+
 
 
 
@@ -3620,9 +3642,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Administrateurs élus pour une catégorie d’actions**
 
 **178** Par dérogation à l’article 183, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 176, être comblées :
-- **a)** soit par les administrateurs en fonctions élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs ou d’une augmentation de ce nombre;
+- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonctions et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme à l’article 159, au paragraphe 163(1) ou à l’article 164, par les autres administrateurs en fonctions;
 - **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour combler les vacances.
+> 1991, ch. 46, art. 178; 2005, ch. 54, art. 35.
+
 
 
 
@@ -4189,6 +4213,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **c)** le versement d’un dividende en violation de l’article 79;
 	- **d)** le versement d’une indemnité en violation de l’article 212;
 	- **e)** une opération contraire à la partie XI.
+> 1991, ch. 46, art. 207; 2005, ch. 54, art. 42(A).
+
 
 
 
@@ -4230,9 +4256,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Conditions préalables**
 
-- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
+- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la banque dans les six mois de l’échéance;
-	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la banque ou celle de sa dissolution;
+	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la banque ou celle de sa dissolution;
 	- **c)** l’existence de la créance est reconnue ou établie dans les six mois d’une ordonnance de liquidation frappant la banque conformément à la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
 
 **Limite**
@@ -4250,18 +4276,26 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 1991, ch. 46, art. 210; 1996, ch. 6, art. 167.
+> 1991, ch. 46, art. 210; 1996, ch. 6, art. 167; 2005, ch. 54, art. 43(A).
 
 
 
 
 
-**Foi à des déclarations**
+**Défense de diligence raisonnable**
 
-**211** N’est pas engagée, aux termes des paragraphes 158(1) ou (2), des articles 207 ou 210 ou du paragraphe 506(1), la responsabilité de l’administrateur, du dirigeant ou de l’employé qui s’appuie de bonne foi sur :
-- **a)** des états financiers de la banque reflétant fidèlement sa situation, d’après l’un de ses dirigeants ou d’après le rapport écrit du ou des vérificateurs;
-- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les avocats, notaires ou comptables.
-> 1991, ch. 46, art. 211; 2001, ch. 9, art. 78.
+**211** 
+
+- **(1)** L’administrateur, le dirigeant ou l’employé n’engage pas sa responsabilité au titre des articles 207 ou 210 ou du paragraphe 506(1) et il s’est acquitté des devoirs imposés au paragraphe 158(2) s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur :
+	- **a)** les états financiers de la banque qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du ou des vérificateurs, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+
+**Défense de bonne foi**
+
+- **(2)** L’administrateur ou le dirigeant s’est acquitté des devoirs imposés au paragraphe 158(1) s’il s’appuie de bonne foi sur :
+	- **a)** les états financiers de la banque qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du ou des vérificateurs, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 46, art. 211; 2001, ch. 9, art. 78; 2005, ch. 54, art. 44.
 
 
 
@@ -4271,24 +4305,32 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **212** 
 
-- **(1)** La banque peut indemniser ses administrateurs ou ses dirigeants — ou leurs prédécesseurs — , ainsi que les personnes qui, à sa demande, agissent ou ont agi en cette qualité pour une entité dont elle est ou a été actionnaire ou créancière, de tous leurs frais, y compris les montants versés en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles ils étaient parties en cette qualité, sauf à l’occasion d’actions intentées par la banque ou pour son compte en vue d’obtenir un jugement favorable, si :
-	- **a)** d’une part, ils ont agi avec intégrité et de bonne foi, au mieux des intérêts de la banque;
-	- **b)** d’autre part, dans le cas de procédures pénales ou administratives aboutissant au paiement d’une amende, ils avaient de bonnes raisons de croire que leur conduite était conforme à la loi.
+- **(1)** La banque peut indemniser ses administrateurs, ses dirigeants ou leurs prédécesseurs ainsi que les autres personnes qui, à sa demande, agissent ou ont agi à titre d’administrateur ou de dirigeant, ou en une qualité similaire, pour une autre entité, de tous leurs frais et dépenses raisonnables — y compris les sommes versées pour le règlement à l’amiable d’un procès ou l’exécution d’un jugement — entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles ils étaient impliqués à ce titre.
+
+**Frais anticipés**
+
+- **(2)** La banque peut avancer des fonds pour permettre à toute personne visée au paragraphe (1) d’assumer les frais de sa participation à une procédure visée à ce paragraphe et les dépenses connexes, à charge de remboursement si les conditions énoncées au paragraphe (3) ne sont pas remplies.
+
+**Limites**
+
+- **(3)** La banque ne peut indemniser une personne en vertu du paragraphe (1) que si celle-ci :
+	- **a)** d’une part, a agi avec intégrité et bonne foi au mieux des intérêts de la banque ou, selon le cas, de l’entité au sein de laquelle elle occupait les fonctions d’administrateur ou de dirigeant ou pour laquelle elle agissait en une qualité similaire à la demande de la banque;
+	- **b)** d’autre part, avait, dans le cas de poursuites pénales ou administratives aboutissant au paiement d’une amende, de bonnes raisons de croire que sa conduite était conforme à la loi.
 
 **Indemnisation lors d’actions indirectes**
 
-- **(2)** Si elles remplissent les conditions énoncées au paragraphe (1), la banque peut, avec l’agrément du tribunal, indemniser les personnes qui y sont visées de tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, résultant du fait qu’elles ont été parties, en raison de leurs fonctions, à des actions intentées par la banque, ou par l’entité ou pour leur compte, en vue d’obtenir un jugement favorable.
+- **(4)** Avec l’approbation du tribunal, la banque peut, à l’égard des actions intentées par elle ou par l’entité ou pour leur compte en vue d’obtenir un jugement favorable, avancer à toute personne visée au paragraphe (1) les fonds visés au paragraphe (2) ou l’indemniser des frais et dépenses raisonnables entraînés par son implication dans ces actions en raison de ses fonctions auprès de la banque ou l’entité, si elle remplit les conditions énoncées au paragraphe (3).
 
-**Droit à l’indemnisation**
+**Droit à indemnisation**
 
-- **(3)** Par dérogation aux autres dispositions du présent article, les personnes visées au paragraphe (1) sont indemnisables par la banque pour tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles elles étaient parties en raison de leurs fonctions, dans la mesure où :
-	- **a)** d’une part, elles ont obtenu gain de cause sur la plupart de leurs moyens de défense au fond;
-	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (1).
+- **(5)** Malgré le paragraphe (1), les personnes visées à ce paragraphe ont le droit d’être indemnisées par la banque de leurs frais et dépenses raisonnables entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles elles sont impliquées en raison de leurs fonctions auprès de la banque ou l’entité, si :
+	- **a)** d’une part, le tribunal ou toute autre autorité compétente n’a conclu à aucune faute de leur part, par acte ou omission;
+	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (3).
 
-**Héritiers**
+**Héritiers et représentants personnels**
 
-- **(4)** La banque peut, dans la mesure prévue aux paragraphes (1) à (3), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
-> 1991, ch. 46, art. 212; 2001, ch. 9, art. 79(F).
+- **(6)** La banque peut, dans la mesure prévue aux paragraphes (1) à (5), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
+> 1991, ch. 46, art. 212; 2001, ch. 9, art. 79(F); 2005, ch. 54, art. 44.
 
 
 
@@ -4296,9 +4338,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Assurance des administrateurs et dirigeants**
 
-**213** La banque peut souscrire au profit des personnes visées à l’article 212 une assurance couvrant la responsabilité qu’elles encourent :
+**213** La banque peut souscrire au profit des personnes visées à l’article 212 une assurance couvrant la responsabilité qu’elles encourent :
 - **a)** soit pour avoir agi en qualité d’administrateur ou de dirigeant, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux de ses intérêts;
-- **b)** soit pour avoir, à sa demande, agi en qualité d’administrateur ou de dirigeant d’une autre entité, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de celle-ci.
+- **b)** soit pour avoir, à sa demande, agi à titre d’administrateur ou de dirigeant — ou en une qualité similaire — pour une autre entité, à l’exception de la responsabilité découlant de l’omission d’agir avec intégrité et bonne foi au mieux des intérêts de celle-ci.
+> 1991, ch. 46, art. 213; 2005, ch. 54, art. 45.
+
 
 
 
@@ -4367,7 +4411,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **h)** de révoquer, de limiter ou d’étendre les autorisations conférées en vertu des alinéas f) et g);
 	- **i)** d’augmenter ou de diminuer le nombre fixe, minimal ou maximal d’administrateurs, sous réserve du paragraphe 159(1) et de l’article 168;
 	- **i.1)** de changer la dénomination sociale de la banque;
-	- **j)** de changer le lieu, au Canada, du siège de la banque.
+	- **j)** de changer la province où se trouve le siège de la banque.
 
 **Approbation des actionnaires**
 
@@ -4376,7 +4420,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Date d’entrée en vigueur**
 
 - **(3)** L’entrée en vigueur des règlements administratifs, ou de leurs modifications ou révocations, est subordonnée à leur confirmation préalable par les actionnaires conformément au paragraphe (2) et, dans le cas de l’alinéa (1)i.1), à l’approbation du surintendant.
-> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82.
+> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82; 2005, ch. 54, art. 46.
 
 
 
@@ -4485,7 +4529,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Contenu de la convention**
 
 - **(2)** La convention énonce les modalités de la fusion et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de la banque issue de la fusion;
+	- **a)** la dénomination sociale et la province envisagée pour le siège de la banque issue de la fusion;
 	- **b)** le nom, le lieu de résidence habituelle des futurs administrateurs de la banque issue de la fusion;
 	- **c)** les modalités d’échange des actions de chaque requérant contre les actions ou autres valeurs mobilières de la banque issue de la fusion;
 	- **d)** au cas où des actions de l’un de ces requérants ne doivent pas être échangées contre des actions ou autres valeurs mobilières de la banque issue de la fusion, la somme en numéraire ou les valeurs mobilières que les détenteurs de ces actions doivent recevoir en plus ou à la place des actions ou autres valeurs mobilières de la banque issue de la fusion;
@@ -4497,6 +4541,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation des actions sans remboursement**
 
 - **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions contre celles de la banque issue de la fusion. Sont exclues de l’application du présent article les actions détenues à titre de représentant personnel ou de sûreté.
+> 1991, ch. 46, art. 224; 2005, ch. 54, art. 47.
+
 
 
 
@@ -4516,7 +4562,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Droit de vote**
 
-- **(2)** Chaque action des banques ou personnes morales requérantes, assortie ou non du droit de vote, emporte droit de vote quant à la fusion.
+- **(2)** Chaque action des banques ou des personnes morales requérantes, assortie ou non du droit de vote, comporte par ailleurs un droit de vote quant à la convention de fusion.
 
 **Vote par catégorie**
 
@@ -4529,6 +4575,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation**
 
 - **(5)** Le conseil d’administration de l’une des banques ou personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires de toutes les banques ou personnes morales requérantes ou de certaines d’entre elles.
+> 1991, ch. 46, art. 226; 2005, ch. 54, art. 48.
+
 
 
 
@@ -4776,15 +4824,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **237** 
 
-- **(1)** La banque maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** La banque maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
 **Changement d’adresse**
 
-- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites du lieu indiqué dans l’acte constitutif ou les règlements administratifs.
+- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites de la province indiquée dans l’acte constitutif ou les règlements administratifs.
 
 **Avis de changement**
 
 - **(3)** La banque envoie dans les quinze jours un avis du changement d’adresse au surintendant.
+> 1991, ch. 46, art. 237; 2005, ch. 54, art. 49.
+
 
 
 
@@ -4943,15 +4993,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **245** 
 
-- **(1)** Sous réserve du paragraphe (3), la banque doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation de ses livres, sauf si le surintendant a, aux conditions et selon les modalités qu’il estime indiquées, exempté la banque de l’application du présent article.
+- **(1)** Sous réserve du paragraphe (3), la banque doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 238 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la banque de l’application du présent article.
 
 **Copies**
 
-- **(2)** Sous réserve des paragraphes (4) et (5), la banque peut en conserver des exemplaires à l’étranger et y traiter les renseignements et les données afférents.
+- **(2)** Sous réserve des paragraphes (4) et (5), la banque peut conserver à l’étranger des exemplaires des livres visés à l’article 238 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
 
 **Exception**
 
-- **(3)** Le paragraphe (1) ne s’applique ni aux livres ni aux clients des succursales d’une banque situées à l’étranger.
+- **(3)** Le paragraphe (1) ne s’applique pas à l’égard des succursales de la banque qui sont situées à l’étranger ou des clients de celles-ci.
 
 **Renseignements à fournir au surintendant**
 
@@ -4968,7 +5018,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Directives**
 
 - **(7)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89.
+> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89; 2005, ch. 54, art. 52.
 
 
 
@@ -5895,17 +5945,19 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Approbation par le conseil d’administration**
+**Approbation**
 
 **309** 
 
-- **(1)** Le conseil d’administration de la banque doit approuver le rapport annuel, l’approbation étant attestée par la signature :
+- **(1)** Les administrateurs doivent approuver le rapport annuel; l’approbation est attestée par la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — des personnes suivantes :
 	- **a)** d’une part, du premier dirigeant ou, en cas d’absence ou d’empêchement, d’un dirigeant de la banque commis à cette fin par le conseil d’administration;
 	- **b)** d’autre part, d’un administrateur, si la signature exigée en vertu de l’alinéa a) est celle d’un administrateur, ou de deux administrateurs, si la signature exigée en vertu de cet alinéa est celle d’un dirigeant qui n’est pas administrateur.
 
 **Condition préalable à la publication**
 
 - **(2)** La banque ne peut publier le rapport annuel que s’il a été approuvé et signé conformément au paragraphe (1).
+> 1991, ch. 46, art. 309; 2005, ch. 54, art. 70.
+
 
 
 
@@ -6251,14 +6303,16 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **328** 
 
-- **(1)** Le ou les vérificateurs de la banque établissent, à l’intention du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à leur attention et qui sont dommageables pour la bonne santé de la banque et, selon eux, nécessitent redressement, notamment :
+- **(1)** Le ou les vérificateurs de la banque établissent, à l’intention du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à leur attention et qui sont dommageables pour la bonne santé de la banque et, selon eux, nécessitent redressement, notamment :
 	- **a)** les opérations portées à leur attention et qui, à leur avis, outrepassent les pouvoirs de la banque;
 	- **b)** les prêts avancés par la banque à une personne pour un total dépassant un demi de un pour cent du capital réglementaire de la banque, s’ils estiment que ces prêts risquent de causer une perte à la banque.
 Toutefois, si un rapport a déjà été établi à l’égard des prêts avancés à une personne, il n’est pas nécessaire d’en faire un autre à l’égard des prêts avancés à cette même personne, à moins que, de l’avis du ou des vérificateurs, le montant de la perte ne soit susceptible de s’accroître.
 
 **Distribution du rapport**
 
-- **(2)** Le ou les vérificateurs transmettent leur rapport au premier dirigeant et au directeur financier de la banque et en fournissent simultanément un exemplaire au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et doit faire partie du procès-verbal de cette réunion.
+- **(2)** Le ou les vérificateurs transmettent leur rapport au premier dirigeant et au directeur financier de la banque et en fournissent simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et il fait partie du procès-verbal de cette réunion.
+> 1991, ch. 46, art. 328; 2005, ch. 54, art. 74.
+
 
 
 
@@ -6344,14 +6398,16 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Conditions préalables**
 
-- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
-	- **a)** que le plaignant a donné avis, dans un délai acceptable, aux administrateurs de la banque ou de sa filiale au cas où ceux-ci n’ont pas intenté l’action, n’y ont pas mis fin ou n’ont pas agi avec diligence au cours des procédures;
+- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
+	- **a)** que le plaignant a donné avis de son intention de présenter la demande, au moins quatorze jours avant la présentation ou dans le délai que le tribunal estime indiqué, aux administrateurs de la banque ou de sa filiale au cas où ils n’ont pas intenté l’action, n’ont pas agi avec diligence dans le cadre de celle-ci ou n’y ont pas mis fin;
 	- **b)** que le plaignant agit de bonne foi;
 	- **c)** qu’il semble être de l’intérêt de la banque ou de sa filiale d’intenter l’action, de la poursuivre, d’y présenter une défense ou d’y mettre fin.
 
 **Avis au surintendant**
 
 - **(3)** Le plaignant donne avis de sa demande au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de celle-ci.
+> 1991, ch. 46, art. 334; 2005, ch. 54, art. 75.
+
 
 
 
@@ -6386,15 +6442,17 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Absence de caution**
+**Absence de cautionnement**
 
 **337** 
 
-- **(1)** Les plaignants ne sont pas tenus de fournir caution pour les frais de recours.
+- **(1)** Les plaignants ne sont pas tenus de fournir de cautionnement pour les frais.
 
 **Frais provisoires**
 
 - **(2)** En donnant suite au recours, le tribunal peut ordonner à la banque ou à sa filiale de verser au plaignant des frais et dépens provisoires, y compris les frais de justice et les débours, dont ils pourront être comptables devant le tribunal lors de l’adjudication définitive.
+> 1991, ch. 46, art. 337; 2005, ch. 54, art. 76(F).
+
 
 
 
@@ -6572,7 +6630,7 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **349** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de la banque d’acquitter ses obligations ou de constituer une provision pour les honorer, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
 - **a)** ordonner la liquidation;
-- **b)** nommer un liquidateur, avec ou sans caution, fixer sa rémunération et le remplacer;
+- **b)** nommer un liquidateur en exigeant ou non un cautionnement, fixer sa rémunération et le remplacer;
 - **c)** nommer des inspecteurs ou des arbitres, préciser leurs pouvoirs, fixer leur rémunération et les remplacer;
 - **d)** fixer l’avis à donner aux intéressés ou accorder une dispense d’avis;
 - **e)** juger de la validité des réclamations faites contre la banque;
@@ -6593,6 +6651,8 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 	- **(ii)** poursuivre ou interrompre la procédure de liquidation,
 	- **(iii)** enjoindre au liquidateur de restituer à la banque le reliquat des biens de celle-ci;
 - **o)** après la reddition de compte définitive du liquidateur devant le tribunal, obliger la banque à demander au ministre de lui délivrer des lettres patentes de dissolution.
+> 1991, ch. 46, art. 349; 2005, ch. 54, art. 77(F).
+
 
 
 
@@ -6659,11 +6719,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Foi accordée aux déclarations**
+**Défense de diligence raisonnable**
 
-**354** N’est pas engagée la responsabilité du liquidateur qui s’appuie de bonne foi sur :
-- **a)** soit les états financiers de la banque reflétant fidèlement sa situation financière, d’après l’un de ses dirigeants ou d’après le rapport écrit du ou des vérificateurs;
-- **b)** soit l’avis, le rapport ou la déclaration d’un conseiller professionnel, notamment, un avocat, un notaire, un comptable ou un expert-estimateur, dont il a retenu les services.
+**354** N’est pas engagée la responsabilité du liquidateur qui a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur les documents suivants :
+- **a)** les états financiers de la banque qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du ou des vérificateurs, reflètent fidèlement sa situation;
+- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 46, art. 354; 2005, ch. 54, art. 78.
+
 
 
 
@@ -11910,9 +11972,9 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **527** 
 
-- **(1)** L’arrêté doit mentionner les éléments d’information suivants :
+- **(1)** L’arrêté doit mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale de la banque étrangère autorisée et, le cas échéant, toute autre dénomination sous laquelle elle est autorisée à exercer ses activités au Canada;
-	- **b)** le lieu du Canada où est situé le bureau principal de la banque étrangère autorisée;
+	- **b)** la province où se trouvera le bureau principal de la banque étrangère autorisée;
 	- **c)** s’il y a lieu, le fait que la banque étrangère autorisée fait l’objet des restrictions et exigences visées au paragraphe 524(2);
 	- **d)** sa date de prise d’effet.
 
@@ -11927,7 +11989,7 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **Avis de l’arrêté**
 
 - **(4)** Le surintendant fait publier un avis de la prise de l’arrêté dans la Gazette du Canada.
-> 1991, ch. 46, art. 527; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 527; 1999, ch. 28, art. 35; 2005, ch. 54, art. 79.
 
 
 
@@ -11938,14 +12000,14 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **528** 
 
 - **(1)** Le ministre peut, sur demande de la banque étrangère autorisée, et par un autre arrêté :
-	- **a)** modifier la dénomination qu’elle peut utiliser pour l’exercice de ses activités au Canada, ou le lieu de son bureau principal, figurant dans tout arrêté pris dans le cadre du paragraphe 524(1) ou du présent article;
+	- **a)** modifier la dénomination qu’elle peut utiliser pour l’exercice de ses activités au Canada, ou la province où se trouvera son bureau principal, figurant dans tout arrêté pris dans le cadre du paragraphe 524(1) ou du présent article;
 	- **b)** ajouter des dispositions ou conditions en application des paragraphes 527(2) et (3) ou modifier ou supprimer les dispositions ou conditions qui figurent dans tout arrêté pris dans le cadre du paragraphe 524(1) ou du présent article;
 	- **c)** ajouter les restrictions et exigences visées au paragraphe 524(2) ou les supprimer.
 
 **Préavis**
 
 - **(2)** La banque étrangère autorisée doit, avant de présenter une demande dans le cadre du paragraphe (1), faire publier un préavis à cet effet dans la Gazette du Canada au moins une fois par semaine pendant quatre semaines consécutives, ainsi que dans un journal à grand tirage paraissant au lieu où est situé son bureau principal ou dans les environs.
-> 1991, ch. 46, art. 528; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 528; 1999, ch. 28, art. 35; 2005, ch. 54, art. 80.
 
 
 
@@ -12120,16 +12182,16 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **535** 
 
-- **(1)** La banque étrangère autorisée maintient en permanence un bureau principal au Canada, au lieu mentionné dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
+- **(1)** La banque étrangère autorisée maintient en permanence un bureau principal dans la province mentionnée dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
 
 **Changement d’adresse**
 
-- **(2)** La banque étrangère autorisée peut changer l’adresse de son bureau principal dans les limites du lieu mentionné dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
+- **(2)** La banque étrangère autorisée peut changer l’adresse de son bureau principal dans les limites de la province mentionnée dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
 
 **Avis de changement**
 
 - **(3)** La banque étrangère autorisée envoie dans les quinze jours un avis du changement d’adresse au surintendant.
-> 1991, ch. 46, art. 535; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 535; 1999, ch. 28, art. 35; 2005, ch. 54, art. 81.
 
 
 
@@ -14901,15 +14963,21 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Irrecevabilité de certaines prétentions**
+**Prétentions interdites**
 
-**669** La société de portefeuille bancaire non plus que ses cautions ne peut opposer aux personnes qui font affaire avec elle ou ses ayants droit — sauf si ces personnes, en raison de leur poste chez elle ou de leurs relations avec elle, connaissaient ou auraient dû connaître la situation réelle — les prétentions suivantes :
-- **a)** il y a eu manquement à son acte constitutif ou à ses règlements administratifs;
-- **b)** les personnes qui figurent comme administrateurs de la société dans le dernier relevé envoyé au surintendant aux termes de l’article 951 ne sont pas ses administrateurs;
-- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
-- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement soit du poste, soit de son activité commerciale;
-- **e)** un document émanant régulièrement d’un tel administrateur, dirigeant ou mandataire n’est ni valable ni authentique.
-> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183.
+**669** 
+
+- **(1)** La société de portefeuille bancaire, ou ses cautions, ne peuvent opposer aux personnes qui ont traité avec elle ou à ses ayants droit ou ayants cause les prétentions suivantes :
+	- **a)** son acte constitutif ou ses règlements administratifs n’ont pas été observés;
+	- **b)** les personnes qui figurent comme administrateurs de la société dans le dernier relevé envoyé au surintendant aux termes de l’article 951 ne sont pas ses administrateurs;
+	- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
+	- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement du poste ou de son activité commerciale;
+	- **e)** un document émanant régulièrement de l’un de ses administrateurs, dirigeants ou mandataires n’est pas valable ou authentique.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui connaissent ou devraient connaître une situation visée à ce paragraphe en raison de leur relation avec la société.
+> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2005, ch. 54, art. 83.
 
 
 
@@ -14999,9 +15067,9 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **676** 
 
-- **(1)** Les lettres patentes d’une société de portefeuille bancaire doivent mentionner les éléments d’information suivants :
+- **(1)** Les lettres patentes d’une société de portefeuille bancaire doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
-	- **b)** le lieu du siège au Canada;
+	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution.
 
 **Dispositions particulières**
@@ -15011,7 +15079,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Conditions**
 
 - **(3)** Le ministre peut assujettir la délivrance des lettres patentes de la société aux conditions qu’il estime indiquées.
-> 1999, ch. 28, art. 70; 2001, ch. 9, art. 183.
+> 1999, ch. 28, art. 70; 2001, ch. 9, art. 183; 2005, ch. 54, art. 84.
 
 
 
@@ -15378,10 +15446,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis**
 
-**699** Le surintendant doit, dans les soixante jours suivant la fin de chaque année, faire publier un avis dans la Gazette du Canada donnant les renseignements suivants :
+**699** Le surintendant doit, dans les soixante jours suivant la fin de chaque année, faire publier un avis dans la Gazette du Canada donnant les renseignements suivants :
 - **a)** la dénomination sociale de chaque société de portefeuille bancaire;
-- **b)** le lieu, au Canada, de son siège.
-> 2001, ch. 9, art. 183.
+- **b)** la province où se trouve son siège.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 85.
 
 
 
@@ -15516,11 +15584,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Séries d’actions**
+**Émission d’actions en série**
 
 **706** 
 
-- **(1)** Les règlements administratifs visés à l’article 705 peuvent permettre l’émission d’une catégorie d’actions en une ou plusieurs séries et autoriser les administrateurs à fixer, s’il y a lieu, le nombre maximal et la désignation des actions de chaque série, ainsi qu’à déterminer les droits, privilèges, conditions et restrictions qui leur sont attachés.
+- **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
+	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
+	- **b)** permettre aux administrateurs de le faire.
 
 **Participation des séries**
 
@@ -15536,8 +15606,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Documents à envoyer au surintendant**
 
-- **(5)** Avant de procéder à l’émission d’actions autorisées aux termes du présent article, les administrateurs font parvenir au surintendant un exemplaire du règlement administratif afférent et lui communiquent tous détails sur les séries qui seront émises.
-> 2001, ch. 9, art. 183.
+- **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 86.
 
 
 
@@ -15588,11 +15658,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Exception**
 
-- **(3)** La société peut porter au compte capital déclaré correspondant une partie seulement du montant de l’apport reçu en contrepartie des actions dans les cas suivants :
-	- **a)** elle émet les actions en échange :
-		- **(i)** de biens d’une personne avec qui, avant l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** d’actions d’une personne morale avec laquelle, avant l’échange ou à cause de l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** elle émet les actions aux termes d’une convention visée au paragraphe 804(1) en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place de valeurs mobilières de la société de portefeuille bancaire issue de la fusion.
+- **(3)** Malgré le paragraphe (2), la société peut, sous réserve du paragraphe (4), verser au compte capital déclaré afférent à la catégorie ou à la série d’actions concernée une partie du montant de l’apport reçu en contrepartie d’actions émises :
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque la société avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, la société et tous les détenteurs des actions de la catégorie ou de la série d’actions ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 804(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de la société issue de la fusion.
 
 **Limite**
 
@@ -15601,7 +15673,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Restriction**
 
 - **(5)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, la société ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de la société appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 720(4).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 87.
 
 
 
@@ -15703,16 +15775,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Représentant personnel**
+**Exception — représentant personnel**
 
 **716** 
 
-- **(1)** La société de portefeuille bancaire peut autoriser ses filiales à détenir, en qualité de représentant personnel, mais à condition que ce ne soit pas à titre de véritable propriétaire, soit ses actions ou les actions d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
+- **(1)** La société de portefeuille bancaire peut autoriser ses filiales à détenir, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
 
 **Sûreté**
 
 - **(2)** La société peut autoriser ses filiales à détenir, à titre de sûreté, soit ses actions ou les actions d’une personne morale qui la contrôle, soit des titres de participation d’une entité qui la contrôle, pourvu que la sûreté ait une valeur peu importante selon les critères qu’elle a établis et qui sont approuvés par écrit par le surintendant.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 88(F).
 
 
 
@@ -16254,7 +16326,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **743** 
 
-- **(1)** S’il l’estime à propos, notamment en cas d’impossibilité de convoquer régulièrement l’assemblée ou de la tenir selon les règlements administratifs et la présente partie, le tribunal peut, à la demande d’un administrateur ou d’un actionnaire habile à voter, ordonner la convocation et la tenue de l’assemblée en conformité avec ses instructions à cet effet.
+- **(1)** S’il l’estime à propos, notamment lorsque la convocation régulière d’une assemblée ou la tenue de celle-ci conformément aux règlements administratifs et à la présente partie est pratiquement impossible, le tribunal peut, par ordonnance, à la demande d’un administrateur, d’un actionnaire habile à voter ou du surintendant, prévoir la convocation ou la tenue d’une assemblée conformément à ses directives.
 
 **Modification du quorum**
 
@@ -16263,7 +16335,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Validité de l’assemblée**
 
 - **(3)** L’assemblée convoquée et tenue en application du présent article est, à toutes fins, régulière.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 101.
 
 
 
@@ -16506,8 +16578,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **d)** l’actionnaire qui a voté pour plus d’un candidat, sans autres précisions, est réputé avoir réparti ses voix également entre les candidats;
 	- **e)** si le nombre de candidats en nomination est supérieur au nombre de postes à pourvoir, les candidats qui recueillent le plus petit nombre de voix sont éliminés jusqu’à ce que le nombre de candidats restants soit égal au nombre de postes à pourvoir;
 	- **f)** le mandat de chaque administrateur prend fin à la clôture de l’assemblée annuelle suivant son élection;
-	- **g)** la révocation d’un administrateur ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
-	- **h)** la réduction, par motion, du nombre fixe d’administrateurs prévu par les règlements administratifs ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs.
+	- **g)** la révocation d’un administrateur ne peut intervenir que si le nombre de voix en faveur de la motion visant la révocation dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
+	- **h)** la réduction, par motion, du nombre fixe d’administrateurs prévu par les règlements administratifs ne peut intervenir que si le nombre de voix en faveur de cette motion dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs.
 
 **Vote cumulatif obligatoire**
 
@@ -16533,7 +16605,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Exception**
 
 - **(6)** La présente partie n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 104.
 
 
 
@@ -16677,16 +16749,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Élection par administrateurs**
+**Manière de combler les vacances**
 
 **765** 
 
-- **(1)** Par dérogation à l’article 772 mais sous réserve du paragraphe (2) et des articles 764 et 766, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil à l’exception de celles qui résultent du défaut d’élire le nombre fixe ou minimal d’administrateurs requis par les règlements administratifs ou d’une augmentation de ce nombre par suite d’une modification de ceux-ci.
+- **(1)** Malgré l’article 772, mais sous réserve du paragraphe (2) et des articles 764 et 766, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil, à l’exception de celles qui résultent soit de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs, soit d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs.
 
 **Composition du conseil contraire à la loi**
 
 - **(2)** Par dérogation aux articles 764 et 772, lorsque, par suite d’une vacance, le nombre des administrateurs ou la composition du conseil n’est pas conforme aux articles 749 ou 752, la vacance doit être comblée sans délai par les administrateurs qui, à défaut d’un règlement administratif spécifique, seraient habilités à le faire.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 105.
 
 
 
@@ -16694,11 +16766,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Administrateurs élus pour une catégorie d’actions**
 
-**766** Par dérogation à l’article 772, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 764, être comblées :
-- **a)** soit par les administrateurs en fonctions élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs ou d’une augmentation de ce nombre;
+**766** Par dérogation à l’article 772, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 764, être comblées :
+- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonctions et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme aux articles 749 ou 752, par les autres administrateurs en fonctions;
 - **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour combler les vacances.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 106.
 
 
 
@@ -17190,12 +17262,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Responsabilités supplémentaires**
 
-- **(2)** Sont solidairement tenus de restituer à la société les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
+- **(2)** Sont solidairement tenus de restituer à la société les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
 	- **a)** l’achat ou le rachat d’actions en violation de l’article 715;
 	- **b)** la réduction du capital en violation de l’article 718;
 	- **c)** le versement d’un dividende en violation de l’article 722;
 	- **d)** le versement d’une indemnité en violation de l’article 799.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 113(A).
 
 
 
@@ -17240,9 +17312,9 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Conditions préalables**
 
-- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
+- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la société dans les six mois de l’échéance;
-	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société ou celle de sa dissolution;
+	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société ou celle de sa dissolution;
 	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de faillite frappant la société conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
 
 **Limite**
@@ -17260,18 +17332,26 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 2001, ch. 9, art. 183; 2004, ch. 25, art. 186.
+> 2001, ch. 9, art. 183; 2004, ch. 25, art. 186; 2005, ch. 54, art. 114(A).
 
 
 
 
 
-**Foi à des déclarations**
+**Défense de diligence raisonnable**
 
-**798** N’est pas engagée, aux termes des paragraphes 748(1) ou (2) ou des articles 794 ou 797, la responsabilité de l’administrateur, du dirigeant ou de l’employé qui s’appuie de bonne foi sur :
-- **a)** des états financiers de la société de portefeuille bancaire reflétant fidèlement sa situation, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les avocats, notaires ou comptables.
-> 2001, ch. 9, art. 183.
+**798** 
+
+- **(1)** L’administrateur, le dirigeant ou l’employé n’engage pas sa responsabilité au titre des articles 794 ou 797 et il s’est acquitté des devoirs imposés au paragraphe 748(2), s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur :
+	- **a)** les états financiers de la société de portefeuille bancaire qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+
+**Défense de bonne foi**
+
+- **(2)** L’administrateur ou le dirigeant s’est acquitté des devoirs imposés au paragraphe 748(1) s’il s’appuie de bonne foi sur :
+	- **a)** les états financiers de la société qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 115.
 
 
 
@@ -17281,24 +17361,32 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **799** 
 
-- **(1)** La société de portefeuille bancaire peut indemniser ses administrateurs ou ses dirigeants — ou leurs prédécesseurs — , ainsi que les personnes qui, à sa demande, agissent ou ont agi en cette qualité pour une entité dont elle est ou a été actionnaire ou créancière, de tous leurs frais, y compris les montants versés en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles ils étaient parties en cette qualité, sauf à l’occasion d’actions intentées par la société ou pour son compte en vue d’obtenir un jugement favorable, si :
-	- **a)** d’une part, ils ont agi avec intégrité et de bonne foi, au mieux des intérêts de la société;
-	- **b)** d’autre part, dans le cas de procédures pénales ou administratives aboutissant au paiement d’une amende, ils avaient de bonnes raisons de croire que leur conduite était conforme à la loi.
+- **(1)** La société de portefeuille bancaire peut indemniser ses administrateurs, ses dirigeants ou leurs prédécesseurs ainsi que les autres personnes qui, à sa demande, agissent ou ont agi à titre d’administrateur ou de dirigeant, ou en une qualité similaire, pour une autre entité, de tous leurs frais et dépenses raisonnables — y compris les sommes versées pour le règlement à l’amiable d’un procès ou l’exécution d’un jugement — entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles ils étaient impliqués à ce titre.
+
+**Frais anticipés**
+
+- **(2)** La société peut avancer des fonds pour permettre à toute personne visée au paragraphe (1) d’assumer les frais de sa participation à une procédure visée à ce paragraphe et les dépenses connexes, à charge de remboursement si les conditions énoncées au paragraphe (3) ne sont pas remplies.
+
+**Limites**
+
+- **(3)** La société ne peut indemniser une personne en vertu du paragraphe (1) que si celle-ci :
+	- **a)** d’une part, a agi avec intégrité et bonne foi au mieux des intérêts de la société ou, selon le cas, de l’entité au sein de laquelle elle occupait les fonctions d’administrateur ou de dirigeant ou pour laquelle elle agissait en une qualité similaire à la demande de la société;
+	- **b)** d’autre part, avait, dans le cas de poursuites pénales ou administratives aboutissant au paiement d’une amende, de bonnes raisons de croire que sa conduite était conforme à la loi.
 
 **Indemnisation lors d’actions indirectes**
 
-- **(2)** Si elles remplissent les conditions énoncées au paragraphe (1), la société peut, avec l’agrément du tribunal, indemniser les personnes qui y sont visées de tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, résultant du fait qu’elles ont été parties, en raison de leurs fonctions, à des actions intentées par la société, ou par l’entité ou pour leur compte, en vue d’obtenir un jugement favorable.
+- **(4)** Avec l’approbation du tribunal, la société peut, à l’égard des actions intentées par elle ou par l’entité ou pour leur compte en vue d’obtenir un jugement favorable, avancer à toute personne visée au paragraphe (1) les fonds visés au paragraphe (2) ou l’indemniser des frais et dépenses raisonnables entraînés par son implication dans ces actions en raison de ses fonctions auprès de la société ou l’entité, si elle remplit les conditions énoncées au paragraphe (3).
 
-**Droit à l’indemnisation**
+**Droit à indemnisation**
 
-- **(3)** Par dérogation aux autres dispositions du présent article, les personnes visées au paragraphe (1) sont indemnisables par la société pour tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles elles étaient parties en raison de leurs fonctions, dans la mesure où :
-	- **a)** d’une part, elles ont obtenu gain de cause sur la plupart de leurs moyens de défense au fond;
-	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (1).
+- **(5)** Malgré le paragraphe (1), les personnes visées à ce paragraphe ont le droit d’être indemnisées par la société de leurs frais et dépenses raisonnables entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles elles sont impliquées en raison de leurs fonctions auprès de la société ou l’entité, si :
+	- **a)** d’une part, le tribunal ou toute autre autorité compétente n’a conclu à aucune faute de leur part, par acte ou omission;
+	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (3).
 
-**Héritiers**
+**Héritiers et représentants personnels**
 
-- **(4)** La société peut, dans la mesure prévue aux paragraphes (1) à (3), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
-> 2001, ch. 9, art. 183.
+- **(6)** La société peut, dans la mesure prévue aux paragraphes (1) à (5), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 115.
 
 
 
@@ -17306,10 +17394,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Assurance des administrateurs et dirigeants**
 
-**800** La société de portefeuille bancaire peut souscrire au profit des personnes visées à l’article 799 une assurance couvrant la responsabilité qu’elles encourent :
+**800** La société de portefeuille bancaire peut souscrire au profit des personnes visées à l’article 799 une assurance couvrant la responsabilité qu’elles encourent :
 - **a)** soit pour avoir agi en qualité d’administrateur ou de dirigeant, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de la société;
-- **b)** soit pour avoir, à sa demande, agi en qualité d’administrateur ou de dirigeant d’une autre entité, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de celle-ci.
-> 2001, ch. 9, art. 183.
+- **b)** soit pour avoir, à sa demande, agi à titre d’administrateur ou de dirigeant — ou en une qualité similaire — pour une autre entité, à l’exception de la responsabilité découlant de l’omission d’agir avec intégrité et bonne foi au mieux des intérêts de celle-ci.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 116.
 
 
 
@@ -17393,8 +17481,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Contenu de la convention**
 
-- **(2)** La convention énonce les modalités de la fusion et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de la société de portefeuille bancaire issue de la fusion;
+- **(2)** La convention énonce les modalités de la fusion et notamment :
+	- **a)** la dénomination sociale et la province envisagée pour le siège de la société de portefeuille bancaire issue de la fusion;
 	- **b)** les nom et lieu de résidence habituelle des futurs administrateurs de la société issue de la fusion;
 	- **c)** les modalités d’échange des actions de chaque requérant contre les actions ou autres valeurs mobilières de la société issue de la fusion;
 	- **d)** au cas où des actions de l’un de ces requérants ne doivent pas être échangées contre des actions ou autres valeurs mobilières de la société issue de la fusion, la somme en numéraire ou les valeurs mobilières que les détenteurs de ces actions doivent recevoir en plus ou à la place des actions ou autres valeurs mobilières de la société issue de la fusion;
@@ -17406,7 +17494,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Annulation des actions sans remboursement**
 
 - **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions contre celles de la société issue de la fusion. Sont exclues de l’application du présent article les actions détenues à titre de représentant personnel ou de sûreté.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 117.
 
 
 
@@ -17429,7 +17517,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Droit de vote**
 
-- **(2)** Chaque action des personnes morales requérantes, assortie ou non du droit de vote, emporte droit de vote quant à la fusion.
+- **(2)** Chaque action des sociétés de portefeuille bancaires ou des personnes morales requérantes, assortie ou non du droit de vote, comporte par ailleurs un droit de vote quant à la convention de fusion.
 
 **Vote par catégorie**
 
@@ -17442,7 +17530,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Annulation**
 
 - **(5)** Le conseil d’administration de l’une des personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires de toutes les personnes morales requérantes ou de certaines d’entre elles.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 118.
 
 
 
@@ -17651,16 +17739,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **814** 
 
-- **(1)** La société de portefeuille bancaire maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** La société de portefeuille bancaire maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
 **Changement d’adresse**
 
-- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites du lieu indiqué dans l’acte constitutif ou les règlements administratifs.
+- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites de la province indiquée dans l’acte constitutif ou les règlements administratifs.
 
 **Avis de changement**
 
 - **(3)** La société envoie dans les quinze jours un avis du changement d’adresse au surintendant.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 119.
 
 
 
@@ -17823,11 +17911,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **822** 
 
-- **(1)** Sous réserve du paragraphe (3), la société de portefeuille bancaire doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation de ses livres, sauf si le surintendant a, aux conditions et selon les modalités qu’il estime indiquées, exempté la société de l’application du présent article.
+- **(1)** Sous réserve du paragraphe (3), la société de portefeuille bancaire doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 815 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
 
 **Copies**
 
-- **(2)** Sous réserve des paragraphes (3) et (4), la société peut en conserver des exemplaires à l’étranger et y traiter les renseignements et les données afférents.
+- **(2)** Sous réserve des paragraphes (3) et (4), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 815 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
 
 **Renseignements à fournir au surintendant**
 
@@ -17844,7 +17932,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Directives**
 
 - **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 122.
 
 
 
@@ -18125,18 +18213,18 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Approbation par le conseil d’administration**
+**Approbation**
 
 **841** 
 
-- **(1)** Le conseil d’administration de la société de portefeuille bancaire doit approuver le rapport annuel, l’approbation étant attestée par la signature :
+- **(1)** Les administrateurs de la société de portefeuille bancaire doivent approuver le rapport annuel; l’approbation est attestée par la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — des personnes suivantes :
 	- **a)** d’une part, du premier dirigeant ou, en cas d’absence ou d’empêchement, d’un dirigeant de la société commis à cette fin par le conseil d’administration;
 	- **b)** d’autre part, d’un administrateur, si la signature exigée en vertu de l’alinéa a) est celle d’un administrateur, ou de deux administrateurs, si la signature exigée en vertu de cet alinéa est celle d’un dirigeant qui n’est pas administrateur.
 
 **Condition préalable à la publication**
 
 - **(2)** La société ne peut publier le rapport annuel que s’il a été approuvé et signé conformément au paragraphe (1).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 127.
 
 
 
@@ -20559,6 +20647,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+**Présomption relative à la signature des documents**
+
+**964.1** Les règlements administratifs, avis, résolutions, demandes, déclarations et autres documents qui doivent ou peuvent être signés par plusieurs personnes pour l’application de la présente loi peuvent être rédigés en plusieurs exemplaires de même forme, dont chacun est signé par une ou plusieurs de ces personnes. Ces exemplaires dûment signés sont réputés constituer un seul document pour l’application de la présente loi.
+> 2005, ch. 54, art. 132.
+
+
+
+
+
 **Avis aux administrateurs et aux actionnaires**
 
 **965** Les avis ou documents dont la présente loi, ses règlements, l’acte constitutif ou les règlements administratifs de la banque ou de la société de portefeuille bancaire exigent l’envoi aux actionnaires ou aux administrateurs peuvent être adressés sous pli pré-affranchi ou remis en personne :
@@ -20587,8 +20684,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Retours**
 
-- **(2)** En cas de retour, pour trois fois consécutives, des avis ou documents expédiés, la banque ou la société de portefeuille bancaire n’est plus tenue de les envoyer à l’actionnaire introuvable tant que celui-ci ne lui fait pas savoir par écrit sa nouvelle adresse.
-> 2001, ch. 9, art. 183.
+- **(2)** La banque ou la société de portefeuille bancaire n’est pas tenue d’envoyer les avis ou documents qui lui sont retournés deux fois de suite parce que l’actionnaire est introuvable, sauf si elle est informée par écrit de sa nouvelle adresse.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 133.
 
 
 
@@ -20621,10 +20718,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Inscriptions au registre des valeurs mobilières**
+**Mentions au registre des valeurs mobilières**
 
-**970** Les inscriptions au registre des valeurs mobilières et sur les certificats de valeurs mobilières délivrés par la banque ou la société de portefeuille bancaire établissent que les personnes au nom desquelles les valeurs mobilières sont enregistrées sont propriétaires des valeurs inscrites dans le registre ou sur les certificats.
-> 2001, ch. 9, art. 183.
+**970** Les mentions au registre des valeurs mobilières et sur les certificats de valeurs mobilières émis par la banque ou la société de portefeuille bancaire établissent que les personnes au nom desquelles les valeurs mobilières sont inscrites sont propriétaires des valeurs mentionnées dans le registre ou sur les certificats.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 134(F).
 
 
 
@@ -20819,20 +20916,30 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Règlements**
 
-**978** Le gouverneur en conseil peut, par règlement :
-- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
-- **b)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
-- **c)** régir, pour l’application de toute disposition de la présente loi, la détermination des capitaux propres d’une banque ou d’une société de portefeuille bancaire;
-- **d)** définir certains termes pour l’application de la présente loi;
-- **e)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
-- **f)** régir le capital réglementaire et l’actif total de la banque ou de la société de portefeuille bancaire;
-- **g)** régir la rétention, au Canada, de l’actif de la banque ou de la société de portefeuille bancaire;
-- **h)** prévoir la valeur de l’actif de la banque ou de la société de portefeuille bancaire qui doit être détenu au Canada et les modalités de la détention;
-- **i)** régir la protection et le maintien de l’actif de la banque ou de la société de portefeuille bancaire, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
-- **j)** régir la détention d’actions et de titres de participation pour l’application des articles 70, 74 et 714;
-- **k)** prévoir l’information, en plus des documents visés à l’article 634 ou 953, à conserver dans le registre mentionné à ces articles;
-- **l)** prendre toute autre mesure d’application de la présente loi.
-> 2001, ch. 9, art. 183.
+**978** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+	- **b)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
+	- **c)** régir, pour l’application de toute disposition de la présente loi, la détermination des capitaux propres d’une banque ou d’une société de portefeuille bancaire;
+	- **d)** définir certains termes pour l’application de la présente loi;
+	- **e)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
+	- **f)** régir le capital réglementaire et l’actif total de la banque ou de la société de portefeuille bancaire;
+	- **g)** régir la rétention, au Canada, de l’actif de la banque ou de la société de portefeuille bancaire;
+	- **h)** prévoir la valeur de l’actif de la banque ou de la société de portefeuille bancaire qui doit être détenu au Canada et les modalités de la détention;
+	- **i)** régir la protection et le maintien de l’actif de la banque ou de la société de portefeuille bancaire, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
+	- **j)** régir la détention d’actions et de titres de participation pour l’application des articles 70, 74 et 714;
+	- **k)** prévoir l’information, en plus des documents visés à l’article 634 ou 953, à conserver dans le registre mentionné à ces articles;
+	- **l)** prendre toute autre mesure d’application de la présente loi.
+
+**Incorporation par renvoi**
+
+- **(2)** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Nature du document incorporé**
+
+- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la  [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 135.
 
 
 
@@ -21045,13 +21152,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **985** 
 
-- **(1)** Quiconque commet une infraction prévue aux articles 980 à 984 est passible :
-	- **a)** s’il s’agit d’une personne physique :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
-		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
-	- **b)** s’il s’agit d’une entité :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
-		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 000 $.
+- **(1)** Quiconque commet une infraction prévue aux articles 980 à 984 est passible :
+	- **a)** s’il s’agit d’une personne physique :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
+		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** s’il s’agit d’une entité :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
+		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 000 $.
 
 **Ordonnance visant au respect de la loi**
 
@@ -21059,8 +21166,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Amende supplémentaire**
 
-- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le montant de ces avantages.
-> 2001, ch. 9, art. 183.
+- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le triple du montant de l’avantage tiré.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 136.
 
 
 
@@ -21120,8 +21227,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Appel**
 
-**990** Toute décision judiciaire rendue aux termes de la présente loi est susceptible d’appel devant la cour d’appel.
-> 2001, ch. 9, art. 183.
+**990** 
+
+- **(1)** Toute ordonnance définitive d’un tribunal rendue en vertu de la présente loi est susceptible d’appel devant la cour d’appel de la province.
+
+**Permission d’en appeler**
+
+- **(2)** Toute autre ordonnance d’un tribunal n’est susceptible d’appel que sur permission de la cour d’appel de la province conformément aux règles applicables à celle-ci.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 137.
 
 
 
@@ -21138,380 +21251,392 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2005
+## au 26 avril 2005
 <table>
 <tr>
-<th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+</tr>
+<tr>
+<td>Dénomination sociale de la banque</td>
+<td>Siège social</td>
 </tr>
 <tr>
 <td>Banque Amicus</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque de Montréal</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>La Banque de Nouvelle-Écosse</td>
-<td>Halifax</td>
+<td>Nouvelle-Écosse</td>
 </tr>
 <tr>
 <td>Banque Ouest</td>
-<td>High River</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Banque Canadienne Impériale de Commerce</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Canadian Tire</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque canadienne de l’Ouest</td>
-<td>Edmonton</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Banque Citizens du Canada</td>
-<td>Vancouver</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>Banque CS Alterna</td>
-<td>Ottawa</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Patrimoine Dundee</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque des Premières Nations du Canada</td>
-<td>Walpole Island</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
-<td>Edmonton</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>Banque Laurentienne du Canada</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Banque Manuvie du Canada</td>
-<td>Waterloo</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Nationale du Canada</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Banque Pacifique et de l’ouest du Canada</td>
-<td>London</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque le Choix du Président</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Royale du Canada</td>
-<td>Montréal</td>
+<td>Québec</td>
+</tr>
+<tr>
+<td>Banque Sears Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>La Banque Toronto-Dominion</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Ubiquity du Canada</td>
-<td>Abbotsford</td>
+<td>Banque Ubiquity du Canada </td>
+<td>Colombie-Britannique</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; Gazette du Canada Partie I, volume 140, page 264.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2005
+## au 26 avril 2005
 <table>
 <tr>
-<th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+</tr>
+<tr>
+<td>Dénomination sociale de la banque</td>
+<td>Siège social</td>
 </tr>
 <tr>
 <td>Banque ABN AMRO du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Amex du Canada</td>
-<td>Markham</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque d’Amérique du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque de Chine (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>La Banque de l’Asie de l’Est (Canada)</td>
-<td>Richmond Hill</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque de Tokyo-Mitsubishi (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Un Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>BCPBank Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>BNP Paribas (Canada)</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Citibanque Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque CTC du Canada</td>
-<td>Vancouver</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>Banque Habib Canadienne</td>
-<td>Mississauga</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque HSBC Canada</td>
-<td>Vancouver</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>Banque ICICI du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque ING du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Internationale de Commerce de Cathay (Canada)</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>J.P. Morgan Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque J.P. Morgan Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>J.P. Morgan Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Korea Exchange du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque MBNA Canada</td>
-<td>Ottawa</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Commerciale Mizuho (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Nationale de Grèce (Canada)</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
-<td>Montréal</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Banque Nationale de l’Inde (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Sumitomo Mitsui du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque UBS (Canada)</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque UFJ du Canada</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; Gazette du Canada Partie I, volume 140, page 264.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2005
+## au 26 avril 2005
 <table>
 <tr>
-<th>Dénomination sociale de la banque étrangère autorisée</th>
-<th>Dénomination sociale sous laquelle elle est autorisée à exercer ses activités au Canada</th>
-<th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_fr_2'>[*]</a></sup></th>
-<th>Bureau principal</th>
+<td>Colonne 1</td>
+<td>Colonne 2</td>
+<td>Colonne 3</td>
+<td>Colonne 4</td>
+</tr>
+<tr>
+<td>Dénomination sociale de la banque étrangère autorisée</td>
+<td>Dénomination sociale sous laquelle elle est autorisée à exercer ses activités au Canada</td>
+<td>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></td>
+<td>Bureau principal</td>
 </tr>
 <tr>
 <td>ABN AMRO Bank N.V.</td>
 <td>ABN AMRO Bank N.V.</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bayerische Landesbank</td>
+<td>Bayerische Landesbank</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Capital One Bank</td>
 <td>Capital One Bank (Canada Branch)</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Citibank, N.A.</td>
 <td>Citibank, N.A.</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Comerica Bank</td>
 <td>Comerica Bank</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A.</td>
 <td>Rabobank Nederland</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Credit Suisse First Boston</td>
-<td>Credit Suisse, succursale de Toronto</td>
+<td>Credit Suisse First Boston, succursale de Toronto</td>
 <td>Prêt</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Deutsche Bank AG</td>
 <td>Deutsche Bank AG</td>
-<td>Services complets</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Dexia Crédit Local S.A.</td>
-<td>Dexia Crédit Local S.A.</td>
-<td>Services complets</td>
-<td>Montréal</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
 <td>Fifth Third Bank</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>First Commercial Bank</td>
 <td>First Commercial Bank</td>
-<td>Services complets</td>
-<td>Le district régional de Vancouver</td>
+<td>Service complet</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
-<td>JPMorgan Chase Bank, National Association</td>
-<td>JPMorgan Chase Bank, National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>JP Morgan Chase Bank, National Association</td>
+<td>JP Morgan Chase Bank, National Association</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Maple Bank GmbH</td>
 <td>Maple Bank</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Mellon Bank, N.A.</td>
 <td>Mellon Bank, N.A.</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>National City Bank</td>
 <td>National City</td>
 <td>Prêt</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Ohio Savings Bank</td>
 <td>Ohio Savings Bank, Canadian Branch</td>
 <td>Prêt</td>
-<td>Toronto</td>
-</tr>
-<tr>
-<td>Société Générale</td>
-<td>Société Générale (Succursale Canada)</td>
-<td>Services complets</td>
-<td>Montréal</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>UBS AG</td>
 <td>UBS AG succursale de Canada</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Union Bank of California, N.A.</td>
 <td>Union Bank of California, Canada Branch</td>
 <td>Prêt</td>
-<td>Calgary</td>
+<td>Alberta</td>
 </tr>
 <tr>
 <td>United Overseas Bank Limited</td>
 <td>United Overseas Bank Limited</td>
-<td>Services complets</td>
-<td>Vancouver</td>
+<td>Service complet</td>
+<td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>U.S. Bank National Association</td>
 <td>U.S. Bank National Association</td>
-<td>Services complets</td>
-<td>Toronto</td>
+<td>Service complet</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>WestLB AG</td>
 <td>WestLB AG</td>
 <td>Prêt</td>
-<td>Toronto</td>
+<td>Ontario</td>
 </tr>
 </table>
 
 
-<a name='B-1.01_fr_2'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; Gazette du Canada Partie I, volume 140, page 264.
+<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la  Loi sur les banques est appelée une succursale de « prêt ».<br />
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
 
 
