@@ -180,6 +180,8 @@ the insurance of risks in Canada by which has been approved by order of the Supe
 
 ***Minister*** means the Minister of Finance;
 
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+
 ***mutual company*** means
 - **(a)** a company that is incorporated or continued as a mutual company under this Act,
 - **(b)** a former-Act company that, on the coming into force of this paragraph, has no issued and outstanding shares, or
@@ -303,7 +305,7 @@ but does not include a policy;
 **Widely held**
 
 - **(4)** For the purposes of this Act, a body corporate is widely held if it has no major shareholder.
-> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E).
+> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214.
 
 
 
@@ -665,13 +667,20 @@ and that is not discontinued under this Act.
 
 **Authority of directors and officers**
 
-**20** A company or society or a guarantor of an obligation of a company or society may not assert against a person dealing with the company or society or with any person who has acquired rights from the company or society that
-- **(a)** the company’s or society’s incorporating instrument or any by-laws of the company or society have not been complied with,
-- **(b)** the persons named as directors of the company or society in the most recent return sent to the Superintendent under section 549 or 668 are not the directors of the company or society,
-- **(c)** the place named in the incorporating instrument or the by-laws of the company or society is not the head office of the company or society,
-- **(d)** a person held out by the company or society as a director, an officer or a representative of the company or society has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the company or society or usual for any such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the company or society with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the company or society knowledge to that effect.
+**20** 
+
+- **(1)** No company or society and no guarantor of an obligation of a company or society may assert against a person dealing with the company or society or against a person who has acquired rights from the company or society that
+	- **(a)** the company’s or society’s incorporating instrument or any by-laws of the company or society have not been complied with;
+	- **(b)** the persons named as directors of the company or society in the most recent return sent to the Superintendent under section 549 or 668 are not the directors of the company or society;
+	- **(c)** the place named in the incorporating instrument or by-laws of the company or society is not the place where the head office of the company or society is situated;
+	- **(d)** a person held out by the company or society as a director, officer or representative of the company or society has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the company or society or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the company or society with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the company or society.
+> 1991, c. 47, s. 20; 2005, c. 54, s. 218.
+
 
 
 
@@ -801,7 +810,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating a company or society
 	- **(a)** the name of the company or society;
-	- **(b)** the place in Canada where the head office of the company or society is to be situated;
+	- **(b)** the province in which the head office of the company or society is to be situated;
 	- **(c)** the date that the company or society came, or is to come, into existence; and
 	- **(d)** in the case of letters patent incorporating a company, whether the company is to be a mutual company.
 
@@ -819,6 +828,8 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(4)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating a company or society as the Minister considers necessary or appropriate.
+> 1991, c. 47, s. 28; 2005, c. 54, s. 219.
+
 
 
 
@@ -1614,11 +1625,13 @@ no part of the moneys of the company or society shall be used for the payment of
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **66** 
 
-- **(1)** The by-laws of a company made pursuant to section 65 may authorize the issue of any class of shares in one or more series and may authorize the directors of the company to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of a company may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -1634,7 +1647,9 @@ no part of the moneys of the company or society shall be used for the payment of
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares of a series of shares authorized under this section, the directors shall send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+> 1991, c. 47, s. 66; 2005, c. 54, s. 220.
+
 
 
 
@@ -1686,11 +1701,13 @@ continue to apply in respect of that share.
 
 **Exception**
 
-- **(2.1)** Notwithstanding subsection (2), a company may record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(2.1)** Despite subsection (2), a company may, subject to subsection (2.2), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-		- **(ii)** shares of a body corporate that immediately before the exchange, or because of the exchange, did not deal with the company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** under an agreement referred to in subsection 246(1) to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated company.
+		- **(i)** property of a person who immediately before the exchange did not deal with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the company and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 246(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated company.
 
 **Limit on addition to a stated capital account**
 
@@ -1713,7 +1730,7 @@ continue to apply in respect of that share.
 **Share issued before coming into force**
 
 - **(5)** Any amount unpaid in respect of a share issued by a former-Act company before the coming into force of this Part and paid after the coming into force of this Part shall be recorded in the stated capital account maintained by the company for the shares of that class or series.
-> 1991, c. 47, s. 70; 1997, c. 15, s. 182.
+> 1991, c. 47, s. 70; 1997, c. 15, s. 182; 2005, c. 54, s. 221.
 
 
 
@@ -1823,6 +1840,8 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Saving**
 
 - **(3)** Nothing in subsection (2) precludes a former-Act company or any of its subsidiaries from holding any security interest held immediately prior to the coming into force of this Part.
+> 1991, c. 47, s. 76; 2005, c. 54, s. 222(F).
+
 
 
 
@@ -2378,7 +2397,7 @@ the restriction or lien is ineffective against a transferee of the security who 
 
 - **(2)** Notwithstanding subsection (1), a company may treat a person as a registered security holder entitled to exercise all of the rights of the security holder that the person represents, if that person provides the company with evidence as described in subsection 131(4) that the person is
 	- **(a)** the heir or personal representative of a deceased security holder or the personal representative of the heirs of the deceased security holder;
-	- **(b)** the personal representative of a registered security holder who is an infant, an incompetent person or a missing person; or
+	- **(b)** the personal representative of a registered security holder who is a minor, an incompetent person or a missing person; or
 	- **(c)** a liquidator of, or a trustee in bankruptcy for, a registered security holder.
 
 **Permissible registered holder**
@@ -2388,13 +2407,17 @@ the restriction or lien is ineffective against a transferee of the security who 
 **Immunity of company**
 
 - **(4)** A company is not required to inquire into the existence of, or see to the performance or observance of, any duty owed to a third person by a registered holder of any of its securities or by anyone whom it treats, as permitted or required by this Part, as the owner or registered holder thereof.
+> 1991, c. 47, s. 97; 2005, c. 54, s. 226(E).
 
 
 
 
-**Infant owner**
 
-**98** If an infant exercises any rights of ownership in the securities of a company, no subsequent repudiation or avoidance is effective against the company.
+**Minors**
+
+**98** If a minor exercises any rights of ownership in the securities of a company, no subsequent repudiation or avoidance is effective against the company.
+> 1991, c. 47, s. 98; 2005, c. 54, s. 227(E).
+
 
 
 
@@ -4179,8 +4202,8 @@ but does not include
 	- **(d)** if a shareholder has voted for more than one candidate without specifying the distribution of the votes among the candidates, the shareholder is deemed to have distributed the votes equally among the candidates for whom the shareholder voted;
 	- **(e)** if the number of candidates nominated exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;
 	- **(f)** each director elected by cumulative voting ceases to hold office at the close of the next annual meeting of shareholders and policyholders following the director’s election;
-	- **(g)** a director elected by cumulative voting may not be removed from office if the votes cast against the removal would be sufficient to elect the director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors elected by cumulative voting required by the by-laws were then being elected; and
-	- **(h)** the number of directors elected by cumulative voting required by the by-laws may not be decreased if the votes cast against the motion to decrease would be sufficient to elect a director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors elected by cumulative voting required by the by-laws were then being elected.
+	- **(g)** a director elected by cumulative voting may be removed from office only if the number of votes cast in favour of a motion to remove the director is greater than the product of the number of directors required by the by-laws to be elected by cumulative voting and the number of votes cast against the motion; and
+	- **(h)** the number of directors required by the by-laws to be elected by cumulative voting may be decreased only if the number of votes cast in favour of a motion to decrease the number of directors is greater than the product of the number of directors required by the by-laws to be elected by cumulative voting and the number of votes cast against the motion.
 
 **Mandatory cumulative voting**
 
@@ -4207,7 +4230,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Class or series of shares**
 
 - **(5)** Nothing in this Act precludes the holders of any class or series of shares of a company from having an exclusive right to elect one or more directors.
-> 1991, c. 47, s. 176; 1996, c. 6, s. 74.1; 1997, c. 15, s. 203; 2001, c. 9, s. 379.
+> 1991, c. 47, s. 176; 1996, c. 6, s. 74.1; 1997, c. 15, s. 203; 2001, c. 9, s. 379; 2005, c. 54, s. 246.
 
 
 
@@ -4358,11 +4381,13 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **185** 
 
-- **(1)** Notwithstanding section 192 but subject to subsection (2) and sections 184, 186 and 187, a quorum of directors may fill a vacancy among the directors except a vacancy among the directors resulting from a change in the by-laws by which the number or minimum number of directors is increased or from a failure to elect the number or minimum number of directors required by the by-laws.
+- **(1)** Despite section 192 but subject to subsection (2) and sections 184, 186 and 187, a quorum of directors may fill a vacancy among the directors except a vacancy resulting from a change in the by-laws by which the number or the minimum or maximum number of directors is increased or from a failure to elect the number or minimum number of directors provided for in the by-laws.
 
 **Where composition fails**
 
 - **(2)** Notwithstanding sections 184 and 192, where by reason of a vacancy the number of directors or the composition of the board of directors fails to meet any of the requirements of section 167, subsection 171(1), section 172 and subsection 173(4), the directors who, in the absence of any by-law, would be empowered to fill that vacancy shall do so forthwith.
+> 1991, c. 47, s. 185; 2005, c. 54, s. 247.
+
 
 
 
@@ -4370,9 +4395,11 @@ is entitled to submit to the company a written statement giving the reasons for 
 **Vacancy among shareholders’ or policyholders’ directors**
 
 **186** Notwithstanding section 192 but subject to sections 184 and 187, where a company has shareholders’ directors and policyholders’ directors and a vacancy occurs among those directors,
-- **(a)** the remaining shareholders’ directors or policyholders’ directors, as the case may be, may fill the vacancy except a vacancy resulting from an increase in, or a failure to elect, the number or minimum number of shareholders’ directors or policyholders’ directors;
+- **(a)** the remaining shareholders’ directors or policyholders’ directors, as the case may be, may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number — or from a failure to elect the number or minimum number — of shareholders’ directors or policyholders’ directors provided for in the by-laws;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 167, subsection 171(1), section 172 and subsection 173(4), the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any shareholder or policyholder entitled to vote may call a meeting of shareholders or policyholders for the purpose of filling the vacancy.
+> 1991, c. 47, s. 186; 2005, c. 54, s. 248.
+
 
 
 
@@ -4380,9 +4407,11 @@ is entitled to submit to the company a written statement giving the reasons for 
 **Class vacancy**
 
 **187** Notwithstanding section 192 but subject to section 184, where the holders of any class or series of shares of a company have an exclusive right to elect one or more directors and a vacancy occurs among those directors,
-- **(a)** the remaining directors elected by the holders of that class or series may fill the vacancy except a vacancy resulting from an increase in, or a failure to elect, the number or minimum number of directors for that class or series;
+- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 167, subsection 171(1), section 172 and subsection 173(4), the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
+> 1991, c. 47, s. 187; 2005, c. 54, s. 249.
+
 
 
 
@@ -4937,21 +4966,22 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **216** 
 
-- **(1)** The directors of a company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 69(1) or the issue of subordinated indebtedness contrary to section 84 for a consideration other than money are jointly and severally liable to the company to make good any amount by which the consideration received is less than the fair equivalent of the money that the company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of a company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 69(1) or the issue of subordinated indebtedness contrary to section 84 for a consideration other than money are jointly and severally, or solidarily, liable to the company to make good any amount by which the consideration received is less than the fair equivalent of the money that the company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of a company who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of shares contrary to section 75,
-	- **(b)** a reduction of capital contrary to section 79,
-	- **(c)** a payment of a dividend contrary to section 83,
-	- **(d)** a payment of an indemnity contrary to section 221, or
-	- **(e)** any transaction contrary to Part XI
-are jointly and severally liable to restore to the company any amounts so distributed or paid and not otherwise recovered by the company and any amounts in relation to any loss suffered by the company.
+- **(2)** Directors of a company who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the company any amounts so distributed or paid and not otherwise recovered by the company and any amounts in relation to any loss suffered by the company:
+	- **(a)** a redemption or purchase of shares contrary to section 75;
+	- **(b)** a reduction of capital contrary to section 79;
+	- **(c)** a payment of a dividend contrary to section 83;
+	- **(d)** a payment of an indemnity contrary to section 221; or
+	- **(e)** any transaction contrary to Part XI.
+> 1991, c. 47, s. 216; 2005, c. 54, s. 256(E).
+
 
 
 
@@ -4985,11 +5015,11 @@ are jointly and severally liable to restore to the company any amounts so distri
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **219** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of a company are jointly and severally liable to each employee of the company for all debts not exceeding six months wages payable to the employee for services performed for the company while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of a company are jointly and severally, or solidarily, liable to each employee of the company for all debts not exceeding six months wages payable to the employee for services performed for the company while they are directors.
 
 **Conditions precedent**
 
@@ -5013,49 +5043,61 @@ are jointly and severally liable to restore to the company any amounts so distri
 **Contribution entitlement**
 
 - **(6)** A director of a company who has satisfied a claim under this section is entitled to a contribution from the other directors of the company who are liable for the claim.
-> 1991, c. 47, s. 219; 1996, c. 6, s. 167.
+> 1991, c. 47, s. 219; 1996, c. 6, s. 167; 2005, c. 54, s. 257(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**220** A director, an officer or an employee of a company is not liable under subsection 166(1) or (2), section 216 or 219 or subsection 539(1) if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the company represented to the director, officer or employee by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
-- **(b)** a report of an accountant, actuary, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 1991, c. 47, s. 220; 2001, c. 9, s. 384.
+**220** 
+
+- **(1)** A director, officer or employee of a company is not liable under section 216 or 219 or subsection 539(1) and has fulfilled their duty under subsection 166(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the company that were represented to them by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of a company has fulfilled their duty under subsection 166(1) if they relied in good faith on
+	- **(a)** financial statements of the company that were represented to them by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 47, s. 220; 2001, c. 9, s. 384; 2005, c. 54, s. 258.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **221** 
 
-- **(1)** Except in respect of an action by or on behalf of the company to procure a judgment in its favour, a company may indemnify
-	- **(a)** a director or an officer of the company,
-	- **(b)** a former director or officer of the company, or
-	- **(c)** any person who acts or acted at the company’s request as a director or an officer of an entity of which the company is or was a shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the company, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** A company may indemnify a director or officer of the company, a former director or officer of the company or another person who acts or acted, at the company’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the company or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** A company may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the company or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the company or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** A company may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** A company may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the company or the other entity for which they acted at the company’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** A company may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the company or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the company or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Notwithstanding anything in this section, a person referred to in subsection (1) is entitled to indemnity from the company in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the company or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the company in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of the association referred to in subsection (1) with the company or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** A company may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the company may indemnify pursuant to subsections (1) to (3).
-> 1991, c. 47, s. 221; 2001, c. 9, s. 385(F).
+- **(6)** A company may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the company may indemnify under those subsections.
+> 1991, c. 47, s. 221; 2001, c. 9, s. 385(F); 2005, c. 54, s. 258.
 
 
 
@@ -5065,7 +5107,9 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **222** A company may purchase and maintain insurance for the benefit of any person referred to in section 221 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the company, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the company; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the company’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the company’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 1991, c. 47, s. 222; 2005, c. 54, s. 259.
+
 
 
 
@@ -5424,7 +5468,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 	- **(i)** change the rights of policyholders to vote at meetings of shareholders or policyholders, subject to subsection 153(1);
 	- **(i.1)** change the name of the company;
 	- **(j)** increase or decrease the number of directors, the minimum or maximum number of directors, the number of directors who are to be elected by the shareholders or the number of directors who are to be elected by the policyholders, subject to subsections 167(1) and 173(4) and (4.1) and section 176; or
-	- **(k)** change the place in Canada where the head office of the company is to be situated.
+	- **(k)** change the province in which the head office of the company is situated.
 
 **Shareholder or policyholder approval**
 
@@ -5441,7 +5485,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Effective date of by-law**
 
 - **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders and policyholders under subsection (2) and, in the case of a by-law referred to in paragraph (1)(i.1), approved by the Superintendent.
-> 1991, c. 47, s. 238; 1997, c. 15, s. 217; 2001, c. 9, s. 388.
+> 1991, c. 47, s. 238; 1997, c. 15, s. 217; 2001, c. 9, s. 388; 2005, c. 54, s. 260.
 
 
 
@@ -5566,7 +5610,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement — company**
 
 - **(2)** Every amalgamation agreement for an amalgamation to which subsection 245(1) or (2) applies shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated company and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated company and the province in which its head office is to be situated;
 	- **(b)** whether the amalgamated company is to be a mutual company or a company with common shares;
 	- **(c)** the name and place of ordinary residence of each proposed director of the amalgamated company;
 	- **(d)** the manner in which any shares of each applicant are to be converted into shares or other securities of the amalgamated company;
@@ -5579,7 +5623,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement — society**
 
 - **(2.1)** Every amalgamation agreement for an amalgamation to which subsection 245(3) applies shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated society and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated society and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated society;
 	- **(c)** the proposed by-laws of the amalgamated society;
 	- **(d)** details of any other matter necessary to perfect the amalgamation and to provide for the subsequent management and operation of the amalgamated society; and
@@ -5588,7 +5632,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Cross ownership of shares**
 
 - **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated company.
-> 1991, c. 47, s. 246; 1997, c. 15, s. 219.
+> 1991, c. 47, s. 246; 1997, c. 15, s. 219; 2005, c. 54, s. 261.
 
 
 
@@ -5620,11 +5664,11 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation whether or not it otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Policyholder vote**
 
@@ -5640,7 +5684,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Termination**
 
 - **(6)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant even though the agreement has been approved by the shareholders, policyholders or members of all or any of the applicant companies, bodies corporate or societies.
-> 1991, c. 47, s. 248; 1997, c. 15, s. 221.
+> 1991, c. 47, s. 248; 1997, c. 15, s. 221; 2005, c. 54, s. 262.
 
 
 
@@ -5650,7 +5694,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **249** 
 
-- **(1)** A company may, without complying with sections 246 to 248, amalgamate with one or more bodies corporate that
+- **(1)** A company that does not have any participating policyholders may, without complying with sections 246 to 248, amalgamate with one or more bodies corporate that
 	- **(a)** are incorporated by or under an Act of Parliament,
 	- **(b)** are wholly-owned subsidiaries of the company, and
 	- **(c)** do not have any participating policyholders
@@ -5674,6 +5718,8 @@ may amalgamate and continue as one company without complying with sections 246 t
 		- **(i)** the shares of all applicants, except those of one of the applicants that is a company, will be cancelled without any repayment of capital in respect thereof,
 		- **(ii)** the letters patent of amalgamation and the by-laws of the amalgamated company will be the same as the incorporating instrument and the by-laws of the amalgamating company whose shares are not cancelled, and
 		- **(iii)** the stated capital of the amalgamating companies and bodies corporate whose shares are cancelled will be added to the stated capital of the amalgamating company whose shares are not cancelled.
+> 1991, c. 47, s. 249; 2005, c. 54, s. 263.
+
 
 
 
@@ -5956,15 +6002,17 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 
 **260** 
 
-- **(1)** A company shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** A company shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of a company may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of a company may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** A company shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
+> 1991, c. 47, s. 260; 2005, c. 54, s. 264.
+
 
 
 
@@ -6124,15 +6172,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **268** 
 
-- **(1)** Subject to subsection (3), a company shall maintain and process in Canada information or data relating to the preparation and maintenance of the records referred to in section 261 unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
+- **(1)** Subject to subsection (3), a company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 261 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (4) and (5), a company may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (4) and (5), the company may maintain copies of the records referred to in section 261 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Foreign records**
 
@@ -6153,7 +6201,7 @@ the registers and records required or authorized by this Act to be prepared and 
 **Guidelines**
 
 - **(7)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 47, s. 268; 2001, c. 9, s. 396.
+> 1991, c. 47, s. 268; 2001, c. 9, s. 396; 2005, c. 54, s. 267.
 
 
 
@@ -7097,17 +7145,19 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Approval by directors**
+**Annual statement — approval**
 
 **332** 
 
-- **(1)** The directors of a company shall approve the annual statement and the approval of the directors shall be evidenced by the signature of
+- **(1)** The directors of a company shall approve the annual statement and their approval shall be evidenced by the signature or a printed or otherwise mechanically reproduced facsimile of the signature of
 	- **(a)** the chief executive officer or, in the event of that officer’s absence or inability to act, any other officer of the company authorized by the directors to sign in the stead of the chief executive officer; and
 	- **(b)** one director, if the signature required by paragraph (a) is that of a director, or two directors if the signature required by that paragraph is that of an officer who is not a director.
 
 **Condition precedent to publication**
 
 - **(2)** A company shall not publish copies of an annual statement unless it is approved and signed in accordance with subsection (1).
+> 1991, c. 47, s. 332; 2005, c. 54, s. 285.
+
 
 
 
@@ -7490,7 +7540,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(a)** the auditor shall transmit the report, in writing, to the chief executive officer, chief financial officer and the actuary of the company;
 	- **(b)** the report shall be presented to the first meeting of the directors following its receipt;
 	- **(c)** the report shall be incorporated in the minutes of that meeting; and
-	- **(d)** the auditor shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the Superintendent with a copy of the report.
+	- **(d)** the auditor shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the audit committee of the company and the Superintendent with a copy.
+> 1991, c. 47, s. 351; 2005, c. 54, s. 289.
+
 
 
 
@@ -7811,13 +7863,15 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 **Conditions precedent**
 
 - **(2)** No action may be brought and no intervention in an action may be made under subsection (1) by a complainant unless the court is satisfied that
-	- **(a)** the complainant has given reasonable notice to the directors of the company or the subsidiary of the complainant’s intention to apply to the court under that section if the directors of the company or its subsidiary do not bring, diligently prosecute or defend or discontinue the action;
+	- **(a)** the complainant has, not less than 14 days before bringing the application or as otherwise ordered by the court, given notice to the directors of the company or the company’s subsidiary of the complainant’s intention to apply to the court under subsection (1) if the directors of the company or the company’s subsidiary do not bring, diligently prosecute or defend or discontinue the action;
 	- **(b)** the complainant is acting in good faith; and
 	- **(c)** it appears to be in the interests of the company or the subsidiary that the action be brought, prosecuted, defended or discontinued.
 
 **Notice to Superintendent**
 
 - **(3)** A complainant under subsection (1) shall give the Superintendent notice of the application and the Superintendent may appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 47, s. 371; 2005, c. 54, s. 290.
+
 
 
 
@@ -7861,6 +7915,8 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 **Interim costs**
 
 - **(2)** In an application made or an action brought or intervened in under this Division, the court may at any time order the company or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable by the court for those interim costs on final disposition of the application or action.
+> 1991, c. 47, s. 374; 2005, c. 54, s. 291(F).
+
 
 
 
@@ -8080,6 +8136,8 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 	- **(ii)** an order continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** an order to the liquidator to restore to the company all of its remaining property; and
 - **(o)** after the liquidator has rendered the liquidator’s final account to the court, an order directing the company to apply to the Minister for letters patent dissolving the company.
+> 1991, c. 47, s. 387; 2005, c. 54, s. 292(F).
+
 
 
 
@@ -8149,11 +8207,13 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 
 
 
-**Reliance on statements**
+**Due diligence**
 
-**392** A liquidator is not liable if the liquidator relies in good faith on
-- **(a)** financial statements of the company represented to the liquidator by an officer of the company, or on a written report of the auditor of the company, to reflect fairly the financial condition of the company; or
-- **(b)** an opinion, a report or a statement of an actuary, a lawyer, a notary, an accountant, an appraiser or other professional adviser retained by the liquidator.
+**392** A liquidator is not liable if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+- **(a)** financial statements of the company represented to the liquidator by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 47, s. 392; 2005, c. 54, s. 293.
+
 
 
 
@@ -8750,57 +8810,43 @@ the company is entitled to assume that no person is acquiring or increasing a si
 
 
 
-**Exemption by order of Minister**
+**Exemption by Minister**
 
 **414** 
 
-- **(1)** An entity that controls a company and that is
-	- **(a)** an insurance holding company that is in compliance with section 938,
-	- **(b)** a widely held bank,
-	- **(b.1)** a bank that would be in compliance with section 411 if it were a company,
-	- **(b.2)** a widely held bank holding company,
-	- **(b.3)** a bank holding company that would be in compliance with section 411 if it were a company,
-	- **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies that would be in compliance with section 411 if it were a company;
-	- **(d)** a company that is in compliance with section 411 or a mutual company or society,
-	- **(e)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
-	- **(f)** a body corporate that is incorporated and regulated by or under an Act of the legislature of a province and that is a mutual insurance corporation or fraternal benefit society,
-	- **(g)** a cooperative credit society regulated by or under an Act of the legislature of a province,
-	- **(h)** a foreign institution, or
-	- **(i)** a body corporate incorporated or formed by or under an Act of Parliament or of the legislature of a province whose activities, and those of any entities that it controls, are, in the opinion of the Minister, when viewed as a whole, primarily financial,
-may apply to the Minister to exempt the company from the requirements of section 411.
-
-**Terms and conditions**
-
-- **(2)** In the case of an entity referred to in any of paragraphs (1)(a) to (h), the Minister may grant the exemption referred to in subsection (1) subject to such terms and conditions as the Minister considers appropriate.
-
-**Idem**
-
-- **(3)** In the case of a holding body corporate referred to in paragraph (1)(i), the Minister may grant the exemption referred to in subsection (1) only if the Minister is satisfied that the holding body corporate will, if the exemption is granted, submit to and comply with sections 176 and 411 as though the holding body corporate were a company and the Minister may grant the exemption subject to such terms and conditions as the Minister considers appropriate.
-
-**Effect of order**
-
-- **(4)** Subject to subsection (5) and to such terms and conditions as are set out in an exemption order granted under this section, a company in respect of which an exemption order is granted need not comply with section 411.
-
-**Expiration of exemption order**
-
-- **(5)** The Minister may, by order, direct that an exemption order granted under this section in respect of a company shall expire if
-	- **(a)** the entity that applied for the exemption order ceases to control the company;
-	- **(b)** in the opinion of the Minister, the activities of the holding body corporate referred to in paragraph (1)(i) that applied for the exemption order, whether carried on directly or through entities that it controls, are no longer primarily financial;
-	- **(c)** the holding body corporate referred to in paragraph (1)(i) that applied for the exemption order ceases to comply with section 176 or 411; or
-	- **(d)** there is a breach of any term or condition set out in the exemption order.
+- **(1)** On application by a company and subject to any terms and conditions that the Minister considers appropriate, the Minister may by order exempt the company from the requirements of section 411 if the Minister considers it appropriate to do so.
 
 **Compliance with section 411**
 
-- **(6)** Where an exemption order granted under this section expires, the company in respect of which the exemption order was granted shall comply with section 411 as of the day the exemption order expires.
+- **(2)** The company shall comply with section 411 as of the day on which the exemption order expires.
 
 **Limit on assets**
 
-- **(7)** Where a company fails to comply with section 411 on the day referred to in subsection (6), the company shall not, until it complies with section 411, have average total assets in any three month period ending on the last day of a subsequent month exceeding the company’s average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (6) or such later day as the Minister may, by order, specify.
+- **(3)** If a company fails to comply with section 411 on the day referred to in subsection (2), it shall not, until it complies with that section, have average total assets in any three month period ending on the last day of a subsequent month exceeding its average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (2) or on any later day that the Minister may specify by order.
 
-**Application of subsection 412(2)**
+**Application of s. 412(2)**
 
-- **(8)** Subsection 412(2) applies for the purposes of subsection (7).
-> 1991, c. 47, ss. 414, 758; 2001, c. 9, s. 408.
+- **(4)** Subsection 412(2) applies for the purposes of subsection (3).
+> 1991, c. 47, ss. 414, 758; 2001, c. 9, s. 408; 2005, c. 54, s. 294.
+
+
+
+
+
+**Continuation of exemption**
+
+**414.1** 
+
+- **(1)** Despite subsection 414(2), if an exemption order that was granted in respect of a company under subsection 414(3) as it read before the day on which this section comes into force provides that it expires if the holding body corporate ceases to comply with section 411, the company is not required to comply with that section until six months after the day on which the holding body corporate ceased to comply with that section if the failure to comply is as a result of
+	- **(a)** a distribution to the public of voting shares of the holding body corporate;
+	- **(b)** a redemption or purchase of voting shares of the holding body corporate;
+	- **(c)** the exercise of any option to acquire voting shares of the holding body corporate; or
+	- **(d)** the conversion of any convertible securities into voting shares of the holding body corporate.
+
+**Shares acquiring voting rights**
+
+- **(2)** Despite subsection 414(2), if as a result of an event that has occurred and is continuing shares of a holding body corporate referred to in subsection (1) acquire voting rights in such number as to cause the holding body corporate to no longer be in compliance with section 411, the company is not required to comply with that section until six months after the day on which the holding body corporate ceased to comply with that section or any later day that the Minister may by order specify.
+> 2005, c. 54, s. 294.
 
 
 
@@ -8821,22 +8867,13 @@ section 412 shall not apply in respect of that company until the expiration of s
 
 - **(2)** Where, as the result of an event that has occurred and is continuing, shares of a company acquire voting rights in such number as to cause the company to no longer be in compliance with section 411, section 412 shall not apply in respect of that company until the expiration of six months after the day the company ceased to be in compliance with section 411 or such later day as the Minister may, by order, specify.
 
-**Exemption**
-
-- **(3)** Where a holding body corporate referred to in subsection 414(3) fails to comply with section 411 as the result of
-	- **(a)** a distribution to the public of voting shares of the holding body corporate,
-	- **(b)** a redemption or purchase of voting shares of the holding body corporate,
-	- **(c)** the exercise of any option to acquire voting shares of the holding body corporate, or
-	- **(d)** the conversion of any convertible securities into voting shares of the holding body corporate,
-paragraph 414(5)(c) shall not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate failed to comply with section 411.
-
-**Shares acquiring voting rights**
-
-- **(4)** Where, as the result of an event that has occurred and is continuing, shares of a holding body corporate referred to in subsection 414(3) acquire voting rights in such number as to cause the holding body corporate to no longer be in compliance with section 411, paragraph 414(5)(c) shall not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate ceased to be in compliance with section 411 or such later day as the Minister may, by order, specify.
+- **(3) and (4)** [Repealed, 2005, c. 54, s. 295]
 
 **Mutualization**
 
 - **(5)** Where the Minister approves a proposal to convert a company into a mutual company under section 226, section 412 does not apply in respect of the company until the expiration of the period that the Minister may fix.
+> 1991, c. 47, s. 415; 2005, c. 54, s. 295.
+
 
 
 
@@ -11705,15 +11742,15 @@ would exceed 50 per cent of the regulatory capital of the company.
 
 **544** 
 
-- **(1)** A society shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** A society shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
-**Change of head office**
+**Change of head office — different province**
 
-- **(2)** Notwithstanding anything contained in its incorporating instrument, any society may, by by-law passed and approved by the votes of at least two thirds of the members entitled to vote by the by-laws of the society who are present or represented at a special meeting duly called for considering the by-law, change the head office of the society from any place in Canada to any other place in Canada.
+- **(2)** Despite anything contained in its incorporating instrument, any society may, by by-law passed and approved by the votes of at least two thirds of the members entitled to vote by the by-laws of the society who are present or represented at a special meeting duly called for considering the by-law, change the head office of the society from one province to another.
 
-**Change of head office**
+**Change of head office — within a province**
 
-- **(2.1)** The supreme governing body of a society may, by resolution passed and approved by at least two-thirds of the votes cast at a meeting, change the address of the head office within the place specified in the society’s by-laws.
+- **(2.1)** The supreme governing body of a society may, by resolution passed and approved by at least two thirds of the votes cast at a meeting, change the address of the head office within the province specified in the society’s by-laws.
 
 **Notice of change of address**
 
@@ -11722,7 +11759,7 @@ would exceed 50 per cent of the regulatory capital of the company.
 **Maximum period**
 
 - **(3)** A society shall establish by by-law the maximum period of time within which meetings of the society shall be held.
-> 1991, c. 47, s. 544; 1997, c. 15, s. 286.
+> 1991, c. 47, s. 544; 1997, c. 15, s. 286; 2005, c. 54, s. 298.
 
 
 
@@ -13056,7 +13093,7 @@ made before the coming into force of this Part but, if the loan or investment wo
 - **(1)** The Superintendent shall not make an order under this Part approving the insuring of risks by a body corporate until it has been shown to the satisfaction of the Superintendent that the body corporate has
 	- **(a)** vested in trust assets having a prescribed value,
 	- **(b)** appointed an actuary pursuant to section 623 and an auditor pursuant to section 633 for its insurance business in Canada, and
-	- **(c)** established the place where its chief agency will be situated,
+	- **(c)** established the province in which its chief agency will be situated,
 and that all other relevant requirements of this Act have been complied with.
 
 **Conditions of order**
@@ -13070,6 +13107,8 @@ and that all other relevant requirements of this Act have been complied with.
 **Assets in Canada**
 
 - **(4)** The securities referred to in subsection (3) are, until returned to the foreign company that deposited them, deemed to form part of the assets in Canada of that foreign company.
+> 1991, c. 47, s. 581; 2005, c. 54, s. 299.
+
 
 
 
@@ -13117,7 +13156,9 @@ and that all other relevant requirements of this Act have been complied with.
 - **(a)** foreign companies;
 - **(b)** the classes of insurance specified in the orders of the Superintendent approving the insurance of risks by them;
 - **(c)** their chief agents; and
-- **(d)** the place where their chief agencies are situated.
+- **(d)** the province in which their chief agencies are situated.
+> 1991, c. 47, s. 585; 2005, c. 54, s. 300.
+
 
 
 
@@ -13173,7 +13214,27 @@ but before making any such further order the Superintendent shall give the forei
 **Prescribed transactions**
 
 - **(3)** The Minister’s approval is not required for a transaction described in subsection (2) if it is a prescribed transaction or a transaction in a prescribed class of transactions.
-> 1997, c. 15, s. 303; 1999, c. 1, s. 9; 2001, c. 9, s. 442.
+
+**Capital to be unimpaired**
+
+- **(4)** The Minister may not approve a transaction under subsection (2) if the transaction would cause any foreign company that would be a party to it to be in contravention of any regulation referred to in subsection 608(1) or 609(1) or section 610 or of any order made under subsection 608(4) or 609(2).
+
+**Procedure**
+
+- **(5)** The foreign company shall, at least 30 days before it applies for the Minister’s approval, publish a notice in the Canada Gazette and in a newspaper in general circulation in the place where its chief agency is situated stating the day on or after which it will apply.
+
+**Information**
+
+- **(6)** If a foreign company publishes a notice, the Superintendent may direct it to provide its shareholders and policyholders with any information that the Superintendent may require.
+
+**Inspection**
+
+- **(7)** If a foreign company publishes a notice, it shall make the agreement for the transaction that the Minister is asked to approve available at its chief agency for the inspection of its shareholders and policyholders for at least 30 days after the publication of the notice and shall provide a copy of the agreement to any shareholder or policyholder who requests one by writing to the chief agency of the foreign company.
+
+**Superintendent may shorten periods**
+
+- **(8)** If the Superintendent is of the opinion that it is in the best interests of a group of policyholders affected by the transaction that the Minister is asked to approve, the Superintendent may shorten the periods of 30 days referred to in subsections (5) and (7).
+> 1997, c. 15, s. 303; 1999, c. 1, s. 9; 2001, c. 9, s. 442; 2005, c. 54, s. 301.
 
 
 
@@ -15610,16 +15671,21 @@ where
 
 
 
-**Authority of directors and officers**
+**Authority of directors, officers and representatives**
 
-**706** An insurance holding company or a guarantor of an obligation of an insurance holding company may not assert against a person dealing with the insurance holding company or with any person who has acquired rights from the insurance holding company that
-- **(a)** the insurance holding company’s incorporating instrument or any by-laws of the insurance holding company have not been complied with,
-- **(b)** the persons named as directors of the insurance holding company in the most recent return sent to the Superintendent under section 994 are not the directors of the insurance holding company,
-- **(c)** the place named in the incorporating instrument or the by-laws of the insurance holding company is not the head office of the insurance holding company,
-- **(d)** a person held out by the insurance holding company as a director, an officer or a representative of the insurance holding company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the insurance holding company or usual for any such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the insurance holding company with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the insurance holding company knowledge to that effect.
-> 1991, c. 47, s. 706; 1997, c. 15, s. 331; 2000, c. 12, s. 157; 2001, c. 9, s. 465.
+**706** 
+
+- **(1)** No insurance holding company and no guarantor of an obligation of an insurance holding company may assert against a person dealing with the insurance holding company or against a person who has acquired rights from the insurance holding company that
+	- **(a)** the insurance holding company’s incorporating instrument or any by-laws of the insurance holding company have not been complied with;
+	- **(b)** the persons named as directors of the insurance holding company in the most recent return sent to the Superintendent under section 994 are not the directors of the insurance holding company;
+	- **(c)** the place named in the incorporating instrument or by-laws of the insurance holding company is not the place where the head office of the insurance holding company is situated;
+	- **(d)** a person held out by the insurance holding company as a director, officer or representative of the insurance holding company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the insurance holding company or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the insurance holding company with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the insurance holding company.
+> 1991, c. 47, s. 706; 1997, c. 15, s. 331; 2000, c. 12, s. 157; 2001, c. 9, s. 465; 2005, c. 54, s. 304.
 
 
 
@@ -15717,7 +15783,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating an insurance holding company
 	- **(a)** the name of the insurance holding company;
-	- **(b)** the place in Canada where the head office of the insurance holding company is to be situated; and
+	- **(b)** the province in which the head office of the insurance holding company is to be situated; and
 	- **(c)** the date that the insurance holding company came, or is to come, into existence.
 
 **Provisions in letters patent**
@@ -15727,7 +15793,7 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating an insurance holding company as the Minister considers necessary or appropriate.
-> 1991, c. 47, s. 713; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 713; 2001, c. 9, s. 465; 2005, c. 54, s. 305.
 
 
 
@@ -16150,8 +16216,8 @@ the entity shall not control the insurance holding company one year after the da
 
 **738** The Superintendent shall, within sixty days after the end of each year, cause a notice to be published in the Canada Gazette, showing
 - **(a)** the name of every insurance holding company; and
-- **(b)** the place in Canada where the head office of the insurance holding company is situated.
-> 1991, c. 47, s. 738; 2001, c. 9, s. 465.
+- **(b)** the province in which the head office of the insurance holding company is situated.
+> 1991, c. 47, s. 738; 2001, c. 9, s. 465; 2005, c. 54, s. 306.
 
 
 
@@ -16286,11 +16352,13 @@ the entity shall not control the insurance holding company one year after the da
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **745** 
 
-- **(1)** The by-laws of an insurance holding company made pursuant to section 744 may authorize the issue of any class of shares in one or more series and may authorize the directors of the insurance holding company to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of an insurance holding company may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -16306,8 +16374,8 @@ the entity shall not control the insurance holding company one year after the da
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares of a series of shares authorized under this section, the directors shall send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
-> 1991, c. 47, s. 745; 2001, c. 9, s. 465.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+> 1991, c. 47, s. 745; 2001, c. 9, s. 465; 2005, c. 54, s. 307.
 
 
 
@@ -16358,11 +16426,13 @@ the entity shall not control the insurance holding company one year after the da
 
 **Exception**
 
-- **(3)** Despite subsection (2), an insurance holding company may record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(3)** Despite subsection (2), an insurance holding company may, subject to subsection (4), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the insurance holding company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-		- **(ii)** shares of a body corporate that immediately before the exchange, or because of the exchange, did not deal with the insurance holding company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** under an agreement referred to in subsection 858(1) to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated insurance holding company.
+		- **(i)** property of a person who immediately before the exchange did not deal with the insurance holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the insurance holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the insurance holding company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the insurance holding company and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 858(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated insurance holding company.
 
 **Limit on addition to a stated capital account**
 
@@ -16371,7 +16441,7 @@ the entity shall not control the insurance holding company one year after the da
 **Constraint on addition to a stated capital account**
 
 - **(5)** Where an insurance holding company that has issued any outstanding shares of more than one class or series proposes to add to a stated capital account that it maintains in respect of a class or series of shares an amount that was not received by the insurance holding company as consideration for the issue of shares, the addition must be approved by special resolution unless all the issued and outstanding shares are of not more than two classes of convertible shares referred to in subsection 759(4).
-> 1991, c. 47, s. 749; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 749; 2001, c. 9, s. 465; 2005, c. 54, s. 308.
 
 
 
@@ -16484,7 +16554,7 @@ the entity shall not control the insurance holding company one year after the da
 **Security interest**
 
 - **(2)** An insurance holding company may permit its subsidiaries to hold, by way of a security interest, shares of the insurance holding company or of any body corporate that controls the insurance holding company or any ownership interests of any entity that controls the insurance holding company if the security interest is nominal or immaterial when measured by criteria established by the insurance holding company that have been approved in writing by the Superintendent.
-> 1991, c. 47, s. 755; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 755; 2001, c. 9, s. 465; 2005, c. 54, s. 309(F).
 
 
 
@@ -17600,8 +17670,8 @@ but does not include
 	- **(d)** if a shareholder has voted for more than one candidate without specifying the distribution of the votes among the candidates, the shareholder is deemed to have distributed the votes equally among the candidates for whom the shareholder voted;
 	- **(e)** if the number of candidates nominated exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;
 	- **(f)** each director elected by cumulative voting ceases to hold office at the close of the next annual meeting of shareholders following the director’s election;
-	- **(g)** a director elected by cumulative voting may not be removed from office if the votes cast against the removal would be sufficient to elect the director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors elected by cumulative voting required by the by-laws were then being elected; and
-	- **(h)** the number of directors elected by cumulative voting required by the by-laws may not be decreased if the votes cast against the motion to decrease would be sufficient to elect a director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors elected by cumulative voting required by the by-laws were then being elected.
+	- **(g)** a director may be removed from office only if the number of votes cast in favour of a motion to remove the director is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion; and
+	- **(h)** the number of directors required by the by-laws may be decreased only if the number of votes cast in favour of a motion to decrease the number of directors is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion.
 
 **Mandatory cumulative voting**
 
@@ -17628,7 +17698,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Class or series of shares**
 
 - **(6)** Nothing in this Part precludes the holders of any class or series of shares of an insurance holding company from having an exclusive right to elect one or more directors.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 328.
 
 
 
@@ -17777,12 +17847,12 @@ is entitled to submit to the insurance holding company a written statement givin
 
 **812** 
 
-- **(1)** Despite section 819 but subject to subsection (2) and sections 811 and 813, a quorum of directors may fill a vacancy among the directors except a vacancy among the directors resulting from a change in the by-laws by which the number or minimum number of directors is increased or from a failure to elect the number or minimum number of directors required by the by-laws.
+- **(1)** Despite section 819 but subject to subsection (2) and sections 811 and 813, a quorum of directors may fill a vacancy among the directors except a vacancy resulting from a change in the by-laws by which the number or the minimum or maximum number of directors is increased or from a failure to elect the number or minimum number of directors provided for in the by-laws.
 
 **Where composition fails**
 
 - **(2)** Despite sections 811 and 819, where by reason of a vacancy the number of directors or the composition of the board of directors fails to meet any of the requirements of section 796 or 799, the directors who, in the absence of any by-law, would be empowered to fill that vacancy shall do so forthwith.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 329.
 
 
 
@@ -17791,10 +17861,10 @@ is entitled to submit to the insurance holding company a written statement givin
 **Class vacancy**
 
 **813** Despite section 819 but subject to section 811, where the holders of any class or series of shares of an insurance holding company have an exclusive right to elect one or more directors and a vacancy occurs among those directors,
-- **(a)** the remaining directors elected by the holders of that class or series may fill the vacancy except a vacancy resulting from an increase in, or a failure to elect, the number or minimum number of directors for that class or series;
+- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 796 or 799, the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 330.
 
 
 
@@ -18285,21 +18355,20 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **841** 
 
-- **(1)** The directors of an insurance holding company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 748(1) or the issue of subordinated indebtedness contrary to section 762 for a consideration other than money are jointly and severally liable to the insurance holding company to make good any amount by which the consideration received is less than the fair equivalent of the money that the insurance holding company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of an insurance holding company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 748(1) or the issue of subordinated indebtedness contrary to section 762 for a consideration other than money are jointly and severally, or solidarily, liable to the insurance holding company to make good any amount by which the consideration received is less than the fair equivalent of the money that the insurance holding company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of an insurance holding company who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of shares contrary to section 754,
-	- **(b)** a reduction of capital contrary to section 757,
-	- **(c)** a payment of a dividend contrary to section 761, or
-	- **(d)** a payment of an indemnity contrary to section 846
-are jointly and severally liable to restore to the insurance holding company any amounts so distributed or paid and not otherwise recovered by the insurance holding company and any amounts in relation to any loss suffered by the insurance holding company.
-> 2001, c. 9, s. 465.
+- **(2)** Directors of an insurance holding company who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the insurance holding company any amounts so distributed or paid and not otherwise recovered by the insurance holding company and any amounts in relation to any loss suffered by the insurance holding company:
+	- **(a)** a redemption or purchase of shares contrary to section 754;
+	- **(b)** a reduction of capital contrary to section 757;
+	- **(c)** a payment of a dividend contrary to section 761; or
+	- **(d)** a payment of an indemnity contrary to section 846.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 337(E).
 
 
 
@@ -18336,11 +18405,11 @@ are jointly and severally liable to restore to the insurance holding company any
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **844** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of an insurance holding company are jointly and severally liable to each employee of the insurance holding company for all debts not exceeding six months wages payable to the employee for services performed for the insurance holding company while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of an insurance holding company are jointly and severally, or solidarily, liable to each employee of the insurance holding company for all debts not exceeding six months wages payable to the employee for services performed for the insurance holding company while they are directors.
 
 **Conditions precedent**
 
@@ -18364,49 +18433,61 @@ are jointly and severally liable to restore to the insurance holding company any
 **Contribution entitlement**
 
 - **(6)** A director of an insurance holding company who has satisfied a claim under this section is entitled to a contribution from the other directors of the insurance holding company who are liable for the claim.
-> 2001, c. 9, s. 465; 2004, c. 25, s. 203.
+> 2001, c. 9, s. 465; 2004, c. 25, s. 203; 2005, c. 54, s. 338(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**845** A director, an officer or an employee of an insurance holding company is not liable under subsection 795(1) or (2) or section 841 or 844 if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the insurance holding company represented to the director, officer or employee by an officer of the insurance holding company or in a written report of the auditor of the insurance holding company fairly to reflect the financial condition of the insurance holding company; or
-- **(b)** a report of an accountant, actuary, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 2001, c. 9, s. 465.
+**845** 
+
+- **(1)** A director, officer or employee of an insurance holding company is not liable under section 841 or 844 and has fulfilled their duty under subsection 795(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the insurance holding company that were represented to them by an officer of the insurance holding company or in a written report of the auditor of the insurance holding company fairly to reflect the financial condition of the insurance holding company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of an insurance holding company has fulfilled their duty under subsection 795(1) if they relied in good faith on
+	- **(a)** financial statements of the insurance holding company that were represented to them by an officer of the insurance holding company or in a written report of the auditor of the insurance holding company fairly to reflect the financial condition of the insurance holding company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 339.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **846** 
 
-- **(1)** Except in respect of an action by or on behalf of the insurance holding company to procure a judgment in its favour, an insurance holding company may indemnify
-	- **(a)** a director or an officer of the insurance holding company,
-	- **(b)** a former director or officer of the insurance holding company, or
-	- **(c)** any person who acts or acted at the insurance holding company’s request as a director or an officer of an entity of which the insurance holding company is or was a shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the insurance holding company, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** An insurance holding company may indemnify a director or officer of the insurance holding company, a former director or officer of the insurance holding company or another person who acts or acted, at the insurance holding company’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the insurance holding company or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** An insurance holding company may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the insurance holding company or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the insurance holding company or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** An insurance holding company may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** An insurance holding company may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the insurance holding company, or the other entity for which they acted at the insurance holding company’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** An insurance holding company may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the insurance holding company or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the insurance holding company or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Despite anything in this section, a person referred to in subsection (1) is entitled to indemnity from the insurance holding company in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the insurance holding company or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the insurance holding company in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of the association referred to in subsection (1) with the insurance holding company or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** An insurance holding company may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the insurance holding company may indemnify pursuant to subsections (1) to (3).
-> 2001, c. 9, s. 465.
+- **(6)** An insurance holding company may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the insurance holding company may indemnify under those subsections.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 339.
 
 
 
@@ -18416,8 +18497,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **847** An insurance holding company may purchase and maintain insurance for the benefit of any person referred to in section 846 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the insurance holding company, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the insurance holding company; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the insurance holding company’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
-> 2001, c. 9, s. 465.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the insurance holding company’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 340.
 
 
 
@@ -18603,7 +18684,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement**
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated insurance holding company and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated insurance holding company and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated insurance holding company;
 	- **(c)** the manner in which any shares of each applicant are to be converted into shares or other securities of the amalgamated insurance holding company;
 	- **(d)** if any shares of an applicant are not to be converted into shares or other securities of the amalgamated insurance holding company, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities of the amalgamated insurance holding company;
@@ -18615,7 +18696,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Cross ownership of shares**
 
 - **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated insurance holding company.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 341.
 
 
 
@@ -18638,11 +18719,11 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation, whether or not it otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Special resolution**
 
@@ -18651,7 +18732,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant even though the agreement has been approved by the shareholders of all or any of the applicant bodies corporate.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 342.
 
 
 
@@ -18875,16 +18956,16 @@ and
 
 **868** 
 
-- **(1)** An insurance holding company shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** An insurance holding company shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of an insurance holding company may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of an insurance holding company may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** An insurance holding company shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 343.
 
 
 
@@ -19044,15 +19125,15 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **876** 
 
-- **(1)** Subject to subsection (3), an insurance holding company shall maintain and process in Canada information or data relating to the preparation and maintenance of the records referred to in section 869 unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the insurance holding company from the application of this section.
+- **(1)** Subject to subsection (3), an insurance holding company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 869 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the insurance holding company from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (3) and (4), an insurance holding company may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (3) and (4), the insurance holding company may maintain copies of the records referred to in section 869 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Information for Superintendent**
 
@@ -19069,7 +19150,7 @@ the registers and records required or authorized by this Part to be prepared and
 **Guidelines**
 
 - **(6)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 346.
 
 
 
@@ -19104,10 +19185,10 @@ the registers and records required or authorized by this Part to be prepared and
 **Sections 271 to 277 apply**
 
 **879** Sections 271 to 277 apply in respect of insurance holding companies, subject to the following:
-- **(a)** references to “company” in those sections are to be read as references to “insurance holding company”;
-- **(b)** the reference to “Subsection 262(5) and sections 266 to 268” in subsection 271(3) is to be read as a reference to “Subsection 870(4) and sections 874 to 876”; and
+- **(a)** references to “company” in those sections are to be read as references to “insurance holding company”; and
+- **(b)** [Repealed, 2005, c. 54, s. 347]
 - **(c)** the reference to “subsection 73(1)” in section 277 is to be read as a reference to “subsection 752(1)”.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 347.
 
 
 
@@ -19270,18 +19351,18 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Approval by directors**
+**Annual statement — approval**
 
 **888** 
 
-- **(1)** The directors of an insurance holding company shall approve the annual statement and the approval of the directors shall be evidenced by the signature of
+- **(1)** The directors of an insurance holding company shall approve the annual statement and their approval shall be evidenced by the signature or a printed or otherwise mechanically reproduced facsimile of the signature of
 	- **(a)** the chief executive officer or, in the event of that officer’s absence or inability to act, any other officer of the insurance holding company authorized by the directors to sign in the stead of the chief executive officer; and
 	- **(b)** one director, if the signature required by paragraph (a) is that of a director, or two directors if the signature required by that paragraph is that of an officer who is not a director.
 
 **Condition precedent to publication**
 
 - **(2)** An insurance holding company shall not publish copies of an annual statement unless it is approved and signed in accordance with subsection (1).
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 352.
 
 
 
@@ -19768,14 +19849,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Conditions precedent**
 
 - **(2)** No action may be brought and no intervention in an action may be made under subsection (1) by a complainant unless the court is satisfied that
-	- **(a)** the complainant has given reasonable notice to the directors of the insurance holding company or the subsidiary of the complainant’s intention to apply to the court under that section if the directors of the insurance holding company or its subsidiary do not bring, diligently prosecute or defend or discontinue the action;
+	- **(a)** the complainant has, not less than 14 days before bringing the application or as otherwise ordered by the court, given notice to the directors of the insurance holding company or the insurance holding company’s subsidiary of the complainant’s intention to apply to the court under subsection (1) if the directors of the insurance holding company or the insurance holding company’s subsidiary do not bring, diligently prosecute or defend or discontinue the action;
 	- **(b)** the complainant is acting in good faith; and
 	- **(c)** it appears to be in the interests of the insurance holding company or the subsidiary that the action be brought, prosecuted, defended or discontinued.
 
 **Notice to Superintendent**
 
 - **(3)** A complainant under subsection (1) shall give the Superintendent notice of the application and the Superintendent may appear and be heard in person or by counsel at the hearing of the application.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 357.
 
 
 
@@ -19824,7 +19905,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Interim costs**
 
 - **(2)** In an application made or an action brought or intervened in under this Subdivision, the court may at any time order the insurance holding company or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable by the court for those interim costs on final disposition of the application or action.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 358(F).
 
 
 
@@ -20284,58 +20365,24 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 
 
-**Exemption by order of Minister**
+**Exemption by Minister**
 
 **941** 
 
-- **(1)** An entity that controls an insurance holding company and that is
-	- **(a)** an insurance holding company that is in compliance with section 938,
-	- **(b)** a widely held bank,
-	- **(c)** a bank that would be in compliance with section 938 if it were an insurance holding company,
-	- **(d)** a widely held bank holding company,
-	- **(e)** a bank holding company that would be in compliance with section 938 if it were an insurance holding company,
-	- **(f)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies that would be in compliance with section 938 if it were an insurance holding company,
-	- **(g)** a company that would be in compliance with section 938 if it were an insurance holding company,
-	- **(h)** a mutual company,
-	- **(i)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
-	- **(j)** a body corporate that is incorporated and regulated by or under an Act of the legislature of a province and that is a mutual insurance corporation,
-	- **(k)** a cooperative credit society regulated by or under an Act of the legislature of a province,
-	- **(l)** a foreign institution, or
-	- **(m)** a body corporate incorporated or formed by or under an Act of Parliament or of the legislature of a province whose activities, and those of any entities that it controls, are, in the opinion of the Minister, when viewed as a whole, primarily financial,
-may apply to the Minister to exempt the insurance holding company from the requirements of section 938.
+- **(1)** On application by an insurance holding company and subject to any terms and conditions that the Minister considers appropriate, the Minister may by order exempt the insurance holding company from the requirements of section 938 if the Minister considers it appropriate to do so.
 
-**Terms and conditions**
+**Compliance with s. 938**
 
-- **(2)** In the case of an entity referred to in any of paragraphs (1)(a) to (l), the Minister may grant the exemption referred to in subsection (1) subject to such terms and conditions as the Minister considers appropriate.
-
-**Terms and conditions**
-
-- **(3)** In the case of a holding body corporate referred to in paragraph (1)(m), the Minister may grant the exemption referred to in subsection (1) only if the Minister is satisfied that the holding body corporate will, if the exemption is granted, submit to and comply with sections 803 and 938 as though the holding body corporate were an insurance holding company and the Minister may grant the exemption subject to such terms and conditions as the Minister considers appropriate.
-
-**Effect of order**
-
-- **(4)** Subject to subsection (5) and to such terms and conditions as are set out in an exemption order granted under this section, an insurance holding company in respect of which an exemption order is granted need not comply with section 938.
-
-**Expiration of exemption order**
-
-- **(5)** The Minister may, by order, direct that an exemption order granted under this section in respect of an insurance holding company shall expire if
-	- **(a)** the entity that applied for the exemption order ceases to control the insurance holding company;
-	- **(b)** in the opinion of the Minister, the activities of the holding body corporate referred to in paragraph (1)(m) that applied for the exemption order, whether carried on directly or through entities that it controls, are no longer primarily financial;
-	- **(c)** the holding body corporate referred to in paragraph (1)(m) that applied for the exemption order ceases to comply with section 803 or 938; or
-	- **(d)** there is a breach of any term or condition set out in the exemption order.
-
-**Compliance with section 938**
-
-- **(6)** Where an exemption order granted under this section expires, the insurance holding company in respect of which the exemption order was granted shall comply with section 938 as of the day the exemption order expires.
+- **(2)** The insurance holding company shall comply with section 938 as of the day on which the exemption order expires.
 
 **Limit on assets**
 
-- **(7)** Where an insurance holding company fails to comply with section 938 on the day referred to in subsection (6), the insurance holding company shall not, until it complies with section 938, have average total assets in any three month period ending on the last day of a subsequent month exceeding the insurance holding company’s average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (6) or such later day as the Minister may, by order, specify.
+- **(3)** If an insurance holding company fails to comply with section 938 on the day referred to in subsection (2), it shall not, until it complies with that section, have average total assets in any three month period ending on the last day of a subsequent month exceeding its average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (2) or on any later day that the Minister may specify by order.
 
-**Application of subsection 939(2)**
+**Application of s. 939(2)**
 
-- **(8)** Subsection 939(2) applies for the purposes of subsection (7).
-> 2001, c. 9, s. 465.
+- **(4)** Subsection 939(2) applies for the purposes of subsection (3).
+> 2001, c. 9, s. 465; 2005, c. 54, s. 359.
 
 
 
@@ -20355,18 +20402,8 @@ may apply to the Minister to exempt the insurance holding company from the requi
 
 - **(2)** If as the result of an event that has occurred and is continuing, shares of an insurance holding company acquire voting rights in such number as to cause the insurance holding company to no longer be in compliance with section 938, section 939 does not apply in respect of that insurance holding company until the expiration of six months after the day the insurance holding company ceased to be in compliance with section 938 or such later day as the Minister may, by order, specify.
 
-**Exemption**
-
-- **(3)** If a holding body corporate referred to in subsection 941(3) fails to comply with section 938 as the result of any of the following, paragraph 941(5)(c) does not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate failed to comply with section 938:
-	- **(a)** a distribution to the public of voting shares of the holding body corporate;
-	- **(b)** a redemption or purchase of voting shares of the holding body corporate;
-	- **(c)** the exercise of any option to acquire voting shares of the holding body corporate; or
-	- **(d)** the conversion of any convertible securities into voting shares of the holding body corporate.
-
-**Shares acquiring voting rights**
-
-- **(4)** If, as the result of an event that has occurred and is continuing, shares of a holding body corporate referred to in subsection 941(3) acquire voting rights in such number as to cause the holding body corporate to no longer be in compliance with section 938, paragraph 941(5)(c) does not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate ceased to be in compliance with section 938 or such later day as the Minister may, by order, specify.
-> 2001, c. 9, s. 465.
+- **(3) and (4)** [Repealed, 2005, c. 54, s. 360]
+> 2001, c. 9, s. 465; 2005, c. 54, s. 360.
 
 
 
@@ -21768,6 +21805,15 @@ together with such other information about the background, business record and e
 
 
 
+**Execution of documents**
+
+**1007.1** Any by-law, notice, resolution, requisition, statement or other document required or permitted to be executed or signed by more than one person for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the persons. The documents if duly executed or signed by all persons required or permitted to sign them are deemed to constitute one document for the purposes of this Act.
+> 2005, c. 54, s. 361.
+
+
+
+
+
 **Notice to directors, etc.**
 
 **1008** 
@@ -21805,8 +21851,8 @@ together with such other information about the background, business record and e
 
 **Undelivered notices**
 
-- **(2)** If a company, a society, a foreign company, a provincial company or an insurance holding company sends a notice or document to a shareholder, member or policyholder in accordance with section 1008 and the notice or document is returned on three consecutive occasions because the shareholder, member or policyholder cannot be found, the company, society, foreign company, provincial company or insurance holding company is not required to send any further notices or documents to the shareholder, member or policyholder until informed in writing of that person’s new address.
-> 2001, c. 9, s. 465.
+- **(2)** If a company, society, foreign company, provincial company or insurance holding company sends a notice or document to a shareholder, member or policyholder in accordance with section 1008 and it is returned on two consecutive occasions because the shareholder, member or policyholder cannot be found, the company, society, foreign company, provincial company or insurance holding company is not required to send any further notices or documents to them until it is informed in writing of their new address.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 362.
 
 
 
@@ -21842,7 +21888,7 @@ together with such other information about the background, business record and e
 **Entry in securities register**
 
 **1013** An entry in the securities register of, or on a security certificate issued by, a company or an insurance holding company is evidence that the person in whose name the security is registered is the owner of the securities described in the register or in the certificate.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 363(F).
 
 
 
@@ -22018,21 +22064,31 @@ together with such other information about the background, business record and e
 
 **Power to make regulations**
 
-**1021** The Governor in Council may make regulations
-- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
-- **(b)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined;
-- **(c)** respecting, for any purpose of any provision of the Act, the determination of the equity of a company or an insurance holding company;
-- **(d)** defining words and expressions to be defined for the purposes of this Act;
-- **(e)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount of the fee or the manner of determining its amount;
-- **(f)** respecting the regulatory capital and total assets of a company, a society, a provincial company or an insurance holding company;
-- **(g)** respecting the standards of sound business and financial practices for companies, societies, provincial companies and foreign companies;
-- **(h)** respecting the retention, in Canada, of assets of a company, a society or an insurance holding company;
-- **(i)** respecting the value of assets of a company, a society or an insurance holding company to be held in Canada and the manner in which those assets are to be held;
-- **(j)** respecting the protection and maintenance of assets of a company, a society or an insurance holding company, including regulations respecting the bonding of directors, officers and employees of a company, a society or an insurance holding company;
-- **(k)** respecting the holding of shares and ownership interests for the purposes of section 74, 78 or 753;
-- **(l)** respecting information, in addition to the information required by section 670 or 996, to be maintained in the register referred to in that section; and
-- **(m)** generally for carrying out the purposes and provisions of this Act.
-> 2001, c. 9, s. 465.
+**1021** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
+	- **(b)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined;
+	- **(c)** respecting, for any purpose of any provision of the Act, the determination of the equity of a company or an insurance holding company;
+	- **(d)** defining words and expressions to be defined for the purposes of this Act;
+	- **(e)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount of the fee or the manner of determining its amount;
+	- **(f)** respecting the regulatory capital and total assets of a company, a society, a provincial company or an insurance holding company;
+	- **(g)** respecting the standards of sound business and financial practices for companies, societies, provincial companies and foreign companies;
+	- **(h)** respecting the retention, in Canada, of assets of a company, a society or an insurance holding company;
+	- **(i)** respecting the value of assets of a company, a society or an insurance holding company to be held in Canada and the manner in which those assets are to be held;
+	- **(j)** respecting the protection and maintenance of assets of a company, a society or an insurance holding company, including regulations respecting the bonding of directors, officers and employees of a company, a society or an insurance holding company;
+	- **(k)** respecting the holding of shares and ownership interests for the purposes of section 74, 78 or 753;
+	- **(l)** respecting information, in addition to the information required by section 670 or 996, to be maintained in the register referred to in that section; and
+	- **(m)** generally for carrying out the purposes and provisions of this Act.
+
+**Incorporation by reference**
+
+- **(2)** The regulations may incorporate any material by reference regardless of its source and either as it exists on a particular date or as amended from time to time.
+
+**Incorporated material is not a regulation**
+
+- **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 364.
 
 
 
@@ -22099,7 +22155,7 @@ together with such other information about the background, business record and e
 - **(1)** Every person who is guilty of an offence under any of sections 1023 to 1026 is
 	- **(a)** in the case of a natural person, liable
 		- **(i)** on summary conviction, to a fine of not more than $100,000 or to imprisonment for a term of not more than twelve months, or to both, or
-		- **(ii)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both; and
+		- **(ii)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; and
 	- **(b)** in the case of an entity, liable
 		- **(i)** on summary conviction, to a fine of not more than $500,000, or
 		- **(ii)** on conviction on indictment, to a fine of not more than $5,000,000.
@@ -22110,8 +22166,8 @@ together with such other information about the background, business record and e
 
 **Additional fine**
 
-- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or to the spouse, common-law partner or other dependant of the convicted person, order the convicted person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of those monetary benefits.
-> 2001, c. 9, s. 465.
+- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or their spouse, common-law partner or other dependant, order the convicted person to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to three times the court’s estimation of the amount of those monetary benefits.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 365.
 
 
 
@@ -22165,10 +22221,16 @@ together with such other information about the background, business record and e
 
 
 
-**Appeals**
+**Appeal of final order**
 
-**1032** Any decision or order of a court under this Act may be appealed to the court of appeal.
-> 2001, c. 9, s. 465.
+**1032** 
+
+- **(1)** An appeal lies to the court of appeal of a province from any final order made by a court of that province under this Act.
+
+**Appeal with leave**
+
+- **(2)** An appeal lies to the court of appeal of a province from any order, other than a final order made by a court of that province, only with leave of the court of appeal in accordance with the rules applicable to that court.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 366.
 
 
 
