@@ -170,6 +170,8 @@ Version anglaise seulement***member***, in respect of an association, means a pe
 
 ***Minister*** means the Minister of Finance;
 
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+
 ***officer*** means
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
 - **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
@@ -242,7 +244,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***transfer***, in respect of securities, includes a transmission by operation of law;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E).
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140.
 
 
 
@@ -563,13 +565,20 @@ are deemed to be securities that are part of a distribution to the public if tho
 
 **Authority of directors and officers**
 
-**21** An association or a guarantor of an obligation of an association may not assert against a person dealing with the association or with any person who has acquired rights from the association that
-- **(a)** the association’s incorporating instrument or any by-laws of the association have not been complied with,
-- **(b)** the persons named as directors of the association in the most recent return sent to the Superintendent under section 432 are not the directors of the association,
-- **(c)** the place named in the incorporating instrument or the by-laws of the association is not the head office of the association,
-- **(d)** a person held out by the association as a director, an officer or a representative of the association has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the association or usual for such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the association with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the association knowledge to that effect.
+**21** 
+
+- **(1)** No association and no guarantor of an obligation of an association may assert against a person dealing with the association or against a person who has acquired rights from the association that
+	- **(a)** the association’s incorporating instrument or any by-laws of the association have not been complied with;
+	- **(b)** the persons named as directors of the association in the most recent return sent to the Superintendent under section 432 are not the directors of the association;
+	- **(c)** the place named in the incorporating instrument or by-laws of the association is not the place where the head office of the association is situated;
+	- **(d)** a person held out by the association as a director, officer or representative of the association has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the association or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the association with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the association.
+> 1991, c. 48, s. 21; 2005, c. 54, s. 143.
+
 
 
 
@@ -682,7 +691,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating an association
 	- **(a)** the name of the association;
-	- **(b)** the place in Canada where the head office of the association is to be situated; and
+	- **(b)** the province in which the head office of the association is to be situated; and
 	- **(c)** the date that the association came, or is to come, into existence.
 
 **Provisions in letters patent**
@@ -692,6 +701,8 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating an association as the Minister considers necessary or appropriate.
+> 1991, c. 48, s. 28; 2005, c. 54, s. 144.
+
 
 
 
@@ -1242,13 +1253,19 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 
 - **(2)** A certificate or any other authorization that was given to the former-Act association and that is in effect immediately before the coming into force of this Part is deemed to be an order of the Superintendent under subsection (1).
 
+**Continued association**
+
+- **(3)** Except in respect of a body corporate that is continued as an association under this Act for the purpose of immediately amalgamating with one or more bodies corporate and continuing as an association under this Act, if letters patent continuing a body corporate as an association under this Act are issued, the Superintendent shall make an order approving the commencement and carrying on of business by the association.
+
 **Amalgamated association**
 
-- **(3)** Where letters patent amalgamating and continuing two or more bodies corporate as an association under this Act are issued, the Superintendent shall make an order approving the commencement and carrying on of business by the association.
+- **(4)** If letters patent amalgamating and continuing two or more bodies corporate as an association under this Act are issued, the Superintendent shall make an order approving the commencement and carrying on of business by the association.
 
-**Subsection 57(2) and section 60 do not apply**
+**S. 57(2) and s. 60 do not apply**
 
-- **(4)** For greater certainty, subsection 57(2) and section 60 do not apply in respect of an association referred to in subsection (3).
+- **(5)** For greater certainty, subsection 57(2) and section 60 do not apply in respect of an association referred to in subsection (3) or (4).
+> 1991, c. 48, s. 56; 2005, c. 54, s. 145.
+
 
 
 
@@ -1484,11 +1501,13 @@ but before making any such further order the Superintendent shall provide the as
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **71** 
 
-- **(1)** The by-laws of an association made pursuant to section 70 may authorize the issue of any class of shares in one or more series and may authorize the directors of the association to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of an association may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -1504,7 +1523,9 @@ but before making any such further order the Superintendent shall provide the as
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares authorized under this section, the directors shall send to the Superintendent a copy of any by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed shares.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed shares.
+> 1991, c. 48, s. 71; 2005, c. 54, s. 146.
+
 
 
 
@@ -1554,11 +1575,13 @@ but before making any such further order the Superintendent shall provide the as
 
 **Exception**
 
-- **(2.1)** Despite subsection (2), an association may, subject to subsection (2.2), record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(2.1)** Despite subsection (2), an association may, subject to subsection (2.2), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the association at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or property of any other prescribed person, or
-		- **(ii)** shares of, or another interest in, a body corporate that immediately before the exchange, or because of the exchange, did not deal with the association at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or shares of or another interest in any prescribed entity; or
-	- **(b)** under an agreement referred to in subsection 227(1) to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated association.
+		- **(i)** property of a person who immediately before the exchange did not deal with the association at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or property of any prescribed person,
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the association at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or shares of or another interest in any prescribed entity, or
+		- **(iii)** property of a person who immediately before the exchange dealt with the association at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the association and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 227(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated association.
 
 **Limit on addition to a stated capital account**
 
@@ -1581,7 +1604,7 @@ but before making any such further order the Superintendent shall provide the as
 **Share issued before coming into force**
 
 - **(5)** Any amount unpaid in respect of a membership share issued by the former-Act association before the coming into force of this Part and paid after the coming into force of this Part shall be recorded in the stated capital account maintained by the association for the membership shares.
-> 1991, c. 48, s. 75; 1997, c. 15, s. 118; 2001, c. 9, s. 271.
+> 1991, c. 48, s. 75; 1997, c. 15, s. 118; 2001, c. 9, s. 271; 2005, c. 54, s. 147.
 
 
 
@@ -1669,6 +1692,8 @@ but before making any such further order the Superintendent shall provide the as
 **Saving**
 
 - **(3)** Nothing in subsection (2) precludes the former-Act association or any of its subsidiaries from holding any security interest held immediately prior to the coming into force of this Part.
+> 1991, c. 48, s. 80; 2005, c. 54, s. 148(F).
+
 
 
 
@@ -2036,7 +2061,7 @@ the restriction or lien is ineffective against a transferee of the security who 
 
 - **(2)** Notwithstanding subsection (1), an association may treat a person as a registered security holder entitled to exercise all of the rights of the security holder that the person represents, if that person provides the association with evidence as described in subsection 134(4) that the person is
 	- **(a)** the heir or personal representative of a deceased security holder or the personal representative of the heirs of the deceased security holder;
-	- **(b)** the personal representative of a registered security holder who is an infant, an incompetent person or a missing person; or
+	- **(b)** the personal representative of a registered security holder who is a minor, an incompetent person or a missing person; or
 	- **(c)** a liquidator of, or a trustee in bankruptcy for, a registered security holder.
 
 **Permissible registered holder**
@@ -2046,13 +2071,17 @@ the restriction or lien is ineffective against a transferee of the security who 
 **Immunity of association**
 
 - **(4)** An association is not required to inquire into the existence of, or see to the performance or observance of, any duty owed to a third person by a registered holder of any of its securities or by anyone whom it treats, as permitted or required by this Part, as the owner or registered holder thereof.
+> 1991, c. 48, s. 100; 2005, c. 54, s. 152.
 
 
 
 
-**Infant owner**
 
-**101** If an infant exercises any rights of ownership in the securities of an association, no subsequent repudiation or avoidance is effective against the association.
+**Minors**
+
+**101** If a minor exercises any rights of ownership in the securities of an association, no subsequent repudiation or avoidance is effective against the association.
+> 1991, c. 48, s. 101; 2005, c. 54, s. 153(E).
+
 
 
 
@@ -3588,9 +3617,11 @@ is entitled to submit to the association a written statement giving the reasons 
 **Class vacancy**
 
 - **(3)** Notwithstanding section 188, the by-laws of an association may provide that, where a class of persons has an exclusive right to appoint or elect one or more directors and a vacancy occurs among those directors,
-	- **(a)** the remaining directors appointed or elected by those persons may fill the vacancy except a vacancy resulting from an increase in the number or minimum number of directors who are to be appointed or elected by that class or from a failure to appoint or elect the number or minimum number of directors who are to be appointed or elected by that class;
+	- **(a)** the remaining directors appointed or elected by those persons may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors who are to be appointed or elected by that class or from a failure to appoint or elect the number or minimum number of directors who are to be appointed or elected by that class;
 	- **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of sections 169 and 171, the other directors may fill that vacancy; and
 	- **(c)** if there are no such remaining directors and paragraph (b) does not apply, any person of that class of persons may call a meeting of the class for the purpose of filling the vacancy.
+> 1991, c. 48, s. 183; 2005, c. 54, s. 172.
+
 
 
 
@@ -4083,21 +4114,22 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **211** 
 
-- **(1)** The directors of an association who vote for or consent to a resolution of the directors authorizing the issue of a membership share or share contrary to subsection 74(1) or the issue of subordinated indebtedness contrary to section 87 for a consideration other than money are jointly and severally liable to the association to make good any amount by which the consideration received is less than the fair equivalent of the money that the association would have received if the membership share, share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of an association who vote for or consent to a resolution of the directors authorizing the issue of a membership share or a share contrary to subsection 74(1) or the issue of subordinated indebtedness contrary to section 87 for a consideration other than money are jointly and severally, or solidarily, liable to the association to make good any amount by which the consideration received is less than the fair equivalent of the money that the association would have received if the membership share or share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of an association who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of membership shares or shares contrary to section 79,
-	- **(b)** a reduction of capital contrary to section 82,
-	- **(c)** a payment of a dividend contrary to section 86,
-	- **(d)** a payment of an indemnity contrary to section 216, or
-	- **(e)** any transaction contrary to Part XII
-are jointly and severally liable to restore to the association any amounts so distributed or paid and not otherwise recovered by the association and any amounts in relation to any loss suffered by the association.
+- **(2)** Directors of an association who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the association any amounts so distributed or paid and not otherwise recovered by the association and any amounts in relation to any loss suffered by the association:
+	- **(a)** a redemption or purchase of membership shares or shares contrary to section 79;
+	- **(b)** a reduction of capital contrary to section 82;
+	- **(c)** a payment of a dividend contrary to section 86;
+	- **(d)** a payment of an indemnity contrary to section 216; or
+	- **(e)** any transaction contrary to Part XII.
+> 1991, c. 48, s. 211; 2005, c. 54, s. 179(E).
+
 
 
 
@@ -4131,11 +4163,11 @@ are jointly and severally liable to restore to the association any amounts so di
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **214** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of an association are jointly and severally liable to each employee of the association for all debts not exceeding six months wages payable to the employee for services performed for the association while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of an association are jointly and severally, or solidarily, liable to each employee of the association for all debts not exceeding six months wages payable to the employee for services performed for the association while they are directors.
 
 **Conditions precedent**
 
@@ -4159,49 +4191,61 @@ are jointly and severally liable to restore to the association any amounts so di
 **Contribution entitlement**
 
 - **(6)** A director of an association who has satisfied a claim under this section is entitled to a contribution from the other directors of the association who are liable for the claim.
-> 1991, c. 48, s. 214; 1996, c. 6, s. 167.
+> 1991, c. 48, s. 214; 1996, c. 6, s. 167; 2005, c. 54, s. 180(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**215** A director, an officer or an employee of an association is not liable under subsection 168(1) or (2) or section 211 or 214 or subsection 430(1) if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the association represented to the director, officer or employee by an officer of the association or in a written report of the auditor of the association fairly to reflect the financial condition of the association; or
-- **(b)** a report of an accountant, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 1991, c. 48, s. 215; 2001, c. 9, s. 279.
+**215** 
+
+- **(1)** A director, officer or employee of an association is not liable under section 211 or 214 or subsection 430(1) and has fulfilled their duty under subsection 168(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the association that were represented to them by an officer of the association or in a written report of the auditor of the association fairly to reflect the financial condition of the association; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of an association has fulfilled their duty under subsection 168(1) if they relied in good faith on
+	- **(a)** financial statements of the association that were represented to them by an officer of the association or in a written report of the auditor of the association fairly to reflect the financial condition of the association; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 48, s. 215; 2001, c. 9, s. 279; 2005, c. 54, s. 181.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **216** 
 
-- **(1)** Except in respect of an action by or on behalf of the association to procure a judgment in its favour, an association may indemnify
-	- **(a)** a director or an officer of the association,
-	- **(b)** a former director or officer of the association, or
-	- **(c)** any person who acts or acted at the association’s request as a director or an officer of an entity of which the association is or was a member, shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the association, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** An association may indemnify a director or officer of the association, a former director or officer of the association or another person who acts or acted, at the association’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the association or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** An association may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the association or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the association or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** An association may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** An association may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the association or the other entity for which they acted at the association’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** An association may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the association or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the association or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Notwithstanding anything in this section, a person referred to in subsection (1) is entitled to indemnity from the association in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the association or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the association in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of their association referred to in subsection (1) with the association or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** An association may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the association may indemnify pursuant to subsections (1) to (3).
-> 1991, c. 48, s. 216; 2001, c. 9, s. 280(F).
+- **(6)** An association may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the association may indemnify under those subsections.
+> 1991, c. 48, s. 216; 2001, c. 9, s. 280(F); 2005, c. 54, s. 181.
 
 
 
@@ -4211,7 +4255,9 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **217** An association may purchase and maintain insurance for the benefit of any person referred to in section 216 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the association, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the association; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the association’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the association’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 1991, c. 48, s. 217; 2005, c. 54, s. 182.
+
 
 
 
@@ -4280,12 +4326,12 @@ against all costs, charges and expenses, including an amount paid to settle an a
 	- **(h)** revoke, diminish or enlarge any authority conferred under paragraphs (f) and (g);
 	- **(i)** increase or decrease the number of directors or the minimum or maximum number of directors, subject to subsection 169(1);
 	- **(i.1)** change the name of the association; or
-	- **(j)** change the place in Canada where the head office of the association is to be situated.
+	- **(j)** change the province in which the head office of the association is situated.
 
 **Effective date of by-law**
 
 - **(2)** A by-law, or an amendment to or a repeal of a by-law, made under paragraph (1)(i.1) is not effective until it is approved by the Superintendent.
-> 1991, c. 48, s. 221; 2001, c. 9, s. 283.
+> 1991, c. 48, s. 221; 2001, c. 9, s. 283; 2005, c. 54, s. 183.
 
 
 
@@ -4370,7 +4416,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Contents of agreement**
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated association and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated association and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated association;
 	- **(c)** the manner in which the membership shares of each association are to be converted into membership shares in the amalgamated association;
 	- **(d)** the manner in which the shares of each applicant are to be converted into shares or other securities of the amalgamated association;
@@ -4384,6 +4430,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Cross ownership of shares**
 
 - **(3)** If membership shares or shares of one of the applicants are held by or on behalf of another of the applicants, other than membership shares or shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those membership shares or shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those membership shares or shares into membership shares or shares of the amalgamated association.
+> 1991, c. 48, s. 227; 2005, c. 54, s. 184.
+
 
 
 
@@ -4403,11 +4451,11 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation whether or not the share otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Special resolution**
 
@@ -4416,6 +4464,8 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant notwithstanding that the agreement has been approved by the members or shareholders of all or any of the applicant associations or subsidiaries.
+> 1991, c. 48, s. 229; 2005, c. 54, s. 185.
+
 
 
 
@@ -4667,15 +4717,17 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **234** 
 
-- **(1)** An association shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** An association shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of an association may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of an association may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** An association shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
+> 1991, c. 48, s. 234; 2005, c. 54, s. 186.
+
 
 
 
@@ -4824,15 +4876,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **242** 
 
-- **(1)** Subject to subsection (3), an association shall maintain and process in Canada any information or data relating to the preparation and maintenance of the records referred to in section 235 unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the association from the application of this section.
+- **(1)** Subject to subsection (3), an association shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 235 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the association from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (3) and (4), an association may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (3) and (4), the association may maintain copies of the records referred to in section 235 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Information for Superintendent**
 
@@ -4849,7 +4901,7 @@ the registers and records required or authorized by this Act to be prepared and 
 **Guidelines**
 
 - **(6)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 48, s. 242; 2001, c. 9, s. 291.
+> 1991, c. 48, s. 242; 2001, c. 9, s. 291; 2005, c. 54, s. 189.
 
 
 
@@ -5923,7 +5975,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(a)** the auditor shall transmit the report, in writing, to the chairperson of the board of directors, the chief executive officer and the chief financial officer of the association;
 	- **(b)** the report shall be presented to the first meeting of the directors following its receipt;
 	- **(c)** the report shall be incorporated in the minutes of that meeting; and
-	- **(d)** the auditor shall, at the time of transmitting the report pursuant to paragraph (a), provide the Superintendent with a copy of the report.
+	- **(d)** the auditor shall, at the time of transmitting the report under paragraph (a), provide the audit committee of the association and the Superintendent with a copy.
+> 1991, c. 48, s. 312; 2005, c. 54, s. 200.
+
 
 
 
@@ -6012,13 +6066,15 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Conditions precedent**
 
 - **(2)** No action may be brought and no intervention in an action may be made under subsection (1) by a complainant unless the court is satisfied that
-	- **(a)** the complainant has given reasonable notice to the directors of the association or the subsidiary of the complainant’s intention to apply to the court under that subsection if the directors of the association or its subsidiary do not bring, diligently prosecute or defend, or discontinue the action;
+	- **(a)** the complainant has, not less than 14 days before bringing the application or as otherwise ordered by the court, given notice to the directors of the association or the association’s subsidiary of the complainant’s intention to apply to the court under subsection (1) if the directors of the association or the association’s subsidiary do not bring, diligently prosecute or defend or discontinue the action;
 	- **(b)** the complainant is acting in good faith; and
 	- **(c)** it appears to be in the interests of the association or the subsidiary that the action be brought, prosecuted, defended or discontinued.
 
 **Notice to Superintendent**
 
 - **(3)** A complainant under subsection (1) shall give the Superintendent notice of the application and the Superintendent may appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 48, s. 318; 2005, c. 54, s. 201.
+
 
 
 
@@ -6062,6 +6118,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Interim costs**
 
 - **(2)** In an application made or an action brought or intervened in under subsection 318(1) or section 322, the court may at any time order the association or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable by the court for those interim costs on final disposition of the application or action.
+> 1991, c. 48, s. 321; 2005, c. 54, s. 202(F).
+
 
 
 
@@ -6264,6 +6322,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(ii)** an order continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** an order to the liquidator to restore to the association all of its remaining property; and
 - **(o)** after the liquidator has rendered the liquidator’s final account to the court, an order directing the association to apply to the Minister for letters patent dissolving the association.
+> 1991, c. 48, s. 333; 2005, c. 54, s. 203(F).
+
 
 
 
@@ -6330,11 +6390,13 @@ but when a report required under paragraph (b) has been made in respect of loans
 
 
 
-**Reliance on statements**
+**Due diligence**
 
-**338** A liquidator is not liable if the liquidator relies in good faith on
-- **(a)** financial statements of the association represented to the liquidator by an officer of the association, or on a written report of the auditor of the association, to reflect fairly the financial condition of the association; or
-- **(b)** an opinion, a report or a statement of a lawyer, a notary, an accountant, an appraiser or other professional adviser retained by the liquidator.
+**338** A liquidator is not liable if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+- **(a)** financial statements of the association represented to the liquidator by an officer of the association or in a written report of the auditor of the association fairly to reflect the financial condition of the association; or
+- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 48, s. 338; 2005, c. 54, s. 204.
+
 
 
 
@@ -9666,6 +9728,15 @@ together with such other information about the background, business record and e
 
 
 
+**Execution of documents**
+
+**452.6** Any by-law, notice, resolution, requisition, statement or other document required or permitted to be executed or signed by more than one person for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the persons. The documents if duly executed or signed by all persons required or permitted to sign them are deemed to constitute one document for the purposes of this Act.
+> 2005, c. 54, s. 205.
+
+
+
+
+
 **Notice to directors, members and shareholders**
 
 **453** A notice or document required by this Act or the regulations or by the incorporating instrument or by-laws of an association to be sent to a director, member or shareholder of an association may be sent by prepaid mail addressed to, or may be delivered personally to,
@@ -9691,7 +9762,9 @@ together with such other information about the background, business record and e
 
 **Undelivered notices**
 
-- **(2)** If an association sends a notice or document to a member or shareholder in accordance with section 453 and the notice or document is returned on three consecutive occasions because the member or shareholder cannot be found, the association is not required to send any further notices or documents to the member or shareholder until informed in writing of the member’s or shareholder’s new address.
+- **(2)** If an association sends a notice or document to a member or shareholder in accordance with section 453 and it is returned on two consecutive occasions because the member or shareholder cannot be found, the association is not required to send any further notices or documents to them until it is informed in writing of their new address.
+> 1991, c. 48, s. 455; 2005, c. 54, s. 206.
+
 
 
 
@@ -9730,6 +9803,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Entry in members register**
 
 - **(2)** An entry in the members register of an association is evidence that the person in whose name a membership share is registered is a member of that association and the owner of that membership share.
+> 1991, c. 48, s. 458; 2005, c. 54, s. 207(F).
+
 
 
 
@@ -9898,21 +9973,31 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **Power to make regulations**
 
-**463** The Governor in Council may make regulations
-- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
-- **(a.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed shall be determined;
-- **(b)** defining words and expressions to be defined for the purposes of this Act;
-- **(c)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount thereof or the manner of determining the amount thereof;
-- **(d)** respecting the regulatory capital and total assets of an association;
-- **(e)** respecting the retention, in Canada, of assets of an association;
-- **(f)** respecting the value of assets of an association to be held in Canada and the manner in which those assets are to be held;
-- **(g)** respecting the protection and maintenance of assets of an association and assets held under the administration of an association, including regulations respecting the bonding of directors, officers and employees of an association;
-- **(h)** respecting the holding of membership shares and shares for the purposes of section 78;
-- **(i)** respecting information, in addition to the information required by section 434, to be maintained in the register referred to in that section;
-- **(i.1)** respecting the determination of the equity of an association;
-- **(i.2)** respecting persons who are a related party to a retail association; and
-- **(j)** generally for carrying out the purposes and provisions of this Act.
-> 1991, c. 48, s. 463; 1997, c. 15, s. 160; 1999, c. 31, s. 58(F); 2001, c. 9, s. 339.
+**463** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
+	- **(a.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed shall be determined;
+	- **(b)** defining words and expressions to be defined for the purposes of this Act;
+	- **(c)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount thereof or the manner of determining the amount thereof;
+	- **(d)** respecting the regulatory capital and total assets of an association;
+	- **(e)** respecting the retention, in Canada, of assets of an association;
+	- **(f)** respecting the value of assets of an association to be held in Canada and the manner in which those assets are to be held;
+	- **(g)** respecting the protection and maintenance of assets of an association and assets held under the administration of an association, including regulations respecting the bonding of directors, officers and employees of an association;
+	- **(h)** respecting the holding of membership shares and shares for the purposes of section 78;
+	- **(i)** respecting information, in addition to the information required by section 434, to be maintained in the register referred to in that section;
+	- **(i.1)** respecting the determination of the equity of an association;
+	- **(i.2)** respecting persons who are a related party to a retail association; and
+	- **(j)** generally for carrying out the purposes and provisions of this Act.
+
+**Incorporation by reference**
+
+- **(2)** The regulations may incorporate any material by reference regardless of its source and either as it exists on a particular date or as amended from time to time.
+
+**Incorporated material is not a regulation**
+
+- **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
+> 1991, c. 48, s. 463; 1997, c. 15, s. 160; 1999, c. 31, s. 58(F); 2001, c. 9, s. 339; 2005, c. 54, s. 208.
 
 
 
@@ -9962,7 +10047,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 - **(1)** Every person who is guilty of an offence under any of subsections 465(1) to (4) is
 	- **(a)** in the case of a natural person, liable
 		- **(i)** on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding twelve months, or to both, or
-		- **(ii)** on conviction on indictment, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding five years, or to both; and
+		- **(ii)** on conviction on indictment, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding five years, or to both; and
 	- **(b)** in the case of an entity, liable
 		- **(i)** on summary conviction, to a fine not exceeding $500,000, or
 		- **(ii)** on conviction on indictment, to a fine not exceeding $5,000,000.
@@ -9973,8 +10058,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **Additional fine**
 
-- **(3)** Where a person has been convicted of an offence under this Act, the court may, where it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or to the spouse, common-law partner or other dependant of the convicted person, order the convicted person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of those monetary benefits.
-> 1991, c. 48, s. 466; 1997, c. 15, s. 161; 2000, c. 12, s. 85.
+- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or their spouse, common-law partner or other dependant, order the convicted person to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to three times the court’s estimation of the amount of those monetary benefits.
+> 1991, c. 48, s. 466; 1997, c. 15, s. 161; 2000, c. 12, s. 85; 2005, c. 54, s. 209.
 
 
 
@@ -10026,9 +10111,17 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
-**Appeals**
+**Appeal of final order**
 
-**470** Any decision or order of a court under this Act may be appealed to the court of appeal.
+**470** 
+
+- **(1)** An appeal lies to the court of appeal of a province from any final order made by a court of that province under this Act.
+
+**Appeal with leave**
+
+- **(2)** An appeal lies to the court of appeal of a province from any order, other than a final order made by a court of that province, only with leave of the court of appeal in accordance with the rules applicable to that court.
+> 1991, c. 48, s. 470; 2005, c. 54, s. 210.
+
 
 
 
