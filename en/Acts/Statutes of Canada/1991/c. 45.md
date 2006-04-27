@@ -161,6 +161,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Finance;
 
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+
 ***non-WTO Member foreign institution*** means a foreign institution that is not controlled by a WTO Member resident;
 
 ***officer*** means
@@ -231,7 +233,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E).
+> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368.
 
 
 
@@ -565,13 +567,20 @@ and that is not discontinued under this Act.
 
 **Authority of directors and officers**
 
-**19** A company or a guarantor of an obligation of a company may not assert against a person dealing with the company or with any person who has acquired rights from the company that
-- **(a)** the company’s incorporating instrument or any by-laws of the company have not been complied with,
-- **(b)** the persons named as directors of the company in the most recent return sent to the Superintendent under section 499 are not the directors of the company,
-- **(c)** the place named in the incorporating instrument or the by-laws of the company is not the head office of the company,
-- **(d)** a person held out by the company as a director, an officer or a representative of the company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the company or usual for such director, officer or representative, or
-- **(e)** a document issued by any director, officer or representative of the company with actual or usual authority to issue the document is not valid or not genuine,
-except where the person has or ought to have by virtue of the person’s position with or relationship to the company knowledge to that effect.
+**19** 
+
+- **(1)** No company and no guarantor of an obligation of a company may assert against a person dealing with the company or against a person who has acquired rights from the company that
+	- **(a)** the company’s incorporating instrument or any by-laws of the company have not been complied with;
+	- **(b)** the persons named as directors of the company in the most recent return sent to the Superintendent under section 499 are not the directors of the company;
+	- **(c)** the place named in the incorporating instrument or by-laws of the company is not the place where the head office of the company is situated;
+	- **(d)** a person held out by the company as a director, officer or representative of the company has not been duly appointed or has no authority to exercise the powers and perform the duties that are customary in the business of the company or usual for a director, officer or representative; or
+	- **(e)** a document issued by any director, officer or representative of the company with actual or usual authority to issue the document is not valid or not genuine.
+
+**Exception — knowledge**
+
+- **(2)** Subsection (1) does not apply in respect of a person who has or ought to have knowledge of a situation described in that subsection by virtue of their relationship to the company.
+> 1991, c. 45, s. 19; 2005, c. 54, s. 371.
+
 
 
 
@@ -687,7 +696,7 @@ except where the person has or ought to have by virtue of the person’s positio
 
 - **(1)** There shall be set out in the letters patent incorporating a company
 	- **(a)** the name of the company;
-	- **(b)** the place in Canada where the head office of the company is to be situated; and
+	- **(b)** the province in which the head office of the company is to be situated; and
 	- **(c)** the date that the company came, or is to come, into existence.
 
 **Provisions in letters patent**
@@ -697,6 +706,8 @@ except where the person has or ought to have by virtue of the person’s positio
 **Terms and conditions**
 
 - **(3)** The Minister may impose such terms and conditions in respect of the issuance of letters patent incorporating a company as the Minister considers necessary or appropriate.
+> 1991, c. 45, s. 27; 2005, c. 54, s. 372.
+
 
 
 
@@ -1365,11 +1376,13 @@ but before making any such further order the Superintendent shall provide the co
 
 
 
-**Shares in series**
+**Shares issued in series**
 
 **65** 
 
-- **(1)** The by-laws of a company made pursuant to section 64 may authorize the issue of any class of shares in one or more series and may authorize the directors of the company to fix the maximum number, if any, of shares in each series and to determine the designation, rights, privileges, restrictions and conditions attaching to the shares of each series, subject to the limitations set out in the by-laws.
+- **(1)** The by-laws of a company may, subject to any limitations set out in them, authorize the issue of any class of shares in one or more series and may
+	- **(a)** fix the maximum number of shares in each series and determine the designation, rights, privileges, restrictions and conditions attaching to them; and
+	- **(b)** authorize the directors to do anything referred to in paragraph (a).
 
 **Series participation**
 
@@ -1385,7 +1398,9 @@ but before making any such further order the Superintendent shall provide the co
 
 **Material to Superintendent**
 
-- **(5)** Before the issue of shares of a series of shares authorized under this section, the directors shall send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
+> 1991, c. 45, s. 65; 2005, c. 54, s. 373.
+
 
 
 
@@ -1445,11 +1460,13 @@ continue to apply in respect of that share.
 
 **Exception**
 
-- **(2.1)** Notwithstanding subsection (2), a company may record in the appropriate stated capital account part of the amount of any consideration it receives for shares it issues
+- **(2.1)** Despite subsection (2), a company may, subject to subsection (2.2), record in the stated capital account maintained for the shares of a class or series any part of the consideration it receives in an exchange if it issues shares
 	- **(a)** in exchange for
-		- **(i)** property of a person who immediately before the exchange did not deal with the company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-		- **(ii)** shares of a body corporate that immediately before the exchange, or because of the exchange, did not deal with the company at arm’s length within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** under an agreement referred to in subsection 229(1), to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated company.
+		- **(i)** property of a person who immediately before the exchange did not deal with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** shares of or another interest in a body corporate that immediately before the exchange or because of it did not deal with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+		- **(iii)** property of a person who immediately before the exchange dealt with the company at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if the person, the company and all of the holders of shares in the class or series of shares so issued consent to the exchange;
+	- **(b)** under an agreement referred to in subsection 229(1); or
+	- **(c)** to shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated company.
 
 **Limit on addition to a stated capital account**
 
@@ -1472,7 +1489,7 @@ continue to apply in respect of that share.
 **Share issued before coming into force**
 
 - **(5)** Any amount unpaid in respect of a share issued by a former-Act company before the coming into force of this Part and paid after the coming into force of this Part shall be recorded in the stated capital account maintained by the company for the shares of that class or series.
-> 1991, c. 45, s. 69; 1997, c. 15, s. 345.
+> 1991, c. 45, s. 69; 1997, c. 15, s. 345; 2005, c. 54, s. 374.
 
 
 
@@ -1582,6 +1599,8 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Saving**
 
 - **(3)** Nothing in subsection (2) precludes a former-Act company or any of its subsidiaries from holding any security interest held immediately prior to the coming into force of this Part.
+> 1991, c. 45, s. 75; 2005, c. 54, s. 375(F).
+
 
 
 
@@ -1960,7 +1979,7 @@ the restriction or lien is ineffective against a transferee of the security who 
 
 - **(2)** Notwithstanding subsection (1), a company may treat a person as a registered security holder entitled to exercise all of the rights of the security holder that the person represents, if that person provides the company with evidence as described in subsection 130(4) that the person is
 	- **(a)** the heir or personal representative of a deceased security holder or the personal representative of the heirs of the deceased security holder;
-	- **(b)** the personal representative of a registered security holder who is an infant, an incompetent person or a missing person; or
+	- **(b)** the personal representative of a registered security holder who is a minor, an incompetent person or a missing person; or
 	- **(c)** a liquidator of, or a trustee in bankruptcy for, a registered security holder.
 
 **Permissible registered holder**
@@ -1970,13 +1989,17 @@ the restriction or lien is ineffective against a transferee of the security who 
 **Immunity of company**
 
 - **(4)** A company is not required to inquire into the existence of, or see to the performance or observance of, any duty owed to a third person by a registered holder of any of its securities or by anyone whom it treats, as permitted or required by this Part, as the owner or registered holder thereof.
+> 1991, c. 45, s. 96; 2005, c. 54, s. 379.
 
 
 
 
-**Infant owner**
 
-**97** If an infant exercises any rights of ownership in the securities of a company, no subsequent repudiation or avoidance is effective against the company.
+**Minors**
+
+**97** If a minor exercises any rights of ownership in the securities of a company, no subsequent repudiation or avoidance is effective against the company.
+> 1991, c. 45, s. 97; 2005, c. 54, s. 380(E).
+
 
 
 
@@ -3417,8 +3440,8 @@ but does not include
 	- **(d)** if a shareholder has voted for more than one candidate without specifying the distribution of the votes among the candidates, the shareholder is deemed to have distributed the votes equally among the candidates for whom the shareholder voted;
 	- **(e)** if the number of candidates nominated for director exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;
 	- **(f)** each director ceases to hold office at the close of the next annual meeting of shareholders following the director’s election;
-	- **(g)** a director may not be removed from office if the votes cast against the removal would be sufficient to elect the director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected; and
-	- **(h)** the number of directors required by the by-laws may not be decreased if the votes cast against the motion to decrease would be sufficient to elect a director and those votes could be voted cumulatively at an election at which the same total number of votes were cast and the same number of directors required by the by-laws were then being elected.
+	- **(g)** a director may be removed from office only if the number of votes cast in favour of a motion to remove the director is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion; and
+	- **(h)** the number of directors required by the by-laws may be decreased only if the number of votes cast in favour of a motion to decrease the number of directors is greater than the product of the number of directors required by the by-laws and the number of votes cast against the motion.
 
 **Mandatory cumulative voting**
 
@@ -3443,7 +3466,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Exception**
 
 - **(5)** Nothing in this Act precludes the holders of any class or series of shares of a company from having an exclusive right to elect one or more directors.
-> 1991, c. 45, s. 172; 1997, c. 15, s. 352.
+> 1991, c. 45, s. 172; 1997, c. 15, s. 352; 2005, c. 54, s. 398.
 
 
 
@@ -3586,11 +3609,13 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **181** 
 
-- **(1)** Notwithstanding section 187 but subject to subsection (2) and sections 180 and 182, a quorum of directors may fill a vacancy among the directors except a vacancy among the directors resulting from a change in the by-laws by which the number or minimum number of directors is increased or from a failure to elect the number or minimum number of directors required by the by-laws.
+- **(1)** Despite section 187 but subject to subsection (2) and sections 180 and 182, a quorum of directors may fill a vacancy among the directors except a vacancy resulting from a change in the by-laws by which the number or the minimum or maximum number of directors is increased or from a failure to elect the number or minimum number of directors provided for in the by-laws.
 
 **Where composition fails**
 
 - **(2)** Notwithstanding sections 180 and 187, where by reason of a vacancy the number of directors or the composition of the board of directors fails to meet any of the requirements of section 163, subsection 167(1) and section 168, the directors who, in the absence of any by-law, would be empowered to fill that vacancy shall do so forthwith.
+> 1991, c. 45, s. 181; 2005, c. 54, s. 399.
+
 
 
 
@@ -3598,9 +3623,11 @@ is entitled to submit to the company a written statement giving the reasons for 
 **Class vacancy**
 
 **182** Notwithstanding section 187, where the holders of any class or series of shares of a company have an exclusive right to elect one or more directors and a vacancy occurs among those directors, then, subject to section 180,
-- **(a)** the remaining directors elected by the holders of that class or series may fill the vacancy except a vacancy resulting from an increase in the number or minimum number of directors for that class or series or from a failure to elect the number or minimum number of directors for that class or series;
+- **(a)** the remaining directors elected by the holders of that class or series of shares may fill the vacancy except one resulting from an increase in the number or the minimum or maximum number of directors for that class or series or from a failure to elect the number or minimum number of directors provided for in the by-laws for that class or series;
 - **(b)** if there are no such remaining directors and, by reason of the vacancy, the number of directors or the composition of the board of directors fails to meet any of the requirements of section 163, subsection 167(1) and section 168, the other directors may fill that vacancy; and
 - **(c)** if there are no such remaining directors and paragraph (b) does not apply, any holder of shares of that class or series may call a meeting of the holders thereof for the purpose of filling the vacancy.
+> 1991, c. 45, s. 182; 2005, c. 54, s. 400.
+
 
 
 
@@ -4165,21 +4192,22 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 
 
-**Directors’ liability**
+**Director liability**
 
 **212** 
 
-- **(1)** The directors of a company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 68(1) or the issue of subordinated indebtedness contrary to section 83 for a consideration other than money are jointly and severally liable to the company to make good any amount by which the consideration received is less than the fair equivalent of the money that the company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
+- **(1)** Directors of a company who vote for or consent to a resolution of the directors authorizing the issue of a share contrary to subsection 68(1) or the issue of subordinated indebtedness contrary to section 83 for a consideration other than money are jointly and severally, or solidarily, liable to the company to make good any amount by which the consideration received is less than the fair equivalent of the money that the company would have received if the share or subordinated indebtedness had been issued for money on the date of the resolution.
 
-**Further liabilities**
+**Further liability**
 
-- **(2)** The directors of a company who vote for or consent to a resolution of the directors authorizing
-	- **(a)** a redemption or purchase of shares contrary to section 74,
-	- **(b)** a reduction of capital contrary to section 78,
-	- **(c)** a payment of a dividend contrary to section 82,
-	- **(d)** a payment of an indemnity contrary to section 217, or
-	- **(e)** any transaction contrary to Part XI
-are jointly and severally liable to restore to the company any amounts so distributed or paid and not otherwise recovered by the company and any amounts in relation to any loss suffered by the company.
+- **(2)** Directors of a company who vote for or consent to a resolution of the directors authorizing any of the following are jointly and severally, or solidarily, liable to restore to the company any amounts so distributed or paid and not otherwise recovered by the company and any amounts in relation to any loss suffered by the company:
+	- **(a)** a redemption or purchase of shares contrary to section 74;
+	- **(b)** a reduction of capital contrary to section 78;
+	- **(c)** a payment of a dividend contrary to section 82;
+	- **(d)** a payment of an indemnity contrary to section 217; or
+	- **(e)** any transaction contrary to Part XI.
+> 1991, c. 45, s. 212; 2005, c. 54, s. 407(E).
+
 
 
 
@@ -4213,11 +4241,11 @@ are jointly and severally liable to restore to the company any amounts so distri
 
 
 
-**Liability for wages**
+**Directors liable for wages**
 
 **215** 
 
-- **(1)** Subject to subsections (2) and (3), the directors of a company are jointly and severally liable to each employee of the company for all debts not exceeding six months wages payable to the employee for services performed for the company while they are directors.
+- **(1)** Subject to subsections (2) and (3), the directors of a company are jointly and severally, or solidarily, liable to each employee of the company for all debts not exceeding six months wages payable to the employee for services performed for the company while they are directors.
 
 **Conditions precedent**
 
@@ -4241,49 +4269,61 @@ are jointly and severally liable to restore to the company any amounts so distri
 **Contribution entitlement**
 
 - **(6)** A director of a company who has satisfied a claim under this section is entitled to a contribution from the other directors of the company who are liable for the claim.
-> 1991, c. 45, s. 215; 1996, c. 6, s. 167.
+> 1991, c. 45, s. 215; 1996, c. 6, s. 167; 2005, c. 54, s. 408(E).
 
 
 
 
 
-**Reliance on statement**
+**Defence — due diligence**
 
-**216** A director, an officer or an employee of a company is not liable under subsection 162(1) or (2) or section 212 or 215 or subsection 494(1) if the director, officer or employee relies in good faith on
-- **(a)** financial statements of the company represented to the director, officer or employee by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
-- **(b)** a report of an accountant, lawyer, notary or other professional person whose profession lends credibility to a statement made by the professional person.
-> 1991, c. 45, s. 216; 2001, c. 9, s. 503.
+**216** 
+
+- **(1)** A director, officer or employee of a company is not liable under section 212 or 215 or subsection 494(1) and has fulfilled their duty under subsection 162(2) if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+	- **(a)** financial statements of the company that were represented to them by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+
+**Defence — good faith**
+
+- **(2)** A director or officer of a company has fulfilled their duty under subsection 162(1) if they relied in good faith on
+	- **(a)** financial statements of the company that were represented to them by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+	- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 45, s. 216; 2001, c. 9, s. 503; 2005, c. 54, s. 409.
 
 
 
 
 
-**Indemnification of directors and officers**
+**Indemnification**
 
 **217** 
 
-- **(1)** Except in respect of an action by or on behalf of the company to procure a judgment in its favour, a company may indemnify
-	- **(a)** a director or an officer of the company,
-	- **(b)** a former director or officer of the company, or
-	- **(c)** any person who acts or acted at the company’s request as a director or an officer of an entity of which the company is or was a shareholder or creditor
-against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment reasonably incurred by the person in respect of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a person referred to in any of paragraphs (a) to (c), if
-	- **(d)** the director, officer or person acted honestly and in good faith with a view to the best interests of the company, and
-	- **(e)** in the case of a criminal or administrative action or proceeding enforced by a monetary penalty, the director, officer or person had reasonable grounds for believing that the impugned conduct was lawful.
+- **(1)** A company may indemnify a director or officer of the company, a former director or officer of the company or another person who acts or acted, at the company’s request, as a director or officer of or in a similar capacity for another entity against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by them in respect of any civil, criminal, administrative, investigative or other proceeding in which they are involved because of that association with the company or other entity.
 
-**Indemnification in derivative action**
+**Advances**
 
-- **(2)** A company may, with the approval of a court, indemnify a person referred to in subsection (1), in respect of an action by or on behalf of the company or entity to procure a judgment in its favour to which the person is made a party by reason of being or having been a director or an officer of the company or entity, against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with that action if the person fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(2)** A company may advance amounts to the director, officer or other person for the costs, charges and expenses of a proceeding referred to in subsection (1). They shall repay the amounts if they do not fulfil the conditions set out in subsection (3).
+
+**No indemnification**
+
+- **(3)** A company may not indemnify a person under subsection (1) unless
+	- **(a)** the person acted honestly and in good faith with a view to the best interests of, as the case may be, the company or the other entity for which they acted at the company’s request as a director or officer or in a similar capacity; and
+	- **(b)** in the case of a criminal or administrative action or proceeding that is enforced by a monetary penalty, the person had reasonable grounds for believing that their conduct was lawful.
+
+**Indemnification — derivative actions**
+
+- **(4)** A company may with the approval of a court indemnify a person referred to in subsection (1) or advance amounts to them under subsection (2) — in respect of an action by or on behalf of the company or other entity to procure a judgment in its favour to which the person is made a party because of the association referred to in subsection (1) with the company or other entity — against all costs, charges and expenses reasonably incurred by them in connection with that action if they fulfil the conditions set out in subsection (3).
 
 **Right to indemnity**
 
-- **(3)** Notwithstanding anything in this section, a person referred to in subsection (1) is entitled to indemnity from the company in respect of all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, reasonably incurred by the person in connection with the defence of any civil, criminal or administrative action or proceeding to which the person is made a party by reason of being or having been a director or an officer of the company or an entity, if the person seeking indemnity
-	- **(a)** was substantially successful on the merits in the defence of the action or proceedings; and
-	- **(b)** fulfils the conditions set out in paragraphs (1)(d) and (e).
+- **(5)** Despite subsection (1), a person referred to in that subsection is entitled to be indemnified by the company in respect of all costs, charges and expenses reasonably incurred by them in connection with the defence of any civil, criminal, administrative, investigative or other proceeding to which the person is subject because of the association referred to in subsection (1) with the company or other entity described in that subsection if the person
+	- **(a)** was not judged by the court or other competent authority to have committed any fault or omitted to do anything that they ought to have done; and
+	- **(b)** fulfils the conditions set out in subsection (3).
 
-**Heirs**
+**Heirs and personal representatives**
 
-- **(4)** A company may, to the extent referred to in subsections (1) to (3) in respect of the person, indemnify the heirs or personal representatives of any person the company may indemnify pursuant to subsections (1) to (3).
-> 1991, c. 45, s. 217; 2001, c. 9, s. 504(F).
+- **(6)** A company may, to the extent referred to in subsections (1) to (5) in respect of the person, indemnify the heirs or personal representatives of any person whom the company may indemnify under those subsections.
+> 1991, c. 45, s. 217; 2001, c. 9, s. 504(F); 2005, c. 54, s. 409.
 
 
 
@@ -4293,7 +4333,9 @@ against all costs, charges and expenses, including an amount paid to settle an a
 
 **218** A company may purchase and maintain insurance for the benefit of any person referred to in section 217 against any liability incurred by the person
 - **(a)** in the capacity of a director or an officer of the company, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the company; or
-- **(b)** in the capacity of a director or an officer of another entity where the person acts or acted in that capacity at the company’s request, except where the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+- **(b)** in the capacity of a director or officer of another entity or while acting in a similar capacity for another entity, if they act or acted in that capacity at the company’s request, except if the liability relates to a failure to act honestly and in good faith with a view to the best interests of the entity.
+> 1991, c. 45, s. 218; 2005, c. 54, s. 410.
+
 
 
 
@@ -4362,7 +4404,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 	- **(h)** revoke, diminish or enlarge any authority conferred under paragraphs (f) and (g);
 	- **(i)** increase or decrease the number of directors or the minimum or maximum number of directors, subject to subsection 163(1) and section 172;
 	- **(i.1)** change the name of the company; or
-	- **(j)** change the place in Canada where the head office of the company is to be situated.
+	- **(j)** change the province in which the head office of the company is situated.
 
 **Shareholder approval**
 
@@ -4371,7 +4413,7 @@ against all costs, charges and expenses, including an amount paid to settle an a
 **Effective date of by-law**
 
 - **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders under subsection (2) and, in the case of by-laws referred to in paragraph (1)(i.1), approved by the Superintendent.
-> 1991, c. 45, s. 222; 2001, c. 9, s. 507.
+> 1991, c. 45, s. 222; 2001, c. 9, s. 507; 2005, c. 54, s. 411.
 
 
 
@@ -4465,7 +4507,7 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 **Contents of agreement**
 
 - **(2)** Every amalgamation agreement shall set out the terms and means of effecting the amalgamation and, in particular,
-	- **(a)** the name of the amalgamated company and the place in Canada where its head office is to be situated;
+	- **(a)** the name of the amalgamated company and the province in which its head office is to be situated;
 	- **(b)** the name and place of ordinary residence of each proposed director of the amalgamated company;
 	- **(c)** the manner in which the shares of each applicant are to be converted into shares or other securities of the amalgamated company;
 	- **(d)** if any shares of an applicant are not to be converted into shares or other securities of the amalgamated company, the amount of money or securities that the holders of those shares are to receive in addition to or in lieu of shares or other securities of the amalgamated company;
@@ -4477,6 +4519,8 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 **Cross ownership of shares**
 
 - **(3)** If shares of one of the applicants are held by or on behalf of another of the applicants, other than shares held in the capacity of a personal representative or by way of security, the amalgamation agreement must provide for the cancellation of those shares when the amalgamation becomes effective without any repayment of capital in respect thereof, and no provision shall be made in the agreement for the conversion of those shares into shares of the amalgamated company.
+> 1991, c. 45, s. 229; 2005, c. 54, s. 412.
+
 
 
 
@@ -4496,11 +4540,11 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 
 **Right to vote**
 
-- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation whether or not it otherwise carries the right to vote.
+- **(2)** Each share of an applicant carries the right to vote in respect of an amalgamation agreement whether or not it otherwise carries the right to vote.
 
-**Class vote**
+**Separate vote for class or series**
 
-- **(3)** The holders of shares of a class or series of shares of an applicant are entitled to vote separately as a class or series in respect of an amalgamation if the amalgamation agreement contains a provision that, if contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
+- **(3)** The holders of shares of a class or series of shares of each applicant are entitled to vote separately as a class or series in respect of an amalgamation agreement if the agreement contains a provision that, if it were contained in a proposed amendment to the by-laws or incorporating instrument of the applicant, would entitle those holders to vote separately as a class or series.
 
 **Special resolution**
 
@@ -4509,6 +4553,8 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant notwithstanding that the agreement has been approved by the shareholders of all or any of the applicant companies or bodies corporate.
+> 1991, c. 45, s. 231; 2005, c. 54, s. 413.
+
 
 
 
@@ -4762,15 +4808,17 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 
 **242** 
 
-- **(1)** A company shall at all times have a head office in the place within Canada specified in its incorporating instrument or by-laws.
+- **(1)** A company shall at all times have a head office in the province specified in its incorporating instrument or by-laws.
 
 **Change of head office**
 
-- **(2)** The directors of a company may change the address of the head office within the place specified in the incorporating instrument or by-laws.
+- **(2)** The directors of a company may change the address of the head office within the province specified in the incorporating instrument or by-laws.
 
 **Notice of change of address**
 
 - **(3)** A company shall send to the Superintendent, within fifteen days after any change of address of its head office, a notice of the change of address.
+> 1991, c. 45, s. 242; 2005, c. 54, s. 414.
+
 
 
 
@@ -4927,15 +4975,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information**
+**Location and processing of information or data**
 
 **250** 
 
-- **(1)** Subject to subsection (3), a company shall maintain and process in Canada any information or data relating to the preparation and maintenance of the records referred to in section 243 unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
+- **(1)** Subject to subsection (3), a company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 243 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
 
 **Copies**
 
-- **(2)** Subject to subsections (4) and (5), a company may maintain copies of the records referred to in subsection (1) outside Canada and may further process outside Canada any information or data relating to those copies.
+- **(2)** Subject to subsections (4) and (5), the company may maintain copies of the records referred to in section 243 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
 
 **Foreign records**
 
@@ -4956,7 +5004,7 @@ the registers and records required or authorized by this Act to be prepared and 
 **Guidelines**
 
 - **(7)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 45, s. 250; 2001, c. 9, s. 512.
+> 1991, c. 45, s. 250; 2001, c. 9, s. 512; 2005, c. 54, s. 417.
 
 
 
@@ -5895,17 +5943,19 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Approval by directors**
+**Annual statement — approval**
 
 **314** 
 
-- **(1)** The directors of a company shall approve the annual statement and the approval of the directors shall be evidenced by the signature of
+- **(1)** The directors of a company shall approve the annual statement and their approval shall be evidenced by the signature or a printed or otherwise mechanically reproduced facsimile of the signature of
 	- **(a)** the chief executive officer or, in the event of that officer’s absence or inability to act, any other officer of the company authorized by the directors to sign in the stead of the chief executive officer; and
 	- **(b)** one director, if the signature required by paragraph (a) is that of a director, or two directors if the signature required by that paragraph is that of an officer who is not a director.
 
 **Condition precedent to publication**
 
 - **(2)** A company shall not publish copies of an annual statement unless it is approved and signed in accordance with subsection (1).
+> 1991, c. 45, s. 314; 2005, c. 54, s. 435.
+
 
 
 
@@ -6261,7 +6311,9 @@ but when a report required under paragraph (b) has been made in respect of loans
 	- **(a)** the auditor shall transmit the report, in writing, to the chief executive officer and chief financial officer of the company;
 	- **(b)** the report shall be presented to the first meeting of the directors following its receipt;
 	- **(c)** the report shall be incorporated in the minutes of that meeting; and
-	- **(d)** the auditor shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the Superintendent with a copy of the report.
+	- **(d)** the auditor shall, at the time of transmitting the report to the chief executive officer and chief financial officer, provide the audit committee of the company and the Superintendent with a copy.
+> 1991, c. 45, s. 333; 2005, c. 54, s. 439.
+
 
 
 
@@ -6350,13 +6402,15 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Conditions precedent**
 
 - **(2)** No action may be brought and no intervention in an action may be made under subsection (1) by a complainant unless the court is satisfied that
-	- **(a)** the complainant has given reasonable notice to the directors of the company or the subsidiary of the complainant’s intention to apply to the court under that section if the directors of the company or its subsidiary do not bring, diligently prosecute or defend, or discontinue the action;
+	- **(a)** the complainant has, not less than 14 days before bringing the application or as otherwise ordered by the court, given notice to the directors of the company or the company’s subsidiary of the complainant’s intention to apply to the court under subsection (1) if the directors of the company or the company’s subsidiary do not bring, diligently prosecute or defend or discontinue the action;
 	- **(b)** the complainant is acting in good faith; and
 	- **(c)** it appears to be in the interests of the company or the subsidiary that the action be brought, prosecuted, defended or discontinued.
 
 **Notice to Superintendent**
 
 - **(3)** A complainant under subsection (1) shall give the Superintendent notice of the application and the Superintendent may appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 45, s. 339; 2005, c. 54, s. 440.
+
 
 
 
@@ -6400,6 +6454,8 @@ but when a report required under paragraph (b) has been made in respect of loans
 **Interim costs**
 
 - **(2)** In an application made or an action brought or intervened in under subsection 339(1) or section 343, the court may at any time order the company or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable by the court for those interim costs on final disposition of the application or action.
+> 1991, c. 45, s. 342; 2005, c. 54, s. 441(F).
+
 
 
 
@@ -6602,6 +6658,8 @@ make any order it thinks fit including, without limiting the generality of the f
 	- **(ii)** an order continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** an order to the liquidator to restore to the company all of its remaining property, and
 - **(q)** after the liquidator has rendered the liquidator’s final account to the court, an order directing the company to apply to the Minister for letters patent dissolving the company.
+> 1991, c. 45, s. 354; 2005, c. 54, s. 442(F).
+
 
 
 
@@ -6670,11 +6728,13 @@ make any order it thinks fit including, without limiting the generality of the f
 
 
 
-**Reliance on statements**
+**Due diligence**
 
-**359** A liquidator is not liable if the liquidator relies in good faith on
-- **(a)** financial statements of the company represented to the liquidator by an officer of the company, or on a written report of the auditor of the company, to reflect fairly the financial condition of the company; or
-- **(b)** an opinion, a report or a statement of a lawyer, a notary, an accountant, an appraiser or other professional adviser retained by the liquidator.
+**359** A liquidator is not liable if they exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on
+- **(a)** financial statements of the company represented to the liquidator by an officer of the company or in a written report of the auditor of the company fairly to reflect the financial condition of the company; or
+- **(b)** a report of a person whose profession lends credibility to a statement made by them.
+> 1991, c. 45, s. 359; 2005, c. 54, s. 443.
+
 
 
 
@@ -7108,58 +7168,43 @@ of shares of that class of shares of the company, or of control of an entity tha
 
 
 
-**Exemption by order of Minister**
+**Exemption by Minister**
 
 **382** 
 
-- **(1)** An entity that controls a company and that is
-	- **(a)** a widely held bank,
-	- **(b)** a bank that would be in compliance with section 379 if it were a company,
-	- **(b.1)** a widely held bank holding company,
-	- **(b.2)** a bank holding company that would be in compliance with section 379 if it were a company,
-	- **(c)** a company that is in compliance with section 379,
-	- **(d)** an insurance company, other than a mutual company, to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies that would be in compliance with section 379 if it were a company,
-	- **(d.1)** a mutual company or a fraternal benefit society to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies,
-	- **(d.2)** an insurance holding company that would be in compliance with section 379 if it were a company,
-	- **(e)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
-	- **(f)** a body corporate that is incorporated and regulated by or under an Act of the legislature of a province and that is a mutual insurance corporation or fraternal benefit society,
-	- **(g)** a cooperative credit society regulated by or under an Act of the legislature of a province,
-	- **(h)** a foreign institution, or
-	- **(i)** a body corporate incorporated or formed by or under an Act of Parliament or of the legislature of a province whose activities, and those of any entities that it controls, are, in the opinion of the Minister, when viewed as a whole, primarily financial,
-may apply to the Minister to exempt the company from the requirements of section 379.
-
-**Terms and conditions**
-
-- **(2)** In the case of an entity referred to in any of paragraphs (1)(a) to (h), the Minister may grant the exemption referred to in subsection (1) subject to such terms and conditions as the Minister considers appropriate.
-
-**Idem**
-
-- **(3)** In the case of a holding body corporate referred to in paragraph (1)(i), the Minister may grant the exemption referred to in subsection (1) only if the Minister is satisfied that the holding body corporate will, if the exemption is granted, submit to and comply with sections 172 and 379 as though the holding body corporate were a company and the Minister may grant the exemption subject to such terms and conditions as the Minister considers appropriate.
-
-**Effect of order**
-
-- **(4)** Subject to subsection (5) and to such terms and conditions as are set out in an exemption order granted under this section, a company in respect of which an exemption order is granted need not comply with section 379.
-
-**Expiration of exemption order**
-
-- **(5)** The Minister may, by order, direct that an exemption order granted under this section in respect of a company shall expire if
-	- **(a)** the entity that applied for the exemption order ceases to control the company;
-	- **(b)** in the opinion of the Minister, the activities of the holding body corporate referred to in paragraph (1)(i) that applied for the exemption order, whether carried on directly or through entities that it controls, are no longer primarily financial;
-	- **(c)** the holding body corporate referred to in paragraph (1)(i) that applied for the exemption order ceases to comply with section 172 or 379; or
-	- **(d)** there is a breach of any term or condition set out in the exemption order.
+- **(1)** On application by a company and subject to any terms that the Minister considers appropriate, the Minister may by order exempt the company from the requirements of section 379 if the Minister considers it appropriate to do so.
 
 **Compliance with s. 379**
 
-- **(6)** Where an exemption order granted under this section expires, the company in respect of which the exemption order was granted shall comply with section 379 as of the day the exemption order expires.
+- **(2)** The company shall comply with section 379 as of the day on which the exemption order expires.
 
 **Limit on assets**
 
-- **(7)** Where a company fails to comply with section 379 on the day referred to in subsection (6), the company shall not, until it complies with section 379, have average total assets in any three month period ending on the last day of a subsequent month exceeding the company’s average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (6) or such later day as the Minister may, by order, specify.
+- **(3)** If a company fails to comply with section 379 on the day referred to in subsection (2), it shall not, until it complies with that section, have average total assets in any three month period ending on the last day of a subsequent month exceeding its average total assets in the three month period ending on the last day of the month immediately preceding the day referred to in subsection (2) or on any later day that the Minister may specify by order.
 
 **Application of ss. 380(2) and (3)**
 
-- **(8)** Subsections 380(2) and (3) apply for the purposes of subsection (7).
-> 1991, c. 45, s. 382, c. 47, s. 753; 2001, c. 9, s. 523.
+- **(4)** Subsections 380(2) and (3) apply for the purposes of subsection (3).
+> 1991, c. 45, s. 382, c. 47, s. 753; 2001, c. 9, s. 523; 2005, c. 54, s. 444.
+
+
+
+
+
+**Continuation of exemption**
+
+**382.1** 
+
+- **(1)** Despite subsection 382(2), if an exemption order that was granted in respect of a company under subsection 382(3) as it read before the day on which this section comes into force provides that it expires if the holding body corporate ceases to comply with section 379, the company is not required to comply with that section until six months after the day on which the holding body corporate ceased to comply with that section if the failure to comply is as a result of
+	- **(a)** a distribution to the public of voting shares of the holding body corporate;
+	- **(b)** a redemption or purchase of voting shares of the holding body corporate;
+	- **(c)** the exercise of any option to acquire voting shares of the holding body corporate; or
+	- **(d)** the conversion of any convertible securities into voting shares of the holding body corporate.
+
+**Shares acquiring voting rights**
+
+- **(2)** Despite subsection 382(2), if as a result of an event that has occurred and is continuing shares of a holding body corporate referred to in subsection (1) acquire voting rights in such number as to cause the holding body corporate to no longer be in compliance with section 379, the company is not required to comply with that section until six months after the day on which the holding body corporate ceased to comply with that section or any later day that the Minister may by order specify.
+> 2005, c. 54, s. 444.
 
 
 
@@ -7180,18 +7225,9 @@ section 380 shall not apply in respect of that company until the expiration of s
 
 - **(2)** Where, as the result of an event that has occurred and is continuing, shares of a company acquire voting rights in such number as to cause the company to no longer be in compliance with section 379, section 380 shall not apply in respect of that company until the expiration of six months after the day the company ceased to be in compliance with section 379 or such later day as the Minister may, by order, specify.
 
-**Exception**
+- **(3) and (4)** [Repealed, 2005, c. 54, s. 445]
+> 1991, c. 45, s. 383; 2005, c. 54, s. 445.
 
-- **(3)** Where a holding body corporate referred to in subsection 382(3) fails to comply with section 379 as the result of
-	- **(a)** a distribution to the public of voting shares of the holding body corporate,
-	- **(b)** a redemption or purchase of voting shares of the holding body corporate,
-	- **(c)** the exercise of any option to acquire voting shares of the holding body corporate, or
-	- **(d)** the conversion of any convertible securities into voting shares of the holding body corporate,
-paragraph 382(5)(c) shall not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate failed to comply with section 379.
-
-**Shares acquiring voting rights**
-
-- **(4)** Where, as the result of an event that has occurred and is continuing, shares of a holding body corporate referred to in subsection 382(3) acquire voting rights in such number as to cause the holding body corporate to no longer be in compliance with section 379, paragraph 382(5)(c) shall not apply in respect of that holding body corporate until the expiration of six months after the day the holding body corporate ceased to be in compliance with section 379 or such later day as the Minister may, by order, specify.
 
 
 
@@ -10392,6 +10428,15 @@ together with such other information about the background, business record and e
 
 
 
+**Execution of documents**
+
+**520.6** Any by-law, notice, resolution, requisition, statement or other document required or permitted to be executed or signed by more than one person for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the persons. The documents if duly executed or signed by all persons required or permitted to sign them are deemed to constitute one document for the purposes of this Act.
+> 2005, c. 54, s. 446.
+
+
+
+
+
 **Notice to directors and shareholders**
 
 **521** A notice or document required by this Act or the regulations or by the incorporating instrument or by-laws of a company to be sent to a shareholder or director of a company may be sent by prepaid mail addressed to, or may be delivered personally to,
@@ -10416,7 +10461,9 @@ together with such other information about the background, business record and e
 
 **Undelivered notices**
 
-- **(2)** If a company sends a notice or document to a shareholder in accordance with section 521 and the notice or document is returned on three consecutive occasions because the shareholder cannot be found, the company is not required to send any further notices or documents to the shareholder until informed in writing of the shareholder’s new address.
+- **(2)** If a company sends a notice or document to a shareholder in accordance with section 521 and it is returned on two consecutive occasions because the shareholder cannot be found, the company is not required to send any further notices or documents to the shareholder until it is informed in writing of their new address.
+> 1991, c. 45, s. 523; 2005, c. 54, s. 447.
+
 
 
 
@@ -10448,6 +10495,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Entry in securities register**
 
 **526** An entry in the securities register of, or on a security certificate issued by, a company is evidence that the person in whose name the security is registered is the owner of the securities described in the register or in the certificate.
+> 1991, c. 45, s. 526; 2005, c. 54, s. 448(F).
+
 
 
 
@@ -10616,20 +10665,30 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **Power to make regulations**
 
-**531** The Governor in Council may make regulations
-- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
-- **(a.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed shall be determined;
-- **(b)** defining words and expressions to be defined for the purposes of this Act;
-- **(c)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount thereof or the manner of determining the amount thereof;
-- **(d)** respecting the regulatory capital and total assets of a company;
-- **(e)** respecting the retention, in Canada, of assets of a company;
-- **(f)** respecting the value of assets of a company to be held in Canada and the manner in which those assets are to be held;
-- **(f.1)** respecting, for any purpose of any provision of the Act, the determination of the equity of a company;
-- **(g)** respecting the protection and maintenance of assets of a company and assets held in trust by a company, including regulations respecting the bonding of directors, officers and employees of a company;
-- **(h)** respecting the holding of shares and ownership interests for the purposes of sections 73 and 77;
-- **(i)** respecting information, in addition to the information required by section 501, to be maintained in the register referred to in that section; and
-- **(j)** generally for carrying out the purposes and provisions of this Act.
-> 1991, c. 45, s. 531; 1997, c. 15, s. 408; 1999, c. 31, s. 220(F); 2001, c. 9, s. 569.
+**531** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
+	- **(a.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed shall be determined;
+	- **(b)** defining words and expressions to be defined for the purposes of this Act;
+	- **(c)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount thereof or the manner of determining the amount thereof;
+	- **(d)** respecting the regulatory capital and total assets of a company;
+	- **(e)** respecting the retention, in Canada, of assets of a company;
+	- **(f)** respecting the value of assets of a company to be held in Canada and the manner in which those assets are to be held;
+	- **(f.1)** respecting, for any purpose of any provision of the Act, the determination of the equity of a company;
+	- **(g)** respecting the protection and maintenance of assets of a company and assets held in trust by a company, including regulations respecting the bonding of directors, officers and employees of a company;
+	- **(h)** respecting the holding of shares and ownership interests for the purposes of sections 73 and 77;
+	- **(i)** respecting information, in addition to the information required by section 501, to be maintained in the register referred to in that section; and
+	- **(j)** generally for carrying out the purposes and provisions of this Act.
+
+**Incorporation by reference**
+
+- **(2)** The regulations may incorporate any material by reference regardless of its source and either as it exists on a particular date or as amended from time to time.
+
+**Incorporated material is not a regulation**
+
+- **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
+> 1991, c. 45, s. 531; 1997, c. 15, s. 408; 1999, c. 31, s. 220(F); 2001, c. 9, s. 569; 2005, c. 54, s. 449.
 
 
 
@@ -10679,7 +10738,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 - **(1)** Every person who is guilty of an offence under any of subsections 533(1) to (4) is
 	- **(a)** in the case of a natural person, liable
 		- **(i)** on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding twelve months, or to both, or
-		- **(ii)** on conviction on indictment, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding five years, or to both; and
+		- **(ii)** on conviction on indictment, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding five years, or to both; and
 	- **(b)** in the case of an entity, liable
 		- **(i)** on summary conviction, to a fine not exceeding $500,000, or
 		- **(ii)** on conviction on indictment, to a fine not exceeding $5,000,000.
@@ -10690,8 +10749,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **Additional fine**
 
-- **(3)** Where a person has been convicted of an offence under this Act, the court may, where it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or to the spouse, common-law partner or other dependant of the convicted person, order the convicted person to pay, notwithstanding the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of those monetary benefits.
-> 1991, c. 45, s. 534; 1997, c. 15, s. 409; 2000, c. 12, s. 301.
+- **(3)** If a person has been convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted person acquired any monetary benefits or that monetary benefits accrued to the convicted person or their spouse, common-law partner or other dependant, order the convicted person to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to three times the court’s estimation of the amount of those monetary benefits.
+> 1991, c. 45, s. 534; 1997, c. 15, s. 409; 2000, c. 12, s. 301; 2005, c. 54, s. 450.
 
 
 
@@ -10743,9 +10802,17 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
-**Appeals**
+**Appeal of final order**
 
-**538** Any decision or order of a court under this Act may be appealed to the court of appeal.
+**538** 
+
+- **(1)** An appeal lies to the court of appeal of a province from any final order made by a court of that province under this Act.
+
+**Appeal with leave**
+
+- **(2)** An appeal lies to the court of appeal of a province from any order, other than a final order made by a court of that province, only with leave of the court of appeal in accordance with the rules applicable to that court.
+> 1991, c. 45, s. 538; 2005, c. 54, s. 451.
+
 
 
 
