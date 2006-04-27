@@ -136,6 +136,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi antérieure*** La Loi sur les associations coopératives de crédit, chapitre C-41 des Lois révisées du Canada (1985).
 
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+
 ***ministre*** Le ministre des Finances.
 
 ***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
@@ -214,7 +216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A).
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140.
 
 
 
@@ -510,14 +512,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Irrecevabilité de certaines prétentions**
+**Prétentions interdites**
 
-**21** L’association non plus que ses cautions ne peut opposer aux personnes qui font affaire avec elle ou ses ayants droit — sauf si ces personnes, en raison de leur poste chez elle ou de leurs relations avec elle, connaissaient ou auraient dû connaître la situation réelle — les prétentions suivantes :
-- **a)** il y a eu manquement à son acte constitutif ou à ses règlements administratifs;
-- **b)** les personnes qui figurent comme administrateurs de l’association dans le dernier relevé envoyé au surintendant aux termes de l’article 432 ne sont pas ses administrateurs;
-- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
-- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement soit du poste, soit de son activité commerciale;
-- **e)** un document émanant régulièrement d’un tel administrateur, dirigeant ou mandataire n’est ni valable ni authentique.
+**21** 
+
+- **(1)** L’association, ou ses cautions, ne peuvent opposer aux personnes qui ont traité avec elle ou à ses ayants droit ou ayants cause les prétentions suivantes :
+	- **a)** son acte constitutif ou ses règlements administratifs n’ont pas été observés;
+	- **b)** les personnes qui figurent comme administrateurs de l’association dans le dernier relevé envoyé au surintendant aux termes de l’article 432 ne sont pas ses administrateurs;
+	- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
+	- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement du poste ou de son activité commerciale;
+	- **e)** un document émanant régulièrement de l’un de ses administrateurs, dirigeants ou mandataires n’est pas valable ou authentique.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui connaissent ou devraient connaître une situation visée à ce paragraphe en raison de leur relation avec l’association.
+> 1991, ch. 48, art. 21; 2005, ch. 54, art. 143.
+
 
 
 
@@ -628,9 +638,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** Les lettres patentes d’une association doivent mentionner les éléments d’information suivants :
+- **(1)** Les lettres patentes d’une association doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
-	- **b)** le lieu du siège au Canada;
+	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution.
 
 **Dispositions particulières**
@@ -640,6 +650,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(3)** Le ministre peut assujettir la délivrance des lettres patentes de l’association aux conditions qu’il estime indiquées.
+> 1991, ch. 48, art. 28; 2005, ch. 54, art. 144.
+
 
 
 
@@ -1177,13 +1189,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Est assimilé à un agrément le certificat, ou toute autre autorisation de fonctionnement, délivré à l’association antérieure et qui est encore valide à la date d’entrée en vigueur de la présente partie.
 
+**Associations prorogées**
+
+- **(3)** Le surintendant délivre un agrément à toute personne morale prorogée comme association sous le régime de la présente loi, sauf dans le cas de celle qui est prorogée uniquement en vue d’une fusion immédiate avec une ou plusieurs autres.
+
 **Association issue d’une fusion**
 
-- **(3)** De même, il délivre un agrément à l’association issue de la fusion et de la prorogation de personnes morales sous le régime de la présente loi.
+- **(4)** De même, il délivre un agrément à l’association issue de la fusion et de la prorogation de personnes morales sous le régime de la présente loi.
 
-**Non-application du paragraphe 57(2) et de l’article 60**
+**Non-application du par. 57(2) et de l’art. 60**
 
-- **(4)** Il est entendu que le paragraphe 57(2) et l’article 60 ne s’appliquent pas aux associations visées au paragraphe (3).
+- **(5)** Le paragraphe 57(2) et l’article 60 ne s’appliquent pas aux associations visées aux paragraphes (3) et (4).
+> 1991, ch. 48, art. 56; 2005, ch. 54, art. 145.
+
 
 
 
@@ -1408,11 +1426,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Séries d’actions**
+**Émission d’actions en série**
 
 **71** 
 
-- **(1)** Les règlements administratifs visés à l’article 70 peuvent permettre l’émission d’une catégorie d’actions en une ou plusieurs séries et autoriser les administrateurs à préciser, s’il y a lieu, le nombre maximal et la désignation des actions de chaque série, ainsi qu’à déterminer les droits, privilèges, conditions et restrictions qui leur sont attachés.
+- **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
+	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
+	- **b)** permettre aux administrateurs de le faire.
 
 **Participation des séries**
 
@@ -1428,7 +1448,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Documents à envoyer au surintendant**
 
-- **(5)** Avant de procéder à l’émission d’actions autorisées aux termes du présent article, les administrateurs font parvenir au surintendant un exemplaire de tout règlement administratif afférent et lui communiquent tous détails sur les séries qui seront émises.
+- **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les actions qui seront émises.
+> 1991, ch. 48, art. 71; 2005, ch. 54, art. 146.
+
 
 
 
@@ -1476,13 +1498,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’association verse au compte capital déclaré correspondant le montant total de l’apport reçu en contrepartie des parts sociales et des actions qu’elle émet.
 
-**Exception visant les opérations en cas d’existence d’un lien de dépendance**
+**Exception**
 
-- **(2.1)** Malgré le paragraphe (2), l’association peut, sous réserve du paragraphe (2.2), porter au compte capital déclaré correspondant une partie seulement du montant de l’apport reçu en contrepartie des actions dans les cas suivants :
-	- **a)** elle émet les actions en échange :
-		- **(i)** de biens d’une personne avec qui, au moment de l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), ou de biens de personnes visées par règlement,
-		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts dans celle-ci, si l’association avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien, ou d’actions d’une entité visée par règlement ou de droits ou d’intérêts dans celle-ci;
-	- **b)** elle émet les actions aux termes d’une convention visée au paragraphe 227(1) en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place de valeurs mobilières de l’association issue de la fusion.
+- **(2.1)** Malgré le paragraphe (2), l’association peut, sous réserve du paragraphe (2.2), verser au compte capital déclaré afférent à la catégorie ou à la série d’actions concernée une partie du montant de l’apport reçu en contrepartie d’actions émises :
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), ou de biens de personnes visées par règlement,
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque l’association avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien ou d’actions d’une entité visée par règlement ou de droits ou d’intérêts sur celle-ci,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, l’association et tous les détenteurs des actions de la catégorie ou de la série d’actions ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 227(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de l’association issue de la fusion.
 
 **Limite**
 
@@ -1492,9 +1516,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2.3)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, l’association ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de l’association appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 84(4).
 
-**Capital déclaré : association antérieure**
+**Capital déclaré : association antérieure**
 
-- **(3)** À l’entrée en vigueur de la présente partie, l’association antérieure porte au compte capital déclaré pour les parts sociales alors en circulation un montant égal à la somme des éléments suivants :
+- **(3)** À l’entrée en vigueur de la présente partie, l’association antérieure porte au compte capital déclaré pour les parts sociales alors en circulation un montant égal à la somme des éléments suivants :
 	- **a)** le montant total versé à ce moment-là pour les parts sociales;
 	- **b)** la part du surplus d’apport correspondant à ces parts.
 
@@ -1505,7 +1529,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Émission antérieure**
 
 - **(5)** Les sommes qui sont payées seulement après l’entrée en vigueur de la présente partie à l’égard de parts sociales émises auparavant par l’association antérieure sont portées au crédit du compte capital déclaré correspondant.
-> 1991, ch. 48, art. 75; 1997, ch. 15, art. 118; 2001, ch. 9, art. 271.
+> 1991, ch. 48, art. 75; 1997, ch. 15, art. 118; 2001, ch. 9, art. 271; 2005, ch. 54, art. 147.
 
 
 
@@ -1576,11 +1600,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Représentant personnel**
+**Exception — représentant personnel**
 
 **80** 
 
-- **(1)** L’association et ses filiales — si elle le leur permet — peuvent, en qualité de représentant personnel, mais à condition que ce ne soit pas à titre de véritable propriétaire, détenir des parts sociales ou des actions de l’association.
+- **(1)** L’association — ainsi que ses filiales si elle le leur permet — peut, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, détenir des parts sociales ou des actions de l’association.
 
 **Sûreté**
 
@@ -1589,6 +1613,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Le paragraphe (2) n’a pas pour effet d’empêcher l’association antérieure ou l’une de ses filiales de continuer à détenir une sûreté qu’elle détenait à l’entrée en vigueur de la présente partie.
+> 1991, ch. 48, art. 80; 2005, ch. 54, art. 148(F).
+
 
 
 
@@ -1962,6 +1988,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Immunité de l’association**
 
 - **(4)** L’association n’est pas tenue de vérifier si des obligations envers des tiers incombent au détenteur inscrit de l’une de ses valeurs mobilières ou à la personne considérée en vertu de la présente partie comme tel ou comme propriétaire, ni de veiller à leur exécution.
+> 1991, ch. 48, art. 100; 2005, ch. 54, art. 152.
+
 
 
 
@@ -1969,6 +1997,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Mineurs**
 
 **101** En cas d’exercice par un mineur de droits attachés à la propriété des valeurs mobilières de l’association, aucun désaveu ultérieur n’a d’effet contre celle-ci.
+> 1991, ch. 48, art. 101; 2005, ch. 54, art. 153(A).
+
 
 
 
@@ -3475,10 +3505,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Administrateurs nommés ou élus pour une catégorie**
 
-- **(3)** Par dérogation à l’article 188, les règlements administratifs peuvent prévoir que les vacances survenues parmi les administrateurs, qu’une catégorie déterminée de personnes ont le droit exclusif de nommer ou d’élire, peuvent être comblées :
-	- **a)** soit par les administrateurs en fonctions nommés ou élus par les personnes de cette catégorie, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs ou d’une augmentation de ce nombre;
+- **(3)** Par dérogation à l’article 188, les règlements administratifs peuvent prévoir que les vacances survenues parmi les administrateurs, qu’une catégorie déterminée de personnes ont le droit exclusif de nommer ou d’élire, peuvent être comblées :
+	- **a)** soit par les administrateurs en fonction nommés ou élus par les personnes de cette catégorie, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 	- **b)** soit, si aucun de ces administrateurs n’est en fonctions et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme aux articles 169 ou 171, par les autres administrateurs en fonctions;
 	- **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les personnes de cette catégorie peuvent convoquer pour combler les vacances.
+> 1991, ch. 48, art. 183; 2005, ch. 54, art. 172.
+
 
 
 
@@ -3969,12 +4001,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Responsabilités supplémentaires**
 
-- **(2)** Sont solidairement tenus de restituer à l’association les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
+- **(2)** Sont solidairement tenus de restituer à l’association les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
 	- **a)** l’achat ou le rachat de parts sociales ou d’actions en violation de l’article 79;
 	- **b)** la réduction du capital en violation de l’article 82;
 	- **c)** le versement d’un dividende en violation de l’article 86;
 	- **d)** le versement d’une indemnité en violation de l’article 216;
 	- **e)** une opération contraire à la partie XII.
+> 1991, ch. 48, art. 211; 2005, ch. 54, art. 179(A).
+
 
 
 
@@ -4016,9 +4050,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Conditions préalables**
 
-- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
+- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre l’association dans les six mois de l’échéance;
-	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de l’association ou celle de sa dissolution;
+	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de l’association ou celle de sa dissolution;
 	- **c)** l’existence de la créance est reconnue ou établie dans les six mois d’une ordonnance de liquidation frappant l’association conformément à la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
 
 **Limite**
@@ -4036,18 +4070,26 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 1991, ch. 48, art. 214; 1996, ch. 6, art. 167.
+> 1991, ch. 48, art. 214; 1996, ch. 6, art. 167; 2005, ch. 54, art. 180(A).
 
 
 
 
 
-**Foi à des déclarations**
+**Défense de diligence raisonnable**
 
-**215** N’est pas engagée, aux termes des paragraphes 168(1) ou (2), des articles 211 ou 214 ou du paragraphe 430(1), la responsabilité de l’administrateur, du dirigeant ou de l’employé qui s’appuie de bonne foi sur :
-- **a)** des états financiers de l’association reflétant fidèlement sa situation, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les avocats, notaires ou comptables.
-> 1991, ch. 48, art. 215; 2001, ch. 9, art. 279.
+**215** 
+
+- **(1)** L’administrateur, le dirigeant ou l’employé n’engage pas sa responsabilité au titre des articles 211 ou 214 ou du paragraphe 430(1) et il s’est acquitté des devoirs imposés au paragraphe 168(2), s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur :
+	- **a)** les états financiers de l’association qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+
+**Défense de bonne foi**
+
+- **(2)** L’administrateur ou le dirigeant s’est acquitté des devoirs imposés au paragraphe 168(1), s’il s’appuie de bonne foi sur :
+	- **a)** les états financiers de l’association qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 48, art. 215; 2001, ch. 9, art. 279; 2005, ch. 54, art. 181.
 
 
 
@@ -4057,24 +4099,32 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **216** 
 
-- **(1)** L’association peut indemniser ses administrateurs ou ses dirigeants — ou leurs prédécesseurs — , ainsi que les personnes qui, à sa demande, agissent ou ont agi en cette qualité pour une entité dont elle est ou a été associée, actionnaire ou créancière, de tous leurs frais, y compris les montants versés en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles ils étaient parties en cette qualité, sauf à l’occasion d’actions intentées par l’association ou pour son compte en vue d’obtenir un jugement favorable, si :
-	- **a)** d’une part, ils ont agi avec intégrité et de bonne foi, au mieux des intérêts de l’association;
-	- **b)** d’autre part, dans le cas de procédures pénales ou administratives aboutissant au paiement d’une amende, ils avaient de bonnes raisons de croire que leur conduite était conforme à la loi.
+- **(1)** L’association peut indemniser ses administrateurs, ses dirigeants ou leurs prédécesseurs ainsi que les autres personnes qui, à sa demande, agissent ou ont agi à titre d’administrateur ou de dirigeant, ou en une qualité similaire, pour une autre entité, de tous leurs frais et dépenses raisonnables — y compris les sommes versées pour le règlement à l’amiable d’un procès ou l’exécution d’un jugement — entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles ils étaient impliqués à ce titre.
+
+**Frais anticipés**
+
+- **(2)** L’association peut avancer des fonds pour permettre à toute personne visée au paragraphe (1) d’assumer les frais de sa participation à une procédure visée à ce paragraphe et les dépenses connexes, à charge de remboursement si les conditions énoncées au paragraphe (3) ne sont pas remplies.
+
+**Limites**
+
+- **(3)** L’association ne peut indemniser une personne en vertu du paragraphe (1) que si celle-ci :
+	- **a)** d’une part, a agi avec intégrité et bonne foi au mieux des intérêts de l’association ou, selon le cas, de l’entité au sein de laquelle elle occupait les fonctions d’administrateur ou de dirigeant ou pour laquelle elle agissait en une qualité similaire à la demande de l’association;
+	- **b)** d’autre part, avait, dans le cas de poursuites pénales ou administratives aboutissant au paiement d’une amende, de bonnes raisons de croire que sa conduite était conforme à la loi.
 
 **Indemnisation lors d’actions indirectes**
 
-- **(2)** Si elles remplissent les conditions énoncées au paragraphe (1), l’association peut, avec l’agrément du tribunal, indemniser les personnes qui y sont visées de tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, résultant du fait qu’elles ont été parties, en raison de leurs fonctions, à des actions intentées par l’association, ou par l’entité ou pour leur compte, en vue d’obtenir un jugement favorable.
+- **(4)** Avec l’approbation du tribunal, l’association peut, à l’égard des actions intentées par elle ou par l’entité ou pour leur compte en vue d’obtenir un jugement favorable, avancer à toute personne visée au paragraphe (1) les fonds visés au paragraphe (2) ou l’indemniser des frais et dépenses raisonnables entraînés par son implication dans ces actions en raison de ses fonctions auprès de la société ou l’entité, si elle remplit les conditions énoncées au paragraphe (3).
 
-**Droit à l’indemnisation**
+**Droit à indemnisation**
 
-- **(3)** Par dérogation aux autres dispositions du présent article, les personnes visées au paragraphe (1) sont indemnisables par l’association pour tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles elles étaient parties en raison de leurs fonctions, dans la mesure où :
-	- **a)** d’une part, elles ont obtenu gain de cause sur la plupart de leurs moyens de défense au fond;
-	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (1).
+- **(5)** Malgré le paragraphe (1), les personnes visées à ce paragraphe ont le droit d’être indemnisées par l’association de leurs frais et dépenses raisonnables entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles elles sont impliquées en raison de leurs fonctions auprès de la société ou l’entité, si :
+	- **a)** d’une part, le tribunal ou toute autre autorité compétente n’a conclu à aucune faute de leur part, par acte ou omission;
+	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (3).
 
-**Héritiers**
+**Héritiers et représentants personnels**
 
-- **(4)** L’association peut, dans la mesure prévue aux paragraphes (1) à (3), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
-> 1991, ch. 48, art. 216; 2001, ch. 9, art. 280(F).
+- **(6)** L’association peut, dans la mesure prévue aux paragraphes (1) à (5), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
+> 1991, ch. 48, art. 216; 2001, ch. 9, art. 280(F); 2005, ch. 54, art. 181.
 
 
 
@@ -4082,9 +4132,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Assurance des administrateurs et dirigeants**
 
-**217** L’association peut souscrire au profit des personnes visées à l’article 216 une assurance couvrant la responsabilité qu’elles encourent :
+**217** L’association peut souscrire au profit des personnes visées à l’article 216 une assurance couvrant la responsabilité qu’elles encourent :
 - **a)** soit pour avoir agi en qualité d’administrateur ou de dirigeant, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux de ses intérêts;
-- **b)** soit pour avoir, à sa demande, agi en qualité d’administrateur ou de dirigeant d’une autre entité, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de celle-ci.
+- **b)** soit pour avoir, à sa demande, agi à titre d’administrateur ou de dirigeant — ou en une qualité similaire — pour une autre entité, à l’exception de la responsabilité découlant de l’omission d’agir avec intégrité et bonne foi au mieux des intérêts de celle-ci.
+> 1991, ch. 48, art. 217; 2005, ch. 54, art. 182.
+
 
 
 
@@ -4153,12 +4205,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **h)** de révoquer, de limiter ou d’étendre les autorisations conférées en vertu des alinéas f) et g);
 	- **i)** d’augmenter ou de diminuer le nombre fixe, minimal ou maximal d’administrateurs, sous réserve du paragraphe 169(1);
 	- **i.1)** de changer la dénomination sociale de l’association;
-	- **j)** de changer le lieu, au Canada, du siège de l’association.
+	- **j)** de changer la province où se trouve le siège de l’association.
 
 **Date d’entrée en vigueur**
 
 - **(2)** L’entrée en vigueur des règlements administratifs pris au titre de l’alinéa (1)i.1), ou de leurs modifications ou révocations, est subordonnée à l’agrément du surintendant.
-> 1991, ch. 48, art. 221; 2001, ch. 9, art. 283.
+> 1991, ch. 48, art. 221; 2001, ch. 9, art. 283; 2005, ch. 54, art. 183.
 
 
 
@@ -4242,8 +4294,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Contenu de la convention**
 
-- **(2)** La convention énonce les modalités de la fusion et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de l’association issue de la fusion;
+- **(2)** La convention énonce les modalités de la fusion et notamment :
+	- **a)** la dénomination sociale et la province envisagée pour le siège de l’association issue de la fusion;
 	- **b)** les nom et lieu de résidence habituelle des futurs administrateurs de l’association issue de la fusion;
 	- **c)** les modalités d’échange des parts sociales de chaque association requérante contre des parts sociales de l’association issue de la fusion;
 	- **d)** les modalités d’échange des actions de chaque requérant contre les actions ou autres valeurs mobilières de l’association issue de la fusion;
@@ -4257,6 +4309,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation des actions sans remboursement**
 
 - **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des parts sociales et des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces parts ou actions contre celles de l’association issue de la fusion. Sont exclues de l’application du présent article les parts et actions détenues à titre de représentant personnel ou de sûreté.
+> 1991, ch. 48, art. 227; 2005, ch. 54, art. 184.
+
 
 
 
@@ -4276,7 +4330,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Droit de vote**
 
-- **(2)** Chaque action, assortie ou non du droit de vote, des requérants emporte droit de vote quant à la fusion.
+- **(2)** Chaque action des associations ou des personnes morales requérantes, assortie ou non du droit de vote, comporte par ailleurs un droit de vote quant à la convention de fusion.
 
 **Vote par catégorie**
 
@@ -4289,6 +4343,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation**
 
 - **(5)** Le conseil d’administration de l’une des associations ou personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les associés ou les actionnaires de toutes les associations ou personnes morales requérantes ou de certaines d’entre elles.
+> 1991, ch. 48, art. 229; 2005, ch. 54, art. 185.
+
 
 
 
@@ -4540,15 +4596,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **234** 
 
-- **(1)** L’association maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** L’association maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
 **Changement d’adresse**
 
-- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites du lieu indiqué dans l’acte constitutif ou les règlements administratifs.
+- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites de la province indiquée dans l’acte constitutif ou les règlements administratifs.
 
 **Avis de changement**
 
 - **(3)** L’association envoie dans les quinze jours un avis du changement d’adresse au surintendant.
+> 1991, ch. 48, art. 234; 2005, ch. 54, art. 186.
+
 
 
 
@@ -4698,11 +4756,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **242** 
 
-- **(1)** Sous réserve du paragraphe (3), l’association doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation de ses livres, sauf si le surintendant a, aux conditions et selon les modalités qu’il estime indiquées, exempté l’association de l’application du présent article.
+- **(1)** Sous réserve du paragraphe (3), l’association doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 235 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté l’association de l’application du présent article.
 
 **Copies**
 
-- **(2)** Sous réserve des paragraphes (3) et (4), l’association peut en conserver des exemplaires à l’étranger et y traiter les renseignements et les données afférents.
+- **(2)** Sous réserve des paragraphes (3) et (4), l’association peut conserver à l’étranger des exemplaires des livres visés à l’article 235 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
 
 **Renseignements à fournir au surintendant**
 
@@ -4719,7 +4777,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Directives**
 
 - **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 48, art. 242; 2001, ch. 9, art. 291.
+> 1991, ch. 48, art. 242; 2001, ch. 9, art. 291; 2005, ch. 54, art. 189.
 
 
 
@@ -5761,14 +5819,16 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **312** 
 
-- **(1)** Le vérificateur de l’association établit, à l’intention du président du conseil d’administration, du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à son attention et qui sont dommageables pour la bonne santé de l’association et, selon lui, nécessitent redressement, notamment :
+- **(1)** Le vérificateur de l’association établit, à l’intention du président du conseil d’administration, du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à son attention et qui sont dommageables pour la bonne santé de l’association et, selon lui, nécessitent redressement, notamment :
 	- **a)** les opérations portées à son attention et qui, à son avis, outrepassent les pouvoirs de l’association;
 	- **b)** les prêts avancés par l’association à une personne pour un total dépassant un demi de un pour cent du capital réglementaire de l’association, s’il estime que ces prêts risquent de causer une perte à l’association.
 Toutefois, si un rapport a déjà été établi à l’égard des prêts avancés à une personne, il n’est pas nécessaire d’en faire un autre à l’égard des prêts avancés à cette même personne, à moins que, de l’avis du vérificateur, le montant de la perte ne soit susceptible de s’accroître.
 
 **Distribution du rapport**
 
-- **(2)** Le vérificateur leur transmet son rapport et en fournit simultanément un exemplaire au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et doit faire partie du procès-verbal de cette réunion.
+- **(2)** Le vérificateur leur transmet son rapport et en fournit simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et il fait partie du procès-verbal de cette réunion.
+> 1991, ch. 48, art. 312; 2005, ch. 54, art. 200.
+
 
 
 
@@ -5854,14 +5914,16 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Conditions préalables**
 
-- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
-	- **a)** que le plaignant a donné avis, dans un délai acceptable, aux administrateurs de l’association ou de sa filiale au cas où ceux-ci n’ont pas intenté l’action, n’y ont pas mis fin ou n’ont pas agi avec diligence au cours des procédures;
+- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
+	- **a)** que le plaignant a donné avis de son intention de présenter la demande, au moins quatorze jours avant la présentation ou dans le délai que le tribunal estime indiqué, aux administrateurs de l’association ou de sa filiale au cas où ils n’ont pas intenté l’action, n’ont pas agi avec diligence dans le cadre de celle-ci ou n’y ont pas mis fin;
 	- **b)** que le plaignant agit de bonne foi;
 	- **c)** qu’il semble être de l’intérêt de l’association ou de sa filiale d’intenter l’action, de la poursuivre, d’y présenter une défense ou d’y mettre fin.
 
 **Avis au surintendant**
 
 - **(3)** Le plaignant donne avis de sa demande au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de celle-ci.
+> 1991, ch. 48, art. 318; 2005, ch. 54, art. 201.
+
 
 
 
@@ -5896,15 +5958,17 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Absence de caution**
+**Absence de cautionnement**
 
 **321** 
 
-- **(1)** Les plaignants ne sont pas tenus de fournir caution pour les frais de recours.
+- **(1)** Les plaignants ne sont pas tenus de fournir de cautionnement pour les frais.
 
 **Frais provisoires**
 
 - **(2)** En donnant suite au recours, le tribunal peut ordonner à l’association ou à sa filiale de verser au plaignant des frais et dépens provisoires, y compris les frais de justice et les débours, dont ils pourront être comptables devant le tribunal lors de l’adjudication définitive.
+> 1991, ch. 48, art. 321; 2005, ch. 54, art. 202(F).
+
 
 
 
@@ -6082,16 +6146,16 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Pouvoirs du tribunal**
 
-**333** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de l’association d’acquitter ses obligations ou de constituer une provision pour les honorer, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
+**333** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de l’association d’acquitter ses obligations ou de constituer une provision pour les honorer, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
 - **a)** ordonner la liquidation;
-- **b)** nommer un liquidateur, avec ou sans caution, fixer sa rémunération et le remplacer;
+- **b)** nommer un liquidateur en exigeant ou non un cautionnement, fixer sa rémunération et le remplacer;
 - **c)** nommer des inspecteurs ou des arbitres, préciser leurs pouvoirs, fixer leur rémunération et les remplacer;
 - **d)** fixer l’avis à donner aux intéressés ou accorder une dispense d’avis;
 - **e)** juger de la validité des réclamations faites contre l’association;
-- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
+- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
 	- **(i)** soit d’exercer tout ou partie de leurs pouvoirs,
 	- **(ii)** soit de recouvrer ou de recevoir toute créance ou autre bien de l’association ou de payer ou céder tout bien de celle-ci, sauf de la manière autorisée par le tribunal;
-- **g)** préciser et engager la responsabilité des administrateurs, dirigeants, associés ou actionnaires ou de leurs prédécesseurs :
+- **g)** préciser et engager la responsabilité des administrateurs, dirigeants, associés ou actionnaires ou de leurs prédécesseurs :
 	- **(i)** soit envers l’association,
 	- **(ii)** soit envers les tiers pour les obligations de l’association;
 - **h)** approuver, en ce qui concerne les dettes de l’association, tout paiement, règlement, transaction ou rétention d’éléments d’actif, et juger si les provisions constituées suffisent à acquitter ou à céder les obligations de l’association, qu’elles soient ou non liquidées, futures ou éventuelles;
@@ -6100,11 +6164,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 - **k)** sur avis à tous les intéressés, décharger le liquidateur de ses manquements, selon les modalités que le tribunal estime indiquées, et confirmer ses actes;
 - **l)** sous réserve des articles 340 à 342, approuver tout projet de répartition provisoire ou définitive entre les associés, en numéraire ou en biens;
 - **m)** fixer la destination des biens appartenant aux associés, actionnaires ou créanciers introuvables;
-- **n)** sur demande de tout administrateur, dirigeant, associé, actionnaire, créancier ou liquidateur :
+- **n)** sur demande de tout administrateur, dirigeant, associé, actionnaire, créancier ou liquidateur :
 	- **(i)** surseoir à la liquidation, selon les modalités que le tribunal estime convenir,
 	- **(ii)** poursuivre ou interrompre la procédure de liquidation,
 	- **(iii)** enjoindre au liquidateur de restituer à l’association le reliquat des biens de celle-ci;
 - **o)** après la reddition de compte définitive du liquidateur devant le tribunal, obliger l’association à demander au ministre de lui délivrer des lettres patentes de dissolution.
+> 1991, ch. 48, art. 333; 2005, ch. 54, art. 203(F).
+
 
 
 
@@ -6171,11 +6237,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Foi accordée aux déclarations**
+**Défense de diligence raisonnable**
 
-**338** N’est pas engagée la responsabilité du liquidateur qui s’appuie de bonne foi sur :
-- **a)** soit les états financiers de l’association reflétant fidèlement sa situation financière, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** soit l’avis, le rapport ou la déclaration d’un conseiller professionnel, notamment, un avocat, un notaire, un comptable ou un expert-estimateur, dont il a retenu les services.
+**338** N’est pas engagée la responsabilité du liquidateur qui a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur les documents suivants :
+- **a)** les états financiers de l’association qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 48, art. 338; 2005, ch. 54, art. 204.
+
 
 
 
@@ -9368,6 +9436,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+**Présomption relative à la signature des documents**
+
+**452.6** Les règlements administratifs, avis, résolutions, demandes, déclarations et autres documents qui doivent ou peuvent être signés par plusieurs personnes pour l’application de la présente loi peuvent être rédigés en plusieurs exemplaires de même forme, dont chacun est signé par une ou plusieurs de ces personnes. Ces exemplaires dûment signés sont réputés constituer un seul document pour l’application de la présente loi.
+> 2005, ch. 54, art. 205.
+
+
+
+
+
 **Avis à donner**
 
 **453** Les avis ou documents dont la présente loi, ses règlements d’application, l’acte constitutif ou les règlements administratifs de l’association exigent l’envoi aux administrateurs, aux associés ou aux actionnaires peuvent être adressés sous pli pré-affranchi ou remis en personne :
@@ -9393,7 +9470,9 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Retours**
 
-- **(2)** En cas de retour, pour trois fois consécutives, des avis ou documents expédiés, l’association n’est plus tenue de les envoyer à l’associé ou à l’actionnaire introuvable tant que celui-ci ne lui fait pas savoir par écrit sa nouvelle adresse.
+- **(2)** L’association n’est pas tenue d’envoyer les avis ou documents qui lui sont retournés deux fois de suite parce que l’associé ou l’actionnaire est introuvable, sauf si elle est informée par écrit de sa nouvelle adresse.
+> 1991, ch. 48, art. 455; 2005, ch. 54, art. 206.
+
 
 
 
@@ -9422,15 +9501,17 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Inscriptions au registre des valeurs mobilières**
+**Mentions au registre des valeurs mobilières**
 
 **458** 
 
-- **(1)** Les inscriptions au registre des valeurs mobilières et sur les certificats de valeurs mobilières délivrés par l’association établissent que les personnes au nom desquelles les valeurs mobilières sont enregistrées sont propriétaires des valeurs inscrites dans le registre ou sur les certificats.
+- **(1)** Les mentions au registre des valeurs mobilières et sur les certificats de valeurs mobilières émis par l’association établissent que les personnes au nom desquelles les valeurs mobilières sont inscrites sont propriétaires des valeurs mentionnées dans le registre ou sur les certificats.
 
 **Registre des associés**
 
 - **(2)** Les inscriptions au registre des associés établissent que les personnes au nom desquelles les parts sociales sont enregistrées sont des associés et en sont les propriétaires.
+> 1991, ch. 48, art. 458; 2005, ch. 54, art. 207(F).
+
 
 
 
@@ -9599,21 +9680,31 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Règlements**
 
-**463** Le gouverneur en conseil peut, par règlement :
-- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
-- **a.1)** préciser la façon de déterminer ce qui peut ou doit l’objet d’une mesure réglementaire;
-- **b)** définir certains termes pour l’application de la présente loi;
-- **c)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
-- **d)** régir le capital réglementaire et l’actif total de l’association;
-- **e)** régir la rétention, au Canada, de l’actif de l’association;
-- **f)** prévoir la valeur de l’actif qui doit être détenu au Canada et les modalités de la détention;
-- **g)** régir la protection et le maintien de l’actif de l’association, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
-- **h)** régir la détention de parts sociales et d’actions pour l’application de l’article 78;
-- **i)** prévoir l’information, en plus des documents visés à l’article 434, à conserver dans le registre mentionné à cet article;
-- **i.1)** régir la détermination des capitaux propres d’une association;
-- **i.2)** préciser les personnes qui sont apparentées à l’association de détail et les régir;
-- **j)** prendre toute autre mesure d’application de la présente loi.
-> 1991, ch. 48, art. 463; 1997, ch. 15, art. 160; 1999, ch. 31, art. 58(F); 2001, ch. 9, art. 339.
+**463** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+	- **a.1)** préciser la façon de déterminer ce qui peut ou doit l’objet d’une mesure réglementaire;
+	- **b)** définir certains termes pour l’application de la présente loi;
+	- **c)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
+	- **d)** régir le capital réglementaire et l’actif total de l’association;
+	- **e)** régir la rétention, au Canada, de l’actif de l’association;
+	- **f)** prévoir la valeur de l’actif qui doit être détenu au Canada et les modalités de la détention;
+	- **g)** régir la protection et le maintien de l’actif de l’association, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
+	- **h)** régir la détention de parts sociales et d’actions pour l’application de l’article 78;
+	- **i)** prévoir l’information, en plus des documents visés à l’article 434, à conserver dans le registre mentionné à cet article;
+	- **i.1)** régir la détermination des capitaux propres d’une association;
+	- **i.2)** préciser les personnes qui sont apparentées à l’association de détail et les régir;
+	- **j)** prendre toute autre mesure d’application de la présente loi.
+
+**Incorporation par renvoi**
+
+- **(2)** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Nature du document incorporé**
+
+- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la  [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 1991, ch. 48, art. 463; 1997, ch. 15, art. 160; 1999, ch. 31, art. 58(F); 2001, ch. 9, art. 339; 2005, ch. 54, art. 208.
 
 
 
@@ -9660,13 +9751,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **466** 
 
-- **(1)** Quiconque commet une infraction prévue à l’article 465 est passible :
-	- **a)** s’il s’agit d’une personne physique :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
-		- **(ii)** par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
-	- **b)** s’il s’agit d’une entité :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
-		- **(ii)** par mise en accusation, d’une amende maximale de 5 000 000 $.
+- **(1)** Quiconque commet une infraction prévue à l’article 465 est passible :
+	- **a)** s’il s’agit d’une personne physique :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
+		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** s’il s’agit d’une entité :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
+		- **(ii)** par mise en accusation, d’une amende maximale de 5 000 000 $.
 
 **Ordonnance visant au respect de la loi**
 
@@ -9674,8 +9765,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Amende supplémentaire**
 
-- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le montant de ces avantages.
-> 1991, ch. 48, art. 466; 1997, ch. 15, art. 161; 2000, ch. 12, art. 85.
+- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le triple du montant de l’avantage tiré.
+> 1991, ch. 48, art. 466; 1997, ch. 15, art. 161; 2000, ch. 12, art. 85; 2005, ch. 54, art. 209.
 
 
 
@@ -9729,7 +9820,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Appel**
 
-**470** Toute décision judiciaire rendue aux termes de la présente loi est susceptible d’appel devant la cour d’appel.
+**470** 
+
+- **(1)** Toute ordonnance définitive d’un tribunal rendue en vertu de la présente loi est susceptible d’appel devant la cour d’appel de la province.
+
+**Permission d’en appeler**
+
+- **(2)** Toute autre ordonnance d’un tribunal n’est susceptible d’appel que sur permission de la cour d’appel de la province conformément aux règles applicables à celle-ci.
+> 1991, ch. 48, art. 470; 2005, ch. 54, art. 210.
+
 
 
 
