@@ -138,6 +138,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
 
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+
 ***ministre*** Le ministre des Finances.
 
 ***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
@@ -283,7 +285,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Participation multiple**
 
 - **(4)** Pour l’application de la présente loi, est à participation multiple la personne morale qui n’a aucun actionnaire important.
-> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A).
+> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214.
 
 
 
@@ -613,14 +615,22 @@ French version only***souscripteur*** Titulaire d’une police.
 
 
 
-**Irrecevabilité de certaines prétentions**
+**Prétentions interdites**
 
-**20** La société non plus que ses cautions ne peut opposer aux personnes qui font affaire avec elle ou ses ayants droit — sauf si ces personnes, en raison de leur poste chez elle ou de leurs relations avec elle, connaissaient ou auraient dû connaître la situation réelle — les prétentions suivantes :
-- **a)** il y a eu manquement à son acte constitutif ou à ses règlements administratifs;
-- **b)** les personnes qui figurent comme administrateurs de la société dans le dernier état envoyé au surintendant aux termes des articles 549 ou 668 ne sont pas ses administrateurs;
-- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
-- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement soit du poste, soit de son activité;
-- **e)** un document émanant régulièrement d’un tel administrateur, dirigeant ou mandataire n’est ni valable ni authentique.
+**20** 
+
+- **(1)** La société, ou ses cautions, ne peuvent opposer aux personnes qui ont traité avec elle ou à ses ayants droit ou ayants cause les prétentions suivantes :
+	- **a)** son acte constitutif ou ses règlements administratifs n’ont pas été observés;
+	- **b)** les personnes qui figurent comme administrateurs de la société dans le dernier relevé envoyé au surintendant aux termes des articles 549 ou 668 ne sont pas ses administrateurs;
+	- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
+	- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement du poste ou de son activité commerciale;
+	- **e)** un document émanant régulièrement de l’un de ses administrateurs, dirigeants ou mandataires n’est pas valable ou authentique.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui connaissent ou devraient connaître une situation visée à ce paragraphe en raison de leur relation avec la société.
+> 1991, ch. 47, art. 20; 2005, ch. 54, art. 218.
+
 
 
 
@@ -748,15 +758,15 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **28** 
 
-- **(1)** Les lettres patentes d’une société doivent mentionner les éléments d’information suivants :
+- **(1)** Les lettres patentes d’une société doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
-	- **b)** le lieu du siège au Canada;
+	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution;
 	- **d)** l’indication que la société est une société mutuelle, le cas échéant.
 
 **Société de secours**
 
-- **(2)** Outre les éléments d’information exigés en vertu du paragraphe (1), les lettres patentes constituant une société de secours doivent mentionner :
+- **(2)** Outre les éléments d’information exigés en vertu du paragraphe (1), les lettres patentes constituant une société de secours doivent mentionner :
 	- **a)** les critères d’adhésion des membres;
 	- **b)** la provenance du capital;
 	- **c)** la destination des biens de la société en cas de dissolution.
@@ -768,6 +778,8 @@ French version only***souscripteur*** Titulaire d’une police.
 **Conditions**
 
 - **(4)** Le ministre peut assujettir la délivrance des lettres patentes de la société aux conditions qu’il estime indiquées.
+> 1991, ch. 47, art. 28; 2005, ch. 54, art. 219.
+
 
 
 
@@ -1534,11 +1546,13 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 
 
-**Séries d’actions**
+**Émission d’actions en série**
 
 **66** 
 
-- **(1)** Les règlements administratifs visés à l’article 65 peuvent permettre l’émission d’une catégorie d’actions en une ou plusieurs séries et autoriser les administrateurs à fixer le nombre maximal, s’il y a lieu, et la désignation des actions de chaque série, ainsi qu’à déterminer les droits, privilèges, conditions et restrictions qui leur sont attachés.
+- **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
+	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
+	- **b)** permettre aux administrateurs de le faire.
 
 **Participation des séries**
 
@@ -1554,7 +1568,9 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **Documents à envoyer au surintendant**
 
-- **(5)** Avant de procéder à l’émission d’actions autorisées aux termes du présent article, les administrateurs font parvenir au surintendant un exemplaire du règlement administratif afférent et lui communiquent tous détails sur les séries qui seront émises.
+- **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
+> 1991, ch. 47, art. 66; 2005, ch. 54, art. 220.
+
 
 
 
@@ -1602,11 +1618,13 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **Exception**
 
-- **(2.1)** La société peut porter au compte capital déclaré correspondant une partie seulement du montant de l’apport reçu en contrepartie des actions dans les cas suivants :
-	- **a)** elle émet les actions en échange :
-		- **(i)** de biens d’une personne avec qui, avant l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** d’actions d’une personne morale avec laquelle la société, avant l’échange ou à cause de l’échange, avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** elle émet les actions aux termes d’une convention visée au paragraphe 246(1) en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place de valeurs mobilières de la société issue de la fusion.
+- **(2.1)** Malgré le paragraphe (2), la société peut, sous réserve du paragraphe (2.2), verser au compte capital déclaré afférent à la catégorie ou à la série d’actions concernée une partie du montant de l’apport reçu en contrepartie d’actions émises :
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque la société avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, la société et tous les détenteurs des actions de la catégorie ou de la série d’actions ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 246(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de la société issue de la fusion.
 
 **Limite**
 
@@ -1616,9 +1634,9 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(2.3)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, la société ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de la société appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 81(4).
 
-**Capital déclaré : société antérieure**
+**Capital déclaré : société antérieure**
 
-- **(3)** À l’entrée en vigueur de la présente partie, la société antérieure porte au compte capital déclaré pour chacune des catégories et séries d’actions alors en circulation un montant égal à la somme des éléments suivants :
+- **(3)** À l’entrée en vigueur de la présente partie, la société antérieure porte au compte capital déclaré pour chacune des catégories et séries d’actions alors en circulation un montant égal à la somme des éléments suivants :
 	- **a)** le montant total versé à ce moment-là pour les actions de chaque catégorie ou série;
 	- **b)** la part du surplus d’apport correspondant à ces actions.
 
@@ -1629,7 +1647,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 **Émission antérieure d’actions**
 
 - **(5)** Les sommes qui sont payées seulement après l’entrée en vigueur de la présente partie à l’égard d’actions émises auparavant par une société antérieure sont portées au crédit du compte capital déclaré correspondant.
-> 1991, ch. 47, art. 70; 1997, ch. 15, art. 182.
+> 1991, ch. 47, art. 70; 1997, ch. 15, art. 182; 2005, ch. 54, art. 221.
 
 
 
@@ -1721,11 +1739,11 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 
 
-**Représentant personnel**
+**Exception — représentant personnel**
 
 **76** 
 
-- **(1)** La société et ses filiales — si elle le leur permet — peuvent, en qualité de représentant personnel, mais à condition que ce ne soit pas à titre de véritable propriétaire, détenir soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
+- **(1)** La société — ainsi que ses filiales si elle le leur permet — peut, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, détenir soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
 
 **Sûreté**
 
@@ -1734,6 +1752,8 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 **Précision**
 
 - **(3)** Le paragraphe (2) n’a pas pour effet d’empêcher une société antérieure ou l’une de ses filiales de continuer à détenir une sûreté qu’elle détenait à l’entrée en vigueur de la présente partie.
+> 1991, ch. 47, art. 76; 2005, ch. 54, art. 222(F).
+
 
 
 
@@ -2278,7 +2298,7 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **Présomption**
 
-- **(2)** Malgré le paragraphe (1), la société peut considérer une personne comme habilitée à exercer les droits du détenteur inscrit d’une valeur mobilière qu’elle représente, dans la mesure où celle-ci peut lui fournir, conformément au paragraphe 131(4), la preuve qu’elle est :
+- **(2)** Malgré le paragraphe (1), la société peut considérer une personne comme habilitée à exercer les droits du détenteur inscrit d’une valeur mobilière qu’elle représente, dans la mesure où celle-ci peut lui fournir, conformément au paragraphe 131(4), la preuve qu’elle est :
 	- **a)** l’héritier ou le représentant personnel d’un détenteur de valeurs mobilières décédé ou le représentant personnel des héritiers de ce dernier;
 	- **b)** le représentant personnel d’un détenteur inscrit de valeurs mobilières mineur, incapable ou absent;
 	- **c)** le liquidateur ou le syndic de faillite agissant pour un détenteur inscrit de valeurs mobilières.
@@ -2290,6 +2310,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Immunité de la société**
 
 - **(4)** La société n’est pas tenue de vérifier si des obligations envers des tiers incombent au détenteur inscrit de l’une de ses valeurs mobilières ou à la personne considérée en vertu de la présente partie comme tel ou comme propriétaire, ni de veiller à leur exécution.
+> 1991, ch. 47, art. 97; 2005, ch. 54, art. 226(A).
+
 
 
 
@@ -2297,6 +2319,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Mineurs**
 
 **98** En cas d’exercice par un mineur de droits attachés à la propriété des valeurs mobilières de la société, aucun désaveu ultérieur n’a d’effet contre celle-ci.
+> 1991, ch. 47, art. 98; 2005, ch. 54, art. 227(A).
+
 
 
 
@@ -4027,15 +4051,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **176** 
 
-- **(1)** Dans le cas où la présente loi ou les règlements administratifs prévoient le vote cumulatif :
+- **(1)** Dans le cas où la présente loi ou les règlements administratifs prévoient le vote cumulatif :
 	- **a)** le nombre d’administrateurs, dans le cas d’une société qui n’a pas de souscripteurs habiles à voter à l’assemblée annuelle, ou d’administrateurs pour les actionnaires dans le cas contraire, doit être fixe et précisé;
 	- **b)** les actionnaires habiles à élire les administrateurs à élire par vote cumulatif disposent d’un nombre de voix égal à celui dont sont assorties leurs actions, multiplié par le nombre d’administrateurs à élire par vote cumulatif; ils peuvent les porter sur un ou plusieurs candidats;
 	- **c)** chaque poste d’administrateur à pourvoir par vote cumulatif fait l’objet d’un vote distinct, sauf adoption à l’unanimité d’une résolution permettant à plusieurs personnes d’être élues par un seul vote;
 	- **d)** l’actionnaire qui a voté pour plus d’un candidat, sans autres précisions, est réputé avoir réparti ses voix également entre les candidats;
 	- **e)** si le nombre de candidats en nomination est supérieur au nombre de postes à pourvoir, les candidats qui recueillent le plus petit nombre de voix sont éliminés jusqu’à ce que le nombre de candidats restants soit égal au nombre de postes à pourvoir;
 	- **f)** le mandat de chaque administrateur élu par vote cumulatif prend fin à la clôture de l’assemblée annuelle suivant son élection;
-	- **g)** la révocation d’un administrateur élu par vote cumulatif ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
-	- **h)** la réduction, par motion, du nombre d’administrateurs élus par vote cumulatif prévu par les règlements administratifs ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre d’administrateurs élus par vote cumulatif prévu par les règlements administratifs.
+	- **g)** la révocation d’un administrateur élu par vote cumulatif ne peut intervenir que si le nombre de voix en faveur de la motion visant la révocation dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs à élire par vote cumulatif aux termes des règlements administratifs;
+	- **h)** la réduction, par motion, du nombre fixe d’administrateurs à élire par vote cumulatif aux termes des règlements administratifs ne peut intervenir que si le nombre de voix en faveur de cette motion dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs à élire par vote cumulatif aux termes des règlements administratifs.
 
 **Vote cumulatif obligatoire**
 
@@ -4043,7 +4067,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas dans les cas où toutes les actions avec droit de vote en circulation de la société sont détenues en propriété effective par :
+- **(3)** Le paragraphe (2) ne s’applique pas dans les cas où toutes les actions avec droit de vote en circulation de la société sont détenues en propriété effective par :
 	- **a)** une personne;
 	- **b)** une personne et une ou plusieurs entités qu’elle contrôle;
 	- **c)** une ou plusieurs entités contrôlées par la même personne.
@@ -4054,14 +4078,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Élection transitoire**
 
-- **(4)** Lorsque la présente loi ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
+- **(4)** Lorsque la présente loi ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
 	- **a)** d’une part, à la première assemblée annuelle tenue au plus tôt quatre-vingt-dix jours après la date à laquelle le vote cumulatif est prévu par le règlement administratif ou requis conformément au paragraphe (2);
 	- **b)** d’autre part, à chaque assemblée annuelle subséquente.
 
 **Catégorie ou série d’actions**
 
 - **(5)** La présente loi n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 1991, ch. 47, art. 176; 1996, ch. 6, art. 74.1; 1997, ch. 15, art. 203; 2001, ch. 9, art. 379.
+> 1991, ch. 47, art. 176; 1996, ch. 6, art. 74.1; 1997, ch. 15, art. 203; 2001, ch. 9, art. 379; 2005, ch. 54, art. 246.
 
 
 
@@ -4207,35 +4231,41 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 
 
-**Élection par administrateurs**
+**Manière de combler les vacances**
 
 **185** 
 
-- **(1)** Par dérogation à l’article 192 mais sous réserve du paragraphe (2) et des articles 184, 186 et 187, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil à l’exception de celles qui résultent du défaut d’élire le nombre fixe ou minimal d’administrateurs requis par les règlements administratifs ou d’une augmentation de ce nombre par suite d’une modification de ceux-ci.
+- **(1)** Malgré l’article 192, mais sous réserve du paragraphe (2) et des articles 184, 186 et 187, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil, à l’exception de celles qui résultent soit de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs, soit d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs.
 
 **Composition du conseil contraire à la loi**
 
 - **(2)** Par dérogation aux articles 184 et 192, lorsque, par suite d’une vacance, le nombre des administrateurs ou la composition du conseil n’est pas conforme à l’article 167, au paragraphe 171(1), à l’article 172 ou au paragraphe 173(4), la vacance doit être comblée sans délai par les administrateurs qui, à défaut d’un règlement administratif spécifique, seraient habilités à le faire.
+> 1991, ch. 47, art. 185; 2005, ch. 54, art. 247.
+
 
 
 
 
 **Vacances au sein des administrateurs pour les actionnaires ou les souscripteurs**
 
-**186** Par dérogation à l’article 192 mais sous réserve des articles 184 et 187, les vacances survenues parmi les administrateurs pour les actionnaires et les administrateurs pour les souscripteurs peuvent être comblées :
-- **a)** soit par les administrateurs en fonction pour les actionnaires ou pour les souscripteurs, selon le cas, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs pour les actionnaires ou pour les souscripteurs ou d’une augmentation de ce nombre;
+**186** Par dérogation à l’article 192 mais sous réserve des articles 184 et 187, les vacances survenues parmi les administrateurs pour les actionnaires et les administrateurs pour les souscripteurs peuvent être comblées :
+- **a)** soit par les administrateurs en fonction pour les actionnaires ou pour les souscripteurs, selon le cas, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs pour les actionnaires ou pour les souscripteurs ou résultant d’une augmentation du nombre fixe, minimal ou maximal de ces administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonction et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme à l’article 167, au paragraphe 171(1), à l’article 172 ou au paragraphe 173(4), par les autres administrateurs en fonction;
 - **c)** soit, si aucun de ces administrateurs n’est en fonction et si l’alinéa b) ne s’applique pas, lors de l’assemblée que tout actionnaire ou souscripteur peut convoquer à cet effet.
+> 1991, ch. 47, art. 186; 2005, ch. 54, art. 248.
+
 
 
 
 
 **Administrateurs élus pour une catégorie d’actions**
 
-**187** Par dérogation à l’article 192, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 184, être comblées :
-- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs ou d’une augmentation de ce nombre;
+**187** Par dérogation à l’article 192, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 184, être comblées :
+- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonction et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme à l’article 167, au paragraphe 171(1), à l’article 172 ou au paragraphe 173(4), par les autres administrateurs en fonction;
 - **c)** soit, si aucun de ces administrateurs n’est en fonction et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour combler les vacances.
+> 1991, ch. 47, art. 187; 2005, ch. 54, art. 249.
+
 
 
 
@@ -4791,12 +4821,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Responsabilités supplémentaires**
 
-- **(2)** Sont solidairement tenus de restituer à la société les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
+- **(2)** Sont solidairement tenus de restituer à la société les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
 	- **a)** l’achat ou le rachat d’actions en violation de l’article 75;
 	- **b)** la réduction du capital en violation de l’article 79;
 	- **c)** le versement d’un dividende en violation de l’article 83;
 	- **d)** le versement d’une indemnité en violation de l’article 221;
 	- **e)** une opération contraire à la partie XI.
+> 1991, ch. 47, art. 216; 2005, ch. 54, art. 256(A).
+
 
 
 
@@ -4838,9 +4870,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Conditions préalables**
 
-- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
+- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la société dans les six mois de l’échéance;
-	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société ou celle de sa dissolution;
+	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société ou celle de sa dissolution;
 	- **c)** l’existence de la créance est reconnue ou établie dans les six mois d’une ordonnance de liquidation frappant la société conformément à la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
 
 **Limite**
@@ -4858,18 +4890,26 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 1991, ch. 47, art. 219; 1996, ch. 6, art. 167.
+> 1991, ch. 47, art. 219; 1996, ch. 6, art. 167; 2005, ch. 54, art. 257(A).
 
 
 
 
 
-**Foi à des déclarations**
+**Défense de diligence raisonnable**
 
-**220** N’est pas engagée, aux termes des paragraphes 166(1) ou (2), des articles 216 ou 219 ou du paragraphe 539(1), la responsabilité de l’administrateur, du dirigeant ou de l’employé qui s’appuie de bonne foi sur :
-- **a)** des états financiers de la société reflétant fidèlement sa situation, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les actuaires, avocats, notaires ou comptables.
-> 1991, ch. 47, art. 220; 2001, ch. 9, art. 384.
+**220** 
+
+- **(1)** L’administrateur, le dirigeant ou l’employé n’engage pas sa responsabilité au titre des articles 216 ou 219 ou du paragraphe 539(1) et il s’est acquitté des devoirs imposés au paragraphe 166(2), s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur :
+	- **a)** les états financiers de la société qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+
+**Défense de bonne foi**
+
+- **(2)** L’administrateur ou le dirigeant s’est acquitté des devoirs imposés au paragraphe 166(1), s’il s’appuie de bonne foi sur :
+	- **a)** les états financiers de la société qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 47, art. 220; 2001, ch. 9, art. 384; 2005, ch. 54, art. 258.
 
 
 
@@ -4879,24 +4919,32 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **221** 
 
-- **(1)** La société peut indemniser ses administrateurs ou ses dirigeants — ou leurs prédécesseurs — , ainsi que les personnes qui, à sa demande, agissent ou ont agi en cette qualité pour une entité dont elle est ou a été actionnaire ou créancière, de tous leurs frais, y compris les montants versés en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles ils étaient parties en cette qualité, sauf à l’occasion d’actions intentées par la société ou pour son compte en vue d’obtenir un jugement favorable, si :
-	- **a)** d’une part, ils ont agi avec intégrité et de bonne foi, au mieux des intérêts de la société;
-	- **b)** d’autre part, dans le cas de procédures pénales ou administratives aboutissant au paiement d’une amende, ils avaient de bonnes raisons de croire que leur conduite était conforme à la loi.
+- **(1)** La société peut indemniser ses administrateurs, ses dirigeants ou leurs prédécesseurs ainsi que les autres personnes qui, à sa demande, agissent ou ont agi à titre d’administrateur ou de dirigeant, ou en une qualité similaire, pour une autre entité, de tous leurs frais et dépenses raisonnables — y compris les sommes versées pour le règlement à l’amiable d’un procès ou l’exécution d’un jugement — entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles ils étaient impliqués à ce titre.
+
+**Frais anticipés**
+
+- **(2)** La société peut avancer des fonds pour permettre à toute personne visée au paragraphe (1) d’assumer les frais de sa participation à une procédure visée à ce paragraphe et les dépenses connexes, à charge de remboursement si les conditions énoncées au paragraphe (3) ne sont pas remplies.
+
+**Limites**
+
+- **(3)** La société ne peut indemniser une personne en vertu du paragraphe (1) que si celle-ci :
+	- **a)** d’une part, a agi avec intégrité et bonne foi au mieux des intérêts de la société ou, selon le cas, de l’entité au sein de laquelle elle occupait les fonctions d’administrateur ou de dirigeant ou pour laquelle elle agissait en une qualité similaire à la demande de la société;
+	- **b)** d’autre part, avait, dans le cas de poursuites pénales ou administratives aboutissant au paiement d’une amende, de bonnes raisons de croire que sa conduite était conforme à la loi.
 
 **Indemnisation lors d’actions indirectes**
 
-- **(2)** Si elles remplissent les conditions énoncées au paragraphe (1), la société peut, avec l’agrément du tribunal, indemniser les personnes qui y sont visées de tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, résultant du fait qu’elles ont été parties, en raison de leurs fonctions, à des actions intentées par la société, ou par l’entité ou pour leur compte, en vue d’obtenir un jugement favorable.
+- **(4)** Avec l’approbation du tribunal, la société peut, à l’égard des actions intentées par elle ou par l’entité ou pour leur compte en vue d’obtenir un jugement favorable, avancer à toute personne visée au paragraphe (1) les fonds visés au paragraphe (2) ou l’indemniser des frais et dépenses raisonnables entraînés par son implication dans ces actions en raison de ses fonctions auprès de la société ou l’entité, si elle remplit les conditions énoncées au paragraphe (3).
 
-**Droit à l’indemnisation**
+**Droit à indemnisation**
 
-- **(3)** Par dérogation aux autres dispositions du présent article, les personnes visées au paragraphe (1) sont indemnisables par la société pour tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles elles étaient parties en raison de leurs fonctions, dans la mesure où :
-	- **a)** d’une part, elles ont obtenu gain de cause sur la plupart de leurs moyens de défense au fond;
-	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (1).
+- **(5)** Malgré le paragraphe (1), les personnes visées à ce paragraphe ont le droit d’être indemnisées par la société de leurs frais et dépenses raisonnables entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles elles sont impliquées en raison de leurs fonctions auprès de la société ou l’entité, si :
+	- **a)** d’une part, le tribunal ou toute autre autorité compétente n’a conclu à aucune faute de leur part, par acte ou omission;
+	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (3).
 
-**Héritiers**
+**Héritiers et représentants personnels**
 
-- **(4)** La société peut, dans la mesure prévue aux paragraphes (1) à (3), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
-> 1991, ch. 47, art. 221; 2001, ch. 9, art. 385(F).
+- **(6)** La société peut, dans la mesure prévue aux paragraphes (1) à (5), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
+> 1991, ch. 47, art. 221; 2001, ch. 9, art. 385(F); 2005, ch. 54, art. 258.
 
 
 
@@ -4904,9 +4952,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Assurance des administrateurs et dirigeants**
 
-**222** La société peut souscrire au profit des personnes visées à l’article 221 une assurance couvrant la responsabilité qu’elles encourent :
+**222** La société peut souscrire au profit des personnes visées à l’article 221 une assurance couvrant la responsabilité qu’elles encourent :
 - **a)** soit pour avoir agi en qualité d’administrateur ou de dirigeant, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux de ses intérêts;
-- **b)** soit pour avoir, à sa demande, agi en qualité d’administrateur ou de dirigeant d’une autre entité, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de celle-ci.
+- **b)** soit pour avoir, à sa demande, agi à titre d’administrateur ou de dirigeant — ou en une qualité similaire — pour une autre entité, à l’exception de la responsabilité découlant de l’omission d’agir avec intégrité et bonne foi au mieux des intérêts de celle-ci.
+> 1991, ch. 47, art. 222; 2005, ch. 54, art. 259.
+
 
 
 
@@ -5259,7 +5309,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 	- **i)** sous réserve du paragraphe 153(1), de modifier les droits de vote des souscripteurs aux assemblées d’actionnaires ou de souscripteurs;
 	- **i.1)** de changer la dénomination sociale de la société;
 	- **j)** de modifier le nombre des administrateurs, leur nombre minimal ou maximal ainsi que ceux des administrateurs à élire respectivement par les actionnaires ou les souscripteurs, sous réserve des paragraphes 167(1) et 173(4) et (4.1) et de l’article 176;
-	- **k)** de changer le lieu, au Canada, du siège de la société.
+	- **k)** de changer la province où se trouve le siège de la société.
 
 **Approbation des actionnaires ou des souscripteurs**
 
@@ -5276,7 +5326,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Date d’entrée en vigueur**
 
 - **(3)** L’entrée en vigueur des règlements administratifs, ou de leurs modifications ou révocations, est subordonnée à leur confirmation préalable par les actionnaires et souscripteurs conformément au paragraphe (2) et, dans le cas de l’alinéa (1)i.1), à l’approbation du surintendant.
-> 1991, ch. 47, art. 238; 1997, ch. 15, art. 217; 2001, ch. 9, art. 388.
+> 1991, ch. 47, art. 238; 1997, ch. 15, art. 217; 2001, ch. 9, art. 388; 2005, ch. 54, art. 260.
 
 
 
@@ -5400,8 +5450,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Contenu de la convention**
 
-- **(2)** La convention concernant la fusion visée aux paragraphes 245(1) ou (2) énonce les modalités de celle-ci et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de la société issue de la fusion;
+- **(2)** La convention concernant la fusion visée aux paragraphes 245(1) ou (2) énonce les modalités de celle-ci et notamment :
+	- **a)** la dénomination sociale et la province prévue du siège de la société issue de la fusion;
 	- **b)** le type de la société issue de la fusion, soit société mutuelle, soit société avec actions ordinaires;
 	- **c)** le nom et le lieu de résidence habituelle des futurs administrateurs de la société issue de la fusion;
 	- **d)** les modalités d’échange d’actions de chaque requérant contre les actions ou autres valeurs mobilières de la société issue de la fusion;
@@ -5411,10 +5461,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 	- **h)** les détails des autres dispositions nécessaires pour parfaire la fusion et pour assurer la gestion et l’exploitation de la société issue de la fusion;
 	- **i)** la date à laquelle la fusion doit prendre effet.
 
-**Contenu de la convention : société de secours**
+**Contenu de la convention : société de secours**
 
-- **(2.1)** La convention concernant la fusion visée au paragraphe 245(3) énonce les modalités de celle-ci et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de la société de secours issue de la fusion;
+- **(2.1)** La convention concernant la fusion visée au paragraphe 245(3) énonce les modalités de celle-ci et notamment :
+	- **a)** la dénomination sociale et la province prévue du siège de la société de secours issue de la fusion;
 	- **b)** le nom et le lieu de résidence habituelle des futurs administrateurs de cette société;
 	- **c)** ses futurs règlements administratifs;
 	- **d)** les détails des autres dispositions nécessaires pour parfaire la fusion et pour assurer la gestion et l’exploitation de la société;
@@ -5423,7 +5473,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Annulation des actions sans remboursement**
 
 - **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions contre celles de la société issue de la fusion. Sont exclues de l’application du présent article les actions détenues à titre de représentant personnel ou de sûreté.
-> 1991, ch. 47, art. 246; 1997, ch. 15, art. 219.
+> 1991, ch. 47, art. 246; 1997, ch. 15, art. 219; 2005, ch. 54, art. 261.
 
 
 
@@ -5448,14 +5498,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **248** 
 
-- **(1)** Le conseil d’administration de chacune des sociétés, personnes morales ou sociétés de secours requérantes doit soumettre la convention de fusion, pour approbation :
+- **(1)** Le conseil d’administration de chacune des sociétés, personnes morales ou sociétés de secours requérantes doit soumettre la convention de fusion, pour approbation :
 	- **a)** à l’assemblée des actionnaires et souscripteurs habiles à voter de la société requérante et aux détenteurs d’actions de chaque catégorie ou série;
 	- **b)** à l’assemblée des actionnaires de la personne morale requérante et aux détenteurs d’actions de chaque catégorie ou série;
 	- **c)** à l’assemblée des membres de la société de secours requérante.
 
 **Droit de vote**
 
-- **(2)** Chaque action des sociétés ou personnes morales requérantes, assortie ou non du droit de vote, emporte droit de vote quant à la fusion.
+- **(2)** Chaque action des sociétés ou des personnes morales requérantes, assortie ou non du droit de vote, comporte par ailleurs un droit de vote quant à la convention de fusion.
 
 **Vote par catégorie**
 
@@ -5472,7 +5522,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Annulation**
 
 - **(6)** Le conseil d’administration de l’une des sociétés, personnes morales ou sociétés de secours requérantes peut annuler la convention de fusion, si celle-ci comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires, les souscripteurs ou les membres de toutes les sociétés, personnes morales ou sociétés de secours requérantes ou de certaines d’entre elles.
-> 1991, ch. 47, art. 248; 1997, ch. 15, art. 221.
+> 1991, ch. 47, art. 248; 1997, ch. 15, art. 221; 2005, ch. 54, art. 262.
 
 
 
@@ -5482,22 +5532,24 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **249** 
 
-- **(1)** La société peut, sans se conformer aux articles 246 à 248, fusionner avec une ou plusieurs personnes morales constituées sous le régime d’une loi fédérale qui sont ses filiales en propriété exclusive et qui n’ont aucun souscripteur avec participation, lorsque les conditions suivantes sont réunies :
+- **(1)** La société qui n’a aucun souscripteur avec participation peut, sans se conformer aux articles 246 à 248, fusionner avec une ou plusieurs personnes morales constituées sous le régime d’une loi fédérale qui sont ses filiales en propriété exclusive et qui n’ont aucun souscripteur avec participation, lorsque les conditions suivantes sont réunies :
 	- **a)** leur conseil d’administration respectif approuve la fusion par voie de résolution;
-	- **b)** ces résolutions prévoient à la fois que :
+	- **b)** ces résolutions prévoient à la fois que :
 		- **(i)** les actions des filiales fusionnantes seront annulées sans remboursement de capital,
 		- **(ii)** les lettres patentes de fusion et les règlements administratifs de la société issue de la fusion seront identiques à l’acte constitutif et aux règlements administratifs de la société fusionnante qui est la société mère,
 		- **(iii)** la société issue de la fusion n’émettra aucune valeur mobilière à cette occasion.
 
 **Fusion horizontale simplifiée**
 
-- **(2)** Plusieurs personnes morales constituées sous le régime d’une loi fédérale qui sont des filiales en propriété exclusive de la même société mère et qui n’ont aucun souscripteur avec participation peuvent fusionner en une seule et même société sans se conformer aux articles 246 à 248 lorsque les conditions suivantes sont réunies :
+- **(2)** Plusieurs personnes morales constituées sous le régime d’une loi fédérale qui sont des filiales en propriété exclusive de la même société mère et qui n’ont aucun souscripteur avec participation peuvent fusionner en une seule et même société sans se conformer aux articles 246 à 248 lorsque les conditions suivantes sont réunies :
 	- **a)** au moins une des personnes morales requérantes est une société;
 	- **b)** leur conseil d’administration respectif approuve la fusion par voie de résolution;
-	- **c)** ces résolutions prévoient à la fois que :
+	- **c)** ces résolutions prévoient à la fois que :
 		- **(i)** les actions de toutes les personnes morales requérantes, sauf celles de l’une d’entre elles qui est une société, seront annulées sans remboursement de capital,
 		- **(ii)** les lettres patentes de fusion et les règlements administratifs de la société issue de la fusion seront identiques à l’acte constitutif et aux règlements administratifs de la société fusionnante dont les actions ne sont pas annulées,
 		- **(iii)** le capital déclaré de toutes les filiales fusionnantes dont les actions sont annulées sera ajouté à celui de la société fusionnante dont les actions ne sont pas annulées.
+> 1991, ch. 47, art. 249; 2005, ch. 54, art. 263.
+
 
 
 
@@ -5770,15 +5822,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **260** 
 
-- **(1)** La société maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** La société maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
 **Changement d’adresse**
 
-- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites du lieu indiqué dans l’acte constitutif ou les règlements administratifs.
+- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites de la province indiquée dans l’acte constitutif ou les règlements administratifs.
 
 **Avis de changement**
 
 - **(3)** La société envoie dans les quinze jours un avis du changement d’adresse au surintendant.
+> 1991, ch. 47, art. 260; 2005, ch. 54, art. 264.
+
 
 
 
@@ -5941,15 +5995,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **268** 
 
-- **(1)** Sous réserve du paragraphe (3), la société doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation de ses livres, sauf si le surintendant a, aux conditions et selon les modalités qu’il estime indiquées, exempté la société de l’application du présent article.
+- **(1)** Sous réserve du paragraphe (3), la société doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 261 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
 
 **Copies**
 
-- **(2)** Sous réserve des paragraphes (4) et (5), la société peut en conserver des exemplaires à l’étranger et y traiter les renseignements et les données afférents.
+- **(2)** Sous réserve des paragraphes (4) et (5), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 261 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
 
 **Exception**
 
-- **(3)** Le paragraphe (1) ne s’applique ni aux livres ni aux clients des bureaux d’une société situés à l’étranger.
+- **(3)** Le paragraphe (1) ne s’applique pas à l’égard des succursales de la société qui sont situées à l’étranger ou des clients de celles-ci.
 
 **Renseignements à fournir au surintendant**
 
@@ -5966,7 +6020,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Directives**
 
 - **(7)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 47, art. 268; 2001, ch. 9, art. 396.
+> 1991, ch. 47, art. 268; 2001, ch. 9, art. 396; 2005, ch. 54, art. 267.
 
 
 
@@ -6891,17 +6945,19 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Approbation par le conseil d’administration**
+**Approbation**
 
 **332** 
 
-- **(1)** Le conseil d’administration de la société doit approuver le rapport annuel, l’approbation étant attestée par la signature :
+- **(1)** Les administrateurs doivent approuver le rapport annuel; l’approbation est attestée par la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — des personnes suivantes :
 	- **a)** d’une part, du premier dirigeant ou, en cas d’absence ou d’empêchement, d’un dirigeant de la société commis à cette fin par le conseil d’administration;
 	- **b)** d’autre part, d’un administrateur, si la signature exigée en vertu de l’alinéa a) est celle d’un administrateur, ou de deux administrateurs, si la signature exigée en vertu de cet alinéa est celle d’un dirigeant qui n’est pas administrateur.
 
 **Condition préalable à la publication**
 
 - **(2)** La société ne peut publier le rapport annuel que s’il a été approuvé et signé conformément au paragraphe (1).
+> 1991, ch. 47, art. 332; 2005, ch. 54, art. 285.
+
 
 
 
@@ -7270,14 +7326,16 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **351** 
 
-- **(1)** Le vérificateur de la société établit, à l’intention du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à son attention et qui sont dommageables pour la bonne santé de la société et, selon lui, nécessitent redressement, notamment :
+- **(1)** Le vérificateur de la société établit, à l’intention du premier dirigeant et du directeur financier, un rapport portant sur les opérations ou conditions portées à son attention et qui sont dommageables pour la bonne santé de la société et, selon lui, nécessitent redressement, notamment :
 	- **a)** les opérations portées à son attention et qui, à son avis, outrepassent les pouvoirs de la société;
 	- **b)** dans le cas d’une société d’assurance-vie, les prêts avancés par la société à une personne pour un total dépassant un demi de un pour cent du capital réglementaire de la société, s’il estime que ces prêts risquent de causer une perte à la société.
 Toutefois, si un rapport a déjà été établi à l’égard des prêts avancés à une personne, il n’est pas nécessaire d’en faire un autre à l’égard des prêts avancés à cette même personne, à moins que, de l’avis du vérificateur, le montant de la perte ne soit susceptible de s’accroître.
 
 **Distribution du rapport**
 
-- **(2)** Le vérificateur transmet son rapport au premier dirigeant, au directeur financier et à l’actuaire de la société et en fournit simultanément un exemplaire au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et doit faire partie du procès-verbal de cette réunion.
+- **(2)** Le vérificateur transmet son rapport au premier dirigeant, au directeur financier et à l’actuaire de la société et en fournit simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d’administration et il fait partie du procès-verbal de cette réunion.
+> 1991, ch. 47, art. 351; 2005, ch. 54, art. 289.
+
 
 
 
@@ -7594,14 +7652,16 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Conditions préalables**
 
-- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
-	- **a)** que le plaignant a donné avis, dans un délai acceptable, aux administrateurs de la société ou de sa filiale au cas où ceux-ci n’ont pas intenté l’action, n’y ont pas mis fin ou n’ont pas agi avec diligence au cours des procédures;
+- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
+	- **a)** que le plaignant a donné avis de son intention de présenter la demande, au moins quatorze jours avant la présentation ou dans le délai que le tribunal estime indiqué, aux administrateurs de la société ou de sa filiale au cas où ils n’ont pas intenté l’action, n’ont pas agi avec diligence dans le cadre de celle-ci ou n’y ont pas mis fin;
 	- **b)** que le plaignant agit de bonne foi;
 	- **c)** qu’il semble être de l’intérêt de la société ou de sa filiale d’intenter l’action, de la poursuivre, d’y présenter une défense ou d’y mettre fin.
 
 **Avis au surintendant**
 
 - **(3)** Le plaignant donne avis de sa demande au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de celle-ci.
+> 1991, ch. 47, art. 371; 2005, ch. 54, art. 290.
+
 
 
 
@@ -7636,15 +7696,17 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Absence de caution**
+**Absence de cautionnement**
 
 **374** 
 
-- **(1)** Les plaignants ne sont pas tenus de fournir caution pour les frais de recours.
+- **(1)** Les plaignants ne sont pas tenus de fournir de cautionnement pour les frais.
 
 **Frais provisoires**
 
 - **(2)** En donnant suite au recours, le tribunal peut ordonner à la société ou à sa filiale de verser au plaignant des frais et dépens provisoires, y compris les frais de justice et les débours, dont ils pourront être comptables devant le tribunal lors de l’adjudication définitive.
+> 1991, ch. 47, art. 374; 2005, ch. 54, art. 291(F).
+
 
 
 
@@ -7841,16 +7903,16 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 **Pouvoirs du tribunal**
 
-**387** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de la société d’acquitter ses obligations ou de constituer une provision pour les honorer et de sa capacité de conclure des ententes satisfaisantes pour assurer la protection de ses souscripteurs, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
+**387** Dans le cadre de la dissolution et de la liquidation, le tribunal peut, s’il est convaincu de la capacité de la société d’acquitter ses obligations ou de constituer une provision pour les honorer et de sa capacité de conclure des ententes satisfaisantes pour assurer la protection de ses souscripteurs, prendre, par ordonnance, les mesures qu’il estime indiquées et, notamment :
 - **a)** ordonner la liquidation;
-- **b)** nommer un liquidateur, avec ou sans caution, fixer sa rémunération et le remplacer;
+- **b)** nommer un liquidateur en exigeant ou non un cautionnement, fixer sa rémunération et le remplacer;
 - **c)** nommer des inspecteurs ou des arbitres, préciser leurs pouvoirs, fixer leur rémunération et les remplacer;
 - **d)** fixer l’avis à donner aux intéressés ou accorder une dispense d’avis;
 - **e)** juger de la validité des réclamations faites contre la société;
-- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
+- **f)** interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
 	- **(i)** soit d’exercer tout ou partie de leurs pouvoirs,
 	- **(ii)** soit de recouvrer ou de recevoir toute créance ou autre bien de la société ou de payer ou céder tout bien de celle-ci, sauf de la manière autorisée par le tribunal;
-- **g)** préciser et engager la responsabilité des administrateurs, dirigeants, actionnaires ou souscripteurs, ou de leurs prédécesseurs :
+- **g)** préciser et engager la responsabilité des administrateurs, dirigeants, actionnaires ou souscripteurs, ou de leurs prédécesseurs :
 	- **(i)** soit envers la société,
 	- **(ii)** soit envers les tiers pour les obligations de la société;
 - **h)** approuver, en ce qui concerne les dettes de la société, tout paiement, règlement, transaction ou rétention d’éléments d’actif, et juger si les provisions constituées suffisent à acquitter ou à céder les obligations de la société, qu’elles soient ou non liquidées, futures ou éventuelles;
@@ -7859,11 +7921,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 - **k)** sur avis à tous les intéressés, décharger le liquidateur de ses manquements, selon les modalités que le tribunal estime indiquées, et confirmer ses actes;
 - **l)** sous réserve des articles 394 à 396, approuver tout projet de répartition provisoire ou définitive entre les actionnaires, le cas échéant, ou les fondateurs, en numéraire ou en biens;
 - **m)** fixer la destination des biens appartenant aux créanciers, actionnaires, souscripteurs ou fondateurs introuvables;
-- **n)** sur demande de tout administrateur, dirigeant, actionnaire, souscripteur, fondateur, créancier ou liquidateur :
+- **n)** sur demande de tout administrateur, dirigeant, actionnaire, souscripteur, fondateur, créancier ou liquidateur :
 	- **(i)** surseoir à la liquidation, selon les modalités que le tribunal estime convenir,
 	- **(ii)** poursuivre ou interrompre la procédure de liquidation,
 	- **(iii)** enjoindre au liquidateur de restituer à la société le reliquat des biens de celle-ci;
 - **o)** après la reddition de compte définitive du liquidateur devant le tribunal, obliger la société à demander au ministre de lui délivrer des lettres patentes de dissolution.
+> 1991, ch. 47, art. 387; 2005, ch. 54, art. 292(F).
+
 
 
 
@@ -7933,11 +7997,13 @@ Toutefois, si un rapport a déjà été établi à l’égard des prêts avancé
 
 
 
-**Foi accordée aux déclarations**
+**Défense de diligence raisonnable**
 
-**392** N’est pas engagée la responsabilité du liquidateur qui s’appuie de bonne foi sur :
-- **a)** soit les états financiers de la société reflétant fidèlement sa situation financière, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** soit l’avis, le rapport ou la déclaration d’un conseiller professionnel, notamment, un actuaire, un avocat, un notaire, un comptable ou un expert-estimateur, dont il a retenu les services.
+**392** N’est pas engagée la responsabilité du liquidateur qui a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur les documents suivants :
+- **a)** les états financiers de la société qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 1991, ch. 47, art. 392; 2005, ch. 54, art. 293.
+
 
 
 
@@ -8527,56 +8593,43 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Demande d’exemption**
+**Demandes d’exemption**
 
 **414** 
 
-- **(1)** Les entités suivantes peuvent demander au ministre de soustraire à l’application de l’article 411 toute société qu’elles contrôlent :
-	- **a)** une société de portefeuille d’assurances qui se conforme à l’article 938;
-	- **b)** une banque à participation multiple;
-	- **b.1)** une banque qui se conformerait à l’article 411 si elle était une société;
-	- **b.2)** une société de portefeuille bancaire à participation multiple;
-	- **b.3)** une société de portefeuille bancaire qui se conformerait à l’article 411 si elle était une société;
-	- **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) qui se conformerait à l’article 411 si elle était une société;
-	- **d)** une société mutuelle, une société de secours ou une société qui se conforme à l’article 411;
-	- **e)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
-	- **f)** une société mutuelle ou une société de secours constituée en personne morale et régie en application d’une loi provinciale;
-	- **g)** une société coopérative de crédit régie en application d’une loi provinciale;
-	- **h)** une institution étrangère;
-	- **i)** une personne morale constituée ou formée sous le régime d’une loi fédérale ou provinciale dont l’activité et celle des entités qu’elle contrôle, envisagées globalement, sont principalement, selon le ministre, d’ordre financier.
+- **(1)** Le ministre peut par arrêté, s’il le juge indiqué, exempter la société qui lui en fait la demande de l’application de l’article 411, sous réserve des modalités qu’il estime indiquées.
 
-**Conditions**
+**Observation de l’art. 411**
 
-- **(2)** Le ministre peut accorder l’exemption à une entité visée aux alinéas (1)a) à h) aux conditions qu’il estime indiquées.
-
-**Idem**
-
-- **(3)** Le ministre ne peut accorder l’exemption à une société mère visée à l’alinéa (1)i) que s’il est convaincu que celle-ci se conformera néanmoins aux articles 176 et 411 comme si elle était une société; le ministre peut assortir l’exemption des conditions qu’il estime indiquées.
-
-**Effet de l’arrêté**
-
-- **(4)** La société qui bénéficie de l’exemption n’est plus, sous réserve du paragraphe (5) et des conditions énoncées dans l’arrêté, tenue de se conformer à l’article 411.
-
-**Fin de l’exemption**
-
-- **(5)** Le ministre peut, par arrêté, mettre fin à l’exemption dans les cas suivants :
-	- **a)** l’entité qui a demandé l’exemption n’a plus le contrôle de la société;
-	- **b)** il estime que l’activité de la société mère, qu’elle soit exercée par elle-même ou par l’intermédiaire d’entités qu’elle contrôle, n’est plus principalement d’ordre financier;
-	- **c)** il y a manquement aux articles 176 ou 411 de la part de la société mère;
-	- **d)** il y a violation des conditions énoncées dans l’arrêté d’exemption.
-
-**Observation de l’article 411**
-
-- **(6)** La société doit se conformer à l’article 411 à compter de la date d’expiration de l’exemption prévue au présent article.
+- **(2)** La société doit se conformer à l’article 411 à compter de la date d’expiration de l’exemption prévue au présent article.
 
 **Limites relatives à l’actif**
 
-- **(7)** Tant qu’elle ne s’est pas conformée à l’article 411, la société ne peut avoir un actif total moyen qui dépasse, au cours d’un trimestre dont le dernier mois est postérieur à la date visée au paragraphe (6), celui qu’elle avait durant les trois mois précédant cette date ou à la date ultérieure que le ministre peut fixer par arrêté.
+- **(3)** Tant qu’elle ne s’est pas conformée à l’article 411, la société ne peut avoir un actif total moyen qui dépasse, au cours d’un trimestre dont le dernier mois est postérieur à la date visée au paragraphe (2), celui qu’elle avait durant les trois mois précédant cette date ou à la date ultérieure que le ministre peut fixer par arrêté.
 
-**Application du paragraphe 412(2)**
+**Application du par. 412(2)**
 
-- **(8)** Le paragraphe 412(2) s’applique au paragraphe (7).
-> 1991, ch. 47, art. 414 et 758; 2001, ch. 9, art. 408.
+- **(4)** Le paragraphe 412(2) s’applique au paragraphe (3).
+> 1991, ch. 47, art. 414 et 758; 2001, ch. 9, art. 408; 2005, ch. 54, art. 294.
+
+
+
+
+
+**Exception**
+
+**414.1** 
+
+- **(1)** Malgré le paragraphe 414(2), lorsqu’une société fait l’objet d’un arrêté pris par le ministre aux termes du paragraphe 414(3), dans sa version à la veille du jour d’entrée en vigueur du présent article, et que cet arrêté précise qu’il cesse de s’appliquer lorsque la société mère ne se conforme pas à l’article 411, la société n’a pas à se conformer à l’article 411 avant l’expiration des six mois suivant la date du manquement à l’article 411 lorsque celui-ci découle :
+	- **a)** soit d’une souscription publique des actions avec droit de vote de la société mère;
+	- **b)** soit de l’achat ou du rachat de telles actions;
+	- **c)** soit de l’exercice du droit d’acquérir de telles actions;
+	- **d)** soit de la conversion de valeurs mobilières en de telles actions.
+
+**Actions avec droit de vote**
+
+- **(2)** Malgré le paragraphe 414(2), lorsque, en raison de la survenance d’un fait qui demeure, le nombre d’actions avec droit de vote de la société mère visée au paragraphe (1) devient tel que celle-ci ne se conforme plus à l’article 411, la société n’a pas à se conformer à l’article 411 avant l’expiration des six mois suivant la date du manquement à cet article ou la date ultérieure précisée par arrêté du ministre.
+> 2005, ch. 54, art. 294.
 
 
 
@@ -8586,7 +8639,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **415** 
 
-- **(1)** L’article 412 ne s’applique à la société qu’à l’expiration des six mois suivant la date du manquement à l’article 411 lorsque celui-ci découle :
+- **(1)** L’article 412 ne s’applique à la société qu’à l’expiration des six mois suivant la date du manquement à l’article 411 lorsque celui-ci découle :
 	- **a)** soit d’une souscription publique de ses actions avec droit de vote;
 	- **b)** soit de l’achat ou du rachat de telles actions;
 	- **c)** soit de l’exercice du droit d’acquérir de telles actions;
@@ -8596,21 +8649,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(2)** Dans le cas où, en raison de la survenance d’un fait qui demeure, le nombre des actions de la société à comporter le droit de vote devient tel que celle-ci ne se conforme plus à l’article 411, l’article 412 ne s’applique à elle qu’à l’expiration de six mois suivant le manquement ou qu’à la date ultérieure précisée par arrêté du ministre.
 
-**Exception**
-
-- **(3)** L’alinéa 414(5)c) ne s’applique à la société mère visée au paragraphe 414(3) qu’après l’expiration des six mois suivant la date du manquement à l’article 411 lorsque celui-ci découle :
-	- **a)** soit d’une souscription publique de ses actions avec droit de vote;
-	- **b)** soit de l’achat ou du rachat de telles actions;
-	- **c)** soit de l’exercice du droit d’acquérir de telles actions;
-	- **d)** soit de la conversion de valeurs mobilières en de telles actions.
-
-**Actions dotées du droit de vote**
-
-- **(4)** Dans le cas où, en raison de la survenance d’un fait qui demeure, le nombre des actions de la société mère visée au paragraphe 414(3) à comporter le droit de vote devient tel que celle-ci ne se conforme plus à l’article 411, l’alinéa 414(5)c) ne s’applique à elle qu’à l’expiration de six mois suivant le manquement ou qu’à la date ultérieure précisée par arrêté du ministre.
+- **(3) et (4)** [Abrogés, 2005, ch. 54, art. 295]
 
 **Transformation en société mutuelle**
 
 - **(5)** Dans le cas où le ministre approuve le plan de transformation d’une société en société mutuelle aux termes de l’article 226, l’article 412 ne s’applique à cette société qu’à l’expiration de la période que le ministre peut fixer.
+> 1991, ch. 47, art. 415; 2005, ch. 54, art. 295.
+
 
 
 
@@ -11367,15 +11412,15 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **544** 
 
-- **(1)** La société de secours maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** La société de secours maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
-**Modification du siège social**
+**Modification du siège**
 
-- **(2)** Malgré toute disposition de son acte constitutif, la société de secours peut, par règlement administratif pris et voté par au moins les deux tiers des membres habilités à voter par ses règlements administratifs qui sont présents ou représentés à une assemblée extraordinaire régulièrement convoquée pour en délibérer, transférer le siège social de la société en un autre lieu au Canada.
+- **(2)** Malgré toute disposition de son acte constitutif, la société de secours peut, par règlement administratif pris et voté par au moins les deux tiers des membres habilités à voter par ses règlements administratifs qui sont présents ou représentés à une assemblée extraordinaire régulièrement convoquée pour en délibérer, transférer le siège de la société dans une autre province.
 
 **Changement d’adresse**
 
-- **(2.1)** Le conseil supérieur de direction peut, par résolution adoptée et approuvée aux deux tiers au moins des voix exprimées au cours d’une assemblée, changer l’adresse du siège de la société de secours dans les limites du lieu indiqué dans les règlements administratifs.
+- **(2.1)** Le conseil supérieur de direction peut, par résolution adoptée et approuvée aux deux tiers au moins des voix exprimées au cours d’une assemblée, changer l’adresse du siège de la société de secours dans les limites de la province indiquée dans les règlements administratifs.
 
 **Avis au surintendant**
 
@@ -11384,7 +11429,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 **Périodicité des assemblées**
 
 - **(3)** La société de secours fixe, par règlement administratif, la périodicité de ses assemblées.
-> 1991, ch. 47, art. 544; 1997, ch. 15, art. 286.
+> 1991, ch. 47, art. 544; 1997, ch. 15, art. 286; 2005, ch. 54, art. 298.
 
 
 
@@ -12695,7 +12740,7 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 - **(1)** Le surintendant ne délivre l’agrément prévu par la présente partie à la personne morale que si celle-ci a établi, à sa satisfaction, que les conditions pertinentes imposées par la présente loi ont été remplies, notamment :
 	- **a)** le placement en fiducie d’éléments d’actif de la valeur réglementaire;
 	- **b)** la nomination d’un actuaire conformément à l’article 623 et d’un vérificateur conformément à l’article 633 pour ses opérations d’assurance au Canada;
-	- **c)** l’établissement au Canada du siège de son agence principale.
+	- **c)** la province où se trouvera le siège de son agence principale.
 
 **Conditions**
 
@@ -12708,6 +12753,8 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 **Actif au Canada**
 
 - **(4)** Jusqu’à son remboursement, le dépôt de valeurs visé au paragraphe (3) est réputé faire partie de l’actif au Canada de la société étrangère pour le compte de laquelle celui-ci est effectué.
+> 1991, ch. 47, art. 581; 2005, ch. 54, art. 299.
+
 
 
 
@@ -12751,7 +12798,9 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **Publication de la liste**
 
-**585** Le surintendant fait publier trimestriellement dans la Gazette du Canada une liste des sociétés étrangères, des branches d’assurance dans lesquelles chacune est autorisée à garantir des risques, le nom de leur agent principal et le siège de leur agence principale.
+**585** Le surintendant fait publier trimestriellement dans la Gazette du Canada une liste des sociétés étrangères, des branches d’assurance dans lesquelles chacune est autorisée à garantir des risques, le nom de leur agent principal et la province où se trouve le siège de leur agence principale.
+> 1991, ch. 47, art. 585; 2005, ch. 54, art. 300.
+
 
 
 
@@ -12804,7 +12853,27 @@ Il doit cependant auparavant donner à la société étrangère la possibilité 
 **Opérations prévues par règlement**
 
 - **(3)** L’approbation du ministre n’est pas nécessaire si l’opération visée au paragraphe (2) est une opération réglementaire ou fait partie d’une catégorie d’opérations prévue par règlement.
-> 1997, ch. 15, art. 303; 1999, ch. 1, art. 9; 2001, ch. 9, art. 442.
+
+**Capital**
+
+- **(4)** Le ministre ne peut approuver l’opération visée au paragraphe (2) lorsque celle-ci empêcherait une société étrangère partie à l’opération de se conformer aux règlements visés aux paragraphes 608(1) ou 609(1) ou à l’article 610 ou aux ordonnances visées aux paragraphes 608(4) et 609(2).
+
+**Procédure**
+
+- **(5)** Au moins trente jours avant qu’une demande d’approbation ne soit adressée au ministre, un avis de l’intention de la présenter doit être publié dans la Gazette du Canada et dans un journal à grand tirage au lieu ou près du lieu du siège de l’agence principale de la société étrangère, spécifiant la date à partir de laquelle elle pourra être présentée.
+
+**Renseignements**
+
+- **(6)** Le surintendant peut ordonner à la société étrangère qui publie l’avis de communiquer à ses actionnaires et souscripteurs les renseignements qu’il exige.
+
+**Examen**
+
+- **(7)** Durant au moins trente jours suivant la publication de l’avis, la société étrangère permet l’examen de l’entente relative à l’opération soumise à l’approbation du ministre par ses actionnaires et souscripteurs qui se présentent au siège de son agence principale et leur en fournit une copie sur présentation d’une demande par écrit.
+
+**Période d’examen plus courte**
+
+- **(8)** Dans le cas où il estime que cela sert au mieux les intérêts d’un groupe de souscripteurs visés par l’opération, le surintendant peut réduire les périodes de trente jours visées aux paragraphes (5) et (7).
+> 1997, ch. 15, art. 303; 1999, ch. 1, art. 9; 2001, ch. 9, art. 442; 2005, ch. 54, art. 301.
 
 
 
@@ -15166,15 +15235,21 @@ où :
 
 
 
-**Irrecevabilité de certaines prétentions**
+**Prétentions interdites**
 
-**706** La société de portefeuille d’assurances non plus que ses cautions ne peut opposer aux personnes qui font affaire avec elle ou ses ayants droit — sauf si ces personnes, en raison de leur poste chez elle ou de leurs relations avec elle, connaissaient ou auraient dû connaître la situation réelle — les prétentions suivantes :
-- **a)** il y a eu manquement à son acte constitutif ou à ses règlements administratifs;
-- **b)** les personnes qui figurent comme administrateurs de la société de portefeuille d’assurances dans le dernier état envoyé au surintendant aux termes de l’article 994 ne sont pas ses administrateurs;
-- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
-- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement soit du poste, soit de son activité;
-- **e)** un document émanant régulièrement d’un tel administrateur, dirigeant ou mandataire n’est ni valable ni authentique.
-> 1991, ch. 47, art. 706; 1997, ch. 15, art. 331; 2000, ch. 12, art. 157; 2001, ch. 9, art. 465.
+**706** 
+
+- **(1)** La société de portefeuille d’assurances, ou ses cautions, ne peuvent opposer aux personnes qui ont traité avec elle ou à ses ayants droit ou ayants cause les prétentions suivantes :
+	- **a)** son acte constitutif ou ses règlements administratifs n’ont pas été observés;
+	- **b)** les personnes qui figurent comme administrateurs de la société dans le dernier relevé envoyé au surintendant aux termes de l’article 994 ne sont pas ses administrateurs;
+	- **c)** son siège ne se trouve pas au lieu indiqué dans son acte constitutif ou ses règlements administratifs;
+	- **d)** une personne qu’elle a présentée comme l’un de ses administrateurs, dirigeants ou mandataires n’a pas été régulièrement nommée ou n’est pas habilitée à exercer les attributions qui découlent normalement du poste ou de son activité commerciale;
+	- **e)** un document émanant régulièrement de l’un de ses administrateurs, dirigeants ou mandataires n’est pas valable ou authentique.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui connaissent ou devraient connaître une situation visée à ce paragraphe en raison de leur relation avec la société.
+> 1991, ch. 47, art. 706; 1997, ch. 15, art. 331; 2000, ch. 12, art. 157; 2001, ch. 9, art. 465; 2005, ch. 54, art. 304.
 
 
 
@@ -15270,9 +15345,9 @@ où :
 
 **713** 
 
-- **(1)** Les lettres patentes d’une société de portefeuille d’assurances doivent mentionner les éléments d’information suivants :
+- **(1)** Les lettres patentes d’une société de portefeuille d’assurances doivent mentionner les éléments d’information suivants :
 	- **a)** la dénomination sociale;
-	- **b)** le lieu du siège au Canada;
+	- **b)** la province où se trouvera son siège;
 	- **c)** la date de la constitution.
 
 **Dispositions particulières**
@@ -15282,7 +15357,7 @@ où :
 **Conditions**
 
 - **(3)** Le ministre peut assujettir la délivrance des lettres patentes de la société de portefeuille d’assurances aux conditions qu’il estime indiquées.
-> 1991, ch. 47, art. 713; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 713; 2001, ch. 9, art. 465; 2005, ch. 54, art. 305.
 
 
 
@@ -15685,10 +15760,10 @@ où :
 
 **Avis**
 
-**738** Le surintendant doit, dans les soixante jours suivant la fin de chaque année, faire publier un avis dans la Gazette du Canada donnant les renseignements suivants :
+**738** Le surintendant doit, dans les soixante jours suivant la fin de chaque année, faire publier un avis dans la Gazette du Canada donnant les renseignements suivants :
 - **a)** la dénomination sociale de chaque société de portefeuille d’assurances;
-- **b)** le lieu, au Canada, de son siège.
-> 1991, ch. 47, art. 738; 2001, ch. 9, art. 465.
+- **b)** la province où se trouve son siège.
+> 1991, ch. 47, art. 738; 2001, ch. 9, art. 465; 2005, ch. 54, art. 306.
 
 
 
@@ -15823,11 +15898,13 @@ où :
 
 
 
-**Séries d’actions**
+**Émission d’actions en série**
 
 **745** 
 
-- **(1)** Les règlements administratifs visés à l’article 744 peuvent permettre l’émission d’une catégorie d’actions en une ou plusieurs séries et autoriser les administrateurs à fixer le nombre maximal, s’il y a lieu, et la désignation des actions de chaque série, ainsi qu’à déterminer les droits, privilèges, conditions et restrictions qui leur sont attachés.
+- **(1)** Les règlements administratifs peuvent autoriser, avec ou sans réserve, l’émission d’une catégorie d’actions en une ou plusieurs séries et peuvent :
+	- **a)** fixer le nombre maximal des actions de chaque série, établir leur désignation et déterminer les droits, privilèges, conditions et restrictions dont elles sont assorties;
+	- **b)** permettre aux administrateurs de le faire.
 
 **Participation des séries**
 
@@ -15843,8 +15920,8 @@ où :
 
 **Documents à envoyer au surintendant**
 
-- **(5)** Avant de procéder à l’émission d’actions autorisées aux termes du présent article, les administrateurs font parvenir au surintendant un exemplaire du règlement administratif afférent et lui communiquent tous détails sur les séries qui seront émises.
-> 1991, ch. 47, art. 745; 2001, ch. 9, art. 465.
+- **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
+> 1991, ch. 47, art. 745; 2001, ch. 9, art. 465; 2005, ch. 54, art. 307.
 
 
 
@@ -15895,11 +15972,13 @@ où :
 
 **Exception**
 
-- **(3)** La société de portefeuille d’assurances peut porter au compte capital déclaré correspondant une partie seulement du montant de l’apport reçu en contrepartie des actions dans les cas suivants :
-	- **a)** elle émet les actions en échange :
-		- **(i)** de biens d’une personne avec qui, avant l’échange, elle avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** d’actions d’une personne morale avec laquelle la société de portefeuille d’assurances, avant l’échange ou à cause de l’échange, avait un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** elle émet les actions aux termes d’une convention visée au paragraphe 858(1) en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place de valeurs mobilières de la société de portefeuille d’assurances issue de la fusion.
+- **(3)** Malgré le paragraphe (2), la société peut, sous réserve du paragraphe (4), verser au compte capital déclaré afférent à la catégorie ou à la série d’actions concernée une partie du montant de l’apport reçu en contrepartie d’actions émises;
+	- **a)** en échange, selon le cas :
+		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** d’actions d’une personne morale ou de droits ou d’intérêts sur celle-ci, lorsque la société avait avec elle, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
+		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un tel lien, si la personne, la société et tous les détenteurs des actions de la catégorie ou de la série d’actions ainsi émises consentent à l’échange;
+	- **b)** aux termes d’une convention visée au paragraphe 858(1);
+	- **c)** en faveur des actionnaires d’une personne morale fusionnante qui reçoivent les actions en plus ou à la place des valeurs mobilières de la société issue de la fusion.
 
 **Limite**
 
@@ -15908,7 +15987,7 @@ où :
 **Restriction**
 
 - **(5)** Dans les cas où elle a en circulation plus d’une catégorie ou série d’actions, la société de portefeuille d’assurances ne peut ajouter au compte capital déclaré pour une catégorie ou série d’actions donnée un montant qu’elle n’a pas reçu en contrepartie de l’émission d’actions que si cette mesure est approuvée par une résolution extraordinaire. La présente disposition ne s’applique pas si toutes les actions en circulation de la société appartiennent à au plus deux catégories d’actions convertibles visées au paragraphe 759(4).
-> 1991, ch. 47, art. 749; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 749; 2001, ch. 9, art. 465; 2005, ch. 54, art. 308.
 
 
 
@@ -16010,16 +16089,16 @@ où :
 
 
 
-**Représentant personnel**
+**Exception — représentant personnel**
 
 **755** 
 
-- **(1)** La société de portefeuille d’assurances peut autoriser ses filiales à détenir, en qualité de représentant personnel, mais à condition que ce ne soit pas à titre de véritable propriétaire, soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
+- **(1)** La société de portefeuille d’assurances peut autoriser ses filiales à détenir, en qualité de représentant personnel, mais à condition de ne pas en avoir la propriété effective, soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité non constituée en personne morale qui la contrôle.
 
 **Sûreté**
 
 - **(2)** La société de portefeuille d’assurances peut autoriser ses filiales à détenir, à titre de sûreté, soit des actions de la société ou d’une personne morale qui la contrôle, soit des titres de participation d’une entité qui la contrôle, pourvu que la sûreté ait une valeur peu importante selon les critères établis par la société et approuvés par écrit par le surintendant.
-> 1991, ch. 47, art. 755; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 755; 2001, ch. 9, art. 465; 2005, ch. 54, art. 309(F).
 
 
 
@@ -17111,15 +17190,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **803** 
 
-- **(1)** Dans le cas où la présente partie ou les règlements administratifs prévoient le vote cumulatif :
+- **(1)** Dans le cas où la présente partie ou les règlements administratifs prévoient le vote cumulatif :
 	- **a)** le nombre d’administrateurs doit être fixe et précisé;
 	- **b)** les actionnaires habiles à élire les administrateurs à élire par vote cumulatif disposent d’un nombre de voix égal à celui dont sont assorties leurs actions, multiplié par le nombre d’administrateurs à élire par vote cumulatif; ils peuvent les porter sur un ou plusieurs candidats;
 	- **c)** chaque poste d’administrateur à pourvoir par vote cumulatif fait l’objet d’un vote distinct, sauf adoption à l’unanimité d’une résolution permettant à plusieurs personnes d’être élues par un seul vote;
 	- **d)** l’actionnaire qui a voté pour plus d’un candidat, sans autres précisions, est réputé avoir réparti ses voix également entre les candidats;
 	- **e)** si le nombre de candidats en nomination est supérieur au nombre de postes à pourvoir, les candidats qui recueillent le plus petit nombre de voix sont éliminés jusqu’à ce que le nombre de candidats restants soit égal au nombre de postes à pourvoir;
 	- **f)** le mandat de chaque administrateur élu par vote cumulatif prend fin à la clôture de l’assemblée annuelle suivant son élection;
-	- **g)** la révocation d’un administrateur élu par vote cumulatif ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
-	- **h)** la réduction, par motion, du nombre d’administrateurs élus par vote cumulatif prévu par les règlements administratifs ne peut intervenir que si le nombre de voix pour dépasse le nombre de voix contre, multiplié par le nombre d’administrateurs élus par vote cumulatif prévu par les règlements administratifs.
+	- **g)** la révocation d’un administrateur ne peut intervenir que si le nombre de voix en faveur de la motion visant la révocation dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs;
+	- **h)** la réduction, par motion, du nombre fixe d’administrateurs prévu par les règlements administratifs ne peut intervenir que si le nombre de voix en faveur de cette motion dépasse le nombre de voix exprimées contre elle multiplié par le nombre fixe d’administrateurs prévu par les règlements administratifs.
 
 **Vote cumulatif obligatoire**
 
@@ -17127,7 +17206,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas dans les cas où toutes les actions avec droit de vote en circulation de la société de portefeuille d’assurances sont détenues en propriété effective par :
+- **(3)** Le paragraphe (2) ne s’applique pas dans les cas où toutes les actions avec droit de vote en circulation de la société de portefeuille d’assurances sont détenues en propriété effective par :
 	- **a)** une personne;
 	- **b)** une personne et une ou plusieurs entités qu’elle contrôle;
 	- **c)** une ou plusieurs entités contrôlées par la même personne.
@@ -17138,14 +17217,14 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Élection transitoire**
 
-- **(5)** Lorsque la présente partie ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
+- **(5)** Lorsque la présente partie ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
 	- **a)** d’une part, à la première assemblée annuelle tenue au plus tôt quatre-vingt-dix jours après la date à laquelle le vote cumulatif est prévu par le règlement administratif ou requis conformément au paragraphe (2);
 	- **b)** d’autre part, à chaque assemblée annuelle subséquente.
 
 **Catégorie ou série d’actions**
 
 - **(6)** La présente partie n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 328.
 
 
 
@@ -17289,16 +17368,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Élection par administrateurs**
+**Manière de combler les vacances**
 
 **812** 
 
-- **(1)** Par dérogation à l’article 819 mais sous réserve du paragraphe (2) et des articles 811 et 813, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil à l’exception de celles qui résultent du défaut d’élire le nombre fixe ou minimal d’administrateurs requis par les règlements administratifs ou d’une augmentation de ce nombre par suite d’une modification de ceux-ci.
+- **(1)** Malgré l’article 819, mais sous réserve du paragraphe (2) et des articles 811 et 813, les administrateurs peuvent, s’il y a quorum, combler les vacances survenues au sein du conseil, à l’exception de celles qui résultent soit de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs, soit d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs.
 
 **Composition du conseil contraire à la loi**
 
 - **(2)** Par dérogation aux articles 811 et 819, lorsque, par suite d’une vacance, le nombre des administrateurs ou la composition du conseil n’est pas conforme aux articles 796 ou 799, la vacance doit être comblée sans délai par les administrateurs qui, à défaut d’un règlement administratif spécifique, seraient habilités à le faire.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 329.
 
 
 
@@ -17306,11 +17385,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Administrateurs élus pour une catégorie d’actions**
 
-**813** Par dérogation à l’article 819, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 811, être comblées :
-- **a)** soit par les administrateurs en fonctions élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant du défaut d’élire le nombre fixe ou minimal requis d’administrateurs ou d’une augmentation de ce nombre;
+**813** Par dérogation à l’article 819, les vacances survenues parmi les administrateurs que les détenteurs d’une série ou d’une catégorie déterminée d’actions ont le droit exclusif d’élire peuvent, sous réserve de l’article 811, être comblées :
+- **a)** soit par les administrateurs en fonction élus par les détenteurs d’actions de cette catégorie ou série, à l’exception des vacances résultant de l’omission d’élire le nombre fixe ou minimal d’administrateurs prévu par les règlements administratifs ou résultant d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les règlements administratifs;
 - **b)** soit, si aucun de ces administrateurs n’est en fonctions et si, en raison de la vacance, le nombre d’administrateurs ou la composition du conseil d’administration n’est pas conforme aux articles 796 ou 799, par les autres administrateurs en fonctions;
 - **c)** soit, si aucun de ces administrateurs n’est en fonctions et si l’alinéa b) ne s’applique pas, lors de l’assemblée que les détenteurs d’actions de cette catégorie ou série peuvent convoquer pour combler les vacances.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 330.
 
 
 
@@ -17802,12 +17881,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Responsabilités supplémentaires**
 
-- **(2)** Sont solidairement tenus de restituer à la société de portefeuille d’assurances les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
+- **(2)** Sont solidairement tenus de restituer à la société de portefeuille d’assurances les sommes en cause non encore recouvrées et les sommes perdues par elle les administrateurs qui ont, par vote ou acquiescement, approuvé l’adoption d’une résolution autorisant, selon le cas :
 	- **a)** l’achat ou le rachat d’actions en violation de l’article 754;
 	- **b)** la réduction du capital en violation de l’article 757;
 	- **c)** le versement d’un dividende en violation de l’article 761;
 	- **d)** le versement d’une indemnité en violation de l’article 846.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 337(A).
 
 
 
@@ -17852,9 +17931,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Conditions préalables**
 
-- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
+- **(2)** La responsabilité définie au paragraphe (1) n’est toutefois engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la société de portefeuille d’assurances dans les six mois de l’échéance;
-	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société de portefeuille d’assurances ou celle de sa dissolution;
+	- **b)** l’existence de la créance est établie dans les six mois de la première des dates suivantes : celle du début des procédures de liquidation ou de dissolution de la société de portefeuille d’assurances ou celle de sa dissolution;
 	- **c)** l’existence de la créance est établie dans les six mois suivant une cession de biens ou une ordonnance de faillite frappant la société de portefeuille d’assurances conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
 
 **Limite**
@@ -17872,18 +17951,26 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Répétition**
 
 - **(6)** L’administrateur qui acquitte une créance conformément au présent article peut répéter les parts des administrateurs tenus également responsables.
-> 2001, ch. 9, art. 465; 2004, ch. 25, art. 203.
+> 2001, ch. 9, art. 465; 2004, ch. 25, art. 203; 2005, ch. 54, art. 338(A).
 
 
 
 
 
-**Foi à des déclarations**
+**Défense de diligence raisonnable**
 
-**845** N’est pas engagée, aux termes des paragraphes 795(1) ou (2) ou des articles 841 ou 844, la responsabilité de l’administrateur, du dirigeant ou de l’employé qui s’appuie de bonne foi sur :
-- **a)** des états financiers de la société de portefeuille d’assurances reflétant fidèlement sa situation, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur;
-- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations, notamment les actuaires, avocats, notaires ou comptables.
-> 2001, ch. 9, art. 465.
+**845** 
+
+- **(1)** L’administrateur, le dirigeant ou l’employé n’engage pas sa responsabilité au titre des articles 841 ou 844 et il s’est acquitté des devoirs imposés au paragraphe 795(2), s’il a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment en s’appuyant de bonne foi sur :
+	- **a)** les états financiers de la société de portefeuille d’assurances qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+
+**Défense de bonne foi**
+
+- **(2)** L’administrateur ou le dirigeant s’est acquitté des devoirs imposés au paragraphe 795(1) s’il s’appuie de bonne foi sur :
+	- **a)** les états financiers de la société qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent fidèlement sa situation;
+	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 339.
 
 
 
@@ -17893,24 +17980,32 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **846** 
 
-- **(1)** La société de portefeuille d’assurances peut indemniser ses administrateurs ou ses dirigeants — ou leurs prédécesseurs — , ainsi que les personnes qui, à sa demande, agissent ou ont agi en cette qualité pour une entité dont elle est ou a été actionnaire ou créancière, de tous leurs frais, y compris les montants versés en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles ils étaient parties en cette qualité, sauf à l’occasion d’actions intentées par la société ou pour son compte en vue d’obtenir un jugement favorable, si :
-	- **a)** d’une part, ils ont agi avec intégrité et de bonne foi, au mieux des intérêts de la société de portefeuille d’assurances;
-	- **b)** d’autre part, dans le cas de procédures pénales ou administratives aboutissant au paiement d’une amende, ils avaient de bonnes raisons de croire que leur conduite était conforme à la loi.
+- **(1)** La société de portefeuille d’assurances peut indemniser ses administrateurs, ses dirigeants ou leurs prédécesseurs ainsi que les autres personnes qui, à sa demande, agissent ou ont agi à titre d’administrateur ou de dirigeant, ou en une qualité similaire, pour une autre entité, de tous leurs frais et dépenses raisonnables — y compris les sommes versées pour le règlement à l’amiable d’un procès ou l’exécution d’un jugement — entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles ils étaient impliqués à ce titre.
+
+**Frais anticipés**
+
+- **(2)** La société peut avancer des fonds pour permettre à toute personne visée au paragraphe (1) d’assumer les frais de sa participation à une procédure visée à ce paragraphe et les dépenses connexes, à charge de remboursement si les conditions énoncées au paragraphe (3) ne sont pas remplies.
+
+**Limites**
+
+- **(3)** La société ne peut indemniser une personne en vertu du paragraphe (1) que si celle-ci :
+	- **a)** d’une part, a agi avec intégrité et bonne foi au mieux des intérêts de la société ou, selon le cas, de l’entité au sein de laquelle elle occupait les fonctions d’administrateur ou de dirigeant ou pour laquelle elle agissait en une qualité similaire à la demande de la société;
+	- **b)** d’autre part, avait, dans le cas de poursuites pénales ou administratives aboutissant au paiement d’une amende, de bonnes raisons de croire que sa conduite était conforme à la loi.
 
 **Indemnisation lors d’actions indirectes**
 
-- **(2)** Si elles remplissent les conditions énoncées au paragraphe (1), la société de portefeuille d’assurances peut, avec l’agrément du tribunal, indemniser les personnes qui y sont visées de tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, résultant du fait qu’elles ont été parties, en raison de leurs fonctions, à des actions intentées par la société, ou par l’entité ou pour leur compte, en vue d’obtenir un jugement favorable.
+- **(4)** Avec l’approbation du tribunal, la société peut, à l’égard des actions intentées par elle ou par l’entité ou pour leur compte en vue d’obtenir un jugement favorable, avancer à toute personne visée au paragraphe (1) les fonds visés au paragraphe (2) ou l’indemniser des frais et dépenses raisonnables entraînés par son implication dans ces actions en raison de ses fonctions auprès de la société ou l’entité, si elle remplit les conditions énoncées au paragraphe (3).
 
-**Droit à l’indemnisation**
+**Droit à indemnisation**
 
-- **(3)** Par dérogation aux autres dispositions du présent article, les personnes visées au paragraphe (1) sont indemnisables par la société de portefeuille d’assurances pour tous leurs frais, y compris tout montant versé en règlement d’une action ou pour satisfaire à un jugement, entraînés par des procédures civiles, pénales ou administratives auxquelles elles étaient parties en raison de leurs fonctions, dans la mesure où :
-	- **a)** d’une part, elles ont obtenu gain de cause sur la plupart de leurs moyens de défense au fond;
-	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (1).
+- **(5)** Malgré le paragraphe (1), les personnes visées à ce paragraphe ont le droit d’être indemnisées par la société de leurs frais et dépenses raisonnables entraînés par la tenue d’une enquête ou par des poursuites civiles, pénales, administratives ou autres dans lesquelles elles sont impliquées en raison de leurs fonctions auprès de la société ou l’entité, si :
+	- **a)** d’une part, le tribunal ou toute autre autorité compétente n’a conclu à aucune faute de leur part, par acte ou omission;
+	- **b)** d’autre part, elles remplissent les conditions énoncées au paragraphe (3).
 
-**Héritiers**
+**Héritiers et représentants personnels**
 
-- **(4)** La société de portefeuille d’assurances peut, dans la mesure prévue aux paragraphes (1) à (3), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
-> 2001, ch. 9, art. 465.
+- **(6)** La société peut, dans la mesure prévue aux paragraphes (1) à (5), indemniser les héritiers ou les représentants personnels de toute personne qu’elle peut indemniser en application de ces paragraphes.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 339.
 
 
 
@@ -17918,10 +18013,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Assurances des administrateurs et dirigeants**
 
-**847** La société de portefeuille d’assurances peut souscrire au profit des personnes visées à l’article 846 une assurance couvrant la responsabilité qu’elles encourent :
+**847** La société de portefeuille d’assurances peut souscrire au profit des personnes visées à l’article 846 une assurance couvrant la responsabilité qu’elles encourent :
 - **a)** soit pour avoir agi en qualité d’administrateur ou de dirigeant, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux de ses intérêts;
-- **b)** soit pour avoir, à sa demande, agi en qualité d’administrateur ou de dirigeant d’une autre entité, à l’exception de la responsabilité découlant du défaut d’agir avec intégrité et de bonne foi au mieux des intérêts de celle-ci.
-> 2001, ch. 9, art. 465.
+- **b)** soit pour avoir, à sa demande, agi à titre d’administrateur ou de dirigeant — ou en une qualité similaire — pour une autre entité, à l’exception de la responsabilité découlant de l’omission d’agir avec intégrité et bonne foi au mieux des intérêts de celle-ci.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 340.
 
 
 
@@ -18106,8 +18201,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Contenu de la convention**
 
-- **(2)** La convention concernant la fusion énonce les modalités de celle-ci et notamment :
-	- **a)** la dénomination sociale et le lieu prévu au Canada du siège de la société de portefeuille d’assurances issue de la fusion;
+- **(2)** La convention concernant la fusion énonce les modalités de celle-ci et notamment :
+	- **a)** la dénomination sociale et la province envisagée pour le siège de la société de portefeuille d’assurances issue de la fusion;
 	- **b)** les nom et lieu de résidence habituelle des futurs administrateurs de la société de portefeuille d’assurances issue de la fusion;
 	- **c)** les modalités d’échange d’actions de chaque requérant contre les actions ou autres valeurs mobilières de la société de portefeuille d’assurances issue de la fusion;
 	- **d)** au cas où des actions de l’un de ces requérants ne doivent pas être échangées contre des actions ou autres valeurs mobilières de la société de portefeuille d’assurances issue de la fusion, la somme en numéraire ou les valeurs mobilières que les détenteurs de ces actions doivent recevoir en plus ou à la place des actions ou autres valeurs mobilières de la société issue de la fusion;
@@ -18119,7 +18214,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation des actions sans remboursement**
 
 - **(3)** La convention de fusion doit prévoir, au moment de la fusion, l’annulation, sans remboursement du capital qu’elles représentent, des actions de l’un des requérants, détenues par un autre de ces requérants ou pour son compte, mais ne peut prévoir l’échange de ces actions contre celles de la société de portefeuille d’assurances issue de la fusion. Sont exclues de l’application du présent article les actions détenues à titre de représentant personnel ou de sûreté.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 341.
 
 
 
@@ -18142,7 +18237,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Droit de vote**
 
-- **(2)** Chaque action des personnes morales requérantes, assortie ou non du droit de vote, emporte droit de vote quant à la fusion.
+- **(2)** Chaque action des sociétés de portefeuille d’assurances ou des personnes morales requérantes, assortie ou non du droit de vote, comporte par ailleurs un droit de vote quant à la convention de fusion.
 
 **Vote par catégorie**
 
@@ -18155,7 +18250,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation**
 
 - **(5)** Le conseil d’administration de l’une des personnes morales requérantes peut annuler la convention de fusion, si celle-ci comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires des requérantes ou de certaines d’entre elles.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 342.
 
 
 
@@ -18372,16 +18467,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **868** 
 
-- **(1)** La société de portefeuille d’assurances maintient en permanence un siège au Canada, au lieu indiqué dans son acte constitutif ou ses règlements administratifs.
+- **(1)** La société de portefeuille d’assurances maintient en permanence un siège dans la province indiquée dans son acte constitutif ou ses règlements administratifs.
 
 **Changement d’adresse**
 
-- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites du lieu indiqué dans l’acte constitutif ou les règlements administratifs.
+- **(2)** Le conseil d’administration peut changer l’adresse du siège dans les limites de la province indiquée dans l’acte constitutif ou les règlements administratifs.
 
 **Avis de changement**
 
 - **(3)** La société de portefeuille d’assurances envoie dans les quinze jours un avis du changement d’adresse au surintendant.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 343.
 
 
 
@@ -18544,11 +18639,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **876** 
 
-- **(1)** Sous réserve du paragraphe (3), la société de portefeuille d’assurances doit conserver et traiter au Canada les renseignements ou données se rapportant à la tenue et à la conservation de ses livres, sauf si le surintendant a, aux conditions et selon les modalités qu’il estime indiquées, exempté la société de l’application du présent article.
+- **(1)** Sous réserve du paragraphe (3), la société de portefeuille d’assurances doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 869 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
 
 **Copies**
 
-- **(2)** Sous réserve des paragraphes (3) et (4), la société de portefeuille d’assurances peut en conserver des exemplaires à l’étranger et y traiter les renseignements et les données afférents.
+- **(2)** Sous réserve des paragraphes (3) et (4), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 869 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
 
 **Renseignements à fournir au surintendant**
 
@@ -18565,7 +18660,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Directives**
 
 - **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 346.
 
 
 
@@ -18599,11 +18694,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Application des articles 271 à 277**
 
-**879** Les articles 271 à 277 s’appliquent à la société de portefeuille d’assurances; toutefois, pour l’application de ces dispositions :
+**879** Les articles 271 à 277 s’appliquent à la société de portefeuille d’assurances; toutefois, pour l’application de ces dispositions :
 - **a)** la mention de la société vaut mention de la société de portefeuille d’assurances;
-- **b)** la mention, au paragraphe 271(3), du paragraphe 262(5) et des articles 266 à 268 vaut mention du paragraphe 870(4) et des articles 874 à 876;
+- **b)** [Abrogé, 2005, ch. 54, art. 347]
 - **c)** la mention, à l’article 277, du paragraphe 73(1) vaut mention du paragraphe 752(1).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 347.
 
 
 
@@ -18766,18 +18861,18 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Approbation par le conseil d’administration**
+**Approbation**
 
 **888** 
 
-- **(1)** Le conseil d’administration de la société de portefeuille d’assurances doit approuver le rapport annuel, l’approbation étant attestée par la signature :
+- **(1)** Les administrateurs de la société de portefeuille d’assurances doivent approuver le rapport annuel; l’approbation est attestée par la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — des personnes suivantes :
 	- **a)** d’une part, du premier dirigeant ou, en cas d’absence ou d’empêchement, d’un dirigeant de la société de portefeuille d’assurances commis à cette fin par le conseil d’administration;
 	- **b)** d’autre part, d’un administrateur, si la signature exigée en vertu de l’alinéa a) est celle d’un administrateur, ou de deux administrateurs, si la signature exigée en vertu de cet alinéa est celle d’un dirigeant qui n’est pas administrateur.
 
 **Condition préalable à la publication**
 
 - **(2)** La société de portefeuille d’assurances ne peut publier le rapport annuel que s’il a été approuvé et signé conformément au paragraphe (1).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 352.
 
 
 
@@ -19259,15 +19354,15 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Conditions préalables**
 
-- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
-	- **a)** que le plaignant a donné avis, dans un délai acceptable, aux administrateurs de la société de portefeuille d’assurances ou de sa filiale au cas où ceux-ci n’ont pas intenté l’action, n’y ont pas mis fin ou n’ont pas agi avec diligence au cours des procédures;
+- **(2)** L’action ou l’intervention ne sont recevables que si le tribunal est convaincu à la fois :
+	- **a)** que le plaignant a donné avis de son intention de présenter la demande, au moins quatorze jours avant la présentation ou dans le délai que le tribunal estime indiqué, aux administrateurs de la société de portefeuille d’assurances ou de sa filiale au cas où ils n’ont pas intenté l’action, n’ont pas agi avec diligence dans le cadre de celle-ci ou n’y ont pas mis fin;
 	- **b)** que le plaignant agit de bonne foi;
 	- **c)** qu’il semble être de l’intérêt de la société de portefeuille d’assurances ou de sa filiale d’intenter l’action, de la poursuivre, d’y présenter une défense ou d’y mettre fin.
 
 **Avis au surintendant**
 
 - **(3)** Le plaignant donne avis de sa demande au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de celle-ci.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 357.
 
 
 
@@ -19307,16 +19402,16 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Absence de caution**
+**Absence de cautionnement**
 
 **915** 
 
-- **(1)** Les plaignants ne sont pas tenus de fournir caution pour les frais de recours.
+- **(1)** Les plaignants ne sont pas tenus de fournir de cautionnement pour les frais.
 
 **Frais provisoires**
 
 - **(2)** En donnant suite au recours, le tribunal peut ordonner à la société de portefeuille d’assurances ou à sa filiale de verser au plaignant des frais et dépens provisoires, y compris les frais de justice et les débours, dont le plaignant pourra être comptable devant le tribunal lors de l’adjudication définitive.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 358(F).
 
 
 
@@ -19771,57 +19866,24 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Demande d’exemption**
+**Demandes d’exemption**
 
 **941** 
 
-- **(1)** Les entités suivantes peuvent demander au ministre de soustraire à l’application de l’article 938 toute société de portefeuille d’assurances qu’elles contrôlent :
-	- **a)** une société de portefeuille d’assurances qui se conforme à l’article 938;
-	- **b)** une banque à participation multiple;
-	- **c)** une banque qui se conformerait à l’article 938 si elle était une société de portefeuille d’assurances;
-	- **d)** une société de portefeuille bancaire à participation multiple;
-	- **e)** une société de portefeuille bancaire qui se conformerait à l’article 938 si elle était une société de portefeuille d’assurances;
-	- **f)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) qui se conformerait à l’article 938 si elle était une société de portefeuille d’assurances;
-	- **g)** une société qui se conformerait à l’article 938 si elle était une société de portefeuille d’assurances;
-	- **h)** une société mutuelle;
-	- **i)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
-	- **j)** une société mutuelle constituée en personne morale et réglementée sous le régime d’une loi provinciale;
-	- **k)** une société coopérative de crédit réglementée sous le régime d’une loi provinciale;
-	- **l)** une institution étrangère;
-	- **m)** une personne morale constituée ou formée sous le régime d’une loi fédérale ou provinciale dont l’activité et celle des entités qu’elle contrôle, envisagées globalement, sont principalement, selon le ministre, d’ordre financier.
+- **(1)** Le ministre peut par arrêté, s’il le juge indiqué, exempter la société de portefeuille d’assurances qui lui en fait la demande de l’application de l’article 938, sous réserve des modalités qu’il estime indiquées.
 
-**Conditions**
+**Observation de l’art. 938**
 
-- **(2)** Le ministre peut accorder l’exemption à une entité visée aux alinéas (1)a) à l) aux conditions qu’il estime indiquées.
-
-**Conditions**
-
-- **(3)** Le ministre ne peut accorder l’exemption à une société de portefeuille d’assurances mère visée à l’alinéa (1)m) que s’il est convaincu que celle-ci se conformera néanmoins aux articles 803 et 938 comme si elle était une société de portefeuille d’assurances; le ministre peut assortir l’exemption des conditions qu’il estime indiquées.
-
-**Effet de l’arrêté**
-
-- **(4)** La société de portefeuille d’assurances qui bénéficie de l’exemption n’est plus, sous réserve du paragraphe (5) et des conditions énoncées dans l’arrêté, tenue de se conformer à l’article 938.
-
-**Fin de l’exemption**
-
-- **(5)** Le ministre peut, par arrêté, mettre fin à l’exemption dans les cas suivants :
-	- **a)** l’entité qui a demandé l’exemption n’a plus le contrôle de la société de portefeuille d’assurances;
-	- **b)** il estime que l’activité de la société mère, qu’elle soit exercée par elle-même ou par l’intermédiaire d’entités qu’elle contrôle, n’est plus principalement d’ordre financier;
-	- **c)** il y a manquement aux articles 803 ou 938 de la part de la société mère;
-	- **d)** il y a violation des conditions énoncées dans l’arrêté d’exemption.
-
-**Observation de l’article 938**
-
-- **(6)** La société de portefeuille d’assurances doit se conformer à l’article 938 à compter de la date d’expiration de l’exemption prévue au présent article.
+- **(2)** La société doit se conformer à l’article 938 à compter de la date d’expiration de l’exemption prévue au présent article.
 
 **Limites relatives à l’actif**
 
-- **(7)** Tant qu’elle ne s’est pas conformée à l’article 938, la société de portefeuille d’assurances ne peut avoir un actif total moyen qui dépasse, au cours d’un trimestre dont le dernier mois est postérieur à la date visée au paragraphe (6), celui qu’elle avait durant les trois mois précédant cette date ou à la date ultérieure que le ministre peut fixer par arrêté.
+- **(3)** Tant qu’elle ne s’est pas conformée à l’article 938, la société ne peut avoir un actif total moyen qui dépasse, au cours d’un trimestre dont le dernier mois est postérieur à la date visée au paragraphe (2), celui qu’elle avait durant les trois mois précédant cette date ou à la date ultérieure que le ministre peut fixer par arrêté.
 
-**Application du paragraphe 939(2)**
+**Application du par. 939(2)**
 
-- **(8)** Le paragraphe 939(2) s’applique au paragraphe (7).
-> 2001, ch. 9, art. 465.
+- **(4)** Le paragraphe 939(2) s’applique au paragraphe (3).
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 359.
 
 
 
@@ -19831,7 +19893,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **942** 
 
-- **(1)** L’article 939 ne s’applique à la société de portefeuille d’assurances qu’à l’expiration des six mois suivant la date du manquement à l’article 938 lorsque celui-ci découle :
+- **(1)** L’article 939 ne s’applique à la société de portefeuille d’assurances qu’à l’expiration des six mois suivant la date du manquement à l’article 938 lorsque celui-ci découle :
 	- **a)** soit d’une souscription publique de ses actions avec droit de vote;
 	- **b)** soit de l’achat ou du rachat de telles actions;
 	- **c)** soit de l’exercice du droit d’acquérir de telles actions;
@@ -19841,18 +19903,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 - **(2)** Dans le cas où, en raison de la survenance d’un fait qui demeure, le nombre des actions de la société de portefeuille d’assurances à comporter le droit de vote devient tel que celle-ci ne se conforme plus à l’article 938, l’article 939 ne s’applique à elle qu’à l’expiration de six mois suivant le manquement ou qu’à la date ultérieure précisée par arrêté du ministre.
 
-**Exception**
-
-- **(3)** L’alinéa 941(5)c) ne s’applique à la société de portefeuille d’assurances mère visée au paragraphe 941(3) qu’après l’expiration des six mois suivant la date du manquement à l’article 938 lorsque celui-ci découle :
-	- **a)** soit d’une souscription publique de ses actions avec droit de vote;
-	- **b)** soit de l’achat ou du rachat de telles actions;
-	- **c)** soit de l’exercice du droit d’acquérir de telles actions;
-	- **d)** soit de la conversion de valeurs mobilières en de telles actions.
-
-**Actions dotées du droit de vote**
-
-- **(4)** Dans le cas où, en raison de la survenance d’un fait qui demeure, le nombre des actions de la société de portefeuille d’assurances mère visée au paragraphe 941(3) à comporter le droit de vote devient tel que celle-ci ne se conforme plus à l’article 938, l’alinéa 941(5)c) ne s’applique à elle qu’à l’expiration de six mois suivant le manquement ou qu’à la date ultérieure précisée par arrêté du ministre.
-> 2001, ch. 9, art. 465.
+- **(3) et (4)** [Abrogés, 2005, ch. 54, art. 360]
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 360.
 
 
 
@@ -21217,6 +21269,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+**Présomption relative à la signature des documents**
+
+**1007.1** Les règlements administratifs, avis, résolutions, demandes, déclarations et autres documents qui doivent ou peuvent être signés par plusieurs personnes pour l’application de la présente loi peuvent être rédigés en plusieurs exemplaires de même forme, dont chacun est signé par une ou plusieurs de ces personnes. Ces exemplaires dûment signés sont réputés constituer un seul document pour l’application de la présente loi.
+> 2005, ch. 54, art. 361.
+
+
+
+
+
 **Avis aux administrateurs, aux actionnaires et aux souscripteurs**
 
 **1008** 
@@ -21254,8 +21315,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Retours**
 
-- **(2)** En cas de retour, par trois fois consécutives, des avis ou documents expédiés, la société, société de secours, société étrangère, société provinciale ou société de portefeuille d’assurances n’est plus tenue de les envoyer à l’actionnaire, au souscripteur ou au membre introuvable tant que celui-ci ne lui fait pas savoir par écrit sa nouvelle adresse.
-> 2001, ch. 9, art. 465.
+- **(2)** La société, la société de secours, la société étrangère, la société provinciale ou la société de portefeuille d’assurances n’est pas tenue d’envoyer les avis ou documents qui lui sont retournés deux fois de suite parce que l’actionnaire est introuvable, sauf si elle est informée par écrit de sa nouvelle adresse.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 362.
 
 
 
@@ -21288,10 +21349,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Inscriptions au registre des valeurs mobilières**
+**Mentions au registre des valeurs mobilières**
 
-**1013** Les inscriptions au registre des valeurs mobilières et sur les certificats de valeurs mobilières délivrés par la société ou la société de portefeuille d’assurances établissent que les personnes au nom desquelles les valeurs mobilières sont enregistrées sont propriétaires des valeurs inscrites dans le registre ou sur les certificats.
-> 2001, ch. 9, art. 465.
+**1013** Les mentions au registre des valeurs mobilières et sur les certificats de valeurs mobilières émis par la société ou la société de portefeuille d’assurances établissent que les personnes au nom desquelles les valeurs mobilières sont inscrites sont propriétaires des valeurs mentionnées dans le registre ou sur les certificats.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 363(F).
 
 
 
@@ -21467,21 +21528,31 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Règlements**
 
-**1021** Le gouverneur en conseil peut, par règlement :
-- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
-- **b)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
-- **c)** régir, pour l’application de toute disposition de la présente loi, la détermination des capitaux propres d’une société ou d’une société de portefeuille d’assurances;
-- **d)** définir certains termes pour l’application de la présente loi;
-- **e)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
-- **f)** régir le capital réglementaire et l’actif total d’une société, société de secours, société provinciale ou société de portefeuille d’assurances;
-- **g)** fixer des normes de pratiques commerciales et financières saines pour les sociétés, sociétés de secours, sociétés provinciales et sociétés étrangères;
-- **h)** régir la rétention, au Canada, de l’actif de la société, société de secours ou société de portefeuille d’assurances;
-- **i)** prévoir la valeur de l’actif qui doit être détenu au Canada et les modalités de la détention;
-- **j)** régir la protection et le maintien de l’actif de la société, société de secours ou société de portefeuille d’assurances, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
-- **k)** régir la détention d’actions et de titres de participation pour l’application des articles 74, 78 ou 753;
-- **l)** prévoir l’information, en plus des documents visés à l’article 670 ou 996, à conserver dans le registre mentionné à cet article;
-- **m)** prendre toute autre mesure d’application de la présente loi.
-> 2001, ch. 9, art. 465.
+**1021** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+	- **b)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
+	- **c)** régir, pour l’application de toute disposition de la présente loi, la détermination des capitaux propres d’une société ou d’une société de portefeuille d’assurances;
+	- **d)** définir certains termes pour l’application de la présente loi;
+	- **e)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
+	- **f)** régir le capital réglementaire et l’actif total d’une société, société de secours, société provinciale ou société de portefeuille d’assurances;
+	- **g)** fixer des normes de pratiques commerciales et financières saines pour les sociétés, sociétés de secours, sociétés provinciales et sociétés étrangères;
+	- **h)** régir la rétention, au Canada, de l’actif de la société, société de secours ou société de portefeuille d’assurances;
+	- **i)** prévoir la valeur de l’actif qui doit être détenu au Canada et les modalités de la détention;
+	- **j)** régir la protection et le maintien de l’actif de la société, société de secours ou société de portefeuille d’assurances, y compris en ce qui touche le cautionnement de ses administrateurs, dirigeants et employés;
+	- **k)** régir la détention d’actions et de titres de participation pour l’application des articles 74, 78 ou 753;
+	- **l)** prévoir l’information, en plus des documents visés à l’article 670 ou 996, à conserver dans le registre mentionné à cet article;
+	- **m)** prendre toute autre mesure d’application de la présente loi.
+
+**Incorporation par renvoi**
+
+- **(2)** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Nature du document incorporé**
+
+- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 364.
 
 
 
@@ -21545,13 +21616,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **1027** 
 
-- **(1)** Quiconque commet une infraction prévue à l’un ou l’autre des articles 1023 à 1026 est passible :
-	- **a)** s’il s’agit d’une personne physique :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
-		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
-	- **b)** s’il s’agit d’une entité :
-		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
-		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 000 $.
+- **(1)** Quiconque commet une infraction prévue à l’un ou l’autre des articles 1023 à 1026 est passible :
+	- **a)** s’il s’agit d’une personne physique :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines,
+		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** s’il s’agit d’une entité :
+		- **(i)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 500 000 $,
+		- **(ii)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 000 $.
 
 **Ordonnance visant au respect de la loi**
 
@@ -21559,8 +21630,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Amende supplémentaire**
 
-- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le montant de ces avantages.
-> 2001, ch. 9, art. 465.
+- **(3)** Le tribunal peut également, s’il est convaincu que le coupable, son époux, son conjoint de fait ou une autre personne à sa charge a tiré des avantages financiers de l’infraction, infliger au contrevenant malgré le plafond fixé pour l’infraction une amende supplémentaire équivalente à ce qu’il juge être le triple du montant de l’avantage tiré.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 365.
 
 
 
@@ -21616,8 +21687,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Appel**
 
-**1032** Toute décision judiciaire rendue aux termes de la présente loi est susceptible d’appel devant la cour d’appel.
-> 2001, ch. 9, art. 465.
+**1032** 
+
+- **(1)** Toute ordonnance définitive d’un tribunal rendue en vertu de la présente loi est susceptible d’appel devant la cour d’appel de la province.
+
+**Permission d’en appeler**
+
+- **(2)** Toute autre ordonnance d’un tribunal n’est susceptible d’appel que sur permission de la cour d’appel de la province conformément aux règles applicables à celle-ci.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 366.
 
 
 
