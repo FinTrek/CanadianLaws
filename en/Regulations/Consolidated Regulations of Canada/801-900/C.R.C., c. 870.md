@@ -6596,37 +6596,49 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 **B.02.100** [S]. **Wine**
-- **(a)** shall be the product of the alcoholic fermentation of the juice of the grape;
+- **(a)** shall be an alcoholic beverage that is produced by the complete or partial alcoholic fermentation of fresh grapes, grape must, products derived solely from fresh grapes, or any combination of them;
 - **(b)** may have added to it during the course of the manufacture
 	- **(i)** yeast,
 	- **(ii)** concentrated grape juice,
-	- **(iii)** sugar, dextrose, invert sugar, glucose or glucose solids or aqueous solutions thereof,
-	- **(iv)** yeast foods,
+	- **(iii)** dextrose, fructose, glucose or glucose solids, invert sugar, sugar, or aqueous solutions of any of them,
+	- **(iv)** yeast foods, in accordance with Table XIV to section B.16.100,
 	- **(v)** calcium sulphate in such quantity that the content of soluble sulphates in the finished wine shall not exceed 0.2 per cent weight by volume calculated as potassium sulphate,
 	- **(vi)** calcium carbonate in such quantity that the content of tartaric acid in the finished wine shall not be less than 0.15 per cent weight by volume,
 	- **(vii)** sulphurous acid, including salts thereof, in such quantity that its content in the finished wine shall not exceed
 		- **(A)** 70 parts per million in the free state, or
 		- **(B)** 350 parts per million in the combined state, calculated as sulphur dioxide,
-	- **(viii)** tartaric or citric acid,
-	- **(ix)** amylase and pectinase,
-	- **(x)** ascorbic or erythorbic acid or salts thereof,
-	- **(xi)** anti-foaming agent,
-	- **(xii)** any of the following fining agents: activated carbon, agar-agar, albumen, casein, clay, diatomaceous earth, gelatin, isinglass, potassium ferrocyanide, tannic acid, white of egg and polyvinylpyrrolidone in an amount that does not exceed two parts per million in the finished product,
-	- **(xiii)** caramel,
+	- **(viii)** any of the following substances:
+		- **(A)** citric acid, fumaric acid, lactic acid, malic acid, potassium bicarbonate, potassium carbonate, potassium citrate and tartaric acid, at a maximum level of use consistent with good manufacturing practice,
+		- **(B)** metatartaric acid at a maximum level of use of 0.01 per cent, and
+		- **(C)** potassium acid tartrate at a maximum level of use of 0.42 per cent,
+	- **(ix)** amylase and pectinase at a maximum level of use consistent with good manufacturing practice,
+	- **(x)** ascorbic acid or erythorbic acid, or their salts, at a maximum level of use consistent with good manufacturing practice,
+	- **(xi)** antifoaming agents, in accordance with Table VIII to section B.16.100,
+	- **(xii)** any of the following fining agents:
+		- **(A)** activated carbon, albumen, casein, clay, diatomaceous earth, egg white, isinglass, polyvinylpolypyrrolidone and silicon dioxide,
+		- **(B)** acacia gum, agar, gelatin and potassium ferrocyanide, at a maximum level of use consistent with good manufacturing practice,
+		- **(C)** tannic acid at a maximum level of use of 200 parts per million, and
+		- **(D)** polyvinylpyrrolidone in an amount that does not exceed 2 parts per million in the finished product,
+	- **(xiii)** caramel at a maximum level of use consistent with good manufacturing practice,
 	- **(xiv)** brandy, fruit spirit or alcohol derived from the alcoholic fermentation of a food source distilled to not less than 94 per cent alcohol by volume,
-	- **(xv)** carbon dioxide, oxygen or ozone,
-	- **(xvi)** sorbic acid or salts thereof, not exceeding 500 parts per million calculated as sorbic acid, and
-	- **(xvii)** [Repealed, SOR/81-565, s. 1]
+	- **(xv)** any of the following substances:
+		- **(A)** carbon dioxide and ozone at a maximum level of use consistent with good manufacturing practice, and
+		- **(B)** oxygen,
+	- **(xvi)** sorbic acid or salts thereof, not exceeding 500 parts per million calculated as sorbic acid,
+	- **(xvii)** malolactic bacteria from the genera *Lactobacillus*, *Leuconostoc* and *Pediococcus*,
+	- **(xviii)** copper sulphate in such a quantity that the content of copper in the finished product shall not exceed 0.0001 per cent,
+	- **(xix)** nitrogen, and
+	- **(xx)** oak chips and particles; and
 - **(c)** prior to final filtration may be treated with
 	- **(i)** a strongly acid cation exchange resin in the sodium ion form, or
 	- **(ii)** a weakly basic anion exchange resin in the hydroxyl ion form. 
-> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E).
+> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1.
 
 
 
 
-**B.02.101** No person shall sell wine that contains more than 0.13 per cent weight by volume of volatile acidity calculated as acetic acid, as determined by official method FO-2, Determination of Volatile Acidity of Wine, Cider and Champagne Cider, October 15, 1981. 
-> SOR/82-768, s. 2.
+**B.02.101** No person shall sell wine that contains more than 0.24 per cent weight by volume of volatile acidity calculated as acetic acid, as determined by official method FO-2, Determination of Volatile Acidity of Wine, Cider and Champagne Cider, October 15, 1981.
+> SOR/82-768, s. 2; SOR/2006-91, s. 2.
 
 
 
@@ -6746,7 +6758,7 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 #### Beer
 
 
-**B.02.130** [S]. **Beer**
+**B.02.130** **[S]. Beer**
 - **(a)** shall be the product of the alcoholic fermentation by yeast of an infusion of barley or wheat malt and hops or hop extract in potable water and shall be brewed in such a manner as to possess the aroma, taste and character commonly attributed to beer; and
 - **(b)** may have added to it during the course of manufacture any of the following ingredients:
 	- **(i)** cereal grain,
@@ -6767,12 +6779,12 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 	- **(xv)** Class II preservatives,
 	- **(xvi)** sequestering agent,
 	- **(xvii)** yeast foods,
-	- **(xviii)** any of the following filtering and clarifying agents, namely, acacia gum, activated carbon, bentonite, calcium silicate, magnesium silicate, aluminum silicate, cellulose, China clay, Nylon 66, diatomaceous earth, gelatin, isinglass, silica gel, polyvinylpolypyrrolidone or wood shavings derived from oak, beech, hazelnut or cherry wood,
+	- **(xviii)** any of the following fining agents: acacia gum, activated carbon, aluminum silicate, bentonite, calcium silicate, cellulose, China clay, diatomaceous earth, gelatin, isinglass, magnesium silicate, Nylon 66, polyvinylpolypyrrolidone, silica gel and wood shavings derived from beech, cherry, hazelnut and oak wood,
 	- **(xix)** polyvinylpyrrolidone,
 	- **(xx)** ammonium persulphate,
 	- **(xxi)** in the case of wort, dimethylpolysiloxane, and
-	- **(xxii)** in the case of mash, hydrogen peroxide. 
-> SOR/88-418, s. 2; SOR/92-92, s. 1; SOR/96-483, s. 1.
+	- **(xxii)** in the case of mash, hydrogen peroxide.
+> SOR/88-418, s. 2; SOR/92-92, s. 1; SOR/96-483, s. 1; SOR/2006-91, s. 3.
 
 
 
@@ -17911,7 +17923,7 @@ No.
 <td>A.1</td>
 <td>Acacia Gum</td>
 <td>(1)</td>
-<td>Ale; Beer; Cream; French dressing; Light beer; Malt liquor; (naming the flavour) Milk; Mustard pickles; Porter; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Stout</td>
+<td>Cream; French dressing; (naming the flavour) Milk; Mustard pickles; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids;</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -20245,11 +20257,7 @@ Mono Fatty Acid Esters
 </tr>
 <tr>
 <td>T.2</td>
-<td>Tannic Acid</td>
-<td></td>
-<td>Cider; Honey wine; Wine</td>
-<td></td>
-<td>200 p.p.m.</td>
+<td>[Repealed, SOR/2006-91, s. 5]</td>
 </tr>
 <tr>
 <td>T.3</td>
@@ -20374,7 +20382,7 @@ Mono Fatty Acid Esters
 </tr>
 </table>
 
->  SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F)..
+>  SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5..
 
 
 
@@ -21188,7 +21196,7 @@ Mono Fatty Acid Esters
 <tr>
 <td>M.1</td>
 <td>Milk coagulating enzyme</td>
-<td>*Mucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
+<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
 <td>(1)</td>
 <td>Cheese; Cottage Cheese; Sour cream </td>
 <td>(1)</td>
@@ -21736,7 +21744,7 @@ Mono Fatty Acid Esters
 </tr>
 </table>
 
->  SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5; SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 6, 8(F); SOR/2005-394, ss. 1 to 6..
+>  SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5; SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6..
 
 
 
@@ -22186,12 +22194,32 @@ No.
 <th> </th>
 </tr>
 <tr>
+<td>A.01</td>
+<td>Acacia Gum</td>
+<td></td>
+<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout; Wine</td>
+<td></td>
+<td>Fining agent</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>A.1</td>
 <td>Acetylated Monoglycerides</td>
 <td></td>
 <td>Unstandardized foods</td>
 <td></td>
 <td>Coating; Release agent</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>A.1.01</td>
+<td>Agar</td>
+<td></td>
+<td>Wine</td>
+<td></td>
+<td>Fining agent</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22656,6 +22684,16 @@ No.
 <td>50 p.p.m.</td>
 </tr>
 <tr>
+<td>C.17</td>
+<td>Copper Sulphate</td>
+<td></td>
+<td>Wine</td>
+<td></td>
+<td>Fining agent</td>
+<td></td>
+<td>0.0001%, calculated as copper, in the finished product</td>
+</tr>
+<tr>
 <td>D.1</td>
 <td>Dimethylpolysiloxane Formulations</td>
 <td>(1)</td>
@@ -22746,10 +22784,18 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>G.1 and G.2   </td>
-<td>[Repealed, SOR/89-175, s. 2]
-
-</td>
+<td>G.1</td>
+<td>Gelatin</td>
+<td></td>
+<td>Beer; Cider; Wine</td>
+<td></td>
+<td>Fining agent</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>G.2   </td>
+<td>[Repealed, SOR/89-175, s. 2]</td>
 </tr>
 <tr>
 <td>G.2A</td>
@@ -23241,7 +23287,7 @@ No.
 <td>(1)</td>
 <td>Ale; Beer; Cider; Light beer; Malt liquor; Porter; Stout; Wine</td>
 <td>(1)</td>
-<td>Clarifying agent</td>
+<td>Fining agent</td>
 <td>(1)</td>
 <td>2 p.p.m. in the finished product</td>
 </tr>
@@ -23270,6 +23316,16 @@ No.
 <td>Carrier of benzoyl peroxide</td>
 <td></td>
 <td>900 p.p.m., in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+</tr>
+<tr>
+<td>P.4.1</td>
+<td>Potassium Ferrocyanide</td>
+<td></td>
+<td>Wine</td>
+<td></td>
+<td>Fining agent</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5</td>
@@ -23754,12 +23810,22 @@ No.
 <tr>
 <td>T.2</td>
 <td>Tannic Acid</td>
-<td></td>
+<td>(1)</td>
 <td>Chewing gum</td>
-<td></td>
+<td>(1)</td>
 <td>To reduce adhesion</td>
-<td></td>
+<td>(1)</td>
 <td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Cider; Honey wine; Wine</td>
+<td>(2)</td>
+<td>Fining agent</td>
+<td>(2)</td>
+<td>200 p.p.m</td>
 </tr>
 <tr>
 <td>T.2A</td>
@@ -23795,7 +23861,7 @@ No.
 </tr>
 </table>
 
->  SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1; SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3..
+>  SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1; SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12..
 
 
 
@@ -24750,6 +24816,14 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Wine</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>G.1</td>
 <td>Gluconic Acid</td>
 <td></td>
@@ -24809,6 +24883,14 @@ No.
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Wine</td>
+<td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -24930,12 +25012,28 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Wine</td>
+<td>(5)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>M.8A</td>
 <td>Manganese Sulphate</td>
 <td></td>
 <td>Bacterial cultures</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>M.9</td>
+<td>Metatartaric Acid</td>
+<td></td>
+<td>Wine</td>
+<td></td>
+<td>0.01%</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -24982,6 +25080,14 @@ No.
 <td>Unstandardized foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Wine</td>
+<td>(3)</td>
+<td>0.42%</td>
 </tr>
 <tr>
 <td>P.3</td>
@@ -25046,6 +25152,14 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Wine</td>
+<td>(7)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>P.5</td>
 <td>Potassium Carbonate</td>
 <td>(1)</td>
@@ -25078,6 +25192,14 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Wine</td>
+<td>(6)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>P.6</td>
 <td>Potassium Chloride</td>
 <td></td>
@@ -25103,6 +25225,14 @@ No.
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Wine</td>
+<td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -25553,7 +25683,7 @@ No.
 </tr>
 </table>
 
->  SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3..
+>  SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20..
 
 
 
