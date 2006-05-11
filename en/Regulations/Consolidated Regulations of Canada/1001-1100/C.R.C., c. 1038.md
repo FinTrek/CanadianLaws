@@ -386,11 +386,11 @@ Enabling authorities:
 - **(b)** has a minimum wheel rim diameter of 250 mm, and
 - **(c)** has a minimum wheelbase of 1 016 mm,
 
-but does not include a power-assisted bicycle, a restricted-use motorcycle, a low-speed vehicle, a passenger car, a truck, a multipurpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
+but does not include a power-assisted bicycle, a restricted-use motorcycle, a low-speed vehicle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
 
 ***motor driven cycle***[Repealed, SOR/88-268, s. 1]
 
-***motor home*** means a multipurpose passenger vehicle that is designed to provide temporary residential accommodations, as evidenced by the presence of at least four of the following:
+***motor home*** means a multi-purpose passenger vehicle that is designed to provide temporary residential accommodations, as evidenced by the presence of at least four of the following:
 - **(a)** cooking facilities,
 - **(b)** a refrigerator or ice box,
 - **(c)** a self-contained toilet,
@@ -417,7 +417,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
 
-***multipurpose passenger vehicle*** means a vehicle having a designated seating capacity of 10 or less that is constructed either on a truck chassis or with special features for occasional off-road operation, but does not include an air cushion vehicle, an all-terrain vehicle, a golf cart, a low-speed vehicle, a passenger car, a three-wheeled vehicle, a truck or a vehicle imported temporarily for special purposes; (*véhicule de tourisme à usages multiples*)
+***multi-purpose passenger vehicle*** means a vehicle having a designated seating capacity of 10 or less that is constructed either on a truck chassis or with special features for occasional off-road operation, but does not include an air cushion vehicle, an all-terrain vehicle, a golf cart, a low-speed vehicle, a passenger car, a three-wheeled vehicle, a truck or a vehicle imported temporarily for special purposes; (*véhicule de tourisme à usages multiples*)
 
 ***non-locking retractor*** means a retractor that does not have a locking mechanism, from which the webbing can be extended to substantially its full length by a small external force, that provides no adjustment for assembly length and that need not be capable of sustaining restraint forces at maximum webbing extension; (*rétracteur sans blocage*)
 
@@ -471,7 +471,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***parking mechanism***[Repealed, SOR/99-357, s. 1]
 
-***passenger car*** means a vehicle having a designated seating capacity of 10 or less, but does not include an all-terrain vehicle, a competition vehicle, a low-speed vehicle, a multipurpose passenger vehicle, an antique reproduction vehicle, a motorcycle, a truck, a trailer, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*voiture de tourisme*)
+***passenger car*** means a vehicle having a designated seating capacity of 10 or less, but does not include an all-terrain vehicle, a competition vehicle, a low-speed vehicle, a multi-purpose passenger vehicle, an antique reproduction vehicle, a motorcycle, a truck, a trailer, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*voiture de tourisme*)
 
 ***passive occupant protection***[Repealed, SOR/93-5, s. 1]
 
@@ -710,8 +710,8 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 ***work vehicle*** means a vehicle designed primarily for the performance of work in the construction of works of civil engineering and in maintenance, that is not constructed on a truck-chassis or truck-type chassis, but does not include a tractor or any vehicle designed primarily to be drawn behind another vehicle. (*véhicule de travail*)
 
-- **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 5.1.32, 5.2.31 and 5.4.26 of SAE Recommended Practice J1100 (June 1993), in a passenger car, truck or multipurpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions, unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-50, s. 1; SOR/2005-45, s. 1.
+- **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 5.1.32, 5.2.31 and 5.4.26 of SAE Recommended Practice J1100 (June 1993), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions, unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E).
 
 
 
@@ -829,7 +829,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 	- **(b)** the month and year the manufacture of the completed vehicle was complete;
 	- **(c)** a drawing at least 13 mm in diameter depicting the national safety mark, as set out in Schedule I, and showing in its centre, in figures at least 2 mm in height, the authorization number assigned by the Minister to the company pursuant to section 3;
 	- **(d)** the vehicle identification number;
-	- **(e)** in the case of a passenger car, multipurpose passenger vehicle, low-speed vehicle, three-wheeled vehicle, truck, bus, trailer, trailer converter dolly or motorcycle,
+	- **(e)** in the case of a passenger car, multi-purpose passenger vehicle, low-speed vehicle, three-wheeled vehicle, truck, bus, trailer, trailer converter dolly or motorcycle,
 		- **(i)** the gross vehicle weight rating, expressed in kilograms, clearly identified by the words “Gross Vehicle Weight Rating” and “*Poids nominal brut du véhicule*” or the abbreviations “GVWR” and “PNBV”, and
 		- **(ii)** the gross axle weight rating, expressed in kilograms, for each axle of the vehicle listed in order from front to rear and clearly identified by the words “Gross Axle Weight Ratings” and “*Poids nominal brut sur l’essieu*” or the abbreviations “GAWR” and “PNBE”, unless the information is set out in the placard referred to in section 110 of Schedule IV or the label referred to in section 120 of Schedule IV;
 	- **(f)** the type of vehicle, in both official languages, or the word “TYPE” along with one of the following abbreviations, namely,
@@ -846,7 +846,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 		- **(ix.1)** “LSV/VBV” to refer to a low-speed vehicle,
 		- **(x)** “MH/AC” to refer to a motor home,
 		- **(xi)** “MC” to refer to an open motorcycle,
-		- **(xii)** “MPV/VTUM” to refer to a multipurpose passenger vehicle,
+		- **(xii)** “MPV/VTUM” to refer to a multi-purpose passenger vehicle,
 		- **(xiii)** “PC/VT” to refer to a passenger car,
 		- **(xiv)** “RUM/MUR” to refer to a restricted-use motorcycle,
 		- **(xv)** “SB/AS” to refer to a school bus,
@@ -882,7 +882,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 
 - **(3)** The compliance label shall be applied
-	- **(a)** in the case of a bus, multipurpose passenger vehicle, three-wheeled vehicle, passenger car, truck or low-speed vehicle,
+	- **(a)** in the case of a bus, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car, truck or low-speed vehicle,
 		- **(i)** to the hinge pillar, door latch post or the door edge that meets the door latch post next to the driver’s seating position,
 		- **(ii)** to the left side of the instrument panel or the inward-facing surface of the door next to the driver’s seating position, where it is impracticable to apply the label in accordance with subparagraph (i), or
 		- **(iii)** to a conspicuous and readily accessible location, where it is impracticable to apply the label in accordance with subparagraph (i) or (ii);
@@ -892,7 +892,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 - **(4) to (7)** [Repealed, SOR/2002-55, s. 4]
 
-- **(8)** In the case of a multipurpose passenger vehicle or bus manufactured from a cutaway chassis, a motor home or a recreational trailer, the compliance label shall display the following information in both official languages:
+- **(8)** In the case of a multi-purpose passenger vehicle or bus manufactured from a cutaway chassis, a motor home or a recreational trailer, the compliance label shall display the following information in both official languages:
 	- **(a)** the cargo-carrying capacity of the vehicle, expressed in kilograms;
 	- **(b)** the designated seating capacity, except in the case of a recreational trailer;
 	- **(c)** in the case of a motor home, the total mass of the occupants, expressed in kilograms, that is obtained by multiplying the designated seating capacity by 70 kg; and
@@ -911,7 +911,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 	- **(b)** the short title of the exemption order.
 
 - **(12) and (13)** [Repealed, SOR/2000-182, s. 2]
-> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1.
+> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1; SOR/2006-94, s. 4(E).
 
 
 
@@ -1089,12 +1089,12 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 		- **(iii)** the drawing referred to in paragraph 6(1)(c),
 		- **(iv)** in accordance with paragraph 6(1)(e), the new gross vehicle weight rating and gross axle weight ratings of the vehicle as altered, where they differ from those shown on the original compliance label,
 		- **(v)** in accordance with paragraph 6(1)(f), the type of vehicle, where it differs from the type shown on the original compliance label, and
-		- **(vi)** in the case of a multipurpose passenger vehicle or bus manufactured from a cutaway chassis, a motor home or a recreational trailer, the information referred to in subsection 6(8).
+		- **(vi)** in the case of a multi-purpose passenger vehicle or bus manufactured from a cutaway chassis, a motor home or a recreational trailer, the information referred to in subsection 6(8).
 
 - **(2)** The drawing referred to in paragraph (1)(c) may be displayed on a label applied to the vehicle beside the compliance label.
 
 - **(3)** In the case of a motor home or a recreational trailer, the information referred to in subparagraph (1)(c)(vi) may be displayed on a separate label applied to the vehicle beside the compliance label or in a conspicuous or readily accessible location.
-> SOR/90-805, s. 2; SOR/91-425, s. 3; SOR/92-173, ss. 2, 5; SOR/95-147, s. 2; SOR/98-125, s. 5; SOR/2002-55, s. 8.
+> SOR/90-805, s. 2; SOR/91-425, s. 3; SOR/92-173, ss. 2, 5; SOR/95-147, s. 2; SOR/98-125, s. 5; SOR/2002-55, s. 8; SOR/2006-94, s. 4(E).
 
 
 
@@ -1170,7 +1170,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 	- **(a)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, the vehicle was manufactured by a company to conform to the applicable United States federal laws on the date of manufacture, as shown on the American compliance labels on the vehicle or on a written statement from each company that manufactured the vehicle;
 	- **(a.1)** in the case of a snowmobile, the vehicle was manufactured by a company to conform, on the date of manufacture, to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc., as shown on the certification label on the snowmobile or on a written statement from the company that manufactured the snowmobile;
 	- **(b)** any defect in the vehicle’s construction, design or functioning, or in the construction, design or functioning of its components, that was the subject of a notice of defect or nonconformity under United States federal laws was corrected;
-	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multipurpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
+	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
 	- **(d)** in the case of a school bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 222 of Schedule IV;
 	- **(d.1)** in the case of a restricted-use motorcycle, the vehicle is designed to travel on two or four wheels;
 	- **(e)** where the person is importing the vehicle for sale or for any commercial, industrial, occupational, institutional or other like use, the vehicle is imported at a customs office designated in Schedule VIII; and
@@ -1203,7 +1203,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 	- **(b)** the month and year during which the alteration of the vehicle was completed;
 	- **(c)** a statement that all the necessary alterations have been made to make the vehicle conform to the applicable standards prescribed under these Regulations at the time the main assembly of the vehicle was completed;
 	- **(d)** the vehicle identification number; and
-	- **(e)** in the case of a passenger car, truck, multipurpose passenger vehicle, low-speed vehicle, bus, trailer, trailer converter dolly, motorcycle or three-wheeled vehicle,
+	- **(e)** in the case of a passenger car, truck, multi-purpose passenger vehicle, low-speed vehicle, bus, trailer, trailer converter dolly, motorcycle or three-wheeled vehicle,
 		- **(i)** the gross vehicle weight rating of the vehicle expressed in kilograms, and
 		- **(ii)** the gross axle weight rating for each axle of the vehicle, expressed in kilograms and listed in order from front to rear.
 
@@ -1218,7 +1218,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 		- **(iii)** in block capitals and numerals not less than 2 mm in height.
 
 - **(10)** Where any compliance label referred to in paragraph (3)(a) is not applied to the vehicle, a statement that indicates that the vehicle was manufactured to conform to the applicable United States federal laws on the date of manufacture shall be displayed on the label referred to in subsection (8) or on a label applied beside that compliance label.
-> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5.
+> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5; SOR/2006-94, s. 4(E).
 
 
 
@@ -2723,7 +2723,7 @@ _________________________
 
 ***seating reference point***[Repealed, SOR/80-161, s. 3]
 
-***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multipurpose passenger vehicle; (*semi-remorque*)
+***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*)
 
 ***torso line*** means the line connecting the H-point and the shoulder reference point as defined in SAE Recommended Practice J787b Motor Vehicle Seat Belt Anchorage, (September 1966); (*ligne de torse*)
 
@@ -2736,7 +2736,7 @@ _________________________
 ***95th percentile adult male*** means a person having as physical characteristics a weight of 97.5 kg (215 lb.), height of 1849.1 mm (72.8 in.), erect sitting height of 965.2 mm (38 in.), normal sitting height of 929.6 mm (36.6 in.), hip sitting breadth of 419.1 mm (16.5 in.), hip sitting circumference of 1198.9 mm (47.2 in.), waist sitting circumference of 1079.5 mm (42.5 in.), chest depth of 266.7 mm (10.5 in.), chest circumference of 1130.3 mm (44.5 in.), knee height of 594.4 mm (23.4 in.), popliteal height of 490.2 mm (19.3 in.), elbow rest height of 294.6 mm (11.6 in.), thigh clearance height of 175.3 mm (6.9 in.), buttock-to-knee length of 640.1 mm (25.2 in.), buttock-to-poples length of 548.6 mm (21.6 in.), elbow-to-elbow breadth of 505.5 mm (19.9 in.) and seat breadth of 403.9 mm (15.9 in.). (*95<sup>e</sup> percentile adulte du sexe masculin*) 
 
 
-> SOR/80-161, s. 3; SOR/86-453, s. 1; SOR/87-154, s. 2; SOR/90-588, s. 2; SOR/93-5, s. 2; SOR/94-291, s. 3; SOR/94-692, s. 2; SOR/97-447, s. 3..
+> SOR/80-161, s. 3; SOR/86-453, s. 1; SOR/87-154, s. 2; SOR/90-588, s. 2; SOR/93-5, s. 2; SOR/94-291, s. 3; SOR/94-692, s. 2; SOR/97-447, s. 3; SOR/2006-94, s. 4(E)..
 
 
 **PART II** 
@@ -3654,7 +3654,7 @@ choix du fabricant
 
 
 
-**(2.1)** If a passenger car, multipurpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and a transmission control sequence that includes a park position, the transmission control must not be capable of shifting from the park position to the forward or reverse drive position — while a motor used for the vehicle’s propulsion is in use — unless the service brake pedal is depressed or the service brakes are otherwise engaged.
+**(2.1)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and a transmission control sequence that includes a park position, the transmission control must not be capable of shifting from the park position to the forward or reverse drive position — while a motor used for the vehicle’s propulsion is in use — unless the service brake pedal is depressed or the service brakes are otherwise engaged.
 
 
 
@@ -3682,7 +3682,7 @@ choix du fabricant
 
 
 
-**(7)** If a passenger car, multipurpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and is equipped with a manual transmission, a motor used for the vehicle’s propulsion must not be started by setting the ignition switch to the position used to start the motor unless the clutch pedal is depressed or the drive train is otherwise disengaged.
+**(7)** If a passenger car, multi-purpose passenger vehicle, truck or three-wheeled vehicle has a GVWR of 4 536 kg or less and is equipped with a manual transmission, a motor used for the vehicle’s propulsion must not be started by setting the ignition switch to the position used to start the motor unless the clutch pedal is depressed or the drive train is otherwise disengaged.
 
 
 
@@ -3691,7 +3691,7 @@ choix du fabricant
 
 
 
-> SOR/95-164, s. 4; SOR/97-421, ss. 4, 22(F); SOR/2003-189, s. 1; SOR/2003-272, s. 34..
+> SOR/95-164, s. 4; SOR/97-421, ss. 4, 22(F); SOR/2003-189, s. 1; SOR/2003-272, s. 34; SOR/2006-94, s. 4(E)..
 
 
 ### Windshield Defrosting and Defogging
@@ -3856,7 +3856,7 @@ choix du fabricant
 
 
 
-**(b)** in the case of a multipurpose passenger vehicle, truck or bus, by the words “the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing”.
+**(b)** in the case of a multi-purpose passenger vehicle, truck or bus, by the words “the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing”.
 
 
 
@@ -4135,7 +4135,7 @@ choix du fabricant
 
 
 
->  SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9..
+>  SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9; SOR/2006-94, s. 4(E)..
 
 
 ### Hydraulic and Electric Brake Systems (Standard 105)
@@ -5419,7 +5419,7 @@ Expiry Date
 
 **108** 
 
-**(1)** Except as otherwise provided by this section, every passenger car, multipurpose passenger vehicle, motorcycle, truck, trailer and bus shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment, as amended from time to time (hereinafter referred to as TSD 108).
+**(1)** Except as otherwise provided by this section, every passenger car, multi-purpose passenger vehicle, motorcycle, truck, trailer and bus shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment, as amended from time to time (hereinafter referred to as TSD 108).
 
 
 
@@ -5681,7 +5681,7 @@ Headlighting Requirements — Section S7 of TSD 108
 
 
 
-**(26)** Despite section S5.1.1 of TSD 108, sections S7.3.7(a) and S7.3.8(a) of TSD 108 do not apply to the headlamps on a bus, truck, multipurpose passenger vehicle, passenger car or three-wheeled vehicle.
+**(26)** Despite section S5.1.1 of TSD 108, sections S7.3.7(a) and S7.3.8(a) of TSD 108 do not apply to the headlamps on a bus, truck, multi-purpose passenger vehicle, passenger car or three-wheeled vehicle.
 
 
 
@@ -5717,7 +5717,7 @@ Headlighting Requirements — Section S7 of TSD 108
 
 
 
-**(40)** Every front fog lamp assembly or auxiliary front lamp assembly that may be switched on simultaneously with the low beam headlamps on a bus, truck, multipurpose passenger vehicle, passenger car or three-wheeled vehicle shall
+**(40)** Every front fog lamp assembly or auxiliary front lamp assembly that may be switched on simultaneously with the low beam headlamps on a bus, truck, multi-purpose passenger vehicle, passenger car or three-wheeled vehicle shall
 
 **(a)** in the case of a lamp assembly that has a mechanism that allows adjustment of the vertical and horizontal aim, conform to sections S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108; and
 
@@ -5753,7 +5753,7 @@ General
 
 
 
-**(44)** Every bus, multipurpose passenger vehicle, passenger car, three-wheeled vehicle and truck shall be equipped with two daytime running lamps or, where the daytime running lamps are optically combined with the upper beams of the headlamps, with two or four daytime running lamps.
+**(44)** Every bus, multi-purpose passenger vehicle, passenger car, three-wheeled vehicle and truck shall be equipped with two daytime running lamps or, where the daytime running lamps are optically combined with the upper beams of the headlamps, with two or four daytime running lamps.
 
 
 
@@ -5984,7 +5984,7 @@ Date of Expiration
 **(66)** This section expires on January 1, 2010.
 
 
->  SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2..
+>  SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E)..
 
 
 
@@ -5996,7 +5996,7 @@ Date of Expiration
 
 **108.1** 
 
-**(1)** As an alternative to the headlamps required by section 108 of this Schedule, passenger cars, multipurpose passenger vehicles, buses and trucks may be equipped with headlamps that emit white light and that
+**(1)** As an alternative to the headlamps required by section 108 of this Schedule, passenger cars, multi-purpose passenger vehicles, buses and trucks may be equipped with headlamps that emit white light and that
 
 **(a)** comply with
 
@@ -6139,7 +6139,7 @@ Date of Expiration
 **(7)** [Repealed, SOR/91-692, s. 3]
 
 
-> SOR/79-305, s. 2; SOR/79-940, s. 7; SOR/84-812, s. 4; SOR/91-692, s. 3; SOR/94-670, s. 2(F); SOR/96-366, s. 7; SOR/99-112, s. 2; SOR/99-426, s. 2; SOR/2001-60, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 11; SOR/2003-294, s. 1..
+> SOR/79-305, s. 2; SOR/79-940, s. 7; SOR/84-812, s. 4; SOR/91-692, s. 3; SOR/94-670, s. 2(F); SOR/96-366, s. 7; SOR/99-112, s. 2; SOR/99-426, s. 2; SOR/2001-60, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 11; SOR/2003-294, s. 1; SOR/2006-94, s. 4(E)..
 
 
 
@@ -6676,7 +6676,7 @@ Other Vehicles
 
 
 
-**(26)** Every multipurpose passenger vehicle, truck and bus, with a GVWR of 4 536 kg (10,000 pounds) or less, other than a school bus, shall have
+**(26)** Every multi-purpose passenger vehicle, truck and bus, with a GVWR of 4 536 kg (10,000 pounds) or less, other than a school bus, shall have
 
 **(a)** the following rearview mirrors, namely,
 
@@ -6700,7 +6700,7 @@ Other Vehicles
 
 
 
-**(27)** Every multipurpose passenger vehicle, truck and bus with a GVWR of more than 4 536 kg (10,000 pounds), other than a school bus, shall have on each side of the vehicle an outside rearview mirror of which not less than 325 cm<sup>2</sup> (50 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
+**(27)** Every multi-purpose passenger vehicle, truck and bus with a GVWR of more than 4 536 kg (10,000 pounds), other than a school bus, shall have on each side of the vehicle an outside rearview mirror of which not less than 325 cm<sup>2</sup> (50 square inches) of reflective surface area is located so as to provide the driver with a view to the rear along both sides of the vehicle.
 
 
 
@@ -6737,7 +6737,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-463, S. 2
 
 
 
->  SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14..
+>  SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E)..
 
 
 **111.1** [Repealed, SOR/87-658, s. 2]
@@ -6975,7 +6975,7 @@ Immobilization System
 
 
 
-**(c)** in the case of a passenger car, three-wheeled vehicle, multipurpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less, be
+**(c)** in the case of a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less, be
 
 **(i)** composed of characters having a minimum height of 4 mm,
 
@@ -7041,7 +7041,7 @@ Immobilization System
 
 **(b)** the fourth to eighth characters, inclusive, shall uniquely identify the decipherable information for the vehicle as set out in Column II of Table I, except that
 
-**(i)** the fourth and fifth characters shall be alphabetic and the sixth and seventh characters shall be numeric for a passenger car, three-wheeled vehicle, multipurpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less,
+**(i)** the fourth and fifth characters shall be alphabetic and the sixth and seventh characters shall be numeric for a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less,
 
 
 
@@ -7075,7 +7075,7 @@ Immobilization System
 
 
 
-**(h)** the fourteenth to seventeenth characters, inclusive, shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a passenger car, three-wheeled vehicle, multipurpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less.
+**(h)** the fourteenth to seventeenth characters, inclusive, shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less.
 
 
 
@@ -7152,7 +7152,7 @@ Immobilization System
 </tr>
 <tr>
 <td>2</td>
-<td>Multipurpose passenger vehicle</td>
+<td>Multi-purpose passenger vehicle</td>
 <td>Line, series, body type, engine type and gross vehicle weight rating</td>
 </tr>
 <tr>
@@ -7571,7 +7571,7 @@ Immobilization System
 
 
 
->  SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3..
+>  SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E)..
 
 
 ### Hydraulic Brake Fluids
@@ -8020,7 +8020,7 @@ Immobilization System
 
 **118** 
 
-**(1)** A power-operated window, power-operated partition or power-operated roof panel fitted on an enclosed motorcycle, passenger car, three-wheeled vehicle, multipurpose passenger vehicle or truck having a GVWR of not more than 4 536 kg may be closed only
+**(1)** A power-operated window, power-operated partition or power-operated roof panel fitted on an enclosed motorcycle, passenger car, three-wheeled vehicle, multi-purpose passenger vehicle or truck having a GVWR of not more than 4 536 kg may be closed only
 
 **(a)** where the ignition switch is in the ON, START or ACCESSORY position;
 
@@ -8117,7 +8117,7 @@ Immobilization System
 
 
 
-> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16..
+> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E)..
 
 
 ### Tire Selection and Rims for Vehicles Other Than Passenger Cars
@@ -8125,7 +8125,7 @@ Immobilization System
 
 **120** 
 
-**(1)** Subject to subsection (5), the tires of every bus, motorcycle, multipurpose passenger vehicle, three-wheeled vehicle, trailer, trailer converter dolly and truck shall meet the requirements of the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md).
+**(1)** Subject to subsection (5), the tires of every bus, motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, trailer, trailer converter dolly and truck shall meet the requirements of the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md).
 
 
 
@@ -8153,7 +8153,7 @@ Immobilization System
 
 
 
-**(4)** For the purpose of determining the sum referred to in subsection (3), where a bus, multipurpose passenger vehicle, trailer, trailer converter dolly or truck is equipped with a passenger car tire, the maximum load rating of that tire shall be divided by a factor of 1.10.
+**(4)** For the purpose of determining the sum referred to in subsection (3), where a bus, multi-purpose passenger vehicle, trailer, trailer converter dolly or truck is equipped with a passenger car tire, the maximum load rating of that tire shall be divided by a factor of 1.10.
 
 
 
@@ -8326,7 +8326,7 @@ Immobilization System
 
 
 
-> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3..
+> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E)..
 
 
 ### Air Brake Systems (Standard 121)
@@ -8864,11 +8864,11 @@ Expiry Date
 
 
 
-**(2.1)** Until August 31, 2002, every multipurpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less may conform to section 105 of this schedule or to TSD 135.
+**(2.1)** Until August 31, 2002, every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less may conform to section 105 of this schedule or to TSD 135.
 
 
 
-**(2.2)** On and after September 1, 2002, every multipurpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less shall conform to TSD 135.
+**(2.2)** On and after September 1, 2002, every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less shall conform to TSD 135.
 
 
 
@@ -8913,7 +8913,7 @@ Date of Expiration
 
 
 
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13..
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E)..
 
 
 **PART III** 
@@ -8957,7 +8957,7 @@ Date of Expiration
 
 
 
-**(2)** This section applies to passenger cars and to multipurpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg (10,000 pounds) or less.
+**(2)** This section applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg (10,000 pounds) or less.
 
 
 
@@ -9146,7 +9146,7 @@ Date of Expiration
 
 
 
-> SOR/83-138, s. 2; SOR/86-453, s. 2; SOR/92-689, s. 1; SOR/94-374, s. 5(F); SOR/94-692, s. 2(F); SOR/97-447, s. 4..
+> SOR/83-138, s. 2; SOR/86-453, s. 2; SOR/92-689, s. 1; SOR/94-374, s. 5(F); SOR/94-692, s. 2(F); SOR/97-447, s. 4; SOR/2006-94, s. 4(E)..
 
 
 ### Head Restraints
@@ -9158,7 +9158,7 @@ Date of Expiration
 
 
 
-**(2)** A head restraint shall be provided at each front outboard designated seating position in a multipurpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, a three-wheeled vehicle and a passenger car that
+**(2)** A head restraint shall be provided at each front outboard designated seating position in a multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, a three-wheeled vehicle and a passenger car that
 
 **(a)** when tested during a forward acceleration of not less than 8 g on the seat supporting structure, limits rearward angular displacement of the head reference line to 45° from the torso reference line; or
 
@@ -9259,7 +9259,7 @@ Date of Expiration
 
 
 
-> SOR/95-60, s. 2; SOR/2003-272, s. 21..
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E)..
 
 
 ### Driver Impact Protection
@@ -9271,7 +9271,7 @@ Date of Expiration
 
 
 
-**(2)** Subsection (1) does not apply to vehicles that meet the frontal crash requirements of section 208 by means other than seat belt assemblies or to trucks, multipurpose passenger vehicles or buses with a GVWR greater than 4 536 kg (10,000 pounds) or to walk-in vans.
+**(2)** Subsection (1) does not apply to vehicles that meet the frontal crash requirements of section 208 by means other than seat belt assemblies or to trucks, multi-purpose passenger vehicles or buses with a GVWR greater than 4 536 kg (10,000 pounds) or to walk-in vans.
 
 
 
@@ -9280,7 +9280,7 @@ Date of Expiration
 
 
 
-> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17..
+> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E)..
 
 
 ### Steering Column Rearward Displacement
@@ -9294,7 +9294,7 @@ Date of Expiration
 
 
 
-**(b)** any truck, multipurpose passenger vehicle or bus
+**(b)** any truck, multi-purpose passenger vehicle or bus
 
 **(i)** with a gross vehicle weight rating that is greater than 4 536 kg, or
 
@@ -9345,7 +9345,7 @@ Date of Expiration
 
 
 
-> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F)..
+> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E)..
 
 
 ### Glazing Materials
@@ -9353,7 +9353,7 @@ Date of Expiration
 
 **205** 
 
-**(1)** For the purposes of this section, ***bus***, ***motorhome***, ***multipurpose passenger vehicle***, ***passenger car***, ***readily removable windows***, ***trailer***, and ***truck*** in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
+**(1)** For the purposes of this section, ***bus***, ***motorhome***, ***multi-purpose passenger vehicle***, ***passenger car***, ***readily removable windows***, ***trailer***, and ***truck*** in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
 
 
 
@@ -9369,7 +9369,7 @@ Date of Expiration
 
 
 
-**(5)** Any glazing material for use in a multipurpose passenger vehicle shall meet the requirements specified in the ANSI Z26 Safety Standard — 1996 for glazing material for use in trucks.
+**(5)** Any glazing material for use in a multi-purpose passenger vehicle shall meet the requirements specified in the ANSI Z26 Safety Standard — 1996 for glazing material for use in trucks.
 
 
 
@@ -9430,7 +9430,7 @@ Date of Expiration
 
 
 
-> SOR/82-656, s. 4; SOR/84-336, s. 1; SOR/86-161, s. 2; SOR/88-268, s. 11; SOR/93-5, s. 3(F); SOR/94-670, s. 2(F); SOR/94-717, s. 2; SOR/2002-55, s. 16; SOR/2002-187, s. 2; SOR/2003-272, s. 22; SOR/2004-250, s. 4..
+> SOR/82-656, s. 4; SOR/84-336, s. 1; SOR/86-161, s. 2; SOR/88-268, s. 11; SOR/93-5, s. 3(F); SOR/94-670, s. 2(F); SOR/94-717, s. 2; SOR/2002-55, s. 16; SOR/2002-187, s. 2; SOR/2003-272, s. 22; SOR/2004-250, s. 4; SOR/2006-94, s. 4(E)..
 
 
 ### Door Locks and Door Retention Components (Standard 206)
@@ -9438,7 +9438,7 @@ Date of Expiration
 
 **206** 
 
-**(1)** Every enclosed motorcycle, multipurpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with Technical Standards Document No. 206, Door Locks and Door Retention Components, as amended from time to time (hereinafter referred to as TSD 206).
+**(1)** Every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with Technical Standards Document No. 206, Door Locks and Door Retention Components, as amended from time to time (hereinafter referred to as TSD 206).
 
 
 
@@ -9455,7 +9455,7 @@ Date of Expiration
 
 
 
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8..
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E)..
 
 
 ### Anchorage of Seats
@@ -9585,7 +9585,7 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 
 
 
-**(2)** Subject to subsections (3) and (4), every passenger car and three-wheeled vehicle and every truck, bus or multipurpose passenger vehicle with a GVWR of 4 536 kg or less, other than a school bus or motor home, shall be equipped at each forward-facing rear outboard designated seating position with a Type 2 manual seat belt assembly that
+**(2)** Subject to subsections (3) and (4), every passenger car and three-wheeled vehicle and every truck, bus or multi-purpose passenger vehicle with a GVWR of 4 536 kg or less, other than a school bus or motor home, shall be equipped at each forward-facing rear outboard designated seating position with a Type 2 manual seat belt assembly that
 
 **(a)** has a non-detachable upper torso restraint; and
 
@@ -9649,7 +9649,7 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 
 
 
-**(9)** A truck or multipurpose passenger vehicle that has a GVWR greater than 4 536 kg
+**(9)** A truck or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg
 
 **(a)** may be equipped at each front outboard designated seating position with a Type 1 manual seat belt assembly; and
 
@@ -9669,7 +9669,7 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 
 
 
-**(11)** Where a Type 1 manual seat belt assembly or the pelvic restraint portion of a Type 2 manual seat belt assembly is installed at a front outboard designated seating position of a truck, bus or multipurpose passenger vehicle that has a GVWR greater than 4 536 kg, the seat belt assembly shall be capable of adjustment by means of an emergency-locking retractor or an automatic-locking retractor.
+**(11)** Where a Type 1 manual seat belt assembly or the pelvic restraint portion of a Type 2 manual seat belt assembly is installed at a front outboard designated seating position of a truck, bus or multi-purpose passenger vehicle that has a GVWR greater than 4 536 kg, the seat belt assembly shall be capable of adjustment by means of an emergency-locking retractor or an automatic-locking retractor.
 
 
 
@@ -9793,7 +9793,7 @@ Crash Protection Requirements
 
 
 
-**(21)** Every passenger car and every truck, bus or multipurpose passenger vehicle that has a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, other than a vehicle manufactured for operation by persons with disabilities, shall comply with the crash protection requirements set out in subsection (22).
+**(21)** Every passenger car and every truck, bus or multi-purpose passenger vehicle that has a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, other than a vehicle manufactured for operation by persons with disabilities, shall comply with the crash protection requirements set out in subsection (22).
 
 
 
@@ -9886,7 +9886,7 @@ Air Bags
 
 
 
-**(25)** Passenger cars, three-wheeled vehicles, trucks, buses and multipurpose passenger vehicles may be equipped with a manual air bag cut-off switch to deactivate an air bag installed at the right front outboard designated seating position if
+**(25)** Passenger cars, three-wheeled vehicles, trucks, buses and multi-purpose passenger vehicles may be equipped with a manual air bag cut-off switch to deactivate an air bag installed at the right front outboard designated seating position if
 
 **(a)** the vehicle has no forward-facing designated seating position to the rear of the front designated seating positions; or
 
@@ -10102,7 +10102,7 @@ Transitional Provisions
 
 
 
-**(41)** Trucks, buses and multipurpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less and that are manufactured before September 1, 1998 need not comply with the requirement of subsection (21).
+**(41)** Trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less and that are manufactured before September 1, 1998 need not comply with the requirement of subsection (21).
 
 
 
@@ -10110,12 +10110,12 @@ Transitional Provisions
 
 
 
-**(43)** Passenger cars manufactured before September 1, 1999, and trucks, buses and multipurpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, manufactured on or after September 1, 1998 but before September 1, 2000, need not comply with paragraph (22)(c) if, during the test referred to in subsection (23), a compression deflection of the sternum relative to the upper thorax portion of the spine of each anthropomorphic test device does not exceed 65 mm.
+**(43)** Passenger cars manufactured before September 1, 1999, and trucks, buses and multi-purpose passenger vehicles that have a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less, manufactured on or after September 1, 1998 but before September 1, 2000, need not comply with paragraph (22)(c) if, during the test referred to in subsection (23), a compression deflection of the sternum relative to the upper thorax portion of the spine of each anthropomorphic test device does not exceed 65 mm.
 
 
 
 
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E)..
 
 
 ### Seat Belt Assemblies
@@ -10769,12 +10769,12 @@ Information Respecting Restraint Systems
 
 
 
-**(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multipurpose passenger vehicle or truck with a GVWR of not more than 4 536 kg and rear designated seating positions shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
+**(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle or truck with a GVWR of not more than 4 536 kg and rear designated seating positions shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
 
 
 
 
-> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25..
+> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E)..
 
 
 ### User-ready Tether Anchorages for Restraint Systems (Standard 210.1)
@@ -10785,7 +10785,7 @@ Information Respecting Restraint Systems
 
 **210.1** 
 
-**(1)** Subject to subsection (2), this section applies to every passenger car, every three-wheeled vehicle and every multipurpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less.
+**(1)** Subject to subsection (2), this section applies to every passenger car, every three-wheeled vehicle and every multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less.
 
 
 
@@ -10877,7 +10877,7 @@ Tether Anchorage Positioning
 
 
 
-**(6)** Until September 1, 2004, the portion of each user-ready tether anchorage that is designed to bind with the tether strap hook may be located, in a passenger car, three-wheeled vehicle or multipurpose passenger vehicle, within the shaded zone, as shown in Figures 8 to 11, of the designated seating position for which it is installed, with reference to the shoulder reference point of a template described in section 3.1 of SAE Standard J826 (June 1992), if
+**(6)** Until September 1, 2004, the portion of each user-ready tether anchorage that is designed to bind with the tether strap hook may be located, in a passenger car, three-wheeled vehicle or multi-purpose passenger vehicle, within the shaded zone, as shown in Figures 8 to 11, of the designated seating position for which it is installed, with reference to the shoulder reference point of a template described in section 3.1 of SAE Standard J826 (June 1992), if
 
 **(a)** the H-point of the template is located
 
@@ -11018,7 +11018,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
->  SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26..
+>  SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, s. 4(E)..
 
 
 ### Lower Universal Anchorage Systems for Restraint Systems and Booster Cushions (Standard 210.2)
@@ -11039,7 +11039,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(b)** multipurpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less; and
+**(b)** multi-purpose passenger vehicle and truck with a GVWR of 3 856 kg or less and an unloaded vehicle weight of 2 495 kg or less; and
 
 
 
@@ -11118,7 +11118,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(c)** in each of two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multipurpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions.
+**(c)** in each of two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multi-purpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions.
 
 
 
@@ -11385,7 +11385,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
->  SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4..
+>  SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, s. 4(E)..
 
 
 **211** [Repealed, SOR/97-421, s. 13]
@@ -11753,7 +11753,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(2)** Every side door that is designed to be used for the egress of occupants from a truck, multipurpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
+**(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
 
 **(a)** when tested with the seats removed,
 
@@ -11834,7 +11834,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-201, S. 3
 
 
 
->  SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28..
+>  SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E)..
 
 
 ### Bumpers
@@ -11997,10 +11997,10 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/79-338, S. 1
 ### Roof Intrusion Protection
 
 
-**216** No truck, multipurpose passenger vehicle or bus, except a school bus, that has a gross vehicle weight rating of 2 722 kg or less and no passenger car, except a convertible vehicle, shall, when tested on the left side and on the right side of the roof of the vehicle in accordance with Test Method 216 — Roof Intrusion Protection (September 15, 2000), sustain an intrusion into the roof of more than 127 mm in depth, as measured in accordance with section 3.8.4 of the Test Method.
+**216** No truck, multi-purpose passenger vehicle or bus, except a school bus, that has a gross vehicle weight rating of 2 722 kg or less and no passenger car, except a convertible vehicle, shall, when tested on the left side and on the right side of the roof of the vehicle in accordance with Test Method 216 — Roof Intrusion Protection (September 15, 2000), sustain an intrusion into the roof of more than 127 mm in depth, as measured in accordance with section 3.8.4 of the Test Method.
 
 
-> SOR/94-291, s. 5; SOR/2000-402, s. 1..
+> SOR/94-291, s. 5; SOR/2000-402, s. 1; SOR/2006-94, s. 4(E)..
 
 
 ### Bus Window Retention, Release and Emergency Exits
@@ -13051,7 +13051,7 @@ TEST REQUIREMENTS
 
 **301** 
 
-**(1)** Every passenger car and every multipurpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of Technical Standards Document No. 301, Fuel System Integrity, as amended from time to time (hereinafter referred to as TSD 301).
+**(1)** Every passenger car and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of Technical Standards Document No. 301, Fuel System Integrity, as amended from time to time (hereinafter referred to as TSD 301).
 
 
 
@@ -13080,7 +13080,7 @@ Expiry Date
 
 
 
-> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1..
+> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E)..
 
 
 ### LPG Fuel System Integrity (Standard 301.1)
@@ -13458,7 +13458,7 @@ where
 
 **305** 
 
-**(1)** Every passenger car, and every multipurpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses more than 48 nominal volts of electricity as propulsion power and that has an attainable speed in 1.6 km of more than 40 km/h on a paved level surface shall conform to Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection, as amended from time to time.
+**(1)** Every passenger car, and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses more than 48 nominal volts of electricity as propulsion power and that has an attainable speed in 1.6 km of more than 40 km/h on a paved level surface shall conform to Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection, as amended from time to time.
 
 
 
@@ -13481,7 +13481,7 @@ where
 **(2)** This section expires on January 1, 2010.
 
 
-> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-50, s. 5; SOR/2005-42, ss. 9, 10..
+> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-50, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E)..
 
 
 
