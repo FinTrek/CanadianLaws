@@ -207,7 +207,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 ***dispositif de frein anti-blocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante :
 - **a)** en détectant la vitesse angulaire de rotation des roues;
 - **b)** en transmettant des signaux relatifs à la vitesse angulaire de rotation des roues à un ou plusieurs dispositifs de commande qui interprètent ces signaux et produisent en réaction des signaux de commande;
-- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system** ou **ABS*)
+- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system*ou*ABS*)
 
 ***dispositif de maintien du dossier*** La partie d’une ceinture de sécurité qui est conçue pour restreindre le mouvement vers l’avant du dossier d’un siège. (*seat back retainer*)
 
@@ -302,9 +302,9 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***frein de stationnement*** désigne un mécanisme conçu pour empêcher le mouvement d’un véhicule en stationnement; (*parking brake*)
 
-***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988). (*liquefied petroleum gas** or **LPG*)
+***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988). (*liquefied petroleum gas*or*LPG*)
 
-***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas** or **CNG*)
+***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas*or*CNG*)
 
 ***gommage*** désigne, aux fins de l’article 116 de l’annexe IV, l’état d’une coupelle de frein dont la surface retient les fibres d’un tampon de coton hydrophile U.S.P. passé sur la surface de la coupelle; (*stickiness*)
 
@@ -467,9 +467,9 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***poids du véhicule sans charge*** désigne le poids du véhicule dont les réservoirs sont remplis à pleine capacité de tous les liquides nécessaires à son fonctionnement, mais sans chargement ni occupants; (*unloaded vehicle weight*)
 
-***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating** or **GVWR*)
+***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating*or*GVWR*)
 
-***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating** or **GAWR*)
+***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating*or*GAWR*)
 
 ***point H*** Point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine et qui est défini dans la norme SAE J826 APR80 intitulée « Devices for Use in Defining and Measuring Vehicle Seating Accommodation ». (*H-point*)
 
@@ -709,7 +709,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***voiture de tourisme*** Véhicule ayant un nombre désigné de places assises de 10 ou moins. Sont exclus de la présente définition les véhicules tout terrain, les véhicules de compétition, les véhicules à basse vitesse, les véhicules de tourisme à usages multiples, les répliques d’un ancien modèle, les motocyclettes, les camions, les remorques, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*passenger car*)
 
 - **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée selon les articles 5.1.32, 5.2.31 et 5.4.26 de la pratique recommandée J1100 de la SAE (juin 1993), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples dont le PNBV est inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que l’étude de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A).
 
 
 
@@ -909,7 +909,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 	- **b)** le titre abrégé du décret de dispense.
 
 - **(12) et (13)** [Abrogés, DORS/2000-182, art. 2]
-> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1.
+> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A).
 
 
 
@@ -1092,7 +1092,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 - **(2)** Le dessin visé à l’alinéa (1)c) peut figurer sur une étiquette qui est apposée sur le véhicule à côté de l’étiquette de conformité.
 
 - **(3)** Dans le cas d’une autocaravane ou d’une remorque de camping, les renseignements visés au sous-alinéa (1)c)(vi) peuvent figurer sur une étiquette distincte apposée sur le véhicule à côté de l’étiquette de conformité ou à un endroit bien en vue ou d’accès facile.
-> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8.
+> DORS/90-805, art. 2; DORS/91-425, art. 3; DORS/92-173, art. 2 et 5; DORS/95-147, art. 2; DORS/98-125, art. 5; DORS/2002-55, art. 8; DORS/2006-94, art. 4(A).
 
 
 
@@ -1216,7 +1216,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 		- **(iii)** en majuscules et en chiffres d’au moins 2 mm de haut.
 
 - **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
-> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5.
+> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A).
 
 
 
@@ -2736,7 +2736,7 @@ _________________________
 ***95<sup>e</sup> percentile adulte du sexe masculin*** désigne une personne ayant pour caractéristiques physiques un poids de 97,5 kg (215 lb), une taille de 1 849,1 mm (72,8 po), une hauteur en position assise droite de 965,2 mm (38 po), une hauteur en position assise normale de 929,6 mm (36,6 po), une largeur de hanches en position assise de 419,1 mm (16,5 po), un tour de hanches en position assise de 1 198,9 mm (47,2 po), un tour de ceinture en position assise de 1 079,5 mm (42,5 po), une profondeur de poitrine de 266,7 mm (10,5 po), un tour de poitrine de 1 130,3 mm (44,5 po), une hauteur de genoux de 594,4 mm (23,4 po), une hauteur de jarret de 490,2 mm (19,3 po), une hauteur de coude en position assise de 294,6 mm (11,6 po), une épaisseur de cuisses de 175,3 mm (6,9 po), une distance fesse-genou de 640,1 mm (25,2 po), une distance fesse-jarret de 548,6 mm (21,6 po), un écart entre les coudes de 505,5 mm (19,9 po) et une largeur de siège de 403,9 mm (15,9 po). (*95th percentile adult male*) 
 
 
-> DORS/80-161, art. 3; DORS/86-453, art. 1; DORS/87-154, art. 2; DORS/90-588, art. 2; DORS/93-5, art. 2; DORS/94-291, art. 3; DORS/94-692, art. 2; DORS/97-447, art. 3..
+> DORS/80-161, art. 3; DORS/86-453, art. 1; DORS/87-154, art. 2; DORS/90-588, art. 2; DORS/93-5, art. 2; DORS/94-291, art. 3; DORS/94-692, art. 2; DORS/97-447, art. 3; DORS/2006-94, art. 4(A)..
 
 
 **PARTIE II** 
@@ -3691,7 +3691,7 @@ choix du fabricant
 
 
 
-> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34..
+> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34; DORS/2006-94, art. 4(A)..
 
 
 ### Dégivrage et désembuage du pare-brise
@@ -4135,7 +4135,7 @@ choix du fabricant
 
 
 
->  DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9..
+>  DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9; DORS/2006-94, art. 4(A)..
 
 
 ### Systèmes de freinage hydraulique et électrique (Norme 105)
@@ -5996,7 +5996,7 @@ Cessation d’effet
 **(66)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
 
 
-> DORS/2005-42, art. 1 et 2..
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A)..
 
 
 
@@ -6151,7 +6151,7 @@ Cessation d’effet
 **(7)** [Abrogé, DORS/91-692, art. 3]
 
 
-> DORS/79-305, art. 2; DORS/79-940, art. 7; DORS/84-812, art. 4; DORS/91-692, art. 3; DORS/94-670, art. 2(F); DORS/96-366, art. 7; DORS/99-112, art. 2; DORS/99-426, art. 2; DORS/2001-60, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 11; DORS/2003-294, art. 1..
+> DORS/79-305, art. 2; DORS/79-940, art. 7; DORS/84-812, art. 4; DORS/91-692, art. 3; DORS/94-670, art. 2(F); DORS/96-366, art. 7; DORS/99-112, art. 2; DORS/99-426, art. 2; DORS/2001-60, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 11; DORS/2003-294, art. 1; DORS/2006-94, art. 4(A)..
 
 
 
@@ -6749,7 +6749,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-463, ART. 2
 
 
 
->  DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14..
+>  DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A)..
 
 
 **111.1** [Abrogé, DORS/87-658, art. 2]
@@ -7583,7 +7583,7 @@ Système d’immobilisation
 
 
 
->  DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3..
+>  DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A)..
 
 
 ### Liquides pour freins hydrauliques
@@ -8129,7 +8129,7 @@ Système d’immobilisation
 
 
 
-> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16..
+> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A)..
 
 
 ### Choix des pneus et des jantes pour les véhicules autres que les voitures de tourisme
@@ -8338,7 +8338,7 @@ Système d’immobilisation
 
 
 
-> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3..
+> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A)..
 
 
 ### Systèmes de freinage à air comprimé (Norme 121)
@@ -8939,7 +8939,7 @@ Cessation d’effet
 
 
 
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13..
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A)..
 
 
 **PARTIE III** 
@@ -9172,7 +9172,7 @@ Cessation d’effet
 
 
 
-> DORS/83-138, art. 2; DORS/86-453, art. 2; DORS/92-689, art. 1; DORS/94-374, art. 5(F); DORS/94-692, art. 2(F); DORS/97-447, art. 4..
+> DORS/83-138, art. 2; DORS/86-453, art. 2; DORS/92-689, art. 1; DORS/94-374, art. 5(F); DORS/94-692, art. 2(F); DORS/97-447, art. 4; DORS/2006-94, art. 4(A)..
 
 
 ### Appuie-tête
@@ -9285,7 +9285,7 @@ Cessation d’effet
 
 
 
-> DORS/95-60, art. 2; DORS/2003-272, art. 21..
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A)..
 
 
 ### Protection du conducteur contre l’impact
@@ -9306,7 +9306,7 @@ Cessation d’effet
 
 
 
-> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17..
+> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A)..
 
 
 ### Recul de la colonne de direction
@@ -9371,7 +9371,7 @@ Cessation d’effet
 
 
 
-> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F)..
+> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A)..
 
 
 ### Vitrages
@@ -9456,7 +9456,7 @@ Cessation d’effet
 
 
 
-> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4..
+> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A)..
 
 
 ### Serrures de porte et composants de retenue de porte (Norme 206)
@@ -9481,7 +9481,7 @@ Cessation d’effet
 
 
 
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8..
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A)..
 
 
 ### Ancrage des sièges
@@ -10141,7 +10141,7 @@ Dispositions transitoires
 
 
 
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24..
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A)..
 
 
 ### Ceintures de sécurité
@@ -10784,7 +10784,7 @@ Ensembles de retenue
 
 
 
-> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25..
+> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A)..
 
 
 ### Ancrages d’attache prêts à utiliser pour les ensembles de retenue (Norme 210.1)
@@ -11028,10 +11028,10 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/98-457, ART. 3; DORS/2000-44, ART
 
 
 
->  DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26..
+>  DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 4(A)..
 
 
-### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des coussins d’appoint (Norme )
+### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des coussins d’appoint (Norme 210.2)
 
 
 #### Application
@@ -11395,7 +11395,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 
 
->  DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4..
+>  DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 4(A)..
 
 
 **211** [Abrogé, DORS/97-421, art. 13]
@@ -11844,7 +11844,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-201, ART. 3
 
 
 
->  DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28..
+>  DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A)..
 
 
 ### Pare-chocs
@@ -12010,7 +12010,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/79-338, ART. 1
 **216** Les camions, les véhicules de tourisme à usages multiples et les autobus, sauf les autobus scolaires, ayant chacun un poids nominal brut de véhicule d’au plus 2 722 kg et les voitures de tourisme, sauf les véhicules décapotables, lorsqu’ils sont soumis à l’essai sur le côté gauche et le côté droit du pavillon conformément à la Méthode d’essai 216 — Résistance du pavillon à la pénétration, dans sa version du 15 septembre 2000, ne doivent pas présenter de pénétration du pavillon d’une profondeur supérieure à 127 mm, mesurée conformément au paragraphe 3.8.4 de cette méthode d’essai.
 
 
-> DORS/94-291, art. 5; DORS/2000-402, art. 1..
+> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A)..
 
 
 ### Fixation et ouverture des fenêtres d’autobus et issues de secours
@@ -13086,7 +13086,7 @@ Cessation d’effet
 
 
 
-> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1..
+> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A)..
 
 
 ### Étanchéité du circuit d’alimentation en carburant de type GPL (Norme 301.1)
@@ -13489,7 +13489,7 @@ où :
 
 
 
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10..
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A)..
 
 
 ### Véhicules à basse vitesse (Norme 500)
