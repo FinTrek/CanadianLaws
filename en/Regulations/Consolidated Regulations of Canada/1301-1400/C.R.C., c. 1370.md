@@ -143,15 +143,11 @@ Enabling authorities:
 ### **SCHEDULE II** 
 **(s. 3)**
 
-
-
 **PART I** 
 ## Television Receivers
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -165,11 +161,7 @@ Enabling authorities:
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -201,11 +193,7 @@ it functions in accordance with the standards of functioning described in sectio
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **3** Every television receiver shall function in such a way that
 - **(a)** when the receiver
@@ -222,19 +210,11 @@ the emission of ionizing radiation therefrom is such that the exposure rate of X
 
 
 
-
-
-
-
-
-
 **PART II** 
 ## Dental X-ray Equipment with an Extra-oral Source
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** 
 
@@ -247,10 +227,10 @@ the emission of ionizing radiation therefrom is such that the exposure rate of X
 
 ```
 where
-- **C ** is the coefficient of variation,
+- **C** is the coefficient of variation,
 - **X** <sub>i</sub>is the value of the i<sup>th</sup> measurement,
 - Xis the mean value of the measurements, and
-- **n ** is the number of measurements; (*coefficient de variation*)
+- **n** is the number of measurements; (*coefficient de variation*)
 
 ***radiation exposure to the X-ray image receptor*** means the amount of radiation registered by one or more detectors located in proximity to the X-ray image receptor. (*dose d’irradiation au récepteur d’image radiologique*)
 
@@ -258,11 +238,7 @@ where
 
 
 
-
-
-
-
-## Design Standards
+### Design Standards
 
 **2** 
 
@@ -286,7 +262,7 @@ where
 			- **(B)** visually and aurally when X-rays are being produced;
 	- **(c)** an irradiation switch that
 		- **(i)** requires continuous pressure by the operator until the completion of an irradiation, and
-		- **(ii)** is installed so as to allow the operator to stand at least 3 m from the X-ray source when the X-ray tube is energized;
+		- **(ii)** is installed so as to allow the operator to stand at least 3 m from the X-ray source when the X-ray tube is energized;
 	- **(d)** a controlling timer that
 		- **(i)** when the equipment is not operating in panoramic mode, automatically resets itself to its original setting or to zero on the termination of an irradiation,
 		- **(ii)** prevents an irradiation from being initiated when it is set at zero or in the off position,
@@ -296,14 +272,14 @@ where
 			- **(C)** radiation exposure to the X-ray image receptor, and
 		- **(iv)** when the equipment is operating in automatic exposure mode, ensures that the maximum irradiation time or the maximum current time product does not exceed the limits specified in clause 4(1)(e)(ii)(C) or subparagraph 4(1)(e)(iv), whichever is applicable;
 	- **(e)** a localizing cone or other device that limits the focal spot to skin distance to not less than
-		- **(i)** 15 cm, for equipment designed for panoramic examinations, and
-		- **(ii)** 18 cm, for all other equipment;
+		- **(i)** 15 cm, for equipment designed for panoramic examinations, and
+		- **(ii)** 18 cm, for all other equipment;
 	- **(f)** beam limiting devices that
 		- **(i)** provide a degree of radiation protection from stray radiation such that stray radiation does not exceed the limit for leakage radiation from the X-ray tube housing set out in paragraph 4(1)(g), and
 		- **(ii)** limit the size of the X-ray beam
 			- **(A)** at the X-ray image receptor of equipment designed for panoramic examinations, to a size that does not exceed any dimension of the scanning slit by more than one-half of that dimension or more than 2 per cent of the focal spot to image receptor distance, whichever is the lesser,
-			- **(B)** where the equipment is designed for and operated in cephalometric mode, to a circle not more than 30 cm in diameter or a rectangle not more than 800 cm<sup>2</sup> in area, fully intercepted by the X-ray image receptor, at a distance of 1.5 m or at the maximum focal spot to image receptor distance, whichever is the lesser, and
-			- **(C)** where the equipment is operated with an intra-oral X-ray image receptor, to a circle not more than 7 cm in diameter or a rectangle not more than 38.5 cm<sup>2</sup> in area;
+			- **(B)** where the equipment is designed for and operated in cephalometric mode, to a circle not more than 30 cm in diameter or a rectangle not more than 800 cm<sup>2</sup> in area, fully intercepted by the X-ray image receptor, at a distance of 1.5 m or at the maximum focal spot to image receptor distance, whichever is the lesser, and
+			- **(C)** where the equipment is operated with an intra-oral X-ray image receptor, to a circle not more than 7 cm in diameter or a rectangle not more than 38.5 cm<sup>2</sup> in area;
 	- **(g)** radiation-absorbing filters that
 		- **(i)** are securely installed in the path of the X-ray beam, and
 		- **(ii)** provide a degree of attenuation of the X-ray beam such that the first half-value layer of aluminum is not less than the value shown in column II of the table to this subparagraph that corresponds to the X-ray tube voltage shown in column I of the table, or is not less than the value obtained by linear interpolation from that table;
@@ -364,25 +340,17 @@ where
 
 
 
-
-
-
-
-## Construction Standards
+### Construction Standards
 
 **3** Dental X-ray equipment with an extra-oral source shall be constructed of such materials and in such a way that
 - **(a)** the X-ray tube is securely fixed and correctly aligned within the X-ray tube housing;
 - **(b)** the X-ray source assembly maintains its position or its intended motion without tipping, excessive drift or vibration during irradiation;
 - **(c)** where the equipment has its original components or replacement components recommended by the manufacturer, the equipment functions, under normal conditions of use, in accordance with the functioning standards set out in subsection 4(1); and
-- **(d)** the exposure of ionizing radiation or kerma emitted by the X-ray source assembly when the irradiation control circuit has not been activated, or by any other component at any time, does not exceed 645 nanocoulombs per kilogram (2.5 milliroentgens) or 22 micrograys, in any one-hour period, when averaged over a detection area of 10 cm<sup>2</sup> and measured at a distance of 5 cm from any accessible surface of the equipment.
+- **(d)** the exposure of ionizing radiation or kerma emitted by the X-ray source assembly when the irradiation control circuit has not been activated, or by any other component at any time, does not exceed 645 nanocoulombs per kilogram (2.5 milliroentgens) or 22 micrograys, in any one-hour period, when averaged over a detection area of 10 cm<sup>2</sup> and measured at a distance of 5 cm from any accessible surface of the equipment.
 
 
 
-
-
-
-
-## Functioning Standards
+### Functioning Standards
 
 **4** 
 
@@ -460,11 +428,7 @@ where
 
 
 
-
-
-
-
-## Labelling and Information
+### Labelling and Information
 
 **5** 
 
@@ -504,19 +468,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART III** 
 ## Microwave Ovens
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part and in items 3 of Schedule I,
 
@@ -559,11 +515,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -597,11 +549,7 @@ where
 
 
 
-
-
-
-
-## Warning Sign Specifications
+### Warning Sign Specifications
 
 **3** The warning sign referred to in subsections 2(3) and (4) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -614,11 +562,7 @@ where
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **4** 
 
@@ -650,19 +594,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART IV** 
 ## Baggage Inspection X-ray Devices
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -676,11 +612,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -719,11 +651,7 @@ and that will identify the manufacturer, model designation, serial number, and d
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **3** All baggage inspection X-ray devices shall function in such a way that
 - **(a)** at the maximum possible baggage handling rate specified by the manufacturer for the device, and
@@ -732,11 +660,7 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 
 
 
-
-
-
-
-## Warning Sign
+### Warning Sign
 
 **4** The X-radiation warning sign referred to in paragraph 2(3)(h) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -749,19 +673,11 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 
 
 
-
-
-
-
-
-
 **PART V** 
 ## Demonstration-type Gas Discharge Devices
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -775,11 +691,7 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** Every device that contains a gas discharge tube not specifically designed to generate X-rays shall be designed and constructed to include the following safety features:
 - **(a)** a permanent mark or label that
@@ -819,21 +731,13 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **5** Every device shall function in such a way that the emission of X-rays therefrom, under all possible conditions of operation and for as long as the device has its original components or has replacement components recommended by the manufacturer, is such that the average exposure rate of X-rays to an object having a 10 square centimetre cross section and centred at 5 centimetres from any accessible external surface of the device does not exceed 0.5 milliroentgen per hour.
 
 
 
-
-
-
-
-## Warning Sign
+### Warning Sign
 
 **6** The X-radiation warning sign referred to in subparagraph (3)(a)(i) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -846,19 +750,11 @@ the average exposure rate of X-rays, averaged over a period that is not less tha
 
 
 
-
-
-
-
-
-
 **PART VI** 
 ## Photofluorographic X-ray Equipment
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -890,11 +786,7 @@ when
 
 
 
-
-
-
-
-## Standards of Design
+### Standards of Design
 
 **2** Photofluorographic X-ray equipment shall be designed in such a way that all controls, meters, lights or other indicators are readily discernible and clearly labelled to indicate their function.
 
@@ -961,11 +853,7 @@ when
 
 
 
-
-
-
-
-## Standards of Construction
+### Standards of Construction
 
 **4** 
 
@@ -987,11 +875,7 @@ when
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **5** Photofluorographic X-ray equipment when fully assembled for use shall function under normal conditions of use in such a way that
 - **(a)** it is not possible to preset the kilovoltage below 70 kilovolts (peak);
@@ -1009,11 +893,7 @@ where
 
 
 
-
-
-
-
-## Warning Sign
+### Warning Sign
 
 **6** The X-radiation warning sign referred to in section 3 of this Part is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -1026,19 +906,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART VII** 
 ## Laser Scanners
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part and in item 7 of Schedule I,
 
@@ -1074,11 +946,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -1122,11 +990,7 @@ where
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **4** Every laser scanner, when fully assembled and operating with its service controls and user controls adjusted to yield the maximum emission, shall function in such a manner that the intensity of laser radiation at all accessible locations, when measured within a stationary circular area of 0.385 square centimetres and averaged over that area does not exceed the following limits:
 - **(a)** during any time interval of less than 1.8 × 10<sup>-5</sup> seconds, an integrated irradiance of 5.0 × 10<sup>-7</sup> joules per square centimetre;
@@ -1136,11 +1000,7 @@ where
 
 
 
-
-
-
-
-## Warning Sign Specifications
+### Warning Sign Specifications
 
 **5** The laser radiation warning sign referred to in subsection 2(6) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -1153,19 +1013,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART VIII** 
 ## Demonstration Lasers
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part and in item 8 of Schedule I,
 
@@ -1193,11 +1045,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -1228,11 +1076,7 @@ where
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **4** 
 
@@ -1244,11 +1088,7 @@ where
 
 
 
-
-
-
-
-## Warning Sign Specifications
+### Warning Sign Specifications
 
 **5** For the purpose of paragraph 2(2)(i), the laser radiation warning sign described in this section is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -1261,19 +1101,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART IX** 
 ## Low Energy Electron Microscopes
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -1287,11 +1119,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** Every low energy electron microscope shall be designed in such a way that
 - **(a)** all marks, labels and signs are permanently affixed and clearly visible;
@@ -1318,11 +1146,7 @@ where
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **5** Every low energy electron microscope shall function in such a way that
 - **(a)** at all settings of the user controls and service controls, and
@@ -1334,11 +1158,7 @@ does not exceed 0.5 milliroentgen per hour.
 
 
 
-
-
-
-
-## Warning Sign Specification
+### Warning Sign Specification
 
 **6** The X-radiation warning sign referred to in paragraph 2(c) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -1351,19 +1171,11 @@ does not exceed 0.5 milliroentgen per hour.
 
 
 
-
-
-
-
-
-
 **PART X** 
 ## High Intensity Mercury Vapour Discharge Lamps
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -1383,11 +1195,7 @@ does not exceed 0.5 milliroentgen per hour.
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** Every lamp shall have the name of the manufacturer and the month and year of its manufacture
 - **(a)** imprinted thereon, or
@@ -1417,11 +1225,7 @@ in such a manner that the information is legible whether the lamp is intact or i
 
 
 
-
-
-
-
-## Testing Conditions
+### Testing Conditions
 
 **6** To determine whether a lamp is a self-extinguishing lamp, the lamp shall be tested as follows:
 - **(a)** the lamp voltage, current and fixture shall be those indicated or recommended by the manufacturer for the operation of the lamp while undamaged;
@@ -1432,19 +1236,11 @@ in such a manner that the information is legible whether the lamp is intact or i
 
 
 
-
-
-
-
-
-
 **PART XI** 
 ## Tanning Equipment
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** The following definitions apply in this Part.
 
@@ -1482,26 +1278,16 @@ It does not include any such device that is used in the production of therapeuti
 
 
 
+### Information and Labelling
 
 
-
-
-## Information and Labelling
-
-
-
-
-## General
+#### General
 
 **2** The information and labels required by this Part must be provided in both official languages.
 
 
 
-
-
-
-
-## Information
+#### Information
 
 **3** The following information must accompany each piece of tanning equipment:
 - **(a)** instructions for its operation and safe use that include
@@ -1515,11 +1301,7 @@ It does not include any such device that is used in the production of therapeuti
 
 
 
-
-
-
-
-## Labelling
+#### Labelling
 
 **4** Every piece of tanning equipment must have permanently affixed to its external surface the following information, clearly legible and readily accessible to view by the user immediately before use:
 - **(a)** the manufacturer’s name and address;
@@ -1554,13 +1336,7 @@ and converted into and expressed in minutes, where
 	- **(i)** 75 mm high and 200 mm wide, in the case of tanning equipment used for full- or half-body exposure, and
 	- **(ii)** 50 mm high and 100 mm wide, in any other case; and
 - **(e)** conform to the following diagrams:
-
-##### Figure 1
-
 > Image: The image is the French version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the upper left corner is a Canadian flag with the words “Health Canada” and “Santé Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
-
-
-##### Figure 2
 
 > Image: The image is the English version of the ultraviolet radiation warning label as described in section 5. The image also includes a hazard symbol in the upper right corner, which is an octagonal sign depicting the outline of a human form being irradiated by a source of ultraviolet radiation represented by lines coming from a point above and to the right of the human form. In the upper left corner is a Canadian flag with the words “Health Canada” and “Santé Canada” to its right. In the lower right corner is the word “Canada” with a Canadian flag above the last letter.
 
@@ -1581,28 +1357,16 @@ and converted into and expressed in minutes, where
 
 
 
+### Construction Standards
 
 
-
-
-
-
-## Construction Standards
-
-
-
-
-## General
+#### General
 
 **8** All controls, meters, lights or other indicators of a piece of tanning equipment must be readily identifiable and clearly labelled to indicate their function.
 
 
 
-
-
-
-
-## Safety Features
+#### Safety Features
 
 **9** Every piece of tanning equipment must have the following safety features:
 - **(a)** a control by which the person being exposed may easily turn off the tanning equipment at any time without disconnecting the electrical plug or removing the ultraviolet lamps; and
@@ -1617,11 +1381,7 @@ and converted into and expressed in minutes, where
 
 
 
-
-
-
-
-## Components and Accessories
+#### Components and Accessories
 
 **11** Every ultraviolet lamp that is used in tanning equipment must be constructed so that it cannot be inserted and operated in a single-contact medium screw lampholder or a double-contact medium screw lampholder.
 
@@ -1630,13 +1390,7 @@ and converted into and expressed in minutes, where
 
 
 
-
-
-
-
-
-
-## Functioning Standards
+### Functioning Standards
 
 **13** Every piece of tanning equipment, whether it has its original components or replacement components recommended by the manufacturer, must, under the conditions of use specified by the manufacturer, meet the functioning standards set out in this Part.
 
@@ -1660,19 +1414,11 @@ and converted into and expressed in minutes, where
 
 
 
-
-
-
-
-
-
 **PART XII** 
 ## Diagnostic X-ray Equipment
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** 
 
@@ -1713,16 +1459,10 @@ and converted into and expressed in minutes, where
 
 
 
+### Information and Labelling
 
 
-
-
-## Information and Labelling
-
-
-
-
-## Information
+#### Information
 
 **2** The manufacturer must ensure that the following information accompanies each piece of diagnostic X-ray equipment:
 - **(a)** the installation instructions;
@@ -1748,11 +1488,7 @@ and converted into and expressed in minutes, where
 
 
 
-
-
-
-
-## Labelling
+#### Labelling
 
 **3** Diagnostic X-ray equipment must display the following information in a manner that is legible, permanent and visible on the specified surfaces:
 - **(a)** on the external surface of the main control panel
@@ -1796,18 +1532,10 @@ or
 
 
 
+### Construction Standards
 
 
-
-
-
-
-## Construction Standards
-
-
-
-
-## General Requirements
+#### General Requirements
 
 **6** Diagnostic X-ray equipment must have
 - **(a)** if more than one X-ray tube is controlled by one control panel,
@@ -1846,97 +1574,67 @@ or
 <tr>
 <td>1</td>
 <td>50 or less</td>
-<td>**(a)** 30
-
-</td>
+<td>(a) 30</td>
 <td>0.3</td>
 </tr>
 <tr>
-<td>**(b)** 40
-
-</td>
+<td>(b) 40</td>
 <td>0.4</td>
 </tr>
 <tr>
-<td>**(c)** 50
-
-</td>
+<td>(c) 50</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>2</td>
 <td>50 or more but not more than 70</td>
-<td>**(a)** 50
-
-</td>
+<td>(a) 50</td>
 <td>1.2</td>
 </tr>
 <tr>
-<td>**(b)** 60
-
-</td>
+<td>(b) 60</td>
 <td>1.3</td>
 </tr>
 <tr>
-<td>**(c)** 70
-
-</td>
+<td>(c) 70</td>
 <td>1.5</td>
 </tr>
 <tr>
 <td>3</td>
 <td>70 or more</td>
-<td>**(a)** 70
-
-</td>
+<td>(a) 70</td>
 <td>2.1</td>
 </tr>
 <tr>
-<td>**(b)** 80
-
-</td>
+<td>(b) 80</td>
 <td>2.3</td>
 </tr>
 <tr>
-<td>**(c)** 90
-
-</td>
+<td>(c) 90</td>
 <td>2.5</td>
 </tr>
 <tr>
-<td>**(d)** 100
-
-</td>
+<td>(d) 100</td>
 <td>2.7</td>
 </tr>
 <tr>
-<td>**(e)** 110
-
-</td>
+<td>(e) 110</td>
 <td>3.0</td>
 </tr>
 <tr>
-<td>**(f)** 120
-
-</td>
+<td>(f) 120</td>
 <td>3.2</td>
 </tr>
 <tr>
-<td>**(g)** 130
-
-</td>
+<td>(g) 130</td>
 <td>3.5</td>
 </tr>
 <tr>
-<td>**(h)** 140
-
-</td>
+<td>(h) 140</td>
 <td>3.8</td>
 </tr>
 <tr>
-<td>**(i)** 150
-
-</td>
+<td>(i) 150</td>
 <td>4.1</td>
 </tr>
 </table>
@@ -2055,11 +1753,7 @@ or
 
 
 
-
-
-
-
-## Radiographic Equipment
+#### Radiographic Equipment
 
 **10** Radiographic equipment that is equipped with an automatic exposure control must have
 - **(a)** if the operating X-ray tube voltage is 50 kV or more, a minimum irradiation time capability that does not exceed
@@ -2183,34 +1877,30 @@ or
 
 
 
+#### Radioscopic Equipment
 
-
-
-
-## Radioscopic Equipment
-
-**18** Radioscopic equipment must have
-- **(a)** an X-ray image intensifier that includes protective shielding that
+**18** Radioscopic equipment must
+- **(a)** have an X-ray image intensifier that includes protective shielding that
 	- **(i)** for any focal spot to image receptor distance, intercepts the entire cross section of the X-ray beam,
 	- **(ii)** intercepts the X-ray beam and scattered radiation from the image intensifier that would otherwise reach the operator,
 	- **(iii)** prevents the radioscopic X-ray tube from emitting X-rays unless the protective shielding is in place to intercept the X-ray beam, and
 	- **(iv)** sufficiently attenuates the X-rays transmitted through or scattered from the entrance window of the radioscopic imaging assembly to meet the requirements of section 32;
-- **(b)** for mobile radioscopic equipment, an X-ray image intensifier that is an integral part of the equipment or is interlocked in such a manner that its removal prevents X-rays from being produced;
-- **(c)** for stationary radioscopic equipment, a means to prevent the X-ray tube from producing X-rays when there is no image receptor in place to intercept the X-ray beam;
+- **(b)** for mobile radioscopic equipment, have an X-ray image intensifier that is an integral part of the equipment or is interlocked in such a manner that its removal prevents X-rays from being produced;
+- **(c)** for stationary radioscopic equipment, prevent the X-ray tube from producing X-rays when there is no image receptor in place to intercept the X-ray beam;
 - **(d)** for stationary radioscopic equipment that is not equipped with remote control,
-	- **(i)** protective shielding of at least 0.25 mm lead equivalent at 100 kV, such as overlapping hinged or sliding panels or protective drapes, to intercept the scattered radiation that would otherwise reach the operator, and
+	- **(i)** have protective shielding of at least 0.25 mm lead equivalent at 100 kV, such as overlapping hinged or sliding panels or protective drapes, to intercept the scattered radiation that would otherwise reach the operator, and
 	- **(ii)** the capability to remove the protective shielding referred to in subparagraph (i) when it interferes with the performance of diagnostic procedures;
-- **(e)** an irradiation switch that
+- **(e)** have an irradiation switch that
 	- **(i)** requires continuous pressure by the operator for the entire period of an irradiation, and
 	- **(ii)** enables the operator to terminate the recording of serial radioscopic images at any time;
-- **(f)** a chronometer that
+- **(f)** have a chronometer that
 	- **(i)** indicates the amount of time that the equipment has been emitting X-rays, and
 	- **(ii)** can be reset to zero or any other selected value;
-- **(g)** a positive beam limiting system that, when the X-ray beam axis is perpendicular to the image receptor plane, permits the alignment of the perimeter of the illuminated field with that of the X-ray field so that
+- **(g)** have a positive beam limiting system that, when the X-ray beam axis is perpendicular to the image receptor plane, permits the alignment of the perimeter of the illuminated field with that of the X-ray field so that
 	- **(i)** the difference between the perimeters does not exceed a distance equivalent to 3% of the focal spot to image receptor distance, and
 	- **(ii)** the sum of the excess length and excess width does not exceed 4% of the focal spot to image receptor distance;
-- **(h)** visual indicators that continuously display the X-ray tube voltage and the X-ray tube current; and
-- **(i)** a device that limits the minimum focal spot to skin distance
+- **(h)** have visual indicators that continuously display the X-ray tube voltage and the X-ray tube current; and
+- **(i)** have a device that limits the minimum focal spot to skin distance
 	- **(i)** for mobile radioscopic equipment, to 30 cm,
 	- **(ii)** for stationary radioscopic equipment, to 38 cm,
 	- **(iii)** for radioscopic equipment fitted with an X-ray image intensifier and used for special applications that require shorter focal spot to skin distances than the focal spot to skin distances specified in subparagraphs (i) and (ii), to 20 cm, or
@@ -2226,13 +1916,7 @@ or
 
 
 
-
-
-
-
-
-
-## Functioning Standards
+### Functioning Standards
 
 **21** Diagnostic X-ray equipment must function in accordance with the requirements set out in sections 22 to 32 during its operation under normal conditions of use.
 
@@ -2488,13 +2172,7 @@ where
 - **(2)** For the purposes of subsection (1), the rate must be
 	- **(a)** taken at the applicable location specified in subsection 28(2) for the type or configuration of the equipment;
 	- **(b)** taken with an attenuation block made of aluminum and having the dimensions 20 cm by 20 cm by 3.8 cm that is positioned between the point of entrance of the radiation and the image reception area of the radioscopic imaging assembly; and
-	- **(c)** averaged over a detection area of 100 cm<sup>2</sup> that is centred 10 cm from any accessible surface of the radioscopic imaging assembly beyond the image receptor plane.
-
-
-
-
-
-
+	- **(c)** averaged over a detection area of 100 cm <sup>2</sup> that is centred 10 cm from any accessible surface of the radioscopic imaging assembly and in a plane beyond the image receptor.
 
 
 
@@ -2502,9 +2180,7 @@ where
 ## Ultrasound Therapy Devices
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part and in item 13 of Schedule I,
 
@@ -2573,11 +2249,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** 
 
@@ -2630,11 +2302,7 @@ where
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **3** 
 
@@ -2656,11 +2324,7 @@ where
 
 
 
-
-
-
-
-## Warning Sign Specifications
+### Warning Sign Specifications
 
 **4** The warning sign referred to in subparagraph 2(3)(a)(x) is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -2673,19 +2337,11 @@ where
 
 
 
-
-
-
-
-
-
 **PART XIV** 
 ## Analytical X-ray Equipment
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** The definitions in this section apply in this Part.
 
@@ -2717,11 +2373,7 @@ where
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** Analytical X-ray equipment shall be designed and constructed in such a manner that, when installed, operated and maintained in accordance with the instructions referred to in paragraph 3(a), it functions in accordance with section 10.
 
@@ -2800,22 +2452,12 @@ ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute inte
 
 
 
+### Standards of Functioning
 
-
-
-
-## Standards of Functioning
-
-**10** Assembled analytical X-ray equipment, when operated at any of its designed X-ray tube voltage and X-ray tube current specifications, shall function in such a way that the X-radiation emitted does not exceed 0.5 milliroentgen (?4.38 microgray air kerma) in one hour at a distance of 5 cm from
+**10** Assembled analytical X-ray equipment, when operated at any of its designed X-ray tube voltage and X-ray tube current specifications, shall function in such a way that the X-radiation emitted does not exceed 0.5 milliroentgen (≈4.38 microgray air kerma) in one hour at a distance of 5 cm from
 - **(a)** any accessible external surfaces of any X-ray tube housing, beam-limiting device, protective shielding or accessory;
 - **(b)** any radiation aperture, shutter or filter slot that is in the closed position; and
 - **(c)** any point on the housing of the high-voltage generator.
-
-
-
-
-
-
 
 
 
@@ -2823,9 +2465,7 @@ ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute inte
 ## Cabinet X-ray Equipment
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** In this Part,
 
@@ -2847,11 +2487,7 @@ ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute inte
 
 
 
-
-
-
-
-## Standards of Design and Construction
+### Standards of Design and Construction
 
 **2** Cabinet X-ray equipment shall be designed and constructed in such a manner that, when installed and maintained in accordance with the instructions referred to in section 3, it functions within the standards of functioning described in section 10 for as long as the device has its original components or has replacement components recommended by the manufacturer.
 
@@ -2928,11 +2564,7 @@ ATTENTION — RAYONNEMENTS X. Cet appareil produit des rayonnements X haute inte
 
 
 
-
-
-
-
-## Standards of Functioning
+### Standards of Functioning
 
 **10** Cabinet X-ray equipment, when fully assembled for use, shall function in such a way that, under all possible operating conditions of X-ray generation and at the maximum possible material handling rate specified by the manufacturer, the exposure rate from leakage radiation, averaged over a time period that is not less than five minutes, does not exceed 0.5 milliroentgen per hour at a distance of five centimetres from
 - **(a)** any accessible external surface of the device, including the shielded doors or panels referred to in paragraph 7(b), and
@@ -2941,11 +2573,7 @@ when averaged over a detection area of ten square centimetres.
 
 
 
-
-
-
-
-## Warning Sign Specifications
+### Warning Sign Specifications
 
 **11** The X-radiation warning sign referred to in section 4 is a sign that
 - **(a)** is shown in two contrasting colours;
@@ -2958,16 +2586,9 @@ when averaged over a detection area of ten square centimetres.
 
 
 
-
-
-
-
-
-
 **PART XVI** 
-[Revoked, SOR/88-471, s. 4]
+## [Revoked, SOR/88-471, s. 4]
 
-
-> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2.
+> SOR/78-407, s. 2; SOR/79-229, ss. 2(E), 3; SOR/79-920, ss. 1 to 3; SOR/80-381, s. 2; SOR/80-464, s. 2; SOR/81-23, s. 2; SOR/81-286, s. 2; SOR/81-545, s. 2; SOR/82-542, s. 1; SOR/82-981, s. 2; SOR/83-495, s. 2; SOR/84-930, ss. 1 to 5; SOR/85-705, ss. 1, 2(F), 3(F), 4(F); SOR/85-756, s. 1; SOR/85-757, ss. 1 to 3; SOR/88-471, ss. 2(E), 3(E), 4; SOR/91-408, s. 2(F); SOR/93-201, s. 2; SOR/94-40, s. 1; SOR/97-511, s. 2; SOR/2001-252, s. 2; SOR/2005-33, s. 2; SOR/2006-122, s. 1(F), 2(F), 3(F), 4(F), 5(F), 6(F), 7, 8(F), 9(F) and 10.
 
 
