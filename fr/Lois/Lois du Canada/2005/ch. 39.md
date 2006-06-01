@@ -38,9 +38,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***vendre*** Est assimilé à l’acte de vendre le fait de mettre en vente, ou d’exposer ou d’avoir en sa possession pour la vente.
+***vendre*** Est assimilé à l’acte de vendre le fait de mettre en vente, ou d’exposer ou d’avoir en sa possession pour la vente. (*sell*)
 
 
 
@@ -227,7 +227,7 @@ L’avis de l’inspecteur doit dans tous les cas être fondé sur des motifs ra
 ### **ANNEXE** 
 **(articles 3, 3.1 et 4)**
 ## Utilisation des noms de spiritueux
-**1. (1)** Le nom sous lequel un spiritueux peut être vendu peut comporter le nom Grappa s’il a été fabriqué exclusivement en Italie.
+**1 (1)** Le nom sous lequel un spiritueux peut être vendu peut comporter le nom Grappa s’il a été fabriqué exclusivement en Italie.
 
 **(2)** Le nom sous lequel un spiritueux peut être vendu peut comporter le nom *Grappa di Ticino* s’il a été fabriqué dans la région du Tessin en Suisse.
 
@@ -261,7 +261,7 @@ L’avis de l’inspecteur doit dans tous les cas être fondé sur des motifs ra
 **10** Le whisky connu sous le nom de bourbon peut être vendu à ce titre s’il a été fabriqué aux États-Unis conformément aux lois et règlements des États-Unis régissant la fabrication des produits de ce nom.
 
 
-**11** Le whisky connu sous le nom de *Tennessee Whiskey* peut être vendu à ce titre s’il a été fabriqué aux États-Unis conformément aux lois et règlements des États-Unis régissant la fabrication des produits de ce nom.
+**11** Le whisky connu sous le nom de *Tennessee**Whiskey* peut être vendu à ce titre s’il a été fabriqué aux États-Unis conformément aux lois et règlements des États-Unis régissant la fabrication des produits de ce nom.
 
 
 **12** La tequila peut être vendue à ce titre si elle a été fabriquée au Mexique conformément aux lois et règlements du Mexique régissant la fabrication de ce produit.
@@ -270,7 +270,7 @@ L’avis de l’inspecteur doit dans tous les cas être fondé sur des motifs ra
 **13** Le mezcal peut être vendu à ce titre s’il a été fabriqué au Mexique conformément aux lois et règlements du Mexique régissant la fabrication de ce produit.
 
 
-**14. (1)** Le rhum antillais peut être vendu à ce titre dans les cas suivants :
+**14 (1)** Le rhum antillais peut être vendu à ce titre dans les cas suivants :
 
 **a)** il a été obtenu des produits de la canne à sucre d’un pays des Antilles du Commonwealth et distillé et fermenté sur place;
 
