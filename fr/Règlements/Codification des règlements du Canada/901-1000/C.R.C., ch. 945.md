@@ -2731,9 +2731,13 @@ est déclaré être un bien exclu.
 		- **(xxviii)** de la catégorie 42, 12 pour cent,
 		- **(xxix)** de la catégorie 43, 30 pour cent,
 		- **(xxix.1)** de la catégorie 43.1, 30 pour cent,
+		- **(xxix.2)** de la catégorie 43.2, 50 pour cent,
 		- **(xxx)** de la catégorie 44, 25 pour cent,
 		- **(xxxi)** de la catégorie 45, 45 pour cent,
 		- **(xxxii)** de la catégorie 46, 30 pour cent,
+		- **(xxxiii)** de la catégorie 47, 8 pour cent,
+		- **(xxxiv)** de la catégorie 48, 15 pour cent,
+		- **(xxxv)** de la catégorie 49, 8 pour cent,
 de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie, à la fin de l’année d’imposition (avant toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 
 #### Catégorie 13
@@ -3339,19 +3343,19 @@ qui est en sus
 #### Biens énergétiques déterminés
 
 
-- **(24)** Malgré le paragraphe (1), le total des déductions — représentant chacune une déduction pour des biens des catégories 34 ou 43.1 de l’annexe II qui constituent des biens énergétiques déterminés appartenant à un contribuable — autrement accordées au contribuable en application du paragraphe (1) dans le calcul de son revenu pour une année d’imposition ne peut dépasser l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+- **(24)** Malgré le paragraphe (1), le total des déductions — représentant chacune une déduction pour des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qui constituent des biens énergétiques déterminés appartenant à un contribuable — autrement accordées au contribuable en application du paragraphe (1) dans le calcul de son revenu pour une année d’imposition ne peut dépasser l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
 	- **a)** le total des montants représentant chacun, selon le cas :
 		- **(i)** le total des montants suivants :
-			- **(A)** le montant qui représenterait le revenu du contribuable pour l’année tiré soit de biens compris dans les catégories 34 ou 43.1 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
+			- **(A)** le montant qui représenterait le revenu du contribuable pour l’année tiré soit de biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
 			- **(B)** le revenu du contribuable pour l’année tiré de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens, calculé compte non tenu de l’alinéa 20(1)a) de la Loi,
 		- **(ii)** le total des montants suivants :
-			- **(A)** la part, revenant au contribuable, du montant qui représenterait le revenu d’une société de personnes pour l’année tiré soit de biens compris dans les catégories 34 ou 43.1 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
+			- **(A)** la part, revenant au contribuable, du montant qui représenterait le revenu d’une société de personnes pour l’année tiré soit de biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
 			- **(B)** le revenu d’une société de personnes pour l’année tiré de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens dont la société de personnes est propriétaire, jusqu’à concurrence de la part de ce revenu qui revient au contribuable;
 	- **b)** le total des montants représentant chacun, selon le cas :
 		- **(i)** la perte du contribuable pour l’année découlant de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens, calculée compte non tenu de l’alinéa 20(1)a) de la Loi,
 		- **(ii)** la perte d’une société de personnes pour l’année découlant de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens dont la société de personnes est propriétaire, jusqu’à concurrence de la part de cette perte qui revient au contribuable.
 
-- **(25)** Pour l’application du présent article et de l’article 1101 mais sous réserve des paragraphes (27) à (29), « bien énergétique déterminé » d’un contribuable ou d’une société de personnes (appelés « propriétaire » au présent paragraphe) pour une année d’imposition s’entend d’un bien compris dans les catégories 34 ou 43.1 de l’annexe II que le propriétaire acquiert après le 9 février 1988, à l’exclusion des biens suivants :
+- **(25)** Pour l’application du présent article et de l’article 1101 mais sous réserve des paragraphes (27) à (29), ***bien énergétique déterminé*** d’un contribuable ou d’une société de personnes (appelés «propriétaire» au présent paragraphe) pour une année d’imposition s’entend d’un bien compris dans la catégorie 34 de l’annexe II que le propriétaire a acquis après le 9 février 1988 et d’un bien compris dans les catégories 43.1, 43.2, 47 ou 48 de cette annexe, à l’exclusion des biens suivants :
 	- **a)** le bien acquis pour être utilisé par le propriétaire principalement en vue de tirer un revenu d’une entreprise exploitée au Canada (à l’exception d’une entreprise qui consiste à vendre le produit de ce bien) ou d’un autre bien situé au Canada;
 	- **b)** le bien loué à bail au cours de l’année, dans le cours normal de l’exploitation d’une entreprise du propriétaire au Canada :
 		- **(i)** soit à une personne dont il est raisonnable de s’attendre à ce qu’elle utilise le bien principalement en vue de tirer un revenu d’une entreprise exploitée au Canada (à l’exception d’une entreprise qui consiste à vendre le produit de ce bien) ou d’un autre bien situé au Canada,
@@ -3360,7 +3364,7 @@ lorsque le propriétaire est :
 		- **(iii)** soit une société dont l’entreprise principale consiste à exercer, tout au long de l’année, l’une des activités suivantes :
 			- **(A)** louer, à bail ou non, des biens donnés en location à bail ou des biens qui seraient de tels biens s’il était fait abstraction des paragraphes (18), (19) ou (20),
 			- **(B)** louer, à bail ou non, les biens visés à la division (A) et faire la vente et l’entretien de biens du même type présentant les mêmes caractéristiques,
-			- **(C)** fabriquer des biens compris dans les catégories 34 ou 43.1 de l’annexe II qu’il vend ou loue à bail,et dont le revenu brut pour l’année, tiré de cette entreprise, correspond à au moins 90 % de son revenu brut pour l’année provenant de toutes sources,
+			- **(C)** fabriquer des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qu’il vend ou loue à bail,et dont le revenu brut pour l’année, tiré de cette entreprise, correspond à au moins 90 % de son revenu brut pour l’année provenant de toutes sources,
 		- **(iv)** soit une société de personnes dont chaque associé est une société visée au sous-alinéa (iii) ou à l’alinéa (26)a).
 
 - **(26)** Le paragraphe (24) ne s’applique pas au contribuable qui est, tout au long d’une année d’imposition :
@@ -3387,7 +3391,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1.
 
 
 
@@ -3682,16 +3686,23 @@ une catégorie distincte est prescrite pour les biens,
 	- **a) ** ils ont été acquis au cours d’une année d’imposition et étaient compris pour cette année dans la catégorie 43 de l’annexe II par l’effet de l’alinéa a) de cette catégorie;
 	- **b) ** leur coût en capital pour le contribuable est d’au moins 1 000 $.
 
-#### Turbines à combustion
+- **(5t)** [Abrogé, DORS/2006-117, art. 2]
+
+#### Matériel lié aux pipelines de transport
 
 
-- **(5t)** Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui constituent une turbine à combustion (y compris les brûleurs et compresseurs connexes) comprise dans la catégorie 17 de l’annexe II par l’effet du sous-alinéa a.1)(i) de cette catégorie et à l’égard de laquelle le contribuable a fait un choix en ce sens. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
+- **(5u)** Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui sont des biens compris dans la catégorie 7 de l’annexe II par l’effet de son alinéa j) et à l’égard desquels le contribuable a fait un choix pour que le présent paragraphe s’applique. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le ou les biens ont été acquis.
+
+#### Pipelines de transport
+
+
+- **(5v)** Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui sont des biens compris dans la catégorie 49 de l’annexe II et à l’égard desquels le contribuable a fait un choix pour que le présent paragraphe s’applique. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le ou les biens ont été acquis.
 
 #### Renvoi
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2.
 
 
 
@@ -3786,7 +3797,7 @@ la dernière en date de ces périodes étant à retenir, a été vendue au conso
 			- **(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 			- **(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 			- **(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
-	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans la catégorie 43.1 de cette annexe et où le contribuable choisit de les y inclure dans une lettre annexée à la déclaration de revenu qu’il présente au ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition de l’acquisition des biens.
+	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans les catégories 43.1 ou 43.2 de cette annexe et où le contribuable choisit de les inclure dans l’une de ces catégories dans une lettre annexée à la déclaration de revenu qu’il présente au ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
 
 - **(9)** Lorsqu’un contribuable a fait l’acquisition d’un matériel et d’une installation de production ou de distribution (y compris les structures) dans le but de fournir de l’énergie électrique pour sa propre consommation dans l’exploitation d’une mine, d’un atelier de préparation mécanique de minerais, d’une fonderie, d’une affinerie ou de toute combinaison de ses entreprises, et que 80 pour cent au moins de la quantité d’énergie électrique produite a été ainsi utilisée
 	- **a)** dans ses années d’imposition 1948 et 1949, ou
@@ -3798,7 +3809,7 @@ en prenant la période qui est postérieure à l’autre, les biens sont compris
 			- **(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 			- **(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 			- **(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
-	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans la catégorie 43.1 de cette annexe et où le contribuable choisit de les y inclure dans une lettre annexée à la déclaration de revenu qu’il produit auprès du ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition de l’acquisition des biens.
+	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans les catégories 43.1 ou 43.2 de cette annexe et où le contribuable choisit de les inclure dans l’une de ces catégories dans une lettre annexée à la déclaration de revenu qu’il produit auprès du ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
 
 - **(9.1)** Dans leur application à du matériel et à des installations de production ou de distribution (y compris leurs structures) acquis par le contribuable avant le 8 novembre 1969, les paragraphes (8) et (9) doivent s’interpréter en faisant abstraction du mot «affinerie».
 
@@ -3922,7 +3933,11 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 - **(21)** Dans le cas où un contribuable a acquis un bien compris dans la catégorie 43.1 de l’annexe II dans les circonstances visées aux divisions b)(iii)(A) et (B) ou e)(iii)(A) et (B) de cette catégorie, les règles suivantes s’appliquent :
 	- **a)** la partie du bien, déterminée en fonction du coût en capital, qui est égale ou inférieure au coût en capital du bien pour la personne de qui le bien a été acquis est comprise dans cette catégorie;
 	- **b)** la partie du bien, déterminée en fonction du coût en capital, qui dépasse le coût en capital du bien pour cette personne n’est pas comprise dans cette catégorie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1.
+
+- **(22)** Dans le cas où un bien visé à la catégorie 43.2 de l’annexe II a été acquis par un contribuable dans les circonstances visées aux divisions b)(iii)(A) et (B) ou e)(iii)(A) et (B) de la catégorie 43.1 de cette annexe et a été compris dans la catégorie 43.2 de la personne de qui le contribuable l’a acquis, les règles suivantes s’appliquent :
+	- **a)** la partie du bien, déterminée en fonction du coût en capital, qui est égale ou inférieure à son coût en capital pour la personne de qui il a été acquis est comprise dans la catégorie 43.2;
+	- **b)** la partie du bien, déterminée en fonction du coût en capital, qui dépasse son coût en capital pour cette personne n’est pas comprise dans les catégories 43.1 ou 43.2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3.
 
 
 
@@ -4277,10 +4292,12 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 - **(12)** Aux fins de la catégorie 37 de l’annexe II, ***parc d’attractions*** désigne un parc ouvert au public où des attractions, des manèges et des spectacles audio-visuels restent en permanence.
 
-#### Biens économisant l’énergie compris dans la catégorie 43.1
+#### Biens économisant l’énergie compris dans les catégories 43.1 ou 43.2
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
 
 
-- **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et au paragraphe (14) ainsi qu’à la catégorie 43.1 de l’annexe II.
+
+- **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (14) à (16) ainsi qu’aux catégories 43.1 et 43.2 de l’annexe II.
 
 ***bio-huile*** Carburant liquide créé à partir de déchets de bois ou de résidus végétaux au moyen d’un procédé de conversion thermochimique effectué en l’absence d’oxygène. (*bio-oil*)
 
@@ -4291,6 +4308,10 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 ***déchets municipaux*** La partie combustible de déchets (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui sont produits au Canada et acceptés à un site d’enfouissement admissible ou à une installation admissible de gestion des déchets et qui, une fois brûlés pour produire de l’énergie, ne dégagent que les fluides ou autres émissions qui sont conformes à la législation fédérale ou provinciale. (*municipal waste*)
 
 ***déchets thermiques*** Énergie thermique extraite d’un point de rejet distinct d’un procédé industriel. (*thermal waste*)
+
+***équipement de réseau énergétique de quartier*** Biens qui font partie d’un réseau énergétique de quartier, à savoir les canalisations ou pompes servant à recueillir et à distribuer un médium de transfert d’énergie, les compteurs, le matériel de contrôle, les refroidisseurs et les échangeurs de chaleur reliés au circuit de distribution principal d’un réseau énergétique de quartier, mais à l’exclusion des biens suivants :
+- **a)** les biens servant à distribuer de l’eau pour consommation, évacuation ou traitement;
+- **b)** les biens qui font partie du système interne de chauffage ou de refroidissement d’un bâtiment. (*district energy equipment*)
 
 ***gaz de convertisseur basique à oxygène*** Gaz produit par intermittence dans le convertisseur basique à oxygène d’une aciérie par la réaction chimique du carbone contenu dans le fer en fusion et d’oxygène pur. (*basic oxygen furnace gas*)
 
@@ -4310,20 +4331,24 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***matériel de transmission*** Matériel, sauf les bâtiments, qui sert à transmettre plus de 75 pour cent de l’énergie électrique annuelle produite par du matériel générateur d’électricité. (*transmission equipment*)
 
+***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique produite principalement par du matériel de cogénération électrique qui remplit les exigences énoncées aux alinéas a) à c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe. (*district energy system*)
+
 ***résidus végétaux*** Résidus de végétaux qui seraient des déchets s’ils n’étaient pas utilisés dans un système de conversion de la biomasse en bio-huile. En sont exclus les déchets de bois et les déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus. (*plant residue*)
 
 ***site d’enfouissement admissible*** Site d’enfouissement, existant ou ancien, situé au Canada et, s’il s’agit d’un site à l’égard duquel un permis ou une licence est ou était requis en vertu de la législation fédérale ou provinciale, à l’égard duquel un tel permis ou une telle licence a été délivré. (*eligible landfill site*)
 
 ***système à cycles combinés amélioré*** Système générateur d’électricité dans lequel les déchets thermiques provenant d’un ou de plusieurs systèmes de compresseur de gaz naturel sont récupérés et utilisés de façon à constituer au moins 20 pour cent de l’apport énergétique d’un procédé à cycles combinés en vue d’améliorer la production d’électricité. Le système à cycles combinés amélioré ne comprend pas le système de compresseur de gaz naturel. (*enhanced combined cycle system*)
 
-- **(14)** Le bien d’un contribuable qui ne fonctionne pas de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II en raison seulement d’un défaut, d’une défectuosité ou d’un arrêt — indépendant de la volonté du contribuable — du système dont il fait partie et qui fonctionnait de la manière prévue à cet alinéa est réputé, pour l’application de cet alinéa, fonctionner de la manière ainsi prévue pendant la durée du défaut, de la défectuosité ou de l’arrêt si le contribuable s’applique raisonnablement à rectifier la situation ou le problème dans un délai raisonnable.
+- **(14)** Le bien d’un contribuable qui ne fonctionne pas de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe en raison seulement d’un défaut, d’une défectuosité ou d’un arrêt — indépendant de la volonté du contribuable — du système dont il fait partie et qui fonctionnait de la manière prévue à l’alinéa en cause est réputé, pour l’application de cet alinéa, fonctionner de la manière prévue à cet alinéa pendant la durée du défaut, de la défectuosité ou de l’arrêt si le contribuable s’applique raisonnablement à rectifier la situation ou le problème dans un délai raisonnable.
 
-- **(15)** Pour l’application du paragraphe (14), le système d’un contribuable, visé à ce paragraphe, qui a fonctionné à un moment donné de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II comprend, après ce moment, le bien d’une autre personne ou société de personnes si les conditions suivantes sont réunies :
+- **(15)** Pour l’application du paragraphe (14), le système d’un contribuable, visé à ce paragraphe, qui a fonctionné à un moment donné de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe comprend, après ce moment, le bien d’une autre personne ou société de personnes si les conditions suivantes sont réunies :
 	- **a)** si le bien appartenait au contribuable, il serait raisonnable de considérer qu’il fait partie de son système;
 	- **b)** le bien utilise de la vapeur provenant du système du contribuable et obtenue principalement d’un procédé industriel (sauf un procédé de production d’énergie électrique);
-	- **c)** le fonctionnement du bien est nécessaire pour que le système du contribuable puisse fonctionner de la manière prévue à l’alinéa c) de la catégorie 43.1;
+	- **c)** le fonctionnement du bien est nécessaire pour que le système du contribuable puisse fonctionner de la manière prévue à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe;
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1.
+
+- **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4.
 
 
 
@@ -5484,10 +5509,10 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 
 **1219** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4) et pour l’application du paragraphe 66.1(6) de la Loi, ***frais liés aux énergies renouvelables et à l’économie d’énergie au Canada*** s’entend des dépenses engagées par un contribuable, et payables à une personne ou à une société de personnes avec laquelle il n’a aucun lien de dépendance, relativement à la réalisation de travaux dans le cadre desquels il est raisonnable de s’attendre à ce qu’au moins 50 % du coût en capital des biens amortissables qui y seront utilisés soit celui de biens qui sont visés à la catégorie 43.1 de l’annexe II ou qui seraient ainsi visés si ce n’était le présent paragraphe. Sont comprises parmi ces frais les dépenses de ce type que le contribuable engage à l’une des fins suivantes :
+- **(1)** Sous réserve des paragraphes (2) à (4), pour l’application du paragraphe 66.1(6) de la Loi, ***frais liés aux énergies renouvelables et à l’économie d’énergie au Canada*** s’entend des dépenses engagées par un contribuable, et payables à une personne ou à une société de personnes avec laquelle il n’a aucun lien de dépendance, relativement à la réalisation de travaux dans le cadre desquels il est raisonnable de s’attendre à ce qu’au moins 50 % du coût en capital des biens amortissables qui y seront utilisés soit celui de biens qui sont compris dans les catégories 43.1 ou 43.2 de l’annexe II ou qui y seraient compris en l’absence du présent article. Sont comprises parmi ces frais les dépenses de ce type que le contribuable engage à l’une des fins suivantes :
 	- **a)** la mise en place d’un branchement jusqu’aux travaux en vue de la transmission d’électricité à un acheteur de l’électricité, dans la mesure où la dépense n’a pas été engagée en vue d’acquérir un bien du contribuable;
 	- **b)** la construction d’une route d’accès temporaire menant à l’emplacement des travaux;
-	- **c)** l’utilisation d’un droit d’accès à l’emplacement des travaux avant le premier moment où un bien visé à la catégorie 43.1 de l’annexe II est utilisé dans le cadre des travaux en vue de gagner un revenu;
+	- **c)** l’utilisation d’un droit d’accès à l’emplacement des travaux avant le premier moment où un bien compris dans les catégories 43.1 ou 43.2 de l’annexe II est utilisé dans le cadre des travaux en vue de gagner un revenu;
 	- **d)** le défrichement d’un fonds de terre dans la mesure nécessaire à l’achèvement des travaux;
 	- **e)** la réalisation de l’étude technique concernant les travaux, y compris :
 		- **(i)** la collecte et l’analyse de données concernant l’emplacement des travaux,
@@ -5508,13 +5533,13 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 		- **(vi)** sont incluses dans le coût de l’inventaire du contribuable,
 		- **(vii)** sont des dépenses relatives à des activités de recherche scientifique et de développement expérimental,
 		- **(viii)** sont des frais d’aménagement au Canada ou des frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
-		- **(ix)** sont engagées, dans le cadre de travaux, à l’égard du premier moment où un bien visé à la catégorie 43.1 de l’annexe II est utilisé dans ce cadre en vue de gagner un revenu, ou à l’égard d’un moment postérieur à ce moment,
+		- **(ix)** sont engagées, dans le cadre de travaux, à l’égard du premier moment où un bien compris dans les catégories 43.1 ou 43.2 de l’annexe II est utilisé dans ce cadre en vue de gagner un revenu, ou à l’égard d’un moment postérieur à ce moment,
 		- **(x)** sont engagées relativement à l’administration ou à la gestion d’une entreprise du contribuable,
-		- **(xi)** sont attribuables à la période de construction, de rénovation ou de modification de biens amortissables, sauf les biens visés à la catégorie 43.1 de l’annexe II, qui se rapportent, selon le cas :
+		- **(xi)** sont attribuables à la période de construction, de rénovation ou de modification de biens amortissables, sauf les biens compris dans les catégories 43.1 ou 43.2 de l’annexe II, qui se rapportent, selon le cas :
 			- **(A)** à la construction, à la rénovation ou à la modification des biens, sauf dans le cas prévu aux alinéas (1)b), f) ou g),
 			- **(B)** à la propriété d’un fonds de terre au cours de la période, sauf dans le cas prévu aux alinéas (1)b), c) ou d).
 
-- **(3)** Pour l’application de l’alinéa (1)g), ***éolienne d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, en l’absence du présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v), si le ministre, en consultation avec le ministre des Ressources naturelles, établit ce qui suit :
+- **(3)** Pour l’application de l’alinéa (1)g), ***éolienne à des fins d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, si ce n’était le présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v) ou dans la catégorie 43.2 de cette annexe par l’effet de son alinéa b), si le ministre, en consultation avec le ministre des Ressources naturelles, établit que l’installation répond aux conditions suivantes :
 	- **a)** l’installation fait partie d’un parc d’éoliennes existant ou projeté du contribuable, et l’énergie électrique produite à partir du vent par l’installation, et par les autres éoliennes d’essai du parc, n’excède pas :
 		- **(i)** le tiers de la capacité nominale prévue du parc, selon les plaques signalétiques, si, à la fois :
 			- **(A)** le ministre des Ressources naturelles est d’avis que la capacité nominale prévue du parc est limitée sur le plan technique ou scientifique,
@@ -5533,7 +5558,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
 
 - **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5.
 
 
 
@@ -9048,8 +9073,9 @@ où
 	- **j)** des biens compris dans la catégorie 28 ou visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de l’annexe II qui, si ce n’était ces catégories, ou l’une d’elles, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
 	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45 et 46 de l’annexe II;
 	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
-	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4.
+	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie;
+	- **n)** des biens compris dans la catégorie 43.2 de l’annexe II par l’effet de son alinéa a).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6.
 
 
 
@@ -13123,8 +13149,8 @@ où
 
 
 
-**8200.1** Pour l’application du paragraphe 13(18.1) et du sous-alinéa 241(4)d)(vi.1) de la Loi, les biens économisant l’énergie sont ceux compris dans la catégorie 43.1 de l’annexe II.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-377, art. 5.
+**8200.1** Pour l’application du paragraphe 13(18.1) et du sous-alinéa 241(4)d)(vi.1) de la Loi, les biens économisant l’énergie sont ceux compris dans les catégories 43.1 ou 43.2 de l’annexe II.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/97-377, art. 5; DORS/2006-117, art. 7.
 
 
 
@@ -17476,7 +17502,15 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**l)** un pipeline, autre que le matériel de puits de gaz ou de pétrole, à moins que, dans le cas d’un pipeline pour le pétrole ou le gaz naturel, le ministre, après consultation du ministre de l’Énergie, des Mines et des Ressources, ne soit convaincu que la source principale d’approvisionnement du pipeline sera épuisée, ou devrait vraisemblablement l’être, dans les 15 ans de la date de mise en service du pipeline;
+**l)** un pipeline, sauf s’il s’agit :
+
+**(i)** d’un pipeline qui consiste en matériel de puits de gaz ou de pétrole,
+
+
+
+**(ii)** d’un pipeline pour le pétrole ou le gaz naturel, si le ministre, en consultation avec le ministre des Ressources naturelles, est ou était convaincu que la source principale d’approvisionnement du pipeline sera épuisée, ou devrait vraisemblablement l’être, dans les 15 ans suivant la date de mise en service du pipeline;
+
+
 
 
 
@@ -17511,7 +17545,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 **q)** un bâtiment ou une autre construction, ou toute partie de ceux-ci, y compris les parties constituantes notamment les fils électriques, la plomberie, les réseaux d’extinction automatiques, le matériel de climatisation, les appareils de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers roulants (à l’exception des biens visés à l’un des alinéas k) et m) à p) de la présente catégorie ou à l’un des alinéas a) à e) de la catégorie 8).
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 10; DORS/97-377, art. 6; DORS/2005-371, art. 7..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 10; DORS/97-377, art. 6; DORS/2005-371, art. 7; DORS/2006-117, art. 8..
 
 
 
@@ -17906,10 +17940,26 @@ Les biens constitués par
 
 
 
-**i)** un bien acquis après le 27 février 2000 qui est une locomotive, mais non une voiture de chemin de fer automobile.
+**i)** un bien acquis après le 27 février 2000 qui est une locomotive, mais non une voiture de chemin de fer automobile;
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8..
+
+**j)** le matériel de pompage ou de compression, y compris ses appareils auxiliaires, acquis après le 22 février 2005 si le matériel sert à pomper ou à comprimer le pétrole, le gaz naturel ou un hydrocarbure connexe en vue de le transporter :
+
+**(i)** soit au moyen d’un pipeline de transport,
+
+
+
+**(ii)** soit à partir d’un pipeline de transport jusqu’à une installation de stockage,
+
+
+
+**(iii)** soit jusqu’à un pipeline de transport à partir d’une installation de stockage.
+
+
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9..
 
 
 
@@ -18741,11 +18791,11 @@ Les biens qui autrement seraient compris dans une autre catégorie de la présen
 
 **a.1)** un bien (sauf un bâtiment ou une autre construction) acquis après le 27 février 2000 qui n’a pas été utilisé à quelque fin que ce soit avant le 28 février 2000 et qui est :
 
-**(i)** soit du matériel générateur d’électricité (sauf celui visé à l’un des alinéas f) à h) de la catégorie 8),
+**(i)** soit du matériel générateur d’électricité, sauf celui compris dans les catégories 8 (par l’effet de ses alinéas f) à h)), 43.1, 43.2 ou 48,
 
 
 
-**(ii)** soit du matériel de production et de distribution d’un distributeur d’eau ou de vapeur servant au chauffage ou au refroidissement (y compris, à cette fin, les canalisations servant à recueillir ou à distribuer un médium de transfert d’énergie, mais à l’exclusion du matériel ou des canalisations servant à distribuer de l’eau pour consommation, évacuation ou traitement);
+**(ii)** soit du matériel de production et de distribution d’un distributeur d’eau ou de vapeur (sauf ce type de biens compris dans les catégories 43.1 ou 43.2) servant au chauffage ou au refroidissement (y compris, à cette fin, les canalisations servant à recueillir ou à distribuer un médium de transfert d’énergie, mais à l’exclusion du matériel ou des canalisations servant à distribuer de l’eau pour consommation, évacuation ou traitement);
 
 
 
@@ -18770,7 +18820,7 @@ ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne s
 **c)** une route (sauf une route d’accès temporaire déterminée du contribuable), un trottoir, une piste d’envol, une aire de stationnement ou d’entreposage ou une construction de surface semblable.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/99-179, art. 13; DORS/2005-371, art. 10..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/99-179, art. 13; DORS/2005-371, art. 10; DORS/2006-117, art. 10..
 
 
 
@@ -20072,8 +20122,16 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 **CATÉGORIE 42** 
 
-Les biens qui sont des câbles de fibres optiques.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 28..
+Les biens constitués par :
+
+**a)** des câbles de fibres optiques;
+
+
+
+**b)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, autre que des câbles de fibres optiques inclus dans la présente catégorie en vertu de l’alinéa a), acquis après le 22 février 2005, et qui n’ont pas été utilisés, ni achetés pour être utilisés, à quelque fin que ce soit avant le 23 février 2005.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 28; DORS/2006-117, art. 11..
 
 
 
@@ -20104,7 +20162,7 @@ Les biens acquis après le 25 février 1992 qui, selon le cas :
 
 **CATÉGORIE 43.1** 
 
-Les biens, sauf le matériel remis en état ou remis à neuf, qui seraient compris par ailleurs dans les catégories 1, 2, 8 ou 17 (par l’effet de son sous-alinéa a.1)(i)) et :
+Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autrement compris dans les catégories 1, 2, 8, 17 (par l’effet de son alinéa a.1)) ou 48 et :
 
 **a)** qui constituent :
 
@@ -20129,6 +20187,10 @@ Les biens, sauf le matériel remis en état ou remis à neuf, qui seraient compr
 **(B)** la réutilisation de ces déchets pour produire de l’énergie électrique au moyen du matériel visé aux sous-alinéas (i) ou (ii),
 
 
+
+
+
+**(iii.1)** de l’équipement de réseau énergétique de quartier,
 
 
 
@@ -20168,11 +20230,11 @@ Les biens, sauf le matériel remis en état ou remis à neuf, qui seraient compr
 
 **(A)** étaient des biens amortissables qui, selon le cas :
 
-**(I)** étaient compris dans les catégories 34 ou 43.1 de la personne de qui ils ont été acquis,
+**(I)** étaient compris dans les catégories 34, 43.1 ou 43.2 de la personne de qui ils sont acquis,
 
 
 
-**(II)** auraient été compris dans les catégories 34 ou 43.1 de cette personne si celle-ci avait choisi de les inclure dans la catégorie 43.1 conformément aux modalités prévues aux alinéas 1102(8)d) ou 1102(9)d),
+**(II)** auraient été compris dans les catégories 34, 43.1 ou 43.2 de la personne si celle-ci avait choisi de les inclure dans les catégories 43.1 ou 43.2 conformément aux alinéas 1102(8)d) ou (9)d),
 
 
 
@@ -20364,7 +20426,19 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-**(xii)** des piles à combustible stationnaires utilisées par le contribuable ou par son preneur, ayant une capacité de pointe d’au moins trois kilowatts de puissance électrique et utilisant de l’hydrogène produit uniquement par du matériel auxiliaire d’électrolyse (ou, s’il s’agit d’une pile à combustible reversible, par la pile proprement dite) qui utilise de l’électricité produite par du matériel photovoltaïque ou hydro-électrique, ou du matériel de conversion de l’énergie cinétique du vent, du contribuable ou de son preneur, ainsi que du matériel auxiliaire de pile à combustible, à l’exclusion des bâtiments et autres constructions, du matériel de transmission, du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens autrement compris dans les catégories 10 ou 17;
+**(xii)** des piles à combustible stationnaires utilisées par le contribuable ou par son preneur, ayant une capacité de pointe d’au moins trois kilowatts de puissance électrique et utilisant de l’hydrogène produit uniquement par du matériel auxiliaire d’électrolyse (ou, s’il s’agit d’une pile à combustible reversible, par la pile proprement dite) qui utilise de l’électricité produite par du matériel photovoltaïque ou hydro-électrique, ou du matériel de conversion de l’énergie cinétique du vent, du contribuable ou de son preneur, ainsi que du matériel auxiliaire de pile à combustible, à l’exclusion des bâtiments et autres constructions, du matériel de transmission, du matériel de distribution, du matériel auxiliaire générateur d’électricité et des biens autrement compris dans les catégories 10 ou 17,
+
+
+
+**(xiii)** des biens d’un contribuable qui font partie d’un système qu’il utilise, ou qu’utilise son preneur, principalement pour produire, emmagasiner ou utiliser du biogaz produit par digestion anaérobie du fumier, si ce biogaz est utilisé principalement par le contribuable, ou son preneur, pour produire de l’électricité ou pour produire de la chaleur qui est utilisée directement dans un procédé industriel ou une serre, lesquels biens :
+
+**(A)** comprennent le matériel constitué par un réacteur digesteur anaérobie, un bac de mise en charge, un bac de prétraitement, des canalisations de biogaz, une cuve de stockage de biogaz, un appareil d’épuration des biogaz et du matériel générateur d’électricité,
+
+
+
+**(B)** ne comprennent pas les biens qui servent à recueillir le fumier, à le stocker (sauf un bac de mise en charge) ou à le transporter jusqu’au système, le matériel qui sert à traiter les résidus après la digestion ou à traiter les liquides récupérés, le matériel auxiliaire générateur d’électricité, les bâtiments et autres constructions, le matériel de transmission, le matériel de distribution, le matériel conçu pour stocker l’énergie électrique, les biens compris par ailleurs dans la catégorie 10 et les biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i);
+
+
 
 
 
@@ -20392,11 +20466,11 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 **(A)** étaient des biens amortissables qui, selon le cas :
 
-**(I)** étaient compris dans les catégories 34 ou 43.1 de la personne de qui ils ont été acquis,
+**(I)** étaient compris dans les catégories 34, 43.1 ou 43.2 de la personne de qui ils sont acquis,
 
 
 
-**(II)** auraient été compris dans les catégories 34 ou 43.1 de cette personne si celle-ci avait choisi de les inclure dans la catégorie 43.1 conformément aux modalités prévues aux alinéas 1102(8)d) ou 1102(9)d),
+**(II)** auraient été compris dans les catégories 34, 43.1 ou 43.2 de la personne si celle-ci avait choisi de les inclure dans les catégories 43.1 ou 43.2 conformément aux alinéas 1102(8)d) ou (9)d),
 
 
 
@@ -20409,7 +20483,23 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12..
+
+
+
+
+**CATÉGORIE 43.2** 
+
+Les biens acquis après le 22 février 2005 et avant 2012 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
+
+**a)** si le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU » ;
+
+
+
+**b)** par l’effet de l’alinéa d) de cette catégorie.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 13..
 
 
 
@@ -20449,7 +20539,67 @@ Les biens acquis après le 22 mars 2004 (sauf ceux acquis avant 2005 qui font l�
 **CATÉGORIE 46** 
 
 Les biens acquis après le 22 mars 2004 qui sont constitués par du matériel d’infrastructure pour réseaux de données et des logiciels de systèmes connexes et qui, en l’absence de la présente catégorie, seraient compris dans la catégorie 8 par l’effet de son alinéa i).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-414, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2005-414, art. 6..
+
+
+
+
+**CATÉGORIE 47** 
+
+Les biens acquis après le 22 février 2005 qui consistent en matériel de transmission ou de distribution (qui peut comprendre, à cette fin, une construction) servant à la transmission ou à la distribution d’énergie électrique, à l’exclusion :
+
+**a)** des biens qui sont des bâtiments;
+
+
+
+**b)** des biens qui ont été utilisés ou acquis à une fin quelconque par un contribuable avant le 23 février 2005.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14..
+
+
+
+
+**CATÉGORIE 48** 
+
+Les biens acquis après le 22 février 2005 qui constituent des turbines de combustion (y compris les brûleurs et les compresseurs connexes) qui produisent de l’énergie électrique, à l’exclusion :
+
+**a)** du matériel générateur d’électricité visé à l’un des alinéas f) à h) de la catégorie 8;
+
+
+
+**b)** des biens acquis avant 2006 à l’égard desquels le choix prévu au paragraphe 1101(5t) a été fait;
+
+
+
+**c)** des biens qui ont été utilisés ou acquis en vue d’être utilisés à une fin quelconque par un contribuable avant le 23 février 2005.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14..
+
+
+
+
+**CATÉGORIE 49** 
+
+Les biens acquis après le 22 février 2005 qui constituent un pipeline, y compris les compteurs, jauges, valves et autres dispositifs de contrôle et de surveillance et les autres appareils auxiliaires du pipeline, servant au transport (mais non à la distribution) de pétrole, de gaz naturel ou d’hydrocarbures connexes, à l’exclusion :
+
+**a)** d’un pipeline visé au sous-alinéa l)(ii) de la catégorie 1;
+
+
+
+**b)** d’un bien qui a été utilisé ou acquis pour être utilisé à une fin quelconque par un contribuable avant le 23 février 2005;
+
+
+
+**c)** du matériel compris dans la catégorie 7 par l’effet de son alinéa j);
+
+
+
+**d)** d’un bâtiment ou d’une autre construction.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2006-117, art. 14.
 
 
 
