@@ -21251,15 +21251,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 26 avril 2005
+## au 1er juin 2006
 <table>
 <tr>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
-</tr>
-<tr>
-<td>Dénomination sociale de la banque</td>
-<td>Siège social</td>
+<th>Dénomination sociale de la banque</th>
+<th>Siège social</th>
 </tr>
 <tr>
 <td>Banque Amicus</td>
@@ -21275,6 +21271,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque Ouest</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>Banque Bridgewater</td>
 <td>Alberta</td>
 </tr>
 <tr>
@@ -21303,7 +21303,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque des Premières Nations du Canada</td>
-<td>Ontario</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
@@ -21322,6 +21322,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
+<td>Banque Nationale de Grèce (Canada)</td>
+<td>Québec</td>
+</tr>
+<tr>
 <td>Banque Pacifique et de l’ouest du Canada</td>
 <td>Ontario</td>
 </tr>
@@ -21334,10 +21338,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
-<td>Banque Sears Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>La Banque Toronto-Dominion</td>
 <td>Ontario</td>
 </tr>
@@ -21347,22 +21347,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 1760.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 26 avril 2005
+## au 1er juin 2006
 <table>
 <tr>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
-</tr>
-<tr>
-<td>Dénomination sociale de la banque</td>
-<td>Siège social</td>
+<th>Dénomination sociale de la banque</th>
+<th>Siège social</th>
 </tr>
 <tr>
 <td>Banque ABN AMRO du Canada</td>
@@ -21385,7 +21381,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque de Tokyo-Mitsubishi (Canada)</td>
+<td>Banque de Tokyo-Mitsubishi UFJ (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21429,11 +21425,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque J.P. Morgan Canada</td>
+<td>J.P. Morgan Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>J.P. Morgan Canada</td>
+<td>Banque J.P. Morgan Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21447,10 +21443,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Banque Commerciale Mizuho (Canada)</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>Banque Nationale de Grèce (Canada)</td>
-<td>Québec</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
@@ -21468,121 +21460,111 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Banque UBS (Canada)</td>
 <td>Ontario</td>
 </tr>
-<tr>
-<td>Banque UFJ du Canada</td>
-<td>Ontario</td>
-</tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 1760.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 26 avril 2005
+## au 1er juin 2006
 <table>
 <tr>
-<td>Colonne 1</td>
-<td>Colonne 2</td>
-<td>Colonne 3</td>
-<td>Colonne 4</td>
-</tr>
-<tr>
-<td>Dénomination sociale de la banque étrangère autorisée</td>
-<td>Dénomination sociale sous laquelle elle est autorisée à exercer ses activités au Canada</td>
-<td>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></td>
-<td>Bureau principal</td>
+<th>Dénomination sociale de la banque étrangère autorisée</th>
+<th>Dénomination sociale sous laquelle elle est autorisée à exercer ses activités au Canada</th>
+<th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
+<th>Bureau principal</th>
 </tr>
 <tr>
 <td>ABN AMRO Bank N.V.</td>
 <td>ABN AMRO Bank N.V.</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Service complet</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Bayerische Landesbank</td>
-<td>Bayerische Landesbank</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Capital One Bank</td>
 <td>Capital One Bank (Canada Branch)</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Citibank, N.A.</td>
 <td>Citibank, N.A.</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Comerica Bank</td>
 <td>Comerica Bank</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A.</td>
 <td>Rabobank Nederland</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Credit Suisse First Boston</td>
-<td>Credit Suisse First Boston, succursale de Toronto</td>
+<td>Credit Suisse</td>
+<td>Credit Suisse, succursale de Toronto</td>
 <td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Deutsche Bank AG</td>
 <td>Deutsche Bank AG</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
+</tr>
+<tr>
+<td>Dexia Crédit Local S.A.</td>
+<td>Dexia Crédit Local S.A.</td>
+<td>Services complets</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
 <td>Fifth Third Bank</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>First Commercial Bank</td>
 <td>First Commercial Bank</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>JP Morgan Chase Bank, National Association</td>
-<td>JP Morgan Chase Bank, National Association</td>
-<td>Service complet</td>
+<td>JPMorgan Chase Bank, National Association</td>
+<td>JPMorgan Chase Bank, National Association</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Maple Bank GmbH</td>
 <td>Maple Bank</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Mellon Bank, N.A.</td>
 <td>Mellon Bank, N.A.</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21598,15 +21580,21 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Société Générale</td>
+<td>Société Générale (Succursale Canada)</td>
+<td>Services complets</td>
+<td>Québec</td>
+</tr>
+<tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>UBS AG</td>
 <td>UBS AG succursale de Canada</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21618,13 +21606,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>United Overseas Bank Limited</td>
 <td>United Overseas Bank Limited</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
 <td>U.S. Bank National Association</td>
 <td>U.S. Bank National Association</td>
-<td>Service complet</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21637,6 +21625,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la  Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 264.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 140, page 1760.
 
 
