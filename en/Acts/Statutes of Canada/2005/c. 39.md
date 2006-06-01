@@ -36,9 +36,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Minister*** means the Minister of Agriculture and Agri-Food.
+***Minister*** means the Minister of Agriculture and Agri-Food. (*ministre*)
 
-***sell*** includes offer for sale, expose for sale and have in possession for sale.
+***sell*** includes offer for sale, expose for sale and have in possession for sale. (*vendre*)
 
 
 
@@ -224,7 +224,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ### **SCHEDULE** 
 **(Sections 3, 3.1 and 4)**
 ## Use of Spirit Drink Names
-**1. (1)** A spirit drink may be sold using the name Grappa if it has been produced exclusively in Italy.
+**1 (1)** A spirit drink may be sold using the name Grappa if it has been produced exclusively in Italy.
 
 **(2)** A spirit drink may be sold using the name *Grappa di Ticino* if it has been produced in the Ticino region of Switzerland.
 
@@ -267,7 +267,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **13** Mezcal may be sold under that name if it has been manufactured in Mexico in accordance with the laws and regulations of Mexico governing the manufacture of Mezcal.
 
 
-**14. (1)** Caribbean rum may be sold under that name if it has been
+**14 (1)** Caribbean rum may be sold under that name if it has been
 
 **(a)** made from sugar cane products of a Commonwealth Caribbean country and distilled and fermented in a Commonwealth Caribbean country; or
 
