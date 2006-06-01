@@ -105,9 +105,10 @@ lorsqu’ils s’adressent à une seule personne ou à un seul organisme;
 - **i)** ordonnances prises par l’Office de répartition des approvisionnements d’énergie en vertu de la [Loi d’urgence sur les approvisionnements d’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-9.md) et s’adressant à une seule personne ou à un seul organisme;
 - **j)** ordonnances rendues par une personne affectée ou employée à l’exécution ou à l’application de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) et qui modifient les périodes de fermeture, les contingents de pêche ou les limites de taille ou de poids du poisson fixés dans un règlement établi en vertu de cette loi, pour une zone ou pour un secteur de zone;
 - **j.1)** ordonnances prises en vertu du paragraphe 3(1) du [Règlement sur la gestion de la pêche du poisson contaminé](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/351.md);
-- **k)** permis délivrés par le ministre des Transports ou la personne que le ministre des Transports désigne en vertu de l’alinéa 3(3)c) ou du paragraphe 27(1) de la Loi sur le transport des marchandises dangereuses; et
-- **l)** règles d’appartenance fixées par une bande en vertu de l’alinéa 10(2)a) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et règlements administratifs pris par le conseil d’une bande en vertu de l’article 81 ou des paragraphes 83(1) ou 85.1(1) de cette loi.
-> DORS/78-814, art. 1; DORS/79-113, art. 1; DORS/80-900, art. 1; DORS/81-694, art. 1; DORS/86-172, art. 1; DORS/86-443, art. 1; DORS/87-398, art. 1; DORS/91-99, art. 1; DORS/91-430, art. 1; DORS/93-245, art. 2; DORS/94-479, art. 1; DORS/97-381, art. 1.
+- **k)** permis délivrés par le ministre des Transports ou la personne que le ministre des Transports désigne en vertu de l’alinéa 3(3)c) ou du paragraphe 27(1) de la Loi sur le transport des marchandises dangereuses;
+- **l)** règles d’appartenance fixées par une bande en vertu de l’alinéa 10(2)a) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et règlements administratifs pris par le conseil d’une bande en vertu de l’article 81 ou des paragraphes 83(1) ou 85.1(1) de cette loi; et
+- **m)** licences, permis et autres autorisations octroyés en vertu des règlements pris en application de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
+> DORS/78-814, art. 1; DORS/79-113, art. 1; DORS/80-900, art. 1; DORS/81-694, art. 1; DORS/86-172, art. 1; DORS/86-443, art. 1; DORS/87-398, art. 1; DORS/91-99, art. 1; DORS/91-430, art. 1; DORS/93-245, art. 2; DORS/94-479, art. 1; DORS/97-381, art. 1; DORS/2006-123, art. 1.
 
 
 
