@@ -21710,15 +21710,11 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## as at April 26, 2005
+## As at June 1, 2006
 <table>
 <tr>
-<td>Column 1</td>
-<td>Column 2</td>
-</tr>
-<tr>
-<td>Name of Bank</td>
-<td>Head Office</td>
+<th>Name of Bank</th>
+<th>Head Office</th>
 </tr>
 <tr>
 <td>Amicus Bank</td>
@@ -21734,6 +21730,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>Bank West</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>Bridgewater Bank</td>
 <td>Alberta</td>
 </tr>
 <tr>
@@ -21762,7 +21762,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>First Nations Bank of Canada</td>
-<td>Ontario</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
@@ -21781,6 +21781,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Quebec</td>
 </tr>
 <tr>
+<td>National Bank of Greece (Canada)</td>
+<td>Quebec</td>
+</tr>
+<tr>
 <td>Pacific & Western Bank of Canada</td>
 <td>Ontario</td>
 </tr>
@@ -21793,10 +21797,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Quebec</td>
 </tr>
 <tr>
-<td>Sears Canada Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>The Toronto-Dominion Bank</td>
 <td>Ontario</td>
 </tr>
@@ -21806,22 +21806,18 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## as at April 26, 2005
+## As at June 1, 2006
 <table>
 <tr>
-<td>Column 1</td>
-<td>Column 2</td>
-</tr>
-<tr>
-<td>Name of Bank</td>
-<td>Head Office</td>
+<th>Name of Bank</th>
+<th>Head Office</th>
 </tr>
 <tr>
 <td>ABN AMRO Bank Canada</td>
@@ -21844,7 +21840,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Bank of Tokyo-Mitsubishi (Canada)</td>
+<td>Bank of Tokyo-Mitsubishi UFJ (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21888,11 +21884,11 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>J.P. Morgan Bank Canada</td>
+<td>J.P. Morgan Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
-<td>J.P. Morgan Canada</td>
+<td>J.P. Morgan Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -21906,10 +21902,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>Mizuho Corporate Bank (Canada)</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>National Bank of Greece (Canada)</td>
-<td>Quebec</td>
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
@@ -21927,27 +21919,17 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>UBS Bank (Canada)</td>
 <td>Ontario</td>
 </tr>
-<tr>
-<td>UFJ Bank Canada</td>
-<td>Ontario</td>
-</tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## as at April 26, 2005
+## As at June 1, 2006
 <table>
-<tr>
-<td>Column 1</td>
-<td>Column 2</td>
-<td>Column 3</td>
-<td>Column 4</td>
-</tr>
 <tr>
 <td>Name of Authorized Foreign Bank (FB)</td>
 <td>Name under which FB is permitted to carry on business in Canada</td>
@@ -21963,12 +21945,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
-<td>Full-service</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Bayerische Landesbank</td>
-<td>Bayerische Landesbank</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -21997,8 +21973,8 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Credit Suisse First Boston</td>
-<td>Credit Suisse First Boston Toronto Branch</td>
+<td>Credit Suisse</td>
+<td>Credit Suisse, Toronto Branch</td>
 <td>Lending</td>
 <td>Ontario</td>
 </tr>
@@ -22007,6 +21983,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Deutsche Bank AG</td>
 <td>Full-service</td>
 <td>Ontario</td>
+</tr>
+<tr>
+<td>Dexia Crédit Local S.A.</td>
+<td>Dexia Crédit Local S.A.</td>
+<td>Full-service</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
@@ -22057,6 +22039,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Société Générale</td>
+<td>Société Générale (Canada Branch)</td>
+<td>Full-service</td>
+<td>Quebec</td>
+</tr>
+<tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
 <td>Full-service</td>
@@ -22095,7 +22083,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </table>
 
 
-<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the  Bank Act is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 264.
+<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the  Bank Act, is referred to as a “lending” branch.<br />
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
 
 
