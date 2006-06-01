@@ -2737,9 +2737,13 @@ in respect of which the election is made;
 		- **(xxviii)** of Class 42, 12 per cent,
 		- **(xxix)** of Class 43, 30 per cent,
 		- **(xxix.1)** of Class 43.1, 30 per cent,
+		- **(xxix.2)** of Class 43.2, 50 per cent,
 		- **(xxx)** of Class 44, 25 per cent,
-		- **(xxxi)** of Class 45, 45 per cent, and
+		- **(xxxi)** of Class 45, 45 per cent,
 		- **(xxxii)** of Class 46, 30 per cent,
+		- **(xxxiii)** of Class 47, 8 per cent,
+		- **(xxxiv)** of Class 48, 15 per cent, and
+		- **(xxxv)** of Class 49, 8 per cent,
 of the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
 
 #### Class 13
@@ -3351,20 +3355,20 @@ exceeds
 #### Specified Energy Property
 
 
-- **(24)** Notwithstanding subsection (1), in no case shall the total of deductions, each of which is a deduction in respect of property of Class 34 or 43.1 in Schedule II that is specified energy property owned by a taxpayer, otherwise allowed to the taxpayer under subsection (1) in computing the taxpayer’s income for a taxation year, exceed the amount, if any, by which
+- **(24)** Notwithstanding subsection (1), in no case shall the total of deductions, each of which is a deduction in respect of property of Class 34, 43.1, 43.2, 47 or 48 in Schedule II that is specified energy property owned by a taxpayer, otherwise allowed to the taxpayer under subsection (1) in computing the taxpayer’s income for a taxation year, exceed the amount, if any, by which
 	- **(a)** the total of all amounts each of which is
 		- **(i)** the total of
-			- **(A)** the amount that would be the income of the taxpayer for the year from property described in Class 34 or 43.1 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and
+			- **(A)** the amount that would be the income of the taxpayer for the year from property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and
 			- **(B)** the taxpayer’s income for the year from specified energy property or from the business of selling the product of that property, computed without regard to paragraph 20(1)(a) of the Act, or
 		- **(ii)** the total of
-			- **(A)** the taxpayer’s share of the amount that would be the income of a partnership for the year from property described in Class 34 or 43.1 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and
+			- **(A)** the taxpayer’s share of the amount that would be the income of a partnership for the year from property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II (other than specified energy property), or from the business of selling the product of that property, if that income were calculated after deducting the maximum amount allowable in respect of the property for the year under paragraph 20(1)(a) of the Act, and
 			- **(B)** the income of a partnership for the year from specified energy property or from the business of selling the product of that property of the partnership, to the extent of the taxpayer’s share of that income,
 exceeds
 	- **(b)** the total of all amounts each of which is
 		- **(i)** the taxpayer’s loss for the year from specified energy property or from the business of selling the product of that property, computed without regard to paragraph 20(1)(a) of the Act, or
 		- **(ii)** the loss of a partnership for the year from specified energy property or from the business of selling the product of that property of the partnership, to the extent of the taxpayer’s share of that loss.
 
-- **(25)** Subject to subsections (27) to (29), in this section and section 1101, ***specified energy property*** of a taxpayer or partnership (in this subsection referred to as “the owner”) for a taxation year means property of Class 34 or 43.1 in Schedule II that was acquired by the owner after February 9, 1988 other than a particular property
+- **(25)** Subject to subsections (27) to (29), in this section and section 1101, ***specified energy property*** of a taxpayer or partnership (in this subsection referred to as “the owner”) for a taxation year means property of Class 34 in Schedule II acquired by the owner after February 9, 1988 and property of Class 43.1, 43.2, 47 or 48 in Schedule II, other than a particular property
 	- **(a)** acquired to be used by the owner primarily for the purpose of gaining or producing income from a business carried on in Canada (other than the business of selling the product of the particular property) or from another property situated in Canada, or
 	- **(b)** leased in the year, in the ordinary course of carrying on a business of the owner in Canada, to
 		- **(i)** a person who can reasonably be expected to use the property primarily for the purpose of gaining or producing income from a business carried on in Canada (other than the business of selling the product of the particular property) or from another property situated in Canada, or
@@ -3373,7 +3377,7 @@ where the owner was
 		- **(iii)** a corporation whose principal business was, throughout the year,
 			- **(A)** the renting or leasing of leasing property or property that would be leasing property but for subsection (18), (19) or (20),
 			- **(B)** the renting or leasing of property referred to in clause (A) combined with the selling and servicing of property of the same general type and description, or
-			- **(C)** the manufacturing of property described in Class 34 or 43.1 in Schedule II that it sells or leases,and the gross revenue of the corporation for the year from that principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources, or
+			- **(C)** the manufacturing of property described in Class 34, 43.1, 43.2, 47 or 48 in Schedule II that it sells or leases,and the gross revenue of the corporation for the year from that principal business was not less than 90 per cent of the gross revenue of the corporation for the year from all sources, or
 		- **(iv)** a partnership each member of which was a corporation described in subparagraph (iii) or paragraph (26)(a).
 
 - **(26)** Subsection (24) does not apply to a taxation year of a taxpayer that was, throughout the year,
@@ -3401,7 +3405,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1.
 
 
 
@@ -3696,16 +3700,23 @@ for properties that are described in paragraph (b) and that would otherwise be i
 	- **(a)** that were acquired in a taxation year and included in the year in Class 43 in Schedule II because of paragraph (a) of that Class; and
 	- **(b)** that had a capital cost to the taxpayer of at least $1,000.
 
-#### Combustion Turbines
+- **(5t)** [Repealed, SOR/2006-117, s. 2]
+
+#### Equipment Related to Transmission Pipelines
 
 
-- **(5t)** A separate class is prescribed for one or more properties of a taxpayer that are a combustion turbine (including associated burners and compressors) included in Class 17 in Schedule II because of subparagraph (a.1)(i) of that Class if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
+- **(5u)** A separate class is prescribed for one or more properties of a taxpayer that is property included in Class 7 in Schedule II because of paragraph (j) of that Class if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
+
+#### Transmission Pipelines
+
+
+- **(5v)** A separate class is prescribed for one or more properties of a taxpayer that is property included in Class 49 in Schedule II if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
 
 #### Reference
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2.
 
 
 
@@ -3800,7 +3811,7 @@ whichever period is later, was sold to the consumer for that purpose, the proper
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1.
+	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or Class 43.2 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or Class 43.2, as the case may be.
 
 - **(9)** Where a taxpayer has acquired generating or distributing equipment and plant (including structures) for the purpose of providing power for his own consumption in operating a mine, ore mill, smelter, metal refinery or any combination thereof and at least 80 per cent of the output of electrical energy was so used
 	- **(a)** in his 1948 and 1949 taxation years, or
@@ -3812,7 +3823,7 @@ whichever period is the later, the property shall be included in
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1.
+	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or Class 43.2 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or Class 43.2, as the case may be.
 
 - **(9.1)** In their application to generating or distributing equipment and plant (including structures) that were acquired by the taxpayer before November 8, 1969, subsections (8) and (9) shall be read without reference to a “metal refinery”.
 
@@ -3936,7 +3947,11 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 - **(21)** Where a taxpayer has acquired a property described in Class 43.1 of Schedule II in circumstances in which clauses (b)(iii)(A) and (B) or (e)(iii)(A) and (B) of that class apply,
 	- **(a)** the portion of the property, determined by reference to capital cost, that is equal to or less than the capital cost of the property to the person from whom the property was acquired, is included in that class; and
 	- **(b)** the portion of the property, if any, determined by reference to capital cost, that is in excess of the capital cost of the property to the person from whom it was acquired, shall not be included in that class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1.
+
+- **(22)** Where a taxpayer has acquired a property that is described in Class 43.2 in Schedule II in circumstances in which clauses (b)(iii)(A) and (B) or (e)(iii)(A) and (B) of Class 43.1 in Schedule II apply and the property was included in Class 43.2 in Schedule II of the person from whom the taxpayer acquired the property,
+	- **(a)** the portion of the property, determined by reference to capital cost, that is equal to or less than the capital cost of the property to the person from whom the property was acquired is included in Class 43.2 in Schedule II; and
+	- **(b)** the portion of the property, if any, determined by reference to capital cost, that is in excess of the capital cost of the property to the person from whom it was acquired shall not be included in Class 43.1 or 43.2 in Schedule II.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3.
 
 
 
@@ -4291,10 +4306,12 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 - **(12)** For the purposes of Class 37 in Schedule II, ***amusement park*** means a park open to the public where amusements, rides and audio-visual attractions are permanently situated.
 
-#### Class 43.1 — Energy Conservation Property
+#### Classes 43.1 and 43.2 — Energy Conservation Property
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
 
 
-- **(13)** The definitions in this subsection apply for the purposes of this subsection and subsection (14) and Class 43.1 in Schedule II.
+
+- **(13)** The definitions in this subsection apply for the purposes of this subsection, subsections (14) to (16) and Classes 43.1 and 43.2 in Schedule II.
 
 ***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
 
@@ -4305,6 +4322,12 @@ and a certificate that has been so revoked shall be void from the time of its is
 ***digester gas*** means a mixture of gases that are produced from the decomposition of organic waste in a digester and that are extracted from an eligible sewage treatment facility for that organic waste. (*gaz de digesteur*)
 
 ***distribution equipment*** means equipment (other than transmission equipment) used to distribute electrical energy generated by electrical generating equipment. (*matériel de distribution*)
+
+***district energy equipment*** means property that is part of a district energy system and that consists of pipes or pumps used to collect and distribute an energy transfer medium, meters, control equipment, chillers and heat exchangers that are attached to the main distribution line of a district energy system, but does not include
+- **(a)** property used to distribute water that is for consumption, disposal or treatment; or
+- **(b)** property that is part of the internal heating or cooling system of a building. (*équipement de réseau énergétique de quartier*)
+
+***district energy system*** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy that is primarily produced by electrical cogeneration equipment that meets the requirements of paragraphs (a) to (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II. (*réseau énergétique de quartier*)
 
 ***eligible landfill site*** means a landfill site that is situated in Canada, or a former landfill site that is situated in Canada, and, if a permit or licence in respect of the site is or was required under any law of Canada or of a province, for which the permit or licence has been issued. (*site d’enfouissement admissible*)
 
@@ -4330,14 +4353,16 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***wood waste*** includes scrap wood, sawdust, wood chips, bark, limbs, saw-ends and hog fuel, but does not include residuals (known as ***black liquor***) from wood pulp operations and any waste that no longer has the physical or chemical properties of wood. (*déchets de bois*)
 
-- **(14)** Where property of a taxpayer is not operating in the manner required by paragraph (c) of Class 43.1 in Schedule II solely because of a deficiency, failing or shutdown — that is beyond the control of the taxpayer — of the system of which it is part and that previously operated in the manner required by that paragraph, that property is deemed, for the purpose of that paragraph, to be operating in the manner required under that paragraph during the period of the deficiency, failing or shutdown, if the taxpayer makes all reasonable efforts to rectify the circumstances within a reasonable time.
+- **(14)** Where property of a taxpayer is not operating in the manner required by paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II solely because of a deficiency, failing or shutdown that is beyond the control of the taxpayer of the system of which it is a part and that previously operated in the manner required by that paragraph, as the case may be, that property is deemed, for the purpose of that paragraph, to be operating in the manner required under that paragraph during the period of the deficiency, failing or shutdown, if the taxpayer makes all reasonable efforts to rectify the circumstances within a reasonable time.
 
-- **(15)** For the purpose of subsection (14), a taxpayer’s system referred to in that subsection that has at any particular time operated in the manner required by paragraph (c) of Class 43.1 in Schedule II includes at any time after the particular time a property of another person or partnership if
+- **(15)** For the purpose of subsection (14), a taxpayer’s system referred to in that subsection that has at any particular time operated in the manner required by paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II includes at any time after the particular time a property of another person or partnership if
 	- **(a)** the property would reasonably be considered to be part of the taxpayer’s system were the property owned by the taxpayer;
 	- **(b)** the property utilizes steam obtained from the taxpayer’s system primarily in an industrial process (other than the generation of electrical energy);
-	- **(c)** the operation of the property is necessary for the taxpayer’s system to operate in the manner required by paragraph (c) of Class 43.1; and
+	- **(c)** the operation of the property is necessary for the taxpayer’s system to operate in the manner required by paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be; and
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1.
+
+- **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4.
 
 
 
@@ -5501,10 +5526,10 @@ other than
 
 **1219** 
 
-- **(1)** Subject to subsections (2) to (4), for the purpose of subsection 66.1(6) of the Act, ***Canadian renewable and conservation expense*** means an expense incurred by a taxpayer, and payable to a person or partnership with whom the taxpayer is dealing at arm’s length, in respect of the development of a project for which it is reasonable to expect that at least 50% of the capital cost of the depreciable property to be used in the project would be the capital cost of any property that is described in Class 43.1 of Schedule II or that would be such property but for this subsection, and includes such an expense incurred by the taxpayer
+- **(1)** Subject to subsections (2) to (4), for the purpose of subsection 66.1(6) of the Act, ***Canadian renewable and conservation expense*** means an expense incurred by a taxpayer, and payable to a person or partnership with whom the taxpayer is dealing at arm’s length, in respect of the development of a project for which it is reasonable to expect that at least 50% of the capital cost of the depreciable property to be used in the project would be the capital cost of any property that is included in Class 43.1 or 43.2 in Schedule II, or that would be so included if this Part were read without reference to this section, and includes such an expense incurred by the taxpayer
 	- **(a)** for the purpose of making a service connection to the project for the transmission of electricity to a purchaser of the electricity, to the extent that the expense so incurred was not incurred to acquire property of the taxpayer;
 	- **(b)** for the construction of a temporary access road to the project site;
-	- **(c)** for a right of access to the project site before the earliest time at which a property described in Class 43.1 of Schedule II is used in the project for the purpose of earning income;
+	- **(c)** for a right of access to the project site before the earliest time at which a property described in Class 43.1 or 43.2 in Schedule II is used in the project for the purpose of earning income;
 	- **(d)** for clearing land to the extent necessary to complete the project;
 	- **(e)** for process engineering for the project, including
 		- **(i)** collection and analysis of site data,
@@ -5525,13 +5550,13 @@ other than
 		- **(vi)** included in the cost of inventory of the taxpayer,
 		- **(vii)** an expenditure on or in respect of scientific research and experimental development,
 		- **(viii)** a Canadian development expense or a Canadian oil and gas property expense,
-		- **(ix)** incurred, for a project, in respect of any time at or after the earliest time at which a property described in Class 43.1 of Schedule II was used in the project for the purpose of earning income,
+		- **(ix)** incurred, for a project, in respect of any time at or after the earliest time at which a property described in Class 43.1 or 43.2 in Schedule II was used in the project for the purpose of earning income,
 		- **(x)** incurred in respect of the administration or management of a business of the taxpayer, or
-		- **(xi)** a cost attributable to the period of the construction, renovation or alteration of depreciable property, other than property described in Class 43.1 of Schedule II, that relates to
+		- **(xi)** a cost attributable to the period of the construction, renovation or alteration of depreciable property, other than property described in Class 43.1 or 43.2 in Schedule II, that relates to
 			- **(A)** the construction, renovation or alteration of the property, except as provided by paragraph (1)(b), (f), or (g), or
 			- **(B)** the ownership of land during the period, except as provided by paragraph (1)(b), (c) or (d).
 
-- **(3)** For the purpose of paragraph (1)(g), ***test wind turbine*** means a fixed location device that is a wind energy conversion system that would, but for this section, be property included in Class 43.1 of Schedule II because of subparagraph (d)(v) thereof, and in respect of which the Minister, in consultation with the Minister of Natural Resources, determines that
+- **(3)** For the purpose of paragraph (1)(g), ***test wind turbine*** means a fixed location device that is a wind energy conversion system that would, if this Part were read without reference to this section, be property included in Class 43.1 in Schedule II because of subparagraph (d)(v) of that Class, or in Class 43.2 in Schedule II because of paragraph (b) of that Class, in respect of which the Minister, in consultation with the Minister of Natural Resources, determines that
 	- **(a)** the device is installed as part of a wind farm project of the taxpayer at which the electrical energy produced from wind by the device, and by all other test wind turbines that are part of the project, does not exceed
 		- **(i)** one third of the project’s planned nameplate capacity if
 			- **(A)** in the opinion of the Minister of Natural Resources, the project’s planned nameplate capacity is limited from an engineering or scientific perspective, and
@@ -5550,7 +5575,7 @@ other than
 	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
 
 - **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5.
 
 
 
@@ -9089,9 +9114,10 @@ where
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
 	- **(j)** a property included in Class 28 or paragraph (a), (a.1), (a.2) or (a.3) of Class 41 in Schedule II that would, but for Class 28 or 41, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
 	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45 or 46 in Schedule II;
-	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II; or
-	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4.
+	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
+	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
+	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6.
 
 
 
@@ -13221,8 +13247,8 @@ exceeds
 
 
 
-**8200.1** For the purposes of subsection 13(18.1) and subparagraph 241(4)(d)(vi.1) of the Act, prescribed energy conservation property means property described in Class 43.1 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-377, s. 5.
+**8200.1** For the purposes of subsection 13(18.1) and subparagraph 241(4)(d)(vi.1) of the Act, ***prescribed energy conservation property*** means property described in Class 43.1 or 43.2 in Schedule II.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/97-377, s. 5; SOR/2006-117, s. 7.
 
 
 
@@ -17627,7 +17653,15 @@ Property not included in any other class that is
 
 
 
-**(l)** a pipeline, other than gas or oil well equipment, unless, in the case of a pipeline for oil or natural gas, the Minister, in consultation with the Minister of Energy, Mines and Resources, is or has been satisfied that the main source of supply for the pipeline is or was likely to be exhausted within 15 years after the date on which operation of the pipeline commenced;
+**(l)** a pipeline, other than
+
+**(i)** a pipeline that is gas or oil well equipment, and
+
+
+
+**(ii)** a pipeline that is for oil or natural gas if the Minister, in consultation with the Minister of Natural Resources, is or has been satisfied that the main source of supply for the pipeline is or was likely to be exhausted within 15 years after the date on which the operation of the pipeline commenced;
+
+
 
 
 
@@ -17662,7 +17696,7 @@ Property not included in any other class that is
 **(q)** a building or other structure, or a part of it, including any component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators (except property described in any of paragraphs (k) and (m) to (p) of this Class or in any of paragraphs (a) to (e) of Class 8).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7; SOR/2006-117, s. 8..
 
 
 
@@ -18051,16 +18085,32 @@ Property that is
 
 
 
-**(ii)** a railway car; or
+**(ii)** a railway car;
 
 
 
 
 
-**(i)** property acquired after February 27, 2000 that is a railway locomotive, but not including an automotive railway car.
+**(i)** property acquired after February 27, 2000 that is a railway locomotive, but not including an automotive railway car; or
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 13; SOR/2005-371, s. 8..
+
+**(j)** pumping or compression equipment, including equipment ancillary to pumping and compression equipment, acquired after February 22, 2005 if the equipment pumps or compresses petroleum, natural gas or a related hydrocarbon for the purpose of moving it
+
+**(i)** through a transmission pipeline,
+
+
+
+**(ii)** from a transmission pipeline to a storage facility, or
+
+
+
+**(iii)** to a transmission pipeline from a storage facility.
+
+
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 13; SOR/2005-371, s. 8; SOR/2006-117, s. 9..
 
 
 
@@ -18892,11 +18942,11 @@ Property that would otherwise be included in another class in this Schedule that
 
 **(a.1)** property (other than a building or other structure) acquired after February 27, 2000 that has not been used for any purpose before February 28, 2000 and is
 
-**(i)** electrical generating equipment (other than electrical generating equipment described in any of paragraphs (f) to (h) of Class 8), or
+**(i)** electrical generating equipment (other than electrical generating equipment described in Class 43.1, 43.2 or 48 or in Class 8 because of paragraph (f), (g) or (h) of that Class), or
 
 
 
-**(ii)** production and distribution equipment of a distributor of water or steam used for heating or cooling (including, for this purpose, pipe used to collect or distribute an energy transfer medium but not including equipment or pipe used to distribute water that is for consumption, disposal or treatment),
+**(ii)** production and distribution equipment of a distributor of water or steam (other than such property described in Class 43.1 or 43.2) used for heating or cooling (including, for this purpose, pipe used to collect or distribute an energy transfer medium but not including equipment or pipe used to distribute water that is for consumption, disposal or treatment),
 
 
 
@@ -18921,7 +18971,7 @@ and property not included in any other class, acquired after May 25, 1976, that 
 **(c)** a road (other than a specified temporary access road of the taxpayer), sidewalk, airplane runway, parking area, storage area or similar surface construction.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/99-179, s. 13; SOR/2005-371, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/99-179, s. 13; SOR/2005-371, s. 10; SOR/2006-117, s. 10..
 
 
 
@@ -20235,8 +20285,16 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 **CLASS 42** 
 
-Property that is fibre-optic cable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 28..
+Property that is
+
+**(a)** fibre-optic cable; or
+
+
+
+**(b)** telephone, telegraph or data communication equipment that is a wire or cable (other than a cable included in this class because of paragraph (a)), acquired after February 22, 2005, and that has not been used, or acquired for use, for any purpose before February 23, 2005.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-140, s. 28; SOR/2006-117, s. 11..
 
 
 
@@ -20267,7 +20325,7 @@ Property acquired after February 25, 1992 that
 
 **CLASS 43.1** 
 
-Property, other than reconditioned or remanufactured equipment, that would otherwise be included in Class 1, 2 or 8 or in Class 17 because of subparagraph (a.1)(i) of that Class,
+Property, other than reconditioned or remanufactured equipment, that would otherwise be included in Class 1, 2, 8 or 48 or in Class 17 because of paragraph (a.1) of that Class
 
 **(a)** that is
 
@@ -20292,6 +20350,10 @@ Property, other than reconditioned or remanufactured equipment, that would other
 **(B)** reusing the thermal waste to generate electrical energy from equipment referred to in subparagraph (i) or (ii),
 
 
+
+
+
+**(iii.1)** district energy equipment,
 
 
 
@@ -20331,11 +20393,11 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 **(A)** the property was depreciable property that
 
-**(I)** was included in Class 34 or 43.1 of the person from whom it was acquired, or
+**(I)** was included in Class 34, 43.1 or 43.2 of the person from whom it was acquired, or
 
 
 
-**(II)** that would have been included in Class 34 or 43.1 of the person from whom it was acquired had the person made a valid election to include the property in Class 43.1 pursuant to paragraph 1102(8)(d) or 1102(9)(d), and
+**(II)** would have been included in Class 34, 43.1 or 43.2 of the person from whom it was acquired had the person made a valid election to include the property in Class 43.1 or 43.2, as the case may be, under paragraph 1102(8)(d) or 1102(9)(d), and
 
 
 
@@ -20527,11 +20589,23 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 
 
-**(xi)** equipment used in a system of the taxpayer that converts wood waste or plant residue into bio-oil, if that bio-oil is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity, or electricity and heat, other than equipment used for the collection, storage or transportation of wood waste or plant residue, buildings or other structures and property otherwise included in Class 10 or 17, or
+**(xi)** equipment used in a system of the taxpayer that converts wood waste or plant residue into bio-oil, if that bio-oil is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity, or electricity and heat, other than equipment used for the collection, storage or transportation of wood waste or plant residue, buildings or other structures and property otherwise included in Class 10 or 17,
 
 
 
-**(xii)** fixed location fuel cell equipment used by the taxpayer, or by a lessee of the taxpayer, that has a peak capacity of not less than 3 kilowatts of electrical output and uses hydrogen generated only from ancillary electrolysis equipment (or, if the fuel cell is reversible, the fuel cell itself) using electricity generated by photovoltaic, wind energy conversion or hydro-electric equipment, of the taxpayer or the lessee, and equipment ancillary to the fuel cell equipment other than buildings or other structures, transmission equipment, distribution equipment, auxiliary electrical generating equipment and property otherwise included in Class 10 or 17, and
+**(xii)** fixed location fuel cell equipment used by the taxpayer, or by a lessee of the taxpayer, that has a peak capacity of not less than 3 kilowatts of electrical output and uses hydrogen generated only from ancillary electrolysis equipment (or, if the fuel cell is reversible, the fuel cell itself) using electricity generated by photovoltaic, wind energy conversion or hydro-electric equipment, of the taxpayer or the lessee, and equipment ancillary to the fuel cell equipment other than buildings or other structures, transmission equipment, distribution equipment, auxiliary electrical generating equipment and property otherwise included in Class 10 or 17, or
+
+
+
+**(xiii)** property of a taxpayer that is part of a system that is used by the taxpayer or a lessee of the taxpayer primarily to produce, store and use biogas produced from manure by anaerobic digestion if that biogas is used primarily by the taxpayer or the lessee to produce electricity, or to produce heat that is used directly in an industrial process or in a greenhouse, which property
+
+**(A)** includes equipment that is an anaerobic digester reactor, a buffer tank, a pre-treatment tank, biogas piping, a biogas storage tank, biogas scrubbing equipment and electrical generating equipment, and
+
+
+
+**(B)** does not include property that is used to collect manure, store manure (other than a buffer tank) or move manure to the system, equipment used to process the residue after digestion or to treat recovered liquids, auxiliary electrical generating equipment, buildings or other structures, transmission equipment, distribution equipment, equipment designed to store electrical energy, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i), and
+
+
 
 
 
@@ -20559,11 +20633,11 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 **(A)** the property was depreciable property that
 
-**(I)** was included in Class 34 or 43.1 of the person from whom it was acquired, or
+**(I)** was included in Class 34, 43.1 or 43.2 of the person from whom it was acquired, or
 
 
 
-**(II)** would have been included in Class 34 or 43.1 of the person from whom it was acquired had the person made a valid election to include the property in Class 43.1 pursuant to paragraph 1102(8)(d) or 1102(9)(d), and
+**(II)** would have been included in Class 34, 43.1 or 43.2 of the person from whom it was acquired had the person made a valid election to include the property in Class 43.1 or 43.2, as the case may be, under paragraph 1102(8)(d) or 1102(9)(d), and
 
 
 
@@ -20576,7 +20650,23 @@ other than buildings, distribution equipment, auxiliary electrical generating eq
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12..
+
+
+
+
+**CLASS 43.2** 
+
+Property that is acquired after February 22, 2005 and before 2012 (other than property that was included, before it was acquired, in another Class in this Schedule by any taxpayer) and that is property that would otherwise be included in Class 43.1
+
+**(a)** if the expression “6,000 BTU” in clause (c)(i)(B) of that Class were read as the expression “4,750 BTU”; or
+
+
+
+**(b)** because of paragraph (d) of that Class.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 13..
 
 
 
@@ -20616,7 +20706,67 @@ Property acquired after March 22, 2004 (other than property acquired before 2005
 **CLASS 46** 
 
 Property acquired after March 22, 2004 that is data network infrastructure equipment, and systems software for that equipment, that would, but for this Class, be included in Class 8 because of paragraph (i) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-414, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6..
+
+
+
+
+**CLASS 47** 
+
+Property acquired after February 22, 2005 that is transmission or distribution equipment (which may include for this purpose a structure) used for the transmission or distribution of electrical energy, other than
+
+**(a)** property that is a building; and
+
+
+
+**(b)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14..
+
+
+
+
+**CLASS 48** 
+
+Property acquired after February 22, 2005 that is a combustion turbine (including associated burners and compressors) that generates electrical energy, other than
+
+**(a)** electrical generating equipment described in any of paragraphs (f) to (h) of Class 8;
+
+
+
+**(b)** property acquired before 2006 in respect of which an election is made under subsection 1101(5t); and
+
+
+
+**(c)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14..
+
+
+
+
+**CLASS 49** 
+
+Property acquired after February 22, 2005 that is a pipeline, including control and monitoring devices, valves and other equipment ancillary to the pipeline, used for the transmission (but not the distribution) of petroleum, natural gas or related hydrocarbons, other than
+
+**(a)** a pipeline described in subparagraph (l)(ii) of Class 1;
+
+
+
+**(b)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005;
+
+
+
+**(c)** equipment included in Class 7 because of paragraph (j) of that Class; and
+
+
+
+**(d)** a building or other structure.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2006-117, s. 14.
 
 
 
