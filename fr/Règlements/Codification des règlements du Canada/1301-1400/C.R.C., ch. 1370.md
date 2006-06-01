@@ -143,15 +143,11 @@ Autorités habilitantes :
 ### **ANNEXE II** 
 **(art. 3)**
 
-
-
 **PARTIE I** 
 ## Récepteurs de télévision
 
 
-
-
-## Interprétation
+### Interprétation
 
 **1** Dans la présente partie,
 
@@ -165,11 +161,7 @@ Autorités habilitantes :
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** 
 
@@ -201,11 +193,7 @@ il fonctionne conformément aux normes établies à l’article 3, tant qu’il 
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **3** Tout récepteur de télévision doit fonctionner de façon que,
 - **a)** lorsque le récepteur
@@ -222,19 +210,11 @@ l’émission de rayons ionisants soit telle que l’exposition moyenne, sur une
 
 
 
-
-
-
-
-
-
 **PARTIE II** 
 ## Appareil de radiographie dentaire à rayonnement x de source extra-orale
 
 
-
-
-## Définitions
+### Définitions
 
 **1** 
 
@@ -258,11 +238,7 @@ où :
 
 
 
-
-
-
-
-## Normes de conception
+### Normes de conception
 
 **2** 
 
@@ -296,14 +272,14 @@ où :
 			- **(C)** la dose d’irradiation au récepteur d’image radiologique,
 		- **(iv)** lorsque l’appareil fonctionne en mode d’exposition automatique, garantit que le temps d’irradiation maximal ou le produit courant-temps maximal ne dépasse pas les limites spécifiées à la division 4(1)e)(ii)(C) ou au sous-alinéa 4(1)e)(iv), selon le cas;
 	- **e)** un cône de localisation ou autre dispositif qui limite la distance foyer-peau à un minimum de :
-		- **(i)** 15 cm, dans le cas d’un appareil conçu pour les examens panoramiques,
-		- **(ii)** 18 cm, dans le cas de tout autre appareil;
+		- **(i)** 15 cm, dans le cas d’un appareil conçu pour les examens panoramiques,
+		- **(ii)** 18 cm, dans le cas de tout autre appareil;
 	- **f)** des dispositifs de limitation du faisceau qui :
 		- **(i)** assurent un degré de radioprotection des rayonnements parasites tel que ceux-ci ne dépassent pas la limite prévue à l’alinéa 4(1)g) pour les rayonnements de fuite en provenance de la gaine,
 		- **(ii)** limitent la taille du faisceau de rayonnement X de la façon suivante :
 			- **(A)** au niveau du récepteur d’image radiologique de l’appareil conçu pour les examens panoramiques, le faisceau de rayonnement X est tel qu’il ne dépasse aucune des dimensions de la fente d’exploration de plus de la moitié de cette dimension ou de plus de 2 % de la distance foyer-récepteur d’image, selon la moindre de ces deux valeurs,
-			- **(B)** dans le cas d’un appareil conçu pour fonctionner en mode céphalométrique et utilisé dans ce mode, le faisceau de rayonnement X se limite à un cercle d’au plus 30 cm de diamètre ou à un rectangle d’une superficie d’au plus 800 cm<sup>2</sup>, intercepté entièrement par le récepteur d’image radiologique à une distance de 1,5 m ou à la distance foyer-récepteur d’image maximale, selon la moindre de ces deux distances,
-			- **(C)** dans le cas d’un appareil utilisé avec un récepteur d’image radiologique intra-oral, le faisceau de rayonnement X se limite à un cercle d’au plus 7 cm de diamètre ou à un rectangle d’une superficie d’au plus 38,5 cm<sup>2</sup>;
+			- **(B)** dans le cas d’un appareil conçu pour fonctionner en mode céphalométrique et utilisé dans ce mode, le faisceau de rayonnement X se limite à un cercle d’au plus 30 cm de diamètre ou à un rectangle d’une superficie d’au plus 800 cm<sup>2</sup>, intercepté entièrement par le récepteur d’image radiologique à une distance de 1,5 m ou à la distance foyer-récepteur d’image maximale, selon la moindre de ces deux distances,
+			- **(C)** dans le cas d’un appareil utilisé avec un récepteur d’image radiologique intra-oral, le faisceau de rayonnement X se limite à un cercle d’au plus 7 cm de diamètre ou à un rectangle d’une superficie d’au plus 38,5 cm<sup>2</sup>;
 	- **g)** des filtres d’absorption des rayonnements qui :
 		- **(i)** sont solidement installés sur le parcours du faisceau de rayonnement X,
 		- **(ii)** assurent un degré d’atténuation du faisceau de rayonnement X tel que la première couche de demi-transmission d’aluminium soit au moins égale à la valeur indiquée à la colonne II du tableau du présent sous-alinéa, selon la haute tension radiogène de crête indiquée à la colonne I, ou au moins égale à la valeur obtenue par interpolation linéaire à partir de ce tableau;
@@ -364,25 +340,17 @@ où :
 
 
 
-
-
-
-
-## Normes de construction
+### Normes de construction
 
 **3** Tout appareil de radiographie dentaire à rayonnement X de source extra-orale doit être construit de matériaux et d’une façon tels que :
 - **a)** le tube radiogène soit bien fixé et correctement aligné à l’intérieur de sa gaine;
 - **b)** l’ensemble radiogène à rayonnement X maintienne sa position ou suive le mouvement prévu sans basculer ni présenter de déplacement excessif ou de vibration pendant l’irradiation;
 - **c)** dans des conditions normales d’utilisation, l’appareil fonctionne conformément aux normes de fonctionnement énoncées au paragraphe 4(1) tant qu’il comporte ses pièces d’origine ou les pièces de rechange recommandées par le constructeur;
-- **d)** l’exposition produite par le rayonnement ionisant ou le kerma émis par l’ensemble radiogène à rayonnement X lorsque le circuit de commande de l’irradiation n’est pas encore activé, ou par tout autre élément en tout temps, ne dépasse pas en moyenne, pour une surface de détection de 10 cm<sup>2</sup>, à une distance de 5 cm de toute surface accessible de l’appareil, 645 nanocoulombs par kilogramme (2,5 milliröntgens) ou 22 micrograys, au cours de toute période d’une heure.
+- **d)** l’exposition produite par le rayonnement ionisant ou le kerma émis par l’ensemble radiogène à rayonnement X lorsque le circuit de commande de l’irradiation n’est pas encore activé, ou par tout autre élément en tout temps, ne dépasse pas en moyenne, pour une surface de détection de 10 cm<sup>2</sup>, à une distance de 5 cm de toute surface accessible de l’appareil, 645 nanocoulombs par kilogramme (2,5 milliröntgens) ou 22 micrograys, au cours de toute période d’une heure.
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **4** 
 
@@ -452,7 +420,7 @@ où
 - **X** <sub>1</sub>** et X** <sub>2</sub>sont les valeurs moyennes d’exposition (kerma) par seconde, par impulsion ou par milliampère-seconde obtenues :
 	- **(i)** lorsque le courant dans le tube radiogène est fixe, à chaque deux valeurs de réglage de la minuterie qui ne diffèrent pas de plus d’un facteur de deux,
 	- **(ii)** lorsque le temps d’irradiation est fixe, à chaque deux valeurs de réglage du courant dans le tube radiogène qui ne diffèrent pas de plus d’un facteur de deux;
-	- **g)** aucun rayonnement de fuite en provenance de la gaine, mesuré à une distance de 1 m de la cible, ne dépasse en moyenne au cours d’une période d’une heure, pour toute surface de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire de plus de 20 cm, 25,8 microcoulombs par kilogramme (100 milliröntgens) ou 0,87 milligray pour toute combinaison des paramètres de charge à l’intérieur des limites d’utilisation de l’appareil.
+	- **g)** aucun rayonnement de fuite en provenance de la gaine, mesuré à une distance de 1 m de la cible, ne dépasse en moyenne au cours d’une période d’une heure, pour toute surface de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire de plus de 20 cm, 25,8 microcoulombs par kilogramme (100 milliröntgens) ou 0,87 milligray pour toute combinaison des paramètres de charge à l’intérieur des limites d’utilisation de l’appareil.
 
 - **(2)** La mise à l’essai d’un appareil de radiographie dentaire à rayonnement X de source extra-orale, effectuée pour vérifier sa conformité aux normes de fonctionnement énoncées au paragraphe (1), doit se faire dans les conditions suivantes :
 	- **a)** la tension de secteur sans charge demeure à au plus ± 1 % de sa valeur nominale;
@@ -460,11 +428,7 @@ où
 
 
 
-
-
-
-
-## Étiquetage et renseignements
+### Étiquetage et renseignements
 
 **5** 
 
@@ -473,8 +437,8 @@ où
 		- **(i)** est bien apposé sur le poste de commande de l’appareil,
 		- **(ii)** est de deux couleurs contrastantes,
 		- **(iii)** est bien visible et facilement perceptible à une distance de 1 m,
-		- **(iv)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
-		- **(v)** porte la mention «ATTENTION : RAYONS X — CAUTION : X-RAYS»,
+		- **(iv)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
+		- **(v)** porte la mention « ATTENTION : RAYONS X — CAUTION : X-RAYS »,
 		- **(vi)** est conforme au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “CAUTION: X-RAYS — ATTENTION : RAYONS X”
 
@@ -504,19 +468,11 @@ où
 
 
 
-
-
-
-
-
-
 **PARTIE III** 
 ## Fours à micro-ondes
 
 
-
-
-## Interprétation
+### Interprétation
 
 **1** Dans la présente partie et à l’article 3 de l’annexe I,
 
@@ -559,11 +515,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** 
 
@@ -590,7 +542,7 @@ y compris l’ouverture et la fermeture de la porte.
 	- **c)** une description de la charge d’épreuve prescrite à l’alinéa 4(3)a);
 	- **d)** l’année et le mois de fabrication du four;
 	- **e)** le symbole décrit à l’article 3; et
-	- **f)** lorsque le four n’est pas un four à micro-ondes commercial, les mots «NON DESTINÉ À UN USAGE COMMERCIAL — NOT FOR COMMERCIAL USE».
+	- **f)** lorsque le four n’est pas un four à micro-ondes commercial, les mots « NON DESTINÉ À UN USAGE COMMERCIAL — NOT FOR COMMERCIAL USE ».
 
 - **(4)** Les fours munis d’un système à convoyeur doivent porter, sur la surface externe du four, près de toutes les bouches d’entrée et de sortie, un symbole de mise en garde décrit à l’article 3.
 
@@ -598,40 +550,32 @@ y compris l’ouverture et la fermeture de la porte.
 
 
 
-
-
-
-
-## Spécifications du symbole de mise en garde
+### Spécifications du symbole de mise en garde
 
 **3** Le symbole de mise en garde dont il est question aux paragraphes 2(3) et (4) est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** portant la mention «CAUTION — MICROWAVES» et «ATTENTION — MICRO-ONDES»; et
+- **d)** portant la mention « CAUTION — MICROWAVES » et « ATTENTION — MICRO-ONDES »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une antenne satellite émettant une série de lignes, incluant les mots “Attention - Micro-ondes” et “Caution - Microwaves”
 
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **4** 
 
 - **(1)** Un four à micro-ondes doit, lorsqu’il est entièrement assemblé et qu’il fonctionne, les commandes internes et externes étant réglées pour donner le maximum de puissance de sortie, fonctionner de façon que
-	- **a)** le rayonnement de fuite, mesuré avec l’instrument prescrit à l’alinéa (3)b), en tout point situé au moins à 5 cm de la surface externe du four, ne dépasse pas
+	- **a)** le rayonnement de fuite, mesuré avec l’instrument prescrit à l’alinéa (3)b), en tout point situé au moins à 5 cm de la surface externe du four, ne dépasse pas
 		- **(i)** 1,0 mW/cm<sup>2</sup> avec la charge d’épreuve prescrite à l’alinéa (3)a) placée
 			- **(A)** au centre de la tablette dans la cavité, dans le cas d’un four conçu pour la cuisson des aliments et dont la capacité du générateur d’énergie de micro-ondes n’est pas supérieure à 1,5 kW, et
 			- **(B)** de la manière précisée par le fabricant, dans le cas d’un four autre que celui décrit à la disposition (A), et
 		- **(ii)** 5,0 mW/cm<sup>2</sup> sans charge d’épreuve lorsque le four fonctionne dans ces conditions; et
-	- **b)** l’intensité de l’exposition aux rayons X, à 5 cm de la surface externe du four, ne dépasse pas 0,5 mR/h pour une surface de 10 cm<sup>2</sup>.
+	- **b)** l’intensité de l’exposition aux rayons X, à 5 cm de la surface externe du four, ne dépasse pas 0,5 mR/h pour une surface de 10 cm<sup>2</sup>.
 
-- **(2)** Tout four à micro-ondes doit, lorsque l’enceinte externe est enlevée et que ses commandes internes et externes sont réglées pour donner le maximum de puissance de sortie, fonctionner de façon que le rayonnement de fuite, lorsque mesuré avec l’instrument prescrit à l’alinéa (3)b) et la charge d’épreuve prescrite à l’alinéa (3)a) dans la cavité, en tout point situé au moins à 5 cm de chaque pièce mécanique ou électronique du four accessible à l’utilisateur, notamment, le guide d’ondes, la cavité, le joint de la cavité, le magnétron et l’aire du magnétron à la connexion du guide d’ondes, ne dépasse pas 5,0 mW/cm<sup>2</sup>.
+- **(2)** Tout four à micro-ondes doit, lorsque l’enceinte externe est enlevée et que ses commandes internes et externes sont réglées pour donner le maximum de puissance de sortie, fonctionner de façon que le rayonnement de fuite, lorsque mesuré avec l’instrument prescrit à l’alinéa (3)b) et la charge d’épreuve prescrite à l’alinéa (3)a) dans la cavité, en tout point situé au moins à 5 cm de chaque pièce mécanique ou électronique du four accessible à l’utilisateur, notamment, le guide d’ondes, la cavité, le joint de la cavité, le magnétron et l’aire du magnétron à la connexion du guide d’ondes, ne dépasse pas 5,0 mW/cm<sup>2</sup>.
 
 - **(3)** Aux fins des paragraphes (1) et (2),
 	- **a)** la charge d’épreuve doit être,
@@ -651,19 +595,11 @@ y compris l’ouverture et la fermeture de la porte.
 
 
 
-
-
-
-
-
-
 **PARTIE IV** 
 ## Dispositifs à rayons x pour l’inspection des bagages
 
 
-
-
-## Interprétation
+### Interprétation
 
 **1** Dans la présente partie,
 
@@ -677,11 +613,7 @@ y compris l’ouverture et la fermeture de la porte.
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** 
 
@@ -720,11 +652,7 @@ et qui identifie le fabricant, le modèle, le numéro de série, la date et l’
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **3** Tout dispositif à rayons X pour l’inspection des bagages doit fonctionner de manière à ce que,
 - **a)** au taux maximal de manutention des bagages précisé par le fabricant pour le dispositif, et
@@ -733,25 +661,15 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Symbole de mise en garde
+### Symbole de mise en garde
 
 **4** Le symbole de mise en garde contre les radiations dont il est question à l’alinéa 2(3)h) est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** qui est bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte la mention «CAUTION — X-RAYS» et «ATTENTION — RAYONS X»; et
+- **d)** qui porte la mention « CAUTION — X-RAYS » et « ATTENTION — RAYONS X »; et
 - **e)** qui est conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
-
-
-
-
-
-
 
 
 
@@ -760,9 +678,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 ## Dispositifs à décharge pour démonstration
 
 
-
-
-## Interprétation
+### Interprétation
 
 **1** Dans la présente partie,
 
@@ -776,11 +692,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** Tout dispositif contenant un tube à décharge qui n’a pas été spécialement conçu pour produire des rayons X doit être conçu et construit de façon à comporter les éléments de sécurité suivants :
 - **a)** une marque ou étiquette permanente qui
@@ -820,35 +732,21 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **5** Chaque dispositif doit fonctionner de manière à ce que l’émission de rayons X, quelles que soient les conditions de fonctionnement du dispositif et tant qu’il utilise ses éléments d’origine ou les éléments de rechange que recommande le fabricant, soit telle que le taux d’exposition moyen aux rayons X d’un objet de 10 centimètres carrés de section placé à cinq centimètres de toute surface externe accessible du dispositif ne dépasse pas 0,5 milliröntgen à l’heure.
 
 
 
-
-
-
-
-## Symbole de mise en garde
+### Symbole de mise en garde
 
 **6** Le symbole de mise en garde contre les radiations visé au sous-alinéa 3a)(i) est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte la mention «CAUTION — X-RAYS» et «ATTENTION — RAYONS X»; et
+- **d)** qui porte la mention « CAUTION — X-RAYS » et « ATTENTION — RAYONS X »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
-
-
-
-
-
-
 
 
 
@@ -857,9 +755,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 ## Équipement de radiographie photofluorographique
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans cette partie,
 
@@ -893,11 +789,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Normes de conception
+### Normes de conception
 
 **2** L’équipement de radiographie photofluorographique doit être conçu de telle façon que les commandes, compteurs, signaux lumineux ou autres indicateurs soient facilement reconnaissables et que leurs fonctions soient visiblement indiquées.
 
@@ -964,11 +856,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Normes de construction
+### Normes de construction
 
 **4** 
 
@@ -990,11 +878,7 @@ le taux moyen d’exposition des rayons X, réparti sur une période d’au moin
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **5** L’équipement de radiographie photofluorographique complètement monté et prêt à l’usage doit fonctionner, dans des conditions normales, de la façon suivante :
 - **a)** il ne peut pas être préréglé à moins de 70 kilovolts (crête);
@@ -1012,25 +896,15 @@ où
 
 
 
-
-
-
-
-## Symbole de mise en garde
+### Symbole de mise en garde
 
 **6** Le symbole de mise en garde contre le rayonnement visé à l’article 3 de cette partie est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 mètre;
 - **c)** dont les dimensions extérieures ont au moins 2 centimètres;
-- **d)** portant la mention «CAUTION X-RAYS», et «ATTENTION RAYONS X»; et
+- **d)** portant la mention « CAUTION X-RAYS », et « ATTENTION RAYONS X »; et
 - **e)** conçu selon le modèle ci-après :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
-
-
-
-
-
-
 
 
 
@@ -1039,9 +913,7 @@ où
 ## Explorateurs lasers
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans cette partie et à l’article 7 de l’annexe I, on entend par
 
@@ -1051,11 +923,11 @@ où
 
 ***durée d’impulsion*** l’intervalle de temps mesuré entre les points de demi-crête à la montée et à la décroissance d’une impulsion; (*pulse duration*)
 
-***éclairement énergétique*** la puissance incidente de rayonnement par unité de surface, exprimée en watts par centimètre carré (W cm<sup>-2</sup>); (*irradiance*)
+***éclairement énergétique*** la puissance incidente de rayonnement par unité de surface, exprimée en watts par centimètre carré (W cm<sup>-2</sup>); (*irradiance*)
 
 ***enclenchement de sécurité*** un mécanisme qui empêche l’émission de rayonnement lorsque n’importe quelle partie des parois protectrices est enlevée ou déplacée; (*safety interlock*)
 
-***exposition énergétique (dose)*** l’énergie incidente de rayonnement par unité de surface, exprimée en joules par centimètre carré (J cm<sup>-2</sup>); (*integrated irradiance*)
+***exposition énergétique (dose)*** l’énergie incidente de rayonnement par unité de surface, exprimée en joules par centimètre carré (J cm<sup>-2</sup>); (*integrated irradiance*)
 
 ***impulsion*** une émission intermittente de rayonnement laser d’une durée de moins de 0,25 seconde; (*pulse*)
 
@@ -1077,11 +949,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de fabrication
+### Normes de conception et de fabrication
 
 **2** 
 
@@ -1125,11 +993,7 @@ où
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **4** Un explorateur laser doit fonctionner de manière à ce que, lorsqu’il est complètement assemblé et que ses commandes internes et externes sont réglées pour donner l’émission maximale, l’intensité moyenne du rayonnement laser, à tous les points accessibles, lorsque mesurée sur une surface circulaire fixe de 0,385 centimètre carré, ne dépasse pas les limites suivantes :
 - **a)** une exposition énergétique (dose) de 5,0 × 10<sup>-7</sup> joules par centimètre carré pour tout intervalle de temps de moins de 1,8 × 10<sup>-5</sup> secondes;
@@ -1139,25 +1003,15 @@ où
 
 
 
-
-
-
-
-## Spécifications relatives au symbole de mise en garde
+### Spécifications relatives au symbole de mise en garde
 
 **5** Le symbole de mise en garde contre les rayonnements laser visé au paragraphe 2(6) est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** qui est bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte les mentions «CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED» — «ATTENTION — RAYONNEMENT LASER ET ÉLECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ»; et
+- **d)** qui porte les mentions « CAUTION — HAZARDOUS LASER AND ELECTROMAGNETIC RADIATION WHEN OPEN AND INTERLOCK DEFEATED » — « ATTENTION — RAYONNEMENT LASER ET ÉLECTROMAGNÉTIQUE DANGEREUX SI OUVERT AVEC L’ENCLENCHEMENT DE SÉCURITÉ ANNULÉ »; et
 - **e)** qui est conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une étincelle avec une ligne rattachée qui va vers le coin droit supérieur, incluant les mots “Attention - Rayonnement laser et electromagnétique dangereux si ouvert avec l’enclenchement de sécurité annulé” — “Caution - Hazardous laser and electromagnetic radiation when open and interlock defeated”
-
-
-
-
-
-
 
 
 
@@ -1166,9 +1020,7 @@ où
 ## Laser de démonstration
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans cette partie et à l’article 8 de l’annexe I, on entend par
 
@@ -1196,11 +1048,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de fabrication
+### Normes de conception et de fabrication
 
 **2** 
 
@@ -1229,11 +1077,7 @@ où
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **4** 
 
@@ -1245,25 +1089,15 @@ où
 
 
 
-
-
-
-
-## Spécifications relatives au symbole de mise en garde
+### Spécifications relatives au symbole de mise en garde
 
 **5** Pour l’application de l’alinéa 2(2)i), le symbole de mise en garde contre le rayonnement laser est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont aucune dimension extérieure n’est inférieure à deux centimètres;
-- **d)** qui porte les mentions «CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU»; et
+- **d)** qui porte les mentions « CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM — ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU »; et
 - **e)** conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant une étincelle avec une ligne rattachée qui va vers le coin droit supérieur, incluant les mots “ATTENTION LASER, POUR ÉVITER DES DOMMAGES AUX YEUX NE PAS REGARDER DANS LE FAISCEAU — CAUTION LASER, TO AVOID EYE DAMAGE DO NOT LOOK INTO BEAM”
-
-
-
-
-
-
 
 
 
@@ -1272,9 +1106,7 @@ où
 ## Microscopes électroniques de faible énergie
 
 
-
-
-## Définitions
+### Définitions
 
 **1** On entend par
 
@@ -1288,11 +1120,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** Chaque microscope électronique de faible énergie doit être conçu
 - **a)** de façon que les marques, étiquettes et inscriptions soient apposées de façon permanente et bien visible;
@@ -1319,41 +1147,27 @@ où
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **5** Chaque microscope électronique de faible énergie doit fonctionner de façon que,
 - **a)** à tous les réglages des commandes internes et externes, et
 - **b)** dans toutes les conditions possibles de fonctionnement,
-le taux d’exposition aux rayons X d’un objet de 10 cm<sup>2</sup> de section centré à 5 cm de tout endroit accessible de la surface externe
+le taux d’exposition aux rayons X d’un objet de 10 cm<sup>2</sup> de section centré à 5 cm de tout endroit accessible de la surface externe
 - **c)** du microscope, et
 - **d)** d’un accessoire fourni pour être utilisé avec le microscope,
 ne dépasse pas 0,5 mR/h.
 
 
 
-
-
-
-
-## Inscription de mise en garde
+### Inscription de mise en garde
 
 **6** L’inscription de mise en garde contre les rayons X visée à l’alinéa 2c) est une inscription
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 m;
-- **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
-- **d)** qui porte la mention «CAUTION, X-RAYS» et «ATTENTION, RAYONS X»; et
+- **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
+- **d)** qui porte la mention « CAUTION, X-RAYS » et « ATTENTION, RAYONS X»; et
 - **e)** conçue d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
-
-
-
-
-
-
 
 
 
@@ -1362,9 +1176,7 @@ ne dépasse pas 0,5 mR/h.
 ## Lampes à décharge dans la vapeur de mercure à haute intensité
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans la présente partie,
 
@@ -1384,11 +1196,7 @@ ne dépasse pas 0,5 mR/h.
 
 
 
-
-
-
-
-## Normes de conception et de fabrication
+### Normes de conception et de fabrication
 
 **2** Le nom du fabricant et le mois et l’année de fabrication doivent être
 - **a)** imprimés sur chaque lampe, ou
@@ -1396,33 +1204,29 @@ ne dépasse pas 0,5 mR/h.
 de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extérieure est brisée ou ôtée.
 
 
-**3** Une lampe à auto-extinction doit porter la lettre «T» clairement marquée sur l’enveloppe extérieure et sur le culot.
+**3** Une lampe à auto-extinction doit porter la lettre « T » clairement marquée sur l’enveloppe extérieure et sur le culot.
 
 
-**4** Une lampe qui n’est pas une lampe à auto-extinction doit porter la lettre «R» clairement marquée sur l’enveloppe extérieure et sur le culot.
+**4** Une lampe qui n’est pas une lampe à auto-extinction doit porter la lettre « R » clairement marquée sur l’enveloppe extérieure et sur le culot.
 
 
 **5** 
 
 - **(1)** Le conteneur d’une lampe à auto-extinction doit porter, clairement et bien en vue,
-	- **a)** la lettre «T»; et
-	- **b)** une déclaration, en français et en anglais, portant que :«Cette lampe devrait s’éteindre au cours des 15 minutes qui suivent le bris ou la perforation de l’enveloppe extérieure. Dans de telles circonstances, ÉTEINDRE ET ENLEVER LA LAMPE pour éviter tout danger d’exposition au rayonnement ultraviolet court.».
+	- **a)** la lettre « T »; et
+	- **b)** une déclaration, en français et en anglais, portant que :« Cette lampe devrait s’éteindre au cours des 15 minutes qui suivent le bris ou la perforation de l’enveloppe extérieure. Dans de telles circonstances, ÉTEINDRE ET ENLEVER LA LAMPE pour éviter tout danger d’exposition au rayonnement ultraviolet court. ».
 
 
 
 - **(2)** Le conteneur d’une lampe qui n’est pas une lampe à auto-extinction doit porter, clairement et bien en vue,
-	- **a)** la lettre «R»; et
-	- **b)** les mots «MISE EN GARDE» — «WARNING», suivis d’un avertissement, en français et anglais, portant que :«Tout bris ou perforation de l’enveloppe extérieure de cette lampe peut causer de graves brûlures à la peau et une inflammation des yeux, dues au rayonnement ultraviolet court émis. Ne pas utiliser cette lampe là où il y aurait des gens pendant plus de quelques minutes, à moins d’assurer un blindage adéquat ou de prendre d’autres mesures de sécurité. Des lampes qui s’éteignent automatiquement en cas de bris ou de perforation de l’enveloppe extérieure sont offertes sur le marché.».
+	- **a)** la lettre « R »; et
+	- **b)** les mots « MISE EN GARDE » — « WARNING », suivis d’un avertissement, en français et anglais, portant que :« Tout bris ou perforation de l’enveloppe extérieure de cette lampe peut causer de graves brûlures à la peau et une inflammation des yeux, dues au rayonnement ultraviolet court émis. Ne pas utiliser cette lampe là où il y aurait des gens pendant plus de quelques minutes, à moins d’assurer un blindage adéquat ou de prendre d’autres mesures de sécurité. Des lampes qui s’éteignent automatiquement en cas de bris ou de perforation de l’enveloppe extérieure sont offertes sur le marché. ».
 
 
 
 
 
-
-
-
-
-## Conditions d’essai
+### Conditions d’essai
 
 **6** L’essai d’une lampe doit, pour déterminer s’il s’agit d’une lampe à auto-extinction, se faire dans les conditions suivantes :
 - **a)** la tension de fonctionnement, le courant et l’appareil d’éclairage sont ceux indiqués ou recommandés par le fabricant pour le fonctionnement d’une lampe intacte;
@@ -1433,19 +1237,11 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 
 
-
-
-
-
-
-
 **PARTIE XI** 
 ## Appareils de bronzage
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Les définitions qui suivent s’appliquent à la présente partie.
 
@@ -1481,26 +1277,16 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 
 
+### Renseignements et étiquetage
 
 
-
-
-## Renseignements et étiquetage
-
-
-
-
-## Disposition générale
+#### Disposition générale
 
 **2** Les renseignements et les étiquettes exigés aux termes de la présente partie doivent être présentés dans les deux langues officielles.
 
 
 
-
-
-
-
-## Renseignements
+#### Renseignements
 
 **3** Tout appareil de bronzage doit être accompagné des renseignements suivants :
 - **a)** les instructions relatives à son fonctionnement et à son utilisation sécuritaire, y compris :
@@ -1514,11 +1300,7 @@ de façon qu’ils soient toujours lisibles, même lorsque l’enveloppe extéri
 
 
 
-
-
-
-
-## Étiquetage
+#### Étiquetage
 
 **4** Tout appareil de bronzage doit, de manière lisible, permanente et bien à la vue de l’utilisateur avant toute utilisation, porter sur sa surface externe les éléments suivants :
 - **a)** les nom et adresse du fabricant;
@@ -1555,15 +1337,9 @@ où :
 	- **(i)** 75 mm sur 200 mm, s’il s’agit d’un appareil de bronzage utilisé pour l’exposition de la moitié ou de l’intégralité du corps,
 	- **(ii)** 50 mm sur 100 mm, s’il s’agit de tout autre appareil de bronzage;
 - **e)** être conforme aux modèles suivants :
+> Image: Cette image correspond à la version française de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Santé Canada » et « Health Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
 
-##### Figure 1
-
-> Image: Cette image correspond à la version française de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Santé Canada » et « Health Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
-
-
-##### figure 2
-
-> Image: Cette image correspond à la version anglaise de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Santé Canada » et « Health Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
+> Image: Cette image correspond à la version anglaise de l’étiquette de mise en garde contre les rayonnements ultraviolets décrite à l’article 5. Elle comprend, en outre, dans son coin supérieur droit, un signe octogonal représentant le contour d’une forme humaine irradiée par une source de rayonnements ultraviolets représentés par des lignes en provenance d’un point au-dessus et à droite de la forme humaine. Elle comprend également, dans son coin supérieur gauche, un drapeau canadien avec les mots « Health Canada » et « Santé Canada » à sa droite. Dans son coin inférieur droit apparaît le mot « Canada » avec le drapeau canadien au-dessus de la dernière lettre.
 
 
 
@@ -1582,28 +1358,16 @@ où :
 
 
 
+### Normes de construction
 
 
-
-
-
-
-## Normes de construction
-
-
-
-
-## Disposition générale
+#### Disposition générale
 
 **8** Les commandes, compteurs, voyants ou autres indicateurs de l’appareil de bronzage doivent être faciles à distinguer et comporter une indication claire de leurs fonctions.
 
 
 
-
-
-
-
-## Dispositifs de sécurité
+#### Dispositifs de sécurité
 
 **9** Tout appareil de bronzage doit comporter les dispositifs de sécurité suivants :
 - **a)** une commande permettant en tout temps à la personne exposée d’arrêter facilement le fonctionnement de l’appareil, sans le débrancher ou sans en retirer les lampes à rayonnements ultraviolets;
@@ -1618,11 +1382,7 @@ où :
 
 
 
-
-
-
-
-## Pièces et accessoires
+#### Pièces et accessoires
 
 **11** Les lampes à rayonnements ultraviolets utilisées dans les appareils de bronzage doivent être conçues de sorte qu’elles ne puissent être insérées ou fonctionner dans une douille à contact unique pour vis moyenne ou dans une douille à contact double pour vis moyenne.
 
@@ -1631,13 +1391,7 @@ où :
 
 
 
-
-
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **13** Tout appareil de bronzage doit, qu’il possède ses éléments d’origine ou des éléments de rechange recommandés par le fabricant, fonctionner, dans les conditions d’utilisation spécifiées par le fabricant, conformément à la présente partie.
 
@@ -1661,19 +1415,11 @@ où :
 
 
 
-
-
-
-
-
-
 **PARTIE XII** 
 ## Appareils de radiodiagnostic
 
 
-
-
-## Définitions et interprétation
+### Définitions et interprétation
 
 **1** 
 
@@ -1714,16 +1460,10 @@ où :
 
 
 
+### Renseignements et étiquetage
 
 
-
-
-## Renseignements et étiquetage
-
-
-
-
-## Renseignements
+#### Renseignements
 
 **2** Le fabricant doit veiller à ce que les renseignements ci-après accompagnent chaque appareil de radiodiagnostic :
 - **a)** les instructions de montage;
@@ -1731,7 +1471,7 @@ où :
 - **c)** les mesures de sécurité radiologique et les précautions supplémentaires à prendre en raison de toute particularité de l’appareil;
 - **d)** les instructions d’entretien de l’appareil afin d’assurer la conformité de celui-ci aux exigences de la présente partie;
 - **e)** sa tension de secteur nominale, son courant de secteur maximal et la plage de régulation de sa tension de secteur permettant le fonctionnement au courant de secteur maximal;
-- **f)** les paramètres de charge qui constituent la condition de courant de secteur maximal pour le générateur de rayons X;
+- **f)** les paramètres de charge qui constituent la condition de courant de secteur maximal pour le générateur radiologique;
 - **g)** pour chaque gaine équipée :
 	- **(i)** les tailles nominales du foyer et la méthode qui a servi à les déterminer,
 	- **(ii)** les courbes de refroidissement de l’anode et de la gaine,
@@ -1749,17 +1489,13 @@ où :
 
 
 
-
-
-
-
-## Étiquetage
+#### Étiquetage
 
 **3** Tout appareil de radiodiagnostic doit porter, aux endroits indiqués ci-après et de manière lisible, permanente et visible, les renseignements suivants :
 - **a)** sur la surface externe du poste de commande principal :
 	- **(i)** un énoncé interdisant toute utilisation non autorisée de l’appareil et avertissant qu’il émet des rayons X dangereux lorsqu’il est en marche,
 	- **(ii)** le symbole de mise en garde contre les rayons X visé à l’article 4,
-	- **(iii)** quant au générateur de rayons X :
+	- **(iii)** quant au générateur radiologique :
 		- **(A)** le nom du fabricant,
 		- **(B)** la désignation du modèle,
 		- **(C)** le numéro de série,
@@ -1774,20 +1510,20 @@ où :
 	- **(vi)** la filtration inhérente permanente minimale, exprimée en millimètres d’équivalent en aluminium à une tension radiogène donnée, du faisceau de rayons X émis par la gaine équipée;
 - **c)** sur la surface externe de la gaine ou sur toute autre structure adéquate fixée en permanence à la gaine :
 	- **(i)** un indicateur permettant d’évaluer à 2 % près la distance foyer-récepteur d’image,
-	- **(ii)** si le tube radiogène et le générateur radiologique ne sont pas enveloppés dans la même gaine, des inscriptions indiquant clairement les bornes de l’anode et de la cathode sur la gaine et sur le générateur radiologique;
+	- **(ii)** si le tube radiogène et le générateur radiologique ne sont pas enveloppés dans la même gaine, des inscriptions indiquant clairement les bornes de l’anode et de la cathode sur la gaine et sur le générateur haute tension;
 - **d)** sur la surface externe du dispositif de limitation du faisceau qui permet de filtrer davantage le faisceau de rayons X, la filtration permanente totale que peut assurer ce dispositif, exprimée en millimètres d’équivalent en aluminium à une tension radiogène donnée.
 
 
 **4** Le symbole de mise en garde contre les rayons X doit :
 - **a)** être de deux couleurs contrastantes;
 - **b)** être visible et reconnaissable à une distance de 1 m;
-- **c)** avoir une hauteur minimale de 2 cm et une largeur minimale de 2 cm;
+- **c)** avoir une hauteur minimale de 2 cm et une largeur minimale de 2 cm;
 - **d)** porter la mention « ATTENTION : RAYONS X — CAUTION : X-RAYS »;
 - **e)** être conforme :
 	- **(i)** soit au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec, au milieu, un cercle émettant des lignes en pointillé, avec “Attention: Rayons X — Caution: X-Rays”
 
-	- **(ii)** soit au symbole 03-03 ci-après, figurant dans le rapport de la Commission électrotechnique internationale intitulé *Symboles graphiques pour équipements électriques en pratique médicale*, publication 878, 1988 :
+	- **(ii)** soit au symbole 03-03 ci-après, figurant dans le rapport de la Commission électrotechnique internationale intitulé Symboles graphiques pour équipements électriques en pratique médicale, publication 878, 1988 :
 > Image: Étiquette de mise en garde qui est décrite par trois lames autour d’un cercle qui représent le symbole 03-03, figurant dans le rapport de la Commission électrotechnique internationale intitulé Symboles graphiques pour équipements électriques en pratique médicale, publication 878, 1988.
 
 
@@ -1796,24 +1532,16 @@ où :
 
 
 
+### Normes de conception et de fabrication
 
 
-
-
-
-
-## Normes de conception et de fabrication
-
-
-
-
-## Exigences générales
+#### Exigences générales
 
 **6** Tout appareil de radiodiagnostic doit comporter :
 - **a)** si plusieurs tubes radiogènes sont commandés à partir d’un seul poste de commande :
 	- **(i)** un indicateur visuel sur chaque gaine, ou à proximité de celle-ci, indiquant lequel des tubes radiogènes est branché et prêt à être mis sous tension,
 	- **(ii)** sur le poste de commande, un indicateur visuel indiquant lequel des tubes radiogènes est branché et prêt à être mis sous tension;
-- **b)** un mécanisme permettant de compenser, selon le type de redressement applicable à l’appareil, les variations de tension du tube radiogène causées par les fluctuations de la tension de secteur;
+- **b)** un mécanisme permettant de compenser, selon le type de redressement applicable à l’appareil, les variations de tension radiogène causées par les fluctuations de la tension de secteur;
 - **c)** un indicateur visuel ou sonore qui se déclenche lorsque la variation de la tension de secteur dépasse les limites indiquées au paragraphe 23(2) ou un mécanisme qui, dans ces circonstances, empêche l’émission de rayons X;
 - **d)** sur le poste de commande :
 	- **(i)** un avertisseur lumineux indiquant que l’appareil est prêt à être mis sous tension,
@@ -1846,97 +1574,67 @@ où :
 <tr>
 <td>1</td>
 <td>50 et moins</td>
-<td>**a)** 30
-
-</td>
+<td>a) 30</td>
 <td>0,3</td>
 </tr>
 <tr>
-<td>**b)** 40
-
-</td>
+<td>b) 40</td>
 <td>0,4</td>
 </tr>
 <tr>
-<td>**c)** 50
-
-</td>
+<td>c) 50</td>
 <td>0,5</td>
 </tr>
 <tr>
 <td>2</td>
 <td>50 et plus mais au plus 70</td>
-<td>**a)** 50
-
-</td>
+<td>a) 50</td>
 <td>1,2</td>
 </tr>
 <tr>
-<td>**b)** 60
-
-</td>
+<td>b) 60</td>
 <td>1,3</td>
 </tr>
 <tr>
-<td>**c)** 70
-
-</td>
+<td>c) 70</td>
 <td>1,5</td>
 </tr>
 <tr>
 <td>3</td>
 <td>70 et plus</td>
-<td>**a)** 70
-
-</td>
+<td>a) 70</td>
 <td>2,1</td>
 </tr>
 <tr>
-<td>**b)** 80
-
-</td>
+<td>b) 80</td>
 <td>2,3</td>
 </tr>
 <tr>
-<td>**c)** 90
-
-</td>
+<td>c) 90</td>
 <td>2,5</td>
 </tr>
 <tr>
-<td>**d)** 100
-
-</td>
+<td>d) 100</td>
 <td>2,7</td>
 </tr>
 <tr>
-<td>**e)** 110
-
-</td>
+<td>e) 110</td>
 <td>3,0</td>
 </tr>
 <tr>
-<td>**f)** 120
-
-</td>
+<td>f) 120</td>
 <td>3,2</td>
 </tr>
 <tr>
-<td>**g)** 130
-
-</td>
+<td>g) 130</td>
 <td>3,5</td>
 </tr>
 <tr>
-<td>**h)** 140
-
-</td>
+<td>h) 140</td>
 <td>3,8</td>
 </tr>
 <tr>
-<td>**i)** 150
-
-</td>
+<td>i) 150</td>
 <td>4,1</td>
 </tr>
 </table>
@@ -1951,7 +1649,7 @@ où :
 	- **c)** si l’appareil est mobile, permettre à l’opérateur de se tenir à une distance d’au moins 3 m de la source de rayons X lorsque le tube radiogène est sous tension.
 
 - **(2)** Toute minuterie d’un appareil de radiodiagnostic doit :
-	- **a)** permettre l’arrêt automatique de l’irradiation lorsque l’une des valeurs sélectionnées ci-après est atteinte :
+	- **a)** arrêter automatiquement l’irradiation lorsque l’une des valeurs sélectionnées ci-après est atteinte :
 		- **(i)** le temps d’irradiation,
 		- **(ii)** le produit courant-temps,
 		- **(iii)** le nombre d’impulsions;
@@ -2022,7 +1720,7 @@ où :
 
 
 - **(2)** Dans le cas d’un appareil à mammographie, tout objet qui est visé à la colonne 1 du tableau du présent paragraphe et placé entre le patient et le récepteur d’image radiologique doit avoir un équivalent en aluminium n’excédant pas la limite prévue à la colonne 2, déterminée au moyen d’un faisceau de rayons X :
-	- **a)** qui est émis à une tension radiogène de 30 kV;
+	- **a)** qui est émis à une tension radiogène de 30 kV;
 	- **b)** dont la tension radiogène a un taux d’oscillation maximal de 10 %;
 	- **c)** qui a une couche de demi-transmission d’aluminium de 0,3 mm.
 #### TABLEAU DU PARAGRAPHE 8(2)
@@ -2055,19 +1753,15 @@ où :
 
 
 
-
-
-
-
-## Appareils de radiographie
+#### Appareils de radiographie
 
 **10** Tout appareil de radiographie muni d’une commande automatique d’exposition doit :
 - **a)** si la tension minimale de fonctionnement du tube radiogène est de 50 kV, permettre une irradiation minimale n’excédant pas :
 	- **(i)** dans le cas d’un dispositif d’émission par effet de champ qui fonctionne en mode pulsé, une durée équivalant à deux impulsions,
 	- **(ii)** dans le cas de tout autre appareil de radiographie, 1/60 s ou la durée requise pour fournir un produit courant-temps de 5 mAs, selon la plus élevée de ces durées;
 - **b)** comporter un dispositif qui arrête automatiquement les irradiations :
-	- **(i)** si la tension de fonctionnement du tube radiogène est inférieure à 50 kV et que le produit courant-temps dépasse 1 200 mAs par irradiation,
-	- **(ii)** si la tension de fonctionnement du tube radiogène est de 50 kV ou plus et que :
+	- **(i)** si la tension de fonctionnement du tube radiogène est inférieure à 50 kV et que le produit courant-temps dépasse 1 200 mAs par irradiation,
+	- **(ii)** si la tension de fonctionnement du tube radiogène est de 50 kV ou plus et que :
 		- **(A)** soit le produit courant-temps dépasse 600 mAs par irradiation,
 		- **(B)** soit le produit de la tension radiogène, du courant dans le tube radiogène et du temps d’irradiation dépasse 60 kVAs par irradiation;
 - **c)** lorsqu’une irradiation minutée automatiquement prend fin parce que les limites prévues à l’alinéa b) ont été atteintes, être muni :
@@ -2080,7 +1774,7 @@ où :
 - **(1)** L’appareil de radiographie pour usage général doit comporter :
 	- **a)** un dispositif de limitation du faisceau permettant :
 		- **(i)** d’ajuster le champ de rayons X, sans positions prédéterminées,
-		- **(ii)** d’obtenir, à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, un champ de rayons X dont les dimensions ne dépassent pas 5 cm sur 5 cm;
+		- **(ii)** d’obtenir, à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, un champ de rayons X dont les dimensions ne dépassent pas 5 cm sur 5 cm;
 	- **b)** un dispositif qui illumine le champ de rayons X dans des conditions ambiantes d’éclairage à l’intérieur d’une salle de radiographie;
 	- **c)** un mécanisme :
 		- **(i)** indiquant que l’axe du faisceau de rayons X est perpendiculaire au plan du récepteur d’image,
@@ -2100,26 +1794,26 @@ où :
 
 **12** 
 
-- **(1)** Tout système de limitation positive du faisceau d’un appareil de radiographie pour usage général doit permettre :
-	- **a)** d’ajuster le champ de rayons X sans positions prédéterminées;
-	- **b)** d’obtenir, à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, un champ de rayons X ne dépassant pas 5 cm sur 5 cm;
-	- **c)** de ramener le champ de rayons X à des dimensions inférieures à celles de la surface réceptrice de l’image;
+- **(1)** Tout système de limitation positive du faisceau d’un appareil de radiographie pour usage général doit :
+	- **a)** permettre d’ajuster le champ de rayons X sans positions prédéterminées;
+	- **b)** à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, avoir un champ de rayons X ne dépassant pas 5 cm sur 5 cm;
+	- **c)** permettre de ramener le champ de rayons X à des dimensions inférieures à celles de la surface réceptrice de l’image;
 	- **d)** dans les conditions d’utilisation visées au paragraphe (2) :
-		- **(i)** soit, dans les 5 secondes suivant l’insertion du récepteur d’image, d’ajuster automatiquement le champ de rayons X afin qu’il corresponde à la surface réceptrice de l’image ou à une partie sélectionnée de cette surface,
-		- **(ii)** soit d’empêcher l’émission de rayons X jusqu’à ce que le dispositif de limitation du faisceau soit réglé manuellement de sorte que :
-			- **(A)** les dimensions du champ de rayons X ne dépassent pas celles de la surface réceptrice de l’image ou d’une partie sélectionnée de cette surface de plus de 3 % de la distance foyer-récepteur d’image,
-			- **(B)** la somme des valeurs absolues des différences des dimensions entre le champ de rayons X et la surface réceptrice de l’image ou une partie sélectionnée de cette surface ne dépasse pas 4 % de la distance foyer-récepteur d’image;
-	- **e)** que l’une des exigences visées à l’alinéa d) soit automatiquement respectée lors de toute variation de l’un des éléments suivants :
+		- **(i)** soit, dans les 5 secondes suivant l’insertion du récepteur d’image, ajuster automatiquement le champ de rayons X afin qu’il corresponde à la surface réceptrice de l’image ou à une partie sélectionnée de cette surface,
+		- **(ii)** soit empêcher l’émission de rayons X jusqu’à ce que le dispositif de limitation du faisceau soit réglé manuellement de sorte que :
+			- **(A)** les dimensions du champ de rayons X ne dépassent pas celles de la surface réceptrice de l’image, ou d’une partie sélectionnée de cette surface, de plus de 3 % de la distance foyer-récepteur d’image,
+			- **(B)** la somme des valeurs absolues des différences des dimensions entre le champ de rayons X et la surface réceptrice de l’image, ou une partie sélectionnée de cette surface, ne dépasse pas 4 % de la distance foyer-récepteur d’image;
+	- **e)** entraîner automatiquement le respect de l’une des exigences visées à l’alinéa d) lors de toute variation de l’un des éléments suivants :
 		- **(i)** les dimensions de la surface réceptrice de l’image,
 		- **(ii)** la distance foyer-récepteur d’image, si cette variation empêche le respect des exigences de l’alinéa d).
 
 - **(2)** Pour l’application de l’alinéa (1)d), les conditions d’utilisation sont les suivantes :
 	- **a)** le récepteur d’image est inséré dans un porte-cassette monté en permanence;
-	- **b)** ni la longueur ni la largeur de la surface réceptrice de l’image ne dépasse 50 cm;
+	- **b)** ni la longueur ni la largeur de la surface réceptrice de l’image ne dépasse 50 cm;
 	- **c)** l’axe du faisceau de rayons X présente un écart maximal de 3 degrés lorsqu’il est perpendiculaire au plan du récepteur d’image;
 	- **d)** l’axe du faisceau de rayons X présente un écart maximal de 3 degrés par rapport à :
-		- **(i)** l’horizontale si la distance foyer-récepteur d’image est d’au moins 90 cm mais d’au plus 205 cm,
-		- **(ii)** la verticale si la distance foyer-récepteur d’image est d’au moins 90 cm mais d’au plus 130 cm;
+		- **(i)** l’horizontale si la distance foyer-récepteur d’image est d’au moins 90 cm mais d’au plus 205 cm,
+		- **(ii)** la verticale si la distance foyer-récepteur d’image est d’au moins 90 cm mais d’au plus 130 cm;
 	- **e)** aucune tomographie ni aucune radiographie stéréoscopique ne sont effectuées.
 
 
@@ -2133,9 +1827,9 @@ où :
 
 
 **14** Tout appareil mobile de radiographie qui ne satisfait pas aux exigences de l’article 13 doit :
-- **a)** comporter un dispositif de limitation du faisceau de rayons X permettant :
+- **a)** comporter un dispositif de limitation du faisceau permettant :
 	- **(i)** d’ajuster le champ de rayons X sans positions prédéterminées,
-	- **(ii)** d’obtenir, à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, un champ de rayons X ne dépassant pas 5 cm sur 5 cm;
+	- **(ii)** d’obtenir, à son ouverture minimale et à une distance foyer-récepteur d’image de 1 m, un champ de rayons X ne dépassant pas 5 cm sur 5 cm;
 - **b)** comprendre un dispositif visé à l’alinéa 11(1)b) qui, lorsque l’axe du faisceau de rayons X est perpendiculaire au plan du récepteur d’image, restreint le décalage entre le périmètre du champ illuminé et celui du champ de rayons X à au plus 2 % de la distance foyer-récepteur d’image;
 - **c)** indiquer, à 2 % près, la distance foyer-récepteur d’image.
 
@@ -2172,7 +1866,7 @@ où :
 		- **(B)** la somme des valeurs absolues des différences des dimensions entre le champ de rayons X et la surface réceptrice de l’image ne dépasse pas 4 % de la distance foyer-récepteur d’image,
 	- **(iv)** d’aligner le centre du champ de rayons X sur celui de la partie sélectionnée de la surface réceptrice de l’image, l’écart ne pouvant dépasser 2 % de la distance foyer-récepteur d’image;
 - **c)** comporter un mécanisme permettant de ramener le champ de rayons X à des dimensions inférieures à celles de la partie sélectionnée de la surface réceptrice de l’image de sorte que :
-	- **(i)** à l’ouverture minimale du mécanisme et à la plus grande distance foyer-récepteur d’image, les dimensions du champ de rayons X ne dépassent pas 5 cm sur 5 cm,
+	- **(i)** à l’ouverture minimale du mécanisme et à la plus grande distance foyer-récepteur d’image, les dimensions du champ de rayons X ne dépassent pas 5 cm sur 5 cm,
 	- **(ii)** l’exigence du sous-alinéa b)(iv) soit respectée lorsque l’axe du faisceau de rayons X est perpendiculaire au plan du récepteur d’image;
 - **d)** comporter, au poste d’opérateur, un indicateur visuel signalant que la commande d’annulation de l’ajustement automatique du champ de rayons X, si elle existe, est actionnée en cas de panne du dispositif d’ajustement automatique du champ de rayons X.
 
@@ -2183,11 +1877,7 @@ où :
 
 
 
-
-
-
-
-## Appareils de radioscopie
+#### Appareils de radioscopie
 
 **18** Tout appareil de radioscopie doit :
 - **a)** comporter un intensificateur d’image radiologique muni d’un blindage de protection radiologique qui :
@@ -2198,22 +1888,22 @@ où :
 - **b)** dans le cas d’un appareil mobile de radioscopie, être muni d’un intensificateur d’image radiologique qui fait partie intégrante de l’appareil ou qui est verrouillé de sorte que son retrait empêche l’émission de rayons X;
 - **c)** dans le cas d’un appareil fixe de radioscopie, empêcher le tube radiogène d’émettre des rayons X s’il n’y a pas de récepteur d’image pour intercepter le faisceau de rayons X;
 - **d)** dans le cas d’un appareil fixe de radioscopie sans télécommande :
-	- **(i)** être équipé d’éléments de protection d’une équivalence en plomb minimale de 0,25 mm à 100 kV, tels des rideaux protecteurs de recouvrement ou des panneaux à charnière ou coulissants, qui permettent d’intercepter le rayonnement dispersé, avant qu’il n’atteigne l’opérateur,
+	- **(i)** être équipé d’un blindage de protection radiologique d’une équivalence en plomb minimale de 0,25 mm à 100 kV, tels des rideaux protecteurs de recouvrement ou des panneaux à charnière ou coulissants, qui permettent d’intercepter le rayonnement dispersé, avant qu’il n’atteigne l’opérateur,
 	- **(ii)** permettre l’enlèvement de l’élément de protection visé au sous-alinéa (i) s’il empêche d’effectuer des diagnostics particuliers;
-- **e)** comporter une commande d’irradiation qui :
+- **e)** comporter une commande d’irradiation qui :
 	- **(i)** exige une pression continue pendant toute la durée de l’irradiation,
-	- **(ii)** permet d’arrêter l’enregistrement des images radioscopiques à tout moment;
+	- **(ii)** permet d’arrêter l’enregistrement des images radioscopiques en série à tout moment;
 - **f)** être muni d’un chronomètre qui :
 	- **(i)** indique la durée d’émission de rayons X,
 	- **(ii)** peut être remis à zéro ou à toute autre valeur sélectionnée;
-- **g)** lorsque l’axe du faisceau de rayons X est perpendiculaire au plan du récepteur d’image, être équipé d’un système de limitation positive du faisceau qui permet l’alignement du périmètre du champ illuminé sur celui du champ de rayons X :
+- **g)** être équipé d’un système de limitation positive du faisceau qui permet, lorsque l’axe du faisceau de rayons X est perpendiculaire au plan du récepteur d’image, l’alignement du périmètre du champ illuminé sur celui du champ de rayons X :
 	- **(i)** le décalage ne pouvant dépasser 3 % de la distance foyer-récepteur d’image,
 	- **(ii)** la somme de l’excédent de longueur et de l’excédent de largeur ne pouvant excéder 4 % de la distance foyer-récepteur d’image;
 - **h)** comporter des indicateurs visuels à affichage continu de la tension radiogène et du courant dans le tube radiogène;
 - **i)** être muni d’un dispositif qui assure une distance foyer-peau minimale :
-	- **(i)** dans le cas d’un appareil mobile de radioscopie, de 30 cm,
-	- **(ii)** dans le cas d’un appareil fixe de radioscopie, de 38 cm,
-	- **(iii)** dans le cas d’un appareil de radioscopie muni d’un intensificateur d’image radiologique et servant à des utilisations spéciales exigeant des distances foyer-peau inférieures aux distances prévues aux sous-alinéas (i) et (ii), de 20 cm,
+	- **(i)** dans le cas d’un appareil mobile de radioscopie, de 30 cm,
+	- **(ii)** dans le cas d’un appareil fixe de radioscopie, de 38 cm,
+	- **(iii)** dans le cas d’un appareil de radioscopie muni d’un intensificateur d’image radiologique et servant à des utilisations spéciales exigeant des distances foyer-peau inférieures aux distances prévues aux sous-alinéas (i) et (ii), de 20 cm,
 	- **(iv)** dans le cas d’un appareil de radioscopie à faible intensité et de petit format, égale à la distance à laquelle l’appareil peut produire un débit de kerma dans l’air de 50 mGy/min ou un débit d’exposition de 5,75 R/min.
 
 
@@ -2226,13 +1916,7 @@ où :
 
 
 
-
-
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **21** Tout appareil de radiodiagnostic doit fonctionner, dans des conditions normales d’utilisation, conformément aux exigences des articles 22 à 32.
 
@@ -2247,11 +1931,11 @@ où :
 > Image: Le coefficient de variation, calculé au moyen de l’équation “C est égal à S divisé par X barré lequel est aussi égal à un divisé par X barré multiplié par, ouvrir la parenthèse carrée, somme de i égale à un jusqu`a n, ouvrir la parenthèse, x indice i moins X barré, fermer la parenthèse, au carré, divisé par n moins un, fermer la parenthèse carrée, à la puissance une demie”
 
 ```
-où :
+où
 - **C** représente le coefficient de variation;
-- **S** l’écart type estimatif;
+- **S** l’écart type estimé;
 - *Xi*la valeur de la i<sup>e</sup> mesure;
-- *X*la valeur moyenne des mesures;
+- Xla valeur moyenne des mesures;
 - **n** le nombre de mesures. (*coefficient of variation*)
 
 ***exposition au récepteur d’image radiologique*** Quantité de rayons X, enregistrée par un ou plusieurs détecteurs placés en position fixe à proximité du récepteur d’image radiologique, qui permet de produire un radiogramme de la densité globale recherchée. (*exposure to the X-ray image receptor*)
@@ -2268,7 +1952,7 @@ où :
 **23** 
 
 - **(1)** Le présent article s’applique aux appareils de radiodiagnostic qui possèdent :
-	- **a)** un générateur radiologique qui n’est pas un générateur radiologique à accumulation d’énergie;
+	- **a)** un générateur haute tension qui n’est pas un générateur haute tension à accumulation d’énergie;
 	- **b)** des paramètres de charge qui ne se modifient pas automatiquement pour compenser les variations de la tension radiogène;
 	- **c)** une durée d’irradiation minimale de 0,1 s et un produit courant-temps minimal de 5 mAs.
 
@@ -2396,7 +2080,7 @@ où :
 	- **a)** à son champ de rayons X maximal et à sa distance foyer-récepteur d’image minimale;
 	- **b)** à sa tension radiogène maximale et selon son produit courant-temps maximal.
 
-- **(2)** Pour l’application du paragraphe (1), la mesure du kerma dans l’air ou la mesure de l’exposition se détermine par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 20 cm et dont le centre est placé à 5 cm de toute surface accessible au dispositif de support du récepteur d’image.
+- **(2)** Pour l’application du paragraphe (1), la mesure du kerma dans l’air ou la mesure de l’exposition se détermine par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 20 cm et dont le centre est placé à 5 cm de toute surface accessible au dispositif de support du récepteur d’image.
 
 
 **27** 
@@ -2407,7 +2091,7 @@ où :
 	- **c)** à une tension radiogène de 28 kV en mode standard pour toute distance foyer-récepteur d’image.
 
 - **(2)** Pour l’application du paragraphe (1), le débit de rayonnement de sortie minimal doit être :
-	- **a)** mesuré à 4,5 cm au-dessus du support du patient;
+	- **a)** mesuré à 4,5 cm au-dessus du support du patient;
 	- **b)** réparti sur une période d’irradiation de 3,0 s.
 
 
@@ -2450,17 +2134,17 @@ où :
 
 
 - **(2)** Pour l’application du paragraphe (1), le débit de kerma dans l’air ou le débit d’exposition se détermine à un point qui se trouve sur l’axe du faisceau de rayons X et qui est situé :
-	- **a)** si la source de rayons X se trouve au-dessous de la table, à 1 cm au-dessus de celle-ci;
-	- **b)** si la source de rayons X se trouve au-dessus de la table, à 30 cm au-dessus de celle-ci, l’ensemble radiogène étant placé le plus près possible du point de mesure;
-	- **c)** s’il s’agit d’un appareil de radioscopie avec arceau, à 30 cm de la surface d’entrée du système d’imagerie radioscopique;
-	- **d)** s’il s’agit d’un appareil de radioscopie de type latéral, à 15 cm de la ligne centrale de la table dans la direction de la source de rayons X, l’ensemble radiogène étant placé le plus près possible du point de mesure pour toutes les positions de la table.
+	- **a)** si la source de rayons X se trouve au-dessous de la table, à 1 cm au-dessus de celle-ci;
+	- **b)** si la source de rayons X se trouve au-dessus de la table, à 30 cm au-dessus de celle-ci, l’ensemble radiogène étant placé le plus près possible du point de mesure;
+	- **c)** s’il s’agit d’un appareil de radioscopie avec arceau, à 30 cm de la surface d’entrée du système d’imagerie radioscopique;
+	- **d)** s’il s’agit d’un appareil de radioscopie de type latéral, à 15 cm de la ligne centrale de la table dans la direction de la source de rayons X, l’ensemble radiogène étant placé le plus près possible du point de mesure pour toutes les positions de la table.
 
 
 **29** 
 
 - **(1)** Le rayonnement de fuite de l’ensemble radiogène de tout appareil de radiodiagnostic ne peut excéder un débit de kerma dans l’air de 1,0 mGy/h ou un débit d’exposition de 115 mR/h, lorsque l’appareil fonctionne à une tension nominale avec application d’une charge correspondant à l’apport énergétique maximal déterminé qui est produit pendant une heure.
 
-- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 20 cm et dont le centre est placé à une distance de 1 m du foyer.
+- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 20 cm et dont le centre est placé à une distance de 1 m du foyer.
 
 
 **30** 
@@ -2469,30 +2153,24 @@ où :
 	- **a)** le dispositif de limitation du faisceau est complètement ouvert;
 	- **b)** la commande automatique d’exposition ou la commande d’irradiation n’a pas été actionnée.
 
-- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 10 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 5 cm et dont le centre est placé à 5 cm de toute surface accessible de l’ensemble radiogène.
+- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 10 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 5 cm et dont le centre est placé à 5 cm de toute surface accessible de l’ensemble radiogène.
 
 
 **31** 
 
 - **(1)** Le débit de kerma dans l’air ou le débit d’exposition émis par tout élément d’un appareil de radiodiagnostic, autre que l’ensemble radiogène, ne peut, quelles que soient les conditions d’utilisation, dépasser 20,0 µGy/h et 2,3 mR/h respectivement.
 
-- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 10 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 5 cm et dont le centre est placé à 5 cm de toute surface accessible de l’élément.
+- **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine par le calcul de sa moyenne selon une surface de détection de 10 cm<sup>2</sup> n’ayant aucune dimension linéaire supérieure à 5 cm et dont le centre est placé à 5 cm de toute surface accessible de l’élément.
 
 
 **32** 
 
-- **(1)** Le débit de kerma dans l’air ou le débit d’exposition, produit par le faisceau de rayons X d’un appareil de radioscopie ou dispersé par la fenêtre d’entrée du système d’imagerie radioscopique, ne peuvent dépasser respectivement 2 mGy/h lorsque le débit moyen de kerma dans l’air à la fenêtre d’entrée équivaut à 1 Gy/min ou 2 mR/h lorsque le débit d’exposition à la fenêtre d’entrée équivaut à 1 R/min.
+- **(1)** Le débit de kerma dans l’air ou le débit d’exposition, produit par le faisceau de rayons X d’un appareil de radioscopie qui est dispersé par la fenêtre d’entrée du système d’imagerie radioscopique ou qui la traverse, ne peuvent dépasser respectivement 2 mGy/h lorsque le débit moyen de kerma dans l’air à la fenêtre d’entrée équivaut à 1 Gy/min ou 2 mR/h lorsque le débit d’exposition à la fenêtre d’entrée équivaut à 1 R/min.
 
 - **(2)** Pour l’application du paragraphe (1), la mesure du débit se détermine :
 	- **a)** au point prévu au paragraphe 28(2) selon le type ou la configuration de l’appareil;
-	- **b)** au moyen d’un bloc d’atténuation ayant un volume de 20 cm sur 20 cm sur 3,8 cm, composé d’aluminium et placé entre le point d’entrée du rayonnement et la surface réceptrice de l’image du système d’imagerie radioscopique;
-	- **c)** par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> dont le centre est placé au-delà du plan du récepteur d’image, à 10 cm de toute surface accessible du système d’imagerie radioscopique.
-
-
-
-
-
-
+	- **b)** au moyen d’un bloc d’atténuation ayant un volume de 20 cm sur 20 cm sur 3,8 cm, composé d’aluminium et placé entre le point d’entrée du rayonnement et la surface réceptrice de l’image du système d’imagerie radioscopique;
+	- **c)** par le calcul de sa moyenne selon une surface de détection de 100 cm<sup>2</sup> dont le centre est placé au-delà du plan du récepteur d’image, à 10 cm de toute surface accessible du système d’imagerie radioscopique.
 
 
 
@@ -2500,9 +2178,7 @@ où :
 ## Appareils à ultrasons à usage thérapeutique
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans la présente partie et à l’article 13 de l’annexe I,
 
@@ -2571,11 +2247,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de fabrication
+### Normes de conception et de fabrication
 
 **2** 
 
@@ -2628,11 +2300,7 @@ où
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **3** 
 
@@ -2654,25 +2322,15 @@ où
 
 
 
-
-
-
-
-## Symbole de mise en garde
+### Symbole de mise en garde
 
 **4** Le symbole de mise en garde visé au sous-alinéa 2(3)a)(x) est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de 1 m;
-- **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
-- **d)** qui porte les mentions «CAUTION-ULTRASOUND, ATTENTION-ULTRASONS»; et
+- **c)** dont aucune dimension extérieure n’est inférieure à 2 cm;
+- **d)** qui porte les mentions « CAUTION-ULTRASOUND, ATTENTION-ULTRASONS »; et
 - **e)** conçu d’après le modèle ci-dessous :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un petit rectangle avec une ligne courbée rattachée dans le coin droit émettant une série de lignes, avec “Attention - ultrasons, Caution-Ultrasound”
-
-
-
-
-
-
 
 
 
@@ -2681,9 +2339,7 @@ où
 ## Appareils d’analyse à rayonnement x
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Les définitions qui suivent s’appliquent à la présente partie.
 
@@ -2715,11 +2371,7 @@ où
 
 
 
-
-
-
-
-## Normes de conception et de construction
+### Normes de conception et de construction
 
 **2** L’appareil d’analyse à rayonnement X doit être conçu et construit de manière que, lorsqu’il est installé, utilisé et entretenu selon les instructions visées à l’alinéa 3a), il fonctionne conformément à l’article 10.
 
@@ -2733,7 +2385,7 @@ où
 - **a)** une étiquette portant le symbole de mise en garde contre les rayonnements X, lequel :
 	- **(i)** est de deux couleurs contrastantes,
 	- **(ii)** est bien visible et nettement perceptible à une distance de 1 m,
-	- **(iii)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
+	- **(iii)** n’a aucune dimension extérieure qui est inférieure à 2 cm,
 	- **(iv)** porte la mention « ATTENTION : RAYONNEMENTS X — CAUTION : X-RADIATION »,
 	- **(v)** est conforme au modèle suivant :
 > Image: Étiquette de mise en garde qui est décrite par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
@@ -2798,22 +2450,12 @@ CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When
 
 
 
+### Normes de fonctionnement
 
-
-
-
-## Normes de fonctionnement
-
-**10** Une fois assemblé, l’appareil d’analyse à rayonnement X doit fonctionner de manière que, lorsque la haute tension radiogène et le courant dans le tube radiogène sont réglés à un degré donné, l’émission de rayonnements X ne soit pas supérieure à une exposition de 0,5 milliroentgen (un kerma dans l’air ? 4,38 micrograys) l’heure à une distance de 5 cm :
+**10** Une fois assemblé, l’appareil d’analyse à rayonnement X doit fonctionner de manière que, lorsque la haute tension radiogène et le courant dans le tube radiogène sont réglés à un degré donné, l’émission de rayonnements X ne soit pas supérieure à une exposition de 0,5 milliroentgen (un kerma dans l’air ≈ 4,38 micrograys) l’heure à une distance de 5 cm :
 - **a)** des surfaces extérieures accessibles de toute gaine du tube radiogène, de tout dispositif de limitation du faisceau, de toute barrière de protection radiologique ou de tout accessoire;
 - **b)** de toute fenêtre, tout obturateur ou toute fente du filtre, lorsqu’ils sont sur la position « fermé »;
 - **c)** de tout point de la gaine du générateur radiologique.
-
-
-
-
-
-
 
 
 
@@ -2821,9 +2463,7 @@ CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When
 ## Équipement à rayons x logé dans une enceinte
 
 
-
-
-## Définitions
+### Définitions
 
 **1** Dans la présente partie,
 
@@ -2845,11 +2485,7 @@ CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When
 
 
 
-
-
-
-
-## Normes de conception et de fabrication
+### Normes de conception et de fabrication
 
 **2** L’équipement à rayons X logé dans une enceinte doit être conçu et fabriqué de façon que, lorsqu’il est installé et entretenu conformément aux instructions visées à l’article 3, il fonctionne conformément à l’article 10 tant qu’il comporte ses éléments d’origine ou les éléments de rechange recommandés par le fabricant.
 
@@ -2926,11 +2562,7 @@ CAUTION — X-RADIATION. This Equipment Produces High Intensity X-radiation When
 
 
 
-
-
-
-
-## Normes de fonctionnement
+### Normes de fonctionnement
 
 **10** L’équipement à rayons X logé dans une enceinte, une fois complètement monté, doit fonctionner de façon que, dans toutes les conditions de production de rayons X et au taux maximal de manutention du matériel précisé par le fabricant, la dose moyenne des rayonnements de fuite au cours d’une période d’au moins cinq minutes ne soit pas supérieure à 0,5 milliröntgen à l’heure, à une distance de cinq centimètres
 - **a)** d’une surface extérieure accessible du dispositif, y compris une porte ou un panneau blindés visés à l’alinéa 7b), et
@@ -2939,33 +2571,22 @@ la moyenne étant établie sur une surface de détection de 10 centimètres carr
 
 
 
-
-
-
-
-## Symbole de mise en garde
+### Symbole de mise en garde
 
 **11** Le symbole de mise en garde contre les rayons X visé à l’article 4 est un symbole
 - **a)** de deux couleurs contrastantes;
 - **b)** bien visible et reconnaissable à une distance de un mètre;
 - **c)** dont les dimensions extérieures sont d’au moins deux centimètres;
-- **d)** portant les mentions «CAUTION, X-RAYS» et «ATTENTION, RAYONS X»; et
+- **d)** portant les mentions « CAUTION, X-RAYS » et « ATTENTION, RAYONS X »; et
 - **e)** conçu d’après le modèle suivant :
 > Image: Étiquette de mise en garde qui est décrit par un triangle inversé contenant un tube avec un cercle au centre, émettant des lignes en pointillé, incluant les mots “Attention: Rayons X — Caution: X-Rays”
 
 
 
 
-
-
-
-
-
-
 **PARTIE XVI** 
-[Abrogée, DORS/88-471, art. 4]
+## [Abrogée, DORS/88-471, art. 4]
 
-
-> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2.
+> DORS/78-407, art. 2; DORS/79-229, art. 2(A) et 3; DORS/79-920, art. 1 à 4; DORS/80-381, art. 2; DORS/80-464, art. 2; DORS/81-23, art. 2; DORS/81-286, art. 2; DORS/81-545, art. 2; DORS/82-542, art. 1; DORS/82-981, art. 2; DORS/83-495, art. 2; DORS/84-930, art. 1 à 5; DORS/85-705, art. 1, 2(F), 3(F) et 4(F); DORS/85-756, art. 1; DORS/85-757, art. 1 à 3; DORS/88-471, art. 2(A), 3(A) et 4; DORS/91-408, art. 2(F); DORS/93-201, art. 2; DORS/94-40, art. 1; DORS/97-511, art. 2; DORS/2001-252, art. 2; DORS/2005-33, art. 2; DORS/2006-122, art. 1(F), 2(F), 3(F), 4(F), 5(F), 6(F), 7, 8(F), 9(F) et 10.
 
 
