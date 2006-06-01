@@ -105,9 +105,10 @@ that are directed to a single person or body;
 - **(i)** orders made by the Energy Supplies Allocation Board under the [Energy Supplies Emergency Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-9.md) that are directed to a single person or body;
 - **(j)** orders made by a person engaged or employed in the administration or enforcement of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) whereby a close time, fishing quota or limit on the size or weight of fish that has been fixed in respect of an area under regulations made under that Act is varied in respect of that area or any portion of that area;
 - **(j.1)** orders made under subsection 3(1) of the [Management of Contaminated Fisheries Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/351.md);
-- **(k)** permits issued by the Minister of Transport, or by a person designated by the Minister of Transport, under paragraph 3(3)(c) or subsection 27(1) of the Transportation of Dangerous Goods Act; and
-- **(l)** membership rules established by a band under paragraph 10(2)(a) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) and by-laws made by the council of a band under section 81 or subsection 83(1) or 85.1(1) of that Act.
-> SOR/78-814, s. 1; SOR/79-113, s. 1; SOR/80-900, s. 1; SOR/81-694, s. 1; SOR/86-172, s. 1; SOR/86-443, s. 1; SOR/87-398, s. 1; SOR/91-99, s. 1; SOR/91-430, s. 1; SOR/93-245, s. 2; SOR/94-479, s. 1; SOR/97-381, s. 1.
+- **(k)** permits issued by the Minister of Transport, or by a person designated by the Minister of Transport, under paragraph 3(3)(c) or subsection 27(1) of the Transportation of Dangerous Goods Act;
+- **(l)** membership rules established by a band under paragraph 10(2)(a) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) and by-laws made by the council of a band under section 81 or subsection 83(1) or 85.1(1) of that Act; and
+- **m)** licences, permits and other authorizing instruments issued pursuant to regulations made under the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md).
+> SOR/78-814, s. 1; SOR/79-113, s. 1; SOR/80-900, s. 1; SOR/81-694, s. 1; SOR/86-172, s. 1; SOR/86-443, s. 1; SOR/87-398, s. 1; SOR/91-99, s. 1; SOR/91-430, s. 1; SOR/93-245, s. 2; SOR/94-479, s. 1; SOR/97-381, s. 1; SOR/2006-123, s. 1.
 
 
 
