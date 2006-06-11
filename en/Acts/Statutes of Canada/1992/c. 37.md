@@ -54,26 +54,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Agency*** means the Canadian Environmental Assessment Agency established by section 61;
 
-
 ***assessment by a review panel*** means an environmental assessment that is conducted by a review panel established pursuant to section 33 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
-
 
 ***comprehensive study*** means an environmental assessment that is conducted pursuant to sections 21 and 21.1, and that includes a consideration of the factors required to be considered pursuant to subsections 16(1) and (2);
 
-
-***comprehensive study list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(d);
-
+***comprehensive study list*** means a list of all projects or classes of projects that have been prescribed pursuant to regulations made under paragraph 59(d); 
 
 ***environment*** means the components of the Earth, and includes
-
 - **(a)** land, water and air, including all layers of the atmosphere,
 - **(b)** all organic and inorganic matter and living organisms, and
 - **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b);
 
 ***environmental assessment*** means, in respect of a project, an assessment of the environmental effects of the project that is conducted in accordance with this Act and the regulations;
 
-
- 
 ***environmental effect*** means, in respect of a project,
 - **(a)** any change that the project may cause in the environment, including any change it may cause to a listed wildlife species, its critical habitat or the residences of individuals of that species, as those terms are defined in subsection 2(1) of the [Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md),
 - **(b)** any effect of any change referred to in paragraph (a) on
@@ -85,89 +78,64 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
  whether any such change or effect occurs within or outside Canada;
 
-***exclusion list***means a list of projects or classes of projects that have been exempted from the requirement to conduct an assessment by regulations made under paragraph 59(c) or (c.1);
+***exclusion list***means a list of projects or classes of projects that have been exempted from the requirement to conduct an assessment by regulations made under paragraph 59(c) or (c.1); 
 
-
-***federal authority*** means
-
+***federal authority*** means 
 - **(a)** a Minister of the Crown in right of Canada,
-- **(b)** an agency of the Government of Canada or other body established by or pursuant to an Act of Parliament that is ultimately accountable through a Minister of the Crown in right of Canada to Parliament for the conduct of its affairs,
+- **(b)** an agency of the Government of Canada, a parent Crown corporation, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), or any other body established by or pursuant to an Act of Parliament that is ultimately accountable through a Minister of the Crown in right of Canada to Parliament for the conduct of its affairs,
 - **(c)** any department or departmental corporation set out in Schedule I or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and
 - **(d)** any other body that is prescribed pursuant to regulations made under paragraph 59(e),
 
-but does not include the Legislature or an agency or body of Yukon or Nunavut, the Commissioner in Council or an agency or body of the Northwest Territories, a council of the band within the meaning of the 
-[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), The Hamilton Harbour Commissioners constituted pursuant to 
-The Hamilton Harbour Commissioners' Act, The Toronto Harbour Commissioners constituted pursuant to 
-The Toronto Harbour Commissioners' Act, 1911, a harbour commission established pursuant to the 
-[Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a Crown corporation within the meaning of the 
-[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the 
-[Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
+but does not include the Executive Council of — or a minister, department, agency or body of the government of — Yukon, the Northwest Territories or Nunavut, a council of the band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), Export Development Canada, the Canada Pension Plan Investment Board, a Crown corporation that is a wholly-owned subsidiary, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), The Hamilton Harbour Commissioners as constituted pursuant to The Hamilton Harbour Commissioners’ Act, a harbour commission established pursuant to the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md), a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md) or a port authority established under that Act;
 
-***federal lands*** means
-
+***federal lands*** means 
 - **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands under the administration and control of the Commissioner of Yukon, the Northwest Territories or Nunavut,
 - **(b)** the following lands and areas, namely,
 	- **(i)** the internal waters of Canada,
 	- **(ii)** the territorial sea of Canada,
 	- **(iii)** the exclusive economic zone of Canada, and
 	- **(iv)** the continental shelf of Canada, and
-- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and are subject to the 
-[Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands;
+- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and are subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands;
 
-***follow-up program*** means a program for
-
+***follow-up program*** means a program for 
 - **(a)** verifying the accuracy of the environmental assessment of a project, and
 - **(b)** determining the effectiveness of any measures taken to mitigate the adverse environmental effects of the project;
 
 ***interested party*** means, in respect of an environmental assessment, any person or body having an interest in the outcome of the environmental assessment for a purpose that is neither frivolous nor vexatious;
 
-
 ***mediation*** means an environmental assessment that is conducted with the assistance of a mediator appointed pursuant to section 30 and that includes a consideration of the factors required to be considered under subsections 16(1) and (2);
 
 ***Minister*** means the Minister of the Environment;
 
-
 ***mitigation*** means, in respect of a project, the elimination, reduction or control of the adverse environmental effects of the project, and includes restitution for any damage to the environment caused by such effects through replacement, restoration, compensation or any other means;
-
 
 Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
-
-***project*** means
-
+***project*** means 
 - **(a)** in relation to a physical work, any proposed construction, operation, modification, decommissioning, abandonment or other undertaking in relation to that physical work, or
 - **(b)** any proposed physical activity not relating to a physical work that is prescribed or is within a class of physical activities that is prescribed pursuant to regulations made under paragraph 59(b);
 
 ***proponent***, in respect of a project, means the person, body, federal authority or government that proposes the project;
 
-
 ***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy thereof;
-
 
 ***Registry***means the Canadian Environmental Assessment Registry established under section 55;
 
-
 ***responsible authority***, in relation to a project, means a federal authority that is required pursuant to subsection 11(1) to ensure that an environmental assessment of the project is conducted;
-
 
 ***screening*** means an environmental assessment that is conducted pursuant to section 18 and that includes a consideration of the factors set out in subsection 16(1);
 
-
 ***screening report*** means a report that summarizes the results of a screening;
-
 
 ***sustainable development*** means development that meets the needs of the present, without compromising the ability of future generations to meet their own needs.
 
-
 **Extended meaning ofadministration of federal lands**
 
-- **(2)** In so far as this Act applies to Crown corporations, the expression 
-***administration of federal lands*** includes the ownership or management of those lands.
+- **(2)** In so far as this Act applies to Crown corporations, the expression ***administration of federal lands*** includes the ownership or management of those lands.
 
 **For greater certainty**
 
-- **(3)** For greater certainty, any construction, operation, modification, decommissioning, abandonment or other undertaking in relation to a physical work and any activity that is prescribed or is within a class of activities that is prescribed for the purposes of the definition 
-***project*** in subsection (1) is a project for at least so long as, in relation to it, a person or body referred to in subsection 5(1) or (2), 8(1), 9(2), 9.1(2), 10(1) or 10.1(2) is considering, but has not yet taken, an action referred to in those subsections.
+- **(3)** For greater certainty, any construction, operation, modification, decommissioning, abandonment or other undertaking in relation to a physical work and any activity that is prescribed or is within a class of activities that is prescribed for the purposes of the definition ***project*** in subsection (1) is a project for at least so long as, in relation to it, a person or body referred to in subsection 5(1) or (2), 8(1), 9(2), 9.1(2), 10(1) or 10.1(2) is considering, but has not yet taken, an action referred to in those subsections.
 > 1992, c. 37, s. 2; 1993, c. 28, s. 78, c. 34, s. 18(F); 1996, c. 31, s. 61; 1998, c. 10, s. 164, c. 15, s. 50; 2002, c. 7, s. 122, c. 29, s. 137; 2003, c. 9, s. 1.
 
 
