@@ -56,115 +56,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Agence*** L’Agence canadienne d’évaluation environnementale constituée par l’article 61.
 
-
 ***autorité fédérale***
-- **a)
-** Ministre fédéral;
-- **b)
-** agence fédérale ou organisme constitué sous le régime d’une loi fédérale et tenu de rendre compte au Parlement de ses activités par l’intermédiaire d’un ministre fédéral;
-- **c)
-** ministère ou établissement public mentionnés aux annexes I et II de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **d)
-** tout autre organisme désigné par les règlements d’application de l’alinéa 59
-e).
+- **a)** Ministre fédéral;
+- **b)** agence fédérale, société d’État mère au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou autre organisme constitué sous le régime d’une loi fédérale et tenu de rendre compte au Parlement de ses activités par l’intermédiaire d’un ministre fédéral;
+- **c)** ministère ou établissement public mentionnés aux annexes I et II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **d)** tout autre organisme désigné par les règlements d’application de l’alinéa 59e).
 
-Sont exclus la Législature du Yukon et celle du Nunavut, le commissaire en conseil des Territoires du Nord-Ouest et tous les organismes de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la 
-[Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), les commissions portuaires constituées par la 
-[Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), les commissaires nommés en vertu de la 
-Loi des commissaires du havre de Hamilton et de la 
-Loi de 1911 concernant les commissaires du havre de Toronto, les sociétés d'État au sens de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la 
-[Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi.
+Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du Nord-Ouest et du Nunavut, ainsi que les ministères et les organismes de l’administration publique de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), Exportation et développement Canada, l’Office d’investissement du régime de pensions du Canada, les sociétés d’État qui sont des filiales à cent pour cent au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les commissions portuaires constituées par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), les commissaires nommés en vertu de la Loi des commissaires du havre de Hamilton, la société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md) et les administrations portuaires constituées sous le régime de cette loi.
 
 ***autorité responsable*** L’autorité fédérale qui, en conformité avec le paragraphe 11(1), est tenue de veiller à ce qu’il soit procédé à l’évaluation environnementale d’un projet.
 
-
 ***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité pour les générations futures de satisfaire les leurs.
-
 
 ***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
 
+***effets environnementaux*** Que ce soit au Canada ou à l’étranger, les changements que la réalisation d’un projet risque de causer à l’environnement — notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)  — les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l’usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d’importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d’être apportés au projet du fait de l’environnement.
 
-***effets environnementaux*** Que ce soit au Canada ou à l'étranger, les changements que la réalisation d'un projet risque de causer à l'environnement — notamment à une espèce sauvage inscrite, à son habitat essentiel ou à la résidence des individus de cette espèce, au sens du paragraphe 2(1) de la 
-[Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)  — les répercussions de ces changements soit en matière sanitaire et socioéconomique, soit sur l'usage courant de terres et de ressources à des fins traditionnelles par les autochtones, soit sur une construction, un emplacement ou une chose d'importance en matière historique, archéologique, paléontologique ou architecturale, ainsi que les changements susceptibles d'être apportés au projet du fait de l'environnement.
-
-
-***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
-
-- **a)
-** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
-- **b)
-** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
-- **c)
-** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas 
-a) et 
-b).
+***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment : 
+- **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
+- **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
+- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
 
 ***étude approfondie*** Évaluation environnementale d’un projet effectuée aux termes des articles 21 et 21.1 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
-
 ***évaluation environnementale*** Évaluation des effets environnementaux d’un projet effectuée conformément à la présente loi et aux règlements.
-
 
 ***examen par une commission*** Évaluation environnementale effectuée par une commission d’évaluation environnementale constituée aux termes de l’article 33 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
+***examen préalable*** Évaluation environnementale qui, à la fois : 
+- **a)** est effectuée de la façon prévue à l’article 18;
+- **b)** prend en compte les éléments énumérés au paragraphe 16(1).
 
-***examen préalable*** Évaluation environnementale qui, à la fois :
+***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 59 d).
 
-- **a)
-** est effectuée de la façon prévue à l’article 18;
-- **b)
-** prend en compte les éléments énumérés au paragraphe 16(1).
-
-***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 59
-d).
-
-
-***liste d’exclusion*** Liste des projets ou catégories de projets soustraits à l’évaluation par règlement pris en vertu des alinéas 59c) ou 
-c.1).
-
+***liste d’exclusion*** Liste des projets ou catégories de projets soustraits à l’évaluation par règlement pris en vertu des alinéas 59c) ou c.1).
 
 ***médiation*** Évaluation environnementale effectuée sous la direction d’un médiateur nommé aux termes de l’article 30 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
-
 ***mesures d’atténuation*** Maîtrise efficace, réduction importante ou élimination des effets environnementaux négatifs d’un projet, éventuellement assortie d’actions de rétablissement notamment par remplacement ou restauration; y est assimilée l’indemnisation des dommages causés.
-
 
 ***ministre*** Le ministre de l’Environnement.
 
-
 ***partie intéressée*** Toute personne ou tout organisme pour qui le résultat de l’évaluation environnementale revêt un intérêt qui ne soit ni frivole ni vexatoire.
 
+***programme de suivi*** Programme visant à permettre : 
+- **a)** de vérifier la justesse de l’évaluation environnementale d’un projet;
+- **b)** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
 
-***programme de suivi*** Programme visant à permettre :
-
-- **a)
-** de vérifier la justesse de l’évaluation environnementale d’un projet;
-- **b)
-** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
-
-***projet*** Réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou proposition d’exercice d’une activité concrète, non liée à un ouvrage, désignée par règlement ou faisant partie d’une catégorie d’activités concrètes désignée par règlement aux termes de l’alinéa 59
-b).
-
+***projet*** Réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou proposition d’exercice d’une activité concrète, non liée à un ouvrage, désignée par règlement ou faisant partie d’une catégorie d’activités concrètes désignée par règlement aux termes de l’alinéa 59b).
 
 ***promoteur*** Autorité fédérale ou gouvernement, personne physique ou morale ou tout organisme qui propose un projet.
 
-
 ***rapport d’examen préalable*** Rapport des résultats d’un examen préalable.
-
 
 ***registre*** Le registre canadien d’évaluation environnementale établi au titre de l’article 55.
 
-
 ***territoire domanial***
-- **a)
-** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien, à l’exception des terres dont le Commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise;
-- **b)
-** les eaux intérieures, la mer territoriale, la zone économique exclusive et le plateau continental du Canada;
-- **c)
-** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la 
-[Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou qu’elle a le pouvoir d’aliéner, ainsi que leurs eaux et leur espace aérien, à l’exception des terres dont le Commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise;
+- **b)** les eaux intérieures, la mer territoriale, la zone économique exclusive et le plateau continental du Canada;
+- **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
 
 **Gestion du territoire domanial**
 
