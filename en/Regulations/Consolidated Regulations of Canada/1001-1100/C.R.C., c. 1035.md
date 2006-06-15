@@ -390,8 +390,8 @@ and the number of carcasses does not exceed the possession limit for that specie
 	- **(b)** those birds are transported during the open season or within five days after its termination; and
 	- **(c)** the number of those birds does not exceed the number specified in Schedule I as the possession limit for that species in that province.
 
-- **(3)** No person shall traffic between Canada, or the exclusive economic zone of Canada, and the United States in migratory birds, or the nests or eggs of migratory birds that have been captured, killed, taken or shipped contrary to the laws applicable to the area in Canada, the exclusive economic zone of Canada or the United Sates in which those birds were captured, killed, taken or shipped.
-> SOR/80-577, s. 5; SOR/84-561, s. 1; SOR/2004-138, s. 1(F); SOR/2005-198, s. 3.
+- **(3)** No person shall traffic between Canada, or the exclusive economic zone of Canada, and the United States in migratory birds, or the nests or eggs of migratory birds, that have been captured, killed, taken or shipped contrary to the laws applicable to the area in Canada, the exclusive economic zone of Canada or the United States in which those birds, nests or eggs were captured, killed, taken or shipped.
+> SOR/80-577, s. 5; SOR/84-561, s. 1; SOR/2004-138, s. 1(F); SOR/2005-198, s. 3; SOR/2006-136, s. 1.
 
 
 
@@ -1931,49 +1931,63 @@ TABLE I.1
 <th>Additional hunting method or equipment</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
 <td>District A</td>
-<td>May 1 to June 30 and September 1 to December 10</td>
+<td>May 1 to June 30 September 1 to December 10
+
+</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>September 16 to December 26</td>
+<td>September 17 to December 26</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C and D</td>
-<td>April 1 to May 31 (a) September 1 to September 15 (a) and September 16 to December 16</td>
+<td>April 1 to May 31 (a)September 6 to September 16 (a)
+
+September 17 to December 26
+
+</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>District E</td>
-<td>April 1 to May 31 (a) September 1 to September 15 (a) and September 16 to December 16 </td>
+<td>April 1 to May 31 (a) September 6 to September 16 (a)
+
+September 17 to December 26
+
+</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Districts F, G. H and I</td>
-<td>April 1 to May 31 (a), (b), (c), September 6 to September 22(a) and September 234 to December 26</td>
+<td>April 1 to May 31 (a), (b), (c)September 6 to September 23 (a)
+
+September 24 to December 26
+
+</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>District J</td>
-<td>September 23 to December 26</td>
+<td>September 24 to December 26</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
-<td>**(a)** Hunting and hunting equipment are allowed only on farmland.
+<td>**(a)** Hunting is allowed only on farmland.
 
 </td>
 </tr>
@@ -1983,12 +1997,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** In District G, on the north shore of the St. Lawrence River, no person shall hunt north of the St. Lawrence River and south of a line located at 1000 m north of Highway 40 between Montée St-Laurent and the Maskinongé River. On the south shore of the St. Lawrence River, no person shall hunt south of the St. Lawrence River and north of the railroad right-of-way located near Route 132 between the Nicolet River in the east and Lacerte Road in the west.
+<td>**(c)** In District G, on the north shore of the St. Lawrence River, no person shall hunt north of the St. Lawrence River and south of a line located at 1 000 m north of Highway 40 between Montée St-Laurent and the Maskinongé River. On the south shore of the St. Lawrence River, no person shall hunt south of the St. Lawrence River and north of the railroad right-of-way located near Route 132 between the Nicolet River in the east and Lacerte Road in the west.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** “Recorded bird calls” refers to bird calls of a species referred to in the heading of column 2.
+<td>**(d)** "Recorded bird calls" refers to bird calls of a species referred to in the heading of column 2.
 
 </td>
 </tr>
@@ -1998,7 +2012,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(f)** The decoys used when hunting with recorded Snow Goose calls must represent only white-phase Snow Geese in adult or juvenile plumage (white or gray).
+<td>**(f)** If decoys are used when hunting with recorded Snow Goose calls, the decoys must represent white phase Snow Geese.
 
 </td>
 </tr>
@@ -3884,7 +3898,7 @@ TABLE I.1
 
 
 
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 16(E), 17 to 26.
 
 
 
