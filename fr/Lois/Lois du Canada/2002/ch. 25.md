@@ -48,21 +48,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***certificat canadien*** Certificat du Processus de Kimberley délivré par le ministre en application de l’alinéa 9(1)a).
+***certificat canadien*** Certificat du Processus de Kimberley délivré par le ministre en application de l’alinéa 9(1)a). (*Canadian Certificate*)
 
-***certificat du Processus de Kimberley*** Document délivré par un participant, qui certifie que les diamants bruts destinés à l’exportation ou à l’importation ou en transit ont été traités de manière à répondre aux exigences minimales prévues par le Processus de Kimberley.
+***certificat du Processus de Kimberley*** Document délivré par un participant, qui certifie que les diamants bruts destinés à l’exportation ou à l’importation ou en transit ont été traités de manière à répondre aux exigences minimales prévues par le Processus de Kimberley. (*Kimberley Process certificate*)
 
-***diamant brut*** Diamant non trié, non travaillé ou simplement scié, clivé ou débruté, qui figure aux sous-positions 7102.10, 7102.21 ou 7102.31 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***diamant brut*** Diamant non trié, non travaillé ou simplement scié, clivé ou débruté qui figure aux sous-positions 7102.10, 7102.21 ou 7102.31 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). La présente définition ne s’applique pas aux diamants des catégories exclues par règlement. (*rough diamond*)
 
-***en transit*** Qualifie les diamants bruts qui passent par le Canada en provenance et à destination d’un lieu à l’étranger.
+***en transit*** Qualifie les diamants bruts qui passent par le Canada en provenance et à destination d’un lieu à l’étranger. (*in transit*)
 
-***ministre*** Le ministre des Ressources naturelles.
+***ministre*** Le ministre des Ressources naturelles. (*Minister*)
 
-***participant*** État, dépendance d’un État, organisation internationale d’États ou territoire douanier dont le nom figure à l’annexe.
+***participant*** État, dépendance d’un État, organisation internationale d’États ou territoire douanier dont le nom figure à l’annexe. (*participant*)
 
-***Processus de Kimberley*** Entente internationale entre les participants reconnue par la Résolution 55/56 adoptée par l’Assemblée générale des Nations Unies le 1<sup>er</sup> décembre 2000, avec ses modifications successives.
+***Processus de Kimberley*** Entente internationale entre les participants reconnue par la Résolution 55/56 adoptée par l’Assemblée générale des Nations Unies le 1<sup>er</sup> décembre 2000, avec ses modifications successives. (*Kimberley Process*)
 
-***résident du Canada*** Personne physique qui réside habituellement au Canada ou personne morale qui a son siège social au Canada ou y exploite une succursale.
+***résident du Canada*** Personne physique qui réside habituellement au Canada ou personne morale qui a son siège social au Canada ou y exploite une succursale. (*resident of Canada*)
+> 2002, ch. 25, art. 2; 2005, ch. 51, art. 1.
+
 
 
 
@@ -85,9 +87,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Données statistiques**
+**Statistiques**
 
-**5** Le ministre peut recueillir, compiler et utiliser des données statistiques relatives aux certificats canadiens et aux certificats du Processus de Kimberley accompagnant les importations, pour analyse ou étude ou en vue de les échanger avec d’autres participants. Il peut publier le nombre de ces certificats.
+**5** Le ministre peut recueillir, compiler et utiliser des statistiques relatives aux certificats canadiens et aux certificats du Processus de Kimberley accompagnant les importations, pour analyse ou étude ou en vue de les échanger avec d’autres participants. Il peut également publier ces statistiques selon les modalités qu’il estime indiquées.
+> 2002, ch. 25, art. 5; 2005, ch. 51, art. 2.
+
 
 
 
@@ -118,7 +122,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations**
 
-**8** L’exportateur de diamants bruts doit veiller à ce que, lors de l’exportation, ceux-ci soient accompagnés d’un certificat canadien et soient dans un contenant conforme aux normes réglementaires.
+**8** 
+
+- **(1)** L’exportateur de diamants bruts doit veiller à ce que, lors de l’exportation, ceux-ci soient accompagnés d’un certificat canadien et soient dans un contenant conforme aux normes réglementaires.
+
+**Emballage distinct**
+
+- **(2)** Il doit également veiller à ce que les diamants bruts placés dans le contenant ne soient pas emballés avec des diamants exclus de la définition de ***diamant brut*** ou toute autre chose.
+> 2002, ch. 25, art. 8; 2005, ch. 51, art. 3.
+
 
 
 
@@ -183,10 +195,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation relative à l’importation de diamants bruts**
 
-**14** L’importateur de diamants bruts doit veiller à ce que, lors de l’importation, ceux-ci soient dans un contenant conforme aux normes réglementaires et soient accompagnés d’un certificat du Processus de Kimberley qui remplit les conditions suivantes :
-- **a)** le certificat a été délivré par un participant;
-- **b)** il n’a pas été invalidé par le participant l’ayant délivré;
-- **c)** les renseignements qu’il contient sont exacts.
+**14** 
+
+- **(1)** L’importateur de diamants bruts doit veiller à ce que, lors de l’importation, ceux-ci soient dans un contenant conforme aux normes réglementaires et soient accompagnés d’un certificat du Processus de Kimberley qui remplit les conditions suivantes :
+	- **a)** le certificat a été délivré par un participant;
+	- **b)** il n’a pas été invalidé par le participant l’ayant délivré;
+	- **c)** les renseignements qu’il contient sont exacts.
+
+**Emballage distinct**
+
+- **(2)** Il doit également veiller à ce que les diamants bruts placés dans le contenant ne soient pas emballés avec des diamants exclus de la définition de ***diamant brut*** ou toute autre chose.
+> 2002, ch. 25, art. 14; 2005, ch. 51, art. 4.
+
 
 
 
@@ -195,11 +215,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Si, à leur arrivée au Canada, les diamants bruts importés sont accompagnés d’un certificat du Processus de Kimberley qui remplit les conditions prévues à l’article 14, mais sont dans un contenant qui a été ouvert, le ministre peut ordonner à la personne les ayant importés de les renvoyer au participant qui a délivré le certificat.
+- **(1)** Si, à leur arrivée au Canada, les diamants bruts importés sont accompagnés d’un certificat du Processus de Kimberley qui remplit les conditions prévues au paragraphe 14(1), mais sont dans un contenant qui a été ouvert, le ministre peut ordonner à la personne les ayant importés de les renvoyer au participant qui a délivré le certificat.
 
 **Exception**
 
 - **(2)** Les diamants bruts ne peuvent être saisis si le ministre ordonne qu’ils soient renvoyés.
+> 2002, ch. 25, art. 15; 2005, ch. 51, art. 5.
+
 
 
 
@@ -435,14 +457,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements ministériels**
 
-**35** Le ministre peut, par règlement :
-- **a)** prévoir les modalités de présentation de la demande visée au paragraphe 9(1) ou à l’article 11 et préciser les renseignements devant y figurer et les documents devant l’accompagner;
+**35** Le ministre peut, par règlement :
+- **a)** prévoir, pour l’application de la définition de ***diamant brut*** à l’article 2, les catégories de diamants exclues;
+- **a.1)** prévoir les modalités de présentation de la demande visée au paragraphe 9(1) ou à l’article 11 et préciser les renseignements devant y figurer et les documents devant l’accompagner;
 - **b)** préciser les renseignements devant figurer sur le certificat canadien et fixer la période de validité du certificat;
 - **c)** prévoir le lieu et les modalités de présentation du rapport visé au paragraphe 13(1) et préciser les renseignements devant y figurer;
 - **d)** prévoir le lieu et les modalités de présentation du rapport visé au paragraphe 16(1) et préciser les renseignements devant y figurer et les documents devant l’accompagner;
 - **e)** prévoir les normes relatives aux contenants destinés à l’importation ou à l’exportation de diamants bruts;
 - **f)** désigner les données, registres et documents comptables ou autres devant être tenus par les exportateurs et importateurs de diamants bruts, en prévoir la forme et le contenu et fixer la période durant laquelle ils doivent être tenus;
 - **g)** prévoir les modalités de disposition des diamants bruts ou des autres objets qui sont confisqués en vertu de la présente loi, désigner les personnes devant être avisées de la disposition et préciser les modalités relatives à l’avis.
+> 2002, ch. 25, art. 35; 2005, ch. 51, art. 6.
+
 
 
 
