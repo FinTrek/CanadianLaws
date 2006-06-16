@@ -46,21 +46,23 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Canadian Certificate*** means a Kimberley Process Certificate issued by the Minister under paragraph 9(1)(a).
+***Canadian Certificate*** means a Kimberley Process Certificate issued by the Minister under paragraph 9(1)(a). (*certificat canadien*)
 
-***in transit***, in respect of rough diamonds, means from a place outside Canada in transit through Canada to a place outside Canada.
+***in transit***, in respect of rough diamonds, means from a place outside Canada in transit through Canada to a place outside Canada. (*en transit*)
 
-***Kimberley Process*** means the international understanding among participants that was recognized by Resolution 55/56 adopted by the General Assembly of the United Nations on December 1, 2000, as that understanding is amended from time to time.
+***Kimberley Process*** means the international understanding among participants that was recognized by Resolution 55/56 adopted by the General Assembly of the United Nations on December 1, 2000, as that understanding is amended from time to time. (*Processus de Kimberley*)
 
-***Kimberley Process Certificate*** means a document, issued by a participant, that certifies that rough diamonds for export or import or in transit have been handled in a manner that meets the minimum requirements of the Kimberley Process.
+***Kimberley Process Certificate*** means a document, issued by a participant, that certifies that rough diamonds for export or import or in transit have been handled in a manner that meets the minimum requirements of the Kimberley Process. (*certificat du Processus de Kimberley*)
 
-***Minister*** means the Minister of Natural Resources.
+***Minister*** means the Minister of Natural Resources. (*ministre*)
 
-***participant*** means a state, international organization of states or dependent territory of a state, or a customs territory, named in the schedule.
+***participant*** means a state, international organization of states or dependent territory of a state, or a customs territory, named in the schedule. (*participant*)
 
-***resident of Canada*** means an individual who ordinarily resides in Canada or a corporation that has its head office, or operates a branch office, in Canada.
+***resident of Canada*** means an individual who ordinarily resides in Canada or a corporation that has its head office, or operates a branch office, in Canada. (*résident du Canada*)
 
-***rough diamond*** means a diamond that is unsorted, unworked or simply sawn, cleaved or bruted, and that falls under subheading 7102.10, 7102.21 or 7102.31 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+***rough diamond*** means a diamond that is unsorted, unworked or simply sawn, cleaved or bruted, and that falls under subheading 7102.10, 7102.21 or 7102.31 in the List of Tariff Provisions set out in the schedule to the Customs Tariff, but does not include diamonds that are of a class prescribed by regulation. (*diamant brut*)
+> 2002, c. 25, s. 2; 2005, c. 51, s. 1.
+
 
 
 
@@ -85,7 +87,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Statistics**
 
-**5** The Minister may collect, compile and use statistics respecting Canadian Certificates and Kimberley Process Certificates accompanying imports into Canada for analysis, study or exchange with other participants. The Minister may publish the number of such certificates.
+**5** The Minister may collect, compile and use statistics respecting Canadian Certificates and Kimberley Process Certificates accompanying imports into Canada for analysis, study or exchange with other participants. The Minister may also publish those statistics in any form and manner that the Minister considers appropriate.
+> 2002, c. 25, s. 5; 2005, c. 51, s. 2.
+
 
 
 
@@ -116,7 +120,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Requirements for exporting rough diamonds**
 
-**8** Every person who exports rough diamonds must ensure that, on export, they are in a container that meets the requirements of the regulations and are accompanied by a Canadian Certificate.
+**8** 
+
+- **(1)** Every person who exports rough diamonds must ensure that, on export, they are in a container that meets the requirements of the regulations and are accompanied by a Canadian Certificate.
+
+**Rough diamonds to be parcelled separately**
+
+- **(2)** Every person who exports rough diamonds must ensure that, on export, the rough diamonds in the container are not parcelled with diamonds excluded from the definition ***rough diamond*** or with anything else.
+> 2002, c. 25, s. 8; 2005, c. 51, s. 3.
+
 
 
 
@@ -181,10 +193,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Requirements for importing rough diamonds**
 
-**14** Every person who imports rough diamonds must ensure that, on import, they are in a container that meets the requirements of the regulations and are accompanied by a Kimberley Process Certificate that
-- **(a)** was issued by a participant;
-- **(b)** has not been invalidated by the participant; and
-- **(c)** contains accurate information.
+**14** 
+
+- **(1)** Every person who imports rough diamonds must ensure that, on import, they are in a container that meets the requirements of the regulations and are accompanied by a Kimberley Process Certificate that
+	- **(a)** was issued by a participant;
+	- **(b)** has not been invalidated by the participant; and
+	- **(c)** contains accurate information.
+
+**Rough diamonds to be parcelled separately**
+
+- **(2)** Every person who imports rough diamonds must ensure that, on import, the rough diamonds in the container are not parcelled with diamonds excluded from the definition ***rough diamond*** or with anything else.
+> 2002, c. 25, s. 14; 2005, c. 51, s. 4.
+
 
 
 
@@ -193,11 +213,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **15** 
 
-- **(1)** If imported rough diamonds arrive in Canada accompanied by a Kimberley Process Certificate that meets the requirements of section 14 but are in a container that has been opened, the Minister may order the person who imported the rough diamonds to return them to the participant who issued the certificate.
+- **(1)** If imported rough diamonds arrive in Canada accompanied by a Kimberley Process Certificate that meets the requirements of subsection 14(1) but are in a container that has been opened, the Minister may order the person who imported the rough diamonds to return them to the participant who issued the certificate.
 
 **Exception**
 
 - **(2)** If the Minister orders the return of the rough diamonds, they may not be seized.
+> 2002, c. 25, s. 15; 2005, c. 51, s. 5.
+
 
 
 
@@ -436,13 +458,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Ministerial regulations**
 
 **35** The Minister may make regulations
-- **(a)** respecting the manner of submitting an application under subsection 9(1) or section 11 and specifying the information that must be included in it and the documents that must accompany it;
+- **(a)** prescribing the classes of diamonds to be excluded from the definition ***rough diamond*** in section 2;
+- **(a.1)** respecting the manner of submitting an application under subsection 9(1) or section 11 and specifying the information that must be included in it and the documents that must accompany it;
 - **(b)** specifying the content of Canadian Certificates and the period of their validity;
 - **(c)** respecting the place and manner of submitting a report under subsection 13(1) and specifying the information that must be included in it;
 - **(d)** respecting the place and manner of submitting a report under subsection 16(1) and specifying the information that must be included in the report and documents that must accompany it;
 - **(e)** prescribing the requirements for containers to be used for the export or import of rough diamonds;
 - **(f)** prescribing the records, books of account or other documents or data to be kept by persons who export or import rough diamonds, their form and content and the period during which they must be kept; and
 - **(g)** respecting the disposition of rough diamonds or other things that are forfeited under this Act, the persons to be notified of their disposition and the manner of the notification.
+> 2002, c. 25, s. 35; 2005, c. 51, s. 6.
+
 
 
 
