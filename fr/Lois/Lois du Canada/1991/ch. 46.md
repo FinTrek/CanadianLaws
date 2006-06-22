@@ -664,12 +664,12 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 **21** 
 
-- **(1)** Sous réserve du paragraphe (2), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après la date du cinquième anniversaire de l’entrée en vigueur du présent article; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve du paragraphe (2), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44.
+> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199.
 
 
 
@@ -14987,12 +14987,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **670** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés de portefeuille bancaires peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183.
+> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1.
 
 
 
