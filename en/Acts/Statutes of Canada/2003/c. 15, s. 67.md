@@ -7,10 +7,11 @@
 
 Assented to on 19 June 2003
 
-```
-[Enacted by section 67 of chapter 15 of the Statutes of Canada, 2003, in force on assent June 19, 2003.]
-```
 ----------
+
+
+
+[Enacted by section 67 of chapter 15 of the Statutes of Canada, 2003, in force on assent June 19, 2003.]
 
 
 
@@ -438,7 +439,7 @@ where
 
 
 **PART 2** 
-## First Nations Sales Tax — Quebec
+## First Nations Sales Tax — Specified Provinces
 
 
 
@@ -450,18 +451,22 @@ where
 
 **17** The following definitions apply in this Part and in Schedule 2.
 
-***band law*** means a law enacted by a council of the band under section 23.
+***band law*** means a law enacted by a council of the band under section 23. (*texte législatif de bande*)
 
-***council of the band*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council of the band*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil de bande*)
 
-***direct*** has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867.
+***direct*** has the same meaning, for the purpose of distinguishing between a direct and an indirect tax, as in class 2 of section 92 of the Constitution Act, 1867. (*directe*)
 
-***parallel Quebec law***, in respect of a band law, means the enactment, or those provisions of it, of Quebec to which the band law is similar.
+***parallel provincial law***, in respect of a band law, means the enactment of the specified province listed in Schedule 2 opposite the name of the council of the band that enacted the band law, or those provisions of an enactment of that province, to which the band law is similar. (*loi provinciale parallèle*)
 
-***reserves in Quebec***, of a band, means the reserves within Quebec that are described opposite the name of that band listed in Schedule 2.
+***parallel Quebec law***[Repealed, 2006, c. 4, s. 92]
 
-***sales tax*** means any tax of general application payable on a value, price or quantity basis by a person in respect of the sale, rental, supply, consumption or use of a property or service.
-> 2005, c. 19, s. 10.
+***reserves in Quebec***[Repealed, 2006, c. 4, s. 92]
+
+***sales tax*** means any tax of general application payable on a value, price or quantity basis by a person in respect of the sale, rental, supply, consumption or use of a property or service. (*taxe de vente*)
+
+***specified province*** means a province that is listed in Schedule 2. (*province visée*)
+> 2005, c. 19, s. 10; 2006, c. 4, s. 92.
 
 
 
@@ -506,8 +511,8 @@ where
 
 **Application of other Acts**
 
-**21** If a law of Quebec provides that one or more laws of Quebec apply as if the tax imposed under a band law were imposed under a particular law of Quebec, all Acts of Parliament, other than this Act, apply as if the tax imposed under the band law were imposed under that particular law of Quebec.
-> 2005, c. 19, s. 10.
+**21** If a law of a specified province provides that one or more laws of the specified province apply as if the tax imposed under a band law were imposed under a particular law of the specified province, all Acts of Parliament, other than this Act, apply as if the tax imposed under the band law were imposed under that particular law of the specified province.
+> 2005, c. 19, s. 10; 2006, c. 4, s. 93.
 
 
 
@@ -519,8 +524,8 @@ where
 
 **Authority to enter into agreement**
 
-**22** A council of the band may, on behalf of the band, enter into an administration agreement with the Government of Quebec in respect of a band law enacted by that council.
-> 2005, c. 19, s. 10.
+**22** A council of the band may, on behalf of the band, enter into an administration agreement with the government of the specified province listed opposite the name of that council in Schedule 2 in respect of a band law enacted by that council.
+> 2005, c. 19, s. 10; 2006, c. 4, s. 93.
 
 
 
@@ -534,19 +539,20 @@ where
 
 **23** 
 
-- **(1)** A council of the band that is listed in Schedule 2 may enact a law that imposes, within the reserves of the band in Quebec, a direct sales tax and any other amount that may be required to be paid in relation to the imposition of that direct sales tax.
+- **(1)** A council of the band that is listed in Schedule 2 may enact a law that imposes a direct sales tax, and any other amount that may be required to be paid in relation to the imposition of that direct sales tax, within its reserves that are situated in the specified province listed opposite the name of that council in that Schedule and that are listed in that Schedule opposite the name of the council.
 
-**Parallel Quebec law**
+**Parallel provincial law**
 
-- **(2)** A law may not be enacted under subsection (1) unless the law has only one parallel Quebec law that is expressly identified in that law.
+- **(2)** A law may not be enacted under subsection (1) unless the law has only one parallel provincial law that is expressly identified in that law.
 
 **Force of law**
 
 - **(3)** A law enacted under subsection (1) does not have the force of law unless
-	- **(a)** an administration agreement between the council of the band and the Government of Quebec in respect of the law is in effect;
-	- **(b)** the law is administered and enforced, and the direct sales tax imposed under that law is collected, in accordance with that administration agreement;
-	- **(c)** the band, the council of the band and the band’s reserves in Quebec are listed in Schedule 2; and
-	- **(d)** its parallel Quebec law is in force.
+	- **(a)** an administration agreement in respect of the law is in effect;
+	- **(b)** that administration agreement is between the council of the band and the government of the specified province listed opposite the name of that council in Schedule 2;
+	- **(c)** the law is administered and enforced, and the direct sales tax imposed under that law is collected, in accordance with that administration agreement;
+	- **(d)** the name of the band, the name of the council of the band, the name, or description, of the reserves of the band within which the law applies and the name of the specified province in which the reserves are situated are listed opposite one another in Schedule 2; and
+	- **(e)** its parallel provincial law is in force.
 
 **Conformity with [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
@@ -555,7 +561,7 @@ where
 **Criminal law exclusion**
 
 - **(5)** Nothing in this Part shall be construed as conferring on a council of the band the power to make an enactment in respect of criminal law.
-> 2005, c. 19, s. 10.
+> 2005, c. 19, s. 10; 2006, c. 4, s. 94.
 
 
 
@@ -563,8 +569,8 @@ where
 
 **Coming into force — law under section 23**
 
-**24** Subject to subsection 23(3), a band law comes into force on the date specified in an administration agreement with the Government of Quebec in respect of that law.
-> 2005, c. 19, s. 10.
+**24** Subject to subsection 23(3), a band law comes into force on the date specified in the administration agreement entered into under section 22 in respect of that law.
+> 2005, c. 19, s. 10; 2006, c. 4, s. 95.
 
 
 
@@ -612,8 +618,8 @@ where
 
 **Amendment of Schedule 2**
 
-**29** The Governor in Council may, by order, amend Schedule 2 by adding, deleting or varying the name of a band, a council of the band or the description of a band’s reserves in Quebec.
-> 2005, c. 19, s. 10.
+**29** The Governor in Council may, by order, amend Schedule 2 by adding, deleting or varying the name of a band, the name of a council of the band, the name, or description, of a band’s reserves or the name of a specified province.
+> 2005, c. 19, s. 10; 2006, c. 4, s. 96.
 
 
 
@@ -905,26 +911,29 @@ where
 
 
 ### **SCHEDULE 2** 
-**(Sections 17, 23 and 29)**
+**(Sections 17, 22, 23 and 29)**
 <table>
-<h4>List of Names of Bands, Their Councils and Their Reserves in Quebec</h4>
+<h4>List of Bands, Councils, Reserves and Specified Provinces</h4>
 <tr>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
+<th>Column 4</th>
 </tr>
 <tr>
 <th>Band</th>
 <th>Council of the Band</th>
-<th>Reserves in Quebec</th>
+<th>Reserves</th>
+<th>Specified Province</th>
 </tr>
 <tr>
 <td>Montagnais Essipit</td>
 <td>Conseil des Montagnais Essipit</td>
 <td>Reserve of Montagnais Essipit</td>
+<td>Quebec</td>
 </tr>
 </table>
 
-> 2005, c. 19, s. 12.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97.
 
 
