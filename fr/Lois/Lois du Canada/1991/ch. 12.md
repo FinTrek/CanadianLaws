@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1991/c.%2012.md)
 
-# Loi sur l'Accord portant création de la Banque européenne pour la reconstruction et le développement
+# Loi sur l’Accord portant création de la Banque européenne pour la reconstruction et le développement
 
 **L.C. 1991, ch. 12**
 
@@ -11,7 +11,7 @@ Sanctionnée sur le 1 février 1991
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -64,6 +64,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Modification de l’annexe**
+
+**4.1** Le gouverneur en conseil peut, par décret, modifier l’annexe pour tenir compte des amendements à l’Accord.
+> 2006, ch. 4, art. 214.
+
+
+
+
+
 **Dépositaire**
 
 **5** La Banque du Canada agit à titre de dépositaire, au Canada, des biens de la Banque.
@@ -110,56 +119,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE** 
-**(*article 2*)**
-
-### Accord portant création de la Banque européenne pour la reconstruction et le développement
-
-
+**(article 2)**
+## Accord portant création de la Banque européenne pour la reconstruction et le développement
 Les parties contractantes,
-
-
 
 Attachées aux principes fondamentaux de la démocratie pluraliste, de l’état de droit, du respect des droits de l’homme, et de l’économie de marché;
 
-
-
 Rappelant l’Acte final de la Conférence d’Helsinki sur la sécurité et la coopération en Europe, et en particulier la Déclaration sur les principes;
-
-
 
 Se félicitant de l’intention des pays d’Europe centrale et orientale de promouvoir la mise en pratique de la démocratie pluraliste, en renforçant leurs institutions démocratiques, l’état de droit et le respect des droits de l’homme, ainsi que leur volonté de procéder aux réformes propres à favoriser la transition vers des économies de marché;
 
-
-
 Considérant l’importance d’une coopération étroite et coordonnée pour promouvoir l’essor économique des pays d’Europe centrale et orientale, aider leurs économies à devenir plus compétitives au plan international, les assister dans leur reconstruction et leur développement et réduire ainsi, le cas échéant, les risques associés au financement de leurs économies;
-
-
 
 Convaincues que l’établissement d’une institution financière multilatérale, européenne dans son essence et largement internationale par sa composition, aiderait à servir ces objectifs et constituerait en Europe une structure nouvelle et unique de coopération;
 
-
-
-Sont convenues d’instituer la Banque européenne pour la reconstruction et le développement (B.E.R.D.) (dénommée ci-après la « Banque »), qui fonctionnera conformément aux dispositions suivantes :
-
+Sont convenues d’instituer la Banque européenne pour la reconstruction et le développement (B.E.R.D.) (dénommée ci-après la « Banque »), qui fonctionnera conformément aux dispositions suivantes :
 
 
 **CHAPITRE 1** 
 ### Objet, fonctions, membres
 
 
-**ARTICLE 1** 
+**Article 1** 
 ### Objet
 
 
-L’objet de la Banque est, en contribuant au progrès et à la reconstruction économiques des pays d’Europe centrale et orientale qui s’engagent à respecter et mettent en pratique les principes de la démocratie pluraliste, du pluralisme et de l’économie de marché, de favoriser la transition de leurs économies vers des économies de marché, et d’y promouvoir l’initiative privée et l’esprit d’entreprise.
+L’objet de la Banque est, en contribuant au progrès et à la reconstruction économiques des pays d’Europe centrale et orientale qui s’engagent à respecter et mettent en pratique les principes de la démocratie pluraliste, du pluralisme et de l’économie de marché, de favoriser la transition de leurs économies vers des économies de marché, et d’y promouvoir l’initiative privée et l’esprit d’entreprise. L’objet de la Banque peut également être mis en oeuvre en Mongolie sous les mêmes conditions. En conséquence, toute référence dans le présent Accord et dans ses annexes aux « pays d’Europe centrale et orientale », à un ou plusieurs « pays bénéficiaires » ou aux « pays membres bénéficiaires » s’applique également à la Mongolie.
 
 
 
-**ARTICLE 2** 
+**Article 2** 
 ### Fonctions
 
 
-**1** Pour remplir à long terme ses objectifs qui consistent à favoriser la transition des économies des pays d’Europe centrale et orientale vers une économie de marché et à y encourager l’initiative privée et l’esprit d’entreprise, la Banque aide les pays membres bénéficiaires à mettre en oeuvre des réformes économiques structurelles et sectorielles, y compris celles visant au démantèlement des monopoles, à la décentralisation et à la privatisation, propres à aider leurs économies à devenir pleinement intégrées à l’économie internationale; pour ce faire, la Banque prend des mesures destinées à :
+**1** Pour remplir à long terme ses objectifs qui consistent à favoriser la transition des économies des pays d’Europe centrale et orientale vers une économie de marché et à y encourager l’initiative privée et l’esprit d’entreprise, la Banque aide les pays membres bénéficiaires à mettre en oeuvre des réformes économiques structurelles et sectorielles, y compris celles visant au démantèlement des monopoles, à la décentralisation et à la privatisation, propres à aider leurs économies à devenir pleinement intégrées à l’économie internationale; pour ce faire, la Banque prend des mesures destinées à :
 
 **(i)** promouvoir, par l’intermédiaire d’investisseurs privés et d’autres investisseurs intéressés, l’établissement, l’amélioration et le développement des activités du secteur productif, concurrentiel et privé, et en particulier des petites et moyennes entreprises;
 
@@ -169,7 +162,7 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**(iii)** favoriser l’investissement productif, y compris dans le secteur des services et dans le secteur financier ainsi que dans les infrastructures lorsque cela est nécessaire pour soutenir l’initiative privée et l’esprit d’entreprise, aidant ainsi  à la mise en place d’un environnement concurrentiel, à l’amélioration de la productivité, du niveau de vie et des conditions de travail;
+**(iii)** favoriser l’investissement productif, y compris dans le secteur des services et dans le secteur financier ainsi que dans les infrastructures lorsque cela est nécessaire pour soutenir l’initiative privée et l’esprit d’entreprise, aidant ainsi à la mise en place d’un environnement concurrentiel, à l’amélioration de la productivité, du niveau de vie et des conditions de travail;
 
 
 
@@ -199,11 +192,11 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**ARTICLE 3** 
+**Article 3** 
 ### Membres
 
 
-**1** La qualité de membre peut être accordée :
+**1** La qualité de membre peut être accordée :
 
 **(i) 1)** aux pays européens et 2) aux pays non-européens qui sont membres du Fonds Monétaire International; et
 
@@ -223,11 +216,11 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 ### Capital
 
 
-**ARTICLE 4** 
+**Article 4** 
 ### Capital social autorisé
 
 
-**1** Le capital social autorisé initial est de dix (10) milliards d’écus. Il se divise en un million (1 000 000) d’actions d’une valeur au pair de dix mille (10 000) écus chacune, ces actions ne pouvant être souscrites que par les membres et conformément aux dispositions de l’article 5 du présent Accord.
+**1** Le capital social autorisé initial est de dix (10) milliards d’écus. Il se divise en un million (1 000 000) d’actions d’une valeur au pair de dix mille (10 000) écus chacune, ces actions ne pouvant être souscrites que par les membres et conformément aux dispositions de l’article 5 du présent Accord.
 
 
 
@@ -239,7 +232,7 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**ARTICLE 5** 
+**Article 5** 
 ### Souscription des actions
 
 
@@ -271,7 +264,7 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**ARTICLE 6** 
+**Article 6** 
 ### Paiement des souscriptions
 
 
@@ -287,7 +280,7 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**4** Les montants souscrits en actions du capital social de la Banque sujettes à  appel font l’objet d’un  appel, conformément aux articles 17 et 42 du présent Accord, seulement aux dates et conditions fixées par la Banque pour faire face à ses engagements.
+**4** Les montants souscrits en actions du capital social de la Banque sujettes à appel font l’objet d’un appel, conformément aux articles 17 et 42 du présent Accord, seulement aux dates et conditions fixées par la Banque pour faire face à ses engagements.
 
 
 
@@ -307,11 +300,11 @@ L’objet de la Banque est, en contribuant au progrès et à la reconstruction �
 
 
 
-**ARTICLE 7** 
+**Article 7** 
 ### Ressources ordinaires en capital
 
 
-Aux fins du présent Accord, le terme « ressources ordinaires en capital » de la Banque inclut :
+Aux fins du présent Accord, le terme « ressources ordinaires en capital » de la Banque inclut :
 
 **(i)** le capital social autorisé de la Banque, souscrit en application de l’article 5 du présent Accord, et composé d’actions à libérer et d’actions sujettes à appel;
 
@@ -339,7 +332,7 @@ Aux fins du présent Accord, le terme « ressources ordinaires en capital » d
 ### Opérations
 
 
-**ARTICLE 8** 
+**Article 8** 
 ### Pays bénéficiaires et emploi des ressources
 
 
@@ -361,9 +354,7 @@ Aux fins du présent Accord, le terme « ressources ordinaires en capital » d
 
 
 
-**(ii)** Au cours de cette période :
-
-
+**(ii)** Au cours de cette période :
 
 **a)** la Banque fournit audit pays et aux entreprises situées sur son territoire, à leur demande, une assistance technique et tout autre type d’assistance visant à financer son secteur privé, à faciliter le passage d’entreprises d’État à la propriété et au contrôle privés et à aider les entreprises fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché, et ce dans la proportion visée au paragraphe 3 de l’article 11 du présent Accord;
 
@@ -373,13 +364,15 @@ Aux fins du présent Accord, le terme « ressources ordinaires en capital » d
 
 
 
+
+
 **(iii)** À la fin de cette période, la décision de permettre l’accès aux ressources audit pays au-delà des limites indiquées aux alinéas a) et b) est prise par le Conseil des gouverneurs à la majorité d’au moins trois quarts des gouverneurs, représentant au moins quatre-vingt-cinq (85) pour cent du nombre total des voix attribuées des membres.
 
 
 
 
 
-**ARTICLE 9** 
+**Article 9** 
 ### Opérations ordinaires et spéciales
 
 
@@ -387,7 +380,7 @@ Les opérations de la Banque comprennent les opérations ordinaires financées s
 
 
 
-**ARTICLE 10** 
+**Article 10** 
 ### Séparation des opérations
 
 
@@ -403,17 +396,19 @@ Les opérations de la Banque comprennent les opérations ordinaires financées s
 
 
 
-**ARTICLE 11** 
+**Article 11** 
 ### Méthodes de fonctionnement
 
 
-**1** Dans la poursuite de ses objectifs et l’exercice de sa mission tels qu’ils sont définis aux articles 1 et 2 du présent Accord, la Banque effectue ses opérations de l’une quelconque ou de toutes les manières suivantes :
+**1** Dans la poursuite de ses objectifs et l’exercice de sa mission tels qu’ils sont définis aux articles 1 et 2 du présent Accord, la Banque effectue ses opérations de l’une quelconque ou de toutes les manières suivantes :
 
 **(i)** Soit en accordant des prêts en faveur d’entreprises du secteur privé, de toute entreprise d’État fonctionnant de manière concurrentielle et se préparant à opérer selon les règles de l’économie de marché ou de toute entreprise d’État en vue de favoriser sa transition vers la propriété et le contrôle privés, soit en confinançant de tels prêts avec des institutions multilatérales, des banques commerciales ou d’autres sources de financement intéressées, soit en participant à de tels prêts, le but étant notamment de renforcer ou de faciliter la participation des capitaux privés et ou étrangers dans ces entreprises;
 
 
 
-**(ii)** a) en prenant des participations dans des entreprises du secteur privé;
+**(ii)** 
+
+**a)** en prenant des participations dans des entreprises du secteur privé;
 
 
 
@@ -422,6 +417,8 @@ Les opérations de la Banque comprennent les opérations ordinaires financées s
 
 
 **c)** en garantissant, lorsque d’autres moyens de financement ne sont pas adéquats, l’émission de titres par des entreprises du secteur privé et des entreprises d’État telles que celles visées à l’alinéa b) ci-dessus aux fins mentionnées dans cet alinéa;
+
+
 
 
 
@@ -437,9 +434,9 @@ Les opérations de la Banque comprennent les opérations ordinaires financées s
 
 
 
-
-
 Aux fins du présent paragraphe, une entreprise d’État n’est pas considérée comme fonctionnant de manière concurrentielle si elle n’est pas gérée de façon autonome dans un environnement de marché concurrentiel et si elle n’est pas soumise aux lois régissant la faillite.
+
+
 
 
 
@@ -467,8 +464,6 @@ Aux fins du présent paragraphe, une entreprise d’État n’est pas considér�
 
 **(iii)** Aux fins du présent paragraphe,
 
-
-
 **a)** le secteur d’État comprend les gouvernements nationaux, les administrations locales, les organismes et les entreprises qu’ils possèdent ou contrôlent;
 
 
@@ -483,7 +478,9 @@ Aux fins du présent paragraphe, une entreprise d’État n’est pas considér�
 
 
 
-**ARTICLE 12** 
+
+
+**Article 12** 
 ### Limitation des opérations ordinaires
 
 
@@ -503,11 +500,11 @@ Aux fins du présent paragraphe, une entreprise d’État n’est pas considér�
 
 
 
-**ARTICLE 13** 
+**Article 13** 
 ### Principes et opérations
 
 
-Les opérations de la Banque sont menées selon les principes suivants :
+Les opérations de la Banque sont menées selon les principes suivants :
 
 **(i)** la Banque applique les principes d’une saine gestion bancaire dans toutes ses opérations;
 
@@ -563,7 +560,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 14** 
+**Article 14** 
 ### Conditions et modalités d’octroi des prêts et des garanties
 
 
@@ -579,7 +576,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 15** 
+**Article 15** 
 ### Commission et redevances
 
 
@@ -595,7 +592,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 16** 
+**Article 16** 
 ### Réserve spéciale
 
 
@@ -607,7 +604,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 17** 
+**Article 17** 
 ### Méthodes permettant à la Banque de faire face à ses pertes
 
 
@@ -615,7 +612,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**2** Les pertes intervenant au titre des opérations ordinaires de la Banque sont imputées :
+**2** Les pertes intervenant au titre des opérations ordinaires de la Banque sont imputées :
 
 **(i)** en premier lieu, sur les provisions visées au paragraphe 1 du présent article;
 
@@ -643,7 +640,7 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 18** 
+**Article 18** 
 ### Fonds Spéciaux
 
 
@@ -659,11 +656,11 @@ Les opérations de la Banque sont menées selon les principes suivants :
 
 
 
-**ARTICLE 19** 
+**Article 19** 
 ### Ressources des Fonds Spéciaux
 
 
-L’expression « ressources des Fonds Spéciaux » désigne les ressources de tout fonds spécial et comprend :
+L’expression « ressources des Fonds Spéciaux » désigne les ressources de tout fonds spécial et comprend :
 
 **(i)** les fonds acceptés par la Banque en vue de leur affectation à un Fonds Spécial;
 
@@ -683,21 +680,21 @@ L’expression « ressources des Fonds Spéciaux » désigne les ressources de
 ### Pouvoir d’emprunt et autres pouvoirs
 
 
-**ARTICLE 20** 
+**Article 20** 
 ### Pouvoirs généraux
 
 
-**1** Outre les pouvoirs qui lui sont conférés par d’autres dispositions du présent Accord, la Banque est habilitée à :
+**1** Outre les pouvoirs qui lui sont conférés par d’autres dispositions du présent Accord, la Banque est habilitée à :
 
-**(i)** emprunter des fonds dans les pays membres ou ailleurs, à condition que :
-
-
+**(i)** emprunter des fonds dans les pays membres ou ailleurs, à condition que :
 
 **a)** avant de mettre ses obligations en vente sur le territoire d’un pays, elle ait obtenu l’assentiment dudit pays; et
 
 
 
 **b)** lorsque ses obligations doivent être libellées dans la monnaie d’un membre, elle ait obtenu l’assentiment de celui-ci;
+
+
 
 
 
@@ -739,7 +736,7 @@ L’expression « ressources des Fonds Spéciaux » désigne les ressources de
 ### Monnaies
 
 
-**ARTICLE 21** 
+**Article 21** 
 ### Détermination et utilisation des monnaies
 
 
@@ -747,7 +744,7 @@ L’expression « ressources des Fonds Spéciaux » désigne les ressources de
 
 
 
-**2** Les membres n’imposent aucune restriction à la Banque en ce qui concerne la réception, la détention, l’utilisation ou le transfert :
+**2** Les membres n’imposent aucune restriction à la Banque en ce qui concerne la réception, la détention, l’utilisation ou le transfert :
 
 **(i)** des monnaies ou des écus que la Banque reçoit en paiement des souscriptions au capital social, conformément aux dispositions de l’article 6 du présent Accord;
 
@@ -771,7 +768,7 @@ L’expression « ressources des Fonds Spéciaux » désigne les ressources de
 ### Organisation et gestion
 
 
-**ARTICLE 22** 
+**Article 22** 
 ### Structure
 
 
@@ -779,8 +776,8 @@ La Banque est dotée d’un Conseil des gouverneurs, d’un Conseil d’administ
 
 
 
-**ARTICLE 23** 
-### Conseil des gouverneurs : composition
+**Article 23** 
+### Conseil des gouverneurs : composition
 
 
 **1** Chaque membre est représenté au Conseil des gouverneurs et nomme un gouverneur et un suppléant. Chaque gouverneur et chaque suppléant est révocable à tout moment au gré du membre qui l’a nommé. Aucun suppléant n’est admis à voter si ce n’est en l’absence du titulaire. Lors de chaque assemblée annuelle, le Conseil choisit pour président l’un des gouverneurs, qui exercera ses fonctions jusqu’à l’élection du président à l’assemblée annuelle suivante.
@@ -791,15 +788,15 @@ La Banque est dotée d’un Conseil des gouverneurs, d’un Conseil d’administ
 
 
 
-**ARTICLE 24** 
-### Conseil des gouverneurs : pouvoirs
+**Article 24** 
+### Conseil des gouverneurs : pouvoirs
 
 
 **1** Tous les pouvoirs de la Banque sont dévolus au Conseil des gouverneurs.
 
 
 
-**2** Le Conseil des gouverneurs peut déléguer au Conseil d’administration tout ou partie de ses pouvoirs à l’exception du pouvoir :
+**2** Le Conseil des gouverneurs peut déléguer au Conseil d’administration tout ou partie de ses pouvoirs à l’exception du pouvoir :
 
 **(i)** d’admettre de nouveaux membres et de fixer les conditions de leur admission;
 
@@ -855,8 +852,8 @@ La Banque est dotée d’un Conseil des gouverneurs, d’un Conseil d’administ
 
 
 
-**ARTICLE 25** 
-### Conseil des gouverneurs : procédure
+**Article 25** 
+### Conseil des gouverneurs : procédure
 
 
 **1** Le Conseil des gouverneurs tient une assemblée annuelle et se réunit en outre à sa propre initiative ou sur convocation du Conseil d’administration. Une réunion du Conseil des gouverneurs est convoquée par le Conseil d’administration lorsque cinq (5) membres au moins de la Banque, ou des membres détenant au moins un quart du nombre total des voix attribuées aux membres en font la demande.
@@ -875,19 +872,17 @@ La Banque est dotée d’un Conseil des gouverneurs, d’un Conseil d’administ
 
 
 
-**ARTICLE 26** 
-### Conseil d’administration : composition
+**Article 26** 
+### Conseil d’administration : composition
 
 
-**1** Le Conseil d’administration est composé de vingt-trois (23) membres qui ne font pas partie du Conseil des gouverneurs et dont :
+**1** Le Conseil d’administration est composé de vingt-trois (23) membres qui ne font pas partie du Conseil des gouverneurs et dont :
 
 **(i)** Onze (11) sont élus par les gouverneurs représentant la République Fédérale d’Allemagne, la Belgique, le Danemark, l’Espagne, la France, la Grèce, l’Irlande, l’Italie, le Luxembourg, les Pays-Bas, le Portugal, le Royaume-Uni, la Communauté économique européenne et la Banque européenne d’investissement; et
 
 
 
-**(ii)** Douze (12) sont élus par les gouverneurs représentant d’autres membres, et dont :
-
-
+**(ii)** Douze (12) sont élus par les gouverneurs représentant d’autres membres, et dont :
 
 **a)** quatre (4) sont élus par les gouverneurs représentant les pays énumérés à l’annexe A dans la catégorie pays d’Europe centrale et orientale et qui peuvent bénéficier de l’assistance de la Banque;
 
@@ -907,6 +902,8 @@ Les administrateurs représentent les membres par les gouverneurs desquels ils o
 
 
 
+
+
 **2** Les administrateurs sont des personnes de haute compétence en matière économique et financière; ils sont élus suivant la procédure définie à l’annexe B.
 
 
@@ -919,15 +916,15 @@ Les administrateurs représentent les membres par les gouverneurs desquels ils o
 
 
 
-**5** Les administrateurs sont élus pour trois (3) ans et sont rééligibles, étant entendu que le premier Conseil d’administration est élu par le Conseil des gouverneurs lors de sa séance inaugurale et reste en fonction jusqu’à l’assemblée annuelle du Conseil des gouverneurs qui la suit immédiatement ou, si ce dernier en décide ainsi lors de cette assemblée annuelle, jusqu’à l’assemblée annuelle suivante. Ils restent en fonction jusqu’à la désignation et la prise de fonction de leurs successeurs. Si le poste d’un administrateur devient vacant plus de cent quatre-vingts (180) jours avant l’expiration de son mandat, il sera pourvu, conformément aux dispositions de l’annexe B, par un nouvel administrateur choisi, par les gouverneurs qui avaient désigné l’ancien administrateur; ce nouvel administrateur demeurera en fonction pour la durée dudit mandat restant à courir. Cette élection doit être faite à la majorité des voix exprimées par les gouverneurs concernés. Si le poste d’un administrateur devient vacant cent quatre-vingts (180) jours ou  moins avant l’expiration de son mandat, un successeur peut de la même manière être choisi pour la durée dudit mandat restant à courir par un vote des gouverneurs qui ont élu l’ancien administrateur; l’élection doit se faire à la majorité des voix exprimées par ces gouverneurs. Pendant la vacance du poste, le suppléant de l’ancien administrateur exerce les pouvoirs de ce dernier, sauf celui de nommer un suppléant.
+**5** Les administrateurs sont élus pour trois (3) ans et sont rééligibles, étant entendu que le premier Conseil d’administration est élu par le Conseil des gouverneurs lors de sa séance inaugurale et reste en fonction jusqu’à l’assemblée annuelle du Conseil des gouverneurs qui la suit immédiatement ou, si ce dernier en décide ainsi lors de cette assemblée annuelle, jusqu’à l’assemblée annuelle suivante. Ils restent en fonction jusqu’à la désignation et la prise de fonction de leurs successeurs. Si le poste d’un administrateur devient vacant plus de cent quatre-vingts (180) jours avant l’expiration de son mandat, il sera pourvu, conformément aux dispositions de l’annexe B, par un nouvel administrateur choisi, par les gouverneurs qui avaient désigné l’ancien administrateur; ce nouvel administrateur demeurera en fonction pour la durée dudit mandat restant à courir. Cette élection doit être faite à la majorité des voix exprimées par les gouverneurs concernés. Si le poste d’un administrateur devient vacant cent quatre-vingts (180) jours ou moins avant l’expiration de son mandat, un successeur peut de la même manière être choisi pour la durée dudit mandat restant à courir par un vote des gouverneurs qui ont élu l’ancien administrateur; l’élection doit se faire à la majorité des voix exprimées par ces gouverneurs. Pendant la vacance du poste, le suppléant de l’ancien administrateur exerce les pouvoirs de ce dernier, sauf celui de nommer un suppléant.
 
 
 
-**ARTICLE 27** 
-### Conseil d’administration : pouvoirs
+**Article 27** 
+### Conseil d’administration : pouvoirs
 
 
-Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au Conseil des gouverneurs, le Conseil d’administration assure la direction des opérations générales de la Banque; à cette fin, il exerce, outre les compétences qui lui sont expressément attribuées par le présent Accord, tous les pouvoirs qui lui sont délégués par le Conseil des gouverneurs, et en particulier :
+Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au Conseil des gouverneurs, le Conseil d’administration assure la direction des opérations générales de la Banque; à cette fin, il exerce, outre les compétences qui lui sont expressément attribuées par le présent Accord, tous les pouvoirs qui lui sont délégués par le Conseil des gouverneurs, et en particulier :
 
 **(i)** il prépare le travail du Conseil des gouverneurs;
 
@@ -947,8 +944,8 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 28** 
-### Conseil d’administration : procédure
+**Article 28** 
+### Conseil d’administration : procédure
 
 
 **1** Le Conseil d’administration exerce normalement ses fonctions au siège de la Banque et se réunit aussi souvent que les affaires de la Banque l’exigent.
@@ -963,7 +960,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 29** 
+**Article 29** 
 ### Vote
 
 
@@ -979,7 +976,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 30** 
+**Article 30** 
 ### Président
 
 
@@ -1007,7 +1004,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 31** 
+**Article 31** 
 ### Vice-Président(s)
 
 
@@ -1019,7 +1016,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 32** 
+**Article 32** 
 ### Caractère international de la Banque
 
 
@@ -1035,7 +1032,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 33** 
+**Article 33** 
 ### Siège
 
 
@@ -1047,7 +1044,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 34** 
+**Article 34** 
 ### Dépositaires et moyens de communication
 
 
@@ -1059,7 +1056,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 35** 
+**Article 35** 
 ### Publication de rapports et communication d’informations
 
 
@@ -1075,7 +1072,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 36** 
+**Article 36** 
 ### Affectation et répartition du revenu net
 
 
@@ -1092,10 +1089,10 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 **CHAPITRE VII** 
-### Retrait et suspension d’un membre : arrêt temporaire et arrêt définitif des opérations
+### Retrait et suspension d’un membre : arrêt temporaire et arrêt définitif des opérations
 
 
-**ARTICLE 37** 
+**Article 37** 
 ### Droit de retrait des membres
 
 
@@ -1107,7 +1104,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 38** 
+**Article 38** 
 ### Suspension d’un membre
 
 
@@ -1119,7 +1116,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 39** 
+**Article 39** 
 ### Apurement des comptes des anciens membres de la Banque
 
 
@@ -1131,7 +1128,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**3** Le paiement des parts rachetées par la Banque conformément au présent article est régi par les conditions suivantes :
+**3** Le paiement des parts rachetées par la Banque conformément au présent article est régi par les conditions suivantes :
 
 **(i)** tout montant dû au membre au titre de ses actions est retenu par la Banque aussi longtemps que ce membre, sa Banque centrale, l’un de ses organismes ou l’une de ses émanations, reste redevable vis-à-vis de la Banque en tant qu’emprunteur ou garant; ce montant peut, au gré de la Banque, être affecté à la liquidation de ces engagements lorsque ceux-ci arrivent à échéance. Aucun montant n’est retenu à raison des engagements de l’ancien membre résultant de sa souscription aux actions de la Banque conformément aux paragraphes 4, 5 et 7 et de l’article 6 du présent Accord. En tout état de cause, aucun montant dû à un ancien membre au titre de ses actions ne sera versé avant l’expiration d’un délai de six (6) mois à compter de la date à laquelle il cesse d’être membre;
 
@@ -1155,7 +1152,7 @@ Sans préjudice des pouvoirs que l’article 24 du présent Accord confère au C
 
 
 
-**ARTICLE 40** 
+**Article 40** 
 ### Arrêt temporaire des opérations
 
 
@@ -1163,7 +1160,7 @@ En cas d’urgence, le Conseil d’administration peut suspendre temporairement 
 
 
 
-**ARTICLE 41** 
+**Article 41** 
 ### Arrêt définitif des opérations
 
 
@@ -1171,7 +1168,7 @@ La Banque peut mettre fin à ses opérations par décision expresse des deux tie
 
 
 
-**ARTICLE 42** 
+**Article 42** 
 ### Responsabilité des membres et liquidation des créances
 
 
@@ -1183,11 +1180,11 @@ La Banque peut mettre fin à ses opérations par décision expresse des deux tie
 
 
 
-**ARTICLE 43** 
+**Article 43** 
 ### Distribution des avoirs
 
 
-**1** Dans le cadre du présent chapitre, aucune distribution des avoirs n’est faite au profit des membres en raison de leurs souscriptions au capital social de la Banque avant :
+**1** Dans le cadre du présent chapitre, aucune distribution des avoirs n’est faite au profit des membres en raison de leurs souscriptions au capital social de la Banque avant :
 
 **(i)** que toutes les obligations envers les créanciers aient été liquidées ou aient fait l’objet de mesures appropriées; et
 
@@ -1211,7 +1208,7 @@ La Banque peut mettre fin à ses opérations par décision expresse des deux tie
 ### Statut, immunités, privilèges et exemptions
 
 
-**ARTICLE 44** 
+**Article 44** 
 ### Objet du présent chapitre
 
 
@@ -1219,11 +1216,11 @@ Pour pouvoir atteindre son but et exercer les fonctions qui lui sont confiées, 
 
 
 
-**ARTICLE 45** 
+**Article 45** 
 ### Statut de la Banque
 
 
-La Banque possède la pleine personnalité juridique et, en particulier, la pleine capacité juridique :
+La Banque possède la pleine personnalité juridique et, en particulier, la pleine capacité juridique :
 
 **(i)** de conclure des contrats;
 
@@ -1239,7 +1236,7 @@ La Banque possède la pleine personnalité juridique et, en particulier, la plei
 
 
 
-**ARTICLE 46** 
+**Article 46** 
 ### Situation de la banque au regard d’actions en justice
 
 
@@ -1247,7 +1244,7 @@ Il ne peut être intenté d’action en justice contre la Banque que devant un t
 
 
 
-**ARTICLE 47** 
+**Article 47** 
 ### Insaisissabilité des avoirs
 
 
@@ -1255,7 +1252,7 @@ Les biens et avoirs de la Banque, où qu’ils se trouvent et quel qu’en soit 
 
 
 
-**ARTICLE 48** 
+**Article 48** 
 ### Inviolabilité des archives
 
 
@@ -1263,7 +1260,7 @@ Les archives de la Banque et, d’une manière générale, tous les documents qu
 
 
 
-**ARTICLE 49** 
+**Article 49** 
 ### Exemptions relatives aux avoirs
 
 
@@ -1271,7 +1268,7 @@ Dans la mesure nécessaire pour que la Banque atteigne son but et s’acquitte d
 
 
 
-**ARTICLE 50** 
+**Article 50** 
 ### Privilèges en matière de communications
 
 
@@ -1279,7 +1276,7 @@ Chaque membre applique aux communications officielles de la Banque le régime qu
 
 
 
-**ARTICLE 51** 
+**Article 51** 
 ### Immunités des fonctionnaires et agents
 
 
@@ -1287,11 +1284,11 @@ Tous les gouverneurs, administrateurs, suppléants, fonctionnaires et employés 
 
 
 
-**ARTICLE 52** 
+**Article 52** 
 ### Privilèges des fonctionnaires et employés
 
 
-**1** Les gouverneurs, administrateurs, suppléants, fonctionnaires et employés de la Banque ainsi que les experts de la Banque effectuant des missions pour son compte :
+**1** Les gouverneurs, administrateurs, suppléants, fonctionnaires et employés de la Banque ainsi que les experts de la Banque effectuant des missions pour son compte :
 
 **(i)** quand ils ne sont pas des ressortissants du pays où ils exercent leurs fonctions, bénéficient des mêmes immunités relatives aux dispositions limitant l’immigration, aux formalités d’enregistrement des étrangers et aux obligations de service national ou militaire, et des mêmes facilités en matière de réglementation des changes, que celles qui sont accordées par les membres aux représentants, fonctionnaires et employés de rang analogue des autres membres; et
 
@@ -1307,7 +1304,7 @@ Tous les gouverneurs, administrateurs, suppléants, fonctionnaires et employés 
 
 
 
-**ARTICLE 53** 
+**Article 53** 
 ### Immunités fiscales
 
 
@@ -1343,7 +1340,7 @@ Tous les gouverneurs, administrateurs, suppléants, fonctionnaires et employés 
 
 
 
-**9** Aucun impôt de quelque nature que ce soit n’est perçu sur les obligations ou valeurs émises par la Banque ni sur les dividendes et intérêts correspondants, quel que soit le détenteur de ces titres :
+**9** Aucun impôt de quelque nature que ce soit n’est perçu sur les obligations ou valeurs émises par la Banque ni sur les dividendes et intérêts correspondants, quel que soit le détenteur de ces titres :
 
 **(i)** si cet impôt constitue une mesure de discrimination contre une telle valeur ou obligation du seul fait qu’elle est émise par la Banque; ou
 
@@ -1355,7 +1352,7 @@ Tous les gouverneurs, administrateurs, suppléants, fonctionnaires et employés 
 
 
 
-**10** Aucun impôt n’est perçu sur une obligation ou valeur garantie par la Banque, ni sur les dividendes et intérêts correspondants, quel que soit le détenteur de ces titres :
+**10** Aucun impôt n’est perçu sur une obligation ou valeur garantie par la Banque, ni sur les dividendes et intérêts correspondants, quel que soit le détenteur de ces titres :
 
 **(i)** si cet impôt constitue une mesure de discrimination contre une telle valeur ou obligation du seul fait qu’elle est garantie par la Banque; ou
 
@@ -1367,7 +1364,7 @@ Tous les gouverneurs, administrateurs, suppléants, fonctionnaires et employés 
 
 
 
-**ARTICLE 54** 
+**Article 54** 
 ### Mise en oeuvre du présent chapitre
 
 
@@ -1375,7 +1372,7 @@ Chaque membre prend sans délai toutes les mesures nécessaires pour mettre en o
 
 
 
-**ARTICLE 55** 
+**Article 55** 
 ### Levée des immunités, privilèges et exemptions
 
 
@@ -1387,7 +1384,7 @@ Les immunités, privilèges et exemptions conférés par le présent chapitre so
 ### Amendements, interprétation, arbitrage
 
 
-**ARTICLE 56** 
+**Article 56** 
 ### Amendements
 
 
@@ -1395,11 +1392,9 @@ Les immunités, privilèges et exemptions conférés par le présent chapitre so
 
 
 
-**2** Nonobstant les dispositions du paragraphe 1 ci-dessus :
+**2** Nonobstant les dispositions du paragraphe 1 ci-dessus :
 
-**(i)** l’acceptation par tous les membres est requise dans le cas de tout amendement modifiant :
-
-
+**(i)** l’acceptation par tous les membres est requise dans le cas de tout amendement modifiant :
 
 **a)** le droit de se retirer de la Banque;
 
@@ -1417,9 +1412,9 @@ Les immunités, privilèges et exemptions conférés par le présent chapitre so
 
 
 
+
+
 **(ii)** l’acceptation par au moins trois quarts des membres détenant au moins quatre-vingt-cinq (85) pour cent du nombre total des voix attribuées aux membres est nécessaire pour tout amendement modifiant le paragraphe 4 de l’article 8 du présent Accord.
-
-
 
 
 
@@ -1427,11 +1422,13 @@ Lorsque les conditions nécessaires à l’adoption de tels amendements sont ré
 
 
 
+
+
 **3** Les amendements entrent en vigueur, pour tous les membres, trois (3) mois après la date de la communication formelle prévue aux paragraphes 1 et 2 du présent article, à moins que le Conseil des gouverneurs n’en dispose autrement.
 
 
 
-**ARTICLE 57** 
+**Article 57** 
 ### Interprétation et application
 
 
@@ -1443,7 +1440,7 @@ Lorsque les conditions nécessaires à l’adoption de tels amendements sont ré
 
 
 
-**ARTICLE 58** 
+**Article 58** 
 ### Arbitrage
 
 
@@ -1451,7 +1448,7 @@ Tout désaccord survenant, après l’adoption de la décision de la Banque d’
 
 
 
-**ARTICLE 59** 
+**Article 59** 
 ### Approbation tacite
 
 
@@ -1463,7 +1460,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 ### Dispositions finales
 
 
-**ARTICLE 60** 
+**Article 60** 
 ### Signature et dépôt
 
 
@@ -1475,7 +1472,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 
 
-**ARTICLE 61** 
+**Article 61** 
 ### Ratification, acceptation ou approbation
 
 
@@ -1491,7 +1488,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 
 
-**ARTICLE 62** 
+**Article 62** 
 ### Entrée en vigueur
 
 
@@ -1503,7 +1500,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 
 
-**ARTICLE 63** 
+**Article 63** 
 ### Séance inaugurale et commencement des opérations
 
 
@@ -1511,7 +1508,7 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 
 
-**2** À sa première réunion, le Conseil des gouverneurs :
+**2** À sa première réunion, le Conseil des gouverneurs :
 
 **(i)** élit le président;
 
@@ -1537,5 +1534,531 @@ Lorsque l’approbation ou l’acceptation d’un membre est nécessaire pour qu
 
 Fait à Paris, le 29 mai 1990, en un seul exemplaire original, dont les versions en langues allemande, anglaise, française et russe font également foi, et déposé dans les archives du dépositaire qui en transmet des copies certifiées conformes à tous les membres potentiels énumérés à l’annexe A du présent Accord.
 
+
+
+### **ANNEXE A** 
+## Souscriptions initiales au capital social autorisé, pour les membres potentiels(*) susceptibles de devenir membres conformément aux dispositions de l’article 61
+<table>
+<tr>
+<th></th>
+<th></th>
+<th>NOMBRE D’ACTIONS</th>
+<th>SOUSCRIPTION AU CAPITAL
+
+(en millions d’Écus)
+
+
+
+</th>
+</tr>
+<tr>
+<td>A — Communautés européennes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>a)
+
+</td>
+<td>République Fédérale d’Allemagne</td>
+<td>85 175</td>
+<td>851,75</td>
+</tr>
+<tr>
+<td>Belgique</td>
+<td>22 800</td>
+<td>228,00</td>
+</tr>
+<tr>
+<td>Danemark</td>
+<td>12 000</td>
+<td>120,00</td>
+</tr>
+<tr>
+<td>Espagne</td>
+<td>34 000</td>
+<td>340,00</td>
+</tr>
+<tr>
+<td>France</td>
+<td>85 175</td>
+<td>851,75</td>
+</tr>
+<tr>
+<td>Grèce</td>
+<td>6 500</td>
+<td>65,00</td>
+</tr>
+<tr>
+<td>Irlande</td>
+<td>3 000</td>
+<td>30,00</td>
+</tr>
+<tr>
+<td>Italie</td>
+<td>85 175</td>
+<td>851,75</td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td>2 000</td>
+<td>20,00</td>
+</tr>
+<tr>
+<td>Pays-Bas</td>
+<td>24 800</td>
+<td>248,00</td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>4 200</td>
+<td>42,00</td>
+</tr>
+<tr>
+<td>Royaume-Uni</td>
+<td>85 175</td>
+<td>851,75</td>
+</tr>
+<tr>
+<td>b)
+
+</td>
+<td>Communauté économique européenne</td>
+<td>30 000</td>
+<td>300,00</td>
+</tr>
+<tr>
+<td>Banque européenne d’investissement</td>
+<td>30 000</td>
+<td>300,00</td>
+</tr>
+<tr>
+<td>B — Autres pays européens</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Autriche</td>
+<td>22 800</td>
+<td>228,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Chypre</td>
+<td>1 000</td>
+<td>10,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Finlande</td>
+<td>12 500</td>
+<td>125,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Islande</td>
+<td>1 000</td>
+<td>10,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Israël</td>
+<td>6 500</td>
+<td>65,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Liechtenstein</td>
+<td>200</td>
+<td>2,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Malte</td>
+<td>100</td>
+<td>1,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Norvège</td>
+<td>12 500</td>
+<td>125,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Suède</td>
+<td>22 800</td>
+<td>228,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Suisse</td>
+<td>22 800</td>
+<td>228,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Turquie</td>
+<td>11 500</td>
+<td>115,00</td>
+</tr>
+<tr>
+<td>C — Pays bénéficiaires</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Bulgarie</td>
+<td>7 900</td>
+<td>79,00</td>
+</tr>
+<tr>
+<td></td>
+<td>République Démocratique d’Allemagne</td>
+<td>15 500</td>
+<td>155,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Hongrie</td>
+<td>7 900</td>
+<td>79,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Pologne</td>
+<td>12 800</td>
+<td>128,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Roumanie</td>
+<td>4 800</td>
+<td>48,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Tchécoslovaquie</td>
+<td>12 800</td>
+<td>128,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Union des Républiques Socialistes et Soviétiques</td>
+<td>60 000</td>
+<td>600,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Yougoslavie</td>
+<td>12 800</td>
+<td>128,00</td>
+</tr>
+<tr>
+<td>D — Pays non européens</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Australie</td>
+<td>10 000</td>
+<td>100,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Canada</td>
+<td>34 000</td>
+<td>340,00</td>
+</tr>
+<tr>
+<td></td>
+<td>République de Corée</td>
+<td>6 500</td>
+<td>65,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Égypte</td>
+<td>1 000</td>
+<td>10,00</td>
+</tr>
+<tr>
+<td></td>
+<td>États-Unis</td>
+<td>1 000 000</td>
+<td>1 000,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Japon</td>
+<td>85 175</td>
+<td>851,75</td>
+</tr>
+<tr>
+<td></td>
+<td>Maroc</td>
+<td>1 000</td>
+<td>10,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Mexique</td>
+<td>3 000</td>
+<td>30,00</td>
+</tr>
+<tr>
+<td></td>
+<td>Nouvelle-Zélande</td>
+<td>1 000</td>
+<td>10,00</td>
+</tr>
+<tr>
+<td>E — Actions non allouées</td>
+<td>   125</td>
+<td>   1,25</td>
+</tr>
+<tr>
+<td></td>
+<td>TOTAL</td>
+<td>1 000 000</td>
+<td>10 000,00</td>
+</tr>
+</table>
+
+
+<a name='nbp_E-13.5_FR_hq_7873'><sup>(*)</sup></a>: Les membres potentiels sont classés dans les catégories visées exclusivement aux fins du présent Accord. Dans les autres dispositions du présent Accord, les pays bénéficiaires figurent sous le nom d’Europe centrale et orientale.<br />
+
+
+### **ANNEXE B** 
+
+### Section A — Élection des administrateurs par les gouverneurs représentant la République fédérale d’Allemagne, la Belgique, le Danemark, l’Espagne, la France, la Grèce, l’Irlande, l’Italie, le Luxembourg, les Pays-Bas, le Portugal, le Royaume-Uni, la Communauté économique européenne et la Banque européenne d’investissement (ci-après dénommés gouverneurs de la Section A).
+
+
+**1** Les dispositions ci-après de la présente Section s’appliquent exclusivement à cette Section.
+
+
+
+**2** Les candidats au poste d’administrateur sont désignés par les gouverneurs de la Section A, étant entendu qu’un gouverneur ne peut désigner qu’une seule personne. L’élection des administrateurs s’effectue par un vote des gouverneurs de la Section A.
+
+
+
+**3** Chacun des gouverneurs admis à voter accorde à une seule personne toutes les voix qui reviennent au membre qu’il représente au titre de l’article 29, paragraphes 1 et 2 du présent Accord.
+
+
+
+**4** Sous réserve de l’application du paragraphe 10 de la présente Section, les 11 personnes qui recueillent le plus grand nombre de voix sont élues administrateurs; toutefois, une personne ayant recueilli moins de 4,5 pour cent de l’ensemble des voix susceptibles d’être exprimées (voix inscrites) au titre de la Section A ne peut pas être réputée élue.
+
+
+
+**5** Sous réserve de l’application du paragraphe 10 de la présente Section, si 11 personnes ne sont pas élues au premier tour, il est procédé à un second tour dans lequel, sauf s’il n’y avait pas plus de 11 candidats, la personne qui a obtenu le plus petit nombre de voix au premier tour ne peut participer au scrutin et seuls votent :
+
+**a)** les gouverneurs qui ont voté au premier tour pour une personne non élue; et
+
+
+
+**b)** les gouverneurs dont les voix émises à une personne élue sont réputées, aux termes des paragraphes 6 et 7 de la présente Section, avoir porté le nombre des voix recueillies par cette personne au-dessus de 5,5 pour cent des voix inscrites.
+
+
+
+
+
+**6** Pour déterminer si les voix émises par un gouverneur sont réputées avoir porté le total obtenu par une personne donnée à plus de 5,5 pour cent des voix inscrites, les 5,5 pour cent sont réputés comprendre, premièrement, les voix du gouverneur qui a apporté le plus grand nombre de voix à ladite personne, ensuite les voix du gouverneur qui en a apporté le nombre immédiatement inférieur, et ainsi de suite jusqu’à ce que les 5,5 pour cent soient atteints.
+
+
+
+**7** Tout gouverneur dont les voix doivent être partiellement comptées pour porter le total obtenu par une personne à plus de 4,5 pour cent est réputé donner toutes ses voix à ladite personne, même si le total des voix obtenues par celle-ci dépasse ainsi 5,5 pour cent et ne peut plus participer à un autre scrutin.
+
+
+
+**8** Sous réserve de l’application du paragraphe 10 de la Section, après le second tour, il n’y a pas encore 11 élus, il est procédé, suivant les mêmes principes et procédures définis dans la présente Section, à des scrutins supplémentaires jusqu’à ce qu’il y ait 11 élus, sous réserve qu’à tout moment après l’élection de 10 personnes, la onzième peut être élue à la majorité simple des voix restantes, par dérogation aux dispositions du paragraphe 4.
+
+
+
+**9** Dans le cas d’une augmentation ou d’une réduction du nombre des administrateurs à élire par les gouverneurs de la Section A, les pourcentages minimum et maximum définis aux paragraphes 4, 5, 6 et 7 de la présente Section sont ajustés en conséquence par le Conseil des gouverneurs.
+
+
+
+**10** Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’annexe A est supérieure à 2,4 pour cent, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au paragraphe 3 de l’article 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
+
+
+
+### Section B — Élection des administrateurs par des gouverneurs représentant d’autres pays.
+
+
+### Section B (i) — Élection des administrateurs par des gouverneurs représentant les pays énumérés à l’annexe A dans la catégorie pays d’Europe Centrale et Orientale (pays bénéficiaires) (ci-après dénommés gouverneurs de la Section B (i)).
+
+
+**1** Les dispositions ci-après de la présente Section s’appliquent exclusivement à cette Section.
+
+
+
+**2** Les candidats au poste d’administrateur sont désignés par les gouverneurs de la Section B (i), étant entendu qu’un gouverneur ne peut désigner qu’une seule personne. L’élection des administrateurs s’effectue par un vote des gouverneurs de la Section B (i).
+
+
+
+**3** Chacun des gouverneurs admis à voter accorde à une seule personne toutes les voix qui reviennent au membre qu’il représente au titre de l’article 29, paragraphes 1 et 2 du présent Accord.
+
+
+
+**4** Sous réserve de l’application du paragraphe 10 de la présente Section, les 4 personnes qui recueillent le plus grand nombre de voix sont élues administrateurs; toutefois, une personne ayant recueilli moins de 12 pour cent de l’ensemble des voix susceptibles d’être exprimées (voix inscrites) au titre de la Section B (i) ne peut pas être réputée élue.
+
+
+
+**5** Sous réserve de l’application du paragraphe 10 de la présente Section, si 4 personnes ne sont pas élues au premier tour, il est procédé à un second tour dans lequel, sauf s’il n’y avait pas plus de 4 candidats, la personne qui a obtenu le plus petit nombre de voix au premier tour ne peut participer au scrutin et seuls votent :
+
+**a)** les gouverneurs qui ont voté au premier tour pour une personne non élue; et
+
+
+
+**b)** les gouverneurs dont les voix données à une personne élue sont réputées, aux termes des paragraphes 6 et 7 de la présente Section, avoir porté le nombre des voix recueillies par cette personne au-dessus de 13 pour cent des voix inscrites.
+
+
+
+
+
+**6** Pour déterminer si les voix émises par un gouverneur sont réputées avoir porté le total obtenu par une personne donnée à plus de 13 pour cent des voix inscrites, les 13 pour cent sont réputés comprendre, premièrement, les voix du gouverneur qui a apporté le plus grand nombre de voix à ladite personne, ensuite les voix du gouverneur qui en a apporté le nombre immédiatement inférieur, et ainsi de suite jusqu’à ce que les 13 pour cent soient atteints.
+
+
+
+**7** Tout gouverneur dont les voix doivent être partiellement comptées pour porter le total obtenu par une personne à plus de 12 pour cent est réputé donner toutes les voix à ladite personne, même si le total des voix obtenues par celle-ci dépasse ainsi 13 pour cent et ne peut plus participer à un autre scrutin.
+
+
+
+**8** Sous réserve de l’application du paragraphe 10 de la présente Section, si, après le second tour, il n’y a pas encore 4 élus, il est procédé, suivant les mêmes principes et procédures définis dans la présente Section, à des scrutins supplémentaires jusqu’à ce qu’il y ait 4 élus, sous réserve qu’à tout moment après l’élection de 3 personnes, la quatrième peut être élue à la majorité simple des voix restantes et sans tenir compte des dispositions du paragraphe 4.
+
+
+
+**9** Dans le cas d’une augmentation ou d’une réduction du nombre des administrateurs à élire par les gouverneurs de la Section B (i) les pourcentages minimum et maximum définis aux paragraphes 4, 5, 6 et 7 de la présente Section sont ajustés en conséquence par le Conseil des gouverneurs.
+
+
+
+**10** Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’annexe A est supérieure à 2,8 pour cent, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au paragraphe 3 de l’article 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
+
+
+
+### Section B (ii) — Élection des administrateurs par les gouverneurs représentant les pays énumérés à l’annexe A dans la catégorie autres pays européens (ci-après dénommés gouverneurs de la Section B (ii)).
+
+
+**1** Les dispositions ci-après de la présente Section s’appliquent exclusivement à cette Section.
+
+
+
+**2** Les candidats au poste d’administrateur sont désignés par les gouverneurs de la Section B (ii), étant entendu qu’un gouverneur ne peut désigner qu’une seule personne. L’élection des administrateurs s’effectue par un vote des gouverneurs de la Section B (ii).
+
+
+
+**3** Chacun des gouverneurs admis à voter accorde à une seule personne toutes les voix qui reviennent au membre qu’il représente au titre de l’article 29, paragraphes 1 et 2 du présent Accord.
+
+
+
+**4** Sous réserve de l’application du paragraphe 10 de la présente Section, les 4 personnes qui recueillent le plus grand nombre de voix sont élues administrateurs; toutefois, une personne ayant recueilli moins de 20,5 pour cent de l’ensemble des voix susceptibles d’être exprimées (voix inscrites) au titre de la Section B (ii) ne peut pas être réputée élue.
+
+
+
+**5** Sous réserve de l’application du paragraphe 10 de la présente Section, si 4 personnes ne sont pas élues au premier tour, il est procédé à un second tour dans lequel, sauf s’il n’y avait plus de 4 candidats, la personne qui a obtenu le plus petit nombre de voix au premier tour ne peut participer au scrutin et seuls votent :
+
+**a)** les gouverneurs qui ont voté au premier tour pour une personne non élue; et
+
+
+
+**b)** les gouverneurs dont les voix données à une personne élue sont réputées, aux termes des paragraphes 6 et 7 de la présente Section, avoir porté le nombre des voix recueillies par cette personne au-dessus de 21,5 pour cent des voix inscrites.
+
+
+
+
+
+**6** Pour déterminer si les voix émises par un gouverneur sont réputées avoir porté le total obtenu par une personne donnée à plus de 21,5 pour cent des voix inscrites, les 21,5 pour cent sont réputés comprendre, premièrement, les voix du gouverneur qui a apporté le plus grand nombre de voix à ladite personne, ensuite les voix du gouverneur qui en a apporté le nombre immédiatement inférieur, et ainsi de suite jusqu’à ce que les 21,5 pour cent soient atteints.
+
+
+
+**7** Tout gouverneur dont les voix doivent être partiellement comptées pour porter le total obtenu par une personne à plus de 20,5 pour cent est réputé donner toutes les voix à ladite personne, même si le total des voix obtenues par celle-ci dépasse ainsi 21,5 pour cent et ne peut plus participer à un autre scrutin.
+
+
+
+**8** Sous réserve de l’application du paragraphe 10 de la présente Section, si, après le second tour, il n’y a pas encore 4 élus, il est procédé, suivant les mêmes principes et procédures définis dans la présente Section, à des scrutins supplémentaires jusqu’à ce qu’il y ait 4 élus, sous réserve qu’à tout moment après l’élection de 3 personnes, la quatrième peut être élue à la majorité simple des voix restantes, par dérogation aux dispositions du paragraphe 4.
+
+
+
+**9** Dans le cas d’une augmentation ou d’une réduction du nombre des administrateurs à élire par les gouverneurs de la Section B (ii) les pourcentages minimum et maximum définis aux paragraphes 4, 5, 6 et 7 de la présente Section sont ajustés en conséquence par le Conseil des gouverneurs.
+
+
+
+**10** Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’annexe A est supérieure à 2,8 pour cent, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au paragraphe 3 de l’article 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
+
+
+
+### Section B (iii) — Élection des administrateurs par les gouverneurs représentant des pays énumérés à l’annexe A dans la catégorie pays non-européens (ci-après dénommés gouverneurs de la Section B (iii).
+
+
+**1** Les dispositions ci-après de la présente Section s’appliquent exclusivement à cette Section.
+
+
+
+**2** Les candidats au poste d’administrateur sont désignés par les gouverneurs de la Section B (iii), étant entendu qu’un gouverneur ne peut désigner qu’une seule personne. L’élection des administrateurs s’effectue par un vote des gouverneurs de la Section B (iii).
+
+
+
+**3** Chacun des gouverneurs admis à voter accorde à une seule personne toutes les voix qui reviennent au membre qu’il représente au titre de l’article 29, paragraphes 1 et 2 du présent Accord.
+
+
+
+**4** Sous réserve de l’application du paragraphe 10 de la présente Section, les 4 personnes qui recueillent le plus grand nombre de voix sont élues administrateurs; toutefois, une personne ayant recueilli moins de 8 pour cent de l’ensemble des voix susceptibles d’être exprimées (voix inscrites) au titre de la Section B (iii) ne peut pas être réputée élue.
+
+
+
+**5** Sous réserve de l’application du paragraphe 10 de la présente Section, si 4 personnes ne sont pas élues au premier tour, il est procédé à un second tour dans lequel, sauf s’il n’y avait plus de 4 candidats, la personne qui a obtenu le plus petit nombre de voix au premier tour ne peut participer au scrutin et seuls votent :
+
+**a)** les gouverneurs qui ont voté au premier tour pour une personne non élue; et
+
+
+
+**b)** les gouverneurs dont les voix données à une personne élue sont réputées, aux termes des paragraphes 6 et 7 de la présente Section, avoir porté le nombre des voix recueillies par cette personne au-dessus de 9 pour cent des voix inscrites.
+
+
+
+
+
+**6** Pour déterminer si les voix émises par un gouverneur sont réputées avoir porté le total obtenu par une personne donnée à plus de 9 pour cent des voix inscrites, les 9 pour cent sont réputés comprendre, premièrement, les voix du gouverneur qui a apporté le plus grand nombre de voix à ladite personne, ensuite les voix du gouverneur qui en a apporté le nombre immédiatement inférieur, et ainsi de suite jusqu’à ce que les 9 pour cent soient atteints.
+
+
+
+**7** Tout gouverneur dont les voix doivent être partiellement comptées pour porter le total obtenu par une personne à plus de 8 pour cent est réputé donner toutes les voix à ladite personne, même si le total des voix obtenues par celle-ci dépasse ainsi 9 pour cent et ne peut plus participer à un autre scrutin.
+
+
+
+**8** Sous réserve de l’application du paragraphe 10 de la présente Section, si, après le second tour, il n’y a pas encore 4 élus, il est procédé, suivant les mêmes principes et procédures définis dans la présente Section, à des scrutins supplémentaires jusqu’à ce qu’il y ait 4 élus, sous réserve qu’à tout moment après l’élection de 3 personnes, la quatrième peut être élue à la majorité simple des voix restantes, par dérogation aux dispositions du paragraphe 4.
+
+
+
+**9** Dans le cas d’une augmentation ou d’une réduction du nombre des administrateurs à élire par les gouverneurs de la Section B (iii) les pourcentages minimum et maximum définis aux paragraphes 4, 5, 6 et 7 de la présente Section sont ajustés en conséquence par le Conseil des gouverneurs.
+
+
+
+**10** Aussi longtemps qu’un signataire, ou un groupe de signataires, dont la part du montant total du capital souscrit définie à l’annexe A est supérieure à 5 pour cent, n’a pas déposé son instrument de ratification, d’approbation ou d’acceptation, aucun administrateur n’est élu pour représenter ledit signataire ou groupe de signataires. Le gouverneur ou les gouverneurs représentant ledit signataire ou groupe de signataires élisent un administrateur pour chaque signataire ou groupe de signataires, dès que le signataire ou le groupe de signataires devient membre. Cet administrateur est réputé avoir été élu par le Conseil des gouverneurs lors de la séance inaugurale, conformément au paragraphe 3 de l’article 26 du présent Accord, s’il est élu pendant la période au cours de laquelle le premier Conseil d’administration exerce ses fonctions.
+
+
+
+### Section C — Procédures relatives à l’élection des administrateurs représentant des pays ne figurant pas à l’annexe A.
+
+
+Si le Conseil des gouverneurs décide, conformément au paragraphe 3 de l’article 26 du présent Accord, d’augmenter ou de réduire le nombre des administrateurs, ou de modifier la composition du Conseil d’administration, afin de prendre en considération les changements intervenus dans le nombre de membres de la Banque, le Conseil des gouverneurs devra préalablement examiner s’il est nécessaire d’amender la présente annexe, et dans l’affirmative, il peut procéder aux amendements qu’il juge nécessaires dans le cadre de ladite décision.
+
+
+
+### Section D — Vote par procuration.
+
+
+Tout gouverneur qui ne participe pas au vote lors de l’élection d’un administrateur ou dont le vote ne contribue pas à ladite élection, conformément aux Sections A, B (i), B (ii) ou B (iii) de la présente annexe, peut confier les voix dont il dispose à un administrateur élu, à condition que ce gouverneur ait préalablement obtenu l’accord de tous les gouverneurs ayant choisi cet administrateur pour une telle procuration.
+
+
+
+Une décision prise par un gouverneur qui ne participe pas au scrutin lors de l’élection d’un administrateur, n’affecte en rien le calcul des voix inscrites effectué conformément aux Sections A, B (i), B (ii), ou B (iii) de la présente annexe.
+
+
+
+> 1991, ch. 12, ann.; 2006, ch. 4, art. 215.
 
 
