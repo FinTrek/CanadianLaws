@@ -2533,7 +2533,10 @@ où :
 - **(2)** Les règles suivantes s’appliquent si le ministre proroge le délai :
 	- **a)** la déclaration doit être produite, ou les renseignements communiqués, dans le délai prorogé;
 	- **b)** les droits exigibles que la personne est tenue d’indiquer dans la déclaration doivent être acquittés dans le délai prorogé;
-	- **c)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
+	- **c)** les intérêts exigibles aux termes de l’article 170 sur toute somme à payer au titre de la déclaration ou de l’obligation de communiquer des renseignements sont calculés comme si la somme devait être payée au plus tard à l’expiration du délai prorogé;
+	- **d)** la pénalité exigible aux termes de l’article 251.1 au titre de la déclaration est calculée comme si celle-ci devait être produite au plus tard à l’expiration du délai prorogé.
+> 2002, ch. 22, art. 168; 2006, ch. 4, art. 114.
+
 
 
 
@@ -2565,10 +2568,10 @@ où :
 
 **Intérêts de 25 $ ou moins**
 
-- **(4)** Si, à un moment donné, une personne paie une somme égale ou supérieure au total des sommes, sauf les intérêts, dont elle est débitrice à ce moment envers Sa Majesté en vertu de la présente loi pour son mois d’exercice et que le total des intérêts à payer par elle en vertu de la présente loi pour ce mois n’excède pas 25 $, le ministre peut annuler ces intérêts.
+- **(4)** Si, à un moment donné, une personne paie une somme égale ou supérieure au total des sommes, sauf les intérêts et la pénalité exigible aux termes de l’article 251.1, dont elle est alors débitrice envers Sa Majesté en vertu de la présente loi pour son mois d’exercice et que le montant des intérêts et de la pénalité à payer par elle en vertu de la présente loi pour ce mois n’excède pas 25 $, le ministre peut renoncer à ce montant.
 
 - **(5)** [Abrogé, 2003, ch. 15, art. 92]
-> 2002, ch. 22, art. 170; 2003, ch. 15, art. 92.
+> 2002, ch. 22, art. 170; 2003, ch. 15, art. 92; 2006, ch. 4, art. 115.
 
 
 
@@ -4153,9 +4156,29 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Défaut de donner suite à une mise en demeure**
 
-**251** Quiconque ne se conforme pas à une mise en demeure exigeant la production d’une déclaration en application de l’article 169 est passible d’une pénalité égale au plus élevé des montants suivants :
-- **a)** 250 $;
-- **b)** le montant représentant 5 % des droits exigibles pour la période indiquée dans la mise en demeure qui étaient impayés à la date d’échéance de production de la déclaration.
+**251** Quiconque ne se conforme pas à une mise en demeure exigeant la production d’une déclaration en application de l’article 169 est passible d’une pénalité de 250 $.
+> 2002, ch. 22, art. 251; 2006, ch. 4, art. 119.
+
+
+
+
+
+**Défaut de produire une déclaration**
+
+**251.1** Quiconque omet de produire une déclaration pour un mois d’exercice selon les modalités de temps ou autres prévues par la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
+- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour le mois d’exercice, mais qui ne l’a pas été avant la fin du jour où la déclaration devait être produite;
+- **b)** le produit du quart du montant déterminé selon l’alinéa a) par le nombre de mois entiers, jusqu’à concurrence de douze, compris dans la période commençant à la date limite où la déclaration devait être produite et se terminant le jour où elle est effectivement produite.
+> 2006, ch. 4, art. 119.
+
+
+
+
+
+**Effets refusés**
+
+**251.2** Pour l’application de la présente loi et de l’article 155.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les frais qui deviennent payables par une personne à un moment donné en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) relativement à un effet offert en paiement ou en règlement d’une somme à payer en vertu de la présente loi sont réputés être une somme qui devient payable par la personne à ce moment en vertu de la présente loi. En outre, la partie II du [Règlement sur les intérêts et les frais administratifs](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/188.md) ne s’applique pas aux frais, et toute créance relative à ces frais, visée au paragraphe 155.1(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), est réputée avoir été éteinte au moment où le total de la somme et des intérêts applicables en vertu de la présente loi est versé.
+> 2006, ch. 4, art. 119.
+
 
 
 
@@ -4976,8 +4999,11 @@ Toutefois, dans le cas où la loi provinciale exige — soit dans le cadre de ce
 **Contenu des certificats et extraits**
 
 - **(12)** Malgré les lois fédérales et provinciales, dans le certificat fait à l’égard d’un débiteur, dans l’extrait faisant preuve du contenu d’un tel certificat ou encore dans le bref ou document délivré en vue du recouvrement d’une somme attestée dans un tel certificat, il suffit, à toutes fins utiles :
-	- **a)** d’une part, d’indiquer, comme somme exigible du débiteur, le total des sommes exigibles de celui-ci et non les sommes distinctes qui forment ce total;
-	- **b)** d’autre part, d’indiquer de façon générale le taux d’intérêt réglementaire en application de la présente loi sur les sommes à payer au receveur général comme étant le taux applicable aux sommes distinctes qui forment la somme exigible, sans détailler les taux applicables à chaque somme distincte ou pour une période donnée.
+	- **a)** d’indiquer, comme somme exigible du débiteur, le total des sommes exigibles de celui-ci et non les sommes distinctes qui forment ce total;
+	- **b)** d’indiquer de façon générale le taux d’intérêt réglementaire en application de la présente loi sur les sommes à payer au receveur général comme étant le taux applicable aux sommes distinctes qui forment la somme exigible, sans détailler les taux applicables à chaque somme distincte ou pour une période donnée;
+	- **c)** d’indiquer de façon générale la pénalité calculée selon l’article 251.1 sur les sommes à payer au receveur général comme étant la pénalité calculée selon cet article sur les sommes distinctes qui forment la somme exigible.
+> 2002, ch. 22, art. 288; 2006, ch. 4, art. 123.
+
 
 
 
