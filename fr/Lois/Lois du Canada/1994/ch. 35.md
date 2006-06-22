@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1994/c.%2035.md)
 
-# Loi sur l'autonomie gouvernementale des premières nations du Yukon
+# Loi sur l’autonomie gouvernementale des premières nations du Yukon
 
 **L.C. 1994, ch. 35**
 
@@ -14,9 +14,9 @@ Sanctionnée sur le 7 juillet 1994
 
 **Préambule**
 
-Attendu :
+Attendu :
 
-que les représentants du Conseil des Indiens du Yukon, de Sa Majesté la Reine du chef du Canada et du gouvernement du territoire du Yukon ont signé, le 29 mai 1993, l'accord-cadre dont les dispositions sont destinées à être reprises dans les accords définitifs sur les revendications des premières nations sur des terres du Yukon;
+que les représentants du Conseil des Indiens du Yukon, de Sa Majesté la Reine du chef du Canada et du gouvernement du territoire du Yukon ont signé, le 29 mai 1993, l’accord-cadre dont les dispositions sont destinées à être reprises dans les accords définitifs sur les revendications des premières nations sur des terres du Yukon;
 
 que les premières nations de Champagne et Aishihik, des Gwitchin Vuntut, des Nacho Nyak Dun et le conseil des Tlingits de Teslin ont conclu avec Sa Majesté et le gouvernement du Yukon des accords définitifs contenant, outre les dispositions de l’accord-cadre, des dispositions particulières à chacune de ces premières nations;
 
@@ -30,7 +30,7 @@ que le gouvernement du Canada s’est engagé à recommander l’adoption par le
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 > 1994, ch. 35, préambule; 2002, ch. 7, art. 260..
@@ -467,6 +467,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Garantie**
 
 - **(5)** La première nation est garante envers Sa Majesté des dommages causés par le transfert ou la reconnaissance des droits sur les terres en application de l’article 21 ou par la gestion ultérieure de celles-ci.
+
+
+
+
+**Définitions**
+
+**22.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***bande*** S’entend au sens de l’article 2 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*band*)
+
+***Indien*** S’entend au sens de l’article 2 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*Indian*)
+
+***période de transition*** En ce qui concerne une première nation, la période commençant le jour où l’accord définitif de la première nation prend effet et se terminant le 31 décembre de la même année. (*transition periode*)
+
+***réserve*** S’entend au sens de l’article 2 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
+
+**Exonération fiscale — anciennes réserves**
+
+- **(2)** Est exonéré de l’impôt prévu par la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au cours de la période de transition, le revenu d’une bande ou d’un Indien, sauf l’Indien inscrit en vertu d’un accord définitif ayant pris effet avant l’année civile qui comprend cette période, dont le *situs* est dans des terres de la première nation qui ont constitué une réserve tout au long de la partie de cette année civile qui est antérieure à la période de transition.
+
+**Exonération fiscale — Indiens inscrits en vertu de l’accord définitif**
+
+- **(3)** Est exonéré de l’impôt prévu par la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au cours de la période de transition, le revenu de tout Indien résidant au Yukon qui est inscrit en vertu de l’accord définitif de la première nation, dont le *situs* est dans une réserve.
+> 2006, ch. 4, art. 98.
+
 
 
 
