@@ -589,12 +589,12 @@ and that is not discontinued under this Act.
 
 **20** 
 
-- **(1)** Subject to subsection (2), companies shall not carry on business after the day that is five years after this section comes into force, except that if Parliament dissolves on that day or at any time within the three-month period before that day, companies may continue to carry on business, until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
+- **(1)** Subject to subsection (2), companies shall not carry on business after April 24, 2007, except that if Parliament dissolves on that day or at any time within the three-month period before that day, companies may continue to carry on business until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which companies may continue to carry on business. No more than one order may be made under this subsection.
-> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484.
+> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484; 2006, c. 4, s. 202.
 
 
 
