@@ -2539,8 +2539,11 @@ where
 
 - **(2)** If the Minister extends the time under subsection (1),
 	- **(a)** the return shall be filed, or the information shall be provided, within the time so extended;
-	- **(b)** any duty payable that the person is required to report in the return shall be paid within the time so extended; and
-	- **(c)** interest is payable under section 170 as if the time had not been extended.
+	- **(b)** any duty payable that the person is required to report in the return shall be paid within the time so extended;
+	- **(c)** any interest payable under section 170 on any amount payable in respect of the return shall be calculated as though the amount were required to be paid on the day on which the extended time expires; and
+	- **(d)** any penalty payable under section 251.1 in respect of the return shall be calculated as though the return were required to be filed on the day on which the extended time expires.
+> 2002, c. 22, s. 168; 2006, c. 4, s. 114.
+
 
 
 
@@ -2570,12 +2573,12 @@ where
 
 - **(3)** Despite any other provision of this Act, if the Minister notifies a person that the person is required to pay a specified amount under this Act and the person pays the specified amount in full before the end of the period that the Minister specifies with the notice, interest is not payable on the specified amount for the period.
 
-**Interest amounts of $25 or less**
+**Minimum interest and penalty**
 
-- **(4)** If, at any time, a person pays an amount not less than the total of all amounts, other than interest, owing at that time to Her Majesty under this Act for a fiscal month and the total amount of interest payable by the person under this Act for that month is not more than $25.00, the Minister may cancel the interest.
+- **(4)** If, at any time, a person pays an amount not less than the total of all amounts, other than interest and penalty payable under section 251.1, owing at that time to Her Majesty under this Act for a fiscal month of the person and the total amount of interest and the penalty payable by the person under this Act for that month is not more than $25.00, the Minister may waive the total amount.
 
 - **(5)** [Repealed, 2003, c. 15, s. 92]
-> 2002, c. 22, s. 170; 2003, c. 15, s. 92.
+> 2002, c. 22, s. 170; 2003, c. 15, s. 92; 2006, c. 4, s. 115.
 
 
 
@@ -4194,11 +4197,31 @@ exceeds
 
 
 
+**Failure to answer demand**
+
+**251** Every person who does not file a return as and when required under a demand issued under section 169 is liable to a penalty equal to $250.
+> 2002, c. 22, s. 251; 2006, c. 4, s. 119.
+
+
+
+
+
 **Failure to file return**
 
-**251** Every person who does not file a return as and when required under a demand issued under section 169 is liable to a penalty equal to the greater of
-- **(a)** $250, and
-- **(b)** 5% of the amount of duty payable by the person for the period designated in the demand that was unpaid on the day that the return was due.
+**251.1** Every person who fails to file a return for a fiscal month as and when required under this Act shall pay a penalty equal to the sum of
+- **(a)** an amount equal to 1% of the total of all amounts each of which is an amount that is required to be paid for the fiscal month and was not paid before the end of the day on which the return was required to be filed, and
+- **(b)** the amount obtained when one quarter of the amount determined under paragraph (a) is multiplied by the number of complete months, not exceeding 12, from the day on which the return was required to be filed to the day on which the return is filed.
+> 2006, c. 4, s. 119.
+
+
+
+
+
+**Dishonoured instruments**
+
+**251.2** For the purposes of this Act and section 155.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any charge that becomes payable at any time by a person under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of an instrument tendered in payment or settlement of an amount that is payable under this Act is deemed to be an amount that becomes payable by the person at that time under this Act. In addition, Part II of the [Interest and Administrative Charges Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/188.md) does not apply to the charge and any debt under subsection 155.1(3) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of the charge is deemed to be extinguished at the time the total of the amount and any applicable interest under this Act is paid.
+> 2006, c. 4, s. 119.
+
 
 
 
@@ -5036,8 +5059,11 @@ the memorial or document shall be accepted for filing, registration or other rec
 **Details in certificates and memorials**
 
 - **(12)** Despite any law of Canada or of the legislature of a province, in any certificate in respect of a debtor, any memorial evidencing a certificate or any writ or document issued for the purpose of collecting an amount certified, it is sufficient for all purposes
-	- **(a)** to set out, as the amount payable by the debtor, the total of amounts payable by the debtor without setting out the separate amounts making up that total; and
-	- **(b)** to refer to the rate of interest to be charged on the separate amounts making up the amount payable in general terms as interest at the prescribed rate under this Act applicable from time to time on amounts payable to the Receiver General, without indicating the specific rates of interest to be charged on each of the separate amounts or to be charged for any period.
+	- **(a)** to set out, as the amount payable by the debtor, the total of amounts payable by the debtor without setting out the separate amounts making up that total;
+	- **(b)** to refer to the rate of interest to be charged on the separate amounts making up the amount payable in general terms as interest at the prescribed rate under this Act applicable from time to time on amounts payable to the Receiver General, without indicating the specific rates of interest to be charged on each of the separate amounts or to be charged for any period; and
+	- **(c)** to refer to the penalty calculated under section 251.1 to be charged on the separate amounts making up the amount payable in general terms as a penalty under that section on amounts payable to the Receiver General.
+> 2002, c. 22, s. 288; 2006, c. 4, s. 123.
+
 
 
 
