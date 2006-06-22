@@ -64,6 +64,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Amendment to schedule**
+
+**4.1** The Governor in Council may, by order, amend the schedule to reflect amendments to the Agreement.
+> 2006, c. 4, s. 214.
+
+
+
+
+
 **Depository**
 
 **5** The Bank of Canada shall be the depository in Canada for the assets of the Bank.
@@ -110,9 +119,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ### **SCHEDULE** 
-**(*Section 2*)**
-AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT
-
+**(Section 2)**
+## Agreement Establishing the European Bank for Reconstruction and Development
 The contracting parties,
 
 Committed to the fundamental principles of multiparty democracy, the rule of law, respect for human rights and market economics;
@@ -132,15 +140,15 @@ Have agreed to establish hereby the European Bank for Reconstruction and Develop
 ### Purpose, Functions and Membership
 
 
-**ARTICLE 1** 
+**Article 1** 
 ### Purpose
 
 
-In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics.
+In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. The purpose of the Bank may also be carried out in Mongolia subject to the same conditions. Accordingly, any reference in this Agreement and its annexes to “Central and Eastern European countries”, “countries from Central and Eastern Europe”, “recipient country (or countries)” or “recipient member country (or countries)” shall refer to Mongolia as well.
 
 
 
-**ARTICLE 2** 
+**Article 2** 
 ### Functions
 
 
@@ -184,7 +192,7 @@ In contributing to economic progress and reconstruction, the purpose of the Bank
 
 
 
-**ARTICLE 3** 
+**Article 3** 
 ### Membership
 
 
@@ -208,7 +216,7 @@ In contributing to economic progress and reconstruction, the purpose of the Bank
 ### Capital
 
 
-**ARTICLE 4** 
+**Article 4** 
 ### Authorized Capital Stock
 
 
@@ -224,7 +232,7 @@ In contributing to economic progress and reconstruction, the purpose of the Bank
 
 
 
-**ARTICLE 5** 
+**Article 5** 
 ### Subscription of Shares
 
 
@@ -256,7 +264,7 @@ In contributing to economic progress and reconstruction, the purpose of the Bank
 
 
 
-**ARTICLE 6** 
+**Article 6** 
 ### Payment of Subscriptions
 
 
@@ -292,7 +300,7 @@ In contributing to economic progress and reconstruction, the purpose of the Bank
 
 
 
-**ARTICLE 7** 
+**Article 7** 
 ### Ordinary Capital Resources
 
 
@@ -324,7 +332,7 @@ As used in this Agreement, the term “ordinary capital resources” of the Bank
 ### Operations
 
 
-**ARTICLE 8** 
+**Article 8** 
 ### Recipient Countries and Use of Resources
 
 
@@ -364,7 +372,7 @@ As used in this Agreement, the term “ordinary capital resources” of the Bank
 
 
 
-**ARTICLE 9** 
+**Article 9** 
 ### Ordinary and Special Operations
 
 
@@ -372,7 +380,7 @@ The operations of the Bank shall consist of ordinary operations financed from th
 
 
 
-**ARTICLE 10** 
+**Article 10** 
 ### Separation of Operations
 
 
@@ -388,7 +396,7 @@ The operations of the Bank shall consist of ordinary operations financed from th
 
 
 
-**ARTICLE 11** 
+**Article 11** 
 ### Methods of Operation
 
 
@@ -398,7 +406,9 @@ The operations of the Bank shall consist of ordinary operations financed from th
 
 
 
-**(ii) (a)** by investment in the equity capital of private sector enterprises;
+**(ii)** 
+
+**(a)** by investment in the equity capital of private sector enterprises;
 
 
 
@@ -407,6 +417,8 @@ The operations of the Bank shall consist of ordinary operations financed from th
 
 
 **(c)** by underwriting, where other means of financing are not appropriate, the equity issue of securities by both private sector enterprises and such state-owned enterprises referred to in (b) above for the ends mentioned in that subparagraph;
+
+
 
 
 
@@ -422,9 +434,9 @@ The operations of the Bank shall consist of ordinary operations financed from th
 
 
 
-
-
 For the purposes of this paragraph, a state-owned enterprise shall not be regarded as operating competitively unless it operates autonomously in a competitive market environment and unless it is subject to bankruptcy laws.
+
+
 
 
 
@@ -468,7 +480,7 @@ For the purposes of this paragraph, a state-owned enterprise shall not be regard
 
 
 
-**ARTICLE 12** 
+**Article 12** 
 ### Limitations on Ordinary Operations
 
 
@@ -488,7 +500,7 @@ For the purposes of this paragraph, a state-owned enterprise shall not be regard
 
 
 
-**ARTICLE 13** 
+**Article 13** 
 ### Operating Principles
 
 
@@ -548,7 +560,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 14** 
+**Article 14** 
 ### Terms and Conditions for Loans and Guarantees
 
 
@@ -564,7 +576,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 15** 
+**Article 15** 
 ### Commission and Fees
 
 
@@ -580,7 +592,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 16** 
+**Article 16** 
 ### Special Reserve
 
 
@@ -592,7 +604,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 17** 
+**Article 17** 
 ### Methods of Meeting the Losses of the Bank
 
 
@@ -628,7 +640,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 18** 
+**Article 18** 
 ### Special Funds
 
 
@@ -644,7 +656,7 @@ The Bank shall operate in accordance with the following principles:
 
 
 
-**ARTICLE 19** 
+**Article 19** 
 ### Special Funds Resources
 
 
@@ -668,7 +680,7 @@ The term “Special Funds resources” shall refer to the resources of any Speci
 ### Borrowing and Other Miscellaneous Powers
 
 
-**ARTICLE 20** 
+**Article 20** 
 ### General Powers
 
 
@@ -724,7 +736,7 @@ The term “Special Funds resources” shall refer to the resources of any Speci
 ### Currencies
 
 
-**ARTICLE 21** 
+**Article 21** 
 ### Determination and Use of Currencies
 
 
@@ -756,7 +768,7 @@ The term “Special Funds resources” shall refer to the resources of any Speci
 ### Organization and Management
 
 
-**ARTICLE 22** 
+**Article 22** 
 ### Structure
 
 
@@ -764,7 +776,7 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 
 
-**ARTICLE 23** 
+**Article 23** 
 ### Board of Governors: Composition
 
 
@@ -776,7 +788,7 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 
 
-**ARTICLE 24** 
+**Article 24** 
 ### Board of Governors: Powers
 
 
@@ -840,7 +852,7 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 
 
-**ARTICLE 25** 
+**Article 25** 
 ### Board of Governors: Procedure
 
 
@@ -860,7 +872,7 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 
 
-**ARTICLE 26** 
+**Article 26** 
 ### Board of Directors: Composition
 
 
@@ -886,9 +898,9 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 
 
-
-
 Directors, as well as representing members whose Governors have elected them, may also represent members who assign their votes to them.
+
+
 
 
 
@@ -908,7 +920,7 @@ Directors, as well as representing members whose Governors have elected them, ma
 
 
 
-**ARTICLE 27** 
+**Article 27** 
 ### Board of Directors: Powers
 
 
@@ -932,7 +944,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 28** 
+**Article 28** 
 ### Board of Directors: Procedure
 
 
@@ -948,7 +960,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 29** 
+**Article 29** 
 ### Voting
 
 
@@ -964,7 +976,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 30** 
+**Article 30** 
 ### The President
 
 
@@ -992,7 +1004,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 31** 
+**Article 31** 
 ### Vice-President(s)
 
 
@@ -1004,7 +1016,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 32** 
+**Article 32** 
 ### International Character of the Bank
 
 
@@ -1020,7 +1032,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 33** 
+**Article 33** 
 ### Location of Offices
 
 
@@ -1032,7 +1044,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 34** 
+**Article 34** 
 ### Depositories and Channels of Communication
 
 
@@ -1044,7 +1056,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 35** 
+**Article 35** 
 ### Publication of Reports and Provision of Information
 
 
@@ -1060,7 +1072,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 36** 
+**Article 36** 
 ### Allocation and Distribution of Net Income
 
 
@@ -1080,7 +1092,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 ### Withdrawal and Suspension of Membership: Temporary Suspension and Termination of Operations
 
 
-**ARTICLE 37** 
+**Article 37** 
 ### Right of Members to Withdraw
 
 
@@ -1092,7 +1104,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 38** 
+**Article 38** 
 ### Suspension of Membership
 
 
@@ -1104,7 +1116,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 39** 
+**Article 39** 
 ### Settlement of Accounts with Former Members
 
 
@@ -1140,7 +1152,7 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 
 
-**ARTICLE 40** 
+**Article 40** 
 ### Temporary Suspension of Operations
 
 
@@ -1148,7 +1160,7 @@ In an emergency, the Board of Directors may suspend temporarily operations in re
 
 
 
-**ARTICLE 41** 
+**Article 41** 
 ### Termination of Operations
 
 
@@ -1156,7 +1168,7 @@ The Bank may terminate its operations by the affirmative vote of not less than t
 
 
 
-**ARTICLE 42** 
+**Article 42** 
 ### Liability of Members and Payment of Claims
 
 
@@ -1168,7 +1180,7 @@ The Bank may terminate its operations by the affirmative vote of not less than t
 
 
 
-**ARTICLE 43** 
+**Article 43** 
 ### Distribution of Assets
 
 
@@ -1196,7 +1208,7 @@ The Bank may terminate its operations by the affirmative vote of not less than t
 ### Status, Immunities, Privileges and Exemptions
 
 
-**ARTICLE 44** 
+**Article 44** 
 ### Purposes of Chapter
 
 
@@ -1204,7 +1216,7 @@ To enable the Bank to fulfil its purpose and the functions with which it is entr
 
 
 
-**ARTICLE 45** 
+**Article 45** 
 ### Status of the Bank
 
 
@@ -1224,7 +1236,7 @@ The Bank shall possess full legal personality and, in particular, the full legal
 
 
 
-**ARTICLE 46** 
+**Article 46** 
 ### Position of the Bank with Regard to Judicial Process
 
 
@@ -1232,7 +1244,7 @@ Actions may be brought against the Bank only in a court of competent jurisdictio
 
 
 
-**ARTICLE 47** 
+**Article 47** 
 ### Immunity of Assets from Seizure
 
 
@@ -1240,7 +1252,7 @@ Property and assets of the Bank, wheresoever located and by whomsoever held, sha
 
 
 
-**ARTICLE 48** 
+**Article 48** 
 ### Immunity of Archives
 
 
@@ -1248,7 +1260,7 @@ The archives of the Bank, and in general all documents belonging to it or held b
 
 
 
-**ARTICLE 49** 
+**Article 49** 
 ### Freedom of Assets from Restrictions
 
 
@@ -1256,7 +1268,7 @@ To the extent necessary to carry out the purpose and functions of the Bank and s
 
 
 
-**ARTICLE 50** 
+**Article 50** 
 ### Privilege for Communications
 
 
@@ -1264,7 +1276,7 @@ The official communications of the Bank shall be accorded by each member the sam
 
 
 
-**ARTICLE 51** 
+**Article 51** 
 ### Immunities of Officers and Employees
 
 
@@ -1272,7 +1284,7 @@ All Governors, Directors, Alternates, officers and employees of the Bank and exp
 
 
 
-**ARTICLE 52** 
+**Article 52** 
 ### Privileges of Officers and Employees
 
 
@@ -1292,7 +1304,7 @@ All Governors, Directors, Alternates, officers and employees of the Bank and exp
 
 
 
-**ARTICLE 53** 
+**Article 53** 
 ### Exemption from Taxation
 
 
@@ -1352,7 +1364,7 @@ All Governors, Directors, Alternates, officers and employees of the Bank and exp
 
 
 
-**ARTICLE 54** 
+**Article 54** 
 ### Implementation of Chapter
 
 
@@ -1360,7 +1372,7 @@ Each member shall promptly take such action as is necessary for the purpose of i
 
 
 
-**ARTICLE 55** 
+**Article 55** 
 ### Waiver of Immunities, Privileges and Exemptions
 
 
@@ -1372,7 +1384,7 @@ The immunities, privileges and exemptions conferred under this Chapter are grant
 ### Amendments, Interpretation, Arbitration
 
 
-**ARTICLE 56** 
+**Article 56** 
 ### Amendments
 
 
@@ -1406,9 +1418,9 @@ The immunities, privileges and exemptions conferred under this Chapter are grant
 
 
 
-
-
 When the requirements for accepting any such proposed amendment have been met, the Bank shall certify that fact by formal communication addressed to all members.
+
+
 
 
 
@@ -1416,7 +1428,7 @@ When the requirements for accepting any such proposed amendment have been met, t
 
 
 
-**ARTICLE 57** 
+**Article 57** 
 ### Interpretation and Application
 
 
@@ -1428,7 +1440,7 @@ When the requirements for accepting any such proposed amendment have been met, t
 
 
 
-**ARTICLE 58** 
+**Article 58** 
 ### Arbitration
 
 
@@ -1436,7 +1448,7 @@ If a disagreement should arise between the Bank and a member which has ceased to
 
 
 
-**ARTICLE 59** 
+**Article 59** 
 ### Approval Deemed Given
 
 
@@ -1448,7 +1460,7 @@ Whenever the approval or the acceptance of any member is required before any act
 ### Final Provisions
 
 
-**ARTICLE 60** 
+**Article 60** 
 ### Signature and Deposit
 
 
@@ -1460,7 +1472,7 @@ Whenever the approval or the acceptance of any member is required before any act
 
 
 
-**ARTICLE 61** 
+**Article 61** 
 ### Ratification, Acceptance or Approval
 
 
@@ -1476,7 +1488,7 @@ Whenever the approval or the acceptance of any member is required before any act
 
 
 
-**ARTICLE 62** 
+**Article 62** 
 ### Entry into Force
 
 
@@ -1488,7 +1500,7 @@ Whenever the approval or the acceptance of any member is required before any act
 
 
 
-**ARTICLE 63** 
+**Article 63** 
 ### Inaugural Meeting and Commencement of Operations
 
 
@@ -1522,5 +1534,531 @@ Whenever the approval or the acceptance of any member is required before any act
 
 Done at Paris on 29 May 1990 in a single original, whose English, French, German and Russian texts are equally authentic, which shall be deposited in the archives of the Depository which shall transmit a duly certified copy to each of the other prospective members whose names are set forth in Annex A.
 
+
+
+### **ANNEX A** 
+## Initial Subscriptions to the Authorized Capital Stock for Prospective Members(*) Which May Become Members in Accordance with Article 61
+<table>
+<tr>
+<th></th>
+<th></th>
+<th>NUMBER OF SHARES</th>
+<th>CAPITAL SUBSCRIPTION
+
+(in million ECUs)
+
+
+
+</th>
+</tr>
+<tr>
+<td>A — European Communities</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>(a)
+
+</td>
+<td>Belgium</td>
+<td>22 800</td>
+<td>228.00</td>
+</tr>
+<tr>
+<td>Denmark</td>
+<td>12 000</td>
+<td>120.00</td>
+</tr>
+<tr>
+<td>France</td>
+<td>85 175</td>
+<td>851.75</td>
+</tr>
+<tr>
+<td>Germany, Federal Republic of</td>
+<td>85 175</td>
+<td>851.75</td>
+</tr>
+<tr>
+<td>Greece</td>
+<td>6 500</td>
+<td>65.00</td>
+</tr>
+<tr>
+<td>Ireland</td>
+<td>3 000</td>
+<td>30.00</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>85 175</td>
+<td>851.75</td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td>2 000</td>
+<td>20.00</td>
+</tr>
+<tr>
+<td>Netherlands</td>
+<td>24 800</td>
+<td>248.00</td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>4 200</td>
+<td>42.00</td>
+</tr>
+<tr>
+<td>Spain</td>
+<td>34 000</td>
+<td>340.00</td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td>85 175</td>
+<td>851.75</td>
+</tr>
+<tr>
+<td>(b)
+
+</td>
+<td>European Economic Community</td>
+<td>30 000</td>
+<td>300.00</td>
+</tr>
+<tr>
+<td>European Investment Bank</td>
+<td>30 000</td>
+<td>300.00</td>
+</tr>
+<tr>
+<td>B — Other European Countries</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Austria</td>
+<td>22 800</td>
+<td>228.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Cyprus</td>
+<td>1 000</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Finland</td>
+<td>12 500</td>
+<td>125.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Iceland</td>
+<td>1 000</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Israël</td>
+<td>6 500</td>
+<td>65.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Liechtenstein</td>
+<td>200</td>
+<td>2.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Malta</td>
+<td>100</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Norway</td>
+<td>12 500</td>
+<td>125.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Sweden</td>
+<td>22 800</td>
+<td>228.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Switzerland</td>
+<td>22 800</td>
+<td>228.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Turkey</td>
+<td>11 500</td>
+<td>115.00</td>
+</tr>
+<tr>
+<td>C — Recipient Countries</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Bulgaria</td>
+<td>7 900</td>
+<td>79.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Czechoslovakia</td>
+<td>12 800</td>
+<td>128.00</td>
+</tr>
+<tr>
+<td></td>
+<td>German Democratic Republic</td>
+<td>15 500</td>
+<td>155.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Hungary</td>
+<td>7 900</td>
+<td>79.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Poland</td>
+<td>12 800</td>
+<td>128.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Romania</td>
+<td>4 800</td>
+<td>48.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Union of Soviet Socialist Republics</td>
+<td>60 000</td>
+<td>600.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Yugoslavia</td>
+<td>12 800</td>
+<td>128.00</td>
+</tr>
+<tr>
+<td>D — Non-European Countries</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Australia</td>
+<td>10 000</td>
+<td>100.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Canada</td>
+<td>34 000</td>
+<td>340.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Egypt</td>
+<td>1 000</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Japan</td>
+<td>85 175</td>
+<td>851.75</td>
+</tr>
+<tr>
+<td></td>
+<td>Korea, Republic of</td>
+<td>6 500</td>
+<td>65.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Mexico</td>
+<td>3 000</td>
+<td>30.00</td>
+</tr>
+<tr>
+<td></td>
+<td>Morocco</td>
+<td>1 000</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td></td>
+<td>New Zealand</td>
+<td>1 000</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td></td>
+<td>United States of America</td>
+<td>100 000</td>
+<td>1 000.00</td>
+</tr>
+<tr>
+<td>E — Non-allocated shares</td>
+<td>   125</td>
+<td>   1.25</td>
+</tr>
+<tr>
+<td></td>
+<td>TOTAL</td>
+<td>1 000 000</td>
+<td>10 000.00</td>
+</tr>
+</table>
+
+
+<a name='fn_E-13.5_EN_hq_7970'><sup>(*)</sup></a>: Prospective members are listed under the above categories only for the purpose of this Agreement. Recipient countries are referred to elsewhere in this Agreement as Central and Eastern European countries.<br />
+
+
+### **ANNEX B** 
+
+### Section A — Election of Directors by Governors Representing Belgium, Denmark, France, the Federal Republic of Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Spain, the United Kingdom, the European Economic Community and the European Investment Bank (Hereinafter Referred to as Section A Governors).
+
+
+**1** The provisions set out below in this Section shall apply exclusively to this Section.
+
+
+
+**2** Candidates for the office of Director shall be nominated by Section A Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section A Governors.
+
+
+
+**3** Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+
+
+
+**4** Subject to paragraph 10 of this Section, the 11 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 4.5 per cent of the total of the votes which can be cast (eligible votes) in Section A shall be considered elected.
+
+
+
+**5** Subject to paragraph 10 of this Section, if 11 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 11 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only :
+
+**(a)** those Governors who voted in the first ballot for a person not elected; and
+
+
+
+**(b)** those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast for that person above 5.5 per cent of the eligible votes.
+
+
+
+
+
+**6** In determining whether the votes cast by a Governor are deemed to have raised the total votes cast for any person above 5.5 per cent of the eligible votes, the 5.5 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 5.5 per cent is reached.
+
+
+
+**7** Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 4.5 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 5.5 per cent and shall not be eligible to vote in a further ballot.
+
+
+
+**8** Subject to paragraph 10 of this Section, if, after the second ballot, 11 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 11 persons have been elected, provided that, if at any stage 10 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 11th may be elected by a simple majority of the remaining votes cast.
+
+
+
+**9** In the case of an increase or decrease in the number of Directors to be elected by Section A Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
+
+
+
+**10** So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 2.4 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
+
+
+
+### Section B — Election of Directors by Governors Representing Other Countries.
+
+
+### Section B (i) — Election of Directors by Governors representing those countries listed in Annex A as Central and Eastern European Countries (recipient countries) (hereinafter referred to as Section B (i) Governors).
+
+
+**1** The provisions set out below in this Section shall apply exclusively to this Section.
+
+
+
+**2** Candidates for the office of Director shall be nominated by Section B (i) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (i) Governors.
+
+
+
+**3** Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+
+
+
+**4** Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 12 per cent of the total of the votes which can be cast (eligible votes) in Section B (i) shall be considered elected.
+
+
+
+**5** Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only :
+
+**(a)** those Governors who voted in the first ballot for a person not elected; and
+
+
+
+**(b)** those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast for that person above 13 per cent of the eligible votes.
+
+
+
+
+
+**6** In determining whether the votes cast by a Governor are deemed to have raised the total votes cast for any person above 13 per cent of the eligible votes, the 13 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 13 per cent is reached.
+
+
+
+**7** Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 12 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 13 per cent and shall not be eligible to vote in a further ballot.
+
+
+
+**8** Subject to paragraph 10 of this Section, if, after the second ballot, 4 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 4 persons have been elected, provided that, if at any stage 3 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 4th may be elected by a simple majority of the remaining votes cast.
+
+
+
+**9** In the case of an increase or decrease in the number of Directors to be elected by Section B (i) Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
+
+
+
+**10** So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 2.8 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
+
+
+
+### Section B (ii) — Election of Directors by Governors representing those countries listed in Annex A as other European countries (hereinafter referred to as Section B (ii) Governors).
+
+
+**1** The provisions set out below in this Section shall apply exclusively to this Section.
+
+
+
+**2** Candidates for the office of Director shall be nominated by Section B (ii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (ii) Governors.
+
+
+
+**3** Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+
+
+
+**4** Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 20.5 per cent of the votes which can be cast (eligible votes) in Section B (ii) shall be considered elected.
+
+
+
+**5** Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only :
+
+**(a)** those Governors who voted in the first ballot for a person not elected; and
+
+
+
+**(b)** those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast for that person above 21.5 per cent of the eligible votes.
+
+
+
+
+
+**6** In determining whether the votes cast by a Governor are deemed to have raised the total votes cast for any person above 21.5 per cent of the eligible votes, the 21.5 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 21.5 per cent is reached.
+
+
+
+**7** Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 20.5 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 21.5 per cent and shall not be eligible to vote in a further ballot.
+
+
+
+**8** Subject to paragraph 10 of this Section, if, after the second ballot, 4 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 4 persons have been elected, provided that, if at any stage 3 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 4th may be elected by a simple majority of the remaining votes cast.
+
+
+
+**9** In the case of an increase or decrease in the number of Directors to be elected by Section B (ii) Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
+
+
+
+**10** So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 2.8 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
+
+
+
+### Section B (iii) — Election of Directors by Governors representing those countries listed in Annex A as Non-European Countries (hereinafter referred to as Section B (iii) Governors).
+
+
+**1** The provisions set out below in this Section shall apply exclusively to this Section.
+
+
+
+**2** Candidates for the office of Director shall be nominated by Section B (iii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (iii) Governors.
+
+
+
+**3** Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
+
+
+
+**4** Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 8 per cent of the total of the votes which can be cast (eligible votes) in Section B (iii) shall be considered elected.
+
+
+
+**5** Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only :
+
+**(a)** those Governors who voted in the first ballot for a person not elected; and
+
+
+
+**(b)** those Governors whose votes for a person elected are deemed under paragraphs 6 and 7 below of this Section to have raised the votes cast for that person above 9 per cent of the eligible votes.
+
+
+
+
+
+**6** In determining whether the votes cast by a Governor are deemed to have raised the total votes cast for any person above 9 per cent of the eligible votes, the 9 per cent shall be deemed to include, first, the votes of the Governor casting the largest number of votes for such person, then the votes of the Governor casting the next largest number and so on, until 9 per cent is reached.
+
+
+
+**7** Any Governor, part of whose votes must be counted in order to raise the total of votes cast for any person above 8 per cent shall be considered as casting all of his or her votes for such person, even if the total votes for such person thereby exceed 9 per cent and shall not be eligible to vote in a further ballot.
+
+
+
+**8** Subject to paragraph 10 of this Section, if, after the second ballot, 4 persons have not been elected, further ballots shall be held in conformity with the principles and procedures laid down in this Section, until 4 persons have been elected, provided that, if at any stage 3 persons are elected, notwithstanding the provisions of paragraph 4 of this Section, the 4th may be elected by a simple majority of the remaining votes cast.
+
+
+
+**9** In the case of an increase or decrease in the number of Directors to be elected by Section B (iii) Governors, the minimum and maximum percentages specified in paragraphs 4, 5, 6 and 7 of this Section shall be appropriately adjusted by the Board of Governors.
+
+
+
+**10** So long as any Signatory, or group of Signatories, whose share of the total amount of capital subscriptions provided in Annex A is more than 5 per cent, has not deposited its instrument or their instruments of ratification, approval or acceptance, there shall be no election for one Director in respect of each such Signatory or group of Signatories. The Governor or Governors representing such a Signatory or group of Signatories shall elect a Director in respect of each Signatory or group of Signatories, immediately after the Signatory becomes a member or the group of Signatories become members. Such Director shall be deemed to have been elected by the Board of Governors at its inaugural meeting, in accordance with paragraph 3 of Article 26 of this Agreement, if he or she is elected during the period in which the first Board of Directors shall hold office.
+
+
+
+### Section C — Arrangements for the Election of Directors Representing Countries Not Listed in Annex A.
+
+
+If the Board of Governors decides, in accordance with paragraph 3 of Article 26 of this Agreement, to increase or decrease the size, or revise the composition of the Board of Directors, in order to take into account changes in the number of members of the Bank, the Board of Governors shall first consider whether any amendments are required to this Annex, and may make any such amendments as it deems necessary as part of such decision.
+
+
+
+### Section D — Assignment of Votes.
+
+
+Any Governor who does not participate in voting for the election or whose vote does not contribute to the election of a Director under Section A or Section B (i) or Section B (ii) or Section B (iii) of this Annex may assign the votes to which he or she is entitled to an elected Director, provided that such Governor shall first have obtained the agreement of all those Governors who have elected that Director to such assignment.
+
+
+
+A decision by any Governor not to participate in voting for the election of a Director shall not affect the calculation of the eligible votes to be made under Section A, Section B (i), Section B (ii) or Section B (iii) of this Annex.
+
+
+
+> 1991, c. 12, Sch.; 2006, c. 4, s. 215.
 
 
