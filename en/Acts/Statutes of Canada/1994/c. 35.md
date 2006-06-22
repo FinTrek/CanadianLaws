@@ -478,6 +478,33 @@ as if those lands were reserves of a band within the meaning of that Act and as 
 
 
 
+**Definitions**
+
+**22.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***band*** has the same meaning as in section 2 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*bande*)
+
+***Indian*** has the same meaning as in section 2 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*Indien*)
+
+***reserve*** has the same meaning as in section 2 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
+
+***transition period***, in respect of a first nation, means the period beginning on the day of the year on which the first nation’s final agreement is brought into effect and ending on December 31 of that year. (*période de transition*)
+
+**Taxation exemption — former reserves**
+
+- **(2)** During the transition period of a first nation, income of a band or an Indian, other than an Indian enrolled under a final agreement that came into effect before the calendar year that includes the transition period, is exempt from taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if the *situs* of the income is on land of the first nation that was a reserve throughout the portion of that calendar year before the transition period.
+
+**Taxation exemption — Indians enrolled**
+
+- **(3)** During the transition period of a first nation, income of an Indian who is enrolled under the first nation’s final agreement and is resident in the Yukon is exempt from taxation under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if the *situs* of the income is on a reserve.
+> 2006, c. 4, s. 98.
+
+
+
+
+
 ## General
 
 
