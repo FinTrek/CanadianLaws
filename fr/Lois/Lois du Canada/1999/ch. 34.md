@@ -92,6 +92,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Capital-actions
+
+
+
+**Capital**
+
+**3.1** 
+
+- **(1)** Le capital de l’Office est de cent dollars. Ce montant est prélevé sur le Trésor par le ministre.
+
+**Actions**
+
+- **(2)** Le capital est réparti en dix actions d’une valeur nominale de dix dollars chacune, émises et attribuées au ministre pour le compte de Sa Majesté du chef du Canada.
+
+**Enregistrement**
+
+- **(3)** Les actions émises sont enregistrées par l’Office au nom du ministre.
+> 2006, ch. 4, art. 217.
+
+
+
+
+
 ## Mission et pouvoirs
 
 
