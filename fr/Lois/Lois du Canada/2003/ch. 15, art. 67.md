@@ -7,10 +7,11 @@
 
 Sanctionnée sur le 19 juin 2003
 
-```
-[Édictée par l'article 67 du chapitre 15 des Lois du Canada (2003), en vigueur à la sanction le 19 juin 2003.]
-```
 ----------
+
+
+
+[Édictée par l’article 67 du chapitre 15 des Lois du Canada (2003), en vigueur à la sanction le 19 juin 2003.]
 
 
 
@@ -437,7 +438,7 @@ où :
 
 
 **PARTIE 2** 
-## Taxe de vente des premières nations — Québec
+## Taxe de vente des premières nations — provinces visées
 
 
 
@@ -449,18 +450,22 @@ où :
 
 **17** Les définitions qui suivent s’appliquent à la présente partie et à l’annexe 2.
 
-***conseil de bande*** S’entend au sens de conseil de la bande, au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***conseil de bande*** S’entend au sens de conseil de la bande, au paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council of the band*)
 
-***directe*** Pour distinguer une taxe directe d’une taxe indirecte, a le même sens qu’à la catégorie 2 de l’article 92 de la Loi constitutionnelle de 1867.
+***directe*** Pour distinguer une taxe directe d’une taxe indirecte, a le même sens qu’à la catégorie 2 de l’article 92 de la Loi constitutionnelle de 1867. (*direct*)
 
-***loi québécoise parallèle*** En ce qui a trait à un texte législatif de bande, le texte législatif du Québec auquel le texte législatif de bande est similaire, ou celles de ses dispositions auxquelles il est similaire.
+***loi provinciale parallèle*** En ce qui concerne un texte législatif de bande, le texte législatif de la province visée dont le nom figure à l’annexe 2 en regard du nom du conseil de bande ayant édicté le texte législatif de bande, ou toute disposition d’un texte législatif de cette province, auquel le texte législatif de bande est similaire. (*parallel provincial law*)
 
-***réserves au Québec*** En ce qui concerne une bande, ses réserves au Québec dont la description figure à l’annexe 2 en regard de son nom.
+***loi québécoise parallèle***[Abrogée, 2006, ch. 4, art. 92]
 
-***taxe de vente*** Toute taxe d’application générale payable par une personne selon le prix, la quantité ou la valeur, relativement à la consommation, à la fourniture, à la location, à l’utilisation ou à la vente d’un bien ou d’un service.
+***province visée*** Province dont le nom figure à l’annexe 2. (*specified province*)
 
-***texte législatif de bande*** Texte législatif édicté par un conseil de bande en vertu de l’article 23.
-> 2005, ch. 19, art. 10.
+***réserves au Québec***[Abrogée, 2006, ch. 4, art. 92]
+
+***taxe de vente*** Toute taxe d’application générale payable par une personne selon le prix, la quantité ou la valeur, relativement à la consommation, à la fourniture, à la location, à l’utilisation ou à la vente d’un bien ou d’un service. (*sales tax*)
+
+***texte législatif de bande*** Texte législatif édicté par un conseil de bande en vertu de l’article 23. (*band law*)
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 92.
 
 
 
@@ -505,8 +510,8 @@ où :
 
 **Application d’autres lois**
 
-**21** Si une loi du Québec prévoit qu’une ou plusieurs lois du Québec s’appliquent comme si la taxe imposée en vertu d’un texte législatif de bande était imposée en vertu d’une loi du Québec en particulier, les lois fédérales, à l’exception de la présente loi, s’appliquent comme si cette taxe était imposée en vertu de cette loi du Québec.
-> 2005, ch. 19, art. 10.
+**21** Si une loi d’une province visée prévoit qu’une ou plusieurs lois de la province s’appliquent comme si la taxe imposée en vertu d’un texte législatif de bande était imposée en vertu d’une loi particulière de la province, les lois fédérales, à l’exception de la présente loi, s’appliquent comme si cette taxe était imposée en vertu de cette loi particulière.
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 93.
 
 
 
@@ -518,8 +523,8 @@ où :
 
 **Pouvoir de conclure un accord**
 
-**22** Le conseil de bande peut, au nom de la bande, conclure avec le gouvernement du Québec un accord d’application relatif au texte législatif de bande qu’il a édicté.
-> 2005, ch. 19, art. 10.
+**22** Le conseil de bande peut, au nom de la bande, conclure avec le gouvernement de la province visée dont le nom figure à l’annexe 2, en regard du nom du conseil, un accord d’application relatif au texte législatif de bande qu’il a édicté.
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 93.
 
 
 
@@ -533,19 +538,20 @@ où :
 
 **23** 
 
-- **(1)** Le conseil de bande dont le nom figure à l’annexe 2 peut édicter un texte législatif qui impose, dans les limites des réserves de la bande au Québec, une taxe de vente directe et toute autre somme dont le paiement peut être exigé relativement à l’imposition de cette taxe.
+- **(1)** Le conseil de bande dont le nom figure à l’annexe 2 peut édicter un texte législatif qui impose une taxe de vente directe, ainsi que toute autre somme dont le paiement peut être exigé relativement à l’imposition de cette taxe, dans les limites des réserves de la bande — dont le nom ou la description figure à cette annexe en regard du nom du conseil — qui sont situées dans la province visée dont le nom figure à cette annexe en regard du nom du conseil.
 
-**Loi québécoise parallèle**
+**Loi provinciale parallèle**
 
-- **(2)** Un texte législatif ne peut être édicté en vertu du paragraphe (1) que s’il a une seule loi québécoise parallèle qui y est nommée expressément.
+- **(2)** Un texte législatif ne peut être édicté en vertu du paragraphe (1) que s’il se rattache à une seule loi provinciale parallèle qui y est nommée expressément.
 
 **Force de loi**
 
 - **(3)** Le texte législatif édicté en vertu du paragraphe (1) n’a force de loi que si, à la fois :
-	- **a)** un accord d’application entre le conseil de bande et le gouvernement du Québec relativement au texte est en vigueur;
-	- **b)** le texte est appliqué, et la taxe de vente directe qu’il impose est perçue, conformément à cet accord;
-	- **c)** le nom de la bande, le nom du conseil de bande et la description des réserves de la bande au Québec figurent à l’annexe 2;
-	- **d)** la loi québécoise parallèle qui s’y rattache est en vigueur.
+	- **a)** un accord d’application relativement au texte est en vigueur;
+	- **b)** cet accord a été conclu entre le conseil de bande et le gouvernement de la province visée dont le nom figure à l’annexe 2 en regard du nom du conseil;
+	- **c)** le texte est appliqué, et la taxe de vente directe qu’il impose est perçue, conformément à cet accord;
+	- **d)** le nom de la bande, le nom du conseil de bande, le nom ou la description des réserves de la bande dans les limites desquelles le texte s’applique et le nom de la province visée où ces réserves sont situées figurent à l’annexe 2, les uns en regard des autres;
+	- **e)** la loi provinciale parallèle à laquelle le texte se rattache est en vigueur.
 
 **Conformité à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
@@ -554,7 +560,7 @@ où :
 **Exclusion — droit criminel**
 
 - **(5)** La présente partie n’a pas pour effet de conférer au conseil de bande le pouvoir d’édicter des textes législatifs en matière de droit criminel.
-> 2005, ch. 19, art. 10.
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 94.
 
 
 
@@ -562,8 +568,8 @@ où :
 
 **Entrée en vigueur du texte législatif**
 
-**24** Sous réserve du paragraphe 23(3), le texte législatif de bande entre en vigueur à la date prévue dans l’accord d’application conclu avec le gouvernement du Québec relativement à ce texte.
-> 2005, ch. 19, art. 10.
+**24** Sous réserve du paragraphe 23(3), le texte législatif de bande entre en vigueur à la date prévue dans l’accord d’application conclu en vertu de l’article 22 relativement à ce texte.
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 95.
 
 
 
@@ -611,8 +617,8 @@ où :
 
 **Modification de l’annexe 2**
 
-**29** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter, en retrancher ou y changer le nom d’une bande, le nom d’un conseil de bande ou la description des réserves d’une bande au Québec.
-> 2005, ch. 19, art. 10.
+**29** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter, en retrancher ou y changer le nom d’une bande, le nom d’un conseil de bande, le nom ou la description des réserves d’une bande ou le nom d’une province visée.
+> 2005, ch. 19, art. 10; 2006, ch. 4, art. 96.
 
 
 
@@ -904,26 +910,29 @@ où :
 
 
 ### **ANNEXE 2** 
-**(articles 17, 23 et 29)**
+**(articles 17, 22, 23 et 29)**
 <table>
-<h4>Nom des bandes et des conseils de bande et description des réserves au Québec</h4>
+<h4>Nom des bandes et des conseils de bande, nom ou description des réserves et nom des provinces visées</h4>
 <tr>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
+<th>Colonne 4</th>
 </tr>
 <tr>
 <th>Bande</th>
-<th>Conseil de Bande</th>
-<th>Réserves au Québec</th>
+<th>Conseil de bande</th>
+<th>Réserves</th>
+<th>Province visée</th>
 </tr>
 <tr>
 <td>Montagnais Essipit</td>
 <td>Conseil des Montagnais Essipit</td>
 <td>Réserve des Montagnais Essipit</td>
+<td>Québec</td>
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97.
 
 
