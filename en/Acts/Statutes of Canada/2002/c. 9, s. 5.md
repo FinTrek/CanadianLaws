@@ -238,16 +238,16 @@ Version anglaise seulement***prescribed*** means
 **12** 
 
 - **(1)** Subject to subsection (3), if an air transportation service is acquired in Canada, the amount of the charge in respect of the service is
-	- **(a)** $4.67 for each chargeable emplanement included in the service, to a maximum of $9.35, if
+	- **(a)** $4.67 for each chargeable emplanement included in the service, to a maximum of $9.34, if
 		- **(i)** the service does not include transportation to a destination outside Canada, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(b)** $5.00 for each chargeable emplanement included in the service, to a maximum of $10.00, if
+	- **(b)** $4.95 for each chargeable emplanement included in the service, to a maximum of $9.90, if
 		- **(i)** the service does not include transportation to a destination outside Canada, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service;
 	- **(c)** $7.94 for each chargeable emplanement included in the service, to a maximum of $15.89, if
 		- **(i)** the service includes transportation to a destination outside Canada and does not include transportation to a destination outside the continental zone, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(d)** $8.50 for each chargeable emplanement included in the service, to a maximum of $17.00, if
+	- **(d)** $8.42 for each chargeable emplanement included in the service, to a maximum of $16.84, if
 		- **(i)** the service includes transportation to a destination outside Canada and does not include transportation to a destination outside the continental zone, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
 	- **(e)** $17.00, if the service includes transportation to a destination outside the continental zone.
@@ -258,7 +258,7 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** $7.94 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $15.89, if
 		- **(i)** the service does not include transportation to a destination outside the continental zone, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is required to be paid in respect of the service;
-	- **(b)** $8.50 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $17.00, if
+	- **(b)** $8.42 for each chargeable emplanement by an individual on an aircraft used to transport the individual to a destination outside Canada but within the continental zone, to a maximum of $16.84, if
 		- **(i)** the service does not include transportation to a destination outside the continental zone, and
 		- **(ii)** tax under subsection 165(1) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is not required to be paid in respect of the service; or
 	- **(c)** $17.00, if the service includes transportation to a destination outside the continental zone.
@@ -268,7 +268,7 @@ Version anglaise seulement***prescribed*** means
 - **(3)** The amount of the charge in respect of a prescribed air transportation service is the lesser of
 	- **(a)** the amount that is determined in respect of the service under subsection (1) or (2), as the case may be, and
 	- **(b)** the amount that is prescribed, or determined in accordance with prescribed rules, in respect of the service.
-> 2002, c. 9, s. 5 "12"; 2003, c. 15, s. 44; 2005, c. 19, s. 2, c. 30, s. 20.
+> 2002, c. 9, s. 5 "12"; 2003, c. 15, s. 44; 2005, c. 19, s. 2, c. 30, s. 20; 2006, c. 4, s. 33.
 
 
 
@@ -477,7 +477,19 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Extension of time**
 
-**25** The Minister may at any time extend, in writing, the time for filing a return or providing information under this Act.
+**25** 
+
+- **(1)** The Minister may at any time extend, in writing, the time for filing a return or providing information under this Act.
+
+**Effect of extension**
+
+- **(2)** If the Minister extends the time within which a person shall file a return or provide information under subsection (1),
+	- **(a)** the return shall be filed, or the information shall be provided, within the time so extended;
+	- **(b)** any amount payable that the person is required to report in the return shall be paid within the time so extended;
+	- **(c)** any interest payable under section 27 on the amount referred to in paragraph (b) shall be calculated as though the amount were required to be paid on the day on which the extended time expires; and
+	- **(d)** any penalty payable under section 53 in respect of the return shall be calculated as though the return were required to be filed on the day on which the extended time expires.
+> 2002, c. 9, s. 5 “25”; 2006, c. 4, s. 100.
+
 
 
 
@@ -523,6 +535,19 @@ and is property beneficially owned by Her Majesty despite any security interest 
 **Waiving or reducing interest**
 
 **30** The Minister may at any time waive or reduce any interest payable by a person under this Act.
+
+
+
+
+### Administrative Charge under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
+
+
+
+**Dishonoured instruments**
+
+**30.1** For the purposes of this Act and section 155.1 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any charge that becomes payable at any time by a person under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of an instrument tendered in payment or settlement of an amount that is payable under this Act is deemed to be an amount that becomes payable by the person at that time under this Act. In addition, Part II of the [Interest and Administrative Charges Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/188.md) does not apply to the charge and any debt under subsection 155.1(3) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of the charge is deemed to be extinguished at the time the total of the amount and any applicable interest under this Act is paid.
+> 2006, c. 4, s. 103.
+
 
 
 
@@ -1125,10 +1150,7 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 
 
-
-**Effect of extension for returns**
-
-**54** If the Minister extends the time within which a return of a person shall be filed, the return is filed at or before the expiry of the time so extended, and any amount that the person is required to pay with the return is paid at or before that time, no penalty under section 53 is payable in respect of the return or the amount.
+**54** [Repealed, 2006, c. 4, s. 106]
 
 
 
@@ -1142,9 +1164,9 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Failure to answer demand**
 
-**56** Every person who fails to file a return as and when required under a demand issued under section 26 is liable to a penalty equal to the greater of
-- **(a)** $250, and
-- **(b)** 5% of the amount payable under this Act by the person, for the fiscal month to which the demand applies, that was unpaid on the day that the return was due.
+**56** Every person who fails to file a return as and when required under a demand issued under section 26 is liable to a penalty of $250.
+> 2002, c. 9, s. 5 “56”; 2006, c. 4, s. 108.
+
 
 
 
@@ -1201,7 +1223,9 @@ exceeds
 
 **Saving**
 
-- **(2)** A person who is convicted of an offence under subsection (1) for a failure to comply with a provision of this Act is not liable to pay a penalty imposed under section 56 or 57 for the same failure, unless a notice of assessment for the penalty was issued before the information or complaint giving rise to the conviction was laid or made.
+- **(2)** A person who is convicted of an offence under subsection (1) for a failure to comply with a provision of this Act is not liable to pay a penalty imposed under section 53, 56 or 57 for the same failure, unless a notice of assessment for the penalty was issued before the information or complaint giving rise to the conviction was laid or made.
+> 2002, c. 9, s. 5 “61”; 2006, c. 4, s. 109.
+
 
 
 
@@ -1228,11 +1252,13 @@ exceeds
 
 **Penalty on conviction**
 
-- **(3)** A person who is convicted of an offence under subsection (1) is not liable to pay a penalty imposed under any of sections 56 to 58 for the same evasion or attempt unless a notice of assessment for that penalty was issued before the information or complaint giving rise to the conviction was laid or made.
+- **(3)** A person who is convicted of an offence under subsection (1) is not liable to pay a penalty imposed under any of sections 53 and 56 to 58 for the same evasion or attempt unless a notice of assessment for that penalty was issued before the information or complaint giving rise to the conviction was laid or made.
 
 **Stay of appeal**
 
 - **(4)** If, in any appeal under this Act, substantially the same facts are at issue as those that are at issue in a prosecution under this section, the Minister may file a stay of proceedings with the Tax Court and, on doing so, the proceedings before the Tax Court are stayed pending a final determination of the outcome of the prosecution.
+> 2002, c. 9, s. 5 “62”; 2006, c. 4, s. 110.
+
 
 
 
@@ -1511,8 +1537,11 @@ the memorial or document shall be accepted for filing, registration or other rec
 **Details in certificates and memorials**
 
 - **(12)** Despite any law of Canada or of the legislature of a province, in any certificate in respect of a debtor, any memorial evidencing a certificate or any writ or document issued for the purpose of collecting an amount certified, it is sufficient for all purposes
-	- **(a)** to set out, as the amount payable by the debtor, the total of amounts payable by the debtor without setting out the separate amounts making up that total; and
-	- **(b)** to refer to the rate of interest to be charged on the separate amounts making up the amount payable in general terms as interest at the prescribed rate under this Act applicable from time to time on amounts payable to the Receiver General, without indicating the specific rates of interest to be charged on each of the separate amounts or to be charged for any period.
+	- **(a)** to set out, as the amount payable by the debtor, the total of amounts payable by the debtor without setting out the separate amounts making up that total;
+	- **(b)** to refer to the rate of interest to be charged on the separate amounts making up the amount payable in general terms as interest at the prescribed rate under this Act applicable from time to time on amounts payable to the Receiver General, without indicating the specific rates of interest to be charged on each of the separate amounts or to be charged for any period; and
+	- **(c)** to refer to the penalty calculated under section 53 to be charged on the separate amounts making up the amount payable in general terms as a penalty under that section on amounts payable to the Receiver General.
+> 2002, c. 9, s. 5 “74”; 2006, c. 4, s. 112.
+
 
 
 
