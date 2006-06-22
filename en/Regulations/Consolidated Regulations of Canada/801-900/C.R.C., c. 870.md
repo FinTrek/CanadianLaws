@@ -42515,6 +42515,8 @@ Anastrozole<br />- <i>Anastrozole</i>
 
 Ancestim<br />- <i>Ancestim</i>
 
+Anti-thymocyte globulin<br />- <i>Sérum antithymocytes</i>
+
 Apiol, oil of<br />- <i>Apiol (huile d’)</i>
 
 Apraclonidine and its salts<br />- <i>Apraclonidine et ses sels</i>
@@ -42608,6 +42610,8 @@ Bishydroxycoumarin and its salts and derivatives<br />- <i>Bishydroxycoumarine, 
 Bisoprolol and its salts<br />- <i>Bisoprolol et ses sels</i>
 
 Bitolterol and its salts<br />- <i>Bitoltérol et ses sels</i>
+
+Bivalirudin<br />- <i>Bivalirudine</i>
 
 Bleomycin<br />- <i>Bléomycine</i>
 
@@ -42961,6 +42965,10 @@ Doxylamine and its salts, when sold or recommended for use in the nausea or vomi
 
 Droperidol and its salts<br />- <i>Dropéridol et ses sels</i>
 
+Drotrecogin<br />- <i>Drotrécogine</i>
+
+Dutasteride<br />- <i>Dutastéride</i>
+
 Econazole and its salts<br />- <i>Éconazole et ses sels</i>
 
 Ecothiophate and its salts<br />- <i>Écothiophate et ses sels</i>
@@ -42983,6 +42991,8 @@ Enalaprilat and its salts and derivatives<br />- <i>Énalaprilate, ses sels et d
 
 Enflurane<br />- <i>Enflurane</i>
 
+Enfuvirtide<br />- <i>Enfuvirtide</i>
+
 Enoxaparin and its salts<br />- <i>Énoxaparine et ses sels</i>
 
 Enrofloxacin<br />- <i>Enrofloxacine</i>
@@ -42998,6 +43008,8 @@ Eprosartan and its salts and derivatives<br />- <i>Éprosartan et ses sels et d�
 Epsiprantel<br />- <i>Epsiprantel</i>
 
 Eptifibatide and its salts<br />- <i>Eptifibatide et ses sels</i>
+
+Ertapenem and its salts<br />- <i>Ertapénem et ses sels</i>
 
 Erythropoietin<br />- <i>Érythropoiétine</i>
 
@@ -43032,6 +43044,8 @@ Etretinate<br />- <i>Étrétinate</i>
 Etymemazine and its salts<br />- <i>Étymémazine et ses sels</i>
 
 Exemestane<br />- <i>Exémestane</i>
+
+Ezetimibe<br />- <i>Ézétimibe</i>
 
 Famciclovir and its salts<br />- <i>Famciclovir et ses sels</i>
 
@@ -43097,7 +43111,11 @@ Follicle stimulating hormone<br />- <i>Folliculo-stimulante (hormone)</i>
 
 Fomepizole and its salts<br />- <i>Fomépizole et ses sels</i>
 
+Fondaparinux sodium<br />- <i>Fondaparinux sodique</i>
+
 Formestane and its derivatives<br />- <i>Formestane et ses dérivés</i>
+
+Formoterol and its salts<br />- <i>Formotérol et ses sels</i>
 
 Foscarnet sodium<br />- <i>Foscarnet sodique</i>
 
@@ -43271,6 +43289,8 @@ Leucovorin and its salts<br />- <i>Acide folinique et ses sels</i>
 
 Leuprolide and its salts<br />- <i>Leuproréline et ses sels</i>
 
+Levetiracetam<br />- <i>Lévétiracétam</i>
+
 Levobunolol and its salts<br />- <i>Levobunolol et ses sels</i>
 
 Levocabastine and its salts and derivatives<br />- <i>Lévocabastine, ses sels et dérivés</i>
@@ -43389,7 +43409,7 @@ Metomidate and its salts<br />- <i>Métomidate et ses sels</i>
 
 Metopimazine and its salts<br />- <i>Métopimazine et ses sels</i>
 
-Metropolol and its salts<br />- <i>Métoprolol et ses sels</i>
+Metoprolol and its salts<br />- <i>Métoprolol et ses sels</i>
 
 Metronidazole<br />- <i>Métronïdazole</i>
 
@@ -43483,11 +43503,15 @@ Nicotine and its salts, for human use, except
 
 
 
-**(c)** in the form of a transdermal patch with a delivery rate of 22 mg or less of nicotine per day; or
+**(c)** in the form of a transdermal patch with a delivery rate of 22 mg or less of nicotine per day;
 
 
 
-**(d)** in a form to be administered orally by means of an inhalation device delivering 4 mg or less of nicotine per dosage unit
+**(d)** in a form to be administered orally by means of an inhalation device delivering 4 mg or less of nicotine per dosage unit; or
+
+
+
+**(e)** in the form of a lozenge containing 4 mg or less of nicotine per dosage unit
 
 
 
@@ -43503,11 +43527,15 @@ Nicotine and its salts, for human use, except
 
 
 
-**c)** *sous forme de timbrecutané ayant un taux de libération de 22 mg ou moins de nicotine par jour;*
+**c)** *sous forme de timbre cutané ayant un taux de libération de 22 mg ou moins de nicotine par jour;*
 
 
 
-**d)** *sous une forme destinée à être administrée par voie orale au moyen d’uninhalateur libérant 4 mg ou moins de nicotine par unité posologique*
+**d)** *sous une forme destinée à être administrée par voie orale au moyen d’un inhalateur libérant 4 mg ou moins de nicotine par unité posologique;*
+
+
+
+**e)** *sous forme de pastille contenant 4 mg ou moins de nicotine par unité posologique*
 
 
 
@@ -43650,6 +43678,8 @@ Phenylindanedione and its derivatives<br />- <i>Phénylindanédione et ses déri
 Phenylpropanolamine and its salts and derivatives for veterinary use<br />- <i>Phénylpropanolamine, ses sels et dérivés, destinés à l'usage vétérinaire</i>
 
 Pilocarpine and its salts<br />- <i>Pilocarpine et ses sels</i>
+
+Pimecrolimus<br />- <i>Pimécrolimus</i>
 
 Pimozide<br />- <i>Pimozide</i>
 
@@ -43835,6 +43865,8 @@ Rosiglitazone and its salts<br />- <i>Rosiglitazone et ses sels</i>
 
 Rosoxacin and its salts<br />- <i>Rosoxacine et ses sels</i>
 
+Rosuvastatin and its salts<br />- <i>Rosuvastatine et ses sels</i>
+
 Salbutamol and its salts<br />- <i>Salbutamol et ses sels</i>
 
 Salmeterol and its salts<br />- <i>Salmetérol et ses sels</i>
@@ -43921,6 +43953,8 @@ Tegafur and its salts<br />- <i>Tégafur et ses sels</i>
 
 Tegaserod and its salts<br />- <i>Tégasérod et ses sels</i>
 
+Telithromycin and its salts and derivatives<br />- <i>Télithromycine et ses sels et dérivés</i>
+
 Telmisartan and its salts and derivatives<br />- <i>Telmisartan et ses sels et dérivés</i>
 
 Temozolomide and its salts<br />- <i>Témozolomide et ses sels</i>
@@ -43928,6 +43962,8 @@ Temozolomide and its salts<br />- <i>Témozolomide et ses sels</i>
 Tenecteplase and its salts and derivatives<br />- <i>Ténectéplase et ses sels et dérivés</i>
 
 Teniposide<br />- <i>Téniposide</i>
+
+Tenofovir and its salts and derivatives<br />- <i>Ténofovir et ses sels et dérivés</i>
 
 Tenoxicam and its salts<br />- <i>Ténoxicam et ses sels</i>
 
@@ -44034,6 +44070,8 @@ Trastuzumab<br />- <i>Trastuzumab</i>
 Trazodone and its salts<br />- <i>Trazodone et ses sels</i>
 
 Treosulfan<br />- <i>Tréosulfan</i>
+
+Treprostinil and its salts<br />- <i>Tréprostinil et ses sels</i>
 
 Tretamine<br />- <i>Trétamine</i>
 
@@ -44421,7 +44459,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
->  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1.
+>  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2.
 
 
 
