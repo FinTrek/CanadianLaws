@@ -230,50 +230,38 @@ Sanctionnée sur le 27 mars 2002
 
 **12** 
 
-- **(1)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis au Canada, le droit relatif au service correspond à :
-	- **a)
-** 4,67 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,35 $, si, à la fois :
+- **(1)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis au Canada, le droit relatif au service correspond à :
+	- **a)** 4,67 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,34 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’étranger,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **b)
-** 5 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 10 $, si, à la fois :
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
+	- **b)** 4,95 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,90 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’étranger,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
-	- **c)
-** 7,94 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 15,89 $, si, à la fois :
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
+	- **c)** 7,94 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 15,89 $, si, à la fois :
 		- **(i)** le service comprend le transport vers une destination à l’étranger et ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **d)
-** 8,50 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 17 $, si, à la fois :
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
+	- **d)** 8,42 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 16,84 $, si, à la fois :
 		- **(i)** le service comprend le transport vers une destination à l’étranger et ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
 	- **e)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
 
 **Droit — service acquis à l’étranger**
 
-- **(2)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis à l’étranger, le droit relatif au service correspond à :
-	- **a)
-** 7,94 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 15,89 $, si, à la fois :
+- **(2)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis à l’étranger, le droit relatif au service correspond à :
+	- **a)** 7,94 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 15,89 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **b)
-** 8,50 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 17 $, si, à la fois :
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
+	- **b)** 8,42 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 16,84 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
-		- **(ii)** la taxe prévue au paragraphe 165(1) de la 
-[Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
+		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
 	- **c)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
 
 **Droit déterminé par règlement**
 
-- **(3)** Le droit relatif à un service de transport aérien visé par règlement correspond au moins élevé des montants suivants :
+- **(3)** Le droit relatif à un service de transport aérien visé par règlement correspond au moins élevé des montants suivants :
 	- **a)** le montant déterminé relativement au service en application des paragraphes (1) ou (2), selon le cas;
 	- **b)** le montant déterminé par règlement, ou déterminé selon des règles prévues par règlement, relativement au service.
-> 2002, ch. 9, art. 5 « 12 »; 2003, ch. 15, art. 44; 2005, ch. 19, art. 2, ch. 30, art. 20.
+> 2002, ch. 9, art. 5 « 12 »; 2003, ch. 15, art. 44; 2005, ch. 19, art. 2, ch. 30, art. 20; 2006, ch. 4, art. 33.
 
 
 
@@ -482,7 +470,19 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Prorogation**
 
-**25** Le ministre peut, en tout temps, par écrit, proroger le délai imparti pour produire une déclaration ou communiquer des renseignements en vertu de la présente loi.
+**25** 
+
+- **(1)** Le ministre peut, en tout temps, par écrit, proroger le délai imparti pour produire une déclaration ou communiquer des renseignements en vertu de la présente loi.
+
+**Effet de la prorogation**
+
+- **(2)** Les règles suivantes s’appliquent lorsque le ministre proroge le délai :
+	- **a)** la déclaration doit être produite, ou les renseignements communiqués, dans le délai prorogé;
+	- **b)** les sommes exigibles à indiquer dans la déclaration doivent être acquittées dans le délai prorogé;
+	- **c)** les intérêts exigibles en vertu de l’article 27 sur les sommes visées à l’alinéa b) sont calculés comme si ces sommes devaient être payées au plus tard à l’expiration du délai prorogé;
+	- **d)** les pénalités exigibles en vertu de l’article 53 au titre de la déclaration sont calculées comme si la déclaration devait être produite au plus tard à l’expiration du délai prorogé.
+> 2002, ch. 9, art. 5 « 25 »; 2006, ch. 4, art. 100.
+
 
 
 
@@ -528,6 +528,19 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 **Renonciation ou réduction — intérêts**
 
 **30** Le ministre peut, en tout temps, réduire les intérêts à payer par une personne en application de la présente loi, ou y renoncer.
+
+
+
+
+### Frais administratifs prévus par la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)
+
+
+
+**Effets refusés**
+
+**30.1** Pour l’application de la présente loi et de l’article 155.1 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les frais qui deviennent payables par une personne à un moment donné en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) relativement à un effet offert en paiement ou en règlement d’une somme à payer en vertu de la présente loi sont réputés être une somme qui devient payable par la personne à ce moment en vertu de la présente loi. En outre, la partie II du [Règlement sur les intérêts et les frais administratifs](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/188.md) ne s’applique pas aux frais, et toute créance relative à ces frais, visée au paragraphe 155.1(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), est réputée avoir été éteinte au moment où le total de la somme et des intérêts applicables en vertu de la présente loi est versé.
+> 2006, ch. 4, art. 103.
+
 
 
 
@@ -1117,10 +1130,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 
 
-
-**Effet de la prorogation**
-
-**54** Si le ministre proroge le délai de production de la déclaration d’une personne, que la déclaration est produite dans le délai prorogé et qu’une somme dont la personne est redevable selon la déclaration est payée dans ce délai, la pénalité prévue à l’article 53 n’est pas à payer relativement à la déclaration ou à la somme.
+**54** [Abrogé, 2006, ch. 4, art. 106]
 
 
 
@@ -1134,9 +1144,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Défaut de donner suite à une mise en demeure**
 
-**56** Quiconque ne se conforme pas à une mise en demeure exigeant la production d’une déclaration en application de l’article 26 est passible d’une pénalité égale au plus élevé des montants suivants :
-- **a)** 250 $;
-- **b)** le montant représentant 5 % de la somme exigible de la personne en vertu de la présente loi, pour le mois d’exercice indiqué dans la mise en demeure, qui était impayée à la date d’échéance de production de la déclaration.
+**56** Quiconque ne se conforme pas à une mise en demeure exigeant la production d’une déclaration en application de l’article 26 est passible d’une pénalité de 250 $.
+> 2002, ch. 9, art. 5 « 56 »; 2006, ch. 4, art. 108.
+
 
 
 
@@ -1183,11 +1193,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **61** 
 
-- **(1)** Toute personne qui ne produit pas ou ne remplit pas une déclaration selon les modalités prévues sous le régime de la présente loi ou qui ne remplit pas une obligation prévue aux paragraphes 37(5) ou (8) ou à l’article 38 ou encore qui contrevient à une ordonnance rendue en application de l’article 66 commet une infraction et, en plus de toute pénalité prévue par ailleurs, est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende minimale de 1 000 $ et maximale de 25 000 $ et d’un emprisonnement maximal de douze mois ou de l’une de ces peines.
+- **(1)** Toute personne qui ne produit pas ou ne remplit pas une déclaration selon les modalités prévues sous le régime de la présente loi ou qui ne remplit pas une obligation prévue aux paragraphes 37(5) ou (8) ou à l’article 38 ou encore qui contrevient à une ordonnance rendue en application de l’article 66 commet une infraction et, en plus de toute pénalité prévue par ailleurs, est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende minimale de 1 000 $ et maximale de 25 000 $ et d’un emprisonnement maximal de douze mois ou de l’une de ces peines.
 
 **Réserve**
 
-- **(2)** La personne déclarée coupable d’une infraction prévue au paragraphe (1) n’est passible de la pénalité prévue aux articles 56 ou 57 relativement aux mêmes faits que si un avis de cotisation concernant la pénalité a été envoyé avant que la dénonciation ou la plainte qui a donné lieu à la déclaration de culpabilité n’ait été déposée ou faite.
+- **(2)** La personne déclarée coupable d’une infraction prévue au paragraphe (1) n’est passible de la pénalité prévue aux articles 53, 56 ou 57 relativement aux mêmes faits que si un avis de cotisation concernant la pénalité a été envoyé avant que la dénonciation ou la plainte qui a donné lieu à la déclaration de culpabilité n’ait été déposée ou faite.
+> 2002, ch. 9, art. 5 « 61 »; 2006, ch. 4, art. 109.
+
 
 
 
@@ -1196,9 +1208,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **62** 
 
-- **(1)** Commet une infraction quiconque, selon le cas :
+- **(1)** Commet une infraction quiconque, selon le cas :
 	- **a)** fait des déclarations fausses ou trompeuses, ou participe ou consent à leur énonciation, dans une déclaration, une demande, un certificat, un registre ou une réponse produits ou faits en vertu de la présente loi;
-	- **b)** pour éluder le paiement d’une somme exigible en vertu de la présente loi ou pour obtenir un remboursement sans y avoir droit aux termes de celle-ci :
+	- **b)** pour éluder le paiement d’une somme exigible en vertu de la présente loi ou pour obtenir un remboursement sans y avoir droit aux termes de celle-ci :
 		- **(i)** détruit, modifie, mutile ou cache les registres d’une personne, ou en dispose autrement,
 		- **(ii)** fait des inscriptions fausses ou trompeuses, ou consent à leur accomplissement, ou omet d’inscrire un détail important dans les registres d’une personne, ou consent à cette omission;
 	- **c)** volontairement, de quelque manière que ce soit, élude ou tente d’éluder l’observation de la présente loi ou le paiement d’une somme exigible en vertu de celle-ci;
@@ -1207,18 +1219,20 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Peine**
 
-- **(2)** Quiconque commet l’infraction prévue au paragraphe (1) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et, en plus de toute pénalité prévue par ailleurs, est passible :
-	- **a)** soit d’une amende au moins égale au montant représentant 50 % de la somme exigible qu’il a tenté d’éluder, ou du remboursement qu’il a cherché à obtenir, sans dépasser le montant représentant 200 % de cette somme ou de ce remboursement, ou, si cette somme n’est pas vérifiable, d’une amende minimale de 1 000 $ et maximale de 25 000 $;
+- **(2)** Quiconque commet l’infraction prévue au paragraphe (1) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et, en plus de toute pénalité prévue par ailleurs, est passible :
+	- **a)** soit d’une amende au moins égale au montant représentant 50 % de la somme exigible qu’il a tenté d’éluder, ou du remboursement qu’il a cherché à obtenir, sans dépasser le montant représentant 200 % de cette somme ou de ce remboursement, ou, si cette somme n’est pas vérifiable, d’une amende minimale de 1 000 $ et maximale de 25 000 $;
 	- **b)** soit d’un emprisonnement maximal de dix-huit mois;
 	- **c)** soit de l’amende prévue à l’alinéa a) et d’un emprisonnement maximal de dix-huit mois.
 
 **Réserve**
 
-- **(3)** La personne déclarée coupable d’une infraction prévue au paragraphe (1) n’est passible de la pénalité prévue à l’un des articles 56 à 58 relativement à la même évasion ou tentative d’évasion que si un avis de cotisation concernant la pénalité a été envoyé avant que la dénonciation ou la plainte qui a donné lieu à la déclaration de culpabilité n’ait été déposée ou faite.
+- **(3)** La personne déclarée coupable d’une infraction prévue au paragraphe (1) n’est passible de la pénalité prévue à l’un des articles 53 et 56 à 58 relativement à la même évasion ou tentative d’évasion que si un avis de cotisation concernant la pénalité a été envoyé avant que la dénonciation ou la plainte qui a donné lieu à la déclaration de culpabilité n’ait été déposée ou faite.
 
 **Suspension d’appel**
 
 - **(4)** Le ministre peut demander la suspension d’un appel interjeté en vertu de la présente loi devant la Cour de l’impôt si les faits qui y sont débattus sont pour la plupart les mêmes que ceux qui font l’objet de poursuites entamées en vertu du présent article. Dès lors, l’appel est suspendu en attendant le résultat des poursuites.
+> 2002, ch. 9, art. 5 « 62 »; 2006, ch. 4, art. 110.
+
 
 
 
@@ -1464,7 +1478,7 @@ Loi sur la médiation en matière d'endettement agricole.
 
 **Charge sur un bien**
 
-- **(4)** Tout document délivré par la Cour fédérale et faisant preuve du contenu d’un certificat enregistré à l’égard d’un débiteur, tout bref de ce tribunal délivré au titre du certificat ou toute notification du document ou du bref (le document, le bref ou la notification étant appelé « extrait » au présent article) peut être produit, enregistré ou autrement inscrit en vue de grever d’une sûreté, d’une priorité ou d’une autre charge un bien du débiteur situé dans une province, ou un droit sur un tel bien, de la même manière que peut l’être, en application de la loi provinciale, un document faisant preuve :
+- **(4)** Tout document délivré par la Cour fédérale et faisant preuve du contenu d’un certificat enregistré à l’égard d’un débiteur, tout bref de ce tribunal délivré au titre du certificat ou toute notification du document ou du bref (le document, le bref ou la notification étant appelé « extrait » au présent article) peut être produit, enregistré ou autrement inscrit en vue de grever d’une sûreté, d’une priorité ou d’une autre charge un bien du débiteur situé dans une province, ou un droit sur un tel bien, de la même manière que peut l’être, en application de la loi provinciale, un document faisant preuve :
 	- **a)** soit du contenu d’un jugement rendu par la cour supérieure de la province contre une personne pour une dette de celle-ci;
 	- **b)** soit d’une somme à payer ou à remettre par une personne dans la province au titre d’une créance de Sa Majesté du chef de la province.
 
@@ -1474,7 +1488,7 @@ Loi sur la médiation en matière d'endettement agricole.
 
 **Procédures engagées à la faveur d’un extrait**
 
-- **(6)** L’extrait produit, enregistré ou autrement inscrit dans une province en application du paragraphe (4) peut, de la même manière et dans la même mesure que s’il s’agissait d’un document faisant preuve du contenu d’un jugement visé à l’alinéa (4)a) ou d’une somme visée à l’alinéa (4)b), faire l’objet dans la province de procédures visant notamment :
+- **(6)** L’extrait produit, enregistré ou autrement inscrit dans une province en application du paragraphe (4) peut, de la même manière et dans la même mesure que s’il s’agissait d’un document faisant preuve du contenu d’un jugement visé à l’alinéa (4)a) ou d’une somme visée à l’alinéa (4)b), faire l’objet dans la province de procédures visant notamment :
 	- **a)** à exiger le paiement de la somme attestée par l’extrait, des intérêts y afférents et des frais et dépens payés ou engagés en vue de la production, de l’enregistrement ou autre inscription de l’extrait ou en vue de l’exécution des procédures de recouvrement de la somme;
 	- **b)** à renouveler ou autrement prolonger l’effet de la production, de l’enregistrement ou autre inscription de l’extrait;
 	- **c)** à annuler ou à retirer l’extrait dans son ensemble ou uniquement en ce qui concerne un ou plusieurs biens ou droits sur lesquels il a une incidence;
@@ -1499,15 +1513,18 @@ Toutefois, dans le cas où la loi provinciale exige — soit dans le cadre de ce
 
 **Présomption de garantie**
 
-- **(11)** La sûreté, la priorité ou l’autre charge créée selon le paragraphe (5) par la production, l’enregistrement ou autre inscription d’un extrait en application du paragraphe (4) qui est enregistrée en conformité avec le paragraphe 87(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) est réputée, à la fois :
+- **(11)** La sûreté, la priorité ou l’autre charge créée selon le paragraphe (5) par la production, l’enregistrement ou autre inscription d’un extrait en application du paragraphe (4) qui est enregistrée en conformité avec le paragraphe 87(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) est réputée, à la fois :
 	- **a)** être une réclamation garantie et, sous réserve du paragraphe 87(2) de cette loi, prendre rang comme réclamation garantie aux termes de cette loi;
 	- **b)** être une réclamation visée à l’alinéa 86(2)a) de cette loi.
 
 **Contenu des certificats et extraits**
 
-- **(12)** Malgré les lois fédérales et provinciales, dans le certificat fait à l’égard d’un débiteur, dans l’extrait faisant preuve du contenu d’un tel certificat ou encore dans le bref ou document délivré en vue du recouvrement d’une somme attestée dans un tel certificat, il suffit, à toutes fins utiles :
-	- **a)** d’une part, d’indiquer, comme somme exigible du débiteur, le total des sommes exigibles de celui-ci et non les sommes distinctes qui forment ce total;
-	- **b)** d’autre part, d’indiquer de façon générale le taux d’intérêt réglementaire en application de la présente loi sur les sommes à payer au receveur général comme étant le taux applicable aux sommes distinctes qui forment la somme exigible, sans détailler les taux applicables à chaque somme distincte ou pour une période donnée.
+- **(12)** Malgré les lois fédérales et provinciales, dans le certificat fait à l’égard d’un débiteur, dans l’extrait faisant preuve du contenu d’un tel certificat ou encore dans le bref ou document délivré en vue du recouvrement d’une somme attestée dans un tel certificat, il suffit, à toutes fins utiles :
+	- **a)** d’indiquer, comme somme exigible du débiteur, le total des sommes exigibles de celui-ci et non les sommes distinctes qui forment ce total;
+	- **b)** d’indiquer de façon générale le taux d’intérêt réglementaire en application de la présente loi sur les sommes à payer au receveur général comme étant le taux applicable aux sommes distinctes qui forment la somme exigible, sans détailler les taux applicables à chaque somme distincte ou pour une période donnée;
+	- **c)** d’indiquer de façon générale la pénalité calculée selon l’article 53 sur les sommes à payer au receveur général comme étant la pénalité calculée selon cet article sur les sommes distinctes qui forment la somme exigible.
+> 2002, ch. 9, art. 5 « 74 »; 2006, ch. 4, art. 112.
+
 
 
 
