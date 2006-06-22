@@ -172,11 +172,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**26** 
-
-- **(1)** [Amendment]
-
-- **(2)** Subsection (1) comes into force on March 1, 2009.
+**26** [Repealed, 2006, c. 4, s. 90]
 
 
 
