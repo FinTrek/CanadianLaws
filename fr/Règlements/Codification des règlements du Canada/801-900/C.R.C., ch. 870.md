@@ -45121,6 +45121,8 @@ Bisoprolol et ses sels<br />- <i>Bisoprolol and its salts</i>
 
 Bitoltérol et ses sels<br />- <i>Bitolterol and its salts</i>
 
+Bivalirudine<br />- <i>Bivalirudin</i>
+
 Bléomycine<br />- <i>Bleomycin</i>
 
 Bosentan et ses sels et dérivés<br />- <i>Bosentan and its salts and derivatives</i>
@@ -45481,6 +45483,10 @@ Doxylamine et ses sels lorsque vendus ou recommandés contre les nausées ou vom
 
 Dropéridol et ses sels<br />- <i>Droperidol and its salts</i>
 
+Drotrécogine<br />- <i>Drotrecogin</i>
+
+Dutastéride<br />- <i>Dutasteride</i>
+
 Éconazole et ses sels<br />- <i>Econazole and its salts</i>
 
 Écothiophate et ses sels<br />- <i>Ecothiophate and its salts</i>
@@ -45503,6 +45509,8 @@ Embutramide<br />- <i>Embutramide</i>
 
 Enflurane<br />- <i>Enflurane</i>
 
+Enfuvirtide<br />- <i>Enfuvirtide</i>
+
 Énoxaparine et ses sels<br />- <i>Enoxaparin and its salts</i>
 
 Enrofloxacine<br />- <i>Enrofloxacin</i>
@@ -45518,6 +45526,8 @@ Entacapone<br />- <i>Entacapone</i>
 Epsiprantel<br />- <i>Epsiprantel</i>
 
 Eptifibatide et ses sels<br />- <i>Eptifibatide and its salts</i>
+
+Ertapénem et ses sels<br />- <i>Ertapenem and its salts</i>
 
 Érythropoiétine<br />- <i>Erythropoietin</i>
 
@@ -45552,6 +45562,8 @@ Estramustine et ses sels<br />- <i>Estramustine and its salts</i>
 Étymémazine et ses sels<br />- <i>Etymemazine and its salts</i>
 
 Exémestane<br />- <i>Exemestane</i>
+
+Ézétimibe<br />- <i>Ezetimibe</i>
 
 Famciclovir et ses sels<br />- <i>Famciclovir and its salts</i>
 
@@ -45615,7 +45627,11 @@ Folliculo-stimulante (hormone)<br />- <i>Follicle stimulating hormone</i>
 
 Fomépizole et ses sels<br />- <i>Fomepizole and its salts</i>
 
+Fondaparinux sodique<br />- <i>Fondaparinux sodium</i>
+
 Formestane et ses dérivés<br />- <i>Formestane and its derivatives</i>
+
+Formotérol et ses sels<br />- <i>Formoterol and its salts</i>
 
 Foscarnet sodique<br />- <i>Foscarnet sodium</i>
 
@@ -45785,6 +45801,8 @@ Létrozole<br />- <i>Letrozole</i>
 
 Leuproréline et ses sels<br />- <i>Leuprolide and its salts</i>
 
+Lévétiracétam<br />- <i>Levetiracetam</i>
+
 Levobunolol et ses sels<br />- <i>Levobunolol and its salts</i>
 
 Lévocabastine, ses sels et dérivés<br />- <i>Levocabastine and its salts and derivatives</i>
@@ -45901,7 +45919,7 @@ Métomidate et ses sels<br />- <i>Metomidate and its salts</i>
 
 Métopimazine et ses sels<br />- <i>Metopimazine and its salts</i>
 
-Métoprolol et ses sels<br />- <i>Metropolol and its salts</i>
+Métoprolol et ses sels<br />- <i>Metoprolol and its salts</i>
 
 Métronïdazole<br />- <i>Metronidazole</i>
 
@@ -45983,21 +46001,25 @@ Nicardipine et ses sels<br />- <i>Nicardipine and its salts</i>
 
 
 
-Nicotine et ses sels, destinés à l'usage humain, sauf :
+Nicotine et ses sels, destinés à l’usage humain, sauf :
 
 **a)** dans les substances naturelles;
 
 
 
-**b)** sous forme de gomme à mâcher contenant 4 mg ou moins de nicotine par unité posologique;
+**b)** sous forme de gomme à mâcher contenant 4 mg ou moins de nicotine par unité posologique;
 
 
 
-**c)** sous forme de timbre cutané ayant un taux de libération de 22 mg ou moins de nicotine par jour;
+**c)** sous forme de timbre cutané ayant un taux de libération de 22 mg ou moins de nicotine par jour;
 
 
 
-**d)** sous une forme destinée à être administrée par voie orale au moyen d'un inhalateur libérant 4 mg ou moins de nicotine par unité posologique
+**d)** sous une forme destinée à être administrée par voie orale au moyen d’un inhalateur libérant 4 mg ou moins de nicotine par unité posologique;
+
+
+
+**e)** sous forme de pastille contenant 4 mg ou moins de nicotine par unité posologique
 
 
 
@@ -46005,19 +46027,23 @@ Nicotine et ses sels, destinés à l'usage humain, sauf :
 
 *Nicotine and its salts, for human use, except*
 
-*(a)**in natural substances;*
+**(a)** *in natural substances;*
 
 
 
-*(b)**in the form of a chewing gum containing 4 mg or less of nicotine per dosage unit;*
+**(b)** *in the form of a chewing gum containing 4 mg or less of nicotine per dosage unit;*
 
 
 
-*(c)**in the form of a transdermal patch with a delivery rate of 22 mg or less of nicotine per day; or*
+**(c)** *in the form of a transdermal patch with a delivery rate of 22 mg or less of nicotine per day;*
 
 
 
-*(d)**in a form to be administered orally by means of an inhalation device delivering 4 mg or less of nicotine per dosage unit*
+**(d)** *in a form to be administered orally by means of an inhalation device delivering 4 mg or less of nicotine per dosage unit; or*
+
+
+
+**(e)** *in the form of a lozenge containing 4 mg or less of nicotine per dosage unit.*
 
 
 
@@ -46162,6 +46188,8 @@ Phénylindanédione et ses dérivés<br />- <i>Phenylindanedione and its derivat
 Phénylpropanolamine, ses sels et dérivés, destinés à l’usage vétérinaire<br />- <i>Phenylpropanolamine and its salts and derivatives, for veterinary use</i>
 
 Pilocarpine et ses sels<br />- <i>Pilocarpine and its salts</i>
+
+Pimécrolimus<br />- <i>Pimecrolimus</i>
 
 Pimozide<br />- <i>Pimozide</i>
 
@@ -46341,6 +46369,8 @@ Rosiglitazone et ses sels<br />- <i>Rosiglitazone and its salts</i>
 
 Rosoxacine et ses sels<br />- <i>Rosoxacin and its salts</i>
 
+Rosuvastatine et ses sels<br />- <i>Rosuvastatin and its salts</i>
+
 Salbutamol et ses sels<br />- <i>Salbutamol and its salts</i>
 
 Salmetérol et ses sels<br />- <i>Salmeterol and its salts</i>
@@ -46358,6 +46388,8 @@ Sélégiline et ses sels<br />- <i>Selegiline and its salts</i>
 Sermoréline et ses sels<br />- <i>Sermorelin and its salts</i>
 
 Sertraline et ses sels<br />- <i>Sertraline and its salts</i>
+
+Sérum antithymocytes<br />- <i>Anti-thymocyte globulin</i>
 
 Sévélamer et ses sels<br />- <i>Sevelamer and its salts</i>
 
@@ -46421,6 +46453,8 @@ Tégafur et ses sels<br />- <i>Tegafur and its salts</i>
 
 Tégasérod et ses sels<br />- <i>Tegaserod and its salts</i>
 
+Télithromycine et ses sels et dérivés<br />- <i>Telithromycin and its salts and derivatives</i>
+
 Telmisartan et ses sels et dérivés<br />- <i>Telmisartan and its salts and derivatives</i>
 
 Témozolomide et ses sels<br />- <i>Temozolomide and its salts</i>
@@ -46428,6 +46462,8 @@ Témozolomide et ses sels<br />- <i>Temozolomide and its salts</i>
 Ténectéplase et ses sels et dérivés<br />- <i>Tenecteplase and its salts and derivatives</i>
 
 Téniposide<br />- <i>Teniposide</i>
+
+Ténofovir et ses sels et dérivés<br />- <i>Tenofovir and its salts and derivatives</i>
 
 Ténoxicam et ses sels<br />- <i>Tenoxicam and its salts</i>
 
@@ -46534,6 +46570,8 @@ Trastuzumab<br />- <i>Trastuzumab</i>
 Trazodone et ses sels<br />- <i>Trazodone and its salts</i>
 
 Tréosulfan<br />- <i>Treosulfan</i>
+
+Tréprostinil et ses sels<br />- <i>Treprostinil and its salts</i>
 
 Trétamine<br />- <i>Tretamine</i>
 
@@ -46921,7 +46959,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2.
 
 
 
