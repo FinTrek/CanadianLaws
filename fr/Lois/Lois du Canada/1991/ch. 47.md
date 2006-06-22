@@ -639,12 +639,12 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **21** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve du paragraphe (2), les sociétés ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353.
+> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201.
 
 
 
@@ -15259,12 +15259,12 @@ où :
 
 **707** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article; toutefois, si le Parlement est dissous à cette date ou dans les trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés de portefeuille d’assurances peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1.
 
 
 
