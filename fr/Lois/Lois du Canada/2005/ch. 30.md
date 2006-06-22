@@ -172,11 +172,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**26** 
-
-- **(1)** [Modification]
-
-- **(2)** Le paragraphe (1) entre en vigueur le 1<sup>er</sup> mars 2009.
+**26** [Abrogé, 2006, ch. 4, art. 90]
 
 
 
