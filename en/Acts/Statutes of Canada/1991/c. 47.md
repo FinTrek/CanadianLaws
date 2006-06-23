@@ -22265,46 +22265,44 @@ together with such other information about the background, business record and e
 
 
 ### **SCHEDULE** 
-**(The definition “class” in section 2 and sections 12, 58, 59, 254, 443 to 449, 573, 586, 588 to 591 and 657)**
+**(Section 12)**
 ## Classes of Insurance
-In this Act,
-
-
 
 **accident and sickness insuranceaccidents et maladie**
 
-***accident and sickness insurance*** means insurance coming within the class of personal accident insurance and sickness insurance;
+***accident and sickness insurance*** means insurance
+
+**(a)** against loss resulting from bodily injury to, or the death of, a person caused by an accident;
+
+
+
+**(b)** under which an insurer undertakes to pay a sum or sums of money in the event of bodily injury to, or the death of, a person caused by an accident;
+
+
+
+**(c)** against loss resulting from the sickness or disability of a person not caused by an accident, but excludes loss resulting from the death of the person as a consequence of sickness;
+
+
+
+**(d)** under which an insurer undertakes to pay a sum or sums of money in the event of the sickness or disability of a person not caused by an accident; or
+
+
+
+**(e)** under which an insurer undertakes to pay a sum of money in respect of the health care —  including dental care and preventative care —  of a person.
 
 
 
 
-**accident insuranceaccidents**
 
-***accident insurance*** means insurance coming within the class of personal accident insurance, employers’ liability insurance or public liability insurance;
-
-
-
-**aircraft insuranceassurances aériennes**
+**aircraft insuranceassurance-aviation**
 
 ***aircraft insurance*** means insurance against
 
-**(a)** liability arising out of
+**(a)** liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft; or
 
-**(i)** bodily injury to, or the death of, a person, or
-
-
-
-**(ii)** the loss of, or damage to, property,
+**(b)** the loss of, the loss of use of, or damage to, an aircraft.
 
 
-
-caused by an aircraft or the use or operation thereof, or
-
-
-
-
-
-**(b)** the loss of, or damage to, an aircraft;
 
 
 
@@ -22312,108 +22310,45 @@ caused by an aircraft or the use or operation thereof, or
 
 **automobile insuranceautomobile**
 
-***automobile insurance*** means insurance against
+***automobile insurance*** means insurance
 
-**(a)** liability arising out of
-
-**(i)** bodily injury to, or the death of, a person, or
+**(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile;
 
 
 
-**(ii)** the loss of, or damage to, property,
+**(b)** against the loss of, the loss of use of, or damage to, an automobile; or
 
 
 
-caused by an automobile or the use or operation thereof, or
+**(c)** that falls within paragraph (a) or (b) of the class of accident and sickness insurance, if the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the policy includes insurance against liability arising out of bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile.
 
 
 
 
 
-**(b)** the loss of, or damage to, an automobile,
+**boiler and machinery insurancechaudières et panne de machines**
+
+***boiler and machinery insurance*** means insurance
+
+**(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels; or
 
 
 
-and includes insurance coming within the class of personal accident insurance where the accident is caused by an automobile or the use or operation thereof, whether liability exists or not, if the contract also provides the insurance described in subparagraph (a)(i);
+**(b)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by a breakdown of machinery.
 
 
-
-
-
-**boiler and machinery insurancechaudières et machines**
-
-***boiler and machinery insurance*** means insurance coming within the class of boiler insurance and machinery insurance;
-
-
-
-**boiler insurancechaudières**
-
-***boiler insurance*** means insurance against
-
-
-**(a)** liability arising out of
-
-**(i)** bodily injury to, or the death of, a person, or
-
-
-
-**(ii)** the loss of, or damage to, property, or
-
-
-
-
-
-**(b)** the loss of, or damage to, property,
-
-
-
-caused by the explosion or rupture of, or accident to, pressure vessels of any kind and pipes, engines and machinery connected therewith or operated thereby;
-
-
-
-
-
-**civil commotion insurancetrouble de l’ordre public**
-
-***civil commotion insurance*** means insurance against the loss of, or damage to, property caused by bombardment, invasion, insurrection, mutiny, civil war, civil commotion, riot, the act of a foreign enemy, hostilities or warlike operations (whether war is declared or not), revolution, rebellion, conspiracy, usurped power or military, naval or air force operations, vandalism or malicious mischief;
 
 
 
 **credit insurancecrédit**
 
-***credit insurance*** means insurance against loss to a person who has granted credit where the loss is the result of the insolvency or default of the person to whom credit is given but does not include insurance coming within the class of mortgage insurance;
+***credit insurance*** means insurance against loss to a person who has granted credit if the loss is the result of the insolvency or default of the person to whom the credit was given.
 
 
 
-**earthquake insurancetremblement de terre**
+**credit protection insuranceprotection de crédit**
 
-***earthquake insurance*** means insurance against the loss of, or damage to, property caused by an earthquake;
-
-
-
-**employers’ liability insuranceaccidents de travail**
-
-***employers’ liability insurance***
-
-**(a)** means insurance against liability arising out of bodily injury to, or the disability or death of, an employee of the insured occurring as a result of or in the course of the employee’s employment, and
-
-
-
-**(b)** if included in a contract that provides insurance against liability arising out of bodily injury to, or the disability or death of, an employee of the insured, includes insurance coming within the class of personal accident insurance covering an employee of the insured where the insurance is limited to accidents occurring as a result of or in the course of the employee’s employment whether or not liability exists;
-
-
-
-
-
-**explosion insuranceexplosions**
-
-***explosion insurance*** means insurance against the loss of, or damage to, property caused by explosion and includes insurance coming within the class of civil commotion insurance;
-
-
-
-**falling aircraft insurancechute d’aéronef**
-
-***falling aircraft insurance*** means insurance against the loss of, or damage to, property caused by an aircraft or by an object falling from an aircraft;
+***credit protection insurance*** means insurance under which an insurer undertakes to pay off credit balances or debts of an individual, in whole or in part, in the event of an impairment or potential impairment in the individual’s income or ability to earn an income.
 
 
 
@@ -22421,12 +22356,11 @@ caused by the explosion or rupture of, or accident to, pressure vessels of any k
 
 ***fidelity insurance*** means
 
-
-**(a)** insurance against loss caused by the unfaithful performance of duties by a person in a position of trust, or
-
+**(a)** insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties, by a person in a position of trust; and
 
 
-**(b)** insurance whereby an insurer undertakes to guarantee the proper fulfilment of the duties of an office;
+
+**(b)** insurance under which an insurer undertakes to guarantee the proper fulfilment of the duties of an office.
 
 
 
@@ -22434,132 +22368,85 @@ caused by the explosion or rupture of, or accident to, pressure vessels of any k
 
 **fire insuranceincendie**
 
-***fire insurance*** means insurance against the loss of, or damage to, property caused by fire, lightning, explosion due to ignition, smoke, and the breakage of or the leakage from a sprinkler or other fire protection equipment or system;
-
-
-
-**forgery insurancefaux**
-
-***forgery insurance*** means insurance against loss caused by forgery;
-
-
-
-**guarantee insurancegarantie**
-
-***guarantee insurance*** means insurance coming within the class of fidelity insurance and surety insurance;
+***fire insurance*** means insurance against the loss of, or damage to, property caused by fire, lightning, an explosion due to ignition, smoke or the breakage of, or the leakage from, a sprinkler or other fire protection equipment or system.
 
 
 
 **hail insurancegrêle**
 
-***hail insurance*** means insurance against the loss of, or damage to, crops on the field caused by hail;
-
-
-
-
-**impact by vehicles insuranceimpact de véhicules**
-
-***impact by vehicles insurance*** means insurance against the loss of, or damage to, property caused by a vehicle or by an object falling from a vehicle;
-
-
-
-
-**inland transportation insurancetransports terrestres**
-
-***inland transportation insurance*** means insurance against the loss of, or damage to, property while in transit or during delay incident to transit but does not include insurance coming within the class of marine insurance except for incidental transit on inland waterways;
+***hail insurance*** means insurance against the loss of, or damage to, crops in the field caused by hail.
 
 
 
 **legal expense insurancefrais juridiques**
 
-***legal expense insurance*** means insurance against the cost incurred by a person or persons for specified legal services, including fees or other costs incurred relative to the provision of such services;
+***legal expense insurance*** means insurance against the costs incurred by a person or persons for legal services specified in the policy, including any retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services.
 
 
 
 **liability insuranceresponsabilité**
 
-***liability insurance*** means insurance coming within the class of employers’ liability insurance and public liability insurance;
+***liability insurance*** means insurance, other than insurance that falls within another class of insurance,
+
+**(a)** against liability arising out of bodily injury to, or the disability or death of, a person, including an employee;
+
+
+
+**(b)** against liability arising out of the loss of, or damage to, property; or
+
+
+
+**(c)** if the policy includes the insurance described in paragraph (a), against expenses arising out of bodily injury to a person other than the insured or a member of the insured’s family, whether or not liability exists.
+
+
 
 
 
 **life insuranceassurance-vie**
 
-***life insurance*** means insurance that is payable on the death of a person, on the happening of an event or contingency dependent on human life or for a term dependent on human life or that provides for the establishment, accumulation and payment of sinking, redemption, accumulation, renewal or endowment funds and includes
+***life insurance***
 
-**(a)** insurance against disability caused by accident or sickness,
+**(a)** means any insurance that is payable
 
-**(i)** if included in a policy of life insurance and if the disability benefits do not exceed the following, namely, the waiver of premiums falling due during the continuance of the disability and
+**(i)** on death,
 
-(A) a disability indemnity payable for a period or periods not exceeding one hundred weeks at a weekly rate not exceeding 0.5 per cent of the sum assured on the date of the occurrence of the disability payable in event of death, and thereafter an indemnity not exceeding one half of that rate, ceasing on the termination of the life insurance risks insured against under the policy, or
+**(ii)** on the happening of an event or contingency dependent on human life,
 
+**(iii)** at a fixed or determinable future time, or
 
-
-(B) a lump sum disability indemnity in respect of total and permanent disability, which, together with any other disability indemnity otherwise at any time paid under the policy, does not exceed the sum assured, or
-
-
-
-
-
-**(ii)** if included in a deferred annuity contract, a disability indemnity not exceeding the rate of annuity provided by the contract, and
+**(iv)** for a term dependent on human life; and
 
 
 
 
 
-**(b)** insurance against accidental death, accidental dismemberment or accidental loss of sight in one eye or in both eyes, if included in a policy of life insurance and if the additional benefit payable in event of accidental death does not exceed twice the sum assured on the date of death payable in event of death from any cause and the benefit payable in event of accidental dismemberment or accidental loss of sight does not exceed that sum assured;
 
 
 
 
 
-**limited hail insurancegrêle à garantie restreinte**
 
-***limited hail insurance*** means insurance against the loss of, or damage to, property, other than crops on the field, caused by hail;
+**(b)** without restricting the generality of paragraph (a), includes insurance under which an insurer
 
+**(i)** undertakes to pay an additional sum of money in the event of the death by accident of the person whose life is insured,
 
+**(ii)** undertakes to pay a sum of money or to provide other benefits in the event that the person whose life is insured becomes disabled as a result of bodily injury or disease, or
 
-**limited or inherent explosion insuranceexplosions rattachables à l'affectation du risque**
-
-***limited or inherent explosion insurance*** means insurance against the loss of, or damage to, property caused by the explosion of dust, gas or other substance, where the explosion arises out of hazards inherent in the business conducted on the premises;
-
+**(iii)** undertakes to pay endowment funds at a fixed or determinable future time if the person whose life is insured is then alive, or at the person’s death if they die before that time.
 
 
-**livestock insurancebétail**
 
-***livestock insurance*** means insurance against the loss, sickness or death of, or injury to, animals, birds or fish;
+
+
+
+
+
 
 
 
 **loss of employment insuranceperte d’emploi**
 
-***loss of employment insurance*** means insurance against the involuntary loss of employment by a person where the loss of employment benefit is limited to all or part of the debt of the person;
-
-
-
-
-**machinery insurancepannes de machine**
-
-***machinery insurance*** means insurance against
-
-**(a)** liability arising out of
-
-**(i)** bodily injury to, or the death of, a person, or
-
-
-
-**(ii)** the loss of, or damage to, property, or
-
-
-
-
-
-**(b)** the loss of, or damage to, property,
-
-
-
-caused by breakdown of machinery;
-
-
+***loss of employment insurance*** means insurance against the involuntary loss of employment by a person, the limit of which insurance is all or part of the debt of the person.
 
 
 
@@ -22567,8 +22454,9 @@ caused by breakdown of machinery;
 
 ***marine insurance*** means insurance against
 
-
 **(a)** liability arising out of
+
+
 
 **(i)** bodily injury to, or the death of, a person, or
 
@@ -22578,13 +22466,11 @@ caused by breakdown of machinery;
 
 
 
-
-
 **(b)** the loss of, or damage to, property,
 
 
 
-occurring during a voyage or marine adventure at sea or on an inland waterway or during delay incident thereto or during transit, otherwise than by water, incident to such a voyage or marine adventure;
+occurring during a voyage or marine adventure at sea or on an inland waterway, or during a delay or a transit other than by water that is incidental to a voyage or marine adventure at sea or on an inland waterway.
 
 
 
@@ -22592,126 +22478,25 @@ occurring during a voyage or marine adventure at sea or on an inland waterway or
 
 **mortgage insurancehypothèque**
 
-***mortgage insurance*** means insurance against loss caused by default on the part of a borrower under a loan secured by a mortgage on real property, a hypothec on immovable property or an interest in real or immovable property;
+***mortgage insurance*** means insurance against loss caused by default on the part of a borrower under a loan secured by a mortgage or charge on, or other security interest in, real property.
 
 
 
-**personal accident insuranceaccidents corporels**
+**other approved products insuranceautres produits approuvés**
 
-***personal accident insurance*** means
-
-
-**(a)** insurance against loss resulting from bodily injury to, or the death of, a person caused by an accident, or
-
-
-
-**(b)** insurance whereby an insurer undertakes to pay a certain sum or sums of money in the event of bodily injury to, or the death of, a person caused by an accident;
-
-
-
-
-
-**personal property insurancebiens meubles**
-
-***personal property insurance*** means insurance against the loss of, or damage to, movable or personal property but does not include insurance coming within the class of aircraft insurance or automobile insurance;
-
-
-
-**plate glass insurancebris de glace**
-
-***plate glass insurance*** means insurance against the loss of, or damage to, plate or other glass;
+***other approved products insurance*** means insurance against risks that do not fall within another class of insurance.
 
 
 
 **property insuranceassurances de biens**
 
-***property insurance*** means insurance against the loss of, or damage to, property and includes insurance coming within the class of forgery insurance but does not include insurance coming within the class of aircraft insurance, automobile insurance or hail insurance;
-
-
-
-
-**public liability insuranceresponsabilité civile**
-
-***public liability insurance***
-
-**(a)** means insurance against liability arising out of
-
-**(i)** bodily injury to, or the death of, a person, or
-
-
-
-**(ii)** the loss of, or damage to, property, and
-
-
-
-
-
-**(b)** includes insurance against expenses arising out of bodily injury to a person other than the insured or a member of the family of the insured, whether liability exists or not, if the insurance is included in a contract for the insurance described in paragraph (a), but
-
-
-
-**(c)** does not include insurance coming within the class of aircraft insurance, automobile insurance or employers’ liability insurance;
-
-
-
-
-
-**real property insuranceimmeubles**
-
-***real property insurance*** means insurance against the loss of, or damage to, real or immovable property resulting from any cause not specifically mentioned in other classes of insurance covering real or immovable property;
-
-
-
-**sickness insurancemaladie**
-
-***sickness insurance*** means
-
-
-**(a)** insurance against loss resulting from the illness or disability of a person other than loss resulting from death,
-
-
-
-**(b)** insurance whereby an insurer undertakes to pay a certain sum or sums of money in the event of the illness or disability of a person, or
-
-
-
-**(c)** insurance against expenses incurred for dental care,
-
-
-
-other than illness or disability or dental care arising out of an accident;
-
-
-
-
-
-**sprinkler leakage insuranceextincteurs automatiques**
-
-***sprinkler leakage insurance*** means insurance against the loss of, or damage to, property from water or other substance, caused by the breakage of, or leakage from, sprinkler equipment or other fire protection system or pumps, water pipes or plumbing and its fixtures;
+***property insurance*** means insurance against the loss of, or damage to, property and includes insurance against loss caused by forgery.
 
 
 
 **surety insurancecaution**
 
-***surety insurance*** means insurance whereby an insurer undertakes to guarantee
-
-**(a)** the due performance of a contract or undertaking, or
-
-
-
-**(b)** the payment of a penalty or indemnity for any default,
-
-
-
-but does not include insurance coming within the class of credit insurance or mortgage insurance;
-
-
-
-
-
-**theft insurancevol**
-
-***theft insurance*** means insurance against the loss of, or damage to, property caused by theft, wrongful conversion, burglary, housebreaking or robbery, and includes insurance against loss caused by forgery;
+***surety insurance*** means insurance under which an insurer undertakes to guarantee the due performance of a contract or undertaking or the payment of a penalty or indemnity for any default.
 
 
 
@@ -22719,61 +22504,27 @@ but does not include insurance coming within the class of credit insurance or mo
 
 ***title insurance*** means insurance against loss or damage caused by
 
-**(a)** a defect in the title to real property,
+**(a)** the existence of a mortgage, charge, lien, encumbrance, servitude or any other restriction on real property;
 
 
 
-**(b)** the existence of a lien, encumbrance or servitude on real property,
+**(b)** the existence of a mortgage, charge, lien, pledge, encumbrance or any other restriction on personal property;
 
 
 
-**(c)** a defect in the execution of a mortgage, hypothec or deed of trust in respect of real property, or
+**(c)** a defect in any document that evidences the creation of any restriction referred to in paragraph (a) or (b);
 
 
 
-**(d)** any other matter affecting the title to real property or the right to the use and enjoyment of real property;
+**(d)** a defect in the title to property; or
 
 
 
-
-
-**water damage insurancedégats des eaux**
-
-***water damage insurance*** means insurance against the loss of, or damage to, property caused by
-
-**(a)** the escape of water
-
-**(i)** from plumbing, heating or sprinkler or other fire protection equipment or system in a building, or
-
-
-
-**(ii)** from any water main or water pipe outside of a building, or
+**(e)** any other matter affecting the title to property or affecting the right to the use and enjoyment of property.
 
 
 
 
-
-**(b)** the melting of ice or snow on the roof of a building,
-
-
-
-but does not include insurance coming within the class of weather insurance;
-
-
-
-
-
-**weather insuranceintempéries**
-
-***weather insurance*** means insurance against the loss of, or damage to, property caused by rain, flood, windstorm, cyclone, tornado or other climatic conditions but does not include insurance coming within the class of hail insurance;
-
-
-
-**windstorm insurancetempêtes**
-
-***windstorm insurance*** means insurance against the loss of, or damage to, property caused by windstorm, cyclone or tornado.
-
-
-> 1991, c. 47, Sch.; 1997, c. 15, s. 333.
+> 1991, c. 47, Sch.; 1997, c. 15, s. 333; SOR/2006–157.
 
 
