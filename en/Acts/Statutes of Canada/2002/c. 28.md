@@ -1744,6 +1744,51 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 
 
+## Interim Orders
+
+
+
+**Interim orders**
+
+**67.1** 
+
+- **(1)** The Minister may make an interim order that contains any provision that may be contained in a regulation made under this Act if the Minister believes that immediate action is required to deal with a significant risk, direct or indirect, to health, safety or the environment.
+
+**Cessation of effect**
+
+- **(2)** An interim order has effect from the time that it is made but ceases to have effect on the earliest of
+	- **(a)** 14 days after it is made, unless it is approved by the Governor in Council,
+	- **(b)** the day on which it is repealed,
+	- **(c)** the day on which a regulation made under this Act, that has the same effect as the interim order, comes into force, and
+	- **(d)** one year after the interim order is made or any shorter period that may be specified in the interim order.
+
+**Contravention of unpublished order**
+
+- **(3)** No person shall be convicted of an offence consisting of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention, the person had been notified of the interim order or reasonable steps had been taken to bring the purport of the interim order to the notice of those persons likely to be affected by it.
+
+**Exemption form [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** An interim order
+	- **(a)** is exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md); and
+	- **(b)** shall be published in the Canada Gazette within 23 days after it is made.
+
+**Deeming**
+
+- **(5)** For the purpose of any provision of this Act other than this section, any reference to regulations made under this Act is deemed to include interim orders, and any reference to a regulation made under a specified provision of the Act is deemed to include a reference to the portion of an interim order containing any provision that may be contained in a regulation made under the specified provision.
+
+**Tabling of order**
+
+- **(6)** A copy of each interim order must be tabled in each House of Parliament within 15 days after it is made.
+
+**House not sitting**
+
+- **(7)** In order to comply with subsection (6), the interim order may be sent to the Clerk of the House if the House is not sitting.
+> 2004, c. 15, s. 111.1.
+
+
+
+
+
 ## Offences and Punishment
 
 
@@ -2004,6 +2049,6 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 <sup><a href='#P-9.01_en_1'>[*]</a></sup>**90** The provisions of this Act, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-9.01_en_1'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='P-9.01_en_1'><sup>*</sup></a>: [Note: Act in force June 28, 2006, *see* SI/2006-93.]<br />
 
 
