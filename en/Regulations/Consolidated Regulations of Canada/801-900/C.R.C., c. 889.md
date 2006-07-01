@@ -2232,7 +2232,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>48.0</td>
 <td>92.0% of groats must be sound</td>
 <td>1.0*</td>
-<td><sup>[*]</sup>No limit</td>
+<td><sup><a href='#footnote1'>[*]</a></sup>No limit</td>
 <td>8.0</td>
 <td>8.0</td>
 <td>8.0</td>
@@ -2244,7 +2244,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </table>
 
 
-<sup>*</sup>: Not included in total damage.<br />
+<a name='footnote1'><sup>*</sup></a>: Not included in total damage.<br />
 #### TABLE 8
 <table>
 <h4>Barley, Canada Western Malting (CW)</h4>
@@ -3153,96 +3153,90 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
 <th>Damage</th>
-<th></th>
 <th>Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Splits</th>
+<th>Other Colours or Bicoloured Other Than for Mixed Soybeans</th>
+<th>Heat-Damaged or Mouldy</th>
+<th>Total Damage</th>
+<th>Foreign Material Other Than Grain</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Splits %
-
-</th>
-<th>Other Colours or Bicoloured Other Than for Mixed Soybeans %
-
-</th>
-<th>Heat Damaged or Moldy %
-
-</th>
-<th>Total Damage %
-
-</th>
-<th>Foreign Material Other Than Grain %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
-<td>70.0</td>
-<td>Cool, natural odour, uniform in size, good natural colour</td>
-<td>10.0</td>
-<td>2.0</td>
+<td>70</td>
+<td>Cool, natural odour, good natural colour</td>
+<td>10</td>
+<td>2</td>
 <td>Nil</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.1</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
-<td>68.0</td>
+<td>68</td>
 <td>Cool, natural odour, slightly stained</td>
-<td>15.0</td>
-<td>3.0</td>
+<td>15</td>
+<td>3</td>
 <td>0.2</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.3</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
-<td>66.0</td>
+<td>66</td>
 <td>Cool, natural odour, may be stained</td>
-<td>20.0</td>
-<td>5.0</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>20</td>
+<td>5</td>
+<td>1</td>
+<td>5</td>
 <td>0.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
-<td>63.0</td>
+<td>63</td>
 <td>Cool, may be badly stained</td>
-<td>30.0</td>
-<td>10.0</td>
-<td>3.0</td>
-<td>8.0</td>
-<td>2.0</td>
-<td>5.0</td>
+<td>30</td>
+<td>10</td>
+<td>3</td>
+<td>8</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 5 Canada</td>
-<td>59.0</td>
+<td>59</td>
 <td>Cool, may be badly stained</td>
-<td>40.0</td>
-<td>15.0</td>
-<td>5.0</td>
-<td>15.0</td>
-<td>3.0</td>
-<td>8.0</td>
+<td>40</td>
+<td>15</td>
+<td>5</td>
+<td>15</td>
+<td>3</td>
+<td>8</td>
 </tr>
 </table>
 
 
-<sup></sup>: Note : The colour is added to the grade name.<br />
+<sup></sup>: Note: The colour is added to the grade name.<br />
 #### TABLE 24
 <table>
 <h4>Peas, Canada Other Than Green (Can)</h4>
@@ -3866,7 +3860,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </th>
 </tr>
 <tr>
-<td>Extra No. 1 Canada</td>
+<td>Extra No. 1 Canada</td>
 <td>Uniform in size, good natural colour</td>
 <td>1.0</td>
 <td>0.01</td>
@@ -3886,7 +3880,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>2.0</td>
 </tr>
 <tr>
-<td>No. 1 Canada Select</td>
+<td>No. 1 Canada</td>
 <td>Fairly good colour</td>
 <td>1.0</td>
 <td>0.01</td>
@@ -3896,7 +3890,17 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>2.0</td>
 </tr>
 <tr>
-<td>No. 2 Canada</td>
+<td>Select</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>No. 2 Canada</td>
 <td>Fairly good colour</td>
 <td>5.0</td>
 <td>0.1</td>
@@ -4031,7 +4035,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <sup></sup>: Note: The class name is added to the grade name.<br />
 #### TABLE 32
 <table>
-<h4>Beans, Canada, Other than Cranberry, Blackeye, Yelloweye or Pea Beans (Can)</h4>
+<h4>Beans, Canada, Other Than Cranberry, Blackeye, Yelloweye or Pea Beans (Can)</h4>
 <tr>
 <th></th>
 <th>Maximum Limits of</th>
@@ -4234,7 +4238,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 
 #### TABLE 35
 <table>
-<h4>Lentils, Canada, Other than Red (Can)</h4>
+<h4>Lentils, Canada, Other Than Red (Can)</h4>
 <tr>
 <th></th>
 <th>Standard of Quality</th>
@@ -5775,7 +5779,69 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11(F), 12(F), 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1(F), 2(F), 3(F), 4, 5: SOR/2005-330, s. 1(E).
+#### TABLE 57
+<table>
+<h4>Wheat, Canada Eastern Hard White Spring (CEHWS)</h4>
+<tr>
+<th></th>
+<th>Standard of Quality</th>
+<th>Maximum Limits of</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Foreign Material</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+</tr>
+<tr>
+<th>Grade Name</th>
+<th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>No. 1 CEHWS</td>
+<td>75</td>
+<td>Any variety of the class CEHWS designated as such by order of the Commission</td>
+<td>Reasonably well matured, reasonably free from damaged kernels</td>
+<td>0.2</td>
+<td>0.75</td>
+<td>1</td>
+</tr>
+<tr>
+<td>No. 2 CEHWS</td>
+<td>72</td>
+<td>Any variety of the class CEWHS designated as such by order of the Commission</td>
+<td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
+<td>0.3</td>
+<td>1.5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>No. 3 CEHWS</td>
+<td>69</td>
+<td>Any variety of the class CEHWS designated as such by order of the Commission</td>
+<td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
+<td>0.5</td>
+<td>3.5</td>
+<td>5</td>
+</tr>
+</table>
+
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11(F), 12(F), 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1(F), 2(F), 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1.
 
 
 
