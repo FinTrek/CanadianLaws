@@ -8,7 +8,7 @@
 Assented to on 22 June 2006
 
 ```
-[Enacted by section 168 of chapter 4 of the Statutes of Canada, 2006, not in force.]
+[Enacted by section 168 of chapter 4 of the Statutes of Canada, 2006, in force July 1, 2006, see 2006, c. 4, s. 181.]
 ```
 ----------
 
