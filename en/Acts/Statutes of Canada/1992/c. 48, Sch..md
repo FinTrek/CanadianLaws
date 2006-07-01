@@ -46,6 +46,21 @@ Assented to on 1 January 1993
 
 
 
+**Interpretation**
+
+**2.1** 
+
+- **(1)** Except for the purposes of sections 2, 3, 3.1 and 8, the expression “special allowance” is to be read as including the special allowance supplement described in section 3.1.
+
+**Interpretation**
+
+- **(2)** For the purposes of the payment of a special allowance supplement under section 3.1, the reference to “January 1993” in paragraph 4(2)(c) is to be read as a reference to “July 2006”.
+> 2006, c. 4, s. 169.
+
+
+
+
+
 ## Special Allowances Payable
 
 
@@ -65,6 +80,15 @@ and who resides in the private home of foster parents, a group foster home or an
 
 - **(2)** A special allowance shall be applied exclusively toward the care, maintenance, education, training or advancement of the child in respect of whom it is paid.
 > 1992, c. 48, s. 23 (Sch., s. 3); 2004, c. 26, s. 17.
+
+
+
+
+
+**Monthly special allowance supplement**
+
+**3.1** If a special allowance is payable under section 3 for a child under the age of six, there shall be added to that special allowance a special allowance supplement in the amount of $100 to be paid out of the Consolidated Revenue Fund.
+> 2006, c. 4, s. 170.
 
 
 
@@ -95,7 +119,9 @@ and who resides in the private home of foster parents, a group foster home or an
 	- **(a)** ceases to be maintained by the department, agency or institution;
 	- **(b)** ceases to reside in Canada;
 	- **(c)** dies; or
-	- **(d)** reaches eighteen years of age.
+	- **(d)** reaches eighteen years of age or, in the case of a special allowance supplement paid under section 3.1, reaches six years of age.
+> 1992, c. 48, s. 23 (Sch., s. 4); 2006, c. 4, s. 171.
+
 
 
 
