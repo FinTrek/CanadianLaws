@@ -1121,6 +1121,101 @@ Version anglaise seulement***prescribed*** means
 
 
 
+**PART 3.1** 
+## Tobacco Products Inventory Tax
+
+
+
+**Definitions**
+
+**58.1** The following definitions apply in this Part.
+
+***loose tobacco*** means loose, fine-cut manufactured tobacco for use in making cigarettes.
+
+***separate retail establishment*** of a person means a shop or store of the person
+- **(a)** that is geographically separate from other places of business of the person;
+- **(b)** at which, in the ordinary course of the person’s business, the person regularly sells, otherwise than through vending machines, tobacco products to consumers, within the meaning of section 123 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), attending at the shop or store; and
+- **(c)** in respect of which separate records are maintained.
+
+***taxed tobacco*** of a person means cigarettes, tobacco sticks, loose tobacco and cigars, in respect of which duty has been imposed under section 42 before July 1, 2006 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 or in section 4 of that Schedule, as those provisions read on June 30, 2006, and that, at the beginning of July 1, 2006,
+- **(a)** were owned by that person for sale in the ordinary course of a business of the person;
+- **(b)** were not held in a vending machine; and
+- **(c)** were not relieved from that duty under this Act.
+
+***unit*** means one cigarette, tobacco stick, gram of loose tobacco or cigar.
+> 2006, c. 4, s. 34.
+
+
+
+
+
+**Imposition of tax**
+
+**58.2** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed tobacco of the person at the rate of
+- **(a)** 0.2799 cent per cigarette;
+- **(b)** 0.2517 cent per tobacco stick;
+- **(c)** 0.1919 cent per gram of loose tobacco; and
+- **(d)** 0.1814 cent per cigar.
+> 2006, c. 4, s. 34.
+
+
+
+
+
+**Exemption for small retail inventory**
+
+**58.3** Tax under this Part in respect of the inventory of all taxed tobacco of a person that is held at the beginning of July 1, 2006 at a separate retail establishment of the person is not payable if that retail establishment holds inventory of 30,000 or fewer units.
+> 2006, c. 4, s. 34.
+
+
+
+
+
+**Taking of inventory**
+
+**58.4** Every person liable to pay tax under this Part shall, for the purposes of this Part, determine that person’s inventory of all taxed tobacco.
+> 2006, c. 4, s. 34.
+
+
+
+
+
+**Returns**
+
+**58.5** 
+
+- **(1)** Every person liable to pay tax under this Part shall, on or before August 31, 2006, file a return with the Minister in the prescribed form and manner.
+
+**Separate returns**
+
+- **(2)** A person authorized under subsection 239(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to file separate returns in respect of a separate branch or division may file separate returns under this Part in respect of that branch or division.
+> 2006, c. 4, s. 34.
+
+
+
+
+
+**Payment**
+
+**58.6** 
+
+- **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before August 31, 2006.
+
+**Minimum interest**
+
+- **(2)** No interest in respect of an amount payable by a person under this Part is payable if, at the time the person pays the amount, the total of that interest otherwise payable is less than $25.
+
+**Extension**
+
+- **(3)** The Minister may at any time extend in writing the time for filing a return, or paying the tax payable, under this Part and, where the Minister so extends the time,
+	- **(a)** the return shall be filed or tax payable shall be paid within the time as so extended; and
+	- **(b)** interest is payable under section 170 as if the time had not been extended.
+> 2006, c. 4, s. 34.
+
+
+
+
+
 **PART 4** 
 ## Alcohol
 
@@ -3739,21 +3834,23 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.16 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.11 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.11 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.21 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.165 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.121 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.112 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.284 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.24 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.16 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.16 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.65 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.246 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.182 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.168 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.66 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35.
+
 
 
 
@@ -3770,8 +3867,8 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $11.066 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $0.5122 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $11.696 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+		- **(ii)** $0.62 multiplied by the number of litres of wine to which the offence relates, and
 		- **(iii)** $10 multiplied by the number of litres of denatured alcohol or specially denatured alcohol to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
@@ -3779,10 +3876,12 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $22.132 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
-		- **(ii)** $1.0244 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $23.392 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
+		- **(ii)** $1.24 multiplied by the number of litres of wine to which the offence relates, and
 		- **(iii)** $20 multiplied by the number of litres of denatured alcohol or specially denatured alcohol to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
+> 2002, c. 22, s. 217; 2006, c. 4, s. 44.
+
 
 
 
@@ -3799,17 +3898,19 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $22.132 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.0244 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $23.392 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+		- **(ii)** $1.24 multiplied by the number of litres of wine to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $33.198 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
-		- **(ii)** $1.5366 multiplied by the number of litres of wine to which the offence relates, and
+		- **(i)** $35.088 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
+		- **(ii)** $1.86 multiplied by the number of litres of wine to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
+> 2002, c. 22, s. 218; 2006, c. 4, s. 45.
+
 
 
 
@@ -4109,10 +4210,10 @@ exceeds
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.34995 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.199966 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $199.966 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46.
+- **(a)** $0.355548 per cigarette that was removed in contravention of that subsection,
+- **(b)** $0.205 per tobacco stick that was removed in contravention of that subsection, and
+- **(c)** $203.804 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36.
 
 
 
@@ -4127,7 +4228,9 @@ exceeds
 
 **Contravention of section 72**
 
-**242** Every person who contravenes section 72 is liable to a penalty equal to $1.0244 per litre of wine to which the contravention relates.
+**242** Every person who contravenes section 72 is liable to a penalty equal to $1.24 per litre of wine to which the contravention relates.
+> 2002, c. 22, s. 242; 2006, c. 4, s. 46.
+
 
 
 
@@ -4136,7 +4239,9 @@ exceeds
 
 **243** Every person who contravenes any of sections 73, 76 or 89 to 91 is liable to a penalty equal to
 - **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
-- **(b)** if the contravention relates to wine, $0.5122 per litre of that wine.
+- **(b)** if the contravention relates to wine, $0.62 per litre of that wine.
+> 2002, c. 22, s. 243; 2006, c. 4, s. 47.
+
 
 
 
@@ -5805,7 +5910,7 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
 	- **(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations*, or
 	- **(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $0.396255 for each five cigarettes or fraction of five cigarettes contained in any package, in any other case.
+- **(b)** $0.41025 for each five cigarettes or fraction of five cigarettes contained in any package, in any other case.
 
 
 **2** Tobacco sticks:
@@ -5813,7 +5918,7 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
 	- **(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations,* or
 	- **(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $0.057983 per stick, in any other case.
+- **(b)** $0.0605 per stick, in any other case.
 
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks:
@@ -5821,16 +5926,16 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
 	- **(ii)** for delivery by the tobacco licensee who manufactured it to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations*, or
 	- **(iii)** for export by the tobacco licensee who manufactured it for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $53.981 per kilogram, in any other case.
+- **(b)** $55.90 per kilogram, in any other case.
 
 
-**4** Cigars: $14.786 per 1,000 cigars.
+**4** Cigars: $16.60 per 1,000 cigars.
 
 
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40.
 
 
 
@@ -5842,11 +5947,11 @@ Cigars:
 
 The greater of
 
-**(a)** $0.065 per cigar, and
+**(a)** $0.066 per cigar, and
 
 
 
-**(b)** 65%, computed on
+**(b)** 66%, computed on
 
 **(i)** the sale price, in the case of cigars manufactured in Canada, or
 
@@ -5861,7 +5966,7 @@ The greater of
 
 
 
-> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50.
+> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41.
 
 
 
@@ -5937,11 +6042,13 @@ The greater of
 ### **SCHEDULE 4** 
 **(Sections 122 and 123)**
 ## Rates of Duty on Spirits
-**1** Spirits: $11.066 per litre of absolute ethyl alcohol contained in the spirits.
+**1** Spirits: $11.696 per litre of absolute ethyl alcohol contained in the spirits.
 
 
-**2** Spirits containing not more than 7% absolute ethyl alcohol by volume: $0.2459 per litre of spirits.
+**2** Spirits containing not more than 7% absolute ethyl alcohol by volume: $0.295 per litre of spirits.
 
+
+> 2002, c. 22, Sch. 4; 2006, c. 4, s. 48.
 
 
 
@@ -5968,14 +6075,16 @@ Wine:
 
 
 
-**(b)** in the case of wine that contains more than 1.2% of absolute ethyl alcohol by volume but not more than 7% of absolute ethyl alcohol by volume, $0.2459 per litre; and
+**(b)** in the case of wine that contains more than 1.2% of absolute ethyl alcohol by volume but not more than 7% of absolute ethyl alcohol by volume, $0.295 per litre; and
 
 
 
-**(c)** in the case of wine that contains more than 7% of absolute ethyl alcohol by volume, $0.5122 per litre.
+**(c)** in the case of wine that contains more than 7% of absolute ethyl alcohol by volume, $0.62 per litre.
 
 
 
+
+> 2002, c. 22, Sch. 6; 2006, c. 4, s. 49.
 
 
 
