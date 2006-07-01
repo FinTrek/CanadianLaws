@@ -4141,14 +4141,17 @@ is admissible in evidence for all purposes for which the recorded document would
 ***benefits*** means benefits under this Act, read without reference to this Part;
 
 ***income*** of a person for a period means the amount that would be their income for the period determined under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if no amount were
-- **(a)** deductible under paragraphs 60(v.1) and (w) of that Act, or
-- **(b)** included in respect of a gain from a disposition of property to which section 79 of that Act applies;
+- **(a)** deductible under paragraphs 60(v.1), (w) and (y) of that Act,
+- **(b)** included in respect of a gain from a disposition of property to which section 79 of that Act applies, or
+- **(c)** included under subsection 56(6) of that Act;
 
 ***Minister*** means the Minister of National Revenue;
 
 ***person*** has the meaning given that term in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 
 ***taxation year*** means a taxation year within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> 1996, c. 23, s. 144; 2006, c. 4, s. 172.
+
 
 
 
