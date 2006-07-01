@@ -44,6 +44,21 @@ Sanctionnée sur le 1 janvier 1993
 
 
 
+**Interprétation**
+
+**2.1** 
+
+- **(1)** Sauf pour l’application des articles 2, 3, 3.1 et 8, l’allocation spéciale comprend le supplément visé à l’article 3.1.
+
+**Interprétation**
+
+- **(2)** En ce qui concerne le service du supplément visé à l’article 3.1, la mention « janvier 1993 » au paragraphe 4(2) vaut mention de « juillet 2006 ».
+> 2006, ch. 4, art. 169.
+
+
+
+
+
 ## Allocations spéciales
 
 
@@ -62,6 +77,15 @@ Sanctionnée sur le 1 janvier 1993
 
 - **(2)** L’allocation spéciale est affectée exclusivement au soin, à la subsistance, à l’éducation, à la formation ou au perfectionnement de l’enfant y ouvrant droit.
 > 1992, ch. 48, art. 23 (ann., art. 3); 2004, ch. 26, art. 17.
+
+
+
+
+
+**Versement mensuel — supplément**
+
+**3.1** Est ajouté à l’allocation spéciale mensuelle versée en vertu de l’article 3 pour un enfant âgé de moins de six ans un supplément de 100 $, prélevé sur le Trésor.
+> 2006, ch. 4, art. 170.
 
 
 
@@ -89,7 +113,9 @@ Sanctionnée sur le 1 janvier 1993
 	- **a)** cesse d’être à la charge du ministère, de l’organisme ou de l’établissement;
 	- **b)** cesse de résider au Canada;
 	- **c)** meurt;
-	- **d)** atteint l’âge de dix-huit ans.
+	- **d)** atteint l’âge de dix-huit ans ou, dans le cas du supplément versé en vertu de l’article 3.1, l’âge de six ans.
+> 1992, ch. 48, art. 23 (ann., art. 4); 2006, ch. 4, art. 171.
+
 
 
 
