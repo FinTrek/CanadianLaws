@@ -4088,7 +4088,9 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 ***remboursement de prestations*** Le montant déterminé en vertu de l’article 145.
 
-***revenu*** Le montant qui serait le revenu d’une personne pour une période, déterminé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), si aucun montant n’était déductible selon les alinéas 60v.1) et w) de cette loi, ni inclus au titre d’un gain provenant d’une disposition de bien et auquel l’article 79 de cette loi s’applique.
+***revenu*** Le montant qui serait le revenu d’une personne pour une période, déterminé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), si aucun montant n’était déductible selon les alinéas 60v.1), w), et y) de cette loi, ni inclus au titre d’un gain provenant d’une disposition de bien auquel l’article 79 de la même loi s’applique ou au titre du paragraphe 56(6) de la même loi.
+> 1996, ch. 23, art. 144; 2006, ch. 4, art. 172.
+
 
 
 
