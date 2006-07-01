@@ -8,7 +8,7 @@
 Sanctionnée sur le 22 juin 2006
 
 ```
-[Édictée par l’article 168 du chapitre 4 des Lois du Canada (2006), non en vigueur.]
+[Édictée par l’article 168 du chapitre 4 des Lois du Canada (2006), en vigueur le 1<sup>er</sup> juillet 2006, voir 2006, ch. 4, art. 181.]
 ```
 ----------
 
