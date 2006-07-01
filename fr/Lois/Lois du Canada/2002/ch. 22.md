@@ -1114,6 +1114,101 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 
 
+**PARTIE 3.1** 
+## Taxe sur les stocks de produits du tabac
+
+
+
+**Définitions**
+
+**58.1** Les définitions qui suivent s’appliquent à la présente partie.
+
+***établissement de détail distinct*** Boutique ou magasin qui répond aux conditions suivantes :
+- **a)** il est géographiquement distinct des autres établissements commerciaux de l’exploitant;
+- **b)** l’exploitant y vend régulièrement dans le cours normal de ses activités, mais autrement que par distributeur automatique, des produits du tabac aux consommateurs, au sens de l’article 123 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), qui s’y présentent;
+- **c)** des registres distincts sont tenus à son égard.
+
+***tabac à cigarettes*** Tabac en vrac, manufacturé et haché fin, servant à la confection de cigarettes.
+
+***tabac imposé*** Cigarettes, bâtonnets de tabac, tabac à cigarettes et cigares sur lesquels le droit prévu à l’article 42 a été imposé avant le 1<sup>er</sup> juillet 2006 au taux figurant aux alinéas 1b), 2b) ou 3b) ou à l’article 4 de l’annexe 1, dans leur version applicable le 30 juin 2006, et qui, à zéro heure le 1<sup>er</sup> juillet 2006, à la fois : 
+- **a)** étaient offerts en vente dans le cours normal des activités de leur propriétaire;
+- **b)** n’étaient pas offerts en vente par distributeur automatique;
+- **c)** n’étaient pas exonérés de ce droit en vertu de la loi.
+
+***unité*** Cigarette, bâtonnet de tabac, gramme de tabac à cigarettes ou cigare.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
+**Assujettissement**
+
+**58.2** Sous réserve de l’article 58.3, tout propriétaire de tabac imposé est tenu de payer à Sa Majesté une taxe sur ce tabac au taux de :
+- **a)** 0,2799 cent par cigarette;
+- **b)** 0,2517 cent par bâtonnet de tabac;
+- **c)** 0,1919 cent par gramme de tabac à cigarettes;
+- **d)** 0,1814 cent par cigare.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
+**Exemption pour petits détaillants**
+
+**58.3** La taxe prévue par la présente partie n’est pas exigible sur les stocks de tabac imposé qu’un exploitant détient à zéro heure le 1<sup>er</sup> juillet 2006 dans son établissement de détail distinct si ces stocks n’excèdent pas 30 000 unités.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
+**Inventaire**
+
+**58.4** Pour l’application de la présente partie, le redevable de la taxe prévue par cette partie est tenu de faire l’inventaire de son tabac imposé.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
+**Déclaration**
+
+**58.5** 
+
+- **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter au ministre, au plus tard le 31 août 2006, une déclaration en la forme et selon les modalités autorisées par celui-ci.
+
+**Déclarations distinctes**
+
+- **(2)** Toute personne autorisée, en vertu du paragraphe 239(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à produire des déclarations distinctes pour des succursales ou divisions peut aussi en produire pour chacune d’elles en application de la présente partie.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
+**Paiement**
+
+**58.6** 
+
+- **(1)** Toute personne est tenue de verser au receveur général, au plus tard le 31 août 2006, le total de la taxe dont elle est redevable en vertu de la présente partie.
+
+**Intérêts de moins de 25 $**
+
+- **(2)** Aucun intérêt n’est exigible sur une somme dont une personne est redevable en vertu de la présente partie si, au moment du versement de cette somme, le total des intérêts à payer par ailleurs sur cette somme est inférieur à 25 $.
+
+**Prorogation**
+
+- **(3)** Le ministre peut, à tout moment, proroger par écrit le délai prévu par la présente partie pour la production d’une déclaration ou le versement de la taxe exigible. Le cas échéant :
+	- **a)** la déclaration doit être produite ou la taxe exigible, payée dans le délai prorogé;
+	- **b)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
+> 2006, ch. 4, art. 34.
+
+
+
+
+
 **PARTIE 4** 
 ## Alcool
 
@@ -3699,21 +3794,23 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,16 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,11 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,11 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,21 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,165 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,121$ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,112 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,284 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,24 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,16 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,16 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,65 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,246 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,182 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,168 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,66 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35.
+
 
 
 
@@ -3730,8 +3827,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 11,066 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 0,5122 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit de 11,696 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 0,62 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 10 $ par le nombre de litres d’alcool dénaturé ou d’alcool spécialement dénaturé auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
@@ -3739,10 +3836,12 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 22,132 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,0244 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
+		- **(i)** le produit de 23,392 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,24 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 20 $ par le nombre de litres d’alcool dénaturé ou d’alcool spécialement dénaturé auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+> 2002, ch. 22, art. 217; 2006, ch. 4, art. 44.
+
 
 
 
@@ -3759,17 +3858,19 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 22,132 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,0244 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit de 23,392 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,24 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 33,198 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
-		- **(ii)** le produit de 1,5366 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
+		- **(i)** le produit de 35,088 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 1,86 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+> 2002, ch. 22, art. 218; 2006, ch. 4, art. 45.
+
 
 
 
@@ -4066,10 +4167,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,349 95 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,199 966 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 199,966 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46.
+- **a)** 0,355 548 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,205 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 203,804 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36.
 
 
 
@@ -4084,7 +4185,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Contravention — art. 72**
 
-**242** Quiconque contrevient à l’article 72 est passible d’une pénalité de 1,0244 $ le litre sur le vin auquel la contravention se rapporte.
+**242** Quiconque contrevient à l’article 72 est passible d’une pénalité de 1,24 $ le litre sur le vin auquel la contravention se rapporte.
+> 2002, ch. 22, art. 242; 2006, ch. 4, art. 46.
+
 
 
 
@@ -4093,7 +4196,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **243** Quiconque contrevient à l’un des articles 73, 76 et 89 à 91 est passible de la pénalité suivante :
 - **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
-- **b)** si la contravention se rapporte à du vin, 0,5122 $ le litre de vin.
+- **b)** si la contravention se rapporte à du vin, 0,62 $ le litre de vin.
+> 2002, ch. 22, art. 243; 2006, ch. 4, art. 47.
+
 
 
 
@@ -5740,7 +5845,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,396 255 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
+- **b)** 0,410 25 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
 
 
 **2** Bâtonnets de tabac :
@@ -5748,7 +5853,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,057 983 $ le bâtonnet, dans les autres cas.
+- **b)** 0,0605 $ le bâtonnet, dans les autres cas.
 
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
@@ -5756,16 +5861,16 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
 	- **(ii)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 	- **(iii)** à être exporté par le titulaire de licence de tabac qui l’a fabriqué pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 53,981 $ le kilogramme, dans les autres cas.
+- **b)** 55,90 $ le kilogramme, dans les autres cas.
 
 
-**4** Cigares, 14,786 $ le lot de 1 000 cigares.
+**4** Cigares, 16,60 $ le lot de 1 000 cigares.
 
 
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40.
 
 
 
@@ -5775,11 +5880,11 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ## Droit additionnel sur les cigares
 Cigares — la plus élevée des sommes suivantes :
 
-**a)** 0,065 $ le cigare;
+**a)** 0,066 $ le cigare;
 
 
 
-**b)** 65 % de la somme applicable suivante :
+**b)** 66 % de la somme applicable suivante :
 
 **(i)** le prix de vente, dans le cas de cigares fabriqués au Canada,
 
@@ -5792,7 +5897,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50.
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41.
 
 
 
@@ -5868,11 +5973,13 @@ Cigares — la plus élevée des sommes suivantes :
 ### **ANNEXE 4** 
 **(articles 122 et 123)**
 ## Taux du droit sur les spiritueux
-**1** Spiritueux : 11,066 $ le litre d’alcool éthylique absolu contenu dans les spiritueux.
+**1** Spiritueux : 11,696 $ le litre d’alcool éthylique absolu contenu dans les spiritueux.
 
 
-**2** Spiritueux contenant au plus 7 % d’alcool éthylique absolu par volume : 0,2459 $ le litre de spiritueux.
+**2** Spiritueux contenant au plus 7 % d’alcool éthylique absolu par volume : 0,295 $ le litre de spiritueux.
 
+
+> 2002, ch. 22, ann. 4; 2006, ch. 4, art. 48.
 
 
 
@@ -5895,14 +6002,16 @@ Vin :
 
 
 
-**b)** vin contenant plus de 1,2 % d’alcool éthylique absolu par volume, mais au plus 7 % d’alcool éthylique absolu par volume, 0,2459 $ le litre;
+**b)** vin contenant plus de 1,2 % d’alcool éthylique absolu par volume, mais au plus 7 % d’alcool éthylique absolu par volume, 0,295 $ le litre;
 
 
 
-**c)** vin contenant plus de 7 % d’alcool éthylique absolu par volume, 0,5122 $ le litre.
+**c)** vin contenant plus de 7 % d’alcool éthylique absolu par volume, 0,62 $ le litre.
 
 
 
+
+> 2002, ch. 22, ann. 6; 2006, ch. 4, art. 49.
 
 
 
