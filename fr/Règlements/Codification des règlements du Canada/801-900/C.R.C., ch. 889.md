@@ -3173,100 +3173,97 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th></th>
 <th>Limites maximales</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
 <th>Dommages</th>
-<th></th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl
-
-</th>
-<th>Condition</th>
+<th>Poids spécifique minimum</th>
+<th></th>
 <th>Fendue</th>
-<th>Autres couleurs ou bicolore, autres que pour le soja mélangé %
-
-</th>
-<th>Échauffée ou moisie %
-
-</th>
-<th>Total %
-
-</th>
-<th>Matières étrangères autres que du grain %
-
-</th>
-<th>Total %
-
-</th>
+<th>Autres couleurs ou bicolore, autres que pour le soja mélangé</th>
+<th>Échauffée ou moisie</th>
+<th>Total</th>
+<th>Matières étrangères autres que du grain</th>
+<th>Total</th>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 1</td>
-<td>70,0</td>
-<td>Fraîche, odeur naturelle, grosseur uniforme, bonne couleur naturelle </td>
-<td>10,0</td>
-<td>2,0</td>
+<th>kg/hl</th>
+<th>Condition</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>Canada n <sup>o</sup> 1</td>
+<td>70</td>
+<td>Fraîche, odeur naturelle, bonne couleur naturelle</td>
+<td>10</td>
+<td>2</td>
 <td>Aucune</td>
-<td>2,0</td>
+<td>2</td>
 <td>0,1</td>
-<td>1,0</td>
+<td>1</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 2</td>
-<td>68,0</td>
+<td>Canada n <sup>o</sup> 2</td>
+<td>68</td>
 <td>Fraîche, odeur naturelle, légèrement tachée</td>
-<td>15,0</td>
-<td>3,0</td>
+<td>15</td>
+<td>3</td>
 <td>0,2</td>
-<td>3,0</td>
+<td>3</td>
 <td>0,3</td>
-<td>2,0</td>
+<td>2</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 3</td>
-<td>66,0</td>
-<td>Fraîche, odeur naturelle, peut être tachée </td>
-<td>20,0</td>
-<td>5,0</td>
-<td>1,0</td>
-<td>5,0</td>
+<td>Canada n <sup>o</sup> 3</td>
+<td>66</td>
+<td>Fraîche, odeur naturelle, peut</td>
+<td>20</td>
+<td>5</td>
+<td>1</td>
+<td>5</td>
 <td>0,5</td>
-<td>3,0</td>
+<td>3</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 4</td>
-<td>63,0</td>
-<td>Fraîche, peut être très tachée</td>
-<td>30,0</td>
-<td>10,0</td>
-<td>3,0</td>
-<td>8,0</td>
-<td>2,0</td>
-<td>5,0</td>
+<td>être tachée</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 5</td>
-<td>59,0</td>
+<td>Canada n <sup>o</sup> 4</td>
+<td>63</td>
 <td>Fraîche, peut être très tachée</td>
-<td>40,0</td>
-<td>15,0</td>
-<td>5,0</td>
-<td>15,0</td>
-<td>3,0</td>
-<td>8,0</td>
+<td>30</td>
+<td>10</td>
+<td>3</td>
+<td>8</td>
+<td>2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Canada n <sup>o</sup> 5</td>
+<td>59</td>
+<td>Fraîche, peut être très tachée</td>
+<td>40</td>
+<td>15</td>
+<td>5</td>
+<td>15</td>
+<td>3</td>
+<td>8</td>
 </tr>
 </table>
 
 
-<sup></sup>: Note : La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 24
 <table>
 <h4>Pois autres que pois verts, Canada (Can)</h4>
@@ -3470,7 +3467,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <sup></sup>: Note : La variété ou la couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 26
 <table>
-<h4>Pois fourragers, Canada (Can)</h4>
+<h4> POIS FOURRAGERS, CANADA (Can)</h4>
 <tr>
 <th></th>
 <th>Limites maximales</th>
@@ -5010,7 +5007,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>EC n<sup>o</sup> 3</td>
 <td>46,0</td>
-<td>Passablement bien mûrie, couleur passable, 94,0 % de gruau sain</td>
+<td>Passablement bien mûrie, couleur passable, 94,0 % de gruau sain </td>
 <td>1,0</td>
 <td>4,0</td>
 <td>6,0</td>
@@ -5169,7 +5166,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>EC n<sup>o</sup> 1</td>
 <td>60,0</td>
-<td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
+<td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée </td>
 <td>0,2</td>
 <td>2,5</td>
 <td>1,0</td>
@@ -5569,7 +5566,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Expérimental OC n<sup>o</sup> 3</td>
 <td>76,5</td>
-<td>Toute variété de la classe de blé expérimental, Ouest canadien désignée comme telle par arrêté de la Commission</td>
+<td>Toute variété de la classe de blé expérimental, Ouest canadien désignée comme telle par arrêté de la Commission </td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,2</td>
@@ -5727,16 +5724,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
 <th>Nom de grade</th>
 <th>Poids spécifique minimum kg/hl
 
@@ -5819,7 +5806,68 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A).
+#### TABLEAU 57
+<table>
+<h4>Blé de force blanc de printemps, Est canadien (CEHWS)</h4>
+<tr>
+<th></th>
+<th>Norme de qualité</th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>Poids spécifique minimum</th>
+<th></th>
+<th></th>
+<th>Matières autres que des céréales</th>
+<th>Total</th>
+<th>Classes contrastantes</th>
+</tr>
+<tr>
+<th>kg/hl</th>
+<th>Variété</th>
+<th>Condition</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>CEHWS n<sup>o</sup> 1</td>
+<td>75</td>
+<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission </td>
+<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
+<td>0,2</td>
+<td>0,75</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CEHWS n<sup>o</sup> 2</td>
+<td>72</td>
+<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission </td>
+<td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
+<td>0,3</td>
+<td>1,5</td>
+<td>3</td>
+</tr>
+<tr>
+<td>CEHWS n<sup>o</sup> 3</td>
+<td>69</td>
+<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
+<td>Peut être immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
+<td>0,5</td>
+<td>3,5</td>
+<td>5</td>
+</tr>
+</table>
+
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1.
 
 
 
