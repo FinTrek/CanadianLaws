@@ -1701,7 +1701,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 
 
 ### **SCHEDULE 3** 
-**(Subsections 5(2) and 56(2))**
+**(Subsection 5(2))**
 ## Grades of Grain
 #### TABLE 1
 <table>
@@ -1714,41 +1714,36 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
-<th>Minimum Hard Vitreous Kernels %</th>
-<th>Minimum Protein%
-
-</th>
+<th>Minimum Hard Vitreous Kernels</th>
+<th>Minimum Protein</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CWRS</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any variety of the class CWRS designated as such by order of the Commission</td>
-<td>65.0</td>
-<td>10.0</td>
+<td>65</td>
+<td>10</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.6</td>
@@ -1757,9 +1752,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 2 CWRS</td>
-<td>72.0</td>
+<td>72</td>
 <td>Any variety of the class CWRS designated as such by order of the Commission</td>
-<td>35.0</td>
+<td>35</td>
 <td>No minimum</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
@@ -1769,7 +1764,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 3 CWRS</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CWRS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>No minimum</td>
@@ -1781,11 +1776,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 4 CWRS</td>
-<td>68.0</td>
+<td>68</td>
 <td>Any variety of the class CWRS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>No minimum</td>
-<td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
+<td>May be severely frost-damaged, immature or weather-damaged, moderately free from other severely damaged kernels</td>
 <td>0.5</td>
 <td>2.4</td>
 <td>3.8</td>
@@ -1804,60 +1799,53 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
-<th>Minimum Hard Vitreous Kernels %
-
-</th>
-<th>Minimum Protein %
-
-</th>
+<th>Minimum Hard Vitreous Kernels</th>
+<th>Minimum Protein</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CWRW</td>
-<td>78.0</td>
+<td>78</td>
 <td>Any variety of the class CWRW designated as such by order of the Commission</td>
-<td>50.0</td>
-<td>9.0</td>
+<td>50</td>
+<td>9</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 CWRW</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CWRW designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>2.0</td>
+<td>2</td>
 <td>2.5</td>
-<td>6.0</td>
+<td>6</td>
 </tr>
 </table>
 
@@ -1872,56 +1860,49 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
-<th>Minimum Protein %
-
-</th>
+<th>Minimum Protein</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CWES</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any variety of the class CWES designated as such by order of the Commission</td>
-<td>10.0</td>
+<td>10</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 CWES</td>
-<td>73.0</td>
+<td>73</td>
 <td>Any variety of the class CWES designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
 <td>2.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -1936,54 +1917,50 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
-<th>Wheats of Other Classes or Varieties</th>
+<th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Wheats of Other Classes or Varieties %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Wheats of Other Classes or Varieties</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CWSWS</td>
-<td>76.0</td>
+<td>76</td>
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 CWSWS</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
-<td>2.0</td>
-<td>6.0</td>
+<td>2</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 3 CWSWS</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CWSWS designated as such by order of the Commission</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3.0</td>
-<td>10.0</td>
+<td>3</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -1998,36 +1975,35 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
 <th></th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Amber Durum</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Amber Durum %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CW Feed</td>
-<td>65.0</td>
+<td>65</td>
 <td>Any class or variety of wheat excluding amber durum</td>
-<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>Reasonably sweet, excluded from higher grades of wheat on account of damaged kernels</td>
+<td>1</td>
+<td>10</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -2042,97 +2018,89 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 <th>Foreign Material</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
-<th>Variety</th>
-<th>Minimum Hard Vitreous Kernels %
-
-</th>
-<th>Minimum Protein %
-
-</th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Minimum Hard Vitreous Kernels</th>
+<th>Minimum Protein</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Other Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Other Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>Variety</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CWAD</td>
-<td>79.0</td>
+<td>79</td>
 <td>Any variety of the class CWAD designated as such by order of the Commission</td>
-<td>80.0</td>
+<td>80</td>
 <td>9.5</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>4.0</td>
+<td>2</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 2 CWAD</td>
-<td>77.0</td>
+<td>77</td>
 <td>Any variety of the class CWAD designated as such by order of the Commission</td>
-<td>60.0</td>
+<td>60</td>
 <td>No minimum</td>
 <td>Reasonably well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.2</td>
-<td>3.0</td>
+<td>3</td>
 <td>7.5</td>
 </tr>
 <tr>
 <td>No. 3 CWAD</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CWAD designated as such by order of the Commission</td>
-<td>40.0</td>
+<td>40</td>
 <td>No minimum</td>
 <td>Fairly well matured, may be moderately weather-damaged or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.5</td>
 <td>1.5</td>
 <td>4.3</td>
-<td>11.0</td>
+<td>11</td>
 </tr>
 <tr>
 <td>No. 4 CWAD</td>
-<td>71.0</td>
+<td>71</td>
 <td>Any variety of the class CWAD designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3.0</td>
-<td>10.0</td>
-<td>49.0</td>
+<td>3</td>
+<td>10</td>
+<td>49</td>
 </tr>
 <tr>
 <td>No. 5 CWAD</td>
-<td>No minimum</td>
-<td>Any variety of amber durum wheat</td>
+<td>65</td>
+<td>Any varieties of amber durum wheat</td>
 <td>No minimum</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>49.0</td>
+<td>1</td>
+<td>10</td>
+<td>49</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -2148,103 +2116,100 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
+<th></th>
 <th>Damage</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 <th>Foreign Material</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Frost %
-
-</th>
-<th>Total %
-
-</th>
-<th>Barley %
-
-</th>
-<th>Cereal Grains Other Than Wheat or Barley %
-
-</th>
-<th>Large Seeds %
-
-</th>
-<th>Wheat%
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total Damage and Foreign Material %
-
-</th>
+<th>Heated</th>
+<th>Frost</th>
+<th>Total</th>
+<th>Barley</th>
+<th>Cereal Grains Other Than Wheat or Barley</th>
+<th>Large Seeds</th>
+<th>Wheat</th>
+<th>Wild Oats</th>
+<th>Total Damage and Foreign Material</th>
+</tr>
+<tr>
+<th>Kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>56.0</td>
-<td>Good colour, 98.0% of groats must be sound</td>
+<td>56</td>
+<td>Good colour, 98% sound groats</td>
 <td>Nil</td>
 <td>0.1</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.75</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>53.0</td>
-<td>Good colour, 96.0% of groats must be sound</td>
+<td>53</td>
+<td>Good colour, 96% sound groats</td>
 <td>0.1</td>
-<td>4.0</td>
-<td>4.0</td>
+<td>4</td>
+<td>4</td>
 <td>1.5</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>2.0</td>
-<td>4.0</td>
+<td>2</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
-<td>51.0</td>
-<td>Fair colour, 94.0% of groats must be sound</td>
+<td>51</td>
+<td>Fair colour, 94% sound groats</td>
 <td>0.5</td>
-<td>6.0</td>
-<td>6.0</td>
-<td>3.0</td>
-<td>3.0</td>
+<td>6</td>
+<td>6</td>
+<td></td>
+<td>3</td>
 <td>0.5</td>
-<td>3.0</td>
-<td>3.0</td>
-<td>6.0</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 4 CW</td>
-<td>48.0</td>
-<td>92.0% of groats must be sound</td>
-<td>1.0*</td>
-<td><sup><a href='#footnote1'>[*]</a></sup>No limit</td>
-<td>8.0</td>
-<td>8.0</td>
-<td>8.0</td>
-<td>1.0</td>
-<td>8.0</td>
-<td>8.0</td>
-<td>8.0</td>
+<td>48</td>
+<td>92% sound groats</td>
+<td>1</td>
+<td><sup>[*]</sup>No limit</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>8</td>
+<td>8</td>
 </tr>
 </table>
 
 
-<a name='footnote1'><sup>*</sup></a>: Not included in total damage.<br />
+<sup>*</sup>: Not included in total damage.<br />
 #### TABLE 8
 <table>
 <h4>Barley, Canada Western Malting (CW)</h4>
@@ -2254,92 +2219,111 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Barley of Other Types</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Barley of Other Types %
-
-</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Special Select CW Two-row</td>
-<td>63.0</td>
+<td>63</td>
 <td>Any selected variety of the class Barley, Canada Western Malting Two-Row designated as such by order of the Commission</td>
 <td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
+<td>0.2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr>
 <td>Special Select CW Six-row</td>
-<td>62.0</td>
+<td>62</td>
 <td>Any selected variety of the class Barley, Canada Western Malting Six-Row designated as such by order of the Commission</td>
 <td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
+<td>0.2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr>
 <td>Select CW Two-row</td>
-<td>61.0</td>
+<td>61</td>
 <td>Any selected variety of the class Barley, Canada Western Malting Two-Row designated as such by order of the Commission</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>3</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
 <td>1.5</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr>
 <td>Select CW Six-row</td>
-<td>60.0</td>
+<td>60</td>
 <td>Any selected variety of the class Barley, Canada Western Malting Six-Row designated as such by order of the Commission</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>0.2Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>3</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
 <td>1.5</td>
 </tr>
 <tr>
-<td>Standard Select CW Two-row or Six-row</td>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Standard Select CW Two-row and Six-row</td>
 <td>No minimum</td>
-<td>Any selected variety of the class Barley, Canada Western Malting Two-Row or Barley, Canada Western malting Six-Roy, designated as such by order of the Commission</td>
-<td>Excluded from other grades of malt quality barley on account of weather-staining or discoloration</td>
+<td>Any selected variety of the class Barley, Canada Western Malting Two-Row or Barley, Canada Western Malting Six-Row, designated as such by order of the Commission</td>
+<td>Excluded from other grades of malt quality barley on account of weather-staining or discoloration and objectionable odour</td>
 <td>No limit</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
+<td>0.2</td>
 <td>No limit</td>
 <td>No limit</td>
 <td>No limit</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 </table>
 
@@ -2354,41 +2338,40 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains %
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>63.0</td>
+<td>63</td>
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>2.5</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>57.0</td>
-<td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
+<td>57</td>
+<td>Fairly sweet, excluded from higher grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8.0</td>
+<td>8</td>
 <td>2.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -2402,71 +2385,68 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
-<th>Varieties with Adhered Hulls %
-
-</th>
-<th>Other Hulless Varieties %
-
-</th>
-<th>Total Adhered Hulls %
-
-</th>
+<th>Minimum Test Weight</th>
+<th>Varieties with Adhered Hulls</th>
+<th>Other Hulless Varieties</th>
+<th>Total Adhered Hulls</th>
+<th></th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains%
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select CW Two-row Hulless</td>
-<td>75.0</td>
+<td>75</td>
 <td>Considered as other cereal grains</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Select CW Six-row Hulless</td>
-<td>74.0</td>
+<td>74</td>
 <td>Considered as other cereal grains</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Standard CW Hulless</td>
-<td>72.0</td>
+<td>72</td>
 <td>15.0</td>
 <td>No limit</td>
-<td>15.0</td>
+<td>15</td>
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
-<td>3.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
@@ -2476,53 +2456,52 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits of Foreign Material</th>
+<th>Foreign Material</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Cereal Grains Other Than Wheat</th>
+<th>Ergot</th>
+<th>Matter Other Than Cereal Grain</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Cereal Grains Other Than Wheat %
-
-</th>
-<th>Ergot %
-
-</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>72.0</td>
+<td>72</td>
 <td>Well matured, practically free from weather-damaged kernels</td>
 <td>1.5</td>
 <td>0.05</td>
 <td>0.5</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>69.0</td>
+<td>69</td>
 <td>Reasonably well matured, reasonably free from weather-damaged kernels</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
-<td>63.0</td>
+<td>63</td>
 <td>Excluded from higher grades on account of damaged kernels</td>
-<td>10.0</td>
+<td>10</td>
 <td>0.33</td>
-<td>2.0</td>
-<td>10.0</td>
+<td>2</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -2536,47 +2515,57 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Damage</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Commercially Pure Seed</th>
+<th>Heated</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Commercially Pure Seed %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>65.0</td>
+<td>65</td>
 <td>Any variety of the class Flaxseed, Canada Western designated as such by order of the Commission</td>
 <td>Mature and sweet</td>
-<td>Not more than 1.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>Not more than 1% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
 <td>0.05</td>
 <td>12.5</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>62.0</td>
+<td>62</td>
 <td>Any variety of the class Flaxseed, Canada Western designated as such by order of the Commission</td>
 <td>Reasonably well matured and sweet</td>
-<td>Not more than 1.5% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>Not more than 1.5% of other seedsthat are not readily separable from flaxseed, to be assessed as dockage</td>
 <td>0.2</td>
-<td>25.0</td>
+<td>25</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
 <td>No minimum</td>
 <td>Any variety of flaxseed</td>
-<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low quality seed, not distinctly sour, musty, rancid or any odour that would indicate serious deterioration</td>
-<td>Not more than 2.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>10.0</td>
+<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid or having any odour that would indicate serious deterioration</td>
+<td>Not more than 2% of other seeds  that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>10</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -2590,84 +2579,89 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Damage</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weigh</th>
+<th></th>
+<th></th>
+<th>Heated</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>65.0</td>
+<td>65</td>
 <td>Any variety of the class Solin, Canada Western designated as such by order of the Commission</td>
 <td>Mature and sweet, good natural colour</td>
 <td>0.05</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>62.0</td>
+<td>62</td>
 <td>Any variety of the class Solin, Canada Western designated as such by order of the Commission</td>
 <td>Reasonably well matured and sweet, reasonably good natural colour</td>
 <td>0.2</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
 <td>No minimum</td>
 <td>Any variety of solin</td>
-<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low quality seed, not distinctly sour, musty, rancid or any odour that would indicate serious deterioration</td>
-<td>1.0</td>
-<td>20.0</td>
+<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid or having any odour that would indicate serious deterioration</td>
+<td>1</td>
+<td>20</td>
 </tr>
 </table>
 
 #### TABLE 14
 <table>
-<h4>Corn, Canada Western Yellow, White or Mixed (CW)</h4>
+<h4>Mixed Grain, Canada Western (CW)</h4>
+<tr>
+<th></th>
+<th></th>
+<th>Maximum Limits of Foreign Material</th>
+</tr>
 <tr>
 <th>Grade Name</th>
 <th>Composition</th>
-<th>Maximum Limits of Foreign Material %
-
-</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Mixed Grain, CW Wheat</td>
-<td>Mixtures of cereal grains and wild oats, wheat predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% wheat</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CW Rye</td>
-<td>Mixtures of cereal grains and wild oats, rye predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% rye</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CW Barley</td>
-<td>Mixtures of cereal grains and wild oats, barley predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% barley</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CW Oats</td>
-<td>Mixtures of cereal grains and wild oats, oats predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% oats</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CW Triticale</td>
-<td>Mixtures of cereal grains and wild oats, triticale predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% triticale</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CW</td>
-<td>Mixtures of cereal grains and wild oats, no single grain predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, no single cereal grain exceeding 50% but containing 50% or greater of total cereal grains</td>
+<td>2</td>
 </tr>
 </table>
 
@@ -2678,62 +2672,63 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of Damage</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Heated</th>
+<th>Total</th>
+<th>Cracked Corn and Foreign Material</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Cracked Corn and Foreign Material %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>68.0</td>
+<td>68</td>
 <td>Cool and sweet, uniform size</td>
 <td>0.1</td>
-<td>3.0</td>
-<td>2.0</td>
+<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>66.0</td>
+<td>66</td>
 <td>Cool and sweet</td>
 <td>0.2</td>
-<td>5.0</td>
-<td>3.0</td>
+<td>5</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
-<td>64.0</td>
+<td>64</td>
 <td>Cool and sweet</td>
 <td>0.5</td>
-<td>7.0</td>
-<td>5.0</td>
+<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 4 CW</td>
-<td>62.0</td>
+<td>62</td>
 <td>Cool and sweet</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>7.0</td>
+<td>1</td>
+<td>10</td>
+<td>7</td>
 </tr>
 <tr>
 <td>No. 5 CW</td>
-<td>58.0</td>
+<td>58</td>
 <td>May have a slight odour, not sour or musty</td>
-<td>3.0</td>
-<td>15.0</td>
-<td>12.0</td>
+<td>3</td>
+<td>15</td>
+<td>12</td>
 </tr>
 </table>
 
@@ -2746,65 +2741,69 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th>Damage</th>
+<th></th>
 <th>Foreign Material</th>
+<th></th>
 <th>Hulls</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Heated</th>
+<th>Total</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Empty Hulls</th>
+<th>Dehulled Seeds</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Empty Hulls %
-
-</th>
-<th>Dehulled Seeds %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Well matured, good natural colour</td>
 <td>Nil</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
 <td>0.5</td>
 <td>0.5</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Reasonably well matured, may be moderately weather-stained</td>
 <td>Nil</td>
-<td>10.0</td>
+<td>10</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Excluded from higher grades on account of weather-stained, may have the odour associated with low-quality seed, not distinctly sour, musty or rancid</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>1.0</td>
-<td>5.0</td>
-<td>2.0</td>
-<td>8.0</td>
+<td>1</td>
+<td>10</td>
+<td>1</td>
+<td>5</td>
+<td>2</td>
+<td>8</td>
 </tr>
 </table>
 
@@ -2814,7 +2813,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
+<th></th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -2826,43 +2828,40 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total%
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CPSR</td>
-<td>77.0</td>
-<td>Any variety of the class CPSR designated as such by order of the Commission</td>
+<td>77</td>
+<td>Any variety listed on the CGC CPSR class eligibility order</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>3.0</td>
-<td>5.0</td>
+<td>3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 CPSR</td>
-<td>75.0</td>
-<td>Any variety of the class CPSR designated as such by order of the Commission</td>
+<td>75</td>
+<td>Any variety listed on the CGC CPSR class eligibility order</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>5.0</td>
-<td>10.0</td>
+<td>5</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -2872,7 +2871,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
+<th></th>
+<th></th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -2884,43 +2887,40 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CPSW</td>
-<td>77.0</td>
+<td>77</td>
 <td>Any variety of the class CPSW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>3.0</td>
-<td>5.0</td>
+<td>3</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 CPSW</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any variety of the class CPSW designated as such by order of the Commission</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>5.0</td>
-<td>10.0</td>
+<td>5</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -2937,39 +2937,38 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
 <th>Commercially Pure Seed</th>
-<th>Distinctly Green %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
+<th>Distinctly Green</th>
+<th>Heated</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>Not more than 1.0% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
-<td>2.0</td>
+<td>Not more than 1% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
+<td>2</td>
 <td>0.1</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly well matured, sweet, reasonably good natural colour</td>
 <td>Not more than 1.5% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
-<td>6.0</td>
+<td>6</td>
 <td>0.5</td>
-<td>12.0</td>
+<td>12</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
-<td>May have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid, or any odour that would indicate serious deterioration</td>
-<td>Not more than 2.0% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
-<td>20.0</td>
-<td>2.0</td>
-<td>25.0</td>
+<td>May have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid, or having any odour that would indicate serious deterioration</td>
+<td>Not more than 2% of other seeds that are conspicuous and that are not readily separable from canola, to be assessed as dockage</td>
+<td>20</td>
+<td>2</td>
+<td>25</td>
 </tr>
 </table>
 
@@ -2979,44 +2978,44 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
+<th></th>
 <th>Maximum Limits of Damage</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th>Minimum Test Weight</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Insect Damage %
-
-</th>
-<th>Total %
-
-</th>
-<th>Dehulled Seeds%
-
-</th>
+<th>Heated</th>
+<th>Insect Damage</th>
+<th>Total</th>
+<th>Dehulled Seeds</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
-<td>31.0</td>
+<td>31</td>
 <td>Well matured and sweet</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>4.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
-<td>29.0</td>
+<td>29</td>
 <td>Reasonably well matured and sweet</td>
-<td>1.0</td>
-<td>4.0</td>
-<td>8.0</td>
-<td>5.0</td>
+<td>1</td>
+<td>4</td>
+<td>8</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -3026,44 +3025,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
+<th></th>
 <th>Maximum Limits of Damage</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th></th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Insect Damage %
-
-</th>
-<th>Total %
-
-</th>
-<th>Dehulled Seeds %
-
-</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Minimum Test Weight</th>
+<th>Heated</th>
+<th>Insect Damage</th>
+<th>Total</th>
+<th>Dehulled Seeds</th>
+</tr>
+<tr>
+<th>kg/hL</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
-<td>35.0</td>
+<td>35</td>
 <td>Well matured and sweet</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
-<td>31.0</td>
+<td>31</td>
 <td>Reasonably well matured and sweet</td>
-<td>1.0</td>
-<td>4.0</td>
-<td>10.0</td>
-<td>5.0</td>
+<td>1</td>
+<td>4</td>
+<td>10</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -3078,67 +3084,63 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th></th>
 <th>Damage</th>
 <th>Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Dehulled</th>
+<th>Immature</th>
+<th>Total</th>
+<th>Cereal Grains</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Dehulled %
-
-</th>
-<th>Immature%
-
-</th>
-<th>Total %
-
-</th>
-<th>Cereal Grains %
-
-</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
-<td>58.0</td>
+<td>58</td>
 <td>Cool and sweet</td>
-<td>1.0</td>
+<td>1</td>
 <td>1.5</td>
-<td>4.0</td>
-<td>1.0</td>
+<td>4</td>
+<td>1</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
-<td>55.0</td>
+<td>55</td>
 <td>Cool and sweet</td>
-<td>2.0</td>
+<td>2</td>
 <td>1.5</td>
-<td>8.0</td>
+<td>8</td>
 <td>2.5</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>No minimum</td>
 <td>May have a ground or grassy odour, not musty or sour</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>20.0</td>
-<td>5.0</td>
-<td>2.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
+<td>20</td>
+<td>5</td>
+<td>2</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -3239,99 +3241,94 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <sup></sup>: Note: The colour is added to the grade name.<br />
 #### TABLE 24
 <table>
-<h4>Peas, Canada Other Than Green (Can)</h4>
+<h4>Peas, Canada, Other Than Green (Can)</h4>
 <tr>
 <th></th>
 <th>Standard of Quality</th>
+<th>Maximum Limits of</th>
+</tr>
+<tr>
 <th></th>
 <th></th>
+<th>Damage</th>
+</tr>
+<tr>
 <th></th>
 <th></th>
-<th></th>
-<th>Maximum Limits of Damage</th>
+<th>Peas of Other Colours</th>
+<th>Foreign Material</th>
+<th>Cracked Seed Coats Including Splits</th>
+<th>Shrivelled</th>
+<th>Splits</th>
+<th>Heated</th>
+<th>Insect Damage</th>
+<th>Other Damage</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Colour</th>
-<th>Peas of Other Colours %
-
-</th>
-<th>Foreign Material %
-
-</th>
-<th>Cracked Seed Coats Including Splits %
-
-</th>
-<th>Shrivelled %
-
-</th>
-<th>Splits %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Insect Damage %
-
-</th>
-<th>Other Damage %
-
-</th>
-<th>Total%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Good natural colour</td>
-<td>1.0</td>
+<td>1</td>
 <td>Trace</td>
-<td>5.0</td>
-<td>3,0</td>
-<td>1.0</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
 <td>Nil</td>
-<td>1.0</td>
-<td>3.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fair colour</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.5</td>
 <td>9.5</td>
-<td>5.0</td>
+<td>5</td>
 <td>2.5</td>
 <td>0.05</td>
 <td>1.5</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
 </tr>
 <tr>
 <td>Extra No. 3 Canada</td>
 <td>Fair colour</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.5</td>
-<td>13.0</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>13</td>
+<td>5</td>
+<td>5</td>
 <td>0.05</td>
 <td>1.5</td>
-<td>5.0</td>
+<td>5</td>
 <td>8.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Off-colour</td>
-<td>3.0</td>
-<td>1.0</td>
-<td>15.0</td>
-<td>7.0</td>
-<td>5.0</td>
+<td>3</td>
+<td>1</td>
+<td>15</td>
+<td>7</td>
+<td>5</td>
 <td>0.2</td>
-<td>4.0</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>4</td>
+<td>10</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -3344,7 +3341,6 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th></th>
-<th></th>
 <th>Maximum Limits of</th>
 </tr>
 <tr>
@@ -3355,86 +3351,79 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Damage</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Other Classes</th>
+<th>Bleached</th>
+<th>Total</th>
+<th>Foreign Material</th>
+<th>Cracked Seed Coats Including Splits</th>
+<th>Heated</th>
+<th>Insect Damage</th>
+<th>Other damage</th>
+<th>Shrivelled</th>
+<th>Splits</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Colour</th>
-<th>Other Classes %
-
-</th>
-<th>Bleached%
-
-</th>
-<th>Total %
-
-</th>
-<th>Foreign Material%
-
-</th>
-<th>Cracked Seed Coats Including Splits %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Insect Damage%
-
-</th>
-<th>Other Damage%
-
-</th>
-<th>Shrivelled %
-
-</th>
-<th>Splits %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Good natural colour</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>2</td>
 <td>0.1</td>
-<td>5.0</td>
-<td>—</td>
+<td>5</td>
+<td>Nil</td>
 <td>0.3</td>
-<td>2.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>2</td>
 <td>0.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fair colour</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>3</td>
 <td>3.8</td>
 <td>0.2</td>
-<td>8.0</td>
+<td>8</td>
 <td>0.1</td>
 <td>0.8</td>
-<td>4.0</td>
-<td>4.0</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>4</td>
+<td>4</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Off-colour</td>
-<td>2.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>5</td>
 <td>6.5</td>
 <td>0.5</td>
-<td>13.0</td>
+<td>13</td>
 <td>0.5</td>
 <td>2.5</td>
-<td>10.0</td>
-<td>8.0</td>
-<td>5.0</td>
-<td>12.0</td>
+<td>10</td>
+<td>8</td>
+<td>5</td>
+<td>12</td>
 </tr>
 </table>
 
@@ -3448,32 +3437,29 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of</th>
 </tr>
 <tr>
+<th></th>
+<th>Fireburnt</th>
+<th>Heated and Binburnt</th>
+<th>Pulses Other Than Green, Yellow and Orange Peas</th>
+<th>Inert Material</th>
+<th>Ergot</th>
+<th>Excreta</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Fireburnt %
-
-</th>
-<th>Heated and Binhurnt %
-
-</th>
-<th>Pulses Other Than Green and Yellow Peas %
-
-</th>
-<th>Inert Material %
-
-</th>
-<th>Ergot %
-
-</th>
-<th>Excreta %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Canada Feed Peas</td>
 <td>Nil</td>
-<td>1.0</td>
-<td>5.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>5</td>
+<td>1</td>
 <td>0.05</td>
 <td>0.02</td>
 </tr>
@@ -3489,42 +3475,43 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Damage</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Distinctly Green</th>
+<th>Heated</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
 <th>Commercially Pure Seed</th>
-<th>Distinctly Green %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably well matured, sweet, good natural colour</td>
-<td>Not more than 1.0% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
-<td>2.0</td>
+<td>Not more than 1% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
+<td>2</td>
 <td>0.1</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly well matured, sweet, reasonably good natural colour</td>
 <td>Not more than 1.5% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
-<td>6.0</td>
+<td>6</td>
 <td>0.5</td>
-<td>12.0</td>
+<td>12</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
-<td>May have the natural odour associated with low-quality seed, not distinctly sour, musty, rancid or any odour that would indicate serious deterioration</td>
-<td>Not more than 2.0% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
-<td>20.0</td>
-<td>2.0</td>
-<td>25.0</td>
+<td>May have the natural odour associated with low-quality seed, not distinctly sour, musty or rancid, or any odour that would indicate serious deterioration</td>
+<td>Not more than 2% of other seeds that are conspicuous and that are not readily separable from rapeseed, to be assessed as dockage</td>
+<td>20</td>
+<td>2</td>
+<td>25</td>
 </tr>
 </table>
 
@@ -3535,41 +3522,40 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Damage</th>
+<th></th>
 <th></th>
 <th>Conspicuous Inseparable Seeds</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Other Classes %
-
-</th>
-<th>Distinctly Green %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Distinctly Detrimental %
-
-</th>
-<th>Total %
-
-</th>
+<th>Other Classes</th>
+<th>Distinctly Green</th>
+<th>Heated</th>
+<th>Total</th>
+<th>Distinctly Detrimental</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada, Brown</td>
-<td>Reasonably well matured, sweet, good natural colour</td>
+<td>Reasonably Well matured, Sweet, Good Natural Colour</td>
 <td>0.5</td>
 <td>1.5</td>
 <td>0.1</td>
@@ -3579,33 +3565,33 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 2 Canada, Brown</td>
-<td>Fairly well matured, sweet, reasonably good colour</td>
-<td>2.0</td>
-<td>2.0</td>
+<td>Fairly Well Matured, Sweet, Reasonably Good Colour</td>
+<td>2</td>
+<td>2</td>
 <td>0.2</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada, Brown</td>
-<td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>5.0</td>
+<td>May have the natural odour associated with low-quality seed, may not have any odour that would indicate serious deterioration</td>
+<td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
 <tr>
 <td>No. 4 Canada, Brown</td>
-<td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>10.0</td>
+<td>May have the natural odour associated with low-quality seed, may not have any odour that would indicate serious deterioration</td>
+<td>10</td>
 <td>3.5</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>10</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
@@ -3616,37 +3602,36 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Damage</th>
+<th></th>
 <th></th>
 <th>Conspicuous Inseparable Seeds</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Other Classes %
-
-</th>
-<th>Distinctly Green %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Distinctly Detrimental %
-
-</th>
-<th>Total %
-
-</th>
+<th>Other Classes</th>
+<th>Distinctly Green</th>
+<th>Heated</th>
+<th>Total</th>
+<th>Distinctly Detrimental</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada, Oriental</td>
@@ -3661,32 +3646,32 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 Canada, Oriental</td>
 <td>Fairly well matured, sweet, reasonably good colour</td>
-<td>2.0</td>
+<td>2</td>
 <td>1.5</td>
 <td>0.2</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada, Oriental</td>
 <td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>5.0</td>
+<td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
 <tr>
 <td>No. 4 Canada, Oriental</td>
 <td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>10.0</td>
+<td>10</td>
 <td>3.5</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>10</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
@@ -3697,37 +3682,37 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Damage</th>
+<th></th>
 <th></th>
 <th>Conspicuous Inseparable Seeds</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Other Classes %
-
-</th>
-<th>Distinctly Green %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Distinctly Detrimental %
-
-</th>
-<th>Total%
-
-</th>
+<th>Other Classes</th>
+<th>Distinctly Green</th>
+<th>Heated</th>
+<th>Total</th>
+<th>Distinctly Detrimental</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada, Yellow</td>
@@ -3742,32 +3727,32 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 Canada, Yellow</td>
 <td>Fairly well matured, sweet, reasonably good colour</td>
-<td>2.0</td>
+<td>2</td>
 <td>1.5</td>
 <td>0.2</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada, Yellow</td>
-<td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>5.0</td>
+<td>May have the natural odour associated with low-quality seed, may not have any odour that would indicate serious deterioration</td>
+<td>5</td>
 <td>3.5</td>
 <td>0.5</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.3</td>
 <td>0.7</td>
 </tr>
 <tr>
 <td>No. 4 Canada, Yellow</td>
-<td>May have the natural odour associated with low-quality seed, not any odour that would indicate serious deterioration</td>
-<td>10.0</td>
+<td>May have the natural odour associated with low-quality seed, may not have any odour that would indicate serious deterioration</td>
+<td>10</td>
 <td>3.5</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>10</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
@@ -3778,46 +3763,47 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of Foreign Material</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Cereal Grains Other Than Wheat</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Cereal Grains Other Than Wheat %
-
-</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
-<td>65.0</td>
+<td>65</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.5</td>
 <td>2.5</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
-<td>62.0</td>
+<td>62</td>
 <td>Fairly well matured, reasonably free from severely damaged kernels</td>
-<td>2.0</td>
-<td>1.0</td>
-<td>4.0</td>
+<td>2</td>
+<td>1</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
-<td>3.0</td>
-<td>2.0</td>
-<td>7.0</td>
+<td>3</td>
+<td>2</td>
+<td>7</td>
 </tr>
 </table>
 
@@ -3826,108 +3812,91 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <h4>Pea Beans, Canada (Can)</h4>
 <tr>
 <th></th>
-<th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th>Maximum Limits of Foreign Material</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th></th>
-<th>Foreign Material</th>
-<th></th>
-<th></th>
-<th></th>
+<th>Other Classes That Blend</th>
+<th>Stones, Shale or Similar Material</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total Damage, Foreign Material and Contrasting Classes</th>
+<th>Total Damage, Including Splits, Foreign Material and Contrasting Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Standard of Quality</th>
-<th>Other Classes That Blend %
-
-</th>
-<th>Stones, Shale or Similar Material %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total Damage, Foreign Material and Contrasting Classes %
-
-</th>
-<th>Total Damage, Including Splits, Foreign Material and Contrasting Classes%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Extra No. 1 Canada</td>
 <td>Uniform in size, good natural colour</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.01</td>
 <td>0.05</td>
 <td>0.1</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Canada No. 1 Select</td>
+<td>Fairly good colour</td>
+<td>1</td>
+<td>0.01</td>
+<td>0.05</td>
+<td>0.1</td>
+<td>1.5</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.05</td>
 <td>0.1</td>
 <td>0.1</td>
 <td>1.5</td>
-<td>2.0</td>
-</tr>
-<tr>
-<td>No. 1 Canada</td>
-<td>Fairly good colour</td>
-<td>1.0</td>
-<td>0.01</td>
-<td>0.05</td>
-<td>0.1</td>
-<td>1.5</td>
-<td>2.0</td>
-</tr>
-<tr>
-<td>Select</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.1</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>3.0</td>
-<td>4.0</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>1.0</td>
-<td>5.0</td>
-<td>6.0</td>
+<td>1</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>8.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -3936,7 +3905,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <h4>Beans, Canada Cranberry, Blackeye or Yelloweye (Can)</h4>
 <tr>
 <th></th>
-<th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th>Maximum Limits of </th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -3950,39 +3923,35 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th>Grade Name</th>
 <th>Standard of Quality</th>
-<th>Other Classes That Blend %
-
-</th>
-<th>Stones, Shale or Similar Material %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total Damage, Foreign Material and Contrasting Classes %
-
-</th>
-<th>Total Damage, Including Splits, Foreign Material and Contrasting Classes%
-
-</th>
+<th>Other Classes That Blend</th>
+<th>Stones, Shale or Similar Material</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total Damage, Foreign Material and Contrasting Classes</th>
+<th>Total Damage, Including Splits, Foreign Material and Contrasting Classes</th>
+</tr>
+<tr>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Extra No. 1 Canada</td>
-<td>Uniform size, good natural colour</td>
-<td>1.0</td>
+<td>Uniform in size, good natural colour</td>
+<td>1</td>
 <td>Nil</td>
 <td>0.05</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.05</td>
 <td>0.1</td>
 <td>1.5</td>
@@ -3992,7 +3961,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 Canada Select</td>
 <td>Fairly good colour</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.05</td>
 <td>0.1</td>
 <td>1.5</td>
@@ -4002,32 +3971,32 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.1</td>
 <td>0.2</td>
-<td>3.0</td>
-<td>3.0</td>
+<td>3</td>
+<td>3</td>
 <td>5.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
-<td>10.0</td>
+<td>10</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
 <td>7.5</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
-<td>15.0</td>
+<td>15</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>8.5</td>
 <td>8.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -4038,6 +4007,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <h4>Beans, Canada, Other Than Cranberry, Blackeye, Yelloweye or Pea Beans (Can)</h4>
 <tr>
 <th></th>
+<th></th>
+<th></th>
 <th>Maximum Limits of</th>
 </tr>
 <tr>
@@ -4050,86 +4021,84 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Other Classes That Blend</th>
+<th>Stones, Shale or Similar Material</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total Damage, Foreign Material and Contrasting Classes</th>
+<th>Total Damage Including Splits, Foreign Material and Contrasting Classes</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Standard of Quality</th>
-<th>Other Classes That Blend %
-
-</th>
-<th>Stones, Shale or Similar Material %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total Damage, Foreign Material and Contrasting Classes %
-
-</th>
-<th>Total Damage, Including Splits, Foreign Material and Contrasting Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Extra No. 1 Canada</td>
-<td>Uniform size, good natural colour</td>
-<td>1.0</td>
+<td>Uniform in size, good natural colour</td>
+<td>1</td>
 <td>Nil</td>
 <td>0.05</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably good colour</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.05</td>
 <td>0.1</td>
 <td>1.5</td>
 <td>1.5</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 1 Canada Select</td>
 <td>Fairly good colour</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.05</td>
 <td>0.1</td>
 <td>1.5</td>
 <td>1.5</td>
-<td>3.5</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly good colour</td>
-<td>5.0</td>
+<td>5</td>
 <td>0.1</td>
 <td>0.2</td>
-<td>3.0</td>
-<td>3.0</td>
-<td>4.0</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Fairly good colour</td>
-<td>10.0</td>
+<td>10</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>6.0</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 4 Canada</td>
 <td>Off-colour</td>
-<td>15.0</td>
+<td>15</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>8.5</td>
 <td>8.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -4143,39 +4112,45 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Mechanical Damage</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Damage</th>
+<th>Including Splits</th>
+<th>Green</th>
+<th>Foreign Material</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Damage %
-
-</th>
-<th>Mechanical Damage Including Splits %
-
-</th>
-<th>Green%
-
-</th>
-<th>Foreign Material %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>1.0</td>
-<td>2.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
 <td>0.1</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
-<td>2.0</td>
+<td>2</td>
 <td>3.5</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
-<td>3.0</td>
-<td>5.0</td>
-<td>3.0</td>
+<td>3</td>
+<td>5</td>
+<td>3</td>
 <td>0.2</td>
 </tr>
 </table>
@@ -4186,7 +4161,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits of</th>
+<th>Maximum Limits of </th>
 </tr>
 <tr>
 <th></th>
@@ -4195,43 +4170,43 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Damage</th>
+<th>Mechanical Damage Including Splits</th>
+<th>Green</th>
+<th>Foreign Material</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Colour</th>
-<th>Damage %
-
-</th>
-<th>Mechanical Damage Including Splits %
-
-</th>
-<th>Green %
-
-</th>
-<th>Foreign Material %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW</td>
 <td>Good, natural colour</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.5</td>
 <td>0.1</td>
 </tr>
 <tr>
 <td>No. 2 CW</td>
 <td>Fair</td>
-<td>1.0</td>
-<td>2.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>2</td>
+<td>1</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>No. 3 CW</td>
 <td>Poor</td>
-<td>2.0</td>
-<td>3.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
 <td>0.2</td>
 </tr>
 </table>
@@ -4242,55 +4217,46 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th></th>
-<th></th>
 <th>Maximum Limits of</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
 <th></th>
 <th>Damage</th>
 <th>Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Contrasting Colours</th>
+<th>Stained</th>
+<th>Heated</th>
+<th>Peeled, Split and Broken</th>
+<th>Other Damage</th>
+<th>Total</th>
+<th>Stones</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Contrasting Colours %
-
-</th>
-<th>Stained %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Peeled, Split and Broken %
-
-</th>
-<th>Other Damage %
-
-</th>
-<th>Total %
-
-</th>
-<th>Stones %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Uniform size, good natural colour</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
-<td>2.0</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
 <td>0.1</td>
 <td>0.2</td>
 </tr>
@@ -4298,10 +4264,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 Canada</td>
 <td>Uniform size, reasonably good natural colour</td>
 <td>0.5</td>
-<td>4.0</td>
+<td>4</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>2.0</td>
+<td>2</td>
 <td>3.5</td>
 <td>0.2</td>
 <td>0.5</td>
@@ -4309,26 +4275,26 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>Extra No. 3 Canada</td>
 <td>Uniform size, fair colour</td>
-<td>2.0</td>
-<td>7.0</td>
+<td>2</td>
+<td>7</td>
 <td>0.5</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Poor colour</td>
-<td>3.0</td>
+<td>3</td>
 <td>No limit</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>1</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 </table>
 
@@ -4338,7 +4304,6 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th></th>
 <th>Maximum Limits of</th>
 </tr>
 <tr>
@@ -4349,38 +4314,35 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
+<th>Contrasting Classes</th>
+<th>Heated</th>
+<th>Peeled, Split and Broken</th>
+<th>Other Damage</th>
+<th>Total</th>
+<th>Stones</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Heated %
-
-</th>
-<th>Peeled, split and broken %
-
-</th>
-<th>Other damage %
-
-</th>
-<th>Total %
-
-</th>
-<th>Stones %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada Red</td>
 <td>Uniform size, good natural colour</td>
 <td>0.2</td>
 <td>0.2</td>
-<td>2.0</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
 <td>0.1</td>
 <td>0.2</td>
 </tr>
@@ -4390,7 +4352,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.5</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>2.0</td>
+<td>2</td>
 <td>3.5</td>
 <td>0.2</td>
 <td>0.5</td>
@@ -4398,24 +4360,24 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>Extra No. 3 Canada Red</td>
 <td>Uniform size, fair colour</td>
-<td>2.0</td>
+<td>2</td>
 <td>0.5</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>5.0</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada Red</td>
 <td>Poor colour</td>
-<td>3.0</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>3</td>
+<td>1</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 </table>
 
@@ -4433,53 +4395,53 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Damage</th>
+<th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Splits</th>
+<th>Perforated Damage</th>
+<th>Total</th>
+<th>Stones or Shale</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Degree of Soundness</th>
-<th>Splits %
-
-</th>
-<th>Perforated Damage %
-
-</th>
-<th>Total %
-
-</th>
-<th>Stones or Shale %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 Canada</td>
 <td>Reasonably well matured, reasonably good natural colour</td>
-<td>6.0</td>
-<td>1.0</td>
-<td>4.0</td>
+<td>6</td>
+<td>1</td>
+<td>4</td>
 <td>0.1</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>No. 2 Canada</td>
 <td>Fairly well matured, fair colour</td>
-<td>9.0</td>
-<td>3.0</td>
-<td>6.0</td>
+<td>9</td>
+<td>3</td>
+<td>6</td>
 <td>0.2</td>
 <td>0.5</td>
 </tr>
 <tr>
 <td>No. 3 Canada</td>
 <td>Cool and sweet, excluded from higher grades on account of immaturity, poor colour or damage</td>
-<td>12.0</td>
-<td>3.0</td>
-<td>10.0</td>
+<td>12</td>
+<td>3</td>
+<td>10</td>
 <td>0.5</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 </table>
 
@@ -4497,51 +4459,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CER</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any registered variety of red wheat</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 CER</td>
-<td>72.0</td>
+<td>72</td>
 <td>Any registered variety of red wheat</td>
 <td>Fairly well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CER</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any registered variety of red wheat</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -4559,51 +4521,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains%
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CERS</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any variety of the class CERS designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 CERS</td>
-<td>72.0</td>
+<td>72</td>
 <td>Any variety of the class CERS designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CERS</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CERS designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -4621,51 +4583,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weightkg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains%
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CEHRW</td>
-<td>76.0</td>
+<td>76</td>
 <td>Any variety of the class CEHRW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 CEHRW</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CEHRW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CEHRW</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CEHRW designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -4683,51 +4645,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains%
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CESRW</td>
-<td>76.0</td>
+<td>76</td>
 <td>Any variety of the class CESRW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 CESRW</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CESRW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CESRW</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CESRW designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -4737,64 +4699,65 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th></th>
 <th>Maximum Limits of</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
+<th></th>
+<th></th>
 <th>Foreign Material</th>
-<th>Wheats of Other Classes or Varieties</th>
+<th>Wheat of Other Classes or Varieties</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CEWW</td>
-<td>76.0</td>
+<td>76</td>
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 CEWW</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
-<td>2.0</td>
-<td>2.0</td>
-<td>6.0</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 3 CEWW</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CEWW designated as such by order of the Commission</td>
 <td>May be immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
-<td>3.0</td>
-<td>3.0</td>
-<td>10.0</td>
+<td>3</td>
+<td>3</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -4805,7 +4768,6 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
-<th></th>
 </tr>
 <tr>
 <th></th>
@@ -4813,51 +4775,51 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Wheats of Other Classes</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Wheats of Other Classes %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CESWS</td>
-<td>78.0</td>
+<td>78</td>
 <td>Any variety of the class CESWS designated as such by order of the Commission</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>1.0</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 CESWS</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CESWS designated as such by order of the Commission</td>
 <td>Fairly well matured, may be moderately weather-damaged, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>2.0</td>
-<td>6.0</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 3 CESWS</td>
-<td>69.0</td>
+<td>69</td>
 <td>Any variety of the class CESWS designated as such by order of the Commission</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.0</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -4868,7 +4830,6 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
-<th></th>
 </tr>
 <tr>
 <th></th>
@@ -4876,33 +4837,33 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Amber Durum</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Amber Durum %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>CE Feed</td>
-<td>65.0</td>
+<td>65</td>
 <td>Any class or variety of wheat excluding amber durum</td>
 <td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>1</td>
+<td>10</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -4920,76 +4881,72 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Damage</th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Heated</th>
+<th>Total</th>
+<th>Barley</th>
+<th>Wheat</th>
+<th>Wild Oats</th>
+<th>Total Damage and Foreign Material</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Barley %
-
-</th>
-<th>Wheat %
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total Damage and Foreign Material %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
-<td>51.0</td>
-<td>Well matured, good natural colour, 97.0% sound groats</td>
+<td>51</td>
+<td>Well matured, good natural colour, 97% sound groats</td>
 <td>Nil</td>
 <td>0.1</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
-<td>49.0</td>
-<td>Reasonably well matured, reasonably good natural colour, 96.0% sound groats</td>
+<td>49</td>
+<td>Reasonably well matured, reasonably good natural colour, 96% sound groats</td>
 <td>0.1</td>
-<td>2.0</td>
-<td>2.0</td>
-<td>2.0</td>
-<td>2.0</td>
-<td>4.0</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
 </tr>
 <tr>
 <td>No. 3 CE</td>
-<td>46.0</td>
-<td>Fairly well matured, fair colour, 94.0% sound groats</td>
-<td>1.0</td>
-<td>4.0</td>
-<td>6.0</td>
-<td>6.0</td>
-<td>3.0</td>
-<td>6.0</td>
+<td>46</td>
+<td>Fairly well matured, fair colour, 94% of sound groats</td>
+<td>1</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>3</td>
+<td>6</td>
 </tr>
 <tr>
 <td>No. 4 CE</td>
-<td>43.0</td>
-<td>86.0% sound groats</td>
-<td>3.0</td>
-<td>6.0</td>
-<td>14.0</td>
-<td>14.0</td>
-<td>8.0</td>
-<td>14.0</td>
+<td>43</td>
+<td>86% of sound groats</td>
+<td>3</td>
+<td>6</td>
+<td>14</td>
+<td>14</td>
+<td>8</td>
+<td>14</td>
 </tr>
 </table>
 
@@ -4999,154 +4956,148 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits</th>
+<th></th>
+<th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
 <th></th>
-<th></th>
-<th>Foreign Material</th>
-<th></th>
+<th>Barley of Other Types</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Barley Of Other Types %
-
-</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains %
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Special Select CE Two-row</td>
-<td>63.0</td>
+<td>63</td>
 <td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row designated as such by order of the Commission</td>
 <td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1.0</td>
-<td>0.2Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
+<td>0.2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Special Select CE Six-row</td>
-<td>62.0</td>
+<td>62</td>
 <td>Any selected variety of the class Barley, Canada Eastern Malting Six-Row designated as such by order of the Commission</td>
 <td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
+<td>0.2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Select CE Two-row</td>
-<td>61.0</td>
+<td>61</td>
 <td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row designated as such by order of the Commission</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>3</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
 <td>1.5</td>
 </tr>
 <tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
+<tr>
 <td>Select CE Six-row</td>
-<td>60.0</td>
+<td>60</td>
 <td>Any selected variety of the class Barley, Canada Eastern Malting Six-Row designated as such by order of the Commission</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>3</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
 <td>1.5</td>
+</tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Standard Select CE Two-row and Six-row</td>
 <td>No minimum</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row or Barleyu, Canada Eastern Malting Six-row, designated as such by order of the Commission</td>
+<td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row or Barley, Canada Eastern Malting Six-Row, designated as such by order of the Commission</td>
 <td>Excluded from other grades of malt quality barley on account of weather-staining or discoloration</td>
 <td>No limit</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
+<td>0.2</td>
 <td>No limit</td>
 <td>No limit</td>
 <td>No limit</td>
 </tr>
+<tr>
+<td>Free of large oil-bearing seeds</td>
+</tr>
 </table>
 
 
-<sup></sup>: Note: Only barley accepted for malting will be graded according to quality into the “General Purpose” grades.<br />
+<sup></sup>: Note: Barley not selected for malting will be graded according to quality into the “General Purpose” grades.<br />
 #### TABLE 47
 <table>
 <h4>Barley, Canada Eastern General Purpose (CE)</h4>
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th></th>
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains %
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total%
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
-<td>60.0</td>
+<td>60</td>
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
 <td>0.2</td>
 <td>2.5</td>
-<td>1.0</td>
+<td>1</td>
 <td>2.5</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
-<td>54.0</td>
+<td>54</td>
 <td>Fairly sweet, excluded from other grades of barley on account of immature or severely damaged kernels</td>
 <td>0.2</td>
-<td>8.0</td>
+<td>8</td>
 <td>2.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -5166,81 +5117,89 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+</tr>
+<tr>
 <th></th>
+<th>Minimum Test Weight</th>
 <th></th>
+<th>Varieties with Adhered Hulls</th>
+<th>Other Hulless Varieties</th>
+<th>Total Adhered Hulls</th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Varieties with Adhered Hulls %
-
-</th>
-<th>Other Hulless Varieties %
-
-</th>
-<th>Total Adhered Hulls %
-
-</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains %
-
-</th>
-<th>Wild Oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Select CE Two-row Hulless</td>
-<td>75.0</td>
+<td>75</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>Considered as other cereal grains</td>
+<td>5</td>
+<td>5</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Free of large oil-bearing seeds</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Select CE Six-row Hulless</td>
-<td>74.0</td>
+<td>74</td>
 <td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3.0</td>
-<td>5.0</td>
-<td>5.0</td>
-<td>0.2 Free of large oil-bearing seeds
-
-</td>
-<td>1.0</td>
+<td>Considered as other cereal grains</td>
+<td>5</td>
+<td>5</td>
+<td>0.2</td>
+<td>1</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Free of large oil-bearing seeds</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Standard CE Hulless</td>
-<td>72.0</td>
+<td>72</td>
 <td>Reasonably sweet, may be frost-damaged, weather-stained or otherwise damaged</td>
-<td>15.0</td>
+<td>15</td>
 <td>No limit</td>
-<td>15.0</td>
+<td>15</td>
 <td>0.2</td>
-<td>3.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
 
-<sup></sup>: Note: If specifications for Standard Canada Eastern Hulless are not met, grade according to quality into the “General Purpose” grades.<br />
+<sup></sup>: Note: Barley that does not meet the specifications for Standard Canada Eastern Hulless will be graded according to quality into the “General Purpose” grades.<br />
 #### TABLE 49
 <table>
 <h4>Rye, Canada Eastern (CE)</h4>
@@ -5250,50 +5209,49 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Cereal Grains Other Than Wheat</th>
+<th>Ergot</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Cereal Grains Other Than Wheat %
-
-</th>
-<th>Ergot %
-
-</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
-<td>72.0</td>
+<td>72</td>
 <td>Well matured, practically free from weather-damaged kernels</td>
 <td>1.5</td>
 <td>0.05</td>
 <td>0.5</td>
-<td>2.0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
-<td>69.0</td>
+<td>69</td>
 <td>Reasonably well matured, reasonably free from weather-damaged kernels</td>
-<td>3.0</td>
+<td>3</td>
 <td>0.2</td>
-<td>1.0</td>
-<td>5.0</td>
+<td>1</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 3 CE</td>
-<td>63.0</td>
+<td>63</td>
 <td>Excluded from higher grades on account of damaged kernels</td>
-<td>10.0</td>
+<td>10</td>
 <td>0.33</td>
-<td>2.0</td>
-<td>10.0</td>
+<td>2</td>
+<td>10</td>
 </tr>
 </table>
 
@@ -5303,52 +5261,52 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th></th>
 <th>Standard of Cleanliness</th>
-<th>Maximum Limit of Damage</th>
+<th>Maximum Limits of Damage</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th></th>
+<th>Commercially Pure Seed</th>
+<th>Heated</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hL
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
 <th>Degree of Soundness</th>
-<th>Commercially Pure Seed%
-
-</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
-<td>65.0</td>
-<td>Any variety of the class flaxseed, Canada Eastern designated as such by order of the Commission</td>
+<td>65</td>
+<td>Any variety of the class Flaxseed, Canada Eastern designated as such by order of the Commission</td>
 <td>Mature and sweet</td>
-<td>Not more than 1.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>Not more than 1% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
 <td>0.2</td>
 <td>12.5</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
-<td>62.0</td>
-<td>Any variety of the class flaxseed, Canada Eastern designated as such by order of the Commission</td>
+<td>62</td>
+<td>Any variety of the class Flaxseed, Canada Eastern designated as such by order of the Commission</td>
 <td>Reasonably well matured and sweet</td>
 <td>Not more than 1.5% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
 <td>0.5</td>
-<td>25.0</td>
+<td>25</td>
 </tr>
 <tr>
 <td>No. 3 CE</td>
 <td>No minimum</td>
 <td>Any variety of flaxseed</td>
-<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low quality seed, not distinctly sour, musty, rancid or any odour that would indicate serious deterioration</td>
-<td>Not more than 2.0% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
-<td>10.0</td>
+<td>Excluded from higher grades on account of light weight or damaged seeds, may have the natural odour associated with low-quality seed, not distinctly sour, musty or rancid, or any odour that would indicate serious deterioration</td>
+<td>Not more than 2% of other seeds that are not readily separable from flaxseed, to be assessed as dockage</td>
+<td>10</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -5357,41 +5315,44 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <table>
 <h4>Mixed Grain, Canada Eastern (CE)</h4>
 <tr>
-<th>Grade name</th>
+<th></th>
+<th></th>
+<th>Maximum Limits of Foreign Material</th>
+</tr>
+<tr>
+<th>Grade Name</th>
 <th>Composition</th>
-<th>Maximum Limits of Foreign Material%
-
-</th>
+<th>%</th>
 </tr>
 <tr>
 <td>Mixed Grain, CE Wheat</td>
-<td>Mixtures of cereal grains and wild oats, wheat predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% wheat</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CE Rye</td>
-<td>Mixtures of cereal grains and wild oats, rye predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% rye</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CE Barley</td>
-<td>Mixtures of cereal grains and wild oats, barley predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% barley</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CE Oats</td>
-<td>Mixtures of cereal grains and wild oats, oats predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% oats</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CE Triticale</td>
-<td>Mixtures of cereal grains and wild oats, triticale predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, containing greater than 50% triticale</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Mixed Grain, CE</td>
-<td>Mixtures of cereal grains and wild oats, with no single grain predominating</td>
-<td>2.0</td>
+<td>Mixtures of cereal grains and wild oats, no single cereal grain exceeding 50% but containing 50% or greater of total cereal grains</td>
+<td>2</td>
 </tr>
 </table>
 
@@ -5401,77 +5362,69 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits of</th>
+<th>Maximum Limits of Damage</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
+<th>Minimum Test Weight</th>
 <th></th>
-<th></th>
-<th>Damage</th>
-<th></th>
-<th></th>
+<th>Heated</th>
+<th>Total</th>
+<th>Cracked Corn and Foreign Material</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight (kg/hL)
-
-</th>
+<th>kg/hL</th>
 <th>Degree of Soundness</th>
-<th>Heated %
-
-</th>
-<th>Total %
-
-</th>
-<th>Cracked Corn and Foreign Material %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CE</td>
-<td>68.0</td>
+<td>68</td>
 <td>Cool and sweet, uniform size</td>
 <td>0.1</td>
-<td>3.0</td>
-<td>2.0</td>
+<td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>No. 2 CE</td>
-<td>66.0</td>
+<td>66</td>
 <td>Cool and sweet</td>
 <td>0.2</td>
-<td>5.0</td>
-<td>3.0</td>
+<td>5</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CE</td>
-<td>64.0</td>
+<td>64</td>
 <td>Cool and sweet</td>
 <td>0.5</td>
-<td>7.0</td>
-<td>5.0</td>
+<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 4 CE</td>
-<td>62.0</td>
+<td>62</td>
 <td>Cool and sweet</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>7.0</td>
+<td>1</td>
+<td>10</td>
+<td>7</td>
 </tr>
 <tr>
 <td>No. 5 CE</td>
-<td>58.0</td>
+<td>58</td>
 <td>May have a slight odour, not sour or musty</td>
-<td>3.0</td>
-<td>15.0</td>
-<td>12.0</td>
+<td>3</td>
+<td>15</td>
+<td>12</td>
 </tr>
 </table>
 
 
-<sup></sup>: Note:The colour is added to the grade name.<br />
+<sup></sup>: Note: The colour is added to the grade name.<br />
 #### TABLE 53
 <table>
 <h4>Wheat, Canada Western Experimental (CW EXPRMTL)</h4>
@@ -5486,37 +5439,36 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th></th>
-<th>Foreign Materials</th>
-<th>Wheats of Other Classes or Varieties</th>
+<th>Foreign Material</th>
+<th>Wheats of Other Classes or Varieties</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Minimum Hard Vitreous Kernels</th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Contrasting Classes</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hl
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
-<th>Minimum Hard Vitreous Kernels %
-
-</th>
+<th>%</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Contrasting Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW EXPRMTL</td>
-<td>79.0</td>
+<td>79</td>
 <td>Any wheat variety of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>65.0</td>
+<td>65</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.4</td>
@@ -5527,12 +5479,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>No. 2 CW EXPRMTL</td>
 <td>77.5</td>
 <td>Any wheat variety of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>35.0</td>
+<td>35</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
 <td>1.5</td>
-<td>3.0</td>
+<td>3</td>
 </tr>
 <tr>
 <td>No. 3 CW EXPRMTL</td>
@@ -5543,7 +5495,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>0.2</td>
 <td>1.25</td>
 <td>2.5</td>
-<td>5.0</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -5556,49 +5508,47 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Minimum Designated Variety</th>
+<th></th>
+<th>Inseparable Seeds</th>
+<th>Other Cereal Grains</th>
+<th>Wild Oats</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hl
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
-<th>Minimum Designated Variety %
-
-</th>
+<th>%</th>
 <th>Degree of Soundness</th>
-<th>Inseparable Seeds %
-
-</th>
-<th>Other Cereal Grains %
-
-</th>
-<th>Wild oats %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CW EXPRMTL</td>
-<td>62.0</td>
+<td>62</td>
 <td>Any variety of barley of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>95.0</td>
-<td>Practically sound, reasonably well matured, may contain slightly weather-damaged but not badly stained or discoloured kernels</td>
+<td>95</td>
+<td>Practically sound, reasonably well matured, may contain slightly weather-damaged, not badly stained or discoloured kernels</td>
 <td>0.2</td>
-<td>1.0</td>
+<td>1</td>
 <td>0.5</td>
-<td>1.0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>No. 2 CW EXPRMTL</td>
-<td>60.0</td>
+<td>60</td>
 <td>Any variety of barley of the class Canada Western Experimental designated as such by order of the Commission</td>
-<td>90.0</td>
-<td>Reasonably sound, fairly well matured, may contain moderately weather-damaged but not severely discoloured kernels</td>
+<td>90</td>
+<td>Reasonably sound, fairly well matured, may contain moderately weather-damaged, not severely discoloured kernels</td>
 <td>0.2</td>
-<td>3.0</td>
-<td>1.0</td>
-<td>3.0</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
 </tr>
 </table>
 
@@ -5616,74 +5566,73 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th></th>
-<th>Foreign Materials</th>
+<th>Foreign Material</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Minimum Hard Vitreous Kernels</th>
+<th></th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Total</th>
+<th>Other Classes</th>
+<th>Total</th>
+</tr>
+<tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hl
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
-<th>Minimum Hard Vitreous Kernels %
-
-</th>
+<th>%</th>
 <th>Degree of Soundness</th>
-<th>Matter Other Than Cereal Grains %
-
-</th>
-<th>Total %
-
-</th>
-<th>Other Classes %
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
 <td>No. 1 CEAD</td>
-<td>79.0</td>
+<td>79</td>
 <td>Any variety of the class CEAD designated as such by order of the Commission</td>
-<td>80.0</td>
+<td>80</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>5</td>
 </tr>
 <tr>
 <td>No. 2 CEAD</td>
-<td>77.0</td>
+<td>77</td>
 <td>Any variety of the class CEAD designated as such by order of the Commission</td>
-<td>60.0</td>
+<td>60</td>
 <td>Reasonably well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
 <td>3.5</td>
-<td>10.0</td>
+<td>10</td>
 </tr>
 <tr>
 <td>No. 3 CEAD</td>
-<td>74.0</td>
+<td>74</td>
 <td>Any variety of the class CEAD designated as such by order of the Commission</td>
-<td>40.0</td>
-<td>Fairly well matured, may be moderately weather-damaged or frost-damaged, reasonably free of severely damaged kernels</td>
+<td>40</td>
+<td>Fairly well matured, may be moderately weather-damaged or frost-damaged, reasonably free from severely damaged kernels</td>
 <td>0.5</td>
-<td>2.0</td>
-<td>5.0</td>
-<td>15.0</td>
+<td>2</td>
+<td>5</td>
+<td>15</td>
 </tr>
 <tr>
 <td>CE Feed Durum</td>
-<td>No minimum</td>
+<td>65</td>
 <td>Any variety of amber durum wheat</td>
 <td>No minimum</td>
 <td>Reasonably sweet, excluded from higher grades on account of light weight or damaged kernels</td>
-<td>1.0</td>
-<td>10.0</td>
-<td>49.0</td>
+<td>1</td>
+<td>10</td>
+<td>49</td>
 <td>No limit</td>
 </tr>
 </table>
@@ -5694,42 +5643,47 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits of Foreign Material</th>
+<th>Maximum Limits of</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Foreign Material</th>
+</tr>
+<tr>
+<th></th>
+<th>Minimum Test Weight</th>
+<th></th>
+<th>Minimum Protein</th>
+<th></th>
+<th>Ergot</th>
+<th>Excreta</th>
+<th>Matter Other Than Cereal Grains</th>
+<th>Sclerotinia</th>
+<th>Stones</th>
+<th>Total</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Minimum Test Weight kg/hl
-
-</th>
+<th>kg/hL</th>
 <th>Variety</th>
-<th>Minimum Protein%
-
-</th>
+<th>%</th>
 <th>Degree of Soundness</th>
-<th>Ergot%
-
-</th>
-<th>Excreta%
-
-</th>
-<th>Matter Other Than Cereal Grains%
-
-</th>
-<th>Sclerotinia%
-
-</th>
-<th>Stones%
-
-</th>
-<th>Total %
-
-</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
 </tr>
 <tr>
-<td>No. 1 CWHWS</td>
-<td>75.0</td>
+<td>No. 1 CWHWS </td>
+<td>75</td>
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
-<td>10.0</td>
+<td>10</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.01</td>
 <td>0.01</td>
@@ -5740,7 +5694,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 2 CWHWS</td>
-<td>75.0</td>
+<td>75</td>
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>Fairly well matured, may be moderately bleached or frost-damaged, reasonably free from severely damaged kernels</td>
@@ -5753,7 +5707,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 3 CWHWS</td>
-<td>72.0</td>
+<td>72</td>
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
 <td>No minimum</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
@@ -5766,9 +5720,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 4 CWHWS</td>
-<td>68.0</td>
+<td>68</td>
 <td>Any variety of the class CWHWS designated as such by order of the Commission</td>
-<td>No minimum</td>
+<td>No minimum </td>
 <td>May be severely frost-damaged, immature or weather-damaged, moderately free from other severely damaged kernels</td>
 <td>0.04</td>
 <td>0.015</td>
