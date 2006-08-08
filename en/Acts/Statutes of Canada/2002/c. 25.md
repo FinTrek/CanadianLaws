@@ -691,6 +691,10 @@ India
 
 
 
+Indonesia
+
+
+
 Israel
 
 
@@ -704,6 +708,10 @@ Japan
 
 
 Laos
+
+
+
+Lebanon
 
 
 
@@ -732,10 +740,6 @@ Romania
 
 
 Russia
-
-
-
-Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
 
 
 
@@ -771,6 +775,10 @@ Thailand
 
 
 
+The Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+
+
+
 Togo
 
 
@@ -798,6 +806,6 @@ Vietnam
 Zimbabwe
 
 
-> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194.
+> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194; SOR/2006-177.
 
 
