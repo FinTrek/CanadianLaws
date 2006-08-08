@@ -683,7 +683,7 @@ Croatie
 
 
 
-États-Unis d’Amérique
+États-Unis
 
 
 
@@ -703,6 +703,10 @@ Inde
 
 
 
+Indonésie
+
+
+
 Israël
 
 
@@ -716,6 +720,10 @@ Laos
 
 
 Lesotho
+
+
+
+Liban
 
 
 
@@ -798,6 +806,6 @@ Vietnam
 Zimbabwe
 
 
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177.
 
 
