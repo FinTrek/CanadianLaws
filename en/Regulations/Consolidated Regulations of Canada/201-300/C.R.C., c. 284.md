@@ -56,7 +56,9 @@ Enabling authorities:
 
 ***domestic hen*** means a hen of the domestic chicken belonging to the species *Gallus Domesticus*; (*poule domestique*)
 
-***dye mark*** means a mark consisting of a deposit of food colour not exceeding 20 mm in diameter that is applied to the large end of an egg at a registered egg station or by a producer; (*marque de teinture*)
+***Drinking Water Quality Guidelines*** means the Summary of Guidelines for Canadian Drinking Water Quality — excluding *Supporting Documentation* and references to *Supporting Documentation* — as amended from time to time, prepared by the Federal-Provincial-Territorial Committee on Drinking Water of the Federal-Provincial-Territorial Committee on Environmental and Occupational Health, published on the Web site of the Department of Health; (*Recommandations pour la qualité de l'eau potable*)
+
+***dye mark*** means a mark consisting of a deposit of food colour not exceeding 20 mm in diameter that is applied to the large end of an egg at a registered egg station; (*marque de teinture*)
 
 ***edible*** means fit for use as human food; (*version anglaise seulement*)
 
@@ -92,6 +94,8 @@ Enabling authorities:
 
 ***producer premises code*** means a combination of letters, symbols and numbers that distinguishes the premises of a producer from which the eggs originated; (*code de l’exploitation du producteur*)
 
+***Reference Listing*** means the Reference Listing of Accepted Construction Materials, Packaging Materials and Non-Food Chemical Products published on the Web site of the Agency, as amended from time to time; (*Liste de référence*)
+
 ***Regional Director***[Repealed, SOR/90-110, s. 1]
 
 ***Regional Director General***[Repealed, SOR/2000-184, s. 1]
@@ -113,7 +117,7 @@ Enabling authorities:
 ***tray*** means a container, other than a carton, that is made to contain not more than 30 eggs in separate compartments; (*plateau*)
 
 ***undergrade*** means an egg that does not meet the requirements for the grade at which it is graded. (*inférieur à la catégorie*)
-> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1.
+> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1; SOR/2006-193, s. 1.
 
 
 
@@ -202,28 +206,53 @@ Enabling authorities:
 
 - **(1)** An application for the registration of an egg station shall be made to a Executive Director.
 
-- **(2)** An application referred to in subsection (1) shall have annexed thereto
+- **(2)** An application referred to in subsection (1) shall have annexed thereto
 	- **(a)** detailed plans and specifications for the egg station that shall include
 		- **(i)** the dimensions and intended uses of the rooms and positions of doors, windows, stairways and drains,
 		- **(ii)** descriptions of the lighting, refrigeration, ventilation and plumbing systems,
 		- **(iii)** descriptions of the types and location of equipment to be used in the egg station,
 		- **(iv)** descriptions of the materials used in the construction of equipment, floors, walls, ceilings and openings, and
-		- **(v)** descriptions of the location of the egg station in relation to adjacent buildings, roads, railways, waterways and public utilities; and
-	- **(b)** a copy of an outline of a sanitation program for the egg station indicating
+		- **(v)** descriptions of the location of the egg station in relation to adjacent buildings, roads, railways, waterways and public utilities;
+	- **(b)** a copy of the sanitation program for the egg station, indicating
 		- **(i)** the person responsible for carrying out the program,
-		- **(ii)** the equipment and chemical agents available for use to bring about and maintain clean and sanitary conditions, and
-		- **(iii)** the measures proposed to be taken to ensure clean and sanitary conditions.
+		- **(ii)** the equipment and chemical agents to be used to bring about and maintain clean and sanitary conditions,
+		- **(iii)** the measures proposed to be taken to ensure clean and sanitary conditions;
+	- **(c)** a copy of the quality assurance program for the egg station indicating
+		- **(i)** the person responsible for carrying out the program, and
+		- **(ii)** the frequency of sampling and the verification procedures to ensure that the eggs meet the requirements and standards set out in this Part;
+	- **(d)** a copy of the recall program for eggs that do not meet the requirements and standards set out in this Part, indicating
+		- **(i)** the person responsible for carrying out the program,
+		- **(ii)** descriptions of the product coding system, including producer premises codes and the manner in which they are used to track eggs, and
+		- **(iii)** notification and other procedures to effect a recall;
+	- **(e)** a copy of the pest control program for the egg station, indicating
+		- **(i)** the person responsible for carrying out the program, and
+		- **(ii)** the measures proposed to be taken to safely and effectively control insects, birds, rodents and other vermin;
+	- **(f)** a copy of the employee training program for the egg station, indicating
+		- **(i)** the person responsible for carrying out the program, and
+		- **(ii)** descriptions of training to be provided to personnel who handle eggs and equipment;
+	- **(g)** a copy of a certificate of microbiological analysis of water to be used at the egg station for drinking or egg preparation that
+		- **(i)** indicates the source of the water,
+		- **(ii)** verifies that the water meets the standards for drinking water set out in the Drinking Water Quality Guidelines,
+		- **(iii)** is dated not more than six months prior to the date of the application, and
+		- **(iv)** has been issued by a laboratory that is accredited for drinking water analysis by the Standards Council of Canada or by the municipal or provincial government having jurisdiction in the location in which the egg station is located; and
+	- **(h)** in the case of an egg station that pasteurizes eggs, a copy of the pasteurization program for the egg station, indicating
+		- **(i)** the person responsible for carrying out the program, and
+		- **(ii)** the process to be used to pasteurize the eggs.
 
-- **(3)** Where an egg station in respect of which an application referred to in subsection (1) is made meets the conditions set out in section 8, the Director shall
+- **(3)** Where an egg station in respect of which an application referred to in subsection (1) is made meets the conditions set out in section 8, the Director shall
 	- **(a)** register the egg station by entering its name in the register of registered egg stations of the Agency and by assigning it a registration number; and
 	- **(b)** issue to the operator of the egg station a Certificate of Registration.
 
-- **(4)** An operator shall post and keep posted the Certificate of Registration issued to the operator under subsection (3) in a conspicuous place in the registered egg station for the period during which the Certificate remains in force.
+- **(4)** An operator shall post and keep posted the Certificate of Registration issued to the operator under subsection (3) in a conspicuous place in the registered egg station for the period during which the Certificate remains in force.
 
 - **(5)** The operator shall not assign or transfer a Certificate of Registration issued in respect of an egg station.
 
-- **(6)** The registration of a registered egg station shall lapse if no eggs are graded therein for a period of 12 consecutive months.
-> SOR/90-110, s. 3; SOR/2000-184, ss. 2, 4.
+- **(6)** The registration of a registered egg station shall lapse if
+	- **(a)** no eggs are graded there for a period of 12 consecutive months; or
+	- **(b)** where the operator of the registered egg station changes, the new operator fails to obtain a new registration and Certificate of Registration in respect of the egg station within 60 days after the day on which the change of operator occurs.
+
+- **(7)** The Director shall extend the time limit set out in paragraph (6)(b) if, on written application, the new operator demonstrates that they have diligently pursued their application for a new registration and Certificate of Registration.
+> SOR/90-110, s. 3; SOR/2000-184, ss. 2, 4; SOR/2006-193, s. 2.
 
 
 
@@ -234,23 +263,27 @@ Enabling authorities:
 
 **7.1** 
 
-- **(1)** The Director may suspend the registration of a registered
-	- **(a)** where
-		- **(i)** the egg station does not meet the provisions of the Act or these Regulations,
-		- **(ii)** the operator does not comply with the provisions of the Act, these Regulations, the Egg and Processed Egg Fees Order or the Canadian Food Inspection Agency Fees Notice, or
-		- **(iii)** it is reasonable to believe that public health will be endangered if the egg station is allowed to continue operating; and
-	- **(b)** where the operator has failed or is unable to take immediate corrective measures to remedy any situation referred to in paragraph (a).
+- **(1)** The Director may suspend the registration of a registered egg station
+	- **(a)** if any of the following situations exists, namely,
+		- **(i)** the egg station does not meet the requirements of the Act or these Regulations or of any other federal legislation applicable to it,
+		- **(ii)** the operator does not comply with the provisions of the Act or these Regulations or of any other federal legislation applicable to the operator in respect of their operation of the egg station, or
+		- **(iii)** the operator has failed to pay a fee prescribed by the *Canadian Food Inspection Agency Fees Notice* in accordance with the conditions of payment prescribed by that Notice; and
+	- **(b)** if the operator has failed to remedy any situation identified in the inspection report provided under paragraph (2)(a) by the deadline specified for doing so in accordance with paragraph (2)(b).
 
 - **(2)** No registration shall be suspended under subsection (1) unless
-	- **(a)** an inspector has at the time of inspection, notified the operator of the failure to comply with any provision of the Act or these Regulations;
-	- **(b)** an inspector has prepared an inspection report setting out the reasons for the suspension, the length of the suspension and the corrective measures required and has forwarded a copy of that report to the operator; and
+	- **(a)** the operator is provided with a copy of an inspection report prepared by an inspector that identifies a situation set out in paragraph (1)(a);
+	- **(b)** the inspector has specified, in writing to the operator, the deadline by which the situation must be remedied to avoid suspension; and
 	- **(c)** a notice of suspension of registration is delivered to the operator.
 
+- **(2.1)** Despite subsections (1) and (2), if public health will be endangered if a registered egg station is allowed to continue operating, the Director may, on delivery to the operator of an inspection report setting out the situation and a notice of suspension of registration, suspend the registration of the egg station effective immediately.
+
+- **(2.2)** When the registration of a registered egg station is suspended under subsection (2.1), the inspector shall without delay specify in writing to the operator the deadline by which the situation must be remedied to avoid cancellation of that registration.
+
 - **(3)** A suspension of registration under subsection (1) shall remain in effect
-	- **(a)** until the required corrective measures have been taken and have been verified by an inspector;
-	- **(b)** where a cancellation procedure has been commenced under section 7.2, until the resolution of the cancellation issue; or
-	- **(c)** where a cancellation procedure has not been commenced under section 7.2, until a period of 90 days has elapsed.
-> SOR/90-110, s. 3; SOR/96-124, s. 1; SOR/2000-183, s. 1.
+	- **(a)** until the required corrective measures have been taken and have been verified by an inspector; or
+	- **(b)** where a cancellation procedure has been commenced under section 7.2, until the resolution of the cancellation issue.
+	- **(c)** [Repealed, SOR/2006-193, s. 3]
+> SOR/90-110, s. 3; SOR/96-124, s. 1; SOR/2000-183, s. 1; SOR/2006-193, s. 3.
 
 
 
@@ -262,18 +295,15 @@ Enabling authorities:
 **7.2** 
 
 - **(1)** The Director may cancel the registration of a registered egg station where
-	- **(a)** the egg station does not meet the provisions of the Act or these Regulations; or
-	- **(b)** the operator does not comply with the provisions of the Act or these Regulations.
+	- **(a)** the operator has not remedied the situation,
+		- **(i)** if the registration of the egg station was suspended under subsection 7.1(1), within the 30-day period following the day on which the registration was suspended, or
+		- **(ii)** if the registration of the egg station was suspended under subsection 7.1(2.1), by the deadline referred to in subsection 7.1(2.2); or
+	- **(b)** the application for registration contains false or misleading information.
 
-- **(2)** No registration shall be cancelled under subsection (1) unless
-	- **(a)** an inspector has, at the time of the inspection, notified the operator of the failure to comply with any provision of the Act or these Regulations;
-	- **(b)** a copy of the inspection report is delivered to the operator
-		- **(i)** identifying the provision of the Act or these Regulations that has not been complied with,
-		- **(ii)** specifying the period for compliance with that provision of the Act or these Regulations in order to prevent the cancellation of the registration, and
-		- **(iii)** advising that the operator may be given an opportunity to be heard in respect of the cancellation;
-	- **(c)** the operator has been given an opportunity to be heard in respect of the cancellation; and
-	- **(d)** a notice of cancellation of registration is delivered to the operator.
-> SOR/90-110, s. 3.
+- **(2)** No registration shall be cancelled unless
+	- **(a)** the operator was advised of an opportunity to be heard in respect of the cancellation and was given that opportunity; and
+	- **(b)** a notice of cancellation of registration was delivered to the operator.
+> SOR/90-110, s. 3; SOR/2006-193, s. 4.
 
 
 
@@ -317,7 +347,7 @@ Enabling authorities:
 		- **(iii)** equipped with traps and vents,
 		- **(iv)** designed and constructed so that there is no cross- connection between the effluent of human wastes and any other wastes in the egg station, and
 		- **(v)** designed and constructed in a manner that prevents the contamination of eggs;
-	- **(n)** have, for the candling, weighing, packing, marking and storing of eggs, equipment that is
+	- **(n)** have, for the washing, candling, weighing, pasteurizing, packing, marking and storing of eggs, equipment that is
 		- **(i)** constructed of corrosion-resistant material, free from any noxious constituent and capable of being cleaned,
 		- **(ii)** accessible for cleaning, maintenance and inspection or easily disassembled for those purposes, and
 		- **(iii)** effective for the purpose for which it is intended;
@@ -329,11 +359,13 @@ Enabling authorities:
 		- **(v)** capable of withstanding repeated exposure to normal cleaning, and
 		- **(vi)** non-absorbent;
 	- **(p)** have adequate facilities and means for the thorough washing, cleaning and sanitizing of equipment;
-	- **(q)** be equipped with adequate means of establishing, maintaining and verifying the temperature and humidity of any room where eggs are held; and
-	- **(r)** have a room for the inspection of eggs that is suitably equipped for that purpose.
+	- **(q)** be equipped with adequate means of establishing, maintaining and verifying the temperature and humidity of any room where eggs are held;
+	- **(r)** have a room for the inspection of eggs that is suitably equipped for that purpose;
+	- **(s)** if eggs are pasteurized at the egg station, have the equipment necessary for the pasteurization program referred to in paragraph 7(2)(h); and
+	- **(t)** use, for bringing about and maintaining clean and sanitary conditions in the egg station, only those chemical agents that are included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective.
 
 - **(3)** A registered egg station may use water other than potable water referred to in paragraph (2)(k) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
-> SOR/90-110, s. 3; SOR/92-12, s. 3.
+> SOR/90-110, s. 3; SOR/92-12, s. 3; SOR/2006-193, s. 5.
 
 
 
@@ -348,7 +380,7 @@ Enabling authorities:
 
 - **(2)** The building, equipment, utensils and all other physical facilities of a registered egg station shall be maintained in a sanitary condition.
 
-- **(3)** Every registered egg station shall be operated in accordance with the outline of a sanitation program referred to in paragraph 7(2)(b).
+- **(3)** Every registered egg station shall be operated in accordance with the programs referred to in paragraphs 7(2)(b) to (f) and, where applicable, the pasteurization program referred to in paragraph 7(2)(h), and up-to-date records shall be maintained in respect of those programs.
 
 - **(4)** Operations in relation to the preparation of eggs in a registered egg station shall be carried out under stringent sanitary control.
 
@@ -374,7 +406,7 @@ Enabling authorities:
 
 - **(15)** Ungraded eggs shall not be held at a registered egg station that does not have the equipment required for candling and weighing eggs.
 
-- **(16)** The relative humidity in any room where eggs are held after grading at a registered egg station shall be maintained at not less than 70 per cent and not more than 85 per cent.
+- **(16)** The relative humidity in any room where eggs are held in a registered egg station shall be maintained at not more than 85%.
 
 - **(17)** A room used for storing eggs in a registered egg station shall not also be used for grading eggs that have not been previously graded.
 
@@ -413,7 +445,22 @@ Enabling authorities:
 	- **(e)** is not being used and has not been used for the conveyance of control products as defined in the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance or thing that might adulterate or affect the flavour of the eggs.
 
 - **(29)** No eggs that are conveyed to a registered egg station in a vehicle shall be received at the registered egg station unless the vehicle meets the requirements of paragraphs (28)(a) to (e).
-> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4.
+
+- **(30)** No graded eggs that are returned to a registered egg station shall be conveyed from the station as edible eggs other than to a registered processed egg station.
+
+- **(31)** The water that is used to wash eggs shall be at least 11°C warmer than the eggs and, in the case of a system that uses recirculated water, the water shall be maintained
+	- **(a)** at a temperature that is not less than 40°C; and
+	- **(b)** at a pH level that is not less than 10.
+
+- **(32)** The Director, at the request of the operator, may designate an alternate minimum temperature or pH level, or both, for the water that is used to wash eggs if the operator demonstrates that there will be no adverse impact on the safety and effectiveness of the egg washing system.
+
+- **(33)** The water that is used to wash eggs shall
+	- **(a)** contain an effective shell egg cleaning compound for the washing of eggs that is included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective;
+	- **(b)** be changed at the end of each shift, and more frequently as may be necessary to avoid contamination of eggs; and
+	- **(c)** in the case of a recirculating washing system, be maintained at a level that permits a continuous overflow.
+
+- **(34)** No eggs shall be pasteurized unless they are eggs graded Canada A.
+> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4; SOR/2006-193, s. 6.
 
 
 
@@ -467,24 +514,27 @@ Enabling authorities:
 
 **14** 
 
-- **(1)** Subject to subsection (2), every container of eggs graded pursuant to these Regulations shall be marked with
-	- **(a)** the word “eggs” or “*oeufs*”;
+- **(1)** Subject to subsection (2), every container of eggs graded pursuant to these Regulations shall be marked with
+	- **(a)** the words “eggs” and “*oeufs*”;
 	- **(b)** the grade name of the eggs;
-	- **(c)** the size designation of the eggs as set out in Schedule III if the eggs are graded Canada A;
-	- **(d)** the words “Product of Canada” or “*Produit du Canada*” where the eggs are to be exported out of Canada;
+	- **(c)** the size designation of the eggs as set out in Schedule III if the eggs are graded Canada A;
+	- **(d)** the words “Product of Canada” and “*Produit du Canada*” where the eggs are to be exported out of Canada;
 	- **(e)** the number of eggs in the container;
-	- **(f)** the information required on the label of a food under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); and
-	- **(g)** the producer premises code.
+	- **(f)** the information required on the label of a food under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md);
+	- **(g)** the producer premises code; and
+	- **(h)** in the case of a container of pasteurized eggs, the words
+		- **(i)** “Pasteurized” and “*Pasteurisé*”, and
+		- **(ii)** “Graded Canada A Before Pasteurization” and “*Classé Canada A avant pasteurisation*”.
 
 - **(2)** The grade name and size designation of eggs shall not be marked on a container unless the eggs in that container
 	- **(a)** meet the requirements established by these Regulations in respect of
 		- **(i)** the grade, and
-		- **(ii)** the weight of eggs of that size designation as set out in Schedule III;
+		- **(ii)** the weight of eggs of that size designation as set out in Schedule III;
 	- **(b)** are packed in accordance with these Regulations; and
-	- **(c)** meet the requirements set out in Schedule IV.
+	- **(c)** meet the requirements set out in Schedule IV.
 
 - **(3)** More than one size designation may be marked on a container, other than a tray with an overwrap or a carton, if the size designation of the eggs in the container is clearly marked on the container.
-> SOR/81-1007, s. 5; SOR/90-299, s. 5; SOR/92-12, s. 6; SOR/92-645, s. 3; SOR/95-548, s. 2; SOR/98-131, s. 5.
+> SOR/81-1007, s. 5; SOR/90-299, s. 5; SOR/92-12, s. 6; SOR/92-645, s. 3; SOR/95-548, s. 2; SOR/98-131, s. 5; SOR/2006-193, s. 7.
 
 
 
@@ -525,12 +575,12 @@ Enabling authorities:
 		- **(ii)** for which the eggs were graded and packed; or
 	- **(b)** the wholesaler or retailer of the eggs.
 
-- **(3)** Notwithstanding subsection 14(1), where a tray with an overwrap or a carton marked pursuant to this section is packed in a container, the container need not be marked pursuant to this section if the markings on the tray or carton are visible without opening the container.
+- **(3)** Where a tray with an overwrap or a carton marked pursuant to this section is packed in a container, the container need not be marked pursuant to this section if the markings on the tray or carton are visible without opening the container.
 
-- **(4)** The provisions of sections 14 to 16 and of this section do not apply in respect of a tray with an overwrap or a carton that is
-	- **(a)** packed in a container marked in accordance with sections 14 to 16 and this section; and
+- **(4)** The provisions of sections 14 to 16 and of this section do not apply in respect of a tray with an overwrap or a carton that is
+	- **(a)** packed in a container marked in accordance with sections 14 to 16 and this section; and
 	- **(b)** sent or conveyed to a registered egg station.
-> SOR/81-1007, s. 6; SOR/90-110, s. 4(F); SOR/90-299, s. 6; SOR/92-12, s. 7; SOR/98-131, s. 6.
+> SOR/81-1007, s. 6; SOR/90-110, s. 4(F); SOR/90-299, s. 6; SOR/92-12, s. 7; SOR/98-131, s. 6; SOR/2006-193, s. 8.
 
 
 
@@ -544,15 +594,15 @@ Enabling authorities:
 **19** 
 
 - **(1)** The markings referred to in this Part shall, except in the case of a tray with an overwrap or a carton, be
-	- **(a)** printed, stamped or stencilled in a central location on one of the four sides of every box and on one of the two ends of every case or other receptacle; or
-	- **(b)** printed on a tag that is securely affixed in a central location to one side of every box and one end of every case or other receptacle.
+	- **(a)** printed, stamped or stencilled in a central location on one of the four sides of every box, case or other receptacle; or
+	- **(b)** printed on a tag that is securely affixed in a central location to one of the four sides of every box, case or other receptacle.
 
 - **(2)** The tag referred to in paragraph (1)(b) shall be not less than 75 mm in width and not less than 150 mm in length.
 
 **TABLE** 
 ## [Repealed, SOR/92-70, s. 5]
 
-> SOR/90-299, s. 7; SOR/92-70, s. 5; SOR/98-131, s. 7.
+> SOR/90-299, s. 7; SOR/92-70, s. 5; SOR/98-131, s. 7; SOR/2006-193, s. 9.
 
 
 
@@ -560,28 +610,28 @@ Enabling authorities:
 **20** 
 
 - **(1)** The letters and numbers marked on every container, other than a tray with an overwrap or a carton, and on every tag shall be
-	- **(a)** subject to paragraph (b), not less than 13 mm in height for the grade name and the words “eggs” or “*oeufs*”, “Product of Canada” or “*Produit du Canada*”, “ungraded eggs” or “*oeufs non classés*” and “dyed” or “*teints*”;
+	- **(a)** subject to paragraph (b), not less than 13 mm in height for the grade name and the words “eggs” and “*oeufs*”, “Product of Canada” and “*Produit du Canada*”, “ungraded eggs” or “*oeufs non classés*” and “dyed” or “*teints*”;
 	- **(b)** where the grade name is marked within the outline of a maple leaf, not less than
 		- **(i)** 6 mm in height for the word “Canada”, and
-		- **(ii)** 13 mm in height for the remainder of the grade name, the size designation of the eggs and the words “eggs” or “*oeufs*” and “Product of Canada” or “*Produit du Canada*”; and
+		- **(ii)** 13 mm in height for the remainder of the grade name, the size designation of the eggs and the words “eggs” and “*oeufs*” and “Product of Canada” and “*Produit du Canada*”; and
 	- **(c)** not less than 6 mm in height for all other letters and numbers.
 
-- **(2)** The words “Product of Canada” or “*Produit du Canada*” shall be marked immediately beneath the word “eggs” or “*oeufs*” on the container.
-> SOR/81-1007, s. 7; SOR/98-131, s. 8.
+- **(2)** The words “Product of Canada” and “*Produit du Canada*” shall be marked immediately beneath the words “eggs” and “*oeufs*” on the container.
+> SOR/81-1007, s. 7; SOR/98-131, s. 8; SOR/2006-193, s. 10.
 
 
 
 
 **21** 
 
-- **(1)** The grade name, the size designation and the word “eggs” or “*oeufs*” shall be marked on the top of every tray with an overwrap and every carton, and all other required markings shall be on the top of or on the side of the tray or carton.
+- **(1)** The grade name, the size designation and the words “eggs” and “*oeufs*” shall be marked on the top of every tray with an overwrap and every carton, and all other required markings shall be on the top or side of the tray or carton.
 
 - **(2)** The letters and numbers marked on every tray with an overwrap and every carton shall be
-	- **(a)** subject to subparagraph (b)(ii), not less than 1.5 mm in height; and
+	- **(a)** subject to subparagraph (b)(ii), not less than 1.5 mm in height; and
 	- **(b)** where the grade name is marked within the outline of a maple leaf, not less than
-		- **(i)** 1.5 mm in height for the word “Canada”, and
-		- **(ii)** 3 mm in height for the remainder of the grade name, the size designation of the eggs and the word “eggs” or “*oeufs*”.
-> SOR/81-1007, s. 8; SOR/95-250, s. 3; SOR/98-131, s. 9.
+		- **(i)** 1.5 mm in height for the word “Canada”, and
+		- **(ii)** 3 mm in height for the remainder of the grade name, the size designation of the eggs and the words “eggs” and “*oeufs*”.
+> SOR/81-1007, s. 8; SOR/95-250, s. 3; SOR/98-131, s. 9; SOR/2006-193, s. 11.
 
 
 
@@ -592,6 +642,12 @@ Enabling authorities:
 
 **22.1** No person shall remove the dye mark from an egg graded Canada A, Canada B, Canada C or Canada Nest Run and marked with a dye mark.
 > SOR/81-1007, s. 9; SOR/90-299, s. 16; SOR/92-70, s. 6.
+
+
+
+
+**22.2** No labels applied to an egg graded Canada A or Canada B shall cover, in total, an area on the egg larger than 2.5 cm<sup>2</sup>.
+> SOR/2006-193, s. 12.
 
 
 
@@ -619,16 +675,14 @@ Enabling authorities:
 
 **24** 
 
-- **(1)** An inspector shall, where an application referred to in paragraph 23(1)(a) has been made, issue a certificate of inspection where the inspector finds on inspection of eggs that
-	- **(a)** subject to paragraphs (c) and (d), the eggs meet the requirements set out in Schedule IV;
-	- **(b)** subject to paragraphs (c) and (d), the eggs are graded, packaged and, subject to subsection (2), marked, in accordance with these Regulations;
-	- **(c)** in the case of eggs for export from Canada, the eggs meet the requirements set out in paragraphs 26(1)(a) and (b); and
-	- **(d)** in the case of eggs for import into Canada, the eggs meet the requirements set out in subsection 31(1).
+- **(1)** An inspector shall, where an application referred to in paragraph 23(1)(a) has been made, issue a certificate of inspection where the inspector finds on inspection of eggs that
+	- **(a)** subject to paragraphs (c) and (d), the eggs meet the requirements set out in Schedule IV;
+	- **(b)** subject to paragraphs (c) and (d), the eggs are graded, packaged and, subject to subsection (2), marked, in accordance with these Regulations;
+	- **(c)** in the case of eggs for export from Canada, the eggs meet the requirements set out in paragraphs 26(1)(a) and (b); and
+	- **(d)** in the case of eggs for import into Canada, the eggs meet the requirements set out in subsection 31(1).
 
-- **(2)** An inspector who issues a certificate of inspection shall
-	- **(a)** where the eggs are of Canadian origin, mark the container with a stamp approved by the Agency.
-	- **(b)** [Repealed, SOR/98-131, s. 10]
-> SOR/78-264, s. 1; SOR/90-299, s. 8; SOR/97-292, s. 2; SOR/98-131, s. 10.
+- **(2)** An inspector who issues a certificate of inspection shall, on request, mark the container with a stamp approved by the Agency.
+> SOR/78-264, s. 1; SOR/90-299, s. 8; SOR/97-292, s. 2; SOR/98-131, s. 10; SOR/2006-193, s. 13.
 
 
 
@@ -716,17 +770,19 @@ Enabling authorities:
 **30** 
 
 - **(1)** No person shall convey from one province to another province, except to a registered processed egg station in that other province, eggs that
-	- **(a)** are graded Canada A, Canada B, Canada C or Canada Nest Run and bear a dye mark; or
-	- **(b)** are graded Canada C or Canada Nest Run and do not bear a dye mark.
+	- **(a)** are graded Canada A or Canada B and bear a dye-mark; or
+	- **(b)** are graded Canada C.
+
+- **(1.1)** Eggs that are graded Canada Nest Run may be conveyed from one province to another province if the eggs are conveyed to a registered processed egg station or a registered egg station in that other province.
 
 - **(2)** Ungraded eggs, other than rejects, may be conveyed from one province to another province if the eggs are packed in a container bearing the words “Ungraded Eggs” or “*Oeufs non classés*” and are conveyed to a registered processed egg station or registered egg station in that other province.
 
-- **(3)** Eggs that are imported into Canada having the grade designation Grade C or Grade Nest Run may be conveyed from one province to another province if those eggs are conveyed to a registered processed egg station in that other province.
+- **(3)** Eggs that are imported into Canada having the grade designation Grade C or Grade Nest Run may be conveyed from one province to another province if those eggs are conveyed to a registered processed egg station in that other province.
 
-- **(4)** Ungraded eggs that are imported pursuant to subsection 31(3) into Canada may be conveyed from one province to another province if those eggs are conveyed to a registered processed egg station in that other province.
+- **(4)** Ungraded eggs that are imported pursuant to subsection 31(3) into Canada may be conveyed from one province to another province if those eggs are conveyed to a registered processed egg station in that other province.
 
 - **(5)** Eggs that are rejects may be conveyed from one province to another where the eggs are not intended for human consumption.
-> SOR/81-1007, s. 13; SOR/87-584, s. 2; SOR/90-110, s. 5; SOR/92-70, s. 7; SOR/95-250, s. 5; SOR/97-151, s. 2(E).
+> SOR/81-1007, s. 13; SOR/87-584, s. 2; SOR/90-110, s. 5; SOR/92-70, s. 7; SOR/95-250, s. 5; SOR/97-151, s. 2(E); SOR/2006-193, s. 14.
 
 
 
@@ -737,41 +793,42 @@ Enabling authorities:
 
 **31** 
 
-- **(1)** Subject to subsections (2) and (3), no person shall import any eggs into Canada unless
+- **(1)** Subject to subsections (2) and (3), no person shall import any eggs into Canada unless
 	- **(a)** the eggs originated in a country that has grade requirements and a system of inspection substantially equivalent to those prescribed by these Regulations;
 	- **(b)** the eggs meet the grade designation marked on the container and the requirements established by these Regulations for eggs of the equivalent Canadian grade;
 	- **(c)** the eggs have been prepared under conditions substantially equivalent to those prescribed by these Regulations;
-	- **(d)** in the case of eggs having the grade designation Grade A, the eggs have marked on the container the size designation as set out in Schedule III;
+	- **(d)** in the case of eggs having the grade designation Grade A, the eggs have marked on the container the size designation as set out in Schedule III;
 	- **(e)** the container of eggs bears a label marked with the words “Product of” and “*Produit de*” followed by the name of the country of origin;
 	- **(f)** the eggs are packed and marked in accordance with these Regulations;
-	- **(g)** in the case of eggs having the grade designation Grade C or Grade Nest Run, the eggs are conveyed to a registered processed egg station; and
-	- **(h)** the eggs are accompanied by inspection documentation, for presentation to an inspector at the point of inspection, that the requirements of paragraphs (a) to (d) have been met.
+	- **(g)** in the case of eggs having the grade designation Grade C or Grade Nest Run, the eggs are conveyed to a registered processed egg station;
+	- **(h)** in the case of pasteurized eggs, the information set out in paragraph 7(2)(h) has been submitted in advance to the Executive Director; and
+	- **(i)** the eggs are accompanied by inspection documentation, for presentation to an inspector at the point of inspection, that verifies that the requirements set out in paragraphs (a) to (d) and, if applicable, paragraph (h) have been met.
 
-- **(2)** Subsection (1) does not apply in respect of a shipment of eggs that
+- **(2)** Subsection (1) does not apply in respect of a shipment of eggs that
 	- **(a)** is of one case or less and is not intended for sale in Canada;
 	- **(b)** is part of an immigrant’s effects;
 	- **(c)** is of five cases or less and is intended for use in analysis, evaluation, testing or research or in a national or international food exhibition;
 	- **(d)** is carried on any vessel, train, motor vehicle, aircraft or other means of transportation for use as food for the crew or passengers thereof; or
 	- **(e)** is imported from the United States onto the Akwesasne Reserve for use by an Akwesasne resident.
 
-- **(2.1)** Paragraph (2)(e) does not apply in respect of a shipment of eggs that is conveyed to Canada from another country through the United States.
+- **(2.1)** Paragraph (2)(e) does not apply in respect of a shipment of eggs that is conveyed to Canada from another country through the United States.
 
-- **(2.2)** For the purpose of paragraph (2)(e), ***Akwesasne resident*** means an individual who has established permanent residence on the Akwesasne Reserve.
+- **(2.2)** For the purpose of paragraph (2)(e), ***Akwesasne resident*** means an individual who has established permanent residence on the Akwesasne Reserve.
 
-- **(3)** Subject to section 5 of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), subsection (1) does not apply to a person who imports into Canada ungraded eggs solely for direct delivery to a registered processed egg station for processing if
+- **(3)** Subject to section 5 of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), subsection (1) does not apply to a person who imports into Canada ungraded eggs solely for direct delivery to a registered processed egg station for processing if
 	- **(a)** prior to importation, the importer informs the Executive Director in writing of the quantity of ungraded eggs to be imported and the date of importation and identifies the registered processed egg station to which the eggs are to be delivered; and
 	- **(b)** the eggs are packed in a container that
-		- **(i)** is clean, as defined in section 13,
+		- **(i)** is clean, as defined in section 13,
 		- **(ii)** is dry and sound in construction,
 		- **(iii)** is marked with the words “Ungraded Eggs” or “*Oeufs non classés*”, and
 		- **(iv)** has marked on it the place and country of origin of the eggs.
 
-- **(4)** Every person who imports into Canada ungraded eggs pursuant to subsection (3) shall deliver the eggs or have them delivered directly to the registered processed egg station identified to the Executive Director pursuant to paragraph (3)(a).
+- **(4)** Every person who imports into Canada ungraded eggs pursuant to subsection (3) shall deliver the eggs or have them delivered directly to the registered processed egg station identified to the Executive Director pursuant to paragraph (3)(a).
 
-- **(5)** No person shall convey ungraded eggs imported into Canada pursuant to subsection (3) except to the registered processed egg station identified to the Executive Director pursuant to paragraph (3)(a).
+- **(5)** No person shall convey ungraded eggs imported into Canada pursuant to subsection (3) except to the registered processed egg station identified to the Executive Director pursuant to paragraph (3)(a).
 
-- **(6)** No person shall convey from a registered processed egg station any ungraded eggs imported into Canada pursuant to subsection (3) unless those eggs are processed eggs.
-> SOR/81-1007, s. 14; SOR/90-110, s. 5; SOR/92-3, s. 1; SOR/92-70, s. 8; SOR/95-250, s. 6; SOR/2000-184, s. 4; SOR/2003-6, s. 1.
+- **(6)** No person shall convey from a registered processed egg station any ungraded eggs imported into Canada pursuant to subsection (3) unless those eggs are processed eggs.
+> SOR/81-1007, s. 14; SOR/90-110, s. 5; SOR/92-3, s. 1; SOR/92-70, s. 8; SOR/95-250, s. 6; SOR/2000-184, s. 4; SOR/2003-6, s. 1; SOR/2006-193, s. 15.
 
 
 
@@ -872,67 +929,67 @@ Enabling authorities:
 ## Grade Requirements
 **1** 
 
-- **(1) to (1.3)** [Repealed, SOR/90-299, s. 11]
+- **(1) to (1.3)** [Repealed, SOR/90-299, s. 11]
 
-- **(2)** An egg may be graded as Canada A if, in addition to meeting the requirements set out in section 4 of these Regulations,
+- **(2)** An egg may be graded as Canada A if, in addition to meeting the requirements set out in section 4 of these Regulations,
 	- **(a)** the egg shows on candling
 		- **(i)** a reasonably firm albumen,
 		- **(ii)** an indistinct yolk outline,
 		- **(iii)** a round yolk that is reasonably well centered, and
-		- **(iv)** an air cell that is not in excess of 5 mm in depth, and
+		- **(iv)** an air cell that is not in excess of 5 mm in depth, and
 	- **(b)** the shell
-		- **(i)** has not more than three stain spots, the aggregate area of which does not exceed an area equivalent to 25 mm<sup>2</sup> and the shell is otherwise free of dirt and stain,
+		- **(i)** has not more than three stain spots, the aggregate area of which does not exceed an area equivalent to 25 mm<sup>2</sup> and the shell is otherwise free of dirt and stain,
 		- **(ii)** is normal or nearly normal in shape but may have rough areas and ridges other than heavy ridges, and
 		- **(iii)** is uncracked.
 
-- **(2.1)** Notwithstanding subsection (2), where an inspector, before grading, inspects a sample from a lot, the eggs in that lot shall not be graded as Canada A unless the sample meets the following standards:
-	- **(a)** the quality factor of albumen firmness of the eggs in the sample averages 67 Haugh units or higher;
+- **(2.1)** Notwithstanding subsection (2), where an inspector, before grading, inspects a sample from a lot, the eggs in that lot shall not be graded as Canada A unless the sample meets the following standards:
+	- **(a)** the quality factor of albumen firmness of the eggs in the sample averages 67 Haugh units or higher;
 	- **(b)** the sample does not contain more than
 		- **(i)** 10% of eggs with cracked shells,
-		- **(ii)** 5% of eggs with dirt on the shells where the dirt on the shell is more than 160 mm<sup>2</sup> in size but covers less than 1/3 of the area of the shell,
+		- **(ii)** 5% of eggs with dirt on the shells where the dirt on the shell is more than 160 mm<sup>2</sup> in size but covers less than 1/3 of the area of the shell,
 		- **(iii)** 2.5% of eggs with dirt on the shells where the dirt covers 1/3 or more of the area of the shell,
-		- **(iv)** 5% of eggs with stains on the shells where the stains cover more than 1/2 the area of the shell,
+		- **(iv)** 5% of eggs with stains on the shells where the stains cover more than ½ the area of the shell,
 		- **(v)** 10% of eggs with rough, ridged or misshapened shells,
-		- **(vi)** 5% of eggs with an air cell in excess of 5 mm in depth, and
+		- **(vi)** 5% of eggs with an air cell in excess of 5 mm in depth, and
 		- **(vii)** 2.5% of eggs that are leakers; and
-	- **(c)** the sample does not contain more than a total of 15% of eggs described in subparagraphs (b)(i) to (vii).
+	- **(c)** the sample does not contain more than a total of 15% of eggs described in subparagraphs (b)(i) to (vii).
 
-- **(3)** An egg may be graded as Canada B if, in addition to meeting the requirements set out in section 4 of these Regulations,
+- **(3)** An egg may be graded as Canada B if, in addition to meeting the requirements set out in section 4 of these Regulations,
 	- **(a)** the egg
-		- **(i)** weighs at least 49 g,
-		- **(ii)** does not meet the requirements for the grade Canada A, and
+		- **(i)** weighs at least 49 g,
+		- **(ii)** does not meet the requirements for the grade Canada A, and
 		- **(iii)** is uncracked; and
 	- **(b)** the egg
 		- **(i)** shows on candling a distinct yolk outline,
 		- **(ii)** shows on candling a yoke that is moderately oblong in shape and that floats freely within the egg when twirled,
 		- **(iii)** shows on candling a very slight degree of germ development,
-		- **(iv)** shows on candling an air cell not in excess of 9 mm in depth,
-		- **(v)** shows spots of dirt on the shell, if the aggregate area of the dirt does not exceed 40 mm<sup>2</sup>, and stain spots, if the aggregate area of the stain does not exceed 320 mm<sup>2</sup>, or
+		- **(iv)** shows on candling an air cell not in excess of 9 mm in depth,
+		- **(v)** shows stain spots on the shell, if the aggregate area of the stain does not exceed 320 mm <sup>2</sup> and the shell is otherwise free of dirt, or
 		- **(vi)** has a shell that is slightly abnormal in shape and has rough areas and definite ridges.
 
-- **(4)** An egg may be graded as Canada C if, in addition to meeting the requirements set out in section 4 of these Regulations,
+- **(4)** An egg may be graded as Canada C if, in addition to meeting the requirements set out in section 4 of these Regulations,
 	- **(a)** the egg is free from dirt;
 	- **(b)** the egg
 		- **(i)** shows on candling a prominent yolk outline,
 		- **(ii)** shows on candling a yolk that is definitely oblong in shape but does not adhere to the shell membrane,
-		- **(iii)** shows on candling meat spots or blood spots not in excess of 3 mm in diameter,
+		- **(iii)** shows on candling meat spots or blood spots not in excess of 3 mm in diameter,
 		- **(iv)** shows stain spots on the shell, the aggregate area of which does not exceed 1/3 of the shell surface of the egg, or
 		- **(v)** has a shell that is cracked, if the internal contents are not leaking; and
 	- **(c)** the egg is conveyed to a registered processed egg station.
 
-- **(5)** Subject to subsection (6), an egg may be graded Canada Nest Run if the egg
-	- **(a)** meets the requirements set out in section 4 of these Regulations; and
+- **(5)** Subject to subsection (6), an egg may be graded Canada Nest Run if the egg
+	- **(a)** meets the requirements set out in section 4 of these Regulations; and
 	- **(b)** is conveyed to a registered egg station or a registered processed egg station.
 
-- **(6)** Notwithstanding subsection (5), eggs in a lot shall not be graded as Canada Nest Run unless the lot meets the following standards:
+- **(6)** Notwithstanding subsection (5), eggs in a lot shall not be graded as Canada Nest Run unless the lot meets the following standards:
 	- **(a)** the lot does not contain more than
 		- **(i)** 10% of eggs with cracked shells,
-		- **(ii)** 5% of eggs with dirt on the shells where the dirt is more than 160 mm<sup>2</sup> in size, and
+		- **(ii)** 5% of eggs with dirt on the shells where the dirt is more than 160 mm<sup>2</sup> in size, and
 		- **(iii)** 3% of eggs that are leakers or rejects; and
-	- **(b)** the lot does not contain more than a total of 15% of eggs described in paragraph (a).
+	- **(b)** the lot does not contain more than a total of 15% of eggs described in paragraph (a).
 
 
-> SOR/81-1007, s. 17; SOR/83-919, s. 1; SOR/85-1130, s. 1; SOR/90-299, ss. 11, 17(F); SOR/92-12, s. 8; SOR/92-70, s. 9; SOR/98-131, s. 11.
+> SOR/81-1007, s. 17; SOR/83-919, s. 1; SOR/85-1130, s. 1; SOR/90-299, ss. 11, 17(F); SOR/92-12, s. 8; SOR/92-70, s. 9; SOR/98-131, s. 11; SOR/2006-193, s. 16.
 
 
 
@@ -949,7 +1006,7 @@ Enabling authorities:
 ### **SCHEDULE III** 
 **(Sections 14 and 31)**
 ## Egg Size
-Eggs graded as Canada A shall be designated as Jumbo Size, Extra Large Size, Large Size, Medium Size, Small Size or Peewee Size in accordance with the following table:
+Eggs graded as Canada A shall be designated as Jumbo Size, Extra Large Size, Large Size, Medium Size, Small Size or Peewee Size in accordance with the following table:
 #### TABLE
 <table>
 <tr>
@@ -960,50 +1017,50 @@ Eggs graded as Canada A shall be designated as Jumbo Size, Extra Large Size, Lar
 </tr>
 <tr>
 <th>Size Designation</th>
-<th>Egg Weighs Not Less Than</th>
+<th>Egg Weighs Not Less Than</th>
 <th>Egg Weighs Less Than</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Jumbo Size</td>
-<td>70 g</td>
+<td>70 g</td>
 <td>—</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Extra Large Size</td>
-<td>64 g</td>
+<td>63 g</td>
 <td>—</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Large Size</td>
-<td>56 g</td>
+<td>56 g</td>
 <td>—</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Medium Size</td>
-<td>49 g</td>
+<td>49 g</td>
 <td>—</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Small Size</td>
-<td>42 g</td>
+<td>42 g</td>
 <td>—</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Peewee Size</td>
 <td>—</td>
-<td>42 g</td>
+<td>42 g</td>
 </tr>
 </table>
 
 
 
-> SOR/81-1007, s. 18; SOR/83-919, s. 2; SOR/90-299, s. 13; SOR/92-70, s. 11; SOR/98-131, s. 12.
+> SOR/81-1007, s. 18; SOR/83-919, s. 2; SOR/90-299, s. 13; SOR/92-70, s. 11; SOR/98-131, s. 12; SOR/2006-193, s. 17.
 
 
 
@@ -1011,23 +1068,23 @@ Eggs graded as Canada A shall be designated as Jumbo Size, Extra Large Size, Lar
 ### **SCHEDULE IV** 
 **(Sections 14 and 25)**
 ## Inspection Requirements
-**1** [Repealed, SOR/92-12, s. 9]
+**1** [Repealed, SOR/92-12, s. 9]
 
 
 **2** 
 
-- **(1)** Where eggs are inspected at the place where they were graded or packed, not more than seven per cent of the eggs examined may be undergrade, of which not more than five per cent may be undergrade for causes other than cracked shells.
+- **(1)** [Repealed, SOR/2006-193, s. 18]
 
-- **(2)** Where eggs are inspected at a place other than where they were graded or packed, not more than 10 per cent of the eggs examined may be undergrade, of which not more than seven per cent may be undergrade for causes other than cracked shells.
+- **(2)** When eggs are inspected at a place other than where they were graded or packed, not more than 10 per cent of the total number of eggs examined may be undergrade and not more than seven per cent of the total number of eggs examined may be undergrade by reason of causes other than cracked shells.
 
 - **(3)** Where eggs are inspected on the premises of a retailer, the depth of the air cell shall not be taken into account in determining undergrades.
 
-- **(4)** This section does not apply to eggs graded Canada C or having the grade designation Grade C.
+- **(4)** This section does not apply to eggs graded Canada C or Canada Nest Run or having the grade designation Grade C or Nest Run.
 
 
-**3** Not more than five per cent of the eggs graded Canada C or having the grade designation Grade C may show stain spots that exceed one third of the shell surface of each of the eggs.
+**3** Not more than five per cent of the eggs graded Canada C or having the grade designation Grade C may show stain spots that exceed one third of the shell surface of each of the eggs.
 
 
-> SOR/81-1007, s. 19; SOR/90-299, ss. 14, 15; SOR/92-12, s. 9; SOR/98-131, s. 13.
+> SOR/81-1007, s. 19; SOR/90-299, ss. 14, 15; SOR/92-12, s. 9; SOR/98-131, s. 13; SOR/2006-193, s. 18.
 
 
