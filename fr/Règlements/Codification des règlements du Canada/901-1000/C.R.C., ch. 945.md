@@ -2252,10 +2252,10 @@ dans cet endroit.
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 7(10), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
-- **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d) de la Loi;
+- **b)** les paragraphes 7(10), 12.2(4), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 107(2.001), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
+- **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1.
 
 
 
@@ -48600,6 +48600,7 @@ par
 - Bryn Mawr College, Bryn Mawr, Pennsylvanie
 - Bucknell University, Lewisburg, Pennsylvanie
 - California Institute of Technology, Pasadena, Californie
+- California Institute of the Arts, Valencia, Californie
 - California Lutheran University, Thousand Oaks, Californie
 - Calvin College, Grand Rapids, Michigan
 - Calvin Theological Seminary, Grand Rapids, Michigan
@@ -48612,6 +48613,7 @@ par
 - Cedarville College, Cedarville, Ohio
 - Central Michigan University, Mount Pleasant, Michigan
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
+- Christendom College, Front Royal, Virginie
 - City University, Bellevue, Washington
 - Claremont McKenna College, Claremont, Californie
 - Clark University, Worcester, Massachusetts
@@ -48645,6 +48647,7 @@ par
 - Drury College, Springfield, Missouri
 - Duke University, Durham, Caroline du Nord
 - Duquesne University, Pittsburgh, Pennsylvanie
+- D’Youville College, Buffalo, New York
 - Eastern College, St. Davids, Pennsylvanie
 - Eastern Mennonite University, Harrisonburg, Virginie
 - Eastern Washington University, Cheney, Washington
@@ -48666,6 +48669,7 @@ par
 - Fuller Theological Seminary, Pasadena, Californie
 - Gallaudet College, Washington, District de Columbia
 - Geneva College, Beaver Falls, Pennsylvanie
+- Georgetown University, Washington, district de Columbia
 - George Washington University, The, Washington, District de Columbia
 - Georgia Institute of Technology, Atlanta, Georgie
 - Goddard College, Plainfield, Vermont
@@ -48706,7 +48710,7 @@ par
 - Le Moyne College, Syracuse, New York
 - LeTourneau College, Longview, Texas
 - Liberty University, Lynchburg, Virginie
-- Life Chiropractic College-West, San Lorenzo, Californie
+- Life Chiropractic College West, Hayward, Californie
 - Life University, Marietta, Georgie
 - Logan College of Chiropractic, Saint-Louis, Missouri
 - Loma Linda University, Loma Linda, Californie
@@ -48931,6 +48935,7 @@ par
 - University of San Diego, San Diego, Californie
 - University of Southern California, Los Angeles, Californie
 - University of Southern Mississippi, The, Hattiesburg, Mississippi
+- University of St. Thomas, St. Paul, Minnesota
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, Californie
@@ -48983,6 +48988,7 @@ par
 - Aston University, Birmingham, Angleterre
 - Cranfield University, Bedfordshire, Angleterre
 - Gateshead Talmudical College, Gateshead, Angleterre
+- Heriot-Watt University, Édimbourg, Écosse
 - Imperial College of Science, Technology and Medicine, Londres, Angleterre
 - King’s College London, Londres, Angleterre
 - London Business School, Londres, Angleterre
@@ -49062,6 +49068,7 @@ par
 
 
 **9** Les universités situées au Liban qui sont prescrites par l’article 3503 sont les suivantes :
+- American University of Beirut, Riad El Solh, Beyrouth
 - L’Université Saint Joseph, Beyrouth
 
 
@@ -49110,6 +49117,7 @@ par
 
 
 **19** Les universités suivantes, situées en Afrique du Sud, sont désignées pour l’application de l’article 3503 :
+- University of Cape Town, Rondebosch
 - University of Natal, Durban
 - University of the Witwatersrand, The, Johannesburg
 
@@ -49126,6 +49134,7 @@ par
 
 
 **22** Les universités ci-après, situées en Nouvelle-Zélande, sont désignées pour l’application de l’article 3503 :
+- University of Auckland, The, Auckland
 - University of Otago, Dunedin
 - Victoria University of Wellington, Wellington
 
@@ -49138,9 +49147,11 @@ par
 - Panjab University, Chandigarh
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5..
+**25** L’université suivante, située en Estonie, est désignée pour l’application de l’article 3503 :
+- Université de Tartu, Tartu
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; .
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7.
 
 
 
