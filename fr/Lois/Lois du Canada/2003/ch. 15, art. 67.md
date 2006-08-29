@@ -892,6 +892,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Tsawout First Nation
+
+</td>
+<td>Council of the Tsawout First Nation
+
+</td>
+<td>Réserve de Tsawout First Nation
+
+</td>
+</tr>
+<tr>
 <td>Tzeachten
 
 </td>
@@ -904,7 +915,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201.
 
 
 
