@@ -2256,10 +2256,10 @@ in that place.
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 7(10), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
-- **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d) of the Act;
+- **(b)** subsections 7(10), 12.2(4), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 107(2.001), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1.
 
 
 
@@ -48767,6 +48767,7 @@ by
 - Bryn Mawr College, Bryn Mawr, Pennsylvania
 - Bucknell University, Lewisburg, Pennsylvania
 - California Institute of Technology, Pasadena, California
+- California Institute of the Arts, Valencia, California
 - California Lutheran University, Thousand Oaks, California
 - Calvin College, Grand Rapids, Michigan
 - Calvin Theological Seminary, Grand Rapids, Michigan
@@ -48779,6 +48780,7 @@ by
 - Cedarville College, Cedarville, Ohio
 - Central Michigan University, Mount Pleasant, Michigan
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
+- Christendom College, Front Royal, Virginia
 - City University, Bellevue, Washington
 - Claremont McKenna College, Claremont, California
 - Clark University, Worcester, Massachusetts
@@ -48812,6 +48814,7 @@ by
 - Drury College, Springfield, Missouri
 - Duke University, Durham, North Carolina
 - Duquesne University, Pittsburgh, Pennsylvania
+- D’Youville College, Buffalo, New York
 - Eastern College, St. Davids, Pennsylvania
 - Eastern Mennonite University, Harrisonburg, Virginia
 - Eastern Washington University, Cheney, Washington
@@ -48833,6 +48836,7 @@ by
 - Fuller Theological Seminary, Pasadena, California
 - Gallaudet College, Washington, District of Columbia
 - Geneva College, Beaver Falls, Pennsylvania
+- Georgetown University, Washington, District of Columbia
 - George Washington University, The, Washington, District of Columbia
 - Georgia Institute of Technology, Atlanta, Georgia
 - Goddard College, Plainfield, Vermont
@@ -48873,7 +48877,7 @@ by
 - Le Moyne College, Syracuse, New York
 - LeTourneau College, Longview, Texas
 - Liberty University, Lynchburg, Virginia
-- Life Chiropratic College-West, San Lorenzo, California
+- Life Chiropractic College West, Hayward, California
 - Life University, Marietta, Georgia
 - Logan College of Chiropractic, St. Louis, Missouri
 - Loma Linda University, Loma Linda, California
@@ -49098,6 +49102,7 @@ by
 - University of San Diego, San Diego, California
 - University of Southern California, Los Angeles, California
 - University of Southern Mississippi, The, Hattiesburg, Mississippi
+- University of St. Thomas, St. Paul, Minnesota
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, California
@@ -49151,6 +49156,7 @@ by
 - Aston University, Birmingham, England
 - Cranfield University, Bedfordshire, England
 - Gateshead Talmudical College, Gateshead, England
+- Heriot-Watt University, Edinburgh, Scotland
 - Imperial College of Science, Technology and Medicine, London, England
 - King’s College London, London, England
 - London Business School, London, England
@@ -49230,6 +49236,7 @@ by
 
 
 **9** The universities situated in Lebanon that are prescribed by section 3503 are the following:
+- American University of Beirut, Riad El Solh, Beirut
 - St. Joseph University, Beirut
 
 
@@ -49278,6 +49285,7 @@ by
 
 
 **19** The universities situated in South Africa that are prescribed by section 3503 are the following:
+- University of Cape Town, Rondebosch
 - University of Natal, Durban
 - University of the Witwatersrand, The, Johannesburg
 
@@ -49294,6 +49302,7 @@ by
 
 
 **22** The universities situated in New Zealand that are prescribed by section 3503 are the following:
+- University of Auckland, The, Auckland
 - University of Otago, Dunedin
 - Victoria University of Wellington, Wellington
 
@@ -49306,7 +49315,11 @@ by
 - Panjab University, Chandigarh
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5.
+**25** The university situated in Estonia that is prescribed by section 3503 is the following:
+- University of Tartu, Tartu
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7.
 
 
 
