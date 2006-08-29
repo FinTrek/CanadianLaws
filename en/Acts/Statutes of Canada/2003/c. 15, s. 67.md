@@ -882,6 +882,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Tsawout First Nation
+
+</td>
+<td>Council of the Tsawout First Nation
+
+</td>
+<td>Reserve of the Tsawout First Nation
+
+</td>
+</tr>
+<tr>
 <td>Tzeachten
 
 </td>
@@ -905,7 +916,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363.
+> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201.
 
 
 
