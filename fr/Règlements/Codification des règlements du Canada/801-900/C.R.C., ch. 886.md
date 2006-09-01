@@ -51,6 +51,8 @@ Autorités habilitantes :
 
 ***conducteur*** désigne une personne qui conduit un véhicule à moteur ou une bicyclette ou qui en a effectivement le contrôle; (*driver*)
 
+***côté ville*** S’entend au sens de l’article 1 du [Règlement sur la circulation du côté ville des aéroports](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2006/102.md). (*land side*)
+
 ***directeur d’aéroport*** Personne chargée de l’aéroport ou son représentant. (*airport manager*)
 
 ***emplacement de stationnement***[Abrogée, DORS/92-120, art. 1(F)]
@@ -94,7 +96,7 @@ Autorités habilitantes :
 ***véhicule commercial pour passager*** désigne tout taxi, autobus ou autre véhicule utilisé ou destiné a être utilisé pour le transport rémunéré des personnes; (*commercial passenger vehicle*)
 
 ***zone réglementée*** Zone d’un aérodrome désignée par un écriteau comme zone dont l’accès est réservé aux personnes autorisées par le directeur de l’aéroport. (*restricted area*) 
-> DORS/92-120, art. 1.
+> DORS/92-120, art. 1; DORS/2006-102, art. 26.
 
 
 
@@ -103,8 +105,8 @@ Autorités habilitantes :
 ## Application
 
 
-**3** Le présent règlement s’applique aux aéroports énumérés aux annexes I et II.
-> DORS/92-120, art. 2.
+**3** Le présent règlement s’applique à une aire autre que le côté ville d’un aéroport figurant aux annexes I ou II.
+> DORS/92-120, art. 2; DORS/2006-102, art. 27.
 
 
 
@@ -363,9 +365,9 @@ Autorités habilitantes :
 **39** 
 
 - **(1)** Sous réserve des paragraphes (2) et (3) et du paragraphe 40(4), quiconque enfreint une disposition de la présente partie est passible, sur déclaration de culpabilité par procédure sommaire :
-	- **a)** soit d’une amende égale au moins élevé des montants suivants :
-		- **(i)** l’amende prescrite par les lois sur la circulation routière de la province où l’infraction a été commise, avec leurs modifications successives;
-		- **(ii)** 500 $;
+	- **a)** soit d’une amende maximale égale au moins élevé des montants suivants :
+		- **(i)** le cas échéant, l’amende maximale prévue par les lois sur la circulation routière de la province où l’infraction a été commise, avec ses modifications successives,
+		- **(ii)** dans tout autre cas, 500 $;
 	- **b)** soit d’un emprisonnement d’au plus six mois;
 	- **c)** soit de l’amende et de l’emprisonnement.
 
@@ -374,14 +376,14 @@ Autorités habilitantes :
 - **(3)** Lorsqu’une personne est déclarée coupable de conduite d’un véhicule à moteur en infraction à la présente partie, le tribunal ou le juge qui rend le jugement peut, sans préjudice de toute sanction infligée d’autre part, rendre une ordonnance interdisant à ladite personne de conduire un véhicule à moteur sur les terrains appartenant à Sa Majesté du chef du Canada ou occupés par elle, pour une durée d’au plus un an à compter de la date de la déclaration de culpabilité.
 
 - **(4)** Quiconque conduit un véhicule à moteur en infraction à une ordonnance rendue en vertu du paragraphe (3), est passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus 500 $ ou d’un emprisonnement d’au plus six mois, ou des deux peines à la fois.
-> DORS/96-476, art. 1; DORS/2002-356, art. 2.
+> DORS/96-476, art. 1; DORS/2002-356, art. 2; DORS/2006-102, art. 28.
 
 
 
 
 **40** 
 
-- **(1)** Toute personne présumée coupable d’infraction à une disposition de la présente partie régissant le stationnement de véhicules à moteur peut, dans les 72 heures suivant la fin du jour où l’infraction est censée s’être produite, jours fériés exclus, déposer un aveu de culpabilité relatif à la présumée infraction et payer au tribunal, soit en personne, soit par la poste :
+- **(1)** Toute personne accusée d’avoir enfreint une disposition de la présente partie régissant le stationnement de véhicules à moteur peut, dans les 72 heures suivant la fin du jour où l’infraction est censée s’être produite, jours fériés exclus, déposer un aveu de culpabilité relatif à la présumée infraction et payer au tribunal, soit en personne, soit par la poste :
 	- **a)** si, en application de l’article 16, la présumée infraction vise le stationnement dans une zone où celui-ci est interdit :
 		- **(i)** dans les aéroports énumérés à l’annexe I, 25 $,
 		- **(ii)** dans les aéroports énumérés à l’annexe II qui sont marqués d’un astérisque, 15 $,
@@ -414,8 +416,8 @@ Autorités habilitantes :
 
 - **(3)** Lorsqu’un paiement mentionné au paragraphe (1) est envoyé au tribunal par la poste, ce paiement est censé avoir été effectué le jour où il a été mis à la poste.
 
-- **(4)** Lorsqu’une personne présumée coupable d’infraction aux dispositions de la présente partie relatives au stationnement d’un véhicule à moteur, a, conformément au paragraphe (1), payé au tribunal l’amende imposée pour cette infraction, aucune autre sanction ne pourra lui être imposée pour ladite infraction.
-> DORS/81-663, art. 1; DORS/92-120, art. 6; DORS/93-27, art. 1; DORS/95-536, art. 6.
+- **(4)** Lorsqu’une personne accusée d’avoir enfreint une disposition de la présente partie régissant le stationnement de véhicules à moteur a, conformément au paragraphe (1), payé au tribunal l’amende imposée pour cette infraction, aucune autre sanction ne lui sera imposée pour cette infraction.
+> DORS/81-663, art. 1; DORS/92-120, art. 6; DORS/93-27, art. 1; DORS/95-536, art. 6; DORS/2006-102, art. 29(F).
 
 
 
@@ -491,15 +493,9 @@ Autorités habilitantes :
 ### Sanctions
 
 
-**50** 
+**50** Quiconque enfreint l’article 41 ou les paragraphes 41.1(1) ou (2) ou l’article 49 est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende d’au plus 400 $.
+> DORS/81-663, art. 4; DORS/2006-102, art. 30.
 
-- **(1)** Quiconque enfreint l’article 41 est passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus 400 $.
-
-- **(2)** Quiconque enfreint une disposition des paragraphes 41.1(1) ou 41.1(2) ou de l’article 49, est passible, sur déclaration sommaire de culpabilité, d’une amende de 20 $.
-> DORS/81-663, art. 4.
-
-
-- **(3)** [Abrogé, DORS/81-663, art. 4]
 
 
 
@@ -512,7 +508,7 @@ Autorités habilitantes :
 	- **d)** 5,00 $, si la présumée infraction consiste à entraver, gêner ou embarrasser le libre mouvement d’un aéronef sur l’aire de trafic ou l’aire de manoeuvre en infraction aux dispositions de l’article 46;
 	- **e)** 5,00 $, si la présumée infraction consiste à refuser de céder le droit de passage aux véhicules à moteur en infraction aux dispositions de l’article 47;
 	- **f)** 5,00 $ si la présumée infraction consiste à ne pas se conformer aux indications d’un panneau ou d’un dispositif de signalisation ou aux directives données par un agent;
-	- **g)** 20 $, si la présumée infraction consiste à fumer ou jeter des ordures en infraction aux dispositions de l’article 49;
+	- **g)** 75 $, si l’infraction reprochée consiste à fumer ou à jeter des ordures en infraction à l’article 49;
 	- **h)** 20 $, si la présumée infraction consiste à entrer ou demeurer dans une zone réglementée sans pièces d’identité visibles en infraction aux dispositions du paragraphe 41.1(1); et
 	- **i)** 20 $, si la présumée infraction consiste à ne pas se conformer aux dispositions du paragraphe 41.1(2).
 
@@ -521,7 +517,7 @@ Autorités habilitantes :
 - **(3)** Lorsqu’un paiement mentionné au paragraphe (1) est envoyé au tribunal par la poste, ce paiement est censé avoir été effectué le jour où il a été mis à la poste.
 
 - **(4)** Lorsqu’une personne accusée d’avoir enfreint l’une des dispositions de cette partie, autre que l’article 41, a, selon le paragraphe (1), payé au tribunal l’amende imposée pour cette infraction, aucune autre sanction ne peut lui être imposée pour cette infraction.
-> DORS/81-663, art. 5.
+> DORS/81-663, art. 5; DORS/2006-102, art. 31.
 
 
 
@@ -723,165 +719,54 @@ le directeur d’un aéroport peut, aux frais de l’exploitant de l’aéronef,
 **PARTIE I** 
 ## Aéroports de la région de l’atlantique
 
-- **1** Charlo
-- **2** Charlottetown
-- **3** Deer Lake
-- **4** Fredericton
-- **5** *Gander
-- **6** *Moncton
-- **7** Saint John
-- **8** Saint Anthony
-- **9** *St. John’s
-- **10** St. Léonard
-- **11** Stephenville
-- **12** Sydney
-- **13** Wabush
-- **14** Yarmouth
+- **1** Charlottetown
+- **2** Fredericton
+- **3** Gander*
+- **4** Moncton*
+- **5** Saint John
+- **6** St. Anthony
+- **7** St. John’s*
+- **8** Wabush
 
 **PARTIE II** 
 ## Aéroports de la région du Québec
 
-- **1** Alma
-- **2** Bagotville
-- **3** Baie-Comeau
-- **4** Charlevoix
-- **5** Chevery
-- **6** Eastmain
-- **7** Forestville
-- **8** Gaspé
-- **9** Havre-Saint-Pierre
-- **10** Îles-de-la-Madeleine
-- **11** Iqaluit (Frobisher)
-- **12** Lourdes-de-Blanc-Sablon
-- **13** Mont-Joli
-- **14** Natashquan
-- **15** *Québec
-- **16** Rimouski
-- **17** Rivière-du-Loup
-- **18** Rouyn-Noranda
-- **19** Schefferville
-- **20** Sept-Îles
-- **21** Sherbrooke
-- **22** Saint-Hubert
-- **23** Saint-Jean
-- **24** Trois-Rivières
-- **25** Val-d’Or
-- **26** Waskaganish (Fort Rupert)
-- **27** Wemindji
-- **28** Kuujjuaq
+- **1** Chevery
+- **2** Îles-de-la-Madeleine
+- **3** Lourdes-de-Blanc-Sablon
+- **4** Natashquan
+- **5** Québec*
+- **6** Schefferville
+- **7** Sept-Îles
+- **8** Kuujjuaq
 
 **PARTIE III** 
 ## Aéroports de la région de l’ontario
 
-- **1** Carp
-- **2** Earlton
-- **3** Emsdale
-- **4** Gananoque
-- **5** Gore Bay — Manitoulin
-- **6** Hamilton
-- **7** Kapuskasing
-- **8** Killaloe/Bonnechère
-- **9** *London
-- **10** Muskoka
-- **11** North Bay
-- **12** Oshawa
-- **13** Sarnia
-- **14** Sault-Sainte-Marie
-- **15** St. Catharines
-- **16** Sudbury
-- **17** Timmins
-- **18** Wiarton
-- **19** *Windsor
+- **1** London*
 
 **PARTIE IV** 
 ## Aéroports de la région du centre
 
-- **1** [Abrogé, DORS/93-27, art. 3]
-- **2** Churchill
-- **3** [Abrogé, DORS/93-27, art. 4]
-- **4** Dauphin
-- **5** Dryden
-- **6** Eureka
-- **7** Flin Flon
-- **8** Gillam
-- **9** [Abrogé, DORS/93-27, art. 5]
-- **10** Kenora
-- **11** La Ronge
-- **12** Lynn Lake
-- **13** Mould Bay
-- **14** [Abrogé, DORS/93-27, art. 6]
-- **15** North Battleford
-- **16** Red Lake
-- **17** *Regina
-- **18** Resolute Bay
-- **19** *Saskatoon
-- **20** St. Andrews
-- **21** Swift Current
-- **22** The Pas
-- **23** Thompson
-- **24** Thunder Bay
-- **25** Uranium City
-- **26** Yorkton
+- **1** Churchill
+- **2** Regina*
+- **3** Saskatoon*
+- **4** Thunder Bay
 
 **PARTIE V** 
 ## Aéroports de la région de l’ouest
 
-- **1** Cambridge Bay
-- **2** Dawson Creek
-- **3** Fort McMurray
-- **4** Fort Nelson
-- **5** Fort Simpson
-- **6** Fort Smith
-- **7** Fort St. John
-- **8** Grande Prairie
-- **9** Hay River
-- **10** Innisfail
-- **11** Inuvik
-- **12** Lethbridge
-- **13** Norman Wells
-- **14** Olds (Netook)
-- **15** Rivière de la Paix
-- **16** Springbank
-- **17** [Abrogé, DORS/93-27, art. 7]
-- **18** Villeneuve
-- **19** Watson Lake
-- **20** Whitehorse
-- **21** Yellowknife
+- **1** Springbank
 
 **PARTIE VI** 
 ## Aéroports de la région du pacifique
 
-- **1** Abbotsford
-- **2** Boston Bar
-- **3** Boundary Bay
-- **4** Campbell River
-- **5** Castlegar
-- **6** Comox
-- **7** Cranbrook
-- **8** Hope
-- **9** Kamloops
-- **10** Kelowna
-- **11** Lytton
-- **12** Midway
-- **13** Nanaimo
-- **14** Penticton
-- **15** Pitt Meadows
-- **16** Port Hardy
-- **17** Prince George
-- **18** Prince Rupert
-- **19** Princeton
-- **20** Puntzi Mountain
-- **21** Quesnel
-- **22** Salmo
-- **23** Sandspit
-- **24** Smithers
-- **25** Terrace
-- **26** Tofino
-- **27** Vanderhoof
-- **28** *Victoria
-- **29** Williams Lake
-- **30** Woodcock
-- **31** Yahk
-> DORS/92-120, art. 8; DORS/93-27, art. 2 à 7.
+- **1** Kelowna
+- **2** Penticton
+- **3** Port Hardy
+- **4** Prince George
+- **5** Sandspit
+- **6** Victoria*
+> DORS/92-120, art. 8; DORS/93-27, art. 2 à 7; DORS/2006-102, art. 32.
 
 
