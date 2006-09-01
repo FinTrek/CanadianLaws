@@ -70,8 +70,8 @@ Autorités habilitantes :
 - **c)** les terres territoriales définies dans la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md);
 - **d)** les réserves indiennes;
 - **e)** les terrains sous le contrôle de la Commission de la capitale nationale; et
-- **f)** la propriété à laquelle s’applique le [Règlement sur la circulation aux aéroports](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20886.md).
-> DORS/84-238, art. 1; DORS/89-341, art. 2.
+- **f)** la propriété à laquelle s’applique le Règlement sur la circulation aux aéroports ou le [Règlement sur la circulation du côté ville des aéroports](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2006/102.md).
+> DORS/84-238, art. 1; DORS/89-341, art. 2; DORS/2006-102, art. 33.
 
 
 
