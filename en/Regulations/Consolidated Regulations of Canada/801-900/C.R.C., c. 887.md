@@ -70,8 +70,8 @@ Enabling authorities:
 - **(c)** territorial lands as defined in the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md);
 - **(d)** Indian reserves;
 - **(e)** property under the control of the National Capital Commission; and
-- **(f)** property to which the [Airport Traffic Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20886.md) apply.
-> SOR/84-238, s. 1; SOR/89-341, s. 2.
+- **(f)** property to which the [Airport Traffic Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20886.md) or the [Traffic on the Land Side of Airports Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2006/102.md) apply.
+> SOR/84-238, s. 1; SOR/89-341, s. 2; SOR/2006-102, s. 33.
 
 
 
