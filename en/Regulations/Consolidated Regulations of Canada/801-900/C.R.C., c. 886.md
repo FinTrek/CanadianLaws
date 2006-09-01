@@ -57,6 +57,8 @@ Enabling authorities:
 
 ***intersection*** means the area embraced within the prolongation or connection of the lateral curb lines or, in the absence of curb lines, of the lateral boundary lines of two or more roads that join one another at an angle whether or not one road crosses the other; (*carrefour*)
 
+***land side*** means land side as defined in section 1 of the [Traffic on the Land Side of Airports Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2006/102.md); (*côté ville*)
+
 ***loading area*** means any portion of an airport designated by a sign and made available to the public for loading or unloading; (*aire d’embarquement*)
 
 ***manoeuvring area*** means that part of an airport ordinarily used for the take-off and landing of aircraft and for the movement of aircraft associated with the take-off and landing, but does not include the apron; (*aire de manoeuvre*)
@@ -92,7 +94,7 @@ Enabling authorities:
 ***special parking permit*** means a permit issued by the airport manager that authorizes the permit holder to park a motor vehicle in such place and in accordance with such terms as are specified by the airport manager. (*permis spécial de stationnement*)
 
 ***valid identification*** means a document issued or approved by the airport manager authorizing the holder to have access to a restricted area of the airport. (*pièce d’identité valable*) 
-> SOR/92-120, s. 1.
+> SOR/92-120, s. 1; SOR/2006-102, s. 26.
 
 
 
@@ -101,8 +103,8 @@ Enabling authorities:
 ## Application
 
 
-**3** These Regulations apply in respect of the airports set out in Schedules I and II.
-> SOR/92-120, s. 2.
+**3** These Regulations apply in respect of an area other than the land side of an airport set out in Schedule I or II.
+> SOR/92-120, s. 2; SOR/2006-102, s. 27.
 
 
 
@@ -361,9 +363,9 @@ Enabling authorities:
 **39** 
 
 - **(1)** Subject to subsections (2) and (3) and subsection 40(4), every person who contravenes a provision of this Part is liable on summary conviction to
-	- **(a)** a fine, in an amount equal to the lesser of
-		- **(i)** the fine prescribed under the highway traffic laws of the province in which the offence was committed, as amended from time to time, and
-		- **(ii)** $500;
+	- **(a)** a fine not exceeding an amount equal to the lesser of
+		- **(i)** the maximum fine, if any, prescribed under the highway traffic laws of the province in which the offence was committed, as amended from time to time, and
+		- **(ii)** in any other case, $500;
 	- **(b)** a term of imprisonment not exceeding six months; or
 	- **(c)** both.
 
@@ -372,7 +374,7 @@ Enabling authorities:
 - **(3)** Where a person is convicted of driving a motor vehicle in contravention of this Part, the convicting court or judge may, in addition to any other penalty imposed, make an order prohibiting that person from driving any motor vehicle on any lands belonging to or occupied by Her Majesty in right of Canada for any period not exceeding one year from the date of the conviction.
 
 - **(4)** Every person who drives a motor vehicle contrary to an order made pursuant to subsection (3) is liable on summary conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding six months or to both.
-> SOR/96-476, s. 1; SOR/2002-356, s. 2.
+> SOR/96-476, s. 1; SOR/2002-356, s. 2; SOR/2006-102, s. 28.
 
 
 
@@ -413,7 +415,7 @@ Enabling authorities:
 - **(3)** Where a payment referred to in subsection (1) is sent to the court by mail, the payment into court shall be deemed to have been made on the day on which the payment was mailed.
 
 - **(4)** Where a person who is alleged to have contravened a provision of this Part governing the parking of a motor vehicle has, in accordance with subsection (1), paid money into court with respect to that contravention, no further penalty shall be imposed on him for that contravention.
-> SOR/81-663, s. 1; SOR/92-120, s. 6; SOR/93-27, s. 1; SOR/95-536, s. 6.
+> SOR/81-663, s. 1; SOR/92-120, s. 6; SOR/93-27, s. 1; SOR/95-536, s. 6; SOR/2006-102, s. 29(F).
 
 
 
@@ -489,15 +491,9 @@ Enabling authorities:
 ### Penalties
 
 
-**50** 
+**50** Every person who contravenes section 41, subsection 41.1(1) or (2) or section 49 is liable on summary conviction to a fine not exceeding $400.
+> SOR/81-663, s. 4; SOR/2006-102, s. 30.
 
-- **(1)** Every person who contravenes section 41 is liable on summary conviction to a fine not exceeding $400.
-
-- **(2)** Every person who contravenes subsection 41.1(1) or section 49 or fails to comply with subsection 41.1(2) is liable on summary conviction to a fine of $20.
-> SOR/81-663, s. 4.
-
-
-- **(3)** [Repealed, SOR/81-663, s. 4]
 
 
 
@@ -510,7 +506,7 @@ Enabling authorities:
 	- **(d)** $5, where the alleged offence relates to impeding, interfering or obstructing the free movement of an aircraft on the apron or manoeuvring area in contravention of section 46;
 	- **(e)** $5, where the alleged offence relates to failing to yield the right-of-way to motor vehicles in contravention of section 47;
 	- **(f)** $5, where the alleged offence relates to disobeying instructions of any traffic sign or device or instruction given by a constable;
-	- **(g)** $20, where the alleged offence relates to smoking or littering in contravention of section 49;
+	- **(g)** $75, where the alleged offence relates to smoking or littering in contravention of section 49;
 	- **(h)** $20, where the alleged offence relates to entering or remaining in a restricted area without visible identification in contravention of subsection 41.1(1); and
 	- **(i)** $20, where the alleged offence relates to failure to comply with subsection 41.1(2).
 
@@ -519,7 +515,7 @@ Enabling authorities:
 - **(3)** Where a payment referred to in subsection (1) is sent to the court by mail, the payment into court shall be deemed to have been made on the day on which the payment was mailed.
 
 - **(4)** Where a person who is alleged to have contravened any provision of this Part other than section 41 has, in accordance with subsection (1), paid money into court with respect to that contravention, no further punishment shall be imposed on him for that contravention.
-> SOR/81-663, s. 5.
+> SOR/81-663, s. 5; SOR/2006-102, s. 31.
 
 
 
@@ -721,165 +717,54 @@ the airport manager may, at the expense of the operator of the aircraft, cause t
 **PART I** 
 ## Atlantic Region Airports
 
-- **1** Charlo
-- **2** Charlottetown
-- **3** Deer Lake
-- **4** Fredericton
-- **5** *Gander
-- **6** *Moncton
-- **7** Saint John
-- **8** Saint Anthony
-- **9** *St. John’s
-- **10** St. Leonard
-- **11** Stephenville
-- **12** Sydney
-- **13** Wabush
-- **14** Yarmouth
+- **1** Charlottetown
+- **2** Fredericton
+- **3** Gander*
+- **4** Moncton*
+- **5** Saint John
+- **6** St. Anthony
+- **7** St. John’s*
+- **8** Wabush
 
 **PART II** 
 ## Quebec Region Airports
 
-- **1** Alma
-- **2** Bagotville
-- **3** Baie-Comeau
-- ** 4** Charlevoix
-- **5** Chevery
-- **6** Eastmain
-- **7** Forestville
-- **8** Gaspé
-- **9** Havre-Saint-Pierre
-- **10** Îles-de-la-Madeleine
-- **11** Iqaluit (Frobisher)
-- **12** Lourdes-de-Blanc-Sablon
-- **13** Mont-Joli
-- **14** Natashquan
-- **15** *Québec
-- **16** Rimouski
-- **17** Rivière-du-Loup
-- **18** Rouyn-Noranda
-- **19** Schefferville
-- **20** Sept-Îles
-- **21** Sherbrooke
-- **22** Saint-Hubert
-- **23** Saint-Jean
-- **24** Trois-Rivières
-- **25** Val-d’Or
-- **26** Waskaganish (Fort Rupert)
-- **27** Wemindji
-- **28** Kuujjuaq
+- **1** Chevery
+- **2** Îles-de-la-Madeleine
+- **3** Lourdes-de-Blanc-Sablon
+- **4** Natashquan
+- **5** Québec*
+- **6** Schefferville
+- **7** Sept-Îles
+- **8** Kuujjuaq
 
 **PART III** 
 ## Ontario Region Airports
 
-- **1** Carp
-- **2** Earlton
-- **3** Emsdale
-- **4** Gananoque
-- **5** Gore Bay — Manitoulin
-- **6** Hamilton
-- **7** Kapuskasing
-- **8** Killaloe/Bonnechère
-- **9** *London
-- **10** Muskoka
-- **11** North Bay
-- **12** Oshawa
-- **13** Sarnia
-- **14** Sault Ste. Marie
-- **15** St. Catharines
-- **16** Sudbury
-- **17** Timmins
-- **18** Wiarton
-- **19** *Windsor
+- **1** London*
 
 **PART IV** 
 ## Central Region Airports
 
-- **1** [Repealed, SOR/93-27, s. 3]
-- **2** Churchill
-- **3** [Repealed, SOR/93-27, s. 4]
-- **4** Dauphin
-- **5** Dryden
-- **6** Eureka
-- **7** Flin Flon
-- **8** Gillam
-- **9** [Repealed, SOR/93-27, s. 5]
-- **10** Kenora
-- **11** La Ronge
-- **12** Lynn Lake
-- **13** Mould Bay
-- **14** [Repealed, SOR/93-27, s. 6]
-- **15** North Battleford
-- **16** Red Lake
-- **17** *Regina
-- **18** Resolute Bay
-- **19** *Saskatoon
-- **20** St. Andrews
-- **21** Swift Current
-- **22** The Pas
-- **23** Thompson
-- **24** Thunder Bay
-- **25** Uranium City
-- **26** Yorkton
+- **1** Churchill
+- **2** Regina*
+- **3** Saskatoon*
+- **4** Thunder Bay
 
 **PART V** 
 ## Western Region Airports
 
-- **1** Cambridge Bay
-- **2** Dawson Creek
-- **3** Fort McMurray
-- **4** Fort Nelson
-- **5** Fort Simpson
-- **6** Fort Smith
-- **7** Fort St. John
-- **8** Grande Prairie
-- **9** Hay River
-- **10** Innisfail
-- **11** Inuvik
-- **12** Lethbridge
-- **13** Norman Wells
-- **14** Olds (Netook)
-- **15** Peace River
-- **16** Springbank
-- **17** [Repealed, SOR/93-27, s. 7]
-- **18** Villeneuve
-- **19** Watson Lake
-- **20** Whitehorse
-- **21** Yellowknife
+- **1** Springbank
 
 **PART VI** 
 ## Pacific Region Airports
 
-- **1** Abbotsford
-- **2** Boston Bar
-- **3** Boundary Bay
-- **4** Campbell River
-- **5** Castlegar
-- **6** Comox
-- **7** Cranbrook
-- **8** Hope
-- **9** Kamloops
-- **10** Kelowna
-- **11** Lytton
-- **12** Midway
-- **13** Nanaimo
-- **14** Penticton
-- **15** Pitt Meadows
-- **16** Port Hardy
-- **17** Prince George
-- **18** Prince Rupert
-- **19** Princeton
-- **20** Puntzi Mountain
-- **21** Quesnel
-- **22** Salmo
-- **23** Sandspit
-- **24** Smithers
-- **25** Terrace
-- **26** Tofino
-- **27** Vanderhoof
-- **28** *Victoria
-- **29** Williams Lake
-- **30** Woodcock
-- **31** Yahk
-> SOR/92-120, s. 8; SOR/93-27, ss. 2 to 7.
+- **1** Kelowna
+- **2** Penticton
+- **3** Port Hardy
+- **4** Prince George
+- **5** Sandspit
+- **6** Victoria*
+> SOR/92-120, s. 8; SOR/93-27, ss. 2 to 7; SOR/2006-102, s. 32.
 
 
