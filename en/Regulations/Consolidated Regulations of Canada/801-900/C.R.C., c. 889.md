@@ -106,15 +106,15 @@ Enabling authorities:
 
 **6** 
 
-- **(1)** An Official sample taken under section 30 of the Act shall be taken in accordance with the Commission’s Sampling Systems Handbook and approval Guide, as amended from time to time.
+- **(1)** An official sample taken under section 30 of the Act shall be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide.
 
 - **(2)** No official samples shall be taken by means of a mechanical sampler unless it is installed, tested and maintained by the licensee under the direction of an inspector.
 
 - **(3)** An official sample shall be retained for the period beginning on the date of the grading of the sample and ending
-	- **(a)** not less than six months after that date of inspection, if the sample is taken on the discharge of grain out of an elevator into a ship; and
-	- **(b)** [Repealed, SOR/2003-284, s. 5]
-	- **(c)** not less than 20 days after that date of inspection, in any other case.
-> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1.
+	- **(a)** not less than six months after that date, if the sample is taken on the discharge of grain out of an elevator into a ship; and
+	- **(b)** [Repealed, SOR/2003-284, s. 5]
+	- **(c)** not less than 20 days after that date, in any other case.
+> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1.
 
 
 
@@ -170,8 +170,8 @@ Enabling authorities:
 
 - **(2)** [Repealed, SOR/2005-361, s. 3]
 
-- **(3)** If no tender is received by the Commission for the purchase of an official sample or unofficial sample, the sample shall be disposed of in a manner determined by the Commission.
-> SOR/89-376, ss. 1, 12(F); SOR/89-395, s. 2(F); SOR/96-508, s. 7; SOR/2000-213, s. 2; SOR/2004-198, s. 5; SOR/2005-361, s. 3.
+- **(3)** If no tender is received by the Commission for the purchase of an official sample or unofficial sample, the sample shall be discarded.
+> SOR/89-376, ss. 1, 12(F); SOR/89-395, s. 2(F); SOR/96-508, s. 7; SOR/2000-213, s. 2; SOR/2004-198, s. 5; SOR/2005-361, s. 3; SOR/2006-206, s. 2.
 
 
 
@@ -245,11 +245,19 @@ Enabling authorities:
 
 
 
-**15** The following types of elevators are exempted under paragraph 117(a) of the Act from the licensing requirements of the Act:
-- **(a)** feed mills;
-- **(b)** seed-cleaning plants, if the operator of the seed-cleaning plant does not purchase grain and allows the Commission access to their records; and
-- **(c)** distilleries, if the operator of the distillery does not purchase grain directly from producers and allows the Commission access to their records.
-> SOR/89-376, s. 14(F); SOR/89-395, s. 1; SOR/93-197, s. 3; SOR/96-508, s. 11; SOR/2000-213, s. 2; SOR/2001-273, s. 9; SOR/2002-255, s. 4; SOR/2004-198, s. 8.
+**15** 
+
+- **(1)** The following types of elevators are exempted under paragraph 117(a) of the Act from the licensing requirements of the Act:
+	- **(a)** an elevator constructed for the purpose of handling and storing grain as part of the operation of a feed mill;
+	- **(b)** a process elevator, other than an elevator referred to in paragraph (a), if the operator of the elevator does not purchase grain from producers, does not assume obligations to producers for the payment of money in respect of grain and allows the Commission access to the operator’s records for the elevator;
+	- **(c)** an elevator constructed for the purpose of handling and storing grain as part of the operation of a seed cleaning plant, if the operator of the seed cleaning plant does not operate the elevator to handle, store or purchase grain except grain for seed purposes and allows the Commission access to the operator’s records for the elevator; and
+	- **(d)** any elevator, if the operator of the elevator operates the elevator only as an agent or mandatary for licensees, the licensees provide security to the Commission for all grain received into the elevator and the operator allows the Commission access to the operator’s records for the elevator.
+
+- **(2)** The grain handling operation of a grain dealer is exempted under paragraph 117(a) of the Act from the licensing requirements of the Act if the grain dealer allows the Commission access to the grain dealer’s records for dealing in and handling western grain and
+	- **(a)** the grain dealer does not deal in or handle western grain except as an agent or mandatary for licensees and the licensees provide security to the Commission for all western grain transactions handled by the grain dealer;
+	- **(b)** the grain dealer does not deal in or handle western grain except grain for seed purposes; or
+	- **(c)** the grain dealer does not purchase western grain from producers and does not assume obligations to producers for the payment of money in respect of western grain.
+> SOR/89-376, s. 14(F); SOR/89-395, s. 1; SOR/93-197, s. 3; SOR/96-508, s. 11; SOR/2000-213, s. 2; SOR/2001-273, s. 9; SOR/2002-255, s. 4; SOR/2004-198, s. 8; SOR/2006-206, s. 3.
 
 
 
@@ -666,10 +674,10 @@ Enabling authorities:
 
 **45** 
 
-- **(1)** For the purpose of this section, delivery of grain to an agent of a licensed grain dealer is considered to be delivery to the licensed grain dealer.
+- **(1)** For the purpose of this section, delivery of grain to an agent or mandatary of a licensed grain dealer is considered to be delivery to the licensed grain dealer.
 
 - **(2)** A grain receipt or a cash purchase ticket that is required by subsection 81(1) of the Act to be issued by a licensed grain dealer shall be issued on receipt of western grain delivered by a producer or on being entitled to western grain delivered to an elevator by a producer, and shall be in Form 1 or Form 6 of Schedule 4, as appropriate.
-> SOR/2000-213, s. 2; SOR/2001-273, s. 16; SOR/2002-255, s. 13; SOR/2003-284, s. 22.
+> SOR/2000-213, s. 2; SOR/2001-273, s. 16; SOR/2002-255, s. 13; SOR/2003-284, s. 22; SOR/2006-206, s. 4.
 
 
 
@@ -699,20 +707,16 @@ Enabling authorities:
 
 
 **50** The operator of a licensed transfer elevator may
-- **(a)** receive grain, without causing it to be officially inspected, if
-	- **(i)** it is eastern grain, or
-	- **(ii)** it is western grain and either it has previously been officially inspected or an unofficial sample of the grain has been graded by the Commission on or before receipt;
+- **(a)** receive grain without causing it to be officially inspected, unless it is western grain that has not been previously officially inspected and an unofficial sample of it has not been submitted to the Commission for grading, on or before receipt of the grain, in lieu of an official inspection;
 - **(b)** discharge grain, without causing it to be officially inspected, if
 	- **(i)** it is not for export,
 	- **(ii)** it is for export to the United States by rail or truck, or
 	- **(iii)** it is eastern grain for export by ship, it has previously been officially inspected and it meets the conditions in respect of its sale and inspection that are set out in the document published under the authority of the Commission and entitled Policy for Previously Inspected Eastern Grain;
-- **(c)** receive grain, without causing it to be officially weighed, if
-	- **(i)** it is eastern grain, or
-	- **(ii)** it is western grain and it has been previously officially weighed; and
+- **(c)** receive grain without causing it to be officially weighed, unless it is western grain that has not been previously officially weighed; and
 - **(d)** discharge grain, without causing it to be officially weighed, if
 	- **(i)** it is not for export, or
 	- **(ii)** it is for export to the United States by rail or truck.
-> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8.
+> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5.
 
 
 
@@ -1015,22 +1019,15 @@ Enabling authorities:
 <table>
 <h4>Charges Payable in the Western and Eastern Divisions</h4>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Service</th>
 <th>Basis</th>
 <th>Fee ($)</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>INSPECTION SERVICES</td>
@@ -1042,7 +1039,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** in carloads, truckloads or containers at unloading
 
 </td>
@@ -1050,47 +1046,36 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per inspection per carload, truckload or container
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— wheat (except for CPS wheat and Eastern wheat)
+<td>**—** wheat (except for CPS wheat and Eastern wheat)
 
 </td>
 <td>27.10</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— CPS wheat and Eastern wheat
+<td>**—** CPS wheat and Eastern wheat
 
 </td>
 <td>20.10</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site inspection is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(iii)** [Repealed, SOR/2001-273, s. 25]
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** in carloads, truckloads or containers where inspected at loading
 
 </td>
@@ -1098,23 +1083,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per inspection per carload, truckload or container
 
 </td>
 <td>29.00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site inspection is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(c)** on delivery to ships or sacking bins
 
 </td>
@@ -1122,7 +1102,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** where grain has not been previously officially inspected at loading or unloading of ships
 
 </td>
@@ -1130,7 +1109,6 @@ Enabling authorities:
 <td>0.51</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** at transfer elevators, where grain has been previously officially inspected at loading or unloading of ships or loading of railway cars
 
 </td>
@@ -1138,7 +1116,6 @@ Enabling authorities:
 <td>0.25</td>
 </tr>
 <tr>
-<td></td>
 <td>**(d)** on receipt from a ship
 
 </td>
@@ -1146,7 +1123,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** where inspection is requested for condition or infestation, or both
 
 </td>
@@ -1154,7 +1130,6 @@ Enabling authorities:
 <td>0.25</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** for official inspection
 
 </td>
@@ -1162,7 +1137,6 @@ Enabling authorities:
 <td>0.51</td>
 </tr>
 <tr>
-<td></td>
 <td>**(e)** on receipt or delivery other than as provided in paragraphs (a) to (d)
 
 </td>
@@ -1170,7 +1144,6 @@ Enabling authorities:
 <td>0.51</td>
 </tr>
 <tr>
-<td></td>
 <td>**(f)** where grain or foreign grain in storage in an elevator is inspected while being internally transferred for any reason, other than weigh-over required by the Commission
 
 </td>
@@ -1178,7 +1151,6 @@ Enabling authorities:
 <td>0.25</td>
 </tr>
 <tr>
-<td></td>
 <td>**(g)** for weigh-over required by the Commission
 
 </td>
@@ -1192,7 +1164,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** for grading of unofficial samples submitted, where certificate is issued (payable by the person submitting the sample)
 
 </td>
@@ -1200,52 +1171,11 @@ Enabling authorities:
 <td>15.10</td>
 </tr>
 <tr>
-<td></td>
-<td>**(b)** for grading unofficial samples submitted, where certificate is not issued (payable by the person submitting the sample)
+<td>**(b)** [Repealed, SOR/2006-206, s. 6]
 
 </td>
-<td>the sum of, per sample of</td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td>— wheat (except for CPS wheat)
-
-</td>
-<td>19.55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— CPS wheat
-
-</td>
-<td>7.55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— corn
-
-</td>
-<td>7.55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— canola, rapeseed, mustard seed, safflower or sunflower seed
-
-</td>
-<td>12.20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— other grains or screenings
-
-</td>
-<td>10.85</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1254,7 +1184,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** where grade is upheld on reinspection by principal inspector at location of original inspection
 
 </td>
@@ -1262,7 +1191,6 @@ Enabling authorities:
 <td>7.50</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** where grade is upheld on reinspection by chief grain inspector in Winnipeg
 
 </td>
@@ -1270,7 +1198,6 @@ Enabling authorities:
 <td>15.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(c)** where grade is not upheld on reinspection
 
 </td>
@@ -1287,15 +1214,13 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>**(a)** in carloads, truckloads or containers, where weighed at unloading
+<td>**(a)** in carloads, truckloads or containers, where weighed at unloadingwhere grade is not upheld on reinspection
 
 </td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** where grain has not been previously officially weighed
 
 </td>
@@ -1303,23 +1228,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per carload, truckload or container
 
 </td>
 <td>5.90</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** where grain has been previously officially weighed
 
 </td>
@@ -1327,23 +1247,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per tonne
 
 </td>
 <td>0.12</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** on delivery to railway cars
 
 </td>
@@ -1351,23 +1266,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per carload
 
 </td>
 <td>18.00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(c)** on delivery to containers or trucks
 
 </td>
@@ -1375,23 +1285,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per tonne
 
 </td>
 <td>0.27</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal, where on-site weighing is not regularly available
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(d)** on delivery to ships or sacking bins
 
 </td>
@@ -1399,7 +1304,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** where grain has not been previously officially weighed at loading or unloading of ships
 
 </td>
@@ -1407,7 +1311,6 @@ Enabling authorities:
 <td>0.27</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** at transfer elevators, where grain has been previously officially weighed at loading or unloading of ships or loading of railway cars
 
 </td>
@@ -1415,7 +1318,6 @@ Enabling authorities:
 <td>0.12</td>
 </tr>
 <tr>
-<td></td>
 <td>**(e)** on receipt from ships, where weighing is requested
 
 </td>
@@ -1423,7 +1325,6 @@ Enabling authorities:
 <td>0.27</td>
 </tr>
 <tr>
-<td></td>
 <td>**(f)** on receipt or delivery other than as provided in paragraphs (a) to (e)
 
 </td>
@@ -1431,23 +1332,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per tonne
 
 </td>
 <td>0.27</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee, portal-to-portal
 
 </td>
 <td>travel and living expenses</td>
 </tr>
 <tr>
-<td></td>
 <td>**(g)** where grain, grain products, screenings or foreign grain in an elevator is weighed while being internally transferred for any reason, other than for weigh-over required by the Commission
 
 </td>
@@ -1455,7 +1351,6 @@ Enabling authorities:
 <td>0.22</td>
 </tr>
 <tr>
-<td></td>
 <td>**(h)** for weigh-over required by the Commission
 
 </td>
@@ -1464,8 +1359,6 @@ Enabling authorities:
 </tr>
 <tr>
 <td>OTHER SERVICES</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -1474,7 +1367,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** registration at unloading
 
 </td>
@@ -1482,7 +1374,6 @@ Enabling authorities:
 <td>0.080</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** cancellation on shipment
 
 </td>
@@ -1496,7 +1387,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** registration at unloading
 
 </td>
@@ -1504,7 +1394,6 @@ Enabling authorities:
 <td>0.011</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** cancellation on shipment
 
 </td>
@@ -1524,7 +1413,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** where Tribunal changes grade or dockage
 
 </td>
@@ -1532,7 +1420,6 @@ Enabling authorities:
 <td>free</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** where Tribunal does not change grade or dockage
 
 </td>
@@ -1546,7 +1433,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** Primary Elevator
 
 </td>
@@ -1554,7 +1440,6 @@ Enabling authorities:
 <td>5.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** Process Elevator
 
 </td>
@@ -1562,7 +1447,6 @@ Enabling authorities:
 <td>100.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(c)** Terminal Elevator
 
 </td>
@@ -1570,7 +1454,6 @@ Enabling authorities:
 <td>100.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(d)** Transfer Elevator
 
 </td>
@@ -1578,7 +1461,6 @@ Enabling authorities:
 <td>100.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(e)** Grain Dealer
 
 </td>
@@ -1598,7 +1480,6 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(a)** for the first eight hours of work contiguous to the regular eight-hour shift of work, Monday to Friday, other than a holiday
 
 </td>
@@ -1606,7 +1487,6 @@ Enabling authorities:
 <td>14.20</td>
 </tr>
 <tr>
-<td></td>
 <td>**(b)** for all hours of work contiguous to 16 consecutive hours of work or following the first eight hours not contiguous to the regular eight hours of work, Monday to Friday, other than a holiday
 
 </td>
@@ -1614,7 +1494,6 @@ Enabling authorities:
 <td>21.00</td>
 </tr>
 <tr>
-<td></td>
 <td>**(c)** for the first eight hours of work not contiguous to the regular eight hours of work, Monday to Friday, and for the first eight hours of work on Saturday, other than hours of work on a holiday
 
 </td>
@@ -1622,23 +1501,18 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per employee for each working hour, in addition to regular fees, and
 
 </td>
 <td>14.20</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee reporting for duty
 
 </td>
 <td>107.20</td>
 </tr>
 <tr>
-<td></td>
 <td>**(d)** for all hours of work following the first eight hours of work on Saturday, and for all hours of work on Sunday and statutory holidays
 
 </td>
@@ -1646,16 +1520,12 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** per employee for each working hour, in addition to regular fees, and
 
 </td>
 <td>21.00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** per employee reporting for duty
 
 </td>
@@ -1673,7 +1543,7 @@ Enabling authorities:
 - **2** Where, for any reason, the grain in all compartments of a hopper railway car cannot be unloaded at the same time, thereby requiring additional inspection and weighing services on that railway car, inspection and weighing fees shall be applied each time the services are provided on the grain in that railway car.
 - **3** Fees shown in this Schedule are before tax. The Goods and Services Tax will be collected on all fees for services except the services described in items 5 to 7 and 9, which are exempt.
 - **4** All fees shall be calculated to the nearest cent.
->  SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36.
+> SOR/78-55, s. 4; SOR/78-514, s. 1; SOR/80-525, s. 1; SOR/81-610, s. 3; SOR/82-881, s. 1; SOR/83-758, s. 3; SOR/84-791, s. 3; SOR/85-678, s. 5; SOR/86-722, s. 2; SOR/87-455, s. 2; SOR/88-408, s. 2; SOR/89-339, ss. 1, 2; SOR/89-376, s. 5(F); SOR/89-400, s. 2; SOR/90-211, ss. 1 to 5; SOR/90-410, s. 2; SOR/91-437, s. 1; SOR/95-413, s. 2; SOR/98-220, s. 1; SOR/2000-213, ss. 3 to 6; SOR/2001-273, ss. 24 to 30, 36(E), 37(E), 38(F); SOR/2003-284, ss. 31 to 33; SOR/2004-198, ss. 34 to 36; SOR/2006-206, s. 6.
 
 
 
@@ -5826,7 +5696,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/96-508, S. 58; SOR/2004-198, 
 
 ### **FORM 7** 
 **(Subsection 33(1) and 39(1))**
-GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/2004-198, S. 41; SOR/2005-361, S. 14(E).
+GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/2004-198, S. 41; SOR/2005-361, S. 14(E); SOR/2006-206, S. 7(F).
 
 
 ### **FORM 8** 
@@ -5922,7 +5792,7 @@ ACCEPTED BY:
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E).
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F).
 
 
 
