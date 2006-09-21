@@ -8928,37 +8928,47 @@ where
 
 
 **PART XXXIX** 
-## Mining Taxes on Income
+## Mining Taxes
 
 
 **3900** 
 
-- **(1)** In computing his income for a taxation year, a taxpayer may deduct, under paragraph 20(1)(v) of the Act, an amount equal to the lesser of
-	- **(a)** the aggregate of the taxes paid, in respect of his income derived from mining operations in a province for the year,
-		- **(i)** to the province, and
-		- **(ii)** to a municipality in the province in lieu of taxes on property or any interest in property (other than his residential property or any interest therein); and
-	- **(b)** that proportion of such taxes that his income derived from mining operations in the province for the year is of his income in respect of which the taxes were so paid.
+- **(1)** The following definitions apply in this section.
 
-- **(2)** In this section,
+***income*** of a taxpayer for a taxation year from mining operations in a province means the income, for the taxation year, that is derived from mining operations in the province as computed under the laws of the province that impose an eligible tax described in subsection (3). (*revenu*)
 
-***income derived from mining operations*** in a province for a taxation year by a taxpayer means,
-- **(a)** where the taxpayer has no source of income other than mining operations, the amount that would otherwise be his income for the year if no amount had been deducted in computing his income under paragraph 20(1)(v) of the Act or paragraph 1100(1)(g) of these Regulations, and
-- **(b)** in any other case, the amount that would otherwise be his income for the year if no amount had been deducted in computing his income under paragraph 20(1)(v) of the Act or paragraph 1100 (1)(g) of these Regulations, minus the aggregate of
-	- **(i)** his income for the year from all sources other than mining, processing and sale of mineral ores, minerals and products produced therefrom, and
-	- **(ii)** an amount equal to eight per cent of the original cost to him of properties described in Schedule II used by him in the year in the processing of mineral ores, minerals or products derived therefrom or, if the amount so determined is greater than 65 per cent of the income remaining after deducting the amount determined under subparagraph (i), 65 per cent of the income so remaining or, if the amount so determined is less than 15 per cent of the income so remaining, 15 per cent of the income so remaining; (*revenu tiré d’opérations minières*)
+***mine*** includes any work or undertaking in which a mineral ore is extracted or produced and includes a quarry. (*mine*)
 
-***mine*** includes any work or undertaking in which mineral ore is extracted or produced, including a quarry; (*mine*)
+***mineral ore*** includes an unprocessed mineral or mineral-bearing substance. (*minerai*)
 
-***mineral ores*** includes all unprocessed minerals or mineral bearing substances; (*minerai*)
+***mining operations*** means
+- **(a)** the extraction or production of mineral ore from or in a mine;
+- **(b)** the transportation of mineral ore to the point of egress from the mine; and
+- **(c)** the processing of
+	- **(i)** mineral ore (other than iron ore) to the prime metal stage or its equivalent, and
+	- **(ii)** iron ore to a stage that is not beyond the pellet stage or its equivalent. (*exploitation minière*)
 
-***minerals*** means minerals other than minerals obtained from a mineral resource but does not include petroleum, natural gas or related hydrocarbons; (*minéraux*)
+***non-Crown royalty*** means a royalty contingent on production of a mine or computed by reference to the amount or value of production from mining operations in a province but does not include a royalty that is payable to the Crown in right of Canada or a province. (*redevance non gouvernementale*)
 
-***mining operations*** means the extraction or production of mineral ore from or in any mine or its transportation to or over any part of the distance to the point of egress from the mine, including processing thereof prior to or in the course of such transportation but not including any processing thereof after removal from the mine; (*opérations minières*)
+***processing*** includes all forms of beneficiation, smelting and refining. (*transformation*)
 
-***processing*** as applied to mineral ores includes all forms of beneficiation, smelting and refining, transportation and distributing but does not include any of these operations that are performed with respect to mineral ore before it is removed from the mine. (*transformation*)
+- **(2)** For the purpose of paragraph 20(1)(v) of the Act, the amount allowed in respect of taxes on income from mining operations of a taxpayer for a taxation year is the total of all amounts each of which is an eligible tax paid or payable by the taxpayer
+	- **(a)** on the income of the taxpayer for the taxation year from mining operations; or
+	- **(b)** on a non-Crown royalty included in computing the income of the taxpayer for the taxation year.
 
-- **(3)** Nothing in this section shall be construed as allowing a taxpayer to deduct an amount in respect of taxes imposed under a statute or by-law that is not restricted to the taxation of persons engaged in mining operations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 12; SOR/94-686, s. 23(F).
+- **(3)** An eligible tax referred to in subsection (2) is
+	- **(a)** a tax, on the income of a taxpayer for a taxation year from mining operations in a province, that is
+		- **(i)** levied under a law of the province,
+		- **(ii)** imposed only on persons engaged in mining operations in the province, and
+		- **(iii)** paid or payable to
+			- **(A)** the province,
+			- **(B)** an agent of Her Majesty in right of the province, or
+			- **(C)** a municipality in the province, in lieu of taxes on property or on any interest, or for civil law any right, in property (other than in lieu of taxes on residential property or on any interest, or for civil law any right, in residential property); and
+	- **(b)** a tax, on an amount received or receivable by a person as a non-Crown royalty, that is
+		- **(i)** levied under a law of a province,
+		- **(ii)** imposed only on persons who hold a non-Crown royalty on mining operations in the province, and
+		- **(iii)** paid or payable to the province or to an agent of Her Majesty in right of the province.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 12; SOR/94-686, s. 23(F); SOR/2006-207, s. 1.
 
 
 
@@ -48782,6 +48792,7 @@ by
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
 - Christendom College, Front Royal, Virginia
 - City University, Bellevue, Washington
+- City University of New York, The, John Jay College of Criminal Justice, New York, New York
 - Claremont McKenna College, Claremont, California
 - Clark University, Worcester, Massachusetts
 - Clarkson University, Potsdam, New York
@@ -48827,6 +48838,7 @@ by
 - Emory University, Atlanta, Georgia
 - Emporia State University, Emporia, Kansas
 - Ferris State University, Big Rapids, Michigan
+- Finlandia University, Hancock, Michigan
 - Florida Atlantic University, Boca Raton, Florida
 - Florida Gulf Coast University, Fort Myers, Florida
 - Florida State University, Tallahassee, Florida
@@ -48859,6 +48871,7 @@ by
 - Houghton College, Houghton, New York
 - Huntington College, Huntington, Indiana
 - Illinois Institute of Technology, Chicago, Illinois
+- Illinois State University, Normal, Illinois
 - Indiana University, Bloomington, Indiana
 - Iowa State University of Science and Technology, Ames, Iowa
 - Ithaca College, Ithaca, New York
@@ -49102,7 +49115,9 @@ by
 - University of San Diego, San Diego, California
 - University of Southern California, Los Angeles, California
 - University of Southern Mississippi, The, Hattiesburg, Mississippi
+- University of St. Thomas, Houston, Texas
 - University of St. Thomas, St. Paul, Minnesota
+- University of Tennessee, The, Knoxville, Tennessee
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, California
@@ -49243,12 +49258,12 @@ by
 **10** The universities situated in Ireland that are prescribed by section 3503 are the following:
 - National University of Ireland, Dublin
 - Royal College of Surgeons in Ireland, Dublin
-- University of Dublin, Dublin
+- University of Dublin, The, Trinity College, Dublin
 
 
 **11** The universities situated in the Federal Republic of Germany that are prescribed by section 3503 are the following:
-- Ruprecht-Karls-Universität Heidenberg, Heidenberg
 - Ukrainian Free University, Munich
+- University of Heidelberg, Heidelberg
 
 
 **12** The universities situated in Poland that are prescribed by section 3503 are the following:
@@ -49319,7 +49334,7 @@ by
 - University of Tartu, Tartu
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3.
 
 
 
