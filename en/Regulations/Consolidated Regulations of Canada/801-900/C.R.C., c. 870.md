@@ -42529,6 +42529,8 @@ L-Asparaginase<br />- <i>L-Asparaginase</i>
 
 Astemizole and its salts<br />- <i>Astémizole et ses sels</i>
 
+Atazanavir and its salts<br />- <i>Atazanavir et ses sels</i>
+
 Atenolol and its salts<br />- <i>Aténolol et ses sels</i>
 
 Atipamezole and its salts<br />- <i>Atipamézole et ses sels</i>
@@ -42614,6 +42616,8 @@ Bitolterol and its salts<br />- <i>Bitoltérol et ses sels</i>
 Bivalirudin<br />- <i>Bivalirudine</i>
 
 Bleomycin<br />- <i>Bléomycine</i>
+
+Bortezomib<br />- <i>Bortézomib</i>
 
 Bosentan and its salts and derivatives<br />- <i>Bosentan et ses sels et dérivés</i>
 
@@ -42848,6 +42852,8 @@ Dalteparin and its salts<br />- <i>Daltéparine et ses sels</i>
 Danaparoid and its salts and derivatives<br />- <i>Danaparoïde, ses sels et dérivés</i>
 
 Danazol<br />- <i>Danazol</i>
+
+Danofloxacin and its salts<br />- <i>Danofloxacine et ses sels</i>
 
 Dantrolene and its salts<br />- <i>Dantrolène et ses sels</i>
 
@@ -43125,6 +43131,8 @@ Fosinopril and its salts<br />- <i>Fosinopril et ses sels</i>
 
 Fosphenytoin and its salts<br />- <i>Fosphénytoïne et ses sels</i>
 
+Fulvestrant<br />- <i>Fulvestrant</i>
+
 Fusidic acid and its salts<br />- <i>Fusidique (acide) et ses sels</i>
 
 Gabapentin and its salts and derivatives<br />- <i>Gabapentin, ses sels et dérivés</i>
@@ -43141,9 +43149,13 @@ Ganirelix and its salts and derivatives<br />- <i>Ganirélix, ses sels et dériv
 
 Gatifloxacin and its salts and derivatives<br />- <i>Gatifloxacine, ses sels et dérivés</i>
 
+Gefitinib<br />- <i>Géfitinib</i>
+
 Gemcitabine and its salts<br />- <i>Gemcitabine et ses sels</i>
 
 Gemfibrozil and its salts<br />- <i>Gemfibrozil et ses sels</i>
+
+Gemifloxacin and its salts<br />- <i>Gémifloxacine et ses sels</i>
 
 Gentamicin and its salts and derivatives<br />- <i>Gentamicine, ses sels et dérivés</i>
 
@@ -43181,6 +43193,8 @@ Halothane<br />- <i>Halothane</i>
 
 Hetacillin and its salts and derivatives<br />- <i>Hétacilline, ses sels et dérivés</i>
 
+Hetastarch and its derivatives<br />- <i>Hetastarch et ses dérivés</i>
+
 Hexachlorophene and its salts<br />- <i>Hexachlorophène et ses sels</i>
 
 Hexacyclonate sodium<br />- <i>Hexacyclonate sodique</i>
@@ -43198,6 +43212,8 @@ Hydroxychloroquine and its salts<br />- <i>Hydroxychloroquine et ses sels</i>
 Hydroxyurea<br />- <i>Hydroxyurée</i>
 
 Hydroxyzine and its salts and derivatives<br />- <i>Hydroxyzine, ses sels et dérivés</i>
+
+Ibandronic acid and its salts<br />- <i>Acide ibandronique et ses sels</i>
 
 Ibuprofen and its salts except when sold for oral administration in a concentration of 400 mg or less per dosage unit.<br />- <i>Ibuprofène et ses sels, sauf s’ils sont vendus pour administration par voie orale en une concentration de 400 mg ou moins par unité posologique</i>
 
@@ -43353,6 +43369,8 @@ Meloxicam and its salts and derivatives<br />- <i>Méloxicam et ses sels et dér
 
 Melphalan<br />- <i>Melphalan</i>
 
+Memantine and its salts<br />- <i>Mémantine et ses sels</i>
+
 Menotropins (human)<br />- <i>Ménotropines (humains)</i>
 
 Mepacrine and its salts<br />- <i>Mépacrine et ses sels</i>
@@ -43438,6 +43456,8 @@ Mitotane (o,p’-DDD)<br />- <i>Mitotane (o,p’-DDD)</i>
 Mitoxantrone and its salts<br />- <i>Mitoxantrone et ses sels</i>
 
 Mivacurium chloride<br />- <i>Mivacurium (chlorure de)</i>
+
+Modafinil and its salts<br />- <i>Modafinil et ses sels</i>
 
 Molgramostim<br />- <i>Molgramostim</i>
 
@@ -43737,6 +43757,8 @@ Podophyllum and the following extracts and active principles, when sold or recom
 
 Polysulfated glycosaminoglycan<br />- <i>Glycosaminoglycan polysulfaté</i>
 
+Ponazuril<br />- <i>Ponazuril</i>
+
 Poractant alfa<br />- <i>Poractant alfa</i>
 
 Porfimer and its salts<br />- <i>Porfimère et ses sels</i>
@@ -43886,6 +43908,8 @@ Sermorelin and its salts<br />- <i>Sermoréline et ses sels</i>
 Sertraline and its salts<br />- <i>Sertraline et ses sels</i>
 
 Sevelamer and its salts<br />- <i>Sévélamer et ses sels</i>
+
+Sibutramine and its salts<br />- <i>Sibutramine et ses sels</i>
 
 Sildenafil and its salts<br />- <i>Sildénafil et ses sels</i>
 
@@ -44459,7 +44483,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
->  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2.
+>  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1.
 
 
 
