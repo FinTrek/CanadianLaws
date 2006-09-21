@@ -178,7 +178,7 @@ Enabling authorities:
 - **(3)** [Repealed, SOR/2003-6, s. 41]
 
 - **(4)** For the purposes of paragraph (1)(d), ***prepared in a sanitary manner*** means prepared in accordance with the provisions of sections 16 and 17.
-> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41.
+> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41; SOR/2006-221, s. 5(F).
 
 
 
@@ -463,7 +463,7 @@ Enabling authorities:
 
 - **(2)** Every registered establishment shall be operated in accordance with the sanitation program referred to in subsection 10(2).
 
-- **(3)** Operations in relation to the preparation, packaging, marking, storage and other handling of a food product in a registered establishment shall be carried out under strict sanitary control.
+- **(3)** [Repealed, SOR/2006-221, s. 6]
 
 - **(4)** A registered establishment shall have notices posted in prominent places instructing employees engaged in the preparation, packaging, marking, storing or other handling of a food product to clean their hands immediately after using toilet facilities.
 
@@ -492,7 +492,7 @@ Enabling authorities:
 - **(16)** In a registered establishment, raw materials intended for use in a food product shall be washed as needed to remove soil or other contamination.
 
 - **(17)** Raw materials intended for use in a food product shall be inspected, sorted and culled in a clean and sanitary manner in order to remove unfit materials prior to the introduction of those raw materials into the processing line in a registered establishment.
-> SOR/79-918, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 46(E).
+> SOR/79-918, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 46(E); SOR/2006-221, s. 6.
 
 
 
@@ -1151,10 +1151,10 @@ Enabling authorities:
 	- **(a)** at the time of import, submit the import declaration to an inspector for verification; and
 	- **(b)** pay the applicable fee prescribed by the Canadian Food Inspection Agency Fees Notice, in accordance with the conditions of payment set out in that Notice.
 
-- **(2)** Paragraph (1)(b) does not apply in respect of a shipment of food products to which subsection 60(3) applies.
+- **(2)** Paragraph (1)(b) does not apply in respect of a shipment of food products to which subsection 60(3) applies.
 
-- **(3)** Where an importer has failed to pay the fee referred to in paragraph (1)(b), Her Majesty may detain or refuse the entry into Canada of subsequent shipments until the importer pays the outstanding amount.
-> SOR/97-300, s. 11; SOR/2000-183, s. 21.
+- **(3)** [Repealed, SOR/2006-221, s. 7]
+> SOR/97-300, s. 11; SOR/2000-183, s. 21; SOR/2006-221, s. 7.
 
 
 
@@ -1214,8 +1214,8 @@ Enabling authorities:
 
 
 
-**70** Except with the written permission of an inspector, no person shall alter a food product or other thing or remove a food product or other thing from the place in which it has been detained. 
-> SOR/87-372, s. 3.
+**70** Except with the written permission of an inspector, no person shall alter a food product or other thing that is under detention or remove a food product or other thing from the place in which it has been detained.
+> SOR/87-372, s. 3; SOR/2006-221, s. 8(E).
 
 
 
