@@ -826,14 +826,14 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** be accompanied by a copy of the original inspection certificate.
 
 - **(4)** The Director may refuse to grant an appeal inspection where
-	- **(a)** the produce cannot be made accessible for inspection;
+	- **(a)** the produce is not accessible for inspection;
 	- **(b)** the produce cannot be identified by the original inspection certificate or the vehicle, if any, in which it was conveyed; or
 	- **(c)** less than 75 per cent of the lot of produce is available for inspection.
 
 - **(5)** Where the Director grants an appeal inspection, the inspector making the appeal inspection shall
 	- **(a)** where the findings of the second inspection substantiate the original findings, confirm the original inspection certificate; and
 	- **(b)** where the findings of the second inspection do not substantiate the original findings with respect to any factor that could not have changed since the original inspection, issue an inspection certificate rendering the original inspection certificate null and void.
-> SOR/90-447, s. 2;; SOR/95-475, s. 2.
+> SOR/90-447, s. 2; SOR/95-475, s. 2; SOR/2006-221, s. 1(E).
 
 
 
@@ -1569,141 +1569,81 @@ but where the produce or any of the information referred to in paragraphs (a) to
 <td>1</td>
 <td>Canada Extra Fancy</td>
 <td>(1) Trays or cells</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 <td>(free from)</td>
 </tr>
 <tr>
-<td>**(b)** not more than one per apple;
-
-</td>
+<td>(b) not more than one per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 10 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 10 per cent by count of the apples in a lot</td>
 </tr>
 <tr>
 <td>(2) Other than trays or cells; retail bulk displays</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 </tr>
 <tr>
-<td>**(b)** not more than one per apple;
-
-</td>
-<td>**(b)** not more than one per apple;
-
-</td>
+<td>(b) not more than one per apple;</td>
+<td>(b) not more than one per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 15 per cent by count of the apples in a lot
-
-</td>
-<td>**(c)** affect not more than 10 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 15 per cent by count of the apples in a lot</td>
+<td>(c) affect not more than 10 per cent by count of the apples in a lot</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Canada Fancy</td>
 <td>(1) Trays or cells</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 <td>(free from)</td>
 </tr>
 <tr>
-<td>**(b)** not more than one per apple;
-
-</td>
+<td>(b) not more than one per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 15 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 15 per cent by count of the apples in a lot</td>
 </tr>
 <tr>
 <td>(2) Other than trays or cells; retail bulk displays</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 </tr>
 <tr>
-<td>**(b)** not more than one per apple;
-
-</td>
-<td>**(b)** not more than one per apple;
-
-</td>
+<td>(b) not more than one per apple;</td>
+<td>(b) not more than one per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 20 per cent by count of the apples in a lot
-
-</td>
-<td>**(c)** affect not more than 15 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 20 per cent by count of the apples in a lot</td>
+<td>(c) affect not more than 15 per cent by count of the apples in a lot</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Canada Commercial</td>
 <td>(1) Trays or cells</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 </tr>
 <tr>
-<td>**(b)** not more than two per apple;
-
-</td>
-<td>**(b)** not more than two per apple;
-
-</td>
+<td>(b) not more than two per apple;</td>
+<td>(b) not more than two per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 20 per cent by count of the apples in a lot
-
-</td>
-<td>**(c)** affect not more than 10 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 20 per cent by count of the apples in a lot</td>
+<td>(c) affect not more than 10 per cent by count of the apples in a lot</td>
 </tr>
 <tr>
 <td>(2) Other than trays or cells; retail bulk displays</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
-<td>**(a)** individually measure not more than 5 mm (3/16 inch) in diameter;
-
-</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
+<td>(a) individually measure not more than 5 mm (3/16 inch) in diameter;</td>
 </tr>
 <tr>
-<td>**(b)** not more than two per apple;
-
-</td>
-<td>**(b)** not more than two per apple;
-
-</td>
+<td>(b) not more than two per apple;</td>
+<td>(b) not more than two per apple;</td>
 </tr>
 <tr>
-<td>**(c)** affect not more than 30 per cent by count of the apples in a lot
-
-</td>
-<td>**(c)** affect not more than 20 per cent by count of the apples in a lot
-
-</td>
+<td>(c) affect not more than 30 per cent by count of the apples in a lot</td>
+<td>(c) affect not more than 20 per cent by count of the apples in a lot</td>
 </tr>
 </table>
 
@@ -4529,7 +4469,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 			- **(A)** 5% that are affected by other permanent defects, and
 			- **(B)** 2% that are affected by decay.
 		- **(v)** [Repealed, SOR/2003-6, s. 27]
-> SOR/94-718, s. 9; SOR/2003-6, s. 27..
+> SOR/94-718, s. 9; SOR/2003-6, s. 27; SOR/2006-221, s. 2(F)..
 
 
 
