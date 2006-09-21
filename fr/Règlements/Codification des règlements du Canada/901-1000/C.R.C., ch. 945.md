@@ -8884,37 +8884,47 @@ où
 
 
 **PARTIE XXXIX** 
-## Impôts sur le revenu tiré d’opérations minières
+## Impôts sur les exploitations minières
 
 
 **3900** 
 
-- **(1)** En calculant son revenu pour l’année d’imposition, un contribuable peut déduire, en vertu de l’alinéa 20(1)v) de la Loi, un montant égal au moindre
-	- **a)** de la totalité des impôts payés, à l’égard du revenu qu’il a tiré d’opérations minières dans une province pour l’année,
-		- **(i)** à la province, et
-		- **(ii)** à une municipalité dans la province en remplacement de taxes sur des biens ou sur un intérêt dans ceux-ci (autres que ses propriétés résidentielles ou tout intérêt dans celles-ci), et
-	- **b)** de la proportion de ces impôts que le revenu qu’il a tiré d’opérations minières dans la province pour l’année représente par rapport au revenu à l’égard duquel les impôts ont été payés.
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-- **(2)** Dans le présent article,
+***exploitation minière***
+- **a)** L’extraction de minerai d’une mine ou la production de minerai dans une mine;
+- **b)** le transport du minerai jusqu’à la sortie de la mine;
+- **c)** la transformation :
+	- **(i)** de minerai (sauf le minerai de fer) jusqu’au stade du métal primaire ou de son équivalent,
+	- **(ii)** de minerai de fer jusqu’à un stade ne dépassant pas celui de la boulette ou de son équivalent. (*mining operations*)
 
-***revenu tiré d’opérations minières*** dans une province par un contribuable pour une année d’imposition désigne,
-- **a)** si le contribuable ne dispose pas de sources de revenu autres que les opérations minières, le montant qui serait autrement son revenu pour l’année si aucun montant n’avait été déduit dans le calcul de son revenu en vertu de l’alinéa 20(1)v) de la Loi ou de l’alinéa 1100(1)g) du présent règlement, et
-- **b)** dans tout autre cas, le montant qui serait autrement son revenu pour l’année si aucun montant n’avait été déduit dans le calcul de son revenu en vertu de l’alinéa 20(1)v) de la Loi ou de l’alinéa 1100 (1)g) du présent règlement, moins l’ensemble
-	- **(i)** de son revenu pour l’année de toutes sources autres que l’exploitation minière, la transformation et la vente de minerais, de minéraux et de leurs sous-produits, et
-	- **(ii)** d’un montant égal à 8 % du coût initial, en ce qui le concerne, des biens désignés à l’annexe II du présent règlement et utilisés par lui dans l’année dans la transformation de minerais, de minéraux ou de leurs sous-produits, ou, si le montant ainsi déterminé est supérieur à 65 % du revenu qui reste une fois déduit le montant déterminé en vertu du sous-alinéa (i), 65 % du revenu qui reste ou, si le montant ainsi déterminé est inférieur à 15 % du revenu qui reste, 15 % du revenu qui reste; (*income derived from mining operations*)
+***mine*** Tous travaux ou toute entreprise d’extraction ou de production de minerai, y compris les carrières. (*mine*)
 
-***mine*** comprend tout travail ou entreprise d’extraction ou de production de minerai, y compris une carrière; (*mine*)
+***minerai*** Sont compris parmi les minerais les minéraux non transformés et les substances minéralisées. (*mineral ore*)
 
-***minerai*** comprend tous les minéraux non traités ou les substances dans la composition desquelles entrent des minéraux; (*mineral ores*)
+***redevance non gouvernementale*** Redevance établie en fonction de la production provenant d’une mine ou calculée par rapport à la quantité ou à la valeur de la production provenant d’exploitations minières dans une province, à l’exclusion des redevances dues à Sa Majesté du chef du Canada ou d’une province. (*non-Crown royalty*)
 
-***minéraux*** désigne les minéraux autres que ceux obtenus d’une ressource minérale, à l’exclusion du pétrole, du gaz naturel et des hydrocarbures connexes; (*minerals*)
+***revenu*** Le revenu d’un contribuable pour une année d’imposition tiré d’exploitations minières dans une province, calculé selon les lois de la province qui prévoient un impôt admissible visé au paragraphe (3). (*income*)
 
-***opérations minières*** désigne l’extraction de minerais d’une mine ou leur production dans une mine ou leur transport vers ou jusqu’à la sortie de la mine, y compris une transformation effectuée avant ou pendant ce transport, à l’exclusion de toute transformation effectuée après l’enlèvement du minerai de la mine; (*mining operations*)
+***transformation*** Toute forme de valorisation, de fonte et d’affinage. (*processing*)
 
-***transformation***, appliquée aux minerais, comprend toutes les formes de valorisation, de fonte et d’affinage, ainsi que le transport et la distribution, mais ne comprend aucune de ces opérations auxquelles le minerai est soumis avant d’être enlevé de la mine. (*processing*)
+- **(2)** Pour l’application de l’alinéa 20(1)v) de la Loi, la somme autorisée au titre des impôts sur le revenu tiré d’exploitations minières d’un contribuable pour une année d’imposition correspond au total des sommes représentant chacune un impôt admissible payé ou à payer par le contribuable :
+	- **a)** soit sur son revenu pour l’année tiré d’exploitations minières;
+	- **b)** soit sur une redevance non gouvernementale incluse dans le calcul de son revenu pour l’année.
 
-- **(3)** Rien dans le présent article ne doit être interprété comme permettant au contribuable de déduire un montant à l’égard des impôts levés en vertu d’une loi statutaire ou d’un règlement non limité dans son application à l’imposition des personnes s’adonnant aux opérations minières.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 12; DORS/94-686, art. 23(F).
+- **(3)** Sont des impôts admissibles :
+	- **a)** l’impôt sur le revenu d’un contribuable pour une année d’imposition tiré d’exploitations minières dans une province, qui est, à la fois :
+		- **(i)** prélevé sous le régime d’une loi de la province,
+		- **(ii)** exigé seulement des personnes s’occupant d’exploitations minières dans la province,
+		- **(iii)** payé ou à payer :
+			- **(A)** soit à la province,
+			- **(B)** soit à un mandataire de Sa Majesté du chef de la province,
+			- **(C)** soit à une municipalité de la province, en remplacement d’impôts fonciers ou d’impôts sur un intérêt ou, pour l’application du droit civil, un droit sur un bien (mais non en remplacement d’impôts sur un bien résidentiel ou d’impôts sur un intérêt ou, pour l’application du droit civil, un droit sur un tel bien);
+	- **b)** l’impôt sur la somme reçue ou à recevoir par une personne à titre de redevance non gouvernementale, qui est, à la fois :
+		- **(i)** prélevé sous le régime d’une loi provinciale,
+		- **(ii)** exigé seulement des personnes qui détiennent une redevance non gouvernementale sur des exploitations minières dans la province,
+		- **(iii)** payé ou à payer à la province ou à un mandataire de Sa Majesté du chef de la province.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 12; DORS/94-686, art. 23(F); DORS/2006-207, art. 1.
 
 
 
@@ -48615,6 +48625,7 @@ par
 - Central Yeshiva Tomchei Tmimim-Lubavitch, Brooklyn, New York
 - Christendom College, Front Royal, Virginie
 - City University, Bellevue, Washington
+- City University of New York, The, John Jay College of Criminal Justice, New York, New York
 - Claremont McKenna College, Claremont, Californie
 - Clark University, Worcester, Massachusetts
 - Clarkson University, Potsdam, New York
@@ -48660,6 +48671,7 @@ par
 - Emory University, Atlanta, Géorgie
 - Emporia State University, Emporia, Kansas
 - Ferris State University, Big Rapids, Michigan
+- Finlandia University, Hancock, Michigan
 - Florida Atlantic University, Boca Raton, Floride
 - Florida Gulf Coast University, Fort Myers, Floride
 - Florida State University, Tallahassee, Floride
@@ -48692,6 +48704,7 @@ par
 - Houghton College, Houghton, New York
 - Huntington College, Huntington, Indiana
 - Illinois Institute of Technology, Chicago, Illinois
+- Illinois State University, Normal, Illinois
 - Indiana University, Bloomington, Indiana
 - Iowa State University of Science and Technology, Ames, Iowa
 - Ithaca College, Ithaca, New York
@@ -48935,7 +48948,9 @@ par
 - University of San Diego, San Diego, Californie
 - University of Southern California, Los Angeles, Californie
 - University of Southern Mississippi, The, Hattiesburg, Mississippi
+- University of St. Thomas, Houston, Texas
 - University of St. Thomas, St. Paul, Minnesota
+- University of Tennessee, The, Knoxville, Tennessee
 - University of Texas, Austin, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
 - University of the Pacific, Stockton, Californie
@@ -49075,12 +49090,12 @@ par
 **10** Les universités situées en Irlande qui sont prescrites par l’article 3503 sont les suivantes :
 - National University of Ireland, Dublin
 - Royal College of Surgeons in Ireland, Dublin
-- University of Dublin, Dublin
+- University of Dublin, The, Trinity College, Dublin
 
 
 **11** Les universités situées dans la République fédérale d’Allemagne qui sont prescrites par l’article 3503 sont les suivantes :
-- Ruprecht-Karls-Universität Heidenberg, Heidenberg
 - Université libre d’Ukraine, Munich
+- University of Heidelberg, Heidelberg
 
 
 **12** Les universités situées en Pologne qui sont prescrites par l’article 3503 sont les suivantes :
@@ -49151,7 +49166,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3.
 
 
 
