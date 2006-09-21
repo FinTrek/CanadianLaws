@@ -244,18 +244,14 @@ Enabling authorities:
 ## Standards
 
 
-**10** 
-
-- **(1)** The major plant nutrients present in every mixed fertilizer containing nitrogen, phosphorous or potassium shall be not less than 24% of the total content of the fertilizer, except if the mixed fertilizer is
-	- **(a)** a customer-formula fertilizer;
-	- **(b)** a specialty fertilizer;
-	- **(c)** a fertilizer the ingredients of which contain
-		- **(i)** at least 50% that is of animal or vegetable origin and that supplies 25% of the nitrogen in the mixture in a water-insoluble form, and
-		- **(ii)** at least 18% that is of major plant nutrients combined; or
-	- **(d)** a product registered under the Act.
-
-- **(2) and (3)** [Repealed, SOR/79-365, s. 8]
-> SOR/79-365, s. 8; SOR/2003-6, s. 74.
+**10** The major plant nutrients present in every mixed fertilizer containing nitrogen, phosphorous or potassium shall be not less than 24% of the total content of the fertilizer, except if the mixed fertilizer is
+- **(a)** a customer-formula fertilizer;
+- **(b)** a specialty fertilizer;
+- **(c)** a fertilizer the ingredients of which contain
+	- **(i)** at least 50% that is of animal or vegetable origin and that supplies 25% of the nitrogen in the mixture in a water-insoluble form, and
+	- **(ii)** at least 18% that is of major plant nutrients combined; or
+- **(d)** a product registered under the Act.
+> SOR/79-365, s. 8; SOR/2003-6, s. 74; SOR/2006-221, s. 12(F).
 
 
 
@@ -329,10 +325,10 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 
 **10.3** 
 
-- **(1)** A mixed fertilizer that is represented on its label as being a slow release fertilizer consisting of Isobutylidene diurea (I.D.B.U.), urea formaldehyde, urea-form or any other chemical compound having similar slow release properties shall contain at least 25 per cent of the total nitrogen guaranteed present in the water-insoluble form.
+- **(1)** A mixed fertilizer that is represented on its label as being a slow-release fertilizer consisting of Isobutylidene diurea (I.B.D.U.), urea formaldehyde, urea-form or any other chemical compound having similar slow-release properties shall contain at least 25% of the total nitrogen guaranteed present in the water-insoluble form.
 
 - **(2)** Where a representation is made in respect of the performance of a controlled release fertilizer, other than a fertilizer referred to in subsection (1), and the representation is on the label, the person who packaged the product shall provide the President of the Agency with the results of the field performance test of the product.
-> SOR/79-365, s. 9; SOR/2004-80, s. 12.
+> SOR/79-365, s. 9; SOR/2004-80, s. 12; SOR/2006-221, s. 13(E).
 
 
 
@@ -1047,7 +1043,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 </tr>
 <tr>
 <td>2.7</td>
-<td>A product of a mine containing not less than 25% total phosphoric acid, ground to a fineness whereby a least 80% passes through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) in width</td>
+<td>A product of a mine containing not less than 25% total phosphoric acid, ground to a fineness whereby at least 80% passes through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) in width</td>
 <td>Natural rock phosphate (Specify grade.)</td>
 </tr>
 <tr>
@@ -1167,7 +1163,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 </tr>
 </table>
 
-> SOR/79-365, s. 18; SOR/85-558, ss. 11 to 14; SOR/93-232, s. 2; SOR/2003-6, s. 76.
+> SOR/79-365, s. 18; SOR/85-558, ss. 11 to 14; SOR/93-232, s. 2; SOR/2003-6, s. 76; SOR/2006-221, s. 14(E).
 
 
 
