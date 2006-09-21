@@ -656,8 +656,8 @@ Autorités habilitantes :
 
 
 
-**39** L’inspecteur qui, en raison de mauvaises conditions au moment de l’examen ou de la présence de défauts cachés dans le miel, est incapable de déterminer si celui-ci répond aux exigences de la catégorie ou de la norme applicable doit en reporter l’inspection de l’intervalle de temps qu’il juge nécessaire pour ce faire.
-> DORS/80-184, art. 20; DORS/97-304, art. 5.
+**39** L’inspecteur qui, en raison de mauvaises conditions au moment de l’examen ou de la présence de défauts cachés dans le miel, est incapable de déterminer si celui-ci répond aux exigences de la catégorie ou de la norme applicable doit en reporter l’inspection de l’intervalle de temps qui est nécessaire pour ce faire.
+> DORS/80-184, art. 20; DORS/97-304, art. 5; DORS/2006-221, art. 3.
 
 
 
@@ -678,7 +678,7 @@ Autorités habilitantes :
 - **(4)** Lorsque le directeur accorde une inspection en appel, l’inspecteur chargé de l’effectuer doit :
 	- **a)** si les résultats de cette inspection corroborent ceux de l’inspection initiale, confirmer le certificat d’inspection initial;
 	- **b)** si les résultats de cette inspection ne corroborent pas ceux de l’inspection initiale quant à tout facteur qui n’a pu changer entre-temps, délivrer un certificat d’inspection invalidant le certificat initial.
-> DORS/97-304, art. 5.
+> DORS/97-304, art. 5; DORS/2006-221, art. 4(A).
 
 
 
