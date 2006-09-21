@@ -106,15 +106,15 @@ Autorités habilitantes :
 
 **6** 
 
-- **(1)** L'échantillon officiel prélevé au titre de l'article 30 de la Loi l'est conformément au document de la Commission intitulé Manuel des systèmes d'échantillonnage et Guide d'approbation, avec ses modifications successives.
+- **(1)** L’échantillon officiel prélevé au titre de l’article 30 de la Loi l’est conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et Guide d’approbation.
 
-- **(2)** Il est interdit de prélever un échantillon officiel à l'aide d'un échantillonneur mécanique, à moins que celui-ci ne soit installé, vérifié et entretenu par le titulaire de licence sous la supervision d'un inspecteur.
+- **(2)** Il est interdit de prélever un échantillon officiel à l’aide d’un échantillonneur mécanique, à moins que celui-ci ne soit installé, vérifié et entretenu par le titulaire de licence sous la supervision d’un inspecteur.
 
 - **(3)** Les échantillons officiels sont conservés pendant la période commençant à la date de classement de l’échantillon et se terminant :
-	- **a)** au moins six mois après cette date, si l'échantillon est prélevé lors du transbordement du grain d'une installation à un navire;
-	- **b)** [Abrogé, DORS/2003-284, art. 5]
+	- **a)** au moins six mois après cette date, si l’échantillon est prélevé lors du transbordement du grain d’une installation à un navire;
+	- **b)** [Abrogé, DORS/2003-284, art. 5]
 	- **c)** au moins vingt jours après cette date, dans tout autre cas.
-> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1.
+> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1.
 
 
 
@@ -170,8 +170,8 @@ Autorités habilitantes :
 
 - **(2)** [Abrogé, DORS/2005-361, art. 3]
 
-- **(3)** Si la Commission ne reçoit aucune offre d'achat pour les échantillons officiels ou non officiels, ceux-ci sont éliminés de la manière qu'elle détermine.
-> DORS/89-376, art. 1 et 12(F); DORS/89-395, art. 2(F); DORS/96-508, art. 7; DORS/2000-213, art. 2; DORS/2004-198, art. 5; DORS/2005-361, art. 3.
+- **(3)** Si la Commission ne reçoit aucune offre d’achat pour les échantillons officiels ou non officiels, ceux-ci sont jetés.
+> DORS/89-376, art. 1 et 12(F); DORS/89-395, art. 2(F); DORS/96-508, art. 7; DORS/2000-213, art. 2; DORS/2004-198, art. 5; DORS/2005-361, art. 3; DORS/2006-206, art. 2.
 
 
 
@@ -245,11 +245,19 @@ Autorités habilitantes :
 
 
 
-**15** Les types d'installations suivants sont soustraits à l'obligation de licence en vertu de l'alinéa 117a) de la Loi :
-- **a)** les fabriques d'aliments pour les animaux;
-- **b)** les usines de nettoyage de semences, si l'exploitant n'achète pas de grain et qu'il permet à la Commission d'avoir accès à ses registres;
-- **c)** les distilleries, si l'exploitant n'achète pas de grain directement des producteurs et qu'il permet à la Commission d'avoir accès à ses registres.
-> DORS/89-376, art. 14(F); DORS/89-395, art. 1; DORS/93-197, art. 3; DORS/96-508, art. 11; DORS/2000-213, art. 2; DORS/2001-273, art. 9; DORS/2002-255, art. 4; DORS/2004-198, art. 8.
+**15** 
+
+- **(1)** Les types d’installations ci-après sont soustraits à l’obligation de licence en vertu de l’alinéa 117a) de la Loi :
+	- **a)** l’installation construite pour la manutention et le stockage de grain dans le cadre de l’exploitation d’une fabrique d’aliments pour animaux;
+	- **b)** l’installation de transformation, autre que l’installation visée à l’alinéa a), si son exploitant n’achète pas de grain des producteurs, n’assume aucune obligation envers eux quant au paiement du grain et permet à la Commission d’avoir accès aux registres relatifs à l’installation;
+	- **c)** l’installation construite pour la manutention et le stockage de grain dans le cadre de l’exploitation d’une usine de nettoiement de semences, si l’exploitant de cette dernière n’exploite pas l’installation pour la manutention, le stockage ou l’achat de grain, sauf le grain de semence et s’il permet à la Commission d’avoir accès aux registres relatifs à l’installation;
+	- **d)** toute autre installation, si l’exploitant n’agit qu’à titre de mandataire pour les titulaires de licences, ceux-ci devant fournir à la Commission une garantie pour tout le grain reçu à l’installation, et s’il permet à la Commission d’avoir accès aux registres relatifs à l’installation.
+
+- **(2)** L’opération de manutention de grain d’un négociant en grains est soustraite à l’obligation de licence en vertu de l’alinéa 117a) de la Loi, si le négociant permet à la Commission d’avoir accès à ses registres relatifs au commerce et à la manutention du grain de l’Ouest et si, selon le cas :
+	- **a)** il ne se livre au commerce ou à la manutention du grain de l’Ouest qu’à titre de mandataire pour les titulaires de licences, ceux-ci devant fournir à la Commission une garantie à l’égard de toute transaction effectuée par lui sur ce grain;
+	- **b)** il ne se livre pas au commerce ou à la manutention du grain de l’Ouest sauf le grain de semence;
+	- **c)** il n’achète pas du grain de l’Ouest des producteurs et n’assume aucune obligation envers eux quant au paiement de ce grain.
+> DORS/89-376, art. 14(F); DORS/89-395, art. 1; DORS/93-197, art. 3; DORS/96-508, art. 11; DORS/2000-213, art. 2; DORS/2001-273, art. 9; DORS/2002-255, art. 4; DORS/2004-198, art. 8; DORS/2006-206, art. 3.
 
 
 
@@ -666,10 +674,10 @@ Autorités habilitantes :
 
 **45** 
 
-- **(1)** Pour l'application du présent article, est assimilé à la livraison à un négociant en grains titulaire d'une licence, la livraison de grain au représentant autorisé d'un tel négociant.
+- **(1)** Pour l’application du présent article, est assimilé à la livraison à un négociant en grains titulaire d’une licence, la livraison de grain au mandataire d’un tel négociant.
 
-- **(2)** L'accusé de réception ou le bon de paiement à établir par le négociant en grains titulaire d'une licence aux termes du paragraphe 81(1) de la Loi sur réception de grain de l'Ouest livré par le producteur ou sur l'établissement d'un droit sur du grain de l'Ouest livré à une installation par le producteur doit être conforme à la formule 1 ou à la formule 6 de l'annexe 4, selon le cas.
-> DORS/2000-213, art. 2; DORS/2001-273, art. 16; DORS/2002-255, art. 13; DORS/2003-284, art. 22.
+- **(2)** L’accusé de réception ou le bon de paiement à établir par le négociant en grains titulaire d’une licence aux termes du paragraphe 81(1) de la Loi sur réception de grain de l’Ouest livré par le producteur ou sur l’établissement d’un droit sur du grain de l’Ouest livré à une installation par le producteur doit être conforme à la formule 1 ou à la formule 6 de l’annexe 4, selon le cas.
+> DORS/2000-213, art. 2; DORS/2001-273, art. 16; DORS/2002-255, art. 13; DORS/2003-284, art. 22; DORS/2006-206, art. 4.
 
 
 
@@ -699,20 +707,16 @@ Autorités habilitantes :
 
 
 **50** L'exploitant d'une installation de transbordement agréée peut :
-- **a)** recevoir du grain sans le soumettre à l'inspection officielle dans les cas suivants :
-	- **(i)** il s'agit de grain de l'Est,
-	- **(ii)** il s’agit de grain de l’Ouest qui a déjà été soumis à l’inspection officielle ou d’un échantillon non officiel de ce grain qui a été classé par la Commission avant ou dès sa réception;
+- **a)** recevoir du grain sans le soumettre à l’inspection officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à cette inspection et qu’un échantillon non officiel de ce grain n’a pas non plus été soumis au classement par la Commission, avant ou dès sa réception, au lieu de l’inspection officielle;
 - **b)** décharger du grain sans le soumettre à l'inspection officielle dans les cas suivants :
 	- **(i)** le grain n'est pas destiné à l'exportation,
 	- **(ii)** le grain est destiné à être exporté aux États-Unis par rail ou par route,
-	- **(iii)** il s'agit de grain de l'Est qui est destiné à être exporté par navire, qui a déjà été soumis à l'inspection officielle et qui satisfait aux conditions concernant la vente et l'inspection du grain prévues dans le document publié sous l'autorité de la Commission et intitulé Politique sur le grain de l'Est préalablement inspecté.
-- **c)** recevoir du grain sans le soumettre à la pesée officielle dans les cas suivants :
-	- **(i)** il s'agit du grain de l'Est,
-	- **(ii)** il s'agit du grain de l'Ouest qui a déjà été soumis à la pesée officielle;
+	- **(iii)** il s'agit de grain de l'Est qui est destiné à être exporté par navire, qui a déjà été soumis à l'inspection officielle et qui satisfait aux conditions concernant la vente et l'inspection du grain prévues dans le document publié sous l'autorité de la Commission et intitulé Politique sur le grain de l'Est préalablement inspecté;
+- **c)** recevoir du grain sans le soumettre à la pesée officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à la pesée officielle;
 - **d)** décharger du grain sans le soumettre à la pesée officielle dans les cas suivants :
 	- **(i)** le grain n'est pas destiné à l'exportation,
 	- **(ii)** le grain est destiné à être exporté aux États-Unis par rail ou par route.
-> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8.
+> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5.
 
 
 
@@ -1029,19 +1033,12 @@ Autorités habilitantes :
 <td>SERVICES D’INSPECTION</td>
 </tr>
 <tr>
-<td> </td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>1</td>
 <td>Inspection du grain, des criblures ou du grain étranger aux installations terminales ou aux installations de transbordement agréées (payable par l’exploitant) :</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** en wagons, en camions ou en conteneurs au déchargement
 
 </td>
@@ -1049,47 +1046,36 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** pour chaque inspection, par wagon, par camion ou par conteneur :
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— blé (sauf le blé CPS et le blé de l’Est)
+<td>**—** blé (sauf le blé CPS et le blé de l’Est)
 
 </td>
 <td>27,10</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— blé CPS et blé de l’Est
+<td>**—** blé CPS et blé de l’Est
 
 </td>
 <td>20,10</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation lorsque l’inspection n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(iii)** [Abrogé, DORS/2001-273, art. 25]
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** en wagons, en camions ou en conteneurs, lorsque l’inspection est effectuée au cours du chargement
 
 </td>
@@ -1097,23 +1083,18 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** pour chaque inspection, par wagon, par camion ou par conteneur
 
 </td>
 <td>29,00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque l’inspection sur place n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**c)** sur livraison aux navires ou aux cellules d’ensachage :
 
 </td>
@@ -1121,15 +1102,13 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>**a)** lorsque le grain n’a pas été officiellement inspecté auparavant au cours du chargement ou du déchargement des navires
+<td>**(i)** lorsque le grain n’a pas été officiellement inspecté auparavant au cours du chargement ou du déchargement des navires
 
 </td>
 <td>par tonne métrique</td>
 <td>0,51</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** aux installations de transbordement, lorsque le grain a été officiellement inspecté auparavant au cours du chargement ou du déchargement des navires ou au cours du chargement des wagons
 
 </td>
@@ -1137,7 +1116,6 @@ Autorités habilitantes :
 <td>0,25</td>
 </tr>
 <tr>
-<td></td>
 <td>**d)** sur réception des navires :
 
 </td>
@@ -1145,7 +1123,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** pour l’inspection demandée de l’état ou de l’infestation du grain, ou des deux
 
 </td>
@@ -1153,7 +1130,6 @@ Autorités habilitantes :
 <td>0,25</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** pour l’inspection officielle
 
 </td>
@@ -1161,7 +1137,6 @@ Autorités habilitantes :
 <td>0,51</td>
 </tr>
 <tr>
-<td></td>
 <td>**e)** sur réception ou livraison non visée aux alinéas a) à d)
 
 </td>
@@ -1169,7 +1144,6 @@ Autorités habilitantes :
 <td>0,51</td>
 </tr>
 <tr>
-<td></td>
 <td>**f)** lorsque du grain ou du grain étranger stocké dans une installation est inspecté au cours d’un transfert interne effectué à une fin autre que la pesée de contrôle exigée par la Commission
 
 </td>
@@ -1177,7 +1151,6 @@ Autorités habilitantes :
 <td>0,25</td>
 </tr>
 <tr>
-<td></td>
 <td>**g)** pour une pesée de contrôle exigée par la Commission
 
 </td>
@@ -1191,7 +1164,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** classement des échantillons non officiels soumis, si un certificat est délivré (à payer par la personne qui soumet l’échantillon)
 
 </td>
@@ -1199,66 +1171,17 @@ Autorités habilitantes :
 <td>15,10</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— blé de printemps Canada Prairie et blé de l’Est
+<td>**—** blé de printemps Canada Prairie et blé de l’Est
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**b)** classement des échantillons non officiels soumis, si aucun certificat n’est délivré (à payer par la personne qui soumet l’échantillon)
+<td>**b)** [Abrogé, DORS/2006-206, art. 6]
 
 </td>
-<td>la somme de, par échantillon</td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td>— blé (à l’exception du blé de printemps Canada Prairie)
-
-</td>
-<td>19,55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— blé de printemps Canada Prairie
-
-</td>
-<td>7,55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— maïs
-
-</td>
-<td>7,55</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— canola, colza, graine de moutarde, de carthame ou de tournesol
-
-</td>
-<td>12,20</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>— autres grains ou criblures
-
-</td>
-<td>10,85</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1267,7 +1190,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** lorsque le grade est maintenu à la réinspection par l’inspecteur principal à l’endroit de la première inspection
 
 </td>
@@ -1275,7 +1197,6 @@ Autorités habilitantes :
 <td>7,50</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** lorsque le grade est maintenu à la réinspection par l’inspecteur en chef des grains à Winnipeg
 
 </td>
@@ -1283,7 +1204,6 @@ Autorités habilitantes :
 <td>15,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**c)** lorsque le grade n’est pas maintenu à la réinspection
 
 </td>
@@ -1291,19 +1211,7 @@ Autorités habilitantes :
 <td>gratuit</td>
 </tr>
 <tr>
-<td> </td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>SERVICES DE PESÉE</td>
-</tr>
-<tr>
-<td> </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -1312,7 +1220,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** en wagons, en camions ou en conteneurs, lorsque la pesée est effectuée au cours du déchargement :
 
 </td>
@@ -1320,7 +1227,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** lorsque le grain n’a pas été officiellement pesé auparavant
 
 </td>
@@ -1328,23 +1234,18 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** par wagon, par camion ou par conteneur
 
 </td>
 <td>5,90</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** lorsque le grain a été officiellement pesé auparavant
 
 </td>
@@ -1352,23 +1253,18 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** par tonne métrique
 
 </td>
 <td>0,12</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** sur livraison aux wagons
 
 </td>
@@ -1376,47 +1272,37 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** par wagon
 
 </td>
 <td>18,00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**c)** sur livraison aux conteneurs ou aux camions
 
 </td>
-<td>la smme de (en fonction du service) :</td>
+<td>la somme de (en fonction du service) :</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** par tonne métrique
 
 </td>
 <td>0,27</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation, lorsque la pesée sur place n’est pas régulièrement offerte
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**d)** sur livraison aux navires et aux cellules d’ensachage :
 
 </td>
@@ -1424,7 +1310,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**(i)** lorsque le grain n’a pas été officiellement pesé auparavant au cours du chargement ou du déchargement des navires
 
 </td>
@@ -1432,7 +1317,6 @@ Autorités habilitantes :
 <td>0,27</td>
 </tr>
 <tr>
-<td></td>
 <td>**(ii)** aux installations de transbordement, lorsque le grain a été officiellement pesé auparavant au cours du chargement ou du déchargement des navires ou au cours du chargement des wagons
 
 </td>
@@ -1440,7 +1324,6 @@ Autorités habilitantes :
 <td>0,12</td>
 </tr>
 <tr>
-<td></td>
 <td>**e)** sur réception des navires, lorsque la pesée est demandée
 
 </td>
@@ -1448,7 +1331,6 @@ Autorités habilitantes :
 <td>0,27</td>
 </tr>
 <tr>
-<td></td>
 <td>**f)** sur réception ou livraison non visée aux alinéas a) à e)
 
 </td>
@@ -1456,23 +1338,18 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** par tonne métrique
 
 </td>
 <td>0,27</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé, salaire à la démarcation
 
 </td>
 <td>frais de déplacement et de subsistance</td>
 </tr>
 <tr>
-<td></td>
 <td>**g)** lorsque du grain, des produits céréaliers, des criblures ou du grain étranger stockés dans une installation sont pesés au cours d’un transfert interne effectué à une fin autre que la pesée de contrôle exigée par la Commission
 
 </td>
@@ -1480,7 +1357,6 @@ Autorités habilitantes :
 <td>0,22</td>
 </tr>
 <tr>
-<td></td>
 <td>**h)** pour une pesée de contrôle exigée par la Commission
 
 </td>
@@ -1488,19 +1364,7 @@ Autorités habilitantes :
 <td>gratuit</td>
 </tr>
 <tr>
-<td> </td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>AUTRES SERVICES</td>
-</tr>
-<tr>
-<td> </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -1509,7 +1373,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** pour l’enregistrement au déchargement
 
 </td>
@@ -1517,7 +1380,6 @@ Autorités habilitantes :
 <td>0,080</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** pour l’annulation à l’expédition
 
 </td>
@@ -1531,7 +1393,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** pour l’enregistrement au déchargement
 
 </td>
@@ -1539,7 +1400,6 @@ Autorités habilitantes :
 <td>0,011</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** pour l’annulation à l’expédition
 
 </td>
@@ -1559,7 +1419,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** si le tribunal modifie le grade ou la défalcation pour impuretés
 
 </td>
@@ -1567,7 +1426,6 @@ Autorités habilitantes :
 <td>gratuit</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** si le tribunal ne modifie pas le grade ou la défalcation pour impuretés
 
 </td>
@@ -1581,7 +1439,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** installation primaire
 
 </td>
@@ -1589,7 +1446,6 @@ Autorités habilitantes :
 <td>5,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** installation de transformation
 
 </td>
@@ -1597,7 +1453,6 @@ Autorités habilitantes :
 <td>100,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**c)** installation terminale
 
 </td>
@@ -1605,7 +1460,6 @@ Autorités habilitantes :
 <td>100,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**d)** installation de transbordement
 
 </td>
@@ -1613,7 +1467,6 @@ Autorités habilitantes :
 <td>100,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**e)** négociant en grains
 
 </td>
@@ -1633,7 +1486,6 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>**a)** pour les huit premières heures de travail qui suivent immédiatement les huit heures régulières de travail, du lundi au vendredi, à l’exclusion des jours fériés
 
 </td>
@@ -1641,7 +1493,6 @@ Autorités habilitantes :
 <td>14,20</td>
 </tr>
 <tr>
-<td></td>
 <td>**b)** pour toutes les heures de travail accomplies immédiatement après seize heures de travail consécutives ou accomplies après les huit premières heures qui ne suivent pas immédiatement les heures régulières de travail, du lundi au vendredi, à l’exclusion des jours fériés
 
 </td>
@@ -1649,7 +1500,6 @@ Autorités habilitantes :
 <td>21,00</td>
 </tr>
 <tr>
-<td></td>
 <td>**c)** pour les huit premières heures de travail qui ne suivent pas immédiatement les huit heures régulières de travail, du lundi au vendredi, et pour les huit premières heures de travail le samedi, à l’exclusion des jours fériés
 
 </td>
@@ -1657,23 +1507,18 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** pour chaque employé, par heure de travail, en plus des droits réguliers
 
 </td>
 <td>14,20</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé se présentant au travail
 
 </td>
 <td>107,20</td>
 </tr>
 <tr>
-<td></td>
 <td>**d)** pour toutes les heures de travail accomplies après les huit premières heures de travail le samedi, et pour toutes les heures de travail accomplies le dimanche et autres jours fériés
 
 </td>
@@ -1681,16 +1526,12 @@ Autorités habilitantes :
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(i)** pour chaque employé, par heure de travail, en plus des droits réguliers
 
 </td>
 <td>21,00</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>**(ii)** pour chaque employé se présentant au travail
 
 </td>
@@ -1698,8 +1539,6 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>12. et 13. [Abrogés, DORS/2000-213, art. 5]</td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -1710,7 +1549,7 @@ Autorités habilitantes :
 - **2** Lorsque le grain dans tous les compartiments d’un wagon-trémie ne peut être déchargé en une seule fois, ce qui nécessite des services supplémentaires d’inspection et de pesée pour le wagon, les droits d’inspection et de pesée sont perçus chaque fois que les services sont rendus pour ce grain dans ce wagon.
 - **3** Les droits qui figurent dans la présente annexe ne comprennent pas la taxe. La taxe sur les produits et services sera ajoutée à tous les droits, sauf ceux applicables aux services visés aux articles 5 à 7 et 9, qui en sont exemptés.
 - **4** Les droits sont arrondis au cent près.
-> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36.
+> DORS/78-55, art. 4; DORS/78-514, art. 1; DORS/80-525, art. 1; DORS/81-610, art. 3; DORS/82-881, art. 1; DORS/83-758, art. 3; DORS/84-791, art. 3; DORS/85-678, art. 5; DORS/86-722, art. 2; DORS/87-455, art. 2; DORS/88-408, art. 2; DORS/89-339, art. 1 et 2; DORS/89-376, art. 5(F); DORS/89-400, art. 2; DORS/90-211, art. 1 à 5; DORS/90-410, art. 2; DORS/91-437, art. 1; DORS/95-413, art. 2; DORS/98-220, art. 1; DORS/2000-213, art. 3 à 6; DORS/2001-273, art. 24 à 30, 36(A), 37(A) et 38(F); DORS/2003-284, art. 31 à 33; DORS/2004-198, art. 34 à 36; DORS/2006-206, art. 6.
 
 
 
@@ -5740,7 +5579,7 @@ CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 58; D
 
 ### **FORMULE 7** 
 **(paragraphes 33(1) et 39(1))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 41
+CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 41; DORS/2005-361, ART. 14(A); DORS/2006-206, ART. 7(F).
 
 
 ### **FORMULE 8** 
@@ -5845,7 +5684,7 @@ ACCEPTÉ PAR :
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F) ET 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A).
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F) ET 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F).
 
 
 
