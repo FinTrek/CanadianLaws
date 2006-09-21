@@ -660,8 +660,8 @@ Enabling authorities:
 
 
 
-**39** Where, because of poor examination conditions or latent defects in the honey, an inspector is unable to determine whether the honey meets the requirements of the appropriate grade or standard, the inspector shall postpone the inspection of the honey for any period that the inspector considers necessary to enable the determination to be made.
-> SOR/80-184, s. 20; SOR/97-304, s. 5.
+**39** If, because of poor inspection conditions or latent defects in the honey, an inspector is unable to determine whether the honey meets the requirements of the appropriate grade or standard, the inspector shall postpone the inspection of the honey for any period that is necessary to enable the determination to be made.
+> SOR/80-184, s. 20; SOR/97-304, s. 5; SOR/2006-221, s. 3.
 
 
 
@@ -675,14 +675,14 @@ Enabling authorities:
 	- **(b)** be accompanied by a copy of the original certificate of inspection.
 
 - **(3)** The Director may refuse to grant an appeal inspection where
-	- **(a)** the honey cannot be made accessible for inspection;
+	- **(a)** the honey is not accessible for inspection;
 	- **(b)** the honey cannot be identified by the original certificate of inspection or the vehicle, if any, in which it was conveyed; or
 	- **(c)** less than 75 per cent of the lot of honey is available for inspection.
 
 - **(4)** Where the Director grants an appeal inspection, the inspector carrying out the appeal inspection shall
 	- **(a)** where the results of the appeal inspection substantiate the results of the original inspection, confirm the original certificate of inspection; and
 	- **(b)** where the results of the appeal inspection do not substantiate the results of the original inspection with respect to any factor that could not have changed since the original inspection, issue a certificate of inspection rendering the original certificate null and void.
-> SOR/97-304, s. 5.
+> SOR/97-304, s. 5; SOR/2006-221, s. 4(E).
 
 
 
