@@ -832,7 +832,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(5)** Lorsque le directeur accorde une inspection en appel, l’inspecteur effectuant l’inspection en appel doit :
 	- **a)** si les constatations de la seconde inspection corroborent celles de la première, confirmer le certificat d’inspection initial;
 	- **b)** si les constatations de la seconde inspection ne corroborent pas celles de la première quant à tout facteur qui n’a pas pu changer entre-temps, délivrer un certificat d’inspection invalidant le certificat d’inspection initial.
-> DORS/90-447, art. 2; DORS/95-475, art. 2.
+> DORS/90-447, art. 2; DORS/95-475, art. 2; DORS/2006-221, art. 1(A).
 
 
 
@@ -1566,141 +1566,81 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 <td>1</td>
 <td>Canada Extra de fantaisie</td>
 <td>(1) Plateau ou contenant cloisonné</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 <td>aucune perforation</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
+<td>b) il y a au plus une perforation par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 10 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 10 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 <tr>
 <td>(2) Contenant autre qu’un plateau ou un contenant cloisonné; étalage en vrac d’un détaillant</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
+<td>b) il y a au plus une perforation par pomme;</td>
+<td>b) il y a au plus une perforation par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 15 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
-<td>**c)** au plus 10 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 15 pour cent en nombre des pommes du lot présentent des perforations</td>
+<td>c) au plus 10 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Canada De fantaisie</td>
 <td>(1) Plateau ou contenant cloisonné</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 <td>aucune perforation</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
+<td>b) il y a au plus une perforation par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 15 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 15 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 <tr>
 <td>(2) Contenant autre qu’un plateau ou un contenant cloisonné; étalage en vrac d’un détaillant</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
-<td>**b)** il y a au plus une perforation par pomme;
-
-</td>
+<td>b) il y a au plus une perforation par pomme;</td>
+<td>b) il y a au plus une perforation par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 20 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
-<td>**c)** au plus 15 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 20 pour cent en nombre des pommes du lot présentent des perforations</td>
+<td>c) au plus 15 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Canada Commerciales</td>
 <td>(1) Plateau ou contenant cloisonné</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus deux perforations par pomme;
-
-</td>
-<td>**b)** il y a au plus deux perforations par pomme;
-
-</td>
+<td>b) il y a au plus deux perforations par pomme;</td>
+<td>b) il y a au plus deux perforations par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 20 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
-<td>**c)** au plus 10 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 20 pour cent en nombre des pommes du lot présentent des perforations</td>
+<td>c) au plus 10 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 <tr>
 <td>(2) Contenant autre qu’un plateau ou un contenant cloisonné; étalage en vrac d’un détaillant</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
-<td>**a)** le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);
-
-</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
+<td>a) le diamètre de chaque perforation est d’au plus 5 mm (3/16 de pouce);</td>
 </tr>
 <tr>
-<td>**b)** il y a au plus deux perforations par pomme;
-
-</td>
-<td>**b)** il y a au plus deux perforations par pomme;
-
-</td>
+<td>b) il y a au plus deux perforations par pomme;</td>
+<td>b) il y a au plus deux perforations par pomme;</td>
 </tr>
 <tr>
-<td>**c)** au plus 30 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
-<td>**c)** au plus 20 pour cent en nombre des pommes du lot présentent des perforations
-
-</td>
+<td>c) au plus 30 pour cent en nombre des pommes du lot présentent des perforations</td>
+<td>c) au plus 20 pour cent en nombre des pommes du lot présentent des perforations</td>
 </tr>
 </table>
 
@@ -4511,7 +4451,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(i)** au plus 5 pour cent ont un diamètre ou un poids inférieur au diamètre ou au poids minimal visé aux alinéas 89f) et g),
 		- **(ii)** au plus 5 pour cent ont un diamètre ou un poids supérieur au diamètre ou au poids maximal visé aux alinéas 89f) et g),
 		- **(iii)** au plus 3 pour cent des pommes de terre de la catégorie Canada n<sup>o</sup> 1 et 5 pour cent des pommes de terre de la catégorie Canada n<sup>o</sup> 1 portant la désignation de diamètre « 70 mm à 114 mm » (2 3/4 pouces à 4 1/2 pouces) ou le mot « Chef » ou le mot « Grosses » sont atteintes de coeur creux,
-		- **(iv)** 10 % des pommes de terre du lot présentent des défauts autres que ceux visés aux sous-alinéas (i) à (iii) dont au plus :
+		- **(iv)** au plus 10 % des pommes de terre du lot présentent des défauts autres que ceux visés aux sous-alinéas (i) à (iii) dont au plus :
 			- **(A)** 5 % présentent d’autres défauts permanents,
 			- **(B)** 2 % sont atteintes de pourriture.
 		- **(v)** [Abrogé, DORS/2003-6, art. 27]
@@ -4522,11 +4462,11 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(i)** au plus 5 pour cent ont un diamètre ou un poids inférieur au diamètre ou au poids minimal visé à l’alinéa 90f),
 		- **(ii)** au plus 5 pour cent ont un diamètre ou un poids supérieur au diamètre ou au poids maximal visé à l’alinéa 90f),
 		- **(iii)** au plus 10 pour cent sont atteintes de coeur creux,
-		- **(iv)** 10 % des pommes de terre du lot présentent des défauts autres que ceux visés aux sous-alinéas (i) à (iii) dont au plus :
+		- **(iv)** au plus 10 % des pommes de terre du lot présentent des défauts autres que ceux visés aux sous-alinéas (i) à (iii) dont au plus :
 			- **(A)** 5 % présentent d’autres défauts permanents,
 			- **(B)** 2 % sont atteintes de pourriture.
 		- **(v)** [Abrogé, DORS/2003-6, art. 27]
-> DORS/94-718, art. 9; DORS/2003-6, art. 27..
+> DORS/94-718, art. 9; DORS/2003-6, art. 27; DORS/2006-221, art. 2(F)..
 
 
 
