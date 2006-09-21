@@ -1019,6 +1019,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **36** McLeod Lake
 
 
-> 1999, ch. 24, ann.; DORS/2003-178.
+**37** Shxwhá:y Village (aussi connue sous le nom « Sqay Village »)
+
+
+**38** T’Sou-ke (aussi connue sous le nom « Tsouke »)
+
+
+**39** Leq’á:mel (aussi connue sous le nom « Leqamel »)
+
+
+**40** Flying Dust
+
+
+**41** Swan Lake
+
+
+**42** Henvey Inlet
+
+
+**43** Matsqui
+
+
+**44** Seabird Island
+
+
+**45** Squiala
+
+
+**46** Tzeachten
+
+
+**47** Pasqua
+
+
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216.
 
 
