@@ -173,12 +173,12 @@ Autorités habilitantes :
 	- **e)** dans le cas d’un produit alimentaire irradié, est irradié conformément au titre 26 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md);
 	- **f)** satisfait aux autres exigences de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md) applicables à ce produit.
 
-- **(2)** Il est interdit de mélanger un produit alimentaire falsifié ou contaminé avec un autre produit alimentaire qui n’est ni falsifié ni contaminé de manière que le produit alimentaire falsifié ou contaminé satisfasse aux exigences des alinéas (1)a) à f).
+- **(2)** Il est interdit de mélanger un produit alimentaire falsifié ou contaminé avec un autre produit alimentaire qui n’est ni falsifié ni contaminé dans le but de rendre le produit alimentaire falsifié ou contaminé conforme aux exigences des alinéas (1)a) à f).
 
 - **(3)** [Abrogé, DORS/2003-6, art. 41]
 
 - **(4)** Pour l’application de l’alinéa (1)d), ***conditionné hygiéniquement*** se dit du produit alimentaire qui est conditionné conformément aux articles 16 et 17.
-> DORS/91-687, art. 2; DORS/95-548, art. 2; DORS/2003-6, art. 41.
+> DORS/91-687, art. 2; DORS/95-548, art. 2; DORS/2003-6, art. 41; DORS/2006-221, art. 5(F).
 
 
 
@@ -463,7 +463,7 @@ Autorités habilitantes :
 
 - **(2)** L’établissement enregistré doit être exploité conformément au programme d’hygiène visé au paragraphe 10(2).
 
-- **(3)** Les opérations liées à la préparation, à l’emballage, au marquage, à l’entreposage et à toute autre manutention des produits alimentaires dans un établissement enregistré ne peuvent être effectuées que dans des conditions de salubrité.
+- **(3)** [Abrogé, DORS/2006-221, art. 6]
 
 - **(4)** Des avis doivent être affichés à des endroits bien en vue dans l’établissement enregistré, afin de rappeler aux employés préposés à la préparation, à l’emballage, au marquage, à l’entreposage ou à toute autre manutention des produits alimentaires de se nettoyer les mains immédiatement après chaque usage des cabinets de toilette.
 
@@ -492,7 +492,7 @@ Autorités habilitantes :
 - **(16)** Dans l’établissement enregistré, les matières premières destinées à être utilisées dans la préparation d’un produit alimentaire, doivent, au besoin, être lavées afin d’être débarrassées de la terre ou de toute autre substance contaminante.
 
 - **(17)** Dans l’établissement enregistré, les matières premières destinées à être utilisées dans la préparation d’un produit alimentaire, doivent être inspectées, triées et sélectionnées dans des conditions de propreté et de salubrité afin que les éléments indésirables soient repérés et rejetés avant la transformation.
-> DORS/79-918, art. 3; DORS/87-372, art. 2; DORS/2003-6, art. 46(A).
+> DORS/79-918, art. 3; DORS/87-372, art. 2; DORS/2003-6, art. 46(A); DORS/2006-221, art. 6.
 
 
 
@@ -1149,12 +1149,12 @@ Autorités habilitantes :
 
 - **(1)** L’importateur d’un produit alimentaire doit :
 	- **a)** au moment de l’inspection, présenter la déclaration d’importation à l’inspecteur pour vérification;
-	- **b)** payer le prix applicable prévu dans l'Avis sur les prix de l’Agence canadienne d’inspection des aliments, selon les modalités qui y sont prévues.
+	- **b)** payer le prix applicable prévu dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments, selon les modalités qui y sont prévues.
 
-- **(2)** L’alinéa (1)b) ne s’applique pas aux envois de produits alimentaires visés par le paragraphe 60(3).
+- **(2)** L’alinéa (1)b) ne s’applique pas aux envois de produits alimentaires visés par le paragraphe 60(3).
 
-- **(3)** Lorsque l’importateur n’a pas payé le prix visé à l’alinéa (1)b), Sa Majesté peut refuser l’entrée au Canada d’envois subséquents ou les retenir jusqu’à ce que le montant en souffrance soit acquitté.
-> DORS/97-300, art. 11; DORS/2000-183, art. 21.
+- **(3)** [Abrogé, DORS/2006-221, art. 7]
+> DORS/97-300, art. 11; DORS/2000-183, art. 21; DORS/2006-221, art. 7.
 
 
 
@@ -1215,7 +1215,7 @@ Autorités habilitantes :
 
 
 **70** Il est interdit d’altérer tout produit alimentaire ou autre objet saisi, ou de le transférer à un autre endroit sans avoir obtenu l’autorisation écrite de l’inspecteur.
-> DORS/87-372, art. 3.
+> DORS/87-372, art. 3; DORS/2006-221, art. 8(A).
 
 
 
