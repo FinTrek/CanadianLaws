@@ -44917,6 +44917,8 @@ Acide folinique et ses sels<br />- <i>Leucovorin and its salts</i>
 
 Acide folique présenté en unités posologiques orales contenant chacune plus de 1,0 mg d'acide folique ou dont la plus forte dose quotidienne recommandée sur l'étiquette résulte en l'ingestion, par une personne, de plus de 1,0 mg d'acide folique<br />- <i>Folic acid in oral dosage form containing more than 1.0 mg of folic acid per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1.0 mg of folic acid</i>
 
+Acide ibandronique et ses sels<br />- <i>Ibandronic acid and its salts</i>
+
 Acide lactique, s'il est recommandé pour usage parentéral comme agent sclérosant<br />- <i>Lactic acid, when recommended for parenteral use as a tissue sclerosing agent</i>
 
 Acide risédronique et ses sels<br />- <i>Risedronic acid and its salts</i>
@@ -45037,6 +45039,8 @@ L-Asparaginase<br />- <i>L-Asparaginase</i>
 
 Astémizole et ses sels<br />- <i>Astemizole and its salts</i>
 
+Atazanavir et ses sels<br />- <i>Atazanavir and its salts</i>
+
 Aténolol et ses sels<br />- <i>Atenolol and its salts</i>
 
 Atipamézole et ses sels<br />- <i>Atipamezole and its salts</i>
@@ -45124,6 +45128,8 @@ Bitoltérol et ses sels<br />- <i>Bitolterol and its salts</i>
 Bivalirudine<br />- <i>Bivalirudin</i>
 
 Bléomycine<br />- <i>Bleomycin</i>
+
+Bortézomib<br />- <i>Bortezomib</i>
 
 Bosentan et ses sels et dérivés<br />- <i>Bosentan and its salts and derivatives</i>
 
@@ -45366,6 +45372,8 @@ Daltéparine et ses sels<br />- <i>Dalteparin and its salts</i>
 Danaparoïde, ses sels et dérivés<br />- <i>Danaparoid and its salts and derivatives</i>
 
 Danazol<br />- <i>Danazol</i>
+
+Danofloxacine et ses sels<br />- <i>Danofloxacin and its salts</i>
 
 Dantrolène et ses sels<br />- <i>Dantrolene and its salts</i>
 
@@ -45641,6 +45649,8 @@ Fosinopril et ses sels<br />- <i>Fosinopril and its salts</i>
 
 Fosphénytoïne et ses sels<br />- <i>Fosphenytoin and its salts</i>
 
+Fulvestrant<br />- <i>Fulvestrant</i>
+
 Fusidique (acide) et ses sels<br />- <i>Fusidic acid and its salts</i>
 
 Gabapentin, ses sels et dérivés<br />- <i>Gabapentin and its salts and derivatives</i>
@@ -45657,9 +45667,13 @@ Ganirélix, ses sels et dérivés<br />- <i>Ganirelix and its salts and derivati
 
 Gatifloxacine, ses sels et dérivés<br />- <i>Gatifloxacin and its salts and derivatives</i>
 
+Géfitinib<br />- <i>Gefitinib</i>
+
 Gemcitabine et ses sels<br />- <i>Gemcitabine and its salts</i>
 
 Gemfibrozil et ses sels<br />- <i>Gemfibrozil and its salts</i>
+
+Gémifloxacine et ses sels<br />- <i>Gemifloxacin and its salts</i>
 
 Gentamicine, ses sels et dérivés<br />- <i>Gentamicin and its salts and derivatives</i>
 
@@ -45696,6 +45710,8 @@ Halopéridol<br />- <i>Haloperidol</i>
 Halothane<br />- <i>Halothane</i>
 
 Hétacilline, ses sels et dérivés<br />- <i>Hetacillin and its salts and derivatives</i>
+
+Hetastarch et ses dérivés<br />- <i>Hetastarch and its derivatives</i>
 
 Hexachlorophène et ses sels<br />- <i>Hexachlorophene and its salts</i>
 
@@ -45861,6 +45877,8 @@ Méloxicam et ses sels et dérivés<br />- <i>Meloxicam and its salts and deriva
 
 Melphalan<br />- <i>Melphalan</i>
 
+Mémantine et ses sels<br />- <i>Memantine and its salts</i>
+
 Ménotropines (humains)<br />- <i>Menotropins (human)</i>
 
 Mépacrine et ses sels<br />- <i>Mepacrine and its salts</i>
@@ -45946,6 +45964,8 @@ Mitotane (o,p′-DDD)<br />- <i>Mitotane (o,p′-DDD)</i>
 Mitoxantrone et ses sels<br />- <i>Mitoxantrone and its salts</i>
 
 Mivacurium (chlorure de)<br />- <i>Mivacurium chloride</i>
+
+Modafinil et ses sels<br />- <i>Modafinil and its salts</i>
 
 Molgramostim<br />- <i>Molgramostim</i>
 
@@ -46245,6 +46265,8 @@ Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recomma
 
 
 
+Ponazuril<br />- <i>Ponazuril</i>
+
 Poractant alfa<br />- <i>Poractant alfa</i>
 
 Porfimère et ses sels<br />- <i>Porfimer and its salts</i>
@@ -46392,6 +46414,8 @@ Sertraline et ses sels<br />- <i>Sertraline and its salts</i>
 Sérum antithymocytes<br />- <i>Anti-thymocyte globulin</i>
 
 Sévélamer et ses sels<br />- <i>Sevelamer and its salts</i>
+
+Sibutramine et ses sels<br />- <i>Sibutramine and its salts</i>
 
 Sildénafil et ses sels<br />- <i>Sildenafil and its salts</i>
 
@@ -46959,7 +46983,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1.
 
 
 
