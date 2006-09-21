@@ -244,18 +244,14 @@ Autorités habilitantes :
 ## Normes
 
 
-**10** 
-
-- **(1)** La teneur totale en principes nutritifs principaux d’un engrais mélangé contenant de l’azote, du phosphore ou du potassium doit être d’au moins 24 %, sauf si l’engrais mélangé est :
-	- **a)** soit un engrais préparé d’après la formule du client;
-	- **b)** soit un engrais spécial;
-	- **c)** soit un engrais dont les composants :
-		- **(i)** sont dans une proportion d’au moins 50 % d’origine animale ou végétale et fournissent 25 % de l’azote dans le mélange sous forme insoluble dans l’eau,
-		- **(ii)** contiennent au moins 18 % de principes nutritifs principaux combinés;
-	- **d)** soit un produit enregistré en vertu de la Loi.
-
-- **(2) et (3)** [Abrogés, DORS/79-365, art. 8]
-> DORS/79-365, art. 8; DORS/2003-6, art. 74.
+**10** La teneur totale en principes nutritifs principaux d’un engrais mélangé contenant de l’azote, du phosphore ou du potassium doit être d’au moins 24 %, sauf si l’engrais mélangé est :
+- **a)** soit un engrais préparé d’après la formule du client;
+- **b)** soit un engrais spécial;
+- **c)** soit un engrais dont les composants :
+	- **(i)** sont dans une proportion d’au moins 50 % d’origine animale ou végétale et fournissent 25 % de l’azote dans le mélange sous forme insoluble dans l’eau,
+	- **(ii)** contiennent au moins 18 % de principes nutritifs principaux combinés;
+- **d)** soit un produit enregistré en vertu de la Loi.
+> DORS/79-365, art. 8; DORS/2003-6, art. 74; DORS/2006-221, art. 12(F).
 
 
 
@@ -332,7 +328,7 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 - **(1)** Un engrais mélangé qui, d’après son étiquette, est censé être un engrais à libération lente contenant de l’isobutylidène diurique (I.B.D.U.) de l’urée formaldéhyde, de l’urée-formol ou tout autre produit chimique qui a les mêmes propriétés de libération lente, doit contenir, sous forme insoluble dans l’eau, au moins 25 pour cent de son azote total dont la présence est garantie.
 
 - **(2)** Dans le cas d’une allégation visant la valeur culturale d’un engrais à libération lente, autre qu’un engrais visé au paragraphe (1), et que l’allégation figure sur l’étiquette, la personne qui a emballé le produit doit fournir au président de l’Agence les résultats des essais en culture du produit.
-> DORS/79-365, art. 9; DORS/2004-80, art. 12.
+> DORS/79-365, art. 9; DORS/2004-80, art. 12; DORS/2006-221, art. 13(A).
 
 
 
@@ -1148,7 +1144,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 </tr>
 </table>
 
-> DORS/79-365, art. 18; DORS/85-558, art. 11 à 14; DORS/93-232, art. 2; DORS/2003-6, art. 76.
+> DORS/79-365, art. 18; DORS/85-558, art. 11 à 14; DORS/93-232, art. 2; DORS/2003-6, art. 76; DORS/2006-221, art. 14(A).
 
 
 
