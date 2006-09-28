@@ -121,7 +121,13 @@ Autorités habilitantes :
 - **(1)** Sous réserve des articles 10, 12, 14 et 18, un envoi tombé en rebut est retourné à l’expéditeur ou livré au destinataire sur paiement du droit applicable.
 
 - **(2)** L’envoi tombé en rebut qui est retourné à l’expéditeur ou livré au destinataire est aussi assujetti aux frais de port dus, s’il y a lieu.
-> DORS/82-29, art. 3; DORS/88-442, art. 5; DORS/90-16, art. 4; DORS/91-183, art. 2; DORS/91-629, art. 1; DORS/91-638, art. 3; DORS/98-556, art. 4; DORS/2003-376, art. 1; DORS/2003-382, art. 10(F).
+
+- **(2.1)** Malgré les paragraphes (1) et (2), les envois médiaposte, avec ou sans adresse, sont retenus par la Société et retournés à l’expéditeur si les conditions ci-après sont réunies :
+	- **a)** l’expéditeur demande par écrit à la Société de lui retourner le courrier;
+	- **b)** dans sa demande, l’expéditeur précise les circonstances particulières qui obligent la Société à lui retourner le courrier, par exemple une erreur ou une omission qu’il a faite relativement au courrier;
+	- **c)** l’expéditeur conclut une entente avec la Société pour le retour du courrier;
+	- **d)** l’expéditeur accepte de payer le droit applicable.
+> DORS/82-29, art. 3; DORS/88-442, art. 5; DORS/90-16, art. 4; DORS/91-183, art. 2; DORS/91-629, art. 1; DORS/91-638, art. 3; DORS/98-556, art. 4; DORS/2003-376, art. 1; DORS/2003-382, art. 10(F); DORS/2006-232, art. 1.
 
 
 
