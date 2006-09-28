@@ -480,8 +480,8 @@ Autorités habilitantes :
 
 
 
-## Continuité d’emploi (congés annuels, congé de maternité et congé parental, congé de décès, licenciement individuel, indemnité de départ, congés de maladie et congédiement injuste)
-> [DORS/94-668, art. 9; DORS/2002-113, art. 7]
+## Continuité d’emploi (congés annuels, congé de maternité et congé parental, congé de soignant, congé de décès, licenciement individuel, indemnité de départ, congés de maladie et congédiement injuste)
+> [DORS/94-668, art. 9; DORS/2002-113, art. 7; DORS/2006-231, art. 1]
 
 
 
@@ -512,11 +512,11 @@ Autorités habilitantes :
 		- **(i)** l’employé continue de recevoir de son employeur, durant la période de mise à pied, des paiements dont le montant a été convenu entre l’employeur et l’employé,
 		- **(ii)** l’employeur continue de verser, à l’égard de l’employé, des cotisations à un régime de pension enregistré conformément à la Loi sur les normes des prestations de pension ou à un régime d’assurance des employés ou d’assurance collective,
 		- **(iii)** l’employé touche des prestations supplémentaires de chômage, ou que
-		- **(iv)** l’employé aurait droit à des prestations supplémentaires de chômage mais est exclu du bénéfice de ces prestations sous le régime de la Loi sur l’assurance-chômage; ou que
+		- **(iv)** l’employé aurait droit à des prestations supplémentaires de chômage mais est exclu du bénéfice de ces prestations sous le régime de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md); ou que
 	- **f)** la durée de la mise à pied est de plus de trois mois mais moins de 12 mois et que l’employé, pendant la durée de la mise à pied, maintient des droits de rappel en vertu d’une convention collective.
 
 - **(2)** Il n’est pas tenu compte, dans le calcul de la durée d’une mise à pied aux fins des alinéas (1)c), d) et f), d’une période de retour au travail inférieure à deux semaines.
-> DORS/82-747, art. 1; DORS/86-628, art. 2(F); DORS/91-461, art. 31.
+> DORS/82-747, art. 1; DORS/86-628, art. 2(F); DORS/91-461, art. 31; DORS/2006-231, art. 2.
 
 
 
@@ -598,54 +598,115 @@ Autorités habilitantes :
 ## Canadien pacifique limitée
 
 
-### Établissements
+### Établissements industriels
 
+**1** Bureau du Groupe central
 
-**1** Bureaux du Groupe central, Montréal (Québec)
-
-
-
-Bureaux du président et directeur général
+Gulf Canada Square
 
 
 
-Secrétaire général
+Calgary (Alberta)
 
 
 
-Vice-président — Contentieux
+Bureau du président et directeur général
 
 
 
-Vice-président — Transports et Télécommunications
+Secrétaire
 
 
 
-Vice-président — Administration
+Vice-président exécutif et chef de l’exploitation
 
 
 
-Vice-président — Développement de l’entreprise
+Vice-président exécutif et chef des finances
 
 
 
-Relations publiques
+Vice-président principal, Exploitation
 
 
 
-Services médicaux
+Vice-président principal, Commercialisation et ventes
 
 
 
-Enquêtes
+Vice-président, Stratégie et contentieux et secrétaire de direction
 
 
 
-Recherches
+Vice-président, Transport et exploitation sur le terrain
 
 
 
-Services d’ingénierie
+Vice-président, Communications et affaires publiques
+
+
+
+Vice-président, Ressources humaines et relations industrielles
+
+
+
+Vice-président, Services d’information
+
+
+
+Vice-président, Développement de l’entreprise et planification
+
+
+
+Vice-président, Services à la clientèle
+
+
+
+Vice-président, Services des approvisionnements
+
+
+
+Vice-président, Transport intermodal et routier
+
+
+
+Vice-président, Envoi par wagon
+
+
+
+Vice-président, Envoi en vrac
+
+
+
+Vice-président, Biens immobiliers
+
+
+
+Vice-président adjoint, Exploitation mécanique
+
+
+
+Vice-président adjoint, Exploitation — Ingénierie
+
+
+
+Directeur des services environnementaux
+
+
+
+Directeur général, Agents des réclamations
+
+
+
+Directeur, Exploitation intermodale — Ouest
+
+
+
+Services d’hygiène du travail et du milieu
+
+
+
+Services de police
 
 
 
@@ -653,103 +714,354 @@ Services administratifs
 
 
 
-Surintendance des bâtiments
+Tronicus
 
 
 
-**2** Bureaux du siège social, Montréal (Québec)
 
+**2** Directeur général, Commerce international
 
+Montréal (Québec)
 
-Administrateur en chef
 
 
 
-Vice-président — Exploitation et entretien
+**3** 150 Henry Avenue
 
+Winnipeg (Manitoba)
 
 
-Ingénieur en chef
 
+Ingénierie
 
 
-Mécanicien en chef
 
+Services de police
 
 
-Chef, Transports
 
+Sécurité et affaires réglementaires
 
 
-Directeur, Développement de l’exploitation
 
+Service des approvisionnements
 
 
-Directeur, Communications
 
+Formation
 
 
-Directeur, Recueil des données et méthodes
 
+Ressources humaines
 
 
-Vice-président — Commercialisation et ventes
 
+Administration
 
 
-Directeur, Centre d’information
 
 
+**4** Bureau général – Gare de triage
 
-Directeur général, Expansion du marché
+Triage Alyth
 
 
 
-Directeur, Expansion industrielle
+Calgary (Alberta)
 
 
 
-Directeur, Commercialisation
+Directeur de secteur
 
 
 
-Directeur, Expansion des services
+Exploitation sur le terrain
 
 
 
-Directeur général, Service marchandises/ventes
+Directeur de secteur
 
 
 
-Directeur, Planification des revenus et recherches sur la vente
+Mécanique
 
 
 
-Commercialisation et détermination des prix de vente
+Sécurité et affaires réglementaires
 
 
 
-Directeur général, Commerce outre-mer
+Transport
 
 
 
-Directeur général, Services aux voyageurs
+Administration
 
 
 
-Vice-président, Relations industrielles
 
+**5** Bureau général – Gare de triage
 
+Exploitation de Port Coquitlam (Colombie-Britannique)
 
-Vice-président, Achats et magasins
 
 
+Directeur de secteur
 
-**3** Bureaux d’exploitation de la Région de l’Atlantique, Montréal (Québec)
 
 
+Exploitation sur le terrain
 
-Vice-président
+
+
+Mécanique
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+Commercial
+
+
+
+Administration
+
+
+
+
+**6** Secteur du Manitoba
+
+Exploitation de Winnipeg
+
+
+
+Winnipeg (Manitoba)
+
+
+
+Directeur de secteur
+
+
+
+Directeur du service routier
+
+
+
+Directeur, Manœuvres de triage
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+
+**7** Secteur du Manitoba
+
+Exploitation de Brandon
+
+
+
+Brandon (Manitoba)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+
+**8** Secteur du nord de l’Ontario
+
+Exploitation de Thunder Bay
+
+
+
+Thunder Bay (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+Commercial
+
+
+
+
+**9** Secteur du sud de l’Ontario
+
+Exploitation de Sudbury
+
+
+
+Sudbury (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Commercial
+
+
+
+
+**10** Secteur du Manitoba
+
+Exploitation de Kenora
+
+
+
+Kenora (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+
+**11** Secteur du nord de l’Ontario
+
+Exploitation de Thunder Bay
+
+
+
+Thunder Bay (Ontario)
+
+
+
+Directeur du secteur
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+
+**12** Secteur du nord de l’Ontario
+
+Exploitation de Schreiber
+
+
+
+Schreiber (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+
+**13** Secteur du nord de l’Ontario
+
+Exploitation de Chapleau
+
+
+
+Chapleau (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+
+**14** Office du grain
+
+Winnipeg (Manitoba)
 
 
 
@@ -757,579 +1069,14 @@ Directeur général
 
 
 
-Direction des Transports
+Commercial
 
 
 
-Ingénierie
 
+**15** Équipe du service à la clientèle
 
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**4** Bureaux d’exploitation de la Région de l’Est, Toronto (Ontario)
-
-
-
-Vice-président
-
-
-
-Directeur général
-
-
-
-Direction des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique, y compris l’atelier diesel de Toronto
-
-
-
-Commercialisation et ventes
-
-
-
-**5** Bureaux d’exploitation de la Région des Prairies, Winnipeg (Manitoba)
-
-
-
-Vice-président
-
-
-
-Directeur général
-
-
-
-Direction des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**6** Bureaux d’exploitation de la Région du Pacifique, Vancouver (Colombie-Britannique)
-
-
-
-Vice-président
-
-
-
-Directeur général
-
-
-
-Direction des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**7** Division d’exploitation de Saint John, Saint John (Nouveau-Brunswick)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**8** Division d’exploitation de Québec, Sherbrooke (Québec)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**9** Division d’exploitation de Montréal, Montréal (Québec)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**10** Division d’exploitation de Smiths Falls, Smiths Falls (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**11** Division d’exploitation de Toronto, Toronto (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**12** Division d’exploitation de London, London (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**13** Division d’exploitation de Sudbury, Sudbury (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**14** Division d’exploitation de Schreiber, Schreiber (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-**15** Division d’exploitation de Lakehead, Thunder Bay (Ontario)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**16** Division d’exploitation de Winnipeg, Winnipeg (Manitoba)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**17** Division d’exploitation de Brandon, Brandon (Manitoba)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**18** Division d’exploitation de Moose Jaw, Moose Jaw (Saskatchewan)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**19** Division d’exploitation de Saskatoon, Saskatoon (Saskatchewan)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**20** Division d’exploitation d’Alberta-Sud, Calgary (Alberta)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**21** Division d’exploitation d’Alberta-Nord, Calgary (Alberta)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**22** Division d’exploitation de Calgary, Calgary (Alberta)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**23** Division d’exploitation de Revelstoke, Revelstoke (Colombie-Britannique)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-**24** Division d’exploitation de Vancouver, Vancouver (Colombie-Britannique)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**25** Division d’exploitation de Kootenay, Nelson (Colombie-Britannique)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**26** Division d’exploitation de Canyon, Vancouver (Colombie-Britannique)
-
-
-
-Surintendant
-
-
-
-Division des Transports
-
-
-
-Ingénierie
-
-
-
-Mécanique
-
-
-
-Commercialisation et ventes
-
-
-
-**27** Dominion Atlantic Railway, Kentville (Nouvelle-Écosse)
+Winnipeg (Manitoba)
 
 
 
@@ -1337,11 +1084,287 @@ Directeur
 
 
 
-Commercialisation et ventes
+Ressources humaines
 
 
 
-**28** Compagnie de chemin de fer Québec central, Sherbrooke (Québec)
+
+**16** Secteur de la Saskatchewan
+
+Exploitation de Moose Jaw
+
+
+
+Moose Jaw (Saskatchewan)
+
+
+
+Directeur de secteur
+
+
+
+Directeur, Manœuvres de triage et service routier
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+
+**17** Secteur de la Saskatchewan
+
+Exploitation de Saskatoon
+
+
+
+Saskatoon (Saskatchewan)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Commercial
+
+
+
+
+**18** Secteur de l’Alberta
+
+Exploitation de Lethbridge
+
+
+
+Calgary (Alberta)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+
+**19** Secteur de l’Alberta
+
+Exploitation de Medicine Hat
+
+
+
+Medicine Hat (Alberta)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+
+**20** Secteur de l’Alberta
+
+Exploitation d’Edmonton
+
+
+
+Edmonton (Alberta)
+
+
+
+Directeur du service routier
+
+
+
+Mécanique
+
+
+
+Commercial
+
+
+
+
+**21** Secteur de l’Alberta
+
+Triage Alyth
+
+
+
+Calgary (Alberta)
+
+
+
+Directeur du service routier
+
+
+
+Directeur, Manœuvres de triage
+
+
+
+Exploitation sur le terrain
+
+
+
+
+**22** Bâtiment de l’ingénierie
+
+Triage Alyth
+
+
+
+Calgary (Alberta)
+
+
+
+Directeur de secteur
+
+
+
+
+**23** Secteur de l’Intérieur de la Colombie-Britannique
+
+Exploitation de Revelstoke
+
+
+
+Revelstoke (Colombie-Britannique)
+
+
+
+Directeur de secteur
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**24** Secteur de Vancouver
+
+Exploitation de Port Coquitlam
+
+
+
+Port Coquitlam (Colombie-Britannique)
+
+
+
+Directeur de secteur
+
+
+
+Directeur, Manœuvres de triage et service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+
+**25** Secteur de Vancouver
+
+Consolidated Fastfrate
+
+
+
+Exploitation de Port Coquitlam
+
+
+
+Port Coquitlam (Colombie-Britannique)
+
+
+
+Directeur de secteur
+
+
+
+Ingénierie
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+Affaires environnementales
+
+
+
+Administration
+
+
+
+
+**26** Installations de soudage de Surrey (Chemetron Railway Products)
+
+Surrey (Colombie-Britannique)
+
+
+
+Ingénierie
+
+
+
+
+**27** Secteur de l’Intérieur de la Colombie-Britannique
+
+Exploitation de chemin de fer de la vallée de Kootenay
+
+
+
+Nelson (Colombie-Britannique)
 
 
 
@@ -1349,31 +1372,115 @@ Directeur
 
 
 
-**29** Canadian Pacific Electric Lines, Cambridge (Ontario)
+Exploitation sur le terrain
 
 
 
-Directeur
+Mécanique
 
 
 
-**30** Bureaux du siège social, Finances et comptabilité, Montréal (Québec)
+Ingénierie
 
 
 
-Vice-président
+
+**28** Secteur de Vancouver
+
+Exploitation de Kamloops
 
 
 
-Contrôleur
+Kamloops (Colombie-Britannique)
 
 
 
-Trésorier
+Directeur du service routier
 
 
 
-Directeur, Systèmes d’information
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+Commercial
+
+
+
+Administration
+
+
+
+
+**29** Secteur de l’Intérieur de la Colombie-Britannique
+
+Exploitation de Cranbrook
+
+
+
+Cranbrook (Colombie-Britannique)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**30** Secteur de Vancouver
+
+Exploitation de Roberts Bank
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+
+**31** Bureaux des Finances et comptabilité
+
+Calgary (Alberta)
+
+
+
+Vice-président et contrôleur
+
+
+
+Vice-président et trésorier
+
+
+
+Vice-président, Relations avec les investisseurs
+
+
+
+Vice-président adjoint, Impôt
 
 
 
@@ -1381,259 +1488,81 @@ Directeur, Vérification interne
 
 
 
-Directeur, Comptabilité centrale
+Directeur, Comptabilité et projets spéciaux
 
 
 
-Directeur, Comptes immobiliers
+Directeur, Dépenses et comptabilité générale
 
 
 
-Directeur, Comptes auxiliaires
+Directeur, Budgets et rapports de gestion
 
 
 
-Statisticien en chef
+Directeur, Comptabilité générale et rapports intégrés
 
 
 
-Bureau de sténographie, Comptabilité
+Directeur, Analyse financière
 
 
 
-Payeur général
+Directeur, Soutien au SAP
 
 
 
-Directeur, Comptabilité
+Directeur, Gestion du risque
 
 
 
-Directeur, Comptabilité des frais
+Directeur financier
 
 
 
-Directeur, Comptabilité des revenus
 
+**32** Centre des services de comptabilité
 
+Montréal (Québec)
 
-Directeur, Comptabilité de la paie
 
 
+Directeur général, Centre des services de comptabilité
 
-Directeur, Comptes-clients et comptes d’agences
 
 
+Directeur, Répartition des revenus
 
-Directeur, Réclamations — marchandises
 
 
+Directeur, Comptes créditeurs et comptabilisation du matériel
 
-Directeur, Analyse des profits
 
 
+Directeur, Comptes clients et règlements interréseaux
 
-Chef comptable, Installations communes
 
 
+Directeur, Analyse des recettes et rapports
 
-Placement des pensions
 
 
+Directeur, Administration et perfectionnement en milieu de travail
 
-**31** Centre de l’Informatique — Région de l’Atlantique, Montréal (Québec)
 
 
+Directeur, Répartition des revenus
 
-Centre de l’Informatique — Angus
 
 
+Directeur, Comptes clients et crédit
 
-**32** Centre de l’Informatique — Région de l’Est, Toronto (Ontario)
 
 
 
-**33** Centre de l’Informatique — Région des Prairies, Winnipeg (Manitoba)
+**33** Réclamations - Marchandises
 
-
-
-**34** Centre de l’Informatique — Région du Pacifique, Vancouver (Colombie-Britannique)
-
-
-
-**35** Préposé aux réclamations — marchandises, Montréal (Québec)
-
-
-
-**36** Préposé aux réclamations — marchandises, Toronto (Ontario)
-
-
-
-**37** Préposé aux réclamations — marchandises, Winnipeg (Manitoba)
-
-
-
-**38** Préposé aux réclamations — marchandises, Vancouver (Colombie-Britannique)
-
-
-
-**39** Service des enquêtes, Région de l’Atlantique, Montréal (Québec)
-
-
-
-Surintendant
-
-
-
-**40** Service des enquêtes, Région de l’Est, Toronto (Ontario)
-
-
-
-Surintendant
-
-
-
-**41** Service des enquêtes, Région des Prairies, Winnipeg (Manitoba)
-
-
-
-Surintendant
-
-
-
-**42** Service des enquêtes, Région du Pacifique, Vancouver (Colombie-Britannique)
-
-
-
-Surintendant
-
-
-
-**43** Bureau du siège social — Achats et magasins, Montréal (Québec)
-
-
-
-Vice-président
-
-
-
-Agent général des achats
-
-
-
-Agent général des achats de traverses et de bois d’oeuvre
-
-
-
-Directeur des magasins
-
-
-
-**44** Bureau de la Région de l’Atlantique — Achats et magasins, Montréal (Québec)
-
-
-
-Surintendant des magasins
-
-
-
-**45** Bureau de la Région de l’Est — Achats et magasins, Toronto (Ontario)
-
-
-
-Surintendant des magasins
-
-
-
-Agent des achats
-
-
-
-**46** Bureau de la Région des Prairies — Achats et magasins, Winnipeg (Manitoba)
-
-
-
-Surintendant des magasins
-
-
-
-Agent des achats
-
-
-
-**47** Bureau de la Région du Pacifique — Achats et magasins, Vancouver (Colombie-Britannique)
-
-
-
-Surintendant des magasins (Calgary)
-
-
-
-Agent des achats
-
-
-
-Agent général adjoint des achats de traverses et de bois d’oeuvre
-
-
-
-**48** Ateliers d’équipement Angus, Montréal (Québec)
-
-
-
-Direction des ateliers
-
-
-
-Division du matériel tracté
-
-
-
-Division des locomotives
-
-
-
-**49** Ateliers d’équipement Weston, Winnipeg (Manitoba)
-
-
-
-Direction des ateliers
-
-
-
-Division du matériel tracté
-
-
-
-Division des locomotives
-
-
-
-**50** Ateliers d’équipement Ogden, Calgary (Alberta)
-
-
-
-Direction des ateliers
-
-
-
-Division du matériel tracté
-
-
-
-Division des locomotives
-
-
-
-**51** Services intermodaux du siège social, Montréal (Québec)
-
-
-
-Directeur général
-
-
-
-**52** Services intermodaux, Région de l’Atlantique, Montréal (Québec)
+Toronto (Ontario)
 
 
 
@@ -1641,159 +1570,800 @@ Directeur
 
 
 
-Terminaux
 
+**34** Central Parkway
 
+Mississauga (Ontario)
 
-**53** Services intermodaux, Région de l’Est, Toronto (Ontario)
 
 
+Commercial
 
-Directeur
 
 
+Développement d’entreprise
 
-Terminaux
 
 
+Service de la planification et de l’information
 
-**54** Services intermodaux, Région des Prairies, Winnipeg (Manitoba)
 
 
+Ressources humaines
 
-Directeur
 
 
+Services des approvisionnements
 
-Terminaux
 
 
+Finances
 
-**55** Services intermodaux, Région du Pacifique, Vancouver (Colombie-Britannique)
 
 
+Route express
 
-Directeur
 
 
+Ingénierie
 
-Terminaux
 
 
+Tronicus
 
-**56** CP Télécommunications, Bureaux du siège social, Montréal (Québec)
 
 
 
-Vice-président et directeur général
+**35** Services intermodaux, Région de l’Est
 
+Terminal de Lachine
 
 
-Directeur général adjoint, Administration et ingénierie
 
+Lachine (Québec)
 
 
-Directeur général adjoint, Exploitation et affectations spéciales
 
+Directeur de terminal
 
 
-Directeur, Comptabilité et contrôle
 
 
+**36** Services intermodaux, Région de l’Est
 
-Directeur, Commercialisation
+Terminal de Vaughan
 
 
 
-Directeur, Relations industrielles
+Kleinburg (Ontario)
 
 
 
-**57** CP Télécommunications, Région de l’Atlantique, Montréal (Québec)
+Directeur, Exploitation intermodale — Est
 
 
 
-Directeur régional
+Directeur de terminal
 
 
 
-Directeur des installations
 
+**37** Services intermodaux, Région de l’Est
 
+Terminal à conteneurs d’Obico
 
-Surintendant, Exploitation et entretien
 
 
+Etobicoke (Ontario)
 
-Surintendant, Expansion des installations
 
 
+Directeur de terminal
 
-Service des messages au public
 
 
 
-**58** CP Télécommunications, Région de l’Est, Toronto (Ontario)
+**38** Services intermodaux, Région de l’Ouest
 
+Terminal de Thunder Bay
 
 
-Directeur régional
 
+Thunder Bay (Ontario)
 
 
-Surintendant, Exploitation et entretien
 
 
+**39** Services intermodaux, Région de l’Ouest
 
-Surintendant, Expansion des installations
+Terminal de Dryden
 
 
 
-Service des messages au public
+Dryden (Ontario)
 
 
 
-**59** CP Télécommunications, Région des Prairies, Winnipeg (Manitoba)
 
+**40** Services intermodaux, Région de l’Ouest
 
+Terminal de Winnipeg
 
-Directeur régional
 
 
+Winnipeg (Manitoba)
 
-Surintendant, Exploitation et entretien
 
 
+Directeur de terminal
 
-Surintendant, Expansion des installations
 
 
 
-Service des messages au public
+**41** Services intermodaux, Région de l’Ouest
 
+Terminal de Regina
 
 
-**60** CP Télécommunications, Région du Pacifique, Vancouver (Colombie-Britannique)
 
+Regina (Saskatchewan)
 
 
-Directeur régional
 
+Directeur de terminal
 
 
-Directeur des installations
 
 
+**42** Services intermodaux, Région de l’Ouest
 
-Surintendant, Exploitation et entretien
+Terminal de Saskatoon
 
 
 
-Surintendant, Expansion des installations
+Saskatoon (Saskatchewan)
 
 
 
-Service des messages au public
+Superviseur de terminal
+
+
+
+
+**43** Services intermodaux, Région de l’Ouest
+
+Terminal de Calgary
+
+
+
+Calgary (Alberta)
+
+
+
+Directeur de terminal
+
+
+
+
+**44** Services intermodaux, Région de l’Ouest
+
+Terminal d’Edmonton
+
+
+
+Edmonton (Alberta)
+
+
+
+Superviseur de terminal
+
+
+
+
+**45** Services intermodaux, Région de l’Ouest
+
+Installations intermodales de Vancouver
+
+
+
+Coquitlam (Colombie-Britannique)
+
+
+
+Directeur de terminal
+
+
+
+
+**46** Progress Rail
+
+Winnipeg (Manitoba)
+
+
+
+
+**47** Atelier du matériel tracté de Winnipeg
+
+Winnipeg (Manitoba)
+
+
+
+Directeur de secteur
+
+
+
+
+**48** Atelier de locomotives de Winnipeg
+
+Winnipeg (Manitoba)
+
+
+
+Directeur de secteur
+
+
+
+
+**49** Atelier de réparation du matériel de travaux de Logan
+
+Winnipeg (Manitoba)
+
+
+
+Directeur d’atelier
+
+
+
+
+**50** Atelier de soudage de Transcona (Chemetron Railway Products)
+
+Winnipeg (Manitoba)
+
+
+
+Ingénierie
+
+
+
+
+**51** Ateliers d’Alstom
+
+Calgary (Alberta)
+
+
+
+
+**52** Secteur de l’Alberta
+
+Calgary (Alberta)
+
+
+
+Atelier diesel Alyth
+
+
+
+Directeur de procédés
+
+
+
+Atelier du matériel tracté Alyth
+
+
+
+Directeur des procédures
+
+
+
+
+**53** Secteur de l’Alberta
+
+Lethbridge (Alberta)
+
+
+
+Mécanique
+
+
+
+
+**54** Secteur de l’Intérieur de la Colombie-Britannique
+
+Golden (Colombie-Britannique)
+
+
+
+Directeur de secteur
+
+
+
+Mécanique
+
+
+
+Directeur du triage
+
+
+
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+
+**55** Secteur de Vancouver
+
+Port Coquitlam (Colombie-Britannique)
+
+
+
+Installations pour locomotives de Coquitlam
+
+
+
+Directeur de secteur
+
+
+
+Mécanique
+
+
+
+
+**56** Secteur de Vancouver
+
+Port Coquitlam (Colombie-Britannique)
+
+
+
+Installations pour wagons de Coquitlam
+
+
+
+Directeur de la production
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+
+**57** Région de l’Est
+
+Montréal (Québec)
+
+
+
+Services de police
+
+
+
+Surintendant
+
+
+
+
+**58** Région de l’Est
+
+Toronto (Ontario)
+
+
+
+Services de police
+
+
+
+Sergent
+
+
+
+
+**59** Région de l’Ouest
+
+Winnipeg (Manitoba)
+
+
+
+Services de police
+
+
+
+Sergent
+
+
+
+
+**60** Région de l’Ouest
+
+Calgary (Alberta)
+
+
+
+Services de police
+
+
+
+Surintendant
+
+
+
+
+**61** Région de l’Ouest
+
+Vancouver (Colombie-Britannique)
+
+
+
+Services de police
+
+
+
+Inspecteur
+
+
+
+
+**62** Granville Square
+
+Vancouver (Colombie-Britannique)
+
+
+
+Biens immobiliers
+
+
+
+Réclamations - Marchandises
+
+
+
+Services des approvisionnements
+
+
+
+Commercial
+
+
+
+Ressources humaines
+
+
+
+Administration
+
+
+
+
+**63** Gare Windsor
+
+Montréal (Québec)
+
+
+
+Vice-président, Route express
+
+
+
+Directeur régional, Biens immobiliers
+
+
+
+Directeur, Communications et Affaires publiques
+
+
+
+Directeur, Installations de l’Est
+
+
+
+Directeur, Installations et location
+
+
+
+Services de police
+
+
+
+Ressources humaines
+
+
+
+Directeur général, Centre de gestion du réseau
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+Développement commercial
+
+
+
+Services juridiques
+
+
+
+
+**64** Siège social du triage
+
+Toronto (Ontario)
+
+
+
+Directeur de secteur
+
+
+
+Exploitation sur le terrain
+
+
+
+Directeur de secteur
+
+
+
+Services d’ingénierie
+
+
+
+Directeur de secteur
+
+
+
+Services mécaniques
+
+
+
+Directeur, Programmes Track
+
+
+
+Directeur, Signalisation et Communication
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+Commercial
+
+
+
+Services de police
+
+
+
+Administration
+
+
+
+
+**65** Secteur de Montréal
+
+Montréal (Québec)
+
+
+
+Directeur de secteur
+
+
+
+Exploitation sur le terrain
+
+
+
+Administration
+
+
+
+Sécurité et affaires réglementaires
+
+
+
+
+**66** Secteur de Montréal
+
+Montréal (Québec)
+
+
+
+Directeur de secteur
+
+
+
+Mécanique
+
+
+
+Administration
+
+
+
+
+**67** Secteur de Montréal
+
+Montréal (Québec)
+
+
+
+Directeur de secteur
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**68** Secteur de Montréal
+
+Smiths Falls (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**69** Secteur du sud de l’Ontario
+
+Toronto (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Directeur des manœuvres de triage
+
+
+
+Exploitation sur le terrain
+
+
+
+Administration
+
+
+
+
+**70** Secteur du sud de l’Ontario
+
+Toronto (Ontario)
+
+
+
+Atelier du matériel tracté
+
+
+
+Directeur de secteur
+
+
+
+Mécanique
+
+
+
+
+**71** Secteur du sud de l’Ontario
+
+Toronto (Ontario)
+
+
+
+Atelier diesel
+
+
+
+Directeur de secteur
+
+
+
+Mécanique
+
+
+
+Administration
+
+
+
+
+**72** Secteur du sud de l’Ontario
+
+Toronto (Ontario)
+
+
+
+Directeur de secteur
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**73** Secteur du sud de l’Ontario
+
+London (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
+
+
+**74** Secteur du sud de l’Ontario
+
+Windsor (Ontario)
+
+
+
+Directeur du service routier
+
+
+
+Exploitation sur le terrain
+
+
+
+Mécanique
+
+
+
+Ingénierie
+
+
+
+Administration
+
+
 
 
 
@@ -1803,10 +2373,7 @@ Service des messages au public
 
 ### Établissements
 
-
 **1** Direction générale CN, Montréal (Québec)
-
-
 
 Président
 
@@ -1860,9 +2427,8 @@ Directeur, Service des enquêtes
 
 
 
+
 **2** Région de l’Atlantique, Moncton (Nouveau-Brunswick)
-
-
 
 Vice-président régional
 
@@ -1905,13 +2471,12 @@ Directeur, Réclamations Marchandises
 
 
 Directeur, Service du personnel
+
 
 
 
 **3** Région du Saint-Laurent, Montréal (Québec)
 
-
-
 Vice-président régional
 
 
@@ -1953,13 +2518,12 @@ Directeur, Réclamations Marchandises
 
 
 Directeur, Service du personnel
+
 
 
 
 **4** Région des Grands Lacs, Toronto (Ontario)
 
-
-
 Vice-président régional
 
 
@@ -2001,13 +2565,12 @@ Directeur, Réclamations Marchandises
 
 
 Directeur, Service du personnel
+
 
 
 
 **5** Région des Prairies, Winnipeg (Manitoba)
 
-
-
 Vice-président régional
 
 
@@ -2049,13 +2612,12 @@ Directeur, Réclamations Marchandises
 
 
 Directeur, Service du personnel
+
 
 
 
 **6** Région des Montagnes, Edmonton (Alberta)
 
-
-
 Vice-président régional
 
 
@@ -2100,9 +2662,8 @@ Directeur, Service du personnel
 
 
 
+
 **7** Secteur Terre-Neuve, St. John’s (Terre-Neuve)
-
-
 
 Directeur du secteur
 
@@ -2141,13 +2702,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **8** Secteur Maritime, Moncton (Nouveau-Brunswick)
 
-
-
 Directeur du secteur
 
 
@@ -2185,13 +2745,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **9** Secteur Chaleur, Campbellton (Nouveau-Brunswick)
 
-
-
 Directeur du secteur
 
 
@@ -2229,13 +2788,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **10** Secteur Québec, Québec (Québec)
 
-
-
 Directeur du secteur
 
 
@@ -2273,13 +2831,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **11** Secteur Montréal, Montréal (Québec)
 
-
-
 Directeur du secteur
 
 
@@ -2317,13 +2874,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **12** Secteur Champlain, Montréal (Québec)
 
-
-
 Directeur du secteur
 
 
@@ -2361,13 +2917,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **13** Secteur Rideau, Belleville (Ontario)
 
-
-
 Directeur du secteur
 
 
@@ -2405,13 +2960,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **14** Secteur Toronto, Toronto (Ontario)
 
-
-
 Directeur du secteur
 
 
@@ -2449,13 +3003,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **15** Secteur Sud-Ouest Ontario, London (Ontario)
 
-
-
 Directeur du secteur
 
 
@@ -2493,13 +3046,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **16** Secteur Nord Ontario, Capreol (Ontario)
 
-
-
 Directeur du secteur
 
 
@@ -2537,13 +3089,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **17** Secteur Assiniboine-Lakehead, Winnipeg (Manitoba)
 
-
-
 Directeur du secteur
 
 
@@ -2581,13 +3132,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **18** Secteur Baie d’Hudson, Dauphin (Manitoba)
 
-
-
 Directeur du secteur
 
 
@@ -2625,13 +3175,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **19** Secteur Saskatchewan, Saskatoon (Saskatchewan)
 
-
-
 Directeur du secteur
 
 
@@ -2669,13 +3218,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **20** Secteur Alberta, Edmonton (Alberta)
 
-
-
 Directeur du secteur
 
 
@@ -2713,13 +3261,12 @@ Surintendant, Équipement
 
 
 Ingénieur du secteur
+
 
 
 
 **21** Secteur Colombie-Britannique, Vancouver (Colombie-Britannique)
 
-
-
 Directeur du secteur
 
 
@@ -2760,17 +3307,15 @@ Ingénieur du secteur
 
 
 
+
 **22** Télécommunications Canadien National, Siège social, Toronto (Ontario)
-
-
 
 Directeur général
 
 
 
+
 **23** Achats et magasins, Siège social
-
-
 
 Achats et magasins — Région de l’Atlantique
 
@@ -2784,46 +3329,42 @@ Gérant régional des stocks
 
 
 
+
 **24** Achats et magasins — Région du Saint-Laurent
-
-
 
 Directeur des achats
 
 
 
 Gérant régional des stocks
+
 
 
 
 **25** Achats et magasins — Région des Grands Lacs
 
-
-
 Directeur des achats
 
 
 
 Gérant régional des stocks
+
 
 
 
 **26** Achats et magasins — Région des Prairies
 
-
-
 Directeur des achats
 
 
 
 Gérant régional des stocks
+
 
 
 
 **27** Achats et magasins — Région des Montagnes
 
-
-
 Directeur des achats
 
 
@@ -2832,9 +3373,8 @@ Gérant régional des stocks
 
 
 
+
 **28** Ateliers principaux, Montréal (Québec)
-
-
 
 Directeur général des ateliers
 
@@ -2849,13 +3389,12 @@ Directeur adjoint des ateliers, matériel remorqué
 
 
 Directeur adjoint des ateliers de traction
+
 
 
 
 **29** Ateliers principaux, Winnipeg (Manitoba)
 
-
-
 Directeur général des ateliers
 
 
@@ -2872,9 +3411,8 @@ Directeur adjoint des ateliers de traction
 
 
 
+
 **30** Comptabilité
-
-
 
 Siège social
 
@@ -2896,16 +3434,15 @@ Contrôleur régional
 
 
 
+
+
 **PARTIE III** 
 ## Via rail Canada inc.
 
 
 ### Établissements
 
-
 **1** Siège social
-
-
 
 2, Place Ville-Marie
 
@@ -2967,9 +3504,8 @@ Maintenance du matériel roulant
 
 
 
+
 **2** VIA Québec (y compris Ottawa (Ontario))
-
-
 
 Affaires publiques
 
@@ -2995,9 +3531,8 @@ Transport (dont le personnel de conduite)
 
 
 
+
 **3** VIA Atlantique — Nouvelle-Écosse, Nouveau-Brunswick et Île-du-Prince-Édouard
-
-
 
 Affaires publiques Avocat général (dont réclamations en matière de santé et de sécurité)
 
@@ -3019,9 +3554,8 @@ Transport (dont le personnel de conduite)
 
 
 
+
 **4** VIA Ontario (à l’exclusion d’Ottawa (Ontario))
-
-
 
 Affaires publiques
 
@@ -3044,13 +3578,12 @@ Services à la clientèle
 
 
 Transport (dont le personnel de conduite)
+
 
 
 
 **5** VIA Ouest — Thunder Bay et ouest de Thunder Bay
 
-
-
 Affaires publiques
 
 
@@ -3075,9 +3608,8 @@ Transport (dont le personnel de conduite)
 
 
 
+
 **6** Maintenance — Halifax
-
-
 
 Centre de maintenance de Halifax
 
@@ -3091,9 +3623,8 @@ Ateliers secondaires de Gaspé et Matapédia
 
 
 
+
 **7** Maintenance — Montréal
-
-
 
 Centre de maintenance de Montréal
 
@@ -3107,9 +3638,8 @@ Ateliers secondaires de Mont-Joli, Québec et Ottawa
 
 
 
+
 **8** Maintenance — Toronto
-
-
 
 Centre de maintenance de Toronto
 
@@ -3123,9 +3653,8 @@ Ateliers secondaires de Windsor, Sarnia, London et de la gare Union
 
 
 
+
 **9** Maintenance — Winnipeg
-
-
 
 Centre de maintenance de Winnipeg
 
@@ -3139,9 +3668,8 @@ Ateliers secondaires de The Pas (Manitoba) et Churchill (Manitoba)
 
 
 
+
 **10** Maintenance — Vancouver
-
-
 
 Centre de maintenance de Vancouver
 
@@ -3155,16 +3683,15 @@ Ateliers secondaires de Prince Rupert (Colombie-Britannique) et Jasper (Alberta)
 
 
 
+
+
 **PARTIE IV** 
 ## Air Canada
 
 
 ### Établissements
 
-
 **1** Siège social
-
-
 
 Président du conseil d’administration
 
@@ -3214,60 +3741,47 @@ Personnel de soutien administratif
 
 
 
-**2** Finances
 
+**2** Finances
 
 
 **3** Marketing et Ventes
 
 
-
 **4** Service en vol
-
 
 
 **5** Opérations aériennes
 
 
-
 **6** Informatique
-
 
 
 **7** Ventes et Service, et Fret, Région de l’Est (le Québec et l’Est, y compris Ottawa)
 
 
-
 **8** Ventes et Service, et Fret, Région centrale (l’Ontario jusqu’à Thunder Bay)
-
 
 
 **9** Ventes et Service, et Fret, Région de l’Ouest (Thunder Bay et l’Ouest)
 
 
-
 **10** Ventes et Service/Passager, Région de l’Est (le Québec et l’Est, y compris Ottawa)
-
 
 
 **11** Ventes et Service/Passager, Région centrale (l’Ontario jusqu’à Thunder Bay)
 
 
-
 **12** Ventes et Service/Passager, Région de l’Ouest (Thunder Bay et l’Ouest)
-
 
 
 **13** Maintenance — Montréal, Halifax, Québec, Ottawa
 
 
-
 **14** Maintenance — Toronto
 
 
-
 **15** Maintenance — Winnipeg
-
 
 
 **16** Maintenance — Vancouver, Calgary, Edmonton
@@ -3280,10 +3794,7 @@ Personnel de soutien administratif
 
 ### Établissements
 
-
 **1** Siège social
-
-
 
 Vice-président général et vice-présidents — Opérations
 
@@ -3317,68 +3828,53 @@ Personnel de soutien administratif
 
 
 
-**2** Services de renseignements
 
+**2** Services de renseignements
 
 
 **3** Ventes et services de fret
 
 
-
 **4** Finances et comptabilité
-
 
 
 **5** Opérations aériennes
 
 
-
 **6** Achats et installations
-
 
 
 **7** Services à la clientèle — Région de l’Ouest — (Thunder Bay et l’Ouest)
 
 
-
 **8** Services à la clientèle — Région centrale — (l’Ontario jusqu’à Thunder Bay)
-
 
 
 **9** Services à la clientèle — Région de l’Est — (le Québec et l’Est)
 
 
-
 **10** Entretien — Québec et provinces de l’Atlantique
-
 
 
 **11** Entretien — Ontario
 
 
-
 **12** Entretien — Alberta, Saskatchewan, Manitoba, Yukon, Territoires du Nord-Ouest et Nunavut
-
 
 
 **13** Entretien — Colombie-Britannique
 
 
-
 **14** Service en vol — Ouest canadien (Thunder Bay et l’Ouest)
-
 
 
 **15** Service en vol — Est du Canada (l’Est jusqu’à Thunder Bay)
 
 
-
 **16** Ressources humaines et services administratifs
 
 
-
 **17** Centre de contrôle des opérations du système
-
 
 
 **18** Commercialisation et ventes
@@ -3389,453 +3885,843 @@ Personnel de soutien administratif
 ## Bell Canada
 
 
-### Établissements
+### Établissements industriels
 
+**1** Bell Canada
 
-**1** Région Québec Est, Québec Ouest et Québec Nord
+Région de l’Ontario
 
 
 
-Indicatifs régionaux 418/819
+Centre – Indicatif régional 416 (Toronto exclu)
 
 
 
-Techniciens et employés auxiliaires
+Techniciens (SCEP)
 
 
 
-**2** Région Québec Est, Québec Ouest et Québec Nord
 
+**2** Bell Canada
 
+Région de l’Ontario
 
-Indicatifs régionaux 418/819
 
 
+Centre – Indicatif régional 416 (Toronto exclu)
 
-Personnel de bureau et groupe connexe
 
 
+Employés de bureau et vendeurs (ACET)
 
-**3** Région Québec Est, Québec Ouest et Québec Nord
 
 
 
-Indicatifs régionaux 418/819
+**3** Bell Canada
 
+Région de l’Ontario
 
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
+Centre – Indicatif régional 416 (Toronto exclu)
 
 
-**4** Région Québec Sud
 
+Employés cadres
 
 
-Indicatif régional 514 (sauf Montréal)
 
 
+**4** Bell Canada
 
-Techniciens et employés auxiliaires
+Région de l’Ontario
 
 
 
-**5** Région Québec Sud
+Toronto Métro – Indicatif régional 416
 
 
 
-Indicatif régional 514 (sauf Montréal)
+Techniciens (SCEP)
 
 
 
-Personnel de bureau et groupe connexe
 
+**5** Bell Canada
 
+Région de l’Ontario
 
-**6** Région Québec Sud
 
 
+Toronto Métro – Indicatif régional 416
 
-Indicatif régional 514 (sauf Montréal)
 
 
+Employés de bureau et vendeurs (ACET)
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
 
 
-**7** Région Québec Sud
+**6** Bell Canada
 
+Région de l’Ontario
 
 
-Administration générale
 
+Toronto Métro – Indicatif régional 416
 
 
-Indicatif régional 514 (ville de Montréal)
 
+Employés cadres
 
 
-Personnel de bureau et groupe connexe
 
 
+**7** Bell Canada
 
-**8** Région Québec Sud
+Région de l’Ontario
 
 
 
-Administration générale
+Sud-ouest – Indicatif régional 519
 
 
 
-Indicatif régional 514 (ville de Montréal)
+Techniciens (SCEP)
 
 
 
-Techniciens et employés auxiliaires, services des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
+**8** Bell Canada
 
+Région de l’Ontario
 
-**9** Région Québec Sud
 
 
+Sud-ouest – Indicatif régional 519
 
-Bell Québec
 
 
+Employés de bureau et vendeurs (ACET)
 
-Indicatif régional 514 (ville de Montréal)
 
 
 
-Techniciens et employés auxiliaires
+**9** Bell Canada
 
+Région de l’Ontario
 
 
-**10** Région Québec Sud
 
+Sud-ouest – Indicatif régional 519
 
 
-Bell Québec
 
+Employés cadres
 
 
-Indicatif régional 514 (ville de Montréal)
 
 
+**10** Bell Canada
 
-Personnel de bureau et groupe connexe
+Région de l’Ontario
 
 
 
-**11** Région Québec Sud
+Est – Indicatif régional 613
 
 
 
-Bell Québec
+Techniciens (SCEP)
 
 
 
-Indicatif régional 514 (ville de Montréal)
 
+**11** Bell Canada
 
+Région de l’Ontario
 
-Services des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
 
+Est – Indicatif régional 613
 
-**12** Région Ontario Sud-Ouest
 
 
+Employés de bureau et vendeurs (ACET)
 
-Indicatif régional 519
 
 
 
-Techniciens et employés auxiliaires
+**12** Bell Canada
 
+Région de l’Ontario
 
 
-**13** Région Ontario Sud-Ouest
 
+Est – Indicatif régional 613
 
 
-Indicatif régional 519
 
+Employés cadres
 
 
-Personnel de bureau et groupe connexe
 
 
+**13** Bell Canada
 
-**14** Région Ontario Sud-Ouest
+Région de l’Ontario
 
 
 
-Indicatif régional 519
+Nord – Indicatifs régionaux 705 et 807
 
 
 
-Services des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
+Techniciens (SCEP)
 
 
 
-**15** Région Ontario Est
 
+**14** Bell Canada
 
+Région de l’Ontario
 
-Administration générale
 
 
+Nord – Indicatifs régionaux 705 et 807
 
-Indicatif régional 613
 
 
+Employés de bureau et vendeurs (ACET)
 
-Tous les employés
 
 
 
-**16** Région Ontario Est
+**15** Bell Canada
 
+Région de l’Ontario
 
 
-Bell Ontario
 
+Nord – Indicatifs régionaux 705 et 807
 
 
-Indicatif régional 613
 
+Employés cadres
 
 
-Techniciens et employés auxiliaires
 
 
+**16** Bell Canada
 
-**17** Région Ontario Est
+Région de l’Ontario
 
 
 
-Bell Ontario
+Centre – Indicatif régional 905
 
 
 
-Indicatif régional 613
+Techniciens (SCEP)
 
 
 
-Personnel de bureau et groupe connexe
 
+**17** Bell Canada
 
+Région de l’Ontario
 
-**18** Région Ontario Est
 
 
+Centre – Indicatif régional 905
 
-Bell Ontario
 
 
+Employés de bureau et vendeurs (ACET)
 
-Indicatif régional 613
 
 
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
+**18** Bell Canada
 
+Région de l’Ontario
 
 
-**19** Région Ontario Centre
 
+Centre – Indicatif régional 905
 
 
-Indicatif régional 905
 
+Employés cadres
 
 
-Techniciens et employés auxiliaires
 
 
+**19** Bell Canada
 
-**20** Région Ontario Centre
+Région de l’Ontario (Groupes opérationnels du Québec)
 
 
 
-Indicatif régional 905
+Tous les indicatifs régionaux
 
 
 
-Personnel de bureau et groupe connexe
+Techniciens (SCEP)
 
 
 
-**21** Région Ontario Centre
+Employés de bureau et vendeurs (ACET)
 
 
 
-Indicatif régional 905
+Employés cadres
 
 
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
+**20** Services généraux
 
+Région de l’Ontario
 
-**22** Région Ontario Nord
 
 
+Centre – Indicatif régional 416 (Toronto inclus)
 
-Indicatifs régionaux 807/705
 
 
+Techniciens (SCEP)
 
-Techniciens et employés auxiliaires
 
 
+Employés de bureau (ACET)
 
-**23** Région Ontario Nord
 
 
+Employés cadres
 
-Indicatifs régionaux 807/705
 
 
 
-Personnel de bureau et groupe connexe, service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
+**21** Services généraux
 
+Région de l’Ontario
 
 
-**24** Région Ontario Métro
 
+Sud-ouest, Est et Centre – Indicatifs régionaux 519, 613 et 905
 
 
-Administration générale
 
+Employés de bureau (ACET)
 
 
-Indicatif régional 416
 
+Employés cadres
 
 
-Personnel de bureau et groupe connexe
 
 
+**22** Exploitation du réseau
 
-Techniciens et employés auxiliaires
+Région de l’Ontario
 
 
 
-**25** Région Ontario Métro
+Centre – Indicatif régional 416 (Toronto inclus)
 
 
 
-Administration générale
+Techniciens (SCEP)
 
 
 
-Indicatif régional 416
 
+**23** Exploitation du réseau
 
+Région de l’Ontario
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
 
+Centre – Indicatif régional 416 (Toronto inclus)
 
-**26** Région Ontario Métro
 
 
+Employés de bureau (ACET)
 
-Bell Ontario
 
 
 
-Indicatif régional 416 (sauf Toronto)
+**24** Exploitation du réseau
 
+Région de l’Ontario
 
 
-Techniciens et employés auxiliaires
 
+Centre – Indicatif régional 416 (Toronto inclus)
 
 
-**27** Région Ontario Métro
 
+Employés cadres
 
 
-Bell Ontario
 
 
+**25** Exploitation du réseau
 
-Indicatif régional 416 (sauf Toronto)
+Région de l’Ontario
 
 
 
-Personnel de bureau et groupe connexe
+Sud-ouest – Indicatif régional 519
 
 
 
-**28** Région Ontario Métro
+Techniciens (SCEP)
 
 
 
-Bell Ontario
 
+**26** Exploitation du réseau
 
+Région de l’Ontario
 
-Indicatif régional 416 (sauf Toronto)
 
 
+Sud-ouest – Indicatif régional 519
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
 
+Employés de bureau (ACET)
 
-**29** Région Ontario Métro
 
 
 
-Bell Ontario
+**27** Exploitation du réseau
 
+Région de l’Ontario
 
 
-Indicatif régional 416 (ville de Toronto)
 
+Sud-ouest – Indicatif régional 519
 
 
-Techniciens et employés auxiliaires
 
+Employés cadres
 
 
-**30** Région Ontario Métro
 
 
+**28** Exploitation du réseau
 
-Toronto Bell Ontario
+Région de l’Ontario
 
 
 
-Indicatif régional 416 (ville de Toronto)
+Nord – Indicatifs régionaux 705 et 807
 
 
 
-Personnel de bureau et groupe connexe
+Techniciens (SCEP)
 
 
 
-**31** Région Ontario Métro
+Employés de bureau (ACET)
 
 
 
-Toronto Bell Ontario
+Employés cadres
 
 
 
-Indicatif régional 416 (ville de Toronto)
 
+**29** Exploitation du réseau
 
+Région de l’Ontario
 
-Service des téléphonistes et salles à manger, vendeurs — services de communications, et employés non syndiqués
 
 
->  DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2.
+Est – Indicatif régional 613
+
+
+
+Techniciens (SCEP)
+
+
+
+
+**30** Exploitation du réseau
+
+Région de l’Ontario
+
+
+
+Est – Indicatif régional 613
+
+
+
+Employés de bureau (ACET)
+
+
+
+
+**31** Exploitation du réseau
+
+Région de l’Ontario
+
+
+
+Est – Indicatif régional 613
+
+
+
+Employés cadres
+
+
+
+
+**32** Exploitation du réseau
+
+Région de l’Ontario
+
+
+
+Centre – Indicatif régional 905
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**33** Bell Canada
+
+Région du Québec (Groupes opérationnels de l’Ontario)
+
+
+
+Tous les indicatifs régionaux
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**34** Bell Canada
+
+Région du Québec
+
+
+
+Est, Ouest et Nord – Indicatifs régionaux 819 et 418
+
+
+
+Techniciens (SCEP)
+
+
+
+
+**35** Bell Canada
+
+Région du Québec
+
+
+
+Est, Ouest et Nord – Indicatifs régionaux 819 et 418
+
+
+
+Employés de bureau et vendeurs (ACET)
+
+
+
+
+**36** Bell Canada
+
+Région du Québec
+
+
+
+Est, Ouest et Nord – Indicatifs régionaux 819 et 418
+
+
+
+Employés cadres
+
+
+
+
+**37** Bell Canada
+
+Région du Québec
+
+
+
+Métro (Montréal exclu) – Indicatif régional 450
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**38** Bell Canada
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Techniciens (SCEP)
+
+
+
+
+**39** Bell Canada
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Employés de bureau et vendeurs (ACET)
+
+
+
+
+**40** Bell Canada
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Employés cadres
+
+
+
+
+**41** Services généraux
+
+Région du Québec
+
+
+
+Tous les indicatifs régionaux
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+
+**42** Services généraux
+
+Région du Québec
+
+
+
+Tous les indicatifs régionaux
+
+
+
+Employés cadres
+
+
+
+
+**43** Exploitation du réseau
+
+Région du Québec
+
+
+
+Est, Ouest et Nord – Indicatifs régionaux 819 et 418
+
+
+
+Techniciens (SCEP)
+
+
+
+
+**44** Exploitation du réseau
+
+Région du Québec
+
+
+
+Est, Ouest et Nord – Indicatifs régionaux 819 et 418
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**45** Exploitation du réseau
+
+Région du Québec
+
+
+
+Métro (Montréal exclu) – Indicatif régional 450
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**46** Exploitation du réseau
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Techniciens (SCEP)
+
+
+
+
+**47** Exploitation du réseau
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Employés de bureau (ACET)
+
+
+
+
+**48** Exploitation du réseau
+
+Région du Québec
+
+
+
+Montréal – Indicatif régional 514
+
+
+
+Employés cadres
+
+
+
+
+**49** Bell Canada
+
+Région de l’Ouest
+
+
+
+Calgary
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+**50** Bell Canada
+
+Région de l’Ouest
+
+
+
+Vancouver
+
+
+
+Techniciens (SCEP)
+
+
+
+Employés de bureau (ACET)
+
+
+
+Employés cadres
+
+
+
+
+> DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2; DORS/2006-231, art. 3 et 4.
 
 
 
@@ -3852,38 +4738,50 @@ Ces normes visent notamment les questions suivantes :
 <table>
 <tr>
 <td>**La durée du travail**</td>
+<td></td>
 <td>**Le salaire minimum**</td>
 </tr>
 <tr>
 <td>**Les jours fériés**</td>
+<td></td>
 <td>**Les congés annuels**</td>
 </tr>
 <tr>
 <td>**Le travail au service de plusieurs employeurs**</td>
+<td></td>
 <td>**L’égalité des salaires**</td>
 </tr>
 <tr>
 <td>**Le congé de maternité**</td>
+<td></td>
 <td>**Le congé parental**</td>
 </tr>
 <tr>
 <td>**La réaffectation et le congé liés à la maternité**</td>
+<td></td>
 <td>**Les accidents et les maladies professionnels**</td>
 </tr>
 <tr>
 <td>**Les congés de maladie**</td>
+<td></td>
 <td>**Les congés de décès**</td>
 </tr>
 <tr>
+<td>**Le congé de soignant**</td>
+</tr>
+<tr>
 <td>**Les licenciements collectifs**</td>
+<td></td>
 <td>**Les licenciements individuels**</td>
 </tr>
 <tr>
 <td>**L’indemnité de départ**</td>
+<td></td>
 <td>**Le congédiement injuste**</td>
 </tr>
 <tr>
 <td>**Le harcèlement sexuel**</td>
+<td></td>
 <td>**La saisie-arrêt**</td>
 </tr>
 <tr>
@@ -3891,31 +4789,13 @@ Ces normes visent notamment les questions suivantes :
 </tr>
 </table>
 
-Vous pouvez obtenir de plus amples renseignements à ce sujet en vous adressant au bureau de district le plus proche. Consultez les pages bleues de votre annuaire téléphonique sous la rubrique
-
-
-**Gouvernement du Canada**
-
-
-**Développement des ressources humaines Canada**
-
-
-ou écrivez directement au
-
-
-Directeur général
-
-
-Normes du travail et Équité salariale
-
-
-Ottawa (Ontario) K1A 0J2
+Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère des Ressources humaines et du Développement des compétences, ou consultez le site Web http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
 
 
 Les demandes de renseignements seront traitées de façon confidentielle.
 
 
->  DORS/91-461, art. 36; DORS/94-668, art. 14.
+> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5.
 
 
 
