@@ -121,7 +121,13 @@ Enabling authorities:
 - **(1)** Subject to sections 10, 12, 14 and 18, undeliverable mail shall be returned to the sender or forwarded to the addressee on payment of the applicable fee.
 
 - **(2)** Undeliverable mail that is returned to the sender or forwarded to the addressee is also subject to accrued postage due charges, if any.
-> SOR/82-29, s. 3; SOR/88-442, s. 5; SOR/90-16, s. 4; SOR/91-183, s. 2; SOR/91-629, s. 1; SOR/91-638, s. 3; SOR/98-556, s. 4; SOR/2003-376, s. 1; SOR/2003-382, s. 10(F).
+
+- **(2.1)** Despite subsections (1) and (2), mail that is addressed admail or unaddressed admail shall be withheld from delivery by the Corporation and returned to the sender, if
+	- **(a)** the sender makes a written application to the Corporation for the return of the mail;
+	- **(b)** the sender’s application stipulates the special circumstances that require the mail to be returned, such as an error or omission made by the sender with respect to the mail;
+	- **(c)** the sender enters into an agreement with the Corporation for the return of the mail; and
+	- **(d)** the sender agrees to pay the applicable fee.
+> SOR/82-29, s. 3; SOR/88-442, s. 5; SOR/90-16, s. 4; SOR/91-183, s. 2; SOR/91-629, s. 1; SOR/91-638, s. 3; SOR/98-556, s. 4; SOR/2003-376, s. 1; SOR/2003-382, s. 10(F); SOR/2006-232, s. 1.
 
 
 
