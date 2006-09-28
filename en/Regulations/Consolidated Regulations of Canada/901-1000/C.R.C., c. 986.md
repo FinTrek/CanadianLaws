@@ -479,8 +479,8 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 
 
-## Continuity of Employment (Annual Vacations, Maternity and Parental Leave, Bereavement Leave, Individual Termination of Employment, Severance Pay, Sick Leave and Unjust Dismissal)
-> [SOR/94-668, s. 9; SOR/2002-113, s. 7]
+## Continuity of Employment (Annual Vacations, Maternity and Parental Leave, Compassionate Care Leave, Bereavement Leave, Individual Termination of Employment, Severance Pay, Sick Leave and Unjust Dismissal)
+> [SOR/94-668, s. 9; SOR/2002-113, s. 7; SOR/2006-231, s. 1]
 
 
 
@@ -511,11 +511,11 @@ the hours of work of each of those employees in a day and in a week may be calcu
 		- **(i)** the employee continues during the term of the lay-off to receive payments from his employer in an amount agreed on by the employee and his employer,
 		- **(ii)** the employer continues to make payments for the benefit of the employee to a pension plan that is registered pursuant to the Pension Benefits Standards Act or under a group or employee insurance plan,
 		- **(iii)** the employee receives supplementary unemployment benefits, or
-		- **(iv)** the employee would be entitled to supplementary unemployment benefits but is disqualified from receiving them pursuant to the Unemployment Insurance Act; or
+		- **(iv)** the employee would be entitled to supplementary unemployment benefits but is disqualified from receiving them pursuant to the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); or
 	- **(f)** the term of the lay-off is more than three months but not more than 12 months and the employee, throughout the term of the lay-off, maintains recall rights pursuant to a collective agreement.
 
 - **(2)** In determining the term of a lay-off for the purposes of paragraphs (1)(c), (d) and (f), any period of re-employment of less than two weeks duration shall not be included.
-> SOR/82-747, s. 1; SOR/86-628, s. 2(F); SOR/91-461, s. 31.
+> SOR/82-747, s. 1; SOR/86-628, s. 2(F); SOR/91-461, s. 31; SOR/2006-231, s. 2.
 
 
 
@@ -600,7 +600,14 @@ the hours of work of each of those employees in a day and in a week may be calcu
 ### Industrial Establishments
 
 
-**1** Corporate Offices, Montreal, Quebec
+
+**1** Corporate Offices
+
+Gulf Canada Square
+
+
+
+Calgary, Alberta
 
 
 
@@ -612,39 +619,95 @@ Secretary
 
 
 
-Vice-President Law
+Executive Vice-President & Chief Operating Officer
 
 
 
-Vice-President Transport and Telecommunications
+Executive Vice-President & Chief Financial Officer
 
 
 
-Vice-President Administration
+Senior Vice-President Operations
 
 
 
-Vice-President Corporate Development
+Senior Vice-President Marketing & Sales
 
 
 
-Public Relations
+Vice-President Strategy & Law & Corporate Secretary
 
 
 
-Medical Services
+Vice-President Transportation/Field Operations
 
 
 
-Department of Investigation
+Vice-President Communications & Public Affairs
 
 
 
-Research Department
+Vice-President Human Resources & Industrial Relations
 
 
 
-Corporate Engineering Services
+Vice-President Information Services
+
+
+
+Vice-President Business Planning & Development
+
+
+
+Vice-President Customer Service
+
+
+
+Vice-President Supply Services
+
+
+
+Vice-President Intermodal & Automotive
+
+
+
+Vice-President Carload
+
+
+
+Vice-President Bulk
+
+
+
+Vice-President Real Estate
+
+
+
+Assistant Vice-President Mechanical Operations
+
+
+
+Assistant Vice-President Engineering Operations
+
+
+
+Director Environmental Services
+
+
+
+Director General Claims Agent
+
+
+
+Director Intermodal Operations West
+
+
+
+Occupational and Environmental Health
+
+
+
+Police Services
 
 
 
@@ -652,119 +715,371 @@ Administrative Services
 
 
 
-Building Superintendent
+Tronicus
 
 
 
-**2** Rail System Offices, Montreal, Quebec
 
 
+**2** General Manager International
 
-Senior Executive Officer
+Commercial
 
 
 
-Vice-President Operation and Maintenance
+Montreal, Quebec
 
 
 
-Chief Engineer
 
 
+**3** 150 Henry Avenue
 
-Chief Mechanical Officer
+Winnipeg, Manitoba
 
 
 
-Chief of Transportation
+Engineering
 
 
 
-Manager Operating Development
+Police Services
 
 
 
-Manager Communications
+Safety & Regulatory Affairs
 
 
 
-Manager Data Capture and Procedures
+Supply Services
 
 
 
-Vice-President Marketing and Sales
+Training
 
 
 
-Manager Information Centre
+Human Resources
 
 
 
-General Manager Market Development
+Administration
 
 
 
-Manager Industrial Development
 
 
+**4** General Yard Office
 
-Manager Marketing
+Alyth Yard
 
 
 
-Manager Product Development
+Calgary, Alberta
 
 
 
-General Manager Freight Sales
+Service Area Manager
 
 
 
-Manager Revenue Planning and Sales Research
+Field Operations
 
 
 
-Marketing and Sales Pricing
+Service Area Manager
 
 
 
-General Manager Overseas Trade
+Mechanical
 
 
 
-General Manager Passenger Services
+Safety & Regulatory Affairs
 
 
 
-Vice-President Industrial Relations
+Transportation
 
 
 
-Vice-President Purchasing and Stores
+Administration
 
 
 
-**3** Offices of the Atlantic Operating Region, Montreal, Quebec
 
 
+**5** General Yard Office
 
-Vice-President
+Port Coquitlam, British Columbia
 
 
 
-General Manager Transportation
+Service Area Manager
 
 
 
-Engineering Mechanical Marketing and Sales
+Field Operations
 
 
 
-**4** Offices of Eastern Operating Region, Toronto, Ontario
+Mechanical
 
 
 
-Vice-President
+Safety & Regulatory Affairs
+
+
+
+Commercial
+
+
+
+Administration
+
+
+
+
+
+**6** Manitoba Service Area
+
+Winnipeg Operation
+
+
+
+Winnipeg, Manitoba
+
+
+
+Service Area Manager
+
+
+
+Manager Road Operations
+
+
+
+Manager Yard Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**7** Manitoba Service Area
+
+Brandon Operation
+
+
+
+Brandon, Manitoba
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**8** Northern Ontario Service Area
+
+Thunder Bay Operation
+
+
+
+Thunder Bay, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+Safety and Regulatory Affairs
+
+
+
+Commercial
+
+
+
+
+
+**9** Southern Ontario Service Area
+
+Sudbury Operation
+
+
+
+Sudbury, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+Commercial
+
+
+
+
+
+**10** Manitoba Service Area
+
+Kenora Operation
+
+
+
+Kenora, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Engineering
+
+
+
+
+
+**11** Northern Ontario Service Area
+
+Thunder Bay Operation
+
+
+
+Thunder Bay, Ontario
+
+
+
+Service Area Manager
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**12** Northern Ontario Service Area
+
+Schreiber Operation
+
+
+
+Schreiber, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Engineering
+
+
+
+
+
+**13** Northern Ontario Service Area
+
+Chapleau Operation
+
+
+
+Chapleau, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**14** Grain Office
+
+Winnipeg, Manitoba
 
 
 
@@ -772,67 +1087,43 @@ General Manager
 
 
 
-Transportation
+Commercial
 
 
 
-Engineering
+
+
+**15** Customer Service Team
+
+Winnipeg, Manitoba
 
 
 
-Mechanical, Including Toronto Yard Diesel Shop
+Director
 
 
 
-Marketing and Sales
+Human Resources
 
 
 
-**5** Offices of the Prairie Operating Region, Winnipeg, Manitoba
+
+
+**16** Saskatchewan Service Area
+
+Moose Jaw Operation
 
 
 
-Vice-President
+Moose Jaw, Saskatchewan
 
 
 
-General Manager
+Service Area Manager
 
 
 
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**6** Offices of the Pacific Operating Region, Vancouver, British Columbia
-
-
-
-Vice-President
-
-
-
-General Manager
-
-
-
-Transportation
-
-
-
-Engineering
+Manager Yard and Road Operations
 
 
 
@@ -840,23 +1131,31 @@ Mechanical
 
 
 
-Marketing and Sales
-
-
-
-**7** Saint John Operating Division, Saint John, New Brunswick
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
 Engineering
+
+
+
+Safety and Regulatory Affairs
+
+
+
+
+
+**17** Saskatchewan Service Area
+
+Saskatoon Operation
+
+
+
+Saskatoon, Saskatchewan
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
 
 
 
@@ -864,23 +1163,31 @@ Mechanical
 
 
 
-Marketing and Sales
-
-
-
-**8** Quebec Operating Division, Sherbrooke, Quebec
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
 Engineering
+
+
+
+Commercial
+
+
+
+
+
+**18** Alberta Service Area
+
+Lethbridge Operation
+
+
+
+Calgary, Alberta
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
 
 
 
@@ -888,47 +1195,23 @@ Mechanical
 
 
 
-Marketing and Sales
+
+
+**19** Alberta Service Area
+
+Medicine Hat Operation
 
 
 
-**9** Montreal Operating Division, Montreal, Quebec
+Medicine Hat, Alberta
 
 
 
-Superintendent
+Manager Road Operations
 
 
 
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**10** Smiths Falls Operating Division, Smiths Falls, Ontario
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
+Field Operations
 
 
 
@@ -936,47 +1219,19 @@ Mechanical
 
 
 
-Marketing and Sales
+
+
+**20** Alberta Service Area
+
+Edmonton Operation
 
 
 
-**11** Toronto Operating Division, Toronto, Ontario
+Edmonton, Alberta
 
 
 
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical, Excluding Toronto Yard Diesel Shop
-
-
-
-Marketing and Sales
-
-
-
-**12** London Operating Division, London, Ontario
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
+Manager Road Operations
 
 
 
@@ -984,91 +1239,67 @@ Mechanical
 
 
 
-Marketing and Sales
+Commercial
 
 
 
-**13** Sudbury Operating Division, Sudbury, Ontario
+
+
+**21** Alberta Service Area
+
+Alyth Yard
 
 
 
-Superintendent
+Calgary, Alberta
 
 
 
-Transportation
+Manager Road Operations
 
 
 
-Engineering
+Manager Yard Operations
 
 
 
-Mechanical
+Field Operations
 
 
 
-Marketing and Sales
+
+
+**22** Engineering Building
+
+Alyth Yard
 
 
 
-**14** Schreiber Operating Division, Schreiber, Ontario
+Calgary, Alberta
 
 
 
-Superintendent
+Service Area Manager
 
 
 
-Transportation
+
+
+**23** BC Interior Service Area
+
+Revelstoke Operation
 
 
 
-Engineering
+Revelstoke, British Columbia
 
 
 
-Mechanical
+Service Area Manager
 
 
 
-**15** Lakehead Operating Division, Thunder Bay, Ontario
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**16** Winnipeg Operating Division, Winnipeg, Manitoba
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
+Field Operations
 
 
 
@@ -1076,19 +1307,55 @@ Mechanical
 
 
 
-Marketing and Sales
+Engineering
 
 
 
-**17** Brandon Operating Division, Brandon, Manitoba
+Administration
 
 
 
-Superintendent
+
+
+**24** Vancouver Service Area
+
+Port Coquitlam Operation
 
 
 
-Transportation
+Port Coquitlam, British Columbia
+
+
+
+Service Area Manager
+
+
+
+Manager Road and Yard Operations
+
+
+
+Field Operations
+
+
+
+
+
+**25** Vancouver Service Area
+
+Consolidated Fastfrate
+
+
+
+Port Coquitlam Operation
+
+
+
+Port Coquitlam, British Columbia
+
+
+
+Service Area Manager
 
 
 
@@ -1096,47 +1363,23 @@ Engineering
 
 
 
-Mechanical
+Safety & Regulatory Affairs
 
 
 
-Marketing and Sales
+Environmental Affairs
 
 
 
-**18** Moose Jaw Operating Division, Moose Jaw, Saskatchewan
+Administration
 
 
 
-Superintendent
 
 
+**26** Chemetron Railway Products Surrey Welding Plant
 
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**19** Saskatoon Operating Division, Saskatoon, Saskatchewan
-
-
-
-Superintendent
-
-
-
-Transportation
+Surrey, British Columbia
 
 
 
@@ -1144,179 +1387,15 @@ Engineering
 
 
 
-Mechanical
 
 
+**27** BC Interior Service Area
 
-Marketing and Sales
+Kootenay Valley Railway Operation
 
 
 
-**20** Alberta South Operating Division, Calgary, Alberta
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**21** Alberta North Operating Division, Calgary, Alberta
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**22** Calgary Operating Division, Calgary, Alberta
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**23** Revelstoke Operating Division, Revelstoke, British Columbia
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-**24** Vancouver Operating Division, Vancouver, British Columbia
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**25** Kootenay Operating Division, Nelson, British Columbia
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**26** Canyon Operating Division, Vancouver, British Columbia
-
-
-
-Superintendent
-
-
-
-Transportation
-
-
-
-Engineering
-
-
-
-Mechanical
-
-
-
-Marketing and Sales
-
-
-
-**27** Dominion Atlantic Railway, Kentville, Nova Scotia
+Nelson, British Columbia
 
 
 
@@ -1324,11 +1403,203 @@ Manager
 
 
 
-Marketing and Sales
+Field Operations
 
 
 
-**28** Quebec Central Railway, Sherbrooke, Quebec
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**28** Vancouver Service Area
+
+Kamloops Operation
+
+
+
+Kamloops, British Columbia
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Engineering
+
+
+
+Commercial
+
+
+
+Administration
+
+
+
+
+
+**29** BC Interior Service Area
+
+Cranbrook Operation
+
+
+
+Cranbrook, British Columbia
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+Administration
+
+
+
+
+
+**30** Vancouver Service Area
+
+Roberts Bank Operation
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+
+
+**31** Finance and Accounting Offices
+
+Calgary, Alberta
+
+
+
+Vice-President and Comptroller
+
+
+
+Vice-President & Treasurer
+
+
+
+Vice-President Investor Relations
+
+
+
+Assistant Vice-President Tax
+
+
+
+Director Internal Audit
+
+
+
+Director Accounting and Special Projects
+
+
+
+Director Expenditure and General Accounting
+
+
+
+Director Budgets and Management Reporting
+
+
+
+Director General Accounting and Corporate Reporting
+
+
+
+Director Financial Analysis
+
+
+
+Director SAP Sustainment
+
+
+
+Director Risk Management
+
+
+
+Financial Director
+
+
+
+
+
+**32** Accounting Service Centre
+
+Montreal, Quebec
+
+
+
+General Manager Accounting Service Centre
+
+
+
+Director Revenue Settlements
+
+
+
+Director Accounts Payable and Equipment Accounting
+
+
+
+Director Customer Accounts and Interline Settlements
+
+
+
+Manager Revenue Analysis and Reporting
+
+
+
+Manager Workplace Development and Administration
+
+
+
+Manager Revenue Settlements
+
+
+
+Manager Customer Accounts and Credit
+
+
+
+
+
+**33** Freight Claims
+
+Toronto, Ontario
 
 
 
@@ -1336,135 +1607,407 @@ Manager
 
 
 
-**29** Canadian Pacific Electric Lines, Cambridge, Ontario
 
 
+**34** Central Parkway
 
-Manager
+Mississauga, Ontario
 
 
 
-**30** System Finance and Accounting Offices, Montreal, Quebec
+Commercial
 
 
 
-Vice-President
+Business Development
 
 
 
-Comptroller
+Planning and Information Department
 
 
 
-Treasurer
+Human Resources
 
 
 
-Director of Information Systems
+Supply Services
 
 
 
-Director of Internal Audit
+Finance
 
 
 
-Manager Corporate Accounting
+Expressway
 
 
 
-Manager Property Accounts
+Engineering
 
 
 
-Manager Subsidiary Accounts
+Tronicus
 
 
 
-Chief Statistician
 
 
+**35** Intermodal East
 
-Accounting Stenographic Bureau
+Lachine Terminal
 
 
 
-General Paymaster
+Lachine, Quebec
 
 
 
-Director of Accounting
+Terminal Manager
 
 
 
-Manager Disbursement Accounting
 
 
+**36** Intermodal East
 
-Manager Revenue Accounting
+Vaughan Terminal
 
 
 
-Manager Payroll Accounting
+Kleinburg, Ontario
 
 
 
-Manager Customer and Agency Accounts
+Director Intermodal Operations East
 
 
 
-Manager Freight Claims
+Terminal Manager
 
 
 
-Manager Profit Analysis
 
 
+**37** Intermodal East
 
-Chief Joint Facility Accountant
+Obico Container Terminal
 
 
 
-Pension Investments
+Etobicoke, Ontario
 
 
 
-**31** Atlantic Region Data Centre, Montreal, Quebec
+Terminal Manager
 
 
 
-Angus Data Centre
 
 
+**38** Intermodal West
 
-**32** Eastern Region Data Centre, Toronto, Ontario
+Thunder Bay Terminal
 
 
 
-**33** Prairie Region Data Centre, Winnipeg, Manitoba
+Thunder Bay, Ontario
 
 
 
-**34** Pacific Region Data Centre, Vancouver, British Columbia
 
 
+**39** Intermodal West
 
-**35** Freight Claim Agent, Montreal, Quebec
+Dryden Terminal
 
 
 
-**36** Freight Claim Agent, Toronto, Ontario
+Dryden, Ontario
 
 
 
-**37** Freight Claim Agent, Winnipeg, Manitoba
 
 
+**40** Intermodal West
 
-**38** Freight Claim Agent, Vancouver, British Columbia
+Winnipeg Terminal
 
 
 
-**39** Atlantic Region Investigation Department, Montreal, Quebec
+Winnipeg, Manitoba
+
+
+
+Terminal Manager
+
+
+
+
+
+**41** Intermodal West
+
+Regina Terminal
+
+
+
+Regina, Saskatchewan
+
+
+
+Terminal Manager
+
+
+
+
+
+**42** Intermodal West
+
+Saskatoon Terminal
+
+
+
+Saskatoon, Saskatchewan
+
+
+
+Terminal Supervisor
+
+
+
+
+
+**43** Intermodal West
+
+Calgary Terminal
+
+
+
+Calgary, Alberta
+
+
+
+Terminal Manager
+
+
+
+
+
+**44** Intermodal West
+
+Edmonton Terminal
+
+
+
+Edmonton, Alberta
+
+
+
+Terminal Supervisor
+
+
+
+
+
+**45** Intermodal West
+
+Vancouver Intermodal Facility
+
+
+
+Coquitlam, British Columbia
+
+
+
+Terminal Manager
+
+
+
+
+
+**46** Progress Rail
+
+Winnipeg, Manitoba
+
+
+
+
+
+**47** Winnipeg Car Shop
+
+Winnipeg, Manitoba
+
+
+
+Service Area Manager
+
+
+
+
+
+**48** Winnipeg Locomotive Shop
+
+Winnipeg, Manitoba
+
+
+
+Service Area Manager
+
+
+
+
+
+**49** Logan Work Equipment Repair Shop
+
+Winnipeg, Manitoba
+
+
+
+Shop Manager
+
+
+
+
+
+**50** Chemetron Railway Products
+
+Transcona Welding Facility
+
+
+
+Winnipeg, Manitoba
+
+
+
+Engineering
+
+
+
+
+
+**51** Alstom Shops
+
+Calgary, Alberta
+
+
+
+
+
+**52** Alberta Service Area
+
+Calgary, Alberta
+
+
+
+Alyth Diesel Shop
+
+
+
+Process Manager
+
+
+
+Alyth Car Shop
+
+
+
+Process Manager
+
+
+
+
+
+**53** Alberta Service Area
+
+Lethbridge, Alberta
+
+
+
+Mechanical
+
+
+
+
+
+**54** BC Interior Service Area
+
+Golden, British Columbia
+
+
+
+Service Area Manager
+
+
+
+Mechanical
+
+
+
+Yard Manager
+
+
+
+Field Operations
+
+
+
+Engineering
+
+
+
+
+
+**55** Vancouver Service Area
+
+Port Coquitlam, British Columbia
+
+
+
+Coquitlam Locomotive Facility
+
+
+
+Service Area Manager
+
+
+
+Mechanical
+
+
+
+
+
+**56** Vancouver Service Area
+
+Port Coquitlam, British Columbia
+
+
+
+Coquitlam Car Facility
+
+
+
+Production Manager
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+
+
+**57** Eastern Region
+
+Montreal, Quebec
+
+
+
+Police Services
 
 
 
@@ -1472,7 +2015,47 @@ Superintendent
 
 
 
-**40** Eastern Region Investigation Department, Toronto, Ontario
+
+
+**58** Eastern Region
+
+Toronto, Ontario
+
+
+
+Police Services
+
+
+
+Sergeant
+
+
+
+
+
+**59** Western Region
+
+Winnipeg, Manitoba
+
+
+
+Police Services
+
+
+
+Sergeant
+
+
+
+
+
+**60** Western Region
+
+Calgary, Alberta
+
+
+
+Police Services
 
 
 
@@ -1480,307 +2063,391 @@ Superintendent
 
 
 
-**41** Prairie Region Investigation Department, Winnipeg, Manitoba
 
 
+**61** Western Region
 
-Superintendent
+Vancouver, British Columbia
 
 
 
-**42** Pacific Region Investigation Department, Vancouver, British Columbia
+Police Services
 
 
 
-Superintendent
+Inspector
 
 
 
-**43** System Office Purchasing and Stores, Montreal, Quebec
 
 
+**62** Granville Square
 
-Vice-President
+Vancouver, British Columbia
 
 
 
-General Purchasing Agent
+Real Estate
 
 
 
-General Tie and Lumber Agent
+Freight Claims
 
 
 
-Manager of Stores
+Supply Services
 
 
 
-**44** Atlantic Region Purchasing and Stores, Montreal, Quebec
+Commercial
 
 
 
-Superintendent of Stores
+Human Resources
 
 
 
-**45** Eastern Region Purchasing and Stores, Toronto, Ontario
+Administration
 
 
 
-Superintendent of Stores
 
 
+**63** Windsor Station
 
-Purchasing Agent
+Montreal, Quebec
 
 
 
-**46** Prairie Region Purchasing and Stores, Winnipeg, Manitoba
+Vice President Expressway
 
 
 
-Superintendent of Stores
+Regional Manager Real Estate
 
 
 
-Purchasing Agent
+Director Communications and Public Affairs
 
 
 
-**47** Pacific Region Purchasing and Stores, Vancouver, British Columbia
+Manager Facilities East
 
 
 
-Superintendent of Stores (Calgary)
+Manager Facility and Leasing
 
 
 
-Purchasing Agent
+Police Services
 
 
 
-Assistant General Tie and Lumber Agent
+Human Resources
 
 
 
-**48** Angus — Main Equipment Shops, Montreal, Quebec
+General Manager Network Management Centre
 
 
 
-Works Manager
+Safety and Regulatory Affairs
 
 
 
-Car Department
+Commercial Development
 
 
 
-Locomotive Department
+Legal Services
 
 
 
-**49** Weston — Main Equipment Shops, Winnipeg, Manitoba
 
 
+**64** General Yard Office
 
-Works Manager
+Toronto, Ontario
 
 
 
-Car Department
+Service Area Manager
 
 
 
-Locomotive Department
+Field Operations
 
 
 
-**50** Ogden — Main Equipment Shops, Calgary, Alberta
+Service Area Manager
 
 
 
-Works Manager
+Engineering Services
 
 
 
-Car Department
+Service Area Manager
 
 
 
-Locomotive Department
+Mechanical Services
 
 
 
-**51** System Intermodal Services, Montreal, Quebec
+Manager Track Programs
 
 
 
-General Manager
+Manager Signals and Communication
 
 
 
-**52** Atlantic Region Intermodal Services, Montreal, Quebec
+Safety and Regulatory Affairs
 
 
 
-Manager
+Commercial
 
 
 
-Terminals
+Police Services
 
 
 
-**53** Eastern Region Intermodal Services, Toronto, Ontario
+Administration
 
 
 
-Manager
 
 
+**65** Montreal Service Area
 
-Terminals
+Montreal, Quebec
 
 
 
-**54** Prairie Region Intermodal Services, Winnipeg, Manitoba
+Service Area Manager
 
 
 
-Manager
+Field Operations
 
 
 
-Terminals
+Administration
 
 
 
-**55** Pacific Region Intermodal Services, Vancouver, British Columbia
+Safety and Regulatory Affairs
 
 
 
-Manager
 
 
+**66** Montreal Service Area
 
-Terminals
+Montreal, Quebec
 
 
 
-**56** CP Telecommunications, System Headquarters, Montreal, Quebec
+Service Area Manager
 
 
 
-Vice-President and General Manager
+Mechanical
 
 
 
-Deputy General Manager, Administration and Engineering
+Administration
 
 
 
-Deputy General Manager, Operations and Special Assignments
 
 
+**67** Montreal Service Area
 
-Director Accounts and Control
+Montreal, Quebec
 
 
 
-Director Marketing
+Service Area Manager
 
 
 
-Director Industrial Relations
+Engineering
 
 
 
-**57** CP Telecommunications, Atlantic Region, Montreal, Quebec
+Administration
 
 
 
-Regional Manager
 
 
+**68** Montreal Service Area
 
-Plant Manager
+Smiths Falls, Ontario
 
 
 
-Superintendent, Operations and Maintenance
+Manager Road Operations
 
 
 
-Superintendent, Plant Extension
+Field Operations
 
 
 
-Public Message Service
+Engineering
 
 
 
-**58** CP Telecommunications, Eastern Region, Toronto, Ontario
+Administration
 
 
 
-Regional Manager
 
 
+**69** Southern Ontario Service Area
 
-Superintendent, Operations and Maintenance
+Toronto, Ontario
 
 
 
-Superintendent, Plant Extension
+Manager Road Operations
 
 
 
-Public Message Service
+Manager Yard Operations
 
 
 
-**59** CP Telecommunications, Prairie Region, Winnipeg, Manitoba
+Field Operations
 
 
 
-Regional Manager
+Administration
 
 
 
-Superintendent, Operations and Maintenance
 
 
+**70** Southern Ontario Service Area
 
-Superintendent, Plant Extension
+Toronto, Ontario
 
 
 
-Public Message Service
+Car Shop
 
 
 
-**60** CP Telecommunications, Pacific Region, Vancouver, British Columbia
+Service Area Manager
 
 
 
-Regional Manager
+Mechanical
 
 
 
-Plant Manager
 
 
+**71** Southern Ontario Service Area
 
-Superintendent, Operations and Maintenance
+Toronto, Ontario
 
 
 
-Superintendent, Plant Extension
+Diesel Shop
 
 
 
-Public Message Service
+Service Area Manager
+
+
+
+Mechanical
+
+
+
+Administration
+
+
+
+
+
+**72** Southern Ontario Service Area
+
+Toronto, Ontario
+
+
+
+Service Area Manager
+
+
+
+Engineering
+
+
+
+Administration
+
+
+
+
+
+**73** Southern Ontario Service Area
+
+London, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Engineering
+
+
+
+Administration
+
+
+
+
+
+**74** Southern Ontario Service Area
+
+Windsor, Ontario
+
+
+
+Manager Road Operations
+
+
+
+Field Operations
+
+
+
+Mechanical
+
+
+
+Engineering
+
+
+
+Administration
+
+
+
+
 
 
 
@@ -1790,10 +2457,7 @@ Public Message Service
 
 ### Industrial Establishments
 
-
 **1** CN System Headquarters, Montreal, Quebec
-
-
 
 President
 
@@ -1847,9 +2511,8 @@ Director of Investigation
 
 
 
+
 **2** Atlantic Operating Region, Moncton, New Brunswick
-
-
 
 Regional Vice-President
 
@@ -1895,9 +2558,8 @@ Manager Employee Relations
 
 
 
+
 **3** St. Lawrence Operating Region, Montreal, Quebec
-
-
 
 Regional Vice-President
 
@@ -1940,13 +2602,12 @@ Manager Merchandise Claims
 
 
 Manager Employee Relations
+
 
 
 
 **4** Great Lakes Operating Region, Toronto, Ontario
 
-
-
 Regional Vice-President
 
 
@@ -1988,13 +2649,12 @@ Manager Merchandise Claims
 
 
 Manager Employee Relations
+
 
 
 
 **5** Prairie Operating Region, Winnipeg, Manitoba
 
-
-
 Regional Vice-President
 
 
@@ -2036,13 +2696,12 @@ Manager Merchandise Claims
 
 
 Manager Employee Relations
+
 
 
 
 **6** Mountain Operating Region, Edmonton, Alberta
 
-
-
 Regional Vice-President
 
 
@@ -2087,9 +2746,8 @@ Manager Employee Relations
 
 
 
+
 **7** Newfoundland Operating Area, St. John’s, Newfoundland
-
-
 
 Area Manager
 
@@ -2128,13 +2786,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **8** Maritime Operating Area, Moncton, New Brunswick
 
-
-
 Area Manager
 
 
@@ -2172,13 +2829,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **9** Chaleur Operating Area, Campbellton, New Brunswick
 
-
-
 Area Manager
 
 
@@ -2216,57 +2872,45 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **10** Quebec Operating Area, Quebec City, Quebec
 
 
-
 Area Manager
-
 
 
 Operations Manager
 
 
-
 Employee Relations Supervisor
-
 
 
 Area Comptroller
 
 
-
 Office Supervisor
-
 
 
 Area Passenger Sales Manager
 
 
-
 Area Freight Sales Manager
-
 
 
 Superintendent Transportation
 
 
-
 Superintendent Equipment
 
 
-
 Area Engineer
-
 
 
 **11** Montreal Operating Area, Montreal, Quebec
 
-
-
 Area Manager
 
 
@@ -2304,13 +2948,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **12** Champlain Operating Area, Montreal, Quebec
 
-
-
 Area Manager
 
 
@@ -2348,13 +2991,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **13** Rideau Operating Area, Belleville, Ontario
 
-
-
 Area Manager
 
 
@@ -2392,13 +3034,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **14** Toronto Operating Area, Toronto, Ontario
 
-
-
 Area Manager
 
 
@@ -2436,13 +3077,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **15** South Western Ontario Operating Area, London, Ontario
 
-
-
 Area Manager
 
 
@@ -2480,13 +3120,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **16** Northern Ontario Operating Area, Capreol, Ontario
 
-
-
 Area Manager
 
 
@@ -2524,13 +3163,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **17** Assiniboine-Lakehead Operating Area, Winnipeg, Manitoba
 
-
-
 Area Manager
 
 
@@ -2568,13 +3206,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **18** Hudson Bay Operating Area, Dauphin, Manitoba
 
-
-
 Area Manager
 
 
@@ -2612,13 +3249,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **19** Saskatchewan Operating Area, Saskatoon, Saskatchewan
 
-
-
 Area Manager
 
 
@@ -2656,13 +3292,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **20** Alberta Operating Area, Edmonton, Alberta
 
-
-
 Area Manager
 
 
@@ -2700,13 +3335,12 @@ Superintendent Equipment
 
 
 Area Engineer
+
 
 
 
 **21** British Columbia Operating Area, Vancouver, British Columbia
 
-
-
 Area Manager
 
 
@@ -2747,17 +3381,15 @@ Area Engineer
 
 
 
+
 **22** CN Headquarters Telecommunications, Toronto, Ontario
-
-
 
 General Manager
 
 
 
+
 **23** Purchases and Stores Department — System
-
-
 
 Purchasing and Stores — Atlantic Region
 
@@ -2771,46 +3403,42 @@ Regional Manager — Materials
 
 
 
+
 **24** Purchasing and Stores — St. Lawrence Region
-
-
 
 Purchasing Agent
 
 
 
 Regional Manager — Materials
+
 
 
 
 **25** Purchasing and Stores — Great Lakes Region
 
-
-
 Purchasing Agent
 
 
 
 Regional Manager — Materials
+
 
 
 
 **26** Purchasing and Stores — Prairie Region
 
-
-
 Purchasing Agent
 
 
 
 Regional Manager — Materials
+
 
 
 
 **27** Purchasing and Stores — Mountain Region
 
-
-
 Purchasing Agent
 
 
@@ -2819,9 +3447,8 @@ Regional Manager — Materials
 
 
 
+
 **28** Main Equipment Shops — Montreal, Quebec
-
-
 
 General Works Manager
 
@@ -2836,13 +3463,12 @@ Assistant Works Manager — Car
 
 
 Assistant Works Manager — Motive Power
+
 
 
 
 **29** Main Equipment Shops — Winnipeg, Manitoba
 
-
-
 General Works Manager
 
 
@@ -2859,9 +3485,8 @@ Assistant Works Manager — Motive Power
 
 
 
+
 **30** Accounting
-
-
 
 System
 
@@ -2879,16 +3504,15 @@ Regional Comptroller
 
 
 
+
+
 **PART III** 
 ## Via Rail Canada Inc.
 
 
 ### Industrial Establishments
 
-
 **1** Corporate Headquarters
-
-
 
 2 Place Ville-Marie
 
@@ -2946,9 +3570,8 @@ Equipment Maintenance
 
 
 
+
 **2** VIA Quebec (includes Ottawa, Ontario)
-
-
 
 Public Affairs
 
@@ -2971,13 +3594,12 @@ Customer Services
 
 
 Transportation (including Running Trades)
+
 
 
 
 **3** VIA Atlantic — Nova Scotia, New Brunswick and Prince Edward Island
 
-
-
 Public Affairs
 
 
@@ -2999,13 +3621,12 @@ Customer Services
 
 
 Transportation (including Running Trades)
+
 
 
 
 **4** VIA Ontario (excludes Ottawa, Ontario)
 
-
-
 Public Affairs
 
 
@@ -3027,13 +3648,12 @@ Customer Services
 
 
 Transportation (including Running Trades)
+
 
 
 
 **5** VIA West — Thunder Bay and West of Thunder Bay
 
-
-
 Public Affairs
 
 
@@ -3058,9 +3678,8 @@ Transportation (including Running Trades)
 
 
 
+
 **6** Maintenance — Halifax
-
-
 
 Halifax Maintenance Centre
 
@@ -3074,9 +3693,8 @@ Line points — Gaspé and Matapedia
 
 
 
+
 **7** Maintenance — Montreal
-
-
 
 Montreal Maintenance Centre
 
@@ -3090,9 +3708,8 @@ Line points — Mont-Joli, Quebec City and Ottawa
 
 
 
+
 **8** Maintenance — Toronto
-
-
 
 Toronto Maintenance Centre
 
@@ -3106,9 +3723,8 @@ Line points — Windsor, Sarnia, London and Union Station
 
 
 
+
 **9** Maintenance — Winnipeg
-
-
 
 Winnipeg Maintenance Centre
 
@@ -3122,9 +3738,8 @@ Line points — The Pas, Manitoba and Churchill, Manitoba
 
 
 
+
 **10** Maintenance — Vancouver
-
-
 
 Vancouver Maintenance Centre
 
@@ -3138,16 +3753,15 @@ Line points — Prince Rupert, British Columbia and Jasper, Alberta
 
 
 
+
+
 **PART IV** 
 ## Air Canada
 
 
 ### Industrial Establishments
 
-
 **1** Corporate Headquarters
-
-
 
 Chairman
 
@@ -3197,60 +3811,47 @@ Administrative Support Staff
 
 
 
-**2** Finance
 
+**2** Finance
 
 
 **3** Marketing and Sales
 
 
-
 **4** In-Flight Service
-
 
 
 **5** Flight Operations
 
 
-
 **6** Information Services
-
 
 
 **7** Sales & Service; Cargo — Eastern Region (Quebec and East, including Ottawa)
 
 
-
 **8** Sales & Service; Cargo — Central Region (Ontario up to Thunder Bay)
-
 
 
 **9** Sales & Service; Cargo — Western Region (Thunder Bay and West)
 
 
-
 **10** Sales & Service/Passenger — Eastern Region (Quebec and East including Ottawa)
-
 
 
 **11** Sales & Service/Passenger — Central Region (Ontario up to Thunder Bay)
 
 
-
 **12** Sales & Service/Passenger — Western Region (Thunder Bay and West)
-
 
 
 **13** Maintenance — Montreal, Halifax, Quebec City, Ottawa
 
 
-
 **14** Maintenance — Toronto
 
 
-
 **15** Maintenance — Winnipeg
-
 
 
 **16** Maintenance — Vancouver, Calgary, Edmonton
@@ -3263,10 +3864,7 @@ Administrative Support Staff
 
 ### Industrial Establishments
 
-
 **1** Corporate Headquarters
-
-
 
 Group Vice-President and Vice-Presidents — Operations
 
@@ -3300,68 +3898,53 @@ Administrative Support Staff
 
 
 
-**2** Information Services
 
+**2** Information Services
 
 
 **3** Cargo Sales and Service
 
 
-
 **4** Finance and Accounting
-
 
 
 **5** Flight Operations
 
 
-
 **6** Purchasing and Facilities
-
 
 
 **7** Customer Services — Western Region (Thunder Bay and West)
 
 
-
 **8** Customer Services — Central Region (Ontario up to Thunder Bay)
-
 
 
 **9** Customer Services — Eastern Region (Quebec and East)
 
 
-
 **10** Maintenance — Quebec and Atlantic Provinces
-
 
 
 **11** Maintenance — Ontario
 
 
-
 **12** Maintenance — Alberta, Saskatchewan, Manitoba, Yukon, Northwest Territories and Nunavut
-
 
 
 **13** Maintenance — British Columbia
 
 
-
 **14** In-flight Service — Western Canada (Thunder Bay and West)
-
 
 
 **15** In-flight Service — Eastern Canada (East up to Thunder Bay)
 
 
-
 **16** Human Resources and Administrative Services
 
 
-
 **17** System Operations Control Centre
-
 
 
 **18** Marketing and Sales
@@ -3374,454 +3957,848 @@ Administrative Support Staff
 
 ### Industrial Establishments
 
+**1** Bell Canada
 
-**1** Quebec region East — West — North
+Ontario Region
 
 
 
-Area codes 418/819
+Centre – Area Code 416 (Toronto Excluded)
 
 
 
-Craft and Services
+Craft Employees (CEP)
 
 
 
-**2** Quebec region East — West — North
 
+**2** Bell Canada
 
+Ontario Region
 
-Area codes 418/819
 
 
+Centre – Area Code 416 (Toronto Excluded)
 
-Clerical and Associated
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-**3** Quebec region East — West — North
 
 
 
-Area codes 418/819
+**3** Bell Canada
 
+Ontario Region
 
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
+Centre – Area Code 416 (Toronto Excluded)
 
 
-**4** Quebec region South
 
+Management Employees
 
 
-Area code 514 (Montreal excluded)
 
 
+**4** Bell Canada
 
-Craft and Services
+Ontario Region
 
 
 
-**5** Quebec region South
+Metro Toronto – Area Code 416
 
 
 
-Area code 514 (Montreal excluded)
+Craft Employees (CEP)
 
 
 
-Clerical and Associated
 
+**5** Bell Canada
 
+Ontario Region
 
-**6** Quebec region South
 
 
+Metro Toronto – Area Code 416
 
-Area code 514 (Montreal excluded)
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
 
 
-**7** Quebec region South
+**6** Bell Canada
 
+Ontario Region
 
 
-Corporate Groups
 
+Metro Toronto – Area Code 416
 
 
-Area code 514 (City of Montreal)
 
+Management Employees
 
 
-Clerical and Associated
 
 
+**7** Bell Canada
 
-**8** Quebec region South
+Ontario Region
 
 
 
-Corporate Groups
+South West – Area Code 519
 
 
 
-Area code 514 (City of Montreal)
+Craft Employees (CEP)
 
 
 
-Craft and Services, Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
+**8** Bell Canada
 
+Ontario Region
 
-**9** Quebec region South
 
 
+South West – Area Code 519
 
-Bell Quebec
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-Area code 514 (City of Montreal)
 
 
 
-Craft and Services
+**9** Bell Canada
 
+Ontario Region
 
 
-**10** Quebec region South
 
+South West – Area Code 519
 
 
-Bell Quebec
 
+Management Employees
 
 
-Area code 514 (City of Montreal)
 
 
+**10** Bell Canada
 
-Clerical and Associated
+Ontario Region
 
 
 
-**11** Quebec region South
+East – Area Code 613
 
 
 
-Bell Quebec
+Craft Employees (CEP)
 
 
 
-Area code 514 (City of Montreal)
 
+**11** Bell Canada
 
+Ontario Region
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
 
+East – Area Code 613
 
-**12** Ontario region Southwest
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-Area code 519
 
 
 
-Craft and Services
+**12** Bell Canada
 
+Ontario Region
 
 
-**13** Ontario region Southwest
 
+East – Area Code 613
 
 
-Area code 519
 
+Management Employees
 
 
-Clerical and Associated
 
 
+**13** Bell Canada
 
-**14** Ontario region Southwest
+Ontario Region
 
 
 
-Area code 519
+North – Area Codes 705 & 807
 
 
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
+Craft Employees (CEP)
 
 
 
-**15** Ontario Region East
 
+**14** Bell Canada
 
+Ontario Region
 
-Corporate Groups
 
 
+North – Area Codes 705 & 807
 
-Area code 613
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-All employees
 
 
 
-**16** Ontario region East
+**15** Bell Canada
 
+Ontario Region
 
 
-Bell Ontario
 
+North – Area Codes 705 & 807
 
 
-Area code 613
 
+Management Employees
 
 
-Craft and Services
 
 
+**16** Bell Canada
 
-**17** Ontario region East
+Ontario Region
 
 
 
-Bell Ontario
+Centre – Area Code 905
 
 
 
-Area code 613
+Craft Employees (CEP)
 
 
 
-Clerical and Associated
 
+**17** Bell Canada
 
+Ontario Region
 
-**18** Ontario region East
 
 
+Centre – Area Code 905
 
-Bell Ontario
 
 
+Clerical & Associated Employees and Sales (CTEA)
 
-Area code 613
 
 
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
+**18** Bell Canada
 
+Ontario Region
 
 
-**19** Ontario region Centre
 
+Centre – Area Code 905
 
 
-Area code 905
 
+Management Employees
 
 
-Craft and Services
 
 
+**19** Bell Canada
 
-**20** Ontario region Centre
+Ontario Region (Quebec — Operational Groups)
 
 
 
-Area code 905
+All Area Codes
 
 
 
-Clerical and Associated
+Craft & Operator Services Employees (CEP)
 
 
 
-**21** Ontario region Centre
+Clerical & Associated Employees and Sales (CTEA)
 
 
 
-Area code 905
+Management Employees
 
 
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
+**20** Corporate Centre
 
+Ontario Region
 
-**22** Ontario region North
 
 
+Centre – Area Code 416 (Toronto Included)
 
-Area codes 807/705
 
 
+Craft Employees (CEP)
 
-Craft and Services
 
 
+Clerical & Associated Employees (CTEA)
 
-**23** Ontario region North
 
 
+Management Employees
 
-Area codes 807/705
 
 
 
-Clerical and Associated, Operator Services and Dining Service, Communications Sales, and non-unionized employees
+**21** Corporate Centre
 
+Ontario Region
 
 
-**24** Ontario region Metro
 
+South West, East and Centre – Area Codes 519, 613 & 905
 
 
-Corporate
 
+Clerical & Associated Employees (CTEA)
 
 
-Area code 416
 
+Management Employees
 
 
-Clerical and Associated, Craft and Services
 
 
+**22** Network Operations
 
-**25** Ontario region Metro
+Ontario Region
 
 
 
-Corporate
+Centre – Area Code 416 (Toronto Included)
 
 
 
-Area code 416
+Craft Employees (CEP)
 
 
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
+**23** Network Operations
 
+Ontario Region
 
-**26** Ontario region Metro
 
 
+Centre – Area Code 416 (Toronto Included)
 
-Bell Ontario
 
 
+Clerical & Associated Employees (CTEA)
 
-Area code 416 (Toronto excluded)
 
 
 
-Craft and Services
+**24** Network Operations
 
+Ontario Region
 
 
-**27** Ontario region Metro
 
+Centre – Area Code 416 (Toronto Included)
 
 
-Bell Ontario
 
+Management Employees
 
 
-Area code 416 (Toronto excluded)
 
 
+**25** Network Operations
 
-Clerical and Associated
+Ontario Region
 
 
 
-**28** Ontario region Metro
+South West – Area Code 519
 
 
 
-Bell Ontario
+Craft Employees (CEP)
 
 
 
-Area code 416 (Toronto excluded)
 
+**26** Network Operations
 
+Ontario Region
 
-Operator Services and Dining Service, Communications Sales, and non-unionized employees
 
 
+South West – Area Code 519
 
-**29** Ontario region Metro
 
 
+Clerical & Associated Employees (CTEA)
 
-Bell Ontario
 
 
 
-Area code 416 (City of Toronto)
+**27** Network Operations
 
+Ontario Region
 
 
-Craft and Services
 
+South West – Area Code 519
 
 
-**30** Ontario region Metro
 
+Management Employees
 
 
-Bell Ontario
 
 
+**28** Network Operations
 
-Area code 416 (City of Toronto)
+Ontario Region
 
 
 
-Clerical and Associated
+North – Area Codes 705 & 807
 
 
 
-**31** Ontario region Metro
+Craft Employees (CEP)
 
 
 
-Bell Ontario
+Clerical & Associated Employees (CTEA)
 
 
 
-Area code 416 (City of Toronto)
+Management Employees
 
 
 
-Operator Services and Dining Service, Communications Sales and non-unionized employees
 
+**29** Network Operations
 
->  SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2.
+Ontario Region
+
+
+
+East – Area Code 613
+
+
+
+Craft Employees (CEP)
+
+
+
+
+**30** Network Operations
+
+Ontario Region
+
+
+
+East – Area Code 613
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+
+**31** Network Operations
+
+Ontario Region
+
+
+
+East – Area Code 613
+
+
+
+Management Employees
+
+
+
+
+**32** Network Operations
+
+Ontario Region
+
+
+
+Centre – Area Code 905
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**33** Bell Canada
+
+Quebec Region (Ontario — Operational Groups)
+
+
+
+All Area Codes
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**34** Bell Canada
+
+Quebec Region
+
+
+
+East – West – North – Area Codes 819 & 418
+
+
+
+Craft Employees (CEP)
+
+
+
+
+**35** Bell Canada
+
+Quebec Region
+
+
+
+East – West – North – Area Codes 819 & 418
+
+
+
+Clerical & Associated Employees and Sales (CTEA)
+
+
+
+
+**36** Bell Canada
+
+Quebec Region
+
+
+
+East – West – North – Area Codes 819 & 418
+
+
+
+Management Employees
+
+
+
+
+**37** Bell Canada
+
+Quebec Region
+
+
+
+Metro (Montreal Excluded) – Area Code 450
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**38** Bell Canada
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Craft & Operator Services Employees (CEP)
+
+
+
+
+**39** Bell Canada
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Clerical & Associated Employees and Sales (CTEA)
+
+
+
+
+**40** Bell Canada
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Management Employees
+
+
+
+
+**41** Corporate Centre
+
+Quebec Region
+
+
+
+All Area Codes
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical Employees (CTEA)
+
+
+
+
+**42** Corporate Centre
+
+Quebec Region
+
+
+
+All Area Codes
+
+
+
+Management Employees
+
+
+
+
+**43** Network Operations
+
+Quebec Region
+
+
+
+East – West – North – Area Codes 819 & 418
+
+
+
+Craft Employees (CEP)
+
+
+
+
+**44** Network Operations
+
+Quebec Region
+
+
+
+East – West – North – Area Codes 819 & 418
+
+
+
+Clerical Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**45** Network Operations
+
+Quebec Region
+
+
+
+Metro (Montreal Excluded) – Area Code 450
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**46** Network Operations
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Craft Employees (CEP)
+
+
+
+
+**47** Network Operations
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+
+**48** Network Operations
+
+Quebec Region
+
+
+
+Montreal – Area Code 514
+
+
+
+Management Employees
+
+
+
+
+**49** Bell Canada
+
+Western Region
+
+
+
+Calgary
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+**50** Bell Canada
+
+Western Region
+
+
+
+Vancouver
+
+
+
+Craft Employees (CEP)
+
+
+
+Clerical & Associated Employees (CTEA)
+
+
+
+Management Employees
+
+
+
+
+> SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2; SOR/2006-231, ss. 3, 4.
 
 
 
 
 ### **SCHEDULE II** 
 **(Subsection 25(2))**
-## Notice Relating to the Canada Labour Code— Part III
+## Notice Related to the Canada Labour Code — Part III
 Part III of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) contains provisions setting out minimum labour standards for employers and employees in the federal jurisdiction.
 
 
@@ -3831,38 +4808,50 @@ These provisions include standards relating to the following:
 <table>
 <tr>
 <td>**Hours of work**</td>
+<td></td>
 <td>**Minimum wages**</td>
 </tr>
 <tr>
 <td>**General holidays**</td>
+<td></td>
 <td>**Annual vacations**</td>
 </tr>
 <tr>
 <td>**Multi-employer employment**</td>
+<td></td>
 <td>**Equal wages**</td>
 </tr>
 <tr>
 <td>**Maternity leave**</td>
+<td></td>
 <td>**Parental leave**</td>
 </tr>
 <tr>
 <td>**Maternity-related reassignment and leave**</td>
+<td></td>
 <td>**Work-related illness and injury**</td>
 </tr>
 <tr>
 <td>**Sick leave**</td>
+<td></td>
 <td>**Bereavement leave**</td>
 </tr>
 <tr>
+<td>**Compassionate care leave**</td>
+</tr>
+<tr>
 <td>**Group termination of employment**</td>
+<td></td>
 <td>**Individual termination of employment**</td>
 </tr>
 <tr>
 <td>**Severance pay**</td>
+<td></td>
 <td>**Unjust dismissal**</td>
 </tr>
 <tr>
 <td>**Sexual harassment**</td>
+<td></td>
 <td>**Garnishment of wages**</td>
 </tr>
 <tr>
@@ -3870,31 +4859,13 @@ These provisions include standards relating to the following:
 </tr>
 </table>
 
-For more information concerning these provisions, contact your nearest district office listed in the blue pages of your telephone book under
-
-
-**Government of Canada**
-
-
-**Human Resources Development Canada**
-
-
-or write directly to the
-
-
-Director General
-
-
-Labour Standards and Equal Pay
-
-
-Ottawa, Ontario, K1A 0J2
+For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Human Resources and Skills Development or visit the Web site address: http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
 
 
 All inquiries will be treated confidentially.
 
 
->  SOR/91-461, s. 36; SOR/94-668, s. 14.
+> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5.
 
 
 
