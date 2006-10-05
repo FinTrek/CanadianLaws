@@ -38782,12 +38782,32 @@ and if unpurified anterior pituitary extract
 
 **C.08.004.1** 
 
-- **(1)** Where a manufacturer files a new drug submission, an abbreviated new drug submission, a supplement to a new drug submission or a supplement to an abbreviated new drug submission for the purpose of establishing the safety and effectiveness of the new drug for which the submission or supplement is filed, and the Minister examines any information or material filed with the Minister, in a new drug submission, by the innovator of a drug that contains a chemical or biological substance not previously approved for sale in Canada as a drug, and the Minister, in support of the manufacturer’s submission or supplement, relies on data contained in the information or material filed by the innovator, the Minister shall not issue a notice of compliance in respect of that submission or supplement earlier than five years after the date of issuance to the innovator of the notice of compliance or approval to market that drug, as the case may be, issued on the basis of the information or material filed by the innovator for that drug.
+- **(1)** The following definitions apply in this section.
 
-- **(2)** Subsection (1) does not apply where the manufacturer of a new drug for which a notice of compliance was issued pursuant to section C.08.004 gives written permission to another manufacturer to rely on the test or other data filed in respect of that new drug.
+***innovative drug*** means a drug that contains a medicinal ingredient not previously approved in a drug by the Minister and that is not a variation of a previously approved medicinal ingredient such as a salt, ester, enantiomer, solvate or polymorph. (*drogue innovante*)
 
-- **(3)** Subsection (1) does not apply where the data relied upon by the Minister was contained in information or material filed by the innovator before January 1, 1994. 
-> SOR/95-411, s. 6.
+***pediatric populations*** means the following groups: premature babies born before the 37th week of gestation; full-term babies from 0 to 27 days of age; and all children from 28 days to 2 years of age, 2 years plus 1 day to 11 years of age and 11 years plus 1 day to 18 years of age. (*population pédiatrique*)
+
+- **(2)** This section applies to the implementation of Article 1711 of the North American Free Trade Agreement, as defined in the definition ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md), and of paragraph 3 of Article 39 of the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the World Trade Organization Agreement, as defined in the definition ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+
+- **(3)** If a manufacturer seeks a notice of compliance for a new drug on the basis of a direct or indirect comparison between the new drug and an innovative drug,
+	- **(a)** the manufacturer may not file a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission in respect of the new drug before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug; and
+	- **(b)** the Minister shall not approve that submission or supplement and shall not issue a notice of compliance in respect of the new drug before the end of a period of eight years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug.
+
+- **(4)** The period specified in paragraph (3)(b) is lengthened to eight years and six months if
+	- **(a)** the innovator provides the Minister with the description and results of clinical trials relating to the use of the innovative drug in relevant pediatric populations in its first new drug submission for the innovative drug or in any supplement to that submission that is filed within five years after the issuance of the first notice of compliance for that innovative drug; and
+	- **(b)** before the end of a period of six years after the day on which the first notice of compliance was issued to the innovator in respect of the innovative drug, the Minister determines that the clinical trials were designed and conducted for the purpose of increasing knowledge of the use of the innovative drug in those pediatric populations and this knowledge would there-by provide a health benefit to members of those populations.
+
+- **(5)** Subsection (3) does not apply if the innovative drug is not being marketed in Canada.
+
+- **(6)** Paragraph (3)(a) does not apply to a subsequent manufacturer if the innovator consents to the filing of a new drug submission, a supplement to a new drug submission, an abbreviated new drug submission or a supplement to an abbreviated new drug submission by the subsequent manufacturer before the end of the period of six years specified in that paragraph.
+
+- **(7)** Paragraph (3)(a) does not apply to a subsequent manufacturer if the manufacturer files an application for authorization to sell its new drug under section C.07.003.
+
+- **(8)** Paragraph (3)(b) does not apply to a subsequent manufacturer if the innovator consents to the issuance of a notice of compliance to the subsequent manufacturer before the end of the period of eight years specified in that paragraph or of eight years and six months specified in subsection (4).
+
+- **(9)** The Minister shall maintain a register of innovative drugs that includes information relating to the matters specified in subsections (3) and (4).
+> SOR/95-411, s. 6; SOR/2006-241, s. 1.
 
 
 
