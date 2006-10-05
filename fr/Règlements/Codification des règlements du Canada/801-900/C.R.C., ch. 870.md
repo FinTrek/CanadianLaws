@@ -41304,12 +41304,32 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.08.004.1** 
 
-- **(1)** Lorsque le fabricant dépose une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l'une de ces présentations en vue de faire déterminer l'innocuité et l'efficacité de la drogue nouvelle qui en est l'objet, et que le ministre examine les renseignements et le matériel présentés, dans une présentation de drogue nouvelle, par l'innovateur d'une drogue contenant une substance chimique ou biologique dont la vente comme drogue n'a pas été préalablement approuvée au Canada et s'appuie sur les données y figurant pour étayer la présentation ou le supplément du fabricant, il ne peut délivrer un avis de conformité à l'égard de cette présentation ou de ce supplément avant l'expiration du délai de cinq ans suivant la date à laquelle est délivré à l'innovateur l'avis de conformité ou l'approbation de commercialiser cette drogue, selon le cas, d'après les renseignements ou le matériel présentés par lui pour cette drogue.
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-- **(2)** Le paragraphe (1) ne s'applique pas lorsque le fabricant d'une drogue nouvelle pour laquelle un avis de conformité a été délivré aux termes de l'article C.08.004 autorise par écrit un autre fabricant à se fonder sur les résultats d'essais ou d'autres données présentés au sujet de la drogue nouvelle.
+***drogue innovante*** S’entend de toute drogue qui contient un ingrédient médicinal non déjà approuvé dans une drogue par le ministre et qui ne constitue pas une variante d’un ingrédient médicinal déjà approuvé tel un changement de sel, d’ester, d’énantiomère, de solvate ou de polymorphe. (*innovative drug*)
 
-- **(3)** Le paragraphe (1) ne s'applique pas lorsque les données sur lesquelles le ministre s'appuie étaient contenues dans les renseignements et le matériel présentés par l'innovateur avant le 1<sup>er</sup> janvier 1994.
-> DORS/95-411, art. 6.
+***population pédiatrique*** S’entend de chacun des groupes suivants : les bébés prématurés nés avant la 37<sup>e</sup> semaine de gestation, les bébés menés à terme et âgés de 0 à 27 jours, tous les enfants âgés de 28 jours à deux ans, ceux âgés de deux ans et un jour à 11 ans et ceux âgés de 11 ans et un jour à 18 ans. (*pediatric populations*)
+
+- **(2)** Le présent article s’applique à la mise en œuvre de l’article 1711 de l’Accord de libre-échange nord-américain, au sens du terme ***Accord*** au paragraphe 2(1) de la Loi de mise en œuvre de l’Accord de libre-échange nord-américain, et du paragraphe 3 de l’article 39 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce figurant à l’annexe 1C de l’Accord sur l’Organisation mondiale du commerce, au sens du terme ***Accord*** au paragraphe 2(1) de la Loi de mise en œuvre de l’Accord sur l’Organisation mondiale du commerce.
+
+- **(3)** Lorsque le fabricant demande la délivrance d’un avis de conformité pour une drogue nouvelle sur la base d’une comparaison directe ou indirecte entre celle-ci et la drogue innovante :
+	- **a)** le fabricant ne peut déposer pour cette drogue nouvelle de présentation de drogue nouvelle, de présentation abrégée de drogue nouvelle ou de supplément à l’une de ces présentations avant l’expiration d’un délai de six ans suivant la date à laquelle le premier avis de conformité a été délivré à l’innovateur pour la drogue innovante;
+	- **b)** le ministre ne peut approuver une telle présentation ou un tel supplément et ne peut délivrer d’avis de conformité pour cette nouvelle drogue avant l’expiration d’un délai de huit ans suivant la date à laquelle le premier avis de conformité a été délivré à l’innovateur pour la drogue innovante.
+
+- **(4)** Le délai prévu à l’alinéa (3)b) est porté à huit ans et six mois si, à la fois :
+	- **a)** l’innovateur fournit au ministre la description et les résultats des essais cliniques concernant l’utilisation de la drogue innovante dans les populations pédiatriques concernées dans sa première présentation de drogue nouvelle à l’égard de la drogue innovante ou dans tout supplément à une telle présentation déposé au cours des cinq années suivant la délivrance du premier avis de conformité à l’égard de cette drogue innovante;
+	- **b)** le ministre conclut, avant l’expiration du délai de six ans qui suit la date à laquelle le premier avis de conformité a été délivré à l’innovateur pour la drogue innovante, que les essais cliniques ont été conçus et menés en vue d’élargir les connaissances sur l’utilisation de cette drogue dans les populations pédiatriques visées et que ces connaissances se traduiraient par des avantages pour la santé des membres de celles-ci.
+
+- **(5)** Le paragraphe (3) ne s’applique pas si la drogue innovante n’est pas commercialisée au Canada.
+
+- **(6)** L’alinéa (3)a) ne s’applique pas au fabricant ultérieur dans le cas où l’innovateur consent à ce qu’il dépose une présentation de drogue nouvelle, une présentation abrégée de drogue nouvelle ou un supplément à l’une de ces présentations avant l’expiration du délai de six ans prévu à cet alinéa.
+
+- **(7)** L’alinéa (3)a) ne s’applique pas au fabricant ultérieur s’il dépose une demande d’autorisation pour vendre cette drogue nouvelle aux termes de l’article C.07.003.
+
+- **(8)** L’alinéa (3)b) ne s’applique pas au fabricant ultérieur dans le cas où l’innovateur consent à ce que lui soit délivré un avis de conformité avant l’expiration du délai de huit ans prévu à cet alinéa ou de huit ans et six mois prévu au paragraphe (4).
+
+- **(9)** Le ministre tient un registre des drogues innovantes, lequel contient les renseignements relatifs à l’application des paragraphes (3) et (4).
+> DORS/95-411, art. 6; DORS/2006-241, art. 1.
 
 
 
