@@ -4303,7 +4303,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***combustible fossile*** Pétrole, gaz naturel ou hydrocarbures connexes, gaz de convertisseur basique à oxygène, gaz de haut fourneau, charbon, gaz de houille, coke, gaz de four à coke, lignite ou tourbe. (*fossil fuel*)
 
-***déchets de bois*** Sont compris parmi les déchets de bois les chutes, sciures, copeaux, écorces, branches, tronçons de bille et dosses, mais non les résidus (appelés ***liqueur noire***) provenant du traitement de la pâte de bois ni les déchets qui ne présentent plus les propriétés physiques ou chimiques du bois. (*wood waste*)
+***déchets de bois*** Sont compris parmi les déchets de bois les chutes, sciures, copeaux, écorces, branches, tronçons de bille et dosses, mais non la liqueur résiduaire ni les déchets qui ne présentent plus les propriétés physiques ou chimiques du bois. (*wood waste*)
 
 ***déchets municipaux*** La partie combustible de déchets (sauf les déchets qui sont considérés comme toxiques ou dangereux aux termes des lois fédérales ou provinciales) qui sont produits au Canada et acceptés à un site d’enfouissement admissible ou à une installation admissible de gestion des déchets et qui, une fois brûlés pour produire de l’énergie, ne dégagent que les fluides ou autres émissions qui sont conformes à la législation fédérale ou provinciale. (*municipal waste*)
 
@@ -4327,6 +4327,8 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***installation admissible de traitement des eaux usées*** Installation de traitement des eaux usées située au Canada et à l’égard de laquelle un permis ou une licence est délivré en vertu d’une loi fédérale ou provinciale. (*eligible sewage treatment facility*)
 
+***liqueur résiduaire*** Le sous-produit d’un processus chimique permettant de transformer le bois en pâte, qui est composé de résidus de bois et d’agents de trituration. (*spent pulping liquor*)
+
 ***matériel de distribution*** Matériel, sauf le matériel de transmission, qui sert à distribuer l’énergie électrique produite par du matériel générateur d’électricité. (*distribution equipment*)
 
 ***matériel de transmission*** Matériel, sauf les bâtiments, qui sert à transmettre plus de 75 pour cent de l’énergie électrique annuelle produite par du matériel générateur d’électricité. (*transmission equipment*)
@@ -4348,7 +4350,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1.
 
 
 
@@ -12655,18 +12657,18 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 
 **7305.1** Pour l’application du sous-alinéa (ii) de l’élément A de la formule figurant à l’alinéa 6(1)k) de la Loi, le montant prescrit pour une année d’imposition correspond au montant suivant :
-- **a)** 0,17 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
-- **b)** 0,20 $, dans les autres cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1.
+- **a)** 0,19 $, lorsque l’emploi d’un contribuable auprès d’une personne, au cours d’une année d’imposition, consiste principalement à vendre ou à louer des automobiles et que, au cours de l’année, cette personne ou une personne qui lui est liée met une automobile à la disposition du contribuable ou d’une personne qui lui est liée;
+- **b)** 0,22 $, dans les autres cas.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/95-244, art. 6; DORS/99-239, art. 1; DORS/2000-326, art. 1; DORS/2001-253, art. 1; DORS/2003-266, art. 1; DORS/2005-265, art. 1; DORS/2006-250, art. 1.
 
 
 
 
 **7306** Pour l’application de l’alinéa 18(1)r) de la Loi, le montant pour usage d’une ou de plusieurs automobiles par un particulier au cours d’une année d’imposition quant aux kilomètres parcourus au cours de l’année en vue de lui permettre de gagner un revenu correspond au total des montants suivants :
-- **a)** le produit de 0,39 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
+- **a)** le produit de 0,44 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
 - **b)** le produit de 0,06 $ par le nombre de kilomètres, jusqu’à concurrence de 5 000, parcourus au cours de l’année à cette fin;
 - **c)** le produit de 0,04 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2; DORS/2006-250, art. 2.
 
 
 
@@ -20262,7 +20264,7 @@ Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autre
 
 **(i)** un système, sauf un système à cycles combinés amélioré, qui, à la fois :
 
-**(A)** est utilisé par le contribuable ou par son preneur pour produire de l’énergie électrique, ou de l’énergie électrique et de l’énergie thermique, uniquement au moyen d’un ou de plusieurs des combustibles suivants : combustible fossile, déchets de bois, déchets municipaux, gaz d’enfouissement, gaz de digesteur ou bio-huile,
+**(A)** est utilisé par le contribuable ou par son preneur pour produire de l’énergie électrique, ou de l’énergie électrique et de l’énergie thermique, uniquement au moyen d’un ou de plusieurs des combustibles suivants : combustible fossile, déchets de bois, liqueur résiduaire, déchets municipaux, gaz d’enfouissement, gaz de digesteur ou bio-huile,
 
 
 
@@ -20493,7 +20495,7 @@ y compris le matériel d’échange thermique, les compresseurs servant à hauss
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2..
 
 
 
