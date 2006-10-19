@@ -1516,23 +1516,22 @@ and such lifeboats shall, together with additional equipment as described under 
 
 **17** 
 
-- **(1)** Subject to subsections (3) and (4), a Class V ship shall carry
+- **(1)** A Class V ship shall carry
 	- **(a)** if such ship is 45.7 m or over in length, on each side thereof one or more Class 2 lifeboats, each at least 4.9 m in length and each under davits, except that where carriage of lifeboats on each side is unreasonable or impracticable, they may be carried on one side only;
 	- **(b)** if such ship is 45.7 m but not more than 22.9 m in length, one or more Class 2 lifeboats, each of at least 2.12 m<sup>3</sup> capacity and each under davits;
 	- **(c)** if the ship is 22.9 m or under in length, where practicable, a suitable boat; and
 	- **(d)** where the capacity of the survival craft referred to in paragraph (a), (b) or (c) is insufficient to accommodate the complement, additional Class 2 lifeboats that have the appropriate capacities or life rafts or inflatable rescue platforms, to make up the deficiency.
 	- **(e) to (h)** [Repealed, SOR/96-218, s. 14]
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the accommodation capacity required under paragraph (1)(d) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
-- **(3)** A Class V ship that navigates in waters the temperature of which is 10°C or more may carry, instead of the survival craft referred to in subsection (1), one lifebuoy for every four members of the complement if the ship navigates
-	- **(a)** within 150 m of shore; or
-	- **(b)** in a depth of water not exceeding 1.5 m.
+- **(3)** A Class V ship that navigates in waters the temperature of which is 15°C or more may carry,
+	- **(a)** instead of the survival craft referred to in subsection (1), one lifebuoy for every four members of the complement if the ship navigates
+		- **(i)** within 150 m of shore, or
+		- **(ii)** in a depth of water not exceeding 1.5 m; or
+	- **(b)** instead of the survival craft referred to in paragraph (1)(d), enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough Class 2 lifeboats, life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
 
-- **(4)** Where, on April 27, 1996, a Class V ship carried buoyant apparatus, the ship may continue to carry that apparatus instead of the survival craft referred to in paragraph (1)(d) if
-	- **(a)** the ship is 20 m or less in length;
-	- **(b)** the ship navigates in waters the temperature of which is 10°C or more; and
-	- **(c)** the aggregate capacity of the survival craft carried is sufficient to accommodate the complement.
+- **(4)** [Repealed, SOR/2006-256, s. 1]
 
 - **(5)** A Class V ship shall carry
 	- **(a)** the following lifebuoys:
@@ -1553,7 +1552,7 @@ and such lifeboats shall, together with additional equipment as described under 
 		- **(ii)** muster stations, and
 		- **(iii)** embarkation stations; and
 	- **(b)** directions to the muster and embarkation stations.
-> SOR/80-685, s. 11; SOR/85-859, s. 1; SOR/96-218, s. 14; SOR/2001-179, s. 12; SOR/2004-26, s. 10.
+> SOR/80-685, s. 11; SOR/85-859, s. 1; SOR/96-218, s. 14; SOR/2001-179, s. 12; SOR/2004-26, s. 10; SOR/2006-256, s. 1.
 
 
 
@@ -1565,20 +1564,19 @@ and such lifeboats shall, together with additional equipment as described under 
 
 **18** 
 
-- **(1)** Subject to subsections (3) and (4), a Class VI ship shall carry the following survival craft:
+- **(1)** A Class VI ship shall carry
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the accommodation capacity required under paragraph (1)(a) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
-- **(3)** A Class VI ship that navigates in waters the temperature of which is 10°C or more may carry, instead of the survival craft referred to in paragraph (1)(a), one lifebuoy for every four members of the complement if the ship navigates
-	- **(a)** within 150 m of shore; or
-	- **(b)** in a depth of water not exceeding 1.5 m.
+- **(3)** A Class VI ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
+	- **(a)** one lifebuoy for every four members of the complement if the ship navigates
+		- **(i)** within 150 m of shore, or
+		- **(ii)** in a depth of water not exceeding 1.5 m; or
+	- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
 
-- **(4)** Where, on April 27, 1996, a Class VI ship carried buoyant apparatus, the ship may continue to carry that apparatus instead of the survival craft referred to in paragraph (1)(a) if
-	- **(a)** the ship is 20 m or less in length;
-	- **(b)** the ship navigates in waters the temperature of which is 10°C or more; and
-	- **(c)** the aggregate capacity of the survival craft carried is sufficient to accommodate the complement.
+- **(4)** [Repealed, SOR/2006-256, s. 2]
 
 - **(5)** A Class VI ship shall carry the following supply of lifejackets:
 	- **(a)** one for each member of the complement; and
@@ -1595,7 +1593,7 @@ and such lifeboats shall, together with additional equipment as described under 
 	- **(c)** two lifebuoys, one of which has a buoyant lifeline attached.
 
 - **(7)** A Class VI ship shall be provided with signs that indicate the location of life saving equipment that is not stowed in plain view.
-> SOR/96-218, s. 15; SOR/2001-179, s. 13; SOR/2004-26, s. 11.
+> SOR/96-218, s. 15; SOR/2001-179, s. 13; SOR/2004-26, s. 11; SOR/2006-256, s. 2.
 
 
 
@@ -1607,20 +1605,19 @@ and such lifeboats shall, together with additional equipment as described under 
 
 **19** 
 
-- **(1)** Subject to subsections (3) and (4), a Class VII ship shall carry
+- **(1)** A Class VII ship shall carry
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the accommodation capacity required under paragraph (1)(a) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
-- **(3)** A Class VII ship that navigates in waters the temperature of which is 10°C or more may carry, instead of the survival craft referred to in paragraph (1)(a), one lifebuoy for every four members of the complement if the ship navigates
-	- **(a)** within 150 m of shore; or
-	- **(b)** navigates in a depth of water not exceeding 1.5 m.
+- **(3)** A Class VII ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
+	- **(a)** one lifebuoy for every four members of the complement if the ship navigates
+		- **(i)** within 150 m of shore, or
+		- **(ii)** in a depth of water not exceeding 1.5 m; or
+	- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
 
-- **(4)** Where, on April 27, 1996, a Class VII ship carried buoyant apparatus, the ship may continue to carry that apparatus instead of the survival craft referred to in paragraph (1)(a) if
-	- **(a)** the ship is 20 m or less in length;
-	- **(b)** the ship navigates in waters the temperature of which is 10°C or more; and
-	- **(c)** the aggregate capacity of the survival craft carried is sufficient to accommodate the complement.
+- **(4)** [Repealed, SOR/2006-256, s. 3]
 
 - **(5)** A Class VII ship shall carry a suitable boat that is carried on board or towed.
 
@@ -1678,7 +1675,7 @@ and such lifeboats shall, together with additional equipment as described under 
 		- **(ii)** muster stations, and
 		- **(iii)** embarkation stations; and
 	- **(b)** directions to the muster and embarkation stations.
-> SOR/96-218, s. 15; SOR/2001-179, s. 14; SOR/2004-26, s. 12.
+> SOR/96-218, s. 15; SOR/2001-179, s. 14; SOR/2004-26, s. 12; SOR/2006-256, s. 3.
 
 
 
@@ -3025,20 +3022,22 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 **66** 
 
-- **(1)** Subject to section 67, a Class V ship shall carry
+- **(1)** A Class V ship shall carry
 	- **(a)** enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** unless the ship has a freeboard of less than 1.5 m or is fitted with a boarding platform, one emergency boat.
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the survival craft accommodation capacity required under paragraph (1)(a) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
-> SOR/96-218, s. 34.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity of the life rafts or inflatable rescue platforms may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+> SOR/96-218, s. 34; SOR/2006-256, s. 4.
 
 
 
 
-**67** A Class V ship that navigates in waters the temperature of which is 10°C or more may carry, instead of the survival craft referred to in subsection 66(1), one lifebuoy for every four members of the complement if the ship navigates
-- **(a)** within 150 m of shore;
-- **(b)** in a depth of water not exceeding 1.5 m.
-> SOR/96-218, s. 34; SOR/2001-179, s. 30.
+**67** A Class V ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in subsection 66(1),
+- **(a)** one lifebuoy for every four members of the complement if the ship navigates
+	- **(i)** within 150 m of shore, or
+	- **(ii)** in a depth of water not exceeding 1.5 m; or
+- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
+> SOR/96-218, s. 34; SOR/2001-179, s. 30; SOR/2006-256, s. 5.
 
 
 
@@ -3125,14 +3124,18 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 **72** 
 
-- **(1)** Subject to subsection (3), a Class VI ship shall carry
+- **(1)** A Class VI ship shall carry
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV, or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the survival craft accommodation capacity required under paragraph (1)(a) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
-- **(3)** A Class VI ship may carry, instead of the survival craft referred to in paragraph (1)(a), one lifebuoy for every four members of the complement if the ship operates within 150 m of shore or in a depth of water not exceeding 1.5 m.
-> SOR/96-218, s. 34.
+- **(3)** A Class VI ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
+	- **(a)** one lifebuoy for every four members of the complement if the ship operates
+		- **(i)** within 150 m of shore, or
+		- **(ii)** in a depth of water not exceeding 1.5 m; or
+	- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
+> SOR/96-218, s. 34; SOR/2006-256, s. 6.
 
 
 
@@ -3171,18 +3174,20 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 **76** 
 
-- **(1)** Subject to subsection (3), a Class VII ship shall carry
+- **(1)** A Class VII ship shall carry
 	- **(a)** where the ship is engaged on a home-trade voyage, Class IV or a minor waters voyage, Class II, enough life rafts or inflatable rescue platforms to accommodate the complement; and
 	- **(b)** where the ship is engaged on any other voyage, enough life rafts to accommodate the complement.
 
-- **(2)** Where the ship operates in waters the temperature of which is 10°C or more, the survival craft accommodation capacity required under paragraph (1)(a) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
+- **(2)** If a ship navigates in waters the temperature of which is 15°C or more, the requirement in respect of the accommodation capacity referred to in paragraph (1)(a) or (3)(b) may be met by counting not more than 33.33 per cent of the complement of the life raft or inflatable rescue platform as being in the water, holding on to the life raft or inflatable rescue platform.
 
-- **(3)** A Class VII ship that navigates in waters the temperature of which is 10°C or more may carry, instead of the survival craft referred to in paragraph (1)(a), one lifebuoy for every four members of the complement if the ship navigates
-	- **(a)** within 150 m of shore; or
-	- **(b)** in a depth of water not exceeding 1.5 m.
+- **(3)** A Class VII ship that navigates in waters the temperature of which is 15°C or more may carry, instead of the survival craft referred to in paragraph (1)(a),
+	- **(a)** one lifebuoy for every four members of the complement if the ship navigates
+		- **(i)** within 150 m of shore, or
+		- **(ii)** in a depth of water not exceeding 1.5 m; or
+	- **(b)** enough buoyant apparatus to accommodate not more than 40 per cent of the complement of the ship and enough life rafts or inflatable rescue platforms to accommodate that portion of the complement not accommodated by the buoyant apparatus.
 
 - **(4)** A Class VII ship shall have an emergency boat that is carried on board or towed.
-> SOR/96-218, s. 34; SOR/2001-179, s. 34.
+> SOR/96-218, s. 34; SOR/2001-179, s. 34; SOR/2006-256, s. 7.
 
 
 
@@ -3458,14 +3463,14 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 **95** 
 
 - **(1)** A Class X ship that is 85 m or under in length and is not a tanker shall carry
-	- **(a)** where the ship is engaged on a home-trade voyage, Class II, or an inland voyage, Class I, one rescue boat; and
-	- **(b)** in any other case, one emergency boat.
+	- **(a)** if the ship is engaged on a home-trade voyage, Class II, or an inland voyage, Class I, one rescue boat under a launching device; and
+	- **(b)** in any other case, one emergency boat under a launching device.
 
 - **(2)** A Class X ship that is over 85 m in length and is not a tanker shall carry
-	- **(a)** on each side of the ship, one rescue boat where the ship is engaged on a home-trade voyage, Class II;
-	- **(b)** one rescue boat where the ship is engaged on a home-trade voyage, Class III, or an inland voyage, Class I; and
-	- **(c)** one emergency boat where the ship is engaged on any other voyage.
-> SOR/96-218, s. 34.
+	- **(a)** on each side of the ship, one rescue boat under a launching device if the ship is engaged on a home-trade voyage, Class II;
+	- **(b)** one rescue boat under a launching device if the ship is engaged on a home-trade voyage, Class III, or an inland voyage, Class I; and
+	- **(c)** one emergency boat under a launching device if the ship is engaged on any other voyage.
+> SOR/96-218, s. 34; SOR/2006-256, s. 8.
 
 
 
@@ -3771,11 +3776,11 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 
 
-### Evacuation Plans
+### Evacuation Procedures
 
 
-**111** Every passenger ship shall have an evacuation plan that provides for the complement to be safely evacuated from the ship within 30 minutes after the abandon-ship signal is given.
-> SOR/96-218, s. 34.
+**111** Every passenger ship shall have an evacuation procedure for the safe evacuation of the complement from the ship within 30 minutes after the abandon-ship signal is given.
+> SOR/96-218, s. 34; SOR/2006-256, s. 9.
 
 
 
@@ -3995,8 +4000,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 </tr>
 <tr>
 <td>14</td>
-<td>Buoyant apparatus</td>
-<td>Subpart 160.010 of Title 46,Volume 6, of the Code of Federal Regulations of the United States</td>
+<td>[Repealed, SOR/2006-256, s. 10]</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4031,7 +4035,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 
 
 - **(2) and (3)** [Repealed, SOR/2001-179, s. 45]
-> SOR/96-218, s. 34; SOR/2001-179, s. 45; SOR/2002-122, ss. 3 to 6; SOR/2004-26, s. 27; SOR/2004-253, s. 3(F).
+> SOR/96-218, s. 34; SOR/2001-179, s. 45; SOR/2002-122, ss. 3 to 6; SOR/2004-26, s. 27; SOR/2004-253, s. 3(F); SOR/2006-256, s. 10.
 
 
 
@@ -4040,8 +4044,12 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 ### Buoyant Apparatus
 
 
-**122** The marking on the nameplate of a buoyant apparatus referred to in Subpart 160.010 of Title 46, Volume 6, of the Code of Federal Regulations of the United States shall be in English and French.
-> SOR/96-218, s. 34; SOR/2001-179, s. 46.
+**122** 
+
+- **(1)** Every buoyant apparatus carried on a ship shall bear a label of the United States Coast Guard indicating that the apparatus meets the requirements of subpart 160.010 of Title 46, Volume 6, of the Code of Federal Regulations of the United States.
+
+- **(2)** Every marking on a buoyant apparatus carried on a ship shall be in English and French.
+> SOR/96-218, s. 34; SOR/2001-179, s. 46; SOR/2006-256, s. 11.
 
 
 
@@ -4572,15 +4580,15 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <tr>
 <th>Item</th>
 <th>Equipment</th>
-<th>International voyages, foreign voyages, or home-trade voyages, Class I or II</th>
-<th>Home-trade voyages, Class III, or short international voyages that are not home-trade voyages, Class IV, or minor waters voyages, Class II</th>
-<th>Inland voyages, Class I</th>
-<th>Inland voyages, Class II, or minor waters voyages, Class I</th>
-<th>Short international voyages that are home-trade voyages, Class IV, or minor waters voyages, Class II</th>
-<th>Home-trade voyages, Class IV, or minor waters voyages, Class II</th>
+<th>International voyages, foreign voyages, or home-trade voyages, Class I or II</th>
+<th>Home-trade voyages, Class III, or short international voyages that are not home-trade voyages, Class IV, or minor waters voyages, Class II</th>
+<th>Inland voyages, Class I</th>
+<th>Inland voyages, Class II, or minor waters voyages, Class I</th>
+<th>Short international voyages that are home-trade voyages, Class IV, or minor waters voyages, Class I</th>
+<th>Home-trade voyages, Class IV, or minor waters voyages, Class II</th>
 </tr>
 <tr>
-<td>  1.</td>
+<td>1</td>
 <td>buoyant oars, unless the lifeboat is free-fall</td>
 <td>in accordance with subsection (2)</td>
 <td>in accordance with subsection (2)</td>
@@ -4590,7 +4598,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>in accordance with subsection (2)</td>
 </tr>
 <tr>
-<td>  2.</td>
+<td>2</td>
 <td>safety boat-hook</td>
 <td>2</td>
 <td>2</td>
@@ -4600,7 +4608,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>1</td>
 </tr>
 <tr>
-<td>  3.</td>
+<td>3</td>
 <td>buoyant bailer</td>
 <td>1</td>
 <td>1</td>
@@ -4610,7 +4618,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>1</td>
 </tr>
 <tr>
-<td>  4.</td>
+<td>4</td>
 <td>bucket</td>
 <td>2</td>
 <td>2</td>
@@ -4620,7 +4628,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>n/a</td>
 </tr>
 <tr>
-<td>  5.</td>
+<td>5</td>
 <td>survival manual</td>
 <td>1</td>
 <td>1</td>
@@ -4630,7 +4638,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>n/a</td>
 </tr>
 <tr>
-<td>  6.</td>
+<td>6</td>
 <td>compass</td>
 <td>1, in accordance with subsection (3)</td>
 <td>1, in accordance with subsection (3)</td>
@@ -4640,7 +4648,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>n/a</td>
 </tr>
 <tr>
-<td>  7.</td>
+<td>7</td>
 <td>sea anchor</td>
 <td>1, in accordance with subsection (4)</td>
 <td>1, in accordance with subsection (4)</td>
@@ -4650,7 +4658,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>n/a</td>
 </tr>
 <tr>
-<td>  8.</td>
+<td>8</td>
 <td>painter</td>
 <td>2, in accordance with subsection (5)</td>
 <td>2, in accordance with subsection (5)</td>
@@ -4660,7 +4668,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <td>2, in accordance with subsection (5)</td>
 </tr>
 <tr>
-<td>  9.</td>
+<td>9</td>
 <td>hatchet</td>
 <td>2</td>
 <td>2</td>
@@ -4920,7 +4928,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(a)** has a means of illumination; and
 	- **(b)** is fitted at the steering position.
 
-- **(4)** The sea anchor shall be fitted with a tripping line that provides a hand grip when wet and a shock-resistant hawser, and all three shall be strong enough to withstand all sea conditions.
+- **(4)** The sea anchor shall be fitted with a tripping line that can be firmly held when wet and a shock-resistant hawser, and all three shall be strong enough to withstand all sea conditions.
 
 - **(5)** The painters shall be
 	- **(a)** made from manila or any other fibre that has a breaking strength and weathering, stretching and gripping properties at least equivalent to manila;
@@ -4967,59 +4975,59 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <tr>
 <th>Item</th>
 <th>Equipment</th>
-<th>Voyages other than inland voyages, Class I</th>
-<th>Inland voyages, Class I</th>
+<th>Voyages other than inland voyages, Class I</th>
+<th>Inland voyages, Class I</th>
 </tr>
 <tr>
-<td>  1.</td>
+<td>1</td>
 <td>buoyant oars</td>
 <td>in accordance with subsection (3)</td>
 <td>in accordance with subsection (3)</td>
 </tr>
 <tr>
-<td>  2.</td>
+<td>2</td>
 <td>buoyant bailer</td>
 <td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td>  3.</td>
+<td>3</td>
 <td>compass</td>
 <td>1, in accordance with subsection (4)</td>
 <td>n/a</td>
 </tr>
 <tr>
-<td>  4.</td>
+<td>4</td>
 <td>sea anchor</td>
 <td>1, in accordance with subsection (5)</td>
 <td>1, in accordance with subsection (5)</td>
 </tr>
 <tr>
-<td>  5.</td>
+<td>5</td>
 <td>painter</td>
 <td>1 that is attached to a release device at the forward end of the rescue boat or approved boat</td>
 <td>1 that is attached to a release device at the forward end of the rescue boat or approved boat</td>
 </tr>
 <tr>
-<td>  6.</td>
+<td>6</td>
 <td>buoyant line</td>
 <td>1, in accordance with subsection (6)</td>
 <td>1, in accordance with subsection (6)</td>
 </tr>
 <tr>
-<td>  7.</td>
+<td>7</td>
 <td>watertight electric flashlight suitable for Morse signalling</td>
 <td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td>  8.</td>
+<td>8</td>
 <td>spare set of batteries and spare light bulb for item 7, in a watertight container</td>
 <td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td>  9.</td>
+<td>9</td>
 <td>whistle or equivalent sound signalling device</td>
 <td>1</td>
 <td>n/a</td>
@@ -5075,7 +5083,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 </table>
 
 
-- **(2)** The equipment set out in column I of the table to this subsection is the equipment required for a rescue boat or approved boat with inflatable compartments carried on a ship engaged on a voyage set out in the heading of the applicable column of columns II and III and shall be carried in the quantity and in conformity with the requirements set out in that applicable column.
+- **(2)** The equipment set out in column I of the table to this subsection is the equipment required, in addition to the equipment set out in column I of the table to subsection 2(1), for a rescue boat or approved boat with inflatable compartments carried on a ship engaged on a voyage set out in the heading of the applicable column of columns II and III and shall be carried in the quantity and in conformity with the requirements set out in that applicable column.
 #### TABLE
 <table>
 <tr>
@@ -5087,8 +5095,8 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 <tr>
 <th>Item</th>
 <th>Equipment</th>
-<th>Voyages other than inland voyages, Class I</th>
-<th>Inland voyages, Class I</th>
+<th>Voyages other than inland voyages, Class I</th>
+<th>Inland voyages, Class I</th>
 </tr>
 <tr>
 <td>1</td>
@@ -5211,7 +5219,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 	- **(d)** made of a rigid plastic that is capable of withstanding temperatures of -30°C, such as acrylonitrile butadienestyrene (ABS) or high-impact polystyrene (HIPS).
 
 
-> SOR/80-685, s. 21; SOR/96-218, s. 35; SOR/2001-179, ss. 51 to 55.
+> SOR/80-685, s. 21; SOR/96-218, s. 35; SOR/2001-179, ss. 51 to 55; SOR/2006-256, ss. 12(E), 13.
 
 
 
@@ -5270,7 +5278,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 **5** A distress signal and its appliances shall be considered as suitably waterproofed if they are capable of functioning properly after immersion in water for 1 minute.
 
 
-**6** The date on which a distress signal is manufactured and the lot number of the signal shall be permanently marked thereon.
+**6** Every distress signal shall be permanently marked with the month and year of manufacture, as well as its lot number.
 
 
 **7** The instructions for operating a distress signal shall be permanently marked thereon in both official languages or the signal shall carry a diagram clearly showing the manner of operation of the signal.
@@ -5279,7 +5287,7 @@ but where a non-passenger ship carries more than one lifeboat, one lifeboat may 
 **8** No distress signal shall be considered as meeting the requirements of this Schedule if four years or more have elapsed since the date of manufacture.
 
 
->  SOR/80-685, ss. 22 to 24; SOR/96-218, s. 36; SOR/2001-179, s. 56.
+> SOR/80-685, ss. 22 to 24; SOR/96-218, s. 36; SOR/2001-179, s. 56; SOR/2006-256, s. 14.
 
 
 
@@ -7265,8 +7273,12 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 
 **18** An emergency boat shall be capable of
 - **(a)** proceeding ahead at a speed of at least six knots when loaded with its full complement and equipment and with all of its engine-powered auxiliary equipment in operation;
-- **(b)** manoeuvring at any speed of up to six knots; and
-- **(c)** operating at its maximum speed for a period of at least four hours.
+- **(b)** manoeuvring at any speed of up to six knots;
+- **(c)** operating at its maximum speed for a period of at least four hours; and
+- **(d)** maintaining sufficient mobility and manoeuvrability in a seaway to enable
+	- **(i)** persons to be retrieved from the water,
+	- **(ii)** life rafts to be marshalled, and
+	- **(iii)** the towing, at a speed of at least two knots, of the largest life raft or inflatable rescue platform carried on the ship when loaded with its full complement and equipment.
 
 
 **19** Waterproof instructions, in English and French, for starting and operating the propulsion system of an emergency boat shall be provided and mounted in a conspicuous place near its motor starting controls.
@@ -7383,7 +7395,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 - **(2)** For the purpose of the test referred to in subsection (1), each member of the complement is assumed to have a mass of 75 kg.
 
 
->  SOR/80-685 ss. 65 to 77; SOR/96-218, s. 42; SOR/2001-179, s. 61; SOR/2004-253, ss. 7(F), 8(F), 9(E).
+> SOR/80-685 ss. 65 to 77; SOR/96-218, s. 42; SOR/2001-179, s. 61; SOR/2004-253, ss. 7(F), 8(F), 9(E); SOR/2006-256, s. 15.
 
 
 
@@ -8335,7 +8347,7 @@ where
 **19** An emergency boat is not required to be provided with a launching device if it can be readily lowered by the launching crew into the water without damage.
 
 
-> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F).
+> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F); SOR/2006-256, ss. 16(F), 17(F).
 
 
 
@@ -8532,7 +8544,7 @@ where
 
 ### Rigid Boats
 
-**5** Every rigid suitable boat and every rigid approved boat shall be constructed of wood, aluminum, steel or glass-reinforced plastic.
+**5** Every rigid suitable boat and every rigid approved boat shall be constructed of wood, aluminium, steel or fibrous glass-reinforced plastic.
 
 
 **6** Every rigid boat shall be
@@ -8624,7 +8636,7 @@ where
 - **(d)** his initials.
 
 
-> SOR/78-561, s. 5; SOR/78-815, ss. 1 to 3; SOR/80-685, ss. 104 to 107; SOR/81-430, s. 5; SOR/96-218, ss. 50 to 57; SOR/2001-179, ss. 71 to 75; SOR/2004-253, s. 13.
+> SOR/78-561, s. 5; SOR/78-815, ss. 1 to 3; SOR/80-685, ss. 104 to 107; SOR/81-430, s. 5; SOR/96-218, ss. 50 to 57; SOR/2001-179, ss. 71 to 75; SOR/2004-253, s. 13; SOR/2006-256, s. 18(E).
 
 
 
