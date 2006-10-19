@@ -1512,23 +1512,22 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 
 **17** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), le navire classe V doit avoir à bord :
+- **(1)** Le navire classe V doit avoir à bord :
 	- **a)** s’il a une longueur de 45,7 m ou plus, de chaque bord, une ou plusieurs embarcations de sauvetage classe 2, dont chacune aura une longueur d’au moins 4,9 m et sera placée sous des bossoirs, sauf que, s’il est déraisonnable ou pratiquement impossible d’avoir des embarcations de sauvetage des deux bords, ces embarcations pourront être placées d’un bord seulement;
 	- **b)** s’il a une longueur de moins de 45,7 m mais de plus de 22,9 m, une ou plusieurs embarcations de sauvetage classe 2, dont chacune aura une capacité d’au moins 2,12 m<sup>3</sup> et sera placée sous des bossoirs;
 	- **c)** s’il a 22,9 m ou moins de longueur, une embarcation appropriée, dans la mesure du possible;
 	- **d)** dans le cas où les bateaux de sauvetage visés aux alinéas a), b) ou c) ne peuvent pas recevoir tout le chargement en personnes, des embarcations de sauvetage classe 2 supplémentaires ayant la capacité appropriée ou des radeaux de sauvetage ou des plates-formes de sauvetage gonflables, pour compenser l’insuffisance.
 	- **e) à h)** [Abrogés, DORS/96-218, art. 14]
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)d), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil des radeaux de sauvetage ou des plates-formes de sauvetage gonflables, au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
 
-- **(3)** Au lieu des bateaux de sauvetage visés au paragraphe (1), le navire classe V qui navigue dans des eaux dont la température est de 10 °C ou plus peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si l’une des conditions suivantes est remplie :
-	- **a)** le navire navigue à 150 m ou moins de la terre ferme;
-	- **b)** le navire navigue dans des eaux dont la profondeur ne dépasse pas 1,5 m.
+- **(3)** Le navire classe V qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+	- **a)** au lieu des bateaux de sauvetage visés au paragraphe (1), des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes lorsque le navire navigue :
+		- **(i)** soit à 150 m ou moins de la terre ferme,
+		- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+	- **b)** au lieu des bateaux de sauvetage visés à l’alinéa (1)d), suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment d’embarcations de sauvetage classe 2, de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
 
-- **(4)** Lorsque, au 27 avril 1996, un navire classe V avait à bord des engins flottants, le navire peut conserver ces engins à bord au lieu des bateaux de sauvetage visés à l’alinéa (1)d) si les conditions suivantes sont réunies :
-	- **a)** le navire a 20 m ou moins de longueur;
-	- **b)** le navire navigue dans des eaux dont la température est de 10 °C ou plus;
-	- **c)** la capacité globale des bateaux de sauvetage à bord du navire est suffisante pour recevoir le chargement en personnes.
+- **(4)** [Abrogé, DORS/2006-256, art. 1]
 
 - **(5)** Le navire classe V doit avoir à bord :
 	- **a)** des bouées de sauvetage, comme suit :
@@ -1549,7 +1548,7 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 		- **(ii)** des postes de rassemblement,
 		- **(iii)** des postes d’embarquement;
 	- **b)** les instructions pour se rendre aux postes de rassemblement et d’embarquement.
-> DORS/80-685, art. 11; DORS/85-859, art. 1; DORS/96-218, art. 14; DORS/2001-179, art. 12; DORS/2004-26, art. 10.
+> DORS/80-685, art. 11; DORS/85-859, art. 1; DORS/96-218, art. 14; DORS/2001-179, art. 12; DORS/2004-26, art. 10; DORS/2006-256, art. 1.
 
 
 
@@ -1561,20 +1560,19 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 
 **18** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), le navire classe VI doit avoir à bord des bateaux de sauvetage, comme suit :
+- **(1)** Le navire classe VI doit avoir à bord :
 	- **a)** lorsque le navire effectue un voyage de cabotage, classe IV, ou un voyage en eaux secondaires, classe II, suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir le chargement en personnes;
 	- **b)** lorsque le navire effectue tout autre voyage, suffisamment de radeaux de sauvetage pour recevoir le chargement en personnes.
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)a), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée aux alinéas (1)a) ou (3)b), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
 
-- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VI qui navigue dans des eaux dont la température est de 10 °C ou plus peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si l’une des conditions suivantes est remplie :
-	- **a)** le navire navigue à 150 m ou moins de la terre ferme;
-	- **b)** le navire navigue dans des eaux dont la profondeur ne dépasse pas 1,5 m.
+- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VI qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+	- **a)** des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes lorsque le navire navigue :
+		- **(i)** soit à 150 m ou moins de la terre ferme,
+		- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+	- **b)** suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
 
-- **(4)** Lorsque, au 27 avril 1996, un navire classe VI avait à bord des engins flottants, le navire peut conserver ces engins à bord au lieu des bateaux de sauvetage visés à l’alinéa (1)a) si les conditions suivantes sont réunies :
-	- **a)** le navire a 20 m ou moins de longueur;
-	- **b)** le navire navigue dans des eaux dont la température est de 10 °C ou plus;
-	- **c)** la capacité globale des bateaux de sauvetage à bord du navire est suffisante pour recevoir le chargement en personnes.
+- **(4)** [Abrogé, DORS/2006-256, art. 2]
 
 - **(5)** Le navire classe VI doit avoir à bord des gilets de sauvetage, comme suit :
 	- **a)** un gilet pour chaque membre du chargement en personnes;
@@ -1591,7 +1589,7 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 	- **c)** deux bouées de sauvetage dont une est munie d’une ligne de sauvetage flottante.
 
 - **(7)** Le navire classe VI doit être pourvu de panneaux indiquant l’emplacement de l’équipement de sauvetage qui est rangé hors de la portée de la vue.
-> DORS/96-218, art. 15; DORS/2001-179, art. 13; DORS/2004-26, art. 11.
+> DORS/96-218, art. 15; DORS/2001-179, art. 13; DORS/2004-26, art. 11; DORS/2006-256, art. 2.
 
 
 
@@ -1603,20 +1601,19 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 
 **19** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), le navire classe VII doit avoir à bord :
+- **(1)** Le navire classe VII doit avoir à bord :
 	- **a)** lorsqu’il effectue un voyage de cabotage, classe IV, ou un voyage en eaux secondaires, classe II, suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir le chargement en personnes;
 	- **b)** lorsqu’il effectue tout autre voyage, suffisamment de radeaux de sauvetage pour recevoir le chargement en personnes.
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)a), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée aux alinéas (1)a) ou (3)b), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
 
-- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VII qui navigue dans des eaux dont la température est de 10 °C ou plus peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si l’une des conditions suivantes est remplie :
-	- **a)** le navire navigue à 150 m ou moins de la terre ferme;
-	- **b)** le navire navigue dans des eaux dont la profondeur ne dépasse pas 1,5 m.
+- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VII qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+	- **a)** des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes lorsque le navire navigue :
+		- **(i)** soit à 150 m ou moins de la terre ferme,
+		- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+	- **b)** suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
 
-- **(4)** Lorsque, au 27 avril 1996, un navire classe VII avait à bord des engins flottants, le navire peut conserver ces engins à bord au lieu des bateaux de sauvetage visés à l’alinéa (1)a) si les conditions suivantes sont réunies :
-	- **a)** le navire a 20 m ou moins de longueur;
-	- **b)** le navire navigue dans des eaux dont la température est de 10 °C ou plus;
-	- **c)** la capacité globale des bateaux de sauvetage à bord du navire est suffisante pour recevoir le chargement en personnes.
+- **(4)** [Abrogé, DORS/2006-256, art. 3]
 
 - **(5)** Le navire classe VII doit avoir une embarcation appropriée soit à bord, soit à sa remorque.
 
@@ -1643,7 +1640,7 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 </tr>
 <tr>
 <td>2</td>
-<td>25 m ou plus mais moins de 50 m</td>
+<td>25 m ou plus mais moins de 50 m</td>
 <td>4</td>
 <td>2</td>
 </tr>
@@ -1674,7 +1671,7 @@ et que la capacité globale de ces embarcations et de l’équipement supplémen
 		- **(ii)** des postes de rassemblement,
 		- **(iii)** des postes d’embarquement;
 	- **b)** les instructions pour se rendre aux postes de rassemblement et d’embarquement.
-> DORS/96-218, art. 15; DORS/2001-179, art. 14; DORS/2004-26, art. 12.
+> DORS/96-218, art. 15; DORS/2001-179, art. 14; DORS/2004-26, art. 12; DORS/2006-256, art. 3.
 
 
 
@@ -3021,20 +3018,22 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 **66** 
 
-- **(1)** Sous réserve de l’article 67, le navire classe V doit avoir à bord :
+- **(1)** Le navire classe V doit avoir à bord :
 	- **a)** suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir le chargement en personnes;
 	- **b)** à moins qu’il n’ait un franc-bord inférieur à 1,5 m ou qu’il ne soit muni d’une plate-forme d’embarquement, une embarcation de secours.
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)a), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
-> DORS/96-218, art. 34.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil des radeaux de sauvetage ou des plates-formes de sauvetage gonflables, au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
+> DORS/96-218, art. 34; DORS/2006-256, art. 4.
 
 
 
 
-**67** Au lieu des bateaux de sauvetage visés au paragraphe 66(1), le navire classe V qui navigue dans des eaux dont la température est de 10 °C ou plus peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si l’une des conditions suivantes est remplie :
-- **a)** le navire navigue à 150 m ou moins de la terre ferme;
-- **b)** le navire navigue dans des eaux dont la profondeur ne dépasse pas 1,5 m.
-> DORS/96-218, art. 34; DORS/2001-179, art. 30.
+**67** Au lieu des bateaux de sauvetage visés au paragraphe 66(1), le navire classe V qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+- **a)** des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes lorsque le navire navigue :
+	- **(i)** soit à 150 m ou moins de la terre ferme,
+	- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+- **b)** suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
+> DORS/96-218, art. 34; DORS/2001-179, art. 30; DORS/2006-256, art. 5.
 
 
 
@@ -3121,14 +3120,18 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 **72** 
 
-- **(1)** Sous réserve du paragraphe (3), le navire classe VI doit avoir à bord :
+- **(1)** Le navire classe VI doit avoir à bord :
 	- **a)** s’il effectue un voyage de cabotage, classe IV, ou un voyage en eaux secondaires, classe II, suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir le chargement en personnes;
 	- **b)** si le navire effectue tout autre voyage, suffisamment de radeaux de sauvetage pour recevoir le chargement en personnes.
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)a), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée aux alinéas (1)a) ou (3)b), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
 
-- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VI peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si le navire navigue à 150 m ou moins de la terre ferme ou dans des eaux dont la profondeur ne dépasse pas 1,5 m.
-> DORS/96-218, art. 34.
+- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VI qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+	- **a)** des bouées de sauvetage à raison d’une pour quatre membres du chargement en personne lorsque le navire navigue :
+		- **(i)** soit à 150 m ou moins de la terre ferme,
+		- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+	- **b)** suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
+> DORS/96-218, art. 34; DORS/2006-256, art. 6.
 
 
 
@@ -3167,18 +3170,20 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 **76** 
 
-- **(1)** Sous réserve du paragraphe (3), le navire classe VII doit avoir à bord :
+- **(1)** Le navire classe VII doit avoir à bord :
 	- **a)** s’il effectue un voyage de cabotage, classe IV, ou un voyage en eaux secondaires, classe II, suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir le chargement en personnes;
 	- **b)** si le navire effectue tout autre voyage, suffisamment de radeaux de sauvetage pour recevoir le chargement en personnes.
 
-- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 10 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée à l’alinéa (1)a), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant agrippés au radeau ou à la plate-forme.
+- **(2)** Lorsque le navire navigue dans des eaux dont la température est de 15 °C ou plus, il est permis de compter, pour satisfaire à l’exigence relative à la capacité d’accueil visée aux alinéas (1)a) ou (3)b), au plus 33,33 pour cent des membres du chargement en personnes du radeau de sauvetage ou de la plate-forme de sauvetage gonflable comme étant dans l’eau, agrippés au radeau de sauvetage ou à la plate-forme de sauvetage gonflable.
 
-- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VII qui navigue dans des eaux dont la température est de 10 °C ou plus peut avoir à bord des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes si l’une des conditions suivantes est remplie :
-	- **a)** le navire navigue à 150 m ou moins de la terre ferme;
-	- **b)** le navire navigue dans des eaux dont la profondeur ne dépasse pas 1,5 m.
+- **(3)** Au lieu des bateaux de sauvetage visés à l’alinéa (1)a), le navire classe VII qui navigue dans des eaux dont la température est de 15 °C ou plus peut avoir à bord, selon le cas :
+	- **a)** des bouées de sauvetage à raison d’une pour quatre membres du chargement en personnes lorsque le navire navigue :
+		- **(i)** soit à 150 m ou moins de la terre ferme,
+		- **(ii)** soit dans des eaux dont la profondeur ne dépasse pas 1,5 m;
+	- **b)** suffisamment d’engins flottants pour recevoir au plus 40 pour cent du chargement en personnes du navire et suffisamment de radeaux de sauvetage ou de plates-formes de sauvetage gonflables pour recevoir la partie du chargement en personnes qui ne peut être reçue par les engins flottants.
 
 - **(4)** Le navire classe VII doit avoir une embarcation de secours soit à bord, soit à sa remorque.
-> DORS/96-218, art. 34; DORS/2001-179, art. 34.
+> DORS/96-218, art. 34; DORS/2001-179, art. 34; DORS/2006-256, art. 7.
 
 
 
@@ -3453,15 +3458,15 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 **95** 
 
-- **(1)** Le navire classe X qui a une longueur de 85 m ou moins et qui n’est pas un navire-citerne doit avoir à bord :
-	- **a)** dans le cas où le navire effectue un voyage de cabotage, classe II, ou un voyage en eaux intérieures, classe I, un canot de secours;
-	- **b)** dans les autres cas, une embarcation de secours.
+- **(1)** Le navire classe X qui a une longueur de 85 m ou moins et qui n’est pas un navire-citerne doit avoir à bord :
+	- **a)** dans le cas où le navire effectue un voyage de cabotage, classe II, ou un voyage en eaux intérieures, classe I, un canot de secours desservi par un dispositif de mise à l’eau;
+	- **b)** dans les autres cas, une embarcation de secours desservie par un dispositif de mise à l’eau.
 
-- **(2)** Le navire classe X qui a une longueur supérieure à 85 m et qui n’est pas un navire-citerne doit avoir :
-	- **a)** de chaque bord, un canot de secours, lorsqu’il effectue un voyage de cabotage, classe II;
-	- **b)** un canot de secours, lorsqu’il effectue un voyage de cabotage, classe III, ou un voyage en eaux intérieures, classe I;
-	- **c)** une embarcation de secours, lorsqu’il effectue tout autre voyage.
-> DORS/96-218, art. 34.
+- **(2)** Le navire classe X qui a une longueur supérieure à 85 m et qui n’est pas un navire-citerne doit avoir :
+	- **a)** de chaque bord, un canot de secours desservi par un dispositif de mise à l’eau, lorsqu’il effectue un voyage de cabotage, classe II;
+	- **b)** un canot de secours desservi par un dispositif de mise à l’eau, lorsqu’il effectue un voyage de cabotage, classe III, ou un voyage en eaux intérieures, classe I;
+	- **c)** une embarcation de secours desservie par un dispositif de mise à l’eau, lorsqu’il effectue tout autre voyage.
+> DORS/96-218, art. 34; DORS/2006-256, art. 8.
 
 
 
@@ -3767,11 +3772,11 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 
 
-### Plan d’évacuation
+### Marche à suivre pour l’évacuation
 
 
-**111** Tout navire à passagers doit avoir un plan d’évacuation qui prévoit des mesures permettant d’évacuer le chargement en personnes en toute sécurité dans un délai de 30 minutes à compter du moment où le signal d’abandon du navire est donné.
-> DORS/96-218, art. 34.
+**111** Tout navire à passagers doit avoir une marche à suivre pour l’évacuation du chargement en personnes en toute sécurité dans un délai de 30 minutes après le moment où le signal d’abandon du navire est donné.
+> DORS/96-218, art. 34; DORS/2006-256, art. 9.
 
 
 
@@ -3987,12 +3992,11 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 <tr>
 <td>13</td>
 <td>Gilets de sauvetage (navires ne ressortissant pas à la Convention de sécurité)</td>
-<td>Articles 3 à 7 de la norme 65-GP-14M intitulée Norme : Gilets de sauvetage à matériau insubmersible, type normalisé et publiée en septembre 1978 par l'Office des normes générales du Canada. </td>
+<td>Articles 3 à 7 de la norme 65-GP-14M intitulée Norme : Gilets de sauvetage à matériau insubmersible, type normalisé et publiée en septembre 1978 par l’Office des normes générales du Canada.</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Engins flottants</td>
-<td>Sous-partie 160.010 du Titre 46, Volume 6, du Code of Federal Regulations des États-Unis</td>
+<td>[Abrogé, DORS/2006-256, art. 10]</td>
 </tr>
 <tr>
 <td>15</td>
@@ -4027,7 +4031,7 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 
 
 - **(2) et (3)** [Abrogés, DORS/2001-179, art. 45]
-> DORS/96-218, art. 34; DORS/2001-179, art. 45; DORS/2002-122, art. 3 à 6; DORS/2004-26, art. 27; DORS/2004-253, art. 3(F).
+> DORS/96-218, art. 34; DORS/2001-179, art. 45; DORS/2002-122, art. 3 à 6; DORS/2004-26, art. 27; DORS/2004-253, art. 3(F); DORS/2006-256, art. 10.
 
 
 
@@ -4036,8 +4040,12 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 ### Engins flottants
 
 
-**122** Les inscriptions sur les plaques du fabricant des engins flottants visés à la sous-partie 160.010 du Titre 46, Volume 6, du Code of Federal Regulations des États-Unis doivent être en français et en anglais.
-> DORS/96-218, art. 34; DORS/2001-179, art. 46.
+**122** 
+
+- **(1)** Tout engin flottant à bord d’un navire doit porter une étiquette de la United States Coast Guard indiquant que l’engin est conforme aux exigences énoncées à la Sous-partie 160.010 du Titre 46, Volume 6, du Code of Federal Regulations des États-Unis.
+
+- **(2)** Toute inscription sur un engin flottant qui se trouve à bord du navire doit être en français et en anglais.
+> DORS/96-218, art. 34; DORS/2001-179, art. 46; DORS/2006-256, art. 11.
 
 
 
@@ -5071,7 +5079,7 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 </table>
 
 
-- **(2)** L’équipement prévu à la colonne I du tableau du présent paragraphe est celui qui est exigé pour un canot de secours ou une embarcation approuvée comportant des compartiments gonflables transporté à bord d’un navire effectuant un des voyages mentionnés dans les intertitres des colonnes II et III, selon la quantité et conformément aux exigences prévues à la colonne applicable.
+- **(2)** L’équipement prévu à la colonne I du tableau du présent paragraphe est celui qui est exigé, en plus de l’équipement qui figure à la colonne I du tableau du paragraphe 2(1), pour un canot de secours ou une embarcation approuvée comportant des compartiments gonflables transporté à bord d’un navire effectuant un des voyages mentionnés dans les intertitres des colonnes II et III, selon la quantité et conformément aux exigences prévues à la colonne applicable.
 #### TABLEAU
 <table>
 <tr>
@@ -5207,7 +5215,7 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 	- **d)** constitué de plastique rigide résistant à des températures allant jusqu’à -30 °C, tel que le copolymère d’acrylonitrile-styrène-butadiène (ABS) ou le polystyrène choc (HIPS).
 
 
-> DORS/80-685, art. 21; DORS/96-218, art. 35; DORS/2001-179, art. 51 à 55.
+> DORS/80-685, art. 21; DORS/96-218, art. 35; DORS/2001-179, art. 51 à 55; DORS/2006-256, art. 12(A) et 13.
 
 
 
@@ -5266,7 +5274,7 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 **5** Un signal de détresse et ses accessoires seront considérés convenablement imperméables s’ils peuvent fonctionner correctement après avoir été immergés dans l’eau pendant 1 minute.
 
 
-**6** La date de fabrication et le numéro de lot des signaux de détresse seront marqués en caractères indélébiles sur chaque signal.
+**6** Tout signal de détresse doit porter en permanence le mois et l’année de sa fabrication ainsi que son numéro de lot.
 
 
 **7** Chaque signal portera des instructions imprimées de façon indélébile en anglais et en français, ou un dessin schématique indiquant clairement comment faire fonctionner le signal.
@@ -5275,7 +5283,7 @@ toutefois, si un navire non à passagers a plus d’une embarcation de sauvetage
 **8** Aucun signal de détresse vieux de plus de quatre ans à compter de la date de sa fabrication, ne sera jugé conforme aux prescriptions de la présente annexe.
 
 
->  DORS/80-685, art. 22 à 24; DORS/96-218, art. 36; DORS/2001-179, art. 56.
+> DORS/80-685, art. 22 à 24; DORS/96-218, art. 36; DORS/2001-179, art. 56; DORS/2006-256, art. 14.
 
 
 
@@ -7246,7 +7254,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 
 - **(3)** Le moteur à bord ne doit pas fonctionner à l’essence.
 
-- **(4)** Le moteur qui ne fonctionne pas à l’essence doit utiliser du combustible ayant un point d’éclair supérieur à 43 °C, déterminé lors d’un essai en creuset fermé.
+- **(4)** Le moteur qui ne fonctionne pas à l’essence doit utiliser du combustible ayant un point d’éclair supérieur à 43 °C, déterminé lors d’un essai en creuset fermé.
 
 - **(5)** Si des batteries sont utilisées pour le démarrage du moteur, elles doivent être placées dans une enveloppe étanche à l’eau qui est :
 	- **a)** séparée du moteur;
@@ -7256,7 +7264,11 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 **18** L’embarcation de secours doit pouvoir :
 - **a)** faire une vitesse d’au moins six noeuds en marche avant lorsqu’elle a son plein chargement en personnes et en équipement et que tous les appareils auxiliaires branchés sur le moteur fonctionnent;
 - **b)** manoeuvrer à une vitesse quelconque allant jusqu’à six noeuds;
-- **c)** maintenir sa vitesse maximale pendant une durée de quatre heures au moins.
+- **c)** maintenir sa vitesse maximale pendant une durée de quatre heures au moins;
+- **d)** conserver une mobilité et une manœuvrabilité suffisantes sur houle pour permettre de :
+	- **(i)** récupérer une personne immergée,
+	- **(ii)** rassembler des radeaux de sauvetage,
+	- **(iii)** remorquer, à une vitesse d’au moins deux nœuds, le radeau de sauvetage le plus grand ou la plate-forme de sauvetage gonflable la plus grande que transporte le navire avec son plein chargement en personnes et en équipement.
 
 
 **19** Un feuillet d’instructions imperméable, en français et en anglais, concernant le démarrage et le fonctionnement du système de propulsion de l’embarcation de secours doit être fourni et affiché bien en évidence à proximité des commandes de démarrage du moteur.
@@ -7297,7 +7309,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 **23** Toute embarcation de secours gonflée doit :
 - **a)** avoir une résistance suffisante pour supporter une charge correspondant à deux fois sa masse totale :
 	- **(i)** avec son plein chargement en personnes et en équipement,
-	- **(ii)** à une température ambiante d’au moins 18 °C et d’au plus 22 °C,
+	- **(ii)** à une température ambiante d’au moins 18 °C et d’au plus 22 °C,
 	- **(iii)** avec toutes ses soupapes de sûreté fermées;
 - **b)** être pourvue de bandes de frottement sous le fond et aux points vulnérables à l’extérieur des compartiments flottants;
 - **c)** être pourvue de filières en guirlande à l’intérieur et à l’extérieur;
@@ -7310,7 +7322,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 - **c)** avec son équipement et avec son plein chargement en personnes, la moitié des membres du chargement en personnes sur un côté de la chambre à air principale et l’autre moitié, à une extrémité de la chambre à air principale.
 
 
-**25** Le tableau arrière installé dans une embarcation de secours gonflée ne doit pas être encastré de plus de 20 pour cent de la longueur hors tout de l'embarcation.
+**25** Le tableau arrière installé dans une embarcation de secours gonflée ne doit pas être encastré de plus de 20 pour cent de la longueur hors tout de l’embarcation.
 
 
 **26** Un plancher rigide doit être installé dans une embarcation de secours gonflée afin de jouer le rôle d’une plate-forme solide destinée à protéger la quille et le tissu qui peut former le fond de l’embarcation.
@@ -7322,7 +7334,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 	- **a)** être divisée en au moins trois compartiments flottants étanches à l’air, la capacité de chaque compartiment ne dépassant pas 40 pour cent de la capacité totale de la chambre à air principale;
 	- **b)** fournir un volume qui ne soit pas inférieur à 0,17 m<sup>3</sup> pour chaque membre du chargement en personnes.
 
-- **(2)** Les compartiments flottants de l'embarcation de secours gonflée doivent être disposés de telle façon que, si l'un des compartiments est endommagé, les compartiments intacts sont capables de soutenir le chargement en personnes, ces dernières étant assises dans la position normale aux endroits prévus et le franc-bord restant positif sur tout le pourtour de l'embarcation.
+- **(2)** Les compartiments flottants de l’embarcation de secours gonflée doivent être disposés de telle façon que, si l’un des compartiments est endommagé, les compartiments intacts sont capables de soutenir le chargement en personnes, ces dernières étant assises dans la position normale aux endroits prévus et le franc-bord restant positif sur tout le pourtour de l’embarcation.
 
 - **(3)** Si l’embarcation de secours gonflée est pourvue de plus d’une chambre à air principale, la capacité de l’une ou l’autre de ces chambres ne doit pas être supérieure à 60 pour cent de la capacité totale des chambres.
 
@@ -7373,7 +7385,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 - **(2)** Aux fins de l’essai mentionné au paragraphe (1), il est supposé que chaque membre du chargement en personnes a une masse de 75 kg.
 
 
->  DORS/80-685, art. 65 à 77; DORS/96-218, art. 42; DORS/2001-179, art. 61; DORS/2004-253, art. 7(F), 8(F) et 9(A).
+> DORS/80-685, art. 65 à 77; DORS/96-218, art. 42; DORS/2001-179, art. 61; DORS/2004-253, art. 7(F), 8(F) et 9(A); DORS/2006-256, art. 15.
 
 
 
@@ -8273,7 +8285,7 @@ où
 - **(1)** Le dispositif de mise à l’eau d’une embarcation de sauvetage doit pouvoir hisser l’embarcation de sauvetage avec son équipage.
 
 - **(2)** Le dispositif de mise à l’eau d’une embarcation de sauvetage doit être conçu pour être mis en fonctionnement :
-	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé dans l’embarcation de sauvetage;
+	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé seulement dans l’embarcation de sauvetage;
 	- **b)** dans tous les autres cas :
 		- **(i)** par une personne, depuis un emplacement situé sur le pont du navire,
 		- **(ii)** par une personne, depuis un emplacement situé dans l’embarcation de sauvetage.
@@ -8297,7 +8309,7 @@ où
 	- **b)** comporter un croc de dégagement de charge avec une commande marche-arrêt.
 
 - **(2)** Le dispositif de mise à l’eau d’un canot de secours doit être conçu pour être mis en fonctionnement :
-	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé dans le canot de secours;
+	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé seulement dans le canot de secours;
 	- **b)** dans tous les autres cas :
 		- **(i)** par une personne, depuis un emplacement situé sur le pont du navire,
 		- **(ii)** par une personne, depuis un emplacement situé dans le canot de secours.
@@ -8325,7 +8337,7 @@ où
 **19** L’embarcation de secours n’a pas à être munie d’un dispositif de mise à l’eau si elle peut être aisément abaissée par l’équipage de mise à l’eau sans subir de dommages.
 
 
-> DORS/80-685, art. 79 à 85; DORS/96-218, art. 43, 44(A) et 45; DORS/2001-179, art. 63 à 65; DORS/2004-253, art. 12(F).
+> DORS/80-685, art. 79 à 85; DORS/96-218, art. 43, 44(A) et 45; DORS/2001-179, art. 63 à 65; DORS/2004-253, art. 12(F); DORS/2006-256, art. 16(F) et 17(F).
 
 
 
@@ -8562,7 +8574,7 @@ où
 
 **13** 
 
-- **(1)** Dans le présent article, ***ONGC*** désigne l'Office des normes générales du Canada et ***ASTM*** désigne l'American Society for Testing and Materials.
+- **(1)** Dans le présent article, ***ONGC*** désigne l’Office des normes générales du Canada et ***ASTM*** désigne l’American Society for Testing and Materials.
 
 - **(2)** Les matériaux employés pour la construction des chambres à air d’une embarcation pneumatique doivent
 	- **a)** avoir une résistance à la rupture d’au moins 2 000 N, éprouvée selon la méthode 9.1 de la norme ONGC n<sup>o</sup> 4-GP-2, appliquée à une bande d’un pouce;
@@ -8614,7 +8626,7 @@ où
 - **d)** ses initiales.
 
 
-> DORS/78-561, art. 5; DORS/78-815, art. 1 à 3; DORS/80-685, art. 104 à 107; DORS/81-430, art. 5; DORS/96-218, art. 50 à 57; DORS/2001-179, art. 71 à 75; DORS/2004-253, art. 13.
+> DORS/78-561, art. 5; DORS/78-815, art. 1 à 3; DORS/80-685, art. 104 à 107; DORS/81-430, art. 5; DORS/96-218, art. 50 à 57; DORS/2001-179, art. 71 à 75; DORS/2004-253, art. 13; DORS/2006-256, art. 18(A).
 
 
 
