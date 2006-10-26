@@ -36,6 +36,20 @@ Enabling authorities:
 
 
 
+**2.1** In these Regulations and in those provisions of the Act that are adapted by these Regulations,
+
+***full-time employee*** means a person who is employed “full-time” within the meaning of subsection 3(2) of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md); (*employé à plein temps*)
+
+***full-time member*** means a member of the Force who is engaged to work the normal number of hours of work per week for members of the Force; (*membre à plein temps*)
+
+***part-time employee*** has the same meaning as in subsection 3(2) of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md); (*employé à temps partiel*)
+
+***part-time member*** means a member of the Force who is engaged to work on average not fewer than the number of hours of work per week set by subsection 5.2(1), but who is not a full-time member. (*membre à temps partiel*)
+> SOR/2006-134, s. 1.
+
+
+
+
 **3** For the purpose of the definition ***active service*** in subsection 3(1) of the Act,
 
 ***active service*** means full-time service as a member of
@@ -89,6 +103,207 @@ Enabling authorities:
 
 - **(4)** Notwithstanding subsection 39(3) of the Act, for the purposes of section 39 of the Act, the retirement year or retirement month of a person referred to in subsection (1) or (2) to whom, in respect of whom or in respect of whose service a pension is payable is the year or month, as the case may be, in which, pursuant to subsection (1) or (2), that person ceases to be required to contribute to the Superannuation Account.
 > SOR/98-531, s. 1.
+
+
+
+
+
+## Part-time Members
+
+
+
+### Number of Hours per Week
+
+
+**5.2** 
+
+- **(1)** For the purposes of subsection 5(10) of the Act, the number of hours per week is 12.
+
+- **(2)** For the purposes of clauses 6(b)(ii)(M) and (N) of the Act, the number of hours per week is that set out in the definition ***part-time employee*** in subsection 3(2) of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md).
+> SOR/2006-134, s. 2.
+
+
+
+
+
+### Weekly Average of the Hours of Work
+
+
+**5.3** For the purposes of the definition ***part-time member*** in section 2.1, and of sections 5.4, 5.8, 5.92 and 17.3, the weekly average of the hours of work for which a part-time member is engaged is
+- **(a)** if the member is engaged to work the same number of hours each week, the total of those hours; or
+- **(b)** if the member is not engaged to work the same number of hours each week, and
+	- **(i)** if the member works according to a regular work cycle, the total number of the assigned hours of work during the work cycle divided by the number of weeks in the cycle, or
+	- **(ii)** if the member does not work according to a regular work cycle, the total number of assigned hours of work during a 13 week period divided by 13.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+### Pay of a Part-time Member
+
+
+**5.4** For the purposes of these Regulations and Part I of the Act, the pay of a part-time member is the pay authorized to be paid to the member in respect of the weekly average of the hours of work for which the member is engaged.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+### Right to Elect for Part of a Period of Service
+
+
+**5.5** In respect of a contributor who has been a part-time member or a part-time employee, subsection 8(3) of the Act is adapted as follows:
+
+- **(3)** A contributor who has been a part-time member or a part-time employee and who is entitled to count a period of service as pensionable service under paragraph 6(b) or section 24, except the contributor who makes the election referred to in subsection 24(5), is entitled to elect to pay
+	- **(a)** for any part of that period during which the contributor was a part-time member or part-time employee; and
+	- **(b)** for any part of that period during which the contributor was a full-time member or full-time employee, starting with the most recent part.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+### Costing of Elective Service
+
+
+
+#### Service in the Canadian Forces, the Force and the Public Service
+
+
+**5.6** 
+
+- **(1)** In respect of a contributor who makes an election under clause 6(b)(ii)(C), (D), (E) or (G) of the Act, if the contributor was a part-time member on the most recent occasion on which the contributor became a contributor, the portion of paragraph 7(1)(e) of the Act before subparagraph (i) is adapted as follows:
+
+- **(e)** in respect of any period specified in clause 6(b)(ii)(C), (D), (E) or (G), if the contributor was a part-time member on the most recent occasion on which the contributor became a contributor, the amount that the contributor would have been required to contribute had the contributor, during that period, been required to contribute
+
+
+
+- **(2)** In respect of the same contributor, the portion of paragraph 7(1)(e) of the Act after subparagraph (v) is adapted as follows:
+
+in respect of pay equal to the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member on that occasion, or the pay determined in accordance with section 5.92 of the Royal Canadian Mounted Police Superannuation Regulations if the contributor was then engaged to work concurrently in more than one position, in each case together with interest;
+
+
+> SOR/2006-134, s. 2.
+
+
+
+
+**5.7** The amount to be paid under subsection 7(1) of the Act, by the contributor who makes an election under clause 6(b)(ii)(N) of the Act, shall be calculated at the rates referred to in subparagraphs 7(1)(e)(i) to (v) of the Act in respect of pay determined by the formula
+```
+A x B
+```
+where
+- **A** is
+- **(a)** if the contributor was a full-time member on the most recent occasion on which the contributor became a contributor, the pay authorized to be paid to the contributor on that occasion, or
+- **(b)** if the contributor was then a part-time member, the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member on that occasion, or, if the contributor was then engaged to work concurrently in more than one position, the pay determined in accordance with section 5.92; and
+- **B** is the aggregate of the amounts determined for each position in which the contributor was engaged as a part-time employee during the period of service or part of the period of service by the formula
+```
+C/D
+```
+where
+- **C** is the average number of hours per week, determined in accordance with section 6.2 of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md), for which the contributor was engaged to work, and
+- **D** is the number of hours of work per week for full-time employees.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+#### Election for Period of Leave Without Pay
+
+
+**5.8** Despite section 10.8, the amount to be paid under subsection 7(1) of the Act, by a contributor who makes an election under clause 6(b)(ii)(K) of the Act, and who was a part-time member during the period of service or part of the period of service or on the day of the election, shall be the amount that the contributor would have been required to pay under paragraph 10(1)(b), calculated in respect of pay determined by the formula
+```
+A x B
+```
+where
+- **A** is
+- **(a)** if the contributor was a full-time member on the day of the election, the pay authorized to be paid to the contributor at that time, or
+- **(b)** if the contributor was then a part-time member, the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at that time, or, if the contributor was then engaged to work concurrently in more than one position, the pay determined in accordance with section 5.92; and
+- **B** is the aggregate of the amounts determined for each position in which the contributor was engaged during the period of service or part of the period of service by the formula
+```
+C/D
+```
+where
+- **C** is the weekly average of the hours of work for which the contributor was engaged, and
+- **D** is the normal number of hours of work per week for full-time members.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+#### Election After the Time Prescribed
+
+
+**5.9** In respect of a contributor who makes an election under clause 6(b)(ii)(J) of the Act, and who was a part-time member during the period of service or part of the period of service or on the day of the election, paragraph 7(1)(h) of the Act is adapted as follows:
+
+- **(h)** in respect of any period referred to in clause 6(b)(ii)(J), if the contributor was a part-time member during the period of service or part of the period of service or on the day of the election and despite anything in this subsection, the amount that the contributor would have been required to pay, together with interest, if the contributor had elected within the time prescribed, calculated in respect of pay determined by the formula
+```
+A x B
+```
+where
+- **A** is
+- **(i)** if the contributor was a full-time member on the day of the election, the pay authorized to be paid to the contributor at that time, or
+- **(ii)** if the contributor was then a part-time member, the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at that time, or, if the contributor was then engaged to work concurrently in more than one position, the pay determined in accordance with section 5.92 of the Royal Canadian Mounted Police Superannuation Regulations, and
+- **B** is the aggregate of the amounts determined for each position in which the contributor was engaged during the period of service or part of the period of service by the formula
+```
+C/D
+```
+where
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged, and
+- **D** is the normal number of hours of work per week for full-time members; and
+
+
+> SOR/2006-134, s. 2.
+
+
+
+
+
+#### Transitional Provision for Part-time Public Service
+
+
+**5.91** The amount to be paid under subsection 7(1) of the Act by the contributor who makes an election under clause 6(b)(ii)(M) of the Act, as enacted by subsection 172(4) of the [Public Sector Pension Investment Board Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2034.md), being chapter 34 of the Statutes of Canada, 1999, shall be calculated at the rates referred to in subparagraphs 7(1)(e)(i) to (v) of the Act in respect of pay determined by the formula
+```
+A x B
+```
+where
+- **A** is
+- **(a)** if the contributor was a full-time member on the day before the day on which that clause comes into force, the pay authorized to be paid to the contributor at that time, or
+- **(b)** if the contributor was then a part-time member, the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at that time, or, if the contributor was then engaged to work concurrently in more than one position, the pay determined in accordance with section 5.92; and
+- **B** is the aggregate of the amounts determined, for each position in which the contributor was engaged as a part-time employee during the period of service or part of the period of service, by the formula
+```
+C/D
+```
+where
+- **C** is the average number of hours per week, determined in accordance with section 6.2 of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md), for which the contributor was engaged to work, and
+- **D** is the number of hours of work per week for full-time employees.
+> SOR/2006-134, s. 2.
+
+
+
+
+
+#### Determination of Pay for Multiple Positions
+
+
+**5.92** The pay of a part-time member engaged to work concurrently in more than one position on the most recent occasion on which the member became a contributor, or on the occasion of the day on which the member makes the election referred to in section 5.8 or paragraph 7(1)(h) of the Act as adapted by section 5.9, or on the occasion of the day before the day on which clause 6(b)(ii)(M) of the Act, as enacted by subsection 172(4) of the [Public Sector Pension Investment Board Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2034.md), being chapter 34 of the Statutes of Canada, 1999, comes into force if the member has made an election under that clause, shall be the aggregate of the amounts determined in respect of each position by the formula
+```
+A x B/C
+```
+where
+- **A** is the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member on that occasion;
+- **B** is the weekly average of the hours of work for which the contributor was engaged; and
+- **C** is the total of the weekly averages of the hours of work for which the contributor was engaged in all positions.
+> SOR/2006-134, s. 2.
+
+
+
+
+**5.93** The contributor shall pay interest, on the amount calculated under section 5.7, 5.8 or 5.91, determined in accordance with subsection 7(2) of the Act.
+> SOR/2006-134, s. 2.
 
 
 
@@ -148,7 +363,7 @@ Enabling authorities:
 ## Maximum Salary
 
 
-**8.1** For the purposes of paragraph 5(2)(c) of the Act, no person shall contribute to the Superannuation Account in respect of any portion of the person's annual rate of pay that is in excess of the amount determined by the formula
+**8.1** For the purposes of subsection 5(9) of the Act, no person shall contribute to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund in respect of any portion of the person’s annual rate of pay that is in excess of the amount determined by the formula
 ```
 (A – 0.013B) ÷ (0.02) + B
 ```
@@ -157,7 +372,7 @@ and rounded to the next highest multiple of $100, where
 - **(a)** in respect of pay received in 1995, $1,722.22, and
 - **(b)** in respect of pay received in any year after 1995, the amount of the defined benefit limit determined for that year pursuant to subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md); and
 - **B** is the Year's Maximum Pensionable Earnings for that year determined pursuant to section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
->  SOR/95-119, s. 1.
+>  SOR/95-119, s. 1; SOR/2006-134, s. 3.
 
 
 
@@ -249,11 +464,9 @@ as the contributor elects, the value of which, calculated as of the date of elec
 
 **10** 
 
-- **(1)** Subject to subsection 6.1(2) of the Act and to subsections (2) and (3), a contributor who is absent from the Force on leave without pay shall contribute to the Superannuation Account
-	- **(a)** in respect of the first three months of any such absence, the amount that would have been payable by that contributor pursuant to subsection 5(1) and section 36 of the Act had the contributor not been absent; and
-	- **(b)** in respect of any portion of the period of absence subsequent to the portion referred to in paragraph (a), the aggregate of
-		- **(i)** two and one-half times the amount that would have been payable by that contributor pursuant to subsection 5(1) of the Act had the contributor not been absent, and
-		- **(ii)** twice the amount that would have been payable by that contributor pursuant to section 36 of the Act had the contributor not been absent.
+- **(1)** Subject to subsections (2) and (3), the contribution that a contributor who is on leave without pay shall pay to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund is
+	- **(a)** in respect of the first three months of the leave, the amount that would have been payable under subsection 5(1), (2), (5), (6) or (7) of the Act if the contributor had not been on leave; and
+	- **(b)** subject to subsection 6.1(2) of the Act and in respect of the remainder of the leave, two and one-half times that amount.
 
 - **(2)** Subject to subsection 6.1(2) of the Act, where a contributor is absent from the Force on leave without pay
 	- **(a)** for a period not exceeding six consecutive days in respect of which the contributor would have received pay had the contributor not been absent, or
@@ -262,14 +475,14 @@ as the contributor elects, the value of which, calculated as of the date of elec
 		- **(ii)** because of illness or disability that renders the contributor unfit to pursue any gainful employment,
 		- **(iii)** because of the pregnancy of the contributor, or
 		- **(iv)** because of personal needs, where the leave of absence is for a period not exceeding three months and has been approved by the appropriate authority,
-the contributor shall contribute to the Superannuation Account in respect of that period of absence the amount that would have been payable pursuant to subsection 5(1) and section 36 of the Act had the contributor not been absent.
+the contribution that the contributor shall pay to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund in respect of the leave is the amount that would have been payable under subsection 5(1), (2), (5), (6) or (7) of the Act if the contributor had not been on leave.
 
 - **(3)** Subject to subsection 6.1(2) of the Act, where a contributor is absent from the Force on leave without pay
 	- **(a)** because of the birth of a child of the contributor,
 	- **(b)** in order to carry out parental responsibilities in respect of the acceptance of custody of a child for adoption, or
 	- **(c)** to provide a child of the contributor with care and custody,
-the contributor shall pay into the Superannuation Account, in respect of any portion of the period of absence that falls within the 52 week period following the day of birth of the child of the contributor or the day of adoption of the child by the contributor, as the case may be, the amount that the contributor would have had to pay pursuant to subsection 5(1) and section 36 of the Act had the contributor not been absent.
-> SOR/89-354, s. 1; SOR/93-219, s. 2; SOR/95-571, s. 3.
+the contribution that the contributor shall pay into the Superannuation Account or the Royal Canadian Mounted Police Pension Fund, in respect of any portion of the leave that falls within the 52 week period following the day of the birth of the child of the contributor or the day of adoption of the child by the contributor, is the amount that would have been payable under subsection 5(1), (2), (5), (6) or (7) of the Act if the contributor had not been on leave.
+> SOR/89-354, s. 1; SOR/93-219, s. 2; SOR/95-571, s. 3; SOR/2006-134, s. 4.
 
 
 
@@ -462,6 +675,140 @@ the contributor shall pay into the Superannuation Account, in respect of any por
 
 
 
+## Calculation of Benefits — Service as a Part-time Member or a Part-time Employee
+
+
+**17.1** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, the definition ***cash termination allowance*** in subsection 9(1) of the Act is adapted as follows:
+
+
+***cash termination allowance***, in respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, shall be equal to the aggregate of amounts calculated in accordance with the following formula for each segment of the period during which the value for variable “C” changes
+```
+(1/12 x A x B x C/D) – (E – F)
+```
+where
+- **A** is the number of years in the segment,
+- **B** is
+- **(a)** if the contributor was a full-time member on ceasing to be a member of the Force, the pay authorized to be paid to the contributor at that time, or
+- **(b)** if the contributor was then a part-time member, the pay determined in accordance with subsection 17.3(2) of the Royal Canadian Mounted Police Superannuation Regulations,
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment,
+- **D** is the normal number of hours of work per week for full-time members,
+- **E** is the total amount the contributor would have been required to contribute to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund during the segment, other than interest or charges for payments by instalments, in respect of service after 1965, if the contributor had contributed on the basis of the rates set forth in subsection 5(1) as it read on December 31, 1965, and
+- **F** is the total amount the contributor was required to contribute to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund during the segment, other than interest or charges for payments by instalments, in respect of service after 1965;
+
+
+> SOR/2006-134, s. 5.
+
+
+
+
+**17.2** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, subsections 10(1) to (3) of the Act are adapted as follows:
+**10** 
+
+- **(1)** The annuity of a contributor who has been a part-time member or part-time employee during the contributor’s period of pensionable service — not exceeding 35 years — shall be equal to the aggregate of amounts calculated in accordance with the following formula for each segment of the period during which the value for variable “C” changes:
+```
+A/50 x B x C/D
+```
+where
+- **A** is the number of years in the segment;
+- **B** is
+- **(a)** in respect of pensionable service credited to the contributor before December 16, 1994, the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, and
+- **(b)** in respect of pensionable service credited to the contributor after December 15, 1994, the lesser of
+- **(i)** the average annual pay referred to in paragraph (a), and
+- **(ii)** the amount determined under section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations as it read on the day on which the contributor most recently ceased to be a member of the Force;
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
+- **D** is the normal number of hours of work per week for full-time members.
+
+- **(2)** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, there shall be a deduction from the amount of the annuity, if the contributor has reached the age of 65 years or has become entitled to a disability pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a provincial pension plan, determined in accordance with the following formula for each segment of the period during which the value of variable “C” changes:
+```
+0.007 x A x B x C/D
+```
+where
+- **A** is the lesser of the number of years, credited to the contributor, in the segment after 1965 or after the contributor has attained the age of 18 years;
+- **B** is the lesser of
+- **(a)** the average annual pay referred to in paragraph (a) of variable “B” in subsection (1), and
+- **(b)** the average of the Year’s Maximum Pensionable Earnings, within the meaning of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for five years consisting of the year in which the contributor most recently ceased to be a member of the Force and the four preceding years;
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of the Royal Canadian Mounted Police Superannuation Regulations, for which the contributor was engaged during the segment; and
+- **D** is the normal number of hours of work per week for full-time members.
+
+
+> SOR/2006-134, s. 5.
+
+
+
+
+**17.3** 
+
+- **(1)** For the purposes of subsections 10(1) to (3) of the Act as adapted by section 17.2, the pay of the contributor shall be the pay authorized to be paid to the contributor if the contributor was a full-time member at the following times:
+	- **(a)** on the most recent occasion on which the contributor became a contributor, in the case of any period of service or part of a period of service referred to in clause 6(b)(ii)(C), (D), (E), (G) or (N) of the Act, despite paragraph 10(4)(a) of the Act;
+	- **(b)** on the day on which the contributor made the election, in the case of any period of service or part of a period of service referred to in clause 6(b)(ii)(K) of the Act, or referred to in clause 6(b)(ii)(C), (D), (E), (G), (I) or (N) of the Act in respect of which the contributor has made an election under clause 6(b)(ii)(J) of the Act, despite paragraph 10(4)(a) of the Act;
+	- **(c)** on the day before the day on which clause 6(b)(ii)(M) of the Act, as enacted by subsection 172(4) of the [Public Sector Pension Investment Board Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2034.md), being chapter 34 of the Statutes of Canada, 1999, comes into force, in the case of any period of service or part of a period of service referred to in that clause; or
+	- **(d)** during any other period of service or part of a period of service.
+
+- **(2)** If the contributor was a part-time member at those times, the pay shall be the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at those times, or if the contributor had then been engaged to work concurrently in more than one position, it shall be the aggregate of the amounts calculated for each position in accordance with the formula
+```
+A x B/C
+```
+where
+- **A** is the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at that time;
+- **B** is the weekly average of the hours of work for which the contributor was engaged; and
+- **C** is the total of the weekly averages of the hours of work for which the contributor was engaged in all positions.
+> SOR/2006-134, s. 5.
+
+
+
+
+**17.4** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, the portion of subsection 13(1) of the Act before paragraph (a) is adapted as follows:
+**13** 
+
+- **(1)** On the death of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service and who, at the time of the contributor’s death, was entitled under this Part to an annuity or annual allowance, the survivor and children of the contributor are entitled to the following allowances, calculated on the basis of a basic allowance determined in accordance with subsection (1.1):
+
+
+> SOR/2006-134, s. 5.
+
+
+
+
+**17.5** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, section 13 of the Act is adapted by adding the following after subsection (1):
+
+- **(1.1)** The basic allowance shall be equal to the aggregate of amounts calculated in accordance with the following formula for each segment of the contributor’s period of pensionable service during which the value for variable “C” changes:
+```
+A x B x C/D x 1%
+```
+where
+- **A** is the number of years of the segment;
+- **B** is
+- **(a)** in respect of pensionable service credited to the contributor before December 16, 1994, the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, and
+- **(b)** in respect of pensionable service credited to the contributor after December 15, 1994, the lesser of
+- **(i)** the average annual pay referred to in paragraph (a), and
+- **(ii)** the amount determined under section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations as it read on the day on which the contributor most recently ceased to be a member of the Force;
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
+- **D** is the normal number of hours of work per week for full-time members.
+> SOR/2006-134, s. 5.
+
+
+
+
+**17.6** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, paragraph 14(b) of the Act is adapted as follows:
+
+- **(b)** if a contributor was a part-time member or a part-time employee during the contributor’s period of pensionable service, the aggregate of amounts calculated in accordance with the following formula for each segment of the period during which the value for variable “C” changes
+```
+1/12 x A x B x C/D
+```
+where
+- **A** is the number of years of the segment,
+- **B** is
+- **(i)** if the contributor was a full-time member at the time of the contributor’s death, the pay authorized to be paid to the contributor at that time, or
+- **(ii)** if the contributor was then a part-time member, the pay determined in accordance with subsection 17.3(2) of the Royal Canadian Mounted Police Superannuation Regulations,
+- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment, and
+- **D** is the normal number of hours of work per week for full-time members,
+
+
+> SOR/2006-134, s. 5.
+
+
+
+
+
 ## Payments to Widow and Children
 
 
@@ -518,7 +865,7 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 
 
 
-## Limit on Child's Entitlement
+## Limit on Child’s Entitlement
 
 
 **20.1** Notwithstanding subsection 13(4) of the Act, the child of a contributor who dies after October 30, 1998 is not entitled to an annual allowance under section 13 of the Act unless, at the time of the contributor’s death, the child was dependent on the contributor for support.
@@ -528,7 +875,7 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 
 
 
-## Limit on Survivor's Benefits
+## Limit on Survivor’s Benefits
 
 
 **20.2** 
