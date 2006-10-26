@@ -36,6 +36,20 @@ Autorités habilitantes :
 
 
 
+**2.1** Les définitions ci-après s’appliquent au présent règlement et aux dispositions de la Loi qui sont adaptées par celui-ci.
+
+***employé à plein temps*** S’entend d’une personne employée à plein temps au sens du paragraphe 3(2) du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md). (*full-time employee*)
+
+***employé à temps partiel*** S’entend au sens du paragraphe 3(2) du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md). (*part-time employee*)
+
+***membre à plein temps*** Le membre de la Gendarmerie qui est engagé pour effectuer le nombre normal d’heures de travail par semaine des membres de la Gendarmerie. (*full-time member*)
+
+***membre à temps partiel*** Le membre de la Gendarmerie qui est engagé pour effectuer en moyenne un nombre d’heures de travail par semaine non inférieur à celui fixé au paragraphe 5.2(1), mais qui n’est pas membre à plein temps. (*part-time member*)
+> DORS/2006-134, art. 1.
+
+
+
+
 **3** Aux fins de la définition d’***activité de service*** au paragraphe 3(1) de la Loi,
 
 ***service actif*** signifie le service à plein temps à titre de membre
@@ -89,6 +103,220 @@ Autorités habilitantes :
 
 - **(4)** Malgré le paragraphe 39(3) de la Loi, l’année ou le mois de la retraite d’une personne visée aux paragraphes (1) ou (2) à ou pour laquelle, ou relativement au service de laquelle, une pension est payable est, pour l’application de l’article 39 de la Loi, l’année ou le mois, selon le cas, au cours desquels cette personne cesse, en application des paragraphes (1) ou (2), d’être astreinte à contribuer au compte de pension de retraite.
 > DORS/98-531, art. 1.
+
+
+
+
+
+## Membres à temps partiel
+
+
+
+### Nombre d’heures par semaine
+
+
+**5.2** 
+
+- **(1)** Pour l’application du paragraphe 5(10) de la Loi, le nombre d’heures par semaine est de douze.
+
+- **(2)** Pour l’application des divisions 6b)(ii)(M) et (N) de la Loi, le nombre d’heures par semaine est celui qui est prévu à la définition de ***employé à temps partiel*** au paragraphe 3(2) du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md).
+> DORS/2006-134, art. 2.
+
+
+
+
+
+### Moyenne hebdomadaire d’heures de travail
+
+
+**5.3** Pour l’application de la définition de ***membre à temps partiel*** à l’article 2.1 et des articles 5.4, 5.8, 5.92 et 17.3, la moyenne hebdomadaire des heures de travail pour lesquelles le membre à temps partiel est engagé est la suivante :
+- **a)** dans le cas où il est engagé pour travailler un nombre d’heures fixe par semaine, le total de ces heures;
+- **b)** dans le cas où il est engagé pour travailler un nombre d’heures qui varie d’une semaine à l’autre :
+	- **(i)** s’il travaille selon un cycle régulier, le nombre total d’heures de travail prédéterminées durant ce cycle, divisé par le nombre de semaines comprises dans le cycle,
+	- **(ii)** s’il ne travaille pas selon un cycle régulier, le nombre total d’heures de travail prédéterminées au cours d’une période de treize semaines, divisé par treize.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+### Solde du membre à temps partiel
+
+
+**5.4** Pour l’application du présent règlement et de la partie I de la Loi, la solde du membre à temps partiel correspond à celle qu’on est autorisé à lui payer à l’égard de la moyenne hebdomadaire des heures de travail pour lesquelles il est engagé.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+### Droit de choisir de payer à l’égard d’une fraction d’une période de service
+
+
+**5.5** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel, le paragraphe 8(3) de la Loi est adapté de la façon suivante :
+
+- **(3)** Le contributeur qui a été membre à temps partiel ou employé à temps partiel et qui a le droit, aux termes de l’alinéa 6b) ou de l’article 24, de compter une période de service comme service ouvrant droit à pension peut choisir, sauf s’il effectue le choix visé au paragraphe 24(5), de payer :
+	- **a)** pour toute fraction de celle-ci durant laquelle il était membre à temps partiel ou employé à temps partiel;
+	- **b)** pour toute fraction de celle-ci durant laquelle il était membre à plein temps ou employé à plein temps, en commençant par la plus récente.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+### Sommes à payer — service accompagné d’option
+
+
+
+#### Service dans les Forces canadiennes, la Gendarmerie et la fonction publique
+
+
+**5.6** 
+
+- **(1)** À l’égard du contributeur qui effectue un choix en vertu des divisions 6b)(ii)(C), (D), (E) ou (G) de la Loi et qui était membre à temps partiel la dernière fois qu’il est devenu contributeur, le passage de l’alinéa 7(1)e) de la Loi précédant le sous-alinéa (i) est adapté de la façon suivante :
+
+- **e)** relativement à toute période prévue aux divisions 6b)(ii)(C), (D), (E) ou (G), s’il était membre à temps partiel la dernière fois qu’il est devenu contributeur, la somme qu’il aurait été tenu de payer si, durant cette période, il avait été tenu de payer :
+
+
+
+- **(2)** À l’égard du même contributeur, le passage de l’alinéa 7(1)e) de la Loi suivant le sous-alinéa (v) est adapté de la façon suivante :
+
+en ce qui concerne soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada, accrue des intérêts dans chaque cas;
+
+
+> DORS/2006-134, art. 2.
+
+
+
+
+**5.7** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(N) de la Loi est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (v) de la Loi sur la solde établie selon la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+**a)** dans le cas où il était membre à plein temps la dernière fois qu’il est devenu contributeur, la solde qu’on était alors autorisé à lui payer,
+
+
+**b)** dans le cas où il était alors membre à temps partiel, soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92;
+
+
+- **B** le total des sommes calculées selon la formule ci-après pour chacun des postes qu’il a occupés à titre d’employé à temps partiel pendant la période de service, ou une fraction de celle-ci :
+```
+C/D
+```
+où :
+- **C** représente la moyenne du nombre d’heures hebdomadaires, établie conformément à l’article 6.2 du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md), pour lequel il était engagé,
+- **D** le nombre d’heures de travail par semaine des employés à plein temps.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+#### Choix relatif à une période de congé non payé
+
+
+**5.8** Malgré l’article 10.8, la somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(K) de la Loi et qui était membre à temps partiel soit durant la période de service ou une fraction de celle-ci, soit le jour où il a effectué le choix correspond à celle qu’il aurait été tenu de verser aux termes de l’alinéa 10(1)b) et est calculée sur la solde établie selon la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+**a)** dans le cas où il était membre à plein temps le jour où il a effectué le choix, la solde qu’on était alors autorisé à lui payer,
+
+
+**b)** dans le cas où il était alors membre à temps partiel, soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92;
+
+
+- **B** le total des sommes calculées selon la formule ci-après pour chacun des postes qu’il a occupés pendant la période de service, ou la fraction de celle-ci :
+```
+C/D
+```
+où :
+- **C** représente la moyenne hebdomadaire des heures de travail pour lesquelles il était engagé,
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+#### Choix après le délai imparti
+
+
+**5.9** À l’égard du contributeur qui effectue un choix en vertu de la division 6b)(ii)(J) de la Loi et qui était membre à temps partiel soit durant la période de service ou une fraction de celle-ci, soit le jour où il a effectué le choix, l’alinéa 7(1)h) de la Loi est adapté de la façon suivante :
+- **h** relativement à toute période visée à la division 6b)(ii)(J), s’il était membre à temps partiel soit durant la période de service ou une fraction de celle-ci, soit le jour où il a effectué le choix, et malgré toute autre disposition du présent paragraphe, la somme qu’il aurait été tenu de payer s’il avait fait le choix dans le délai imparti, accrue des intérêts, calculée sur la solde établie selon la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+**(i)** dans le cas où il était membre à plein temps le jour où il a effectué le choix, la solde qu’on était alors autorisé à lui payer,
+
+
+**(ii)** dans le cas où il était alors membre à temps partiel, soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada,
+
+
+- **B** le total des sommes calculées selon la formule ci-après pour chacun des postes qu’il a occupés pendant la période de service, ou la fraction de celle-ci :
+```
+C/D
+```
+où :
+- **C** représente la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles il était engagé,
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps;
+> DORS/2006-134, art. 2.
+
+
+
+
+
+#### Service dans la fonction publique — disposition transitoire
+
+
+**5.91** La somme qu’est tenu de payer, aux termes du paragraphe 7(1) de la Loi, le contributeur qui effectue un choix en vertu de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), est calculée aux taux visés aux sous-alinéas 7(1)e)(i) à (v) de la Loi sur la solde établie selon la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente :
+**a)** dans le cas où il était membre à plein temps la veille de l’entrée en vigueur de cette division, la solde qu’on était alors autorisé à lui payer,
+
+
+**b)** dans le cas où il était alors membre à temps partiel, soit la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps, soit, s’il occupait alors plus d’un poste à la fois, la solde établie selon l’article 5.92;
+
+
+- **B** le total des sommes calculées selon la formule ci-après pour chacun des postes qu’il a occupés à titre d’employé à temps partiel pendant la période de service, ou une fraction de celle-ci :
+```
+C/D
+```
+où :
+- **C** représente la moyenne du nombre d’heures hebdomadaires, établie conformément à l’article 6.2 du Règlement sur la pension de la fonction publique, pour lequel il était engagé,
+- **D** le nombre d’heures de travail par semaine des employés à plein temps.
+> DORS/2006-134, art. 2.
+
+
+
+
+
+#### Calcul de la solde — contributeur qui occupe plus d’un poste
+
+
+**5.92** La solde du membre à temps partiel occupant plus d’un poste à la fois soit la dernière fois qu’il est devenu contributeur, soit au moment où il effectue le choix visé à l’article 5.8 ou à l’alinéa 7(1)h) de la Loi dans sa version adaptée par l’article 5.9, soit encore la veille de l’entrée en vigueur de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), s’il effectue un choix en vertu de cette division correspond au total des sommes calculées, pour chacun des postes, selon la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps;
+- **B** la moyenne hebdomadaire des heures de travail pour lesquelles il était engagé;
+- **C** le total des moyennes hebdomadaires, pour tous ces postes, des heures de travail pour lesquelles il était engagé.
+> DORS/2006-134, art. 2.
+
+
+
+
+**5.93** Le contributeur paie des intérêts, établis conformément au paragraphe 7(2) de la Loi, sur la somme calculée selon les articles 5.7, 5.8 ou 5.91.
+> DORS/2006-134, art. 2.
 
 
 
@@ -148,7 +376,7 @@ Autorités habilitantes :
 ## Taux de solde annuel maximal
 
 
-**8.1** Pour l’application de l’alinéa 5(2)c) de la Loi, nulle personne ne peut contribuer au compte de pension de retraite à l’égard de la partie de son taux de solde annuel qui dépasse le montant déterminé selon la formule suivante, arrondi à la centaine supérieure :
+**8.1** Pour l’application du paragraphe 5(9) de la Loi, nul ne peut contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de la partie de son taux de solde annuel qui dépasse la somme déterminée selon la formule ci-après, arrondie à la centaine supérieure :
 ```
 (A – 0,013B) ÷ (0,02) + B
 ```
@@ -157,7 +385,7 @@ où :
 - **a)** à l’égard de la solde qu’elle a reçue pour l’année 1995, 1 722,22 $
 - **b)** à l’égard de la solde qu’elle a reçue pour toute année après 1995, le montant du plafond des prestations déterminées au sens du paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
 - **B** le montant du maximum des gains annuels ouvrant droit à pension de cette personne pour l’année en cause, déterminé conformément à l’article 18 du[Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)
-> DORS/95-119, art. 1.
+> DORS/95-119, art. 1; DORS/2006-134, art. 3.
 
 
 
@@ -249,13 +477,11 @@ selon le choix du contributeur, dont la valeur, calculée à partir de la date d
 
 **10** 
 
-- **(1)** Sous réserve du paragraphe 6.1(2) de la Loi et des paragraphes (2) et (3), le contributeur qui est absent de la Gendarmerie, en congé non payé, doit verser au compte de pension de retraite :
-	- **a)** pour les trois premiers mois de la période de congé, le montant qu’il aurait été tenu de verser en application du paragraphe 5(1) et de l’article 36 de la Loi s’il n’avait pas été en congé;
-	- **b)** pour le reliquat de la période de congé, la somme des montants suivants :
-		- **(i)** deux fois et demie le montant qu’il aurait été tenu de verser en application du paragraphe 5(1) de la Loi s’il n’avait pas été en congé,
-		- **(ii)** deux fois le montant qu’il aurait été tenu de verser en application de l’article 36 de la Loi s’il n’avait pas été en congé.
+- **(1)** Sous réserve des paragraphes (2) et (3), la contribution que le contributeur en congé non payé verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond :
+	- **a)** pour les trois premiers mois de la période de congé, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé;
+	- **b)** sous réserve du paragraphe 6.1(2) de la Loi, pour le reliquat de la période de congé, à deux fois et demie cette somme.
 
-- **(2)** Sous réserve du paragraphe 6.1(2) de la Loi, le contributeur qui est absent de la Gendarmerie, en congé non payé, dans les circonstances suivantes doit verser au compte de pension de retraite, à l’égard de la période de congé, le montant qu’il aurait été tenu de verser en application du paragraphe 5(1) et de l’article 36 de la Loi s’il n’avait pas été en congé :
+- **(2)** La contribution que le contributeur en congé non payé dans l’un des cas ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé :
 	- **a)** congé non payé d’une durée d’au plus six jours consécutifs pour laquelle il aurait été rémunéré s’il n’avait pas été en congé;
 	- **b)** congé non payé — dont le commissaire est convaincu des raisons — que le contributeur prend, selon le cas :
 		- **(i)** afin de recevoir un entraînement ou une formation dont la Gendarmerie profitera,
@@ -263,11 +489,11 @@ selon le choix du contributeur, dont la valeur, calculée à partir de la date d
 		- **(iii)** en raison de sa grossesse,
 		- **(iv)** pour des raisons d’ordre personnel, si le congé n’excède pas trois mois et a été approuvé par l’autorité compétente.
 
-- **(3)** Sous réserve du paragraphe 6.1(2) de la Loi, lorsque le contributeur est absent de la Gendarmerie, en congé non payé, pour l’une des raisons suivantes, il doit verser au compte de pension de retraite, à l’égard de toute partie de la période de congé comprise dans la période de 52 semaines suivant le jour de la naissance ou de l’adoption de l’enfant, le montant qu’il aurait été tenu de verser en application du paragraphe 5(1) et de l’article 36 de la Loi s’il n’avait pas été en congé :
+- **(3)** La contribution que le contributeur en congé non payé pour l’une des raisons ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de toute partie de la période de congé comprise dans la période de cinquante-deux semaines suivant le jour de la naissance ou de l’adoption de l’enfant correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme qu’il aurait été tenu de payer en application des paragraphes 5(1), (2), (5), (6) ou (7) de la Loi s’il n’avait pas été en congé :
 	- **a)** naissance de son enfant;
 	- **b)** responsabilités parentales à l’égard d’un enfant dont il a accepté la garde aux fins d’adoption;
 	- **c)** soin et garde de son enfant.
-> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3.
+> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3; DORS/2006-134, art. 4.
 
 
 
@@ -456,6 +682,140 @@ d’un membre de la Gendarmerie ou d’un fonctionnaire habituellement chargé d
 
 **17** Lorsqu’une annuité ou une prestation supplémentaire est versée au contributeur par suite de l’exercice d’une nouvelle option en application de l’article 14 et que le remboursement visé à l’alinéa 15c) le mettrait dans une situation financière difficile, celui-ci peut choisir d’effectuer le remboursement par des déductions mensuelles sensiblement égales représentant chacune au moins 10 pour cent du montant mensuel brut de l’annuité ou de la prestation supplémentaire.
 > DORS/95-571, art. 4.
+
+
+
+
+
+## Calcul des prestations — période de service à titre de membre à temps partiel ou d’employé à temps partiel
+
+
+**17.1** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, la définition de ***allocation de cessation en espèces*** au paragraphe 9(1) de la Loi est adaptée de la façon suivante :
+
+
+***allocation de cessation en espèces*** Dans le cas du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, le total des sommes calculées selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément C varie :
+```
+(1/12 x A x B x C/D) – (E – F)
+```
+où
+- **A** représente le nombre d’années comprises dans le segment;
+- **B** selon le cas :
+- **a)** dans le cas où il était membre à plein temps à la date où il a cessé d’être membre de la Gendarmerie, la solde qu’on était alors autorisé à lui payer,
+- **b)** dans le cas où il était alors membre à temps partiel, la solde établie selon le paragraphe 17.3(2) du Règlement sur la pension de retraite de la Gendarmerie royale du Canada;
+- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment;
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps;
+- **E** la somme totale que le contributeur aurait été tenu de verser au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada durant ce segment, à l’exception des intérêts ou des frais exigés pour des paiements échelonnés, relativement à du service postérieur à 1965, s’il avait contribué aux taux indiqués au paragraphe 5(1), dans sa version au 31 décembre 1965;
+- **F** la somme totale que le contributeur était tenu de verser au compte ou à la caisse durant ce segment, à l’exception des intérêts ou des frais exigés pour des paiements échelonnés, relativement à du service postérieur à 1965.
+
+
+> DORS/2006-134, art. 5.
+
+
+
+
+**17.2** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, les paragraphes 10(1) à (3) de la Loi sont adaptés de la façon suivante :
+**10** 
+
+- **(1)** L’annuité du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension — d’au plus trente-cinq ans — correspond au total des sommes calculées selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément C varie :
+```
+A/50 x B x C/D
+```
+où
+- **A** représente le nombre d’années comprises dans le segment;
+- **B** selon le cas :
+- **a)** à l’égard du service ouvrant droit à pension porté à son crédit avant le 16 décembre 1994, la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq,
+- **b)** à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, la moins élevée des sommes suivantes :
+- **(i)** la solde annuelle moyenne visée à l’alinéa a),
+- **(ii)** la somme déterminée aux termes de l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada dans sa version le jour où le contributeur a cessé la dernière fois d’être membre de la Gendarmerie;
+- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment;
+- **D** le nombre normal d’heures de travail par semaine des mem-bres à plein temps.
+
+- **(2)** L’annuité du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension et qui soit a atteint soixante-cinq ans, soit a droit à une pension d’invalidité aux termes du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions est réduite de la somme calculée selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément C varie :
+```
+0.007 x A x B x C/D
+```
+où :
+- **A** représente le nombre d’années comprises dans le segment, qui ont été portées à son crédit soit après 1965, soit après son dix-huitième anniversaire, le nombre le moins élevé étant à retenir;
+- **B** la moins élevée des sommes suivantes :
+- **a)** la solde annuelle moyenne visée à l’alinéa a) de l’élément B de la formule figurant au paragraphe (1),
+- **b)** la moyenne du maximum des gains annuels ouvrant droit à pension, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des cinq années constituées de l’année où il a cessé la dernière fois d’être membre de la Gendarmerie et des quatre années précédentes;
+- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada, pour lesquelles le contributeur était engagé durant ce segment;
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps.
+
+
+> DORS/2006-134, art. 5.
+
+
+
+
+**17.3** 
+
+- **(1)** Pour l’application des paragraphes 10(1) à (3) de la Loi dans leur version adaptée par l’article 17.2, la solde du contributeur est la solde qu’on était autorisé à lui payer, s’il était alors membre à plein temps :
+	- **a)** soit la dernière fois qu’il est devenu contributeur, dans le cas d’une période de service ou d’une fraction d’une période de service prévue aux divisions 6b)(ii)(C), (D), (E), (G) ou (N) de la Loi, malgré l’alinéa 10(4)a) de la Loi;
+	- **b)** soit le jour où il a effectué le choix, dans le cas d’une période de service ou d’une fraction d’une période de service prévue soit à la division 6b)(ii)(K) de la Loi, soit aux divisions 6b)(ii)(C), (D), (E), (G), (I) ou (N) de la Loi à l’égard de laquelle le contributeur a effectué un choix en vertu de la divi-sion 6b)(ii)(J) de la Loi, malgré l’alinéa 10(4)a) de la Loi;
+	- **c)** soit la veille de l’entrée en vigueur de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), dans le cas d’une période de service ou d’une fraction d’une période de service prévue à cette division;
+	- **d)** soit durant toute autre période de service ou fraction de période de service.
+
+- **(2)** S’il était alors membre à temps partiel, la solde est celle qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps ou, s’il occupait alors plus d’un poste à la fois, le total de la solde établie pour chacun des postes, selon la formule suivante :
+```
+A x B/C
+```
+où
+- **A** représente la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps;
+- **B** la moyenne hebdomadaire des heures de travail pour lesquelles il était engagé;
+- **C** le total des moyennes hebdomadaires, pour tous ces postes, des heures de travail pour lesquelles il était engagé.
+> DORS/2006-134, art. 5.
+
+
+
+
+**17.4** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, le passage du paragraphe 13(1) de la Loi précédant l’alinéa a) est adapté de la façon suivante :
+**13** 
+
+- **(1)** Au décès du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension et qui, à la date de son décès, avait droit selon la présente partie à une annuité ou à une allocation annuelle, le survivant et les enfants du contributeur ont droit aux allocations ci-après, calculées selon l’allocation de base établie conformément au paragraphe (1.1) :
+
+
+> DORS/2006-134, art. 5.
+
+
+
+
+**17.5** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, l’article 13 de la Loi est adapté par adjonction, après le paragraphe (1), de ce qui suit :
+
+- **(1.1)** L’allocation de base correspond au total des sommes calculées selon la formule ci-après pour chaque segment de la période de service ouvrant droit à pension du contributeur pour lequel la valeur de l’élément C varie :
+```
+A x B x C/D x 1 %
+```
+où
+- **A** représente le nombre d’années comprises dans le segment;
+- **B** selon le cas :
+- **a)** à l’égard du service ouvrant droit à pension porté à son crédit avant le 16 décembre 1994, la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq,
+- **b)** à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, la moins élevée des sommes suivantes :
+- **(i)** la solde annuelle moyenne visée à l’alinéa a),
+- **(ii)** la somme déterminée aux termes de l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada dans sa version le jour où le contributeur a cessé la dernière fois d’être membre de la Gendarmerie;
+- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment;
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps.
+> DORS/2006-134, art. 5.
+
+
+
+
+**17.6** À l’égard du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, l’alinéa 14b) de la Loi est adapté de la façon suivante :
+
+- **b)** soit dans le cas où le contributeur a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension, au total des sommes calculées selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément C varie :
+```
+1/12 x A x B x C/D
+```
+où :
+- **A** représente le nombre d’années comprises dans le segment,
+- **B** selon le cas :
+- **(i)** dans le cas où il était membre à plein temps à la date de son décès, la solde qu’on était alors autorisé à lui payer,
+- **(ii)** dans le cas où il était alors membre à temps partiel, la solde établie selon le paragraphe 17.3(2) du Règlement sur la pension de retraite de la Gendarmerie royale du Canada,
+- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment,
+- **D** le nombre normal d’heures de travail par semaine des membres à plein temps,
+
+
+> DORS/2006-134, art. 5.
 
 
 
