@@ -869,7 +869,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards, y compris les harles (autres que les Hareldes kakawis, Arlequins plongeurs, eiders et macreuses), les oies, bernaches et bécassines</th>
+<th>Canards, y compris harles (autres que Hareldes kakawis, Arlequins plongeurs, eiders et macreuses), oies, bernaches et bécassines</th>
 <th>Hareldes kakawis, eiders et macreuses</th>
 </tr>
 <tr>
@@ -878,13 +878,13 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td>1</td>
 <td>Toutes les zones côtières</td>
-<td>Troisième samedi de septembre au deuxième samedi de décembre</td>
+<td>Troisième samedi de septembre au dernier samedi de décembre</td>
 <td>Quatrième samedi de novembre à la dernière journée de février</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Toutes les zones intérieures</td>
-<td>Troisième samedi de septembre au deuxième samedi de décembre</td>
+<td>Troisième samedi de septembre au dernier samedi de décembre</td>
 <td>Pas de saison de chasse</td>
 </tr>
 </table>
@@ -931,10 +931,10 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 
 #### TABLEAU I.1
 <table>
-<h4>Maximums de prises et maximums d’oiseaux à posséder sur l’île de Terre-neuve</h4>
+<h4>Maximums de prises et d’oiseaux à posséder sur l’île de Terre-neuve</h4>
 <tr>
 <th>Maximums</th>
-<th>Canards (autres que les harles, les Hareldes kakawis, Arlequins plongeurs, eiders et macreuses)</th>
+<th>Canards (autres que harles, Hareldes kakawis, Arlequins plongeurs, eiders et macreuses)</th>
 <th>Harles</th>
 <th>Hareldes kakawis, eiders et macreuses</th>
 <th>Oies et bernaches</th>
@@ -945,21 +945,26 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
+<td>6 a)</td>
 <td>6</td>
-<td>6c)</td>
+<td>6</td>
 <td>5</td>
 <td>10</td>
 </tr>
 <tr>
 <td>Oiseaux à posséder</td>
-<td>12b)</td>
+<td>12 b)</td>
 <td>12</td>
-<td>12d)</td>
+<td>12</td>
 <td>10</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -969,16 +974,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 </tr>
 <tr>
 <td>**b)** Dont huit au plus peuvent être des Canards noirs.
-
-</td>
-</tr>
-<tr>
-<td>**c)** Pas plus de trois eiders après le premier lundi de février.
-
-</td>
-</tr>
-<tr>
-<td>**d)** Pas plus de six eiders après le premier lundi de février.
 
 </td>
 </tr>
@@ -1000,7 +995,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <th></th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs et eiders), oies, bernaches et bécassines</th>
+<th>Canards (autres qu’Arlequins plongeurs et eiders), oies et bernaches et bécassines</th>
 <th>Eiders</th>
 </tr>
 <tr>
@@ -1058,10 +1053,10 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 
 #### TABLEAU II.1
 <table>
-<h4>Maximums de prises et maximums d’oiseaux à posséder au Labrador</h4>
+<h4>Maximums de prises et d’oiseaux à posséder au Labrador</h4>
 <tr>
 <th>Maximums</th>
-<th>Canards (autres que les harles, Arlequins plongeurs, eiders et macreuses)</th>
+<th>Canards (autres que harles, Arlequins plongeurs, eiders et macreuses)</th>
 <th>Harles, macreuses et eiders</th>
 <th>Oies et bernaches</th>
 <th>Bécassines</th>
@@ -1072,29 +1067,16 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td>Prises par jour</td>
 <td>6</td>
-<td>6a)</td>
+<td>6</td>
 <td>5</td>
 <td>10</td>
 </tr>
 <tr>
 <td>Oiseaux à posséder</td>
 <td>12</td>
-<td>12b)</td>
+<td>12</td>
 <td>10</td>
 <td>20</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>**a)** Pas plus que trois peuvent être des eiders, après le premier lundi de février.
-
-</td>
-</tr>
-<tr>
-<td>**b)** Pas plus que six peuvent être des eiders, après le premier lundi de février.
-
-</td>
 </tr>
 </table>
 
@@ -1104,7 +1086,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 
 #### TABLEAU III
 <table>
-<h4>Saisons de chasse à Terre-Neuve-et-Labrador</h4>
+<h4>Saisons de chasse sur l’île de Terre-neuve et au Labrador</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -1113,7 +1095,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Guillemot marmette et Guillemot de Brünnich*</th>
+<th>Guillemot marmette et Guillemot de Brünnich<sup><a href='#footnotestar_f'>[*]</a></sup></th>
 </tr>
 <tr>
 <th></th>
@@ -1126,7 +1108,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td>2</td>
 <td>Zone n<sup>o</sup> 2</td>
-<td>du 7octobre au 21 janvier</td>
+<td>du 7 octobre au 20 janvier</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1136,18 +1118,12 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td>4</td>
 <td>Zone n<sup>o</sup> 4</td>
-<td>du 2 novembre au 10 janvier et du 2 février au 10 mars</td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>***** autrefois appelés respectivement Marmette de Troïl et Marmette de Brünnich
-
-</td>
+<td>du 3 novembre au 10 janvier et du 2 février au 10 mars</td>
 </tr>
 </table>
 
+
+<a name='footnotestar_f'><sup>*</sup></a>: autrefois appelés respectivement Marmette de Troïl et Marmette de Brünnich<br />
 
 
 
@@ -1180,7 +1156,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Marmettes</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
@@ -1205,15 +1181,15 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
+<th>Colonne IV</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs), et oies et bernaches JOURNÉE DE LA RELÈVE</th>
-<th>Canards (autres qu’Arlequins plongeurs), bécassines, oies et bernaches</th>
+<th>Canards (autres qu’Arlequins plongeurs) et oies et bernaches</th>
+<th>Canards (autres qu’Arlequins plongeurs), bécassines et oies et bernaches</th>
 <th>Bécasses</th>
 </tr>
 <tr>
@@ -1222,7 +1198,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td>1</td>
 <td>Tout le territoire de l’Île-du-Prince-Édouard</td>
-<td>17 septembre</td>
+<td>16 septembre (Journée de la relève)</td>
 <td>du premier lundi d’octobre au deuxième samedi de décembre</td>
 <td>du dernier lundi de septembre au deuxième samedi de décembre</td>
 </tr>
@@ -1251,13 +1227,13 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1268,7 +1244,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards colverts, Canards colverts-noirs hybrides ou Canards noirs.
@@ -1295,22 +1271,22 @@ TABLEAU I.1
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
 <th>Colonne V</th>
 <th>Colonne VI</th>
 <th>Colonne VII</th>
+<th>Colonne VIII</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs), oies et bernaches JOURNÉE DE LA RELÈVE</th>
+<th>Canards (autres qu’Arlequins plongeurs) et oies et bernaches</th>
 <th>Canards (autres qu’Arlequins plongeurs)</th>
 <th>Saisons supplémentaires pour Grands Harles et Harles huppés</th>
 <th>Saisons supplémentaires, dans les eaux côtières seulement, pour Hareldes kakawis, eiders et macreuses</th>
-<th>Saisons supplémentaires pour les Fuligules milouinans, Petits fuligules et Garrots</th>
+<th>Saisons supplémentaires pour Fuligules milouinans, Petits fuligules et Garrots</th>
 <th>Oies et bernaches</th>
 <th>Bécasses et bécassines</th>
 </tr>
@@ -1320,86 +1296,35 @@ TABLEAU I.1
 <tr>
 <td>1</td>
 <td>Zone n<sup>o</sup> 1</td>
-<td>24 septembre</td>
-<td>du 1<sup>er</sup> octobre
-
-au 31 décembre
-
-</td>
+<td>23 septembre (Journée de la relève)</td>
+<td>du 2 octobre au 30 décembre</td>
 <td>pas de saison supplémentaire</td>
 <td>pas de saison supplémentaire</td>
 <td>pas de saison supplémentaire</td>
-<td>du 1<sup>er</sup> octobre
-
-au 31 décembre
-
-</td>
-<td>du 1<sup>er</sup> octobre
-
-au 30 novembre
-
-</td>
+<td>du 2 octobre au 30 décembre</td>
+<td>du 2 octobre au 30 novembre</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zone n<sup>o</sup> 2</td>
-<td>24 septembre</td>
-<td>du 8 octobre
-
-au 31 décembre
-
-</td>
-<td>du 1<sup>er</sup> au 7 octobre
-
-et du 2 au 7 janvier
-
-(dans les eaux
-
-côtières seulement)
-
-</td>
-<td>du 1<sup>er</sup> au 7 octobre
-
-et du 2 au 7 janvier
-
-</td>
-<td>du 2 au 7 janvier</td>
-<td>du 8 octobre
-
-au 14 janvier
-
-</td>
-<td>du 1<sup>er</sup> octobre
-
-au 30 novembre
-
-</td>
+<td>23 septembre (Journée de la relève)</td>
+<td>du 9 octobre au 30 décembre</td>
+<td>du 2 au 7 octobre et du 1<sup>er</sup> au 6 janvier (dans les eaux côtières seulement)</td>
+<td>du 2 au 7 octobre et du 1<sup>er</sup> au 6 janvier</td>
+<td>du 1<sup>er</sup> au 6 janvier</td>
+<td>du 9 octobre au 15 janvier</td>
+<td>du 2 octobre au 30 novembre</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Zone n<sup>o</sup> 3</td>
-<td>24 septembre</td>
-<td>du 8 octobre
-
-au 31 décembre
-
-</td>
-<td>du 2 au 7 janvier</td>
+<td>23 septembre (Journée de la relève)</td>
+<td>du 9 octobre au 30 décembre</td>
+<td>du 1<sup>er</sup> au 6 janvier</td>
 <td>pas de saison supplémentaire</td>
-<td>du 2 au 7 janvier</td>
-<td>du 8 octobre
-
-au 14 janvier
-
-</td>
-<td>du 1<sup>er</sup> octobre
-
-au 30 novembre
-
-</td>
-</tr>
-<tr>
-<td></td>
+<td>du 1<sup>er</sup> au 6 janvier</td>
+<td>du 9 octobre au 15 janvier</td>
+<td>du 2 octobre au 30 novembre</td>
 </tr>
 </table>
 
@@ -1447,14 +1372,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>5</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  5</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1466,7 +1391,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards noirs.
@@ -1493,17 +1418,17 @@ TABLEAU I.1
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
+<th>Colonne V</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs), oies et bernaches JOURNÉE DE LA RELÈVE</th>
-<th>Canards (autres qu’Arlequins plongeurs), oies et bernaches, et bécassines</th>
-<th>Saisons supplémentaires, dans les eaux côtières seulement, pour Grands Harles, Harles huppés, Hareldes kakawis, eiders et macreuses</th>
+<th>Canards (autres qu’Arlequins plongeurs) et oies et bernaches</th>
+<th>Canards (autres qu’Arlequins plongeurs), oies et bernaches et bécassines</th>
+<th>Saison supplémentaire, dans les eaux côtières seulement, pour Grands Harles, Harles huppés, Hareldes kakawis, eiders et macreuses</th>
 <th>Bécasses</th>
 </tr>
 <tr>
@@ -1512,29 +1437,18 @@ TABLEAU I.1
 <tr>
 <td>1</td>
 <td>Zone n<sup>o</sup> 1</td>
-<td>17 septembre</td>
-<td>du 15 octobre au 3 janvier</td>
-<td>du 1<sup>er</sup> au 25 février</td>
-<td>du 15 septembre
-
-au 30 novembre
-
-</td>
+<td>16 septembre (Journée de la relève)</td>
+<td>du 16 octobre au 4 janvier</td>
+<td>du 1<sup>er</sup> au 24 février</td>
+<td>du 15 septembre au 30 novembre</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zone n<sup>o</sup> 2</td>
-<td>17 septembre</td>
-<td>du 1<sup>er</sup> octobre au 17 décembre</td>
+<td>16 septembre (Journée de la relève)</td>
+<td>du 2 octobre au 18 décembre</td>
 <td>pas de saison supplémentaire</td>
-<td>du 15 septembre
-
-au 30 novembre
-
-</td>
-</tr>
-<tr>
-<td></td>
+<td>du 15 septembre au 30 novembre</td>
 </tr>
 </table>
 
@@ -1614,14 +1528,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)</td>
-<td>6c)</td>
-<td>5</td>
-<td>8</td>
+<td>  6a)</td>
+<td>  6c)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1633,7 +1547,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont trois au plus peuvent être des Canards noirs.
@@ -1646,12 +1560,12 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Dont quatre au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 25 février, il n’est pas permis de prendre plus de quatre eiders par jour.
+<td>**c)** Dont au plus quatre peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de prendre plus de quatre eiders par jour.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Dont huit au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 25 février, il n’est pas permis de posséder plus de huit eiders au total.
+<td>**d)** Dont au plus huit peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de posséder plus de huit eiders.
 
 </td>
 </tr>
@@ -1670,18 +1584,18 @@ TABLEAU I.1
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
 <th>Colonne V</th>
 <th>Colonne VI</th>
+<th>Colonne VII</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs), oies et bernaches, bécasses et bécassines JOURNÉE DE LA RELÈVE</th>
-<th>Canards (autres qu’eiders, Arlequins plongeurs et Hareldes kakawis), oies et bernaches (autres que Bernaches du Canada et Oies des neiges), et bécassines</th>
+<th>Canards (autres que les Arlequins plongeurs), oies et bernaches, bécasses et bécassines</th>
+<th>Canards (autres que les Arlequins plongeurs et Hareldes kakawis), oies et bernaches (autres que les Bernaches du Canada et Oies des neiges) et bécassines</th>
 <th>Bernaches du Canada</th>
 <th>Eiders et Hareldes kakawis</th>
 <th>Foulques et gallinules</th>
@@ -1694,139 +1608,51 @@ TABLEAU I.1
 <td>1</td>
 <td>District A</td>
 <td>s/o</td>
-<td>du 1<sup>er</sup> septembre
-
-au 10 décembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 10 décembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 10 décembre
-
-</td>
+<td>du 1<sup>er</sup> septembre au 10 décembre</td>
+<td>du 1<sup>er</sup> septembre au 10 décembre</td>
+<td>du 1<sup>er</sup> septembre au 10 décembre</td>
 <td>pas de saison de chasse</td>
-<td>du 1<sup>er</sup> septembre
-
-au 10 décembre
-
-</td>
+<td>du 1<sup>er</sup> septembre au 10 décembre</td>
 </tr>
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>10 septembre</td>
-<td>du 17 septembre
-
-au 26 décembre
-
-</td>
-<td>du 17 septembre
-
-au 26 décembre
-
-</td>
-<td>du 1<sup>er</sup> octobre
-
-au 14 janvier b)
-
-</td>
+<td>9 septembre (Journée de la relève)</td>
+<td>du 16 septembre au 26 décembre</td>
+<td>du 16 septembre au 26 décembre</td>
+<td>du 1<sup>er</sup> octobre au 14 janvier b)</td>
 <td>pas de saison de chasse</td>
-<td>du 10 septembre
-
-au 22 décembre
-
-</td>
+<td>du 9 septembre au 22 décembre</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C, D et E</td>
-<td>10 septembre</td>
-<td>du 17 septembre
-
-au 26 décembre c)
-
-</td>
-<td>du 6 au 17 septembre a)
-
-et du 18 septembre
-
-au 21 décembre
-
-</td>
-<td>du 17 septembre
-
-au 26 décembre
-
-</td>
+<td>9 septembre (Journée de la relève)</td>
+<td>du 16 septembre au 26 décembre c)</td>
+<td>du 1<sup>er</sup> au 15 septembre a) et du 16 septembre au 16 décembre</td>
+<td>du 16 septembre au 26 décembre</td>
 <td>pas de saison de chasse</td>
-<td>du 17 septembre
-
-au 26 décembre
-
-</td>
+<td>du 16 septembre au 26 décembre</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Districts F, G, H et I</td>
-<td>17 septembre d)</td>
-<td>du 24 septembre
-
-au 26 décembre c)
-
-</td>
-<td>du 6 au 23 septembre a)
-
-et du 24 septembre
-
-au 21 décembre
-
-</td>
-<td>du 24 septembre
-
-au 26 décembre
-
-</td>
-<td>du 24 septembre
-
-au 26 décembre
-
-</td>
-<td>du 17septembre
-
-au 26 décembre
-
-</td>
+<td>16 septembre d) (Journée de la relève)</td>
+<td>du 23 septembre au 26 décembre c)</td>
+<td>du 6 au 22 septembre a) et du 23 septembre au 21 décembre</td>
+<td>du 23 septembre au 26 décembre</td>
+<td>du 23 septembre au 26 décembre</td>
+<td>du 16 septembre au 26 décembre</td>
 </tr>
 <tr>
 <td>5</td>
 <td>District J</td>
-<td>17 septembre</td>
-<td>du 24 septembre
-
-au 26 décembre
-
-</td>
-<td>du 24 septembre
-
-au 26 décembre
-
-</td>
-<td>du 1<sup>er</sup> novembre
-
-au 14 février
-
-</td>
+<td>23 septembre (Journée de la relève)</td>
+<td>du 30 septembre au 26 décembre</td>
+<td>du 30 septembre au 26 décembre</td>
+<td>du 1<sup>er</sup> novembre au 14 février</td>
 <td>pas de saison de chasse</td>
-<td>du 24 septembre
-
-au 26 décembre
-
-</td>
+<td>du 30 septembre au 26 décembre</td>
 </tr>
 <tr>
 <td></td>
@@ -1913,69 +1739,53 @@ au 26 décembre
 
 **3** Les saisons de chasse spécifiées dans le tableau I et tableau I.2 ne s’appliquent pas aux régions suivantes de la province de Québec :
 
-**a)** la partie du fleuve Saint-Laurent décrite comme suit :
+**a)** Cap Tourmente (Eau) :
 
-À partir de l’intersection de la laisse des basses eaux sur la rive nord du fleuve Saint-Laurent et de la limite sud-ouest du lot riverain 248, selon le cadastre officiel de la paroisse Saint-Joachim, division d’enregistrement de Montmorency; DE LÀ, vers le sud-est le long de ladite limite, sur une distance d’environ 731,52 mètres jusqu’à un point d’une droite tirée entre les deux bouées lumineuses numérotées V13 et V6 sur la carte hydrographique n<sup>o</sup> 1232 déposée au ministère de l’Environnement; DE LÀ, vers l’est le long de ladite droite jusqu’à la bouée V6; DE LÀ, vers le nord-est en droite ligne jusqu’aux bouées lumineuses numérotées K108 et K103 sur la carte n<sup>o</sup> 1232; DE LÀ, vers le nord-est en droite ligne jusqu’à la bouée lumineuse numérotée K95 sur la carte n<sup>o</sup> 1232; DE LÀ, vers le nord-est le long d’une droite tirée entre la bouée K95 et la bouée lumineuse numérotée K78 sur la carte n<sup>o</sup> 1232, et prolongée jusqu’à un point de la ligne perpendiculaire à ladite droite et passant par le point miliaire 40 de l’emprise des Chemins de fer nationaux du Canada; DE LÀ, vers le nord-ouest le long de la ligne perpendiculaire jusqu’à la laisse des basses eaux sur la rive nord du fleuve Saint-Laurent; DE LÀ, vers le sud-ouest, le long de la laisse des basses eaux jusqu’au point de départ, ainsi que l’emprise des Chemins de fer nationaux du Canada à partir du Lot 58A du cadastre officiel de la paroisse de Saint-Joachim, circonscription foncière de Montmorency, DE LÀ, vers l’est jusqu’au Cap Brûlé;
-
-
+À partir de l’intersection de la laisse des basses eaux sur la rive nord du fleuve Saint-Laurent et de la limite sud-ouest du lot riverain 248, selon le cadastre officiel de la paroisse Saint-Joachim, division d’enregistre­ment de Montmorency; de là, vers le sud-est le long de cette limite, sur une distance d’environ 731,52 m jusqu’à un point d’une droite tirée entre les deux bouées lumineuses numérotées V13 et V6 sur la carte hydrographique n<sup>o</sup> 1232 déposée au ministère de l’Environnement; de là, vers l’est le long de cette droite jusqu’à la bouée V6; de là, vers le nord-est en droite ligne jusqu’aux bouées lumineuses numérotées K108 et K103 sur la carte n<sup>o</sup> 1232; de là, vers le nord-est en ligne droite en direction de la bouée lumineuse numérotée K95 sur la carte n<sup>o</sup> 1232, mais s’arrêtant à la hauteur du Cap Brûlé; de là, vers le nord-ouest en une ligne perpendiculaire rejoignant la rive jusqu’à la laisse des basses eaux du Cap Brûlé sur la rive nord du Saint-Laurent; de là, vers le sud-ouest, le long de la laisse des basses eaux jusqu’au point de départ, ainsi que l’emprise des Chemins de fer nationaux du Canada à partir du Lot 58A du cadastre officiel de la paroisse de Saint-Joachim, circonscription foncière de Montmorency et de là, vers l’est jusqu’au Cap Brûlé;
 
 
 
 
 
-**b)** dans le golfe du Saint-Laurent (par environ 47°37′ de latitude nord et 61°29′ de longitude ouest), une partie des Îles-de-la-Madeleine et les eaux comprises dans les limites suivantes :
-
-À partir de l’intersection de la laisse ordinaire des hautes eaux de la baie Clarke et d’une ligne d’aplomb tirée à partir du côté nord-ouest du centre du pont de la pointe de l’Est;
 
 
+**b)** Portage :
 
-DE LÀ, vers le sud-ouest en ligne droite (dans le havre de la Grande Entrée) jusqu’à un point situé à 200 mètres de la laisse ordinaire des hautes eaux et sur le prolongement sud-est de la limite est du lot 20-23-3 enregistré au cadastre de l’Île Coffin;
+Dans le golfe du Saint-Laurent (par environ 47°37′ de latitude nord et 61°29′ de longitude ouest), une partie des Îles-de-la-Madeleine et les eaux comprises dans les limites suivantes :
 
 
 
-DE LÀ, vers le nord-ouest le long dudit prolongement et de ladite limite est jusqu’à son extrémité nord;
-
-
-
-DE LÀ, vers le nord-ouest le long des limites est des lots 20-23-3, 20-23-2, 20-23-1 et le prolongement de cette dernière limite dans le golfe du Saint-Laurent jusqu’à un point situé à 200 mètres perpendiculairement à la laisse ordinaire des hautes eaux du golfe;
-
-
-
-DE LÀ, vers l’est le long d’une ligne située à 200 mètres de ladite laisse jusqu’à un point situé à 2 000 mètres en ligne droite du dernier point;
-
-
-
-DE LÀ, vers le sud en ligne droite jusqu’à l’intersection de la rive ouest d’un ruisseau sans nom et de la laisse ordinaire des hautes eaux de la baie Clarke (par environ 47°37′10″ de latitude nord et 61°28′25″ de longitude ouest);
-
-
-
-DE LÀ, vers le sud-ouest le long de la laisse ordinaire des hautes eaux de la baie Clarke jusqu’au point de départ;
+À partir de l’intersection de la laisse ordinaire des hautes eaux de la baie Clarke et d’une ligne d’aplomb tirée à partir du côté nord-ouest du centre du pont de la pointe de l’Est; de là, vers le sud-ouest en ligne droite (dans le havre de la Grande Entrée) jusqu’à un point situé à 200 m de la laisse ordinaire des hautes eaux et sur le prolongement sud-est de la limite est du lot 20-23-3 enregistré au cadastre de l’Île Coffin; de là, vers le nord-ouest le long de ce prolongement et de cette limite est jusqu’à son extrémité nord; de là, vers le nord-ouest le long des limites est des lots 20-23-3, 20-23-2, 20-23-1 et le prolongement de cette dernière limite dans le golfe du Saint-Laurent jusqu’à un point situé à 200 m perpendiculairement à la laisse ordinaire des hautes eaux du golfe; de là, vers l’est le long d’une ligne située à 200 m de la laisse jusqu’à un point situé à 2 000 m en ligne droite du dernier point; de là, vers le sud en ligne droite jusqu’à l’intersection de la rive ouest d’un ruisseau sans nom et de la laisse ordinaire des hautes eaux de la baie Clarke (par environ 47°37′10″ de latitude nord et 61°28′25″ de longitude ouest) et de là, vers le sud-ouest le long de la laisse ordinaire des hautes eaux de la baie Clarke jusqu’au point de départ;
 
 
 
 
 
-**c)** dans les municipalités de l’Étang-du-Nord et de l’Île-du-Havre-Aubert; une partie des Îles-de-la-Madeleine, dans le golfe du Saint-Laurent, correspondant aux parties de l’Île du Cap aux Meules et l’Île-du-Havre-Aubert qui sont comprises entre les latitudes nord 47°18′ et 47°19′20″;
+**c)** Havre aux Basques :
+
+Dans les municipalités de l’Étang-du-Nord et de l’Île-du-Havre-Aubert; une partie des Îles-de-la-Madeleine, dans le golfe du Saint-Laurent, correspondant aux parties de l’Île du Cap aux Meules et de l’Île-du-Havre-Aubert qui sont comprises entre les latitudes nord 47°18′ et 47°19′20″, y compris la partie du Havre aux Basques qui y est comprise ainsi que les zones de 200 m s’étendant vers l’est et vers l’ouest respectivement à partir des côtes de la baie de Plaisance et des côtes du golfe du Saint-Laurent; les limites nord et sud de ces zones suivant ces latitudes et les limites est et ouest étant parallèles aux laisses ordinaires des hautes eaux de la baie et du golfe;
 
 
 
-ladite partie inclut la partie du havre aux Basques qui y est comprise ainsi que les zones de 200 mètres s’étendant vers l’est et vers l’ouest respectivement à partir des côtes de la baie de Plaisance et des côtes du golfe du Saint-Laurent;
+
+
+**d)** Baie-du-Febvre :
+
+Les bassins d’épuration de Baie-du-Febvre, situés dans la municipalité du même nom par environ 46°08.6′ de latitude nord et 72°43.7′ de longitude ouest, ainsi qu’une bande de 50 m autour de ces bassins;
 
 
 
-les limites nord et sud desdites zones suivent lesdites latitudes et les limites est et ouest étant parallèles aux laisses ordinaires des hautes eaux de la baie et du golfe;
+
+
+**e)** Cap Tourmente (Terre) :
+
+La parcelle VI et la partie du lot 456 figurant sur le plan AM-92-7485 de Travaux Publics Canada, selon le cadastre officiel de la paroisse de Saint-Joachim, division d’enregistrement de Montmorency, province de Québec, ainsi que la zone comprise entre la ligne des basses eaux du fleuve Saint-Laurent et la limite nord de l’emprise du chemin de fer du gouvernement canadien, limitée à l’ouest par la Réserve nationale de faune de Cap Tourmente et à l’est par le Cap Brûlé. De plus, cette zone comprend l’emprise du chemin public appelé « Chemin du cap Tourmente », qui est situé dans la municipalité de Saint-Joachim-de-Montmorency;
 
 
 
-**d)** la partie située à proximité de la cité de Beauharnois, dans la province de Québec, par environ 45°16′ de latitude nord et 73°57′ de longitude ouest; cette partie s’étend sur une longueur d’environ 14,5 kilomètres entre le barrage de Beauharnois, qui est sa limite nord-est, et une ligne traversant le canal de Beauharnois, qui est sa limite sud-ouest; ladite ligne est située à environ 2,5 kilomètres au sud-ouest d’un pont utilisé par les Chemins de fer nationaux du Canada. Elle est bornée au nord-est par le barrage du canal de Beauharnois et le chemin de fer de «CONRAIL»; au sud-est, par la rive, et la digue du canal; au sud-ouest, par ladite ligne traversant le canal et au nord-est par la limite nord-ouest de l’emprise d’un chemin existant, la digue et la rive du canal; le tout figurant sur un plan n<sup>o</sup> MM-83-5669 du 10 février 1983 préparé par le ministère des Travaux publics;
 
 
-
-**e)** les bassins d’épuration de Baie-du-Febvre, situés dans la municipalité du même nom par environ 46°08.6′ de latitude nord et 72°43.7′ de longitude ouest, ainsi qu’une bande de 50 m autour de ce bassin;
-
-
-
-**f)** Cap Tourmente : la parcelle VI et la partie du lot 456 figurant sur le plan AM-92-7485 de Travaux Publics Canada, selon le cadastre officiel de la paroisse de Saint-Joachim, division d’enregistrement de Montmorency, province de Québec, ainsi que la zone comprise entre la ligne des basses eaux du fleuve Saint-Laurent et la limite nord de l’emprise du chemin de fer du Gouvernement canadien, limitée à l’ouest par la Réserve nationale de faune de Cap Tourmente et à l’est par le Cap Brûlé. De plus, cette zone comprend l’emprise du chemin public appelé « Chemin du cap Tourmente », qui est situé dans la municipalité de Saint-Joachim-de-Montmorency;
+**f)** [Abrogé, DORS/2006-136, art. 16]
 
 
 
@@ -2062,12 +1872,12 @@ TABLEAU I.1
 Du 1<sup>er</sup> septembre au 10 décembre
 
 </td>
-<td>Enregistrements d’appels d’oiseaux d), f)</td>
+<td>Enregistrements d’appels d’oiseaux  d), f)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>Du 17 septembre au 26 décembre
+<td>Du 16 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2077,9 +1887,9 @@ Du 1<sup>er</sup> septembre au 10 décembre
 <td>Districts C et D</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a)
 
-Du 6 au 16 septembre a)
+Du 1<sup>er</sup> au 15 septembre a)
 
-Du 17 septembre au 26 décembre
+Du 16 septembre au 16 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2089,9 +1899,9 @@ Du 17 septembre au 26 décembre
 <td>District E</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a)
 
-Du 6 au 16 septembre a)
+Du 1<sup>er</sup> au 15 septembre a)
 
-Du 17 septembre au 26 décembre
+Du 16 septembre au 16 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f); appât ou zone de culture-appât e)</td>
@@ -2101,9 +1911,9 @@ Du 17 septembre au 26 décembre
 <td>Districts F, G, H et I</td>
 <td>Du 1<sup>er</sup> avril au 31 mai a), b), c)
 
-Du 6 au 23 septembre a)
+Du 6 au 22 septembre a)
 
-Du 24 septembre au 26 décembre
+Du 23 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f); appât ou zone de culture-appât e)</td>
@@ -2111,7 +1921,7 @@ Du 24 septembre au 26 décembre
 <tr>
 <td>6</td>
 <td>District J</td>
-<td>Du 24 septembre au 26 décembre
+<td>Du 23 septembre au 26 décembre
 
 </td>
 <td>Enregistrements d’appels d’oiseaux d), f)</td>
@@ -2120,7 +1930,7 @@ Du 24 septembre au 26 décembre
 <td></td>
 </tr>
 <tr>
-<td>**a)** La chasse est permise uniquement sur les terres agricoles.
+<td>**a)** La chasse et le matériel de chasse sont permis uniquement sur les terres agricoles.
 
 </td>
 </tr>
@@ -2135,17 +1945,17 @@ Du 24 septembre au 26 décembre
 </td>
 </tr>
 <tr>
-<td>**d)** ***Enregistrements d’appels d’oiseaux*** vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
+<td>**d)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
 
 </td>
 </tr>
 <tr>
-<td>**e)** La chasse au moyen d’un appât ou dans une zone de culture-appât est permise sous réserve de l’obtention d’‘une autorisation écrite du directeur régional en vertu de l’article 23.3.
+<td>**e)** La chasse au moyen d’un appât ou dans une zone de cultureappât est permise sous réserve du consentement écrit du directeur régional donné en vertu de l’article 23.3.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Les leurres utilisés pendant la chasse, conjointement avec des enregistrements d’appels d’oies des neiges, doivent représenter l’oie des neiges en phase blanche.
+<td>**f)** Les leurres utilisés pendant la chasse, conjointement avec des enregistrements d’appels d’oies des neiges, représentent uniquement l’oie des neiges de forme blanche en plumage adulte ou juvénile (blanc ou gris).
 
 </td>
 </tr>
@@ -2168,15 +1978,15 @@ Du 24 septembre au 26 décembre
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6 a), b), c), d), f)</td>
-<td>5 f)</td>
+<td>  6 a), b), c), d), f)</td>
+<td>  5 f)</td>
 <td>20 f)</td>
 <td>4 f)</td>
-<td>8 e), f)</td>
+<td>  8 e), f)</td>
 <td>10 f)</td>
 </tr>
 <tr>
@@ -2189,7 +1999,7 @@ Du 24 septembre au 26 décembre
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Il est permis de prendre au plus quatre Canards noirs par jour et d’en posséder au plus huit dans les districts A, B, C, D, E, F et J.
@@ -2243,7 +2053,7 @@ Du 24 septembre au 26 décembre
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards (autres qu’Arlequins plongeurs), râles (autres que Râles élégants et Râles jaunes), Gallinules poule-d’eau, Foulques d’Amérique, Bécassines des marais, oies et bernaches (autres que Bernaches du Canada)</th>
+<th>Canards (autres qu’Arlequins plongeurs), râles (autres que Râles élégants et Râles jaunes), Gallinules poule-d’eau, Foulques d’Amérique, Bécassines des marais et oies et bernaches (autres que Bernaches du Canada)</th>
 <th>Bernaches du Canada</th>
 <th>Bécasses</th>
 </tr>
@@ -2267,71 +2077,49 @@ Du 24 septembre au 26 décembre
 <tr>
 <td>3</td>
 <td>District central</td>
-<td>du 17 septembre au 20 décembre</td>
-<td>du 6 septembre au 20 décembre
-
-</td>
+<td>du 16 septembre au 20 décembre</td>
+<td>du 5 septembre au 20 décembre</td>
 <td>du 20 septembre au 20 décembre</td>
 </tr>
 <tr>
 <td>4</td>
 <td>District sud</td>
-<td>du 24 septembre au 20 décembre g)</td>
-<td>du 6 au 17 septembre a), g),
-
-du 10 au 23 septembre b), g),
-
-du 24 septembre au 4 janvier c), g),
-
-du 24 septembre au 5 janvier d), g),
-
-du 1<sup>er</sup> novembre au 5 janvier e), g) et
-
-du 21 au 28 février f), g)
-
-</td>
-<td>du 25 septembre au 20 décembre g)</td>
+<td>du 23 septembre au 20 décembre f)</td>
+<td>du 5 au 16 septembre a), f), du 9 au 19 septembre b), du 23 septembre au 27 décembre b), du 23 septembre au 4 janvier c), f), du 23 septembre au 21 octobre d), f), du 29 novembre au 4 janvier d), f) et du 21 au 28 février e), f)</td>
+<td>du 25 septembre au 20 décembre f)</td>
 </tr>
 <tr>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Dans les secteurs de gestion de la faune 60A, 61, 72A (à l’exclusion du canton de Haldimand), 72B à 89, 90 (à l’exclusion du comté de South Walsingham, lequel comprend Long Point) et 91 à 95.
+<td>**a)** Dans les secteurs de gestion de la faune 73 à 89, 90 (à l’exclusion de la partie du comté de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95.
 
 </td>
 </tr>
 <tr>
-<td>**b)** Dans les secteurs de gestion de la faune 62, 63 (à l’exclusion de toute partie dans le comté de Renfrew), 64, 65 (à l’exclusion des comtés unis de Prescott et Russell) et 66 à 71.
+<td>**b)** Dans les secteurs de gestion de la faune 60A à 72B.
 
 </td>
 </tr>
 <tr>
-<td>**c)** Dans les secteurs de gestion de la faune 62 à 71.
+<td>**c)** Dans les secteurs de gestion de la faune 73 à 93 et 95.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Dans les secteurs de gestion de la faune 60A, 61, 72 à 93 et 95.
+<td>**d)** Dans le secteur de gestion de la faune 94.
 
 </td>
 </tr>
 <tr>
-<td>**e)** Dans le secteur de gestion de la faune 94.
+<td>**e)** Dans les secteurs de gestion de la faune 73 à 93.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Dans les secteurs de gestion de la faune 60A, 61, 62, 63 (à l’exclusion de toute partie dans le comté de Renfrew), 64, 65 (à l’exclusion des comtés unis de Prescott et Russell), 66 à 71, 72A (à l’exclusion du canton de Haldimand), 72B à 89, 90 (à l’exclusion du comté de South Walsingham, lequel comprend Long Point) et 91 à 93.
+<td>**f)** Il est interdit de chasser les oiseaux migrateurs au cours de la saison de chasse dans les secteurs de gestion de la faune 73 à 95, les dimanches compris dans la période allant du 10 septembre au 31 décembre, ainsi que le 25 février. L’interdiction ne s’applique pas aux fauconniers, qui peuvent chasser seulement les canards les dimanches compris dans la période allant du 24 septembre au 17 décembre.
 
 </td>
-</tr>
-<tr>
-<td>**g)** Il est interdit de chasser les oiseaux migrateurs au cours de la saison de chasse dans le district sud les dimanches compris dans la période allant du 11 septembre au 1<sup>er</sup> janvier ainsi que le 26 février. Cette interdiction ne s’applique pas dans les comtés unis de Prescott et Russell, dans le canton de Haldimand du comté de Northumberland, et dans la partie du secteur de gestion de la faune 63 située dans le comté de Renfrew. L’interdiction ne s’applique pas non plus aux fauconniers qui peuvent chasser seulement des canards les dimanches compris dans la période allant du 25 septembre au 18 décembre.
-
-</td>
-</tr>
-<tr>
-<td></td>
 </tr>
 </table>
 
@@ -2451,15 +2239,15 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>6a)b)c)</td>
-<td>5d)e)f)g)</td>
+<td>  6a)b)c)</td>
+<td>  5d)e)f)g)</td>
 <td>10</td>
 <td>10</td>
-<td>8</td>
+<td>  8</td>
 </tr>
 <tr>
 <td>Oiseaux à posséder</td>
@@ -2470,7 +2258,7 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <td>16</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Il est permis de ne prendre qu’un seul Canard noir par jour et de ne posséder que deux Canards noirs dans le district central et le district sud, et de ne prendre que deux Canards noirs par jour et de ne posséder que quatre Canards noirs dans le district de la baie d’Hudson et de la baie James, ainsi que dans le district nord.
@@ -2493,17 +2281,17 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 </td>
 </tr>
 <tr>
-<td>**e)** Il est permis de prendre au plus deux Bernaches du Canada par jour et d’en posséder au plus quatre dans le secteur de gestion de la faune 94, du 1<sup>er</sup> novembre au 5 janvier.
+<td>**e)** Il est permis de prendre au plus deux Bernaches du Canada par jour et d’en posséder au plus quatre dans le secteur de gestion de la faune 94, du 23 septembre au 21 octobre et du 29 novembre au 4 janvier.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Il est permis de prendre au plus trois Bernaches du Canada par jour et d’en posséder au plus dix dans les secteurs de gestion de la faune 82 à 86 et 93, du 24 septembre au 31 octobre.
+<td>**f)** Il est permis de prendre au plus trois Bernaches du Canada par jour et d’en posséder au plus dix dans les secteurs de gestion de la faune 82 à 86 et 93, du 23 septembre au 31 octobre.
 
 </td>
 </tr>
 <tr>
-<td>**g)** Il est permis de prendre trois Bernaches du Canada supplémentaires par jour et d’en posséder quatorze supplémentaires dans les secteurs de gestion de la faune 36 et 45, du 1<sup>er</sup> au 9 septembre; dans le district central du 6 au 16 septembre; dans les secteurs de gestion de la faune 60A, 61, 72A (à l’exclusion du canton de Haldimand), 72B à 89, 90 (à l’exclusion du canton de South Walsingham, lequel comprend Long Point) et 91 à 95, du 6 au 17 septembre; dans les secteurs de gestion de la faune 62, 63 (à l’exclusion de toute partie du comté de Renfrew), 64, 65 (à l’exclusion des comtés unis de Prescott et Russell) et 66 à 71, du 10 au 23 septembre; dans les secteurs de gestion de la faune 60A à 62, 63 (à l’exclusion de toute partie dans le comté de Renfrew), 64, 65 (à l’exclusion des comtés unis de Prescott et Russell), 66 à 71, 72A (à l’exclusion du canton de Haldimand), 72B à 89, 90 (à l’exclusion du canton de South Walsingham, lequel comprend Long Point) et 91 à 93, du 21 au 28 février.
+<td>**g)** Il est permis de prendre trois Bernaches du Canada supplémentaires par jour et d’en posséder quatorze supplémentaires dans les secteurs de gestion de la faune 36 et 45, du 1<sup>er</sup> au 9 septembre; dans le district central, du 5 au 15 septembre; dans les secteurs de gestion de la faune 73 à 89, 90 (à l’exclusion de la partie du comté de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95, du 5 au 16 septembre; dans les secteurs de gestion de la faune 60A à 72B, du 9 au 19 septembre et dans les secteurs de gestion de la faune 73 à 93, du 21 au 28 février.
 
 </td>
 </tr>
@@ -2516,135 +2304,65 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 
 
 
-#### TABLEAU I
+#### TABLEAU I 
 <table>
 <h4>Saisons de chasse au Manitoba</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
 <th>Colonne V</th>
+<th>Colonne VI</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>Région</th>
-<th>Canards, oies et bernaches JOURNÉE DE LA RELÈVE
-
-</th>
-<th>Canards, oies et bernaches, foulques et bécassines RÉSIDENTS DU CANADA
-
-</th>
-<th>Canards, Bernaches du Canada, foulques et bécassines NON-RÉSIDENTS DU CANADA
-
-</th>
-<th>Grues du Canada RÉSIDENTS ET NON-RÉSIDENTS DU CANADA
-
-</th>
-<th>Oies des neiges et Oies de Ross NON-RÉSIDENTS DU CANADA
-
-</th>
+<th>Canards et oies et bernaches</th>
+<th>Canards, oies et bernaches, foulques et bécassines RÉSIDENTS DU CANADA</th>
+<th>Canards, Bernaches du Canada, foulques et bécassines NON-RÉSIDENTS DU CANADA</th>
+<th>Grues du Canada RÉSIDENTS ET NON-RÉSIDENTS DU CANADA</th>
+<th>Oies des neiges et Oies de Ross NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
 <th></th>
 </tr>
 <tr>
 <td>1</td>
-<td>Zone n<sup>o</sup> 1 de chasse aux oiseaux considérés comme gibier</td>
+<td>Zone n<sup>o</sup> 1 de chasse aux oiseaux considérés comme gibiers</td>
 <td>s/o</td>
-<td>du 1<sup>er</sup> septembre
-
-au 31 octobre b)
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 31 octobre
-
-</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre b)</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>pas de saison de chasse</td>
-<td>du 1<sup>er</sup> septembre
-
-au 31 octobre b)
-
-</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre b)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier</td>
-<td>du 1<sup>er</sup> au 7 septembre</td>
-<td>du 8 septembre
-
-au 30 novembre b)
-
-</td>
-<td>du 8 septembre
-
-au 30 novembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre a)
-
-</td>
-<td>du 8 septembre
-
-au 30 novembre b)
-
-</td>
+<td>Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibiers</td>
+<td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
+<td>du 8 septembre au 30 novembre b)</td>
+<td>du 8 septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre a)</td>
+<td>du 8 septembre au 30 novembre b)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibier</td>
-<td>du 1<sup>er</sup> au 7 septembre</td>
-<td>du 8 septembre
-
-au 30 novembre b)
-
-</td>
-<td>du 26 septembre
-
-au 30 novembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre
-
-</td>
-<td>du 19 septembre
-
-au 30 novembre b)
-
-</td>
+<td>Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibiers</td>
+<td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
+<td>du 8 septembre au 30 novembre b)</td>
+<td>du 25 septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 18 septembre au 30 novembre b)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier</td>
-<td>du 1<sup>er</sup> au 7 septembre</td>
-<td>du 8 septembre
-
-au 30 novembre b)
-
-</td>
-<td>du 26 septembre
-
-au 30 novembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre
-
-</td>
-<td>du 19 septembre
-
-au 30 novembre b)
-
-</td>
+<td>Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibiers</td>
+<td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
+<td>du 8 septembre au 30 novembre b)</td>
+<td>du 25 septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 18 septembre au 30 novembre b)</td>
 </tr>
 <tr>
 <td></td>
@@ -2655,7 +2373,7 @@ au 30 novembre b)
 </td>
 </tr>
 <tr>
-<td>**b)** Des enregistrements d’appels d’Oies des neiges et des leurres blancs peuvent être utilisés pour chasser l’Oie des neiges. Ce faisant, tout oiseau migrateur pour lequel il y a une saison de chasse ouverte peut aussi être pris.
+<td>**b)** Les enregistrements d’appels d’Oies des neiges peuvent être utilisés pour chasser l’Oie des neiges. S’ils sont utilisés avec des leurres, ceux-ci doivent être blancs. Dans ces deux cas, tout oiseau migrateur pour lequel il y a une saison de chasse ouverte peut aussi être pris.
 
 </td>
 </tr>
@@ -2689,7 +2407,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2720,7 +2438,7 @@ Du 15 au 30 août
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -2769,7 +2487,7 @@ Du 15 au 30 août
 
 
 
-**2** Dans la présente partie, la saison de chasse aux oies et aux bernaches par les non-résidents dans la zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier et dans les aires de chasse provinciales n<sup>os</sup> 13A, 14 et 14A, dans toute la partie de la zone de chasse n<sup>o</sup> 16 au sud de la limite nord du canton 33, et dans les aires de chasse 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A et 25 telles qu’elles sont décrites dans le Règlement sur les zones de chasse n<sup>o</sup> 220/86 du Manitoba, pris en vertu de la Loi sur la conservation de la faune, C.P.L.M., ch. W130, ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, de la date d’ouverture au 14 octobre; à compter du 15 octobre, les oies et bernaches peuvent être chassées une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil.
+**2** Dans la présente partie, la saison de chasse aux oies et aux bernaches par les non-résidents dans la zone n<sup>o</sup> 4 de chasse aux oiseaux gibiers, dans les zones provinciales de chasse aux oiseaux gibiers n<sup>os</sup> 13A, 14 et 14A, dans toute la partie de la zone de chasse aux oiseaux gibiers n<sup>o</sup> 16 au sud de la limite nord du canton 33, dans les zones de chasse aux oiseaux gibiers 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A et 25 telles qu’elles sont décrites dans le Règlement sur les zones de chasse, 220/86 du Manitoba pris en vertu de la Loi sur la conservation de la faune, C.P.L.M., ch. W130 ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, et ce, de la date d’ouverture au 15 octobre, à compter du 16 octobre, les oies et bernaches peuvent être chassées une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil.
 
 
 
@@ -2792,7 +2510,7 @@ Du 15 au 30 août
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 <th></th>
 <th></th>
 <th></th>
@@ -2803,12 +2521,12 @@ Du 15 au 30 août
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
-<td>8c)</td>
+<td>  8a)</td>
+<td>  8c)</td>
 <td>20</td>
-<td>5e)</td>
-<td>5</td>
-<td>8</td>
+<td>  5e)</td>
+<td>  5</td>
+<td>  8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -2822,7 +2540,7 @@ Du 15 au 30 août
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dans la zone n<sup>o</sup> 4, pour les résidents, pas plus de quatre oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
@@ -2845,12 +2563,12 @@ Du 15 au 30 août
 </td>
 </tr>
 <tr>
-<td>**e)** Sauf que dans les aires de chasse provinciale 25, 25A et 25B, les non-résidents ne peuvent prendre plus de trois Bernaches du Canada par jour.
+<td>**e)** Sauf que dans l’aire de chasse provinciale 25B, les non-résidents ne peuvent prendre plus de quatre Bernaches du Canada par jour.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Sauf que dans les aires de chasse provinciale 25, 25A et 25B, les non-résidents ne peuvent avoir en leur possession plus de neuf Bernaches du Canada.
+<td>**f)** Sauf que dans l’aire de chasse provinciale 25B, les non-résidents ne peuvent avoir en leur possession plus de douze Bernaches du Canada.
 
 </td>
 </tr>
@@ -2902,7 +2620,7 @@ TABLEAU III
 <th>Grues du Canada</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2923,7 +2641,7 @@ TABLEAU III
 <td>du 1<sup>er</sup> septembre au 16 décembre c)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Saison de chasse aux oiseaux rapaces du 1<sup>er</sup> septembre au 16 décembre.
@@ -2999,7 +2717,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -3014,7 +2732,7 @@ TABLEAU I.1
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -3045,14 +2763,14 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
+<td>  8a)</td>
 <td>20</td>
-<td>8c)</td>
-<td>5</td>
+<td>  8c)</td>
+<td>  5</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -3066,7 +2784,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont trois au plus peuvent être un Canard pilet.
@@ -3079,12 +2797,12 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Dont cinq au plus peuvent être des Oies rieuses.
+<td>**c)** Pour les résidents de la Saskatchewan, au plus quatre peuvent être des Oies rieuses. Pour les non-résidents de la Saskatchewan, au plus trois peuvent être des Oies rieuses.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Dont dix au plus peuvent être des Oies rieuses.
+<td>**d)** Pour les résidents de la Saskatchewan, au plus huit peuvent être des Oies rieuses. Pour les non-résidents de la Saskatchewan, au plus six peuvent être des Oies rieuses.
 
 </td>
 </tr>
@@ -3382,7 +3100,7 @@ au 16 décembre
 
 
 
-**f)** ***Zone n<sup>o</sup> 6*** désigne la partie de l’Alberta comprise dans les secteurs de gestion de la faune 104, 106, 107, 108, 110, 112, 128, 130, 132, 134, 136, 138, 140, 142, 152, 156, 158, 210, 212, 214, 300, 302, 303, 304, 305, 306, 308, 310, 312 et 314;
+**f)** ***Zone n<sup>o</sup> 6*** désigne la partie de l’Alberta comprise dans les secteurs de gestion de la faune 104, 106, 108, 110, 112, 128, 130, 132, 134, 136, 138, 140, 142, 152, 156, 158, 210, 212, 214, 300, 302, 303, 304, 305, 306, 308, 310, 312 et 314;
 
 
 
@@ -3433,13 +3151,13 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
+<td>  8a)</td>
 <td>20</td>
-<td>8c)</td>
+<td>  8c)</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -3452,7 +3170,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards pilets.
@@ -3465,12 +3183,12 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Dont cinq, au plus, peuvent être des Oies rieuses.
+<td>**c)** Pour les résidents canadiens, au plus cinq peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus trois peuvent être des Oies rieuses.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Dont dix, au plus, peuvent être des Oies rieuses.
+<td>**d)** Pour les résidents canadiens, au plus dix peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus six peuvent être des Oies rieuses.
 
 </td>
 </tr>
@@ -3489,20 +3207,18 @@ TABLEAU I.1
 <tr>
 <th></th>
 <th>Colonne I</th>
-<th>Colonne I.1</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
 <th>Colonne V</th>
 <th>Colonne VI</th>
 <th>Colonne VII</th>
+<th>Colonne VIII</th>
 </tr>
 <tr>
 <th>Article</th>
 <th>District</th>
-<th>Canards, oies et bernaches JOURNÉE DE LA RELÈVE
-
-</th>
+<th>Canards, et oies et bernaches</th>
 <th>Canards, foulques et bécassines</th>
 <th>Oies des neiges et Oies de Ross</th>
 <th>Autres oies et bernaches</th>
@@ -3516,198 +3232,54 @@ TABLEAU I.1
 <tr>
 <td>1</td>
 <td>N<sup>o</sup> 1</td>
-<td>10 et 11 septembre b)
-
-et 1<sup>er</sup> et 2 octobre p)
-
-</td>
-<td>du 8 octobre
-
-au 20 janvier
-
-</td>
-<td>du 8octobre
-
-au 20 janvier
-
-</td>
-<td>du 8 octobre
-
-au 20 janvier a),
-
-du 15 septembre
-
-au 22 octobre b), h),
-
-du 15 décembre
-
-au 25 janvier b), h) et
-
-du 14 février
-
-au 10 mars b), h)
-
-</td>
+<td>9 et 10 septembre b) et 30 septembre et 1<sup>er</sup> octobre p) (Journées de la relève)</td>
+<td>du 7 octobre au 19 janvier</td>
+<td>du 7 octobre au 19 janvier</td>
+<td>du 7 octobre au 19 janvier a), du 15 septembre au 22 octobre b), h), du 15 décembre au 25 janvier b), h) et du 14 février au 10 mars b), h)</td>
 <td>pas de saison de chasse</td>
-<td>du 15 au
-
-30 septembre
-
-</td>
+<td>du 15 au 30 septembre</td>
 <td>pas de saison de chasse</td>
 </tr>
 <tr>
 <td>2</td>
 <td>N<sup>o</sup> 2</td>
-<td>3 et 4 septembrej), r)
-
-et 1<sup>er</sup> et 2 octobre q)
-
-</td>
-<td>du 8 octobre
-
-au 20 janvier g), h)
-
-et du 10 septembre
-
-au 23 décembre j)
-
-</td>
-<td>du 8 octobre
-
-au 2 janvier d) et
-
-du 21 février
-
-au 10 mars d)
-
-</td>
-<td>du 8 octobre
-
-au 20 janvier e),
-
-du 10 au
-
-18 septembre f), h),
-
-du 8 octobre au
-
-27 novembre f), h), du
-
-17 décembre
-
-au 2 janvier f), h), du
-
-11 février
-
-au 10 mars f), h) et du
-
-10 septembre
-
-au 23 décembre c), j)
-
-</td>
-<td>du 1<sup>er</sup> au
-
-10 mars h), i)
-
-
-
-</td>
-<td>du 15
-
-au 30 septembre s)
-
-</td>
+<td>2 et 3 septembre j), r) et 30 septembre et 1<sup>er</sup> octobre q) (Journées de la relève)</td>
+<td>du 7 octobre au 19 janvier g), h) et du 10 septembre au 23 décembre j)</td>
+<td>du 7 octobre au 2 janvier d) et du 22 février au 10 mars d)</td>
+<td>du 7 octobre au 19 janvier e), du 9 au 17 septembre f), h), du 7 octobre au 26 novembre f), h), du 16 décembre au 1<sup>er</sup> janvier f), h), du 11 février au 10 mars f), h) et du 10 septembre au 23 décembre c), j)</td>
+<td>du 1<sup>er</sup> au 10 mars h), i)</td>
+<td>du 15 au 30 septembre s)</td>
 <td>pas de saison de chasse</td>
 </tr>
 <tr>
 <td>3</td>
 <td>N<sup>o</sup> 3</td>
-<td>3 et 4 septembre</td>
-<td>du 10 septembre
-
-au 23 décembre
-
-</td>
-<td>du 10 septembre
-
-au 23 décembre
-
-</td>
-<td>du 10 septembre
-
-au 23 décembre k),
-
-du 10 au 20
-
-septembre l),
-
-du 1<sup>er</sup> octobre
-
-au 23 décembre l) et
-
-du 1<sup>er</sup> au 10 mars l)
-
-</td>
+<td>2 et 3 septembre (Journées de la relève)</td>
+<td>du 10 septembre au 23 décembre</td>
+<td>du 10 septembre au 23 décembre</td>
+<td>du 10 septembre au 23 décembre k), du 10 au 20 septembre l), du 1<sup>er</sup> octobre au 23 décembre l) et du 1<sup>er</sup> au 10 mars l)</td>
 <td>pas de saison de chasse</td>
-<td>du 15 au
-
-30 septembre t)
-
-</td>
-<td>du 1<sup>er</sup> au
-
-30 septembre
-
-</td>
+<td>du 15 au 30 septembre t)</td>
+<td>du 1<sup>er</sup> au 30 septembre</td>
 </tr>
 <tr>
 <td>4</td>
 <td>N<sup>o</sup> 4</td>
-<td>3 et 4 septembre</td>
-<td>du 10 septembre
-
-au 23 décembre
-
-</td>
-<td>du 10 septembre
-
-au 23 décembre
-
-</td>
-<td>du 10 septembre
-
-au 23 décembre
-
-</td>
+<td>2 et 3 septembre (Journées de la relève)</td>
+<td>du 10 septembre au 23 décembre</td>
+<td>du 10 septembre au 23 décembre</td>
+<td>du 10 septembre au 23 décembre</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
-<td>du 1<sup>er</sup> au
-
-30 septembre
-
-</td>
+<td>du 1<sup>er</sup> au 30 septembre</td>
 </tr>
 <tr>
 <td>5</td>
 <td>N<sup>o</sup> 5</td>
-<td>10 et 11 septembre</td>
-<td>du 15 septembre
-
-au 25 décembre
-
-</td>
-<td>du 15 septembre
-
-au 25 décembre
-
-</td>
-<td>du 15 septembre
-
-au 25 décembre
-
-</td>
+<td>9 et 10 septembre (Journées de la relève)</td>
+<td>du 15 septembre au 25 décembre</td>
+<td>du 15 septembre au 25 décembre</td>
+<td>du 15 septembre au 25 décembre</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
@@ -3715,34 +3287,10 @@ au 25 décembre
 <tr>
 <td>6</td>
 <td>N<sup>o</sup> 6</td>
-<td>17 et 18 septembre n)</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre m)
-
-et du 1<sup>er</sup> octobre
-
-au 13 janvier n)
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre m)
-
-et du 1<sup>er</sup> octobre
-
-au 13 janvier n)
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre m) et
-
-du 1<sup>er</sup> octobre
-
-au 13 janvier n)
-
-</td>
+<td>1<sup>er</sup> et 2 septembre m), et 16 et 17 septembre n) (Journées de la relève)</td>
+<td>du 3 septembre au 30 novembre m) et du 1<sup>er</sup> octobre au 13 janvier n)</td>
+<td>du 3 septembre au 30 novembre m) et du 1<sup>er</sup> octobre au 13 janvier n)</td>
+<td>du 3 septembre au 30 novembre m) et du 1<sup>er</sup> octobre au 13 janvier n)</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
@@ -3751,21 +3299,9 @@ au 13 janvier n)
 <td>7</td>
 <td>N<sup>o</sup> 7</td>
 <td>s/o</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre
-
-</td>
-<td>du 1<sup>er</sup> septembre
-
-au 30 novembre
-
-</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
@@ -3773,41 +3309,13 @@ au 30 novembre
 <tr>
 <td>8</td>
 <td>N<sup>o</sup> 8</td>
-<td>3 et 4 septembre</td>
-<td>du 12 septembre
-
-au 25 décembre
-
-</td>
-<td>du 12 septembre
-
-au 25 décembre
-
-</td>
-<td>du 12 septembre
-
-au 25 décembre o),
-
-du 20 septembre
-
-au 28 novembre c),
-
-du 20 décembre
-
-au 5 janvier c) et
-
-du 21 février
-
-au 10 mars c)
-
-</td>
+<td>2 et 3 septembre (Journées de la relève)</td>
+<td>du 12 septembre au 25 décembre</td>
+<td>du 12 septembre au 25 décembre</td>
+<td>du 12 septembre au 25 décembre o), du 20 septembre au 28 novembre c), du 20 décembre au 5 janvier c) et du 21 février au 10 mars c)</td>
 <td>pas de saison de chasse</td>
 <td>pas de saison de chasse</td>
-<td>du 1<sup>er</sup> au
-
-30 septembre
-
-</td>
+<td>du 1<sup>er</sup> au 30 septembre</td>
 </tr>
 <tr>
 <td></td>
@@ -3863,12 +3371,12 @@ au 10 mars c)
 </td>
 </tr>
 <tr>
-<td>**k)** Secteurs provinciaux de gestion 3-12 à 3-18, 3-30 à 3-35 et 3-38 à 3-44 pour l’Oie rieuse et la Bernache du Canada, et secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29, 3-36 et 3-37 pour l’Oie rieuse seulement.
+<td>**k)** Secteurs provinciaux de gestion 3-12 à 3-18 inclusivement, 3-30 à 3-35 inclusivement et 3-38 à 3-44 inclusivement pour l’Oie rieuse et la Bernache du Canada, et secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour l’Oie rieuse seulement.
 
 </td>
 </tr>
 <tr>
-<td>**l)** Secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29, 3-36 et 3-37 pour la Bernache du Canada seulement.
+<td>**l)** Secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour la Bernache du Canada seulement.
 
 </td>
 </tr>
@@ -3888,12 +3396,12 @@ au 10 mars c)
 </td>
 </tr>
 <tr>
-<td>**p)** Pour les canards, l’Oie des Neiges et l’Oie de Ross seulement et, de plus, dans les secteurs provinciaux de gestion 1-3 et 1-7 à 1-15 pour la Bernache du Canada.
+<td>**p)** Pour les canards, l’Oie des Neiges et l’Oie de Ross seulement et, de plus, dans les secteurs provinciaux de gestion 1-3 et 1-7 à 1-15 inclusivement pour la Bernache du Canada.
 
 </td>
 </tr>
 <tr>
-<td>**q)** Secteurs provinciaux de gestion 2-2 à 2-10 et 2-12 à 2-19 pour les canards et la Bernache du Canada seulement et, de plus, dans les secteurs provinciaux de gestion 2-4 et 2-5 seulement pour l’Oie des neiges et l’Oie de Ross.
+<td>**q)** Secteurs provinciaux de gestion 2-2 à 2-10 inclusivement et 2-12 à 2-19 inclusivement pour les canards et la Bernache du Canada seulement et, de plus, dans les secteurs provinciaux de gestion 2-4 et 2-5 seulement pour l’Oie des neiges et l’Oie de Ross.
 
 </td>
 </tr>
@@ -3903,12 +3411,12 @@ au 10 mars c)
 </td>
 </tr>
 <tr>
-<td>**s)** Secteurs provinciaux de gestion 2-2 à 2-19.
+<td>**s)** Secteurs provinciaux de gestion 2-2 à 2-19 inclusivement.
 
 </td>
 </tr>
 <tr>
-<td>**t)** Secteurs provinciaux de gestion 3-13 à 3-17.
+<td>**t)** Secteurs provinciaux de gestion 3-13 à 3-17 inclusivement.
 
 </td>
 </tr>
@@ -3979,16 +3487,16 @@ TABLEAU I.1
 <th>Tourterelles tristes</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8 a)c)e)k)</td>
-<td>5 g)i)</td>
+<td>  8 a)c)e)k)</td>
+<td>  5 g)i)</td>
 <td>10</td>
 <td>10</td>
-<td>5</td>
-<td>5</td>
+<td>  5</td>
+<td>  5</td>
 </tr>
 <tr>
 <td>Possession</td>
@@ -4000,7 +3508,7 @@ TABLEAU I.1
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canard pilets.
@@ -4085,7 +3593,7 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4124,14 +3632,14 @@ TABLEAU I.1
 <th>Bécassines NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
 <td>25</td>
-<td>8</td>
+<td>  8</td>
 <td>15</td>
-<td>5 a)</td>
+<td>  5 a)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -4147,7 +3655,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -4185,7 +3693,7 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4255,12 +3763,12 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
-<td>8a)</td>
-<td>5b)</td>
+<td>  8a)</td>
+<td>  5b)</td>
 <td>2</td>
 <td>0c)</td>
 <td>10</td>
@@ -4274,7 +3782,7 @@ TABLEAU I.1
 <td>30d)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf qu’il est permis de prendre 17 canards de plus par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
@@ -4319,7 +3827,7 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4327,7 +3835,7 @@ TABLEAU I.1
 <td>du 1<sup>er</sup> septembre au 10 décembre a)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Des enregistrements d’appels d’Oies des neiges et des leurres blancs peuvent être utilisés pour chasser l’Oie des neiges. Ce faisant, tout oiseau migrateur pour lequel il y a une saison de chasse ouverte peut aussi être pris.
@@ -4356,7 +3864,7 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -4365,7 +3873,7 @@ TABLEAU I.1
 <td>Enregistrements d’appels d’oiseaux a) b)</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -4397,14 +3905,14 @@ TABLEAU I.1
 <th>Bécassines NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
-<th></th>
+<th> </th>
 </tr>
 <tr>
 <td>Prises par jour</td>
 <td>25c)g)</td>
-<td>8c)g)</td>
+<td>  8c)g)</td>
 <td>15b)e)</td>
-<td>5a)b)e)</td>
+<td>  5a)b)e)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -4420,7 +3928,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td> </td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -4466,7 +3974,7 @@ TABLEAU I.1
 
 
 
-> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26.
+> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1; DORS/2006-136, art. 2 à 10, 11(A), 12, 13(A) et 14 à 30; DORS/2006-284, art. 1.
 
 
 
