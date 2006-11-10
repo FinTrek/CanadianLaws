@@ -8,7 +8,7 @@
 Sanctionnée sur le 22 juin 2006
 
 ```
-[Édictée par l’article 208 du chapitre 4 des Lois du Canada (2006), non en vigueur.]
+[Édictée par l’article 208 du chapitre 4 des Lois du Canada (2006), en vigueur le 10 novembre 2006, voir TR/2006-132.]
 ```
 ----------
 
