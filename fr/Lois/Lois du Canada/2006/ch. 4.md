@@ -1224,7 +1224,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#B-9.855_s213f'>[*]</a></sup>**213** Les articles 208 à 212 entrent en vigueur à la date fixée par décret.
 
-<a name='B-9.855_s213f'><sup>*</sup></a>: [Note: Articles 208 à 212 non en vigueur.]<br />
+<a name='B-9.855_s213f'><sup>*</sup></a>: [Note : Articles 208 à 212 en vigueur le 10 novembre 2006, *voir* TR/2006-132.]<br />
 
 
 
