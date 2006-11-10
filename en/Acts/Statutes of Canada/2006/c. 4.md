@@ -1225,7 +1225,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#b-9.855_s213e'>[*]</a></sup>**213** Sections 208 to 212 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='b-9.855_s213e'><sup>*</sup></a>: [Note: Sections 208 to 212 not in force.]<br />
+<a name='b-9.855_s213e'><sup>*</sup></a>: [Note: Sections 208 to 212 in force November 10, 2006, *see* SI/2006-132.]<br />
 
 
 
