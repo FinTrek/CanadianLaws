@@ -26,34 +26,44 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***Act*** means the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*Loi*)
+***Act*** means the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*Loi*)
 
-***Assistant Deputy Minister*** means the Assistant Deputy Minister, Healthy Environments and Consumer Safety Branch, of the Department of Health; (*sous-ministre adjoint*)
+***Assistant Deputy Minister***[Repealed, SOR/2004-244, s. 1]
 
-***child-resistant container*** has the same meaning as in section 2 of the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001; (*contenant protège-enfants*)
+***botanical*** means an ingredient that is directly derived from a plant and that has not been chemically modified before it is used in the preparation of a cosmetic; (*substance végétale*)
 
-***flame projection*** means the ability of the pressurized contents of an aerosol container to ignite and the length of that ignition, when tested in accordance with official method DO-30, Determination of Flame Projection, dated October 15, 1981; (*projection de flamme*)
+***child-resistant container*** has the same meaning as in section 2 of the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001; (*contenant protège-enfants*)
 
-***flashback*** means that part of the flame projection that extends from its point of ignition back to the aerosol container when tested in accordance with official method DO-30, Determination of Flame Projection, dated October 15, 1981; (*retour de flamme*)
+***flame projection*** means the ability of the pressurized contents of an aerosol container to ignite and the length of that ignition, when tested in accordance with official method DO-30, Determination of Flame Projection, dated October 15, 1981; (*projection de flamme*)
 
-***inner label*** means a label on or affixed to the immediate container of a cosmetic; (*étiquette intérieure*)
+***flashback*** means that part of the flame projection that extends from its point of ignition back to the aerosol container when tested in accordance with official method DO-30, Determination of Flame Projection, dated October 15, 1981; (*retour de flamme*)
 
-***manufacturer*** means any person, partnership or unincorporated association that manufactures and, under its own name or under a trade mark, design, trade name or other name or mark owned or controlled by it, sells a cosmetic and includes any other person, partnership or unincorporated association that sells a cosmetic in such a manner; (*fabricant*)
+***ICI Dictionary*** means the International Cosmetic Ingredient Dictionary and Handbook, 10th edition (2004), published in Washington, D.C., U.S.A., by The Cosmetic, Toiletry, and Fragrance Association Inc., as amended from time to time; (*dictionnaire ICI*)
 
-***official method*** means a method of analysis or examination designated as such by the Assistant Deputy Minister for use in the administration of the Act and these Regulations; (*méthode officielle*)
+***INCI name*** means the International Nomenclature Cosmetic Ingredient name assigned to an ingredient in the ICI Dictionary; (*appellation INCI*)
 
-***outer label*** means a label on or affixed to the outside package of a cosmetic; (*étiquette extérieure*)
+***ingredient*** means any substance that is one of the components of a cosmetic and includes colouring agents, botanicals, fragrance and flavour, but does not include substances that are used in the preparation of the cosmetic but that are not present in the final product as a result of the chemical process; (*ingrédient*)
 
-***practitioner*** means a person who is registered and licensed under the laws of a province to practise the profession of medicine in that province; (*praticien*)
+***inner label*** means a label on or affixed to the immediate container of a cosmetic; (*étiquette intérieure*)
 
-***prescription*** means a direction given by a practitioner; (*ordonnance*)
+***manufacturer*** means a person, a partnership or an unincorporated association that sells, or manufactures and sells, a cosmetic under its own name or under a trade-mark, design, trade name or other name or mark owned or controlled by it; (*fabricant*)
 
-***principal display panel*** has the same meaning as in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
+***official method*** means a method of analysis or examination designated as such by the Minister for use in the administration of the Act and these Regulations; (*méthode officielle*)
 
-***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material on it other than a trade-mark or common name, and that appears to be a decorative ornament because of a design that is on its surface or because of its shape or texture, and is sold as a decorative ornament in addition to being sold as the container of a cosmetic; (*contenant décoratif*)
+
+***outer label*** means a label on or affixed to the outside package of a cosmetic; (*étiquette extérieure*)
+
+***practitioner*** means a person who is registered and licensed under the laws of a province to practise the profession of medicine in that province; (*praticien*)
+
+***prescription*** means a direction given by a practitioner; (*ordonnance*)
+
+***principal display panel*** has the same meaning as in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
+
+***security package*** means a package having a security feature that provides reasonable assurance to consumers that the package has not been opened prior to purchase. (*emballage de sécurité*)
 
 - **(2)** Where a cosmetic has more than one name, a reference in these Regulations to the cosmetic by any of its names is deemed to be a reference to the cosmetic by all of its names.
-> SOR/81-615, s. 1; SOR/85-142, s. 1; SOR/92-16, s. 1; SOR/94-559, s. 1; SOR/2001-272, s. 1.
+> SOR/81-615, s. 1; SOR/85-142, s. 1; SOR/92-16, s. 1; SOR/94-559, s. 1; SOR/2001-272, s. 1; SOR/2004-244, s. 1.
 
 
 
@@ -74,11 +84,7 @@ Enabling authorities:
 
 
 
-**4** The certificate of designation required pursuant to subsection 22(2) of the Act shall
-- **(a)** certify that the person named therein is an inspector for the purpose of the Act; and
-- **(b)** be signed by the Assistant Deputy Minister and the person named in the certificate.
-> SOR/95-172, s. 2.
-
+**4** [Repealed, SOR/2004-244, s. 2]
 
 
 
@@ -108,11 +114,13 @@ Enabling authorities:
 	- **(a)** he gives to an inspector notice of the proposed importation; and
 	- **(b)** the cosmetic will be relabelled or modified under the supervision of an inspector in such a manner as to enable the sale of the cosmetic to be lawful in Canada.
 
-- **(2)** No person shall sell a cosmetic that has been imported into Canada pursuant to subsection (1) unless the cosmetic has been relabelled or modified to the satisfaction of the inspector under whose supervision the relabelling or modification was carried out within three months after the importation of the cosmetic into Canada or within such longer period as the Assistant Deputy Minister may specify.
+- **(2)** No person shall sell a cosmetic that has been imported into Canada under subsection (1) unless the cosmetic is relabelled or modified in accordance with the Act and these Regulations within three months after its importation.
+> SOR/2004-244, s. 3.
 
 
 
-**10** No person shall import a cosmetic into Canada for sale unless the information and materials required by section 30 have been filed with the Assistant Deputy Minister in respect of that cosmetic.
+
+**10** [Repealed, SOR/2004-244, s. 4]
 
 
 
@@ -120,7 +128,7 @@ Enabling authorities:
 ## Sampling
 
 
-**11** Where an inspector takes a sample of a cosmetic pursuant to paragraph 22(1)(a) of the Act, he shall inform the owner thereof or the person from whom the sample is taken that he proposes to submit the sample or a part thereof to an analyst for analysis or examination and
+**11** When an inspector takes a sample of a cosmetic under subsection 23(1) of the Act, the inspector shall inform the owner of the cosmetic or the person from whom the sample is taken that the inspector proposes to submit the sample or a part of it to an analyst for analysis or examination and
 - **(a)** where, in the opinion of the inspector, division of the procured quantity would not interfere with analysis or examination, he shall
 	- **(i)** divide the quantity into three parts,
 	- **(ii)** identify the three parts as the owner’s portion, the sample and the duplicate sample and where only one part bears the label, identify that part as the sample,
@@ -130,6 +138,8 @@ Enabling authorities:
 	- **(i)** identify the entire quantity as the sample,
 	- **(ii)** seal the sample in such a manner that it cannot be opened without breaking the seal, and
 	- **(iii)** forward the sample to an analyst for analysis or examination.
+> SOR/2004-244, s. 5.
+
 
 
 
@@ -168,14 +178,14 @@ Enabling authorities:
 - **(b)** the mercury or its salt or derivative thereof is used in the cosmetic as a preservative; and
 - **(c)** the manufacturer or importer
 	- **(i)** has in his possession evidence demonstrating that the only satisfactory way to maintain the sterility or stability of the cosmetic is to use mercury or a salt or derivative thereof as a preservative, and
-	- **(ii)** at the request of the Assistant Deputy Minister, furnishes the Assistant Deputy Minister with the evidence referred to in subparagraph (i).
-> SOR/89-228, s. 2; SOR/93-243, s. 2.
+	- **(ii)** at the Minister’s request, provides the Minister with the evidence described in subparagraph (i).
+> SOR/89-228, s. 2; SOR/93-243, s. 2; SOR/2004-244, s. 6.
 
 
 
 
-**15.2** No person shall sell a cosmetic described in sections 28.2 to 28.4 unless it is packaged in a child-resistant container.
-> SOR/94-559, s. 2.
+**15.2** No person shall sell a cosmetic described in section 28.2 or 28.3 unless it is packaged in a child-resistant container.
+> SOR/94-559, s. 2; SOR/2004-244, s. 7.
 
 
 
@@ -188,51 +198,118 @@ Enabling authorities:
 ## Labelling
 
 
+
+### General
+> [SOR/2004-244, s. 8.]
+
+
+
 **17** No reference, direct or indirect, to the Act or these Regulations shall be made on any label or in any advertisement of a cosmetic unless the reference is a specific requirement of the Act or these Regulations.
 
 
 
-**18** All information required by these Regulations to appear on the label of a cosmetic shall be
-- **(a)** clearly and prominently displayed thereon; and
-- **(b)** readily discernible to the purchaser or consumer under the customary conditions of purchase and use.
+**18** The information required by these Regulations to be provided on the label of a cosmetic must
+- **(a)** be shown both in English and in French, except for the INCI name; and
+- **(b)** be clearly legible and remain so throughout the useful life of the cosmetic, or in the case of a refillable container, throughout its useful life, under normal conditions of sale and use.
+> SOR/2004-244, s. 9.
 
 
 
-**19** Where a cosmetic has only one label, that label shall contain all the information required by these Regulations to be shown on both the inner and outer label thereof.
+
+**19** If a cosmetic has only one label, that label must contain all the information required by these Regulations to be shown on both the inner and outer labels.
+> SOR/2004-244, s. 9.
+
 
 
 
 **20** Subject to these Regulations, the inner label of a cosmetic shall show
-- **(a)** the name of the manufacturer or distributor of the cosmetic and the address of his principal place of business; and
+- **(a)** the name of the manufacturer and the address of their principal place of business; and
 - **(b)** the identity of the cosmetic in terms of its common or generic name or in terms of its function, unless the identity is obvious.
+> SOR/2004-244, s. 10.
+
 
 
 
 **21** 
 
-- **(1)** No manufacturer shall, on any label or in any advertisement for a cosmetic, make any claim respecting
-	- **(a)** the ability of the product or any ingredient thereof to influence the chemistry of the skin, hair or teeth, or
-	- **(b)** product formulation, manufacture or performance that would imply that the user of the product will not suffer injury to health,
-unless the manufacturer is in possession of evidence validating the claim.
+- **(1)** No manufacturer shall make any claim on a label of or in an advertisement for a cosmetic respecting either of the following, unless the manufacturer has evidence that validates the claim:
+	- **(a)** the ability of the cosmetic or any of its ingredients to influence the chemistry of the skin, hair or teeth; or
+	- **(b)** the formulation, manufacture or performance of the cosmetic that would imply that the user of the cosmetic will not suffer injury to their health.
 
-- **(2)** The manufacturer shall, on request, furnish the Assistant Deputy Minister with the evidence referred to in subsection (1).
-
-
-
-**22** 
-
-- **(1)** Subject to subsection (2), no person shall sell a hair dye that contains paraphenylenediamine or other coal tar dye base or coal tar dye intermediate unless
-	- **(a)** both the inner and the outer labels thereof carry the following warning:“CAUTION: This product contains ingredients that may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows. To do so may cause blindness”
-
-“*MISE EN GARDE : Ce produit contient des ingrédients qui peuvent causer de l’irritation cutanée chez certaines personnes; il faut donc d’abord effectuer une épreuve préliminaire selon les directives ci-jointes. Ce produit ne doit pas servir à teindre les sourcils ni les cils; en ce faisant, on pourrait provoquer la cécité*”; and
+- **(2)** The manufacturer shall, on request, provide the Minister with the evidence referred to in subsection (1).
+> SOR/2004-244, s. 11.
 
 
-	- **(b)** instructions to the following effect, in both official languages, accompany each package of the hair dye;
-		- **(i)** the preparation may cause serious inflammation of the skin in some persons and a preliminary test should always be carried out to determine whether or not special sensitivity exists, and
-		- **(ii)** to make the test, a small area of skin behind the ear or on the inner surface of the forearm should be cleansed, using either soap and water or alcohol, and a small quantity of the hair dye as prepared for use should be applied to the area and allowed to dry. After 24 hours, the area should be washed gently with soap and water. If no irritation or inflammation is apparent, it is usually assumed that no hypersensitivity to the dye exists. The test should, however, be carried out before each application. On no account should the hair dye be used for dyeing eyebrows or eyelashes as severe inflammation of the eye or even blindness may result.
 
-- **(2)** [Repealed, SOR/89-228, s. 3]
-> SOR/89-228, s. 3.
+
+
+### List of Ingredients
+
+
+**21.1** Sections 21.2 to 21.5 do not apply to any product whose ingredient labelling is regulated under the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md) or the [Natural Health Products Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2003/196.md).
+> SOR/2004-244, s. 11.
+
+
+
+
+**21.2** 
+
+- **(1)** Subject to subsection (4), a list of ingredients must appear on the outer label of a cosmetic, with each ingredient listed only by its INCI name.
+
+- **(2)** In the case of makeup and nail polish and enamel sold in a range of colour shades, all colouring agents used in the range may be listed if they are preceded by the symbol “+/–” or “±” or the phrase “may contain/peut contenir”.
+
+- **(3)** Botanicals must be listed by specifying at least the genus and species portions of the INCI name.
+
+- **(4)** An ingredient that is included in the schedule may be listed either by its EU trivial name set out in column 1 of the schedule or by the appropriate English and French equivalents set out in columns 2 and 3.
+> SOR/2004-244, s. 11.
+
+
+
+
+**21.3** An ingredient that has no INCI name must be listed by its chemical name.
+> SOR/2004-244, s. 11.
+
+
+
+
+**21.4** 
+
+- **(1)** Subject to subsections (2) and (3), ingredients must be listed in descending order of predominance, in their concentration by weight.
+
+- **(2)** Ingredients that are present at a concentration of 1% or less and all colouring agents, regardless of their concentration, may be listed in random order after the ingredients that are present at a concentration of more than 1%.
+
+- **(3)** In the case of fragrance and flavour, the words “parfum” and “aroma”, respectively, may be inserted at the end of the list of ingredients to indicate that such ingredients have been added to the cosmetic to produce or to mask a particular odour or flavour.
+> SOR/2004-244, s. 11.
+
+
+
+
+**21.5** 
+
+- **(1)** Despite subsection 21.2(1), in the case of a cosmetic whose immediate container or outside package is so small that the label cannot comply with the requirements of paragraph 18(b), the list of ingredients may appear on a tag, tape or card affixed to the container or package.
+
+- **(2)** Despite subsection 21.2(1), in the case of a cosmetic in an ornamental container that has no outside package, the list of ingredients may appear on a tag, tape or card affixed to the container.
+
+- **(3)** Despite subsection 21.2(1), in the case of a cosmetic that has no outside package and whose size, shape or texture, or that of its immediate container, makes it impractical for a tag, tape or card to be affixed to the container, the list of ingredients may instead appear in a leaflet that must accompany the cosmetic at the point of sale.
+> SOR/2004-244, s. 11.
+
+
+
+
+
+### Particular Requirements for Certain Cosmetics
+
+
+**22** A hair dye that contains paraphenylenediamine or other coal tar dye base or coal tar intermediate must
+- **(a)** carry the following warning on both the inner and outer labels:“CAUTION: This product contains ingredients that may cause skin irritation on certain individuals and a preliminary test according to accompanying directions should first be made. This product must not be used for dyeing the eyelashes or eyebrows. To do so may cause blindness.
+
+*MISE EN GARDE : Ce produit contient des ingrédients qui peuvent causer de l’irritation cutanée chez certaines personnes; il faut donc d’abord effectuer une épreuve préliminaire selon les directives ci-jointes. Ce produit ne doit pas servir à teindre les sourcils ni les cils; en ce faisant, on pourrait provoquer la cécité.*”; and
+
+
+- **(b)** be accompanied by instructions to the following effect:
+	- **(i)** the preparation may cause serious inflammation of the skin in some persons, and a preliminary test should always be made to determine whether special sensitivity exists, and
+	- **(ii)** to make the test, a small area of skin behind the ear or on the inner surface of the forearm should be cleansed, using either soap and water or alcohol, and a small quantity of the hair dye as prepared for use should be applied to the area and allowed to dry. After 24 hours, the area should be washed gently with soap and water. If no irritation or inflammation is apparent, it may be assumed that no hypersensitivity to the dye exists. The test should be made before each application. The hair dye should never be used for dyeing eyebrows or eyelashes, as severe inflammation of the eye or even blindness may result.
+> SOR/89-228, s. 3; SOR/2004-244, s. 11.
 
 
 
@@ -257,21 +334,21 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 **24** 
 
-- **(1)** No person shall sell a cosmetic presenting an avoidable hazard unless the label carries, in both official languages adequate directions for safe use.
+- **(1)** The label of a cosmetic that presents an avoidable hazard must include adequate directions for safe use.
 
 - **(2)** For the purpose of subsection (1), ***avoidable hazard*** means a threat of injury to the health of the user of a cosmetic that can be
-	- **(a)** predicted from the composition of the cosmetic, the toxicology of the ingredients and the site of application thereof;
+	- **(a)** predicted from the cosmetic’s composition, the toxicology of its ingredients and the site of its application;
 	- **(b)** reasonably anticipated during normal use; and
 	- **(c)** eliminated by specified limitations on the usage of the cosmetic.
-
-- **(3)** [Repealed, SOR/89-228, s. 5]
-> SOR/89-228, s. 5.
+> SOR/89-228, s. 5; SOR/2004-244, s. 12.
 
 
 
 
 
-## Cosmetics in Pressurized Containers
+## Pressurized Containers
+> [SOR/2004-244, s. 13.]
+
 
 
 **25** 
@@ -294,10 +371,10 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 
 
-- **(3)** Where the Assistant Deputy Minister has determined, at the request of the manufacturer, that the materials used in the construction of a container described in subsection (1) or the incorporation in that container of a safety device has eliminated the hazards presented by the container, subsections (1) and (2) do not apply to the cosmetic packaged in that container.
+- **(3)** If the Minister determines, at the request of the manufacturer, that the materials used in the construction of a container described in subsection (1) or the incorporation in such a container of a safety device has eliminated the hazards presented by the container, subsections (1) and (2) do not apply to the cosmetic packaged in that container.
 
 - **(4) and (5)** [Repealed, SOR/81-615, s. 2]
-> SOR/81-615, s. 2; SOR/85-928, s. 2; SOR/92-16, s. 2; SOR/2001-272, s. 2.
+> SOR/81-615, s. 2; SOR/85-928, s. 2; SOR/92-16, s. 2; SOR/2001-272, s. 2; SOR/2004-244, s. 14.
 
 
 
@@ -305,9 +382,9 @@ unless the manufacturer is in possession of evidence validating the claim.
 **26** 
 
 - **(1)** Subject to section 27, if a cosmetic is packaged in a container described in subsection 25(1) and has a flame projection of a length set out in column I of any of items 1 to 3 of the table to this subsection or has a flashback as set out in column I of item 4 of that table, as determined by official method DO-30, Determination of Flame Projection, dated October 15, 1981, the principal display panel of the inner label of and outer label for the cosmetic shall display, in accordance with sections 15 to 18 of the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001, the following information:
-	- **(a)** the hazard symbol set out in column II of the same item;
-	- **(b)** in both official languages, the signal word set out in column III of the same item; and
-	- **(c)** in both official languages, the primary hazard statement set out in column IV of the same item.
+	- **(a)** the hazard symbol set out in column II;
+	- **(b)** the signal word set out in column III; and
+	- **(c)** the primary hazard statement set out in column IV.
 #### TABLE/*TABLEAU*
 <table>
 <tr>
@@ -459,21 +536,21 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 
 
-> SOR/81-615, s. 3; SOR/82-430, s. 1; SOR/85-928, s. 3; SOR/92-16, s. 3; SOR/2001-272, s. 3.
+> SOR/81-615, s. 3; SOR/82-430, s. 1; SOR/85-928, s. 3; SOR/92-16, s. 3; SOR/2001-272, s. 3; SOR/2004-244, s. 15.
 
 
 
 
 **27** 
 
-- **(1)** Where the labelled net quantity of a container of a cosmetic described in subsection 25(1) or 26(1) does not exceed 60 millilitres or 60 grams, the inner label may show only the information described in paragraph 25(1)(a) or paragraphs 26(1)(a) and (b), as the case may be.
+- **(1)** When the labelled net quantity of a cosmetic described in subsection 25(1) or 26(1) is less than 30 mL or 30 g, the hazard symbol must be of such a size that it is capable of being circumscribed by a circle with a diameter of at least 6 mm.
 
-- **(2)** Where the labelled net quantity of a container of a cosmetic described in subsection 25(1) or 26(1) exceeds 60 millilitres or 60 grams but does not exceed 120 millilitres or 120 grams the inner label may show only the information described in subsection 25(1) or subsection 26(1), as the case may be.
+- **(2)** When the labelled net quantity of a cosmetic described in subsection 25(1) or 26(1) is not greater than 60 mL or 60 g, the inner label may show only the information described in paragraph 25(1)(a) or paragraphs 26(1)(a) and (b), as the case may be.
 
-- **(3)** Where the labelled net quantity, in a container, of a cosmetic described in subsection 25(1) or 26(1) is less than 30 mL or 30 g, the hazard symbol shall be of such size as to be capable of being circumscribed by a circle with a diameter of at least 6 mm.
+- **(3)** When the labelled net quantity of a cosmetic described in subsection 25(1) or 26(1) is greater than 60 mL or 60 g but not greater than 120 mL or 120 g, the inner label may show only the information described in subsection 25(1) or 26(1), as the case may be.
 
-- **(4)** Where a container of a cosmetic described in subsection (1) or (2) is sold in a package, the outer label may show only the information described in subsection 25(2) and where applicable, subsection 26(2).
-> SOR/81-615, s. 3; SOR/92-16, s. 4.
+- **(4)** When a cosmetic described in subsection (2) or (3) is sold in an outside package, the outer label may show only the information described in subsection 25(2) and, if applicable, subsection 26(2).
+> SOR/81-615, s. 3; SOR/92-16, s. 4; SOR/2004-244, s. 16.
 
 
 
@@ -492,29 +569,27 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 - **(2)** Subsection (1) applies only to mouthwash that is available to the public in an open self-selection area or that is distributed as a sample.
 
-- **(3)** Unless the security feature of a security package referred to in subsection (1) is self-evident and is an integral part of the immediate product container, the inner label of the security package shall carry a statement or illustration drawing attention to the security feature of the package and, if the security feature is part of an outer package, the outer label shall also carry the statement or illustration.
-> SOR/85-142, s. 2; SOR/89-228, s. 6.
+- **(3)** Unless the security feature of a security package is self-evident and is an integral part of the immediate container, the inner label of the security package must carry a statement or illustration that draws attention to the security feature of the package and, if the security feature is part of an outside package, the outer label must also carry the statement or illustration.
+> SOR/85-142, s. 2; SOR/89-228, s. 6; SOR/2004-244, s. 17(E).
 
 
 
 
-**28.2** The principal display panel of the inner label and the outer label of the container of a cosmetic, other than a disposable metal container designed to release pressurized contents by the use of a manually operated valve that forms an integral part of the container, that contains an amount of methyl alcohol equal to or greater than 5 mL, shall display
+**28.2** The principal display panel of the inner and outer labels of a cosmetic, other than one in a container described in subsection 25(1), that contains 5 mL or more of methyl alcohol must display all of the following information:
 - **(a)** the hazard symbol set out in column II of item 1 of Schedule II to the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001, in accordance with paragraphs 16(a) and (b) of those Regulations; and
-- **(b)** for each of the particulars set out in column I of items 1 to 5 of the table to section 46 of the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001, the signal word and statements set out in columns III and IV of those items, which shall be located on the labels in accordance with paragraphs 15(2)(a) and (c) of those Regulations and printed in accordance with paragraphs 17(a) and (b), 18(a) and (b) and 19(1)(a) and (b) and subsection 19(2) of those Regulations.
-> SOR/94-559, s. 3; SOR/2001-272, s. 4.
+- **(b)** for each of the particulars set out in column I of items 1 to 5 of the table to section 46 of the Consumer Chemicals and Containers Regulations, as they read on September 30, 2001, the signal word and statements set out in columns III and IV of those items, which must be located on the labels in accordance with paragraphs 15(2)(a) to (c) of those Regulations and printed in accordance with paragraphs 17(a) and (b), 18(a) and (b) and 19(1)(a) and (b) and subsection 19(2) of those Regulations.
+> SOR/94-559, s. 3; SOR/2001-272, s. 4; SOR/2004-244, s. 18.
 
 
 
 
-**28.3** The inner label and the outer label of a cosmetic, in liquid form, that contains an amount of sodium bromate (NaBrO<sub>3</sub>) equal to or greater than 600 mg or an amount of potassium bromate (KBrO<sub>3</sub>) equal to or greater than 50 mg, shall carry a statement to the effect that the product contains sodium bromate or potassium bromate, as the case may be, is poisonous, is to be kept out of reach of children and, in the case of accidental ingestion, a Poison Control Centre or physician is to be contacted immediately.
-> SOR/94-559, s. 3.
+**28.3** The inner and outer labels of a cosmetic in liquid form that contains 600 mg or more of sodium bromate (NaBrO<sub>3</sub>) or 50 mg or more of potassium bromate (KBrO<sub>3</sub> ) must carry a statement to the effect that the product contains sodium bromate or potassium bromate, as the case may be, is poisonous, is to be kept out of the reach of children and, in the case of accidental ingestion, a Poison Control Centre or physician is to be contacted immediately.
+> SOR/94-559, s. 3; SOR/2004-244, s. 19.
 
 
 
 
-**28.4** The inner label and the outer label of a cosmetic, in liquid form, that contains an amount of acetonitrile equal to or greater than 500 mg shall carry a statement to the effect that the product contains acetonitrile, is poisonous, is to be kept out of reach of children and, in the case of accidental ingestion, a Poison Control Centre or physician is to be contacted immediately.
-> SOR/94-559, s. 3.
-
+**28.4** [Repealed, SOR/2004-244, s. 19]
 
 
 
@@ -524,13 +599,15 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 **29** 
 
-- **(1)** The Assistant Deputy Minister may, in writing, request the manufacturer of a cosmetic to submit to him, on or before a specified day, evidence to establish the safety of the cosmetic under the recommended conditions of use of the cosmetic or when used under such methods of use as are customary or usual therefor.
+- **(1)** The Minister may request in writing that a manufacturer submit to the Minister, on or before a specified day, evidence to establish the safety of a cosmetic under the recommended or the normal conditions of use.
 
-- **(2)** Where the manufacturer of a cosmetic is requested by the Assistant Deputy Minister pursuant to subsection (1) to submit evidence of the safety with respect to a cosmetic, the manufacturer shall cease to sell that cosmetic after the day specified in the request unless he has duly submitted the evidence requested.
+- **(2)** A manufacturer who does not submit the evidence requested under subsection (1) shall cease to sell the cosmetic after the day specified in the request.
 
-- **(3)** Where the Assistant Deputy Minister is of the opinion that the evidence submitted by a manufacturer pursuant to subsection (1) is not sufficient, he shall notify the manufacturer in writing to that effect and the manufacturer shall not thereafter sell the cosmetic unless
-	- **(a)** he has submitted further evidence to the Assistant Deputy Minister; and
-	- **(b)** he has been notified in writing by the Assistant Deputy Minister that the further evidence is sufficient.
+- **(3)** If the Minister is of the opinion that the evidence submitted by a manufacturer under subsection (1) is not sufficient, the Minister shall notify the manufacturer in writing to that effect, and the manufacturer shall cease to sell the cosmetic until the manufacturer
+	- **(a)** has submitted further evidence to the Minister; and
+	- **(b)** has been notified in writing by the Minister that the further evidence is sufficient.
+> SOR/2004-244, s. 20.
+
 
 
 
@@ -540,19 +617,19 @@ unless the manufacturer is in possession of evidence validating the claim.
 
 **30** 
 
-- **(1)** Every manufacturer of a cosmetic shall within 10 days from the day on which he first sells the cosmetic, furnish the Assistant Deputy Minister with
-	- **(a)** a notification on a form obtained from the Assistant Deputy Minister and signed by the manufacturer or a person authorized on his behalf, advising whether he intends to continue sales of the cosmetic in Canada and including the information described in subsection (2); and
-	- **(b)** a copy or facsimile of the labels and inserts used in conjunction with the cosmetic where the labels and inserts require the information set out in sections 22 to 24.
+- **(1)** Every manufacturer and importer shall provide the Minister with the following documents, at the latest 10 days after the manufacturer or importer first sells a cosmetic:
+	- **(a)** a notification on a form obtained from the Minister and signed by the manufacturer or importer, as the case may be, or a person authorized on their behalf, advising whether they intend to continue sales of the cosmetic in Canada and including the information specified in subsection (2); and
+	- **(b)** if the labels and inserts used in conjunction with the cosmetic require the information set out in any of sections 22 to 24, a copy or facsimile of the labels and inserts
 
-- **(2)** For the purpose of paragraph (1)(a), the information described in this subsection is
-	- **(a)** the name and address of every person, firm, partnership or corporation appearing on the label of the cosmetic sold by the manufacturer;
+- **(2)** The following is the information required for the purpose of paragraph (1)(a):
+	- **(a)** the name and address of the manufacturer that appears on the label of the cosmetic in accordance with section 20;
 	- **(b)** the name under which the cosmetic is sold;
-	- **(c)** the purpose of the cosmetic;
-	- **(d)** a list of ingredients contained in the cosmetic and, for each ingredient, the exact concentration or the concentration range that includes the concentration of that ingredient which may be shown by the numbers indicated as applying to the concentration range on the table to this section;
+	- **(c)** the function of the cosmetic;
+	- **(d)** a list of the cosmetic’s ingredients and, for each ingredient, its exact concentration or the concentration range that includes its concentration, as set out in the table to this section;
 	- **(e)** the form of the cosmetic;
-	- **(f)** the name and address of the Canadian distributor;
-	- **(g)** where the cosmetic was not manufactured or formulated by the person whose name appears on the label of the cosmetic, the name and address of the person who manufactured or formulated the cosmetic; and
-	- **(h)** the name and office of the person who signed the notification referred to in paragraph (1)(a).
+	- **(f)** the name and address in Canada of the manufacturer, importer or distributor;
+	- **(g)** if the cosmetic was not manufactured or formulated by the person whose name appears on the label, the name and address of the person who manufactured or formulated it; and
+	- **(h)** the name and title of the person who signed the notification referred to in paragraph (1)(a).
 #### TABLE/TABLEAU
 <table>
 <tr>
@@ -624,19 +701,498 @@ unless the manufacturer is in possession of evidence validating the claim.
 </tr>
 </table>
 
+> SOR/2004-244, s. 21.
 
 
 
-**31** The manufacturer of a cosmetic who has furnished the Assistant Deputy Minister with a notification pursuant to section 30 shall, where any information or material furnished therewith becomes no longer accurate, furnish the Assistant Deputy Minister, within 10 days, with a revised notification together with such revised materials as may be applicable.
+
+**31** A manufacturer or importer who has provided the Minister with a notification under section 30 shall
+- **(a)** provide the Minister with a revised notification, together with any applicable revised document or information, within 10 days after the document or information becomes inaccurate; and
+- **(b)** promptly provide the Minister with any additional information respecting the notification that the Minister may request.
+> SOR/2004-244, s. 22.
 
 
 
-**32** Any manufacturer who has furnished the Assistant Deputy Minister with a notification pursuant to section 30 shall promptly furnish the Assistant Deputy Minister with such additional information respecting the cosmetic as the Assistant Deputy Minister may from time to time request.
+
+**32** [Repealed, SOR/2004-244, s. 22]
 
 
 
 
 ### **SCHEDULE** 
-[Repealed, SOR/81-615, s. 4]
+**(Subsection 21.2(4))**
+<table>
+<h4>EU Trivial Names and Their English and French Equivalents</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>EU Trivial Name</th>
+<th>English Equivalent</th>
+<th>French Equivalent</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Acetum</td>
+<td>Vinegar</td>
+<td>Vinaigre</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Adeps Bovis</td>
+<td>Tallow</td>
+<td>Suif</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Adeps Suillus</td>
+<td>Lard</td>
+<td>Saindoux</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Aqua</td>
+<td>Water</td>
+<td>Eau</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bassia Latifolia</td>
+<td>Illipe Butter</td>
+<td>Beurre d’illipe</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Beta Vulgaris</td>
+<td>Beet Root Extract</td>
+<td>Extrait de racine de betterave</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Bombyx</td>
+<td>Silk Worm Extract</td>
+<td>Extrait de ver à soie</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Brevoortia</td>
+<td>Menhaden Oil</td>
+<td>Huile de menhaden</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bubulum</td>
+<td>Neatsfoot Oil</td>
+<td>Huile de pied de bœuf</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Butyris Lac</td>
+<td>Buttermilk Powder</td>
+<td>Babeurre en poudre</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Butyrum</td>
+<td>Butter</td>
+<td>Beurre</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Candelilla Cera</td>
+<td>Euphorbia Cerifera (Candelilla) Wax</td>
+<td>Cire de candelilla</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Canola</td>
+<td>Canola Oil</td>
+<td>Huile de colza</td>
+</tr>
+<tr>
+<td>Canola Oil Unsaponifiables</td>
+<td>Huile de colza enrichie en insaponifiables</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Caprae Lac</td>
+<td>Goat Milk</td>
+<td>Lait de chèvre</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Cera Alba</td>
+<td>Beeswax</td>
+<td>Cire d’abeille</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Cera Carnauba</td>
+<td>Copernicia Cerifera (Carnauba) Wax</td>
+<td>Cire de carnauba</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Cera Microcristallina</td>
+<td>Microcrystalline Wax</td>
+<td>Cire microcristalline</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Colophonium</td>
+<td>Rosin</td>
+<td>Colophane</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Dromiceius</td>
+<td>Emu Oil</td>
+<td>Huile d’émeu</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Faex</td>
+<td>Lactic Yeast</td>
+<td>Levure lactique</td>
+</tr>
+<tr>
+<td>Yeast</td>
+<td>Levure</td>
+</tr>
+<tr>
+<td>Yeast Extract</td>
+<td>Extrait de levure</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Gadi Lecur</td>
+<td>Cod Liver Oil</td>
+<td>Huile de foie de morue</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Hoplostethus</td>
+<td>Orange Roughy Oil</td>
+<td>Huile d’hoplostète orange</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Hordeum Distichon</td>
+<td>Barley Extract</td>
+<td>Extrait d’orge à deux rangs</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Barley Seed Flour</td>
+<td>Farine d’orge à deux rangs</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Hordeum Vulgare</td>
+<td>Hordeum Vulgare Extract</td>
+<td>Extrait d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Juice</td>
+<td>Jus d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Leaf Juice</td>
+<td>Jus des feuilles d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Powder</td>
+<td>Poudre d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Root Extract</td>
+<td>Extrait de racine d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Seed Extract</td>
+<td>Extrait de semence d’orge</td>
+</tr>
+<tr>
+<td>Hordeum Vulgare Seed Flour</td>
+<td>Farine d’orge</td>
+</tr>
+<tr>
+<td>Spent Grain Flour</td>
+<td>Farine de drêche</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Lac</td>
+<td>Milk</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>Whole Dry Milk</td>
+<td>Lait entier en poudre</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Lactis Lipida</td>
+<td>Milk Lipids</td>
+<td>Lipides du lait</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Lactis Proteinum</td>
+<td>Milk Protein</td>
+<td>Protéine du lait</td>
+</tr>
+<tr>
+<td>Whey Protein</td>
+<td>Protéine du petit-lait</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Lanolin Cera</td>
+<td>Lanolin Wax</td>
+<td>Cire de lanoline</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Maris Aqua</td>
+<td>Sea Water</td>
+<td>Eau de mer</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Maris Limus</td>
+<td>Sea Silt Extract</td>
+<td>Extrait de limon marin</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Maris Sal</td>
+<td>Sea Salt</td>
+<td>Sel marin</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Mel</td>
+<td>Honey</td>
+<td>Miel</td>
+</tr>
+<tr>
+<td>Honey Extract</td>
+<td>Extrait de miel</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Montan Cera</td>
+<td>Montan Wax</td>
+<td>Cire de Montan</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Mortierella Isabellina</td>
+<td>Mortierella Oil</td>
+<td>Huile de Mortierella</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Mustela</td>
+<td>Mink Oil</td>
+<td>Huile de vison</td>
+</tr>
+<tr>
+<td>Mink Wax</td>
+<td>Cire de vison</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Olus</td>
+<td>Vegetable Oil</td>
+<td>Huile végétale</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Ostrea</td>
+<td>Oyster Shell Extract</td>
+<td>Extrait de coquille d’huître</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Ovum</td>
+<td>Dried Egg Yolk</td>
+<td>Poudre de jaune d’œufs</td>
+</tr>
+<tr>
+<td>Egg</td>
+<td>Œuf</td>
+</tr>
+<tr>
+<td>Egg Oil</td>
+<td>Huile d’œuf</td>
+</tr>
+<tr>
+<td>Egg Powder</td>
+<td>Poudre d’œufs</td>
+</tr>
+<tr>
+<td>Egg Yolk Extract</td>
+<td>Extrait de jaune d’œuf</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Paraffinum Liquidum</td>
+<td>Mineral Oil</td>
+<td>Huile minérale</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Pellis Lipida</td>
+<td>Skin Lipids</td>
+<td>Lipides cutanés</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Pisces</td>
+<td>Fish Extract</td>
+<td>Extrait de poisson</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Piscum Lecur</td>
+<td>Fish Liver Oil</td>
+<td>Huile de foie de poisson</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Pix</td>
+<td>Tar Oil</td>
+<td>Huile d’anthracène</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Propolis Cera</td>
+<td>Propolis Wax</td>
+<td>Cire de propolis</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Saccharum Officinarum</td>
+<td>Black Strap Powder</td>
+<td>Poudre de mélasse</td>
+</tr>
+<tr>
+<td>Molasses Extract</td>
+<td>Extrait de mélasse</td>
+</tr>
+<tr>
+<td>Sugar Cane Extract</td>
+<td>Extrait de canne à sucre</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Salmo</td>
+<td>Salmon Egg Extract</td>
+<td>Extrait d’œufs de saumon</td>
+</tr>
+<tr>
+<td>Salmon Oil</td>
+<td>Huile de saumon</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Sepia</td>
+<td>Cuttlefish Extract</td>
+<td>Extrait de seiche</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Serica</td>
+<td>Silk</td>
+<td>Soie</td>
+</tr>
+<tr>
+<td>Silk Powder</td>
+<td>Poudre de soie</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Shellac Cera</td>
+<td>Shellac Wax</td>
+<td>Cire de laque</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Sine Adipe Colostrum</td>
+<td>Nonfat Dry Colostrum</td>
+<td>Poudre de colostrum écrémé</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Sine Adipe Lac</td>
+<td>Nonfat Dry Milk</td>
+<td>Poudre de lait écrémé</td>
+</tr>
+<tr>
+<td>52</td>
+<td>Solum Diatomeae</td>
+<td>Diatomaceous Earth</td>
+<td>Terre de diatomées</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Solum Fullonum</td>
+<td>Fuller’s Earth</td>
+<td>Terre à foulon</td>
+</tr>
+<tr>
+<td>54</td>
+<td>Squali Lecur</td>
+<td>Shark Liver Oil</td>
+<td>Huile de foie de requin</td>
+</tr>
+<tr>
+<td>55</td>
+<td>Sus</td>
+<td>Pigskin Extract</td>
+<td>Extrait de peau de porc</td>
+</tr>
+<tr>
+<td>56</td>
+<td>Tallol</td>
+<td>Tall Oil</td>
+<td>Tallöl</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Vitulus</td>
+<td>Brain Extract</td>
+<td>Extrait de cerveau</td>
+</tr>
+<tr>
+<td>Brain Lipids</td>
+<td>Lipides du cerveau</td>
+</tr>
+<tr>
+<td>Calf Blood Extract</td>
+<td>Extrait de sang de veau</td>
+</tr>
+<tr>
+<td>Calf Skin Extract</td>
+<td>Extrait de peau de veau</td>
+</tr>
+<tr>
+<td>Hydrolyzed Calf Skin</td>
+<td>Peau de veau hydrolysée</td>
+</tr>
+<tr>
+<td>Liver Extract</td>
+<td>Extrait de foie</td>
+</tr>
+</table>
+
+> SOR/2004-244, s. 23.
 
 
