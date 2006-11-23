@@ -684,6 +684,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Carcross/Tagish First Nation
+
+</td>
+<td>Assembly of the Carcross/Tagish First Nation
+
+</td>
+<td>Settlement Land of the Carcross/Tagish First Nation under the Carcross/Tagish First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+
+</td>
+</tr>
+<tr>
 <td>Champagne and Aishihik First Nations
 
 </td>
@@ -706,6 +717,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Enoch Cree Nation #440
+
+</td>
+<td>Council of the Enoch Cree Nation #440
+
+</td>
+<td>Reserve of the Enoch Cree Nation #440
+
+</td>
+</tr>
+<tr>
 <td>First Nation of Nacho Nyak Dun
 
 </td>
@@ -713,6 +735,17 @@ where
 
 </td>
 <td>Settlement Land of the First Nation of Nacho Nyak Dun under the First Nation of Nacho Nyak Dun Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+
+</td>
+</tr>
+<tr>
+<td>Inuit, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
+
+</td>
+<td>Nunatsiavut Government
+
+</td>
+<td>Labrador Inuit Lands and Inuit Communities, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
 
 </td>
 </tr>
@@ -735,6 +768,17 @@ where
 
 </td>
 <td>Settlement Land of the Kluane First Nation under the Kluane First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+
+</td>
+</tr>
+<tr>
+<td>Kwanlin Dun First Nation
+
+</td>
+<td>Kwanlin Dun First Nation Council
+
+</td>
+<td>Settlement Land of the Kwanlin Dun First Nation under the Kwanlin Dun First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -914,9 +958,20 @@ where
 
 </td>
 </tr>
+<tr>
+<td>West Moberly First Nations
+
+</td>
+<td>Council of the West Moberly First Nations
+
+</td>
+<td>Reserve of the West Moberly First Nations
+
+</td>
+</tr>
 </table>
 
-> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201.
+> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294.
 
 
 
