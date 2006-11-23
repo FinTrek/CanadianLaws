@@ -716,6 +716,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Enoch Cree Nation #440
+
+</td>
+<td>Council of the Enoch Cree Nation #440
+
+</td>
+<td>Réserve de l’Enoch Cree Nation #440
+
+</td>
+</tr>
+<tr>
 <td>Kamloops
 
 </td>
@@ -723,6 +734,17 @@ où :
 
 </td>
 <td>Réserve de Kamloops
+
+</td>
+</tr>
+<tr>
+<td>Les Inuit, au sens de l’Accord, tel que défini dans la Loi sur revendications territoriales des Inuit du Labrador, L.C. 2005, ch. 27
+
+</td>
+<td>Gouvernement nunatsiavut
+
+</td>
+<td>Terres des Inuit du Labrador et communautés inuites, au sens de l’Accord, tel que ce terme est défini dans la [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md), L.C. 2005, ch. 27
 
 </td>
 </tr>
@@ -749,13 +771,13 @@ où :
 </td>
 </tr>
 <tr>
-<td>Première nation des Gwitchin Vuntut
+<td>Première nation de Carcross/Tagish
 
 </td>
-<td>Tribal Council of the Vuntut Gwitchin First Nation
+<td>Assembly of the Carcross/Tagish First Nation
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation de Carcross/ Tagish, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -782,17 +804,6 @@ où :
 </td>
 </tr>
 <tr>
-<td>Première nation des Nacho Nyak Dun
-
-</td>
-<td>Assembly of the First Nation of Nacho Nyak Dun
-
-</td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Nacho Nyak Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
-
-</td>
-</tr>
-<tr>
 <td>Première nation de Selkirk
 
 </td>
@@ -804,6 +815,39 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première nation des Gwitchin Vuntut
+
+</td>
+<td>Tribal Council of the Vuntut Gwitchin First Nation
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Première nation des Kwanlin Dun
+
+</td>
+<td>Conseil de la Première nation des Kwanlin Dun
+
+</td>
+<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation des Kwanlin Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Première nation des Nacho Nyak Dun
+
+</td>
+<td>Assembly of the First Nation of Nacho Nyak Dun
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Nacho Nyak Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
 <td>Premières nations de Champagne et de Aishihik
 
 </td>
@@ -811,6 +855,17 @@ où :
 
 </td>
 <td>Terres visées par le règlement, au sens de l’accord définitif des premières nations de Champagne et de Aishihik, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Premières nations de West Moberly
+
+</td>
+<td>Council of the West Moberly First Nations
+
+</td>
+<td>Réserve des premières nations de West Moberly
 
 </td>
 </tr>
@@ -915,7 +970,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294.
 
 
 
