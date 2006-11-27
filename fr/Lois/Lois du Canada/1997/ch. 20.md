@@ -51,11 +51,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** personne autorisée, par une ou plusieurs associations ou personnes visées aux alinéas a) et b), à commercialiser des produits agricoles en application d’un même plan coopératif;
 - **d)** la Commission.
 
-***agent d’exécution*** La Commission ou, s’ils ont la capacité d’ester en justice, toute association de producteurs qui participe à la commercialisation de récoltes ou tout organisme que le ministre estime approuvé par les producteurs et qu’il désigne.
+***agent d’exécution*** S’ils ont la capacité d’ester en justice : 
+- **a)** toute association de producteurs qui participe à la commercialisation d’un produit agricole assujetti à la partie I;
+- **b)** tout organisme — notamment la Commission —, autre qu’un prêteur, dont le ministre conclut, compte tenu de tout critère réglementaire, qu’il représente, dans une région, des producteurs y produisant une proportion importante d’un produit agricole pour lequel les avances seront octroyées;
+- **c)** tout organisme — notamment un prêteur — que le ministre désigne à ce titre et dont celui-ci conclut qu’il pourrait accroître l’accès des producteurs à des avances.
 
-***avance*** Paiement versé par anticipation à un producteur admissible pour sa récolte.
+***avance*** Paiement versé par anticipation à un producteur admissible pour son produit agricole.
 
-***campagne agricole*** En ce qui concerne une récolte donnée, toute période d’au plus douze mois prévue par l’accord de garantie d’avance.
+***campagne agricole*** En ce qui concerne tel produit agricole, toute période d’au plus dix-huit mois — ou le nombre de mois supérieur fixé par le ministre — prévue par l’accord de garantie d’avance relativement à ce produit.
 
 ***carnet de livraison*** Carnet de livraison au sens du paragraphe 2(1) de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md).
 
@@ -66,28 +69,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***prêteur*** Institution financière au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou toute autre entité juridique ayant été, à sa demande, agréée par le ministre des Finances pour l’application de la présente loi.
 
 ***producteur*** Le producteur d’un produit agricole qui est, selon le cas :
-- **a)** un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **a)** un citoyen canadien ou un résident permanent — au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
 - **b)** une personne morale dont la majorité des actions avec droit de vote sont détenues par des citoyens canadiens ou des résidents permanents;
 - **c)** une coopérative dont la majorité des membres sont des citoyens canadiens ou des résidents permanents;
 - **d)** une société de personnes ou autre association de personnes dont les associés ou membres qui sont des citoyens canadiens ou des résidents permanents ont droit à au moins la moitié des profits.
 
-Pour l’application des parties I et IV, y sont assimilées toutes autres personnes ou entités mentionnées aux alinéas a) à d) qui ont droit, à la date prévue pour l’application de la présente définition dans l’accord de garantie d’avance, à titre de propriétaire, de vendeur ou de créancier hypothécaire, à tout ou partie de la récolte produite.
+Pour l’application des parties I et IV, est assimilée au producteur toute personne ou entité mentionnée aux alinéas a) à d) qui a droit, à la date prévue pour l’application de la présente définition dans l’accord de garantie d’avance, à titre de locateur, de vendeur ou de créancier hypothécaire, à tout ou partie du produit agricole.
 
 ***produit agricole*** Animal ou plante, ainsi que les aliments, les boissons et les autres produits qui en proviennent en tout ou en partie.
 
-***récolte*** Selon le cas :
-- **a)** tout ou partie d’une ou de plusieurs productions végétales, issues de cultures ou naturelles, d’origine canadienne, non transformées et entreposées;
-- **b)** le sirop d’érable ou le miel d’origine canadienne;
-- **c)** tout autre produit agricole désigné par le gouverneur en conseil en vertu du paragraphe (2).
+***récolte***[Abrogée, 2006, ch. 3, art. 1]
 
 ***Sa Majesté*** Sa Majesté du chef du Canada.
 
-***unité de récolte*** En ce qui concerne une récolte donnée, l’unité de récolte au sens de l’accord de garantie d’avance.
+***unité de production*** En ce qui concerne tel produit agricole, l’unité de production prévue par l’accord de garantie d’avance relativement à ce produit.
 
-**Désignation de récoltes par le gouverneur en conseil**
+***unité de récolte***[Abrogée, 2006, ch. 3, art. 1]
 
-- **(2)** Le gouverneur en conseil peut, par règlement, pour l’application de la présente loi, désigner comme récolte tout produit agricole d’origine canadienne.
-> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203.
+- **(2)** [Abrogé, 2006, ch. 3, art. 1]
+> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203; 2006, ch. 3, art. 1.
 
 
 
@@ -144,7 +144,34 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Objet**
 
-**4** La présente partie a pour objet de favoriser la commercialisation des récoltes des producteurs admissibles en garantissant le remboursement des avances qui leur sont octroyées afin d’augmenter leurs liquidités au moment de la récolte ou par la suite.
+**4** La présente partie a pour objet de favoriser la commercialisation des produits agricoles des producteurs admissibles en garantissant le remboursement des avances qui leur sont octroyées afin d’augmenter leurs liquidités.
+> 1997, ch. 20, art. 4; 2006, ch. 3, art. 2.
+
+
+
+
+
+**Produits agricoles admissibles**
+
+**4.1** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), la présente partie ne s’applique qu’aux produits agricoles remplissant les conditions suivantes :
+	- **a)** il s’agit de l’un des produits suivants :
+		- **(i)** un animal élevé au Canada ou la fourrure d’un tel animal,
+		- **(ii)** une plante d’origine canadienne ou un produit en provenant,
+		- **(iii)** le miel et le sirop d’érable d’origine canadienne;
+	- **b)** le ministre conclut, compte tenu de tout critère réglementaire, qu’il est possible d’en établir un prix moyen;
+	- **c)** le ministre conclut, compte tenu de tout critère réglementaire, que le produit est non transformé ou, s’il est périssable, qu’il n’a subi que la transformation nécessaire à sa conservation et son entreposage.
+
+**Désignation de produits agricoles par le gouverneur en conseil**
+
+- **(2)** Le gouverneur en conseil peut, par règlement, assujettir tout autre produit agricole à la présente partie.
+
+**Animaux reproducteurs**
+
+- **(3)** Les animaux qui sont utilisés à titre d’animaux reproducteurs ou qui l’ont été ne sont pas des produits agricoles assujettis à la présente partie.
+> 2006, ch. 3, art. 2.
+
 
 
 
@@ -157,26 +184,28 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 	- **a)** de garantir au prêteur, ou à défaut, à l’agent d’exécution, le remboursement des avances consenties à un producteur admissible au moyen d’emprunts contractés à cette fin, ainsi que celui des intérêts afférents;
 	- **b)** de prévoir les obligations de l’agent d’exécution en ce qui touche l’octroi et le remboursement des avances.
 
-**Garantie au prêteur**
+**Restriction**
 
-- **(1.1)** Un accord auquel un prêteur est partie ne peut être conclu que si, à la fois, le ministre est convaincu de pouvoir réaliser ainsi des économies d’intérêts et les conditions afférentes sont approuvées par le ministre des Finances.
+- **(1.1)** Un accord ne peut être conclu avec un agent d’exécution et un prêteur ou avec un agent d’exécution qui est un prêteur que si le ministre est convaincu de pouvoir réaliser ainsi des économies d’intérêts et que les conditions afférentes sont approuvées par le ministre des Finances.
 
 **Obligations concernant la garantie**
 
-- **(1.2)** Lorsque la garantie est donnée directement à un prêteur, l’accord, en plus de toutes les autres conditions qui peuvent y être énoncées, stipule que le taux d’intérêt applicable à l’emprunt ne peut excéder celui qu’il fixe.
+- **(1.2)** Lorsque la garantie est donnée à un prêteur ou à un agent d’exécution qui est un prêteur, l’accord, en plus de toutes les autres conditions qui peuvent y être énoncées, stipule que le taux d’intérêt applicable à l’emprunt ne peut excéder celui qu’il fixe.
 
 **Agent d’exécution**
 
-- **(2)** L’agent d’exécution doit démontrer au ministre qu’il représente, dans une région, des producteurs admissibles y ayant produit une partie importante de la récolte pour laquelle les avances seront octroyées et qu’il peut remplir les obligations découlant de l’accord.
+- **(2)** L’agent d’exécution doit démontrer au ministre qu’il peut remplir les obligations que l’accord lui impose.
 
 **Modalités**
 
-- **(3)** L’accord de garantie d’avance prévoit, outre la désignation de la récolte et les modalités régissant l’octroi et le remboursement des avances, l’obligation de l’agent d’exécution :
+- **(3)** L’accord de garantie d’avance prévoit, outre la désignation du produit agricole et les modalités régissant l’octroi et le remboursement des avances, l’obligation de l’agent d’exécution :
 	- **a)** de s’assurer que chaque acheteur visé au sous-alinéa 10(2)a)(i) qui n’est pas un agent d’exécution signe avec lui un accord en vue d’effectuer les retenues visées à ce sous-alinéa et de les remettre aussitôt à ce dernier;
 	- **b)** lorsqu’il est lui-même l’acheteur, de retenir les montants visés au sous-alinéa 10(2)a)(i);
 	- **c)** de verser les avances sur l’argent qu’il emprunte d’un prêteur;
 	- **d)** de s’assurer que le taux d’intérêt applicable à l’emprunt ne dépasse pas le taux fixé dans l’accord de garantie d’avance;
-	- **e)** de prendre des mesures, conformément à l’accord de garantie d’avance, en vue de s’assurer, avant le versement de l’avance, que la récolte a été produite, est commercialisable et est entreposée de façon qu’elle reste commercialisable jusqu’à son aliénation en conformité avec l’accord de remboursement;
+	- **e)** de prendre des mesures, conformément à l’accord de garantie d’avance, en vue de s’assurer, avant le versement de l’avance :
+		- **(i)** s’agissant d’un produit agricole entreposable, soit qu’il est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
+		- **(ii)** s’agissant d’un produit agricole non entreposable, soit qu’il est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible;
 	- **f)** de rembourser, avec les intérêts afférents, le prêteur sur les sommes qu’il reçoit en vue du remboursement des avances qu’il consent, dans le délai prévu par l’accord de garantie d’avance;
 	- **g)** dans le cas où le producteur admissible est en défaut :
 		- **(i)** de verser au prêteur, dans le délai prévu par l’accord de garantie d’avance, un pourcentage donné — déterminé conformément aux règlements — du montant dont le producteur est redevable au titre de l’alinéa 22a),
@@ -184,14 +213,45 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 	- **h)** de verser au ministre les intérêts supplémentaires résultant de son omission de faire les paiements visés aux alinéas f) et g);
 	- **i)** dans le cas où le ministre a effectué le versement prévu au paragraphe 23(1) et qu’après ce versement le producteur rembourse à l’agent d’exécution une partie de l’avance, de remettre au ministre sur le montant remboursé, dans le délai prévu par l’accord de garantie d’avance, un pourcentage de ce remboursement, déterminé conformément aux règlements.
 
+**Exception**
+
+- **(3.1)** L’accord de garantie d’avance ne prévoit pas les obligations visées aux alinéas (3)c) et f), au sous-alinéa (3)g)(i) et, s’agissant des paiements visés à l’alinéa (3)f) et au sous-alinéa (3)g)(i), à l’alinéa (3)h) dans le cas où le ministre et l’agent d’exécution sont les seules parties à l’accord.
+
+**Annexe**
+
+- **(3.2)** Sur la recommandation du ministre, le gouverneur en conseil peut, par règlement, ajouter à l’annexe ou en radier le nom d’un programme.
+
+**Restriction**
+
+- **(3.3)** L’accord de garantie d’avance ne peut être modifié pendant la campagne agricole qui y est prévue pour faire en sorte que celle-ci s’étende sur une période supérieure à dix-huit mois ou le nombre de mois supérieur fixé par le ministre avant la conclusion de l’accord.
+
 **Recouvrement des frais**
 
 - **(4)** En vue de recouvrer les frais découlant de l’application de la présente partie, l’agent d’exécution peut, selon les modalités de l’accord de garantie d’avance, réclamer aux producteurs des droits pour la présentation et l’examen des demandes d’avances, l’octroi de celles-ci et tout autre service administratif.
 
 **Garantie maximale**
 
-- **(5)** La totalité des obligations dont Sa Majesté se rend éventuellement débiteur en vertu d’accords de garantie d’avance ne peut dépasser, en capital impayé, 1,9 milliard de dollars ou tout montant supérieur fixé par règlement du gouverneur en conseil.
-> 1997, ch. 20, art. 5; 1999, ch. 26, art. 42.
+- **(5)** La totalité des obligations dont Sa Majesté se rend éventuellement débiteur en vertu d’accords de garantie d’avance ne peut dépasser, en capital impayé, cinq milliards de dollars ou le montant fixé par règlement.
+
+**Pourcentage visé à l’alinéa (3)g)**
+
+- **(6)** Le pourcentage visé à l’alinéa (3)g) qui est déterminé conformément à tout règlement doit être d’au moins 1 % et d’au plus 15 %. Si un règlement détermine une méthode de calcul à cet égard, le pourcentage est réputé être de 1 % si le résultat du calcul est de moins de 1 % et il est réputé être de 15 % si ce résultat est de plus de 15 %.
+> 1997, ch. 20, art. 5; 1999, ch. 26, art. 42; 2006, ch. 3, art. 3.
+
+
+
+
+
+**Accord de garantie d’avance — garantie donnée par un tiers**
+
+**5.1** 
+
+- **(1)** Le ministre peut conclure un accord de garantie d’avance avec un agent d’exécution sans donner la garantie visée à l’alinéa 5(1)a) s’il est convaincu que le remboursement des avances qui seront octroyées au titre de l’accord sera garanti par une autre personne ou entité.
+
+**Non-application**
+
+- **(2)** L’alinéa 5(3)i) et, sauf indication contraire qui est précisée dans l’accord, l’article 23 ne s’appliquent pas aux accords de garantie d’avance que le ministre a conclus sans donner la garantie.
+> 2006, ch. 3, art. 4.
 
 
 
@@ -199,8 +259,8 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Obligations de l’agent d’exécution**
 
-**6** La garantie, quand elle n’est pas donnée au prêteur, n’a d’effet que si l’agent d’exécution se conforme aux dispositions de l’accord de garantie d’avance et de la présente loi.
-> 1997, ch. 20, art. 6; 1999, ch. 26, art. 43.
+**6** La garantie donnée à l’agent d’exécution n’a d’effet que si celui-ci se conforme à l’accord de garantie d’avance et à la présente loi.
+> 1997, ch. 20, art. 6; 1999, ch. 26, art. 43; 2006, ch. 3, art. 4.
 
 
 
@@ -210,11 +270,13 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **7** 
 
-- **(1)** Malgré l’alinéa 5(3)e), l’agent d’exécution peut, en conformité avec l’accord de garantie d’avance et les modalités qui y sont fixées, verser une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve des difficultés à faire une récolte en raison de conditions climatiques anormales, s’il est raisonnable de s’attendre à ce que la récolte pourra être faite et sera commercialisable.
+- **(1)** Malgré l’alinéa 5(3)e), l’accord de garantie d’avance peut autoriser l’agent d’exécution à verser, sous réserve des conditions qui y sont établies, une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve des difficultés de production en raison de conditions de production anormales attribuables au climat ou à un désastre naturel, s’il est raisonnable de s’attendre à ce que le produit agricole soit commercialisable.
 
 **Plafond**
 
-- **(2)** Le montant maximal de l’avance de secours se limite à 50 % — à concurrence de 25 000 $ — du montant qui, selon l’agent d’exécution, pourrait être octroyé à titre d’avance garantie pour la partie de la récolte qui sera produite.
+- **(2)** Le montant maximal de l’avance de secours se limite à 50 % ou le pourcentage fixé par règlement — à concurrence de 25 000 $ ou le montant fixé par règlement — de l’avance qui, selon l’agent d’exécution, pourrait être octroyée pour la quantité du produit agricole qui sera produite.
+> 1997, ch. 20, art. 7; 2006, ch. 3, art. 4.
+
 
 
 
@@ -227,9 +289,9 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **9** 
 
-- **(1)** Le ministre paye au prêteur mentionné dans l’accord de garantie d’avance, relativement à chaque producteur, les intérêts courus pendant une campagne agricole sur les sommes empruntées par l’agent d’exécution pour verser la première tranche de 50 000 $ du total des avances ci-après octroyées au cours de cette campagne agricole ou au cours de la période plus courte prévue par l’accord de garantie d’avance :
-	- **a)** la somme que le producteur reçoit à titre d’avance pour toutes ses récoltes;
-	- **b)** la somme correspondant au pourcentage des avances reçues par des producteurs liés, pour toutes leurs récoltes, qui est attribuable, aux termes du paragraphe (2), au producteur visé à l’alinéa a).
+- **(1)** Le ministre paye, relativement à chaque producteur, au prêteur mentionné dans l’accord de garantie d’avance — ou, si l’accord n’a été conclu qu’avec l’agent d’exécution, à celui-ci — les intérêts courus pendant une campagne agricole sur les sommes empruntées par l’agent d’exécution pour verser la première tranche de 100 000 $ — ou le montant fixé par règlement — du total des avances ci-après qui ont été octroyées au cours de cette campagne agricole ou au cours de la période plus courte prévue par l’accord de garantie d’avance :
+	- **a)** la somme que le producteur reçoit à titre d’avance pour tous ses produits agricoles;
+	- **b)** la somme correspondant au pourcentage des avances reçues par des producteurs liés, pour tous leurs produits agricoles, qui est attribuable, aux termes du paragraphe (2), au producteur visé à l’alinéa a).
 
 **Proportion**
 
@@ -246,6 +308,8 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **Remboursement**
 
 - **(4)** Les paiements faits par le producteur à l’agent d’exécution en vue du remboursement de l’avance garantie sont déduits d’abord du montant sur lequel le ministre paye des intérêts en vertu du paragraphe (1).
+> 1997, ch. 20, art. 9; 2006, ch. 3, art. 5.
+
 
 
 
@@ -258,20 +322,22 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **10** 
 
-- **(1)** Le producteur est admissible à l’octroi d’une avance garantie pour une campagne agricole donnée si les conditions suivantes sont réunies :
-	- **a)** il est, sous réserve des règlements, propriétaire de la récolte de façon continue et responsable de sa commercialisation;
-	- **b)** dans le cas où il s’agit d’un particulier, d’une part, il a atteint l’âge de la majorité dans la province où est située son exploitation agricole et, d’autre part, les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire;
-	- **c)** dans le cas où il s’agit d’une personne morale à actionnaire unique, celui-ci répond aux exigences suivantes :
+- **(1)** Le producteur est admissible à l’octroi d’une avance garantie pour une campagne agricole donnée si les conditions suivantes sont réunies :
+	- **a)** le ministre conclut, compte tenu de tout critère réglementaire, que le producteur est propriétaire du produit agricole de façon continue et est responsable de sa commercialisation;
+	- **b)** s’agissant d’un particulier, d’une part, le producteur a atteint l’âge de la majorité dans la province où est située son exploitation agricole et, d’autre part, les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire;
+	- **c)** s’agissant d’une personne morale à actionnaire unique, celui-ci satisfait aux exigences suivantes :
 		- **(i)** il a atteint l’âge de la majorité dans la province où est située l’exploitation agricole,
-		- **(ii)** les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire,
-		- **(iii)** il s’engage personnellement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et doit donner en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
-	- **d)** dans le cas où il s’agit d’une personne morale à plusieurs actionnaires, d’une société de personnes, d’une coopérative ou de toute autre association de personnes, elle répond aux exigences suivantes :
-		- **(i)** d’une part, au moins un des actionnaires, associés ou membres, selon le cas, a atteint l’âge de la majorité dans la province où est située l’exploitation agricole et, d’autre part, les travaux agricoles y constituent l’activité principale de celui-ci ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire,
-		- **(ii)** tous les actionnaires, associés ou membres, selon le cas, s’engagent solidairement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et doivent donner en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
-	- **e)** toutes les avances garanties, pour la récolte désignée dans l’accord de garantie d’avance de la campagne agricole antérieure, qui lui avaient été octroyées de même que celles octroyées aux producteurs liés visés par cet accord ont été remboursées ou ont fait l’objet d’un sursis en vertu du paragraphe 21(2);
-	- **f)** ni lui, ni les producteurs liés visés par l’accord de garantie d’avance ne sont en défaut relativement à un accord de remboursement;
-	- **g)** il n’est pas inadmissible aux termes du paragraphe 21(4);
-	- **h)** il n’a consenti, sur la récolte visée par l’avance garantie, aucune sûreté prenant rang avant la sûreté visée à l’article 12.
+		- **(ii)** les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire,
+		- **(iii)** il s’engage personnellement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et donne en garantie du remboursement de l’avance les sûretés que peut exiger celui-ci;
+	- **d)** s’agissant d’une personne morale à plusieurs actionnaires, d’une société de personnes, d’une coopérative ou de toute autre association de personnes, elle satisfait aux exigences suivantes :
+		- **(i)** d’une part, au moins un des actionnaires, associés ou membres, selon le cas, a atteint l’âge de la majorité dans la province où est située l’exploitation agricole et, d’autre part, les travaux agricoles y constituent l’activité principale de celui-ci ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire,
+		- **(ii)** tous les actionnaires, associés ou membres, selon le cas, s’engagent solidairement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et donnent en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
+	- **e)** ni lui ni les producteurs liés visés par l’accord de garantie d’avance ne sont en défaut relativement à un accord de remboursement;
+	- **f)** il n’est pas inadmissible aux termes du paragraphe 21(4);
+	- **g)** il n’a consenti, ni sur le produit agricole visé par l’avance garantie ni sur toute somme qu’il peut recevoir au titre de l’un des programmes figurant à l’annexe, aucune sûreté prenant rang avant la sûreté visée à l’article 12;
+	- **h)** il démontre :
+		- **(i)** dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit que celui-ci est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
+		- **(ii)** dans le cas où le produit agricole visé par l’avance garantie est non entreposable, soit que celui-ci est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible.
 
 **Partage de sûreté**
 
@@ -279,14 +345,19 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Accord de remboursement**
 
-- **(2)** Le producteur admissible signe avec l’agent d’exécution un accord de remboursement dans lequel il s’engage :
-	- **a)** à rembourser l’avance :
-		- **(i)** en vendant la récolte visée par l’avance à un ou plusieurs acheteurs que l’agent d’exécution désigne et en autorisant par écrit ceux-ci à retenir sur le prix de chaque unité de récolte le montant déterminé conformément au calendrier prévu dans l’accord,
-		- **(ii)** en aliénant, notamment par vente, selon les conditions établies par l’accord, la récolte faisant l’objet de l’avance et en remettant à l’agent d’exécution, pour chaque unité de récolte, le montant déterminé conformément au calendrier prévu dans l’accord,
-		- **(iii)** en lui versant, sans preuve de vente de la récolte, telle somme, à concurrence du maximum fixé par règlement,
-		- **(iv)** en combinant les moyens visés aux sous-alinéas (i), (ii) et (iii);
-	- **b)** à s’assurer que la récolte sera entreposée de façon à rester commercialisable jusqu’à son aliénation en conformité avec l’accord;
-	- **c)** à respecter toutes autres modalités de l’accord, notamment en ce qui concerne la livraison des récoltes ou le paiement d’intérêts, et ce, avant et après la défaillance.
+- **(2)** Le producteur admissible signe avec l’agent d’exécution un accord de remboursement dans lequel il s’engage :
+	- **a)** à rembourser l’avance :
+		- **(i)** en vendant le produit agricole visé par l’avance à un ou plusieurs acheteurs que l’agent désigne et en autorisant par écrit ceux-ci à retenir sur le prix de chaque unité de production la somme déterminée conformément au calendrier prévu dans l’accord,
+		- **(ii)** en vendant, selon les conditions établies par l’accord, le produit agricole visé par l’avance et en remettant à l’agent, pour chaque unité de production, la somme déterminée conformément au calendrier prévu dans l’accord,
+		- **(iii)** en versant à l’agent toute somme reçue au titre d’un programme figurant à l’annexe,
+		- **(iv)** en cédant à l’agent toute somme à laquelle il a droit au titre d’un tel programme,
+		- **(v)** en versant à l’agent, sans preuve de vente du produit agricole, toute somme, à concurrence du maximum fixé par règlement,
+		- **(vi)** en combinant les moyens visés aux sous-alinéas (i) à (v);
+	- **b)** à faire en sorte :
+		- **(i)** dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit qu’il soit entreposé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, soit, s’il est en cours de production ou à produire, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible,
+		- **(ii)** dans le cas où le produit agricole visé par l’avance est non entreposable, soit qu’il soit gardé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible, soit, s’il est en cours de production ou à produire, que ce montant soit couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme soit cessible;
+	- **c)** à rembourser le trop-perçu éventuel sur l’avance dans le délai prévu dans l’accord, lequel délai commence à courir le jour où le producteur prend connaissance de ce versement excédentaire ou, s’il est antérieur, le jour où l’agent lui envoie par la poste ou lui remet un avis à cet effet;
+	- **d)** à respecter toutes autres modalités de l’accord, notamment en ce qui concerne la livraison du produit agricole ou le paiement d’intérêts, et ce, avant et après toute défaillance.
 
 **Modalités relatives à l’avance de secours**
 
@@ -295,7 +366,7 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **Renseignements**
 
 - **(4)** Le producteur est tenu de donner à l’agent d’exécution tous les renseignements que celui-ci lui demande pour l’application de la présente loi.
-> 1997, ch. 20, art. 10; 1999, ch. 26, art. 45.
+> 1997, ch. 20, art. 10; 1999, ch. 26, art. 45; 2006, ch. 3, art. 6.
 
 
 
@@ -303,14 +374,18 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Détérioration**
 
-**11** Lorsque la récolte faisant l’objet d’une avance garantie n’est plus commercialisable en tout ou en partie, le producteur admissible doit sans délai remettre à l’agent d’exécution qui lui a consenti cette avance la partie de celle-ci correspondant à la partie non commercialisable de la récolte ainsi que les intérêts courus à partir de la date d’octroi de l’avance.
+**11** Lorsque tout ou partie du produit agricole faisant l’objet d’une avance garantie n’est plus commercialisable sans que ce fait lui soit attribuable, le producteur doit sans délai remettre à l’agent d’exécution qui lui a consenti cette avance la partie de celle-ci correspondant à la partie non commercialisable du produit agricole ainsi que les intérêts courus à partir de la date d’octroi de l’avance.
+> 1997, ch. 20, art. 11; 2006, ch. 3, art. 7.
 
 
 
 
-**Sûreté sur la récolte**
 
-**12** S’il consent une avance garantie à un producteur pour la récolte d’une campagne agricole donnée, l’agent d’exécution dispose d’une sûreté sur cette récolte et sur les récoltes de campagnes agricoles subséquentes pour les sommes dont le producteur est redevable au titre des articles 22 et 23.
+**Sûreté**
+
+**12** S’il consent une avance garantie à un producteur pour le produit agricole d’une campagne agricole donnée, l’agent d’exécution est tenu de prendre, pour les sommes dont le producteur est redevable au titre des articles 22 et 23, la sûreté exigée par les règlements sur ce produit, sur les produits agricoles de campagnes agricoles subséquentes et, sous réserve de l’accord de remboursement, sur toute somme que le producteur peut recevoir au titre de l’un des programmes figurant à l’annexe.
+> 1997, ch. 20, art. 12; 2006, ch. 3, art. 7.
+
 
 
 
@@ -327,7 +402,9 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Garantie du ministre des Finances**
 
-- **(2)** Le ministre des Finances peut, aux conditions que le gouverneur en conseil approuve, garantir le remboursement des fonds visés au paragraphe (1) ainsi que des intérêts afférents.
+- **(2)** Le ministre des Finances peut, aux conditions que le gouverneur en conseil approuve, garantir le remboursement des fonds visés au paragraphe (1) ainsi que des intérêts afférents, si les fonds ont été empruntés ou recueillis en vue de l’octroi d’avances au titre d’un accord de garantie d’avance et que les seules parties à celui-ci sont le ministre et la Commission.
+> 1997, ch. 20, art. 13; 2006, ch. 3, art. 8.
+
 
 
 
@@ -335,54 +412,53 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **Bons de paiement**
 
 **14** Par dérogation à la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md), toute personne — y compris le directeur ou l’exploitant d’un silo — autorisée par la Commission à verser des avances en son nom peut verser celles-ci sous forme de bons de paiement.
+> 1997, ch. 20, art. 14; 2006, ch. 3, art. 9(A).
 
 
 
 
-**Non-application de certaines dispositions**
-
-**15** 
-
-- **(1)** Les alinéas 5(3)c) et f), le sous-alinéa 5(3)g)(i) et l’alinéa 5(3)h) ne s’appliquent pas à la Commission.
-
-**Intérêts**
-
-- **(2)** Dans les cas où la Commission est l’agent d’exécution, le ministre lui paye les intérêts visés au paragraphe 9(1).
+**15** [Abrogé, 2006, ch. 3, art. 10]
 
 
 
 
-**Carnet de livraison**
+**Remise de documents**
 
 **16** 
 
-- **(1)** La Commission peut en tout temps exiger qu’un producteur ayant fait une demande d’avance garantie lui remette un ou plusieurs carnets de livraison de même qu’un ou plusieurs de ceux, le cas échéant, des producteurs liés.
+- **(1)** La Commission peut en tout temps exiger qu’un producteur ayant fait une demande d’avance garantie lui remette tout document — notamment un carnet de livraison — qu’elle lui a délivré ou qu’elle a délivré à un producteur lié.
 
-**Mention : avance**
+**Mention : avance**
 
-- **(2)** La Commission peut exiger que le carnet porte la mention, en la forme prévue par celle-ci, selon laquelle des déductions doivent être faites au profit de la Commission relativement à la totalité des récoltes livrées au titre du carnet aux termes de l’accord de remboursement.
+- **(2)** La Commission peut exiger qu’un tel document porte la mention, en la forme prévue par elle, selon laquelle des déductions doivent être faites, aux termes de l’accord de remboursement, au profit de la Commission en priorité sur toute autre personne.
+> 1997, ch. 20, art. 16; 2006, ch. 3, art. 10.
 
 
 
 
-**Déductions sur les livraisons**
+
+**Déductions**
 
 **17** 
 
-- **(1)** Lorsque la livraison d’une récolte est faite aux termes d’un carnet de livraison portant la mention prévue au paragraphe 16(2), quiconque prend livraison de la récolte :
-	- **a)** déduit et paye à la Commission, en priorité sur toute autre personne, la fraction du paiement relatif à la récolte que l’accord de remboursement autorise à déduire sur chaque acompte à la livraison, tant que l’avance n’a pas été remboursée;
-	- **b)** porte la déduction à ce carnet de livraison ainsi qu’à tout autre carnet qui porte la même mention et qui lui est présenté.
+- **(1)** Au moment de la vente d’un produit agricole pour lequel la Commission a exigé la remise d’un document portant la mention prévue au paragraphe 16(2), le producteur ou, dans le cas où il a été autorisé par la Commission à lui faire des paiements sur les sommes versées pour l’achat de produits agricoles, l’acheteur :
+	- **a)** déduit et paye à la Commission, en priorité sur toute autre personne, la fraction du paiement relatif au produit agricole que l’accord de remboursement autorise à déduire sur chaque acompte, tant que l’avance n’a pas été remboursée;
+	- **b)** porte la déduction à ce document ainsi qu’à tout autre document qui porte la même mention et qui est présenté à l’acheteur.
 
 **Annulation de la mention**
 
 - **(2)** Lorsque l’avance garantie a été remboursée, la Commission annule la mention.
+> 1997, ch. 20, art. 17; 2006, ch. 3, art. 10.
 
 
 
 
-**Mentions dans les carnets de livraison**
 
-**18** Lorsque le carnet de livraison porte la mention prévue au paragraphe 16(2), le producteur n’a pas le droit, tant qu’il n’a pas remboursé l’avance, de recevoir ou d’utiliser un autre carnet, notamment celui d’un producteur lié, en remplacement de ce premier carnet, pour la même campagne agricole ou une campagne subséquente, sauf si la mention y est également faite.
+**Interdiction**
+
+**18** Lorsque le document porte la mention prévue au paragraphe 16(2), le producteur n’a pas le droit de recevoir ou d’utiliser un autre document, notamment celui d’un producteur lié, en remplacement de ce premier document, pour la même campagne agricole ou une campagne subséquente, sauf si la mention y est également faite ou que l’avance garantie est remboursée.
+> 1997, ch. 20, art. 18; 2006, ch. 3, art. 10.
+
 
 
 
@@ -395,13 +471,19 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **19** 
 
-- **(1)** La détermination du montant de l’avance susceptible d’être garantie en vertu de la présente partie se fait par la multiplication des facteurs suivants :
-	- **a)** le nombre d’unités de récolte visées par l’avance proposée;
-	- **b)** le taux unitaire fixé dans l’accord de garantie d’avance pour cette récolte au cours de la campagne agricole en cause.
+- **(1)** Sous réserve du paragraphe (3), le montant de l’avance susceptible d’être garantie au titre de la présente partie se calcule par multiplication des facteurs suivants :
+	- **a)** le nombre d’unités de production visées par l’avance proposée;
+	- **b)** le taux unitaire fixé dans l’accord de garantie d’avance pour le produit agricole visé par l’avance proposée pour la campagne agricole en cause ou une partie de celle-ci.
 
 **Taux unitaire**
 
-- **(2)** L’accord de garantie d’avance peut prévoir, pour les différentes régions où une récolte est produite, différents taux unitaires pour celle-ci qui ne peuvent dépasser la moitié de ce que le ministre estime être le prix moyen qui sera payé aux producteurs pour cette récolte dans la région concernée.
+- **(2)** L’accord de garantie d’avance peut prévoir le taux unitaire applicable à tel produit agricole dans telle région de production, mais ce taux ne peut dépasser 50 % — ou le pourcentage fixé par règlement — de ce que le ministre estime être le prix moyen qui sera payé aux producteurs pour ce produit agricole dans cette région.
+
+**Exception**
+
+- **(3)** Si le montant de l’avance doit, au titre de l’alinéa 10(1)h), être couvert par l’un des programmes figurant à l’annexe, le montant de l’avance susceptible d’être garantie au titre de la présente partie est égal au résultat du calcul prévu au paragraphe (1) ou, s’il est inférieur, au pourcentage — prévu dans l’accord de garantie d’avance — du montant maximal que le producteur pourrait recevoir au titre de ce programme.
+> 1997, ch. 20, art. 19; 2006, ch. 3, art. 10.
+
 
 
 
@@ -410,9 +492,13 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **20** 
 
-- **(1)** Durant une campagne agricole, le montant maximal des avances qui peuvent être garanties en vertu de la présente loi :
-	- **a)** est, à l’égard du producteur admissible pour une récolte donnée, prévu par l’accord de garantie d’avance;
-	- **b)** relativement à l’ensemble des récoltes produites par le producteur admissible ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), produites par les producteurs liés pendant cette campagne agricole ne peut dépasser 250 000 $ ou le montant inférieur fixé par le ministre.
+- **(1)** Sous réserve du paragraphe (1.1), le montant maximal des avances qui peuvent être garanties sous le régime de la présente loi durant une campagne agricole est :
+	- **a)** à l’égard du producteur de tel produit agricole, celui prévu par l’accord de garantie d’avance;
+	- **b)** relativement à l’ensemble des produits agricoles produits par le producteur ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), produits par les producteurs liés pendant cette campagne agricole, 400 000 $ ou le montant fixé par règlement.
+
+**Campagnes agricoles chevauchantes**
+
+- **(1.1)** Le montant maximal des avances qui peuvent être garanties sous le régime de la présente loi relativement à un producteur ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), aux producteurs liés ne peut à aucun moment dépasser 400 000 $ ou le montant fixé par règlement.
 
 **Proportion**
 
@@ -421,6 +507,8 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 	- **b)** égale au pourcentage des actions avec droit de vote que le producteur détient du producteur lié, si celui-ci est une personne morale;
 	- **c)** égale au pourcentage fixé par règlement, si le producteur lié est une coopérative;
 	- **d)** égale au pourcentage des profits auxquels le producteur a droit à titre d’associé ou de membre, selon le cas, d’une société de personnes ou de toute autre association de personnes, si le producteur et le producteur lié sont associés ou membres d’une même société de personnes ou autre association de personnes.
+> 1997, ch. 20, art. 20; 2006, ch. 3, art. 11.
+
 
 
 
@@ -437,7 +525,7 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 	- **a)** il ne donne pas suite, dans les vingt jours suivant son envoi par la poste ou sa remise, à l’avis que lui transmet l’agent d’exécution indiquant qu’il a eu, selon celui-ci, la possibilité de s’acquitter de toutes les obligations que lui impose cet accord et lui enjoignant de s’exécuter;
 	- **b)** il ne s’est pas acquitté de toutes les obligations que lui impose l’accord à la date où se termine la campagne agricole au cours de laquelle l’avance a été consentie;
 	- **c)** à la date où, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit il fait une cession de biens, soit une ordonnance de faillite est rendue contre lui, il ne s’est pas acquitté de toutes les obligations que lui impose l’accord;
-	- **d)** il manque, à un moment quelconque, à une obligation de cet accord;
+	- **d)** il manque, à un moment quelconque, à une obligation de cet accord et, dans le cas où il s’agit d’un manquement à l’obligation d’entreposer le produit agricole ou de le garder de façon qu’il reste commercialisable, l’article 11 ne s’applique pas;
 	- **e)** il donne des renseignements faux ou trompeurs à l’agent d’exécution pour obtenir une avance garantie ou se soustraire à l’obligation de la rembourser.
 
 **Sursis**
@@ -451,7 +539,7 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **Refus de garantir**
 
 - **(4)** L’accord de garantie d’avance peut prévoir que même si le producteur a cessé d’être en défaut, il continue d’être inadmissible à l’octroi d’une avance garantie pour toute période qui y est prévue.
-> 1997, ch. 20, art. 21; 2004, ch. 25, art. 183.
+> 1997, ch. 20, art. 21; 2004, ch. 25, art. 183; 2006, ch. 3, art. 12.
 
 
 
@@ -490,11 +578,13 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **24** 
 
-- **(1)** Dans le cas où le producteur est en défaut aux termes de l’accord de remboursement — quel que soit l’agent d’exécution — , la Commission peut déduire, des paiements dus au producteur au titre de l’article 33 de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md), les sommes dont ce dernier ou tout autre producteur dont il a utilisé le carnet de livraison est redevable au titre des articles 22 et 23.
+- **(1)** Dans le cas où le producteur est en défaut aux termes de l’accord de remboursement — quel que soit l’agent d’exécution —, la Commission peut déduire, des paiements dus au producteur au titre de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md), les sommes dont ce dernier ou tout autre producteur dont il a utilisé le carnet de livraison est redevable au titre des articles 22 et 23.
 
 **Responsabilité de la Commission**
 
 - **(2)** La Commission n’est pas redevable au producteur des déductions faites en vertu du paragraphe (1).
+> 1997, ch. 20, art. 24; 2006, ch. 3, art. 13.
+
 
 
 
@@ -621,6 +711,17 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 
 
+**Cessibilité des créances sur Sa Majesté**
+
+**33.1** Les sommes suivantes peuvent être cédées en tout ou en partie :
+- **a)** pour l’application de la partie I, toute somme qui peut être payée au titre d’un programme figurant à l’annexe et qui est une créance sur Sa Majesté au sens de l’article 66 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** pour l’application de la partie II, toute somme qui peut être payée par le ministre en vertu d’un accord de garantie des prix.
+> 2006, ch. 3, art. 14.
+
+
+
+
+
 ### Infractions et peines
 
 
@@ -643,9 +744,11 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 - **(3)** Commet une infraction quiconque omet de se conformer à l’article 17.
 
-**Infraction : carnets de livraison**
+**Infraction : utilisation de documents**
 
-- **(4)** Commet une infraction quiconque utilise un carnet de livraison en contravention de l’article 18.
+- **(4)** Commet une infraction quiconque utilise un document en contravention de l’article 18.
+> 1997, ch. 20, art. 34; 2006, ch. 3, art. 15.
+
 
 
 
@@ -718,21 +821,34 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 **40** 
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** définir ***approuvé*** pour l’application de la définition de ***agent d’exécution*** au paragraphe 2(1), ***non transformée*** pour l’application de la définition de ***récolte*** au paragraphe 2(1), ***propriétaire de la récolte de façon continue*** et ***responsable de la commercialisation*** pour l’application de l’alinéa 10(1)a);
-	- **b)** déterminer, pour l’application du paragraphe 5(2), ce qui constitue une partie importante de la récolte;
-	- **c)** déterminer la formule devant servir au calcul du pourcentage visé à l’alinéa 5(3)g); ce pourcentage doit être d’au moins 1 % et d’au plus 15 %;
-	- **d)** déterminer la formule devant servir au calcul du pourcentage visé à l’alinéa 5(3)i) et au paragraphe 23(1);
-	- **e)** déterminer le pourcentage visé aux alinéas 9(2)c) et 20(2)c);
-	- **f)** fixer un montant pour l’application du sous-alinéa 10(2)a)(iii);
+	- **a)** prévoir, pour l’application de la définition de ***agent d’exécution*** au paragraphe 2(1), les critères devant servir :
+		- **(i)** à établir si un organisme représente des producteurs dans une région,
+		- **(ii)** à déterminer, généralement ou pour une région donnée, ce qui constitue une proportion importante d’un produit agricole;
+	- **b)** prévoir, pour l’application du paragraphe 4.1(1), les critères devant servir à établir :
+		- **(i)** le prix moyen d’un produit agricole,
+		- **(ii)** si un produit agricole est non transformé ou s’il n’a subi que la transformation nécessaire à sa conservation et à son entreposage;
+	- **c)** déterminer le pourcentage visé à l’alinéa 5(3)g) ou la méthode de calcul de celui-ci, ce pourcentage pouvant différer selon l’expérience et le rendement antérieur de l’agent d’exécution;
+	- **d)** déterminer la méthode de calcul du pourcentage visé à l’alinéa 5(3)i) et au paragraphe 23(1);
+	- **d.1)** fixer les montants visés aux paragraphes 5(5), 7(2) et 9(1), à l’alinéa 20(1)b) et au paragraphe 20(1.1), lesquels peuvent différer, pour l’application du paragraphe 9(1), de l’alinéa 20(1)b) ou du paragraphe 20(1.1), à l’égard de catégories de producteurs;
+	- **e)** fixer les pourcentages visés au paragraphe 7(2), à l’alinéa 9(2)c), au paragraphe 19(2) et à l’alinéa 20(2)c);
+	- **e.1)** prévoir, pour l’application de l’alinéa 10(1)a), les critères devant servir à déterminer quand le producteur cesse d’être le propriétaire du produit agricole ou cesse d’être responsable de sa commercialisation;
+	- **f)** fixer un montant pour l’application du sous-alinéa 10(2)a)(v);
+	- **f.1)** définir, pour l’application de l’alinéa 10(2)c), ***trop-perçu***;
+	- **f.2)** régir les sûretés que les agents d’exécution sont tenus de prendre aux termes de l’article 12;
 	- **g)** indiquer les démarches que doit effectuer l’agent d’exécution pour recouvrer ce montant que lui doit le producteur au titre de l’article 22 antérieurement et postérieurement à la présentation de sa demande de paiement au ministre en conformité avec le paragraphe 23(1);
 	- **g.1)** prévoir les conditions à remplir pour qu’une demande de remboursement puisse être faite par un prêteur au titre du paragraphe 23(1);
 	- **h)** déterminer, pour l’application du paragraphe 28(3), ce qui constitue une proportion importante de producteurs ou une proportion importante du produit agricole;
+	- **h.1)** régir la cession des sommes visées aux alinéas 33.1a) et b);
 	- **i)** prendre toute autre mesure d’application de la présente loi.
 
-**Campagnes agricoles commençant en 1997 et en 1998**
+**Recommandation**
 
-- **(2)** Malgré les règlements d’application de l’alinéa (1)c), le pourcentage visé à l’alinéa 5(3)g) est, pour les campagnes agricoles commençant en 1997 et en 1998, de 0 % si la Commission est l’agent d’exécution et de 2 % dans les autres cas.
-> 1997, ch. 20, art. 40; 1999, ch. 26, art. 47.
+- **(2)** Les règlements visés à l’alinéa (1)d.1) et ceux visés à l’alinéa (1)e) dans la mesure où ils fixent les pourcentages visés aux paragraphes 7(2) et 19(2) ne peuvent être pris que sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
+
+**Différentes sûretés exigibles**
+
+- **(3)** Les règlements visés à l’alinéa (1)f.2) peuvent exiger que différentes sûretés soient prises selon les catégories de produits agricoles, les sommes dont les producteurs peuvent être redevables et les risques afférents.
+> 1997, ch. 20, art. 40; 1999, ch. 26, art. 47; 2006, ch. 3, art. 16.
 
 
 
@@ -753,13 +869,15 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 ***42** 
 
-- **(1)** Au cours de la cinquième année qui suit la sanction de la présente loi, le ministre procède à l’examen des dispositions et de l’application de la présente loi en consultation avec le ministre des Finances.
+- **(1)** Tous les cinq ans après l’entrée en vigueur du présent paragraphe, le ministre procède à l’examen des dispositions et de l’application de la présente loi en consultation avec le ministre des Finances.
 
-<a name='A-3.7_fr_1'><sup>*</sup></a>: [Note : Loi sanctionnée le 25 avril 1997.]<br />
+<a name='A-3.7_fr_1'><sup>*</sup></a>: [Note : Paragraphe 42(1) en vigueur le 27 novembre 2006, *voir* TR/2006-136.]<br />
 
 **Dépôt du rapport**
 
 - **(2)** Le ministre fait déposer devant chaque chambre du Parlement, dans les trente premiers jours de séance de celle-ci suivant l’établissement du rapport de l’examen, une copie de celui-ci.
+> 1997, ch. 20, art. 42; 2006, ch. 3, art. 17.
+
 
 
 
@@ -852,7 +970,9 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Défaut**
 
-**51.1** Pour l’application de l’alinéa 10(1)f), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la [Loi sur le paiement anticipé des récoltes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-49.md).
+**51.1** Pour l’application de l’alinéa 10(1)e), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la [Loi sur le paiement anticipé des récoltes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-49.md) avant le 1<sup>er</sup> avril 1997.
+> 1997, ch. 20, art. 51.1; 2006, ch. 3, art. 18.
+
 
 
 
@@ -876,7 +996,9 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 
 **Défaut**
 
-**52.1** Pour l’application de l’alinéa 10(1)f), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la [Loi sur les paiements anticipés pour le grain des Prairies](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-18.md).
+**52.1** Pour l’application de l’alinéa 10(1)e), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la [Loi sur les paiements anticipés pour le grain des Prairies](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-18.md) avant le 1<sup>er</sup> juin 1997.
+> 1997, ch. 20, art. 52.1; 2006, ch. 3, art. 19.
+
 
 
 
@@ -904,5 +1026,28 @@ Pour l’application des parties I et IV, y sont assimilées toutes autres perso
 - <sup><a href='#A-3.7_fr_3'>[*]</a></sup>**(2)** Les articles 44, 45 et 46 entrent en vigueur à la date ou aux dates fixées par décret.
 
 <a name='A-3.7_fr_3'><sup>*</sup></a>: [Note : Articles 44 à 46 non en vigueur.]<br />
+
+
+
+
+### **ANNEXE** 
+**(articles 5, 10, 12, 19 et 33.1)**
+## Programmes
+Compte de stabilisation du revenu net
+
+
+Programme canadien de stabilisation du revenu agricole
+
+
+Programme d’assurance-production
+
+
+Programme d’assurance stabilisation des revenus agricoles
+
+
+*Self-Directed Risk Management*
+
+
+> 2006, ch. 3, art. 20.
 
 
