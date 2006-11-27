@@ -39,28 +39,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***administrator*** means the Board or any of the following organizations that has the power to sue and be sued in its own name:
-- **(a)** an organization of producers that is involved in marketing a crop; or
-- **(b)** any other organization that the Minister considers is supported by producers and designates as an administrator.
+***administrator*** means one of the following organizations, if it has the power to sue and be sued in its own name: 
+- **(a)** an organization of producers that is involved in marketing an agricultural product to which Part I applies;
+- **(b)** an organization, including the Board but not including a lender, that the Minister, taking into account any criteria prescribed by regulation, determines to be an organization that represents producers who produce, in an area, a significant portion of an agricultural product for which advances will be made; or
+- **(c)** an organization, including a lender, that the Minister determines to be an organization that would be able to make advances more accessible to producers and that the Minister designates as an administrator.
 
-***advance*** means an advance payment to an eligible producer for a crop.
+***advance*** means an advance payment to an eligible producer for an agricultural product.
 
 ***advance guarantee agreement*** means an agreement under section 5.
 
-***agricultural product*** means
-- **(a)** an animal, a plant or an animal or plant product; or
-- **(b)** a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
+***agricultural product*** means an animal or a plant or a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
 
 ***Board*** means the Canadian Wheat Board continued by section 3 of the [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md).
 
-***crop*** means
-- **(a)** one or more field crops, or a portion of one or more field crops, grown in Canada, either cultivated or uncultivated, and stored in a non-processed form;
-- **(b)** maple syrup or honey produced in Canada; or
-- **(c)** any other agricultural product designated by the Governor in Council under subsection (2).
+***crop***[Repealed, 2006, c. 3, s. 1]
 
-***crop unit*** means a unit of a crop, as defined in the advance guarantee agreement relating to the crop.
+***crop unit***[Repealed, 2006, c. 3, s. 1]
 
-***crop year*** means a period of 12 months or less specified for a crop in the advance guarantee agreement relating to the crop.
+***crop year***[Repealed, 2006, c. 3, s. 1]
 
 ***Her Majesty*** means Her Majesty in right of Canada.
 
@@ -79,19 +75,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***price guarantee agreement*** means an agreement under section 28.
 
 ***producer*** means a producer of an agricultural product who is
-- **(a)** a Canadian citizen or a permanent resident;
+- **(a)** a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
 - **(b)** a corporation a majority of whose voting shares are held by Canadian citizens or permanent residents;
 - **(c)** a cooperative a majority of whose members are Canadian citizens or permanent residents; or
 - **(d)** a partnership or other association of persons where partners or members who are Canadian citizens or permanent residents are entitled to at least 50% of the profits of the partnership or association.
 
-For the purposes of Parts I and IV, “producer” includes a person or entity mentioned in any of paragraphs (a) to (d) that is entitled to a crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor on a date specified for the purposes of this definition in an advance guarantee agreement. In this definition, “permanent resident” has the same meaning as in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md).
+For the purposes of Parts I and IV, ***producer*** includes a person or entity mentioned in any of paragraphs (a) to (d) that is entitled to an agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor on a date specified for the purposes of this definition in an advance guarantee agreement.
+
+***production period***, in respect of an agricultural product, means the period of up to 18 months — or any longer period that is fixed by the Minister — specified in the advance guarantee agreement relating to the agricultural product.
+
+***production unit***, in respect of an agricultural product, means the production unit specified in the advance guarantee agreement relating to the agricultural product.
 
 ***repayment agreement*** means an agreement under subsection 10(2).
 
-**Designation of crops by Governor in Council**
-
-- **(2)** The Governor in Council may, by regulation, designate as a crop for the purposes of this Act any agricultural product grown or produced in Canada.
-> 1997, c. 20, s. 2; 1998, c. 17, s. 30; 2001, c. 27, s. 203.
+- **(2)** [Repealed, 2006, c. 3, s. 1]
+> 1997, c. 20, s. 2; 1998, c. 17, s. 30; 2001, c. 27, s. 203; 2006, c. 3, s. 1.
 
 
 
@@ -147,7 +145,34 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **Purpose**
 
-**4** The purpose of this Part is to improve marketing opportunities for crops of eligible producers by guaranteeing the repayment of the advances made to them as a means of improving cash-flow at or after harvest.
+**4** The purpose of this Part is to improve marketing opportunities for the agricultural products of eligible producers by guaranteeing the repayment of the advances made to them as a means of improving their cash-flow.
+> 1997, c. 20, s. 4; 2006, c. 3, s. 2.
+
+
+
+
+
+**Eligible agricultural products**
+
+**4.1** 
+
+- **(1)** Subject to subsections (2) and (3), this Part applies only in respect of an agricultural product that meets the following criteria:
+	- **(a)** the agricultural product is
+		- **(i)** an animal that is raised in Canada or the fur pelt of such an animal,
+		- **(ii)** a plant that is grown in Canada or the product of such a plant, or
+		- **(iii)** honey or maple syrup that is produced in Canada;
+	- **(b)** the Minister has determined, taking into account any criteria prescribed by regulation, that it is possible to establish an average price for the agricultural product; and
+	- **(c)** the Minister has determined, taking into account any criteria prescribed by regulation, that the agricultural product is not processed or, in the case of a perishable agricultural product, is not processed beyond what is necessary to store it and prevent spoilage.
+
+**Designation by Governor in Council**
+
+- **(2)** The Governor in Council may, by regulation, designate any other agricultural product as being subject to this Part.
+
+**Breeding animals**
+
+- **(3)** Animals that are or were used as breeding animals are not agricultural products that are subject to this Part.
+> 2006, c. 3, s. 2.
+
 
 
 
@@ -160,28 +185,28 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 	- **(a)** guaranteeing to the administrator or, if the agreement is made with an administrator and a lender, to the lender, the repayment of advances that the administrator makes to eligible producers from money borrowed for the purpose of making the advances, together with any interest on the advances; and
 	- **(b)** setting out the obligations of the administrator in relation to the advances and their repayment.
 
-**Lender guarantee**
+**Restriction**
 
-- **(1.1)** An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance.
+- **(1.1)** An advance guarantee agreement may be made with an administrator and a lender, or with an administrator that is a lender, only if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance.
 
 **Conditions concerning the guarantee**
 
-- **(1.2)** If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement.
+- **(1.2)** If a guarantee under the advance guarantee agreement is made to a lender, or to an administrator that is a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender, or by the administrator, as the case may be, will not exceed the rate specified in the agreement.
 
-**Administrator qualifications**
+**Administrator to demonstrate ability**
 
-- **(2)** The administrator must demonstrate to the Minister that
-	- **(a)** it represents eligible producers in an area who produce in that area a significant portion of the crop for which the advances will be made; and
-	- **(b)** the administrator is capable of meeting its obligations under the advance guarantee agreement.
+- **(2)** An administrator must demonstrate to the Minister that it is capable of meeting its obligations under the advance guarantee agreement.
 
 **Terms and conditions**
 
-- **(3)** In addition to designating the crop and specifying any other terms and conditions governing advances and their repayment, the advance guarantee agreement must provide that the administrator agrees
+- **(3)** In addition to identifying the agricultural products and specifying the terms and conditions governing advances and their repayment, an advance guarantee agreement must provide that the administrator agrees
 	- **(a)** to make an agreement with each buyer mentioned in subparagraph 10(2)(a)(i), other than the administrator, to withhold amounts as provided in that subparagraph and to remit them immediately to the administrator;
 	- **(b)** to withhold amounts as provided in subparagraph 10(2)(a)(i) in cases where the administrator is the buyer;
 	- **(c)** to make the advances from money borrowed from a lender;
 	- **(d)** to ensure that the interest rate on the money borrowed by the administrator will not exceed the rate specified in the advance guarantee agreement;
-	- **(e)** to take steps, in accordance with the terms and conditions of the advance guarantee agreement, to ensure that before an advance is made the crop is harvested, of marketable quality and adequately stored by the producer so as to remain of marketable quality until disposed of in accordance with the repayment agreement;
+	- **(e)** to take steps, in accordance with the terms and conditions of the advance guarantee agreement, to ensure that, before an advance is made,
+		- **(i)** in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+		- **(ii)** in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable;
 	- **(f)** to repay the money it borrows from the lender, together with the interest, by paying to the lender, within the period specified in the advance guarantee agreement, the amounts the administrator receives as repayment of advances;
 	- **(g)** if a producer defaults, to pay
 		- **(i)** to the lender, within the period specified in the advance guarantee agreement, the administrator’s percentage, as determined under the regulations, of the amount of the producer’s liability under paragraph 22(a), and
@@ -189,14 +214,45 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 	- **(h)** to pay to the Minister any additional interest resulting from its failure to make payments required by paragraphs (f) and (g); and
 	- **(i)** to pay to the Minister, within the period specified in the advance guarantee agreement, the Minister’s percentage, as determined under the regulations, of an amount repaid to the administrator under a repayment agreement by a defaulting producer if the Minister has previously made a payment for the producer under subsection 23(1).
 
+**Exception**
+
+- **(3.1)** The terms described in paragraphs (3)(c) and (f) and subparagraph (3)(g)(i) — and in paragraph (3)(h) in relation to payments required by paragraph (3)(f) and subparagraph (3)(g)(i) — are not required if the Minister and an administrator are the only parties to the agreement.
+
+**Schedule**
+
+- **(3.2)** The Governor in Council may, by regulation, on the recommendation of the Minister, amend the schedule by adding to it, or deleting from it, the name of a program.
+
+**Restriction**
+
+- **(3.3)** An amendment to an advance guarantee agreement may not be made during the period specified in it that constitutes the production period if doing so would extend that period beyond 18 months, or the longer period fixed by the Minister, if one was so fixed before the advance guarantee agreement was entered into.
+
 **Administration fees**
 
 - **(4)** The administrator may charge fees to producers for administrative services, including fees for receiving and dealing with applications for advances and for administering advances. The fees may be charged only for the purpose of recovering administrative costs under this Part and are subject to any terms and conditions of the advance guarantee agreement.
 
 **Maximum contingent liability**
 
-- **(5)** The aggregate contingent liability of Her Majesty in relation to principal outstanding under guarantees made under advance guarantee agreements must not at any time exceed $1.9 billion, or any greater amount that the Governor in Council may prescribe by regulation.
-> 1997, c. 20, s. 5; 1999, c. 26, s. 42.
+- **(5)** The aggregate contingent liability of Her Majesty in relation to the principal outstanding under guarantees made under advance guarantee agreements must not at any time exceed $5 billion or the amount fixed by regulation.
+
+**Administrator’s percentage**
+
+- **(6)** The administrator’s percentage mentioned in paragraph (3)(g), as determined under the regulations, must be at least 1% and not more than 15%. If the regulations establish a method of calculating that percentage, the percentage is deemed to be 1% if the calculation results in a lower percentage, and 15% if the calculation results in a higher percentage.
+> 1997, c. 20, s. 5; 1999, c. 26, s. 42; 2006, c. 3, s. 3.
+
+
+
+
+
+**Agreement where guarantee already exists**
+
+**5.1** 
+
+- **(1)** The Minister may enter into an advance guarantee agreement with an administrator without making the guarantee referred to in paragraph 5(1)(a) if the Minister is satisfied that the repayment of the advances to be made under the agreement will be guaranteed by another person or entity.
+
+**Provisions do not apply**
+
+- **(2)** Paragraph 5(3)(i) and, unless the agreement specifies otherwise, section 23 do not apply in respect of an advance guarantee agreement that the Minister enters into without making the guarantee referred to in paragraph 5(1)(a).
+> 2006, c. 3, s. 4.
 
 
 
@@ -204,8 +260,8 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **Obligations of administrators**
 
-**6** A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement.
-> 1997, c. 20, s. 6; 1999, c. 26, s. 43.
+**6** A guarantee given to an administrator is not effective unless the administrator complies with this Act and the advance guarantee agreement.
+> 1997, c. 20, s. 6; 1999, c. 26, s. 43; 2006, c. 3, s. 4.
 
 
 
@@ -215,11 +271,13 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **7** 
 
-- **(1)** Despite paragraph 5(3)(e), the advance guarantee agreement may authorize the administrator to pay a portion of an advance as an emergency advance to an eligible producer if the producer has difficulty harvesting a crop because of unusual weather conditions and it is reasonable to expect the crop to be harvested in a marketable condition. Payment of the emergency advance is subject to any terms and conditions set out in the advance guarantee agreement.
+- **(1)** Despite paragraph 5(3)(e), the advance guarantee agreement may authorize the administrator to pay, subject to any terms and conditions set out in the advance guarantee agreement, a portion of an advance as an emergency advance to an eligible producer who has difficulty producing the producer’s agricultural product because of unusual production conditions attributable to weather or natural disaster if it is reasonable to expect that the agricultural product will be marketable.
 
 **Maximum amount**
 
-- **(2)** The maximum amount of the emergency advance is the lesser of $25,000 and 50% of the advance that the administrator expects to make to the producer on the basis of the amount of the crop that will be harvested.
+- **(2)** The maximum amount of the emergency advance is the lesser of $25,000, or the amount fixed by regulation, and 50%, or the percentage fixed by regulation, of the advance that the administrator expects to make to the producer in respect of the agricultural product on the basis of the amount of that product that is expected to be produced.
+> 1997, c. 20, s. 7; 2006, c. 3, s. 4.
+
 
 
 
@@ -232,9 +290,9 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **9** 
 
-- **(1)** The Minister must, in relation to each producer, pay to the lender specified in the advance guarantee agreement the interest accruing during a crop year on the amounts borrowed by the administrator to pay the first $50,000 of the total of the following amounts advanced during the crop year, or any shorter period specified in the advance guarantee agreement:
-	- **(a)** amounts advanced to the producer for all their crops; and
-	- **(b)** the percentage of the amounts advanced to all related producers for all their crops that is attributable to the producer under subsection (2).
+- **(1)** The Minister must, in relation to each producer, pay to the lender specified in the advance guarantee agreement — or, if the agreement was made only with an administrator, to the administrator — the interest accruing during a production period on the amounts borrowed by the administrator to pay the first $100,000 — or the amount fixed by regulation — of the total of the following amounts advanced during the production period, or during any shorter period specified in the agreement:
+	- **(a)** amounts advanced to the producer for all of their agricultural products, and
+	- **(b)** the percentage of the amounts advanced to all related producers, for all of their agricultural products, that is attributable to the producer under subsection (2).
 
 **Attribution**
 
@@ -251,6 +309,8 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 **Reduction of principal**
 
 - **(4)** When an amount is repaid on account of a guaranteed advance, the amount on which the Minister must pay interest is reduced by the amount of the repayment.
+> 1997, c. 20, s. 9; 2006, c. 3, s. 5.
+
 
 
 
@@ -263,35 +323,42 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **10** 
 
-- **(1)** For a producer to be eligible for a guaranteed advance during a crop year,
-	- **(a)** the producer must, in accordance with any regulations, own the crop continuously and be responsible for marketing it;
-	- **(b)** if the producer is an individual, the producer must have attained the age of majority in the province where his or her farming operation is carried on and must be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor;
+- **(1)** For a producer to be eligible for a guaranteed advance during a production period,
+	- **(a)** the producer must own the agricultural product continuously and be responsible for marketing it, as determined by the Minister, taking into account any criteria prescribed by regulation;
+	- **(b)** if the producer is an individual, the producer must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor;
 	- **(c)** if the producer is a corporation with only one shareholder, the shareholder must
 		- **(i)** have attained the age of majority in the province where the producer’s farming operation is carried on,
-		- **(ii)** be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor, and
+		- **(ii)** be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor, and
 		- **(iii)** agree in writing to be personally liable to the administrator for any liability of the producer under section 22 and to provide any security for the repayment of the advance that the administrator may require;
 	- **(d)** if the producer is a corporation with two or more shareholders, a partnership, a cooperative or another association of persons,
-		- **(i)** at least one of the shareholders, partners or members, as the case may be, must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor, and
-		- **(ii)** each of the shareholders, partners or members, as the case may be, must agree in writing to be jointly and severally liable to the administrator for any liability of the producer under section 22 and must provide any security for the repayment of the advance that the administrator may require;
-	- **(e)** the producer and, to the extent provided in the advance guarantee agreement, any related producers must have repaid all guaranteed advances received during the previous crop year for a crop of the same designation, unless the Minister otherwise directs when staying a default under subsection 21(2) by the producer or any of the related producers;
-	- **(f)** the producer and, to the extent provided in the advance guarantee agreement, any related producers must not be in default under a repayment agreement;
-	- **(g)** the producer must not be ineligible under subsection 21(4); and
-	- **(h)** the producer must not have given the crop as security ranking in priority to the security interest created by section 12.
+		- **(i)** at least one of the shareholders, partners or members, as the case may be, must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor, and
+		- **(ii)** each of the shareholders, partners or members, as the case may be, must agree in writing to be jointly and severally, or solidarily, liable to the administrator for any liability of the producer under section 22 and must provide any security for the repayment of the advance that the administrator may require;
+	- **(e)** the producer and, to the extent provided in the advance guarantee agreement, any related producers must not be in default under a repayment agreement;
+	- **(f)** the producer must not be ineligible under subsection 21(4);
+	- **(g)** the producer must not have given the agricultural product, or any amount to be received under a program listed in the schedule, as security ranking in priority to the security created by section 12; and
+	- **(h)** the producer must demonstrate that
+		- **(i)** in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+		- **(ii)** in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable.
 
 **Sharing security**
 
-- **(1.1)** For the purpose of paragraph (1)(h), the producer’s eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement.
+- **(1.1)** For the purpose of paragraph (1)(h), the producer’s eligibility is not affected by the administrator sharing its security with another creditor in accordance with the terms and conditions specified in the advance guarantee agreement.
 
 **Eligible producers must make repayment agreements**
 
 - **(2)** An eligible producer must make a repayment agreement with the administrator under which the producer agrees
 	- **(a)** to repay the advance
-		- **(i)** by selling the crop for which the advance is to be made to a buyer or buyers named by the administrator, and authorizing in writing each buyer to withhold from any amount they pay to the producer for each crop unit an amount determined in accordance with the repayment schedule specified in the agreement,
-		- **(ii)** by selling or otherwise disposing of the crop for which the advance is to be made and paying directly to the administrator, for each crop unit in accordance with the terms and conditions specified in the agreement, an amount determined in accordance with the repayment schedule specified in the agreement,
-		- **(iii)** without proof that the crop has been sold, up to an amount prescribed by the regulations, or
-		- **(iv)** by a combination of the methods described in subparagraphs (i) to (iii);
-	- **(b)** to keep the crop adequately stored so as to remain of marketable quality until disposed of under the agreement; and
-	- **(c)** to comply with any other terms and conditions set out in the agreement, including terms and conditions governing the delivery of the crop and the payment of interest, both before and after any default.
+		- **(i)** by selling the agricultural product for which the advance is to be made to a buyer or buyers named by the administrator, and authorizing in writing each buyer to withhold from any amount they pay to the producer for each production unit an amount determined in accordance with the repayment schedule specified in the agreement,
+		- **(ii)** by selling, in accordance with the terms and conditions specified in the agreement, the agricultural product for which the advance is to be made and paying directly to the administrator, for each production unit, an amount determined in accordance with the repayment schedule specified in the agreement,
+		- **(iii)** by paying directly to the administrator any amount received under a program listed in the schedule,
+		- **(iv)** by assigning to the administrator amounts payable to the producer under a program listed in the schedule,
+		- **(v)** without proof that the agricultural product has been sold, by paying the administrator an amount up to an amount prescribed by the regulations, or
+		- **(vi)** by paying the administrator by a combination of the methods described in subparagraphs (i) to (v);
+	- **(b)** to ensure that
+		- **(i)** in the case of an agricultural product that is storable, it will be stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+		- **(ii)** in the case of an agricultural product that is not storable, it will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable;
+	- **(c)** to repay the amount of the overpayment, if any, of the advance within the period that begins on the earlier of the day on which the producer becomes aware of the overpayment and the day on which the administrator mails or delivers a notice to the producer stating that there has been an overpayment of the advance and ends on the expiry of the number of days set out in the agreement; and
+	- **(d)** to comply with any other terms and conditions set out in the agreement, including terms and conditions governing the delivery of the agricultural product and the payment of interest, both before and after any default.
 
 **Terms and conditions governing emergency advances**
 
@@ -300,22 +367,26 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 **Required information**
 
 - **(4)** The producer must provide to the administrator any information that it requests for the purpose of applying this Act.
-> 1997, c. 20, s. 10; 1999, c. 26, s. 45.
+> 1997, c. 20, s. 10; 1999, c. 26, s. 45; 2006, c. 3, s. 6.
 
 
 
 
 
-**Unmarketable crop**
+**Unmarketable agricultural product**
 
-**11** If a crop for which a guaranteed advance is made ceases to be in marketable condition, in whole or in part, the producer becomes liable to repay immediately to the administrator that portion of the guaranteed advance, together with the interest on it from the date of the advance, that is attributable to the unmarketable portion of the crop.
+**11** If an agricultural product for which a guaranteed advance is made ceases to be in marketable condition, in whole or in part, through no fault of the producer, the producer becomes liable to repay immediately, to the administrator that made the advance, the portion of the guaranteed advance that is attributable to the unmarketable portion of the agricultural product, together with the interest on that portion from the date of the advance.
+> 1997, c. 20, s. 11; 2006, c. 3, s. 7.
 
 
 
 
-**Security interest in crop**
 
-**12** An administrator that makes a guaranteed advance to a producer has a security interest in the crop for which the advance was made, and in any crop subsequently grown by the producer, for the amount of the producer’s liability under sections 22 and 23.
+**Security**
+
+**12** An administrator that makes a guaranteed advance to a producer in a production period in respect of an agricultural product shall take the security required by the regulations, for the amount of the producer’s liability under sections 22 and 23, in the agricultural product for which the advance was made, in any agricultural product produced in a subsequent production period by the producer and, subject to the repayment agreement, in any amount that may be received by the producer under a program listed in the schedule.
+> 1997, c. 20, s. 12; 2006, c. 3, s. 7.
+
 
 
 
@@ -328,66 +399,67 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 **13** 
 
-- **(1)** For the purpose of making guaranteed advances under this Act, the Board may make any arrangements, contracts or agreements that it considers necessary or advisable for the administration of this Part, including borrowing money by any means, for example, by issuing, reissuing, selling and pledging bonds, debentures, notes and other evidences of indebtedness of the Board.
+- **(1)** For the purpose of making guaranteed advances under this Act, the Board may make any arrangements, contracts or agreements that it considers necessary or advisable for the administration of this Part and it may borrow or raise money by any means, including by issuing, reissuing, selling and pledging bonds, debentures, notes and other evidences of indebtedness of the Board.
 
-**Borrowing guarantee**
+**Minister of Finance to guarantee repayment**
 
-- **(2)** The Minister of Finance may, subject to any terms and conditions approved by the Governor in Council, guarantee the repayment of money borrowed under subsection (1) together with the interest on it.
+- **(2)** The Minister of Finance may, subject to any terms and conditions approved by the Governor in Council, guarantee the repayment of money borrowed under subsection (1) together with the interest on it if the money is borrowed or raised in order to make an advance under a guaranteed advance agreement to which the only parties are the Minister and the Board.
+> 1997, c. 20, s. 13; 2006, c. 3, s. 8.
+
 
 
 
 
 **Cash purchase tickets**
 
-**14** Despite the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md), the manager or operator of an elevator or other person authorized by the Board to make guaranteed advances on its behalf may make advances by means of cash purchase tickets.
+**14** Despite the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md), every person, including the manager or operator of an elevator, authorized by the Board to make guaranteed advances on its behalf may make advances by means of cash purchase tickets.
+> 1997, c. 20, s. 14; 2006, c. 3, s. 9(E).
 
 
 
 
-**Non-application of certain provisions**
-
-**15** 
-
-- **(1)** Paragraphs 5(3)(c) and (f), subparagraph 5(3)(g)(i) and paragraph 5(3)(h) do not apply to the Board.
-
-**Payment of interest by Minister**
-
-- **(2)** Interest payable by the Minister under subsection 9(1) in relation to amounts borrowed by the Board is payable to the Board.
+**15** [Repealed, 2006, c. 3, s. 10]
 
 
 
 
-**Delivery of permit book**
+**Delivery of documents**
 
 **16** 
 
-- **(1)** At any time after a producer applies to the Board for an advance, the Board may require the producer to deliver to it any permit book issued to the producer or to any related producer.
+- **(1)** At any time after a producer applies to the Board for an advance, the Board may require the producer to deliver to it any document, including a permit book, that the Board issued to the producer or to a related producer.
 
 **Endorsement**
 
-- **(2)** The Board may require an endorsement to be made in the permit book in a form specified by the Board, indicating that amounts for all crops delivered under the permit book must be deducted and paid to the Board in accordance with the repayment agreement with the producer.
+- **(2)** The Board may require an endorsement to be made in any of those documents, in a form specified by the Board, indicating that amounts must be deducted in accordance with the repayment agreement with the producer and paid to the Board in priority to all other persons.
+> 1997, c. 20, s. 16; 2006, c. 3, s. 10.
 
 
 
 
-**Deductions on delivery**
+
+**Deductions**
 
 **17** 
 
-- **(1)** If a delivery of a crop is made under a permit book that bears an endorsement, the person receiving the delivery shall
-	- **(a)** deduct and pay to the Board, in priority to all other persons, the portion of the payment for the crop that the repayment agreement with the producer authorizes to be deducted from each payment until the advance has been repaid; and
-	- **(b)** make an appropriate entry of the deduction in the permit book and in any other permit book that has the same endorsement and is presented to the person receiving the delivery.
+- **(1)** If an agricultural product for which the Board has required the delivery of a document bearing an endorsement required under subsection 16(2) is sold, the producer of the agricultural product or, if the person purchasing it has been authorized by the Board to make remittances to the Board in respect of amounts paid for agricultural products, the person purchasing the agricultural product, shall
+	- **(a)** deduct and pay to the Board, in priority to all other persons, the portion of the payment for the agricultural product that the repayment agreement with the producer authorizes to be deducted from each payment until the advance has been repaid; and
+	- **(b)** make an appropriate entry of the deduction in the document and in any other document that has the same endorsement and that is presented to the person purchasing the agricultural product.
 
 **Cancellation of endorsement**
 
 - **(2)** When the guaranteed advance has been repaid, the Board must cancel the endorsement.
+> 1997, c. 20, s. 17; 2006, c. 3, s. 10.
 
 
 
 
-**Endorsements in permit books**
 
-**18** A producer whose permit book has been endorsed under subsection 16(2) is not entitled to receive and shall not use any other permit book, including a permit book of any related producer, in substitution for the endorsed permit book for the same or any subsequent crop year, unless the guaranteed advance is repaid or the endorsement is also made in the other permit book.
+**Prohibition**
+
+**18** A producer whose document has been endorsed under subsection 16(2) is not entitled to receive and shall not use any other document, including a document of a related producer, in substitution for the endorsed document for the same or any subsequent production period, unless the guaranteed advance is repaid or the endorsement is also made in the other document.
+> 1997, c. 20, s. 18; 2006, c. 3, s. 10.
+
 
 
 
@@ -396,18 +468,24 @@ For the purposes of Parts I and IV, “producer” includes a person or entity m
 
 
 
-**Amount of advance**
+**Amount of advance to be guaranteed**
 
 **19** 
 
-- **(1)** The amount of an advance eligible for a guarantee under this Part is calculated by multiplying
-	- **(a)** the number of crop units for which the advance is to be made
+- **(1)** Subject to subsection (3), the amount of an advance eligible for a guarantee under this Part is calculated by multiplying
+	- **(a)** the number of production units for which the advance is to be made
 by
-	- **(b)** the rate per crop unit specified in the advance guarantee agreement for that crop in the crop year in which the advance is made.
+	- **(b)** the rate per production unit specified in the advance guarantee agreement for the agricultural product for the production period for which the advance is made, or for a specified portion of the production period for which the advance is made.
 
-**Rate per crop unit**
+**Rate per production unit**
 
-- **(2)** The rate per crop unit may be specified for a particular crop in a particular area, but it must not exceed one half of the average price that, in the Minister’s opinion, will be payable to producers of the crop in that area.
+- **(2)** The rate per production unit may be specified for a particular agricultural product in a particular area, but it must not exceed 50%, or the percentage fixed by regulation, of the average price that in the Minister’s opinion will be payable to producers of the agricultural product in that area.
+
+**Exception**
+
+- **(3)** If, because of paragraph 10(1)(h), the amount of the advance must be covered by a program listed in the schedule, the maximum amount of an advance eligible for a guarantee under this Part is the lesser of the amount calculated under subsection (1) and the percent-age, specified in the advance guarantee agreement, of the maximum amount that the producer could receive under that program.
+> 1997, c. 20, s. 19; 2006, c. 3, s. 10.
+
 
 
 
@@ -416,9 +494,13 @@ by
 
 **20** 
 
-- **(1)** The maximum amount of advances in any crop year that are eligible for a guarantee under this Act
-	- **(a)** for a particular crop produced by an eligible producer, is an amount specified in the advance guarantee agreement for that crop; and
-	- **(b)** for all crops produced by the producer or by any related producers, to the extent that advances for the crops are attributable to the producer under subsection (2), is the lesser of $250,000 and an amount determined by the Minister.
+- **(1)** Subject to subsection (1.1), the maximum amount of advances in any production period that are eligible for a guarantee under this Act is
+	- **(a)** for a particular agricultural product produced by a producer, the amount specified in the advance guarantee agreement for that agricultural product; and
+	- **(b)** for all agricultural products produced by a producer or a related producer, to the extent that advances for the agricultural products are attributable to the producer under subsection (2), $400,000 or the amount fixed by regulation.
+
+**Overlapping production periods**
+
+- **(1.1)** The maximum amount of all advances that are eligible for a guarantee under this Act in relation to a producer, or to a related producer to the extent that the advances are attributable to the producer under subsection (2), may not, at any one time, exceed $400,000, or the amount fixed by regulation.
 
 **Attribution**
 
@@ -427,6 +509,8 @@ by
 	- **(b)** if the related producer is a corporation, the attributable percentage is the percentage of the voting shares that the producer holds in the related producer;
 	- **(c)** if the related producer is a cooperative, the attributable percentage is the percentage prescribed by the regulations; and
 	- **(d)** if the producer and the related producer are partners or members of the same partnership or other association of persons, the attributable percentage is the percentage of the profits of the partnership or association to which the producer is entitled.
+> 1997, c. 20, s. 20; 2006, c. 3, s. 11.
+
 
 
 
@@ -441,9 +525,9 @@ by
 
 - **(1)** For the purposes of this Part, a producer is in default under a repayment agreement if the producer
 	- **(a)** has not met any of their obligations under the agreement within 20 days after the day on which the administrator mails or delivers a notice to the producer stating that the producer has had, in the opinion of the administrator, adequate opportunity to meet the obligation, and requesting the producer to meet it;
-	- **(b)** has not met all of their obligations under the agreement at the end of the crop year in which the advance was made;
+	- **(b)** has not met all of their obligations under the agreement at the end of the production period for which the advance was made;
 	- **(c)** has not met all of their obligations under the agreement when the producer files an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or a bankruptcy order is made under that Act against the producer;
-	- **(d)** at any time breaches an obligation under the agreement; or
+	- **(d)** at any time breaches an obligation under the agreement and, if the breach relates to the obligation to store the agricultural product or to maintain it so that it remains of marketable quality, section 11 does not apply; or
 	- **(e)** provides false or misleading information to the administrator for the purpose of obtaining a guaranteed advance, or evading compliance with an undertaking to repay it.
 
 **Stay of default**
@@ -457,7 +541,7 @@ by
 **Ineligibility period**
 
 - **(4)** An advance guarantee agreement may provide that a producer continues to be ineligible for a guaranteed advance for any period specified in the agreement, even though the producer has ceased to be in default.
-> 1997, c. 20, s. 21; 2004, c. 25, s. 183.
+> 1997, c. 20, s. 21; 2004, c. 25, s. 183; 2006, c. 3, s. 12.
 
 
 
@@ -498,11 +582,13 @@ by
 
 **24** 
 
-- **(1)** If a producer is in default under a repayment agreement with the Board or any other administrator, the Board may, for the purpose of repaying the producer’s liability under sections 22 and 23, make deductions from any amounts owing under section 33 of the [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md) to the producer or to another producer whose permit book the producer uses.
+- **(1)** If a producer is in default under a repayment agreement with the Board or any other administrator, the Board may, for the purpose of repaying the producer’s liability under sections 22 and 23, make deductions from any amounts owing under the [Canadian Wheat Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-24.md) to the producer or to another producer whose permit book the producer uses.
 
 **Liability extinguished**
 
 - **(2)** On making the deduction, the Board’s liability to the producer is extinguished to the extent of the deduction.
+> 1997, c. 20, s. 24; 2006, c. 3, s. 13.
+
 
 
 
@@ -637,6 +723,17 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 
 
+**Crown debts assignable**
+
+**33.1** The following may be assigned in whole or in part:
+- **(a)** for the purposes of Part I, an amount payable under a program listed in the schedule that is a Crown debt within the meaning of section 66 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
+- **(b)** for the purposes of Part II, an amount payable by the Minister under a price guarantee agreement.
+> 2006, c. 3, s. 14.
+
+
+
+
+
 ### Offences and Punishment
 
 
@@ -659,9 +756,11 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 - **(3)** A person who contravenes section 17 commits an offence.
 
-**Use of permit books**
+**Use of document**
 
-- **(4)** A person who uses a permit book in contravention of section 18 commits an offence.
+- **(4)** A person who uses a document in contravention of section 18 commits an offence.
+> 1997, c. 20, s. 34; 2006, c. 3, s. 15.
+
 
 
 
@@ -734,24 +833,34 @@ In addition, the Minister must be satisfied that marketing the product under the
 **40** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** defining
-		- **(i)** “supported” for the purposes of the definition “administrator” in subsection 2(1),
-		- **(ii)** “non-processed” for the purposes of the definition “crop” in subsection 2(1), and
-		- **(iii)** “continuously own” and “responsible for marketing” for the purposes of paragraph 10(1)(a);
-	- **(b)** for determining for the purposes of paragraph 5(2)(a) what is a significant portion of a crop;
-	- **(c)** for determining a method of calculating the administrator’s percentage mentioned in paragraph 5(3)(g), but the percentage must be at least 1% and not more than 15%;
-	- **(d)** for determining a method of calculating the Minister’s percentage mentioned in paragraph 5(3)(i) and subsection 23(1);
-	- **(e)** prescribing attributable percentages for the purposes of paragraphs 9(2)(c) and 20(2)(c);
-	- **(f)** prescribing an amount for the purposes of subparagraph 10(2)(a)(iii);
+	- **(a)** for the purposes of the definition ***administrator*** in subsection 2(1), prescribing criteria for determining
+		- **(i)** whether organizations represent producers in an area, or
+		- **(ii)** what constitutes a significant portion of an agricultural product, either generally or with respect to any specified area;
+	- **(b)** for the purpose of subsection 4.1(1), prescribing criteria for
+		- **(i)** establishing an average price for an agricultural product, or
+		- **(ii)** determining whether an agricultural product is not processed or not processed beyond what is necessary to store it and prevent spoilage;
+	- **(c)** determining the administrator’s percentage mentioned in paragraph 5(3)(g), or establishing a method of calculating it, which percentage may differ among administrators depending on their experience and past performance;
+	- **(d)** determining a method of calculating the Minister’s percentage mentioned in paragraph 5(3)(i) and subsection 23(1);
+	- **(d.1)** fixing an amount for the purposes of each of subsections 5(5), 7(2) and 9(1), paragraph 20(1)(b) and subsection 20(1.1), which amount may, for the purposes of subsection 9(1), paragraph 20(1)(b) or subsection 20(1.1), differ with regard to classes of producers;
+	- **(e)** fixing a percentage for the purposes of each of subsection 7(2), paragraph 9(2)(c), subsection 19(2) and paragraph 20(2)(c);
+	- **(e.1)** prescribing criteria for determining, for the purpose of paragraph 10(1)(a), when a producer ceases to own an agricultural product or ceases to be responsible for its marketing;
+	- **(f)** prescribing an amount for the purposes of subparagraph 10(2)(a)(v);
+	- **(f.1)** for the purposes of paragraph 10(2)(c), defining ***overpayment***;
+	- **(f.2)** respecting the security that administrators are required to take for the purposes of section 12;
 	- **(g)** respecting the attempts to be made by an administrator to collect on a producer’s liability under section 22 before and after the administrator requests payment from the Minister under subsection 23(1);
 	- **(g.1)** respecting the terms and conditions that must be met before a request for payment referred to in subsection 23(1) is made by a lender;
-	- **(h)** for determining for the purposes of subsection 28(3) what is a significant portion of producers or agricultural product; and
+	- **(h)** for determining for the purposes of subsection 28(3) what is a significant portion of producers or agricultural product;
+	- **(h.1)** respecting the assignment of the amounts referred to in paragraphs 33.1(a) and (b); and
 	- **(i)** generally, for carrying out the purposes and provisions of this Act.
 
-**Exception for crop years beginning in 1997 or 1998**
+**Recommendation**
 
-- **(2)** Despite any regulations made under paragraph (1)(c), the administrator’s percentage for crop years beginning in 1997 or 1998 is 2%, except for crops for which the Board is the administrator, in which case the prescribed percentage is 0%.
-> 1997, c. 20, s. 40; 1999, c. 26, s. 47.
+- **(2)** Regulations made under paragraphs (1)(d.1), and regulations made under paragraph (1)(e) to the extent that they fix a percentage for the purposes of subsection 7(2) or 19(2), may only be made on the recommendation of the Minister with the concurrence of the Minister of Finance.
+
+**Different requirements for security**
+
+- **(3)** Regulations made under paragraph (1)(f.2) may require different security to be taken with respect to different classes of agricultural products, different amounts of producer liability and different risks associated with that liability.
+> 1997, c. 20, s. 40; 1999, c. 26, s. 47; 2006, c. 3, s. 16.
 
 
 
@@ -772,13 +881,15 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 ***42** 
 
-- **(1)** During the fifth year after this Act is assented to, the Minister must review the provisions and operation of this Act in consultation with the Minister of Finance.
+- **(1)** Every five years after the coming into force of this subsection, the Minister must review the provisions and operation of this Act in consultation with the Minister of Finance.
 
-<a name='A-3.7_en_1'><sup>*</sup></a>: [Note: Act assented to April 25, 1997.]<br />
+<a name='A-3.7_en_1'><sup>*</sup></a>: [Note: Subsection 42(1) in force on November 27, 2006, *see* SI/2006-136.]<br />
 
 **Tabling of report**
 
 - **(2)** The Minister must have a report on the review laid before each House of Parliament on any of the first 30 days on which it is sitting after the report is completed.
+> 1997, c. 20, s. 42; 2006, c. 3, s. 17.
+
 
 
 
@@ -871,7 +982,9 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 **Defaults**
 
-**51.1** For the purpose of applying paragraph 10(1)(f), a default under a repayment agreement includes a default in repaying an advance under the [Advance Payments for Crops Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-49.md).
+**51.1** For the purpose of applying paragraph 10(1)(e), a default under a repayment agreement includes a default in repaying an advance made under the [Advance Payments for Crops Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-49.md) on or before March 31, 1997.
+> 1997, c. 20, s. 51.1; 2006, c. 3, s. 18.
+
 
 
 
@@ -895,7 +1008,9 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 **Defaults**
 
-**52.1** For the purpose of applying paragraph 10(1)(f), a default under a repayment agreement includes a default in repaying an advance payment under the [Prairie Grain Advance Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-18.md).
+**52.1** For the purpose of applying paragraph 10(1)(e), a default under a repayment agreement includes a default in repaying an advance payment made under the [Prairie Grain Advance Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-18.md) on or before May 31, 1997.
+> 1997, c. 20, s. 52.1; 2006, c. 3, s. 19.
+
 
 
 
@@ -923,5 +1038,28 @@ In addition, the Minister must be satisfied that marketing the product under the
 - <sup><a href='#A-3.7_en_3'>[*]</a></sup>**(2)** Sections 44 to 46 come into force on a day or days to be fixed by order of the Governor in Council.
 
 <a name='A-3.7_en_3'><sup>*</sup></a>: [Note: Sections 44 to 46 not in force.]<br />
+
+
+
+
+### **SCHEDULE** 
+**(Sections 5, 10, 12, 19 and 33.1)**
+## Programs
+Canadian Agricultural Income Stabilization Program
+
+
+Net Income Stabilization Account
+
+
+Production Insurance Program
+
+
+*Programme d’assurance stabilisation des revenus agricoles*
+
+
+Self-Directed Risk Management
+
+
+> 2006, c. 3, s. 20.
 
 
