@@ -73,6 +73,8 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***banque étrangère d’un non-membre de l’OMC*** Banque étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC.
 
+French version only***banque n’ayant pas fait appel au public*** S’entend d’une banque autre qu’une banque ayant fait appel au public.
+
 ***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers.
 
 ***bureau principal*** S’agissant de la banque étrangère autorisée, bureau qu’elle doit maintenir aux termes de l’article 535.
@@ -201,6 +203,8 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV.
 
+French version only***société de portefeuille bancaire n’ayant pas fait appel au public*** S’entend d’une société de portefeuille bancaire autre qu’une société de portefeuille bancaire ayant fait appel au public.
+
 ***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
 
 ***société mère*** S’entend au sens de l’article 4.
@@ -226,6 +230,12 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 ***titre nominatif*** Titre de la nature précisée au paragraphe 83(4).
 
 ***titre secondaire*** Titre de créance délivré par la banque et prévoyant qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de tous les dépôts effectués auprès de la banque et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur.
+
+***transaction de fermeture*** S’entend au sens des règlements.
+
+***transaction d’éviction*** De la part d’une banque n’ayant pas fait appel au public ou d’une société de portefeuille bancaire n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 217(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
+- **a)** dans le cas d’une transaction effectuée par une banque, la banque;
+- **b)** dans le cas d’une transaction effectuée par une société, la société.
 
 ***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi.
 
@@ -276,6 +286,25 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 - **c)** soit qui est une association coopérative de crédit régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** soit qui est une société coopérative de crédit constituée ou formée et réglementée sous le régime d’une loi provinciale.
 > 2001, ch. 9, art. 36.
+
+
+
+
+
+**Règlements — banque ou société ayant fait appel au public**
+
+**2.4** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant la détermination, pour l’application de la présente loi, de ce que constitue une banque ayant fait appel au public ou une société de portefeuille bancaire ayant fait appel au public.
+
+**Exemption**
+
+- **(2)** Le surintendant peut, à la demande d’une banque ou d’une société de portefeuille bancaire, établir que celle-ci n’est ou n’était pas, selon le cas, une banque ayant fait appel au public ou une société de portefeuille bancaire ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières de la banque ou de la société en question.
+
+**Exemption par catégorie**
+
+- **(3)** Le surintendant peut établir les catégories de banques et de sociétés de portefeuille bancaires qui ne sont ou n’étaient pas, selon le cas, des banques ayant fait appel au public ou des sociétés de portefeuille bancaires ayant fait appel au public, s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des valeurs mobilières des banques ou des sociétés faisant partie des catégories en question.
+> 2005, ch. 54, art. 2.
 
 
 
@@ -439,22 +468,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 
 
-
-**Souscription publique**
-
-**11** 
-
-- **(1)** Sous réserve du paragraphe (2), pour l’application de la présente loi, les valeurs mobilières d’une personne morale ou d’une entité non dotée de la personnalité morale font l’objet d’une souscription publique lorsqu’il a été déposé à leur égard, aux termes d’une loi fédérale, provinciale ou étrangère, un document tel qu’un prospectus, un exposé des faits importants, une déclaration d’enregistrement ou une circulaire d’offre publique d’achat; elles sont de même réputées en avoir fait l’objet lorsqu’elles ont déjà été émises et que le dépôt d’un ou de plusieurs de ces documents serait requis aux termes d’une telle loi si l’émission était en cours.
-
-**Exemption**
-
-- **(2)** Le surintendant peut, à la demande d’une banque ou d’une société de portefeuille bancaire, décider que certaines de ses valeurs mobilières ne font pas — ou n’ont pas fait — l’objet d’une souscription publique s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des titres de la banque ou de la société de portefeuille bancaire en question.
-
-**Présomption de souscription publique**
-
-- **(3)** Pour l’application de la présente loi, sont réputés émis par voie de souscription publique les titres d’une banque ou d’une société de portefeuille bancaire émis lors de la conversion ou en échange de valeurs ayant fait elles-mêmes l’objet d’une souscription publique.
-> 1991, ch. 46, art. 11; 1997, ch. 15, art. 1; 2001, ch. 9, art. 42.
-
+**11** [Abrogé, 2005, ch. 54, art. 3]
 
 
 
@@ -1860,19 +1874,16 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **86** 
 
-- **(1)** Les certificats de valeurs mobilières doivent être signés de la main :
-	- **a)** soit d’au moins un administrateur ou dirigeant de la banque;
-	- **b)** soit de l’un des agents d’inscription ou de transfert de la banque, ou d’une personne agissant au nom de l’un de ceux-ci;
-	- **c)** soit d’un fiduciaire qui les certifie conformes à l’acte de fiducie.
-Les signatures supplémentaires requises peuvent être reproduites mécaniquement, notamment sous forme imprimée.
+- **(1)** Les certificats de valeurs mobilières portent la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — d’au moins une des personnes suivantes :
+	- **a)** tout administrateur ou dirigeant de la banque;
+	- **b)** tout agent d’inscription ou de transfert de la banque, tout agent local des transferts ou une personne physique agissant pour leur compte;
+	- **c)** tout fiduciaire qui les certifie conformes à l’acte de fiducie.
 
-**Exceptions**
+**Permanence de la validité de la signature**
 
-- **(2)** Par dérogation au paragraphe (1), la signature manuscrite n’est pas requise sur les certificats de valeurs mobilières représentant des fractions d’actions ou des options ou droits d’acquérir des valeurs mobilières, ni sur des certificats provisoires.
+- **(2)** La banque peut valablement émettre des certificats de valeurs mobilières portant la signature, qui peut notamment être reproduite mécaniquement ou imprimée, d’administrateurs ou de dirigeants qui ont cessé d’occuper leur poste.
+> 1991, ch. 46, art. 86; 2005, ch. 54, art. 12.
 
-**Validité permanente de la signature**
-
-- **(3)** Les certificats de valeurs mobilières émis par la banque alors que l’administrateur ou le dirigeant dont ils reproduisent mécaniquement la signature a cessé d’occuper ses fonctions restent valides.
 
 
 
@@ -1888,19 +1899,21 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 
 
-**Restrictions**
+**Restrictions et charges**
 
 **88** 
 
-- **(1)** Les restrictions en matière de transfert non prévues à la partie VII et les privilèges en faveur de la banque sont inopposables à tout cessionnaire d’une valeur mobilière qui n’en a pas eu effectivement connaissance, s’ils ne figurent pas ostensiblement, par mention expresse ou référence, sur le certificat qui leur est ou devient assujetti.
+- **(1)** Les restrictions en matière de transfert — autres que celles prévues à la partie VII — auxquelles sont assujetties les valeurs mobilières émises par une banque, ainsi que les charges dont elles sont grevées en faveur de celle-ci, sont inopposables aux cessionnaires qui n’en ont pas eu effectivement connaissance, à moins qu’elles ne soient énoncées ou qu’il n’y soit fait référence de manière visible sur le certificat de valeurs mobilières.
 
 **Restrictions interdites**
 
-- **(2)** La banque dont des actions, en circulation et détenues par plusieurs personnes, sont ou ont été émises par voie de souscription publique ne peut soumettre à des restrictions l’émission, le transfert ou la propriété de ses actions, sauf dans les cas prévus à la partie VII.
+- **(2)** La banque ayant fait appel au public dont des actions sont en circulation et détenues par plus d’une personne ne peut, sauf dans les cas prévus à la partie VII, soumettre à des restrictions le transfert ou le droit de propriété de ses actions.
 
-**Disposition transitoire**
+**Prorogation**
 
-- **(3)** L’expression « compagnie privée » ou « société privée  » figurant sur les certificats de valeurs mobilières émis par une personne morale prorogée sous le régime de la présente loi est réputée constituer un avis des restrictions ou privilèges prévus au paragraphe (1).
+- **(3)** L’expression « compagnie privée » ou « société privée » figurant sur les certificats de valeurs mobilières émis par une personne morale prorogée sous le régime de la présente loi vaut avis des restrictions et charges prévues au paragraphe (1).
+> 1991, ch. 46, art. 88; 2005, ch. 54, art. 13.
+
 
 
 
@@ -1955,11 +1968,11 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **93** 
 
-- **(1)** La banque ou le fiduciaire visé à l’article 294 peut, sous réserve des paragraphes 137(2) à (5) et des articles 138 à 141 et 145, considérer le détenteur inscrit d’une valeur mobilière comme la seule personne ayant qualité pour voter, recevoir des avis ainsi que les intérêts, dividendes ou autres paiements et exercer tous les droits et pouvoirs du propriétaire de la valeur mobilière.
+- **(1)** La banque ou le fiduciaire visé à l’article 294 peut, sous réserve des paragraphes 137(5) à (7) et des articles 138 à 141 et 145, considérer le propriétaire inscrit d’une valeur mobilière comme étant la seule personne ayant qualité pour voter, recevoir des avis ainsi que des intérêts, dividendes ou autres paiements et exercer tous les droits et pouvoirs du propriétaire de la valeur mobilière.
 
 **Présomption**
 
-- **(2)** Malgré le paragraphe (1), la banque peut considérer une personne comme habilitée à exercer les droits du détenteur inscrit d’une valeur mobilière qu’elle représente, dans la mesure où celle-ci peut lui fournir, conformément au paragraphe 127(4), la preuve qu’elle est :
+- **(2)** Malgré le paragraphe (1), la banque peut considérer une personne comme habilitée à exercer les droits du détenteur inscrit d’une valeur mobilière qu’elle représente, dans la mesure où celle-ci peut lui fournir, conformément au paragraphe 127(4), la preuve qu’elle est :
 	- **a)** l’héritier ou le représentant personnel d’un détenteur de valeurs mobilières décédé ou le représentant personnel des héritiers de ce dernier;
 	- **b)** le représentant personnel d’un détenteur inscrit de valeurs mobilières mineur, incapable ou absent;
 	- **c)** le liquidateur ou le syndic de faillite agissant pour un détenteur inscrit de valeurs mobilières.
@@ -2605,7 +2618,19 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **Lieu des assemblées**
 
-**136** Les assemblées d’actionnaires se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
+**136** 
+
+- **(1)** Les assemblées d’actionnaires se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
+
+**Participation aux assemblées par moyen de communication électronique**
+
+- **(2)** Sauf disposition contraire des règlements administratifs, toute personne qui a le droit d’assister à une assemblée d’actionnaires peut y participer par moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer adéquatement entre eux et mis à leur disposition par la banque. Elle est alors réputée, pour l’application de la présente loi, avoir assisté à l’assemblée.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements concernant la façon de participer aux assemblées par tout moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer entre eux ainsi que les exigences à respecter dans le cadre de cette participation.
+> 1991, ch. 46, art. 136; 2005, ch. 54, art. 16.
+
 
 
 
@@ -2616,23 +2641,41 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 - **(1)** Le conseil d’administration convoque les assemblées annuelles, lesquelles doivent se tenir dans les six mois qui suivent la fin de chaque exercice; il peut aussi à tout moment convoquer une assemblée extraordinaire.
 
+**Prorogation de délai**
+
+- **(2)** Malgré le paragraphe (1), la banque peut demander au tribunal d’ordonner la prorogation du délai prévu pour convoquer l’assemblée annuelle.
+
+**Avis au surintendant**
+
+- **(3)** Elle en avise le surintendant par écrit avant l’audition de la demande et, s’il y a lieu, lui envoie une copie de l’ordonnance du tribunal.
+
+**Comparution du surintendant**
+
+- **(4)** Le surintendant peut comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
+
 **Date de référence**
 
-- **(2)** Le conseil d’administration peut fixer d’avance, dans les cinquante jours précédant l’opération en cause, la date ultime d’inscription, ci-après appelée « date de référence », pour déterminer les actionnaires ayant droit à des dividendes, et ceux qui sont habiles à participer au partage consécutif à une liquidation, ou pour toute autre fin, sauf en ce qui touche le droit de recevoir avis d’une assemblée ou d’y voter.
-
-**Avis d’une assemblée**
-
-- **(3)** Le conseil d’administration peut fixer d’avance, entre le cinquantième et le vingt et unième jour précédant une assemblée, la date de référence pour déterminer les actionnaires qui ont le droit d’en être avisés.
+- **(5)** Les administrateurs peuvent fixer d’avance une date ultime d’inscription, ci-après appelée « date de référence », laquelle est comprise dans le délai réglementaire, pour déterminer les actionnaires ayant tout droit ou ayant qualité à toute fin, notamment ceux qui, selon le cas :
+	- **a)** ont le droit de recevoir les dividendes;
+	- **b)** ont le droit de participer au partage consécutif à la liquidation;
+	- **c)** ont le droit de recevoir avis d’une assemblée;
+	- **d)** sont habiles à voter lors d’une assemblée.
 
 **Absence de fixation de date de référence**
 
-- **(4)** À défaut de fixation, la date de référence est, en ce qui concerne la détermination des actionnaires visés aux paragraphes (2) et (3), la date d’adoption de la résolution pertinente par les administrateurs, et dans les autres cas, soit le jour précédant celui où l’avis de l’assemblée est donné, soit, à défaut, le jour de l’assemblée.
+- **(6)** Faute d’avoir été ainsi fixée, la date de référence correspond, selon le cas :
+	- **a)** en ce qui concerne les actionnaires ayant le droit de recevoir avis d’une assemblée :
+		- **(i)** au jour précédant celui où cet avis est donné, à l’heure de fermeture des bureaux,
+		- **(ii)** en l’absence d’avis, au jour de l’assemblée;
+	- **b)** en ce qui concerne les actionnaires ayant qualité à toute autre fin, sauf en ce qui concerne le droit de vote, à la date d’adoption de la résolution à ce sujet par les administrateurs, à l’heure de fermeture des bureaux.
 
-**En cas de fixation**
+**Cas où la date de référence est fixée**
 
-- **(5)** La date de référence étant choisie — et sauf renonciation écrite de tous les détenteurs d’actions de la catégorie ou série concernées dont le nom figure au registre central des valeurs mobilières à l’heure de la fermeture des bureaux le jour de la fixation — , avis en est donné, au plus tard sept jours avant :
-	- **a)** d’une part, par insertion dans un journal à grand tirage au lieu du siège de la banque et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions;
+- **(7)** Avis qu’une date de référence a été fixée est donné dans le délai réglementaire et de la manière prévue ci-après à moins que chacun des détenteurs d’actions de la catégorie ou série en cause dont le nom figure au registre des valeurs mobilières au moment de la fermeture des bureaux de la banque le jour où la date de référence est fixée par les administrateurs renonce par écrit à cet avis :
+	- **a)** d’une part, par insertion dans un journal à grand tirage paraissant au lieu du siège de la banque et en chaque lieu au Canada où la banque a un agent de transfert ou où il est possible d’inscrire tout transfert de ses actions;
 	- **b)** d’autre part, par écrit, à chaque bourse de valeurs mobilières du Canada où les actions de la banque sont cotées.
+> 1991, ch. 46, art. 137; 2005, ch. 54, art. 17.
+
 
 
 
@@ -2641,10 +2684,15 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **138** 
 
-- **(1)** Avis des date, heure et lieu de l’assemblée doit être envoyé, entre le cinquantième et vingt et unième jour qui la précèdent :
+- **(1)** Avis des date, heure et lieu de l’assemblée doit être envoyé dans le délai réglementaire :
 	- **a)** à chaque actionnaire habile à y voter;
 	- **b)** à chaque administrateur;
-	- **c)** au ou aux vérificateurs.
+	- **c)** au ou aux vérificateurs;
+	- **d)** au surintendant.
+
+**Exception**
+
+- **(1.01)** Toutefois, dans le cas d’une banque n’ayant pas fait appel au public, l’avis peut être envoyé dans le délai plus court prévu par ses règlements administratifs.
 
 **Nombre de voix possibles**
 
@@ -2653,7 +2701,7 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Publication dans un journal**
 
 - **(2)** Dans le cas où une catégorie quelconque d’actions de la banque est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la banque et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63.
+> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18.
 
 
 
@@ -2663,11 +2711,13 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **139** 
 
-- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires non inscrits sur les registres de la banque ou de son agent de transfert à la date de référence fixée en vertu des paragraphes 137(3) ou (4).
+- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires non inscrits sur les registres de la banque ou de son agent de transfert à la date de référence fixée au titre de l’alinéa 137(5)c) ou prévue à l’alinéa 137(6)a).
 
 **Conséquence du défaut**
 
 - **(2)** Le défaut d’avis ne prive pas l’actionnaire de son droit de vote.
+> 1991, ch. 46, art. 139; 2005, ch. 54, art. 19.
+
 
 
 
@@ -2719,35 +2769,60 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **143** 
 
-- **(1)** Les actionnaires habiles à voter lors d’une assemblée annuelle peuvent :
-	- **a)** donner à la banque un préavis des questions qu’ils se proposent de soulever;
-	- **b)** discuter, au cours de cette assemblée, des questions qui auraient pu faire l’objet de propositions de leur part.
+- **(1)** Sous réserve des paragraphes (1.1) et (1.2), le détenteur inscrit ou le véritable propriétaire d’actions qui confèrent le droit de vote à une assemblée annuelle peut :
+	- **a)** donner avis à la banque des questions qu’il se propose de soulever à l’assemblée, cet avis étant appelé « proposition » au présent article et à l’article 144;
+	- **b)** discuter, au cours de l’assemblée, de toute question qui aurait pu faire l’objet d’une proposition de sa part.
+
+**Soumission des propositions**
+
+- **(1.1)** Pour soumettre une proposition, une personne doit :
+	- **a)** soit avoir été, pendant au moins la durée réglementaire, le détenteur inscrit ou le véritable propriétaire d’au moins le nombre réglementaire d’actions en circulation de la banque;
+	- **b)** soit avoir l’appui de personnes qui, pendant au moins la durée réglementaire, collectivement et avec ou sans elle, ont été les détenteurs inscrits ou les véritables propriétaires d’au moins le nombre réglementaire d’actions en circulation de la banque.
+
+**Renseignements à fournir**
+
+- **(1.2)** La proposition est accompagnée des renseignements suivants :
+	- **a)** les nom et adresse de son auteur et des personnes qui l’appuient, s’il y a lieu;
+	- **b)** le nombre d’actions dont celui-ci et les personnes qui l’appuient, s’il y a lieu, sont les détenteurs inscrits ou les véritables propriétaires ainsi que leur date d’acquisition.
+
+**Renseignements non comptés**
+
+- **(1.3)** Les renseignements prévus au paragraphe (1.2) ne font pas partie de la proposition ni de l’exposé visé au paragraphe (3) et n’entrent pas dans le calcul du nombre maximal réglementaire de mots dont il est question à ce paragraphe.
+
+**Charge de la preuve**
+
+- **(1.4)** Sur demande de la banque, présentée dans le délai réglementaire, l’auteur de la proposition est tenu d’établir, dans le délai réglementaire, que les conditions prévues au paragraphe (1.1) sont remplies.
 
 **Circulaire de la direction**
 
 - **(2)** La banque qui sollicite des procurations doit faire figurer les propositions des actionnaires à soumettre à l’assemblée dans la circulaire de la direction exigée au paragraphe 156.05(1) ou les y annexer.
 
-**Déclaration à l’appui de propositions**
+**Déclaration à l’appui de la proposition**
 
-- **(3)** La banque doit, sur demande, incorporer ou annexer à la circulaire de la direction sollicitant des procurations une déclaration de deux cents mots au plus préparée par l’actionnaire à l’appui de sa proposition, avec ses nom et adresse.
+- **(3)** À la demande de l’auteur de la proposition, la banque doit faire figurer, dans la circulaire de la direction sollicitant des procurations ou en annexe, l’exposé établi par celui-ci à l’appui de sa proposition, ainsi que ses nom et adresse. L’exposé et la proposition, combinés, ne comportent pas plus de mots que le nombre maximal prévu par règlement.
 
 **Présentation de candidatures d’administrateurs**
 
-- **(4)** Les propositions peuvent faire état de candidatures en vue de l’élection des administrateurs si elles sont signées par un ou plusieurs actionnaires détenant au moins cinq pour cent des actions ou cinq pour cent d’une catégorie d’actions permettant de voter à l’assemblée à laquelle les propositions seront présentées.
+- **(4)** La proposition peut faire état de candidatures en vue de l’élection des administrateurs si elle est signée par une ou plusieurs personnes détenant — à titre de détenteurs inscrits ou de véritables propriétaires — au moins cinq pour cent des actions de la banque ou des actions d’une de ses catégories d’actions permettant de voter à l’assemblée à laquelle la proposition sera présentée.
 
 **Exemptions**
 
-- **(5)** La banque n’est pas tenue de se conformer aux paragraphes (2) et (3) dans l’un ou l’autre des cas suivants :
-	- **a)** la proposition ne lui a pas été soumise au moins quatre-vingt-dix jours avant l’expiration d’un délai d’un an à compter de la dernière assemblée annuelle;
-	- **b)** il apparaît nettement que la proposition a pour objet principal soit de faire valoir contre la banque, ou ses administrateurs, ses dirigeants ou les détenteurs de ses valeurs mobilières, une réclamation personnelle ou d’obtenir d’eux la réparation d’un grief personnel, soit de servir des fins générales d’ordre économique, politique, racial, religieux, social ou analogue;
-	- **c)** l’actionnaire ou son fondé de pouvoir n’a pas présenté, à une assemblée tenue dans les deux ans précédant la réception de sa demande, une proposition que, à sa requête, la banque avait fait figurer dans une circulaire de la direction sollicitant des procurations à l’occasion de cette assemblée;
-	- **d)** une proposition à peu près identique figurant dans une circulaire de la direction ou d’un dissident sollicitant des procurations, a été soumise aux actionnaires et rejetée dans les deux ans précédant la réception de la demande;
-	- **e)** les droits que confèrent les paragraphes (1) à (4) sont exercés abusivement aux fins de publicité.
+- **(5)** La banque n’est pas tenue de se conformer aux paragraphes (2) et (3) dans les cas suivants :
+	- **a)** la proposition ne lui a pas été soumise avant le délai réglementaire précédant l’expiration d’un délai d’un an à compter de la date de l’avis de convocation de la dernière assemblée annuelle qui a été envoyé aux actionnaires;
+	- **b)** il apparaît nettement que la proposition a pour objet principal de faire valoir contre la banque ou ses administrateurs, ses dirigeants ou les détenteurs de ses valeurs mobilières une réclamation personnelle ou d’obtenir d’eux la réparation d’un grief personnel;
+	- **b.1)** il apparaît nettement que la proposition n’est pas liée de façon importante à l’activité commerciale ou aux affaires internes de la banque;
+	- **c)** au cours du délai réglementaire précédant la réception de sa proposition par la banque, l’auteur de celle-ci ou son fondé de pouvoir a omis de présenter, à une assemblée, une proposition que la banque avait fait figurer, à sa demande, dans une circulaire de la direction ou en annexe d’une telle circulaire;
+	- **d)** une proposition à peu près identique figurant dans une circulaire de la direction ou d’un opposant sollicitant des procurations ou en annexe d’une telle circulaire a été présentée aux actionnaires à une assemblée tenue dans le délai réglementaire précédant la réception de la proposition et n’a pas reçu l’appui minimal prévu par les règlements;
+	- **e)** il y a abus à des fins publicitaires des droits que confèrent les paragraphes (1) à (4).
+
+**Refus de prendre en compte la proposition**
+
+- **(5.1)** Dans le cas où l’auteur de la proposition ne demeure pas le détenteur inscrit ou le véritable propriétaire des actions conformément à l’alinéa (1.1)a) ou, selon le cas, ne conserve pas le support de personnes qui sont collectivement les détenteurs inscrits ou les véritables propriétaires du nombre réglementaire d’actions conformément à l’alinéa (1.1)b), jusqu’à la fin de l’assemblée, la banque peut, pendant le délai réglementaire qui suit la tenue de l’assemblée, refuser de faire figurer dans une circulaire de la direction ou en annexe toute proposition soumise par l’auteur.
 
 **Immunité**
 
 - **(6)** La banque ou ses mandataires n’engagent pas leur responsabilité en diffusant une proposition ou une déclaration en exécution des paragraphes (2) et (3).
-> 1991, ch. 46, art. 143; 1997, ch. 15, art. 9.
+> 1991, ch. 46, art. 143; 1997, ch. 15, art. 9; 2005, ch. 54, art. 20.
 
 
 
@@ -2757,19 +2832,23 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **144** 
 
-- **(1)** La banque qui a l’intention de refuser de joindre une proposition à la circulaire de la direction sollicitant des procurations doit, dans les dix jours suivant la réception de la proposition, donner avis motivé du refus à son auteur.
+- **(1)** La banque qui a l’intention de refuser de faire figurer une proposition dans la circulaire de la direction sollicitant des procurations ou en annexe en donne un avis écrit et motivé à son auteur avant l’expiration du délai réglementaire qui suit, selon le cas :
+	- **a)** la réception par la banque de la proposition;
+	- **b)** la réception par la banque, le cas échéant, de la preuve exigée en vertu du paragraphe 143(1.4).
 
-**Demande de l’actionnaire**
+**Demande au tribunal**
 
-- **(2)** Sur demande de l’actionnaire qui prétend avoir subi un préjudice par suite du refus mentionné au paragraphe (1), le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée et notamment empêcher la tenue de l’assemblée à laquelle la proposition devait être présentée.
+- **(2)** Sur demande de l’auteur de la proposition qui prétend avoir subi un préjudice par suite du refus de la banque, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée et notamment empêcher la tenue de l’assemblée à laquelle la proposition devait être présentée.
 
 **Demande de la banque**
 
-- **(3)** La banque ou toute personne qui prétend qu’une proposition lui cause un préjudice peut demander au tribunal une ordonnance autorisant la banque à ne pas joindre la proposition à la circulaire de la direction sollicitant des procurations; le tribunal, s’il est convaincu que le paragraphe 143(5) s’applique, peut rendre en l’espèce la décision qu’il estime pertinente.
+- **(3)** La banque ou toute personne qui prétend qu’une proposition lui cause un préjudice peut demander au tribunal une ordonnance autorisant la banque à ne pas la faire figurer à la circulaire de la direction sollicitant des procurations ou en annexe; le tribunal, s’il est convaincu que le paragraphe 143(5) s’applique, peut rendre en l’espèce la décision qu’il estime pertinente.
 
 **Avis au surintendant**
 
 - **(4)** Dans les deux cas visés aux paragraphes (2) et (3), l’auteur de la demande doit en donner avis écrit au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
+> 1991, ch. 46, art. 144; 2005, ch. 54, art. 21.
+
 
 
 
@@ -2778,34 +2857,26 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **145** 
 
-- **(1)** La banque dresse la liste alphabétique — informatique ou autre — des actionnaires devant recevoir avis des assemblées aux termes de l’alinéa 138(1)a), avec mention du nombre d’actions qu’ils détiennent :
-	- **a)** dans les dix jours suivant la date de référence fixée en vertu du paragraphe 137(3);
-	- **b)** à défaut de fixation d’une date de référence :
-		- **(i)** à l’heure de fermeture des bureaux, la veille du jour où l’avis est donné,
-		- **(ii)** faute d’avis, à la date de l’assemblée.
+- **(1)** La banque dresse la liste alphabétique des actionnaires qui ont le droit de recevoir avis d’une assemblée en y mentionnant le nombre d’actions détenues par chacun :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)c), dans les dix jours suivant cette date;
+	- **b)** à défaut d’une telle fixation, à la date de référence prévue à l’alinéa 137(6)a).
 
-**Effet de la liste — fixation de la date de référence**
+**Liste des actionnaires habiles à voter**
 
-- **(2)** En cas de fixation de la date de référence, les personnes inscrites sur la liste alphabétique sont, sous réserve des autres dispositions de la présente loi, habiles à exercer les droits de vote dont sont assorties les actions figurant en regard de leur nom; cependant ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
-	- **a)** la cession est postérieure à la date de référence;
-	- **b)** le cessionnaire exige au moins dix jours avant l’assemblée ou dans le délai inférieur prévu par les règlements administratifs de la banque, l’inscription de son nom sur la liste et selon le cas :
-		- **(i)** produit les certificats d’actions régulièrement endossés,
-		- **(ii)** prouve son titre.
+- **(2)** La banque dresse la liste alphabétique des actionnaires habiles à voter à la date de référence en y mentionnant le nombre d’actions détenues par chacun :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant cette date;
+	- **b)** si la date de référence n’a pas été fixée en vertu de l’alinéa 137(5)d), dans les dix jours suivant la date de référence fixée en vertu de l’alinéa 137(5)c) ou au plus tard à celle prévue à l’alinéa 137(6)a), selon le cas.
 
-**Effet de la liste — absence de date**
+**Habilité à voter**
 
-- **(3)** À défaut de fixation de la date de référence, les personnes inscrites sur la liste alphabétique sont, sous réserve des autres dispositions de la présente loi, habiles à exercer les droits de vote dont sont assorties les actions figurant en regard de leur nom; cependant ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
-	- **a)** la cession est postérieure à la date à laquelle la liste a été dressée en application du sous-alinéa (1)b)(i);
-	- **b)** le cessionnaire exige au moins dix jours avant l’assemblée ou dans le délai inférieur prévu par les règlements administratifs de la banque, l’inscription de son nom sur la liste et selon le cas :
-		- **(i)** produit les certificats d’actions régulièrement endossés,
-		- **(ii)** prouve son titre.
+- **(3)** Sous réserve de l’article 156.09, les actionnaires dont le nom figure sur la liste dressée en vertu du paragraphe (2) sont habiles à exercer les droits de vote attachés aux actions figurant en regard de leur nom.
 
 **Examen de la liste**
 
-- **(4)** Les actionnaires peuvent consulter la liste :
+- **(4)** Les actionnaires peuvent prendre connaissance de la liste :
 	- **a)** au siège de la banque ou au lieu où est tenu son registre central des valeurs mobilières, pendant les heures normales d’ouverture;
 	- **b)** lors de l’assemblée pour laquelle elle a été dressée.
-> 1991, ch. 46, art. 145; 2001, ch. 9, art. 65.
+> 1991, ch. 46, art. 145; 2001, ch. 9, art. 65; 2005, ch. 54, art. 22.
 
 
 
@@ -2874,6 +2945,20 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 - **(2)** Les actionnaires ou les fondés de pouvoir peuvent demander un vote au scrutin secret avant ou après tout vote à main levée.
 
+**Vote par moyen de communication électronique**
+
+- **(3)** Malgré le paragraphe (1) et sauf disposition contraire des règlements administratifs, le vote mentionné à ce paragraphe peut être tenu entièrement par un moyen de communication téléphonique, électronique ou autre offert par la banque.
+
+**Vote en cas de participation par moyen de communication électronique**
+
+- **(4)** Sauf disposition contraire des règlements administratifs, toute personne participant à une assemblée des actionnaires de la manière prévue au paragraphe 136(2) et habile à y voter peut le faire par le moyen de communication téléphonique, électronique ou autre mis à sa disposition par la banque à cette fin.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements concernant la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée des actionnaires ainsi que les exigences à respecter dans le cadre du vote.
+> 1991, ch. 46, art. 151; 2005, ch. 54, art. 23.
+
+
 
 
 
@@ -2888,6 +2973,12 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Dépôt de la résolution**
 
 - **(2)** Un exemplaire des résolutions visées au paragraphe (1) doit être conservé avec les procès-verbaux des assemblées.
+
+**Preuve**
+
+- **(3)** Sauf si un vote par scrutin est demandé, l’inscription au procès-verbal de l’assemblée précisant que le président a déclaré une résolution adoptée ou rejetée fait foi, sauf preuve contraire, de ce fait, sans qu’il soit nécessaire de prouver le nombre ou la proportion des voix en faveur de cette résolution ou contre elle.
+> 1991, ch. 46, art. 152; 2005, ch. 54, art. 24.
+
 
 
 
@@ -2905,7 +2996,7 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Convocation de l’assemblée par les administrateurs**
 
 - **(3)** Dès réception de la requête, les administrateurs convoquent une assemblée pour délibérer des questions qui y sont énoncées, sauf dans l’un ou l’autre des cas suivants :
-	- **a)** l’avis d’une date de référence fixée en vertu du paragraphe 137(3) a été donné conformément au paragraphe 137(5);
+	- **a)** l’avis de la fixation d’une date de référence au titre de l’alinéa 137(5)c) a été donné conformément au paragraphe 137(7);
 	- **b)** ils ont déjà convoqué une assemblée et envoyé l’avis prévu à l’article 138;
 	- **c)** les questions énoncées dans la requête relèvent des cas visés aux alinéas 143(5)b) à e).
 
@@ -2920,6 +3011,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Remboursement**
 
 - **(6)** Sauf adoption par les actionnaires d’une résolution à l’effet contraire lors d’une assemblée convoquée conformément au paragraphe (4), la banque rembourse aux actionnaires les dépenses entraînées par la requête, la convocation et la tenue de l’assemblée.
+> 1991, ch. 46, art. 153; 2005, ch. 54, art. 25.
+
 
 
 
@@ -2928,7 +3021,7 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **154** 
 
-- **(1)** S’il l’estime à propos, notamment en cas d’impossibilité de convoquer régulièrement l’assemblée ou de la tenir selon les règlements administratifs et la présente loi, le tribunal peut, à la demande d’un administrateur ou d’un actionnaire habile à voter, ordonner la convocation et la tenue de l’assemblée en conformité avec ses instructions à cet effet.
+- **(1)** S’il l’estime à propos, notamment lorsque la convocation régulière d’une assemblée ou la tenue de celle-ci conformément aux règlements administratifs et à la présente loi est pratiquement impossible, le tribunal peut, par ordonnance, à la demande d’un administrateur, d’un actionnaire habile à voter ou du surintendant, prévoir la convocation ou la tenue d’une assemblée conformément à ses directives.
 
 **Modification du quorum**
 
@@ -2937,6 +3030,8 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 **Validité de l’assemblée**
 
 - **(3)** L’assemblée convoquée et tenue en application du présent article est, à toutes fins, régulière.
+> 1991, ch. 46, art. 154; 2005, ch. 54, art. 26.
+
 
 
 
@@ -2979,22 +3074,31 @@ Les signatures supplémentaires requises peuvent être reproduites mécaniquemen
 
 **156.01** Les définitions qui suivent s’appliquent au présent article et aux articles 156.02 à 156.08.
 
-***courtier agréé*** Courtier de valeurs mobilières tenu d’être enregistré pour faire le commerce des valeurs mobilières sous le régime de toute loi applicable.
+***courtier agréé***[Abrogée, 2005, ch. 54, art. 27]
 
- or ***sollicitation*** Sont assimilés à la sollicitation :
+***intermédiaire*** Personne détenant des valeurs mobilières pour le compte d’une autre qui n’en est pas le détenteur inscrit, notamment :
+- **a)** le courtier ou le négociant en valeurs mobilières tenu d’être enregistré pour faire le commerce des valeurs mobilières en vertu de toute loi applicable;
+- **b)** le dépositaire de valeurs mobilières;
+- **c)** toute institution financière;
+- **d)** en ce qui concerne une agence de compensation et de dépôt, le négociant en valeurs mobilières, la société de fiducie, l’association au sens de l’article 2 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la banque ou toute autre personne — notamment une autre agence de compensation ou de dépôt — au nom duquel ou de laquelle l’agence ou la personne qu’elle désigne détient les titres d’un émetteur;
+- **e)** le fiduciaire ou l’administrateur d’un régime enregistré d’épargne-retraite, d’un fonds de revenu de retraite ou d’un régime d’épargne-études autogérés, ou de tout autre régime d’épargne ou de placement autogéré comparable, enregistré en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+- **f)** toute personne désignée par la personne visée à l’un des alinéas a) à e);
+- **g)** toute personne qui exerce des fonctions comparables à celles exercées par la personne visée à l’un des alinéas a) à e) et qui détient une valeur mobilière nominative, à son nom ou à celui de la personne qu’elle désigne, pour le compte d’une autre personne qui n’est pas le détenteur inscrit de cette valeur mobilière. (*intermediary*)
+
+***sollicitation*** Sont assimilés à la sollicitation :
 - **a)** la demande de procuration assortie ou non d’un formulaire de procuration;
 - **b)** la demande de signature ou de non-signature du formulaire de procuration ou de révocation de procuration;
 - **c)** l’envoi d’un formulaire de procuration ou de toute communication aux actionnaires, concerté en vue de l’obtention, du refus ou de la révocation d’une procuration;
 - **d)** l’envoi d’un formulaire de procuration aux actionnaires conformément à l’article 156.04.
 
-Ne constituent pas une sollicitation :
+Ne constituent pas une sollicitation :
 - **e)** l’envoi d’un formulaire de procuration en réponse à la demande spontanément faite par un actionnaire ou pour son compte;
 - **f)** l’accomplissement d’actes d’administration ou de services professionnels pour le compte d’une personne sollicitant une procuration;
 - **g)** l’envoi par un courtier agréé des documents visés à l’article 156.07;
-- **h)** la sollicitation faite par une personne pour des actions dont elle est le véritable propriétaire.
+- **h)** la sollicitation faite par une personne pour des actions dont elle est le véritable propriétaire. (*solicit* or *solicitation*)
 
-***sollicitation effectuée par la direction d’une banque ou pour son compte*** Sollicitation faite par toute personne, à la suite d’une résolution ou d’instructions ou avec l’approbation du conseil d’administration ou d’un comité de celui-ci.
-> 1997, ch. 15, art. 10.
+***sollicitation effectuée par la direction d’une banque ou pour son compte*** Sollicitation faite par toute personne, à la suite d’une résolution ou d’instructions ou avec l’approbation du conseil d’administration ou d’un comité de celui-ci. (*solicitation by or on behalf of the management of a bank*)
+> 1997, ch. 15, art. 10; 2005, ch. 54, art. 27.
 
 
 
@@ -3052,8 +3156,8 @@ Ne constituent pas une sollicitation :
 
 **Exception**
 
-- **(2)** La direction de toute banque de moins de quinze actionnaires n’est pas tenue de leur envoyer le formulaire de procuration. Pour l’application du présent paragraphe, les codétenteurs d’une action sont comptés comme un seul actionnaire.
-> 1997, ch. 15, art. 10.
+- **(2)** La direction de la banque n’ayant pas fait appel au public et qui compte au plus cinquante actionnaires habiles à voter lors d’une assemblée, les codétenteurs d’une action étant comptés comme un seul actionnaire, n’est pas tenue d’envoyer le formulaire de procuration prévu au paragraphe (1).
+> 1997, ch. 15, art. 10; 2005, ch. 54, art. 28.
 
 
 
@@ -3099,51 +3203,60 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Vote à main levée**
 
-- **(3)** Lorsque le président d’une assemblée déclare qu’en cas de scrutin, le total des voix représentées par des fondés de pouvoir ayant instruction de voter contre la décision qui, à sa connaissance, sera prise par l’assemblée sur une question ou un groupe de questions sera inférieur à cinq pour cent des voix qui peuvent être exprimées au cours de ce scrutin, et sauf si un actionnaire ou un fondé de pouvoir exige la tenue d’un scrutin :
+- **(3)** Malgré les paragraphes (1) et (2), à moins qu’un actionnaire ou un fondé de pouvoir n’exige la tenue d’un scrutin, lorsque le président d’une assemblée déclare qu’en cas de scrutin, l’ensemble des voix exprimées par des fondés de pouvoir ayant reçu instruction de voter contre la solution qui, à sa connaissance, sera prise par l’assemblée sur une question ou un groupe de questions sera inférieur à cinq pour cent des voix qui peuvent être exprimées au cours de ce scrutin :
 	- **a)** le vote peut avoir lieu à main levée;
 	- **b)** les fondés de pouvoir et les suppléants peuvent y participer.
-> 1997, ch. 15, art. 10.
+> 1997, ch. 15, art. 10; 2005, ch. 54, art. 30.
 
 
 
 
 
-**Devoir du courtier agréé**
+**Devoir de l’intermédiaire**
 
 **156.07** 
 
-- **(1)** Le courtier agréé qui n’est pas le véritable propriétaire des actions inscrites à son nom, ou à celui d’une personne désignée par lui, ne peut exercer les droits de vote dont elles sont assorties que sur envoi au véritable propriétaire :
-	- **a)** d’un exemplaire de l’avis de l’assemblée, du rapport annuel, des circulaires de procuration émanant de la direction ou d’un opposant et de tous autres documents, à l’exception du formulaire de procuration, envoyés par toute personne ou pour son compte, aux actionnaires aux fins de l’assemblée;
+- **(1)** L’intermédiaire qui n’est pas le véritable propriétaire des actions inscrites à son nom ou à celui d’une personne désignée par lui ne peut exercer les droits de vote dont elles sont assorties que sur envoi au véritable propriétaire :
+	- **a)** d’un exemplaire de l’avis de l’assemblée, du rapport annuel, des circulaires de procuration émanant de la direction ou d’un opposant et de tous les autres documents, à l’exception du formulaire de procuration, envoyés par toute personne ou pour son compte, aux actionnaires en vue de l’assemblée;
 	- **b)** d’une demande écrite d’instructions de vote s’il n’en a pas déjà reçu du véritable propriétaire.
 
 **Moment où les documents doivent être envoyés**
 
-- **(2)** Le courtier agréé doit envoyer les documents visés au paragraphe (1) dans les meilleurs délais après avoir reçu ceux visés à l’alinéa (1)a).
+- **(2)** L’intermédiaire envoie sans délai les documents visés au paragraphe (1) après avoir reçu ceux visés à l’alinéa (1)a).
 
-**Conditions d’exercice du droit de vote**
+**Restrictions relatives au vote**
 
-- **(3)** Le courtier agréé qui n’est pas le véritable propriétaire des actions d’une banque inscrites à son nom, ou à celui d’une personne désignée par lui, ne peut exercer les droits de vote dont elles sont assorties, ni nommer un fondé de pouvoir, que s’il a reçu du véritable propriétaire des instructions relatives au vote.
+- **(3)** L’intermédiaire, ou le fondé de pouvoir qu’il nomme, qui n’est pas le véritable propriétaire des actions inscrites à son nom ou à celui de la personne qu’il désigne ne peut exercer les droits de vote dont elles sont assorties s’il n’a pas reçu du véritable propriétaire des instructions écrites relatives au vote.
 
 **Exemplaires**
 
-- **(4)** La personne qui fait ou fait faire une sollicitation doit sans délai et à ses propres frais fournir au courtier agréé, sur demande de celui-ci, le nombre nécessaire d’exemplaires des documents visés à l’alinéa (1)a).
+- **(4)** Le sollicitant ou la personne mandatée à cet effet fournit dans les meilleurs délais et à ses propres frais à l’intermédiaire, sur demande, le nombre nécessaire d’exemplaires des documents visés à l’alinéa (1)a).
 
-**Instructions au courtier agréé**
+**Instructions à l’intermédiaire**
 
-- **(5)** Les droits de vote doivent être exercés par le courtier agréé ou le fondé de pouvoir qu’il nomme à cette fin selon les instructions écrites du véritable propriétaire.
+- **(5)** Les droits de vote sont exercés par l’intermédiaire ou le fondé de pouvoir qu’il nomme à cette fin selon les instructions écrites du véritable propriétaire.
 
 **Véritable propriétaire nommé fondé de pouvoir**
 
-- **(6)** Sur demande du véritable propriétaire, le courtier agréé choisit comme fondé de pouvoir le propriétaire ou la personne qu’il désigne.
+- **(6)** Sur demande du véritable propriétaire accompagnée des documents appropriés, l’intermédiaire choisit ce dernier — ou la personne désignée par lui — à titre de fondé de pouvoir.
 
 **Validité**
 
-- **(7)** L’inobservation de l’un des paragraphes (1) à (6) par le courtier agréé n’annule ni l’assemblée ni les mesures prises lors de celle-ci.
+- **(7)** L’inobservation de l’un des paragraphes (1) à (6) par l’intermédiaire n’annule ni l’assemblée ni les mesures qui y sont prises.
 
 **Limitation**
 
-- **(8)** La présente partie ne confère nullement au courtier agréé les droits de vote qui lui sont par ailleurs refusés.
-> 1997, ch. 15, art. 10.
+- **(8)** La présente partie ne confère nullement à l’intermédiaire les droits de vote qui lui sont par ailleurs refusés.
+> 1997, ch. 15, art. 10; 2005, ch. 54, art. 31.
+
+
+
+
+
+**Exemption réglementaire**
+
+**156.071** Le gouverneur en conseil peut prendre des règlements concernant les conditions que doit remplir une banque afin d’être soustraite à l’application de toute exigence énoncée aux articles 156.02 à 156.07.
+> 2005, ch. 54, art. 31.
 
 
 
@@ -3400,6 +3513,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Élection à l’assemblée annuelle**
 
 - **(2)** Le règlement administratif pris conformément au paragraphe (1) et déterminant le nombre minimal et maximal d’administrateurs peut prévoir que le nombre d’administrateurs à élire à l’assemblée annuelle est fixé au préalable par les administrateurs.
+
+
+
+
+**Consentement à l’élection ou à la nomination**
+
+**165.1** L’élection ou la nomination d’une personne au poste d’administrateur n’a d’effet qu’aux conditions suivantes :
+- **a)** si la personne est présente à l’assemblée qui l’élit ou la nomme, elle ne refuse pas d’occuper ce poste;
+- **b)** si elle est absente, soit elle a donné par écrit son consentement à occuper ce poste avant son élection ou sa nomination ou dans les dix jours suivant l’assemblée, soit elle remplit les fonctions de ce poste après son élection ou sa nomination.
+> 2005, ch. 54, art. 32.
+
 
 
 
@@ -3735,7 +3859,9 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Présence continue**
 
-- **(3)** L’administrateur qui s’absente temporairement d’une réunion du conseil en conformité avec le paragraphe 203(1) est réputé être présent pour l’application du présent article.
+- **(3)** L’administrateur qui s’absente temporairement d’une réunion du conseil d’administration ou d’un de ses comités en conformité avec le paragraphe 203(1) est réputé être présent pour l’application du présent article.
+> 1991, ch. 46, art. 182; 2005, ch. 54, art. 36.
+
 
 
 
@@ -3808,7 +3934,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Dépôt de la résolution**
 
 - **(4)** Un exemplaire des résolutions visées au paragraphe (3) doit être conservé avec les procès-verbaux des réunions du comité du conseil d’administration.
-> 1997, ch. 15, art. 20.
+
+**Preuve**
+
+- **(5)** Sauf si un vote par scrutin est demandé, l’inscription au procès-verbal de la réunion précisant que le président a déclaré une résolution adoptée ou rejetée fait foi, sauf preuve contraire, de ce fait, sans qu’il soit nécessaire de prouver le nombre ou la proportion des voix en faveur de cette résolution ou contre elle.
+> 1997, ch. 15, art. 20; 2005, ch. 54, art. 37.
 
 
 
@@ -4065,15 +4195,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **198** Les administrateurs ne peuvent déléguer aucun des pouvoirs suivants :
 - **a)** soumettre à l’examen des actionnaires des questions qui requièrent l’approbation de ces derniers;
-- **b)** combler les vacances survenues au sein du conseil d’administration ou d’un de ses comités, ni pourvoir le ou les postes de vérificateur;
-- **c)** émettre ou faire émettre des valeurs mobilières sauf selon les modalités qu’ils autorisent;
+- **b)** combler les vacances au sein du conseil d’administration ou d’un de ses comités, pourvoir le ou les postes vacants de vérificateur ou nommer des administrateurs supplémentaires;
+- **c)** émettre ou faire émettre des valeurs mobilières, notamment des actions d’une série visée à l’article 62, sauf en conformité avec l’autorisation des administrateurs;
 - **d)** déclarer des dividendes;
 - **e)** autoriser l’acquisition par la banque en vertu de l’article 71, notamment par rachat, des actions émises par elle;
 - **f)** autoriser le versement d’une commission sur une émission d’actions;
 - **g)** approuver les circulaires de la direction sollicitant des procurations;
 - **h)** sauf disposition contraire de la présente loi, approuver le rapport annuel ou les autres états financiers de la banque;
 - **i)** prendre, modifier ou révoquer des règlements administratifs.
-> 1991, ch. 46, art. 198; 1997, ch. 15, art. 25.
+> 1991, ch. 46, art. 198; 1997, ch. 15, art. 25; 2005, ch. 54, art. 38.
 
 
 
@@ -4118,46 +4248,47 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Divulgation des intérêts**
+**Communication des intérêts**
 
 **202** 
 
-- **(1)** Doit faire connaître par écrit à la banque la nature et l’étendue de son intérêt, ou demander qu’elles soient consignées au procès-verbal de la réunion du conseil en cause, l’administrateur ou le dirigeant qui :
-	- **a)** soit est partie à un contrat ou projet de contrat importants avec la banque;
-	- **b)** soit est également administrateur ou dirigeant d’une entité partie à un tel contrat ou projet;
-	- **c)** soit possède un intérêt important dans une partie à un contrat ou projet de contrat importants avec la banque.
+- **(1)** L’administrateur ou le dirigeant communique par écrit à la banque ou demande que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans tout contrat ou opération d’importance avec elle, en cours ou projeté, dans l’un ou l’autre des cas suivants :
+	- **a)** il est partie à ce contrat ou à cette opération;
+	- **b)** il est l’administrateur ou le dirigeant — ou une personne qui agit en cette qualité — d’une partie à un tel contrat ou à une telle opération;
+	- **c)** il possède un intérêt important dans une partie à un tel contrat ou à une telle opération.
 
-**Moment de la divulgation**
+**Moment de la communication : administrateur**
 
-- **(2)** La divulgation requise au paragraphe (1) se fait, dans le cas d’un administrateur, lors de la première réunion des administrateurs :
-	- **a)** au cours de laquelle le projet de contrat est étudié;
-	- **b)** suivant le moment où l’administrateur qui n’avait aucun intérêt dans le projet de contrat en acquiert un;
-	- **c)** suivant le moment où l’administrateur acquiert un intérêt dans un contrat déjà conclu;
-	- **d)** suivant le moment où devient administrateur de la banque toute personne ayant un intérêt dans un contrat.
+- **(2)** L’administrateur effectue la communication lors de la première réunion du conseil d’administration ou d’un de ses comités :
+	- **a)** au cours de laquelle le projet de contrat ou d’opération est étudié;
+	- **b)** qui suit le moment où il acquiert un intérêt dans le projet de contrat ou d’opération, s’il n’en avait pas lors de la réunion visée à l’alinéa a);
+	- **c)** qui suit le moment où il acquiert un intérêt dans un contrat déjà conclu ou une opération déjà effectuée;
+	- **d)** qui suit le moment où il devient administrateur, s’il le devient après l’acquisition de l’intérêt.
 
-**Idem**
+**Moment de la communication : dirigeant**
 
-- **(3)** Le dirigeant qui n’est pas administrateur doit procéder à la divulgation immédiatement après :
-	- **a)** avoir appris que le contrat ou le projet a été ou sera examiné lors d’une réunion du conseil;
-	- **b)** avoir acquis l’intérêt, s’il l’acquiert après la conclusion du contrat;
-	- **c)** être devenu dirigeant, s’il le devient après l’acquisition de l’intérêt.
+- **(3)** Le dirigeant qui n’est pas administrateur effectue la communication immédiatement après qu’un des événements suivants se produit :
+	- **a)** il apprend que le contrat ou l’opération, en cours ou projeté, a été ou sera examiné lors d’une réunion du conseil d’administration ou d’un de ses comités;
+	- **b)** il acquiert un intérêt dans un contrat déjà conclu ou une opération déjà effectuée;
+	- **c)** il devient dirigeant après avoir acquis l’intérêt.
 
-**Idem**
+**Moment de la communication**
 
-- **(4)** L’administrateur ou le dirigeant visé au paragraphe (1) doit faire savoir par écrit à la banque la nature et l’étendue de son intérêt, ou demander qu’elles soient consignées au procès-verbal de la réunion de conseil en cause, dès qu’il a connaissance d’un contrat ou projet de contrat importants qui, dans le cours normal de l’activité commerciale de la banque, ne requiert l’approbation ni des administrateurs, ni des actionnaires.
+- **(4)** L’administrateur ou le dirigeant doit, dès qu’il a connaissance d’un contrat ou d’une opération d’importance, en cours ou projeté, qui, dans le cadre de l’activité commerciale normale de la banque, ne requiert l’approbation ni des administrateurs ni des actionnaires, communiquer par écrit à la banque ou demander que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans le contrat ou l’opération.
+> 1991, ch. 46, art. 202; 2005, ch. 54, art. 39.
 
 
 
 
-**Abstention**
+
+**Vote**
 
 **203** 
 
-- **(1)** L’administrateur visé au paragraphe 202(1) doit s’absenter de la réunion pendant que le contrat est étudié et ne peut participer au vote sur la résolution présentée pour le faire approuver, sauf s’il s’agit d’un contrat :
-	- **a)** garantissant un emprunt ou des obligations qu’il a contractés pour le compte de la banque ou d’une filiale de celle-ci;
-	- **b)** portant essentiellement sur sa rémunération en qualité d’administrateur, de dirigeant, d’employé ou de mandataire de la banque ou d’une filiale de celle-ci ou d’une entité contrôlée par la banque ou dans laquelle elle détient un intérêt de groupe financier;
-	- **c)** portant sur l’indemnité prévue à l’article 212 ou sur l’assurance prévue à l’article 213;
-	- **d)** conclu avec une entité du groupe de la banque.
+- **(1)** L’administrateur visé au paragraphe 202(1) s’absente de la réunion du conseil d’administration ou d’un de ses comités pendant que le contrat ou l’opération est étudié et s’abstient de voter sur la résolution présentée pour les faire approuver, sauf s’il s’agit d’un contrat ou d’une opération :
+	- **a)** portant essentiellement sur sa rémunération en qualité d’administrateur, de dirigeant, d’employé ou de mandataire de la banque ou d’une entité contrôlée par la banque ou dans laquelle elle détient un intérêt de groupe financier;
+	- **b)** portant sur l’indemnité prévue à l’article 212 ou l’assurance prévue à l’article 213;
+	- **c)** conclu avec une entité du groupe de la banque.
 
 **Inéligibilité**
 
@@ -4166,31 +4297,53 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Validité des actes de la banque**
 
 - **(3)** Les actes du conseil d’administration de la banque ou d’un comité de celui-ci ne sont pas nuls au seul motif que l’une des personnes agissant à titre d’administrateur a cessé, aux termes du paragraphe (2), d’occuper son poste.
-> 1991, ch. 46, art. 203; 1997, ch. 15, art. 26.
+> 1991, ch. 46, art. 203; 1997, ch. 15, art. 26; 2005, ch. 54, art. 40.
 
 
 
 
 
-**Déclaration suffisante d’intérêt**
+**Avis général d’intérêt**
 
-**204** Pour l’application du paragraphe 202(1), quiconque donne au conseil un avis général lui faisant savoir qu’il est administrateur ou dirigeant d’une entité ou possède un intérêt important dans une personne, et doit être considéré comme ayant un intérêt dans tout contrat conclu avec cette entité ou personne, s’acquitte de son obligation de déclaration d’intérêt.
-> 1991, ch. 46, art. 204; 2001, ch. 9, art. 77.1(F).
+**204** 
 
+- **(1)** Pour l’application du paragraphe 202(1), constitue une communication suffisante de son intérêt dans un contrat ou une opération l’avis général que donne l’administrateur ou le dirigeant d’une banque aux autres administrateurs et portant qu’il est administrateur ou dirigeant — ou qu’il agit en cette qualité — d’une partie visée aux alinéas 202(1)b) ou c), qu’il y possède un intérêt important ou qu’il y a eu un changement important de son intérêt dans celle-ci et qu’il doit être considéré comme ayant un intérêt dans tout contrat conclu avec elle ou opération effectuée avec elle.
 
+**Consultation**
 
-
-
-**Normes relatives à la nullité**
-
-**205** Un contrat important entre la banque et, soit un de ses administrateurs ou dirigeants, soit une autre entité dont est également administrateur ou dirigeant un de ses administrateurs ou dirigeants ou entre la banque et une personne dans laquelle un de ses administrateurs ou dirigeants a un intérêt important, n’est pas entaché de nullité pour ce seul motif ou au motif que l’un de ces administrateurs est présent ou permet d’atteindre le quorum à la réunion du conseil d’administration ou du comité qui a autorisé le contrat, si, d’une part, l’administrateur ou le dirigeant a déclaré l’intérêt en question conformément aux paragraphes 202(2) à (4) ou à l’article 204 et, d’autre part, le contrat a été approuvé par les administrateurs ou les actionnaires de la banque et il était alors équitable pour celle-ci.
+- **(2)** Les actionnaires de la banque peuvent consulter, pendant les heures normales d’ouverture de celle-ci, toute partie des procès-verbaux des réunions du conseil d’administration ou de ses comités ou de tout autre document dans lequel les intérêts d’un administrateur ou d’un dirigeant dans un contrat ou une opération sont communiqués en vertu du paragraphe 202(1).
+> 1991, ch. 46, art. 204; 2001, ch. 9, art. 77.1(F); 2005, ch. 54, art. 41.
 
 
 
 
-**Demande au tribunal**
 
-**206** En cas de manquement aux articles 202 et 204, le tribunal peut, à la demande de la banque ou d’un actionnaire, annuler le contrat selon les modalités qu’il estime indiquées.
+**Effet de la communication**
+
+**205** 
+
+- **(1)** Le contrat ou l’opération assujetti à l’obligation de communication prévue au paragraphe 202(1) n’est pas entaché de nullité, et l’administrateur ou le dirigeant n’est pas tenu de rendre compte à la banque ou ses actionnaires des bénéfices qu’il en a tirés, pour la seule raison qu’il a un intérêt dans le contrat ou l’opération ou que l’administrateur était présent à la réunion au cours de laquelle le contrat ou l’opération a été étudié ou que sa présence a permis d’en atteindre le quorum, si les conditions suivantes sont réunies :
+	- **a)** l’administrateur ou le dirigeant a communiqué son intérêt conformément à l’article 202 et au paragraphe 204(1);
+	- **b)** les administrateurs de la banque ont approuvé le contrat ou l’opération;
+	- **c)** au moment de son approbation, le contrat ou l’opération était équitable pour la banque.
+
+**Confirmation par les actionnaires**
+
+- **(2)** Même si les conditions visées au paragraphe (1) ne sont pas réunies, le contrat ou l’opération n’est pas entaché de nullité, et l’administrateur ou le dirigeant qui agit avec intégrité et bonne foi n’est pas tenu de rendre compte à la banque ou ses actionnaires des bénéfices qu’il en a tirés, au seul motif qu’il a un intérêt dans le contrat ou l’opération, si les conditions suivantes sont réunies :
+	- **a)** le contrat ou l’opération a été approuvé ou confirmé par résolution extraordinaire adoptée à une assemblée des actionnaires;
+	- **b)** l’intérêt a été communiqué aux actionnaires de façon suffisamment claire pour en indiquer la nature et l’étendue avant l’approbation ou la confirmation du contrat ou de l’opération;
+	- **c)** au moment de son approbation ou de sa confirmation, le contrat ou l’opération était équitable pour la banque.
+> 1991, ch. 46, art. 205; 2005, ch. 54, art. 41.
+
+
+
+
+
+**Ordonnance du tribunal**
+
+**206** Le tribunal peut par ordonnance, sur demande de la banque — ou d’un actionnaire de celle-ci — dont l’un des administrateurs ou dirigeants ne se conforme pas aux articles 202 à 205, annuler le contrat ou l’opération selon les modalités qu’il estime indiquées et enjoindre à l’administrateur ou au dirigeant de rendre compte à la banque de tout bénéfice qu’il en a tiré.
+> 1991, ch. 46, art. 206; 2005, ch. 54, art. 41.
+
 
 
 
@@ -4889,7 +5042,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Consultation**
 
-- **(5)** Les actionnaires et les créanciers, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 238(1) pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public au sens du paragraphe 265(1), cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+- **(5)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 238(1) pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
 
 **Accès par voie électronique**
 
@@ -4898,7 +5051,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Exemplaires**
 
 - **(6)** Les actionnaires peuvent sur demande et sans frais, une fois par année civile, obtenir un exemplaire des règlements administratifs de la banque.
-> 1991, ch. 46, art. 239; 2001, ch. 9, art. 88.
+> 1991, ch. 46, art. 239; 2001, ch. 9, art. 88; 2005, ch. 54, art. 50.
 
 
 
@@ -4920,7 +5073,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Liste des actionnaires**
 
-- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent obtenir la liste principale des actionnaires; toutefois, lorsque la banque fait appel au public au sens du paragraphe 265(1), toute personne peut obtenir la liste.
+- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels — et toute autre personne dans le cas d’une banque ayant fait appel au public — peuvent obtenir la liste principale des actionnaires.
 
 **Liste principale**
 
@@ -4938,6 +5091,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **(6)** La banque ou son mandataire remet les listes supplétives :
 	- **a)** dans les dix jours suivant la remise de la liste principale, si les modifications sont antérieures à la date de la remise;
 	- **b)** sinon, dans les dix jours suivant la date indiquée dans la dernière liste supplétive.
+> 1991, ch. 46, art. 240; 2005, ch. 54, art. 51.
+
 
 
 
@@ -5072,10 +5227,31 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(2)** Pour l’application du paragraphe (1), sont assimilés au registre central des valeurs mobilières les registres similaires que devaient légalement tenir les banques qui existaient à la date d’entrée en vigueur du paragraphe (1) et les personnes morales prorogées, ou fusionnées et prorogées, comme banques sous le régime de la présente loi avant leur prorogation ou fusion ou l’entrée en vigueur du paragraphe (1), selon le cas.
 
-**Application de certaines dispositions**
+**Consultation**
 
-- **(3)** Les paragraphes 239(5) et (5.1) et les articles 240 et 242 à 245 s’appliquent, avec les adaptations nécessaires, au registre central des valeurs mobilières.
-> 1991, ch. 46, art. 248; 2001, ch. 9, art. 90.
+- **(3)** Les actionnaires et les créanciers de la banque, ainsi que leurs représentants personnels, peuvent consulter le registre des valeurs mobilières pendant les heures normales d’ouverture des bureaux de la banque et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une banque ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+
+**Accès par voie électronique**
+
+- **(4)** L’accès aux renseignements figurant dans le registre des valeurs mobilières peut être donné à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de produire, dans un délai raisonnable, les renseignements demandés sous une forme écrite compréhensible.
+
+**Déclaration**
+
+- **(5)** La personne désireuse de consulter le registre des valeurs mobilières et d’en reproduire ou d’en obtenir des extraits transmet à la banque une déclaration sous serment énonçant :
+	- **a)** ses nom et adresse;
+	- **b)** l’engagement d’utiliser les renseignements figurant au registre des valeurs mobilières conformément au cadre relatif à la liste des actionnaires qui est décrit à l’article 242;
+	- **c)** si la demande émane d’une entité, ses nom et adresse aux fins de signification ainsi que la déclaration sous serment d’un de ses administrateurs ou dirigeants ou d’une personne qui agit en une qualité similaire selon laquelle elle souscrit à l’engagement prévu à l’alinéa b).
+
+**Renseignements supplémentaires**
+
+- **(6)** La personne désireuse de consulter le registre des valeurs mobilières et d’en reproduire ou d’en obtenir des extraits qui affirme dans la déclaration sous serment avoir aussi besoin des renseignements supplémentaires indiquant les modifications apportées au registre des valeurs mobilières peut, sur paiement d’un droit raisonnable, en demander la remise à la banque ou à son mandataire.
+
+**Remise**
+
+- **(7)** La banque ou son mandataire remet les renseignements supplémentaires :
+	- **a)** dans les dix jours suivant le jour où la personne a consulté le registre des valeurs mobilières, si les modifications sont antérieures à ce jour;
+	- **b)** sinon, dans les dix jours suivant la date des derniers renseignements supplémentaires.
+> 1991, ch. 46, art. 248; 2001, ch. 9, art. 90; 2005, ch. 54, art. 53.
 
 
 
@@ -5151,7 +5327,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Sceau**
 
-**256** L’absence du sceau de la banque sur tout document signé en son nom par l’un de ses administrateurs, dirigeants ou mandataires ne le rend pas nul.
+**256** 
+
+- **(1)** La banque peut adopter un sceau et le modifier par la suite.
+
+**Absence de sceau**
+
+- **(2)** L’absence du sceau de la banque sur tout document signé en son nom ne le rend pas nul.
+> 1991, ch. 46, art. 256; 2005, ch. 54, art. 54.
+
 
 
 
@@ -5174,7 +5358,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **a)** la valeur mobilière immédiatement convertible en une telle action;
 - **b)** les options et droits susceptibles d’exercice immédiat permettant d’acquérir une telle action ou la valeur mobilière visée à l’alinéa a).
 
-***banque ayant fait appel au public*** Banque dont les titres émis et en circulation font ou ont fait partie d’une souscription publique et sont détenus par plusieurs personnes.
+***banque ayant fait appel au public***[Abrogée, 2005, ch. 54, art. 55]
 
 ***dirigeant d’une banque*** Selon le cas :
 - **a)** la personne désignée à ce titre par règlement administratif ou résolution du conseil d’administration de la banque, notamment le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier;
@@ -5182,33 +5366,21 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 ***groupe*** Sont du même groupe les personnes morales qui le sont au sens du paragraphe 6(2).
 
-***initié*** Sauf aux paragraphes 271(2) et 272(1) :
-- **a)** tout administrateur ou dirigeant d’une banque ayant fait appel au public;
-- **b)** la banque ayant fait appel au public qui achète ou autrement acquiert, sauf par don ou rachat, les actions émises par elle-même ou par les personnes morales de son groupe;
-- **c)** le véritable propriétaire de plus de dix pour cent des actions d’une banque ayant fait appel au public ou la personne qui exerce le contrôle ou a la haute main sur plus de dix pour cent des votes dont sont assorties les actions d’une telle banque, à l’exclusion des actions appartenant à un souscripteur à forfait régies par un contrat de souscription et faisant partie d’une souscription publique en cours.
+***initié***[Abrogée, 2005, ch. 54, art. 55]
 
 ***option d’achat*** Option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des actions de la personne morale qui l’accorde.
 
 ***option de vente*** Option négociable par tradition ou transfert qui permet de livrer un nombre précis d’actions à un prix et dans un délai déterminés.
 
-***regroupement d’entreprises*** Résultat de l’acquisition de la totalité ou quasi-totalité des éléments d’actif d’une personne morale par une autre ou d’une fusion de personnes morales.
+***regroupement d’entreprises*** Acquisition de la totalité ou de la quasi-totalité des éléments d’actif d’une personne morale par une autre ou fusion de personnes morales ou réorganisation semblable mettant en cause de telles personnes.
 
 **Contrôle**
 
 - **(2)** Pour l’application du présent article et des articles 266 à 272, une personne contrôle une personne morale si elle la contrôle au sens de l’article 3, abstraction faite de l’alinéa 3(1)d).
 
-**Présomption relative aux initiés et aux véritables propriétaires**
+- **(3) et (4)** [Abrogés, 2005, ch. 54, art. 55]
+> 1991, ch. 46, art. 265; 2005, ch. 54, art. 55.
 
-- **(3)** Pour l’application du présent article et des articles 266 à 272 :
-	- **a)** est réputé être initié d’une banque ayant fait appel au public tout administrateur ou dirigeant d’une personne morale initiée de cette banque;
-	- **b)** tout administrateur ou dirigeant de la filiale d’une banque qui a fait appel au public est réputé être initié de cette dernière;
-	- **c)** une personne est réputée être le véritable propriétaire des actions dont la personne morale qu’elle contrôle, même indirectement, a la propriété effective;
-	- **d)** une personne morale est réputée être le véritable propriétaire des actions dont les membres de son groupe ont la propriété effective;
-	- **e)** l’acquisition ou l’aliénation par un initié de l’option ou du droit d’acquérir des actions est réputée modifier la propriété effective de celles-ci.
-
-**Présomption**
-
-- **(4)** Pour l’application du présent article et des articles 266 à 272, lorsqu’une personne morale devient initiée d’une banque ayant fait appel au public ou entre dans un regroupement d’entreprises avec une telle banque ou lorsqu’une banque ayant fait appel au public devient initiée d’une personne morale, les administrateurs et dirigeants de la personne morale ainsi que ses actionnaires — si ces derniers sont visés à l’alinéa c) de la définition de « initié » au paragraphe (1) — sont réputés avoir été initiés de la banque ayant fait appel au public depuis les six mois précédant l’opération ou si la période est plus courte, depuis le moment où ils sont devenus administrateurs, dirigeants ou actionnaires de la personne morale.
 
 
 
@@ -5219,69 +5391,38 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Rapport d’initié**
 
-**266** 
+**266** Un initié doit présenter un rapport d’initié conformément aux règlements.
+> 1991, ch. 46, art. 266; 1997, ch. 15, art. 31; 2005, ch. 54, art. 56.
 
-- **(1)** L’initié doit envoyer au surintendant, en la forme réglementaire, un rapport d’initié soit dans les dix jours suivant la fin du mois où il l’est devenu, soit, si cette date est postérieure, dans les dix jours suivant la fin du mois où entrent en vigueur les règlements prévoyant la forme du rapport des initiés.
-
-- **(2)** [Abrogé, 1997, ch. 15, art. 31]
-
-**Rapport suite à une prorogation**
-
-- **(3)** Dans les dix jours de la fin soit du mois où a eu lieu la prorogation d’une personne morale sous le régime de la présente loi, soit, si cette date est postérieure, du mois où entrent en vigueur les règlements prévoyant la forme du rapport des initiés, les initiés de cette personne morale à la date de la prorogation doivent envoyer au surintendant un rapport en la forme réglementaire, si la banque a fait appel au public.
-
-**Présomption**
-
-- **(4)** La personne réputée avoir eu la qualité d’initié au sens du paragraphe 265(4) doit, dans les dix jours suivant la fin soit du mois où elle est réputée l’avoir acquise, soit, si cette date est postérieure, du mois où entrent en vigueur les règlements prévoyant la forme du rapport des initiés, envoyer au surintendant, en la forme réglementaire, les rapports exigés aux termes du présent article, pour la période où elle est réputée avoir été un initié.
-> 1991, ch. 46, art. 266; 1997, ch. 15, art. 31.
-
-
-
-
-
-**Rapports subséquents**
-
-**267** Dans les dix jours suivant la fin du mois où intervient toute modification de leurs intérêts dans les valeurs mobilières d’une banque ayant fait appel au public les initiés envoient au surintendant un rapport en la forme réglementaire.
-
-
-
-
-**Exemption réglementaire**
-
-**267.1** L’initié qui se trouve dans les circonstances prévues par règlement peut être exempté des exigences prévues aux articles 266 ou 267.
-> 1997, ch. 15, art. 32.
-
-
-
-
-
-**Rapport unique**
-
-**268** 
-
-- **(1)** Le rapport d’initié mentionnant les valeurs mobilières dont une personne est censée être le véritable propriétaire est réputé constituer également le rapport exigé de toute personne morale visée à l’alinéa 265(3)c).
-
-**Présomption**
-
-- **(2)** Le rapport d’initié mentionnant les valeurs mobilières dont une personne morale est censée être le véritable propriétaire est réputé constituer également le rapport exigé de toutes les personnes morales du même groupe visées à l’alinéa 265(3)d).
-
-**Contenu**
-
-- **(3)** Le rapport mentionnant les actions dont un initié est réputé être le véritable propriétaire en vertu des alinéas 265(3)c) ou d) indique séparément :
-	- **a)** le nombre de valeurs mobilières dont une personne morale est propriétaire;
-	- **b)** le nom de la personne morale.
 
 
 
 
 **Ordonnance de dispense**
 
-**269** 
+**267** À la demande d’un initié, le surintendant peut, par écrit et aux conditions qu’il juge utiles, le dispenser, même rétroactivement, de toute exigence visée à l’article 266. Il fait alors publier dans un périodique accessible au public les modalités et raisons de la dispense.
+> 1991, ch. 46, art. 267; 2005, ch. 54, art. 56.
 
-- **(1)** Sur demande présentée par un initié ou pour son compte, le surintendant peut, par écrit et selon les modalités qu’il juge utiles, le dispenser, même rétroactivement, des exigences énoncées aux articles 266 à 268.
 
-**Publicité**
 
-- **(2)** Le surintendant résume dans un périodique accessible au public les renseignements contenus dans les rapports visés aux articles 266 à 268, ainsi que les modalités et raisons des dispenses prévues au paragraphe (1).
+
+**267.1** [Abrogé, 2005, ch. 54, art. 56]
+
+
+
+
+**Règlements**
+
+**268** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application des articles 266 et 267, notamment :
+- **a)** définir le terme ***initié*** pour l’application des articles 266 et 267;
+- **b)** fixer le contenu et la forme des rapports d’initié;
+- **c)** établir les règles à suivre concernant la présentation des rapports d’initié et la publicité dont ils font l’objet.
+> 1991, ch. 46, art. 268; 2005, ch. 54, art. 56.
+
+
+
+
+**269** [Abrogé, 2005, ch. 54, art. 56]
 
 
 
@@ -5290,21 +5431,31 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Interdiction de vente à découvert**
+**Définition de initié**
 
 **270** 
 
-- **(1)** Il est interdit aux initiés de vendre sciemment, même indirectement, les actions d’une banque ayant fait appel au public ou de l’une des personnes morales de son groupe, dont ils ne sont pas les propriétaires ou qu’ils n’ont pas entièrement libérées.
+- **(1)** Au présent article, ***initié*** désigne, relativement à une banque ayant fait appel au public, l’une des personnes suivantes :
+	- **a)** tout administrateur ou dirigeant de celle-ci;
+	- **b)** tout administrateur ou dirigeant d’une filiale de celle-ci;
+	- **c)** tout administrateur ou dirigeant d’une personne morale qui participe à un regroupement d’entreprises avec celle-ci;
+	- **d)** toute personne à son emploi ou dont elle retient les services.
+
+**Interdiction de vente à découvert**
+
+- **(2)** Les initiés ne peuvent sciemment vendre, même indirectement, les valeurs mobilières d’une banque ayant fait appel au public ou d’une personne morale de son groupe, dont ils ne sont pas propriétaires ou qu’ils n’ont pas entièrement libérées.
 
 **Exception**
 
-- **(2)** Par dérogation au paragraphe (1), les initiés peuvent vendre des actions dont ils ne sont pas les propriétaires dans le cas où ils sont propriétaires soit d’actions convertibles en de telles actions, soit d’options ou de droits d’en acquérir, à condition que, dans les dix jours de la vente :
-	- **a)** ou bien ils exercent leur privilège de conversion, leur option ou leur droit et livrent les actions à l’acheteur;
-	- **b)** ou bien ils transfèrent à l’acheteur leurs actions convertibles, leurs options ou leurs droits.
+- **(3)** Par dérogation au paragraphe (2), les initiés peuvent vendre les valeurs mobilières dont ils ne sont pas propriétaires qui résultent de la conversion de valeurs mobilières dont ils sont propriétaires ou vendre celles dont ils ne sont pas propriétaires qu’ils ont l’option ou le droit d’acquérir, si, dans les dix jours suivant la vente :
+	- **a)** soit ils exercent leur privilège de conversion, leur option ou leur droit et livrent les valeurs mobilières à l’acheteur;
+	- **b)** soit ils transfèrent à l’acheteur leurs valeurs mobilières convertibles, leur option ou leur droit.
 
-**Interdiction d’achat ou de vente d’options**
+**Options d’achat ou de vente**
 
-- **(3)** Il est interdit aux initiés, même indirectement, d’acheter ou de vendre des options d’achat ou de vente portant sur les actions de la banque ou des personnes morales de son groupe.
+- **(4)** Les initiés ne peuvent sciemment, même indirectement, acheter ou vendre des options d’achat ou de vente portant sur les valeurs mobilières de la banque ou des personnes morales de son groupe.
+> 1991, ch. 46, art. 270; 2005, ch. 54, art. 57.
+
 
 
 
@@ -5313,38 +5464,97 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Définition de « initié »**
+**Définition de initié**
 
 **271** 
 
-- **(1)** Pour l’application des paragraphes (2) et 272(1), « initié », par rapport à une banque, s’entend :
-	- **a)** de la banque;
-	- **b)** des membres de son groupe;
-	- **c)** de ses administrateurs ou dirigeants;
-	- **d)** du véritable propriétaire de plus de dix pour cent de ses actions ou de la personne qui exerce le contrôle ou a la haute main sur plus de dix pour cent des votes dont sont assorties ces actions;
-	- **e)** de toute personne qu’elle emploie ou dont elle retient les services;
-	- **f)** de toute personne qui reçoit des renseignements confidentiels précis d’une personne visée au présent article, y compris au présent alinéa, en sachant qu’ils sont donnés par une telle personne.
+- **(1)** Au présent article et aux articles 271.1 et 272, ***initié*** désigne, relativement à une banque, les personnes suivantes :
+	- **a)** la banque elle-même;
+	- **b)** les personnes morales de son groupe;
+	- **c)** ses administrateurs et dirigeants ou ceux d’une personne visée aux alinéas b), d) ou f);
+	- **d)** toute personne qui a la propriété effective — directement ou indirectement — d’actions émises par elle ou qui exerce le contrôle ou a la haute main sur de telles actions, ou qui possède une combinaison de ces éléments, ces actions comportant un pourcentage des voix attachées à l’ensemble des actions en circulation de la banque supérieur au pourcentage réglementaire, à l’exclusion des actions que cette personne détient en qualité de placeur pendant qu’elles font l’objet d’une souscription publique;
+	- **e)** toute personne — à l’exclusion de celle visée à l’alinéa f) — dont les services sont retenus ou qui est employée par elle ou par une personne visée à l’alinéa f);
+	- **f)** toute personne qui exerce ou se propose d’exercer une activité commerciale ou professionnelle avec elle ou pour son compte;
+	- **g)** toute personne qui, pendant qu’elle était visée par un des alinéas a) à f), a reçu des renseignements confidentiels importants la concernant;
+	- **h)** toute personne qui reçoit des renseignements confidentiels importants d’une personne visée par le présent paragraphe — notamment par le présent alinéa — ou par les paragraphes (3) ou (4) qu’elle sait ou aurait raisonnablement dû savoir qu’ils étaient donnés par une telle personne;
+	- **i)** toute autre personne visée par les règlements.
 
-**Présomption**
+**Présomption relative aux valeurs mobilières**
 
-- **(2)** Pour l’application du paragraphe 272(1), lorsqu’une personne morale devient initiée d’une banque ou entre dans un regroupement d’entreprises avec une banque, ou lorsqu’une banque devient initiée d’une personne morale, les administrateurs ou dirigeants de la personne morale sont réputés avoir été initiés de la banque depuis les six mois précédant l’opération ou si la période est plus courte, depuis le moment où ils ont exercé ces fonctions.
+- **(2)** Pour l’application du présent article, sont réputées des valeurs mobilières de la banque :
+	- **a)** les options de vente ou d’achat, ainsi que les autres droits ou obligations visant l’achat ou la vente de ces valeurs mobilières;
+	- **b)** les valeurs mobilières d’une autre entité dont le cours suit sensiblement celui des valeurs mobilières de la banque.
+
+**Présomption — offre d’achat visant à la mainmise**
+
+- **(3)** Toute personne qui se propose de faire une offre d’achat visant à la mainmise — au sens des règlements — des valeurs mobilières d’une banque ou qui se propose de participer à un regroupement d’entreprises avec une banque est un initié de la banque en ce qui a trait aux renseignements confidentiels importants obtenus de celle-ci, pour l’application du présent article et du paragraphe 271.1(1).
+
+**Présomption — personne de même groupe et associé**
+
+- **(4)** L’initié — au sens des alinéas (1)b) à i), la mention de « banque » y valant mention d’une « personne visée au paragraphe (3) » — d’une personne visée au paragraphe (3), ainsi que la personne du même groupe que celle-ci ou son associé, est un initié de la banque visée à ce paragraphe.
+
+**Associé**
+
+- **(5)** Au paragraphe (4), ***associé*** désigne, relativement à une personne :
+	- **a)** la personne morale qu’elle contrôle, directement ou indirectement — abstraction faite de l’alinéa 3(1)d) —, ou dans laquelle elle a la propriété effective soit d’un certain nombre d’actions, ou de valeurs mobilières immédiatement convertibles en actions, conférant plus de dix pour cent des droits de vote en tout état de cause ou en raison de la survenance d’un fait qui demeure, soit d’une option ou d’un droit susceptibles d’exercice immédiat et permettant d’acquérir de telles actions ou valeurs mobilières;
+	- **b)** son associé dans une société de personnes qui agit pour le compte de celle-ci;
+	- **c)** la fiducie ou la succession dans lesquelles elle a un intérêt substantiel à titre de véritable propriétaire ou à l’égard desquelles elle remplit des fonctions de fiduciaire, d’exécuteur testamentaire ou des fonctions analogues;
+	- **d)** son époux ou conjoint de fait;
+	- **e)** ses enfants ou ceux de son époux ou conjoint de fait;
+	- **f)** ses autres parents — ou ceux de son époux ou conjoint de fait — qui partagent sa résidence.
+
+**Responsabilité : opération effectuée par l’initié**
+
+- **(6)** L’initié d’une banque qui achète ou vend une valeur mobilière de la banque tout en ayant connaissance d’un renseignement confidentiel qui, s’il était généralement connu, provoquerait vraisemblablement une modification sensible du prix des valeurs mobilières de la banque est tenu d’indemniser le vendeur ou l’acheteur des dommages résultant de cette opération, sauf s’il établit l’un ou l’autre des éléments suivants :
+	- **a)** il avait des motifs raisonnables de croire que le renseignement avait été préalablement diffusé;
+	- **b)** le vendeur ou l’acheteur avait connaissance ou aurait raisonnablement dû avoir connaissance de ce renseignement;
+	- **c)** l’achat ou la vente de la valeur mobilière a eu lieu dans les circonstances réglementaires.
+
+**Responsabilité : opération effectuée par l’initié**
+
+- **(7)** Il est également redevable envers la banque des profits ou avantages qu’il tire ou a tirés de cette opération, sauf s’il établit l’élément visé à l’alinéa (6)a).
+> 1991, ch. 46, art. 271; 2005, ch. 54, art. 57.
 
 
 
 
-**Responsabilité**
+
+**Responsabilité : divulgation par l’initié**
+
+**271.1** 
+
+- **(1)** L’initié d’une banque qui divulgue à quiconque un renseignement confidentiel relatif à la banque qui n’a pas été préalablement diffusé et qui, s’il était généralement connu, provoquerait vraisemblablement une modification sensible du prix des valeurs mobilières de la banque est tenu d’indemniser le vendeur ou l’acheteur de ces valeurs mobilières des dommages qu’il subit en raison d’une opération qu’il effectue avec une personne à qui le renseignement a été communiqué, sauf si l’initié établit l’un ou l’autre des éléments suivants :
+	- **a)** il avait des motifs raisonnables de croire que le renseignement avait été préalablement diffusé;
+	- **b)** la personne qui prétend avoir subi les dommages avait connaissance ou aurait raisonnablement dû avoir connaissance de ce renseignement;
+	- **c)** il n’est pas un initié visé aux paragraphes 271(3) ou (4) et la divulgation du renseignement était nécessaire dans le cadre de ses activités commerciales;
+	- **d)** il est un initié visé aux paragraphes 271(3) ou (4) et la divulgation du renseignement était nécessaire pour effectuer une offre d’achat visant à la mainmise ou un regroupement d’entreprises.
+
+**Avantages et profits**
+
+- **(2)** Il est également redevable envers la banque des profits ou avantages qu’il tire ou a tirés à la suite de cette divulgation, sauf s’il établit un des éléments visés aux alinéas (1)a), c) ou d).
+> 2005, ch. 54, art. 57.
+
+
+
+
+
+**Évaluation des dommages**
 
 **272** 
 
-- **(1)** L’initié qui, à l’occasion d’une opération portant sur une valeur mobilière de la banque ou de l’un des membres de son groupe, utilise à son profit un renseignement confidentiel précis dont il est raisonnable de prévoir que, s’il était connu du public, il provoquerait une modification sensible du prix de cette valeur :
-	- **a)** d’une part est tenu d’indemniser les personnes qui ont subi des dommages directs par suite de cette opération, sauf si elles avaient connaissance ou étaient censées, moyennant une diligence normale, avoir connaissance de ce renseignement;
-	- **b)** d’autre part, est redevable envers la banque des profits ou avantages directs obtenus ou à obtenir par lui, suite à cette opération.
+- **(1)** Le tribunal évalue les dommages visés aux paragraphes 271(6) ou 271.1(1) en utilisant les critères qu’il juge indiqués dans les circonstances. Toutefois, dans le cas où il s’agit d’une valeur mobilière d’une banque ayant fait appel au public, il tient compte de ce qui suit :
+	- **a)** si le demandeur en est l’acheteur, le prix de son acquisition, duquel est soustrait le cours moyen de celle-ci durant les vingt jours d’activité à la bourse de valeurs mobilières qui suivent la diffusion du renseignement;
+	- **b)** si le demandeur en est le vendeur, le cours moyen de la valeur mobilière durant les vingt jours d’activité à la bourse de valeurs mobilières qui suivent la diffusion du renseignement, duquel est soustrait le prix reçu pour cette valeur mobilière.
+
+**Responsabilité solidaire**
+
+- **(2)** Lorsqu’elle est partagée entre plusieurs initiés responsables au titre des paragraphes 271(6) ou 271.1(1) à l’égard d’une même opération ou série d’opérations, la responsabilité est solidaire.
 
 **Prescription**
 
-- **(2)** Toute action tendant à faire valoir un droit découlant du paragraphe (1) se prescrit par deux ans à compter :
-	- **a)** soit de la découverte des faits qui donnent lieu à l’action;
-	- **b)** soit du dépôt du rapport prévu aux articles 266 à 268.
+- **(3)** Toute action tendant à faire valoir un droit découlant des paragraphes 271(6) ou (7) ou de l’article 271.1 se prescrit par deux ans à compter de la découverte des faits qui y donnent lieu.
+> 1991, ch. 46, art. 272; 2005, ch. 54, art. 57.
+
 
 
 
@@ -5353,62 +5563,19 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Prospectus**
+**Mise en circulation**
 
 **273** 
 
-- **(1)** Nul ne peut mettre en circulation les valeurs mobilières d’une banque sans avoir à la fois déposé auprès du surintendant un prospectus provisoire et un prospectus répondant pour l’essentiel aux conditions de forme prévues par règlement, et avoir obtenu un reçu du dépôt.
-
-**Idem**
-
-- **(2)** Le surintendant peut, au titre du paragraphe (1), accepter tout prospectus, y compris un prospectus provisoire ou sous forme abrégée ou document analogue, conforme pour l’essentiel aux conditions de forme prescrites par règlement, qui a déjà été déposé auprès d’autres autorités.
-
-**Sens de mise en circulation**
-
-- **(3)** Pour l’application du présent article et des articles 274 à 282, « mise en circulation » s’entend de :
-	- **a)** toute opération faite, à l’occasion d’une première émission, par une banque, ou pour son compte, sur ses valeurs mobilières;
-	- **b)** toute opération sur les valeurs mobilières d’une banque détenues par une personne — ou un ensemble de personnes agissant de concert — qui possède plus de dix pour cent d’une catégorie d’actions avec droit de vote.
-
-
-
-
-**Conditions de forme**
-
-**274** 
-
-- **(1)** Le prospectus provisoire, relatif à la mise en circulation de valeurs mobilières, doit, pour l’essentiel, respecter les conditions de forme et de fond prévues par la présente loi et les règlements d’application du paragraphe 275(1), mais n’a pas à être accompagné des rapports du ou des vérificateurs de la banque exigés par les règlements.
-
-**Idem**
-
-- **(2)** Il n’est pas nécessaire que le prospectus provisoire, relatif à la mise en circulation de valeurs mobilières, contienne des renseignements concernant le prix soit payé par le souscripteur à forfait pour ces valeurs, soit demandé pour celles-ci ou toutes autres questions liées à ce prix.
-
-
-
+- **(1)** Quiconque, y compris une banque, met les valeurs mobilières d’une banque en circulation doit le faire conformément aux règlements pris en vertu du paragraphe (2).
 
 **Règlements**
 
-**275** 
-
-- **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** régir la forme et le fond du prospectus provisoire et du prospectus;
-	- **b)** préciser les états financiers, rapports et autres documents qui doivent être joints au prospectus provisoire et au prospectus;
-	- **c)** régir, pour l’application du paragraphe 279(1), la communication des faits importants relativement aux titres qui doivent faire l’objet d’une mise en circulation;
-	- **d)** régir la distribution du prospectus provisoire ou du prospectus aux acheteurs éventuels;
-	- **e)** soustraire toute catégorie de mise en circulation à l’application des articles 273, 274 et 276 à 282;
-	- **f)** prendre toute autre mesure d’application des articles 273, 274 et 276 à 282.
-
-**Pouvoirs du surintendant**
-
-- **(2)** Les règlements d’application du paragraphe (1) peuvent habiliter le surintendant à permettre ou exiger des modifications — notamment par voie d’adjonction ou de suppression — soit au prospectus provisoire ou au prospectus, soit aux renseignements, rapports ou documents qui y sont contenus, doivent y figurer ou s’y rapportent.
-
-**Idem**
-
-- **(3)** Le surintendant peut, dans le cadre de ces règlements, exercer ses pouvoirs dans tous les cas où il est convaincu que cela est nécessaire, eu égard aux conditions d’émission des valeurs mobilières en question.
-
-**Idem**
-
-- **(4)** Les modifications éventuelles sont effectuées conformément à la permission ou aux instructions données par le surintendant et aux conditions qu’il estime nécessaires en vue d’obtenir, dans la mesure du possible, la communication complète, exacte et claire de tous les faits importants relatifs aux valeurs mobilières qui doivent faire l’objet de la mise en circulation.
-> 1991, ch. 46, art. 275; 1994, ch. 26, art. 5(F); 1999, ch. 31, art. 11.
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la mise en circulation de valeurs mobilières d’une banque, notamment des règlements :
+	- **a)** concernant l’information qui doit être communiquée par une banque avant la mise en circulation de ses valeurs mobilières, notamment l’information que doit contenir le prospectus;
+	- **b)** concernant la communication et la forme de l’information qui doit être communiquée;
+	- **c)** soustrayant toute catégorie de mise en circulation de valeurs mobilières à l’application du paragraphe (1).
+> 1991, ch. 46, art. 273; 2005, ch. 54, art. 57.
 
 
 
@@ -5416,93 +5583,179 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Dispense**
 
-**276** 
+**274** 
 
-- **(1)** Le surintendant peut, par ordonnance, dispenser de l’application des articles 273, 274 et 277 à 282 la banque ou toute personne qui entend procéder à une mise en circulation, si elle lui demande cette dispense et le convainc qu’elle a déposé ou est sur le point de déposer, conformément aux lois de l’autorité compétente, un prospectus visant la mise en circulation, dont la forme et le fond répondent pour l’essentiel aux exigences de la présente loi et des règlements d’application du paragraphe 275(1).
+- **(1)** Le surintendant peut, sur demande et par ordonnance, dispenser de l’application des règlements pris en vertu du paragraphe 273(2) la banque ou toute personne qui entend procéder à une mise en circulation et qui le convainc que la banque a communiqué ou est sur le point de communiquer, conformément aux lois applicables, de l’information visant la mise en circulation dont la forme et le fond répondent pour l’essentiel aux exigences des règlements.
 
 **Conditions**
 
 - **(2)** L’ordonnance peut énoncer les conditions et les restrictions que le surintendant juge utiles.
-> 1991, ch. 46, art. 276; 1999, ch. 31, art. 12.
+> 1991, ch. 46, art. 274; 2005, ch. 54, art. 57.
 
 
 
 
 
-**Reçu : projet de prospectus**
+#### Transactions de fermeture et transactions d’éviction
+
+
+
+**Transactions de fermeture**
+
+**275** Une banque peut effectuer une transaction de fermeture si elle se conforme à la législation provinciale applicable en matière de valeurs mobilières.
+> 1991, ch. 46, art. 275; 1994, ch. 26, art. 5(F); 1999, ch. 31, art. 11; 2005, ch. 54, art. 57.
+
+
+
+
+
+**Transactions d’éviction**
+
+**276** Une banque ne peut effectuer une transaction d’éviction que si elle reçoit, en plus de toute approbation exigée des détenteurs d’actions de la banque par la présente loi ou les règlements administratifs, l’approbation des détenteurs d’actions de chaque catégorie visée, exprimée par résolution ordinaire votée séparément, même si les actions de cette catégorie ne confèrent aucun droit de vote, à l’exception des détenteurs suivants :
+- **a)** les personnes morales du même groupe que la banque;
+- **b)** ceux qui, à la suite de la transaction d’éviction, auraient droit à une contrepartie ou à des droits ou privilèges supérieurs à ceux que pourraient recevoir les détenteurs des autres actions de la même catégorie.
+> 1991, ch. 46, art. 276; 1999, ch. 31, art. 12; 2005, ch. 54, art. 57.
+
+
+
+
+
+**Droit de s’opposer**
 
 **277** 
 
-- **(1)** Le surintendant délivre immédiatement un reçu pour le dépôt de tout prospectus provisoire.
+- **(1)** Le détenteur d’actions d’une banque visées par une transaction de fermeture ou une transaction d’éviction peut faire valoir son opposition.
 
-**Registre**
+**Remboursement des actions**
 
-- **(2)** La personne qui entend mettre en circulation les valeurs mobilières auxquelles le prospectus provisoire se rapporte maintient des registres où est inscrit le nom de toutes les personnes à qui il a été envoyé.
+- **(2)** Outre les autres droits qu’il peut avoir, mais sous réserve du paragraphe (25), l’actionnaire qui se conforme au présent article a le droit, à la prise d’effet des mesures approuvées par la résolution à l’égard de laquelle il a fait valoir son opposition, de se faire verser par la banque la juste valeur des actions en cause fixée à l’heure de fermeture des bureaux la veille de l’adoption par les actionnaires de la résolution.
 
-**Retrait du reçu**
+**Opposition partielle interdite**
 
-- **(3)** Au cas où le surintendant estime, après avoir donné à l’intéressé la possibilité de présenter des observations, que le prospectus provisoire pour lequel un reçu lui a été délivré est défectueux parce qu’il ne répond pas pour l’essentiel aux exigences de la présente loi et des règlements, le reçu peut faire l’objet d’un retrait, auquel cas l’intéressé en est informé sans délai.
+- **(3)** L’actionnaire opposant ne peut se prévaloir du présent article que pour la totalité des actions d’une catégorie qui sont inscrites à son nom mais détenues pour le compte d’un véritable propriétaire.
 
-**Avis**
+**Opposition**
 
-- **(4)** Le cas échéant, un avis du retrait est envoyé sans délai, d’une part, par la personne qui a déposé le prospectus provisoire à toutes les personnes qui se proposaient de participer à la mise en circulation des valeurs mobilières auxquelles le prospectus provisoire se rapporte et, d’autre part, par la banque et toutes ces personnes à chaque personne mentionnée dans les registres qu’elles tiennent à l’égard du prospectus provisoire.
+- **(4)** L’actionnaire opposant envoie par écrit à la banque, avant ou pendant l’assemblée d’actionnaires convoquée pour l’adoption par les actionnaires de la résolution visée au paragraphe (2), son opposition à celle-ci, sauf si la banque ne lui a donné avis ni de l’objet de cette assemblée ni de son droit de s’opposer.
+
+**Avis de résolution**
+
+- **(5)** La banque, dans les dix jours suivant l’adoption par les actionnaires de la résolution visée au paragraphe (2) ou, le cas échéant, l’agrément, au sens du paragraphe 973(1), par le ministre ou le surintendant de la transaction concernée, en avise les actionnaires qui ont envoyé leur opposition conformément au paragraphe (4) et ont voté contre la résolution.
+
+**Demande de paiement**
+
+- **(6)** L’actionnaire opposant, dans les vingt jours suivant la réception de l’avis prévu au paragraphe (5) ou, à défaut, suivant la date où il prend connaissance de l’adoption par les actionnaires de la résolution, envoie un avis écrit à la banque indiquant :
+	- **a)** ses nom et adresse;
+	- **b)** le nombre et la catégorie des actions sur lesquelles porte son opposition;
+	- **c)** une demande de versement de la juste valeur de ces actions.
+
+**Certificat d’actions**
+
+- **(7)** L’actionnaire opposant, dans les trente jours suivant l’envoi de l’avis prévu au paragraphe (6), envoie à la banque ou à son agent de transfert les certificats des actions sur lesquelles porte son opposition.
+
+**Déchéance**
+
+- **(8)** L’actionnaire opposant qui ne se conforme pas au paragraphe (7) ne peut faire valoir le droit de s’opposer prévu au présent article.
+
+**Endossement du certificat**
+
+- **(9)** La banque ou son agent de transfert renvoie immédiatement à l’actionnaire opposant les certificats reçus en application du paragraphe (7) après y avoir inscrit une mention à l’endos attestant que l’actionnaire est un opposant au titre du présent article.
+
+**Suspension des droits**
+
+- **(10)** Dès l’envoi de l’avis prévu au paragraphe (6), l’actionnaire opposant perd tous ses droits sauf celui de se faire rembourser la juste valeur de ses actions déterminée conformément au présent article; cependant, il recouvre ses droits rétroactivement à compter de la date d’envoi de l’avis si, selon le cas :
+	- **a)** il retire l’avis avant que la banque ne fasse l’offre visée au paragraphe (11);
+	- **b)** la banque n’ayant pas fait l’offre conformément au paragraphe (11), il retire son avis;
+	- **c)** les administrateurs annulent aux termes de l’article 220 la résolution extraordinaire visant la transaction de fermeture ou la transaction d’éviction.
+
+**Offre de versement**
+
+- **(11)** La banque, dans les sept jours suivant la date de prise d’effet des mesures approuvées dans la résolution à l’égard de laquelle l’actionnaire fait valoir son opposition ou, si elle est postérieure, celle de la réception de l’avis prévu au paragraphe (6), envoie aux actionnaires opposants qui ont fait parvenir leur avis :
+	- **a)** une offre écrite de remboursement de leurs actions à leur juste valeur, telle que déterminée par les administrateurs, avec une déclaration précisant le mode de calcul retenu;
+	- **b)** en cas d’application du paragraphe (25), un avis les informant qu’il lui est légalement impossible d’effectuer le remboursement.
+
+**Modalités identiques**
+
+- **(12)** Les offres prévues au paragraphe (11) sont faites selon les mêmes modalités si elles visent des actions de la même catégorie ou série.
+
+**Remboursement**
+
+- **(13)** Sous réserve du paragraphe (25), la banque procède au remboursement dans les dix jours suivant l’acceptation de l’offre faite en vertu du paragraphe (11); si l’acceptation ne lui parvient pas dans les trente jours suivant le jour où l’offre est faite, celle-ci devient caduque.
+
+**Demande de la banque au tribunal**
+
+- **(14)** Faute par la banque de faire l’offre prévue au paragraphe (11), ou par l’actionnaire opposant de l’accepter, la banque peut, dans les cinquante jours suivant la date de prise d’effet des mesures approuvées dans la résolution à l’égard de laquelle l’actionnaire fait valoir son opposition ou dans tout délai supplémentaire accordé par le tribunal, demander à celui-ci de fixer la juste valeur des actions.
+
+**Demande de l’actionnaire au tribunal**
+
+- **(15)** Faute par la banque de saisir le tribunal en vertu du paragraphe (14), celui-ci peut être saisi par l’actionnaire opposant qui bénéficie alors d’un délai supplémentaire de vingt jours ou de tout délai supplémentaire accordé par le tribunal.
+
+**Compétence territoriale**
+
+- **(16)** La demande prévue aux paragraphes (14) ou (15) doit être présentée au tribunal du ressort du siège de la banque ou de la résidence de l’actionnaire opposant, si celle-ci est située dans une province où la banque exerce son activité commerciale.
+
+**Absence de cautionnement**
+
+- **(17)** Dans le cadre d’une demande présentée en vertu des paragraphes (14) ou (15), l’actionnaire opposant n’est pas tenu de fournir de cautionnement pour les frais.
+
+**Parties et surintendant**
+
+- **(18)** Sur demande présentée en vertu des paragraphes (14) ou (15) :
+	- **a)** tous les actionnaires opposants dont la banque n’a pas acheté les actions sont mis en cause et sont liés par la décision du tribunal;
+	- **b)** la banque avise chacun d’eux de la date et du lieu de l’audition de la demande, des conséquences de celle-ci ainsi que de son droit de comparaître en personne ou par ministère d’avocat;
+	- **c)** elle avise également le surintendant de la date et du lieu de l’audition de la demande et celui-ci peut comparaître en personne ou par ministère d’avocat.
+
+**Pouvoirs du tribunal**
+
+- **(19)** Sur demande présentée en vertu des paragraphes (14) ou (15), le tribunal peut décider qu’il existe d’autres actionnaires opposants à mettre en cause et doit fixer la juste valeur des actions en question.
+
+**Experts**
+
+- **(20)** Le tribunal peut charger des experts-estimateurs de l’aider à calculer la juste valeur des actions des actionnaires opposants.
+
+**Ordonnance définitive**
+
+- **(21)** L’ordonnance définitive est rendue contre la banque en faveur de chaque actionnaire opposant et indique la valeur des actions fixée par le tribunal.
+
+**Intérêts**
+
+- **(22)** Le tribunal peut accorder sur la somme versée à chaque actionnaire opposant des intérêts à un taux raisonnable pour la période comprise entre la date de prise d’effet des mesures approuvées dans la résolution à l’égard de laquelle l’actionnaire fait valoir son opposition et celle du versement.
+
+**Avis d’application du par. (25)**
+
+- **(23)** Dans les cas prévus au paragraphe (25), la banque, dans les dix jours suivant le prononcé de l’ordonnance prévue au paragraphe (21), avise chaque actionnaire opposant qu’il lui est légalement impossible d’effectuer le remboursement.
+
+**Effet de l’application du par. (25)**
+
+- **(24)** En cas d’application du paragraphe (25), l’actionnaire opposant peut, par avis écrit remis à la banque dans les trente jours suivant la réception de l’avis prévu au paragraphe (23) :
+	- **a)** soit retirer son avis d’opposition et recouvrer ses droits, la banque étant réputée consentir à ce retrait;
+	- **b)** soit conserver la qualité de créancier pour être remboursé par la banque dès qu’elle sera légalement en mesure de le faire ou, en cas de liquidation, pour être colloqué après les autres créanciers mais par préférence aux actionnaires.
+
+**Limitation**
+
+- **(25)** La banque ne peut effectuer aucun paiement aux actionnaires opposants en vertu du présent article s’il existe des motifs raisonnables de croire que, ce faisant, elle contrevient ou contreviendra aux règlements visés aux paragraphes 485(1) ou (2) ou aux ordonnances visées au paragraphe 485(3).
+> 1991, ch. 46, art. 277; 2005, ch. 54, art. 57.
 
 
 
 
-**Reçu : prospectus**
-
-**278** 
-
-- **(1)** Le surintendant délivre également sans délai un reçu pour le dépôt de tout prospectus sauf si, après avoir donné à l’intéressé la possibilité de présenter des observations, il estime que :
-	- **a)** soit le prospectus ou tout document qui doit l’accompagner :
-		- **(i)** ne répond pas pour l’essentiel aux exigences de la présente loi ou des règlements,
-		- **(ii)** contient une déclaration, une promesse, une estimation ou une prévision qui est fallacieuse, fausse ou trompeuse;
-	- **b)** soit la délivrance du reçu serait contraire à l’intérêt public.
-
-- **(2) à (4)** [Abrogés, 1996, ch. 6, art. 6]
-> 1991, ch. 46, art. 278; 1996, ch. 6, art. 6.
+**278** [Abrogé, 2005, ch. 54, art. 57]
 
 
 
-
-
-**Divulgation complète**
-
-**279** 
-
-- **(1)** Le prospectus expose d’une manière complète, exacte et claire tous les faits importants sur les valeurs mobilières qui font l’objet de la mise en circulation projetée; y sont insérés ou annexés les états financiers, rapports et autres documents exigés par les règlements d’application du paragraphe 275(1).
-
-**Certificat**
-
-- **(2)** Est inclus dans le prospectus, en la forme réglementaire, un certificat signé par les personnes suivantes attestant qu’à leur connaissance, la divulgation requise aux termes du paragraphe (1) et des règlements d’application du paragraphe 275(1) a été faite :
-	- **a)** le premier dirigeant et le directeur financier de la banque dont les titres sont mis en circulation ou, en cas d’absence ou d’empêchement de l’un de ceux-ci, un autre dirigeant autorisé à cet effet par le conseil d’administration de la banque, et toute autre personne prévue par règlement;
-	- **b)** s’il s’agit de la première mise en circulation effectuée par la banque, chacun de ses promoteurs.
-
-**Promoteur**
-
-- **(3)** Pour l’application du paragraphe (2) et de l’article 281, « promoteur » s’entend de l’auteur de la demande de constitution d’une banque par lettres patentes ou de l’administrateur nommé dans la demande, lesquels n’ont la qualité de promoteur que pendant les deux ans qui suivent celle-ci.
+**279** [Abrogé, 2005, ch. 54, art. 57]
 
 
 
-
-**Certificat du souscripteur à forfait**
-
-**280** Lorsque plusieurs souscripteurs à forfait participent à la mise en circulation de valeurs mobilières d’une banque, le prospectus doit inclure, en la forme réglementaire, un certificat signé par chacun des souscripteurs à forfait ayant passé à leur égard un contrat avec la banque, ou avec un autre distributeur des valeurs en question, attestant qu’à sa connaissance, la divulgation requise aux termes du paragraphe 279(1) et des règlements d’application du paragraphe 275(1) a été faite.
+**280** [Abrogé, 2005, ch. 54, art. 57]
 
 
 
-
-**Signature du mandataire**
-
-**281** Avec l’accord du surintendant, le mandataire, muni d’une autorisation écrite de l’un des promoteurs ou souscripteurs à forfait visés au paragraphe 279(2) ou à l’article 280, peut signer en leur nom le certificat mentionné dans ce paragraphe ou cet article.
+**281** [Abrogé, 2005, ch. 54, art. 57]
 
 
 
-
-**Distribution de prospectus**
-
-**282** Nul ne peut distribuer le prospectus provisoire ou le prospectus relatifs à une mise en circulation de valeurs mobilières d’une banque, sauf en conformité avec les règlements d’application du paragraphe 275(1).
+**282** [Abrogé, 2005, ch. 54, art. 57]
 
 
 
@@ -5517,9 +5770,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 284 à 293.
 
-***action*** Sont assimilées à une action :
-- **a)** la valeur mobilière immédiatement convertible en une action;
-- **b)** l’option ou le droit, susceptibles d’exercice immédiat, d’acquérir une action ou la valeur mobilière visée à l’alinéa a).
+***action*** Action conférant ou non un droit de vote. Y sont assimilés la valeur mobilière immédiatement convertible en une telle action et l’option ou le droit, susceptibles d’exercice immédiat, d’acquérir une telle action ou valeur mobilière. (*share*)
 
 ***associé du pollicitant***
 - **a)** La personne morale que le pollicitant contrôle, directement ou indirectement, — abstraction faite de l’alinéa 3(1)d) — ou dans laquelle il a la propriété effective soit d’un certain nombre d’actions, ou de valeurs mobilières immédiatement convertibles en actions, conférant plus de dix pour cent des droits de vote en tout état de cause ou en raison de la survenance d’un fait qui demeure, soit d’une option ou d’un droit susceptibles d’exercice immédiat et permettant d’acquérir de telles actions ou valeurs mobilières;
@@ -5527,31 +5778,25 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **c)** la fiducie ou la succession dans lesquelles le pollicitant a un intérêt substantiel à titre de véritable propriétaire ou à l’égard desquelles il remplit des fonctions de fiduciaire, d’exécuteur testamentaire ou des fonctions analogues;
 - **d)** l’époux ou conjoint de fait du pollicitant;
 - **e)** ses enfants ou ceux de son époux ou conjoint de fait;
-- **f)** ses autres parents — ou ceux de son époux ou conjoint de fait — qui partagent sa résidence.
+- **f)** ses autres parents — ou ceux de son époux ou conjoint de fait — qui partagent sa résidence. (*associate of the offeror*)
 
-***banque pollicitée*** Banque dont les actions font l’objet d’une offre publique d’achat.
+***banque pollicitée*** Banque dont les actions font l’objet d’une offre d’achat visant à la mainmise. (*offeree bank*)
 
-***groupe*** Sont du même groupe les personnes morales qui le sont au sens du paragraphe 6(2).
+***groupe*** Sont du même groupe les personnes morales qui le sont au sens du paragraphe 6(2). (*affiliate*)
 
-***offre franche*** Selon le cas, pollicitation :
-- **a)** faite à moins de quinze actionnaires en vue d’acheter des actions par voie de conventions distinctes;
-- **b)** visant à acheter des actions en ou hors bourse dans les cas prévus par règlement;
-- **c)** visant à acheter des actions d’une banque de moins de quinze actionnaires, les codétenteurs comptant comme un actionnaire;
-- **d)** déclarée telle par ordonnance du tribunal compétent du lieu du siège de la banque pollicitée.
+***offre d’achat visant à la mainmise*** L’offre qu’un pollicitant adresse à peu près au même moment à tous les actionnaires d’une banque ayant fait appel au public pour acquérir toutes les actions d’une catégorie d’actions émises. Y est assimilée la pollicitation d’une telle banque visant le rachat de toutes les actions d’une catégorie de ses actions. (*take-over bid*)
 
-***offre publique d’achat***
-- **a)** La pollicitation — à l’exclusion des offres franches — que fait presque simultanément un pollicitant à des actionnaires en vue d’acquérir des actions qui, avec celles dont ce pollicitant, les personnes morales de son groupe et les associés du pollicitant ont, même indirectement, le contrôle ou la propriété effective à la date de l’offre, représentent plus de dix pour cent des actions d’une catégorie émises par la banque pollicitée;
-- **b)** l’offre d’achat des actions d’une banque ayant moins de quinze actionnaires, si l’offre est faite à tous les actionnaires en la forme réglementaire.
+***offre franche***[Abrogée, 2005, ch. 54, art. 58]
 
-Est assimilée à une offre publique d’achat toute pollicitation — à l’exclusion des offres franches — que fait un émetteur en vue d’acheter ses propres actions.
+***offre publique d’achat***[Abrogée, 2005, ch. 54, art. 58]
 
-***pollicitant*** Toute personne, à l’exception du mandataire, qui fait une offre publique d’achat et, en outre, les personnes qui conjointement ou de concert, même indirectement :
+***pollicitant*** Toute personne, à l’exception du mandataire, qui fait une offre d’achat visant à la mainmise et, en outre, les personnes qui conjointement ou de concert, même indirectement :
 - **a)** soit font une telle offre;
-- **b)** soit ont l’intention d’exercer les droits de vote dont sont assorties les actions faisant l’objet de l’offre.
+- **b)** soit ont l’intention d’exercer les droits de vote dont sont assorties les actions faisant l’objet d’une telle offre. (*offeror*)
 
-***pollicité*** Toute personne à laquelle est faite l’offre publique d’achat.
+***pollicité*** Toute personne à laquelle est faite une offre dans le cadre d’une offre d’achat visant à la mainmise. (*offeree*)
 
-***pollicité opposant*** Dans le cas d’une offre publique d’achat et portant sur la totalité des actions d’une catégorie, l’actionnaire pollicité qui refuse l’offre, ainsi que ses ayants cause.
+***pollicité opposant*** Actionnaire pollicité qui refuse l’offre qui lui est faite dans le cadre de l’offre d’achat visant à la mainmise, ainsi que le détenteur subséquent des actions. (*dissenting offeree*)
 
 **Contrôle**
 
@@ -5559,8 +5804,8 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 
 **Date de l’offre**
 
-- **(3)** L’offre publique d’achat est réputée être datée du jour de l’envoi.
-> 1991, ch. 46, art. 283; 2000, ch. 12, art. 4.
+- **(3)** L’offre d’achat visant à la mainmise est réputée être datée du jour de son envoi.
+> 1991, ch. 46, art. 283; 2000, ch. 12, art. 4; 2005, ch. 54, art. 58.
 
 
 
@@ -5568,7 +5813,9 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 
 **Droit d’acquérir des actions**
 
-**284** Le pollicitant a le droit, en se conformant aux articles 285 à 290, aux paragraphes 291(1) et (2) et à l’article 292, d’acquérir les actions des pollicités opposants, en cas d’acceptation de l’offre publique d’achat, dans les cent vingt jours de la date où elle est faite, par les détenteurs de quatre-vingt-dix pour cent au moins des actions de la catégorie en cause, sans qu’il soit tenu compte des actions détenues à la date de l’offre, même indirectement, par lui-même, les personnes morales de son groupe ou ses associés.
+**284** Le pollicitant peut, en se conformant aux articles 285 à 290, aux paragraphes 291(1) et (2) et à l’article 292, acquérir les actions des pollicités opposants lorsque l’offre d’achat visant à la mainmise est, dans les cent vingt jours suivant la date où elle est faite, acceptée par les détenteurs d’au moins quatre-vingt-dix pour cent des actions de la catégorie en cause, sans qu’il soit tenu compte des actions détenues à la date de l’offre d’achat visant à la mainmise, même indirectement, par lui-même, les personnes morales de son groupe ou ses associés.
+> 1991, ch. 46, art. 284; 2005, ch. 54, art. 59(F).
+
 
 
 
@@ -5577,34 +5824,49 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 
 **285** 
 
-- **(1)** Le pollicitant peut acquérir les actions des pollicités opposants en leur faisant parvenir ainsi qu’au surintendant, par courrier recommandé, dans les soixante jours de la date d’expiration de l’offre publique d’achat et, en tout état de cause, dans les cent quatre-vingts jours de la date de l’offre, un avis précisant à la fois :
+- **(1)** Le pollicitant peut acquérir les actions des pollicités opposants en leur faisant parvenir ainsi qu’au surintendant, par courrier recommandé, dans les soixante jours suivant la date d’expiration de l’offre d’achat visant à la mainmise et, en tout état de cause, dans les cent quatre-vingts jours suivant la date de l’offre d’achat visant à la mainmise, un avis précisant à la fois :
 	- **a)** que les pollicités détenant quatre-vingt-dix pour cent au moins d’actions de la catégorie en cause, sans qu’il soit tenu compte des actions détenues à la date de l’offre, même indirectement, par lui-même, les personnes morales de son groupe ou ses associés, ont accepté l’offre;
 	- **b)** qu’il est tenu de prendre livraison, contre paiement, des actions des pollicités acceptants, ou qu’il l’a déjà fait;
-	- **c)** que les pollicités opposants doivent décider :
+	- **c)** que les pollicités opposants doivent décider :
 		- **(i)** soit de lui céder leurs actions selon les conditions offertes aux pollicités acceptants,
 		- **(ii)** soit d’exiger, par notification faite dans les vingt jours qui suivent la réception de l’avis, le paiement de la juste valeur de leurs actions en conformité avec les articles 289 à 292;
-	- **d)** qu’à défaut de la notification prévue au sous-alinéa c)(ii), ils sont réputés avoir choisi de lui céder leurs actions aux conditions faites aux pollicités acceptants;
+	- **d)** que faute de donner avis conformément à l’alinéa 286b), ils sont réputés avoir choisi de lui céder leurs actions aux conditions faites aux pollicités acceptants;
 	- **e)** qu’ils doivent envoyer les actions en cause à la banque pollicitée dans les vingt jours de la réception de l’avis.
 
 **Avis d’opposition**
 
 - **(2)** Le pollicitant fait parvenir à la banque pollicitée, simultanément, l’avis mentionné au paragraphe (1) et, pour chaque action détenue par un pollicité opposant, l’avis d’opposition visé au paragraphe 129(1).
+> 1991, ch. 46, art. 285; 2005, ch. 54, art. 60.
 
 
 
 
-**Envoi des certificats d’actions**
 
-**286** Dans les vingt jours de la réception de l’avis, les pollicités opposants font parvenir à la banque pollicitée les certificats des actions visées par l’offre.
+**Certificat d’action**
+
+**286** Les pollicités opposants doivent, dans les vingt jours suivant la réception de l’avis visé au paragraphe 285(1) :
+- **a)** envoyer à la banque pollicitée les certificats des actions en cause dans l’offre d’achat visant à la mainmise;
+- **b)** soit céder au pollicitant leurs actions aux conditions offertes aux pollicités acceptants, soit exiger, en donnant avis au pollicitant, le paiement de la juste valeur de leurs actions en conformité avec les articles 289 à 292.
+> 1991, ch. 46, art. 286; 2005, ch. 54, art. 61.
 
 
 
 
-**Paiement aux opposants**
+
+**Choix réputé**
+
+**286.1** Faute par les pollicités opposants de donner avis conformément à l’alinéa 286b), ils sont réputés avoir choisi de céder au pollicitant leurs actions aux conditions offertes aux pollicités acceptants.
+> 2005, ch. 54, art. 61.
+
+
+
+
+
+**Paiement à la banque pollicitée**
 
 **287** 
 
-- **(1)** Dans les vingt jours de l’envoi de l’avis, le pollicitant remet à la banque pollicitée les fonds ou toute autre contrepartie qu’il aurait eu à remettre aux pollicités opposants s’ils avaient accepté de céder leurs actions conformément au sous-alinéa 285(1)c)(i).
+- **(1)** Dans les vingt jours suivant l’envoi de l’avis visé au paragraphe 285(1), le pollicitant remet à la banque pollicitée les fonds ou toute autre contrepartie qu’il aurait eu à remettre aux pollicités opposants s’ils avaient accepté de céder leurs actions conformément à l’alinéa 286b).
 
 **Contrepartie détenue en fiducie**
 
@@ -5613,28 +5875,41 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 **Dépôt ou garde**
 
 - **(3)** La banque pollicitée dépose les fonds reçus dans un compte distinct ouvert auprès d’une autre institution financière acceptant des dépôts au Canada et confie toute autre contrepartie à la garde d’une telle institution au Canada.
+> 1991, ch. 46, art. 287; 2005, ch. 54, art. 62.
+
+
+
+
+
+**Contrepartie**
+
+**287.1** Dans le cas où le pollicitant est une banque qui vise à racheter toutes les actions d’une catégorie quelconque, il est réputé détenir à titre de représentant, pour le compte des pollicités opposants, les fonds ou toute autre contrepartie qu’il aurait eu à leur remettre s’ils avaient accepté de lui céder leurs actions conformément à l’alinéa 286b). Il doit, dans les vingt jours suivant l’envoi de l’avis visé au paragraphe 285(1), déposer les fonds dans un compte distinct ouvert auprès d’une autre institution financière acceptant des dépôts au Canada et confier l’autre contrepartie à la garde d’une telle institution au Canada.
+> 2005, ch. 54, art. 63.
+
 
 
 
 
 **Obligation de la banque pollicitée**
 
-**288** Dans les trente jours de l’envoi de l’avis, la banque pollicitée doit :
-- **a)** délivrer au pollicitant des certificats afférents aux actions que détenaient les pollicités opposants;
-- **b)** remettre à chaque pollicité opposant qui accepte de céder ses actions conformément au sous-alinéa 285(1)c)(i) et envoie ses certificats d’actions conformément à l’article 286 les fonds ou toute autre contrepartie auxquels il a droit, sans tenir compte des fractions d’actions, dont le règlement peut toujours se faire en numéraire;
-- **c)** envoyer à chaque pollicité opposant qui ne s’est pas conformé à l’article 286 un avis l’informant que :
+**288** Dans les trente jours de l’envoi de l’avis, la banque pollicitée doit :
+- **a)** remettre au pollicitant les certificats des actions que détenaient les pollicités opposants s’il s’est conformé au paragraphe 287(1);
+- **b)** remettre à chaque pollicité opposant qui accepte de céder ses actions conformément à l’alinéa 286b) et envoie ses certificats d’actions en application de l’alinéa 286a) les fonds ou toute autre contrepartie auxquels il a droit, sans tenir compte des fractions d’actions, dont le règlement peut toujours se faire en numéraire;
+- **c)** si les fonds ou l’autre contrepartie exigés par le paragraphe 287(1) sont remis et, selon le cas, déposés ou confiés en application des paragraphes 287(2) et (3) ou de l’article 287.1, envoyer à chaque pollicité opposant qui ne s’est pas conformé à l’alinéa 286a) un avis l’informant que :
 	- **(i)** ses actions ont été annulées,
-	- **(ii)** elle-même ou toute autre personne désignée détient pour lui à titre de représentant les fonds ou toute autre contrepartie auxquels il a droit,
-	- **(iii)** elle-même lui enverra, sous réserve des articles 289 à 292, les fonds ou toute autre contrepartie dès réception de ses certificats d’actions.
+	- **(ii)** elle-même ou toute autre personne désignée détient pour lui à titre de représentant les fonds ou l’autre contrepartie auxquels il a droit,
+	- **(iii)** elle lui enverra, sous réserve des articles 289 à 292, les fonds ou l’autre contrepartie dès réception des certificats d’actions.
+> 1991, ch. 46, art. 288; 2005, ch. 54, art. 64.
 
 
 
 
-**Demande au tribunal**
+
+**Fixation de la juste valeur par le tribunal**
 
 **289** 
 
-- **(1)** Le pollicitant peut, dans les vingt jours de la remise prévue au paragraphe 287(1), demander au tribunal de fixer la juste valeur des actions des pollicités opposants qui ont choisi de se la faire payer conformément au sous-alinéa 285(1)c)(ii).
+- **(1)** Le pollicitant peut, dans les vingt jours suivant la remise prévue au paragraphe 287(1), demander au tribunal de fixer la juste valeur des actions des pollicités opposants qui ont choisi de se la faire payer conformément à l’alinéa 286b).
 
 **Idem**
 
@@ -5647,15 +5922,19 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 **Absence de caution pour frais**
 
 - **(4)** Dans le cadre d’une demande visée aux paragraphes (1) et (2), les pollicités opposants ne sont pas tenus de fournir caution pour les frais.
+> 1991, ch. 46, art. 289; 2005, ch. 54, art. 65.
+
 
 
 
 
 **Parties et avis**
 
-**290** Sur saisine du tribunal :
-- **a)** tous les pollicités opposants qui ont choisi l’option prévue au sous-alinéa 285(1)c)(ii) et dont les actions n’ont pas été acquises par le pollicitant sont mis en cause et liés par la décision du tribunal;
+**290** Sur saisine du tribunal :
+- **a)** tous les pollicités opposants qui ont choisi d’exiger le paiement de la juste valeur de leurs actions en conformité avec l’alinéa 286b) et dont les actions n’ont pas été acquises par le pollicitant sont mis en cause et liés par la décision du tribunal;
 - **b)** le pollicitant avise chaque pollicité opposant concerné de la date, du lieu et des conséquences de la demande, ainsi que de son droit de comparaître en personne ou par ministère d’avocat lors de l’audition de celle-ci.
+> 1991, ch. 46, art. 290; 2005, ch. 54, art. 66.
+
 
 
 
@@ -5676,11 +5955,13 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 
 **Pouvoirs supplémentaires**
 
-- **(4)** À l’occasion de sa saisine, le tribunal peut rendre toute ordonnance qu’il estime indiquée, notamment pour :
-	- **a)** fixer le montant en numéraire ou toute autre contrepartie réputés être détenus à titre de représentant conformément au paragraphe 287(2);
+- **(4)** À l’occasion de sa saisine, le tribunal peut rendre toute ordonnance qu’il estime indiquée, notamment pour :
+	- **a)** fixer le montant en numéraire ou toute autre contrepartie réputés être détenus par la banque à titre de représentant conformément au paragraphe 287(2) ou à l’article 287.1;
 	- **b)** faire détenir en fiducie le montant en numéraire ou toute autre contrepartie par une personne autre que la banque pollicitée;
 	- **c)** allouer, sur la somme à payer à chaque pollicité opposant, des intérêts à un taux acceptable pour la période comprise entre la date d’envoi des certificats d’actions et celle du paiement;
 	- **d)** prévoir le versement, au ministre, des fonds payables aux actionnaires introuvables.
+> 1991, ch. 46, art. 291; 2005, ch. 54, art. 67.
+
 
 
 
@@ -5688,6 +5969,23 @@ Est assimilée à une offre publique d’achat toute pollicitation — à l’ex
 **Cas du pollicité opposant**
 
 **292** Le pollicité opposant qui ne saisit pas le tribunal ou ne le fait pas dans le délai fixé est réputé avoir transféré ses actions au pollicitant aux mêmes conditions que celui-ci a acquis celles des pollicités acceptants.
+
+
+
+
+**Acquisition forcée à la demande d’un actionnaire**
+
+**292.1** 
+
+- **(1)** L’actionnaire qui détient des actions d’une banque pollicitée et qui n’a pas reçu l’avis prévu au paragraphe 285(1) peut obliger le pollicitant à acquérir ses actions :
+	- **a)** soit dans les quatre-vingt-dix jours suivant la date d’expiration de l’offre d’achat visant à la mainmise;
+	- **b)** soit, s’il n’a pas reçu d’offre dans le cadre de l’offre d’achat visant à la mainmise, dans le délai visé à l’alinéa a) ou dans les quatre-vingt-dix jours suivant la date où il a pris connaissance de l’offre d’achat visant à la mainmise, si ce délai est plus long.
+
+**Conditions**
+
+- **(2)** Le pollicitant est alors tenu d’acquérir les actions aux mêmes conditions que celles faites aux pollicités acceptants.
+> 2005, ch. 54, art. 68.
+
 
 
 
@@ -6071,10 +6369,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 - **(2)** Pour l’application du paragraphe (1) :
 	- **a)** l’indépendance est une question de fait;
-	- **b)** un membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque si lui-même ou un autre membre du cabinet, ou si le cabinet de comptables lui-même :
-		- **(i)** soit est administrateur, dirigeant ou employé de la banque ou d’une entité de son groupe ou est associé en affaires avec un des administrateurs, dirigeants ou employés de la banque ou d’une entité de son groupe,
+	- **b)** le membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque si lui-même, son associé ou le cabinet de comptables lui-même :
+		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la banque ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la banque ou d’une entité de son groupe,
 		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions de la banque ou d’une entité de son groupe,
 		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la banque dans les deux ans précédant la date de la proposition de la nomination du cabinet au poste de vérificateur, sauf si l’entité est une filiale de la banque acquise conformément à l’article 472 ou dont l’acquisition découle de la réalisation d’une sûreté en vertu de l’article 473.
+
+**Associé**
+
+- **(2.1)** Pour l’application du paragraphe (2), est assimilé à l’associé du membre du cabinet de comptables l’autre membre ou l’actionnaire du cabinet de comptables ou l’actionnaire de tout associé du membre.
 
 **Avis au surintendant**
 
@@ -6087,7 +6389,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Poste déclaré vacant**
 
 - **(5)** Dans le cas visé au paragraphe (4), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 1991, ch. 46, art. 315; 2001, ch. 9, art. 94.
+> 1991, ch. 46, art. 315; 2001, ch. 9, art. 94; 2005, ch. 54, art. 72.
 
 
 
@@ -6185,9 +6487,15 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **b)** est informé, notamment par voie d’avis, de la convocation d’une assemblée des actionnaires ayant pour but de le révoquer;
 	- **c)** est informé, notamment par voie d’avis, de la tenue d’une réunion du conseil d’administration ou d’une assemblée des actionnaires destinée à pourvoir le poste de vérificateur par suite de sa démission, de sa révocation ou de l’expiration effective ou prochaine de son mandat.
 
-**Envoi de la déclaration aux actionnaires**
+**Autres déclarations**
 
-- **(2)** Si la déclaration a trait soit à la démission du vérificateur en raison d’un désaccord avec les administrateurs ou dirigeants, soit à une question visée aux alinéas (1)b) ou c), la banque en fait parvenir sans délai un exemplaire à chaque actionnaire habile à voter à l’assemblée annuelle.
+- **(1.1)** Dans le cas où la banque se propose de remplacer le vérificateur pour cause de révocation ou d’expiration de son mandat, elle doit présenter une déclaration motivée et le nouveau vérificateur peut présenter une déclaration commentant ces motifs.
+
+**Diffusion des motifs**
+
+- **(2)** La banque envoie sans délai au surintendant et à tout actionnaire habile à voter à l’assemblée annuelle copie des déclarations visées aux paragraphes (1) et (1.1).
+> 1991, ch. 46, art. 321; 2005, ch. 54, art. 73.
+
 
 
 
@@ -13331,10 +13639,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(3)** Pour l’application du paragraphe (2) :
 	- **a)** l’indépendance est une question de fait;
-	- **b)** un membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque étrangère autorisée si lui-même ou un autre membre du cabinet, ou si le cabinet de comptables lui-même :
-		- **(i)** soit est administrateur, dirigeant ou employé de la banque étrangère autorisée ou d’une entité de son groupe ou est associé en affaires avec un des administrateurs, dirigeants ou employés de la banque étrangère autorisée ou d’une entité de son groupe,
+	- **b)** le membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque étrangère autorisée si lui-même, son associé ou le cabinet de comptables lui-même :
+		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la banque étrangère autorisée ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la banque étrangère autorisée ou d’une entité de son groupe,
 		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions de la banque étrangère autorisée ou d’une entité de son groupe,
 		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la banque étrangère autorisée dans les deux ans précédant la date de la proposition de la nomination du cabinet à titre de vérificateur, sauf si l’entité est une filiale de la banque étrangère autorisée acquise conformément au paragraphe 519(2).
+
+**Associé**
+
+- **(3.1)** Pour l’application du paragraphe (3), est assimilé à l’associé du membre du cabinet de comptables l’autre membre ou l’actionnaire du cabinet de comptables ou l’actionnaire de tout associé du membre.
 
 **Avis au surintendant**
 
@@ -13347,7 +13659,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Poste déclaré vacant**
 
 - **(6)** Dans le cas visé au paragraphe (5), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 1991, ch. 46, art. 585; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 585; 1999, ch. 28, art. 35; 2005, ch. 54, art. 82.
 
 
 
@@ -15955,14 +16267,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Application des articles 81 à 135**
 
-**724** Les articles 81 à 135 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
+**724** Les articles 81 à 135 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
 - **a)** la mention de la banque vaut mention de la société de portefeuille bancaire;
 - **b)** la mention de la présente loi vaut mention de la présente partie;
 - **c)** la mention de la partie VII vaut mention de la section 7 de la partie XV;
 - **d)** la mention « présente partie » vaut mention de « présente section »;
-- **e)** la mention, au paragraphe 93(1), des paragraphes 137(2) à (5) et des articles 138 à 141 et 145 vaut mention des paragraphes 726(2) à (5) et des articles 727 à 730 et 734;
+- **e)** la mention, au paragraphe 93(1), des paragraphes 137(5) à (7) et des articles 138 à 141 et 145 vaut mention des paragraphes 726(5) à (7) et des articles 727 à 730 et 734;
 - **f)** la mention, au paragraphe 97(3), des articles 71 et 77 vaut mention des articles 715 et 720.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 90.
 
 
 
@@ -15979,8 +16291,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Lieu des assemblées**
 
-**725** Les assemblées d’actionnaires se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
-> 2001, ch. 9, art. 183.
+**725** 
+
+- **(1)** Les assemblées d’actionnaires se tiennent au Canada, au lieu que prévoient les règlements administratifs ou, à défaut, que choisissent les administrateurs.
+
+**Participation aux assemblées par moyen de communication électronique**
+
+- **(2)** Sauf disposition contraire des règlements administratifs, toute personne qui a le droit d’assister à une assemblée d’actionnaires peut y participer par moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer adéquatement entre eux et mis à leur disposition par la société de portefeuille bancaire. Elle est alors réputée, pour l’application de la présente partie, avoir assisté à l’assemblée.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements concernant la façon de participer aux assemblées par tout moyen de communication — téléphonique, électronique ou autre — permettant à tous les participants de communiquer entre eux ainsi que les exigences à respecter dans le cadre de cette participation.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 91.
 
 
 
@@ -15992,24 +16314,40 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(1)** Le conseil d’administration convoque les assemblées annuelles, lesquelles doivent se tenir dans les six mois qui suivent la fin de chaque exercice; il peut aussi à tout moment convoquer une assemblée extraordinaire.
 
+**Prorogation de délai**
+
+- **(2)** Malgré le paragraphe (1), la société de portefeuille bancaire peut demander au tribunal d’ordonner la prorogation du délai prévu pour convoquer l’assemblée annuelle.
+
+**Avis au surintendant**
+
+- **(3)** Elle en avise le surintendant par écrit avant l’audition de la demande et, s’il y a lieu, lui envoie une copie de l’ordonnance du tribunal.
+
+**Comparution du surintendant**
+
+- **(4)** Le surintendant peut comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
+
 **Date de référence**
 
-- **(2)** Le conseil d’administration peut fixer d’avance, dans les cinquante jours précédant l’opération en cause, la date ultime d’inscription, ci-après appelée « date de référence », pour déterminer les actionnaires ayant droit à des dividendes, et ceux qui sont habiles à participer au partage consécutif à une liquidation, ou pour toute autre fin, sauf en ce qui touche le droit de recevoir avis d’une assemblée ou d’y voter.
-
-**Avis d’une assemblée**
-
-- **(3)** Le conseil d’administration peut fixer d’avance, entre le cinquantième et le vingt et unième jour précédant une assemblée, la date de référence pour déterminer les actionnaires qui ont le droit d’en être avisés.
+- **(5)** Les administrateurs peuvent fixer d’avance une date ultime d’inscription, ci-après appelée « date de référence », laquelle est comprise dans le délai réglementaire, pour déterminer les actionnaires ayant tout droit ou ayant qualité à toute fin, notamment ceux qui, selon le cas :
+	- **a)** ont le droit de recevoir les dividendes;
+	- **b)** ont le droit de participer au partage consécutif à la liquidation;
+	- **c)** ont le droit de recevoir avis d’une assemblée;
+	- **d)** sont habiles à voter lors d’une assemblée.
 
 **Absence de fixation de date de référence**
 
-- **(4)** À défaut de fixation, la date de référence est, en ce qui concerne la détermination des actionnaires visés aux paragraphes (2) et (3), la date d’adoption de la résolution pertinente par les administrateurs, et dans les autres cas, soit le jour précédant celui où l’avis de l’assemblée est donné, soit, à défaut, le jour de l’assemblée.
+- **(6)** Faute d’avoir été ainsi fixée, la date de référence correspond, selon le cas :
+	- **a)** en ce qui concerne les actionnaires ayant le droit de recevoir avis d’une assemblée :
+		- **(i)** au jour précédant celui où cet avis est donné, à l’heure de fermeture des bureaux,
+		- **(ii)** en l’absence d’avis, au jour de l’assemblée;
+	- **b)** en ce qui concerne les actionnaires ayant qualité à toute autre fin, sauf en ce qui concerne le droit de vote, à la date d’adoption de la résolution à ce sujet par les administrateurs, à l’heure de fermeture des bureaux.
 
-**En cas de fixation**
+**Cas où la date de référence est fixée**
 
-- **(5)** La date de référence étant choisie — et sauf renonciation écrite de tous les détenteurs d’actions des catégorie ou série concernées dont le nom figure au registre central des valeurs mobilières à l’heure de la fermeture des bureaux le jour de la fixation — , avis en est donné, au plus tard sept jours avant :
-	- **a)** d’une part, par insertion dans un journal à grand tirage au lieu du siège de la société de portefeuille bancaire et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions;
+- **(7)** Avis qu’une date de référence a été fixée est donné dans le délai réglementaire et de la manière prévue ci-après à moins que chacun des détenteurs d’actions de la catégorie ou série en cause dont le nom figure au registre des valeurs mobilières au moment de la fermeture des bureaux de la société le jour où la date de référence est fixée par les administrateurs renonce par écrit à cet avis :
+	- **a)** d’une part, par insertion dans un journal à grand tirage paraissant au lieu du siège de la société et en chaque lieu au Canada où la société a un agent de transfert ou où il est possible d’inscrire tout transfert de ses actions;
 	- **b)** d’autre part, par écrit, à chaque bourse de valeurs mobilières du Canada où les actions de la société sont cotées.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 92.
 
 
 
@@ -16019,10 +16357,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **727** 
 
-- **(1)** Avis des date, heure et lieu de l’assemblée doit être envoyé, entre le cinquantième et le vingt et unième jour qui la précèdent :
+- **(1)** Avis des date, heure et lieu de l’assemblée doit être envoyé dans le délai réglementaire :
 	- **a)** à chaque actionnaire habile à y voter;
 	- **b)** à chaque administrateur;
-	- **c)** au vérificateur.
+	- **c)** au vérificateur;
+	- **d)** au surintendant.
+
+**Exception**
+
+- **(1.1)** Toutefois, dans le cas d’une société de portefeuille bancaire n’ayant pas fait appel au public, l’avis peut être envoyé dans le délai plus court prévu par ses règlements administratifs.
 
 **Nombre de voix possibles**
 
@@ -16031,7 +16374,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Publication dans un journal**
 
 - **(3)** Dans le cas où une catégorie quelconque d’actions de la société de portefeuille bancaire est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la société et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 93.
 
 
 
@@ -16041,12 +16384,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **728** 
 
-- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires non inscrits sur les registres de la société de portefeuille bancaire ou de son agent de transfert à la date de référence fixée en vertu des paragraphes 726(3) ou (4).
+- **(1)** Il n’est pas nécessaire d’envoyer l’avis aux actionnaires non inscrits sur les registres de la société de portefeuille bancaire ou de son agent de transfert à la date de référence fixée au titre de l’alinéa 726(5)c) ou prévue à l’alinéa 726(6)a).
 
 **Conséquence du défaut**
 
 - **(2)** Le défaut d’avis ne prive pas l’actionnaire de son droit de vote.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 94.
 
 
 
@@ -16101,35 +16444,60 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **732** 
 
-- **(1)** Les actionnaires habiles à voter lors d’une assemblée annuelle peuvent :
-	- **a)** donner à la société de portefeuille bancaire un préavis des questions qu’ils se proposent de soulever;
-	- **b)** discuter, au cours de cette assemblée, des questions qui auraient pu faire l’objet de propositions de leur part.
+- **(1)** Sous réserve des paragraphes (1.1) et (1.2), le détenteur inscrit ou le véritable propriétaire d’actions qui confèrent le droit de vote à une assemblée annuelle peut :
+	- **a)** donner avis à la société de portefeuille bancaire des questions qu’il se propose de soulever à l’assemblée, cet avis étant appelé « proposition » au présent article et à l’article 733;
+	- **b)** discuter, au cours de l’assemblée, de toute question qui aurait pu faire l’objet d’une proposition de sa part.
 
-**Distribution de la proposition**
+**Soumission des propositions**
 
-- **(2)** La société doit annexer à l’avis de l’assemblée toute proposition d’un actionnaire à soumettre à celle-ci.
+- **(1.1)** Pour soumettre une proposition, une personne doit :
+	- **a)** soit avoir été, pendant au moins la durée réglementaire, le détenteur inscrit ou le véritable propriétaire d’au moins le nombre réglementaire d’actions en circulation de la société;
+	- **b)** soit avoir l’appui de personnes qui, pendant au moins la durée réglementaire, collectivement et avec ou sans elle, ont été les détenteurs inscrits ou les véritables propriétaires d’au moins le nombre réglementaire d’actions en circulation de la société.
 
-**Déclaration à l’appui de propositions**
+**Renseignements à fournir**
 
-- **(3)** La société doit, sur demande, annexer à l’avis de l’assemblée une déclaration de deux cents mots au plus préparée par l’actionnaire à l’appui de sa proposition, avec ses nom et adresse.
+- **(1.2)** La proposition est accompagnée des renseignements suivants :
+	- **a)** les nom et adresse de son auteur et des personnes qui l’appuient, s’il y a lieu;
+	- **b)** le nombre d’actions dont celui-ci et les personnes qui l’appuient, s’il y a lieu, sont les détenteurs inscrits ou les véritables propriétaires ainsi que leur date d’acquisition.
+
+**Renseignements non comptés**
+
+- **(1.3)** Les renseignements prévus au paragraphe (1.2) ne font pas partie de la proposition ni de l’exposé visé au paragraphe (3) et n’entrent pas dans le calcul du nombre maximal réglementaire de mots dont il est question à ce paragraphe.
+
+**Charge de la preuve**
+
+- **(1.4)** Sur demande de la société présentée dans le délai réglementaire, l’auteur de la proposition est tenu d’établir, dans le délai réglementaire, que les conditions prévues au paragraphe (1.1) sont remplies.
+
+**Circulaire de la direction**
+
+- **(2)** La société qui sollicite des procurations doit faire figurer dans la circulaire de la direction exigée au paragraphe 156.05(1) ou en annexe les propositions des actionnaires à soumettre à l’assemblée.
+
+**Déclaration à l’appui de la proposition**
+
+- **(3)** À la demande de l’auteur de la proposition, la société doit faire figurer, dans la circulaire de la direction sollicitant des procurations ou en annexe, un exposé établi par celui-ci à l’appui de sa proposition, ainsi que ses nom et adresse. L’exposé et la proposition, combinés, ne comportent pas plus de mots que le nombre maximal prévu par règlement.
 
 **Présentation de candidatures d’administrateurs**
 
-- **(4)** Les propositions peuvent faire état de candidatures en vue de l’élection des administrateurs si elles sont signées par un ou plusieurs actionnaires détenant au moins cinq pour cent des actions ou cinq pour cent d’une catégorie d’actions permettant de voter à l’assemblée à laquelle les propositions seront présentées.
+- **(4)** La proposition peut faire état de candidatures en vue de l’élection des administrateurs si elle est signée par une ou plusieurs personnes détenant — à titre de détenteurs inscrits ou de véritables propriétaires — au moins cinq pour cent des actions de la société ou des actions d’une de ses catégories d’actions permettant de voter à l’assemblée à laquelle la proposition sera présentée.
 
 **Exemptions**
 
-- **(5)** La société n’est pas tenue de se conformer aux paragraphes (2) et (3) dans l’un ou l’autre des cas suivants :
-	- **a)** la proposition ne lui a pas été soumise au moins quatre-vingt-dix jours avant l’expiration d’un délai d’un an à compter de la dernière assemblée annuelle;
-	- **b)** il apparaît nettement que la proposition a pour objet principal soit de faire valoir contre la société, ou ses administrateurs, ses dirigeants ou les détenteurs de ses valeurs mobilières, une réclamation personnelle ou d’obtenir d’eux la réparation d’un grief personnel, soit de servir des fins générales d’ordre économique, politique, racial, religieux, social ou analogue;
-	- **c)** l’actionnaire ou son fondé de pouvoir n’a pas présenté, à une assemblée tenue dans les deux ans précédant la réception de sa demande, une proposition que, à sa requête, la société avait jointe à l’avis de l’assemblée;
-	- **d)** une proposition à peu près identique figurant dans une circulaire d’un opposant sollicitant des procurations a été soumise aux actionnaires ou jointe à l’avis de l’assemblée et rejetée dans les deux ans précédant la réception de la demande;
-	- **e)** les droits que confèrent les paragraphes (1) à (4) sont exercés abusivement aux fins de publicité.
+- **(5)** La société n’est pas tenue de se conformer aux paragraphes (2) et (3) dans les cas suivants :
+	- **a)** la proposition ne lui a pas été soumise avant le délai réglementaire précédant l’expiration d’un délai d’un an à compter de la date de l’avis de convocation de la dernière assemblée annuelle qui a été envoyé aux actionnaires;
+	- **b)** il apparaît nettement que la proposition a pour objet principal de faire valoir contre la société ou ses administrateurs, ses dirigeants ou les détenteurs de ses valeurs mobilières une réclamation personnelle ou d’obtenir d’eux la réparation d’un grief personnel;
+	- **b.1)** il apparaît nettement que la proposition n’est pas liée de façon importante à l’activité commerciale ou aux affaires internes de la société;
+	- **c)** au cours du délai réglementaire précédant la réception de sa proposition par la société, l’auteur de celle-ci ou son fondé de pouvoir a omis de présenter, à une assemblée, une proposition que la société avait fait figurer, à sa demande, dans une circulaire de la direction ou en annexe d’une telle circulaire;
+	- **d)** une proposition à peu près identique figurant dans une circulaire de la direction ou d’un opposant sollicitant des procurations ou en annexe d’une telle circulaire a été présentée aux actionnaires à une assemblée tenue dans le délai réglementaire précédant la réception de la proposition et n’a pas reçu l’appui minimal prévu par les règlements;
+	- **e)** il y a abus à des fins publicitaires des droits que confèrent les paragraphes (1) à (4).
+
+**Refus de prendre en compte la proposition**
+
+- **(5.1)** Dans le cas où l’auteur de la proposition ne demeure pas le détenteur inscrit ou le véritable propriétaire des actions conformément à l’alinéa (1.1)a) ou, selon le cas, ne conserve pas le support de personnes qui sont collectivement les détenteurs inscrits ou les véritables propriétaires du nombre réglementaire d’actions conformément à l’alinéa (1.1)b), jusqu’à la fin de l’assemblée, la société peut, pendant le délai réglementaire qui suit la tenue de l’assemblée, refuser de faire figurer dans une circulaire de la direction ou refuser d’y annexer toute proposition soumise par l’auteur.
 
 **Immunité**
 
 - **(6)** La société ou ses mandataires n’engagent pas leur responsabilité en diffusant une proposition ou une déclaration en exécution des paragraphes (2) et (3).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 95.
 
 
 
@@ -16139,20 +16507,22 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **733** 
 
-- **(1)** La société de portefeuille bancaire qui a l’intention de refuser de joindre une proposition à l’avis de l’assemblée doit, dans les dix jours suivant la réception de la proposition, donner avis motivé du refus à son auteur.
+- **(1)** La société de portefeuille bancaire qui a l’intention de refuser de faire figurer une proposition dans la circulaire de la direction sollicitant des procurations ou en annexe en donne un avis écrit et motivé à son auteur avant l’expiration du délai réglementaire qui suit, selon le cas :
+	- **a)** la réception par la société de la proposition;
+	- **b)** la réception par la société, le cas échéant, de la preuve exigée en vertu du paragraphe 732(1.4).
 
-**Demande de l’actionnaire**
+**Demande au tribunal**
 
-- **(2)** Sur demande de l’actionnaire qui prétend avoir subi un préjudice par suite du refus, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée et notamment empêcher la tenue de l’assemblée à laquelle la proposition devait être présentée.
+- **(2)** Sur demande de l’auteur de la proposition qui prétend avoir subi un préjudice par suite du refus de la société, le tribunal peut, par ordonnance, prendre toute mesure qu’il estime indiquée et notamment empêcher la tenue de l’assemblée à laquelle la proposition devait être présentée.
 
-**Demande de la société de portefeuille bancaire**
+**Demande de la société**
 
-- **(3)** La société ou toute personne qui prétend qu’une proposition lui cause un préjudice peut demander au tribunal une ordonnance autorisant la société à ne pas joindre la proposition à l’avis de l’assemblée; le tribunal, s’il est convaincu que le paragraphe 732(5) s’applique, peut rendre en l’espèce la décision qu’il estime pertinente.
+- **(3)** La société ou toute personne qui prétend qu’une proposition lui cause un préjudice peut demander au tribunal une ordonnance autorisant la société à ne pas la faire figurer à la circulaire de la direction sollicitant des procurations ou en annexe; le tribunal, s’il est convaincu que le paragraphe 732(5) s’applique, peut rendre en l’espèce la décision qu’il estime pertinente.
 
 **Avis au surintendant**
 
 - **(4)** Dans les deux cas visés aux paragraphes (2) et (3), l’auteur de la demande doit en donner avis écrit au surintendant; celui-ci peut comparaître en personne ou par ministère d’avocat lors de l’audition de la demande.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 96.
 
 
 
@@ -16162,34 +16532,26 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **734** 
 
-- **(1)** La société de portefeuille bancaire dresse la liste alphabétique — informatique ou autre — des actionnaires devant recevoir avis des assemblées aux termes de l’alinéa 727(1)a), avec mention du nombre d’actions qu’ils détiennent :
-	- **a)** dans les dix jours suivant la date de référence fixée en vertu du paragraphe 726(3);
-	- **b)** à défaut de fixation d’une date de référence :
-		- **(i)** à l’heure de fermeture des bureaux, la veille du jour où l’avis est donné,
-		- **(ii)** faute d’avis, à la date de l’assemblée.
+- **(1)** La société de portefeuille bancaire dresse la liste alphabétique des actionnaires qui ont le droit de recevoir avis d’une assemblée en y mentionnant le nombre d’actions détenues par chacun :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 726(5)c), dans les dix jours suivant cette date;
+	- **b)** à défaut d’une telle fixation, à la date de référence prévue à l’alinéa 726(6)a).
 
-**Effet de la liste — fixation de la date de référence**
+**Liste des actionnaires habiles à voter**
 
-- **(2)** En cas de fixation de la date de référence, les personnes inscrites sur la liste alphabétique sont, sous réserve des autres dispositions de la présente partie, habiles à exercer les droits de vote dont sont assorties les actions figurant en regard de leur nom; cependant ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
-	- **a)** la cession est postérieure à la date de référence;
-	- **b)** le cessionnaire exige, au moins dix jours avant l’assemblée ou dans le délai inférieur prévu par les règlements administratifs de la société, l’inscription de son nom sur la liste et, selon le cas :
-		- **(i)** produit les certificats d’actions régulièrement endossés,
-		- **(ii)** prouve son titre.
+- **(2)** La banque dresse la liste alphabétique des actionnaires habiles à voter à la date de référence en y mentionnant le nombre d’actions détenues par chacun :
+	- **a)** si la date de référence a été fixée en vertu de l’alinéa 726(5)d), dans les dix jours suivant cette date;
+	- **b)** si la date de référence n’a pas été fixée en vertu de l’alinéa 726(5)d), dans les dix jours suivant la date de référence fixée en vertu de l’alinéa 726(5)c) ou au plus tard à celle prévue à l’alinéa 726(6)a), selon le cas.
 
-**Effet de la liste — absence de date**
+**Habilité à voter**
 
-- **(3)** À défaut de fixation de la date de référence, les personnes inscrites sur la liste alphabétique sont, sous réserve des autres dispositions de la présente partie, habiles à exercer les droits de vote dont sont assorties les actions figurant en regard de leur nom; cependant ces droits sont exercés par le cessionnaire lorsque les conditions suivantes sont réunies :
-	- **a)** la cession est postérieure à la date à laquelle la liste a été dressée en application du sous-alinéa (1)b)(i);
-	- **b)** le cessionnaire exige, au moins dix jours avant l’assemblée ou dans le délai inférieur prévu par les règlements administratifs de la société, l’inscription de son nom sur la liste et, selon le cas :
-		- **(i)** produit les certificats d’actions régulièrement endossés,
-		- **(ii)** prouve son titre.
+- **(3)** Sous réserve de l’article 156.09, les actionnaires dont le nom figure sur la liste dressée en vertu du paragraphe (2) sont habiles à exercer les droits de vote attachés aux actions figurant en regard de leur nom.
 
 **Examen de la liste**
 
-- **(4)** Les actionnaires peuvent consulter la liste :
+- **(4)** Les actionnaires peuvent prendre connaissance de la liste :
 	- **a)** au siège de la société ou au lieu où est tenu son registre central des valeurs mobilières, pendant les heures normales d’ouverture;
 	- **b)** lors de l’assemblée pour laquelle elle a été dressée.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 97.
 
 
 
@@ -16265,7 +16627,19 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Scrutin secret**
 
 - **(2)** Les actionnaires ou les fondés de pouvoir peuvent demander un vote au scrutin secret avant ou après tout vote à main levée.
-> 2001, ch. 9, art. 183.
+
+**Vote par moyen de communication électronique**
+
+- **(3)** Malgré le paragraphe (1) et sauf disposition contraire des règlements administratifs, le vote mentionné à ce paragraphe peut être tenu entièrement par un moyen de communication téléphonique, électronique ou autre offert par la société de portefeuille bancaire.
+
+**Vote en cas de participation par moyen de communication électronique**
+
+- **(4)** Sauf disposition contraire des règlements administratifs, toute personne participant à une assemblée des actionnaires de la manière prévue au paragraphe 725(2) et habile à y voter peut le faire par le moyen de communication téléphonique, électronique ou autre mis à sa disposition par la société à cette fin.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements concernant la façon de voter par tout moyen de communication — téléphonique, électronique ou autre — lors d’une assemblée des actionnaires ainsi que les exigences à respecter dans le cadre du vote.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 98.
 
 
 
@@ -16275,14 +16649,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **741** 
 
-- **(1)** À l’exception de la déclaration écrite visée à l’article 762 ou au paragraphe 853(1), la résolution écrite, signée de tous les actionnaires habiles à voter en l’occurrence :
+- **(1)** À l’exception de la déclaration écrite visée à l’article 762 ou au paragraphe 853(1), la résolution écrite, signée de tous les actionnaires habiles à voter en l’occurrence :
 	- **a)** a la même valeur que si elle avait été adoptée lors d’une assemblée;
 	- **b)** satisfait aux exigences de la présente partie concernant les assemblées, si elle porte sur toutes les questions devant légalement être examinées par celles-ci.
 
 **Dépôt de la résolution**
 
 - **(2)** Un exemplaire des résolutions visées au paragraphe (1) doit être conservé avec les procès-verbaux des assemblées.
-> 2001, ch. 9, art. 183.
+
+**Preuve**
+
+- **(3)** Sauf si un vote par scrutin est demandé, l’inscription au procès-verbal de l’assemblée précisant que le président a déclaré une résolution adoptée ou rejetée fait foi, sauf preuve contraire, de ce fait, sans qu’il soit nécessaire de prouver le nombre ou la proportion des voix en faveur de cette résolution ou contre elle.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 99.
 
 
 
@@ -16300,8 +16678,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Convocation de l’assemblée par les administrateurs**
 
-- **(3)** Dès réception de la requête, les administrateurs convoquent une assemblée pour délibérer des questions qui y sont énoncées, sauf dans l’un ou l’autre des cas suivants :
-	- **a)** l’avis d’une date de référence fixée en vertu du paragraphe 726(3) a été donné conformément au paragraphe 726(5);
+- **(3)** Dès réception de la requête, les administrateurs convoquent une assemblée pour délibérer des questions qui y sont énoncées, sauf dans l’un ou l’autre des cas suivants :
+	- **a)** l’avis de la fixation d’une date de référence au titre de l’alinéa 726(5)c) a été donné conformément au paragraphe 726(7);
 	- **b)** ils ont déjà convoqué une assemblée et envoyé l’avis prévu à l’article 727;
 	- **c)** les questions énoncées dans la requête relèvent des cas visés aux alinéas 732(5)b) à e).
 
@@ -16316,7 +16694,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Remboursement**
 
 - **(6)** Sauf adoption par les actionnaires d’une résolution à l’effet contraire lors d’une assemblée convoquée conformément au paragraphe (4), la société rembourse aux actionnaires les dépenses entraînées par la requête, la convocation et la tenue de l’assemblée.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 100.
 
 
 
@@ -16516,6 +16894,17 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(2)** Le règlement administratif pris conformément au paragraphe (1) et déterminant le nombre minimal et maximal d’administrateurs peut prévoir que le nombre d’administrateurs à élire à l’assemblée annuelle est fixé au préalable par les administrateurs.
 > 2001, ch. 9, art. 183.
+
+
+
+
+
+**Consentement à l’élection ou à la nomination**
+
+**753.1** L’élection ou la nomination d’une personne au poste d’administrateur n’a d’effet qu’aux conditions suivantes :
+- **a)** si la personne est présente à l’assemblée qui l’élit ou la nomme, elle ne refuse pas d’occuper ce poste;
+- **b)** si elle est absente, soit elle a donné par écrit son consentement à occuper ce poste avant son élection ou sa nomination ou dans les dix jours suivant l’assemblée, soit elle remplit les fonctions de ce poste après son élection ou sa nomination.
+> 2005, ch. 54, art. 103.
 
 
 
@@ -16858,8 +17247,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Présence continue**
 
-- **(3)** L’administrateur qui s’absente temporairement d’une réunion du conseil en conformité avec le paragraphe 790(1) est réputé être présent pour l’application du présent article.
-> 2001, ch. 9, art. 183.
+- **(3)** L’administrateur qui s’absente temporairement d’une réunion du conseil d’administration ou d’un de ses comités en conformité avec le paragraphe 790(1) est réputé être présent pour l’application du présent article.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 107.
 
 
 
@@ -16916,7 +17305,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Dépôt de la résolution**
 
 - **(4)** Un exemplaire des résolutions visées au paragraphe (3) doit être conservé avec les procès-verbaux des réunions du comité du conseil d’administration.
-> 2001, ch. 9, art. 183.
+
+**Preuve**
+
+- **(5)** Sauf si un vote par scrutin est demandé, l’inscription au procès-verbal de la réunion précisant que le président a déclaré une résolution adoptée ou rejetée fait foi, sauf preuve contraire, de ce fait, sans qu’il soit nécessaire de prouver le nombre ou la proportion des voix en faveur de cette résolution ou contre elle.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 108.
 
 
 
@@ -17108,17 +17501,17 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Interdictions**
 
-**785** Les administrateurs ne peuvent déléguer aucun des pouvoirs suivants :
+**785** Les administrateurs ne peuvent déléguer aucun des pouvoirs suivants :
 - **a)** soumettre à l’examen des actionnaires des questions qui requièrent l’approbation de ces derniers;
-- **b)** combler les vacances survenues au sein du conseil d’administration ou d’un de ses comités, ni pourvoir le poste de vérificateur;
-- **c)** émettre ou faire émettre des valeurs mobilières sauf selon les modalités qu’ils autorisent;
+- **b)** combler les vacances au sein du conseil d’administration ou d’un de ses comités, pourvoir le poste vacant de vérificateur ou nommer des administrateurs supplémentaires;
+- **c)** émettre ou faire émettre des valeurs mobilières, notamment des actions d’une série visée à l’article 706, sauf en conformité avec l’autorisation des administrateurs;
 - **d)** déclarer des dividendes;
 - **e)** autoriser l’acquisition par la société de portefeuille bancaire en vertu de l’article 715, notamment par rachat, des actions émises par elle;
 - **f)** autoriser le versement d’une commission sur une émission d’actions;
 - **g)** approuver les circulaires de la direction sollicitant des procurations;
 - **h)** sauf disposition contraire de la présente partie, approuver le rapport annuel ou les autres états financiers de la société;
 - **i)** prendre, modifier ou révoquer des règlements administratifs.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 109.
 
 
 
@@ -17167,48 +17560,47 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Divulgation des intérêts**
+**Communication des intérêts**
 
 **789** 
 
-- **(1)** Doit faire connaître par écrit à la société de portefeuille bancaire la nature et l’étendue de son intérêt, ou demander qu’elles soient consignées au procès-verbal de la réunion du conseil en cause, l’administrateur ou le dirigeant qui :
-	- **a)** soit est partie à un contrat important ou projet de contrat important avec la société;
-	- **b)** soit est également administrateur ou dirigeant d’une entité partie à un tel contrat ou projet;
-	- **c)** soit possède un intérêt important dans une partie à un contrat important ou projet de contrat important avec la société.
+- **(1)** L’administrateur ou le dirigeant communique par écrit à la société de portefeuille bancaire ou demande que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans tout contrat ou opération d’importance avec elle, en cours ou projeté, dans l’un ou l’autre des cas suivants :
+	- **a)** il est partie à ce contrat ou à cette opération;
+	- **b)** il est l’administrateur ou le dirigeant — ou une personne qui agit en cette qualité — d’une partie à un tel contrat ou à une telle opération;
+	- **c)** il possède un intérêt important dans une partie à un tel contrat ou à une telle opération.
 
-**Moment de la divulgation**
+**Moment de la communication : administrateur**
 
-- **(2)** La divulgation requise au paragraphe (1) se fait, dans le cas d’un administrateur, lors de la première réunion des administrateurs :
-	- **a)** au cours de laquelle le projet de contrat est étudié;
-	- **b)** suivant le moment où l’administrateur qui n’avait aucun intérêt dans le projet de contrat en acquiert un;
-	- **c)** suivant le moment où l’administrateur acquiert un intérêt dans un contrat déjà conclu;
-	- **d)** suivant le moment où devient administrateur de la société toute personne ayant un intérêt dans un contrat.
+- **(2)** L’administrateur effectue la communication lors de la première réunion du conseil d’administration ou d’un de ses comités :
+	- **a)** au cours de laquelle le projet de contrat ou d’opération est étudié;
+	- **b)** qui suit le moment où il acquiert un intérêt dans le projet de contrat ou d’opération, s’il n’en avait pas lors de la réunion visée à l’alinéa a);
+	- **c)** qui suit le moment où il acquiert un intérêt dans un contrat déjà conclu ou une opération déjà effectuée;
+	- **d)** qui suit le moment où il devient administrateur, s’il le devient après l’acquisition de l’intérêt.
 
-**Moment de la divulgation**
+**Moment de la communication : dirigeant**
 
-- **(3)** Le dirigeant qui n’est pas administrateur doit procéder à la divulgation immédiatement après :
-	- **a)** avoir appris que le contrat ou le projet a été ou sera examiné lors d’une réunion du conseil;
-	- **b)** avoir acquis l’intérêt, s’il l’acquiert après la conclusion du contrat;
-	- **c)** être devenu dirigeant, s’il le devient après l’acquisition de l’intérêt.
+- **(3)** Le dirigeant qui n’est pas administrateur effectue la communication immédiatement après qu’un des événements suivants se produit :
+	- **a)** il apprend que le contrat ou l’opération, en cours ou projeté, a été ou sera examiné lors d’une réunion du conseil d’administration ou d’un de ses comités;
+	- **b)** il acquiert un intérêt dans un contrat déjà conclu ou une opération déjà effectuée;
+	- **c)** il devient dirigeant après avoir acquis l’intérêt.
 
-**Moment de la divulgation**
+**Moment de la communication**
 
-- **(4)** L’administrateur ou le dirigeant visé au paragraphe (1) doit faire savoir par écrit à la société la nature et l’étendue de son intérêt, ou demander qu’elles soient consignées au procès-verbal de la réunion du conseil en cause, dès qu’il a connaissance d’un contrat important ou projet de contrat important qui, dans le cours normal de l’activité commerciale de la société, ne requiert l’approbation ni des administrateurs, ni des actionnaires.
-> 2001, ch. 9, art. 183.
-
-
+- **(4)** L’administrateur ou le dirigeant doit, dès qu’il a connaissance d’un contrat ou d’une opération d’importance, en cours ou projeté, qui, dans le cadre de l’activité commerciale normale de la société, ne requiert l’approbation ni des administrateurs ni des actionnaires, communiquer par écrit à la société ou demander que soient consignées au procès-verbal d’une réunion du conseil d’administration ou d’un de ses comités la nature et l’étendue de son intérêt dans le contrat ou l’opération.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 110.
 
 
 
-**Abstention**
+
+
+**Vote**
 
 **790** 
 
-- **(1)** L’administrateur visé au paragraphe 789(1) doit s’absenter de la réunion pendant que le contrat est étudié et ne peut participer au vote sur la résolution présentée pour le faire approuver, sauf s’il s’agit d’un contrat :
-	- **a)** garantissant un emprunt ou des obligations qu’il a contractés pour le compte de la société de portefeuille bancaire ou d’une filiale de celle-ci;
-	- **b)** portant essentiellement sur sa rémunération en qualité d’administrateur, de dirigeant, d’employé ou de mandataire de la société ou d’une filiale de celle-ci ou d’une entité contrôlée par la société ou dans laquelle elle détient un intérêt de groupe financier;
-	- **c)** portant sur l’indemnité prévue à l’article 799 ou sur l’assurance prévue à l’article 800;
-	- **d)** conclu avec une entité du groupe de la société.
+- **(1)** L’administrateur visé au paragraphe 789(1) s’absente de la réunion du conseil d’administration ou d’un de ses comités pendant que le contrat ou l’opération est étudié et s’abstient de voter sur la résolution présentée pour les faire approuver, sauf s’il s’agit d’un contrat ou d’une opération :
+	- **a)** portant essentiellement sur sa rémunération en qualité d’administrateur, de dirigeant, d’employé ou de mandataire de la société de portefeuille bancaire ou d’une entité contrôlée par la société ou dans laquelle elle détient un intérêt de groupe financier;
+	- **b)** portant sur l’indemnité prévue à l’article 799 ou l’assurance prévue à l’article 800;
+	- **c)** conclu avec une entité du groupe de la société.
 
 **Inéligibilité**
 
@@ -17217,34 +17609,52 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Validité des actes**
 
 - **(3)** Les actes du conseil d’administration de la société ou d’un comité de celui-ci ne sont pas nuls au seul motif que l’une des personnes agissant à titre d’administrateur a cessé, aux termes du paragraphe (2), d’occuper son poste.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 111.
 
 
 
 
 
-**Déclaration suffisante d’intérêt**
+**Avis général d’intérêt**
 
-**791** Pour l’application du paragraphe 789(1), quiconque donne au conseil un avis général lui faisant savoir qu’il est administrateur ou dirigeant d’une entité ou possède un intérêt important dans une personne, et doit être considéré comme ayant un intérêt dans tout contrat conclu avec cette entité ou personne, s’acquitte de l’obligation de déclaration d’intérêt imposée par ce paragraphe.
-> 2001, ch. 9, art. 183.
+**791** 
 
+- **(1)** Pour l’application du paragraphe 789(1), constitue une communication suffisante de son intérêt dans un contrat ou une opération l’avis général que donne l’administrateur ou le dirigeant d’une société de portefeuille bancaire aux autres administrateurs et portant qu’il est administrateur ou dirigeant — ou qu’il agit en cette qualité — d’une partie visée aux alinéas 789(1)b) ou c), qu’il y possède un intérêt important ou qu’il y a eu un changement important de son intérêt dans celle-ci et qu’il doit être considéré comme ayant un intérêt dans tout contrat conclu avec elle ou opération effectuée avec elle.
 
+**Consultation**
 
-
-
-**Normes relatives à la nullité**
-
-**792** Un contrat important entre la société de portefeuille bancaire et soit un de ses administrateurs ou dirigeants, soit une autre entité dont est également administrateur ou dirigeant un de ses administrateurs ou dirigeants ou entre la société et une personne dans laquelle un de ses administrateurs ou dirigeants a un intérêt important, n’est pas entaché de nullité pour ce seul motif ou au motif que l’un de ces administrateurs est présent ou permet d’atteindre le quorum à la réunion du conseil d’administration ou du comité qui a autorisé le contrat, si, d’une part, l’administrateur ou le dirigeant a déclaré l’intérêt en question conformément aux paragraphes 789(2) à (4) ou à l’article 791 et, d’autre part, le contrat a été approuvé par les administrateurs ou les actionnaires de la société et il était alors équitable pour celle-ci.
-> 2001, ch. 9, art. 183.
+- **(2)** Les actionnaires de la société peuvent consulter, pendant les heures normales d’ouverture de celle-ci, toute partie des procès-verbaux des réunions du conseil d’administration ou de ses comités ou de tout autre document dans lequel les intérêts d’un administrateur ou d’un dirigeant dans un contrat ou une opération sont communiqués en vertu du paragraphe 789(1).
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 112.
 
 
 
 
 
-**Demande au tribunal**
+**Effet de la communication**
 
-**793** En cas de manquement aux articles 789 et 791, le tribunal peut, à la demande de la société de portefeuille bancaire ou d’un actionnaire, annuler le contrat selon les modalités qu’il estime indiquées.
-> 2001, ch. 9, art. 183.
+**792** 
+
+- **(1)** Le contrat ou l’opération assujetti à l’obligation de communication prévue au paragraphe 789(1) n’est pas entaché de nullité, et l’administrateur ou le dirigeant n’est pas tenu de rendre compte à la société de portefeuille bancaire ou ses actionnaires des bénéfices qu’il en a tirés, pour la seule raison qu’il a un intérêt dans le contrat ou l’opération ou que l’administrateur était présent à la réunion au cours de laquelle le contrat ou l’opération a été étudié ou que sa présence a permis d’en atteindre le quorum, si les conditions suivantes sont réunies :
+	- **a)** l’administrateur ou le dirigeant a communiqué son intérêt conformément à l’article 789 et au paragraphe 791(1);
+	- **b)** les administrateurs de la société ont approuvé le contrat ou l’opération;
+	- **c)** au moment de son approbation, le contrat ou l’opération était équitable pour la société.
+
+**Confirmation par les actionnaires**
+
+- **(2)** Même si les conditions visées au paragraphe (1) ne sont pas réunies, le contrat ou l’opération n’est pas entaché de nullité, et l’administrateur ou le dirigeant qui agit avec intégrité et bonne foi n’est pas tenu de rendre compte à la société ou ses actionnaires des bénéfices qu’il en a tirés, au seul motif qu’il a un intérêt dans le contrat ou l’opération, si les conditions suivantes sont réunies :
+	- **a)** le contrat ou l’opération a été approuvé ou confirmé par résolution extraordinaire adoptée à une assemblée des actionnaires;
+	- **b)** l’intérêt a été communiqué aux actionnaires de façon suffisamment claire pour en indiquer la nature et l’étendue avant l’approbation ou la confirmation du contrat ou de l’opération;
+	- **c)** au moment de son approbation ou de sa confirmation, le contrat ou l’opération était équitable pour la société.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 112.
+
+
+
+
+
+**Ordonnance du tribunal**
+
+**793** Le tribunal peut par ordonnance, sur demande de la société de portefeuille bancaire — ou d’un actionnaire de celle-ci — dont l’un des administrateurs ou dirigeants ne se conforme pas aux articles 789 à 792, annuler le contrat ou l’opération selon les modalités qu’il estime indiquées et enjoindre à l’administrateur ou au dirigeant de rendre compte à la société de tout bénéfice qu’il en a tiré.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 112.
 
 
 
@@ -17797,7 +18207,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Consultation**
 
-- **(4)** Les actionnaires et les créanciers, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 815(1) pendant les heures normales d’ouverture des bureaux de la société et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une société ayant fait appel au public au sens du paragraphe 265(1), cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+- **(4)** Les actionnaires et les créanciers de la société, ainsi que leurs représentants personnels, peuvent consulter les livres visés au paragraphe 815(1) pendant les heures normales d’ouverture des bureaux de la société et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une société de portefeuille bancaire ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
 
 **Exemplaires**
 
@@ -17806,7 +18216,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Accès par voie électronique**
 
 - **(6)** L’accès aux renseignements figurant dans les livres visés au paragraphe 815(1) peut être donné à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de donner, dans un délai raisonnable, les renseignements demandés sous une forme écrite compréhensible.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 120.
 
 
 
@@ -17820,7 +18230,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Teneur de la déclaration**
 
-- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
+- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
 	- **a)** les nom et adresse du requérant;
 	- **b)** les nom et adresse, aux fins de signification, de l’entité éventuellement requérante;
 	- **c)** l’engagement de n’utiliser que conformément à l’article 819 la liste principale des actionnaires et les listes supplétives obtenues en vertu des paragraphes (5) et (6).
@@ -17828,11 +18238,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Liste des actionnaires**
 
-- **(3)** Les actionnaires et les créanciers de la société, ainsi que leurs représentants personnels, peuvent obtenir la liste principale des actionnaires; toutefois, lorsque la société fait appel au public au sens du paragraphe 265(1), toute personne peut obtenir la liste.
+- **(3)** Les actionnaires et les créanciers de la société, ainsi que leurs représentants personnels — et toute autre personne dans le cas d’une banque ayant fait appel au public — peuvent obtenir la liste principale des actionnaires.
 
 **Liste principale**
 
-- **(4)** La liste principale des actionnaires mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
+- **(4)** La liste principale des actionnaires mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
 	- **a)** les noms des actionnaires;
 	- **b)** le nombre d’actions détenues par chaque actionnaire;
 	- **c)** l’adresse de chaque actionnaire telle qu’elle figure dans les livres.
@@ -17843,10 +18253,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Remise des listes supplétives**
 
-- **(6)** La société ou son mandataire remet les listes supplétives :
+- **(6)** La société ou son mandataire remet les listes supplétives :
 	- **a)** dans les dix jours suivant la remise de la liste principale, si les modifications sont antérieures à la date de la remise;
 	- **b)** sinon, dans les dix jours suivant la date indiquée dans la dernière liste supplétive.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 121.
 
 
 
@@ -17967,7 +18377,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **825** 
 
-- **(1)** La société de portefeuille bancaire tient un registre central des valeurs mobilières, au sens de l’article 81, qu’elle a émises à titre nominatif, indiquant pour chaque catégorie ou série :
+- **(1)** La société de portefeuille bancaire tient un registre central des valeurs mobilières, au sens de l’article 81, qu’elle a émises à titre nominatif, indiquant pour chaque catégorie ou série :
 	- **a)** les noms, par ordre alphabétique, et la dernière adresse connue de leurs détenteurs et de leurs prédécesseurs;
 	- **b)** le nombre des valeurs détenues par chacun des détenteurs;
 	- **c)** la date et les conditions de l’émission et du transfert de chaque valeur.
@@ -17976,10 +18386,31 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 - **(2)** Pour l’application du paragraphe (1), sont assimilés au registre central des valeurs mobilières les registres similaires que devaient légalement tenir les personnes morales prorogées, ou fusionnées et prorogées, comme sociétés de portefeuille bancaires sous le régime de la présente partie avant leur prorogation ou fusion.
 
-**Application de certaines dispositions**
+**Consultation**
 
-- **(3)** Les paragraphes 816(4) et (6) et les articles 817 et 819 à 822 s’appliquent, compte tenu des adaptations nécessaires, au registre central des valeurs mobilières.
-> 2001, ch. 9, art. 183.
+- **(3)** Les actionnaires et les créanciers de la société, ainsi que leurs représentants personnels, peuvent consulter le registre des valeurs mobilières pendant les heures normales d’ouverture des bureaux de la société et en reproduire gratuitement des extraits ou en obtenir des copies sur paiement de droits raisonnables; dans le cas d’une société ayant fait appel au public, cette faculté doit être accordée à toute autre personne, sur paiement d’un droit raisonnable.
+
+**Accès par voie électronique**
+
+- **(4)** L’accès aux renseignements figurant dans le registre des valeurs mobilières peut être donné à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information susceptible de produire, dans un délai raisonnable, les renseignements demandés sous une forme écrite compréhensible.
+
+**Déclaration**
+
+- **(5)** La personne désireuse de consulter le registre des valeurs mobilières et d’en reproduire ou d’en obtenir des extraits transmet à la société une déclaration sous serment énonçant :
+	- **a)** ses nom et adresse;
+	- **b)** l’engagement d’utiliser les renseignements figurant au registre des valeurs mobilières conformément au cadre relatif à la liste des actionnaires qui est décrit à l’article 819;
+	- **c)** si la demande émane d’une entité, ses nom et adresse aux fins de signification ainsi que la déclaration sous serment d’un de ses administrateurs ou dirigeants ou d’une personne qui agit en une qualité similaire selon laquelle elle souscrit à l’engagement prévu à l’alinéa b).
+
+**Renseignements supplémentaires**
+
+- **(6)** La personne désireuse de consulter le registre des valeurs mobilières et d’en reproduire ou d’en obtenir des extraits qui affirme dans la déclaration sous serment avoir aussi besoin des renseignements supplémentaires indiquant les modifications apportées au registre des valeurs mobilières peut, sur paiement d’un droit raisonnable, en demander la remise à la société ou à son mandataire.
+
+**Remise**
+
+- **(7)** La société ou son mandataire remet les renseignements supplémentaires :
+	- **a)** dans les dix jours suivant le jour où la personne a consulté le registre des valeurs mobilières, si les modifications sont antérieures à ce jour;
+	- **b)** sinon, dans les dix jours suivant la date des derniers renseignements supplémentaires.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 123.
 
 
 
@@ -18069,8 +18500,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Sceau**
 
-**833** L’absence du sceau de la société de portefeuille bancaire sur tout document signé en son nom par l’un de ses administrateurs, dirigeants ou mandataires ne le rend pas nul.
-> 2001, ch. 9, art. 183.
+**833** 
+
+- **(1)** La société de portefeuille bancaire peut adopter un sceau et le modifier par la suite.
+
+**Absence de sceau**
+
+- **(2)** L’absence du sceau de la société sur tout document signé en son nom ne le rend pas nul.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 124.
 
 
 
@@ -18082,10 +18519,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Application des articles 265 à 272**
 
-**834** Les articles 265 à 272 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
-- **a)** la mention de la banque vaut mention de la société de portefeuille bancaire;
-- **b)** la mention, au paragraphe 266(3), de la présente loi vaut mention de la présente partie.
-> 2001, ch. 9, art. 183.
+**834** Les articles 265 à 272 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions, la mention de « banque » vaut mention de « société de portefeuille bancaire ».
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 124.
 
 
 
@@ -18095,13 +18530,26 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Application des articles 273 à 282**
+**Application des articles 273 et 274**
 
-**835** Les articles 273 à 282 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
-- **a)** la mention de la banque vaut mention de la société de portefeuille bancaire;
-- **b)** la mention de la présente loi vaut mention de la présente partie;
-- **c)** il n’est pas tenu compte, au paragraphe 274(1), du fait qu’il peut y avoir plus d’un vérificateur.
-> 2001, ch. 9, art. 183.
+**835** Les articles 273 et 274 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions, la mention de « banque » vaut mention de « société de portefeuille bancaire ».
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 124.
+
+
+
+
+
+##### Transactions de fermeture et transactions d’éviction
+
+
+
+**Application des articles 275 à 277**
+
+**835.1** Les articles 275 à 277 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
+- **a)** la mention de « banque » vaut mention de « société de portefeuille bancaire »;
+- **b)** la mention, à l’article 276, de « présente loi » vaut mention de « présente partie »;
+- **c)** la mention, au paragraphe 277(25), de « règlements visés aux paragraphes 485(1) ou (2) ou aux ordonnances visées au paragraphe 485(3) » vaut mention de « règlements visés aux paragraphes 949(1) ou (2) ou aux ordonnances visées au paragraphe 949(3) ».
+> 2005, ch. 54, art. 124.
 
 
 
@@ -18111,13 +18559,13 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Application des articles 283 à 292**
+**Application des articles 283 à 292.1**
 
-**836** Les articles 283 à 292 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
+**836** Les articles 283 à 292.1 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de ces dispositions :
 - **a)** la mention de la banque vaut mention de la société de portefeuille bancaire;
 - **b)** il n’est pas tenu compte, au paragraphe 287(3), du mot « autre » dans l’expression « autre institution financière »;
 - **c)** la mention, au paragraphe 291(4), du ministre vaut mention du receveur général.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 125.
 
 
 
@@ -18329,8 +18777,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **847** 
 
-- **(1)** Peut être nommé vérificateur le cabinet de comptables dont :
-	- **a)** au moins deux des membres :
+- **(1)** Peut être nommé vérificateur le cabinet de comptables dont :
+	- **a)** au moins deux des membres :
 		- **(i)** sont membres en règle d’un institut ou d’une association de comptables constitués en personne morale sous le régime d’une loi provinciale,
 		- **(ii)** possèdent chacun cinq ans d’expérience au niveau supérieur dans l’exécution de la vérification d’institutions financières,
 		- **(iii)** résident habituellement au Canada,
@@ -18339,12 +18787,16 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Indépendance**
 
-- **(2)** Pour l’application du paragraphe (1) :
+- **(2)** Pour l’application du paragraphe (1) :
 	- **a)** l’indépendance est une question de fait;
-	- **b)** un membre d’un cabinet de comptables est réputé ne pas être indépendant de la société si lui-même ou un autre membre du cabinet, ou si le cabinet de comptables lui-même :
-		- **(i)** soit est administrateur, dirigeant ou employé de la société ou d’une entité de son groupe ou est associé en affaires avec un des administrateurs, dirigeants ou employés de la société ou d’une entité de son groupe,
+	- **b)** le membre d’un cabinet de comptables est réputé ne pas être indépendant de la société si lui-même, son associé ou le cabinet de comptables lui-même :
+		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la société ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la société ou d’une entité de son groupe,
 		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions de la société ou d’une entité de son groupe,
 		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la société dans les deux ans précédant la date de la proposition de la nomination du cabinet au poste de vérificateur, sauf si l’entité est une filiale de la société acquise conformément à l’article 934 ou dont l’acquisition découle de la réalisation d’une sûreté en vertu de l’article 935.
+
+**Associé**
+
+- **(2.1)** Pour l’application du paragraphe (2), est assimilé à l’associé du membre du cabinet de comptables l’autre membre ou l’actionnaire du cabinet de comptables ou l’actionnaire de tout associé du membre.
 
 **Avis au surintendant**
 
@@ -18357,7 +18809,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Poste déclaré vacant**
 
 - **(5)** Dans le cas visé au paragraphe (4), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 129.
 
 
 
@@ -18460,15 +18912,19 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **853** 
 
-- **(1)** Est tenu de soumettre à la société de portefeuille bancaire et au surintendant une déclaration écrite exposant les motifs de sa démission ou de son opposition aux mesures envisagées le vérificateur de la société qui, selon le cas :
+- **(1)** Est tenu de soumettre à la société de portefeuille bancaire et au surintendant une déclaration écrite exposant les motifs de sa démission ou de son opposition aux mesures envisagées le vérificateur de la société qui, selon le cas :
 	- **a)** démissionne;
 	- **b)** est informé, notamment par voie d’avis, de la convocation d’une assemblée des actionnaires ayant pour but de le révoquer;
 	- **c)** est informé, notamment par voie d’avis, de la tenue d’une réunion du conseil d’administration ou d’une assemblée des actionnaires destinée à pourvoir le poste de vérificateur par suite de sa démission, de sa révocation ou de l’expiration effective ou prochaine de son mandat.
 
-**Envoi de la déclaration aux actionnaires**
+**Autres déclarations**
 
-- **(2)** Si la déclaration a trait soit à la démission du vérificateur en raison d’un désaccord avec les administrateurs ou dirigeants, soit à une question visée aux alinéas (1)b) ou c), la société en fait parvenir sans délai un exemplaire à chaque actionnaire habile à voter à l’assemblée annuelle.
-> 2001, ch. 9, art. 183.
+- **(1.1)** Dans le cas où la société se propose de remplacer le vérificateur pour cause de révocation ou d’expiration de son mandat, elle doit présenter une déclaration motivée et le nouveau vérificateur peut présenter une déclaration commentant ces motifs.
+
+**Diffusion des motifs**
+
+- **(2)** La société envoie sans délai au surintendant et à tout actionnaire habile à voter à l’assemblée annuelle, copie des déclarations visées aux paragraphes (1) et (1.1).
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 130.
 
 
 
@@ -18595,7 +19051,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **860** 
 
-- **(1)** La société de portefeuille bancaire prend toutes les dispositions nécessaires pour que son vérificateur soit nommé vérificateur de ses filiales.
+- **(1)** La société de portefeuille bancaire prend toutes les dispositions nécessaires pour que son vérificateur soit nommé vérificateur de ses filiales, peu importe que celles-ci aient plusieurs vérificateurs ou non.
 
 **Filiale à l’étranger**
 
@@ -18604,7 +19060,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Exception**
 
 - **(3)** Dans le cas où la société, après consultation de son vérificateur, estime que l’actif total d’une de ses filiales ne représente pas une partie importante de son actif total, le paragraphe (1) ne s’applique pas à cette filiale.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 131.
 
 
 
