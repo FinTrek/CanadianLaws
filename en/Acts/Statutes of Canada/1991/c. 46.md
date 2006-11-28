@@ -148,6 +148,8 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy;
 
+***going-private transaction*** means a going-private transaction as defined in the regulations;
+
 ***guarantee*** includes a letter of credit;
 
 ***head office***, in relation to a bank, means the office required to be maintained under section 237 and, in relation to a bank holding company, means the office required to be maintained under section 814;
@@ -237,6 +239,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders who voted in respect of that resolution or signed by all the shareholders entitled to vote on that resolution;
 
+***squeeze-out transaction*** means a transaction by a bank that is not a distributing bank, or a bank holding company that is not a distributing bank holding company, that requires an amendment to a by-law referred to in subsection 217(1) and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
+- **(a)** in the case of a bank, the bank, and
+- **(b)** in the case of a bank holding company, the bank holding company;
+
 ***subordinated indebtedness*** means an instrument evidencing an indebtedness of a bank that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the bank, be subordinate in right of payment to all deposit liabilities of the bank and all other liabilities of the bank except those that, by their terms, rank equally with or are subordinate to such indebtedness;
 
 ***subsidiary*** means an entity that is a subsidiary of another entity as defined in section 5;
@@ -290,6 +296,25 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies; or
 - **(d)** a cooperative credit society incorporated or formed, and regulated, by or under an Act of the legislature of a province.
 > 2001, c. 9, s. 36.
+
+
+
+
+
+**Regulations — distributing bank or bank holding company**
+
+**2.4** 
+
+- **(1)** The Governor in Council may make regulations respecting the determination of what constitutes a distributing bank or distributing bank holding company for the purposes of this Act.
+
+**Exemption — bank or bank holding company**
+
+- **(2)** On the application of a bank or bank holding company, the Superintendent may determine that it is not or was not a distributing bank or distributing bank holding company, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of that bank or bank holding company.
+
+**Exemption — class of banks or bank holding companies**
+
+- **(3)** The Superintendent may determine that members of a class of banks or bank holding companies are not or were not distributing banks or distributing bank holding companies, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of a member of the class.
+> 2005, c. 54, s. 2.
 
 
 
@@ -469,24 +494,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 
 
-
-**Distribution to the public**
-
-**11** 
-
-- **(1)** Subject to subsection (2), for the purposes of this Act, a security of a body corporate or an unincorporated entity
-	- **(a)** is part of a distribution to the public where, in respect of the security, there has been a filing of a prospectus, statement of material facts, registration statement, securities exchange take-over bid circular or similar document under the laws of Canada, a province or a jurisdiction outside Canada; or
-	- **(b)** is deemed to be part of a distribution to the public where the security has been issued and a filing referred to in paragraph (a) would be required if the security were being issued currently.
-
-**Exemption**
-
-- **(2)** On application by a bank or bank holding company, the Superintendent may determine that a security of the bank or bank holding company is not or was not part of a distribution to the public if the Superintendent is satisfied that the determination would not prejudice any security holder of the bank or bank holding company.
-
-**Securities deemed part of distribution**
-
-- **(3)** For the purposes of this Act, securities of a bank or bank holding company issued on the conversion of other securities or issued in exchange for other securities are deemed to be securities that are part of a distribution to the public if those other securities were part of a distribution to the public.
-> 1991, c. 46, s. 11; 1997, c. 15, s. 1; 2001, c. 9, s. 42.
-
+**11** [Repealed, 2005, c. 54, s. 3]
 
 
 
@@ -1933,23 +1941,20 @@ but does not include an instrument evidencing a deposit;
 
 
 
-**Signatures on security certificate**
+**Signatures**
 
 **86** 
 
-- **(1)** A security certificate shall be signed manually
-	- **(a)** by at least one director or officer of the bank,
-	- **(b)** by or on behalf of a registrar, transfer agent or branch transfer agent of the bank, or
-	- **(c)** by a trustee who certifies it in accordance with a trust indenture,
-and any additional signatures required on a security certificate may be printed or otherwise mechanically produced thereon.
+- **(1)** A security certificate shall be signed by or bear the printed or otherwise mechanically reproduced signature of at least one of the following:
+	- **(a)** a director or officer of the bank;
+	- **(b)** a registrar or transfer agent of the bank or a branch transfer agent or a natural person on their behalf; or
+	- **(c)** a trustee who certifies it in accordance with a trust indenture.
 
-**No manual signature required**
+**Continuation of validity of signature**
 
-- **(2)** Notwithstanding subsection (1), a manual signature is not required on a security certificate representing a fractional share, on an option or a right to acquire a security or on a scrip certificate.
+- **(2)** If a security certificate contains a person’s printed or mechanically reproduced signature, the bank may issue the security certificate even if the person has ceased to be a director or officer of the bank. The security certificate is as valid as if the person were a director or officer at the date of its issue.
+> 1991, c. 46, s. 86; 2005, c. 54, s. 12.
 
-**Continuation of signature**
-
-- **(3)** Where a security certificate contains a printed or mechanically reproduced signature of a person, the bank may issue the security certificate, notwithstanding that the person has ceased to be a director or an officer of the bank, and the security certificate is as valid as if the person were a director or an officer at the date of its issue.
 
 
 
@@ -1965,22 +1970,21 @@ and any additional signatures required on a security certificate may be printed 
 
 
 
-**Restrictions and constraints**
+**Restrictions and charges**
 
 **88** 
 
-- **(1)** If a security certificate issued by a bank is or becomes subject to
-	- **(a)** a restriction on its transfer other than a constraint under Part VII, or
-	- **(b)** a lien in favour of the bank,
-the restriction or lien is ineffective against a transferee of the security who has no actual knowledge of it, unless the restriction or lien or a reference to it is noted conspicuously on the security certificate.
+- **(1)** No charge in favour of a bank and no restriction on transfer other than a constraint under Part VII is effective against a transferee of a security issued by the bank if the transferee has no actual knowledge of the charge or restriction unless it or a reference to it is noted conspicuously on the security certificate.
 
-**Limit on restriction**
+**No restriction**
 
-- **(2)** Where any of the issued shares of a bank are or were part of a distribution to the public and remain outstanding and are held by more than one person, the bank shall not have a restriction on the issue, transfer or ownership of its shares of any class or series except by way of a constraint under Part VII.
+- **(2)** If any of the issued shares of a distributing bank remain outstanding and are held by more than one person, the bank may not restrict the transfer or ownership of its shares except by way of a constraint under Part VII.
 
-**Transitional**
+**Continuance**
 
-- **(3)** If a body corporate that is continued as a bank under this Act has outstanding security certificates and the words “private company” or “private corporation” appear on the certificates, those words are deemed to be a notice of a restriction or lien for the purposes of subsection (1).
+- **(3)** If a body corporate that is continued as a bank under this Act has outstanding security certificates and the words “private company” or “private corporation” appear on the certificates, those words are deemed to be a notice of a charge or restriction for the purposes of subsection (1).
+> 1991, c. 46, s. 88; 2005, c. 54, s. 13.
+
 
 
 
@@ -2031,11 +2035,11 @@ the restriction or lien is ineffective against a transferee of the security who 
 
 
 
-**Dealings with registered holder**
+**Dealings with registered owner**
 
 **93** 
 
-- **(1)** A bank or a trustee within the meaning of section 294 may, subject to subsections 137(2) to (5) and sections 138 to 141 and 145, treat the registered owner of a security as the person exclusively entitled to vote, to receive notices, to receive any interest, dividend or other payment in respect of the security and to exercise all of the rights and powers of an owner of the security.
+- **(1)** A bank or a trustee within the meaning of section 294 may, subject to subsections 137(5) to (7) and sections 138 to 141 and 145, treat the registered owner of a security as the person exclusively entitled to vote, to receive notices, to receive any interest, dividend or other payment in respect of the security and to exercise all of the rights and powers of an owner of the security.
 
 **Constructive registered holder**
 
@@ -2693,7 +2697,19 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Place of meetings**
 
-**136** Meetings of shareholders of a bank shall be held at the place within Canada provided for in the by-laws of the bank or, in the absence of any such provision, at the place within Canada that the directors determine.
+**136** 
+
+- **(1)** Meetings of shareholders of a bank shall be held at the place within Canada provided for in the by-laws of the bank or, in the absence of any such provision, at the place within Canada that the directors determine.
+
+**Participation by electronic means**
+
+- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the bank makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Act to be present at the meeting.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting the manner of and conditions for participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting.
+> 1991, c. 46, s. 136; 2005, c. 54, s. 16.
+
 
 
 
@@ -2706,31 +2722,41 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 	- **(a)** shall, after the meeting called pursuant to subsection 46(1), call the first annual meeting of shareholders of the bank, which meeting must be held not later than six months after the end of the first financial year of the bank, and subsequently call an annual meeting of shareholders, which meeting must be held not later than six months after the end of each financial year; and
 	- **(b)** may at any time call a special meeting of shareholders.
 
-**Fixing record date**
+**Order to delay calling annual meeting**
 
-- **(2)** For the purpose of determining shareholders
-	- **(a)** entitled to receive payment of a dividend,
-	- **(b)** entitled to participate in a liquidation distribution, or
-	- **(c)** for any other purpose except the right to receive notice of, or to vote at, a meeting,
-the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede by more than fifty days the particular action to be taken.
+- **(2)** Despite subsection (1), the bank may apply to the court for an order extending the time for calling an annual meeting.
 
-**Record date for meetings**
+**Obligation to notify Superintendent**
 
-- **(3)** For the purpose of determining shareholders entitled to receive notice of a meeting of shareholders, the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede by more than fifty days or by less than twenty-one days the date on which the meeting is to be held.
+- **(3)** The bank shall give notice of the application to the Superintendent before any hearing concerning the application and shall provide the Superintendent with a copy of any order that is issued.
 
-**No record date fixed**
+**Superintendent’s right to appear**
 
-- **(4)** If no record date is fixed pursuant to subsection (2) or (3),
-	- **(a)** the record date for the determination of shareholders for any purpose, other than to establish a shareholder’s right to receive notice of a meeting or to vote, is the day on which the directors pass the resolution relating to the particular purpose; and
-	- **(b)** the record date for the determination of shareholders entitled to receive notice of, or to vote at, a meeting of shareholders is
-		- **(i)** the day immediately preceding the day on which the notice is given, or
-		- **(ii)** if no notice is given, the day on which the meeting is held.
+- **(4)** The Superintendent is entitled to appear and be heard in person or by counsel at any hearing concerning the application.
 
-**When record date fixed**
+**Authority to fix record date**
 
-- **(5)** When a record date is fixed for a bank, unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the central securities register at the close of business on the date the directors fix the record date, notice thereof shall, not less than seven days before the record date, be given
-	- **(a)** by advertisement in a newspaper in general circulation in the place where the head office of the bank is situated and in each place in Canada where the bank has a transfer agent or where a transfer of the bank’s shares may be recorded; and
-	- **(b)** by written notice to each stock exchange, if any, in Canada on which the shares of the bank are listed for trading.
+- **(5)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of shareholders for any purpose, including for a determination of which shareholders are entitled to
+	- **(a)** receive payment of a dividend;
+	- **(b)** participate in a liquidation distribution;
+	- **(c)** receive notice of a meeting of shareholders; or
+	- **(d)** vote at a meeting of shareholders.
+
+**Determination of record date**
+
+- **(6)** If no record date is fixed,
+	- **(a)** the record date for the determination of shareholders who are entitled to receive notice of a meeting of shareholders is
+		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
+		- **(ii)** if no notice is given, the day on which the meeting is held; and
+	- **(b)** the record date for the determination of shareholders for any other purpose, other than to establish a shareholder’s right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
+
+**Notice of record date**
+
+- **(7)** If a record date is fixed and unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the securities register at the close of business on the day on which the directors fix the record date, notice of the record date shall be given within the prescribed period by
+	- **(a)** advertisement in a newspaper in general circulation in the place where the bank’s head office is situated and in each place in Canada where the bank has a transfer agent or where a transfer of its shares may be recorded; and
+	- **(b)** written notice to each stock exchange in Canada on which the bank’s shares are listed for trading.
+> 1991, c. 46, s. 137; 2005, c. 54, s. 17.
+
 
 
 
@@ -2739,10 +2765,15 @@ the directors may fix in advance a date as the record date for the determination
 
 **138** 
 
-- **(1)** Notice of the time and place of a meeting of shareholders of a bank shall be sent not less than twenty-one days or more than fifty days before the meeting
-	- **(a)** to each shareholder entitled to vote at the meeting;
-	- **(b)** to each director; and
-	- **(c)** to the auditor or auditors of the bank.
+- **(1)** Notice of the time and place of a meeting of shareholders of a bank shall be sent within the prescribed period to
+	- **(a)** each shareholder entitled to vote at the meeting;
+	- **(b)** each director;
+	- **(c)** the auditor or auditors of the bank; and
+	- **(d)** the Superintendent.
+
+**Exception**
+
+- **(1.01)** In the case of a bank that is not a distributing bank, notice may be sent within any shorter period specified in its by-laws.
 
 **Number of eligible votes**
 
@@ -2751,21 +2782,23 @@ the directors may fix in advance a date as the record date for the determination
 **Publication in newspaper**
 
 - **(2)** In addition to the notice required under subsection (1), where any class of shares of a bank is publicly traded on a recognized stock exchange in Canada, notice of the time and place of a meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in general circulation in the place where the head office of the bank is situated and in each place in Canada where the bank has a transfer agent or where a transfer of the bank’s shares may be recorded.
-> 1991, c. 46, s. 138; 2001, c. 9, s. 63.
+> 1991, c. 46, s. 138; 2001, c. 9, s. 63; 2005, c. 54, s. 18.
 
 
 
 
 
-**When notice not required**
+**Notice not required**
 
 **139** 
 
-- **(1)** A notice of a meeting of shareholders is not required to be sent to shareholders who were not registered on the records of the bank or its transfer agent on the record date fixed or determined under subsection 137(3) or (4).
+- **(1)** A notice of a meeting is not required to be sent to shareholders who are not registered on the records of the bank or the bank’s transfer agent on the record date fixed under paragraph 137(5)(c) or determined under paragraph 137(6)(a).
 
 **Effect of default**
 
 - **(2)** Failure to receive a notice of a meeting of shareholders does not deprive a shareholder of the right to vote at the meeting.
+> 1991, c. 46, s. 139; 2005, c. 54, s. 19.
+
 
 
 
@@ -2815,53 +2848,78 @@ the directors may fix in advance a date as the record date for the determination
 
 
 
-**Shareholder’s proposal**
+**Proposals**
 
 **143** 
 
-- **(1)** A shareholder entitled to vote at an annual meeting of shareholders of a bank may
-	- **(a)** submit to the bank notice of any matter that the shareholder proposes to raise at the meeting; and
-	- **(b)** discuss at the meeting any matter in respect of which the shareholder would have been entitled to submit a proposal.
+- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares that may be voted at an annual meeting of shareholders may
+	- **(a)** submit to the bank notice of any matter that they propose to raise at the meeting (in this section and section 144 referred to as a “proposal”); and
+	- **(b)** discuss at the meeting any matter in respect of which they would have been entitled to submit a proposal.
+
+**Eligibility to submit proposal**
+
+- **(1.1)** To be eligible to submit a proposal a person shall
+	- **(a)** for at least the prescribed period be the registered holder or beneficial owner of at least the prescribed number of the bank’s outstanding shares; or
+	- **(b)** have the support of persons who, in the aggregate and including or not including the person who submits the proposal, have for at least the prescribed period been the registered holders or beneficial owners of at least the prescribed number of the bank’s outstanding shares.
+
+**Information to be provided**
+
+- **(1.2)** A proposal is to be accompanied by the following information:
+	- **(a)** the name and address of the person submitting the proposal and the names and addresses of their supporters, if any; and
+	- **(b)** the number of shares held or owned by the person and their supporters, if any, and the date that the shares were acquired.
+
+**Information not part of proposal**
+
+- **(1.3)** The information provided under subsection (1.2) does not form part of a proposal or of the supporting statement referred to in subsection (3) and is not to be included for the purpose of the prescribed maximum number of words referred to in subsection (3).
+
+**Proof may be required**
+
+- **(1.4)** If the bank requests within the prescribed period that a person provide proof that they are eligible to submit a proposal, the person shall within the prescribed period provide proof that they meet the requirements of subsection (1.1).
 
 **Management proxy**
 
 - **(2)** A bank that solicits proxies shall, in the management proxy circular required by subsection 156.05(1), set out any proposal of a shareholder submitted for consideration at a meeting of shareholders or attach the proposal to the management proxy circular.
 
-**Shareholder’s statement**
+**Supporting statement**
 
-- **(3)** If so requested by a shareholder who submits a proposal to a bank, the bank shall include in the management proxy circular, or attach thereto, a statement by the shareholder of not more than two hundred words in support of the proposal and the name and address of the shareholder.
+- **(3)** At the request of the person who submits a proposal, the bank shall set out in the management proxy circular or attach to it the person’s statement in support of the proposal and their name and address. The statement and proposal together are not to exceed the prescribed maximum number of words.
 
-**Nominations for directors**
+**Nomination of directors**
 
-- **(4)** A proposal may include nominations for the election of directors if the proposal is signed by one or more holders of shares representing in the aggregate not less than 5 per cent of the shares or 5 per cent of the shares of a class of shares of the bank entitled to vote at the meeting to which the proposal is to be presented.
+- **(4)** A proposal may include nominations for the election of directors if it is signed by one or more registered holders or beneficial owners of shares representing in the aggregate not less than 5% of the shares of the bank or 5% of the shares of a class of its shares entitled to vote at the meeting at which the proposal is to be presented.
 
-**Conditions precedent for proposals**
+**Exemption**
 
 - **(5)** A bank is not required to comply with subsections (2) and (3) if
-	- **(a)** the proposal is not submitted to the bank at least ninety days before the anniversary date of the previous annual meeting of shareholders;
-	- **(b)** it clearly appears that the proposal is submitted by the shareholder primarily for the purpose of enforcing a personal claim or redressing a personal grievance against the bank or its directors, officers or security holders, or primarily for the purpose of promoting general economic, political, racial, religious, social or similar causes;
-	- **(c)** the bank, at the shareholder’s request, included in a management proxy circular a proposal relating to a meeting of shareholders held within two years preceding the receipt of the request, and the shareholder failed to present the proposal, in person or by proxy, at the meeting;
-	- **(d)** substantially the same proposal was submitted to shareholders in a management proxy circular or a dissident’s proxy circular relating to a meeting of shareholders held within two years preceding the receipt of the shareholder’s request and the proposal was defeated; or
+	- **(a)** the proposal is not submitted to the bank at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to shareholders in respect of the previous annual meeting of shareholders;
+	- **(b)** it clearly appears that the primary purpose of the proposal is to enforce a personal claim or redress a personal griev­ance against the bank or its directors, officers or security holders;
+	- **(b.1)** it clearly appears that the proposal does not relate in a significant way to the business or affairs of the bank;
+	- **(c)** the person submitting the proposal failed within the prescribed period before the bank receives their proposal to present, in person or by proxy, at a meeting of shareholders a proposal that at their request had been set out in or attached to a management proxy circular;
+	- **(d)** substantially the same proposal was set out in or attached to a management proxy circular or dissident’s proxy circular relating to, and presented to shareholders at, a meeting of shareholders held within the prescribed period before the receipt of the proposal and did not receive the prescribed minimum amount of support at the meeting; or
 	- **(e)** the rights conferred by subsections (1) to (4) are being abused to secure publicity.
+
+**Bank may refuse to include proposal**
+
+- **(5.1)** If a person who submits a proposal fails to continue to hold or own shares in accordance with paragraph (1.1)(a) or, as the case may be, does not continue to have the support of persons who are in the aggregate the registered holders or beneficial owners of the prescribed number of shares in accordance with paragraph (1.1)(b) until the end of the meeting, the bank is not required to set out any proposal submitted by that person in or attach it to a management proxy circular for any meeting held within the prescribed period after the day of the meeting.
 
 **Immunity for proposal and statement**
 
 - **(6)** No bank or person acting on behalf of a bank incurs any liability by reason only of circulating a proposal or statement in compliance with subsections (2) and (3).
-> 1991, c. 46, s. 143; 1997, c. 15, s. 9.
+> 1991, c. 46, s. 143; 1997, c. 15, s. 9; 2005, c. 54, s. 20.
 
 
 
 
 
-**Refusal of proposal**
+**Notice of refusal**
 
 **144** 
 
-- **(1)** If a bank refuses to include a proposal in a management proxy circular, the bank shall, within ten days after receiving the proposal, notify the shareholder submitting the proposal of its intention to omit the proposal from the management proxy circular and send to the shareholder a statement of the reasons for the refusal.
+- **(1)** If a bank refuses to include a proposal in a management proxy circular, it shall in writing notify the person submitting the proposal of its intention to omit the proposal from the management proxy circular and of the reasons for the refusal. It shall notify the person within the prescribed period after either the day on which it receives the proposal or, if it has requested proof under subsection 143(1.4), the day on which it receives the proof.
 
-**Appeal to court**
+**Application to court**
 
-- **(2)** On the application of a shareholder claiming to be aggrieved by a bank’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order it thinks fit.
+- **(2)** On the application of a person submitting a proposal who claims to be aggrieved by a bank’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order that it thinks fit.
 
 **Idem**
 
@@ -2870,46 +2928,36 @@ the directors may fix in advance a date as the record date for the determination
 **Notice to Superintendent**
 
 - **(4)** An applicant under subsection (2) or (3) shall give the Superintendent written notice of the application and the Superintendent may appear and be heard at the hearing of the application in person or by counsel.
+> 1991, c. 46, s. 144; 2005, c. 54, s. 21.
 
 
 
 
-**Shareholder list**
+
+**List of shareholders entitled to notice**
 
 **145** 
 
-- **(1)** A bank shall prepare a list, which may be in electronic form, of its shareholders entitled to receive notice of a meeting under paragraph 138(1)(a), arranged in alphabetical order and showing the number of shares held by each shareholder, which list must be prepared
-	- **(a)** if a record date is fixed under subsection 137(3), not later than ten days after that date; or
-	- **(b)** if no record date is fixed,
-		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
-		- **(ii)** where no notice is given, on the day on which the meeting is held.
+- **(1)** A bank shall prepare an alphabet­ical list of shareholders entitled to receive notice of a meeting showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 137(5)(c), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed, on the record date determined under paragraph 137(6)(a).
 
-**Effect of list**
+**Voting list**
 
-- **(2)** Where a bank fixes a record date under subsection 137(3), a person named in the list prepared under paragraph (1)(a) is, subject to this Act, entitled to vote the shares shown opposite that person’s name at the meeting to which the list relates, except to the extent that
-	- **(a)** the person has transferred the ownership of any of those shares after the record date, and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the bank provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+- **(2)** The bank shall prepare an alphabetical list of shareholders entitled to vote as of the record date showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 137(5)(d), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed under paragraph 137(5)(d), no later than 10 days after a record date is fixed under paragraph 137(5)(c) or no later than the record date determined under paragraph 137(6)(a), as the case may be.
 
-**Idem**
+**Entitlement to vote**
 
-- **(3)** Where a bank does not fix a record date under subsection 137(3), a person named in the list prepared under paragraph (1)(b) is, subject to this Act, entitled to vote the shares shown opposite that person’s name at the meeting to which the list relates, except to the extent that
-	- **(a)** the person has transferred the ownership of any of those shares after the date on which a list was prepared under subparagraph (1)(b)(i), and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the bank provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+- **(3)** Subject to section 156.09, a shareholder whose name appears on a list prepared under subsection (2) is entitled to vote the shares shown opposite their name.
 
 **Examination of list**
 
-- **(4)** A shareholder of a bank may examine the list of shareholders referred to in subsection (1)
+- **(4)** A shareholder may examine the list of shareholders
 	- **(a)** during usual business hours at the head office of the bank or at the place where its central securities register is maintained; and
 	- **(b)** at the meeting of shareholders for which the list was prepared.
-> 1991, c. 46, s. 145; 2001, c. 9, s. 65.
+> 1991, c. 46, s. 145; 2001, c. 9, s. 65; 2005, c. 54, s. 22.
 
 
 
@@ -2978,6 +3026,20 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 - **(2)** A shareholder or proxyholder may demand a ballot either before or after any vote by show of hands.
 
+**Electronic voting**
+
+- **(3)** Despite subsection (1) and unless the by-laws provide otherwise, any vote referred to in that subsection may be held entirely by means of a telephonic, electronic or other communication facility if the bank makes one available.
+
+**Voting while participating electronically**
+
+- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting of shareholders under subsection 136(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the bank has made available for that purpose.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations respecting the manner of and conditions for voting at a meeting of shareholders by means of a telephonic, electronic or other communication facility.
+> 1991, c. 46, s. 151; 2005, c. 54, s. 23.
+
+
 
 
 
@@ -2992,6 +3054,12 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Filing resolution**
 
 - **(2)** A copy of every resolution referred to in subsection (1) shall be kept with the minutes of the meetings of shareholders.
+
+**Evidence**
+
+- **(3)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 1991, c. 46, s. 152; 2005, c. 54, s. 24.
+
 
 
 
@@ -3011,7 +3079,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Directors calling meeting**
 
 - **(3)** On receipt of a requisition referred to in subsection (1), the directors shall call a meeting of shareholders to transact the business stated in the requisition, unless
-	- **(a)** a record date has been fixed under subsection 137(3) and notice thereof has been given under subsection 137(5);
+	- **(a)** a record date has been fixed under paragraph 137(5)(c) and notice of it has been given under subsection 137(7);
 	- **(b)** the directors have called a meeting of shareholders and have given notice thereof under section 138; or
 	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 143(5)(b) to (e).
 
@@ -3026,18 +3094,20 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Reimbursement**
 
 - **(6)** Unless the shareholders otherwise resolve at a meeting called under subsection (4), the bank shall reimburse the shareholders for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
+> 1991, c. 46, s. 153; 2005, c. 54, s. 25.
 
 
 
 
-**Meeting called by court**
+
+**Court may order meeting to be called**
 
 **154** 
 
-- **(1)** Where it is impracticable
-	- **(a)** to call a meeting of shareholders of a bank in the manner in which meetings of those shareholders are to be called, or
-	- **(b)** to conduct the meeting in the manner required by the by-laws and this Act,
-or where a court thinks fit to do so for any other reason, the court, on the application of a director or a shareholder entitled to vote at the meeting, may order a meeting to be called, held and conducted in such manner as the court directs.
+- **(1)** A court may, on the application of a director, a shareholder who is entitled to vote at a meeting of shareholders or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
+	- **(a)** it is impracticable to call the meeting within the time or in the manner in which it is to be called;
+	- **(b)** it is impracticable to conduct the meeting in the manner required by this Act or the by-laws; or
+	- **(c)** the court thinks that the meeting ought to be called, held or conducted within the time or in the manner that it directs for any other reason.
 
 **Varying quorum**
 
@@ -3046,6 +3116,8 @@ or where a court thinks fit to do so for any other reason, the court, on the app
 **Valid meeting**
 
 - **(3)** A meeting called, held and conducted pursuant to this section is for all purposes a meeting of shareholders of the bank duly called, held and conducted.
+> 1991, c. 46, s. 154; 2005, c. 54, s. 26.
+
 
 
 
@@ -3088,9 +3160,18 @@ or where a court thinks fit to do so for any other reason, the court, on the app
 
 **156.01** The definitions in this section apply in this section and sections 156.02 to 156.08.
 
-***registrant*** means a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction.
+***intermediary*** means a person who holds a security on behalf of another person who is not the registered holder of the security, and includes
+- **(a)** a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction;
+- **(b)** a securities depositary;
+- **(c)** a financial institution;
+- **(d)** in respect of a clearing agency, a securities dealer, trust company, association within the meaning of section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), bank or other person, including another clearing agency, on whose behalf the clearing agency or its nominee holds securities of an issuer;
+- **(e)** a trustee or administrator of a self-administered retirement savings plan, retirement income fund or education savings plan or another similar self-administered savings or investment plan that is registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+- **(f)** a nominee of a person referred to in any of paragraphs (a) to (e); and
+- **(g)** a person who performs functions similar to those performed by a person referred to in any of paragraphs (a) to (e) and holds a security registered in their name, or in the name of their nominee, on behalf of another person who is not the registered holder of the security. (*intermédiaire*)
 
- or ***solicit*** or ***solicitation*** includes
+***registrant***[Repealed, 2005, c. 54, s. 27]
+
+***solicit*** or ***solicitation*** includes
 - **(a)** a request for a proxy, whether or not accompanied by or included in a form of proxy,
 - **(b)** a request to execute or not to execute a form of proxy or to revoke a proxy,
 - **(c)** the sending of a form of proxy or other communication to a shareholder under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy, and
@@ -3100,10 +3181,10 @@ but does not include
 - **(e)** the sending of a form of proxy in response to an unsolicited request made by or on behalf of a shareholder,
 - **(f)** the performance of administrative acts or professional services on behalf of a person soliciting a proxy,
 - **(g)** the sending by a registrant of the documents referred to in section 156.07, or
-- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner.
+- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner. (*sollicitation*)
 
-***solicitation by or on behalf of the management of a bank*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the bank.
-> 1997, c. 15, s. 10.
+***solicitation by or on behalf of the management of a bank*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the bank. (*sollicitation effectuée par la direction d’une banque ou pour son compte*)
+> 1997, c. 15, s. 10; 2005, c. 54, s. 27.
 
 
 
@@ -3161,8 +3242,10 @@ but does not include
 
 **Exception**
 
-- **(2)** If a bank has fewer than fifteen shareholders, the management of the bank is not required to send a form of proxy to the shareholders under subsection (1). For the purpose of this subsection, two or more joint shareholders are counted as one shareholder.
-> 1997, c. 15, s. 10.
+- **(2)** The management of a bank is not required to send a form of proxy under subsection (1) if the bank
+	- **(a)** is not a distributing bank; and
+	- **(b)** has 50 or fewer shareholders who are entitled to vote at a meeting, two or more joint holders of a share being counted as one shareholder.
+> 1997, c. 15, s. 10; 2005, c. 54, s. 28.
 
 
 
@@ -3207,51 +3290,60 @@ but does not include
 
 **Vote by show of hands**
 
-- **(3)** Where the chairperson of a meeting of shareholders declares to the meeting that, if a ballot were conducted, the total number of votes attached to shares represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting in relation to any matter or group of matters is less than five per cent of all the votes that might be cast at the meeting on the ballot, unless a shareholder or proxyholder demands a ballot,
+- **(3)** Despite subsections (1) and (2) and unless a shareholder or proxyholder demands a ballot, if the chairperson of a meeting of shareholders declares to the meeting that, if a ballot were conducted, the total number of votes attached to shares represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting on a matter or group of matters is less than 5% of all the votes that might be cast by shareholders in person or by proxy,
 	- **(a)** the chairperson may conduct the vote in respect of that matter or group of matters by way of a show of hands; and
 	- **(b)** a proxyholder or alternate proxyholder may vote in respect of that matter or group of matters by way of a show of hands.
-> 1997, c. 15, s. 10.
+> 1997, c. 15, s. 10; 2005, c. 54, s. 30.
 
 
 
 
 
-**Duty of registrant**
+**Duty of intermediary**
 
 **156.07** 
 
-- **(1)** Shares of a bank that are registered in the name of a registrant or registrant’s nominee and that are not beneficially owned by the registrant shall not be voted unless the registrant sends to the beneficial owner
-	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular, dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
-	- **(b)** a written request for voting instructions, except where the registrant has already received written voting instructions from the beneficial owner.
+- **(1)** Shares of a bank that are registered in the name of an intermediary or an intermediary’s nominee and not beneficially owned by the intermediary may not be voted unless the intermediary sends to the beneficial owner
+	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular and dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
+	- **(b)** a written request for voting instructions except if the intermediary has already received written voting instructions from the beneficial owner.
 
 **When documents to be sent**
 
-- **(2)** The documents to be sent to the beneficial owner under subsection (1) shall be sent by the registrant without delay after the registrant receives the documents referred to in paragraph (1)(a).
+- **(2)** The intermediary shall send the documents referred to in subsection (1) without delay after they receive the documents referred to in paragraph (1)(a).
 
-**Where registrant not to vote shares**
+**Restriction on voting**
 
-- **(3)** A registrant shall not vote or appoint a proxyholder to vote shares of a bank registered in the registrant’s name or in the name of the registrant’s nominee that the registrant does not beneficially own unless the registrant receives voting instructions from the beneficial owner.
+- **(3)** An intermediary or a proxyholder appointed by them may not vote shares that the intermediary does not beneficially own and that are registered in the name of the intermediary or their nominee unless the intermediary or proxyholder, as the case may be, receives written voting instructions from the beneficial owner.
 
 **Copies**
 
-- **(4)** A person by or on behalf of whom a solicitation is made shall, at the request of a registrant, without delay provide the registrant, at the person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
+- **(4)** A person by or on behalf of whom a solicitation is made shall on request and without delay provide the intermediary, at the person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
 
-**Instructions to registrant**
+**Instructions to intermediary**
 
-- **(5)** A registrant shall vote or appoint a proxyholder to vote any shares referred to in subsection (1) in accordance with any written voting instructions received from the beneficial owner.
+- **(5)** The intermediary shall vote or appoint a proxyholder to vote in accordance with any written voting instructions received from the beneficial owner.
 
 **Beneficial owner as proxyholder**
 
-- **(6)** If requested by a beneficial owner, a registrant shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
+- **(6)** If a beneficial owner so requests and provides an intermediary with the appropriate documentation, the intermediary shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
 
-**Default of registrant: effect**
+**Effect of intermediary’s failure to comply**
 
-- **(7)** The failure of a registrant to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or any action taken at the meeting.
+- **(7)** The failure of an intermediary to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or any action taken at the meeting.
 
-**Right of registrant limited**
+**Intermediary may not vote**
 
-- **(8)** Nothing in this Part gives a registrant the right to vote shares that the registrant is otherwise prohibited from voting.
-> 1997, c. 15, s. 10.
+- **(8)** Nothing in this Part gives an intermediary the right to vote shares that they are otherwise prohibited from voting.
+> 1997, c. 15, s. 10; 2005, c. 54, s. 31.
+
+
+
+
+
+**Exemption**
+
+**156.071** The Governor in Council may make regulations respecting the conditions under which a bank is exempt from any of the requirements of sections 156.02 to 156.07.
+> 2005, c. 54, s. 31.
 
 
 
@@ -3514,6 +3606,19 @@ but does not include
 **Election at annual meeting**
 
 - **(2)** A by-law made pursuant to subsection (1) that provides for a minimum and maximum number of directors may provide that the number of directors to be elected at any annual meeting of the shareholders be such number as is fixed by the directors prior to the annual meeting.
+
+
+
+
+**Election or appointment as director**
+
+**165.1** The election or appointment of a person as a director is subject to the following:
+- **(a)** the person was present at the meeting when the election or appointment took place and did not refuse to hold office as a director; or
+- **(b)** the person was not present at the meeting when the election or appointment took place but
+	- **(i)** consented in writing to hold office as a director before the election or appointment or within 10 days after it, or
+	- **(ii)** acted as a director after the election or appointment.
+> 2005, c. 54, s. 32.
+
 
 
 
@@ -3853,7 +3958,9 @@ is entitled to submit to the bank a written statement giving the reasons for the
 
 **Director continues to be present**
 
-- **(3)** Any director present at a meeting of directors who is not present at any particular time during the meeting for the purposes of subsection 203(1) shall be considered as being present for the purposes of this section.
+- **(3)** A director who is present at a meeting of directors or of a committee of directors but is not, in accordance with subsection 203(1), present at any particular time during the meeting is considered to be present for the purposes of this section.
+> 1991, c. 46, s. 182; 2005, c. 54, s. 36.
+
 
 
 
@@ -3926,7 +4033,11 @@ is entitled to submit to the bank a written statement giving the reasons for the
 **Filing committee resolution**
 
 - **(4)** A copy of the resolution referred to in subsection (3) shall be kept with the minutes of the proceedings of that committee.
-> 1997, c. 15, s. 20.
+
+**Evidence**
+
+- **(5)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 1997, c. 15, s. 20; 2005, c. 54, s. 37.
 
 
 
@@ -4184,15 +4295,15 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **198** The directors of a bank may not delegate any of the following powers, namely, the power to
 - **(a)** submit to the shareholders a question or matter requiring the approval of the shareholders;
-- **(b)** fill a vacancy among the directors or a committee of directors or in the office of auditor;
-- **(c)** issue or cause to be issued securities except in the manner and on terms authorized by the directors;
+- **(b)** fill a vacancy among the directors, on a committee of directors or in the office of auditor, or appoint additional directors;
+- **(c)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 62, except in accordance with any authorization made by the directors;
 - **(d)** declare a dividend;
 - **(e)** authorize the redemption or other acquisition by the bank pursuant to section 71 of shares issued by the bank;
 - **(f)** authorize the payment of a commission on a share issue;
 - **(g)** approve a management proxy circular;
 - **(h)** except as provided in this Act, approve the annual statement of the bank and any other financial statements issued by the bank; or
 - **(i)** adopt, amend or repeal by-laws.
-> 1991, c. 46, s. 198; 1997, c. 15, s. 25.
+> 1991, c. 46, s. 198; 1997, c. 15, s. 25; 2005, c. 54, s. 38.
 
 
 
@@ -4241,43 +4352,43 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **202** 
 
-- **(1)** A director or an officer of a bank who
-	- **(a)** is a party to a material contract or proposed material contract with the bank,
-	- **(b)** is a director or an officer of any entity that is a party to a material contract or proposed material contract with the bank, or
-	- **(c)** has a material interest in any person who is a party to a material contract or proposed material contract with the bank
-shall disclose in writing to the bank or request to have entered in the minutes of the meetings of directors the nature and extent of that interest.
+- **(1)** A director or officer of a bank shall disclose to the bank, in writing or by requesting to have it entered in the minutes of a meeting of directors or a meeting of a committee of directors, the nature and extent of any interest they have in a material contract or material transaction with the bank, whether entered into or proposed, if they
+	- **(a)** are a party to the contract or transaction;
+	- **(b)** are a director or officer of a party to the contract or transaction or a person acting in a similar capacity; or
+	- **(c)** have a material interest in a party to the contract or transaction.
 
-**Time of disclosure for director**
+**Time of disclosure — director**
 
-- **(2)** The disclosure required by subsection (1) shall be made, in the case of a director,
-	- **(a)** at the meeting of directors at which a proposed contract is first considered;
-	- **(b)** if the director was not then interested in a proposed contract, at the first meeting after the director becomes so interested;
-	- **(c)** if the director becomes interested after a contract is made, at the first meeting after the director becomes so interested; or
-	- **(d)** if a person who is interested in a contract later becomes a director, at the first meeting after that person becomes a director.
+- **(2)** The disclosure shall be made in the case of a director
+	- **(a)** at the meeting of directors, or of a committee of directors, at which the proposed contract or transaction is first considered;
+	- **(b)** if at the time of the meeting referred to in paragraph (a) the director was not interested in the proposed contract or transaction, at the first one after they become interested in it;
+	- **(c)** if the director becomes interested after a contract or transaction is entered into, at the first one after they become interested; or
+	- **(d)** if a person who is interested in a contract or transaction becomes a director, at the first one after they become a director.
 
-**Time of disclosure for officer**
+**Time of disclosure — officer**
 
-- **(3)** The disclosure required by subsection (1) shall be made, in the case of an officer who is not a director,
-	- **(a)** forthwith after the officer becomes aware that a proposed contract is to be considered or a contract has been considered at a meeting of directors;
-	- **(b)** if the officer becomes interested after a contract is made, forthwith after the officer becomes so interested; or
-	- **(c)** if a person who is interested in a contract later becomes an officer, forthwith after the person becomes an officer.
+- **(3)** The disclosure shall be made in the case of an officer who is not a director
+	- **(a)** immediately after they become aware that the contract, transaction, proposed contract or proposed transaction is to be considered or has been considered at a meeting of directors or of a committee of directors;
+	- **(b)** if they become interested after the contract or transaction is entered into, immediately after they become interested; or
+	- **(c)** if a person who is interested in a contract or transaction becomes an officer, immediately after they become an officer.
 
-**Time of disclosure for director or officer**
+**Time of disclosure — contract not requiring approval**
 
-- **(4)** If a material contract or proposed material contract is one that, in the ordinary course of business of the bank, would not require approval by the directors or shareholders, a director or an officer referred to in subsection (1) shall disclose in writing to the bank or request to have entered in the minutes of meetings of directors the nature and extent of the director’s or officer’s interest forthwith after the director or officer becomes aware of the contract or proposed contract.
-
-
+- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the bank’s business would not require approval by the directors or shareholders, the director or officer shall disclose to the bank, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
+> 1991, c. 46, s. 202; 2005, c. 54, s. 39.
 
 
-**Where director must abstain**
+
+
+
+**Director to abstain**
 
 **203** 
 
-- **(1)** Where subsection 202(1) applies to a director in respect of a contract, the director shall not be present at any meeting of directors while the contract is being considered at the meeting or vote on any resolution to approve the contract unless the contract is
-	- **(a)** an arrangement by way of security for money lent to or obligations undertaken by the director for the benefit of the bank or a subsidiary of the bank;
-	- **(b)** a contract relating primarily to the director’s remuneration as a director or an officer, employee or agent of the bank or a subsidiary of the bank or an entity controlled by the bank or an entity in which the bank has a substantial investment;
-	- **(c)** a contract for indemnity under section 212 or for insurance under section 213; or
-	- **(d)** a contract with an affiliate of the bank.
+- **(1)** A director who is required to make a disclosure under subsection 202(1) shall not be present at any meeting of directors, or of a committee of directors, while the contract or transaction is being considered or vote on any resolution to approve it unless the contract or transaction
+	- **(a)** relates primarily to their remuneration as a director, officer, employee or agent of the bank, an entity controlled by the bank or an entity in which the bank has a substantial investment;
+	- **(b)** is for indemnity under section 212 or insurance under section 213; or
+	- **(c)** is with an affiliate of the bank.
 
 **Ineligibility**
 
@@ -4286,16 +4397,25 @@ shall disclose in writing to the bank or request to have entered in the minutes 
 **Validity of acts**
 
 - **(3)** An act of the board of directors of a bank, or of a committee of the board of directors, is not invalid because a person acting as a director had ceased under subsection (2) to hold office as a director.
-> 1991, c. 46, s. 203; 1997, c. 15, s. 26.
+> 1991, c. 46, s. 203; 1997, c. 15, s. 26; 2005, c. 54, s. 40.
 
 
 
 
 
-**Continuing disclosure**
+**General notice**
 
-**204** For the purposes of subsection 202(1), a general notice to the directors by a director or an officer declaring that the director or officer is a director or officer of an entity, or has a material interest in a person, and is to be regarded as interested in any contract made with that entity or person, is a sufficient declaration of interest in relation to any contract so made.
-> 1991, c. 46, s. 204; 2001, c. 9, s. 77.1(F).
+**204** 
+
+- **(1)** For the purposes of subsection 202(1), a general notice to the directors declaring that a director or officer is to be regarded as interested for any of the following reasons in a contract or transaction entered into with a party is a sufficient declaration of interest in relation to any contract or transaction with that party:
+	- **(a)** the director or officer is a director or officer of a party referred to in paragraph 202(1)(b) or (c) or a person acting in a similar capacity;
+	- **(b)** the director or officer has a material interest in the party; or
+	- **(c)** there has been a material change in the nature of the director’s or officer’s interest in the party.
+
+**Access to disclosures**
+
+- **(2)** The shareholders of the bank may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 202(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the bank.
+> 1991, c. 46, s. 204; 2001, c. 9, s. 77.1(F); 2005, c. 54, s. 41.
 
 
 
@@ -4303,17 +4423,30 @@ shall disclose in writing to the bank or request to have entered in the minutes 
 
 **Avoidance standards**
 
-**205** A material contract between a bank and one or more of its directors or officers, or between a bank and another entity of which a director or an officer of the bank is a director or an officer or between a bank and a person in which the director or officer has a material interest, is neither void nor voidable
-- **(a)** by reason only of that relationship, or
-- **(b)** by reason only that a director with an interest in the contract is present at or is counted to determine the presence of a quorum at the meeting of directors or the committee of directors that authorized the contract,
-if the director or officer disclosed the interest in accordance with subsection 202(2), (3) or (4) or section 204 and the contract was approved by the directors or the shareholders and it was reasonable and fair to the bank at the time it was approved.
+**205** 
+
+- **(1)** A contract or transaction for which disclosure is required under subsection 202(1) is not invalid and a director or officer is not accountable to the bank or its shareholders for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
+	- **(a)** the director or officer disclosed their interest in accordance with section 202 and subsection 204(1);
+	- **(b)** the directors approved the contract or transaction; and
+	- **(c)** the contract or transaction was reasonable and fair to the bank at the time that it was approved.
+
+**Confirmation by shareholders**
+
+- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the bank or its shareholders for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
+	- **(a)** the contract or transaction is approved or confirmed by special resolution at a meeting of shareholders;
+	- **(b)** disclosure of the interest was made to the shareholders in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
+	- **(c)** the contract or transaction was reasonable and fair to the bank at the time that it was approved or confirmed.
+> 1991, c. 46, s. 205; 2005, c. 54, s. 41.
 
 
 
 
-**Application to court**
 
-**206** Where a director or an officer of a bank fails to disclose an interest in a material contract in accordance with sections 202 and 204, a court may, on the application of the bank or a shareholder of the bank, set aside the contract on such terms as the court thinks fit.
+**Court may set aside or require accounting**
+
+**206** If a director or officer of a bank fails to comply with any of sections 202 to 205, a court, on application of the bank or any of its shareholders, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the bank for any profit or gain realized on it.
+> 1991, c. 46, s. 206; 2005, c. 54, s. 41.
+
 
 
 
@@ -5012,7 +5145,7 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 **Access to bank records**
 
-- **(5)** Shareholders and creditors of a bank and their personal representatives may examine the records referred to in subsection 238(1) during the usual business hours of the bank, and may take extracts therefrom, free of charge, or have copies made thereof on payment of a reasonable fee and, where the bank is a distributing bank within the meaning of subsection 265(1), any other person may, on payment of a reasonable fee, examine such records and take extracts therefrom or copies thereof.
+- **(5)** Shareholders and creditors of a bank and their personal representatives may examine the records referred to in subsection 238(1) during the usual business hours of the bank and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the bank is a distributing bank, any other person may on payment of a reasonable fee examine those records during the usual business hours of the bank and take extracts from them or have copies of them made.
 
 **Electronic access**
 
@@ -5021,7 +5154,7 @@ if the director or officer disclosed the interest in accordance with subsection 
 **Copies of by-laws**
 
 - **(6)** Every shareholder of a bank is entitled, on request made not more frequently than once in each calendar year, to receive, free of charge, one copy of the by-laws of the bank.
-> 1991, c. 46, s. 239; 2001, c. 9, s. 88.
+> 1991, c. 46, s. 239; 2001, c. 9, s. 88; 2005, c. 54, s. 50.
 
 
 
@@ -5041,9 +5174,9 @@ if the director or officer disclosed the interest in accordance with subsection 
 	- **(c)** an undertaking that the basic list and any supplemental lists obtained pursuant to subsections (5) and (6) will not be used except as permitted under section 242,
 and, if the applicant is an entity, the affidavit shall be made by a director or an officer of the entity, or any person acting in a similar capacity.
 
-**Entitlement**
+**Entitlement to list**
 
-- **(3)** Every shareholder or creditor of a bank or the personal representative of a shareholder or creditor of a bank is entitled to a basic list of shareholders of the bank, but, if the bank is a distributing bank within the meaning of subsection 265(1), any person is entitled to a basic list of shareholders of the bank on request therefor.
+- **(3)** A shareholder or creditor of a bank or their personal representative — or if the bank is a distributing bank, any person — is entitled to a basic list of shareholders of the bank.
 
 **Basic list**
 
@@ -5061,6 +5194,8 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 - **(6)** A bank or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
+> 1991, c. 46, s. 240; 2005, c. 54, s. 51.
+
 
 
 
@@ -5196,10 +5331,28 @@ the registers and records required or authorized by this Act to be prepared and 
 
 - **(2)** For the purposes of subsection (1), “central securities register” includes similar registers required by law to be maintained by a bank that was in existence immediately prior to the day that subsection comes into force or by a body corporate continued, or amalgamated and continued, as a bank under this Act before the continuance, amalgamation or coming into force of that subsection, as the case may be.
 
-**Application of certain provisions**
+**Access to central securities register**
 
-- **(3)** Subsections 239(5) and (5.1) and sections 240 and 242 to 245 apply, with any modifications that the circumstances require, in respect of a central securities register.
-> 1991, c. 46, s. 248; 2001, c. 9, s. 90.
+- **(3)** Shareholders and creditors of a bank and their personal representatives may examine the central securities register during the usual business hours of the bank and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the bank is a distributing bank, any other person may on payment of a reasonable fee examine the central securities register during the usual business hours of the bank and take extracts from it or have copies of it made.
+
+**Electronic access**
+
+- **(4)** The bank may make the information contained in the central securities register available by any mechanical or electronic data processing system or other information storage device that is capable of reproducing it in intelligible written form within a reasonable time.
+
+**Affidavit and undertaking**
+
+- **(5)** A person who wishes to examine the central securities register, take extracts from it or have copies of it made shall provide the bank with an affidavit containing their name and address — or if they are an entity, the name and address for service of the entity — and with an undertaking that the information contained in the register will not be used except in the same way as a list of shareholders may be used under section 242. In the case of an entity, the affidavit is to be sworn by a director or officer of the entity or a person acting in a similar capacity.
+
+**Supplemental information**
+
+- **(6)** A person who wishes to examine a central securities register, take extracts from it or have copies of it made may on payment of a reasonable fee, if they state in the accompanying affidavit that supplementary information is required, request the bank or its agent to provide supplementary information setting out any changes made to the register.
+
+**When supplementary information to be provided**
+
+- **(7)** A bank or its agent shall provide the supplementary information within
+	- **(a)** 10 days after the day on which the central securities register is examined if the changes take place before that day; and
+	- **(b)** 10 days after the day to which the supplementary information relates if the changes take place on or after the day on which the central securities register is examined.
+> 1991, c. 46, s. 248; 2001, c. 9, s. 90; 2005, c. 54, s. 53.
 
 
 
@@ -5275,7 +5428,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **Corporate seal**
 
-**256** An instrument or agreement executed on behalf of a bank by a director, an officer or an agent of the bank is not invalid merely because a corporate seal is not affixed thereto.
+**256** 
+
+- **(1)** A bank may adopt a corporate seal and change one that it adopted.
+
+**Validity of unsealed documents**
+
+- **(2)** A document executed on behalf of a bank is not invalid merely because a corporate seal is not affixed to it.
+> 1991, c. 46, s. 256; 2005, c. 54, s. 54.
+
 
 
 
@@ -5296,16 +5457,13 @@ the registers and records required or authorized by this Act to be prepared and 
 
 ***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2);
 
-***business combination*** means an acquisition of all or substantially all the assets of one body corporate by another body corporate or an amalgamation of two or more bodies corporate;
+***business combination*** means an acquisition of all or substantially all of the assets of one body corporate by another, an amalgamation of two or more bodies corporate or any similar reorganization between two or more bodies corporate;
 
 ***call*** means an option, transferable by delivery, to demand delivery of a specified number or amount of shares at a fixed price within a specified time but does not include an option or right to acquire shares of the body corporate that granted the option or right to acquire;
 
-***distributing bank*** means a bank, any of the issued securities of which are or were part of a distribution to the public and remain outstanding and are held by more than one person;
+***distributing bank***[Repealed, 2005, c. 54, s. 55]
 
-***insider*** means, except in subsections 271(2) and 272(1),
-- **(a)** a director or an officer of a distributing bank,
-- **(b)** a distributing bank that purchases or otherwise acquires, except by means of a donation or redemption, shares issued by it or by any of its affiliates, or
-- **(c)** a person who beneficially owns more than 10 per cent of the shares of a distributing bank or who exercises control or direction over more than 10 per cent of the votes attached to shares of a distributing bank, excluding shares owned by a securities underwriter under an underwriting agreement while those shares are in the course of a distribution to the public;
+***insider***[Repealed, 2005, c. 54, s. 55]
 
 ***officer***, in relation to a bank, means
 - **(a)** an officer as defined in paragraph (a) of the definition ***officer*** in section 2, or
@@ -5321,21 +5479,9 @@ the registers and records required or authorized by this Act to be prepared and 
 
 - **(2)** For the purposes of this section and sections 266 to 272, a person controls a body corporate when the person controls the body corporate within the meaning of section 3, determined without regard to paragraph 3(1)(d).
 
-**Deemed insiders and beneficial owners**
+- **(3) and (4)** [Repealed, 2005, c. 54, s. 55]
+> 1991, c. 46, s. 265; 2005, c. 54, s. 55.
 
-- **(3)** For the purposes of this section and sections 266 to 272,
-	- **(a)** a director or an officer of a body corporate that is an insider of a distributing bank is deemed to be an insider of the distributing bank;
-	- **(b)** a director or an officer of a body corporate that is a subsidiary of a distributing bank is deemed to be an insider of the distributing bank;
-	- **(c)** a person is deemed to beneficially own shares beneficially owned by a body corporate controlled directly or indirectly by that person;
-	- **(d)** a body corporate is deemed to beneficially own shares beneficially owned by its affiliates; and
-	- **(e)** the acquisition or disposition by an insider of an option or right to acquire a share is deemed to be a change in the beneficial ownership of the share to which the option or right to acquire relates.
-
-**Becoming an insider**
-
-- **(4)** For the purposes of this section and sections 266 to 272,
-	- **(a)** if a body corporate becomes an insider of a distributing bank or enters into a business combination with a distributing bank, or
-	- **(b)** if a distributing bank becomes an insider of a body corporate,
-every director or officer of the body corporate and every shareholder of the body corporate who is a person referred to in paragraph (c) of the definition ***insider*** in subsection (1) is deemed to have been an insider of the distributing bank for the previous six months or for such shorter period as the director, officer or shareholder was a director, officer or shareholder of the body corporate.
 
 
 
@@ -5344,79 +5490,40 @@ every director or officer of the body corporate and every shareholder of the bod
 
 
 
-**First insider report**
+**Insider report**
 
-**266** 
+**266** An insider shall submit an insider report in accordance with the regulations.
+> 1991, c. 46, s. 266; 1997, c. 15, s. 31; 2005, c. 54, s. 56.
 
-- **(1)** An insider shall send to the Superintendent an insider report in prescribed form not later than ten days after the later of
-	- **(a)** the end of the month in which the person became an insider, and
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force.
-
-- **(2)** [Repealed, 1997, c. 15, s. 31]
-
-**Where bank continued**
-
-- **(3)** A person who is an insider of a body corporate on the day it is continued as a bank under this Act shall, if the bank is a distributing bank, send to the Superintendent an insider report in prescribed form not later than ten days after
-	- **(a)** the end of the month in which the body corporate is continued under this Act, or
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force,
-whichever is later.
-
-**Constructive insider**
-
-- **(4)** A person who is deemed to have been an insider under subsection 265(4) shall, not later than ten days after
-	- **(a)** the end of the month in which the person is deemed to have become an insider, or
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force,
-whichever is later, send to the Superintendent, in prescribed form and for the period in respect of which the person is deemed to have been an insider, the insider report that the person would have been required to send under this section had the person been otherwise an insider for that period.
-> 1991, c. 46, s. 266; 1997, c. 15, s. 31.
-
-
-
-
-
-**Subsequent insider report**
-
-**267** An insider whose interest in securities of a distributing bank changes from that shown or required to be shown in the last insider report sent or required to be sent by the insider shall, within ten days after the end of the month in which the change takes place, send to the Superintendent an insider report in prescribed form.
-
-
-
-
-**Exemption by regulation**
-
-**267.1** Under prescribed circumstances, an insider is exempt from any of the requirements of section 266 or 267.
-> 1997, c. 15, s. 32.
-
-
-
-
-
-**One insider report**
-
-**268** 
-
-- **(1)** An insider report of a person that includes securities deemed to be beneficially owned by that person is deemed to be an insider report of a body corporate referred to in paragraph 265(3)(c) and the body corporate is not required to send a separate insider report.
-
-**Deemed report**
-
-- **(2)** An insider report of a body corporate that includes securities deemed to be beneficially owned by the body corporate is deemed to be an insider report of an affiliate referred to in paragraph 265(3)(d) and the affiliate is not required to send a separate insider report.
-
-**Contents**
-
-- **(3)** An insider report of a person that includes securities deemed to be beneficially owned by that person pursuant to paragraph 265(3)(c) or (d) shall disclose separately
-	- **(a)** the number of securities owned by a body corporate; and
-	- **(b)** the name of the body corporate.
 
 
 
 
 **Exemption by Superintendent**
 
-**269** 
+**267** On application by an insider, the Superintendent may in writing and on any terms that the Superintendent thinks fit exempt the insider from any of the requirements of section 266. The exemption may be given retroactive effect and the Superintendent shall publish the partic­ulars of the exemption and the reasons for it in a periodical available to the public.
+> 1991, c. 46, s. 267; 2005, c. 54, s. 56.
 
-- **(1)** On an application by or on behalf of an insider, the Superintendent may, in writing, on such terms as the Superintendent thinks fit, exempt the insider from any of the requirements of sections 266 to 268, and the exemption may be given retroactive effect.
 
-**Publication**
 
-- **(2)** The Superintendent shall summarize or cause to be summarized in a periodical available to the public the information contained in insider reports sent to the Superintendent under sections 266 to 268 and the particulars of exemptions granted under subsection (1) together with the reasons therefor.
+
+**267.1** [Repealed, 2005, c. 54, s. 56]
+
+
+
+
+**Regulations**
+
+**268** The Governor in Council may make regulations for carrying out the purposes of sections 266 and 267, including
+- **(a)** defining ***insider*** for the purposes of sections 266 and 267;
+- **(b)** respecting the form and content of an insider report; and
+- **(c)** respecting the submission or publication of an insider report.
+> 1991, c. 46, s. 268; 2005, c. 54, s. 56.
+
+
+
+
+**269** [Repealed, 2005, c. 54, s. 56]
 
 
 
@@ -5425,64 +5532,130 @@ whichever is later, send to the Superintendent, in prescribed form and for the p
 
 
 
-**Short selling prohibited**
+**Meaning of insider**
 
 **270** 
 
-- **(1)** An insider shall not knowingly sell, directly or indirectly, a share of the distributing bank or any of its affiliates if the insider does not own or has not fully paid for the share to be sold.
+- **(1)** In this section, ***insider*** means with respect to a distributing bank
+	- **(a)** a director or officer of the bank;
+	- **(b)** a director or officer of a subsidiary of the bank;
+	- **(c)** a director or officer of a body corporate that enters into a business combination with the bank; or
+	- **(d)** a person employed or retained by the bank.
 
-**Exception for convertible shares**
+**Prohibition — short sale**
 
-- **(2)** Notwithstanding subsection (1), an insider may sell a share that the insider does not own if the insider owns another share convertible into the share sold or an option or right to acquire the share sold and, within ten days after the sale, the insider
-	- **(a)** exercises the conversion privilege, option or right and delivers the share so acquired to the purchaser; or
-	- **(b)** transfers the convertible share, option or right to the purchaser.
+- **(2)** No insider may knowingly sell, directly or indirectly, a security of a distributing bank or of any of the distributing bank’s affiliates if the insider does not own or has not fully paid for the security.
 
-**Prohibited calls and puts**
+**Exception**
 
-- **(3)** An insider shall not, directly or indirectly, buy or sell a call or put in respect of a share of the bank or any of its affiliates.
+- **(3)** Despite subsection (2), an insider may sell a security that they do not own if they own another security that is convertible into the security that was sold or they own an option or right to acquire the security that was sold, and if within 10 days after the sale they
+	- **(a)** exercise the conversion privilege, option or right and deliver the security so acquired to the purchaser; or
+	- **(b)** transfer the convertible security, option or right to the purchaser.
+
+**Prohibition — calls and puts**
+
+- **(4)** No insider may knowingly, directly or indirectly, buy or sell a call or put in respect of a security of a bank or of any of the bank’s affiliates.
+> 1991, c. 46, s. 270; 2005, c. 54, s. 57.
 
 
 
 
-#### Civil Remedies
+
+#### Civil remedies
 
 
 
-**Extended meaning of “insider”**
+**Extended meaning of insider**
 
 **271** 
 
-- **(1)** In subsections (2) and 272(1), “insider” means, with respect to a bank,
+- **(1)** In this section and sections 271.1 and 272, ***insider*** with respect to a bank means
 	- **(a)** the bank;
 	- **(b)** an affiliate of the bank;
-	- **(c)** a director or an officer of the bank;
-	- **(d)** a person who beneficially owns more than 10 per cent of the shares of the bank or who exercises control or direction over more than 10 per cent of the votes attached to the shares of the bank;
-	- **(e)** a person employed or retained by the bank; and
-	- **(f)** a person who receives specific confidential information from a person described in this section, including a person described in this paragraph, and who has knowledge that the person giving the information is a person described in this section, including a person described in this paragraph.
+	- **(c)** a director or officer of the bank or of any person described in paragraph (b), (d) or (f);
+	- **(d)** a person who beneficially owns directly or indirectly, or who exercises control or direction over or has a combination of ownership, control and direction in respect of, shares of the bank carrying more than the prescribed percentage of the voting rights attached to all of the bank’s outstanding shares not including shares held by the person as underwriter while those shares are in the course of a distribution to the public;
+	- **(e)** a person, other than a person described in paragraph (f), who is employed or retained by the bank or by a person described in paragraph (f);
+	- **(f)** a person who engages in or proposes to engage in any business or professional activity with or on behalf of the bank;
+	- **(g)** a person who received material confidential information concerning the bank while they were a person described in any of paragraphs (a) to (f);
+	- **(h)** a person who receives material confidential information from a person who is and who they know or ought reasonably to have known is a person described in this subsection, including in this paragraph, or subsection (3) or (4); or
+	- **(i)** a prescribed person.
 
-**Deemed insider**
+**Extended meaning of security**
 
-- **(2)** For the purposes of subsection 272(1),
-	- **(a)** if a body corporate becomes an insider of a bank or enters into a business combination with a bank, or
-	- **(b)** if a bank becomes an insider of a body corporate,
-every director or officer of the body corporate is deemed to have been an insider of the bank for the previous six months or for such shorter period as the director or officer was a director or officer of the body corporate.
+- **(2)** For the purposes of this section, each of the following is deemed to be a security of a bank:
+	- **(a)** a put, call, option or other right or obligation to purchase or sell a security of the bank; and
+	- **(b)** a security of another entity, the market price of which varies materially with the market price of the securities of the bank.
+
+**Deemed insider — take-over bid or business combination**
+
+- **(3)** For the purposes of this section and subsection 271.1(1), a person who proposes to make a take-over bid as defined in the regulations for securities of a bank or to enter into a business combination with a bank is an insider of the bank with respect to material confidential information obtained from the bank.
+
+**Deemed insider — affiliate or associate**
+
+- **(4)** An insider of a person referred to in subsection (3), or the person’s affiliate or associate, is an insider of the bank referred to in that subsection. Paragraphs (1)(b) to (i) apply in making this determination except that references to “bank” are to be read as references to “person described in subsection (3)”.
+
+**Meaning of associate**
+
+- **(5)** In subsection (4), ***associate*** means with respect to a person
+	- **(a)** a body corporate that the person directly or indirectly controls, determined without regard to paragraph 3(1)(d), or of which they beneficially own shares or securities currently convertible into shares carrying more than 10% of the voting rights under all circumstances or by reason of the occurrence of an event that has occurred and is continuing or a currently exercisable option or right to purchase the shares or convertible securities;
+	- **(b)** a partner of the person acting on behalf of the partnership of which they are partners;
+	- **(c)** a trust or estate in which the person has a substantial beneficial interest or in respect of which they serve as a trustee or a liquidator of the succession or in a similar capacity;
+	- **(d)** a spouse or common-law partner of the person;
+	- **(e)** a child of the person or of their spouse or common-law partner; or
+	- **(f)** if that relative has the same residence as the person, a relative of the person or of their spouse or common-law partner.
+
+**Insider trading — compensation to sellers and purchasers**
+
+- **(6)** An insider of a bank who purchases or sells a security of the bank with knowledge of confidential information that if it were generally known might reasonably be expected to materially affect the value of any of the securities of the bank is liable to compensate the seller or purchaser of the security, as the case may be, for any loss suffered by them as a result of the purchase or sale unless the insider establishes that
+	- **(a)** the insider reasonably believed that the information had been generally disclosed;
+	- **(b)** the information was known or ought reasonably to have been known by the seller or purchaser; or
+	- **(c)** the purchase or sale of the security took place in the prescribed circumstances.
+
+**Insider trading — compensation to bank**
+
+- **(7)** The insider is accountable to the bank for any benefit or advantage received or receivable by the insider as a result of a purchase or sale described in subsection (6) unless they establish the circumstances described in paragraph (6)(a).
+> 1991, c. 46, s. 271; 2005, c. 54, s. 57.
 
 
 
 
-**Civil liability**
+
+**Tipping — compensation to sellers and purchasers**
+
+**271.1** 
+
+- **(1)** An insider of a bank who discloses confidential information with respect to the bank that has not been generally disclosed and that if it were generally known might reasonably be expected to materially affect the value of any of the securities of the bank is liable to compensate any person who subsequently sells securities of the bank to or purchases them from any person who received the information unless the insider establishes that
+	- **(a)** the insider reasonably believed that the information had been generally disclosed;
+	- **(b)** the information was known or ought reasonably to have been known by the person who alleges that they suffered the loss;
+	- **(c)** if the insider is not a person described in subsection 271(3) or (4), the disclosure of the information was necessary in the course of their business; or
+	- **(d)** if the insider is a person described in subsection 271(3) or (4), the disclosure of the information was necessary to effect the take-over bid or business combination.
+
+**Tipping — compensation to bank**
+
+- **(2)** The insider is accountable to the bank for any benefit or advantage received or receivable by them as a result of a disclosure of information as described in subsection (1) unless they establish the circumstances described in paragraph (1)(a), (c) or (d).
+> 2005, c. 54, s. 57.
+
+
+
+
+
+**Measure of damages**
 
 **272** 
 
-- **(1)** An insider who, in connection with a transaction in a security of the bank or any of its affiliates, makes use of any specific confidential information for the insider’s own benefit or advantage that, if generally known, might reasonably be expected to affect materially the value of the security
-	- **(a)** is liable to compensate any person for any direct loss suffered by that person as a result of the transaction, unless the information was known or in the exercise of reasonable diligence should have been known to that person; and
-	- **(b)** is accountable to the bank for any direct benefit or advantage received or receivable by the insider as a result of the transaction.
+- **(1)** The court may assess damages under subsection 271(6) or 271.1(1) in accord­ance with any measure of damages that it considers relevant in the circumstances. However, in assessing damages in respect of a security of a distributing bank, the court shall consider the following:
+	- **(a)** if the plaintiff is a purchaser, the price that they paid for the security less the average market price of the security over the 20 trading days immediately following general disclosure of the information; and
+	- **(b)** if the plaintiff is a seller, the average market price of the security over the 20 trading days immediately following general disclosure of the information, less the price that they received for the security.
 
-**Limitation of action**
+**Liability — more than one insider**
 
-- **(2)** An action to enforce a right created by subsection (1) may not be commenced
-	- **(a)** after a period of two years after discovery of the facts that gave rise to the cause of action; or
-	- **(b)** if the transaction was required to be reported under sections 266 to 268, after a period of two years from the time of reporting under those sections.
+- **(2)** If more than one insider is liable under subsection 271(6) or 271.1(1) with respect to the same transaction or series of transactions, their liability is joint and several, or solidary.
+
+**Limitation**
+
+- **(3)** An action to enforce a right created by subsection 271(6) or (7) or section 271.1 may be commenced only within two years after discovery of the facts that gave rise to the cause of action.
+> 1991, c. 46, s. 272; 2005, c. 54, s. 57.
+
 
 
 
@@ -5491,64 +5664,19 @@ every director or officer of the body corporate is deemed to have been an inside
 
 
 
-**Prospectus requirements**
+**Distribution**
 
 **273** 
 
-- **(1)** A bank shall not distribute any of its securities and a person shall not distribute any securities of a bank unless a preliminary prospectus and a prospectus in a form substantially as prescribed have been filed with the Superintendent in relation to the distribution and receipts have been received therefor from the Superintendent.
-
-**Idem**
-
-- **(2)** Where there is filed in any jurisdiction a preliminary prospectus, prospectus, short-form prospectus or similar document relating to the distribution of securities in a form substantially as prescribed, a copy of that document may be accepted by the Superintendent under subsection (1).
-
-**Meaning of distribution**
-
-- **(3)** For the purposes of this section and sections 274 to 282, “distribution” means
-	- **(a)** a trade by or on behalf of a bank in securities of the bank that have not previously been issued; or
-	- **(b)** a trade in previously issued securities of a bank from the holdings of any person or group of persons who act in concert and who hold in excess of 10 per cent of the shares of any class of voting shares of the bank.
-
-
-
-
-**Form and content**
-
-**274** 
-
-- **(1)** A preliminary prospectus in relation to the distribution of securities shall substantially comply with the requirements of this Act and any regulations made under subsection 275(1) respecting the form and content of a prospectus, except that any report or reports of the auditor or auditors of the bank required by the regulations need not be included.
-
-**Idem**
-
-- **(2)** A preliminary prospectus in relation to the distribution of securities need not include information in respect of the price to the securities underwriter or the offering price of any securities or any other matters dependent on or relating to that price.
-
-
-
+- **(1)** No person, including a bank, shall distribute securities of a bank except in accordance with the regulations made under subsection (2).
 
 **Regulations**
 
-**275** 
-
-- **(1)** The Governor in Council may make regulations
-	- **(a)** respecting the form and content of a preliminary prospectus and a prospectus;
-	- **(b)** specifying the financial statements, reports and other documents that are to be included with a preliminary prospectus and a prospectus;
-	- **(c)** respecting, for the purposes of subsection 279(1), the disclosure of material facts in relation to securities to be distributed;
-	- **(d)** respecting the distribution of a preliminary prospectus and a prospectus to prospective purchasers;
-	- **(e)** exempting any class of distributions from the application of sections 273, 274 and 276 to 282; and
-	- **(f)** generally, for carrying out the purposes and provisions of sections 273, 274 and 276 to 282.
-
-**Authority of Superintendent**
-
-- **(2)** Any regulation made under subsection (1) may authorize the Superintendent to permit or require additions to, variations in or omissions from
-	- **(a)** a preliminary prospectus or prospectus; or
-	- **(b)** any information, report or document contained or required to be contained in the preliminary prospectus or prospectus or related thereto.
-
-**Idem**
-
-- **(3)** Where a regulation described in subsection (2) has been made, the Superintendent may exercise the authority thereby given in any case where the Superintendent is satisfied that it is necessary to do so owing to the circumstances related to the issue of the securities concerned.
-
-**Idem**
-
-- **(4)** All additions, variations or omissions referred to in subsection (2) shall be made in accordance with the permission or requirement of the Superintendent under that subsection and shall be in accordance with such terms and conditions, if any, as the Superintendent may impose as being necessary to ensure, to the greatest extent possible, a full, true and plain disclosure of all material facts relating to the securities to be distributed.
-> 1991, c. 46, s. 275; 1994, c. 26, s. 5(F); 1999, c. 31, s. 11.
+- **(2)** The Governor in Council may make regulations respecting the distribution of securities of a bank, including
+	- **(a)** respecting the information that is to be disclosed by a bank before the distribution of any of its securities, including the information that is to be included in a prospectus;
+	- **(b)** respecting the manner of disclosure and the form of the information that is to be disclosed; and
+	- **(c)** exempting any class of distribution of securities from the application of subsection (1).
+> 1991, c. 46, s. 273; 2005, c. 54, s. 57.
 
 
 
@@ -5556,94 +5684,179 @@ every director or officer of the body corporate is deemed to have been an inside
 
 **Order of exemption**
 
-**276** 
+**274** 
 
-- **(1)** On application by a bank or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of sections 273, 274 and 277 to 282 if the Superintendent is satisfied that the bank has filed or is about to file, in compliance with the laws of the relevant jurisdiction, a prospectus relating to the distribution that, in form and content, substantially complies with the requirements of this Act and any regulations made under subsection 275(1).
+- **(1)** On application by a bank or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of any regulations made under subsection 273(2) if the Superintendent is satisfied that the bank has disclosed or is about to disclose, in compliance with the laws of the relevant jurisdiction, information relating to the distribution that in form and content substantially complies with the requirements of those regulations.
 
 **Conditions**
 
-- **(2)** An order under subsection (1) may contain such conditions or limitations as the Superintendent deems appropriate.
-> 1991, c. 46, s. 276; 1999, c. 31, s. 12.
+- **(2)** An order under subsection (1) may contain any conditions or limitations that the Superintendent deems appropriate.
+> 1991, c. 46, s. 274; 2005, c. 54, s. 57.
 
 
 
 
 
-**Receipt for preliminary prospectus**
+#### Going-private Transactions and Squeeze-out Transactions
+
+
+
+**Going-private transactions**
+
+**275** A bank may carry out a going-private transaction if it complies with any applicable provincial securities laws.
+> 1991, c. 46, s. 275; 1994, c. 26, s. 5(F); 1999, c. 31, s. 11; 2005, c. 54, s. 57.
+
+
+
+
+
+**Squeeze-out transactions**
+
+**276** No bank may carry out a squeeze-out transaction unless, in addition to any approval by holders of shares required by or under this Act or the bank’s by-laws, the transaction is approved by ordinary resolution of the holders of each class of shares affected by the transaction, voting separately, whether or not the shares otherwise carry the right to vote. However, the following do not have the right to vote on the resolution:
+- **(a)** affiliates of the bank; and
+- **(b)** holders of shares that following the squeeze-out transaction would be entitled to consideration of greater value or to superior rights or privileges than those available to other holders of shares of the same class.
+> 1991, c. 46, s. 276; 1999, c. 31, s. 12; 2005, c. 54, s. 57.
+
+
+
+
+
+**Right to dissent**
 
 **277** 
 
-- **(1)** The Superintendent shall issue a receipt for a preliminary prospectus forthwith on its filing with the Superintendent.
+- **(1)** A holder of shares of a bank may dissent if the bank resolves to carry out a going-private transaction or squeeze-out transaction that affects those shares.
 
-**Record to be maintained**
+**Payment for shares**
 
-- **(2)** A person proposing to distribute securities of a bank to which a preliminary prospectus relates shall maintain a record of all persons to whom a copy of the preliminary prospectus has been sent.
+- **(2)** In addition to any other right that the shareholder may have, but subject to subsection (25), a shareholder who complies with this section is, when the action approved by the resolution from which the shareholder dissents becomes effective, entitled to be paid by the bank the fair value of the shares in respect of which the shareholder dissents, determined as of the close of business on the day before the resolution was adopted by the shareholders.
 
-**Withdrawal of receipt**
+**No partial dissent**
 
-- **(3)** Where it appears to the Superintendent, after providing a reasonable opportunity to the person by whom the preliminary prospectus was filed to make representations, that a preliminary prospectus in respect of which a receipt has been issued under subsection (1) is defective in that it does not substantially comply with the requirements of this Act and the regulations, the receipt may be withdrawn and the person by whom the preliminary prospectus was filed shall forthwith be notified of its withdrawal.
+- **(3)** A dissenting shareholder may claim under this section only with respect to all of the shares of a class held on behalf of any one beneficial owner and registered in the name of the dissenting shareholder.
 
-**Notice**
+**Objection**
 
-- **(4)** Notice of withdrawal of a receipt under subsection (3) shall forthwith be sent by the person by whom the preliminary prospectus was filed to any persons proposing to take part in the distribution of the securities to which the preliminary prospectus relates and, by the bank and each such person, to each person named on the records maintained in respect of the preliminary prospectus by the bank and each such person.
+- **(4)** A dissenting shareholder shall send to the bank, at or before any meeting of shareholders at which a resolution referred to in subsection (2) is to be voted on by the shareholders, a written objection to the resolution unless the bank did not give notice to the shareholder of the purpose of the meeting and their right to dissent.
+
+**Notice that resolution was adopted**
+
+- **(5)** The bank shall within 10 days after the day on which the shareholders adopt the resolution send to each shareholder who sent an objection under subsection (4) notice that the resolution was adopted. If it is necessary for the Minister or Superintendent to approve the transaction within the meaning of subsection 973(1) before it becomes effective, the bank shall send notice within 10 days after the approval. Notice is not required to be sent to a shareholder who voted for the resolution or one who has withdrawn their objection.
+
+**Demand for payment**
+
+- **(6)** A dissenting shareholder shall within 20 days after receiving the notice referred to in subsection (5) — or, if they do not receive it, within 20 days after learning that the resolution was adopted by the shareholders — send to the bank a written notice containing
+	- **(a)** their name and address;
+	- **(b)** the number and class of shares in respect of which they dissent; and
+	- **(c)** a demand for payment of the fair value of those shares.
+
+**Share certificates**
+
+- **(7)** A dissenting shareholder shall within 30 days after sending a notice under subsection (6) send the certificates representing the shares in respect of which they dissent to the bank or its transfer agent.
+
+**Forfeiture**
+
+- **(8)** A dissenting shareholder who fails to comply with subsection (7) has no right to make a claim under this section.
+
+**Endorsing certificate**
+
+- **(9)** A bank or its transfer agent shall endorse on any share certificate received in accordance with subsection (7) a notice that the holder is a dissenting shareholder under this section and shall without delay return the share certificates to the dissenting shareholder.
+
+**Suspension of rights**
+
+- **(10)** On sending a notice under subsection (6), a dissenting shareholder ceases to have any rights as a shareholder other than to be paid the fair value of their shares as determined under this section. However, the shareholder’s rights are reinstated as of the date the notice was sent if
+	- **(a)** the shareholder withdraws the notice before the bank makes an offer under subsection (11);
+	- **(b)** the bank fails to make an offer in accordance with subsection (11) and the shareholder withdraws the notice; or
+	- **(c)** the directors revoke under section 220 the special resolution that was made in respect of the going-private transaction or squeeze-out transaction.
+
+**Offer to pay**
+
+- **(11)** A bank shall, no later than seven days after the later of the day on which the action approved by the resolution from which the shareholder dissents becomes effective and the day on which the bank received the notice referred to in subsection (6), send to each dissenting shareholder who sent a notice
+	- **(a)** a written offer to pay for their shares in an amount considered by the directors of the bank to be the fair value, accompanied by a statement showing how the fair value was determined; or
+	- **(b)** if subsection (25) applies, a notice that it is unable to lawfully pay dissenting shareholders for their shares.
+
+**Same terms**
+
+- **(12)** Every offer made under subsection (11) for shares of the same class or series is to be on the same terms.
+
+**Payment**
+
+- **(13)** Subject to subsection (25), a bank shall pay for the shares of a dissenting shareholder within 10 days after the day on which an offer made under subsection (11) is accepted, but the offer lapses if the bank does not receive an acceptance within 30 days after the day on which the offer is made.
+
+**Court may fix fair value**
+
+- **(14)** If a bank fails to make an offer under subsection (11) or if a dissenting shareholder fails to accept an offer, the bank may, within 50 days after the day on which the action approved by the resolution from which the shareholder dissents becomes effective or within any further period that a court may allow, apply to the court to fix a fair value for the shares of any dissenting shareholder.
+
+**Shareholder application**
+
+- **(15)** If a bank fails to apply to a court under subsection (14), a dissenting shareholder may apply to a court for the same purpose within a further period of 20 days or within any further period that the court may allow.
+
+**Venue**
+
+- **(16)** An application under subsection (14) or (15) is to be made to a court having jurisdiction where the bank’s head office is situated or, if the bank carries on business in the province in which the dissenting shareholder resides, in that province.
+
+**No security for costs**
+
+- **(17)** A dissenting shareholder is not required to give security for costs in an application made under subsection (14) or (15).
+
+**Parties and Superintendent**
+
+- **(18)** On an application to a court under subsection (14) or (15),
+	- **(a)** all dissenting shareholders whose shares have not been purchased by the bank are to be joined as parties and are bound by the decision of the court;
+	- **(b)** the bank shall notify each of them of the date, place and consequences of the application and their right to appear and be heard in person or by counsel; and
+	- **(c)** the bank shall notify the Superintendent of the date and place of the application and the Superintendent may appear and be heard in person or by counsel.
+
+**Powers of court**
+
+- **(19)** On an application to a court under subsection (14) or (15), the court may determine whether any other person is a dissenting shareholder and is to be joined as a party and the court shall then fix a fair value for the shares of all dissenting shareholders.
+
+**Appraisers**
+
+- **(20)** The court may appoint one or more appraisers to assist the court to fix a fair value for the shares of the dissenting shareholders.
+
+**Final order**
+
+- **(21)** The final order of the court is to be rendered against the bank in favour of each dissenting shareholder for the value of the shares as fixed by the court.
+
+**Interest**
+
+- **(22)** The court may allow a reasonable rate of interest on the amount payable to each dissenting shareholder from the date the action approved by the resolution from which the shareholder dissents becomes effective until the date of payment.
+
+**Notice that s. (25) applies**
+
+- **(23)** If subsection (25) applies, the bank shall within 10 days after an order is made under subsection (21) notify each dissenting shareholder that it is unable to lawfully pay dissenting shareholders for their shares.
+
+**Effect of s. (25)**
+
+- **(24)** If subsection (25) applies, a dissenting shareholder may by written notice delivered to the bank within 30 days after receiving notice under subsection (23)
+	- **(a)** withdraw their notice of dissent, in which case the bank is deemed to consent to the withdrawal and the shareholder is reinstated to their full rights as a shareholder; or
+	- **(b)** retain their status as a claimant against the bank, to be paid as soon as the bank is able to lawfully pay them or, in a liquidation, to be ranked subordinate to the rights of the bank’s creditors but in priority to its shareholders.
+
+**Limitation**
+
+- **(25)** A bank may not make a payment to a dissenting shareholder under this section if there are reasonable grounds for believing that the bank is or the payment would cause the bank to be in contravention of a regulation referred to in subsection 485(1) or (2) or of an order made under subsection 485(3).
+> 1991, c. 46, s. 277; 2005, c. 54, s. 57.
 
 
 
 
-**Receipt for prospectus**
-
-**278** 
-
-- **(1)** The Superintendent shall issue a receipt for a prospectus forthwith on its filing with the Superintendent unless, after providing a reasonable opportunity to the person by whom the prospectus was filed to make representations, it appears to the Superintendent that
-	- **(a)** the prospectus or any document required to be filed therewith
-		- **(i)** fails to substantially comply with any of the requirements of this Act or the regulations, or
-		- **(ii)** contains a misrepresentation or any statement, promise, estimate or forecast that is misleading, false or deceptive; or
-	- **(b)** it would not be in the public interest to issue a receipt for the prospectus.
-
-- **(2) to (4)** [Repealed, 1996, c. 6, s. 6]
-> 1991, c. 46, s. 278; 1996, c. 6, s. 6.
+**278** [Repealed, 2005, c. 54, s. 57]
 
 
 
-
-
-**Full disclosure**
-
-**279** 
-
-- **(1)** A prospectus shall provide full, true and plain disclosure of all material facts relating to the securities to be distributed and shall contain or be accompanied by such financial statements, reports or other documents as are required by any regulations made under subsection 275(1).
-
-**Certificate**
-
-- **(2)** A prospectus shall include a certificate in prescribed form signed
-	- **(a)** by the chief executive officer and the chief financial officer of the bank making the distribution or, in the event of the absence or inability to act of either of those officers, any other officer of the bank authorized by the directors to sign in the stead of the officer who is absent or unable to act, and such other persons as are prescribed, and
-	- **(b)** in the case of an initial distribution of shares of a bank, by each person who is a promoter of the bank,
-to the effect that, according to the person’s information, knowledge and belief, the disclosure required by subsection (1) and by any regulations made under subsection 275(1) has been provided.
-
-**Promoter**
-
-- **(3)** For the purposes of subsection (2) and section 281, “promoter” means an applicant for letters patent to incorporate a bank or a director named in the application for letters patent, but such an applicant or director is a promoter only for the period of two years following the application.
+**279** [Repealed, 2005, c. 54, s. 57]
 
 
 
-
-**Certificate of securities underwriter**
-
-**280** Where a securities underwriter is associated in the distribution of securities of a bank, a prospectus shall include a certificate in prescribed form signed by each securities underwriter who, with respect to the securities offered by the prospectus, is in a contractual relationship with the bank or other distributor of the securities, to the effect that, according to the securities underwriter’s information, knowledge and belief, the disclosure required by subsection 279(1) and by any regulations made under subsection 275(1) has been provided.
+**280** [Repealed, 2005, c. 54, s. 57]
 
 
 
-
-**Signature by agent**
-
-**281** With the consent of the Superintendent, an agent, duly authorized in writing, of a promoter or a securities underwriter referred to in subsection 279(2) or section 280 may, on behalf of the promoter or securities underwriter, as the circumstances require, sign the certificate referred to in that subsection or section.
+**281** [Repealed, 2005, c. 54, s. 57]
 
 
 
-
-**Sending out prospectus**
-
-**282** No person shall distribute a preliminary prospectus or a prospectus in relation to a distribution of securities of a bank except in accordance with any regulations made under subsection 275(1).
+**282** [Repealed, 2005, c. 54, s. 57]
 
 
 
@@ -5658,41 +5871,33 @@ to the effect that, according to the person’s information, knowledge and belie
 
 - **(1)** In this section and sections 284 to 293,
 
-***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2);
+***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2); (*groupe*)
 
-***associate of the offeror*** means
+***associate of the offeror*** means
 - **(a)** a body corporate that an offeror, directly or indirectly, controls, determined without regard to paragraph 3(1)(d), or of which an offeror beneficially owns shares or securities currently convertible into shares carrying more than 10 per cent of the voting rights under all circumstances or by reason of the occurrence of an event that has occurred and is continuing, or a currently exercisable option or right to purchase the shares or the convertible securities,
 - **(b)** a partner of the offeror acting on behalf of the partnership of which they are partners,
-- **(c)** a trust or estate in which the offeror has a substantial beneficial interest or in respect of which the offeror serves as a trustee or in a similar capacity,
+- **(c)** a trust or estate in which the offeror has a substantial beneficial interest or in respect of which they serve as a trustee or a liquidator of the succession or in a similar capacity,
 - **(d)** a spouse or common-law partner of the offeror,
 - **(e)** a child of the offeror or of the offeror’s spouse or common-law partner, or
-- **(f)** a relative of the offeror or of the offeror’s spouse or common-law partner, if that relative has the same residence as the offeror;
+- **(f)** a relative of the offeror or of the offeror’s spouse or common-law partner, if that relative has the same residence as the offeror; (*associé du pollicitant*)
 
-***dissenting offeree*** means, in respect of a take-over bid made for all the shares of a class of shares, a holder of a share of that class who does not accept the take-over bid and includes a subsequent holder of that share who acquires it from the first-mentioned holder;
+***dissenting offeree*** means a holder of a share who does not accept a take-over bid or a subsequent holder of the share who acquires it from the first-mentioned holder; (*pollicité opposant*)
 
-***exempt offer*** means an offer
-- **(a)** to fewer than fifteen shareholders to purchase shares by way of separate agreements,
-- **(b)** to purchase shares through a stock exchange or in the over-the-counter market in such circumstances as may be prescribed,
-- **(c)** to purchase shares of a bank that has fewer than fifteen shareholders, two or more joint holders being counted as one shareholder, or
-- **(d)** exempted under the order of a court having jurisdiction in the place where the head office of the offeree bank is located;
+***exempt offer***[Repealed, 2005, c. 54, s. 58]
 
-***offeree*** means a person to whom a take-over bid is made;
+***offeree*** means a person to whom a take-over bid is made; (*pollicité*)
 
-***offeree bank*** means a bank the shares of which are the object of a take-over bid;
+***offeree bank*** means a bank the shares of which are the object of a take-over bid; (*banque pollicitée*)
 
-***offeror*** means a person, other than an agent, who makes a take-over bid, and includes two or more persons who, directly or indirectly,
+***offeror*** means a person, other than an agent, who makes a take-over bid, and includes two or more persons who, directly or indirectly,
 - **(a)** make take-over bids jointly or in concert, or
-- **(b)** intend to exercise jointly or in concert voting rights attached to shares for which a take-over bid is made;
+- **(b)** intend to exercise jointly or in concert voting rights attached to shares for which a take-over bid is made; (*pollicitant*)
 
-***share*** includes
-- **(a)** a security currently convertible into a share, and
-- **(b)** a currently exercisable option or right to acquire a share or a security referred to in paragraph (a);
+***share*** means a share with or without voting rights and includes
+- **(a)** a security that is currently convertible into a share, and
+- **(b)** a currently exercisable option or right to acquire a share or a security referred to in paragraph (a); (*action*)
 
-***take-over bid*** means
-- **(a)** an offer, other than an exempt offer, made by an offeror to shareholders at approximately the same time to acquire shares that, if combined with shares already beneficially owned or controlled, directly or indirectly, by the offeror or an affiliate or associate of the offeror on the date of the offer, would exceed 10 per cent of any class of issued shares of an offeree bank, and
-- **(b)** an offer to purchase shares of a bank having fewer than fifteen shareholders if the offer is made to all shareholders in the prescribed form and manner,
-
-and includes every offer, other than an exempt offer, by an issuer to repurchase its own shares.
+***take-over bid*** means an offer made by an offeror at approximately the same time to all of the shareholders of a distributing bank to acquire all of the shares of a class of issued shares, and includes an offer by a distributing bank to repurchase all of the shares of a class. (*offre d’achat visant à la mainmise*)
 
 **Control**
 
@@ -5701,7 +5906,7 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Date of bid**
 
 - **(3)** A take-over bid is deemed to be dated as of the date on which it is sent.
-> 1991, c. 46, s. 283; 2000, c. 12, s. 4.
+> 1991, c. 46, s. 283; 2000, c. 12, s. 4; 2005, c. 54, s. 58.
 
 
 
@@ -5710,6 +5915,8 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Right to acquire shares**
 
 **284** If, within one hundred and twenty days after the date of a take-over bid, the bid is accepted by the holders of not less than 90 per cent of the shares of any class of shares to which the take-over bid relates, other than shares held at the date of the take-over bid by or on behalf of the offeror or an affiliate or associate of the offeror, the offeror is entitled, on complying with sections 285 to 290, subsections 291(1) and (2) and section 292, to acquire the shares held by the dissenting offerees.
+> 1991, c. 46, s. 284; 2005, c. 54, s. 59(F).
+
 
 
 
@@ -5724,28 +5931,43 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 	- **(c)** a dissenting offeree is required to elect
 		- **(i)** to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid, or
 		- **(ii)** to demand payment of the fair value of the dissenting offeree’s shares in accordance with sections 289 to 292 by notifying the offeror within twenty days after receipt of the offeror’s notice;
-	- **(d)** a dissenting offeree who does not notify the offeror in accordance with subparagraph (c)(ii) is deemed to have elected to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid; and
+	- **(d)** a dissenting offeree who does not notify the offeror in accordance with paragraph 286(b) is deemed to have elected to transfer the shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid; and
 	- **(e)** a dissenting offeree must send the dissenting offeree’s shares to which the take-over bid relates to the offeree bank within twenty days after the dissenting offeree receives the offeror’s notice.
 
 **Notice of adverse claim**
 
 - **(2)** Concurrently with sending the offeror’s notice under subsection (1), the offeror shall send to the offeree bank a notice of adverse claim in accordance with subsection 129(1) with respect to each share held by a dissenting offeree.
+> 1991, c. 46, s. 285; 2005, c. 54, s. 60.
 
 
 
 
-**Share certificates to be sent**
 
-**286** A dissenting offeree to whom an offeror’s notice is sent under subsection 285(1) shall, within twenty days after receipt of that notice, send the dissenting offeree’s share certificates of the class of shares to which the take-over bid relates to the offeree bank.
+**Share certificates and election**
+
+**286** A dissenting offeree to whom a notice is sent under subsection 285(1) shall within 20 days after receiving the notice
+- **(a)** send to the offeree bank the share certificates representing the shares to which the take-over bid relates; and
+- **(b)** elect to transfer the shares to the offeror on the same terms as those on which the offeror acquired shares from the offerees who accepted the take-over bid or to demand payment of the fair value of the shares in accordance with sections 289 to 292 by notifying the offeror.
+> 1991, c. 46, s. 286; 2005, c. 54, s. 61.
 
 
 
 
-**Payment to dissenter**
+
+**Deemed election**
+
+**286.1** A dissenting offeree who does not notify the offeror in accordance with paragraph 286(b) is deemed to have elected to transfer the shares to the offeror on the same terms as those on which the offeror acquired shares from the offerees who accepted the take-over bid.
+> 2005, c. 54, s. 61.
+
+
+
+
+
+**Payment to offeree bank**
 
 **287** 
 
-- **(1)** Within twenty days after the offeror sends an offeror’s notice under subsection 285(1), the offeror shall pay or transfer to the offeree bank the amount of money or other consideration that the offeror would have had to pay or transfer to a dissenting offeree if the dissenting offeree had elected to transfer the dissenting offeree’s shares as described in subparagraph 285(1)(c)(i).
+- **(1)** Within 20 days after the offeror sends a notice under subsection 285(1), the offeror shall pay the money, or transfer the other consideration, to the offeree bank that the offeror would have had to pay or transfer to a dissenting offeree if the dissenting offeree had elected to transfer their shares in accordance with paragraph 286(b).
 
 **Consideration in trust**
 
@@ -5754,6 +5976,17 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Deposit or custody**
 
 - **(3)** An offeree bank shall deposit the money received under subsection (1) in a separate account in another deposit-taking financial institution in Canada and the offeree bank shall place any other consideration in the custody of another deposit-taking financial institution in Canada.
+> 1991, c. 46, s. 287; 2005, c. 54, s. 62.
+
+
+
+
+
+**Fiduciary capacity of bank**
+
+**287.1** A bank that is making a take-over bid to repurchase all of the shares of a class is deemed to hold in a fiduciary capacity for the dissenting shareholders the money that it would have had to pay, and the other consideration that it would have had to transfer, to a dissenting offeree if the dissenting offeree had elected to transfer their shares in accordance with paragraph 286(b). The bank shall within 20 days after a notice is sent under subsection 285(1) deposit the money in a separate account in another deposit-taking financial institution in Canada and place any other consideration in the custody of another deposit-taking financial institution in Canada.
+> 2005, c. 54, s. 63.
+
 
 
 
@@ -5761,21 +5994,23 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Duty of offeree bank**
 
 **288** Within thirty days after an offeror sends an offeror’s notice under subsection 285(1), the offeree bank shall
-- **(a)** issue to the offeror a share certificate in respect of the shares that were held by dissenting offerees;
-- **(b)** give to each dissenting offeree who elects to transfer shares as described in subparagraph 285(1)(c)(i) and who sends the share certificates as required under section 286, the money or other consideration to which that dissenting offeree is entitled, disregarding fractional shares, which may be paid for in money; and
-- **(c)** send to each dissenting offeree who has not sent share certificates as required under section 286 a notice stating that
-	- **(i)** the shares have been cancelled,
-	- **(ii)** the offeree bank or some designated person holds in a fiduciary capacity for that offeree the money or other consideration to which that offeree is entitled as payment for or in exchange for the shares, and
-	- **(iii)** the offeree bank will, subject to sections 289 to 292, send that money or other consideration to that offeree forthwith after receiving the share certificates.
+- **(a)** if the payment or transfer required by subsection 287(1) is made, issue to the offeror a share certificate in respect of the shares that were held by the dissenting offerees;
+- **(b)** give to each dissenting offeree who elects to transfer shares under paragraph 286(b) and who sends the share certificates as required under paragraph 286(a) the money or other consideration to which they are entitled, disregarding fractional shares, which may be paid for in money; and
+- **(c)** if the payment or transfer required by subsection 287(1) is made and the money or other consideration is deposited as required by subsections 287(2) and (3) or by section 287.1, send to each dissenting offeree who has not sent share certificates as required under paragraph 286(a) a notice stating that
+	- **(i)** their shares have been cancelled,
+	- **(ii)** the offeree bank or its designated person holds in a fiduciary capacity for that offeree the money or other consideration to which they are entitled as payment for or in exchange for the shares, and
+	- **(iii)** the offeree bank will, subject to sections 289 to 292, send that money or other consideration to that offeree without delay after receiving the share certificates.
+> 1991, c. 46, s. 288; 2005, c. 54, s. 64.
 
 
 
 
-**Application to court**
+
+**Court may fix fair value**
 
 **289** 
 
-- **(1)** Where a dissenting offeree has elected to demand payment of the fair value of the offeree’s shares as described in subparagraph 285(1)(c)(ii), the offeror may, within twenty days after it has paid the money or transferred the other consideration under subsection 287(1), apply to a court to fix the fair value of the shares of that dissenting offeree.
+- **(1)** If a dissenting offeree has elected to demand payment of the fair value of their shares under paragraph 286(b), the offeror may, within 20 days after it has paid the money or transferred the other consideration under subsection 287(1), apply to a court to fix the fair value of the shares of that dissenting offeree.
 
 **Idem**
 
@@ -5788,6 +6023,8 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **No security for costs**
 
 - **(4)** A dissenting offeree is not required to give security for costs in an application made under subsection (1) or (2).
+> 1991, c. 46, s. 289; 2005, c. 54, s. 65.
+
 
 
 
@@ -5795,8 +6032,10 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Parties and notice**
 
 **290** On an application under subsection 289(1) or (2),
-- **(a)** all dissenting offerees who have made elections under subparagraph 285(1)(c)(ii) and whose shares have not been acquired by the offeror shall be joined as parties and are bound by the decision of the court; and
+- **(a)** all dissenting offerees who have made elections to demand payment under paragraph 286(b) and whose shares have not been acquired by the offeror shall be joined as parties and are bound by the decision of the court; and
 - **(b)** the offeror shall notify each affected dissenting offeree of the date, place and consequences of the application and of the dissenting offeree’s right to appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 46, s. 290; 2005, c. 54, s. 66.
+
 
 
 
@@ -5818,10 +6057,12 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Additional powers of court**
 
 - **(4)** In connection with proceedings under subsection 289(1) or (2), a court may make any order it thinks fit and, without limiting the generality of the foregoing, may
-	- **(a)** fix the amount of money or other consideration that is deemed to be held in a fiduciary capacity under subsection 287(2);
+	- **(a)** fix the amount of money or other consideration that is deemed to be held in a fiduciary capacity under subsection 287(2) or section 287.1;
 	- **(b)** order that the money or other consideration is to be held in trust by a person other than the offeree bank;
 	- **(c)** allow a reasonable rate of interest on the amount payable to each dissenting offeree from the date the dissenting offeree sends the share certificates required under section 286 until the date of payment; or
 	- **(d)** order that any money payable to a shareholder who cannot be found is to be paid to the Minister.
+> 1991, c. 46, s. 291; 2005, c. 54, s. 67.
+
 
 
 
@@ -5829,6 +6070,25 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Status of dissenter**
 
 **292** Where no application is made to a court under subsection 289(2) within the period set out in that subsection, a dissenting offeree is deemed to have elected to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid.
+
+
+
+
+**Obligation to acquire shares**
+
+**292.1** 
+
+- **(1)** If a shareholder who holds shares of an offeree bank does not receive the notice referred to in subsection 285(1), the shareholder may require the offeror to acquire the shares
+	- **(a)** within 90 days after the date of termination of the take-over bid; or
+	- **(b)** if the shareholder did not receive an offer under the take-over bid, within 90 days after the later of
+		- **(i)** the date of termination of the take-over bid, and
+		- **(ii)** the day on which the shareholder learned of the take-over bid.
+
+**Acquisition on same terms**
+
+- **(2)** If the shareholder requires the offeror to acquire shares, the offeror shall acquire them on the same terms as those on which the offeror acquires shares from offerees who accept the take-over bid.
+> 2005, c. 54, s. 68.
+
 
 
 
@@ -6214,10 +6474,16 @@ showing such information and particulars as in the opinion of the directors are 
 
 - **(2)** For the purposes of subsection (1),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a member of a firm of accountants is deemed not to be independent of a bank if that member or any other member of the firm of accountants, or if the firm of accountants
-		- **(i)** is a director or an officer or employee of the bank or of any affiliate of the bank or is a business partner of any director, officer or employee of the bank or of any affiliate of the bank,
+	- **(b)** a member of a firm of accountants is deemed not to be independent of a bank if that member, a business partner of that member or the firm of accountants
+		- **(i)** is a business partner, director, officer or employee of the bank or of any affiliate of the bank or is a business partner of any director, officer or employee of the bank or of any affiliate of the bank,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the bank or of any affiliate of the bank, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the bank within the two years immediately preceding the firm’s proposed appointment as auditor of the bank, other than an affiliate that is a subsidiary of the bank acquired pursuant to section 472 or through a realization of security pursuant to section 473.
+
+**Business partners**
+
+- **(2.1)** For the purposes of subsection (2), a business partner of a member of a firm of accountants includes
+	- **(a)** another member of the firm; and
+	- **(b)** a shareholder of the firm or of a business partner of the member.
 
 **Notice of designation**
 
@@ -6230,7 +6496,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the bank, there shall be deemed to be a vacancy in the office of auditor of the bank.
-> 1991, c. 46, s. 315; 2001, c. 9, s. 94.
+> 1991, c. 46, s. 315; 2001, c. 9, s. 94; 2005, c. 54, s. 72.
 
 
 
@@ -6329,9 +6595,15 @@ showing such information and particulars as in the opinion of the directors are 
 	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders at which another firm of accountants is to be appointed in its stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
 shall submit to the bank and the Superintendent a written statement giving the reasons for the resignation or the reasons why the auditor opposes any proposed action.
 
-**Statement to be sent to shareholders**
+**Other statements**
 
-- **(2)** Where a bank receives a written statement referred to in subsection (1) that relates to a resignation as a result of a disagreement with the directors or officers of the bank or that relates to a matter referred to in paragraph (1)(b) or (c), the bank shall forthwith send a copy of the statement to each shareholder who is entitled to vote at the annual meeting of shareholders.
+- **(1.1)** In the case of a proposed replacement of an auditor whether because of removal or the expiry of their term, the bank shall make a statement of the reasons for the proposed replacement and the proposed replacement auditor may make a statement in which they comment on those reasons.
+
+**Statements to be sent**
+
+- **(2)** The bank shall send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder entitled to vote at the annual meeting of shareholders and to the Superintendent.
+> 1991, c. 46, s. 321; 2005, c. 54, s. 73.
+
 
 
 
@@ -13652,10 +13924,16 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 - **(3)** For the purposes of subsection (2),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a member of a firm of accountants is deemed not to be independent of an authorized foreign bank if that member, the firm or any other member of the firm
-		- **(i)** is a director, officer or employee of the authorized foreign bank or of any of its affiliates or is a business partner of any of those directors, officers or employees,
+	- **(b)** a member of a firm of accountants is deemed not to be independent of an authorized foreign bank if that member, a business partner of that member or the firm of accountants
+		- **(i)** is a business partner, director, officer or employee of the authorized foreign bank or of any affiliate of the authorized foreign bank or is a business partner of any director, officer or employee of the authorized foreign bank or of any affiliate of the authorized foreign bank,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the authorized foreign bank or of any of its affiliates, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the authorized foreign bank within the two years immediately preceding the proposed appointment of the firm of accountants as auditor, other than an affiliate that is a subsidiary of the authorized foreign bank acquired pursuant to subsection 519(2).
+
+**Business partners**
+
+- **(3.1)** For the purposes of subsection (3), a business partner of a member of a firm of accountants includes
+	- **(a)** another member of the firm; and
+	- **(b)** a shareholder of the firm or of another business partner of the member.
 
 **Notice of designation**
 
@@ -13668,7 +13946,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Deemed vacancy**
 
 - **(6)** In any case where subsection (5) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit, there shall be deemed to be a vacancy in the office of auditor of the authorized foreign bank.
-> 1991, c. 46, s. 585; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 585; 1999, c. 28, s. 35; 2005, c. 54, s. 82.
 
 
 
@@ -16338,9 +16616,9 @@ shall be submitted to the Superintendent at the time of the application for appr
 - **(b)** references to “this Act” in those sections are to be read as references to “this Part”;
 - **(c)** references to “Part VII” in those sections are to be read as references to “Division 7 of Part XV”;
 - **(d)** references to “this Part” in those sections are to be read as references to “this Division”;
-- **(e)** the reference to “subsections 137(2) to (5) and sections 138 to 141 and 145” in subsection 93(1) is to be read as a reference to “subsections 726(2) to (5) and sections 727 to 730 and 734”; and
+- **(e)** the reference to “subsections 137(5) to (7) and sections 138 to 141 and 145” in subsection 93(1) is to be read as a reference to “subsections 726(5) to (7) and sections 727 to 730 and 734”; and
 - **(f)** the reference to “section 71 or 77” in subsection 97(3) is to be read as a reference to “section 715 or 720”.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 90.
 
 
 
@@ -16357,8 +16635,18 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Place of meetings**
 
-**725** Meetings of shareholders of a bank holding company shall be held at the place within Canada provided for in the by-laws of the bank holding company or, in the absence of any such provision, at the place within Canada that the directors determine.
-> 2001, c. 9, s. 183.
+**725** 
+
+- **(1)** Meetings of shareholders of a bank holding company shall be held at the place within Canada provided for in the by-laws of the bank holding company or, in the absence of any such provision, at the place within Canada that the directors determine.
+
+**Participation by electronic means**
+
+- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the bank holding company makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Part to be present at the meeting.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting the manner of and conditions for participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 91.
 
 
 
@@ -16372,32 +16660,40 @@ shall be submitted to the Superintendent at the time of the application for appr
 	- **(a)** shall, after the meeting called pursuant to subsection 701(1), call the first annual meeting of shareholders of the bank holding company, which meeting must be held not later than six months after the end of the first financial year of the bank holding company, and subsequently call an annual meeting of shareholders, which meeting must be held not later than six months after the end of each financial year; and
 	- **(b)** may at any time call a special meeting of shareholders.
 
-**Fixing record date**
+**Order to delay calling annual meeting**
 
-- **(2)** For the purpose of determining shareholders
-	- **(a)** entitled to receive payment of a dividend,
-	- **(b)** entitled to participate in a liquidation distribution, or
-	- **(c)** for any other purpose except the right to receive notice of, or to vote at, a meeting,
-the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede by more than fifty days the particular action to be taken.
+- **(2)** Despite subsection (1), the bank holding company may apply to the court for an order extending the time for calling an annual meeting.
 
-**Record date for meetings**
+**Obligation to notify Superintendent**
 
-- **(3)** For the purpose of determining shareholders entitled to receive notice of a meeting of shareholders, the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede by more than fifty days or by less than twenty-one days the date on which the meeting is to be held.
+- **(3)** The bank holding company shall give notice of the application to the Superintendent before any hearing concerning the application and shall provide the Superintendent with a copy of any order that is issued.
 
-**No record date fixed**
+**Superintendent’s right to appear**
 
-- **(4)** If no record date is fixed pursuant to subsection (2) or (3),
-	- **(a)** the record date for the determination of shareholders for any purpose, other than to establish a shareholder’s right to receive notice of a meeting or to vote, is the day on which the directors pass the resolution relating to the particular purpose; and
-	- **(b)** the record date for the determination of shareholders entitled to receive notice of, or to vote at, a meeting of shareholders is
-		- **(i)** the day immediately preceding the day on which the notice is given, or
-		- **(ii)** if no notice is given, the day on which the meeting is held.
+- **(4)** The Superintendent is entitled to appear and be heard in person or by counsel at any hearing concerning the application.
 
-**When record date fixed**
+**Authority to fix record date**
 
-- **(5)** When a record date is fixed for a bank holding company, unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the central securities register at the close of business on the date the directors fix the record date, notice thereof shall, not less than seven days before the record date, be given
-	- **(a)** by advertisement in a newspaper in general circulation in the place where the head office of the bank holding company is situated and in each place in Canada where the bank holding company has a transfer agent or where a transfer of the bank holding company’s shares may be recorded; and
-	- **(b)** by written notice to each stock exchange, if any, in Canada on which the shares of the bank holding company are listed for trading.
-> 2001, c. 9, s. 183.
+- **(5)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of shareholders for any purpose, including for a determination of which shareholders are entitled to
+	- **(a)** receive payment of a dividend;
+	- **(b)** participate in a liquidation distribution;
+	- **(c)** receive notice of a meeting of shareholders; or
+	- **(d)** vote at a meeting of shareholders.
+
+**Determination of record date**
+
+- **(6)** If no record date is fixed,
+	- **(a)** the record date for the determination of shareholders who are entitled to receive notice of a meeting of shareholders is
+		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
+		- **(ii)** if no notice is given, the day on which the meeting is held; and
+	- **(b)** the record date for the determination of shareholders for any other purpose, other than to establish a shareholder’s right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
+
+**Notice of record date**
+
+- **(7)** If a record date is fixed and unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the securities register at the close of business on the day on which the directors fix the record date, notice of the record date shall be given within the prescribed period by
+	- **(a)** advertisement in a newspaper in general circulation in the place where the bank holding company’s head office is situated and in each place in Canada where the bank holding company has a transfer agent or where a transfer of its shares may be recorded; and
+	- **(b)** written notice to each stock exchange in Canada on which the bank holding company’s shares are listed for trading.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 92.
 
 
 
@@ -16407,10 +16703,15 @@ the directors may fix in advance a date as the record date for the determination
 
 **727** 
 
-- **(1)** Notice of the time and place of a meeting of shareholders of a bank holding company shall be sent not less than twenty-one days or more than fifty days before the meeting
-	- **(a)** to each shareholder entitled to vote at the meeting;
-	- **(b)** to each director; and
-	- **(c)** to the auditor of the bank holding company.
+- **(1)** Notice of the time and place of a meeting of shareholders of a bank holding company shall be sent within the prescribed period to
+	- **(a)** each shareholder entitled to vote at the meeting;
+	- **(b)** each director;
+	- **(c)** the auditor of the bank holding company; and
+	- **(d)** the Superintendent.
+
+**Exception**
+
+- **(1.1)** In the case of a bank holding company that is not a distributing bank holding company, notice may be sent within any shorter period specified in its by-laws.
 
 **Number of eligible votes**
 
@@ -16419,22 +16720,22 @@ the directors may fix in advance a date as the record date for the determination
 **Publication in newspaper**
 
 - **(3)** In addition to the notice required under subsection (1), where any class of shares of a bank holding company is publicly traded on a recognized stock exchange in Canada, notice of the time and place of a meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in general circulation in the place where the head office of the bank holding company is situated and in each place in Canada where the bank holding company has a transfer agent or where a transfer of the bank holding company’s shares may be recorded.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 93.
 
 
 
 
 
-**When notice not required**
+**Notice not required**
 
 **728** 
 
-- **(1)** A notice of a meeting of shareholders is not required to be sent to shareholders who were not registered on the records of the bank holding company or its transfer agent on the record date fixed or determined under subsection 726(3) or (4).
+- **(1)** A notice of a meeting is not required to be sent to shareholders who are not registered on the records of the bank holding company or the bank holding company’s transfer agent on the record date fixed under paragraph 726(5)(c) or determined under paragraph 726(6)(a).
 
 **Effect of default**
 
 - **(2)** Failure to receive a notice of a meeting of shareholders does not deprive a shareholder of the right to vote at the meeting.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 94.
 
 
 
@@ -16487,53 +16788,78 @@ the directors may fix in advance a date as the record date for the determination
 
 
 
-**Shareholder’s proposal**
+**Proposals**
 
 **732** 
 
-- **(1)** A shareholder entitled to vote at an annual meeting of shareholders of a bank holding company may
-	- **(a)** submit to the bank holding company notice of any matter that the shareholder proposes to raise at the meeting; and
-	- **(b)** discuss at the meeting any matter in respect of which the shareholder would have been entitled to submit a proposal.
+- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares that may be voted at an annual meeting of shareholders may
+	- **(a)** submit to the bank holding company notice of any matter that they propose to raise at the meeting (in this section and section 733 referred to as a “proposal”); and
+	- **(b)** discuss at the meeting any matter in respect of which they would have been entitled to submit a proposal.
+
+**Eligibility to submit proposal**
+
+- **(1.1)** To be eligible to submit a proposal a person shall
+	- **(a)** for at least the prescribed period be the registered holder or beneficial owner of at least the prescribed number of the bank holding company’s outstanding shares; or
+	- **(b)** have the support of persons who, in the aggregate and including or not including the person who submits the proposal, have for at least the prescribed period been the registered holders or beneficial owners of at least the prescribed number of the bank holding company’s outstanding shares.
+
+**Information to be provided**
+
+- **(1.2)** A proposal is to be accompanied by the following information:
+	- **(a)** the name and address of the person submitting the proposal and the names and addresses of their supporters, if any; and
+	- **(b)** the number of shares held or owned by the person and their supporters, if any, and the date that the shares were acquired.
+
+**Information not part of proposal**
+
+- **(1.3)** The information provided under subsection (1.2) does not form part of a proposal or of the supporting statement referred to in subsection (3) and is not to be included for the purpose of the prescribed maximum number of words referred to in subsection (3).
+
+**Proof may be required**
+
+- **(1.4)** If the bank holding company requests within the prescribed period that a person provide proof that they are eligible to submit a proposal, the person shall within the prescribed period provide proof that they meet the requirements of subsection (1.1).
 
 **Circulation of proposal**
 
-- **(2)** A bank holding company shall attach any proposal of a shareholder submitted for consideration at a meeting of shareholders to the notice of the meeting.
+- **(2)** A bank holding company that solicits proxies shall set out in the management proxy circular required by subsection 156.05(1) or attach to it any proposal submitted for consideration at a meeting of shareholders.
 
-**Shareholder’s statement**
+**Supporting statement**
 
-- **(3)** If so requested by a shareholder who submits a proposal to a bank holding company, the bank holding company shall attach to the notice of the meeting a statement by the shareholder of not more than two hundred words in support of the proposal and the name and address of the shareholder.
+- **(3)** At the request of the person who submits a proposal, the bank holding company shall set out in the management proxy circular or attach to it the person’s statement in support of the proposal and their name and address. The statement and proposal together are not to exceed the prescribed maximum number of words.
 
-**Nominations for directors**
+**Nomination of directors**
 
-- **(4)** A proposal may include nominations for the election of directors if the proposal is signed by one or more holders of shares representing in the aggregate not less than 5 per cent of the shares or 5 per cent of the shares of a class of shares of the bank holding company entitled to vote at the meeting to which the proposal is to be presented.
+- **(4)** A proposal may include nominations for the election of directors if it is signed by one or more registered holders or beneficial owners of shares representing in the aggregate not less than 5% of the shares of the bank holding company or 5% of the shares of a class of its shares entitled to vote at the meeting at which the proposal is to be presented.
 
-**Conditions precedent for proposals**
+**Exemption**
 
 - **(5)** A bank holding company is not required to comply with subsections (2) and (3) if
-	- **(a)** the proposal is not submitted to the bank holding company at least ninety days before the anniversary date of the previous annual meeting of shareholders;
-	- **(b)** it clearly appears that the proposal is submitted by the shareholder primarily for the purpose of enforcing a personal claim or redressing a personal grievance against the bank holding company or its directors, officers or security holders, or primarily for the purpose of promoting general economic, political, racial, religious, social or similar causes;
-	- **(c)** the bank holding company, at the shareholder’s request, attached a proposal to the notice of a meeting of shareholders held within two years preceding the receipt of the request, and the shareholder failed to present the proposal, in person or by proxy, at the meeting;
-	- **(d)** substantially the same proposal was submitted to shareholders in a dissident’s proxy circular relating to, or was attached to the notice of, a meeting of shareholders held within two years preceding the receipt of the shareholder’s request and the proposal was defeated; or
+	- **(a)** the proposal is not submitted to the bank holding company at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to shareholders in respect of the previous annual meeting of shareholders;
+	- **(b)** it clearly appears that the primary purpose of the proposal is to enforce a personal claim or redress a personal griev­ance against the bank holding company or its directors, officers or security holders;
+	- **(b.1)** it clearly appears that the proposal does not relate in a significant way to the business or affairs of the bank holding company;
+	- **(c)** the person submitting the proposal failed within the prescribed period before the bank holding company receives their proposal to present, in person or by proxy, at a meeting of shareholders a proposal that at their request had been set out in or attached to a management proxy circular;
+	- **(d)** substantially the same proposal was set out in or attached to a management proxy circular or dissident’s proxy circular relating to, and presented to shareholders at, a meeting of shareholders held within the prescribed period before the receipt of the proposal and did not receive the prescribed minimum amount of support at the meeting; or
 	- **(e)** the rights conferred by subsections (1) to (4) are being abused to secure publicity.
+
+**Bank holding company may refuse to include proposal**
+
+- **(5.1)** If a person who submits a proposal fails to continue to hold or own shares in accordance with paragraph (1.1)(a) or, as the case may be, does not continue to have the support of persons who are in the aggregate the registered holders or beneficial owners of the prescribed number of shares in accordance with paragraph (1.1)(b) until the end of the meeting, the bank holding company is not required to set out any proposal submitted by that person in or attach it to a management proxy circular for any meeting held within the prescribed period after the day of the meeting.
 
 **Immunity for proposal and statement**
 
 - **(6)** No bank holding company or person acting on behalf of a bank holding company incurs any liability by reason only of circulating a proposal or statement in compliance with subsections (2) and (3).
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 95.
 
 
 
 
 
-**Refusal of proposal**
+**Notice of refusal**
 
 **733** 
 
-- **(1)** If a bank holding company refuses to attach a proposal to a notice of a meeting, the bank holding company shall, within ten days after receiving the proposal, notify the shareholder submitting the proposal of its intention to not attach the proposal to the notice of the meeting and send to the shareholder a statement of the reasons for the refusal.
+- **(1)** If a bank holding company refuses to include a proposal in a management proxy circular, it shall in writing notify the person submitting the proposal of its intention to omit the proposal from the management proxy circular and of the reasons for the refusal. It shall notify the person within the prescribed period after either the day on which it receives the proposal or, if it has requested proof under subsection 732(1.4), the day on which it receives the proof.
 
-**Appeal to court**
+**Application to court**
 
-- **(2)** On the application of a shareholder claiming to be aggrieved by a bank holding company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order it thinks fit.
+- **(2)** On the application of a person submitting a proposal who claims to be aggrieved by a bank holding company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order that it thinks fit.
 
 **Appeal to court**
 
@@ -16542,48 +16868,36 @@ the directors may fix in advance a date as the record date for the determination
 **Notice to Superintendent**
 
 - **(4)** An applicant under subsection (2) or (3) shall give the Superintendent written notice of the application and the Superintendent may appear and be heard at the hearing of the application in person or by counsel.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 96.
 
 
 
 
 
-**Shareholder list**
+**List of shareholders entitled to notice**
 
 **734** 
 
-- **(1)** A bank holding company shall prepare a list, which may be in electronic form, of its shareholders entitled to receive notice of a meeting under paragraph 727(1)(a), arranged in alphabetical order and showing the number of shares held by each shareholder, which list must be prepared
-	- **(a)** if a record date is fixed under subsection 726(3), not later than ten days after that date; or
-	- **(b)** if no record date is fixed,
-		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
-		- **(ii)** where no notice is given, on the day on which the meeting is held.
+- **(1)** A bank holding company shall prepare an alphabetical list of shareholders entitled to receive notice of a meeting showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 726(5)(c), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed, on the record date determined under paragraph 726(6)(a).
 
-**Effect of list**
+**Voting list**
 
-- **(2)** Where a bank holding company fixes a record date under subsection 726(3), a person named in the list prepared under paragraph (1)(a) is, subject to this Part, entitled to vote the shares shown opposite that person’s name at the meeting to which the list relates, except to the extent that
-	- **(a)** the person has transferred the ownership of any of those shares after the record date, and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the bank holding company provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+- **(2)** The bank holding company shall prepare an alphabetical list of shareholders entitled to vote as of the record date showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 726(5)(d), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed under paragraph 726(5)(d), no later than 10 days after a record date is fixed under paragraph 726(5)(c) or no later than the record date determined under paragraph 726(6)(a), as the case may be.
 
-**Effect of list**
+**Entitlement to vote**
 
-- **(3)** Where a bank holding company does not fix a record date under subsection 726(3), a person named in the list prepared under paragraph (1)(b) is, subject to this Part, entitled to vote the shares shown opposite that person’s name at the meeting to which the list relates, except to the extent that
-	- **(a)** the person has transferred the ownership of any of those shares after the date on which a list was prepared under subparagraph (1)(b)(i), and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the bank holding company provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+- **(3)** Subject to section 156.09, a shareholder whose name appears on a list prepared under subsection (2) is entitled to vote the shares shown opposite their name.
 
 **Examination of list**
 
-- **(4)** A shareholder of a bank holding company may examine the list of shareholders referred to in subsection (1)
+- **(4)** A shareholder may examine the list of shareholders
 	- **(a)** during usual business hours at the head office of the bank holding company or at the place where its central securities register is maintained; and
 	- **(b)** at the meeting of shareholders for which the list was prepared.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 97.
 
 
 
@@ -16659,7 +16973,19 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Ballot**
 
 - **(2)** A shareholder or proxyholder may demand a ballot either before or after any vote by show of hands.
-> 2001, c. 9, s. 183.
+
+**Electronic voting**
+
+- **(3)** Despite subsection (1) and unless the by-laws provide otherwise, any vote referred to in that subsection may be held entirely by means of a telephonic, electronic or other communication facility if the bank holding company makes one available.
+
+**Voting while participating electronically**
+
+- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting of shareholders under subsection 725(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the bank holding company has made available for that purpose.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations respecting the manner of and conditions for voting at a meeting of shareholders by means of a telephonic, electronic or other communication facility.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 98.
 
 
 
@@ -16676,7 +17002,11 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Filing resolution**
 
 - **(2)** A copy of every resolution referred to in subsection (1) shall be kept with the minutes of the meetings of shareholders.
-> 2001, c. 9, s. 183.
+
+**Evidence**
+
+- **(3)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 99.
 
 
 
@@ -16697,7 +17027,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Directors calling meeting**
 
 - **(3)** On receipt of a requisition referred to in subsection (1), the directors shall call a meeting of shareholders to transact the business stated in the requisition, unless
-	- **(a)** a record date has been fixed under subsection 726(3) and notice thereof has been given under subsection 726(5);
+	- **(a)** a record date has been fixed under paragraph 726(5)(c) and notice of it has been given under subsection 726(7);
 	- **(b)** the directors have called a meeting of shareholders and have given notice thereof under section 727; or
 	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 732(5)(b) to (e).
 
@@ -16712,7 +17042,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Reimbursement**
 
 - **(6)** Unless the shareholders otherwise resolve at a meeting called under subsection (4), the bank holding company shall reimburse the shareholders for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 100.
 
 
 
@@ -16915,6 +17245,19 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 - **(2)** A by-law made pursuant to subsection (1) that provides for a minimum and maximum number of directors may provide that the number of directors to be elected at any annual meeting of the shareholders be such number as is fixed by the directors prior to the annual meeting.
 > 2001, c. 9, s. 183.
+
+
+
+
+
+**Election or appointment as director**
+
+**753.1** The election or appointment of a person as a director is subject to the following:
+- **(a)** the person was present at the meeting when the election or appointment took place and did not refuse to hold office as a director; or
+- **(b)** the person was not present at the meeting when the election or appointment took place but
+	- **(i)** consented in writing to hold office as a director before the election or appointment or within 10 days after it, or
+	- **(ii)** acted as a director after the election or appointment.
+> 2005, c. 54, s. 103.
 
 
 
@@ -17261,8 +17604,8 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **Director continues to be present**
 
-- **(3)** Any director present at a meeting of directors who is not present at any particular time during the meeting for the purposes of subsection 790(1) shall be considered as being present for the purposes of this section.
-> 2001, c. 9, s. 183.
+- **(3)** A director who is present at a meeting of directors or of a committee of directors but is not, in accordance with subsection 790(1), present at any particular time during the meeting is considered to be present for the purposes of this section.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 107.
 
 
 
@@ -17319,7 +17662,11 @@ is entitled to submit to the bank holding company a written statement giving the
 **Filing committee resolution**
 
 - **(4)** A copy of the resolution referred to in subsection (3) shall be kept with the minutes of the proceedings of that committee.
-> 2001, c. 9, s. 183.
+
+**Evidence**
+
+- **(5)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 108.
 
 
 
@@ -17513,15 +17860,15 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **785** The directors of a bank holding company may not delegate any of the following powers, namely, the power to
 - **(a)** submit to the shareholders a question or matter requiring the approval of the shareholders;
-- **(b)** fill a vacancy among the directors or a committee of directors or in the office of the auditor of the bank holding company;
-- **(c)** issue or cause to be issued securities except in the manner and on terms authorized by the directors;
+- **(b)** fill a vacancy among the directors, on a committee of directors or in the office of auditor or appoint additional directors;
+- **(c)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 706, except in accordance with any authorization made by the directors;
 - **(d)** declare a dividend;
 - **(e)** authorize the redemption or other acquisition by the bank holding company pursuant to section 715 of shares issued by the bank holding company;
 - **(f)** authorize the payment of a commission on a share issue;
 - **(g)** approve a management proxy circular;
 - **(h)** except as provided in this Part, approve the annual statement of the bank holding company and any other financial statements issued by the bank holding company; or
 - **(i)** adopt, amend or repeal by-laws.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 109.
 
 
 
@@ -17574,45 +17921,43 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **789** 
 
-- **(1)** A director or an officer of a bank holding company who
-	- **(a)** is a party to a material contract or proposed material contract with the bank holding company,
-	- **(b)** is a director or an officer of any entity that is a party to a material contract or proposed material contract with the bank holding company, or
-	- **(c)** has a material interest in any person who is a party to a material contract or proposed material contract with the bank holding company
-shall disclose in writing to the bank holding company or request to have entered in the minutes of the meetings of directors the nature and extent of that interest.
+- **(1)** A director or officer of a bank holding company shall disclose to the bank holding company, in writing or by requesting to have it entered in the minutes of a meeting of directors or a meeting of a committee of directors, the nature and extent of any interest they have in a material contract or material transaction with the bank holding company, whether entered into or proposed, if they
+	- **(a)** are a party to the contract or transaction;
+	- **(b)** are a director or officer of a party to the contract or transaction or a person acting in a similar capacity; or
+	- **(c)** have a material interest in a party to the contract or transaction.
 
-**Time of disclosure for director**
+**Time of disclosure — director**
 
-- **(2)** The disclosure required by subsection (1) shall be made, in the case of a director,
-	- **(a)** at the meeting of directors at which a proposed contract is first considered;
-	- **(b)** if the director was not then interested in a proposed contract, at the first meeting after the director becomes so interested;
-	- **(c)** if the director becomes interested after a contract is made, at the first meeting after the director becomes so interested; or
-	- **(d)** if a person who is interested in a contract later becomes a director, at the first meeting after that person becomes a director.
+- **(2)** The disclosure shall be made in the case of a director
+	- **(a)** at the meeting of directors, or of a committee of directors, at which the proposed contract or transaction is first considered;
+	- **(b)** if at the time of the meeting referred to in paragraph (a) the director was not interested in the proposed contract or transaction, at the first one after they become interested in it;
+	- **(c)** if the director becomes interested after a contract or transaction is entered into, at the first one after they become interested; or
+	- **(d)** if a person who is interested in a contract or transaction becomes a director, at the first one after they become a director.
 
-**Time of disclosure for officer**
+**Time of disclosure — officer**
 
-- **(3)** The disclosure required by subsection (1) shall be made, in the case of an officer who is not a director,
-	- **(a)** forthwith after the officer becomes aware that a proposed contract is to be considered or a contract has been considered at a meeting of directors;
-	- **(b)** if the officer becomes interested after a contract is made, forthwith after the officer becomes so interested; or
-	- **(c)** if a person who is interested in a contract later becomes an officer, forthwith after the person becomes an officer.
+- **(3)** The disclosure required by subsection (1) shall be made in the case of an officer who is not a director
+	- **(a)** immediately after they become aware that the contract, transaction, proposed contract or proposed transaction is to be considered or has been considered at a meeting of directors or of a committee of directors;
+	- **(b)** if they become interested after the contract or transaction is entered into, immediately after they become interested; or
+	- **(c)** if a person who is interested in a contract or transaction becomes an officer, immediately after they become an officer.
 
-**Time of disclosure for director or officer**
+**Time of disclosure — contract not requiring approval**
 
-- **(4)** If a material contract or proposed material contract is one that, in the ordinary course of business of the bank holding company, would not require approval by the directors or shareholders, a director or an officer referred to in subsection (1) shall disclose in writing to the bank holding company or request to have entered in the minutes of meetings of directors the nature and extent of the director’s or officer’s interest forthwith after the director or officer becomes aware of the contract or proposed contract.
-> 2001, c. 9, s. 183.
-
+- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the bank holding company’s business would not require approval by the directors or shareholders, the director or officer shall disclose to the bank holding company, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 110.
 
 
 
 
-**Where director must abstain**
+
+**Director to abstain**
 
 **790** 
 
-- **(1)** Where subsection 789(1) applies to a director in respect of a contract, the director shall not be present at any meeting of directors while the contract is being considered at the meeting or vote on any resolution to approve the contract unless the contract is
-	- **(a)** an arrangement by way of security for money lent to or obligations undertaken by the director for the benefit of the bank holding company or a subsidiary of the bank holding company;
-	- **(b)** a contract relating primarily to the director’s remuneration as a director or an officer, employee or agent of the bank holding company or a subsidiary of the bank holding company or an entity controlled by the bank holding company or an entity in which the bank holding company has a substantial investment;
-	- **(c)** a contract for indemnity under section 799 or for insurance under section 800; or
-	- **(d)** a contract with an affiliate of the bank holding company.
+- **(1)** A director who is required to make a disclosure under subsection 789(1) shall not be present at any meeting of directors, or of a committee of directors, while the contract or transaction is being considered or vote on any resolution to approve it unless the contract or transaction
+	- **(a)** relates primarily to their remuneration as a director, officer, employee or agent of the bank holding company, an entity controlled by the bank holding company or an entity in which the bank holding company has a substantial investment;
+	- **(b)** is for indemnity under section 799 or insurance under section 800; or
+	- **(c)** is with an affiliate of the bank holding company.
 
 **Ineligibility**
 
@@ -17621,16 +17966,25 @@ shall disclose in writing to the bank holding company or request to have entered
 **Validity of acts**
 
 - **(3)** An act of the board of directors of a bank holding company, or of a committee of the board of directors, is not invalid because a person acting as a director had ceased under subsection (2) to hold office as a director.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 111.
 
 
 
 
 
-**Continuing disclosure**
+**General notice**
 
-**791** For the purposes of subsection 789(1), a general notice to the directors by a director or an officer declaring that the director or officer is a director or officer of an entity, or has a material interest in a person, and is to be regarded as interested in any contract made with that entity or person, is a sufficient declaration of interest in relation to any contract so made.
-> 2001, c. 9, s. 183.
+**791** 
+
+- **(1)** For the purposes of subsection 789(1), a general notice to the directors declaring that a director or officer is to be regarded as interested for any of the following reasons in a contract or transaction entered into with a party is a sufficient declaration of interest in relation to any contract or transaction with that party:
+	- **(a)** the director or officer is a director or officer of a party referred to in paragraph 789(1)(b) or (c) or a person acting in a similar capacity;
+	- **(b)** the director or officer has a material interest in the party; or
+	- **(c)** there has been a material change in the nature of the director’s or officer’s interest in the party.
+
+**Access to disclosures**
+
+- **(2)** The shareholders of the bank holding company may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 789(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the bank holding company.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 112.
 
 
 
@@ -17638,20 +17992,29 @@ shall disclose in writing to the bank holding company or request to have entered
 
 **Avoidance standards**
 
-**792** A material contract between a bank holding company and one or more of its directors or officers, or between a bank holding company and another entity of which a director or an officer of the bank holding company is a director or an officer or between a bank holding company and a person in which the director or officer has a material interest, is neither void nor voidable
-- **(a)** by reason only of that relationship, or
-- **(b)** by reason only that a director with an interest in the contract is present at or is counted to determine the presence of a quorum at the meeting of directors or the committee of directors that authorized the contract,
-if the director or officer disclosed the interest in accordance with subsection 789(2), (3) or (4) or section 791 and the contract was approved by the directors or the shareholders and it was reasonable and fair to the bank holding company at the time it was approved.
-> 2001, c. 9, s. 183.
+**792** 
+
+- **(1)** A contract or transaction for which disclosure is required under subsection 789(1) is not invalid and a director or officer is not accountable to the bank holding company or its shareholders for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
+	- **(a)** the director or officer disclosed their interest in accordance with section 789 and subsection 791(1);
+	- **(b)** the directors approved the contract or transaction; and
+	- **(c)** the contract or transaction was reasonable and fair to the bank holding company at the time that it was approved.
+
+**Confirmation by shareholders**
+
+- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the bank holding company or its shareholders for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
+	- **(a)** the contract or transaction is approved or confirmed by special resolution at a meeting of shareholders;
+	- **(b)** disclosure of the interest was made to the shareholders in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
+	- **(c)** the contract or transaction was reasonable and fair to the bank holding company at the time that it was approved or confirmed.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 112.
 
 
 
 
 
-**Application to court**
+**Court may set aside or require accounting**
 
-**793** Where a director or an officer of a bank holding company fails to disclose an interest in a material contract in accordance with sections 789 and 791, a court may, on the application of the bank holding company or a shareholder of the bank holding company, set aside the contract on such terms as the court thinks fit.
-> 2001, c. 9, s. 183.
+**793** If a director or officer of a bank holding company fails to comply with any of sections 789 to 792, a court, on application of the bank holding company or any of its shareholders, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the bank holding company for any profit or gain realized on it.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 112.
 
 
 
@@ -18204,7 +18567,7 @@ if the director or officer disclosed the interest in accordance with subsection 
 
 **Access to bank holding company records**
 
-- **(4)** Shareholders and creditors of a bank holding company and their personal representatives may examine the records referred to in subsection 815(1) during the usual business hours of the bank holding company, and may take extracts therefrom, free of charge, or have copies made thereof on payment of a reasonable fee and, where the bank holding company is a distributing bank holding company within the meaning of subsection 265(1), any other person may, on payment of a reasonable fee, examine such records and take extracts therefrom or copies thereof.
+- **(4)** Shareholders and creditors of a bank holding company and their personal representatives may examine the records referred to in subsection 815(1) during the usual business hours of the bank holding company and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the bank holding company is a distributing bank holding company, any other person may on payment of a reasonable fee examine those records during the usual business hours of the bank holding company and take extracts from them or have copies of them made.
 
 **Copies of by-laws**
 
@@ -18213,7 +18576,7 @@ if the director or officer disclosed the interest in accordance with subsection 
 **Electronic access**
 
 - **(6)** A bank holding company may make the information contained in records referred to in subsection 815(1) available to persons by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing the records in intelligible written form within a reasonable time.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 120.
 
 
 
@@ -18233,9 +18596,9 @@ if the director or officer disclosed the interest in accordance with subsection 
 	- **(c)** an undertaking that the basic list and any supplemental lists obtained pursuant to subsections (5) and (6) will not be used except as permitted under section 819,
 and, if the applicant is an entity, the affidavit shall be made by a director or an officer of the entity, or any person acting in a similar capacity.
 
-**Entitlement**
+**Entitlement to list**
 
-- **(3)** Every shareholder or creditor of a bank holding company or the personal representative of a shareholder or creditor of a bank holding company is entitled to a basic list of shareholders of the bank holding company, but, if the bank holding company is a distributing bank holding company within the meaning of subsection 265(1), any person is entitled to a basic list of shareholders of the bank holding company on request therefor.
+- **(3)** A shareholder or creditor of a bank holding company or their personal representative — or if the bank holding company is a distributing bank holding company, any person — is entitled to a basic list of shareholders of the bank holding company.
 
 **Basic list**
 
@@ -18253,7 +18616,7 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 - **(6)** A bank holding company or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 121.
 
 
 
@@ -18384,10 +18747,28 @@ the registers and records required or authorized by this Part to be prepared and
 
 - **(2)** For the purposes of subsection (1), “central securities register” includes similar registers required by law to be maintained by a body corporate continued, or amalgamated and continued, as a bank holding company under this Part before the continuance, or amalgamation, as the case may be.
 
-**Application of certain provisions**
+**Access to central securities register**
 
-- **(3)** Subsections 816(4) and (6) and sections 817 and 819 to 822 apply, with such modifications as the circumstances require, in respect of a central securities register.
-> 2001, c. 9, s. 183.
+- **(3)** Shareholders and creditors of a bank holding company and their personal representatives may examine the central securities register during the usual business hours of the bank holding company and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the bank holding company is a distributing bank holding company, any other person may on payment of a reasonable fee examine the central securities register during the usual business hours of the bank holding company and take extracts from it or have copies of it made.
+
+**Electronic access**
+
+- **(4)** The bank holding company may make the information contained in the central securities register available by any mechanical or electronic data processing system or other information storage device that is capable of reproducing it in intelligible written form within a reasonable time.
+
+**Affidavit and undertaking**
+
+- **(5)** A person who wishes to examine the central securities register, take extracts from it or have copies of it made shall provide the bank holding company with an affidavit containing their name and address — or if they are an entity, the name and address for service of the entity — and with an undertaking that the information contained in the register will not be used except in the same way as a list of shareholders may be used under section 819. In the case of an entity, the affidavit is to be sworn by a director or officer of the entity or a person acting in a similar capacity.
+
+**Supplemental information**
+
+- **(6)** A person who wishes to examine a central securities register, take extracts from it or have copies of it made may on payment of a reasonable fee, if they state in the accompanying affidavit that supplementary information is required, request the bank holding company or its agent to provide supplementary information setting out any changes made to the register.
+
+**When supplementary information to be provided**
+
+- **(7)** A bank holding company or its agent shall provide the supplementary information within
+	- **(a)** 10 days after the day on which the central securities register is examined if the changes take place before that day; and
+	- **(b)** 10 days after the day to which the supplementary information relates if the changes take place on or after the day on which the central securities register is examined.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 123.
 
 
 
@@ -18477,8 +18858,14 @@ the registers and records required or authorized by this Part to be prepared and
 
 **Corporate seal**
 
-**833** An instrument or agreement executed on behalf of a bank holding company by a director, an officer or an agent of the bank holding company is not invalid merely because a corporate seal is not affixed thereto.
-> 2001, c. 9, s. 183.
+**833** 
+
+- **(1)** A bank holding company may adopt a corporate seal and change one that it adopted.
+
+**Validity of unsealed documents**
+
+- **(2)** A document executed on behalf of a bank holding company is not invalid merely because a corporate seal is not affixed to it.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 124.
 
 
 
@@ -18488,12 +18875,10 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Sections 265 to 272 apply**
+**Ss. 265 to 272 apply**
 
-**834** Sections 265 to 272 apply in respect of bank holding companies, subject to the following:
-- **(a)** references to “bank” in those sections are to be read as references to “bank holding company”; and
-- **(b)** the reference to “this Act” in subsection 266(3) is to be read as a reference to “this Part”.
-> 2001, c. 9, s. 183.
+**834** Sections 265 to 272 apply in respect of bank holding companies except that references to “bank” are to be read as references to “bank holding company”.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 124.
 
 
 
@@ -18503,13 +18888,26 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Sections 273 to 282 apply**
+**Ss. 273 and 274 apply**
 
-**835** Sections 273 to 282 apply in respect of bank holding companies, subject to the following:
-- **(a)** references to “bank” in those sections are to be read as references to “bank holding company”;
-- **(b)** references to “this Act” in those sections are to be read as references to “this Part”; and
-- **(c)** subsection 274(1) is to be read without reference to “or auditors”.
-> 2001, c. 9, s. 183.
+**835** Sections 273 and 274 apply in respect of bank holding companies except that references to “bank” are to be read as references to “bank holding company”.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 124.
+
+
+
+
+
+##### Going-private Transactions and Squeeze-out Transactions
+
+
+
+**Ss. 275 to 277 apply**
+
+**835.1** Sections 275 to 277 apply in respect of bank holding companies subject to the following:
+- **(a)** references to “bank” are to be read as references to “bank holding company”;
+- **(b)** the reference to “this Act” in section 276 is to be read as a reference to “this Part”; and
+- **(c)** the reference to “a regulation referred to in subsection 485(1) or (2) or of an order made under subsection 485(3)” in subsection 277(25) is to be read as a reference to “a regulation referred to in subsection 949(1) or (2) or of an order made under subsection 949(3)”.
+> 2005, c. 54, s. 124.
 
 
 
@@ -18519,13 +18917,13 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Sections 283 to 292 apply**
+**Ss. 283 to 292.1 apply**
 
-**836** Sections 283 to 292 apply in respect of bank holding companies, subject to the following:
+**836** Sections 283 to 292.1 apply in respect of bank holding companies, subject to the following:
 - **(a)** references to “bank” in those sections are to be read as references to “bank holding company”;
 - **(b)** references to “another deposit-taking financial institution” in subsection 287(3) are to be read as references to “a deposit-taking financial institution”; and
 - **(c)** the reference to “the Minister” in subsection 291(4) is to be read as a reference to “the Receiver General”.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 125.
 
 
 
@@ -18749,10 +19147,16 @@ showing such information and particulars as in the opinion of the directors are 
 
 - **(2)** For the purposes of subsection (1),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a member of a firm of accountants is deemed not to be independent of a bank holding company if that member or any other member of the firm of accountants, or if the firm of accountants
-		- **(i)** is a director or an officer or employee of the bank holding company or of any affiliate of the bank holding company or is a business partner of any director, officer or employee of the bank holding company or of any affiliate of the bank holding company,
+	- **(b)** a member of a firm of accountants is deemed not to be independent of a bank holding company if that member, a business partner of that member or the firm of accountants
+		- **(i)** is a business partner, director, officer or employee of the bank holding company or of any affiliate of the bank holding company or is a business partner of any director, officer or employee of the bank holding company or of any affiliate of the bank holding company,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the bank holding company or of any affiliate of the bank holding company, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the bank holding company within the two years immediately preceding the firm’s proposed appointment as auditor of the bank holding company, other than an affiliate that is a subsidiary of the bank holding company acquired pursuant to section 934 or through a realization of security pursuant to section 935.
+
+**Business partners**
+
+- **(2.1)** For the purposes of subsection (2), a business partner of a member of a firm of accountants includes
+	- **(a)** another member of the firm; and
+	- **(b)** a shareholder of the firm or of a business partner of the member.
 
 **Notice of designation**
 
@@ -18765,7 +19169,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the bank holding company, there shall be deemed to be a vacancy in the office of auditor of the bank holding company.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 129.
 
 
 
@@ -18874,10 +19278,14 @@ showing such information and particulars as in the opinion of the directors are 
 	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders at which another firm of accountants is to be appointed in its stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
 shall submit to the bank holding company and the Superintendent a written statement giving the reasons for the resignation or the reasons why the auditor opposes any proposed action.
 
-**Statement to be sent to shareholders**
+**Other statements**
 
-- **(2)** Where a bank holding company receives a written statement referred to in subsection (1) that relates to a resignation as a result of a disagreement with the directors or officers of the bank holding company or that relates to a matter referred to in paragraph (1)(b) or (c), the bank holding company shall forthwith send a copy of the statement to each shareholder who is entitled to vote at the annual meeting of shareholders.
-> 2001, c. 9, s. 183.
+- **(1.1)** In the case of a proposed replacement of an auditor whether because of removal or the expiry of their term, the bank holding company shall make a statement of the reasons for the proposed replacement and the proposed replacement auditor may make a statement in which they comment on those reasons.
+
+**Statements to be sent**
+
+- **(2)** The bank holding company shall send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder entitled to vote at the annual meeting of shareholders and to the Superintendent.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 130.
 
 
 
@@ -19005,7 +19413,9 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **860** 
 
-- **(1)** A bank holding company shall take all necessary steps to ensure that each of its subsidiaries has as its auditor the auditor of the bank holding company.
+- **(1)** A bank holding company shall take all necessary steps to ensure that
+	- **(a)** its auditor is the auditor of each of its subsidiaries; and
+	- **(b)** in the case of a subsidiary with more than one auditor, the auditor of the bank holding company is one of the subsidiary’s auditors.
 
 **Subsidiary outside Canada**
 
@@ -19014,7 +19424,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception**
 
 - **(3)** Subsection (1) does not apply in respect of any particular subsidiary where the bank holding company, after having consulted its auditor, is of the opinion that the total assets of the subsidiary are not a material part of the total assets of the bank holding company.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 131.
 
 
 
