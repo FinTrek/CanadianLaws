@@ -151,6 +151,8 @@ the insurance of risks in Canada by which has been approved by order of the Supe
 - **(b)** that has a representative form of government, and
 - **(c)** that was incorporated for fraternal, benevolent or religious purposes, including the provision of insurance benefits solely to its members or the spouses, common-law partners or children of its members;
 
+***going-private transaction*** means a going-private transaction as defined in the regulations;
+
 ***guarantee*** includes a letter of credit;
 
 ***head office*** means
@@ -270,6 +272,10 @@ but does not include a policy;
 
 ***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders and policyholders and, in the case of a fraternal benefit society, the members, who voted in respect of that resolution or signed by all the shareholders, policyholders and members entitled to vote on that resolution;
 
+***squeeze-out transaction*** means a transaction by a company that is not a distributing company, or an insurance holding company that is not a distributing insurance holding company, that requires an amendment to a by-law referred to in subsection 238(1) or 851(1), as the case may be, and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
+- **(a)** in the case of a company, the company, and
+- **(b)** in the case of an insurance holding company, the insurance holding company;
+
 ***subordinated indebtedness*** means an instrument evidencing an indebtedness of a company that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the company, be subordinate in right of payment to all policy liabilities of the company and all other liabilities of the company except those other liabilities that, by their terms, rank equally with or are subordinate to such indebtedness;
 
 ***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
@@ -312,6 +318,25 @@ but does not include a policy;
 
 
 ### Interpretation
+
+
+
+**Regulations — distributing company or insurance holding company**
+
+**2.1** 
+
+- **(1)** The Governor in Council may make regulations respecting the determination of what constitutes a distributing company or distributing insurance holding company for the purposes of this Act.
+
+**Exemption — company or insurance holding company**
+
+- **(2)** On the application of a company or insurance holding company, the Superintendent may determine that it is not or was not a distributing company or distributing insurance holding company, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of that company or insurance holding company.
+
+**Exemption — class of companies or insurance holding companies**
+
+- **(3)** The Superintendent may determine that members of a class of companies or insurance holding companies are not or were not distributing companies or distributing insurance holding companies, as the case may be, if the Superintendent is satisfied that the determination would not prejudice any security holder of a member of the class.
+> 2005, c. 54, s. 215.
+
+
 
 
 
@@ -2287,23 +2312,20 @@ but does not include a policy; (*valeur mobilière* ou *certificat de valeur m
 
 
 
-**Signatures on security certificate**
+**Signatures**
 
 **90** 
 
-- **(1)** A security certificate shall be signed manually
-	- **(a)** by at least one director or officer of the company,
-	- **(b)** by or on behalf of a registrar, transfer agent or branch transfer agent of the company, or
-	- **(c)** by a trustee who certifies it in accordance with a trust indenture,
-and any additional signatures required on a security certificate may be printed or otherwise mechanically produced thereon.
+- **(1)** A security certificate shall be signed by or bear the printed or otherwise mechanically reproduced signature of at least one of the following:
+	- **(a)** a director or officer of the company;
+	- **(b)** a registrar or transfer agent of the company or a branch transfer agent or a natural person on their behalf; or
+	- **(c)** a trustee who certifies it in accordance with a trust indenture.
 
-**No manual signature required**
+**Continuation of validity of signature**
 
-- **(2)** Notwithstanding subsection (1), a manual signature is not required on a security certificate representing a fractional share, on an option or a right to acquire a security or on a scrip certificate.
+- **(2)** If a security certificate contains a person’s printed or mechanically reproduced signature, the company may issue the security certificate even if the person has ceased to be a director or officer of the company. The security certificate is as valid as if the person were a director or officer at the date of its issue.
+> 1991, c. 47, s. 90; 2005, c. 54, s. 224.
 
-**Continuation of signature**
-
-- **(3)** Where a security certificate contains a printed or mechanically reproduced signature of a person, the company may issue the security certificate, notwithstanding that the person has ceased to be a director or an officer of the company, and the security certificate is as valid as if the person were a director or an officer at the date of its issue.
 
 
 
@@ -2319,23 +2341,20 @@ and any additional signatures required on a security certificate may be printed 
 
 
 
-**Restrictions and constraints**
+**Restrictions and charges**
 
 **92** 
 
-- **(1)** If a security certificate issued by a company is or becomes subject to
-	- **(a)** a restriction on its transfer except a constraint under any provision of Part VII other than section 427, or
-	- **(b)** a lien in favour of the company,
-the restriction or lien is ineffective against a transferee of the security who has no actual knowledge of it, unless the restriction or lien or a reference to it is noted conspicuously on the security certificate.
+- **(1)** No charge in favour of a company and no restriction on transfer, other than a constraint under Part VII other than section 427, is effective against a transferee of a security issued by the company if the transferee has no actual knowledge of the charge or restriction unless it or a reference to it is noted conspicuously on the security certificate.
 
-**Limit on restriction**
+**No restriction**
 
-- **(2)** Where any of the issued shares of a company are or were part of a distribution to the public and remain outstanding and are held by more than one person, the company shall not have a restriction on the issue, transfer or ownership of its shares of any class or series except by way of a constraint under Part VII.
+- **(2)** If any of the issued shares of a distributing company remain outstanding and are held by more than one person, the company may not restrict the transfer or ownership of its shares except by way of a constraint under Part VII.
 
-**Transitional**
+**Continuance**
 
-- **(3)** If a body corporate that is continued as a company under this Act has outstanding security certificates and the words “private company” or “private corporation” appear on the certificates, those words are deemed to be a notice of a restriction or lien for the purposes of subsection (1).
-> 1991, c. 47, s. 92; 1996, c. 6, s. 71.1.
+- **(3)** If a body corporate that is continued as a company under this Act has outstanding security certificates and the words “private company” or “private corporation” appear on the certificates, those words are deemed to be a notice of a charge or restriction for the purposes of subsection (1).
+> 1991, c. 47, s. 92; 1996, c. 6, s. 71.1; 2005, c. 54, s. 225.
 
 
 
@@ -3054,7 +3073,19 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Place of meetings**
 
-**140** Meetings of shareholders or policyholders of a company shall be held at the place within Canada provided for in the by-laws of the company or, in the absence of any such provision, at the place within Canada that the directors determine.
+**140** 
+
+- **(1)** Meetings of shareholders or policyholders of a company shall be held at the place within Canada provided for in the by-laws of the company or, in the absence of any such provision, at the place within Canada that the directors determine.
+
+**Participation by electronic means**
+
+- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders or policyholders may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the company makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Act to be present at the meeting.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting the manner of and conditions for participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting.
+> 1991, c. 47, s. 140; 2005, c. 54, s. 228.
+
 
 
 
@@ -3065,10 +3096,26 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Calling meetings**
 
-**141** The directors of a company
-- **(a)** shall, after the meeting called pursuant to subsection 50(1) or (2), call the first annual meeting of shareholders and policyholders of the company, which meeting must be held not later than six months after the end of the first financial year of the company;
-- **(b)** shall subsequently call an annual meeting of shareholders and policyholders, which meeting must be held not later than six months after the end of each financial year; and
-- **(c)** may at any time call a special meeting of shareholders or policyholders.
+**141** 
+
+- **(1)** The directors of a company
+	- **(a)** shall, after the meeting called pursuant to subsection 50(1) or (2), call the first annual meeting of shareholders and policyholders of the company, which meeting must be held not later than six months after the end of the first financial year of the company;
+	- **(b)** shall subsequently call an annual meeting of shareholders and policyholders, which meeting must be held not later than six months after the end of each financial year; and
+	- **(c)** may at any time call a special meeting of shareholders or policyholders.
+
+**Order to delay calling annual meeting**
+
+- **(2)** Despite subsection (1), the company may apply to the court for an order extending the time for calling an annual meeting.
+
+**Obligation to notify Superintendent**
+
+- **(3)** The company shall give notice of the application to the Superintendent before any hearing concerning the application and shall provide the Superintendent with a copy of any order that is issued.
+
+**Superintendent’s right to appear**
+
+- **(4)** The Superintendent is entitled to appear and be heard in person or by counsel at any hearing concerning the application.
+> 1991, c. 47, s. 141; 2005, c. 54, s. 229.
+
 
 
 
@@ -3077,61 +3124,48 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 
 
-**Fixing record date**
+**Authority to fix record date**
 
 **142** 
 
-- **(1)** For the purpose of determining
-	- **(a)** shareholders entitled to receive payment of a dividend,
-	- **(b)** shareholders or policyholders entitled to participate in a liquidation distribution,
-	- **(c)** who is a shareholder for any other purpose except the right to receive notice of, or to vote at, a meeting, or
-	- **(d)** who is a policyholder for any other purpose except
-		- **(i)** the right to receive notice of, or to vote at, a meeting,
-		- **(ii)** the right to receive payment of a policy dividend or bonus,
-		- **(iii)** any purpose where the determination of policyholders is governed by contract, and
-		- **(iv)** the right to receive benefits in respect of the conversion of a mutual company into a company with common shares,
-the directors may fix in advance a date as the record date for the determination of shareholders or policyholders, but the record date so fixed shall not precede by more than fifty days the particular action to be taken.
+- **(1)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of
+	- **(a)** shareholders who are entitled to receive payment of a dividend;
+	- **(b)** shareholders or policyholders who are entitled to participate in a liquidation distribution;
+	- **(c)** shareholders
+		- **(i)** who are entitled to receive notice of a meeting of shareholders or a meeting of shareholders and policyholders,
+		- **(ii)** who are entitled to vote at a meeting of shareholders or at a meeting of shareholders and policyholders, or
+		- **(iii)** for any other purpose;
+	- **(d)** policyholders who are entitled to
+		- **(i)** receive notice of a meeting of policyholders or a meeting of shareholders and policyholders, or
+		- **(ii)** vote at a meeting of policyholders or at a meeting of shareholders and policyholders; or
+	- **(e)** policyholders for any other purpose except
+		- **(i)** the right to receive payment of a policy dividend or bonus,
+		- **(ii)** any purpose where the determination of policyholders is governed by contract, and
+		- **(iii)** the right to receive benefits in respect of the conversion of a mutual company into a company with common shares.
 
-**Record date for meetings**
+**Determination of record date — shareholders**
 
-- **(2)** For the purpose of determining shareholders or policyholders entitled to receive notice of a meeting of shareholders or policyholders, the directors may fix in advance a date as the record date for the determination of shareholders or policyholders, but the record date so fixed shall not precede the date on which the meeting is to be held by
-	- **(a)** more than fifty days or less than twenty-one days, in the case of a date for the determination of shareholders; or
-	- **(b)** more than ninety days or less than twenty-one days, in the case of a date for the determination of policyholders.
+- **(2)** If no record date is fixed,
+	- **(a)** the record date for the determination of shareholders who are entitled to receive notice of a meeting of shareholders or a meeting of shareholders and policyholders is
+		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
+		- **(ii)** if no notice is given, the day on which the meeting is held; and
+	- **(b)** the record date for the determination of shareholders for any other purpose, other than to establish a shareholder’s right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
 
-**Record date for policyholders’ vote**
+**Determination of record date — policyholders**
 
-- **(2.1)** Before a meeting of policyholders, the directors may fix a date as the record date for the purpose of determining policyholders entitled to vote at the meeting. That record date must not be more than ten days before the date on which the meeting is to be held.
+- **(3)** If no record date is fixed,
+	- **(a)** the record date for the determination of policyholders who are entitled to receive notice of a meeting of policyholders or a meeting of shareholders and policyholders is
+		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
+		- **(ii)** if no notice is given, the day on which the meeting is held;
+	- **(b)** the record date for the determination of policyholders entitled to vote at a meeting is the day on which the meeting is held; and
+	- **(c)** the record date for the determination of policyholders for any other purpose is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
 
-**No record date fixed under subsection (1)**
+**Notice of record date — shareholders**
 
-- **(3)** If no record date is fixed under subsection (1) for the determination of shareholders or policyholders for any purpose for which a record date could have been fixed under that subsection, the record date for the determination of shareholders or policyholders for that purpose is the date on which the directors pass the resolution relating to that purpose.
-
-**No record date fixed for shareholders under subsection (2)**
-
-- **(3.1)** If no record date is fixed under subsection (2) for the determination of shareholders entitled to receive notice of a meeting, the record date for the determination of shareholders entitled to receive notice of, or to vote at, that meeting is
-	- **(a)** the day immediately before the day on which the notice is given; or
-	- **(b)** if no notice is given, the day on which the meeting is held.
-
-**No record date fixed for policyholders under subsection (2)**
-
-- **(3.2)** If no record date is fixed under subsection (2) for the determination of policyholders entitled to receive notice of a meeting, the record date for that purpose is
-	- **(a)** the day immediately before the day on which the notice is given; or
-	- **(b)** if no notice is given, the day on which the meeting is held.
-
-**No record date fixed under subsection (2.1)**
-
-- **(3.3)** If no record date is fixed under subsection (2.1) for the determination of policyholders entitled to vote at a meeting, the record date for that purpose is the day on which the meeting is held.
-
-**Notice of record date**
-
-- **(4)** Subject to subsection (5), where a record date is fixed for the determination of shareholders for any purpose, notice of the record date shall, not less than seven days before the record date, be given
-	- **(a)** by advertisement in a newspaper in general circulation in the place where the head office of the company is situated and in each place in Canada where the company has a transfer agent or where a transfer of the company’s shares may be recorded; and
-	- **(b)** by written notice to each stock exchange, if any, in Canada on which the shares of the company are listed for trading.
-
-**Exception**
-
-- **(5)** Notice of a record date need not be given where the requirement to give the notice is waived in writing by every holder of a share of the class or series affected by the fixing of the record date whose name is set out in the central securities register at the close of business on the day on which the directors fix the record date.
-> 1991, c. 47, s. 142; 1997, c. 15, s. 186; 1999, c. 1, s. 1.
+- **(4)** If a record date is fixed and unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the securities register at the close of business on the day on which the directors fix the record date, notice of the record date shall be given within the prescribed period by
+	- **(a)** advertisement in a newspaper in general circulation in the place where the company’s head office is situated and in each place in Canada where the company has a transfer agent or where a transfer of its shares may be recorded; and
+	- **(b)** written notice to each stock exchange in Canada on which the company’s shares are listed for trading.
+> 1991, c. 47, s. 142; 1997, c. 15, s. 186; 1999, c. 1, s. 1; 2005, c. 54, s. 230.
 
 
 
@@ -3145,21 +3179,21 @@ the directors may fix in advance a date as the record date for the determination
 
 **143** 
 
-- **(1)** Notice of the time and place of a meeting of shareholders or policyholders of a company shall be sent not less than twenty-one days or more than fifty days before the meeting to
+- **(1)** Notice of the time and place of a meeting of a company’s shareholders or policyholders shall be sent within the prescribed period to
 	- **(a)** each shareholder entitled to vote at the meeting;
-	- **(b)** each policyholder who is determined under subsection (1.4) or (1.6) to be a policyholder entitled to notice under this paragraph, if no business referred to in any of subparagraphs (c)(i) to (iii) is to be dealt with at the meeting;
-	- **(c)** each policyholder entitled to vote at the meeting, if any of the following business is to be dealt with at the meeting:
-		- **(i)** authorizing the company to apply to the Minister for the approval of a mutualization proposal or of an amalgamation agreement,
-		- **(ii)** confirming a by-law changing
-			- **(A)** the rights of policyholders to vote at meetings of shareholders or policyholders, or
-			- **(B)** the place of the head office of the company to a place in another province, or
-		- **(iii)** approving an agreement setting out the terms and means of effecting
-			- **(A)** the transfer of all or substantially all of the company’s policies, or
-			- **(B)** the reinsurance of all or substantially all of the company’s policies;
-		- **(iv)** [Repealed, 1999, c. 1, s. 2]
+	- **(b)** each policyholder who is determined under subsection (1.4) or (1.6) to be entitled to notice if no business referred to in subparagraphs (c)(i) to (iii) is to be dealt with;
+	- **(c)** each policyholder entitled to vote at the meeting if any of the following business is to be dealt with:
+		- **(i)** authorizing the company to apply to the Minister for approval of a mutualization proposal or amalgamation agreement,
+		- **(ii)** confirming a by-law changing the rights of policyholders to vote at meetings or the province in which the head office of the company is situated, or
+		- **(iii)** approving an agreement setting out the terms and means of effecting the transfer of all or substantially all of the company’s policies or the reinsurance of all or substantially all of the company’s policies;
 	- **(d)** each director;
-	- **(e)** the auditor of the company; and
-	- **(f)** the actuary of the company.
+	- **(e)** the auditor of the company;
+	- **(f)** the actuary of the company; and
+	- **(g)** the Superintendent.
+
+**Exception**
+
+- **(1.001)** In the case of a company that is not a distributing company and does not have any policyholders entitled to vote, notice may be sent within any shorter period specified in its by-laws.
 
 **Number of eligible votes**
 
@@ -3189,9 +3223,7 @@ the directors may fix in advance a date as the record date for the determination
 
 **Notice under second practice**
 
-- **(1.6)** If a company chooses to adopt and follow the practice under subsection (1.5), each policyholder entitled to vote at a meeting of shareholders and policyholders of the company is entitled to notice under paragraph (1)(b) if
-	- **(a)** the policyholder, within three years before the record date fixed or determined under subsection 142(2) or (3.2) for the meeting, completes and returns to the company a form referred to in paragraph (1.5)(b) or a form referred to in paragraph 164(1)(b), as that paragraph read before the coming into force of this subsection; and
-	- **(b)** the policyholder indicates on that form that the policyholder wants to receive notices of meetings of shareholders and policyholders of the company.
+- **(1.6)** If a company chooses the practice under subsection (1.5), each policyholder entitled to vote at a meeting is entitled to notice under paragraph (1)(b) if, within three years before the record date fixed under subparagraph 142(1)(d)(i) or determined under paragraph 142(3)(a), they complete and return to the company the form referred to in paragraph (1.5)(b) indicating that they want to receive notice or they indicate to the satisfaction of the company that they want to receive notice.
 
 **Exemption**
 
@@ -3203,18 +3235,18 @@ the directors may fix in advance a date as the record date for the determination
 	- **(a)** where any class of shares of a company is publicly traded on a recognized stock exchange in Canada, notice of the time and place of the meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in the place where the head office of the company is situated and in each place in Canada where the company has a transfer agent or where a transfer of the company’s shares may be recorded; or
 	- **(b)** notice of the time and place of the meeting of policyholders of the company and, where a company follows the practice under subsection (1.5), information on the means by which any policyholder can receive the notice required under subsection (1), shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in the place where the head office of the company is situated and in each region of Canada in which more than one per cent of the total number of policyholders entitled to vote at the meeting reside.
 
-**When notice not required**
+**Notice not required — shareholders**
 
-- **(4)** A notice of a meeting of shareholders is not required to be sent to shareholders who are not registered on the records of the company or its transfer agent on the record date fixed or determined under subsection 142(2) or (3).
+- **(4)** Notice of a meeting is not required to be sent to shareholders who are not registered on the records of the company or the company’s transfer agent on the record date fixed under subparagraph 142(1)(c)(i) or determined under paragraph 142(2)(a).
 
-**Idem**
+**Notice not required — policyholders**
 
-- **(5)** A notice of a meeting at which business referred to in paragraph (1)(c) is to be dealt with is not required to be sent to policyholders who become policyholders after the record date fixed or determined under subsection 142(2) or (3).
+- **(5)** Notice of a meeting at which business referred to in paragraph (1)(c) is to be dealt with is not required to be sent to policyholders who become policyholders after the record date fixed under subparagraph 142(1)(d)(i) or determined under paragraph 142(3)(a).
 
 **Effect of default**
 
 - **(6)** Failure to receive a notice of a meeting of shareholders or policyholders does not deprive a shareholder or policyholder of the right to vote at the meeting.
-> 1991, c. 47, s. 143; 1993, c. 34, s. 78; 1997, c. 15, s. 187; 1999, c. 1, s. 2; 2001, c. 9, s. 370.
+> 1991, c. 47, s. 143; 1993, c. 34, s. 78; 1997, c. 15, s. 187; 1999, c. 1, s. 2; 2001, c. 9, s. 370; 2005, c. 54, s. 231.
 
 
 
@@ -3275,31 +3307,53 @@ the directors may fix in advance a date as the record date for the determination
 
 **147** 
 
-- **(1)** A shareholder or policyholder entitled to vote at an annual meeting of shareholders and policyholders of a company may
-	- **(a)** submit to the company notice of any matter that the shareholder or policyholder proposes to raise at the meeting; and
-	- **(b)** discuss at the meeting any matter in respect of which the shareholder or policyholder would have been entitled to submit a proposal.
+- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares that may be voted — or a policyholder entitled to vote — at an annual meeting of shareholders and policyholders may
+	- **(a)** submit to the company notice of any matter that they propose to raise at the meeting (in this section and section 148 referred to as a “proposal”); and
+	- **(b)** discuss at the meeting any matter in respect of which they would have been entitled to submit a proposal.
+
+**Eligibility to submit proposal**
+
+- **(1.1)** To be eligible to submit a proposal a person shall
+	- **(a)** for at least the prescribed period be the registered holder or beneficial owner of at least the prescribed number of the company’s outstanding shares;
+	- **(b)** have the support of persons who, in the aggregate and including or not including the person who submits the proposal, have for at least the prescribed period been the registered holders or beneficial owners of at least the prescribed number of the company’s outstanding shares; or
+	- **(c)** be a policyholder entitled to vote at an annual meeting of the company’s shareholders and policyholders.
+
+**Information to be provided**
+
+- **(1.2)** A proposal submitted by a registered holder or beneficial owner is to be accompanied by the following information:
+	- **(a)** the name and address of the person submitting the proposal and the names and addresses of their supporters, if any; and
+	- **(b)** the number of shares held or owned by the person and their supporters, if any, and the date that the shares were acquired.
+
+**Information not part of proposal**
+
+- **(1.3)** The information provided under subsection (1.2) does not form part of a proposal or of the supporting statement referred to in subsection (3) and is not to be included for the purpose of the prescribed maximum number of words referred to in subsection (3).
+
+**Proof may be required**
+
+- **(1.4)** If the company requests within the prescribed period that a person provide proof that they are eligible to submit a proposal, the person shall within the prescribed period provide proof that they meet the requirements of subsection (1.1).
 
 **Circulation of proposal**
 
 - **(2)** A company shall attach any proposal of a shareholder or policyholder submitted for consideration at a meeting of shareholders and policyholders to the notice of the meeting.
 
-**Proponent’s statement**
+**Supporting statement**
 
-- **(3)** If so requested by a shareholder or policyholder who submits a proposal to a company, the company shall attach to the notice of the meeting a statement by the shareholder or policyholder of not more than two hundred words in support of the proposal and the name and address of the shareholder or policyholder.
+- **(3)** At the request of the person who submits a proposal, the company shall attach to the notice of the meeting the person’s statement in support of the proposal and their name and address. The statement and proposal together are not to exceed the prescribed maximum number of words.
 
-**Nominations for directors**
+**Nomination of directors**
 
-- **(4)** A proposal may include nominations for the election of directors if the proposal is signed by
-	- **(a)** one or more holders of shares representing in the aggregate not less than 5 per cent of the shares or 5 per cent of the shares of a class of shares of the company entitled to vote at the meeting to which the proposal is to be presented, in the case of nominations for the directors to be elected by shareholders; or
-	- **(b)** at least two hundred and fifty policyholders who are entitled to vote at the meeting to which the proposal is to be presented, or one per cent of the total number of those policyholders, whichever is lesser, in the case of nominations for the directors to be elected by policyholders.
+- **(4)** A proposal may include nominations for the election of directors if it is signed by
+	- **(a)** in the case of nominations for the directors to be elected by shareholders, one or more registered holders or beneficial owners of shares representing in the aggregate not less than 5% of the shares of the company or 5% of the shares of a class of its shares entitled to vote at the meeting at which the proposal is to be presented; and
+	- **(b)** in the case of nominations for the directors to be elected by policyholders, the lesser of 250 policyholders and 1% of the policyholders who are entitled to vote at the meeting.
 
 **Conditions precedent for proposals**
 
 - **(5)** A company is not required to comply with subsections (2) and (3) if
-	- **(a)** the proposal is not submitted to the company at least ninety days before the anniversary date of the previous annual meeting of shareholders and policyholders;
-	- **(b)** it clearly appears that the proposal is submitted by the shareholder or policyholder primarily for the purpose of enforcing a personal claim or redressing a personal grievance against the company or its directors, officers or security holders, or primarily for the purpose of promoting general economic, political, racial, religious, social or similar causes;
-	- **(c)** the company, at the shareholder’s or policyholder’s request, attached a proposal to the notice of a meeting of shareholders or policyholders held within two years preceding the receipt of the request, and the shareholder or policyholder failed to present the proposal, in person or by proxy, at the meeting;
-	- **(d)** substantially the same proposal was submitted to shareholders or policyholders in a dissident’s proxy circular relating to, or was attached to the notice of, a meeting of shareholders or policyholders held within two years preceding the receipt of the shareholder’s or policyholder’s request and the proposal was defeated;
+	- **(a)** the proposal is not submitted to the company at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to shareholders and policyholders in respect of the previous annual meeting of shareholders and policyholders;
+	- **(b)** it clearly appears that the primary purpose of the proposal is to enforce a personal claim or redress a personal griev­ance against the company or its directors, officers or security holders;
+	- **(b.1)** it clearly appears that the proposal does not relate in a significant way to the business or affairs of the company;
+	- **(c)** the person submitting the proposal failed within the prescribed period before the company receives their proposal to present, in person or by proxy, at a meeting of shareholders or policyholders a proposal that at their request had been attached to a notice of meeting;
+	- **(d)** substantially the same proposal was set out in or attached to a dissident’s proxy circular or attached to a notice of meeting relating to, and was presented to shareholders or policyholders at, a meeting of shareholders or policyholders held within the prescribed period before the receipt of the proposal and did not receive the prescribed minimum amount of support at the meeting;
 	- **(e)** the rights conferred by subsections (1) to (4) are being abused to secure publicity;
 	- **(f)** in the case of a proposal submitted by a policyholder that relates to business that is referred to in paragraph 143(1)(c), the proposal is not signed by at least five hundred policyholders entitled to vote at the meeting to which the proposal is to be presented, or one per cent of the total number of those policyholders, whichever is lesser;
 	- **(g)** in the case of any other proposal submitted by a policyholder, the proposal is not signed by at least one hundred policyholders entitled to vote at the meeting to which the proposal is to be presented;
@@ -3309,24 +3363,28 @@ the directors may fix in advance a date as the record date for the determination
 		- **(iii)** [Repealed, 1996, c. 6, s. 72]
 	- **(i)** in the case of a proposal submitted by a policyholder or a shareholder of a mutual company, the proposal would result in the mutual company being converted into a company with common shares.
 
+**Company may refuse to include proposal**
+
+- **(5.1)** If a person who submits a proposal fails to continue to hold or own shares in accordance with paragraph (1.1)(a) or, as the case may be, does not continue to have the support of persons who are in the aggregate the registered holders or beneficial owners of the prescribed number of shares in accordance with paragraph (1.1)(b) until the end of the meeting, the company is not required to attach any proposal submitted by that person to a notice of meeting for any meeting held within the prescribed period after the day of the meeting.
+
 **Immunity for proposal and statement**
 
 - **(6)** No company or person acting on behalf of a company incurs any liability by reason only of circulating a proposal or statement in compliance with subsections (2) and (3).
-> 1991, c. 47, s. 147; 1996, c. 6, s. 72; 1997, c. 15, s. 191; 2001, c. 9, s. 371(F).
+> 1991, c. 47, s. 147; 1996, c. 6, s. 72; 1997, c. 15, s. 191; 2001, c. 9, s. 371(F); 2005, c. 54, s. 232.
 
 
 
 
 
-**Refusal of proposal**
+**Notice of refusal**
 
 **148** 
 
-- **(1)** If a company refuses to attach a proposal to the notice of the meeting, the company shall, within ten days after receiving the proposal, notify the shareholder or policyholder submitting the proposal of its intention not to attach the proposal to the notice of the meeting and send to the shareholder or policyholder a statement of the reasons for the refusal.
+- **(1)** If a company refuses to attach a proposal to a notice of a meeting, it shall in writing notify the person submitting the proposal of its intention not to attach the proposal to the notice of the meeting and of the reasons for the refusal. It shall notify the person within the prescribed period after either the day on which it receives the proposal or, if it has requested proof under subsection 147(1.4), the day on which it receives the proof.
 
-**Appeal to court**
+**Application to court**
 
-- **(2)** On the application of a shareholder or policyholder claiming to be aggrieved by a company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order it thinks fit.
+- **(2)** On the application of a person submitting a proposal who claims to be aggrieved by a company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order that it thinks fit.
 
 **Idem**
 
@@ -3335,6 +3393,8 @@ the directors may fix in advance a date as the record date for the determination
 **Notice to Superintendent**
 
 - **(4)** An applicant under subsection (2) or (3) shall give the Superintendent written notice of the application and the Superintendent may appear and be heard at the hearing of the application in person or by counsel.
+> 1991, c. 47, s. 148; 2005, c. 54, s. 233.
+
 
 
 
@@ -3343,48 +3403,44 @@ the directors may fix in advance a date as the record date for the determination
 
 
 
-**Shareholder and policyholder lists**
+**Lists of shareholders and policyholders**
 
 **149** 
 
-- **(1)** For each meeting of shareholders or policyholders of a company, the company shall prepare
-	- **(a)** a list, which may be in electronic form, of its shareholders entitled to receive notice of a meeting under paragraph 143(1)(a), arranged in alphabetical order and showing the number of shares held by each shareholder; and
-	- **(b)** a list, which may be in electronic form, of its policyholders entitled to vote at the meeting.
+- **(1)** A company shall prepare an alphabetical list
+	- **(a)** of shareholders entitled to receive notice of a meeting showing the number of shares held by each shareholder
+		- **(i)** if a record date is fixed under subparagraph 142(1)(c)(i), no later than 10 days after that date, and
+		- **(ii)** if no record date is fixed, on the record date determined under paragraph 142(2)(a); and
+	- **(b)** of policyholders entitled to vote at a meeting
+		- **(i)** if a record date is fixed under subparagraph 142(1)(d)(ii), no later than the day on which the meeting is held, and
+		- **(ii)** if no record date is fixed, on the record date determined under paragraph 142(3)(b).
 
-**Time to prepare shareholder list**
+**Shareholder voting list**
 
-- **(1.1)** If a record date is fixed under subsection 142(2), the list referred to in paragraph (1)(a) shall be prepared not later than ten days after that record date. If no record date is fixed under that subsection, the list shall be prepared
-	- **(a)** at the close of business on the day before the day on which the notice of the meeting is given; or
-	- **(b)** if no notice is given, on the day on which the meeting is held.
+- **(1.1)** The company shall prepare an alphabetical list of shareholders entitled to vote as of the record date showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under subparagraph 142(1)(c)(ii), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed under subparagraph 142(1)(c)(ii), no later than 10 days after a record date is fixed under subparagraph 142(1)(c)(i) or no later than the record date determined under paragraph 142(2)(a), as the case may be.
 
-**Time to prepare policyholder list**
+- **(1.2)** [Repealed, 2005, c. 54, s. 234]
 
-- **(1.2)** If a record date is fixed under subsection 142(2.1), the list referred to in paragraph (1)(b) shall be prepared not later than the day on which the meeting is held. If no record date is fixed under that subsection, the list shall be prepared on the day on which the meeting is held.
+**Entitlement to vote — shareholders**
 
-**Effect of shareholder list**
+- **(2)** Subject to section 164.08, a shareholder whose name appears on a list prepared under subsection (1.1) is entitled to vote the shares shown opposite their name.
 
-- **(2)** Except as otherwise provided in this Act, at a meeting to which a list prepared under paragraph (1)(a) relates, a person named in the list is entitled to vote the shares shown on the list opposite the person’s name unless
-	- **(a)** the person has transferred the ownership of any of those shares after the record date fixed under subsection 142(2), or, if no record date is fixed, after the date on which the list was prepared, and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the company provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+**Entitlement to vote — policyholders**
 
-**Effect of policyholder list**
-
-- **(3)** A person named in a list prepared under paragraph (1)(b) is entitled to vote at the meeting to which the list relates unless the person has, after the record date fixed under subsection 142(2.1) or, if no record date is fixed under that subsection, after the date on which the list was prepared, transferred the policy entitling the holder to vote, in which case the transferee is entitled to vote at the meeting.
+- **(3)** A policyholder whose name appears on a list prepared under paragraph (1)(b) is entitled to vote at the meeting to which the list relates.
 
 **Examination of shareholder list**
 
-- **(4)** A shareholder or policyholder of a company may examine the list of shareholders referred to in subsection (1)
+- **(4)** A shareholder or policyholder may examine the list of shareholders
 	- **(a)** during usual business hours at the head office of the company or at the place where its central securities register is maintained; and
 	- **(b)** at the meeting of shareholders for which the list was prepared.
 
 **Verification of right of policyholder to vote**
 
 - **(5)** A shareholder or policyholder of a company may, at the meeting of policyholders for which the list referred to in subsection (1) was prepared, require the company to verify from that list whether a person identified both by name and by some other distinguishing feature is entitled to vote at that meeting.
-> 1991, c. 47, s. 149; 1997, c. 15, s. 192; 1999, c. 1, s. 3.
+> 1991, c. 47, s. 149; 1997, c. 15, s. 192; 1999, c. 1, s. 3; 2005, c. 54, s. 234.
 
 
 
@@ -3510,6 +3566,20 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 - **(2)** A shareholder, policyholder or proxyholder may demand a ballot either before or after any vote by show of hands.
 
+**Electronic voting**
+
+- **(3)** Despite subsection (1) and unless the by-laws provide otherwise, any vote referred to in that subsection may be held entirely by means of a telephonic, electronic or other communication facility if the company makes one available.
+
+**Voting while participating electronically**
+
+- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting of shareholders or policyholders under subsection 140(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the company has made available for that purpose.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations respecting the manner of and conditions for voting at a meeting of shareholders or policyholders by means of a telephonic, electronic or other communication facility.
+> 1991, c. 47, s. 157; 2005, c. 54, s. 235.
+
+
 
 
 
@@ -3528,6 +3598,12 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Filing resolution**
 
 - **(2)** A copy of every resolution referred to in subsection (1) shall be kept with the minutes of the meetings of shareholders or policyholders.
+
+**Evidence**
+
+- **(3)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 1991, c. 47, s. 158; 2005, c. 54, s. 236.
+
 
 
 
@@ -3555,7 +3631,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Directors calling meeting**
 
 - **(4)** On receipt of a requisition referred to in subsection (1) or (2), the directors shall call a meeting of shareholders or policyholders to transact the business stated in the requisition, unless
-	- **(a)** a record date has been fixed under subsection 142(2) and notice thereof has been given under subsection 142(4);
+	- **(a)** a record date has been fixed under subparagraph 142(1)(c)(i) or (d)(i) and notice of it has been given under subsection 142(4);
 	- **(b)** the directors have called a meeting of shareholders or policyholders and have given notice thereof under section 143; or
 	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 147(5)(b) to (e), (h) and (i).
 
@@ -3570,7 +3646,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Reimbursement**
 
 - **(7)** Unless the shareholders or policyholders otherwise resolve at a meeting called under subsection (5), the company shall reimburse the shareholders or policyholders for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
-> 1991, c. 47, s. 159; 1997, c. 15, s. 195.
+> 1991, c. 47, s. 159; 1997, c. 15, s. 195; 2005, c. 54, s. 237.
 
 
 
@@ -3580,21 +3656,16 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 
 
-**Meeting called by court**
+**Court may order meeting to be called**
 
 **160** 
 
-- **(1)** A court may order a meeting of shareholders or policyholders of a company to be called, held and conducted in such manner as the court directs where
-	- **(a)** it is impracticable to call the meeting in the manner in which it is otherwise to be called;
-	- **(b)** it is impracticable to conduct the meeting in the manner required by the by-laws and this Act; or
-	- **(c)** the court thinks fit to make the order for any other reason.
+- **(1)** A court may, on the application of a director, a shareholder or policyholder who is entitled to vote or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
+	- **(a)** it is impracticable to call the meeting within the time or in the manner in which it is to be called;
+	- **(b)** it is impracticable to conduct the meeting in the manner required by this Act or the by-laws; or
+	- **(c)** the court thinks that the meeting ought to be called, held or conducted within the time or in the manner that it directs for any other reason.
 
-**Who may apply for the order**
-
-- **(1.1)** The court may make that order on the application of
-	- **(a)** the Superintendent;
-	- **(b)** a director; or
-	- **(c)** a shareholder or policyholder entitled to vote at the meeting.
+- **(1.1)** [Repealed, 2005, c. 54, s. 238]
 
 **Varying quorum**
 
@@ -3603,7 +3674,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Valid meeting**
 
 - **(3)** A meeting called, held and conducted pursuant to this section is for all purposes a meeting of shareholders or policyholders of the company duly called, held and conducted.
-> 1991, c. 47, s. 160; 1997, c. 15, s. 196.
+> 1991, c. 47, s. 160; 1997, c. 15, s. 196; 2005, c. 54, s. 238.
 
 
 
@@ -3659,9 +3730,18 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 **164** The definitions in this section apply in this Division.
 
-***registrant*** means a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction.
+***intermediary*** means a person who holds a security on behalf of another person who is not the registered holder of the security, and includes
+- **(a)** a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction;
+- **(b)** a securities depositary;
+- **(c)** a financial institution;
+- **(d)** in relation to a clearing agency, a securities dealer, trust company, association within the meaning of section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), bank or other person, including another clearing agency, on whose behalf the clearing agency or its nominee holds securities of an issuer;
+- **(e)** a trustee or administrator of a self-administered retirement savings plan, retirement income fund or education savings plan or another similar self-administered savings or investment plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+- **(f)** a nominee of a person referred to in any of paragraphs (a) to (e); and
+- **(g)** a person who performs functions similar to those performed by a person referred to in any of paragraphs (a) to (e) and holds a security registered in their name, or in the name of their nominee, on behalf of another person who is not the registered holder of the security. (*intermédiaire*)
 
- or ***solicit*** or ***solicitation*** includes
+***registrant***[Repealed, 2005, c. 54, s. 239]
+
+***solicit*** or ***solicitation*** includes
 - **(a)** a request for a proxy, whether or not accompanied by or included in a form of proxy,
 - **(b)** a request to execute or not to execute a form of proxy or to revoke a proxy,
 - **(c)** the sending of a form of proxy or other communication to a shareholder or policyholder under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy, and
@@ -3671,10 +3751,10 @@ but does not include
 - **(e)** the sending of a form of proxy in response to an unsolicited request made by or on behalf of a shareholder or policyholder,
 - **(f)** the performance of administrative acts or professional services on behalf of a person soliciting a proxy,
 - **(g)** the sending by a registrant of the documents referred to in section 164.06, or
-- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner.
+- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner. (*sollicitation*)
 
-***solicitation by or on behalf of the management of a company*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the company.
-> 1991, c. 47, s. 164; 1997, c. 15, s. 197.
+***solicitation by or on behalf of the management of a company*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the company. (*sollicitation effectuée par la direction d’une société ou pour son compte*)
+> 1991, c. 47, s. 164; 1997, c. 15, s. 197; 2005, c. 54, s. 239.
 
 
 
@@ -3740,7 +3820,9 @@ but does not include
 
 **Exception**
 
-- **(2)** If a company has fewer than fifteen shareholders, the management of the company is not required to send a form of proxy to the shareholders under subsection (1). For the purpose of this subsection, two or more joint shareholders are counted as one shareholder.
+- **(2)** The management of a company is not required to send a form of proxy to shareholders under subsection (1) if the company
+	- **(a)** is not a distributing company; and
+	- **(b)** has 50 or fewer shareholders who are entitled to vote at a meeting, two or more joint holders of a share being counted as one shareholder.
 
 **Optional solicitation**
 
@@ -3751,7 +3833,7 @@ but does not include
 **Deeming rule for other provisions**
 
 - **(4)** For the purposes of this Act other than this section, if notices of a meeting are sent to policyholders under paragraph (3)(b), those policyholders are deemed to have been entitled under paragraph 143(1)(b) to receive notice of the meeting.
-> 1997, c. 15, s. 197.
+> 1997, c. 15, s. 197; 2005, c. 54, s. 240.
 
 
 
@@ -3796,51 +3878,60 @@ but does not include
 
 **Vote by show of hands**
 
-- **(3)** Where the chairperson of a meeting of shareholders or policyholders declares to the meeting that, if a ballot were conducted, the total number of votes represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting in relation to any matter or group of matters is less than five per cent of all the votes that might be cast at the meeting on the ballot, unless a shareholder, policyholder or proxyholder demands a ballot,
+- **(3)** Despite subsections (1) and (2) and unless a shareholder, policyholder or proxyholder demands a ballot, if the chairperson of a meeting of shareholders or policyholders declares to the meeting that, if a ballot were conducted, the total number of votes represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting on a matter or group of matters is less than 5% of all the votes that might be cast by shareholders or policyholders, in person or by proxy,
 	- **(a)** the chairperson may conduct the vote in respect of that matter or group of matters by way of a show of hands; and
 	- **(b)** a proxyholder or alternate proxyholder may vote in respect of that matter or group of matters by way of a show of hands.
-> 1997, c. 15, s. 197.
+> 1997, c. 15, s. 197; 2005, c. 54, s. 242.
 
 
 
 
 
-**Duty of registrant**
+**Duty of intermediary**
 
 **164.06** 
 
-- **(1)** Shares of a company that are registered in the name of a registrant or registrant’s nominee and that are not beneficially owned by the registrant shall not be voted unless the registrant sends to the beneficial owner
-	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular, dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
-	- **(b)** a written request for voting instructions, except where the registrant has already received written voting instructions from the beneficial owner.
+- **(1)** Shares of a company that are registered in the name of an intermediary or an intermediary’s nominee and not beneficially owned by the intermediary may not be voted unless the intermediary sends to the beneficial owner
+	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular and dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
+	- **(b)** a written request for voting instructions except if the intermediary has already received written voting instructions from the beneficial owner.
 
 **When documents to be sent**
 
-- **(2)** The documents to be sent to the beneficial owner under subsection (1) shall be sent by the registrant without delay after the registrant receives the documents referred to in paragraph (1)(a).
+- **(2)** The intermediary shall send the documents referred to in subsection (1) without delay after they receive the documents referred to in paragraph (1)(a).
 
-**Where registrant not to vote shares**
+**Restriction on voting**
 
-- **(3)** A registrant shall not vote or appoint a proxyholder to vote shares of a company registered in the registrant’s name or in the name of the registrant’s nominee that the registrant does not beneficially own unless the registrant receives voting instructions from the beneficial owner.
+- **(3)** An intermediary or a proxyholder appointed by them may not vote shares that the intermediary does not beneficially own and that are registered in the name of the intermediary or their nominee unless the intermediary or proxyholder, as the case may be, receives written voting instructions from the beneficial owner.
 
 **Copies**
 
-- **(4)** A person by or on behalf of whom a solicitation is made shall, at the request of a registrant, without delay provide the registrant, at that person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
+- **(4)** A person by or on behalf of whom a solicitation is made shall on request and without delay provide the intermediary, at the person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
 
-**Instructions to registrant**
+**Instructions to intermediary**
 
-- **(5)** A registrant shall vote or appoint a proxyholder to vote any shares referred to in subsection (1) in accordance with any written voting instructions received from the beneficial owner.
+- **(5)** The intermediary shall vote or appoint a proxyholder to vote in accordance with any written voting instructions received from the beneficial owner.
 
 **Beneficial owner as proxyholder**
 
-- **(6)** If requested by a beneficial owner, a registrant shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
+- **(6)** If a beneficial owner so requests and provides an intermediary with appropriate documentation, the intermediary shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
 
-**Default of registrant — effect**
+**Effect of intermediary’s failure to comply**
 
-- **(7)** The failure of a registrant to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or policyholders or any action taken at the meeting.
+- **(7)** The failure of an intermediary to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or policyholders or any action taken at the meeting.
 
-**Right of registrant limited**
+**Intermediary may not vote**
 
-- **(8)** Nothing in this Division gives a registrant the right to vote shares that the registrant is otherwise prohibited from voting.
-> 1997, c. 15, s. 197.
+- **(8)** Nothing in this Division gives an intermediary the right to vote shares that they are otherwise prohibited from voting.
+> 1997, c. 15, s. 197; 2005, c. 54, s. 243.
+
+
+
+
+
+**Exemption**
+
+**164.061** The Governor in Council may make regulations respecting the conditions under which a company is exempt from any of the requirements of sections 164.01 to 164.06.
+> 2005, c. 54, s. 243.
 
 
 
@@ -4124,6 +4215,19 @@ but does not include
 
 - **(5)** In making by-laws for the purposes of subsection (2), the directors shall designate every member of the board as being either a shareholders’ director or a policyholders’ director.
 > 1991, c. 47, s. 173; 1996, c. 6, s. 74; 1997, c. 15, s. 202.
+
+
+
+
+
+**Election or appointment as director**
+
+**173.1** The election or appointment of a person as a director is subject to the following conditions:
+- **(a)** the person was present at the meeting when the election or appointment took place and did not refuse to hold office as a director; or
+- **(b)** the person was not present at the meeting when the election or appointment took place but
+	- **(i)** consented in writing to hold office as a director before the election or appointment or within 10 days after it, or
+	- **(ii)** acted as a director after the election or appointment.
+> 2005, c. 54, s. 245.
 
 
 
@@ -4502,7 +4606,9 @@ is entitled to submit to the company a written statement giving the reasons for 
 
 **Director continues to be present**
 
-- **(3)** Any director present at a meeting of directors who is not present at any particular time during the meeting for the purposes of subsection 212(1) shall be considered as being present for the purposes of this section.
+- **(3)** A director who is present at a meeting of directors or of a committee of directors but is not, in accordance with subsection 212(1), present at any particular time during the meeting is considered to be present for the purposes of this section.
+> 1991, c. 47, s. 191; 2005, c. 54, s. 250.
+
 
 
 
@@ -4574,7 +4680,11 @@ of the directors present are resident Canadians.
 **Filing committee resolution**
 
 - **(4)** A copy of the resolution referred to in subsection (3) shall be kept with the minutes of the proceedings of that committee.
-> 1997, c. 15, s. 208.
+
+**Evidence**
+
+- **(5)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 1997, c. 15, s. 208; 2005, c. 54, s. 251.
 
 
 
@@ -4830,15 +4940,15 @@ of the directors present are resident Canadians.
 
 **207** The directors of a company may not delegate any of the following powers, namely, the power to
 - **(a)** submit to the shareholders or policyholders a question or matter requiring the approval of the shareholders or policyholders;
-- **(b)** fill a vacancy among the directors or a committee of directors or in the office of auditor or actuary of the company;
-- **(c)** issue or cause to be issued securities except in the manner and on terms authorized by the directors;
+- **(b)** fill a vacancy among the directors, on a committee of directors or in the office of auditor or actuary, or appoint additional directors;
+- **(c)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 66, except in accordance with any authorization made by the directors;
 - **(d)** declare a dividend on shares or a policy dividend, bonus or other benefit payable to policyholders, other than a dividend on a group policy that is a participating policy;
 - **(e)** authorize the redemption or other acquisition by the company pursuant to section 75 of shares issued by the company;
 - **(f)** authorize the payment of a commission on a share issue;
 - **(g)** approve a management proxy circular;
 - **(h)** except as provided in this Act, approve the annual statement of the company and any other financial statements issued by the company; or
 - **(i)** adopt, amend or repeal by-laws.
-> 1991, c. 47, s. 207; 1997, c. 15, s. 212.
+> 1991, c. 47, s. 207; 1997, c. 15, s. 212; 2005, c. 54, s. 252.
 
 
 
@@ -4887,43 +4997,43 @@ of the directors present are resident Canadians.
 
 **211** 
 
-- **(1)** A director or an officer of a company who
-	- **(a)** is a party to a material contract or proposed material contract with the company,
-	- **(b)** is a director or an officer of any entity that is a party to a material contract or proposed material contract with the company, or
-	- **(c)** has a material interest in any person who is a party to a material contract or proposed material contract with the company
-shall disclose in writing to the company or request to have entered in the minutes of the meetings of directors the nature and extent of that interest.
+- **(1)** A director or officer of a company shall disclose to the company, in writing or by requesting to have it entered in the minutes of a meeting of directors or a meeting of a committee of directors, the nature and extent of any interest they have in a material contract or material transaction with the company, whether entered into or proposed, if they
+	- **(a)** are a party to the contract or transaction;
+	- **(b)** are a director or officer of a party to the contract or transaction or a person acting in a similar capacity; or
+	- **(c)** have a material interest in a party to the contract or transaction.
 
-**Time of disclosure for director**
+**Time of disclosure — director**
 
-- **(2)** The disclosure required by subsection (1) shall be made, in the case of a director,
-	- **(a)** at the meeting of directors at which a proposed contract is first considered;
-	- **(b)** if the director was not then interested in a proposed contract, at the first meeting after the director becomes so interested;
-	- **(c)** if the director becomes interested after a contract is made, at the first meeting after the director becomes so interested; or
-	- **(d)** if a person who is interested in a contract later becomes a director, at the first meeting after that person becomes a director.
+- **(2)** The disclosure shall be made in the case of a director
+	- **(a)** at the meeting of directors, or of a committee of directors, at which the proposed contract or transaction is first considered;
+	- **(b)** if at the time of the meeting referred to in paragraph (a) the director was not interested in the proposed contract or transaction, at the first one after they become interested in it;
+	- **(c)** if the director becomes interested after a contract or transaction is entered into, at the first one after they become interested; or
+	- **(d)** if a person who is interested in a contract or transaction becomes a director, at the first one after they become a director.
 
-**Time of disclosure for officer**
+**Time of disclosure — officer**
 
-- **(3)** The disclosure required by subsection (1) shall be made, in the case of an officer who is not a director,
-	- **(a)** forthwith after the officer becomes aware that a proposed contract is to be considered or a contract has been considered at a meeting of directors;
-	- **(b)** if the officer becomes interested after a contract is made, forthwith after the officer becomes so interested; or
-	- **(c)** if a person who is interested in a contract later becomes an officer, forthwith after the person becomes an officer.
+- **(3)** The disclosure shall be made in the case of an officer who is not a director
+	- **(a)** immediately after they become aware that the contract, transaction, proposed contract or proposed transaction is to be considered or has been considered at a meeting of directors or of a committee of directors;
+	- **(b)** if they become interested after the contract or transaction is entered into, immediately after they become interested; or
+	- **(c)** if a person who is interested in a contract or transaction becomes an officer, immediately after they become an officer.
 
-**Time of disclosure for director or officer**
+**Time of disclosure — contract not requiring approval**
 
-- **(4)** If a material contract or proposed material contract is one that, in the ordinary course of business of the company, would not require approval by the directors or the shareholders and policyholders, a director or an officer referred to in subsection (1) shall disclose in writing to the company or request to have entered in the minutes of meetings of directors the nature and extent of the director’s or officer’s interest forthwith after the director or officer becomes aware of the contract or proposed contract.
-
-
+- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the company’s business would not require approval by the directors, shareholders or policyholders, the director or officer shall disclose to the company, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
+> 1991, c. 47, s. 211; 2005, c. 54, s. 253.
 
 
-**Where director must abstain**
+
+
+
+**Director to abstain**
 
 **212** 
 
-- **(1)** Where subsection 211(1) applies to a director in respect of a contract, the director shall not be present at any meeting of directors while the contract is being considered at the meeting or vote on any resolution to approve the contract unless the contract is
-	- **(a)** an arrangement by way of security for money lent to or obligations undertaken by the director for the benefit of the company or a subsidiary of the company;
-	- **(b)** a contract relating primarily to the director’s remuneration as a director or an officer, employee or agent of the company or a subsidiary of the company or an entity controlled by the company or an entity in which the company has a substantial investment;
-	- **(c)** a contract for indemnity under section 221 or for insurance under section 222; or
-	- **(d)** a contract with an affiliate of the company.
+- **(1)** A director who is required to make a disclosure under subsection 211(1) shall not be present at any meeting of directors, or of a committee of directors, while the contract or transaction is being considered or vote on any resolution to approve it unless the contract or transaction
+	- **(a)** relates primarily to their remuneration as a director, officer, employee or agent of the company, an entity controlled by the company or an entity in which the company has a substantial investment;
+	- **(b)** is for indemnity under section 221 or insurance under section 222; or
+	- **(c)** is with an affiliate of the company.
 
 **Ineligibility**
 
@@ -4932,32 +5042,56 @@ shall disclose in writing to the company or request to have entered in the minut
 **Validity of acts**
 
 - **(3)** An act of the board of directors of a company or of a committee of the board of directors is not invalid because a person acting as a director had ceased under subsection (2) to hold office as a director.
-> 1991, c. 47, s. 212; 1997, c. 15, s. 213.
+> 1991, c. 47, s. 212; 1997, c. 15, s. 213; 2005, c. 54, s. 254.
 
 
 
 
 
-**Continuing disclosure**
+**General notice**
 
-**213** For the purposes of subsection 211(1), a general notice to the directors by a director or an officer declaring that the director or officer is a director or officer of an entity, or has a material interest in a person, and is to be regarded as interested in any contract made with that entity or person, is a sufficient declaration of interest in relation to any contract so made.
+**213** 
+
+- **(1)** For the purposes of subsection 211(1), a general notice to the directors declaring that a director or officer is to be regarded as interested for any of the following reasons in a contract or transaction entered into with a party is a sufficient declaration of interest in relation to any contract or transaction with that party:
+	- **(a)** the director or officer is a director or officer of a party referred to in paragraph 211(1)(b) or (c) or a person acting in a similar capacity;
+	- **(b)** the director or officer has a material interest in the party; or
+	- **(c)** there has been a material change in the nature of the director’s or officer’s interest in the party.
+
+**Access to disclosures**
+
+- **(2)** A policyholder who is entitled to vote or a shareholder may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 211(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the company.
+> 1991, c. 47, s. 213; 2005, c. 54, s. 255.
+
 
 
 
 
 **Avoidance standards**
 
-**214** A material contract between a company and one or more of its directors or officers, or between a company and another entity of which a director or an officer of the company is a director or an officer or between a company and a person in which the director or officer has a material interest, is neither void nor voidable
-- **(a)** by reason only of that relationship, or
-- **(b)** by reason only that a director with an interest in the contract is present at or is counted to determine the presence of a quorum at the meeting of directors or the committee of directors that authorized the contract,
-if the director or officer disclosed the interest in accordance with subsection 211(2), (3) or (4) or section 213 and the contract was approved by the directors or the shareholders and policyholders and it was reasonable and fair to the company at the time it was approved.
+**214** 
+
+- **(1)** A contract or transaction for which disclosure is required under subsection 211(1) is not invalid and a director or officer is not accountable to the company or its shareholders or policyholders for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
+	- **(a)** the director or officer disclosed their interest in accordance with section 211 and subsection 213(1);
+	- **(b)** the directors approved the contract or transaction; and
+	- **(c)** the contract or transaction was reasonable and fair to the company at the time that it was approved.
+
+**Confirmation by shareholders and policyholders**
+
+- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the company or its shareholders or policyholders for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
+	- **(a)** the contract or transaction is approved or confirmed by special resolution at a meeting of shareholders and policyholders;
+	- **(b)** disclosure of the interest was made to the shareholders and to the policyholders entitled to vote in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
+	- **(c)** the contract or transaction was reasonable and fair to the company at the time that it was approved or confirmed.
+> 1991, c. 47, s. 214; 2005, c. 54, s. 255.
 
 
 
 
-**Application to court**
 
-**215** Where a director or an officer of a company fails to disclose an interest in a material contract in accordance with sections 211 and 213, a court may, on the application of the company, a shareholder of the company or a policyholder entitled to vote, set aside the contract on such terms as the court thinks fit.
+**Court may set aside or require accounting**
+
+**215** If a director or officer of a company fails to comply with any of sections 211 to 214, a court, on application of the company or any of its policyholders entitled to vote or its shareholders, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the company for any profit or gain realized on it.
+> 1991, c. 47, s. 215; 2005, c. 54, s. 255.
+
 
 
 
@@ -6067,7 +6201,7 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 
 **Access to company records**
 
-- **(5)** Shareholders, policyholders who are entitled to vote and creditors of a company and their personal representatives may examine the records referred to in subsection 261(1) during the usual business hours of the company, and may take extracts therefrom, free of charge, or have copies made thereof on payment of a reasonable fee and, where the company is a distributing company within the meaning of subsection 288(1), any other person may, on payment of a reasonable fee, examine such records and take extracts therefrom or copies thereof.
+- **(5)** A company’s shareholders, policyholders entitled to vote and creditors and their personal representatives may examine the records referred to in subsection 261(1) during the usual business hours of the company and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the company is a distributing company, any other person may on payment of a reasonable fee examine those records during the usual business hours of the company and take extracts from them or have copies of them made.
 
 **Electronic access**
 
@@ -6080,7 +6214,7 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 **Copies of by-laws for policyholders**
 
 - **(7)** Every policyholder of a company who is entitled to vote at a meeting of policyholders or shareholders and policyholders of the company is entitled, on request made not more often than once in each calendar year, to receive free of charge one copy of the by-laws of the company.
-> 1991, c. 47, s. 262; 1997, c. 15, s. 229; 2001, c. 9, s. 395.
+> 1991, c. 47, s. 262; 1997, c. 15, s. 229; 2001, c. 9, s. 395; 2005, c. 54, s. 265.
 
 
 
@@ -6100,9 +6234,9 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 	- **(c)** an undertaking that the basic list and any supplemental lists obtained pursuant to subsections (5) and (6) will not be used except as permitted under section 265,
 and, if the applicant is an entity, the affidavit shall be made by a director or an officer of the entity, or any person acting in a similar capacity.
 
-**Entitlement**
+**Entitlement to list**
 
-- **(3)** Every shareholder, policyholder who is entitled to vote or creditor of a company or the personal representative of a shareholder, policyholder who is entitled to vote or creditor of a company is entitled to a basic list of shareholders of the company, but, if the company is a distributing company within the meaning of subsection 288(1), any person is entitled to a basic list of shareholders of the company on request therefor.
+- **(3)** A company’s shareholders, policyholders entitled to vote and creditors and their personal representatives are — or if the company is a distributing company, any person is — entitled to a basic list of shareholders of the company.
 
 **Basic list of shareholders**
 
@@ -6120,6 +6254,8 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 - **(6)** A company or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
+> 1991, c. 47, s. 263; 2005, c. 54, s. 266.
+
 
 
 
@@ -6240,12 +6376,30 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **Former-Act and continued companies**
 
-- **(2)** For the purposes of subsection (1), “central securities register” includes similar registers required by law to be maintained by a former-Act company or by a body corporate continued, or amalgamated and continued, as a company under this Act before the continuance, amalgamation or coming into force of this section, as the case may be.
+- **(2)** For the purposes of subsection (1), ***central securities register*** includes similar registers required by law to be maintained by a former-Act company or by a body corporate continued, or amalgamated and continued, as a company under this Act before the continuance, amalgamation or coming into force of this section, as the case may be.
 
-**Application of certain provisions**
+**Access to central securities register**
 
-- **(3)** Subsections 262(5) and (5.1) and sections 263 and 265 to 268 apply, with any modifications that the circumstances require, in respect of a central securities register.
-> 1991, c. 47, s. 271; 2001, c. 9, s. 397.
+- **(3)** A company’s shareholders, policyholders entitled to vote and creditors and their personal representatives may examine the central securities register during the usual business hours of the company and may take extracts from it free of charge or have copies of it made on payment of a reasonable fee. If the company is a distributing company, any other person may on payment of a reasonable fee examine the central securities register during the usual business hours of the company and take extracts from it or have copies of it made.
+
+**Electronic access**
+
+- **(4)** The company may make the information contained in the central securities register available by any mechanical or electronic data processing system or other information storage device that is capable of reproducing it in intelligible written form within a reasonable time.
+
+**Affidavit and undertaking**
+
+- **(5)** A person who wishes to examine the central securities register, take extracts from it or have copies of it made shall provide the company with an affidavit containing their name and address — or if they are an entity, the name and address for service of the entity — and with an undertaking that the information contained in the register will not be used except in the same way as a list of shareholders may be used under section 265. In the case of an entity, the affidavit is to be sworn by a director or officer of the entity or a person acting in a similar capacity.
+
+**Supplementary information**
+
+- **(6)** A person who wishes to examine a central securities register, take extracts from it or have copies of it made may on payment of a reasonable fee, if they state in the accompanying affidavit that supplementary information is required, request the company or its agent to provide supplementary information setting out any changes made to the register.
+
+**When supplementary information to be provided**
+
+- **(7)** A company or its agent shall provide the supplementary information within
+	- **(a)** 10 days after the day on which the central securities register is examined if the changes take place before that day; and
+	- **(b)** 10 days after the day to which the supplementary information relates if the changes take place on or after the day on which the central securities register is examined.
+> 1991, c. 47, s. 271; 2001, c. 9, s. 397; 2005, c. 54, s. 268.
 
 
 
@@ -6322,7 +6476,15 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **Corporate seal**
 
-**279** An instrument or agreement executed on behalf of a company by a director, an officer or an agent of the company is not invalid merely because a corporate seal is not affixed thereto.
+**279** 
+
+- **(1)** A company may adopt a corporate seal and change one that it adopted.
+
+**Validity of unsealed documents**
+
+- **(2)** A document executed on behalf of a company is not invalid merely because a corporate seal is not affixed to it.
+> 1991, c. 47, s. 279; 2005, c. 54, s. 269.
+
 
 
 
@@ -6349,48 +6511,33 @@ the registers and records required or authorized by this Act to be prepared and 
 
 - **(1)** In this Division,
 
-***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2);
+***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2); (*groupe*)
 
-***business combination*** means an acquisition of all or substantially all the assets of one body corporate by another body corporate or an amalgamation of two or more bodies corporate;
+***business combination*** means an acquisition of all or substantially all of the assets of one body corporate by another, an amalgamation of two or more bodies corporate or any similar reorganization between two or more bodies corporate; (*regroupement d’entreprises*)
 
-***call*** means an option, transferable by delivery, to demand delivery of a specified number or amount of shares at a fixed price within a specified time but does not include an option or right to acquire shares of the body corporate that granted the option or right to acquire;
+***call*** means an option, transferable by delivery, to demand delivery of a specified number or amount of shares at a fixed price within a specified time but does not include an option or right to acquire shares of the body corporate that granted the option or right to acquire; (*option d’achat*)
 
-***distributing company*** means a company, any of the issued securities of which are or were part of a distribution to the public and remain outstanding and are held by more than one person;
+***distributing company***[Repealed, 2005, c. 54, s. 270]
 
-***insider*** means, except in subsections 294(2) and 295(1),
-- **(a)** a director or an officer of a distributing company,
-- **(b)** a distributing company that purchases or otherwise acquires, except by means of a donation or redemption, shares issued by it or by any of its affiliates, or
-- **(c)** a person who beneficially owns more than 10 per cent of the shares of a distributing company or who exercises control or direction over more than 10 per cent of the votes attached to shares of a distributing company, excluding shares owned by a securities underwriter under an underwriting agreement while those shares are in the course of a distribution to the public;
+***insider***[Repealed, 2005, c. 54, s. 270]
 
 ***officer***, in relation to a company, means
-- **(a)** an officer as defined in paragraph (a) of the definition “officer” in section 2, or
-- **(b)** any natural person who performs functions for the company similar to those performed by a person referred to in paragraph (a) of the definition “officer” in section 2;
+- **(a)** an officer as defined in paragraph (a) of the definition ***officer*** in section 2, or
+- **(b)** any natural person who performs functions for the company similar to those performed by a person referred to in paragraph (a) of the definition ***officer*** in section 2; (*dirigeant d’une société*)
 
-***put*** means an option, transferable by delivery, to deliver a specified number or amount of shares at a fixed price within a specified time;
+***put*** means an option, transferable by delivery, to deliver a specified number or amount of shares at a fixed price within a specified time; (*option de vente*)
 
-***share*** means a voting share and includes
+***share*** means a voting share and includes
 - **(a)** a security currently convertible into a voting share, and
-- **(b)** a currently exercisable option or a right to acquire a voting share or a security referred to in paragraph (a).
+- **(b)** a currently exercisable option or a right to acquire a voting share or a security referred to in paragraph (a). (*action*)
 
 **Control**
 
 - **(2)** For the purposes of this Division, a person controls a body corporate where the person controls the body corporate within the meaning of section 3, determined without regard to paragraph 3(1)(d).
 
-**Deemed insiders and beneficial owners**
+- **(3) and (4)** [Repealed, 2005, c. 54, s. 270]
+> 1991, c. 47, s. 288; 2005, c. 54, s. 270.
 
-- **(3)** For the purposes of this Division,
-	- **(a)** a director or an officer of a body corporate that is an insider of a distributing company is deemed to be an insider of the distributing company;
-	- **(b)** a director or an officer of a body corporate that is a subsidiary of a distributing company is deemed to be an insider of the distributing company;
-	- **(c)** a person is deemed to beneficially own shares beneficially owned by a body corporate controlled directly or indirectly by that person;
-	- **(d)** a body corporate is deemed to beneficially own shares beneficially owned by its affiliates; and
-	- **(e)** the acquisition or disposition by an insider of an option or right to acquire a share is deemed to be a change in the beneficial ownership of the share to which the option or right to acquire relates.
-
-**Becoming an insider**
-
-- **(4)** For the purposes of this Division,
-	- **(a)** if a body corporate becomes an insider of a distributing company or enters into a business combination with a distributing company, or
-	- **(b)** if a distributing company becomes an insider of a body corporate,
-every director or officer of the body corporate and every shareholder of the body corporate who is a person referred to in paragraph (c) of the definition “insider” in subsection (1) is deemed to have been an insider of the distributing company for the previous six months or for such shorter period as the director, officer or shareholder was a director, officer or shareholder of the body corporate.
 
 
 
@@ -6399,79 +6546,40 @@ every director or officer of the body corporate and every shareholder of the bod
 
 
 
-**First insider report**
+**Insider report**
 
-**289** 
+**289** An insider shall submit an insider report in accordance with the regulations.
+> 1991, c. 47, s. 289; 1997, c. 15, s. 231; 2005, c. 54, s. 271.
 
-- **(1)** An insider shall send to the Superintendent an insider report in prescribed form not later than ten days after the later of
-	- **(a)** the end of the month in which the person became an insider, and
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force.
-
-- **(2)** [Repealed, 1997, c. 15, s. 231]
-
-**Where company continued**
-
-- **(3)** A person who is an insider of a body corporate on the day it is continued as a company under this Act shall, if the company is a distributing company, send to the Superintendent an insider report in prescribed form not later than ten days after
-	- **(a)** the end of the month in which the body corporate is continued under this Act, or
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force,
-whichever is later.
-
-**Constructive insider**
-
-- **(4)** A person who is deemed to have been an insider under subsection 288(4) shall, not later than ten days after
-	- **(a)** the end of the month in which the person is deemed to have become an insider, or
-	- **(b)** the end of the month in which regulations prescribing the form of an insider report come into force,
-whichever is later, send to the Superintendent in prescribed form and for the period in respect of which the person is deemed to have been an insider, the insider report that the person would have been required to send under this section had the person been otherwise an insider for that period.
-> 1991, c. 47, s. 289; 1997, c. 15, s. 231.
-
-
-
-
-
-**Subsequent insider report**
-
-**290** An insider whose interest in securities of a distributing company changes from that shown or required to be shown in the last insider report sent or required to be sent by the insider shall, within ten days after the end of the month in which the change takes place, send an insider report in prescribed form to the Superintendent.
-
-
-
-
-**Exemption by regulation**
-
-**290.1** Under prescribed circumstances, an insider is exempt from any of the requirements of section 289 or 290.
-> 1997, c. 15, s. 232.
-
-
-
-
-
-**One insider report**
-
-**291** 
-
-- **(1)** An insider report of a person that includes securities deemed to be beneficially owned by that person is deemed to be an insider report of a body corporate referred to in paragraph 288(3)(c) and the body corporate is not required to send a separate insider report.
-
-**Deemed report**
-
-- **(2)** An insider report of a body corporate that includes securities deemed to be beneficially owned by the body corporate is deemed to be an insider report of an affiliate referred to in paragraph 288(3)(d) and the affiliate is not required to send a separate insider report.
-
-**Contents**
-
-- **(3)** An insider report of a person that includes securities deemed to be beneficially owned by that person pursuant to paragraph 288(3)(c) or (d) shall disclose separately
-	- **(a)** the number of securities owned by a body corporate; and
-	- **(b)** the name of the body corporate.
 
 
 
 
 **Exemption by Superintendent**
 
-**292** 
+**290** On application by an insider, the Superintendent may in writing and on any terms that the Superintendent thinks fit exempt the insider from any of the requirements of section 289. The exemption may be given retroactive effect and the Superintendent shall publish the particulars of the exemption and the reasons for it in a periodical available to the public.
+> 1991, c. 47, s. 290; 2005, c. 54, s. 271.
 
-- **(1)** On an application by or on behalf of an insider, the Superintendent may, in writing, on such terms as the Superintendent thinks fit, exempt the insider from any of the requirements of sections 289 to 291, and the exemption may be given retroactive effect.
 
-**Publication**
 
-- **(2)** The Superintendent shall summarize or cause to be summarized in a periodical available to the public the information contained in insider reports sent to the Superintendent under sections 288 to 291 and the particulars of exemptions granted under subsection (1) together with the reasons therefor.
+
+**290.1** [Repealed, 2005, c. 54, s. 271]
+
+
+
+
+**Regulations**
+
+**291** The Governor in Council may make regulations for carrying out the purposes of sections 289 and 290, including
+- **(a)** defining “insider” for the purposes of sections 289 and 290;
+- **(b)** respecting the form and content of an insider report; and
+- **(c)** respecting the submission or publication of an insider report.
+> 1991, c. 47, s. 291; 2005, c. 54, s. 271.
+
+
+
+
+**292** [Repealed, 2005, c. 54, s. 271]
 
 
 
@@ -6480,64 +6588,130 @@ whichever is later, send to the Superintendent in prescribed form and for the pe
 
 
 
-**Short selling prohibited**
+**Meaning of insider**
 
 **293** 
 
-- **(1)** An insider shall not knowingly sell, directly or indirectly, a share of the distributing company or any of its affiliates if the insider does not own or has not fully paid for the share to be sold.
+- **(1)** In this section, ***insider*** means with respect to a distributing company
+	- **(a)** a director or officer of the company;
+	- **(b)** a director or officer of a subsidiary of the company;
+	- **(c)** a director or officer of a body corporate that enters into a business combination with the company; or
+	- **(d)** a person employed or retained by the company.
 
-**Exception for convertible shares**
+**Prohibition — short sale**
 
-- **(2)** Notwithstanding subsection (1), an insider may sell a share that the insider does not own if the insider owns another share convertible into the share sold or an option or right to acquire the share sold and, within ten days after the sale, the insider
-	- **(a)** exercises the conversion privilege, option or right and delivers the share so acquired to the purchaser; or
-	- **(b)** transfers the convertible share, option or right to the purchaser.
+- **(2)** No insider may knowingly sell, directly or indirectly, a security of a distributing company or of any of the distributing company’s affiliates if the insider does not own or has not fully paid for the security.
 
-**Prohibited calls and puts**
+**Exception**
 
-- **(3)** An insider shall not, directly or indirectly, buy or sell a call or put in respect of a share of the company or any of its affiliates.
+- **(3)** Despite subsection (2), an insider may sell a security that they do not own if they own another security that is convertible into the security that was sold or they own an option or right to acquire the security that was sold, and if within 10 days after the sale they
+	- **(a)** exercise the conversion privilege, option or right and deliver the security so acquired to the purchaser; or
+	- **(b)** transfer the convertible security, option or right to the purchaser.
+
+**Prohibition — calls and puts**
+
+- **(4)** No insider may knowingly, directly or indirectly, buy or sell a call or put in respect of a security of a company or of any of the company’s affiliates.
+> 1991, c. 47, s. 293; 2005, c. 54, s. 272.
 
 
 
 
-#### Civil Remedies
+
+#### Civil remedies
 
 
 
-**Extended meaning of “insider”**
+**Extended meaning of insider**
 
 **294** 
 
-- **(1)** In subsections (2) and 295(1), “insider” means, with respect to a company,
+- **(1)** In this section and sections 294.1 and 295, ***insider*** with respect to a company means
 	- **(a)** the company;
 	- **(b)** an affiliate of the company;
-	- **(c)** a director or an officer of the company;
-	- **(d)** a person who beneficially owns more than 10 per cent of the shares of the company or who exercises control or direction over more than 10 per cent of the votes attached to the shares of the company;
-	- **(e)** a person employed or retained by the company; and
-	- **(f)** a person who receives specific confidential information from a person described in this section, including a person described in this paragraph, and who has knowledge that the person giving the information is a person described in this section, including a person described in this paragraph.
+	- **(c)** a director or officer of the company or of any person described in paragraph (b), (d) or (f);
+	- **(d)** a person who beneficially owns directly or indirectly, or who exercises control or direction over or has a combination of ownership, control and direction in respect of, shares of the company carrying more than the prescribed percentage of the voting rights attached to all of the company’s outstanding shares not including shares held by the person as underwriter while those shares are in the course of a distribution to the public;
+	- **(e)** a person, other than a person described in paragraph (f), who is employed or retained by the company or by a person described in paragraph (f);
+	- **(f)** a person who engages in or proposes to engage in any business or professional activity with or on behalf of the company;
+	- **(g)** a person who received material confidential information concerning the company while they were a person described in any of paragraphs (a) to (f);
+	- **(h)** a person who receives material confidential information from a person who is and who they know or ought reasonably to have known is a person described in this subsection, including in this paragraph, or subsection (3) or (4); or
+	- **(i)** a prescribed person.
 
-**Deemed insider**
+**Extended meaning of security**
 
-- **(2)** For the purposes of subsection 295(1),
-	- **(a)** if a body corporate becomes an insider of a company or enters into a business combination with a company, or
-	- **(b)** if a company becomes an insider of a body corporate,
-every director or officer of the body corporate is deemed to have been an insider of the company for the previous six months or for such shorter period as the director or officer was a director or officer of the body corporate.
+- **(2)** For the purposes of this section, each of the following is deemed to be a security of a company:
+	- **(a)** a put, call, option or other right or obligation to purchase or sell a security of the company; and
+	- **(b)** a security of another entity, the market price of which varies materially with the market price of the securities of the company.
+
+**Deemed insider — take-over bid or business combination**
+
+- **(3)** For the purposes of this section and subsection 294.1(1), a person who proposes to make a take-over bid as defined in the regulations for securities of a company or to enter into a business combination with a company is an insider of the company with respect to material confidential information obtained from the company.
+
+**Deemed insider — affiliate or associate**
+
+- **(4)** An insider of a person referred to in subsection (3), or the person’s affiliate or associate, is an insider of the company referred to in that subsection. Paragraphs (1)(b) to (i) apply in making this determination except that references to “company” are to be read as references to “person described in subsection (3)”.
+
+**Meaning of associate**
+
+- **(5)** In subsection (4), ***associate*** means with respect to a person
+	- **(a)** a body corporate that the person directly or indirectly controls, determined without regard to paragraph 3(1)(d), or of which they beneficially own shares or securities currently convertible into shares carrying more than 10% of the voting rights under all circumstances or by reason of the occurrence of an event that has occurred and is continuing or a currently exercisable option or right to purchase the shares or convertible securities;
+	- **(b)** a partner of the person acting on behalf of the partnership of which they are partners;
+	- **(c)** a trust or estate in which the person has a substantial beneficial interest or in respect of which they serve as a trustee or a liquidator of the succession or in a similar capacity;
+	- **(d)** a spouse or common-law partner of the person;
+	- **(e)** a child of the person or of their spouse or common-law partner; or
+	- **(f)** if that relative has the same residence as the person, a relative of the person or of their spouse or common-law partner.
+
+**Insider trading — compensation to sellers and purchasers**
+
+- **(6)** An insider of a company who purchases or sells a security of the company with knowledge of confidential information that if it were generally known might reasonably be expected to materially affect the value of any of the securities of the company is liable to compensate the seller or purchaser of the security, as the case may be, for any loss suffered by them as a result of the purchase or sale unless the insider establishes that
+	- **(a)** the insider reasonably believed that the information had been generally disclosed;
+	- **(b)** the information was known or ought reasonably to have been known by the seller or purchaser; or
+	- **(c)** the purchase or sale of the security took place in the prescribed circumstances.
+
+**Insider trading — compensation to company**
+
+- **(7)** The insider is accountable to the company for any benefit or advantage received or receivable by the insider as a result of a purchase or sale described in subsection (5), unless they establish the circumstances described in paragraph (6)(a).
+> 1991, c. 47, s. 294; 2005, c. 54, s. 272.
 
 
 
 
-**Civil liability**
+
+**Tipping — compensation to sellers and purchasers**
+
+**294.1** 
+
+- **(1)** An insider of a company who discloses confidential information with respect to the company that has not been generally disclosed and that if it were generally known might reasonably be expected to materially affect the value of any of the securities of the company is liable to compensate any person who subsequently sells securities of the company to or purchases them from any person who received the information unless the insider establishes that
+	- **(a)** the insider reasonably believed that the information had been generally disclosed;
+	- **(b)** the information was known or ought reasonably to have been known by the person who alleges that they suffered the loss;
+	- **(c)** if the insider is not a person described in subsection 294(3) or (4), the disclosure of the information was necessary in the course of their business; or
+	- **(d)** if the insider is a person described in subsection 294(3) or (4), the disclosure of the information was necessary to effect the take-over bid or business combination.
+
+**Tipping — compensation to company**
+
+- **(2)** The insider is accountable to the company for any benefit or advantage received or receivable by them as a result of a disclosure of information as described in subsection (1) unless they establish the circumstances described in paragraph (1)(a), (c) or (d).
+> 2005, c. 54, s. 272.
+
+
+
+
+
+**Measure of damages**
 
 **295** 
 
-- **(1)** An insider who, in connection with a transaction in a security of the company or any of its affiliates, makes use of any specific confidential information for the insider’s own benefit or advantage that, if generally known, might reasonably be expected to affect materially the value of the security is
-	- **(a)** liable to compensate any person for any direct loss suffered by that person as a result of the transaction, unless the information was known or in the exercise of reasonable diligence should have been known to that person; and
-	- **(b)** accountable to the company for any direct benefit or advantage received or receivable by the insider as a result of the transaction.
+- **(1)** The court may assess damages under subsection 294(6) or 294.1(1) in accord­ance with any measure of damages that it considers relevant in the circumstances. However, in assessing damages in respect of a security of a distributing company, the court shall consider the following:
+	- **(a)** if the plaintiff is a purchaser, the price that they paid for the security less the average market price of the security over the 20 trading days immediately following general disclosure of the information; and
+	- **(b)** if the plaintiff is a seller, the average market price of the security over the 20 trading days immediately following general disclosure of the information, less the price that they received for the security.
 
-**Limitation of action**
+**Liability — more than one insider**
 
-- **(2)** An action to enforce a right created by subsection (1) may not be commenced
-	- **(a)** after a period of two years after discovery of the facts that gave rise to the cause of action; or
-	- **(b)** if the transaction was required to be reported under sections 289 to 291, after a period of two years from the time of reporting under those sections.
+- **(2)** If more than one insider is liable under subsection 294(6) or 294.1(1) with respect to the same transaction or series of transactions, their liability is joint and several, or solidary.
+
+**Limitation**
+
+- **(3)** An action to enforce a right created by subsection 294(6) or (7) or section 294.1 may be commenced only within two years after discovery of the facts that gave rise to the cause of action.
+> 1991, c. 47, s. 295; 2005, c. 54, s. 272.
+
 
 
 
@@ -6547,67 +6721,19 @@ every director or officer of the body corporate is deemed to have been an inside
 
 
 
-**Definition of “distribution”**
+**Distribution**
 
-**296** In this Division, ***distribution*** means
-- **(a)** a trade by or on behalf of a company in securities of the company that have not previously been issued; or
-- **(b)** a trade in previously issued securities of a company from the holdings of any person or group of persons who act in concert and who hold in excess of 10 per cent of the shares of any class of voting shares of the company.
+**296** 
 
-
-
-
-**Prospectus requirements**
-
-**297** 
-
-- **(1)** After the day that is twelve months after the coming into force of this section, a company shall not distribute any of its securities and a person shall not distribute any securities of a company unless a preliminary prospectus and a prospectus in a form substantially as prescribed have been filed with the Superintendent in relation to the distribution and receipts have been received therefor from the Superintendent.
-
-**Idem**
-
-- **(2)** Where there is filed in any jurisdiction a preliminary prospectus, prospectus, short-form prospectus or similar document relating to the distribution of securities in a form substantially as prescribed, a copy of that document may be accepted by the Superintendent under subsection (1).
-
-
-
-
-**Form and content**
-
-**298** 
-
-- **(1)** A preliminary prospectus in relation to the distribution of securities shall substantially comply with the requirements of this Act and any regulations made under subsection 299(1) respecting the form and content of a prospectus, except that any report or reports of the auditors of the company required by the regulations need not be included.
-
-**Idem**
-
-- **(2)** A preliminary prospectus in relation to the distribution of securities need not include information in respect of the price to the securities underwriter or the offering price of any securities or any other matters dependent on or relating to that price.
-
-
-
+- **(1)** No person including a company shall distribute securities of a company except in accordance with the regulations made under subsection (2).
 
 **Regulations**
 
-**299** 
-
-- **(1)** The Governor in Council may make regulations
-	- **(a)** respecting the form and content of a preliminary prospectus and a prospectus;
-	- **(b)** specifying the financial statements, reports and other documents that are to be included with a preliminary prospectus and a prospectus;
-	- **(c)** respecting, for the purposes of subsection 303(1), the disclosure of material facts in relation to securities to be distributed;
-	- **(d)** respecting the distribution of a preliminary prospectus and a prospectus to prospective purchasers;
-	- **(e)** exempting any class of distributions from the application of this Division, other than this section; and
-	- **(f)** generally, for carrying out the purposes and provisions of this Division, other than this section.
-
-**Authority of Superintendent**
-
-- **(2)** Any regulation made under subsection (1) may authorize the Superintendent to permit or require additions to, variations in or omissions from
-	- **(a)** a preliminary prospectus or prospectus; or
-	- **(b)** any information, report or document contained or required to be contained in the preliminary prospectus or prospectus or related thereto.
-
-**Idem**
-
-- **(3)** Where a regulation described in subsection (2) has been made, the Superintendent may exercise the authority thereby given in any case where the Superintendent is satisfied that it is necessary to do so owing to the circumstances related to the issue of the securities concerned.
-
-**Idem**
-
-- **(4)** All additions, variations or omissions referred to in subsection (2) shall be made in accordance with the permission or requirement of the Superintendent under that subsection and shall be in accordance with such terms and conditions, if any, as the Superintendent may impose as being necessary to ensure, to the greatest extent possible, a full, true and plain disclosure of all material facts relating to the securities to be distributed.
-> 1991, c. 47, s. 299; 1994, c. 26, s. 39(F); 1999, c. 31, s. 140.
+- **(2)** The Governor in Council may make regulations respecting the distribution of securities of a company, including
+	- **(a)** respecting the information that is to be disclosed by a company before the distribution of any of its securities, including the information that is to be included in a prospectus;
+	- **(b)** respecting the manner of disclosure and the form of the information that is to be disclosed; and
+	- **(c)** exempting any class of distribution of securities from the application of subsection (1).
+> 1991, c. 47, s. 296; 2005, c. 54, s. 272.
 
 
 
@@ -6615,94 +6741,184 @@ every director or officer of the body corporate is deemed to have been an inside
 
 **Order of exemption**
 
-**300** 
+**297** 
 
-- **(1)** On application by a company or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of this Division, other than this section and section 299, if the Superintendent is satisfied that the company has filed or is about to file, in compliance with the laws of the relevant jurisdiction, a prospectus relating to the distribution that, in form and content, substantially complies with the requirements of this Act and any regulations made under subsection 299(1).
+- **(1)** On application by a company or any person proposing to make a distribution, the Superintendent may, by order, exempt that distribution from the application of any regulations made under subsection 296(2) if the Superintendent is satisfied that the company has disclosed or is about to disclose, in compliance with the laws of the relevant jurisdiction, information relating to the distribution that in form and content substantially complies with the requirements of those regulations.
 
 **Conditions**
 
-- **(2)** An order under subsection (1) may contain such conditions or limitations as the Superintendent deems appropriate.
-> 1991, c. 47, s. 300; 1999, c. 31, s. 141.
+- **(2)** An order under subsection (1) may contain any conditions or limitations that the Superintendent deems appropriate.
+> 1991, c. 47, s. 297; 2005, c. 54, s. 272.
 
 
 
 
 
-**Receipt for preliminary prospectus**
-
-**301** 
-
-- **(1)** The Superintendent shall issue a receipt for a preliminary prospectus forthwith on its filing with the Superintendent.
-
-**Record to be maintained**
-
-- **(2)** A person proposing to distribute securities of a company to which a preliminary prospectus relates shall maintain a record of all persons to whom a copy of the preliminary prospectus has been sent.
-
-**Withdrawal of receipt**
-
-- **(3)** Where it appears to the Superintendent, after providing a reasonable opportunity to the person by whom the preliminary prospectus was filed to make representations, that a preliminary prospectus in respect of which a receipt has been issued under subsection (1) is defective in that it does not substantially comply with the requirements of this Act and the regulations, the receipt may be withdrawn and the person by whom the preliminary prospectus was filed shall forthwith be notified of its withdrawal.
-
-**Notice**
-
-- **(4)** Notice of withdrawal of a receipt under subsection (3) shall forthwith be sent by the person by whom the preliminary prospectus was filed to any persons proposing to take part in the distribution of the securities to which the preliminary prospectus relates and, by the company and each such person, to each person named on the records maintained in respect of the preliminary prospectus by the company and each such person.
+**DIVISION IX.1** 
+### Going-private Transactions and Squeeze-out Transactions
 
 
 
+**Going-private transactions**
 
-**Receipt for prospectus**
-
-**302** 
-
-- **(1)** The Superintendent shall issue a receipt for a prospectus forthwith on its filing with the Superintendent unless, after providing a reasonable opportunity to the person by whom the prospectus was filed to make representations, it appears to the Superintendent that
-	- **(a)** the prospectus or any document required to be filed therewith
-		- **(i)** fails to substantially comply with any of the requirements of this Act or the regulations, or
-		- **(ii)** contains a misrepresentation or any statement, promise, estimate or forecast that is misleading, false or deceptive; or
-	- **(b)** it would not be in the public interest to issue a receipt for the prospectus.
-
-- **(2) to (4)** [Repealed, 1996, c. 6, s. 75]
-> 1991, c. 47, s. 302; 1996, c. 6, s. 75.
+**298** A company may carry out a going-private transaction if it complies with any applicable provincial securities laws.
+> 1991, c. 47, s. 298; 2005, c. 54, s. 272.
 
 
 
 
 
-**Full disclosure**
+**Squeeze-out transactions**
 
-**303** 
-
-- **(1)** A prospectus shall provide full, true and plain disclosure of all material facts relating to the securities to be distributed and shall contain or be accompanied by such financial statements, reports or other documents as are required by any regulations made under subsection 299(1).
-
-**Certificate**
-
-- **(2)** A prospectus shall include a certificate in prescribed form signed
-	- **(a)** by the chief executive officer and the chief financial officer of the company making the distribution or, in the event of the absence or inability to act of either of those officers, any other officer of the company authorized by the directors to sign in the stead of the officer who is absent or unable to act, and such other persons as are prescribed, and
-	- **(b)** in the case of an initial distribution of shares of a company incorporated after the coming into force of this section, by each person who is a promoter of the company
-to the effect that, according to the person’s information, knowledge and belief, the disclosure required by subsection (1) and by any regulations made under subsection 299(1) has been provided.
-
-**Definition of “promoter”**
-
-- **(3)** For the purposes of subsection (2) and section 305, ***promoter*** means an applicant for letters patent to incorporate a company or a director named in the application for letters patent, but such an applicant or director is a promoter only for the period of two years following the application.
+**299** No company may carry out a squeeze-out transaction unless, in addition to any approval by holders of shares required by or under this Act or the company’s by-laws, the transaction is approved by ordinary resolution of the holders of each class of shares affected by the transaction, voting separately, whether or not the shares otherwise carry the right to vote. However, the following do not have the right to vote on the resolution:
+- **(a)** affiliates of the company; and
+- **(b)** holders of shares that following the squeeze-out transaction would be entitled to consideration of greater value or to superior rights or privileges than those available to other holders of shares of the same class.
+> 1991, c. 47, s. 299; 1994, c. 26, s. 39(F); 1999, c. 31, s. 140; 2005, c. 54, s. 272.
 
 
 
 
-**Certificate of securities underwriter**
 
-**304** Where a securities underwriter is associated in the distribution of securities of a company, a prospectus shall include a certificate in prescribed form signed by each securities underwriter who, with respect to the securities offered by the prospectus, is in a contractual relationship with the company or other distributor of the securities, to the effect that, according to the securities underwriter’s information, knowledge and belief, the disclosure required by subsection 303(1) and by any regulations made under subsection 299(1) has been provided.
+**Right to dissent**
+
+**300** 
+
+- **(1)** A holder of shares of a company may dissent if the company resolves to carry out a going-private transaction or squeeze-out transaction that affects those shares.
+
+**Payment for shares**
+
+- **(2)** In addition to any other right that the shareholder may have, but subject to subsection (25), a shareholder who complies with this section is, when the action approved by the resolution from which the shareholder dissents becomes effective, entitled to be paid by the company the fair value of the shares in respect of which the shareholder dissents, determined as of the close of business on the day before the resolution was adopted by the policyholders entitled to vote and the shareholders.
+
+**No partial dissent**
+
+- **(3)** A dissenting shareholder may claim under this section only with respect to all of the shares of a class held on behalf of any one beneficial owner and registered in the name of the dissenting shareholder.
+
+**Objection**
+
+- **(4)** A dissenting shareholder shall send to the company, at or before any meeting of shareholders and policyholders at which a resolution referred to in subsection (2) is to be voted on by the policyholders entitled to vote and the shareholders, a written objection to the resolution unless the company did not give notice to the shareholder of the purpose of the meeting and their right to dissent.
+
+**Notice that resolution was adopted**
+
+- **(5)** The company shall within 10 days after the day on which the policyholders entitled to vote and the shareholders adopt the resolution send to each shareholder who sent an objection under subsection (4) notice that the resolution was adopted. If it is necessary for the Minister or Superintendent to approve the transaction within the meaning of subsection 1016(1) before it becomes effective, the company shall send notice within 10 days after the approval. Notice is not required to be sent to a shareholder who voted for the resolution or one who has withdrawn their objection.
+
+**Demand for payment**
+
+- **(6)** A dissenting shareholder shall within 20 days after receiving the notice referred to in subsection (5) — or, if they do not receive it, within 20 days after learning that the resolution was adopted by the policyholders entitled to vote and the shareholders — send to the company a written notice containing
+	- **(a)** their name and address;
+	- **(b)** the number and class of shares in respect of which they dissent; and
+	- **(c)** a demand for payment of the fair value of those shares.
+
+**Share certificates**
+
+- **(7)** A dissenting shareholder shall within 30 days after sending a notice under subsection (6) send the certificates representing the shares in respect of which they dissent to the company or its transfer agent.
+
+**Forfeiture**
+
+- **(8)** A dissenting shareholder who fails to comply with subsection (7) has no right to make a claim under this section.
+
+**Endorsing certificate**
+
+- **(9)** A company or its transfer agent shall endorse on any share certificate received in accordance with subsection (7) a notice that the holder is a dissenting shareholder under this section and shall without delay return the share certificates to the dissenting shareholder.
+
+**Suspension of rights**
+
+- **(10)** On sending a notice under subsection (6), a dissenting shareholder ceases to have any rights as a shareholder other than to be paid the fair value of their shares as determined under this section. However, the shareholder’s rights are reinstated as of the date the notice was sent if
+	- **(a)** the shareholder withdraws the notice before the company makes an offer under subsection (11);
+	- **(b)** the company fails to make an offer in accordance with subsection (11) and the shareholder withdraws the notice; or
+	- **(c)** the directors revoke under section 242 the special resolution that was made in respect of the going-private transaction or squeeze-out transaction.
+
+**Offer to pay**
+
+- **(11)** A company shall, no later than seven days after the later of the day on which the action approved by the resolution from which the shareholder dissents becomes effective and the day on which the company received the notice referred to in subsection (6), send to each dissenting shareholder who sent a notice
+	- **(a)** a written offer to pay for their shares in an amount considered by the directors of the company to be the fair value, accompanied by a statement showing how the fair value was determined; or
+	- **(b)** if subsection (25) applies, a notice that it is unable to lawfully pay dissenting shareholders for their shares.
+
+**Same terms**
+
+- **(12)** Every offer made under subsection (11) for shares of the same class or series is to be on the same terms.
+
+**Payment**
+
+- **(13)** Subject to subsection (25), a company shall pay for the shares of a dissenting shareholder within 10 days after the day on which an offer made under subsection (11) is accepted, but the offer lapses if the company does not receive an acceptance within 30 days after the day on which the offer is made.
+
+**Court may fix fair value**
+
+- **(14)** If a company fails to make an offer under subsection (11) or if a dissenting shareholder fails to accept an offer, the company may, within 50 days after the day on which the action approved by the resolution from which the shareholder dissents becomes effective or within any further period that a court may allow, apply to the court to fix a fair value for the shares of any dissenting shareholder.
+
+**Shareholder application**
+
+- **(15)** If a company fails to apply to a court under subsection (14), a dissenting shareholder may apply to a court for the same purpose within a further period of 20 days or within any further period that the court may allow.
+
+**Venue**
+
+- **(16)** An application under subsection (14) or (15) is to be made to a court having jurisdiction where the company’s head office is situated or, if the company carries on business in the province in which the dissenting shareholder resides, in that province.
+
+**No security for costs**
+
+- **(17)** A dissenting shareholder is not required to give security for costs in an application made under subsection (14) or (15).
+
+**Parties**
+
+- **(18)** On an application to a court under subsection (14) or (15),
+	- **(a)** all dissenting shareholders whose shares have not been purchased by the company are to be joined as parties and are bound by the decision of the court;
+	- **(b)** the company shall notify each of them of the date, place and consequences of the application and their right to appear and be heard in person or by counsel; and
+	- **(c)** the company shall notify the Superintendent of the date and place of the application and the Superintend­ent may appear and be heard in person or by counsel.
+
+**Powers of court**
+
+- **(19)** On an application to a court under subsection (14) or (15), the court may determine whether any other person is a dissenting shareholder and is to be joined as a party and the court shall then fix a fair value for the shares of all dissenting shareholders.
+
+**Appraisers**
+
+- **(20)** The court may appoint one or more appraisers to assist the court to fix a fair value for the shares of the dissenting shareholders.
+
+**Final order**
+
+- **(21)** The final order of the court is to be rendered against the company in favour of each dissenting shareholder for the value of the shares as fixed by the court.
+
+**Interest**
+
+- **(22)** The court may allow a reasonable rate of interest on the amount payable to each dissenting shareholder from the date the action approved by the resolution from which the shareholder dissents becomes effective until the date of payment.
+
+**Notice that s. (25) applies**
+
+- **(23)** If subsection (25) applies, the company shall within 10 days after an order is made under subsection (21) notify each dissenting shareholder that it is unable to lawfully pay dissenting shareholders for their shares.
+
+**Effect of s. (25)**
+
+- **(24)** If subsection (25) applies, a dissenting shareholder may by written notice delivered to the company within 30 days after receiving notice under subsection (23)
+	- **(a)** withdraw their notice of dissent, in which case the company is deemed to consent to the withdrawal and the shareholder is reinstated to their full rights as a shareholder; or
+	- **(b)** retain their status as a claimant against the company, to be paid as soon as the company is able to lawfully pay them or, in a liquidation, to be ranked subordinate to the rights of the company’s creditors but in priority to its shareholders.
+
+**Limitation**
+
+- **(25)** A company may not make a payment to a dissenting shareholder under this section if there are reasonable grounds for believing that the company is or the payment would cause the company to be in contravention of a regulation referred to in subsection 515(1) or (2) or 516(1) or (2) or of an order made under subsection 515(3) or 516(4).
+> 1991, c. 47, s. 300; 1999, c. 31, s. 141; 2005, c. 54, s. 272.
 
 
 
 
-**Signature by agent**
-
-**305** With the consent of the Superintendent, an agent, duly authorized in writing, of a promoter or a securities underwriter referred to in subsection 303(2) or section 304 may, on behalf of the promoter or securities underwriter, as the circumstances require, sign the certificate referred to in that subsection or section.
+**301** [Repealed, 2005, c. 54, s. 272]
 
 
 
+**302** [Repealed, 2005, c. 54, s. 272]
 
-**Sending out prospectus**
 
-**306** No person shall distribute a preliminary prospectus or a prospectus in relation to a distribution of securities of a company except in accordance with any regulations made under subsection 299(1).
+
+**303** [Repealed, 2005, c. 54, s. 272]
+
+
+
+**304** [Repealed, 2005, c. 54, s. 272]
+
+
+
+**305** [Repealed, 2005, c. 54, s. 272]
+
+
+
+**306** [Repealed, 2005, c. 54, s. 272]
 
 
 
@@ -6718,41 +6934,33 @@ to the effect that, according to the person’s information, knowledge and belie
 
 - **(1)** In this Division,
 
-***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2);
+***affiliate*** means a body corporate that is affiliated with another body corporate within the meaning of subsection 6(2); (*groupe*)
 
-***associate of the offeror*** means
+***associate of the offeror*** means
 - **(a)** a body corporate that an offeror, directly or indirectly, controls, determined without regard to paragraph 3(1)(d), or of which an offeror beneficially owns shares or securities currently convertible into shares carrying more than 10 per cent of the voting rights under all circumstances or by reason of the occurrence of an event that has occurred and is continuing, or a currently exercisable option or right to purchase the shares or the convertible securities,
 - **(b)** a partner of the offeror acting on behalf of the partnership of which they are partners,
-- **(c)** a trust or estate in which the offeror has a substantial beneficial interest or in respect of which the offeror serves as a trustee or in a similar capacity,
+- **(c)** a trust or estate in which the offeror has a substantial beneficial interest or in respect of which they serve as a trustee or a liquidator of the succession or in a similar capacity,
 - **(d)** a spouse or common-law partner of the offeror,
 - **(e)** a child of the offeror or of the offeror’s spouse or common-law partner, or
-- **(f)** a relative of the offeror or of the offeror’s spouse or common-law partner, if that relative has the same residence as the offeror;
+- **(f)** a relative of the offeror or of the offeror’s spouse or common-law partner, if that relative has the same residence as the offeror; (*associé du pollicitant*)
 
-***dissenting offeree*** means, in respect of a take-over bid made for all the shares of a class of shares, a holder of a share of that class who does not accept the take-over bid and includes a subsequent holder of that share who acquires it from the first-mentioned holder;
+***dissenting offeree*** means a holder of a share who does not accept a take-over bid or a subsequent holder of the share who acquires it from the first-mentioned holder; (*pollicité opposant*)
 
-***exempt offer*** means an offer
-- **(a)** to fewer than fifteen shareholders to purchase shares by way of separate agreements,
-- **(b)** to purchase shares through a stock exchange or in the over-the-counter market in such circumstances as may be prescribed,
-- **(c)** to purchase shares of a company that has fewer than fifteen shareholders, two or more joint holders being counted as one shareholder, or
-- **(d)** exempted under the order of a court having jurisdiction in the place where the head office of the offeree company is located;
+***exempt offer***[Repealed, 2005, c. 54, s. 273]
 
-***offeree*** means a person to whom a take-over bid is made;
+***offeree*** means a person to whom a take-over bid is made; (*pollicité*)
 
-***offeree company*** means a company the shares of which are the object of a take-over bid;
+***offeree company*** means a company the shares of which are the object of a take-over bid; (*société pollicitée*)
 
-***offeror*** means a person, other than an agent, who makes a take-over bid, and includes two or more persons who, directly or indirectly,
+***offeror*** means a person, other than an agent, who makes a take-over bid, and includes two or more persons who, directly or indirectly,
 - **(a)** make take-over bids jointly or in concert, or
-- **(b)** intend to exercise jointly or in concert voting rights attached to shares for which a take-over bid is made;
+- **(b)** intend to exercise jointly or in concert voting rights attached to shares for which a take-over bid is made; (*pollicitant*)
 
-***share*** includes
-- **(a)** a security currently convertible into a share, and
-- **(b)** a currently exercisable option or right to acquire a share or a security referred to in paragraph (a);
+***share*** means a share with or without voting rights and includes 
+- **(a)** a security that is currently convertible into a share, and
+- **(b)** a currently exercisable option or right to acquire a share or a security referred to in paragraph (a); (*action*)
 
-***take-over bid*** means
-- **(a)** an offer, other than an exempt offer, made by an offeror to shareholders at approximately the same time to acquire shares that, if combined with shares already beneficially owned or controlled, directly or indirectly, by the offeror or an affiliate or associate of the offeror on the date of the offer, would exceed 10 per cent of any class of issued shares of an offeree company, and
-- **(b)** an offer to purchase shares of a company having fewer than fifteen shareholders if the offer is made to all shareholders in the prescribed form and manner,
-
-and includes every offer, other than an exempt offer, by an issuer to repurchase its own shares.
+***take-over bid*** means an offer made by an offeror at approximately the same time to all of the shareholders of a distributing company to acquire all of the shares of a class of issued shares, and includes an offer by a distributing company to repurchase all of the shares of a class. (*offre d’achat visant à la mainmise*)
 
 **Control**
 
@@ -6761,7 +6969,7 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Date of bid**
 
 - **(3)** A take-over bid is deemed to be dated as of the date on which it is sent.
-> 1991, c. 47, s. 307; 2000, c. 12, s. 154.
+> 1991, c. 47, s. 307; 2000, c. 12, s. 154; 2005, c. 54, s. 273.
 
 
 
@@ -6770,6 +6978,8 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Right to acquire shares**
 
 **308** If, within one hundred and twenty days after the date of a take-over bid, the bid is accepted by the holders of not less than 90 per cent of the shares of any class of shares to which the take-over bid relates, other than shares held at the date of the take-over bid by or on behalf of the offeror or an affiliate or associate of the offeror, the offeror is entitled, on complying with this Division, to acquire the shares held by the dissenting offerees.
+> 1991, c. 47, s. 308; 2005, c. 54, s. 274(F).
+
 
 
 
@@ -6784,28 +6994,43 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 	- **(c)** a dissenting offeree is required to elect
 		- **(i)** to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid, or
 		- **(ii)** to demand payment of the fair value of the dissenting offeree’s shares in accordance with sections 313 to 316 by notifying the offeror within twenty days after receipt of the offeror’s notice;
-	- **(d)** a dissenting offeree who does not notify the offeror in accordance with subparagraph (c)(ii) is deemed to have elected to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid; and
+	- **(d)** a dissenting offeree who does not notify the offeror in accordance with paragraph 310(b) is deemed to have elected to transfer the shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid; and
 	- **(e)** a dissenting offeree must send the dissenting offeree’s shares to which the take-over bid relates to the offeree company within twenty days after the dissenting offeree receives the offeror’s notice.
 
 **Notice of adverse claim**
 
 - **(2)** Concurrently with sending the offeror’s notice under subsection (1), the offeror shall send to the offeree company a notice of adverse claim in accordance with subsection 133(1) with respect to each share held by a dissenting offeree.
+> 1991, c. 47, s. 309; 2005, c. 54, s. 275.
 
 
 
 
-**Share certificates to be sent**
 
-**310** A dissenting offeree to whom an offeror’s notice is sent under subsection 309(1) shall, within twenty days after receipt of that notice, send the dissenting offeree’s share certificates of the class of shares to which the take-over bid relates to the offeree company.
+**Share certificates and election**
+
+**310** A dissenting offeree to whom a notice is sent under subsection 309(1) shall within 20 days after receiving the notice
+- **(a)** send to the offeree company the share certificates representing the shares to which the take-over bid relates; and
+- **(b)** elect to transfer the shares to the offeror on the same terms as those on which the offeror acquired shares from the offerees who accepted the take-over bid or to demand payment of the fair value of the shares in accordance with sections 313 to 316 by notifying the offeror.
+> 1991, c. 47, s. 310; 2005, c. 54, s. 276.
 
 
 
 
-**Payment to dissenter**
+
+**Deemed election**
+
+**310.1** A dissenting offeree who does not notify the offeror in accordance with paragraph 310(b) is deemed to have elected to transfer the shares to the offeror on the same terms as those on which the offeror acquired shares from the offerees who accepted the take-over bid.
+> 2005, c. 54, s. 276.
+
+
+
+
+
+**Payment to offeree company**
 
 **311** 
 
-- **(1)** Within twenty days after the offeror sends an offeror’s notice under subsection 309(1), the offeror shall pay or transfer to the offeree company the amount of money or other consideration that the offeror would have had to pay or transfer to a dissenting offeree if the dissenting offeree had elected to transfer the dissenting offeree’s shares as described in subparagraph 309(1)(c)(i).
+- **(1)** Within 20 days after the offeror sends a notice under subsection 309(1), the offeror shall pay the money, or transfer the other consideration, to the offeree company that the offeror would have had to pay or transfer to a dissenting offeree if the dissenting offeree had elected to transfer their shares in accordance with paragraph 310(b).
 
 **Consideration in trust**
 
@@ -6814,6 +7039,17 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Deposit or custody**
 
 - **(3)** An offeree company shall deposit the money received under subsection (1) in a separate account in a deposit-taking financial institution in Canada and the offeree company shall place any other consideration in the custody of a deposit-taking financial institution in Canada.
+> 1991, c. 47, s. 311; 2005, c. 54, s. 277.
+
+
+
+
+
+**Fiduciary capacity of company**
+
+**311.1** A company that is making a take-over bid to repurchase all of the shares of a class is deemed to hold in a fiduciary capacity for the dissenting shareholders the money that it would have had to pay, and the other consideration that it would have had to transfer, to a dissenting offeree if the dissenting offeree had elected to transfer their shares in accordance with paragraph 310(b). The company shall within 20 days after a notice is sent under subsection 309(1) deposit the money in a separate account in a deposit-taking financial institution in Canada and place any other consideration in the custody of a deposit-taking financial institution in Canada.
+> 2005, c. 54, s. 278.
+
 
 
 
@@ -6821,21 +7057,23 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Duty of offeree company**
 
 **312** Within thirty days after an offeror sends an offeror’s notice under subsection 309(1), the offeree company shall
-- **(a)** issue to the offeror a share certificate in respect of the shares that were held by dissenting offerees;
-- **(b)** give to each dissenting offeree who elects to transfer shares as described in subparagraph 309(1)(c)(i) and who sends the share certificates as required under section 310, the money or other consideration to which that dissenting offeree is entitled, disregarding fractional shares, which may be paid for in money; and
-- **(c)** send to each dissenting offeree who has not sent share certificates as required under section 310 a notice stating that
-	- **(i)** the shares have been cancelled,
-	- **(ii)** the offeree company or some designated person holds in a fiduciary capacity for that offeree the money or other consideration to which that offeree is entitled as payment for or in exchange for the shares, and
-	- **(iii)** the offeree company will, subject to sections 313 to 316, send that money or other consideration to that offeree forthwith after receiving the share certificates.
+- **(a)** if the payment or transfer required by subsection 311(1) is made, issue to the offeror a share certificate in respect of the shares that were held by the dissenting offerees;
+- **(b)** give to each dissenting offeree who elects to transfer shares under paragraph 310(b) and who sends the share certificates as required under paragraph 310(a) the money or other consideration to which they are entitled, disregarding fractional shares, which may be paid for in money; and
+- **(c)** if the payment or transfer required by subsection 311(1) is made and the money or other consideration is deposited as required by subsections 311(2) and (3) or by section 311.1, send to each dissenting offeree who has not sent share certificates as required under paragraph 310(a) a notice stating that
+	- **(i)** their shares have been cancelled,
+	- **(ii)** the offeree company or its designated person holds in a fiduciary capacity for that offeree the money or other consideration to which they are entitled as payment for or in exchange for the shares, and
+	- **(iii)** the offeree company will, subject to sections 313 to 316, send that money or other consideration to that offeree without delay after receiving the share certificates.
+> 1991, c. 47, s. 312; 2005, c. 54, s. 279.
 
 
 
 
-**Application to court**
+
+**Court may fix fair value**
 
 **313** 
 
-- **(1)** Where a dissenting offeree has elected to demand payment of the fair value of the offeree’s shares as described in subparagraph 309(1)(c)(ii), the offeror may, within twenty days after it has paid the money or transferred the other consideration under subsection 311(1), apply to a court to fix the fair value of the shares of that dissenting offeree.
+- **(1)** If a dissenting offeree has elected to demand payment of the fair value of their shares under paragraph 310(b), the offeror may, within 20 days after it has paid the money or transferred the other consideration under subsection 311(1), apply to a court to fix the fair value of the shares of that dissenting offeree.
 
 **Idem**
 
@@ -6848,6 +7086,8 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **No security for costs**
 
 - **(4)** A dissenting offeree is not required to give security for costs in an application made under subsection (1) or (2).
+> 1991, c. 47, s. 313; 2005, c. 54, s. 280.
+
 
 
 
@@ -6855,8 +7095,10 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Parties and notice**
 
 **314** On an application under subsection 313(1) or (2),
-- **(a)** all dissenting offerees who have made elections under subparagraph 309(1)(c)(ii) and whose shares have not been acquired by the offeror shall be joined as parties and are bound by the decision of the court; and
+- **(a)** all dissenting offerees who have made elections to demand payment under paragraph 310(b) and whose shares have not been acquired by the offeror shall be joined as parties and are bound by the decision of the court; and
 - **(b)** the offeror shall notify each affected dissenting offeree of the date, place and consequences of the application and of the dissenting offeree’s right to appear and be heard in person or by counsel at the hearing of the application.
+> 1991, c. 47, s. 314; 2005, c. 54, s. 281.
+
 
 
 
@@ -6878,7 +7120,7 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Additional powers of court**
 
 - **(4)** In connection with proceedings under subsection 313(1) or (2), a court may make any order it thinks fit and, without limiting the generality of the foregoing, may
-	- **(a)** fix the amount of money or other consideration that is deemed to be held in a fiduciary capacity under subsection 311(2);
+	- **(a)** fix the amount of money or other consideration that is deemed to be held in a fiduciary capacity under subsection 311(2) or section 311.1;
 	- **(b)** order that the money or other consideration is to be held in trust by a person other than the offeree company;
 	- **(c)** allow a reasonable rate of interest on the amount payable to each dissenting offeree from the date the dissenting offeree sends the share certificates required under section 310 until the date of payment; or
 	- **(d)** order that any money payable to a shareholder who cannot be found be paid to the Receiver General.
@@ -6886,6 +7128,8 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Recovery**
 
 - **(5)** If at any time a person establishes an entitlement to any moneys paid to the Receiver General under this section, the Receiver General shall pay an equivalent amount to that person out of the Consolidated Revenue Fund.
+> 1991, c. 47, s. 315; 2005, c. 54, s. 282.
+
 
 
 
@@ -6893,6 +7137,25 @@ and includes every offer, other than an exempt offer, by an issuer to repurchase
 **Status of dissenter**
 
 **316** Where no application is made to a court under subsection 313(2) within the period set out in that subsection, a dissenting offeree is deemed to have elected to transfer the dissenting offeree’s shares to the offeror on the same terms on which the offeror acquired the shares from the offerees who accepted the take-over bid.
+
+
+
+
+**Obligation to acquire shares**
+
+**316.1** 
+
+- **(1)** If a shareholder who holds shares of an offeree company does not receive the notice referred to in subsection 309(1), the shareholder may require the offeror to acquire the shares
+	- **(a)** within 90 days after the date of termination of the take-over bid; or
+	- **(b)** if the shareholder did not receive an offer under the take-over bid, within 90 days after the later of
+		- **(i)** the date of termination of the take-over bid, and
+		- **(ii)** the day on which the shareholder learned of the take-over bid.
+
+**Acquisition on same terms**
+
+- **(2)** If the shareholder requires the offeror to acquire shares, the offeror shall acquire them on the same terms as those on which the offeror acquires shares from offerees who accept the take-over bid.
+> 2005, c. 54, s. 283.
+
 
 
 
@@ -7280,10 +7543,16 @@ showing such information and particulars as in the opinion of the directors are 
 
 - **(2)** For the purposes of subsection (1),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a person is deemed not to be independent of a company if that person, any partner of that person or any member of a firm of accountants of which that person is a member, or if the firm of accountants
-		- **(i)** is a director or an officer or employee of the company or of any affiliate of the company or is a business partner of any director, officer or employee of the company or of any affiliate of the company,
+	- **(b)** a person is deemed not to be independent of a company if that person, a business partner of that person or a firm of accountants of which that person is a member
+		- **(i)** is a business partner, director, officer or employee of the company or of any affiliate of the company or is a business partner of any director, officer or employee of the company or of any affiliate of the company,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the company or of any affiliate of the company, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the company within the two years immediately preceding the person’s proposed appointment as auditor of the company, other than an affiliate that is a subsidiary of the company acquired pursuant to section 499 or through a realization of security pursuant to section 500.
+
+**Business partners**
+
+- **(2.1)** For the purposes of subsection (2),
+	- **(a)** in the case of the appointment of a natural person as the auditor of a company, a business partner of the person includes a shareholder of the business partner; and
+	- **(b)** in the case of the appointment of a firm of accountants as the auditor of a company, a business partner of a member of the firm includes another member of the firm and a shareholder of the firm or of a business partner of the member.
 
 **Notice of designation**
 
@@ -7296,7 +7565,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the company, there shall be deemed to be a vacancy in the office of auditor of the company.
-> 1991, c. 47, s. 338; 2001, c. 9, s. 400.
+> 1991, c. 47, s. 338; 2001, c. 9, s. 400; 2005, c. 54, s. 287.
 
 
 
@@ -7400,9 +7669,15 @@ showing such information and particulars as in the opinion of the directors are 
 	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders and policyholders at which another person is to be appointed in the auditor’s stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
 shall submit to the company and the Superintendent a written statement giving the reasons for the resignation or the reasons why the auditor opposes any proposed action.
 
-**Statement to be sent to shareholders and policyholders**
+**Other statements**
 
-- **(2)** Where a company receives a written statement referred to in subsection (1) that relates to a resignation as a result of a disagreement with the directors or officers of the company or that relates to a matter referred to in paragraph (1)(b) or (c), the company shall forthwith send a copy of the statement to each shareholder who is entitled to vote at the annual meeting of shareholders and policyholders and to each policyholder who is entitled pursuant to paragraph 143(1)(b) to receive notice of an annual meeting of shareholders and policyholders.
+- **(1.1)** In the case of a proposed replacement of an auditor whether because of removal or the expiry of their term, the company shall make a statement of the reasons for the proposed replacement and the proposed replacement auditor may make a statement in which they comment on those reasons.
+
+**Statements to be sent**
+
+- **(2)** The company shall send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder entitled to vote at the annual meeting of shareholders and policyholders, to every policyholder entitled under paragraph 143(1)(b) to receive notice of an annual meeting of shareholders and policyholders and to the Superintendent.
+> 1991, c. 47, s. 344; 2005, c. 54, s. 288.
+
 
 
 
@@ -14155,10 +14430,16 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 
 - **(2)** For the purposes of subsection (1),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a person is deemed not to be independent of a foreign company if that person, any partner of that person or any member of a firm of accountants of which that person is a member, or if the firm of accountants
-		- **(i)** is a director or an officer or employee of the foreign company or of any affiliate of the foreign company or is a business partner of any director, officer or employee of the foreign company or of any affiliate of the foreign company,
+	- **(b)** a person is deemed not to be independent of a foreign company if that person, a business partner of that person or a firm of accountants of which that person is a member
+		- **(i)** is a business partner, director, officer or employee of the foreign company or of any affiliate of the foreign company or is a business partner of any director, officer or employee of the foreign company or of any affiliate of the foreign company,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the foreign company or of any affiliate of the foreign company, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the foreign company within the two years immediately preceding the person’s proposed appointment as auditor of the foreign company.
+
+**Business partners**
+
+- **(2.1)** For the purposes of subsection (2),
+	- **(a)** in the case of the appointment of a natural person as the auditor of a foreign company, a business partner of the person includes a shareholder of the business partner; and
+	- **(b)** in the case of the appointment of a firm of accountants as the auditor of a foreign company, a business partner of a member of the firm includes another member of the firm and a shareholder of the firm or of a business partner of the member.
 
 **Notice of designation**
 
@@ -14171,6 +14452,8 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the foreign company, there shall be deemed to be a vacancy in the office of auditor of the foreign company.
+> 1991, c. 47, s. 634; 2005, c. 54, s. 302.
+
 
 
 
@@ -16756,8 +17039,18 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Place of meetings**
 
-**764** Meetings of shareholders of an insurance holding company shall be held at the place within Canada provided for in the by-laws of the insurance holding company or, in the absence of any such provision, at the place within Canada that the directors determine.
-> 2001, c. 9, s. 465.
+**764** 
+
+- **(1)** Meetings of shareholders of an insurance holding company shall be held at the place within Canada provided for in the by-laws of the insurance holding company or, in the absence of any such provision, at the place within Canada that the directors determine.
+
+**Participation by electronic means**
+
+- **(2)** Unless the by-laws provide otherwise, any person who is entitled to attend a meeting of shareholders may participate in the meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting if the insurance holding company makes one available. A person who is participating in a meeting by one of those means is deemed for the purposes of this Part to be present at the meeting.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting the manner of and conditions for participating in a meeting by means of a telephonic, electronic or other communication facility that permits all participants to communicate adequately with each other during the meeting.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 311.
 
 
 
@@ -16769,11 +17062,25 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Calling meetings**
 
-**765** The directors of an insurance holding company
-- **(a)** shall, after the meeting called under subsection 740(1), call the first annual meeting of shareholders of the insurance holding company, which meeting must be held not later than six months after the end of the first financial year of the insurance holding company;
-- **(b)** shall subsequently call an annual meeting of shareholders, which meeting must be held not later than six months after the end of each financial year; and
-- **(c)** may at any time call a special meeting of shareholders.
-> 2001, c. 9, s. 465.
+**765** 
+
+- **(1)** The directors of an insurance holding company
+	- **(a)** shall, after the meeting called under subsection 740(1), call the first annual meeting of shareholders of the insurance holding company, which meeting must be held not later than six months after the end of the first financial year of the insurance holding company;
+	- **(b)** shall subsequently call an annual meeting of shareholders, which meeting must be held not later than six months after the end of each financial year; and
+	- **(c)** may at any time call a special meeting of shareholders.
+
+**Order to delay calling annual meeting**
+
+- **(2)** Despite subsection (1), the insurance holding company may apply to the court for an order extending the time for calling an annual meeting.
+
+**Obligation to notify Superintendent**
+
+- **(3)** The insurance holding company shall give notice of the application to the Superintendent before any hearing concerning the application and shall provide the Superintendent with a copy of any order that is issued.
+
+**Superintendent’s right to appear**
+
+- **(4)** The Superintendent is entitled to appear and be heard in person or by counsel at any hearing concerning the application.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 312.
 
 
 
@@ -16783,40 +17090,30 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 
 
-**Fixing record date**
+**Authority to fix record date**
 
 **766** 
 
-- **(1)** For the purpose of determining
-	- **(a)** shareholders entitled to receive payment of a dividend,
-	- **(b)** shareholders entitled to participate in a liquidation distribution, or
-	- **(c)** who is a shareholder for any other purpose except the right to receive notice of, or to vote at, a meeting,
-the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede by more than fifty days the particular action to be taken.
+- **(1)** The directors may in advance fix a record date, that is within the prescribed period, for the determination of shareholders for any purpose, including for a determination of which shareholders are entitled to
+	- **(a)** receive payment of a dividend;
+	- **(b)** participate in a liquidation distribution;
+	- **(c)** receive notice of a meeting of shareholders; or
+	- **(d)** vote at a meeting of shareholders.
 
-**Record date for meetings**
+**Determination of record date**
 
-- **(2)** For the purpose of determining shareholders entitled to receive notice of a meeting of shareholders, the directors may fix in advance a date as the record date for the determination of shareholders, but the record date so fixed shall not precede the date on which the meeting is to be held by more than fifty days or less than twenty-one days.
-
-**No record date fixed under subsection (1)**
-
-- **(3)** If no record date is fixed under subsection (1) for the determination of shareholders for any purpose for which a record date could have been fixed under that subsection, the record date for the determination of shareholders for that purpose is the date on which the directors pass the resolution relating to that purpose.
-
-**No record date fixed for shareholders under subsection (2)**
-
-- **(4)** If no record date is fixed under subsection (2) for the determination of shareholders entitled to receive notice of a meeting, the record date for the determination of shareholders entitled to receive notice of, or to vote at, that meeting is
-	- **(a)** the day immediately before the day on which the notice is given; or
-	- **(b)** if no notice is given, the day on which the meeting is held.
+- **(2)** If no record date is fixed,
+	- **(a)** the record date for the determination of shareholders who are entitled to receive notice of a meeting of shareholders is
+		- **(i)** at the close of business on the day immediately preceding the day on which the notice is given, or
+		- **(ii)** if no notice is given, the day on which the meeting is held; and
+	- **(b)** the record date for the determination of shareholders for any other purpose, other than to establish a shareholder’s right to vote, is at the close of business on the day on which the directors pass a resolution in respect of that purpose.
 
 **Notice of record date**
 
-- **(5)** Subject to subsection (6), where a record date is fixed for the determination of shareholders for any purpose, notice of the record date shall, not less than seven days before the record date, be given
-	- **(a)** by advertisement in a newspaper in general circulation in the place where the head office of the insurance holding company is situated and in each place in Canada where the insurance holding company has a transfer agent or where a transfer of the insurance holding company’s shares may be recorded; and
-	- **(b)** by written notice to each stock exchange, if any, in Canada on which the shares of the insurance holding company are listed for trading.
-
-**Exception**
-
-- **(6)** Notice of a record date need not be given where the requirement to give the notice is waived in writing by every holder of a share of the class or series affected by the fixing of the record date whose name is set out in the central securities register at the close of business on the day on which the directors fix the record date.
-> 2001, c. 9, s. 465.
+- **(3)** If a record date is fixed and unless notice of the record date is waived in writing by every holder of a share of the class or series affected whose name is set out in the securities register at the close of business on the day on which the directors fix the record date, notice of the record date shall be given within the prescribed period by
+	- **(a)** advertisement in a newspaper in general circulation in the place where the insurance holding company’s head office is situated and in each place in Canada where the insurance holding company has a transfer agent or where a transfer of its shares may be recorded; and
+	- **(b)** written notice to each stock exchange in Canada on which the insurance holding company’s shares are listed for trading.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 313.
 
 
 
@@ -16830,10 +17127,15 @@ the directors may fix in advance a date as the record date for the determination
 
 **767** 
 
-- **(1)** Notice of the time and place of a meeting of shareholders of a company shall be sent not less than twenty-one days or more than fifty days before the meeting to
+- **(1)** Notice of the time and place of a meeting of shareholders of an insurance holding company shall be sent within the prescribed period to
 	- **(a)** each shareholder entitled to vote at the meeting;
-	- **(b)** each director; and
-	- **(c)** the auditor of the insurance holding company.
+	- **(b)** each director;
+	- **(c)** the auditor of the insurance holding company; and
+	- **(d)** the Superintendent.
+
+**Exception**
+
+- **(1.1)** In the case of an insurance holding company that is not a distributing insurance holding company, notice may be sent within any shorter period specified in its by-laws.
 
 **Number of eligible votes**
 
@@ -16851,14 +17153,14 @@ the directors may fix in advance a date as the record date for the determination
 
 - **(5)** In addition to the notice required under subsection (1), where any class of shares of an insurance holding company is publicly traded on a recognized stock exchange in Canada, notice of the time and place of the meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in the place where the head office of the insurance holding company is situated and in each place in Canada where the insurance holding company has a transfer agent or where a transfer of the insurance holding company’s shares may be recorded.
 
-**When notice not required**
+**Notice not required**
 
-- **(6)** A notice of a meeting of shareholders is not required to be sent to shareholders who are not registered on the records of the insurance holding company or its transfer agent on the record date fixed or determined under subsection 766(2) or (4).
+- **(6)** Notice of a meeting of shareholders is not required to be sent to shareholders who are not registered on the records of the insurance holding company or the insurance holding company’s transfer agent on the record date fixed under paragraph 766(1)(c) or determined under paragraph 766(2)(a).
 
 **Effect of default**
 
 - **(7)** Failure to receive a notice of a meeting of shareholders does not deprive a shareholder of the right to vote at the meeting.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 314.
 
 
 
@@ -16904,53 +17206,78 @@ the directors may fix in advance a date as the record date for the determination
 
 
 
-**Proposal**
+**Proposals**
 
 **770** 
 
-- **(1)** A shareholder entitled to vote at an annual meeting of shareholders of an insurance holding company may
-	- **(a)** submit to the insurance holding company notice of any matter that the shareholder proposes to raise at the meeting; and
-	- **(b)** discuss at the meeting any matter in respect of which the shareholder would have been entitled to submit a proposal.
+- **(1)** Subject to subsections (1.1) and (1.2), a registered holder or a beneficial owner of shares that may be voted at an annual meeting of shareholders may
+	- **(a)** submit to the insurance holding company notice of any matter that they propose to raise at the meeting (in this section and section 771 referred to as a “proposal”); and
+	- **(b)** discuss at the meeting any matter in respect of which they would have been entitled to submit a proposal.
+
+**Eligibility to submit proposal**
+
+- **(1.1)** To be eligible to submit a proposal a person shall
+	- **(a)** for at least the prescribed period be the registered holder or beneficial owner of at least the prescribed number of the insurance holding company’s outstanding shares; or
+	- **(b)** have the support of persons who, in the aggregate and including or not including the person who submits the proposal, have for at least the prescribed period been the registered holders or beneficial owners of at least the prescribed number of the insurance holding company’s outstanding shares.
+
+**Information to be provided**
+
+- **(1.2)** A proposal is to be accompanied by the following information:
+	- **(a)** the name and address of the person submitting the proposal and the names and addresses of their supporters, if any; and
+	- **(b)** the number of shares held or owned by the person and their supporters and the date that the shares were acquired.
+
+**Information not part of proposal**
+
+- **(1.3)** The information provided under subsection (1.2) does not form part of a proposal or of the supporting statement referred to in subsection (3) and is not to be included for the purposes of the prescribed maximum number of words referred to in subsection (3).
+
+**Proof may be required**
+
+- **(1.4)** If the insurance holding company requests within the prescribed period that a person provide proof that they are eligible to submit a proposal, the person shall within the prescribed period provide proof that they meet the requirements of subsection (1.1).
 
 **Circulation of proposal**
 
 - **(2)** An insurance holding company shall attach any proposal of a shareholder submitted for consideration at a meeting of shareholders to the notice of the meeting.
 
-**Proponent’s statement**
+**Supporting statement**
 
-- **(3)** If so requested by a shareholder who submits a proposal to an insurance holding company, the insurance holding company shall attach to the notice of the meeting a statement by the shareholder of not more than two hundred words in support of the proposal and the name and address of the shareholder.
+- **(3)** At the request of the person who submits a proposal, the insurance holding company shall attach to the notice of the meeting the person’s statement in support of the proposal and their name and address. The statement and proposal together are not to exceed the prescribed maximum number of words.
 
-**Nominations for directors**
+**Nomination of directors**
 
-- **(4)** A proposal may include nominations for the election of directors if the proposal is signed by one or more holders of shares representing in the aggregate not less than 5 per cent of the shares or 5 per cent of the shares of a class of shares of the insurance holding company entitled to vote at the meeting to which the proposal is to be presented.
+- **(4)** A proposal may include nominations for the election of directors if it is signed by one or more registered holders or beneficial owners of shares representing in the aggregate not less than 5% of the shares of the insurance holding company or 5% of the shares of a class of its shares entitled to vote at the meeting at which the proposal is to be presented.
 
-**Conditions precedent for proposals**
+**Exemption**
 
 - **(5)** An insurance holding company is not required to comply with subsections (2) and (3) if
-	- **(a)** the proposal is not submitted to the insurance holding company at least ninety days before the anniversary date of the previous annual meeting of shareholders;
-	- **(b)** it clearly appears that the proposal is submitted by the shareholder primarily for the purpose of enforcing a personal claim or redressing a personal grievance against the insurance holding company or its directors, officers or security holders, or primarily for the purpose of promoting general economic, political, racial, religious, social or similar causes;
-	- **(c)** the insurance holding company, at the shareholder’s request, attached a proposal to the notice of a meeting of shareholders held within two years preceding the receipt of the request, and the shareholder failed to present the proposal, in person or by proxy, at the meeting;
-	- **(d)** substantially the same proposal was submitted to shareholders in a dissident’s proxy circular relating to, or was attached to the notice of, a meeting of shareholders held within two years preceding the receipt of the shareholder’s request and the proposal was defeated; or
+	- **(a)** the proposal is not submitted to the insurance holding company at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to shareholders in respect of the previous annual meeting of shareholders;
+	- **(b)** it clearly appears that the primary purpose of the proposal is to enforce a personal claim or redress a personal griev­ance against the insurance holding company or its directors, officers or security holders;
+	- **(b.1)** it clearly appears that the proposal does not relate in a significant way to the business or affairs of the insurance holding company;
+	- **(c)** the person submitting the proposal failed within the prescribed period before the insurance holding company receives their proposal to present, in person or by proxy, at a meeting of shareholders a proposal that at their request had been attached to the notice of the meeting;
+	- **(d)** substantially the same proposal was set out in or attached to a dissident’s proxy circular or a notice of a meeting relating to, and presented to shareholders at, a meeting of shareholders held within the prescribed period before the receipt of the proposal and did not receive the prescribed minimum amount of support at the meeting; or
 	- **(e)** the rights conferred by subsections (1) to (4) are being abused to secure publicity.
+
+**Insurance holding company may refuse to include proposal**
+
+- **(5.1)** If a person who submits a proposal fails to continue to hold or own shares in accordance with paragraph (1.1)(a) or, as the case may be, does not continue to have the support of persons who are in the aggregate the registered holders or beneficial owners of the prescribed number of shares in accordance with paragraph (1.1)(b) until the end of the meeting, the insurance holding company is not required to attach any proposal submitted by that person to a notice of a meeting for any meeting held within the prescribed period after the day of the meeting.
 
 **Immunity for proposal and statement**
 
 - **(6)** No insurance holding company or person acting on behalf of an insurance holding company incurs any liability by reason only of circulating a proposal or statement in compliance with subsections (2) and (3).
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 315.
 
 
 
 
 
-**Refusal of proposal**
+**Notice of refusal**
 
 **771** 
 
-- **(1)** If an insurance holding company refuses to attach a proposal to the notice of the meeting, the insurance holding company shall, within ten days after receiving the proposal, notify the shareholder submitting the proposal of its intention not to attach the proposal to the notice of the meeting and send to the shareholder a statement of the reasons for the refusal.
+- **(1)** If an insurance holding company refuses to attach a proposal to a notice of a meeting, it shall in writing notify the person submitting the proposal of its intention not to attach the proposal and of the reasons for the refusal. It shall notify the person within the prescribed period after either the day on which it receives the proposal or, if it has requested proof under subsection 770(1.4), the day on which it receives the proof.
 
-**Appeal to court**
+**Application to court**
 
-- **(2)** On the application of a shareholder claiming to be aggrieved by an insurance holding company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order it thinks fit.
+- **(2)** On the application of a person submitting a proposal who claims to be aggrieved by an insurance holding company’s refusal under subsection (1), a court may restrain the holding of the meeting at which the proposal is sought to be presented and make any further order that it thinks fit.
 
 **Appeal to court**
 
@@ -16959,7 +17286,7 @@ the directors may fix in advance a date as the record date for the determination
 **Notice to Superintendent**
 
 - **(4)** An applicant under subsection (2) or (3) shall give the Superintendent written notice of the application and the Superintendent may appear and be heard at the hearing of the application in person or by counsel.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 316.
 
 
 
@@ -16969,34 +17296,30 @@ the directors may fix in advance a date as the record date for the determination
 
 
 
-**Shareholder list**
+**List of shareholders entitled to notice**
 
 **772** 
 
-- **(1)** For each meeting of shareholders of an insurance holding company, the insurance holding company shall prepare a list, which may be in electronic form, of its shareholders entitled to receive notice of a meeting under paragraph 767(1)(a), arranged in alphabetical order and showing the number of shares held by each shareholder.
+- **(1)** An insurance holding company shall prepare an alphabetical list of shareholders entitled to receive notice of a meeting, showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 766(1)(c), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed, on the record date determined under paragraph 766(2)(a).
 
-**Time to prepare list**
+**Voting list**
 
-- **(2)** If a record date is fixed under subsection 766(2), the list referred to in subsection (1) shall be prepared not later than ten days after that record date. If no record date is fixed under that subsection, the list shall be prepared
-	- **(a)** at the close of business on the day before the day on which the notice of the meeting is given; or
-	- **(b)** if no notice is given, on the day on which the meeting is held.
+- **(2)** The insurance holding company shall prepare an alphabetical list of shareholders entitled to vote as of the record date showing the number of shares held by each shareholder
+	- **(a)** if a record date is fixed under paragraph 766(1)(d), no later than 10 days after that date; and
+	- **(b)** if no record date is fixed under paragraph 766(1)(d), no later than 10 days after a record date is fixed under paragraph 766(1)(c) or no later than the record date determined under paragraph 766(2)(a), as the case may be.
 
-**Effect of list**
+**Entitlement to vote**
 
-- **(3)** Except as otherwise provided in this Part, at a meeting to which a list prepared under subsection (1) relates, a person named in the list is entitled to vote the shares shown on the list opposite the person’s name unless
-	- **(a)** the person has transferred the ownership of any of those shares after the record date fixed under subsection 766(2) or, if no record date is fixed, after the date on which the list was prepared, and
-	- **(b)** the transferee of those shares
-		- **(i)** produces properly endorsed share certificates, or
-		- **(ii)** otherwise establishes that the transferee owns the shares,
-and demands, not later than ten days before the meeting or such shorter period before the meeting as the by-laws of the insurance holding company provide, that the transferee’s name be included in the list before the meeting,
-in which case the transferee may vote those transferred shares at the meeting.
+- **(3)** Subject to section 793, a shareholder whose name appears on a list prepared under subsection (2) is entitled to vote the shares shown opposite their name.
 
 **Examination of list**
 
-- **(4)** A shareholder of an insurance holding company may examine the list of shareholders referred to in subsection (1)
+- **(4)** A shareholder may examine the list of shareholders
 	- **(a)** during usual business hours at the head office of the insurance holding company or at the place where its central securities register is maintained; and
 	- **(b)** at the meeting of shareholders for which the list was prepared.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 317.
 
 
 
@@ -17080,7 +17403,19 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Ballot**
 
 - **(2)** A shareholder or proxyholder may demand a ballot either before or after any vote by show of hands.
-> 2001, c. 9, s. 465.
+
+**Electronic voting**
+
+- **(3)** Despite subsection (1) and unless the by-laws provide otherwise, any vote referred to in that subsection may be held entirely by means of a telephonic, electronic or other communication facility if the insurance holding company makes one available.
+
+**Voting while participating electronically**
+
+- **(4)** Unless the by-laws provide otherwise, any person who is participating in a meeting of shareholders under subsection 764(2) and entitled to vote at that meeting may vote by means of the telephonic, electronic or other communication facility that the insurance holding company has made available for that purpose.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations respecting the manner of and conditions for voting at a meeting of shareholders by means of a telephonic, electronic or other communication facility.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 318.
 
 
 
@@ -17101,7 +17436,11 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Filing resolution**
 
 - **(2)** A copy of every resolution referred to in subsection (1) shall be kept with the minutes of the meetings of shareholders.
-> 2001, c. 9, s. 465.
+
+**Evidence**
+
+- **(3)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 319.
 
 
 
@@ -17126,7 +17465,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Directors calling meeting**
 
 - **(3)** On receipt of a requisition referred to in subsection (1), the directors shall call a meeting of shareholders to transact the business stated in the requisition, unless
-	- **(a)** a record date has been fixed under subsection 766(2) and notice thereof has been given under subsection 766(5);
+	- **(a)** a record date has been fixed under paragraph 766(1)(c) and notice of it has been given under subsection 766(3);
 	- **(b)** the directors have called a meeting of shareholders and have given notice thereof under section 767; or
 	- **(c)** the business of the meeting as stated in the requisition includes matters described in paragraphs 770(5)(b) to (e).
 
@@ -17141,7 +17480,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Reimbursement**
 
 - **(6)** Unless the shareholders otherwise resolve at a meeting called under subsection (4), the insurance holding company shall reimburse the shareholders for any expenses reasonably incurred by them in requisitioning, calling and holding the meeting.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 320.
 
 
 
@@ -17151,21 +17490,16 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 
 
-**Meeting called by court**
+**Court may order meeting to be called**
 
 **781** 
 
-- **(1)** A court may order a meeting of shareholders of an insurance holding company to be called, held and conducted in such manner as the court directs where
-	- **(a)** it is impracticable to call the meeting in the manner in which it is otherwise to be called;
-	- **(b)** it is impracticable to conduct the meeting in the manner required by the by-laws and this Part; or
-	- **(c)** the court thinks fit to make the order for any other reason.
+- **(1)** A court may, on the application of a director, a shareholder who is entitled to vote at a meeting of shareholders or the Superintendent, order a meeting to be called, held or conducted in the manner that the court directs if
+	- **(a)** it is impracticable to call the meeting within the time or in the manner in which it is to be called;
+	- **(b)** it is impracticable to conduct the meeting in the manner required by this Part or the by-laws; or
+	- **(c)** the court thinks that the meeting ought to be called, held or conducted within the time or in the manner that it directs for any other reason.
 
-**Who may apply for the order**
-
-- **(2)** The court may make that order on the application of
-	- **(a)** the Superintendent;
-	- **(b)** a director; or
-	- **(c)** a shareholder entitled to vote at the meeting.
+- **(2)** [Repealed, 2005, c. 54, s. 321]
 
 **Varying quorum**
 
@@ -17174,7 +17508,7 @@ in which case the transferee may vote those transferred shares at the meeting.
 **Valid meeting**
 
 - **(4)** A meeting called, held and conducted pursuant to this section is for all purposes a meeting of shareholders of the insurance holding company duly called, held and conducted.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 321.
 
 
 
@@ -17240,9 +17574,18 @@ in which case the transferee may vote those transferred shares at the meeting.
 
 **785** The following definitions apply in this Subdivision.
 
-***registrant*** means a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction.
+***intermediary*** means a person who holds a security on behalf of another person who is not the registered holder of the security, and includes 
+- **(a)** a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction;
+- **(b)** a securities depositary;
+- **(c)** a financial institution;
+- **(d)** in respect of a clearing agency, a securities dealer, trust company, association within the meaning of section 2 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), bank or other person, including another clearing agency, on whose behalf the clearing agency or its nominee holds securities of an issuer;
+- **(e)** a trustee or administrator of a self-administered retirement savings plan, retirement income fund or education savings plan or another similar self-administered savings or investment plan that is registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+- **(f)** a nominee of a person referred to in any of paragraphs (a) to (e); and
+- **(g)** a person who performs functions similar to those performed by a person referred to in any of paragraphs (a) to (e) and holds a security registered in their name, or in the name of their nominee, on behalf of another person who is not the registered holder of the security. (*intermédiaire*)
 
- or ***solicit*** or ***solicitation*** includes
+***registrant***[Repealed, 2005, c. 54, s. 322]
+
+***solicit*** or ***solicitation*** includes
 - **(a)** a request for a proxy, whether or not accompanied by or included in a form of proxy,
 - **(b)** a request to execute or not to execute a form of proxy or to revoke a proxy,
 - **(c)** the sending of a form of proxy or other communication to a shareholder under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy, and
@@ -17252,10 +17595,10 @@ but does not include
 - **(e)** the sending of a form of proxy in response to an unsolicited request made by or on behalf of a shareholder,
 - **(f)** the performance of administrative acts or professional services on behalf of a person soliciting a proxy,
 - **(g)** the sending by a registrant of the documents referred to in section 791, or
-- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner.
+- **(h)** a solicitation by a person in respect of shares of which that person is the beneficial owner. (*sollicitation*)
 
-***solicitation by or on behalf of the management of an insurance holding company*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the insurance holding company.
-> 2001, c. 9, s. 465.
+***solicitation by or on behalf of the management of an insurance holding company*** means a solicitation by any person pursuant to a resolution or instruction of, or with the acquiescence of, the directors or a committee of the directors of the insurance holding company. (*sollicitation effectuée par la direction d’une société de portefeuille d’assurances ou pour son compte*)
+> 2001, c. 9, s. 465; 2005, c. 54, s. 322.
 
 
 
@@ -17319,8 +17662,10 @@ but does not include
 
 **Exception**
 
-- **(2)** If an insurance holding company has fewer than fifteen shareholders, the management of the insurance holding company is not required to send a form of proxy to the shareholders under subsection (1). For the purpose of this subsection, two or more joint shareholders are counted as one shareholder.
-> 2001, c. 9, s. 465.
+- **(2)** The management of an insurance holding company is not required to send a form of proxy under subsection (1) if the insurance holding company
+	- **(a)** is not a distributing insurance holding company; and
+	- **(b)** has 50 or fewer shareholders who are entitled to vote at a meeting, two or more joint holders of a share being counted as one shareholder.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 323.
 
 
 
@@ -17365,51 +17710,60 @@ but does not include
 
 **Vote by show of hands**
 
-- **(3)** Where the chairperson of a meeting of shareholders declares to the meeting that, if a ballot were conducted, the total number of votes represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting in relation to any matter or group of matters is less than five per cent of all the votes that might be cast at the meeting on the ballot, unless a shareholder or proxyholder demands a ballot,
+- **(3)** Despite subsections (1) and (2) and unless a shareholder or proxyholder demands a ballot, if the chairperson of a meeting of shareholders declares to the meeting that, if a ballot were conducted, the total number of votes attached to shares represented at the meeting by proxy required to be voted against what, to the knowledge of the chairperson, would be the decision of the meeting on a matter or group of matters is less than 5% of all the votes that might be cast by shareholders in person or by proxy,
 	- **(a)** the chairperson may conduct the vote in respect of that matter or group of matters by way of a show of hands; and
 	- **(b)** a proxyholder or alternate proxyholder may vote in respect of that matter or group of matters by way of a show of hands.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 325.
 
 
 
 
 
-**Duty of registrant**
+**Duty of intermediary**
 
 **791** 
 
-- **(1)** Shares of an insurance holding company that are registered in the name of a registrant or registrant’s nominee and that are not beneficially owned by the registrant shall not be voted unless the registrant sends to the beneficial owner
-	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular, dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
-	- **(b)** a written request for voting instructions, except where the registrant has already received written voting instructions from the beneficial owner.
+- **(1)** Shares of an insurance holding company that are registered in the name of an intermediary or an intermediary’s nominee and not beneficially owned by the intermediary may not be voted unless the intermediary sends to the beneficial owner
+	- **(a)** a copy of the notice of the meeting, annual statement, management proxy circular and dissident’s proxy circular and any other documents, other than the form of proxy, that were sent to shareholders by or on behalf of any person for use in connection with the meeting; and
+	- **(b)** a written request for voting instructions except if the intermediary has already received written voting instructions from the beneficial owner.
 
 **When documents to be sent**
 
-- **(2)** The documents to be sent to the beneficial owner under subsection (1) shall be sent by the registrant without delay after the registrant receives the documents referred to in paragraph (1)(a).
+- **(2)** The intermediary shall send the documents referred to in subsection (1) without delay after they receive the documents referred to in paragraph (1)(a).
 
-**Where registrant not to vote shares**
+**Restriction on voting**
 
-- **(3)** A registrant shall not vote or appoint a proxyholder to vote shares of an insurance holding company registered in the registrant’s name or in the name of the registrant’s nominee that the registrant does not beneficially own unless the registrant receives voting instructions from the beneficial owner.
+- **(3)** An intermediary or a proxyholder appointed by them may not vote shares that the intermediary does not beneficially own and that are registered in the name of the intermediary or their nominee unless the intermediary or proxyholder, as the case may be, receives written voting instructions from the beneficial owner.
 
 **Copies**
 
-- **(4)** A person by or on behalf of whom a solicitation is made shall, at the request of a registrant, without delay provide the registrant, at that person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
+- **(4)** A person by or on behalf of whom a solicitation is made shall on request and without delay provide the intermediary, at the person’s expense, with the necessary number of copies of the documents referred to in paragraph (1)(a).
 
-**Instructions to registrant**
+**Instructions to intermediary**
 
-- **(5)** A registrant shall vote or appoint a proxyholder to vote any shares referred to in subsection (1) in accordance with any written voting instructions received from the beneficial owner.
+- **(5)** The intermediary shall vote or appoint a proxyholder to vote any shares referred to in subsection (1) in accordance with any written voting instructions received from the beneficial owner.
 
 **Beneficial owner as proxyholder**
 
-- **(6)** If requested by a beneficial owner, a registrant shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
+- **(6)** If a beneficial owner so requests and provides an intermediary with the appropriate documentation, the intermediary shall appoint the beneficial owner or a nominee of the beneficial owner as proxyholder.
 
-**Default of registrant — effect**
+**Effect of intermediary’s failure to comply**
 
-- **(7)** The failure of a registrant to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or any action taken at the meeting.
+- **(7)** The failure of an intermediary to comply with any of subsections (1) to (6) does not render void any meeting of shareholders or any action taken at the meeting.
 
-**Right of registrant limited**
+**Intermediary may not vote**
 
-- **(8)** Nothing in this Subdivision gives a registrant the right to vote shares that the registrant is otherwise prohibited from voting.
-> 2001, c. 9, s. 465.
+- **(8)** Nothing in this Subdivision gives an intermediary the right to vote shares that they are otherwise prohibited from voting.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 326.
+
+
+
+
+
+**Exemption**
+
+**791.1** The Governor in Council may make regulations respecting the conditions under which an insurance holding company is exempt from any of the requirements of sections 786 to 791.
+> 2005, c. 54, s. 326.
 
 
 
@@ -17608,6 +17962,19 @@ but does not include
 
 - **(2)** A by-law made pursuant to subsection (1) that provides for a minimum and maximum number of directors may provide that the number of directors to be elected at any annual meeting of the shareholders be such number as is fixed by the directors prior to the annual meeting.
 > 2001, c. 9, s. 465.
+
+
+
+
+
+**Election or appointment as director**
+
+**800.1** The election or appointment of a person as a director is subject to the following:
+- **(a)** the person was present at the meeting when the election or appointment took place and did not refuse to hold office as a director; or
+- **(b)** the person was not present at the meeting when the election or appointment took place but
+	- **(i)** consented in writing to hold office as a director before the election or appointment or within 10 days after it, or
+	- **(ii)** acted as a director after the election or appointment.
+> 2005, c. 54, s. 327.
 
 
 
@@ -17954,8 +18321,8 @@ is entitled to submit to the insurance holding company a written statement givin
 
 **Director continues to be present**
 
-- **(3)** Any director present at a meeting of directors who is not present at any particular time during the meeting for the purposes of subsection 837(1) shall be considered as being present for the purposes of this section.
-> 2001, c. 9, s. 465.
+- **(3)** A director who is present at a meeting of directors or of a committee of directors but is not, in accordance with subsection 837(1), present at any particular time during the meeting is considered to be present for the purposes of this section.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 331.
 
 
 
@@ -18013,7 +18380,11 @@ of the directors present are resident Canadians.
 **Filing committee resolution**
 
 - **(4)** A copy of the resolution referred to in subsection (3) shall be kept with the minutes of the proceedings of that committee.
-> 2001, c. 9, s. 465.
+
+**Evidence**
+
+- **(5)** Unless a ballot is demanded, an entry in the minutes of a meeting that the chairperson declared a resolution to be carried or defeated is in the absence of evidence to the contrary proof of that fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 332.
 
 
 
@@ -18207,15 +18578,15 @@ of the directors present are resident Canadians.
 
 **832** The directors of an insurance holding company may not delegate any of the following powers, namely, the power to
 - **(a)** submit to the shareholders a question or matter requiring the approval of the shareholders;
-- **(b)** fill a vacancy among the directors or a committee of directors or in the office of auditor of the insurance holding company;
-- **(c)** issue or cause to be issued securities except in the manner and on terms authorized by the directors;
+- **(b)** fill a vacancy among the directors, on a committee of directors or in the office of auditor, or appoint additional directors;
+- **(c)** issue or cause to be issued securities, including an issue of shares of a series that is authorized in accordance with section 745, except in accordance with any authorization made by the directors;
 - **(d)** declare a dividend;
 - **(e)** authorize the redemption or other acquisition by the insurance holding company pursuant to section 754 of shares issued by the insurance holding company;
 - **(f)** authorize the payment of a commission on a share issue;
 - **(g)** approve a management proxy circular;
 - **(h)** except as provided in this Part, approve the annual statement of the insurance holding company and any other financial statements issued by the insurance holding company; or
 - **(i)** adopt, amend or repeal by-laws.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 333.
 
 
 
@@ -18268,45 +18639,43 @@ of the directors present are resident Canadians.
 
 **836** 
 
-- **(1)** A director or an officer of an insurance holding company who
-	- **(a)** is a party to a material contract or proposed material contract with the insurance holding company,
-	- **(b)** is a director or an officer of any entity that is a party to a material contract or proposed material contract with the insurance holding company, or
-	- **(c)** has a material interest in any person who is a party to a material contract or proposed material contract with the insurance holding company
-shall disclose in writing to the insurance holding company or request to have entered in the minutes of the meetings of directors the nature and extent of that interest.
+- **(1)** A director or officer of an insurance holding company shall disclose to the insurance holding company, in writing or by requesting to have it entered in the minutes of a meeting of directors or a meeting of a committee of directors, the nature and extent of any interest they have in a material contract or material transaction with the insurance holding company, whether entered into or proposed, if they
+	- **(a)** are a party to the contract or transaction;
+	- **(b)** are a director or officer of a party to the contract or transaction or a person acting in a similar capacity; or
+	- **(c)** have a material interest in a party to the contract or transaction.
 
-**Time of disclosure for director**
+**Time of disclosure — director**
 
-- **(2)** The disclosure required by subsection (1) shall be made, in the case of a director,
-	- **(a)** at the meeting of directors at which a proposed contract is first considered;
-	- **(b)** if the director was not then interested in a proposed contract, at the first meeting after the director becomes so interested;
-	- **(c)** if the director becomes interested after a contract is made, at the first meeting after the director becomes so interested; or
-	- **(d)** if a person who is interested in a contract later becomes a director, at the first meeting after that person becomes a director.
+- **(2)** The disclosure shall be made in the case of a director
+	- **(a)** at the meeting of directors, or of a committee of directors, at which the proposed contract or transaction is first considered;
+	- **(b)** if at the time of the meeting referred to in paragraph (a) the director was not interested in the proposed contract or transaction, at the first one after they become interested in it;
+	- **(c)** if the director becomes interested after a contract or transaction is entered into, at the first one after they become interested; or
+	- **(d)** if a person who is interested in a contract or transaction becomes a director, at the first one after they become a director.
 
-**Time of disclosure for officer**
+**Time of disclosure — officer**
 
-- **(3)** The disclosure required by subsection (1) shall be made, in the case of an officer who is not a director,
-	- **(a)** forthwith after the officer becomes aware that a proposed contract is to be considered or a contract has been considered at a meeting of directors;
-	- **(b)** if the officer becomes interested after a contract is made, forthwith after the officer becomes so interested; or
-	- **(c)** if a person who is interested in a contract later becomes an officer, forthwith after the person becomes an officer.
+- **(3)** The disclosure required by subsection (1) shall be made in the case of an officer who is not a director
+	- **(a)** immediately after they become aware that the contract, transaction, proposed contract or proposed transaction is to be considered or has been considered at a meeting of directors or of a committee of directors;
+	- **(b)** if they become interested after the contract or transaction is entered into, immediately after they become interested; or
+	- **(c)** if a person who is interested in a contract or transaction becomes an officer, immediately after they become an officer.
 
-**Time of disclosure for director or officer**
+**Time of disclosure — contract not requiring approval**
 
-- **(4)** If a material contract or proposed material contract is one that, in the ordinary course of business of the insurance holding company, would not require approval by the directors or the shareholders, a director or an officer referred to in subsection (1) shall disclose in writing to the insurance holding company or request to have entered in the minutes of meetings of directors the nature and extent of the director’s or officer’s interest forthwith after the director or officer becomes aware of the contract or proposed contract.
-> 2001, c. 9, s. 465.
-
+- **(4)** If the material contract or material transaction, whether entered into or proposed, is one that in the ordinary course of the insurance holding company’s business would not require approval by the directors or shareholders, the director or officer shall disclose to the insurance holding company, in writing or by requesting to have it entered in the minutes of a meeting of directors or of a committee of directors, the nature and extent of their interest immediately after they become aware of the contract or transaction.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 334.
 
 
 
 
-**Where director must abstain**
+
+**Director to abstain**
 
 **837** 
 
-- **(1)** Where subsection 836(1) applies to a director in respect of a contract, the director shall not be present at any meeting of directors while the contract is being considered at the meeting or vote on any resolution to approve the contract unless the contract is
-	- **(a)** an arrangement by way of security for money lent to or obligations undertaken by the director for the benefit of the insurance holding company or a subsidiary of the insurance holding company;
-	- **(b)** a contract relating primarily to the director’s remuneration as a director or an officer, employee or agent of the insurance holding company or a subsidiary of the insurance holding company or an entity controlled by the insurance holding company or an entity in which the insurance holding company has a substantial investment;
-	- **(c)** a contract for indemnity under section 846 or for insurance under section 847; or
-	- **(d)** a contract with an affiliate of the insurance holding company.
+- **(1)** A director who is required to make a disclosure under subsection 836(1) shall not be present at any meeting of directors, or of a committee of directors, while the contract or transaction is being considered or vote on any resolution to approve it unless the contract or transaction
+	- **(a)** relates primarily to their remuneration as a director, officer, employee or agent of the insurance holding company, an entity controlled by the insurance holding company or an entity in which the insurance holding company has a substantial investment;
+	- **(b)** is for indemnity under section 846 or insurance under section 847; or
+	- **(c)** is with an affiliate of the insurance holding company.
 
 **Ineligibility**
 
@@ -18315,16 +18684,25 @@ shall disclose in writing to the insurance holding company or request to have en
 **Validity of acts**
 
 - **(3)** An act of the board of directors of an insurance holding company or of a committee of the board of directors is not invalid because a person acting as a director had ceased under subsection (2) to hold office as a director.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 335.
 
 
 
 
 
-**Continuing disclosure**
+**General notice**
 
-**838** For the purposes of subsection 836(1), a general notice to the directors by a director or an officer declaring that the director or officer is a director or officer of an entity, or has a material interest in a person, and is to be regarded as interested in any contract made with that entity or person, is a sufficient declaration of interest in relation to any contract so made.
-> 2001, c. 9, s. 465.
+**838** 
+
+- **(1)** For the purposes of subsection 836(1), a general notice to the directors declaring that a director or officer is to be regarded as interested for any of the following reasons in a contract or transaction entered into with a party, is a sufficient declaration of interest in relation to any contract or transaction with that party:
+	- **(a)** the director or officer is a director or officer of a party referred to in paragraph 836(1)(b) or (c) or a person acting in a similar capacity;
+	- **(b)** the director or officer has a material interest in the party; or
+	- **(c)** there has been a material change in the nature of the director’s or officer’s interest in the party.
+
+**Access to disclosures**
+
+- **(2)** The shareholders of the insurance holding company may examine the portions of any minutes of meetings of directors or committees of directors that contain disclosures under subsection 836(1), or the portions of any other documents that contain those disclosures, during the usual business hours of the insurance holding company.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 336.
 
 
 
@@ -18332,20 +18710,29 @@ shall disclose in writing to the insurance holding company or request to have en
 
 **Avoidance standards**
 
-**839** A material contract between an insurance holding company and one or more of its directors or officers, or between an insurance holding company and another entity of which a director or an officer of the insurance holding company is a director or an officer or between an insurance holding company and a person in which the director or officer has a material interest, is neither void nor voidable
-- **(a)** by reason only of that relationship, or
-- **(b)** by reason only that a director with an interest in the contract is present at or is counted to determine the presence of a quorum at the meeting of directors or the committee of directors that authorized the contract,
-if the director or officer disclosed the interest in accordance with subsection 836(2), (3) or (4) or section 838 and the contract was approved by the directors or the shareholders and it was reasonable and fair to the insurance holding company at the time it was approved.
-> 2001, c. 9, s. 465.
+**839** 
+
+- **(1)** A contract or transaction for which disclosure is required under subsection 836(1) is not invalid and a director or officer is not accountable to the insurance holding company or its shareholders for any profit realized from it by reason only of the director’s or officer’s interest in the contract or transaction or the fact that the director was present or was counted to determine whether a quorum existed at the meeting of directors, or of a committee of directors, that considered it if
+	- **(a)** the director or officer disclosed their interest in accordance with section 836 and subsection 838(1);
+	- **(b)** the directors approved the contract or transaction; and
+	- **(c)** the contract or transaction was reasonable and fair to the insurance holding company at the time that it was approved.
+
+**Confirmation by shareholders**
+
+- **(2)** Even if the conditions set out in subsection (1) are not met, a director or officer acting honestly and in good faith is not accountable to the insurance holding company or its shareholders for any profit realized from a contract or transaction for which disclosure was required and the contract or transaction is not invalid by reason only of the director’s or officer’s interest in it if
+	- **(a)** the contract or transaction is approved or confirmed by special resolution at a meeting of shareholders;
+	- **(b)** disclosure of the interest was made to the shareholders in a manner sufficient to indicate its nature before the contract or transaction was approved or confirmed; and
+	- **(c)** the contract or transaction was reasonable and fair to the insurance holding company at the time that it was approved or confirmed.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 336.
 
 
 
 
 
-**Application to court**
+**Court may set aside or require accounting**
 
-**840** Where a director or an officer of an insurance holding company fails to disclose an interest in a material contract in accordance with sections 836 and 838, a court may, on the application of the insurance holding company or a shareholder of the insurance holding company, set aside the contract on such terms as the court thinks fit.
-> 2001, c. 9, s. 465.
+**840** If a director or officer of an insurance holding company fails to comply with any of sections 836 to 839, a court, on application of the insurance holding company or any of its shareholders, may set aside the contract or transaction on any terms that the court thinks fit and may require the director or officer to account to the insurance holding company for any profit or gain realized on it.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 336.
 
 
 
@@ -19014,7 +19401,7 @@ and
 
 **Access to insurance holding company records**
 
-- **(4)** Shareholders and creditors of an insurance holding company and their personal representatives may examine the records referred to in subsection 869(1) during the usual business hours of the insurance holding company, and may take extracts therefrom, free of charge, or have copies made thereof on payment of a reasonable fee and, where the insurance holding company is a distributing insurance holding company within the meaning of subsection 288(1), any other person may, on payment of a reasonable fee, examine such records and take extracts therefrom or copies thereof.
+- **(4)** Shareholders and creditors of an insurance holding company and their personal representatives may examine the records referred to in subsection 869(1) during the usual business hours of the insurance holding company and may take extracts from them free of charge or have copies of them made on payment of a reasonable fee. If the insurance holding company is a distributing insurance holding company, any other person may on payment of a reasonable fee examine those records during the usual business hours of the insurance holding company and take extracts from them or have copies of them made.
 
 **Copies of by-laws for shareholders**
 
@@ -19023,7 +19410,7 @@ and
 **Electronic access**
 
 - **(6)** An insurance holding company may make the information contained in records referred to in subsection 869(1) available to persons by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing the records in intelligible written form within a reasonable time.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 344.
 
 
 
@@ -19043,9 +19430,9 @@ and
 	- **(c)** an undertaking that the basic list and any supplemental lists obtained pursuant to subsections (5) and (6) will not be used except as permitted under section 873,
 and, if the applicant is an entity, the affidavit shall be made by a director or an officer of the entity, or any person acting in a similar capacity.
 
-**Entitlement**
+**Entitlement to list**
 
-- **(3)** Every shareholder or creditor of an insurance holding company or the personal representative of a shareholder or creditor of an insurance holding company is entitled to a basic list of shareholders of the insurance holding company, but, if the insurance holding company is a distributing company within the meaning of subsection 288(1), any person is entitled to a basic list of shareholders of the insurance holding company on request therefor.
+- **(3)** A shareholder or creditor of an insurance holding company or their personal representative — or if the insurance holding company is a distributing insurance holding company, any person — is entitled to a basic list of shareholders of the insurance holding company.
 
 **Basic list of shareholders**
 
@@ -19063,7 +19450,7 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 - **(6)** An insurance holding company or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 345.
 
 
 
@@ -19210,8 +19597,14 @@ the registers and records required or authorized by this Part to be prepared and
 
 **Corporate seal**
 
-**881** An instrument or agreement executed on behalf of an insurance holding company by a director, an officer or an agent of the insurance holding company is not invalid merely because a corporate seal is not affixed thereto.
-> 2001, c. 9, s. 465.
+**881** 
+
+- **(1)** An insurance holding company may adopt a corporate seal and change one that it adopted.
+
+**Validity of unsealed documents**
+
+- **(2)** A document executed on behalf of an insurance holding company is not invalid merely because a corporate seal is not affixed to it.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 348.
 
 
 
@@ -19239,13 +19632,29 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Sections 296 to 306 apply**
+**Ss. 296 and 297 apply**
 
-**883** Sections 296 to 306 apply in respect of insurance holding companies, subject to the following:
-- **(a)** references to “company” in those sections are to be read as references to “insurance holding company”;
-- **(b)** references to “this Act” in those sections are to be read as references to “this Part”; and
-- **(c)** references to “this Division” in those sections are to be read as references to “this Subdivision”.
-> 2001, c. 9, s. 465.
+**883** Sections 296 and 297 apply in respect of insurance holding companies except that references to “company” are to be read as references to “insurance holding company”.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 349.
+
+
+
+
+
+**SUBDIVISION 9.1** 
+#### Going-private Transactions and Squeeze-out Transactions
+
+
+
+**Ss. 298 to 300 apply**
+
+**883.1** Sections 298 to 300 apply in respect of insurance holding companies subject to the following:
+- **(a)** references to “company” are to be read as references to “insurance holding company”;
+- **(b)** references to “this Act” are to be read as references to “this Part”;
+- **(c)** references to “the policyholders entitled to vote and the shareholders” in subsections 300(2) and (4) to (6) are to be read as references to “the shareholders”;
+- **(d)** the reference to “section 242” in paragraph 300(10)(c) is to be read as a reference to “section 854”; and
+- **(e)** the reference to “a regulation referred to in subsection 515(1) or (2) or 516(1) or (2) or of an order made under subsection 515(3) or 516(4)” in subsection 300(25) is to be read as a reference to “a regulation referred to in subsection 992(1) or (2) or of an order made under subsection 992(3)”.
+> 2005, c. 54, s. 349.
 
 
 
@@ -19256,12 +19665,12 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Sections 307 to 316 apply**
+**Ss. 307 to 316.1 apply**
 
-**884** Sections 307 to 316 apply in respect of insurance holding companies, subject to the following:
+**884** Sections 307 to 316.1 apply in respect of insurance holding companies, subject to the following:
 - **(a)** references to “company” in those sections are to be read as references to “insurance holding company”; and
 - **(b)** references to “this Division” in those sections are to be read as references to “this Subdivision”.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 350.
 
 
 
@@ -19492,10 +19901,16 @@ showing such information and particulars as in the opinion of the directors are 
 
 - **(2)** For the purposes of subsection (1),
 	- **(a)** independence is a question of fact; and
-	- **(b)** a member of a firm of accountants is deemed not to be independent of an insurance holding company if that member or any other member of the firm of accountants, or the firm of accountants,
-		- **(i)** is a director or an officer or employee of the insurance holding company or of any affiliate of the insurance holding company or is a business partner of any director, officer or employee of the insurance holding company or of any affiliate of the insurance holding company,
+	- **(b)** a member of a firm of accountants is deemed not to be independent of an insurance holding company if that member, a business partner of that member or the firm of accountants
+		- **(i)** is a business partner, director, officer or employee of the insurance holding company or of any affiliate of the insurance holding company or is a business partner of any director, officer or employee of the insurance holding company or of any affiliate of the insurance holding company,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the shares of the insurance holding company or of any affiliate of the insurance holding company, or
 		- **(iii)** has been a liquidator, trustee in bankruptcy, receiver or receiver and manager of any affiliate of the insurance holding company within the two years immediately preceding the person’s proposed appointment as auditor of the insurance holding company, other than an affiliate that is a subsidiary of the insurance holding company acquired pursuant to section 975 or through a realization of a security pursuant to section 976.
+
+**Business partners**
+
+- **(2.1)** For the purposes of subsection (2), a business partner of a member of a firm of accountants includes
+	- **(a)** another member of the firm; and
+	- **(b)** a shareholder of the firm or of a business partner of the member.
 
 **Notice of designation**
 
@@ -19508,7 +19923,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the insurance holding company, there shall be deemed to be a vacancy in the office of auditor of the insurance holding company.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 354.
 
 
 
@@ -19621,10 +20036,14 @@ showing such information and particulars as in the opinion of the directors are 
 	- **(c)** receives a notice or otherwise learns of a meeting of directors or shareholders at which another person is to be appointed in the auditor’s stead, whether because of the auditor’s resignation or revocation of appointment or because the auditor’s term of office has expired or is about to expire,
 shall submit to the insurance holding company and the Superintendent a written statement giving the reasons for the resignation or the reasons why the auditor opposes any proposed action.
 
-**Statement to be sent to shareholders**
+**Other statements**
 
-- **(2)** Where an insurance holding company receives a written statement referred to in subsection (1) that relates to a resignation as a result of a disagreement with the directors or officers of the insurance holding company or that relates to a matter referred to in paragraph (1)(b) or (c), the insurance holding company shall forthwith send a copy of the statement to each shareholder who is entitled to vote at the annual meeting of shareholders.
-> 2001, c. 9, s. 465.
+- **(1.1)** In the case of a proposed replacement of an auditor whether because of removal or the expiry of their term, the insurance holding company shall make a statement of the reasons for the proposed replacement and the proposed replacement auditor may make a statement in which they comment on those reasons.
+
+**Statements to be sent**
+
+- **(2)** The insurance holding company shall send a copy of the statements referred to in subsections (1) and (1.1) without delay to every shareholder entitled to vote at the annual meeting of shareholders and to the Superintendent.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 355.
 
 
 
@@ -19756,7 +20175,9 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **907** 
 
-- **(1)** An insurance holding company shall take all necessary steps to ensure that its auditor is duly appointed as the auditor of each of its subsidiaries.
+- **(1)** An insurance holding company shall take all necessary steps to ensure that
+	- **(a)** its auditor is the auditor of each of its subsidiaries; and
+	- **(b)** in the case of a subsidiary with more than one auditor, the auditor of the insurance holding company is one of the subsidiary’s auditors.
 
 **Subsidiary outside Canada**
 
@@ -19765,7 +20186,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception**
 
 - **(3)** Subsection (1) does not apply in respect of any particular subsidiary where the insurance holding company, after having consulted its auditor, is of the opinion that the total assets of the subsidiary are not a material part of the total assets of the insurance holding company.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 356.
 
 
 
