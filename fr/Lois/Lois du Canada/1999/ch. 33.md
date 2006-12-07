@@ -7223,7 +7223,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **34** Matières résiduaires imprégnées de créosote provenant de lieux contaminés par la créosote
 
 
-**35** 3,3'-Dichlorobenzidine
+**35** 3,3′-Dichlorobenzidine
 
 
 **36** 1,2-Dichloroéthane
@@ -7298,22 +7298,22 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **59** N-Nitrosodiméthylamine, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
 
 
-**60** L'ammoniac à l'état gazeux, dont la formule moléculaire est NH<sub>3</sub>(g)
+**60** L’ammoniac à l’état gazeux, dont la formule moléculaire est NH<sub>3</sub>(g)
 
 
-**61** L'ozone, dont la formule moléculaire est O<sub>3</sub>
+**61** L’ozone, dont la formule moléculaire est O<sub>3</sub>
 
 
-**62** Le monoxyde d'azote, dont la formule moléculaire est NO
+**62** Le monoxyde d’azote, dont la formule moléculaire est NO
 
 
-**63** Le dioxyde d'azote, dont la formule moléculaire est NO<sub>2</sub>
+**63** Le dioxyde d’azote, dont la formule moléculaire est NO<sub>2</sub>
 
 
 **64** Le dioxyde de soufre, dont la formule moléculaire est SO<sub>2</sub>
 
 
-**65** Les composés organiques volatils participant à des réactions photochimiques atmosphériques, à l'exclusion des composés suivants :
+**65** Les composés organiques volatils participant à des réactions photochimiques atmosphériques, à l’exclusion des composés suivants :
 
 **a)** méthane;
 
@@ -7427,7 +7427,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 
 
 
-**z.3)** fluorure d'éthyle (HFC-161);
+**z.3)** fluorure d’éthyle (HFC-161);
 
 
 
@@ -7471,23 +7471,23 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 
 
 
-**z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C <sub>4</sub>F <sub>9</sub>OCH <sub>3</sub>);
+**z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-méthoxybutane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
 
 
 
-**z.15)** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF <sub>3</sub>) <sub>2</sub>CFCF <sub>2</sub>OCH <sub>3</sub>);
+**z.15)** 2-(difluorométhoxyméthyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OCH<sub>3</sub>);
 
 
 
-**z.16)** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C <sub>4</sub>F <sub>9</sub>OC <sub>2</sub>H <sub>5</sub>);
+**z.16)** 1-éthoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H<sub>5</sub>);
 
 
 
-**z.17)** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF <sub>3</sub>) <sub>2</sub>CFCF <sub>2</sub>OC <sub>2</sub>H <sub>5</sub>);
+**z.17)** 2-(éthoxydifluorométhyl)-1,1,1,2,3,3,3-heptafluoropropane (CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>);
 
 
 
-**z.18)** acétate de méthyle et perfluorocarbures faisant partie de l'une ou l'autre des catégories suivantes :
+**z.18)** acétate de méthyle et perfluorocarbures faisant partie de l’une ou l’autre des catégories suivantes :
 
 **(i)** perfluoroalkanes cycliques, ramifiés ou linéaires,
 
@@ -7558,7 +7558,16 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **79** Hexafluorure de soufre, dont la formule moléculaire est SF<sub>6</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329.
+**83** Polybromodiphényléthers dont la formule moléculaire est C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O où 4≤n≤10
+
+
+**84** Sulfonate de perfluorooctane et ses sels
+
+
+**85** Les composés qui contiennent un des groupements suivants : C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> ou C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333.
 
 
 
