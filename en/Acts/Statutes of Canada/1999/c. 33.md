@@ -7400,7 +7400,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **1** Chlorobiphenyls that have the molecular formula C<sub>12</sub>H<sub>(10-n)</sub>Cl<sub>n</sub> in which “n” is greater than 2
 
 
-**2**  Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex)
+**2** Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex)
 
 
 **3** Polybrominated Biphenyls that have the molecular formula C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub> in which “n” is greater than 2
@@ -7507,7 +7507,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **34** Creosote-impregnated waste materials from creosote-contaminated sites
 
 
-**35** 3,3'-Dichlorobenzidine
+**35** 3,3′-Dichlorobenzidine
 
 
 **36** 1,2-Dichloroethane
@@ -7573,13 +7573,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **56** Inorganic Chloramines, which have the molecular formula NH<sub>n</sub>Cl<sub>(3-n)</sub>, where n = 0, 1 or 2
 
 
-**57**  Ethylene oxide, which has the molecular formula H<sub>2</sub>COCH<sub>2</sub>
+**57** Ethylene oxide, which has the molecular formula H<sub>2</sub>COCH<sub>2</sub>
 
 
-**58**  Formaldehyde, which has the molecular formula CH<sub>2</sub>O
+**58** Formaldehyde, which has the molecular formula CH<sub>2</sub>O
 
 
-**59. ** N-Nitrosodimethylamine, which has the molecular formula C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
+**59** N-Nitrosodimethylamine, which has the molecular formula C<sub>2</sub>H<sub>6</sub>N<sub>2</sub>O
 
 
 **60** Gaseous Ammonia, which has the molecular formula NH<sub>3</sub>(g)
@@ -7675,7 +7675,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-**(t)** 1,1-difluoroethane (HFC-152a); 
+**(t)** 1,1-difluoroethane (HFC-152a);
 
 
 
@@ -7691,101 +7691,101 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-**(x) ** perchloroethylene (tetrachloroethylene);
+**(x)** perchloroethylene (tetrachloroethylene);
 
 
 
-**(y) ** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca); 
+**(y)** 3,3-dichloro-1,1,1,2,2-pentafluoropropane (HCFC-225ca);
 
 
 
-**(z) ** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb); 
+**(z)** 1,3-dichloro-1,1,2,2,3-pentafluoropropane (HCFC-225cb);
 
 
 
-**(z.1) ** 1,1,1,2,3,4,4,5,5,5-decafluoropentane (HFC 43-10mee); 
+**(z.1)** 1,1,1,2,3,4,4,5,5,5-decafluoropentane (HFC 43-10mee);
 
 
 
-**(z.2) ** difluoromethane (HFC-32);
+**(z.2)** difluoromethane (HFC-32);
 
 
 
-**(z.3) ** ethylfluoride (HFC-161); 
+**(z.3)** ethylfluoride (HFC-161);
 
 
 
-**(z.4) ** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
+**(z.4)** 1,1,1,3,3,3-hexafluoropropane (HFC-236fa);
 
 
 
-**(z.5) ** 1,1,2,2,3-pentafluoropropane (HFC-245ca); 
+**(z.5)** 1,1,2,2,3-pentafluoropropane (HFC-245ca);
 
 
 
-**(z.6) ** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
+**(z.6)** 1,1,2,3,3-pentafluoropropane (HFC-245ea);
 
 
 
-**(z.7) ** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
+**(z.7)** 1,1,1,2,3-pentafluoropropane (HFC-245eb);
 
 
 
-**(z.8) ** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
+**(z.8)** 1,1,1,3,3-pentafluoropropane (HFC-245fa);
 
 
 
-**(z.9) ** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
+**(z.9)** 1,1,1,2,3,3-hexafluoropropane (HFC-236ea);
 
 
 
-**(z.10) ** 1,1,1,3,3-pentafluorobutane (HFC-365mfc); 
+**(z.10)** 1,1,1,3,3-pentafluorobutane (HFC-365mfc);
 
 
 
-**(z.11) ** chlorofluoromethane (HCFC-31);
+**(z.11)** chlorofluoromethane (HCFC-31);
 
 
 
-**(z.12) ** 1-chloro-1-fluoroethane (HCFC-151a);
+**(z.12)** 1-chloro-1-fluoroethane (HCFC-151a);
 
 
 
-**(z.13) ** 1,2-dichloro-1,1,2-trifluoroethane (HCFC-123a);
+**(z.13)** 1,2-dichloro-1,1,2-trifluoroethane (HCFC-123a);
 
 
 
-**(z.14) ** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C  <sub>4</sub>F  <sub>9</sub>OCH  <sub>3</sub>);
+**(z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
 
 
 
-**(z.15) ** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF  <sub>3</sub>)  <sub>2</sub>CFCF  <sub>2</sub>OCH  <sub>3</sub>);
+**(z.15)** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF <sub>2</sub>OCH <sub>3</sub>);
 
 
 
-**(z.16) ** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C  <sub>4</sub>F  <sub>9</sub>OC  <sub>2</sub>H  <sub>5</sub>);
+**(z.16)** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H <sub>5</sub>);
 
 
 
-**(z.17) ** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF  <sub>3</sub>)  <sub>2</sub>CFCF  <sub>2</sub>OC  <sub>2</sub>H  <sub>5</sub>); and
+**(z.17)** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>); and
 
 
 
-**(z.18) ** methyl acetate and perfluorocarbon compounds that fall into the following classes, namely,
+**(z.18)** methyl acetate and perfluorocarbon compounds that fall into the following classes, namely,
 
-**(i) ** cyclic, branched or linear completely fluorinated alkanes,
+**(i)** cyclic, branched or linear completely fluorinated alkanes,
 
 
 
-**(ii) ** cyclic, branched, or linear completely fluorinated ethers with no unsaturations,
+**(ii)** cyclic, branched, or linear completely fluorinated ethers with no unsaturations,
 
 
 
-**(iii) ** cyclic, branched or linear completely fluorinated tertiary amines with no unsaturations, or
+**(iii)** cyclic, branched or linear completely fluorinated tertiary amines with no unsaturations, or
 
 
 
-**(iv) ** sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine.
+**(iv)** sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine.
 
 
 
@@ -7840,7 +7840,16 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **79** Sulphur hexafluoride, which has the molecular formula SF<sub>6</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329.
+**83** Polybrominated diphenyl ethers that have the molecular formula C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O in which 4≤n≤10
+
+
+**84** Perfluorooctane sulfonate and its salts
+
+
+**85** Compounds that contain one of the following groups: C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> or C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333.
 
 
 
