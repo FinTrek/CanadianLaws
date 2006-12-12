@@ -147,7 +147,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** La durée maximale du mandat d’un administrateur est de trois ans.
+- **(1)** La durée maximale du mandat d’un administrateur est de quatre ans.
 
 **Renouvellement du mandat**
 
@@ -156,6 +156,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Démission**
 
 - **(3)** Tout administrateur peut démissionner de ses fonctions en avisant le conseil par écrit de son intention, la démission prenant effet sur réception de l’avis ou à toute date ultérieure précisée dans celui-ci.
+> 1991, ch. 8, art. 7; 2006, ch. 9, art. 243.
+
 
 
 
