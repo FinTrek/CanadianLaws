@@ -407,7 +407,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(2)** Without limiting the generality of subsection (1), the Commission may make regulations
-	- **(a)** establishing for any person or class of persons a right to be appointed — in priority to all persons other than those referred to in section 40 and subsections 41(1) to (4) — during the period specified by the Commission, to any position for which the Commission is satisfied that they meet the essential qualifications referred to in paragraph 30(2)(a);
+	- **(a)** establishing for any person or class of persons a right to be appointed — in priority to all persons other than those referred to in section 40 and subsections 41(1) and (4) — during the period specified by the Commission, to any position for which the Commission is satisfied that they meet the essential qualifications referred to in paragraph 30(2)(a);
 	- **(b)** determining the order of priority of the rights to appointment established by any regulations made under paragraph (a);
 	- **(c)** respecting appointments on an acting basis and the maximum period for which any such appointments or any class of such appointments may be made, and excluding any such appointments or class from the operation of any or all of the provisions of this Act;
 	- **(d)** for the purpose of facilitating the implementation of employment equity programs developed by an employer or a deputy head, respecting the appointment to or from within the public service of persons belonging to a designated group within the meaning of section 3 of the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), and excluding any such persons or any group of such persons from the operation of any or all of the provisions of this Act;
@@ -416,6 +416,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(g)** defining ***incumbent-based process*** for the purposes of subsection 34(1);
 	- **(h)** prescribing the manner in which and the period within which allegations are to be made, and the manner in which investigations are to be conducted under Part 7; and
 	- **(i)** respecting the manner of laying off employees and the manner of selecting employees to be laid off, for the purposes of section 64.
+> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100.
+
 
 
 
@@ -654,6 +656,28 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Mobility — ministers’ staffs**
+
+**35.2** A person who has been employed for at least three years in the office of a minister or of a person holding the recognized position of Leader of the Opposition in the Senate or Leader of the Opposition in the House of Commons, or in any of those offices successively,
+- **(a)** may, during a period of one year after they cease to be so employed, participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as they meet the other criteria, if any, established under that section; and
+- **(b)** has the right to make a complaint under section 77.
+> 2006, c. 9, s. 101.
+
+
+
+
+
+**Parliamentary employees**
+
+**35.3** A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner
+- **(a)** may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as the person meets the other criteria, if any, established under that section; and
+- **(b)** has the right to make a complaint under section 77.
+> 2006, c. 9, s. 101.
+
+
+
+
+
 **Assessment methods**
 
 **36** In making an appointment, the Commission may use any assessment method, such as a review of past performance and accomplishments, interviews and examinations, that it considers appropriate to determine whether a person meets the qualifications referred to in paragraph 30(2)(a) and subparagraph 30(2)(b)(i).
@@ -676,7 +700,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exceptions to merit**
 
-**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), any of subsections 41(1) to (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
+**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102.
+
 
 
 
@@ -716,15 +742,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** the employee on leave of absence, for the duration of the leave of absence and a further period of one year; or
 	- **(b)** if the employee on leave of absence returns to his or her position, the person who replaced that employee, for a period of one year after that employee returns to the position.
 
-**Priority — minister’s staff**
-
-- **(2)** Priority for appointment over all other persons shall be given to a person employed in the office of a minister, or in the office of a person holding the recognized position of Leader of the Opposition in the Senate or Leader of the Opposition in the House of Commons, for a period of one year after the person ceases to be so employed, if
-	- **(a)** the person was an employee immediately before becoming employed in that office; or
-	- **(b)** while employed in that office the person was found by the Commission, in an advertised external appointment process, to have met the essential qualifications for an appointment to the public service.
-
-**Priority — minister’s senior staff**
-
-- **(3)** Priority for appointment, to a position at a level at least equivalent to that of executive assistant to a deputy head, shall be given over all other persons to a person who for at least three years has been employed as the executive assistant, special assistant or private secretary in an office referred to in subsection (2) or in any of those capacities successively, for a period of one year after they cease to be employed.
+- **(2)** and (3) [Repealed, 2006, c. 9, s. 103]
 
 **Priority — persons laid off**
 
@@ -732,11 +750,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Essential qualifications**
 
-- **(5)** The priority of a person referred to in any of subsections (1) to (4) applies with respect to any position if the Commission is satisfied that that person meets the essential qualifications referred to in paragraph 30(2)(a).
+- **(5)** The priority of a person referred to in subsection (1) or (4) applies with respect to any position if the Commission is satisfied that the person meets the essential qualifications referred to in paragraph 30(2)(a).
 
 **Order of priorities**
 
-- **(6)** The order of appointment among persons described in subsections (1) to (4) shall follow the order of those subsections, and persons described in each of those subsections shall be appointed in the order determined by the Commission.
+- **(6)** Persons described in subsection (1) shall be appointed in priority to persons described in subsection (4), and persons described in each of those subsections shall be appointed in the order determined by the Commission.
+> 2003, c. 22, s. 12 “41”; 2006, c. 9, s. 103.
+
 
 
 
@@ -895,7 +915,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exceptions to priority rights**
 
-- **(2)** A deputy head may deploy a person without regard to any other person’s right to be appointed under subsections 41(1) to (4) or any regulations made pursuant to paragraph 22(2)(a).
+- **(2)** A deputy head may deploy a person without regard to any other person’s right to be appointed under subsection 41(1) or (4) or any regulations made pursuant to paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “53”; 2006, c. 9, s. 104.
+
 
 
 
@@ -1307,7 +1329,9 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 **Where no right to complain**
 
-**87** No complaint may be made under section 77 in respect of an appointment under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), any of subsections 41(1) to (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
+**87** No complaint may be made under section 77 in respect of an appointment under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Tribunal order), or under any regulations made pursuant to paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105.
+
 
 
 
@@ -1893,6 +1917,28 @@ on the grounds that the person was not appointed or proposed for appointment by 
 **Report of head of the public service**
 
 **127** The head of the public service shall submit a report on the state of the public service in each fiscal year to the Prime Minister, and the Prime Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Prime Minister receives it.
+
+
+
+
+### Deputy Ministers and Other Senior Officials
+
+
+
+**Appointment by Governor in Council**
+
+**127.1** 
+
+- **(1)** The Governor in Council may appoint persons to the following positions and fix their remuneration:
+	- **(a)** deputy minister, associate deputy minister and positions of equivalent ranks;
+	- **(b)** deputy head, associate deputy head and positions of equivalent ranks; and
+	- **(c)** special adviser to a minister.
+
+**Application of Part 7**
+
+- **(2)** For greater certainty, the provisions of Part 7 applicable to deputy heads apply to persons appointed as such or as deputy ministers under subsection (1), and the provisions of that Part applicable to employees apply to other persons appointed under subsection (1).
+> 2006, c. 9, s. 106.
+
 
 
 
