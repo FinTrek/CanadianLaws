@@ -141,11 +141,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Term**
+**Term of office**
 
 **7** 
 
-- **(1)** Each director shall be appointed to hold office for a term not exceeding three years.
+- **(1)** Each director shall be appointed to hold office for a term not exceeding four years.
 
 **Reappointment**
 
@@ -154,6 +154,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Resignation**
 
 - **(3)** A director who wishes to resign shall notify the Board in writing to that effect, and the resignation becomes effective when the Board receives the notice or at the time specified in the notice, whichever is the later.
+> 1991, c. 8, s. 7; 2006, c. 9, s. 243.
+
 
 
 
