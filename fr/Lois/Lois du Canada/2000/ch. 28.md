@@ -173,7 +173,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Durée du mandat**
 
-- **(4)** Les administrateurs nommés conformément au paragraphe (1) le sont à titre amovible pour un mandat maximal de trois ans. Ils exercent leurs fonctions à temps partiel.
+- **(4)** Les administrateurs nommés conformément au paragraphe (1) le sont à titre amovible pour un mandat maximal de quatre ans. Ils exercent leurs fonctions à temps partiel.
 
 **Définitions**
 
@@ -184,6 +184,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***exploitant d’entreprise touristique*** Le propriétaire ou gérant d’une entreprise touristique du secteur privé.
 
 ***représentant du secteur privé*** Tout exploitant d’entreprise touristique ou toute personne possédant l’expertise requise par le conseil d’administration.
+> 2000, ch. 28, art. 11; 2006, ch. 9, art. 244.1.
+
 
 
 
@@ -200,7 +202,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Durée du mandat**
 
-- **(3)** Les administrateurs nommés conformément au paragraphe (1) le sont à titre amovible pour un mandat maximal de trois ans. Ils exercent leurs fonctions à temps partiel.
+- **(3)** Les administrateurs nommés conformément au paragraphe (1) le sont à titre amovible pour un mandat maximal de quatre ans. Ils exercent leurs fonctions à temps partiel.
+> 2000, ch. 28, art. 12; 2006, ch. 9, art. 244.2.
+
 
 
 
