@@ -171,7 +171,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Term of office**
 
-- **(4)** The directors appointed under subsection (1) shall be appointed to hold office during pleasure on a part-time basis for a term of not more than three years.
+- **(4)** The directors appointed under subsection (1) hold office during pleasure on a part-time basis for a term not exceeding four years.
 
 **Definitions**
 
@@ -182,6 +182,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***private sector representative*** means a tourism operator or a person with the expertise required to satisfy the Board’s needs.
 
 ***tourism operator*** means an owner or a manager of a private sector tourism business.
+> 2000, c. 28, s. 11; 2006, c. 9, s. 244.1.
+
 
 
 
@@ -198,7 +200,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Term of office**
 
-- **(3)** The directors appointed under subsection (1) shall be appointed to hold office during pleasure on a part-time basis for a term of not more than three years.
+- **(3)** The directors appointed under subsection (1) hold office during pleasure on a part-time basis for a term not exceeding four years.
+> 2000, c. 28, s. 12; 2006, c. 9, s. 244.2.
+
 
 
 
