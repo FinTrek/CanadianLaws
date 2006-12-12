@@ -62,19 +62,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***documentary heritage*** means publications and records of interest to Canada.
 
-***government institution*** means a government institution listed in Schedule I to the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or the schedule to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) or any institution designated by the Governor in Council.
+***government institution*** has the same meaning as in section 3 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) or means an institution designated by the Governor in Council.
 
 ***government record*** means a record that is under the control of a government institution.
 
 Version anglaise seulement***Librarian and Archivist*** means the Librarian and Archivist of Canada appointed under subsection 5(1).
 
-***Minister*** means the member of the Queen's Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act.
 
-***ministerial record*** means a record of a member of the Queen's Privy Council for Canada who holds the office of a minister and that pertains to that office, other than a record that is of a personal or political nature or that is a government record.
+***ministerial record*** means a record of a member of the Queen’s Privy Council for Canada who holds the office of a minister and that pertains to that office, other than a record that is of a personal or political nature or that is a government record.
 
 ***publication*** means any library matter that is made available in multiple copies or at multiple locations, whether without charge or otherwise, to the public generally or to qualifying members of the public by subscription or otherwise. Publications may be made available through any medium and may be in any form, including printed material, on-line items or recordings.
 
 ***record*** means any documentary material other than a publication, regardless of medium or form.
+> 2004, c. 11, s. 2; 2006, c. 9, s. 179.1.
+
 
 
 
@@ -292,6 +294,15 @@ Version anglaise seulement***Librarian and Archivist*** means the Librarian and 
 **Restricted access to Privy Council confidences**
 
 **15** The Librarian and Archivist shall not provide access to confidences of the Queen’s Privy Council for Canada to which subsection 69(1) of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) applies without the consent of the Clerk of the Privy Council.
+
+
+
+
+**Public opinion research**
+
+**15.1** Every department, as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), shall, within six months after the completion of any data collection done for the purposes of public opinion research carried out under a contract at the request of the department and for the exclusive use of Her Majesty in right of Canada, send to the Librarian and Archivist the written report referred to in subsection 40(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 2006, c. 9, s. 180.
+
 
 
 
