@@ -1655,6 +1655,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** La preuve de la recevabilité incombe au demandeur, qui doit répondre véridiquement aux questions qui lui sont posées et fournir à la section, si le cas lui est déféré, les renseignements et documents prévus par les règles de la Commission.
 
+**[Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md)**
+
+- **(5)** Le délai prévu aux paragraphes (1) et (3) ne court pas durant une période d’isolement ou de détention ordonnée en application de la [Loi sur la mise en quarantaine](/fr/Lois/Lois%20du%20Canada/2005/ch.%2020.md).
+> 2001, ch. 27, art. 100; 2005, ch. 20, art. 81.
+
+
 
 
 
