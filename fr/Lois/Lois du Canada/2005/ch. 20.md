@@ -37,37 +37,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de contrôle*** Agent des douanes au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou personne désignée à ce titre en vertu du paragraphe 5(1).
+***agent de contrôle*** Agent des douanes au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou personne désignée à ce titre en vertu du paragraphe 5(1). (*screening officer*)
 
-***agent de la paix*** S’entend au sens des alinéas c) et g) de la définition de ce terme à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***agent de la paix*** S’entend au sens des alinéas c) et g) de la définition de ce terme à l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*peace officer*)
 
-***conducteur*** Personne responsable d’un véhicule; y est assimilé tout membre de l’équipage.
+***conducteur*** Personne responsable d’un véhicule; y est assimilé tout membre de l’équipage. (*operator*)
 
-***contrôle médical*** Évaluation de l'état de santé du voyageur consistant en un examen de ses antécédents médicaux qui présentent un intérêt et de l’historique de ses déplacements ainsi qu'en un examen physique, notamment l’examen de la tête, du cou et des extrémités et la prise de signes vitaux telles la température et la fréquence cardiaque et respiratoire.
+***contrôle médical*** Évaluation de l’état de santé du voyageur consistant en un examen de ses antécédents médicaux qui présentent un intérêt et de l’historique de ses déplacements ainsi qu’en un examen physique, notamment l’examen de la tête, du cou et des extrémités et la prise de signes vitaux telles la température et la fréquence cardiaque et respiratoire. (*health assessment*)
 
-***examen médical*** La vérification des antécédents médicaux qui présentent un intérêt, l’examen des déplacements et l’examen physique de la personne, y compris les radiographies, analyses de laboratoire et tests de diagnostic nécessaires pour établir si elle pourrait être atteinte d’une maladie transmissible.
+***examen médical*** La vérification des antécédents médicaux qui présentent un intérêt, l’examen des déplacements et l’examen physique de la personne, y compris les radiographies, analyses de laboratoire et tests de diagnostic nécessaires pour établir si elle pourrait être atteinte d’une maladie transmissible. (*medical examination*)
 
-***installation de quarantaine*** Lieu servant à la détention de voyageurs.
+***installation de quarantaine*** Lieu servant à la détention de voyageurs. (*quarantine facility*)
 
-***maladie transmissible*** Maladie inscrite à l’annexe ou maladie causée par un agent infectieux ou une toxine biologique transmissibles à l’être humain et présentant un danger grave pour la santé publique. Y est assimilé l’agent infectieux qui cause la maladie transmissible.
+***maladie transmissible*** Maladie inscrite à l’annexe ou maladie causée par un agent infectieux ou une toxine biologique transmissibles à l’être humain et présentant un danger grave pour la santé publique. Y est assimilé l’agent infectieux qui cause la maladie transmissible. (*communicable disease*)
 
-***médecin*** Personne autorisée par le droit d’une province à exercer la médecine.
+***médecin*** Personne autorisée par le droit d’une province à exercer la médecine. (*medical practitioner*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***point d’entrée*** Lieu où est situé un bureau de douane au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou lieu désigné par le ministre en vertu de l’article 9.
+***point d’entrée*** Lieu où est situé un bureau de douane au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou lieu désigné par le ministre en vertu de l’article 9. (*entry point*)
 
-***point de sortie*** Lieu désigné par le ministre en vertu de l’article 10.
+***point de sortie*** Lieu désigné par le ministre en vertu de l’article 10. (*departure point*)
 
-***poste de quarantaine*** Lieu servant à l’administration et au contrôle d’application de la présente loi.
+***poste de quarantaine*** Lieu servant à l’administration et au contrôle d’application de la présente loi. (*quarantine station*)
 
-***propriétaire*** Sauf à l’article 43, le locataire est assimilé au propriétaire.
+***propriétaire*** Sauf à l’article 43, le locataire est assimilé au propriétaire. (*owner*)
 
-***véhicule*** Tout moyen de transport, notamment bateau, aéronef, train, véhicule à moteur et remorque, qui entre au Canada ou qui s’apprête à en sortir. Y est assimilé le conteneur.
+***véhicule*** Tout moyen de transport, notamment bateau, aéronef, train, véhicule à moteur et remorque, qui entre au Canada ou qui s’apprête à en sortir. Y est assimilé le conteneur. (*conveyance*)
 
-***vecteur*** Tout insecte ou animal capable de transmettre une maladie transmissible.
+***vecteur*** Tout insecte ou animal capable de transmettre une maladie transmissible. (*vector*)
 
-***voyageur*** Personne — notamment un conducteur — qui entre au Canada ou qui s’apprête à en sortir. 
+***voyageur*** Personne — notamment un conducteur — qui entre au Canada ou qui s’apprête à en sortir.  (*traveller*)
 
 
 
@@ -127,7 +127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mise à disposition de terrains et d’installations**
 
-- **(2)** Sur demande écrite du ministre, l’exploitant d’une installation où est situé un bureau de douane au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) fournit et entretient sans frais les terrains ou installations et leurs accessoires qui, de l'avis du ministre, sont nécessaires à l’établissement d’un poste de quarantaine.
+- **(2)** Sur demande écrite du ministre, l’exploitant d’une installation où est situé un bureau de douane au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) fournit et entretient sans frais les terrains ou installations et leurs accessoires qui, de l’avis du ministre, sont nécessaires à l’établissement d’un poste de quarantaine.
 
 
 
@@ -203,7 +203,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Afin de déceler la présence de symptômes d’une maladie transmissible ou la présence d’une telle maladie, toute personne qualifiée qui y est autorisée par le ministre peut utiliser toute technologie de détection autorisée par celui-ci qui n'implique pas l'introduction d’un corps étranger, notamment d’un instrument, dans le corps du voyageur.
+- **(1)** Afin de déceler la présence de symptômes d’une maladie transmissible ou la présence d’une telle maladie, toute personne qualifiée qui y est autorisée par le ministre peut utiliser toute technologie de détection autorisée par celui-ci qui n’implique pas l’introduction d’un corps étranger, notamment d’un instrument, dans le corps du voyageur.
 
 **Refus**
 
@@ -216,11 +216,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Le voyageur est tenu de répondre aux questions pertinentes posées par l’agent de contrôle ou l’agent de quarantaine et de lui fournir les renseignements et documents en sa possession qu'il peut raisonnablement exiger dans l'exercice des fonctions que lui confère la présente loi.
+- **(1)** Le voyageur est tenu de répondre aux questions pertinentes posées par l’agent de contrôle ou l’agent de quarantaine et de lui fournir les renseignements et documents en sa possession qu’il peut raisonnablement exiger dans l’exercice des fonctions que lui confère la présente loi.
 
 **Déclaration obligatoire**
 
-- **(2)** Le voyageur qui a des motifs raisonnables de soupçonner qu’il est ou pourrait être atteint d’une maladie transmissible inscrite à l’annexe, qu’il est infesté de vecteurs ou qu’il a récemment été en contact avec une personne atteinte — ou dont il est raisonnable de croire qu'elle pourrait l'être — d'une telle maladie ou infestée de vecteurs doit en informer l’agent de contrôle ou l’agent de quarantaine.
+- **(2)** Le voyageur qui a des motifs raisonnables de soupçonner qu’il est ou pourrait être atteint d’une maladie transmissible inscrite à l’annexe, qu’il est infesté de vecteurs ou qu’il a récemment été en contact avec une personne atteinte — ou dont il est raisonnable de croire qu’elle pourrait l’être — d’une telle maladie ou infestée de vecteurs doit en informer l’agent de contrôle ou l’agent de quarantaine.
 
 **Mesure de protection de la santé publique**
 
@@ -284,7 +284,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Quand le contrôle médical doit être fait**
 
-- **(1.1)** Le contrôle médical doit être fait dès que les circonstances le permettent et au plus tard quarante-huit heures après le moment où l'agent de quarantaine exige du voyageur qu'il le subisse.
+- **(1.1)** Le contrôle médical doit être fait dès que les circonstances le permettent et au plus tard quarante-huit heures après le moment où l’agent de quarantaine exige du voyageur qu’il le subisse.
 
 **Voyageur**
 
@@ -327,11 +327,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** 
 
-- **(1)** Même s’il subit l’examen médical prévu au paragraphe 22(1), le voyageur peut, à tout moment, demander à être examiné par le médecin de son choix. L'agent de quarantaine doit aviser le voyageur de ce droit.
+- **(1)** Même s’il subit l’examen médical prévu au paragraphe 22(1), le voyageur peut, à tout moment, demander à être examiné par le médecin de son choix. L’agent de quarantaine doit aviser le voyageur de ce droit.
 
 **Décision de l’agent de quarantaine**
 
-- **(2)** L'agent de quarantaine doit accepter la demande du voyageur s’il estime que l’examen ne retardera pas indûment l’application de la présente loi.
+- **(2)** L’agent de quarantaine doit accepter la demande du voyageur s’il estime que l’examen ne retardera pas indûment l’application de la présente loi.
 
 **Modalités**
 
@@ -479,7 +479,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Avis à l'autorité sanitaire**
+**Avis à l’autorité sanitaire**
 
 **33.1** 
 
@@ -566,7 +566,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation du conducteur**
 
-**38** Le conducteur est tenu de répondre aux questions pertinentes que lui pose l’agent de contrôle, l’agent de quarantaine ou l’agent d’hygiène du milieu et de lui fournir les renseignements et documents en sa possession qu'il peut raisonnablement exiger dans l'exercice des fonctions que lui confère la présente loi.
+**38** Le conducteur est tenu de répondre aux questions pertinentes que lui pose l’agent de contrôle, l’agent de quarantaine ou l’agent d’hygiène du milieu et de lui fournir les renseignements et documents en sa possession qu’il peut raisonnablement exiger dans l’exercice des fonctions que lui confère la présente loi.
 
 
 
@@ -603,14 +603,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Non-exécution de l'ordre**
+**Non-exécution de l’ordre**
 
 **40.1** Nul n’est tenu d’exécuter un ordre visé au paragraphe 39(1) si cela l’exposerait à un danger au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
 
 
 
 
-**Avis à l'autorité sanitaire**
+**Avis à l’autorité sanitaire**
 
 **40.2** 
 
@@ -667,7 +667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Indemnisation**
 
-**43** Le ministre peut verser au propriétaire des biens endommagés ou détruits en application des articles 39 ou 40 une indemnité d’un montant égal à la valeur marchande des biens, déterminée par le ministre, au moment où ils ont été endommagés ou détruits, déduction faite de toute somme que le propriétaire a reçue ou est en droit de recevoir à leur égard, notamment au titre des biens récupérés ou du produit d'une assurance.
+**43** Le ministre peut verser au propriétaire des biens endommagés ou détruits en application des articles 39 ou 40 une indemnité d’un montant égal à la valeur marchande des biens, déterminée par le ministre, au moment où ils ont été endommagés ou détruits, déduction faite de toute somme que le propriétaire a reçue ou est en droit de recevoir à leur égard, notamment au titre des biens récupérés ou du produit d’une assurance.
 
 
 
@@ -766,7 +766,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Assistance**
 
-**50** Le propriétaire ou le responsable du lieu ou du véhicule inspecté en application de l'article 47, ainsi que quiconque s’y trouve, sont tenus de prêter à l’agent de quarantaine ou à l’agent d’hygiène du milieu toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement demander dans le cadre de l’application de la présente loi.
+**50** Le propriétaire ou le responsable du lieu ou du véhicule inspecté en application de l’article 47, ainsi que quiconque s’y trouve, sont tenus de prêter à l’agent de quarantaine ou à l’agent d’hygiène du milieu toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement demander dans le cadre de l’application de la présente loi.
 
 
 
@@ -835,7 +835,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis de communication**
 
-- **(3)** Le ministre avise toute personne ou entreprise de la communication, aux termes du présent article, d'un renseignement personnel ou renseignement commercial confidentiel la concernant.
+- **(3)** Le ministre avise toute personne ou entreprise de la communication, aux termes du présent article, d’un renseignement personnel ou renseignement commercial confidentiel la concernant.
 
 
 
@@ -978,8 +978,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **62.2** 
 
-- **(1)** L'obligation de dépôt ne s'applique pas si le ministre estime :
-	- **a)** soit que, le projet de règlement n'apportant pas de modification de fond notable à des règlements existants, l'article 62.1 ne devrait pas s'appliquer;
+- **(1)** L’obligation de dépôt ne s’applique pas si le ministre estime :
+	- **a)** soit que, le projet de règlement n’apportant pas de modification de fond notable à des règlements existants, l’article 62.1 ne devrait pas s’appliquer;
 	- **b)** soit que la prise du règlement doit se faire sans délai pour la protection de la santé ou de la sécurité publiques.
 
 **Notification au Parlement**
@@ -1057,7 +1057,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Manquement à une obligation**
 
-**69** Quiconque manque à toute obligation prévue par l'article 35, les paragraphes 39(1) ou 44(3) ou l’article 51 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 750 000 $ et un emprisonnement maximal de six mois, ou l'une de ces peines.
+**69** Quiconque manque à toute obligation prévue par l’article 35, les paragraphes 39(1) ou 44(3) ou l’article 51 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 750 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
 
 
 
@@ -1231,7 +1231,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#Q.1_f_84'>[*]</a></sup>**84** Les dispositions de la présente loi, à l’exception de l’article 83, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='Q.1_f_84'><sup>*</sup></a>: [Note : Article 83 en vigueur à la sanction le 13 mai 2005.]<br />
+<a name='Q.1_f_84'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 34 et de l’article 83, ce dernier en vigueur à la sanction le 13 mai 2005, en vigueur le 12 décembre 2006, *voir* TR/2006-143.)<br />
 
 
 
