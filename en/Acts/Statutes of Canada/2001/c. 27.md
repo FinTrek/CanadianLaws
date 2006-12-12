@@ -1678,6 +1678,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(4)** The burden of proving that a claim is eligible to be referred to the Refugee Protection Division rests on the claimant, who must answer truthfully all questions put to them. If the claim is referred, the claimant must produce all documents and information as required by the rules of the Board.
 
+**[Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md)**
+
+- **(5)** If a traveller is detained or isolated under the [Quarantine Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2020.md), the period referred to in subsections (1) and (3) does not begin to run until the day on which the detention or isolation ends.
+> 2001, c. 27, s. 100; 2005, c. 20, s. 81.
+
+
 
 
 
