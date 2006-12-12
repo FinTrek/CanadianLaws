@@ -155,7 +155,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Nomination des autres administrateurs**
 
-- **(4)** Les autres administrateurs sont nommés par le ministre compétent avec l’approbation du gouverneur en conseil pour des mandats respectifs de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des administrateurs.
+- **(4)** Les autres administrateurs sont nommés par le ministre compétent avec l’approbation du gouverneur en conseil pour des mandats respectifs de quatre ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des administrateurs.
 
 **Suppléants**
 
@@ -169,7 +169,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** est un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et a résidé au Canada pendant plus d’un an après la date à laquelle elle a acquis pour la première fois le droit de demander la citoyenneté canadienne;
 	- **d)** est sénateur, député à la Chambre des communes ou membre de la législature d’une province;
 	- **e)** est employée dans l’administration publique d’une province.
-> 1995, ch. 28, art. 6; 2001, ch. 27, art. 208.
+> 1995, ch. 28, art. 6; 2001, ch. 27, art. 208; 2006, ch. 9, art. 229.
 
 
 
