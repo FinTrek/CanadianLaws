@@ -444,7 +444,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Règlements**
 
 - **(2)** La Commission peut par règlement, sans préjudice de la portée générale du paragraphe (1) :
-	- **a)** prévoir pour toute personne ou catégorie de personnes le droit à une priorité de nomination absolue — après les priorités prévues à l’article 40 et aux paragraphes 41(1) à (4) — à un poste pour lequel, selon elle, la ou les personnes possèdent les qualifications essentielles visées à l’alinéa 30(2)a), et la durée de ce droit;
+	- **a)** prévoir pour toute personne ou catégorie de personnes le droit à une priorité de nomination absolue — après les priorités prévues à l’article 40 et aux paragraphes 41(1) et (4) — à un poste pour lequel, selon elle, la ou les personnes possèdent les qualifications essentielles visées à l’alinéa 30(2)a), et la durée de ce droit;
 	- **b)** déterminer l’ordre des droits à une priorité de nomination prévus en vertu de l’alinéa a);
 	- **c)** régir les nominations intérimaires, prévoir la durée maximale de ces nominations ou d’une catégorie de celles-ci ou les soustraire à l’application de tout ou partie de la présente loi;
 	- **d)** afin de faciliter la mise en oeuvre de programmes d’équité en matière d’emploi établis par l’employeur ou les administrateurs généraux, régir la nomination interne ou externe de personnes provenant de groupes désignés au sens de l’article 3 de la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md), ou soustraire ces personnes ou des groupes de telles personnes à l’application de tout ou partie de la présente loi;
@@ -453,6 +453,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 	- **g)** définir ***processus de nomination fondé sur les qualités du titulaire*** pour l’application du paragraphe 34(1);
 	- **h)** fixer les modalités et les délais relatifs aux allégations, et les modalités relatives à la conduite des enquêtes, visées par la partie 7;
 	- **i)** prévoir, pour l’application de l’article 64, les modalités relatives aux mises en disponibilité et la façon de choisir les fonctionnaires qui seront mis en disponibilité.
+> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100.
+
 
 
 
@@ -689,6 +691,28 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
+**Mobilité — personnel du ministre**
+
+**35.2** La personne qui a été, pendant au moins trois ans, employée dans le cabinet d’un ministre ou du titulaire des charges de leader de l’Opposition au Sénat ou de chef de l’Opposition à la Chambre des communes, ou employée successivement dans deux ou trois de ces cabinets :
+- **a)** peut participer, pendant une période d’un an à partir de la date de sa cessation d’emploi, à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
+- **b)** a le droit de présenter une plainte en vertu de l’article 77.
+> 2006, ch. 9, art. 101.
+
+
+
+
+
+**Employés parlementaires**
+
+**35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique :
+- **a)** peut participer à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
+- **b)** a le droit de présenter une plainte en vertu de l’article 77.
+> 2006, ch. 9, art. 101.
+
+
+
+
+
 **Méthode d’évaluation**
 
 **36** La Commission peut avoir recours à toute méthode d’évaluation — notamment prise en compte des réalisations et du rendement antérieur, examens ou entrevues — qu’elle estime indiquée pour décider si une personne possède les qualifications visées à l’alinéa 30(2)a) et au sous-alinéa 30(2)b)(i).
@@ -711,7 +735,9 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Exceptions au mérite**
 
-**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) à (4) (autres priorités) ou des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal), ou des règlements pris en vertu de l’alinéa 22(2)a).
+**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités) ou des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal), ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102.
+
 
 
 
@@ -751,15 +777,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 	- **a)** le fonctionnaire qui est en congé, pendant son congé et l’année qui suit;
 	- **b)** si le fonctionnaire en congé reprend le poste, le remplaçant, pendant l’année qui suit le retour du fonctionnaire en congé.
 
-**Priorité — personnel du ministre**
-
-- **(2)** Ont droit à une priorité de nomination absolue pendant une période d’un an à partir de la date de leur cessation d’emploi dans le cabinet d’un ministre ou du titulaire des charges de leader de l’Opposition au Sénat ou de chef de l’Opposition à la Chambre des communes :
-	- **a)** la personne qui était fonctionnaire au moment de devenir employée dans ce cabinet;
-	- **b)** la personne qui a participé à un processus de nomination externe annoncé pendant son emploi dans ce cabinet et qui, selon la Commission, possédait les qualifications essentielles pour une nomination à la fonction publique.
-
-**Priorité — personnel supérieur du ministre**
-
-- **(3)** La personne qui a été, pendant au moins trois ans, directeur de cabinet d’un ministre ou du titulaire des charges de leader de l’Opposition au Sénat ou de chef de l’Opposition à la Chambre des communes, adjoint spécial ou secrétaire particulier dans ce cabinet ou titulaire successivement de deux ou trois de ces postes a droit à une priorité de nomination absolue à un niveau au moins équivalent à celui d’adjoint exécutif d’un administrateur général pendant une période d’un an à partir de la date de sa cessation d’emploi.
+- **(2) et (3)** [Abrogés, 2006, ch. 9, art. 103]
 
 **Priorités — personnes mises en disponibilité**
 
@@ -767,11 +785,13 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Qualifications essentielles**
 
-- **(5)** Les personnes visées aux paragraphes (1) à (4) ont une priorité de nomination à tout poste pour lequel, selon la Commission, elles possèdent les qualifications essentielles visées à l’alinéa 30(2)a).
+- **(5)** Les personnes visées aux paragraphes (1) et (4) ont une priorité de nomination à tout poste pour lequel, selon la Commission, elles possèdent les qualifications essentielles visées à l’alinéa 30(2)a).
 
 **Ordre des priorités**
 
-- **(6)** Les nominations des personnes visées aux paragraphes (1) à (4) se font selon l’ordre de ces paragraphes; l’ordre de nomination des personnes visées par chacun de ces paragraphes est déterminé par la Commission.
+- **(6)** Les nominations des personnes visées aux paragraphes (1) et (4) se font selon l’ordre de ces paragraphes; l’ordre de nomination des personnes visées par chacun de ces paragraphes est déterminé par la Commission.
+> 2003, ch. 22, art. 12 « 41 »; 2006, ch. 9, art. 103.
+
 
 
 
@@ -930,7 +950,9 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Non-application des droits de priorité**
 
-- **(2)** L’administrateur général peut procéder à des mutations sans égard aux droits de nomination prévus aux paragraphes 41(1) à (4) ou aux règlements pris en vertu de l’alinéa 22(2)a).
+- **(2)** L’administrateur général peut procéder à des mutations sans égard aux droits de nomination prévus aux paragraphes 41(1) et (4) ou aux règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 53 »; 2006, ch. 9, art. 104.
+
 
 
 
@@ -1341,7 +1363,9 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Absence du droit de présenter une plainte**
 
-**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) à (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal) ou des règlements pris en vertu de l’alinéa 22(2)a).
+**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance du Tribunal) ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105.
+
 
 
 
@@ -1927,6 +1951,28 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 **Rapport du chef de la fonction publique**
 
 **127** Au cours de chaque exercice, le chef de la fonction publique présente au premier ministre un rapport sur l’état de la fonction publique. Le premier ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+
+### Sous-ministres et autres hauts fonctionnaires
+
+
+
+**Nomination par le gouverneur en conseil**
+
+**127.1** 
+
+- **(1)** Le gouverneur en conseil peut nommer les titulaires des postes ci-après et fixer leur traitement :
+	- **a)** sous-ministre, sous-ministre délégué ou poste de niveau équivalent;
+	- **b)** administrateur général, administrateur général délégué ou poste de niveau équivalent;
+	- **c)** conseiller spécial d’un ministre.
+
+**Activités politiques**
+
+- **(2)** Il est entendu que les dispositions de la partie 7 applicables aux administrateurs généraux s’appliquent aux personnes nommées à ce titre ou à titre de sous-ministre en vertu du paragraphe (1) et que les dispositions de cette partie applicables aux fonctionnaires s’appliquent aux autres personnes nommées en vertu de ce paragraphe.
+> 2006, ch. 9, art. 106.
+
 
 
 
