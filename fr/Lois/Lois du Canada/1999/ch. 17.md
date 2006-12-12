@@ -406,16 +406,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **30** 
 
-- **(1)** L’Agence a compétence dans les domaines suivants :
+- **(1)** L’Agence a compétence dans les domaines suivants :
 	- **a)** ses grandes orientations administratives;
 	- **b)** son organisation;
 	- **c)** les immeubles de l’Agence et les biens réels de l’Agence, au sens de l’article 73;
-	- **d)** la gestion de ses ressources humaines, notamment la détermination de ses conditions d’emploi.
+	- **d)** la gestion de ses ressources humaines, notamment la détermination de ses conditions d’emploi;
+	- **e)** sa vérification interne.
 
 **Règlements et exigences non applicables**
 
 - **(2)** Par dérogation à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), l’Agence n’est pas assujettie aux règlements ou exigences du Conseil du Trésor ayant trait aux questions visées au paragraphe (1), sauf dans la mesure où ils ont trait à la gestion financière.
-> 1999, ch. 17, art. 30; 2001, ch. 4, art. 129; 2003, ch. 22, art. 96.
+> 1999, ch. 17, art. 30; 2001, ch. 4, art. 129; 2003, ch. 22, art. 96; 2006, ch. 9, art. 237.
 
 
 
