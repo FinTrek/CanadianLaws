@@ -358,7 +358,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres administrateurs**
 
-- **(2)** Le ministre nomme à titre amovible, avec l’agrément du gouverneur en conseil, les autres administrateurs pour des mandats respectifs de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus quatre d’entre eux.
+- **(2)** Le ministre nomme à titre amovible, avec l’agrément du gouverneur en conseil, les autres administrateurs pour des mandats respectifs de quatre ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus quatre d’entre eux.
 
 **Prolongation du mandat**
 
@@ -366,7 +366,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renouvellement**
 
-- **(4)** Tout administrateur peut recevoir un nouveau mandat aux mêmes ou à d’autres fonctions, sous réserve des conditions suivantes :
+- **(4)** Tout administrateur peut recevoir un nouveau mandat aux mêmes ou à d’autres fonctions, sous réserve des conditions suivantes :
 	- **a)** le président et le vice-président ne peuvent exercer plus de deux mandats consécutifs aux mêmes fonctions;
 	- **b)** les autres administrateurs ne peuvent, après trois mandats consécutifs aux mêmes fonctions, en recevoir un nouveau aux mêmes fonctions pendant l’année qui suit l’expiration du dernier mandat.
 
@@ -381,6 +381,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vacance des autres administrateurs**
 
 - **(7)** En cas de vacance, en cours de mandat, d’un poste d’administrateur autre que celui du président ou du vice-président, le ministre peut, avec l’agrément du gouverneur en conseil, nommer un remplaçant pour la durée restant à courir.
+> 1990, ch. 3, art. 19; 2006, ch. 9, art. 279.
+
 
 
 
