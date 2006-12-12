@@ -52,15 +52,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definitions**
 
-**2** The following definitions apply in this Act.
+**2** 
+
+- **(1)** The following definitions apply in this Act.
+
+***Agency*** means the Public Service Human Resources Management Agency of Canada.
 
 ***chief executive*** means the deputy head or chief executive officer of any portion of the public sector, or the person who occupies any other similar position, however called, in the public sector.
 
 ***Commissioner*** means the Public Sector Integrity Commissioner appointed under subsection 39(1).
 
+***investigation*** means, for the purposes of sections 24, 25, 26 to 31, 33, 34, 36 and 37, an investigation into a disclosure and an investigation commenced under section 33.
+
 ***member of the Royal Canadian Mounted Police*** means a person who is a member or a special constable of the Royal Canadian Mounted Police or who is employed by that force under terms and conditions substantially the same as those of one of its members.
 
-***Minister*** means, in respect of sections 4, 5 and 54, the Minister responsible for the Public Service Human Resources Management Agency of Canada.
+***Minister*** means, in respect of sections 4, 5, 38.1 and 54, the Minister responsible for the Agency.
 
 ***protected disclosure*** means a disclosure that is made in good faith and that is made by a public servant
 - **(a)** in accordance with this Act;
@@ -77,7 +83,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 ***public servant*** means every person employed in the public sector, every member of the Royal Canadian Mounted Police and every chief executive.
 
-***reprisal*** means any of the following measures taken against a public servant because the public servant has made a protected disclosure or has, in good faith, cooperated in an investigation carried out under this Act:
+***reprisal***means any of the following measures taken against a public servant because the public servant has made a protected disclosure or has, in good faith, cooperated in an investigation into a disclosure or an investigation commenced under section 33:
 - **(a)** a disciplinary measure;
 - **(b)** the demotion of the public servant;
 - **(c)** the termination of employment of the public servant, including, in the case of a member of the Royal Canadian Mounted Police, a discharge or dismissal;
@@ -86,14 +92,19 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 ***senior officer*** means a senior officer designated under subsection 10(2).
 
+***Tribunal*** means the Public Servants Disclosure Protection Tribunal established under subsection 20.7(1).
+
 ***wrongdoing*** means a wrongdoing referred to in section 8.
 
+**Taking a reprisal**
+
+- **(2)** Every reference in this Act to a person who has taken a reprisal includes a person who has directed the reprisal to be taken.
+> 2005, c. 46, s. 2; 2006, c. 9, s. 194.
 
 
 
-**Authority to act for Commissioner of the Royal Canadian Mounted Police**
 
-**2.1** The Commissioner of the Royal Canadian Mounted Police may authorize a Deputy or Assistant Commissioner of the Royal Canadian Mounted Police to exercise the powers or perform the duties and functions of the Commissioner of the Royal Canadian Mounted Police as a chief executive in respect of any of paragraphs 22(g) and (h), subsections 26(1), 27(1) and (3), 28(1) and 29(3) and sections 36 and 50.
+**2.1** [Repealed before coming into force, 2006, c. 9, s. 195]
 
 
 
@@ -105,9 +116,11 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Amending the schedules**
 
 **3** The Governor in Council may, by order, amend
-- **(a)** Schedule 1 by adding or deleting the name of any Crown corporation or other public body;
+- **(a)** Schedule 1 by adding the name of any Crown corporation or other public body;
 - **(b)** Schedule 2 by adding or deleting the name of any portion of the public sector that has a statutory mandate to investigate other portions of the public sector; and
 - **(c)** Schedule 3 by adding or deleting any provision of any Act of Parliament.
+> 2005, c. 46, s. 3; 2006, c. 9, s. 196.
+
 
 
 
@@ -181,13 +194,15 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Wrongdoings**
 
 **8** This Act applies in respect of the following wrongdoings in or relating to the public sector:
-- **(a)** a contravention of any Act of Parliament or of the legislature of a province, or of any regulations made under any such Act;
+- **(a)** a contravention of any Act of Parliament or of the legislature of a province, or of any regulations made under any such Act, other than a contravention of section 19 of this Act;
 - **(b)** a misuse of public funds or a public asset;
 - **(c)** a gross mismanagement in the public sector;
 - **(d)** an act or omission that creates a substantial and specific danger to the life, health or safety of persons, or to the environment, other than a danger that is inherent in the performance of the duties or functions of a public servant;
-- **(e)** a serious breach of a code of conduct established under section 5 or 6;
-- **(f)** the taking of a reprisal against a public servant; and
-- **(g)** knowingly directing or counselling a person to commit a wrongdoing set out in any of paragraphs (a) to (f).
+- **(e)** a serious breach of a code of conduct established under section 5 or 6; and
+- **(f)** knowingly directing or counselling a person to commit a wrongdoing set out in any of paragraphs (a) to (e).
+- **(g)** [Repealed, 2006, c. 9, s. 197]
+> 2005, c. 46, s. 8; 2006, c. 9, s. 197.
+
 
 
 
@@ -219,16 +234,29 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Exception**
 
-- **(4)** Subsections (1) and (2) do not apply to a chief executive if he or she declares, after giving notice to the Public Service Human Resources Management Agency of Canada, that it is not practical to apply those subsections given the size of that portion of the public sector.
+- **(4)** Subsections (1) and (2) do not apply to a chief executive if he or she declares, after giving notice to the Agency, that it is not practical to apply those subsections given the size of that portion of the public sector.
+> 2005, c. 46, s. 10; 2006, c. 9, s. 198.
 
 
 
 
-**Protection of identity**
 
-**11** Each chief executive must
-- **(a)** subject to any other Act of Parliament and to the principles of procedural fairness and natural justice, protect the identity of persons involved in the disclosure process, including that of persons making disclosures, witnesses and persons alleged to be responsible for wrongdoings; and
-- **(b)** establish procedures to ensure the confidentiality of information collected in relation to disclosures of wrongdoings.
+**Duty of chief executives**
+
+**11** 
+
+- **(1)** Each chief executive must
+	- **(a)** subject to paragraph (c) and any other Act of Parliament and to the principles of procedural fairness and natural justice, protect the identity of persons involved in the disclosure process, including that of persons making disclosures, witnesses and persons alleged to be responsible for wrongdoings;
+	- **(b)** establish procedures to ensure the confidentiality of information collected in relation to disclosures of wrongdoings; and
+	- **(c)** if wrongdoing is found as a result of a disclosure made under section 12, promptly provide public access to information that
+		- **(i)** describes the wrongdoing, including information that could identify the person found to have committed it if it is necessary to identify the person to adequately describe the wrongdoing, and
+		- **(ii)** sets out the recommendations, if any, set out in any report made to the chief executive in relation to the wrongdoing and the corrective action, if any, taken by the chief executive in relation to the wrongdoing or the reasons why no corrective action was taken.
+
+**Exception**
+
+- **(2)** Nothing in paragraph (1)(c) requires a chief executive to provide public access to information the disclosure of which is subject to any restriction created by or under any Act of Parliament.
+> 2005, c. 46, s. 11; 2006, c. 9, s. 199.
+
 
 
 
@@ -240,18 +268,17 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-**When disclosure can be made to the Commissioner**
+**Disclosure to the Commissioner**
 
 **13** 
 
-- **(1)** A public servant may disclose information referred to in section 12 to the Commissioner if
-	- **(a)** the public servant believes on reasonable grounds that it would not be appropriate to disclose the information to his or her supervisor, or to the appropriate senior officer, by reason of the subject-matter of the wrongdoing or the person alleged to have committed it;
-	- **(b)** the public servant has already disclosed the information to his or her supervisor or to the appropriate senior officer and is of the opinion that the matter has not been appropriately dealt with; or
-	- **(c)** the portion of the public sector in which the public servant is employed is subject to a declaration made under subsection 10(4).
+- **(1)** A public servant may disclose information referred to in section 12 to the Commissioner.
 
 **Exception**
 
 - **(2)** Nothing in this Act authorizes a public servant to disclose to the Commissioner a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) applies or any information that is subject to solicitor-client privilege. The Commissioner may not use the confidence or information if it is disclosed.
+> 2005, c. 46, s. 13; 2006, c. 9, s. 200.
+
 
 
 
@@ -328,141 +355,697 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-## Protection of Persons Making Disclosures
+## Complaints Relating to Reprisals
+
+
+
+### Prohibition Against Reprisals
 
 
 
 **Prohibition against reprisal**
 
-**19** No person shall take any reprisal against a public servant.
+**19** No person shall take any reprisal against a public servant or direct that one be taken against a public servant.
+> 2005, c. 46, s. 19; 2006, c. 9, s. 201.
 
 
 
 
-**Definition of Board**
 
-**20** 
+### Complaints
 
-- **(1)** In this section and section 21, ***Board*** means,
-	- **(a)** in relation to a public servant who is employed in the Public Service Labour Relations Board or a person whose complaint relates to a reprisal taken while he or she was so employed, the Canada Industrial Relations Board;
-	- **(b)** in relation to any other public servant who is employed in any portion of the public sector referred to in Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md) or a person whose complaint relates to a reprisal taken while he or she was so employed, the Public Service Staff Relations Board; and
-	- **(c)** in relation to any other public servant, the Canada Industrial Relations Board.
 
-**Complaint to Board**
 
-- **(2)** Subject to subsection (2.1), a public servant, or former public servant, or a person designated by a public servant or former public servant for the purpose, who alleges that a person has taken a reprisal against the public servant may make a complaint in writing to the Board in respect of the reprisal.
+**Complaints**
 
-**Exception — RCMP**
+**19.1** 
 
-- **(2.1)** A member of the Royal Canadian Mounted Police may not make a complaint under subsection (2) in relation to any matter that is the subject of an investigation or proceeding under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) unless
-	- **(a)** the member has exhausted every procedure available under that Act for dealing with the matter; and
-	- **(b)** the member has been granted leave by the Board to make the complaint.
-
-**Conditions for granting leave**
-
-- **(2.2)** The Board may grant the leave only if
-	- **(a)** the application for leave is made within 60 days after the procedures referred to in paragraph (2.1)(a) have been exhausted; and
-	- **(b)** the Board is of the opinion that the issue of reprisal was not adequately dealt with by those procedures.
-
-**Restriction**
-
-- **(2.3)** The Board ceases to have jurisdiction if an application for judicial review of any decision relating to the procedures referred to in paragraph (2.1)(a) is made by the member.
+- **(1)** A public servant or a former public servant who has reasonable grounds for believing that a reprisal has been taken against him or her may file with the Commissioner a complaint in a form acceptable to the Commissioner. The complaint may also be filed by a person designated by the public servant or former public servant for the purpose.
 
 **Time for making complaint**
 
-- **(3)** Subject to subsection (3.1), the complaint must be made to the Board not later than
-	- **(a)** 60 days after the date on which the complainant knew, or in the Board’s opinion ought to have known, that the reprisal was taken;
-	- **(b)** if the complainant has made a disclosure to the Commissioner in respect of the reprisal during the 60-day period referred to in paragraph (a) and the Commissioner has decided to deal with the disclosure, 60 days after the Commissioner reports his or her findings to the complainant and the appropriate chief executive; or
-	- **(c)** if the complainant is a member of the Royal Canadian Mounted Police and the complaint is in relation to a matter referred to in subsection (2.1), 60 days after the member was granted leave.
+- **(2)** The complaint must be filed not later than 60 days after the day on which the complainant knew, or in the Commissioner’s opinion ought to have known, that the reprisal was taken.
 
 **Time extended**
 
-- **(3.1)** The complaint may be made after the periods referred to in subsection (3) if the Board feels it is appropriate considering the circumstances of the complaint.
+- **(3)** The complaint may be filed after the period referred to in subsection (2) if the Commissioner feels it is appropriate considering the circumstances of the complaint.
 
-**Exclusion of arbitration**
+**Effect of filing**
 
-- **(4)** Despite any law or agreement to the contrary, a complaint made under this section may not be referred by a public servant to arbitration or adjudication.
+- **(4)** Subject to subsection 19.4(4), the filing of a complaint under subsection (1) precludes the complainant from commencing any procedure under any other Act of Parliament or collective agreement in respect of the measure alleged to constitute the reprisal.
 
-**Duty and power of Board**
+**Exception — RCMP**
 
-- **(5)** On receipt of a complaint, the Board may assist the parties to the complaint to settle the complaint. The Board must hear and determine the complaint if it decides not to so assist the parties or the complaint is not settled within a period considered by the Board to be reasonable in the circumstances.
-
-**Board orders**
-
-- **(6)** If the Board determines that the com­plain­ant has been subject to a reprisal taken in contravention of section 19, the Board may, by order, require the employer or the appropriate chief executive, or any person acting on behalf of the employer or appropriate chief executive, to take all necessary measures to
-	- **(a)** permit the complainant to return to his or her duties;
-	- **(b)** reinstate the complainant or pay damages to the complainant in lieu of reinstatement if, in the Board’s opinion, the relationship of trust between the parties cannot be restored;
-	- **(c)** pay to the complainant compensation in an amount not greater than the amount that, in the Board’s opinion, is equivalent to the remuneration that would, but for the reprisal, have been paid to the complainant;
-	- **(d)** rescind any measure or action, including any disciplinary action, and pay compensation to the complainant in an amount not greater than the amount that, in the Board’s opinion, is equivalent to any financial or other penalty imposed on the complainant; and
-	- **(e)** pay to the complainant an amount equal to any expenses and any other financial losses incurred by the complainant as a direct result of the reprisal.
-
-**[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
-
-- **(6.1)** The Board may make an order in relation to a member of the Royal Canadian Mounted Police despite subsections 42(4) and (6), 45.16(7) and 45.26(6) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-
-**Standing**
-
-- **(7)** The Commissioner has standing in any proceedings under this section for the purpose of making submissions.
+- **(5)** A member or former member of the Royal Canadian Mounted Police may not make a complaint under subsection (1) in relation to any matter that is the subject of an investigation or proceeding under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) or an investigation or proceeding relating to administrative discharge under the [Royal Canadian Mounted Police Regulations, 1988](/en/Regulations/Statutory%20Orders%20and%20Regulations/88/361.md) unless
+	- **(a)** he or she has exhausted every procedure available under that Act or those regulations for dealing with the matter; and
+	- **(b)** the complaint is filed within 60 days after those procedures have been exhausted.
+> 2006, c. 9, s. 201.
 
 
 
 
-**Procedures for RCMP**
 
-**20.1** 
+**Complaint in respect of past disclosures**
 
-- **(1)** After having consulted with the Royal Canadian Mounted Police and taken its security and confidentiality needs into account, the Public Service Labour Relations Board shall establish procedures for the processing and hearing of complaints relating to reprisals involving that organization.
+**19.2** 
 
-**Full-time member to hear complaint**
-
-- **(2)** A complaint relating to a reprisal involving the Royal Canadian Mounted Police shall not be heard or determined by any person other than a full-time member of the Public Service Labour Relations Board.
-
-
-
-
-**Retroactivity**
-
-**21** 
-
-- **(1)** A public servant who alleges that a reprisal was taken against him or her by reason that he or she, in good faith, disclosed a wrongdoing in the course of a parliamentary proceeding or an inquiry under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) — after February 10, 2004 and before the day on which section 20 comes into force — may make a complaint under that section in respect of the reprisal.
+- **(1)** A public servant who alleges that a reprisal was taken against him or her by reason that he or she, in good faith, disclosed, after February 10, 2004 and before the day on which section 19.1 comes into force, a wrongdoing in the course of a parliamentary proceeding or an inquiry under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md) may file a complaint under that section in respect of the reprisal.
 
 **Time limit**
 
-- **(2)** The public servant may make the complaint within 60 days after the later of
-	- **(a)** the day on which section 20 comes into force, and
-	- **(b)** the day on which he or she knew or, in the opinion of the Board, ought to have known that the reprisal was taken.
+- **(2)** The public servant may file the complaint within 60 days after the later of
+	- **(a)** the day on which section 19.1 comes into force, and
+	- **(b)** the day on which he or she knew or, in the opinion of the Commissioner, ought to have known that the reprisal was taken.
+> 2006, c. 9, s. 201.
 
 
 
 
-**Power to temporarily assign other duties**
+
+**Refusal to deal with complaint**
+
+**19.3** 
+
+- **(1)** The Commissioner may refuse to deal with a complaint if he or she is of the opinion that
+	- **(a)** the subject-matter of the complaint has been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under an Act of Parliament, other than this Act, or a collective agreement;
+	- **(b)** if the complainant is a member or former member of the Royal Canadian Mounted Police, the subject-matter of the complaint has been adequately dealt with by the procedures referred to in subsection 19.1(5);
+	- **(c)** the complaint is beyond the jurisdiction of the Commissioner; or
+	- **(d)** the complaint was not made in good faith.
+
+**Restriction**
+
+- **(2)** The Commissioner may not deal with a complaint if a person or body acting under another Act of Parliament or a collective agreement is dealing with the subject-matter of the complaint other than as a law enforcement authority.
+
+**[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
+
+- **(3)** For the purpose of subsection (2), a person or body dealing with a matter in the course of an investigation or proceeding under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) is deemed not to be dealing with the matter as a law enforcement authority.
+
+**No jurisdiction**
+
+- **(4)** The Commissioner ceases to have jurisdiction to deal with a complaint filed by a member or former member of the Royal Canadian Mounted Police if an application for judicial review of any decision relating to the procedures referred to in subsection 19.1(5) is made by the member.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Time limit**
+
+**19.4** 
+
+- **(1)** The Commissioner must decide whether or not to deal with a complaint within 15 days after it is filed.
+
+**Notice — decision to deal with complaint**
+
+- **(2)** If the Commissioner decides to deal with a complaint, he or she must send a written notice of his or her decision to the complainant and to the person or entity that has the authority to take disciplinary action against each person who participated in the taking of a measure alleged by the complainant to constitute a reprisal.
+
+**Reasons — decision not to deal with complaint**
+
+- **(3)** If the Commissioner decides not to deal with a complaint, he or she must send a written notice of his or her decision to the complainant and set out the reasons for the decision.
+
+**Effect of not dealing with complaint**
+
+- **(4)** If the Commissioner decides not to deal with a complaint and sends the complainant a written notice setting out the reasons for that decision,
+	- **(a)** subsection 19.1(4) ceases to apply; and
+	- **(b)** the period of time that begins on the day on which the complaint was filed and ends on the day on which the notice is sent is not to be included in the calculation of any time the complainant has to avail himself or herself of any procedure under any other Act of Parliament or collective agreement in respect of the measure alleged to constitute the reprisal.
+
+**Exception**
+
+- **(5)** Subsection (4) does not apply if the Commissioner has decided not to deal with the complaint for the reason that it was not made in good faith.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+### Disciplinary Action
+
+
+
+**Restriction on disciplinary action**
+
+**19.5** 
+
+- **(1)** If the Commissioner decides to deal with a complaint and sends a written notice under subsection 19.4(2) and no disciplinary action has yet been taken against a person by reason of that person’s participation in the taking of a measure alleged by the complainant to constitute a reprisal, no disciplinary action may be taken during the period referred to in subsection (3) in relation to the person’s participation in the taking of the measure.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply in respect of disciplinary action taken as a result of a settlement approved by the Commissioner or an order of the Tribunal.
+
+**Period during which no disciplinary action may be taken**
+
+- **(3)** For the purposes of subsection (1), the period during which no disciplinary action may be taken is the period that begins on the day on which the Commissioner sends the notice referred to in subsection 19.4(2) and ends on the earliest of
+	- **(a)** the day on which the complaint is withdrawn or dismissed,
+	- **(b)** the day on which the Commissioner makes an application to the Tribunal for an order referred to in paragraph 20.4(1)(a) in respect of the complaint, and
+	- **(c)** in the case where the Commissioner makes an application to the Tribunal for the orders referred to in paragraph 20.4(1)(b) in respect of the complaint, the day on which the Tribunal makes a determination that the complainant was not subject to a reprisal taken by the person.
+
+**Period not to be included**
+
+- **(4)** If a time limit is provided for under any Act of Parliament or collective agreement for the taking of disciplinary action, the period during which disciplinary action may not be taken against the person by reason of subsection (1) is not to be included in the calculation of the prescribed time limit.
+
+**Application**
+
+- **(5)** This section applies despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Suspension of disciplinary action**
+
+**19.6** 
+
+- **(1)** If the Commissioner decides to deal with a complaint and sends a written notice under subsection 19.4(2) and disciplinary action has already been taken against a person by reason of the person’s participation in the taking of a measure alleged by the complainant to constitute a reprisal
+	- **(a)** the implementation of the disciplinary action — and the commencement or continuation of any procedure in relation to the disciplinary action by the person under any other Act of Parliament or collective agreement — is suspended for the period referred to in subsection (3); and
+	- **(b)** the appropriate chief executive must take the measures necessary to put the person in the situation the person was in before the disciplinary action was implemented.
+
+**Exception**
+
+- **(2)** If the disciplinary action already taken against a person by reason of the person’s participation in the taking of a measure alleged by the complainant to constitute a reprisal has been the subject of a decision of a court, tribunal or arbitrator dealing with it on the merits, other than a decision made under the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md),
+	- **(a)** subsection (1) does not apply; and
+	- **(b)** neither the Commissioner nor the Tribunal may deal with the issue of disciplinary action against that person.
+
+**Period of suspension**
+
+- **(3)** For the purposes of paragraph (1)(a), the suspension begins on the day on which the Commissioner sends the notice referred to in subsection 19.4(2) and ends on the earliest of
+	- **(a)** the day on which the complaint is withdrawn or dismissed,
+	- **(b)** the day on which the Commissioner makes an application to the Tribunal for an order referred to in paragraph 20.4(1)(a) in respect of the complaint,
+	- **(c)** in the case where the Commissioner makes an application to the Tribunal for the orders referred to in paragraph 20.4(1)(b) in respect of the complaint, the day on which the Tribunal makes a determination that the complainant was not subject to a reprisal taken by the person, and
+	- **(d)** the day on which the disciplinary action is taken as a result of a settlement approved by the Commissioner or an order of the Tribunal.
+
+**Prior disciplinary action cancelled**
+
+- **(4)** Disciplinary action taken as a result of a settlement approved by the Commissioner or an order of the Tribunal cancels any prior disciplinary action.
+
+**Application**
+
+- **(5)** This section applies despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201.
+
+
+
+
+
+### Investigations into Complaints
+
+
+
+**Designation of complaint investigator**
+
+**19.7** 
+
+- **(1)** The Commissioner may designate a person as an investigator to investigate a complaint.
+
+**Informality**
+
+- **(2)** Investigations into complaints are to be conducted as informally and expeditiously as possible.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Notice to chief executive**
+
+**19.8** 
+
+- **(1)** When commencing an investigation, the investigator must notify the chief executive concerned and inform that chief executive of the substance of the complaint to which the investigation relates.
+
+**Notice to others**
+
+- **(2)** The investigator may also notify any other person he or she considers appropriate, including every person whose conduct is called into question by the complaint, and inform the person of the substance of the complaint.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Access**
+
+**19.9** 
+
+- **(1)** If the investigator so requests, chief executives and public servants must provide the investigator with any facilities, assistance, information and access to their respective offices that the investigator may require for the purposes of the investigation.
+
+**Insufficient cooperation**
+
+- **(2)** If the investigator concludes that he or she is unable to complete an investigation because of insufficient cooperation on the part of chief executives or public servants, he or she must make a report to the Commissioner to that effect under section 20.3.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+### Conciliation
+
+
+
+**Recommendation — conciliation**
+
+**20** 
+
+- **(1)** At any time during the course of the investigation into a complaint the investigator may recommend to the Commissioner that a conciliator be appointed to attempt to bring about a settlement.
+
+**Appointment of conciliator**
+
+- **(2)** The Commissioner may appoint a person as a conciliator for the purpose of attempting to bring about a settlement of the complaint.
+
+**Eligibility**
+
+- **(3)** A person is not eligible to act as a conciliator in respect of a complaint if that person has already acted as an investigator in respect of that complaint.
+
+**Confidentiality**
+
+- **(4)** Any information received by a conciliator in the course of attempting to reach a settlement of a complaint is confidential and may not be disclosed except with the consent of the person who gave the information.
+> 2005, c. 46, s. 20; 2006, c. 9, s. 201.
+
+
+
+
+
+**Who may settle — remedy**
+
+**20.1** 
+
+- **(1)** A settlement that relates to the remedy to be provided to the complainant must be agreed to by the complainant and the person with the authority to implement the remedy.
+
+**Who may settle — disciplinary action**
+
+- **(2)** A settlement that relates to the disciplinary action, if any, that is to be imposed on a person identified by the investigator as being the person or one of the persons who took the alleged reprisal must be agreed to by the person identified by the investigator and the person with the authority to take the disciplinary action.
+> 2005, c. 46, s. 20.1; 2006, c. 9, s. 201.
+
+
+
+
+
+**Referral of a settlement to Commissioner**
+
+**20.2** 
+
+- **(1)** The terms of a settlement must be referred to the Commissioner for approval or rejection and the Commissioner must, without delay after approving or rejecting them, so certify and notify the parties to the settlement.
+
+**Complaint dismissed**
+
+- **(2)** If the Commissioner approves a settlement that relates to the remedy to be provided to the complainant, the complaint to which it relates is dismissed.
+
+**Application barred**
+
+- **(3)** If the Commissioner approves a settlement that relates to disciplinary action, if any, that is to be imposed on a person, the Commissioner may not apply to the Tribunal for an order referred to in paragraph 20.4(1)(b) in respect of the person.
+
+**Enforcement of settlement**
+
+- **(4)** A settlement approved by the Commissioner may, for the purpose of enforcement, be made an order of the Federal Court on application to that Court by the Commissioner or a party to the settlement.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+### Decision After Investigation
+
+
+
+**Investigator’s report to Commissioner**
+
+**20.3** As soon as possible after the conclusion of the investigation, the investigator must submit a report of his or her findings to the Commissioner.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Application to Tribunal**
+
+**20.4** 
+
+- **(1)** If, after receipt of the report, the Commissioner is of the opinion that an application to the Tribunal in relation to the complaint is warranted, the Commissioner may apply to the Tribunal for a determination of whether or not a reprisal was taken against the complainant and, if the Tribunal determines that a reprisal was taken, for
+	- **(a)** an order respecting a remedy in favour of the complainant; or
+	- **(b)** an order respecting a remedy in favour of the complainant and an order respecting disciplinary action against any person or persons identified by the Commissioner in the application as being the person or persons who took the reprisal.
+
+**Exception**
+
+- **(2)** The order respecting disciplinary action referred in paragraph (1)(b) may not be applied for in relation to a complaint the filing of which is permitted by section 19.2.
+
+**Factors**
+
+- **(3)** In considering whether making an application to the Tribunal is warranted, the Commissioner must take into account whether
+	- **(a)** there are reasonable grounds for believing that a reprisal was taken against the complainant;
+	- **(b)** the investigation into the complaint could not be completed because of lack of cooperation on the part of one or more chief executives or public servants;
+	- **(c)** the complaint should be dismissed on any ground mentioned in paragraphs 19.3(1)(a) to (d); and
+	- **(d)** having regard to all the circumstances relating to the complaint, it is in the public interest to make an application to the Tribunal.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Dismissal of complaint**
+
+**20.5** If, after receipt of the report, the Commissioner is of the opinion that an application to the Tribunal is not warranted in the circumstances, he or she must dismiss the complaint.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Notice**
+
+**20.6** The Commissioner must notify in writing each of the following of his or her action under section 20.4 or 20.5:
+- **(a)** the complainant;
+- **(b)** if the complainant is a public servant, the complainant’s employer;
+- **(c)** if the complainant is a former public servant, the person or entity who was the complainant’s employer at the time the alleged reprisal was taken;
+- **(d)** the person or persons identified in the investigator’s report as being the person or persons who may have taken the alleged reprisal;
+- **(e)** the person or entity with the authority to take disciplinary action against any person referred to in paragraph (d); and
+- **(f)** every person, other than the complainant, or entity that was sent a notice under subsection 19.4(2) in respect of the complaint.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+### Public Servants Disclosure Protection Tribunal
+
+
+
+#### Establishment
+
+
+
+**Establishment**
+
+**20.7** 
+
+- **(1)** There is established a tribunal to be known as the Public Servants Disclosure Protection Tribunal consisting of a Chairperson and not less than two and not more than six other members to be appointed by the Governor in Council. All of the members must be judges of the Federal Court or a superior court of a province.
+
+**Tenure**
+
+- **(2)** Each member of the Tribunal is to be appointed for a term of not more than seven years and holds office so long as he or she remains a judge.
+
+**Re-appointment**
+
+- **(3)** A member of the Tribunal, on the expiration of a first or any subsequent term of office, is eligible to be re-appointed for a further term.
+
+**Temporary members**
+
+- **(4)** Subject to subsection (5), in addition to the members appointed under subsection (1), any judge or former judge of the Federal Court of Canada or the Federal Court or of a superior or district court of a province may, on the request of the Chairperson of the Tribunal made with the approval of the Governor in Council, act as a temporary member of the Tribunal.
+
+**Consent required**
+
+- **(5)** Except in relation to a former judge, no request may be made under subsection (4)
+	- **(a)** to a judge of the Federal Court without the consent of the Chief Justice of that Court or of the Attorney General of Canada; or
+	- **(b)** to a judge of a superior court of a province without the consent of the chief justice or chief judge of that court or of the attorney general of the province.
+
+**Approval of requests by Governor in Council**
+
+- **(6)** The Governor in Council may approve the making of requests under subsection (4) in general terms or for particular periods or purposes, and may limit the number of persons who may act as temporary members of the Tribunal.
+
+**Remuneration of temporary members**
+
+- **(7)** Each temporary member of the Tribunal who is a former judge is to be paid the remuneration determined by the Governor in Council.
+
+**Expenses**
+
+- **(8)** Each member of the Tribunal and each temporary member of the Tribunal is entitled to be paid the expenses fixed by the Governor in Council.
+
+**Acting after expiration of appointment**
+
+- **(9)** A member of the Tribunal whose appointment expires may, with the approval of the Chairperson, conclude any hearing that the member has begun and he or she is deemed to be a temporary member of the Tribunal for the purpose.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+#### Administration
+
+
+
+**Registry**
+
+**20.8** 
+
+- **(1)** There shall be a Registry of the Tribunal consisting of an office in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+
+**Registrar and other staff**
+
+- **(2)** The registrar of the Tribunal and the other officers and employees necessary for the proper conduct of the work of the Tribunal are to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+
+**Technical experts**
+
+- **(3)** If requested to do so by the Chairperson, the registrar of the Tribunal may engage persons having technical or special knowledge to assist or advise members of the Tribunal in any matter and may, with the approval of the Treasury Board, fix and pay their remuneration and reimburse their expenses.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Sittings**
+
+**20.9** The Tribunal may sit at the times and at the places throughout Canada that it considers necessary or desirable for the proper conduct of its business.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+#### Proceedings
+
+
+
+**Conduct of proceedings**
+
+**21** 
+
+- **(1)** Proceedings before the Tribunal are to be conducted as informally and expeditiously as the requirements of natural justice and the rules of procedure allow.
+
+**Tribunal rules of procedure**
+
+- **(2)** The Chairperson of the Tribunal may make rules of procedure governing the practice and procedure before the Tribunal, including, but not limited to, rules governing
+	- **(a)** the giving of notices to parties;
+	- **(b)** the addition of parties and interested persons to the proceedings;
+	- **(c)** the summoning of witnesses;
+	- **(d)** the production and service of documents;
+	- **(e)** discovery proceedings; and
+	- **(f)** pre-hearing conferences.
+
+**RCMP**
+
+- **(3)** The Chairperson must consult with the Royal Canadian Mounted Police before making any rules and must ensure that the rules take that organization’s security and confidentiality needs into account.
+
+**Publication of proposed rules**
+
+- **(4)** A copy of each rule that the Chairperson proposes to make must be published in the Canada Gazette, and a reasonable opportunity must be given to interested persons to make representations with respect to it.
+
+**Exception**
+
+- **(5)** A proposed rule need not be published more than once, whether or not it has been amended as a result of any representations.
+> 2005, c. 46, s. 21; 2006, c. 9, s. 201.
+
+
+
+
+
+#### Applications by Commissioner
+
+
+
+**Assignment of member or members**
 
 **21.1** 
 
-- **(1)** A chief executive may temporarily assign other duties to a public servant who is involved in a disclosure or a complaint in respect of a reprisal if the chief executive believes on reasonable grounds that the public servant's involvement has become known in the public servant’s workplace and that the tempo­rary assignment is necessary to maintain the effective operation of the workplace.
+- **(1)** On receipt of an application made by the Commissioner under subsection 20.4(1) the Chairperson of the Tribunal must assign a member of the Tribunal to deal with the application, but the Chairperson may assign a panel of three members if he or she considers that the complexity of the matter requires that it be dealt with by three members. Every decision of the member or panel is a decision of the Tribunal.
 
-**Public servants who may be assigned other duties**
+**Chair of panel**
 
-- **(2)** For the purposes of this section, the public servants involved in a disclosure or a complaint in respect of a reprisal are
-	- **(a)** the public servant who made the disclosure and every public servant who is the subject of the disclosure;
-	- **(b)** the public servant who filed the complaint and every public servant who is alleged to have taken the reprisal to which the complaint relates; and
-	- **(c)** every public servant who is a witness or potential witness in the investigation, if any, relating to the disclosure or in any proceeding dealing with the complaint.
+- **(2)** If a panel of three members has been assigned, the Chairperson must designate one of them to chair the proceedings, but the Chairperson must chair the proceedings if he or she is a member of the panel.
+> 2005, c. 46, s. 21.1; 2006, c. 9, s. 201.
 
-**Duration**
 
-- **(3)** The assignment may be for a period of up to three months, but the chief executive may renew the assignment one or more times if he or she believes that the conditions giving rise to it continue to exist on the expiry of a previous period.
 
-**Duties**
 
-- **(4)** Subject to subsection (6), the duties that may be assigned must be in the same portion of the public sector in which the public servant is employed and must be comparable to the public servant's normal duties.
 
-**Consent**
+**Powers**
 
-- **(5)** Subsection (1) applies to a public servant who made a disclosure under this Act, or who is a witness or potential witness in any investigation relating to the disclosure or in any proceeding dealing with a complaint in respect of a reprisal, only if the public servant consents in writing to the assignment. The assignment is deemed not to be a reprisal if the public servant's consent is given.
+**21.2** 
 
-**Duties in other portion of the public service**
+- **(1)** The member or panel may
+	- **(a)** in the same manner and to the same extent as a superior court of record, summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath and to produce any documents and things that the member or panel considers necessary for the full hearing and consideration of the application;
+	- **(b)** administer oaths;
+	- **(c)** subject to subsection (2), receive and accept any evidence and other information, whether on oath or by affidavit or otherwise, that the member or panel sees fit, whether or not that evidence or information is or would be admissible in a court of law;
+	- **(d)** lengthen or shorten any time limit established by the rules of procedure; and
+	- **(e)** decide any procedural or evidentiary question.
 
-- **(6)** The public servant may be temporarily assigned duties in another portion of the public sector if both the chief executive of that other portion and the public servant consent to the assignment and the duties are comparable to the public servant's normal duties. The assignment is deemed not to be a reprisal if the public servant's consent is given.
+**Conciliators as witnesses**
+
+- **(2)** A conciliator appointed to settle the complaint is not a competent or compellable witness at a hearing.
+
+**Witness fees**
+
+- **(3)** Any person summoned to attend a hearing is entitled, at the discretion of the member or panel, to receive the same fees and allowances as those paid to persons summoned to attend before the Federal Court.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Hearing may be in camera**
+
+**21.3** A hearing before the Tribunal may be held *in camera* at the request of any party if the party establishes to the satisfaction of the Tribunal that the circumstances of the case so require.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Determination — paragraph 20.4(1)(a)**
+
+**21.4** 
+
+- **(1)** On application made by the Commissioner for an order referred to in paragraph 20.4(1)(a) the Tribunal must determine whether the complainant has been subject to a reprisal and, if it so determines, the Tribunal may make an order granting a remedy to the complainant.
+
+**Parties**
+
+- **(2)** The parties in respect of the application are the Commissioner and
+	- **(a)** the complainant;
+	- **(b)** if the complainant is a public servant, the complainant’s employer; and
+	- **(c)** if the complainant is a former public servant, the person or entity who was the complainant’s employer at the time the alleged reprisal was taken.
+
+**Addition of party**
+
+- **(3)** If the Tribunal is of the opinion that a person who has been identified as being a person who may have taken the alleged reprisal may be directly affected by a determination of the Tribunal, the Tribunal may add that person as a party.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Determination — paragraph 20.4(1)(b)**
+
+**21.5** 
+
+- **(1)** On application made by the Commissioner for the orders referred to in paragraph 20.4(1)(b) the Tribunal must determine whether the complainant has been subject to a reprisal and whether the person or persons identified by the Commissioner in the application as having taken the alleged reprisal actually took it. If it determines that a reprisal was taken, the Tribunal may, regardless of whether or not it has determined that the reprisal was taken by the person or persons named in the application, make an order granting a remedy to the complainant.
+
+**Parties**
+
+- **(2)** The parties in respect of proceedings held for the purpose of subsection (1) are the Commissioner and
+	- **(a)** the complainant;
+	- **(b)** if the complainant is a public servant, the complainant’s employer;
+	- **(c)** if the complainant is a former public servant, the person or entity who was the complainant’s employer at the time the alleged reprisal was taken; and
+	- **(d)** the person or persons identified in the application as being the person or persons who may have taken the alleged reprisal.
+
+**Reasons**
+
+- **(3)** The Tribunal must issue written reasons for its decisions under subsection (1) as soon as possible.
+
+**Order respecting disciplinary action**
+
+- **(4)** After issuing the reasons under subsection (3), the Tribunal may make an order respecting the disciplinary action to be taken against any person who was determined by it to have taken the reprisal.
+
+**Parties**
+
+- **(5)** The parties in respect of proceedings held for the purpose of subsection (4) are the Commissioner, the person against whom the disciplinary action would be taken and, for the purpose of making submissions regarding disciplinary action on behalf of the person or entity who would be required to implement the order if it were made, any person designated by the Tribunal.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Rights of parties**
+
+**21.6** 
+
+- **(1)** Every party must be given a full and ample opportunity to participate at any proceedings before the Tribunal — including, but not limited to, by appearing at any hearing, by presenting evidence and by making representations — and to be assisted or represented by counsel, or by any person, for that purpose.
+
+**Duty of Commissioner**
+
+- **(2)** The Commissioner must, in proceedings before the Tribunal, adopt the position that, in his or her opinion, is in the public interest having regard to the nature of the complaint.
+
+**Limitation — proceedings relating to remedy**
+
+- **(3)** With respect to the portions of proceedings that relate solely to the remedy, if any, to be ordered in favour of the complainant, the Tribunal may, despite subsection (1), limit the participation of any person or persons identified as being the person or persons who may have taken the alleged reprisal.
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Remedies**
+
+**21.7** 
+
+- **(1)** To provide an appropriate remedy to the complainant, the Tribunal may, by order, require the employer or the appropriate chief executive, or any person acting on their behalf, to take all necessary measures to
+	- **(a)** permit the complainant to return to his or her duties;
+	- **(b)** reinstate the complainant or pay compensation to the complainant in lieu of reinstatement if, in the Tribunal’s opinion, the relationship of trust between the parties cannot be restored;
+	- **(c)** pay to the complainant compensation in an amount not greater than the amount that, in the Tribunal’s opinion, is equivalent to the remuneration that would, but for the reprisal, have been paid to the complainant;
+	- **(d)** rescind any measure or action, including any disciplinary action, and pay compensation to the complainant in an amount not greater than the amount that, in the Tribunal’s opinion, is equivalent to any financial or other penalty imposed on the complainant;
+	- **(e)** pay to the complainant an amount equal to any expenses and any other financial losses incurred by the complainant as a direct result of the reprisal; or
+	- **(f)** compensate the complainant, by an amount of not more than $10,000, for any pain and suffering that the complainant experienced as a result of the reprisal.
+
+**[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
+
+- **(2)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 42(4) and (6), 45.16(7) and 45.26(6) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Disciplinary action**
+
+**21.8** 
+
+- **(1)** The Tribunal may, by order, require the Governor in Council, the employer or the appropriate chief executive, or any person acting on their behalf, to take all necessary measures to take the disciplinary action, including termination of employment or revocation of appointment, specified by the Tribunal against any person named in the application who was determined by it to have taken the reprisal.
+
+**Factors**
+
+- **(2)** In making the order the Tribunal must take into account the factors ordinarily considered by employers when they discipline their employees, including, but not limited to,
+	- **(a)** the gravity of the reprisal;
+	- **(b)** the level of responsibility inherent in the position that the person occupies;
+	- **(c)** the person’s previous employment record;
+	- **(d)** whether the reprisal was an isolated incident;
+	- **(e)** the person’s rehabilitative potential; and
+	- **(f)** the deterrent effect of the disciplinary action.
+
+**Additional factors**
+
+- **(3)** In making the order the Tribunal must also take into account
+	- **(a)** the extent to which the nature of the reprisal discourages the disclosure of wrongdoing under this Act; and
+	- **(b)** the extent to which inadequate disciplinary action in relation to the reprisal would have an adverse effect on confidence in public institutions.
+
+**Grievance precluded**
+
+- **(4)** The person against whom disciplinary action is taken as a result of an order made under subsection (1) may not initiate a grievance or other similar procedure under an Act of Parliament or a collective agreement in respect of the disciplinary action.
+
+**Restriction — RCMP**
+
+- **(5)** The disciplinary action that the Tribunal may order with respect to a member of the Royal Canadian Mounted Police is limited to a disciplinary action referred to in subsection 41(1), or a sanction referred to in subsection 45.12(3), of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), or any combination of them.
+
+**[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
+
+- **(6)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 42(4) and (6), 45.16(7) and 45.26(6) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+
+**[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
+
+- **(7)** An order made under subsection (1) in relation to a member of the Royal Canadian Mounted Police may be implemented by the Governor in Council or Commissioner of the Royal Canadian Mounted Police despite subsection 12(2) and Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201.
+
+
+
+
+
+**Filing of orders in Federal Court**
+
+**21.9** 
+
+- **(1)** The Commissioner must, on the request in writing of any person or employer affected by any order of the Tribunal, file a certified copy of the order, exclusive of the reasons for the order, in the Federal Court, unless, in his or her opinion,
+	- **(a)** there is no indication of failure or likelihood of failure to comply with the order; or
+	- **(b)** there is other good reason why the filing of the order in the Federal Court would serve no useful purpose.
+
+**Effect of filing**
+
+- **(2)** An order of the Tribunal becomes an order of the Federal Court when a certified copy of the order is filed in that court, and it may subsequently be enforced as such.
+> 2006, c. 9, s. 201.
+
 
 
 
@@ -474,14 +1057,17 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Duties**
 
 **22** The duties of the Commissioner under this Act are to
-- **(a)** provide advice to public servants who are considering making a disclosure under this Act;
+- **(a)** provide information and advice regarding the making of disclosures under this Act and the conduct of investigations by the Commissioner;
 - **(b)** receive, record and review disclosures of wrongdoings in order to establish whether there are sufficient grounds for further action;
 - **(c)** conduct investigations of disclosures made in accordance with section 13, and investigations referred to in section 33, including to appoint persons to conduct the investigations on his or her behalf;
 - **(d)** ensure that the right to procedural fairness and natural justice of all persons involved in investigations is respected, including persons making disclosures, witnesses and persons alleged to be responsible for wrongdoings;
 - **(e)** subject to any other Act of Parliament, protect, to the extent possible in accordance with the law, the identity of persons involved in the disclosure process, including that of persons making disclosures, witnesses and persons alleged to be responsible for wrongdoings;
 - **(f)** establish procedures for processing disclosures and ensure the confidentiality of information collected in relation to disclosures and investigations;
-- **(g)** review the results of investigations and report his or her findings to the persons who made the disclosures and to the appropriate chief executives; and
-- **(h)** make recommendations to chief executives concerning the measures to be taken to correct wrongdoings and review reports on measures taken by chief executives in response to those recommendations.
+- **(g)** review the results of investigations into disclosures and those commenced under section 33 and report his or her findings to the persons who made the disclosures and to the appropriate chief executives;
+- **(h)** make recommendations to chief executives concerning the measures to be taken to correct wrongdoings and review reports on measures taken by chief executives in response to those recommendations; and
+- **(i)** receive, review, investigate and otherwise deal with complaints made in respect of reprisals.
+> 2005, c. 46, s. 22; 2006, c. 9, s. 202.
+
 
 
 
@@ -503,20 +1089,23 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **24** 
 
-- **(1)** The Commissioner may refuse to deal with a disclosure or cease an investigation if he or she is of the opinion that
-	- **(a)** the subject-matter of the disclosure is one that could more appropriately be dealt with, initially or completely, according to a procedure provided for under another Act of Parliament;
-	- **(b)** the subject-matter of the disclosure is not sufficiently important or the disclosure is not made in good faith;
-	- **(c)** the length of time that has elapsed between the date when the subject-matter of the disclosure arose and the date when the disclosure was made is such that dealing with the disclosure would serve no useful purpose;
-	- **(d)** the disclosure relates to a matter that results from a balanced and informed decision-making process on a public policy issue; or
-	- **(e)** there is a valid reason for not dealing with the disclosure.
+- **(1)** The Commissioner may refuse to deal with a disclosure or to commence an investigation — and he or she may cease an investigation — if he or she is of the opinion that
+	- **(a)** the subject-matter of the disclosure or the investigation has been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under another Act of Parliament;
+	- **(b)** the subject-matter of the disclosure or the investigation is not sufficiently important;
+	- **(c)** the disclosure was not made in good faith or the information that led to the investigation under section 33 was not provided in good faith;
+	- **(d)** the length of time that has elapsed since the date when the subject-matter of the disclosure or the investigation arose is such that dealing with it would serve no useful purpose;
+	- **(e)** the subject-matter of the disclosure or the investigation relates to a matter that results from a balanced and informed decision-making process on a public policy issue; or
+	- **(f)** there is a valid reason for not dealing with the subject-matter of the disclosure or the investigation.
 
 **Adjudicative decisions**
 
-- **(2)** The Commissioner must refuse to deal with a disclosure or must cease an investigation if he or she is of the opinion that the subject-matter of the disclosure relates solely to a decision that was made in the exercise of an adjudicative function under an Act of Parliament, including a decision of the Commissioner of the Royal Canadian Mounted Police under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+- **(2)** The Commissioner must refuse to deal with a disclosure or to commence an investigation if he or she is of the opinion that the subject-matter of the disclosure or the investigation relates solely to a decision that was made in the exercise of an adjudicative function under an Act of Parliament, including a decision of the Commissioner of the Royal Canadian Mounted Police under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
 
-**Notice of refusal or cessation of investigation**
+**Notice of refusal**
 
-- **(3)** If the Commissioner refuses to deal with a disclosure or ceases an investigation under this Act, he or she must inform the person who made the disclosure and give reasons why he or she did so.
+- **(3)** If the Commissioner refuses to deal with a disclosure or to commence an investigation, he or she must inform the person who made the disclosure, or who provided the information referred to in section 33, as the case may be, and give reasons why he or she did so.
+> 2005, c. 46, s. 24; 2006, c. 9, s. 203.
+
 
 
 
@@ -525,19 +1114,77 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **25** 
 
-- **(1)** The Commissioner may delegate to any employee of the Office of the Public Sector Integrity Commissioner any of his or her powers and duties under this Act, except
+- **(1)** The Commissioner may delegate to any employee in the Office of the Public Sector Integrity Commissioner any of his or her powers and duties under this Act, except
 	- **(a)** the power to delegate under this section;
-	- **(b)** the duties in paragraphs 22(g) and (h) to review the result of investigations, to report findings and to make recommendations;
-	- **(c)** the power in section 24 to refuse to deal with a disclosure and the duty in that section to provide reasons for the refusal;
-	- **(d)** the power to issue, in the exercise of any powers referred to in subsection 29(1), a subpoena or other request or summons to appear before the Commissioner or a person appointed to conduct an investigation;
-	- **(e)** the power in section 33 to commence another investigation;
-	- **(f)** the power in section 34 to refer a matter to another authority;
-	- **(g)** the power in subsection 35(1) to remit information; and
-	- **(h)** the duty or power in any of sections 36 to 38 in relation to making a report.
+	- **(b)** the power to decide not to deal with a complaint filed under subsection 19.1(1);
+	- **(c)** the power in section 20.2 to approve or reject a settlement;
+	- **(d)** the power in section 20.4 to apply to the Tribunal;
+	- **(e)** the power in section 20.5 to dismiss a complaint;
+	- **(f)** the duties in paragraphs 22(g) and (h) to review the result of investigations, to report findings and to make recommendations;
+	- **(g)** the power in section 24 to refuse to deal with a disclosure or to commence an investigation, the power in that section to cease an investigation and the duty in that section to provide reasons;
+	- **(h)** the power to issue, in the exercise of any powers referred to in subsection 29(1), a subpoena or other request or summons to appear before the Commissioner or a person appointed to conduct an investigation;
+	- **(i)** the power in section 33 to commence an investigation;
+	- **(j)** the power in section 34 to refer a matter to another authority;
+	- **(k)** the power in subsection 35(1) to remit information;
+	- **(l)** the power to request that a chief executive provide notice as referred to in section 36; and
+	- **(m)** the power in section 37 and the power and duties in section 38 to make a report.
 
 **Restriction concerning certain investigations**
 
-- **(2)** The Commissioner may not delegate the conduct of any investigation that involves or may involve information relating to international relations, national defence, national security or the detection, prevention or suppression of criminal, subversive or hostile activities, except to one of a maximum of four officers or employees of the Office of the Public Sector Integrity Commissioner specifically designated by the Commissioner for the purpose of conducting those investigations.
+- **(2)** The Commissioner may not delegate the conduct of an investigation that involves or may involve information relating to international relations, national defence, national security or the detection, prevention or suppression of criminal, subversive or hostile activities, except to one of a maximum of four officers or employees of the Office of the Public Sector Integrity Commissioner specifically designated by the Commissioner for the purpose of conducting those investigations.
+> 2005, c. 46, s. 25; 2006, c. 9, s. 203.
+
+
+
+
+
+**Access to legal advice**
+
+**25.1** 
+
+- **(1)** The Commissioner may provide access to legal advice to
+	- **(a)** any public servant who is considering making a disclosure of wrongdoing under this Act;
+	- **(b)** any person who is not a public servant who is considering providing information to the Commissioner in relation to any act or omission that may constitute a wrongdoing under this Act;
+	- **(c)** any public servant who has made a disclosure under this Act;
+	- **(d)** any person who is or has been involved in any investigation conducted by a senior officer or by or on behalf of the Commissioner under this Act;
+	- **(e)** any public servant who is considering making a complaint under this Act regarding an alleged reprisal taken against him or her; or
+	- **(f)** any person who is or has been involved in a proceeding under this Act regarding an alleged reprisal.
+
+**Condition**
+
+- **(2)** The Commissioner may provide the access to legal advice only if the public servant or person satisfies the Commissioner that they do not have other access to legal advice at no cost to them.
+
+**Additional condition**
+
+- **(3)** In addition to the condition referred to in subsection (2), the Commissioner may provide access to legal advice to a public servant referred to in paragraph (1)(a) or a person referred to in paragraph (1)(b) only if the Commissioner is of the opinion that the act or omission to which the disclosure or the information relates, as the case may be, likely constitutes a wrongdoing under this Act and that the disclosure or the provision of the information is likely to lead to an investigation being conducted under this Act.
+
+**Maximum payment**
+
+- **(4)** The maximum amount that may be paid by the Commissioner under this section for legal advice provided or to be provided to any particular public servant or person in relation to any particular act or omission that may constitute a wrongdoing or reprisal is $1,500.
+
+**Maximum value**
+
+- **(5)** If, for the purpose of this section, the Commissioner chooses to provide access to legal advice to any particular public servant or person in relation to a particular act or omission that may constitute a wrongdoing or reprisal through legal counsel employed in his or her office, the monetary value of the time spent by them in providing the legal advice may not be more than $1,500.
+
+**Deemed amount**
+
+- **(6)** If the Commissioner is of the opinion that there are exceptional circumstances, the maximum amount provided for in subsections (4) and (5) is deemed to be $3,000.
+
+**Factors**
+
+- **(7)** In determining the amount to be paid for legal advice, or the monetary value of the time to be spent providing it, as the case may be, the Commissioner must take into account
+	- **(a)** the degree to which the public interest may be affected by the subject-matter of the disclosure or the information provided; and
+	- **(b)** the degree to which the public servant or person seeking the legal advice may be adversely affected as a result of his or her involvement in making the disclosure, providing the information, making the complaint or participating in the investigation or the proceeding, as the case may be.
+
+**Grants and contributions**
+
+- **(8)** For the purpose of providing access to legal advice under this section, the Commissioner may make grants or contributions in accordance with terms and conditions approved by the Treasury Board.
+
+**Solicitor-client basis**
+
+- **(9)** The relationship between the public servant or person to whom access to legal advice is provided under this section and the legal counsel providing the advice is that of solicitor and client.
+> 2006, c. 9, s. 203.
+
 
 
 
@@ -550,11 +1197,13 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **26** 
 
-- **(1)** Investigations under this Act are for the purpose of bringing the existence of wrongdoings to the attention of chief executives and making recommendations concerning corrective measures to be taken by them.
+- **(1)** Investigations into disclosures and investigations commenced under section 33 are for the purpose of bringing the existence of wrongdoings to the attention of chief executives and making recommendations concerning corrective measures to be taken by them.
 
 **Informality**
 
 - **(2)** The investigations are to be conducted as informally and expeditiously as possible.
+> 2005, c. 46, s. 26; 2006, c. 9, s. 204.
+
 
 
 
@@ -563,7 +1212,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **27** 
 
-- **(1)** When commencing an investigation under this Act, the Commissioner must notify the chief executive concerned and inform that chief executive of the substance of the disclosure to which the investigation relates.
+- **(1)** When commencing an investigation, the Commissioner must notify the chief executive concerned and inform that chief executive of the substance of the disclosure to which the investigation relates.
 
 **Notice to others**
 
@@ -571,7 +1220,9 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Opportunity to answer allegations**
 
-- **(3)** It is not necessary for the Commissioner to hold any hearing and no person is entitled as of right to be heard by the Commissioner, but if at any time during the course of an investigation under this Act it appears to the Commissioner that there may be sufficient grounds to make a report or recommendation that may adversely affect any individual or any portion of the public sector, the Commissioner must, before completing the investigation, take every reasonable measure to give to that individual or the chief executive responsible for that portion of the public sector a full and ample opportunity to answer any allegation, and to be assisted or represented by counsel, or by any person, for that purpose.
+- **(3)** It is not necessary for the Commissioner to hold any hearing and no person is entitled as of right to be heard by the Commissioner, but if at any time during the course of an investigation it appears to the Commissioner that there may be sufficient grounds to make a report or recommendation that may adversely affect any individual or any portion of the public sector, the Commissioner must, before completing the investigation, take every reasonable measure to give to that individual or the chief executive responsible for that portion of the public sector a full and ample opportunity to answer any allegation, and to be assisted or represented by counsel, or by any person, for that purpose.
+> 2005, c. 46, s. 27; 2006, c. 9, s. 205(E).
+
 
 
 
@@ -580,11 +1231,13 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **28** 
 
-- **(1)** If the Commissioner so requests, chief executives and public servants must provide him or her, or the person conducting an investigation, with any facilities, assistance, information and access to their respective offices that the Commissioner may require for the carrying out of his or her duties under this Act.
+- **(1)** If the Commissioner so requests for the purposes of an investigation, chief executives and public servants must provide him or her, or the person conducting the investigation, with any facilities, assistance, information and access to their respective offices that the Commissioner may require.
 
 **Application**
 
 - **(2)** Subsection (1) applies despite any restriction created by or under any other Act of Parliament on the disclosure of information.
+> 2005, c. 46, s. 28; 2006, c. 9, s. 206.
+
 
 
 
@@ -593,7 +1246,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **29** 
 
-- **(1)** In conducting any investigation under this Act, the Commissioner has all the powers of a commissioner under Part II of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+- **(1)** In conducting an investigation, the Commissioner has all the powers of a commissioner under Part II of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
 
 **Subpoenas, etc., and right to be represented**
 
@@ -602,6 +1255,8 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Notice before entering premises**
 
 - **(3)** Before entering the premises of any portion of the public sector in the exercise of any powers under subsection (1), the Commissioner must notify the chief executive of that portion of the public sector.
+> 2005, c. 46, s. 29; 2006, c. 9, s. 207.
+
 
 
 
@@ -676,48 +1331,98 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Request for notice of action**
 
-**36** In making a report to a chief executive in respect of an investigation under this Act, the Commissioner may, if he or she considers it appropriate to do so, request that the chief executive provide the Commissioner, within a time specified in the report, with notice of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken.
+**36** In making a report to a chief executive in respect of an investigation, the Commissioner may, if he or she considers it appropriate to do so, request that the chief executive provide the Commissioner, within a time specified in the report, with notice of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken.
+> 2005, c. 46, s. 36; 2006, c. 9, s. 208(E).
+
 
 
 
 
 **Report to appropriate Minister or governing council**
 
-**37** If the Commissioner considers it necessary, he or she may report a matter to the Minister responsible for the portion of the public sector concerned or, if the matter relates to a Crown corporation, to its board or governing council, including, but not limited to, when the Commissioner is of the opinion that
+**37** If the Commissioner considers it necessary, he or she may report any matter that arises out of an investigation to the Minister responsible for the portion of the public sector concerned or, if the matter relates to a Crown corporation, to its board or governing council, including, but not limited to, when the Commissioner is of the opinion that
 - **(a)** action has not been taken within a reasonable time in respect of one of his or her recommendations; and
 - **(b)** a situation that has come to his or her attention in the course of carrying out his or her duties exists that constitutes an imminent risk of a substantial and specific danger to the life, health or safety of persons, or to the environment.
+> 2005, c. 46, s. 37; 2006, c. 9, s. 209.
 
 
 
 
-**Preparation of report**
+
+**Annual report**
 
 **38** 
 
-- **(1)** Within three months after the end of each financial year, the Commissioner must prepare and submit to Parliament an annual report in respect of the activities of the Commissioner during that financial year.
+- **(1)** Within three months after the end of each financial year, the Commissioner must prepare an annual report in respect of the activities of the Commissioner during that financial year.
 
 **Content**
 
 - **(2)** The annual report must set out
 	- **(a)** the number of general inquiries relating to this Act;
-	- **(b)** the number of disclosures received and the number of those that were acted on and those that were not acted on;
+	- **(b)** the number of disclosures received and complaints made in relation to reprisals, and the number of them that were acted on and those that were not acted on;
 	- **(c)** the number of investigations commenced under this Act;
 	- **(d)** the number of recommendations that the Commissioner has made and their status;
+	- **(d.1)** in relation to complaints made in relation to reprisals, the number of settlements, applications to the Tribunal and decisions to dismiss them;
 	- **(e)** whether there are any systemic problems that give rise to wrongdoings;
 	- **(f)** any recommendations for improvement that the Commissioner considers appropriate; and
 	- **(g)** any other matter that the Commissioner considers necessary.
 
-**Special reports**
+**Special report**
 
-- **(3)** The Commissioner may, at any time, make a special report to Parliament referring to and commenting on any matter within the scope of his or her powers and duties under this Act if, in his or her opinion, the matter is of such urgency or importance that a report on it should not be deferred until the time provided for transmission of the annual report.
+- **(3)** The Commissioner may, at any time, prepare a special report referring to and commenting on any matter within the scope of his or her powers and duties under this Act if, in his or her opinion, the matter is of such urgency or importance that a report on it should not be deferred until the time provided for the submission of the annual report.
 
-**Transmission of reports**
+**Case report**
 
-- **(4)** Every report to Parliament made by the Commissioner shall be made by being transmitted to the Speaker of the Senate, and to the Speaker of the House of Commons, for tabling in those Houses.
+- **(3.1)** If the Commissioner makes a report to a chief executive in respect of an investigation into a disclosure or an investigation commenced under section 33 and there is a finding of wrongdoing in the report, the Commissioner must, within 60 days after making the report, prepare a case report setting out
+	- **(a)** the finding of wrongdoing;
+	- **(b)** the recommendations, if any, set out in the report made to the chief executive;
+	- **(c)** the time, if any, that was specified in the report to the chief executive for the chief executive to provide the notice referred to in section 36;
+	- **(d)** the Commissioner’s opinion as to whether the chief executive’s response to the report to the chief executive, up to that point in time, is satisfactory; and
+	- **(e)** the chief executive’s written comments, if any.
 
-**Reference to committee**
+**Opportunity to make representations**
 
-- **(5)** After it is transmitted for tabling, every report of the Commissioner stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the Commissioner’s reports.
+- **(3.2)** Before making a case report, the Commissioner must provide the chief executive with a reasonable opportunity to make written comments.
+
+**Tabling of report**
+
+- **(3.3)** Within the period referred to in subsection (1) for the annual report and the period referred to in subsection (3.1) for a case report, and at any time for a special report, the Commissioner shall submit the report to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides forthwith after receiving it or, if that House is not then sitting, on any of the first fifteen days on which that House is sitting after the Speaker receives it.
+
+**Referral to Committee**
+
+- **(4)** After it is tabled, every report the Commissioner stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the Commissioner’s reports.
+
+- **(5)** [Repealed, 2006, c. 9, s. 210]
+> 2005, c. 46, s. 38; 2006, c. 9, s. 210.
+
+
+
+
+
+**Report to Agency — disclosures under section 12**
+
+**38.1** 
+
+- **(1)** Within 60 days after the end of each financial year, each chief executive must prepare and submit to the Agency a report for that financial year on the activities, in the portion of the public sector for which the chief executive is responsible, respecting disclosures made under section 12.
+
+**Report to Minister — disclosures under section 12**
+
+- **(2)** Within six months after the end of each financial year, the President of the Agency must prepare and submit to the Minister a report for that financial year that provides an overview of the activities, throughout the public sector, respecting disclosures made under section 12.
+
+**Content**
+
+- **(3)** The report under subsection (2) must set out
+	- **(a)** the number of general inquiries relating to this Act;
+	- **(b)** the number of disclosures received, the number of those that were acted on and the number of those that were not acted on;
+	- **(c)** the number of investigations commenced as a result of disclosures made under section 12;
+	- **(d)** whether there are any systemic problems that give rise to wrongdoings; and
+	- **(e)** any other matter that the President of the Agency considers necessary.
+
+**Report to Parliament**
+
+- **(4)** The Minister must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report.
+> 2006, c. 9, s. 211.
+
 
 
 
@@ -734,19 +1439,21 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **39** 
 
-- **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Public Sector Integrity Commissioner after approval of the appointment by resolution of the Senate and House of Commons.
+- **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Public Sector Integrity Commissioner after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
-**Tenure of office and removal**
+**Tenure**
 
-- **(2)** Subject to this section, the Commissioner holds office during good behaviour for a term of seven years, but may be removed by the Governor in Council at any time on address of the Senate and House of Commons.
+- **(2)** Subject to this section, the Commissioner holds office during good behaviour for a term of seven years, but may be removed for cause by the Governor in Council at any time on address of the Senate and House of Commons.
 
 **Re-appointment**
 
 - **(3)** The Commissioner is eligible to be re-appointed for a further term of not more than seven years.
 
-**Absence or incapacity**
+**Interim appointment**
 
-- **(4)** In the event of the absence or incapacity of the Commissioner, or if the office of Commissioner is vacant, the Governor in Council may appoint another qualified person to hold office instead of the Commissioner for a term of not more than six months, and that person shall, while holding that office, have all of the powers, duties and functions of the Commissioner under this or any other Act of Parliament and be paid the salary or other remuneration and expenses that may be fixed by the Governor in Council.
+- **(4)** In the event of the absence or incapacity of the Commissioner, or if that office is vacant, the Governor in Council may appoint any qualified person to hold that office in the interim for a term not exceeding six months, and that person shall, while holding office, be paid the salary or other remuneration and expenses that may be fixed by the Governor in Council.
+> 2005, c. 46, s. 39; 2006, c. 9, s. 119.
+
 
 
 
@@ -793,11 +1500,21 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **39.3** 
 
-- **(1)** The officers and employees that are necessary to enable the Commissioner to perform his or her duties and functions are to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+- **(1)** The Deputy Commissioner and the officers and employees that are necessary to enable the Commissioner to perform his or her duties and functions are to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
+
+**Duties and powers of Deputy Commissioner**
+
+- **(1.1)** The Deputy Commissioner exercises any of the powers and performs any of the duties and functions that the Commissioner may assign.
+
+**Scope of assigned duties and functions**
+
+- **(1.2)** The assignment of powers, duties and functions by the Commissioner to the Deputy Commissioner may include the delegation to the Deputy Commissioner of any of the Commissioner’s powers, duties and functions, including those referred to in paragraphs 25(1)(a) to (k) and the powers in sections 36 and 37, but it may not include the delegation of the Commissioner’s power or any of his or her duties in section 38.
 
 **Technical assistance**
 
 - **(2)** The Commissioner may engage on a temporary basis the services of persons having technical or specialized knowledge of any matter relating to the Commissioner’s work to advise and assist the Commissioner in the performance of his or her duties and functions and, with the approval of the Treasury Board, may fix and pay the remuneration and expenses of those persons.
+> 2005, c. 46, s. 39.3; 2006, c. 9, s. 212.
+
 
 
 
@@ -806,9 +1523,15 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
+### General Prohibitions
+
+
+
 **False statements**
 
-**40** No person shall, in a disclosure of a wrongdoing or in the course of any investigation under this Act of a wrongdoing, knowingly make a false or misleading statement, either orally or in writing, to a supervisor, a senior officer, the Commissioner or a person acting on behalf of or under the direction of any of them.
+**40** No person shall, in a disclosure of a wrongdoing or in the course of any investigation under this Act, knowingly make a false or misleading statement, either orally or in writing, to a supervisor, a senior officer, the Commissioner or a person acting on behalf of or under the direction of any of them.
+> 2005, c. 46, s. 40; 2006, c. 9, s. 214(E).
+
 
 
 
@@ -827,6 +1550,72 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(b)** falsify the document or make a false document;
 - **(c)** conceal the document or thing; or
 - **(d)** direct, counsel or cause, in any manner, any person to do anything mentioned in any of paragraphs (a) to (c), or propose, in any manner, to any person that they do anything mentioned in any of those paragraphs.
+
+
+
+
+### Employers
+
+
+
+**Prohibition — employer**
+
+**42.1** 
+
+- **(1)** No employer shall take any of the following measures against an employee by reason only that the employee has, in good faith and on the basis of reasonable belief, provided information concerning an alleged wrongdoing in the public sector to the Commissioner or, if the alleged wrongdoing relates to the Office of the Public Sector Integrity Commissioner, to the Auditor General of Canada — or by reason only that the employer believes that the employee will do so:
+	- **(a)** take a disciplinary measure against the employee;
+	- **(b)** demote the employee;
+	- **(c)** terminate the employment of the employee;
+	- **(d)** take any measure that adversely affects the employment or working conditions of the employee; or
+	- **(e)** threaten to take any measure referred to in paragraphs (a) to (d).
+
+**Saving**
+
+- **(2)** Nothing in subsection (1) impairs any right of an employee either at law or under an employment contract or collective agreement.
+
+**Meaning of employer**
+
+- **(3)** For the purpose of subsection (1), ***employer*** does not include an employer in the public sector.
+> 2006, c. 9, s. 215.
+
+
+
+
+
+### Contracts
+
+
+
+**Prohibition — termination of contract or withholding of payments**
+
+**42.2** 
+
+- **(1)** A public servant or any person purporting to act on behalf of Her Majesty in right of Canada or a portion of the public sector shall not terminate any contract with Her Majesty in right of Canada or any portion of the public sector, or withhold any payment that is due and payable in respect of any such contract, by reason only that the other party to the contract or any of that other party’s employees has, in good faith and on the basis of reasonable belief, provided information concerning an alleged wrongdoing in the public sector to the Commissioner or, if the alleged wrongdoing relates to the Office of the Public Sector Integrity Commissioner, to the Auditor General of Canada.
+
+**Prohibition — entering into contract**
+
+- **(2)** A public servant or any person purporting to act on behalf of Her Majesty in right of Canada or a portion of the public sector shall not, in considering whether to enter into a contract with a person, take into account that the person or any of the person’s employees has, in the past, in good faith and on the basis of reasonable belief, provided information concerning an alleged wrongdoing in the public sector to the Commissioner or, if the alleged wrongdoing relates to the Office of the Public Sector Integrity Commissioner, to the Auditor General of Canada.
+
+**Meaning of contract**
+
+- **(3)** In this section, ***contract*** includes, but is not limited to, an agreement for the supply of goods or the provision of services, an agreement relating to real property or immoveables, a loan, a grant and a contribution, but does not include an agreement by a public servant, or by a person appointed by the Governor in Council or by a minister of the Crown, to perform the duties to which their employment or appointment relates.
+> 2006, c. 9, s. 215.
+
+
+
+
+
+## Offence
+
+
+
+**Offence and punishment**
+
+**42.3** Every person who knowingly contravenes section 19 or contravenes any of sections 40 to 42.2 commits an offence and is guilty of
+- **(a)** an indictable offence and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or to both that fine and that imprisonment; or
+- **(b)** an offence punishable on summary conviction and liable to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both that fine and that imprisonment.
+> 2006, c. 9, s. 215.
+
 
 
 
@@ -869,7 +1658,17 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Not compellable witness**
 
-**46** The Commissioner or any person acting on behalf of or under the direction of the Commissioner is not a competent or compellable witness in any proceedings, other than a prosecution for an offence under this Act, in respect of any matter coming to the knowledge of the Commissioner, or that person, as a result of performing any duties under this Act.
+**46** 
+
+- **(1)** The Commissioner or any person acting on behalf of or under the direction of the Commissioner is not a competent or compellable witness in any proceedings, other than a prosecution for an offence under this Act, in respect of any matter coming to the knowledge of the Commissioner, or that person, as a result of performing any duties under this Act.
+
+**Exceptions**
+
+- **(2)** Subsection (1) does not apply to
+	- **(a)** the Commissioner or any person acting on behalf of or under the direction of the Commissioner, with respect to the Commissioner’s participation in any proceedings before the Tribunal; or
+	- **(b)** a person designated as an investigator under section 19.7 with regard to his or her participation in the investigation for which he or she was so designated.
+> 2005, c. 46, s. 46; 2006, c. 9, s. 216.
+
 
 
 
@@ -898,7 +1697,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **49** 
 
-- **(1)** Subject to subsections (2) and (3), when referring any matter under section 34 or making a special or annual report under this Act, the Commissioner shall not disclose any information that the Government of Canada or any portion of the public sector is taking measures to protect, including, but not limited to, information that
+- **(1)** Subject to subsections (2) and (3), when referring any matter under section 34 or making a report under section 38, the Commissioner shall not disclose any information that the Government of Canada or any portion of the public sector is taking measures to protect, including, but not limited to, information that
 	- **(a)** is a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md) applies;
 	- **(b)** is subject to solicitor-client privilege;
 	- **(c)** is special operational information within the meaning of subsection 8(1) of the [Security of Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-5.md);
@@ -914,7 +1713,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Exception — disclosure necessary for referral or report**
 
 - **(3)** The Commissioner may disclose any information referred to in subsection (1) if, in his or her opinion,
-	- **(a)** the disclosure is necessary to refer any matter under section 34 or to establish the grounds for any finding or recommendation in a special or annual report under this Act; and
+	- **(a)** the disclosure is necessary to refer any matter under section 34 or to establish the grounds for any finding or recommendation in a report under section 38; and
 	- **(b)** the public interest in making the disclosure clearly outweighs the potential harm from the disclosure.
 
 **Compliance and consultation**
@@ -922,6 +1721,8 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 - **(4)** Before disclosing any information as permitted by subsection (3), the Commissioner must
 	- **(a)** comply with subsection 38.02(1.1) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md); and
 	- **(b)** except for information that only affects the privacy interests of an individual, consult with the organization that has a primary interest in the information.
+> 2005, c. 46, s. 49; 2006, c. 9, s. 217.
+
 
 
 
@@ -935,9 +1736,76 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Saving**
 
-**51** Subject to subsection 20(4), nothing in this Act is to be construed as prohibiting
-- **(a)** a person from presenting a grievance under section 91 of the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md); or
+**51** Subject to subsections 19.1(4) and 21.8(4), nothing in this Act is to be construed as prohibiting
+- **(a)** the presentation of an individual grievance under subsection 208(1) of the Public Service Labour Relations Act; or
 - **(b)** an adjudicator from considering a complaint under section 242 of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
+> 2005, c. 46, s. 51; 2006, c. 9, s. 218.
+
+
+
+
+
+**Power to temporarily assign other duties**
+
+**51.1** 
+
+- **(1)** A chief executive may temporarily assign other duties to a public servant who is involved in a disclosure or a complaint in respect of a reprisal if the chief executive believes on reasonable grounds that the public servant’s involvement has become known in the public servant’s workplace or that the temporary assignment is necessary to maintain the effective operation of the workplace.
+
+**Public servants who may be assigned other duties**
+
+- **(2)** For the purposes of this section, the public servants involved in a disclosure or a complaint in respect of a reprisal are
+	- **(a)** the public servant who made the disclosure and every public servant who is the subject of the disclosure;
+	- **(b)** the public servant who filed the complaint and every public servant who is alleged to have taken the reprisal to which the complaint relates; and
+	- **(c)** every public servant who is a witness or potential witness in the investigation, if any, relating to the disclosure or in any proceeding dealing with the complaint.
+
+**Duration**
+
+- **(3)** The assignment may be for a period of up to three months, but the chief executive may renew the assignment one or more times if he or she believes that the conditions giving rise to it continue to exist on the expiry of a previous period.
+
+**Duties**
+
+- **(4)** Subject to subsection (7), the duties that may be assigned must be in the same portion of the public sector in which the public servant is employed and must be comparable to the public servant’s normal duties.
+
+**Consent**
+
+- **(5)** Subsection (1) applies to a public servant, other than a public servant who is the subject of the disclosure or who is alleged to have taken the reprisal, as the case may be, only if the public servant consents in writing to the assignment. The assignment is deemed not to be a reprisal if the public servant’s consent is given.
+
+**Not disciplinary action**
+
+- **(6)** The assignment of other duties to a public servant who is the subject of the disclosure or who is alleged to have taken the reprisal, as the case may be, is deemed not to be a disciplinary action.
+
+**Duties in other portion of the public sector**
+
+- **(7)** A public servant may be temporarily assigned duties in another portion of the public sector if both the chief executive of that other portion and the public servant consent to the assignment and the duties are comparable to the public servant’s normal duties. The assignment is deemed not to be a reprisal or a disciplinary action if the public servant’s consent is given.
+> 2006, c. 9, s. 219.
+
+
+
+
+
+**Judicial review**
+
+**51.2** 
+
+- **(1)** For the purposes of section 18.1 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md),
+	- **(a)** a public servant who has made a disclosure to the Commissioner under section 13 is deemed to be directly affected by any report made by the Commissioner in relation to the disclosure;
+	- **(b)** a public servant or former public servant who files a complaint under subsection 19.1(1) is deemed to be directly affected by a decision of the Commissioner to refuse to deal with or to dismiss the complaint; and
+	- **(c)** a party to a proceeding before the Tribunal is deemed to be directly affected by a decision of the Tribunal in relation to that proceeding.
+
+**Rights of action**
+
+- **(2)** Nothing in this Act affects any right of action that a public servant may otherwise have in relation to any act or omission giving rise to a dispute that does not relate to his or her terms or conditions of employment.
+> 2006, c. 9, s. 219.
+
+
+
+
+
+**Authority to act for Commissioner of the Royal Canadian Mounted Police**
+
+**51.3** The Commissioner of the Royal Canadian Mounted Police may authorize a Deputy or Assistant Commissioner of the Royal Canadian Mounted Police to exercise the powers or perform the duties and functions of the Commissioner of the Royal Canadian Mounted Police as a chief executive in respect of section 11, subsection 19.4(2), paragraph 19.6(1)(b), subsections 19.8(1) and 19.9(1), paragraphs 22(g) and (h), subsections 26(1), 27(1) and (3), 28(1) and 29(3) and sections 36 and 50.
+> 2006, c. 9, s. 219.
+
 
 
 
@@ -979,11 +1847,13 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **54.1** 
 
-- **(1)** Each person employed in the Public Service Human Resources Management Agency of Canada in the administrative unit known as the Office of the Public Service Integrity Officer assumes, on the coming into force of this section, a position in the Office of the Public Sector Integrity Commissioner.
+- **(1)** Each person employed in the Agency in the administrative unit known as the Office of the Public Service Integrity Officer assumes, on the coming into force of this section, a position in the Office of the Public Sector Integrity Commissioner.
 
 **Status unchanged**
 
 - **(2)** Nothing in subsection (1) is to be construed as affecting the status of any person who assumes a position in the Office of the Public Sector Integrity Commissioner by reason of that subsection.
+> 2005, c. 46, s. 54.1; 2006, c. 9, s. 220.
+
 
 
 
@@ -1013,11 +1883,47 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
+**55.1** [Amendment]
+
+
+
 
 ### Canada Evidence Act
 
 
 **56** [Amendment]
+
+
+
+
+### [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)
+
+
+**56.1** [Amendment]
+
+
+
+
+### [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)
+
+
+**56.2** [Amendment]
+
+
+
+**56.3** [Amendment]
+
+
+
+**56.4** [Amendment]
+
+
+
+
+### [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md)
+
+
+**56.5** [Amendment]
 
 
 
@@ -1045,7 +1951,11 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 ## Coordinating Amendments
 
 
-**59** [Amendments]
+**59** 
+
+- **(1)** [Repealed, 2006, c. 9, s. 225]
+
+- **(2) and (3)** [Amendments]
 
 
 
