@@ -37,39 +37,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***communicable disease*** means a human disease that is caused by an infectious agent or a biological toxin and poses a risk of significant harm to public health, or a disease listed in the schedule, and includes an infectious agent that causes a communicable disease.
+***communicable disease*** means a human disease that is caused by an infectious agent or a biological toxin and poses a risk of significant harm to public health, or a disease listed in the schedule, and includes an infectious agent that causes a communicable disease. (*maladie transmissible*)
 
-***conveyance*** means a watercraft, aircraft, train, motor vehicle, trailer or other means of transportation, including a cargo container, that arrives in Canada or is in the process of departing from Canada.
+***conveyance*** means a watercraft, aircraft, train, motor vehicle, trailer or other means of transportation, including a cargo container, that arrives in Canada or is in the process of departing from Canada. (*véhicule*)
 
-***departure point*** means any point designated by the Minister under section 10.
+***departure point*** means any point designated by the Minister under section 10. (*point de sortie*)
 
-***entry point*** means a point designated by the Minister under section 9 or a point where a customs office, within the meaning of subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), is located.
+***entry point*** means a point designated by the Minister under section 9 or a point where a customs office, within the meaning of subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), is located. (*point d’entrée*)
 
-***health assessment*** means an evaluation of the relevant medical history and the travel history of a traveller and a physical examination, including an examination of the traveller’s head, neck and extremities and the measurement of vital signs such as the traveller’s temperature, heart rate and respiratory rate.
+***health assessment*** means an evaluation of the relevant medical history and the travel history of a traveller and a physical examination, including an examination of the traveller’s head, neck and extremities and the measurement of vital signs such as the traveller’s temperature, heart rate and respiratory rate. (*contrôle médical*)
 
-***medical examination*** includes ascertaining the relevant medical history and the travel history of the person being examined, the conduct of a physical examination and any laboratory tests or radiographic or diagnostic tests that are required to make a determination of whether the person might have a communicable disease.
+***medical examination*** includes ascertaining the relevant medical history and the travel history of the person being examined, the conduct of a physical examination and any laboratory tests or radiographic or diagnostic tests that are required to make a determination of whether the person might have a communicable disease. (*examen médical*)
 
-***medical practitioner*** means a person who is entitled to practise medicine by the laws of a province.
+***medical practitioner*** means a person who is entitled to practise medicine by the laws of a province. (*médecin*)
 
-***Minister*** means the Minister of Health.
+***Minister*** means the Minister of Health. (*ministre*)
 
-***operator*** means any person in charge of a conveyance, and includes the conveyance crew.
+***operator*** means any person in charge of a conveyance, and includes the conveyance crew. (*conducteur*)
 
-***owner***, other than in section 43, includes a lessee.
+***owner***, other than in section 43, includes a lessee. (*propriétaire*)
 
-***peace officer*** means a person referred to in paragraphs (c) and (g) of the definition “peace officer” in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***peace officer*** means a person referred to in paragraphs (c) and (g) of the definition peace officer in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*agent de la paix*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
 
-***quarantine facility*** means any place that is used for the detention of a traveller.
+***quarantine facility*** means any place that is used for the detention of a traveller. (*installation de quarantaine*)
 
-***quarantine station*** means any place that is used for the administration and enforcement of this Act.
+***quarantine station*** means any place that is used for the administration and enforcement of this Act. (*poste de quarantaine*)
 
-***screening officer*** means a person designated as a screening officer under subsection 5(1) or an officer within the meaning of subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***screening officer*** means a person designated as a screening officer under subsection 5(1) or an officer within the meaning of subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*agent de contrôle*)
 
-***traveller*** means a person, including the operator of a conveyance, who arrives in Canada or is in the process of departing from Canada.
+***traveller*** means a person, including the operator of a conveyance, who arrives in Canada or is in the process of departing from Canada. (*voyageur*)
 
-***vector*** means an insect or animal capable of transmitting a communicable disease.
+***vector*** means an insect or animal capable of transmitting a communicable disease. (*vecteur*)
 
 
 
@@ -432,7 +432,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Review by Minister**
 
-**30** The Minister may, on the Minister's own motion, review any decision of a quarantine officer to detain a traveller and, if the Minister is of the opinion that the traveller does not pose a risk of significant harm to public health, order the traveller's release.
+**30** The Minister may, on the Minister’s own motion, review any decision of a quarantine officer to detain a traveller and, if the Minister is of the opinion that the traveller does not pose a risk of significant harm to public health, order the traveller’s release.
 
 
 
@@ -498,7 +498,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(2)** The quarantine officer shall disclose to the provincial public health authority the following personal information regarding the traveller, to the extent that it is known:
 	- **(a)** the traveller’s name, sex, age and date of birth;
-	- **(b)** the traveller's itinerary, home address and location;
+	- **(b)** the traveller’s itinerary, home address and location;
 	- **(c)** the communicable disease in question and the state of the traveller’s health in respect of that disease; and
 	- **(d)** the manner in which the traveller may have acquired the communicable disease or vectors.
 
@@ -1244,7 +1244,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 <sup><a href='#Q-1.1_e_s.84'>[*]</a></sup>**84** The provisions of this Act, other than section 83, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='Q-1.1_e_s.84'><sup>*</sup></a>: [Note: Section 83 in force on assent May 13, 2005.]<br />
+<a name='Q-1.1_e_s.84'><sup>*</sup></a>: [Note: Act, other than section 34, and other than section 83 in force on assent May 13, 2005, in force December 12, 2006, *see* SI/2006-143.]<br />
 
 
 
