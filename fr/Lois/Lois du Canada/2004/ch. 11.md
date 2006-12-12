@@ -14,27 +14,27 @@ Sanctionnée sur le 22 avril 2004
 
 **Préambule**
 
-Attendu qu'il est nécessaire :
+Attendu qu’il est nécessaire :
 
 **a)** que le patrimoine documentaire du Canada soit préservé pour les générations présentes et futures;
 
 
 
-**b)** que le Canada se dote d'une institution qui soit une source de savoir permanent accessible à tous et qui contribue à l'épanouissement culturel, social et économique de la société libre et démocratique que constitue le Canada;
+**b)** que le Canada se dote d’une institution qui soit une source de savoir permanent accessible à tous et qui contribue à l’épanouissement culturel, social et économique de la société libre et démocratique que constitue le Canada;
 
 
 
-**c)** que cette institution puisse faciliter au Canada la concertation des divers milieux intéressés à l'acquisition, à la préservation et à la diffusion du savoir;
+**c)** que cette institution puisse faciliter au Canada la concertation des divers milieux intéressés à l’acquisition, à la préservation et à la diffusion du savoir;
 
 
 
-**d)** que cette institution soit la mémoire permanente de l'administration fédérale et de ses institutions,
+**d)** que cette institution soit la mémoire permanente de l’administration fédérale et de ses institutions,
 
 
 
 
 
-Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -58,23 +58,25 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 **Définitions**
 
-**2** Les définitions qui suivent s'appliquent à la présente loi.
+**2** Les définitions qui suivent s’appliquent à la présente loi.
 
-French version only***administrateur général*** L'administrateur général nommé au titre du paragraphe 5(1).
+French version only***administrateur général*** L’administrateur général nommé au titre du paragraphe 5(1).
 
-***document*** Éléments d'information, quel qu'en soit le support; la présente définition ne vise pas les publications.
+***document*** Éléments d’information, quel qu’en soit le support; la présente définition ne vise pas les publications.
 
-***document fédéral*** Document qui relève d'une institution fédérale.
+***document fédéral*** Document qui relève d’une institution fédérale.
 
-***document ministériel*** Document, afférent à sa qualité de ministre, d'un membre du Conseil privé de la Reine pour le Canada, à l'exclusion des documents personnels ou politiques et des documents fédéraux.
+***document ministériel*** Document, afférent à sa qualité de ministre, d’un membre du Conseil privé de la Reine pour le Canada, à l’exclusion des documents personnels ou politiques et des documents fédéraux.
 
-***institution fédérale*** Institution figurant à l'annexe I de la Loi sur l'accès à l'information ou à l'annexe de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) ou désignée par le gouverneur en conseil.
+***institution fédérale*** S’entend au sens de l’article 3 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), ou d’une institution désignée par le gouverneur en conseil.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l'application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
 
 ***patrimoine documentaire*** Les publications et les documents qui présentent un intérêt pour le Canada.
 
-***publication*** Article de bibliothèque mis à la disposition — quel que soit le média, la forme ou le support utilisé, notamment imprimé, enregistrement ou en ligne — du grand public ou d'un segment particulier du public, par abonnement ou autrement, en de multiples exemplaires ou à plusieurs endroits, à titre gratuit ou contre rémunération.
+***publication*** Article de bibliothèque mis à la disposition — quel que soit le média, la forme ou le support utilisé, notamment imprimé, enregistrement ou en ligne — du grand public ou d’un segment particulier du public, par abonnement ou autrement, en de multiples exemplaires ou à plusieurs endroits, à titre gratuit ou contre rémunération.
+> 2004, ch. 11, art. 2; 2006, ch. 9, art. 179.1.
+
 
 
 
@@ -294,6 +296,15 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
+**Recherches sur l’opinion publique**
+
+**15.1** Il incombe à tout ministère, au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de transmettre à l’administrateur général, dans les six mois suivant la fin de la collecte de données effectuée dans le cadre de toute recherche sur l’opinion publique réalisée à sa demande dans le cadre d’un marché et pour l’usage exclusif de Sa Majesté du chef du Canada, le rapport mentionné au paragraphe 40(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2006, ch. 9, art. 180.
+
+
+
+
+
 ## Loi sur les biens de surplus de la Couronne
 
 
@@ -385,7 +396,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi sur l'accès à l'information
+### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
 
 
 **22** [Modification]
@@ -401,7 +412,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi sur le droit d'auteur
+### [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md)
 
 
 **25** [Modification]
@@ -421,7 +432,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi sur la taxe d'accise
+### [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md)
 
 
 **28** [Modification]
@@ -449,7 +460,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi de l'impôt sur le revenu
+### [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)
 
 
 **32** [Modification]
@@ -457,7 +468,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi d'indemnisation des militaires ayant subi des blessures
+### [Loi d’indemnisation des militaires ayant subi des blessures](/fr/Lois/Lois%20du%20Canada/2003/ch.%2014.md)
 
 
 **33** [Modification]
@@ -465,7 +476,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi concernant l'Accord sur les revendications territoriales du Nunavut
+### [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md)
 
 
 **34** [Modification]
@@ -573,7 +584,7 @@ French version only***administrateur général*** L'administrateur général nom
 
 
 
-### Loi sur l'autonomie gouvernementale des premières nations du Yukon
+### [Loi sur l’autonomie gouvernementale des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2035.md)
 
 
 **51** [Modification]
