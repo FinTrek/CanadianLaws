@@ -155,9 +155,9 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 - **(3)** The President is eligible for reappointment on the expiration of his or her term of office.
 
-**Appointment of other directors**
+**Appointment of directors**
 
-- **(4)** The other directors are to be appointed by the Designated Minister, with the approval of the Governor in Council, for a term of no more than three years so as to ensure, as far as possible, the expiration in any one year of the terms of office of not more than half of the directors.
+- **(4)** The other directors are to be appointed by the Designated Minister, with the approval of the Governor in Council, for a term not exceeding four years that will ensure, as far as possible, the expiration in any one year of the terms of office of not more than half of the directors.
 
 **Acting directors**
 
@@ -171,7 +171,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(c)** a permanent resident, within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), who has been ordinarily resident in Canada for more than one year after first becoming eligible to apply for Canadian citizenship;
 	- **(d)** a member of the Senate or House of Commons or a member of the legislature of a province; or
 	- **(e)** employed in the public service of a province.
-> 1995, c. 28, s. 6; 2001, c. 27, s. 208.
+> 1995, c. 28, s. 6; 2001, c. 27, s. 208; 2006, c. 9, s. 229.
 
 
 
