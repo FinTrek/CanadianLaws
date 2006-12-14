@@ -46,13 +46,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***conseil*** Le conseil de direction de l’Agence, constitué par l’article 14.
 
 ***législation fiscale*** Tout ou partie d’une autre loi fédérale ou de ses textes d’application : 
-- **a) ** dont le ministre, l’Agence, le commissaire ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l’application, notamment la  [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), la  [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la  [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la  [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la  [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et la  [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+- **a)** dont le ministre, l’Agence, le commissaire ou un employé de l’Agence est autorisé par le Parlement ou le gouverneur en conseil à assurer ou contrôler l’application, notamment la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et la [Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre](/fr/Lois/Lois%20du%20Canada/2006/ch.%2013.md);
 - **b) ** en vertu desquels le ministre ou un autre ministre autorise l’Agence, le commissaire ou un employé de l’Agence à appliquer un programme ou à exercer une activité.
 
 ***législation fiscale et douanière***[Abrogée, 2005, ch. 38, art. 36]
 
 ***ministre*** Le ministre du Revenu national, nommé à titre amovible par commission sous le grand sceau.
-> 1999, ch. 17, art. 2; 2002, ch. 22, art. 322; 2005, ch. 38, art. 36 et 140.
+> 1999, ch. 17, art. 2; 2002, ch. 22, art. 322; 2005, ch. 38, art. 36 et 140; 2006, ch. 13, art. 120.
 
 
 
