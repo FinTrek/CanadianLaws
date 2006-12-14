@@ -39046,45 +39046,112 @@ jugés acceptables par le Directeur.
 ##### Interprétation
 
 
-**C.04.400** Dans le présent article et dans les articles C.04.401 à C.04.428,
+**C.04.400** Les définitions qui suivent s’appliquent au présent article et aux articles C.04.401 à C.04.423.
 
-***donneur*** désigne une personne qui donne du sang pour plasmaphérèse; (*donor*)
+***accident*** Événement imprévu qui n’est pas imputable à une inobservation des procédures du manufacturier ou des règles de droit applicables et qui peut compromettre la sécurité du donneur ou l’innocuité, l’efficacité ou la qualité du plasma. (*accident*)
 
-***plasma humain*** désigne la partie liquide du sang prélevée par plasmaphérèse et stabilisée pour empêcher la coagulation; (*human plasma*)
+***donneur*** Personne âgée d’au moins 17 ans qui a fourni son nom à un manufacturier en vue de participer à la plasmaphérèse avec celui-ci. (*donor*)
 
-***plasmaphérèse*** désigne le procédé comprenant
-- **a)** le prélèvement de sang d'un donneur,
-- **b)** la séparation du plasma des globules rouges, et
-- **c)** le retour des globules rouges au donneur; (*plasmapheresis*)
+***effet indésirable grave*** Réaction imprévue et indésirable du donneur relative à la plasmaphérèse ou à l’immunisation spécifique et qui entraîne chez lui l’une ou l’autre des conséquences suivantes :
+- **a)** son hospitalisation;
+- **b)** une incapacité persistante ou importante;
+- **c)** une intervention médicale ou chirurgicale visant à prévenir une incapacité persistante ou importante;
+- **d)** la mise en danger de sa vie;
+- **e)** sa mort. (*serious adverse reaction*)
 
-***praticien*** désigne une personne inscrite et autorisée à exercer la médecine selon les lois d'une province; (*practitioner*)
+***identificateur personnel*** Série unique de lettres, de chiffres ou de symboles, ou toute combinaison de ceux-ci, attribuée à un donneur par le manufacturier. (*personal identifier*)
 
-***suspension de globules rouges*** désigne des globules rouges en suspension dans une solution de chlorure de sodium, prélevés par plasmaphérèse et stabilisés contre la coagulation. (*red blood cell suspension*) 
-> DORS/78-545, art. 1; DORS/85-1022, art. 1.
+***identificateur unique*** Série unique de lettres, de chiffres ou de symboles, ou toute combinaison de ceux-ci, attribuée par le manufacturier au plasma destiné au fractionnement ou aux globules rouges qui seront utilisés pour l’immunisation spécifique. (*unique identifier*)
+
+***immunisation spécifique*** L’administration d’un immunogène à un donneur visant à induire la production d’anticorps précis dans son sang en vue de la plasmaphérèse. (*specific immunization*)
+
+***manquement*** Inobservation des procédures du manufacturier ou des règles de droit applicables pouvant compromettre la sécurité du donneur ou l’innocuité, l’efficacité ou la qualité du plasma. (*error*)
+
+***manufacturier*** Titulaire d’une licence d’établissement délivrée aux termes du présent règlement et l’autorisant à manufacturer du plasma destiné au fractionnement. (*fabricator*)
+
+***médecin*** Personne habilitée à exercer la médecine en vertu des lois de la province où cette personne fournit les soins médicaux relatifs à la plasmaphérèse ou à l’immunisation spécifique. (*physician*)
+
+***plasma destiné au fractionnement*** Plasma humain prélevé par plasmaphérèse et destiné à la fabrication de drogues pour usage humain. (*source plasma*)
+
+***plasmaphérèse*** Procédé comportant les étapes suivantes :
+- **a)** est prélevé, du donneur, du sang duquel est séparé le plasma;
+- **b)** les globules rouges et autres éléments figurés du sang sont retournés au donneur. (*plasmapheresis*)
+
+***séance de plasmaphérèse*** Rencontre entre le manufacturier et le donneur tenue dans le but de procéder à la plasmaphérèse chez celui-ci. (*plasmapheresis session*)
+
+***substitut*** Personne qui, à la fois :
+- **a)** agit sous la surveillance et la direction générales d’un médecin;
+- **b)** est autorisée à fournir les services pouvant être effectués par le substitut aux termes des articles C.04.401 à C.04.423 en vertu des lois applicables de la province où elle fournit ces services. (*physician substitute*)
+> DORS/78-545, art. 1; DORS/85-1022, art. 1; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Application
+##### Interdictions
 
 
-**C.04.401** Les articles C.04.402 à C.04.428 ne s'appliquent pas à la plasmaphérèse effectuée dans l'un ou l'autre des cas suivants :
-- **a)** le traitement d'un donneur;
-- **b)** l'obtention des composants sanguins devant être utilisés pour un seul receveur;
-- **c)** la recherche médicale;
-- **d)** la fabrication de sérums de groupage destinés à être utilisés dans un hôpital. 
-> DORS/78-545, art. 1; DORS/85-1022, art. 2.
+**C.04.401** Il est interdit à toute personne :
+- **a)** de vendre du plasma destiné au fractionnement à moins que celui-ci n’ait été manufacturé, analysé, emballé-étiqueté et entreposé conformément aux articles C.04.402 à C.04.423;
+- **b)** de fabriquer du plasma destiné au fractionnement à partir de sang prélevé d’une personne jugée inadmissible à participer à la plasmaphérèse au titre des articles C.04.402 à C.04.423.
+> DORS/78-545, art. 1; DORS/85-1022, art. 2; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Interdiction
+##### Responsabilité du manufacturier
 
 
-**C.04.402** Il est interdit de vendre ou de manufacturer du plasma humain ou de la suspension de globules rouges, sauf en conformité avec les articles C.04.403 à C.04.428.
-> DORS/78-545, art. 1; DORS/85-1022, art. 2; DORS/97-12, art. 47.
+**C.04.402** 
+
+- **(1)** Le manufacturier veille à ce que toute personne qui lui fournit des services relatifs à la plasmaphérèse ou à l’immunisation spécifique soit qualifiée de par son éducation ainsi que de par sa formation ou son expérience à fournir ces services.
+
+- **(2)** Le manufacturier veille à ce que les locaux utilisés pour la sélection des donneurs, la plasmaphérèse ou l’immunisation spécifique soient conçus, construits et entretenus de manière à permettre la communication de renseignements médicaux en toute confidentialité.
+> DORS/78-545, art. 1; DORS/85-1022, art. 2; DORS/97-12, art. 47; DORS/2006-353, art. 1.
+
+
+
+
+
+##### Consentement et évaluation préliminaire
+
+
+**C.04.403** 
+
+- **(1)** Le manufacturier ne peut procéder à la plasmaphérèse chez un donneur que si les conditions suivantes sont réunies :
+	- **a)** le manufacturier informe le donneur de ce en quoi consiste la plasmaphérèse, notamment des risques que celle-ci présente pour la santé du donneur, dont ceux associés au fait d’y participer plus d’une fois toutes les huit semaines;
+	- **b)** après avoir respecté l’alinéa a), il obtient de lui par écrit :
+		- **(i)** la confirmation que les renseignements mentionnés à l’alinéa a) lui ont été communiqués,
+		- **(ii)** un consentement éclairé à participer à la plasmaphérèse, donné conformément aux règles de droit régissant les consentements.
+
+- **(2)** Le manufacturier ne peut procéder à l’immunisation spécifique d’un donneur que si les conditions suivantes sont réunies :
+	- **a)** un médecin choisit l’immunogène à être administré et informe le donneur :
+		- **(i)** du nom et de la nature de l’immunogène choisi,
+		- **(ii)** de la fréquence envisagée des injections et du nombre maximal d’injections que celui-ci pourrait recevoir,
+		- **(iii)** de ce en quoi consiste l’immunisation spécifique, notamment des risques que celle-ci présente pour sa santé, dont ceux associés au fait de recevoir l’immunogène choisi;
+	- **b)** après avoir respecté l’alinéa a), il obtient de lui par écrit :
+		- **(i)** la confirmation que les renseignements mentionnés à l’alinéa a) lui ont été communiqués,
+		- **(ii)** un consentement éclairé à recevoir l’immunogène choisi, donné conformément aux règles de droit régissant les consentements.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
+
+
+
+
+**C.04.404** 
+
+- **(1)** Le manufacturier ne peut procéder à la plasmaphérèse ou à l’immunisation spécifique que si un médecin ou son substitut décide si le donneur est admissible à participer à la plasmaphérèse plus d’une fois toutes les huit semaines d’après ses antécédents médicaux et un examen médical.
+
+- **(2)** Si le donneur est jugé admissible, le manufacturier consigne les renseignements suivants :
+	- **a)** le fait que le donneur est admissible à participer à la plasmaphérèse plus d’une fois toutes les huit semaines;
+	- **b)** les nom et identificateur personnel du donneur;
+	- **c)** les nom et signature du médecin ayant pris la décision ou chargé de la surveillance du substitut qui l’a prise;
+	- **d)** la date de la décision.
+
+- **(3)** Le manufacturier ne peut procéder à la plasmaphérèse ou à l’immunisation spécifique si la dernière décision visée à l’alinéa (1) à l’égard du donneur a été prise au-delà des délais suivants :
+	- **a)** trente jours avant la date prévue pour sa première participation à la plasmaphérèse ou à l’immunisation spécifique;
+	- **b)** un an avant toute autre date prévue pour sa participation à la plasmaphérèse ou à l’immunisation spécifique.
+> DORS/78-545, art. 1; DORS/85-1022, art. 3; DORS/2006-353, art. 1.
 
 
 
@@ -39093,172 +39160,259 @@ jugés acceptables par le Directeur.
 ##### Immunisation spécifique
 
 
-**C.04.403** 
+**C.04.405** 
 
-- **(1)** Le praticien doit, avant de procéder à l'immunisation spécifique d'un donneur, pour des fins de plasmaphérèse,
-	- **a)** choisir l'antigène à injecter;
-	- **b)** établir le programme pour les injections de l'antigène; et
-	- **c)** informer le donneur
-		- **(i)** de la nature de la substance à injecter,
-		- **(ii)** du nombre maximal d'injections à faire,
-		- **(iii)** de la durée approximative du programme d'immunisation, et
-		- **(iv)** des dangers possibles.
+- **(1)** Seul le médecin ou son substitut peut administrer un immunogène à un donneur en vue de l’immunisation spécifique.
 
-- **(2)** Le praticien doit, au cours de chaque programme d'immunisation spécifique,
-	- **a)** évaluer la réponse clinique du donneur au programme; et
-	- **b)** injecter lui-même l'antigène ou surveiller l'injection de l'antigène par du personnel qualifié. 
-> DORS/78-545, art. 1.
+- **(2)** Le médecin surveille la réponse du donneur à l’immunogène pour décider si celui-ci peut continuer de recevoir l’immunisation spécifique.
+
+- **(3)** Le manufacturier s’abstient de procéder à l’immunisation spécifique du donneur qui ne peut continuer de la recevoir jusqu’à ce qu’un médecin décide que le donneur peut la recevoir de nouveau, soit avec le même immunogène, soit avec un autre.
+> DORS/78-545, art. 1; DORS/85-1022, art. 3; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Aptitude du donneur
-
-
-**C.04.404** 
-
-- **(1)** Le praticien doit, dans un délai de 30 jours avant d'effectuer sur un donneur un protocole opératoire dans le cours d'un programme de plasmaphérèse comportant le prélèvement de plasma à des intervalles de huit semaines ou moins,
-	- **a)** déterminer l'aptitude du donneur à le subir
-		- **(i)** en examinant les antécédents médicaux du donneur, et
-		- **(ii)** en effectuant les épreuves et examens physiques qu'il juge nécessaires; et
-	- **b)** s'il a établi, conformément à l'alinéa a), que le donneur est apte à subir la plasmaphérèse, signer un certificat à cet effet.
-
-- **(2)** Le paragraphe (1) ne s'applique pas dans les cas où le praticien signe un certificat visé à l'alinéa (1)b) dans la période de 12 mois qui précède la date de la plasmaphérèse.
-> DORS/78-545, art. 1; DORS/85-1022, art. 3.
-
-
-
-
-
-##### Plasmaphérèse
-
-
-**C.04.405** Le praticien doit, avant de commencer un programme de plasmaphérèse, informer le donneur des dangers du programme, y compris des risques de réaction hémolytique.
-> DORS/78-545, art. 1; DORS/85-1022, art. 3.
-
-
+##### Évaluation avant le prélèvement
 
 
 **C.04.406** 
 
-- **(1)** Le donneur qui a reçu un certificat signé prévu à l'article C.04.404 doit, le jour de la plasmaphérèse, être interrogé et évalué par un praticien ou, sous la surveillance d'un praticien, par une personne possédant la formation nécessaire à cette fin dans le but de s'assurer que le donneur est en bonne santé et, sans que soit limitée la portée générale de l'entrevue et de l'évaluation, que le donneur satisfait aux critères suivants :
-	- **a)** il n'a pas donné de sang entier dans les huit semaines précédentes;
-	- **b)** sa température est normale;
-	- **c)** il est exempt
-		- **(i)** d'infection, y compris de toute maladie infectieuse de la peau à l'emplacement d'une phlébotomie, et
-		- **(ii)** de toute maladie généralisée à un point tel qu'elle présente un risque de contamination du plasma humain;
-	- **d)** il est exempt de toute maladie transmissible par transfusion sanguine;
-	- **e)** il est exempt, sur les bras et avant-bras, de perforations ou de cicatrices indiquant la toxicomanie;
-	- **f)** sa pression sanguine est normale;
-	- **g)** il enregistre
-		- **(i)** une hémoglobinémie d'au moins 125 grammes par litre de sang dans le cas d'un donneur de sexe féminin ou de 135 grammes par litre de sang dans le cas d'un donneur de sexe masculin, ou
-		- **(ii)** une valeur d'hématocrite de 0,38 litre par litre de sang dans le cas d'un donneur de sexe féminin ou de 0,41 litre par litre de sang dans le cas d'un donneur de sexe masculin;
-	- **h)** ses protéines sériques totales sont d'au moins 60 grammes par litre de sérum;
-	- **i)** il pèse au moins 40 kilogrammes;
-	- **j)** il n'a pas d'antécédents d'hépatite virale;
-	- **k)** il n'a eu aucun contact étroit, dans les six derniers mois, avec une personne atteinte d'hépatite virale; et
-	- **l)** il n'a pas reçu, dans les six derniers mois, de sang humain ou un dérivé pouvant être une source d'hépatite virale, sauf dans le cas d'une immunisation spécifique exécutée conformément à l'article C.04.403.
+- **(1)** Au début de chaque séance de plasmaphérèse, le médecin ou son substitut décide si le donneur est admissible à participer à la plasmaphérèse.
 
-- **(2)** Par dérogation à l'alinéa (1)a), un donneur peut donner du plasma dans les huit semaines suivant un don de sang entier, s'il est examiné par un praticien et si ce dernier certifie que le donneur satisfait aux critères énoncés au paragraphe (1) et qu'il peut donner du plasma.
-> DORS/78-545, art. 1; DORS/85-1022, art. 3.
+- **(2)** Si le donneur est jugé temporairement inadmissible eu égard aux critères énumérés au tableau 1 ou pour toute autre raison médicale justifiant une telle décision, le manufacturier annule la séance et informe le donneur des motifs pour lesquels il est jugé temporairement inadmissible et de la date à laquelle il pourra continuer à participer à la plasmaphérèse.
+
+- **(3)** Si le donneur est jugé inadmissible pour une durée indéterminée eu égard aux critères d’exclusion énumérés au tableau 2 ou pour toute autre raison médicale justifiant une telle décision, le manufacturier annule la séance de plasmaphérèse et informe le donneur des motifs pour lesquels il est jugé inadmissible à participer à la plasmaphérèse pour une durée indéterminée.
+#### TABLEAU 1
+<table>
+<tr>
+<th>Article</th>
+<th>Critères</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Poids inférieur à 50 kg</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Température anormale</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Pression artérielle diastolique supérieure à 100 mmHg ou pression artérielle systolique supérieure à 180 mmHg</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Niveau d’hémoglobine inférieur à 125 g par litre de sang ou valeur hématocrite inférieure à 0,38 L par litre de sang</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Niveau total de protéines inférieur à 60 g par litre de sang</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Perte importante de sang</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Don antérieur de plasma ou d’autres composants sanguins</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Grossesse</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Antécédents d’interventions médicales ou chirurgicales</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Antécédents de convulsions nécessitant un traitement médical</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Faculté à répondre aux questions compromise par la consommation d’alcool ou de drogue</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Transfusion antérieure de sang, d’un composant sanguin ou d’un dérivé sanguin ou transplantation antérieure de cellules, de tissus ou d’organes autres que la dure-mère</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Infection de la peau à l’endroit où doit être pratiquée la phlébotomie</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Signe ou symptôme d’infection</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Risque d’une infection par le VIH, par le virus de l’hépatite B ou le virus de l’hépatite C compte tenu, entre autres, d’antécédents d’acupuncture, de perçage corporel, de tatouage, de piqûre accidentelle avec des aiguilles ou de relations sexuelles occasionnelles avec une personne présentant un risque d’être atteinte de l’une ou l’autre de ces infections</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Prise de médicaments, présente ou passée, présentant un risque pour les receveurs de produits fabriqués à partir de plasma destiné au fractionnement</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Réception d’un vaccin à virus vivant atténué</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Morsure d’animal nécessitant une prophylaxie contre la rage ou pour laquelle la nécessité d’une prophylaxie post-exposition n’a pas été évaluée</td>
+</tr>
+</table>
+
+#### TABLEAU 2
+<table>
+<tr>
+<th>Article</th>
+<th>Critères d’exclusion</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Fonction cardiovasculaire anormale ou cardiopathie grave ou chronique</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fonction respiratoire anormale ou maladie respiratoire grave ou chronique</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Trouble de saignement présentant, pour le donneur, un risque associé à la plasmaphérèse</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Maladie grave ou état pathologique du foie, des reins, d’un autre organe, d’un système ou du sang</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Protéines plasmatiques anormales persistantes, y compris des gammopathies monoclonales ou polyclonales</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Prise de médicaments, présente ou passée, présentant un risque continu pour les receveurs de produits fabriqués à partir de plasma destiné au fractionnement</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Antécédents d’évanouissements récurrents associés au don de sang ou de plasma</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Antécédents, signes ou symptômes d’abus de drogues injectables tels que traces de piqûres, cicatrices ou partage d’aiguilles pour l’injection de drogues</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Antécédents, signes ou symptômes du SIDA ou d’une infection par le VIH</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Risque d’une infection par le VIH compte tenu des pratiques sexuelles</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Antécédents, signes ou symptômes d’une infection chronique ou persistante ou d’une maladie parasitaire transmissible par le sang</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Antécédents, signes ou symptômes d’une hépatite autre que l’hépatite A</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Cancer, autre qu’un cancer de la peau non-mélanocytique ou qu’un cancer cervical in situ</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Facteur de risque pour la maladie de Creutzfeldt-Jakob ou sa variante parce que le donneur a, entre autres, reçu une transplantation de duremère ou subi un traitement avec une hormone pituitaire humaine</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Résultat positif à un essai visant à dépister tout agent de maladie transmissible</td>
+</tr>
+</table>
+
+> DORS/78-545, art. 1; DORS/85-1022, art. 3; DORS/2006-353, art. 1.
 
 
 
 
-**C.04.407** Le donneur qui semble être sous l'influence d'une drogue ou d'alcool ou qui, pour une raison quelconque, ne semble pas répondre d'une manière satisfaisante aux questions qui lui sont posées, n'est pas considéré comme un donneur apte.
-> DORS/78-545, art. 1; DORS/85-1022, art. 3.
+
+##### Composition en protéines plasmatiques
+
+
+**C.04.407** 
+
+- **(1)** Avant de procéder à la plasmaphérèse, le manufacturier prélève un échantillon du sang du donneur afin d’en déterminer la composition en protéines plasmatiques au moyen d’une électrophorèse des protéines sériques ou d’un essai équivalent.
+
+- **(2)** L’échantillon est prélevé dans les sept jours précédant la première séance de plasmaphérèse du donneur au cours de laquelle le manufacturier procède à la plasmaphérèse.
+
+- **(3)** S’il s’écoule vingt et un jours depuis le prélèvement de l’échantillon sans qu’un médecin n’examine les résultats de l’essai, le manufacturier ne peut procéder à la plasmaphérèse, et ce, jusqu’à ce qu’un médecin examine les résultats de l’essai.
+
+- **(4)** Si le médecin constate que la composition en protéines plasmatiques du sang du donneur ne se situe pas dans les limites normales, le manufacturier ne peut procéder à la plasmaphérèse, et ce, jusqu’à ce qu’un médecin constate le retour à la normale.
+
+- **(5)** Si aucun échantillon n’a été prélevé sur le donneur, comme l’exige le paragraphe (1), depuis plus de quatre mois, le manufacturier ne peut procéder à la plasmaphérèse, et ce, jusqu’à ce qu’un nouvel échantillon soit prélevé.
+> DORS/78-545, art. 1; DORS/85-1022, art. 3; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Présence d'un praticien
+##### Examen permanent des dossiers
 
 
-**C.04.408** La plasmaphérèse ne doit être exécutée que lorsqu'un praticien, dûment au fait du protocole opératoire, y assiste ou peut y assister dans les 10 minutes en cas de besoin.
-> DORS/78-545, art. 1; DORS/85-1022, art. 3.
+**C.04.408** 
 
+- **(1)** Le médecin décide si le donneur est admissible à continuer à participer à la plasmaphérèse plus d’une fois toutes les huit semaines d’après les résultats des essais et les dossiers de prélèvement du donneur recueillis par le manufacturier dans les quatre mois précédents.
 
+- **(2)** La décision est prise au moins tous les quatre mois suivant la date à laquelle le donneur a été jugé admissible pour la première fois au titre de l’article C.04.404.
 
+- **(3)** Si le donneur est jugé inadmissible à participer à la plasmaphérèse pour une durée temporaire, le manufacturier informe le donneur des motifs de son inadmissibilité temporaire et de la date à laquelle il pourra continuer à participer à la plasmaphérèse.
 
+- **(4)** Le manufacturier ne peut plus procéder à la plasmaphérèse si le donneur est jugé inadmissible à y participer pour une durée indéterminée; le cas échéant, il en informe le donneur, motifs à l’appui.
 
-##### Prévention de la contamination
-
-
-**C.04.409** 
-
-- **(1)** La peau d'un donneur doit, à l'emplacement d'une phlébotomie, être préparée minutieusement et avec soin selon une méthode qui garantit au maximum la stérilité du récipient contenant le sang.
-
-- **(2)** Le prélèvement du sang du donneur, la séparation du plasma humain et le retour de la suspension de globules rouges au donneur doivent être effectués au moyen de méthodes aseptiques en système de prélèvement stérile.
-
-- **(3)** Toutes les surfaces qui entrent en contact avec le sang ou le plasma humain doivent être à la fois stériles et apyrogènes.
-
-- **(4)** Le matériel et les déchets contaminés par du sang ou du plasma humain doivent être enlevés immédiatement après usage aux fins d'incinération ou de désinfection.
-
-- **(5)** Tout déversement de sang ou de plasma humain doit être traité comme une source éventuelle d'infection et la zone ainsi touchée doit être décontaminée immédiatement.
-> DORS/78-545, art. 1; DORS/85-1022, art. 4.
+- **(5)** En cas de manquement au paragraphe (2), le manufacturier ne peut procéder à la plasmaphérèse tant que la décision n’a pas été prise.
+> DORS/78-545, art. 1; DORS/85-1022, art. 3; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Échantillons
+##### Procédures de plasmaphérèse
+
+
+**C.04.409** Le manufacturier prend les mesures ci-après lors de la séance de plasmaphérèse :
+- **a)** il utilise des méthodes aseptiques et un système de prélèvement stérile homologué en vertu du [Règlement sur les instruments médicaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/282.md);
+- **b)** il veille à ce que toute surface destinée à entrer en contact avec le sang ou le plasma soit apyrogène;
+- **c)** il veille à ce que la peau du donneur, à l’endroit où doit être pratiquée la phlébotomie, soit, à la fois :
+	- **(i)** exempte de toute lésion, éruption cutanée ou autre source d’infection,
+	- **(ii)** nettoyée et désinfectée;
+- **d)** il veille à ce que du personnel médical d’urgence puisse procurer des soins médicaux au donneur en moins de dix minutes après avoir été avisé par le manufacturier.
+> DORS/78-545, art. 1; DORS/85-1022, art. 4; DORS/2006-353, art. 1.
+
+
+
+
+
+##### Quantité maximale et intervalle minimal
 
 
 **C.04.410** 
 
-- **(1)** Un échantillon de sang doit, dans les sept jours qui précèdent le jour de la première plasmaphérèse effectuée dans le cadre d'un programme de plasmaphérèse, et au moins tous les trois mois par la suite tant que le donneur participe au programme, être prélevé de chaque donneur
-	- **a)** par un praticien; ou
-	- **b)** sous la surveillance d'un praticien, par une personne possédant la formation nécessaire à cette fin.
+- **(1)** Le manufacturier ne peut prélever du donneur une quantité de plasma qui, sans comprendre la solution anticoagulante, excède les quantités totales suivantes :
+	- **a)** dans les cas où le poids du donneur est égal ou supérieur à 50 kg, mais inférieur à 68 kg :
+		- **(i)** 625 mL ou 640 g par séance de plasmaphérèse,
+		- **(ii)** 11,5 L pour l’ensemble des séances de plasmaphérèse au cours de la période précédente de six mois;
+	- **b)** dans les cas où le poids du donneur est égal ou supérieur à 68 kg, mais inférieur à 80 kg :
+		- **(i)** 750 mL ou 770 g par séance de plasmaphérèse,
+		- **(ii)** 15,5 L pour l’ensemble des séances de plasmaphérèse au cours de la période précédente de six mois;
+	- **c)** dans les cas où le poids du donneur est égal ou supérieur à 80 kg :
+		- **(i)** 800 mL ou 820 g par séance de plasmaphérèse,
+		- **(ii)** 18,5 L pour l’ensemble des séances de plasmaphérèse au cours de la période précédente de six mois.
 
-- **(2)** Chaque échantillon prélevé selon le paragraphe (1) doit être soumis
-	- **a)** à une épreuve de laboratoire pour la syphilis; et
-	- **b)** à une électrophorèse des protéines sériques, à une épreuve quantitative d'immunodiffusion ou à une autre épreuve effectuée selon une méthode acceptable servant à déterminer la composition protéique du sérum.
-	- **c)** [Abrogé, DORS/85-1022, art. 5]
-
-- **(3)** Les résultats des épreuves indiquées au paragraphe (2) doivent être examinés par un praticien dans les 14 jours du prélèvement d'un échantillon selon le paragraphe (1).
-
-- **(4)** Lorsque le résultat de l'épreuve visée à l'alinéa (2)a) est positif pour la syphilis, la plasmaphérèse ne doit plus être effectuée sur le donneur aussi longtemps que son sérum donne une réaction positive.
-
-- **(5)** Lorsque l'épreuve visée à l'alinéa (2)b) démontre que la composition en protéines plasmatiques d'un donneur ne se situe pas dans les limites normales, le donneur ne doit plus participer au programme de plasmaphérèse jusqu'au retour à la normale.
-> DORS/78-545, art. 1; DORS/85-1022, art. 5; DORS/95-203, art. 1.
-
-
-
-
-
-##### Révision
-
-
-**C.04.411** Toutes les données de laboratoire et tous les dossiers de prélèvement doivent être revus, au moins tous les trois mois durant un programme de plasmaphérèse, par un praticien afin d'établir si le donneur demeure apte à continuer le programme, et le praticien doit signer le compte-rendu.
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.412** Un donneur qui, à un moment quelconque, n'est plus reconnu apte à continuer un programme de plasmaphérèse doit aussitôt en être écarté.
-> DORS/78-545, art. 1.
-
-
-
-
-
-##### Système d'identification
-
-
-**C.04.413** 
-
-- **(1)** Le manufacturier de plasma humain doit établir un système permettant d'identifier de manière positive chaque donneur et de relier les dossiers et les données de laboratoire de chaque donneur directement au sang du donneur et à ses composants.
-
-- **(2)** Le système d'identification doit comprendre une photo du donneur destinée à confirmer son identité ou prévoir une autre méthode donnant la même certitude sur l'identité du donneur.
-> DORS/78-545, art. 1; DORS/97-12, art. 48.
-
-
-
-
-**C.04.414** Chaque récipient contenant du sang et du plasma humain doit être marqué ou identifié au moyen d'un numéro ou d'un symbole le rattachant directement au donneur.
-> DORS/78-545, art. 1; DORS/85-1022, art. 6.
+- **(2)** Le manufacturier se dote de procédures écrites exposant :
+	- **a)** la période minimale d’attente qu’un donneur doit respecter entre chaque don de plasma et entre un don de plasma et un don de sang ou d’autres composants sanguins;
+	- **b)** le nombre maximal de dons de plasma qu’un donneur peut faire au cours d’une période donnée.
+> DORS/78-545, art. 1; DORS/85-1022, art. 5; DORS/95-203, art. 1; DORS/2006-353, art. 1.
 
 
 
@@ -39267,116 +39421,62 @@ jugés acceptables par le Directeur.
 ##### Solution anticoagulante
 
 
-**C.04.415** Une solution anticoagulante apyrogène doit être utilisée dans chaque programme de plasmaphérèse et doit être préparée selon une des formules suivantes :
-- **a)** solution anticoagulante d'acide, citrate et dextrose (ACD)citrate trisodique (Na<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>,2H<sub>2</sub>O)22,0 g
+**C.04.411** 
 
-acide citrique (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>,H<sub>2</sub>O)8,0 g
+- **(1)** Au cours de la plasmaphérèse, le manufacturier mélange une solution anticoagulante avec le sang prélevé du donneur.
 
-dextrose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>,H<sub>2</sub>O)24,5 g
-
-eau pour injection (U.S.P.) pour faire1 000,0 mL
-
-
-- **b)** solution anticoagulante de citrate, phosphate et dextrose (CPD)citrate trisodique (Na<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>,2H<sub>2</sub>O)26,3 g
-
-acide citrique (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>,H<sub>2</sub>O)3,3 g
-
-dextrose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>,H<sub>2</sub>O)25,5 g
-
-phosphate de sodium monobasique (NaH<sub>2</sub>PO<sub>4</sub>,H<sub>2</sub>O)2,2 g
-
-eau pour injection (U.S.P.) pour faire1 000,0 mL
-
-
-- **c)** solution anticoagulante de citrate, phosphate, dextrose, adénine (CPDA-1)citrate trisodique (Na<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>,2H<sub>2</sub>O)26,3 g
-
-acide citrique (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>,H<sub>2</sub>O)3,3 g
-
-dextrose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>,H<sub>2</sub>O)31,9 g
-
-phosphate de sodium monobasique (NaH<sub>2</sub>PO<sub>4</sub>,H<sub>2</sub>O)2,2 g
-
-adénine (C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>)275,0 mg
-
-eau pour injection (U.S.P.) pour faire1 000,0 mL
-
-
-- **d)** solution anticoagulante de citrate de sodium (CS)citrate trisodique (Na<sub>3</sub>C<sub>6</sub>H<sub>5</sub>O<sub>7</sub>,2H<sub>2</sub>O)40,0 g
-
-eau pour injection (U.S.P.) pour faire1 000,0 mL
-
-
->  DORS/78-545, art. 1; DORS/85-1022, art. 6.
+- **(2)** La solution anticoagulante doit porter une identification numérique de drogue valide attribuée aux termes du présent règlement qui indique que la solution convient à la plasmaphérèse.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Limitations relatives à la plasmaphérèse
+##### Échantillons pour essais
 
 
-**C.04.416** 
+**C.04.412** 
 
-- **(1)** La quantité maximale de sang entier pouvant être prélevée en une fois chez un donneur par plasmaphérèse est de
-	- **a)** 9 mL par kilogramme de poids corporel dans les cas où le poids du donneur est égal ou supérieur à 40 kg mais d'au plus 50 kg;
-	- **b)** 500 mL dans les cas où le poids du donneur est supérieur à 50 kg mais d'au plus 80 kg;
-	- **c)** 600 mL dans les cas où le poids du donneur est supérieur à 80 kg.
+- **(1)** Au cours d’une séance de la plasmaphérèse, le manufacturier prélève un échantillon de sang ou de plasma de manière à ne pas contaminer l’échantillon ou le plasma destiné au fractionnement.
 
-- **(2)** La quantité maximale possible de suspension de globules rouges doit être retournée au donneur avant de lui prélever une autre unité de sang entier.
+- **(2)** Au moment de l’échantillonnage, le manufacturier étiquette clairement et de façon permanente le récipient contenant l’échantillon de sang ou de plasma avec l’identificateur unique assigné au plasma destiné au fractionnement.
 
-- **(3)** Si on ne peut remettre au donneur la suspension de globules rouges provenant du premier prélèvement de sang entier, aucun autre prélèvement de sang ne peut être fait avant trois mois.
-
-- **(4)** Le nombre maximal de prélèvements de plasma qui peuvent être effectués sur un donneur dans une période de 48 heures est de deux prélèvements.
-
-- **(5)** Le nombre maximal de prélèvements de plasma qui peuvent être effectués sur un donneur dans une période de sept jours est de quatre prélèvements.
-
-- **(6)** La quantité maximale de sang entier, sans comprendre l'anticoagulant, qui peut être prélevée par plasmaphérèse chez un donneur dans une période de six mois est de
-	- **a)** 19 L, dans les cas où le poids du donneur est inférieur à 50 kilogrammes;
-	- **b)** 26 L, dans les cas où le poids du donneur est égal ou supérieur à 50 kg mais d'au plus 80 kg;
-	- **c)** 31 L, dans les cas où le poids du donneur est supérieur à 80 kg.
-> DORS/78-545, art. 1; DORS/85-1022, art. 7.
+- **(3)** Le manufacturier veille à ce que la personne qui étiquette le récipient contenant l’échantillon soit la même qui étiquette le récipient contenant le plasma destiné au fractionnement au titre du paragraphe C.04.416(2).
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
 
 
 
 
+**C.04.413** 
 
-##### Prélèvement
+- **(1)** Le manufacturier soumet l’échantillon prélevé au titre de l’article C.04.412 à des essais visant à dépister les agents de maladie suivants :
+	- **a)** le VIH, types 1 et 2;
+	- **b)** le virus de l’hépatite B;
+	- **c)** le virus de l’hépatite C;
+	- **d)** la syphilis.
 
+- **(2)** Le manufacturier conserve tout plasma destiné au fractionnement prélevé lors de la séance de plasmaphérèse jusqu’à ce que tous les résultats des essais soient jugés négatifs ou non réactifs.
 
-**C.04.417** 
+- **(3)** Si le résultat d’un essai visant à dépister un agent de maladie énuméré au paragraphe (1) est positif ou réactif, le manufacturier prend les mesures suivantes :
+	- **a)** il étiquette clairement et de façon permanente le récipient contenant le plasma destiné au fractionnement prélevé lors de la séance de plasmaphérèse avec les renseignements suivants :
+		- **(i)** la mention « Précaution : Non destiné à la fabrication » ou « *Caution : Not for Manufacturing Use* »,
+		- **(ii)** le signal de danger pour les matières infectieuses prévu à l’annexe II du [Règlement sur les produits contrôlés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/88/66.md);
+	- **b)** il isole et élimine le plasma destiné au fractionnement.
 
-- **(1)** Tout le sang utilisé pour la préparation de plasma humain doit être prélevé sur un donneur
-	- **a)** par un praticien; ou
-	- **b)** sous la surveillance d'un praticien, par une personne connaissant la technique de prélèvement de sang.
+- **(4)** Si le résultat d’un essai visant à dépister l’agent de maladie pour la syphilis est positif ou réactif, le manufacturier ne peut procéder à la plasmaphérèse, et ce, jusqu’à ce qu’un essai subséquent démontre que le donneur n’est plus infecté par la syphilis et qu’un médecin décide que le donneur peut continuer à participer à la plasmaphérèse.
 
-- **(2)** Le plasma humain doit être séparé des globules rouges immédiatement après chaque prélèvement de sang.
-
-- **(3)** Le chlorure de sodium pour injection qui est utilisé pour retourner la suspension de globules rouges au donneur doit provenir d'un récipient n'ayant pas servi auparavant.
-> DORS/78-545, art. 1; DORS/85-1022, art. 8.
+- **(5)** Si le résultat d’un essai visant à dépister un agent de maladie énuméré au paragraphe (1), autre que la syphilis, est positif ou réactif, le manufacturier met fin à la plasmaphérèse du donneur et l’informe des motifs pour lesquels il est jugé inadmissible à participer à la plasmaphérèse pour une durée indéterminée.
+> DORS/78-545, art. 1; DORS/97-12, art. 48; DORS/2006-353, art. 1.
 
 
 
 
 
-#### Exigences générales
+##### Agent de conservation et additif
 
 
-
-##### Épreuve pour l'antigène d'hépatite B
-
-
-**C.04.418** Pour chaque unité de plasma humain l'épreuve de détection de l'antigène d'hépatite B, doit donner un résultat négatif, déterminé selon une méthode acceptable.
-> DORS/78-545, art. 1.
-
-
-
-
-
-##### Traitement
-
-
-**C.04.419** Par dérogation aux alinéas C.04.406j), k) et l) et à l'article C.04.418, la plasmaphérèse peut être pratiquée sur un donneur dont le plasma réagit à l'antigène de surface de l'hépatite B ou à son anticorps afin d'obtenir du plasma pour la fabrication de vaccin contre l'hépatite B, d'immunoglobuline contre l'hépatite B ou de réactifs pour le diagnostic *in vitro*, si le ministre y donne son autorisation expresse par écrit.
-> DORS/78-545, art. 1; DORS/85-1022, art. 9.
+**C.04.414** Il est interdit d’ajouter un agent de conservation ou un additif au plasma destiné au fractionnement.
+> DORS/78-545, art. 1; DORS/85-1022, art. 6; DORS/2006-353, art. 1.
 
 
 
@@ -39385,103 +39485,174 @@ eau pour injection (U.S.P.) pour faire1 000,0 mL
 ##### Récipients
 
 
+**C.04.415** Le manufacturier place le plasma destiné au fractionnement dans un récipient qui respecte les exigences suivantes :
+- **a)** il est homologué en vertu du Règlement sur les instruments médicaux et destiné au prélèvement et à l’entreposage de plasma;
+- **b)** il permet l’inspection visuelle, électronique ou automatisée du plasma;
+- **c)** il a été inspecté visuellement à la séance de plasmaphérèse et a été jugé intact;
+- **d)** il n’a pas servi à d’autres fins, dont celle d’avoir contenu du plasma destiné au fractionnement du même donneur.
+>  DORS/78-545, art. 1; DORS/85-1022, art. 6; DORS/2006-353, art. 1.
+
+
+
+
+
+##### Étiquetage
+
+
+**C.04.416** 
+
+- **(1)** Les articles C.01.004 et C.04.019 ne s’appliquent pas au plasma destiné au fractionnement.
+
+- **(2)** Le manufacturier étiquette clairement et de façon permanente le récipient utilisé pour contenir le plasma destiné au fractionnement avec les renseignements suivants :
+	- **a)** l’identificateur unique attribué au plasma destiné au fractionnement contenu dans le récipient;
+	- **b)** la mention « Plasma destiné au fractionnement » ou « *Source Plasma* »;
+	- **c)** la mention « Précaution : À utiliser uniquement pour la fabrication » ou « *Caution : For Manufacturing Use Only* »;
+	- **d)** la quantité de plasma destiné au fractionnement;
+	- **e)** le nom et la quantité totale de la solution anticoagulante utilisée au cours de la plasmaphérèse;
+	- **f)** la date limite d’utilisation du plasma destiné au fractionnement exprimée de façon claire et sans équivoque;
+	- **g)** sous réserve du paragraphe C.04.413(3), une mention indiquant que le plasma destiné au fractionnement ne réagit pas aux agents de maladie pour le VIH, le virus de l’hépatite B et le virus de l’hépatite C;
+	- **h)** si le plasma destiné au fractionnement est prélevé d’un donneur ayant reçu l’immunisation spécifique, une mention indiquant l’immunogène utilisé;
+	- **i)** les nom, adresse et numéro de licence d’établissement du manufacturier;
+	- **j)** une mention indiquant que le plasma destiné au fractionnement doit être conservé à une température de -20 °C ou moins.
+
+- **(3)** L’identificateur unique est ajouté sur l’étiquette du récipient au moment du prélèvement.
+> DORS/78-545, art. 1; DORS/85-1022, art. 7; DORS/2006-353, art. 1.
+
+
+
+
+
+##### Entreposage
+
+
+**C.04.417** 
+
+- **(1)** S’agissant de l’entreposage du plasma destiné au fractionnement, y compris dans le cadre de son transport, le manufacturier est tenu aux obligations suivantes :
+	- **a)** s’assurer que l’environnement soit conçu pour maintenir la température à -20 °C ou moins;
+	- **b)** veiller à ce que la température ambiante soit constamment à -20 °C ou moins.
+
+- **(2)** Dans le cas où la température ambiante s’élève à plus de -20 °C, le manufacturier note les renseignements suivants :
+	- **a)** une explication de la température élevée;
+	- **b)** le plasma destiné au fractionnement touché;
+	- **c)** la disposition finale du plasma destiné au fractionnement.
+
+- **(3)** Si la température ambiante s’élève entre -20 °C et +10 °C, le manufacturier étiquette clairement et de façon permanente le récipient contenant le plasma destiné au fractionnement avec la mention « Plasma destiné au fractionnement — recyclé » ou « *Source Plasma — Salvaged* ».
+
+- **(4)** Le paragraphe (3) ne s’applique pas dans les cas où la température ambiante s’élève entre -20 °C et -5 °C pour une seule période de moins de soixante-douze heures.
+
+- **(5)** Si la température ambiante s’élève à plus de +10 °C, le manufacturier élimine le plasma destiné au fractionnement.
+
+- **(6)** L’alinéa (1)b) et les paragraphes (2) à (5) ne s’appliquent pas à l’entreposage du plasma destiné au fractionnement dans le cadre de son transport, si celui-ci n’est pas effectué par le manufacturier.
+> DORS/78-545, art. 1; DORS/85-1022, art. 8; DORS/2006-353, art. 1.
+
+
+
+
+**C.04.418** 
+
+- **(1)** Le manufacturier inspecte chaque récipient contenant du plasma destiné au fractionnement pour vérifier son intégrité, l’intégrité de l’étiquette et la présence de signes de dégel du plasma destiné au fractionnement.
+
+- **(2)** Le manufacturier élimine le plasma destiné au fractionnement dans l’un ou l’autre des cas suivants :
+	- **a)** le récipient est défectueux ou endommagé au point de ne plus fournir de protection contre les facteurs externes pouvant entraîner la détérioration ou la contamination du plasma destiné au fractionnement;
+	- **b)** l’identificateur unique du plasma destiné au fractionnement manque ou est illisible;
+	- **c)** un des renseignements visés aux alinéas C.04.416(2)b) à i) manque ou est illisible, à moins qu’il ne puisse être obtenu et extrait des dossiers du manufacturier;
+	- **d)** le plasma destiné au fractionnement présente des signes de dégel.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
+
+
+
+
+
+##### Documents
+
+
+**C.04.419** 
+
+- **(1)** Le manufacturier utilise et maintient un système de gestion de documents en vertu duquel :
+	- **a)** il attribue un identificateur personnel à chaque donneur;
+	- **b)** il place, au dossier du donneur, une photo servant à confirmer son identité ou y prévoit un autre moyen fiable d’identification;
+	- **c)** il attribue un identificateur unique au plasma destiné au fractionnement à chaque séance de plasmaphérèse.
+
+- **(2)** Le système est organisé de manière à ce que le manufacturier puisse, à partir de l’identificateur personnel ou de l’identificateur unique, identifier le donneur et récupérer suffisamment de documents pour permettre la traçabilité et le retrait du plasma destiné au fractionnement.
+
+- **(3)** Le manufacturier conserve pour une période indéterminée les documents visés au paragraphe (2).
+> DORS/78-545, art. 1; DORS/85-1022, art. 9; DORS/2006-353, art. 1.
+
+
+
+
 **C.04.420** 
 
-- **(1)** Les récipients utilisés pour le plasma humain, qu'ils soient fixés intégralement au récipient d'origine ou qu'ils en soient séparés, ne doivent pas être utilisés par le manufacturier à d'autres fins que le remplissage avec du plasma humain.
+- **(1)** Pour chaque donneur, le manufacturier conserve les documents suivants :
+	- **a)** l’original ou une copie des confirmation et consentement visés aux alinéas C.04.403(1)b) et (2)b), le cas échéant;
+	- **b)** l’original ou une copie des décisions, examens médicaux, résultats des essais, rapports et avis écrits visés aux articles C.04.401 à C.04.423;
+	- **c)** pour chaque immunisation spécifique pratiquée chez le donneur par le manufacturier, un document indiquant :
+		- **(i)** les date et lieu de l’immunisation,
+		- **(ii)** le nom du médecin ou du substitut ayant administré l’immunogène,
+		- **(iii)** le nom de l’immunogène administré, le nom de son fabricant, la quantité utilisée, sa date limite d’utilisation et, soit ses numéro de lot et identification numérique de drogue, soit son identificateur unique s’il s’agit de globules rouges;
+	- **d)** pour chaque séance de plasmaphérèse avec le donneur, un document indiquant :
+		- **(i)** les date et lieu de la séance,
+		- **(ii)** le volume du plasma destiné au fractionnement prélevé,
+		- **(iii)** l’identificateur unique du plasma destiné au fractionnement,
+		- **(iv)** le volume de globules rouges prélevés qui ne lui a pas été retourné, notamment au cours de l’échantillonnage,
+		- **(v)** le nom de la solution anticoagulante utilisée, le nom de son fabricant et ses numéro de lot et identification numérique de drogue,
+		- **(vi)** le numéro de lot de tout récipient utilisé, le nom de son fabricant et sa date limite d’utilisation.
 
-- **(2)** Les récipients utilisés pour le plasma humain doivent être incolores et scellés hermétiquement et doivent permettre de voir clairement le contenu.
+- **(2)** Le manufacturier conserve un résumé de tout accident, manquement, effet indésirable grave et retrait de plasma destiné au fractionnement touchant le manufacturier.
 
-- **(3)** Les récipients et leurs composants utilisés pour le plasma humain ne doivent pas réagir avec le plasma, dans des conditions normales d'entreposage et d'utilisation, d'une manière qui peut affecter l'innocuité, la qualité, la pureté ou l'efficacité du plasma et doivent assurer une protection suffisante contre les facteurs externes pouvant entraîner sa détérioration ou sa contamination.
-
-- **(4)** Les récipients utilisés pour le plasma humain doivent, avant leur remplissage, être marqués ou identifiés par un numéro ou un autre symbole qui le rattachent directement au donneur.
-
-- **(5)** Les récipients utilisés pour le plasma humain prélevé sur un donneur visé à l'article C.04.419 doivent, après leur remplissage, être manipulés, entreposés et conditionnés séparément des autres récipients.
-> DORS/78-545, art. 1; DORS/85-1022, art. 10; DORS/97-12, art. 61.
-
-
-
-
-**C.04.421** Le plasma humain ne peut contenir d'agent de conservation.
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.422** Aucun récipient de plasma humain ne peut contenir plus d'un prélèvement de plasma humain.
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.423** Un récipient rempli de plasma humain doit être entreposé immédiatement à une température d'au moins -20 °C, à moins que le plasma humain ne soit destiné à la fabrication de réactifs.
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.424** Le plasma humain congelé doit être inspecté au moment de la vente et, s'il y a des signes de dégel, l'unité ne peut être vendue. 
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.425** Si des échantillons pilotes de plasma humain sont fournis, ils doivent se conformer aux normes suivantes :
-- **a)** tous les récipients des échantillons pilotes doivent, avant le remplissage, être marqués ou étiquetés de façon à les rattacher directement au donneur de l'unité de plasma;
-- **b)** tous les récipients des échantillons pilotes doivent être remplis au moment de la préparation du produit définitif;
-- **c)** tous les échantillons pilotes doivent être représentatifs du contenu du produit définitif; et
-- **d)** tous les échantillons pilotes doivent être prélevés de façon à ne pas contaminer le contenu du récipient.
-> DORS/78-545, art. 1.
-
-
-
-
-**C.04.426** 
-
-- **(1)** Les dispositions d'étiquetage indiquées aux articles C.01.004 et C.04.019 ne s'appliquent pas au plasma humain, ni à ses échantillons pilotes.
-
-- **(2)** En plus des exigences de l'alinéa C.04.414, les renseignements suivants doivent paraître sur l'étiquette apposée sur chaque récipient de plasma humain autre que le récipient de l'échantillon pilote :
-	- **a)** le nom propre du produit;
-	- **b)** les nom, adresse et numéro de licence d'établissement du distributeur visé à l'alinéa C.01A.003b);
-	- **c)** le numéro ou le symbole du donneur;
-	- **d)** la date de prélèvement du plasma;
-	- **e)** [Abrogé, DORS/85-1022, art. 11]
-	- **f)** la mention : « Conservé à au moins -20 °C » ou la température d'entreposage appropriée lorsque le plasma humain est destiné à la fabrication de réactifs;
-	- **g)** une déclaration indiquant si le plasma a été prélevé sur des donneurs normaux ou des donneurs ayant subi l'immunisation spécifique;
-	- **h)** l'antigène immunisant, s'il y a lieu;
-	- **i)** le volume ou le poids total du plasma;
-	- **j)** la quantité totale et le genre d'anticoagulant utilisé dans la technique de plasmaphérèse; et
-	- **k)** l'épreuve utilisée pour la détection de l'antigène d'hépatite B et les résultats obtenus.
-
-- **(3)** L'étiquette de chaque récipient utilisé pour le plasma humain prélevé conformément à l'article C.04.419 doit porter des mentions clairement visibles indiquant que le produit peut transmettre l'hépatite virale et qu'il ne doit être utilisé qu'à des fins de fabrication.
-> DORS/78-545, art. 1; DORS/85-1022, art. 11; DORS/97-12, art. 49.
+- **(3)** Le manufacturier conserve les données de température notées conformément au paragraphe C.04.417(2).
+> DORS/78-545, art. 1; DORS/85-1022, art. 10; DORS/97-12, art. 61; DORS/2006-353, art. 1.
 
 
 
 
 
-##### Responsabilité de fabrication
+##### Renseignements pour le ministre
+
+
+**C.04.421** 
+
+- **(1)** Le manufacturier avise le ministre de tout effet indésirable grave dans les délais suivants :
+	- **a)** dans les vingt-quatre heures du moment où il en prend connaissance dans le cas d’un décès;
+	- **b)** dans les quinze jours du moment où il en prend connaissance dans les autres cas.
+
+- **(2)** Le manufacturier fournit au ministre un rapport écrit concernant l’effet indésirable grave dans les vingt-quatre heures de l’avis donné conformément au paragraphe (1) si celui-ci a été donné verbalement.
+
+- **(3)** L’avis, s’il a été donné par écrit, ou le rapport écrit comprend la description de l’effet indésirable grave et de toute mesure corrective prise à la suite de sa survenance.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
+
+
+
+
+**C.04.422** S’il retire du plasma destiné au fractionnement pour une raison qui a trait à la sécurité d’un produit, le manufacturier en avise le ministre par écrit en indiquant les motifs de retrait, le nombre d’unités touchées et le lieu d’où ces unités ont été retirées.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
+
+
+
+
+**C.04.423** Afin de prévenir les risques pour la santé ou la sécurité des donneurs ou des receveurs de produits fabriqués à partir du plasma destiné au fractionnement, le manufacturier fournit au ministre, à la demande de celui-ci, une copie de tout document concernant la plasmaphérèse, l’immunisation spécifique ou le plasma destiné au fractionnement qu’il doit tenir en vertu des articles C.04.401 à C.04.422.
+> DORS/78-545, art. 1; DORS/2006-353, art. 1.
+
+
+
+
+**C.04.424** [Abrogé, DORS/2006-353, art. 1]
+
+
+
+**C.04.425** [Abrogé, DORS/2006-353, art. 1]
+
+
+
+**C.04.426** [Abrogé, DORS/2006-353, art. 1]
+
 
 
 **C.04.427** [Abrogé, DORS/97-12, art. 50]
 
 
 
-
-##### Dossiers
-
-
-**C.04.428** 
-
-- **(1)** En plus des exigences générales relatives à la tenue des dossiers selon le présent titre, un manufacturier de plasma humain doit conserver pour chaque donneur
-	- **a)** un dossier du programme d'immunisation spécifique réalisé pour les fins de la plasmaphérèse, s'il y a lieu; et
-	- **b)** un dossier complet de
-		- **(i)** tous les examens, évaluations et révisions exigés par les articles C.04.404, C.04.406, C.04.407 et C.04.411,
-		- **(ii)** toutes les épreuves effectuées, et
-		- **(iii)** toutes les entrevues réalisées.
-
-- **(2)** Chaque dossier de donneur doit indiquer un renvoi aux unités de plasma humain qui proviennent du donneur.
-> DORS/78-545, art. 1; DORS/85-1022, art. 13; DORS/97-12, art. 61.
-
+**C.04.428** [Abrogé, DORS/2006-353, art. 1]
 
 
 
