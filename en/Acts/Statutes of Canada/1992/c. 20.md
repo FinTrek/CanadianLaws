@@ -1968,9 +1968,11 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Prohibition orders re vehicles, etc.**
 
-**109** The Board may, on application, cancel or vary the unexpired portion of a prohibition order made under subsection 259(1) or (2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) after a period of
+**109** The Board may, on application, cancel or vary the unexpired portion of a prohibition order made under section 259 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) after a period of
 - **(a)** ten years after the commencement of the order, in the case of a prohibition for life; or
 - **(b)** five years after the commencement of the order, in the case of a prohibition for more than five years but less than life.
+> 1992, c. 20, s. 109; 2006, c. 14, s. 8
+
 
 
 
