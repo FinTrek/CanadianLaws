@@ -1353,7 +1353,7 @@
 
 **34** 
 
-- **(1)** Les ordres et les injonctions ministériels peuvent être assimilés à des ordonnances d'une cour supérieure; le cas échéant, leur exécution s'effectue selon les mêmes modalités.
+- **(1)** Les ordres et les injonctions ministériels peuvent être assimilés à des ordonnances de la Cour fédérale ou d’une cour supérieure; le cas échéant, leur exécution s’effectue selon les mêmes modalités.
 
 **Ordre d’un inspecteur**
 
@@ -1370,7 +1370,7 @@
 **Faculté d’exécution**
 
 - **(5)** Le ministre a toujours la faculté de faire exécuter lui-même ses ordres ou injonctions, même après leur assimilation.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26.
 
 
 
