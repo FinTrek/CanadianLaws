@@ -3241,10 +3241,10 @@ où :
 
 
 
-**Décision définitive et sans appel**
+**Décision définitive**
 
-**105** La décision rendue par la Cour canadienne de l’impôt en vertu de l’article 103 est définitive et sans appel; elle peut cependant faire l’objet d’une demande de contrôle judiciaire aux termes de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
-> 1996, ch. 23, art. 105; 2002, ch. 8, art. 182.
+**105** La décision rendue par la Cour canadienne de l’impôt en vertu de l’article 103 est définitive. Elle est cependant susceptible d’appel en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 1996, ch. 23, art. 105; 2002, ch. 8, art. 182; 2006, ch. 11, art. 19.
 
 
 
