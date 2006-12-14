@@ -1806,9 +1806,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Annulation ou modification d’une ordonnance**
 
-**109** La Commission peut, sur demande, annuler ou modifier en cours d’exécution toute ordonnance d’interdiction rendue aux termes du paragraphe 259(1) ou (2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), après une période :
+**109** La Commission peut, sur demande, annuler ou modifier en cours d’exécution toute ordonnance d’interdiction rendue aux termes de l’article 259 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), après une période :
 - **a)** de dix ans à compter du début de l’interdiction, dans le cas où celle-ci est perpétuelle;
 - **b)** de cinq ans à compter du début de l’interdiction, dans le cas où celle-ci est imposée pour une période de plus de cinq ans sans être perpétuelle.
+> 1992, ch. 20, art. 109; 2006, ch. 14, art. 8
+
 
 
 
