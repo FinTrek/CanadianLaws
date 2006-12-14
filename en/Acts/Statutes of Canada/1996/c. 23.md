@@ -3251,9 +3251,8 @@ is evidence of the statements contained in the affidavit.
 
 **Decision final**
 
-**105** The decision of the Tax Court of Canada under section 103 is final and, except for judicial review under the 
-[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
-> 1996, c. 23, s. 105; 2002, c. 8, s. 182.
+**105** The decision of the Tax Court of Canada under section 103 is final and, except for an appeal under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
+> 1996, c. 23, s. 105; 2002, c. 8, s. 182; 2006, c. 11, s. 19.
 
 
 
