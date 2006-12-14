@@ -1501,7 +1501,7 @@ the Minister may
 
 **34** 
 
-- **(1)** An order or emergency directive made by the Minister may be made an order of any superior court and shall be enforced in the same manner as an order of the court.
+- **(1)** An order or emergency directive made by the Minister may be made an order of the Federal Court or any superior court and shall be enforced in the same manner as an order of the court.
 
 **Orders of railway safety inspectors**
 
@@ -1518,7 +1518,7 @@ the Minister may
 **Option to enforce**
 
 - **(5)** The Minister may, before or after an order or emergency directive is made an order of a court pursuant to this section, enforce the order or directive by the Minister’s own action.
-> R.S., 1985, c. 32 (4th Supp.), s. 34; 2002, c. 8, s. 168.
+> R.S., 1985, c. 32 (4th Supp.), s. 34; 2002, c. 8, s. 168; 2006, c. 11, s. 26.
 
 
 
