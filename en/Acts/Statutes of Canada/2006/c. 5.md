@@ -242,9 +242,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **16** The following definitions apply in sections 17 to 19.
 
-***former agency*** means the portion of the federal public administration known as the Public Health Agency of Canada.
+***former agency*** means the portion of the federal public administration known as the Public Health Agency of Canada. (*ancienne agence*)
 
-***new agency*** means the Public Health Agency of Canada established under section 3.
+***new agency*** means the Public Health Agency of Canada established under section 3. (*nouvelle agence*)
 
 
 
@@ -342,6 +342,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#P-29.5_EN_24'>[*]</a></sup>**24** This Act, other than section 23, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='P-29.5_EN_24'><sup>*</sup></a>: [Note: Section 23 in force on assent December 12, 2006.]<br />
+<a name='P-29.5_EN_24'><sup>*</sup></a>: [Note: Section 23 in force on assent December 12, 2006; Act, other than section 23, in force December 15, 2006, *see* SI/2006-145.]<br />
 
 
