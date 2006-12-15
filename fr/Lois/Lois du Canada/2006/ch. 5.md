@@ -244,9 +244,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** Les définitions qui suivent s’appliquent aux articles 17 à 19.
 
-***ancienne agence*** Le secteur de l’administration publique fédérale appelé l’Agence de la santé publique du Canada.
+***ancienne agence*** Le secteur de l’administration publique fédérale appelé l’Agence de la santé publique du Canada. (*former agency*)
 
-***nouvelle agence*** L’Agence de la santé publique du Canada constituée par l’article 3.
+***nouvelle agence*** L’Agence de la santé publique du Canada constituée par l’article 3. (*new agency*)
 
 
 
@@ -344,6 +344,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_IndE2E_hq_1842'>[*]</a></sup>**24** La présente loi, à l’exception de l’article 23, entre en vigueur à la date fixée par décret.
 
-<a name='nbp_IndE2E_hq_1842'><sup>*</sup></a>: [Note : Article 23 en vigueur à la sanction le 12 décembre 2006]<br />
+<a name='nbp_IndE2E_hq_1842'><sup>*</sup></a>: [Note : Article 23 en vigueur à la sanction le 12 décembre 2006; loi, à l’exception de l’article 23, en vigueur le 15 décembre 2006, *voir* TR/2006-145.]<br />
 
 
