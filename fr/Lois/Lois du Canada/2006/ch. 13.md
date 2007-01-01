@@ -2600,7 +2600,7 @@ où :
 
 - <sup><a href='#S-12.55_f_s126'>[*]</a></sup>**(2)** Le paragraphe 12(3) entre en vigueur à la date fixée par décret.
 
-<a name='S-12.55_f_s126'><sup>*</sup></a>: [Note : Paragraphe 12(3) non en vigueur.]<br />
+<a name='S-12.55_f_s126'><sup>*</sup></a>: [Note : Paragraphe 12(3) en vigueur le 1<sup>er</sup> janvier 2007, *voir* TR/2007-1.]<br />
 
 **Article 64**
 
