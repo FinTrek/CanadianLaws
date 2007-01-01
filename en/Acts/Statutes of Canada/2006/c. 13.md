@@ -2650,7 +2650,7 @@ where
 
 - <sup><a href='#S-12.55_e_s126'>[*]</a></sup>**(2)** Subsection 12(3) comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='S-12.55_e_s126'><sup>*</sup></a>: [Note: Subsection 12(3) not in force.]<br />
+<a name='S-12.55_e_s126'><sup>*</sup></a>: [Note: Subsection 12(3) in force January 1, 2007, *see* SI/2007-1.]<br />
 
 **Section 64**
 
