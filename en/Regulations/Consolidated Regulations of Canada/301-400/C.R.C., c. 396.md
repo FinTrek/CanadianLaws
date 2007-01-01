@@ -619,9 +619,11 @@ determined by dividing the amount of the said duties or taxes to be paid out of 
 
 **34** For the purposes of subsection 2(4) of the Act, the following employment as a member of the Canadian Forces is excepted employment for the purposes of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md):
 - **(a)** employment on or after January 1, 1966, as a member of the Canadian Forces to whom the [Defence Services Pension Continuation Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20D-3.md) applies; and
-- **(b)** employment on or after January 1, 1966, as an officer or man in the reserve forces or the reserve force to whom the Queen’s Regulations and Orders for the Canadian Forces apply, other than employment
+- **(b)** employment in the reserve force as defined in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) from January 1, 1966 to December 31, 2006, other than employment
 	- **(i)** on Continuous Duty or Class “C” Reserve Service, or
 	- **(ii)** in excess of 30 days on Special Duty or Class “B” Reserve Service.
+> SOR/2007-2, s. 1.
+
 
 
 
