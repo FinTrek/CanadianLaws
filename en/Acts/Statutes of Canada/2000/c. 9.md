@@ -7452,20 +7452,18 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(1)** The financial agent of a registered association shall, for each fiscal period of the association, provide to the Chief Electoral Officer
 	- **(a)** a financial transactions return, substantially in the prescribed form, on the association’s financial transactions;
-	- **(b)** the auditor’s report on the financial transactions return, if one is required under subsection 403.37(1);
-	- **(c)** a declaration in the prescribed form by the financial agent that the financial transactions return is complete and accurate; and
-	- **(d)** any statements and declarations provided to the financial agent by virtue of paragraph 405.3(2)(c) and subsection 405.3(4).
+	- **(b)** the auditor’s report on the financial transactions return, if one is required under subsection 403.37(1); and
+	- **(c)** a declaration in the prescribed form by the financial agent that the financial transactions return is complete and accurate.
+	- **(d)** [Repealed, 2006, c. 9, s. 41]
 
 **Contents of return**
 
 - **(2)** A financial transactions return must set out
-	- **(a)** a statement of contributions received by the registered association from the following classes of contributor: individuals, corporations, trade unions and associations referred to in subsection 405.3(3);
-	- **(b)** the number of contributors in each class listed in paragraph (a);
-	- **(b.1)** in the case of a contributor that is an association referred to in subsection 405.3(3),
-		- **(i)** the name and address of the association, the amount of its contribution and the date on which it was received by the registered association, and
-		- **(ii)** the name and address of each individual whose money forms part of the contribution, the amount of money provided by that individual that is included in the contribution and the date on which it was provided to the association;
-	- **(c)** the name and address of each other contributor in a class listed in paragraph (a) who made contributions of a total amount of more than $200 to the registered association, that total amount, as well as the amount of each such contribution and the date on which it was received by the association;
-	- **(d)** in the case of a numbered company that is a contributor referred to in paragraph (c), the name of the chief executive officer or president of that company;
+	- **(a)** a statement of contributions received by the registered association;
+	- **(b)** the number of contributors;
+	- **(b.1)** [Repealed, 2006, c. 9, s. 41]
+	- **(c)** the name and address of each contributor who made contributions of a total amount of more than $200 to the registered association, that total amount, as well as the amount of each such contribution and the date on which it was received by the association;
+	- **(d)** [Repealed, 2006, c. 9, s. 41]
 	- **(e)** a statement of the registered association’s assets and liabilities and any surplus or deficit in accordance with generally accepted accounting principles, including a statement of
 		- **(i)** disputed claims under section 403.33, and
 		- **(ii)** unpaid claims that are, or may be, the subject of an application referred to in subsection 403.31(1) or section 403.32;
@@ -7483,7 +7481,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Period for providing documents**
 
 - **(4)** The financial agent of a registered association shall provide the documents referred to in subsection (1) within five months after the end of the fiscal period.
-> 2003, c. 19, s. 23.
+> 2003, c. 19, s. 23; 2006, c. 9, s. 41.
 
 
 
@@ -7491,10 +7489,8 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **When contributions forwarded to Receiver General**
 
-**403.36** The financial agent of a registered association shall, without delay, pay an amount of money equal to the value of a contribution received by the association to the Chief Electoral Officer who shall forward it to the Receiver General, if
-- **(a)** the financial agent cannot determine to which of the classes listed in paragraph 403.35(2)(a) the contributor belongs; or
-- **(b)** the name of the contributor of a contribution of more than $25, the name or the address of the contributor having made contributions of a total amount of more than $200 or the name of the chief executive officer or president of a contributor referred to in paragraph 403.35(2)(d) is not known.
-> 2003, c. 19, s. 23.
+**403.36** The financial agent of a registered association shall, without delay, pay an amount of money equal to the value of a contribution received by the association to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $20, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
+> 2003, c. 19, s. 23; 2006, c. 9, s. 42.
 
 
 
@@ -7661,50 +7657,7 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 
 
-
-**Contributions at electoral district level**
-
-**404.1** 
-
-- **(1)** Despite subsection 404(1), contributions may be made by a corporation or a trade union that do not exceed
-	- **(a)** $1,000 in total in any calendar year to the registered associations, nomination contestants and candidates of a particular registered party; and
-	- **(b)** $1,000 in total to a candidate for a particular election who is not the candidate of a registered party.
-
-**If two elections in a year**
-
-- **(1.1)** Despite paragraph (1)(a), if two elections are held in an electoral district in a calendar year and a corporation or trade union has, before the polling day of the first election, made a contribution under that paragraph to the registered association, the nomination contestants or the candidate of a particular registered party in that electoral district, the corporation or trade union may make contributions not exceeding $1,000 in total to the registered association, the nomination contestants and the candidate of the registered party in that electoral district during the election period for the second election.
-
-**Applicable in one electoral district only**
-
-- **(1.2)** A corporation or trade union may make contributions under subsection (1.1) in respect of the registered association, the nomination contestants and the candidate of any particular registered party in only one electoral district in any calendar year.
-
-**If contribution made to unsuccessful nomination contestant**
-
-- **(1.3)** Despite paragraph (1)(a), if a corporation or trade union has in any calendar year made a contribution under that paragraph to an individual who is a nomination contestant in an electoral district in a nomination contest held in that year but who is not endorsed by the registered party as its candidate, the corporation or trade union may during that year make contributions not exceeding $1,000 in total to the endorsed candidate after he or she is endorsed.
-
-**Restrictions**
-
-- **(1.4)** A corporation or trade union may make contributions under subsection (1.3) in respect of the candidate of any particular registered party in respect of only one election and in only one electoral district in any calendar year.
-
-**Definitions**
-
-- **(2)** The following definitions apply in this section.
-
-***corporation*** means a corporation together with
-- **(a)** any other corporation controlled, directly or indirectly in any manner whatever, by the corporation; and
-- **(b)** any other corporation that is controlled by the same person or group of persons that controls the corporation, directly or indirectly in any manner whatever.
-
-***trade union*** means any organization of employees — the purposes of which include the regulation of relations between employers and employees — together with all of its branches or locals.
-
-**Ineligible contributors**
-
-- **(3)** The following are not eligible to make a contribution under subsection (1):
-	- **(a)** a corporation that does not carry on business in Canada;
-	- **(b)** a trade union that does not hold bargaining rights for employees in Canada;
-	- **(c)** a Crown corporation as defined in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
-	- **(d)** a corporation in respect of which the Government of Canada contributes more than 50% of its funding.
-> 2003, c. 19, s. 24.
-
+**404.1** [Repealed, 2006, c. 9, s. 43]
 
 
 
@@ -7730,18 +7683,20 @@ The applicant shall notify the Chief Electoral Officer of the application.
 	- **(b)** from a nomination contestant of a registered party to the party, the registered association of the party that held the nomination contest or the official agent of the candidate endorsed by the party in the electoral district in which the nomination contest was held; or
 	- **(c)** from a registered party to a leadership contestant with funds from a directed contribution referred to in subsection 404.3(3).
 
-**Exception**
-
-- **(4)** A registered association, a nomination contestant or a candidate of a registered party may not transfer to the party any amount received in accordance with section 404.1 or 405.3.
+- **(4)** [Repealed, 2006, c. 9, s. 44]
 
 **Exception**
 
-- **(5)** The provision, by an employer who is eligible to make a contribution, of a paid leave of absence during an election period to an employee for the purpose of allowing the employee to be a nomination contestant or candidate is not a contribution.
+- **(5)** The provision, by an employer, of a paid leave of absence during an election period to an employee for the purpose of allowing the employee to be a nomination contestant or candidate is not a contribution.
 
 **Exception**
 
 - **(6)** The payment by an individual during a year of fees of not more than $25 per year in relation to a period of not more than 5 years for membership in a registered party is not a contribution.
-> 2003, c. 19, s. 24.
+
+**Contribution**
+
+- **(7)** For greater certainty, the payment by or on behalf of an individual of fees to attend an annual, biennial or leadership convention of a particular registered party is a contribution to that party.
+> 2003, c. 19, s. 24; 2006, c. 9, s. 44.
 
 
 
@@ -7774,16 +7729,16 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 **404.4** 
 
-- **(1)** Any person who is authorized to accept contributions on behalf of a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant shall issue a receipt — of which he or she shall keep a copy — for each contribution of more than $25 that he or she accepts.
+- **(1)** Any person who is authorized to accept contributions on behalf of a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant shall issue a receipt — of which he or she shall keep a copy — for each contribution of more than $20 that he or she accepts.
 
 **Record keeping**
 
-- **(2)** Where anonymous contributions of $25 or less per person are collected in response to a general solicitation at a meeting or fundraising event related to the affairs of a registered party, a registered association, a candidate, a leadership contestant, or a nomination contestant, the person authorized to accept those contributions must record the following:
+- **(2)** If anonymous contributions of $20 or less per person are collected in response to a general solicitation at a meeting or fundraising event related to the affairs of a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant, the person authorized to accept those contributions must record the following:
 	- **(a)** a description of the function at which the contributions were collected;
 	- **(b)** the date of the function;
 	- **(c)** the approximate number of people at the function; and
 	- **(d)** the total amount of anonymous contributions accepted.
-> 2003, c. 19, s. 24.
+> 2003, c. 19, s. 24; 2006, c. 9, s. 45.
 
 
 
@@ -7794,9 +7749,10 @@ The applicant shall notify the Chief Electoral Officer of the application.
 **405** 
 
 - **(1)** No individual shall make contributions that exceed
-	- **(a)** $5,000 in total in any calendar year to a particular registered party and its registered associations, nomination contestants and candidates;
-	- **(b)** $5,000 in total to a candidate for a particular election who is not the candidate of a registered party; and
-	- **(c)** $5,000 in total to the leadership contestants in a particular leadership contest.
+	- **(a)** $1,000 in total in any calendar year to a particular registered party;
+	- **(a.1)** $1,000 in total in any calendar year to the registered associations, nomination contestants and candidates of a particular registered party;
+	- **(b)** $1,000 in total to a candidate for a particular election who is not the candidate of a registered party; and
+	- **(c)** $1,000 in total to the leadership contestants in a particular leadership contest.
 
 **Exception**
 
@@ -7804,19 +7760,19 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 **Attribution of certain contributions**
 
-- **(3)** For the purposes of subsection (1), a contribution to a person who presents himself or herself as seeking the endorsement of a particular registered party shall be treated as a contribution referred to in paragraph (1)(a) to a candidate of that party and a contribution to a person who presents himself or herself as seeking to be a candidate not endorsed by any registered party shall be treated as a contribution referred to in paragraph (1)(b).
+- **(3)** For the purposes of subsection (1), a contribution to a person who presents himself or herself as seeking the endorsement of a particular registered party shall be treated as a contribution referred to in paragraph (1)(a.1) to a candidate of that party and a contribution to a person who presents himself or herself as seeking to be a candidate not endorsed by any registered party shall be treated as a contribution referred to in paragraph (1)(b).
 
 **Exception — certain contributions to own campaign**
 
 - **(4)** The following contributions shall not be taken into account in calculating contributions for the purposes of subsection (1):
-	- **(a)** contributions that do not exceed $5,000 in total by a nomination contestant or candidate of a registered party out of his or her own funds to his or her own campaign as a nomination contestant or candidate;
-	- **(b)** contributions that do not exceed $5,000 in total by a candidate for a particular election who is not the candidate of a registered party out of his or her own funds to his or her own campaign; and
-	- **(c)** contributions that do not exceed $5,000 in total by a leadership contestant in a particular leadership contest out of his or her own funds to his or her own campaign.
+	- **(a)** contributions that do not exceed $1,000 in total by a nomination contestant or candidate of a registered party out of his or her own funds to his or her own campaign as a nomination contestant or candidate;
+	- **(b)** contributions that do not exceed $1,000 in total by a candidate for a particular election who is not the candidate of a registered party out of his or her own funds to his or her own campaign; and
+	- **(c)** contributions that do not exceed $1,000 in total by a leadership contestant in a particular leadership contest out of his or her own funds to his or her own campaign.
 
 **Deemed to be contributions**
 
 - **(5)** For the purposes of this Act, contributions made to a leadership contestant within 18 months after a leadership contest are deemed to be contributions for that contest.
-> 2000, c. 9, s. 405; 2003, c. 19, s. 25.
+> 2000, c. 9, s. 405; 2003, c. 19, s. 25; 2006, c. 9, s. 46.
 
 
 
@@ -7826,22 +7782,22 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 **405.1** 
 
-- **(1)** The inflation adjustment factor applicable to the limits established under subsections 404.1(1) and 405(1) and paragraph 405.3(2)(b), in effect for a period of one year beginning on each April 1, is a fraction with
+- **(1)** The inflation adjustment factor applicable to the limits established under subsection 405(1), in effect for a period of one year beginning on each April 1, is a fraction with
 	- **(a)** a numerator that is the annual average Consumer Price Index, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for the calendar year immediately before that date, calculated on the basis of 1992 being equal to 100; and
 	- **(b)** a denominator that is 119.0, which is the annual average Consumer Price Index, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for 2002, calculated on the basis of 1992 being equal to 100.
 
 **Adjustment**
 
-- **(2)** The amounts set out in subsections 404.1(1) and 405(1) and paragraph 405.3(2)(b) shall be multiplied by the annual inflation adjustment factor referred to in subsection (1) and the resulting amounts apply
-	- **(a)** in the cases referred to in paragraphs 404.1(1)(a) and 405(1)(a) and subparagraph 405.3(2)(b)(i), during the calendar year that commences in that year;
-	- **(b)** in the cases referred to in paragraphs 404.1(1)(b) and 405(1)(b) and subparagraph 405.3(2)(b)(ii), with respect to an election whose writ is issued during that year; and
+- **(2)** The amounts set out in subsection 405(1) shall be multiplied by the inflation adjustment factor referred to in subsection (1) for any given year and the resulting amounts apply
+	- **(a)** in the cases referred to in paragraphs 405(1)(a) and (a.1), during the calendar year that commences in that year;
+	- **(b)** in the case referred to in paragraph 405(1)(b), with respect to an election whose writ is issued during that year; and
 	- **(c)** in the case referred to in paragraph 405(1)(c), with respect to a leadership contest that begins during that year.
 The resulting amounts shall be rounded to the nearest hundred dollars.
 
 **Publication**
 
 - **(3)** Before each April 1, the Chief Electoral Officer shall cause to be published in the Canada Gazette the amounts applicable from that date.
-> 2003, c. 19, s. 25.
+> 2003, c. 19, s. 25; 2006, c. 9, s. 47.
 
 
 
@@ -7852,7 +7808,7 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 **405.2** 
 
 - **(1)** No person or entity shall
-	- **(a)** circumvent, or attempt to circumvent, the prohibition under subsection 404(1) or a limit set out in subsection 404.1(1) or 405(1) or paragraph 405.3(2)(b); or
+	- **(a)** circumvent, or attempt to circumvent, the prohibition under subsection 404(1) or a limit set out in subsection 405(1) or section 405.31; or
 	- **(b)** act in collusion with another person or entity for that purpose.
 
 **No concealing of source of contribution**
@@ -7867,8 +7823,8 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 **Prohibited agreements**
 
-- **(4)** No person or entity shall enter into an agreement for the provision for payment of goods or services to a registered party or a candidate that includes a term that any person will make a contribution, directly or indirectly, to a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant.
-> 2003, c. 19, s. 25.
+- **(4)** No person or entity shall enter into an agreement for the provision for payment of goods or services to a registered party or a candidate that includes a term that any individual will make a contribution, directly or indirectly, to a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant.
+> 2003, c. 19, s. 25; 2006, c. 9, s. 48.
 
 
 
@@ -7891,54 +7847,17 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 **Prohibition — making indirect contributions**
 
-**405.3** 
+**405.3** No individual shall make a contribution to a registered party, a registered association, a candidate or a leadership contestant or a nomination contestant that comes from money, property or the services of any person or entity that was provided to that individual for that purpose.
+> 2003, c. 19, s. 25; 2006, c. 9, s. 49.
 
-- **(1)** No person or entity shall make a contribution to a registered party, a registered association, a candidate or a leadership contestant or a nomination contestant that comes from money, property or the services of another person or entity that was provided to that person or entity for that purpose.
 
-**Exception**
 
-- **(2)** Despite subsections (1) and 404(1), an association may make contributions that come from money provided by individuals who are eligible, under subsection 404(1), to make contributions if
-	- **(a)** the contributions are made to a registered association, a nomination contestant or a candidate;
-	- **(b)** the contributions do not exceed
-		- **(i)** $1,000 in total in any calendar year to the recipients referred to in paragraph (a) of a particular registered party, and
-		- **(ii)** $1,000 in total to a candidate for a particular election who is not the candidate of a registered party; and
-	- **(c)** the association provides, along with each contribution, a statement containing the following information:
-		- **(i)** the name and address of the individual who is responsible for the association,
-		- **(ii)** the amount of the contribution, and
-		- **(iii)** the name and address of each individual whose money forms part of the contribution, the amount of money provided by that individual that is included in the contribution and the date on which it was provided.
 
-**If two elections in a year**
 
-- **(2.1)** Despite subparagraph (2)(b)(i), if two elections are held in an electoral district in a calendar year and an association has, before the polling day of the first election, made a contribution under that subparagraph to the registered association, the nomination contestants or the candidate of a particular registered party in that electoral district, the association may make contributions not exceeding $1,000 in total to the registered association, the nomination contestants and the candidate of the registered party in that electoral district during the election period for the second election.
+**Limit on cash contributions**
 
-**Applicable in one electoral district only**
-
-- **(2.2)** An association may make contributions under subsection (2.1) in respect of the registered association, the nomination contestants and the candidate of any particular registered party in only one electoral district in any calendar year.
-
-**If contribution made to unsuccessful nomination contestant**
-
-- **(2.3)** Despite subparagraph (2)(b)(i), if an association has in any calendar year made a contribution under that subparagraph to an individual who is a nomination contestant in an electoral district in a nomination contest held in that year but who is not endorsed by the registered party as its candidate, the association may during that year make contributions not exceeding $1,000 in total to the endorsed candidate after he or she is endorsed.
-
-**Applicable in one electoral district only**
-
-- **(2.4)** An association may make contributions under subsection (2.3) in respect of the candidate of any particular registered party in respect of only one election and in only one electoral district in any calendar year.
-
-**Definition of association**
-
-- **(3)** In this section, ***association*** means an unincorporated organization — other than a trade union — together with all of its branches, chapters or any other divisions.
-
-**Declaration**
-
-- **(4)** Together with the information referred to in paragraph (2)(c), the individual who is responsible for the association shall provide a declaration that the information is complete and accurate.
-
-**Prohibition**
-
-- **(5)** No individual responsible for an association shall knowingly make a false or misleading declaration relating to the information referred to in paragraph (2)(c).
-
-**Amount to be taken into account**
-
-- **(6)** For the application of subsection 405(1), an amount of money provided by an individual that was included in a contribution referred to in subsection (2) shall be taken into account in a calculation of contributions by the individual.
-> 2003, c. 19, s. 25.
+**405.31** No individual shall, in respect of each contribution made under this Part, contribute cash in an amount that exceeds $20.
+> 2006, c. 9, s. 49.
 
 
 
@@ -7946,8 +7865,8 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 **Return of contributions**
 
-**405.4** If a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant receives a contribution made in contravention of subsection 405(1), 405.2(4) or 405.3(1), the chief agent of the registered party, the financial agent of the registered association, the official agent of the candidate or the financial agent of the leadership contestant or nomination contestant, as the case may be, shall, within 30 days of becoming aware of the contravention, return the contribution unused to the contributor, or, if that is not possible, pay the amount of it or, in the case of a non-monetary contribution, an amount of money equal to its commercial value, to the Chief Electoral Officer who shall forward that amount to the Receiver General.
-> 2003, c. 19, s. 25.
+**405.4** If a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant receives a contribution made in contravention of subsection 405(1) or 405.2(4) or section 405.3 or 405.31, the chief agent of the registered party, the financial agent of the registered association, the official agent of the candidate or the financial agent of the leadership contestant or nomination contestant, as the case may be, shall, within 30 days after becoming aware of the contravention, return the contribution unused to the contributor, or, if that is not possible, pay the amount of it or, in the case of a non-monetary contribution, an amount of money equal to its commercial value, to the Chief Electoral Officer who shall forward that amount to the Receiver General.
+> 2003, c. 19, s. 25; 2006, c. 9, s. 49.
 
 
 
@@ -8377,8 +8296,8 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 **When contributions forwarded to Receiver General**
 
-**425** A registered agent of a registered party shall, without delay, pay an amount of money equal to the value of a contribution received by the registered party, to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $25, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
-> 2000, c. 9, s. 425; 2003, c. 19, s. 35.
+**425** A registered agent of a registered party shall, without delay, pay an amount of money equal to the value of a contribution received by the registered party, to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $20, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
+> 2000, c. 9, s. 425; 2003, c. 19, s. 35; 2006, c. 9, s. 50.
 
 
 
@@ -9163,8 +9082,8 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **When contributions forwarded to Receiver General**
 
-**435.32** The financial agent of a leadership contestant shall, without delay, pay an amount of money equal to the value of a contribution that the contestant received to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $25, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
-> 2003, c. 19, s. 40.
+**435.32** The financial agent of a leadership contestant shall, without delay, pay an amount of money equal to the value of a contribution that the contestant received to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $20, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
+> 2003, c. 19, s. 40; 2006, c. 9, s. 51.
 
 
 
@@ -9780,20 +9699,18 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(c)** [Repealed, 2003, c. 19, s. 44]
 	- **(d)** a statement of disputed claims that are the subject of proceedings under section 449;
 	- **(e)** a statement of unpaid claims that are, or may be, the subject of an application under section 447 or 448;
-	- **(f)** a statement of contributions received from any of the following classes of contributor: individuals, corporations, trade unions and associations as defined in subsection 405.3(3);
-	- **(g)** the number of contributors in each class listed in paragraph (f);
-	- **(g.1)** in the case of a contributor that is an association as defined in subsection 405.3(3),
-		- **(i)** the name and address of the association, the amount of its contribution and the date on which it was received by the candidate, and
-		- **(ii)** the name and address of each individual whose money forms part of the contribution, the amount of money provided by that individual that is included in the contribution and the date on which it was provided to the association;
-	- **(h)** the name and address of each other contributor in a class listed in paragraph (f) who made contributions of a total amount of more than $200 to the candidate, that total amount, as well as the amount of each such contribution and the date on which it was received by the candidate;
-	- **(h.1)** in the case of a numbered company that is a contributor referred to in paragraph (h), the name of the chief executive officer or president of that company;
+	- **(f)** a statement of contributions received;
+	- **(g)** the number of contributors;
+	- **(g.1)** [Repealed, 2006, c. 9, s. 52]
+	- **(h)** the name and address of each contributor who made contributions of a total amount of more than $200 to the candidate, that total amount, as well as the amount of each such contribution and the date on which it was received by the candidate;
+	- **(h.1)** [Repealed, 2006, c. 9, s. 52]
 	- **(i)** a statement of the commercial value of goods or services provided and of funds transferred by the candidate to a registered party, to a registered association or to himself or herself in his or her capacity as a nomination contestant;
 	- **(j)** a statement of the commercial value of goods or services provided and of funds transferred to the candidate from a registered party, a registered association or a nomination contestant; and
 	- **(k)** a statement of contributions received but returned to the contributor or otherwise dealt with in accordance with this Act.
 
 **Supporting documents**
 
-- **(2.1)** Together with the electoral campaign return, the official agent of a candidate shall provide to the Chief Electoral Officer documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques, any statements and declarations provided to the official agent by virtue of paragraph 405.3(2)(c) and subsection 405.3(4) and the candidate’s written statement concerning personal expenses referred to in subsection 456(1).
+- **(2.1)** Together with the electoral campaign return, the official agent of a candidate shall provide to the Chief Electoral Officer documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the candidate’s written statement concerning personal expenses referred to in subsection 456(1).
 
 **Order for additional supporting documents**
 
@@ -9819,7 +9736,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(a)** he or she is deemed to have sent the declaration in accordance with that subsection;
 	- **(b)** the official agent is deemed to have sent the declaration to the Chief Electoral Officer in accordance with subsection (1); and
 	- **(c)** the Chief Electoral Officer is deemed to have received the declaration for the purposes of sections 464, 466 and 467.
-> 2000, c. 9, s. 451; 2003, c. 19, s. 44.
+> 2000, c. 9, s. 451; 2003, c. 19, s. 44; 2006, c. 9, s. 52.
 
 
 
@@ -9827,10 +9744,8 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **When contributions forwarded to Receiver General**
 
-**452** An official agent of a candidate shall, without delay, pay an amount of money equal to the value of a contribution that the candidate received to the Chief Electoral Officer who shall forward it to the Receiver General if
-- **(a)** the official agent cannot determine to which of the classes listed in paragraph 451(2)(f) the contributor belongs; and
-- **(b)** the name of the contributor of a contribution of more than $25, the name or the address of the contributor having made contributions of a total amount of more than $200 or the name of the chief executive officer or president of a contributor referred to in paragraph 451(2)(h.1) is not known.
-> 2000, c. 9, s. 452; 2003, c. 19, s. 45.
+**452** An official agent of a candidate shall, without delay, pay an amount of money equal to the value of a contribution that the candidate received to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $20, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
+> 2000, c. 9, s. 452; 2003, c. 19, s. 45; 2006, c. 9, s. 53.
 
 
 
@@ -10684,20 +10599,18 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 	- **(a)** a statement of nomination campaign expenses;
 	- **(b)** a statement of disputed claims that are the subject of proceedings under section 478.21;
 	- **(c)** a statement of unpaid claims that are, or may be, the subject of an application under section 478.19 or 478.2;
-	- **(d)** a statement of contributions received from any of the following classes of contributor: individuals, corporations, trade unions and associations as defined in subsection 405.3(3);
-	- **(e)** the number of contributors in each class listed in paragraph (d);
-	- **(e.1)** in the case of a contributor that is an association as defined in subsection 405.3(3),
-		- **(i)** the name and address of the association, the amount of its contribution and the date on which it was received by the nomination contestant, and
-		- **(ii)** the name and address of each individual whose money forms part of the contribution, the amount of money provided by that individual that is included in the contribution and the date on which it was provided to the association;
-	- **(f)** the name and address of each other contributor who made contributions of a total amount of more than $200 to the nomination contestant, that total amount, as well as the amount of each such contribution and the date on which it was received by the contestant;
-	- **(g)** in the case of a numbered company that is a contributor referred to in paragraph (f), the name of the chief executive officer or president of that company;
+	- **(d)** a statement of contributions received;
+	- **(e)** the number of contributors;
+	- **(e.1)** [Repealed, 2006, c. 9, s. 54]
+	- **(f)** the name and address of each contributor who made contributions of a total amount of more than $200 to the nomination contestant, that total amount, as well as the amount of each such contribution and the date on which it was received by the contestant;
+	- **(g)** [Repealed, 2006, c. 9, s. 54]
 	- **(h)** a statement of the commercial value of goods or services provided and of funds transferred by the nomination contestant to a registered party, a registered association, or a candidate;
 	- **(i)** a statement of the commercial value of goods or services provided and of funds transferred to the nomination contestant from himself or herself in his or her capacity as a candidate; and
 	- **(j)** a statement of the contributions received but returned to the contributor or otherwise dealt with in accordance with this Act.
 
 **Supporting documents**
 
-- **(3)** Together with the nomination campaign return, the financial agent of a nomination contestant shall provide to the Chief Electoral Officer documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques, any statements and declarations provided to the financial agent by virtue of paragraph 405.3(2)(c) and subsection 405.3(4) and the contestant’s written statement concerning personal expenses referred to in subsection 478.31(1).
+- **(3)** Together with the nomination campaign return, the financial agent of a nomination contestant shall provide to the Chief Electoral Officer documents evidencing expenses set out in the return, including bank statements, deposit slips, cancelled cheques and the contestant’s written statement concerning personal expenses referred to in subsection 478.31(1).
 
 **Order for additional supporting documents**
 
@@ -10724,7 +10637,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 - **(9)** If a nomination contestant dies without having sent the declaration within the period referred to in subsection (8),
 	- **(a)** he or she is deemed to have sent the declaration in accordance with that subsection; and
 	- **(b)** the financial agent is deemed to have sent the declaration to the Chief Electoral Officer in accordance with subsection (1).
-> 2003, c. 19, s. 57.
+> 2003, c. 19, s. 57; 2006, c. 9, s. 54.
 
 
 
@@ -10732,10 +10645,8 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **When contributions forwarded to Receiver General**
 
-**478.24** The financial agent of a nomination contestant shall, without delay, pay an amount of money equal to the value of a contribution received by the contestant to the Chief Electoral Officer who shall forward it to the Receiver General, if
-- **(a)** the financial agent cannot determine to which of the classes listed in paragraph 478.23(2)(d) the contributor belongs; or
-- **(b)** the name of the contributor of a contribution of more than $25, the name or the address of the contributor having made contributions of a total amount of more than $200 or the name of the chief executive officer or president of a contributor referred to in paragraph 478.23(2)(g) is not known.
-> 2003, c. 19, s. 57.
+**478.24** The financial agent of a nomination contestant shall, without delay, pay an amount of money equal to the value of a contribution received by the contestant to the Chief Electoral Officer, who shall forward it to the Receiver General, if the name of the contributor of a contribution of more than $20, or the name or the address of the contributor having made contributions of a total amount of more than $200, is not known.
+> 2003, c. 19, s. 57; 2006, c. 9, s. 55.
 
 
 
@@ -11504,7 +11415,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 	- **(i.3)** being a person who is authorized to accept contributions on behalf of a registered party, a registered association, a candidate, a leadership contestant or a nomination contestant, contravenes section 404.4 (failure to issue receipt);
 	- **(i.4)** being a person or entity, contravenes subsection 405.2(1) (circumventing contribution limit);
 	- **(i.5)** being a person or entity, contravenes subsection 405.2(2) (concealing source of contribution);
-	- **(i.6)** being a person or entity, contravenes subsection 405.3(1) (making contribution from others’ contributions);
+	- **(i.6)** being an individual, contravenes section 405.3 (making indirect contributions);
 	- **(i.7)** being a person authorized under this Act to accept contributions, contravenes section 405.4 (failure to return or pay amount of contribution);
 	- **(j)** contravenes subsection 410(1) or (2) (failure to document payment);
 	- **(k)** being a person authorized to pay petty expenses, contravenes subsection 411(3) (failure to provide documentation of expenditures) or 411(4) (paying excessive petty expenses);
@@ -11602,8 +11513,8 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 	- **(f.161)** being a person or entity, knowingly contravenes subsection 405.2(4) (entering prohibited agreement);
 	- **(f.162)** being a person or entity, contravenes subsection 405.21(1) (soliciting or accepting contribution);
 	- **(f.163)** being a person or entity, contravenes subsection 405.21(2) (collusion);
-	- **(f.17)** being a person or entity, wilfully contravenes subsection 405.3(1) (making contribution from others’ contributions);
-	- **(f.18)** being an individual, contravenes subsection 405.3(5) (knowingly making a false or misleading declaration);
+	- **(f.17)** being an individual, wilfully contravenes section 405.3 (making indirect contributions);
+	- **(f.18)** being an individual, wilfully contravenes section 405.31 (exceeding cash contribution limit);
 	- **(f.19)** being a person authorized under this Act to accept contributions, wilfully contravenes section 405.4 (failure to return or pay amount of contribution);
 	- **(g)** being a chief agent, wilfully contravenes subsection 423(1) (exceeding election expense limit);
 	- **(h)** being a registered party or a third party, knowingly contravenes subsection 423(2) (colluding to circumvent election expense limit);
@@ -11663,7 +11574,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 **When certain proceedings may be brought**
 
 - **(4)** No proceedings may be commenced with respect to a failure to provide a return or other document to the Chief Electoral Officer before the expiration of the period within which an application may be made under this Act for an extension of the period within which that return or document is to be provided.
-> 2000, c. 9, s. 497; 2003, c. 19, s. 58; 2004, c. 24, s. 21.
+> 2000, c. 9, s. 497; 2003, c. 19, s. 58; 2004, c. 24, s. 21; 2006, c. 9, s. 57.
 
 
 
