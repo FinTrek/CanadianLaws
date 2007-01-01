@@ -617,9 +617,11 @@ déterminé en divisant le montant desdits droits ou impôts payés sur le Compt
 
 **34** Pour les fins du paragraphe 2(4) de la Loi, les emplois suivants à titre de membres des Forces canadiennes sont des emplois exceptés aux fins du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md):
 - **a)** emploi le ou après le 1<sup>er</sup> janvier 1966 à titre de membres des Forces canadiennes auquel s’applique la [Loi sur la continuation de la pension des services de défense](/fr/Lois/Lois%20du%20Canada/1970/ch.%20D-3.md); et
-- **b)** emploi le ou après le 1<sup>er</sup> janvier 1966, à titre d’officier ou d’homme, dans les forces de réserve ou la force de réserve auquel s’appliquent les Ordonnances et Règlements royaux applicables aux Forces canadiennes, sauf l’emploi
+- **b)** l’emploi dans la force de réserve, au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), du 1<sup>er</sup> janvier 1966 au 31 décembre 2006, sauf l’emploi :
 	- **(i)** en service continu ou en service de réserve classe « C », ou
 	- **(ii)** pendant plus de 30 jours en service spécial ou en service de réserve classe « B ».
+> DORS/2007-2, art. 1.
+
 
 
 
