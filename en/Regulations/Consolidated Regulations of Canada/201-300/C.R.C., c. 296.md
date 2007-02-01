@@ -208,7 +208,7 @@ Enabling authorities:
 
 ***sea carrier*** means the owner or operator of a vessel engaged in the transportation of animals by water; (*transporteur maritime*)
 
-***serious epizootic disease*** means a disease which the Minister considers to pose a serious economic threat to Canada’s agricultural economy or to human health; (*épizootie grave*)
+***serious epizootic disease***[Repealed, SOR/2007-24, s. 1]
 
 ***song bird*** means canary, finch, oriole, cardinal and any other songster; (*oiseau chanteur*)
 
@@ -237,7 +237,7 @@ Enabling authorities:
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2007-24, s. 1.
 
 
 
@@ -349,18 +349,35 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-#### Powers of Inspectors
+#### Designation
+> [SOR/2007-24, s. 2]
+
 
 
 **7** 
 
-- **(1)** For the purpose of preventing the introduction of disease and of controlling the importation of animals and things into Canada, the Minister may, based on such criteria as the prevalence of disease in a country or part of a country, the time since the last outbreak of the disease, the surveillance programs in effect, the measures taken to prevent the introduction or spread of the disease, natural barriers to the movement of the disease and the zoosanitary infrastructure, designate in writing, countries or parts of countries which the Minister considers to be free from the diseases specified in the designation.
+- **(1)** For the purpose of preventing the introduction of a disease into Canada from an animal or thing imported into Canada, the Minister may designate a country or part of a country as being free of a disease or as posing a negligible risk for a disease.
+
+- **(1.1)** The designation shall be in writing and be based on the following criteria respecting the country or part of the country that is the subject of the designation:
+	- **(a)** the prevalence of the disease;
+	- **(b)** the time since the most recent outbreak of the disease;
+	- **(c)** the disease surveillance programs in effect;
+	- **(d)** the measures taken to prevent the introduction or spread of the disease;
+	- **(e)** the natural barriers to the movement of the disease;
+	- **(f)** the zoosanitary infrastructure; and
+	- **(g)** any other criteria relevant to the state, extent or propagation of the disease.
 
 - **(2)** The Minister may amend or repeal the designation.
 
 - **(3)** For the purpose of these Regulations, the Minister may describe, in writing, a part of a country.
-> SOR/79-839, s. 5; SOR/97-85, s. 3.
+> SOR/79-839, s. 5; SOR/97-85, s. 3; SOR/2007-24, s. 3.
 
+
+
+
+
+#### Electronic Documents
+> [SOR/2007-24, s. 4]
 
 
 
@@ -371,6 +388,12 @@ the inspector may order the person who owns or has possession, care or control o
 - **(2)** Every person who imports anything in respect of which a certificate or other document has been transmitted in electronic form to the Minister shall, upon the Minister’s request, provide the Minister with an original signed copy of the certificate or document.
 > SOR/78-69, s. 6; SOR/79-839, s. 6; SOR/97-85, s. 3; SOR/98-409, s. 2; SOR/2001-210, s. 2.
 
+
+
+
+
+#### Powers of Inspectors
+> [SOR/2007-24, s. 5]
 
 
 
@@ -406,7 +429,7 @@ the inspector may order the person who owns or has possession, care or control o
 
 ***germplasm*** means semen, male or female germ cells or genetic material taken from a male or female germ cell for the purpose of producing a zygote and includes embryos but does not include a hatching egg. (*matériel génétique*)
 
-***import reference document*** means the document prepared by the Agency and entitled Import Reference Document, bearing the date June 20, 2003 and policy number AHPD-DSAE-IE-2002-3-1A and available on the Agency’s web site or by requesting a copy from the Agency. (*document de référence*)
+***import reference document*** means the document prepared by the Agency and entitled Import Reference Document, bearing the date January 25, 2007 and policy number AHPD-DSAE-IE-2002-3-4. (*document de référence*)
 
 ***low risk area*** means, in respect of a species of regulated animal, an area identified as a low risk area for that species in the import reference document. (*région à faible risque*)
 
@@ -419,7 +442,7 @@ the inspector may order the person who owns or has possession, care or control o
 ***species*** means, in respect of germplasm, the species of the animal that it is from. (*espèce*)
 
 ***undesignated area*** means, in respect of a species of regulated animal, an area identified as an undesignated area for that species in the import reference document. (*région non désignée*)
-> SOR/78-69, s. 7; SOR/97-85, s. 4; SOR/2001-210, s. 3; SOR/2003-264, s. 2; SOR/2004-80, s. 15.
+> SOR/78-69, s. 7; SOR/97-85, s. 4; SOR/2001-210, s. 3; SOR/2003-264, s. 2; SOR/2004-80, s. 15; SOR/2007-24, s. 6.
 
 
 
