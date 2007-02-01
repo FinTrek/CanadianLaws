@@ -75,7 +75,7 @@ Autorités habilitantes :
 
 ***embryon animal***[Abrogée, DORS/2001-210, art. 1]
 
-***épizootie grave*** Maladie qui, d’après le ministre, constitue une menace économique grave pour l’économie agricole du Canada ou la santé humaine. (*serious epizootic disease*)
+***épizootie grave***[Abrogée, DORS/2007-24, art. 1]
 
 ***épreuve*** comprend
 - **a)** le prélèvement de tissus ou de liquides d’un animal, et
@@ -97,7 +97,7 @@ Autorités habilitantes :
 
 ***farine de sang*** désigne le sang séché d’un animal; (*blood meal*)
 
-***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché; (*meat meal tankage*ou*tankage*)
+***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché; (*meat meal *ou*tankage*)
 
 ***fumier*** Y sont assimilés le guano, les fèces avec ou sans urine et tout ce qui contient des fèces d’oiseau, de ruminant ou de porc. (*manure*)
 
@@ -235,7 +235,7 @@ Autorités habilitantes :
 ***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
 
 ***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
-> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1.
+> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2007-24, art. 1.
 
 
 
@@ -338,7 +338,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 **PARTIE II** 
-## Importation d’animaux
+## Importation
 
 
 
@@ -346,18 +346,35 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-#### Pouvoirs des inspecteurs
+#### Désignation
+> [DORS/2007-24, art. 2]
+
 
 
 **7** 
 
-- **(1)** Afin d’empêcher l’introduction de maladies et de contrôler l’importation d’animaux et de choses, le ministre peut, en se fondant sur des critères tels la prévalence d’une maladie dans un pays ou une partie de pays, la période écoulée depuis la dernière éruption de la maladie, les programmes de surveillance en vigueur, les mesures prises pour prévenir l’introduction ou la propagation de la maladie, les barrières naturelles qui y font obstacle et l’infrastructure zoosanitaire, désigner par écrit les pays ou les parties de pays qu’il estime exempts des maladies précisées dans la désignation.
+- **(1)** Afin d’empêcher l’introduction de maladies provenant d’un animal ou d’une chose importé au Canada, le ministre peut désigner un pays ou une partie de pays comme étant exempt ou comme posant un risque négligeable d’une maladie.
+
+- **(1.1)** La désignation se fait par écrit et est fondée sur les éléments ci-après concernant le pays ou la partie du pays en cause :
+	- **a)** la prévalence de la maladie;
+	- **b)** la période écoulée depuis la dernière éruption de la maladie;
+	- **c)** les programmes de surveillance de la maladie en vigueur;
+	- **d)** les mesures prises pour prévenir l’introduction ou la propagation de la maladie;
+	- **e)** les barrières naturelles qui font obstacle à la maladie;
+	- **f)** l’infrastructure zoosanitaire;
+	- **g)** tout autre critère relatif à l’état, à l’étendue ou à la propagation de la maladie.
 
 - **(2)** Le ministre peut modifier ou abroger la désignation.
 
 - **(3)** Pour l’application du présent règlement, le ministre peut, par écrit, délimiter une partie de pays.
-> DORS/79-839, art. 5; DORS/97-85, art. 3.
+> DORS/79-839, art. 5; DORS/97-85, art. 3; DORS/2007-24, art. 3.
 
+
+
+
+
+#### Documents électroniques
+> [DORS/2007-24, art. 4]
 
 
 
@@ -368,6 +385,12 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(2)** L’importateur qui transmet au ministre un certificat ou un autre document par un moyen électronique doit, à la demande de celui-ci, lui fournir l’original signé.
 > DORS/78-69, art. 6; DORS/79-839, art. 6; DORS/97-85, art. 3; DORS/98-409, art. 2; DORS/2001-210, art. 2.
 
+
+
+
+
+#### Pouvoirs des inspecteurs
+> [DORS/2007-24, art. 5]
 
 
 
@@ -392,7 +415,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 ***animal réglementé*** Désigne tout oeuf d’incubation, toute tortue terrestre ou aquatique, tout oiseau, toute abeille à miel ou tout mammifère, à l’exclusion de leur matériel génétique et de tout animal appartenant à l’ordre des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*regulated animal*)
 
-***document de référence*** Le document établi par l’Agence et intitulé Document de référence relatif à l’importation qui porte la date du 20 juin 2003 et le numéro de politique AHPD-DSAE-IE-2002-3-1A et qui peut être consulté sur le site Web de l’Agence ou obtenu sur demande auprès de celle-ci. (*import reference document*)
+***document de référence*** Le document établi par l’Agence et intitulé Document de référence relatif à l’importation qui porte la date du 25 janvier 2007 et le numéro de politique AHPD-DSAE-IE-2002-3-4. (*import reference document*)
 
 ***embryon*** Oeuf fécondé, autre qu’un oeuf d’incubation, avant son implantation dans un animal. (*embryo*)
 
@@ -415,7 +438,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 ***vétérinaire officiel*** Vétérinaire qui est :
 - **a)** soit employé par l’autorité responsable de la mise en place et de la surveillance des services vétérinaires dans un pays, de la délivrance de certificats relativement à l’état de santé et à l’origine des animaux qui s’y trouvent et de l’inspection d’animaux réglementés en vue de la protection de la santé publique et de la santé des animaux dans ce pays;
 - **b)** soit autorisé par cette autorité à délivrer de tels certificats et à faire de telles inspections, si les services vétérinaires et les mécanismes de délivrance d’autorisations et d’inspection dans le pays sont équivalents aux services et mécanismes canadiens correspondants en ce qui concerne l’efficacité de la protection de la santé publique et de la santé des animaux. (*official veterinarian*)
-> DORS/78-69, art. 7; DORS/97-85, art. 4; DORS/2001-210, art. 3; DORS/2003-264, art. 2; DORS/2004-80, art. 15.
+> DORS/78-69, art. 7; DORS/97-85, art. 4; DORS/2001-210, art. 3; DORS/2003-264, art. 2; DORS/2004-80, art. 15; DORS/2007-24, art. 6.
 
 
 
