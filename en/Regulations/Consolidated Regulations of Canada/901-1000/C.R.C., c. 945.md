@@ -2896,19 +2896,19 @@ and, for the purposes of subparagraph (iv), a property shall be deemed to have b
 #### Additional Allowances — Class 28
 
 	- **(w)** subject to section 1100A, such additional amount as he may claim in respect of property described in Class 28 acquired for the purpose of gaining or producing income from a mine or in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101 (4a), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, determined without reference to paragraph 12(1)(z.5) of the Act and before making any deduction under this paragraph, paragraph (x), (y) or (ya), paragraph 20(1)(v.1) of the Act, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y) or (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 	- **(x)** subject to section 1100A, such additional amount as he may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4b), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mines, determined without reference to paragraph 12(1)(z.5) of the Act and before making any deduction under this paragraph, paragraph (ya), paragraph 20(1)(v.1) of the Act, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
 
 #### Additional Allowances — Class 41
 
 	- **(y)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4c), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, determined without reference to paragraph 12(1)(z.5) of the Act and before making any deduction under this paragraph, paragraph (x) or (ya), paragraph 20(1)(v.1) of the Act, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x) or (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of a taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 	- **(ya)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4d), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mines, determined without reference to paragraph 12(1)(z.5) of the Act and before making any deduction under this paragraph, paragraph 20(1)(v.1) of the Act, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 
 #### Additional Allowances — Railway Cars
@@ -3405,7 +3405,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1.
 
 
 
@@ -4240,6 +4240,8 @@ but does not include
 
 - **(8)** For the purposes of subsection (7), ***stone quarry*** includes a mine producing dimension stone or crushed rock for use as aggregates or for other construction purposes.
 
+- **(8.1)** For greater certainty, for the purposes of paragraphs (c) and (e) of Class 28 and paragraph (a) of Class 41 in Schedule II, production means production in reasonable commercial quantities.
+
 #### Manufacturing or Processing
 
 
@@ -4364,7 +4366,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2.
 
 
 
@@ -4771,9 +4773,9 @@ exceeds the aggregate of the taxpayer’s losses for the year from the sources d
 			- **(A)** relates to an activity
 				- **(I)** that is not a resource activity of the taxpayer, and
 				- **(II)** that is
-					- **1.** the production, processing, manufacturing, distribution, marketing, transportation or sale of any property,
-					- **2.** carried out for the purpose of earning income from property, or
-					- **3.** the rendering of a service by the taxpayer to another person for the purpose of earning income of the taxpayer, and
+					- **1** the production, processing, manufacturing, distribution, marketing, transportation or sale of any property,
+					- **2** carried out for the purpose of earning income from property, or
+					- **3** the rendering of a service by the taxpayer to another person for the purpose of earning income of the taxpayer, and
 			- **(B)** does not relate to a resource activity of the taxpayer,
 	- **(b)** all amounts each of which is the amount, if any, by which
 		- **(i)** the amount that would have been charged to the taxpayer by a person or partnership with whom the taxpayer was not dealing at arm’s length if the taxpayer and that person or partnership had been dealing at arm’s length
@@ -4794,19 +4796,13 @@ exceeds the total of
 
 - **(3)** A taxpayer’s income or loss from a source described in paragraph (1)(b) does not include
 	- **(a)** any income or loss derived from transporting, transmitting or processing (other than processing described in clause (1)(b)(ii)(C), (iii)(C) or (iv)(C) or subparagraph (1)(b)(v) or (vi)) petroleum, natural gas or related hydrocarbons or sulphur from a natural accumulation of petroleum or natural gas;
-	- **(b)** any income or loss arising because of the application of paragraph 12(1)(z.1), (z.2) or (z.5) or section 107.3 of the Act; and
+	- **(b)** any income or loss arising because of the application of paragraph 12(1)(z.1) or (z.2) or section 107.3 of the Act; and
 	- **(c)** any income or loss that can reasonably be attributable to a service rendered by the taxpayer (other than processing described in subparagraph (1)(b)(iii), (iv), (v) or (vi) or activities carried out by the taxpayer as a coal mine operator).
 
-- **(4)** Notwithstanding any other provision in this Part, for the purposes of this Part, the income or loss of a taxpayer for a taxation year shall be computed on the assumption that paragraphs 12(1)(o) and 18(1)(m) and subsections 69(6) to (10) of the Act were not applicable to
-	- **(a)** amounts receivable and the fair market value of any property receivable by the Crown as a royalty, tax, rental or levy with respect to the Syncrude Project, or as an amount however described, that may reasonably be regarded as being in lieu of any of the preceding amounts,
-	- **(b)** dispositions of leased substances to the Crown by the participant, and
-	- **(c)** acquisitions of leased substances from the Crown by the participant,
-where the taxpayer has been granted a remission of tax for the year pursuant to subsection 3(1) of the [Syncrude Remission Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/701-800/C.R.C.,%20c.%20794.md).
-
-- **(5)** For the purposes of subsection (4), ***Crown***, ***leased substances***, ***participant*** and ***Syncrude Project*** have the meanings assigned by section 2 of the [Syncrude Remission Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/701-800/C.R.C.,%20c.%20794.md).
+- **(4) and (5)** [Repealed, SOR/2007-19, s. 3]
 
 - **(6)** [Repealed, SOR/96-451, s. 2]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-502, s. 5; SOR/79-245, s. 3; SOR/80-132, s. 1; SOR/81-158, s. 1; SOR/81-974, s. 5; SOR/85-174, s. 5; SOR/90-113, s. 3; SOR/91-79, s. 5; SOR/94-686, s. 48; SOR/96-451, s. 2; SOR/99-179, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-502, s. 5; SOR/79-245, s. 3; SOR/80-132, s. 1; SOR/81-158, s. 1; SOR/81-974, s. 5; SOR/85-174, s. 5; SOR/90-113, s. 3; SOR/91-79, s. 5; SOR/94-686, s. 48; SOR/96-451, s. 2; SOR/99-179, s. 6; SOR/2007-19, s. 3.
 
 
 
@@ -4935,13 +4931,13 @@ in computing his supplementary depletion base at the particular time.
 
 - **(1)** In this Part,
 
-***bituminous sands equipment*** means property of a taxpayer that
+***bituminous sands equipment*** means property of a taxpayer that
 - **(a)** is included in Class 28 or in paragraph (a) of Class 41 in Schedule II, other than property so included
 	- **(i)** by virtue of the first reference in Class 28 to paragraph (l) of Class 10 in Schedule II, where the property was acquired by the taxpayer before November 17, 1978, or
 	- **(ii)** by virtue of the reference in Class 28 to paragraph (m) of Class 10 in Schedule II, and
-- **(b)** was acquired by the taxpayer after April 10, 1978 principally for the purpose of gaining or producing income from one or more mines, each of which is a location in a bituminous sands deposit, oil sands deposit or oil shale deposit from which material is extracted; (*matériel d’exploitation de sables bitumineux*)
+- **(b)** was acquired by the taxpayer after April 10, 1978 principally for the purpose of gaining or producing income from one or more mines, each of which is a location in a bituminous sands deposit, oil sands deposit or oil shale deposit from which material is extracted; (*matériel d’exploitation de sables bitumineux*)
 
-***Canadian exploration and development overhead expense*** of a taxpayer means a Canadian exploration expense or a Canadian development expense of the taxpayer made or incurred after 1980 that is not a Canadian renewable and conservation expense (in this definition having the meaning assigned by subsection 66.1(6) of the Act) nor a taxpayer’s share of a Canadian renewable and conservation expense incurred by a partnership and
+***Canadian exploration and development overhead expense*** of a taxpayer means a Canadian exploration expense or a Canadian development expense of the taxpayer made or incurred after 1980 that is not a Canadian renewable and conservation expense (in this definition having the meaning assigned by subsection 66.1(6) of the Act) nor a taxpayer’s share of a Canadian renewable and conservation expense incurred by a partnership and
 - **(a)** that was in respect of the administration, management or financing of the taxpayer,
 - **(b)** that was in respect of the salary, wages or other remuneration or related benefits paid in respect of a person employed by the taxpayer whose duties were not all or substantially all directed towards exploration or development activities,
 - **(c)** that was in respect of the upkeep or maintenance of, taxes or insurance in respect of, or rental or leasing of, property other than property all or substantially all of the use of which by the taxpayer was for the purposes of exploration or development activities, or
@@ -4952,77 +4948,70 @@ in computing his supplementary depletion base at the particular time.
 to the extent that the expense exceeds the least of amounts, each of which was the aggregate of the costs incurred by a person who was connected with the taxpayer
 	- **(iv)** in respect of the property,
 	- **(v)** in respect of the performance of the service, or
-	- **(vi)** in respect of the materials, parts or supplies; (*frais généraux d’exploration et d’aménagement au Canada*)
+	- **(vi)** in respect of the materials, parts or supplies; (*frais généraux d’exploration et d’aménagement au Canada*)
 
-***Canadian oil and gas exploration expense*** of a taxpayer means an outlay or expense made or incurred after 1980 that would be a Canadian exploration expense of the taxpayer within the meaning assigned by paragraph 66.1(6)(a) of the Act if that paragraph were read without reference to subparagraphs (iii) and (iii.1) thereof and if the reference in subparagraphs (iv) and (v) thereof to “any of subparagraphs (i) to (iii.1)” were read as a reference to “any of subparagraphs (i) to (ii.2)”, other than an outlay or expense that was a Canadian exploration expense by virtue of clause 66.1(6)(a)(ii)(B) or (ii.1)(B) of the Act that was in respect of a qualified tertiary oil recovery project; (*frais d’exploration pétrolière et gazière au Canada*)
+***Canadian oil and gas exploration expense*** of a taxpayer means an outlay or expense made or incurred after 1980 that would be a Canadian exploration expense of the taxpayer within the meaning assigned by paragraph 66.1(6)(a) of the Act if that paragraph were read without reference to subparagraphs (iii) and (iii.1) thereof and if the reference in subparagraphs (iv) and (v) thereof to “any of subparagraphs (i) to (iii.1)” were read as a reference to “any of subparagraphs (i) to (ii.2)”, other than an outlay or expense that was a Canadian exploration expense by virtue of clause 66.1(6)(a)(ii)(B) or (ii.1)(B) of the Act that was in respect of a qualified tertiary oil recovery project; (*frais d’exploration pétrolière et gazière au Canada*)
 
-***coal mine operator*** means a person who undertakes all or substantially all of the activities involved in the production of coal from a resource; (*exploitant de mine de charbon*)
+***coal mine operator*** means a person who undertakes all or substantially all of the activities involved in the production of coal from a resource; (*exploitant de mine de charbon*)
 
-***conventional lands*** means lands situated in Canada other than non-conventional lands; (*terres conventionnelles*)
+***conventional lands*** means lands situated in Canada other than non-conventional lands; (*terres conventionnelles*)
 
-***disposition of property*** has the meaning assigned by paragraph 13(21)(c) of the Act; (*disposition de biens*)
+***disposition of property*** has the meaning assigned by paragraph 13(21)(c) of the Act; (*disposition de biens*)
 
-***enhanced recovery equipment*** means property of a taxpayer that
+***enhanced recovery equipment*** means property of a taxpayer that
 - **(a)** is included in Class 10 in Schedule II by virtue of paragraph (j) of the description of that Class, and
 - **(b)** was acquired by the taxpayer after April 10, 1978 and before 1981 for use in the production of oil, from a reservoir or a deposit of bituminous sand, oil sand or oil shale in Canada operated by the taxpayer, that is incremental to oil that would be recovered using primary recovery techniques alone,
 
 other than property
 - **(c)** used by the taxpayer as part of a primary recovery process prior to the use described in paragraph (b),
 - **(d)** that had, before it was acquired by the taxpayer, been used for any purpose whatever by any person with whom the taxpayer was not dealing at arm’s length, or
-- **(e)** that has been used by any person before April 11, 1978 in the production of oil, from a reservoir in Canada, that is incremental to oil that would be recovered using primary recovery techniques alone; (*matériel amélioré de récupération*)
+- **(e)** that has been used by any person before April 11, 1978 in the production of oil, from a reservoir in Canada, that is incremental to oil that would be recovered using primary recovery techniques alone; (*matériel amélioré de récupération*)
 
-***exempt partnership*** in respect of a taxpayer at a particular time means a partnership of which the taxpayer was a member throughout the period beginning on December 20, 1991 and ending at the particular time, where all or substantially all of the fair market value of the property of the partnership at the particular time is attributable to property held in connection with one or more working interests that were held by the partnership on December 20, 1991 for the production of minerals, petroleum, natural gas or related hydrocarbons, unless
-- **(a)** any of the depreciable property acquired after December 20, 1991 and before the particular time by the partnership in connection with one of the working interests had, before the time of the acquisition, been owned by the taxpayer (or any other person with whom the taxpayer did not deal at arm’s length) and been used by the taxpayer (or that other person) in connection with that working interest, or
-- **(b)** it is reasonable to consider that, before the particular time, amounts were charged to the partnership that would not have been so charged if section 1210 were read without reference to subsection (4) of that section; (*société de personnes exclue*)
+***exempt partnership***[Repealed, SOR/2007-19, s. 4]
 
-***exporting resource*** means, in relation to a particular processing property of a taxpayer, a resource the ore or any portion thereof produced from which during the year immediately preceding the day on which the property was acquired by the taxpayer was ordinarily processed outside Canada to any stage that is not beyond the prime metal stage or its equivalent; (*ressource destinée à l’exportation*)
+***exporting resource*** means, in relation to a particular processing property of a taxpayer, a resource the ore or any portion thereof produced from which during the year immediately preceding the day on which the property was acquired by the taxpayer was ordinarily processed outside Canada to any stage that is not beyond the prime metal stage or its equivalent; (*ressource destinée à l’exportation*)
 
-***mine*** means any location where material is extracted from a resource but does not include a well for the extraction of material from a deposit of bituminous sand, oil sand or oil shale; (*mine*)
+***mine*** means any location where material is extracted from a resource but does not include a well for the extraction of material from a deposit of bituminous sand, oil sand or oil shale; (*mine*)
 
-***non-conventional lands*** means lands that belong to Her Majesty in right of Canada, or in respect of which Her Majesty in right of Canada has the right to dispose of or exploit the natural resources, situated in
+***non-conventional lands*** means lands that belong to Her Majesty in right of Canada, or in respect of which Her Majesty in right of Canada has the right to dispose of or exploit the natural resources, situated in
 - **(a)** the Yukon Territory, the Northwest Territories or Sable Island, or
-- **(b)** those submarine areas, not within a province, adjacent to the coast of Canada and extending throughout the natural prolongation of the land territory of Canada to the outer edge of the continental margin or to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater; (*terres non conventionnelles*)
+- **(b)** those submarine areas, not within a province, adjacent to the coast of Canada and extending throughout the natural prolongation of the land territory of Canada to the outer edge of the continental margin or to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater; (*terres non conventionnelles*)
 
-***ore*** includes ore from a mineral resource that has been processed to any stage that is prior to the prime metal stage or its equivalent; (*minerai*)
+***ore*** includes ore from a mineral resource that has been processed to any stage that is prior to the prime metal stage or its equivalent; (*minerai*)
 
-***original owner*** of a property means a person
+***original owner*** of a property means a person
 - **(a)** who owned the property and disposed of it to a corporation that acquired it in circumstances in which subsection 1202(2) applies, or would apply if the corporation had continued to own the property, to the corporation in respect of the property, and
-- **(b)** who would, but for paragraph 1202(2)(b) (as it read in its application to taxation years ending before February 18, 1987) or paragraph 1202(3)(a), as the case may be, be entitled in computing the person’s income for a taxation year ending after the person disposed of the property to a deduction under section 1201 in respect of expenditures that were incurred by the person before the person disposed of the property; (*propriétaire obligé*)
+- **(b)** who would, but for paragraph 1202(2)(b) (as it read in its application to taxation years ending before February 18, 1987) or paragraph 1202(3)(a), as the case may be, be entitled in computing the person’s income for a taxation year ending after the person disposed of the property to a deduction under section 1201 in respect of expenditures that were incurred by the person before the person disposed of the property; (*propriétaire obligé*)
 
-***predecessor owner*** of a property means a corporation
+***predecessor owner*** of a property means a corporation
 - **(a)** that acquired the property in circumstances in which subsection 1202(2) applies, or would apply if the corporation had continued to own the property, to the corporation in respect of the property,
 - **(b)** that disposed of the property to another corporation that acquired it in circumstances in which subsection 1202(2) applies, or would apply if the other corporation had continued to own the property, to the other corporation in respect of the property, and
-- **(c)** that would, but for subsection 1202(10), be entitled in computing its income for a taxation year after it disposed of the property to a deduction under subsection 1202(2) in respect of expenditures incurred by an original owner of the property; (*propriétaire antérieur*)
+- **(c)** that would, but for subsection 1202(10), be entitled in computing its income for a taxation year after it disposed of the property to a deduction under subsection 1202(2) in respect of expenditures incurred by an original owner of the property; (*propriétaire antérieur*)
 
-***primary recovery*** means the recovery of oil from a reservoir as a result of utilizing the natural energy of the reservoir to move the oil toward a producing well; (*récupération primaire*)
+***primary recovery*** means the recovery of oil from a reservoir as a result of utilizing the natural energy of the reservoir to move the oil toward a producing well; (*récupération primaire*)
 
-***proceeds of disposition*** of property has the meaning assigned by paragraph 13(21)(d) of the Act; (*produit de la disposition*)
+***proceeds of disposition*** of property has the meaning assigned by paragraph 13(21)(d) of the Act; (*produit de la disposition*)
 
-***processing property*** means property
+***processing property*** means property
 - **(a)** that is included in Class 10 in Schedule II because of paragraph (g) of the description of that Class or would be so included if that paragraph were read without reference to subparagraph (ii) of that paragraph and Schedule II were read without reference to Class 41, or
 - **(b)** that is included in Class 10 in Schedule II because of paragraph (k) of the description of that Class or would be so included if that paragraph were read without reference to the words following subparagraph (ii) of that paragraph and Schedule II were read without reference to Class 41,
 
-other than property that had, before it was acquired by a taxpayer, been used for any purpose whatever by any person with whom the taxpayer was not dealing at arm’s length; (*biens servant au traitement*)
+other than property that had, before it was acquired by a taxpayer, been used for any purpose whatever by any person with whom the taxpayer was not dealing at arm’s length; (*biens servant au traitement*)
 
-***production royalty*** means an amount in respect of a particular Canadian resource property included in computing the income of a taxpayer as a rental or royalty computed by reference to the amount or value of petroleum, natural gas or related hydrocarbons produced after 1981 from a natural accumulation of petroleum or natural gas in Canada (other than a resource) or from an oil or gas well in Canada or produced after June, 1988 from a resource that is a bituminous sands deposit, oil sands deposit or oil shale deposit, if
-- **(a)** the taxpayer has a Crown royalty in respect of
-	- **(i)** such production, or
-	- **(ii)** the ownership of property to which such production relates where the Crown royalty is computed by reference to an amount of production from the accumulation, oil or gas well or resource,
-and it is reasonable to consider that the taxpayer would have had the Crown royalty if the taxpayer’s only source of income had been the rental or royalty in respect of the particular property, or
-- **(b)** the taxpayer would, but for an exemption or allowance (other than a rate of nil) that is provided, pursuant to a statute, by a person referred to in subparagraph 18(1)(m)(i), (ii) or (iii) of the Act, have a Crown royalty in respect of which paragraph (a) is applicable; (*redevance de production*)
+***production royalty***[Repealed, SOR/2007-19, s. 4]
 
-***qualified resource*** means, in relation to a particular processing property of a taxpayer, a resource that, within a reasonable time after the property was acquired by him,
+***qualified resource*** means, in relation to a particular processing property of a taxpayer, a resource that, within a reasonable time after the property was acquired by him,
 - **(a)** came into production in reasonable commercial quantities, or
-- **(b)** was the subject of a major expansion whereby the greatest designed capacity, measured in weight of input of ore, of the mill that processed ore from the resource was not less than 25% greater in the year immediately following the expansion than it was in the year immediately preceding the expansion; (*ressource admissible*)
+- **(b)** was the subject of a major expansion whereby the greatest designed capacity, measured in weight of input of ore, of the mill that processed ore from the resource was not less than 25% greater in the year immediately following the expansion than it was in the year immediately preceding the expansion; (*ressource admissible*)
 
-***qualified tertiary oil recovery project*** in respect of an expense incurred in a taxation year means a project that uses a method (including a method that uses carbon dioxide miscible, hydrocarbon miscible, thermal or chemical processes but not including a secondary recovery method) that is designed to recover oil from an oil well in Canada that is incremental to oil that would be recovered therefrom by primary recovery and a secondary recovery method, if
+***qualified tertiary oil recovery project*** in respect of an expense incurred in a taxation year means a project that uses a method (including a method that uses carbon dioxide miscible, hydrocarbon miscible, thermal or chemical processes but not including a secondary recovery method) that is designed to recover oil from an oil well in Canada that is incremental to oil that would be recovered therefrom by primary recovery and a secondary recovery method, if
 - **(a)** a specified royalty provision applies in the year or in the immediately following taxation year in respect of the production, if any, or any portion thereof from the project or in respect of the ownership of property to which such production relates,
 - **(b)** the project is on a reserve within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or
-- **(c)** the project is located in the Province of Ontario; (*projet qualifié de récupération tertiaire du pétrole*)
+- **(c)** the project is located in the Province of Ontario; (*projet qualifié de récupération tertiaire du pétrole*)
 
-***resource*** means any mineral resource in Canada; (*ressource*)
+***resource*** means any mineral resource in Canada; (*ressource*)
 
-***resource activity*** of a taxpayer means
+***resource activity*** of a taxpayer means
 - **(a)** the production by the taxpayer of petroleum, natural gas or related hydrocarbons or sulphur from
 	- **(i)** an oil or gas well in Canada, or
 	- **(ii)** a natural accumulation (other than a mineral resource) of petroleum or natural gas in Canada,
@@ -5047,13 +5036,13 @@ and, for the purposes of this definition,
 	- **(i)** the activity
 		- **(A)** is the transporting, transmitting or processing (other than processing described in subparagraph (b)(iii), paragraph (c) or (c.1) or subparagraph (d)(iii)) of petroleum, natural gas or related hydrocarbons or of sulphur, or
 		- **(B)** can reasonably be attributed to a service rendered by the taxpayer, and
-	- **(ii)** revenues derived from the activity are not taken into account in computing the taxpayer’s gross resource profits; (*activité extractive*)
+	- **(ii)** revenues derived from the activity are not taken into account in computing the taxpayer’s gross resource profits; (*activité extractive*)
 
-***secondary recovery method*** means a method to recover from a reservoir oil that is incremental to oil that would be recovered therefrom by primary recovery, by supplying energy to supplement or replace the natural energy of the reservoir through the use of technically proven methods, including waterflooding; (*méthode de récupération secondaire*)
+***secondary recovery method*** means a method to recover from a reservoir oil that is incremental to oil that would be recovered therefrom by primary recovery, by supplying energy to supplement or replace the natural energy of the reservoir through the use of technically proven methods, including waterflooding; (*méthode de récupération secondaire*)
 
 ***specified development well***[Repealed, SOR/85-174, s. 7]
 
-***specified percentage*** for a calendar year
+***specified percentage*** for a calendar year
 - **(a)** in respect of a Canadian oil and gas exploration expense of a taxpayer for that year incurred in respect of conventional lands means,
 	- **(i)** for the 1981 calendar year, 100 per cent,
 	- **(ii)** for the 1982 calendar year, 60 per cent, and
@@ -5061,15 +5050,13 @@ and, for the purposes of this definition,
 - **(b)** in respect of a Canadian oil and gas exploration expense of a taxpayer for that year incurred in respect of non-conventional lands means,
 	- **(i)** for the 1981 and 1982 calendar years, 100 per cent,
 	- **(ii)** for the 1983 calendar year, 60 per cent, and
-	- **(iii)** for the 1984 calendar year, 30 per cent; (*pourcentage désigné*)
+	- **(iii)** for the 1984 calendar year, 30 per cent; (*pourcentage désigné*)
 
-***specified property*** of a person means all or substantially all of the property used by the person in carrying on in Canada such of the businesses described in subparagraphs 66(15)(h)(i) to (vii) of the Act as were carried on by the person; (*biens déterminés*)
+***specified property*** of a person means all or substantially all of the property used by the person in carrying on in Canada such of the businesses described in subparagraphs 66(15)(h)(i) to (vii) of the Act as were carried on by the person; (*biens déterminés*)
 
-***specified royalty*** means a royalty created after December 5, 1996 (otherwise than pursuant to an agreement in writing made on or before that date) where
-- **(a)** the cost of the royalty was a Canadian development expense, and
-- **(b)** the royalty was created as part of a transaction or event or series of transactions or events as a consequence of which depreciable property was acquired at a capital cost that was less than its fair market value (determined without regard to the royalty); (*redevance déterminée*)
+***specified royalty***[Repealed, SOR/2007-19, s. 4]
 
-***stated percentage*** means
+***stated percentage*** means
 - **(a)** where the taxpayer is an individual other than a trust, in respect of subparagraph 1203(2)(a)(i),
 	- **(i)** 100 per cent in respect of an expenditure incurred before 1989,
 	- **(ii)** 50 per cent in respect of an expenditure incurred after 1988 and before 1990, and
@@ -5085,17 +5072,17 @@ and, for the purposes of this definition,
 - **(d)** in respect of subparagraph 1203(2)(a)(ii) (if paragraph (c) is not applicable), subsection 1203(4) (if paragraph (c) is not applicable) and subparagraph 1205(1)(j)(iii),
 	- **(i)** 100 per cent in respect of any assistance or benefit that relates to expenditures incurred before July 1, 1988,
 	- **(ii)** 50 per cent in respect of any assistance or benefit that relates to expenditures incurred after June 30, 1988 and before 1990, and
-	- **(iii)** 0 per cent in respect of any assistance or benefit that relates to expenditures incurred after 1989; (*pourcentage indiqué*)
+	- **(iii)** 0 per cent in respect of any assistance or benefit that relates to expenditures incurred after 1989; (*pourcentage indiqué*)
 
-***tar sands ore*** means ore extracted, other than through a well, from a mineral resource that is a deposit of bituminous sand, oil sand or oil shale; (*minerai de sables asphaltiques*)
+***tar sands ore*** means ore extracted, other than through a well, from a mineral resource that is a deposit of bituminous sand, oil sand or oil shale; (*minerai de sables asphaltiques*)
 
-***tertiary recovery equipment*** means property of a taxpayer that
+***tertiary recovery equipment*** means property of a taxpayer that
 - **(a)** is, or but for Class 41 in Schedule II would be, included in Class 10 in Schedule II by virtue of paragraph (j) of the description of that Class,
 - **(b)** was acquired by the taxpayer after 1980 for use in a qualified tertiary oil recovery project,
 
 other than property
 - **(c)** used by the taxpayer for another use prior to the use described in paragraph (b), or
-- **(d)** that had, before it was acquired by the taxpayer, been used for any purpose whatever by any person with whom the taxpayer was not dealing at arm’s length. (*matériel de récupération tertiaire*)
+- **(d)** that had, before it was acquired by the taxpayer, been used for any purpose whatever by any person with whom the taxpayer was not dealing at arm’s length. (*matériel de récupération tertiaire*)
 
 - **(2)** In this Part, ***joint exploration corporation***, ***principal-business corporation***, ***production*** from a Canadian resource property, ***reserve amount*** and ***shareholder corporation*** have the meanings assigned by subsection 66(15) of the Act.
 
@@ -5161,15 +5148,13 @@ that the number of days in the taxation year during which the property was owned
 	- **(j)** Order in Council 966/84 pursuant to section 9 of the Mines and Minerals Act of Alberta; or
 	- **(k)** Order in Council 870/84 pursuant to section 9 of the Mines and Minerals Act of Alberta.
 
-- **(8.1)** For the purposes of paragraph (a) of the definition of ***qualified tertiary oil recovery project*** in subsection (1), where at a particular time unconditional approval is given by a person referred to in subparagraph 18(1)(m)(i), (ii) or (iii) of the Act for a specified royalty provision to apply at a time after the particular time, the specified royalty provision shall be deemed to apply as of the particular time.
+- **(8.1)** For the purpose of paragraph (a) of the definition ***qualified tertiary oil recovery project*** in subsection (1), a specified royalty provision is deemed to apply as of a particular time if, at the particular time, unconditional approval for the specified royalty provision to apply at a time after the particular time is given by
+	- **(a)** Her Majesty in right of Canada or of a province;
+	- **(b)** an agent of Her Majesty in right of Canada or of a province; or
+	- **(c)** a corporation, a commission or an association that is controlled by Her Majesty in right of Canada or of a province or by an agent of Her Majesty in right of Canada or of a province.
 
-- **(9)** For the purposes of the definition ***production royalty*** in subsection (1), a ***Crown royalty*** of a taxpayer in respect of the production of petroleum, natural gas or related hydrocarbons from a natural accumulation of petroleum or natural gas in Canada, an oil or gas well in Canada, a resource that is a bituminous sands deposit, oil sands deposit or oil shale deposit or in respect of the ownership of a natural reservoir of gas or petroleum in Canada means an amount
-	- **(a)** that would be included in computing his income for a taxation year by virtue of paragraph 12(1)(o) of the Act in respect of such production or ownership if that paragraph were read without reference to the words “or a prescribed amount”,
-	- **(b)** that would not be deductible in computing his income for a taxation year by virtue of paragraph 18(1)(m) of the Act in respect of such production or ownership if that paragraph were read without reference to the words “other than a prescribed amount”,
-	- **(c)** by which his proceeds of disposition of such production are increased by virtue of subsection 69(6) of the Act, or
-	- **(d)** by which his cost of acquisition of such production is reduced by virtue of subsection 69(7) of the Act,
-less, in respect of an amount described in paragraph (a) or (b), the amount of any reimbursement, contribution or allowance referred to in section 80.2 of the Act received or receivable by the taxpayer in respect of that amount.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/79-245, s. 5; SOR/80-418, s. 4; SOR/81-974, s. 7; SOR/85-174, s. 7; SOR/86-1092, s. 8; SOR/88-423, s. 1; SOR/90-113, s. 5; SOR/90-733, s. 4; SOR/91-79, s. 7; SOR/92-681, s. 3; SOR/94-686, ss. 12(F), 48, 58(F), 68(F), 78(F), 79(F), 81(F); SOR/96-199, s. 2; SOR/96-451, s. 4; SOR/99-179, s. 7; SOR/2000-327, s. 3.
+- **(9)** [Repealed, SOR/2007-19, s. 4]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/79-245, s. 5; SOR/80-418, s. 4; SOR/81-974, s. 7; SOR/85-174, s. 7; SOR/86-1092, s. 8; SOR/88-423, s. 1; SOR/90-113, s. 5; SOR/90-733, s. 4; SOR/91-79, s. 7; SOR/92-681, s. 3; SOR/94-686, ss. 12(F), 48, 58(F), 68(F), 78(F), 79(F), 81(F); SOR/96-199, s. 2; SOR/96-451, s. 4; SOR/99-179, s. 7; SOR/2000-327, s. 3; SOR/2007-19, s. 4.
 
 
 
@@ -5274,81 +5259,14 @@ exceeds
 ### Resource Allowance
 
 
-**1210** 
-
-- **(1)** For the purpose of paragraph 20(1)(v.1) of the Act, there may be deducted in computing the income of a taxpayer for a taxation year the amount determined by the formula
-```
-.25(A - B) - C
-```
-where
-- **A** is the taxpayer’s adjusted resource profits for the year;
-- **B** is the total of all amounts each of which is a Canadian exploration and development overhead expense made or incurred by the taxpayer in the year, other than an amount included therein because of subsection 21(2) or (4) of the Act; and
-- **C** is the amount, if any, by which
-- **(a)** the total of all amounts determined under paragraphs 1205(1)(e) to (k) in computing the taxpayer’s earned depletion base at the end of the year, other than any portion of that total determined under paragraph 1205(1)(i) as a consequence of a disposition in the year of property in circumstances to which subsection 1202(2) appliesexceeds
-- **(b)** 33 1/3 per cent of the total of all amounts determined under paragraphs 1205(1)(a) to (d.2) in computing the taxpayer’s earned depletion base at the end of the year.
-
-- **(2)** For the purposes of this section, “adjusted resource profits” of a taxpayer for a taxation year is the amount, which may be positive or negative, determined by the formula
-```
-A + B - C
-```
-where
-- **A** is the amount that would be the taxpayer’s resource profits for the year if the following assumptions were made:
-- **(a)** the amount determined under paragraph 1204(1)(a) were nil,
-- **(b)** subsection 1204(1) were read without reference to subparagraph 1204(1)(b)(iv) and the definition ***resource activity*** in subsection 1206(1) were read without reference to paragraph (d) of that definition,
-- **(c)** the following amounts were not deducted in computing the taxpayer’s gross resource profits for the year and were not deducted in computing the taxpayer’s resource profits for the year:
-- **(i)** each amount deducted in computing the taxpayer’s income for the year in respect of a rental or royalty paid or payable by the taxpayer (other than an amount prescribed by section 1211, an amount that is a production royalty or an amount paid or payable in respect of a specified royalty) computed by reference to the amount or value of petroleum, natural gas or related hydrocarbons
-- **(A)** produced from a natural accumulation (other than a resource) of petroleum or natural gas in Canada or an oil or gas well in Canada, or
-- **(B)** produced from a resource that is a bituminous sands deposit, oil sands deposit or oil shale deposit,
-- **(ii)** each amount deducted in computing the taxpayer’s income for the year
-- **(A)** under any of paragraphs 20(1)(e), (e.1), (e.2) and (f) of the Act, or
-- **(B)** as, on account of or in lieu of, interest in respect of a debt owed by the taxpayer, and
-- **(iii)** each amount deducted under any of paragraph 20(1)(v.1) and sections 65 to 66.7 of the Act and subsections 17(2) and (6) and section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md),
-- **(d)** each amount that is the taxpayer’s share of the income or loss of a partnership from any source were not taken into account, and
-- **(e)** subsections 1204(1) and (1.1) provided for the computation of negative amounts where the amounts subtracted in computing gross resource profits and resource profits exceed the amounts added in computing those amounts;
-- **B** is the total of all amounts each of which is the taxpayer’s share of the adjusted resource profits of a partnership for the year, as determined under subsection (3) or (4); and
-- **C** is the amount, if any, by which the total of
-- **(a)** the total of all amounts each of which is an amount included in the taxpayer’s gross resource profits for the year as a rental or royalty (other than a production royalty or a specified royalty) computed by reference to the amount or value of petroleum, natural gas or related hydrocarbons produced from
-- **(i)** a natural accumulation (other than a resource) of petroleum or natural gas in Canada or an oil or gas well in Canada, or
-- **(ii)** a resource that is a bituminous sands deposit or oil shale deposit, and
-- **(b)** 50 per cent of all amounts included in computing the taxpayer’s gross resource profits for the year in respect of specified royaltiesexceeds
-- **(c)** if the year ends after March 6, 1996, the total of all outlays and expenses that were made or incurred in respect of the total described in paragraph (a) to the extent that the outlays and expenses were deducted in computing the taxpayer’s gross resource profits for the year.
-
-- **(3)** Where a taxpayer is a member of a partnership in a fiscal period of the partnership that ends in a taxation year of the taxpayer, the taxpayer’s share of the partnership’s adjusted resource profits for the year is
-	- **(a)** nil, where the fiscal period began before December 21, 1991; and
-	- **(b)** in any other case, the amount, which may be positive or negative, that could, if this subsection did not apply, reasonably be considered to represent the taxpayer’s share of the partnership’s adjusted resource profits for the fiscal period, determined on the assumption that each partnership is a taxpayer the fiscal period of which is a taxation year.
-
-- **(4)** Notwithstanding subsection (3), where a taxpayer is a member of an exempt partnership in a fiscal period of the partnership that begins before 2000 and ends in a taxation year of the taxpayer and the taxpayer’s share of the partnership’s adjusted resource profits for the year would, if this subsection did not apply, be a negative amount, the taxpayer’s share of the partnership’s adjusted resource profits for the year is the amount, which may be positive or negative, determined by the formula
-```
-A × B
-```
-where
-- **A** is the amount that would, if this subsection did not apply, be the taxpayer’s share of the partnership’s adjusted resource profits for the year; and
-- **B** is
-- **(a)** nil, where
-- **(i)** the partnership is an exempt partnership in respect of the taxpayer at the end of the fiscal period, and
-- **(ii)** at the end of the fiscal period, all or substantially all of the assets of the partnership were held in connection with one or more working interests
-- **(A)** the production from which began in reasonable commercial quantities before December 21, 1991, or
-- **(B)** the production from which was to begin in reasonable commercial quantities after December 20, 1991 in accordance with an agreement in writing made before December 21, 1991, and
-- **(b)** in any other case, the lesser of one and the amount determined by the formula
-```
-C / D
-```
-where
-- **C** is the amount that would be the partnership’s adjusted resource profits for the fiscal period if the partnership did not have any working interest described in subparagraph (a)(ii), and
-- **D** is the partnership’s adjusted resource profits for the fiscal period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/81-974, s. 9; SOR/85-174, s. 9; SOR/90-113, s. 7; SOR/91-79, s. 9; SOR/93-120, s. 2; SOR/94-686, ss. 58(F), 78(F); SOR/96-451, s. 5; SOR/99-179, s. 8.
+**1210** [Repealed, SOR/2007-19, s. 5]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/81-974, s. 9; SOR/85-174, s. 9; SOR/90-113, s. 7; SOR/91-79, s. 9; SOR/93-120, s. 2; SOR/94-686, ss. 58(F), 78(F); SOR/96-451, s. 5; SOR/99-179, s. 8; SOR/2007-19, s. 5.
 
 
 
 
-**1210.1** For the purpose of paragraph 12(1)(z.5) of the Act, a taxpayer’s prescribed resource loss for a taxation year is the amount determined by the formula
-```
-A - B
-```
-where
-- **A** is the total of all amounts each of which is a Canadian exploration and development overhead expense made or incurred by the taxpayer in the year, other than an amount included therein because of subsection 21(2) or (4) of the Act, and
-- **B** is the taxpayer’s adjusted resource profits for the year (as defined by subsection 1210(2)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/99-179, s. 9.
+**1210.1** [Repealed, SOR/2007-19, s. 6]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-179, s. 9; SOR/2007-19, s. 6.
 
 
 
@@ -5357,26 +5275,8 @@ where
 ### Prescribed Amounts
 
 
-**1211** The following amounts are hereby prescribed for the purposes of paragraphs 12(1)(o) and 18(1)(m) of the Act:
-- **(a)** an amount paid to, an amount that became payable to, or an amount that became receivable by
-	- **(i)** Her Majesty in right of Canada for the use and benefit of a band or bands as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or
-	- **(ii)** Petro-Canada Limited;
-- **(b)** an amount paid to, an amount that became payable to, or an amount that became receivable by any of the persons referred to in any of subparagraphs 18(1)(m)(i) to (iii) of the Act
-	- **(i)** that is an amount that may reasonably be regarded as being in respect of a rental for any property described in clause 66(15)(c)(ii)(B) or subparagraph 66(15)(c)(vi) of the Act,
-	- **(ii)** that was paid, became payable, or became receivable prior to the commencement of production of minerals from the property referred to in subparagraph (i) in reasonable commercial quantities, and
-	- **(iii)** that was paid, became payable, or became receivable, after December 11, 1979, in respect of a period commencing after that date;
-- **(c)** an amount paid to, an amount that became payable to, or an amount that became receivable by any of the persons referred to in any of subparagraphs 18(1)(m)(i) to (iii) of the Act
-	- **(i)** that may reasonably be regarded as being in respect of a rental for a right, licence or privilege to store underground petroleum, natural gas or other related hydrocarbons in Canada, and
-	- **(ii)** that was paid, became payable, or became receivable, after December 11, 1979, in respect of a period commencing after that date;
-- **(d)** an amount equal to the lesser of
-	- **(i)** an amount that
-		- **(A)** became payable to or receivable by any of the persons referred to in any of subparagraphs 18(1)(m)(i) to (iii) of the Act as a rental for property described in subparagraph 66(15)(c)(i) of the Act or for a portion of such property, and
-		- **(B)** became payable or receivable
-			- **(I)** in a taxation year in which there was no taking of petroleum, natural gas or related hydrocarbons in relation to the property or portion thereof, as the case may be, to which the rental relates, if the amount became payable or receivable after 1984, or
-			- **(II)** prior to the taking of petroleum, natural gas or related hydrocarbons in relation to the property or portion thereof, as the case may be, to which the rental relates, if the amount became payable or receivable after October 31, 1982 and before 1985, and
-	- **(ii)** an amount equal to $2.50 per year per hectare times the number of hectares to which the amount referred to in subparagraph (i) relates; and
-- **(e)** an amount paid under section 49 of the Canada Oil and Gas Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-502, s. 8; SOR/80-926, s. 2; SOR/81-974, s. 10; SOR/85-174, s. 10; 1991, c. 10, s. 19.
+**1211** [Repealed, SOR/2007-19, s. 6]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-502, s. 8; SOR/80-926, s. 2; SOR/81-974, s. 10; SOR/85-174, s. 10; 1991, c. 10, s. 19; SOR/2007-19, s. 6.
 
 
 
@@ -10305,15 +10205,15 @@ but does not include any of
 
 - **(1)** Where a corporation has resource activities for a taxation year the following rules apply, except as otherwise provided in section 5204:
 
-***adjusted business income*** of the corporation for the year means the amount, if any, by which
+***adjusted business income*** of the corporation for the year means the amount, if any, by which
 - **(a)** the amount otherwise determined under section 5202 to be the adjusted business income of the corporation for the year
 
 exceeds the total of
-- **(b)** the amount, if any, by which the corporation’s net resource income for the year exceeds the corporation’s net resource adjustment for the year,
-- **(c)** all amounts each of which is an amount in respect of refund interest included in computing the taxpayer’s income for the year, to the extent that the amount is included in the amount determined to be the adjusted business income, within the meaning of section 5202, of the corporation for the year, and
-- **(d)** all amounts each of which is included under paragraph 12(1)(z.5) of the Act in computing the taxpayer’s income for the year; (*revenue rajusté d’une entreprise*)
+- **(b)** the amount, if any, by which the corporation’s net resource income for the year exceeds the corporation’s net resource adjustment for the year, and
+- **(c)** all amounts each of which is an amount in respect of refund interest included in computing the taxpayer’s income for the year, to the extent that the amount is included in the amount determined to be the adjusted business income, within the meaning of section 5202, of the corporation for the year; (*revenue rajusté d’une entreprise*)
+- **(d)** [Repealed, SOR/2007-19, s. 7]
 
-***cost of capital*** of the corporation for the year means the amount, if any, by which
+***cost of capital*** of the corporation for the year means the amount, if any, by which
 - **(a)** the amount otherwise determined under section 5202 to be the cost of capital of the corporation for the year
 
 exceeds
@@ -10321,7 +10221,7 @@ exceeds
 	- **(i)** in activities engaged in for the purpose of earning Canadian resource profits of the corporation, or
 	- **(ii)** in activities referred to in subparagraph 66(15)(b)(i), (ii) or (v), subparagraph 66(15)(e)(i) or (ii), subparagraph 66.1(6)(a)(i), (ii), (iii) or (v) or subparagraph 66.2(5)(a)(i), (ii) or (v) of the Act; (*coût en capital*)
 
-***cost of labour*** of the corporation for the year means the amount, if any, by which
+***cost of labour*** of the corporation for the year means the amount, if any, by which
 - **(a)** the amount otherwise determined under section 5202 to be the cost of labour of the corporation for the year
 
 exceeds
@@ -10330,7 +10230,7 @@ exceeds
 	- **(ii)** was included in the Canadian exploration and development expenses, foreign exploration and development expenses, Canadian exploration expense or Canadian development expense, within the meanings assigned by paragraphs 66(15)(b) and (e), 66.1(6)(a) and 66.2(5)(a) of the Act respectively, of the corporation. (*coût en main-d’oeuvre*)
 
 - **(2)** For the purposes of subsection (1), a corporation has “resource activities” for a taxation year if
-	- **(a)** in computing its income for the year, an amount is deductible pursuant to paragraph 20(1)(v.1) or section 65, 66, 66.1 or 66.2 of the Act;
+	- **(a)** in computing its income for the year, an amount is deductible pursuant to any of sections 65 to 66.2 of the Act;
 	- **(b)** the corporation was at any time during the year engaged in activities for the purpose of earning resource profits of the corporation; or
 	- **(c)** in computing the corporation’s income for the year, an amount was included pursuant to section 59 of the Act.
 
@@ -10355,14 +10255,11 @@ A - B
 where
 - **A** is the amount of Canadian resource profits of the corporation for the year, and
 - **B** is the amount that would be the Canadian resource profits of the corporation for the year if
-- **(a)** subsections 1204(1) and (1.1) provided for the computation of negative amounts where the amounts subtracted in computing gross resource profits (as defined by subsection 1204(1)) and resource profits " exceed the amounts added in computing those amounts, and
+- **(a)** subsections 1204(1) and (1.1) provided for the computation of negative amounts where the amounts subtracted in computing gross resource profits (as defined by subsection 1204(1)) and resource profits “ exceed the amounts added in computing those amounts, and
 - **(b)** paragraph 1206(3)(a) applied so that a negative amount of resource profits of a partnership for a fiscal period that ended in the year were, to the extent of the corporation’s share thereof, deducted in computing the corporation’s resource profits for the year.
 
-- **(4)** For the purpose of subsection (1), ***refund interest*** means an amount that is received, or that becomes receivable, after March 6, 1996
-	- **(a)** from an authority (including a government or municipality) situated in Canada as a consequence of the overpayment of a tax that was not deductible under the Act in computing any taxpayer’s income and that was imposed by an Act of Canada or a province or a bylaw of a municipality;
-	- **(b)** from a person described in subparagraph 18(1)(m)(i), (ii) or (iii) of the Act as a consequence of the overpayment of an amount that, because of paragraph 18(1)(m) of the Act, was not deductible under the Act in computing any taxpayer’s income; or
-	- **(c)** from a person described in subparagraph 18(1)(m)(i), (ii) or (iii) of the Act as a consequence of the receipt of an amount that was in excess of the amount to which the person was entitled and in respect of an amount that was required to be included in computing any taxpayer’s income because of paragraph 12(1)(o) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 13; SOR/94-169, s. 7; SOR/94-686, ss. 79(F), 80(F); SOR/96-451, s. 7; SOR/99-179, s. 11.
+- **(4)** For the purpose of subsection (1), ***refund interest*** means an amount that is received, or that becomes receivable, after March 6, 1996 from an authority (including a government or municipality) situated in Canada as a consequence of the overpayment of a tax that was not deductible under the Act in computing any taxpayer’s income and that was imposed by an Act of Canada or a province or a bylaw of a municipality.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 13; SOR/94-169, s. 7; SOR/94-686, ss. 79(F), 80(F); SOR/96-451, s. 7; SOR/99-179, s. 11; SOR/2007-19, s. 7.
 
 
 
