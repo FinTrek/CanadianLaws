@@ -2890,19 +2890,19 @@ pour l’application du sous-alinéa (iv), un bien est réputé avoir été acqu
 #### Déductions supplémentaires — Catégorie 28
 
 	- **w)** sous réserve de l’article 1100A, au montant supplémentaire qu’il peut réclamer à l’égard de biens visés à la catégorie 28 et acquis dans le but de tirer un revenu d’une mine ou à l’égard de biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4a) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants
-		- **(i)** son revenu pour l’année tiré de la mine, déterminé compte non tenu de l’alinéa 12(1)z.5) de la Loi et avant d’effectuer toute déduction en application du présent alinéa, des alinéas x), y) ou ya), de l’alinéa 20(1)v.1) de la Loi, des articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), y) ou ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 	- **x)** sous réserve de l’article 1100A, au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu de plus d’une mine ou de faire produire un revenu à plus d’une mine et pour lesquels le paragraphe 1101(4b) prescrit une catégorie distincte, ne dépassant pas le moindre de
-		- **(i)** son revenu pour l’année tiré des mines, déterminé compte non tenu de l’alinéa 12(1)z.5) de la Loi et avant d’effectuer toute déduction en application du présent alinéa, de l’alinéa ya), de l’alinéa 20(1)v.1) de la Loi, des articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, à l’alinéa ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 
 #### Déductions supplémentaires — Catégorie 41
 
 	- **y)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4c) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
-		- **(i)** son revenu pour l’année tiré de la mine, déterminé compte non tenu de l’alinéa 12(1)z.5) de la Loi et avant d’effectuer toute déduction en application du présent alinéa, des alinéas x) ou ya), de l’alinéa 20(1)v.1) de la Loi, des articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x) ou ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 	- **ya)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu de plus d’une mine et pour lesquels le paragraphe 1101(4d) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
-		- **(i)** son revenu pour l’année tiré des mines, déterminé compte non tenu de l’alinéa 12(1)z.5) de la Loi et avant d’effectuer toute déduction en application du présent alinéa, de l’alinéa 20(1)v.1) de la Loi, des articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 
 #### Déductions supplémentaires — Voitures de chemin de fer
@@ -3391,7 +3391,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1.
 
 
 
@@ -4227,6 +4227,8 @@ ne sont pas des mines :
 
 - **(8)** Aux fins du paragraphe (7), «carrière de pierres» comprend une mine d’où est extraite de la pierre d’échantillon ou de la pierre concassée devant servir comme agrégat ou à d’autres fins de construction.
 
+- **(8.1)** Il est entendu que, pour l’application des alinéas c) et e) de la catégorie 28 de l’annexe II et de l’alinéa a) de la catégorie 41 de cette annexe, le terme ***production*** s’entend de la production en quantités commerciales raisonnables.
+
 #### Fabrication ou transformation
 
 
@@ -4350,7 +4352,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2.
 
 
 
@@ -4713,14 +4715,14 @@ sur
 
 **1204** 
 
-- **(1)** Pour l’application de la présente partie, les bénéfices bruts relatifs à des ressources d’un contribuable pour une année d’imposition correspondent au montant éventuel par lequel le total :
+- **(1)** Pour l’application de la présente partie, les bénéfices bruts relatifs à des ressources d’un contribuable pour une année d’imposition correspondent au montant éventuel par lequel le total :
 	- **a)** de la fraction, s’il en est, du total
 		- **(i)** du total des montants, s’il en est, qui seraient inclus dans le calcul de son revenu pour l’année en vertu du paragraphe 59(2) et des alinéas 59(3.2)b) et 59.1b) de la Loi s’il n’était pas tenu compte, au paragraphe 59(2), du renvoi au paragraphe 64(1), et
 		- **(i.1)** de l’excédent, s’il en est, du montant inclus dans le calcul de son revenu pour l’année en vertu de l’alinéa 59(3.2)c) de la Loi sur les produits de la disposition de biens visés à la disposition 66(15)c)(ii)(A) de la Loi qui lui sont devenus payables dans l’année ou une année d’imposition antérieure et après le 31 décembre 1982, dans la mesure où ces produits n’ont pas été déduits dans le calcul du montant déterminé en vertu du présent sous-alinéa pour une année d’imposition antérieure
 qui est en sus
 		- **(ii)** du total des montants, s’il en est, déduits lors du calcul de son revenu pour l’année en vertu de l’alinéa 59.1a) et des paragraphes 64(1.1) et (1.2) de la Loi,
 	- **b)** du montant, s’il en est, de l’ensemble de ses revenus pour l’année tirés
-		- **(i)** de la production de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, extraits, selon le cas :
+		- **(i)** de la production de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, extraits, selon le cas :
 			- **(A)** de puits de pétrole ou de gaz que le contribuable exploite au Canada,
 			- **(B)** de gisements naturels (sauf des ressources minérales) de pétrole ou de gaz naturel situés au Canada et exploités par le contribuable,
 		- **(ii)** de la production et du traitement au Canada
@@ -4739,35 +4741,35 @@ qui est en sus
 		- **(vi)** du traitement préliminaire au Canada,
 	- **b.1)** de l’ensemble des montants (sauf un montant inclus, par l’effet de l’alinéa b), dans le calcul des bénéfices bruts relatifs à des ressources du contribuable pour l’année) représentant chacun un montant inclus dans le calcul du revenu du contribuable pour l’année au titre d’un loyer ou d’une redevance calculé en fonction de la quantité ou de la valeur de la production d’un gisement naturel de pétrole ou de gaz naturel, d’un puits de pétrole ou de gaz ou d’une ressource minérale, situés au Canada,
 	- **c)** si le contribuable est, tout au long de l’année, propriétaire de l’ensemble des actions émises et en circulation du capital-actions d’une compagnie ferroviaire, le montant qu’il est raisonnable de considérer comme le revenu de cette compagnie pour son année d’imposition se terminant au cours de l’année provenant du transport du minerai du contribuable visé à la division b)(ii)(A), (B) ou (C),
-dépasse le total de ses pertes pour l’année provenant des sources visées à l’alinéa b), à condition que ses revenus et pertes soient calculés conformément à la Loi, selon l’hypothèse que ses seuls revenus et pertes pour l’année provenaient de ces sources et qu’il n’a eu droit à aucune déduction dans le calcul de son revenu pour l’année sauf :
+dépasse le total de ses pertes pour l’année provenant des sources visées à l’alinéa b), à condition que ses revenus et pertes soient calculés conformément à la Loi, selon l’hypothèse que ses seuls revenus et pertes pour l’année provenaient de ces sources et qu’il n’a eu droit à aucune déduction dans le calcul de son revenu pour l’année sauf :
 	- **d)** les montants déductibles en vertu de l’article 66 de la Loi (excepté les montants relatifs aux frais d’exploration et d’aménagement à l’étranger) ou du paragraphe 17(2) ou (6) ou de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md), pour l’année;
 	- **e)** les montants déductibles ou déduits, selon le cas, en application de l’article 66.1, 66.2 (sauf un montant relatif à un bien visé à la division 66(15)c)(ii)(A) de la Loi), 66.4, 66.5 ou 66.7 (sauf le paragraphe 66.7(2)) de la Loi pour l’année;
 	- **f)** les autres déductions pour l’année qu’il est raisonnable de considérer comme applicables aux sources de revenu visées aux alinéas b) ou b.1), à l’exception des déductions prévues aux alinéas 20(1)ss) ou tt) de la Loi ou à l’article 1201 ou aux paragraphes 1202(2), 1203(1), 1207(1) ou 1212(1).
 
-- **(1.1)** Pour l’application de la présente partie, les bénéfices relatifs à des ressources d’un contribuable pour une année d’imposition correspondent à l’excédent éventuel de ses bénéfices bruts relatifs à des ressources pour l’année sur le total des montants suivants :
-	- **a)** les montants déduits dans le calcul de son revenu pour l’année, à l’exception des suivants :
+- **(1.1)** Pour l’application de la présente partie, les bénéfices relatifs à des ressources d’un contribuable pour une année d’imposition correspondent à l’excédent éventuel de ses bénéfices bruts relatifs à des ressources pour l’année sur le total des montants suivants :
+	- **a)** les montants déduits dans le calcul de son revenu pour l’année, à l’exception des suivants :
 		- **(i)** un montant déduit dans le calcul de ses bénéfices bruts relatifs à des ressources pour l’année,
 		- **(ii)** un montant déduit, en application de l’article 8 ou de l’un des alinéas 20(1)ss) et tt), des articles 60 à 64 et des paragraphes 66(4), 66.7(2) et 104(6) et (12) de la Loi ou de l’article 1201 ou de l’un des paragraphes 1202(2), 1203(1), 1207(1) et 1212(1), dans le calcul de son revenu pour l’année,
 		- **(iii)** un montant déduit en application de l’article 66.2 de la Loi dans le calcul de son revenu pour l’année, dans la mesure où ce montant est attribuable à un droit, à un permis ou à un privilège afférent au stockage souterrain de pétrole, de gaz naturel ou d’hydrocarbures connexes au Canada,
 		- **(iv)** un montant déduit dans le calcul de son revenu pour l’année tiré d’une entreprise, ou d’une autre source, qui ne comporte aucune activité extractive du contribuable,
-		- **(v)** un montant déduit dans le calcul de son revenu pour l’année, dans la mesure où ce montant, à la fois :
-			- **(A)** se rapporte à une activité :
+		- **(v)** un montant déduit dans le calcul de son revenu pour l’année, dans la mesure où ce montant, à la fois :
+			- **(A)** se rapporte à une activité :
 				- **(I)** d’une part, qui n’est pas une activité extractive du contribuable,
-				- **(II)** d’autre part, qui, selon le cas :
-					- **1.** consiste à produire, à traiter, à fabriquer, à distribuer, à commercialiser, à transporter ou à vendre un bien,
-					- **2.** est exercée en vue de tirer un revenu d’un bien,
-					- **3.** consiste, pour le contribuable, à rendre un service à une autre personne en vue de gagner un revenu,
+				- **(II)** d’autre part, qui, selon le cas :
+					- **1** consiste à produire, à traiter, à fabriquer, à distribuer, à commercialiser, à transporter ou à vendre un bien,
+					- **2** est exercée en vue de tirer un revenu d’un bien,
+					- **3** consiste, pour le contribuable, à rendre un service à une autre personne en vue de gagner un revenu,
 			- **(B)** ne se rapporte pas à une activité extractive du contribuable;
-	- **b)** les montants représentant chacun l’excédent éventuel :
-		- **(i)** du montant qu’aurait exigé de lui une personne ou une société de personnes avec laquelle il avait un lien de dépendance, si ce lien n’avait pas existé :
+	- **b)** les montants représentant chacun l’excédent éventuel :
+		- **(i)** du montant qu’aurait exigé de lui une personne ou une société de personnes avec laquelle il avait un lien de dépendance, si ce lien n’avait pas existé :
 			- **(A)** soit pour l’utilisation, après le 6 mars 1996 et au cours de l’année, d’un bien, sauf de l’argent, appartenant à la personne ou à la société de personnes,
 			- **(B)** soit pour un service que la personne ou la société de personnes a fourni au contribuable après le 6 mars 1996 et au cours de l’année,
-sur le total des montants suivants :
+sur le total des montants suivants :
 		- **(ii)** le montant exigé du contribuable pour l’utilisation de ce bien ou la prestation de ce service au cours de cette période,
 		- **(iii)** la fraction du montant visé au sous-alinéa (i) qui, s’il avait été exigé, n’aurait pas été déductible dans le calcul des bénéfices relatifs à des ressources du contribuable;
 	- **c)** si l’année prend fin après le 21 février 1994, les montants ajoutés en application du paragraphe 80(13) de la Loi dans le calcul de ses bénéfices bruts relatifs à des ressources pour l’année.
 
-- **(1.2)** Les règles suivantes s’appliquent dans le cadre de l’alinéa (1.1)b) et du présent paragraphe :
+- **(1.2)** Les règles suivantes s’appliquent dans le cadre de l’alinéa (1.1)b) et du présent paragraphe :
 	- **a)** le contribuable qui a un lien de dépendance avec un associé d’une société de personnes est réputé avoir un tel lien avec la société de personnes;
 	- **b)** la société de personnes dont l’un des associés a un lien de dépendance avec l’associé d’une autre société de personnes est réputée avoir un tel lien avec l’autre société de personnes;
 	- **c)** le contribuable qui est un associé, ou est réputé l’être par le présent alinéa, d’une société de personnes qui est un associé d’une autre société de personnes est réputé être un associé de cette dernière;
@@ -4775,21 +4777,15 @@ sur le total des montants suivants :
 
 - **(2)** Pour plus de précision, pour l’application du présent article, dans le calcul du revenu ou de la perte d’une fiducie pour une année d’imposition provenant des sources mentionnées aux alinéas (1)b) et b.1), aucune déduction n’est permise relativement aux montants déductibles par la fiducie en vertu du paragraphe 104(6) ou (12) de la Loi.
 
-- **(3)** Sont exclus du revenu ou de la perte d’un contribuable provenant d’une source visée à l’alinéa (1)b) :
+- **(3)** Sont exclus du revenu ou de la perte d’un contribuable provenant d’une source visée à l’alinéa (1)b) :
 	- **a)** le revenu ou la perte provenant du transport, de la transmission ou du traitement (sauf celui visé aux divisions (1)b)(ii)(C), (iii)(C) ou (iv)(C) ou aux sous-alinéas (1)b)(v) ou (vi)) de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, provenant d’un gisement naturel de pétrole ou de gaz naturel;
-	- **b)** le revenu ou la perte découlant de l’application des alinéas 12(1)z.1), z.2) ou z.5) ou de l’article 107.3 de la Loi;
+	- **b)** le revenu ou la perte découlant de l’application des alinéas 12(1)z.1) ou z.2) ou de l’article 107.3 de la Loi;
 	- **c)** le revenu ou la perte qu’il est raisonnable d’attribuer à un service rendu par le contribuable, à l’exception d’un service de traitement visé aux sous-alinéas (1)b)(iii), (iv), (v) ou (vi) et des activités qu’il exerce à titre d’exploitant de mine de charbon.
 
-- **(4)** Aux fins de la présente partie et nonobstant toute autre disposition y figurant, le calcul du revenu ou de la perte d’un contribuable pour une année d’imposition s’effectue sans application des alinéas 12(1)o) et 18(1)m) et des paragraphes 69(6) à (10) de la Loi
-	- **a)** aux montants à recevoir et à la juste valeur marchande des biens à recevoir par la Couronne a titre de redevance, d’impôt, de loyer ou de prélèvement à l’égard du projet Syncrude, ou à titre de montant, quelle que soit la manière dont il est décrit, qui peut raisonnablement être considéré comme remplaçant un des montants qui précèdent,
-	- **b)** à la disposition en faveur de la Couronne, par le participant, de matières louées, et
-	- **c)** aux acquisitions de la Couronne, par le participant, de matières louées,
-si une remise d’impôt a été accordée au contribuable pour l’année en vertu du paragraphe 3(1) du [Décret de remise relatif à Syncrude](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/701-800/C.R.C.,%20ch.%20794.md).
-
-- **(5)** Aux fins du paragraphe (4), «couronne», «matières louées», «participant» et «projet Syncrude» ont le sens que leur attribue l’article 2 du [Décret de remise relatif à Syncrude](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/701-800/C.R.C.,%20ch.%20794.md).
+- **(4) et (5)** [Abrogés, DORS/2007-19, art. 3]
 
 - **(6)** [Abrogé, DORS/96-451, art. 2]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-502, art. 5; DORS/79-245, art. 3; DORS/80-132, art. 1; DORS/81-158, art. 1; DORS/81-974, art. 5; DORS/85-174, art. 5; DORS/90-113, art. 3; DORS/91-79, art. 5; DORS/94-686, art. 48; DORS/96-451, art. 2; DORS/99-179, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-502, art. 5; DORS/79-245, art. 3; DORS/80-132, art. 1; DORS/81-158, art. 1; DORS/81-974, art. 5; DORS/85-174, art. 5; DORS/90-113, art. 3; DORS/91-79, art. 5; DORS/94-686, art. 48; DORS/96-451, art. 2; DORS/99-179, art. 6; DORS/2007-19, art. 3.
 
 
 
@@ -4918,7 +4914,7 @@ dans le calcul de sa base de la déduction supplémentaire pour épuisement à l
 
 - **(1)** Dans la présente partie,
 
-***activité extractive*** Quant à un contribuable :
+***activité extractive*** Quant à un contribuable :
 - **a)** la production, par lui, de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, extraits, selon le cas :
 	- **(i)** d’un puits de pétrole ou de gaz au Canada,
 	- **(ii)** d’un gisement naturel (sauf une ressource minérale) de pétrole ou de gaz naturel au Canada;
@@ -4943,23 +4939,23 @@ Pour l’application de la présente définition :
 	- **(i)** selon le cas :
 		- **(A)** l’activité consiste à transporter, à transmettre ou à traiter (sauf le traitement visé au sous-alinéa b)(iii), aux alinéas c) ou c.1) ou au sous-alinéa d)(iii)) du pétrole, du gaz naturel ou des hydrocarbures connexes, ou du soufre,
 		- **(B)** il est raisonnable d’attribuer l’activité à un service rendu par le contribuable,
-	- **(ii)** les recettes tirées de l’activité n’entrent pas dans le calcul des bénéfices bruts relatifs à des ressources du contribuable. (*resource activity*)
+	- **(ii)** les recettes tirées de l’activité n’entrent pas dans le calcul des bénéfices bruts relatifs à des ressources du contribuable; (*resource activity*)
 
-***biens déterminés*** La totalité, ou presque des biens qu’une personne utilise pour l’exploitation au Canada d’entreprises visées aux sous-alinéas 65(15)h)(i) à (vii) de la Loi. (*specified property*)
+***biens déterminés*** La totalité, ou presque des biens qu’une personne utilise pour l’exploitation au Canada d’entreprises visées aux sous-alinéas 65(15)h)(i) à (vii) de la Loi; (*specified property*)
 
-***biens servant au traitement*** désigne des biens
+***biens servant au traitement*** désigne des biens
 - **a)** soit qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa g) de cette catégorie ou qui y seraient compris s’il n’était pas tenu compte du sous-alinéa (ii) de cet alinéa ni de la catégorie 41 de l’annexe II,
 - **b)** soit qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa k) de cette catégorie ou qui y seraient compris s’il n’était pas tenu compte du passage suivant le sous-alinéa (ii) de cet alinéa ni de la catégorie 41 de l’annexe II,
 
-autres que des biens qui, avant d’avoir été acquis par le contribuable, avaient été utilisés à une fin quelconque par une personne avec qui le contribuable avait un lien de dépendance; (*processing property*)
+autres que des biens qui, avant d’avoir été acquis par le contribuable, avaient été utilisés à une fin quelconque par une personne avec qui le contribuable avait un lien de dépendance; (*processing property*)
 
-***disposition de biens*** a le sens que lui donne l’alinéa 13(21)c) de la Loi; (*disposition of property*)
+***disposition de biens*** a le sens que lui donne l’alinéa 13(21)c) de la Loi; (*disposition of property*)
 
-***exploitant de mine de charbon*** Personne qui entreprend la totalité ou la presque totalité des activités liées à la production de charbon à partir d’une ressource. (*coal mine operator*)
+***exploitant de mine de charbon*** Personne qui entreprend la totalité ou la presque totalité des activités liées à la production de charbon à partir d’une ressource; (*coal mine operator*)
 
-***frais d’exploration pétrolière et gazière au Canada*** d’un contribuable désigne une dépense engagée ou effectuée après 1980, qui constituerait des frais d’exploration au Canada du contribuable au sens de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi si cette définition était interprétée sans égard aux alinéas f) et g), si le renvoi, dans l’alinéa h) de cette définition, aux alinéas a), b), c), d), f) et g) de cette définition était remplacé par un renvoi aux alinéas a) à e) et si le renvoi, dans l’alinéa i) de cette définition, aux alinéas a) à g) de cette définition était remplacé par un renvoi aux alinéas a) à e), à l’exception d’une dépense qui représente, en vertu des sous-alinéas c)(ii) ou d)(ii) de cette définition, des frais d’exploration au Canada relatifs à un projet qualifié de récupération tertiaire du pétrole; (*Canadian oil and gas exploration expense*)
+***frais d’exploration pétrolière et gazière au Canada*** d’un contribuable désigne une dépense engagée ou effectuée après 1980, qui constituerait des frais d’exploration au Canada du contribuable au sens de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi si cette définition était interprétée sans égard aux alinéas f) et g), si le renvoi, dans l’alinéa h) de cette définition, aux alinéas a), b), c), d), f) et g) de cette définition était remplacé par un renvoi aux alinéas a) à e) et si le renvoi, dans l’alinéa i) de cette définition, aux alinéas a) à g) de cette définition était remplacé par un renvoi aux alinéas a) à e), à l’exception d’une dépense qui représente, en vertu des sous-alinéas c)(ii) ou d)(ii) de cette définition, des frais d’exploration au Canada relatifs à un projet qualifié de récupération tertiaire du pétrole; (*Canadian oil and gas exploration expense*)
 
-***frais généraux d’exploration et d’aménagement au Canada*** Les frais d’exploration au Canada ou les frais d’aménagement au Canada d’un contribuable qui ne sont pas des frais liés aux énergies renouvelables et à l’économie d’énergie au Canada, au sens du paragraphe 66.1(6) de la Loi, ni ne représentent la part revenant à un contribuable de tels frais engagés par une société de personnes, et qui sont engagés ou effectués après 1980 :
+***frais généraux d’exploration et d’aménagement au Canada*** Les frais d’exploration au Canada ou les frais d’aménagement au Canada d’un contribuable qui ne sont pas des frais liés aux énergies renouvelables et à l’économie d’énergie au Canada, au sens du paragraphe 66.1(6) de la Loi, ni ne représentent la part revenant à un contribuable de tels frais engagés par une société de personnes, et qui sont engagés ou effectués après 1980 :
 - **a)** relativement à l’administration, à la gestion ou au financement d’une entreprise du contribuable,
 - **b)** relativement au traitement, salaire ou autre rémunération ou aux avantages connexes versés à l’égard d’une personne employée par le contribuable dont les fonctions n’étaient pas toutes ou presque toutes axées sur des activités d’exploration ou d’aménagement,
 - **c)** relativement aux taxes, aux assurances, aux services d’entretien ou aux loyers payés pour des biens, à l’exception des biens utilisés par le contribuable uniquement ou presque uniquement aux fins des activités d’exploration et d’aménagement, ou
@@ -4970,40 +4966,40 @@ autres que des biens qui, avant d’avoir été acquis par le contribuable, avai
 dans la mesure où ces frais dépassent le moins élevé des montants, dont chacun représente le total des frais engagés par une personne rattachée au contribuable
 	- **(iv)** à l’égard du bien,
 	- **(v)** à l’égard du service exécuté, ou
-	- **(vi)** à l’égard des matériaux, des pièces ou des fournitures; (*Canadian exploration and development overhead expense*)
+	- **(vi)** à l’égard des matériaux, des pièces ou des fournitures; (*Canadian exploration and development overhead expense*)
 
-***matériel amélioré de récupération*** Désigne les biens d’un contribuable :
+***matériel amélioré de récupération*** Désigne les biens d’un contribuable :
 - **a)** d’une part, qui sont visés à l’alinéa j) de la catégorie 10 de l’annexe II;
 - **b)** d’autre part, qui ont été acquis par le contribuable après le 10 avril 1978 et avant 1981 pour être utilisés dans la production de pétrole, provenant d’un réservoir ou d’un gisement de sables bitumineux, de sables pétrolifères ou de schiste bitumineux, situés au Canada et exploités par le contribuable, qui vient s’ajouter au pétrole qui pourrait être récupéré au moyen des techniques de récupération primaire uniquement.
 
 En sont exclus les biens :
 - **c)** utilisés par le contribuable dans le cadre d’un procédé de récupération primaire avant d’être utilisés conformément à l’alinéa b);
 - **d)** qui, avant que le contribuable les acquière, avaient été utilisés à quelque fin que ce soit par une personne avec laquelle le contribuable avait un lien de dépendance;
-- **e)** qui ont été utilisés par une personne avant le 11 avril 1978 dans la production de pétrole provenant d’un réservoir situé au Canada, qui vient s’ajouter au pétrole qui pourrait être récupéré au moyen des techniques de récupération primaire uniquement; (*enhanced recovery equipment*)
+- **e)** qui ont été utilisés par une personne avant le 11 avril 1978 dans la production de pétrole provenant d’un réservoir situé au Canada, qui vient s’ajouter au pétrole qui pourrait être récupéré au moyen des techniques de récupération primaire uniquement; (*enhanced recovery equipment*)
 
-***matériel de récupération tertiaire*** Désigne les biens d’un contribuable :
+***matériel de récupération tertiaire*** Désigne les biens d’un contribuable :
 - **a)** d’une part, qui sont visés à l’alinéa j) de la catégorie 10 de l’annexe II, ou qui le seraient en l’absence de la catégorie 41 de cette annexe;
 - **b)** d’autre part, qui sont acquis par le contribuable après 1980 pour être utilisés dans le cadre d’un projet qualifié de récupération tertiaire du pétrole.
 
 En sont exclus les biens :
 - **c)** utilisés par le contribuable à une autre fin avant qu’il les utilise conformément à l’alinéa b);
-- **d)** qui, avant que le contribuable les acquière, étaient utilisés à quelque fin que ce soit par une personne avec laquelle le contribuable avait un lien de dépendance. (*tertiary recovery equipment*)
+- **d)** qui, avant que le contribuable les acquière, étaient utilisés à quelque fin que ce soit par une personne avec laquelle le contribuable avait un lien de dépendance; (*tertiary recovery equipment*)
 
-***matériel d’exploitation de sables bitumineux*** désigne les biens d’un contribuable
+***matériel d’exploitation de sables bitumineux*** désigne les biens d’un contribuable
 - **a)** qui sont compris dans la catégorie 28 de l’annexe II ou à l’alinéa a) de la catégorie 41 de cette annexe, sauf les biens qui sont ainsi compris :
 	- **(i)** par l’effet du premier renvoi, dans la catégorie 28, à l’alinéa l) de la catégorie 10 de l’annexe II, si les biens ont été acquis par le contribuable avant le 17 novembre 1978,
 	- **(ii)** par l’effet du renvoi, dans la catégorie 28, à l’alinéa m) de la catégorie 10 de l’annexe II, et
-- **b)** qui ont été acquis par le contribuable après le 10 avril 1978 principalement dans le but de tirer ou de produire un revenu d’une ou de plusieurs mines, chacune étant située dans un gisement de sable bitumineux, un gisement de sables pétrolifères ou un gisement de schistes bitumineux d’où des matières sont extraites; (*bituminous sands equipment*)
+- **b)** qui ont été acquis par le contribuable après le 10 avril 1978 principalement dans le but de tirer ou de produire un revenu d’une ou de plusieurs mines, chacune étant située dans un gisement de sable bitumineux, un gisement de sables pétrolifères ou un gisement de schistes bitumineux d’où des matières sont extraites; (*bituminous sands equipment*)
 
-***méthode de récupération secondaire*** désigne une méthode de récupération du pétrole d’un réservoir qui fournit, par l’emploi de procédés techniquement éprouvés y compris l’injection d’eau, de l’énergie pour remplacer ou suppléer à la pression naturelle du réservoir, le pétrole ainsi récupéré étant en sus de celui qui le serait par récupération primaire; (*secondary recovery method*)
+***méthode de récupération secondaire*** désigne une méthode de récupération du pétrole d’un réservoir qui fournit, par l’emploi de procédés techniquement éprouvés y compris l’injection d’eau, de l’énergie pour remplacer ou suppléer à la pression naturelle du réservoir, le pétrole ainsi récupéré étant en sus de celui qui le serait par récupération primaire; (*secondary recovery method*)
 
-***mine*** désigne tout lieu où des matières sont extraites d’une ressource, mais ne comprend pas un puits servant à l’extraction de matières d’un gisement de sables bitumineux, de sables pétrolifères ou de schistes bitumineux; (*mine*)
+***mine*** désigne tout lieu où des matières sont extraites d’une ressource, mais ne comprend pas un puits servant à l’extraction de matières d’un gisement de sables bitumineux, de sables pétrolifères ou de schistes bitumineux; (*mine*)
 
-***minerai*** comprend le minerai provenant d’une ressource minérale et qui a été traité jusqu’à un stade qui ne dépasse pas le stade du métal primaire, ou son équivalent; (*ore*)
+***minerai*** comprend le minerai provenant d’une ressource minérale et qui a été traité jusqu’à un stade qui ne dépasse pas le stade du métal primaire, ou son équivalent; (*ore*)
 
-***minerai de sables asphaltiques*** désigne un minerai extrait, autrement que par un puits, d’une ressource minérale qui est un gisement de sables bitumineux, de sables pétrolifères ou de schistes pétrolifères; (*tar sands ore*)
+***minerai de sables asphaltiques*** désigne un minerai extrait, autrement que par un puits, d’une ressource minérale qui est un gisement de sables bitumineux, de sables pétrolifères ou de schistes pétrolifères; (*tar sands ore*)
 
-***pourcentage désigné*** pour une année civile
+***pourcentage désigné*** pour une année civile
 - **a)** à l’égard des frais d’exploration pétrolière et gazière au Canada qu’un contribuable a engagés relativement à des terres conventionnelles pour l’année en cause, désigne
 	- **(i)** 100 pour cent, pour l’année civile 1981,
 	- **(ii)** 60 pour cent, pour l’année civile 1982, et
@@ -5011,9 +5007,9 @@ En sont exclus les biens :
 - **b)** à l’égard des frais d’exploration pétrolière et gazière au Canada qu’un contribuable a engagés relativement à des terres non conventionnelles pour l’année en cause, désigne
 	- **(i)** 100 pour cent, pour les années civiles 1981 et 1982,
 	- **(ii)** 60 pour cent, pour l’année civile 1983, et
-	- **(iii)** 30 pour cent, pour l’année civile 1984; (*specified percentage*)
+	- **(iii)** 30 pour cent, pour l’année civile 1984; (*specified percentage*)
 
-***pourcentage indiqué*** Correspond aux pourcentages suivants :
+***pourcentage indiqué*** Correspond aux pourcentages suivants :
 - **a)** pour l’application du sous-alinéa 1203(2)a)(i), si le contribuable est un particulier (sauf une fiducie) :
 	- **(i)** 100 pour cent dans le cas d’une dépense engagée avant 1989,
 	- **(ii)** 50 pour cent dans le cas d’une dépense engagée après 1989 et avant 1990,
@@ -5029,56 +5025,47 @@ En sont exclus les biens :
 - **d)** pour l’application du sous-alinéa 1203(2)a)(ii) et du paragraphe 1203(4), en cas d’inapplication de l’alinéa c), ainsi que du sous-alinéa 1205(1)j)(iii) :
 	- **(i)** 100 pour cent dans le cas d’un montant d’aide ou d’avantage relié à des dépenses engagées avant le 1<sup>er</sup> juillet 1988,
 	- **(ii)** 50 pour cent dans le cas d’un montant d’aide ou d’avantage relié à des dépenses engagées après le 30 juin 1988 ou avant 1990,
-	- **(iii)** nul dans le cas d’un montant d’aide ou d’avantage relié à des dépenses engagées après 1989. (*stated percentage*)
+	- **(iii)** nul dans le cas d’un montant d’aide ou d’avantage relié à des dépenses engagées après 1989; (*stated percentage*)
 
-***produit de la disposition*** de biens a le sens que lui donne l’alinéa 13(21)d) de la Loi; (*proceeds of disposition*)
+***produit de la disposition*** de biens a le sens que lui donne l’alinéa 13(21)d) de la Loi; (*proceeds of disposition*)
 
-***projet qualifié de récupération tertiaire du pétrole*** désigne, à l’égard d’une dépense engagée dans une année d’imposition, un projet dans le cadre duquel on utilise une méthode (y compris une méthode où il y a utilisation d’un fluide miscible au dioxyde de carbone ou à l’hydrocarbure, ou d’un procédé thermique ou chimique, mais excluant une méthode de récupération secondaire) qui est conçue pour récupérer du pétrole d’un puits de pétrole au Canada qui est en sus du pétrole qui y serait récupéré par récupération primaire et une méthode de récupération secondaire, si
+***projet qualifié de récupération tertiaire du pétrole*** désigne, à l’égard d’une dépense engagée dans une année d’imposition, un projet dans le cadre duquel on utilise une méthode (y compris une méthode où il y a utilisation d’un fluide miscible au dioxyde de carbone ou à l’hydrocarbure, ou d’un procédé thermique ou chimique, mais excluant une méthode de récupération secondaire) qui est conçue pour récupérer du pétrole d’un puits de pétrole au Canada qui est en sus du pétrole qui y serait récupéré par récupération primaire et une méthode de récupération secondaire, si
 - **a)** un régime désigné de redevances s’applique dans l’année ou l’année d’imposition suivante à l’égard de la production, s’il en est, ou d’une partie quelconque de la production du projet ou à l’égard du droit de propriété dans des biens auxquels cette produi se rapporte, ou
 - **b)** le projet est situé sur une réserve au sens de la [Loi sur les indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md),
-- **c)** le projet est situé dans la province d’Ontario; (*qualified tertiary oil recovery project*)
+- **c)** le projet est situé dans la province d’Ontario; (*qualified tertiary oil recovery project*)
 
-***propriétaire antérieur*** S’entend d’une société qui, à la fois :
+***propriétaire antérieur*** S’entend d’une société qui, à la fois :
 - **a)** a acquis un bien dans des circonstances où le paragraphe 1202(2) s’applique à la société relativement au bien, ou se serait ainsi appliqué si elle avait continué d’être propriétaire du bien;
 - **b)** a disposé du bien en faveur d’une autre société qui l’a elle-même acquis dans des circonstances où le paragraphe 1202(2) s’applique à l’autre société relativement au bien, ou se serait ainsi appliqué si celle-ci avait continué d’être propriétaire du bien;
-- **c)** aurait eu droit, en l’absence du paragraphe 1202(10), dans le calcul de son revenu pour une année d’imposition se terminant après qu’elle a disposé du bien, à une déduction prévue au paragraphe 1202(2) au titre des dépenses engagées par un propriétaire obligé du bien. (*predecessor owner*)
+- **c)** aurait eu droit, en l’absence du paragraphe 1202(10), dans le calcul de son revenu pour une année d’imposition se terminant après qu’elle a disposé du bien, à une déduction prévue au paragraphe 1202(2) au titre des dépenses engagées par un propriétaire obligé du bien; (*predecessor owner*)
 
-***propriétaire obligé*** S’entend d’une personne qui, à la fois :
+***propriétaire obligé*** S’entend d’une personne qui, à la fois :
 - **a)** a disposé d’un bien dont elle était propriétaire, en faveur d’une société qui l’a acquis dans des circonstances où le paragraphe 1202(2) s’applique à la société relativement au bien, ou se serait ainsi appliqué si celle-ci avait continué d’être propriétaire du bien;
-- **b)** aurait eu droit, en l’absence de l’alinéa 1202(2)b) (dans sa version applicable aux années d’imposition se terminant avant le 18 février 1987) ou de l’alinéa 1202(3)a), dans le calcul de son revenu pour une année d’imposition se terminant après qu’elle a disposé du bien, à une déduction prévue à l’article 1201 au titre des dépenses qu’elle a engagées avant de disposer du bien. (*original owner*)
+- **b)** aurait eu droit, en l’absence de l’alinéa 1202(2)b) (dans sa version applicable aux années d’imposition se terminant avant le 18 février 1987) ou de l’alinéa 1202(3)a), dans le calcul de son revenu pour une année d’imposition se terminant après qu’elle a disposé du bien, à une déduction prévue à l’article 1201 au titre des dépenses qu’elle a engagées avant de disposer du bien; (*original owner*)
 
 ***puits d’aménagement désigné***[Abrogée, DORS/85-174, art. 7]
 
-***récupération primaire*** désigne la récupération du pétrole d’un réservoir par l’utilisation de la pression naturelle du réservoir pour amener le pétrole vers un puits productif; (*primary recovery*)
+***récupération primaire*** désigne la récupération du pétrole d’un réservoir par l’utilisation de la pression naturelle du réservoir pour amener le pétrole vers un puits productif; (*primary recovery*)
 
-***redevance de production*** S’entend d’un montant, relatif à un avoir minier canadien, inclus dans le calcul du revenu d’un contribuable à titre de loyer ou de redevance et calculé en fonction de la quantité ou de la valeur du pétrole, du gaz naturel ou des hydrocarbures connexes produits après 1981 d’un gisement naturel de pétrole ou de gaz naturel (à l’exception d’une ressource) ou d’un puits de pétrole ou de gaz, situés au Canada, ou produits après juin 1988 d’une ressource qui est un gisement de sables bitumineux, un gisement de sables pétrolifères ou un gisement de schiste bitumineux, si, selon le cas :
-- **a)** le contribuable a une redevance de la Couronne :
-	- **(i)** soit sur cette production,
-	- **(ii)** soit du fait qu’il est propriétaire de biens auxquels cette production se rapporte, dans le cas où la redevance de la Couronne est calculée en fonction de la quantité de production provenant du gisement, du puits de pétrole ou de gaz ou de la ressource,
-et il est raisonnable de considérer que le contribuable aurait eu la redevance de la Couronne si sa seule source de revenu avait été le loyer ou la redevance sur l’avoir;
-- **b)** le contribuable aurait une redevance de la Couronne à laquelle l’alinéa a) s’applique, en l’absence de l’exemption ou de l’allocation (autre qu’à un taux nul) accordée, en vertu d’une loi, par une personne visée aux sous-alinéas 18(1)m)(i), (ii) ou (iii) de la Loi. (*production royalty*)
+***redevance de production***[Abrogée, DORS/2007-19, art. 4]
 
-***redevance déterminée*** Redevance créée après le 5 décembre 1996 autrement que conformément à une convention écrite conclue avant le 6 décembre 1996, lorsque, à la fois :
-- **a)** son coût représente des frais d’aménagement au Canada;
-- **b)** elle a été créée dans le cadre d’une opération ou d’un événement, ou d’une série d’opérations ou d’événements, par suite duquel un bien amortissable a été acquis à un coût en capital inférieur à sa juste valeur marchande, déterminée compte non tenu de la redevance. (*specified royalty*)
+***redevance déterminée***[Abrogée, DORS/2007-19, art. 4]
 
-***ressource*** désigne toute ressource minérale au Canada; (*resource*)
+***ressource*** désigne toute ressource minérale au Canada; (*resource*)
 
-***ressource admissible*** désigne, relativement à des biens particuliers d’un contribuable servant au traitement, une ressource qui, dans un délai raisonnable après que les biens ont été acquis par lui,
+***ressource admissible*** désigne, relativement à des biens particuliers d’un contribuable servant au traitement, une ressource qui, dans un délai raisonnable après que les biens ont été acquis par lui,
 - **a)** a commencé à produire en quantités commerciales raisonnables, ou
-- **b)** a fait l’objet d’une expansion importante grâce à laquelle la capacité maximale projetée, mesurée selon le poids des entrées de minerai, de l’usine qui a traité le minerai provenant de la ressource, a été, dans l’année suivant immédiatement l’expansion, supérieure d’au moins 25 % à celle de l’année précédant immédiatement l’expansion; (*qualified resource*)
+- **b)** a fait l’objet d’une expansion importante grâce à laquelle la capacité maximale projetée, mesurée selon le poids des entrées de minerai, de l’usine qui a traité le minerai provenant de la ressource, a été, dans l’année suivant immédiatement l’expansion, supérieure d’au moins 25 % à celle de l’année précédant immédiatement l’expansion; (*qualified resource*)
 
-***ressource destinée à l’exportation*** désigne, relativement à un bien particulier d’un contribuable servant au traitement, une ressource dont le minerai produit ou toute partie de ce minerai au cours de l’année précédant immédiatement le jour où le bien a été acquis par le contribuable, était ordinairement traité à l’extérieur du Canada jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent; (*exporting resource*)
+***ressource destinée à l’exportation*** désigne, relativement à un bien particulier d’un contribuable servant au traitement, une ressource dont le minerai produit ou toute partie de ce minerai au cours de l’année précédant immédiatement le jour où le bien a été acquis par le contribuable, était ordinairement traité à l’extérieur du Canada jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent; (*exporting resource*)
 
-***société de personnes exclue*** Quant à un contribuable à un moment donné, société de personnes dont le contribuable est un associé tout au long de la période commençant le 20 décembre 1991 et se terminant au moment donné, lorsque la totalité, ou presque, de la juste valeur marchande des biens de la société de personnes au moment donné est attribuable à des biens détenus dans le cadre d’une ou de plusieurs participations directes que la société de personnes détenait le 20 décembre 1991 en vue de la production de minéraux, de pétrole, de gaz naturel ou d’hydrocarbures connexes, sauf si, selon le cas :
-- **a)** un bien amortissable que la société de personnes a acquis après le 20 décembre 1991 et avant le moment donné dans le cadre d’une des participations directes avait appartenu au contribuable, ou à une autre personne avec laquelle celui-ci avait un lien de dépendance, avant son acquisition et avait été utilisé par le contribuable, ou cette personne, dans le cadre de cette participation;
-- **b)** il est raisonnable de considérer que, avant le moment donné, des montants ont été exigés de la société de personnes qui n’auraient pas été ainsi exigés s’il avait été fait abstraction du paragraphe 1210(4). (*exempt partnership*)
+***société de personnes exclue***[Abrogée, DORS/2007-19, art. 4]
 
-***terres conventionnelles*** désigne les terres situées au Canada, qui ne sont pas des terres non conventionnelles; (*conventional lands*)
+***terres conventionnelles*** désigne les terres situées au Canada, qui ne sont pas des terres non conventionnelles; (*conventional lands*)
 
-***terres non conventionnelles*** désigne des terres qui appartiennent à Sa Majesté du chef du Canada ou dont Sa Majesté du chef du Canada a le droit de disposer ou d’en exploiter les ressources naturelles et qui sont situées
+***terres non conventionnelles*** désigne des terres qui appartiennent à Sa Majesté du chef du Canada ou dont Sa Majesté du chef du Canada a le droit de disposer ou d’en exploiter les ressources naturelles et qui sont situées
 - **a)** dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou à l’Île-de-Sable, ou
-- **b)** dans les régions sous-marines, qui ne sont pas à l’intérieur d’une province, qui sont adjacentes à la côte du Canada et qui s’étendent sur tout le prolongement naturel du territoire terrestre canadien, jusqu’au rebord externe de la marge continentale ou jusqu’à une distance de deux cent milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne si le rebord de la marge continentale se trouve à une distance inférieure. (*non-conventional lands*)
+- **b)** dans les régions sous-marines, qui ne sont pas à l’intérieur d’une province, qui sont adjacentes à la côte du Canada et qui s’étendent sur tout le prolongement naturel du territoire terrestre canadien, jusqu’au rebord externe de la marge continentale ou jusqu’à une distance de deux cent milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne si le rebord de la marge continentale se trouve à une distance inférieure. (*non-conventional lands*)
 
 - **(2)** Dans la présente partie, ***société actionnaire***, ***société d’exploration en commun***, ***société exploitant une entreprise principale***, ***production*** tiré d’un avoir minier canadien et ***provision*** s’entendent au sens du paragraphe 66(15) de la Loi.
 
@@ -5099,12 +5086,12 @@ et la date à laquelle le contribuable est réputé recevoir ou devenir en droit
 	- **a)** pour l’application des articles 1203 et 1205, avoir été de tels frais engagés par le contribuable à la date où la dépense a été engagée par la société d’exploration en commun; et
 	- **b)** pour l’application des articles 1204 et 1210 et des alinéas 1217(2)e) et 1218(2)e), avoir été de tels frais engagés par le contribuable à la date où la dépense était réputée avoir été engagée par lui pour l’application du paragraphe 66(10), (10.1) ou (10.2) de la Loi ou du paragraphe 29(7) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md), selon le cas.
 
-- **(4.1)** Une dépense qui constitue des frais généraux d’exploration et d’aménagement au Canada de la société d’exploration en commun visée au paragraphe (4), ou qui constituerait de tels frais si la mention de «rattachée au contribuable» ou «rattachée à lui», selon le cas, à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1) était interprétée comm une mention de «rattachée à la société actionnaire en faveur de laquelle on a renoncé à la dépense pour l’application du paragraphe 66(10.1) ou (10.2) de la Loi», qui peut raisonnablement être considérée comme étant incluse dans des frais d’exploration au Canada ou des frais d’aménagement au Canada qui sont réputés être, en vertu du paragraphe (4), des frais d’exploration au Canada et des frais d’aménagement au Canada de la société actionnaire, est réputée constituer des frais généraux d’exploration et d’aménagement au Canada de la société actionnaire engagés par elle à la date où la dépense était réputée, en vertu du paragraphe (4), avoir été engagée par elle et est réputée à compter de cette date, ne pas constituer des frais généraux d’exploration et d’aménagement au Canada engagés par la société d’exploration en commun.
+- **(4.1)** Une dépense qui constitue des frais généraux d’exploration et d’aménagement au Canada de la société d’exploration en commun visée au paragraphe (4), ou qui constituerait de tels frais si la mention de « rattachée au contribuable » ou « rattachée à lui », selon le cas, à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1) était interprétée comm une mention de « rattachée à la société actionnaire en faveur de laquelle on a renoncé à la dépense pour l’application du paragraphe 66(10.1) ou (10.2) de la Loi », qui peut raisonnablement être considérée comme étant incluse dans des frais d’exploration au Canada ou des frais d’aménagement au Canada qui sont réputés être, en vertu du paragraphe (4), des frais d’exploration au Canada et des frais d’aménagement au Canada de la société actionnaire, est réputée constituer des frais généraux d’exploration et d’aménagement au Canada de la société actionnaire engagés par elle à la date où la dépense était réputée, en vertu du paragraphe (4), avoir été engagée par elle et est réputée à compter de cette date, ne pas constituer des frais généraux d’exploration et d’aménagement au Canada engagés par la société d’exploration en commun.
 
 - **(4.2)** Pour l’application des alinéas 66(12.6)b), (12.601)b) et (12.62)b) de la Loi, les frais généraux d’exploration et d’aménagement au Canada d’une société sont les suivants :
 	- **a)** les frais généraux d’exploration et d’aménagement au Canada de la société;
-	- **b)** les frais qui seraient des frais généraux d’exploration et d’aménagement au Canada de la société si les passages « rattachée au contribuable » et « rattachée à lui », à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1), étaient remplacés par « rattachée à la personne en faveur de laquelle il est renoncé aux frais en vertu des paragraphes 66(12.6), (12.601) ou (12.62) de la Loi »;
-	- **c)** les frais qui seraient des frais généraux d’exploration et d’aménagement au Canada de la société si les passages « personne rattachée au contribuable » et « personne rattachée à lui », à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1), étaient remplacés par « personne en faveur de laquelle il est renoncé aux frais en vertu des paragraphes 66(12.6), (12.601) ou (12.62) de la Loi ».
+	- **b)** les frais qui seraient des frais généraux d’exploration et d’aménagement au Canada de la société si les passages « rattachée au contribuable » et « rattachée à lui », à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1), étaient remplacés par « rattachée à la personne en faveur de laquelle il est renoncé aux frais en vertu des paragraphes 66(12.6), (12.601) ou (12.62) de la Loi »;
+	- **c)** les frais qui seraient des frais généraux d’exploration et d’aménagement au Canada de la société si les passages « personne rattachée au contribuable » et « personne rattachée à lui », à l’alinéa d) de la définition de ***frais généraux d’exploration et d’aménagement au Canada*** au paragraphe (1), étaient remplacés par « personne en faveur de laquelle il est renoncé aux frais en vertu des paragraphes 66(12.6), (12.601) ou (12.62) de la Loi ».
 
 - **(4.3)** Pour l’application des paragraphes (4.2) et (5), une société de personnes est réputée être une personne et son année d’imposition est réputée être son exercice.
 
@@ -5114,12 +5101,12 @@ et la date à laquelle le contribuable est réputé recevoir ou devenir en droit
 		- **(ii)** la personne a un pourcentage d’intérêt d’au moins 10 pour cent dans la société donnée, ou
 		- **(iii)** la personne est une société dans laquelle une autre personne a un pourcentage d’intérêt d’au moins 10 pour cent et l’autre personne a un pourcentage d’intérêt d’au moins 10 pour cent dans la société donnée;
 	- **a.1)** une personne est rattachée à une autre personne qui n’est pas une société si elles ont entre elles un lien de dépendance;
-	- **b)** «les frais engagés par une personne» ne comprend pas
-		- **(i)** une dépense, décrite à l’un des alinéas a) à c) de cette définition, que la personne a engagée ou effectuée, si le terme « contribuable » était remplacé par « personne » dans ces alinéas,
+	- **b)** « les frais engagés par une personne » ne comprend pas
+		- **(i)** une dépense, décrite à l’un des alinéas a) à c) de cette définition, que la personne a engagée ou effectuée, si le terme « contribuable » était remplacé par « personne » dans ces alinéas,
 		- **(ii)** une dépense engagée ou effectuée par la personne et qui ne peut raisonnablement être attribuée à l’utilisation d’un bien par un contribuable visé dans cette définition à l’acquisition de matériaux, de pièces ou de fournitures par lui ou à l’exécution d’un service pour son compte,
 		- **(iii)** un montant au titre du coût en capital d’un bien supporté par la personne, sauf, dans le cas d’un bien amortissable, la fraction de la déduction pour amortissement qu’elle a réclamée pour son année d’imposition à l’égard de ce bien qui peut raisonnablement être considérée comme attribuable à l’usage du bien par le contribuable visé dans cette définition, ou à l’usage du bien dans l’exécution d’un service pour ce contribuable.
 
-- **(6)** Aux fins du sous-alinéa (5)b)(iii), «la déduction pour amortissement» de la personne (appelée dans le présent paragraphe le «propriétaire») pour son année d’imposition à l’égard du bien lui appartenant signifie la fraction d’un montant, jusqu’à concurrence de 20 pour cent, qui est égal,
+- **(6)** Aux fins du sous-alinéa (5)b)(iii), la ***déduction pour amortissement*** de la personne (appelée dans le présent paragraphe le « propriétaire ») pour son année d’imposition à l’égard du bien lui appartenant signifie la fraction d’un montant, jusqu’à concurrence de 20 pour cent, qui est égal,
 	- **a)** dans le cas d’un bien possédé par le propriétaire le 31 décembre 198 au moins élevé des montants suivants :
 		- **(i)** le coût en capital, pour le propriétaire, calculé comme si aucun montant n’y avait été ajouté, lequel montant représente un coût d’emprunt de capital incluant tout coût engagé avant le début de l’exploitation d’une entreprise, et
 		- **(ii)** la juste valeur marchande du bien au 31 décembre 1980,
@@ -5129,7 +5116,7 @@ et la date à laquelle le contribuable est réputé recevoir ou devenir en droit
 	- **c)** dans tous les autres cas, au coût en capital du bien pour le propriétaire, calculé comme si aucun montant n’y avait été ajouté, lequel montant représente un coût d’emprunt de capital incluant tout coût engagé avant le début de l’exploitation d’une entreprise,
 multiplié par le rapport entre le nombre de jours dans l’année d’imposition durant lesquels le bien appartenait au propriétaire et 365.
 
-- **(7)** Aux fins de l’alinéa (5)a), «pourcentage d’intérêt» a le sens que lui prête l’alinéa 95(4)b) de la Loi.
+- **(7)** Aux fins de l’alinéa (5)a), ***pourcentage d’intérêt*** a le sens que lui prête l’alinéa 95(4)b) de la Loi.
 
 - **(8)** Pour l’application de la définition de ***projet qualifié de récupération tertiaire du pétrole*** au paragraphe (1), un ***régime désigné de redevances*** désigne :
 	- **a)** le règlement connu sous le nom de Experimental Project Petroleum Royalty Regulation de l’Alberta, n<sup>o</sup> 36/79;
@@ -5144,15 +5131,13 @@ multiplié par le rapport entre le nombre de jours dans l’année d’impositio
 	- **j)** l’arrêté-en-conseil 966/84 pris en vertu de l’article 9 de la loi connue sous le nom de Mines and Minerals Act de l’Alberta; ou
 	- **k)** l’arrêté en conseil 870/84 pris en vertu de l’article 9 de la loi de l’Alberta intitulée Mines and Minerals Act.
 
-- **(8.1)** Pour l’application de l’alinéa a) de la définition de ***projet qualifié de récupération tertiaire du pétrole*** au paragraphe (1), dans le cas où, à un moment donné, une personne visée au sous-alinéa 18(1)m)(i), (ii) ou (iii) de la Loi approuve inconditionnellement l’application, après ce moment, d’un régime désigné de redevance, ce régime est réputé s’appliquer à compter de ce moment.
+- **(8.1)** Pour l’application de l’alinéa a) de la définition de ***projet qualifié de récupération tertiaire du pétrole*** au paragraphe (1), un régime désigné de redevance est réputé s’appliquer à compter d’un moment déterminé si son application, après ce moment, a été approuvée inconditionnellement à ce moment :
+	- **a)** soit par Sa Majesté du chef du Canada ou d’une province;
+	- **b)** soit par un mandataire de Sa Majesté du chef du Canada ou d’une province;
+	- **c)** soit par une société, une commission ou une association contrôlée par Sa Majesté du chef du Canada ou d’une province, ou par son mandataire.
 
-- **(9)** Pour l’application de la définition de ***redevance de production*** au paragraphe (1), est une redevance de la Couronne d’un contribuable relativement à la production de pétrole, de gaz naturel ou d’hydrocarbures connexes provenant d’un gisement naturel de pétrole ou de gaz naturel ou d’un puits de pétrole ou de gaz naturel, situés au Canada, relativement à une ressource qui est un gisement de sables bitumineux, un gisement de sables pétrolifères ou un gisement de schiste bitumineux ou relativement au droit de propriété sur un réservoir naturel de pétrole ou de gaz situé au Canada, le montant :
-	- **a)** qui serait inclus dans le calcul de son revenu pour une année d’imposition en vertu de l’alinéa 12(1)o) de la Loi relativement à cette production ou à ce droit de propriété si cet alinéa était interprété sans la mention des mots «ou une somme prescrite»,
-	- **b)** qui ne serait pas déductible dans le calcul de son revenu pour une année d’imposition en vertu de l’alinéa 18(1)m) de la Loi relativement à cette production ou à ce droit de propriété si cet alinéa était interprété sans la mention des mots «autre qu’une somme prescrite»,
-	- **c)** duquel son produit de la disposition de cette production est augmenté en vertu du paragraphe 69(6) de la Loi, ou
-	- **d)** duquel son coût d’acquisition de cette production est réduit en vertu du paragraphe 69(7) de la Loi,
-moins, relativement à un montant visé aux alinéas a) ou b), le montant d’un remboursement, d’une contribution ou d’une indemnité, visé à l’article 80.2 de la Loi, reçu ou à recevoir par lui relativement à ce montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-245, art. 5; DORS/80-418, art. 4; DORS/81-974, art. 7; DORS/85-174, art. 7; DORS/86-1092, art. 8; DORS/88-423, art. 1; DORS/90-113, art. 5; DORS/90-733, art. 4; DORS/91-79, art. 7; DORS/92-681, art. 3; DORS/94-686, art. 12(F), 48, 58(F), 68(F), 78(F), 79(F) et 81(F); DORS/96-199, art. 2; DORS/96-451, art. 4; DORS/99-179, art. 7; DORS/2000-327, art. 3.
+- **(9)** [Abrogé, DORS/2007-19, art. 4]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-245, art. 5; DORS/80-418, art. 4; DORS/81-974, art. 7; DORS/85-174, art. 7; DORS/86-1092, art. 8; DORS/88-423, art. 1; DORS/90-113, art. 5; DORS/90-733, art. 4; DORS/91-79, art. 7; DORS/92-681, art. 3; DORS/94-686, art. 12(F), 48, 58(F), 68(F), 78(F), 79(F) et 81(F); DORS/96-199, art. 2; DORS/96-451, art. 4; DORS/99-179, art. 7; DORS/2000-327, art. 3; DORS/2007-19, art. 4.
 
 
 
@@ -5257,81 +5242,14 @@ qui est en sus
 ### Déduction relative à des ressources
 
 
-**1210** 
-
-- **(1)** Pour l’application de l’alinéa 20(1)v.1) de la Loi, le résultat du calcul suivant peut être déduit dans le calcul du revenu d’un contribuable pour une année d’imposition :
-```
-0,25(A - B) - C
-```
-où : 
-- **A** représente les bénéfices modifiés relatifs à des ressources du contribuable pour l’année;
-- **B** le total des montants représentant chacun des frais généraux d’exploration et d’aménagement au Canada faits ou engagés par le contribuable au cours de l’année, à l’exception d’un montant compris dans ce total par l’effet des paragraphes 21(2) ou (4) de la Loi;
-- **C** l’excédent éventuel du total visé à l’alinéa a) sur le montant visé à l’alinéa b) :
-- **a)** le total des montants déterminés selon les alinéas 1205(1)e) à k) dans le calcul de la base de la déduction pour épuisement gagnée du contribuable à la fin de l’année, à l’exception de la fraction de ce total qui est déterminée selon l’alinéa 1205(1)i) par suite de la disposition de biens effectuée au cours de l’année dans les circonstances visées au paragraphe 1202(2);
-- **b)** 33 1/3 % du total des montants déterminés selon les alinéas 1205(1)a) àd.2) dans le calcul de la base de la déduction pour épuisement gagnée du contribuable à la fin de l’année.
-
-- **(2)** Pour l’application du présent article, les bénéfices modifiés relatifs à des ressources d’un contribuable pour une année d’imposition correspondent au résultat, positif ou négatif, du calcul suivant :
-```
-A + B - C
-```
-où : 
-- **A** représente le montant qui représenterait les bénéfices relatifs à des ressources du contribuable pour l’année si, à la fois :
-- **a)** le montant déterminé selon l’alinéa 1204(1)a) était nul,
-- **b)** il n’était pas tenu compte du sous-alinéa 1204(1)b)(iv) ni de l’alinéa d) de la définition de ***activité extractive*** au paragraphe 1206(1),
-- **c)** les montants suivants n’étaient pas déduits dans le calcul des bénéfices bruts relatifs à des ressources du contribuable pour l’année ni dans le calcul de ses bénéfices relatifs à des ressources pour l’année :
-- **(i)** chaque montant déduit dans le calcul du revenu du contribuable pour l’année relativement à un loyer ou une redevance payé ou payable par lui (sauf un montant visé à l’article 1211, un montant qui représente une redevance de production et un montant payé ou payable relativement à une redevance déterminée) et calculé en fonction de la quantité ou de la valeur du pétrole, du gaz naturel ou des hydrocarbures connexes produits :
-- **(A)** d’un gisement naturel (sauf une ressource) de pétrole ou de gaz naturel ou d’un puits de pétrole ou de gaz, situés au Canada,
-- **(B)** d’une ressource qui constitue un gisement de sables bitumineux, un gisement de sables pétrolifères ou un gisement de schiste bitumineux,
-- **(ii)** chaque montant déduit dans le calcul de son revenu pour l’année :
-- **(A)** soit en application de l’un des alinéas 20(1)e), e.1), e.2) et f) de la Loi,
-- **(B)** soit au titre des intérêts sur une dette dont le contribuable est débiteur,
-- **(iii)** chaque montant déduit en application de l’alinéa 20(1)v.1) ou de l’un des articles 65 à 66.7 de la Loi ou de l’un des paragraphes 17(2) et (6) et de l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
-- **d)** il n’était tenu compte d’aucun montant représentant la part qui revient au contribuable du revenu ou de la perte d’une société de personnes provenant d’une source,
-- **e)** les paragraphes 1204(1) et (1.1) prévoyaient le calcul de montants négatifs lorsque les montants soustraits dans le calcul des bénéfices bruts relatifs à des ressources et des bénéfices relatifs à des ressources dépassent les montants ajoutés dans le calcul de ces sommes;
-- **B** le total des montants représentant chacun la part qui revient au contribuable des bénéfices modifiés relatifs à des ressources d’une société de personnes pour l’année, déterminée selon les paragraphes (3) ou (4);
-- **C** l’excédent éventuel du total des montants suivants :
-- **a)** le total des montants représentant chacun un montant inclus dans les bénéfices bruts relatifs à des ressources du contribuable pour l’année à titre de loyer ou de redevance (sauf une redevance de production et une redevance déterminée) calculé en fonction de la quantité ou de la valeur du pétrole, du gaz naturel ou des hydrocarbures connexes produits :
-- **(i)** d’un gisement naturel (sauf une ressource) de pétrole ou de gaz naturel ou d’un puits de pétrole ou de gaz, situés au Canada,
-- **(ii)** d’une ressource qui constitue un gisement de sables bitumineux ou un gisement de schiste bitumineux,
-- **b)** 50 pour cent des montants inclus dans le calcul des bénéfices bruts relatifs à des ressources du contribuable pour l’année relativement à des redevances déterminées,sur le total suivant :
-- **c)** lorsque l’année prend fin après le 6 mars 1996, le total des dépenses faites ou engagées relativement au total visé à l’alinéa a) dans la mesure où elles ont été déduites dans le calcul des bénéfices bruts relatifs à des ressources du contribuable pour l’année.
-
-- **(3)** Lorsqu’un contribuable est un associé d’une société de personnes au cours de l’exercice de celle-ci qui prend fin dans une année d’imposition du contribuable, la part qui revient à celui-ci des bénéfices modifiés relatifs à des ressources de la société de personnes pour l’année correspond au montant suivant :
-	- **a)** si l’exercice a commencé avant le 21 décembre 1991, zéro;
-	- **b)** dans les autres cas, le montant positif ou négatif qu’il serait raisonnable de considérer, si le présent paragraphe ne s’appliquait pas, comme représentant sa part des bénéfices modifiés relatifs à des ressources de la société de personnes pour l’exercice, déterminée comme si chaque société de personnes était un contribuable dont l’exercice correspond à une année d’imposition.
-
-- **(4)** Malgré le paragraphe (3), lorsqu’un contribuable est un associé d’une société de personnes exclue au cours d’un exercice de celle-ci qui commence avant 2000 et prend fin dans une année d’imposition du contribuable et que la part qui revient à celui-ci des bénéfices modifiés relatifs à des ressources de la société de personnes pour l’année serait négative si le présent paragraphe ne s’appliquait pas, la part qui revient au contribuable des bénéfices modifiés relatifs à des ressources de la société de personnes pour l’année correspond au résultat, positif ou négatif, du calcul suivant :
-```
-A × B
-```
-où :
-- **A** représente le montant qui représenterait la part qui revient au contribuable des bénéfices modifiés relatifs à des ressources de la société de personnes pour l’année si le présent paragraphe ne s’appliquait pas;
-- **B :** 
-- **a)** zéro, si, à la fois :
-- **(i)** la société de personnes est une société de personnes exclue quant au contribuable à la fin de l’exercice,
-- **(ii)** à la fin de l’exercice, la totalité, ou presque, des actifs de la société de personnes sont détenus dans le cadre d’une ou plusieurs participations directes :
-- **(A)** soit qui ont commencé à produire en quantités commerciales raisonnables avant le 21 décembre 1991,
-- **(B)** soit qui devaient commencer à produire en quantités commerciales raisonnables après le 20 décembre 1991 conformément à une convention écrite conclue avant le 21 décembre 1991,
-- **b)** dans les autres cas, le moins élevé de un et du résultat du calcul suivant :
-```
-C / D
-```
-où :
-- **C** représente le montant qui représenterait les bénéfices modifiés relatifs à des ressources de la société de personnes pour l’exercice si celle-ci n’avait pas de participation directe visée au sous-alinéa a)(ii),
-- **D** les bénéfices modifiés relatifs à des ressources de la société de personnes pour l’exercice.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-974, art. 9; DORS/85-174, art. 9; DORS/90-113, art. 7; DORS/91-79, art. 9; DORS/93-120, art. 2; DORS/94-686, art. 58(F) et 78(F); DORS/96-451, art. 5; DORS/99-179, art. 8.
+**1210** [Abrogé, DORS/2007-19, art. 5]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-974, art. 9; DORS/85-174, art. 9; DORS/90-113, art. 7; DORS/91-79, art. 9; DORS/93-120, art. 2; DORS/94-686, art. 58(F) et 78(F); DORS/96-451, art. 5; DORS/99-179, art. 8; DORS/2007-19, art. 5.
 
 
 
 
-**1210.1** Pour l’application de l’alinéa 12(1)z.5) de la Loi, la perte relative à des ressources d’un contribuable pour une année d’imposition correspond au résultat du calcul suivant :
-```
-A - B
-```
-où : 
-- **A** représente le total des montants dont chacun correspond à des frais généraux d’exploration et d’aménagement au Canada effectués ou engagés par le contribuable au cours de l’année, à l’exception d’un montant compris dans ces frais par l’effet des paragraphes 21(2) ou (4) de la Loi;
-- **B** les bénéfices modifiés relatifs à des ressources du contribuable pour l’année, au sens du paragraphe 1210(2)
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/99-179, art. 9.
+**1210.1** [Abrogé, DORS/2007-19, art. 6]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-179, art. 9; DORS/2007-19, art. 6.
 
 
 
@@ -5340,26 +5258,8 @@ où :
 ### Montants prescrits
 
 
-**1211** Les montants suivants sont prescrits aux fins des alinéas 12(1)o) et 18(1)m) de la Loi :
-- **a)** un montant payé à, un montant payable à, ou un montant à recevoir par
-	- **(i)** Sa Majesté du chef du Canada pour l’utilisation et l’avantage d’une ou de plusieurs bandes, définies dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou
-	- **(ii)** Pétro-Canada Limitée;
-- **b)** un montant payé à, un montant payable à, ou un montant à recevoir par l’une des personnes visées aux sous-alinéas 18(1)m)(i) à (iii) de la Loi
-	- **(i)** qui peut raisonnablement être considéré comme un montant payé pour la location d’un bien visé à la disposition 66(15)c)(ii)(B) ou au sous-alinéa 66(15)c)(vi) de la Loi,
-	- **(ii)** qui a été payé, est devenu payable ou est devenu à recevoir avant le début de la production de minéraux extraits du bien visé au sous-alinéa (i) en quantités commerciales raisonnables, et
-	- **(iii)** qui a été payé, est devenu payable ou est devenu à recevoir après le 11 décembre 1979 pour une période commençant après cette date;
-- **c)** un montant payé à, un montant payable à, ou un montant à recevoir par l’une des personnes visées aux sous-alinéas 18(1)m)(i) à (iii) de la Loi
-	- **(i)** qui peut raisonnablement être considéré comme un montant payé pour la location d’un droit, d’une licence ou d’un privilège en vue du stockage souterrain du pétrole, du gaz naturel ou d’autres hydrocarbures connexes au Canada, et
-	- **(ii)** qui a été payé, est devenu payable ou est devenu à recevoir après le 11 décembre 1979 pour une période commençant après cette date;
-- **d)** un montant égal au moindre
-	- **(i)** d’un montant qui
-		- **(A)** est devenu payable à une personne visée à l’un des sous-alinéas 18(1)m)(i) à (iii) de la Loi, ou est devenu recevable par elle, comme loyer d’un bien visé au sous-alinéa 66(15)c)i) de la Loi ou d’une partie d’un tel bien, et
-		- **(B)** est devenu payable ou recevable
-			- **(I)** dans une année d’imposition où il n’y a eu aucune production de pétrole, de gaz naturel ou d’hydrocarbures connexes relativement au bien ou à la partie louée, si le montant est devenu payable ou recevable après 1984, ou
-			- **(II)** avant la production de pétrole, de gaz naturel ou d’hydrocarbures connexes relativement au bien ou à la partie louée, si le montant est devenu payable ou recevable après le 31 octobre 1982 et avant 1985, et
-	- **(ii)** du produit de 2,50 $ par an l’hectare et du nombre d’hectares auquel le montant visé au sous-alinéa (i) se rapporte; et
-- **e)** un montant payé en vertu de l’article 49 de la Loi sur le pétrole et le gaz au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-502, art. 8; DORS/80-926, art. 2; DORS/81-974, art. 10; DORS/85-174, art. 10; 1991, ch. 10, art. 19.
+**1211** [Abrogé, DORS/2007-19, art. 6]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-502, art. 8; DORS/80-926, art. 2; DORS/81-974, art. 10; DORS/85-174, art. 10; 1991, ch. 10, art. 19; DORS/2007-19, art. 6.
 
 
 
@@ -10262,9 +10162,9 @@ qui est en sus
 
 **5203** 
 
-- **(1)** Lorsqu’une société se livre à des activités relatives à des ressources naturelles pendant une année d’imposition, les règles suivantes s’appliquent, sauf indication contraire prévue à l’article 5204 :
+- **(1)** Lorsqu’une société se livre à des activités relatives à des ressources naturelles pendant une année d’imposition, les règles suivantes s’appliquent, sauf indication contraire prévue à l’article 5204 :
 
-***coût en capital*** de la société pour l’année signifie la fraction, si fraction il y a,
+***coût en capital*** de la société pour l’année signifie la fraction, si fraction il y a,
 - **a)** du montant par ailleurs déterminé en vertu de l’article 5202 comme étant le coût en capital de la société pour l’année
 
 qui est en sus
@@ -10272,7 +10172,7 @@ qui est en sus
 	- **(i)** pour des activités exercées par la société afin de réaliser des bénéfices relatifs à des ressources au Canada, ou
 	- **(ii)** pour des activités visées aux sous-alinéas 66(15)b)(i), (ii) ou (v), aux sous-alinéas 66(15)e)(i) ou (ii), aux sous-alinéas 66.1(6)a)(i), (ii), (iii) ou (v) ou aux sous-alinéas 66.2(5)a)(i), (ii) ou (v) de la Loi; (*cost of capital*)
 
-***coût en main-d’oeuvre*** de la société pour l’année signifie la fraction, si fraction il y a,
+***coût en main-d’oeuvre*** de la société pour l’année signifie la fraction, si fraction il y a,
 - **a)** du montant par ailleurs déterminé en vertu de l’article 5202 comme étant le coût en main-d’oeuvre de la société pour l’année
 
 qui est en sus
@@ -10280,47 +10180,44 @@ qui est en sus
 	- **(i)** était reliée à des activités exercées par la société afin de réaliser des bénéfices relatifs à des ressources au Canada, ou
 	- **(ii)** était comprise dans les frais d’exploration et d’aménagement au Canada, les frais d’exploration ou d’aménagement à l’étranger, les frais d’exploration ou d’aménagement au Canada, tels que les définissent respectivement les alinéas 66(15)b) et e), 66.1(6)a) et 66.2(5)a) de la Loi, engagés par la société; (*cost of labour*)
 
-***revenu rajusté tiré d’une entreprise*** par la société, pour l’année, signifie la fraction, si fraction il y a,
+***revenu rajusté tiré d’une entreprise*** par la société, pour l’année, signifie la fraction, si fraction il y a,
 - **a)** du montant par ailleurs déterminé en vertu de l’article 5202 comme étant le revenu rajusté tiré d’une entreprise par la société pour l’année
 
-qui dépasse le total des montants suivants :
+qui dépasse le total des montants suivants :
 - **b)** l’excédent éventuel du revenu net relatif à des ressources de la société pour l’année sur le montant de rajustement net relatif à des ressources qui lui est applicable pour l’année;
-- **c)** les montants représentant chacun un montant au titre des intérêts sur un paiement en trop qui sont inclus dans le calcul du revenu du contribuable pour l’année, dans la mesure où ce montant est inclus dans le montant qui représente le revenu rajusté tiré d’une entreprise, au sens de l’article 5202, de la société pour l’année;
-- **d)** les montants qui sont inclus, en application de l’alinéa 12(1)z.5) de la Loi, dans le calcul du revenu du contribuable pour l’année. (*adjusted business income*)
+- **c)** les montants représentant chacun un montant au titre des intérêts sur un paiement en trop qui sont inclus dans le calcul du revenu du contribuable pour l’année, dans la mesure où ce montant est inclus dans le montant qui représente le revenu rajusté tiré d’une entreprise, au sens de l’article 5202, de la société pour l’année. (*adjusted business income*)
+- **d)** [Abrogé, DORS/2007-19, art. 7]
 
-- **(2)** Aux fins du paragraphe (1), une société se livre à des «activités relatives à des ressources» pendant une année d’imposition si
-	- **a)** un montant est déductible conformément à l’alinéa 20(1)v.1) ou à l’article 65, 66, 66.1 ou 66.2 de la Loi lors du calcul de son revenu pour l’année;
+- **(2)** Aux fins du paragraphe (1), une société se livre à des « activités relatives à des ressources » pendant une année d’imposition si
+	- **a)** une somme est déductible en application de l’un des articles 65 à 66.2 de la Loi dans le calcul de son revenu pour l’année;
 	- **b)** la société s’est livrée à un moment quelconque de l’année à des activités qu’elle a exercées afin de réaliser des bénéfices relatifs à des ressources; ou
 	- **c)** un montant a été inclus lors du calcul du revenu de la société pour l’année, conformément à l’article 59 de la Loi.
 
-- **(3)** Au paragraphe (1), « revenu net relatif à des ressources » d’une société pour une année d’imposition s’entend de l’excédent éventuel du total des montants suivants :
+- **(3)** Au paragraphe (1), ***revenu net relatif à des ressources*** d’une société pour une année d’imposition s’entend de l’excédent éventuel du total des montants suivants :
 	- **a)** les bénéfices relatifs à des ressources de la société pour l’année,
-	- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+	- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 		- **(i)** le total des montants inclus dans le calcul du revenu de la société pour l’année, tiré d’une entreprise exploitée activement au Canada, en conformité avec l’article 59 de la Loi (exception faite des montants qu’il est raisonnable de considérer comme inclus dans le calcul des bénéfices relatifs à des ressources de la société pour l’année),
 		- **(ii)** le total des montants déduits dans le calcul du revenu de la société pour l’année en conformité avec l’article 64 de la Loi dans son application aux dispositions effectuées avant le 13 novembre 1981 ainsi qu’à celles effectuées après le 12 novembre 1981 conformément aux modalités, existantes à cette date, d’une offre ou d’une convention écrite faite ou conclue au plus tard à cette date, à l’exclusion des montants qu’il est raisonnable de considérer comme déduits dans le calcul des bénéfices relatifs à des ressources de la société pour l’année,
-sur le total des montants suivants :
+sur le total des montants suivants :
 	- **c)** le total des montants déduits dans le calcul du revenu de la société pour l’année en conformité avec l’article 65 de la Loi, à l’exclusion des montants qu’il est raisonnable de considérer comme déduits dans le calcul des bénéfices relatifs à des ressources de la société pour l’année;
-	- **d)** le pourcentage désigné pour l’année de l’excédent éventuel :
+	- **d)** le pourcentage désigné pour l’année de l’excédent éventuel :
 		- **(i)** des bénéfices relatifs à des ressources de la société pour l’année,
-sur le total :
+sur le total :
 		- **(ii)** des bénéfices relatifs à des ressources au Canada de la société pour l’année,
 		- **(iii)** de la base de la déduction pour épuisement gagnée (au sens du paragraphe 1205(1)) de la société au début de son année d’imposition subséquente.
 
-- **(3.1)** Pour l’application du paragraphe (1), le « montant de rajustement net relatif à des ressources » applicable à une société pour une année d’imposition correspond au résultat du calcul suivant :
+- **(3.1)** Pour l’application du paragraphe (1), le « montant de rajustement net relatif à des ressources » applicable à une société pour une année d’imposition correspond au résultat du calcul suivant :
 ```
 A - B
 ```
 où 
 - **A** représente le montant des bénéfices relatifs à des ressources au Canada de la société pour l’année;
-- **B** le montant qui correspondrait à ses bénéfices relatifs à des ressources au Canada pour l’année si, à la fois :
+- **B** le montant qui correspondrait à ses bénéfices relatifs à des ressources au Canada pour l’année si, à la fois :
 - **a)** les paragraphes 1204(1) et (1.1) admettaient le calcul de montants négatifs dans le cas où les sommes soustraites dans le calcul des bénéfices bruts relatifs à des ressources, au sens du paragraphe 1204(1), et des bénéfices relatifs à des ressources dépassent les sommes ajoutées dans ce calcul,
 - **b)** l’alinéa 1206(3)a) s’appliquait de sorte qu’un montant négatif de bénéfices relatifs à des ressources d’une société de personnes pour un exercice s’étant terminé dans l’année soit déduit dans le calcul des bénéfices relatifs à des ressources de la société pour l’année, jusqu’à concurrence de la part de ces bénéfices qui lui revient.
 
-- **(4)** Pour l’application du paragraphe (1), sont des intérêts sur les paiements en trop :
-	- **a)** les montants qui sont reçus ou qui deviennent à recevoir, après le 6 mars 1996, d’une administration située au Canada, y compris les gouvernements et municipalités, par suite du paiement en trop d’un impôt qui est prévu par une loi fédérale ou provinciale ou un règlement municipal et qui n’est pas déductible en application de la Loi dans le calcul du revenu d’un contribuable;
-	- **b)** les montants qui sont reçus ou qui deviennent à recevoir, après le 6 mars 1996, d’une personne visée à l’un des sous-alinéas 18(1)m)(i), (ii) et (iii) de la Loi par suite du paiement en trop d’un montant qui, par l’effet de l’alinéa 18(1)m) de la Loi, n’est pas déductible en application de la Loi dans le calcul du revenu d’un contribuable;
-	- **c)** les montants qui sont reçus ou qui deviennent à recevoir, après le 6 mars 1996, d’une personne visée à l’un des sous-alinéas 18(1)m)(i), (ii) et (iii) de la Loi par suite de la réception d’un montant qui excède celui auquel la personne a droit et qui se rapporte à un montant à inclure dans le calcul du revenu d’un contribuable par l’effet de l’alinéa 12(1)o) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 13; DORS/94-169, art. 7; DORS/94-686, art. 79(F) et 80(F); DORS/96-451, art. 7; DORS/99-179, art. 11.
+- **(4)** Pour l’application du paragraphe (1), ***intérêts sur un paiement en trop*** s’entend de la somme qui est reçue, ou devient à recevoir, après le 6 mars 1996 d’une administration située au Canada, y compris les administrations publiques et les municipalités, par suite du paiement en trop d’un impôt, prévu par une loi fédérale ou provinciale ou par un règlement municipal, qui n’était pas déductible en application de la Loi dans le calcul du revenu d’un contribuable.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 13; DORS/94-169, art. 7; DORS/94-686, art. 79(F) et 80(F); DORS/96-451, art. 7; DORS/99-179, art. 11; DORS/2007-19, art. 7.
 
 
 
