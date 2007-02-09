@@ -1343,10 +1343,10 @@ C × D
 - **(1)** Pour l’application du paragraphe 10(4) de la Loi, la valeur capitalisée d’une pension ou d’une allocation annuelle et des prestations supplémentaires payables à l’égard de celles-ci en vertu de la partie III de la Loi est leur valeur actuarielle actualisée déterminée à la date de la demande sur la base des hypothèses actuarielles suivantes :
 	- **a)** le taux de mortalité pour un contributeur correspond à la moyenne des taux de mortalité des contributeurs qui touchent des prestations pour cause d’invalidité et de ceux qui touchent des prestations pour des raisons autres que l’invalidité, applicables au groupe d’âge dans lequel se situe le contributeur, qui figurent au rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiqués, pondérée selon les prestations payées à chacun de ces deux groupes de contributeurs;
 	- **b)** les taux de mortalité applicables aux conjoints survivants sont ceux qui figurent au rapport d’évaluation actuarielle déposé devant le Parlement conformément à l’article 45 de la Loi, compte tenu des facteurs de projection de la mortalité qui y sont indiqués;
-	- **c)** les taux d’intérêt sont ceux figurant dans les Recommandations pour le calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, en vigueur depuis le 1<sup>er</sup> septembre 1993, qui s’appliquent aux pensions pleinement indexées, rajustées selon les taux d’intérêt applicables aux pensions non indexées afin de tenir compte des dispositions de la partie III de la Loi.
+	- **c)** les taux d’intérêt sont ceux qui s’appliquent à l’égard des pensions pleinement indexées — rajustés selon les taux d’intérêt applicables aux pensions non indexées pour qu’il soit tenu compte de la partie III de la Loi —, établis conformément à la section « Valeurs actualisées des rentes » du document intitulé  Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives.
 
 - **(2)** Le rapport d’évaluation actuarielle visé au paragraphe (1) est le rapport le plus récent déposé devant le Parlement ou, si ce dépôt a eu lieu au cours du mois de la demande ou du mois précédent, le rapport précédent ainsi déposé.
-> DORS/93-450, art. 11(F); DORS/97-490, art. 4.
+> DORS/93-450, art. 11(F); DORS/97-490, art. 4; DORS/2007-29, art. 1.
 
 
 
@@ -2091,10 +2091,10 @@ si le contributeur reprend lesdites fonctions ou ladite formation immédiatement
 
 
 
-**73** Les taux d’intérêt à utiliser aux fins des calculs prévus aux articles 68 à 71 sont ceux indiqués dans les Recommandations pour le calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, lesquelles s’appliquent depuis le 1<sup>er</sup> septembre 1993 à l’égard :
+**73** Les taux d’intérêt à utiliser dans les calculs prévus aux articles 68 à 71 sont ceux établis conformément à la section « Valeurs actualisées des rentes » du document intitulé  Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives, à l’égard :
 - **a)** sous réserve de l’alinéa b), des rentes pleinement indexées;
 - **b)** des rentes non indexées pour la période à l’égard de laquelle aucune prestation supplémentaire ne serait payable aux termes de la partie III de la Loi, dans le cas d’un contributeur admissible à une pension ou à une allocation annuelle aux termes des articles 16, 17 ou 24.2 de la Loi.
-> DORS/94-194, art. 1.
+> DORS/94-194, art. 1; DORS/2007-29, art. 2.
 
 
 
@@ -2384,14 +2384,14 @@ si le contributeur reprend lesdites fonctions ou ladite formation immédiatement
 
 - **(1)** Le calcul de la valeur actuarielle actualisée des prestations de pension acquises, visée au paragraphe 90(1), est effectué sur la base des hypothèses actuarielles suivantes :
 	- **a)** les taux de mortalité des anciens contributeurs et des conjoints survivants, y compris les facteurs de projection de la mortalité, sont ceux utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pension établi en vertu de la Loi;
-	- **b)** les taux d’intérêt prévus dans les Recommandations pour les calcul des valeurs de transfert des régimes de retraite agréés publiées par l’Institut canadien des actuaires, en vigueur depuis le 1<sup>er</sup> septembre 1993, sont ceux qui s’appliquent à l’égard des pensions pleinement indexées, rajustées selon les taux d’intérêt applicables aux pensions non indexées afin de tenir compte des dispositions de la partie III de la Loi;
+	- **b)** les taux d’intérêt sont ceux qui s’appliquent à l’égard des pensions pleinement indexées — rajustés selon les taux d’intérêt applicables aux pensions non indexées pour qu’il soit tenu compte de la partie III de la Loi —, établis conformément à la section « Valeurs actualisées des rentes » du document intitulé  Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives;
 	- **c)** la probabilité qu’un contributeur ait des enfants survivants est fondée sur les taux concernant le nombre, l’âge moyen et le statut d’admissibilité présumés des enfants à la date du décès d’un contributeur, utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pension établi en vertu de la Loi;
 	- **d)** la probabilité qu’un contributeur ait droit à des prestations d’invalidité est fondée sur les taux de fréquence des invalidités utilisés pour l’établissement du plus récent rapport d’évaluation actuarielle relatif au régime de pensions établi en vertu de la Loi, compte tenu de la probabilité — indiquée dans ce rapport — que le contributeur qui cesse son emploi en raison d’une invalidité soit immédiatement admissible à des prestations d’invalidité sous le Régime de pensions du Canada ou le Régime des rentes du Québec;
 	- **e)** les taux de mariage à la cessation d’emploi et les taux de divorce après la cessation d’emploi sont ceux établis par l’actuaire en chef du Bureau du surintendant des institutions financières selon les statistiques sur le mariage et le divorce publiées par Statistique Canada;
 	- **f)** le calcul de la différence d’âge entre les conjoints à la cessation d’emploi est effectué par l’actuaire en chef du Bureau du surintendant des institutions financières selon les statistiques publiées par Statistique Canada.
 
 - **(2)** Le rapport d’évaluation actuarielle visé aux alinéas (1)a), c) et d) est le dernier rapport déposé devant le Parlement conformément à l’article 45 de la Loi avant la date d’évaluation ou, si ce rapport a été déposé au cours du mois où tombe la date d’évaluation ou du mois précédent, l’avant-dernier rapport déposé devant le Parlement.
-> DORS/97-222, art. 1; DORS/2003-13, art. 5.
+> DORS/97-222, art. 1; DORS/2003-13, art. 5; DORS/2007-29, art. 3.
 
 
 
