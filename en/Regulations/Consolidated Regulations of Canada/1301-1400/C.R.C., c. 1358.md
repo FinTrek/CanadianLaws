@@ -1345,10 +1345,10 @@ where
 - **(1)** For the purposes of subsection 10(4) of the Act, the capitalized value of an annuity or annual allowance and the supplementary benefits payable in respect thereof under Part III of the Act shall be the actuarial present value of such benefits determined as of the date the request is made based on the following actuarial assumptions:
 	- **(a)** the rate of mortality for any contributor is the average of the rates of mortality for contributors who receive benefits in relation to a disability and contributors who receive benefits not in relation to a disability, of the same age group as the contributor, as set out in the actuarial valuation report laid before Parliament in accordance with section 45 of the Act, taking into account the mortality projection factors set out in that report, which average is weighted in accordance with the benefits paid to contributors in relation to a disability and to contributors other than in relation to a disability;
 	- **(b)** the mortality rates in respect of surviving spouses are those set out for spouses in the actuarial valuation report laid before Parliament in accordance with section 45 of the Act, taking into account the mortality projection factors set out in that report; and
-	- **(c)** the interest rates shall be the interest rates for fully indexed pensions set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries effective September 1, 1993, adjusted by the interest rates for unindexed pensions to take into account the provisions of Part III of the Act.
+	- **(c)** the interest rates shall be the interest rates for fully indexed pensions — adjusted by the interest rates for unindexed pensions to take into account Part III of the Act — determined in accordance with the section “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time.
 
 - **(2)** The actuarial valuation report referred to in subsection (1) is the actuarial valuation report most recently laid before Parliament or, where that report was laid before Parliament in the month in which the request is made, or in the preceding month, the report that was laid before Parliament immediately previous to that report.
-> SOR/93-450, s. 11(F); SOR/97-490, s. 4.
+> SOR/93-450, s. 11(F); SOR/97-490, s. 4; SOR/2007-29, s. 1.
 
 
 
@@ -2095,10 +2095,10 @@ is equal to or greater than 35; and
 
 
 
-**73** For the purposes of the determinations referred to in sections 68 to 71, the rates of interest set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries, effective September 1, 1993, shall be the rates
+**73** For the purposes of the determinations referred to in sections 68 to 71, the rates of interest determined in accordance with the section “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time, shall be the rates
 - **(a)** subject to paragraph (b), in respect of fully indexed pensions; and
 - **(b)** where a contributor is entitled to an annuity or annual allowance pursuant to section 16, 17 or 24.2 of the Act, in respect of unindexed pensions for the period for which no supplementary benefits would be payable under Part III of the Act.
-> SOR/94-194, s. 1.
+> SOR/94-194, s. 1; SOR/2007-29, s. 2.
 
 
 
@@ -2388,14 +2388,14 @@ is equal to or greater than 35; and
 
 - **(1)** In determining the actuarial present value of the accrued pension benefits referred to in subsection 90(1), the following actuarial assumptions are to be used:
 	- **(a)** the mortality rates for former contributors and surviving spouses, including mortality projection factors, shall be those used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act;
-	- **(b)** the interest rates shall be the interest rates for fully indexed pensions set out in the Recommendations for the Computation of Transfer Values from Registered Pension Plans, published by the Canadian Institute of Actuaries effective September 1, 1993, adjusted by the interest rates for unindexed pensions to take into account the provisions of Part III of the Act;
+	- **(b)** the interest rates shall be the interest rates for fully indexed pensions — adjusted by the interest rates for unindexed pensions to take into account Part III of the Act — determined in accordance with the section “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time;
 	- **(c)** the probability that a contributor will be survived by children shall be based on the rates regarding the assumed number, average age and eligibility status of children at the death of a contributor used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act;
 	- **(d)** the probability that a contributor will become entitled to a benefit by reason of disability shall be based on the disability incidence rates used in the preparation of the most recent actuarial valuation report relating to the pension plan established under the Act, taking into account the probability set out in that report that, where termination of employment was on account of disability, there would be immediate eligibility for Canada Pension Plan or Quebec Pension Plan disability benefits;
 	- **(e)** the rates of marriage on termination of employment and the rates of divorce after termination of employment shall be those established by the Chief Actuary of the Office of the Superintendent of Financial Institutions in accordance with statistics on marriage and divorce published by Statistics Canada; and
 	- **(f)** the determination of the age difference between spouses on termination of employment shall be established by the Chief Actuary of the Office of the Superintendent of Financial Institutions in accordance with statistics published by Statistics Canada.
 
 - **(2)** The actuarial valuation report referred to in paragraphs (1)(a), (c) and (d) is the actuarial valuation report most recently laid before Parliament in accordance with section 45 of the Act before valuation day or, if that report was laid before Parliament in the month in which valuation day occurs or in the preceding month, the report that was laid before Parliament immediately previous to that report.
-> SOR/97-222, s. 1; SOR/2003-13, s. 5.
+> SOR/97-222, s. 1; SOR/2003-13, s. 5; SOR/2007-29, s. 3.
 
 
 
