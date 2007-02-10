@@ -235,13 +235,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Sous réserve de l’article 38 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), l’Agence peut dans le cadre de sa mission, avec l’agrément du gouverneur en conseil donné sur recommandation du ministre et du ministre des Affaires étrangères et du Commerce international, conclure des accords avec un État étranger ou toute organisation internationale.
+- **(1)** Sous réserve des articles 38 et 38.1 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), l’Agence peut dans le cadre de sa mission, avec l’agrément du gouverneur en conseil donné sur recommandation du ministre et du ministre des Affaires étrangères, conclure des accords avec un État étranger ou toute organisation internationale.
 
 **Ententes et accords**
 
 - **(2)** Dans le cadre de sa mission, l’Agence peut :
 	- **a)** conclure des ententes avec un État étranger ou toute organisation internationale;
 	- **b)** conclure des accords ou des ententes avec le gouvernement d’une province, un ministère ou un organisme fédéral ou toute personne ou organisation.
+> 2005, ch. 38, art. 13; 2006, ch. 12, art. 46.
+
 
 
 
