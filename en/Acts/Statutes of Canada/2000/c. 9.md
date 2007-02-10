@@ -554,6 +554,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** returning officers appointed under subsection 24(1);
 	- **(b)** assistant returning officers appointed under subsection 26(1) or 28(5) and additional assistant returning officers appointed under subsection 30(1);
 	- **(c)** persons authorized by a returning officer under section 27 to perform duties under this Act;
+	- **(c.1)** persons designated pursuant to subsection 28(3.1);
 	- **(d)** revising agents appointed under paragraph 32(a);
 	- **(e)** deputy returning officers appointed under paragraphs 32(b) and (c) and subsection 273(1);
 	- **(f)** poll clerks appointed under paragraphs 32(b) and (c) and subsection 273(1);
@@ -595,7 +596,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition — acting as election officer**
 
 - **(6)** No person shall act as an election officer knowing that they do not meet the requirements for an election officer set out in this section.
-> 2000, c. 9, s. 22; 2002, c. 7, s. 91.
+> 2000, c. 9, s. 22; 2002, c. 7, s. 91; 2006, c. 9, s. 173.
 
 
 
@@ -626,7 +627,29 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **24** 
 
-- **(1)** The Governor in Council shall appoint a returning officer for each electoral district and may only remove him or her for cause under subsection (7).
+- **(1)** The Chief Electoral Officer shall appoint a returning officer for each electoral district in accordance with the process established under subsection (1.1) and may only remove him or her in accordance with the procedure established under that subsection.
+
+**Qualifications**
+
+- **(1.1)** The Chief Electoral Officer shall prescribe the qualifications for the appointment of persons as returning officers, and shall establish for returning officers an external appointment process within the meaning of subsection 2(1) of the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) on the basis of merit and a fair procedure for their removal on the grounds set out in subsection (7).
+
+**Meaning of merit**
+
+- **(1.2)** The appointment of a person as a returning officer is made on the basis of merit if the Chief Electoral Officer is satisfied that the person meets the essential qualifications for the work to be performed and has regard to
+	- **(a)** any additional qualifications that the Chief Electoral Officer considers to be an asset for the work to be performed; and
+	- **(b)** any current or future operational requirements.
+
+**Term of office**
+
+- **(1.3)** A returning officer shall be appointed for a term of ten years.
+
+**Reappointment**
+
+- **(1.4)** The Chief Electoral Officer may, after consultation with the leader of every recognized political party in the House of Commons, reappoint for another term any returning officer whose term expires and who has performed the functions of a returning officer in a satisfactory manner, whether or not other persons are considered for the appointment.
+
+**Continuation in office**
+
+- **(1.5)** A returning officer may, with the approval of the Chief Electoral Officer, continue in office after his or her term expires until he or she is reappointed or until another person is appointed to the office.
 
 **Responsibility of returning officer**
 
@@ -638,7 +661,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Vacancy**
 
-- **(4)** The office of a returning officer is not vacant unless the returning officer dies, resigns, ceases to reside in the electoral district or is removed from office or the boundaries of their electoral district are revised as a result of a representation order made under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md).
+- **(4)** The office of returning officer does not become vacant unless the returning officer dies, resigns, is removed from office, reaches the end of his or her term of office or ceases to reside in the electoral district, or unless the boundaries of the electoral district are revised as a result of a representation order made under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md).
 
 **Resignation**
 
@@ -650,12 +673,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Removal from office**
 
-- **(7)** The Governor in Council may remove from office any returning officer who
+- **(7)** The Chief Electoral Officer may remove from office any returning officer who
 	- **(a)** is incapable, by reason of illness, physical or mental disability or otherwise, of satisfactorily performing his or her duties under this Act;
 	- **(b)** fails to discharge competently a duty of a returning officer under this Act or to comply with an instruction of the Chief Electoral Officer described in paragraph 16(c);
 	- **(c)** fails to complete the revision of the boundaries of the polling divisions in their electoral district as instructed by the Chief Electoral Officer under subsection 538(3); or
 	- **(d)** contravenes subsection (6), whether or not the contravention occurs in the exercise of his or her duties under this Act.
-> 2000, c. 9, s. 24; 2003, c. 19, s. 2.
+> 2000, c. 9, s. 24; 2003, c. 19, s. 2; 2006, c. 9, s. 174.
 
 
 
@@ -663,7 +686,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **List in Canada Gazette**
 
-**25** The name, address and occupation of each person appointed as a returning officer and the name of the electoral district for which he or she is appointed shall be communicated as soon as practicable to the Chief Electoral Officer. Between the 1st and 20th days of January in each year, the Chief Electoral Officer shall publish a list in the Canada Gazette of the name, address and occupation of the returning officer for each electoral district in Canada.
+**25** Between the 1st and 20th days of January in each year, the Chief Electoral Officer shall publish a list in the Canada Gazette of the name, address and occupation of the returning officer for each electoral district in Canada.
+> 2000, c. 9, s. 25; 2006, c. 9, s. 175.
+
 
 
 
@@ -702,21 +727,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** It is the duty of a returning officer or an assistant returning officer to notify the Chief Electoral Officer without delay if the returning officer at any time becomes unable to act.
 
-**Communication of notifications**
-
-- **(2)** The Chief Electoral Officer shall communicate any notification received under subsection (1) to the Minister.
+- **(2)** [Repealed, 2006, c. 9, s. 176]
 
 **Assistant returning officer to act**
 
-- **(3)** If a returning officer becomes unable to act, the assistant returning officer shall act until the appointment of a new returning officer or until the returning officer becomes able to act.
+- **(3)** Subject to subsection 24(1.5), if a returning officer is absent or unable to act or if a returning officer’s office is vacant, the assistant returning officer shall act in place of the returning officer.
+
+**Designated person to act**
+
+- **(3.1)** If a returning officer and an assistant returning officer are both absent or unable to act or if both their offices are vacant during an election period, the Chief Electoral Officer shall designate a person to act in place of the returning officer, and that person may, during and after that period, perform the duties of a returning officer in relation to that election.
 
 **Appointment within limited period**
 
-- **(4)** Within 60 days after the date on which the Chief Electoral Officer has been notified of a vacancy in the office of a returning officer or accepts the resignation of a returning officer, the Governor in Council shall appoint a new returning officer.
+- **(4)** When the office of a returning officer becomes vacant, the Chief Electoral Officer shall appoint a new returning officer without delay.
 
 **Appointment of assistant returning officer**
 
 - **(5)** Every assistant returning officer who is required to act as a returning officer under subsection (3) shall appoint an assistant returning officer without delay.
+> 2000, c. 9, s. 28; 2006, c. 9, s. 176.
+
 
 
 
@@ -12286,9 +12315,20 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 
 
+**Report on returning officer qualifications**
+
+**535.2** Whenever the Chief Electoral Officer, pursuant to subsection 24(1.1), prescribes the qualifications for the appointment of persons as returning officers or establishes a process for their appointment or a procedure for their removal — or modifies those qualifications, that process or that procedure in a significant manner — the Chief Electoral Officer shall report accordingly to the Speaker of the House of Commons without delay.
+> 2006, c. 9, s. 177.
+
+
+
+
+
 **Submission of report to House of Commons**
 
-**536** The Speaker of the House of Commons shall submit a report received by him or her from the Chief Electoral Officer under section 534 or 535 to the House of Commons without delay.
+**536** The Speaker of the House of Commons shall submit a report received by him or her from the Chief Electoral Officer under section 534, 535 or 535.2 to the House of Commons without delay.
+> 2000, c. 9, s. 536; 2006, c. 9, s. 177.
+
 
 
 
