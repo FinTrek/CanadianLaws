@@ -235,13 +235,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **13** 
 
-- **(1)** Subject to section 38 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), the Agency may, with the approval of the Governor in Council, on the recommendation of the Minister and the Minister of Foreign Affairs and International Trade, enter into an agreement with a foreign state or an international organization, for the purposes of carrying out the mandate of the Agency.
+- **(1)** Subject to sections 38 and 38.1 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), the Agency may, with the approval of the Governor in Council, on the recommendation of the Minister and the Minister of Foreign Affairs, enter into an agreement with a foreign state or an international organization, for the purposes of carrying out the mandate of the Agency.
 
 **Arrangements and agreements**
 
 - **(2)** The Agency may, for the purposes of carrying out its mandate,
 	- **(a)** enter into an arrangement with a foreign state or an international organization; or
 	- **(b)** enter into an agreement or arrangement with the government of a province, a department or agency of the Government of Canada or any person or organization.
+> 2005, c. 38, s. 13; 2006, c. 12, s. 46.
+
 
 
 
