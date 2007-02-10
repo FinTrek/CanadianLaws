@@ -57,7 +57,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
  ou ***mail*** has the same meaning as in subsection 2(1) of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md).
 
-***Minister*** means, in relation to sections 25 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of that provision.
+***Minister*** means, in relation to sections 24.1 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the Minister of Finance.
 
 ***money laundering offence*** means an offence under subsection 462.31(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
@@ -74,7 +74,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 ***terrorist activity financing offence*** means an offence under section 83.02, 83.03 or 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence under section 83.12 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) arising out of a contravention of section 83.08 of that Act.
 
 ***threats to the security of Canada*** has the same meaning as in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145.
+> 2000, c. 17, s. 2, c. 24, s. 76.1; 2001, c. 32, s. 70, c. 41, ss. 49, 132; 2005, c. 38, ss. 124, 145; 2006, c. 12, s. 1.
 
 
 
@@ -111,7 +111,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 **PART 1** 
-## Record Keeping and Reporting of Suspicious Transactions
+## Record Keeping, Verifying Identity, Reporting of Suspicious Transactions and Registration
 
 
 
@@ -141,13 +141,24 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-### Record Keeping
+### Record Keeping and Verifying Identity
 
 
 
-**Duties**
+**Record keeping**
 
-**6** Every person or entity shall keep and retain records that relate to financial activities in accordance with the regulations made under subsection 73(1).
+**6** Every person or entity referred to in section 5 shall keep and retain prescribed records in accordance with the regulations.
+> 2000, c. 17, s. 6; 2006, c. 12, s. 4.
+
+
+
+
+
+**Verifying identity**
+
+**6.1** Every person or entity referred to in section 5 shall verify, in the prescribed circumstances and in accordance with the regulations, the identity of any person or entity.
+> 2006, c. 12, s. 4.
+
 
 
 
@@ -191,7 +202,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **9** 
 
-- **(1)** Every person or entity shall report to the Centre, in the prescribed form and manner, every prescribed financial transaction that occurs in the course of their activities.
+- **(1)** Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner, every prescribed financial transaction that occurs in the course of their activities.
 
 **Limitation**
 
@@ -199,7 +210,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **List of persons**
 
-- **(3)** Every person or entity shall maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
+- **(3)** Every person or entity referred to in section 5 shall establish and maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
+> 2000, c. 17, s. 9; 2006, c. 12, s. 7.
+
 
 
 
@@ -217,6 +230,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **10** No criminal or civil proceedings lie against a person or an entity for making a report in good faith under section 7, 7.1 or 9, or for providing the Centre with information about suspicions of money laundering or of the financing of terrorist activities.
 > 2000, c. 17, s. 10; 2001, c. 41, s. 53.
+
+
+
+
+
+**Non-application to legal counsel**
+
+**10.1** Sections 7 and 9 do not apply to persons or entities referred to in paragraph 5(i) or (j) who are, as the case may be, legal counsel or legal firms, when they are providing legal services.
+> 2006, c. 12, s. 9.
 
 
 
@@ -266,7 +288,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Sending reports to Centre**
 
 - **(5)** Officers shall send the reports they receive under subsection (1) to the Centre.
-> 2000, c. 17, s. 12; 2001, c. 41, s. 54.
+> 2000, c. 17, s. 12; 2001, c. 41, s. 54; 2006, c. 12, s. 12(F).
 
 
 
@@ -348,12 +370,12 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **16** 
 
-- **(1)** If an officer suspects on reasonable grounds that there are, on or about a conveyance, currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may stop, board and search the conveyance, examine anything in or on it and open or cause to be opened any package or container in or on it and direct that the conveyance be moved to a customs office or other suitable place for the search, examination or opening.
+- **(1)** An officer may, in order to determine whether there are, on or about a conveyance, currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, stop, board and search the conveyance, examine anything in or on it and open or cause to be opened any package or container in or on it and direct that the conveyance be moved to a customs office or other suitable place for the search, examination or opening.
 
 **Search of baggage**
 
-- **(2)** If an officer suspects on reasonable grounds that there are, in baggage, currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, the officer may search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
-> 2000, c. 17, s. 16; 2001, c. 41, s. 56.
+- **(2)** An officer may, in order to determine whether there are, in baggage, currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
+> 2000, c. 17, s. 16; 2001, c. 41, s. 56; 2006, c. 12, s. 13.
 
 
 
@@ -498,7 +520,26 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **Review of forfeiture**
 
-**24** The forfeiture of currency or monetary instruments seized under this Part is final and is not subject to review or to be set aside or otherwise dealt with except to the extent and in the manner provided by sections 25 to 30.
+**24** The forfeiture of currency or monetary instruments seized under this Part is final and is not subject to review or to be set aside or otherwise dealt with except to the extent and in the manner provided by sections 24.1 and 25.
+> 2000, c. 17, s. 24; 2006, c. 12, s. 14.
+
+
+
+
+
+**Corrective measures**
+
+**24.1** 
+
+- **(1)** The Minister, or any officer delegated by the President for the purposes of this section, may, within 30 days after a seizure made under subsection 18(1) or an assessment of a penalty referred to in subsection 18(2),
+	- **(a)** cancel the seizure, or cancel or refund the penalty, if the Minister is satisfied that there was no contravention; or
+	- **(b)** reduce the penalty or refund the excess amount of the penalty collected if there was a contravention but the Minister considers that there was an error with respect to the penalty assessed or collected, and that the penalty should be reduced.
+
+**Interest**
+
+- **(2)** If an amount is refunded to a person or entity under paragraph (1)(a), the person or entity shall be given interest on that amount at the prescribed rate for the period beginning on the day after the day on which the amount was paid by that person or entity and ending on the day on which it was refunded.
+> 2006, c. 12, s. 14.
+
 
 
 
@@ -557,7 +598,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **29** 
 
-- **(1)** If the Minister decides that subsection 12(1) was contravened, the Minister shall, subject to the terms and conditions that the Minister may determine,
+- **(1)** If the Minister decides that subsection 12(1) was contravened, the Minister may, subject to the terms and conditions that the Minister may determine,
 	- **(a)** decide that the currency or monetary instruments or, subject to subsection (2), an amount of money equal to their value on the day the Minister of Public Works and Government Services is informed of the decision, be returned, on payment of a penalty in the prescribed amount or without penalty;
 	- **(b)** decide that any penalty or portion of any penalty that was paid under subsection 18(2) be remitted; or
 	- **(c)** subject to any order made under section 33 or 34, confirm that the currency or monetary instruments are forfeited to Her Majesty in right of Canada.
@@ -566,6 +607,8 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(a) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
+> 2000, c. 17, s. 29; 2006, c. 12, s. 15.
+
 
 
 
@@ -574,7 +617,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **30** 
 
-- **(1)** A person who requests a decision of the Minister under section 25 may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
+- **(1)** A person who requests a decision of the Minister under section 27 may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
 
 **Ordinary action**
 
@@ -587,7 +630,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Limit on amount paid**
 
 - **(4)** If the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), the total amount that can be paid under subsection (3) shall not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161.
+> 2000, c. 17, s. 30; 2001, c. 41, s. 139; 2002, c. 8, s. 161; 2006, c. 12, s. 16.
 
 
 
@@ -610,7 +653,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **32** 
 
-- **(1)** If currency or monetary instruments have been seized as forfeit under this Part, any person, other than the person in whose possession the currency or monetary instruments were when seized, who claims an interest in the currency or monetary instruments as owner may, within 90 days after the seizure, apply by notice in writing to the court for an order under section 33.
+- **(1)** If currency or monetary instruments have been seized as forfeit under this Part, any person or entity, other than the person or entity in whose possession the currency or monetary instruments were when seized, who claims in respect of the currency or monetary instruments an interest as owner or, in Quebec, a right as owner or trustee may, within 90 days after the seizure, apply by notice in writing to the court for an order under section 33.
 
 **Date of hearing**
 
@@ -618,7 +661,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 
 **Notice to President**
 
-- **(3)** A person who makes an application under this section shall serve notice of the application and of the hearing on the President, or an officer designated by the President for the purpose of this section, not later than 15 days after a day is fixed under subsection (2) for the hearing of the application.
+- **(3)** The applicant shall serve notice of the application and of the hearing on the President, or an officer delegated by the President for the purpose of this section, not later than 15 days after a day is fixed under subsection (2) for the hearing of the application.
 
 **Service of notice**
 
@@ -633,7 +676,7 @@ The Minister of Public Works and Government Services shall give effect to a deci
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
 	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
-> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127; 2006, c. 12, s. 17.
 
 
 
@@ -642,10 +685,12 @@ The Minister of Public Works and Government Services shall give effect to a deci
 **Order**
 
 **33** If, on the hearing of an application made under subsection 32(1), the court is satisfied
-- **(a)** that the applicant acquired the interest in good faith before the contravention in respect of which the seizure was made,
+- **(a)** that the applicant acquired the interest or right in good faith before the contravention in respect of which the seizure was made,
 - **(b)** that the applicant is innocent of any complicity in the contravention of subsection 12(1) that resulted in the seizure and of any collusion in relation to that contravention, and
 - **(c)** that the applicant exercised all reasonable care to ensure that any person permitted to obtain possession of the currency or monetary instruments seized would report them in accordance with subsection 12(1),
-the applicant is entitled to an order declaring that their interest is not affected by the seizure and declaring the nature and extent of their interest at the time of the contravention.
+the applicant is entitled to an order declaring that their interest or right is not affected by the seizure and declaring the nature and extent of their interest or right at the time of the contravention.
+> 2000, c. 17, s. 33; 2006, c. 12, s. 18.
+
 
 
 
@@ -654,11 +699,13 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **34** 
 
-- **(1)** A person who makes an application under section 32 or Her Majesty in right of Canada may appeal to the court of appeal from an order made under section 33 and the appeal shall be asserted, heard and decided according to the ordinary procedure governing appeals to the court of appeal from orders or judgments of a court.
+- **(1)** A person or entity that makes an application under section 32 or Her Majesty in right of Canada may appeal to the court of appeal from an order made under section 33 and the appeal shall be asserted, heard and decided according to the ordinary procedure governing appeals to the court of appeal from orders or judgments of a court.
 
 **Definition of court of appeal**
 
 - **(2)** In this section, ***court of appeal*** means, in the province in which an order referred to in subsection (1) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2000, c. 17, s. 34; 2006, c. 12, s. 19(E).
+
 
 
 
@@ -667,20 +714,20 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **35** 
 
-- **(1)** The Minister of Public Works and Government Services shall, after the forfeiture of currency or monetary instruments has become final and on being informed by the President that a person has obtained a final order under section 33 or 34 in respect of the currency or monetary instruments, give to the person
+- **(1)** The Minister of Public Works and Government Services shall, after the forfeiture of currency or monetary instruments has become final and on being informed by the President that a person or entity has obtained a final order under section 33 or 34 in respect of the currency or monetary instruments, give to the person or entity
 	- **(a)** the currency or monetary instruments; or
 	- **(b)** an amount calculated on the basis of the interest of the applicant in the currency or monetary instruments at the time of the contravention in respect of which they were seized, as declared in the order.
 
 **Limit on amount paid**
 
 - **(2)** The total amount paid under paragraph (1)(b) shall, if the currency or monetary instruments were sold or otherwise disposed of under the [Seized Property Management Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2037.md), not exceed the proceeds of the sale or disposition, if any, less any costs incurred by Her Majesty in respect of the currency or monetary instruments.
-> 2000, c. 17, s. 35; 2005, c. 38, s. 127.
+> 2000, c. 17, s. 35; 2005, c. 38, s. 127; 2006, c. 12, s. 20.
 
 
 
 
 
-### Disclosure of Information
+### Disclosure and Use of Information
 
 
 
@@ -692,6 +739,10 @@ the applicant is entitled to an order declaring that their interest is not affec
 	- **(a)** information set out in a report made under subsection 12(1), whether or not it is completed;
 	- **(b)** any other information obtained for the purposes of this Part; or
 	- **(c)** information prepared from information referred to in paragraph (a) or (b).
+
+**Use of information**
+
+- **(1.1)** An officer who has reasonable grounds to suspect that the information referred to in subsection (1) is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act may use that information.
 
 **Disclosure of information to a police force**
 
@@ -711,14 +762,14 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Immunity from compulsory processes**
 
-- **(5)** Subject to section 36 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and section 34 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), an official is required to comply with a subpoena, an order for production of documents, a summons or any other compulsory process only if it is issued in the course of
+- **(5)** Subject to section 36 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and sections 34 and 37 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), an official is required to comply with a subpoena, an order for production of documents, a summons or any other compulsory process only if it is issued in the course of
 	- **(a)** criminal proceedings under an Act of Parliament that have been commenced by the laying of an information or the preferring of an indictment; or
 	- **(b)** any legal proceedings that relate to the administration or enforcement of this Part.
 
 **Definition of official**
 
 - **(6)** In this section and section 37, ***official*** means a person who obtained or who has or had access to information referred to in subsection (1) in the course of exercising powers or performing duties and functions under this Part.
-> 2000, c. 17, s. 36; 2001, c. 41, s. 64.
+> 2000, c. 17, s. 36; 2001, c. 41, s. 64; 2006, c. 12, s. 22.
 
 
 
@@ -751,6 +802,15 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 - **(3)** The information received under an agreement or arrangement referred to in subsection (1) shall be sent to the Centre and, for the purposes of any provision of this Act dealing with the confidentiality of information or the collection or use of information by the Centre, is deemed to be information set out in a report made under section 12.
 > 2000, c. 17, s. 38; 2005, c. 38, ss. 125, 139.
+
+
+
+
+
+**Agreements with foreign states**
+
+**38.1** The Minister, with the consent of the Minister designated for the purpose of section 42, may enter into an agreement or arrangement in writing with the government of a foreign state, or an institution or agency of that state, that has powers and duties similar to those of the Canada Border Services Agency, whereby the Canada Border Services Agency may, if it has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, provide information set out in a report made under section 20 to that government, institution or agency.
+> 2006, c. 12, s. 23.
 
 
 
@@ -1007,9 +1067,9 @@ the applicant is entitled to an order declaring that their interest is not affec
 - **(a)** shall receive reports made under section 7, 7.1, 9, 12 or 20, incomplete reports sent under subsection 14(5), reports referred to in section 9.1, information provided to the Centre by any agency of another country that has powers and duties similar to those of the Centre, information provided to the Centre by law enforcement agencies or government institutions or agencies, and other information voluntarily provided to the Centre about suspicions of money laundering or of the financing of terrorist activities;
 - **(b)** may collect information that the Centre considers relevant to money laundering activities or the financing of terrorist activities and that is publicly available, including commercially available databases, or that is stored in databases maintained by the federal or provincial governments for purposes related to law enforcement or national security and in respect of which an agreement was entered into under subsection 66(1);
 - **(c)** shall analyse and assess the reports and information;
-- **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report and all information for five years after the date the report is received or the information is received or collected or, where information is disclosed under subsection 55(3), (4) or (5), shall retain the information and any report containing it for eight years after that date; and
-- **(e)** notwithstanding the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy each report received and all information received or collected on the expiry of the applicable period referred to in paragraph (d).
-> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100.
+- **(d)** subject to section 6 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall retain each report referred to in paragraph (a) and all information referred to in paragraph (a) or (b) for 10 years beginning on the day on which the report is received or the information is received or collected; and
+- **(e)** despite the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md), shall destroy, 15 years after the day on which a report referred to in paragraph (a) is received, any identifying information contained in the report if the report was not disclosed under subsection 55(3), 55.1(1) or 56.1(1) or (2).
+> 2000, c. 17, s. 54; 2001, c. 12, s. 1, c. 41, s. 66; 2004, c. 11, s. 42, c. 15, s. 100; 2006, c. 12, s. 24.
 
 
 
@@ -1023,7 +1083,7 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **55** 
 
-- **(1)** Subject to subsection (3), sections 52, 55.1 and 56.1, subsection 58(1) and section 65 and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
+- **(1)** Subject to subsection (3), sections 52, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 and 65.1 of this Act and to subsection 12(1) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre shall not disclose the following:
 	- **(a)** information set out in a report made under section 7;
 	- **(a.1)** information set out in a report made under section 7.1;
 	- **(b)** information set out in a report made under section 9;
@@ -1070,7 +1130,7 @@ the applicant is entitled to an order declaring that their interest is not affec
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
 	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26.
 
 
 
@@ -1141,7 +1201,7 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **Other disclosure**
 
-- **(3)** In order to perform its functions under paragraph 54(c), the Centre may direct queries to an institution or agency in respect of which an agreement referred to in subsection (1) or (2) has been entered into, and in doing so it may disclose designated information.
+- **(3)** In order to perform its functions under paragraph 54(c), the Centre may direct queries to an institution or agency in respect of which an agreement or arrangement referred to in subsection (1) or (2) has been entered into, and in doing so it may disclose designated information.
 
 **Recording of reasons for decision**
 
@@ -1155,7 +1215,16 @@ the applicant is entitled to an order declaring that their interest is not affec
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
 	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
 	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
-> 2001, c. 41, s. 68.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 28.
+
+
+
+
+
+**Usefulness of information**
+
+**56.2** When the Centre receives information from an institution or agency under an agreement or arrangement referred to in subsection 56(1) or (2), the Centre may provide it with an evaluation of whether the information is useful to the Centre.
+> 2006, c. 12, s. 29.
 
 
 
@@ -1194,12 +1263,12 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **59** 
 
-- **(1)** Subject to section 36 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and section 34 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre, and any person who has obtained or who has or had access to any information or documents in the course of exercising powers or performing duties and functions under this Act, other than Part 2, is required to comply with a subpoena, a summons, an order for production of documents, or any other compulsory process only if it is issued in the course of court proceedings in respect of a money laundering offence, a terrorist activity financing offence or an offence under this Act in respect of which an information has been laid or an indictment preferred or, in the case of an order for production of documents, if it is issued under section 60.1 for the purposes of an investigation in respect of a threat to the security of Canada.
+- **(1)** Subject to section 36 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and sections 34 and 37 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), the Centre, and any person who has obtained or who has or had access to any information or documents in the course of exercising powers or performing duties and functions under this Act, other than Part 2, is required to comply with a subpoena, a summons, an order for production of documents, or any other compulsory process only if it is issued in the course of court proceedings in respect of a money laundering offence, a terrorist activity financing offence or an offence under this Act in respect of which an information has been laid or an indictment preferred or, in the case of an order for production of documents, if it is issued under section 60, 60.1 or 60.3.
 
 **Search warrants**
 
 - **(2)** Despite any other Act, no search warrant may be issued in respect of the Centre.
-> 2000, c. 17, s. 59; 2001, c. 41, s. 70.
+> 2000, c. 17, s. 59; 2001, c. 41, s. 70; 2006, c. 12, s. 30.
 
 
 
@@ -1209,7 +1278,7 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 **60** 
 
-- **(1)** Despite the provisions of any other Act, except sections 49 and 50 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and sections 48 and 49 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), an order for disclosure of information may be issued in respect of the Centre only under subsection (4) or section 60.1.
+- **(1)** Despite the provisions of any other Act, except sections 49 and 50 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and sections 48 and 49 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), an order for disclosure of information may be issued in respect of the Centre only under subsection (4) or section 60.1 or 60.3.
 
 **Purpose of application**
 
@@ -1219,11 +1288,11 @@ the applicant is entitled to an order declaring that their interest is not affec
 
 - **(3)** An application shall be made *ex parte* in writing to a judge and be accompanied by an affidavit sworn on the information and belief of the Attorney General — or a person specially designated by the Attorney General for that purpose — deposing to the following matters:
 	- **(a)** the offence under investigation;
-	- **(b)** the person in relation to whom the information or documents referred to in paragraph (c) are required;
+	- **(b)** the person or entity in relation to which the information or documents referred to in paragraph (c) are required;
 	- **(c)** the type of information or documents — whether in written form, in the form of a report or record or in any other form — obtained by or on behalf of the Director in respect of which disclosure is sought;
-	- **(d)** the facts relied on to justify the belief, on reasonable grounds, that the person referred to in paragraph (b) has committed or benefited from the commission of a money laundering offence or a terrorist activity financing offence and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to an investigation in respect of that offence;
+	- **(d)** the facts relied on to justify the belief, on reasonable grounds, that the person or entity referred to in paragraph (b) has committed or benefited from the commission of a money laundering offence or a terrorist activity financing offence and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to an investigation in respect of that offence;
 	- **(e)** a summary of any information already received from the Centre in respect of the offence; and
-	- **(f)** information respecting all previous applications brought under this section in respect of any person being investigated for the offence.
+	- **(f)** information respecting all previous applications brought under this section in respect of any person or entity being investigated for the offence.
 
 **Order for disclosure of information**
 
@@ -1249,7 +1318,8 @@ The order must be complied with within the period following the service of the o
 - **(8)** The Director — or any person specially designated in writing by the Director for the purposes of this section — may object to the disclosure of any information or document in respect of which an order under subsection (4) has been made by certifying orally or in writing that it should not be disclosed on the ground that
 	- **(a)** the Director is prohibited from disclosing the information or document by any bilateral or international treaty, convention or other agreement to which the Government of Canada is a signatory respecting the sharing of information related to a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
 	- **(b)** a privilege is attached by law to the information or document;
-	- **(c)** the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction; or
+	- **(c)** the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction;
+	- **(c.1)** disclosure of the information or document would be injurious to national security; or
 	- **(d)** disclosure of the information or document would not, for any other reason, be in the public interest.
 
 **Determination of objection**
@@ -1282,18 +1352,18 @@ The order must be complied with within the period following the service of the o
 
 **Copies**
 
-- **(16)** Where any information or document is examined or provided under subsection (4), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director or an authorized person to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+- **(16)** Where any information or document is examined or provided under subsection (4), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
 
 **Definitions**
 
 - **(17)** The definitions in this subsection apply in this section.
 
-***Attorney General*** means the Attorney General as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***Attorney General*** means the Attorney General as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*procureur général*)
 
-***judge*** means a provincial court judge as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge as defined in subsection 462.3(1) of that Act.
+***judge*** means a provincial court judge as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge as defined in subsection 462.3(1) of that Act. (*juge*)
 
-***police officer*** means any officer, constable or other person employed for the preservation and maintenance of the public peace.
-> 2000, c. 17, s. 60; 2001, c. 12, s. 3, c. 32, s. 72, c. 41, s. 71.
+***police officer*** means any officer, constable or other person employed for the preservation and maintenance of the public peace. (*policier*)
+> 2000, c. 17, s. 60; 2001, c. 12, s. 3, c. 32, s. 72, c. 41, s. 71; 2006, c. 12, s. 31.
 
 
 
@@ -1338,7 +1408,8 @@ The order must be complied with within the period following the service of the o
 - **(7)** The Director — or any person specially designated in writing by the Director for the purposes of this section — may object to the disclosure of any information or document in respect of which an order under subsection (3) has been made by certifying orally or in writing that it should not be disclosed on the ground that
 	- **(a)** the Director is prohibited from disclosing the information or document by any bilateral or international treaty, convention or other agreement to which the Government of Canada is a signatory respecting the sharing of information related to a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
 	- **(b)** a privilege is attached by law to the information or document;
-	- **(c)** the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction; or
+	- **(c)** the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction;
+	- **(c.1)** disclosure of the information or document would be injurious to national security; or
 	- **(d)** disclosure of the information or document would not, for any other reason, be in the public interest.
 
 **Determination of objection**
@@ -1371,12 +1442,12 @@ The order must be complied with within the period following the service of the o
 
 **Copies**
 
-- **(15)** Where any information or document is examined or provided under subsection (3), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director or an authorized person to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+- **(15)** Where any information or document is examined or provided under subsection (3), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
 
 **Definition of judge**
 
 - **(16)** In this section, ***judge*** means a judge of the Federal Court designated by the Chief Justice of the Federal Court for the purposes of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
-> 2001, c. 41, s. 72; 2005, c. 10, s. 34.
+> 2001, c. 41, s. 72; 2005, c. 10, s. 34; 2006, c. 12, s. 32.
 
 
 
@@ -1386,6 +1457,91 @@ The order must be complied with within the period following the service of the o
 
 **60.2** An application under subsection 60.1(2) to a judge for a production order, or an objection under subsection 60.1(7), shall be heard in private in accordance with regulations made under section 28 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md).
 > 2001, c. 41, s. 72.
+
+
+
+
+
+**Purpose of application**
+
+**60.3** 
+
+- **(1)** If the Centre makes a disclosure under paragraph 55(3)(b), the Commissioner of Revenue, appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md), may, for the purposes of an investigation in respect of an offence that is the subject of the disclosure, after having obtained the approval of the Minister of National Revenue, make an application for an order for disclosure of information.
+
+**Application**
+
+- **(2)** An application shall be made *ex parte* in writing to a judge and be accompanied by an affidavit sworn on the information and belief of the Commissioner — or a person specially designated by the Commissioner for that purpose — deposing to the following matters:
+	- **(a)** the offence under investigation;
+	- **(b)** the person or entity in relation to which the information or documents referred to in paragraph (c) are required;
+	- **(c)** the type of information or documents — whether in written form, in the form of a report or record or in any other form — obtained by or on behalf of the Director in respect of which disclosure is sought;
+	- **(d)** the facts relied on to justify the belief, on reasonable grounds, that the person or entity referred to in paragraph (b) has committed or benefited from the commission of an offence referred to in subsection (1) and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to an investigation in respect of that offence;
+	- **(e)** a summary of any information already received from the Centre in respect of the offence; and
+	- **(f)** information respecting all previous applications brought under this section in respect of any person or entity being investigated for the offence.
+
+**Order for disclosure of information**
+
+- **(3)** Subject to the conditions that the judge considers advisable in the public interest, the judge to whom an application is made may order the Director — or any person specially designated in writing by the Director for the purposes of this section — to allow an employee of the Canada Revenue Agency named in the order to have access to and examine all information and documents to which the application relates or, if the judge considers it necessary in the circumstances, to produce the information and documents to the employee and allow the employee to remove them, if the judge is satisfied
+	- **(a)** of the matters referred to in paragraph (2)(d); and
+	- **(b)** that there are reasonable grounds for believing that it is in the public interest to allow access to the information or documents, having regard to the benefit likely to accrue to the investigation if the access is obtained.
+The order must be complied with within the period following the service of the order that the judge may specify.
+
+**Execution in another province**
+
+- **(4)** A judge may, if the information or documents in respect of which disclosure is sought are in a province other than the one in which the judge has jurisdiction, issue an order for disclosure and the order may be executed in the other province after it has been endorsed by a judge who has jurisdiction in that other province.
+
+**Service of order**
+
+- **(5)** A copy of the order shall be served on the person to whom it is addressed in the manner that the judge directs or as may be prescribed by rules of court.
+
+**Extension of period for compliance with order**
+
+- **(6)** A judge who makes an order under subsection (3) may, on application of the Director, extend the period within which it is to be complied with.
+
+**Objection to disclosure of information**
+
+- **(7)** The Director — or any person specially designated in writing by the Director for the purposes of this section — may object to the disclosure of any information or document in respect of which an order under subsection (3) has been made by certifying orally or in writing that it should not be disclosed on the ground that
+	- **(a)** the Director is prohibited from disclosing the information or document by any bilateral or international treaty, convention or other agreement to which the Government of Canada is a signatory respecting the sharing of information related to a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
+	- **(b)** a privilege is attached by law to the information or document;
+	- **(c)** the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction;
+	- **(d)** disclosure of the information or document would be injurious to national security; or
+	- **(e)** disclosure of the information or document would not, for any other reason, be in the public interest.
+
+**Determination of objection**
+
+- **(8)** An objection made under subsection (7) may be determined, on application, in accord­ance with subsection (9), by the Chief Justice of the Federal Court, or by any other judge of that Court that the Chief Justice may designate to hear those applications.
+
+**Judge may examine information**
+
+- **(9)** A judge who is to determine an objection may, if the judge considers it necessary to determine the objection, examine the information or document in relation to which the objection is made. The judge shall grant the objection and order that disclosure be refused if the judge is satisfied of any of the grounds mentioned in subsection (7).
+
+**Limitation period**
+
+- **(10)** An application under subsection (8) shall be made within 10 days after the objection is made or within any greater or lesser period that the Chief Justice of the Federal Court, or any other judge of that Court that the Chief Justice may designate to hear those applications, considers appropriate in the circumstances.
+
+**Appeal to Federal Court of Appeal**
+
+- **(11)** An appeal lies from a determination under subsection (8) to the Federal Court of Appeal.
+
+**Limitation period for appeal**
+
+- **(12)** An appeal under subsection (11) shall be brought within 10 days after the date of the determination appealed from or within any further time that the Federal Court of Appeal considers appropriate in the circumstances.
+
+**Special rules for hearings**
+
+- **(13)** An application under subsection (8) or an appeal brought in respect of that application shall be heard in private and, on the request of the person objecting to the disclosure of the information or documents, be heard and determined in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
+
+**Ex parte representations**
+
+- **(14)** During the hearing of an application under subsection (8) or an appeal brought in respect of that application, the person who made the objection in respect of which the application was made or the appeal was brought shall, on his or her request, be given the opportunity to make representations *ex parte*.
+
+**Copies**
+
+- **(15)** Where any information or document is examined or provided under subsection (3), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+
+**Definition of judge**
+
+- **(16)** For the purposes of this section, ***judge*** means a provincial court judge as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge as defined in subsection 462.3(1) of that Act.
+> 2006, c. 12, s. 33.
 
 
 
@@ -1439,6 +1595,21 @@ The order must be complied with within the period following the service of the o
 
 
 
+**Information demand**
+
+**63.1** 
+
+- **(1)** For an examination under subsection 62(1), an authorized person may also serve notice to require that the person or entity provide, at the place and in accordance with the time and manner stipulated in the notice, any document or other information relevant to the administration of Part 1 in the form of electronic data, a printout or other intelligible output.
+
+**Obligation to provide information**
+
+- **(2)** The person or entity on whom the notice is served shall provide, in accordance with the notice, the documents or other information with respect to the administration of Part 1 that the authorized person may reasonably require.
+> 2006, c. 12, s. 34.
+
+
+
+
+
 **Definition of judge**
 
 **64** 
@@ -1447,7 +1618,7 @@ The order must be complied with within the period following the service of the o
 
 **No examination or copying of certain documents when privilege claimed**
 
-- **(2)** If an authorized person acting under section 62 or 63 is about to examine or copy a document in the possession of a legal counsel who claims that a named client or former client of the legal counsel has a solicitor-client privilege in respect of the document, the authorized person shall not examine or make copies of the document.
+- **(2)** If an authorized person acting under section 62, 63 or 63.1 is about to examine or copy a document in the possession of a legal counsel who claims that a named client or former client of the legal counsel has a solicitor-client privilege in respect of the document, the authorized person shall not examine or make copies of the document.
 
 **Retention of documents**
 
@@ -1496,7 +1667,7 @@ The order must be complied with within the period following the service of the o
 **Waiver of claim of privilege**
 
 - **(10)** If a legal counsel has made a claim that a named client or former client of the legal counsel has a solicitor-client privilege in respect of a document, the legal counsel shall at the same time communicate to the authorized person the client’s latest known address so that the authorized person may endeavour to advise the client of the claim of privilege that has been made on their behalf and may by doing so give the client an opportunity, if it is practicable within the time limited by this section, to waive the privilege before the matter is to be decided by a judge.
-> 2000, c. 17, s. 64; 2001, c. 12, s. 4.
+> 2000, c. 17, s. 64; 2001, c. 12, s. 4; 2006, c. 12, s. 35(E).
 
 
 
@@ -1506,7 +1677,7 @@ The order must be complied with within the period following the service of the o
 
 **65** 
 
-- **(1)** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62 or 63 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
+- **(1)** The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62, 63 or 63.1 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
 
 **Compliance of persons or entities**
 
@@ -1515,7 +1686,29 @@ The order must be complied with within the period following the service of the o
 **Limitation**
 
 - **(3)** Any information disclosed by the Centre under subsection (2) may be used by an agency or body referred to in that subsection only for purposes relating to compliance with Part 1.
-> 2000, c. 17, s. 65; 2004, c. 15, s. 101.
+> 2000, c. 17, s. 65; 2004, c. 15, s. 101; 2006, c. 12, s. 36.
+
+
+
+
+
+**Agreements and arrangements**
+
+**65.1** 
+
+- **(1)** The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a foreign state that has powers and duties, similar to those of the Centre, with respect to verifying compliance with requirements to identify persons or entities, keep and retain records or make reports, or with an international organization made up of such institutions or agencies and established by the governments of states, that stipulates
+	- **(a)** that the Centre and the institution, agency or organization may exchange information about the compliance of persons and entities with those requirements and about the assessment of risk related to their compliance;
+	- **(b)** that the information may only be used for purposes relevant to ensuring compliance with the requirements and to assessing risk related to compliance; and
+	- **(c)** that the information will be treated in a confidential manner and not be further disclosed without the express consent of the Centre.
+
+**Disclosure**
+
+- **(2)** The Centre may, in accordance with the agreement or arrangement, provide the institution, agency or organization with information referred to in the agreement or arrangement.
+
+**Usefulness of information**
+
+- **(3)** When the Centre receives information from an institution, agency or organization under an agreement or arrangement, the Centre may provide it with an evaluation of whether the information is useful to the Centre.
+> 2006, c. 12, s. 37.
 
 
 
@@ -1605,9 +1798,15 @@ The order must be complied with within the period following the service of the o
 
 **Review of Act by parliamentary committee**
 
-***72** Within five years after this section comes into force, the administration and operation of this Act shall be reviewed by the committee of Parliament that may be designated or established by Parliament for that purpose and the committee shall submit a report to Parliament that includes a statement of any changes to this Act or its administration that the committee recommends.
+**72** 
 
-<a name='P-24.501_en_1'><sup>*</sup></a>: [Note: Section 72 in force July 5, 2000, *see* SI/2000-55.]<br />
+- **(1)** Every five years beginning on the day on which this section comes into force, the administration and operation of this Act shall be reviewed by the committee of the House of Commons, of the Senate or of both Houses that is designated or established for that purpose.
+
+**Review by Privacy Commissioner**
+
+- **(2)** Every two years beginning on the day on which this section comes into force, the Privacy Commissioner, appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), shall review the measures taken by the Centre to protect information it receives or collects under this Act and shall, within three months after the review, submit a report on those measures to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides without delay after receiving it or, if that House is not then sitting, on any of the first 15 days on which that House is sitting after the Speaker receives it.
+> 2000, c. 17, s. 72; 2006, c. 12, s. 38.
+
 
 
 
@@ -1628,13 +1827,32 @@ The order must be complied with within the period following the service of the o
 	- **(d)** specifying the types of records to be kept and retained under section 6 and the information to be included in them;
 	- **(e)** specifying the period for which, and the methods by which, records referred to in paragraph (d) are to be retained;
 	- **(e.1)** specifying the information to be contained in a report under section 7 or 7.1 or subsection 9(1);
-	- **(f)** specifying measures that persons or entities are to take to identify any person or entity in respect of which a record is required to be kept or a report made;
+	- **(e.2)** prescribing the form and manner in which persons or entities or classes of persons or entities shall report under section 7, 7.1, 9 or 9.1;
+	- **(f)** specifying measures, and the periods within which those measures must be taken, that persons or entities are to take to identify any person or entity that requests the opening of an account or any person or entity in respect of which a record is required to be kept or a report made;
 	- **(g)** defining ***casinos***, ***courier*** and ***monetary instruments***;
-	- **(h)** specifying the form and manner of reporting currency and monetary instruments for the purpose of subsection 12(1), and the information to be contained in the form, and specifying the period within which the reporting must be made; and
-	- **(i)** prescribing anything else that by this Act is to be prescribed.
+	- **(h)** specifying the form and manner of reporting currency and monetary instruments for the purpose of subsection 12(1), and the information to be contained in the form, and specifying the period within which the reporting must be made;
+	- **(i)** prescribing the circumstances referred to in section 9.2;
+	- **(j)** prescribing, for the purposes of subsection 9.3(1), the manner for determining whether a person is a politically exposed foreign person and the circumstances in which it is necessary to make that determination;
+	- **(k)** prescribing, for the purposes of subsection 9.3(2), the circumstances in which it is necessary to obtain the approval of senior management and the measures to be taken when dealing with a politically exposed foreign person;
+	- **(l)** prescribing the offices and positions whose holders are politically exposed foreign persons for the purposes of paragraph 9.3(3)(j), prescribing the family members that are included in the definition ***politically exposed foreign person*** in subsection 9.3(3) and defining ***foreign state*** for the purposes of that subsection;
+	- **(m)** prescribing the foreign entities to which subsection 9.4(1) applies and, for the purposes of that subsection, prescribing the information to be obtained about those entities and prescribing the measures to be taken;
+	- **(n)** defining the expression ***shell bank*** referred to in section 9.4;
+	- **(o)** prescribing the services referred to in the definition ***correspondent banking relationship*** in subsection 9.4(3);
+	- **(p)** prescribing the electronic funds transfers to which section 9.5 applies, the information to be included with those transfers and the measures to be taken under that section;
+	- **(q)** specifying the manner for establishing and implementing the program referred to in subsection 9.6(1);
+	- **(r)** prescribing the special measures to be taken under subsection 9.6(3);
+	- **(s)** prescribing persons and entities that must be registered with the Centre under section 11.1;
+	- **(t)** prescribing persons or entities or classes of persons or entities that are not subject to section 11.1;
+	- **(u)** prescribing, for the purposes of paragraph 11.11(1)(f), persons or entities that are not eligible for registration;
+	- **(v)** prescribing the form and manner of submitting an application for registration under subsection 11.12(1) and the information that must be included with the application;
+	- **(w)** prescribing the form and manner of notifying the Centre of any information that must be provided under section 11.13;
+	- **(x)** prescribing the form and manner of providing the Centre with any clarifications under subsection 11.14(1) and any clarifications under subsection 11.17(1);
+	- **(y)** prescribing, for the purposes of section 11.19, the form and manner for renewing registration and any longer renewal period;
+	- **(z)** defining ***identifying information*** for the purposes of subsection 54.1(3); and
+	- **(z.1)** prescribing anything else that by this Act is to be prescribed.
 
 - **(2) and (3)** [Repealed, 2001, c. 41, s. 73]
-> 2000, c. 17, s. 73; 2001, c. 41, s. 73.
+> 2000, c. 17, s. 73; 2001, c. 41, s. 73; 2006, c. 12, s. 39.
 
 
 
@@ -1647,9 +1865,11 @@ The order must be complied with within the period following the service of the o
 
 **General offences**
 
-**74** Every person or entity that knowingly contravenes section 6, subsection 12(4) or 36(1), section 37, subsection 55(1) or (2), section 57 or subsection 62(2) or 64(3) or the regulations is guilty of an offence and liable
+**74** Every person or entity that knowingly contravenes any of sections 6, 6.1 or 9.1 to 9.3, subsection 9.4(2), sections 9.5 to 9.7 or 11.1, subsection 12(1) or (4) or 36(1), section 37, subsection 55(1) or (2), section 57 or subsection 62(2), 63.1(2) or 64(3) or the regulations is guilty of an offence and liable
 - **(a)** on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
 - **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
+> 2000, c. 17, s. 74; 2006, c. 12, s. 41.
+
 
 
 
@@ -1722,7 +1942,9 @@ The order must be complied with within the period following the service of the o
 
 **Time limitation**
 
-**81** Proceedings under paragraph 74(a), 75(1)(a) or 76(a) or subsection 77(1) may be instituted within, but not after, one year after the time when the subject-matter of the proceedings arose.
+**81** Proceedings under paragraph 74(a), 75(1)(a) or 76(a), subsection 77(1) or paragraph 77.1(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
+> 2000, c. 17, s. 81; 2006, c. 12, s. 44.
+
 
 
 
