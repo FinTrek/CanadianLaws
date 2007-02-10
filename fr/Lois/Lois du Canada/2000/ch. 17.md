@@ -65,14 +65,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***messager*** S’entend au sens prévu par règlement.
 
-***ministre*** Le ministre de la Sécurité publique et de la Protection civile, pour l’application des articles 25 à 39, ou le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de telle autre disposition de la présente loi.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile pour l’application des articles 24.1 à 39, et le ministre des Finances pour l’application des autres dispositions de la présente loi.
 
 ***personne*** S’entend d’un particulier.
 
 ***personne autorisée*** Personne autorisée en vertu du paragraphe 45(2).
 
 ***président*** Le président de l’Agence des services frontaliers du Canada, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
-> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145.
+> 2000, ch. 17, art. 2, ch. 24, art. 76.1; 2001, ch. 32, art. 70, ch. 41, art. 49 et 132; 2005, ch. 38, art. 124 et 145; 2006, ch. 12, art. 1.
 
 
 
@@ -109,7 +109,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 1** 
-## Tenue de documents et déclaration des opérations douteuses
+## Tenue de documents, vérification d’identités, déclaration des opérations douteuses et inscription
 
 
 
@@ -139,13 +139,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Tenue et conservation de documents
+### Tenue et conservation de documents et vérification d’identités
 
 
 
-**Obligation**
+**Tenue de document**
 
-**6** Il incombe à toute personne ou entité de tenir les documents prévus par les règlements pris en vertu du paragraphe 73(1) et de les conserver de la manière prévue.
+**6** Il incombe à toute personne ou entité visée à l’article 5 de tenir et de conserver, conformément aux règlements, les documents prévus par règlement.
+> 2000, ch. 17, art. 6; 2006, ch. 12, art. 4.
+
+
+
+
+
+**Vérification d’identités**
+
+**6.1** Il incombe à toute personne ou entité visée à l’article 5 de vérifier, dans les cas prévus par les règlements et en conformité avec ceux-ci, l’identité de toute personne ou entité.
+> 2006, ch. 12, art. 4.
+
 
 
 
@@ -189,7 +200,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Il incombe à toute personne ou entité de déclarer au Centre, selon les modalités réglementaires, les opérations financières visées par règlement qui sont effectuées dans le cours de ses activités.
+- **(1)** Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, selon les modalités réglementaires, les opérations financières visées par règlement qui sont effectuées dans le cours de ses activités.
 
 **Exemption**
 
@@ -197,7 +208,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Liste des exemptions**
 
-- **(3)** Il incombe à toute personne ou entité de dresser et de maintenir, selon les modalités réglementaires, une liste des clients à l’égard desquels elles auraient été tenues, n’eût été du paragraphe (2), de faire une déclaration en application du paragraphe (1). Néanmoins, elles peuvent choisir de se conformer au paragraphe (1) à l’égard d’un client au lieu d’inscrire celui-ci sur une telle liste.
+- **(3)** Il incombe à toute personne ou entité visée à l’article 5 de dresser et de maintenir, selon les modalités réglementaires, une liste des clients à l’égard desquels elle aurait été tenue, n’était le paragraphe (2), de faire une déclaration en application du paragraphe (1). Néanmoins, elle peut choisir de se conformer au paragraphe (1) à l’égard d’un client au lieu d’inscrire celui-ci sur une telle liste.
+> 2000, ch. 17, art. 9; 2006, ch. 12, art. 7.
+
 
 
 
@@ -215,6 +228,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** Nul ne peut être poursuivi pour avoir fait de bonne foi une déclaration au titre des articles 7, 7.1 ou 9 ou pour avoir fourni au Centre des renseignements qui se rapportent à des soupçons de recyclage des produits de la criminalité ou de financement des activités terroristes.
 > 2000, ch. 17, art. 10; 2001, ch. 41, art. 53.
+
+
+
+
+
+**Non-application aux conseillers juridiques**
+
+**10.1** Les articles 7 et 9 ne s’appliquent pas aux personnes ni aux entités visées aux alinéas 5i) ou j) qui sont, selon le cas, des conseillers juridiques ou des cabinets d’avocats, lorsqu’elles fournissent des services juridiques.
+> 2006, ch. 12, art. 9.
 
 
 
@@ -249,7 +271,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Déclarant**
 
 - **(3)** Le déclarant est, selon le cas :
-	- **a)** la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada ou a quitté le pays ou la personne qui, dans les circonstances réglementaires, est responsable du moyen de transport;
+	- **a)** la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle arrive au Canada ou quitte le pays ou la personne qui, dans les circonstances réglementaires, est responsable du moyen de transport;
 	- **b)** s’agissant d’espèces ou d’effets importés par messager ou par courrier, l’exportateur étranger ou, sur notification aux termes du paragraphe 14(2), l’importateur;
 	- **c)** l’exportateur des espèces ou effets exportés par messager ou par courrier;
 	- **d)** le responsable du moyen de transport arrivé au Canada ou qui a quitté le pays et à bord duquel se trouvent des espèces ou effets autres que ceux visés à l’alinéa a) ou importés ou exportés par courrier;
@@ -264,7 +286,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transmission au Centre**
 
 - **(5)** L’agent fait parvenir au Centre les déclarations recueillies en application du paragraphe (1).
-> 2000, ch. 17, art. 12; 2001, ch. 41, art. 54.
+> 2000, ch. 17, art. 12; 2001, ch. 41, art. 54; 2006, ch. 12, art. 12(F).
 
 
 
@@ -341,16 +363,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Fouille d'un moyen de transport**
+**Fouille d’un moyen de transport**
 
 **16** 
 
-- **(1)** S'il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d'une valeur égale ou supérieure au montant réglementaire prévu pour l'application du paragraphe 12(1) se trouvent à bord d'un moyen de transport et n'ont pas été déclarés conformément à ce paragraphe, l'agent peut immobiliser le moyen de transport, monter à son bord et le fouiller, examiner toute chose qui s'y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire le moyen de transport à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+- **(1)** L’agent peut, afin de vérifier si des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent à bord d’un moyen de transport et n’ont pas été déclarés conformément à ce paragraphe, immobiliser le moyen de transport, monter à son bord et le fouiller, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et le faire conduire à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
 
-**Fouilles des bagages**
+**Fouille des bagages**
 
-- **(2)** S'il soupçonne, pour des motifs raisonnables, que des espèces ou des effets d'une valeur égale ou supérieure au montant réglementaire prévu pour l'application du paragraphe 12(1) se trouvent parmi des bagages et n'ont pas été déclarés conformément à ce paragraphe, l'agent peut fouiller les bagages, examiner toute chose qui s'y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
-> 2000, ch. 17, art. 16; 2001, ch. 41, art. 56.
+- **(2)** L’agent peut, afin de vérifier si des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent parmi des bagages et n’ont pas été déclarés conformément à ce paragraphe, fouiller les bagages, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+> 2000, ch. 17, art. 16; 2001, ch. 41, art. 56; 2006, ch. 12, art. 13.
 
 
 
@@ -495,7 +517,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions de révision**
 
-**24** La confiscation d’espèces ou d’effets saisis en vertu de la présente partie est définitive et n’est susceptible de révision, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 25 à 30.
+**24** La saisie-confiscation d’espèces ou d’effets effectuée en vertu de la présente partie est définitive et n’est susceptible de révision, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 24.1 et 25.
+> 2000, ch. 17, art. 24; 2006, ch. 12, art. 14.
+
+
+
+
+
+**Mesures de redressement**
+
+**24.1** 
+
+- **(1)** Le ministre ou l’agent que le président délègue pour l’application du présent article peut, dans les trente jours suivant la saisie effectuée en vertu du paragraphe 18(1) ou l’établissement de la pénalité réglementaire visée au paragraphe 18(2) :
+	- **a)** si le ministre est convaincu qu’aucune infraction n’a été commise, annuler la saisie, ou annuler ou rembourser la pénalité;
+	- **b)** s’il y a eu infraction mais que le ministre est d’avis qu’une erreur a été commise concernant la somme établie ou versée et que celle-ci doit être réduite, réduire la pénalité ou rembourser le trop-perçu.
+
+**Intérêt**
+
+- **(2)** La somme qui est remboursée à une personne ou entité en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par celle-ci jusqu’à celui de son remboursement.
+> 2006, ch. 12, art. 14.
+
 
 
 
@@ -554,15 +595,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **29** 
 
-- **(1)** S’il décide qu’il y a eu contravention au paragraphe 12(1), le ministre, aux conditions qu’il fixe :
-	- **a)** soit décide de restituer les espèces ou effets ou, sous réserve du paragraphe (2), la valeur de ceux-ci à la date où le ministre des Travaux publics et des Services gouvernementaux est informé de la décision, sur réception de la pénalité réglementaire ou sans pénalité;
-	- **b)** soit décide de restituer tout ou partie de la pénalité versée en application du paragraphe 18(2);
-	- **c)** soit confirme la confiscation des espèces ou effets au profit de Sa Majesté du chef du Canada, sous réserve de toute ordonnance rendue en application des articles 33 ou 34.
+- **(1)** S’il décide qu’il y a eu contravention au paragraphe 12(1), le ministre peut, aux conditions qu’il fixe :
+	- **a)** soit restituer les espèces ou effets ou, sous réserve du paragraphe (2), la valeur de ceux-ci à la date où le ministre des Travaux publics et des Services gouvernementaux est informé de la décision, sur réception de la pénalité réglementaire ou sans pénalité;
+	- **b)** soit restituer tout ou partie de la pénalité versée en application du paragraphe 18(2);
+	- **c)** soit confirmer la confiscation des espèces ou effets au profit de Sa Majesté du chef du Canada, sous réserve de toute ordonnance rendue en application des articles 33 ou 34.
 Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en est informé, prend les mesures nécessaires à l’application des alinéas a) ou b).
 
 **Limitation du montant versé**
 
 - **(2)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)a) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
+> 2000, ch. 17, art. 29; 2006, ch. 12, art. 15.
+
 
 
 
@@ -571,7 +614,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **30** 
 
-- **(1)** La personne qui a présenté une demande en vertu de l’article 25 peut, dans les quatre-vingt-dix jours suivant la communication de la décision, en appeler par voie d’action devant la Cour fédérale à titre de demandeur, le ministre étant le défendeur.
+- **(1)** La personne qui a demandé que soit rendue une décision en vertu de l’article 27 peut, dans les quatre-vingt-dix jours suivant la communication de cette décision, en appeler par voie d’action à la Cour fédérale à titre de demandeur, le ministre étant le défendeur.
 
 **Action ordinaire**
 
@@ -584,7 +627,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Limitation du montant versé**
 
 - **(4)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme qui peut être versée en vertu du paragraphe (3) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161.
+> 2000, ch. 17, art. 30; 2001, ch. 41, art. 139; 2002, ch. 8, art. 161; 2006, ch. 12, art. 16.
 
 
 
@@ -607,7 +650,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **32** 
 
-- **(1)** En cas de saisie-confiscation effectuée en vertu de la présente partie, toute personne, autre que le saisi, qui revendique sur les espèces ou effets un droit en qualité de propriétaire peut, dans les quatre-vingt-dix jours suivant la saisie, requérir par avis écrit le tribunal de rendre l’ordonnance visée à l’article 33.
+- **(1)** En cas de saisie-confiscation effectuée en vertu de la présente partie, toute personne ou entité, autre que le saisi, qui revendique sur les espèces ou effets un intérêt en qualité de propriétaire ou, au Québec, un droit en qualité de propriétaire ou de fiduciaire peut, dans les quatre-vingt-dix jours suivant la saisie, requérir par avis écrit le tribunal de rendre l’ordonnance visée à l’article 33.
 
 **Date de l’audition**
 
@@ -615,7 +658,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Signification au président**
 
-- **(3)** Dans les quinze jours suivant la date ainsi fixée, le requérant signifie au président, ou à l’agent que celui-ci désigne pour l’application du présent article, un avis de la requête et de l’audition.
+- **(3)** Dans les quinze jours suivant la date ainsi fixée, le requérant signifie au président, ou à l’agent que celui-ci délègue pour l’application du présent article, un avis de la requête et de l’audition.
 
 **Signification de l’avis**
 
@@ -630,7 +673,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
 	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, de la Section de première instance de la Cour suprême;
 	- **f)** dans le Nunavut, de la Cour de justice du Nunavut.
-> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127; 2006, ch. 12, art. 17.
 
 
 
@@ -638,10 +681,12 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Ordonnance**
 
-**33** Après l’audition de la requête visée au paragraphe 32(1), le requérant est en droit d’obtenir une ordonnance disposant que la saisie ne porte pas atteinte à son droit et précisant la nature et l’étendue de celui-ci au moment de la contravention si le tribunal constate qu’il remplit les conditions suivantes :
-- **a)** il a acquis son droit de bonne foi avant la contravention;
+**33** Après l’audition de la requête visée au paragraphe 32(1), le requérant est en droit d’obtenir une ordonnance disposant que la saisie ne porte pas atteinte à son droit ou à ses intérêts et précisant la nature et l’étendue de l’un comme des autres au moment de la contravention si le tribunal constate qu’il remplit les conditions suivantes :
+- **a)** il a acquis son droit ou ses intérêts de bonne foi avant la contravention;
 - **b)** il est innocent de toute complicité relativement à la contravention qui a entraîné la saisie ou de toute collusion à l’égard de la contravention;
 - **c)** il a pris des précautions suffisantes concernant toute personne admise à la possession des espèces ou effets saisis pour que ceux-ci soient déclarés conformément au paragraphe 12(1).
+> 2000, ch. 17, art. 33; 2006, ch. 12, art. 18.
+
 
 
 
@@ -655,6 +700,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 **Définition de cour d’appel**
 
 - **(2)** Au présent article, ***cour d’appel*** s’entend de la cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe (1).
+> 2000, ch. 17, art. 34; 2006, ch. 12, art. 19(A).
+
 
 
 
@@ -663,20 +710,20 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **35** 
 
-- **(1)** Le ministre des Travaux publics et des Services gouvernementaux, une fois la confiscation devenue définitive et dès qu’il a été informé par le président que la personne a, en vertu des articles 33 ou 34, obtenu une ordonnance définitive au sujet des espèces ou effets saisis, fait remettre à cette personne :
+- **(1)** Le ministre des Travaux publics et des Services gouvernementaux, une fois la confiscation devenue définitive et dès qu’il a été informé par le président que la personne ou l’entité a, en vertu des articles 33 ou 34, obtenu une ordonnance définitive au sujet des espèces ou effets saisis, fait remettre à cette personne ou entité :
 	- **a)** soit les espèces ou les effets;
 	- **b)** soit une somme dont le montant est basé sur la valeur de son droit sur les espèces ou effets au moment de la contravention, telle qu’elle est fixée dans l’ordonnance.
 
 **Limitation du montant versé**
 
 - **(2)** En cas de vente ou autre forme d’aliénation des espèces ou effets en vertu de la [Loi sur l’administration des biens saisis](/fr/Lois/Lois%20du%20Canada/1993/ch.%2037.md), le montant de la somme versée en vertu de l’alinéa (1)b) ne peut être supérieur au produit éventuel de la vente ou de l’aliénation, duquel sont soustraits les frais afférents exposés par Sa Majesté; à défaut de produit de l’aliénation, aucun paiement n’est effectué.
-> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127.
+> 2000, ch. 17, art. 35; 2005, ch. 38, art. 127; 2006, ch. 12, art. 20.
 
 
 
 
 
-### Communication de renseignements
+### Communication et utilisation de renseignements
 
 
 
@@ -688,6 +735,10 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **a)** contenus dans une déclaration faite aux termes du paragraphe 12(1), qu’elle soit complétée ou non;
 	- **b)** obtenus pour l’application de la présente partie;
 	- **c)** préparés à partir de renseignements visés aux alinéas a) ou b).
+
+**Utilisation des renseignements**
+
+- **(1.1)** L’agent peut utiliser les renseignements visés au paragraphe (1) s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles afin d’établir si une personne est visée par les articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à toute infraction prévue aux articles 117 à 119, 126 et 127 de cette loi.
 
 **Communication aux forces policières**
 
@@ -707,14 +758,14 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Non-contraignabilité**
 
-- **(5)** Sous réserve de l’article 36 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et de l’article 34 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le fonctionnaire ne peut être contraint par citation, assignation, sommation, ordonnance ou autres procédures obligatoires à comparaître ou à produire des documents, sauf s’ils sont délivrés ou rendus dans le cadre :
+- **(5)** Sous réserve de l’article 36 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et des articles 34 et 37 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le fonctionnaire ne peut être contraint par citation, assignation, sommation, ordonnance ou autre acte de procédure obligatoire à comparaître ou à produire des documents, sauf s’ils sont délivrés ou rendus dans le cadre :
 	- **a)** de poursuites criminelles intentées en vertu d’une loi fédérale, à l’égard desquelles une dénonciation ou une mise en accusation a été déposée;
 	- **b)** de toute procédure judiciaire concernant l’administration ou l’application de la présente partie.
 
 **Définition de fonctionnaire**
 
 - **(6)** Au présent article et à l’article 37, ***fonctionnaire*** s’entend de toute personne qui a obtenu des renseignements visés au paragraphe (1) ou y a ou a eu accès dans l’exercice des attributions qui lui sont conférées sous le régime de la présente partie.
-> 2000, ch. 17, art. 36; 2001, ch. 41, art. 64.
+> 2000, ch. 17, art. 36; 2001, ch. 41, art. 64; 2006, ch. 12, art. 22.
 
 
 
@@ -747,6 +798,15 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(3)** Les renseignements obtenus en vertu d’un accord visé au paragraphe (1) sont envoyés au Centre et, pour l’application de toute disposition de la présente loi sur la confidentialité des renseignements ou la collecte ou l’utilisation de ceux-ci par le Centre, sont réputés être des renseignements figurant dans une déclaration faite au titre de l’article 12.
 > 2000, ch. 17, art. 38; 2005, ch. 38, art. 125 et 139.
+
+
+
+
+
+**Accord avec des États étrangers**
+
+**38.1** Le ministre, avec le consentement du ministre chargé de l’application de l’article 42, peut conclure, avec le gouvernement d’un État étranger ou un organisme de celui-ci dont les attributions sont similaires à celles de l’Agence des services frontaliers du Canada, un accord écrit stipulant que celle-ci peut fournir à ce gouvernement ou à cet organisme les renseignements qui figurent dans le rapport visé à l’article 20, si elle a des motifs raisonnables de soupçonner que ces renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes.
+> 2006, ch. 12, art. 23.
 
 
 
@@ -1001,11 +1061,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **54** Le Centre :
 - **a)** recueille les rapports ou déclarations faits conformément aux articles 7, 7.1, 9, 12 ou 20 et les déclarations incomplètes qui lui sont transmises conformément au paragraphe 14(5), les rapports visés à l’article 9.1, les renseignements qui lui sont fournis soit par des organismes étrangers dont les attributions sont similaires aux siennes, soit par des organismes chargés de l’application de la loi ou autres autorités publiques, ainsi que tout renseignement qui lui est transmis volontairement et qui se rapporte à des soupçons de recyclage des produits de la criminalité ou de financement des activités terroristes;
-- **b)** peut recueillir tout renseignement qu'il croit se rapporter à des activités de recyclage des produits de la criminalité ou au financement des activités terroristes et qui est accessible au public, notamment par les banques de données mises sur le marché, ou qui est contenu dans des bases de données tenues par les gouvernements fédéral ou provinciaux dans le cadre de l'application des lois ou à des fins liées à la sécurité nationale et à l'égard desquelles un accord a été conclu en vertu du paragraphe 66(1);
+- **b)** peut recueillir tout renseignement qu’il croit se rapporter à des activités de recyclage des produits de la criminalité ou au financement des activités terroristes et qui est accessible au public, notamment par les banques de données mises sur le marché, ou qui est contenu dans des bases de données tenues par les gouvernements fédéral ou provinciaux dans le cadre de l’application des lois ou à des fins liées à la sécurité nationale et à l’égard desquelles un accord a été conclu en vertu du paragraphe 66(1);
 - **c)** analyse et apprécie les rapports, déclarations et autres renseignements recueillis;
-- **d)** conserve ces rapports, déclarations et renseignements, sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), pendant cinq ans à compter de la date de leur réception ou de leur collecte, et, si des renseignements sont communiqués au titre des paragraphes 55(3), (4) ou (5), conserve ces renseignements et les rapports et déclarations où ils figurent pendant huit ans à compter de cette date;
-- **e)** par dérogation à la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md), détruit ces rapports, déclarations et renseignements à l'expiration de la période applicable visée à l'alinéa d).
-> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66; 2004, ch. 11, art. 42, ch. 15, art. 100.
+- **d)** sous réserve de l’article 6 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), conserve les rapports et déclarations visés à l’alinéa a) et les renseignements visés aux alinéas a) ou b), pendant dix ans à compter de la date de leur réception ou de leur collecte, selon le cas;
+- **e)** par dérogation à la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md), supprime tous les renseignements identificateurs des rapports ou déclarations visés à l’alinéa a) quinze ans après la réception ou la collecte de ceux-ci, si ces rapports ou déclarations n’ont pas fait l’objet d’une communication au titre des paragraphes 55(3), 55.1(1) ou 56.1(1) ou (2).
+> 2000, ch. 17, art. 54; 2001, ch. 12, art. 1, ch. 41, art. 66; 2004, ch. 11, art. 42, ch. 15, art. 100; 2006, ch. 12, art. 24.
 
 
 
@@ -1019,7 +1079,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **55** 
 
-- **(1)** Sous réserve du paragraphe (3), des articles 52, 55.1 et 56.1, du paragraphe 58(1) et de l’article 65 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
+- **(1)** Sous réserve du paragraphe (3), des articles 52, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 et 65.1 de la présente loi et du paragraphe 12(1) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), il est interdit au Centre de communiquer les renseignements :
 	- **a)** contenus dans une déclaration visée à l’article 7;
 	- **a.1)** contenus dans une déclaration visée à l’article 7.1;
 	- **b)** contenus dans une déclaration visée à l’article 9;
@@ -1066,7 +1126,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
 	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26.
 
 
 
@@ -1151,7 +1211,16 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
 	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
-> 2001, ch. 41, art. 68.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 28.
+
+
+
+
+
+**Utilité de renseignements**
+
+**56.2** Le Centre peut fournir à l’organisme lui ayant communiqué des renseignements au titre d’un accord visé aux paragraphes 56(1) ou (2) une évaluation de leur utilité pour lui.
+> 2006, ch. 12, art. 29.
 
 
 
@@ -1190,22 +1259,22 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **59** 
 
-- **(1)** Sous réserve de l’article 36 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et l’article 34 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le Centre, ainsi que toute personne qui a obtenu un renseignement ou document, ou y a ou a eu accès dans le cadre de l’exercice des attributions qui lui sont conférées sous le régime de la présente loi, à l’exception de la partie 2, ne peut être contraint, que ce soit par citation, assignation, sommation, ordonnance ou autre acte obligatoire, à comparaître ou à produire un tel document, sauf dans le cadre de poursuites intentées pour infraction de recyclage des produits de la criminalité, infraction de financement des activités terroristes ou infraction à la présente loi à l’égard desquelles une dénonciation ou une mise en accusation a été déposée ou dans le cadre d’une ordonnance de production de document rendue en vertu de l’article 60.1 aux fins d’enquête relativement à une menace envers le Canada.
+- **(1)** Sous réserve de l’article 36 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et des articles 34 et 37 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le Centre, ainsi que toute personne qui a obtenu un renseignement ou document, ou y a ou a eu accès dans le cadre de l’exercice des attributions qui lui sont conférées sous le régime de la présente loi, à l’exception de la partie 2, ne peut être contraint, que ce soit par citation, assignation, sommation, ordonnance ou autre acte obligatoire, à comparaître ou à produire un tel document, sauf dans le cadre de poursuites intentées pour infraction de recyclage des produits de la criminalité, infraction de financement des activités terroristes ou infraction à la présente loi à l’égard desquelles une dénonciation ou une mise en accusation a été déposée ou dans le cadre d’une ordonnance de production de documents rendue en vertu des articles 60, 60.1 ou 60.3.
 
 **Mandat de perquisition**
 
 - **(2)** Malgré toute autre loi, le Centre ne peut faire l’objet d’aucun mandat de perquisition.
-> 2000, ch. 17, art. 59; 2001, ch. 41, art. 70.
+> 2000, ch. 17, art. 59; 2001, ch. 41, art. 70; 2006, ch. 12, art. 30.
 
 
 
 
 
-**Exception : ordonnance de communication**
+**Exception : ordonnance de communication**
 
 **60** 
 
-- **(1)** Malgré les dispositions de toute autre loi, à l’exception des articles 49 et 50 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et des articles 48 et 49 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le Centre ne peut faire l’objet d’aucune ordonnance de communication autre que celles prévues au paragraphe (4) et à l’article 60.1.
+- **(1)** Malgré les dispositions de toute autre loi, à l’exception des articles 49 et 50 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et des articles 48 et 49 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le Centre ne peut faire l’objet d’aucune ordonnance de communication autre que celles prévues au paragraphe (4) et aux articles 60.1 et 60.3.
 
 **Fins de l’ordonnance**
 
@@ -1213,17 +1282,17 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 **Demande d’ordonnance**
 
-- **(3)** La demande d’ordonnance est à présenter *ex parte* par écrit à un juge; elle est accompagnée de l’affidavit du procureur général — ou de la personne qu’il désigne expressément à cette fin — comportant les éléments suivants :
+- **(3)** La demande d’ordonnance est à présenter *ex parte* par écrit à un juge; elle est accompagnée de l’affidavit du procureur général — ou de la personne qu’il désigne expressément à cette fin — comportant les éléments suivants :
 	- **a)** désignation de l’infraction visée par l’enquête;
-	- **b)** désignation de la personne visée par les renseignements ou les documents demandés;
+	- **b)** désignation de la personne ou entité visée par les renseignements ou les documents demandés;
 	- **c)** désignation du genre de renseignements ou de documents — notamment leur forme ou leur support — qu’a obtenus le directeur du Centre ou qui ont été obtenus en son nom et dont la communication est demandée;
-	- **d)** les faits à l’origine des motifs raisonnables de croire que la personne mentionnée à l’alinéa b) a commis une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes ou en a bénéficié, et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande;
+	- **d)** les faits sur lesquels reposent les motifs raisonnables de croire que la personne ou entité mentionnée à l’alinéa b) a commis une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes ou en a bénéficié, et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande;
 	- **e)** un sommaire des renseignements déjà reçus du Centre à l’égard de l’infraction;
-	- **f)** les renseignements relatifs aux demandes présentées antérieurement en vertu du présent article à l’égard de toute personne qui fait l’objet d’une enquête relativement à l’infraction.
+	- **f)** les renseignements relatifs aux demandes présentées antérieurement en vertu du présent article à l’égard de toute personne ou entité qui fait l’objet d’une enquête relativement à l’infraction.
 
 **Ordonnance de communication**
 
-- **(4)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un policier nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre au policier de les emporter, s’il est convaincu de l’existence :
+- **(4)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un policier nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre au policier de les emporter, s’il est convaincu de l’existence :
 	- **a)** d’une part, des faits mentionnés à l’alinéa (3)d);
 	- **b)** d’autre part, de motifs raisonnables de croire qu’il est dans l’intérêt public d’en permettre l’accès, compte tenu des avantages pouvant vraisemblablement en résulter pour l’enquête en question.
 L’ordonnance doit être exécutée dans le délai, suivant la signification, que précise le juge.
@@ -1242,10 +1311,11 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Opposition à la communication**
 
-- **(8)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (4) en attestant, oralement ou par écrit :
+- **(8)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (4) en attestant, oralement ou par écrit :
 	- **a)** soit qu’un accord bilatéral ou international en matière de partage de renseignements relatifs aux infractions de recyclage des produits de la criminalité ou aux infractions de financement des activités terroristes, ou à des infractions essentiellement similaires, que le gouvernement du Canada a signé, interdit au directeur de les communiquer;
 	- **b)** soit que les renseignements ou documents sont protégés par la loi;
 	- **c)** soit que ces renseignements ou documents ont été placés sous scellés en conformité avec la loi ou sur l’ordre d’un tribunal compétent;
+	- **c.1)** soit que la communication des renseignements ou documents porterait atteinte à la sécurité nationale;
 	- **d)** soit que la communication des renseignements ou documents serait, pour toute autre raison, contraire à l’intérêt public.
 
 **Juge en chef de la Cour fédérale**
@@ -1278,18 +1348,18 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Copies**
 
-- **(16)** Lorsque des renseignements ou documents sont remis à une personne en application du paragraphe (4) ou lorsqu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou faire des copies; toute copie faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+- **(16)** Lorsque des renseignements ou documents sont remis à une personne en application du paragraphe (4) ou lorsqu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
 
 **Définitions**
 
 - **(17)** Les définitions qui suivent s’appliquent au présent article.
 
-***juge*** Juge d’une cour provinciale, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et juge au sens du paragraphe 462.3(1) de cette loi.
+***juge*** Juge d’une cour provinciale, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et juge au sens du paragraphe 462.3(1) de cette loi. (*judge*)
 
-***policier*** S’entend d’un officier ou d’un agent de police ou de toute autre personne chargée du maintien de l’ordre public.
+***policier*** S’entend d’un officier ou d’un agent de police ou de toute autre personne chargée du maintien de l’ordre public. (*police officer*)
 
-***procureur général*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2000, ch. 17, art. 60; 2001, ch. 12, art. 3, ch. 32, art. 72, ch. 41, art. 71.
+***procureur général*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*Attorney General*)
+> 2000, ch. 17, art. 60; 2001, ch. 12, art. 3, ch. 32, art. 72, ch. 41, art. 71; 2006, ch. 12, art. 31.
 
 
 
@@ -1303,7 +1373,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Contenu de la demande**
 
-- **(2)** La demande d’ordonnance est présentée *ex parte* par écrit et accompagnée de l’affidavit du demandeur portant sur les points suivants :
+- **(2)** La demande d’ordonnance est présentée *ex parte* par écrit et accompagnée de l’affidavit du demandeur portant sur les points suivants :
 	- **a)** désignation de la personne ou de l’entité visée par les renseignements ou les documents demandés;
 	- **b)** désignation du genre de renseignements ou de documents — notamment leur forme ou leur support — qu’a obtenus le directeur du Centre ou qui ont été obtenus en son nom et dont la communication est demandée;
 	- **c)** les faits sur lesquels le demandeur s’appuie pour avoir des motifs raisonnables de croire que l’ordonnance est nécessaire pour permettre au Service canadien du renseignement de sécurité d’enquêter sur une menace envers la sécurité du Canada;
@@ -1312,7 +1382,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Ordonnance de communication**
 
-- **(3)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un employé du Service canadien du renseignement de sécurité nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à l’employé de les emporter, s’il est convaincu de l’existence :
+- **(3)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à un employé du Service canadien du renseignement de sécurité nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à l’employé de les emporter, s’il est convaincu de l’existence :
 	- **a)** d’une part, des faits mentionnés au paragraphe (2);
 	- **b)** d’autre part, de motifs raisonnables de croire qu’il est dans l’intérêt public d’en permettre l’accès, compte tenu des avantages pouvant vraisemblablement en résulter pour l’enquête en question.
 L’ordonnance doit être exécutée dans le délai, suivant la signification, que précise le juge.
@@ -1331,10 +1401,11 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Opposition à la communication**
 
-- **(7)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
+- **(7)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
 	- **a)** soit qu’un accord bilatéral ou international en matière de partage de renseignements relatifs aux infractions de recyclage des produits de la criminalité ou aux infractions de financement des activités terroristes, ou à des infractions essentiellement similaires, que le gouvernement du Canada a signé, interdit au directeur de les communiquer;
 	- **b)** soit que les renseignements ou documents sont protégés par la loi;
 	- **c)** soit que ces renseignements ou documents ont été placés sous scellés en conformité avec la loi ou sur l’ordre d’un tribunal compétent;
+	- **c.1)** soit que la communication des renseignements ou documents porterait atteinte à la sécurité nationale;
 	- **d)** soit que la communication des renseignements ou documents serait, pour toute autre raison, contraire à l’intérêt public.
 
 **Juge en chef de la Cour fédérale**
@@ -1367,12 +1438,12 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Copies**
 
-- **(15)** Si des renseignements ou documents sont remis à une personne en application du paragraphe (3) ou qu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou en faire faire des copies; toute copie faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+- **(15)** Si des renseignements ou documents sont remis à une personne en application du paragraphe (3) ou qu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou en faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
 
 **Définition**
 
 - **(16)** Au présent article, ***juge*** s’entend d’un juge de la Cour fédérale, nommé par son juge en chef, pour l’application de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
-> 2001, ch. 41, art. 72; 2005, ch. 10, art. 34.
+> 2001, ch. 41, art. 72; 2005, ch. 10, art. 34; 2006, ch. 12, art. 32.
 
 
 
@@ -1382,6 +1453,91 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **60.2** La demande d’ordonnance présentée à un juge en vertu du paragraphe 60.1(2), ou une opposition en vertu du paragraphe 60.1(7), est entendue à huis clos en conformité avec les règlements pris en vertu de l’article 28 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md).
 > 2001, ch. 41, art. 72.
+
+
+
+
+
+**Fins de l’ordonnance**
+
+**60.3** 
+
+- **(1)** Dans le cas d’une communication faite en vertu de l’alinéa 55(3)b), le commissaire du revenu nommé en vertu de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md) peut, après avoir obtenu l’approbation du ministre du Revenu national, demander une ordonnance de communication dans le cadre d’une enquête sur l’infraction visée par la communication.
+
+**Demande d’ordonnance**
+
+- **(2)** La demande d’ordonnance est présentée *ex parte* par écrit à un juge; elle est accompagnée de l’affidavit du commissaire — ou de la personne qu’il désigne expressément à cette fin — comportant les éléments suivants :
+	- **a)** la désignation de l’infraction visée par l’enquête;
+	- **b)** la désignation de la personne ou entité visée par les renseignements ou les documents demandés;
+	- **c)** la désignation du genre de renseignement ou de document — notamment leur forme ou leur support — qu’a obtenus le directeur du Centre ou qui ont été obtenus en son nom et dont la communication est demandée;
+	- **d)** les faits sur lesquels reposent les motifs raisonnables de croire que la personne ou entité mentionnée à l’alinéa b) a commis l’infraction visée au paragraphe (1) ou en a bénéficié, et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande;
+	- **e)** un sommaire des renseignements déjà reçus du Centre à l’égard de l’infraction;
+	- **f)** les renseignements relatifs aux demandes présentées antérieurement en vertu du présent article à l’égard de toute personne ou entité qui fait l’objet d’une enquête relativement à l’infraction.
+
+**Ordonnance de communication**
+
+- **(3)** Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à l’employé de l’Agence du revenu du Canada nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à cet employé de les emporter, s’il est convaincu de l’existence :
+	- **a)** d’une part, des faits mentionnés à l’alinéa (2)d);
+	- **b)** d’autre part, de motifs raisonnables de croire qu’il est dans l’intérêt public d’en permettre l’accès, compte tenu des avantages pouvant vraisemblablement en résulter pour l’enquête en question.
+L’ordonnance doit être exécutée dans le délai, suivant la signification, que précise le juge.
+
+**Exécution hors du ressort**
+
+- **(4)** L’ordonnance peut viser des renseignements ou documents se trouvant dans un lieu situé dans une province où le juge n’a pas compétence; elle y est exécutoire une fois visée par un juge ayant compétence dans la province en question.
+
+**Signification**
+
+- **(5)** Une copie de l’ordonnance est signifiée à la personne qu’elle vise; la signification se fait selon les règles du tribunal ou de la façon que le juge ordonne.
+
+**Prolongation**
+
+- **(6)** Le juge qui rend une ordonnance en vertu du paragraphe (3) peut, à la demande du directeur, en prolonger la période d’exécution.
+
+**Opposition à la communication**
+
+- **(7)** Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
+	- **a)** soit qu’un accord bilatéral ou international en matière de partage de renseignements relatifs aux infractions de recyclage des produits de la criminalité ou aux infractions de financement des activités terroristes, ou à des infractions essentiellement similaires, que le gouvernement du Canada a signé, interdit au directeur de les communiquer;
+	- **b)** soit qu’ils sont protégés par la loi;
+	- **c)** soit qu’ils ont été placés sous scellés en conformité avec la loi ou sur l’ordre d’un tribunal compétent;
+	- **d)** soit que leur communication porterait atteinte à la sécurité nationale;
+	- **e)** soit que leur communication serait, pour toute autre raison, contraire à l’intérêt public.
+
+**Juge en chef de la Cour fédérale**
+
+- **(8)** Il est statué, sur demande et conformément au paragraphe (9), sur la validité de toute opposition fondée sur le paragraphe (7) par le juge en chef de la Cour fédérale ou tout autre juge de cette cour que celui-ci charge de l’audition de ce genre de demande.
+
+**Décision**
+
+- **(9)** Le juge saisi d’une opposition peut examiner les documents ou renseignements dont la communication est demandée, s’il l’estime nécessaire pour rendre sa décision. Il déclare l’opposition fondée et interdit la communication s’il constate l’existence d’un des cas prévus au paragraphe (7).
+
+**Délai**
+
+- **(10)** La demande visée au paragraphe (8) doit être présentée dans les dix jours suivant l’opposition, mais le juge en chef de la Cour fédérale ou le juge de cette cour que le juge en chef charge de l’audition de ce genre de demande peut modifier ce délai s’il l’estime indiqué dans les circonstances.
+
+**Appel à la Cour d’appel fédérale**
+
+- **(11)** La décision visée au paragraphe (8) est susceptible d’appel à la Cour d’appel fédérale.
+
+**Délai d’appel**
+
+- **(12)** L’appel doit être interjeté dans les dix jours suivant la date de la décision, mais la Cour d’appel fédérale peut proroger ce délai si elle l’estime indiqué dans les circonstances.
+
+**Règles spéciales**
+
+- **(13)** Les demandes visées au paragraphe (8) font, en premier ressort ou en appel, l’objet d’une audition à huis clos; celle-ci a lieu dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md) si l’auteur de l’opposition le demande.
+
+**Présentation ex parte**
+
+- **(14)** L’auteur de l’opposition qui fait l’objet d’une demande ou d’un appel a, au cours de l’audition, en première instance ou en appel et sur demande, le droit de présenter des arguments *ex parte*.
+
+**Copies**
+
+- **(15)** Lorsque des renseignements ou documents sont remis à une personne en application du paragraphe (3) ou lorsqu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+
+**Définition de juge**
+
+- **(16)** Pour l’application du présent article, ***juge*** s’entend du juge d’une cour provinciale, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et du juge au sens du paragraphe 462.3(1) de cette loi.
+> 2006, ch. 12, art. 33.
 
 
 
@@ -1435,6 +1591,21 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 
 
+**Demandes d’information**
+
+**63.1** 
+
+- **(1)** La personne autorisée peut en outre, dans le cadre d’un examen visé au paragraphe 62(1), par avis signifié, exiger de la personne ou entité qu’elle fournisse, au lieu et selon les modalités de temps ou autres qui sont précisés dans l’avis, tout document ou autre information utile à l’application de la partie 1, sous forme de données électroniques ou d’imprimé, ou sous toute autre forme intelligible.
+
+**Obligation de fournir de l’information**
+
+- **(2)** La personne ou l’entité à qui l’avis est signifié doit fournir, en conformité avec celui-ci, les documents ou autre information que la personne autorisée peut valablement exiger quant à l’application de la partie 1.
+> 2006, ch. 12, art. 34.
+
+
+
+
+
 **Définition de juge**
 
 **64** 
@@ -1447,14 +1618,14 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Mise sous scellés**
 
-- **(3)** Le conseiller juridique qui fait valoir le secret professionnel en vertu du paragraphe (2) doit :
+- **(3)** Le conseiller juridique qui fait valoir le secret professionnel en vertu du paragraphe (2) doit :
 	- **a)** d’une part, mettre sous scellés le document ainsi que tout autre document pour lequel il fait valoir, en même temps, le secret professionnel au nom du même client, bien sceller et marquer le tout, ou, si la personne autorisée et le conseiller juridique en conviennent, faire en sorte que les pages du document soient paraphées et numérotées ou autrement bien marquées;
 	- **b)** d’autre part, retenir le document et veiller à sa conservation jusqu’à ce que, conformément au présent article, le document soit produit devant un juge et une ordonnance rendue concernant le document.
 
 **Demande à un juge**
 
-- **(4)** Lorsqu’un document a été placé sous scellés conformément au paragraphe (3), le client ou le conseiller juridique, au nom de celui-ci, peut :
-	- **a)** dans un délai de quatorze jours à compter de la date où le document a été placé sous scellés, demander à un juge, moyennant un avis de présentation de trois jours adressé au sous-procureur général du Canada, de rendre une ordonnance :
+- **(4)** Lorsqu’un document a été placé sous scellés conformément au paragraphe (3), le client ou le conseiller juridique, au nom de celui-ci, peut :
+	- **a)** dans un délai de quatorze jours à compter de la date où le document a été placé sous scellés, demander à un juge, moyennant un avis de présentation de trois jours adressé au sous-procureur général du Canada, de rendre une ordonnance :
 		- **(i)** fixant une date, au plus tard vingt et un jours après la date de l’ordonnance, et un lieu, où sera tranchée la question de savoir si le client bénéficie du secret professionnel du conseiller juridique en ce qui concerne le document,
 		- **(ii)** exigeant, en outre, la présentation du document au juge au moment et au lieu fixés;
 	- **b)** faire signifier une copie de l’ordonnance au sous-procureur général du Canada;
@@ -1462,9 +1633,9 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Décision concernant la demande**
 
-- **(5)** La demande prévue à l’alinéa (4)c) doit être entendue à huis clos et le juge qui en est saisi :
+- **(5)** La demande prévue à l’alinéa (4)c) doit être entendue à huis clos et le juge qui en est saisi :
 	- **a)** peut examiner le document, s’il l’estime nécessaire pour statuer sur la question; dans ce cas, il veille ensuite à ce que le document soit remis sous scellés;
-	- **b)** statue sur la question de façon sommaire et, selon le cas :
+	- **b)** statue sur la question de façon sommaire et, selon le cas :
 		- **(i)** il ordonne la restitution du document au conseiller juridique s’il est d’avis que le client bénéficie du secret professionnel du conseiller juridique en ce qui concerne le document,
 		- **(ii)** il ordonne au conseiller juridique de permettre à la personne autorisée d’examiner ou de reproduire le document, dans le cas contraire;
 	- **c)** motive brièvement sa décision en indiquant de quel document il s’agit sans en révéler les détails.
@@ -1492,7 +1663,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Renonciation au secret professionnel**
 
 - **(10)** Le conseiller juridique qui fait valoir au nom d’un client actuel ou antérieur, nommément désigné, le secret professionnel du conseiller juridique en ce qui concerne un document doit en même temps communiquer la dernière adresse connue de ce client à la personne autorisée, afin que celle-ci puisse, d’une part, chercher à informer le client du secret professionnel qui est invoqué en son nom et, d’autre part, lui donner l’occasion, si la chose est matériellement possible dans le délai mentionné au présent article, de renoncer à faire valoir le secret professionnel avant que la question ne soit soumise à la décision d’un juge.
-> 2000, ch. 17, art. 64; 2001, ch. 12, art. 4.
+> 2000, ch. 17, art. 64; 2001, ch. 12, art. 4; 2006, ch. 12, art. 35(A).
 
 
 
@@ -1502,7 +1673,7 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **65** 
 
-- **(1)** Le Centre peut communiquer aux organismes compétents chargés de l’application de la loi tout renseignement dont il prend connaissance en vertu des articles 62 ou 63 et soupçonne, pour des motifs raisonnables, qu’il établit une contravention à la partie 1.
+- **(1)** Le Centre peut communiquer aux organismes compétents chargés de l’application de la loi tout renseignement dont il prend connaissance en vertu des articles 62, 63 ou 63.1 et soupçonne, pour des motifs raisonnables, de constituer une preuve de la contravention à la partie 1.
 
 **Personnes ou entités**
 
@@ -1511,7 +1682,29 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 **Restriction**
 
 - **(3)** Les renseignements communiqués par le Centre au titre du paragraphe (2) ne peuvent être utilisés par un organisme visé à ce paragraphe qu’à des fins relatives à l’observation de la partie 1.
-> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101.
+> 2000, ch. 17, art. 65; 2004, ch. 15, art. 101; 2006, ch. 12, art. 36.
+
+
+
+
+
+**Accord de collaboration**
+
+**65.1** 
+
+- **(1)** Le Centre peut conclure avec tout organisme d’un État étranger ayant des attributions similaires aux siennes concernant la vérification de la conformité aux obligations portant sur l’identification de personnes ou d’entités, la tenue et la conservation de documents ou la production de déclarations ou avec toute organisation internationale regroupant de tels organismes, créée par les gouvernements de divers États, un accord écrit stipulant :
+	- **a)** que le Centre peut échanger avec cet organisme ou cette organisation des renseignements relatifs au respect par une personne ou une entité de ces obligations et relatifs à l’évaluation des risques liés au respect de ces obligations;
+	- **b)** que les renseignements doivent être utilisés uniquement en vue d’assurer la conformité à ces obligations et d’évaluer les risques liés au respect de ces obligations;
+	- **c)** que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du Centre.
+
+**Communication**
+
+- **(2)** Il peut communiquer à l’organisme ou à l’organisation, en conformité avec l’accord, les renseignements qui y sont visés.
+
+**Utilité des renseignements**
+
+- **(3)** Il peut fournir à l’organisme ou à l’organisation lui ayant communiqué des renseignements au titre de l’accord une évaluation de leur utilité pour lui.
+> 2006, ch. 12, art. 37.
 
 
 
@@ -1601,9 +1794,15 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Examen par un comité parlementaire**
 
-***72** Dans les cinq ans suivant l’entrée en vigueur du présent article, le comité désigné ou constitué par le Parlement à cette fin procède à l’examen de l’application de la présente loi et présente un rapport au Parlement assorti de ses éventuelles recommandations, s’il y a lieu, quant aux modifications qu’il serait souhaitable d’apporter à la présente loi ou à ses modalités d’application.
+**72** 
 
-<a name='P-24.501_fr_1'><sup>*</sup></a>: [Note : Article 72 en vigueur le 5 juillet 2000, *voir* TR/2000-55.]<br />
+- **(1)** Tous les cinq ans à compter de la date d’entrée en vigueur du présent article, le comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué à cette fin procède à l’examen de l’application de la présente loi.
+
+**Examen par le Commissaire à la protection de la vie privée**
+
+- **(2)** Tous les deux ans à compter de la date d’entrée en vigueur du présent article, le Commissaire à la protection de la vie privée, nommé au titre de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), procède à l’examen des mesures prises par le Centre en vue de protéger les renseignements qu’il recueille en application de la présente loi, et, dans les trois mois suivant l’examen, il remet un rapport à l’égard de ces mesures au président de chaque chambre, qui le dépose immédiatement devant la chambre qu’il préside ou, si elle ne siège pas, dans les quinze premiers jours de séance ultérieurs.
+> 2000, ch. 17, art. 72; 2006, ch. 12, art. 38.
+
 
 
 
@@ -1624,13 +1823,32 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 	- **d)** catégoriser les documents visés à l’article 6 et déterminer les renseignements à y porter;
 	- **e)** déterminer la durée et les méthodes de conservation de ces documents;
 	- **e.1)** préciser les renseignements qui doivent figurer dans la déclaration faite au titre des articles 7 ou 7.1 ou du paragraphe 9(1);
-	- **f)** préciser les mesures à prendre par les personnes ou entités afin de vérifier l’identité des personnes ou entités pour lesquelles un document doit être tenu ou une déclaration faite;
+	- **e.2)** préciser, pour les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités —, les modalités à respecter pour l’application des articles 7, 7.1, 9 et 9.1;
+	- **f)** préciser les mesures à prendre par les personnes ou entités afin de vérifier l’identité des personnes ou entités qui demandent l’ouverture d’un compte ou pour lesquelles un document doit être tenu ou une déclaration faite et prévoir les délais pour la prise de ces mesures;
 	- **g)** définir les termes ***casino***, ***effets*** et ***messager***;
 	- **h)** prévoir les modalités de déclaration des espèces et effets pour l’application du paragraphe 12(1), y compris le délai pour faire la déclaration, et les renseignements à inclure dans le formulaire de déclaration;
-	- **i)** prendre toute mesure réglementaire prévue par la présente loi.
+	- **i)** prévoir les cas visés par l’article 9.2;
+	- **j)** prévoir, pour l’application du paragraphe 9.3(1), la façon d’établir qu’une personne est un étranger politiquement vulnérable et les circonstances dans lesquelles il est nécessaire de le faire;
+	- **k)** prévoir, pour l’application du paragraphe 9.3(2), les cas où l’agrément de la haute direction est nécessaire et les mesures à prendre dans le cas où une personne ou entité fait affaire avec un étranger politiquement vulnérable;
+	- **l)** prévoir, pour l’application de l’alinéa 9.3(3)j), les postes ou charges dont les titulaires sont des étrangers politiquement vulnérables, préciser quels membres de leur famille sont assimilés à un ***étranger politiquement vulnérable*** au sens du paragraphe 9.3(3) et définir ***État étranger*** pour l’application de ce paragraphe;
+	- **m)** prévoir quelles entités étrangères sont visées par le paragraphe 9.4(1), et pour l’application de ce paragraphe, préciser les renseignements à obtenir à leur égard et prévoir toute autre mesure nécessaire;
+	- **n)** définir l’expression ***banque fictive*** visée à l’article 9.4;
+	- **o)** prévoir les services visés par l’expression « relation de correspondant bancaire » au sens du paragraphe 9.4(3);
+	- **p)** prévoir les télévirements visés par l’article 9.5, les renseignements à inclure avec ceux-ci et les mesures à prendre pour l’application de cet article;
+	- **q)** prévoir le mode d’établissement et de mise en oeuvre du programme visé au paragraphe 9.6(1);
+	- **r)** prévoir les mesures spéciales à prendre en vertu du paragraphe 9.6(3);
+	- **s)** préciser les personnes et entités qui sont tenues de s’inscrire auprès du Centre en vertu de l’article 11.1;
+	- **t)** préciser les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités — qui ne sont pas assujetties à l’application de l’article 11.1;
+	- **u)** préciser les personnes ou entités inadmissibles à l’inscription pour l’application de l’alinéa 11.11(1)f);
+	- **v)** préciser les modalités de présentation de la demande d’inscription visée au paragraphe 11.12(1) ainsi que les renseignements qui doivent l’accompagner;
+	- **w)** prévoir les modalités à remplir pour communiquer au Centre tout renseignement à lui fournir en application de l’article 11.13;
+	- **x)** prévoir les modalités à remplir en vue de communiquer au Centre les précisions visées au paragraphe 11.14(1) et celles visées au paragraphe 11.17(1);
+	- **y)** prévoir, pour l’application de l’article 11.19, les modalités de renouvellement d’inscription et fixer le délai plus long applicable au renouvellement de l’inscription;
+	- **z)** définir ***renseignements identificateurs*** pour l’application du paragraphe 54.1(3);
+	- **z.1)** prendre toute autre mesure réglementaire prévue par la présente loi.
 
 - **(2) et (3)** [Abrogés, 2001, ch. 41, art. 73]
-> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73.
+> 2000, ch. 17, art. 73; 2001, ch. 41, art. 73; 2006, ch. 12, art. 39.
 
 
 
@@ -1643,9 +1861,11 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Infractions générales**
 
-**74** Toute personne ou entité qui sciemment contrevient à l’article 6, aux paragraphes 12(4) ou 36(1), à l’article 37, aux paragraphes 55(1) ou (2), à l’article 57 ou aux paragraphes 62(2) ou 64(3) ou aux règlements d’application de la présente loi commet une infraction passible, sur déclaration de culpabilité :
+**74** Toute personne ou entité qui sciemment contrevient à l’un ou l’autre des articles 6, 6.1, 9.1, 9.2 et 9.3, du paragraphe 9.4(2), des articles 9.5, 9.6, 9.7 et 11.1, des paragraphes 12(1) et (4) et 36(1), de l’article 37, des paragraphes 55(1) et (2), de l’article 57 et des paragraphes 62(2), 63.1(2) et 64(3) ou aux règlements commet une infraction passible, sur déclaration de culpabilité :
 - **a)** par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
 - **b)** par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+> 2000, ch. 17, art. 74; 2006, ch. 12, art. 41.
+
 
 
 
@@ -1716,7 +1936,9 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 **Prescription**
 
-**81** Les poursuites fondées sur les alinéas 74a), 75(1)a) ou 76a) ou le paragraphe 77(1) se prescrivent par un an à compter du fait en cause.
+**81** Les poursuites fondées sur les alinéas 74a), 75(1)a) ou 76a), le paragraphe 77(1) ou l’alinéa 77.1a) se prescrivent par cinq ans à compter du fait en cause.
+> 2000, ch. 17, art. 81; 2006, ch. 12, art. 44.
+
 
 
 
