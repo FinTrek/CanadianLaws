@@ -490,10 +490,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** Ont qualité de fonctionnaire électoral :
+- **(1)** Ont qualité de fonctionnaire électoral :
 	- **a)** les directeurs du scrutin nommés en vertu du paragraphe 24(1);
 	- **b)** les directeurs adjoints du scrutin nommés en vertu des paragraphes 26(1) et 28(5) et les directeurs adjoints du scrutin supplémentaires nommés en vertu du paragraphe 30(1);
 	- **c)** les personnes à qui le directeur du scrutin a délégué des fonctions au titre de l’article 27;
+	- **c.1)** les personnes désignées au titre du paragraphe 28(3.1);
 	- **d)** les agents réviseurs nommés en vertu de l’alinéa 32a);
 	- **e)** les scrutateurs nommés en vertu des alinéas 32b) et c) et du paragraphe 273(1);
 	- **f)** les greffiers du scrutin nommés en vertu des alinéas 32b) et c) et du paragraphe 273(1);
@@ -513,22 +514,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Personnes inadmissibles**
 
-- **(3)** Ne peuvent être nommés fonctionnaire électoral :
-	- **a)
-** les ministres fédéraux ou les membres du conseil exécutif d’une province;
-	- **b)
-** les membres du Sénat ou de la Chambre des communes;
-	- **c)
-** les membres de l'Assemblée législative d'une province, du Conseil des Territoires du Nord-Ouest ou de l'Assemblée législative du Yukon ou du Nunavut;
-	- **d)
-** les juges et les juges adjoints ou suppléants soit de toute cour supérieure ou de tout tribunal de faillite, soit, au Yukon ou dans les Territoires du Nord-Ouest, de la Cour suprême de ces territoires;
-	- **d.1)
-** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
-	- **e)
-** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
-	- **f)
-** les personnes déclarées coupables d’une infraction à la présente loi, à la 
-[Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à toute loi provinciale relative aux élections provinciales, municipales ou scolaires dans les sept ans qui précèdent.
+- **(3)** Ne peuvent être nommés fonctionnaire électoral :
+	- **a)** les ministres fédéraux ou les membres du conseil exécutif d’une province;
+	- **b)** les membres du Sénat ou de la Chambre des communes;
+	- **c)** les membres de l’Assemblée législative d’une province, du Conseil des Territoires du Nord-Ouest ou de l’Assemblée législative du Yukon ou du Nunavut;
+	- **d)** les juges et les juges adjoints ou suppléants soit de toute cour supérieure ou de tout tribunal de faillite, soit, au Yukon ou dans les Territoires du Nord-Ouest, de la Cour suprême de ces territoires;
+	- **d.1)** les personnes qui se sont portées candidat à la dernière élection générale ou à une élection partielle ayant été tenue depuis la dernière élection générale;
+	- **e)** les parlementaires qui ont occupé leur poste pendant la session précédant l’élection ou qui l’occupent pendant la session en cours au moment du déclenchement de l’élection;
+	- **f)** les personnes déclarées coupables d’une infraction à la présente loi, à la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md) ou à toute loi provinciale relative aux élections provinciales, municipales ou scolaires dans les sept ans qui précèdent.
 
 **Qualité d’électeur des fonctionnaires électoraux**
 
@@ -536,14 +529,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(5)** Pour une nomination qui relève de lui, le directeur du scrutin peut, s’il lui est impossible de nommer une personne répondant aux exigences prévues au paragraphe (4), nommer, avec l’agrément du directeur général des élections :
+- **(5)** Pour une nomination qui relève de lui, le directeur du scrutin peut, s’il lui est impossible de nommer une personne répondant aux exigences prévues au paragraphe (4), nommer, avec l’agrément du directeur général des élections :
 	- **a)** un citoyen canadien âgé d’au moins seize ans qui réside dans la circonscription;
 	- **b)** une personne ayant qualité d’électeur mais ne résidant pas dans la circonscription.
 
 **Interdiction**
 
 - **(6)** Il est interdit à quiconque d’agir à titre de fonctionnaire électoral, sachant que le présent article le rend inhabile à le faire.
-> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91.
+> 2000, ch. 9, art. 22; 2002, ch. 7, art. 91; 2006, ch. 9, art. 173.
 
 
 
@@ -574,7 +567,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **24** 
 
-- **(1)** Le gouverneur en conseil nomme un directeur du scrutin pour chaque circonscription; il ne peut le révoquer que pour un motif valable prévu au paragraphe (7).
+- **(1)** Le directeur général des élections nomme un directeur du scrutin pour chaque circonscription conformément au processus établi au titre du paragraphe (1.1); il ne peut le révoquer que conformément à la procédure établie au titre de ce paragraphe.
+
+**Qualifications**
+
+- **(1.1)** Le directeur général des élections précise les qualifications requises pour le poste de directeur du scrutin et établit un processus de nomination externe, au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), fondé sur le mérite ainsi qu’une procédure de destitution équitable pour les motifs visés au paragraphe (7).
+
+**Définition de mérite**
+
+- **(1.2)** La nomination du directeur du scrutin est fondée sur le mérite si le directeur général des élections estime que la personne à nommer possède les qualifications essentielles établies pour le travail à accomplir et qu’il prend en compte toute qualification supplémentaire qu’il considère comme un atout pour ce travail et toute exigence opérationnelle actuelle ou future.
+
+**Durée du mandat**
+
+- **(1.3)** Le directeur du scrutin est nommé pour un mandat de dix ans.
+
+**Reconduction du mandat**
+
+- **(1.4)** Le directeur général des élections peut, après consultation du chef de chacun des partis reconnus à la Chambre des communes, reconduire le mandat du directeur du scrutin qui s’est acquitté de ses fonctions de façon satisfaisante sans qu’il soit tenu de prendre en compte la candidature d’autres personnes.
+
+**Maintien en fonction**
+
+- **(1.5)** Le directeur du scrutin peut, avec le consentement du directeur général des élections, continuer d’exercer ses fonctions après l’expiration de son mandat jusqu’à la reconduction de celui-ci ou la nomination de son successeur.
 
 **Responsabilité**
 
@@ -586,7 +599,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Vacance**
 
-- **(4)** La charge de directeur du scrutin ne devient vacante qu’au décès, à la démission ou à la révocation de celui-ci, si celui-ci cesse de résider dans la circonscription ou si les limites de la circonscription sont modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md).
+- **(4)** Le poste de directeur du scrutin ne devient vacant qu’au décès, à la démission, à la révocation ou à l’expiration du mandat de celui-ci, si celui-ci cesse de résider dans la circonscription ou si les limites de la circonscription sont modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md).
 
 **Démission**
 
@@ -598,12 +611,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Révocation**
 
-- **(7)** Le directeur du scrutin peut être révoqué par le gouverneur en conseil pour l’un ou l’autre des motifs valables suivants :
+- **(7)** Le directeur du scrutin peut être révoqué par le directeur général des élections pour l’un ou l’autre des motifs valables suivants :
 	- **a)** il est incapable, notamment pour cause de maladie ou d’incapacité physique ou mentale, de s’acquitter d’une manière satisfaisante des fonctions que lui confère la présente loi;
 	- **b)** il ne s’est pas acquitté de façon compétente des fonctions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
 	- **c)** il n’a pas terminé la révision des limites des sections de vote situées dans sa circonscription conformément à l’instruction donnée en ce sens par le directeur général des élections en application du paragraphe 538(3);
 	- **d)** il a contrevenu au paragraphe (6), que ce soit ou non dans l’exercice de ses fonctions.
-> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2.
+> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2; 2006, ch. 9, art. 174.
 
 
 
@@ -611,7 +624,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Liste dans la Gazette du Canada**
 
-**25** Les nom, adresse et profession de toute personne nommée directeur du scrutin, et le nom de la circonscription pour laquelle elle est nommée, sont communiqués dans les meilleurs délais au directeur général des élections. Celui-ci publie dans la Gazette du Canada, entre le 1<sup>er</sup> et le 20 janvier de chaque année, une liste des nom, adresse et profession du directeur du scrutin pour chaque circonscription du Canada.
+**25** Le directeur général des élections publie dans la Gazette du Canada, entre le 1<sup>er</sup> et le 20 janvier de chaque année, une liste des nom, adresse et profession du directeur du scrutin pour chaque circonscription du Canada.
+> 2000, ch. 9, art. 25; 2006, ch. 9, art. 175.
+
 
 
 
@@ -650,21 +665,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le directeur du scrutin ou le directeur adjoint du scrutin sont tenus d’aviser sans délai le directeur général des élections lorsque le directeur du scrutin devient incapable de remplir ses fonctions.
 
-**Communication des avis**
-
-- **(2)** Le directeur général des élections communique au ministre les avis reçus à ce titre.
+- **(2)** [Abrogé, 2006, ch. 9, art. 176]
 
 **Exercice de l’intérim par l’adjoint**
 
-- **(3)** En cas d’incapacité du directeur du scrutin, le directeur adjoint du scrutin est, jusqu’à la nomination d’un nouveau directeur du scrutin ou jusqu’à ce que le directeur du scrutin recouvre sa capacité, chargé de l’intérim.
+- **(3)** Sous réserve du paragraphe 24(1.5), en cas d’absence ou d’empêchement du directeur du scrutin ou de vacance de son poste, le directeur adjoint du scrutin assure l’intérim.
+
+**Exercice de l’intérim par une autre personne**
+
+- **(3.1)** En cas d’absence ou d’empêchement du directeur du scrutin et du directeur adjoint du scrutin, ou de vacance simultanée de leurs postes, pendant la période électorale, le directeur général des élections peut désigner une personne pour assurer l’intérim à l’égard de l’élection, tant pendant qu’après cette période.
 
 **Vacance**
 
-- **(4)** Dans les soixante jours qui suivent la date où le directeur général des élections est informé de la vacance du poste de directeur du scrutin ou accepte la démission de celui-ci, le gouverneur en conseil nomme un nouveau directeur du scrutin.
+- **(4)** Si le poste du directeur du scrutin devient vacant, le directeur général des élections lui nomme un successeur dans les meilleurs délais.
 
 **Nomination d’un nouveau directeur adjoint du scrutin**
 
 - **(5)** Le directeur adjoint du scrutin qui assure l’intérim nomme sans délai un directeur adjoint du scrutin.
+> 2000, ch. 9, art. 28; 2006, ch. 9, art. 176.
+
 
 
 
@@ -12185,9 +12204,20 @@ a) si les dépenses de publicité électorale faites par ce parti avant la date 
 
 
 
+**Rapport relatif aux directeurs du scrutin**
+
+**535.2** Dans les meilleurs délais après avoir précisé des qualifications et établi un processus de nomination et une procédure de destitution au titre du paragraphe 24(1.1), ou après y avoir apporté des modifications importantes, le directeur général des élections en fait rapport au président de la Chambre des communes.
+> 2006, ch. 9, art. 177.
+
+
+
+
+
 **Présentation des rapports à la chambre**
 
-**536** Le président doit présenter sans retard à la Chambre des communes tout rapport que lui transmet le directeur général des élections conformément aux articles 534 et 535.
+**536** Le président doit présenter sans retard à la Chambre des communes tout rapport que lui transmet le directeur général des élections conformément aux articles 534, 535 et 535.2.
+> 2000, ch. 9, art. 536; 2006, ch. 9, art. 177.
+
 
 
 
