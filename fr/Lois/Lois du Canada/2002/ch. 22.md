@@ -1532,7 +1532,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **87** Le titulaire de licence d’alcool qui emballe de l’alcool s’assure que les mentions prévues par règlement figurent sur le contenant renfermant l’alcool ainsi que sur tout emballage recouvrant ce contenant :
 - **a)** dans le cas du vin qui, aussitôt emballé, est déposé dans un entrepôt d’accise, préalablement à sa sortie de l’entrepôt;
+- **a.1)** dans le cas du vin sur lequel aucun droit n’est imposé par l’effet de l’alinéa 135(2)a), préalablement à l’un des événements suivants :
+	- **(i)** sa sortie des locaux du titulaire de licence,
+	- **(ii)** sa consommation,
+	- **(iii)** sa mise en vente dans ces locaux;
 - **b)** dans les autres cas, aussitôt l’alcool emballé.
+> 2002, ch. 22, art. 87; 2007, ch. 2, art. 55.
+
 
 
 
@@ -2120,9 +2126,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 - **(2)** Sous réserve des articles 144 à 146, le droit est exigible, au moment où le vin est utilisé pour soi, de la personne qui est responsable du vin à ce moment.
 
-**Vin produit pour usage personnel**
+**Exceptions**
 
-- **(3)** Le paragraphe (1) ne s’applique pas au vin qu’un particulier produit pour son usage personnel et qui est consommé à cette fin.
+- **(3)** Le paragraphe (1) ne s’applique pas :
+	- **a)** au vin produit au Canada qui est composé entièrement de produits agricoles ou végétaux cultivés au Canada;
+	- **b)** au vin qu’un particulier produit pour son usage personnel et qui est consommé à cette fin.
+> 2002, ch. 22, art. 134; 2007, ch. 2, art. 56.
+
 
 
 
@@ -2136,7 +2146,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Vin produit pour usage personnel ou par de petits producteurs**
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** au vin produit et emballé par un particulier pour son usage personnel;
+	- **a)** au vin produit au Canada qui est composé entièrement de produits agricoles ou végétaux cultivés au Canada;
+	- **a.1)** au vin produit et emballé par un particulier pour son usage personnel;
 	- **b)** au vin produit par un titulaire de licence de vin et emballé par lui au cours d’un de ses mois d’exercice, si ses ventes de produits qui sont assujettis au droit prévu au paragraphe (1), ou qui l’auraient été en l’absence du présent paragraphe, au cours des douze mois précédant ce mois n’ont pas dépassé 50 000 $.
 
 **Moment de l’imposition**
@@ -2150,6 +2161,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Droit exigible de l’exploitant agréé d’entrepôt d’accise**
 
 - **(5)** Dans le cas où un exploitant agréé d’entrepôt d’accise devient redevable, en vertu de l’article 140, du droit sur le vin, la personne tenue de payer ce droit en vertu du paragraphe (4) cesse d’en être redevable.
+> 2002, ch. 22, art. 135; 2007, ch. 2, art. 57.
+
 
 
 
