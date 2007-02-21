@@ -1538,8 +1538,14 @@ Version anglaise seulement***prescribed*** means
 **Information on container**
 
 **87** Every alcohol licensee who packages alcohol shall cause all prescribed information to be displayed on the container containing the alcohol and on any packaging encasing the container
-- **(a)** in the case of wine that is entered into an excise warehouse immediately after it is packaged, before the wine is removed from the warehouse; and
+- **(a)** in the case of wine that is entered into an excise warehouse immediately after it is packaged, before the wine is removed from the warehouse;
+- **(a.1)** in the case of wine on which duty is not imposed because of paragraph 135(2)(a), before the wine is
+	- **(i)** removed from the licensee’s premises,
+	- **(ii)** consumed, or
+	- **(iii)** made available for sale on the premises; and
 - **(b)** in any other case, immediately after the alcohol is packaged.
+> 2002, c. 22, s. 87; 2007, c. 2, s. 55.
+
 
 
 
@@ -2127,9 +2133,13 @@ Version anglaise seulement***prescribed*** means
 
 - **(2)** Subject to sections 144 to 146, the duty is payable at the time the wine is taken for use and is payable by the person who is responsible for the wine at that time.
 
-**Wine produced for personal use**
+**Exceptions**
 
-- **(3)** Subsection (1) does not apply to wine produced by an individual for their personal use and that is consumed in the course of that use.
+- **(3)** Subsection (1) does not apply to
+	- **(a)** wine that is produced in Canada and composed wholly of agricultural or plant product grown in Canada; and
+	- **(b)** wine that is produced by an individual for their personal use and that is consumed in the course of that use.
+> 2002, c. 22, s. 134; 2007, c. 2, s. 56.
+
 
 
 
@@ -2143,7 +2153,8 @@ Version anglaise seulement***prescribed*** means
 **Wine produced for personal use and by small producers**
 
 - **(2)** Subsection (1) does not apply to wine that is
-	- **(a)** produced and packaged by an individual for their personal use; or
+	- **(a)** produced in Canada and composed wholly of agricultural or plant product grown in Canada;
+	- **(a.1)** produced and packaged by an individual for their personal use; or
 	- **(b)** produced by a wine licensee and packaged by the licensee during a fiscal month of the licensee if the sales by the licensee of products subject to duty under subsection (1), or that would have been so subject to duty in the absence of this subsection, in the 12 fiscal months preceding that fiscal month did not exceed $50,000.
 
 **Time of imposition**
@@ -2157,6 +2168,8 @@ Version anglaise seulement***prescribed*** means
 **Wine licensee ceases to be liable for duty**
 
 - **(5)** If an excise warehouse licensee becomes liable under section 140 for duty on the wine, the person required under subsection (4) to pay the duty ceases to be liable to pay it.
+> 2002, c. 22, s. 135; 2007, c. 2, s. 57.
+
 
 
 
