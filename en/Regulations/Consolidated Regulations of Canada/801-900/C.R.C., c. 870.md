@@ -42610,6 +42610,8 @@ Aconiazide and its salts<br />- <i>Aconiazide et ses sels</i>
 
 Acyclovir and its salts<br />- <i>Acyclovir et ses sels</i>
 
+Adalimumab<br />- <i>Adalimumab</i>
+
 Adapalene and its salts and derivatives<br />- <i>Adapalène, ses sels et dérivés</i>
 
 Adefovir and its salts and derivatives<br />- <i>Adéfovir, ses sels et dérivés</i>
@@ -42619,6 +42621,10 @@ Adenosine and its salts, when sold or recommended for administration by intraven
 Alatrofloxacin and its salts and derivatives<br />- <i>Alatrofloxacine et ses sels et dérivés</i>
 
 Aldesleukin<br />- <i>Aldésleukine</i>
+
+Alefacept<br />- <i>Aléfacept</i>
+
+Alemtuzumab<br />- <i>Alemtuzumab</i>
 
 Alendronic acid and its salts<br />- <i>Alendronique (acide) et ses sels</i>
 
@@ -42726,6 +42732,8 @@ Atenolol and its salts<br />- <i>Aténolol et ses sels</i>
 
 Atipamezole and its salts<br />- <i>Atipamézole et ses sels</i>
 
+Atomoxetine and its salts<br />- <i>Atomoxétine et ses sels</i>
+
 Atorvastatin and its salts<br />- <i>Atorvastatine et ses sels</i>
 
 Atovaquone<br />- <i>Atovaquone</i>
@@ -42745,6 +42753,8 @@ Azaribine<br />- <i>Azaribine</i>
 Azathioprine and its salts<br />- <i>Azathioprine et ses sels</i>
 
 Azatidine and its salts<br />- <i>Azatadine et ses sels</i>
+
+Azelaic acid<br />- <i>Acide azélaïque</i>
 
 Azlocillin and its salts and derivatives<br />- <i>Azlocilline, ses sels et dérivés</i>
 
@@ -42789,6 +42799,8 @@ Betaxolol and its salts<br />- <i>Betaxolol et ses sels</i>
 Bethanechol chloride<br />- <i>Béthanéchol (chlorure de)</i>
 
 Bethanidine and its salts<br />- <i>Béthanidine et ses sels</i>
+
+Bevacizumab<br />- <i>Bévacizumab</i>
 
 Bezafibrate and its salts and derivatives<br />- <i>Bezafibrate, ses sels et dérivés</i>
 
@@ -42928,6 +42940,8 @@ Cetirizine and its salts when sold in concentrations greater than 8.5 mg cetiriz
 
 Cetrorelix and its salts<br />- <i>Cétrorélix et ses sels</i>
 
+Cetuximab<br />- <i>Cétuximab</i>
+
 Chloral<br />- <i>Chloral</i>
 
 Chloral hydrate<br />- <i>Chloral (hydrate de)</i>
@@ -42956,6 +42970,8 @@ Choline salicylate, when sold in combination with magnesium salicylate<br />- <i
 
 Choline theophyllinate<br />- <i>Choline (théophyllinate de)</i>
 
+Choriogonadotropin alfa<br />- <i>Choriogonadotropine alfa</i>
+
 Ciclopirox and its salts<br />- <i>Ciclopirox et ses sels</i>
 
 Cilastatin and its salts<br />- <i>Cilastatine et ses sels</i>
@@ -42963,6 +42979,8 @@ Cilastatin and its salts<br />- <i>Cilastatine et ses sels</i>
 Cilazapril and its salts and derivatives<br />- <i>Cilazapril, ses sels et dérivés</i>
 
 Cimetidine and its salts, except when sold in concentrations of 200 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Cimétidine et ses sels, sauf s’ils sont vendus en une concentration de 200 mg ou moins par unité posologique orale pour le traitement des brûlures d’estomac</i>
+
+Cinacalcet and its salts<br />- <i>Cinacalcet et ses sels</i>
 
 Cinchophene and its salts<br />- <i>Cinchophène et ses sels</i>
 
@@ -43049,6 +43067,8 @@ Danofloxacin and its salts<br />- <i>Danofloxacine et ses sels</i>
 Dantrolene and its salts<br />- <i>Dantrolène et ses sels</i>
 
 Dapiprazole and its salts<br />- <i>Dapiprazole et ses sels</i>
+
+Darifenacin and its salts<br />- <i>Darifénacine et ses sels</i>
 
 Daunorubicin and its salts<br />- <i>Daunorubicine et ses sels</i>
 
@@ -43174,13 +43194,19 @@ Ectylurea and its salts<br />- <i>Ectylurée et ses sels</i>
 
 Edrophonium chloride<br />- <i>Édrophonium (chlorure d’)</i>
 
+Efalizumab<br />- <i>Éfalizumab</i>
+
 Efavirenz<br />- <i>Éfavirenz</i>
 
 Eflornithine and its salts and derivatives<br />- <i>Éflornithine, ses sels et dérivés</i>
 
+Eletriptan and its salts<br />- <i>Élétriptan et ses sels</i>
+
 Embutramide<br />- <i>Embutramide</i>
 
 Emedastine and its salts<br />- <i>Émédastine et ses sels</i>
+
+Emtricitabine<br />- <i>Emtricitabine</i>
 
 Emylcamate<br />- <i>Émylcamate</i>
 
@@ -43209,6 +43235,8 @@ Eptifibatide and its salts<br />- <i>Eptifibatide et ses sels</i>
 Ertapenem and its salts<br />- <i>Ertapénem et ses sels</i>
 
 Erythropoietin<br />- <i>Érythropoiétine</i>
+
+Escitalopram and its salts<br />- <i>Escitalopram et ses sels</i>
 
 Esmolol and its salts<br />- <i>Esmolol et ses sels</i>
 
@@ -43246,7 +43274,7 @@ Ezetimibe<br />- <i>Ézétimibe</i>
 
 Famciclovir and its salts<br />- <i>Famciclovir et ses sels</i>
 
-Famotidine and its salts (except in preparations for oral use containing 10 mg or less of famotidine per dosage unit)<br />- <i>Famotidine et ses sels (sauf dans les préparations pour usage oral contenant 10 mg ou moins de famotidine par unité posologique)</i>
+Famotidine and its salts, except when sold in concentrations of 20 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Famotidine et ses sels, sauf s’ils sont vendus en une concentration de 20 mg ou moins par unité posologique orale et indiqués pour le traitement des brûlures d’estomac</i>
 
 Felodipine and its salts<br />- <i>Félodipine et ses sels</i>
 
@@ -43321,6 +43349,8 @@ Fosfomycin and its salts<br />- <i>Fosfomycine et ses sels</i>
 Fosinopril and its salts<br />- <i>Fosinopril et ses sels</i>
 
 Fosphenytoin and its salts<br />- <i>Fosphénytoïne et ses sels</i>
+
+Frovatriptan and its salts<br />- <i>Frovatriptan et ses sels</i>
 
 Fulvestrant<br />- <i>Fulvestrant</i>
 
@@ -43760,6 +43790,8 @@ Nilutamide<br />- <i>Nilutamide</i>
 
 Nimodipine and its salts<br />- <i>Nimodipine et ses sels</i>
 
+Nitric oxide<br />- <i>Oxyde nitrique</i>
+
 Nitroscanate<br />- <i>Nitroscanate</i>
 
 Nizatidine and its salts (except when sold in an oral dosage form containing not more than the equivalent of 75 mg of nizatidine)<br />- <i>Nizatidine et ses sels (sauf lorsque vendue sous une forme posologique orale contenant au plus l’équivalent de 75 mg de nizatidine)</i>
@@ -43783,6 +43815,8 @@ Olanzapine and its salts<br />- <i>Olanzapine et ses sels</i>
 Olopatadine and its salts<br />- <i>Olopatadine et ses sels</i>
 
 Olsalazine and its salts<br />- <i>Olsalazine et ses sels</i>
+
+Omalizumab<br />- <i>Omalizumab</i>
 
 Omeprazole and its salts<br />- <i>Oméprazole et ses sels</i>
 
@@ -43820,6 +43854,8 @@ Oxytocin<br />- <i>Oxytocine</i>
 
 Paclitaxel and its derivatives<br />- <i>Paclitaxel et ses dérivés</i>
 
+Palifermin<br />- <i>Palifermine</i>
+
 Palivizumab<br />- <i>Palivizumab</i>
 
 Pamidronic acid and its salts<br />- <i>Pamidronique (acide) et ses sels</i>
@@ -43834,7 +43870,13 @@ Paramethadione<br />- <i>Paraméthadione</i>
 
 Pargyline and its salts<br />- <i>Pargyline et ses sels</i>
 
+Paricalcitol<br />- <i>Paricalcitol</i>
+
 Paroxetine and its salts<br />- <i>Paroxétine et ses sels</i>
+
+Pegaptanib and its salts<br />- <i>Pegaptanib et ses sels</i>
+
+Pegvisomant<br />- <i>Pegvisomant</i>
 
 Penciclovir and its salts<br />- <i>Penciclovir et ses sels</i>
 
@@ -44030,7 +44072,7 @@ Raltitrexed and its salts and derivatives<br />- <i>Raltitrexed, ses sels et dé
 
 Ramipril and its salts and derivatives<br />- <i>Ramipril, ses sels et dérivés</i>
 
-Ranitidine and its salts (except when sold in a dosage form containing not more than the equivalent of 75 mg of ranitidine)<br />- <i>Ranitidine et ses sels (sauf lorsque vendue sous une forme posologique contenant au plus l’équivalent de 75 mg de ranitidine</i>
+Ranitidine and its salts, except when sold in concentrations of 150 mg or less per oral dosage unit and indicated for the treatment of heartburn<br />- <i>Ranitidine et ses sels, sauf s’ils sont vendus en une concentration de 150 mg ou moins par unité posologique orale et indiqués pour le traitement des brûlures d’estomac</i>
 
 Raubasine and its salts<br />- <i>Raubasine et ses sels</i>
 
@@ -44244,6 +44286,8 @@ Tioconazole and its salts (except in preparations for topical and vaginal use)<b
 
 Tiotropium bromide<br />- <i>Tiotropium (bromure de)</i>
 
+Tipranavir and its salts<br />- <i>Tipranavir et ses sels</i>
+
 Tirofiban and its salts and derivatives<br />- <i>Tirofiban et ses sels et dérivés</i>
 
 Tizanidine and its salts<br />- <i>Tizanidine et ses sels</i>
@@ -44391,6 +44435,8 @@ Vitamin A in oral dosage form containing more than 10,000 International Units of
 Vitamin B12 with Intrinsic Factor Concentrate<br />- <i>Vitamine B12 avec concentré de facteur intrinsèque</i>
 
 Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units ofVitamin D<br />- <i>Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion,par une personne, de plus de 1 000 unités internationales de vitamine D</i>
+
+Voriconazole<br />- <i>Voriconazole</i>
 
 Xanthinol nicotinate<br />- <i>Xantinol (nicotinate de)</i>
 
@@ -44704,7 +44750,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
->  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1.
+>  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2.
 
 
 
