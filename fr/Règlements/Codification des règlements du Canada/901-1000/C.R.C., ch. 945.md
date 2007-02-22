@@ -9,7 +9,7 @@ Autorités habilitantes :
 
 ----------
 
-
+[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les règlements modificatifs appropriés.] 
 
 
 
@@ -12811,8 +12811,41 @@ où
 
 
 
-**PARTIES LXXIV ET LXXV** 
-## [Abrogées, DORS/2001-295, art. 7]
+**PARTIE LXXIV** 
+## Plans d’aménagement forestier des terres à bois
+
+
+**7400** 
+
+- **(1)** Pour l’application des paragraphes 70(9), (9.3) et (10) et 73(3) de la Loi, est un plan d’aménagement forestier relatif à la terre à bois d’un contribuable le plan écrit portant sur la gestion et l’aménagement de cette terre qui, selon le cas :
+	- **a)** en décrit la composition, prévoit les soins nécessaires pour la croissance, la santé et la qualité de son peuplement et est approuvé comme étant conforme aux exigences d’un programme provincial pour l’aménagement durable et la conservation des forêts;
+	- **b)** d’après l’attestation écrite d’un professionnel reconnu de la foresterie, est un plan qui décrit la composition de la terre à bois, prévoit les soins nécessaires pour la croissance, la santé et la qualité de son peuplement et comprend :
+		- **(i)** une description ou une carte de son emplacement,
+		- **(ii)** une description de ses caractéristiques, y compris une carte du lieu sur laquelle ces caractéristiques sont indiquées,
+		- **(iii)** une description des travaux d’aménagement qui y ont été effectués depuis son acquisition par le contribuable, y compris une description des activités qui s’y déroulent depuis cette acquisition,
+		- **(iv)** des renseignements, que le professionnel estime acceptables, estimant :
+			- **(A)** l’âge et la hauteur des arbres sur la terre à bois, ainsi que les essences,
+			- **(B)** la quantité de bois se trouvant sur la terre à bois,
+			- **(C)** la qualité et la composition du sol sous-jacent,
+			- **(D)** la quantité de bois qui pourrait être tirée de la terre à bois par suite de la mise en œuvre du plan,
+		- **(v)** une description et un échéancier des travaux qu’il est proposé d’effectuer sur la terre à bois, y compris les travaux touchant :
+			- **(A)** les récoltes,
+			- **(B)** le renouvellement et la régénération,
+			- **(C)** l’application de techniques de sylviculture,
+			- **(D)** l’intendance responsable et la protection de l’environnement,
+		- **(vi)** une description des objectifs et stratégies visant la gestion et l’aménagement de la terre à bois sur une période d’au moins cinq ans.
+
+- **(2)** Le professionnel reconnu de la foresterie visé au paragraphe (1) est titulaire d’un diplôme ou d’un certificat reconnu par le Bureau canadien d’agrément en foresterie, par l’Institut forestier du Canada ou par le Conseil canadien des techniciens et technologues.
+
+- **(3)** Le professionnel reconnu de la foresterie visé au paragraphe (1) n’a pas à se prononcer sur l’exhaustivité ou l’exactitude de toute description d’activités passées visée au sous-alinéa (1)b)(iii) ou de tout renseignement visé au sous-alinéa (1)b)(iv) si celui-ci n’a pas été établi par lui.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2007-35, art. 1 et 2.
+
+
+
+
+
+**PARTIE LXXV** 
+## [Abrogée, DORS/2001-295, art. 7]
 
 
 
