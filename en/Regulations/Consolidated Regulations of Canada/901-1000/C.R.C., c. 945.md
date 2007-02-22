@@ -9,7 +9,7 @@ Enabling authorities:
 
 ----------
 
-
+[Note: Application provisions are not included in the consolidated text; see relevant amending regulations.]
 
 
 
@@ -12908,7 +12908,40 @@ where
 
 
 
-**PARTS LXXIV AND LXXV** 
+**PART LXXIV** 
+## Prescribed Forest Management Plans for Woodlots
+
+
+**7400** 
+
+- **(1)** For the purposes of subsections 70(9), (9.3) and (10) and 73(3) of the Act, a prescribed forest management plan in respect of a woodlot of a taxpayer is a written plan for the management and development of the woodlot that
+	- **(a)** describes the composition of the woodlot, provides for the attention necessary for the growth, health and quality of the trees on the woodlot and is approved in accordance with the requirements of a provincial program established for the sustainable management and conservation of forests; or
+	- **(b)** has been certified in writing by a recognized forestry professional to be a plan that describes the composition of the woodlot, provides for the attention necessary for the growth, health and quality of the trees on the woodlot and includes
+		- **(i)** a description of, or a map indicating, the location of the woodlot,
+		- **(ii)** a description of the characteristics of the woodlot, including a map of the woodlot site that shows those characteristics,
+		- **(iii)** a description of the development of the woodlot, including the activities carried out on the woodlot, since the taxpayer acquired it,
+		- **(iv)** information acceptable to the recognized forestry professional estimating
+			- **(A)** the ages and heights of the trees on the woodlot, and their species,
+			- **(B)** the quantity of wood on the woodlot,
+			- **(C)** the quality and composition of the soil underlying the woodlot, and
+			- **(D)** the quantity of wood that the woodlot could yield as a result of the implementation of the plan,
+		- **(v)** a description of, and the timing for, the activities proposed to be carried out on the woodlot under the plan, including any of those activities that deal with
+			- **(A)** harvesting,
+			- **(B)** renewal and regeneration,
+			- **(C)** the application of silviculture techniques, and
+			- **(D)** responsible stewardship and the protection of the environment, and
+		- **(vi)** a description of the objectives and strategies for the management and development of the woodlot over a period of at least five years.
+
+- **(2)** A recognized forestry professional referred to in subsection (1) is a forestry professional who has a degree, diploma or certificate recognized by the Canadian Forestry Accreditation Board, the Canadian Institute of Forestry or the Canadian Council of Technicians and Technologists.
+
+- **(3)** A recognized forestry professional referred to in subsection (1) is not required to express an opinion as to the completeness or correctness of a description of past activities referred to in subparagraph (1)(b)(iii) or of information referred to in subparagraph (1)(b)(iv) if the information was not prepared by that recognized forestry professional.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2007-35, ss. 1, 2.
+
+
+
+
+
+**PART LXXV** 
 ## [Repealed, SOR/2001-295, s. 7]
 
 
