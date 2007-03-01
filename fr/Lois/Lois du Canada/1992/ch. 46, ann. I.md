@@ -160,17 +160,17 @@ Sanctionnée sur le 16 décembre 1996
 
 **Institution facultative**
 
-**10** Le gouverneur en conseil peut, par décret, sur recommandation du ministre :
-- **a)** instituer un régime ou une convention ou en autoriser l’institution prévoyant le versement de prestations, du type visé à la définition de « convention de retraite », au paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au profit ou à l’égard des personnes suivantes :
+**10** Le gouverneur en conseil peut, par décret, sur recommandation du ministre :
+- **a)** instituer un régime ou une convention ou en autoriser l’institution prévoyant le versement de prestations, du type visé à la définition de « convention de retraite », au paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au profit ou à l’égard des personnes suivantes :
 	- **(i)** celles qui sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou à la Caisse de retraite de la fonction publique au sens du paragraphe 3(1) de cette loi,
-	- **(ii)** celles qui sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) ou à la Caisse de retraite des Forces canadiennes au sens du paragraphe 2(1) de cette loi,
+	- **(ii)** celles qui sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), à la Caisse de retraite des Forces canadiennes au sens du paragraphe 2(1) de cette loi ou au fonds constitué par règlement pris au titre de l’article 59.1 de cette loi,
 	- **(iii)** celles qui sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la L*oi sur la pension de retraite de la Gendarmerie royale du Canada* ou à la Caisse de retraite de la Gendarmerie royale du Canada au sens du paragraphe 3(1) de cette loi,
 	- **(iv)** celles qui sont assujetties à la [Loi sur la pension spéciale du service diplomatique](/fr/Lois/Lois%20révisées%20du%20Canada/D/D-2.md) ou à la [Loi sur la pension de retraite des lieutenants-gouverneurs](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-8.md),
 	- **(v)** celles qui participent à un régime spécial de pension,
 	- **(vi)** celles qui, en l’absence des dispositions de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et de ses règlements d’application relatives à l’agrément des régimes de pension, pourraient acquérir des prestations au titre d’un régime spécial de pension ou d’un régime de pension prévu par une loi visée aux sous-alinéas (i), (ii), (iii) ou (iv),
 	- **(vii)** celles qui ne peuvent, du fait d’une loi fédérale, devenir ou rester adhérents à un régime de pension prévu par une loi visée aux sous-alinéas (i), (ii), (iii) ou (iv);
 - **b)** désigner des personnes visées à l’alinéa a) ou des catégories de telles personnes comme étant assujetties à un régime ou à une convention institués au titre d’un décret pris en application de cet alinéa.
-> 1992, ch. 46, ann. I, art. 10; 2002, ch. 17, art. 28.
+> 1992, ch. 46, ann. I, art. 10; 2002, ch. 17, art. 28; 2003, ch. 26, art. 65.
 
 
 
@@ -182,7 +182,7 @@ Sanctionnée sur le 16 décembre 1996
 
 - **(1)** Dès que possible après la date d’entrée en vigueur du présent paragraphe, le gouverneur en conseil est tenu, par décret, sur recommandation du ministre, d’instituer un régime ou une convention ou d’en autoriser l’institution prévoyant le versement de prestations, du type visé à la définition de « convention de retraite », au paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au profit ou à l’égard des personnes suivantes :
 	- **a)** celles qui, à compter de cette date, sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou à la Caisse de retraite de la fonction publique au sens du paragraphe 3(1) de cette loi, et dont le taux de traitement annuel est supérieur à celui fixé par les règlements pris au titre de l’alinéa 42.1(1)a) de cette loi ou au taux annuel qui peut être établi sous leur régime;
-	- **b)** celles qui, à compter de cette date, sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) ou à la Caisse de retraite des Forces canadiennes au sens du paragraphe 2(1) de cette loi, et dont le taux de solde annuel est supérieur à celui fixé par les règlements pris au titre de l’alinéa 50.1(1)a) de cette loi ou au taux annuel qui peut être établi sous leur régime;
+	- **b)** celles qui, à compter de cette date, sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), à la Caisse de retraite des Forces canadiennes au sens du paragraphe 2(1) de cette loi ou au fonds constitué par règlement pris au titre de l’article 59.1 de cette loi, et dont le taux de solde annuel est supérieur à celui fixé par les règlements pris au titre de l’alinéa 50(1)g) de cette loi ou au taux annuel qui peut être établi sous leur régime;
 	- **c)** celles qui, à compter de cette date, sont tenues de cotiser au compte de pension de retraite mentionné à l’article 4 de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md) ou à la Caisse de retraite de la Gendarmerie royale du Canada au sens du paragraphe 3(1) de cette loi, et dont le taux de solde annuel est supérieur à celui fixé par les règlements pris au titre de l’alinéa 26.1(1)a) de cette loi ou au taux annuel qui peut être établi sous leur régime;
 	- **d)** celles qui sont ou ont été administrateurs généraux, ont à leur crédit en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) au moins dix ans de service ouvrant droit à pension et choisissent conformément aux règlements, avant de cesser d’être employées dans la fonction publique, d’être assujetties au régime ou à la convention;
 	- **e)** celles qui, avant l’entrée en vigueur de l’article 11 de la Loi modifiant certaines lois en matière de pensions et édictant la Loi sur les régimes de retraite particuliers et la Loi sur le partage des prestations de retraite, déposée au cours de la troisième session de la trente-quatrième législature, étaient réputées être employées dans la fonction publique aux termes de l’article 14 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), selon le libellé de cet article précédant son abrogation.
@@ -202,7 +202,7 @@ Sanctionnée sur le 16 décembre 1996
 **Définition de « administrateur général »**
 
 - **(4)** Au présent article, ***administrateur général*** s’entend de l’administrateur général d’un ministère, d’une personne ayant de plein droit le statut d’administrateur général et du président ou du premier dirigeant d’un secteur de la fonction publique, au sens de l’article 3 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), autre qu’un ministère.
-> 1992, ch. 46, ann. I, art. 11; 2002, ch. 17, art. 29; 2003, ch. 22, art. 225(A).
+> 1992, ch. 46, ann. I, art. 11; 2002, ch. 17, art. 29; 2003, ch. 22, art. 225(A), ch. 26, art. 66.
 
 
 
