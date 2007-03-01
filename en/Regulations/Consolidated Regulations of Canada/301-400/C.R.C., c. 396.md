@@ -30,22 +30,50 @@ Enabling authorities:
 
 ***Minister*** means the Minister of National Defence. (*ministre*)
 
+***past earnings election***, in relation to a period of pensionable service of a contributor who is a former participant under subsection 4(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), means an election made under subsection 11(1) of those Regulations to count as pensionable earnings those past earnings that relate to that period. (*choix visant les gains antérieurs*)
+> SOR/2007-33, s. 1.
+
+
 
 
 **3** 
 
-- **(1)** For the purposes of the definition ***intermediate engagement*** in subsection 2(1) of the Act, the duration of the fixed period of service of a member of the regular force shall be 25 years continuous service commencing on the date on which the member was transferred to, enrolled in or re-enrolled in the regular force.
+- **(1)** Days of Canadian Forces service are
+	- **(a)** in the regular force, days of service for which pay was authorized to be paid and days of leave for maternity or parental purposes granted under the Queen’s Regulations and Orders for the Canadian Forces; and
+	- **(b)** in the reserve force,
+		- **(i)** days of service for which pay was authorized to be paid except that any day of service for which pay was authorized to be paid for a period of duty or training of less than six hours is considered to be 1/2 of a day,
+		- **(ii)** in the proportion determined under subsection (3), days in a period of exemption or leave referred to in paragraph 2(b) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), and
+		- **(iii)** in the proportion of 1/4 of a day for each day, days in a period before April 1, 1999, if the records of the Canadian Forces or the Department of National Defence permit the verification of the duration of the period but not the number of days of service for which pay was authorized to be paid.
 
-- **(2)** The duration of that period shall be 20 years continuous service commencing when the member was transferred to, enrolled in or re-enrolled in the regular force if the member had completed such a period of service before April 1, 2005, or was serving on such a period of service on that date.
+- **(2)** Each day of service for which pay was authorized to be paid during which the contributor served on Reserve Service within the meaning of article 9.06 of the Queen’s Regulations and Orders for the Canadian Forces and each day of any similar service shall count as 1 2/5 days of Canadian Forces service.
 
-- **(3)** The duration of that period shall be 25 years if, on April 1, 2005, the member was serving on a 20-year continuous period of service commencing when the member was transferred to, enrolled in or re-enrolled in the regular force and the member agrees in writing before the end of that period of service to extend it for an additional five years.
-> SOR/78-197, s. 1; SOR/88-172, s. 1; SOR/2005–75, s. 1.
+- **(3)** The proportion referred to in subparagraph (1)(b)(ii) shall be determined by the formula
+```
+A/B
+```
+where
+- **A** is the number of the contributor’s days of Canadian Forces service in the 364 days before the period; and
+- **B** is the number of days in the 364 days during which the contributor was a member of the Canadian Forces.
+
+- **(4)** Any total number of days of Canadian Forces service that includes a fraction shall be rounded to the next higher multiple of a day.
+> SOR/78-197, s. 1; SOR/88-172, s. 1; SOR/2005–75, s. 1; SOR/2007-33, s. 2.
 
 
 
 
-**4** For the purposes of the definition ***short engagement*** in subsection 2(1) of the Act, the duration of service shall be continuous service as a commissioned officer in the regular force for a period not exceeding nine years.
-> SOR/2001-76, s. 1.
+**3.1** For the purposes of paragraph 16(1)(a) of the Act, a contributor is considered to have not less than 25 years of Canadian Forces service if they have completed not less than 9,131 days of Canadian Forces service.
+> SOR/2007-33, s. 2.
+
+
+
+
+**4** For the purposes of subsection 16(2) of the Act, the number of years of Canadian Forces service that is greater than the minimum number of 25 years
+- **(a)** in the case of an officer of the rank of colonel and above,
+	- **(i)** from March 1, 2007 until December 31, 2007 is 28 and, for those purposes, 10,227 days of Canadian Forces service is considered to equal 28 years,
+	- **(ii)** from January 1, 2008 until December 31, 2008 is 27 and, for those purposes, 9,861 days of Canadian Forces service is considered to equal 27 years, and
+	- **(iii)** from January 1, 2009 until December 31, 2009 is 26 and, for those purposes, 9,496 days of Canadian Forces service is considered to equal 26 years; and
+- **(b)** in the case of any other officer, from March 1, 2007 until December 31, 2007 is 26 and, for those purposes, 9,496 days of Canadian Forces service is considered to equal 26 years.
+> SOR/2001-76, s. 1; SOR/2007-33, s. 2.
 
 
 
@@ -87,6 +115,64 @@ Enabling authorities:
 - **(a)** in the opinion of the Minister, hostilities were real or apprehended; and
 - **(b)** a unit or other element of the Canadian Forces in the area was on active service.
 > SOR/92-717, s. 10.
+
+
+
+
+
+## Contributor — Reserve Force Member
+
+
+**8.1** 
+
+- **(1)** Despite subsection 41(3) of the Act, a member of the reserve force is considered to be a member of the regular force for the purposes of Part I of the Act, except for paragraph 16(2)(a), and these Regulations
+	- **(a)** on March 1, 2007 if, on that date,
+		- **(i)** the member’s total number of days of Canadian Forces service during any period of 60 months beginning on or after April 1, 1999 was no less than 1,674,
+		- **(ii)** the member already was or became a member of the Canadian Forces during the first month of the period and remained a member of the Canadian Forces throughout the period without any interruption of more than 60 days,
+		- **(iii)** the member is not a person required to contribute to the Public Service Pension Fund or the Royal Canadian Mounted Police Pension Fund, and
+		- **(iv)** the member does not have any pensionable service to their credit under Part I of the Act;
+	- **(b)** on the first day of the month in which the member would, despite subsection 4(4) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), have become a participant in accordance with subsection 4(2) of those Regulations if the member is a person in respect of whom the payment of a transfer value has been effected under subsection 22(2) of the Act;
+	- **(c)** subject to subsection (3), on the day on which they become entitled to receive salary as a member of the reserve force if the member is a contributor who is entitled to a deferred annuity or is in receipt of an annuity or annual allowance under Part I of the Act; or
+	- **(d)** in any other case, on the first day of the month following a period of 60 months ending after March 1, 2007 if
+		- **(i)** the member’s total number of days of Canadian Forces service during the period was no less than 1,674,
+		- **(ii)** the member already was or became a member of the Canadian Forces during the first month of the period and remained a member of the Canadian Forces throughout the period without any interruption of more than 60 days, and
+		- **(iii)** the member does not have any pensionable service to their credit under Part I of the Act.
+
+- **(2)** If the member is a person who is required to contribute to the Public Service Pension Fund or the Royal Canadian Mounted Police Pension Fund
+	- **(a)** on March 1, 2007, then the reference in paragraph (1)(a) to “March 1, 2007” is to be read as a reference to the first day after the member ceases to contribute to the fund;
+	- **(b)** on the first day of the month referred to in paragraph (1)(b) or (d), then that first day is the first day of the first month after the member ceases to contribute to the fund; and
+	- **(c)** on the day referred to in paragraph (1)(c), then that day is the first day after the member ceases to contribute to the fund.
+
+- **(3)** A member of the reserve force who is in receipt of an annuity or annual allowance under Part I of the Act and who was a member of the regular force, other than by operation of this section, on the day on which they most recently ceased to contribute to the Canadian Forces Pension Fund or Superannuation Account is considered to be a member of the regular force for the purposes of Part I of the Act and these Regulations commencing on the earlier of
+	- **(a)** the day after the day on which the member completes one year of continuous full-time service in the reserve force, and
+	- **(b)** the day after the day on which the member exercises an early contribution option.
+> SOR/2007-33, s. 3.
+
+
+
+
+**8.2** A member is entitled to exercise an early contribution option
+- **(a)** no earlier than the first day in respect of which they were entitled to receive salary as a member of the reserve force while in receipt of the annuity or annual allowance; and
+- **(b)** no later than the last day of the twelfth month after the month in which they were last entitled to receive salary as a member of the reserve force.
+> SOR/2007-33, s. 3.
+
+
+
+
+**8.3** A contributor who is a member of the reserve force ceases to be considered to be a member of the regular force for the purposes of Part I of the Act and these Regulations on the earlier of
+- **(a)** the day on which the contributor ceases to be a member of the Canadian Forces, and
+- **(b)** the last day of a period of 12 months in respect of which they were not entitled to receive salary.
+> SOR/2007-33, s. 3.
+
+
+
+
+**8.4** In respect of a member who is described in subsection 8.1(3) of these Regulations, subsections 41(4) and (5) of the Act are adapted as follows:
+
+- **(4)** A member who is described in subsection 8.1(3) of the Canadian Forces Superannuation Regulations may, within the period set out in clauses 6(b)(ii)(G) and (H) as adapted by subsection 12.2(2) of those Regulations, and in the manner prescribed by those Regulations, elect to repay the amount of annuity or annual allowance, referred to in subsection 8.1(3), that the member has received.
+
+- **(5)** The member making the election under subsection (4) shall pay into the Canadian Forces Pension Fund, at the time and in the manner prescribed by the Regulations, an amount equal to the amount of the annuity or annual allowance multiplied by the member’s number of days of Canadian Forces service while in receipt of the annuity or annual allowance, divided by 365.
+> SOR/2007-33, s. 3.
 
 
 
@@ -144,6 +230,22 @@ Enabling authorities:
 
 
 
+### Former Participants Under the Reserve Force Pension Plan Regulations
+
+
+**10.2** Any period of pensionable service to the member’s credit under section 34 of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) on the day before the day on which the member becomes a contributor is counted as a period of pensionable service to the contributor’s credit for the purposes of Part I of the Act.
+> SOR/2007-33, s. 4.
+
+
+
+
+**10.3** A member who has made a past earnings election, and is still paying in respect of the election by way of instalments on the day before the day on which the member becomes a contributor, is required to pay into the Canadian Forces Pension Fund, by instalments reserved from pay and allowances or otherwise, amounts equal to the unpaid instalments on the same terms and conditions as set out in sections 18 to 23 of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) as those that would apply to a participant under those Regulations in respect of a past earnings election.
+> SOR/2007-33, s. 4.
+
+
+
+
+
 ### Service Without Pay
 
 
@@ -169,7 +271,9 @@ whether or not he was a contributor during that service and whether or not the s
 	- **(a)** any portion of a period of service that exceeds 60 days in duration in respect of which a deduction or forfeiture described in paragraph (1)(a), (b) or (c) has been imposed; or
 	- **(b)** any service in respect of which an election has been made under subsection (2.1).
 
-- **(4)** During a period of service of a contributor countable as pensionable service under subsection (1), (2) or (2.1), the contributor shall, for the purposes of the Act, be deemed to have been authorized to be paid and to have received pay during that period at the rate of pay authorized for the rank held by the contributor at the commencement of the period.
+- **(4)** During a period of service of a contributor, other than a member of the reserve force, that is countable as pensionable service under subsection (1), (2) or (2.1), the contributor is, for the purposes of the Act, deemed to have been authorized to be paid and to have received pay during that period at the rate of pay authorized for the rank held by the contributor at the commencement of the period.
+
+- **(4.1)** During a period of service of a contributor, who is a member of the reserve force, that is countable as pensionable service under subsection (2) or (2.1), if the contributor is exempted from training and duty under article 9.09 or 9.10 or is granted leave for maternity or parental purposes under article 16.26 or 16.27 of the Queen’s Regulations and Orders for the Canadian Forces, the contributor is, for the purposes of the Act, deemed to have been authorized to be paid and to have received pay during each week for which the contributor is exempted or granted leave, equal to the weekly rate of pay calculated in accordance with instruction 205.461(7) of the Compensation and Benefits Instructions for the Canadian Forces established under section 35 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 - **(5)** The contributions required to be paid by a contributor for a period of pensionable service described in subsection (2) or (2.1) shall be paid
 	- **(a)** by reservation in approximately equal instalments from the contributor’s pay for a period equal to the period of service without pay, commencing on the later of
@@ -198,7 +302,7 @@ whether or not he was a contributor during that service and whether or not the s
 	- **(b)** in any other case,
 		- **(i)** the amount that the contributor would have been required to contribute if the rate of pay for that period of service had been the rate of pay in effect at the time of the election under clause 6(b)(ii)(L) of the Act, and
 		- **(ii)** interest within the meaning of subsection 7(2) of the Act.
-> SOR/92-717, s. 10; SOR/95-569, s. 1; SOR/95-570, s. 11(F).
+> SOR/92-717, s. 10; SOR/95-569, s. 1; SOR/95-570, s. 11(F); SOR/2007-33, s. 5.
 
 
 
@@ -253,6 +357,54 @@ shall be recovered in a manner set out for the recovery of unpaid instalments in
 
 
 
+### Election for Reserve Force Service
+
+
+**12.2** 
+
+- **(1)** For the purposes of this section and subsection 12.4(2), reserve force service is service in the reserve force
+	- **(a)** during which the contributor was not required to contribute to the Canadian Forces Pension Fund;
+	- **(b)** during which the contributor was not a participant under the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), other than any period in the reserve force in respect of which the contributor was entitled to a return of contributions within the meaning of section 38 of those Regulations;
+	- **(c)** that the contributor is not counting as pensionable service for the purposes of, or in respect of which the payment of a transfer value or a commuted value has not been effected under, the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) or the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md); and
+	- **(d)** in respect of which the contributor has not, under section 12.3 of these Regulations or subsection 14(1) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), lost the right to make an election.
+
+- **(2)** In respect of a member, or former member, of the reserve force who becomes a contributor on or after March 1, 2007, clauses 6(b)(ii)(G) and (H) of the Act are adapted as follows:
+
+	- **(G)** any period of reserve force service, as prescribed in subsection 12.2(1) of the Canadian Forces Superannuation Regulations, if — during the period commencing on the day on which they become a contributor and ending the day before the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010 — the contributor elects to pay for that service,
+
+
+
+- **(3)** The election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection (2), is for all of the contributor’s reserve force service. However, there shall be counted as pensionable service only the most recent years that would result in not more than 35 years of pensionable service to the contributor’s credit.
+> SOR/2007-33, s. 6.
+
+
+
+
+**12.3** Clause 6(b)(ii)(K) of the Act is applicable, in respect of the election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) of these Regulations, only to the extent that, if the contributor ceases to contribute to the Canadian Forces Pension Fund before the expiry of the year referred to in those clauses, the contributor is deemed not to have been advised of the entitlement to make the election for reserve force service and may make it after again becoming a contributor and no later than the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010.
+> SOR/2007-33, s. 6.
+
+
+
+
+**12.4** 
+
+- **(1)** In respect of a contributor who makes an election for reserve force service under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) of these Regulations, paragraphs 7(1)(g) and (h) of the Act are adapted as follows:
+
+- **(g)** in respect of any period specified in clauses 6(b)(ii)(G) and (H), as adapted by subsection 12.2(2) of the Canadian Forces Superannuation Regulations, the full amount calculated under that subsection or a lesser amount for which the contributor opts at the time of making the election;
+
+
+
+- **(2)** The full amount referred to in paragraphs 7(1)(g) and (h) of the Act, as adapted by subsection (1), is the total of the following amounts:
+	- **(a)** the full amount, under subsection 15(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), of a past earnings election made under those Regulations, as if it had been made on the day of the election for reserve force service, calculated as if the contributor were a participant under the terms of those Regulations, and their past earnings, determined under the terms of those Regulations, were the past earnings that relate to the periods included in the contributor’s reserve force service; and
+	- **(b)** the full amount of a top-up election made on the day of the election for reserve force service, using the formula in paragraph 14.6(3)(b) as if the value of E were equal to one and as if the reserve force service had become pensionable service to the contributor’s credit under the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) as a result of the past earnings election.
+
+- **(3)** The contributor may not modify the amount for which the contributor has opted.
+> SOR/2007-33, s. 6.
+
+
+
+
+
 ### Revocation of Election
 
 
@@ -291,13 +443,13 @@ provided that, where part of a period of service is revoked, only that part that
 
 **14** 
 
-- **(1)** Where, pursuant to paragraph 9(1)(b) of the Act, a contributor has exercised his option to pay in instalments for pensionable service, those payments shall be made by reservation from pay and allowances or otherwise, for life or for a period of years not greater than for life, and shall be payable in the following manner:
-	- **(a)** the first instalment shall be due and payable on the first day of the month immediately following the month of election and succeeding instalments monthly thereafter during the term corresponding to the plan of payment selected by the contributor, computed in accordance with Canadian Life Table No. 2 (1941), Males four per cent or Females four per cent, as the case may be; and
-	- **(b)** he may amend his plan of payment to provide for payment of the instalments still to be paid in a lump sum or by larger monthly instalments on a basis similar to that described in paragraph (a) calculated as of the date of the amendment.
+- **(1)** If, under paragraph 9(1)(b) of the Act, a contributor — other than a contributor who is a member of the reserve force or, in respect of a top-up election under section 14.2, a contributor who was a member of the reserve force — has exercised an option to pay in instalments for pensionable service, those payments shall be made by reservation from pay and allowances or otherwise, for life or for a period of years not greater than for life, and are payable in the following manner:
+	- **(a)** the first instalment is due and payable on the first day of the month immediately following the month of election and succeeding instalments monthly after that time during the term corresponding to the plan of payment selected by the contributor, computed in accordance with Canadian Life Table No. 2 (1941), Males four per cent or Females four per cent, as the case may be; and
+	- **(b)** the contributor may amend the plan of payment to provide for payment of the instalments still to be paid in a lump sum or by larger monthly instalments on a basis similar to that described in paragraph (a), calculated as of the date of the amendment.
 
-- **(2)** Where a contributor originally exercised his option to pay in one lump sum and subsequent to his election the total amount to be paid in respect of the service for which the contributor elected to pay is verified as a greater amount than that on which the original lump sum payment was based, he shall pay the difference either in one lump sum or by instalments, at his option, on a basis similar to that described in subsection (1).
+- **(2)** If a contributor — other than a contributor who is a member of the reserve force or, in respect of a top-up election under section 14.2, a contributor who was a member of the reserve force — originally exercised an option to pay in one lump sum, and subsequently the total amount to be paid in respect of the service for which the contributor elected to pay is verified as a greater amount than that on which the original lump sum payment was based, the contributor shall pay the difference either in one lump sum or by instalments, at the contributor’s option, on a basis similar to that described in subsection (1).
 
-- **(3)** Where a contributor originally exercised his option to pay by instalments and subsequent to his election the total amount to be paid in respect of the service for which the contributor has elected to pay is verified as a greater or lesser amount than that on which his original instalments were based, the monthly instalment under subsection (1) shall be increased or decreased in accordance with the verified amount, but such instalment shall not be decreased by more than five per cent of the original monthly instalment.
+- **(3)** If a contributor — other than a contributor who is a member of the reserve force or, in respect of a top-up election under section 14.2, a contributor who was a member of the reserve force — originally exercised an option to pay by instalments, and subsequently the total amount to be paid in respect of the service for which the contributor has elected to pay is verified as a greater or lesser amount than that on which the original instalments were based, the monthly instalment under subsection (1) shall be increased or decreased in accordance with the verified amount, but the instalment shall not be decreased by more than 5% of the original monthly instalment.
 
 - **(4)** Where a contributor originally exercised his option to pay by instalments for a period of years less than for life and undue financial hardship, which was unforeseen by him at the date of his election, may be caused to him if he is required to continue to pay those instalments, upon the application of that contributor the amount of the monthly instalment may be reduced to an appropriate lesser amount as approved by the Minister on a basis similar to that described in subsection (1), calculated as of the first day of the month following such approval, and every such application shall be made on Form CFSA 105 (Application for Reduction of Instalments), but such application shall be void unless the contributor has passed a medical examination similar to that described in section 10, within the period of 90 days before or after the date of the application or within such other period as the Minister may prescribe.
 
@@ -316,7 +468,109 @@ at his option; and
 - **(7)** For the purpose of subsection 9(4) of the Act, where at the death of a contributor any amount payable by him into the Superannuation Account is due and payable but remains unpaid, the amount payable, with interest at four per cent per annum from the time it became due to the time of his death, shall be recovered from any allowance payable to the survivor or children as follows:
 	- **(a)** in a lump sum from a cash termination allowance; or
 	- **(b)** by monthly instalments from an annual allowance in an amount equal to 10 per cent of the net monthly allowance, but in any such case payment may be made by or on behalf of the survivor or children that will liquidate the amount at an earlier date.
-> SOR/92-717, s. 10; SOR/95-570, s. 10(F); SOR/2001-76, s. 9.
+> SOR/92-717, s. 10; SOR/95-570, s. 10(F); SOR/2001-76, s. 9; SOR/2007-33, s. 7.
+
+
+
+
+**14.1** In respect of a member of the reserve force who is a contributor and who makes an election under any of clauses 6(b)(ii)(A) to (F) and (I) to (L) of the Act and 6(b)(ii)(G) and (H) of the Act as adapted by subsection 12.2(2) of these Regulations, or a member or former member of the reserve force who makes a top-up election under section 14.2 of these Regulations, subsection 9(1) of the Act is adapted as follows:
+**9** 
+
+- **(1)** Any amount required to be paid by a contributor who makes an election under any of clauses 6(b)(ii)(A) to (F) and (I) to (L) and 6(b)(ii)(G) and (H) as adapted by subsection 12.2(2) of the Canadian Forces Superannuation Regulations or a member or former member of the reserve force who makes a top-up election under section 14.2 of those Regulations shall be paid on the same terms and conditions as set out in sections 16 to 21 of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) as those that would apply to a participant in respect of a past earnings election under those Regulations and section 23 of those Regulations applies to any member or former member of the reserve force, who was in receipt of an annuity or annual allowance, in respect of any instalments resulting from a top-up election as if that member or former member had been a participant under those Regulations.
+
+
+> SOR/2007-33, s. 8.
+
+
+
+
+
+### Top-up Election for Contributions Paid Under the Reserve Force Pension Plan Regulations
+
+
+**14.2** A contributor is entitled to make a top-up election, once only, to contribute an additional amount in respect of all of the pensionable service that was counted to the contributor’s credit
+- **(a)** under section 10.2, other than pensionable service described in paragraph (b); and
+- **(b)** under section 10.2 that had been counted to their credit as a result of a past earnings election.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.3** A contributor may make the top-up election commencing on the day in respect of which they are entitled to receive pay.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.4** The contributor shall make the top-up election before the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.5** 
+
+- **(1)** A contributor who has not exercised the entitlement to make a top-up election before the expiry of the period to exercise it, loses it.
+
+- **(2)** The entitlement is not lost, and the contributor is deemed not to have been advised of it, if the contributor ceased to be a member of the regular force before the expiry of the period.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.6** 
+
+- **(1)** For the purposes of this section, “former earnings”, in respect of a period of pensionable service of a contributor who was a participant under subsection 4(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), means the earnings that remained to their credit as pensionable earnings on the day before they became a member of the regular force, other than earnings that came to their credit as a result of a past earnings election, less any portion of those earnings that relates to earned premiums in lieu of leave, plus the allowance calculated in respect of that period in accordance with section 9.
+
+- **(2)** A contributor who makes a top-up election shall pay the full amount or a lesser amount for which the contributor opts at the time of making the election.
+
+- **(3)** The full amount is
+	- **(a)** in respect of pensionable service described in paragraph 14.2(a), the total of amounts determined for each calendar year by the formula
+```
+B - A
+```
+where
+- **A** is the amount that the contributor was required to contribute as a participant under the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) on their earnings, for that calendar year, that remained to their credit as pensionable earnings for the purposes of those Regulations on the day before the contributor became a member of the regular force, other than earnings that came to their credit as a result of a past earnings election,
+- **B** is the amount that the contributor would have been required to contribute under section 5 of the Act in that calendar year had they been required to so contribute on an amount of salary equal to their former earnings for that calendar year; and
+	- **(b)** in respect of pensionable service described in paragraph 14.2(b), the total of amounts determined for each calendar year by the formula
+```
+(D - C) × E
+```
+where
+- **C** is the portion of the full amount, excluding interest, determined for that calendar year by the formula in subsection 15(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) for the purposes of the past earnings election referred to in paragraph 14.2(b) of these Regulations,
+- **D** is the greater of the value of C and the amount that the contributor would have been required to contribute under subsection 5(1.01) of the Act on an amount of salary for the year of the past earnings election equal to the amount that would be determined as their updated past earnings for that calendar year for the purposes of the past earnings election, if the amount of their past earnings for that calendar year were adjusted by subtracting the amount of any earned premiums in lieu of leave and adding the amount of any allowances calculated in respect of that calendar year in accordance with section 9, and
+- **E** is the proportion referred to in subsection 26(1) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) in relation to the past earnings election that was made.
+
+- **(4)** The contributor may not modify the amount for which the contributor has opted.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.7** Section 9 of the Act applies to a top-up election made under section 14.2 as if any amount to be paid in respect of the election were an amount required under subsection 7(1) of the Act to be paid by the contributor in respect of a period of service for which the contributor has elected to pay.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.8** At the request of a contributor, they are deemed to have opted, at the time of making the top-up election, for the total of the amounts received by the Minister as of the date of the request, if
+- **(a)** they establish that undue financial hardship that was unforeseen at the time the election was made will be caused if they are required to continue to pay the instalments; or
+- **(b)** at the commencement date of an annuity or annual allowance, the instalments are greater than the increase in the monthly amount of the benefits payable that results from the election.
+> SOR/2007-33, s. 8.
+
+
+
+
+**14.9** 
+
+- **(1)** A top-up election is deemed not to have been made
+	- **(a)** in the case of an election in respect of a period after December 31, 1989, if the Minister of National Revenue refuses to issue a certification under paragraph 147.1(10)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+	- **(b)** at the request of the contributor who made the election if they received erroneous or misleading information in writing as to the amount to be paid or the consequences of the election on their benefits, by a member of the Canadian Forces or a person employed in the public service who normally gives information as to those matters, and, in making the election, they honestly acted on that information.
+
+- **(2)** The Minister shall refund any payments received from a plan, fund or institution of a type referred to in subsection 22(2) of the Act to a plan, fund or institution of the same type, at the direction of the contributor.
+
+- **(3)** Despite the expiry of the period to make the election, the contributor may make an election no later than 90 days after the date of the notice from the Minister informing the contributor of the refusal by the Minister of National Revenue. In the case of another refusal, the contributor may not make an election.
+> SOR/2007-33, s. 8.
 
 
 
@@ -342,33 +596,314 @@ at his option; and
 
 
 
-### Vested Right to Benefits After Completing Intermediate Engagement
+### Annuity for Certain Members
 
 
-**16** 
+**16** The following definitions apply in sections 16.1 and 16.2.
 
-- **(1)** Subject to subsection (2), the immediate annuity to which a contributor is entitled under section 20 of the Act shall be increased by an amount equal to the aggregate of
-	- **(a)** an amount obtained by multiplying
-		- **(i)** the number of years of service in the regular force to the credit of the contributor while on an indefinite period of service after completion of an intermediate engagement, divided by 50,
-by
-		- **(ii)** the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor or during any period so selected consisting of consecutive periods of pensionable service totalling five years, and
-	- **(b)** an amount equal to the amount by which
-		- **(i)** an annuity calculated by multiplying
-			- **(A)** the number of years of pensionable service to the credit of the contributor after having completed an intermediate engagement, divided by 50,by
-			- **(B)** the average annual pay received by the contributor during any five-year period of pensionable service, including service in the regular force to the credit of the contributor while on an indefinite period of service after completion of an intermediate engagement, selected by or on behalf of the contributor or during any period so selected consisting of consecutive periods of pensionable service totalling five years
-exceeds
-		- **(ii)** the annuity to which the contributor would have been entitled after having completed the intermediate engagement.
+***20-year intermediate engagement*** means a fixed period of 20 continuous years of service in the regular force commencing on the day on which the contributor was transferred to, enrolled in or re-enrolled in the regular force. (*engagement de durée intermédiaire de 20 ans*)
 
-- **(2)** The amount of the increase pursuant to subsection (1) shall, in the case of a contributor who is an officer, be reduced by five per cent of the aggregate of
-	- **(a)** the annuity to which the contributor would have been entitled under subsection 17(1) of the Act if he had ceased to be a member of the regular force in the circumstances described in that subsection, and
-	- **(b)** the amount of the increase determined in accordance with subsection (1),
-for each full year by which his age at the time of his retirement is less than the retirement age applicable to his rank, except that the amount of the increase shall not be reduced to an amount that is less than the amount determined in accordance with paragraph (1)(b).
+***25-year intermediate engagement*** means a fixed period of 25 continuous years of service in the regular force commencing on the day on which the contributor was transferred to, enrolled in or re-enrolled in the regular force. (*engagement de durée intermédiaire de 25 ans*)
 
-- **(3)** The amount of the increase pursuant to subsection (1) shall, in the case of a contributor other than an officer, be reduced by five per cent of the aggregate of
-	- **(a)** the annuity to which the contributor would have been entitled under subsection 17(1) of the Act if he had ceased to be a member of the regular force in the circumstances described in that subsection, and
-	- **(b)** the amount of the increase determined in accordance with subsection (1)
-for each full year by which his age at the time of his retirement is less than the retirement age applicable to his rank or for each full year by which his period of service in the regular force is less than 25 years, whichever is the lesser, except that the amount of the increase shall not be reduced to an amount that is less than the amount determined in accordance with paragraph (1)(b).
-> SOR/78-197, s. 2; SOR/80-123, s. 1; SOR/92-717, s. 10; SOR/99-340, s. 1.
+***retirement age***, as applied to any rank of contributor, means the age determined under chapter 15 of the Queen’s Regulations and Orders for the Canadian Forces as the retirement age applicable to that rank. (*âge de la retraite*)
+> SOR/78-197, s. 2; SOR/80-123, s. 1; SOR/92-717, s. 10; SOR/99-340, s. 1; SOR/2007-33, s. 9.
+
+
+
+
+**16.1** A contributor exercising the option referred to in subsection 19(1) of the Act is entitled to an immediate annuity if
+- **(a)** they have completed a 20-year intermediate engagement that commenced before March 1, 2007 and are not serving on an indefinite period of service;
+- **(b)** they have 10 or more years of regular force pensionable service and have reached retirement age;
+- **(c)** they are not an officer and have at least 25 years of regular force pensionable service; or
+- **(d)** they were a member of the regular force with 10 or more years of regular force pensionable service on March 1, 2007 and
+	- **(i)** they have at least 20 years of regular force pensionable service, unless
+		- **(A)** they have at any time served on a 25-year intermediate engagement and do not, at the time of ceasing to be a member of the regular force, have at least 25 years of regular force pensionable service,
+		- **(B)** they have at any time refused an offer of a 25-year intermediate engagement unless, at the time of the refusal, they were serving on a 20-year intermediate engagement that commenced before March 1, 2007 or had completed a 20-year intermediate engagement that commenced before March 1, 2007, or
+		- **(C)** at the time they cease to be a member of the regular force they are serving on an indefinite period of service, or
+	- **(ii)** they have at least 19 years of regular force pensionable service, they are not serving on an intermediate engagement or an engagement for an indefinite period of service in the regular force, they have not at any time received an offer of a 25-year intermediate engagement and they are
+		- **(A)** an officer who did not fail to accept an offer for an indefinite period of service in the regular force, or
+		- **(B)** a contributor, other than an officer, who ceases to be a member of the regular force on the expiry of a period of engagement and who did not fail to accept an offer to re-engage in the regular force.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.2** 
+
+- **(1)** A contributor described in clause 16.1(d)(i)(A) or (B) is entitled to an immediate annuity that is reduced
+	- **(a)** in the case of an officer, by 5% for every full year by which their years of age, on the day on which they cease to be a member of the regular force, are less than retirement age; and
+	- **(b)** in any other case, by 5% multiplied by the lesser of
+		- **(i)** the number of full years by which their years of age are less than retirement age, and
+		- **(ii)** the number of full years by which their years of regular force pensionable service are less than 25.
+
+- **(2)** A contributor described in clause 16.1(d)(i)(C) is entitled to an immediate annuity reduced in accordance with subsection (1), but, if the contributor completed a 20-year intermediate engagement that commenced before March 1, 2007, the amount of the annuity may not be less than an amount calculated as follows:
+```
+A/50 × B
+```
+where
+- **A** is the number of years of pensionable service to the contributor’s credit after having completed the 20-year intermediate engagement; and
+- **B** is the average annual pay received by the contributor during any five-year period of pensionable service selected by or on behalf of the contributor, or during any period so selected consisting of consecutive periods of pensionable service totalling five years.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.3** 
+
+- **(1)** A contributor exercising the option referred to in subsection 19(1) of the Act with 10 or more years of regular force pensionable service on March 1, 2007, who has served continuously as a member of the regular force from March 1, 2007 until the day on which they cease to be a member of the regular force and who has less than 20 years of regular force pensionable service, is entitled to an immediate annuity reduced in accordance with subsection (2) if they cease to be a member of the regular force by reason of a workforce reduction.
+
+- **(2)** The immediate annuity is to be reduced by the least of the following percentages:
+	- **(a)** 30%,
+	- **(b)** 5% for every full year by which the contributor’s full years of regular force pensionable service are less than 20, or
+	- **(c)** 5% for every full year by which the contributor’s years of age are less than the retirement age applicable to the contributor’s rank.
+
+- **(3)** The reduction is to cease when the contributor reaches 65 years of age.
+> SOR/2007-33, s. 9.
+
+
+
+
+
+### Annuity Calculation — Reserve Force Service
+
+
+**16.4** For the purposes of paragraph 15(1)(a) of the Act, in the case of a contributor who is or was a member of the reserve force,
+- **(a)** if the contributor’s pensionable service in a calendar year was service in the reserve force, and the contributor had no days of Canadian Forces service during that pensionable service, the amount of pay received by the contributor in respect of that service is deemed to be zero; and
+- **(b)** if the pensionable service of a contributor in a calendar year, other than pensionable service referred to in paragraph (a), includes a period during which the number of days of Canadian Forces service is less than the number of days of pensionable service, the amount of pay received by the contributor in respect of the pensionable service in that calendar year shall be calculated as follows:
+```
+A × B/(C + D)
+```
+where
+- **A** is the total amount of the pay received by the contributor for the portion of the calendar year that is pensionable service,
+- **B** is the number of days of pensionable service of the contributor in the portion of the calendar year that is pensionable service,
+- **C** is the number of days of Canadian Forces service of the contributor that are days of service in the reserve force in the portion of the calendar year that is pensionable service, calculated without reference to subsection 3(2), and
+- **D** is the number of days of regular force service in the calendar year that are days of pensionable service.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.5** If the pensionable service of a contributor in a calendar year includes a period that relates to earnings in respect of which a past earnings election has been made or is a period in respect of which the contributor has made an election under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2), the amount of pay received by the contributor in respect of that period, for the purpose of calculating the average annual pay referred to in paragraph 15(1)(a) of the Act, is the amount that would be calculated as the updated pensionable earnings of a participant under subsection 37(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) for the calendar year if
+- **(a)** the participant’s pensionable earnings for the calendar year was the contributor’s pay for that period; and
+- **(b)** the year that the participant most recently ceased to be a participant was the year in which the election is made, or 2007 if the contributor has remained a participant or a member of the regular force from March 1, 2007 to the day of the election.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.6** 
+
+- **(1)** In respect of a contributor who has been a member of the reserve force, the number of years of pensionable service referred to in subparagraph 15(1)(a)(i) or (b)(i), paragraph 15(2)(d) or subsection 25(1) of the Act shall be adjusted in accordance with subsection (2) in respect of any calendar year or portion of a calendar year of pensionable service that
+	- **(a)** came to the contributor’s credit by reason of a election for reserve force service under clauses 6(b)(ii)(G) and (H) of the Act as adapted by subsection 12.2(2) of these Regulations if the contributor opted for a lesser amount under paragraphs 7(1)(g) and (h) of the Act as adapted by subsection 12.4(1) of these Regulations;
+	- **(b)** came to the contributor’s credit under section 10.2, other than service described in paragraph (c), if the contributor did not make the top-up election or opted to pay a lesser amount on the date of the election;
+	- **(c)** came to the contributor’s credit by reason of a past earnings election if the contributor
+		- **(i)** opted at the time of making the election to pay a lesser amount,
+		- **(ii)** failed to make the top-up election under paragraph 14.2(b) in respect of that service, or
+		- **(iii)** made the top-up election but opted to pay a lesser amount under subsection 14.6(2);
+	- **(d)** is service in the reserve force during which the member was considered to be a member of the regular force by virtue of section 8.1;
+	- **(e)** came to the contributor’s credit by reason of a election for reserve force service under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2), if the contributor did not opt, at the time of the election, for a lesser amount;
+	- **(f)** came to the contributor’s credit by reason of a past earnings election if the contributor chose to pay the full amount at the time of the election and in respect of which the contributor later made the top-up election under paragraph 14.2(b) and paid the full amount; and
+	- **(g)** is referred to in paragraph 14.2(a) if the contributor made the top-up election and chose to pay the full amount.
+
+- **(2)** The adjustment shall be made by subtracting from the total number of years of pensionable service the total of the values determined by the following formula for each calendar year or portion of a calendar year of pensionable service:
+```
+A/365 × [1 - (B/A × C)]
+```
+where
+- **A** is the lesser of 365 and the number of days of pensionable service in the calendar year or portion of it;
+- **B** is the lesser of 365 and the number of days of Canadian Forces service completed by the contributor in the calendar year or portion of it;
+- **C** is
+- **(a)** in respect of pensionable service described in paragraph (1)(a), the ratio of the lesser amount to the full amount determined under subsection 12.4(2),
+- **(b)** in respect of pensionable service described in paragraph (1)(b), the value determined by the formula
+```
+(D + E)/(E + F)
+```
+where
+- **D** is
+- **(i)** where the top-up election was made, the value determined by the formula:
+```
+K × (L/M)
+```
+where:
+- **K** is the full amount that would have been calculated under paragraph 14.6(3)(a) in respect of a top-up election made on the first day on which that election could have been made,
+- **L** is the lesser amount for which the contributor opted under subsection 14.6(2), and
+- **M** is the full amount calculated under subsection 14.6(3),
+- **(ii)** otherwise, zero,
+- **E** is the total of the amounts determined to be the value of A in paragraph 14.6(3)(a) that would have been calculated in respect of a top-up election exercised on the first day on which the contributor would have been entitled to make the election, and
+- **F** is the full amount that would have been calculated under paragraph 14.6(3)(a) in respect of a top-up election made on the first day on which that election could have been made,
+- **(c)** in respect of pensionable service described in paragraph (1)(c), the value determined by the formula
+```
+G/H × (G + I)/(G + J)
+```
+where
+- **G** is, if the contributor opted for a lesser amount at the time of making the past earnings election, that amount, or otherwise the amount determined to be the value of H,
+- **H** is the full amount determined by the formula in subsection 15(2) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md),
+- **I** is
+- **(i)** where the top-up election was made and the contributor opted under subsection 14.6(2) for a lesser amount, the value determined by the formula
+```
+N × (O/P)
+```
+where
+- **N** is the full amount that would have been calculated under paragraph 14.6(3)(b) in respect of a top-up election made on the first day on which that election could have been made,
+- **O** is the lesser amount for which the contributor opted under subsection 14.6(2), and
+- **P** is the full amount calculated under subsection 14.6(3);
+- **(ii)** if the top-up election was not made, zero, or
+- **(iii)** otherwise, the amount calculated as the value of N in subparagraph (i), and
+- **J** is the full amount that would have been calculated under paragraph 14.6(3)(b) in respect of a top-up election made on the first day on which that election could have been made, and
+- **(d)** in respect of pensionable service described in paragraphs (1)(d) to (g), one.
+> SOR/2007-33, s. 9.
+
+
+
+
+
+### Adjustment — Previous Annual Allowance
+
+
+**16.7** 
+
+- **(1)** The adjustment referred to in subsections 18(4) and 21(2) of the Act shall be made by deducting from the amount of the annuity or annual allowance an amount determined in accordance with the formula
+```
+A × B
+```
+where
+- **A** is 5% of the annual allowance that the contributor was receiving before again becoming a member of the regular force or before becoming entitled to a disability pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a provincial pension plan; and
+- **B** is the lesser of
+- **(a)** the number of years, rounded to the nearest 1/10, during which the contributor received the annual allowance, and
+- **(b)** if the amount of the allowance was determined under
+- **(i)** subsection 18(2) of the Act, 60 minus the contributor’s age in years, rounded to the nearest 1/10, at the time at which the allowance is payable, or
+- **(ii)** subsection 18(3) of the Act, the lesser of
+- ** (A)** the number resulting from the calculation in subparagraph (i), and
+- ** (B)** the greater of the numbers calculated under subparagraphs 18(3)(b)(i) and (ii) of the Act in the determination of the original allowance.
+
+- **(2)** The amount to be deducted under subsection (1) shall not result in the contributor receiving less than the amount of the annual allowance that the contributor was receiving before the contributor again became a member of the regular force or before the contributor became entitled to the disability pension, less any amount that is deducted under subsection 15(2) of the Act.
+
+- **(3)** The amount to be deducted under subsection (1) shall not exceed the total amount that was received as an annual allowance by the contributor before the contributor again became a member of the regular force or became entitled to the disability pension.
+> SOR/2007-33, s. 9.
+
+
+
+
+
+### Transfer Value
+
+
+**16.8** A contributor who is described in subsection 22(1) of the Act and has not reached 50 years of age may opt for the payment of the transfer value referred to in that subsection.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.9** A contributor shall exercise the option for the payment of a transfer value no later than the later of one year after the day on which they cease to be a member of the regular force and March 1, 2008.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.91** The option is deemed not to have been exercised if, before the transfer value has been paid, the contributor again becomes a member of the regular force.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.92** The transfer value is an amount, together with interest calculated in accordance with section 16.98, equal to the greater of
+- **(a)** the actuarial present value, on the date of the option, of the accrued pension benefits that would be payable to or in respect of the contributor, and
+- **(b)** a return of contributions, calculated as of the date of the option as if the contributor had been entitled to a return of contributions on that date.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.93** 
+
+- **(1)** The calculation of the accrued pension benefits shall be based on the pensionable service to the contributor’s credit on the day after the day on which they cease to be a member of the regular force and the pensionable service shall include only the portion of the pensionable service that is subject to an election — other than a past earnings election or an election under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) — for which the contributor has paid or ought to have paid before the date of the option.
+
+- **(2)** For the purposes of the calculation of the accrued pension benefits, the calculation of the adjustment referred to in section 16.6 is subject to the following rules:
+	- **(a)** if the pensionable service to the contributor’s credit includes pensionable service that was subject to a past earnings election or an election under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2), the contributor is considered to have opted at the time of the election to pay a lesser amount corresponding to the payments in respect of the election that were made or ought to have been made on or before the date of the option for the payment of a transfer value;
+	- **(b)** if the contributor has made a top-up election under section 14.2, the contributor is considered to have opted at the time of the election to pay a lesser amount corresponding to the payments in respect of the top-up election that were made or ought to have been made on or before the date of the option for the payment of a transfer value; and
+	- **(c)** if the top-up election was made in respect of pensionable service that came to the contributor’s credit under a past earnings election, for the purposes of calculating the full amount referred to in paragraph 14.6(3)(b) in respect of the past earnings election, the proportion referred to in the description of E in that paragraph is calculated on the basis that the contributor opted for a lesser amount, at the time of the past earnings election, equal to the amount referred to in paragraph (a).
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.94** The calculation of the actuarial present value of the accrued pension benefits is subject to the following rules:
+- **(a)** the supplementary benefits are to be increased to take into account the period beginning on the later of January 1 of the year in which the option was exercised and the day on which the contributor ceased to be a member of the regular force and ending on the date of the option; and
+- **(b)** the possibility that the contributor may receive an annual allowance is to be excluded.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.95** 
+
+- **(1)** For the purposes of subsection (2), the actuarial valuation report is the actuarial valuation report most recently laid before Parliament, under section 56 of the Act, before the date of the option or, if that report was laid before Parliament in the month in which the option was exercised or in the preceding month, the preceding report that was laid before Parliament.
+
+- **(2)** In determining the actuarial present value of a contributor’s accrued pension benefits, the following actuarial assumptions are to be used:
+	- **(a)** the mortality rates for contributors and survivors are the mortality rates, including annual percentages of mortality reduction, used in the preparation of the actuarial valuation report;
+	- **(b)** the interest rates are the interest rates for fully indexed pensions — adjusted by the interest rates for unindexed pensions to take into account Part III of the Act — determined in accordance with the section entitled “Pension Commuted Values” of the Standards of Practice — Practice-Specific Standards for Pension Plans, published by the Canadian Institute of Actuaries, as amended from time to time;
+	- **(c)** the probability that a contributor will be survived by children is based on the rates regarding the average number, average age and eligibility status of children at the death of a contributor, used in the preparation of the actuarial valuation report;
+	- **(d)** the probability that a contributor will become entitled to an annuity under paragraph 16(1)(d) of the Act is based on the rates of termination owing to disability used in the preparation of the actuarial valuation report, taking into account the probability — as set out in that report — that there would be immediate eligibility for a disability pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a provincial pension plan; and
+	- **(e)** the probability that a contributor will have a survivor at death is based on the probability that a contributor will have a survivor at death and on the age difference between those persons that was used in the preparation of the actuarial valuation report.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.96** There shall be deducted from the amount of the transfer value
+- **(a)** contributions remaining unpaid in respect of pay that the contributor is deemed to have received under subsections 11(4) and (4.1); and
+- **(b)** arrears in respect of a past earnings election, an election made under section 6 of the Act or clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2), or a top-up election made under section 14.2.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.97** 
+
+- **(1)** A retirement savings plan prescribed for the purposes of section 26 of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) is prescribed as a kind of retirement savings plan or fund for the purposes of paragraph 22(2)(b) of the Act.
+
+- **(2)** A “deferred life annuity” and an “immediate life annuity," as defined in subsection 2(1) of the [Pension Benefits Standards Regulations, 1985](/en/Regulations/Statutory%20Orders%20and%20Regulations/87/19.md), are prescribed as a kind of deferred life annuity and a kind of immediate life annuity for the purposes of paragraph 22(2)(c) of the Act.
+
+- **(3)** Any portion of the transfer value, the payment of which is being effected by a transfer under subsection 22(2) of the Act, that is in excess of the amount that may be transferred in accordance with section 8517 of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md) shall be paid to the contributor.
+
+- **(4)** If the contributor is deceased, the following rules apply:
+	- **(a)** if the portion of the transfer value may still be transferred, any excess shall be paid to the survivor who would have been entitled to an annual allowance under subsection 25(1) of the Act had the option for the payment of a transfer value not been exercised; if there is no survivor it shall be paid to the contributor’s estate or succession or, if it is less than $1,000, to the former contributor’s next of kin; or
+	- **(b)** otherwise, the transfer value shall be paid to the survivor who would have been entitled to an annual allowance under subsection 25(1) of the Act had the option for the payment of a transfer value not been exercised; if there is no survivor it shall be paid to the former contributor’s estate or succession or, if it is less than $1,000, to the former contributor’s next of kin.
+
+- **(5)** If there are two survivors who would have been entitled to an annual allowance under subsection 25(1) of the Act, each survivor’s portion shall be determined in accordance with section 26.1 of the Act as if the reference to “total amount” in that section were a reference to “excess” or “transfer value”, as the case may be.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.98** 
+
+- **(1)** Interest shall be calculated, in accordance with the rate determined under subsections (2) and (3), and converted to an effective annual rate, for the period beginning on the date of the option and ending on the last day of the month before the month in which the transfer value is paid or, if the contributor has not yet given the direction referred to in subsection 22(2) of the Act, ending 90 days after the date of the option.
+
+- **(2)** The rate of interest is equal to the rate of return that existed in respect of the second quarter before the date of the option and set out in the table entitled “**Balanced**” on the line “**Mercer Median**” in the column entitled “**3 Months**” in the Summary of Investment Performance Survey of Canadian Institutional Pooled Funds, published by Mercer Investment Consulting, as amended from time to time.
+
+- **(3)** If the rate of return is negative, the rate of interest is 0.0%.
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.99** If a division of a contributor’s pension benefits is effected under the [Pension Benefits Division Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2046,%20Sch.%20II.md) before the day on which payment of a transfer value is effected, the transfer value shall be reduced to take into account the adjustment to the pension benefits made in accordance with section 21 of the [Pension Benefits Division Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/94/612.md).
+> SOR/2007-33, s. 9.
+
+
+
+
+**16.991** 
+
+- **(1)** A contributor may revoke an option for the payment of a transfer value if they establish that they were given erroneous or misleading information in writing, by a member of the Canadian Forces or a person employed in the public service who normally gives information regarding benefits under the Act, in respect of the amount, nature or type of benefit provided as a result of the exercise of an option for the payment of a transfer value or any other benefit to which the contributor might have become entitled had the option not been exercised, or in respect of the procedures to be followed to effect a valid exercise of the option.
+
+- **(2)** No option for the payment of a transfer value may be revoked unless
+	- **(a)** the contributor who was given the erroneous or misleading information applies to the Minister for a revocation within three months after the day on which they became aware that erroneous or misleading information was given to them;
+	- **(b)** the contributor establishes that they acted on the erroneous or misleading information, and would not otherwise have exercised the option;
+	- **(c)** the contributor repays any payment made to or in respect of them for the option within three months after being notified by the Minister of the amount to be repaid; and
+	- **(d)** the erroneous information that was given, was given in respect of the amount of any benefit under the Act, and the erroneous information was that the amount of a benefit to which the contributor would have been entitled was at least 5% different from the actual amount of that benefit.
+> SOR/2007-33, s. 9.
 
 
 
@@ -389,35 +924,15 @@ for each full year by which his age at the time of his retirement is less than t
 
 
 
-**18** 
-
-- **(1)** For the purpose of paragraph 25(4)(b) of the Act, ***full-time attendance at a school or university*** means full-time attendance at a school, college, university or other educational institution that provides training or instruction of an educational, professional, vocational or technical nature and a child shall be deemed to be or to have been in full-time attendance at a school or university substantially without interruption
-	- **(a)** during an absence by reason of a scholastic vacation,
-		- **(i)** if immediately after such vacation he begins or resumes full-time attendance at a school or university in the next ensuing academic year,
-		- **(ii)** where it is determined by the Chief of the Defence Staff that the child cannot comply with subparagraph (i) by reason of illness or any other cause that the Chief of the Defence Staff considers reasonable, if he begins or resumes full-time attendance at a school or university at any time during the academic year immediately following the scholastic vacation, or
-		- **(iii)** where it is determined by the Chief of the Defence Staff that the child cannot comply with subparagraph (ii) by reason of illness or any other cause, if he begins or resumes such full-time attendance at the first opportunity, as determined by the Chief of the Defence Staff, following the illness or other cause; and
-	- **(b)** during an absence occurring in an academic year by reason of illness or any other cause that the Chief of the Defence Staff considers reasonable, if immediately after such absence he begins or resumes full-time attendance at a school or university in that academic year or, where it is determined by the Chief of the Defence Staff that the child is unable to do so, if he begins or resumes such full-time attendance at the first opportunity, as determined by the Chief of the Defence Staff, following the illness or other cause that led to the absence.
-
-- **(2)** Where a child’s absence by reason of illness commences after he has begun an academic year and it is determined by the Chief of the Defence Staff, on evidence satisfactory to him, that by reason of such illness it is not possible for the child to resume full-time attendance at a school or university, that child shall, notwithstanding paragraph (1)(b), be deemed to have been in full-time attendance substantially without interruption at a school or university until the end of that academic year.
-
-- **(3)** Where the death of a child occurred while he was absent from school or university by reason of illness or any other cause that the Chief of the Defence Staff considers reasonable, that child shall, notwithstanding subsection (1), be deemed to have been in full-time attendance substantially without interruption at a school or university
-	- **(a)** until his death, where it occurred during the academic year in which his absence commenced; or
-	- **(b)** until the end of the academic year in which his absence commenced, where his death occurred after that academic year.
-
-- **(4)** Where a child ceases to be a child, as defined in paragraph 25(4)(b) of the Act, while he is absent
-	- **(a)** during an academic year by reason of illness or any other cause that the Chief of the Defence Staff considers reasonable, or
-	- **(b)** during a scholastic vacation,
-that child shall, notwithstanding subsection (1), be deemed to have been in full-time attendance at a school or university substantially without interruption until the end of the month in which he ceased to be a child if, immediately after such absence,
-	- **(c)** in the case of an absence referred to in paragraph (a), he begins or resumes such full-time attendance at a school or university in that academic year or where it is determined by the Chief of the Defence Staff that that child is unable to do so, he begins or resumes such full-time attendance in the next ensuing academic year; or
-	- **(d)** in the case of an absence referred to in paragraph (b), he begins or resumes such full-time attendance at a school or university in the next ensuing academic year.
-> SOR/92-717, s. 10.
+**18** For the purposes of paragraph 25(5)(b) of the Act, “full-time attendance at a school or university” means enrolment in and pursuance of a full-time course of training or instruction given by a school, college, university or other institution of an educational, professional or technical nature and, for these purposes, full-time attendance includes situations in which the child
+- **(a)** is again enrolled in and pursuing a full-time course of study, or dies, no later than the last day of the fifth month after the month in which the child ceased to be enrolled in and to pursue the full-time course of study; or
+- **(b)** is not again enrolled in and pursuing a full-time course of study within that period owing to their illness and is again enrolled in and pursuing a full-time course of study, or dies, no later than the last day of the twelfth month after the month in which the child ceased to be enrolled in and to pursue the full-time course of study.
+> SOR/92-717, s. 10; SOR/2007-33, s. 10.
 
 
 
 
-**19** There shall be submitted to the Chief of the Defence Staff in support of each claim that a child of 18 or more years of age
-- **(a)** is or has been enrolled in a course requiring full-time attendance substantially without interruption at a school or university, a declaration in a form satisfactory to the Chief of the Defence Staff and signed by a responsible officer of that school or university certifying to that enrolment; and
-- **(b)** is or has been for a period of time in full-time attendance at a school or university substantially without interruption, a declaration of that attendance in a form satisfactory to the Chief of the Defence Staff and signed by that child.
+**19** [Repealed, SOR/2007-33, s. 10]
 
 
 
@@ -497,10 +1012,10 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 
 **22.1** 
 
-- **(1)** A person shall make an election under subsection 41(4) of the Act by completing Form CFSA 100 and forwarding that form to the person’s commanding officer or to any other person designated by the Minister.
+- **(1)** [Repealed, SOR/2007-33, s. 11]
 
 - **(2)** A person who makes an election under subsection 41(4) of the Act shall pay the amount payable under that subsection in a lump sum within 30 days after receipt of notification from the Minister of the amount due.
-> SOR/95-570, s. 1; SOR/2001-76, s. 5(F).
+> SOR/95-570, s. 1; SOR/2001-76, s. 5(F); SOR/2007-33, s. 11.
 
 
 
@@ -546,6 +1061,45 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 	- **(i)** the theft or fraudulent obtaining of public or non-public funds by the former member, or
 	- **(ii)** an overpayment of pay and allowances that the former member fraudulently obtained or knowingly accepted.
 > SOR/92-717, s. 10.
+
+
+
+
+
+### Form and Manner of Certain Elections and Options
+
+
+**27.1** 
+
+- **(1)** When a contributor exercises an option under subsection 18(1) or 19(1) of the Act, section 67 of An Act to amend the Canadian Forces Superannuation Act and to make consequential amendments to other Acts, being chapter 26 of Statutes of Canada, 2003, or section 8.2 or 16.8 of these Regulations, or makes a top-up election under section 14.2 of these Regulations, it is valid only if it is
+	- **(a)** exercised or made in writing, and signed and dated by the contributor; and
+	- **(b)** sent to the Minister within one week after the date that it bears.
+
+- **(2)** The option is exercised and the election is made on the date that it bears, except that an option exercised under subsection 19(1) of the Act before or on the day on which the contributor ceases to be a member of the regular force is exercised on the day after the day on which the contributor ceases to be a member of the regular force.
+
+- **(3)** The date of the sending of the option or election is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed, and the date of the postmark is evidence of that day.
+
+- **(4)** An option under section 8.2 may be exercised, and a top-up election may be made, only while the contributor is a member of the regular force.
+> SOR/2007-33, s. 12.
+
+
+
+
+**27.2** In respect of a member of the reserve force who is a contributor and who makes an election under any of clauses 6(b)(ii)(A) to (F) and (I) to (L) of the Act and 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) of these Regulations, or under subsection 41(4) of the Act, subsection 8(1) of the Act is adapted as follows:
+**8** 
+
+- **(1)** When a contributor makes an election under any of clauses 6(b)(ii)(A) to (F) and (I) to (L) and 6(b)(ii)(G) and (H), as adapted by subsection 12.2(2) of the Canadian Forces Superannuation Regulations, or under subsection 41(4), it is valid only if it is
+	- **(a)** made in writing, and signed and dated by the contributor; and
+	- **(b)** sent to the Minister within one week after the date that it bears.
+
+- **(1.1)** The election is made on the date that it bears.
+
+- **(1.2)** The date of the sending of the election is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed, and the date of the postmark is evidence of that day.
+
+- **(1.3)** The election may be made only while the contributor is a member of the regular force.
+
+
+> SOR/2007-33, s. 12.
 
 
 
