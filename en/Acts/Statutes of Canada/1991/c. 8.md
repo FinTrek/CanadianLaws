@@ -313,8 +313,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-- **(3)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 131 to 148, does not apply to the Foundation.
-> 1991, c. 8, s. 17; 2003, c. 22, s. 224(E); 2005, c. 30, s. 45.
+- **(3)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 131 to 148 and 154.01, does not apply to the Foundation.
+> 1991, c. 8, s. 17; 2003, c. 22, s. 224(E); 2005, c. 30, s. 45; 2006, c. 9, s. 244.
 
 
 
