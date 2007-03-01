@@ -132,7 +132,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Canadian Forces Superannuation Act
 
 
-**66. to 68** [Amendments]
+**66** [Repealed, 2003, c. 26, s. 37]
+
+
+
+**67** [Amendment]
+
+
+
+**68** [Repealed, 2003, c. 26, s. 37]
 
 
 
