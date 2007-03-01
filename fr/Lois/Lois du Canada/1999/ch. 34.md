@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1999/c.%2034.md)
 
-# Loi sur l'Office d'investissement des régimes de pensions du secteur public
+# Loi sur l’Office d’investissement des régimes de pensions du secteur public
 
 **L.C. 1999, ch. 34**
 
@@ -81,12 +81,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
-- **(6)** Exception faite des articles 132 à 147, les dispositions de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office. Pour l’application de ces articles, toute mention de l’article 131 de cette loi vaut mention de l’article 35 de la présente loi.
+- **(6)** Exception faite des articles 132 à 147 et 154.01, les dispositions de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office. Pour l’application de ces articles, toute mention de l’article 131 de cette loi vaut mention de l’article 35 de la présente loi.
 
 **Rapports et examens spéciaux**
 
 - **(7)** Les rapports et renseignements concernant l’Office qui sont fournis au ministre au titre des articles 132 à 147 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) doivent l’être également au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile. Le ministre ne peut exiger un examen spécial au titre du paragraphe 138(2) de cette loi qu’après consultation de ceux-ci.
-> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50.
+> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50; 2006, ch. 9, art. 295.
 
 
 
@@ -905,7 +905,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modification de la Loi sur la pension de retraite des forces canadiennes
 
 
-**115 à 168** [Modifications]
+**115 à 117** [Modifications]
+
+
+
+**118** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé, 2003, ch. 26, art. 38]
+
+
+
+**119** [Modification]
+
+
+
+**120** 
+
+- **(1) et (2)** [Modifications]
+
+- **(3)** [Abrogé, 2003, ch. 26, art. 39]
+
+
+
+**121 à 127** [Modifications]
+
+
+
+**128 à 132** [Abrogés, 2003, ch. 26, art. 40]
+
+
+
+**133 à 168** [Modifications]
 
 
 
@@ -973,7 +1005,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#P-31.7_fr_1'>[*]</a></sup>**(3)** La définition de ***contributeur*** au paragraphe 53(2), les articles 55 à 60, les paragraphes 62(1) et (3), l’article 63, le paragraphe 64(4), les articles 67, 69, 73, 74, 78, 79, 85 et 86, les paragraphes 91(1), (2) et (6), 92(1) et 95(1), les articles 96, 107 à 110 et 114, le paragraphe 115(1), les articles 117 à 120, 125 et 127 à 129, les paragraphes 130(1) et (2), les articles 131, 132 et 134, le paragraphe 142(2), l’article 143, les paragraphes 146(1), 147(1) et 151(1), les articles 152, 154, 155, 157, 158 et 160, les paragraphes 161(1) et (4) et 162(1), les articles 163, 164 et 168, la définition de ***contributeur*** au paragraphe 169(1), les articles 171 à 174, le paragraphe 176(3), les articles 177 à 179, 182, 190 et 191, les paragraphes 193(1) et 194(1), l’article 195, le paragraphe 198(1), l’article 199, le paragraphe 201(1) et les articles 202, 203 et 227 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='P-31.7_fr_1'><sup>*</sup></a>: [Note : La définition de ***contributeur*** au paragraphe 3(1) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), édictée par le paragraphe 53(2), articles 55 à 60, paragraphes 62(1) et (3), article 63, paragraphe 64(4), articles 67, 69, 73, 74, 78, 79, 85 et 86, paragraphes 91(1), (2) et (6) et 92(1), articles 107 à 110, paragraphe 115(1), article 117, paragraphe 118(1), article 119, paragraphes 120(1) et (2), articles 127 et 134, paragraphe 142(2), article 143, paragraphes 146(1), 147(1) et 162(1), articles 163 et 164, la définition de ***contributeur*** au paragraphe 3(1) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), édictée par le paragraphe 169(1), article 171, paragraphe 172(1), article 173, paragraphe 174(1), articles 177, 182 et 190, paragraphes 193(1) et 194(1), article 195, paragraphe 201(1) et articles 202 et 203 en vigueur le 1<sup>er</sup> janvier 2000, paragraphe 95(1), article 96, paragraphe 151(1), article 152, paragraphe 198(1) et article 199 en vigueur le 1<sup>er</sup> avril 2000, articles 114 et 227 en vigueur le 1<sup>er</sup> octobre 2000, article 125 et paragraphe 176(3) en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/99-138; articles 178 et 179 en vigueur le 1<sup>er</sup> septembre 2003, *voir* TR/2003-145; divisions 6b)(ii)(M) et (N) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), édictées par le paragraphe 172(4) et paragraphe 174(2) en vigueur le 26 octobre 2006, *voir* TR/2006-116.]<br />
+<a name='P-31.7_fr_1'><sup>*</sup></a>: [Note : La définition de ***contributeur*** au paragraphe 3(1) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), édictée par le paragraphe 53(2), articles 55 à 60, paragraphes 62(1) et (3), article 63, paragraphe 64(4), articles 67, 69, 73, 74, 78, 79, 85 et 86, paragraphes 91(1), (2) et (6) et 92(1), articles 107 à 110, paragraphe 115(1), article 117, paragraphe 118(1), article 119, paragraphes 120(1) et (2), articles 127 et 134, paragraphe 142(2), article 143, paragraphes 146(1), 147(1) et 162(1), articles 163 et 164, la définition de ***contributeur*** au paragraphe 3(1) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), édictée par le paragraphe 169(1), article 171, paragraphe 172(1), article 173, paragraphe 174(1), articles 177, 182 et 190, paragraphes 193(1) et 194(1), article 195, paragraphe 201(1) et articles 202 et 203 en vigueur le 1<sup>er</sup> janvier 2000, paragraphe 95(1), article 96, paragraphe 151(1), article 152, paragraphe 198(1) et article 199 en vigueur le 1<sup>er</sup> avril 2000, articles 114 et 227 en vigueur le 1<sup>er</sup> octobre 2000, article 125 et paragraphe 176(3) en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/99-138; articles 178 et 179 en vigueur le 1<sup>er</sup> septembre 2003, *voir* TR/2003-145; divisions 6b)(ii)(M) et (N) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), édictées par le paragraphe 172(4) et paragraphe 174(2) en vigueur le 26 octobre 2006, *voir* TR/2006-116; article 154 en vigueur le 1<sup>er</sup> mars 2007, *voir* TR/2007-21.]<br />
 
 
 
