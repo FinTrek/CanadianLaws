@@ -85,12 +85,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 132 to 147, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
+- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 132 to 147 and 154.01, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
 
 **Reports and special examination**
 
 - **(7)** Any report or information in respect of the Board that is provided to the Minister under sections 132 to 147 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall also be provided to the Minister of National Defence and the Minister of Public Safety and Emergency Preparedness. The Minister may only require a special examination under subsection 138(2) of that Act if the Minister has consulted with those Ministers.
-> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50.
+> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295.
 
 
 
@@ -914,7 +914,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ## Amendments to the Canadian Forces Superannuation Act
 
 
-**115 to 168** [Amendments]
+**115 to 117** [Amendments]
+
+
+
+**118** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2003, c. 26, s. 38]
+
+
+
+**119** [Amendment]
+
+
+
+**120** 
+
+- **(1) and (2)** [Amendments]
+
+- **(3)** [Repealed, 2003, c. 26, s. 39]
+
+
+
+**121 to 127** [Amendments]
+
+
+
+**128 to 132** [Repealed, 2003, c. 26, s. 40]
+
+
+
+**133 to 168** [Amendments]
 
 
 
@@ -982,7 +1014,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#P-31.7_en_1'>[*]</a></sup>**(3)** The definition ***contributor*** in subsection 53(2), sections 55 to 60, subsections 62(1) and (3), section 63, subsection 64(4), sections 67, 69, 73, 74, 78, 79, 85 and 86, subsections 91(1), (2) and (6), 92(1) and 95(1), sections 96, 107 to 110 and 114, subsection 115(1), sections 117 to 120, 125 and sections 127 to 129, subsections 130(1) and (2), sections 131, 132 and 134, subsection 142(2), section 143, subsections 146(1), 147(1) and 151(1), sections 152, 154, 155, 157, 158 and 160, subsections 161(1) and (4) and 162(1), sections 163, 164 and 168, the definition ***contributor*** in subsection 169(1), sections 171 to 174, subsection 176(3), sections 177 to 179, 182, 190 and 191, subsections 193(1) and 194(1), section 195, subsection 198(1), section 199, subsection 201(1) and sections 202, 203 and 227 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-31.7_en_1'><sup>*</sup></a>: [Note: The definition ***contributor*** in subsection 3(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), as enacted by subsection 53(2), sections 55 to 60, subsections 62(1) and (3), section 63, subsection 64(4), sections 67, 69, 73, 74, 78, 79, 85 and 86, subsections 91(1), (2) and (6) and 92(1), sections 107 to 110, subsection 115(1), section 117, subsection 118(1), section 119, subsections 120(1) and (2), sections 127 and 134, subsection 142(2), section 143, subsections 146(1), 147(1) and 162(1), sections 163 and 164, the definition ***contributor*** in subsection 3(1) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), as enacted by subsection 169(1), section 171, subsection 172(1), section 173, subsection 174(1), sections 177, 182 and 190, subsections 193(1) and 194(1), section 195, subsection 201(1) and sections 202 and 203 in force January 1, 2000, subsection 95(1), section 96, subsection 151(1), section 152, subsection 198(1) and section 199 in force April 1, 2000, sections 114 and 227 in force October 1, 2000, section 125 and subsection 176(3) in force January 1, 2001, *see* SI/99-138; sections 178 and 179 in force September 1, 2003, *see* SI/2003-145; clauses 6b)(ii)(M) and (N) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), as enacted by subsection 172(4) and subsection 174(2) in force October 26, 2006, *see* SI/2006-116.]<br />
+<a name='P-31.7_en_1'><sup>*</sup></a>: [Note: The definition ***contributor*** in subsection 3(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), as enacted by subsection 53(2), sections 55 to 60, subsections 62(1) and (3), section 63, subsection 64(4), sections 67, 69, 73, 74, 78, 79, 85 and 86, subsections 91(1), (2) and (6) and 92(1), sections 107 to 110, subsection 115(1), section 117, subsection 118(1), section 119, subsections 120(1) and (2), sections 127 and 134, subsection 142(2), section 143, subsections 146(1), 147(1) and 162(1), sections 163 and 164, the definition ***contributor*** in subsection 3(1) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), as enacted by subsection 169(1), section 171, subsection 172(1), section 173, subsection 174(1), sections 177, 182 and 190, subsections 193(1) and 194(1), section 195, subsection 201(1) and sections 202 and 203 in force January 1, 2000, subsection 95(1), section 96, subsection 151(1), section 152, subsection 198(1) and section 199 in force April 1, 2000, sections 114 and 227 in force October 1, 2000, section 125 and subsection 176(3) in force January 1, 2001, *see* SI/99-138; sections 178 and 179 in force September 1, 2003, *see* SI/2003-145; clauses 6b)(ii)(M) and (N) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), as enacted by subsection 172(4) and subsection 174(2) in force October 26, 2006, *see* SI/2006-116; section 154 in force March 1, 2007, *see* SI/2007-21.]<br />
 
 
 
