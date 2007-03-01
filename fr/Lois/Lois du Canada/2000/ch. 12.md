@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2000/c.%2012.md)
 
-# Loi sur la modernisation de certains régimes d'avantages et d'obligations
+# Loi sur la modernisation de certains régimes d’avantages et d’obligations
 
 **L.C. 2000, ch. 12**
 
@@ -11,7 +11,7 @@ Sanctionnée sur le 29 juin 2000
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -132,7 +132,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Loi sur la pension de retraite des forces canadiennes
 
 
-**66. à 68** [Modifications]
+**66** [Abrogé, 2003, ch. 26, art. 37]
+
+
+
+**67** [Modification]
+
+
+
+**68** [Abrogé, 2003, ch. 26, art. 37]
 
 
 
