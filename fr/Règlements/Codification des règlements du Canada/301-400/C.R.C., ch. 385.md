@@ -1782,7 +1782,7 @@ Emploi à titre de juge nommé par le gouvernement du Canada.
 
 **3** *Province du Manitoba*
 
-(Aucune exception)
+Emploi à titre de membre de tout conseil, commission ou comité nommé par Sa Majesté du chef du Manitoba ou par un de ses mandataires, pour lequel le membre touche des honoraires.
 
 
 
@@ -2105,7 +2105,7 @@ L’emploi à titre de membre ou d’employé de n’importe lequel des organism
 
 
 
-> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3.
+> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3; DORS/2007-55, art. 1.
 
 
 
