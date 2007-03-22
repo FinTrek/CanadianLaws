@@ -1784,7 +1784,7 @@ Employment as a Judge appointed by the Government of Canada.
 
 **3** *Province of Manitoba*
 
-(No exceptions)
+Employment as members of boards, commissions or committees by appointment of Her Majesty in right of Manitoba or of an agent of Her Majesty in right of that province, who are paid a retainer, an honorarium or on a fee basis.
 
 
 
@@ -2107,7 +2107,7 @@ Employment as a member or an employee of any of the boards, commissions or commi
 
 
 
-> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3.
+> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3; SOR/2007-55, s. 1.
 
 
 
